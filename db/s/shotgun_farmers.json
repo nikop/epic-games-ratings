@@ -4,8 +4,8 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -638,7 +638,7 @@
       "ID": "ach_hit_player_with_bounce_grenade",
       "SetID": "bf10c8p",
       "Name": "Bouncemato",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -646,7 +646,7 @@
       "ID": "ach_kill_pistol_with_pistol",
       "SetID": "bf10c8p",
       "Name": "Quick-Draw Pod",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -662,7 +662,7 @@
       "ID": "ach_perfect",
       "SetID": "bf10c8p",
       "Name": "Perfect",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -718,7 +718,7 @@
       "ID": "ach_waves_1",
       "SetID": "bf10c8p",
       "Name": "Survivor",
-      "Percentage": 2,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -726,7 +726,7 @@
       "ID": "ach_waves_10",
       "SetID": "bf10c8p",
       "Name": "Early Survivor",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -766,7 +766,7 @@
       "ID": "ach_x_farmers_same_sniper",
       "SetID": "bf10c8p",
       "Name": "Aspairagus",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -782,7 +782,7 @@
       "ID": "ach_x_victims_holding_shovel",
       "SetID": "bf10c8p",
       "Name": "No Diggity",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -838,7 +838,7 @@
       "ID": "ach_x_victims_using_shovel",
       "SetID": "bf10c8p",
       "Name": "Grave Digger",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -846,7 +846,7 @@
       "ID": "ach_y_farmers_same_sniper",
       "SetID": "bf10c8p",
       "Name": "Quadsparagus",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 0
     }
@@ -869,8 +869,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-05-18T21:04:22.1472052+00:00",
+  "LastChanged_Achievements": "2023-05-18T22:03:49.2003448+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:14.3160105+00:00",
-  "LastUpdate_Ratings": "2023-05-18T20:58:46.5182375+00:00",
-  "LastUpdate_Achievements": "2023-05-18T21:04:22.1472883+00:00"
+  "LastUpdate_Ratings": "2023-05-18T21:58:34.2495373+00:00",
+  "LastUpdate_Achievements": "2023-05-18T22:03:49.2004174+00:00"
 }

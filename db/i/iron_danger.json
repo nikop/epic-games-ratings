@@ -3,9 +3,9 @@
   "Name": "Iron Danger",
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 231,
-  "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_Completed": 58,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
     "PcReleaseDate": "2020-03-25T00:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 167,
+  "EOS_Progressed": 168,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.4,
+  "EOS_Completed_Percentage": 2.38,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.5378411+00:00",
@@ -65,6 +65,11 @@
     {
       "Time": "2023-05-18T18:06:32.4119907+00:00",
       "NumProgressed": 167,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-18T22:06:35.3118197+00:00",
+      "NumProgressed": 168,
       "NumCompleted": 4
     }
   ],
@@ -141,7 +146,7 @@
       "Name": "Found the Healer",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_KEYU_EXTERMINATOR",
@@ -260,7 +265,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 167,
+      "Progressed": 168,
       "Completed": 4
     }
   ],
@@ -268,8 +273,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-05-18T21:07:04.4720337+00:00",
+  "LastChanged_Achievements": "2023-05-18T22:06:35.3118194+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:56.6904765+00:00",
-  "LastUpdate_Ratings": "2023-05-18T21:01:20.9164606+00:00",
-  "LastUpdate_Achievements": "2023-05-18T21:07:04.4720546+00:00"
+  "LastUpdate_Ratings": "2023-05-18T22:00:46.8514983+00:00",
+  "LastUpdate_Achievements": "2023-05-18T22:06:35.3118334+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -140,9 +140,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5771,
+  "EOS_Progressed": 5773,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1590,6 +1590,11 @@
       "Time": "2023-05-18T21:06:30.7089603+00:00",
       "NumProgressed": 5771,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-18T22:05:52.3409763+00:00",
+      "NumProgressed": 5773,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 21,
@@ -1601,7 +1606,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "ARRR",
@@ -1649,7 +1654,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -1705,7 +1710,7 @@
       "Name": "In a Pinch",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1154
+      "UsersEstimate": 1155
     },
     {
       "ID": "LIBERATOR",
@@ -1768,7 +1773,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5771,
+      "Progressed": 5773,
       "Completed": 22
     }
   ],
@@ -1776,8 +1781,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-16T16:57:54.2243616+00:00",
-  "LastChanged_Achievements": "2023-05-18T21:06:30.7089594+00:00",
+  "LastChanged_Achievements": "2023-05-18T22:05:52.3409757+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:53.6325406+00:00",
-  "LastUpdate_Ratings": "2023-05-18T20:58:13.7927429+00:00",
-  "LastUpdate_Achievements": "2023-05-18T21:06:30.7089902+00:00"
+  "LastUpdate_Ratings": "2023-05-18T21:58:05.9379575+00:00",
+  "LastUpdate_Achievements": "2023-05-18T22:05:52.3410003+00:00"
 }

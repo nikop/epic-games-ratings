@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -359,9 +359,9 @@
       "ID": "BUY_EVERY_COSMETIC_ITEM",
       "SetID": "kakdpn",
       "Name": "Okay, Vain Much?",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 20
     },
     {
       "ID": "COL_EVR_VAULTLANDER_FIG",
@@ -463,9 +463,9 @@
       "ID": "HACK_YOUR_FIRST_OBJECT",
       "SetID": "kakdpn",
       "Name": "We\u0027re In",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1086
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -568,8 +568,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-11T21:59:43.2932555+00:00",
-  "LastChanged_Achievements": "2023-05-18T21:06:56.7155448+00:00",
+  "LastChanged_Achievements": "2023-05-18T22:06:27.5850571+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:25.1754424+00:00",
-  "LastUpdate_Ratings": "2023-05-18T21:00:31.4725698+00:00",
-  "LastUpdate_Achievements": "2023-05-18T21:06:56.7155695+00:00"
+  "LastUpdate_Ratings": "2023-05-18T22:00:07.4782812+00:00",
+  "LastUpdate_Achievements": "2023-05-18T22:06:27.5850725+00:00"
 }

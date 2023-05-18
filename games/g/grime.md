@@ -10,7 +10,7 @@ Number of Ratings: 46  (23.09.2022)
 | Imprint | 20.00% | ~109 |
 | Ravenous | 18.00% | ~98 |
 | The Hunt | 17.00% | ~92 |
-| Weeper | 15.00% | ~81 |
+| Weeper | 15.00% | ~82 |
 | Devourer | 12.00% | ~65 |
 | Scion | 10.00% | ~13 |
 | Glare | 10.00% | ~13 |
@@ -19,10 +19,10 @@ Number of Ratings: 46  (23.09.2022)
 | Yank | 10.00% | ~54 |
 | Sharpened Vessel | 10.00% | ~54 |
 | Feast | 9.00% | ~49 |
-| Shapely | 8.00% | ~43 |
+| Shapely | 8.00% | ~44 |
 | Host | 8.00% | ~10 |
-| Jawcrab | 8.00% | ~43 |
-| Jawstag | 8.00% | ~43 |
+| Jawcrab | 8.00% | ~44 |
+| Jawstag | 8.00% | ~44 |
 | Celebration | 7.00% | ~38 |
 | Inevitable | 7.00% | ~38 |
 | Predator | 7.00% | ~38 |
@@ -49,7 +49,7 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.90% | ~5 |
 | Spiral Heart | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 543 (Ranked 189)  
+Progressed: 544 (Ranked 189)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,6 +70,7 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-14 | 541 | 0 |
 | 2023-05-16 | 542 | 0 |
 | 2023-05-17 | 543 | 0 |
+| 2023-05-18 | 544 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

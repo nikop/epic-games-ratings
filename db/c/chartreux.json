@@ -3,8 +3,8 @@
   "Name": "Chartreux",
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:33:17.3028342+00:00",
-  "LastUpdate_Ratings": "2023-05-18T21:01:31.5726143+00:00",
-  "LastUpdate_Achievements": "2023-05-18T21:05:41.5047608+00:00"
+  "LastUpdate_Ratings": "2023-05-18T22:00:56.4240578+00:00",
+  "LastUpdate_Achievements": "2023-05-18T22:05:26.5035442+00:00"
 }

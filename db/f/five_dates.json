@@ -4,8 +4,8 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -176,9 +176,9 @@
       "ID": "all_set_up",
       "SetID": "c4ipj3h",
       "Name": "All Set Up",
-      "Percentage": 98,
+      "Percentage": 99,
       "XP": 100,
-      "UsersEstimate": 352
+      "UsersEstimate": 355
     },
     {
       "ID": "booty_call",
@@ -305,8 +305,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-05-18T21:06:37.9645639+00:00",
+  "LastChanged_Achievements": "2023-05-18T22:05:59.3267422+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:04.3957148+00:00",
-  "LastUpdate_Ratings": "2023-05-18T20:58:24.8221562+00:00",
-  "LastUpdate_Achievements": "2023-05-18T21:06:37.9645825+00:00"
+  "LastUpdate_Ratings": "2023-05-18T21:58:21.6899089+00:00",
+  "LastUpdate_Achievements": "2023-05-18T22:05:59.3267692+00:00"
 }

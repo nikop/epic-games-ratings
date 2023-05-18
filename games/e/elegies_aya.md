@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You've met with a terrible fate haven't you? | 67.00% | ~2 |
+| You've met with a terrible fate haven't you? | 100.00% | ~3 |
 | Nothing in life is to be feared | 33.00% | ~1 |
 | Late night investigation | 33.00% | ~1 |
 | Knock knock | 0.00% | ~0 |

@@ -6,13 +6,13 @@
 | ---- | ---------- | ----- |
 | Clean Sweep | 95.00% | ~333 |
 | Scavenger | 75.00% | ~263 |
-| Line of Duty | 73.00% | ~256 |
+| Line of Duty | 74.00% | ~260 |
 | Gunner | 56.00% | ~197 |
 | DocKing | 47.00% | ~165 |
 | What-A-Shot | 44.00% | ~154 |
 | Batteries Included | 39.00% | ~137 |
 | Death from Above | 38.00% | ~133 |
-| Hull King | 26.00% | ~91 |
+| Hull King | 27.00% | ~95 |
 | Extra Ammo | 21.00% | ~74 |
 | Boss Down | 20.00% | ~70 |
 | Hazardous Duty | 17.00% | ~60 |

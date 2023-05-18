@@ -17,8 +17,8 @@ Rating: 4.32 (Ranked 743)
 | Stop Hitting Yourself! | 35.00% | ~701 |
 | Nothing to Wear | 31.00% | ~621 |
 | The First Law of Thermodynamics | 28.00% | ~561 |
+| The Second Law of Thermodynamics | 15.00% | ~301 |
 | Do you trust me? | 15.00% | ~301 |
-| The Second Law of Thermodynamics | 14.00% | ~281 |
 | The Third Law of Thermodynamics | 9.00% | ~180 |
 | Say "Cheese!" | 8.00% | ~160 |
 | Taking Out the Trash | 8.00% | ~160 |

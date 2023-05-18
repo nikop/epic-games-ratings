@@ -8,7 +8,7 @@ Rating: 4.08 (Ranked 868)
 | Who Needs Keys? | 48.00% | ~1,629 |
 | Totally Intentional | 43.00% | ~1,459 |
 | Each Sold Separately | 36.00% | ~1,221 |
-| We're In | 31.00% | ~1,052 |
+| We're In | 32.00% | ~1,086 |
 | You're Not Naked | 28.00% | ~950 |
 | From Zeroes... | 28.00% | ~950 |
 | Tale in the Toilet | 28.00% | ~950 |
@@ -28,7 +28,7 @@ Rating: 4.08 (Ranked 868)
 | Hey, thanks! | 4.00% | ~136 |
 | Murderous Mascot Mayhem | 3.00% | ~102 |
 | New Business | 0.90% | ~31 |
-| Okay, Vain Much? | 0.50% | ~17 |
+| Okay, Vain Much? | 0.60% | ~20 |
 | Not Dolls. Action Figures! | 0.20% | ~7 |
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

@@ -5,10 +5,10 @@
   "Ranking_Rating": 828,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
-  "Ranking_EOS_Progress": 164,
+  "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 30,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
     "PcReleaseDate": "2020-02-19T00:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1022,
+  "EOS_Progressed": 1023,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.99,
   "EosHistory": [
@@ -492,6 +492,11 @@
       "Time": "2023-05-18T17:06:28.3056294+00:00",
       "NumProgressed": 1022,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-18T22:06:30.7742314+00:00",
+      "NumProgressed": 1023,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 11,
@@ -503,7 +508,7 @@
       "Name": "Cutepie",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -535,15 +540,15 @@
       "Name": "Is she really dead?",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ACH_FineEV9",
       "SetID": "7a9m7mj",
       "Name": "Alone",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 409
+      "UsersEstimate": 399
     },
     {
       "ID": "ACH_FineGioco",
@@ -551,7 +556,7 @@
       "Name": "All together, again",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -590,15 +595,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1022,
+      "Progressed": 1023,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-05-18T21:06:59.7800441+00:00",
+  "LastChanged_Achievements": "2023-05-18T22:06:30.7742312+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:58.763726+00:00",
-  "LastUpdate_Ratings": "2023-05-18T21:01:25.2488982+00:00",
-  "LastUpdate_Achievements": "2023-05-18T21:06:59.780058+00:00"
+  "LastUpdate_Ratings": "2023-05-18T22:00:50.5284795+00:00",
+  "LastUpdate_Achievements": "2023-05-18T22:06:30.7742415+00:00"
 }

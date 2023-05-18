@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4941,
+  "EOS_Progressed": 4944,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -1193,6 +1193,11 @@
       "Time": "2023-05-18T20:06:36.2607875+00:00",
       "NumProgressed": 4941,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-18T22:05:54.4139144+00:00",
+      "NumProgressed": 4944,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -1204,7 +1209,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4101
+      "UsersEstimate": 4104
     },
     {
       "ID": "ACH02",
@@ -1212,7 +1217,7 @@
       "Name": "Without a Scratch",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "ACH03",
@@ -1228,7 +1233,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1828
+      "UsersEstimate": 1829
     },
     {
       "ID": "ACH05",
@@ -1250,9 +1255,9 @@
       "ID": "ACH07",
       "SetID": "552d41m",
       "Name": "Planned Ahead",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 44
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH08",
@@ -1276,7 +1281,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1334
+      "UsersEstimate": 1335
     },
     {
       "ID": "ACH11",
@@ -1324,7 +1329,7 @@
       "Name": "A Marked Man",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1186
+      "UsersEstimate": 1187
     },
     {
       "ID": "ACH17",
@@ -1348,7 +1353,7 @@
       "Name": "A Gift from the King",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACH20",
@@ -1378,9 +1383,9 @@
       "ID": "ACH23",
       "SetID": "552d41m",
       "Name": "Going Rogue",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH24",
@@ -1435,7 +1440,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 4941,
+      "Progressed": 4944,
       "Completed": 26
     }
   ],
@@ -1443,8 +1448,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-12T16:57:58.7220785+00:00",
-  "LastChanged_Achievements": "2023-05-18T21:06:32.8856533+00:00",
+  "LastChanged_Achievements": "2023-05-18T22:05:54.413914+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:51.3816793+00:00",
-  "LastUpdate_Ratings": "2023-05-18T20:58:10.4851564+00:00",
-  "LastUpdate_Achievements": "2023-05-18T21:06:32.8856833+00:00"
+  "LastUpdate_Ratings": "2023-05-18T21:58:03.8418404+00:00",
+  "LastUpdate_Achievements": "2023-05-18T22:05:54.4139367+00:00"
 }

@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Skinner | 54.00% | ~13 |
-| Deal with Shock | 50.00% | ~12 |
-| Deal with Anger | 29.00% | ~7 |
+| Deal with Shock | 54.00% | ~13 |
+| Deal with Anger | 33.00% | ~8 |
 | Robolimb Ripper | 17.00% | ~4 |
 | Deal with Depression | 17.00% | ~4 |
 | No Shock Race | 13.00% | ~3 |

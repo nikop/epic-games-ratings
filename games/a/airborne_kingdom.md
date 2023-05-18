@@ -6,20 +6,20 @@ Number of Ratings: 74  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~3,563 |
-| A Grove Replanted | 53.00% | ~3,372 |
-| Fields Watered | 41.00% | ~2,609 |
-| Seekers Found | 41.00% | ~2,609 |
-| Settling the Skies | 41.00% | ~2,609 |
-| Wind Powered | 40.00% | ~2,545 |
-| It Takes a Village | 34.00% | ~2,163 |
+| A Small Community | 56.00% | ~3,564 |
+| A Grove Replanted | 53.00% | ~3,373 |
+| Fields Watered | 41.00% | ~2,610 |
+| Seekers Found | 41.00% | ~2,610 |
+| Settling the Skies | 41.00% | ~2,610 |
+| Wind Powered | 40.00% | ~2,546 |
+| It Takes a Village | 34.00% | ~2,164 |
 | On the Town | 28.00% | ~1,782 |
-| Daylight Found | 26.00% | ~1,654 |
+| Daylight Found | 26.00% | ~1,655 |
 | Irons Scorched | 25.00% | ~1,591 |
 | Islands Connected | 25.00% | ~1,591 |
-| Harp Tuned | 23.00% | ~1,463 |
-| Pyre Ignited | 23.00% | ~1,463 |
-| Travelers Returned | 23.00% | ~1,463 |
+| Harp Tuned | 23.00% | ~1,464 |
+| Pyre Ignited | 23.00% | ~1,464 |
+| Travelers Returned | 23.00% | ~1,464 |
 | Hopes Hoisted | 22.00% | ~1,400 |
 | Knowledge Shared | 20.00% | ~1,273 |
 | Relic Finder | 20.00% | ~1,273 |
@@ -28,13 +28,13 @@ Number of Ratings: 74  (23.09.2022)
 | Prophecy Fulfilled | 13.00% | ~827 |
 | A Learned Scholar | 12.00% | ~764 |
 | A Wanderer’s Guide | 11.00% | ~700 |
-| Knowledge Seeker | 7.00% | ~445 |
+| Knowledge Seeker | 7.00% | ~446 |
 | The Cycle Continues | 3.00% | ~191 |
 | Glowing Waters | 2.00% | ~127 |
 | Sparkling Alloys | 2.00% | ~127 |
 | A True Challenge | 2.00% | ~127 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,363 (Ranked 114)  
+Progressed: 6,365 (Ranked 114)  
 Completed: 51 (0.80%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,7 +62,7 @@ Completed: 51 (0.80%) (Ranked 95)
 | 2023-05-15 | 6,349 | 51 |
 | 2023-05-16 | 6,353 | 51 |
 | 2023-05-17 | 6,355 | 51 |
-| 2023-05-18 | 6,363 | 51 |
+| 2023-05-18 | 6,365 | 51 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

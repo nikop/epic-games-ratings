@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 119,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2649,
+  "EOS_Progressed": 2650,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -899,6 +899,11 @@
       "Time": "2023-05-18T20:07:25.6444157+00:00",
       "NumProgressed": 2649,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-18T22:06:38.7406998+00:00",
+      "NumProgressed": 2650,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -918,7 +923,7 @@
       "Name": "Sniped",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "bonus3",
@@ -934,7 +939,7 @@
       "Name": "Work It",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "bonus5",
@@ -958,7 +963,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2384
+      "UsersEstimate": 2385
     },
     {
       "ID": "campaign10",
@@ -966,7 +971,7 @@
       "Name": "Leave Them no Cake",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "campaign11",
@@ -982,7 +987,7 @@
       "Name": "Would be a Shame if Someone Would Waste Those Units",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "campaign13",
@@ -998,7 +1003,7 @@
       "Name": "Well Supplied",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "campaign15",
@@ -1022,7 +1027,7 @@
       "Name": "The Handyman Can!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "campaign18",
@@ -1046,7 +1051,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2119
+      "UsersEstimate": 2120
     },
     {
       "ID": "campaign20",
@@ -1062,7 +1067,7 @@
       "Name": "Economics 101",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 1748
+      "UsersEstimate": 1749
     },
     {
       "ID": "campaign4",
@@ -1086,7 +1091,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "campaign7",
@@ -1126,7 +1131,7 @@
       "Name": "Full Employment",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "scenario3",
@@ -1166,14 +1171,14 @@
       "Name": "A Brief Moment of Respite",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     }
   ],
   "AchievementSets": [
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2649,
+      "Progressed": 2650,
       "Completed": 9
     }
   ],
@@ -1181,8 +1186,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-18T21:07:08.0056439+00:00",
+  "LastChanged_Achievements": "2023-05-18T22:06:38.7406994+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:07.0051638+00:00",
-  "LastUpdate_Ratings": "2023-05-18T21:01:35.7770899+00:00",
-  "LastUpdate_Achievements": "2023-05-18T21:07:08.0056786+00:00"
+  "LastUpdate_Ratings": "2023-05-18T22:00:59.1061725+00:00",
+  "LastUpdate_Achievements": "2023-05-18T22:06:38.7407354+00:00"
 }

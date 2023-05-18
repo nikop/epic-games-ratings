@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beware the Jabberwock | 0.10% | ~54 |
 | Quick or Quack | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,904 (Ranked 59)  
-Completed: 1,849 (2.10%) (Ranked 61)  
+Progressed: 87,911 (Ranked 59)  
+Completed: 1,850 (2.10%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -528,17 +528,17 @@ Completed: 1,849 (2.10%) (Ranked 61)
 | 2023-05-15 | 87,611 | 1,843 |
 | 2023-05-16 | 87,710 | 1,845 |
 | 2023-05-17 | 87,802 | 1,849 |
-| 2023-05-18 | 87,904 | 1,849 |
+| 2023-05-18 | 87,911 | 1,850 |
 ## Awards
 Max (Diverse Characters): 4,885  (Ranked 63)  
-Sum: 29,912 (Ranked 37)  
+Sum: 29,914 (Ranked 37)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,885 |
 | This game is Great for Beginners | 4,830 |
 | This game has Quickly Understood Controls | 4,595 |
-| This game is Relaxing | 4,489 |
+| This game is Relaxing | 4,491 |
 | This game is Highly Recommended | 3,939 |
 | This game has Amazing Characters | 3,938 |
 | This game has Playful Visuals | 3,236 |
@@ -657,4 +657,4 @@ Diff (max vs sum): 26
 | 2023-05-15 | 4.06 | - | 4,880 | 29,893 |
 | 2023-05-16 | 4.06 | - | 4,885 | 29,900 |
 | 2023-05-17 | 4.06 | - | 4,885 | 29,907 |
-| 2023-05-18 | 4.06 | - | 4,885 | 29,912 |
+| 2023-05-18 | 4.06 | - | 4,885 | 29,914 |

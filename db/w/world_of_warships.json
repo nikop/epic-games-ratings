@@ -2,13 +2,13 @@
   "ID": "84c76746bce94effb8e1047fabfd7eb7",
   "Name": "World of Warships",
   "ProductSlug": "world-of-warships",
-  "Ranking_Rating": 638,
-  "Ranking_Popularity": 130,
+  "Ranking_Rating": 643,
+  "Ranking_Popularity": 129,
   "Ranking_PopularitySum": 80,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-03-18T13:00:00+00:00",
     "PcReleaseDate": "2017-11-15T16:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.43,
+  "Rating": 4.42,
   "NumberOfRatings": 4733,
   "RatingHistory": [
     {
@@ -4504,12 +4504,18 @@
       "Rating": 4.43,
       "NumberOfAwards": 9393,
       "NumberOfAwardsMax": 1057
+    },
+    {
+      "Time": "2023-05-18T21:59:12.2672912+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 9398,
+      "NumberOfAwardsMax": 1061
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9393,
-  "NumberOfAwardsMax": 1057,
-  "MaxAwardTitle": "Quickly Understood Controls",
+  "NumberOfAwards": 9398,
+  "NumberOfAwardsMax": 1061,
+  "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
       "Text": "This game has Challenging Combat",
@@ -4569,7 +4575,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1056
+      "Count": 1061
     }
   ],
   "EOS_Progressed": 0,
@@ -4583,8 +4589,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
-  "LastChanged": "2023-05-18T15:59:15.803073+00:00",
+  "LastChanged": "2023-05-18T21:59:12.2672911+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:38.2797035+00:00",
-  "LastUpdate_Ratings": "2023-05-18T20:59:22.7490371+00:00",
-  "LastUpdate_Achievements": "2023-05-18T21:02:15.0200833+00:00"
+  "LastUpdate_Ratings": "2023-05-18T21:59:12.2672917+00:00",
+  "LastUpdate_Achievements": "2023-05-18T22:01:34.5541562+00:00"
 }

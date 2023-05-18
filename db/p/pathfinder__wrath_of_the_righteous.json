@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 108,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2352,10 +2352,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6622,
       "NumberOfAwardsMax": 1634
+    },
+    {
+      "Time": "2023-05-18T21:58:35.3009582+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6623,
+      "NumberOfAwardsMax": 1634
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6622,
+  "NumberOfAwards": 6623,
   "NumberOfAwardsMax": 1634,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2381,7 +2387,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 604
+      "Count": 605
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2426,9 +2432,9 @@
       "Count": 368
     }
   ],
-  "EOS_Progressed": 8869,
+  "EOS_Progressed": 8870,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3746,6 +3752,11 @@
       "Time": "2023-05-18T21:07:06.2515611+00:00",
       "NumProgressed": 8869,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-18T22:06:37.1778386+00:00",
+      "NumProgressed": 8870,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3781,7 +3792,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -4684,21 +4695,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7651,
+      "Progressed": 7652,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8869,
+      "Progressed": 8870,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-05-18T18:58:13.5927648+00:00",
-  "LastChanged_Achievements": "2023-05-18T21:07:06.2515603+00:00",
+  "LastChanged": "2023-05-18T21:58:35.3009581+00:00",
+  "LastChanged_Achievements": "2023-05-18T22:06:37.1778383+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:14.2729853+00:00",
-  "LastUpdate_Ratings": "2023-05-18T20:58:47.3416508+00:00",
-  "LastUpdate_Achievements": "2023-05-18T21:07:06.251736+00:00"
+  "LastUpdate_Ratings": "2023-05-18T21:58:35.3009587+00:00",
+  "LastUpdate_Achievements": "2023-05-18T22:06:37.1779739+00:00"
 }

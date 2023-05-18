@@ -54,6 +54,7 @@ Number of Ratings: 37  (23.09.2022)
 | Out of the frying pan | 2.00% | ~83 |
 | The Art of War | 1.00% | ~41 |
 | The King's new clothes III | 1.00% | ~41 |
+| Survivalist | 1.00% | ~41 |
 | My precious... III | 1.00% | ~41 |
 | Lord of War | 1.00% | ~41 |
 | Plague strikes! | 1.00% | ~41 |
@@ -62,7 +63,6 @@ Number of Ratings: 37  (23.09.2022)
 | Genius | 1.00% | ~41 |
 | I've been everywhere I | 1.00% | ~41 |
 | I've been everywhere V | 1.00% | ~41 |
-| Survivalist | 0.90% | ~37 |
 | An honorable Governor III | 0.90% | ~37 |
 | Completionist III | 0.90% | ~37 |
 | Only the sausage has two ends. | 0.90% | ~37 |

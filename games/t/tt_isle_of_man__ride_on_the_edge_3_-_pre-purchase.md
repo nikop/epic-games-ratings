@@ -45,7 +45,7 @@
 | Lone Wolf | 3.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 30 (Ranked 299)  
-Completed: 1 (3.33%) (Ranked 41)  
+Completed: 1 (3.33%) (Ranked 40)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -17,17 +17,17 @@ Number of Ratings: 22,103  (23.09.2022)
 | Making a Name | 1.00% | ~294 |
 | Food for Thought | 1.00% | ~294 |
 | To The Nines | 1.00% | ~294 |
-| Finders Keepers | 0.90% | ~264 |
-| A Young Empire | 0.90% | ~264 |
-| Work Ethic | 0.80% | ~235 |
+| Finders Keepers | 0.90% | ~265 |
+| A Young Empire | 0.90% | ~265 |
+| Work Ethic | 0.90% | ~265 |
+| Picking Fights | 0.80% | ~235 |
 | Quality Time | 0.70% | ~206 |
 | Power Players | 0.70% | ~206 |
-| Picking Fights | 0.70% | ~206 |
-| Showdown | 0.60% | ~176 |
-| Et tu? | 0.60% | ~176 |
-| Took It to The Limit | 0.60% | ~176 |
+| Showdown | 0.60% | ~177 |
+| Kitted Out | 0.60% | ~177 |
+| Et tu? | 0.60% | ~177 |
+| Took It to The Limit | 0.60% | ~177 |
 | Masters of Santo Ileso | 0.50% | ~147 |
-| Kitted Out | 0.50% | ~147 |
 | The Spins | 0.40% | ~118 |
 | The Mechanic | 0.40% | ~118 |
 | Producer Credit | 0.40% | ~4 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Fiesta Time | 0.10% | ~29 |
 | All Mine | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,380 (Ranked 84)  
+Progressed: 29,424 (Ranked 84)  
 Completed: 19 (0.06%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,16 +88,16 @@ Completed: 19 (0.06%) (Ranked 169)
 | 2023-05-15 | 28,177 | 18 |
 | 2023-05-16 | 28,544 | 18 |
 | 2023-05-17 | 28,880 | 18 |
-| 2023-05-18 | 29,380 | 19 |
+| 2023-05-18 | 29,424 | 19 |
 ## Awards
 Max (Extremely Fun): 1,029  (Ranked 133)  
-Sum: 8,333 (Ranked 88)  
+Sum: 8,334 (Ranked 88)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 1,029 |
 | This game has Quickly Understood Controls | 998 |
-| This game is Highly Recommended | 969 |
+| This game is Highly Recommended | 970 |
 | This game has Amazing Characters | 956 |
 | This game has Diverse Characters | 954 |
 | This game is Great for Beginners | 954 |
@@ -180,4 +180,4 @@ Diff (max vs sum): 45
 | 2023-05-15 | 3.78 | - | 1,027 | 8,322 |
 | 2023-05-16 | 3.78 | - | 1,028 | 8,328 |
 | 2023-05-17 | 3.78 | - | 1,028 | 8,329 |
-| 2023-05-18 | 3.78 | - | 1,029 | 8,333 |
+| 2023-05-18 | 3.78 | - | 1,029 | 8,334 |

@@ -4,11 +4,11 @@
   "ProductSlug": "outward",
   "Ranking_Rating": 467,
   "Ranking_Popularity": 441,
-  "Ranking_PopularitySum": 343,
+  "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2392,
+  "EOS_Progressed": 2393,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1024,6 +1024,11 @@
       "Time": "2023-05-18T21:06:41.9104533+00:00",
       "NumProgressed": 2392,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-18T22:06:13.1723502+00:00",
+      "NumProgressed": 2393,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1075,7 +1080,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "CrowdPleaser",
@@ -1091,7 +1096,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "Eureka_23",
@@ -1099,7 +1104,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -1227,7 +1232,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1531
+      "UsersEstimate": 1532
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -1283,7 +1288,7 @@
       "Name": "The power of ambition",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ThePowerofFaith_4",
@@ -1315,7 +1320,7 @@
       "Name": "The stuff of legends.",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "TheyllTellStoriesAboutThis_35",
@@ -1355,7 +1360,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 1794
+      "UsersEstimate": 1795
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -1370,15 +1375,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2392,
+      "Progressed": 2393,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-05-18T21:06:41.9104501+00:00",
+  "LastChanged_Achievements": "2023-05-18T22:06:13.1723499+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:37.4392103+00:00",
-  "LastUpdate_Ratings": "2023-05-18T20:57:53.1483313+00:00",
-  "LastUpdate_Achievements": "2023-05-18T21:06:41.9104923+00:00"
+  "LastUpdate_Ratings": "2023-05-18T21:57:48.0330325+00:00",
+  "LastUpdate_Achievements": "2023-05-18T22:06:13.1723823+00:00"
 }

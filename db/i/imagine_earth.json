@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
     "PcReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 364,
+  "EOS_Progressed": 365,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -88,6 +88,11 @@
     {
       "Time": "2023-05-17T04:05:44.6938478+00:00",
       "NumProgressed": 364,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-18T22:01:28.6262802+00:00",
+      "NumProgressed": 365,
       "NumCompleted": 0
     }
   ],
@@ -116,7 +121,7 @@
       "Name": "Campaign Silver",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "CampaignStars3",
@@ -172,7 +177,7 @@
       "Name": "Forester",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Metropolis",
@@ -180,7 +185,7 @@
       "Name": "Metropolis",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "Multitalent",
@@ -236,7 +241,7 @@
       "Name": "Magni",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "PlanetRounos",
@@ -260,15 +265,15 @@
       "Name": "Tuto",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "PlanetUdionTorix",
       "SetID": "c2k469b",
       "Name": "Udion Torix",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 29
     },
     {
       "ID": "Scientist",
@@ -291,7 +296,7 @@
     {
       "ID": "c2k469b",
       "IsBase": true,
-      "Progressed": 364,
+      "Progressed": 365,
       "Completed": 0
     }
   ],
@@ -299,8 +304,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-03-31T05:58:11.9489163+00:00",
-  "LastChanged_Achievements": "2023-05-18T21:02:09.0762055+00:00",
+  "LastChanged_Achievements": "2023-05-18T22:01:28.6262791+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:11.7295055+00:00",
-  "LastUpdate_Ratings": "2023-05-18T21:00:06.8655892+00:00",
-  "LastUpdate_Achievements": "2023-05-18T21:02:09.0772476+00:00"
+  "LastUpdate_Ratings": "2023-05-18T21:59:47.1055717+00:00",
+  "LastUpdate_Achievements": "2023-05-18T22:01:28.6269036+00:00"
 }

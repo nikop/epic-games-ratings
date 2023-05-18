@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 265,
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -195,10 +195,10 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 190215,
+  "EOS_Progressed": 190222,
   "EOS_Completed": 423,
-  "EOS_NewPlayers": 719,
-  "EOS_NewCompleters": 11,
+  "EOS_NewPlayers": 718,
+  "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
@@ -2880,6 +2880,11 @@
       "Time": "2023-05-18T21:06:42.2790311+00:00",
       "NumProgressed": 190215,
       "NumCompleted": 423
+    },
+    {
+      "Time": "2023-05-18T22:06:13.5257994+00:00",
+      "NumProgressed": 190222,
+      "NumCompleted": 423
     }
   ],
   "TotalAchievements": 29,
@@ -2915,7 +2920,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 178802
+      "UsersEstimate": 178809
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -2963,7 +2968,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5706
+      "UsersEstimate": 5707
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -3059,7 +3064,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5706
+      "UsersEstimate": 5707
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -3091,7 +3096,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13315
+      "UsersEstimate": 13316
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -3122,7 +3127,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 190215,
+      "Progressed": 190222,
       "Completed": 423
     }
   ],
@@ -3130,8 +3135,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-05-15T09:58:34.8225055+00:00",
-  "LastChanged_Achievements": "2023-05-18T21:06:42.2790299+00:00",
+  "LastChanged_Achievements": "2023-05-18T22:06:13.5257992+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:42.6671545+00:00",
-  "LastUpdate_Ratings": "2023-05-18T20:59:29.6748332+00:00",
-  "LastUpdate_Achievements": "2023-05-18T21:06:42.2790725+00:00"
+  "LastUpdate_Ratings": "2023-05-18T21:59:15.2782831+00:00",
+  "LastUpdate_Achievements": "2023-05-18T22:06:13.5258331+00:00"
 }

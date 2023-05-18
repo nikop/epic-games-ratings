@@ -4,8 +4,8 @@
   "ProductSlug": "doctor-who-the-lonely-assassins",
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-06-18T13:00:00+00:00",
     "PcReleaseDate": "2021-03-19T18:00:50+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:31.4200452+00:00",
   "LastChanged": "2023-03-31T05:58:31.4200453+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:01.7922369+00:00",
-  "LastUpdate_Ratings": "2023-05-18T20:58:22.7376381+00:00",
-  "LastUpdate_Achievements": "2023-05-18T21:04:37.5448947+00:00"
+  "LastUpdate_Ratings": "2023-05-18T21:58:17.342036+00:00",
+  "LastUpdate_Achievements": "2023-05-18T22:04:24.1180409+00:00"
 }

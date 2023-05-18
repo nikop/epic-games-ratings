@@ -2,13 +2,13 @@
   "ID": "100f8957d16d4d2d89716775b5767779",
   "Name": "Riverbond",
   "ProductSlug": "riverbond-782aa4",
-  "Ranking_Rating": 583,
+  "Ranking_Rating": 582,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 24,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -480,9 +480,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 516761,
+  "EOS_Progressed": 516762,
   "EOS_Completed": 406,
-  "EOS_NewPlayers": 606,
+  "EOS_NewPlayers": 602,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3090,6 +3090,11 @@
       "Time": "2023-05-18T21:06:43.8765519+00:00",
       "NumProgressed": 516761,
       "NumCompleted": 406
+    },
+    {
+      "Time": "2023-05-18T22:06:15.2013486+00:00",
+      "NumProgressed": 516762,
+      "NumCompleted": 406
     }
   ],
   "TotalAchievements": 57,
@@ -3109,7 +3114,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 232542
+      "UsersEstimate": 232543
     },
     {
       "ID": "11",
@@ -3125,7 +3130,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 113687
+      "UsersEstimate": 113688
     },
     {
       "ID": "13",
@@ -3157,7 +3162,7 @@
       "Name": "Road Less Travelled",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 46508
+      "UsersEstimate": 46509
     },
     {
       "ID": "17",
@@ -3213,7 +3218,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 46508
+      "UsersEstimate": 46509
     },
     {
       "ID": "23",
@@ -3325,7 +3330,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 258380
+      "UsersEstimate": 258381
     },
     {
       "ID": "36",
@@ -3397,7 +3402,7 @@
       "Name": "Sunny Shores",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 87849
+      "UsersEstimate": 87850
     },
     {
       "ID": "44",
@@ -3477,7 +3482,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 237710
+      "UsersEstimate": 237711
     },
     {
       "ID": "53",
@@ -3556,15 +3561,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 516761,
+      "Progressed": 516762,
       "Completed": 406
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-05-18T21:06:43.8765504+00:00",
+  "LastChanged_Achievements": "2023-05-18T22:06:15.2013482+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:16.6308298+00:00",
-  "LastUpdate_Ratings": "2023-05-18T20:57:17.3907242+00:00",
-  "LastUpdate_Achievements": "2023-05-18T21:06:43.876625+00:00"
+  "LastUpdate_Ratings": "2023-05-18T21:57:18.8032889+00:00",
+  "LastUpdate_Achievements": "2023-05-18T22:06:15.2014076+00:00"
 }

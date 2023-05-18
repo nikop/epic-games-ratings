@@ -7,7 +7,7 @@
 | Marbleball Badge | 67.00% | ~41 |
 | Speedroller Rookie | 57.00% | ~35 |
 | Metalball Badge | 13.00% | ~8 |
-| Powerball Badge | 8.00% | ~5 |
+| Powerball Badge | 10.00% | ~6 |
 | Airball Badge | 2.00% | ~1 |
 | Speedroller Expert | 0.00% | ~0 |
 | Speedroller Master | 0.00% | ~0 |

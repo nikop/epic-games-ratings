@@ -2,10 +2,10 @@
   "ID": "f679c7125fd34092a6c20647917e207e",
   "Name": "Rescue Party: Live!",
   "ProductSlug": "rescue-party-live",
-  "Ranking_EOS_Progress": 238,
+  "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-01-13T16:00:00+00:00",
     "PcReleaseDate": "2022-01-13T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 155,
+  "EOS_Progressed": 156,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.52,
+  "EOS_Completed_Percentage": 4.49,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:37.3014297+00:00",
@@ -55,6 +55,11 @@
     {
       "Time": "2023-05-11T04:04:43.0368685+00:00",
       "NumProgressed": 155,
+      "NumCompleted": 7
+    },
+    {
+      "Time": "2023-05-18T22:05:56.0568625+00:00",
+      "NumProgressed": 156,
       "NumCompleted": 7
     }
   ],
@@ -169,9 +174,9 @@
       "ID": "ACH_RESCUE_TEAM_ASSEMBLE",
       "SetID": "1p69hf1",
       "Name": "Team assemble",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_RESCUE_WITH_CAUTION",
@@ -201,16 +206,16 @@
       "ID": "ACH_SPEEDY",
       "SetID": "1p69hf1",
       "Name": "ASAP",
-      "Percentage": 94,
+      "Percentage": 93,
       "XP": 50,
-      "UsersEstimate": 146
+      "UsersEstimate": 145
     }
   ],
   "AchievementSets": [
     {
       "ID": "1p69hf1",
       "IsBase": true,
-      "Progressed": 155,
+      "Progressed": 156,
       "Completed": 7
     }
   ],
@@ -218,8 +223,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.1285386+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.3014308+00:00",
   "LastChanged": "2023-03-31T05:58:01.1285387+00:00",
-  "LastChanged_Achievements": "2023-05-18T21:06:34.4472513+00:00",
+  "LastChanged_Achievements": "2023-05-18T22:05:56.0568621+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:20.2633114+00:00",
-  "LastUpdate_Ratings": "2023-05-18T21:00:24.3650655+00:00",
-  "LastUpdate_Achievements": "2023-05-18T21:06:34.447266+00:00"
+  "LastUpdate_Ratings": "2023-05-18T22:00:01.6485529+00:00",
+  "LastUpdate_Achievements": "2023-05-18T22:05:56.0568734+00:00"
 }

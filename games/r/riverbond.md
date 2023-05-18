@@ -1,7 +1,7 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.47 (Ranked 583)  
+Rating: 4.47 (Ranked 582)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,17 +9,17 @@ Number of Ratings: 617  (23.09.2022)
 | First Step | 70.00% | ~361,733 |
 | Now You're Talking | 62.00% | ~320,392 |
 | Steel Yourself | 62.00% | ~320,392 |
-| Window Dressing | 50.00% | ~258,380 |
-| Trigger Happy | 46.00% | ~237,710 |
-| Riverborn | 45.00% | ~232,542 |
+| Window Dressing | 50.00% | ~258,381 |
+| Trigger Happy | 46.00% | ~237,711 |
+| Riverborn | 45.00% | ~232,543 |
 | Starry Eyed | 34.00% | ~175,699 |
 | Poking Around | 34.00% | ~175,699 |
 | Talk of the Town | 24.00% | ~124,023 |
 | AAARR! | 23.00% | ~118,855 |
 | Hello Darkness | 23.00% | ~118,855 |
-| Wind At Our Backs | 22.00% | ~113,687 |
+| Wind At Our Backs | 22.00% | ~113,688 |
 | To the Beat | 20.00% | ~103,352 |
-| Sunny Shores | 17.00% | ~87,849 |
+| Sunny Shores | 17.00% | ~87,850 |
 | To Victory! | 15.00% | ~77,514 |
 | Sunday Best | 15.00% | ~77,514 |
 | Two of a Kind | 14.00% | ~72,347 |
@@ -28,8 +28,8 @@ Number of Ratings: 617  (23.09.2022)
 | Make Peace, Not War | 11.00% | ~56,844 |
 | Walking The Line | 10.00% | ~51,676 |
 | Not So Cute Anymore | 10.00% | ~51,676 |
-| Road Less Travelled | 9.00% | ~46,508 |
-| Lost and Found | 9.00% | ~46,508 |
+| Road Less Travelled | 9.00% | ~46,509 |
+| Lost and Found | 9.00% | ~46,509 |
 | Partner in Crime | 7.00% | ~36,173 |
 | Hard to Hear | 7.00% | ~36,173 |
 | Under the Radar | 7.00% | ~36,173 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,550 |
 | Point Taken | 0.10% | ~517 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 516,761 (Ranked 24)  
+Progressed: 516,762 (Ranked 24)  
 Completed: 406 (0.08%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 406 (0.08%) (Ranked 165)
 | 2023-05-15 | 516,543 | 405 |
 | 2023-05-16 | 516,612 | 405 |
 | 2023-05-17 | 516,685 | 406 |
-| 2023-05-18 | 516,761 | 406 |
+| 2023-05-18 | 516,762 | 406 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

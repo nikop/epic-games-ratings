@@ -6,17 +6,17 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 75.00% | ~1,794 |
-| Ready for Winter | 64.00% | ~1,531 |
+| Venture Outward | 75.00% | ~1,795 |
+| Ready for Winter | 64.00% | ~1,532 |
 | Ready for Summer | 51.00% | ~1,220 |
-| Cordon Bleu | 44.00% | ~1,052 |
+| Cordon Bleu | 44.00% | ~1,053 |
 | Tapped! | 36.00% | ~861 |
-| Eureka | 32.00% | ~765 |
+| Eureka | 32.00% | ~766 |
 | Scourge Slayer | 26.00% | ~622 |
 | Science, Troglodyte! | 24.00% | ~574 |
 | Exceptional Skill | 23.00% | ~550 |
 | Home Sweet Home | 23.00% | ~550 |
-| Encyclopedic! | 20.00% | ~478 |
+| Encyclopedic! | 20.00% | ~479 |
 | A Fortress Toppled! | 16.00% | ~383 |
 | Apex Predator | 16.00% | ~383 |
 | The Power of Family | 16.00% | ~383 |
@@ -28,8 +28,8 @@ Number of Ratings: 266  (23.09.2022)
 | House of Cards | 8.00% | ~191 |
 | Let ‘em eat magma! | 8.00% | ~191 |
 | Magic is a science | 8.00% | ~191 |
-| The power of ambition | 7.00% | ~167 |
-| The stuff of legends. | 7.00% | ~167 |
+| The power of ambition | 7.00% | ~168 |
+| The stuff of legends. | 7.00% | ~168 |
 | Blood and justice | 6.00% | ~144 |
 | Hold my Mead and Watch This | 6.00% | ~144 |
 | Ancestor's Pride | 5.00% | ~120 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.40% | ~10 |
 | The Absolute Pinnacle. | 0.30% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,392 (Ranked 140)  
+Progressed: 2,393 (Ranked 140)  
 Completed: 1 (0.04%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,11 +76,11 @@ Completed: 1 (0.04%) (Ranked 177)
 | 2023-05-15 | 2,373 | 1 |
 | 2023-05-16 | 2,378 | 1 |
 | 2023-05-17 | 2,382 | 1 |
-| 2023-05-18 | 2,392 | 1 |
+| 2023-05-18 | 2,393 | 1 |
 ## Awards
 Max (Amazing Characters): 31  (Ranked 441)  
-Sum: 238 (Ranked 343)  
-Diff (max vs sum): 98  
+Sum: 238 (Ranked 342)  
+Diff (max vs sum): 99  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 31 |

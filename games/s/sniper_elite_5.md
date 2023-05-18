@@ -7,13 +7,13 @@ Rating: 4.41 (Ranked 655)
 | ---- | ---------- | ----- |
 | As Quiet as a Mouse | 0.50% | ~4 |
 | Strategist | 0.40% | ~3 |
+| Confirming Suspicions | 0.40% | ~3 |
 | Resourceful | 0.40% | ~3 |
 | Taking it back | 0.40% | ~3 |
 | Enemy at the Gates | 0.30% | ~2 |
 | Meeting Resistance | 0.30% | ~2 |
 | The Long Game | 0.30% | ~2 |
 | Precision Is Key | 0.30% | ~2 |
-| Confirming Suspicions | 0.30% | ~2 |
 | It's Starting to Crack | 0.30% | ~2 |
 | Change the Channel | 0.30% | ~2 |
 | Don't hold your breath | 0.30% | ~2 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 655)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 740 (Ranked 176)  
+Progressed: 742 (Ranked 176)  
 Completed: 2 (0.27%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 2 (0.27%) (Ranked 130)
 | 2023-05-15 | 721 | 2 |
 | 2023-05-16 | 723 | 2 |
 | 2023-05-17 | 728 | 2 |
-| 2023-05-18 | 740 | 2 |
+| 2023-05-18 | 742 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

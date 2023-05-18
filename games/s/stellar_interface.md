@@ -4,7 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 50.00% | ~1 |
+| Killing Spree | 67.00% | ~2 |
+| First Blood | 67.00% | ~2 |
+| 5Gb HDD | 33.00% | ~1 |
+| Merchant Prince I | 33.00% | ~1 |
 | Providence | 0.00% | ~0 |
 | Revenge | 0.00% | ~0 |
 | Bronze Tovarish | 0.00% | ~0 |
@@ -81,7 +84,6 @@
 | Usurper VI | 0.00% | ~0 |
 | Mega Kill | 0.00% | ~0 |
 | Usurper IV | 0.00% | ~0 |
-| Killing Spree | 0.00% | ~0 |
 | Usurper I | 0.00% | ~0 |
 | Usurper II | 0.00% | ~0 |
 | Rampage | 0.00% | ~0 |
@@ -95,7 +97,6 @@
 | 10Gb HDD | 0.00% | ~0 |
 | 25Gb HDD | 0.00% | ~0 |
 | 50Gb HDD | 0.00% | ~0 |
-| 5Gb HDD | 0.00% | ~0 |
 | 80Gb HDD | 0.00% | ~0 |
 | Galactic Captain | 0.00% | ~0 |
 | Galactic Colonel | 0.00% | ~0 |
@@ -127,7 +128,6 @@
 | Collateral Damage III | 0.00% | ~0 |
 | Merchant Prince III | 0.00% | ~0 |
 | Merchant Prince II | 0.00% | ~0 |
-| Merchant Prince I | 0.00% | ~0 |
 | Almost There V | 0.00% | ~0 |
 | Almost There II | 0.00% | ~0 |
 | Almost There I | 0.00% | ~0 |
@@ -137,9 +137,10 @@
 | Fighting Fit I | 0.00% | ~0 |
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 366)  
+Progressed: 3 (Ranked 356)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 2 | 0 |
+| 2023-05-18 | 3 | 0 |

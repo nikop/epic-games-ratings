@@ -4,8 +4,8 @@
   "ProductSlug": "elegies-aya-17c3f1",
   "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-05-12T15:00:00+00:00",
     "PcReleaseDate": "2023-04-28T15:00:00+00:00",
@@ -48,9 +48,9 @@
       "ID": "ACH_CH0",
       "SetID": "1em00ld",
       "Name": "You\u0027ve met with a terrible fate haven\u0027t you?",
-      "Percentage": 67,
+      "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_CH1",
@@ -158,8 +158,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-02T21:04:14.2389634+00:00",
-  "LastChanged_Achievements": "2023-05-18T21:06:39.3708997+00:00",
+  "LastChanged_Achievements": "2023-05-18T22:06:10.6223295+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:51.3439218+00:00",
-  "LastUpdate_Ratings": "2023-05-18T20:59:40.041984+00:00",
-  "LastUpdate_Achievements": "2023-05-18T21:06:39.3709124+00:00"
+  "LastUpdate_Ratings": "2023-05-18T21:59:26.044562+00:00",
+  "LastUpdate_Achievements": "2023-05-18T22:06:10.6223376+00:00"
 }

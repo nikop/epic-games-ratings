@@ -6,28 +6,28 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 81.00% | ~176,970 |
-| I know the Rules | 43.00% | ~93,947 |
-| Contender | 11.00% | ~24,033 |
-| I Found it! | 7.00% | ~15,294 |
-| Dress Code | 4.00% | ~8,739 |
-| First but not Last | 3.00% | ~6,554 |
+| Ball Launched | 81.00% | ~176,988 |
+| I know the Rules | 43.00% | ~93,957 |
+| Contender | 11.00% | ~24,035 |
+| I Found it! | 7.00% | ~15,295 |
+| Dress Code | 4.00% | ~8,740 |
+| First but not Last | 3.00% | ~6,555 |
 | Ready Steady Score | 2.00% | ~4,370 |
 | Full Loot Madness | 2.00% | ~4,370 |
-| Nine Zeroes | 0.90% | ~1,966 |
+| Nine Zeroes | 0.90% | ~1,967 |
 | My Table, my Rules | 0.80% | ~1,748 |
-| Shiny Memento | 0.30% | ~655 |
-| Pinball Hoarder | 0.30% | ~655 |
-| Interior Designer | 0.30% | ~655 |
-| Table Mastered, part 10 | 0.10% | ~218 |
-| Medal Hunter | 0.10% | ~218 |
-| Medal Wizard | 0.10% | ~218 |
-| Virtual Pinball Museum | 0.10% | ~218 |
-| Challenge Accepted! | 0.10% | ~218 |
-| Relic Hunter | 0.10% | ~218 |
-| Show Them | 0.10% | ~218 |
-| Totally Furnished | 0.10% | ~218 |
-| Customizer | 0.10% | ~218 |
+| Shiny Memento | 0.30% | ~656 |
+| Pinball Hoarder | 0.30% | ~656 |
+| Interior Designer | 0.30% | ~656 |
+| Table Mastered, part 10 | 0.10% | ~219 |
+| Medal Hunter | 0.10% | ~219 |
+| Medal Wizard | 0.10% | ~219 |
+| Virtual Pinball Museum | 0.10% | ~219 |
+| Challenge Accepted! | 0.10% | ~219 |
+| Relic Hunter | 0.10% | ~219 |
+| Show Them | 0.10% | ~219 |
+| Totally Furnished | 0.10% | ~219 |
+| Customizer | 0.10% | ~219 |
 | Feel the Power | 0.00% | ~0 |
 | Funko Town | 0.00% | ~0 |
 | Master of Attacks | 0.00% | ~0 |
@@ -37,7 +37,7 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,482 (Ranked 45)  
+Progressed: 218,504 (Ranked 45)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,7 +65,7 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-15 | 217,332 | 0 |
 | 2023-05-16 | 217,673 | 0 |
 | 2023-05-17 | 218,064 | 0 |
-| 2023-05-18 | 218,482 | 0 |
+| 2023-05-18 | 218,504 | 0 |
 ## Awards
 Max (Great for Beginners): 173  (Ranked 272)  
 Sum: 1,490 (Ranked 208)  

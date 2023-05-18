@@ -5,25 +5,25 @@ Rating: 3.52 (Ranked 920)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 25.00% | ~66 |
-| Electrician | 21.00% | ~55 |
-| Fear my botany powers, Mars | 13.00% | ~34 |
-| Zero Waste | 9.00% | ~24 |
-| I am the greatest botanist on this planet. | 9.00% | ~24 |
-| Bob The Builder | 9.00% | ~24 |
-| Occupy Mars! | 8.00% | ~21 |
-| Houston we have a problem | 6.00% | ~16 |
+| I don't feel so good | 24.00% | ~67 |
+| Electrician | 20.00% | ~56 |
+| Fear my botany powers, Mars | 13.00% | ~36 |
+| Zero Waste | 8.00% | ~22 |
+| I am the greatest botanist on this planet. | 8.00% | ~22 |
+| Occupy Mars! | 8.00% | ~22 |
+| Bob The Builder | 8.00% | ~22 |
+| Houston we have a problem | 6.00% | ~17 |
 | Miner | 4.00% | ~11 |
 | Get your hands dirty | 3.00% | ~8 |
-| All Wheel Trouble | 2.00% | ~5 |
-| Detective | 2.00% | ~5 |
-| Gardener | 2.00% | ~5 |
-| The Collector | 0.80% | ~2 |
-| “Aliens” | 0.80% | ~2 |
-| Caveman | 0.80% | ~2 |
-| DeDust | 0.80% | ~2 |
-| ITS crash site | 0.80% | ~2 |
-| Space Forest | 0.80% | ~2 |
+| Detective | 2.00% | ~6 |
+| All Wheel Trouble | 1.00% | ~3 |
+| Gardener | 1.00% | ~3 |
+| The Collector | 0.70% | ~2 |
+| “Aliens” | 0.70% | ~2 |
+| Caveman | 0.70% | ~2 |
+| DeDust | 0.70% | ~2 |
+| ITS crash site | 0.70% | ~2 |
+| Space Forest | 0.70% | ~2 |
 | Cooking Vegetables | 0.40% | ~1 |
 | Driver's License | 0.40% | ~1 |
 | Explosive Miner | 0.40% | ~1 |
@@ -54,7 +54,7 @@ Rating: 3.52 (Ranked 920)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 263 (Ranked 218)  
+Progressed: 279 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,7 +65,7 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-15 | 8 | 0 |
 | 2023-05-16 | 9 | 0 |
 | 2023-05-17 | 10 | 0 |
-| 2023-05-18 | 263 | 0 |
+| 2023-05-18 | 279 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

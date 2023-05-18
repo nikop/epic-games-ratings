@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -176,9 +176,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 740,
+  "EOS_Progressed": 742,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -601,6 +601,11 @@
       "Time": "2023-05-18T21:06:36.6199578+00:00",
       "NumProgressed": 740,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-18T22:05:58.1908273+00:00",
+      "NumProgressed": 742,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -778,9 +783,9 @@
       "ID": "REWARD_2_GATHERING_INTEL",
       "SetID": "bm6el81",
       "Name": "Confirming Suspicions",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1179,13 +1184,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 691,
+      "Progressed": 693,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 740,
+      "Progressed": 742,
       "Completed": 2
     }
   ],
@@ -1193,8 +1198,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-18T16:01:31.1520338+00:00",
-  "LastChanged_Achievements": "2023-05-18T21:06:36.6199573+00:00",
+  "LastChanged_Achievements": "2023-05-18T22:05:58.190827+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:23.4749836+00:00",
-  "LastUpdate_Ratings": "2023-05-18T21:01:59.757314+00:00",
-  "LastUpdate_Achievements": "2023-05-18T21:06:36.6200242+00:00"
+  "LastUpdate_Ratings": "2023-05-18T22:01:21.345181+00:00",
+  "LastUpdate_Achievements": "2023-05-18T22:05:58.1908865+00:00"
 }
