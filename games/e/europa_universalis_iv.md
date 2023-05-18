@@ -6,37 +6,37 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,510 |
-| That's a Grand Army | 8.00% | ~3,120 |
-| That is mine! | 8.00% | ~3,120 |
-| Victorious! | 8.00% | ~3,120 |
-| Brothers in Arms | 6.00% | ~2,340 |
-| That's a Grand Navy | 6.00% | ~2,340 |
-| Seriously?! | 6.00% | ~2,340 |
-| For the Glory | 5.00% | ~1,950 |
-| Cold War | 4.00% | ~1,560 |
-| True Catholic | 4.00% | ~1,560 |
-| Defender of the Faith | 3.00% | ~1,170 |
-| It's all about the money | 3.00% | ~1,170 |
-| Respected | 3.00% | ~1,170 |
-| Truly Divine Ruler | 3.00% | ~1,170 |
-| Blockader | 2.00% | ~780 |
-| Combined Arms | 2.00% | ~780 |
-| Double the Love | 2.00% | ~780 |
-| Gentle Persuasion | 2.00% | ~780 |
-| It's all about luck | 2.00% | ~780 |
-| Queen of Conquest | 2.00% | ~780 |
-| Royal Authority | 2.00% | ~780 |
-| The Princess is in this Castle | 2.00% | ~780 |
-| Total Control | 2.00% | ~780 |
-| Agressive Expander | 1.00% | ~390 |
-| All That's Thine Shall Be Mine | 1.00% | ~390 |
-| Azur semé de lis or | 1.00% | ~390 |
-| Bright Spark | 1.00% | ~390 |
-| City of Cities | 1.00% | ~390 |
-| Factionalism | 1.00% | ~390 |
-| A Golden Empire | 1.00% | ~390 |
-| My armies are invincible! | 1.00% | ~390 |
+| Until death do us apart | 9.00% | ~3,515 |
+| That's a Grand Army | 8.00% | ~3,124 |
+| That is mine! | 8.00% | ~3,124 |
+| Victorious! | 8.00% | ~3,124 |
+| Brothers in Arms | 6.00% | ~2,343 |
+| That's a Grand Navy | 6.00% | ~2,343 |
+| Seriously?! | 6.00% | ~2,343 |
+| For the Glory | 5.00% | ~1,953 |
+| Cold War | 4.00% | ~1,562 |
+| True Catholic | 4.00% | ~1,562 |
+| Defender of the Faith | 3.00% | ~1,172 |
+| It's all about the money | 3.00% | ~1,172 |
+| Respected | 3.00% | ~1,172 |
+| Truly Divine Ruler | 3.00% | ~1,172 |
+| Blockader | 2.00% | ~781 |
+| Combined Arms | 2.00% | ~781 |
+| Double the Love | 2.00% | ~781 |
+| Gentle Persuasion | 2.00% | ~781 |
+| It's all about luck | 2.00% | ~781 |
+| Queen of Conquest | 2.00% | ~781 |
+| Royal Authority | 2.00% | ~781 |
+| The Princess is in this Castle | 2.00% | ~781 |
+| Total Control | 2.00% | ~781 |
+| Agressive Expander | 1.00% | ~391 |
+| All That's Thine Shall Be Mine | 1.00% | ~391 |
+| Azur semé de lis or | 1.00% | ~391 |
+| Bright Spark | 1.00% | ~391 |
+| City of Cities | 1.00% | ~391 |
+| Factionalism | 1.00% | ~391 |
+| A Golden Empire | 1.00% | ~391 |
+| My armies are invincible! | 1.00% | ~391 |
 | The Five Colonies | 0.90% | ~351 |
 | Isn't this the way to India? | 0.80% | ~312 |
 | Market Control | 0.80% | ~312 |
@@ -274,6 +274,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Re-Reconquista | 0.10% | ~39 |
 | The Rising Sun | 0.10% | ~39 |
 | The Third Way | 0.10% | ~39 |
+| The Three Mountains | 0.10% | ~39 |
 | The Uncommonwealth | 0.10% | ~39 |
 | This is fine | 0.10% | ~39 |
 | This is Persia! | 0.10% | ~39 |
@@ -346,7 +347,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Freest Man in the World | 0.00% | ~0 |
 | The League of Mayapan | 0.00% | ~0 |
 | The Pheasant Strut | 0.00% | ~0 |
-| The Three Mountains | 0.00% | ~0 |
 | The White Company | 0.00% | ~0 |
 | Tiger of Mysore | 0.00% | ~0 |
 | To the Bone | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,005 (Ranked 80)  
+Progressed: 39,052 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -389,17 +389,17 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-15 | 37,515 | 0 |
 | 2023-05-16 | 38,036 | 0 |
 | 2023-05-17 | 38,614 | 0 |
-| 2023-05-18 | 39,005 | 0 |
+| 2023-05-18 | 39,052 | 0 |
 ## Awards
 Max (Educational): 5,232  (Ranked 60)  
-Sum: 43,328 (Ranked 27)  
+Sum: 43,338 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,232 |
 | This game is Highly Recommended | 5,019 |
 | This game has Challenging Combat | 5,005 |
-| This game is Extremely Fun | 4,970 |
+| This game is Extremely Fun | 4,980 |
 | This game has Diverse Characters | 4,931 |
 | This game is Relaxing | 4,880 |
 | This game has Competitive Players | 4,700 |
@@ -530,4 +530,4 @@ Diff (max vs sum): 33
 | 2023-05-15 | 4.68 | - | 5,223 | 43,234 |
 | 2023-05-16 | 4.68 | - | 5,223 | 43,268 |
 | 2023-05-17 | 4.68 | - | 5,228 | 43,298 |
-| 2023-05-18 | 4.68 | - | 5,232 | 43,328 |
+| 2023-05-18 | 4.68 | - | 5,232 | 43,338 |

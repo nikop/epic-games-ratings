@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -410,9 +410,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 12570,
+  "EOS_Progressed": 12577,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -755,6 +755,11 @@
       "Time": "2023-05-18T17:06:05.6183841+00:00",
       "NumProgressed": 12570,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-05-18T18:05:56.2459094+00:00",
+      "NumProgressed": 12577,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 40,
@@ -774,7 +779,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BACKSTAB_BLIND",
@@ -796,9 +801,9 @@
       "ID": "DISARM_ENEMY",
       "SetID": "4hj6d86",
       "Name": "Flesh Wound",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 25
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -814,7 +819,7 @@
       "Name": "Glutton for Punishment",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FINISH_CONTAGION_NO_DEATH",
@@ -822,7 +827,7 @@
       "Name": "You Belong Here",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FINISH_GAME",
@@ -862,7 +867,7 @@
       "Name": "Parole Denied",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -1052,9 +1057,9 @@
       "ID": "KILL_2HEAD_HAZARD",
       "SetID": "6j5ggkc",
       "Name": "Bear Trap",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -1062,7 +1067,7 @@
       "Name": "Hoard Mode",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "RIOT_10_POWERUPS",
@@ -1076,22 +1081,22 @@
       "ID": "SPEND_20000",
       "SetID": "6j5ggkc",
       "Name": "Big Spender",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 12570,
+      "Progressed": 12577,
       "Completed": 50
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 496,
+      "Progressed": 503,
       "Completed": 29
     }
   ],
@@ -1099,8 +1104,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-16T17:57:38.030273+00:00",
-  "LastChanged_Achievements": "2023-05-18T17:06:05.6183835+00:00",
+  "LastChanged_Achievements": "2023-05-18T18:05:56.245909+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:45.2768909+00:00",
-  "LastUpdate_Ratings": "2023-05-18T16:58:02.4529309+00:00",
-  "LastUpdate_Achievements": "2023-05-18T17:06:05.6184396+00:00"
+  "LastUpdate_Ratings": "2023-05-18T17:57:55.7389812+00:00",
+  "LastUpdate_Achievements": "2023-05-18T18:05:56.2459458+00:00"
 }

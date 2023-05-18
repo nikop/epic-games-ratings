@@ -4101,9 +4101,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 50183,
+  "EOS_Progressed": 50184,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 661,
+  "EOS_NewPlayers": 651,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6671,6 +6671,11 @@
       "Time": "2023-05-18T17:06:37.5430424+00:00",
       "NumProgressed": 50183,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-18T18:06:37.142561+00:00",
+      "NumProgressed": 50184,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -6682,7 +6687,7 @@
       "Name": "Against all odds",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4516
+      "UsersEstimate": 4517
     },
     {
       "ID": "Apple of my eye",
@@ -6738,7 +6743,7 @@
       "Name": "Crowdfunded",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1506
     },
     {
       "ID": "Crackshot",
@@ -6802,7 +6807,7 @@
       "Name": "Freedom!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1506
     },
     {
       "ID": "God of the Arena",
@@ -6874,7 +6879,7 @@
       "Name": "King Solomon",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 7527
+      "UsersEstimate": 7528
     },
     {
       "ID": "Kingslayer",
@@ -6922,7 +6927,7 @@
       "Name": "Lawmaker",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 10538
+      "UsersEstimate": 10539
     },
     {
       "ID": "Long live the Empire",
@@ -7026,7 +7031,7 @@
       "Name": "Swordbearer",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4516
+      "UsersEstimate": 4517
     },
     {
       "ID": "The king is pleased",
@@ -7089,15 +7094,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 50183,
+      "Progressed": 50184,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-05-18T16:00:27.6522288+00:00",
-  "LastChanged_Achievements": "2023-05-18T17:06:37.5430418+00:00",
+  "LastChanged_Achievements": "2023-05-18T18:06:37.1425606+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:38.1125872+00:00",
-  "LastUpdate_Ratings": "2023-05-18T17:00:21.5180643+00:00",
-  "LastUpdate_Achievements": "2023-05-18T17:06:37.5431729+00:00"
+  "LastUpdate_Ratings": "2023-05-18T18:00:27.7559281+00:00",
+  "LastUpdate_Achievements": "2023-05-18T18:06:37.1426225+00:00"
 }

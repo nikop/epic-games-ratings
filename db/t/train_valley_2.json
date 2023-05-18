@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 419,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
@@ -265,9 +265,9 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 699,
+  "EOS_Progressed": 700,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -289,6 +289,11 @@
     {
       "Time": "2023-05-11T22:05:42.2569306+00:00",
       "NumProgressed": 699,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-18T18:06:17.0145912+00:00",
+      "NumProgressed": 700,
       "NumCompleted": 1
     }
   ],
@@ -483,9 +488,9 @@
       "ID": "AchievementFullGarage",
       "SetID": "76o014g",
       "Name": "Full garage",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 35
     },
     {
       "ID": "AchievementGemologist_NAME",
@@ -523,9 +528,9 @@
       "ID": "AchievementIndividualDelivery",
       "SetID": "76o014g",
       "Name": "Individual delivery",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 28
     },
     {
       "ID": "AchievementIndustrialAge",
@@ -675,9 +680,9 @@
       "ID": "AchievementNonStop",
       "SetID": "76o014g",
       "Name": "Non-Stop",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 21
     },
     {
       "ID": "AchievementOneWay",
@@ -900,21 +905,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 40,
+      "Progressed": 41,
       "Completed": 6
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 699,
+      "Progressed": 700,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-05-04T07:57:22.9551284+00:00",
-  "LastChanged_Achievements": "2023-05-18T17:06:16.7140027+00:00",
+  "LastChanged_Achievements": "2023-05-18T18:06:17.0145909+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:25.4877513+00:00",
-  "LastUpdate_Ratings": "2023-05-18T16:57:36.5088015+00:00",
-  "LastUpdate_Achievements": "2023-05-18T17:06:16.7141392+00:00"
+  "LastUpdate_Ratings": "2023-05-18T17:57:24.4557897+00:00",
+  "LastUpdate_Achievements": "2023-05-18T18:06:17.0146742+00:00"
 }

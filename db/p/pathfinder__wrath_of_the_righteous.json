@@ -2340,10 +2340,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6619,
       "NumberOfAwardsMax": 1632
+    },
+    {
+      "Time": "2023-05-18T17:58:32.6746328+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6620,
+      "NumberOfAwardsMax": 1632
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6619,
+  "NumberOfAwards": 6620,
   "NumberOfAwardsMax": 1632,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2381,7 +2387,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 604
+      "Count": 605
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2414,9 +2420,9 @@
       "Count": 368
     }
   ],
-  "EOS_Progressed": 8864,
+  "EOS_Progressed": 8865,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3719,6 +3725,11 @@
       "Time": "2023-05-18T17:06:34.5942387+00:00",
       "NumProgressed": 8864,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-18T18:06:34.1928284+00:00",
+      "NumProgressed": 8865,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3746,7 +3757,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "04_FithCrusade",
@@ -4657,21 +4668,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7646,
+      "Progressed": 7647,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8864,
+      "Progressed": 8865,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-05-18T16:58:34.8850041+00:00",
-  "LastChanged_Achievements": "2023-05-18T17:06:34.594238+00:00",
+  "LastChanged": "2023-05-18T17:58:32.6746327+00:00",
+  "LastChanged_Achievements": "2023-05-18T18:06:34.192826+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:14.2729853+00:00",
-  "LastUpdate_Ratings": "2023-05-18T16:58:34.8850049+00:00",
-  "LastUpdate_Achievements": "2023-05-18T17:06:34.5945408+00:00"
+  "LastUpdate_Ratings": "2023-05-18T17:58:32.6746336+00:00",
+  "LastUpdate_Achievements": "2023-05-18T18:06:34.1930136+00:00"
 }

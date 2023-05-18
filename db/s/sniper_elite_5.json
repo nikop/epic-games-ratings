@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -176,9 +176,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 733,
+  "EOS_Progressed": 735,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -581,6 +581,11 @@
       "Time": "2023-05-18T17:06:03.4125848+00:00",
       "NumProgressed": 733,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-18T18:05:53.8761023+00:00",
+      "NumProgressed": 735,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -662,9 +667,9 @@
       "ID": "REWARD_19_STRATEGIST",
       "SetID": "bm6el81",
       "Name": "Strategist",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_1_MEETING_RESISTANCE",
@@ -830,9 +835,9 @@
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
       "SetID": "bm6el81",
       "Name": "As Quiet as a Mouse",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -926,9 +931,9 @@
       "ID": "REWARD_5_BUNKER_BUSTER",
       "SetID": "bm6el81",
       "Name": "Change the Channel",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -1014,9 +1019,9 @@
       "ID": "REWARD_DLC01_01_FUHRERIOUS_REPETITION",
       "SetID": "83mdf7p",
       "Name": "F\u00FChrerious Repetition",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "REWARD_DLC01_02_REICH_TO_THE_POINT",
@@ -1159,13 +1164,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 684,
+      "Progressed": 686,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 733,
+      "Progressed": 735,
       "Completed": 2
     }
   ],
@@ -1173,8 +1178,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-18T16:01:31.1520338+00:00",
-  "LastChanged_Achievements": "2023-05-18T17:06:03.4125838+00:00",
+  "LastChanged_Achievements": "2023-05-18T18:05:53.8761016+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:23.4749836+00:00",
-  "LastUpdate_Ratings": "2023-05-18T17:01:25.8363769+00:00",
-  "LastUpdate_Achievements": "2023-05-18T17:06:03.4127056+00:00"
+  "LastUpdate_Ratings": "2023-05-18T18:01:27.0561738+00:00",
+  "LastUpdate_Achievements": "2023-05-18T18:05:53.8761778+00:00"
 }

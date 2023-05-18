@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 253,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -852,9 +852,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 2893,
+  "EOS_Progressed": 2894,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2257,6 +2257,11 @@
       "Time": "2023-05-18T17:06:39.8066172+00:00",
       "NumProgressed": 2893,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-18T18:06:39.6730236+00:00",
+      "NumProgressed": 2894,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2524,7 +2529,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -2540,7 +2545,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1129
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -2572,7 +2577,7 @@
       "Name": "French Connection",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -2587,15 +2592,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 2893,
+      "Progressed": 2894,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-15T17:00:44.7999652+00:00",
-  "LastChanged_Achievements": "2023-05-18T17:06:39.8066167+00:00",
+  "LastChanged_Achievements": "2023-05-18T18:06:39.673023+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:03.9005572+00:00",
-  "LastUpdate_Ratings": "2023-05-18T17:00:56.6744611+00:00",
-  "LastUpdate_Achievements": "2023-05-18T17:06:39.8066683+00:00"
+  "LastUpdate_Ratings": "2023-05-18T18:01:00.5009636+00:00",
+  "LastUpdate_Achievements": "2023-05-18T18:06:39.6730642+00:00"
 }

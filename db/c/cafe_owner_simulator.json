@@ -4,7 +4,7 @@
   "ProductSlug": "cafe-owner-simulator-749e0f",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 264,
+  "EOS_Progressed": 265,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -268,6 +268,11 @@
       "Time": "2023-05-18T17:06:16.1068917+00:00",
       "NumProgressed": 264,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-18T18:06:16.3975988+00:00",
+      "NumProgressed": 265,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -287,15 +292,15 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "CHIEF",
       "SetID": "64e5lgf",
       "Name": "CHIEF",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 48
     },
     {
       "ID": "CLEANER",
@@ -317,9 +322,9 @@
       "ID": "FIREFIGHTER",
       "SetID": "64e5lgf",
       "Name": "FIREFIGHTER",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 135
     },
     {
       "ID": "FIRST_100K",
@@ -390,7 +395,7 @@
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 264,
+      "Progressed": 265,
       "Completed": 0
     }
   ],
@@ -398,8 +403,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-05-18T17:06:16.1068911+00:00",
+  "LastChanged_Achievements": "2023-05-18T18:06:16.3975983+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:22.5289595+00:00",
-  "LastUpdate_Ratings": "2023-05-18T17:00:00.6361549+00:00",
-  "LastUpdate_Achievements": "2023-05-18T17:06:16.1069124+00:00"
+  "LastUpdate_Ratings": "2023-05-18T18:00:08.3280177+00:00",
+  "LastUpdate_Achievements": "2023-05-18T18:06:16.3976916+00:00"
 }

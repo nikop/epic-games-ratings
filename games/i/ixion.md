@@ -23,10 +23,10 @@ Rating: 4.55 (Ranked 467)
 | Exceeding Capacity | 0.80% | ~15 |
 | Power Outage | 0.80% | ~15 |
 | Access Granted | 0.70% | ~13 |
+| Necessary Enhancement | 0.70% | ~13 |
 | Convenient Transport | 0.70% | ~13 |
 | Please Make it Stop! | 0.70% | ~13 |
 | Sightseeing | 0.60% | ~11 |
-| Necessary Enhancement | 0.60% | ~11 |
 | BRAWL! | 0.50% | ~10 |
 | From the Past | 0.50% | ~10 |
 | Man's Best Friend | 0.40% | ~8 |
@@ -46,12 +46,12 @@ Rating: 4.55 (Ranked 467)
 | You Had One Job... | 0.20% | ~4 |
 | Space Greenhouse | 0.20% | ~4 |
 | Tiqqun Unchained | 0.20% | ~4 |
+| Scientifically Accurate | 0.20% | ~4 |
 | Help of the Forgotten Member | 0.20% | ~4 |
 | Better Him Than Me | 0.10% | ~2 |
 | Tiqqun Contender | 0.10% | ~2 |
 | Gregor Spinoza | 0.10% | ~2 |
 | Work Harder | 0.10% | ~2 |
-| Scientifically Accurate | 0.10% | ~2 |
 | Soylent Green | 0.10% | ~2 |
 | I Give You the Stars | 0.10% | ~0 |
 | Beyond Time and Space | 0.00% | ~0 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 467)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,914 (Ranked 146)  
+Progressed: 1,915 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-15 | 1,898 | 0 |
 | 2023-05-16 | 1,908 | 0 |
 | 2023-05-17 | 1,911 | 0 |
-| 2023-05-18 | 1,914 | 0 |
+| 2023-05-18 | 1,915 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,6 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The Court of Storms | 0.20% | ~108 |
 | A Brief Tour of the Realms | 0.10% | ~88 |
 | Maddening | 0.10% | ~88 |
 | Pros and CONs | 0.10% | ~88 |
@@ -495,12 +496,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~88 |
 | Overwhelming Force | 0.10% | ~88 |
 | Rescue in the Jungle | 0.10% | ~88 |
-| The Court of Storms | 0.10% | ~54 |
 | Coasting to the Finish | 0.10% | ~54 |
 | Beware the Jabberwock | 0.10% | ~54 |
 | Quick or Quack | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,882 (Ranked 59)  
+Progressed: 87,889 (Ranked 59)  
 Completed: 1,849 (2.10%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -528,7 +528,7 @@ Completed: 1,849 (2.10%) (Ranked 61)
 | 2023-05-15 | 87,611 | 1,843 |
 | 2023-05-16 | 87,710 | 1,845 |
 | 2023-05-17 | 87,802 | 1,849 |
-| 2023-05-18 | 87,882 | 1,849 |
+| 2023-05-18 | 87,889 | 1,849 |
 ## Awards
 Max (Diverse Characters): 4,885  (Ranked 63)  
 Sum: 29,911 (Ranked 37)  

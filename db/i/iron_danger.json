@@ -2,9 +2,9 @@
   "ID": "cd8a253549eb42ce8ce491e09ca49690",
   "Name": "Iron Danger",
   "ProductSlug": "iron-danger-b4320c",
-  "Ranking_EOS_Progress": 230,
-  "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_Progress": 231,
+  "Ranking_EOS_Completed": 58,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 166,
+  "EOS_Progressed": 167,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.41,
+  "EOS_Completed_Percentage": 2.4,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.5378411+00:00",
@@ -60,6 +60,11 @@
     {
       "Time": "2023-05-18T17:06:32.8757918+00:00",
       "NumProgressed": 166,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-18T18:06:32.4119907+00:00",
+      "NumProgressed": 167,
       "NumCompleted": 4
     }
   ],
@@ -190,7 +195,7 @@
       "ID": "ACH_SHARD_1",
       "SetID": "ao59f0i",
       "Name": "First Shard",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 40,
       "UsersEstimate": 134
     },
@@ -255,7 +260,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 166,
+      "Progressed": 167,
       "Completed": 4
     }
   ],
@@ -263,8 +268,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-05-18T17:06:32.8757911+00:00",
+  "LastChanged_Achievements": "2023-05-18T18:06:32.4119904+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:56.6904765+00:00",
-  "LastUpdate_Ratings": "2023-05-18T17:00:46.9813286+00:00",
-  "LastUpdate_Achievements": "2023-05-18T17:06:32.8758179+00:00"
+  "LastUpdate_Ratings": "2023-05-18T18:00:49.9811505+00:00",
+  "LastUpdate_Achievements": "2023-05-18T18:06:32.4120792+00:00"
 }

@@ -5,9 +5,9 @@
   "Ranking_Rating": 920,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
-  "Ranking_EOS_Progress": 245,
+  "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -34,9 +34,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 142,
+  "EOS_Progressed": 187,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -99,6 +99,11 @@
       "Time": "2023-05-18T17:03:16.4704477+00:00",
       "NumProgressed": 142,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-18T18:02:38.0037662+00:00",
+      "NumProgressed": 187,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -116,7 +121,7 @@
       "ID": "ACHIEVEMENT_COOKING_VEGE",
       "SetID": "l546gc",
       "Name": "Cooking Vegetables",
-      "Percentage": 0.7,
+      "Percentage": 0.5,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -124,7 +129,7 @@
       "ID": "ACHIEVEMENT_DRIVERS_LICENSE",
       "SetID": "l546gc",
       "Name": "Driver\u0027s License",
-      "Percentage": 0.7,
+      "Percentage": 0.5,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -132,7 +137,7 @@
       "ID": "ACHIEVEMENT_EXPLOSIVE_MINER",
       "SetID": "l546gc",
       "Name": "Explosive Miner",
-      "Percentage": 0.7,
+      "Percentage": 0.5,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -140,7 +145,7 @@
       "ID": "ACHIEVEMENT_HARD_LANDING",
       "SetID": "l546gc",
       "Name": "Hard Landing",
-      "Percentage": 0.7,
+      "Percentage": 0.5,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -148,7 +153,7 @@
       "ID": "ACHIEVEMENT_HISTORICAL_PLACES",
       "SetID": "l546gc",
       "Name": "Historical Places",
-      "Percentage": 0.7,
+      "Percentage": 0.5,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -156,7 +161,7 @@
       "ID": "ACHIEVEMENT_HOT_REPAIRS",
       "SetID": "l546gc",
       "Name": "Hot Repairs",
-      "Percentage": 0.7,
+      "Percentage": 0.5,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -190,13 +195,13 @@
       "Name": "Zero Waste",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 17
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
       "SetID": "l546gc",
       "Name": "5G Network",
-      "Percentage": 0.7,
+      "Percentage": 0.5,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -206,7 +211,7 @@
       "Name": "\u201CAliens\u201D",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_ALL_WHEEL_TROUBLE",
@@ -214,7 +219,7 @@
       "Name": "All Wheel Trouble",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_BAREEL_ROLL",
@@ -230,7 +235,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 21
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -246,13 +251,13 @@
       "Name": "Caveman",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_DEFENCE",
       "SetID": "l546gc",
       "Name": "Planetary Defence",
-      "Percentage": 0.7,
+      "Percentage": 0.5,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -262,7 +267,7 @@
       "Name": "Detective",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -270,7 +275,7 @@
       "Name": "DeDust",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_DUMB_WAYS",
@@ -284,9 +289,9 @@
       "ID": "NEW_ACHIEVEMENT_ELECTRICIAN",
       "SetID": "l546gc",
       "Name": "Electrician",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 41
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -302,7 +307,7 @@
       "Name": "Gardener",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -310,7 +315,7 @@
       "Name": "Get your hands dirty",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_GOOD_MARTIAN",
@@ -326,15 +331,15 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 15
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
       "SetID": "l546gc",
       "Name": "Houston we have a problem",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 15
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -342,13 +347,13 @@
       "Name": "ITS crash site",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_KOROLEV",
       "SetID": "l546gc",
       "Name": "Korolev crater",
-      "Percentage": 0.7,
+      "Percentage": 0.5,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -356,7 +361,7 @@
       "ID": "NEW_ACHIEVEMENT_MINER",
       "SetID": "l546gc",
       "Name": "Miner",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -364,15 +369,15 @@
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
       "SetID": "l546gc",
       "Name": "I don\u0027t feel so good",
-      "Percentage": 26,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 45
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
       "SetID": "l546gc",
       "Name": "Never Ending Story?",
-      "Percentage": 0.7,
+      "Percentage": 0.5,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -380,9 +385,9 @@
       "ID": "NEW_ACHIEVEMENT_OCCUPY_MARS",
       "SetID": "l546gc",
       "Name": "Occupy Mars!",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -412,7 +417,7 @@
       "ID": "NEW_ACHIEVEMENT_ROADSTER",
       "SetID": "l546gc",
       "Name": "Roadster",
-      "Percentage": 0.7,
+      "Percentage": 0.5,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -436,7 +441,7 @@
       "ID": "NEW_ACHIEVEMENT_ROVER_MECHANIC",
       "SetID": "l546gc",
       "Name": "Rover Mechanic",
-      "Percentage": 0.7,
+      "Percentage": 0.5,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -444,7 +449,7 @@
       "ID": "NEW_ACHIEVEMENT_SPACE_FOREST",
       "SetID": "l546gc",
       "Name": "Space Forest",
-      "Percentage": 0.7,
+      "Percentage": 0.5,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -468,15 +473,15 @@
       "ID": "NEW_ACHIEVEMENT_THE_BUILDER",
       "SetID": "l546gc",
       "Name": "Bob The Builder",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
       "SetID": "l546gc",
       "Name": "Thunderstruck",
-      "Percentage": 0.7,
+      "Percentage": 0.5,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -484,7 +489,7 @@
       "ID": "NEW_ACHIEVEMENT_TO_INFINITY_AND_BEYOND",
       "SetID": "l546gc",
       "Name": "To infinity and beyond!",
-      "Percentage": 0.7,
+      "Percentage": 0.5,
       "XP": 100,
       "UsersEstimate": 1
     }
@@ -493,7 +498,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 142,
+      "Progressed": 187,
       "Completed": 0
     }
   ],
@@ -501,8 +506,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-05-18T06:57:04.6849596+00:00",
-  "LastChanged_Achievements": "2023-05-18T17:03:16.470447+00:00",
+  "LastChanged_Achievements": "2023-05-18T18:02:38.0037653+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:22.3951133+00:00",
-  "LastUpdate_Ratings": "2023-05-18T16:57:30.9740032+00:00",
-  "LastUpdate_Achievements": "2023-05-18T17:03:16.4705097+00:00"
+  "LastUpdate_Ratings": "2023-05-18T17:57:18.364047+00:00",
+  "LastUpdate_Achievements": "2023-05-18T18:02:38.003812+00:00"
 }

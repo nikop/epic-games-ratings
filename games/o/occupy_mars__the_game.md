@@ -5,38 +5,38 @@ Rating: 3.52 (Ranked 920)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 26.00% | ~37 |
-| Electrician | 23.00% | ~33 |
-| Fear my botany powers, Mars | 11.00% | ~16 |
-| Occupy Mars! | 10.00% | ~14 |
-| Zero Waste | 9.00% | ~13 |
-| Bob The Builder | 9.00% | ~13 |
-| I am the greatest botanist on this planet. | 8.00% | ~11 |
-| Houston we have a problem | 6.00% | ~9 |
-| Miner | 4.00% | ~6 |
-| Detective | 3.00% | ~4 |
-| Gardener | 2.00% | ~3 |
-| Get your hands dirty | 2.00% | ~3 |
-| “Aliens” | 1.00% | ~1 |
-| All Wheel Trouble | 1.00% | ~1 |
-| Caveman | 1.00% | ~1 |
-| DeDust | 1.00% | ~1 |
-| ITS crash site | 1.00% | ~1 |
-| Cooking Vegetables | 0.70% | ~1 |
-| Driver's License | 0.70% | ~1 |
-| Explosive Miner | 0.70% | ~1 |
-| Hard Landing | 0.70% | ~1 |
-| Historical Places | 0.70% | ~1 |
-| Hot Repairs | 0.70% | ~1 |
-| 5G Network | 0.70% | ~1 |
-| Planetary Defence | 0.70% | ~1 |
-| Korolev crater | 0.70% | ~1 |
-| Never Ending Story? | 0.70% | ~1 |
-| Roadster | 0.70% | ~1 |
-| Rover Mechanic | 0.70% | ~1 |
-| Space Forest | 0.70% | ~1 |
-| Thunderstruck | 0.70% | ~1 |
-| To infinity and beyond! | 0.70% | ~1 |
+| I don't feel so good | 24.00% | ~45 |
+| Electrician | 22.00% | ~41 |
+| Fear my botany powers, Mars | 11.00% | ~21 |
+| Zero Waste | 9.00% | ~17 |
+| Occupy Mars! | 9.00% | ~17 |
+| I am the greatest botanist on this planet. | 8.00% | ~15 |
+| Houston we have a problem | 8.00% | ~15 |
+| Bob The Builder | 8.00% | ~15 |
+| Detective | 3.00% | ~6 |
+| Miner | 3.00% | ~6 |
+| Gardener | 2.00% | ~4 |
+| Get your hands dirty | 2.00% | ~4 |
+| “Aliens” | 1.00% | ~2 |
+| All Wheel Trouble | 1.00% | ~2 |
+| Caveman | 1.00% | ~2 |
+| DeDust | 1.00% | ~2 |
+| ITS crash site | 1.00% | ~2 |
+| Cooking Vegetables | 0.50% | ~1 |
+| Driver's License | 0.50% | ~1 |
+| Explosive Miner | 0.50% | ~1 |
+| Hard Landing | 0.50% | ~1 |
+| Historical Places | 0.50% | ~1 |
+| Hot Repairs | 0.50% | ~1 |
+| 5G Network | 0.50% | ~1 |
+| Planetary Defence | 0.50% | ~1 |
+| Korolev crater | 0.50% | ~1 |
+| Never Ending Story? | 0.50% | ~1 |
+| Roadster | 0.50% | ~1 |
+| Rover Mechanic | 0.50% | ~1 |
+| Space Forest | 0.50% | ~1 |
+| Thunderstruck | 0.50% | ~1 |
+| To infinity and beyond! | 0.50% | ~1 |
 | The cake is a lie | 0.00% | ~0 |
 | Let's Cook | 0.00% | ~0 |
 | Life on Mars | 0.00% | ~0 |
@@ -54,7 +54,7 @@ Rating: 3.52 (Ranked 920)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142 (Ranked 245)  
+Progressed: 187 (Ranked 227)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,7 +65,7 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-15 | 8 | 0 |
 | 2023-05-16 | 9 | 0 |
 | 2023-05-17 | 10 | 0 |
-| 2023-05-18 | 142 | 0 |
+| 2023-05-18 | 187 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

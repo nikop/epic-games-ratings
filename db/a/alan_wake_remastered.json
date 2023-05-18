@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46217,
+  "EOS_Progressed": 46221,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1771,6 +1771,11 @@
       "Time": "2023-05-18T17:06:10.034979+00:00",
       "NumProgressed": 46217,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-18T18:06:10.3351734+00:00",
+      "NumProgressed": 46221,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1782,7 +1787,7 @@
       "Name": "Follow the Light",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9243
+      "UsersEstimate": 9244
     },
     {
       "ID": "02",
@@ -1790,7 +1795,7 @@
       "Name": "Nordic Walking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6008
+      "UsersEstimate": 6009
     },
     {
       "ID": "03",
@@ -1798,7 +1803,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6008
+      "UsersEstimate": 6009
     },
     {
       "ID": "04",
@@ -1846,7 +1851,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3697
+      "UsersEstimate": 3698
     },
     {
       "ID": "10",
@@ -1942,7 +1947,7 @@
       "Name": "They\u0027re Heeeeeere!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3697
+      "UsersEstimate": 3698
     },
     {
       "ID": "22",
@@ -1950,7 +1955,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3697
+      "UsersEstimate": 3698
     },
     {
       "ID": "23",
@@ -2006,7 +2011,7 @@
       "Name": "Sound and Fury",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3697
+      "UsersEstimate": 3698
     },
     {
       "ID": "30",
@@ -2038,7 +2043,7 @@
       "Name": "Missed by a Mile",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3697
+      "UsersEstimate": 3698
     },
     {
       "ID": "34",
@@ -2142,7 +2147,7 @@
       "Name": "Damn Good Cup of Coffee",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 3697
+      "UsersEstimate": 3698
     },
     {
       "ID": "47",
@@ -2317,21 +2322,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46217,
+      "Progressed": 46221,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9685,
+      "Progressed": 9689,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-18T17:06:10.0349782+00:00",
+  "LastChanged_Achievements": "2023-05-18T18:06:10.3351729+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:33.6043799+00:00",
-  "LastUpdate_Ratings": "2023-05-18T16:57:45.1142504+00:00",
-  "LastUpdate_Achievements": "2023-05-18T17:06:10.0351085+00:00"
+  "LastUpdate_Ratings": "2023-05-18T17:57:34.7290742+00:00",
+  "LastUpdate_Achievements": "2023-05-18T18:06:10.3352523+00:00"
 }

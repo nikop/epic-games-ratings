@@ -1,28 +1,28 @@
 # Ghostrunner
 [Store](https://store.epicgames.com/en-US/p/ghostrunner)  
 [View Rawdata](../../db/g/ghostrunner.json)  
-Rating: 4.72 (Ranked 165)  
+Rating: 4.72 (Ranked 164)  
 Number of Ratings: 1,047  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 78.00% | ~3,971 |
-| Sword Runner | 63.00% | ~3,207 |
+| Longrunner | 78.00% | ~3,972 |
+| Sword Runner | 63.00% | ~3,208 |
 | Wallrunner | 58.00% | ~2,953 |
 | Running out of breath | 57.00% | ~2,902 |
 | Homerunner | 48.00% | ~2,444 |
 | I call it luck | 47.00% | ~2,393 |
 | Out of order | 47.00% | ~2,393 |
 | Where are my Keys? | 45.00% | ~2,291 |
-| Back to hell | 39.00% | ~1,985 |
+| Back to hell | 39.00% | ~1,986 |
 | Perfection | 35.00% | ~1,782 |
 | Sword to a gunfight | 32.00% | ~1,629 |
 | Why not both | 32.00% | ~1,629 |
-| Upgrades not mandatory | 31.00% | ~1,578 |
-| Artificial selection | 30.00% | ~1,527 |
-| Control freak | 30.00% | ~1,527 |
-| Running Wild | 30.00% | ~1,527 |
-| Finish line | 28.00% | ~1,425 |
+| Upgrades not mandatory | 31.00% | ~1,579 |
+| Artificial selection | 30.00% | ~1,528 |
+| Control freak | 30.00% | ~1,528 |
+| Running Wild | 30.00% | ~1,528 |
+| Finish line | 28.00% | ~1,426 |
 | Unstoppable force | 25.00% | ~1,273 |
 | Wave of mutilation | 23.00% | ~1,171 |
 | Can't Run Can't Hide | 20.00% | ~1,018 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Legacy Drivers | 0.50% | ~25 |
 | Up Close And Personal | 0.50% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,091 (Ranked 121)  
+Progressed: 5,092 (Ranked 121)  
 Completed: 25 (0.49%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 25 (0.49%) (Ranked 106)
 | 2023-05-15 | 4,867 | 24 |
 | 2023-05-16 | 4,950 | 25 |
 | 2023-05-17 | 5,029 | 25 |
-| 2023-05-18 | 5,091 | 25 |
+| 2023-05-18 | 5,092 | 25 |
 ## Awards
 Max (Great Boss Battles): 456  (Ranked 189)  
 Sum: 590 (Ranked 284)  

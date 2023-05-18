@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 666,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 6.76,
   "EosHistory": [
@@ -1332,9 +1332,9 @@
       "ID": "16",
       "SetID": "d0g98p",
       "Name": "Soul Slayer",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 200
+      "UsersEstimate": 206
     },
     {
       "ID": "17",
@@ -1685,8 +1685,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-18T17:05:56.9938333+00:00",
+  "LastChanged_Achievements": "2023-05-18T18:05:47.5493023+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:24.6988678+00:00",
-  "LastUpdate_Ratings": "2023-05-18T16:57:34.6947316+00:00",
-  "LastUpdate_Achievements": "2023-05-18T17:05:56.9939163+00:00"
+  "LastUpdate_Ratings": "2023-05-18T17:57:23.3314795+00:00",
+  "LastUpdate_Achievements": "2023-05-18T18:05:47.5493551+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 407,
+  "EOS_Progressed": 408,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -256,6 +256,11 @@
       "Time": "2023-05-18T16:06:36.4869359+00:00",
       "NumProgressed": 407,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-18T18:05:57.3303178+00:00",
+      "NumProgressed": 408,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -307,7 +312,7 @@
       "Name": "A Friend in Need",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "TROP006",
@@ -331,7 +336,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "TROP009",
@@ -443,7 +448,7 @@
       "Name": "A Barking Fox Doesn\u0027t Bite",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "TROP023",
@@ -467,7 +472,7 @@
       "Name": "Chicken Dinner",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "TROP026",
@@ -475,7 +480,7 @@
       "Name": "Lullaby",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "TROP027",
@@ -490,7 +495,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 407,
+      "Progressed": 408,
       "Completed": 3
     }
   ],
@@ -498,8 +503,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-05-18T17:06:06.7456465+00:00",
+  "LastChanged_Achievements": "2023-05-18T18:05:57.3303171+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:48.1607736+00:00",
-  "LastUpdate_Ratings": "2023-05-18T16:59:17.0649115+00:00",
-  "LastUpdate_Achievements": "2023-05-18T17:06:06.7456659+00:00"
+  "LastUpdate_Ratings": "2023-05-18T17:59:20.6676323+00:00",
+  "LastUpdate_Achievements": "2023-05-18T18:05:57.3303388+00:00"
 }

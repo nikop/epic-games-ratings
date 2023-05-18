@@ -2,12 +2,12 @@
   "ID": "c7f9346e3db148fca6dd63e9dd8451bd",
   "Name": "theHunter: Call of the Wild\u2122",
   "ProductSlug": "thehunter-call-of-the-wild",
-  "Ranking_Rating": 400,
+  "Ranking_Rating": 401,
   "Ranking_Popularity": 85,
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2021-11-25T16:00:00+00:00",
@@ -4312,10 +4312,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 23079,
       "NumberOfAwardsMax": 3185
+    },
+    {
+      "Time": "2023-05-18T18:01:36.9497432+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 23082,
+      "NumberOfAwardsMax": 3185
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 23079,
+  "NumberOfAwards": 23082,
   "NumberOfAwardsMax": 3185,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4329,7 +4335,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 2898
+      "Count": 2901
     },
     {
       "Text": "This game is Relaxing",
@@ -4391,8 +4397,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:14.0161067+00:00",
-  "LastChanged": "2023-05-18T12:01:33.4650375+00:00",
+  "LastChanged": "2023-05-18T18:01:36.949743+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:29.4570219+00:00",
-  "LastUpdate_Ratings": "2023-05-18T17:01:32.0715044+00:00",
-  "LastUpdate_Achievements": "2023-05-18T17:05:42.7404328+00:00"
+  "LastUpdate_Ratings": "2023-05-18T18:01:36.9497437+00:00",
+  "LastUpdate_Achievements": "2023-05-18T18:05:33.2721475+00:00"
 }
