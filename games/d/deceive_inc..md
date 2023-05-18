@@ -9,14 +9,14 @@ Rating: 4.69 (Ranked 213)
 | Tomorrow Never Dyes | 48.00% | ~2,794 |
 | Mainframe Hacker | 44.00% | ~2,561 |
 | The Spy who eliminated me | 44.00% | ~2,561 |
-| Never Say Loser Again | 42.00% | ~2,444 |
+| Never Say Loser Again | 42.00% | ~2,445 |
 | For your Eyes only | 39.00% | ~2,270 |
 | Tailor-Made | 38.00% | ~2,212 |
-| Fully Decked Out | 37.00% | ~2,153 |
-| From the Vault with Love | 36.00% | ~2,095 |
+| Fully Decked Out | 37.00% | ~2,154 |
+| From the Vault with Love | 36.00% | ~2,096 |
 | You Only Live Twice | 30.00% | ~1,746 |
 | A view to Win | 29.00% | ~1,688 |
-| Smells Like Trouble | 27.00% | ~1,571 |
+| Smells Like Trouble | 27.00% | ~1,572 |
 | Private Collection | 26.00% | ~1,513 |
 | Assistant Accountant | 25.00% | ~1,455 |
 | In It to Win It | 25.00% | ~1,455 |
@@ -42,7 +42,7 @@ Rating: 4.69 (Ranked 213)
 | Extraction Confusion | 0.30% | ~17 |
 | Spyfall | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,820 (Ranked 116)  
+Progressed: 5,821 (Ranked 116)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-15 | 5,707 | 0 |
 | 2023-05-16 | 5,747 | 0 |
 | 2023-05-17 | 5,800 | 0 |
-| 2023-05-18 | 5,820 | 0 |
+| 2023-05-18 | 5,821 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

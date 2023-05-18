@@ -15,13 +15,14 @@
 | Soft skin | 56.00% | ~5 |
 | Sensitive soul | 44.00% | ~4 |
 | Squid game | 22.00% | ~2 |
+| Rock Solid | 22.00% | ~2 |
+| The beast within | 22.00% | ~2 |
 | Masochistic | 22.00% | ~2 |
+| Rooftop | 22.00% | ~2 |
+| It's getting dark | 22.00% | ~2 |
 | Magnitude 5 | 22.00% | ~2 |
-| Rock Solid | 11.00% | ~1 |
-| The beast within | 11.00% | ~1 |
-| Rooftop | 11.00% | ~1 |
-| It's getting dark | 11.00% | ~1 |
 | MayDay! MayDay! | 11.00% | ~1 |
+| Homeless | 11.00% | ~1 |
 | Full power | 0.00% | ~0 |
 | Abyssal God | 0.00% | ~0 |
 | GG EZ | 0.00% | ~0 |
@@ -31,7 +32,6 @@
 | Nokron tower | 0.00% | ~0 |
 | Sadistic | 0.00% | ~0 |
 | Comeback | 0.00% | ~0 |
-| Homeless | 0.00% | ~0 |
 | Big badaboom! | 0.00% | ~0 |
 | Bookworm | 0.00% | ~0 |
 | Gooooooaaaaal!!! | 0.00% | ~0 |

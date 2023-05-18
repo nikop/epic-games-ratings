@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,495 |
-| That's a Grand Army | 8.00% | ~3,107 |
-| That is mine! | 8.00% | ~3,107 |
-| Victorious! | 8.00% | ~3,107 |
-| Brothers in Arms | 6.00% | ~2,330 |
-| That's a Grand Navy | 6.00% | ~2,330 |
-| Seriously?! | 6.00% | ~2,330 |
-| For the Glory | 5.00% | ~1,942 |
-| Cold War | 4.00% | ~1,553 |
-| True Catholic | 4.00% | ~1,553 |
-| Defender of the Faith | 3.00% | ~1,165 |
-| It's all about the money | 3.00% | ~1,165 |
-| Respected | 3.00% | ~1,165 |
-| Truly Divine Ruler | 3.00% | ~1,165 |
+| Until death do us apart | 9.00% | ~3,499 |
+| That's a Grand Army | 8.00% | ~3,110 |
+| That is mine! | 8.00% | ~3,110 |
+| Victorious! | 8.00% | ~3,110 |
+| Brothers in Arms | 6.00% | ~2,332 |
+| That's a Grand Navy | 6.00% | ~2,332 |
+| Seriously?! | 6.00% | ~2,332 |
+| For the Glory | 5.00% | ~1,944 |
+| Cold War | 4.00% | ~1,555 |
+| True Catholic | 4.00% | ~1,555 |
+| Defender of the Faith | 3.00% | ~1,166 |
+| It's all about the money | 3.00% | ~1,166 |
+| Respected | 3.00% | ~1,166 |
+| Truly Divine Ruler | 3.00% | ~1,166 |
 | Blockader | 2.00% | ~777 |
 | Combined Arms | 2.00% | ~777 |
 | Double the Love | 2.00% | ~777 |
@@ -29,15 +29,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | Royal Authority | 2.00% | ~777 |
 | The Princess is in this Castle | 2.00% | ~777 |
 | Total Control | 2.00% | ~777 |
-| Agressive Expander | 1.00% | ~388 |
-| All That's Thine Shall Be Mine | 1.00% | ~388 |
-| Azur semé de lis or | 1.00% | ~388 |
-| Bright Spark | 1.00% | ~388 |
-| City of Cities | 1.00% | ~388 |
-| Factionalism | 1.00% | ~388 |
-| A Golden Empire | 1.00% | ~388 |
-| My armies are invincible! | 1.00% | ~388 |
-| The Five Colonies | 0.90% | ~349 |
+| Agressive Expander | 1.00% | ~389 |
+| All That's Thine Shall Be Mine | 1.00% | ~389 |
+| Azur semé de lis or | 1.00% | ~389 |
+| Bright Spark | 1.00% | ~389 |
+| City of Cities | 1.00% | ~389 |
+| Factionalism | 1.00% | ~389 |
+| A Golden Empire | 1.00% | ~389 |
+| My armies are invincible! | 1.00% | ~389 |
+| The Five Colonies | 0.90% | ~350 |
 | Isn't this the way to India? | 0.80% | ~311 |
 | Market Control | 0.80% | ~311 |
 | Down Under | 0.70% | ~272 |
@@ -61,17 +61,17 @@ Number of Ratings: 8,414  (23.09.2022)
 | This is My Faith | 0.40% | ~155 |
 | Trophy Hunter | 0.40% | ~155 |
 | Voting Streak | 0.40% | ~155 |
-| All Your Trade Are Belong to Us | 0.30% | ~116 |
-| Bleed Them Dry | 0.30% | ~116 |
-| Four For Trade | 0.30% | ~116 |
-| Global Hegemony | 0.30% | ~116 |
-| Grand Coalition | 0.30% | ~116 |
-| Grand Duchy | 0.30% | ~116 |
-| Italian Ambition | 0.30% | ~116 |
-| One Night in Paris | 0.30% | ~116 |
-| Tear Down This Wall | 0.30% | ~116 |
-| Traditional Player | 0.30% | ~116 |
-| Wonderful | 0.30% | ~116 |
+| All Your Trade Are Belong to Us | 0.30% | ~117 |
+| Bleed Them Dry | 0.30% | ~117 |
+| Four For Trade | 0.30% | ~117 |
+| Global Hegemony | 0.30% | ~117 |
+| Grand Coalition | 0.30% | ~117 |
+| Grand Duchy | 0.30% | ~117 |
+| Italian Ambition | 0.30% | ~117 |
+| One Night in Paris | 0.30% | ~117 |
+| Tear Down This Wall | 0.30% | ~117 |
+| Traditional Player | 0.30% | ~117 |
+| Wonderful | 0.30% | ~117 |
 | A Decent Reserve | 0.20% | ~78 |
 | A Pile of Gold | 0.20% | ~78 |
 | A Protected Market | 0.20% | ~78 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,833 (Ranked 80)  
+Progressed: 38,873 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -389,16 +389,16 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-15 | 37,515 | 0 |
 | 2023-05-16 | 38,036 | 0 |
 | 2023-05-17 | 38,614 | 0 |
-| 2023-05-18 | 38,833 | 0 |
+| 2023-05-18 | 38,873 | 0 |
 ## Awards
 Max (Educational): 5,232  (Ranked 60)  
-Sum: 43,314 (Ranked 27)  
+Sum: 43,318 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,232 |
 | This game is Highly Recommended | 5,019 |
-| This game has Challenging Combat | 5,001 |
+| This game has Challenging Combat | 5,005 |
 | This game is Extremely Fun | 4,970 |
 | This game has Diverse Characters | 4,921 |
 | This game is Relaxing | 4,880 |
@@ -530,4 +530,4 @@ Diff (max vs sum): 33
 | 2023-05-15 | 4.68 | - | 5,223 | 43,234 |
 | 2023-05-16 | 4.68 | - | 5,223 | 43,268 |
 | 2023-05-17 | 4.68 | - | 5,228 | 43,298 |
-| 2023-05-18 | 4.68 | - | 5,232 | 43,314 |
+| 2023-05-18 | 4.68 | - | 5,232 | 43,318 |

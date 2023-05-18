@@ -758,9 +758,9 @@
       "ID": "REWARD_32_RIGGED_BLOW",
       "SetID": "bm6el81",
       "Name": "Rigged to Blow",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -942,9 +942,9 @@
       "ID": "REWARD_6_BIG_GAME_HUNTER",
       "SetID": "bm6el81",
       "Name": "Taking it back",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -966,9 +966,9 @@
       "ID": "REWARD_7_TARGET_AMERICA",
       "SetID": "bm6el81",
       "Name": "Target America",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -1157,8 +1157,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-16T14:00:47.7127935+00:00",
-  "LastChanged_Achievements": "2023-05-18T13:10:43.3841326+00:00",
+  "LastChanged_Achievements": "2023-05-18T14:05:18.5963149+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:23.4749836+00:00",
-  "LastUpdate_Ratings": "2023-05-18T13:05:28.206925+00:00",
-  "LastUpdate_Achievements": "2023-05-18T13:10:43.3842014+00:00"
+  "LastUpdate_Ratings": "2023-05-18T14:00:08.5875467+00:00",
+  "LastUpdate_Achievements": "2023-05-18T14:05:18.596452+00:00"
 }

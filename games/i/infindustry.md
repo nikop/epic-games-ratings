@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Harvester | 15.00% | ~4 |
 | Workforce | 15.00% | ~4 |
-| Harvester | 12.00% | ~3 |
 | Builder | 4.00% | ~1 |
 | Healer | 4.00% | ~1 |
 | Rep1 | 4.00% | ~1 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 176,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2382,
+  "EOS_Progressed": 2384,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -989,6 +989,11 @@
       "Time": "2023-05-17T13:11:34.3130178+00:00",
       "NumProgressed": 2382,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-18T14:05:23.5070247+00:00",
+      "NumProgressed": 2384,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1040,7 +1045,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "CrowdPleaser",
@@ -1056,7 +1061,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "Eureka_23",
@@ -1064,7 +1069,7 @@
       "Name": "Eureka",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -1136,7 +1141,7 @@
       "Name": "Light of Levant",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "MagicIsaScience_58",
@@ -1184,7 +1189,7 @@
       "Name": "Ready for Summer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "ReadyforWinter_42",
@@ -1192,7 +1197,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1526
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -1208,7 +1213,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -1272,7 +1277,7 @@
       "Name": "The Power of Freedom",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "TheStuffOfLegends",
@@ -1296,7 +1301,7 @@
       "Name": "This was a mistake...",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ThroughFireAndFlame",
@@ -1320,7 +1325,7 @@
       "Name": "Venture Outward",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 1786
+      "UsersEstimate": 1788
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -1335,15 +1340,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2382,
+      "Progressed": 2384,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-05-18T13:10:48.1417418+00:00",
+  "LastChanged_Achievements": "2023-05-18T14:05:23.5070243+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:37.4392103+00:00",
-  "LastUpdate_Ratings": "2023-05-18T13:02:55.7358171+00:00",
-  "LastUpdate_Achievements": "2023-05-18T13:10:48.1417766+00:00"
+  "LastUpdate_Ratings": "2023-05-18T13:57:35.6298815+00:00",
+  "LastUpdate_Achievements": "2023-05-18T14:05:23.5070536+00:00"
 }

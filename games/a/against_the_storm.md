@@ -43,11 +43,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Into the Forest | 0.40% | ~59 |
 | Efficient Explorer | 0.30% | ~45 |
 | Fishmen Ritual Site | 0.30% | ~45 |
+| Prestigious Expedition | 0.30% | ~45 |
 | Blood Flower Farmer | 0.30% | ~45 |
 | Beaver Utopia | 0.20% | ~30 |
 | Human Utopia | 0.20% | ~30 |
 | Lizard Utopia | 0.20% | ~30 |
-| Prestigious Expedition | 0.20% | ~30 |
 | Victory through Prosperity | 0.20% | ~30 |
 | Feeding The People | 0.10% | ~15 |
 | Paradise | 0.10% | ~15 |

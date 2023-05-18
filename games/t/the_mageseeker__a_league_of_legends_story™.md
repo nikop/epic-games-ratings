@@ -12,7 +12,7 @@ Rating: 4.76 (Ranked 115)
 | Dark Forest | 76.00% | ~1,533 |
 | The use of petricite | 73.00% | ~1,472 |
 | You can pet the dog | 60.00% | ~1,210 |
-| Big Helmet Bro | 34.00% | ~686 |
+| Big Helmet Bro | 35.00% | ~706 |
 | Clarion Cove | 34.00% | ~686 |
 | Past trauma | 32.00% | ~645 |
 | Thornbarrow | 32.00% | ~645 |
@@ -27,7 +27,7 @@ Rating: 4.76 (Ranked 115)
 | Ancient power | 23.00% | ~464 |
 | I chose my shackles | 22.00% | ~444 |
 | Sacred Woods | 21.00% | ~424 |
-| Capelworth | 19.00% | ~383 |
+| Capelworth | 20.00% | ~403 |
 | Little light | 18.00% | ~363 |
 | Glyndemere | 18.00% | ~363 |
 | Iffighain Headquarters | 18.00% | ~363 |

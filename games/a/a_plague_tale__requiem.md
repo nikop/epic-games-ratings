@@ -14,7 +14,7 @@ Rating: 4.74 (Ranked 140)
 | Leaving all Behind | 65.00% | ~6,684 |
 | Felons | 62.00% | ~6,375 |
 | A Sea of Promises | 60.00% | ~6,170 |
-| Tales and Revelations | 56.00% | ~5,758 |
+| Tales and Revelations | 57.00% | ~5,861 |
 | Bloodline | 52.00% | ~5,347 |
 | The Cradle of Centuries | 48.00% | ~4,936 |
 | The Life We Deserve | 45.00% | ~4,627 |
@@ -71,12 +71,12 @@ Completed: 32 (0.31%) (Ranked 123)
 | 2023-05-17 | 10,279 | 32 |
 | 2023-05-18 | 10,283 | 32 |
 ## Awards
-Max (Great Boss Battles): 400  (Ranked 200)  
-Sum: 556 (Ranked 288)  
+Max (Great Boss Battles): 401  (Ranked 200)  
+Sum: 557 (Ranked 288)  
 Diff (max vs sum): -88  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 400 |
+| This game has Great Boss Battles | 401 |
 | This game is Highly Recommended | 29 |
 | This game has Diverse Characters | 28 |
 | This game is Great for Beginners | 27 |
@@ -115,3 +115,4 @@ Diff (max vs sum): -88
 | 2023-04-23 | 4.74 | 398 | 554 |
 | 2023-05-05 | 4.74 | 399 | 555 |
 | 2023-05-06 | 4.74 | 400 | 556 |
+| 2023-05-18 | 4.74 | 401 | 557 |

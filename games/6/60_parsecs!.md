@@ -7,12 +7,12 @@
 | Don't Panic! | 97.00% | ~579 |
 | Friendzone | 79.00% | ~472 |
 | Space Colonization | 79.00% | ~472 |
-| Hello World | 73.00% | ~436 |
-| Tinkerer | 62.00% | ~370 |
+| Hello World | 74.00% | ~442 |
+| Tinkerer | 63.00% | ~376 |
 | Space Engineer | 61.00% | ~364 |
 | Dust to Dust | 57.00% | ~340 |
 | Across The Stars | 47.00% | ~281 |
-| Crafty | 44.00% | ~263 |
+| Crafty | 45.00% | ~269 |
 | All Seats Taken | 35.00% | ~209 |
 | For Science! | 31.00% | ~185 |
 | Meet the Petersons | 31.00% | ~185 |
@@ -32,7 +32,7 @@
 | Axel jump in space! | 6.00% | ~36 |
 | First of April | 6.00% | ~36 |
 | Fix-It Felix | 6.00% | ~36 |
-| Extreme Makeover | 4.00% | ~24 |
+| Extreme Makeover | 5.00% | ~30 |
 | The Improvinator | 4.00% | ~24 |
 | The Last Supper | 4.00% | ~24 |
 | Bovine Domain | 2.00% | ~12 |

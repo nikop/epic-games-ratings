@@ -8,8 +8,8 @@
 | To Each Their Own | 31.00% | ~9 |
 | Like Phileas Fogg | 17.00% | ~5 |
 | Onwards and Upwards | 17.00% | ~5 |
+| You Get An Upgrade, You Get An Upgrade! | 14.00% | ~4 |
 | Seven-League Boots | 10.00% | ~3 |
-| You Get An Upgrade, You Get An Upgrade! | 10.00% | ~3 |
 | Playing God | 10.00% | ~3 |
 | Nerd | 7.00% | ~2 |
 | Highly Qualified | 7.00% | ~2 |

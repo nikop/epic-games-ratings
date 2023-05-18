@@ -6,23 +6,23 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 75.00% | ~1,786 |
-| Ready for Winter | 64.00% | ~1,524 |
-| Ready for Summer | 51.00% | ~1,215 |
-| Cordon Bleu | 44.00% | ~1,048 |
+| Venture Outward | 75.00% | ~1,788 |
+| Ready for Winter | 64.00% | ~1,526 |
+| Ready for Summer | 51.00% | ~1,216 |
+| Cordon Bleu | 44.00% | ~1,049 |
 | Tapped! | 36.00% | ~858 |
-| Eureka | 32.00% | ~762 |
-| Scourge Slayer | 26.00% | ~619 |
+| Eureka | 32.00% | ~763 |
+| Scourge Slayer | 26.00% | ~620 |
 | Science, Troglodyte! | 24.00% | ~572 |
 | Exceptional Skill | 23.00% | ~548 |
 | Home Sweet Home | 23.00% | ~548 |
-| Encyclopedic! | 20.00% | ~476 |
+| Encyclopedic! | 20.00% | ~477 |
 | A Fortress Toppled! | 16.00% | ~381 |
 | Apex Predator | 16.00% | ~381 |
 | The Power of Family | 16.00% | ~381 |
 | Strange amalgams | 13.00% | ~310 |
 | The Power of Faith | 13.00% | ~310 |
-| The Power of Freedom | 9.00% | ~214 |
+| The Power of Freedom | 9.00% | ~215 |
 | Ace Detective | 8.00% | ~191 |
 | Gift from the Ancestors | 8.00% | ~191 |
 | House of Cards | 8.00% | ~191 |
@@ -35,8 +35,8 @@ Number of Ratings: 266  (23.09.2022)
 | Ancestor's Pride | 5.00% | ~119 |
 | For All Aurai | 4.00% | ~95 |
 | Memory of a legend | 4.00% | ~95 |
-| Light of Levant | 3.00% | ~71 |
-| This was a mistake... | 3.00% | ~71 |
+| Light of Levant | 3.00% | ~72 |
+| This was a mistake... | 3.00% | ~72 |
 | Crowd Pleaser. | 2.00% | ~48 |
 | Perfect Defense | 2.00% | ~48 |
 | Power! To! The People! | 2.00% | ~48 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.40% | ~10 |
 | The Absolute Pinnacle. | 0.30% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,382 (Ranked 140)  
+Progressed: 2,384 (Ranked 140)  
 Completed: 1 (0.04%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,6 +76,7 @@ Completed: 1 (0.04%) (Ranked 176)
 | 2023-05-15 | 2,373 | 1 |
 | 2023-05-16 | 2,378 | 1 |
 | 2023-05-17 | 2,382 | 1 |
+| 2023-05-18 | 2,384 | 1 |
 ## Awards
 Max (Amazing Characters): 31  (Ranked 441)  
 Sum: 238 (Ranked 343)  

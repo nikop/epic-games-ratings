@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 663,
+  "EOS_Progressed": 664,
   "EOS_Completed": 45,
   "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 6.79,
+  "EOS_Completed_Percentage": 6.78,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -1252,6 +1252,11 @@
       "Time": "2023-05-18T11:05:44.0727559+00:00",
       "NumProgressed": 663,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-05-18T14:05:13.2024243+00:00",
+      "NumProgressed": 664,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 50,
@@ -1263,7 +1268,7 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "10",
@@ -1271,7 +1276,7 @@
       "Name": "Piece of Cake",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "11",
@@ -1287,7 +1292,7 @@
       "Name": "Spellbound",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "13",
@@ -1343,7 +1348,7 @@
       "Name": "A Grand Visit",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "2",
@@ -1351,7 +1356,7 @@
       "Name": "Waff!",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "20",
@@ -1423,15 +1428,15 @@
       "Name": "Sword, Shield, Fight!",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "29",
       "SetID": "d0g98p",
       "Name": "All That Glistens",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 232
+      "UsersEstimate": 239
     },
     {
       "ID": "3",
@@ -1439,7 +1444,7 @@
       "Name": "Vibing",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "30",
@@ -1455,7 +1460,7 @@
       "Name": "Little Shop",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "32",
@@ -1519,7 +1524,7 @@
       "Name": "All Skilled Up!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "4",
@@ -1527,7 +1532,7 @@
       "Name": "A Prophecy",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "40",
@@ -1597,9 +1602,9 @@
       "ID": "48",
       "SetID": "d0g98p",
       "Name": "Into the Barn",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 577
+      "UsersEstimate": 584
     },
     {
       "ID": "49",
@@ -1639,7 +1644,7 @@
       "Name": "Fun Guy",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "8",
@@ -1655,14 +1660,14 @@
       "Name": "Curtain Call",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     }
   ],
   "AchievementSets": [
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 663,
+      "Progressed": 664,
       "Completed": 45
     }
   ],
@@ -1670,8 +1675,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-18T13:10:37.8866406+00:00",
+  "LastChanged_Achievements": "2023-05-18T14:05:13.2024236+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:24.6988678+00:00",
-  "LastUpdate_Ratings": "2023-05-18T13:02:44.5129009+00:00",
-  "LastUpdate_Achievements": "2023-05-18T13:10:37.8866864+00:00"
+  "LastUpdate_Ratings": "2023-05-18T13:57:22.9091773+00:00",
+  "LastUpdate_Achievements": "2023-05-18T14:05:13.2024663+00:00"
 }

@@ -5,16 +5,16 @@ Rating: 4.18 (Ranked 827)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Instigator | 0.60% | ~3 |
 | Big Game Hunter | 0.60% | ~3 |
-| Instigator | 0.50% | ~2 |
 | Bear Trap | 0.50% | ~2 |
 | Big Spender | 0.40% | ~2 |
+| Parole Denied | 0.30% | ~1 |
 | The Commonality | 0.30% | ~38 |
 | Hoard Mode | 0.30% | ~1 |
 | Giving Back | 0.20% | ~25 |
 | Recidivist | 0.20% | ~1 |
 | Lifer | 0.20% | ~1 |
-| Parole Denied | 0.20% | ~1 |
 | Float Like A Butterfly | 0.20% | ~25 |
 | Mugshot | 0.20% | ~25 |
 | It's over, Jacob! | 0.10% | ~13 |

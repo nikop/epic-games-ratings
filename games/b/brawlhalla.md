@@ -4,7 +4,7 @@
 Rating: 4.59 (Ranked 399)  
 ## Awards
 Max (Competitive Players): 103  (Ranked 320)  
-Sum: 983 (Ranked 229)  
+Sum: 985 (Ranked 229)  
 Diff (max vs sum): 91  
 | Award | Count |
 | ----- | ----- |
@@ -12,7 +12,7 @@ Diff (max vs sum): 91
 | This game is Great for Beginners | 102 |
 | This game has Diverse Characters | 101 |
 | This game is Great for Quick Sessions | 100 |
-| This game is Relaxing | 98 |
+| This game is Relaxing | 100 |
 | This game has Quickly Understood Controls | 94 |
 | This game is Extremely Fun | 88 |
 | This game has Amazing Characters | 88 |
@@ -137,4 +137,4 @@ Diff (max vs sum): 91
 | 2023-05-15 | 4.59 | 103 | 959 |
 | 2023-05-16 | 4.59 | 103 | 969 |
 | 2023-05-17 | 4.59 | 103 | 980 |
-| 2023-05-18 | 4.59 | 103 | 983 |
+| 2023-05-18 | 4.59 | 103 | 985 |

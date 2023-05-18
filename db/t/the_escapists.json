@@ -2,7 +2,7 @@
   "ID": "61bc780f42f84fe29e6dfee957ab82de",
   "Name": "The Escapists",
   "ProductSlug": "the-escapists",
-  "Ranking_Rating": 569,
+  "Ranking_Rating": 570,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 408,
@@ -536,6 +536,6 @@
   "FirstSeen": "2022-07-22T20:18:12.5435213+00:00",
   "LastChanged": "2023-03-31T05:57:05.7373813+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:04.6162401+00:00",
-  "LastUpdate_Ratings": "2023-05-18T13:05:09.8331916+00:00",
-  "LastUpdate_Achievements": "2023-05-18T13:10:13.5327331+00:00"
+  "LastUpdate_Ratings": "2023-05-18T13:59:47.7085292+00:00",
+  "LastUpdate_Achievements": "2023-05-18T14:04:47.9968109+00:00"
 }

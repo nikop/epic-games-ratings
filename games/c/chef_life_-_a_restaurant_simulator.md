@@ -9,7 +9,7 @@
 | You're the Expert! | 45.00% | ~48 |
 | So Clean You Can Eat Off the Floor | 31.00% | ~33 |
 | French Flair | 30.00% | ~32 |
-| S is for Scrumptious | 25.00% | ~27 |
+| S is for Scrumptious | 26.00% | ~28 |
 | Next Level Cuisine | 18.00% | ~19 |
 | Italian Style | 16.00% | ~17 |
 | Haute Cuisine | 12.00% | ~13 |

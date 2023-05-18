@@ -14,13 +14,16 @@ Rating: 4.40 (Ranked 670)
 | Skirmisher | 0.10% | ~1 |
 | Precision Is Key | 0.10% | ~1 |
 | Confirming Suspicions | 0.10% | ~1 |
+| Rigged to Blow | 0.10% | ~1 |
 | Lord of War | 0.10% | ~1 |
 | Resourceful | 0.10% | ~1 |
 | As Quiet as a Mouse | 0.10% | ~1 |
 | It's Starting to Crack | 0.10% | ~1 |
 | Change the Channel | 0.10% | ~1 |
 | Don't hold your breath | 0.10% | ~1 |
+| Taking it back | 0.10% | ~1 |
 | Brains of the Operation | 0.10% | ~1 |
+| Target America | 0.10% | ~1 |
 | Last Resort | 0.10% | ~1 |
 | Siegebreaker | 0.10% | ~1 |
 | Ghost of Falaise | 0.10% | ~1 |
@@ -40,7 +43,6 @@ Rating: 4.40 (Ranked 670)
 | Sharpshooter | 0.00% | ~0 |
 | Set Europe Ablaze | 0.00% | ~0 |
 | Out of Scope | 0.00% | ~0 |
-| Rigged to Blow | 0.00% | ~0 |
 | My Little Friend | 0.00% | ~0 |
 | Explosive Efficiency | 0.00% | ~0 |
 | Die Nussknacker Sweet! | 0.00% | ~0 |
@@ -57,9 +59,7 @@ Rating: 4.40 (Ranked 670)
 | Locomotion Commotion | 0.00% | ~0 |
 | Up close and personal | 0.00% | ~0 |
 | Road Rage | 0.00% | ~0 |
-| Taking it back | 0.00% | ~0 |
 | Sight Beyond Sights | 0.00% | ~0 |
-| Target America | 0.00% | ~0 |
 | Shoot for the Moon | 0.00% | ~0 |
 | The Kraken Sleeps | 0.00% | ~0 |
 | Can't Outrun A Bullet | 0.00% | ~0 |

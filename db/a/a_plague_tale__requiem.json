@@ -198,18 +198,24 @@
       "Rating": 4.74,
       "NumberOfAwards": 556,
       "NumberOfAwardsMax": 400
+    },
+    {
+      "Time": "2023-05-18T13:59:06.6140979+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 557,
+      "NumberOfAwardsMax": 401
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 556,
-  "NumberOfAwardsMax": 400,
+  "NumberOfAwards": 557,
+  "NumberOfAwardsMax": 401,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 400
+      "Count": 401
     },
     {
       "Text": "This game is Great for Beginners",
@@ -250,7 +256,7 @@
   ],
   "EOS_Progressed": 10283,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -1076,9 +1082,9 @@
       "ID": "ACH_09",
       "SetID": "9d4cf4c",
       "Name": "Tales and Revelations",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 5758
+      "UsersEstimate": 5861
     },
     {
       "ID": "ACH_10",
@@ -1300,9 +1306,9 @@
   "FirstSeen": "2022-10-18T03:00:59.1275304+00:00",
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
-  "LastChanged": "2023-05-06T21:01:02.9835105+00:00",
-  "LastChanged_Achievements": "2023-05-18T13:11:02.6989126+00:00",
+  "LastChanged": "2023-05-18T13:59:06.6140973+00:00",
+  "LastChanged_Achievements": "2023-05-18T14:05:38.4569919+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:15.9050942+00:00",
-  "LastUpdate_Ratings": "2023-05-18T13:04:30.1541338+00:00",
-  "LastUpdate_Achievements": "2023-05-18T13:11:02.6989415+00:00"
+  "LastUpdate_Ratings": "2023-05-18T13:59:06.6140984+00:00",
+  "LastUpdate_Achievements": "2023-05-18T14:05:38.4570172+00:00"
 }

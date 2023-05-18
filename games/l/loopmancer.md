@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Cat's Warning | 106.00% | ~91 |
-| Every little bit counts | 99.00% | ~85 |
-| Break no Sweat | 98.00% | ~84 |
-| Growth | 87.00% | ~75 |
-| Targeting the Enemy | 70.00% | ~60 |
-| Unavoidable | 64.00% | ~55 |
-| Revenge | 63.00% | ~54 |
+| Black Cat's Warning | 105.00% | ~91 |
+| Every little bit counts | 98.00% | ~85 |
+| Break no Sweat | 97.00% | ~84 |
+| Growth | 86.00% | ~75 |
+| Targeting the Enemy | 69.00% | ~60 |
+| Unavoidable | 63.00% | ~55 |
+| Revenge | 62.00% | ~54 |
 | Reunion | 43.00% | ~37 |
-| Fluke | 35.00% | ~30 |
-| Victor's Prejudice | 35.00% | ~30 |
-| Elimination | 34.00% | ~29 |
+| Fluke | 36.00% | ~31 |
+| Victor's Prejudice | 34.00% | ~30 |
+| Elimination | 33.00% | ~29 |
 | Excellent Driving Skills | 30.00% | ~26 |
 | Memento | 30.00% | ~26 |
 | Once Bitten, Twice Shy | 29.00% | ~25 |
-| Defeat the AI | 27.00% | ~23 |
-| Fleet-footed | 27.00% | ~23 |
-| Unsalvageable | 26.00% | ~22 |
-| Invincible | 26.00% | ~22 |
+| Defeat the AI | 26.00% | ~23 |
+| Fleet-footed | 26.00% | ~23 |
+| Unsalvageable | 25.00% | ~22 |
+| Invincible | 25.00% | ~22 |
 | Neutralize | 24.00% | ~21 |
 | Best in Dragon City | 23.00% | ~20 |
 | Walking into a Trap | 23.00% | ~20 |
@@ -30,7 +30,7 @@
 | Outsider's Profit | 20.00% | ~17 |
 | Reappearance | 16.00% | ~14 |
 | Brain in a Vat | 16.00% | ~14 |
-| King of the Streets | 12.00% | ~10 |
+| King of the Streets | 11.00% | ~10 |
 | Calamity | 10.00% | ~9 |
 | Survival Expert | 10.00% | ~9 |
 | Rest in peace | 9.00% | ~8 |
@@ -62,7 +62,7 @@
 | Heavenly Music | 0.00% | ~0 |
 | Smooth-Sailing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 86 (Ranked 256)  
+Progressed: 87 (Ranked 256)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,6 +70,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-04-25 | 86 | 0 |
 | 2023-04-27 | 87 | 0 |
 | 2023-05-16 | 87 | 0 |
+| 2023-05-18 | 87 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

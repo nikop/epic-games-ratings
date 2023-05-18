@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -142,7 +142,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5820,
+  "EOS_Progressed": 5821,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 0,
@@ -2217,6 +2217,11 @@
       "Time": "2023-05-18T12:06:44.5818857+00:00",
       "NumProgressed": 5820,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-18T14:05:40.6140431+00:00",
+      "NumProgressed": 5821,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -2284,7 +2289,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 2095
+      "UsersEstimate": 2096
     },
     {
       "ID": "0009",
@@ -2332,7 +2337,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2153
+      "UsersEstimate": 2154
     },
     {
       "ID": "0015",
@@ -2356,7 +2361,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 2444
+      "UsersEstimate": 2445
     },
     {
       "ID": "0018",
@@ -2492,7 +2497,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1571
+      "UsersEstimate": 1572
     },
     {
       "ID": "0035",
@@ -2515,7 +2520,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 5820,
+      "Progressed": 5821,
       "Completed": 0
     }
   ],
@@ -2523,8 +2528,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-05-17T15:00:48.8293025+00:00",
-  "LastChanged_Achievements": "2023-05-18T13:11:04.823017+00:00",
+  "LastChanged_Achievements": "2023-05-18T14:05:40.6140428+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:34.0542734+00:00",
-  "LastUpdate_Ratings": "2023-05-18T13:04:43.2714181+00:00",
-  "LastUpdate_Achievements": "2023-05-18T13:11:04.8230496+00:00"
+  "LastUpdate_Ratings": "2023-05-18T13:59:19.9887163+00:00",
+  "LastUpdate_Achievements": "2023-05-18T14:05:40.6140743+00:00"
 }

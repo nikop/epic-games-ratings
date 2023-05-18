@@ -566,9 +566,9 @@
       "ID": "MissionAmaranthPart2",
       "SetID": "a6c395p",
       "Name": "Retaliate",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 181
+      "UsersEstimate": 190
     },
     {
       "ID": "MissionAncientRitual",
@@ -814,8 +814,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-05-18T13:11:11.1574822+00:00",
+  "LastChanged_Achievements": "2023-05-18T14:05:47.012263+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:53.1050523+00:00",
-  "LastUpdate_Ratings": "2023-05-18T13:04:59.8996583+00:00",
-  "LastUpdate_Achievements": "2023-05-18T13:11:11.1575165+00:00"
+  "LastUpdate_Ratings": "2023-05-18T13:59:38.0135782+00:00",
+  "LastUpdate_Achievements": "2023-05-18T14:05:47.0122905+00:00"
 }
