@@ -2,12 +2,12 @@
   "ID": "879b0d8776ab46a59a129983ba78f0ce",
   "Name": "Genshin Impact",
   "ProductSlug": "genshin-impact",
-  "Ranking_Rating": 237,
+  "Ranking_Rating": 238,
   "Ranking_Popularity": 3,
   "Ranking_PopularitySum": 4,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2021-06-08T23:00:00+00:00",
@@ -5298,10 +5298,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1331710,
       "NumberOfAwardsMax": 295820
+    },
+    {
+      "Time": "2023-05-18T16:59:10.8270734+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1331727,
+      "NumberOfAwardsMax": 295820
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1331710,
+  "NumberOfAwards": 1331727,
   "NumberOfAwardsMax": 295820,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5369,7 +5375,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 106211
+      "Count": 106228
     }
   ],
   "EOS_Progressed": 0,
@@ -5383,8 +5389,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2023-05-18T14:58:47.950045+00:00",
+  "LastChanged": "2023-05-18T16:59:10.827073+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:39.6910862+00:00",
-  "LastUpdate_Ratings": "2023-05-18T15:59:17.771607+00:00",
-  "LastUpdate_Achievements": "2023-05-18T16:03:46.4555054+00:00"
+  "LastUpdate_Ratings": "2023-05-18T16:59:10.8270742+00:00",
+  "LastUpdate_Achievements": "2023-05-18T17:03:41.033334+00:00"
 }

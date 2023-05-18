@@ -2,12 +2,12 @@
   "ID": "ark",
   "Name": "ARK: Survival Evolved",
   "ProductSlug": "ark",
-  "Ranking_Rating": 399,
+  "Ranking_Rating": 400,
   "Ranking_Popularity": 10,
   "Ranking_PopularitySum": 11,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2020-06-11T15:00:00+00:00",
@@ -5781,10 +5781,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 232529,
       "NumberOfAwardsMax": 56840
+    },
+    {
+      "Time": "2023-05-18T16:58:47.696682+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 232552,
+      "NumberOfAwardsMax": 56840
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 232529,
+  "NumberOfAwards": 232552,
   "NumberOfAwardsMax": 56840,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5804,7 +5810,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 20196
+      "Count": 20212
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5834,7 +5840,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 18853
+      "Count": 18860
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5872,8 +5878,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:31.1262321+00:00",
-  "LastChanged": "2023-05-18T13:03:40.3966021+00:00",
+  "LastChanged": "2023-05-18T16:58:47.6966815+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:23.922456+00:00",
-  "LastUpdate_Ratings": "2023-05-18T15:58:54.7960683+00:00",
-  "LastUpdate_Achievements": "2023-05-18T16:04:39.9098659+00:00"
+  "LastUpdate_Ratings": "2023-05-18T16:58:47.6966826+00:00",
+  "LastUpdate_Achievements": "2023-05-18T17:04:21.0851724+00:00"
 }

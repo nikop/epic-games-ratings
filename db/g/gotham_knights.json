@@ -2,13 +2,13 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 832,
+  "Ranking_Rating": 833,
   "Ranking_Popularity": 99,
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1142,9 +1142,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 60953,
+  "EOS_Progressed": 60959,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2842,6 +2842,11 @@
       "Time": "2023-05-18T15:05:59.7353142+00:00",
       "NumProgressed": 60953,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-18T17:06:39.3861755+00:00",
+      "NumProgressed": 60959,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3227,9 +3232,9 @@
       "ID": "KNIGHTHOOD_1",
       "SetID": "4eo5ebm",
       "Name": "Knighthood",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 244
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -3299,9 +3304,9 @@
       "ID": "MYSTERY_08",
       "SetID": "4eo5ebm",
       "Name": "Gotham Knight",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 305
     },
     {
       "ID": "SECRET_CACHE",
@@ -3340,13 +3345,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 60953,
+      "Progressed": 60959,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31233,
+      "Progressed": 31239,
       "Completed": 2640
     }
   ],
@@ -3354,8 +3359,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-18T02:59:45.3889837+00:00",
-  "LastChanged_Achievements": "2023-05-18T16:07:11.4696336+00:00",
+  "LastChanged_Achievements": "2023-05-18T17:06:39.3861746+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:40.0085268+00:00",
-  "LastUpdate_Ratings": "2023-05-18T16:00:29.8334937+00:00",
-  "LastUpdate_Achievements": "2023-05-18T16:07:11.4697018+00:00"
+  "LastUpdate_Ratings": "2023-05-18T17:00:23.9339725+00:00",
+  "LastUpdate_Achievements": "2023-05-18T17:06:39.3862928+00:00"
 }

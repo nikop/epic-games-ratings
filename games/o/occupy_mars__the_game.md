@@ -1,42 +1,42 @@
 # Occupy Mars: The Game
 [Store](https://store.epicgames.com/en-US/p/occupy-mars)  
 [View Rawdata](../../db/o/occupy_mars__the_game.json)  
-Rating: 3.52 (Ranked 919)  
+Rating: 3.52 (Ranked 920)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Electrician | 25.00% | ~22 |
-| I don't feel so good | 18.00% | ~16 |
-| Occupy Mars! | 13.00% | ~11 |
-| Fear my botany powers, Mars | 9.00% | ~8 |
-| Bob The Builder | 7.00% | ~6 |
-| Zero Waste | 5.00% | ~4 |
-| I am the greatest botanist on this planet. | 5.00% | ~4 |
-| Detective | 3.00% | ~3 |
-| Miner | 3.00% | ~3 |
-| “Aliens” | 2.00% | ~2 |
-| All Wheel Trouble | 2.00% | ~2 |
-| Caveman | 2.00% | ~2 |
-| Get your hands dirty | 2.00% | ~2 |
-| Houston we have a problem | 2.00% | ~2 |
-| ITS crash site | 2.00% | ~2 |
-| Cooking Vegetables | 1.00% | ~1 |
-| Driver's License | 1.00% | ~1 |
-| Explosive Miner | 1.00% | ~1 |
-| Hard Landing | 1.00% | ~1 |
-| Historical Places | 1.00% | ~1 |
-| Hot Repairs | 1.00% | ~1 |
-| 5G Network | 1.00% | ~1 |
-| Planetary Defence | 1.00% | ~1 |
+| I don't feel so good | 26.00% | ~37 |
+| Electrician | 23.00% | ~33 |
+| Fear my botany powers, Mars | 11.00% | ~16 |
+| Occupy Mars! | 10.00% | ~14 |
+| Zero Waste | 9.00% | ~13 |
+| Bob The Builder | 9.00% | ~13 |
+| I am the greatest botanist on this planet. | 8.00% | ~11 |
+| Houston we have a problem | 6.00% | ~9 |
+| Miner | 4.00% | ~6 |
+| Detective | 3.00% | ~4 |
+| Gardener | 2.00% | ~3 |
+| Get your hands dirty | 2.00% | ~3 |
+| “Aliens” | 1.00% | ~1 |
+| All Wheel Trouble | 1.00% | ~1 |
+| Caveman | 1.00% | ~1 |
 | DeDust | 1.00% | ~1 |
-| Gardener | 1.00% | ~1 |
-| Korolev crater | 1.00% | ~1 |
-| Never Ending Story? | 1.00% | ~1 |
-| Roadster | 1.00% | ~1 |
-| Rover Mechanic | 1.00% | ~1 |
-| Space Forest | 1.00% | ~1 |
-| Thunderstruck | 1.00% | ~1 |
-| To infinity and beyond! | 1.00% | ~1 |
+| ITS crash site | 1.00% | ~1 |
+| Cooking Vegetables | 0.70% | ~1 |
+| Driver's License | 0.70% | ~1 |
+| Explosive Miner | 0.70% | ~1 |
+| Hard Landing | 0.70% | ~1 |
+| Historical Places | 0.70% | ~1 |
+| Hot Repairs | 0.70% | ~1 |
+| 5G Network | 0.70% | ~1 |
+| Planetary Defence | 0.70% | ~1 |
+| Korolev crater | 0.70% | ~1 |
+| Never Ending Story? | 0.70% | ~1 |
+| Roadster | 0.70% | ~1 |
+| Rover Mechanic | 0.70% | ~1 |
+| Space Forest | 0.70% | ~1 |
+| Thunderstruck | 0.70% | ~1 |
+| To infinity and beyond! | 0.70% | ~1 |
 | The cake is a lie | 0.00% | ~0 |
 | Let's Cook | 0.00% | ~0 |
 | Life on Mars | 0.00% | ~0 |
@@ -54,7 +54,7 @@ Rating: 3.52 (Ranked 919)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87 (Ranked 256)  
+Progressed: 142 (Ranked 245)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,7 +65,7 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-15 | 8 | 0 |
 | 2023-05-16 | 9 | 0 |
 | 2023-05-17 | 10 | 0 |
-| 2023-05-18 | 87 | 0 |
+| 2023-05-18 | 142 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

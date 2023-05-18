@@ -1,33 +1,33 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 176)  
+Rating: 4.71 (Ranked 177)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~242,303 |
-| Cavalier | 25.00% | ~195,405 |
-| Fatso | 23.00% | ~179,773 |
-| Awakening | 20.00% | ~156,324 |
-| Ranger | 20.00% | ~156,324 |
-| Scrooge | 20.00% | ~156,324 |
-| Anorectic | 16.00% | ~125,059 |
-| Firestarter | 15.00% | ~117,243 |
-| Bookworm | 14.00% | ~109,427 |
-| Insomniac | 13.00% | ~101,611 |
-| Buddy | 11.00% | ~85,978 |
-| Sinner | 11.00% | ~85,978 |
-| Thief | 11.00% | ~85,978 |
-| Convict | 10.00% | ~78,162 |
-| Traveller | 10.00% | ~78,162 |
-| Haggler | 9.00% | ~70,346 |
-| Runt | 7.00% | ~54,713 |
-| Casanova | 6.00% | ~46,897 |
-| McLovin | 6.00% | ~46,897 |
-| Bad Trip | 5.00% | ~39,081 |
-| Monk | 5.00% | ~39,081 |
-| Serial Killer | 5.00% | ~39,081 |
+| Blacksmith's Son | 31.00% | ~242,306 |
+| Cavalier | 25.00% | ~195,408 |
+| Fatso | 23.00% | ~179,775 |
+| Awakening | 20.00% | ~156,326 |
+| Ranger | 20.00% | ~156,326 |
+| Scrooge | 20.00% | ~156,326 |
+| Anorectic | 16.00% | ~125,061 |
+| Firestarter | 15.00% | ~117,245 |
+| Bookworm | 14.00% | ~109,428 |
+| Insomniac | 13.00% | ~101,612 |
+| Buddy | 11.00% | ~85,980 |
+| Sinner | 11.00% | ~85,980 |
+| Thief | 11.00% | ~85,980 |
+| Convict | 10.00% | ~78,163 |
+| Traveller | 10.00% | ~78,163 |
+| Haggler | 9.00% | ~70,347 |
+| Runt | 7.00% | ~54,714 |
+| Casanova | 6.00% | ~46,898 |
+| McLovin | 6.00% | ~46,898 |
+| Bad Trip | 5.00% | ~39,082 |
+| Monk | 5.00% | ~39,082 |
+| Serial Killer | 5.00% | ~39,082 |
 | Bastard | 4.00% | ~31,265 |
 | Hunter | 4.00% | ~31,265 |
 | Plague Doctor | 4.00% | ~31,265 |
@@ -35,15 +35,15 @@ Number of Ratings: 9,133  (23.09.2022)
 | Conqueror | 3.00% | ~23,449 |
 | Ginger in a Pickle | 3.00% | ~23,449 |
 | Kingdom did not come | 3.00% | ~23,449 |
-| Completionist | 2.00% | ~15,632 |
-| Death by splinter | 2.00% | ~15,632 |
-| King Charming | 2.00% | ~15,632 |
-| Knightrider | 2.00% | ~15,632 |
-| Level Cap | 2.00% | ~15,632 |
-| Arena Master | 2.00% | ~15,632 |
-| Robber Baron | 2.00% | ~15,632 |
-| Talmberger | 2.00% | ~15,632 |
-| The End | 2.00% | ~15,632 |
+| Completionist | 2.00% | ~15,633 |
+| Death by splinter | 2.00% | ~15,633 |
+| King Charming | 2.00% | ~15,633 |
+| Knightrider | 2.00% | ~15,633 |
+| Level Cap | 2.00% | ~15,633 |
+| Arena Master | 2.00% | ~15,633 |
+| Robber Baron | 2.00% | ~15,633 |
+| Talmberger | 2.00% | ~15,633 |
+| The End | 2.00% | ~15,633 |
 | Woman's Lot | 1.00% | ~7,816 |
 | Chivalrous Soul | 1.00% | ~7,816 |
 | Freud | 1.00% | ~7,816 |
@@ -59,7 +59,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Edward Kelly | 0.60% | ~4,690 |
 | Fighter | 0.60% | ~4,690 |
 | I Can Quit Anytime | 0.50% | ~3,908 |
-| Perfectionist | 0.40% | ~3,126 |
+| Perfectionist | 0.40% | ~3,127 |
 | Alcoholic | 0.30% | ~2,345 |
 | Sniper | 0.30% | ~2,345 |
 | Angel of Mercy | 0.20% | ~1,563 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~782 |
 | Wingman | 0.10% | ~782 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 781,621 (Ranked 12)  
+Progressed: 781,632 (Ranked 12)  
 Completed: 39 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,14 +117,14 @@ Completed: 39 (0.00%) (Ranked 200)
 | 2023-05-15 | 781,296 | 39 |
 | 2023-05-16 | 781,415 | 39 |
 | 2023-05-17 | 781,542 | 39 |
-| 2023-05-18 | 781,621 | 39 |
+| 2023-05-18 | 781,632 | 39 |
 ## Awards
-Max (Character Customization): 7,171  (Ranked 43)  
-Sum: 26,830 (Ranked 42)  
+Max (Character Customization): 7,180  (Ranked 43)  
+Sum: 26,839 (Ranked 42)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,171 |
+| This game has Inclusive Character Customization | 7,180 |
 | This game has Great Boss Battles | 5,283 |
 | This game has Challenging Combat | 1,679 |
 | This game has Amazing Storytelling | 1,648 |
@@ -252,4 +252,4 @@ Diff (max vs sum): 1
 | 2023-05-15 | 4.71 | - | 7,161 | 26,805 |
 | 2023-05-16 | 4.71 | - | 7,168 | 26,820 |
 | 2023-05-17 | 4.71 | - | 7,171 | 26,824 |
-| 2023-05-18 | 4.71 | - | 7,171 | 26,830 |
+| 2023-05-18 | 4.71 | - | 7,180 | 26,839 |

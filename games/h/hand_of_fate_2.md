@@ -1,44 +1,44 @@
 # Hand of Fate 2
 [Store](https://store.epicgames.com/en-US/p/hand-of-fate-2)  
 [View Rawdata](../../db/h/hand_of_fate_2.json)  
-Rating: 4.56 (Ranked 447)  
+Rating: 4.56 (Ranked 448)  
 Number of Ratings: 780  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~472,571 |
-| Apprentice | 58.00% | ~380,682 |
-| Close Shave | 25.00% | ~164,087 |
-| Mercenary | 23.00% | ~150,960 |
-| Ninja | 23.00% | ~150,960 |
-| Northern Scourge | 17.00% | ~111,579 |
+| The Fool | 72.00% | ~472,573 |
+| Apprentice | 58.00% | ~380,684 |
+| Close Shave | 25.00% | ~164,088 |
+| Mercenary | 23.00% | ~150,961 |
+| Ninja | 23.00% | ~150,961 |
+| Northern Scourge | 17.00% | ~111,580 |
 | Thief Bane | 14.00% | ~91,889 |
 | Master of Arms | 12.00% | ~78,762 |
 | Gambler | 10.00% | ~65,635 |
 | Dice Master | 10.00% | ~65,635 |
-| Swordsman | 9.00% | ~59,071 |
+| Swordsman | 9.00% | ~59,072 |
 | Knight | 8.00% | ~52,508 |
 | Cure for Corruption | 8.00% | ~52,508 |
 | Focused | 8.00% | ~52,508 |
 | Flurry of Fury | 8.00% | ~52,508 |
-| Long Shot | 7.00% | ~45,944 |
-| Devil Dice | 7.00% | ~45,944 |
+| Long Shot | 7.00% | ~45,945 |
+| Devil Dice | 7.00% | ~45,945 |
 | Adventurer | 6.00% | ~39,381 |
 | Empire's Bane | 6.00% | ~39,381 |
 | Broken Heart | 6.00% | ~39,381 |
-| Jack of all Trades | 5.00% | ~32,817 |
-| Smithy | 5.00% | ~32,817 |
-| Leap of Faith | 3.00% | ~19,690 |
-| Combat Ready | 3.00% | ~19,690 |
-| Stuffed Potato | 3.00% | ~19,690 |
+| Jack of all Trades | 5.00% | ~32,818 |
+| Smithy | 5.00% | ~32,818 |
+| Leap of Faith | 3.00% | ~19,691 |
+| Combat Ready | 3.00% | ~19,691 |
+| Stuffed Potato | 3.00% | ~19,691 |
 | Card Sharp | 2.00% | ~13,127 |
 | Magician | 2.00% | ~13,127 |
 | Draknar's Bane | 2.00% | ~13,127 |
-| Protector of the Realm | 1.00% | ~6,563 |
-| Purgatorium | 1.00% | ~6,563 |
-| Cursed Soul | 1.00% | ~6,563 |
-| Champion | 1.00% | ~6,563 |
-| Final Death | 1.00% | ~6,563 |
+| Protector of the Realm | 1.00% | ~6,564 |
+| Purgatorium | 1.00% | ~6,564 |
+| Cursed Soul | 1.00% | ~6,564 |
+| Champion | 1.00% | ~6,564 |
+| Final Death | 1.00% | ~6,564 |
 | Ally | 0.80% | ~5,251 |
 | Thomas' Bane | 0.80% | ~5,251 |
 | Gamester | 0.70% | ~4,594 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~656 |
 | Blood Pact | 0.10% | ~656 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 656,348 (Ranked 18)  
+Progressed: 656,351 (Ranked 18)  
 Completed: 165 (0.03%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 165 (0.03%) (Ranked 181)
 | 2023-05-15 | 656,216 | 165 |
 | 2023-05-16 | 656,258 | 165 |
 | 2023-05-17 | 656,314 | 165 |
-| 2023-05-18 | 656,348 | 165 |
+| 2023-05-18 | 656,351 | 165 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 427)  
 Sum: 180 (Ranked 360)  

@@ -2,13 +2,13 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 257,
+  "Ranking_Rating": 258,
   "Ranking_Popularity": 430,
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -310,7 +310,7 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 6187,
+  "EOS_Progressed": 6188,
   "EOS_Completed": 22,
   "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 2,
@@ -1535,6 +1535,11 @@
       "Time": "2023-05-18T16:06:31.0659938+00:00",
       "NumProgressed": 6187,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-18T17:06:02.1779581+00:00",
+      "NumProgressed": 6188,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 34,
@@ -1570,7 +1575,7 @@
       "Name": "Not my First Time",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ACH05",
@@ -1602,7 +1607,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ACH09",
@@ -1682,7 +1687,7 @@
       "Name": "I\u0027m Famous!",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH19",
@@ -1706,7 +1711,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2660
+      "UsersEstimate": 2661
     },
     {
       "ID": "ACH22",
@@ -1754,7 +1759,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ACH28",
@@ -1817,7 +1822,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6187,
+      "Progressed": 6188,
       "Completed": 22
     }
   ],
@@ -1825,8 +1830,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-17T13:04:15.6274807+00:00",
-  "LastChanged_Achievements": "2023-05-18T16:06:31.065993+00:00",
+  "LastChanged_Achievements": "2023-05-18T17:06:02.1779574+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:12.215908+00:00",
-  "LastUpdate_Ratings": "2023-05-18T15:58:37.9864063+00:00",
-  "LastUpdate_Achievements": "2023-05-18T16:06:31.0660417+00:00"
+  "LastUpdate_Ratings": "2023-05-18T16:58:33.4228121+00:00",
+  "LastUpdate_Achievements": "2023-05-18T17:06:02.1780051+00:00"
 }

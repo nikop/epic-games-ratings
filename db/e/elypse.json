@@ -291,9 +291,9 @@
       "ID": "Ach_OptionalDialogRead",
       "SetID": "4o5gjp0",
       "Name": "Bookworm",
-      "Percentage": 0,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Ach_SkullGoal",
@@ -354,8 +354,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-05-18T16:06:28.1597867+00:00",
+  "LastChanged_Achievements": "2023-05-18T17:05:59.3690128+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:52.2027329+00:00",
-  "LastUpdate_Ratings": "2023-05-18T15:58:10.3095878+00:00",
-  "LastUpdate_Achievements": "2023-05-18T16:06:28.1598123+00:00"
+  "LastUpdate_Ratings": "2023-05-18T16:58:09.456536+00:00",
+  "LastUpdate_Achievements": "2023-05-18T17:05:59.369038+00:00"
 }

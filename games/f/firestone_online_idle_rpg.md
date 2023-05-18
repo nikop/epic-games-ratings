@@ -1,35 +1,35 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 3.69 (Ranked 917)  
+Rating: 3.69 (Ranked 918)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,004 |
-| World Map | 80.00% | ~854 |
-| Temple of Eternals | 56.00% | ~598 |
-| Prestigious | 52.00% | ~555 |
+| Victor | 94.00% | ~1,006 |
+| World Map | 80.00% | ~856 |
+| Temple of Eternals | 56.00% | ~599 |
+| Prestigious | 52.00% | ~556 |
 | Fellowship Power | 39.00% | ~417 |
-| Guild Power | 24.00% | ~256 |
+| Guild Power | 24.00% | ~257 |
 | Prestigious x10 | 20.00% | ~214 |
-| The game is on | 18.00% | ~192 |
+| The game is on | 17.00% | ~182 |
 | Exotic Merchant | 16.00% | ~171 |
 | Dragon Clicker | 15.00% | ~160 |
 | Miner Clicker | 15.00% | ~160 |
 | Inspection | 14.00% | ~150 |
 | Full Party | 12.00% | ~128 |
 | Hero inspection | 12.00% | ~128 |
-| Dragon Master | 11.00% | ~117 |
+| Dragon Master | 11.00% | ~118 |
 | Enlightenment | 10.00% | ~107 |
 | Lieutenant | 10.00% | ~107 |
 | Natural Talent | 9.00% | ~96 |
 | The Unstoppable | 9.00% | ~96 |
-| Milestone collector | 8.00% | ~85 |
-| Mysterious Rock | 8.00% | ~85 |
-| Superior | 8.00% | ~85 |
+| Milestone collector | 8.00% | ~86 |
+| Mysterious Rock | 8.00% | ~86 |
+| Superior | 8.00% | ~86 |
 | Scientist | 7.00% | ~75 |
 | Daily Quest Completionist | 6.00% | ~64 |
-| Challenger | 5.00% | ~53 |
+| Challenger | 5.00% | ~54 |
 | Frostfire Liberator | 4.00% | ~43 |
 | Hunter | 4.00% | ~43 |
 | Mastery | 4.00% | ~43 |
@@ -43,13 +43,13 @@ Rating: 3.69 (Ranked 917)
 | How Do You Turn This On? | 3.00% | ~32 |
 | Missions Dedication | 3.00% | ~32 |
 | Doing My Part | 2.00% | ~21 |
+| Dragon Slayer | 2.00% | ~21 |
+| Engineer Mastery | 2.00% | ~21 |
 | Master Enchanter | 2.00% | ~21 |
 | The father of Dragons | 2.00% | ~21 |
 | Trader | 2.00% | ~21 |
 | Weekly Quest Completionist | 2.00% | ~21 |
 | What lies behind the bush | 2.00% | ~21 |
-| Dragon Slayer | 1.00% | ~11 |
-| Engineer Mastery | 1.00% | ~11 |
 | Lock And Load | 1.00% | ~11 |
 | Relic Of The Past | 1.00% | ~11 |
 | Active Member | 0.90% | ~10 |
@@ -81,7 +81,7 @@ Rating: 3.69 (Ranked 917)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,068 (Ranked 162)  
+Progressed: 1,070 (Ranked 162)  
 Completed: 1 (0.09%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 1 (0.09%) (Ranked 162)
 | 2023-05-15 | 1,032 | 1 |
 | 2023-05-16 | 1,047 | 1 |
 | 2023-05-17 | 1,057 | 1 |
-| 2023-05-18 | 1,068 | 1 |
+| 2023-05-18 | 1,070 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

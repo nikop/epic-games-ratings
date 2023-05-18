@@ -2,12 +2,12 @@
   "ID": "315e6807f6684c279fc286d0fc36a44f",
   "Name": "shapez",
   "ProductSlug": "shapez-0929c9",
-  "Ranking_Rating": 176,
-  "Ranking_Popularity": 282,
-  "Ranking_PopularitySum": 377,
+  "Ranking_Rating": 190,
+  "Ranking_Popularity": 281,
+  "Ranking_PopularitySum": 375,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-10-31T12:00:00+00:00",
@@ -18,7 +18,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.71,
+  "Rating": 4.7,
   "RatingHistory": [
     {
       "Time": "2022-11-10T15:57:35.7088088+00:00",
@@ -199,18 +199,24 @@
       "Rating": 4.71,
       "NumberOfAwards": 156,
       "NumberOfAwardsMax": 156
+    },
+    {
+      "Time": "2023-05-18T16:57:43.9701378+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 159,
+      "NumberOfAwardsMax": 159
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 156,
-  "NumberOfAwardsMax": 156,
+  "NumberOfAwards": 159,
+  "NumberOfAwardsMax": 159,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 156
+      "Count": 159
     }
   ],
   "EOS_Progressed": 0,
@@ -225,8 +231,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-01T20:01:20.018196+00:00",
   "FirstSeenRating": "2022-11-10T15:57:35.7088081+00:00",
-  "LastChanged": "2023-05-17T21:57:44.9063102+00:00",
+  "LastChanged": "2023-05-18T16:57:43.9701374+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:33.4839664+00:00",
-  "LastUpdate_Ratings": "2023-05-18T15:57:44.2616521+00:00",
-  "LastUpdate_Achievements": "2023-05-18T16:03:36.1610284+00:00"
+  "LastUpdate_Ratings": "2023-05-18T16:57:43.9701382+00:00",
+  "LastUpdate_Achievements": "2023-05-18T17:03:31.9346976+00:00"
 }

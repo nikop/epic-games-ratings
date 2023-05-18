@@ -2,12 +2,12 @@
   "ID": "4158b699dd70447a981fee752d970a3e",
   "Name": "KINGDOM HEARTS HD 1.5\u002B2.5 ReMIX",
   "ProductSlug": "kingdom-hearts-hd-1-5-2-5-remix",
-  "Ranking_Rating": 59,
+  "Ranking_Rating": 60,
   "Ranking_Popularity": 185,
   "Ranking_PopularitySum": 136,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2021-03-30T13:00:00+00:00",
@@ -3390,10 +3390,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3747,
       "NumberOfAwardsMax": 498
+    },
+    {
+      "Time": "2023-05-18T16:59:54.1269974+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3749,
+      "NumberOfAwardsMax": 498
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3747,
+  "NumberOfAwards": 3749,
   "NumberOfAwardsMax": 498,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3443,7 +3449,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 461
+      "Count": 463
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3481,8 +3487,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
-  "LastChanged": "2023-05-18T01:59:15.5064164+00:00",
+  "LastChanged": "2023-05-18T16:59:54.1269971+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:15.7323347+00:00",
-  "LastUpdate_Ratings": "2023-05-18T16:00:00.4408839+00:00",
-  "LastUpdate_Achievements": "2023-05-18T16:02:06.7701901+00:00"
+  "LastUpdate_Ratings": "2023-05-18T16:59:54.1269979+00:00",
+  "LastUpdate_Achievements": "2023-05-18T17:02:00.1279452+00:00"
 }

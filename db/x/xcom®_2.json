@@ -2,12 +2,12 @@
   "ID": "7ec453d446194b8f8afe82aaa9561211",
   "Name": "XCOM\u00AE 2",
   "ProductSlug": "xcom-2",
-  "Ranking_Rating": 466,
+  "Ranking_Rating": 467,
   "Ranking_Popularity": 125,
   "Ranking_PopularitySum": 81,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-04-14T15:00:00+00:00",
@@ -4156,10 +4156,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 9381,
       "NumberOfAwardsMax": 1153
+    },
+    {
+      "Time": "2023-05-18T16:58:40.6487645+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 9383,
+      "NumberOfAwardsMax": 1153
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9381,
+  "NumberOfAwards": 9383,
   "NumberOfAwardsMax": 1153,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -4179,7 +4185,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1114
+      "Count": 1116
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4235,8 +4241,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:40.7075482+00:00",
-  "LastChanged": "2023-05-18T13:03:33.1303591+00:00",
+  "LastChanged": "2023-05-18T16:58:40.6487642+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:18.2871431+00:00",
-  "LastUpdate_Ratings": "2023-05-18T15:58:44.7615125+00:00",
-  "LastUpdate_Achievements": "2023-05-18T16:03:34.6266729+00:00"
+  "LastUpdate_Ratings": "2023-05-18T16:58:40.6487654+00:00",
+  "LastUpdate_Achievements": "2023-05-18T17:03:30.5993215+00:00"
 }

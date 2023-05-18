@@ -1,32 +1,32 @@
 # Airborne Kingdom
 [Store](https://store.epicgames.com/en-US/p/airborne-kingdom)  
 [View Rawdata](../../db/a/airborne_kingdom.json)  
-Rating: 4.65 (Ranked 292)  
+Rating: 4.65 (Ranked 293)  
 Number of Ratings: 74  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~3,560 |
-| A Grove Replanted | 53.00% | ~3,369 |
-| Fields Watered | 41.00% | ~2,606 |
-| Seekers Found | 41.00% | ~2,606 |
-| Settling the Skies | 41.00% | ~2,606 |
-| Wind Powered | 40.00% | ~2,543 |
-| It Takes a Village | 34.00% | ~2,161 |
-| On the Town | 28.00% | ~1,780 |
+| A Small Community | 56.00% | ~3,561 |
+| A Grove Replanted | 53.00% | ~3,370 |
+| Fields Watered | 41.00% | ~2,607 |
+| Seekers Found | 41.00% | ~2,607 |
+| Settling the Skies | 41.00% | ~2,607 |
+| Wind Powered | 40.00% | ~2,544 |
+| It Takes a Village | 34.00% | ~2,162 |
+| On the Town | 28.00% | ~1,781 |
 | Daylight Found | 26.00% | ~1,653 |
-| Irons Scorched | 25.00% | ~1,589 |
-| Islands Connected | 25.00% | ~1,589 |
-| Harp Tuned | 23.00% | ~1,462 |
-| Pyre Ignited | 23.00% | ~1,462 |
-| Travelers Returned | 23.00% | ~1,462 |
+| Irons Scorched | 25.00% | ~1,590 |
+| Islands Connected | 25.00% | ~1,590 |
+| Harp Tuned | 23.00% | ~1,463 |
+| Pyre Ignited | 23.00% | ~1,463 |
+| Travelers Returned | 23.00% | ~1,463 |
 | Hopes Hoisted | 22.00% | ~1,399 |
-| Knowledge Shared | 20.00% | ~1,271 |
-| Relic Finder | 20.00% | ~1,271 |
+| Knowledge Shared | 20.00% | ~1,272 |
+| Relic Finder | 20.00% | ~1,272 |
 | Worthy of the Title | 19.00% | ~1,208 |
 | A Peaceful Respite | 14.00% | ~890 |
-| A Learned Scholar | 13.00% | ~826 |
-| Prophecy Fulfilled | 13.00% | ~826 |
+| A Learned Scholar | 13.00% | ~827 |
+| Prophecy Fulfilled | 13.00% | ~827 |
 | A Wanderer’s Guide | 11.00% | ~699 |
 | Knowledge Seeker | 7.00% | ~445 |
 | The Cycle Continues | 3.00% | ~191 |
@@ -34,7 +34,7 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~127 |
 | A True Challenge | 2.00% | ~127 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,357 (Ranked 114)  
+Progressed: 6,359 (Ranked 114)  
 Completed: 51 (0.80%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,7 +62,7 @@ Completed: 51 (0.80%) (Ranked 95)
 | 2023-05-15 | 6,349 | 51 |
 | 2023-05-16 | 6,353 | 51 |
 | 2023-05-17 | 6,355 | 51 |
-| 2023-05-18 | 6,357 | 51 |
+| 2023-05-18 | 6,359 | 51 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

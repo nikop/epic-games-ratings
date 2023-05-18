@@ -1,10 +1,11 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.17 (Ranked 832)  
+Rating: 4.17 (Ranked 833)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Gotham Knight | 0.50% | ~305 |
 | End of an Era | 0.40% | ~244 |
 | Protector of Gotham | 0.40% | ~244 |
 | Something in the Clay | 0.40% | ~244 |
@@ -21,6 +22,7 @@ Rating: 4.17 (Ranked 832)
 | Universal Health Scare | 0.40% | ~244 |
 | First Step Into the Knight | 0.40% | ~244 |
 | Unstoppable Force | 0.40% | ~244 |
+| Knighthood | 0.40% | ~244 |
 | Loose Ends | 0.40% | ~244 |
 | Whispered Words | 0.40% | ~244 |
 | Lock and Key | 0.40% | ~244 |
@@ -28,14 +30,12 @@ Rating: 4.17 (Ranked 832)
 | From Inside Gotham's Walls | 0.40% | ~244 |
 | Voiceless | 0.40% | ~244 |
 | Seeking Asylum | 0.40% | ~244 |
-| Gotham Knight | 0.40% | ~244 |
 | The Batman Family | 0.30% | ~183 |
 | In Your Element | 0.30% | ~183 |
 | Not On My Watch | 0.30% | ~183 |
 | Bulldozed | 0.30% | ~183 |
 | Out of Their League | 0.30% | ~183 |
 | Drone You Out | 0.30% | ~183 |
-| Knighthood | 0.30% | ~183 |
 | Dressed to Impress | 0.20% | ~122 |
 | Fusion Expert | 0.20% | ~122 |
 | Expert Crime Fighter | 0.20% | ~122 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 832)
 | Confronting Your Demon | 0.10% | ~31 |
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,953 (Ranked 67)  
+Progressed: 60,959 (Ranked 67)  
 Completed: 91 (0.15%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 91 (0.15%) (Ranked 147)
 | 2023-05-15 | 60,902 | 91 |
 | 2023-05-16 | 60,923 | 91 |
 | 2023-05-17 | 60,939 | 91 |
-| 2023-05-18 | 60,953 | 91 |
+| 2023-05-18 | 60,959 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,217  (Ranked 99)  
 Sum: 3,679 (Ranked 138)  

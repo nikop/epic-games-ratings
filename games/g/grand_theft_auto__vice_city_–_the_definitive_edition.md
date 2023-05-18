@@ -1,11 +1,11 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.67 (Ranked 257)  
+Rating: 4.67 (Ranked 258)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 43.00% | ~2,660 |
+| Legal Counsel | 43.00% | ~2,661 |
 | Greasy Palms | 39.00% | ~2,413 |
 | South American Connection | 23.00% | ~1,423 |
 | Life of the Party | 18.00% | ~1,114 |
@@ -19,9 +19,9 @@ Rating: 4.67 (Ranked 257)
 | Vice City Mogul | 6.00% | ~371 |
 | Bloodstained Hands | 6.00% | ~371 |
 | Catch Me if You Can | 5.00% | ~309 |
-| Not my First Time | 4.00% | ~247 |
-| Pie Guy | 4.00% | ~247 |
-| Grand Theft Auto | 4.00% | ~247 |
+| Not my First Time | 4.00% | ~248 |
+| Pie Guy | 4.00% | ~248 |
+| Grand Theft Auto | 4.00% | ~248 |
 | Point A to Point B | 3.00% | ~186 |
 | High Quality H2O | 3.00% | ~186 |
 | Don't Need Roads | 3.00% | ~186 |
@@ -34,13 +34,13 @@ Rating: 4.67 (Ranked 257)
 | One is Better Than Two | 1.00% | ~62 |
 | Chopper’d Up | 1.00% | ~62 |
 | Daredevil | 0.90% | ~56 |
-| I'm Famous! | 0.80% | ~49 |
+| I'm Famous! | 0.80% | ~50 |
 | Born in the 80’s | 0.70% | ~43 |
 | Keepie-Uppy Okie Dokie | 0.70% | ~43 |
 | Done it All | 0.70% | ~43 |
 | Kingpin | 0.40% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,187 (Ranked 115)  
+Progressed: 6,188 (Ranked 115)  
 Completed: 22 (0.36%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 22 (0.36%) (Ranked 117)
 | 2023-05-15 | 6,161 | 20 |
 | 2023-05-16 | 6,171 | 22 |
 | 2023-05-17 | 6,178 | 22 |
-| 2023-05-18 | 6,187 | 22 |
+| 2023-05-18 | 6,188 | 22 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 430)  
 Sum: 34 (Ranked 452)  

@@ -14,8 +14,8 @@
 | The New World | 56.00% | ~85 |
 | Open Sesame | 54.00% | ~82 |
 | Sticky Fingers | 54.00% | ~82 |
+| Lock, Stock, And Barrel | 53.00% | ~80 |
 | Knives Out | 53.00% | ~80 |
-| Lock, Stock, And Barrel | 52.00% | ~79 |
 | Gaze Into The Abyss | 52.00% | ~79 |
 | Back In The Saddle | 52.00% | ~79 |
 | Land, Ho! | 52.00% | ~79 |

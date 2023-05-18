@@ -2,12 +2,12 @@
   "ID": "b04882669b2e495e9f747c8560488c93",
   "Name": "Trackmania",
   "ProductSlug": "trackmania",
-  "Ranking_Rating": 257,
+  "Ranking_Rating": 258,
   "Ranking_Popularity": 90,
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2020-07-01T15:00:00+00:00",
@@ -5097,10 +5097,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 22387,
       "NumberOfAwardsMax": 2609
+    },
+    {
+      "Time": "2023-05-18T16:58:30.9561279+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 22400,
+      "NumberOfAwardsMax": 2609
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 22387,
+  "NumberOfAwards": 22400,
   "NumberOfAwardsMax": 2609,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -5144,13 +5150,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 2091
+      "Count": 2097
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 2309
+      "Count": 2313
     },
     {
       "Text": "This game has a Competitive Community",
@@ -5162,7 +5168,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1406
+      "Count": 1409
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5188,8 +5194,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-05-18T13:58:06.2977337+00:00",
+  "LastChanged": "2023-05-18T16:58:30.9561276+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:09.9595292+00:00",
-  "LastUpdate_Ratings": "2023-05-18T15:58:34.9992871+00:00",
-  "LastUpdate_Achievements": "2023-05-18T16:01:58.7345853+00:00"
+  "LastUpdate_Ratings": "2023-05-18T16:58:30.9561287+00:00",
+  "LastUpdate_Achievements": "2023-05-18T17:01:52.7507037+00:00"
 }

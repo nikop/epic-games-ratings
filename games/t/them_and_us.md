@@ -45,7 +45,7 @@
 | The 5th Element | 1.00% | ~1 |
 | This Mansion Is Clean | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95 (Ranked 252)  
+Progressed: 95 (Ranked 253)  
 Completed: 1 (1.05%) (Ranked 84)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -1,11 +1,11 @@
 # Gloomhaven
 [Store](https://store.epicgames.com/en-US/p/gloomhaven-92f741)  
 [View Rawdata](../../db/g/gloomhaven.json)  
-Rating: 4.47 (Ranked 582)  
+Rating: 4.47 (Ranked 583)  
 Number of Ratings: 68  (23.09.2022)  
 ## Awards
 Max (Character Customization): 3,447  (Ranked 79)  
-Sum: 7,965 (Ranked 92)  
+Sum: 7,966 (Ranked 92)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -18,7 +18,7 @@ Diff (max vs sum): -13
 | This game is Relaxing | 468 |
 | This game has Amazing Storytelling | 466 |
 | This game has Amazing Characters | 460 |
-| This game has Unique Visuals | 356 |
+| This game has Unique Visuals | 357 |
 | This game has a Creative Community | 202 |
 | This game has Obsessive Gameplay | 152 |
 ## Ratings History
@@ -99,3 +99,4 @@ Diff (max vs sum): -13
 | 2023-05-15 | 4.47 | - | 3,447 | 7,960 |
 | 2023-05-16 | 4.47 | - | 3,447 | 7,963 |
 | 2023-05-17 | 4.47 | - | 3,447 | 7,965 |
+| 2023-05-18 | 4.47 | - | 3,447 | 7,966 |

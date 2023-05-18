@@ -1,21 +1,21 @@
 # Railway Empire
 [Store](https://store.epicgames.com/en-US/p/railway-empire)  
 [View Rawdata](../../db/r/railway_empire.json)  
-Rating: 4.52 (Ranked 502)  
+Rating: 4.52 (Ranked 503)  
 Number of Ratings: 2,155  (23.09.2022)  
 ## Awards
 Max (Relaxing): 276  (Ranked 229)  
-Sum: 1,917 (Ranked 187)  
+Sum: 1,920 (Ranked 187)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 276 |
-| This game is Extremely Fun | 274 |
+| This game is Extremely Fun | 275 |
 | This game is Highly Recommended | 272 |
-| This game is Great for Beginners | 267 |
+| This game is Great for Beginners | 268 |
 | This game has Quickly Understood Controls | 259 |
 | This game has Amazing Storytelling | 231 |
-| This game is Educational | 222 |
+| This game is Educational | 223 |
 | This game has Obsessive Gameplay | 164 |
 | This game has a Creative Community | 116 |
 | This game has Amazing Characters | 103 |
@@ -140,4 +140,4 @@ Diff (max vs sum): 42
 | 2023-05-12 | 4.52 | - | 275 | 1,911 |
 | 2023-05-13 | 4.52 | - | 276 | 1,914 |
 | 2023-05-17 | 4.52 | - | 276 | 1,915 |
-| 2023-05-18 | 4.52 | - | 276 | 1,917 |
+| 2023-05-18 | 4.52 | - | 276 | 1,920 |

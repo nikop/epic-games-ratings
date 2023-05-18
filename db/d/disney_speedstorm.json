@@ -15,7 +15,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2472,
+  "EOS_Progressed": 2473,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
@@ -1450,6 +1450,11 @@
       "Time": "2023-05-18T16:02:33.3587264+00:00",
       "NumProgressed": 2472,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-18T17:02:24.457029+00:00",
+      "NumProgressed": 2473,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1517,7 +1522,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 9,
       "XP": 45,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "17",
@@ -1549,7 +1554,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "20",
@@ -1613,7 +1618,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1286
     },
     {
       "ID": "6",
@@ -1621,7 +1626,7 @@
       "Name": "PRO",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "7",
@@ -1652,13 +1657,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2472,
+      "Progressed": 2473,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-18T16:02:33.3587258+00:00",
+  "LastChanged_Achievements": "2023-05-18T17:02:24.4570283+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:49.8323516+00:00",
-  "LastUpdate_Ratings": "2023-05-18T15:59:26.9809604+00:00",
-  "LastUpdate_Achievements": "2023-05-18T16:02:33.3587506+00:00"
+  "LastUpdate_Ratings": "2023-05-18T16:59:18.6280662+00:00",
+  "LastUpdate_Achievements": "2023-05-18T17:02:24.4570716+00:00"
 }

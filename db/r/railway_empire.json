@@ -2,12 +2,12 @@
   "ID": "93b333eb973b45b582f3bdf68dfc1dc9",
   "Name": "Railway Empire",
   "ProductSlug": "railway-empire",
-  "Ranking_Rating": 502,
+  "Ranking_Rating": 503,
   "Ranking_Popularity": 229,
   "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2020-09-10T15:00:00+00:00",
@@ -2268,10 +2268,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 1917,
       "NumberOfAwardsMax": 276
+    },
+    {
+      "Time": "2023-05-18T17:00:46.199976+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 1920,
+      "NumberOfAwardsMax": 276
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1917,
+  "NumberOfAwards": 1920,
   "NumberOfAwardsMax": 276,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2297,7 +2303,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 274
+      "Count": 275
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2309,13 +2315,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 267
+      "Count": 268
     },
     {
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 222
+      "Count": 223
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2355,9 +2361,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:36.383576+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.8826483+00:00",
-  "LastChanged": "2023-05-18T13:59:40.5548786+00:00",
-  "LastChanged_Achievements": "2023-05-18T16:06:51.2087312+00:00",
+  "LastChanged": "2023-05-18T17:00:46.1999756+00:00",
+  "LastChanged_Achievements": "2023-05-18T17:06:20.7569294+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:55.7293372+00:00",
-  "LastUpdate_Ratings": "2023-05-18T16:00:51.6693357+00:00",
-  "LastUpdate_Achievements": "2023-05-18T16:06:51.2087344+00:00"
+  "LastUpdate_Ratings": "2023-05-18T17:00:46.1999767+00:00",
+  "LastUpdate_Achievements": "2023-05-18T17:06:20.7569326+00:00"
 }

@@ -1,51 +1,51 @@
 # Goat Simulator 3
 [Store](https://store.epicgames.com/en-US/p/goat-simulator-3)  
 [View Rawdata](../../db/g/goat_simulator_3.json)  
-Rating: 4.85 (Ranked 38)  
+Rating: 4.85 (Ranked 39)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~197,696 |
-| Private Club | 74.00% | ~160,764 |
-| Rogue Guild | 66.00% | ~143,384 |
-| I Watched the Intro | 57.00% | ~123,831 |
-| Covert Consortium | 55.00% | ~119,486 |
-| Goat Queen | 53.00% | ~115,141 |
-| Reach the Stratosphere | 49.00% | ~106,452 |
-| Synchronization Complete | 47.00% | ~102,107 |
-| Secret Society | 45.00% | ~97,762 |
-| Shadow Syndicate | 38.00% | ~82,554 |
-| What a Waste of Money | 33.00% | ~71,692 |
-| New Goat Order | 30.00% | ~65,174 |
-| Don't touch the servers | 28.00% | ~60,829 |
-| San Angora: Become Human | 26.00% | ~56,484 |
-| Raider of the Lost Parking Garage | 26.00% | ~56,484 |
-| Real Buoy | 26.00% | ~56,484 |
-| Welcome to Earth | 25.00% | ~54,312 |
-| Into the Matrix | 19.00% | ~41,277 |
-| Where is It? | 17.00% | ~36,932 |
-| Egg Simulator | 15.00% | ~32,587 |
-| Beauty, Mindfulness and Meditation | 15.00% | ~32,587 |
-| Black Market | 14.00% | ~30,415 |
-| 401(K.O.) | 14.00% | ~30,415 |
-| Car Cave | 12.00% | ~26,070 |
-| Club Mohair | 8.00% | ~17,380 |
-| A Center for Ants? | 8.00% | ~17,380 |
-| French Fika | 7.00% | ~15,207 |
+| Forgotten Sorority | 91.00% | ~197,708 |
+| Private Club | 74.00% | ~160,774 |
+| Rogue Guild | 66.00% | ~143,393 |
+| I Watched the Intro | 57.00% | ~123,839 |
+| Covert Consortium | 55.00% | ~119,494 |
+| Goat Queen | 53.00% | ~115,149 |
+| Reach the Stratosphere | 49.00% | ~106,458 |
+| Synchronization Complete | 47.00% | ~102,113 |
+| Secret Society | 45.00% | ~97,768 |
+| Shadow Syndicate | 38.00% | ~82,560 |
+| What a Waste of Money | 33.00% | ~71,696 |
+| New Goat Order | 30.00% | ~65,179 |
+| Don't touch the servers | 28.00% | ~60,833 |
+| San Angora: Become Human | 26.00% | ~56,488 |
+| Raider of the Lost Parking Garage | 26.00% | ~56,488 |
+| Real Buoy | 26.00% | ~56,488 |
+| Welcome to Earth | 25.00% | ~54,316 |
+| Into the Matrix | 19.00% | ~41,280 |
+| Where is It? | 17.00% | ~36,935 |
+| Egg Simulator | 15.00% | ~32,589 |
+| Beauty, Mindfulness and Meditation | 15.00% | ~32,589 |
+| Black Market | 14.00% | ~30,417 |
+| 401(K.O.) | 14.00% | ~30,417 |
+| Car Cave | 12.00% | ~26,071 |
+| Club Mohair | 8.00% | ~17,381 |
+| A Center for Ants? | 8.00% | ~17,381 |
+| French Fika | 7.00% | ~15,208 |
 | Nasty! | 4.00% | ~8,690 |
 | [REDACTED] | 4.00% | ~8,690 |
-| Who Baywatches the Baywatch? | 3.00% | ~6,517 |
+| Who Baywatches the Baywatch? | 3.00% | ~6,518 |
 | Cannibanana | 2.00% | ~4,345 |
 | Daredevil | 2.00% | ~4,345 |
-| Certified Fresh | 1.00% | ~2,172 |
-| Streaking | 1.00% | ~2,172 |
-| Try Hard 2 | 1.00% | ~2,172 |
+| Certified Fresh | 1.00% | ~2,173 |
+| Streaking | 1.00% | ~2,173 |
+| Try Hard 2 | 1.00% | ~2,173 |
 | Crocsquatch | 0.90% | ~1,955 |
 | You Trusted Your Instincts | 0.90% | ~1,955 |
-| Move! That! Bus! | 0.60% | ~1,303 |
+| Move! That! Bus! | 0.60% | ~1,304 |
 | G.O.A.T | 0.30% | ~652 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 217,248 (Ranked 46)  
+Progressed: 217,262 (Ranked 46)  
 Completed: 699 (0.32%) (Ranked 122)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,10 +73,10 @@ Completed: 699 (0.32%) (Ranked 122)
 | 2023-05-15 | 216,984 | 693 |
 | 2023-05-16 | 217,075 | 696 |
 | 2023-05-17 | 217,172 | 697 |
-| 2023-05-18 | 217,248 | 699 |
+| 2023-05-18 | 217,262 | 699 |
 ## Awards
 Max (Great for Beginners): 318  (Ranked 221)  
-Sum: 2,703 (Ranked 161)  
+Sum: 2,704 (Ranked 161)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
@@ -85,7 +85,7 @@ Diff (max vs sum): 60
 | This game is Highly Recommended | 286 |
 | This game has Amazing Characters | 284 |
 | This game is Relaxing | 266 |
-| This game is Extremely Fun | 262 |
+| This game is Extremely Fun | 263 |
 | This game has Quickly Understood Controls | 261 |
 | This game has Amazing Storytelling | 259 |
 | This game has a Silly Community | 236 |
@@ -151,4 +151,4 @@ Diff (max vs sum): 60
 | 2023-05-15 | 4.85 | 315 | 2,685 |
 | 2023-05-16 | 4.85 | 316 | 2,687 |
 | 2023-05-17 | 4.85 | 316 | 2,698 |
-| 2023-05-18 | 4.85 | 318 | 2,703 |
+| 2023-05-18 | 4.85 | 318 | 2,704 |

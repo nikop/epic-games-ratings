@@ -2,7 +2,7 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 850,
+  "Ranking_Rating": 851,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 124,
@@ -238,7 +238,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4929,
+  "EOS_Progressed": 4930,
   "EOS_Completed": 26,
   "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
@@ -1173,6 +1173,11 @@
       "Time": "2023-05-18T16:06:28.6941946+00:00",
       "NumProgressed": 4929,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-18T17:05:59.8410172+00:00",
+      "NumProgressed": 4930,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -1184,7 +1189,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4091
+      "UsersEstimate": 4092
     },
     {
       "ID": "ACH02",
@@ -1192,7 +1197,7 @@
       "Name": "Without a Scratch",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 1577
+      "UsersEstimate": 1578
     },
     {
       "ID": "ACH03",
@@ -1312,7 +1317,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ACH18",
@@ -1415,7 +1420,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 4929,
+      "Progressed": 4930,
       "Completed": 26
     }
   ],
@@ -1423,8 +1428,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-12T16:57:58.7220785+00:00",
-  "LastChanged_Achievements": "2023-05-18T16:06:28.6941941+00:00",
+  "LastChanged_Achievements": "2023-05-18T17:05:59.8410167+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:51.3816793+00:00",
-  "LastUpdate_Ratings": "2023-05-18T15:58:09.1209539+00:00",
-  "LastUpdate_Achievements": "2023-05-18T16:06:28.6942205+00:00"
+  "LastUpdate_Ratings": "2023-05-18T16:58:08.49107+00:00",
+  "LastUpdate_Achievements": "2023-05-18T17:05:59.8410606+00:00"
 }

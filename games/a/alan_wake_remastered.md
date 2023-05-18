@@ -1,21 +1,21 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.56 (Ranked 447)  
+Rating: 4.56 (Ranked 448)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Follow the Light | 20.00% | ~9,243 |
 | Let There Be Light | 16.00% | ~7,395 |
-| Float Like a Butterfly | 15.00% | ~6,932 |
+| Float Like a Butterfly | 15.00% | ~6,933 |
 | Nordic Walking | 13.00% | ~6,008 |
 | Bright Falls' Finest | 13.00% | ~6,008 |
 | Under a Thin Layer of Skin | 11.00% | ~5,084 |
-| Park Ranger | 9.00% | ~4,159 |
-| Back! Back, I Say! | 9.00% | ~4,159 |
-| Finders Keepers | 9.00% | ~4,159 |
-| Paging Mr. Wake | 9.00% | ~4,159 |
+| Park Ranger | 9.00% | ~4,160 |
+| Back! Back, I Say! | 9.00% | ~4,160 |
+| Finders Keepers | 9.00% | ~4,160 |
+| Paging Mr. Wake | 9.00% | ~4,160 |
 | Wheels Within Wheels | 8.00% | ~3,697 |
 | They're Heeeeeere! | 8.00% | ~3,697 |
 | The Six-Gun Scribe | 8.00% | ~3,697 |
@@ -40,11 +40,11 @@ Number of Ratings: 524  (23.09.2022)
 | Right of Way | 5.00% | ~2,311 |
 | Ding! | 5.00% | ~484 |
 | Departure | 4.00% | ~1,849 |
-| Children of the Elder God | 3.00% | ~1,386 |
-| Drink 'Em Both Up | 3.00% | ~1,386 |
-| Hardboiled Writer | 3.00% | ~1,386 |
-| If It Flies, It Burns | 3.00% | ~1,386 |
-| KBF-FM | 3.00% | ~1,386 |
+| Children of the Elder God | 3.00% | ~1,387 |
+| Drink 'Em Both Up | 3.00% | ~1,387 |
+| Hardboiled Writer | 3.00% | ~1,387 |
+| If It Flies, It Burns | 3.00% | ~1,387 |
+| KBF-FM | 3.00% | ~1,387 |
 | Kill Your Darlings | 3.00% | ~291 |
 | Heartbreaker | 3.00% | ~291 |
 | Boob Tube | 2.00% | ~924 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,216 (Ranked 75)  
+Progressed: 46,217 (Ranked 75)  
 Completed: 44 (0.10%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 44 (0.10%) (Ranked 157)
 | 2023-05-15 | 46,186 | 44 |
 | 2023-05-16 | 46,196 | 44 |
 | 2023-05-17 | 46,208 | 44 |
-| 2023-05-18 | 46,216 | 44 |
+| 2023-05-18 | 46,217 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

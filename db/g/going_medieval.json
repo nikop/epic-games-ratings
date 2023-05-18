@@ -2,12 +2,12 @@
   "ID": "d469e82d91fe4516a00d6566c3d2f8f7",
   "Name": "Going Medieval",
   "ProductSlug": "going-medieval",
-  "Ranking_Rating": 381,
+  "Ranking_Rating": 382,
   "Ranking_Popularity": 305,
   "Ranking_PopularitySum": 234,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -968,9 +968,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 2651,
+  "EOS_Progressed": 2652,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -1053,6 +1053,11 @@
       "Time": "2023-05-18T16:06:58.0095655+00:00",
       "NumProgressed": 2651,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-18T17:06:26.9512222+00:00",
+      "NumProgressed": 2652,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 31,
@@ -1072,7 +1077,7 @@
       "Name": "Beam Me Up",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -1096,7 +1101,7 @@
       "Name": "Green Thumb",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -1192,7 +1197,7 @@
       "Name": "Feast or Famine",
       "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -1200,7 +1205,7 @@
       "Name": "Fit For A King",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     },
     {
       "ID": "STORE_NUTRITION_5000",
@@ -1208,7 +1213,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1459
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -1280,7 +1285,7 @@
       "Name": "Adept Researcher",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -1311,15 +1316,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 2651,
+      "Progressed": 2652,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-05-14T11:59:25.7076829+00:00",
-  "LastChanged_Achievements": "2023-05-18T16:06:58.0095649+00:00",
+  "LastChanged_Achievements": "2023-05-18T17:06:26.9512215+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:42.6184247+00:00",
-  "LastUpdate_Ratings": "2023-05-18T16:00:36.0497461+00:00",
-  "LastUpdate_Achievements": "2023-05-18T16:06:58.0095883+00:00"
+  "LastUpdate_Ratings": "2023-05-18T17:00:31.4174434+00:00",
+  "LastUpdate_Achievements": "2023-05-18T17:06:26.9512604+00:00"
 }

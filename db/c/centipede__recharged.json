@@ -2,12 +2,12 @@
   "ID": "a1edd0d2e28d4d298152c001e7c47e22",
   "Name": "Centipede: Recharged",
   "ProductSlug": "centipede-recharged",
-  "Ranking_Rating": 742,
+  "Ranking_Rating": 743,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -290,9 +290,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13668,
+  "EOS_Progressed": 13669,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 223,
+  "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -2345,6 +2345,11 @@
       "Time": "2023-05-18T16:01:42.9947352+00:00",
       "NumProgressed": 13668,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-05-18T17:01:38.3628332+00:00",
+      "NumProgressed": 13669,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 16,
@@ -2404,7 +2409,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 4510
+      "UsersEstimate": 4511
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -2428,7 +2433,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 5877
+      "UsersEstimate": 5878
     },
     {
       "ID": "Mirrors",
@@ -2460,7 +2465,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 5057
+      "UsersEstimate": 5058
     },
     {
       "ID": "Still_Burning",
@@ -2483,15 +2488,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 13668,
+      "Progressed": 13669,
       "Completed": 82
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-10T20:58:58.4288263+00:00",
-  "LastChanged_Achievements": "2023-05-18T16:01:42.9947098+00:00",
+  "LastChanged_Achievements": "2023-05-18T17:01:38.362795+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:58.6033927+00:00",
-  "LastUpdate_Ratings": "2023-05-18T15:59:35.8827407+00:00",
-  "LastUpdate_Achievements": "2023-05-18T16:01:42.9957431+00:00"
+  "LastUpdate_Ratings": "2023-05-18T16:59:29.3883377+00:00",
+  "LastUpdate_Achievements": "2023-05-18T17:01:38.3645124+00:00"
 }

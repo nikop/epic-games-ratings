@@ -1,14 +1,17 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.41 (Ranked 655)  
+Rating: 4.41 (Ranked 656)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Resourceful | 0.40% | ~3 |
+| Taking it back | 0.40% | ~3 |
 | Strategist | 0.30% | ~2 |
 | The Long Game | 0.30% | ~2 |
+| Precision Is Key | 0.30% | ~2 |
 | As Quiet as a Mouse | 0.30% | ~2 |
+| It's Starting to Crack | 0.30% | ~2 |
 | Don't hold your breath | 0.30% | ~2 |
 | Sink or Swim | 0.30% | ~2 |
 | Liberté | 0.10% | ~1 |
@@ -18,13 +21,10 @@ Rating: 4.41 (Ranked 655)
 | Meeting Resistance | 0.10% | ~1 |
 | Gunslinger | 0.10% | ~1 |
 | Skirmisher | 0.10% | ~1 |
-| Precision Is Key | 0.10% | ~1 |
 | Confirming Suspicions | 0.10% | ~1 |
 | Rigged to Blow | 0.10% | ~1 |
 | Lord of War | 0.10% | ~1 |
-| It's Starting to Crack | 0.10% | ~1 |
 | Change the Channel | 0.10% | ~1 |
-| Taking it back | 0.10% | ~1 |
 | Brains of the Operation | 0.10% | ~1 |
 | Target America | 0.10% | ~1 |
 | The Kraken Sleeps | 0.10% | ~1 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 655)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732 (Ranked 176)  
+Progressed: 733 (Ranked 176)  
 Completed: 2 (0.27%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 2 (0.27%) (Ranked 130)
 | 2023-05-15 | 721 | 2 |
 | 2023-05-16 | 723 | 2 |
 | 2023-05-17 | 728 | 2 |
-| 2023-05-18 | 732 | 2 |
+| 2023-05-18 | 733 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

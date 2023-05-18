@@ -2,13 +2,13 @@
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
   "ProductSlug": "tchia",
-  "Ranking_Rating": 103,
+  "Ranking_Rating": 104,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -140,9 +140,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5761,
+  "EOS_Progressed": 5764,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1570,6 +1570,11 @@
       "Time": "2023-05-18T16:06:26.1738384+00:00",
       "NumProgressed": 5761,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-18T17:05:57.6127525+00:00",
+      "NumProgressed": 5764,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 21,
@@ -1581,7 +1586,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "ARRR",
@@ -1661,7 +1666,7 @@
       "Name": "Happy Camper",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "HISTORIAN",
@@ -1685,7 +1690,7 @@
       "Name": "In a Pinch",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1153
     },
     {
       "ID": "LIBERATOR",
@@ -1693,7 +1698,7 @@
       "Name": "Liberator",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "LIVE_WIRE",
@@ -1701,7 +1706,7 @@
       "Name": "Live Wire",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "SHREDDER",
@@ -1733,7 +1738,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "THING",
@@ -1748,7 +1753,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5761,
+      "Progressed": 5764,
       "Completed": 22
     }
   ],
@@ -1756,8 +1761,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-16T16:57:54.2243616+00:00",
-  "LastChanged_Achievements": "2023-05-18T16:06:26.1738379+00:00",
+  "LastChanged_Achievements": "2023-05-18T17:05:57.612752+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:53.6325406+00:00",
-  "LastUpdate_Ratings": "2023-05-18T15:58:11.8405354+00:00",
-  "LastUpdate_Achievements": "2023-05-18T16:06:26.1738613+00:00"
+  "LastUpdate_Ratings": "2023-05-18T16:58:10.8515773+00:00",
+  "LastUpdate_Achievements": "2023-05-18T17:05:57.6127897+00:00"
 }

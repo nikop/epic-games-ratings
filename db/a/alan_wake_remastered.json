@@ -2,12 +2,12 @@
   "ID": "2e92a78949e2474aa89271b8b893f3b0",
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
-  "Ranking_Rating": 447,
+  "Ranking_Rating": 448,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -506,7 +506,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46216,
+  "EOS_Progressed": 46217,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
@@ -1766,6 +1766,11 @@
       "Time": "2023-05-18T16:06:39.9286015+00:00",
       "NumProgressed": 46216,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-18T17:06:10.034979+00:00",
+      "NumProgressed": 46217,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1817,7 +1822,7 @@
       "Name": "Park Ranger",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4159
+      "UsersEstimate": 4160
     },
     {
       "ID": "07",
@@ -1857,7 +1862,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "12",
@@ -1873,7 +1878,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "14",
@@ -1913,7 +1918,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "19",
@@ -1929,7 +1934,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "21",
@@ -2017,7 +2022,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4159
+      "UsersEstimate": 4160
     },
     {
       "ID": "32",
@@ -2025,7 +2030,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6932
+      "UsersEstimate": 6933
     },
     {
       "ID": "33",
@@ -2097,7 +2102,7 @@
       "Name": "Finders Keepers",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4159
+      "UsersEstimate": 4160
     },
     {
       "ID": "42",
@@ -2113,7 +2118,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 4159
+      "UsersEstimate": 4160
     },
     {
       "ID": "44",
@@ -2153,7 +2158,7 @@
       "Name": "KBF-FM",
       "Percentage": 3,
       "XP": 110,
-      "UsersEstimate": 1386
+      "UsersEstimate": 1387
     },
     {
       "ID": "49",
@@ -2312,21 +2317,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46216,
+      "Progressed": 46217,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9684,
+      "Progressed": 9685,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-18T16:06:39.928601+00:00",
+  "LastChanged_Achievements": "2023-05-18T17:06:10.0349782+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:33.6043799+00:00",
-  "LastUpdate_Ratings": "2023-05-18T15:57:45.6323443+00:00",
-  "LastUpdate_Achievements": "2023-05-18T16:06:39.9286658+00:00"
+  "LastUpdate_Ratings": "2023-05-18T16:57:45.1142504+00:00",
+  "LastUpdate_Achievements": "2023-05-18T17:06:10.0351085+00:00"
 }

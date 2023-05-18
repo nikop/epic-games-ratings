@@ -1,29 +1,29 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.24 (Ranked 787)  
+Rating: 4.24 (Ranked 788)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,240 |
+| Rigged And Ready | 80.00% | ~1,241 |
 | Don't I Know You...? | 77.00% | ~1,194 |
-| Jailbreak | 66.00% | ~1,023 |
+| Jailbreak | 66.00% | ~1,024 |
 | Suited and Booted | 38.00% | ~589 |
 | HEADSHOT! | 37.00% | ~574 |
-| Sleeping With The Fishes | 35.00% | ~542 |
+| Sleeping With The Fishes | 35.00% | ~543 |
 | Overheated | 30.00% | ~465 |
 | High Performance | 30.00% | ~465 |
-| Powered Up | 29.00% | ~449 |
+| Powered Up | 28.00% | ~434 |
 | Studied The Blade | 25.00% | ~388 |
-| Home Invasion | 23.00% | ~356 |
+| Home Invasion | 23.00% | ~357 |
 | Luminary | 22.00% | ~341 |
 | It's a Trap | 22.00% | ~341 |
 | True Survivor | 21.00% | ~326 |
+| Offensive Defense | 20.00% | ~310 |
 | Shocking | 20.00% | ~310 |
 | Unforeseeable Consequences | 20.00% | ~310 |
-| Court Martial | 19.00% | ~294 |
-| Offensive Defense | 19.00% | ~294 |
-| Clean Cut | 19.00% | ~294 |
+| Court Martial | 19.00% | ~295 |
+| Clean Cut | 19.00% | ~295 |
 | Dead Again | 18.00% | ~279 |
 | Full Arsenal | 17.00% | ~264 |
 | Can't Trust Banks | 16.00% | ~248 |
@@ -34,7 +34,7 @@ Rating: 4.24 (Ranked 787)
 | What A Catchy Song | 13.00% | ~202 |
 | Marked For Success | 12.00% | ~186 |
 | Sorry, Didn't See You There | 12.00% | ~186 |
-| Corrupted Beauty | 11.00% | ~170 |
+| Corrupted Beauty | 11.00% | ~171 |
 | Triplets | 10.00% | ~155 |
 | Denying Prophecy | 9.00% | ~140 |
 | Stimulating The Local Economy | 9.00% | ~140 |
@@ -53,8 +53,8 @@ Rating: 4.24 (Ranked 787)
 | Plank of Wood | 5.00% | ~78 |
 | Geronimo! | 4.00% | ~62 |
 | Homewrecker | 4.00% | ~62 |
-| It Lives! It Sniffs! It Conquers! | 3.00% | ~46 |
-| Gotta Craft 'em All | 3.00% | ~46 |
+| It Lives! It Sniffs! It Conquers! | 3.00% | ~47 |
+| Gotta Craft 'em All | 3.00% | ~47 |
 | Box Office Smash | 2.00% | ~31 |
 | Going Postal | 2.00% | ~31 |
 | The Easy Way Out | 2.00% | ~31 |
@@ -63,8 +63,8 @@ Rating: 4.24 (Ranked 787)
 | Swiss Army Drone | 1.00% | ~16 |
 | Three Birds With One Stone | 1.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,550 (Ranked 151)  
-Completed: 10 (0.65%) (Ranked 102)  
+Progressed: 1,551 (Ranked 151)  
+Completed: 10 (0.64%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -83,6 +83,7 @@ Completed: 10 (0.65%) (Ranked 102)
 | 2023-05-11 | 1,547 | 10 |
 | 2023-05-13 | 1,548 | 10 |
 | 2023-05-14 | 1,550 | 10 |
+| 2023-05-18 | 1,551 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

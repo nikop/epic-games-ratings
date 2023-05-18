@@ -2,12 +2,12 @@
   "ID": "3328b08ac1c14540aa265a1a85c07839",
   "Name": "Horizon Zero Dawn\u2122 Complete Edition",
   "ProductSlug": "horizon-zero-dawn-complete-edition",
-  "Ranking_Rating": 103,
+  "Ranking_Rating": 104,
   "Ranking_Popularity": 74,
   "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2020-08-07T15:00:00+00:00",
@@ -3065,10 +3065,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 8426,
       "NumberOfAwardsMax": 3983
+    },
+    {
+      "Time": "2023-05-18T17:00:49.9339998+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 8427,
+      "NumberOfAwardsMax": 3983
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8426,
+  "NumberOfAwards": 8427,
   "NumberOfAwardsMax": 3983,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3106,7 +3112,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 210
+      "Count": 211
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3156,8 +3162,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:54.5867721+00:00",
-  "LastChanged": "2023-05-17T17:01:42.6369341+00:00",
+  "LastChanged": "2023-05-18T17:00:49.9339994+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:58.3262221+00:00",
-  "LastUpdate_Ratings": "2023-05-18T16:00:56.6778608+00:00",
-  "LastUpdate_Achievements": "2023-05-18T16:05:34.7945712+00:00"
+  "LastUpdate_Ratings": "2023-05-18T17:00:49.9340005+00:00",
+  "LastUpdate_Achievements": "2023-05-18T17:05:20.9639391+00:00"
 }

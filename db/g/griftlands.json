@@ -2,12 +2,12 @@
   "ID": "phlox",
   "Name": "Griftlands",
   "ProductSlug": "griftlands",
-  "Ranking_Rating": 90,
+  "Ranking_Rating": 91,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2019-07-11T15:00:00+00:00",
@@ -293,6 +293,6 @@
   "FirstSeen": "2022-07-22T20:22:37.4181634+00:00",
   "LastChanged": "2023-05-10T22:59:29.044002+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:48.6036139+00:00",
-  "LastUpdate_Ratings": "2023-05-18T15:59:25.5506716+00:00",
-  "LastUpdate_Achievements": "2023-05-18T16:02:02.2386297+00:00"
+  "LastUpdate_Ratings": "2023-05-18T16:59:17.2279506+00:00",
+  "LastUpdate_Achievements": "2023-05-18T17:01:55.8170146+00:00"
 }

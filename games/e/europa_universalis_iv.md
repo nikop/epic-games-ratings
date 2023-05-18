@@ -1,34 +1,34 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.68 (Ranked 237)  
+Rating: 4.68 (Ranked 238)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,506 |
-| That's a Grand Army | 8.00% | ~3,116 |
-| That is mine! | 8.00% | ~3,116 |
-| Victorious! | 8.00% | ~3,116 |
-| Brothers in Arms | 6.00% | ~2,337 |
-| That's a Grand Navy | 6.00% | ~2,337 |
-| Seriously?! | 6.00% | ~2,337 |
-| For the Glory | 5.00% | ~1,948 |
-| Cold War | 4.00% | ~1,558 |
-| True Catholic | 4.00% | ~1,558 |
-| Defender of the Faith | 3.00% | ~1,169 |
-| It's all about the money | 3.00% | ~1,169 |
-| Respected | 3.00% | ~1,169 |
-| Truly Divine Ruler | 3.00% | ~1,169 |
-| Blockader | 2.00% | ~779 |
-| Combined Arms | 2.00% | ~779 |
-| Double the Love | 2.00% | ~779 |
-| Gentle Persuasion | 2.00% | ~779 |
-| It's all about luck | 2.00% | ~779 |
-| Queen of Conquest | 2.00% | ~779 |
-| Royal Authority | 2.00% | ~779 |
-| The Princess is in this Castle | 2.00% | ~779 |
-| Total Control | 2.00% | ~779 |
+| Until death do us apart | 9.00% | ~3,510 |
+| That's a Grand Army | 8.00% | ~3,120 |
+| That is mine! | 8.00% | ~3,120 |
+| Victorious! | 8.00% | ~3,120 |
+| Brothers in Arms | 6.00% | ~2,340 |
+| That's a Grand Navy | 6.00% | ~2,340 |
+| Seriously?! | 6.00% | ~2,340 |
+| For the Glory | 5.00% | ~1,950 |
+| Cold War | 4.00% | ~1,560 |
+| True Catholic | 4.00% | ~1,560 |
+| Defender of the Faith | 3.00% | ~1,170 |
+| It's all about the money | 3.00% | ~1,170 |
+| Respected | 3.00% | ~1,170 |
+| Truly Divine Ruler | 3.00% | ~1,170 |
+| Blockader | 2.00% | ~780 |
+| Combined Arms | 2.00% | ~780 |
+| Double the Love | 2.00% | ~780 |
+| Gentle Persuasion | 2.00% | ~780 |
+| It's all about luck | 2.00% | ~780 |
+| Queen of Conquest | 2.00% | ~780 |
+| Royal Authority | 2.00% | ~780 |
+| The Princess is in this Castle | 2.00% | ~780 |
+| Total Control | 2.00% | ~780 |
 | Agressive Expander | 1.00% | ~390 |
 | All That's Thine Shall Be Mine | 1.00% | ~390 |
 | Azur semé de lis or | 1.00% | ~390 |
@@ -40,24 +40,24 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Five Colonies | 0.90% | ~351 |
 | Isn't this the way to India? | 0.80% | ~312 |
 | Market Control | 0.80% | ~312 |
+| This navy can take it all | 0.80% | ~312 |
 | Down Under | 0.70% | ~273 |
 | The Emperors new clothes | 0.70% | ~273 |
-| This navy can take it all | 0.70% | ~273 |
 | Time Bandit | 0.60% | ~234 |
 | Trustworthy | 0.60% | ~234 |
 | All belongs to Mother Russia | 0.50% | ~195 |
 | At every continent | 0.50% | ~195 |
 | Early-Modern Warfare | 0.50% | ~195 |
 | Electable! | 0.50% | ~195 |
+| One Family to Rule them All | 0.50% | ~195 |
+| The pen is mightier than the sword | 0.50% | ~195 |
 | Absolutely | 0.40% | ~156 |
 | Dude, Where's my Boat? | 0.40% | ~156 |
 | In the Name of the Father | 0.40% | ~156 |
 | Live Long and Prosper | 0.40% | ~156 |
-| One Family to Rule them All | 0.40% | ~156 |
 | Populists in Government | 0.40% | ~156 |
 | Ruina Imperii | 0.40% | ~156 |
 | The Continuation of Diplomacy | 0.40% | ~156 |
-| The pen is mightier than the sword | 0.40% | ~156 |
 | This is My Faith | 0.40% | ~156 |
 | Trophy Hunter | 0.40% | ~156 |
 | Voting Streak | 0.40% | ~156 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,954 (Ranked 80)  
+Progressed: 39,005 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -389,7 +389,7 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-15 | 37,515 | 0 |
 | 2023-05-16 | 38,036 | 0 |
 | 2023-05-17 | 38,614 | 0 |
-| 2023-05-18 | 38,954 | 0 |
+| 2023-05-18 | 39,005 | 0 |
 ## Awards
 Max (Educational): 5,232  (Ranked 60)  
 Sum: 43,328 (Ranked 27)  

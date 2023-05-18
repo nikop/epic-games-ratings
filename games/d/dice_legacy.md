@@ -1,11 +1,11 @@
 # Dice Legacy
 [Store](https://store.epicgames.com/en-US/p/dice-legacy)  
 [View Rawdata](../../db/d/dice_legacy.json)  
-Rating: 4.29 (Ranked 763)  
+Rating: 4.29 (Ranked 764)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| We made it | 26.00% | ~199 |
+| We made it | 27.00% | ~206 |
 | The City | 6.00% | ~46 |
 | Manipulating Fate | 5.00% | ~38 |
 | Burn and Pillage | 4.00% | ~31 |

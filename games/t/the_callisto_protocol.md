@@ -1,7 +1,7 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.18 (Ranked 827)  
+Rating: 4.18 (Ranked 828)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,12 +9,13 @@ Rating: 4.18 (Ranked 827)
 | Big Game Hunter | 0.60% | ~3 |
 | Bear Trap | 0.50% | ~2 |
 | Big Spender | 0.40% | ~2 |
+| Giving Back | 0.30% | ~38 |
 | Parole Denied | 0.30% | ~1 |
 | The Commonality | 0.30% | ~38 |
 | Hoard Mode | 0.30% | ~1 |
-| Giving Back | 0.20% | ~25 |
 | Recidivist | 0.20% | ~1 |
 | Lifer | 0.20% | ~1 |
+| Chew 'Em Up | 0.20% | ~25 |
 | Float Like A Butterfly | 0.20% | ~25 |
 | Mugshot | 0.20% | ~25 |
 | It's over, Jacob! | 0.10% | ~13 |
@@ -29,7 +30,6 @@ Rating: 4.18 (Ranked 827)
 | Get a Grip | 0.10% | ~13 |
 | In Striking Distance | 0.10% | ~13 |
 | Two Heads Are Better Than One | 0.10% | ~13 |
-| Chew 'Em Up | 0.10% | ~13 |
 | Terminated | 0.10% | ~13 |
 | Workplace Hazard | 0.10% | ~13 |
 | Reforged | 0.10% | ~13 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 827)
 | I am the Danger | 0.00% | ~0 |
 | Subject Alpha | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,568 (Ranked 101)  
+Progressed: 12,570 (Ranked 101)  
 Completed: 50 (0.40%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 50 (0.40%) (Ranked 111)
 | 2023-05-14 | 12,564 | 48 |
 | 2023-05-16 | 12,566 | 49 |
 | 2023-05-17 | 12,567 | 49 |
-| 2023-05-18 | 12,568 | 50 |
+| 2023-05-18 | 12,570 | 50 |
 ## Awards
 Max (Amazing Storytelling): 46  (Ranked 398)  
 Sum: 246 (Ranked 342)  
