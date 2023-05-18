@@ -4,7 +4,7 @@
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 896,
   "Ranking_Popularity": 231,
-  "Ranking_PopularitySum": 219,
+  "Ranking_PopularitySum": 218,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 59,
@@ -1456,10 +1456,16 @@
       "Rating": 3.93,
       "NumberOfAwards": 1280,
       "NumberOfAwardsMax": 272
+    },
+    {
+      "Time": "2023-05-18T06:59:14.5592177+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 1283,
+      "NumberOfAwardsMax": 272
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1280,
+  "NumberOfAwards": 1283,
   "NumberOfAwardsMax": 272,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1485,7 +1491,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 245
+      "Count": 248
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1512,9 +1518,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 60399,
+  "EOS_Progressed": 60401,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 725,
+  "EOS_NewPlayers": 721,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4122,6 +4128,11 @@
       "Time": "2023-05-18T06:06:45.1760574+00:00",
       "NumProgressed": 60399,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-18T07:05:17.0563748+00:00",
+      "NumProgressed": 60401,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 37,
@@ -4277,7 +4288,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 39259
+      "UsersEstimate": 39261
     },
     {
       "ID": "ACH_0210",
@@ -4285,7 +4296,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 44091
+      "UsersEstimate": 44093
     },
     {
       "ID": "ACH_0211",
@@ -4428,16 +4439,16 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 60399,
+      "Progressed": 60401,
       "Completed": 30
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-05-17T23:00:48.9240471+00:00",
-  "LastChanged_Achievements": "2023-05-18T06:06:45.1760569+00:00",
+  "LastChanged": "2023-05-18T06:59:14.5592175+00:00",
+  "LastChanged_Achievements": "2023-05-18T07:05:17.0563745+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:52.257999+00:00",
-  "LastUpdate_Ratings": "2023-05-18T06:00:49.3361559+00:00",
-  "LastUpdate_Achievements": "2023-05-18T06:06:45.1761109+00:00"
+  "LastUpdate_Ratings": "2023-05-18T06:59:14.559218+00:00",
+  "LastUpdate_Achievements": "2023-05-18T07:05:17.056406+00:00"
 }

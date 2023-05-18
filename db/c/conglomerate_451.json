@@ -4,7 +4,7 @@
   "ProductSlug": "conglomerate-451-6570f5",
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-05-19T14:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:18.5253389+00:00",
   "LastChanged": "2023-03-31T05:58:18.525339+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:26.7992098+00:00",
-  "LastUpdate_Ratings": "2023-05-18T05:58:59.3999731+00:00",
-  "LastUpdate_Achievements": "2023-05-18T06:04:10.9311934+00:00"
+  "LastUpdate_Ratings": "2023-05-18T06:58:02.4377346+00:00",
+  "LastUpdate_Achievements": "2023-05-18T07:03:28.0622621+00:00"
 }

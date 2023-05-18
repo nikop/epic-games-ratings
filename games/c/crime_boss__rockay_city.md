@@ -5,8 +5,8 @@ Rating: 3.93 (Ranked 896)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Downed but Not Outed | 73.00% | ~44,091 |
-| First One’s Free | 65.00% | ~39,259 |
+| Downed but Not Outed | 73.00% | ~44,093 |
+| First One’s Free | 65.00% | ~39,261 |
 | Neophyte Ninja | 50.00% | ~30,200 |
 | Too Old for This | 47.00% | ~28,388 |
 | Fancy Pants | 35.00% | ~21,140 |
@@ -43,7 +43,7 @@ Rating: 3.93 (Ranked 896)
 | Geek Out | 0.50% | ~302 |
 | Full House | 0.10% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 60,399 (Ranked 68)  
+Progressed: 60,401 (Ranked 68)  
 Completed: 30 (0.05%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,18 +71,18 @@ Completed: 30 (0.05%) (Ranked 172)
 | 2023-05-15 | 60,235 | 29 |
 | 2023-05-16 | 60,310 | 30 |
 | 2023-05-17 | 60,393 | 30 |
-| 2023-05-18 | 60,399 | 30 |
+| 2023-05-18 | 60,401 | 30 |
 ## Awards
 Max (Highly Recommended): 272  (Ranked 231)  
-Sum: 1,280 (Ranked 219)  
-Diff (max vs sum): 12  
+Sum: 1,283 (Ranked 218)  
+Diff (max vs sum): 13  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 272 |
 | This game has Diverse Characters | 258 |
 | This game has Amazing Characters | 255 |
 | This game has Challenging Combat | 250 |
-| This game has Quickly Understood Controls | 245 |
+| This game has Quickly Understood Controls | 248 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
 | This game has a Silly Community | 33 |
@@ -139,3 +139,4 @@ Diff (max vs sum): 12
 | 2023-05-15 | 3.94 | 266 | 1,259 |
 | 2023-05-16 | 3.93 | 270 | 1,265 |
 | 2023-05-17 | 3.93 | 272 | 1,280 |
+| 2023-05-18 | 3.93 | 272 | 1,283 |

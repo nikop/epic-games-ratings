@@ -2236,10 +2236,16 @@
       "Rating": 3.78,
       "NumberOfAwards": 8329,
       "NumberOfAwardsMax": 1028
+    },
+    {
+      "Time": "2023-05-18T06:58:57.1899869+00:00",
+      "Rating": 3.78,
+      "NumberOfAwards": 8330,
+      "NumberOfAwardsMax": 1028
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8329,
+  "NumberOfAwards": 8330,
   "NumberOfAwardsMax": 1028,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -2289,7 +2295,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 955
+      "Count": 956
     },
     {
       "Text": "This game has a Silly Community",
@@ -2304,9 +2310,9 @@
       "Count": 1028
     }
   ],
-  "EOS_Progressed": 28973,
+  "EOS_Progressed": 28987,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 3337,
+  "EOS_NewPlayers": 3331,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4959,6 +4965,11 @@
       "Time": "2023-05-18T06:06:08.2802624+00:00",
       "NumProgressed": 28973,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-18T07:04:49.1197476+00:00",
+      "NumProgressed": 28987,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 53,
@@ -5024,9 +5035,9 @@
       "ID": "complet_epilogue_mission",
       "SetID": "3ib2d0i",
       "Name": "We could go home, or\u2026",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 75,
-      "UsersEstimate": 29
+      "UsersEstimate": 58
     },
     {
       "ID": "complete_all_of_wanted",
@@ -5072,17 +5083,17 @@
       "ID": "complete_first_wanted_mission",
       "SetID": "3ib2d0i",
       "Name": "Wet Work",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 145
     },
     {
       "ID": "complete_mission_1",
       "SetID": "3ib2d0i",
       "Name": "First F#@!ing Day",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 174
+      "UsersEstimate": 203
     },
     {
       "ID": "customize_a_vehicle",
@@ -5096,9 +5107,9 @@
       "ID": "customize_a_weapon",
       "SetID": "3ib2d0i",
       "Name": "Optimized",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 174
     },
     {
       "ID": "cutting_edge_materials",
@@ -5168,9 +5179,9 @@
       "ID": "empire_tier_5",
       "SetID": "3ib2d0i",
       "Name": "A Golden Age",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 29
+      "UsersEstimate": 58
     },
     {
       "ID": "first_building_placed",
@@ -5224,9 +5235,9 @@
       "ID": "hit_max_level",
       "SetID": "3ib2d0i",
       "Name": "Took It to The Limit",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 87
     },
     {
       "ID": "infinite_boost_refill",
@@ -5248,9 +5259,9 @@
       "ID": "kill_enemy_with_tetherd_object",
       "SetID": "3ib2d0i",
       "Name": "Wrecking Ball",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 145
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -5280,9 +5291,9 @@
       "ID": "own_100_pieces_of_clothing",
       "SetID": "3ib2d0i",
       "Name": "Closet Space",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 58
     },
     {
       "ID": "prank_coop_partner",
@@ -5393,22 +5404,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 28973,
+      "Progressed": 28987,
       "Completed": 18
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 610,
-      "Completed": 413
+      "Progressed": 624,
+      "Completed": 414
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
-  "LastChanged": "2023-05-17T21:00:45.7395848+00:00",
-  "LastChanged_Achievements": "2023-05-18T06:06:08.280262+00:00",
+  "LastChanged": "2023-05-18T06:58:57.1899868+00:00",
+  "LastChanged_Achievements": "2023-05-18T07:04:49.1197474+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:30.5487135+00:00",
-  "LastUpdate_Ratings": "2023-05-18T06:00:22.2343061+00:00",
-  "LastUpdate_Achievements": "2023-05-18T06:06:08.2803313+00:00"
+  "LastUpdate_Ratings": "2023-05-18T06:58:57.1899872+00:00",
+  "LastUpdate_Achievements": "2023-05-18T07:04:49.119792+00:00"
 }

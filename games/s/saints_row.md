@@ -6,30 +6,33 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 0.60% | ~174 |
+| First F#@!ing Day | 0.70% | ~203 |
+| Optimized | 0.60% | ~174 |
 | To The Nines | 0.60% | ~174 |
 | The Side Job | 0.50% | ~145 |
+| Wet Work | 0.50% | ~145 |
 | Tune Up | 0.50% | ~145 |
-| Optimized | 0.50% | ~145 |
 | Landlord | 0.50% | ~145 |
 | Performance Review | 0.50% | ~145 |
+| Wrecking Ball | 0.50% | ~145 |
 | Making a Name | 0.50% | ~145 |
 | Finders Keepers | 0.40% | ~116 |
-| Wet Work | 0.40% | ~116 |
 | A Young Empire | 0.40% | ~116 |
 | Work Ethic | 0.40% | ~116 |
-| Wrecking Ball | 0.40% | ~116 |
 | Food for Thought | 0.40% | ~116 |
 | Quality Time | 0.30% | ~87 |
 | Showdown | 0.30% | ~87 |
 | Power Players | 0.30% | ~87 |
 | Et tu? | 0.30% | ~87 |
+| Took It to The Limit | 0.30% | ~87 |
 | Picking Fights | 0.30% | ~87 |
+| We could go home, or… | 0.20% | ~58 |
 | The Spins | 0.20% | ~58 |
 | Masters of Santo Ileso | 0.20% | ~58 |
+| A Golden Age | 0.20% | ~58 |
 | The Mechanic | 0.20% | ~58 |
 | Kitted Out | 0.20% | ~58 |
-| Took It to The Limit | 0.20% | ~58 |
+| Closet Space | 0.20% | ~58 |
 | Producer Credit | 0.20% | ~1 |
 | Face Off | 0.20% | ~1 |
 | Jack of All Trades | 0.10% | ~29 |
@@ -37,7 +40,6 @@ Number of Ratings: 22,103  (23.09.2022)
 | Shopping Spree | 0.10% | ~29 |
 | Hijacked | 0.10% | ~29 |
 | The Collector | 0.10% | ~29 |
-| We could go home, or… | 0.10% | ~29 |
 | The Professional | 0.10% | ~29 |
 | Always Be Hustling | 0.10% | ~29 |
 | Challenge Accepted | 0.10% | ~29 |
@@ -45,11 +47,9 @@ Number of Ratings: 22,103  (23.09.2022)
 | Chaos Tamer | 0.10% | ~29 |
 | Bonus Round | 0.10% | ~29 |
 | Untouchable | 0.10% | ~29 |
-| A Golden Age | 0.10% | ~29 |
 | Free Refills | 0.10% | ~29 |
 | Armor Piercing | 0.10% | ~29 |
 | Neighborly | 0.10% | ~29 |
-| Closet Space | 0.10% | ~29 |
 | Prankster | 0.10% | ~29 |
 | Smooth Moves | 0.10% | ~29 |
 | A Car Named Simone | 0.10% | ~29 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | All Mine | 0.10% | ~29 |
 | Hazardous Heist | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,973 (Ranked 85)  
+Progressed: 28,987 (Ranked 85)  
 Completed: 18 (0.06%) (Ranked 168)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,17 +88,17 @@ Completed: 18 (0.06%) (Ranked 168)
 | 2023-05-15 | 28,177 | 18 |
 | 2023-05-16 | 28,544 | 18 |
 | 2023-05-17 | 28,880 | 18 |
-| 2023-05-18 | 28,973 | 18 |
+| 2023-05-18 | 28,987 | 18 |
 ## Awards
 Max (Extremely Fun): 1,028  (Ranked 133)  
-Sum: 8,329 (Ranked 88)  
+Sum: 8,330 (Ranked 88)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 1,028 |
 | This game has Quickly Understood Controls | 998 |
 | This game is Highly Recommended | 969 |
-| This game has Amazing Characters | 955 |
+| This game has Amazing Characters | 956 |
 | This game is Great for Beginners | 954 |
 | This game has Diverse Characters | 952 |
 | This game is Relaxing | 951 |
@@ -180,3 +180,4 @@ Diff (max vs sum): 45
 | 2023-05-15 | 3.78 | - | 1,027 | 8,322 |
 | 2023-05-16 | 3.78 | - | 1,028 | 8,328 |
 | 2023-05-17 | 3.78 | - | 1,028 | 8,329 |
+| 2023-05-18 | 3.78 | - | 1,028 | 8,330 |

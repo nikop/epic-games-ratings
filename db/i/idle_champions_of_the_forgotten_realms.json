@@ -3766,10 +3766,10 @@
       "Count": 3235
     }
   ],
-  "EOS_Progressed": 87817,
+  "EOS_Progressed": 87821,
   "EOS_Completed": 1849,
-  "EOS_NewPlayers": 700,
-  "EOS_NewCompleters": 26,
+  "EOS_NewPlayers": 704,
+  "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
     {
@@ -6341,6 +6341,11 @@
       "Time": "2023-05-18T06:06:56.3172729+00:00",
       "NumProgressed": 87817,
       "NumCompleted": 1849
+    },
+    {
+      "Time": "2023-05-18T07:05:26.0395283+00:00",
+      "NumProgressed": 87821,
+      "NumCompleted": 1849
     }
   ],
   "TotalAchievements": 493,
@@ -8862,9 +8867,9 @@
       "ID": "objective_completed_592",
       "SetID": "415jc5c",
       "Name": "Temporal Rift in the Goblin Halls",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 54
     },
     {
       "ID": "objective_completed_595",
@@ -10295,21 +10300,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54091,
-      "Completed": 2534
+      "Progressed": 54095,
+      "Completed": 2536
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 87817,
+      "Progressed": 87821,
       "Completed": 1849
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-18T01:57:51.299442+00:00",
-  "LastChanged_Achievements": "2023-05-18T06:06:56.3172724+00:00",
+  "LastChanged_Achievements": "2023-05-18T07:05:26.0395279+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:58.2995911+00:00",
-  "LastUpdate_Ratings": "2023-05-18T05:58:23.8977084+00:00",
-  "LastUpdate_Achievements": "2023-05-18T06:06:56.3221115+00:00"
+  "LastUpdate_Ratings": "2023-05-18T06:57:37.7254035+00:00",
+  "LastUpdate_Achievements": "2023-05-18T07:05:26.0417007+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 274  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~91,071 |
+| VANGUARD | 41.00% | ~91,072 |
 | NATURAL BORN WINNER | 32.00% | ~71,080 |
 | CALLING HOUSTON | 28.00% | ~62,195 |
 | SNEAKY SNEAKY | 22.00% | ~48,868 |
@@ -22,17 +22,17 @@ Number of Ratings: 274  (23.09.2022)
 | SHOWOFF | 4.00% | ~8,885 |
 | TAKATORA | 4.00% | ~8,885 |
 | GILA | 3.00% | ~6,664 |
-| PRO | 2.00% | ~4,442 |
-| RESPWND | 2.00% | ~4,442 |
-| SHINY SHINY GOLD | 2.00% | ~4,442 |
+| PRO | 2.00% | ~4,443 |
+| RESPWND | 2.00% | ~4,443 |
+| SHINY SHINY GOLD | 2.00% | ~4,443 |
 | HARDCORE | 1.00% | ~2,221 |
 | ACE | 0.70% | ~1,555 |
 | TACTICIAN | 0.60% | ~1,333 |
 | GTX COMPETIZIONE | 0.50% | ~1,111 |
 | HIDDEN POWER | 0.50% | ~1,111 |
 | TUNING MANIAC | 0.50% | ~1,111 |
-| DRAGOON | 0.40% | ~888 |
-| FLAWLESS | 0.40% | ~888 |
+| DRAGOON | 0.40% | ~889 |
+| FLAWLESS | 0.40% | ~889 |
 | BETTER THAN EVER | 0.20% | ~444 |
 | IINI | 0.20% | ~444 |
 | MARID | 0.20% | ~444 |
@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~444 |
 | ENLIGHTENED | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,125 (Ranked 43)  
+Progressed: 222,126 (Ranked 43)  
 Completed: 41 (0.02%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 41 (0.02%) (Ranked 185)
 | 2023-05-15 | 221,948 | 41 |
 | 2023-05-16 | 222,026 | 41 |
 | 2023-05-17 | 222,104 | 41 |
-| 2023-05-18 | 222,125 | 41 |
+| 2023-05-18 | 222,126 | 41 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

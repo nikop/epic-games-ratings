@@ -6,13 +6,13 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,482 |
-| That's a Grand Army | 8.00% | ~3,095 |
-| That is mine! | 8.00% | ~3,095 |
-| Victorious! | 8.00% | ~3,095 |
-| Brothers in Arms | 6.00% | ~2,321 |
-| That's a Grand Navy | 6.00% | ~2,321 |
-| Seriously?! | 6.00% | ~2,321 |
+| Until death do us apart | 9.00% | ~3,483 |
+| That's a Grand Army | 8.00% | ~3,096 |
+| That is mine! | 8.00% | ~3,096 |
+| Victorious! | 8.00% | ~3,096 |
+| Brothers in Arms | 6.00% | ~2,322 |
+| That's a Grand Navy | 6.00% | ~2,322 |
+| Seriously?! | 6.00% | ~2,322 |
 | For the Glory | 5.00% | ~1,935 |
 | Cold War | 4.00% | ~1,548 |
 | True Catholic | 4.00% | ~1,548 |
@@ -45,10 +45,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | This navy can take it all | 0.70% | ~271 |
 | Time Bandit | 0.60% | ~232 |
 | Trustworthy | 0.60% | ~232 |
-| All belongs to Mother Russia | 0.50% | ~193 |
-| At every continent | 0.50% | ~193 |
-| Early-Modern Warfare | 0.50% | ~193 |
-| Electable! | 0.50% | ~193 |
+| All belongs to Mother Russia | 0.50% | ~194 |
+| At every continent | 0.50% | ~194 |
+| Early-Modern Warfare | 0.50% | ~194 |
+| Electable! | 0.50% | ~194 |
 | Absolutely | 0.40% | ~155 |
 | Dude, Where's my Boat? | 0.40% | ~155 |
 | In the Name of the Father | 0.40% | ~155 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,691 (Ranked 80)  
+Progressed: 38,702 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -389,14 +389,14 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-15 | 37,515 | 0 |
 | 2023-05-16 | 38,036 | 0 |
 | 2023-05-17 | 38,614 | 0 |
-| 2023-05-18 | 38,691 | 0 |
+| 2023-05-18 | 38,702 | 0 |
 ## Awards
-Max (Educational): 5,228  (Ranked 60)  
-Sum: 43,305 (Ranked 27)  
+Max (Educational): 5,232  (Ranked 60)  
+Sum: 43,309 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 5,228 |
+| This game is Educational | 5,232 |
 | This game is Highly Recommended | 5,019 |
 | This game has Challenging Combat | 5,001 |
 | This game is Extremely Fun | 4,970 |
@@ -530,4 +530,4 @@ Diff (max vs sum): 33
 | 2023-05-15 | 4.68 | - | 5,223 | 43,234 |
 | 2023-05-16 | 4.68 | - | 5,223 | 43,268 |
 | 2023-05-17 | 4.68 | - | 5,228 | 43,298 |
-| 2023-05-18 | 4.68 | - | 5,228 | 43,305 |
+| 2023-05-18 | 4.68 | - | 5,232 | 43,309 |

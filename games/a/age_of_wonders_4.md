@@ -17,7 +17,7 @@ Rating: 4.50 (Ranked 531)
 | There Can Only Be One! | 48.00% | ~1,284 |
 | Seat of Power | 47.00% | ~1,257 |
 | My Final Form | 44.00% | ~1,177 |
-| Intimidation Tactics | 43.00% | ~1,150 |
+| Intimidation Tactics | 44.00% | ~1,177 |
 | Valley of Wonders | 42.00% | ~1,123 |
 | In a Liege of Your Own | 36.00% | ~963 |
 | Digging for Treasure | 30.00% | ~802 |
