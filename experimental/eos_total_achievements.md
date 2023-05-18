@@ -144,6 +144,7 @@
 | [Art of Rally](../games/a/art_of_rally_1.md) | 43 | 1,000 |
 | [Chorus](../games/c/chorus.md) | 43 | 1,000 |
 | [Farming Simulator 22](../games/f/farming_simulator_22.md) | 43 | 1,000 |
+| [Starlight X-2 Galactic Puzzles](../games/s/starlight_x-2_galactic_puzzles.md) | 43 | 1,000 |
 | [GRIME](../games/g/grime.md) | 42 | 1,100 |
 | [Outward Definitive Edition](../games/o/outward.md) | 42 | 1,000 |
 | [Shadow Gangs](../games/s/shadow_gangs.md) | 42 | 1,000 |
@@ -294,6 +295,7 @@
 | [Hazel Sky](../games/h/hazel_sky.md) | 24 | 1,000 |
 | [Imagine Earth](../games/i/imagine_earth.md) | 24 | 1,000 |
 | [Kainga: Seeds of Civilization](../games/k/kainga__seeds_of_civilization.md) | 24 | 1,000 |
+| [Match Village](../games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 24 | 1,000 |
 | [Nickelodeon All-Star Brawl](../games/n/nickelodeon_all-star_brawl.md) | 24 | 1,000 |
 | [Q.U.B.E. 10th Anniversary](../games/q/q.u.b.e._10th_anniversary.md) | 24 | 1,000 |
 | [Serial Cleaners](../games/s/serial_cleaners.md) | 24 | 1,300 |

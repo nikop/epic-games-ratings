@@ -232,6 +232,7 @@
 | [Luna's Fishing Garden](../games/l/luna's_fishing_garden.md) | 14 | 1,000 |
 | [Maid of Sker](../games/m/maid_of_sker.md) | 30 | 1,000 |
 | [Mason: Building Bricks](../games/m/mason__building_bricks.md) | 5 | 1,000 |
+| [Match Village](../games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 24 | 1,000 |
 | [McPixel 3](../games/m/mcpixel_3.md) | 93 | 1,000 |
 | [Merchant of the Skies](../games/m/merchant_of_the_skies.md) | 12 | 1,000 |
 | [MeteoHeroes Saving Planet Earth!](../games/m/meteoheroes_saving_planet_earth!.md) | 25 | 1,000 |
@@ -336,6 +337,7 @@
 | [Spacebase Startopia - Standard Edition](../games/s/spacebase_startopia.md) | 30 | 1,000 |
 | [Spirit of the North](../games/s/spirit_of_the_north.md) | 24 | 1,000 |
 | [Star Trek Prodigy: Supernova](../games/s/star_trek_prodigy__supernova.md) | 41 | 1,000 |
+| [Starlight X-2 Galactic Puzzles](../games/s/starlight_x-2_galactic_puzzles.md) | 43 | 1,000 |
 | [Stellar Interface](../games/s/stellar_interface.md) | 132 | 1,000 |
 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](../games/s/stranger_of_paradise_final_fantasy_origin.md) | 46 | 1,000 |
 | [Strawhart](../games/s/strawhart.md) | 21 | 1,000 |

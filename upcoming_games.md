@@ -55,6 +55,7 @@
 | [Barrett Foster - Chapter One](games/8/866ee32c061b4765b9c0ea3a72d2d17f.md) | 2023-06-01 | 2023-06-01 |
 | [The Unbeatable Path](games/t/the_unbeatable_path.md) | 2023-06-01 | 2023-04-06 |
 | [Search](games/9/9f1f6bcb0e2e490682a81f3fc986690a.md) | 2023-06-01 | 2022-08-29 |
+| [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2023-06-01 | 2022-10-20 |
 | [Conjury Revell](games/c/cb52331116614b88b7b72602cbb52691.md) | 2023-06-01 | 2023-02-07 |
 | [Rise of Jericho](games/r/rise_of_jericho.md) | 2023-06-09 | 2023-06-09 |
 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 2023-06-09 | 2022-09-19 |

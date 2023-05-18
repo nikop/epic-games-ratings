@@ -75,27 +75,27 @@
 | 70 | [Journey](games/j/journey.md) | 4.81 | 0 | 492 |
 | 70 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.81 | 0 | 492 |
 | 70 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 125 | 299 |
-| 70 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.81 | 191 | 262 |
 | 70 | [Sailing Era](games/s/sailing_era.md) | 4.81 | 0 | 492 |
-| 78 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 349 | 211 |
-| 78 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,269 | 51 |
-| 78 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 159 | 281 |
-| 78 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,359 | 94 |
-| 78 | [Rayman Origins](games/r/rayman_origins.md) | 4.80 | 0 | 492 |
-| 78 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 323 |
-| 78 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 492 |
-| 78 | [The Messenger](games/t/the_messenger.md) | 4.80 | 314 | 222 |
-| 78 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 0 | 492 |
-| 78 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 26 | 460 |
-| 78 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.80 | 0 | 492 |
-| 78 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.80 | 0 | 492 |
+| 77 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 349 | 211 |
+| 77 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,269 | 51 |
+| 77 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 159 | 281 |
+| 77 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,359 | 94 |
+| 77 | [Rayman Origins](games/r/rayman_origins.md) | 4.80 | 0 | 492 |
+| 77 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 191 | 262 |
+| 77 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 323 |
+| 77 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 492 |
+| 77 | [The Messenger](games/t/the_messenger.md) | 4.80 | 314 | 222 |
+| 77 | [The Walking Dead: A New Frontier](games/t/the_walking_dead__a_new_frontier.md) | 4.80 | 0 | 492 |
+| 77 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.80 | 26 | 460 |
+| 77 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.80 | 0 | 492 |
+| 77 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.80 | 0 | 492 |
 | 90 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,443 | 116 |
 | 90 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 492 |
 | 90 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 534 | 178 |
 | 90 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 721 | 153 |
-| 90 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 1,014 | 135 |
+| 90 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.79 | 1,016 | 135 |
 | 90 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 5,844 | 55 |
-| 90 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 367 | 207 |
+| 90 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 367 | 208 |
 | 90 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 4.79 | 117 | 306 |
 | 90 | [Superliminal](games/s/superliminal.md) | 4.79 | 0 | 492 |
 | 99 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,830 | 64 |
@@ -148,7 +148,7 @@
 | 140 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 597 | 167 |
 | 140 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,542 | 49 |
 | 140 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 222 | 247 |
-| 140 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 31,270 | 14 |
+| 140 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 31,311 | 14 |
 | 140 | [Suzerain](games/s/suzerain.md) | 4.74 | 0 | 492 |
 | 140 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 492 |
 | 140 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 755 | 148 |
@@ -213,7 +213,7 @@
 | 191 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,282 | 69 |
 | 191 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 492 |
 | 213 | [Bad North](games/b/bad_north.md) | 4.69 | 0 | 492 |
-| 213 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 109,345 | 8 |
+| 213 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 109,396 | 8 |
 | 213 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 492 |
 | 213 | [Days Gone](games/d/days_gone.md) | 4.69 | 3,757 | 77 |
 | 213 | [Deceive Inc.](games/d/deceive_inc..md) | 4.69 | 0 | 492 |
@@ -257,7 +257,7 @@
 | 237 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.68 | 21 | 480 |
 | 237 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 0 | 492 |
 | 257 | [BLACKTAIL](games/b/blacktail.md) | 4.67 | 0 | 492 |
-| 257 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 6,787 | 47 |
+| 257 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.67 | 6,819 | 47 |
 | 257 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 492 |
 | 257 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.67 | 34 | 430 |
 | 257 | [High On Life](games/h/high_on_life.md) | 4.67 | 0 | 492 |
@@ -292,7 +292,7 @@
 | 274 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,768 | 56 |
 | 274 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 458 | 188 |
 | 292 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 4.65 | 0 | 492 |
-| 292 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,461 | 68 |
+| 292 | [Cities: Skylines](games/c/cities__skylines.md) | 4.65 | 4,471 | 68 |
 | 292 | [Coromon](games/c/coromon.md) | 4.65 | 40 | 411 |
 | 292 | [Crysis 3 Remastered](games/c/crysis_3_remastered.md) | 4.65 | 165 | 278 |
 | 292 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.65 | 0 | 492 |
@@ -474,7 +474,7 @@
 | 466 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 22 | 474 |
 | 466 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 31 | 441 |
 | 466 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 0 | 492 |
-| 466 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 840 | 145 |
+| 466 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 842 | 145 |
 | 466 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 492 |
 | 466 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,153 | 125 |
 | 478 | [Aztez](games/a/aztez.md) | 4.54 | 0 | 492 |
@@ -885,7 +885,7 @@
 | 882 | [Banished](games/b/banished.md) | 4.00 | 0 | 492 |
 | 882 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.00 | 78 | 349 |
 | 882 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 0 | 492 |
-| 886 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 367 | 207 |
+| 886 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 368 | 207 |
 | 887 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 492 |
 | 887 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 1,899 | 104 |
 | 887 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,575 | 66 |
