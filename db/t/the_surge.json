@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -295,9 +295,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4220,
+  "EOS_Progressed": 4221,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -460,6 +460,11 @@
       "Time": "2023-05-18T22:05:59.2742389+00:00",
       "NumProgressed": 4220,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-05-18T23:06:54.1629168+00:00",
+      "NumProgressed": 4221,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 67,
@@ -471,7 +476,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1561
+      "UsersEstimate": 1562
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -495,7 +500,7 @@
       "Name": "The Black Cerberus",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "ID_ACHIEV_05",
@@ -519,7 +524,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 3545
+      "UsersEstimate": 3546
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -527,7 +532,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 3967
+      "UsersEstimate": 3968
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -535,7 +540,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3249
+      "UsersEstimate": 3250
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -543,7 +548,7 @@
       "Name": "Hey Listen",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1519
+      "UsersEstimate": 1520
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -567,7 +572,7 @@
       "Name": "Watchman",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "ID_ACHIEV_14",
@@ -687,7 +692,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3207
+      "UsersEstimate": 3208
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -719,7 +724,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 2321
+      "UsersEstimate": 2322
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -759,7 +764,7 @@
       "Name": "I Choose You",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "ID_ACHIEV_39",
@@ -791,7 +796,7 @@
       "Name": "Nothing to Lose",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "ID_ACHIEV_43",
@@ -1006,15 +1011,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4220,
+      "Progressed": 4221,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-05-13T23:57:53.8271899+00:00",
-  "LastChanged_Achievements": "2023-05-18T22:05:59.2742385+00:00",
+  "LastChanged_Achievements": "2023-05-18T23:06:54.1629162+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:52.7493365+00:00",
-  "LastUpdate_Ratings": "2023-05-18T21:58:04.9999084+00:00",
-  "LastUpdate_Achievements": "2023-05-18T22:05:59.2742992+00:00"
+  "LastUpdate_Ratings": "2023-05-18T22:58:42.5673079+00:00",
+  "LastUpdate_Achievements": "2023-05-18T23:06:54.1629811+00:00"
 }

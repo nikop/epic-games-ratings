@@ -3,11 +3,11 @@
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
   "Ranking_Rating": 71,
-  "Ranking_Popularity": 194,
+  "Ranking_Popularity": 195,
   "Ranking_PopularitySum": 150,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2208,10 +2208,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 3026,
       "NumberOfAwardsMax": 417
+    },
+    {
+      "Time": "2023-05-18T23:01:35.4623411+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 3027,
+      "NumberOfAwardsMax": 417
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3026,
+  "NumberOfAwards": 3027,
   "NumberOfAwardsMax": 417,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -2261,7 +2267,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 297
+      "Count": 298
     },
     {
       "Text": "This game has a Creative Community",
@@ -2278,7 +2284,7 @@
   ],
   "EOS_Progressed": 14878,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -4137,9 +4143,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-05-17T03:59:57.4704238+00:00",
-  "LastChanged_Achievements": "2023-05-18T22:06:41.3896709+00:00",
+  "LastChanged": "2023-05-18T23:01:35.4623409+00:00",
+  "LastChanged_Achievements": "2023-05-18T23:07:30.9199142+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:54.8345415+00:00",
-  "LastUpdate_Ratings": "2023-05-18T22:00:45.4206828+00:00",
-  "LastUpdate_Achievements": "2023-05-18T22:06:41.3897159+00:00"
+  "LastUpdate_Ratings": "2023-05-18T23:01:35.4623422+00:00",
+  "LastUpdate_Achievements": "2023-05-18T23:07:30.9199647+00:00"
 }

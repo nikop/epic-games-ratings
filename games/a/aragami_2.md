@@ -6,25 +6,25 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 92.00% | ~30,038 |
-| First Steps | 81.00% | ~26,446 |
-| Control the Shadows | 68.00% | ~22,202 |
+| Awakening | 92.00% | ~30,039 |
+| First Steps | 81.00% | ~26,447 |
+| Control the Shadows | 68.00% | ~22,203 |
 | Tools of the Trade | 63.00% | ~20,570 |
-| Apprentice | 60.00% | ~19,590 |
-| Secret Seeker | 57.00% | ~18,610 |
-| Forge of Assassins | 56.00% | ~18,284 |
+| Apprentice | 60.00% | ~19,591 |
+| Secret Seeker | 57.00% | ~18,611 |
+| Forge of Assassins | 56.00% | ~18,285 |
 | Revenant | 51.00% | ~16,652 |
-| I don’t Care! | 45.00% | ~14,692 |
-| Bird of Prey | 37.00% | ~12,080 |
+| I don’t Care! | 45.00% | ~14,693 |
+| Bird of Prey | 37.00% | ~12,081 |
 | Engraved with Power | 32.00% | ~10,448 |
 | Lady | 30.00% | ~9,795 |
 | Fashionable Assassin | 27.00% | ~8,816 |
 | Apex Predator | 24.00% | ~7,836 |
 | Soul Reaver | 22.00% | ~7,183 |
-| Embers | 21.00% | ~6,856 |
+| Embers | 21.00% | ~6,857 |
 | Wall Lizard | 20.00% | ~6,530 |
 | Clinging to Life | 18.00% | ~5,877 |
-| Burning | 17.00% | ~5,550 |
+| Burning | 17.00% | ~5,551 |
 | Look Behind You | 16.00% | ~5,224 |
 | Sleeping on the Job | 16.00% | ~5,224 |
 | Family | 14.00% | ~4,571 |
@@ -32,15 +32,15 @@ Number of Ratings: 88  (23.09.2022)
 | Signature Move | 14.00% | ~4,571 |
 | Ruse | 11.00% | ~3,592 |
 | Master Ninja | 10.00% | ~3,265 |
-| Hatching | 9.00% | ~2,938 |
-| Bonds | 9.00% | ~2,938 |
+| Hatching | 9.00% | ~2,939 |
+| Bonds | 9.00% | ~2,939 |
 | Denouement | 8.00% | ~2,612 |
 | Get Over Here | 8.00% | ~2,612 |
 | The Hidden Village | 8.00% | ~2,612 |
 | A Pleasant Stay | 8.00% | ~2,612 |
 | Pilgrimage | 7.00% | ~2,286 |
-| The Lookout | 5.00% | ~1,632 |
-| The Spirit of Vengeance | 5.00% | ~1,632 |
+| The Lookout | 5.00% | ~1,633 |
+| The Spirit of Vengeance | 5.00% | ~1,633 |
 | Left Behind | 4.00% | ~1,306 |
 | Secrets of the Earth | 4.00% | ~1,306 |
 | Hollow | 4.00% | ~1,306 |
@@ -48,10 +48,10 @@ Number of Ratings: 88  (23.09.2022)
 | Heart of Fire | 3.00% | ~980 |
 | Forest Spirits | 3.00% | ~980 |
 | Legacy | 2.00% | ~653 |
-| Hot Potato | 1.00% | ~326 |
-| Anger Management | 1.00% | ~326 |
+| Hot Potato | 1.00% | ~327 |
+| Anger Management | 1.00% | ~327 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,650 (Ranked 82)  
+Progressed: 32,651 (Ranked 82)  
 Completed: 156 (0.48%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 156 (0.48%) (Ranked 107)
 | 2023-05-15 | 32,476 | 155 |
 | 2023-05-16 | 32,537 | 156 |
 | 2023-05-17 | 32,590 | 156 |
-| 2023-05-18 | 32,650 | 156 |
+| 2023-05-18 | 32,651 | 156 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

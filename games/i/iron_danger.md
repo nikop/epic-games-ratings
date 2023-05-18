@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Shard | 80.00% | ~134 |
-| Found the Healer | 32.00% | ~54 |
+| Found the Healer | 33.00% | ~55 |
 | Second Shard | 10.00% | ~17 |
 | Ring of Fire! | 9.00% | ~15 |
 | Champion of Kalevala | 8.00% | ~13 |

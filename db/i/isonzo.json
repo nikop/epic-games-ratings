@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -538,9 +538,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5639,
+  "EOS_Progressed": 5641,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -923,6 +923,11 @@
       "Time": "2023-05-18T22:06:12.7974322+00:00",
       "NumProgressed": 5639,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-18T23:06:58.1387656+00:00",
+      "NumProgressed": 5641,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -950,7 +955,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 2594
+      "UsersEstimate": 2595
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -982,7 +987,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2030
+      "UsersEstimate": 2031
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -990,7 +995,7 @@
       "Name": "Dante\u0027s Inferno",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "ISONZO_ACH_DECIMATION",
@@ -1006,7 +1011,7 @@
       "Name": "Die Bosniaken Kommen!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
@@ -1014,15 +1019,15 @@
       "Name": "Dirty Dozen",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
       "SetID": "akchbl3",
       "Name": "Donatello",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1128
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -1046,7 +1051,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 1804
+      "UsersEstimate": 1805
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -1062,7 +1067,7 @@
       "Name": "Insubordination",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -1102,7 +1107,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2030
+      "UsersEstimate": 2031
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -1126,7 +1131,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3045
+      "UsersEstimate": 3046
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -1206,7 +1211,7 @@
       "Name": "The Devil\u0027s Paintbrush",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "ISONZO_ACH_THE_ENLIGHTMENT",
@@ -1222,7 +1227,7 @@
       "Name": "The Italian Job",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -1262,7 +1267,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 2989
+      "UsersEstimate": 2990
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -1286,14 +1291,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 2989
+      "UsersEstimate": 2990
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5639,
+      "Progressed": 5641,
       "Completed": 8
     }
   ],
@@ -1301,8 +1306,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-18T21:57:24.3504815+00:00",
-  "LastChanged_Achievements": "2023-05-18T22:06:12.7974319+00:00",
+  "LastChanged_Achievements": "2023-05-18T23:06:58.1387649+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:18.2018805+00:00",
-  "LastUpdate_Ratings": "2023-05-18T21:57:24.3504821+00:00",
-  "LastUpdate_Achievements": "2023-05-18T22:06:12.7974623+00:00"
+  "LastUpdate_Ratings": "2023-05-18T22:57:55.4371081+00:00",
+  "LastUpdate_Achievements": "2023-05-18T23:06:58.1388046+00:00"
 }

@@ -10,8 +10,8 @@
 | Friend! | 38.00% | ~9 |
 | Setting Off | 38.00% | ~9 |
 | Clear as Water | 33.00% | ~8 |
+| Shine! | 33.00% | ~8 |
 | Riddlesolver | 29.00% | ~7 |
-| Shine! | 29.00% | ~7 |
 | Dungeon Mastery | 25.00% | ~6 |
 | The Apprentice | 17.00% | ~4 |
 | The Steed | 17.00% | ~4 |

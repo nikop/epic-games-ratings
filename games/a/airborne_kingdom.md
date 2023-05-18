@@ -1,13 +1,13 @@
 # Airborne Kingdom
 [Store](https://store.epicgames.com/en-US/p/airborne-kingdom)  
 [View Rawdata](../../db/a/airborne_kingdom.json)  
-Rating: 4.65 (Ranked 293)  
+Rating: 4.65 (Ranked 292)  
 Number of Ratings: 74  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~3,564 |
-| A Grove Replanted | 53.00% | ~3,373 |
+| A Small Community | 56.00% | ~3,565 |
+| A Grove Replanted | 53.00% | ~3,374 |
 | Fields Watered | 41.00% | ~2,610 |
 | Seekers Found | 41.00% | ~2,610 |
 | Settling the Skies | 41.00% | ~2,610 |
@@ -15,17 +15,17 @@ Number of Ratings: 74  (23.09.2022)
 | It Takes a Village | 34.00% | ~2,164 |
 | On the Town | 28.00% | ~1,782 |
 | Daylight Found | 26.00% | ~1,655 |
-| Irons Scorched | 25.00% | ~1,591 |
-| Islands Connected | 25.00% | ~1,591 |
+| Irons Scorched | 25.00% | ~1,592 |
+| Islands Connected | 25.00% | ~1,592 |
 | Harp Tuned | 23.00% | ~1,464 |
 | Pyre Ignited | 23.00% | ~1,464 |
 | Travelers Returned | 23.00% | ~1,464 |
-| Hopes Hoisted | 22.00% | ~1,400 |
+| Hopes Hoisted | 22.00% | ~1,401 |
 | Knowledge Shared | 20.00% | ~1,273 |
 | Relic Finder | 20.00% | ~1,273 |
-| Worthy of the Title | 19.00% | ~1,209 |
+| Worthy of the Title | 19.00% | ~1,210 |
 | A Peaceful Respite | 14.00% | ~891 |
-| Prophecy Fulfilled | 13.00% | ~827 |
+| Prophecy Fulfilled | 13.00% | ~828 |
 | A Learned Scholar | 12.00% | ~764 |
 | A Wanderer’s Guide | 11.00% | ~700 |
 | Knowledge Seeker | 7.00% | ~446 |
@@ -34,7 +34,7 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~127 |
 | A True Challenge | 2.00% | ~127 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,365 (Ranked 114)  
+Progressed: 6,366 (Ranked 114)  
 Completed: 51 (0.80%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,7 +62,7 @@ Completed: 51 (0.80%) (Ranked 95)
 | 2023-05-15 | 6,349 | 51 |
 | 2023-05-16 | 6,353 | 51 |
 | 2023-05-17 | 6,355 | 51 |
-| 2023-05-18 | 6,365 | 51 |
+| 2023-05-18 | 6,366 | 51 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

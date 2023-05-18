@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -176,7 +176,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 742,
+  "EOS_Progressed": 743,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
@@ -606,6 +606,11 @@
       "Time": "2023-05-18T22:05:58.1908273+00:00",
       "NumProgressed": 742,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-18T23:06:52.9528945+00:00",
+      "NumProgressed": 743,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -679,9 +684,9 @@
       "ID": "REWARD_18_ORGAN_GRINDER",
       "SetID": "bm6el81",
       "Name": "Organ Grinder",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -759,9 +764,9 @@
       "ID": "REWARD_27_THE_LONG_GAME",
       "SetID": "bm6el81",
       "Name": "The Long Game",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -823,9 +828,9 @@
       "ID": "REWARD_35_LORD_OF_WAR",
       "SetID": "bm6el81",
       "Name": "Lord of War",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -863,9 +868,9 @@
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
       "SetID": "bm6el81",
       "Name": "The Kraken Wakes",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -927,9 +932,9 @@
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
       "SetID": "bm6el81",
       "Name": "It\u0027s Starting to Crack",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -1184,13 +1189,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 693,
+      "Progressed": 694,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 742,
+      "Progressed": 743,
       "Completed": 2
     }
   ],
@@ -1198,8 +1203,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-18T16:01:31.1520338+00:00",
-  "LastChanged_Achievements": "2023-05-18T22:05:58.190827+00:00",
+  "LastChanged_Achievements": "2023-05-18T23:06:52.952894+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:23.4749836+00:00",
-  "LastUpdate_Ratings": "2023-05-18T22:01:21.345181+00:00",
-  "LastUpdate_Achievements": "2023-05-18T22:05:58.1908865+00:00"
+  "LastUpdate_Ratings": "2023-05-18T23:02:14.8646727+00:00",
+  "LastUpdate_Achievements": "2023-05-18T23:06:52.9529629+00:00"
 }

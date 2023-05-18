@@ -1,7 +1,7 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 60)  
+Rating: 4.82 (Ranked 61)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -16,13 +16,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Breath | 0.80% | ~5,625 |
 | Path of the Prospect | 0.80% | ~5,625 |
 | Rumble in the Hangar | 0.80% | ~5,625 |
+| The Assault | 0.70% | ~4,921 |
 | Lady Wing Chun | 0.70% | ~4,921 |
 | Furious Fists | 0.70% | ~4,921 |
 | Kill Nil | 0.70% | ~4,921 |
 | Qi Gong: Essence | 0.70% | ~4,921 |
 | Take damage to save time | 0.70% | ~4,921 |
 | The Old Grandmaster | 0.60% | ~4,218 |
-| The Assault | 0.60% | ~4,218 |
 | Scareless | 0.60% | ~4,218 |
 | Stuntmaster | 0.60% | ~4,218 |
 | Street Fighting | 0.60% | ~4,218 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~703 |
 | Warriors from the Mountain | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703,069 (Ranked 15)  
+Progressed: 703,070 (Ranked 15)  
 Completed: 12,731 (1.81%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 12,731 (1.81%) (Ranked 63)
 | 2023-05-15 | 702,957 | 12,726 |
 | 2023-05-16 | 702,986 | 12,728 |
 | 2023-05-17 | 703,009 | 12,730 |
-| 2023-05-18 | 703,069 | 12,731 |
+| 2023-05-18 | 703,070 | 12,731 |
 ## Awards
 Max (Great Boss Battles): 6,074  (Ranked 53)  
 Sum: 10,327 (Ranked 77)  

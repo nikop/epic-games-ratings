@@ -6,27 +6,27 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 2.00% | ~588 |
-| The Side Job | 1.00% | ~294 |
-| Wet Work | 1.00% | ~294 |
-| Tune Up | 1.00% | ~294 |
-| Optimized | 1.00% | ~294 |
-| Landlord | 1.00% | ~294 |
-| Performance Review | 1.00% | ~294 |
-| Wrecking Ball | 1.00% | ~294 |
-| Making a Name | 1.00% | ~294 |
-| Food for Thought | 1.00% | ~294 |
-| To The Nines | 1.00% | ~294 |
-| Finders Keepers | 0.90% | ~265 |
-| A Young Empire | 0.90% | ~265 |
+| First F#@!ing Day | 2.00% | ~589 |
+| To The Nines | 2.00% | ~589 |
+| Finders Keepers | 1.00% | ~295 |
+| The Side Job | 1.00% | ~295 |
+| Wet Work | 1.00% | ~295 |
+| Tune Up | 1.00% | ~295 |
+| Optimized | 1.00% | ~295 |
+| A Young Empire | 1.00% | ~295 |
+| Landlord | 1.00% | ~295 |
+| Performance Review | 1.00% | ~295 |
+| Wrecking Ball | 1.00% | ~295 |
+| Making a Name | 1.00% | ~295 |
+| Food for Thought | 1.00% | ~295 |
 | Work Ethic | 0.90% | ~265 |
-| Picking Fights | 0.80% | ~235 |
+| Picking Fights | 0.80% | ~236 |
 | Quality Time | 0.70% | ~206 |
 | Power Players | 0.70% | ~206 |
+| Took It to The Limit | 0.70% | ~206 |
 | Showdown | 0.60% | ~177 |
 | Kitted Out | 0.60% | ~177 |
 | Et tu? | 0.60% | ~177 |
-| Took It to The Limit | 0.60% | ~177 |
 | Masters of Santo Ileso | 0.50% | ~147 |
 | The Spins | 0.40% | ~118 |
 | The Mechanic | 0.40% | ~118 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Fiesta Time | 0.10% | ~29 |
 | All Mine | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,424 (Ranked 84)  
+Progressed: 29,461 (Ranked 84)  
 Completed: 19 (0.06%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 19 (0.06%) (Ranked 169)
 | 2023-05-15 | 28,177 | 18 |
 | 2023-05-16 | 28,544 | 18 |
 | 2023-05-17 | 28,880 | 18 |
-| 2023-05-18 | 29,424 | 19 |
+| 2023-05-18 | 29,461 | 19 |
 ## Awards
 Max (Extremely Fun): 1,029  (Ranked 133)  
 Sum: 8,334 (Ranked 88)  

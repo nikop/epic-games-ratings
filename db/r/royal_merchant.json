@@ -18,6 +18,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
@@ -29,7 +31,8 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
+  "FirstSeen": "2023-05-18T23:00:47.9408127+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:20.5480918+00:00",
-  "LastUpdate_Ratings": "2023-05-18T22:00:04.1225223+00:00",
-  "LastUpdate_Achievements": "2023-05-18T22:04:48.6172902+00:00"
+  "LastUpdate_Ratings": "2023-05-18T23:00:47.9408177+00:00",
+  "LastUpdate_Achievements": "2023-05-18T23:05:32.4013196+00:00"
 }

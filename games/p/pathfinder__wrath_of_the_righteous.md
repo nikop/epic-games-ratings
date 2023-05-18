@@ -22,6 +22,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Voice from Your Dreams | 3.00% | ~266 |
 | All Paths Open | 3.00% | ~266 |
 | Demonic and Divine | 3.00% | ~266 |
+| Next-Door Play | 3.00% | ~266 |
 | Heart of the Fallen Land | 2.00% | ~177 |
 | The Legacy | 2.00% | ~177 |
 | Divide and Rule | 2.00% | ~177 |
@@ -30,7 +31,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | Your First Big Enemy | 2.00% | ~177 |
 | A Flame | 2.00% | ~177 |
 | Hey, I Know You! | 2.00% | ~177 |
-| Next-Door Play | 2.00% | ~177 |
 | Get the Toad | 2.00% | ~177 |
 | Hanged Man's Notes | 2.00% | ~153 |
 | The Lady of the Forest | 2.00% | ~153 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,870 (Ranked 109)  
+Progressed: 8,872 (Ranked 109)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-15 | 8,826 | 0 |
 | 2023-05-16 | 8,839 | 0 |
 | 2023-05-17 | 8,850 | 0 |
-| 2023-05-18 | 8,870 | 0 |
+| 2023-05-18 | 8,872 | 0 |
 ## Awards
 Max (Character Customization): 1,634  (Ranked 111)  
 Sum: 6,623 (Ranked 108)  

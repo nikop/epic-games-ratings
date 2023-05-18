@@ -13,12 +13,12 @@
 | "Swoosh" | 50.00% | ~5 |
 | The light at the end of the tunnel | 50.00% | ~5 |
 | Soft skin | 50.00% | ~5 |
+| Squid game | 40.00% | ~4 |
+| Masochistic | 40.00% | ~4 |
 | Rooftop | 40.00% | ~4 |
 | Sensitive soul | 40.00% | ~4 |
-| Squid game | 30.00% | ~3 |
 | Rock Solid | 30.00% | ~3 |
 | The beast within | 30.00% | ~3 |
-| Masochistic | 30.00% | ~3 |
 | It's getting dark | 30.00% | ~3 |
 | Homeless | 30.00% | ~3 |
 | Big badaboom! | 30.00% | ~3 |

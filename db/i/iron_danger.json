@@ -144,9 +144,9 @@
       "ID": "ACH_HEALER_MET",
       "SetID": "ao59f0i",
       "Name": "Found the Healer",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_KEYU_EXTERMINATOR",
@@ -273,8 +273,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-05-18T22:06:35.3118194+00:00",
+  "LastChanged_Achievements": "2023-05-18T23:07:23.925333+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:56.6904765+00:00",
-  "LastUpdate_Ratings": "2023-05-18T22:00:46.8514983+00:00",
-  "LastUpdate_Achievements": "2023-05-18T22:06:35.3118334+00:00"
+  "LastUpdate_Ratings": "2023-05-18T23:01:37.0235583+00:00",
+  "LastUpdate_Achievements": "2023-05-18T23:07:23.9253525+00:00"
 }
