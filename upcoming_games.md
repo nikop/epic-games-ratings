@@ -4,6 +4,7 @@
 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 2023-05-18 | 2021-04-30 |
 | [Flyto](games/f/flyto.md) | 2023-05-18 | 2023-05-18 |
 | [Witchcrafty](games/w/witchcrafty.md) | 2023-05-18 | 2022-03-01 |
+| [The Inheritance of Crimson Manor](games/t/the_inheritance_of_crimson_manor.md) | 2023-05-18 | 2022-05-05 |
 | [Return to Monkey Island](games/6/652423874791471c8ed723e94d43062b.md) | 2023-05-18 | 2022-09-19 |
 | [The Outlast Trials](games/t/the_outlast_trials.md) | 2023-05-18 | 2023-05-18 |
 | [Without Escape](games/w/without_escape.md) | 2023-05-18 | 2018-04-23 |
