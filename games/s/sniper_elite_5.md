@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.41 (Ranked 656)  
+Rating: 4.41 (Ranked 655)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -26,6 +26,7 @@ Rating: 4.41 (Ranked 656)
 | Skirmisher | 0.10% | ~1 |
 | Rigged to Blow | 0.10% | ~1 |
 | Lord of War | 0.10% | ~1 |
+| Burn after reading | 0.10% | ~1 |
 | Brains of the Operation | 0.10% | ~1 |
 | Target America | 0.10% | ~1 |
 | The Kraken Sleeps | 0.10% | ~1 |
@@ -53,7 +54,6 @@ Rating: 4.41 (Ranked 656)
 | Close Quarters | 0.00% | ~0 |
 | Snake in the Grass | 0.00% | ~0 |
 | From Paris with Love | 0.00% | ~0 |
-| Burn after reading | 0.00% | ~0 |
 | Souvenir hunter | 0.00% | ~0 |
 | Eagle Eyed | 0.00% | ~0 |
 | Tinkerer | 0.00% | ~0 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 656)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 737 (Ranked 176)  
+Progressed: 739 (Ranked 176)  
 Completed: 2 (0.27%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 2 (0.27%) (Ranked 130)
 | 2023-05-15 | 721 | 2 |
 | 2023-05-16 | 723 | 2 |
 | 2023-05-17 | 728 | 2 |
-| 2023-05-18 | 737 | 2 |
+| 2023-05-18 | 739 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

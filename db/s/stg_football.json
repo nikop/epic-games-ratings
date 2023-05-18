@@ -3,12 +3,12 @@
   "Name": "STG Football",
   "ProductSlug": "superteam-football-6ce66c",
   "Ranking_Rating": 605,
-  "Ranking_Popularity": 418,
+  "Ranking_Popularity": 414,
   "Ranking_PopularitySum": 319,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-10-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-26T16:00:00+00:00",
@@ -445,18 +445,24 @@
       "Rating": 4.45,
       "NumberOfAwards": 330,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2023-05-18T20:02:16.2846549+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 332,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 330,
-  "NumberOfAwardsMax": 37,
+  "NumberOfAwards": 332,
+  "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 37
+      "Count": 38
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -510,7 +516,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 21
+      "Count": 22
     },
     {
       "Text": "This game is Educational",
@@ -537,8 +543,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-25T20:04:22.7982366+00:00",
   "FirstSeenRating": "2022-10-28T23:02:10.4160395+00:00",
-  "LastChanged": "2023-05-18T18:01:23.7063763+00:00",
+  "LastChanged": "2023-05-18T20:02:16.2846547+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:21.1314993+00:00",
-  "LastUpdate_Ratings": "2023-05-18T19:00:33.2071898+00:00",
-  "LastUpdate_Achievements": "2023-05-18T19:04:45.290067+00:00"
+  "LastUpdate_Ratings": "2023-05-18T20:02:16.2846553+00:00",
+  "LastUpdate_Achievements": "2023-05-18T20:06:15.610054+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2019-10-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -4045,10 +4045,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 8222,
       "NumberOfAwardsMax": 1057
+    },
+    {
+      "Time": "2023-05-18T19:57:39.8429846+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8231,
+      "NumberOfAwardsMax": 1057
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8222,
+  "NumberOfAwards": 8231,
   "NumberOfAwardsMax": 1057,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4074,7 +4080,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 897
+      "Count": 902
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4110,7 +4116,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 733
+      "Count": 737
     }
   ],
   "EOS_Progressed": 0,
@@ -4124,8 +4130,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:01.6049154+00:00",
-  "LastChanged": "2023-05-18T18:57:22.4265473+00:00",
+  "LastChanged": "2023-05-18T19:57:39.8429844+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:26.7737544+00:00",
-  "LastUpdate_Ratings": "2023-05-18T18:57:22.4265618+00:00",
-  "LastUpdate_Achievements": "2023-05-18T19:00:58.7968149+00:00"
+  "LastUpdate_Ratings": "2023-05-18T19:57:39.8429852+00:00",
+  "LastUpdate_Achievements": "2023-05-18T20:03:00.3309534+00:00"
 }

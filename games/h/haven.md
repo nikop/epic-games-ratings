@@ -6,24 +6,24 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 80.00% | ~900 |
-| Lovebirds | 52.00% | ~585 |
+| Balding bloot! | 80.00% | ~901 |
+| Lovebirds | 52.00% | ~586 |
 | Life’s short, ride long | 48.00% | ~540 |
 | Hug therapy | 46.00% | ~518 |
-| Over my dead body | 42.00% | ~472 |
+| Over my dead body | 42.00% | ~473 |
 | Shake the rust off their feet | 23.00% | ~259 |
 | Strike! | 21.00% | ~236 |
 | My little pony | 21.00% | ~236 |
 | A love supreme | 20.00% | ~225 |
-| In my shoes | 18.00% | ~202 |
+| In my shoes | 18.00% | ~203 |
 | Like new! | 16.00% | ~180 |
 | Heartstrings | 15.00% | ~169 |
-| Don't look back | 14.00% | ~158 |
 | Head in the clouds | 14.00% | ~158 |
 | Back to rust | 13.00% | ~146 |
 | Flower Powered | 13.00% | ~146 |
+| Don't look back | 13.00% | ~146 |
 | Unstoppable | 11.00% | ~124 |
-| Perfect timing | 10.00% | ~112 |
+| Perfect timing | 10.00% | ~113 |
 | Ain't no mountain high enough | 9.00% | ~101 |
 | Self-sustainability | 8.00% | ~90 |
 | Spring cleaning | 6.00% | ~68 |
@@ -34,10 +34,10 @@ Number of Ratings: 38  (23.09.2022)
 | Strip-a-bobble | 4.00% | ~45 |
 | Pearls before Birble | 3.00% | ~34 |
 | Last minute | 3.00% | ~34 |
-| Thar she blows | 2.00% | ~22 |
-| À la carte | 2.00% | ~22 |
+| Thar she blows | 2.00% | ~23 |
+| À la carte | 2.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,125 (Ranked 159)  
+Progressed: 1,126 (Ranked 159)  
 Completed: 8 (0.71%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,7 +62,7 @@ Completed: 8 (0.71%) (Ranked 99)
 | 2023-05-14 | 1,121 | 8 |
 | 2023-05-15 | 1,122 | 8 |
 | 2023-05-17 | 1,124 | 8 |
-| 2023-05-18 | 1,125 | 8 |
+| 2023-05-18 | 1,126 | 8 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

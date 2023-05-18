@@ -22,13 +22,13 @@
 | It's getting dark | 30.00% | ~3 |
 | Homeless | 30.00% | ~3 |
 | Big badaboom! | 30.00% | ~3 |
+| Nokron tower | 20.00% | ~2 |
 | Magnitude 5 | 20.00% | ~2 |
+| Bookworm | 20.00% | ~2 |
 | Payback | 20.00% | ~2 |
 | Full power | 10.00% | ~1 |
 | "Ah sh*t... Here we go again!" | 10.00% | ~1 |
-| Nokron tower | 10.00% | ~1 |
 | MayDay! MayDay! | 10.00% | ~1 |
-| Bookworm | 10.00% | ~1 |
 | Abyssal God | 0.00% | ~0 |
 | GG EZ | 0.00% | ~0 |
 | Compulsive hoarder | 0.00% | ~0 |

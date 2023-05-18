@@ -26,17 +26,17 @@
 | Gold Medalist | 11.00% | ~66 |
 | Non-Fiction | 11.00% | ~66 |
 | No Man Left Behind | 9.00% | ~54 |
+| Fix-It Felix | 7.00% | ~42 |
 | Intergalactic Breakup | 7.00% | ~42 |
 | Flawless Maegangement | 7.00% | ~42 |
 | Second Life | 7.00% | ~42 |
 | Axel jump in space! | 6.00% | ~36 |
 | First of April | 6.00% | ~36 |
-| Fix-It Felix | 6.00% | ~36 |
 | Extreme Makeover | 5.00% | ~30 |
 | The Improvinator | 4.00% | ~24 |
 | The Last Supper | 4.00% | ~24 |
+| 2018: A Soup Odyssey | 3.00% | ~18 |
 | Bovine Domain | 2.00% | ~12 |
-| 2018: A Soup Odyssey | 2.00% | ~12 |
 | That's No Moon! | 2.00% | ~12 |
 | AAARGH! | 1.00% | ~6 |
 | Feels like home | 1.00% | ~6 |

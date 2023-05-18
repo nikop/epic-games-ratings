@@ -4,11 +4,11 @@
   "ProductSlug": "way-of-the-hunter",
   "Ranking_Rating": 719,
   "Ranking_Popularity": 414,
-  "Ranking_PopularitySum": 348,
+  "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-08-22T17:00:00+00:00",
     "PcReleaseDate": "2022-08-16T17:00:00+00:00",
@@ -590,10 +590,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 211,
       "NumberOfAwardsMax": 38
+    },
+    {
+      "Time": "2023-05-18T19:59:47.7108455+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 231,
+      "NumberOfAwardsMax": 38
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 211,
+  "NumberOfAwards": 231,
   "NumberOfAwardsMax": 38,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -656,6 +662,12 @@
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
       "Count": 20
+    },
+    {
+      "Text": "This game has Challenging Combat",
+      "Prefix": "This game has",
+      "Type": "Challenging Combat",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -670,8 +682,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-22T17:32:55.4881061+00:00",
   "FirstSeenRating": "2022-08-25T19:31:36.42786+00:00",
-  "LastChanged": "2023-05-14T13:58:42.1751109+00:00",
+  "LastChanged": "2023-05-18T19:59:47.7108453+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:54.3533642+00:00",
-  "LastUpdate_Ratings": "2023-05-18T18:58:54.4811842+00:00",
-  "LastUpdate_Achievements": "2023-05-18T19:03:51.7827849+00:00"
+  "LastUpdate_Ratings": "2023-05-18T19:59:47.7108459+00:00",
+  "LastUpdate_Achievements": "2023-05-18T20:05:12.0448791+00:00"
 }

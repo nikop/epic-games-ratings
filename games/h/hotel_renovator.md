@@ -1,31 +1,31 @@
 # Hotel Renovator
 [Store](https://store.epicgames.com/en-US/p/hotel-renovator)  
 [View Rawdata](../../db/h/hotel_renovator.json)  
-Rating: 4.50 (Ranked 532)  
+Rating: 4.50 (Ranked 531)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Good start | 76.00% | ~565 |
-| And so it begins | 72.00% | ~535 |
+| And so it begins | 72.00% | ~536 |
 | No pressure | 69.00% | ~513 |
-| Memento | 61.00% | ~453 |
-| Let there be light | 58.00% | ~431 |
+| Memento | 61.00% | ~454 |
+| Let there be light | 58.00% | ~432 |
 | I think you dropped this | 55.00% | ~409 |
-| Soulmate? | 52.00% | ~386 |
+| Soulmate? | 52.00% | ~387 |
 | Excellent service | 48.00% | ~357 |
-| Roll with it | 45.00% | ~334 |
-| Humble beginnings | 43.00% | ~319 |
-| Love is in the air | 43.00% | ~319 |
+| Roll with it | 45.00% | ~335 |
+| Humble beginnings | 43.00% | ~320 |
+| Love is in the air | 43.00% | ~320 |
 | Moving up | 41.00% | ~305 |
 | Fine, I'll do it myself | 39.00% | ~290 |
-| No need to call anyone | 38.00% | ~282 |
+| No need to call anyone | 38.00% | ~283 |
 | Big fortune | 32.00% | ~238 |
 | Still more work ahead | 28.00% | ~208 |
 | Hotel sleuthing | 27.00% | ~201 |
 | Aesop's fable | 26.00% | ~193 |
 | Kaboom | 25.00% | ~186 |
-| Nearly there | 24.00% | ~178 |
-| Broken heart | 22.00% | ~163 |
+| Nearly there | 24.00% | ~179 |
+| Broken heart | 22.00% | ~164 |
 | Island boy | 20.00% | ~149 |
 | Unstoppable | 18.00% | ~134 |
 | You're a star | 18.00% | ~134 |
@@ -33,7 +33,7 @@ Rating: 4.50 (Ranked 532)
 | King of hospitality | 11.00% | ~82 |
 | Top spot in town | 3.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 743 (Ranked 175)  
+Progressed: 744 (Ranked 175)  
 Completed: 11 (1.48%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,6 +58,7 @@ Completed: 11 (1.48%) (Ranked 73)
 | 2023-05-14 | 738 | 11 |
 | 2023-05-15 | 740 | 11 |
 | 2023-05-16 | 743 | 11 |
+| 2023-05-18 | 744 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

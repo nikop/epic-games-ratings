@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 144,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2018-09-17T22:00:00+00:00",
@@ -265,9 +265,9 @@
       "ID": "Achievement_FixItFelix",
       "SetID": "c01p6e5",
       "Name": "Fix-It Felix",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 42
     },
     {
       "ID": "Achievement_ForScience",
@@ -417,9 +417,9 @@
       "ID": "Achievement_SoupOdyssey",
       "SetID": "c01p6e5",
       "Name": "2018: A Soup Odyssey",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 18
     },
     {
       "ID": "Achievement_SpaceColonization",
@@ -498,8 +498,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-05-18T19:05:12.4996313+00:00",
+  "LastChanged_Achievements": "2023-05-18T20:06:39.2727681+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:49.6903001+00:00",
-  "LastUpdate_Ratings": "2023-05-18T18:58:47.012632+00:00",
-  "LastUpdate_Achievements": "2023-05-18T19:05:12.499667+00:00"
+  "LastUpdate_Ratings": "2023-05-18T19:59:38.0934948+00:00",
+  "LastUpdate_Achievements": "2023-05-18T20:06:39.2728027+00:00"
 }

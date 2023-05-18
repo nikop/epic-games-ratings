@@ -11,11 +11,11 @@
 | Bridges to come and go | 51.00% | ~39 |
 | Found an oasis | 42.00% | ~32 |
 | Burger or pizza? | 36.00% | ~28 |
-| Passion for sports | 31.00% | ~24 |
-| Who loves trains? | 27.00% | ~21 |
-| Easy and steady climb | 27.00% | ~21 |
-| At the heart of the city | 27.00% | ~21 |
-| Calm neighborhood | 26.00% | ~20 |
+| Passion for sports | 32.00% | ~25 |
+| Who loves trains? | 29.00% | ~22 |
+| Easy and steady climb | 29.00% | ~22 |
+| At the heart of the city | 29.00% | ~22 |
+| Calm neighborhood | 27.00% | ~21 |
 | Elevated ring | 26.00% | ~20 |
 | Not lonely anymore | 22.00% | ~17 |
 | Monumental tribute | 21.00% | ~16 |

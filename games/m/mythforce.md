@@ -1,12 +1,12 @@
 # MythForce
 [Store](https://store.epicgames.com/en-US/p/mythforce-d2710b)  
 [View Rawdata](../../db/m/mythforce.json)  
-Rating: 4.50 (Ranked 532)  
+Rating: 4.50 (Ranked 531)  
 Number of Ratings: 285  (23.09.2022)  
 ## Awards
 Max (Highly Recommended): 32  (Ranked 437)  
-Sum: 219 (Ranked 344)  
-Diff (max vs sum): 93  
+Sum: 219 (Ranked 345)  
+Diff (max vs sum): 92  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 32 |

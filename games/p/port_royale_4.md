@@ -6,29 +6,29 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 80.00% | ~424 |
+| Cabin boy | 80.00% | ~425 |
 | My little farm | 66.00% | ~350 |
 | Every beginning is difficult | 62.00% | ~329 |
 | 3, 2, 1, mine | 56.00% | ~297 |
 | Gofer | 56.00% | ~297 |
-| Seafarer | 54.00% | ~286 |
-| O Captain! My Captain! | 54.00% | ~286 |
-| Greed for gold | 44.00% | ~233 |
+| Seafarer | 54.00% | ~287 |
+| O Captain! My Captain! | 54.00% | ~287 |
+| Greed for gold | 44.00% | ~234 |
 | Intangible | 42.00% | ~223 |
-| I'm out of here for a while | 41.00% | ~217 |
-| In a mint condition | 38.00% | ~201 |
+| I'm out of here for a while | 41.00% | ~218 |
+| In a mint condition | 38.00% | ~202 |
 | Licence to Kill | 36.00% | ~191 |
 | Pirates! | 36.00% | ~191 |
 | Megalomania | 29.00% | ~154 |
-| Collectionitis | 28.00% | ~148 |
+| Collectionitis | 28.00% | ~149 |
 | Christening | 27.00% | ~143 |
 | Groundskeeper | 26.00% | ~138 |
 | Wholesale | 23.00% | ~122 |
-| Walk the plank | 21.00% | ~111 |
+| Walk the plank | 21.00% | ~112 |
 | My precious! | 19.00% | ~101 |
-| Pearly gates | 18.00% | ~95 |
+| Pearly gates | 18.00% | ~96 |
 | Conquistador | 14.00% | ~74 |
-| Panic buying | 12.00% | ~64 |
+| Panic buying | 11.00% | ~58 |
 | Just a scratch | 10.00% | ~53 |
 | Your vessel, my vessel | 10.00% | ~53 |
 | All mine! | 9.00% | ~48 |
@@ -37,7 +37,7 @@ Number of Ratings: 53  (23.09.2022)
 | Panel of experts | 8.00% | ~42 |
 | Conglomerate | 7.00% | ~37 |
 | The Grande Bouffe | 6.00% | ~32 |
-| Buccaneer | 5.00% | ~26 |
+| Buccaneer | 5.00% | ~27 |
 | Flying Dutchman | 4.00% | ~21 |
 | A true pirate! | 4.00% | ~21 |
 | Overpopulation | 4.00% | ~21 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.80% | ~4 |
 | Davy Jones' locker | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 530 (Ranked 190)  
+Progressed: 531 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-14 | 527 | 0 |
 | 2023-05-16 | 528 | 0 |
 | 2023-05-17 | 529 | 0 |
-| 2023-05-18 | 530 | 0 |
+| 2023-05-18 | 531 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

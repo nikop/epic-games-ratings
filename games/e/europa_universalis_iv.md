@@ -6,29 +6,29 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,518 |
-| That's a Grand Army | 8.00% | ~3,127 |
-| That is mine! | 8.00% | ~3,127 |
-| Victorious! | 8.00% | ~3,127 |
-| Brothers in Arms | 6.00% | ~2,345 |
-| That's a Grand Navy | 6.00% | ~2,345 |
-| Seriously?! | 6.00% | ~2,345 |
-| For the Glory | 5.00% | ~1,954 |
-| Cold War | 4.00% | ~1,564 |
-| True Catholic | 4.00% | ~1,564 |
-| Defender of the Faith | 3.00% | ~1,173 |
-| It's all about the money | 3.00% | ~1,173 |
-| Respected | 3.00% | ~1,173 |
-| Truly Divine Ruler | 3.00% | ~1,173 |
-| Blockader | 2.00% | ~782 |
-| Combined Arms | 2.00% | ~782 |
-| Double the Love | 2.00% | ~782 |
-| Gentle Persuasion | 2.00% | ~782 |
-| It's all about luck | 2.00% | ~782 |
-| Queen of Conquest | 2.00% | ~782 |
-| Royal Authority | 2.00% | ~782 |
-| The Princess is in this Castle | 2.00% | ~782 |
-| Total Control | 2.00% | ~782 |
+| Until death do us apart | 9.00% | ~3,522 |
+| That's a Grand Army | 8.00% | ~3,130 |
+| That is mine! | 8.00% | ~3,130 |
+| Victorious! | 8.00% | ~3,130 |
+| Brothers in Arms | 6.00% | ~2,348 |
+| That's a Grand Navy | 6.00% | ~2,348 |
+| Seriously?! | 6.00% | ~2,348 |
+| For the Glory | 5.00% | ~1,956 |
+| Cold War | 4.00% | ~1,565 |
+| True Catholic | 4.00% | ~1,565 |
+| Defender of the Faith | 3.00% | ~1,174 |
+| It's all about the money | 3.00% | ~1,174 |
+| Respected | 3.00% | ~1,174 |
+| Truly Divine Ruler | 3.00% | ~1,174 |
+| Blockader | 2.00% | ~783 |
+| Combined Arms | 2.00% | ~783 |
+| Double the Love | 2.00% | ~783 |
+| Gentle Persuasion | 2.00% | ~783 |
+| It's all about luck | 2.00% | ~783 |
+| Queen of Conquest | 2.00% | ~783 |
+| Royal Authority | 2.00% | ~783 |
+| The Princess is in this Castle | 2.00% | ~783 |
+| Total Control | 2.00% | ~783 |
 | Agressive Expander | 1.00% | ~391 |
 | All That's Thine Shall Be Mine | 1.00% | ~391 |
 | Azur semé de lis or | 1.00% | ~391 |
@@ -45,22 +45,22 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Emperors new clothes | 0.70% | ~274 |
 | Time Bandit | 0.60% | ~235 |
 | Trustworthy | 0.60% | ~235 |
-| All belongs to Mother Russia | 0.50% | ~195 |
-| At every continent | 0.50% | ~195 |
-| Early-Modern Warfare | 0.50% | ~195 |
-| Electable! | 0.50% | ~195 |
-| One Family to Rule them All | 0.50% | ~195 |
-| The pen is mightier than the sword | 0.50% | ~195 |
-| Absolutely | 0.40% | ~156 |
-| Dude, Where's my Boat? | 0.40% | ~156 |
-| In the Name of the Father | 0.40% | ~156 |
-| Live Long and Prosper | 0.40% | ~156 |
-| Populists in Government | 0.40% | ~156 |
-| Ruina Imperii | 0.40% | ~156 |
-| The Continuation of Diplomacy | 0.40% | ~156 |
-| This is My Faith | 0.40% | ~156 |
-| Trophy Hunter | 0.40% | ~156 |
-| Voting Streak | 0.40% | ~156 |
+| All belongs to Mother Russia | 0.50% | ~196 |
+| At every continent | 0.50% | ~196 |
+| Early-Modern Warfare | 0.50% | ~196 |
+| Electable! | 0.50% | ~196 |
+| One Family to Rule them All | 0.50% | ~196 |
+| The pen is mightier than the sword | 0.50% | ~196 |
+| Absolutely | 0.40% | ~157 |
+| Dude, Where's my Boat? | 0.40% | ~157 |
+| In the Name of the Father | 0.40% | ~157 |
+| Live Long and Prosper | 0.40% | ~157 |
+| Populists in Government | 0.40% | ~157 |
+| Ruina Imperii | 0.40% | ~157 |
+| The Continuation of Diplomacy | 0.40% | ~157 |
+| This is My Faith | 0.40% | ~157 |
+| Trophy Hunter | 0.40% | ~157 |
+| Voting Streak | 0.40% | ~157 |
 | All Your Trade Are Belong to Us | 0.30% | ~117 |
 | Bleed Them Dry | 0.30% | ~117 |
 | Four For Trade | 0.30% | ~117 |
@@ -265,6 +265,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Silk Road | 0.10% | ~39 |
 | That's No Mon | 0.10% | ~39 |
 | The Bohemians | 0.10% | ~39 |
+| The Burgundian Conquest | 0.10% | ~39 |
 | The Coin is Stronger than the Sword | 0.10% | ~39 |
 | The Grand Armada | 0.10% | ~39 |
 | The Great Khan | 0.10% | ~39 |
@@ -343,7 +344,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Stern des Südens | 0.00% | ~0 |
 | Sun Invasion | 0.00% | ~0 |
 | Sworn Fealty | 0.00% | ~0 |
-| The Burgundian Conquest | 0.00% | ~0 |
 | The Freest Man in the World | 0.00% | ~0 |
 | The League of Mayapan | 0.00% | ~0 |
 | The Pheasant Strut | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,090 (Ranked 80)  
+Progressed: 39,130 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -389,7 +389,7 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-15 | 37,515 | 0 |
 | 2023-05-16 | 38,036 | 0 |
 | 2023-05-17 | 38,614 | 0 |
-| 2023-05-18 | 39,090 | 0 |
+| 2023-05-18 | 39,130 | 0 |
 ## Awards
 Max (Educational): 5,232  (Ranked 60)  
 Sum: 43,350 (Ranked 27)  

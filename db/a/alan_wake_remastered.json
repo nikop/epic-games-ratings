@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46225,
+  "EOS_Progressed": 46227,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1781,6 +1781,11 @@
       "Time": "2023-05-18T19:05:18.5042668+00:00",
       "NumProgressed": 46225,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-18T20:06:47.3435403+00:00",
+      "NumProgressed": 46227,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1800,7 +1805,7 @@
       "Name": "Nordic Walking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6009
+      "UsersEstimate": 6010
     },
     {
       "ID": "03",
@@ -1808,7 +1813,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6009
+      "UsersEstimate": 6010
     },
     {
       "ID": "04",
@@ -1816,7 +1821,7 @@
       "Name": "Boob Tube",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "05",
@@ -2072,7 +2077,7 @@
       "Name": "Carny",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "37",
@@ -2192,7 +2197,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "52",
@@ -2327,21 +2332,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46225,
+      "Progressed": 46227,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9693,
+      "Progressed": 9695,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-18T19:05:18.504266+00:00",
+  "LastChanged_Achievements": "2023-05-18T20:06:47.3435397+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:33.6043799+00:00",
-  "LastUpdate_Ratings": "2023-05-18T18:57:29.8422289+00:00",
-  "LastUpdate_Achievements": "2023-05-18T19:05:18.5043306+00:00"
+  "LastUpdate_Ratings": "2023-05-18T19:57:50.8907426+00:00",
+  "LastUpdate_Achievements": "2023-05-18T20:06:47.3436685+00:00"
 }

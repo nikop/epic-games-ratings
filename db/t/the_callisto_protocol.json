@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -410,10 +410,10 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 12583,
-  "EOS_Completed": 50,
-  "EOS_NewPlayers": 28,
-  "EOS_NewCompleters": 3,
+  "EOS_Progressed": 12593,
+  "EOS_Completed": 51,
+  "EOS_NewPlayers": 38,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
     {
@@ -765,6 +765,11 @@
       "Time": "2023-05-18T19:05:15.1225847+00:00",
       "NumProgressed": 12583,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-05-18T20:06:42.840691+00:00",
+      "NumProgressed": 12593,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 40,
@@ -806,9 +811,9 @@
       "ID": "DISARM_ENEMY",
       "SetID": "4hj6d86",
       "Name": "Flesh Wound",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 38
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -854,17 +859,17 @@
       "ID": "FINISH_GAME_HARDCORE",
       "SetID": "6j5ggkc",
       "Name": "Recidivist",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "FINISH_GAME_HARDCORE_PLUS",
       "SetID": "6j5ggkc",
       "Name": "Lifer",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "FINISH_NEW_GAME_PLUS",
@@ -902,9 +907,9 @@
       "ID": "KILL_MANY_WITH_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Chew \u0027Em Up",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 38
     },
     {
       "ID": "KILL_ROBOT",
@@ -1095,13 +1100,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 12583,
-      "Completed": 50
+      "Progressed": 12593,
+      "Completed": 51
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 509,
+      "Progressed": 519,
       "Completed": 29
     }
   ],
@@ -1109,8 +1114,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-16T17:57:38.030273+00:00",
-  "LastChanged_Achievements": "2023-05-18T19:05:15.1225835+00:00",
+  "LastChanged_Achievements": "2023-05-18T20:06:42.8406904+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:45.2768909+00:00",
-  "LastUpdate_Ratings": "2023-05-18T18:57:43.915979+00:00",
-  "LastUpdate_Achievements": "2023-05-18T19:05:15.1226175+00:00"
+  "LastUpdate_Ratings": "2023-05-18T19:58:12.323797+00:00",
+  "LastUpdate_Achievements": "2023-05-18T20:06:42.8407462+00:00"
 }

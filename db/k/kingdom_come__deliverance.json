@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 42,
   "Ranking_EOS_Progress": 12,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 44,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 45,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -4594,10 +4594,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 26839,
       "NumberOfAwardsMax": 7180
+    },
+    {
+      "Time": "2023-05-18T19:58:53.9758315+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 26841,
+      "NumberOfAwardsMax": 7180
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 26839,
+  "NumberOfAwards": 26841,
   "NumberOfAwardsMax": 7180,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4659,7 +4665,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 1581
+      "Count": 1583
     },
     {
       "Text": "This game is Relaxing",
@@ -4680,9 +4686,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 781653,
+  "EOS_Progressed": 781668,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 1043,
+  "EOS_NewPlayers": 1053,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7355,6 +7361,11 @@
       "Time": "2023-05-18T19:05:28.3465568+00:00",
       "NumProgressed": 781653,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-05-18T20:07:10.4344745+00:00",
+      "NumProgressed": 781668,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 82,
@@ -7390,7 +7401,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 125064
+      "UsersEstimate": 125067
     },
     {
       "ID": "Awakening",
@@ -7398,7 +7409,7 @@
       "Name": "Awakening",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 156331
+      "UsersEstimate": 156334
     },
     {
       "ID": "BadGirl",
@@ -7438,7 +7449,7 @@
       "Name": "Bastard",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 31266
+      "UsersEstimate": 31267
     },
     {
       "ID": "BlacksmithsSon",
@@ -7446,7 +7457,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 242312
+      "UsersEstimate": 242317
     },
     {
       "ID": "Bookworm",
@@ -7454,7 +7465,7 @@
       "Name": "Bookworm",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 109431
+      "UsersEstimate": 109434
     },
     {
       "ID": "Buddy",
@@ -7462,7 +7473,7 @@
       "Name": "Buddy",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 85982
+      "UsersEstimate": 85983
     },
     {
       "ID": "Casanova",
@@ -7470,7 +7481,7 @@
       "Name": "Casanova",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 46899
+      "UsersEstimate": 46900
     },
     {
       "ID": "Cavalier",
@@ -7478,7 +7489,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 195413
+      "UsersEstimate": 195417
     },
     {
       "ID": "Chivalrous",
@@ -7526,7 +7537,7 @@
       "Name": "Convict",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 78165
+      "UsersEstimate": 78167
     },
     {
       "ID": "DavidHorak",
@@ -7566,7 +7577,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 179780
+      "UsersEstimate": 179784
     },
     {
       "ID": "Fighter",
@@ -7582,7 +7593,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 117248
+      "UsersEstimate": 117250
     },
     {
       "ID": "Freud",
@@ -7646,7 +7657,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 70349
+      "UsersEstimate": 70350
     },
     {
       "ID": "HardcoreHenry",
@@ -7662,7 +7673,7 @@
       "Name": "Hunter",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 31266
+      "UsersEstimate": 31267
     },
     {
       "ID": "ICanStop",
@@ -7686,7 +7697,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 101615
+      "UsersEstimate": 101617
     },
     {
       "ID": "Judas",
@@ -7766,7 +7777,7 @@
       "Name": "McLovin",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 46899
+      "UsersEstimate": 46900
     },
     {
       "ID": "MercenarysHonor",
@@ -7838,7 +7849,7 @@
       "Name": "Plague Doctor",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 31266
+      "UsersEstimate": 31267
     },
     {
       "ID": "Ranger",
@@ -7846,7 +7857,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 156331
+      "UsersEstimate": 156334
     },
     {
       "ID": "RevenantOfLedechko",
@@ -7870,7 +7881,7 @@
       "Name": "Runt",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 54716
+      "UsersEstimate": 54717
     },
     {
       "ID": "Saviour",
@@ -7886,7 +7897,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 156331
+      "UsersEstimate": 156334
     },
     {
       "ID": "SerialKiller",
@@ -7902,7 +7913,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 85982
+      "UsersEstimate": 85983
     },
     {
       "ID": "Sniper",
@@ -7942,7 +7953,7 @@
       "Name": "Thief",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 85982
+      "UsersEstimate": 85983
     },
     {
       "ID": "TisButAScratch",
@@ -7974,7 +7985,7 @@
       "Name": "Traveller",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 78165
+      "UsersEstimate": 78167
     },
     {
       "ID": "TrialAndError",
@@ -8021,15 +8032,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 781653,
+      "Progressed": 781668,
       "Completed": 39
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-05-18T16:58:38.5667755+00:00",
-  "LastChanged_Achievements": "2023-05-18T19:05:28.3465561+00:00",
+  "LastChanged": "2023-05-18T19:58:53.9758313+00:00",
+  "LastChanged_Achievements": "2023-05-18T20:07:10.4344742+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:16.3995489+00:00",
-  "LastUpdate_Ratings": "2023-05-18T18:58:15.8293392+00:00",
-  "LastUpdate_Achievements": "2023-05-18T19:05:28.3466602+00:00"
+  "LastUpdate_Ratings": "2023-05-18T19:58:53.9758322+00:00",
+  "LastUpdate_Achievements": "2023-05-18T20:07:10.4345759+00:00"
 }

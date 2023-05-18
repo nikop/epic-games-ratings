@@ -5,21 +5,21 @@ Rating: 4.57 (Ranked 433)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 96.00% | ~555 |
-| Fetch Quest Complete | 91.00% | ~526 |
-| I can't wait! | 83.00% | ~480 |
+| Pushing a pull door | 96.00% | ~556 |
+| Fetch Quest Complete | 91.00% | ~527 |
+| I can't wait! | 83.00% | ~481 |
 | Swish | 56.00% | ~324 |
-| Clean up on Aisle 9 | 40.00% | ~231 |
+| Clean up on Aisle 9 | 40.00% | ~232 |
 | Machine Maxed | 31.00% | ~179 |
-| Bug Fixer | 25.00% | ~144 |
-| Existential dread | 25.00% | ~144 |
-| Gerald of Riviera | 25.00% | ~144 |
+| Bug Fixer | 25.00% | ~145 |
+| Existential dread | 25.00% | ~145 |
+| Gerald of Riviera | 25.00% | ~145 |
 | Goal | 22.00% | ~127 |
 | I ran the numbers | 15.00% | ~87 |
 | Taking the plunge | 13.00% | ~75 |
 | Hidden Packages | 11.00% | ~64 |
 | GOOOAAAL | 9.00% | ~52 |
-| New Kid on the Block | 7.00% | ~40 |
+| New Kid on the Block | 7.00% | ~41 |
 | Ahoy Hoy | 6.00% | ~35 |
 | Jimmy Goldman Would be Proud | 6.00% | ~35 |
 | You Spin Me Round | 6.00% | ~35 |
@@ -60,7 +60,7 @@ Rating: 4.57 (Ranked 433)
 | Another all nighter? | 0.20% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 578 (Ranked 187)  
+Progressed: 579 (Ranked 187)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-02 | 575 | 0 |
 | 2023-05-06 | 576 | 0 |
 | 2023-05-17 | 577 | 0 |
-| 2023-05-18 | 578 | 0 |
+| 2023-05-18 | 579 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

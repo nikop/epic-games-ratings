@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -852,7 +852,7 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 2897,
+  "EOS_Progressed": 2898,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
@@ -2267,6 +2267,11 @@
       "Time": "2023-05-18T19:05:42.7084913+00:00",
       "NumProgressed": 2897,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-18T20:07:29.3345649+00:00",
+      "NumProgressed": 2898,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2332,9 +2337,9 @@
       "ID": "ACH_EP_BETTERREDTHANDEAD",
       "SetID": "1p8ab95",
       "Name": "Caribbean Comrade",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 521
+      "UsersEstimate": 493
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -2382,7 +2387,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -2430,7 +2435,7 @@
       "Name": "The Governator",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -2462,7 +2467,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 21,
       "XP": 35,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -2534,7 +2539,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -2597,15 +2602,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 2897,
+      "Progressed": 2898,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-15T17:00:44.7999652+00:00",
-  "LastChanged_Achievements": "2023-05-18T19:05:42.7084904+00:00",
+  "LastChanged_Achievements": "2023-05-18T20:07:29.3345643+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:03.9005572+00:00",
-  "LastUpdate_Ratings": "2023-05-18T19:00:12.9617577+00:00",
-  "LastUpdate_Achievements": "2023-05-18T19:05:42.7085293+00:00"
+  "LastUpdate_Ratings": "2023-05-18T20:01:48.5091198+00:00",
+  "LastUpdate_Achievements": "2023-05-18T20:07:29.3346154+00:00"
 }

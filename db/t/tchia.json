@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -140,9 +140,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5766,
+  "EOS_Progressed": 5770,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1580,6 +1580,11 @@
       "Time": "2023-05-18T19:04:58.3342364+00:00",
       "NumProgressed": 5766,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-18T20:06:33.9265478+00:00",
+      "NumProgressed": 5770,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 21,
@@ -1663,7 +1668,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -1695,7 +1700,7 @@
       "Name": "In a Pinch",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1154
     },
     {
       "ID": "LIBERATOR",
@@ -1741,9 +1746,9 @@
       "ID": "THE_JOURNEY_ONWARDS",
       "SetID": "3cck1g6",
       "Name": "The Journey Onwards",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 750
+      "UsersEstimate": 692
     },
     {
       "ID": "THING",
@@ -1758,7 +1763,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5766,
+      "Progressed": 5770,
       "Completed": 22
     }
   ],
@@ -1766,8 +1771,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-16T16:57:54.2243616+00:00",
-  "LastChanged_Achievements": "2023-05-18T19:04:58.3342356+00:00",
+  "LastChanged_Achievements": "2023-05-18T20:06:33.9265471+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:53.6325406+00:00",
-  "LastUpdate_Ratings": "2023-05-18T18:57:50.9340055+00:00",
-  "LastUpdate_Achievements": "2023-05-18T19:04:58.334262+00:00"
+  "LastUpdate_Ratings": "2023-05-18T19:58:21.4192888+00:00",
+  "LastUpdate_Achievements": "2023-05-18T20:06:33.9265847+00:00"
 }

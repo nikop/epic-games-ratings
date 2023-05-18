@@ -5,16 +5,16 @@ Rating: 4.67 (Ranked 258)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~18,810 |
+| Eye Scream, You Scream | 83.00% | ~18,811 |
 | Mods Please Ban | 77.00% | ~17,451 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,224 |
-| Fallout Doesn't Let You Do This | 73.00% | ~16,544 |
-| First Bounty Down | 59.00% | ~13,371 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,225 |
+| Fallout Doesn't Let You Do This | 73.00% | ~16,545 |
+| First Bounty Down | 59.00% | ~13,372 |
 | We're All Very Impressed, Trust Me | 57.00% | ~12,918 |
-| Luglox Genocide | 43.00% | ~9,745 |
+| Luglox Genocide | 43.00% | ~9,746 |
 | Playing Card To Get | 33.00% | ~7,479 |
 | Don't Knife The Hand That Feeds | 33.00% | ~7,479 |
-| Creature Feature | 29.00% | ~6,572 |
+| Creature Feature | 29.00% | ~6,573 |
 | Satisfied Gus-tomer | 28.00% | ~6,346 |
 | Cold-Blooded Driller | 28.00% | ~6,346 |
 | G3 Graduation | 25.00% | ~5,666 |
@@ -27,7 +27,7 @@ Rating: 4.67 (Ranked 258)
 | Who's The Boss? | 20.00% | ~4,533 |
 | Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,533 |
 | Self-Actualization | 19.00% | ~4,306 |
-| Legendary Bounty Hunter | 18.00% | ~4,079 |
+| Legendary Bounty Hunter | 18.00% | ~4,080 |
 | Seeing All The Sights | 16.00% | ~3,626 |
 | Carried Stan's Load To Completion | 13.00% | ~2,946 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,720 |
@@ -38,7 +38,7 @@ Rating: 4.67 (Ranked 258)
 | Epic Legendary Prize | 1.00% | ~227 |
 | A Starfish Is Born | 1.00% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,663 (Ranked 88)  
+Progressed: 22,664 (Ranked 88)  
 Completed: 8 (0.04%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,7 +66,7 @@ Completed: 8 (0.04%) (Ranked 177)
 | 2023-05-15 | 22,653 | 8 |
 | 2023-05-16 | 22,657 | 8 |
 | 2023-05-17 | 22,659 | 8 |
-| 2023-05-18 | 22,663 | 8 |
+| 2023-05-18 | 22,664 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 134,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1180,
+  "EOS_Progressed": 1181,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -460,6 +460,11 @@
       "Time": "2023-05-18T06:06:15.0040357+00:00",
       "NumProgressed": 1180,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-18T20:06:45.7561455+00:00",
+      "NumProgressed": 1181,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -543,7 +548,7 @@
       "Name": "Passing Shadow",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -918,15 +923,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1180,
+      "Progressed": 1181,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-18T19:05:17.3103398+00:00",
+  "LastChanged_Achievements": "2023-05-18T20:06:45.7561449+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:28.1630654+00:00",
-  "LastUpdate_Ratings": "2023-05-18T19:00:39.5047961+00:00",
-  "LastUpdate_Achievements": "2023-05-18T19:05:17.3103846+00:00"
+  "LastUpdate_Ratings": "2023-05-18T20:02:29.8729369+00:00",
+  "LastUpdate_Achievements": "2023-05-18T20:06:45.7561939+00:00"
 }

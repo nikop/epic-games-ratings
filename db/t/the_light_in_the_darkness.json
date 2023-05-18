@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1308,
+  "EOS_Progressed": 1310,
   "EOS_Completed": 104,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 7.95,
+  "EOS_Completed_Percentage": 7.94,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -1258,6 +1258,11 @@
       "Time": "2023-05-18T19:05:27.110524+00:00",
       "NumProgressed": 1308,
       "NumCompleted": 104
+    },
+    {
+      "Time": "2023-05-18T20:06:58.8431814+00:00",
+      "NumProgressed": 1310,
+      "NumCompleted": 104
     }
   ],
   "TotalAchievements": 12,
@@ -1293,7 +1298,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "Jacques a Dit",
@@ -1301,7 +1306,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "Jakob",
@@ -1349,7 +1354,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "Nuremberg Laws",
@@ -1364,7 +1369,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1308,
+      "Progressed": 1310,
       "Completed": 104
     }
   ],
@@ -1372,8 +1377,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-18T19:05:27.1105232+00:00",
+  "LastChanged_Achievements": "2023-05-18T20:06:58.8431803+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:31.0168757+00:00",
-  "LastUpdate_Ratings": "2023-05-18T18:59:31.750404+00:00",
-  "LastUpdate_Achievements": "2023-05-18T19:05:27.1105405+00:00"
+  "LastUpdate_Ratings": "2023-05-18T20:00:52.9648084+00:00",
+  "LastUpdate_Achievements": "2023-05-18T20:06:58.8432095+00:00"
 }

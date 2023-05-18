@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 162,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1073,
+  "EOS_Progressed": 1074,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1803,6 +1803,11 @@
       "Time": "2023-05-18T19:05:22.68603+00:00",
       "NumProgressed": 1073,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-18T20:06:53.0169097+00:00",
+      "NumProgressed": 1074,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1998,7 +2003,7 @@
       "Name": "Fellowship Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "fourleafclover",
@@ -2300,9 +2305,9 @@
       "ID": "thegameison",
       "SetID": "3nl4bcg",
       "Name": "The game is on",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 193
     },
     {
       "ID": "thepowerofawakening",
@@ -2340,9 +2345,9 @@
       "ID": "trainingmakesaproplayer",
       "SetID": "3nl4bcg",
       "Name": "Training makes a Pro player",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "transmute",
@@ -2374,7 +2379,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "warmachinesarmy",
@@ -2406,14 +2411,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1073,
+      "Progressed": 1074,
       "Completed": 1
     }
   ],
@@ -2421,8 +2426,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-18T05:58:19.755133+00:00",
-  "LastChanged_Achievements": "2023-05-18T19:05:22.6860294+00:00",
+  "LastChanged_Achievements": "2023-05-18T20:06:53.0169091+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.9565506+00:00",
-  "LastUpdate_Ratings": "2023-05-18T18:57:52.1914668+00:00",
-  "LastUpdate_Achievements": "2023-05-18T19:05:22.6861068+00:00"
+  "LastUpdate_Ratings": "2023-05-18T19:58:23.2150382+00:00",
+  "LastUpdate_Achievements": "2023-05-18T20:06:53.0170737+00:00"
 }

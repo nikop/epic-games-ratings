@@ -2,13 +2,13 @@
   "ID": "80e804312c2149c69a75aee703e85a9a",
   "Name": "Warface",
   "ProductSlug": "warface",
-  "Ranking_Rating": 900,
+  "Ranking_Rating": 902,
   "Ranking_Popularity": 203,
   "Ranking_PopularitySum": 159,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2021-06-29T09:00:00+00:00",
     "PcReleaseDate": "2013-10-21T09:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 3.92,
+  "Rating": 3.91,
   "NumberOfRatings": 3179,
   "RatingHistory": [
     {
@@ -2701,6 +2701,12 @@
       "Rating": 3.92,
       "NumberOfAwards": 2744,
       "NumberOfAwardsMax": 390
+    },
+    {
+      "Time": "2023-05-18T20:01:10.7163026+00:00",
+      "Rating": 3.91,
+      "NumberOfAwards": 2744,
+      "NumberOfAwardsMax": 390
     }
   ],
   "ReviewsDisabled": false,
@@ -2786,8 +2792,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2023-05-18T13:59:28.3102002+00:00",
+  "LastChanged": "2023-05-18T20:01:10.7163024+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:42.804235+00:00",
-  "LastUpdate_Ratings": "2023-05-18T18:59:45.3221347+00:00",
-  "LastUpdate_Achievements": "2023-05-18T19:02:13.6974527+00:00"
+  "LastUpdate_Ratings": "2023-05-18T20:01:10.7163036+00:00",
+  "LastUpdate_Achievements": "2023-05-18T20:03:35.1874157+00:00"
 }

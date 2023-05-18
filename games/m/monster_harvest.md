@@ -13,15 +13,16 @@
 | Furniture in the Forest! | 21.00% | ~46 |
 | Let's Get Fishy! | 21.00% | ~46 |
 | Save the Slimes! | 12.00% | ~26 |
-| So long, Slime Co! | 3.00% | ~7 |
+| So long, Slime Co! | 4.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220 (Ranked 223)  
-Completed: 6 (2.73%) (Ranked 53)  
+Progressed: 220 (Ranked 224)  
+Completed: 7 (3.18%) (Ranked 43)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 219 | 6 |
 | 2023-05-16 | 220 | 6 |
+| 2023-05-18 | 220 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

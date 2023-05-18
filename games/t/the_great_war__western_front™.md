@@ -8,13 +8,13 @@
 | Das Ist Endgültig! | 20.00% | ~27 |
 | La Der des Ders | 15.00% | ~21 |
 | From the Pages of History | 7.00% | ~10 |
-| The Chemists' War | 4.00% | ~5 |
+| The Chemists' War | 5.00% | ~7 |
 | War with Friends | 1.00% | ~1 |
+| Bombs Away! | 0.70% | ~1 |
 | That's Not What Happened | 0.70% | ~1 |
 | Eventful | 0.00% | ~0 |
 | A Student of History | 0.00% | ~0 |
 | Generalissimo | 0.00% | ~0 |
-| Bombs Away! | 0.00% | ~0 |
 | Nothing Can Stop Us! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 137 (Ranked 246)  
