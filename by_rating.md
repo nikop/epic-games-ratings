@@ -200,7 +200,7 @@
 | 191 | [House Flipper](games/h/house_flipper.md) | 4.70 | 286 | 226 |
 | 191 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 50 | 388 |
 | 191 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.70 | 0 | 492 |
-| 191 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,295 | 119 |
+| 191 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,296 | 119 |
 | 191 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 0 | 492 |
 | 191 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,822 | 106 |
 | 191 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.70 | 0 | 492 |
@@ -344,7 +344,7 @@
 | 341 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 4.62 | 64,371 | 9 |
 | 341 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 4.62 | 272 | 231 |
 | 341 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.62 | 34 | 430 |
-| 341 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,233 | 121 |
+| 341 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,234 | 121 |
 | 341 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 533 | 179 |
 | 341 | [Little Inferno](games/l/little_inferno.md) | 4.62 | 0 | 492 |
 | 341 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 584 | 169 |
@@ -364,7 +364,7 @@
 | 356 | [DOOM 3](games/d/doom_3.md) | 4.61 | 65 | 372 |
 | 356 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 0 | 492 |
 | 356 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.61 | 0 | 492 |
-| 356 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 565 | 170 |
+| 356 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 566 | 170 |
 | 356 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 350 | 210 |
 | 356 | [Limbo](games/l/limbo.md) | 4.61 | 0 | 492 |
 | 356 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,088 | 128 |
@@ -606,7 +606,7 @@
 | 604 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.45 | 0 | 492 |
 | 604 | [ATOM RPG](games/a/atom_rpg.md) | 4.45 | 47 | 395 |
 | 604 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.45 | 0 | 492 |
-| 604 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 230 | 244 |
+| 604 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 232 | 244 |
 | 604 | [Faeria](games/f/faeria.md) | 4.45 | 105 | 315 |
 | 604 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 700 | 154 |
 | 604 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 0 | 492 |

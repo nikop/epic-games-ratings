@@ -104,7 +104,7 @@
 | 102 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.60% |
 | 103 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.53% |
 | 104 | [Grindstone](games/g/grindstone.md) | 0.51% |
-| 105 | [Ghostrunner](games/g/ghostrunner.md) | 0.50% |
+| 105 | [Ghostrunner](games/g/ghostrunner.md) | 0.49% |
 | 106 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
 | 107 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.47% |
 | 108 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
