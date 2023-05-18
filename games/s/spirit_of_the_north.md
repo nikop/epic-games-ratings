@@ -6,33 +6,33 @@ Number of Ratings: 1,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 67.00% | ~36,464 |
-| INFUSED WITH LIGHT | 52.00% | ~28,300 |
-| FOXIN' AROUND | 28.00% | ~15,239 |
-| FETCH | 27.00% | ~14,694 |
-| BLOOMS OF LIGHT | 26.00% | ~14,150 |
-| BEST FRIENDS | 22.00% | ~11,973 |
-| AWAKEN | 21.00% | ~11,429 |
-| ERADICATE | 20.00% | ~10,885 |
-| SPIRIT BARK | 20.00% | ~10,885 |
-| GARDEN OF LIGHT | 18.00% | ~9,796 |
-| SPIRIT FORM | 15.00% | ~8,164 |
-| WRITTEN IN STONE | 15.00% | ~8,164 |
-| UPROOTING DARKNESS | 14.00% | ~7,619 |
-| WEIGHTLESS | 11.00% | ~5,987 |
-| SPIRIT DASH | 10.00% | ~5,442 |
-| OLD COMPANION | 8.00% | ~4,354 |
-| PLAGUE DOCTOR | 8.00% | ~4,354 |
+| A GUARDIAN FORGOTTEN | 67.00% | ~36,470 |
+| INFUSED WITH LIGHT | 52.00% | ~28,305 |
+| FOXIN' AROUND | 28.00% | ~15,241 |
+| FETCH | 27.00% | ~14,697 |
+| BLOOMS OF LIGHT | 26.00% | ~14,153 |
+| BEST FRIENDS | 22.00% | ~11,975 |
+| AWAKEN | 21.00% | ~11,431 |
+| ERADICATE | 20.00% | ~10,887 |
+| SPIRIT BARK | 20.00% | ~10,887 |
+| GARDEN OF LIGHT | 18.00% | ~9,798 |
+| SPIRIT FORM | 15.00% | ~8,165 |
+| WRITTEN IN STONE | 15.00% | ~8,165 |
+| UPROOTING DARKNESS | 14.00% | ~7,621 |
+| WEIGHTLESS | 11.00% | ~5,988 |
+| SPIRIT DASH | 10.00% | ~5,443 |
+| OLD COMPANION | 8.00% | ~4,355 |
+| PLAGUE DOCTOR | 8.00% | ~4,355 |
 | MATCH MAKER | 7.00% | ~3,810 |
 | NORTHERN LIGHTS | 7.00% | ~3,810 |
 | SPIRITED AWAY | 7.00% | ~3,810 |
 | FOX? OR FLYING SQUIRREL? | 3.00% | ~1,633 |
-| ANCIENT HISTORY | 2.00% | ~1,088 |
-| NONE FORGOTTEN | 2.00% | ~1,088 |
+| ANCIENT HISTORY | 2.00% | ~1,089 |
+| NONE FORGOTTEN | 2.00% | ~1,089 |
 | KINDRED SPIRITS | 0.60% | ~327 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,424 (Ranked 73)  
-Completed: 254 (0.47%) (Ranked 107)  
+Progressed: 54,433 (Ranked 73)  
+Completed: 255 (0.47%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -59,11 +59,11 @@ Completed: 254 (0.47%) (Ranked 107)
 | 2023-05-15 | 54,154 | 252 |
 | 2023-05-16 | 54,253 | 252 |
 | 2023-05-17 | 54,374 | 254 |
-| 2023-05-18 | 54,424 | 254 |
+| 2023-05-18 | 54,433 | 255 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 465)  
-Sum: 93 (Ranked 400)  
-Diff (max vs sum): 65  
+Sum: 93 (Ranked 401)  
+Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 25 |

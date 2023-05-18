@@ -4,8 +4,8 @@
   "ProductSlug": "warface",
   "Ranking_Rating": 899,
   "Ranking_Popularity": 203,
-  "Ranking_PopularitySum": 160,
-  "Ranking_EOS_Progress": 407,
+  "Ranking_PopularitySum": 159,
+  "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 69,
@@ -2689,10 +2689,16 @@
       "Rating": 3.92,
       "NumberOfAwards": 2741,
       "NumberOfAwardsMax": 390
+    },
+    {
+      "Time": "2023-05-18T13:04:50.7280363+00:00",
+      "Rating": 3.92,
+      "NumberOfAwards": 2742,
+      "NumberOfAwardsMax": 390
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2741,
+  "NumberOfAwards": 2742,
   "NumberOfAwardsMax": 390,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2730,7 +2736,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 363
+      "Count": 364
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2774,8 +2780,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2023-05-18T06:59:05.9357022+00:00",
+  "LastChanged": "2023-05-18T13:04:50.7280361+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:42.804235+00:00",
-  "LastUpdate_Ratings": "2023-05-18T12:00:29.6139288+00:00",
-  "LastUpdate_Achievements": "2023-05-18T12:02:28.7733664+00:00"
+  "LastUpdate_Ratings": "2023-05-18T13:04:50.7280367+00:00",
+  "LastUpdate_Achievements": "2023-05-18T13:08:20.3638707+00:00"
 }

@@ -7,7 +7,7 @@
 | Forced to Kill | 66.00% | ~61 |
 | Alone with Them | 65.00% | ~60 |
 | A Night To Remember | 29.00% | ~27 |
-| Safe...For now? | 23.00% | ~21 |
+| Safe...For now? | 24.00% | ~22 |
 | Open Sesame | 16.00% | ~15 |
 | The Cultists | 10.00% | ~9 |
 | Alone In The Dark | 9.00% | ~8 |

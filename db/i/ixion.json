@@ -883,9 +883,9 @@
       "ID": "ACH_BASE_29",
       "SetID": "92iocjf",
       "Name": "A Thousand Strong",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_BASE_3",
@@ -1202,8 +1202,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-05-13T22:58:30.2604361+00:00",
-  "LastChanged_Achievements": "2023-05-18T12:06:13.1619843+00:00",
+  "LastChanged_Achievements": "2023-05-18T13:10:41.499977+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:22.4605265+00:00",
-  "LastUpdate_Ratings": "2023-05-18T11:58:48.5830703+00:00",
-  "LastUpdate_Achievements": "2023-05-18T12:06:13.1620892+00:00"
+  "LastUpdate_Ratings": "2023-05-18T13:03:37.0540717+00:00",
+  "LastUpdate_Achievements": "2023-05-18T13:10:41.5000348+00:00"
 }

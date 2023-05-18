@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 24,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 663,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 6.79,
   "EosHistory": [
@@ -1557,9 +1557,9 @@
       "ID": "43",
       "SetID": "d0g98p",
       "Name": "An Actor!",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 285
+      "UsersEstimate": 292
     },
     {
       "ID": "44",
@@ -1670,8 +1670,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-18T12:06:08.2385396+00:00",
+  "LastChanged_Achievements": "2023-05-18T13:10:37.8866406+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:24.6988678+00:00",
-  "LastUpdate_Ratings": "2023-05-18T11:57:30.5222794+00:00",
-  "LastUpdate_Achievements": "2023-05-18T12:06:08.238591+00:00"
+  "LastUpdate_Ratings": "2023-05-18T13:02:44.5129009+00:00",
+  "LastUpdate_Achievements": "2023-05-18T13:10:37.8866864+00:00"
 }

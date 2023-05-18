@@ -6,13 +6,13 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~3,777 |
-| Leader | 61.00% | ~3,292 |
+| First Step | 70.00% | ~3,778 |
+| Leader | 60.00% | ~3,238 |
 | Explorer | 53.00% | ~2,860 |
 | Healer | 53.00% | ~2,860 |
-| Aspiring Inventor | 45.00% | ~2,428 |
-| Adventurer | 41.00% | ~2,212 |
-| Famous Healer | 38.00% | ~2,050 |
+| Aspiring Inventor | 45.00% | ~2,429 |
+| Adventurer | 41.00% | ~2,213 |
+| Famous Healer | 38.00% | ~2,051 |
 | Local Leader | 35.00% | ~1,889 |
 | New Opportunities | 34.00% | ~1,835 |
 | Famous Explorer | 33.00% | ~1,781 |
@@ -25,20 +25,20 @@ Number of Ratings: 836  (23.09.2022)
 | Legendary Explorer | 27.00% | ~1,457 |
 | Finders, Keepers | 26.00% | ~1,403 |
 | Top Notch | 24.00% | ~1,295 |
+| Mentor | 23.00% | ~1,241 |
 | Great Leader | 22.00% | ~1,187 |
 | Ice Lakes | 22.00% | ~1,187 |
-| Mentor | 22.00% | ~1,187 |
 | Merchant | 21.00% | ~1,133 |
 | Real Survivor | 21.00% | ~1,133 |
 | War Never Changes | 19.00% | ~1,025 |
 | Rocket Surgeon | 19.00% | ~1,025 |
-| Friendly | 16.00% | ~863 |
-| Big Game Hunter | 16.00% | ~863 |
-| Spreading Influence | 16.00% | ~863 |
-| Around the World | 15.00% | ~809 |
-| Bookworm | 14.00% | ~755 |
-| Famous Adventurer | 13.00% | ~701 |
-| Prepared for Anything | 13.00% | ~701 |
+| Friendly | 16.00% | ~864 |
+| Big Game Hunter | 16.00% | ~864 |
+| Spreading Influence | 16.00% | ~864 |
+| Around the World | 15.00% | ~810 |
+| Bookworm | 14.00% | ~756 |
+| Famous Adventurer | 13.00% | ~702 |
+| Prepared for Anything | 13.00% | ~702 |
 | Big Catastrofan | 12.00% | ~648 |
 | It's a Finnish Thing | 10.00% | ~540 |
 | Sky Burial | 9.00% | ~486 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Finnished | 0.20% | ~11 |
 | Customized calamities | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,396 (Ranked 120)  
+Progressed: 5,397 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-15 | 5,326 | 0 |
 | 2023-05-16 | 5,356 | 0 |
 | 2023-05-17 | 5,386 | 0 |
-| 2023-05-18 | 5,396 | 0 |
+| 2023-05-18 | 5,397 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 325)  
 Sum: 652 (Ranked 269)  

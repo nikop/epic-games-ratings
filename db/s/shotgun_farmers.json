@@ -4,7 +4,7 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -255,72 +255,72 @@
       "NumCompleted": 0
     }
   ],
-  "TotalAchievements": 44,
-  "TotalAchievementsXP": 1000,
+  "TotalAchievements": 74,
+  "TotalAchievementsXP": 1150,
   "Achievements": [
     {
       "ID": "ach_all_ctf_points",
       "SetID": "cmg602e",
       "Name": "Bring Home The Bacon",
-      "Percentage": 10,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_all_points_in_chicken_run",
       "SetID": "cmg602e",
       "Name": "Chick Magnet",
-      "Percentage": 12,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_crushed_by_supply_drop",
       "SetID": "cmg602e",
       "Name": "Fresh Pancake",
-      "Percentage": 12,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_daily_challenge_15",
       "SetID": "cmg602e",
       "Name": "15 Days",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_daily_challenge_30",
       "SetID": "cmg602e",
       "Name": "30 Days",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_fifteen_thousand_points",
       "SetID": "cmg602e",
       "Name": "15K",
-      "Percentage": 38,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_first_first_blood",
       "SetID": "cmg602e",
       "Name": "First Blood",
-      "Percentage": 73,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_first_harvest",
       "SetID": "cmg602e",
       "Name": "Seeds of War",
-      "Percentage": 98,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_first_rocket_jump",
@@ -334,97 +334,97 @@
       "ID": "ach_heal_x_points_with_health_pack",
       "SetID": "cmg602e",
       "Name": "Drinking Problem",
-      "Percentage": 29,
+      "Percentage": 0,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_hit_tree_with_shovel",
       "SetID": "cmg602e",
       "Name": "Getting Started",
-      "Percentage": 13,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_honk_horn",
       "SetID": "cmg602e",
       "Name": "Honk Honk",
-      "Percentage": 8,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_horde_darkside",
       "SetID": "cmg602e",
       "Name": "Darkside Survivor",
-      "Percentage": 8,
+      "Percentage": 0,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_horde_forestside",
       "SetID": "cmg602e",
       "Name": "Forestside Survivor",
-      "Percentage": 8,
+      "Percentage": 0,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_horde_graveside",
       "SetID": "cmg602e",
       "Name": "Graveside Survivor",
-      "Percentage": 19,
+      "Percentage": 0,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_jumpOnCones",
       "SetID": "cmg602e",
       "Name": "Hardcore Parkour",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_kill_from_volcano_top",
       "SetID": "cmg602e",
       "Name": "I Have The High Ground",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_kill_while_standing_on_cow",
       "SetID": "cmg602e",
       "Name": "Cow Topper",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_kill_with_1_hp",
       "SetID": "cmg602e",
       "Name": "Skin Of Your Teeth",
-      "Percentage": 21,
+      "Percentage": 0,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_kill_with_horse_kick",
       "SetID": "cmg602e",
       "Name": "Quit Horsin\u0027 Around",
-      "Percentage": 13,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_pickup_chicken_in_x_seconds_after_match_start",
       "SetID": "cmg602e",
       "Name": "Early Bird",
-      "Percentage": 8,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_prestige_1",
@@ -438,41 +438,41 @@
       "ID": "ach_pro_double_barrel_shotgun_kills",
       "SetID": "cmg602e",
       "Name": "Pro Double Cobbler",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_pro_flamethrower",
       "SetID": "cmg602e",
       "Name": "Pro Pyromancer",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_pro_grenade_launcher_kills",
       "SetID": "cmg602e",
       "Name": "Pro Gromato",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_pro_lmg_kills",
       "SetID": "cmg602e",
       "Name": "Pro Meloneer",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_pro_m16_kills",
       "SetID": "cmg602e",
       "Name": "Pro M6Beaner",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_pro_mk2_kills",
@@ -494,121 +494,361 @@
       "ID": "ach_pro_pistol_kills",
       "SetID": "cmg602e",
       "Name": "Pro Peavolver",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_pro_rocket_kills",
       "SetID": "cmg602e",
       "Name": "Pro Carrocketeer",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_pro_shotgun_kills",
       "SetID": "cmg602e",
       "Name": "Pro Shotgunner",
-      "Percentage": 4,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_pro_shovel_kills",
       "SetID": "cmg602e",
       "Name": "Pro Digger",
-      "Percentage": 4,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_pro_sniper_kills",
       "SetID": "cmg602e",
       "Name": "Pro Sniperagus",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_ride_pig_from_base_to_your_base_without_interruption",
       "SetID": "cmg602e",
       "Name": "Pork Chop Express",
-      "Percentage": 19,
+      "Percentage": 0,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_sextaKill",
       "SetID": "cmg602e",
       "Name": "Eggtraordinary",
-      "Percentage": 19,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_sniperKillNoScope",
       "SetID": "cmg602e",
       "Name": "No Asperascope",
-      "Percentage": 60,
+      "Percentage": 0,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_steal_x_gnomes",
       "SetID": "cmg602e",
       "Name": "Gnome Thief",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_ten_thousand_points",
       "SetID": "cmg602e",
       "Name": "10K",
-      "Percentage": 38,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_tripleKill",
       "SetID": "cmg602e",
       "Name": "Triple Kill",
-      "Percentage": 71,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_win_with_no_deaths",
       "SetID": "cmg602e",
       "Name": "Unstoppable",
-      "Percentage": 2,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_x_kills_with_pumpkin",
       "SetID": "cmg602e",
       "Name": "Pum-King",
-      "Percentage": 6,
+      "Percentage": 0,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_x_victims_using_rocket_launcher",
       "SetID": "cmg602e",
       "Name": "Carrocketeer",
-      "Percentage": 10,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 0
     },
     {
       "ID": "ach_x_victims_using_shotgun",
       "SetID": "cmg602e",
       "Name": "Cornivore",
-      "Percentage": 63,
+      "Percentage": 0,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_all_koth_points",
+      "SetID": "bf10c8p",
+      "Name": "King of the Crow",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_bow_heals",
+      "SetID": "bf10c8p",
+      "Name": "Berry Loved",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_first_place",
+      "SetID": "bf10c8p",
+      "Name": "First Place",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_hit_player_with_bounce_grenade",
+      "SetID": "bf10c8p",
+      "Name": "Bouncemato",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_kill_pistol_with_pistol",
+      "SetID": "bf10c8p",
+      "Name": "Quick-Draw Pod",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_kill_self_with_pumpkin",
+      "SetID": "bf10c8p",
+      "Name": "Oh My Gourd",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_perfect",
+      "SetID": "bf10c8p",
+      "Name": "Perfect",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_prestige_2",
+      "SetID": "bf10c8p",
+      "Name": "Prestige 2 - Country Bumpkin",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_prestige_3",
+      "SetID": "bf10c8p",
+      "Name": "Prestige 3 - Planter",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_prestige_4",
+      "SetID": "bf10c8p",
+      "Name": "Prestige 4 - Rancher",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_prestige_5",
+      "SetID": "bf10c8p",
+      "Name": "Prestige 5 - Master Farmer",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_rocket_kill_from_silo",
+      "SetID": "bf10c8p",
+      "Name": "Carrocket From Above",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_snipes_from_silo",
+      "SetID": "bf10c8p",
+      "Name": "Death From Above",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_waves_1",
+      "SetID": "bf10c8p",
+      "Name": "Survivor",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_waves_10",
+      "SetID": "bf10c8p",
+      "Name": "Early Survivor",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_waves_20",
+      "SetID": "bf10c8p",
+      "Name": "Amateur Survivor",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_waves_30",
+      "SetID": "bf10c8p",
+      "Name": "Professional Survivor",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_waves_40",
+      "SetID": "bf10c8p",
+      "Name": "Expert Survivor",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_waves_50",
+      "SetID": "bf10c8p",
+      "Name": "Master Survivor",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_x_farmers_same_sniper",
+      "SetID": "bf10c8p",
+      "Name": "Aspairagus",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_x_peastol_healing_done",
+      "SetID": "bf10c8p",
+      "Name": "Heal Me Peas",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_x_victims_holding_shovel",
+      "SetID": "bf10c8p",
+      "Name": "No Diggity",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_x_victims_using_bow",
+      "SetID": "bf10c8p",
+      "Name": "Heart Breaker",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_x_victims_using_chillithrower",
+      "SetID": "bf10c8p",
+      "Name": "Pyromaniac",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_x_victims_using_double_barrel",
+      "SetID": "bf10c8p",
+      "Name": "This Is My Boomstick",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_x_victims_using_grenade_launcher",
+      "SetID": "bf10c8p",
+      "Name": "Tomassacred",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_x_victims_using_lmg",
+      "SetID": "bf10c8p",
+      "Name": "Summers Here",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_x_victims_using_pistol",
+      "SetID": "bf10c8p",
+      "Name": "Easy Peasy",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_x_victims_using_shovel",
+      "SetID": "bf10c8p",
+      "Name": "Grave Digger",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_y_farmers_same_sniper",
+      "SetID": "bf10c8p",
+      "Name": "Quadsparagus",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
     }
   ],
   "AchievementSets": [
@@ -629,8 +869,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-05-18T12:04:02.4548025+00:00",
+  "LastChanged_Achievements": "2023-05-18T13:09:20.0357343+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:14.3160105+00:00",
-  "LastUpdate_Ratings": "2023-05-18T11:58:37.6307244+00:00",
-  "LastUpdate_Achievements": "2023-05-18T12:04:02.4549036+00:00"
+  "LastUpdate_Ratings": "2023-05-18T13:03:27.6028312+00:00",
+  "LastUpdate_Achievements": "2023-05-18T13:09:20.035815+00:00"
 }

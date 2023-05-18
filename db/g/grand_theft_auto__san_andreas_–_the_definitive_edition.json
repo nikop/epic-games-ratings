@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 138,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -284,9 +284,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7658,
+  "EOS_Progressed": 7659,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1564,6 +1564,11 @@
       "Time": "2023-05-18T12:06:54.7017638+00:00",
       "NumProgressed": 7658,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-05-18T13:11:12.4837471+00:00",
+      "NumProgressed": 7659,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 35,
@@ -1575,7 +1580,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6126
+      "UsersEstimate": 6127
     },
     {
       "ID": "ACH02",
@@ -1583,7 +1588,7 @@
       "Name": "With Extra Dip",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACH03",
@@ -1591,7 +1596,7 @@
       "Name": "The End of the Line",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACH04",
@@ -1751,7 +1756,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1761
+      "UsersEstimate": 1762
     },
     {
       "ID": "ACH24",
@@ -1854,7 +1859,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 7658,
+      "Progressed": 7659,
       "Completed": 16
     }
   ],
@@ -1862,8 +1867,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-05-14T18:59:29.7023894+00:00",
-  "LastChanged_Achievements": "2023-05-18T12:06:54.7017632+00:00",
+  "LastChanged_Achievements": "2023-05-18T13:11:12.4837464+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:08.398559+00:00",
-  "LastUpdate_Ratings": "2023-05-18T12:01:05.105724+00:00",
-  "LastUpdate_Achievements": "2023-05-18T12:06:54.701821+00:00"
+  "LastUpdate_Ratings": "2023-05-18T13:05:14.3072368+00:00",
+  "LastUpdate_Achievements": "2023-05-18T13:11:12.4837798+00:00"
 }

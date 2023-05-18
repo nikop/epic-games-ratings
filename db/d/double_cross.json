@@ -2,7 +2,7 @@
   "ID": "edab9835e0424c83a7ee4a99c1e5e637",
   "Name": "Double Cross",
   "ProductSlug": "double-cross-08a736",
-  "Ranking_EOS_Progress": 407,
+  "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 69,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1960116+00:00",
   "LastChanged": "2023-03-31T05:58:36.1960117+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:40.8157652+00:00",
-  "LastUpdate_Ratings": "2023-05-18T12:00:28.247397+00:00",
-  "LastUpdate_Achievements": "2023-05-18T12:05:15.3348029+00:00"
+  "LastUpdate_Ratings": "2023-05-18T13:04:49.8517971+00:00",
+  "LastUpdate_Achievements": "2023-05-18T13:10:01.6479189+00:00"
 }

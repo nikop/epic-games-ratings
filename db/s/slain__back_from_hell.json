@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 389,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 43,
+  "Ranking_EOS_NewPlayers": 42,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -181,7 +181,7 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 21071,
+  "EOS_Progressed": 21078,
   "EOS_Completed": 16,
   "EOS_NewPlayers": 1035,
   "EOS_NewCompleters": 0,
@@ -2856,6 +2856,11 @@
       "Time": "2023-05-18T12:06:41.174948+00:00",
       "NumProgressed": 21071,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-05-18T13:11:02.1665467+00:00",
+      "NumProgressed": 21078,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 29,
@@ -2867,7 +2872,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3371
+      "UsersEstimate": 3372
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -2875,15 +2880,15 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4214
+      "UsersEstimate": 4216
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
       "SetID": "443p4o4",
       "Name": "Start As You Mean To Go On",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH_05_DEFEATED_THORN_BEAST",
@@ -2907,7 +2912,7 @@
       "Name": "Down Boy!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
@@ -2955,7 +2960,7 @@
       "Name": "Red In Tooth And Claw",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_14_DEFEATED_MOTHER_BEHOLDER",
@@ -2971,7 +2976,7 @@
       "Name": "Death Becomes Her",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_16_RETURNED_ICE_METEORS",
@@ -2979,7 +2984,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -3003,7 +3008,7 @@
       "Name": "The Sky Is Falling",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_20_MULTI_KILL",
@@ -3019,7 +3024,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -3027,7 +3032,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -3049,9 +3054,9 @@
       "ID": "ACH_25_TALISMAN_COMPLETE",
       "SetID": "443p4o4",
       "Name": "That\u0027ll Come In Handy...",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 126
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -3098,7 +3103,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 21071,
+      "Progressed": 21078,
       "Completed": 16
     }
   ],
@@ -3106,8 +3111,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-05-18T12:06:41.1749476+00:00",
+  "LastChanged_Achievements": "2023-05-18T13:11:02.166546+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:53.3049754+00:00",
-  "LastUpdate_Ratings": "2023-05-18T12:00:45.3383777+00:00",
-  "LastUpdate_Achievements": "2023-05-18T12:06:41.1749867+00:00"
+  "LastUpdate_Ratings": "2023-05-18T13:05:00.1814028+00:00",
+  "LastUpdate_Achievements": "2023-05-18T13:11:02.1665825+00:00"
 }

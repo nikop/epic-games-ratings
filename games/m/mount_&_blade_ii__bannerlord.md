@@ -6,19 +6,19 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 35.00% | ~17,556 |
-| Landlord | 29.00% | ~14,546 |
+| Lawbringer | 35.00% | ~17,557 |
+| Landlord | 30.00% | ~15,049 |
 | Lawmaker | 21.00% | ~10,534 |
-| Bannerlord | 20.00% | ~10,032 |
-| Horde breaker | 20.00% | ~10,032 |
-| Trained | 20.00% | ~10,032 |
+| Bannerlord | 20.00% | ~10,033 |
+| Horde breaker | 20.00% | ~10,033 |
+| Trained | 20.00% | ~10,033 |
 | The king is pleased | 16.00% | ~8,026 |
 | King Solomon | 15.00% | ~7,524 |
-| I can do it | 14.00% | ~7,022 |
+| I can do it | 14.00% | ~7,023 |
 | Apple of my eye | 13.00% | ~6,521 |
-| God of the Arena | 12.00% | ~6,019 |
-| Against all odds | 9.00% | ~4,514 |
-| Swordbearer | 9.00% | ~4,514 |
+| God of the Arena | 12.00% | ~6,020 |
+| Against all odds | 9.00% | ~4,515 |
+| Swordbearer | 9.00% | ~4,515 |
 | Duelist | 8.00% | ~4,013 |
 | Dynasty | 8.00% | ~4,013 |
 | I spit on your grave | 8.00% | ~4,013 |
@@ -27,9 +27,9 @@ Number of Ratings: 5,603  (23.09.2022)
 | Mastery | 6.00% | ~3,010 |
 | Know your enemy | 5.00% | ~2,508 |
 | This Is Our Land | 5.00% | ~2,508 |
-| Crush your enemies | 4.00% | ~2,006 |
-| My way | 4.00% | ~2,006 |
-| Veni vidi vici | 4.00% | ~2,006 |
+| Crush your enemies | 4.00% | ~2,007 |
+| My way | 4.00% | ~2,007 |
+| Veni vidi vici | 4.00% | ~2,007 |
 | Crowdfunded | 3.00% | ~1,505 |
 | Freedom! | 3.00% | ~1,505 |
 | Entrepreneur | 2.00% | ~1,003 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,160 (Ranked 74)  
+Progressed: 50,163 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,14 +86,14 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-15 | 49,956 | 0 |
 | 2023-05-16 | 50,039 | 0 |
 | 2023-05-17 | 50,127 | 0 |
-| 2023-05-18 | 50,160 | 0 |
+| 2023-05-18 | 50,163 | 0 |
 ## Awards
-Max (Character Customization): 6,542  (Ranked 49)  
-Sum: 13,055 (Ranked 68)  
+Max (Character Customization): 6,545  (Ranked 49)  
+Sum: 13,061 (Ranked 68)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 6,542 |
+| This game has Inclusive Character Customization | 6,545 |
 | This game is Great for Beginners | 810 |
 | This game has Diverse Characters | 800 |
 | This game is Highly Recommended | 774 |
@@ -101,7 +101,7 @@ Diff (max vs sum): -19
 | This game has Amazing Storytelling | 727 |
 | This game has Quickly Understood Controls | 723 |
 | This game is Relaxing | 715 |
-| This game has Amazing Characters | 711 |
+| This game has Amazing Characters | 714 |
 | This game has a Creative Community | 518 |
 | This game has Obsessive Gameplay | 376 |
 | This game has Competitive Players | 107 |
@@ -231,4 +231,4 @@ Diff (max vs sum): -19
 | 2023-05-15 | 4.74 | - | 6,526 | 13,023 |
 | 2023-05-16 | 4.74 | - | 6,537 | 13,043 |
 | 2023-05-17 | 4.74 | - | 6,542 | 13,053 |
-| 2023-05-18 | 4.74 | - | 6,542 | 13,055 |
+| 2023-05-18 | 4.74 | - | 6,545 | 13,061 |

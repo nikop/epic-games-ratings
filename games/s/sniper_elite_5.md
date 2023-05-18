@@ -7,6 +7,7 @@ Rating: 4.40 (Ranked 670)
 | ---- | ---------- | ----- |
 | The Long Game | 0.30% | ~2 |
 | Sink or Swim | 0.30% | ~2 |
+| No Stone Unturned | 0.10% | ~1 |
 | Opposing Force | 0.10% | ~1 |
 | Strategist | 0.10% | ~1 |
 | Gunslinger | 0.10% | ~1 |
@@ -27,7 +28,6 @@ Rating: 4.40 (Ranked 670)
 | Climbing the Ladder | 0.00% | ~0 |
 | Liberté | 0.00% | ~0 |
 | Best of the Best | 0.00% | ~0 |
-| No Stone Unturned | 0.00% | ~0 |
 | Enemy at the Gates | 0.00% | ~0 |
 | Fields of Glory | 0.00% | ~0 |
 | Just a Flesh Wound | 0.00% | ~0 |

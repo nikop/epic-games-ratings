@@ -6,24 +6,24 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 78.00% | ~2,249 |
-| Un-Lonely Island | 50.00% | ~1,442 |
-| The Beginning of a Servantship | 47.00% | ~1,355 |
-| Trade Is My Trait | 39.00% | ~1,124 |
-| Number 18 | 26.00% | ~750 |
-| We Don't Have Time For That | 21.00% | ~605 |
-| The Governator | 19.00% | ~548 |
-| Caribbean Comrade | 18.00% | ~519 |
-| The Legend of Langostino | 18.00% | ~519 |
-| The Dreamer of Dreams | 17.00% | ~490 |
+| Just One...More...Term... | 78.00% | ~2,252 |
+| Un-Lonely Island | 50.00% | ~1,444 |
+| The Beginning of a Servantship | 47.00% | ~1,357 |
+| Trade Is My Trait | 39.00% | ~1,126 |
+| Number 18 | 26.00% | ~751 |
+| We Don't Have Time For That | 21.00% | ~606 |
+| The Governator | 19.00% | ~549 |
+| Caribbean Comrade | 18.00% | ~520 |
+| The Legend of Langostino | 18.00% | ~520 |
+| The Dreamer of Dreams | 16.00% | ~462 |
 | Go Sovereigns! | 12.00% | ~346 |
 | For Science! | 12.00% | ~346 |
-| Happy Ending? | 11.00% | ~317 |
-| Of Seals And Men | 10.00% | ~288 |
-| Shackadelic | 10.00% | ~288 |
-| Double Trouble | 9.00% | ~259 |
-| Firestarter | 9.00% | ~259 |
-| Make Tropico Great Again! | 9.00% | ~259 |
+| Happy Ending? | 11.00% | ~318 |
+| Of Seals And Men | 10.00% | ~289 |
+| Shackadelic | 10.00% | ~289 |
+| Double Trouble | 9.00% | ~260 |
+| Firestarter | 9.00% | ~260 |
+| Make Tropico Great Again! | 9.00% | ~260 |
 | French Connection | 8.00% | ~231 |
 | Don't Panic! | 7.00% | ~202 |
 | I Owe You Nothing | 7.00% | ~202 |
@@ -34,10 +34,10 @@ Number of Ratings: 398  (23.09.2022)
 | Viva Tropico! | 5.00% | ~144 |
 | Apocalypso | 4.00% | ~115 |
 | The Time For Wonders | 4.00% | ~115 |
-| Been there, Done That | 3.00% | ~86 |
-| Narcissist | 3.00% | ~86 |
-| Promising Endeavors | 3.00% | ~86 |
-| Terraformer | 3.00% | ~86 |
+| Been there, Done That | 3.00% | ~87 |
+| Narcissist | 3.00% | ~87 |
+| Promising Endeavors | 3.00% | ~87 |
+| Terraformer | 3.00% | ~87 |
 | Chain Gang | 2.00% | ~58 |
 | From Knight to Little Duck | 2.00% | ~58 |
 | One Does Not Simply Stage A Coup | 2.00% | ~58 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~29 |
 | My Ways | 0.30% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,883 (Ranked 132)  
+Progressed: 2,887 (Ranked 132)  
 Completed: 1 (0.03%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 1 (0.03%) (Ranked 180)
 | 2023-05-15 | 2,854 | 1 |
 | 2023-05-16 | 2,860 | 1 |
 | 2023-05-17 | 2,875 | 1 |
-| 2023-05-18 | 2,883 | 1 |
+| 2023-05-18 | 2,887 | 1 |
 ## Awards
 Max (Great for Beginners): 104  (Ranked 317)  
 Sum: 750 (Ranked 253)  

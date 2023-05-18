@@ -2310,9 +2310,9 @@
       "Count": 1028
     }
   ],
-  "EOS_Progressed": 29043,
+  "EOS_Progressed": 29058,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 3293,
+  "EOS_NewPlayers": 3275,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4995,6 +4995,11 @@
       "Time": "2023-05-18T12:06:14.0851146+00:00",
       "NumProgressed": 29043,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-18T13:10:42.2277991+00:00",
+      "NumProgressed": 29058,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 53,
@@ -5100,9 +5105,9 @@
       "ID": "complete_first_side_hustle",
       "SetID": "3ib2d0i",
       "Name": "The Side Job",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 203
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -5116,9 +5121,9 @@
       "ID": "complete_mission_1",
       "SetID": "3ib2d0i",
       "Name": "First F#@!ing Day",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 232
+      "UsersEstimate": 262
     },
     {
       "ID": "customize_a_vehicle",
@@ -5132,9 +5137,9 @@
       "ID": "customize_a_weapon",
       "SetID": "3ib2d0i",
       "Name": "Optimized",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 232
     },
     {
       "ID": "cutting_edge_materials",
@@ -5244,9 +5249,9 @@
       "ID": "get_betrayed",
       "SetID": "3ib2d0i",
       "Name": "Et tu?",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 116
     },
     {
       "ID": "get_fired",
@@ -5356,9 +5361,9 @@
       "ID": "staggered_by_vending_machine",
       "SetID": "3ib2d0i",
       "Name": "Food for Thought",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 174
     },
     {
       "ID": "two_thirds_purple",
@@ -5429,22 +5434,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 29043,
+      "Progressed": 29058,
       "Completed": 18
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 680,
-      "Completed": 425
+      "Progressed": 695,
+      "Completed": 426
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-05-18T06:58:57.1899868+00:00",
-  "LastChanged_Achievements": "2023-05-18T12:06:14.0851141+00:00",
+  "LastChanged_Achievements": "2023-05-18T13:10:42.2277982+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:30.5487135+00:00",
-  "LastUpdate_Ratings": "2023-05-18T12:00:16.362968+00:00",
-  "LastUpdate_Achievements": "2023-05-18T12:06:14.0852198+00:00"
+  "LastUpdate_Ratings": "2023-05-18T13:04:41.3147091+00:00",
+  "LastUpdate_Achievements": "2023-05-18T13:10:42.227857+00:00"
 }

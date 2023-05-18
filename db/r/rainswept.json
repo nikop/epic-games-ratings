@@ -2,7 +2,7 @@
   "ID": "bfc967156772408a9d1251a671e2cca3",
   "Name": "RAINSWEPT",
   "ProductSlug": "rainswept-5f368a",
-  "Ranking_EOS_Progress": 407,
+  "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 69,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:45.6404164+00:00",
   "LastChanged": "2023-03-31T05:57:45.6404165+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:18.0761649+00:00",
-  "LastUpdate_Ratings": "2023-05-18T12:01:17.6601398+00:00",
-  "LastUpdate_Achievements": "2023-05-18T12:05:46.8558165+00:00"
+  "LastUpdate_Ratings": "2023-05-18T13:05:22.896333+00:00",
+  "LastUpdate_Achievements": "2023-05-18T13:10:22.9448523+00:00"
 }
