@@ -304,7 +304,7 @@
 | 292 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 4.65 | 152 | 284 |
 | 292 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.65 | 48 | 393 |
 | 292 | [Old World](games/o/old_world.md) | 4.65 | 216 | 248 |
-| 292 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 1,872 | 105 |
+| 292 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 1,873 | 105 |
 | 292 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 0 | 492 |
 | 292 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,465 | 15 |
 | 292 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.65 | 0 | 492 |
@@ -409,7 +409,7 @@
 | 399 | [RiME](games/r/rime.md) | 4.59 | 0 | 492 |
 | 399 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 74 | 355 |
 | 399 | [The Colonists](games/t/the_colonists.md) | 4.59 | 0 | 492 |
-| 399 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 3,182 | 85 |
+| 399 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 3,185 | 85 |
 | 399 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 30 | 445 |
 | 399 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 692 | 156 |
 | 399 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.59 | 322 | 216 |
@@ -566,7 +566,7 @@
 | 555 | [Maneater](games/m/maneater.md) | 4.49 | 13,452 | 24 |
 | 555 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 611 | 163 |
 | 555 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 0 | 492 |
-| 555 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 345 |
+| 555 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 346 |
 | 555 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 492 |
 | 569 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 0 | 492 |
 | 569 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.48 | 0 | 492 |
@@ -628,7 +628,7 @@
 | 623 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 492 |
 | 623 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 4.44 | 0 | 492 |
 | 623 | [Pathway](games/p/pathway.md) | 4.44 | 0 | 492 |
-| 623 | [Predecessor](games/p/predecessor.md) | 4.44 | 83 | 345 |
+| 623 | [Predecessor](games/p/predecessor.md) | 4.44 | 84 | 344 |
 | 623 | [Ranch Simulator](games/r/ranch_simulator.md) | 4.44 | 47 | 395 |
 | 623 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 0 | 492 |
 | 623 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 0 | 492 |
@@ -823,7 +823,7 @@
 | 820 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 0 | 492 |
 | 820 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 33 | 433 |
 | 820 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 0 | 492 |
-| 820 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 182,494 | 4 |
+| 820 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 182,552 | 4 |
 | 820 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 492 |
 | 820 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 26 | 460 |
 | 827 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 90 | 336 |

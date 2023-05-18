@@ -3,7 +3,7 @@
 | 1 | [Fortnite](games/f/fortnite.md) | 1,321,959 | 4.30 | 756 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 412,798 | 4.51 | 516 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 295,820 | 4.68 | 237 |
-| 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 182,494 | 4.19 | 820 |
+| 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 182,552 | 4.19 | 820 |
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 171,203 | 4.68 | 237 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 141,249 | 4.89 | 12 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 138,811 | 4.53 | 492 |
@@ -84,7 +84,7 @@
 | 82 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,281 | 4.46 | 594 |
 | 83 | [Paladins](games/p/paladins.md) | 3,231 | 4.35 | 718 |
 | 84 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,187 | 4.75 | 131 |
-| 85 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,182 | 4.59 | 399 |
+| 85 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,185 | 4.59 | 399 |
 | 86 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,071 | 4.57 | 432 |
 | 87 | [Hades](games/h/hades.md) | 3,050 | 4.92 | 3 |
 | 88 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,040 | 4.68 | 237 |
@@ -104,7 +104,7 @@
 | 102 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,107 | 4.63 | 327 |
 | 103 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 1,975 | 4.49 | 555 |
 | 104 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 1,899 | 3.98 | 887 |
-| 105 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,872 | 4.65 | 292 |
+| 105 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,873 | 4.65 | 292 |
 | 106 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,822 | 4.70 | 191 |
 | 107 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 1,799 | 4.90 | 6 |
 | 108 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,773 | 4.56 | 448 |
@@ -343,9 +343,9 @@
 | 339 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 87 | 4.37 | 702 |
 | 342 | [Cave Story+](games/c/cave_story+.md) | 85 | 4.76 | 115 |
 | 342 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 85 | 4.68 | 237 |
+| 344 | [Predecessor](games/p/predecessor.md) | 84 | 4.44 | 623 |
 | 344 | [Wolfenstein: The Old Blood](games/w/wolfenstein__the_old_blood_-_worldwide.md) | 84 | 4.60 | 381 |
-| 345 | [Predecessor](games/p/predecessor.md) | 83 | 4.44 | 623 |
-| 345 | [Solitairica](games/s/solitairica.md) | 83 | 4.49 | 555 |
+| 346 | [Solitairica](games/s/solitairica.md) | 83 | 4.49 | 555 |
 | 347 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 82 | 4.83 | 55 |
 | 348 | [This War of Mine](games/t/this_war_of_mine.md) | 79 | 4.73 | 154 |
 | 349 | [Super Meat Boy](games/s/super_meat_boy.md) | 78 | 4.70 | 191 |

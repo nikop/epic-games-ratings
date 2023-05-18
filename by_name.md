@@ -1386,7 +1386,7 @@
 | [Nadir - A Grimdark Deckbuilder](games/n/nadir_-_a_grimdark_deckbuilder.md) | - | - | 0 | - |
 | [NAIRI: Rising Tide](games/n/nairi__rising_tide.md) | - | - | 0 | - |
 | [NAIRI: Tower of Shirin](games/n/nairi__tower_of_shirin.md) | - | - | 0 | - |
-| [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 820 | 182,494 | 4 |
+| [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 820 | 182,552 | 4 |
 | [Narita Boy](games/n/narita_boy.md) | - | - | 0 | - |
 | [NASA XOSS MarsXR Editor](games/n/nasa_xoss_marsxr_editor.md) | - | - | 0 | - |
 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 683 | 11,658 | 30 |
@@ -1554,7 +1554,7 @@
 | [pici BetaTest](games/p/pici_betatest.md) | - | - | - | - |
 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 177 | 0 | 492 |
 | [Pile Up](games/p/pile_up.md) | - | - | 0 | - |
-| [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 292 | 1,872 | 105 |
+| [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 292 | 1,873 | 105 |
 | [Pinball FX](games/p/pinball_fx.md) | 4.03 | 879 | 173 | 272 |
 | [Pine](games/p/pine.md) | 4.15 | 842 | 0 | 492 |
 | [Pipe Mania](games/p/pipe_mania.md) | - | - | 0 | - |
@@ -1578,7 +1578,7 @@
 | [Pray for Death](games/p/pray_for_death.md) | - | - | - | - |
 | [Precious Stones](games/p/precious_stones.md) | - | - | - | - |
 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 604 | 851 | 143 |
-| [Predecessor](games/p/predecessor.md) | 4.44 | 623 | 83 | 345 |
+| [Predecessor](games/p/predecessor.md) | 4.44 | 623 | 84 | 344 |
 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 555 | 0 | 492 |
 | [Prehistorik](games/p/prehistorik.md) | - | - | - | - |
 | [Prehistorik 2](games/p/prehistorik_2.md) | - | - | 0 | - |
@@ -1818,8 +1818,8 @@
 | [shapez](games/s/shapez.md) | 4.71 | 177 | 156 | 282 |
 | [Shattered Steel](games/s/shattered_steel.md) | - | - | 0 | - |
 | [Shattered: Tale of the Forgotten King](games/s/shattered__tale_of_the_forgotten_king.md) | - | - | 0 | - |
-| [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
 | [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
+| [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
 | [shaveta32internal Production](games/s/shaveta32internal_production.md) | - | - | - | - |
 | [Sheepo](games/s/sheepo.md) | - | - | 0 | - |
 | [Sheltered](games/s/sheltered.md) | 4.42 | 643 | 264 | 237 |
@@ -1882,7 +1882,7 @@
 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 274 | 24 | 466 |
 | [Solargene](games/b/b5cf25c05580437a86a74319dac4f182.md) | - | - | 0 | - |
 | [Soliloquy](games/s/soliloquy.md) | - | - | - | - |
-| [Solitairica](games/s/solitairica.md) | 4.49 | 555 | 83 | 345 |
+| [Solitairica](games/s/solitairica.md) | 4.49 | 555 | 83 | 346 |
 | [SOMA](games/s/soma.md) | 4.64 | 312 | 0 | 492 |
 | [Somerville](games/s/somerville.md) | 4.20 | 809 | 0 | 492 |
 | [Song of Farca](games/s/song_of_farca.md) | - | - | 0 | - |
@@ -2275,7 +2275,7 @@
 | [The Wolf Among Us](games/t/the_wolf_among_us.md) | 4.80 | 77 | 0 | 492 |
 | [The Wolf Among Us 2](games/t/the_wolf_among_us_2.md) | - | - | - | - |
 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 869 | 0 | 492 |
-| [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 399 | 3,182 | 85 |
+| [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 399 | 3,185 | 85 |
 | [Them and Us](games/t/them_and_us.md) | - | - | 0 | - |
 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 4.63 | 327 | 0 | 492 |
 | [There Is No Light](games/t/there_is_no_light.md) | - | - | 0 | - |
@@ -2343,8 +2343,8 @@
 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.45 | 604 | 0 | 492 |
 | [Touch Type Tale](games/t/touch_type_tale.md) | - | - | 0 | - |
 | [Tour de France 2022](games/t/tour_de_france_2022.md) | - | - | - | - |
-| [Tower of Fantasy](games/t/tower_of_fantasy.md) | - | - | 0 | - |
 | [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | - | - | - | - |
+| [Tower of Fantasy](games/t/tower_of_fantasy.md) | - | - | 0 | - |
 | [Tower of Guns](games/t/tower_of_guns.md) | - | - | 0 | - |
 | [Tower Princess](games/t/tower_princess.md) | - | - | 0 | - |
 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 257 | 0 | 492 |
