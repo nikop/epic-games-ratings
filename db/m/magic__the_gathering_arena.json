@@ -2,12 +2,12 @@
   "ID": "5fdcc0dc67294af3be740f362bd976fd",
   "Name": "Magic: The Gathering Arena",
   "ProductSlug": "mtg-arena",
-  "Ranking_Rating": 603,
+  "Ranking_Rating": 604,
   "Ranking_Popularity": 33,
   "Ranking_PopularitySum": 15,
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2020-01-16T08:00:00+00:00",
@@ -5333,10 +5333,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 84044,
       "NumberOfAwardsMax": 10261
+    },
+    {
+      "Time": "2023-05-18T01:57:54.4441728+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 84047,
+      "NumberOfAwardsMax": 10261
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 84044,
+  "NumberOfAwards": 84047,
   "NumberOfAwardsMax": 10261,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -5380,7 +5386,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 7594
+      "Count": 7597
     },
     {
       "Text": "This game has Challenging Combat",
@@ -5418,8 +5424,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2023-05-17T23:57:54.114199+00:00",
+  "LastChanged": "2023-05-18T01:57:54.4441726+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:01.9226498+00:00",
-  "LastUpdate_Ratings": "2023-05-17T23:57:54.1141998+00:00",
-  "LastUpdate_Achievements": "2023-05-18T00:03:22.8097632+00:00"
+  "LastUpdate_Ratings": "2023-05-18T01:57:54.4441733+00:00",
+  "LastUpdate_Achievements": "2023-05-18T02:03:24.7888772+00:00"
 }

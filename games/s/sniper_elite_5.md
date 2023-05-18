@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.40 (Ranked 669)  
+Rating: 4.40 (Ranked 670)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,6 +9,7 @@ Rating: 4.40 (Ranked 669)
 | Opposing Force | 0.10% | ~1 |
 | Strategist | 0.10% | ~1 |
 | Gunslinger | 0.10% | ~1 |
+| The Long Game | 0.10% | ~1 |
 | Precision Is Key | 0.10% | ~1 |
 | Confirming Suspicions | 0.10% | ~1 |
 | Lord of War | 0.10% | ~1 |
@@ -35,7 +36,6 @@ Rating: 4.40 (Ranked 669)
 | Master-at-arms | 0.00% | ~0 |
 | Skirmisher | 0.00% | ~0 |
 | Sharpshooter | 0.00% | ~0 |
-| The Long Game | 0.00% | ~0 |
 | Set Europe Ablaze | 0.00% | ~0 |
 | Out of Scope | 0.00% | ~0 |
 | Rigged to Blow | 0.00% | ~0 |
@@ -77,7 +77,7 @@ Rating: 4.40 (Ranked 669)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 728 (Ranked 176)  
+Progressed: 729 (Ranked 176)  
 Completed: 2 (0.27%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,6 +104,7 @@ Completed: 2 (0.27%) (Ranked 129)
 | 2023-05-15 | 721 | 2 |
 | 2023-05-16 | 723 | 2 |
 | 2023-05-17 | 728 | 2 |
+| 2023-05-18 | 729 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

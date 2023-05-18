@@ -6,14 +6,14 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 13.00% | ~1,150 |
-| Burning City | 9.00% | ~796 |
-| A Spark | 9.00% | ~796 |
+| Devoured by Darkness | 13.00% | ~1,151 |
+| Burning City | 9.00% | ~797 |
+| A Spark | 9.00% | ~797 |
 | Mythic Choices | 8.00% | ~708 |
 | Defender's Heart | 8.00% | ~708 |
 | Banner over the Citadel | 7.00% | ~620 |
 | Queen's Gratitude | 6.00% | ~531 |
-| Fifth Crusade | 5.00% | ~442 |
+| Fifth Crusade | 5.00% | ~443 |
 | Embrace of the Abyss | 3.00% | ~266 |
 | Path of the Angel | 3.00% | ~266 |
 | Path of the Azata | 3.00% | ~266 |
@@ -35,12 +35,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Hanged Man's Notes | 2.00% | ~153 |
 | The Lady of the Forest | 2.00% | ~153 |
 | Beware Still Water | 2.00% | ~153 |
-| Path of the Aeon | 1.00% | ~88 |
-| Path of the Trickster | 1.00% | ~88 |
-| Path of the Lich | 1.00% | ~88 |
-| Heroic Victory | 1.00% | ~88 |
-| Capitulation Is Now Moot | 1.00% | ~88 |
-| Truly Important Deed | 1.00% | ~88 |
+| Path of the Aeon | 1.00% | ~89 |
+| Path of the Trickster | 1.00% | ~89 |
+| Path of the Lich | 1.00% | ~89 |
+| Heroic Victory | 1.00% | ~89 |
+| Capitulation Is Now Moot | 1.00% | ~89 |
+| Truly Important Deed | 1.00% | ~89 |
 | Stay Underground | 1.00% | ~76 |
 | Sarkoris Will Be Green | 1.00% | ~76 |
 | Path of the Demon | 0.90% | ~80 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,850 (Ranked 109)  
+Progressed: 8,851 (Ranked 109)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,6 +151,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-15 | 8,826 | 0 |
 | 2023-05-16 | 8,839 | 0 |
 | 2023-05-17 | 8,850 | 0 |
+| 2023-05-18 | 8,851 | 0 |
 ## Awards
 Max (Character Customization): 1,632  (Ranked 111)  
 Sum: 6,614 (Ranked 108)  

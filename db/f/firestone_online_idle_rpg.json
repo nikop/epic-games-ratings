@@ -2,7 +2,7 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 917,
+  "Ranking_Rating": 918,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 162,
@@ -62,9 +62,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1057,
+  "EOS_Progressed": 1058,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1747,6 +1747,11 @@
       "Time": "2023-05-17T23:06:05.1584824+00:00",
       "NumProgressed": 1057,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-18T02:05:32.3335492+00:00",
+      "NumProgressed": 1058,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1876,9 +1881,9 @@
       "ID": "dragonslayer",
       "SetID": "3nl4bcg",
       "Name": "Dragon Slayer",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 21
     },
     {
       "ID": "ebonyjungleliberator",
@@ -1892,9 +1897,9 @@
       "ID": "enchantingskill",
       "SetID": "3nl4bcg",
       "Name": "Enchanting skill",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "enchantingskillx5",
@@ -1940,9 +1945,9 @@
       "ID": "fellowshippower",
       "SetID": "3nl4bcg",
       "Name": "Fellowship Power",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 412
+      "UsersEstimate": 423
     },
     {
       "ID": "fourleafclover",
@@ -1964,9 +1969,9 @@
       "ID": "fullparty",
       "SetID": "3nl4bcg",
       "Name": "Full Party",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 138
     },
     {
       "ID": "gearenchanting",
@@ -2108,9 +2113,9 @@
       "ID": "movinguptheladder",
       "SetID": "3nl4bcg",
       "Name": "Moving Up The Ladder",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 32
     },
     {
       "ID": "mysteriousrock",
@@ -2158,7 +2163,7 @@
       "Name": "Prestigious x10",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "relicofthepast",
@@ -2228,9 +2233,9 @@
       "ID": "theexpeditioner",
       "SetID": "3nl4bcg",
       "Name": "The Expeditioner",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 32
     },
     {
       "ID": "thefatherofdragons",
@@ -2318,7 +2323,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "warmachinesarmy",
@@ -2357,7 +2362,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1057,
+      "Progressed": 1058,
       "Completed": 1
     }
   ],
@@ -2365,8 +2370,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-12T06:58:09.2308936+00:00",
-  "LastChanged_Achievements": "2023-05-18T00:05:27.768773+00:00",
+  "LastChanged_Achievements": "2023-05-18T02:05:32.3335487+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.9565506+00:00",
-  "LastUpdate_Ratings": "2023-05-17T23:57:48.4140441+00:00",
-  "LastUpdate_Achievements": "2023-05-18T00:05:27.7688576+00:00"
+  "LastUpdate_Ratings": "2023-05-18T01:57:47.3951402+00:00",
+  "LastUpdate_Achievements": "2023-05-18T02:05:32.333632+00:00"
 }

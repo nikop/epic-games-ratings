@@ -2,9 +2,9 @@
   "ID": "ac1e1228d81c433ba5b25c6c09318e0e",
   "Name": "Elypse",
   "ProductSlug": "elypse-b177a8",
-  "Ranking_EOS_Progress": 362,
+  "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -33,6 +33,11 @@
     {
       "Time": "2023-05-17T20:05:46.138958+00:00",
       "NumProgressed": 2,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-18T02:05:18.5762812+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 0
     }
   ],
@@ -83,7 +88,7 @@
       "ID": "Ach_BossSlug",
       "SetID": "4o5gjp0",
       "Name": "\u0022Swoosh\u0022",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -107,9 +112,9 @@
       "ID": "Ach_BuyHut",
       "SetID": "4o5gjp0",
       "Name": "Pigeon",
-      "Percentage": 150,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Ach_CallBeggarNothingToSell",
@@ -139,15 +144,15 @@
       "ID": "Ach_DiscoveryCatacombes",
       "SetID": "4o5gjp0",
       "Name": "A bottomless pit",
-      "Percentage": 150,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Ach_DiscoveryCaverns",
       "SetID": "4o5gjp0",
       "Name": "The light at the end of the tunnel",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -155,7 +160,7 @@
       "ID": "Ach_DiscoveryCelestialIsland",
       "SetID": "4o5gjp0",
       "Name": "Rooftop",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -179,9 +184,9 @@
       "ID": "Ach_DiscoveryTuto",
       "SetID": "4o5gjp0",
       "Name": "A path of no return",
-      "Percentage": 150,
+      "Percentage": 125,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "Ach_DiveDeath",
@@ -195,7 +200,7 @@
       "ID": "Ach_DiveKillEnnemis",
       "SetID": "4o5gjp0",
       "Name": "Magnitude 5",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -203,9 +208,9 @@
       "ID": "Ach_EnnemyDeathByEnnemy",
       "SetID": "4o5gjp0",
       "Name": "Baited",
-      "Percentage": 100,
+      "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Ach_FinalBossHand",
@@ -251,9 +256,9 @@
       "ID": "Ach_LavaDeath",
       "SetID": "4o5gjp0",
       "Name": "Splash!",
-      "Percentage": 100,
+      "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Ach_OptionalDialogRead",
@@ -299,7 +304,7 @@
       "ID": "Ach_StunGolemFly",
       "SetID": "4o5gjp0",
       "Name": "Hard Rock",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -307,7 +312,7 @@
       "ID": "Ach_TalkToLostSoul",
       "SetID": "4o5gjp0",
       "Name": "Sensitive soul",
-      "Percentage": 50,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 1
     }
@@ -316,13 +321,13 @@
     {
       "ID": "4o5gjp0",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-05-18T00:05:14.9705099+00:00",
+  "LastChanged_Achievements": "2023-05-18T02:05:18.5762805+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:52.2027329+00:00",
-  "LastUpdate_Ratings": "2023-05-17T23:57:45.9280447+00:00",
-  "LastUpdate_Achievements": "2023-05-18T00:05:14.9705321+00:00"
+  "LastUpdate_Ratings": "2023-05-18T01:57:44.4179105+00:00",
+  "LastUpdate_Achievements": "2023-05-18T02:05:18.576307+00:00"
 }

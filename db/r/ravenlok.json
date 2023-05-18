@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 661,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 6.81,
   "EosHistory": [
@@ -1368,9 +1368,9 @@
       "ID": "22",
       "SetID": "d0g98p",
       "Name": "Heartbreaker",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 212
+      "UsersEstimate": 218
     },
     {
       "ID": "23",
@@ -1384,9 +1384,9 @@
       "ID": "24",
       "SetID": "d0g98p",
       "Name": "Kidnapped!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 218
     },
     {
       "ID": "25",
@@ -1424,9 +1424,9 @@
       "ID": "29",
       "SetID": "d0g98p",
       "Name": "All That Glistens",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 238
     },
     {
       "ID": "3",
@@ -1552,9 +1552,9 @@
       "ID": "43",
       "SetID": "d0g98p",
       "Name": "An Actor!",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 291
     },
     {
       "ID": "44",
@@ -1665,8 +1665,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-18T00:05:12.8042648+00:00",
+  "LastChanged_Achievements": "2023-05-18T02:05:16.467321+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:24.6988678+00:00",
-  "LastUpdate_Ratings": "2023-05-17T23:57:12.7793357+00:00",
-  "LastUpdate_Achievements": "2023-05-18T00:05:12.804312+00:00"
+  "LastUpdate_Ratings": "2023-05-18T01:57:17.9421266+00:00",
+  "LastUpdate_Achievements": "2023-05-18T02:05:16.4673689+00:00"
 }

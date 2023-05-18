@@ -2,7 +2,7 @@
   "ID": "2e92a78949e2474aa89271b8b893f3b0",
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
-  "Ranking_Rating": 447,
+  "Ranking_Rating": 448,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 75,
@@ -506,7 +506,7 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46209,
+  "EOS_Progressed": 46210,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
@@ -1736,6 +1736,11 @@
       "Time": "2023-05-18T00:05:23.9125735+00:00",
       "NumProgressed": 46209,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-18T02:05:27.4668219+00:00",
+      "NumProgressed": 46210,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1995,7 +2000,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6931
+      "UsersEstimate": 6932
     },
     {
       "ID": "33",
@@ -2019,7 +2024,7 @@
       "Name": "Let There Be Light",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7393
+      "UsersEstimate": 7394
     },
     {
       "ID": "36",
@@ -2282,21 +2287,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46209,
+      "Progressed": 46210,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9677,
+      "Progressed": 9678,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-18T00:05:23.912573+00:00",
+  "LastChanged_Achievements": "2023-05-18T02:05:27.4668213+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:33.6043799+00:00",
-  "LastUpdate_Ratings": "2023-05-17T23:57:23.0506737+00:00",
-  "LastUpdate_Achievements": "2023-05-18T00:05:23.9126492+00:00"
+  "LastUpdate_Ratings": "2023-05-18T01:57:26.9013723+00:00",
+  "LastUpdate_Achievements": "2023-05-18T02:05:27.4669172+00:00"
 }

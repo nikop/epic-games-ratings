@@ -1,66 +1,66 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.68 (Ranked 236)  
+Rating: 4.68 (Ranked 237)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,476 |
-| That's a Grand Army | 8.00% | ~3,090 |
-| That is mine! | 8.00% | ~3,090 |
-| Victorious! | 8.00% | ~3,090 |
-| Brothers in Arms | 6.00% | ~2,317 |
-| That's a Grand Navy | 6.00% | ~2,317 |
-| Seriously?! | 6.00% | ~2,317 |
-| For the Glory | 5.00% | ~1,931 |
-| Cold War | 4.00% | ~1,545 |
-| True Catholic | 4.00% | ~1,545 |
-| Defender of the Faith | 3.00% | ~1,159 |
-| It's all about the money | 3.00% | ~1,159 |
-| Respected | 3.00% | ~1,159 |
-| Truly Divine Ruler | 3.00% | ~1,159 |
-| Blockader | 2.00% | ~772 |
-| Combined Arms | 2.00% | ~772 |
-| Double the Love | 2.00% | ~772 |
-| Gentle Persuasion | 2.00% | ~772 |
-| It's all about luck | 2.00% | ~772 |
-| Queen of Conquest | 2.00% | ~772 |
-| Royal Authority | 2.00% | ~772 |
-| The Princess is in this Castle | 2.00% | ~772 |
-| Total Control | 2.00% | ~772 |
-| Agressive Expander | 1.00% | ~386 |
-| All That's Thine Shall Be Mine | 1.00% | ~386 |
-| Azur semé de lis or | 1.00% | ~386 |
-| Bright Spark | 1.00% | ~386 |
-| City of Cities | 1.00% | ~386 |
-| Factionalism | 1.00% | ~386 |
-| A Golden Empire | 1.00% | ~386 |
-| My armies are invincible! | 1.00% | ~386 |
+| Until death do us apart | 9.00% | ~3,479 |
+| That's a Grand Army | 8.00% | ~3,092 |
+| That is mine! | 8.00% | ~3,092 |
+| Victorious! | 8.00% | ~3,092 |
+| Brothers in Arms | 6.00% | ~2,319 |
+| That's a Grand Navy | 6.00% | ~2,319 |
+| Seriously?! | 6.00% | ~2,319 |
+| For the Glory | 5.00% | ~1,933 |
+| Cold War | 4.00% | ~1,546 |
+| True Catholic | 4.00% | ~1,546 |
+| Defender of the Faith | 3.00% | ~1,160 |
+| It's all about the money | 3.00% | ~1,160 |
+| Respected | 3.00% | ~1,160 |
+| Truly Divine Ruler | 3.00% | ~1,160 |
+| Blockader | 2.00% | ~773 |
+| Combined Arms | 2.00% | ~773 |
+| Double the Love | 2.00% | ~773 |
+| Gentle Persuasion | 2.00% | ~773 |
+| It's all about luck | 2.00% | ~773 |
+| Queen of Conquest | 2.00% | ~773 |
+| Royal Authority | 2.00% | ~773 |
+| The Princess is in this Castle | 2.00% | ~773 |
+| Total Control | 2.00% | ~773 |
+| Agressive Expander | 1.00% | ~387 |
+| All That's Thine Shall Be Mine | 1.00% | ~387 |
+| Azur semé de lis or | 1.00% | ~387 |
+| Bright Spark | 1.00% | ~387 |
+| City of Cities | 1.00% | ~387 |
+| Factionalism | 1.00% | ~387 |
+| A Golden Empire | 1.00% | ~387 |
+| My armies are invincible! | 1.00% | ~387 |
 | The Five Colonies | 0.90% | ~348 |
 | Isn't this the way to India? | 0.80% | ~309 |
 | Market Control | 0.80% | ~309 |
-| Down Under | 0.70% | ~270 |
-| The Emperors new clothes | 0.70% | ~270 |
-| This navy can take it all | 0.70% | ~270 |
+| Down Under | 0.70% | ~271 |
+| The Emperors new clothes | 0.70% | ~271 |
+| This navy can take it all | 0.70% | ~271 |
 | Time Bandit | 0.60% | ~232 |
 | Trustworthy | 0.60% | ~232 |
 | All belongs to Mother Russia | 0.50% | ~193 |
 | At every continent | 0.50% | ~193 |
 | Early-Modern Warfare | 0.50% | ~193 |
 | Electable! | 0.50% | ~193 |
-| Absolutely | 0.40% | ~154 |
-| Dude, Where's my Boat? | 0.40% | ~154 |
-| In the Name of the Father | 0.40% | ~154 |
-| Live Long and Prosper | 0.40% | ~154 |
-| One Family to Rule them All | 0.40% | ~154 |
-| Populists in Government | 0.40% | ~154 |
-| Ruina Imperii | 0.40% | ~154 |
-| The Continuation of Diplomacy | 0.40% | ~154 |
-| The pen is mightier than the sword | 0.40% | ~154 |
-| This is My Faith | 0.40% | ~154 |
-| Trophy Hunter | 0.40% | ~154 |
-| Voting Streak | 0.40% | ~154 |
+| Absolutely | 0.40% | ~155 |
+| Dude, Where's my Boat? | 0.40% | ~155 |
+| In the Name of the Father | 0.40% | ~155 |
+| Live Long and Prosper | 0.40% | ~155 |
+| One Family to Rule them All | 0.40% | ~155 |
+| Populists in Government | 0.40% | ~155 |
+| Ruina Imperii | 0.40% | ~155 |
+| The Continuation of Diplomacy | 0.40% | ~155 |
+| The pen is mightier than the sword | 0.40% | ~155 |
+| This is My Faith | 0.40% | ~155 |
+| Trophy Hunter | 0.40% | ~155 |
+| Voting Streak | 0.40% | ~155 |
 | All Your Trade Are Belong to Us | 0.30% | ~116 |
 | Bleed Them Dry | 0.30% | ~116 |
 | Four For Trade | 0.30% | ~116 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,623 (Ranked 80)  
+Progressed: 38,655 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -389,7 +389,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-15 | 37,515 | 0 |
 | 2023-05-16 | 38,036 | 0 |
 | 2023-05-17 | 38,614 | 0 |
-| 2023-05-18 | 38,623 | 0 |
+| 2023-05-18 | 38,655 | 0 |
 ## Awards
 Max (Educational): 5,228  (Ranked 60)  
 Sum: 43,298 (Ranked 27)  

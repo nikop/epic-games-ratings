@@ -29,15 +29,15 @@ Number of Ratings: 1,611  (23.09.2022)
 | Recruit Detective Kuuno de Ruyter | 2.00% | ~2,370 |
 | Wheel of Pleasure and Light | 2.00% | ~2,370 |
 | Massive Torque Dork | 1.00% | ~1,185 |
-| Avowed Inframaterialist | 0.90% | ~1,066 |
-| Real Musor | 0.90% | ~1,066 |
+| Avowed Inframaterialist | 0.90% | ~1,067 |
+| Real Musor | 0.90% | ~1,067 |
 | Baddest Brow in Town | 0.80% | ~948 |
 | Committee of la Responsabilité | 0.80% | ~948 |
 | Venture into the HARDCORE | 0.80% | ~948 |
 | Networthy Individual | 0.70% | ~829 |
 | Leopard Mindset | 0.50% | ~592 |
-| Modus: Mullen | 0.30% | ~355 |
-| Palerunner | 0.30% | ~355 |
+| Modus: Mullen | 0.30% | ~356 |
+| Palerunner | 0.30% | ~356 |
 | Cause a ****storm | 0.20% | ~237 |
 | True Detective | 0.20% | ~237 |
 | The Icebreaker | 0.20% | ~237 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~118 |
 | What body? | 0.10% | ~118 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 118,499 (Ranked 56)  
+Progressed: 118,500 (Ranked 56)  
 Completed: 25 (0.02%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 25 (0.02%) (Ranked 185)
 | 2023-05-15 | 118,444 | 25 |
 | 2023-05-16 | 118,473 | 25 |
 | 2023-05-17 | 118,498 | 25 |
-| 2023-05-18 | 118,499 | 25 |
+| 2023-05-18 | 118,500 | 25 |
 ## Awards
 Max (Character Customization): 688  (Ranked 157)  
 Sum: 1,044 (Ranked 227)  

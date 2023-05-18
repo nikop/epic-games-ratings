@@ -1,24 +1,24 @@
 # Cartel Tycoon
 [Store](https://store.epicgames.com/en-US/p/cartel-tycoon)  
 [View Rawdata](../../db/c/cartel_tycoon.json)  
-Rating: 4.35 (Ranked 717)  
+Rating: 4.35 (Ranked 718)  
 Number of Ratings: 101  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Our Man | 84.00% | ~277 |
-| Take-Off | 78.00% | ~257 |
+| Our Man | 84.00% | ~278 |
+| Take-Off | 77.00% | ~255 |
 | Hokey-Pokey | 72.00% | ~238 |
-| Camellos | 58.00% | ~191 |
+| Camellos | 57.00% | ~189 |
 | Bad Trip | 46.00% | ~152 |
-| Didn't Miss A Single One | 45.00% | ~148 |
+| Didn't Miss A Single One | 45.00% | ~149 |
 | Spread | 39.00% | ~129 |
-| That was base | 38.00% | ~125 |
-| Safe Pair of Hands | 35.00% | ~115 |
+| That was base | 38.00% | ~126 |
+| Safe Pair of Hands | 35.00% | ~116 |
 | Don't Let Mom Know You're A Druglord | 29.00% | ~96 |
-| Architect of Fortunes | 25.00% | ~82 |
-| Pampered Life | 25.00% | ~82 |
-| Bite the Blow | 18.00% | ~59 |
+| Architect of Fortunes | 25.00% | ~83 |
+| Pampered Life | 25.00% | ~83 |
+| Bite the Blow | 18.00% | ~60 |
 | Spreading Fear | 9.00% | ~30 |
 | I'm Going To Call You Kitty | 8.00% | ~26 |
 | Follow the Money | 7.00% | ~23 |
@@ -26,7 +26,7 @@ Number of Ratings: 101  (23.09.2022)
 | Sense Of Style | 0.60% | ~2 |
 | Iron Lady | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 330 (Ranked 205)  
+Progressed: 331 (Ranked 205)  
 Completed: 1 (0.30%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,6 +52,7 @@ Completed: 1 (0.30%) (Ranked 126)
 | 2023-05-14 | 326 | 1 |
 | 2023-05-15 | 328 | 1 |
 | 2023-05-16 | 330 | 1 |
+| 2023-05-18 | 331 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -1,7 +1,7 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.18 (Ranked 825)  
+Rating: 4.18 (Ranked 826)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,13 +10,13 @@ Rating: 4.18 (Ranked 825)
 | Bear Trap | 0.50% | ~2 |
 | Big Spender | 0.40% | ~2 |
 | The Commonality | 0.30% | ~38 |
+| Hoard Mode | 0.30% | ~1 |
 | Giving Back | 0.20% | ~25 |
 | Recidivist | 0.20% | ~1 |
 | Lifer | 0.20% | ~1 |
 | Parole Denied | 0.20% | ~1 |
 | Float Like A Butterfly | 0.20% | ~25 |
 | Mugshot | 0.20% | ~25 |
-| Hoard Mode | 0.20% | ~1 |
 | It's over, Jacob! | 0.10% | ~13 |
 | Armed to the Teeth | 0.10% | ~0 |
 | You Need a Gun | 0.10% | ~13 |

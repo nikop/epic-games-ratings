@@ -1,26 +1,26 @@
 # Redout: Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/redout-enhanced-edition)  
 [View Rawdata](../../db/r/redout__enhanced_edition.json)  
-Rating: 4.51 (Ranked 515)  
+Rating: 4.51 (Ranked 516)  
 Number of Ratings: 274  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~91,064 |
-| NATURAL BORN WINNER | 32.00% | ~71,075 |
-| CALLING HOUSTON | 28.00% | ~62,190 |
-| SNEAKY SNEAKY | 22.00% | ~48,864 |
-| TRICK UP YOUR SLEEVE | 22.00% | ~48,864 |
-| GT9STRADALE | 20.00% | ~44,422 |
+| VANGUARD | 41.00% | ~91,066 |
+| NATURAL BORN WINNER | 32.00% | ~71,076 |
+| CALLING HOUSTON | 28.00% | ~62,192 |
+| SNEAKY SNEAKY | 22.00% | ~48,865 |
+| TRICK UP YOUR SLEEVE | 22.00% | ~48,865 |
+| GT9STRADALE | 20.00% | ~44,423 |
 | CHALLENGER | 11.00% | ~24,432 |
 | ON A ROLL | 9.00% | ~19,990 |
 | CENTAUR | 8.00% | ~17,769 |
 | FASTER THAN EVER | 8.00% | ~17,769 |
 | CHALLENGE THE WORLD | 7.00% | ~15,548 |
 | PHOTOFINISH | 7.00% | ~15,548 |
-| QAREEN | 5.00% | ~11,105 |
-| SHOWOFF | 4.00% | ~8,884 |
-| TAKATORA | 4.00% | ~8,884 |
+| QAREEN | 5.00% | ~11,106 |
+| SHOWOFF | 4.00% | ~8,885 |
+| TAKATORA | 4.00% | ~8,885 |
 | GILA | 3.00% | ~6,663 |
 | PRO | 2.00% | ~4,442 |
 | RESPWND | 2.00% | ~4,442 |
@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~444 |
 | ENLIGHTENED | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,108 (Ranked 43)  
+Progressed: 222,113 (Ranked 43)  
 Completed: 41 (0.02%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 41 (0.02%) (Ranked 185)
 | 2023-05-15 | 221,948 | 41 |
 | 2023-05-16 | 222,026 | 41 |
 | 2023-05-17 | 222,104 | 41 |
-| 2023-05-18 | 222,108 | 41 |
+| 2023-05-18 | 222,113 | 41 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

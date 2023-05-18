@@ -1,14 +1,14 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.56 (Ranked 447)  
+Rating: 4.56 (Ranked 448)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Follow the Light | 20.00% | ~9,242 |
-| Let There Be Light | 16.00% | ~7,393 |
-| Float Like a Butterfly | 15.00% | ~6,931 |
+| Let There Be Light | 16.00% | ~7,394 |
+| Float Like a Butterfly | 15.00% | ~6,932 |
 | Nordic Walking | 13.00% | ~6,007 |
 | Bright Falls' Finest | 13.00% | ~6,007 |
 | Under a Thin Layer of Skin | 11.00% | ~5,083 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,209 (Ranked 75)  
+Progressed: 46,210 (Ranked 75)  
 Completed: 44 (0.10%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 44 (0.10%) (Ranked 156)
 | 2023-05-15 | 46,186 | 44 |
 | 2023-05-16 | 46,196 | 44 |
 | 2023-05-17 | 46,208 | 44 |
-| 2023-05-18 | 46,209 | 44 |
+| 2023-05-18 | 46,210 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

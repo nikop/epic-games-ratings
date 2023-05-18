@@ -2,7 +2,7 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 554,
+  "Ranking_Rating": 555,
   "Ranking_Popularity": 245,
   "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 89,
@@ -1008,9 +1008,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 21891,
+  "EOS_Progressed": 21892,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2913,6 +2913,11 @@
       "Time": "2023-05-18T00:05:34.2706133+00:00",
       "NumProgressed": 21891,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-05-18T02:05:39.2164487+00:00",
+      "NumProgressed": 21892,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -2924,7 +2929,7 @@
       "Name": "Advancement",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 16199
+      "UsersEstimate": 16200
     },
     {
       "ID": "Animated",
@@ -2964,7 +2969,7 @@
       "Name": "Clutch Capture",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 9194
+      "UsersEstimate": 9195
     },
     {
       "ID": "Collect_Spores",
@@ -2972,7 +2977,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 11383
+      "UsersEstimate": 11384
     },
     {
       "ID": "Collector",
@@ -2988,7 +2993,7 @@
       "Name": "Cultured",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 11602
+      "UsersEstimate": 11603
     },
     {
       "ID": "Daily_Dose",
@@ -3012,7 +3017,7 @@
       "Name": "Discovery",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 13791
+      "UsersEstimate": 13792
     },
     {
       "ID": "Dont_Need_These",
@@ -3036,7 +3041,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 14229
+      "UsersEstimate": 14230
     },
     {
       "ID": "Escape_Artist",
@@ -3060,7 +3065,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 12040
+      "UsersEstimate": 12041
     },
     {
       "ID": "GB_In_Training",
@@ -3068,7 +3073,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6786
+      "UsersEstimate": 6787
     },
     {
       "ID": "Ghost_Expert",
@@ -3084,7 +3089,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 6567
+      "UsersEstimate": 6568
     },
     {
       "ID": "Legions",
@@ -3092,7 +3097,7 @@
       "Name": "Legions",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 6129
+      "UsersEstimate": 6130
     },
     {
       "ID": "Liability",
@@ -3138,9 +3143,9 @@
       "ID": "Pesky_Jerks",
       "SetID": "819popo",
       "Name": "Pesky Jerks",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 5692
+      "UsersEstimate": 5911
     },
     {
       "ID": "Reckless",
@@ -3148,7 +3153,7 @@
       "Name": "Reckless",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3940
+      "UsersEstimate": 3941
     },
     {
       "ID": "Rift_Destroyer",
@@ -3196,7 +3201,7 @@
       "Name": "Side Hustle",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 6129
+      "UsersEstimate": 6130
     },
     {
       "ID": "Skilled",
@@ -3228,7 +3233,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 18826
+      "UsersEstimate": 18827
     },
     {
       "ID": "Summoner",
@@ -3252,7 +3257,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 12259
+      "UsersEstimate": 12260
     },
     {
       "ID": "Teamwork",
@@ -3268,7 +3273,7 @@
       "Name": "Terrifying",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 3721
+      "UsersEstimate": 3722
     },
     {
       "ID": "Therapeutic",
@@ -3331,7 +3336,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 21891,
+      "Progressed": 21892,
       "Completed": 40
     }
   ],
@@ -3339,8 +3344,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-05-17T08:59:08.9312023+00:00",
-  "LastChanged_Achievements": "2023-05-18T00:05:34.2706128+00:00",
+  "LastChanged_Achievements": "2023-05-18T02:05:39.2164481+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:49.0034706+00:00",
-  "LastUpdate_Ratings": "2023-05-17T23:58:47.7336675+00:00",
-  "LastUpdate_Achievements": "2023-05-18T00:05:34.2706694+00:00"
+  "LastUpdate_Ratings": "2023-05-18T01:58:44.0571832+00:00",
+  "LastUpdate_Achievements": "2023-05-18T02:05:39.2165015+00:00"
 }

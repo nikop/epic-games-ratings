@@ -1,15 +1,15 @@
 # Marvel's Midnight Suns
 [Store](https://store.epicgames.com/en-US/p/marvels-midnight-suns)  
 [View Rawdata](../../db/m/marvel's_midnight_suns.json)  
-Rating: 4.52 (Ranked 501)  
+Rating: 4.52 (Ranked 502)  
 ## Awards
 Max (Character Customization): 1,152  (Ranked 126)  
-Sum: 2,444 (Ranked 167)  
+Sum: 2,446 (Ranked 167)  
 Diff (max vs sum): -41  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,152 |
-| This game is Highly Recommended | 162 |
+| This game is Highly Recommended | 164 |
 | This game is Great for Beginners | 157 |
 | This game has Quickly Understood Controls | 157 |
 | This game is Relaxing | 150 |
@@ -111,3 +111,4 @@ Diff (max vs sum): -41
 | 2023-05-15 | 4.52 | 1,149 | 2,433 |
 | 2023-05-16 | 4.52 | 1,151 | 2,443 |
 | 2023-05-17 | 4.52 | 1,152 | 2,444 |
+| 2023-05-18 | 4.52 | 1,152 | 2,446 |

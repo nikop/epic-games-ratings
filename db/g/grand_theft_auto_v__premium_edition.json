@@ -2,12 +2,12 @@
   "ID": "0584d2013f0149a791e7b9bad0eec102",
   "Name": "Grand Theft Auto V: Premium Edition",
   "ProductSlug": "grand-theft-auto-v",
-  "Ranking_Rating": 236,
+  "Ranking_Rating": 237,
   "Ranking_Popularity": 5,
   "Ranking_PopularitySum": 3,
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2020-05-14T15:00:00+00:00",
@@ -4892,10 +4892,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1352516,
       "NumberOfAwardsMax": 171203
+    },
+    {
+      "Time": "2023-05-18T02:00:09.5454324+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1354018,
+      "NumberOfAwardsMax": 171203
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1352516,
+  "NumberOfAwards": 1354018,
   "NumberOfAwardsMax": 171203,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4939,19 +4945,19 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 148326
+      "Count": 148834
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 140301
+      "Count": 140776
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 144250
+      "Count": 144769
     },
     {
       "Text": "This game is Great for Beginners",
@@ -4971,8 +4977,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2023-05-18T00:00:08.6467353+00:00",
+  "LastChanged": "2023-05-18T02:00:09.5454322+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:03.7039954+00:00",
-  "LastUpdate_Ratings": "2023-05-18T00:00:08.6467359+00:00",
-  "LastUpdate_Achievements": "2023-05-18T00:03:38.1148115+00:00"
+  "LastUpdate_Ratings": "2023-05-18T02:00:09.5454329+00:00",
+  "LastUpdate_Achievements": "2023-05-18T02:03:40.1305941+00:00"
 }

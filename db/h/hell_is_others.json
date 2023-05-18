@@ -2,7 +2,7 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 581,
+  "Ranking_Rating": 582,
   "Ranking_Popularity": 470,
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 39,
@@ -376,9 +376,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 248954,
+  "EOS_Progressed": 248959,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 611,
+  "EOS_NewPlayers": 614,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2916,6 +2916,11 @@
       "Time": "2023-05-17T23:06:26.421343+00:00",
       "NumProgressed": 248954,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-18T02:05:54.3957469+00:00",
+      "NumProgressed": 248959,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -2975,7 +2980,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 77176
+      "UsersEstimate": 77177
     },
     {
       "ID": "BackHomeNTimes",
@@ -3031,7 +3036,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 24895
+      "UsersEstimate": 24896
     },
     {
       "ID": "CreditLevel2",
@@ -3127,7 +3132,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14937
+      "UsersEstimate": 14938
     },
     {
       "ID": "GrowPlants2",
@@ -3215,7 +3220,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54770
+      "UsersEstimate": 54771
     },
     {
       "ID": "KillOthers2",
@@ -3319,7 +3324,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 24895
+      "UsersEstimate": 24896
     },
     {
       "ID": "ReachNDays2",
@@ -3374,7 +3379,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 248954,
+      "Progressed": 248959,
       "Completed": 1
     }
   ],
@@ -3382,8 +3387,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-05-17T19:01:14.3381764+00:00",
-  "LastChanged_Achievements": "2023-05-18T00:05:48.7622196+00:00",
+  "LastChanged_Achievements": "2023-05-18T02:05:54.3957464+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:09.6367659+00:00",
-  "LastUpdate_Ratings": "2023-05-18T00:00:15.1407166+00:00",
-  "LastUpdate_Achievements": "2023-05-18T00:05:48.7622794+00:00"
+  "LastUpdate_Ratings": "2023-05-18T02:00:16.8057492+00:00",
+  "LastUpdate_Achievements": "2023-05-18T02:05:54.3958089+00:00"
 }

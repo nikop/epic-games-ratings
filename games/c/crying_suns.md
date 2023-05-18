@@ -1,25 +1,25 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.50 (Ranked 530)  
+Rating: 4.50 (Ranked 531)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~302,458 |
+| The Shutdown | 66.00% | ~302,459 |
 | Jeef Skeejj | 44.00% | ~201,639 |
-| Careful planning | 39.00% | ~178,725 |
+| Careful planning | 39.00% | ~178,726 |
 | Second Coming | 33.00% | ~151,229 |
 | Jeef Skagg | 30.00% | ~137,481 |
 | Mother | 25.00% | ~114,568 |
 | In space, no one can hear you scream | 23.00% | ~105,402 |
-| Chapter I: Echoes | 22.00% | ~100,819 |
-| Excelsior Rule | 22.00% | ~100,819 |
+| Chapter I: Echoes | 22.00% | ~100,820 |
+| Excelsior Rule | 22.00% | ~100,820 |
 | Things persisted in not being what they seemed | 20.00% | ~91,654 |
-| Knightmare Frames | 15.00% | ~68,740 |
-| May His passing cleanse the world | 15.00% | ~68,740 |
-| Chapter II: Fallible Flesh | 15.00% | ~68,740 |
-| Pope Zenon | 15.00% | ~68,740 |
+| Knightmare Frames | 15.00% | ~68,741 |
+| May His passing cleanse the world | 15.00% | ~68,741 |
+| Chapter II: Fallible Flesh | 15.00% | ~68,741 |
+| Pope Zenon | 15.00% | ~68,741 |
 | Tetsuo | 11.00% | ~50,410 |
 | Plan for the worst | 11.00% | ~50,410 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~45,827 |
@@ -72,7 +72,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Kaos Supremacy | 0.10% | ~458 |
 | Excelsior Supremacy | 0.10% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458,270 (Ranked 28)  
+Progressed: 458,271 (Ranked 28)  
 Completed: 14 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 14 (0.00%) (Ranked 199)
 | 2023-05-15 | 458,099 | 14 |
 | 2023-05-16 | 458,171 | 14 |
 | 2023-05-17 | 458,267 | 14 |
-| 2023-05-18 | 458,270 | 14 |
+| 2023-05-18 | 458,271 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 253)  
 Sum: 209 (Ranked 349)  

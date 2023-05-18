@@ -2,7 +2,7 @@
   "ID": "0a4fc789eb0143c29296de79df5387ab",
   "Name": "Crying Suns",
   "ProductSlug": "crying-suns",
-  "Ranking_Rating": 530,
+  "Ranking_Rating": 531,
   "Ranking_Popularity": 253,
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 28,
@@ -538,9 +538,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 458270,
+  "EOS_Progressed": 458271,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 574,
+  "EOS_NewPlayers": 572,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2963,6 +2963,11 @@
       "Time": "2023-05-18T00:05:38.5493495+00:00",
       "NumProgressed": 458270,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-18T02:05:43.858912+00:00",
+      "NumProgressed": 458271,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 65,
@@ -2974,7 +2979,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 68740
+      "UsersEstimate": 68741
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -2982,7 +2987,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 68740
+      "UsersEstimate": 68741
     },
     {
       "ID": "achievement_first_death",
@@ -2998,7 +3003,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 100819
+      "UsersEstimate": 100820
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -3006,7 +3011,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 68740
+      "UsersEstimate": 68741
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -3062,7 +3067,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 302458
+      "UsersEstimate": 302459
     },
     {
       "ID": "achievement_story_landa",
@@ -3142,7 +3147,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 68740
+      "UsersEstimate": 68741
     },
     {
       "ID": "achievement_story_neon_child",
@@ -3430,7 +3435,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 178725
+      "UsersEstimate": 178726
     },
     {
       "ID": "achievement_win_run_hard",
@@ -3486,28 +3491,28 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 100819
+      "UsersEstimate": 100820
     }
   ],
   "AchievementSets": [
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 2204,
-      "Completed": 2204
+      "Progressed": 2205,
+      "Completed": 2205
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 458270,
+      "Progressed": 458271,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-18T00:05:38.5493448+00:00",
+  "LastChanged_Achievements": "2023-05-18T02:05:43.8589113+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:09.480967+00:00",
-  "LastUpdate_Ratings": "2023-05-17T23:59:10.294073+00:00",
-  "LastUpdate_Achievements": "2023-05-18T00:05:38.5494278+00:00"
+  "LastUpdate_Ratings": "2023-05-18T01:59:07.8296058+00:00",
+  "LastUpdate_Achievements": "2023-05-18T02:05:43.8589872+00:00"
 }

@@ -1,23 +1,23 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 3.64 (Ranked 917)  
+Rating: 3.64 (Ranked 918)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~994 |
+| Victor | 94.00% | ~995 |
 | World Map | 80.00% | ~846 |
 | Temple of Eternals | 56.00% | ~592 |
 | Prestigious | 52.00% | ~550 |
-| Fellowship Power | 39.00% | ~412 |
+| Fellowship Power | 40.00% | ~423 |
 | Guild Power | 24.00% | ~254 |
-| Prestigious x10 | 20.00% | ~211 |
+| Prestigious x10 | 20.00% | ~212 |
 | The game is on | 17.00% | ~180 |
 | Dragon Clicker | 15.00% | ~159 |
 | Exotic Merchant | 15.00% | ~159 |
 | Inspection | 14.00% | ~148 |
 | Miner Clicker | 14.00% | ~148 |
-| Full Party | 12.00% | ~127 |
+| Full Party | 13.00% | ~138 |
 | Hero inspection | 12.00% | ~127 |
 | Lieutenant | 11.00% | ~116 |
 | Dragon Master | 10.00% | ~106 |
@@ -33,22 +33,22 @@ Rating: 3.64 (Ranked 917)
 | Frostfire Liberator | 4.00% | ~42 |
 | Hunter | 4.00% | ~42 |
 | Mastery | 4.00% | ~42 |
-| Moving Up The Ladder | 4.00% | ~42 |
 | Scroll Master | 4.00% | ~42 |
-| The Expeditioner | 4.00% | ~42 |
 | The power of Awakening | 4.00% | ~42 |
 | Ancient Knowledge | 3.00% | ~32 |
 | Background Story | 3.00% | ~32 |
 | Here We Go Again | 3.00% | ~32 |
 | How Do You Turn This On? | 3.00% | ~32 |
 | Missions Dedication | 3.00% | ~32 |
+| Moving Up The Ladder | 3.00% | ~32 |
+| The Expeditioner | 3.00% | ~32 |
 | Doing My Part | 2.00% | ~21 |
+| Dragon Slayer | 2.00% | ~21 |
 | Master Enchanter | 2.00% | ~21 |
 | The father of Dragons | 2.00% | ~21 |
 | Trader | 2.00% | ~21 |
 | Weekly Quest Completionist | 2.00% | ~21 |
 | What lies behind the bush | 2.00% | ~21 |
-| Dragon Slayer | 1.00% | ~11 |
 | Engineer Mastery | 1.00% | ~11 |
 | Lock And Load | 1.00% | ~11 |
 | Relic Of The Past | 1.00% | ~11 |
@@ -57,11 +57,11 @@ Rating: 3.64 (Ranked 917)
 | Crystal Mining | 0.90% | ~10 |
 | Four Leaf Clover | 0.90% | ~10 |
 | Sailor | 0.80% | ~8 |
+| Enchanting skill | 0.70% | ~7 |
 | Legendary | 0.70% | ~7 |
 | Transmute | 0.70% | ~7 |
 | Tree of Life | 0.70% | ~7 |
 | Ebony Jungle Liberator | 0.60% | ~6 |
-| Enchanting skill | 0.60% | ~6 |
 | The Alchemist | 0.60% | ~6 |
 | Training makes a Pro player | 0.50% | ~5 |
 | Gear Enchanting | 0.40% | ~4 |
@@ -81,7 +81,7 @@ Rating: 3.64 (Ranked 917)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,057 (Ranked 162)  
+Progressed: 1,058 (Ranked 162)  
 Completed: 1 (0.09%) (Ranked 161)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,6 +109,7 @@ Completed: 1 (0.09%) (Ranked 161)
 | 2023-05-15 | 1,032 | 1 |
 | 2023-05-16 | 1,047 | 1 |
 | 2023-05-17 | 1,057 | 1 |
+| 2023-05-18 | 1,058 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "abda8262a7884126a637518b1b44a0f8",
   "Name": "Tortuga - A Pirate\u0027s Tale",
   "ProductSlug": "tortuga-a-pirates-tale-e02635",
-  "Ranking_Rating": 906,
+  "Ranking_Rating": 907,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 97,
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15294,
+  "EOS_Progressed": 15295,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -817,6 +817,11 @@
       "Time": "2023-05-17T23:06:22.5522186+00:00",
       "NumProgressed": 15294,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-18T02:05:50.3612662+00:00",
+      "NumProgressed": 15295,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -828,7 +833,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 14529
+      "UsersEstimate": 14530
     },
     {
       "ID": "ACH001",
@@ -836,7 +841,7 @@
       "Name": "Personal Matter",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 13306
+      "UsersEstimate": 13307
     },
     {
       "ID": "ACH0010",
@@ -860,7 +865,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 7035
+      "UsersEstimate": 7036
     },
     {
       "ID": "ACH0013",
@@ -876,7 +881,7 @@
       "Name": "Sharing Is Caring",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "ACH0015",
@@ -988,7 +993,7 @@
       "Name": "No Half Measures",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 13459
+      "UsersEstimate": 13460
     },
     {
       "ID": "ACH005",
@@ -1035,7 +1040,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 15294,
+      "Progressed": 15295,
       "Completed": 0
     }
   ],
@@ -1043,8 +1048,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-05-09T21:01:06.0893897+00:00",
-  "LastChanged_Achievements": "2023-05-18T00:05:44.8923139+00:00",
+  "LastChanged_Achievements": "2023-05-18T02:05:50.3612657+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:08.4506507+00:00",
-  "LastUpdate_Ratings": "2023-05-18T00:00:14.276594+00:00",
-  "LastUpdate_Achievements": "2023-05-18T00:05:44.8923344+00:00"
+  "LastUpdate_Ratings": "2023-05-18T02:00:15.8366824+00:00",
+  "LastUpdate_Achievements": "2023-05-18T02:05:50.3612858+00:00"
 }

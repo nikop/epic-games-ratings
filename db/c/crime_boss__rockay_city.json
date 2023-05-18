@@ -2,12 +2,12 @@
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
-  "Ranking_Rating": 895,
+  "Ranking_Rating": 896,
   "Ranking_Popularity": 231,
   "Ranking_PopularitySum": 219,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewPlayers": 58,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -1512,9 +1512,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 60395,
+  "EOS_Progressed": 60396,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 740,
+  "EOS_NewPlayers": 736,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4102,6 +4102,11 @@
       "Time": "2023-05-18T00:05:44.1339109+00:00",
       "NumProgressed": 60395,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-18T02:05:49.5542065+00:00",
+      "NumProgressed": 60396,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 37,
@@ -4265,7 +4270,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 44088
+      "UsersEstimate": 44089
     },
     {
       "ID": "ACH_0211",
@@ -4329,7 +4334,7 @@
       "Name": "Case Closed",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 20534
+      "UsersEstimate": 20535
     },
     {
       "ID": "ACH_0420",
@@ -4337,7 +4342,7 @@
       "Name": "King of the Hill",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 19930
+      "UsersEstimate": 19931
     },
     {
       "ID": "ACH_0430",
@@ -4345,7 +4350,7 @@
       "Name": "Fancy Pants",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 21138
+      "UsersEstimate": 21139
     },
     {
       "ID": "ACH_0431",
@@ -4401,14 +4406,14 @@
       "Name": "Rockay Rex",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 6643
+      "UsersEstimate": 6644
     }
   ],
   "AchievementSets": [
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 60395,
+      "Progressed": 60396,
       "Completed": 30
     }
   ],
@@ -4416,8 +4421,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-05-17T23:00:48.9240471+00:00",
-  "LastChanged_Achievements": "2023-05-18T00:05:44.1339103+00:00",
+  "LastChanged_Achievements": "2023-05-18T02:05:49.554206+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:52.257999+00:00",
-  "LastUpdate_Ratings": "2023-05-17T23:59:56.919454+00:00",
-  "LastUpdate_Achievements": "2023-05-18T00:05:44.133949+00:00"
+  "LastUpdate_Ratings": "2023-05-18T01:59:57.0496128+00:00",
+  "LastUpdate_Achievements": "2023-05-18T02:05:49.5542509+00:00"
 }

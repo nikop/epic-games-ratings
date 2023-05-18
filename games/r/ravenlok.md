@@ -16,7 +16,7 @@
 | Awakened Spirits | 49.00% | ~324 |
 | Little Shop | 48.00% | ~317 |
 | Surprise! | 44.00% | ~291 |
-| An Actor! | 43.00% | ~284 |
+| An Actor! | 44.00% | ~291 |
 | Curtain Call | 42.00% | ~278 |
 | Piece of Cake | 40.00% | ~264 |
 | Gooey Delight! | 39.00% | ~258 |
@@ -28,16 +28,16 @@
 | The Guardian | 38.00% | ~251 |
 | Ancient Wisdom | 36.00% | ~238 |
 | Frog Facts! | 36.00% | ~238 |
+| All That Glistens | 36.00% | ~238 |
 | Stronger! | 36.00% | ~238 |
-| All That Glistens | 35.00% | ~231 |
 | It's Pointy! | 35.00% | ~231 |
 | Spellbound | 34.00% | ~225 |
 | All Skilled Up! | 34.00% | ~225 |
 | Extinct Again! | 33.00% | ~218 |
 | Bird of Prey | 33.00% | ~218 |
 | Stardust | 33.00% | ~218 |
-| Heartbreaker | 32.00% | ~212 |
-| Kidnapped! | 32.00% | ~212 |
+| Heartbreaker | 33.00% | ~218 |
+| Kidnapped! | 33.00% | ~218 |
 | Pull the Plug | 31.00% | ~205 |
 | All Heart | 31.00% | ~205 |
 | Trick Question! | 31.00% | ~205 |

@@ -2,9 +2,9 @@
   "ID": "7d9cb4fa8c4b488d86c7e9dec37318d5",
   "Name": "Suicide Guy",
   "ProductSlug": "suicide-guy-9f7963",
-  "Ranking_EOS_Progress": 362,
+  "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-06-14T00:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34,6 +34,11 @@
       "Time": "2023-05-17T12:01:12.0193838+00:00",
       "NumProgressed": 2,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-18T02:00:38.6141759+00:00",
+      "NumProgressed": 3,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 10,
@@ -43,7 +48,7 @@
       "ID": "Donut",
       "SetID": "1fffk9d",
       "Name": "Was it good?",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -59,7 +64,7 @@
       "ID": "First Statue Collector",
       "SetID": "1fffk9d",
       "Name": "1 Suicide Guy statue",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -107,7 +112,7 @@
       "ID": "Suicide Guy",
       "SetID": "1fffk9d",
       "Name": "Firest level completed!",
-      "Percentage": 50,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -124,13 +129,13 @@
     {
       "ID": "1fffk9d",
       "IsBase": true,
-      "Progressed": 2,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-16T16:00:57.0168149+00:00",
-  "LastChanged_Achievements": "2023-05-17T23:02:27.0682444+00:00",
+  "LastChanged_Achievements": "2023-05-18T02:00:38.6141525+00:00",
   "LastUpdate_AppInfo": "2023-05-16T15:57:01.6487121+00:00",
-  "LastUpdate_Ratings": "2023-05-17T23:56:46.4745261+00:00",
-  "LastUpdate_Achievements": "2023-05-17T23:02:27.0682549+00:00"
+  "LastUpdate_Ratings": "2023-05-18T01:56:49.2786718+00:00",
+  "LastUpdate_Achievements": "2023-05-18T02:00:38.6163748+00:00"
 }

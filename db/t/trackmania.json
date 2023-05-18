@@ -2,12 +2,12 @@
   "ID": "b04882669b2e495e9f747c8560488c93",
   "Name": "Trackmania",
   "ProductSlug": "trackmania",
-  "Ranking_Rating": 257,
+  "Ranking_Rating": 258,
   "Ranking_Popularity": 90,
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2020-07-01T15:00:00+00:00",
@@ -5073,10 +5073,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 22363,
       "NumberOfAwardsMax": 2609
+    },
+    {
+      "Time": "2023-05-18T01:58:04.0565357+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 22367,
+      "NumberOfAwardsMax": 2609
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 22363,
+  "NumberOfAwards": 22367,
   "NumberOfAwardsMax": 2609,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -5102,7 +5108,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2219
+      "Count": 2223
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5164,8 +5170,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-05-17T21:58:35.9415881+00:00",
+  "LastChanged": "2023-05-18T01:58:04.0565356+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:09.9595292+00:00",
-  "LastUpdate_Ratings": "2023-05-17T23:58:06.9752138+00:00",
-  "LastUpdate_Achievements": "2023-05-18T00:01:04.2385765+00:00"
+  "LastUpdate_Ratings": "2023-05-18T01:58:04.0565363+00:00",
+  "LastUpdate_Achievements": "2023-05-18T02:01:05.4269286+00:00"
 }

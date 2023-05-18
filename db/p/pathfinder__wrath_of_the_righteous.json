@@ -2396,7 +2396,7 @@
       "Count": 368
     }
   ],
-  "EOS_Progressed": 8850,
+  "EOS_Progressed": 8851,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
@@ -3651,6 +3651,11 @@
       "Time": "2023-05-17T21:07:06.6556947+00:00",
       "NumProgressed": 8850,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-18T02:05:48.1081291+00:00",
+      "NumProgressed": 8851,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3662,7 +3667,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1151
     },
     {
       "ID": "02_BurningCity",
@@ -3670,7 +3675,7 @@
       "Name": "Burning City",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -3686,7 +3691,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -3742,7 +3747,7 @@
       "Name": "Path of the Aeon",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "12_PathOfTrickster",
@@ -3750,7 +3755,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "13_PathOfLich",
@@ -3758,7 +3763,7 @@
       "Name": "Path of the Lich",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "14_PathOfSwarm",
@@ -3886,7 +3891,7 @@
       "Name": "Heroic Victory",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "31_DivideAndRule",
@@ -3918,7 +3923,7 @@
       "Name": "Capitulation Is Now Moot",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "35_AbyssalConspiracy",
@@ -4030,7 +4035,7 @@
       "Name": "A Spark",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "49_Flame",
@@ -4062,7 +4067,7 @@
       "Name": "Truly Important Deed",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "53_TrulyProfaneGift",
@@ -4589,21 +4594,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7632,
+      "Progressed": 7633,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8850,
+      "Progressed": 8851,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-16T13:06:55.6989034+00:00",
-  "LastChanged_Achievements": "2023-05-18T00:05:42.616911+00:00",
+  "LastChanged_Achievements": "2023-05-18T02:05:48.1081286+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:14.2729853+00:00",
-  "LastUpdate_Ratings": "2023-05-17T23:58:09.8467967+00:00",
-  "LastUpdate_Achievements": "2023-05-18T00:05:42.6170897+00:00"
+  "LastUpdate_Ratings": "2023-05-18T01:58:07.2669451+00:00",
+  "LastUpdate_Achievements": "2023-05-18T02:05:48.108293+00:00"
 }

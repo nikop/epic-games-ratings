@@ -6,34 +6,34 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 78.00% | ~3,923 |
-| Sword Runner | 63.00% | ~3,169 |
-| Wallrunner | 58.00% | ~2,917 |
-| Running out of breath | 57.00% | ~2,867 |
-| Homerunner | 48.00% | ~2,414 |
-| I call it luck | 47.00% | ~2,364 |
-| Out of order | 47.00% | ~2,364 |
-| Where are my Keys? | 45.00% | ~2,264 |
-| Back to hell | 39.00% | ~1,962 |
-| Perfection | 35.00% | ~1,760 |
-| Sword to a gunfight | 32.00% | ~1,610 |
-| Why not both | 32.00% | ~1,610 |
-| Upgrades not mandatory | 31.00% | ~1,559 |
-| Artificial selection | 30.00% | ~1,509 |
-| Control freak | 30.00% | ~1,509 |
-| Running Wild | 30.00% | ~1,509 |
-| Finish line | 28.00% | ~1,408 |
+| Longrunner | 78.00% | ~3,926 |
+| Sword Runner | 63.00% | ~3,171 |
+| Wallrunner | 58.00% | ~2,919 |
+| Running out of breath | 57.00% | ~2,869 |
+| Homerunner | 48.00% | ~2,416 |
+| I call it luck | 47.00% | ~2,366 |
+| Out of order | 47.00% | ~2,366 |
+| Where are my Keys? | 45.00% | ~2,265 |
+| Back to hell | 39.00% | ~1,963 |
+| Perfection | 35.00% | ~1,762 |
+| Sword to a gunfight | 32.00% | ~1,611 |
+| Why not both | 32.00% | ~1,611 |
+| Upgrades not mandatory | 31.00% | ~1,560 |
+| Artificial selection | 30.00% | ~1,510 |
+| Control freak | 30.00% | ~1,510 |
+| Running Wild | 30.00% | ~1,510 |
+| Finish line | 28.00% | ~1,409 |
 | Unstoppable force | 25.00% | ~1,258 |
-| Wave of mutilation | 23.00% | ~1,157 |
-| Can't Run Can't Hide | 20.00% | ~1,006 |
+| Wave of mutilation | 23.00% | ~1,158 |
+| Can't Run Can't Hide | 20.00% | ~1,007 |
 | R is for Running | 19.00% | ~956 |
-| Dead in the air | 17.00% | ~855 |
-| Improvise, adapt, overrun | 15.00% | ~754 |
-| Pre-empative strike | 15.00% | ~754 |
+| Dead in the air | 16.00% | ~805 |
+| Improvise, adapt, overrun | 15.00% | ~755 |
+| Pre-empative strike | 15.00% | ~755 |
 | More than human | 13.00% | ~654 |
 | Strike | 13.00% | ~654 |
 | Triple A | 10.00% | ~503 |
-| Fine addition | 8.00% | ~402 |
+| Fine addition | 8.00% | ~403 |
 | One Of Those Days | 7.00% | ~352 |
 | About Adam | 5.00% | ~252 |
 | Push it to the limit | 5.00% | ~252 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Legacy Drivers | 0.50% | ~25 |
 | Up Close And Personal | 0.50% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,030 (Ranked 122)  
+Progressed: 5,033 (Ranked 122)  
 Completed: 25 (0.50%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 25 (0.50%) (Ranked 105)
 | 2023-05-15 | 4,867 | 24 |
 | 2023-05-16 | 4,950 | 25 |
 | 2023-05-17 | 5,029 | 25 |
-| 2023-05-18 | 5,030 | 25 |
+| 2023-05-18 | 5,033 | 25 |
 ## Awards
 Max (Great Boss Battles): 456  (Ranked 189)  
 Sum: 590 (Ranked 283)  

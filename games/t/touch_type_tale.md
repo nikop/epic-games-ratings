@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 90.00% | ~2,373 |
+| You and what Army? | 90.00% | ~2,374 |
 | Flanked! | 80.00% | ~2,110 |
-| Economics 101 | 66.00% | ~1,740 |
+| Economics 101 | 66.00% | ~1,741 |
 | Get Rich Quick | 48.00% | ~1,266 |
-| Do the Splits | 41.00% | ~1,081 |
-| Maestro | 28.00% | ~738 |
+| Do the Splits | 41.00% | ~1,082 |
+| Maestro | 28.00% | ~739 |
 | Full Employment | 19.00% | ~501 |
 | Clay Fighter | 18.00% | ~475 |
 | Nowhere left to Hide | 15.00% | ~396 |
 | All Ovens Blazing | 14.00% | ~369 |
 | Boulder Clash | 14.00% | ~369 |
-| Held Back by the Roots | 12.00% | ~316 |
+| Held Back by the Roots | 12.00% | ~317 |
 | Well Supplied | 11.00% | ~290 |
 | Damage Control | 8.00% | ~211 |
 | Master of the Brawl | 8.00% | ~211 |
@@ -27,10 +27,10 @@
 | An Ally in Need | 5.00% | ~132 |
 | For the Queen | 5.00% | ~132 |
 | Not a Drop Wasted | 5.00% | ~132 |
-| Reinforcements | 4.00% | ~105 |
-| Sweet Revenge | 4.00% | ~105 |
-| We Have the Technology | 4.00% | ~105 |
-| Figure of Breach | 4.00% | ~105 |
+| Reinforcements | 4.00% | ~106 |
+| Sweet Revenge | 4.00% | ~106 |
+| We Have the Technology | 4.00% | ~106 |
+| Figure of Breach | 4.00% | ~106 |
 | Work It | 3.00% | ~79 |
 | The Handyman Can! | 3.00% | ~79 |
 | A Brief Moment of Respite | 3.00% | ~79 |
@@ -38,7 +38,7 @@
 | Untouchable | 1.00% | ~26 |
 | All Geared Up | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,637 (Ranked 136)  
+Progressed: 2,638 (Ranked 136)  
 Completed: 9 (0.34%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,6 +66,7 @@ Completed: 9 (0.34%) (Ranked 118)
 | 2023-05-15 | 2,615 | 9 |
 | 2023-05-16 | 2,627 | 9 |
 | 2023-05-17 | 2,637 | 9 |
+| 2023-05-18 | 2,638 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

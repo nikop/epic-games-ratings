@@ -1,19 +1,19 @@
 # Arcadegeddon
 [Store](https://store.epicgames.com/en-US/p/arcadegeddon)  
 [View Rawdata](../../db/a/arcadegeddon.json)  
-Rating: 4.49 (Ranked 554)  
+Rating: 4.49 (Ranked 555)  
 Number of Ratings: 801  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Let's Get This Party Started | 91.00% | ~5,839 |
-| Photogenic | 87.00% | ~5,582 |
+| Photogenic | 87.00% | ~5,583 |
 | Surge Gauntlet Jockey | 85.00% | ~5,454 |
-| Plug It In | 84.00% | ~5,389 |
-| Adventure Time | 80.00% | ~5,133 |
-| Playing With Power | 77.00% | ~4,940 |
-| You're Fired | 59.00% | ~3,785 |
-| Coup d'Etat | 58.00% | ~3,721 |
+| Plug It In | 84.00% | ~5,390 |
+| Adventure Time | 80.00% | ~5,134 |
+| Playing With Power | 77.00% | ~4,941 |
+| You're Fired | 59.00% | ~3,786 |
+| Coup d'Etat | 58.00% | ~3,722 |
 | Get Furious | 55.00% | ~3,529 |
 | Gunplay And Cosplay | 55.00% | ~3,529 |
 | Hacks In Stacks | 54.00% | ~3,465 |
@@ -22,21 +22,21 @@ Number of Ratings: 801  (23.09.2022)
 | Booty Bashing | 47.00% | ~3,016 |
 | Here Comes a New Challenger | 38.00% | ~2,438 |
 | Field Medic | 37.00% | ~2,374 |
-| Guardian Angel | 33.00% | ~2,117 |
+| Guardian Angel | 33.00% | ~2,118 |
 | Rapid Response | 32.00% | ~2,053 |
 | The Full Monty | 32.00% | ~2,053 |
 | Surge Ahead | 31.00% | ~1,989 |
 | Poppin Noggins | 25.00% | ~1,604 |
 | Clips and Crits | 23.00% | ~1,476 |
-| Grey Goo | 21.00% | ~1,347 |
-| Boss of Bosses | 15.00% | ~962 |
-| The Final Blow | 15.00% | ~962 |
+| Grey Goo | 21.00% | ~1,348 |
+| Boss of Bosses | 15.00% | ~963 |
+| The Final Blow | 15.00% | ~963 |
 | Light My Fire | 14.00% | ~898 |
 | Seasoned Adventurer | 13.00% | ~834 |
 | 1.21 Gigawatts | 12.00% | ~770 |
 | To Be Continued | 12.00% | ~770 |
 | This Is My Boomstick! | 11.00% | ~706 |
-| Get In The Ring! | 9.00% | ~577 |
+| Get In The Ring! | 9.00% | ~578 |
 | Ticket Titan | 8.00% | ~513 |
 | Rescue Ranger | 7.00% | ~449 |
 | Surge Gauntlet Scholar | 6.00% | ~385 |
@@ -45,9 +45,9 @@ Number of Ratings: 801  (23.09.2022)
 | Ground Control | 4.00% | ~257 |
 | Team Player | 4.00% | ~257 |
 | Treasure Hunting | 4.00% | ~257 |
-| Event Horizon | 3.00% | ~192 |
-| Master of Arms | 3.00% | ~192 |
-| Start Your Collection | 3.00% | ~192 |
+| Event Horizon | 3.00% | ~193 |
+| Master of Arms | 3.00% | ~193 |
+| Start Your Collection | 3.00% | ~193 |
 | Nexuwizard | 2.00% | ~128 |
 | Nature Is Lit | 1.00% | ~64 |
 | The Collector | 1.00% | ~64 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.50% | ~32 |
 | Pyrotechnical | 0.20% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,416 (Ranked 113)  
+Progressed: 6,417 (Ranked 113)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,6 +85,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-15 | 6,387 | 0 |
 | 2023-05-16 | 6,403 | 0 |
 | 2023-05-17 | 6,416 | 0 |
+| 2023-05-18 | 6,417 | 0 |
 ## Awards
 Max (Relaxing): 62  (Ranked 375)  
 Sum: 484 (Ranked 292)  

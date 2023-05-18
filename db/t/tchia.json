@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -140,9 +140,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5745,
+  "EOS_Progressed": 5746,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1540,6 +1540,11 @@
       "Time": "2023-05-17T05:05:20.7495209+00:00",
       "NumProgressed": 5745,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-18T02:05:16.7297287+00:00",
+      "NumProgressed": 5746,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 21,
@@ -1575,7 +1580,7 @@
       "Name": "Body and Soul",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -1703,7 +1708,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "THING",
@@ -1718,7 +1723,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5745,
+      "Progressed": 5746,
       "Completed": 22
     }
   ],
@@ -1726,8 +1731,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-16T16:57:54.2243616+00:00",
-  "LastChanged_Achievements": "2023-05-18T00:05:13.1048341+00:00",
+  "LastChanged_Achievements": "2023-05-18T02:05:16.7297283+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:53.6325406+00:00",
-  "LastUpdate_Ratings": "2023-05-17T23:57:46.9586123+00:00",
-  "LastUpdate_Achievements": "2023-05-18T00:05:13.1048625+00:00"
+  "LastUpdate_Ratings": "2023-05-18T01:57:45.4913841+00:00",
+  "LastUpdate_Achievements": "2023-05-18T02:05:16.7297504+00:00"
 }

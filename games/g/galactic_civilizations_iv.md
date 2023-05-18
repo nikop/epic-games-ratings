@@ -1,25 +1,25 @@
 # Galactic Civilizations IV
 [Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iv)  
 [View Rawdata](../../db/g/galactic_civilizations_iv.json)  
-Rating: 4.18 (Ranked 825)  
+Rating: 4.18 (Ranked 826)  
 Number of Ratings: 429  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~4,492 |
-| Worker Specialization | 78.00% | ~4,435 |
-| First Contact | 73.00% | ~4,151 |
+| Colonize a Planet | 79.00% | ~4,493 |
+| Worker Specialization | 78.00% | ~4,436 |
+| First Contact | 73.00% | ~4,152 |
 | Win a Battle | 67.00% | ~3,810 |
-| Anomaly Researcher | 63.00% | ~3,582 |
-| Unleash My Power | 62.00% | ~3,525 |
+| Anomaly Researcher | 63.00% | ~3,583 |
+| Unleash My Power | 62.00% | ~3,526 |
 | Own 30 Planets | 35.00% | ~1,990 |
 | Commodity Trader | 32.00% | ~1,820 |
 | Xenocide | 32.00% | ~1,820 |
 | Design a Civilization | 31.00% | ~1,763 |
 | Design a Ship | 28.00% | ~1,592 |
-| Commodity Seller | 26.00% | ~1,478 |
+| Commodity Seller | 26.00% | ~1,479 |
 | Prestige Victory! | 14.00% | ~796 |
-| Galactic War | 11.00% | ~625 |
+| Galactic War | 11.00% | ~626 |
 | Trading Partner | 9.00% | ~512 |
 | Fleet Victory | 8.00% | ~455 |
 | Win as Terrans | 7.00% | ~398 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,686 (Ranked 118)  
+Progressed: 5,687 (Ranked 118)  
 Completed: 0 (0.00%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 0 (0.00%) (Ranked 199)
 | 2023-05-15 | 5,670 | 0 |
 | 2023-05-16 | 5,680 | 0 |
 | 2023-05-17 | 5,685 | 0 |
-| 2023-05-18 | 5,686 | 0 |
+| 2023-05-18 | 5,687 | 0 |
 ## Awards
 Max (Diverse Characters): 90  (Ranked 336)  
 Sum: 657 (Ranked 267)  

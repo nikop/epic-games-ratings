@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forced to Kill | 68.00% | ~59 |
-| Alone with Them | 67.00% | ~58 |
+| Forced to Kill | 69.00% | ~60 |
+| Alone with Them | 68.00% | ~59 |
 | A Night To Remember | 29.00% | ~25 |
-| Safe...For now? | 22.00% | ~19 |
+| Safe...For now? | 23.00% | ~20 |
 | Open Sesame | 15.00% | ~13 |
+| The Cultists | 10.00% | ~9 |
 | Alone In The Dark | 9.00% | ~8 |
 | Them and Us | 9.00% | ~8 |
 | OUTRAGE | 9.00% | ~8 |
-| The Cultists | 9.00% | ~8 |
 | What have I done!? | 9.00% | ~8 |
 | Parasite Exterminated | 8.00% | ~7 |
 | This Coffin Has Your Name On It! | 8.00% | ~7 |
-| The Forgotten Tower | 6.00% | ~5 |
+| The Forgotten Tower | 7.00% | ~6 |
 | Lover of classics | 5.00% | ~4 |
+| Researcher | 5.00% | ~4 |
+| I Am The Gate Keeper! | 5.00% | ~4 |
 | Modern Player | 3.00% | ~3 |
-| Researcher | 3.00% | ~3 |
 | Rest In Peace | 3.00% | ~3 |
-| I Am The Gate Keeper! | 3.00% | ~3 |
 | The bus stop | 3.00% | ~3 |
 | The Curse Is Real | 3.00% | ~3 |
 | Trapped | 3.00% | ~3 |
