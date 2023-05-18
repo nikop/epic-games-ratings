@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Set Up | 98.00% | ~350 |
+| All Set Up | 99.00% | ~353 |
 | Digital Casanova | 96.00% | ~343 |
 | Hold my Beer | 64.00% | ~228 |
 | Nueva Beginnings | 35.00% | ~125 |

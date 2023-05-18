@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Home Sweet Home | 95.00% | ~388 |
-| A Friend in Need | 59.00% | ~241 |
+| A Friend in Need | 60.00% | ~245 |
 | Surviving | 43.00% | ~175 |
 | Never Give Up | 39.00% | ~159 |
 | Detox diet | 39.00% | ~159 |

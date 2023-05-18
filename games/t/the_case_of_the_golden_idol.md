@@ -17,7 +17,7 @@
 | Solved tenth case | 17.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 59 (Ranked 278)  
-Completed: 2 (3.39%) (Ranked 39)  
+Completed: 2 (3.39%) (Ranked 40)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

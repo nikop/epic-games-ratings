@@ -2,12 +2,12 @@
   "ID": "cf87285950ba492bbdc370b9d265ea36",
   "Name": "FAR CRY 4",
   "ProductSlug": "far-cry-4",
-  "Ranking_Rating": 275,
+  "Ranking_Rating": 258,
   "Ranking_Popularity": 182,
-  "Ranking_PopularitySum": 251,
+  "Ranking_PopularitySum": 250,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2014-11-18T16:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.66,
+  "Rating": 4.67,
   "NumberOfRatings": 639,
   "RatingHistory": [
     {
@@ -892,10 +892,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 778,
       "NumberOfAwardsMax": 517
+    },
+    {
+      "Time": "2023-05-18T18:57:22.4820919+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 779,
+      "NumberOfAwardsMax": 517
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 778,
+  "NumberOfAwards": 779,
   "NumberOfAwardsMax": 517,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -933,7 +939,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game is Relaxing",
@@ -971,8 +977,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:30.966572+00:00",
-  "LastChanged": "2023-05-17T23:57:15.2667594+00:00",
+  "LastChanged": "2023-05-18T18:57:22.4820917+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:26.31621+00:00",
-  "LastUpdate_Ratings": "2023-05-18T17:57:24.8537947+00:00",
-  "LastUpdate_Achievements": "2023-05-18T18:01:49.4567714+00:00"
+  "LastUpdate_Ratings": "2023-05-18T18:57:22.4820922+00:00",
+  "LastUpdate_Achievements": "2023-05-18T19:00:52.0308457+00:00"
 }

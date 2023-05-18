@@ -2,9 +2,9 @@
   "ID": "ddac88f4f58b4abc99644d6b529a16cd",
   "Name": "Aegis Descent",
   "ProductSlug": "aegis-descent-a1f5a0",
-  "Ranking_EOS_Progress": 202,
+  "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 347,
+  "EOS_Progressed": 349,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -47,6 +47,11 @@
       "Time": "2023-05-12T17:05:27.9292002+00:00",
       "NumProgressed": 347,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-18T19:05:16.2915689+00:00",
+      "NumProgressed": 349,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -58,7 +63,7 @@
       "Name": "Batteries Included",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "Award_BigSpender",
@@ -74,7 +79,7 @@
       "Name": "Boss Down",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Award_BumperCar",
@@ -98,15 +103,15 @@
       "Name": "Clean Sweep",
       "Percentage": 95,
       "XP": 20,
-      "UsersEstimate": 330
+      "UsersEstimate": 332
     },
     {
       "ID": "Award_DeathFromAbove",
       "SetID": "9ojec6n",
       "Name": "Death from Above",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 133
     },
     {
       "ID": "Award_DemolitionDerby",
@@ -130,7 +135,7 @@
       "Name": "DocKing",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "Award_EarlyBird",
@@ -168,9 +173,9 @@
       "ID": "Award_Gunner",
       "SetID": "9ojec6n",
       "Name": "Gunner",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 194
+      "UsersEstimate": 192
     },
     {
       "ID": "Award_HalfwayThere",
@@ -232,9 +237,9 @@
       "ID": "Award_LineOfDuty",
       "SetID": "9ojec6n",
       "Name": "Line of Duty",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 255
     },
     {
       "ID": "Award_MilitaryIntelligence",
@@ -304,9 +309,9 @@
       "ID": "Award_Scavenger",
       "SetID": "9ojec6n",
       "Name": "Scavenger",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 262
     },
     {
       "ID": "Award_ShellShock",
@@ -344,9 +349,9 @@
       "ID": "Award_SplashDamage",
       "SetID": "9ojec6n",
       "Name": "Splash Damage",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 59
     },
     {
       "ID": "Award_Stunning",
@@ -402,14 +407,14 @@
       "Name": "What-A-Shot",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     }
   ],
   "AchievementSets": [
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 347,
+      "Progressed": 349,
       "Completed": 1
     }
   ],
@@ -417,8 +422,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-05-18T18:05:57.6256112+00:00",
+  "LastChanged_Achievements": "2023-05-18T19:05:16.2915682+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:13.0934405+00:00",
-  "LastUpdate_Ratings": "2023-05-18T17:58:29.166601+00:00",
-  "LastUpdate_Achievements": "2023-05-18T18:05:57.6256479+00:00"
+  "LastUpdate_Ratings": "2023-05-18T18:58:11.8410432+00:00",
+  "LastUpdate_Achievements": "2023-05-18T19:05:16.2916038+00:00"
 }

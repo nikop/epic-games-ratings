@@ -6,24 +6,24 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 78.00% | ~2,257 |
-| Un-Lonely Island | 50.00% | ~1,447 |
-| The Beginning of a Servantship | 47.00% | ~1,360 |
-| Trade Is My Trait | 39.00% | ~1,129 |
-| Number 18 | 26.00% | ~752 |
+| Just One...More...Term... | 78.00% | ~2,260 |
+| Un-Lonely Island | 50.00% | ~1,448 |
+| The Beginning of a Servantship | 47.00% | ~1,362 |
+| Trade Is My Trait | 39.00% | ~1,130 |
+| Number 18 | 26.00% | ~753 |
 | We Don't Have Time For That | 21.00% | ~608 |
 | The Governator | 19.00% | ~550 |
 | Caribbean Comrade | 18.00% | ~521 |
 | The Legend of Langostino | 18.00% | ~521 |
-| The Dreamer of Dreams | 16.00% | ~463 |
-| Go Sovereigns! | 12.00% | ~347 |
-| For Science! | 12.00% | ~347 |
-| Happy Ending? | 11.00% | ~318 |
-| Of Seals And Men | 10.00% | ~289 |
-| Shackadelic | 10.00% | ~289 |
-| Double Trouble | 9.00% | ~260 |
-| Firestarter | 9.00% | ~260 |
-| Make Tropico Great Again! | 9.00% | ~260 |
+| The Dreamer of Dreams | 16.00% | ~464 |
+| Go Sovereigns! | 12.00% | ~348 |
+| For Science! | 12.00% | ~348 |
+| Happy Ending? | 11.00% | ~319 |
+| Of Seals And Men | 10.00% | ~290 |
+| Shackadelic | 10.00% | ~290 |
+| Double Trouble | 9.00% | ~261 |
+| Firestarter | 9.00% | ~261 |
+| Make Tropico Great Again! | 9.00% | ~261 |
 | French Connection | 8.00% | ~232 |
 | Don't Panic! | 7.00% | ~203 |
 | I Owe You Nothing | 7.00% | ~203 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~29 |
 | My Ways | 0.30% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,894 (Ranked 132)  
+Progressed: 2,897 (Ranked 132)  
 Completed: 1 (0.03%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,10 +75,10 @@ Completed: 1 (0.03%) (Ranked 181)
 | 2023-05-15 | 2,854 | 1 |
 | 2023-05-16 | 2,860 | 1 |
 | 2023-05-17 | 2,875 | 1 |
-| 2023-05-18 | 2,894 | 1 |
+| 2023-05-18 | 2,897 | 1 |
 ## Awards
-Max (Great for Beginners): 104  (Ranked 317)  
-Sum: 750 (Ranked 253)  
+Max (Great for Beginners): 104  (Ranked 318)  
+Sum: 750 (Ranked 254)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |

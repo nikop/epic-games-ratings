@@ -176,9 +176,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 735,
+  "EOS_Progressed": 737,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -586,6 +586,11 @@
       "Time": "2023-05-18T18:05:53.8761023+00:00",
       "NumProgressed": 735,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-18T19:05:13.2616129+00:00",
+      "NumProgressed": 737,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -595,9 +600,9 @@
       "ID": "REWARD_10_CLIMBING_THE_LADDER",
       "SetID": "bm6el81",
       "Name": "Climbing the Ladder",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -635,9 +640,9 @@
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
       "SetID": "bm6el81",
       "Name": "Enemy at the Gates",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -763,9 +768,9 @@
       "ID": "REWARD_2_GATHERING_INTEL",
       "SetID": "bm6el81",
       "Name": "Confirming Suspicions",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -835,9 +840,9 @@
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
       "SetID": "bm6el81",
       "Name": "As Quiet as a Mouse",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -1164,13 +1169,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 686,
+      "Progressed": 688,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 735,
+      "Progressed": 737,
       "Completed": 2
     }
   ],
@@ -1178,8 +1183,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-18T16:01:31.1520338+00:00",
-  "LastChanged_Achievements": "2023-05-18T18:05:53.8761016+00:00",
+  "LastChanged_Achievements": "2023-05-18T19:05:13.2616122+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:23.4749836+00:00",
-  "LastUpdate_Ratings": "2023-05-18T18:01:27.0561738+00:00",
-  "LastUpdate_Achievements": "2023-05-18T18:05:53.8761778+00:00"
+  "LastUpdate_Ratings": "2023-05-18T19:00:35.7965366+00:00",
+  "LastUpdate_Achievements": "2023-05-18T19:05:13.2616814+00:00"
 }

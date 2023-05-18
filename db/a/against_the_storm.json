@@ -2276,9 +2276,9 @@
       "Count": 303
     }
   ],
-  "EOS_Progressed": 14874,
+  "EOS_Progressed": 14875,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -3701,6 +3701,11 @@
       "Time": "2023-05-18T18:06:39.0716915+00:00",
       "NumProgressed": 14874,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-18T19:05:42.2489986+00:00",
+      "NumProgressed": 14875,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 50,
@@ -3824,7 +3829,7 @@
       "Name": "Ruined Armory",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "WinNearBandit",
@@ -3888,7 +3893,7 @@
       "Name": "Forbidden Lands",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "WinNearHaunted",
@@ -4096,7 +4101,7 @@
       "Name": "Defying the Crown",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Year1Dangerous",
@@ -4104,22 +4109,22 @@
       "Name": "Into the Forest",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     }
   ],
   "AchievementSets": [
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 14874,
+      "Progressed": 14875,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-17T03:59:57.4704238+00:00",
-  "LastChanged_Achievements": "2023-05-18T18:06:39.0716909+00:00",
+  "LastChanged_Achievements": "2023-05-18T19:05:42.2489979+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:54.8345415+00:00",
-  "LastUpdate_Ratings": "2023-05-18T18:00:48.4967868+00:00",
-  "LastUpdate_Achievements": "2023-05-18T18:06:39.0717455+00:00"
+  "LastUpdate_Ratings": "2023-05-18T19:00:00.5117122+00:00",
+  "LastUpdate_Achievements": "2023-05-18T19:05:42.2490438+00:00"
 }

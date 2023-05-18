@@ -13,8 +13,8 @@ Number of Ratings: 429  (23.09.2022)
 | Anomaly Researcher | 63.00% | ~3,588 |
 | Unleash My Power | 62.00% | ~3,531 |
 | Own 30 Planets | 35.00% | ~1,993 |
+| Xenocide | 33.00% | ~1,879 |
 | Commodity Trader | 32.00% | ~1,822 |
-| Xenocide | 32.00% | ~1,822 |
 | Design a Civilization | 31.00% | ~1,765 |
 | Design a Ship | 28.00% | ~1,595 |
 | Commodity Seller | 26.00% | ~1,481 |

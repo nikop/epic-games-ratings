@@ -11,6 +11,7 @@
 | Quadsparagus | 4.00% | ~0 |
 | Pro Pyromancer | 2.00% | ~1 |
 | King of the Crow | 2.00% | ~0 |
+| Berry Loved | 2.00% | ~0 |
 | Bouncemato | 2.00% | ~0 |
 | Quick-Draw Pod | 2.00% | ~0 |
 | Oh My Gourd | 2.00% | ~0 |
@@ -18,9 +19,15 @@
 | Carrocket From Above | 2.00% | ~0 |
 | Death From Above | 2.00% | ~0 |
 | Survivor | 2.00% | ~0 |
+| Early Survivor | 2.00% | ~0 |
+| Amateur Survivor | 2.00% | ~0 |
 | Professional Survivor | 2.00% | ~0 |
+| Expert Survivor | 2.00% | ~0 |
+| Master Survivor | 2.00% | ~0 |
 | Heal Me Peas | 2.00% | ~0 |
+| Heart Breaker | 2.00% | ~0 |
 | Pyromaniac | 2.00% | ~0 |
+| This Is My Boomstick | 2.00% | ~0 |
 | Tomassacred | 2.00% | ~0 |
 | Summers Here | 2.00% | ~0 |
 | Easy Peasy | 2.00% | ~0 |
@@ -66,20 +73,13 @@
 | Pum-King | 0.00% | ~0 |
 | Carrocketeer | 0.00% | ~0 |
 | Cornivore | 0.00% | ~0 |
-| Berry Loved | 0.00% | ~0 |
 | First Place | 0.00% | ~0 |
 | Prestige 2 - Country Bumpkin | 0.00% | ~0 |
 | Prestige 3 - Planter | 0.00% | ~0 |
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
-| Early Survivor | 0.00% | ~0 |
-| Amateur Survivor | 0.00% | ~0 |
-| Expert Survivor | 0.00% | ~0 |
-| Master Survivor | 0.00% | ~0 |
-| Heart Breaker | 0.00% | ~0 |
-| This Is My Boomstick | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52 (Ranked 281)  
+Progressed: 52 (Ranked 282)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |

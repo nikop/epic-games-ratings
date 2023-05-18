@@ -3,8 +3,8 @@
   "Name": "TT Isle of Man: Ride on the Edge 3 - Pre-Purchase",
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
   "Ranking_EOS_Progress": 299,
-  "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_Completed": 42,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 30,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.33,
   "EosHistory": [
@@ -184,9 +184,9 @@
       "ID": "ACHIEVEMENT_03",
       "SetID": "gagif7",
       "Name": "To Each Their Own",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -487,8 +487,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-05-18T18:02:06.9715148+00:00",
+  "LastChanged_Achievements": "2023-05-18T19:01:05.9461795+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:32.0229412+00:00",
-  "LastUpdate_Ratings": "2023-05-18T17:57:32.279344+00:00",
-  "LastUpdate_Achievements": "2023-05-18T18:02:06.9715797+00:00"
+  "LastUpdate_Ratings": "2023-05-18T18:57:27.6384686+00:00",
+  "LastUpdate_Achievements": "2023-05-18T19:01:05.9462123+00:00"
 }

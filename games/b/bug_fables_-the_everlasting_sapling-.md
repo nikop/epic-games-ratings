@@ -10,7 +10,7 @@
 | Chapter 3 Complete | 35.00% | ~23 |
 | The Guardian | 29.00% | ~19 |
 | Chapter 4 Complete | 29.00% | ~19 |
-| Heavy Duty | 23.00% | ~15 |
+| Heavy Duty | 24.00% | ~16 |
 | Chapter 5 Complete | 23.00% | ~15 |
 | The Truth | 23.00% | ~15 |
 | Chapter 6 Complete | 21.00% | ~14 |

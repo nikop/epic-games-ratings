@@ -3,11 +3,11 @@
   "Name": "NEO: The World Ends with You",
   "ProductSlug": "neo-the-world-ends-with-you",
   "Ranking_Rating": 30,
-  "Ranking_Popularity": 330,
+  "Ranking_Popularity": 329,
   "Ranking_PopularitySum": 374,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2021-09-28T15:00:00+00:00",
@@ -343,18 +343,24 @@
       "Rating": 4.86,
       "NumberOfAwards": 160,
       "NumberOfAwardsMax": 95
+    },
+    {
+      "Time": "2023-05-18T19:00:26.4449458+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 161,
+      "NumberOfAwardsMax": 96
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 160,
-  "NumberOfAwardsMax": 95,
+  "NumberOfAwards": 161,
+  "NumberOfAwardsMax": 96,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 95
+      "Count": 96
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -374,8 +380,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:59.3741762+00:00",
-  "LastChanged": "2023-05-16T18:59:41.5996371+00:00",
+  "LastChanged": "2023-05-18T19:00:26.4449454+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:16.8813039+00:00",
-  "LastUpdate_Ratings": "2023-05-18T18:01:17.9628055+00:00",
-  "LastUpdate_Achievements": "2023-05-18T18:05:28.584697+00:00"
+  "LastUpdate_Ratings": "2023-05-18T19:00:26.4449462+00:00",
+  "LastUpdate_Achievements": "2023-05-18T19:04:42.6087407+00:00"
 }

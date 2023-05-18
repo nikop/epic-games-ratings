@@ -2,9 +2,9 @@
   "ID": "5eb9d01d608e46a7ac42a673a27f7888",
   "Name": "Shotgun Farmers",
   "ProductSlug": "shotgun-farmers-d9f3f0",
-  "Ranking_EOS_Progress": 281,
+  "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -622,7 +622,7 @@
       "ID": "ach_bow_heals",
       "SetID": "bf10c8p",
       "Name": "Berry Loved",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -726,7 +726,7 @@
       "ID": "ach_waves_10",
       "SetID": "bf10c8p",
       "Name": "Early Survivor",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -734,7 +734,7 @@
       "ID": "ach_waves_20",
       "SetID": "bf10c8p",
       "Name": "Amateur Survivor",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -750,7 +750,7 @@
       "ID": "ach_waves_40",
       "SetID": "bf10c8p",
       "Name": "Expert Survivor",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -758,7 +758,7 @@
       "ID": "ach_waves_50",
       "SetID": "bf10c8p",
       "Name": "Master Survivor",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -790,7 +790,7 @@
       "ID": "ach_x_victims_using_bow",
       "SetID": "bf10c8p",
       "Name": "Heart Breaker",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -806,7 +806,7 @@
       "ID": "ach_x_victims_using_double_barrel",
       "SetID": "bf10c8p",
       "Name": "This Is My Boomstick",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -869,8 +869,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-05-18T18:03:40.2926286+00:00",
+  "LastChanged_Achievements": "2023-05-18T19:03:31.6000362+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:14.3160105+00:00",
-  "LastUpdate_Ratings": "2023-05-18T17:58:30.3049175+00:00",
-  "LastUpdate_Achievements": "2023-05-18T18:03:40.2927115+00:00"
+  "LastUpdate_Ratings": "2023-05-18T18:58:13.0303802+00:00",
+  "LastUpdate_Achievements": "2023-05-18T19:03:31.6001139+00:00"
 }

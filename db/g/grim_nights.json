@@ -4,7 +4,7 @@
   "ProductSlug": "grim-nights-fa4c5a",
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-04-24T23:00:00+00:00",
@@ -120,9 +120,9 @@
       "ID": "ach_boss2",
       "SetID": "c2c0fb6",
       "Name": "Slay that one too!",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 150,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_boss3",
@@ -241,8 +241,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2023-05-18T18:05:48.186984+00:00",
+  "LastChanged_Achievements": "2023-05-18T19:04:58.3666596+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:01.3068365+00:00",
-  "LastUpdate_Ratings": "2023-05-18T17:59:38.3684021+00:00",
-  "LastUpdate_Achievements": "2023-05-18T18:05:48.1869982+00:00"
+  "LastUpdate_Ratings": "2023-05-18T18:58:59.5272101+00:00",
+  "LastUpdate_Achievements": "2023-05-18T19:04:58.3666772+00:00"
 }

@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You're Going Down! | 100.00% | ~30 |
-| To Each Their Own | 30.00% | ~9 |
+| To Each Their Own | 33.00% | ~10 |
 | Like Phileas Fogg | 17.00% | ~5 |
 | You Get An Upgrade, You Get An Upgrade! | 17.00% | ~5 |
 | Onwards and Upwards | 17.00% | ~5 |
@@ -45,7 +45,7 @@
 | Lone Wolf | 3.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 30 (Ranked 299)  
-Completed: 1 (3.33%) (Ranked 41)  
+Completed: 1 (3.33%) (Ranked 42)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

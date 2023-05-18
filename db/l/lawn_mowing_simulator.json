@@ -2005,9 +2005,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 614922,
+  "EOS_Progressed": 614945,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 2774,
+  "EOS_NewPlayers": 2779,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4710,6 +4710,11 @@
       "Time": "2023-05-18T18:05:59.2609015+00:00",
       "NumProgressed": 614922,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-18T19:05:17.7183543+00:00",
+      "NumProgressed": 614945,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 54,
@@ -4721,7 +4726,7 @@
       "Name": "The dream begins",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 504236
+      "UsersEstimate": 504255
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -4737,7 +4742,7 @@
       "Name": "Earn your stripes",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 5534
+      "UsersEstimate": 5535
     },
     {
       "ID": "ALL_AMATEUR_CHALLENGES",
@@ -4809,7 +4814,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 227521
+      "UsersEstimate": 227530
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -4817,7 +4822,7 @@
       "Name": "Mighty Mowing Park Ranger",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 12298
+      "UsersEstimate": 12299
     },
     {
       "ID": "COMPLETE_STRIPING_CONTRACT",
@@ -4825,7 +4830,7 @@
       "Name": "Lawn \u0026 Order",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 5534
+      "UsersEstimate": 5535
     },
     {
       "ID": "CONTRACT_SMALL_DECK",
@@ -4841,7 +4846,7 @@
       "Name": "Close shave",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 12298
+      "UsersEstimate": 12299
     },
     {
       "ID": "DLC001_CHALLENGES",
@@ -4961,7 +4966,7 @@
       "Name": "The first of many",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 196775
+      "UsersEstimate": 196782
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -4985,7 +4990,7 @@
       "Name": "Every good deed\u2026",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 12298
+      "UsersEstimate": 12299
     },
     {
       "ID": "HIRE_FIRST_EMPLOYEE",
@@ -4993,7 +4998,7 @@
       "Name": "Teamwork makes the dream work",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 36895
+      "UsersEstimate": 36897
     },
     {
       "ID": "NO_FINE_CONTRACT",
@@ -5001,7 +5006,7 @@
       "Name": "The grass is always greener",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 4304
+      "UsersEstimate": 4305
     },
     {
       "ID": "ONE_OF_EACH_CONTRACT",
@@ -5009,7 +5014,7 @@
       "Name": "Jack of all trades",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 4919
+      "UsersEstimate": 4920
     },
     {
       "ID": "OWN_ALL_ORIGINAL_MOWERS",
@@ -5025,7 +5030,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 92238
+      "UsersEstimate": 92242
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -5033,7 +5038,7 @@
       "Name": "Leaner and meaner",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 12298
+      "UsersEstimate": 12299
     },
     {
       "ID": "PART_EX_MORE_EXPENSIVE",
@@ -5041,7 +5046,7 @@
       "Name": "Bigger and better",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 24597
+      "UsersEstimate": 24598
     },
     {
       "ID": "PICK_UP_250_OBJECTS",
@@ -5049,7 +5054,7 @@
       "Name": "All hands on deck",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 4919
+      "UsersEstimate": 4920
     },
     {
       "ID": "PURCHASE_FORTH_HQ",
@@ -5065,7 +5070,7 @@
       "Name": "First step on the ladder",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 12298
+      "UsersEstimate": 12299
     },
     {
       "ID": "PURCHASE_THIRD_HQ",
@@ -5073,7 +5078,7 @@
       "Name": "Worked your grass off",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 4304
+      "UsersEstimate": 4305
     },
     {
       "ID": "RP_CREDIBLE",
@@ -5081,7 +5086,7 @@
       "Name": "Credible",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 43045
+      "UsersEstimate": 43046
     },
     {
       "ID": "RP_DISTINGUISHED",
@@ -5113,7 +5118,7 @@
       "Name": "Professional",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 5534
+      "UsersEstimate": 5535
     },
     {
       "ID": "RP_RANK_UP",
@@ -5121,7 +5126,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 110686
+      "UsersEstimate": 110690
     },
     {
       "ID": "RP_TRUSTED",
@@ -5129,7 +5134,7 @@
       "Name": "Trusted",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 12298
+      "UsersEstimate": 12299
     },
     {
       "ID": "SPRINT_1_MILE",
@@ -5137,7 +5142,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 55343
+      "UsersEstimate": 55345
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -5145,22 +5150,22 @@
       "Name": "Aggressive expansion",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 24597
+      "UsersEstimate": 24598
     }
   ],
   "AchievementSets": [
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 614922,
+      "Progressed": 614945,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-05-15T23:57:35.2098179+00:00",
-  "LastChanged_Achievements": "2023-05-18T18:05:59.260901+00:00",
+  "LastChanged_Achievements": "2023-05-18T19:05:17.7183533+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:56.1973979+00:00",
-  "LastUpdate_Ratings": "2023-05-18T17:58:05.9623047+00:00",
-  "LastUpdate_Achievements": "2023-05-18T18:05:59.2609661+00:00"
+  "LastUpdate_Ratings": "2023-05-18T18:57:52.0742841+00:00",
+  "LastUpdate_Achievements": "2023-05-18T19:05:17.7184165+00:00"
 }

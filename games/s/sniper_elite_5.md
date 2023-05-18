@@ -5,24 +5,25 @@ Rating: 4.41 (Ranked 656)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| As Quiet as a Mouse | 0.50% | ~4 |
 | Strategist | 0.40% | ~3 |
 | Resourceful | 0.40% | ~3 |
-| As Quiet as a Mouse | 0.40% | ~3 |
 | Taking it back | 0.40% | ~3 |
+| Enemy at the Gates | 0.30% | ~2 |
 | The Long Game | 0.30% | ~2 |
 | Precision Is Key | 0.30% | ~2 |
+| Confirming Suspicions | 0.30% | ~2 |
 | It's Starting to Crack | 0.30% | ~2 |
 | Change the Channel | 0.30% | ~2 |
 | Don't hold your breath | 0.30% | ~2 |
 | Sink or Swim | 0.30% | ~2 |
+| Climbing the Ladder | 0.10% | ~1 |
 | Liberté | 0.10% | ~1 |
 | No Stone Unturned | 0.10% | ~1 |
 | Opposing Force | 0.10% | ~1 |
-| Enemy at the Gates | 0.10% | ~1 |
 | Meeting Resistance | 0.10% | ~1 |
 | Gunslinger | 0.10% | ~1 |
 | Skirmisher | 0.10% | ~1 |
-| Confirming Suspicions | 0.10% | ~1 |
 | Rigged to Blow | 0.10% | ~1 |
 | Lord of War | 0.10% | ~1 |
 | Brains of the Operation | 0.10% | ~1 |
@@ -33,7 +34,6 @@ Rating: 4.41 (Ranked 656)
 | Siegebreaker | 0.10% | ~1 |
 | Ghost of Falaise | 0.10% | ~1 |
 | Operation Overlord | 0.10% | ~1 |
-| Climbing the Ladder | 0.00% | ~0 |
 | Best of the Best | 0.00% | ~0 |
 | Fields of Glory | 0.00% | ~0 |
 | Just a Flesh Wound | 0.00% | ~0 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 656)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 735 (Ranked 176)  
+Progressed: 737 (Ranked 176)  
 Completed: 2 (0.27%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 2 (0.27%) (Ranked 130)
 | 2023-05-15 | 721 | 2 |
 | 2023-05-16 | 723 | 2 |
 | 2023-05-17 | 728 | 2 |
-| 2023-05-18 | 735 | 2 |
+| 2023-05-18 | 737 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

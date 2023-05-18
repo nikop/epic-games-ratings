@@ -6,13 +6,13 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~432,685 |
-| The Three | 64.00% | ~333,636 |
-| The Banquet | 40.00% | ~208,523 |
-| Devara's Light | 30.00% | ~156,392 |
-| The Iron Ones | 18.00% | ~93,835 |
-| The Village | 16.00% | ~83,409 |
-| The Forest | 14.00% | ~72,983 |
+| Find Sanctuary | 83.00% | ~432,688 |
+| The Three | 64.00% | ~333,639 |
+| The Banquet | 40.00% | ~208,524 |
+| Devara's Light | 30.00% | ~156,393 |
+| The Iron Ones | 18.00% | ~93,836 |
+| The Village | 16.00% | ~83,410 |
+| The Forest | 14.00% | ~72,984 |
 | Branded | 13.00% | ~67,770 |
 | The Imposter | 13.00% | ~67,770 |
 | The Keep | 13.00% | ~67,770 |
@@ -20,16 +20,16 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Dome | 9.00% | ~46,918 |
 | The Red Hall | 9.00% | ~46,918 |
 | The Sacrifice | 8.00% | ~41,705 |
-| The Cave | 7.00% | ~36,491 |
-| The Stone Roots | 7.00% | ~36,491 |
-| The Ziggurat | 7.00% | ~36,491 |
-| Storied | 6.00% | ~31,278 |
-| The Construct | 6.00% | ~31,278 |
-| The Mire | 6.00% | ~31,278 |
-| The Ruins | 6.00% | ~31,278 |
-| The Alkymancery | 5.00% | ~26,065 |
-| The Lake | 5.00% | ~26,065 |
-| The Pitchwoods | 5.00% | ~26,065 |
+| The Cave | 7.00% | ~36,492 |
+| The Stone Roots | 7.00% | ~36,492 |
+| The Ziggurat | 7.00% | ~36,492 |
+| Storied | 6.00% | ~31,279 |
+| The Construct | 6.00% | ~31,279 |
+| The Mire | 6.00% | ~31,279 |
+| The Ruins | 6.00% | ~31,279 |
+| The Alkymancery | 5.00% | ~26,066 |
+| The Lake | 5.00% | ~26,066 |
+| The Pitchwoods | 5.00% | ~26,066 |
 | Honed | 4.00% | ~20,852 |
 | The House of Splendor | 4.00% | ~20,852 |
 | The Crypt | 4.00% | ~20,852 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,426 |
 | Fading Fast | 1.00% | ~5,213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 521,307 (Ranked 23)  
+Progressed: 521,311 (Ranked 23)  
 Completed: 1,411 (0.27%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 1,411 (0.27%) (Ranked 130)
 | 2023-05-15 | 521,035 | 1,408 |
 | 2023-05-16 | 521,117 | 1,408 |
 | 2023-05-17 | 521,213 | 1,409 |
-| 2023-05-18 | 521,307 | 1,411 |
+| 2023-05-18 | 521,311 | 1,411 |
 ## Awards
 Max (Challenging Combat): 268  (Ranked 234)  
 Sum: 1,879 (Ranked 190)  

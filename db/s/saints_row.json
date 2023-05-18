@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 23,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -2316,9 +2316,9 @@
       "Count": 1029
     }
   ],
-  "EOS_Progressed": 29205,
+  "EOS_Progressed": 29249,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 3245,
+  "EOS_NewPlayers": 3259,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5031,6 +5031,11 @@
       "Time": "2023-05-18T18:05:52.6159538+00:00",
       "NumProgressed": 29205,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-18T19:05:12.0883251+00:00",
+      "NumProgressed": 29249,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 53,
@@ -5088,9 +5093,9 @@
       "ID": "collect_low_amount_hero_props",
       "SetID": "3ib2d0i",
       "Name": "Finders Keepers",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 234
     },
     {
       "ID": "complet_epilogue_mission",
@@ -5144,9 +5149,9 @@
       "ID": "complete_first_wanted_mission",
       "SetID": "3ib2d0i",
       "Name": "Wet Work",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 263
     },
     {
       "ID": "complete_mission_1",
@@ -5160,9 +5165,9 @@
       "ID": "customize_a_vehicle",
       "SetID": "3ib2d0i",
       "Name": "Tune Up",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 292
     },
     {
       "ID": "customize_a_weapon",
@@ -5184,9 +5189,9 @@
       "ID": "defeat_the_collective",
       "SetID": "3ib2d0i",
       "Name": "Chaos Tamer",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 58
     },
     {
       "ID": "destroy_car_with_fist_cannon",
@@ -5216,9 +5221,9 @@
       "ID": "empire_tier_2",
       "SetID": "3ib2d0i",
       "Name": "A Young Empire",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 234
     },
     {
       "ID": "empire_tier_3",
@@ -5248,9 +5253,9 @@
       "ID": "first_building_placed",
       "SetID": "3ib2d0i",
       "Name": "Landlord",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 263
     },
     {
       "ID": "fully_complete_a_building",
@@ -5258,7 +5263,7 @@
       "Name": "Work Ethic",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -5288,17 +5293,17 @@
       "ID": "get_fired",
       "SetID": "3ib2d0i",
       "Name": "Performance Review",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 263
+      "UsersEstimate": 292
     },
     {
       "ID": "hit_max_level",
       "SetID": "3ib2d0i",
       "Name": "Took It to The Limit",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 146
+      "UsersEstimate": 175
     },
     {
       "ID": "infinite_boost_refill",
@@ -5336,9 +5341,9 @@
       "ID": "name_the_saints",
       "SetID": "3ib2d0i",
       "Name": "Making a Name",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 263
+      "UsersEstimate": 292
     },
     {
       "ID": "one_third_purple",
@@ -5360,9 +5365,9 @@
       "ID": "prank_coop_partner",
       "SetID": "3ib2d0i",
       "Name": "Prankster",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 58
     },
     {
       "ID": "purchase_2_emotes",
@@ -5392,9 +5397,9 @@
       "ID": "staggered_by_vending_machine",
       "SetID": "3ib2d0i",
       "Name": "Food for Thought",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 263
     },
     {
       "ID": "two_thirds_purple",
@@ -5465,22 +5470,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 29205,
+      "Progressed": 29249,
       "Completed": 18
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 842,
-      "Completed": 443
+      "Progressed": 886,
+      "Completed": 446
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-05-18T14:59:35.0212821+00:00",
-  "LastChanged_Achievements": "2023-05-18T18:05:52.6159534+00:00",
+  "LastChanged_Achievements": "2023-05-18T19:05:12.0883244+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:30.5487135+00:00",
-  "LastUpdate_Ratings": "2023-05-18T18:00:20.1181741+00:00",
-  "LastUpdate_Achievements": "2023-05-18T18:05:52.6160343+00:00"
+  "LastUpdate_Ratings": "2023-05-18T18:59:32.3453187+00:00",
+  "LastUpdate_Achievements": "2023-05-18T19:05:12.0883785+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 110,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -185,11 +185,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1379,
+  "EOS_Progressed": 1380,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.44,
+  "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:46.139377+00:00",
@@ -365,6 +365,11 @@
       "Time": "2023-05-18T17:03:26.9866386+00:00",
       "NumProgressed": 1379,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-18T19:02:28.8859039+00:00",
+      "NumProgressed": 1380,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -376,7 +381,7 @@
       "Name": "Become King",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "Collect20Gold",
@@ -400,15 +405,15 @@
       "Name": "Collect Monster Parts",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "CollectAllStatues",
       "SetID": "9lj35g4",
       "Name": "Return the Statues",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 331
     },
     {
       "ID": "CollectAllWeaponsAndGear",
@@ -456,7 +461,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "CompleteHunterFaction",
@@ -512,7 +517,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "GetRangedWeapon",
@@ -592,7 +597,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "RescueBrothers",
@@ -615,22 +620,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1379,
+      "Progressed": 1380,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 20,
-      "Completed": 20
+      "Progressed": 21,
+      "Completed": 21
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-04-02T20:59:05.8070796+00:00",
-  "LastChanged_Achievements": "2023-05-18T18:02:48.6365417+00:00",
+  "LastChanged_Achievements": "2023-05-18T19:02:28.8859033+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:16.6820766+00:00",
-  "LastUpdate_Ratings": "2023-05-18T17:58:35.7364217+00:00",
-  "LastUpdate_Achievements": "2023-05-18T18:02:48.6365665+00:00"
+  "LastUpdate_Ratings": "2023-05-18T18:58:15.8621113+00:00",
+  "LastUpdate_Achievements": "2023-05-18T19:02:28.8859254+00:00"
 }

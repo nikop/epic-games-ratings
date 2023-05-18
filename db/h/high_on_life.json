@@ -208,9 +208,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22662,
+  "EOS_Progressed": 22663,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -673,6 +673,11 @@
       "Time": "2023-05-18T18:03:17.2320739+00:00",
       "NumProgressed": 22662,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-18T19:03:13.2897455+00:00",
+      "NumProgressed": 22663,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -692,7 +697,7 @@
       "Name": "Playing Card To Get",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 7478
+      "UsersEstimate": 7479
     },
     {
       "ID": "ACH_ALL_HUNTCHALS",
@@ -700,7 +705,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 17450
+      "UsersEstimate": 17451
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -732,7 +737,7 @@
       "Name": "Satisfied Gus-tomer",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6345
+      "UsersEstimate": 6346
     },
     {
       "ID": "ACH_GET_JETPACK",
@@ -748,7 +753,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 17223
+      "UsersEstimate": 17224
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -756,7 +761,7 @@
       "Name": "Lezduit!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4532
+      "UsersEstimate": 4533
     },
     {
       "ID": "ACH_GET_MAGBOOTS",
@@ -788,7 +793,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 18809
+      "UsersEstimate": 18810
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -804,7 +809,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 12917
+      "UsersEstimate": 12918
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -844,7 +849,7 @@
       "Name": "Cold-Blooded Driller",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6345
+      "UsersEstimate": 6346
     },
     {
       "ID": "ACH_KILL_NIPULON",
@@ -860,7 +865,7 @@
       "Name": "Who\u0027s The Boss?",
       "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 4532
+      "UsersEstimate": 4533
     },
     {
       "ID": "ACH_KILL_SLUMSLEY",
@@ -868,7 +873,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16543
+      "UsersEstimate": 16544
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -876,7 +881,7 @@
       "Name": "Don\u0027t Knife The Hand That Feeds",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7478
+      "UsersEstimate": 7479
     },
     {
       "ID": "ACH_MOPLET_BOSS",
@@ -892,7 +897,7 @@
       "Name": "We Paid For The Rights To Put A Whole Movie In Here",
       "Percentage": 12,
       "XP": 45,
-      "UsersEstimate": 2719
+      "UsersEstimate": 2720
     },
     {
       "ID": "ACH_NARR_WARPBASES",
@@ -908,7 +913,7 @@
       "Name": "Spent 15 Hours At The Alien Strip Club",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4532
+      "UsersEstimate": 4533
     },
     {
       "ID": "ACH_NOT_KENNY",
@@ -939,7 +944,7 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22662,
+      "Progressed": 22663,
       "Completed": 8
     }
   ],
@@ -947,8 +952,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-05-18T06:57:32.9581513+00:00",
-  "LastChanged_Achievements": "2023-05-18T18:03:17.2320734+00:00",
+  "LastChanged_Achievements": "2023-05-18T19:03:13.2897446+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.4475252+00:00",
-  "LastUpdate_Ratings": "2023-05-18T17:58:05.8002725+00:00",
-  "LastUpdate_Achievements": "2023-05-18T18:03:17.2321025+00:00"
+  "LastUpdate_Ratings": "2023-05-18T18:57:51.9496933+00:00",
+  "LastUpdate_Achievements": "2023-05-18T19:03:13.2898034+00:00"
 }

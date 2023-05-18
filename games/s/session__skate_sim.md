@@ -1,7 +1,7 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.66 (Ranked 275)  
+Rating: 4.66 (Ranked 276)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,10 +14,10 @@ Number of Ratings: 111  (23.09.2022)
 | Go with the Flow | 12.00% | ~236 |
 | Plastic Surgeon | 9.00% | ~177 |
 | The flip trick crown jewel | 9.00% | ~177 |
-| The hard way | 9.00% | ~177 |
 | Keep the dream alive | 8.00% | ~157 |
+| The hard way | 8.00% | ~157 |
 | Upfront shredder | 8.00% | ~157 |
-| Good vibes | 7.00% | ~137 |
+| Good vibes | 7.00% | ~138 |
 | Fashionista | 6.00% | ~118 |
 | Finally he zips it | 6.00% | ~118 |
 | G'Day Mate! | 6.00% | ~118 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,964 (Ranked 145)  
+Progressed: 1,965 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,23 +81,23 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-15 | 1,957 | 0 |
 | 2023-05-16 | 1,958 | 0 |
 | 2023-05-17 | 1,962 | 0 |
-| 2023-05-18 | 1,964 | 0 |
+| 2023-05-18 | 1,965 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 393)  
-Sum: 408 (Ranked 302)  
-Diff (max vs sum): 91  
+Sum: 412 (Ranked 301)  
+Diff (max vs sum): 92  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 48 |
 | This game has a Creative Community | 40 |
 | This game is Great for Quick Sessions | 39 |
 | This game has Amazing Storytelling | 39 |
+| This game is Relaxing | 38 |
 | This game has Amazing Characters | 38 |
-| This game is Relaxing | 37 |
+| This game is Extremely Fun | 36 |
 | This game has Realistic Visuals | 36 |
 | This game has Diverse Characters | 36 |
-| This game has Quickly Understood Controls | 35 |
-| This game is Extremely Fun | 34 |
+| This game has Quickly Understood Controls | 36 |
 | This game has Challenging Combat | 26 |
 | This game is Educational | 22 |
 ## Ratings History
@@ -197,3 +197,4 @@ Diff (max vs sum): 91
 | 2023-05-11 | 4.66 | - | 48 | 406 |
 | 2023-05-13 | 4.66 | - | 48 | 407 |
 | 2023-05-16 | 4.66 | - | 48 | 408 |
+| 2023-05-18 | 4.66 | - | 48 | 412 |

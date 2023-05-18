@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -310,9 +310,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 6191,
+  "EOS_Progressed": 6193,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -1545,6 +1545,11 @@
       "Time": "2023-05-18T18:05:52.7916361+00:00",
       "NumProgressed": 6191,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-18T19:05:12.0737229+00:00",
+      "NumProgressed": 6193,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 34,
@@ -1628,7 +1633,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "ACH11",
@@ -1660,7 +1665,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2414
+      "UsersEstimate": 2415
     },
     {
       "ID": "ACH15",
@@ -1684,7 +1689,7 @@
       "Name": "Gun for Hire",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ACH18",
@@ -1716,7 +1721,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2662
+      "UsersEstimate": 2663
     },
     {
       "ID": "ACH22",
@@ -1724,7 +1729,7 @@
       "Name": "Life of the Party",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "ACH23",
@@ -1772,7 +1777,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "ACH29",
@@ -1788,7 +1793,7 @@
       "Name": "Mischief Managed",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ACH31",
@@ -1827,7 +1832,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6191,
+      "Progressed": 6193,
       "Completed": 22
     }
   ],
@@ -1835,8 +1840,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-17T13:04:15.6274807+00:00",
-  "LastChanged_Achievements": "2023-05-18T18:05:52.7916355+00:00",
+  "LastChanged_Achievements": "2023-05-18T19:05:12.0737222+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:12.215908+00:00",
-  "LastUpdate_Ratings": "2023-05-18T17:58:29.5066445+00:00",
-  "LastUpdate_Achievements": "2023-05-18T18:05:52.7916904+00:00"
+  "LastUpdate_Ratings": "2023-05-18T18:58:12.2058684+00:00",
+  "LastUpdate_Achievements": "2023-05-18T19:05:12.0737539+00:00"
 }

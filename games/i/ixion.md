@@ -30,12 +30,12 @@ Rating: 4.55 (Ranked 467)
 | BRAWL! | 0.50% | ~10 |
 | From the Past | 0.50% | ~10 |
 | Man's Best Friend | 0.40% | ~8 |
+| Oats | 0.40% | ~8 |
 | ...  in a finite world | 0.40% | ~8 |
 | In Dolos We Trust | 0.40% | ~8 |
 | Praise the Hull! | 0.40% | ~8 |
 | All in Good Health | 0.40% | ~8 |
 | Pulsar Disciple | 0.40% | ~8 |
-| Oats | 0.30% | ~6 |
 | What They Hide From Us | 0.30% | ~6 |
 | Delivery! | 0.30% | ~6 |
 | Pedal to the Metal | 0.30% | ~6 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 467)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,915 (Ranked 146)  
+Progressed: 1,916 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-15 | 1,898 | 0 |
 | 2023-05-16 | 1,908 | 0 |
 | 2023-05-17 | 1,911 | 0 |
-| 2023-05-18 | 1,915 | 0 |
+| 2023-05-18 | 1,916 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
