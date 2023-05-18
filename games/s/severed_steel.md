@@ -5,15 +5,15 @@ Rating: 4.68 (Ranked 238)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 11.00% | ~44,567 |
-| 50 HEADSHOTS | 10.00% | ~40,515 |
-| SCIENCE AND INDUSTRY | 8.00% | ~32,412 |
-| FINISHED CHAPTER 1 | 7.00% | ~28,361 |
-| 200 HEADSHOTS | 6.00% | ~24,309 |
-| FINISHED CHAPTER 2 | 6.00% | ~24,309 |
+| 100 KILLS | 11.00% | ~44,568 |
+| 50 HEADSHOTS | 10.00% | ~40,517 |
+| SCIENCE AND INDUSTRY | 8.00% | ~32,413 |
+| FINISHED CHAPTER 1 | 7.00% | ~28,362 |
+| 200 HEADSHOTS | 6.00% | ~24,310 |
+| FINISHED CHAPTER 2 | 6.00% | ~24,310 |
 | FINISHED CHAPTER 3 | 5.00% | ~20,258 |
-| FINISHED CHAPTER 4 | 4.00% | ~16,206 |
-| FINISH CHAPTER 5 | 4.00% | ~16,206 |
+| FINISHED CHAPTER 4 | 4.00% | ~16,207 |
+| FINISH CHAPTER 5 | 4.00% | ~16,207 |
 | 1000 KILLS | 3.00% | ~12,155 |
 | FINISH CHAPTER 6 | 3.00% | ~12,155 |
 | CATHARTIC ESCAPISM | 3.00% | ~12,155 |
@@ -58,7 +58,7 @@ Rating: 4.68 (Ranked 238)
 | THE GAMBLER | 0.10% | ~405 |
 | WARRIOR IN A GARDEN | 0.10% | ~405 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 405,154 (Ranked 34)  
+Progressed: 405,166 (Ranked 34)  
 Completed: 30 (0.01%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 30 (0.01%) (Ranked 192)
 | 2023-05-15 | 404,271 | 30 |
 | 2023-05-16 | 404,567 | 30 |
 | 2023-05-17 | 404,868 | 30 |
-| 2023-05-18 | 405,154 | 30 |
+| 2023-05-18 | 405,166 | 30 |
 ## Awards
 Max (Great Boss Battles): 169  (Ranked 277)  
 Sum: 169 (Ranked 368)  

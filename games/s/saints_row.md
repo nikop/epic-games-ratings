@@ -6,41 +6,41 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Side Job | 1.00% | ~293 |
-| First F#@!ing Day | 1.00% | ~293 |
-| Tune Up | 1.00% | ~293 |
-| Optimized | 1.00% | ~293 |
-| Performance Review | 1.00% | ~293 |
-| Making a Name | 1.00% | ~293 |
-| To The Nines | 1.00% | ~293 |
-| Wet Work | 0.90% | ~264 |
-| Landlord | 0.90% | ~264 |
-| Wrecking Ball | 0.90% | ~264 |
-| Food for Thought | 0.90% | ~264 |
-| Finders Keepers | 0.80% | ~234 |
-| A Young Empire | 0.80% | ~234 |
-| Work Ethic | 0.80% | ~234 |
-| Picking Fights | 0.70% | ~205 |
-| Quality Time | 0.60% | ~176 |
+| First F#@!ing Day | 2.00% | ~588 |
+| The Side Job | 1.00% | ~294 |
+| Wet Work | 1.00% | ~294 |
+| Tune Up | 1.00% | ~294 |
+| Optimized | 1.00% | ~294 |
+| Landlord | 1.00% | ~294 |
+| Performance Review | 1.00% | ~294 |
+| Wrecking Ball | 1.00% | ~294 |
+| Making a Name | 1.00% | ~294 |
+| Food for Thought | 1.00% | ~294 |
+| To The Nines | 1.00% | ~294 |
+| Finders Keepers | 0.90% | ~264 |
+| A Young Empire | 0.90% | ~264 |
+| Work Ethic | 0.80% | ~235 |
+| Quality Time | 0.70% | ~206 |
+| Power Players | 0.70% | ~206 |
+| Picking Fights | 0.70% | ~206 |
 | Showdown | 0.60% | ~176 |
-| Power Players | 0.60% | ~176 |
 | Et tu? | 0.60% | ~176 |
 | Took It to The Limit | 0.60% | ~176 |
-| Masters of Santo Ileso | 0.50% | ~146 |
-| Kitted Out | 0.50% | ~146 |
-| The Mechanic | 0.40% | ~117 |
+| Masters of Santo Ileso | 0.50% | ~147 |
+| Kitted Out | 0.50% | ~147 |
+| The Spins | 0.40% | ~118 |
+| The Mechanic | 0.40% | ~118 |
 | Producer Credit | 0.40% | ~4 |
 | Face Off | 0.40% | ~4 |
 | Hijacked | 0.30% | ~88 |
 | We could go home, or… | 0.30% | ~88 |
 | Challenge Accepted | 0.30% | ~88 |
-| The Spins | 0.30% | ~88 |
+| Untouchable | 0.30% | ~88 |
 | A Golden Age | 0.30% | ~88 |
 | Closet Space | 0.30% | ~88 |
 | Hazardous Heist | 0.30% | ~3 |
 | The Professional | 0.20% | ~59 |
 | Chaos Tamer | 0.20% | ~59 |
-| Untouchable | 0.20% | ~59 |
 | Free Refills | 0.20% | ~59 |
 | Neighborly | 0.20% | ~59 |
 | Prankster | 0.20% | ~59 |
@@ -60,8 +60,8 @@ Number of Ratings: 22,103  (23.09.2022)
 | Fiesta Time | 0.10% | ~29 |
 | All Mine | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,298 (Ranked 85)  
-Completed: 18 (0.06%) (Ranked 169)  
+Progressed: 29,380 (Ranked 84)  
+Completed: 19 (0.06%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -88,7 +88,7 @@ Completed: 18 (0.06%) (Ranked 169)
 | 2023-05-15 | 28,177 | 18 |
 | 2023-05-16 | 28,544 | 18 |
 | 2023-05-17 | 28,880 | 18 |
-| 2023-05-18 | 29,298 | 18 |
+| 2023-05-18 | 29,380 | 19 |
 ## Awards
 Max (Extremely Fun): 1,029  (Ranked 133)  
 Sum: 8,333 (Ranked 88)  

@@ -3,8 +3,8 @@
   "Name": "blackolive Production",
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -25,6 +25,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:31:45.6083358+00:00",
-  "LastUpdate_Ratings": "2023-05-18T19:58:58.6295917+00:00",
-  "LastUpdate_Achievements": "2023-05-18T20:04:36.7406164+00:00"
+  "LastUpdate_Ratings": "2023-05-18T20:58:54.9504425+00:00",
+  "LastUpdate_Achievements": "2023-05-18T21:04:16.8841116+00:00"
 }

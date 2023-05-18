@@ -6,13 +6,13 @@
 | ---- | ---------- | ----- |
 | Breaking Free | 33.00% | ~2 |
 | Crystal Hunter | 17.00% | ~1 |
+| Fence-Sitter | 17.00% | ~1 |
 | Danger | 17.00% | ~1 |
 | My Turn | 0.00% | ~0 |
 | Column Crusher | 0.00% | ~0 |
 | Armor Annihilator | 0.00% | ~0 |
 | Overcoming Weakness | 0.00% | ~0 |
 | Boulder Breaker | 0.00% | ~0 |
-| Fence-Sitter | 0.00% | ~0 |
 | Bye-Bye, Butcher | 0.00% | ~0 |
 | Rejected Parasite | 0.00% | ~0 |
 | Green Thumb | 0.00% | ~0 |

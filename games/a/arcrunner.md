@@ -11,7 +11,7 @@
 | Terminated I | 63.00% | ~47 |
 | Unlocked and Loaded | 59.00% | ~44 |
 | Terminated II | 49.00% | ~37 |
-| Terminated III | 36.00% | ~27 |
+| Terminated III | 37.00% | ~28 |
 | Nanonic II | 32.00% | ~24 |
 | Challenge Mastered | 27.00% | ~20 |
 | The City | 24.00% | ~18 |
@@ -33,7 +33,7 @@
 | Hard Boiled | 1.00% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75 (Ranked 266)  
+Progressed: 75 (Ranked 267)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |

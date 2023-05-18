@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 5,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -4485,9 +4485,9 @@
       "Count": 823
     }
   ],
-  "EOS_Progressed": 81564,
+  "EOS_Progressed": 81681,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25673,
+  "EOS_NewPlayers": 25453,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5690,6 +5690,11 @@
       "Time": "2023-05-18T20:07:18.4553845+00:00",
       "NumProgressed": 81564,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-18T21:07:01.4864394+00:00",
+      "NumProgressed": 81681,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 65,
@@ -5701,15 +5706,15 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 51385
+      "UsersEstimate": 51459
     },
     {
       "ID": "affinity_resolute_first_time",
       "SetID": "64l4lke",
       "Name": "Serenity Now!",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 34257
+      "UsersEstimate": 35123
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -5717,7 +5722,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 9788
+      "UsersEstimate": 9802
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -5733,7 +5738,7 @@
       "Name": "Resurrection",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 45676
+      "UsersEstimate": 45741
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -5741,7 +5746,7 @@
       "Name": "Unleash Hell",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 52201
+      "UsersEstimate": 52276
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -5749,7 +5754,7 @@
       "Name": "Funny Guy",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 51385
+      "UsersEstimate": 51459
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
@@ -5757,7 +5762,7 @@
       "Name": "Long Live the King",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 50570
+      "UsersEstimate": 50642
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -5765,7 +5770,7 @@
       "Name": "Wyrdly Reconstructed",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 47307
+      "UsersEstimate": 47375
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -5773,7 +5778,7 @@
       "Name": "Boxcar Kid",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 45676
+      "UsersEstimate": 45741
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -5781,7 +5786,7 @@
       "Name": "Unfulfilled Desires",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 52201
+      "UsersEstimate": 52276
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -5789,7 +5794,7 @@
       "Name": "The World As It Was",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1631
+      "UsersEstimate": 1634
     },
     {
       "ID": "altar_of_hope_upgrade_total_half",
@@ -5797,15 +5802,15 @@
       "Name": "This Looks Familiar",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 26916
+      "UsersEstimate": 26955
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
       "SetID": "64l4lke",
       "Name": "Hope Rekindled",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 36704
+      "UsersEstimate": 37573
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -5821,7 +5826,7 @@
       "Name": "Predator",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 8972
+      "UsersEstimate": 8985
     },
     {
       "ID": "combat_kill_antiquarian",
@@ -5829,7 +5834,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 6525
+      "UsersEstimate": 6534
     },
     {
       "ID": "combat_kill_cadavers",
@@ -5837,7 +5842,7 @@
       "Name": "Dissector",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 4078
+      "UsersEstimate": 4084
     },
     {
       "ID": "combat_kill_cosmic",
@@ -5845,7 +5850,7 @@
       "Name": "Banishment",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 13050
+      "UsersEstimate": 13069
     },
     {
       "ID": "combat_kill_death",
@@ -5853,7 +5858,7 @@
       "Name": "Not Today!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 6525
+      "UsersEstimate": 6534
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -5861,7 +5866,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 19575
+      "UsersEstimate": 19603
     },
     {
       "ID": "combat_kill_fanatics",
@@ -5869,7 +5874,7 @@
       "Name": "Deprogramming",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2447
+      "UsersEstimate": 2450
     },
     {
       "ID": "combat_kill_fisherfolk",
@@ -5885,7 +5890,7 @@
       "Name": "Now Stay Dead",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 17128
+      "UsersEstimate": 17153
     },
     {
       "ID": "combat_kill_gentry",
@@ -5901,7 +5906,7 @@
       "Name": "Meat and Greet",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 11419
+      "UsersEstimate": 11435
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -5909,7 +5914,7 @@
       "Name": "Clearing the Ledger",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "combat_kill_leviathan",
@@ -5917,7 +5922,7 @@
       "Name": "Catch and Decease",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 6525
+      "UsersEstimate": 6534
     },
     {
       "ID": "combat_kill_librarian",
@@ -5925,7 +5930,7 @@
       "Name": "Overdue Notice",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 16313
+      "UsersEstimate": 16336
     },
     {
       "ID": "combat_kill_pillagers",
@@ -5933,7 +5938,7 @@
       "Name": "Reverse Banditry",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 8156
+      "UsersEstimate": 8168
     },
     {
       "ID": "combat_kill_shambler",
@@ -5941,7 +5946,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 8972
+      "UsersEstimate": 8985
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -5973,7 +5978,7 @@
       "Name": "It Happens",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 8972
+      "UsersEstimate": 8985
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -5981,7 +5986,7 @@
       "Name": "Hat Trick",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 3263
+      "UsersEstimate": 3267
     },
     {
       "ID": "driving_biome_clear_cave",
@@ -5989,7 +5994,7 @@
       "Name": "Spelunker",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 10603
+      "UsersEstimate": 10619
     },
     {
       "ID": "driving_biome_clear_city",
@@ -5997,15 +6002,15 @@
       "Name": "Rush Hour",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 42413
+      "UsersEstimate": 42474
     },
     {
       "ID": "driving_biome_clear_coast",
       "SetID": "64l4lke",
       "Name": "Merry Time",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 19575
+      "UsersEstimate": 20420
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -6013,7 +6018,7 @@
       "Name": "Harvest Festival",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 20391
+      "UsersEstimate": 20420
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -6021,7 +6026,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 42413
+      "UsersEstimate": 42474
     },
     {
       "ID": "driving_distance_easy",
@@ -6029,7 +6034,7 @@
       "Name": "Ramble On",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 29363
+      "UsersEstimate": 29405
     },
     {
       "ID": "driving_distance_hard",
@@ -6053,7 +6058,7 @@
       "Name": "Autodidact",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 12235
+      "UsersEstimate": 12252
     },
     {
       "ID": "hero_story_complete_all",
@@ -6061,7 +6066,7 @@
       "Name": "Shrine of Reflection",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 5709
+      "UsersEstimate": 5718
     },
     {
       "ID": "hero_story_complete_any",
@@ -6069,7 +6074,7 @@
       "Name": "A Clear Conscience",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 53017
+      "UsersEstimate": 53093
     },
     {
       "ID": "hoarder_buy_epic_trinket",
@@ -6077,7 +6082,7 @@
       "Name": "Whale",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 17128
+      "UsersEstimate": 17153
     },
     {
       "ID": "hospital_full_service",
@@ -6085,7 +6090,7 @@
       "Name": "Triage",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "inn_first_time",
@@ -6093,15 +6098,15 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 75855
+      "UsersEstimate": 75963
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
       "SetID": "64l4lke",
       "Name": "When You Want Something Done Right",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4894
+      "UsersEstimate": 5718
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -6109,7 +6114,7 @@
       "Name": "FNG",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 16313
+      "UsersEstimate": 16336
     },
     {
       "ID": "inn_visit_all_variants",
@@ -6133,7 +6138,7 @@
       "Name": "Utopia",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3263
+      "UsersEstimate": 3267
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -6149,7 +6154,7 @@
       "Name": "Nope",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 31810
+      "UsersEstimate": 31856
     },
     {
       "ID": "run_victory_act01",
@@ -6157,7 +6162,7 @@
       "Name": "Unshackled",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 50570
+      "UsersEstimate": 50642
     },
     {
       "ID": "run_victory_act02",
@@ -6165,7 +6170,7 @@
       "Name": "Hot Air",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 22838
+      "UsersEstimate": 22871
     },
     {
       "ID": "run_victory_act03",
@@ -6173,7 +6178,7 @@
       "Name": "Eyes Up",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 10603
+      "UsersEstimate": 10619
     },
     {
       "ID": "run_victory_act04",
@@ -6181,7 +6186,7 @@
       "Name": "Handled",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 6525
+      "UsersEstimate": 6534
     },
     {
       "ID": "run_victory_act05",
@@ -6189,7 +6194,7 @@
       "Name": "Body of Work",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 3263
+      "UsersEstimate": 3267
     },
     {
       "ID": "run_victory_all_confessions_back_to_back",
@@ -6213,22 +6218,22 @@
       "Name": "Road Trip",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 10603
+      "UsersEstimate": 10619
     }
   ],
   "AchievementSets": [
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 81564,
+      "Progressed": 81681,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-05-18T18:00:39.1944668+00:00",
-  "LastChanged_Achievements": "2023-05-18T20:07:18.4553839+00:00",
+  "LastChanged_Achievements": "2023-05-18T21:07:01.4864387+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:47.1887631+00:00",
-  "LastUpdate_Ratings": "2023-05-18T20:01:20.7523212+00:00",
-  "LastUpdate_Achievements": "2023-05-18T20:07:18.4554559+00:00"
+  "LastUpdate_Ratings": "2023-05-18T21:01:08.1504125+00:00",
+  "LastUpdate_Achievements": "2023-05-18T21:07:01.4865131+00:00"
 }

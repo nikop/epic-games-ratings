@@ -4086,9 +4086,9 @@
       "Count": 347
     }
   ],
-  "EOS_Progressed": 703057,
+  "EOS_Progressed": 703063,
   "EOS_Completed": 12731,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -6241,6 +6241,11 @@
       "Time": "2023-05-18T20:07:14.4720139+00:00",
       "NumProgressed": 703057,
       "NumCompleted": 12731
+    },
+    {
+      "Time": "2023-05-18T21:06:57.8045045+00:00",
+      "NumProgressed": 703063,
+      "NumCompleted": 12731
     }
   ],
   "TotalAchievements": 50,
@@ -6268,7 +6273,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5624
+      "UsersEstimate": 5625
     },
     {
       "ID": "04_Vengeance_H3",
@@ -6276,7 +6281,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5624
+      "UsersEstimate": 5625
     },
     {
       "ID": "05_Vengeance_H4",
@@ -6436,7 +6441,7 @@
       "Name": "State of constant learning",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5624
+      "UsersEstimate": 5625
     },
     {
       "ID": "25_ShrineMind",
@@ -6452,7 +6457,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5624
+      "UsersEstimate": 5625
     },
     {
       "ID": "27_ShrineBody",
@@ -6532,7 +6537,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5624
+      "UsersEstimate": 5625
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -6540,7 +6545,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5624
+      "UsersEstimate": 5625
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -6596,7 +6601,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -6651,21 +6656,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 12358,
+      "Progressed": 12364,
       "Completed": 10121
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 703057,
+      "Progressed": 703063,
       "Completed": 12731
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-18T11:59:31.6045442+00:00",
-  "LastChanged_Achievements": "2023-05-18T20:07:14.4720128+00:00",
+  "LastChanged_Achievements": "2023-05-18T21:06:57.8045038+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:53.7388155+00:00",
-  "LastUpdate_Ratings": "2023-05-18T19:59:49.6786987+00:00",
-  "LastUpdate_Achievements": "2023-05-18T20:07:14.4721093+00:00"
+  "LastUpdate_Ratings": "2023-05-18T20:59:43.8206005+00:00",
+  "LastUpdate_Achievements": "2023-05-18T21:06:57.8045606+00:00"
 }

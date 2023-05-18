@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -750,9 +750,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5697,
+  "EOS_Progressed": 5699,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2190,6 +2190,11 @@
       "Time": "2023-05-18T20:02:45.3236164+00:00",
       "NumProgressed": 5697,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-18T21:02:19.8600959+00:00",
+      "NumProgressed": 5699,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -2233,7 +2238,7 @@
       "Name": "Commodity Trader",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1823
+      "UsersEstimate": 1824
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -2241,7 +2246,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 3589
+      "UsersEstimate": 3590
     },
     {
       "ID": "Control_All_Relics",
@@ -2265,7 +2270,7 @@
       "Name": "Xenocide",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1880
+      "UsersEstimate": 1881
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -2281,7 +2286,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1766
+      "UsersEstimate": 1767
     },
     {
       "ID": "First_Major_Ally",
@@ -2305,7 +2310,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4501
+      "UsersEstimate": 4502
     },
     {
       "ID": "First_Race_Met",
@@ -2313,7 +2318,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4159
+      "UsersEstimate": 4160
     },
     {
       "ID": "First_Ship_Designed",
@@ -2321,7 +2326,7 @@
       "Name": "Design a Ship",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1595
+      "UsersEstimate": 1596
     },
     {
       "ID": "First_Stream_Travel",
@@ -2337,7 +2342,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4444
+      "UsersEstimate": 4445
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -2417,7 +2422,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 1994
+      "UsersEstimate": 1995
     },
     {
       "ID": "Play_1000_Hours",
@@ -2505,7 +2510,7 @@
       "Name": "Commodity Seller",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -2521,7 +2526,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3532
+      "UsersEstimate": 3533
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -2689,7 +2694,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 3817
+      "UsersEstimate": 3818
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -2776,15 +2781,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 5697,
+      "Progressed": 5699,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-05-13T13:57:10.2538669+00:00",
-  "LastChanged_Achievements": "2023-05-18T20:02:45.3236157+00:00",
+  "LastChanged_Achievements": "2023-05-18T21:02:19.8600952+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:16.807588+00:00",
-  "LastUpdate_Ratings": "2023-05-18T19:57:26.0948123+00:00",
-  "LastUpdate_Achievements": "2023-05-18T20:02:45.3237619+00:00"
+  "LastUpdate_Ratings": "2023-05-18T20:57:19.0738381+00:00",
+  "LastUpdate_Achievements": "2023-05-18T21:02:19.8601881+00:00"
 }

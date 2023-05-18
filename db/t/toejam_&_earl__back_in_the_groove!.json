@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 54498,
+  "EOS_Progressed": 54502,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -1852,6 +1852,11 @@
       "Time": "2023-05-18T19:05:42.2240078+00:00",
       "NumProgressed": 54498,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-18T21:07:10.5903696+00:00",
+      "NumProgressed": 54502,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -1863,7 +1868,7 @@
       "Name": "Achievement Achiever",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "BackerVisitor",
@@ -1887,7 +1892,7 @@
       "Name": "Boom Box Wipeout",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "CantBelieve",
@@ -1903,7 +1908,7 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ElfChaser",
@@ -1919,7 +1924,7 @@
       "Name": "Map Explorer",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "FallFest",
@@ -1943,7 +1948,7 @@
       "Name": "Flying Present Ultimate Master",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "FoodTaster",
@@ -1967,7 +1972,7 @@
       "Name": "Found All The Backers!",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "FunklordPower",
@@ -1975,7 +1980,7 @@
       "Name": "FunkLord Power",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Generous",
@@ -1983,7 +1988,7 @@
       "Name": "Ridiculously Generous",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "GetThemAll",
@@ -1991,7 +1996,7 @@
       "Name": "Gotta Get \u0027Em All",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "GimmieMyPresentBack",
@@ -1999,7 +2004,7 @@
       "Name": "Gimme My Presents Back!",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "HFZGoober",
@@ -2031,7 +2036,7 @@
       "Name": "Is This Really Possible?",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "LevelDiver",
@@ -2055,7 +2060,7 @@
       "Name": "Lord Of The HFZ",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "MadHatter",
@@ -2063,7 +2068,7 @@
       "Name": "Mad Hatter",
       "Percentage": 0.1,
       "XP": 70,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "MadeIt",
@@ -2079,7 +2084,7 @@
       "Name": "99 Problems (But A Buck Ain\u0027t One)",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "NinePlayers",
@@ -2087,7 +2092,7 @@
       "Name": "Nine Funkotronians",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "OldSchool",
@@ -2103,7 +2108,7 @@
       "Name": "Pacifist Victory",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "PieceOfCake",
@@ -2127,7 +2132,7 @@
       "Name": "Rhythm Star",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "RiskTaker",
@@ -2143,7 +2148,7 @@
       "Name": "I\u0027m A Total Saint",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "SantasBag",
@@ -2151,7 +2156,7 @@
       "Name": "Cleaning Out Santa\u0027s Sack",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "SecretLevel",
@@ -2191,7 +2196,7 @@
       "Name": "The Worst Possible Luck",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ThrillSeeker",
@@ -2239,7 +2244,7 @@
       "Name": "Why Do I Keep Doing That?",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "YouDidIt",
@@ -2247,14 +2252,14 @@
       "Name": "Hey, You Did It!",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     }
   ],
   "AchievementSets": [
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 54498,
+      "Progressed": 54502,
       "Completed": 4
     }
   ],
@@ -2262,8 +2267,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-05-18T20:07:28.6986945+00:00",
+  "LastChanged_Achievements": "2023-05-18T21:07:10.590369+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:28.6185244+00:00",
-  "LastUpdate_Ratings": "2023-05-18T20:02:30.2443565+00:00",
-  "LastUpdate_Achievements": "2023-05-18T20:07:28.69878+00:00"
+  "LastUpdate_Ratings": "2023-05-18T21:02:05.5705+00:00",
+  "LastUpdate_Achievements": "2023-05-18T21:07:10.5904261+00:00"
 }

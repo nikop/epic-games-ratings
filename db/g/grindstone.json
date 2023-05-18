@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 105,
   "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
     "PcReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -475,9 +475,9 @@
       "ID": "ACHIEVE_JERK_ATTACK_JERK",
       "SetID": "b8l3p0g",
       "Name": "Stop Hitting Each Other",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 607
+      "UsersEstimate": 657
     },
     {
       "ID": "ACHIEVE_JERK_POISON_DEATH",
@@ -683,8 +683,8 @@
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-04-17T23:58:07.4922283+00:00",
-  "LastChanged_Achievements": "2023-05-18T20:07:29.4022928+00:00",
+  "LastChanged_Achievements": "2023-05-18T21:07:11.3969829+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:55.926984+00:00",
-  "LastUpdate_Ratings": "2023-05-18T20:01:35.4399412+00:00",
-  "LastUpdate_Achievements": "2023-05-18T20:07:29.4023622+00:00"
+  "LastUpdate_Ratings": "2023-05-18T21:01:19.9754823+00:00",
+  "LastUpdate_Achievements": "2023-05-18T21:07:11.3970296+00:00"
 }

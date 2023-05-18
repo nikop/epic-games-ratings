@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 890,
+  "EOS_Progressed": 892,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -515,6 +515,11 @@
       "Time": "2023-05-18T18:06:26.1797058+00:00",
       "NumProgressed": 890,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-18T21:06:58.3666575+00:00",
+      "NumProgressed": 892,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -526,7 +531,7 @@
       "Name": "Agent 47",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "Auditor",
@@ -558,7 +563,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "Commandos",
@@ -598,7 +603,7 @@
       "Name": "Lock, Stock",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "E1M1",
@@ -606,7 +611,7 @@
       "Name": "E1M1",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "Everyone_is_here",
@@ -638,7 +643,7 @@
       "Name": "Grenadier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "Hard_Serpent",
@@ -710,7 +715,7 @@
       "Name": "Bomberman",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "MoskitoBite",
@@ -742,7 +747,7 @@
       "Name": "War Never Changes",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "We_were_not_here",
@@ -765,15 +770,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 890,
+      "Progressed": 892,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-05-18T20:07:14.9964394+00:00",
+  "LastChanged_Achievements": "2023-05-18T21:06:58.3666568+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:11.284496+00:00",
-  "LastUpdate_Ratings": "2023-05-18T20:00:22.0820165+00:00",
-  "LastUpdate_Achievements": "2023-05-18T20:07:14.9964736+00:00"
+  "LastUpdate_Ratings": "2023-05-18T21:00:07.3398695+00:00",
+  "LastUpdate_Achievements": "2023-05-18T21:06:58.3666818+00:00"
 }

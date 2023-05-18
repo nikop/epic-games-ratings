@@ -4,8 +4,8 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
     "PcReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 349,
+  "EOS_Progressed": 351,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.29,
+  "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:10.7474299+00:00",
@@ -52,6 +52,11 @@
       "Time": "2023-05-18T19:05:16.2915689+00:00",
       "NumProgressed": 349,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-18T21:06:40.1266435+00:00",
+      "NumProgressed": 351,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -63,7 +68,7 @@
       "Name": "Batteries Included",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "Award_BigSpender",
@@ -87,7 +92,7 @@
       "Name": "Bumper Car",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Award_BurnThem",
@@ -103,7 +108,7 @@
       "Name": "Clean Sweep",
       "Percentage": 95,
       "XP": 20,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -135,7 +140,7 @@
       "Name": "DocKing",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "Award_EarlyBird",
@@ -151,7 +156,7 @@
       "Name": "Extra Ammo",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Award_FinalAscension",
@@ -167,15 +172,15 @@
       "Name": "First Victory",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Award_Gunner",
       "SetID": "9ojec6n",
       "Name": "Gunner",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 192
+      "UsersEstimate": 197
     },
     {
       "ID": "Award_HalfwayThere",
@@ -191,7 +196,7 @@
       "Name": "Having a Blast",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Award_HazardousDuty",
@@ -199,7 +204,7 @@
       "Name": "Hazardous Duty",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Award_HeavyMetal",
@@ -213,9 +218,9 @@
       "ID": "Award_HullKing",
       "SetID": "9ojec6n",
       "Name": "Hull King",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 91
     },
     {
       "ID": "Award_IntelKing",
@@ -239,7 +244,7 @@
       "Name": "Line of Duty",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "Award_MilitaryIntelligence",
@@ -263,7 +268,7 @@
       "Name": "OP",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Award_PerfectTiming",
@@ -279,7 +284,7 @@
       "Name": "Perk King",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Award_Perky",
@@ -303,7 +308,7 @@
       "Name": "Salvage",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Award_Scavenger",
@@ -311,7 +316,7 @@
       "Name": "Scavenger",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "Award_ShellShock",
@@ -351,7 +356,7 @@
       "Name": "Splash Damage",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Award_Stunning",
@@ -359,7 +364,7 @@
       "Name": "Shocking",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Award_SwissCheese",
@@ -367,7 +372,7 @@
       "Name": "Swiss Cheese",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Award_TheCannoneer",
@@ -375,7 +380,7 @@
       "Name": "The Cannoneer",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Award_TheFirstStep",
@@ -414,7 +419,7 @@
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 349,
+      "Progressed": 351,
       "Completed": 1
     }
   ],
@@ -422,8 +427,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-05-18T20:06:44.3865099+00:00",
+  "LastChanged_Achievements": "2023-05-18T21:06:40.1266428+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:13.0934405+00:00",
-  "LastUpdate_Ratings": "2023-05-18T19:58:47.6954098+00:00",
-  "LastUpdate_Achievements": "2023-05-18T20:06:44.3865923+00:00"
+  "LastUpdate_Ratings": "2023-05-18T20:58:45.3736169+00:00",
+  "LastUpdate_Achievements": "2023-05-18T21:06:40.1266858+00:00"
 }

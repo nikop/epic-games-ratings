@@ -10,6 +10,7 @@ Rating: 4.41 (Ranked 655)
 | Resourceful | 0.40% | ~3 |
 | Taking it back | 0.40% | ~3 |
 | Enemy at the Gates | 0.30% | ~2 |
+| Meeting Resistance | 0.30% | ~2 |
 | The Long Game | 0.30% | ~2 |
 | Precision Is Key | 0.30% | ~2 |
 | Confirming Suspicions | 0.30% | ~2 |
@@ -21,11 +22,12 @@ Rating: 4.41 (Ranked 655)
 | Liberté | 0.10% | ~1 |
 | No Stone Unturned | 0.10% | ~1 |
 | Opposing Force | 0.10% | ~1 |
-| Meeting Resistance | 0.10% | ~1 |
+| Fields of Glory | 0.10% | ~1 |
 | Gunslinger | 0.10% | ~1 |
 | Skirmisher | 0.10% | ~1 |
 | Rigged to Blow | 0.10% | ~1 |
 | Lord of War | 0.10% | ~1 |
+| The Kraken Wakes | 0.10% | ~1 |
 | Burn after reading | 0.10% | ~1 |
 | Brains of the Operation | 0.10% | ~1 |
 | Target America | 0.10% | ~1 |
@@ -36,7 +38,6 @@ Rating: 4.41 (Ranked 655)
 | Ghost of Falaise | 0.10% | ~1 |
 | Operation Overlord | 0.10% | ~1 |
 | Best of the Best | 0.00% | ~0 |
-| Fields of Glory | 0.00% | ~0 |
 | Just a Flesh Wound | 0.00% | ~0 |
 | Organ Grinder | 0.00% | ~0 |
 | Master of Pistols | 0.00% | ~0 |
@@ -50,7 +51,6 @@ Rating: 4.41 (Ranked 655)
 | Explosive Efficiency | 0.00% | ~0 |
 | Die Nussknacker Sweet! | 0.00% | ~0 |
 | Der Geist | 0.00% | ~0 |
-| The Kraken Wakes | 0.00% | ~0 |
 | Close Quarters | 0.00% | ~0 |
 | Snake in the Grass | 0.00% | ~0 |
 | From Paris with Love | 0.00% | ~0 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 655)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 739 (Ranked 176)  
+Progressed: 740 (Ranked 176)  
 Completed: 2 (0.27%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 2 (0.27%) (Ranked 130)
 | 2023-05-15 | 721 | 2 |
 | 2023-05-16 | 723 | 2 |
 | 2023-05-17 | 728 | 2 |
-| 2023-05-18 | 739 | 2 |
+| 2023-05-18 | 740 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

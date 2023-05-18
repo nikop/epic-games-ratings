@@ -2,10 +2,10 @@
   "ID": "654424d5bf5d4687bd06b0354eccf38e",
   "Name": "DESTRUCTURE: Among Debris",
   "ProductSlug": "destructure-among-debris-b4aaf8",
-  "Ranking_EOS_Progress": 273,
+  "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 72,
   "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
     "PcReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -439,9 +439,9 @@
       "ID": "legendary_destructor",
       "SetID": "jig50d",
       "Name": "Legendary Destructor",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "machine_man",
@@ -584,8 +584,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-18T20:02:42.7797187+00:00",
+  "LastChanged_Achievements": "2023-05-18T21:02:17.7911659+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:52.876258+00:00",
-  "LastUpdate_Ratings": "2023-05-18T20:01:31.591546+00:00",
-  "LastUpdate_Achievements": "2023-05-18T20:02:42.7797663+00:00"
+  "LastUpdate_Ratings": "2023-05-18T21:01:15.7069767+00:00",
+  "LastUpdate_Achievements": "2023-05-18T21:02:17.7912002+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 186,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4764,
+  "EOS_Progressed": 4766,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -664,6 +664,11 @@
       "Time": "2023-05-18T13:11:03.1435556+00:00",
       "NumProgressed": 4764,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-18T21:06:59.5746515+00:00",
+      "NumProgressed": 4766,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -731,7 +736,7 @@
       "Name": "Level: Charlie\u0027s Circuits",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "ach_campaign_progress10",
@@ -763,7 +768,7 @@
       "Name": "Level: Extra Life",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ach_campaign_progress3",
@@ -787,7 +792,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2334
+      "UsersEstimate": 2335
     },
     {
       "ID": "ach_campaign_progress6",
@@ -827,7 +832,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1192
     },
     {
       "ID": "ach_campaign_special10",
@@ -923,7 +928,7 @@
       "Name": "Rising Markets: Avoiding the Reds",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ach_campaign_special5",
@@ -1099,7 +1104,7 @@
       "Name": "Data Churn Type I",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ach_frp_researchdata2",
@@ -1282,15 +1287,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4764,
+      "Progressed": 4766,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-05-18T20:07:16.1953018+00:00",
+  "LastChanged_Achievements": "2023-05-18T21:06:59.5746509+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:55.3006294+00:00",
-  "LastUpdate_Ratings": "2023-05-18T19:59:47.3384912+00:00",
-  "LastUpdate_Achievements": "2023-05-18T20:07:16.1953878+00:00"
+  "LastUpdate_Ratings": "2023-05-18T20:59:42.1445236+00:00",
+  "LastUpdate_Achievements": "2023-05-18T21:06:59.5747389+00:00"
 }

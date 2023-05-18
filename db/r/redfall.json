@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -82,9 +82,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1568,
+  "EOS_Progressed": 1569,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1317,6 +1317,11 @@
       "Time": "2023-05-18T19:05:18.2452797+00:00",
       "NumProgressed": 1568,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-18T21:06:42.4898079+00:00",
+      "NumProgressed": 1569,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1352,7 +1357,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "Achievement_006",
@@ -1384,7 +1389,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "Achievement_010",
@@ -1400,7 +1405,7 @@
       "Name": "Block Party",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "Achievement_012",
@@ -1464,7 +1469,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "Achievement_020",
@@ -1512,7 +1517,7 @@
       "Name": "Grounded",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "Achievement_026",
@@ -1520,7 +1525,7 @@
       "Name": "Fly Fisher",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "Achievement_027",
@@ -1536,7 +1541,7 @@
       "Name": "You Clean It Up",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "Achievement_029",
@@ -1576,7 +1581,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "Achievement_034",
@@ -1584,7 +1589,7 @@
       "Name": "Catch and Release",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "Achievement_035",
@@ -1632,7 +1637,7 @@
       "Name": "Heart Attack",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "Achievement_041",
@@ -1855,7 +1860,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1568,
+      "Progressed": 1569,
       "Completed": 0
     }
   ],
@@ -1863,8 +1868,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-17T16:58:07.5093628+00:00",
-  "LastChanged_Achievements": "2023-05-18T20:06:46.8951996+00:00",
+  "LastChanged_Achievements": "2023-05-18T21:06:42.4898066+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:45.0046942+00:00",
-  "LastUpdate_Ratings": "2023-05-18T19:58:07.352035+00:00",
-  "LastUpdate_Achievements": "2023-05-18T20:06:46.8952863+00:00"
+  "LastUpdate_Ratings": "2023-05-18T20:58:02.0723414+00:00",
+  "LastUpdate_Achievements": "2023-05-18T21:06:42.4898892+00:00"
 }

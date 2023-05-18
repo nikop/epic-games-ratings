@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2426,9 +2426,9 @@
       "Count": 368
     }
   ],
-  "EOS_Progressed": 8867,
+  "EOS_Progressed": 8869,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3741,6 +3741,11 @@
       "Time": "2023-05-18T20:07:23.8289044+00:00",
       "NumProgressed": 8867,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-18T21:07:06.2515611+00:00",
+      "NumProgressed": 8869,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3888,7 +3893,7 @@
       "Name": "Mythic Choices",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "19_EqualToAroden",
@@ -4000,7 +4005,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -4624,7 +4629,7 @@
       "Name": "Stay Underground",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "DLC4_24_Hanged Man\u0027s Notes",
@@ -4640,7 +4645,7 @@
       "Name": "Sarkoris Will Be Green",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "DLC4_26_This Wall Won\u0027t Fall",
@@ -4679,21 +4684,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7649,
+      "Progressed": 7651,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8867,
+      "Progressed": 8869,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-18T18:58:13.5927648+00:00",
-  "LastChanged_Achievements": "2023-05-18T20:07:23.8289035+00:00",
+  "LastChanged_Achievements": "2023-05-18T21:07:06.2515603+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:14.2729853+00:00",
-  "LastUpdate_Ratings": "2023-05-18T19:58:49.9814228+00:00",
-  "LastUpdate_Achievements": "2023-05-18T20:07:23.8290769+00:00"
+  "LastUpdate_Ratings": "2023-05-18T20:58:47.3416508+00:00",
+  "LastUpdate_Achievements": "2023-05-18T21:07:06.251736+00:00"
 }

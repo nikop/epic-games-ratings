@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -319,9 +319,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 1513,
+  "EOS_Progressed": 1514,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -484,6 +484,11 @@
       "Time": "2023-05-17T21:06:31.016133+00:00",
       "NumProgressed": 1513,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-18T21:06:40.4032323+00:00",
+      "NumProgressed": 1514,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -503,7 +508,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -727,7 +732,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -789,9 +794,9 @@
       "ID": "ACH_SELF_IMPROVEMENT",
       "SetID": "8j30i9k",
       "Name": "Self-Improvement",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1075
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -807,7 +812,7 @@
       "Name": "That\u2019s All, Folks",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACH_THERE_IS_HOPE",
@@ -871,7 +876,7 @@
       "Name": "Unforgiven",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 1301
+      "UsersEstimate": 1302
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -918,15 +923,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1513,
+      "Progressed": 1514,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-04-18T11:59:25.595754+00:00",
-  "LastChanged_Achievements": "2023-05-18T20:06:44.6788589+00:00",
+  "LastChanged_Achievements": "2023-05-18T21:06:40.4032316+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:23.6187843+00:00",
-  "LastUpdate_Ratings": "2023-05-18T19:59:02.2839174+00:00",
-  "LastUpdate_Achievements": "2023-05-18T20:06:44.6789389+00:00"
+  "LastUpdate_Ratings": "2023-05-18T20:58:58.6318371+00:00",
+  "LastUpdate_Achievements": "2023-05-18T21:06:40.4032842+00:00"
 }

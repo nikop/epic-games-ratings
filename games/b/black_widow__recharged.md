@@ -12,7 +12,7 @@ Number of Ratings: 34  (23.09.2022)
 | Look at Me Now | 28.00% | ~3,986 |
 | Don't Bring Me Down | 20.00% | ~2,847 |
 | The Fall | 18.00% | ~2,563 |
-| Everyone's Born to Die | 16.00% | ~2,278 |
+| Everyone's Born to Die | 17.00% | ~2,420 |
 | Wild West Hero | 14.00% | ~1,993 |
 | In My Own Time | 13.00% | ~1,851 |
 | Caught in a Trap | 12.00% | ~1,708 |

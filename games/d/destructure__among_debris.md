@@ -15,8 +15,8 @@
 | Avaricerite | 6.00% | ~4 |
 | Easy Victory | 6.00% | ~4 |
 | Back From The Dead | 4.00% | ~3 |
+| Legendary Destructor | 4.00% | ~3 |
 | Ball Protector | 3.00% | ~2 |
-| Legendary Destructor | 3.00% | ~2 |
 | Monster of Fashion | 3.00% | ~2 |
 | Single Person On Earth | 3.00% | ~2 |
 | Untouchable | 3.00% | ~2 |
@@ -36,7 +36,7 @@
 | Victory That Is Even More True | 1.00% | ~1 |
 | What Even Are You? | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67 (Ranked 273)  
+Progressed: 67 (Ranked 274)  
 Completed: 1 (1.49%) (Ranked 72)  
 ## EOS Players History
 | Date | Progressed | Completed |

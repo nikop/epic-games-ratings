@@ -5,7 +5,7 @@ Rating: 4.55 (Ranked 467)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 3.00% | ~57 |
+| Wakey Wakey | 3.00% | ~58 |
 | Without Breaking Some Eggs... | 2.00% | ~38 |
 | Infinite Growth... | 2.00% | ~38 |
 | Sputnik 2049 | 2.00% | ~38 |
@@ -26,7 +26,7 @@ Rating: 4.55 (Ranked 467)
 | Necessary Enhancement | 0.70% | ~13 |
 | Convenient Transport | 0.70% | ~13 |
 | Please Make it Stop! | 0.70% | ~13 |
-| Sightseeing | 0.60% | ~11 |
+| Sightseeing | 0.60% | ~12 |
 | BRAWL! | 0.50% | ~10 |
 | All in Good Health | 0.50% | ~10 |
 | From the Past | 0.50% | ~10 |
@@ -37,13 +37,13 @@ Rating: 4.55 (Ranked 467)
 | In Dolos We Trust | 0.40% | ~8 |
 | Praise the Hull! | 0.40% | ~8 |
 | Pulsar Disciple | 0.40% | ~8 |
+| You Had One Job... | 0.30% | ~6 |
 | Delivery! | 0.30% | ~6 |
 | Pedal to the Metal | 0.30% | ~6 |
 | What the Ruins Teach Us | 0.30% | ~6 |
 | Mutual Loyalty | 0.20% | ~4 |
 | Sustainable Energy | 0.20% | ~4 |
 | Catastrophe Avoided | 0.20% | ~4 |
-| You Had One Job... | 0.20% | ~4 |
 | Space Greenhouse | 0.20% | ~4 |
 | Tiqqun Unchained | 0.20% | ~4 |
 | Scientifically Accurate | 0.20% | ~4 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 467)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,916 (Ranked 146)  
+Progressed: 1,922 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-15 | 1,898 | 0 |
 | 2023-05-16 | 1,908 | 0 |
 | 2023-05-17 | 1,911 | 0 |
-| 2023-05-18 | 1,916 | 0 |
+| 2023-05-18 | 1,922 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

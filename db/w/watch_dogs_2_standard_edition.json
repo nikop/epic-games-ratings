@@ -3,12 +3,12 @@
   "Name": "Watch Dogs 2 Standard Edition",
   "ProductSlug": "watch-dogs-2",
   "Ranking_Rating": 401,
-  "Ranking_Popularity": 216,
+  "Ranking_Popularity": 217,
   "Ranking_PopularitySum": 166,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2016-11-15T15:21:00+00:00",
     "PcReleaseDate": null,
@@ -3349,6 +3349,6 @@
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
   "LastChanged": "2023-05-18T19:59:53.7772338+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:58.3582747+00:00",
-  "LastUpdate_Ratings": "2023-05-18T19:59:53.7772348+00:00",
-  "LastUpdate_Achievements": "2023-05-18T20:02:40.188579+00:00"
+  "LastUpdate_Ratings": "2023-05-18T20:59:49.5200215+00:00",
+  "LastUpdate_Achievements": "2023-05-18T21:02:15.4556987+00:00"
 }

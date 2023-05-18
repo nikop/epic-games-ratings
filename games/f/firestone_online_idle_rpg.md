@@ -1,27 +1,27 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 3.69 (Ranked 918)  
+Rating: 3.74 (Ranked 918)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Victor | 94.00% | ~1,010 |
-| World Map | 80.00% | ~859 |
-| Temple of Eternals | 56.00% | ~601 |
-| Prestigious | 52.00% | ~558 |
+| World Map | 80.00% | ~860 |
+| Temple of Eternals | 56.00% | ~602 |
+| Prestigious | 52.00% | ~559 |
 | Fellowship Power | 39.00% | ~419 |
 | Guild Power | 24.00% | ~258 |
 | Prestigious x10 | 20.00% | ~215 |
-| The game is on | 18.00% | ~193 |
+| The game is on | 17.00% | ~183 |
 | Exotic Merchant | 16.00% | ~172 |
 | Dragon Clicker | 15.00% | ~161 |
 | Miner Clicker | 15.00% | ~161 |
-| Inspection | 14.00% | ~150 |
+| Inspection | 14.00% | ~151 |
 | Full Party | 12.00% | ~129 |
 | Hero inspection | 12.00% | ~129 |
 | Dragon Master | 11.00% | ~118 |
-| Enlightenment | 10.00% | ~107 |
-| Lieutenant | 10.00% | ~107 |
+| Enlightenment | 10.00% | ~108 |
+| Lieutenant | 10.00% | ~108 |
 | The Unstoppable | 9.00% | ~97 |
 | Milestone collector | 8.00% | ~86 |
 | Mysterious Rock | 8.00% | ~86 |
@@ -42,14 +42,14 @@ Rating: 3.69 (Ranked 918)
 | Here We Go Again | 3.00% | ~32 |
 | How Do You Turn This On? | 3.00% | ~32 |
 | Missions Dedication | 3.00% | ~32 |
-| Doing My Part | 2.00% | ~21 |
-| Dragon Slayer | 2.00% | ~21 |
-| Engineer Mastery | 2.00% | ~21 |
-| Master Enchanter | 2.00% | ~21 |
-| The father of Dragons | 2.00% | ~21 |
-| Trader | 2.00% | ~21 |
-| Weekly Quest Completionist | 2.00% | ~21 |
-| What lies behind the bush | 2.00% | ~21 |
+| Doing My Part | 2.00% | ~22 |
+| Dragon Slayer | 2.00% | ~22 |
+| Engineer Mastery | 2.00% | ~22 |
+| Master Enchanter | 2.00% | ~22 |
+| The father of Dragons | 2.00% | ~22 |
+| Trader | 2.00% | ~22 |
+| Weekly Quest Completionist | 2.00% | ~22 |
+| What lies behind the bush | 2.00% | ~22 |
 | Lock And Load | 1.00% | ~11 |
 | Relic Of The Past | 1.00% | ~11 |
 | Active Member | 0.90% | ~10 |
@@ -81,7 +81,7 @@ Rating: 3.69 (Ranked 918)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,074 (Ranked 162)  
+Progressed: 1,075 (Ranked 162)  
 Completed: 1 (0.09%) (Ranked 162)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 1 (0.09%) (Ranked 162)
 | 2023-05-15 | 1,032 | 1 |
 | 2023-05-16 | 1,047 | 1 |
 | 2023-05-17 | 1,057 | 1 |
-| 2023-05-18 | 1,074 | 1 |
+| 2023-05-18 | 1,075 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -119,4 +119,4 @@ Completed: 1 (0.09%) (Ranked 162)
 | 2023-05-10 | 3.55 | 0 | 0 |
 | 2023-05-11 | 3.61 | 0 | 0 |
 | 2023-05-12 | 3.64 | 0 | 0 |
-| 2023-05-18 | 3.69 | 0 | 0 |
+| 2023-05-18 | 3.74 | 0 | 0 |

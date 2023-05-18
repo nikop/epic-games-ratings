@@ -1,37 +1,37 @@
 # Spirit of the North
 [Store](https://store.epicgames.com/en-US/p/spirit-of-the-north-f58a66)  
 [View Rawdata](../../db/s/spirit_of_the_north.json)  
-Rating: 4.36 (Ranked 710)  
+Rating: 4.36 (Ranked 709)  
 Number of Ratings: 1,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 67.00% | ~36,500 |
-| INFUSED WITH LIGHT | 52.00% | ~28,328 |
-| FOXIN' AROUND | 28.00% | ~15,254 |
-| FETCH | 27.00% | ~14,709 |
-| BLOOMS OF LIGHT | 26.00% | ~14,164 |
-| BEST FRIENDS | 22.00% | ~11,985 |
-| AWAKEN | 21.00% | ~11,440 |
-| ERADICATE | 20.00% | ~10,895 |
-| SPIRIT BARK | 20.00% | ~10,895 |
-| GARDEN OF LIGHT | 18.00% | ~9,806 |
+| A GUARDIAN FORGOTTEN | 67.00% | ~36,503 |
+| INFUSED WITH LIGHT | 52.00% | ~28,331 |
+| FOXIN' AROUND | 28.00% | ~15,255 |
+| FETCH | 27.00% | ~14,710 |
+| BLOOMS OF LIGHT | 26.00% | ~14,165 |
+| BEST FRIENDS | 22.00% | ~11,986 |
+| AWAKEN | 21.00% | ~11,441 |
+| ERADICATE | 20.00% | ~10,896 |
+| SPIRIT BARK | 20.00% | ~10,896 |
+| GARDEN OF LIGHT | 18.00% | ~9,807 |
 | SPIRIT FORM | 15.00% | ~8,172 |
 | WRITTEN IN STONE | 15.00% | ~8,172 |
 | UPROOTING DARKNESS | 14.00% | ~7,627 |
-| WEIGHTLESS | 11.00% | ~5,992 |
+| WEIGHTLESS | 11.00% | ~5,993 |
 | SPIRIT DASH | 10.00% | ~5,448 |
-| OLD COMPANION | 8.00% | ~4,358 |
-| PLAGUE DOCTOR | 8.00% | ~4,358 |
-| MATCH MAKER | 7.00% | ~3,813 |
-| NORTHERN LIGHTS | 7.00% | ~3,813 |
-| SPIRITED AWAY | 7.00% | ~3,813 |
+| OLD COMPANION | 8.00% | ~4,359 |
+| PLAGUE DOCTOR | 8.00% | ~4,359 |
+| MATCH MAKER | 7.00% | ~3,814 |
+| NORTHERN LIGHTS | 7.00% | ~3,814 |
+| SPIRITED AWAY | 7.00% | ~3,814 |
 | FOX? OR FLYING SQUIRREL? | 3.00% | ~1,634 |
 | ANCIENT HISTORY | 2.00% | ~1,090 |
 | NONE FORGOTTEN | 2.00% | ~1,090 |
 | KINDRED SPIRITS | 0.60% | ~327 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,477 (Ranked 73)  
+Progressed: 54,482 (Ranked 73)  
 Completed: 257 (0.47%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,7 +59,7 @@ Completed: 257 (0.47%) (Ranked 108)
 | 2023-05-15 | 54,154 | 252 |
 | 2023-05-16 | 54,253 | 252 |
 | 2023-05-17 | 54,374 | 254 |
-| 2023-05-18 | 54,477 | 257 |
+| 2023-05-18 | 54,482 | 257 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 465)  
 Sum: 93 (Ranked 401)  
