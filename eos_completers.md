@@ -82,7 +82,7 @@
 | 80 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.21% |
 | 81 | [Late Shift](games/l/late_shift.md) | 1.17% |
 | 82 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.16% |
-| 83 | [Them and Us](games/t/them_and_us.md) | 1.11% |
+| 83 | [Them and Us](games/t/them_and_us.md) | 1.10% |
 | 84 | [Ten Dates](games/t/ten_dates.md) | 1.03% |
 | 85 | [Sable](games/s/sable.md) | 0.93% |
 | 86 | [Dungeons 3](games/d/dungeons_3.md) | 0.92% |

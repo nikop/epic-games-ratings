@@ -58,7 +58,7 @@
 | 55 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.83 | 0 | 492 |
 | 55 | [The Last Campfire](games/t/the_last_campfire.md) | 4.83 | 0 | 492 |
 | 55 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 82 | 347 |
-| 59 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,294 | 119 |
+| 59 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,297 | 118 |
 | 59 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,487 | 58 |
 | 59 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.82 | 0 | 492 |
 | 59 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 492 |
@@ -200,7 +200,7 @@
 | 191 | [House Flipper](games/h/house_flipper.md) | 4.70 | 286 | 226 |
 | 191 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 50 | 388 |
 | 191 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.70 | 0 | 492 |
-| 191 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,295 | 118 |
+| 191 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,295 | 119 |
 | 191 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 0 | 492 |
 | 191 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,820 | 106 |
 | 191 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.70 | 0 | 492 |
@@ -916,8 +916,8 @@
 | 914 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.75 | 0 | 492 |
 | 914 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 0 | 492 |
 | 914 | [Poker Club](games/p/poker_club.md) | 3.75 | 0 | 492 |
-| 917 | [Blood of Steel](games/b/blood_of_steel.md) | 3.67 | 0 | 492 |
-| 918 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.64 | 0 | 492 |
+| 917 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.69 | 0 | 492 |
+| 918 | [Blood of Steel](games/b/blood_of_steel.md) | 3.67 | 0 | 492 |
 | 919 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 3.55 | 0 | 492 |
 | 920 | [Redfall](games/r/redfall.md) | 3.50 | 0 | 492 |
 | 921 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.48 | 0 | 492 |

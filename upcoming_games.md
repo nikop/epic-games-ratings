@@ -7,6 +7,7 @@
 | [The Inheritance of Crimson Manor](games/t/the_inheritance_of_crimson_manor.md) | 2023-05-18 | 2022-05-05 |
 | [Return to Monkey Island](games/6/652423874791471c8ed723e94d43062b.md) | 2023-05-18 | 2022-09-19 |
 | [The Outlast Trials](games/t/the_outlast_trials.md) | 2023-05-18 | 2023-05-18 |
+| [The Empress of Mahjong](games/r/royal_defense.md) | 2023-05-18 | 2023-05-10 |
 | [Without Escape](games/w/without_escape.md) | 2023-05-18 | 2018-04-23 |
 | [Riftbound](games/r/riftbound.md) | 2023-05-18 | 2022-05-12 |
 | [Backbeat](games/b/backbeat.md) | 2023-05-19 | 2023-03-16 |
@@ -20,6 +21,7 @@
 | [Amnesia: The Bunker](games/a/amnesia__the_bunker.md) | 2023-05-23 | 2023-05-23 |
 | [Planet of Lana](games/p/planet_of_lana.md) | 2023-05-23 | 2023-05-23 |
 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 2023-05-23 | 2023-05-23 |
+| [The Creepy Syndrome](games/f/f2ed44898a204bee866836b9b659bce4.md) | 2023-05-23 | 2023-04-27 |
 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 2023-05-23 | 2023-05-23 |
 | [Skeletal Avengers](games/d/d2dcfb91f59d4880b8a5e6fe2aa64a7e.md) | 2023-05-24 | 2021-09-28 |
 | [Tuk Tuk Race](games/t/tuk_tuk_race.md) | 2023-05-25 | 2023-05-25 |
@@ -302,7 +304,6 @@
 | [Ravenswatch](games/r/ravenswatch.md) | 2099-01-01 | 2099-01-01 |
 | [Relic Space](games/r/relic_space.md) | 2099-01-01 | 2023-03-09 |
 | [Robobeat](games/r/robobeat.md) | 2099-01-01 | 2099-01-01 |
-| [Royal Defense](games/r/royal_defense.md) | 2099-01-01 | 2014-11-05 |
 | [Runa and the Chaikuru Legacy](games/r/runa_and_the_chaikuru_legacy.md) | 2099-01-01 | 2099-01-01 |
 | [Saviorless](games/s/saviorless.md) | 2099-01-01 | 2099-01-01 |
 | [Seafrog](games/s/seafrog.md) | 2099-01-01 | 2099-01-01 |
@@ -331,7 +332,6 @@
 | [The Alters](games/t/the_alters.md) | 2099-01-01 | 2099-01-01 |
 | [The Captain is Dead](games/t/the_captain_is_dead.md) | 2099-01-01 | 2021-02-01 |
 | [The Cecil The Journey Begins](games/t/the_cecil_the_journey_begins.md) | 2099-01-01 | 2099-01-01 |
-| [The Creepy Syndrome](games/f/f2ed44898a204bee866836b9b659bce4.md) | 2099-01-01 | 2023-04-27 |
 | [The Crown of Wu](games/t/the_crown_of_wu.md) | 2099-01-01 | 2099-01-01 |
 | [The Dead Await](games/t/the_dead_await.md) | 2099-01-01 | 2099-01-01 |
 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 2099-01-01 | 2099-01-01 |
