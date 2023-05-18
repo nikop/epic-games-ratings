@@ -1,6 +1,5 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [The Empress of Mahjong](games/r/royal_defense.md) | 2023-05-18 | 2023-05-10 |
 | [Without Escape](games/w/without_escape.md) | 2023-05-18 | 2018-04-23 |
 | [Riftbound](games/r/riftbound.md) | 2023-05-18 | 2022-05-12 |
 | [Backbeat](games/b/backbeat.md) | 2023-05-19 | 2023-03-16 |
@@ -88,6 +87,7 @@
 | [XR22-SEAGUARD](games/a/a7a640d2ef344fe981c58f45405d1e2e.md) | 2023-06-30 | 2023-06-30 |
 | [Yomi 2](games/y/yomi_2.md) | 2023-06-30 | 2023-06-30 |
 | [Full Metal Sergeant](games/f/full_metal_sergeant.md) | 2023-07-07 | 2023-04-03 |
+| [Cramped Room of Death](games/c/cramped_room_of_death.md) | 2023-07-19 | 2023-07-19 |
 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 2023-07-20 | 2023-07-20 |
 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 2023-07-31 | 2023-07-31 |
 | [Paw Paw Destiny](games/p/paw_paw_destiny.md) | 2023-08-16 | 2023-08-16 |

@@ -1,5 +1,6 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
+| [The Empress of Mahjong](games/r/royal_defense.md) | 2023-05-18 | 2023-05-10 |
 | [The Outlast Trials](games/t/the_outlast_trials.md) | 2023-05-18 | 2023-05-18 |
 | [Return to Monkey Island](games/6/652423874791471c8ed723e94d43062b.md) | 2023-05-18 | 2022-09-19 |
 | [The Inheritance of Crimson Manor](games/t/the_inheritance_of_crimson_manor.md) | 2023-05-18 | 2022-05-05 |
