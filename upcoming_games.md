@@ -1,6 +1,5 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [The Inheritance of Crimson Manor](games/t/the_inheritance_of_crimson_manor.md) | 2023-05-18 | 2022-05-05 |
 | [Return to Monkey Island](games/6/652423874791471c8ed723e94d43062b.md) | 2023-05-18 | 2022-09-19 |
 | [The Outlast Trials](games/t/the_outlast_trials.md) | 2023-05-18 | 2023-05-18 |
 | [The Empress of Mahjong](games/r/royal_defense.md) | 2023-05-18 | 2023-05-10 |
@@ -283,6 +282,7 @@
 | [MeteoHeroes Saving Planet Earth!](games/m/meteoheroes_saving_planet_earth!.md) | 2099-01-01 | 2099-01-01 |
 | [Moon Mystery](games/m/moon_mystery.md) | 2099-01-01 | 2099-01-01 |
 | [Morbid The Lords of Ire](games/m/morbid_the_lords_of_ire.md) | 2099-01-01 | 2099-01-01 |
+| [Mr. Run and Jump](games/4/499acd70c5dd4e7d9d6af210338e2ae6.md) | 2099-01-01 | 2099-01-01 |
 | [Night Loops](games/n/night_loops.md) | 2099-01-01 | 2099-01-01 |
 | [No More Room in Hell 2](games/n/no_more_room_in_hell_2.md) | 2099-01-01 | 2099-01-01 |
 | [NOOB - The Factionless](games/n/noob_-_the_factionless.md) | 2099-01-01 | 2099-01-01 |
