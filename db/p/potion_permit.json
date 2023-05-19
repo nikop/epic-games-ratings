@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 422,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -567,9 +567,9 @@
       "ID": "ACHIEVEMENTS_09",
       "SetID": "d4o538a",
       "Name": "Rookie Chemist",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 767
+      "UsersEstimate": 779
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -816,8 +816,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-05-03T21:59:55.8094288+00:00",
-  "LastChanged_Achievements": "2023-05-19T22:05:28.077626+00:00",
+  "LastChanged_Achievements": "2023-05-19T23:06:51.8003384+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:30.0956385+00:00",
-  "LastUpdate_Ratings": "2023-05-19T21:59:33.8767702+00:00",
-  "LastUpdate_Achievements": "2023-05-19T22:05:28.0776509+00:00"
+  "LastUpdate_Ratings": "2023-05-19T23:01:07.120466+00:00",
+  "LastUpdate_Achievements": "2023-05-19T23:06:51.8003683+00:00"
 }

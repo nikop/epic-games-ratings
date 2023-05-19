@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Survivor | 12.00% | ~0 |
-| Aspairagus | 10.00% | ~0 |
-| Bouncemato | 8.00% | ~0 |
+| Aspairagus | 12.00% | ~0 |
+| Bouncemato | 10.00% | ~0 |
 | Quick-Draw Pod | 8.00% | ~0 |
 | Early Survivor | 8.00% | ~0 |
+| No Diggity | 8.00% | ~0 |
 | Seeds of War | 6.00% | ~3 |
-| No Diggity | 6.00% | ~0 |
 | Grave Digger | 6.00% | ~0 |
 | Quadsparagus | 6.00% | ~0 |
 | Oh My Gourd | 4.00% | ~0 |

@@ -4,7 +4,7 @@
   "ProductSlug": "zombie-rollerz-7aa027",
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -179,9 +179,9 @@
       "ID": "CLG_SKILL_LEVEL5_1",
       "SetID": "89cjc9l",
       "Name": "Topped up",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "CLG_SKILL_LEVEL5_2",
@@ -195,9 +195,9 @@
       "ID": "CLG_UNLOCK_10002",
       "SetID": "89cjc9l",
       "Name": "The Penguin",
-      "Percentage": 50,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "CLG_UNLOCK_10003",
@@ -323,17 +323,17 @@
       "ID": "PRG_BOSS_MAGE",
       "SetID": "89cjc9l",
       "Name": "The Shaman",
-      "Percentage": 53,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "PRG_BOSS_MAGICIAN",
       "SetID": "89cjc9l",
       "Name": "The Magician",
-      "Percentage": 50,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "PRG_BOSS_NINJA",
@@ -379,9 +379,9 @@
       "ID": "PRG_BOSS_TUNNELER",
       "SetID": "89cjc9l",
       "Name": "The Tunneler",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "PRG_CHAPTER_1",
@@ -395,9 +395,9 @@
       "ID": "PRG_CHAPTER_2",
       "SetID": "89cjc9l",
       "Name": "Duscot Steamcity",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "PRG_CHAPTER_3",
@@ -708,8 +708,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-05-19T22:05:21.3287606+00:00",
+  "LastChanged_Achievements": "2023-05-19T23:06:43.1140584+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:01.3689294+00:00",
-  "LastUpdate_Ratings": "2023-05-19T21:57:10.1066752+00:00",
-  "LastUpdate_Achievements": "2023-05-19T22:05:21.3288205+00:00"
+  "LastUpdate_Ratings": "2023-05-19T22:57:33.117885+00:00",
+  "LastUpdate_Achievements": "2023-05-19T23:06:43.1141358+00:00"
 }

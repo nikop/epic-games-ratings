@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 200,
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2020-12-20T16:00:00+00:00",
@@ -1555,7 +1555,7 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 477020,
+  "EOS_Progressed": 477021,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 562,
   "EOS_NewCompleters": 0,
@@ -4240,6 +4240,11 @@
       "Time": "2023-05-19T22:05:12.4983455+00:00",
       "NumProgressed": 477020,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-19T23:06:31.7161354+00:00",
+      "NumProgressed": 477021,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 87,
@@ -4267,7 +4272,7 @@
       "Name": "Arsenal",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 219429
+      "UsersEstimate": 219430
     },
     {
       "ID": "BASEDEFENDER",
@@ -4395,7 +4400,7 @@
       "Name": "Eradicator",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 319603
+      "UsersEstimate": 319604
     },
     {
       "ID": "EXTERMINATOR",
@@ -4403,7 +4408,7 @@
       "Name": "Exterminator",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 171727
+      "UsersEstimate": 171728
     },
     {
       "ID": "FAITHFULCOMPANION",
@@ -4419,7 +4424,7 @@
       "Name": "Field Promotion",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 352995
+      "UsersEstimate": 352996
     },
     {
       "ID": "FILTHYRICH",
@@ -4443,7 +4448,7 @@
       "Name": "First Blood",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 386386
+      "UsersEstimate": 386387
     },
     {
       "ID": "FLAWLESSVICTORY",
@@ -4451,7 +4456,7 @@
       "Name": "Flawless Victory",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 200348
+      "UsersEstimate": 200349
     },
     {
       "ID": "FLURRY",
@@ -4507,7 +4512,7 @@
       "Name": "Great Ball of Fire",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 152646
+      "UsersEstimate": 152647
     },
     {
       "ID": "GUNCRAZY",
@@ -4523,7 +4528,7 @@
       "Name": "Happy Returns",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 367305
+      "UsersEstimate": 367306
     },
     {
       "ID": "HEADTRAUMA",
@@ -4531,7 +4536,7 @@
       "Name": "Head Trauma",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 57242
+      "UsersEstimate": 57243
     },
     {
       "ID": "HEYTHATSMINE",
@@ -4587,7 +4592,7 @@
       "Name": "Leadhead",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 338684
+      "UsersEstimate": 338685
     },
     {
       "ID": "LIQUIDATOR",
@@ -4659,7 +4664,7 @@
       "Name": "Not So Fast",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 152646
+      "UsersEstimate": 152647
     },
     {
       "ID": "OUTOFBULLETS",
@@ -4731,7 +4736,7 @@
       "Name": "Power Builder",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 81093
+      "UsersEstimate": 81094
     },
     {
       "ID": "PYRRHICVICTORY",
@@ -4739,7 +4744,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 81093
+      "UsersEstimate": 81094
     },
     {
       "ID": "REGIONALDELUGE",
@@ -4835,7 +4840,7 @@
       "Name": "Surplus",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 310063
+      "UsersEstimate": 310064
     },
     {
       "ID": "TEMPORALWOULDHAVEBEENNICE",
@@ -4931,7 +4936,7 @@
       "Name": "Yellow Beats Green",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 262361
+      "UsersEstimate": 262362
     },
     {
       "ID": "YOUMONSTER",
@@ -4946,15 +4951,15 @@
     {
       "ID": "bko38ff",
       "IsBase": true,
-      "Progressed": 477020,
+      "Progressed": 477021,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:21:41.4012807+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:40.5516265+00:00",
   "LastChanged": "2023-05-18T17:58:32.4719007+00:00",
-  "LastChanged_Achievements": "2023-05-19T22:05:12.498345+00:00",
+  "LastChanged_Achievements": "2023-05-19T23:06:31.7161349+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:53.5672102+00:00",
-  "LastUpdate_Ratings": "2023-05-19T21:57:51.9302239+00:00",
-  "LastUpdate_Achievements": "2023-05-19T22:05:12.4984374+00:00"
+  "LastUpdate_Ratings": "2023-05-19T22:58:33.0850732+00:00",
+  "LastUpdate_Achievements": "2023-05-19T23:06:31.7162714+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.17 (Ranked 834)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 0.60% | ~367 |
+| First Step Into the Knight | 0.70% | ~428 |
 | Quartzer Life Crisis | 0.50% | ~306 |
 | Har, Har, Har, Very Funny | 0.50% | ~306 |
 | Loose Ends | 0.50% | ~306 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 834)
 | Confronting Your Demon | 0.10% | ~31 |
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,189 (Ranked 67)  
+Progressed: 61,198 (Ranked 67)  
 Completed: 91 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 91 (0.15%) (Ranked 148)
 | 2023-05-16 | 60,923 | 91 |
 | 2023-05-17 | 60,939 | 91 |
 | 2023-05-18 | 61,004 | 91 |
-| 2023-05-19 | 61,189 | 91 |
+| 2023-05-19 | 61,198 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,222  (Ranked 98)  
 Sum: 3,684 (Ranked 137)  

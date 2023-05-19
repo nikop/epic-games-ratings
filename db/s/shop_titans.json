@@ -4084,9 +4084,9 @@
       "Count": 3670
     }
   ],
-  "EOS_Progressed": 128588,
+  "EOS_Progressed": 128589,
   "EOS_Completed": 79,
-  "EOS_NewPlayers": 509,
+  "EOS_NewPlayers": 510,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6709,6 +6709,11 @@
       "Time": "2023-05-19T22:05:19.0891798+00:00",
       "NumProgressed": 128588,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-05-19T23:06:40.2213142+00:00",
+      "NumProgressed": 128589,
+      "NumCompleted": 79
     }
   ],
   "TotalAchievements": 112,
@@ -6824,7 +6829,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 75867
+      "UsersEstimate": 75868
     },
     {
       "ID": "blueprint02",
@@ -6880,7 +6885,7 @@
       "Name": "Fated Encounters",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 27003
+      "UsersEstimate": 27004
     },
     {
       "ID": "chest01",
@@ -6888,7 +6893,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 124730
+      "UsersEstimate": 124731
     },
     {
       "ID": "chest02",
@@ -6952,7 +6957,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 117015
+      "UsersEstimate": 117016
     },
     {
       "ID": "commonres02",
@@ -6960,7 +6965,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 50149
+      "UsersEstimate": 50150
     },
     {
       "ID": "commonres03",
@@ -6984,7 +6989,7 @@
       "Name": "Disintermediation",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 97727
+      "UsersEstimate": 97728
     },
     {
       "ID": "craft02",
@@ -7200,7 +7205,7 @@
       "Name": "Pretty Penny",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 73295
+      "UsersEstimate": 73296
     },
     {
       "ID": "gold03",
@@ -7216,7 +7221,7 @@
       "Name": "Royal Ransom",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 27003
+      "UsersEstimate": 27004
     },
     {
       "ID": "gold05",
@@ -7248,7 +7253,7 @@
       "Name": "Fat Cat Tag Team",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 16716
+      "UsersEstimate": 16717
     },
     {
       "ID": "help03",
@@ -7304,7 +7309,7 @@
       "Name": "Budding Merchant",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 84868
+      "UsersEstimate": 84869
     },
     {
       "ID": "level02",
@@ -7312,7 +7317,7 @@
       "Name": "Accomplished Merchant",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 39862
+      "UsersEstimate": 39863
     },
     {
       "ID": "level03",
@@ -7376,7 +7381,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 59150
+      "UsersEstimate": 59151
     },
     {
       "ID": "master02",
@@ -7496,7 +7501,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 96441
+      "UsersEstimate": 96442
     },
     {
       "ID": "sell02",
@@ -7536,7 +7541,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 123444
+      "UsersEstimate": 123445
     },
     {
       "ID": "twinenchant01",
@@ -7544,7 +7549,7 @@
       "Name": "Magical Harmony",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 27003
+      "UsersEstimate": 27004
     },
     {
       "ID": "typeunlock01",
@@ -7615,15 +7620,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 128588,
+      "Progressed": 128589,
       "Completed": 79
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-05-19T14:58:37.7632845+00:00",
-  "LastChanged_Achievements": "2023-05-19T22:05:19.0891793+00:00",
+  "LastChanged_Achievements": "2023-05-19T23:06:40.2213139+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.991774+00:00",
-  "LastUpdate_Ratings": "2023-05-19T21:57:53.771008+00:00",
-  "LastUpdate_Achievements": "2023-05-19T22:05:19.0893093+00:00"
+  "LastUpdate_Ratings": "2023-05-19T22:58:36.0817596+00:00",
+  "LastUpdate_Achievements": "2023-05-19T23:06:40.2214874+00:00"
 }

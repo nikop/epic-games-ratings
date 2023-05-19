@@ -7,7 +7,7 @@
 | Learned how to jump! | 75.00% | ~6 |
 | Learned how to walk! | 75.00% | ~6 |
 | Defeated Captain Tutorial | 63.00% | ~5 |
-| Defeated Booty The Bootleg | 38.00% | ~3 |
+| Defeated Booty The Bootleg | 50.00% | ~4 |
 | Defeated Mistermind | 38.00% | ~3 |
 | Defeated the core of the outside world | 38.00% | ~3 |
 | Ḧ̴́͊̈́́̃̈́͊̂̏̅̈́̆͊͛͋̃̍̊̓͛̔̆͘͠͝Ë̵̢̢̧̛̛͇̪̟͓̝̼͕̞͔̻͎̠͔̤̥̺̹̱̼̪̺̪̺̰̱́̊͋̈́̔̍͑̄̅́̔͛̓̽̊̒̓́͛̀̀͗̈́́̃̈́̈́̄̔̓͐͆̀̈́̄́̚͘̕͘͘̕͝ͅL̸̀͠Ṕ̵̛̎̄̽̈́́͊̅͛̄ ̶̃M̶̨̧̼̪̞͈̯̬͖͖͎̞͎̻̥̍̌͊̀̓̄̋͋̂͌̏̈́̾͆̌̈́̆̈́̐̿̓͐͝͝͠͠E̵͒̓͊͋̄͘ | 38.00% | ~3 |

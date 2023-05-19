@@ -234,9 +234,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 185355,
+  "EOS_Progressed": 185359,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1004,
+  "EOS_NewPlayers": 1005,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3034,6 +3034,11 @@
       "Time": "2023-05-19T22:05:13.2000953+00:00",
       "NumProgressed": 185355,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-19T23:06:32.5031709+00:00",
+      "NumProgressed": 185359,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -3045,7 +3050,7 @@
       "Name": "Battlesuit Victory",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 14828
+      "UsersEstimate": 14829
     },
     {
       "ID": "ACH_COMPLETE_TUTORIAL",
@@ -3053,7 +3058,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 131602
+      "UsersEstimate": 131605
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -3077,7 +3082,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 33364
+      "UsersEstimate": 33365
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -3172,7 +3177,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 185355,
+      "Progressed": 185359,
       "Completed": 4
     }
   ],
@@ -3180,8 +3185,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-05-15T19:58:59.1456321+00:00",
-  "LastChanged_Achievements": "2023-05-19T22:05:13.2000948+00:00",
+  "LastChanged_Achievements": "2023-05-19T23:06:32.5031704+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:05:12.9175208+00:00",
-  "LastUpdate_Ratings": "2023-05-19T21:59:01.2510155+00:00",
-  "LastUpdate_Achievements": "2023-05-19T22:05:13.200116+00:00"
+  "LastUpdate_Ratings": "2023-05-19T23:00:17.6226729+00:00",
+  "LastUpdate_Achievements": "2023-05-19T23:06:32.5032019+00:00"
 }

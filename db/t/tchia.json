@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -140,9 +140,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5834,
+  "EOS_Progressed": 5839,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1705,6 +1705,11 @@
       "Time": "2023-05-19T22:04:55.9726508+00:00",
       "NumProgressed": 5834,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-19T23:06:09.9499469+00:00",
+      "NumProgressed": 5839,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 21,
@@ -1716,7 +1721,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "ARRR",
@@ -1732,7 +1737,7 @@
       "Name": "Audiophile",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -1740,7 +1745,7 @@
       "Name": "Body and Soul",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -1764,7 +1769,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -1796,7 +1801,7 @@
       "Name": "Happy Camper",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "HISTORIAN",
@@ -1820,7 +1825,7 @@
       "Name": "In a Pinch",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1109
     },
     {
       "ID": "LIBERATOR",
@@ -1828,7 +1833,7 @@
       "Name": "Liberator",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "LIVE_WIRE",
@@ -1836,7 +1841,7 @@
       "Name": "Live Wire",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "SHREDDER",
@@ -1868,7 +1873,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "THING",
@@ -1883,7 +1888,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5834,
+      "Progressed": 5839,
       "Completed": 22
     }
   ],
@@ -1891,8 +1896,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-16T16:57:54.2243616+00:00",
-  "LastChanged_Achievements": "2023-05-19T22:04:55.9726506+00:00",
+  "LastChanged_Achievements": "2023-05-19T23:06:09.9499462+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.822955+00:00",
-  "LastUpdate_Ratings": "2023-05-19T21:57:33.2677412+00:00",
-  "LastUpdate_Achievements": "2023-05-19T22:04:55.9726673+00:00"
+  "LastUpdate_Ratings": "2023-05-19T22:58:06.200627+00:00",
+  "LastUpdate_Achievements": "2023-05-19T23:06:09.9499725+00:00"
 }

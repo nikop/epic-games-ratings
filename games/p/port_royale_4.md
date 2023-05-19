@@ -6,41 +6,41 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 80.00% | ~430 |
-| My little farm | 66.00% | ~354 |
-| Every beginning is difficult | 62.00% | ~333 |
-| 3, 2, 1, mine | 55.00% | ~295 |
-| Gofer | 55.00% | ~295 |
-| Seafarer | 54.00% | ~290 |
-| O Captain! My Captain! | 54.00% | ~290 |
-| Greed for gold | 43.00% | ~231 |
-| Intangible | 42.00% | ~226 |
-| I'm out of here for a while | 40.00% | ~215 |
+| Cabin boy | 80.00% | ~431 |
+| My little farm | 66.00% | ~356 |
+| Every beginning is difficult | 62.00% | ~334 |
+| 3, 2, 1, mine | 55.00% | ~296 |
+| Gofer | 55.00% | ~296 |
+| Seafarer | 54.00% | ~291 |
+| O Captain! My Captain! | 53.00% | ~286 |
+| Greed for gold | 43.00% | ~232 |
+| Intangible | 41.00% | ~221 |
+| I'm out of here for a while | 40.00% | ~216 |
 | In a mint condition | 37.00% | ~199 |
-| Licence to Kill | 36.00% | ~193 |
-| Pirates! | 35.00% | ~188 |
-| Collectionitis | 28.00% | ~150 |
-| Megalomania | 28.00% | ~150 |
-| Christening | 27.00% | ~145 |
+| Licence to Kill | 36.00% | ~194 |
+| Pirates! | 35.00% | ~189 |
+| Collectionitis | 28.00% | ~151 |
+| Megalomania | 28.00% | ~151 |
+| Christening | 27.00% | ~146 |
 | Groundskeeper | 26.00% | ~140 |
-| Wholesale | 23.00% | ~124 |
+| Wholesale | 22.00% | ~119 |
 | Walk the plank | 21.00% | ~113 |
 | My precious! | 19.00% | ~102 |
-| Pearly gates | 18.00% | ~97 |
+| Pearly gates | 17.00% | ~92 |
 | Conquistador | 14.00% | ~75 |
 | Panic buying | 11.00% | ~59 |
 | Just a scratch | 10.00% | ~54 |
 | Your vessel, my vessel | 10.00% | ~54 |
-| All mine! | 9.00% | ~48 |
-| Paths of Glory | 9.00% | ~48 |
+| All mine! | 9.00% | ~49 |
+| Paths of Glory | 9.00% | ~49 |
 | Maker | 8.00% | ~43 |
 | Panel of experts | 8.00% | ~43 |
 | Conglomerate | 7.00% | ~38 |
 | The Grande Bouffe | 6.00% | ~32 |
-| Buccaneer | 4.00% | ~21 |
-| Flying Dutchman | 4.00% | ~21 |
-| A true pirate! | 4.00% | ~21 |
-| Overpopulation | 4.00% | ~21 |
+| Buccaneer | 4.00% | ~22 |
+| Flying Dutchman | 4.00% | ~22 |
+| A true pirate! | 4.00% | ~22 |
+| Overpopulation | 4.00% | ~22 |
 | Premier Maître | 3.00% | ~16 |
 | Strategist | 3.00% | ~16 |
 | Supreme conqueror | 2.00% | ~11 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.70% | ~4 |
 | Davy Jones' locker | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 537 (Ranked 190)  
+Progressed: 539 (Ranked 191)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-16 | 528 | 0 |
 | 2023-05-17 | 529 | 0 |
 | 2023-05-18 | 531 | 0 |
-| 2023-05-19 | 537 | 0 |
+| 2023-05-19 | 539 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

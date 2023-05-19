@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 134,
+  "EOS_Progressed": 135,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -559,6 +559,11 @@
       "Time": "2023-05-19T22:05:08.2540745+00:00",
       "NumProgressed": 134,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T23:06:26.1004675+00:00",
+      "NumProgressed": 135,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -744,9 +749,9 @@
       "ID": "OpenRestaurant",
       "SetID": "d1bm05f",
       "Name": "The Big Day",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 94
     },
     {
       "ID": "Packing20",
@@ -770,7 +775,7 @@
       "Name": "Home Cook",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "RecipeDifferent30",
@@ -834,7 +839,7 @@
       "Name": "Italian Style",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "UnlockAssiette",
@@ -889,7 +894,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 134,
+      "Progressed": 135,
       "Completed": 0
     }
   ],
@@ -897,8 +902,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-19T22:05:08.2540741+00:00",
+  "LastChanged_Achievements": "2023-05-19T23:06:26.1004666+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.318416+00:00",
-  "LastUpdate_Ratings": "2023-05-19T21:57:56.7112124+00:00",
-  "LastUpdate_Achievements": "2023-05-19T22:05:08.2541057+00:00"
+  "LastUpdate_Ratings": "2023-05-19T22:58:39.6164842+00:00",
+  "LastUpdate_Achievements": "2023-05-19T23:06:26.1004994+00:00"
 }

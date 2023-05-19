@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Shard | 80.00% | ~135 |
+| First Shard | 81.00% | ~138 |
 | Found the Healer | 33.00% | ~56 |
 | Ring of Fire! | 9.00% | ~15 |
 | Second Shard | 9.00% | ~15 |
@@ -28,8 +28,8 @@
 | Trolled | 2.00% | ~3 |
 | Troll Hunter | 2.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 169 (Ranked 232)  
-Completed: 4 (2.37%) (Ranked 60)  
+Progressed: 170 (Ranked 231)  
+Completed: 4 (2.35%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -38,7 +38,7 @@ Completed: 4 (2.37%) (Ranked 60)
 | 2023-05-03 | 164 | 4 |
 | 2023-05-10 | 165 | 4 |
 | 2023-05-18 | 168 | 4 |
-| 2023-05-19 | 169 | 4 |
+| 2023-05-19 | 170 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

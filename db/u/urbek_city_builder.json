@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 154,
+  "EOS_Progressed": 155,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -176,6 +176,11 @@
     {
       "Time": "2023-05-19T19:24:07.4795007+00:00",
       "NumProgressed": 154,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T23:06:38.5789668+00:00",
+      "NumProgressed": 155,
       "NumCompleted": 0
     }
   ],
@@ -340,7 +345,7 @@
       "Name": "I love books!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "CULTURE_3",
@@ -516,7 +521,7 @@
       "Name": "I like parks",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -524,7 +529,7 @@
       "Name": "I love parks",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "GREEN_AREAS_3",
@@ -540,7 +545,7 @@
       "Name": "The woodcutter",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "MILLS",
@@ -572,7 +577,7 @@
       "Name": "It is nice to share with friends in the city",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -620,7 +625,7 @@
       "Name": "Small town",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "POPULATION_2",
@@ -819,7 +824,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 154,
+      "Progressed": 155,
       "Completed": 0
     }
   ],
@@ -827,8 +832,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-05-19T22:05:17.8424336+00:00",
+  "LastChanged_Achievements": "2023-05-19T23:06:38.5789664+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:08.225759+00:00",
-  "LastUpdate_Ratings": "2023-05-19T21:58:17.354269+00:00",
-  "LastUpdate_Achievements": "2023-05-19T22:05:17.8424972+00:00"
+  "LastUpdate_Ratings": "2023-05-19T22:59:11.5684413+00:00",
+  "LastUpdate_Achievements": "2023-05-19T23:06:38.5790519+00:00"
 }

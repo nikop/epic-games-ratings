@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 300,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -652,9 +652,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1990,
+  "EOS_Progressed": 1992,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1052,6 +1052,11 @@
       "Time": "2023-05-19T22:04:59.1275752+00:00",
       "NumProgressed": 1990,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T23:06:14.1360191+00:00",
+      "NumProgressed": 1992,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1127,7 +1132,7 @@
       "Name": "Fashionista",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_FINALLY-HE-SHUTS-UP",
@@ -1135,7 +1140,7 @@
       "Name": "Finally he zips it",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_FULFILLED-THE-DREAM",
@@ -1151,7 +1156,7 @@
       "Name": "G\u0027Day Mate!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_GLOBETROTTER",
@@ -1215,7 +1220,7 @@
       "Name": "Keeping it classy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -1343,7 +1348,7 @@
       "Name": "That pinch!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_THAT-WAS-WHEELIE-FUN",
@@ -1367,7 +1372,7 @@
       "Name": "The finer things in life",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -1391,7 +1396,7 @@
       "Name": "Tight lipslides",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_TRICK-SHOT-MARKSMAN",
@@ -1431,7 +1436,7 @@
       "Name": "Welcome to the family",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -1439,22 +1444,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 1990,
+      "Progressed": 1992,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-05-19T07:58:43.4333069+00:00",
-  "LastChanged_Achievements": "2023-05-19T22:04:59.1275748+00:00",
+  "LastChanged_Achievements": "2023-05-19T23:06:14.1360184+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:21.8061522+00:00",
-  "LastUpdate_Ratings": "2023-05-19T21:58:28.1629505+00:00",
-  "LastUpdate_Achievements": "2023-05-19T22:04:59.1276076+00:00"
+  "LastUpdate_Ratings": "2023-05-19T22:59:28.2913553+00:00",
+  "LastUpdate_Achievements": "2023-05-19T23:06:14.1360601+00:00"
 }

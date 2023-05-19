@@ -9,12 +9,12 @@
 | Um, ok... | 46.00% | ~67 |
 | Superstar-crossed lovers | 39.00% | ~57 |
 | A leader, you are not | 35.00% | ~51 |
+| Comedy Killer | 33.00% | ~48 |
 | This won't end well... | 33.00% | ~48 |
-| Comedy Killer | 32.00% | ~46 |
 | Bromance | 30.00% | ~44 |
 | Good job, nerd | 30.00% | ~44 |
-| Mission Complete | 29.00% | ~42 |
-| Lootaphilia | 21.00% | ~30 |
+| Mission Complete | 30.00% | ~44 |
+| Lootaphilia | 22.00% | ~32 |
 | Maybe you should give it another go | 9.00% | ~13 |
 | Mikey Lizard | 6.00% | ~9 |
 | I used to think I was indecisive... | 6.00% | ~9 |

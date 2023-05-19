@@ -6,7 +6,7 @@ Number of Ratings: 1,023  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First money | 94.00% | ~17,677 |
+| First money | 94.00% | ~17,678 |
 | Strongman | 31.00% | ~5,830 |
 | Just Enough | 19.00% | ~3,573 |
 | Alpha Male | 19.00% | ~3,573 |
@@ -14,8 +14,8 @@ Number of Ratings: 1,023  (23.09.2022)
 | Worth Every Penny | 15.00% | ~2,821 |
 | Family man | 12.00% | ~2,257 |
 | Junior Estate Agent | 12.00% | ~2,257 |
-| Mystery | 10.00% | ~1,880 |
-| Artistic soul | 9.00% | ~1,692 |
+| Mystery | 10.00% | ~1,881 |
+| Artistic soul | 9.00% | ~1,693 |
 | Estate Agent | 5.00% | ~940 |
 | Millionaire | 5.00% | ~940 |
 | Perfectionist | 5.00% | ~940 |
@@ -30,7 +30,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Nerd | 0.50% | ~94 |
 | Senior Estate Agent | 0.50% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,805 (Ranked 93)  
+Progressed: 18,806 (Ranked 93)  
 Completed: 19 (0.10%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,7 +59,7 @@ Completed: 19 (0.10%) (Ranked 158)
 | 2023-05-16 | 18,748 | 19 |
 | 2023-05-17 | 18,757 | 19 |
 | 2023-05-18 | 18,776 | 19 |
-| 2023-05-19 | 18,805 | 19 |
+| 2023-05-19 | 18,806 | 19 |
 ## Awards
 Max (Great for Beginners): 287  (Ranked 226)  
 Sum: 2,120 (Ranked 178)  

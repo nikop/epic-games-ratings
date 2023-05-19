@@ -12,7 +12,7 @@ Number of Ratings: 28  (23.09.2022)
 | Pangs of conscience | 51.00% | ~143 |
 | Living it large! | 47.00% | ~132 |
 | Collector | 45.00% | ~126 |
-| Need to think | 42.00% | ~118 |
+| Need to think | 43.00% | ~121 |
 | Completely nuts! | 36.00% | ~101 |
 | Just in time! | 35.00% | ~98 |
 | Europe | 32.00% | ~90 |
@@ -31,7 +31,7 @@ Number of Ratings: 28  (23.09.2022)
 | Achtung! | 13.00% | ~37 |
 | Engineer | 12.00% | ~34 |
 | Japan | 11.00% | ~31 |
-| Tycoon | 8.00% | ~22 |
+| Tycoon | 9.00% | ~25 |
 | Germany | 7.00% | ~20 |
 | Supercrash! | 6.00% | ~17 |
 | Chuck Norris | 6.00% | ~17 |

@@ -17,16 +17,16 @@ Rating: 4.41 (Ranked 656)
 | Explosive Efficiency | 0.60% | ~5 |
 | As Quiet as a Mouse | 0.60% | ~5 |
 | It's Starting to Crack | 0.60% | ~5 |
+| Target America | 0.60% | ~5 |
+| Opposing Force | 0.50% | ~4 |
+| Snake in the Grass | 0.50% | ~4 |
 | Change the Channel | 0.50% | ~4 |
-| Target America | 0.50% | ~4 |
 | The Kraken Sleeps | 0.50% | ~4 |
-| Opposing Force | 0.40% | ~3 |
 | Strategist | 0.40% | ~3 |
 | Gunslinger | 0.40% | ~3 |
 | Skirmisher | 0.40% | ~3 |
 | Sharpshooter | 0.40% | ~3 |
 | Precision Is Key | 0.40% | ~3 |
-| Snake in the Grass | 0.40% | ~3 |
 | Don't hold your breath | 0.40% | ~3 |
 | Sink or Swim | 0.30% | ~2 |
 | Climbing the Ladder | 0.20% | ~2 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 656)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 829 (Ranked 171)  
+Progressed: 833 (Ranked 171)  
 Completed: 2 (0.24%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 2 (0.24%) (Ranked 136)
 | 2023-05-16 | 723 | 2 |
 | 2023-05-17 | 728 | 2 |
 | 2023-05-18 | 743 | 2 |
-| 2023-05-19 | 829 | 2 |
+| 2023-05-19 | 833 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,7 +1,7 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 62)  
+Rating: 4.82 (Ranked 61)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~704 |
 | Warriors from the Mountain | 0.10% | ~704 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703,563 (Ranked 15)  
+Progressed: 703,575 (Ranked 15)  
 Completed: 12,731 (1.81%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,10 +86,10 @@ Completed: 12,731 (1.81%) (Ranked 64)
 | 2023-05-16 | 702,986 | 12,728 |
 | 2023-05-17 | 703,009 | 12,730 |
 | 2023-05-18 | 703,070 | 12,731 |
-| 2023-05-19 | 703,563 | 12,731 |
+| 2023-05-19 | 703,575 | 12,731 |
 ## Awards
 Max (Great Boss Battles): 6,075  (Ranked 53)  
-Sum: 10,334 (Ranked 77)  
+Sum: 10,335 (Ranked 77)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
@@ -103,7 +103,7 @@ Diff (max vs sum): -24
 | This game has Amazing Characters | 473 |
 | This game has Unique Visuals | 455 |
 | This game is Relaxing | 401 |
-| This game has a Creative Community | 347 |
+| This game has a Creative Community | 348 |
 | This game has Obsessive Gameplay | 293 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -231,4 +231,4 @@ Diff (max vs sum): -24
 | 2023-05-16 | 4.82 | - | 6,071 | 10,316 |
 | 2023-05-17 | 4.82 | - | 6,074 | 10,322 |
 | 2023-05-18 | 4.82 | - | 6,074 | 10,327 |
-| 2023-05-19 | 4.82 | - | 6,075 | 10,334 |
+| 2023-05-19 | 4.82 | - | 6,075 | 10,335 |

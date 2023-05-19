@@ -5,9 +5,9 @@
   "Ranking_Rating": 883,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 190,
+  "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -234,9 +234,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 537,
+  "EOS_Progressed": 539,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -459,6 +459,11 @@
       "Time": "2023-05-19T20:05:47.4804387+00:00",
       "NumProgressed": 537,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T23:06:26.6362894+00:00",
+      "NumProgressed": 539,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -470,7 +475,7 @@
       "Name": "Cabin boy",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "ACH001",
@@ -478,7 +483,7 @@
       "Name": "Seafarer",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH002",
@@ -494,7 +499,7 @@
       "Name": "Buccaneer",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH004",
@@ -502,7 +507,7 @@
       "Name": "Flying Dutchman",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH005",
@@ -526,7 +531,7 @@
       "Name": "My little farm",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 354
+      "UsersEstimate": 356
     },
     {
       "ID": "ACH008",
@@ -556,9 +561,9 @@
       "ID": "ACH011",
       "SetID": "69nfp41",
       "Name": "Intangible",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 226
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH012",
@@ -566,7 +571,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ACH013",
@@ -582,7 +587,7 @@
       "Name": "Christening",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH015",
@@ -604,9 +609,9 @@
       "ID": "ACH017",
       "SetID": "69nfp41",
       "Name": "Pearly gates",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH018",
@@ -638,7 +643,7 @@
       "Name": "Collectionitis",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH022",
@@ -654,7 +659,7 @@
       "Name": "Gofer",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ACH024",
@@ -686,7 +691,7 @@
       "Name": "I\u0027m out of here for a while",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH028",
@@ -702,7 +707,7 @@
       "Name": "Licence to Kill",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH030",
@@ -726,7 +731,7 @@
       "Name": "Pirates!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACH033",
@@ -734,7 +739,7 @@
       "Name": "A true pirate!",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH034",
@@ -750,7 +755,7 @@
       "Name": "All mine!",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH036",
@@ -758,7 +763,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ACH037",
@@ -766,15 +771,15 @@
       "Name": "Paths of Glory",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH038",
       "SetID": "69nfp41",
       "Name": "O Captain! My Captain!",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 286
     },
     {
       "ID": "ACH039",
@@ -822,7 +827,7 @@
       "Name": "Greed for gold",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ACH045",
@@ -846,7 +851,7 @@
       "Name": "Overpopulation",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH048",
@@ -854,30 +859,30 @@
       "Name": "Megalomania",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH049",
       "SetID": "69nfp41",
       "Name": "Wholesale",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 119
     }
   ],
   "AchievementSets": [
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 537,
+      "Progressed": 539,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
-  "LastChanged_Achievements": "2023-05-19T22:05:08.7467727+00:00",
+  "LastChanged_Achievements": "2023-05-19T23:06:26.636289+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:02.5497371+00:00",
-  "LastUpdate_Ratings": "2023-05-19T21:57:59.5975007+00:00",
-  "LastUpdate_Achievements": "2023-05-19T22:05:08.7468109+00:00"
+  "LastUpdate_Ratings": "2023-05-19T22:58:45.0977652+00:00",
+  "LastUpdate_Achievements": "2023-05-19T23:06:26.6363333+00:00"
 }

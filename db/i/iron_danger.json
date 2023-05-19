@@ -2,9 +2,9 @@
   "ID": "cd8a253549eb42ce8ce491e09ca49690",
   "Name": "Iron Danger",
   "ProductSlug": "iron-danger-b4320c",
-  "Ranking_EOS_Progress": 232,
+  "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 169,
+  "EOS_Progressed": 170,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.37,
+  "EOS_Completed_Percentage": 2.35,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.5378411+00:00",
@@ -75,6 +75,11 @@
     {
       "Time": "2023-05-19T05:05:32.6056982+00:00",
       "NumProgressed": 169,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-19T23:06:46.6578794+00:00",
+      "NumProgressed": 170,
       "NumCompleted": 4
     }
   ],
@@ -205,9 +210,9 @@
       "ID": "ACH_SHARD_1",
       "SetID": "ao59f0i",
       "Name": "First Shard",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 40,
-      "UsersEstimate": 135
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_SHARD_2",
@@ -270,7 +275,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 169,
+      "Progressed": 170,
       "Completed": 4
     }
   ],
@@ -278,8 +283,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-05-19T22:05:24.0721919+00:00",
+  "LastChanged_Achievements": "2023-05-19T23:06:46.6578789+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:59.7353215+00:00",
-  "LastUpdate_Ratings": "2023-05-19T21:59:16.8162541+00:00",
-  "LastUpdate_Achievements": "2023-05-19T22:05:24.0722048+00:00"
+  "LastUpdate_Ratings": "2023-05-19T23:00:41.9331654+00:00",
+  "LastUpdate_Achievements": "2023-05-19T23:06:46.6578976+00:00"
 }

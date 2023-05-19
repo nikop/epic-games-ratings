@@ -6,16 +6,16 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 27.00% | ~5,917 |
-| Rookie | 24.00% | ~5,259 |
-| Nomad | 19.00% | ~4,164 |
-| Picking Up Speed | 17.00% | ~3,725 |
-| Welcome Maya | 16.00% | ~3,506 |
+| Finding Your Footing | 27.00% | ~5,918 |
+| Rookie | 24.00% | ~5,261 |
+| Nomad | 19.00% | ~4,165 |
+| Picking Up Speed | 17.00% | ~3,726 |
+| Welcome Maya | 16.00% | ~3,507 |
 | Sightseer | 12.00% | ~2,630 |
-| Scout | 10.00% | ~2,191 |
-| Amateur | 9.00% | ~1,972 |
-| Enter Paz | 9.00% | ~1,972 |
-| Wanderer | 9.00% | ~1,972 |
+| Scout | 10.00% | ~2,192 |
+| Amateur | 9.00% | ~1,973 |
+| Enter Paz | 9.00% | ~1,973 |
+| Wanderer | 9.00% | ~1,973 |
 | Unlock Maya | 7.00% | ~1,534 |
 | Aviator | 6.00% | ~1,315 |
 | One With The Board | 6.00% | ~1,315 |
@@ -23,11 +23,11 @@ Number of Ratings: 332  (23.09.2022)
 | My Little Friend | 5.00% | ~1,096 |
 | Sandboarder | 4.00% | ~877 |
 | Izel Has Arrived | 4.00% | ~877 |
-| Junkie | 3.00% | ~657 |
-| Traveler | 3.00% | ~657 |
-| Journeyer | 3.00% | ~657 |
-| Unlock Paz | 3.00% | ~657 |
-| Here Comes Felipe | 3.00% | ~657 |
+| Junkie | 3.00% | ~658 |
+| Traveler | 3.00% | ~658 |
+| Journeyer | 3.00% | ~658 |
+| Unlock Paz | 3.00% | ~658 |
+| Here Comes Felipe | 3.00% | ~658 |
 | Pro | 2.00% | ~438 |
 | Human Flight | 2.00% | ~438 |
 | Explorer | 1.00% | ~219 |
@@ -37,7 +37,7 @@ Number of Ratings: 332  (23.09.2022)
 | Vandal | 1.00% | ~219 |
 | Daredevil | 0.80% | ~175 |
 | Unlock Felipe | 0.70% | ~153 |
-| Adventurer | 0.60% | ~131 |
+| Adventurer | 0.60% | ~132 |
 | Unlock Tupa | 0.40% | ~88 |
 | Master Of The Sands | 0.30% | ~66 |
 | Master | 0.10% | ~22 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~22 |
 | Windswept | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,914 (Ranked 90)  
+Progressed: 21,920 (Ranked 90)  
 Completed: 3 (0.01%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 3 (0.01%) (Ranked 193)
 | 2023-05-16 | 21,443 | 3 |
 | 2023-05-17 | 21,574 | 3 |
 | 2023-05-18 | 21,730 | 3 |
-| 2023-05-19 | 21,914 | 3 |
+| 2023-05-19 | 21,920 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 44  (Ranked 404)  
 Sum: 344 (Ranked 315)  

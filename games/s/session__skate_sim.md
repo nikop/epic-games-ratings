@@ -6,10 +6,10 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 50.00% | ~995 |
-| Keeping it classy | 26.00% | ~517 |
-| Welcome to the family | 18.00% | ~358 |
-| The finer things in life | 17.00% | ~338 |
+| You're free now! | 50.00% | ~996 |
+| Keeping it classy | 26.00% | ~518 |
+| Welcome to the family | 18.00% | ~359 |
+| The finer things in life | 17.00% | ~339 |
 | Backpacker | 12.00% | ~239 |
 | Go with the Flow | 12.00% | ~239 |
 | Plastic Surgeon | 9.00% | ~179 |
@@ -18,11 +18,11 @@ Number of Ratings: 111  (23.09.2022)
 | The hard way | 8.00% | ~159 |
 | Upfront shredder | 8.00% | ~159 |
 | Good vibes | 7.00% | ~139 |
-| Fashionista | 6.00% | ~119 |
-| Finally he zips it | 6.00% | ~119 |
-| G'Day Mate! | 6.00% | ~119 |
-| That pinch! | 6.00% | ~119 |
-| Tight lipslides | 6.00% | ~119 |
+| Fashionista | 6.00% | ~120 |
+| Finally he zips it | 6.00% | ~120 |
+| G'Day Mate! | 6.00% | ~120 |
+| That pinch! | 6.00% | ~120 |
+| Tight lipslides | 6.00% | ~120 |
 | Bottom ply killer | 5.00% | ~100 |
 | Fulfilled the dream | 5.00% | ~100 |
 | Globetrotter | 5.00% | ~100 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,990 (Ranked 145)  
+Progressed: 1,992 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-16 | 1,958 | 0 |
 | 2023-05-17 | 1,962 | 0 |
 | 2023-05-18 | 1,968 | 0 |
-| 2023-05-19 | 1,990 | 0 |
+| 2023-05-19 | 1,992 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 392)  
 Sum: 414 (Ranked 300)  

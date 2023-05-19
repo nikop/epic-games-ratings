@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -186,9 +186,9 @@
       "ID": "04_tycoon",
       "SetID": "chb1m60",
       "Name": "Tycoon",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "05_pangs",
@@ -426,9 +426,9 @@
       "ID": "34_needtothink",
       "SetID": "chb1m60",
       "Name": "Need to think",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 118
+      "UsersEstimate": 121
     },
     {
       "ID": "35_achtung",
@@ -482,8 +482,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-05-19T22:02:35.2707691+00:00",
+  "LastChanged_Achievements": "2023-05-19T23:03:31.4597576+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:08.2885298+00:00",
-  "LastUpdate_Ratings": "2023-05-19T21:57:17.3706005+00:00",
-  "LastUpdate_Achievements": "2023-05-19T22:02:35.2707933+00:00"
+  "LastUpdate_Ratings": "2023-05-19T22:57:43.144361+00:00",
+  "LastUpdate_Achievements": "2023-05-19T23:03:31.4597982+00:00"
 }

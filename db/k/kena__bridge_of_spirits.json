@@ -1130,9 +1130,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 425257,
+  "EOS_Progressed": 425258,
   "EOS_Completed": 501,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2990,6 +2990,11 @@
       "Time": "2023-05-19T21:04:47.6133708+00:00",
       "NumProgressed": 425257,
       "NumCompleted": 501
+    },
+    {
+      "Time": "2023-05-19T23:06:19.108518+00:00",
+      "NumProgressed": 425258,
+      "NumCompleted": 501
     }
   ],
   "TotalAchievements": 41,
@@ -3017,7 +3022,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 255154
+      "UsersEstimate": 255155
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -3065,7 +3070,7 @@
       "Name": "Piercing Blow",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 55283
+      "UsersEstimate": 55284
     },
     {
       "ID": "ACH_CHALLENGE_BOMB",
@@ -3137,7 +3142,7 @@
       "Name": "Between the Eyes",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 195618
+      "UsersEstimate": 195619
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -3169,7 +3174,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 403994
+      "UsersEstimate": 403995
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -3185,7 +3190,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 306185
+      "UsersEstimate": 306186
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -3201,7 +3206,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 293427
+      "UsersEstimate": 293428
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -3257,7 +3262,7 @@
       "Name": "Adira\u0027s Fear",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 136082
+      "UsersEstimate": 136083
     },
     {
       "ID": "ACH_RELIC_HARPOON",
@@ -3273,7 +3278,7 @@
       "Name": "Toshi\u0027s Fear",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 114819
+      "UsersEstimate": 114820
     },
     {
       "ID": "ACH_RELIC_KNIFE",
@@ -3281,7 +3286,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 233891
+      "UsersEstimate": 233892
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -3328,15 +3333,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 425257,
+      "Progressed": 425258,
       "Completed": 501
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-05-18T07:58:06.0566735+00:00",
-  "LastChanged_Achievements": "2023-05-19T22:05:02.9664467+00:00",
+  "LastChanged_Achievements": "2023-05-19T23:06:19.1085176+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:49.1218266+00:00",
-  "LastUpdate_Ratings": "2023-05-19T21:57:48.7378195+00:00",
-  "LastUpdate_Achievements": "2023-05-19T22:05:02.9664806+00:00"
+  "LastUpdate_Ratings": "2023-05-19T22:58:28.2578534+00:00",
+  "LastUpdate_Achievements": "2023-05-19T23:06:19.1085932+00:00"
 }
