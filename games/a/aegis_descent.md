@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sweep | 95.00% | ~334 |
-| Scavenger | 75.00% | ~264 |
-| Line of Duty | 73.00% | ~257 |
+| Clean Sweep | 95.00% | ~335 |
+| Scavenger | 75.00% | ~265 |
+| Line of Duty | 73.00% | ~258 |
 | Gunner | 55.00% | ~194 |
-| DocKing | 47.00% | ~165 |
+| DocKing | 47.00% | ~166 |
 | What-A-Shot | 44.00% | ~155 |
-| Batteries Included | 39.00% | ~137 |
+| Batteries Included | 39.00% | ~138 |
 | Death from Above | 38.00% | ~134 |
 | Hull King | 27.00% | ~95 |
-| Boss Down | 20.00% | ~70 |
-| Extra Ammo | 20.00% | ~70 |
-| Splash Damage | 18.00% | ~63 |
+| Boss Down | 20.00% | ~71 |
+| Extra Ammo | 20.00% | ~71 |
+| Splash Damage | 18.00% | ~64 |
 | Hazardous Duty | 17.00% | ~60 |
 | Perky | 16.00% | ~56 |
 | Perk King | 11.00% | ~39 |
 | Salvage | 11.00% | ~39 |
-| Shocking | 11.00% | ~39 |
 | Perfect Timing | 10.00% | ~35 |
 | Sixty Seconds | 10.00% | ~35 |
+| Shocking | 10.00% | ~35 |
 | Killer Elite | 6.00% | ~21 |
 | Bumper Car | 5.00% | ~18 |
 | First Victory | 5.00% | ~18 |
@@ -40,16 +40,16 @@
 | The First Step | 2.00% | ~7 |
 | Having a Blast | 1.00% | ~4 |
 | The Cannoneer | 1.00% | ~4 |
-| Demolition Derby | 0.90% | ~3 |
-| Military Intelligence | 0.90% | ~3 |
-| Time Run | 0.90% | ~3 |
+| Demolition Derby | 0.80% | ~3 |
+| Military Intelligence | 0.80% | ~3 |
+| Time Run | 0.80% | ~3 |
 | Halfway There | 0.60% | ~2 |
 | Intel King | 0.60% | ~2 |
 | Big Spender | 0.30% | ~1 |
 | Burn Them | 0.30% | ~1 |
 | Final Ascension | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 352 (Ranked 203)  
+Progressed: 353 (Ranked 203)  
 Completed: 1 (0.28%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,7 +58,7 @@ Completed: 1 (0.28%) (Ranked 129)
 | 2023-05-01 | 346 | 1 |
 | 2023-05-12 | 347 | 1 |
 | 2023-05-18 | 351 | 1 |
-| 2023-05-19 | 352 | 1 |
+| 2023-05-19 | 353 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

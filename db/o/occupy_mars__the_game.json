@@ -40,9 +40,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 517,
+  "EOS_Progressed": 522,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 514,
+  "EOS_NewPlayers": 519,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -235,6 +235,11 @@
       "Time": "2023-05-19T20:03:12.0090107+00:00",
       "NumProgressed": 517,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T21:02:23.6833497+00:00",
+      "NumProgressed": 522,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -326,7 +331,7 @@
       "Name": "Zero Waste",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -364,9 +369,9 @@
       "ID": "NEW_ACHIEVEMENT_BOTANY_POWERS",
       "SetID": "l546gc",
       "Name": "Fear my botany powers, Mars",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 89
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -420,9 +425,9 @@
       "ID": "NEW_ACHIEVEMENT_ELECTRICIAN",
       "SetID": "l546gc",
       "Name": "Electrician",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 110
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -460,9 +465,9 @@
       "ID": "NEW_ACHIEVEMENT_GREATEST_BOTANIST",
       "SetID": "l546gc",
       "Name": "I am the greatest botanist on this planet.",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 62
+      "UsersEstimate": 68
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -500,9 +505,9 @@
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
       "SetID": "l546gc",
       "Name": "I don\u0027t feel so good",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 155
+      "UsersEstimate": 162
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -629,7 +634,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 517,
+      "Progressed": 522,
       "Completed": 0
     }
   ],
@@ -637,8 +642,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-05-19T06:57:19.9457333+00:00",
-  "LastChanged_Achievements": "2023-05-19T20:03:12.0090103+00:00",
+  "LastChanged_Achievements": "2023-05-19T21:02:23.6833488+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:55.9692167+00:00",
-  "LastUpdate_Ratings": "2023-05-19T19:57:26.7155897+00:00",
-  "LastUpdate_Achievements": "2023-05-19T20:03:12.0090514+00:00"
+  "LastUpdate_Ratings": "2023-05-19T20:57:04.1922021+00:00",
+  "LastUpdate_Achievements": "2023-05-19T21:02:23.6833894+00:00"
 }

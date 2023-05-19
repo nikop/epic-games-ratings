@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Once Upon a Time | 96.00% | ~671 |
-| Waff! | 94.00% | ~657 |
-| Into the Barn | 87.00% | ~608 |
-| A Prophecy | 85.00% | ~594 |
-| Sword, Shield, Fight! | 75.00% | ~524 |
-| A Grand Visit | 71.00% | ~496 |
-| Vibing | 61.00% | ~426 |
-| Fun Guy | 61.00% | ~426 |
-| Tragic Brave | 52.00% | ~363 |
-| Awakened Spirits | 48.00% | ~336 |
+| Once Upon a Time | 96.00% | ~672 |
+| Waff! | 94.00% | ~658 |
+| Into the Barn | 87.00% | ~609 |
+| A Prophecy | 85.00% | ~595 |
+| Sword, Shield, Fight! | 75.00% | ~525 |
+| A Grand Visit | 71.00% | ~497 |
+| Vibing | 61.00% | ~427 |
+| Fun Guy | 61.00% | ~427 |
+| Tragic Brave | 51.00% | ~357 |
+| Awakened Spirits | 49.00% | ~343 |
 | Little Shop | 47.00% | ~329 |
 | Surprise! | 43.00% | ~301 |
 | An Actor! | 43.00% | ~301 |
 | Curtain Call | 41.00% | ~287 |
 | Piece of Cake | 39.00% | ~273 |
-| Gooey Delight! | 38.00% | ~266 |
+| Gooey Delight! | 39.00% | ~273 |
 | Glimmer of Hope | 38.00% | ~266 |
 | Teacups for Toppy | 38.00% | ~266 |
 | Well Rested | 38.00% | ~266 |
@@ -55,8 +55,8 @@
 | Dance Master | 8.00% | ~56 |
 | Bombs Away! | 8.00% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 699 (Ranked 179)  
-Completed: 46 (6.58%) (Ranked 25)  
+Progressed: 700 (Ranked 179)  
+Completed: 46 (6.57%) (Ranked 25)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -82,7 +82,7 @@ Completed: 46 (6.58%) (Ranked 25)
 | 2023-05-16 | 653 | 45 |
 | 2023-05-17 | 659 | 45 |
 | 2023-05-18 | 671 | 45 |
-| 2023-05-19 | 699 | 46 |
+| 2023-05-19 | 700 | 46 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,9 +2,9 @@
   "ID": "8f412f068bf3470699726398816663a1",
   "Name": "Cafe Owner Simulator",
   "ProductSlug": "cafe-owner-simulator-749e0f",
-  "Ranking_EOS_Progress": 212,
+  "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 291,
+  "EOS_Progressed": 296,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -338,6 +338,11 @@
       "Time": "2023-05-19T20:05:49.8391324+00:00",
       "NumProgressed": 291,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T21:04:55.2409961+00:00",
+      "NumProgressed": 296,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -347,9 +352,9 @@
       "ID": "ADVANCED",
       "SetID": "64e5lgf",
       "Name": "ADVANCED",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 98
     },
     {
       "ID": "BUSINESS_OWNER",
@@ -357,7 +362,7 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 285
+      "UsersEstimate": 290
     },
     {
       "ID": "CHIEF",
@@ -365,7 +370,7 @@
       "Name": "CHIEF",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "CLEANER",
@@ -373,23 +378,23 @@
       "Name": "CLEANER",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 271
+      "UsersEstimate": 275
     },
     {
       "ID": "DEBTOR",
       "SetID": "64e5lgf",
       "Name": "DEBTOR",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "FIREFIGHTER",
       "SetID": "64e5lgf",
       "Name": "FIREFIGHTER",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 143
+      "UsersEstimate": 148
     },
     {
       "ID": "FIRST_100K",
@@ -413,7 +418,7 @@
       "Name": "OH NO, HE\u0027S LEAVING!",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 216
     },
     {
       "ID": "INTRODUCTION",
@@ -427,9 +432,9 @@
       "ID": "SECOND_FLOOR",
       "SetID": "64e5lgf",
       "Name": "SECOND_FLOOR",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 150,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "SUCCESSFUL",
@@ -460,7 +465,7 @@
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 291,
+      "Progressed": 296,
       "Completed": 0
     }
   ],
@@ -468,8 +473,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-05-19T20:05:49.8391319+00:00",
+  "LastChanged_Achievements": "2023-05-19T21:04:55.2409954+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:57.2732477+00:00",
-  "LastUpdate_Ratings": "2023-05-19T19:59:37.2272454+00:00",
-  "LastUpdate_Achievements": "2023-05-19T20:05:49.8391463+00:00"
+  "LastUpdate_Ratings": "2023-05-19T20:58:47.8190437+00:00",
+  "LastUpdate_Achievements": "2023-05-19T21:04:55.241009+00:00"
 }

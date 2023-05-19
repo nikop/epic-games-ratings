@@ -4,10 +4,10 @@
   "ProductSlug": "paragon-the-overprime-0bca60",
   "Ranking_Rating": 789,
   "Ranking_Popularity": 205,
-  "Ranking_PopularitySum": 152,
+  "Ranking_PopularitySum": 151,
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-12-09T02:00:00+00:00",
@@ -1786,11 +1786,17 @@
       "Rating": 4.24,
       "NumberOfAwards": 3004,
       "NumberOfAwardsMax": 378
+    },
+    {
+      "Time": "2023-05-19T20:58:25.6343036+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 3010,
+      "NumberOfAwardsMax": 382
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3004,
-  "NumberOfAwardsMax": 378,
+  "NumberOfAwards": 3010,
+  "NumberOfAwardsMax": 382,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
     {
@@ -1809,7 +1815,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 378
+      "Count": 382
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1839,7 +1845,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 370
+      "Count": 372
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1884,8 +1890,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-07T03:53:37.8993563+00:00",
   "FirstSeenRating": "2022-11-10T14:19:52.8915141+00:00",
-  "LastChanged": "2023-05-19T17:59:03.2705168+00:00",
+  "LastChanged": "2023-05-19T20:58:25.6343035+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:20.5323507+00:00",
-  "LastUpdate_Ratings": "2023-05-19T19:59:12.6022959+00:00",
-  "LastUpdate_Achievements": "2023-05-19T20:03:13.6405292+00:00"
+  "LastUpdate_Ratings": "2023-05-19T20:58:25.6343041+00:00",
+  "LastUpdate_Achievements": "2023-05-19T21:02:24.9400883+00:00"
 }

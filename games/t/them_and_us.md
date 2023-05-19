@@ -10,8 +10,8 @@
 | Safe...For now? | 24.00% | ~25 |
 | Open Sesame | 18.00% | ~19 |
 | Them and Us | 10.00% | ~10 |
+| OUTRAGE | 10.00% | ~10 |
 | What have I done!? | 10.00% | ~10 |
-| OUTRAGE | 9.00% | ~9 |
 | The Cultists | 9.00% | ~9 |
 | Alone In The Dark | 8.00% | ~8 |
 | Parasite Exterminated | 7.00% | ~7 |

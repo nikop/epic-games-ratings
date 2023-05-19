@@ -4,7 +4,7 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
@@ -161,17 +161,17 @@
       "ID": "super_seducer",
       "SetID": "84ad177",
       "Name": "Super Seducer",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 72
+      "UsersEstimate": 74
     },
     {
       "ID": "superstar_crossed_lovers",
       "SetID": "84ad177",
       "Name": "Superstar-crossed lovers",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     },
     {
       "ID": "thats_my_boy",
@@ -226,8 +226,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-05-19T20:06:03.320565+00:00",
+  "LastChanged_Achievements": "2023-05-19T21:05:07.1656838+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:09:48.2887695+00:00",
-  "LastUpdate_Ratings": "2023-05-19T20:00:07.7301658+00:00",
-  "LastUpdate_Achievements": "2023-05-19T20:06:03.3205785+00:00"
+  "LastUpdate_Ratings": "2023-05-19T20:59:11.8071393+00:00",
+  "LastUpdate_Achievements": "2023-05-19T21:05:07.165698+00:00"
 }

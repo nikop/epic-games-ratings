@@ -2,9 +2,9 @@
   "ID": "8f25cbefde7d4e7c8537aa860415d0b5",
   "Name": "Voltaire: The Vegan Vampire",
   "ProductSlug": "voltaire-e1c517",
-  "Ranking_EOS_Progress": 265,
+  "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-02-27T17:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76,
+  "EOS_Progressed": 77,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -52,6 +52,11 @@
     {
       "Time": "2023-05-15T07:05:00.3604959+00:00",
       "NumProgressed": 76,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T21:04:45.4776521+00:00",
+      "NumProgressed": 77,
       "NumCompleted": 0
     }
   ],
@@ -86,15 +91,15 @@
       "ID": "COSMETICS",
       "SetID": "3c20ib3",
       "Name": "Fashionista",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "FIRST_HARVEST",
       "SetID": "3c20ib3",
       "Name": "Good to grow",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 5,
       "UsersEstimate": 48
     },
@@ -136,7 +141,7 @@
       "Name": "So it begins",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "HUNTING",
@@ -262,7 +267,7 @@
       "ID": "SNOWSCALE",
       "SetID": "3c20ib3",
       "Name": "Do you wanna build a snowboiii?",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -311,7 +316,7 @@
     {
       "ID": "3c20ib3",
       "IsBase": true,
-      "Progressed": 76,
+      "Progressed": 77,
       "Completed": 0
     }
   ],
@@ -319,8 +324,8 @@
   "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.0090692+00:00",
   "LastChanged": "2023-03-31T05:58:46.11228+00:00",
-  "LastChanged_Achievements": "2023-05-19T20:05:38.7485156+00:00",
+  "LastChanged_Achievements": "2023-05-19T21:04:45.4776514+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:00.1482004+00:00",
-  "LastUpdate_Ratings": "2023-05-19T19:57:31.0417084+00:00",
-  "LastUpdate_Achievements": "2023-05-19T20:05:38.7485484+00:00"
+  "LastUpdate_Ratings": "2023-05-19T20:57:07.1545648+00:00",
+  "LastUpdate_Achievements": "2023-05-19T21:04:45.4776752+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "outcore-desktop-adventure-eb3aff",
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-07T07:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 8,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -83,9 +83,9 @@
       "ID": "CompletedChapter1",
       "SetID": "7ejh407",
       "Name": "Defeated Captain Tutorial",
-      "Percentage": 50,
+      "Percentage": 63,
       "XP": 200,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "CompletedChapter2",
@@ -179,9 +179,9 @@
       "ID": "ImerssionBreaking",
       "SetID": "7ejh407",
       "Name": "Immersion Breaking",
-      "Percentage": 25,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "InternetExplorer",
@@ -290,8 +290,8 @@
   ],
   "FirstSeen": "2023-05-08T18:00:59.2575901+00:00",
   "FirstSeenAchievements": "2023-05-02T18:05:17.3554395+00:00",
-  "LastChanged_Achievements": "2023-05-19T20:05:56.3040987+00:00",
+  "LastChanged_Achievements": "2023-05-19T21:05:00.9698004+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:05:06.4622835+00:00",
-  "LastUpdate_Ratings": "2023-05-19T19:59:53.2716588+00:00",
-  "LastUpdate_Achievements": "2023-05-19T20:05:56.304117+00:00"
+  "LastUpdate_Ratings": "2023-05-19T20:59:00.5348369+00:00",
+  "LastUpdate_Achievements": "2023-05-19T21:05:00.969819+00:00"
 }

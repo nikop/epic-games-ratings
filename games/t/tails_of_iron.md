@@ -5,38 +5,38 @@ Rating: 4.50 (Ranked 534)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 76.00% | ~1,057 |
+| Complete Guard Faction | 76.00% | ~1,058 |
 | Become King | 70.00% | ~974 |
 | Ranged Weapon | 59.00% | ~821 |
 | Defeat 25 Frogs | 59.00% | ~821 |
-| Collect Monster Parts | 55.00% | ~765 |
-| Two Handed Weapon | 54.00% | ~751 |
+| Collect Monster Parts | 55.00% | ~766 |
+| Two Handed Weapon | 54.00% | ~752 |
 | Defeat 25 Grubs | 50.00% | ~696 |
 | Rescue Redgi's Brothers | 49.00% | ~682 |
 | Collect Iron Ore | 45.00% | ~626 |
 | Defeat 25 Mozis | 44.00% | ~612 |
 | Kitchen Ready To Cook | 44.00% | ~612 |
-| Collect Gold | 43.00% | ~598 |
-| Smithy Ready to Craft | 43.00% | ~598 |
-| Fix the Travellers Wagon | 41.00% | ~570 |
+| Collect Gold | 43.00% | ~599 |
+| Smithy Ready to Craft | 43.00% | ~599 |
+| Fix the Travellers Wagon | 41.00% | ~571 |
 | Complete Elder Faction | 38.00% | ~529 |
 | End of the Mozis | 35.00% | ~487 |
 | Throne Room Fit For A King | 35.00% | ~487 |
-| Return Power To The Depths | 34.00% | ~473 |
 | Meet the Creatures from the Deep | 33.00% | ~459 |
-| Defeat Ratnor Rodentson | 28.00% | ~389 |
+| Return Power To The Depths | 33.00% | ~459 |
+| Defeat Ratnor Rodentson | 28.00% | ~390 |
 | Return the Statues | 24.00% | ~334 |
 | Defeat Rattus Augustail | 24.00% | ~334 |
 | Complete the Chefs Book | 23.00% | ~320 |
 | Complete Ranger Faction | 20.00% | ~278 |
 | Defeat Avor Warden of the Northern Wastes | 19.00% | ~264 |
-| Discover the mystery of the Kings Chambers | 18.00% | ~250 |
+| Discover the mystery of the Kings Chambers | 18.00% | ~251 |
 | Complete Arena Faction | 15.00% | ~209 |
 | Complete Redgi's Armory | 7.00% | ~97 |
-| King of Kings | 6.00% | ~83 |
+| King of Kings | 6.00% | ~84 |
 | A new Warchief rises | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,391 (Ranked 154)  
+Progressed: 1,392 (Ranked 154)  
 Completed: 6 (0.43%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,7 +59,7 @@ Completed: 6 (0.43%) (Ranked 111)
 | 2023-05-15 | 1,376 | 6 |
 | 2023-05-16 | 1,377 | 6 |
 | 2023-05-18 | 1,382 | 6 |
-| 2023-05-19 | 1,391 | 6 |
+| 2023-05-19 | 1,392 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

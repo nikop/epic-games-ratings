@@ -42,6 +42,8 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Anonymous | 0.10% | ~458 |
 | The Smuggler | 0.10% | ~458 |
 | The Crazy Repairman | 0.10% | ~458 |
+| Hammer Mastery | 0.10% | ~458 |
+| Hammer Supremacy | 0.10% | ~458 |
 | Jeef Skeejj | 0.10% | ~458 |
 | Jeef Skagg | 0.10% | ~458 |
 | Plan for the worst | 0.10% | ~458 |
@@ -67,8 +69,6 @@ Number of Ratings: 1,003  (23.09.2022)
 | Geno Supremacy | 0.00% | ~0 |
 | Jericho Mastery | 0.00% | ~0 |
 | Jericho Supremacy | 0.00% | ~0 |
-| Hammer Mastery | 0.00% | ~0 |
-| Hammer Supremacy | 0.00% | ~0 |
 | Void Mastery | 0.00% | ~0 |
 | Void Supremacy | 0.00% | ~0 |
 | Kaos Mastery | 0.00% | ~0 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.00% | ~0 |
 | Kronos Rule | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458,466 (Ranked 29)  
+Progressed: 458,471 (Ranked 29)  
 Completed: 14 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 14 (0.00%) (Ranked 201)
 | 2023-05-16 | 458,171 | 14 |
 | 2023-05-17 | 458,267 | 14 |
 | 2023-05-18 | 458,375 | 14 |
-| 2023-05-19 | 458,466 | 14 |
+| 2023-05-19 | 458,471 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 209 (Ranked 349)  

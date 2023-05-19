@@ -7,22 +7,22 @@ Number of Ratings: 1,354  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 13.00% | ~1,159 |
-| A Spark | 10.00% | ~891 |
-| Burning City | 9.00% | ~802 |
+| A Spark | 10.00% | ~892 |
+| Burning City | 9.00% | ~803 |
 | Mythic Choices | 8.00% | ~713 |
 | Defender's Heart | 8.00% | ~713 |
 | Banner over the Citadel | 7.00% | ~624 |
 | Queen's Gratitude | 6.00% | ~535 |
 | Fifth Crusade | 5.00% | ~446 |
-| Embrace of the Abyss | 3.00% | ~267 |
-| Path of the Angel | 3.00% | ~267 |
-| Path of the Azata | 3.00% | ~267 |
-| Transformation | 3.00% | ~267 |
-| Great Upstart | 3.00% | ~267 |
-| Voice from Your Dreams | 3.00% | ~267 |
-| All Paths Open | 3.00% | ~267 |
-| Demonic and Divine | 3.00% | ~267 |
-| Next-Door Play | 3.00% | ~267 |
+| Embrace of the Abyss | 3.00% | ~268 |
+| Path of the Angel | 3.00% | ~268 |
+| Path of the Azata | 3.00% | ~268 |
+| Transformation | 3.00% | ~268 |
+| Great Upstart | 3.00% | ~268 |
+| Voice from Your Dreams | 3.00% | ~268 |
+| All Paths Open | 3.00% | ~268 |
+| Demonic and Divine | 3.00% | ~268 |
+| Next-Door Play | 3.00% | ~268 |
 | Heart of the Fallen Land | 2.00% | ~178 |
 | The Legacy | 2.00% | ~178 |
 | Divide and Rule | 2.00% | ~178 |
@@ -48,10 +48,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | End of Eternal Guard | 0.70% | ~62 |
 | This Wall Won't Fall | 0.70% | ~54 |
 | Not the Last Sarkorian | 0.70% | ~54 |
-| The Final Threshold | 0.60% | ~53 |
-| Path of the Dragon | 0.60% | ~53 |
-| Path of the Legend | 0.60% | ~53 |
-| Strategic Victory | 0.60% | ~53 |
+| The Final Threshold | 0.60% | ~54 |
+| Path of the Dragon | 0.60% | ~54 |
+| Path of the Legend | 0.60% | ~54 |
+| Strategic Victory | 0.60% | ~54 |
 | Playful Mood | 0.50% | ~45 |
 | Dreadful Dragon | 0.50% | ~45 |
 | Truly Profane Gift | 0.40% | ~36 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,912 (Ranked 109)  
+Progressed: 8,918 (Ranked 109)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-16 | 8,839 | 0 |
 | 2023-05-17 | 8,850 | 0 |
 | 2023-05-18 | 8,872 | 0 |
-| 2023-05-19 | 8,912 | 0 |
+| 2023-05-19 | 8,918 | 0 |
 ## Awards
 Max (Character Customization): 1,634  (Ranked 111)  
 Sum: 6,623 (Ranked 110)  

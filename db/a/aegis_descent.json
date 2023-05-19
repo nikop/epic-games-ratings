@@ -4,7 +4,7 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 352,
+  "EOS_Progressed": 353,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -62,6 +62,11 @@
       "Time": "2023-05-19T10:05:52.3420538+00:00",
       "NumProgressed": 352,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-19T21:04:48.9234717+00:00",
+      "NumProgressed": 353,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -73,7 +78,7 @@
       "Name": "Batteries Included",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "Award_BigSpender",
@@ -89,7 +94,7 @@
       "Name": "Boss Down",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Award_BumperCar",
@@ -113,7 +118,7 @@
       "Name": "Clean Sweep",
       "Percentage": 95,
       "XP": 20,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -127,7 +132,7 @@
       "ID": "Award_DemolitionDerby",
       "SetID": "9ojec6n",
       "Name": "Demolition Derby",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -145,7 +150,7 @@
       "Name": "DocKing",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "Award_EarlyBird",
@@ -161,7 +166,7 @@
       "Name": "Extra Ammo",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Award_FinalAscension",
@@ -249,13 +254,13 @@
       "Name": "Line of Duty",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "Award_MilitaryIntelligence",
       "SetID": "9ojec6n",
       "Name": "Military Intelligence",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -321,7 +326,7 @@
       "Name": "Scavenger",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "Award_ShellShock",
@@ -361,15 +366,15 @@
       "Name": "Splash Damage",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Award_Stunning",
       "SetID": "9ojec6n",
       "Name": "Shocking",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 39
+      "UsersEstimate": 35
     },
     {
       "ID": "Award_SwissCheese",
@@ -407,7 +412,7 @@
       "ID": "Award_TimeRun",
       "SetID": "9ojec6n",
       "Name": "Time Run",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -424,7 +429,7 @@
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 352,
+      "Progressed": 353,
       "Completed": 1
     }
   ],
@@ -432,8 +437,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-05-19T20:05:42.6007451+00:00",
+  "LastChanged_Achievements": "2023-05-19T21:04:48.923471+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:49.6437871+00:00",
-  "LastUpdate_Ratings": "2023-05-19T19:58:23.8739607+00:00",
-  "LastUpdate_Achievements": "2023-05-19T20:05:42.6007776+00:00"
+  "LastUpdate_Ratings": "2023-05-19T20:57:46.4851134+00:00",
+  "LastUpdate_Achievements": "2023-05-19T21:04:48.9235053+00:00"
 }

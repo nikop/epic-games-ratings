@@ -34,12 +34,12 @@ Number of Ratings: 45  (23.09.2022)
 | Wingknight's Prowess | 4.00% | ~47 |
 | All My Birds, Safely Home | 4.00% | ~47 |
 | Turncoat | 4.00% | ~47 |
-| We Emerge Changed | 3.00% | ~35 |
-| Worldwalker | 3.00% | ~35 |
-| Bears are Scary | 3.00% | ~35 |
-| Grillmaster | 3.00% | ~35 |
-| Into Mulch | 3.00% | ~35 |
-| No Time for Clawmonsters | 3.00% | ~35 |
+| We Emerge Changed | 3.00% | ~36 |
+| Worldwalker | 3.00% | ~36 |
+| Bears are Scary | 3.00% | ~36 |
+| Grillmaster | 3.00% | ~36 |
+| Into Mulch | 3.00% | ~36 |
+| No Time for Clawmonsters | 3.00% | ~36 |
 | Storied Past | 2.00% | ~24 |
 | The Power of Friendship | 2.00% | ~24 |
 | Empty the Caves | 2.00% | ~24 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Overwhelming Monstrosity | 0.40% | ~5 |
 | Peacemaker | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,183 (Ranked 158)  
+Progressed: 1,184 (Ranked 158)  
 Completed: 3 (0.25%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 3 (0.25%) (Ranked 133)
 | 2023-05-16 | 1,175 | 3 |
 | 2023-05-17 | 1,179 | 3 |
 | 2023-05-18 | 1,181 | 3 |
-| 2023-05-19 | 1,183 | 3 |
+| 2023-05-19 | 1,184 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 455)  
 Sum: 27 (Ranked 462)  

@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Too Cool For School | 83.00% | ~95 |
-| Caretaker | 81.00% | ~92 |
+| Too Cool For School | 84.00% | ~96 |
+| Caretaker | 82.00% | ~93 |
 | Feng Shui | 71.00% | ~81 |
 | Who's A Good Boy | 68.00% | ~78 |
-| Power Up | 67.00% | ~76 |
-| Thick Skin | 65.00% | ~74 |
+| Power Up | 68.00% | ~78 |
+| Thick Skin | 66.00% | ~75 |
 | Math Wizard | 61.00% | ~70 |
 | Power Overload | 61.00% | ~70 |
-| Destroy Erase Improve | 60.00% | ~68 |
-| Quite A Snack | 55.00% | ~63 |
-| Overwhelming Power | 51.00% | ~58 |
-| Impenetrable Skin | 49.00% | ~56 |
+| Destroy Erase Improve | 61.00% | ~70 |
+| Quite A Snack | 56.00% | ~64 |
+| Overwhelming Power | 52.00% | ~59 |
+| Impenetrable Skin | 50.00% | ~57 |
 | Chomp Chomp! | 41.00% | ~47 |
 | Diaper Time! | 39.00% | ~44 |
 | Supreme Power | 38.00% | ~43 |
-| Glorious Battle | 37.00% | ~42 |
+| Glorious Battle | 38.00% | ~43 |
 | Target Practice | 37.00% | ~42 |
 | Meat Larder | 36.00% | ~41 |
-| The Duelist | 34.00% | ~39 |
-| Mutant And Proud | 34.00% | ~39 |
+| The Duelist | 35.00% | ~40 |
+| Mutant And Proud | 35.00% | ~40 |
 | Happy Little Home | 30.00% | ~34 |
+| The Emperor's New Clothes | 29.00% | ~33 |
 | Final Evolution | 29.00% | ~33 |
-| The Emperor's New Clothes | 28.00% | ~32 |
 | Godlike Power | 28.00% | ~32 |
 | Supremacy | 27.00% | ~31 |
 | You Shall Not Pass | 26.00% | ~30 |

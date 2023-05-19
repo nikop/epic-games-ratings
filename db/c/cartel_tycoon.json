@@ -280,7 +280,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 332,
+  "EOS_Progressed": 333,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
@@ -555,6 +555,11 @@
       "Time": "2023-05-18T16:07:03.4748301+00:00",
       "NumProgressed": 332,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-19T21:05:08.0038235+00:00",
+      "NumProgressed": 333,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 19,
@@ -564,9 +569,9 @@
       "ID": "complete-deals",
       "SetID": "bed33dd",
       "Name": "Safe Pair of Hands",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 117
     },
     {
       "ID": "cool-shirts",
@@ -590,7 +595,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "female-conqueror",
@@ -606,7 +611,7 @@
       "Name": "That was base",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "hire-lieutenant",
@@ -614,7 +619,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "kill-lieutenants",
@@ -630,7 +635,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "play-at-night",
@@ -702,7 +707,7 @@
       "Name": "Take-Off",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "use-submarine",
@@ -717,15 +722,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 332,
+      "Progressed": 333,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-05-19T20:06:04.2815634+00:00",
+  "LastChanged_Achievements": "2023-05-19T21:05:08.003823+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:45.257987+00:00",
-  "LastUpdate_Ratings": "2023-05-19T20:00:18.1418185+00:00",
-  "LastUpdate_Achievements": "2023-05-19T20:06:04.2815771+00:00"
+  "LastUpdate_Ratings": "2023-05-19T20:59:19.0384443+00:00",
+  "LastUpdate_Achievements": "2023-05-19T21:05:08.0038391+00:00"
 }

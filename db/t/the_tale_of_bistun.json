@@ -4,7 +4,7 @@
   "ProductSlug": "the-tale-of-bistun-9d6c5f",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 23,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-07-13T16:00:00+00:00",
@@ -82,41 +82,41 @@
       "ID": "BISTUN_ACHIEVEMENT_10",
       "SetID": "1kdk24p",
       "Name": "Prison Break",
-      "Percentage": 29,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_11",
       "SetID": "1kdk24p",
       "Name": "Skilled Hands",
-      "Percentage": 50,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_12",
       "SetID": "1kdk24p",
       "Name": "I Pick You",
-      "Percentage": 29,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_13",
       "SetID": "1kdk24p",
       "Name": "Accomplished Smithy",
-      "Percentage": 29,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_14",
       "SetID": "1kdk24p",
       "Name": "The Blight\u0027s Blight",
-      "Percentage": 29,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_15",
@@ -338,33 +338,33 @@
       "ID": "BISTUN_ACHIEVEMENT_6",
       "SetID": "1kdk24p",
       "Name": "The Milk Canal",
-      "Percentage": 29,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_7",
       "SetID": "1kdk24p",
       "Name": "Carving A Memory",
-      "Percentage": 50,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_8",
       "SetID": "1kdk24p",
       "Name": "Fledgling Smithy",
-      "Percentage": 29,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_9",
       "SetID": "1kdk24p",
       "Name": "At One With Nature",
-      "Percentage": 29,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
@@ -379,8 +379,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.7723222+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1212078+00:00",
   "LastChanged": "2023-03-31T05:58:10.7723223+00:00",
-  "LastChanged_Achievements": "2023-05-19T20:06:02.9240367+00:00",
+  "LastChanged_Achievements": "2023-05-19T21:05:06.8317485+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:44.4415674+00:00",
-  "LastUpdate_Ratings": "2023-05-19T20:00:03.8436665+00:00",
-  "LastUpdate_Achievements": "2023-05-19T20:06:02.9240664+00:00"
+  "LastUpdate_Ratings": "2023-05-19T20:59:08.1119505+00:00",
+  "LastUpdate_Achievements": "2023-05-19T21:05:06.8317828+00:00"
 }

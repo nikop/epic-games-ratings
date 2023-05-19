@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2673,
+  "EOS_Progressed": 2676,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -979,6 +979,11 @@
       "Time": "2023-05-19T19:24:17.267868+00:00",
       "NumProgressed": 2673,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-19T21:05:12.1097702+00:00",
+      "NumProgressed": 2676,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -990,7 +995,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "bonus2",
@@ -1038,7 +1043,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2406
+      "UsersEstimate": 2408
     },
     {
       "ID": "campaign10",
@@ -1086,7 +1091,7 @@
       "Name": "Almost Like Winning",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "campaign16",
@@ -1126,7 +1131,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2112
+      "UsersEstimate": 2114
     },
     {
       "ID": "campaign20",
@@ -1140,9 +1145,9 @@
       "ID": "campaign3",
       "SetID": "2h56gn1",
       "Name": "Economics 101",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1739
     },
     {
       "ID": "campaign4",
@@ -1150,7 +1155,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1283
+      "UsersEstimate": 1284
     },
     {
       "ID": "campaign5",
@@ -1158,7 +1163,7 @@
       "Name": "Clay Fighter",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "campaign6",
@@ -1174,7 +1179,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "campaign8",
@@ -1190,7 +1195,7 @@
       "Name": "Boulder Clash",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "scenario1",
@@ -1198,7 +1203,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1096
+      "UsersEstimate": 1097
     },
     {
       "ID": "scenario2",
@@ -1222,7 +1227,7 @@
       "Name": "A Secret Recipe",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "scenario5",
@@ -1253,7 +1258,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2673,
+      "Progressed": 2676,
       "Completed": 9
     }
   ],
@@ -1261,8 +1266,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-19T20:06:09.3815874+00:00",
+  "LastChanged_Achievements": "2023-05-19T21:05:12.1097696+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:08.6918917+00:00",
-  "LastUpdate_Ratings": "2023-05-19T20:00:25.733323+00:00",
-  "LastUpdate_Achievements": "2023-05-19T20:06:09.3816239+00:00"
+  "LastUpdate_Ratings": "2023-05-19T20:59:24.9030598+00:00",
+  "LastUpdate_Achievements": "2023-05-19T21:05:12.1097963+00:00"
 }

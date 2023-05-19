@@ -2,12 +2,12 @@
   "ID": "317acd36093b41cab801f4237499e5d7",
   "Name": "Train Valley",
   "ProductSlug": "train-valley-ead642",
-  "Ranking_Rating": 580,
+  "Ranking_Rating": 581,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -93,9 +93,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 280,
+  "EOS_Progressed": 281,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -147,6 +147,11 @@
     {
       "Time": "2023-05-18T17:03:12.5526211+00:00",
       "NumProgressed": 280,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-19T21:02:22.0483068+00:00",
+      "NumProgressed": 281,
       "NumCompleted": 2
     }
   ],
@@ -215,7 +220,7 @@
       "Name": "America",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "09_russia",
@@ -237,9 +242,9 @@
       "ID": "11_germany",
       "SetID": "chb1m60",
       "Name": "Germany",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "12_roll",
@@ -247,15 +252,15 @@
       "Name": "Let\u0027s roll!",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "13_bunkrupt",
       "SetID": "chb1m60",
       "Name": "It\u0027s no coincidence.",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 90
     },
     {
       "ID": "14_woodcutter",
@@ -263,7 +268,7 @@
       "Name": "Woodcutter",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "15_bbq",
@@ -311,7 +316,7 @@
       "Name": "Sabotage",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "21_missed",
@@ -319,7 +324,7 @@
       "Name": "Missed it!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "22_ouroboros",
@@ -333,9 +338,9 @@
       "ID": "23_closecall",
       "SetID": "chb1m60",
       "Name": "Close call!",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 208
     },
     {
       "ID": "24_mega",
@@ -365,9 +370,9 @@
       "ID": "27_lucky",
       "SetID": "chb1m60",
       "Name": "Lucky vandal",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "28_nonstop",
@@ -381,9 +386,9 @@
       "ID": "29_madness",
       "SetID": "chb1m60",
       "Name": "Madness!",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 73
     },
     {
       "ID": "30_completelynuts",
@@ -405,9 +410,9 @@
       "ID": "32_engineer",
       "SetID": "chb1m60",
       "Name": "Engineer",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "33_peacemaker",
@@ -421,9 +426,9 @@
       "ID": "34_needtothink",
       "SetID": "chb1m60",
       "Name": "Need to think",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 120
+      "UsersEstimate": 118
     },
     {
       "ID": "35_achtung",
@@ -431,7 +436,7 @@
       "Name": "Achtung!",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "36_supercrash",
@@ -470,15 +475,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 280,
+      "Progressed": 281,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-05-19T20:02:29.4856735+00:00",
+  "LastChanged_Achievements": "2023-05-19T21:02:22.0483063+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:08.2885298+00:00",
-  "LastUpdate_Ratings": "2023-05-19T19:57:40.9020959+00:00",
-  "LastUpdate_Achievements": "2023-05-19T20:02:29.4857042+00:00"
+  "LastUpdate_Ratings": "2023-05-19T20:57:16.0438172+00:00",
+  "LastUpdate_Achievements": "2023-05-19T21:02:22.0483348+00:00"
 }

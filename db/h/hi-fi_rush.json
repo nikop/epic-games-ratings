@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -76,9 +76,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1628,
+  "EOS_Progressed": 1629,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -581,6 +581,11 @@
       "Time": "2023-05-19T20:05:48.4225163+00:00",
       "NumProgressed": 1628,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-19T21:04:54.2091032+00:00",
+      "NumProgressed": 1629,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 61,
@@ -592,7 +597,7 @@
       "Name": "Start with a bang!",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "Ach002",
@@ -600,7 +605,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1172
+      "UsersEstimate": 1173
     },
     {
       "ID": "Ach003",
@@ -608,7 +613,7 @@
       "Name": "This will cost you big time",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 928
+      "UsersEstimate": 929
     },
     {
       "ID": "Ach004",
@@ -640,7 +645,7 @@
       "Name": "Who\u0027s the boss now?",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "Ach008",
@@ -704,7 +709,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "Ach016",
@@ -768,7 +773,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "Ach024",
@@ -832,7 +837,7 @@
       "Name": "Perfect Parry",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "Ach032",
@@ -848,7 +853,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 928
+      "UsersEstimate": 929
     },
     {
       "ID": "Ach034",
@@ -872,7 +877,7 @@
       "Name": "Kissing the sky!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 879
+      "UsersEstimate": 880
     },
     {
       "ID": "Ach037",
@@ -960,7 +965,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "Ach048",
@@ -968,7 +973,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "Ach049",
@@ -1000,7 +1005,7 @@
       "Name": "Wanna hear my playlist?",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "Ach053",
@@ -1016,7 +1021,7 @@
       "Name": "I told you I\u0027d be fine, Peppermint!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "Ach055",
@@ -1064,7 +1069,7 @@
       "Name": "Check out my moves!",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "Ach061",
@@ -1079,22 +1084,22 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 1628,
+      "Progressed": 1629,
       "Completed": 4
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 149,
-      "Completed": 149
+      "Progressed": 150,
+      "Completed": 150
     }
   ],
   "FirstSeen": "2023-01-26T02:08:08.7515496+00:00",
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-05-08T21:59:53.9566776+00:00",
-  "LastChanged_Achievements": "2023-05-19T20:05:48.4225158+00:00",
+  "LastChanged_Achievements": "2023-05-19T21:04:54.2091026+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:08.8665109+00:00",
-  "LastUpdate_Ratings": "2023-05-19T19:58:41.868162+00:00",
-  "LastUpdate_Achievements": "2023-05-19T20:05:48.4225768+00:00"
+  "LastUpdate_Ratings": "2023-05-19T20:58:01.5539624+00:00",
+  "LastUpdate_Achievements": "2023-05-19T21:04:54.2091633+00:00"
 }

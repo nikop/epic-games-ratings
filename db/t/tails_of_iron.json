@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1391,
+  "EOS_Progressed": 1392,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -410,6 +410,11 @@
       "Time": "2023-05-19T17:03:20.614032+00:00",
       "NumProgressed": 1391,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-19T21:02:29.0672015+00:00",
+      "NumProgressed": 1392,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -429,7 +434,7 @@
       "Name": "Collect Gold",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "Collect20Iron",
@@ -445,7 +450,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "CollectAllStatues",
@@ -469,7 +474,7 @@
       "Name": "King of Kings",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "CompleteArenaFaction",
@@ -501,7 +506,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1058
     },
     {
       "ID": "CompleteHunterFaction",
@@ -541,7 +546,7 @@
       "Name": "Defeat Ratnor Rodentson",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -557,7 +562,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "GetRangedWeapon",
@@ -573,7 +578,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "Kill25Bugs",
@@ -613,7 +618,7 @@
       "Name": "Discover the mystery of the Kings Chambers",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "RepairChef",
@@ -629,7 +634,7 @@
       "Name": "Smithy Ready to Craft",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "RepairThroneRoom",
@@ -651,31 +656,31 @@
       "ID": "ReturnPowerInMines",
       "SetID": "9lj35g4",
       "Name": "Return Power To The Depths",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 473
+      "UsersEstimate": 459
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1391,
+      "Progressed": 1392,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 32,
-      "Completed": 32
+      "Progressed": 33,
+      "Completed": 33
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-04-02T20:59:05.8070796+00:00",
-  "LastChanged_Achievements": "2023-05-19T20:03:18.7325706+00:00",
+  "LastChanged_Achievements": "2023-05-19T21:02:29.067201+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3670256+00:00",
-  "LastUpdate_Ratings": "2023-05-19T19:58:28.849926+00:00",
-  "LastUpdate_Achievements": "2023-05-19T20:03:18.732594+00:00"
+  "LastUpdate_Ratings": "2023-05-19T20:57:50.7568607+00:00",
+  "LastUpdate_Achievements": "2023-05-19T21:02:29.0672231+00:00"
 }

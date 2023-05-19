@@ -6,8 +6,8 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 171,
-  "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_Completed": 136,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -176,11 +176,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 813,
+  "EOS_Progressed": 821,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.25,
+  "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:23.1376838+00:00",
@@ -706,6 +706,11 @@
       "Time": "2023-05-19T20:05:39.7602706+00:00",
       "NumProgressed": 813,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-19T21:04:46.5215914+00:00",
+      "NumProgressed": 821,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -779,9 +784,9 @@
       "ID": "REWARD_18_ORGAN_GRINDER",
       "SetID": "bm6el81",
       "Name": "Organ Grinder",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -797,7 +802,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -883,9 +888,9 @@
       "ID": "REWARD_2_GATHERING_INTEL",
       "SetID": "bm6el81",
       "Name": "Confirming Suspicions",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 16
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -915,9 +920,9 @@
       "ID": "REWARD_34_TRIPLE_KILL",
       "SetID": "bm6el81",
       "Name": "Explosive Efficiency",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -1051,9 +1056,9 @@
       "ID": "REWARD_5_BUNKER_BUSTER",
       "SetID": "bm6el81",
       "Name": "Change the Channel",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -1083,9 +1088,9 @@
       "ID": "REWARD_6_BIG_GAME_HUNTER",
       "SetID": "bm6el81",
       "Name": "Taking it back",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -1284,13 +1289,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 764,
+      "Progressed": 772,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 813,
+      "Progressed": 821,
       "Completed": 2
     }
   ],
@@ -1298,8 +1303,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-18T16:01:31.1520338+00:00",
-  "LastChanged_Achievements": "2023-05-19T20:05:39.7602703+00:00",
+  "LastChanged_Achievements": "2023-05-19T21:04:46.5215909+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-19T20:00:43.0334796+00:00",
-  "LastUpdate_Achievements": "2023-05-19T20:05:39.7603414+00:00"
+  "LastUpdate_Ratings": "2023-05-19T20:59:38.7274604+00:00",
+  "LastUpdate_Achievements": "2023-05-19T21:04:46.5216656+00:00"
 }

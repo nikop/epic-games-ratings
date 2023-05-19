@@ -4,7 +4,7 @@
   "ProductSlug": "elypse-b177a8",
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -160,9 +160,9 @@
       "ID": "Ach_BossSlug",
       "SetID": "4o5gjp0",
       "Name": "\u0022Swoosh\u0022",
-      "Percentage": 64,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Ach_BossSlugMk2",
@@ -224,9 +224,9 @@
       "ID": "Ach_DiscoveryCaverns",
       "SetID": "4o5gjp0",
       "Name": "The light at the end of the tunnel",
-      "Percentage": 64,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Ach_DiscoveryCelestialIsland",
@@ -399,8 +399,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-05-19T20:05:34.7829686+00:00",
+  "LastChanged_Achievements": "2023-05-19T21:04:41.5727163+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.0525193+00:00",
-  "LastUpdate_Ratings": "2023-05-19T19:57:59.2309531+00:00",
-  "LastUpdate_Achievements": "2023-05-19T20:05:34.7829936+00:00"
+  "LastUpdate_Ratings": "2023-05-19T20:57:30.8885258+00:00",
+  "LastUpdate_Achievements": "2023-05-19T21:04:41.572741+00:00"
 }

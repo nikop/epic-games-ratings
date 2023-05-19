@@ -6,15 +6,15 @@ Number of Ratings: 75  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 49.00% | ~2,339 |
+| Level: Returning Home | 49.00% | ~2,340 |
 | Returning Home: Quick Learner | 25.00% | ~1,194 |
-| Level: Charlie's Circuits | 22.00% | ~1,050 |
+| Level: Charlie's Circuits | 22.00% | ~1,051 |
 | Level: Rising Markets | 9.00% | ~430 |
 | Peddler | 8.00% | ~382 |
 | Level: Extra Life | 7.00% | ~334 |
 | Rising Markets: Avoiding the Reds | 7.00% | ~334 |
 | Data Churn Type I | 7.00% | ~334 |
-| Millionaire | 6.00% | ~286 |
+| Millionaire | 6.00% | ~287 |
 | Data Churn Type II | 5.00% | ~239 |
 | Speedy | 5.00% | ~239 |
 | Extra Life: Wish Granted | 4.00% | ~191 |
@@ -24,17 +24,17 @@ Number of Ratings: 75  (23.09.2022)
 | Campaign: Lesson Learned | 3.00% | ~143 |
 | Level: Bet On Bots | 3.00% | ~143 |
 | Modular Performance | 3.00% | ~143 |
-| Level: Merry-Go-Around | 2.00% | ~95 |
-| Charlies's Circuits: Artist | 2.00% | ~95 |
-| Modular Peak | 2.00% | ~95 |
-| Accountant | 2.00% | ~95 |
-| Data Churn Type III | 2.00% | ~95 |
-| Multi-Millionaire | 2.00% | ~95 |
-| Contender | 2.00% | ~95 |
-| Trophy Collector | 2.00% | ~95 |
-| Module Maniac | 2.00% | ~95 |
-| Overproducer | 2.00% | ~95 |
-| Natural Talent | 2.00% | ~95 |
+| Level: Merry-Go-Around | 2.00% | ~96 |
+| Charlies's Circuits: Artist | 2.00% | ~96 |
+| Modular Peak | 2.00% | ~96 |
+| Accountant | 2.00% | ~96 |
+| Data Churn Type III | 2.00% | ~96 |
+| Multi-Millionaire | 2.00% | ~96 |
+| Contender | 2.00% | ~96 |
+| Trophy Collector | 2.00% | ~96 |
+| Module Maniac | 2.00% | ~96 |
+| Overproducer | 2.00% | ~96 |
+| Natural Talent | 2.00% | ~96 |
 | Level: A Happy Taskforce | 1.00% | ~48 |
 | Level: The Machinery | 1.00% | ~48 |
 | Extra Life: Knowledge Cap | 1.00% | ~48 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,774 (Ranked 125)  
+Progressed: 4,776 (Ranked 125)  
 Completed: 1 (0.02%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 1 (0.02%) (Ranked 187)
 | 2023-05-16 | 4,759 | 1 |
 | 2023-05-17 | 4,763 | 1 |
 | 2023-05-18 | 4,766 | 1 |
-| 2023-05-19 | 4,774 | 1 |
+| 2023-05-19 | 4,776 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

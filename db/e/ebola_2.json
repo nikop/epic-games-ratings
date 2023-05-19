@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 171,
+  "EOS_Progressed": 172,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
@@ -581,6 +581,11 @@
       "Time": "2023-05-19T20:03:45.9713536+00:00",
       "NumProgressed": 171,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T21:03:21.2015296+00:00",
+      "NumProgressed": 172,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -710,9 +715,9 @@
       "ID": "achStatue",
       "SetID": "1al1mjg",
       "Name": "Statue \u2714",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 107
     },
     {
       "ID": "achVirus",
@@ -735,14 +740,14 @@
     {
       "ID": "1al1mjg",
       "IsBase": true,
-      "Progressed": 171,
+      "Progressed": 172,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-05-19T20:03:45.9713533+00:00",
+  "LastChanged_Achievements": "2023-05-19T21:03:21.201529+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:00.6189303+00:00",
-  "LastUpdate_Ratings": "2023-05-19T19:57:12.041418+00:00",
-  "LastUpdate_Achievements": "2023-05-19T20:03:45.9713697+00:00"
+  "LastUpdate_Ratings": "2023-05-19T20:56:52.851025+00:00",
+  "LastUpdate_Achievements": "2023-05-19T21:03:21.2015444+00:00"
 }

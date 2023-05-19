@@ -6,30 +6,30 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 74.00% | ~1,790 |
-| Ready for Winter | 64.00% | ~1,548 |
-| Ready for Summer | 51.00% | ~1,234 |
-| Cordon Bleu | 43.00% | ~1,040 |
-| Tapped! | 36.00% | ~871 |
-| Eureka | 31.00% | ~750 |
-| Scourge Slayer | 26.00% | ~629 |
-| Science, Troglodyte! | 23.00% | ~556 |
-| Exceptional Skill | 22.00% | ~532 |
-| Home Sweet Home | 22.00% | ~532 |
+| Venture Outward | 74.00% | ~1,792 |
+| Ready for Winter | 64.00% | ~1,550 |
+| Ready for Summer | 51.00% | ~1,235 |
+| Cordon Bleu | 43.00% | ~1,041 |
+| Tapped! | 36.00% | ~872 |
+| Eureka | 31.00% | ~751 |
+| Scourge Slayer | 26.00% | ~630 |
+| Science, Troglodyte! | 23.00% | ~557 |
+| Exceptional Skill | 22.00% | ~533 |
+| Home Sweet Home | 22.00% | ~533 |
 | Encyclopedic! | 20.00% | ~484 |
-| A Fortress Toppled! | 16.00% | ~387 |
-| Apex Predator | 16.00% | ~387 |
-| The Power of Family | 16.00% | ~387 |
-| Strange amalgams | 13.00% | ~314 |
-| The Power of Faith | 13.00% | ~314 |
+| A Fortress Toppled! | 16.00% | ~388 |
+| Apex Predator | 16.00% | ~388 |
+| The Power of Family | 16.00% | ~388 |
+| Strange amalgams | 13.00% | ~315 |
+| The Power of Faith | 13.00% | ~315 |
 | The Power of Freedom | 9.00% | ~218 |
 | Ace Detective | 8.00% | ~194 |
 | Gift from the Ancestors | 8.00% | ~194 |
 | House of Cards | 8.00% | ~194 |
 | Magic is a science | 8.00% | ~194 |
-| Let ‘em eat magma! | 7.00% | ~169 |
-| The power of ambition | 7.00% | ~169 |
-| The stuff of legends. | 7.00% | ~169 |
+| Let ‘em eat magma! | 7.00% | ~170 |
+| The power of ambition | 7.00% | ~170 |
+| The stuff of legends. | 7.00% | ~170 |
 | Blood and justice | 6.00% | ~145 |
 | Hold my Mead and Watch This | 6.00% | ~145 |
 | Ancestor's Pride | 5.00% | ~121 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.40% | ~10 |
 | The Absolute Pinnacle. | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,419 (Ranked 140)  
+Progressed: 2,422 (Ranked 140)  
 Completed: 1 (0.04%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 1 (0.04%) (Ranked 178)
 | 2023-05-16 | 2,378 | 1 |
 | 2023-05-17 | 2,382 | 1 |
 | 2023-05-18 | 2,397 | 1 |
-| 2023-05-19 | 2,419 | 1 |
+| 2023-05-19 | 2,422 | 1 |
 ## Awards
 Max (Amazing Characters): 31  (Ranked 440)  
 Sum: 238 (Ranked 342)  
