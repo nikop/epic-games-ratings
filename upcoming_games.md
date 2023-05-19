@@ -84,6 +84,7 @@
 | [Paw Paw Destiny](games/p/paw_paw_destiny.md) | 2023-08-16 | 2023-08-16 |
 | [RIDE 5](games/r/ride_5.md) | 2023-08-24 | 2023-08-24 |
 | [Interceptor](games/i/interceptor.md) | 2023-08-31 | 2023-08-31 |
+| [Presences: Dark Awakening](games/c/c7eccf43baf24a47a98d1a43108bb187.md) | 2023-08-31 | 2023-08-31 |
 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 2023-09-05 | 2023-09-05 |
 | [The Many Pieces of Mr. Coo](games/t/the_many_pieces_of_mr._coo.md) | 2023-09-06 | 2023-09-06 |
 | [Dirty Wars: September 11](games/a/a3df291e5482464898a00f1ed892605f.md) | 2023-09-11 | 2023-09-11 |

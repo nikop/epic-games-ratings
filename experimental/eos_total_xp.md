@@ -225,6 +225,7 @@
 | [Learning Factory](../games/l/learning_factory.md) | 57 | 1,000 |
 | [LEGO® Star Wars™: The Skywalker Saga](../games/l/lego®_star_wars™__the_skywalker_saga.md) | 45 | 1,000 |
 | [Lemon Cake](../games/l/lemon_cake.md) | 17 | 1,000 |
+| [Lichenvale](../games/l/lichenvale.md) | 11 | 1,000 |
 | [Lifeslide](../games/l/lifeslide.md) | 31 | 1,000 |
 | [LOOPMANCER](../games/l/loopmancer.md) | 57 | 1,000 |
 | [Loretta](../games/l/loretta.md) | 22 | 1,000 |
