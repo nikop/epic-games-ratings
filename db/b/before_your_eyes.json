@@ -4,7 +4,7 @@
   "ProductSlug": "before-your-eyes",
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 280,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-04-08T12:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:35.7172572+00:00",
   "LastChanged": "2023-03-31T05:58:35.7172573+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:57.59746+00:00",
-  "LastUpdate_Ratings": "2023-05-18T22:58:48.0332987+00:00",
-  "LastUpdate_Achievements": "2023-05-18T23:05:03.3224235+00:00"
+  "LastUpdate_Ratings": "2023-05-18T23:58:30.1491433+00:00",
+  "LastUpdate_Achievements": "2023-05-19T00:05:10.2058297+00:00"
 }

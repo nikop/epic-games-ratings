@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A path of no return | 110.00% | ~11 |
-| Pigeon | 80.00% | ~8 |
-| A bottomless pit | 80.00% | ~8 |
+| Pigeon | 90.00% | ~9 |
+| A bottomless pit | 90.00% | ~9 |
 | Splash! | 70.00% | ~7 |
 | Baited | 60.00% | ~6 |
 | Hard Rock | 60.00% | ~6 |
@@ -14,21 +14,21 @@
 | The light at the end of the tunnel | 50.00% | ~5 |
 | Soft skin | 50.00% | ~5 |
 | Squid game | 40.00% | ~4 |
+| Rock Solid | 40.00% | ~4 |
 | Masochistic | 40.00% | ~4 |
 | Rooftop | 40.00% | ~4 |
 | Sensitive soul | 40.00% | ~4 |
-| Rock Solid | 30.00% | ~3 |
 | The beast within | 30.00% | ~3 |
 | It's getting dark | 30.00% | ~3 |
 | Homeless | 30.00% | ~3 |
 | Big badaboom! | 30.00% | ~3 |
 | Nokron tower | 20.00% | ~2 |
+| MayDay! MayDay! | 20.00% | ~2 |
 | Magnitude 5 | 20.00% | ~2 |
 | Bookworm | 20.00% | ~2 |
 | Payback | 20.00% | ~2 |
 | Full power | 10.00% | ~1 |
 | "Ah sh*t... Here we go again!" | 10.00% | ~1 |
-| MayDay! MayDay! | 10.00% | ~1 |
 | Abyssal God | 0.00% | ~0 |
 | GG EZ | 0.00% | ~0 |
 | Compulsive hoarder | 0.00% | ~0 |

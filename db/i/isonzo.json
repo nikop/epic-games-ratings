@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -538,9 +538,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5641,
+  "EOS_Progressed": 5642,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -928,6 +928,11 @@
       "Time": "2023-05-18T23:06:58.1387656+00:00",
       "NumProgressed": 5641,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-19T00:06:55.8629024+00:00",
+      "NumProgressed": 5642,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -1059,7 +1064,7 @@
       "Name": "Generalissimo",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "ISONZO_ACH_INSUBORDINATION",
@@ -1131,7 +1136,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3046
+      "UsersEstimate": 3047
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -1187,7 +1192,7 @@
       "Name": "Silver Lining",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -1219,7 +1224,7 @@
       "Name": "The Enlightment",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "ISONZO_ACH_THE_ITALIAN_JOB",
@@ -1235,7 +1240,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -1298,7 +1303,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5641,
+      "Progressed": 5642,
       "Completed": 8
     }
   ],
@@ -1306,8 +1311,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-18T21:57:24.3504815+00:00",
-  "LastChanged_Achievements": "2023-05-18T23:06:58.1387649+00:00",
+  "LastChanged_Achievements": "2023-05-19T00:06:55.8629017+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:18.2018805+00:00",
-  "LastUpdate_Ratings": "2023-05-18T22:57:55.4371081+00:00",
-  "LastUpdate_Achievements": "2023-05-18T23:06:58.1388046+00:00"
+  "LastUpdate_Ratings": "2023-05-18T23:57:36.2977734+00:00",
+  "LastUpdate_Achievements": "2023-05-19T00:06:55.8629376+00:00"
 }

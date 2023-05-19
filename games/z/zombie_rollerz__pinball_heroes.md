@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 95.00% | ~58 |
-| Bullseye! | 89.00% | ~54 |
-| Villfir Forest | 84.00% | ~51 |
-| Graduation! | 77.00% | ~47 |
-| Right in the kisser! | 66.00% | ~40 |
-| Duscot Steamcity | 57.00% | ~35 |
-| The Shaman | 54.00% | ~33 |
-| The Penguin | 51.00% | ~31 |
-| The Magician | 51.00% | ~31 |
-| The Thrower | 48.00% | ~29 |
+| Level Up! | 94.00% | ~58 |
+| Bullseye! | 87.00% | ~54 |
+| Villfir Forest | 82.00% | ~51 |
+| Graduation! | 76.00% | ~47 |
+| Right in the kisser! | 65.00% | ~40 |
+| Duscot Steamcity | 56.00% | ~35 |
+| The Shaman | 55.00% | ~34 |
+| The Penguin | 52.00% | ~32 |
+| The Magician | 50.00% | ~31 |
+| The Thrower | 47.00% | ~29 |
 | The Tunneler | 44.00% | ~27 |
-| Kill-streak | 41.00% | ~25 |
-| Level Up!! | 41.00% | ~25 |
-| The Shield | 41.00% | ~25 |
+| Kill-streak | 40.00% | ~25 |
+| Level Up!! | 40.00% | ~25 |
+| The Shield | 40.00% | ~25 |
 | The Bird | 34.00% | ~21 |
-| The Idol | 30.00% | ~18 |
-| The Ninja | 30.00% | ~18 |
+| The Idol | 29.00% | ~18 |
+| The Ninja | 29.00% | ~18 |
 | Topped up | 26.00% | ~16 |
 | Inferno Ruins | 26.00% | ~16 |
-| I'm Rich | 25.00% | ~15 |
+| I'm Rich | 24.00% | ~15 |
 | Untouchable | 23.00% | ~14 |
 | 1 is all I need | 21.00% | ~13 |
-| The Giant | 20.00% | ~12 |
-| The Slime | 20.00% | ~12 |
+| The Giant | 19.00% | ~12 |
+| The Slime | 19.00% | ~12 |
 | Out of the Frying Pan... | 18.00% | ~11 |
 | The Blacksmith | 16.00% | ~10 |
 | The Flower | 16.00% | ~10 |
@@ -78,7 +78,7 @@
 | Satellite | 0.00% | ~0 |
 | Zombie Slayer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61 (Ranked 277)  
+Progressed: 62 (Ranked 277)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,6 +92,7 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-15 | 58 | 0 |
 | 2023-05-17 | 59 | 0 |
 | 2023-05-18 | 61 | 0 |
+| 2023-05-19 | 62 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

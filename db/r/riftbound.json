@@ -2,9 +2,9 @@
   "ID": "62c5dc16e57d4850916f5de42635625d",
   "Name": "Riftbound",
   "ProductSlug": "riftbound-db891d",
-  "Ranking_EOS_Progress": 338,
+  "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-05-18T23:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 8,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38,6 +38,11 @@
     {
       "Time": "2023-05-17T10:03:14.3901642+00:00",
       "NumProgressed": 6,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T00:04:29.577086+00:00",
+      "NumProgressed": 8,
       "NumCompleted": 0
     }
   ],
@@ -56,9 +61,9 @@
       "ID": "ACH_AdventureTime",
       "SetID": "1od64h3",
       "Name": "Adventure Time",
-      "Percentage": 67,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_ApprenticeSummoner",
@@ -184,9 +189,9 @@
       "ID": "ACH_MasterOfTheArts",
       "SetID": "1od64h3",
       "Name": "Master Of The Arts",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_OneHandTied",
@@ -265,13 +270,13 @@
     {
       "ID": "1od64h3",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 8,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:45:02.2220313+00:00",
-  "LastChanged_Achievements": "2023-05-18T23:04:32.1208756+00:00",
+  "LastChanged_Achievements": "2023-05-19T00:04:29.5770855+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:12.4637445+00:00",
-  "LastUpdate_Ratings": "2023-05-18T22:57:46.7671312+00:00",
-  "LastUpdate_Achievements": "2023-05-18T23:04:32.1208968+00:00"
+  "LastUpdate_Ratings": "2023-05-18T23:57:25.7763662+00:00",
+  "LastUpdate_Achievements": "2023-05-19T00:04:29.5771046+00:00"
 }

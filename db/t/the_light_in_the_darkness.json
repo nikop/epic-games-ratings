@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1311,
+  "EOS_Progressed": 1312,
   "EOS_Completed": 104,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 7.93,
   "EosHistory": [
@@ -1268,6 +1268,11 @@
       "Time": "2023-05-18T21:06:53.0228058+00:00",
       "NumProgressed": 1311,
       "NumCompleted": 104
+    },
+    {
+      "Time": "2023-05-19T00:07:08.5511767+00:00",
+      "NumProgressed": 1312,
+      "NumCompleted": 104
     }
   ],
   "TotalAchievements": 12,
@@ -1295,7 +1300,7 @@
       "Name": "Building the Fox",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "Green Ticket Roundup",
@@ -1319,7 +1324,7 @@
       "Name": "Jakob",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "Jude",
@@ -1374,7 +1379,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1311,
+      "Progressed": 1312,
       "Completed": 104
     }
   ],
@@ -1382,8 +1387,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-18T23:07:10.7026477+00:00",
+  "LastChanged_Achievements": "2023-05-19T00:07:08.5511762+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:31.0168757+00:00",
-  "LastUpdate_Ratings": "2023-05-18T23:01:00.1742738+00:00",
-  "LastUpdate_Achievements": "2023-05-18T23:07:10.7026643+00:00"
+  "LastUpdate_Ratings": "2023-05-19T00:00:37.9555678+00:00",
+  "LastUpdate_Achievements": "2023-05-19T00:07:08.551194+00:00"
 }

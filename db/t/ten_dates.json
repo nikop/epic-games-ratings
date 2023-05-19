@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -248,8 +248,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-05-18T23:06:40.3804826+00:00",
+  "LastChanged_Achievements": "2023-05-19T00:06:38.0790736+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:22.1343656+00:00",
-  "LastUpdate_Ratings": "2023-05-18T22:57:59.0086093+00:00",
-  "LastUpdate_Achievements": "2023-05-18T23:06:40.3805001+00:00"
+  "LastUpdate_Ratings": "2023-05-18T23:57:40.10682+00:00",
+  "LastUpdate_Achievements": "2023-05-19T00:06:38.0790888+00:00"
 }

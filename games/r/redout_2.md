@@ -7,8 +7,8 @@ Rating: 4.45 (Ranked 604)
 | ---- | ---------- | ----- |
 | Rookie No More | 26.00% | ~252 |
 | Increasing your Power Level | 26.00% | ~252 |
-| Enter the Speed Gauntlet | 23.00% | ~223 |
-| I just can't choose | 23.00% | ~223 |
+| Enter the Speed Gauntlet | 24.00% | ~233 |
+| I just can't choose | 24.00% | ~233 |
 | A Cheese Grater to the Face | 19.00% | ~184 |
 | Put it on a shelf | 18.00% | ~175 |
 | It's like an haircut | 17.00% | ~165 |

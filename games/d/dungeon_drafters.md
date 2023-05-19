@@ -11,8 +11,8 @@
 | Setting Off | 38.00% | ~9 |
 | Clear as Water | 33.00% | ~8 |
 | Shine! | 33.00% | ~8 |
+| Dungeon Mastery | 29.00% | ~7 |
 | Riddlesolver | 29.00% | ~7 |
-| Dungeon Mastery | 25.00% | ~6 |
 | The Apprentice | 17.00% | ~4 |
 | The Steed | 17.00% | ~4 |
 | A Strange Proposition | 17.00% | ~4 |

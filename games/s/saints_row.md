@@ -6,8 +6,8 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 2.00% | ~589 |
-| To The Nines | 2.00% | ~589 |
+| First F#@!ing Day | 2.00% | ~590 |
+| To The Nines | 2.00% | ~590 |
 | Finders Keepers | 1.00% | ~295 |
 | The Side Job | 1.00% | ~295 |
 | Wet Work | 1.00% | ~295 |
@@ -19,26 +19,27 @@ Number of Ratings: 22,103  (23.09.2022)
 | Wrecking Ball | 1.00% | ~295 |
 | Making a Name | 1.00% | ~295 |
 | Food for Thought | 1.00% | ~295 |
-| Work Ethic | 0.90% | ~265 |
+| Work Ethic | 0.90% | ~266 |
+| Quality Time | 0.80% | ~236 |
+| Power Players | 0.80% | ~236 |
 | Picking Fights | 0.80% | ~236 |
-| Quality Time | 0.70% | ~206 |
-| Power Players | 0.70% | ~206 |
-| Took It to The Limit | 0.70% | ~206 |
+| Et tu? | 0.70% | ~207 |
+| Took It to The Limit | 0.70% | ~207 |
 | Showdown | 0.60% | ~177 |
 | Kitted Out | 0.60% | ~177 |
-| Et tu? | 0.60% | ~177 |
-| Masters of Santo Ileso | 0.50% | ~147 |
+| Masters of Santo Ileso | 0.50% | ~148 |
+| Hijacked | 0.40% | ~118 |
+| We could go home, or… | 0.40% | ~118 |
 | The Spins | 0.40% | ~118 |
+| A Golden Age | 0.40% | ~118 |
 | The Mechanic | 0.40% | ~118 |
-| Producer Credit | 0.40% | ~4 |
-| Face Off | 0.40% | ~4 |
-| Hijacked | 0.30% | ~88 |
-| We could go home, or… | 0.30% | ~88 |
-| Challenge Accepted | 0.30% | ~88 |
-| Untouchable | 0.30% | ~88 |
-| A Golden Age | 0.30% | ~88 |
-| Closet Space | 0.30% | ~88 |
+| Closet Space | 0.40% | ~118 |
+| Producer Credit | 0.40% | ~5 |
+| Face Off | 0.40% | ~5 |
+| Challenge Accepted | 0.30% | ~89 |
+| Untouchable | 0.30% | ~89 |
 | Hazardous Heist | 0.30% | ~3 |
+| Shopping Spree | 0.20% | ~59 |
 | The Professional | 0.20% | ~59 |
 | Chaos Tamer | 0.20% | ~59 |
 | Free Refills | 0.20% | ~59 |
@@ -46,21 +47,20 @@ Number of Ratings: 22,103  (23.09.2022)
 | Prankster | 0.20% | ~59 |
 | Smooth Moves | 0.20% | ~59 |
 | Tourist | 0.20% | ~59 |
-| Jack of All Trades | 0.10% | ~29 |
-| It's a Bird! | 0.10% | ~29 |
-| Shopping Spree | 0.10% | ~29 |
-| The Collector | 0.10% | ~29 |
-| Always Be Hustling | 0.10% | ~29 |
-| Statement Pieces | 0.10% | ~29 |
-| Bonus Round | 0.10% | ~29 |
-| Armor Piercing | 0.10% | ~29 |
-| A Car Named Simone | 0.10% | ~29 |
-| Community Outreach | 0.10% | ~29 |
-| Heard You Like Wheels | 0.10% | ~29 |
-| Fiesta Time | 0.10% | ~29 |
-| All Mine | 0.10% | ~29 |
+| Jack of All Trades | 0.10% | ~30 |
+| It's a Bird! | 0.10% | ~30 |
+| The Collector | 0.10% | ~30 |
+| Always Be Hustling | 0.10% | ~30 |
+| Statement Pieces | 0.10% | ~30 |
+| Bonus Round | 0.10% | ~30 |
+| Armor Piercing | 0.10% | ~30 |
+| A Car Named Simone | 0.10% | ~30 |
+| Community Outreach | 0.10% | ~30 |
+| Heard You Like Wheels | 0.10% | ~30 |
+| Fiesta Time | 0.10% | ~30 |
+| All Mine | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,461 (Ranked 84)  
+Progressed: 29,520 (Ranked 84)  
 Completed: 19 (0.06%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,6 +89,7 @@ Completed: 19 (0.06%) (Ranked 169)
 | 2023-05-16 | 28,544 | 18 |
 | 2023-05-17 | 28,880 | 18 |
 | 2023-05-18 | 29,461 | 19 |
+| 2023-05-19 | 29,520 | 19 |
 ## Awards
 Max (Extremely Fun): 1,029  (Ranked 133)  
 Sum: 8,334 (Ranked 88)  

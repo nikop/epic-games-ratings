@@ -6,18 +6,18 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~219,554 |
-| Uncharted Territory | 89.00% | ~203,545 |
-| Getting A Glimpse | 73.00% | ~166,952 |
-| A Quick Escape | 65.00% | ~148,656 |
-| Explorer | 62.00% | ~141,795 |
-| Defeat The Dark | 61.00% | ~139,508 |
-| An Offering | 61.00% | ~139,508 |
-| Colorful Corpse | 58.00% | ~132,647 |
-| That Was Quick | 56.00% | ~128,073 |
-| A Donation | 56.00% | ~128,073 |
-| Goodbye, Frog Friend | 54.00% | ~123,499 |
-| Heavy Hitter | 52.00% | ~118,925 |
+| First Steps | 96.00% | ~219,555 |
+| Uncharted Territory | 89.00% | ~203,546 |
+| Getting A Glimpse | 73.00% | ~166,953 |
+| A Quick Escape | 65.00% | ~148,657 |
+| Explorer | 62.00% | ~141,796 |
+| Defeat The Dark | 61.00% | ~139,509 |
+| An Offering | 61.00% | ~139,509 |
+| Colorful Corpse | 58.00% | ~132,648 |
+| That Was Quick | 56.00% | ~128,074 |
+| A Donation | 56.00% | ~128,074 |
+| Goodbye, Frog Friend | 54.00% | ~123,500 |
+| Heavy Hitter | 52.00% | ~118,926 |
 | Heartless | 46.00% | ~105,203 |
 | Spine Breaker | 46.00% | ~105,203 |
 | Deflection | 44.00% | ~100,629 |
@@ -44,12 +44,12 @@ Number of Ratings: 15,086  (23.09.2022)
 | Destroy Your Fears | 26.00% | ~59,463 |
 | New Perspectives | 26.00% | ~59,463 |
 | Shapeshifting | 26.00% | ~59,463 |
-| Save Our Souls | 24.00% | ~54,888 |
-| To The Death! | 19.00% | ~43,453 |
-| Well Prepared | 19.00% | ~43,453 |
-| Just Chilling | 19.00% | ~43,453 |
-| All Consuming | 18.00% | ~41,166 |
-| Stop Hitting Yourself | 18.00% | ~41,166 |
+| Save Our Souls | 24.00% | ~54,889 |
+| To The Death! | 19.00% | ~43,454 |
+| Well Prepared | 19.00% | ~43,454 |
+| Just Chilling | 19.00% | ~43,454 |
+| All Consuming | 18.00% | ~41,167 |
+| Stop Hitting Yourself | 18.00% | ~41,167 |
 | Shadow Spreads | 16.00% | ~36,592 |
 | Max Damage! | 16.00% | ~36,592 |
 | Don't Ignore Me! | 16.00% | ~36,592 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~915 |
 | Near Death Experience | 0.30% | ~686 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,702 (Ranked 41)  
+Progressed: 228,703 (Ranked 41)  
 Completed: 229 (0.10%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,6 +158,7 @@ Completed: 229 (0.10%) (Ranked 157)
 | 2023-05-16 | 228,550 | 229 |
 | 2023-05-17 | 228,618 | 229 |
 | 2023-05-18 | 228,702 | 229 |
+| 2023-05-19 | 228,703 | 229 |
 ## Awards
 Max (Quickly Understood Controls): 1,473  (Ranked 114)  
 Sum: 11,403 (Ranked 74)  

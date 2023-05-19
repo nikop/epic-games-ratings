@@ -6,21 +6,21 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 54.00% | ~3,046 |
+| Peak Performance | 54.00% | ~3,047 |
 | Tutti Eroi! | 53.00% | ~2,990 |
 | You Shall Not Pass | 53.00% | ~2,990 |
 | Avanti Savoia! | 46.00% | ~2,595 |
 | Conrad von Hotzensocks | 36.00% | ~2,031 |
 | Mamma Mia! | 36.00% | ~2,031 |
 | Gabriele D'Annunzio | 32.00% | ~1,805 |
-| Silver Lining | 28.00% | ~1,579 |
+| Silver Lining | 28.00% | ~1,580 |
 | Aurelio Baruzzi | 22.00% | ~1,241 |
 | Veni Vidi Vici | 22.00% | ~1,241 |
 | Decimation | 20.00% | ~1,128 |
 | Donatello | 20.00% | ~1,128 |
 | Insubordination | 19.00% | ~1,072 |
 | The Italian Job | 19.00% | ~1,072 |
-| The Lion of the Isonzo | 18.00% | ~1,015 |
+| The Lion of the Isonzo | 18.00% | ~1,016 |
 | Ragazzi del '99 | 17.00% | ~959 |
 | Thus With A Kiss | 15.00% | ~846 |
 | Dirty Dozen | 14.00% | ~790 |
@@ -35,8 +35,8 @@ Number of Ratings: 98  (23.09.2022)
 | Millenial | 9.00% | ~508 |
 | The Show Must Go On | 8.00% | ~451 |
 | Tosca | 8.00% | ~451 |
-| Generalissimo | 6.00% | ~338 |
-| The Enlightment | 6.00% | ~338 |
+| Generalissimo | 6.00% | ~339 |
+| The Enlightment | 6.00% | ~339 |
 | 12th Bottle of the Isonzo | 5.00% | ~282 |
 | Cercatore d'Oro | 5.00% | ~282 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~226 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~23 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,641 (Ranked 119)  
+Progressed: 5,642 (Ranked 119)  
 Completed: 8 (0.14%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,6 +78,7 @@ Completed: 8 (0.14%) (Ranked 150)
 | 2023-05-14 | 5,623 | 8 |
 | 2023-05-16 | 5,626 | 8 |
 | 2023-05-18 | 5,641 | 8 |
+| 2023-05-19 | 5,642 | 8 |
 ## Awards
 Max (Highly Recommended): 30  (Ranked 446)  
 Sum: 234 (Ranked 343)  

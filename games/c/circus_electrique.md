@@ -6,33 +6,33 @@ Number of Ratings: 22  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Self Defense | 37.00% | ~145 |
-| Grand Opening | 34.00% | ~133 |
-| Circus Electrique Proudly Presents... | 34.00% | ~133 |
-| Path of Learning | 34.00% | ~133 |
-| Built in a Day | 28.00% | ~109 |
+| Self Defense | 38.00% | ~149 |
+| Grand Opening | 34.00% | ~134 |
+| Circus Electrique Proudly Presents... | 34.00% | ~134 |
+| Path of Learning | 34.00% | ~134 |
+| Built in a Day | 28.00% | ~110 |
 | More Brain Than Brawn | 25.00% | ~98 |
-| Perfect Illusion | 20.00% | ~78 |
-| Hundred Percent First | 20.00% | ~78 |
-| Dirty Dozen | 17.00% | ~66 |
+| Perfect Illusion | 20.00% | ~79 |
+| Hundred Percent First | 20.00% | ~79 |
+| Dirty Dozen | 17.00% | ~67 |
 | Fan Service | 16.00% | ~63 |
 | Lion Tamer | 15.00% | ~59 |
-| King of District 1 | 14.00% | ~55 |
 | Amazing! | 14.00% | ~55 |
 | One More Thing... | 13.00% | ~51 |
 | Lucky Day | 13.00% | ~51 |
 | Bar Brawler | 13.00% | ~51 |
-| Flawless Presentation | 13.00% | ~51 |
-| King of District 2 | 12.00% | ~47 |
+| King of District 1 | 13.00% | ~51 |
+| Flawless Presentation | 12.00% | ~47 |
+| King of District 2 | 11.00% | ~43 |
 | Time Travel! | 10.00% | ~39 |
 | Marketing Manager | 10.00% | ~39 |
 | Circus Versus Circus | 9.00% | ~35 |
 | King of District 3 | 8.00% | ~31 |
-| Club Member | 7.00% | ~27 |
-| Spirits High | 7.00% | ~27 |
-| Hundred Percent Second | 6.00% | ~23 |
-| King of District 4 | 6.00% | ~23 |
-| Mobile Infantry | 6.00% | ~23 |
+| Club Member | 7.00% | ~28 |
+| Spirits High | 7.00% | ~28 |
+| Hundred Percent Second | 6.00% | ~24 |
+| King of District 4 | 6.00% | ~24 |
+| Mobile Infantry | 6.00% | ~24 |
 | Around the Clock | 5.00% | ~20 |
 | Club Champion | 5.00% | ~20 |
 | Circus Maximus | 4.00% | ~16 |
@@ -57,13 +57,14 @@ Number of Ratings: 22  (23.09.2022)
 | Guest Stars | 0.50% | ~2 |
 | Versatile Tactics | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 391 (Ranked 195)  
-Completed: 1 (0.26%) (Ranked 132)  
+Progressed: 393 (Ranked 195)  
+Completed: 1 (0.25%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 390 | 1 |
 | 2023-05-09 | 391 | 1 |
+| 2023-05-19 | 393 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

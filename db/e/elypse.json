@@ -4,7 +4,7 @@
   "ProductSlug": "elypse-b177a8",
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -112,9 +112,9 @@
       "ID": "Ach_BossGolem",
       "SetID": "4o5gjp0",
       "Name": "Rock Solid",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Ach_BossSlug",
@@ -144,9 +144,9 @@
       "ID": "Ach_BuyHut",
       "SetID": "4o5gjp0",
       "Name": "Pigeon",
-      "Percentage": 80,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Ach_CallBeggarNothingToSell",
@@ -176,9 +176,9 @@
       "ID": "Ach_DiscoveryCatacombes",
       "SetID": "4o5gjp0",
       "Name": "A bottomless pit",
-      "Percentage": 80,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Ach_DiscoveryCaverns",
@@ -224,9 +224,9 @@
       "ID": "Ach_DiveDeath",
       "SetID": "4o5gjp0",
       "Name": "MayDay! MayDay!",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Ach_DiveKillEnnemis",
@@ -359,8 +359,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-05-18T23:06:48.1559487+00:00",
+  "LastChanged_Achievements": "2023-05-19T00:06:45.9102739+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:52.2027329+00:00",
-  "LastUpdate_Ratings": "2023-05-18T22:58:42.3506526+00:00",
-  "LastUpdate_Achievements": "2023-05-18T23:06:48.1559749+00:00"
+  "LastUpdate_Ratings": "2023-05-18T23:58:24.0849791+00:00",
+  "LastUpdate_Achievements": "2023-05-19T00:06:45.9102986+00:00"
 }

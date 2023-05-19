@@ -230,9 +230,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38087,
+  "EOS_Progressed": 38089,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2060,6 +2060,11 @@
       "Time": "2023-05-18T23:07:10.6721248+00:00",
       "NumProgressed": 38087,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-19T00:07:08.3938664+00:00",
+      "NumProgressed": 38089,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2103,7 +2108,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1523
+      "UsersEstimate": 1524
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -2127,7 +2132,7 @@
       "Name": "Stuck",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1523
+      "UsersEstimate": 1524
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -2327,7 +2332,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1523
+      "UsersEstimate": 1524
     },
     {
       "ID": "MAGIC_IVY",
@@ -2494,22 +2499,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 38087,
+      "Progressed": 38089,
       "Completed": 1
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 2924,
-      "Completed": 2924
+      "Progressed": 2926,
+      "Completed": 2926
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-11T08:58:28.12588+00:00",
-  "LastChanged_Achievements": "2023-05-18T23:07:10.6721241+00:00",
+  "LastChanged_Achievements": "2023-05-19T00:07:08.393866+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:28.6848971+00:00",
-  "LastUpdate_Ratings": "2023-05-18T22:59:28.8718179+00:00",
-  "LastUpdate_Achievements": "2023-05-18T23:07:10.6721813+00:00"
+  "LastUpdate_Ratings": "2023-05-18T23:59:11.5299982+00:00",
+  "LastUpdate_Achievements": "2023-05-19T00:07:08.3939378+00:00"
 }

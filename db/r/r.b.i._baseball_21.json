@@ -4,7 +4,7 @@
   "ProductSlug": "rbi-baseball-21",
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 280,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": null,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-12T18:00:18.2008552+00:00",
-  "LastUpdate_Ratings": "2023-05-18T23:02:06.8322711+00:00",
-  "LastUpdate_Achievements": "2023-05-18T23:03:17.9523255+00:00"
+  "LastUpdate_Ratings": "2023-05-19T00:01:44.2724409+00:00",
+  "LastUpdate_Achievements": "2023-05-19T00:03:15.9448143+00:00"
 }

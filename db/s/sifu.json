@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 77,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4086,10 +4086,10 @@
       "Count": 347
     }
   ],
-  "EOS_Progressed": 703070,
+  "EOS_Progressed": 703072,
   "EOS_Completed": 12731,
   "EOS_NewPlayers": 245,
-  "EOS_NewCompleters": 10,
+  "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
     {
@@ -6256,6 +6256,11 @@
       "Time": "2023-05-18T23:07:16.5189332+00:00",
       "NumProgressed": 703070,
       "NumCompleted": 12731
+    },
+    {
+      "Time": "2023-05-19T00:07:14.3060829+00:00",
+      "NumProgressed": 703072,
+      "NumCompleted": 12731
     }
   ],
   "TotalAchievements": 50,
@@ -6275,7 +6280,7 @@
       "Name": "The Assault",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4921
+      "UsersEstimate": 4922
     },
     {
       "ID": "03_Vengeance_H2",
@@ -6299,7 +6304,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4921
+      "UsersEstimate": 4922
     },
     {
       "ID": "06_Vengeance_H5",
@@ -6307,7 +6312,7 @@
       "Name": "Furious Fists",
       "Percentage": 0.7,
       "XP": 75,
-      "UsersEstimate": 4921
+      "UsersEstimate": 4922
     },
     {
       "ID": "07_Wude_H1",
@@ -6371,7 +6376,7 @@
       "Name": "Kill Nil",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 4921
+      "UsersEstimate": 4922
     },
     {
       "ID": "15_Detective_H1",
@@ -6475,7 +6480,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4921
+      "UsersEstimate": 4922
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -6579,7 +6584,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4921
+      "UsersEstimate": 4922
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -6666,21 +6671,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 12371,
+      "Progressed": 12373,
       "Completed": 10121
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 703070,
+      "Progressed": 703072,
       "Completed": 12731
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-18T11:59:31.6045442+00:00",
-  "LastChanged_Achievements": "2023-05-18T23:07:16.5189323+00:00",
+  "LastChanged_Achievements": "2023-05-19T00:07:14.3060824+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:53.7388155+00:00",
-  "LastUpdate_Ratings": "2023-05-18T23:00:07.5301646+00:00",
-  "LastUpdate_Achievements": "2023-05-18T23:07:16.5189962+00:00"
+  "LastUpdate_Ratings": "2023-05-18T23:59:48.8176834+00:00",
+  "LastUpdate_Achievements": "2023-05-19T00:07:14.3061367+00:00"
 }

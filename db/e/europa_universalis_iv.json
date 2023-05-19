@@ -4956,9 +4956,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 39222,
+  "EOS_Progressed": 39237,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4878,
+  "EOS_NewPlayers": 4879,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7701,6 +7701,11 @@
       "Time": "2023-05-18T23:07:36.6226831+00:00",
       "NumProgressed": 39222,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T00:07:34.2596404+00:00",
+      "NumProgressed": 39237,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -8104,7 +8109,7 @@
       "Name": "Blockader",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "achievement_blood_for_the_sky_god",
@@ -8152,7 +8157,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2353
+      "UsersEstimate": 2354
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -8248,7 +8253,7 @@
       "Name": "Combined Arms",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "achievement_consulate_of_the_sea",
@@ -8368,7 +8373,7 @@
       "Name": "Double the Love",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "achievement_dovmonts_own",
@@ -8544,7 +8549,7 @@
       "Name": "For the Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 1961
+      "UsersEstimate": 1962
     },
     {
       "ID": "achievement_forever_golden",
@@ -8632,7 +8637,7 @@
       "Name": "Gentle Persuasion",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "achievement_georgia_on_my_mind",
@@ -8712,7 +8717,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3138
+      "UsersEstimate": 3139
     },
     {
       "ID": "achievement_grand_coalition",
@@ -8736,7 +8741,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2353
+      "UsersEstimate": 2354
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -8920,7 +8925,7 @@
       "Name": "It\u0027s all about luck",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "achievement_its_all_about_the_money",
@@ -9576,7 +9581,7 @@
       "Name": "Queen of Conquest",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "achievement_queen_of_mercury",
@@ -9664,7 +9669,7 @@
       "Name": "Royal Authority",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "achievement_rozwi_empire",
@@ -9712,7 +9717,7 @@
       "Name": "Seriously?!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2353
+      "UsersEstimate": 2354
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -9992,7 +9997,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3138
+      "UsersEstimate": 3139
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -10136,7 +10141,7 @@
       "Name": "The Princess is in this Castle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "achievement_the_re_reconquista",
@@ -10264,7 +10269,7 @@
       "Name": "Total Control",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "achievement_trade_hegemon",
@@ -10376,7 +10381,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3530
+      "UsersEstimate": 3531
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -10408,7 +10413,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3138
+      "UsersEstimate": 3139
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -10543,21 +10548,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 39222,
+      "Progressed": 39237,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 39222,
+      "Progressed": 39237,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-05-18T21:57:17.9157898+00:00",
-  "LastChanged_Achievements": "2023-05-18T23:07:36.6226826+00:00",
+  "LastChanged_Achievements": "2023-05-19T00:07:34.2596398+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:15.1360508+00:00",
-  "LastUpdate_Ratings": "2023-05-18T22:57:50.11548+00:00",
-  "LastUpdate_Achievements": "2023-05-18T23:07:36.6238869+00:00"
+  "LastUpdate_Ratings": "2023-05-18T23:57:30.1160423+00:00",
+  "LastUpdate_Achievements": "2023-05-19T00:07:34.2609976+00:00"
 }

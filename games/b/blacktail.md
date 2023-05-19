@@ -1,21 +1,21 @@
 # BLACKTAIL
 [Store](https://store.epicgames.com/en-US/p/blacktail)  
 [View Rawdata](../../db/b/blacktail.json)  
-Rating: 4.67 (Ranked 258)  
+Rating: 4.67 (Ranked 259)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tooth fairy | 25.00% | ~87 |
+| Tooth fairy | 25.00% | ~88 |
 | Dental maturity | 18.00% | ~63 |
-| Devil's in the details | 13.00% | ~45 |
+| Devil's in the details | 13.00% | ~46 |
 | Uprooting | 11.00% | ~38 |
 | Forbidden techniques | 11.00% | ~38 |
 | Slavic squatter | 10.00% | ~35 |
 | Devoted | 8.00% | ~28 |
-| Spirit animal | 7.00% | ~24 |
+| Spirit animal | 7.00% | ~25 |
 | Gold rush | 6.00% | ~21 |
-| Liar Liar | 5.00% | ~17 |
-| A friend in need... | 5.00% | ~17 |
+| Liar Liar | 5.00% | ~18 |
+| A friend in need... | 5.00% | ~18 |
 | Favorite | 4.00% | ~14 |
 | Fishing fanatic | 4.00% | ~14 |
 | The word around is... | 4.00% | ~14 |
@@ -31,14 +31,14 @@ Rating: 4.67 (Ranked 258)
 | Both sides | 2.00% | ~7 |
 | Always worth a try | 2.00% | ~7 |
 | Toxic | 2.00% | ~7 |
-| Loremaster | 1.00% | ~3 |
-| Entangled | 1.00% | ~3 |
+| Loremaster | 1.00% | ~4 |
+| Entangled | 1.00% | ~4 |
 | Bad apple | 0.90% | ~3 |
 | Awards unwarded | 0.90% | ~3 |
 | Mushrooming enthusiast | 0.30% | ~1 |
 | Apex predator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 349 (Ranked 202)  
+Progressed: 350 (Ranked 202)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,6 +67,7 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-16 | 344 | 0 |
 | 2023-05-17 | 345 | 0 |
 | 2023-05-18 | 349 | 0 |
+| 2023-05-19 | 350 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

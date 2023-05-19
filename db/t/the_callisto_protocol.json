@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 341,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -410,9 +410,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 12620,
+  "EOS_Progressed": 12628,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -780,6 +780,11 @@
       "Time": "2023-05-18T23:02:24.5490539+00:00",
       "NumProgressed": 12620,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-19T00:02:01.5512106+00:00",
+      "NumProgressed": 12628,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 40,
@@ -821,9 +826,9 @@
       "ID": "DISARM_ENEMY",
       "SetID": "4hj6d86",
       "Name": "Flesh Wound",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 63
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -919,7 +924,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "KILL_ROBOT",
@@ -1110,13 +1115,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 12620,
+      "Progressed": 12628,
       "Completed": 51
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 546,
+      "Progressed": 554,
       "Completed": 29
     }
   ],
@@ -1124,8 +1129,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-16T17:57:38.030273+00:00",
-  "LastChanged_Achievements": "2023-05-18T23:02:24.5490101+00:00",
+  "LastChanged_Achievements": "2023-05-19T00:02:01.551188+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:45.2768909+00:00",
-  "LastUpdate_Ratings": "2023-05-18T22:58:35.0290125+00:00",
-  "LastUpdate_Achievements": "2023-05-18T23:02:24.5503735+00:00"
+  "LastUpdate_Ratings": "2023-05-18T23:58:17.1772571+00:00",
+  "LastUpdate_Achievements": "2023-05-19T00:02:01.5524864+00:00"
 }

@@ -5,22 +5,22 @@ Rating: 4.76 (Ranked 116)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~1,924 |
-| No more cages! | 92.00% | ~1,863 |
-| Everfrost | 77.00% | ~1,559 |
-| Pentakill | 76.00% | ~1,539 |
-| Dark Forest | 76.00% | ~1,539 |
-| The use of petricite | 73.00% | ~1,478 |
-| You can pet the dog | 60.00% | ~1,215 |
-| Big Helmet Bro | 34.00% | ~688 |
-| Clarion Cove | 34.00% | ~688 |
+| For Demacia | 95.00% | ~1,925 |
+| No more cages! | 92.00% | ~1,864 |
+| Everfrost | 77.00% | ~1,560 |
+| Pentakill | 76.00% | ~1,540 |
+| Dark Forest | 76.00% | ~1,540 |
+| The use of petricite | 73.00% | ~1,479 |
+| You can pet the dog | 60.00% | ~1,216 |
+| Big Helmet Bro | 34.00% | ~689 |
+| Clarion Cove | 34.00% | ~689 |
 | Past trauma | 32.00% | ~648 |
 | Thornbarrow | 32.00% | ~648 |
 | Ternmoat Headquarters | 32.00% | ~648 |
 | Elemental master | 31.00% | ~628 |
 | Cypress Glen Headquarters | 31.00% | ~628 |
 | Petricite Burst | 27.00% | ~547 |
-| Old friend | 26.00% | ~526 |
+| Old friend | 26.00% | ~527 |
 | Whispers in the Woods I | 25.00% | ~506 |
 | Hijack | 25.00% | ~506 |
 | Devineur | 25.00% | ~506 |
@@ -29,8 +29,8 @@ Rating: 4.76 (Ranked 116)
 | Sacred Woods | 21.00% | ~425 |
 | Capelworth | 20.00% | ~405 |
 | Little light | 19.00% | ~385 |
-| Glyndemere | 18.00% | ~364 |
-| Iffighain Headquarters | 18.00% | ~364 |
+| Glyndemere | 18.00% | ~365 |
+| Iffighain Headquarters | 18.00% | ~365 |
 | Full equipped | 17.00% | ~344 |
 | Whispers in the Woods II | 16.00% | ~324 |
 | Quickmoore Headquarters | 15.00% | ~304 |
@@ -44,7 +44,7 @@ Rating: 4.76 (Ranked 116)
 | Meltridge | 12.00% | ~243 |
 | Cloven Dell Headquarters | 12.00% | ~243 |
 | Whispers in the Woods IV | 11.00% | ~223 |
-| Embrace the darkness | 10.00% | ~202 |
+| Embrace the darkness | 10.00% | ~203 |
 | I smell fear | 9.00% | ~182 |
 | The end of the experiments | 9.00% | ~182 |
 | The Great City of Demacia | 9.00% | ~182 |
@@ -56,10 +56,10 @@ Rating: 4.76 (Ranked 116)
 | Do you trust me? | 7.00% | ~142 |
 | The great mage rebellion starts now | 7.00% | ~142 |
 | Spellcrafting | 7.00% | ~142 |
-| Silverwing nest | 2.00% | ~40 |
+| Silverwing nest | 2.00% | ~41 |
 | The Unshackled | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,025 (Ranked 142)  
+Progressed: 2,026 (Ranked 142)  
 Completed: 1 (0.05%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,6 +88,7 @@ Completed: 1 (0.05%) (Ranked 173)
 | 2023-05-16 | 2,008 | 1 |
 | 2023-05-17 | 2,015 | 1 |
 | 2023-05-18 | 2,025 | 1 |
+| 2023-05-19 | 2,026 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
