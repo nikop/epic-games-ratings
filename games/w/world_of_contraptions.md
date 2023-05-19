@@ -4,8 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The first of many | 33.00% | ~1 |
-| Graduated in contraptions | 33.00% | ~1 |
+| The first of many | 0.00% | ~0 |
 | Easy group | 0.00% | ~0 |
 | Easy group with gold stars | 0.00% | ~0 |
 | Easy group with silver stars | 0.00% | ~0 |
@@ -30,6 +29,11 @@
 | Experienced climber | 0.00% | ~0 |
 | Beginner climber | 0.00% | ~0 |
 | Mountain master | 0.00% | ~0 |
+| Graduated in contraptions | 0.00% | ~0 |
+| First extreme level | 0.00% | ~0 |
+| First hard level | 0.00% | ~0 |
+| First medium level | 0.00% | ~0 |
+| Starting to take notes | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3 (Ranked 358)  
 Completed: 0 (0.00%) (Ranked 200)  

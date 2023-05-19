@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 873)  
+Rating: 4.06 (Ranked 874)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Coasting to the Finish | 0.10% | ~54 |
 | Quick or Quack | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,964 (Ranked 59)  
-Completed: 1,850 (2.10%) (Ranked 60)  
+Progressed: 87,967 (Ranked 59)  
+Completed: 1,850 (2.10%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -529,7 +529,7 @@ Completed: 1,850 (2.10%) (Ranked 60)
 | 2023-05-16 | 87,710 | 1,845 |
 | 2023-05-17 | 87,802 | 1,849 |
 | 2023-05-18 | 87,918 | 1,850 |
-| 2023-05-19 | 87,964 | 1,850 |
+| 2023-05-19 | 87,967 | 1,850 |
 ## Awards
 Max (Diverse Characters): 4,888  (Ranked 63)  
 Sum: 29,918 (Ranked 37)  

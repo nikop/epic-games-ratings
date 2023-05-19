@@ -2,7 +2,7 @@
   "ID": "fbab831cc1c94385b4e311f47f6fdc4f",
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
-  "Ranking_Rating": 828,
+  "Ranking_Rating": 829,
   "Ranking_Popularity": 336,
   "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 118,
@@ -750,9 +750,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5706,
+  "EOS_Progressed": 5707,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2220,6 +2220,11 @@
       "Time": "2023-05-19T10:01:20.4525606+00:00",
       "NumProgressed": 5706,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T13:04:37.3306127+00:00",
+      "NumProgressed": 5707,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -2335,7 +2340,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4508
+      "UsersEstimate": 4509
     },
     {
       "ID": "First_Race_Met",
@@ -2343,7 +2348,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4165
+      "UsersEstimate": 4166
     },
     {
       "ID": "First_Ship_Designed",
@@ -2719,7 +2724,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 3823
+      "UsersEstimate": 3824
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -2727,7 +2732,7 @@
       "Name": "Fleet Victory",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "Win_Conquest",
@@ -2806,15 +2811,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 5706,
+      "Progressed": 5707,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-05-13T13:57:10.2538669+00:00",
-  "LastChanged_Achievements": "2023-05-19T12:00:16.2936814+00:00",
+  "LastChanged_Achievements": "2023-05-19T13:04:37.3306123+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:16.807588+00:00",
-  "LastUpdate_Ratings": "2023-05-19T11:57:04.000639+00:00",
-  "LastUpdate_Achievements": "2023-05-19T12:00:16.2937454+00:00"
+  "LastUpdate_Ratings": "2023-05-19T13:01:24.4194706+00:00",
+  "LastUpdate_Achievements": "2023-05-19T13:04:37.3306898+00:00"
 }

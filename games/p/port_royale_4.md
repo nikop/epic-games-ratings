@@ -1,26 +1,26 @@
 # Port Royale 4
 [Store](https://store.epicgames.com/en-US/p/port-royale-4)  
 [View Rawdata](../../db/p/port_royale_4.json)  
-Rating: 4.02 (Ranked 882)  
+Rating: 4.02 (Ranked 883)  
 Number of Ratings: 53  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 80.00% | ~426 |
+| Cabin boy | 80.00% | ~427 |
 | My little farm | 66.00% | ~352 |
-| Every beginning is difficult | 62.00% | ~330 |
-| 3, 2, 1, mine | 56.00% | ~298 |
-| Gofer | 56.00% | ~298 |
+| Every beginning is difficult | 62.00% | ~331 |
+| Gofer | 56.00% | ~299 |
+| 3, 2, 1, mine | 55.00% | ~294 |
 | Seafarer | 54.00% | ~288 |
 | O Captain! My Captain! | 54.00% | ~288 |
-| Greed for gold | 43.00% | ~229 |
+| Greed for gold | 43.00% | ~230 |
 | Intangible | 42.00% | ~224 |
-| I'm out of here for a while | 41.00% | ~219 |
+| I'm out of here for a while | 40.00% | ~214 |
 | In a mint condition | 38.00% | ~203 |
 | Licence to Kill | 36.00% | ~192 |
 | Pirates! | 36.00% | ~192 |
 | Megalomania | 29.00% | ~155 |
-| Collectionitis | 28.00% | ~149 |
+| Collectionitis | 28.00% | ~150 |
 | Christening | 27.00% | ~144 |
 | Groundskeeper | 26.00% | ~139 |
 | Wholesale | 23.00% | ~123 |
@@ -37,7 +37,7 @@ Number of Ratings: 53  (23.09.2022)
 | Panel of experts | 8.00% | ~43 |
 | Conglomerate | 7.00% | ~37 |
 | The Grande Bouffe | 6.00% | ~32 |
-| Buccaneer | 5.00% | ~27 |
+| Buccaneer | 4.00% | ~21 |
 | Flying Dutchman | 4.00% | ~21 |
 | A true pirate! | 4.00% | ~21 |
 | Overpopulation | 4.00% | ~21 |
@@ -54,10 +54,10 @@ Number of Ratings: 53  (23.09.2022)
 | Traffic chaos | 1.00% | ~5 |
 | Capitalist | 0.90% | ~5 |
 | Parlay? | 0.90% | ~5 |
-| Fleet Admiral | 0.80% | ~4 |
+| Fleet Admiral | 0.70% | ~4 |
 | Davy Jones' locker | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 533 (Ranked 190)  
+Progressed: 534 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-16 | 528 | 0 |
 | 2023-05-17 | 529 | 0 |
 | 2023-05-18 | 531 | 0 |
-| 2023-05-19 | 533 | 0 |
+| 2023-05-19 | 534 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "abda8262a7884126a637518b1b44a0f8",
   "Name": "Tortuga - A Pirate\u0027s Tale",
   "ProductSlug": "tortuga-a-pirates-tale-e02635",
-  "Ranking_Rating": 908,
+  "Ranking_Rating": 909,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 97,
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15308,
+  "EOS_Progressed": 15309,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -862,6 +862,11 @@
       "Time": "2023-05-19T11:07:35.3973946+00:00",
       "NumProgressed": 15308,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T13:09:41.2843476+00:00",
+      "NumProgressed": 15309,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -873,7 +878,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 14543
+      "UsersEstimate": 14544
     },
     {
       "ID": "ACH001",
@@ -881,7 +886,7 @@
       "Name": "Personal Matter",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 13318
+      "UsersEstimate": 13319
     },
     {
       "ID": "ACH0010",
@@ -1017,7 +1022,7 @@
       "Name": "Morally Flexible",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "ACH003",
@@ -1025,7 +1030,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 8419
+      "UsersEstimate": 8420
     },
     {
       "ID": "ACH004",
@@ -1033,7 +1038,7 @@
       "Name": "No Half Measures",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 13471
+      "UsersEstimate": 13472
     },
     {
       "ID": "ACH005",
@@ -1049,7 +1054,7 @@
       "Name": "... And Where Do the Stories Come From?",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 6276
+      "UsersEstimate": 6277
     },
     {
       "ID": "ACH007",
@@ -1080,7 +1085,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 15308,
+      "Progressed": 15309,
       "Completed": 0
     }
   ],
@@ -1088,8 +1093,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-05-09T21:01:06.0893897+00:00",
-  "LastChanged_Achievements": "2023-05-19T12:05:23.733101+00:00",
+  "LastChanged_Achievements": "2023-05-19T13:09:41.2843472+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:08.4506507+00:00",
-  "LastUpdate_Ratings": "2023-05-19T11:59:32.4704194+00:00",
-  "LastUpdate_Achievements": "2023-05-19T12:05:23.7331192+00:00"
+  "LastUpdate_Ratings": "2023-05-19T13:03:51.333865+00:00",
+  "LastUpdate_Achievements": "2023-05-19T13:09:41.2843695+00:00"
 }

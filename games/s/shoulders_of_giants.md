@@ -1,21 +1,21 @@
 # Shoulders of Giants
 [Store](https://store.epicgames.com/en-US/p/shoulders-of-giants-61381f)  
 [View Rawdata](../../db/s/shoulders_of_giants.json)  
-Rating: 4.32 (Ranked 743)  
+Rating: 4.32 (Ranked 744)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On the Shoulders of Giants | 88.00% | ~1,772 |
-| A Ribbiting Performance | 78.00% | ~1,571 |
-| At Least We Have Each Other... | 76.00% | ~1,531 |
-| Frogbot | 73.00% | ~1,470 |
-| Ouch | 56.00% | ~1,128 |
-| Fun in the Stun | 55.00% | ~1,108 |
-| Do you feel like a tough guy? | 45.00% | ~906 |
-| The Interdimensional Power of Friendship | 45.00% | ~906 |
+| On the Shoulders of Giants | 88.00% | ~1,774 |
+| A Ribbiting Performance | 78.00% | ~1,572 |
+| At Least We Have Each Other... | 76.00% | ~1,532 |
+| Frogbot | 73.00% | ~1,472 |
+| Ouch | 56.00% | ~1,129 |
+| Fun in the Stun | 55.00% | ~1,109 |
+| Do you feel like a tough guy? | 45.00% | ~907 |
+| The Interdimensional Power of Friendship | 45.00% | ~907 |
 | Turn Up The HEAT | 40.00% | ~806 |
-| Stop Hitting Yourself! | 35.00% | ~705 |
-| Nothing to Wear | 31.00% | ~624 |
+| Stop Hitting Yourself! | 35.00% | ~706 |
+| Nothing to Wear | 31.00% | ~625 |
 | The First Law of Thermodynamics | 28.00% | ~564 |
 | Do you trust me? | 15.00% | ~302 |
 | The Second Law of Thermodynamics | 14.00% | ~282 |
@@ -25,7 +25,7 @@ Rating: 4.32 (Ranked 743)
 | Better Than the Devs | 4.00% | ~81 |
 | So do we just stay up here, or?... | 2.00% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,014 (Ranked 143)  
+Progressed: 2,016 (Ranked 143)  
 Completed: 8 (0.40%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -49,7 +49,7 @@ Completed: 8 (0.40%) (Ranked 111)
 | 2023-05-16 | 1,983 | 8 |
 | 2023-05-17 | 1,991 | 8 |
 | 2023-05-18 | 2,005 | 8 |
-| 2023-05-19 | 2,014 | 8 |
+| 2023-05-19 | 2,016 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

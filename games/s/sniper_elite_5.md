@@ -1,23 +1,24 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.41 (Ranked 656)  
+Rating: 4.41 (Ranked 657)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 1.00% | ~8 |
+| Confirming Suspicions | 0.90% | ~7 |
 | Resourceful | 0.90% | ~7 |
-| Confirming Suspicions | 0.80% | ~6 |
 | The Long Game | 0.60% | ~5 |
+| Lord of War | 0.60% | ~5 |
 | As Quiet as a Mouse | 0.60% | ~5 |
 | Enemy at the Gates | 0.50% | ~4 |
 | Organ Grinder | 0.50% | ~4 |
-| Lord of War | 0.50% | ~4 |
 | Taking it back | 0.50% | ~4 |
 | Opposing Force | 0.40% | ~3 |
 | Strategist | 0.40% | ~3 |
 | Gunslinger | 0.40% | ~3 |
 | Skirmisher | 0.40% | ~3 |
+| Sharpshooter | 0.40% | ~3 |
 | Precision Is Key | 0.40% | ~3 |
 | The Kraken Wakes | 0.40% | ~3 |
 | It's Starting to Crack | 0.40% | ~3 |
@@ -31,7 +32,6 @@ Rating: 4.41 (Ranked 656)
 | Liberté | 0.10% | ~1 |
 | Fields of Glory | 0.10% | ~1 |
 | Just a Flesh Wound | 0.10% | ~1 |
-| Sharpshooter | 0.10% | ~1 |
 | Rigged to Blow | 0.10% | ~1 |
 | Explosive Efficiency | 0.10% | ~1 |
 | Der Geist | 0.10% | ~1 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 656)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 776 (Ranked 172)  
+Progressed: 783 (Ranked 171)  
 Completed: 2 (0.26%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 2 (0.26%) (Ranked 131)
 | 2023-05-16 | 723 | 2 |
 | 2023-05-17 | 728 | 2 |
 | 2023-05-18 | 743 | 2 |
-| 2023-05-19 | 776 | 2 |
+| 2023-05-19 | 783 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

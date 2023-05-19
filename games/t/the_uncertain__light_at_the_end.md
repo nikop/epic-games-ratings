@@ -1,7 +1,7 @@
 # The Uncertain: Light at the End
 [Store](https://store.epicgames.com/en-US/p/the-uncertain-light-at-the-end)  
 [View Rawdata](../../db/t/the_uncertain__light_at_the_end.json)  
-Rating: 3.85 (Ranked 906)  
+Rating: 3.85 (Ranked 907)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -35,7 +35,7 @@ Rating: 3.85 (Ranked 906)
 | Marvellous Toys | 2.00% | ~8 |
 | Hardcore Gamer | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 414 (Ranked 193)  
+Progressed: 414 (Ranked 194)  
 Completed: 5 (1.21%) (Ranked 81)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -538,9 +538,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 458416,
+  "EOS_Progressed": 458421,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 652,
+  "EOS_NewPlayers": 655,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3133,6 +3133,11 @@
       "Time": "2023-05-19T12:05:16.8621276+00:00",
       "NumProgressed": 458416,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-19T13:09:34.6122239+00:00",
+      "NumProgressed": 458421,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 79,
@@ -3150,9 +3155,9 @@
       "ID": "achievement_expedition_overcome_sandworm",
       "SetID": "8cokdon",
       "Name": "May His passing cleanse the world",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_first_death",
@@ -3166,9 +3171,9 @@
       "ID": "achievement_story_complete_chapter_1",
       "SetID": "8cokdon",
       "Name": "Chapter I: Echoes",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -3262,9 +3267,9 @@
       "ID": "achievement_story_meet_mother",
       "SetID": "8cokdon",
       "Name": "Mother",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -3326,9 +3331,9 @@
       "ID": "achievement_story_second_awakening",
       "SetID": "8cokdon",
       "Name": "Second Coming",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -3374,9 +3379,9 @@
       "ID": "achievement_unlock_officer_church_2",
       "SetID": "8cokdon",
       "Name": "The Inquisitor",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_unlock_officer_empire_1",
@@ -3422,9 +3427,9 @@
       "ID": "achievement_unlock_officer_pirate_1",
       "SetID": "8cokdon",
       "Name": "The Anonymous",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_unlock_officer_pirate_2",
@@ -3654,9 +3659,9 @@
       "ID": "achievement_win_run_with_starter",
       "SetID": "8cokdon",
       "Name": "Excelsior Rule",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -3670,9 +3675,9 @@
       "ID": "achievement_unlock_officer_phalanx_2",
       "SetID": "7plcbc4",
       "Name": "The Ghost",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_unlock_officer_pragmah_1",
@@ -3775,21 +3780,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 2350,
+      "Progressed": 2355,
       "Completed": 2346
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 458416,
+      "Progressed": 458421,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-19T12:05:16.8621272+00:00",
+  "LastChanged_Achievements": "2023-05-19T13:09:34.6122233+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:09.480967+00:00",
-  "LastUpdate_Ratings": "2023-05-19T11:58:40.2746358+00:00",
-  "LastUpdate_Achievements": "2023-05-19T12:05:16.8622076+00:00"
+  "LastUpdate_Ratings": "2023-05-19T13:03:00.2268672+00:00",
+  "LastUpdate_Achievements": "2023-05-19T13:09:34.6124576+00:00"
 }

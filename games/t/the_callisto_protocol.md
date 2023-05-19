@@ -1,16 +1,16 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.18 (Ranked 828)  
+Rating: 4.18 (Ranked 829)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Flesh Wound | 1.00% | ~127 |
 | Giving Back | 0.90% | ~114 |
+| Chew 'Em Up | 0.90% | ~114 |
 | Big Game Hunter | 0.90% | ~6 |
-| Chew 'Em Up | 0.80% | ~102 |
 | Instigator | 0.80% | ~5 |
-| Bear Trap | 0.70% | ~4 |
+| Bear Trap | 0.70% | ~5 |
 | Big Spender | 0.50% | ~3 |
 | The Commonality | 0.40% | ~51 |
 | Hoard Mode | 0.40% | ~3 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 828)
 | I am the Danger | 0.00% | ~0 |
 | Subject Alpha | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,710 (Ranked 101)  
+Progressed: 12,721 (Ranked 101)  
 Completed: 51 (0.40%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 51 (0.40%) (Ranked 111)
 | 2023-05-16 | 12,566 | 49 |
 | 2023-05-17 | 12,567 | 49 |
 | 2023-05-18 | 12,620 | 51 |
-| 2023-05-19 | 12,710 | 51 |
+| 2023-05-19 | 12,721 | 51 |
 ## Awards
 Max (Amazing Storytelling): 46  (Ranked 398)  
 Sum: 246 (Ranked 341)  

@@ -16,13 +16,14 @@ Number of Ratings: 1,845  (23.09.2022)
 | Like a Machine | 1.00% | ~149 |
 | No Deaths | 1.00% | ~149 |
 | Bandit Camp | 0.90% | ~134 |
+| Barren Lands | 0.90% | ~134 |
 | Lost Colonies | 0.90% | ~134 |
 | Trade Baron | 0.90% | ~134 |
 | Homesick | 0.80% | ~119 |
-| Barren Lands | 0.80% | ~119 |
 | Ancient Battleground | 0.80% | ~119 |
 | Cursed Lands | 0.80% | ~119 |
 | Sparkdew Crystals | 0.70% | ~104 |
+| Dangerous Lands | 0.70% | ~104 |
 | Levitating Monument | 0.70% | ~104 |
 | Flooded Mines | 0.70% | ~104 |
 | Monastery of the Holy Flame | 0.70% | ~104 |
@@ -31,7 +32,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | A Real Challenge | 0.70% | ~104 |
 | Refinery | 0.60% | ~89 |
 | Against All Odds | 0.60% | ~89 |
-| Dangerous Lands | 0.60% | ~89 |
 | Haunted Forest | 0.60% | ~89 |
 | Statue of the Forefathers | 0.60% | ~89 |
 | Watchtower | 0.60% | ~89 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,888 (Ranked 98)  
+Progressed: 14,890 (Ranked 98)  
 Completed: 30 (0.20%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,11 +86,11 @@ Completed: 30 (0.20%) (Ranked 140)
 | 2023-05-16 | 14,849 | 30 |
 | 2023-05-17 | 14,860 | 30 |
 | 2023-05-18 | 14,878 | 30 |
-| 2023-05-19 | 14,888 | 30 |
+| 2023-05-19 | 14,890 | 30 |
 ## Awards
-Max (Quickly Understood Controls): 417  (Ranked 195)  
+Max (Quickly Understood Controls): 417  (Ranked 196)  
 Sum: 3,028 (Ranked 150)  
-Diff (max vs sum): 45  
+Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 417 |

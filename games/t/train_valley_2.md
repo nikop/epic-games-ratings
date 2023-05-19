@@ -1,7 +1,7 @@
 # Train Valley 2
 [Store](https://store.epicgames.com/en-US/p/train-valley-2-3606da)  
 [View Rawdata](../../db/t/train_valley_2.json)  
-Rating: 4.15 (Ranked 843)  
+Rating: 4.15 (Ranked 844)  
 Number of Ratings: 87  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -82,7 +82,7 @@ Number of Ratings: 87  (23.09.2022)
 | Gemologist | 0.00% | ~0 |
 | Jeweller | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 702 (Ranked 178)  
+Progressed: 703 (Ranked 178)  
 Completed: 1 (0.14%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 1 (0.14%) (Ranked 150)
 | 2023-05-06 | 698 | 1 |
 | 2023-05-11 | 699 | 1 |
 | 2023-05-18 | 701 | 1 |
-| 2023-05-19 | 702 | 1 |
+| 2023-05-19 | 703 | 1 |
 ## Awards
 Max (Challenging Puzzles): 71  (Ranked 363)  
 Sum: 71 (Ranked 419)  

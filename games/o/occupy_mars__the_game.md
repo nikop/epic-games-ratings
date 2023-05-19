@@ -1,22 +1,22 @@
 # Occupy Mars: The Game
 [Store](https://store.epicgames.com/en-US/p/occupy-mars)  
 [View Rawdata](../../db/o/occupy_mars__the_game.json)  
-Rating: 3.68 (Ranked 919)  
+Rating: 3.68 (Ranked 920)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 29.00% | ~118 |
-| Electrician | 20.00% | ~81 |
-| Zero Waste | 13.00% | ~53 |
-| Fear my botany powers, Mars | 13.00% | ~53 |
-| I am the greatest botanist on this planet. | 10.00% | ~41 |
-| Houston we have a problem | 9.00% | ~37 |
-| Occupy Mars! | 9.00% | ~37 |
-| Bob The Builder | 9.00% | ~37 |
-| Miner | 6.00% | ~24 |
-| Gardener | 3.00% | ~12 |
-| Detective | 2.00% | ~8 |
-| Get your hands dirty | 2.00% | ~8 |
+| I don't feel so good | 29.00% | ~122 |
+| Electrician | 21.00% | ~88 |
+| Fear my botany powers, Mars | 14.00% | ~59 |
+| Zero Waste | 13.00% | ~55 |
+| I am the greatest botanist on this planet. | 10.00% | ~42 |
+| Bob The Builder | 10.00% | ~42 |
+| Houston we have a problem | 9.00% | ~38 |
+| Occupy Mars! | 9.00% | ~38 |
+| Miner | 6.00% | ~25 |
+| Detective | 3.00% | ~13 |
+| Gardener | 3.00% | ~13 |
+| Get your hands dirty | 3.00% | ~13 |
 | All Wheel Trouble | 1.00% | ~4 |
 | Space Forest | 1.00% | ~4 |
 | ITS crash site | 0.70% | ~3 |
@@ -54,7 +54,7 @@ Rating: 3.68 (Ranked 919)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 406 (Ranked 195)  
+Progressed: 420 (Ranked 193)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,7 +66,7 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-16 | 9 | 0 |
 | 2023-05-17 | 10 | 0 |
 | 2023-05-18 | 287 | 0 |
-| 2023-05-19 | 406 | 0 |
+| 2023-05-19 | 420 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

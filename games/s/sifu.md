@@ -6,9 +6,9 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~506 |
-| Project Arena | 3.00% | ~379 |
-| Bloody Sport | 1.00% | ~126 |
+| Diligence as a goal | 4.00% | ~507 |
+| Project Arena | 3.00% | ~380 |
+| Bloody Sport | 1.00% | ~127 |
 | Qi Gong: Breath | 0.90% | ~6,330 |
 | The best strikes are the ones we avoid | 0.90% | ~114 |
 | The Hateful Pole Fighter | 0.80% | ~5,627 |
@@ -16,17 +16,17 @@ Number of Ratings: 9,492  (23.09.2022)
 | State of constant learning | 0.80% | ~5,627 |
 | Path of the Prospect | 0.80% | ~5,627 |
 | Rumble in the Hangar | 0.80% | ~5,627 |
-| The Assault | 0.70% | ~4,923 |
-| Lady Wing Chun | 0.70% | ~4,923 |
-| Furious Fists | 0.70% | ~4,923 |
-| Kill Nil | 0.70% | ~4,923 |
-| Qi Gong: Essence | 0.70% | ~4,923 |
-| Take damage to save time | 0.70% | ~4,923 |
+| The Assault | 0.70% | ~4,924 |
+| Lady Wing Chun | 0.70% | ~4,924 |
+| Furious Fists | 0.70% | ~4,924 |
+| Kill Nil | 0.70% | ~4,924 |
+| Street Fighting | 0.70% | ~4,924 |
+| Life is your teacher | 0.70% | ~4,924 |
+| Qi Gong: Essence | 0.70% | ~4,924 |
+| Take damage to save time | 0.70% | ~4,924 |
 | The Old Grandmaster | 0.60% | ~4,220 |
 | Scareless | 0.60% | ~4,220 |
 | Stuntmaster | 0.60% | ~4,220 |
-| Street Fighting | 0.60% | ~4,220 |
-| Life is your teacher | 0.60% | ~4,220 |
 | Lightning Hands | 0.60% | ~4,220 |
 | Kung-Fu Tussle | 0.60% | ~4,220 |
 | Deadly Venom | 0.60% | ~76 |
@@ -34,12 +34,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Mind | 0.50% | ~3,517 |
 | Old Child | 0.50% | ~3,517 |
 | A Touch of Acumen | 0.50% | ~63 |
-| Muk Yan Master | 0.40% | ~2,813 |
-| Tiger on Fire | 0.40% | ~2,813 |
-| Source of Flying Daggers | 0.40% | ~2,813 |
-| Iron Money | 0.40% | ~2,813 |
-| Detective Story | 0.40% | ~2,813 |
-| I know Kung-Fu | 0.40% | ~2,813 |
+| Muk Yan Master | 0.40% | ~2,814 |
+| Tiger on Fire | 0.40% | ~2,814 |
+| Source of Flying Daggers | 0.40% | ~2,814 |
+| Iron Money | 0.40% | ~2,814 |
+| Detective Story | 0.40% | ~2,814 |
+| I know Kung-Fu | 0.40% | ~2,814 |
 | Legendary Talismans of Wuxing | 0.30% | ~2,110 |
 | Prodigal Child | 0.30% | ~2,110 |
 | The 36th Chamber of Kung-Fu | 0.30% | ~2,110 |
@@ -57,8 +57,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~703 |
 | Warriors from the Mountain | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703,348 (Ranked 15)  
-Completed: 12,731 (1.81%) (Ranked 62)  
+Progressed: 703,379 (Ranked 15)  
+Completed: 12,731 (1.81%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -86,7 +86,7 @@ Completed: 12,731 (1.81%) (Ranked 62)
 | 2023-05-16 | 702,986 | 12,728 |
 | 2023-05-17 | 703,009 | 12,730 |
 | 2023-05-18 | 703,070 | 12,731 |
-| 2023-05-19 | 703,348 | 12,731 |
+| 2023-05-19 | 703,379 | 12,731 |
 ## Awards
 Max (Great Boss Battles): 6,074  (Ranked 53)  
 Sum: 10,328 (Ranked 77)  

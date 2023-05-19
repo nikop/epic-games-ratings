@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What took you so long? | 87.00% | ~27 |
-| Welcome to the Rumbly Lands! | 87.00% | ~27 |
-| Time to Bash Some Heads! | 84.00% | ~26 |
-| Shiny! | 74.00% | ~23 |
-| Deep in the Mounds | 71.00% | ~22 |
-| Locked Away | 35.00% | ~11 |
-| Smeltastic! | 35.00% | ~11 |
-| A Little Renovating | 32.00% | ~10 |
-| Deflect This! | 26.00% | ~8 |
-| Just Some Improvements | 23.00% | ~7 |
-| It's a Sign! | 23.00% | ~7 |
+| What took you so long? | 84.00% | ~27 |
+| Welcome to the Rumbly Lands! | 84.00% | ~27 |
+| Time to Bash Some Heads! | 81.00% | ~26 |
+| Shiny! | 72.00% | ~23 |
+| Deep in the Mounds | 69.00% | ~22 |
+| Locked Away | 34.00% | ~11 |
+| Smeltastic! | 34.00% | ~11 |
+| A Little Renovating | 31.00% | ~10 |
+| Deflect This! | 25.00% | ~8 |
+| Just Some Improvements | 22.00% | ~7 |
+| It's a Sign! | 22.00% | ~7 |
 | A New Strategy | 19.00% | ~6 |
 | Isn't It Beautiful? | 16.00% | ~5 |
 | A Generous Leader | 16.00% | ~5 |
@@ -22,48 +22,49 @@
 | A Terrible Way to Go | 16.00% | ~5 |
 | Final Announcement | 13.00% | ~4 |
 | How Do You Like Them Apples? | 13.00% | ~4 |
-| Gotta Collect Them All | 10.00% | ~3 |
-| Keeping Things Tidy | 10.00% | ~3 |
-| My Precious Gems! | 10.00% | ~3 |
-| Scheming Away | 10.00% | ~3 |
-| Dr. Dreinstein III | 10.00% | ~3 |
-| Eremagu Trial Extraordinaire | 10.00% | ~3 |
-| Scour the Eremagu Domain | 10.00% | ~3 |
-| An Electrifying Personality | 10.00% | ~3 |
-| Orcharion Boost | 10.00% | ~3 |
-| Back for More? | 10.00% | ~3 |
-| Fishing for Fissures | 10.00% | ~3 |
-| You did it? You did it! | 10.00% | ~3 |
-| Case Closed | 10.00% | ~3 |
-| Gurabi Trial Extraordinaire | 10.00% | ~3 |
-| Scour the Gurabi Domain | 10.00% | ~3 |
-| All Beefed Up | 10.00% | ~3 |
-| Isn't It Grand? | 10.00% | ~3 |
-| I am the Trial! | 10.00% | ~3 |
-| The Smelter | 10.00% | ~3 |
-| What's Yours Is Mine | 10.00% | ~3 |
-| I Like Rocks! | 10.00% | ~3 |
-| Nutoro Trial Extraordinaire | 10.00% | ~3 |
-| Scour the Nutoro Domain | 10.00% | ~3 |
-| Let the Undershell Flow | 10.00% | ~3 |
-| An Unexpected Visitor | 10.00% | ~3 |
-| We're Breaking Up | 10.00% | ~3 |
-| Remains of the Rumbly Lands | 10.00% | ~3 |
-| He Who Smelt It Dealt It | 10.00% | ~3 |
-| Smelter's Got Your Back | 10.00% | ~3 |
-| In Her Prime | 10.00% | ~3 |
-| A Wingman Falls | 10.00% | ~3 |
-| With a Little Help from My Friends | 10.00% | ~3 |
-| The More the Merrier | 10.00% | ~3 |
+| Gotta Collect Them All | 9.00% | ~3 |
+| Keeping Things Tidy | 9.00% | ~3 |
+| My Precious Gems! | 9.00% | ~3 |
+| Scheming Away | 9.00% | ~3 |
+| Dr. Dreinstein III | 9.00% | ~3 |
+| Eremagu Trial Extraordinaire | 9.00% | ~3 |
+| Scour the Eremagu Domain | 9.00% | ~3 |
+| An Electrifying Personality | 9.00% | ~3 |
+| Orcharion Boost | 9.00% | ~3 |
+| Back for More? | 9.00% | ~3 |
+| Fishing for Fissures | 9.00% | ~3 |
+| You did it? You did it! | 9.00% | ~3 |
+| Case Closed | 9.00% | ~3 |
+| Gurabi Trial Extraordinaire | 9.00% | ~3 |
+| Scour the Gurabi Domain | 9.00% | ~3 |
+| All Beefed Up | 9.00% | ~3 |
+| Isn't It Grand? | 9.00% | ~3 |
+| I am the Trial! | 9.00% | ~3 |
+| The Smelter | 9.00% | ~3 |
+| What's Yours Is Mine | 9.00% | ~3 |
+| I Like Rocks! | 9.00% | ~3 |
+| Nutoro Trial Extraordinaire | 9.00% | ~3 |
+| Scour the Nutoro Domain | 9.00% | ~3 |
+| Let the Undershell Flow | 9.00% | ~3 |
+| An Unexpected Visitor | 9.00% | ~3 |
+| We're Breaking Up | 9.00% | ~3 |
+| Remains of the Rumbly Lands | 9.00% | ~3 |
+| He Who Smelt It Dealt It | 9.00% | ~3 |
+| Smelter's Got Your Back | 9.00% | ~3 |
+| In Her Prime | 9.00% | ~3 |
+| A Wingman Falls | 9.00% | ~3 |
+| With a Little Help from My Friends | 9.00% | ~3 |
+| The More the Merrier | 9.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31 (Ranked 298)  
-Completed: 3 (9.68%) (Ranked 14)  
+Progressed: 32 (Ranked 297)  
+Completed: 3 (9.38%) (Ranked 14)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 29 | 3 |
 | 2023-04-30 | 30 | 3 |
 | 2023-05-16 | 31 | 3 |
+| 2023-05-19 | 32 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

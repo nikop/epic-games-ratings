@@ -2,13 +2,13 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 833,
+  "Ranking_Rating": 834,
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1148,9 +1148,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61092,
+  "EOS_Progressed": 61103,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 284,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2943,6 +2943,11 @@
       "Time": "2023-05-19T12:05:26.5927415+00:00",
       "NumProgressed": 61092,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-19T13:09:44.1427609+00:00",
+      "NumProgressed": 61103,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3000,9 +3005,9 @@
       "ID": "ALL_HEROES_PLAYED",
       "SetID": "4eo5ebm",
       "Name": "The Batman Family",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 244
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -3184,9 +3189,9 @@
       "ID": "FREEZE_1_5",
       "SetID": "4eo5ebm",
       "Name": "Quartzer Life Crisis",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 306
     },
     {
       "ID": "FREEZE_2",
@@ -3298,7 +3303,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -3402,7 +3407,7 @@
       "Name": "Gotham Knight",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "SECRET_CACHE",
@@ -3441,13 +3446,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61092,
+      "Progressed": 61103,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31372,
+      "Progressed": 31383,
       "Completed": 2640
     }
   ],
@@ -3455,8 +3460,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-19T11:00:31.9062538+00:00",
-  "LastChanged_Achievements": "2023-05-19T12:05:26.5927411+00:00",
+  "LastChanged_Achievements": "2023-05-19T13:09:44.1427605+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:40.0085268+00:00",
-  "LastUpdate_Ratings": "2023-05-19T11:59:04.8341752+00:00",
-  "LastUpdate_Achievements": "2023-05-19T12:05:26.5927956+00:00"
+  "LastUpdate_Ratings": "2023-05-19T13:03:25.1446343+00:00",
+  "LastUpdate_Achievements": "2023-05-19T13:09:44.1428248+00:00"
 }

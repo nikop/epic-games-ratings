@@ -3,8 +3,8 @@
   "Name": "The Light in the Darkness",
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 155,
-  "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_Completed": 19,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1318,
-  "EOS_Completed": 105,
-  "EOS_NewPlayers": 96,
-  "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 7.97,
+  "EOS_Progressed": 1319,
+  "EOS_Completed": 106,
+  "EOS_NewPlayers": 97,
+  "EOS_NewCompleters": 11,
+  "EOS_Completed_Percentage": 8.04,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -1303,6 +1303,11 @@
       "Time": "2023-05-19T12:05:10.2225423+00:00",
       "NumProgressed": 1318,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2023-05-19T13:09:27.826263+00:00",
+      "NumProgressed": 1319,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 12,
@@ -1346,7 +1351,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "Jakob",
@@ -1386,7 +1391,7 @@
       "Name": "May Their Memories be a Blessing",
       "Percentage": 8,
       "XP": 200,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "Nazis in Paris",
@@ -1409,16 +1414,16 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1318,
-      "Completed": 105
+      "Progressed": 1319,
+      "Completed": 106
     }
   ],
   "FirstSeen": "2023-02-19T22:57:55.1416262+00:00",
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-19T12:05:10.2225419+00:00",
+  "LastChanged_Achievements": "2023-05-19T13:09:27.8262625+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:31.0168757+00:00",
-  "LastUpdate_Ratings": "2023-05-19T11:58:57.4576893+00:00",
-  "LastUpdate_Achievements": "2023-05-19T12:05:10.2225567+00:00"
+  "LastUpdate_Ratings": "2023-05-19T13:03:18.0314512+00:00",
+  "LastUpdate_Achievements": "2023-05-19T13:09:27.8262804+00:00"
 }

@@ -1,27 +1,27 @@
 # Grand Theft Auto III – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-iii-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto_iii_–_the_definitive_edition.json)  
-Rating: 4.13 (Ranked 851)  
+Rating: 4.13 (Ranked 852)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~4,126 |
-| Disposing of the Evidence | 36.00% | ~1,790 |
-| Without a Scratch | 32.00% | ~1,591 |
-| Wreckless Driving | 27.00% | ~1,342 |
-| A Marked Man | 24.00% | ~1,193 |
-| Street Sweeper | 17.00% | ~845 |
-| Liberty City Minute | 17.00% | ~845 |
+| First Day on the Job | 83.00% | ~4,132 |
+| Disposing of the Evidence | 36.00% | ~1,792 |
+| Without a Scratch | 32.00% | ~1,593 |
+| Wreckless Driving | 27.00% | ~1,344 |
+| A Marked Man | 24.00% | ~1,195 |
+| Street Sweeper | 17.00% | ~846 |
+| Liberty City Minute | 17.00% | ~846 |
 | Offshore Delivery | 12.00% | ~597 |
-| Dirty Money | 11.00% | ~547 |
-| By a Mile | 9.00% | ~447 |
-| Not So Fast | 9.00% | ~447 |
-| Right-hand Man | 9.00% | ~447 |
-| A Gift from the King | 6.00% | ~298 |
+| Dirty Money | 11.00% | ~548 |
+| By a Mile | 9.00% | ~448 |
+| Not So Fast | 9.00% | ~448 |
+| Right-hand Man | 9.00% | ~448 |
+| A Gift from the King | 6.00% | ~299 |
 | Full Artillery | 4.00% | ~199 |
-| Mob Boss | 2.00% | ~99 |
-| Splish Splash | 2.00% | ~99 |
-| Liberty City Secrets | 2.00% | ~99 |
+| Mob Boss | 2.00% | ~100 |
+| Splish Splash | 2.00% | ~100 |
+| Liberty City Secrets | 2.00% | ~100 |
 | Escape Artist | 1.00% | ~50 |
 | Got This Figured Out | 1.00% | ~50 |
 | Come Out to Play-y-y-y | 1.00% | ~50 |
@@ -35,7 +35,7 @@ Rating: 4.13 (Ranked 851)
 | Is That All You've Got? | 0.70% | ~35 |
 | King of Liberty City | 0.50% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,971 (Ranked 124)  
+Progressed: 4,978 (Ranked 124)  
 Completed: 26 (0.52%) (Ranked 104)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 26 (0.52%) (Ranked 104)
 | 2023-05-16 | 4,918 | 26 |
 | 2023-05-17 | 4,923 | 26 |
 | 2023-05-18 | 4,945 | 26 |
-| 2023-05-19 | 4,971 | 26 |
+| 2023-05-19 | 4,978 | 26 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

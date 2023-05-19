@@ -1,49 +1,49 @@
 # PUBG: BATTLEGROUNDS
 [Store](https://store.epicgames.com/en-US/p/pubg-59c1d9)  
 [View Rawdata](../../db/p/pubg__battlegrounds.json)  
-Rating: 3.98 (Ranked 888)  
+Rating: 3.98 (Ranked 889)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 74.00% | ~270,460 |
-| Health Junkie | 45.00% | ~164,469 |
-| You Complete Me | 41.00% | ~149,850 |
-| Guardian Angel | 39.00% | ~142,540 |
-| Devil Inside Me | 31.00% | ~113,301 |
-| Killing Spree | 22.00% | ~80,407 |
-| Fantastic Four | 21.00% | ~76,752 |
-| Marksman Novice | 20.00% | ~73,097 |
-| First Blood | 13.00% | ~47,513 |
-| Top 10 | 13.00% | ~47,513 |
-| Now You See Me, Now You Don't | 12.00% | ~43,858 |
-| Marksman Expert | 9.00% | ~32,894 |
-| CQB Novice | 8.00% | ~29,239 |
-| Collateral Damage | 7.00% | ~25,584 |
-| Airborne | 6.00% | ~21,929 |
-| Pacifist | 5.00% | ~18,274 |
-| Last Survivor | 4.00% | ~14,619 |
-| Marksman Master | 4.00% | ~14,619 |
-| Trigonometry Novice | 4.00% | ~14,619 |
-| First Come, First Served | 4.00% | ~14,619 |
-| Dynamic Duo | 4.00% | ~14,619 |
-| Winner Winner Chicken Dinner! | 2.00% | ~7,310 |
-| Okay, Now I'm Ready | 2.00% | ~7,310 |
-| Agent 48 | 2.00% | ~7,310 |
-| Don't Pan Me Bro! | 2.00% | ~7,310 |
-| Fast and Furious | 2.00% | ~7,310 |
-| CQB Expert | 2.00% | ~7,310 |
-| Fury Road | 1.00% | ~3,655 |
-| Ghost | 1.00% | ~3,655 |
-| Cruising with the Enemy | 1.00% | ~3,655 |
-| Nade King Novice | 0.70% | ~2,558 |
-| Master Assassin | 0.50% | ~1,827 |
-| CQB Master | 0.30% | ~1,096 |
-| Nade King Master | 0.10% | ~365 |
-| Nade King Expert | 0.10% | ~365 |
-| The First Rule Is… | 0.10% | ~365 |
-| Shoot the Knee | 0.10% | ~365 |
+| Blood on My Hands | 74.00% | ~270,528 |
+| Health Junkie | 45.00% | ~164,510 |
+| You Complete Me | 41.00% | ~149,887 |
+| Guardian Angel | 39.00% | ~142,575 |
+| Devil Inside Me | 31.00% | ~113,329 |
+| Killing Spree | 22.00% | ~80,427 |
+| Fantastic Four | 21.00% | ~76,771 |
+| Marksman Novice | 20.00% | ~73,116 |
+| First Blood | 13.00% | ~47,525 |
+| Top 10 | 13.00% | ~47,525 |
+| Now You See Me, Now You Don't | 12.00% | ~43,869 |
+| Marksman Expert | 9.00% | ~32,902 |
+| CQB Novice | 8.00% | ~29,246 |
+| Collateral Damage | 7.00% | ~25,590 |
+| Airborne | 6.00% | ~21,935 |
+| Pacifist | 5.00% | ~18,279 |
+| Last Survivor | 4.00% | ~14,623 |
+| Marksman Master | 4.00% | ~14,623 |
+| Trigonometry Novice | 4.00% | ~14,623 |
+| First Come, First Served | 4.00% | ~14,623 |
+| Dynamic Duo | 4.00% | ~14,623 |
+| Winner Winner Chicken Dinner! | 2.00% | ~7,312 |
+| Okay, Now I'm Ready | 2.00% | ~7,312 |
+| Agent 48 | 2.00% | ~7,312 |
+| Don't Pan Me Bro! | 2.00% | ~7,312 |
+| Fast and Furious | 2.00% | ~7,312 |
+| CQB Expert | 2.00% | ~7,312 |
+| Fury Road | 1.00% | ~3,656 |
+| Ghost | 1.00% | ~3,656 |
+| Cruising with the Enemy | 1.00% | ~3,656 |
+| Nade King Novice | 0.70% | ~2,559 |
+| Master Assassin | 0.50% | ~1,828 |
+| CQB Master | 0.30% | ~1,097 |
+| Nade King Master | 0.10% | ~366 |
+| Nade King Expert | 0.10% | ~366 |
+| The First Rule Is… | 0.10% | ~366 |
+| Shoot the Knee | 0.10% | ~366 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 365,487 (Ranked 36)  
+Progressed: 365,578 (Ranked 36)  
 Completed: 8 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,17 +72,17 @@ Completed: 8 (0.00%) (Ranked 200)
 | 2023-05-16 | 363,118 | 8 |
 | 2023-05-17 | 363,935 | 8 |
 | 2023-05-18 | 365,004 | 8 |
-| 2023-05-19 | 365,487 | 8 |
+| 2023-05-19 | 365,578 | 8 |
 ## Awards
 Max (Competitive Players): 1,913  (Ranked 104)  
-Sum: 6,247 (Ranked 112)  
-Diff (max vs sum): -8  
+Sum: 8,039 (Ranked 91)  
+Diff (max vs sum): 13  
 | Award | Count |
 | ----- | ----- |
 | This game has Competitive Players | 1,913 |
+| This game has Quickly Understood Controls | 1,792 |
 | This game has Challenging Combat | 1,685 |
 | This game is Highly Recommended | 1,547 |
-| This game has Quickly Understood Controls | 1,390 |
 | This game has a Competitive Community | 1,102 |
 | This game is Extremely Fun | 122 |
 | This game has Diverse Characters | 76 |
@@ -171,4 +171,4 @@ Diff (max vs sum): -8
 | 2023-05-16 | 3.98 | 1,883 | 6,152 |
 | 2023-05-17 | 3.98 | 1,899 | 6,201 |
 | 2023-05-18 | 3.99 | 1,913 | 6,247 |
-| 2023-05-19 | 3.98 | 1,913 | 6,247 |
+| 2023-05-19 | 3.98 | 1,913 | 8,039 |

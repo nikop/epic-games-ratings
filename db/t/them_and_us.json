@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 101,
+  "EOS_Progressed": 102,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.99,
+  "EOS_Completed_Percentage": 0.98,
   "EosHistory": [
     {
       "Time": "2023-04-30T13:59:34.488144+00:00",
@@ -383,6 +383,11 @@
       "Time": "2023-05-19T10:01:27.5655948+00:00",
       "NumProgressed": 101,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-19T13:06:10.9939512+00:00",
+      "NumProgressed": 102,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -680,7 +685,7 @@
       "ID": "ETUA_Thiswillbealongnight",
       "SetID": "65jc0ap",
       "Name": "A Night To Remember",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
       "UsersEstimate": 31
     },
@@ -713,7 +718,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 101,
+      "Progressed": 102,
       "Completed": 1
     }
   ],
@@ -721,8 +726,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-05-19T12:02:11.6924983+00:00",
+  "LastChanged_Achievements": "2023-05-19T13:06:10.9939508+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:08.4580551+00:00",
-  "LastUpdate_Ratings": "2023-05-19T11:56:57.1420982+00:00",
-  "LastUpdate_Achievements": "2023-05-19T12:02:11.692525+00:00"
+  "LastUpdate_Ratings": "2023-05-19T13:01:17.3552666+00:00",
+  "LastUpdate_Achievements": "2023-05-19T13:06:10.9939852+00:00"
 }

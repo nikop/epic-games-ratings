@@ -7,22 +7,28 @@ Number of Ratings: 1,003  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Knightmare Frames | 0.10% | ~458 |
+| May His passing cleanse the world | 0.10% | ~458 |
 | In space, no one can hear you scream | 0.10% | ~458 |
+| Chapter I: Echoes | 0.10% | ~458 |
 | The Shutdown | 0.10% | ~458 |
 | Forsaken | 0.10% | ~458 |
+| Mother | 0.10% | ~458 |
 | Things persisted in not being what they seemed | 0.10% | ~458 |
+| Second Coming | 0.10% | ~458 |
+| The Inquisitor | 0.10% | ~458 |
 | The Tech Med | 0.10% | ~458 |
+| The Anonymous | 0.10% | ~458 |
 | Jeef Skeejj | 0.10% | ~458 |
 | Jeef Skagg | 0.10% | ~458 |
 | Plan for the worst | 0.10% | ~458 |
 | Careful planning | 0.10% | ~458 |
+| Excelsior Rule | 0.10% | ~458 |
 | The Blade | 0.10% | ~2 |
+| The Ghost | 0.10% | ~2 |
 | The Extractor | 0.10% | ~2 |
 | The Executioner | 0.10% | ~2 |
 | Soldiers of Fortune | 0.10% | ~2 |
 | Hand of the Emperor | 0.10% | ~2 |
-| May His passing cleanse the world | 0.00% | ~0 |
-| Chapter I: Echoes | 0.00% | ~0 |
 | Chapter II: Fallible Flesh | 0.00% | ~0 |
 | Chapter III: The Man Who Sold the World | 0.00% | ~0 |
 | Chapter IV: Through the Looking Glass | 0.00% | ~0 |
@@ -32,25 +38,21 @@ Number of Ratings: 1,003  (23.09.2022)
 | A Frozen Lady | 0.00% | ~0 |
 | Kill the Doctor | 0.00% | ~0 |
 | Through the mirror | 0.00% | ~0 |
-| Mother | 0.00% | ~0 |
 | Meet your maker | 0.00% | ~0 |
 | Admiral Okonkwo | 0.00% | ~0 |
 | The Survivalists | 0.00% | ~0 |
 | Tetsuo | 0.00% | ~0 |
 | General Vivar | 0.00% | ~0 |
 | Pope Zenon | 0.00% | ~0 |
-| Second Coming | 0.00% | ~0 |
 | Back to Ganyma | 0.00% | ~0 |
 | Mercy | 0.00% | ~0 |
 | The Impersonator | 0.00% | ~0 |
 | The Kid | 0.00% | ~0 |
 | The Evangelist | 0.00% | ~0 |
-| The Inquisitor | 0.00% | ~0 |
 | The Tech Specialist | 0.00% | ~0 |
 | The Ace Pilot | 0.00% | ~0 |
 | The Mech Soldier | 0.00% | ~0 |
 | The lucky charm | 0.00% | ~0 |
-| The Anonymous | 0.00% | ~0 |
 | The Smuggler | 0.00% | ~0 |
 | The Crazy Repairman | 0.00% | ~0 |
 | The Weasel | 0.00% | ~0 |
@@ -75,8 +77,6 @@ Number of Ratings: 1,003  (23.09.2022)
 | Hammer Rule | 0.00% | ~0 |
 | Void Rule | 0.00% | ~0 |
 | Kaos Rule | 0.00% | ~0 |
-| Excelsior Rule | 0.00% | ~0 |
-| The Ghost | 0.00% | ~0 |
 | Savior | 0.00% | ~0 |
 | The God of War | 0.00% | ~0 |
 | Horus Mastery | 0.00% | ~0 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.00% | ~0 |
 | Kronos Rule | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458,416 (Ranked 29)  
+Progressed: 458,421 (Ranked 29)  
 Completed: 14 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 14 (0.00%) (Ranked 200)
 | 2023-05-16 | 458,171 | 14 |
 | 2023-05-17 | 458,267 | 14 |
 | 2023-05-18 | 458,375 | 14 |
-| 2023-05-19 | 458,416 | 14 |
+| 2023-05-19 | 458,421 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 209 (Ranked 349)  

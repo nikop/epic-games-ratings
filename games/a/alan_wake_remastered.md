@@ -22,7 +22,7 @@ Number of Ratings: 524  (23.09.2022)
 | Sound and Fury | 8.00% | ~3,704 |
 | Missed by a Mile | 8.00% | ~3,704 |
 | Damn Good Cup of Coffee | 8.00% | ~3,704 |
-| A Friend in Need | 8.00% | ~781 |
+| A Friend in Need | 8.00% | ~782 |
 | Heavy Metal | 7.00% | ~3,241 |
 | Iron Horse | 7.00% | ~3,241 |
 | Perchance to Dream | 7.00% | ~3,241 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,298 (Ranked 75)  
+Progressed: 46,302 (Ranked 75)  
 Completed: 44 (0.10%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 44 (0.10%) (Ranked 157)
 | 2023-05-16 | 46,196 | 44 |
 | 2023-05-17 | 46,208 | 44 |
 | 2023-05-18 | 46,244 | 44 |
-| 2023-05-19 | 46,298 | 44 |
+| 2023-05-19 | 46,302 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

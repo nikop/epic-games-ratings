@@ -2,12 +2,12 @@
   "ID": "5c59642227a2412fb38f324d1772914e",
   "Name": "Train Valley 2",
   "ProductSlug": "train-valley-2-3606da",
-  "Ranking_Rating": 843,
+  "Ranking_Rating": 844,
   "Ranking_Popularity": 363,
   "Ranking_PopularitySum": 419,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
@@ -265,9 +265,9 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 702,
+  "EOS_Progressed": 703,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -304,6 +304,11 @@
     {
       "Time": "2023-05-19T11:07:15.7736821+00:00",
       "NumProgressed": 702,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-19T13:09:26.1442178+00:00",
+      "NumProgressed": 703,
       "NumCompleted": 1
     }
   ],
@@ -915,21 +920,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 43,
+      "Progressed": 44,
       "Completed": 6
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 702,
+      "Progressed": 703,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-05-04T07:57:22.9551284+00:00",
-  "LastChanged_Achievements": "2023-05-19T12:05:08.1354561+00:00",
+  "LastChanged_Achievements": "2023-05-19T13:09:26.1442171+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:25.4877513+00:00",
-  "LastUpdate_Ratings": "2023-05-19T11:57:11.4946694+00:00",
-  "LastUpdate_Achievements": "2023-05-19T12:05:08.1355377+00:00"
+  "LastUpdate_Ratings": "2023-05-19T13:01:31.8905638+00:00",
+  "LastUpdate_Achievements": "2023-05-19T13:09:26.1442924+00:00"
 }

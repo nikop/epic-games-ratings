@@ -4,7 +4,7 @@
   "ProductSlug": "cyber-hook-064d2c",
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-11-01T05:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:34.3756775+00:00",
   "LastChanged": "2023-03-31T05:58:34.3756776+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:21.2703102+00:00",
-  "LastUpdate_Ratings": "2023-05-19T11:57:07.2273062+00:00",
-  "LastUpdate_Achievements": "2023-05-19T12:03:48.966221+00:00"
+  "LastUpdate_Ratings": "2023-05-19T13:01:27.6820304+00:00",
+  "LastUpdate_Achievements": "2023-05-19T13:07:58.2527802+00:00"
 }

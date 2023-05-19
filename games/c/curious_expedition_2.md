@@ -14,7 +14,7 @@ Number of Ratings: 20  (23.09.2022)
 | Lost & Found & Lost Again | 37.00% | ~108 |
 | Fire and Flood | 35.00% | ~102 |
 | Spooky! | 33.00% | ~96 |
-| Shennong Herbalist | 30.00% | ~88 |
+| Shennong Herbalist | 31.00% | ~91 |
 | Treasure Hunt | 30.00% | ~88 |
 | Good Mama | 29.00% | ~85 |
 | O Captain My Captain | 27.00% | ~79 |

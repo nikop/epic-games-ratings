@@ -981,9 +981,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 5431,
+  "EOS_Progressed": 5432,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 260,
+  "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3201,6 +3201,11 @@
       "Time": "2023-05-19T10:06:21.548572+00:00",
       "NumProgressed": 5431,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T13:09:42.310385+00:00",
+      "NumProgressed": 5432,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -3212,7 +3217,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 3313
+      "UsersEstimate": 3314
     },
     {
       "ID": "10",
@@ -3244,7 +3249,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2878
+      "UsersEstimate": 2879
     },
     {
       "ID": "14",
@@ -3252,7 +3257,7 @@
       "Name": "Famous Explorer",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "15",
@@ -3260,7 +3265,7 @@
       "Name": "Legendary Explorer",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1466
+      "UsersEstimate": 1467
     },
     {
       "ID": "16",
@@ -3292,7 +3297,7 @@
       "Name": "Healer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2878
+      "UsersEstimate": 2879
     },
     {
       "ID": "2",
@@ -3316,7 +3321,7 @@
       "Name": "The Great Healer",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 1629
+      "UsersEstimate": 1630
     },
     {
       "ID": "22",
@@ -3364,7 +3369,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "28",
@@ -3380,7 +3385,7 @@
       "Name": "Trader",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "3",
@@ -3540,7 +3545,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "48",
@@ -3604,7 +3609,7 @@
       "Name": "Top Notch",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "55",
@@ -3683,15 +3688,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 5431,
+      "Progressed": 5432,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-05-13T10:01:00.1135595+00:00",
-  "LastChanged_Achievements": "2023-05-19T12:05:24.7677909+00:00",
+  "LastChanged_Achievements": "2023-05-19T13:09:42.3103845+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:49.5655014+00:00",
-  "LastUpdate_Ratings": "2023-05-19T11:59:15.9776503+00:00",
-  "LastUpdate_Achievements": "2023-05-19T12:05:24.7678577+00:00"
+  "LastUpdate_Ratings": "2023-05-19T13:03:35.8347914+00:00",
+  "LastUpdate_Achievements": "2023-05-19T13:09:42.3104505+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "c3e63401d6ba410493de31ed69a798a1",
   "Name": "Heroes \u0026 Generals WWII",
   "ProductSlug": "heroes-and-generals-wwii",
-  "Ranking_Rating": 797,
+  "Ranking_Rating": 798,
   "Ranking_Popularity": 137,
-  "Ranking_PopularitySum": 103,
+  "Ranking_PopularitySum": 104,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2020-09-24T14:00:00+00:00",
@@ -3265,18 +3265,24 @@
       "Rating": 4.23,
       "NumberOfAwards": 6928,
       "NumberOfAwardsMax": 1000
+    },
+    {
+      "Time": "2023-05-19T13:03:59.4522559+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 6930,
+      "NumberOfAwardsMax": 1001
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6928,
-  "NumberOfAwardsMax": 1000,
+  "NumberOfAwards": 6930,
+  "NumberOfAwardsMax": 1001,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1000
+      "Count": 1001
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3288,7 +3294,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 889
+      "Count": 890
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3338,8 +3344,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:51.2948147+00:00",
-  "LastChanged": "2023-05-19T09:01:19.0217068+00:00",
+  "LastChanged": "2023-05-19T13:03:59.4522557+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:19.3845301+00:00",
-  "LastUpdate_Ratings": "2023-05-19T11:59:40.7355141+00:00",
-  "LastUpdate_Achievements": "2023-05-19T12:04:35.1603736+00:00"
+  "LastUpdate_Ratings": "2023-05-19T13:03:59.4522565+00:00",
+  "LastUpdate_Achievements": "2023-05-19T13:08:53.7295151+00:00"
 }

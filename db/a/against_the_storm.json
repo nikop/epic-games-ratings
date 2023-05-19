@@ -3,7 +3,7 @@
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
   "Ranking_Rating": 71,
-  "Ranking_Popularity": 195,
+  "Ranking_Popularity": 196,
   "Ranking_PopularitySum": 150,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 140,
@@ -2288,9 +2288,9 @@
       "Count": 304
     }
   ],
-  "EOS_Progressed": 14888,
+  "EOS_Progressed": 14890,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -3768,6 +3768,11 @@
       "Time": "2023-05-19T09:06:55.2241808+00:00",
       "NumProgressed": 14888,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-19T13:09:43.8620305+00:00",
+      "NumProgressed": 14890,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 50,
@@ -3905,9 +3910,9 @@
       "ID": "WinNearBarren",
       "SetID": "cfbk359",
       "Name": "Barren Lands",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 134
     },
     {
       "ID": "WinNearBattleground",
@@ -3929,9 +3934,9 @@
       "ID": "WinNearDangerous",
       "SetID": "cfbk359",
       "Name": "Dangerous Lands",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 104
     },
     {
       "ID": "WinNearFertile",
@@ -4178,15 +4183,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 14888,
+      "Progressed": 14890,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-19T11:59:18.6406919+00:00",
-  "LastChanged_Achievements": "2023-05-19T12:05:26.30946+00:00",
+  "LastChanged_Achievements": "2023-05-19T13:09:43.86203+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:54.8345415+00:00",
-  "LastUpdate_Ratings": "2023-05-19T11:59:18.6406923+00:00",
-  "LastUpdate_Achievements": "2023-05-19T12:05:26.309498+00:00"
+  "LastUpdate_Ratings": "2023-05-19T13:03:38.7774083+00:00",
+  "LastUpdate_Achievements": "2023-05-19T13:09:43.862081+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 95,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6373,
+  "EOS_Progressed": 6374,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -943,6 +943,11 @@
       "Time": "2023-05-19T12:05:02.3008596+00:00",
       "NumProgressed": 6373,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-19T13:09:20.6307376+00:00",
+      "NumProgressed": 6374,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 27,
@@ -1010,7 +1015,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1593
+      "UsersEstimate": 1594
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -1018,7 +1023,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1593
+      "UsersEstimate": 1594
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -1050,7 +1055,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1784
+      "UsersEstimate": 1785
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -1066,7 +1071,7 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "AK_PYRE_IGNITED",
@@ -1154,7 +1159,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2549
+      "UsersEstimate": 2550
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -1169,15 +1174,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6373,
+      "Progressed": 6374,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-05-19T12:05:02.3008591+00:00",
+  "LastChanged_Achievements": "2023-05-19T13:09:20.6307371+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:23.1555334+00:00",
-  "LastUpdate_Ratings": "2023-05-19T11:57:09.1985309+00:00",
-  "LastUpdate_Achievements": "2023-05-19T12:05:02.3008772+00:00"
+  "LastUpdate_Ratings": "2023-05-19T13:01:29.4903987+00:00",
+  "LastUpdate_Achievements": "2023-05-19T13:09:20.6307592+00:00"
 }

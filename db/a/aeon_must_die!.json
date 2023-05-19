@@ -4,7 +4,7 @@
   "ProductSlug": "aeon-must-die",
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 2635,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3465,
+  "EOS_Progressed": 3466,
   "EOS_Completed": -29,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": -0.84,
   "EosHistory": [
@@ -65,6 +65,11 @@
     {
       "Time": "2023-05-18T16:06:24.447294+00:00",
       "NumProgressed": 3465,
+      "NumCompleted": -29
+    },
+    {
+      "Time": "2023-05-19T13:09:08.9501438+00:00",
+      "NumProgressed": 3466,
       "NumCompleted": -29
     }
   ],
@@ -133,7 +138,7 @@
       "Name": "Moment Of Perfection",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "17",
@@ -173,7 +178,7 @@
       "Name": "Even While Weakened",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "21",
@@ -213,7 +218,7 @@
       "Name": "Like Swatting Flies",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "26",
@@ -245,7 +250,7 @@
       "Name": "Balance Incarnate",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "3",
@@ -356,7 +361,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3465,
+      "Progressed": 3466,
       "Completed": -29
     }
   ],
@@ -364,8 +369,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2023-05-19T12:04:50.7319757+00:00",
+  "LastChanged_Achievements": "2023-05-19T13:09:08.9501434+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:10.417884+00:00",
-  "LastUpdate_Ratings": "2023-05-19T11:56:58.5751122+00:00",
-  "LastUpdate_Achievements": "2023-05-19T12:04:50.731997+00:00"
+  "LastUpdate_Ratings": "2023-05-19T13:01:18.7505729+00:00",
+  "LastUpdate_Achievements": "2023-05-19T13:09:08.9501691+00:00"
 }

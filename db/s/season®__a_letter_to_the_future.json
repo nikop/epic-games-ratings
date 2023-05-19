@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 33,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 752,
+  "EOS_Progressed": 753,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.12,
   "EosHistory": [
@@ -211,6 +211,11 @@
       "Time": "2023-05-19T12:04:58.1614511+00:00",
       "NumProgressed": 752,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-05-19T13:09:16.3982425+00:00",
+      "NumProgressed": 753,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 16,
@@ -246,7 +251,7 @@
       "Name": "Emotional Baggage Handler",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH_GOODBYETIENGVALLEY",
@@ -278,7 +283,7 @@
       "Name": "Home Leaver",
       "Percentage": 84,
       "XP": 40,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -286,7 +291,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 84,
       "XP": 40,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -302,15 +307,15 @@
       "Name": "Music for Cows",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_OUTSIDEWORLDSEER",
       "SetID": "7pam6gn",
       "Name": "Outside World Seer",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 40,
-      "UsersEstimate": 496
+      "UsersEstimate": 489
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -326,7 +331,7 @@
       "Name": "Stranger Encounterer",
       "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "ACH_THEEND",
@@ -349,7 +354,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 752,
+      "Progressed": 753,
       "Completed": 31
     }
   ],
@@ -357,8 +362,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-05-19T12:04:58.1614507+00:00",
+  "LastChanged_Achievements": "2023-05-19T13:09:16.398242+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:32.6453589+00:00",
-  "LastUpdate_Ratings": "2023-05-19T11:58:09.6107957+00:00",
-  "LastUpdate_Achievements": "2023-05-19T12:04:58.1614603+00:00"
+  "LastUpdate_Ratings": "2023-05-19T13:02:29.4795069+00:00",
+  "LastUpdate_Achievements": "2023-05-19T13:09:16.3982559+00:00"
 }

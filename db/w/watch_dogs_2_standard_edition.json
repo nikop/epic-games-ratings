@@ -4,10 +4,10 @@
   "ProductSlug": "watch-dogs-2",
   "Ranking_Rating": 401,
   "Ranking_Popularity": 217,
-  "Ranking_PopularitySum": 167,
+  "Ranking_PopularitySum": 166,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2016-11-15T15:21:00+00:00",
@@ -3268,10 +3268,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 2454,
       "NumberOfAwardsMax": 322
+    },
+    {
+      "Time": "2023-05-19T13:02:51.5468363+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 2458,
+      "NumberOfAwardsMax": 322
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2454,
+  "NumberOfAwards": 2458,
   "NumberOfAwardsMax": 322,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3303,7 +3309,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 317
+      "Count": 321
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3347,8 +3353,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:47.2553494+00:00",
-  "LastChanged": "2023-05-18T19:59:53.7772338+00:00",
+  "LastChanged": "2023-05-19T13:02:51.5468362+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:58.3582747+00:00",
-  "LastUpdate_Ratings": "2023-05-19T11:58:31.366563+00:00",
-  "LastUpdate_Achievements": "2023-05-19T12:00:11.7146865+00:00"
+  "LastUpdate_Ratings": "2023-05-19T13:02:51.5468368+00:00",
+  "LastUpdate_Achievements": "2023-05-19T13:04:32.5795133+00:00"
 }

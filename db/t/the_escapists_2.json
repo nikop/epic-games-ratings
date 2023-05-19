@@ -4,10 +4,10 @@
   "ProductSlug": "the-escapists-2",
   "Ranking_Rating": 414,
   "Ranking_Popularity": 388,
-  "Ranking_PopularitySum": 305,
+  "Ranking_PopularitySum": 304,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2020-07-09T15:00:00+00:00",
@@ -941,10 +941,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 398,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-05-19T13:02:15.6199408+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 399,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 398,
+  "NumberOfAwards": 399,
   "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -994,7 +1000,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 41
+      "Count": 42
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1026,8 +1032,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:06.6335859+00:00",
-  "LastChanged": "2023-05-19T08:58:40.8879674+00:00",
+  "LastChanged": "2023-05-19T13:02:15.6199405+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:17.2775702+00:00",
-  "LastUpdate_Ratings": "2023-05-19T11:57:56.0258062+00:00",
-  "LastUpdate_Achievements": "2023-05-19T12:00:15.5024044+00:00"
+  "LastUpdate_Ratings": "2023-05-19T13:02:15.6199414+00:00",
+  "LastUpdate_Achievements": "2023-05-19T13:04:36.4806183+00:00"
 }

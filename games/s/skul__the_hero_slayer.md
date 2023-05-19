@@ -6,24 +6,24 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~6,705 |
-| What should I buy? | 83.00% | ~5,984 |
-| Focus! | 62.00% | ~4,470 |
-| Rescued Elder Ent | 62.00% | ~4,470 |
-| The End of the Gold Mane Knights | 46.00% | ~3,317 |
-| Rules of Etiquette | 39.00% | ~2,812 |
-| False Goddess, Disappear | 38.00% | ~2,740 |
-| Quick Movements | 33.00% | ~2,379 |
-| Inventory Management | 33.00% | ~2,379 |
-| The Fall of the Leonia Order | 29.00% | ~2,091 |
-| The Hero Killer | 27.00% | ~1,947 |
-| The Final Battle of the First Hero | 25.00% | ~1,802 |
-| Go Home... | 25.00% | ~1,802 |
-| Brain at Full Throttle | 23.00% | ~1,658 |
-| Rookies Welcome | 20.00% | ~1,442 |
+| The Legend Begins | 93.00% | ~6,709 |
+| What should I buy? | 83.00% | ~5,988 |
+| Focus! | 62.00% | ~4,473 |
+| Rescued Elder Ent | 62.00% | ~4,473 |
+| The End of the Gold Mane Knights | 46.00% | ~3,318 |
+| Rules of Etiquette | 39.00% | ~2,813 |
+| False Goddess, Disappear | 38.00% | ~2,741 |
+| Quick Movements | 33.00% | ~2,381 |
+| Inventory Management | 33.00% | ~2,381 |
+| The Fall of the Leonia Order | 29.00% | ~2,092 |
+| The Hero Killer | 27.00% | ~1,948 |
+| The Final Battle of the First Hero | 25.00% | ~1,804 |
+| Go Home... | 25.00% | ~1,804 |
+| Brain at Full Throttle | 22.00% | ~1,587 |
+| Rookies Welcome | 20.00% | ~1,443 |
 | Deadly Power | 15.00% | ~1,082 |
-| Castle Restoration Plans | 14.00% | ~1,009 |
-| The Dwarven Chandelier | 12.00% | ~865 |
+| Castle Restoration Plans | 14.00% | ~1,010 |
+| The Dwarven Chandelier | 12.00% | ~866 |
 | Master of Speed | 9.00% | ~649 |
 | The Levitator | 6.00% | ~433 |
 | The God of Battle | 3.00% | ~216 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 2.00% | ~144 |
 | Cold-Blooded | 0.80% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,210 (Ranked 111)  
+Progressed: 7,214 (Ranked 111)  
 Completed: 11 (0.15%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,7 +56,7 @@ Completed: 11 (0.15%) (Ranked 147)
 | 2023-05-16 | 7,184 | 11 |
 | 2023-05-17 | 7,186 | 11 |
 | 2023-05-18 | 7,189 | 11 |
-| 2023-05-19 | 7,210 | 11 |
+| 2023-05-19 | 7,214 | 11 |
 ## Awards
 Max (Diverse Characters): 112  (Ranked 313)  
 Sum: 748 (Ranked 255)  
