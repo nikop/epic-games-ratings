@@ -2,9 +2,9 @@
   "ID": "25163a0f3c9d47d38afe753d53fd27bb",
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
-  "Ranking_EOS_Progress": 253,
-  "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_Progress": 252,
+  "Ranking_EOS_Completed": 64,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 109,
+  "EOS_Progressed": 113,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 1.83,
+  "EOS_Completed_Percentage": 1.77,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -114,6 +114,11 @@
       "Time": "2023-05-19T03:03:24.0384108+00:00",
       "NumProgressed": 109,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-19T04:03:22.7786882+00:00",
+      "NumProgressed": 113,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -123,9 +128,9 @@
       "ID": "LEVEL_001",
       "SetID": "212bg48",
       "Name": "A fresh start",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 108
     },
     {
       "ID": "LEVEL_002",
@@ -133,7 +138,7 @@
       "Name": "Promising crop",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 88
     },
     {
       "ID": "LEVEL_003",
@@ -141,7 +146,7 @@
       "Name": "A horse in the country",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "LEVEL_004",
@@ -149,7 +154,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "LEVEL_005",
@@ -157,15 +162,15 @@
       "Name": "Small village",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "LEVEL_006",
       "SetID": "212bg48",
       "Name": "Nothing like fresh food",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "LEVEL_007",
@@ -173,23 +178,23 @@
       "Name": "Animals in the farm",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "LEVEL_008",
       "SetID": "212bg48",
       "Name": "Let\u0027s go to the market",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "LEVEL_009",
       "SetID": "212bg48",
       "Name": "Going zig zag",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "LEVEL_010",
@@ -197,7 +202,7 @@
       "Name": "Rocks around the island",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "LEVEL_011",
@@ -205,7 +210,7 @@
       "Name": "This island of mine",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "LEVEL_012",
@@ -213,23 +218,23 @@
       "Name": "Vegetables on rails",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "LEVEL_013",
       "SetID": "212bg48",
       "Name": "Higher ground",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "LEVEL_014",
       "SetID": "212bg48",
       "Name": "Cross-country",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "LEVEL_015",
@@ -253,7 +258,7 @@
       "Name": "Windmill on a rocky cliff",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "LEVEL_018",
@@ -261,7 +266,7 @@
       "Name": "Isle rock city",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "LEVEL_019",
@@ -364,13 +369,13 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 109,
+      "Progressed": 113,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-19T03:03:24.0384104+00:00",
+  "LastChanged_Achievements": "2023-05-19T04:03:22.7786872+00:00",
   "LastUpdate_AppInfo": "2023-05-15T11:57:23.4437098+00:00",
-  "LastUpdate_Ratings": "2023-05-19T02:56:58.195456+00:00",
-  "LastUpdate_Achievements": "2023-05-19T03:03:24.038428+00:00"
+  "LastUpdate_Ratings": "2023-05-19T03:57:05.7628522+00:00",
+  "LastUpdate_Achievements": "2023-05-19T04:03:22.7787262+00:00"
 }

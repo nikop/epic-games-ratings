@@ -6,27 +6,27 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 68.00% | ~1,803 |
-| Having A Field Day | 66.00% | ~1,750 |
-| Reap What You Sow | 64.00% | ~1,697 |
+| Get A Room | 68.00% | ~1,804 |
+| Having A Field Day | 66.00% | ~1,751 |
+| Reap What You Sow | 64.00% | ~1,698 |
 | Green Thumb | 63.00% | ~1,671 |
-| The First Day | 60.00% | ~1,591 |
-| Novice Researcher | 56.00% | ~1,485 |
+| The First Day | 60.00% | ~1,592 |
+| Novice Researcher | 56.00% | ~1,486 |
 | Putting Food on the Table | 55.00% | ~1,459 |
 | Onward | 50.00% | ~1,326 |
-| The First Week | 47.00% | ~1,246 |
-| Studious Researcher | 47.00% | ~1,246 |
+| The First Week | 47.00% | ~1,247 |
+| Studious Researcher | 47.00% | ~1,247 |
 | Feast or Famine | 46.00% | ~1,220 |
 | Beam Me Up | 44.00% | ~1,167 |
 | Adept Researcher | 44.00% | ~1,167 |
-| Home Cooked Meal | 43.00% | ~1,140 |
-| Luminary Researcher | 41.00% | ~1,087 |
-| Retribution | 35.00% | ~928 |
-| ...And Don’t Come Back! | 35.00% | ~928 |
+| Home Cooked Meal | 43.00% | ~1,141 |
+| Luminary Researcher | 41.00% | ~1,088 |
+| Retribution | 35.00% | ~929 |
+| ...And Don’t Come Back! | 35.00% | ~929 |
 | Fit For A King | 34.00% | ~902 |
 | Heating Up | 23.00% | ~610 |
-| Winter Is Coming | 20.00% | ~530 |
-| Winter Is Here | 18.00% | ~477 |
+| Winter Is Coming | 20.00% | ~531 |
+| Winter Is Here | 18.00% | ~478 |
 | Oh Deer! | 16.00% | ~424 |
 | All Year Round | 16.00% | ~424 |
 | A Party Now | 15.00% | ~398 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~53 |
 | Wabbit Season | 0.90% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,652 (Ranked 136)  
+Progressed: 2,653 (Ranked 136)  
 Completed: 6 (0.23%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -46,6 +46,7 @@ Completed: 6 (0.23%) (Ranked 136)
 | 2023-04-25 | 2,633 | 6 |
 | 2023-05-17 | 2,643 | 6 |
 | 2023-05-18 | 2,652 | 6 |
+| 2023-05-19 | 2,653 | 6 |
 ## Awards
 Max (Relaxing): 118  (Ranked 305)  
 Sum: 925 (Ranked 234)  

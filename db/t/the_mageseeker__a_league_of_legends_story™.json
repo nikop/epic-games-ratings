@@ -94,9 +94,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2027,
+  "EOS_Progressed": 2028,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1429,6 +1429,11 @@
       "Time": "2023-05-19T02:05:44.6367521+00:00",
       "NumProgressed": 2027,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-19T04:06:22.1740127+00:00",
+      "NumProgressed": 2028,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1488,7 +1493,7 @@
       "Name": "Elemental master",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -1504,7 +1509,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1926
+      "UsersEstimate": 1927
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1520,7 +1525,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1561
+      "UsersEstimate": 1562
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -1528,7 +1533,7 @@
       "Name": "I smell fear",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "STB_DEFEAT_KILLAN",
@@ -1544,7 +1549,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -1624,7 +1629,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1865
+      "UsersEstimate": 1866
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1640,7 +1645,7 @@
       "Name": "The end of the experiments",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "STB_MISSION12_COMPLETED",
@@ -1672,7 +1677,7 @@
       "Name": "Clarion Cove",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -1704,7 +1709,7 @@
       "Name": "Capelworth",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -1728,7 +1733,7 @@
       "Name": "The Great City of Demacia",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "STB_MISSION9_COMPLETED",
@@ -1744,7 +1749,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1217
     },
     {
       "ID": "STB_PET_HORSE",
@@ -1784,7 +1789,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -1840,7 +1845,7 @@
       "Name": "Call it \u0027redistribution of magic",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "STB_UNLOCK_ULTIMATE",
@@ -1856,14 +1861,14 @@
       "Name": "Petricite Burst",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2027,
+      "Progressed": 2028,
       "Completed": 1
     }
   ],
@@ -1871,8 +1876,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-17T18:57:40.491639+00:00",
-  "LastChanged_Achievements": "2023-05-19T03:05:25.4593909+00:00",
+  "LastChanged_Achievements": "2023-05-19T04:06:22.1740119+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:32.7766989+00:00",
-  "LastUpdate_Ratings": "2023-05-19T02:57:31.0906493+00:00",
-  "LastUpdate_Achievements": "2023-05-19T03:05:25.4594335+00:00"
+  "LastUpdate_Ratings": "2023-05-19T03:57:45.5138342+00:00",
+  "LastUpdate_Achievements": "2023-05-19T04:06:22.1741044+00:00"
 }

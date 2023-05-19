@@ -2322,9 +2322,9 @@
       "Count": 1029
     }
   ],
-  "EOS_Progressed": 29659,
+  "EOS_Progressed": 29708,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 3478,
+  "EOS_NewPlayers": 3508,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5077,6 +5077,11 @@
       "Time": "2023-05-19T03:05:20.4092784+00:00",
       "NumProgressed": 29659,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-19T04:06:16.4337994+00:00",
+      "NumProgressed": 29708,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 53,
@@ -5102,9 +5107,9 @@
       "ID": "beat_loyalty_missions",
       "SetID": "3ib2d0i",
       "Name": "Quality Time",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 237
+      "UsersEstimate": 267
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -5200,7 +5205,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "customize_a_vehicle",
@@ -5216,7 +5221,7 @@
       "Name": "Optimized",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "cutting_edge_materials",
@@ -5272,7 +5277,7 @@
       "Name": "Power Players",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "empire_tier_4",
@@ -5318,33 +5323,33 @@
       "ID": "fully_upgrade_a_weapon",
       "SetID": "3ib2d0i",
       "Name": "Kitted Out",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 178
+      "UsersEstimate": 208
     },
     {
       "ID": "get_betrayed",
       "SetID": "3ib2d0i",
       "Name": "Et tu?",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 208
+      "UsersEstimate": 238
     },
     {
       "ID": "get_fired",
       "SetID": "3ib2d0i",
       "Name": "Performance Review",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 297
+      "UsersEstimate": 594
     },
     {
       "ID": "hit_max_level",
       "SetID": "3ib2d0i",
       "Name": "Took It to The Limit",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 208
+      "UsersEstimate": 238
     },
     {
       "ID": "infinite_boost_refill",
@@ -5472,7 +5477,7 @@
       "Name": "To The Nines",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "whole_map_purple",
@@ -5488,15 +5493,15 @@
       "Name": "Producer Credit",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "bfhj_complete_mission_2_collectible",
       "SetID": "5gi7jl2",
       "Name": "Face Off",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "bfhj_complete_mission_3_collectible",
@@ -5511,22 +5516,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 29659,
+      "Progressed": 29708,
       "Completed": 19
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 1296,
-      "Completed": 466
+      "Progressed": 1345,
+      "Completed": 467
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-05-18T22:00:15.4733182+00:00",
-  "LastChanged_Achievements": "2023-05-19T03:05:20.4092781+00:00",
+  "LastChanged_Achievements": "2023-05-19T04:06:16.4337988+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:30.5487135+00:00",
-  "LastUpdate_Ratings": "2023-05-19T02:59:26.3475995+00:00",
-  "LastUpdate_Achievements": "2023-05-19T03:05:20.4093271+00:00"
+  "LastUpdate_Ratings": "2023-05-19T04:00:11.7647989+00:00",
+  "LastUpdate_Achievements": "2023-05-19T04:06:16.4338957+00:00"
 }

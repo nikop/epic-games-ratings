@@ -6,29 +6,29 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,534 |
-| That's a Grand Army | 8.00% | ~3,142 |
-| That is mine! | 8.00% | ~3,142 |
-| Victorious! | 8.00% | ~3,142 |
-| Brothers in Arms | 6.00% | ~2,356 |
-| That's a Grand Navy | 6.00% | ~2,356 |
-| Seriously?! | 6.00% | ~2,356 |
+| Until death do us apart | 9.00% | ~3,536 |
+| That's a Grand Army | 8.00% | ~3,143 |
+| That is mine! | 8.00% | ~3,143 |
+| Victorious! | 8.00% | ~3,143 |
+| Brothers in Arms | 6.00% | ~2,357 |
+| That's a Grand Navy | 6.00% | ~2,357 |
+| Seriously?! | 6.00% | ~2,357 |
 | For the Glory | 5.00% | ~1,964 |
-| Cold War | 4.00% | ~1,571 |
-| True Catholic | 4.00% | ~1,571 |
-| Defender of the Faith | 3.00% | ~1,178 |
-| It's all about the money | 3.00% | ~1,178 |
-| Respected | 3.00% | ~1,178 |
-| Truly Divine Ruler | 3.00% | ~1,178 |
-| Blockader | 2.00% | ~785 |
-| Combined Arms | 2.00% | ~785 |
-| Double the Love | 2.00% | ~785 |
-| Gentle Persuasion | 2.00% | ~785 |
-| It's all about luck | 2.00% | ~785 |
-| Queen of Conquest | 2.00% | ~785 |
-| Royal Authority | 2.00% | ~785 |
-| The Princess is in this Castle | 2.00% | ~785 |
-| Total Control | 2.00% | ~785 |
+| Cold War | 4.00% | ~1,572 |
+| True Catholic | 4.00% | ~1,572 |
+| Defender of the Faith | 3.00% | ~1,179 |
+| It's all about the money | 3.00% | ~1,179 |
+| Respected | 3.00% | ~1,179 |
+| Truly Divine Ruler | 3.00% | ~1,179 |
+| Blockader | 2.00% | ~786 |
+| Combined Arms | 2.00% | ~786 |
+| Double the Love | 2.00% | ~786 |
+| Gentle Persuasion | 2.00% | ~786 |
+| It's all about luck | 2.00% | ~786 |
+| Queen of Conquest | 2.00% | ~786 |
+| Royal Authority | 2.00% | ~786 |
+| The Princess is in this Castle | 2.00% | ~786 |
+| Total Control | 2.00% | ~786 |
 | Agressive Expander | 1.00% | ~393 |
 | All That's Thine Shall Be Mine | 1.00% | ~393 |
 | Azur semé de lis or | 1.00% | ~393 |
@@ -37,7 +37,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Factionalism | 1.00% | ~393 |
 | A Golden Empire | 1.00% | ~393 |
 | My armies are invincible! | 1.00% | ~393 |
-| The Five Colonies | 0.90% | ~353 |
+| The Five Colonies | 0.90% | ~354 |
 | Isn't this the way to India? | 0.80% | ~314 |
 | Market Control | 0.80% | ~314 |
 | This navy can take it all | 0.80% | ~314 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,271 (Ranked 80)  
+Progressed: 39,288 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -390,7 +390,7 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-16 | 38,036 | 0 |
 | 2023-05-17 | 38,614 | 0 |
 | 2023-05-18 | 39,222 | 0 |
-| 2023-05-19 | 39,271 | 0 |
+| 2023-05-19 | 39,288 | 0 |
 ## Awards
 Max (Educational): 5,232  (Ranked 60)  
 Sum: 43,381 (Ranked 27)  

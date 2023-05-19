@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2655,
+  "EOS_Progressed": 2656,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
@@ -919,6 +919,11 @@
       "Time": "2023-05-19T02:06:06.5887966+00:00",
       "NumProgressed": 2655,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-19T04:06:48.8574397+00:00",
+      "NumProgressed": 2656,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1066,7 +1071,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2124
+      "UsersEstimate": 2125
     },
     {
       "ID": "campaign20",
@@ -1082,7 +1087,7 @@
       "Name": "Economics 101",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 1752
+      "UsersEstimate": 1753
     },
     {
       "ID": "campaign4",
@@ -1090,7 +1095,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "campaign5",
@@ -1114,7 +1119,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "campaign8",
@@ -1146,7 +1151,7 @@
       "Name": "Full Employment",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "scenario3",
@@ -1193,7 +1198,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2655,
+      "Progressed": 2656,
       "Completed": 9
     }
   ],
@@ -1201,8 +1206,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-19T03:05:47.5309311+00:00",
+  "LastChanged_Achievements": "2023-05-19T04:06:48.8574387+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:07.0051638+00:00",
-  "LastUpdate_Ratings": "2023-05-19T03:00:05.4509777+00:00",
-  "LastUpdate_Achievements": "2023-05-19T03:05:47.5309539+00:00"
+  "LastUpdate_Ratings": "2023-05-19T04:00:57.2106623+00:00",
+  "LastUpdate_Achievements": "2023-05-19T04:06:48.8574901+00:00"
 }

@@ -5,36 +5,44 @@ Rating: 4.41 (Ranked 655)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Resourceful | 0.70% | ~5 |
 | As Quiet as a Mouse | 0.70% | ~5 |
+| The Long Game | 0.50% | ~4 |
 | Confirming Suspicions | 0.50% | ~4 |
 | Taking it back | 0.50% | ~4 |
 | Strategist | 0.40% | ~3 |
 | Meeting Resistance | 0.40% | ~3 |
-| The Long Game | 0.40% | ~3 |
-| Resourceful | 0.40% | ~3 |
+| Gunslinger | 0.40% | ~3 |
+| Skirmisher | 0.40% | ~3 |
+| Precision Is Key | 0.40% | ~3 |
+| Lord of War | 0.40% | ~3 |
 | It's Starting to Crack | 0.40% | ~3 |
+| No Stone Unturned | 0.30% | ~2 |
 | Enemy at the Gates | 0.30% | ~2 |
-| Gunslinger | 0.30% | ~2 |
-| Skirmisher | 0.30% | ~2 |
-| Precision Is Key | 0.30% | ~2 |
-| Lord of War | 0.30% | ~2 |
 | The Kraken Wakes | 0.30% | ~2 |
+| Snake in the Grass | 0.30% | ~2 |
 | Change the Channel | 0.30% | ~2 |
 | Don't hold your breath | 0.30% | ~2 |
 | Sink or Swim | 0.30% | ~2 |
 | Climbing the Ladder | 0.10% | ~1 |
 | Liberté | 0.10% | ~1 |
-| No Stone Unturned | 0.10% | ~1 |
 | Opposing Force | 0.10% | ~1 |
 | Fields of Glory | 0.10% | ~1 |
 | Organ Grinder | 0.10% | ~1 |
+| Sharpshooter | 0.10% | ~1 |
 | Rigged to Blow | 0.10% | ~1 |
-| Snake in the Grass | 0.10% | ~1 |
+| Explosive Efficiency | 0.10% | ~1 |
+| Der Geist | 0.10% | ~1 |
+| Close Quarters | 0.10% | ~1 |
 | Burn after reading | 0.10% | ~1 |
+| Locomotion Commotion | 0.10% | ~1 |
+| Up close and personal | 0.10% | ~1 |
 | Brains of the Operation | 0.10% | ~1 |
 | Target America | 0.10% | ~1 |
 | The Kraken Sleeps | 0.10% | ~1 |
 | Führerious Repetition | 0.10% | ~1 |
+| Reich To The Point | 0.10% | ~1 |
+| Covert Elimination | 0.10% | ~1 |
 | Last Resort | 0.10% | ~1 |
 | Siegebreaker | 0.10% | ~1 |
 | Ghost of Falaise | 0.10% | ~1 |
@@ -45,28 +53,20 @@ Rating: 4.41 (Ranked 655)
 | Master of Secondaries | 0.00% | ~0 |
 | Master of Rifles | 0.00% | ~0 |
 | Master-at-arms | 0.00% | ~0 |
-| Sharpshooter | 0.00% | ~0 |
 | Set Europe Ablaze | 0.00% | ~0 |
 | Out of Scope | 0.00% | ~0 |
 | My Little Friend | 0.00% | ~0 |
-| Explosive Efficiency | 0.00% | ~0 |
 | Die Nussknacker Sweet! | 0.00% | ~0 |
-| Der Geist | 0.00% | ~0 |
-| Close Quarters | 0.00% | ~0 |
 | From Paris with Love | 0.00% | ~0 |
 | Souvenir hunter | 0.00% | ~0 |
 | Eagle Eyed | 0.00% | ~0 |
 | Tinkerer | 0.00% | ~0 |
 | It'll Buff Right Out | 0.00% | ~0 |
-| Locomotion Commotion | 0.00% | ~0 |
-| Up close and personal | 0.00% | ~0 |
 | Road Rage | 0.00% | ~0 |
 | Sight Beyond Sights | 0.00% | ~0 |
 | Shoot for the Moon | 0.00% | ~0 |
 | Can't Outrun A Bullet | 0.00% | ~0 |
-| Reich To The Point | 0.00% | ~0 |
 | From Führer Away | 0.00% | ~0 |
-| Covert Elimination | 0.00% | ~0 |
 | Alpha | 0.00% | ~0 |
 | Herr Today, Gone Tomorrow | 0.00% | ~0 |
 | Operation Foxley | 0.00% | ~0 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 655)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 749 (Ranked 173)  
+Progressed: 751 (Ranked 173)  
 Completed: 2 (0.27%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 2 (0.27%) (Ranked 130)
 | 2023-05-16 | 723 | 2 |
 | 2023-05-17 | 728 | 2 |
 | 2023-05-18 | 743 | 2 |
-| 2023-05-19 | 749 | 2 |
+| 2023-05-19 | 751 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

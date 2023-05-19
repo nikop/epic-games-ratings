@@ -6,20 +6,20 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~302,535 |
-| Jeef Skeejj | 44.00% | ~201,690 |
-| Careful planning | 39.00% | ~178,771 |
-| Second Coming | 33.00% | ~151,268 |
-| Jeef Skagg | 30.00% | ~137,516 |
-| Mother | 25.00% | ~114,597 |
-| In space, no one can hear you scream | 23.00% | ~105,429 |
-| Chapter I: Echoes | 22.00% | ~100,845 |
-| Excelsior Rule | 22.00% | ~100,845 |
-| Things persisted in not being what they seemed | 20.00% | ~91,677 |
-| Knightmare Frames | 15.00% | ~68,758 |
-| May His passing cleanse the world | 15.00% | ~68,758 |
-| Chapter II: Fallible Flesh | 15.00% | ~68,758 |
-| Pope Zenon | 15.00% | ~68,758 |
+| The Shutdown | 66.00% | ~302,538 |
+| Jeef Skeejj | 44.00% | ~201,692 |
+| Careful planning | 39.00% | ~178,772 |
+| Second Coming | 33.00% | ~151,269 |
+| Jeef Skagg | 30.00% | ~137,517 |
+| Mother | 25.00% | ~114,598 |
+| In space, no one can hear you scream | 23.00% | ~105,430 |
+| Chapter I: Echoes | 22.00% | ~100,846 |
+| Excelsior Rule | 22.00% | ~100,846 |
+| Things persisted in not being what they seemed | 20.00% | ~91,678 |
+| Knightmare Frames | 15.00% | ~68,759 |
+| May His passing cleanse the world | 15.00% | ~68,759 |
+| Chapter II: Fallible Flesh | 15.00% | ~68,759 |
+| Pope Zenon | 15.00% | ~68,759 |
 | Tetsuo | 11.00% | ~50,423 |
 | Plan for the worst | 11.00% | ~50,423 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~45,839 |
@@ -45,10 +45,10 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Smuggler | 6.00% | ~27,503 |
 | The Crazy Repairman | 6.00% | ~27,503 |
 | The Weasel | 6.00% | ~27,503 |
-| Kill the Doctor | 5.00% | ~22,919 |
-| Forsaken | 5.00% | ~22,919 |
-| Mercy | 5.00% | ~22,919 |
-| Jericho Rule | 5.00% | ~22,919 |
+| Kill the Doctor | 5.00% | ~22,920 |
+| Forsaken | 5.00% | ~22,920 |
+| Mercy | 5.00% | ~22,920 |
+| Jericho Rule | 5.00% | ~22,920 |
 | Geno Rule | 3.00% | ~13,752 |
 | Hammer Rule | 3.00% | ~13,752 |
 | Survivor | 2.00% | ~9,168 |
@@ -72,7 +72,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Kaos Supremacy | 0.10% | ~458 |
 | Excelsior Supremacy | 0.10% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458,387 (Ranked 28)  
+Progressed: 458,391 (Ranked 28)  
 Completed: 14 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 14 (0.00%) (Ranked 200)
 | 2023-05-16 | 458,171 | 14 |
 | 2023-05-17 | 458,267 | 14 |
 | 2023-05-18 | 458,375 | 14 |
-| 2023-05-19 | 458,387 | 14 |
+| 2023-05-19 | 458,391 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 209 (Ranked 349)  

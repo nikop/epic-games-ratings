@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -465,7 +465,7 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12512,
+  "EOS_Progressed": 12513,
   "EOS_Completed": 94,
   "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 1,
@@ -2125,6 +2125,11 @@
       "Time": "2023-05-19T00:06:39.976902+00:00",
       "NumProgressed": 12512,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-05-19T04:05:48.6637441+00:00",
+      "NumProgressed": 12513,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 41,
@@ -2176,7 +2181,7 @@
       "Name": "Friends of sorts",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4379
+      "UsersEstimate": 4380
     },
     {
       "ID": "tpote_achievement_15",
@@ -2224,7 +2229,7 @@
       "Name": "Yet another secret",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 4379
+      "UsersEstimate": 4380
     },
     {
       "ID": "tpote_achievement_20",
@@ -2248,7 +2253,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2502
+      "UsersEstimate": 2503
     },
     {
       "ID": "tpote_achievement_23",
@@ -2272,7 +2277,7 @@
       "Name": "Revenge",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "tpote_achievement_26",
@@ -2360,7 +2365,7 @@
       "Name": "Self-defense",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "tpote_achievement_36",
@@ -2384,7 +2389,7 @@
       "Name": "Countess Aliena",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "tpote_achievement_39",
@@ -2456,22 +2461,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4504
+      "UsersEstimate": 4505
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12512,
+      "Progressed": 12513,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-19T03:05:13.6130224+00:00",
+  "LastChanged_Achievements": "2023-05-19T04:05:48.6637434+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:51.4704075+00:00",
-  "LastUpdate_Ratings": "2023-05-19T02:59:49.1280104+00:00",
-  "LastUpdate_Achievements": "2023-05-19T03:05:13.6130576+00:00"
+  "LastUpdate_Ratings": "2023-05-19T04:00:36.3174235+00:00",
+  "LastUpdate_Achievements": "2023-05-19T04:05:48.663814+00:00"
 }

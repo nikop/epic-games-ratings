@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -310,9 +310,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 6220,
+  "EOS_Progressed": 6223,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -1585,6 +1585,11 @@
       "Time": "2023-05-19T03:05:19.9345643+00:00",
       "NumProgressed": 6220,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-19T04:06:15.9189757+00:00",
+      "NumProgressed": 6223,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 34,
@@ -1700,7 +1705,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2426
+      "UsersEstimate": 2427
     },
     {
       "ID": "ACH15",
@@ -1724,7 +1729,7 @@
       "Name": "Gun for Hire",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "ACH18",
@@ -1756,7 +1761,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2675
+      "UsersEstimate": 2676
     },
     {
       "ID": "ACH22",
@@ -1828,7 +1833,7 @@
       "Name": "Mischief Managed",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "ACH31",
@@ -1867,7 +1872,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6220,
+      "Progressed": 6223,
       "Completed": 22
     }
   ],
@@ -1875,8 +1880,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-17T13:04:15.6274807+00:00",
-  "LastChanged_Achievements": "2023-05-19T03:05:19.9345639+00:00",
+  "LastChanged_Achievements": "2023-05-19T04:06:15.918975+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:12.215908+00:00",
-  "LastUpdate_Ratings": "2023-05-19T02:58:09.6718169+00:00",
-  "LastUpdate_Achievements": "2023-05-19T03:05:19.934589+00:00"
+  "LastUpdate_Ratings": "2023-05-19T03:58:32.2201563+00:00",
+  "LastUpdate_Achievements": "2023-05-19T04:06:15.9190142+00:00"
 }

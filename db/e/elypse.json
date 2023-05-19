@@ -2,7 +2,7 @@
   "ID": "ac1e1228d81c433ba5b25c6c09318e0e",
   "Name": "Elypse",
   "ProductSlug": "elypse-b177a8",
-  "Ranking_EOS_Progress": 323,
+  "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 74,
@@ -141,9 +141,9 @@
       "ID": "Ach_BuyAllItemAndUpgrade",
       "SetID": "4o5gjp0",
       "Name": "Compulsive hoarder",
-      "Percentage": 0,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Ach_BuyHut",
@@ -301,9 +301,9 @@
       "ID": "Ach_OptionalDialogRead",
       "SetID": "4o5gjp0",
       "Name": "Bookworm",
-      "Percentage": 18,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Ach_SkullGoal",
@@ -317,9 +317,9 @@
       "ID": "Ach_SoulPotBeggarHouse",
       "SetID": "4o5gjp0",
       "Name": "Payback",
-      "Percentage": 18,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Ach_SoulPots",
@@ -364,8 +364,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-05-19T03:05:17.9518655+00:00",
+  "LastChanged_Achievements": "2023-05-19T04:06:13.5361563+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:52.2027329+00:00",
-  "LastUpdate_Ratings": "2023-05-19T02:57:48.3772936+00:00",
-  "LastUpdate_Achievements": "2023-05-19T03:05:17.9518854+00:00"
+  "LastUpdate_Ratings": "2023-05-19T03:58:07.344633+00:00",
+  "LastUpdate_Achievements": "2023-05-19T04:06:13.5361911+00:00"
 }

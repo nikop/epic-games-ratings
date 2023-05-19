@@ -6,9 +6,10 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 2.00% | ~593 |
-| Optimized | 2.00% | ~593 |
-| To The Nines | 2.00% | ~593 |
+| First F#@!ing Day | 2.00% | ~594 |
+| Optimized | 2.00% | ~594 |
+| Performance Review | 2.00% | ~594 |
+| To The Nines | 2.00% | ~594 |
 | Finders Keepers | 1.00% | ~297 |
 | The Side Job | 1.00% | ~297 |
 | Wet Work | 1.00% | ~297 |
@@ -16,19 +17,19 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Young Empire | 1.00% | ~297 |
 | Landlord | 1.00% | ~297 |
 | Work Ethic | 1.00% | ~297 |
-| Performance Review | 1.00% | ~297 |
 | Wrecking Ball | 1.00% | ~297 |
 | Making a Name | 1.00% | ~297 |
 | Food for Thought | 1.00% | ~297 |
+| Quality Time | 0.90% | ~267 |
 | Picking Fights | 0.90% | ~267 |
-| Quality Time | 0.80% | ~237 |
-| Power Players | 0.80% | ~237 |
+| Power Players | 0.80% | ~238 |
+| Et tu? | 0.80% | ~238 |
+| Took It to The Limit | 0.80% | ~238 |
 | Showdown | 0.70% | ~208 |
-| Et tu? | 0.70% | ~208 |
-| Took It to The Limit | 0.70% | ~208 |
+| Kitted Out | 0.70% | ~208 |
 | Masters of Santo Ileso | 0.60% | ~178 |
-| Kitted Out | 0.60% | ~178 |
-| Producer Credit | 0.50% | ~6 |
+| Producer Credit | 0.50% | ~7 |
+| Face Off | 0.50% | ~7 |
 | Hijacked | 0.40% | ~119 |
 | We could go home, or… | 0.40% | ~119 |
 | Challenge Accepted | 0.40% | ~119 |
@@ -36,7 +37,6 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Golden Age | 0.40% | ~119 |
 | The Mechanic | 0.40% | ~119 |
 | Closet Space | 0.40% | ~119 |
-| Face Off | 0.40% | ~5 |
 | Hazardous Heist | 0.40% | ~5 |
 | Untouchable | 0.30% | ~89 |
 | Shopping Spree | 0.20% | ~59 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Fiesta Time | 0.10% | ~30 |
 | All Mine | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,659 (Ranked 84)  
+Progressed: 29,708 (Ranked 84)  
 Completed: 19 (0.06%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 19 (0.06%) (Ranked 169)
 | 2023-05-16 | 28,544 | 18 |
 | 2023-05-17 | 28,880 | 18 |
 | 2023-05-18 | 29,461 | 19 |
-| 2023-05-19 | 29,659 | 19 |
+| 2023-05-19 | 29,708 | 19 |
 ## Awards
 Max (Extremely Fun): 1,029  (Ranked 133)  
 Sum: 8,334 (Ranked 88)  

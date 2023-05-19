@@ -6,8 +6,8 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~496 |
-| Project Arena | 3.00% | ~372 |
+| Diligence as a goal | 4.00% | ~497 |
+| Project Arena | 3.00% | ~373 |
 | Bloody Sport | 1.00% | ~124 |
 | The best strikes are the ones we avoid | 0.90% | ~112 |
 | The Hateful Pole Fighter | 0.80% | ~5,625 |
@@ -29,7 +29,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Life is your teacher | 0.60% | ~4,219 |
 | Lightning Hands | 0.60% | ~4,219 |
 | Kung-Fu Tussle | 0.60% | ~4,219 |
-| Deadly Venom | 0.60% | ~74 |
+| Deadly Venom | 0.60% | ~75 |
 | Dance of the Praying Mantis | 0.50% | ~3,516 |
 | Qi Gong: Mind | 0.50% | ~3,516 |
 | Old Child | 0.50% | ~3,516 |
@@ -57,8 +57,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~703 |
 | Warriors from the Mountain | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703,103 (Ranked 15)  
-Completed: 12,731 (1.81%) (Ranked 63)  
+Progressed: 703,119 (Ranked 15)  
+Completed: 12,731 (1.81%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -86,7 +86,7 @@ Completed: 12,731 (1.81%) (Ranked 63)
 | 2023-05-16 | 702,986 | 12,728 |
 | 2023-05-17 | 703,009 | 12,730 |
 | 2023-05-18 | 703,070 | 12,731 |
-| 2023-05-19 | 703,103 | 12,731 |
+| 2023-05-19 | 703,119 | 12,731 |
 ## Awards
 Max (Great Boss Battles): 6,074  (Ranked 53)  
 Sum: 10,327 (Ranked 77)  
