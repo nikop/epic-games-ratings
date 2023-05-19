@@ -7,8 +7,8 @@
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 21.88% |
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.55% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 8 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 18.18% |
-| 9 | [Island Cities](games/i/island_cities.md) | 16.87% |
+| 8 | [Island Cities](games/i/island_cities.md) | 16.67% |
+| 8 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 16.67% |
 | 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.64% |
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
 | 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.03% |
@@ -23,16 +23,16 @@
 | 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.70% |
 | 22 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 7.69% |
 | 23 | [Scorn](games/s/scorn.md) | 7.02% |
-| 24 | [Ravenlok](games/r/ravenlok.md) | 6.65% |
+| 24 | [Ravenlok](games/r/ravenlok.md) | 6.62% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
-| 26 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.37% |
+| 26 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.33% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
 | 28 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.13% |
 | 29 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.00% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.98% |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 32 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.49% |
-| 33 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.16% |
+| 33 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.14% |
 | 34 | [Doodle God](games/d/doodle_god.md) | 3.92% |
 | 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.88% |
 | 36 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
@@ -58,28 +58,28 @@
 | 56 | [JARS](games/j/jars.md) | 2.56% |
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [Iron Danger](games/i/iron_danger.md) | 2.38% |
-| 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.20% |
+| 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.19% |
 | 60 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.10% |
 | 61 | [A Musical Story](games/a/a_musical_story.md) | 1.92% |
-| 62 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 1.83% |
-| 63 | [Sifu](games/s/sifu.md) | 1.81% |
-| 64 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
+| 62 | [Sifu](games/s/sifu.md) | 1.81% |
+| 63 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
+| 64 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 1.77% |
 | 65 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.68% |
 | 66 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
 | 67 | [Night Book](games/n/night_book.md) | 1.66% |
 | 68 | [Somerville](games/s/somerville.md) | 1.61% |
-| 69 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.56% |
-| 70 | [Frogun](games/f/frogun.md) | 1.55% |
+| 69 | [Frogun](games/f/frogun.md) | 1.55% |
+| 70 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.54% |
 | 71 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.48% |
 | 73 | [Bloodshore](games/b/bloodshore.md) | 1.39% |
 | 73 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.39% |
 | 75 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
 | 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.29% |
-| 77 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.28% |
 | 77 | [Trifox](games/t/trifox.md) | 1.28% |
-| 79 | [Chorus](games/c/chorus.md) | 1.27% |
-| 79 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.27% |
+| 78 | [Chorus](games/c/chorus.md) | 1.27% |
+| 78 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.27% |
+| 78 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.27% |
 | 81 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.21% |
 | 82 | [Late Shift](games/l/late_shift.md) | 1.17% |
 | 83 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.15% |
@@ -406,4 +406,4 @@
 | 200 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 200 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 200 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,634 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,635 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
