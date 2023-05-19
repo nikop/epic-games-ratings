@@ -13,6 +13,7 @@ Number of Ratings: 37  (23.09.2022)
 | I like to build stuff... I | 7.00% | ~290 |
 | Builder I | 6.00% | ~249 |
 | An honorable Governor I | 6.00% | ~249 |
+| Full-time job I | 6.00% | ~249 |
 | Researcher | 6.00% | ~249 |
 | Tax-man II | 6.00% | ~249 |
 | A time consuming game I | 6.00% | ~249 |
@@ -20,7 +21,6 @@ Number of Ratings: 37  (23.09.2022)
 | Bread for the people I | 5.00% | ~207 |
 | I like to build stuff... II | 5.00% | ~207 |
 | Completionist I | 5.00% | ~207 |
-| Full-time job I | 5.00% | ~207 |
 | Full-time job II | 5.00% | ~207 |
 | A time consuming game II | 5.00% | ~207 |
 | Knee deep in snow | 5.00% | ~207 |

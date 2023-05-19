@@ -6,19 +6,19 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 35.00% | ~17,575 |
-| Landlord | 30.00% | ~15,064 |
-| Lawmaker | 21.00% | ~10,545 |
+| Lawbringer | 35.00% | ~17,576 |
+| Landlord | 30.00% | ~15,065 |
+| Lawmaker | 21.00% | ~10,546 |
 | Bannerlord | 20.00% | ~10,043 |
 | Horde breaker | 20.00% | ~10,043 |
 | Trained | 20.00% | ~10,043 |
-| The king is pleased | 16.00% | ~8,034 |
-| King Solomon | 15.00% | ~7,532 |
+| The king is pleased | 16.00% | ~8,035 |
+| King Solomon | 15.00% | ~7,533 |
 | I can do it | 14.00% | ~7,030 |
 | Apple of my eye | 13.00% | ~6,528 |
 | God of the Arena | 12.00% | ~6,026 |
-| Against all odds | 9.00% | ~4,519 |
-| Swordbearer | 9.00% | ~4,519 |
+| Against all odds | 9.00% | ~4,520 |
+| Swordbearer | 9.00% | ~4,520 |
 | Duelist | 8.00% | ~4,017 |
 | Dynasty | 8.00% | ~4,017 |
 | I spit on your grave | 8.00% | ~4,017 |
@@ -30,8 +30,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | Crush your enemies | 4.00% | ~2,009 |
 | My way | 4.00% | ~2,009 |
 | Veni vidi vici | 4.00% | ~2,009 |
-| Crowdfunded | 3.00% | ~1,506 |
-| Freedom! | 3.00% | ~1,506 |
+| Crowdfunded | 3.00% | ~1,507 |
+| Freedom! | 3.00% | ~1,507 |
 | Entrepreneur | 2.00% | ~1,004 |
 | Long live the Empire! | 2.00% | ~1,004 |
 | Real Estate | 2.00% | ~1,004 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,215 (Ranked 74)  
+Progressed: 50,217 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-16 | 50,039 | 0 |
 | 2023-05-17 | 50,127 | 0 |
 | 2023-05-18 | 50,198 | 0 |
-| 2023-05-19 | 50,215 | 0 |
+| 2023-05-19 | 50,217 | 0 |
 ## Awards
 Max (Character Customization): 6,545  (Ranked 49)  
 Sum: 13,067 (Ranked 68)  

@@ -6,22 +6,22 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~500 |
-| Project Arena | 3.00% | ~375 |
+| Diligence as a goal | 4.00% | ~501 |
+| Project Arena | 3.00% | ~376 |
 | Bloody Sport | 1.00% | ~125 |
 | Qi Gong: Breath | 0.90% | ~6,329 |
-| The best strikes are the ones we avoid | 0.90% | ~112 |
+| The best strikes are the ones we avoid | 0.90% | ~113 |
 | The Hateful Pole Fighter | 0.80% | ~5,626 |
 | A Lady's Blood in the Snow | 0.80% | ~5,626 |
 | State of constant learning | 0.80% | ~5,626 |
 | Path of the Prospect | 0.80% | ~5,626 |
 | Rumble in the Hangar | 0.80% | ~5,626 |
-| The Assault | 0.70% | ~4,922 |
-| Lady Wing Chun | 0.70% | ~4,922 |
-| Furious Fists | 0.70% | ~4,922 |
-| Kill Nil | 0.70% | ~4,922 |
-| Qi Gong: Essence | 0.70% | ~4,922 |
-| Take damage to save time | 0.70% | ~4,922 |
+| The Assault | 0.70% | ~4,923 |
+| Lady Wing Chun | 0.70% | ~4,923 |
+| Furious Fists | 0.70% | ~4,923 |
+| Kill Nil | 0.70% | ~4,923 |
+| Qi Gong: Essence | 0.70% | ~4,923 |
+| Take damage to save time | 0.70% | ~4,923 |
 | The Old Grandmaster | 0.60% | ~4,219 |
 | Scareless | 0.60% | ~4,219 |
 | Stuntmaster | 0.60% | ~4,219 |
@@ -33,19 +33,19 @@ Number of Ratings: 9,492  (23.09.2022)
 | Dance of the Praying Mantis | 0.50% | ~3,516 |
 | Qi Gong: Mind | 0.50% | ~3,516 |
 | Old Child | 0.50% | ~3,516 |
-| A Touch of Acumen | 0.50% | ~62 |
+| A Touch of Acumen | 0.50% | ~63 |
 | Muk Yan Master | 0.40% | ~2,813 |
 | Tiger on Fire | 0.40% | ~2,813 |
 | Source of Flying Daggers | 0.40% | ~2,813 |
+| Iron Money | 0.40% | ~2,813 |
 | Detective Story | 0.40% | ~2,813 |
 | I know Kung-Fu | 0.40% | ~2,813 |
-| Iron Money | 0.30% | ~2,110 |
 | Legendary Talismans of Wuxing | 0.30% | ~2,110 |
 | Prodigal Child | 0.30% | ~2,110 |
 | The 36th Chamber of Kung-Fu | 0.30% | ~2,110 |
 | Sword Stained With Blood | 0.30% | ~2,110 |
-| Martial Hub | 0.30% | ~37 |
-| Secure, Protect, Leave | 0.30% | ~37 |
+| Martial Hub | 0.30% | ~38 |
+| Secure, Protect, Leave | 0.30% | ~38 |
 | Drunken Fighter | 0.20% | ~1,406 |
 | Martial Artist | 0.20% | ~1,406 |
 | Knowledge Greed | 0.20% | ~1,406 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~703 |
 | Warriors from the Mountain | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703,190 (Ranked 15)  
+Progressed: 703,221 (Ranked 15)  
 Completed: 12,731 (1.81%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 12,731 (1.81%) (Ranked 62)
 | 2023-05-16 | 702,986 | 12,728 |
 | 2023-05-17 | 703,009 | 12,730 |
 | 2023-05-18 | 703,070 | 12,731 |
-| 2023-05-19 | 703,190 | 12,731 |
+| 2023-05-19 | 703,221 | 12,731 |
 ## Awards
 Max (Great Boss Battles): 6,074  (Ranked 53)  
 Sum: 10,327 (Ranked 77)  

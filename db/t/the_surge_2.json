@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -377,9 +377,9 @@
       "ID": "ACHV_02",
       "SetID": "8p5mlmc",
       "Name": "Jailbreak",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1028
     },
     {
       "ID": "ACHV_03",
@@ -569,9 +569,9 @@
       "ID": "ACHV_26",
       "SetID": "8p5mlmc",
       "Name": "Rigged And Ready",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 1246
+      "UsersEstimate": 1262
     },
     {
       "ID": "ACHV_27",
@@ -834,8 +834,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-05-19T07:06:49.0167588+00:00",
+  "LastChanged_Achievements": "2023-05-19T08:05:42.1290502+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:23.3956221+00:00",
-  "LastUpdate_Ratings": "2023-05-19T07:01:41.360285+00:00",
-  "LastUpdate_Achievements": "2023-05-19T07:06:49.0168147+00:00"
+  "LastUpdate_Ratings": "2023-05-19T07:59:54.0050241+00:00",
+  "LastUpdate_Achievements": "2023-05-19T08:05:42.1291026+00:00"
 }

@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| First Blood | 75.00% | ~3 |
 | Killing Spree | 50.00% | ~2 |
-| First Blood | 50.00% | ~2 |
 | 5Gb HDD | 25.00% | ~1 |
 | Merchant Prince I | 25.00% | ~1 |
 | Providence | 0.00% | ~0 |

@@ -2328,9 +2328,9 @@
       "Count": 1029
     }
   ],
-  "EOS_Progressed": 29797,
+  "EOS_Progressed": 29832,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 3556,
+  "EOS_NewPlayers": 3576,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5103,6 +5103,11 @@
       "Time": "2023-05-19T07:06:12.5951309+00:00",
       "NumProgressed": 29797,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-19T08:05:10.4869643+00:00",
+      "NumProgressed": 29832,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 53,
@@ -5176,9 +5181,9 @@
       "ID": "complete_all_of_wanted",
       "SetID": "3ib2d0i",
       "Name": "The Professional",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 89
     },
     {
       "ID": "complete_all_side_hustles",
@@ -5202,7 +5207,7 @@
       "Name": "Showdown",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "complete_first_side_hustle",
@@ -5210,7 +5215,7 @@
       "Name": "The Side Job",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -5218,7 +5223,7 @@
       "Name": "Wet Work",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "complete_mission_1",
@@ -5226,15 +5231,15 @@
       "Name": "First F#@!ing Day",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 894
+      "UsersEstimate": 895
     },
     {
       "ID": "customize_a_vehicle",
       "SetID": "3ib2d0i",
       "Name": "Tune Up",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 298
+      "UsersEstimate": 597
     },
     {
       "ID": "customize_a_weapon",
@@ -5242,7 +5247,7 @@
       "Name": "Optimized",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "cutting_edge_materials",
@@ -5304,9 +5309,9 @@
       "ID": "empire_tier_4",
       "SetID": "3ib2d0i",
       "Name": "Masters of Santo Ileso",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 179
+      "UsersEstimate": 209
     },
     {
       "ID": "empire_tier_5",
@@ -5354,7 +5359,7 @@
       "Name": "Et tu?",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "get_fired",
@@ -5362,7 +5367,7 @@
       "Name": "Performance Review",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "hit_max_level",
@@ -5370,7 +5375,7 @@
       "Name": "Took It to The Limit",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "infinite_boost_refill",
@@ -5410,7 +5415,7 @@
       "Name": "Making a Name",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "one_third_purple",
@@ -5498,7 +5503,7 @@
       "Name": "To The Nines",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "whole_map_purple",
@@ -5537,22 +5542,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 29797,
+      "Progressed": 29832,
       "Completed": 19
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 1434,
-      "Completed": 473
+      "Progressed": 1469,
+      "Completed": 474
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-05-19T04:59:33.0188311+00:00",
-  "LastChanged_Achievements": "2023-05-19T07:06:12.5951305+00:00",
+  "LastChanged_Achievements": "2023-05-19T08:05:10.4869633+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:30.5487135+00:00",
-  "LastUpdate_Ratings": "2023-05-19T07:00:27.2016236+00:00",
-  "LastUpdate_Achievements": "2023-05-19T07:06:12.5951947+00:00"
+  "LastUpdate_Ratings": "2023-05-19T07:59:09.1221873+00:00",
+  "LastUpdate_Achievements": "2023-05-19T08:05:10.4870208+00:00"
 }

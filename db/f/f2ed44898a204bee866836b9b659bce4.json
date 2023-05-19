@@ -25,9 +25,106 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "TotalAchievements": 12,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "1",
+      "SetID": "9np1c51",
+      "Name": "The answer was in the back of your mind.",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "10",
+      "SetID": "9np1c51",
+      "Name": "Who am I?",
+      "Percentage": 0,
+      "XP": 95,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "11",
+      "SetID": "9np1c51",
+      "Name": "Your demons overcame you.",
+      "Percentage": 0,
+      "XP": 95,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "12",
+      "SetID": "9np1c51",
+      "Name": "I still don\u2019t know myself well enough.",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "2",
+      "SetID": "9np1c51",
+      "Name": "You were swallowed up by your amnesia.",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "3",
+      "SetID": "9np1c51",
+      "Name": "Does the end justify the means?",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "4",
+      "SetID": "9np1c51",
+      "Name": "In the end, you lost your mind.",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "5",
+      "SetID": "9np1c51",
+      "Name": "The price to pay was too high.",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "6",
+      "SetID": "9np1c51",
+      "Name": "Your humanity surpassed your madness.",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "7",
+      "SetID": "9np1c51",
+      "Name": "Some people just want to watch the world burn.",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "8",
+      "SetID": "9np1c51",
+      "Name": "Ran away and didn\u2019t look back.",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "9",
+      "SetID": "9np1c51",
+      "Name": "You gave yourself over to \u0022it.\u0022",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "9np1c51",
@@ -37,8 +134,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-12T22:01:31.6521412+00:00",
-  "LastChanged_Achievements": "2023-05-19T07:02:26.7030715+00:00",
+  "LastChanged_Achievements": "2023-05-19T08:00:27.0360435+00:00",
   "LastUpdate_AppInfo": "2023-05-12T21:57:08.8419776+00:00",
-  "LastUpdate_Ratings": "2023-05-19T06:56:53.2279577+00:00",
-  "LastUpdate_Achievements": "2023-05-19T07:02:26.7030758+00:00"
+  "LastUpdate_Ratings": "2023-05-19T07:57:03.629955+00:00",
+  "LastUpdate_Achievements": "2023-05-19T08:00:27.0360527+00:00"
 }

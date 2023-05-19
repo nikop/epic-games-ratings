@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 467)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,938 (Ranked 146)  
+Progressed: 1,941 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-16 | 1,908 | 0 |
 | 2023-05-17 | 1,911 | 0 |
 | 2023-05-18 | 1,926 | 0 |
-| 2023-05-19 | 1,938 | 0 |
+| 2023-05-19 | 1,941 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

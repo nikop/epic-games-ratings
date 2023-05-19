@@ -5,9 +5,9 @@ Rating: 4.24 (Ranked 788)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,246 |
+| Rigged And Ready | 81.00% | ~1,262 |
 | Don't I Know You...? | 77.00% | ~1,200 |
-| Jailbreak | 65.00% | ~1,013 |
+| Jailbreak | 66.00% | ~1,028 |
 | Suited and Booted | 38.00% | ~592 |
 | HEADSHOT! | 37.00% | ~576 |
 | Sleeping With The Fishes | 35.00% | ~545 |

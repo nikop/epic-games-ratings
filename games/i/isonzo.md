@@ -31,7 +31,7 @@ Number of Ratings: 98  (23.09.2022)
 | Dante's Inferno | 11.00% | ~621 |
 | Die Bosniaken Kommen! | 11.00% | ~621 |
 | The Devil's Paintbrush | 11.00% | ~621 |
-| I Have the High Ground | 9.00% | ~508 |
+| I Have the High Ground | 10.00% | ~565 |
 | Millenial | 9.00% | ~508 |
 | The Show Must Go On | 8.00% | ~452 |
 | Tosca | 8.00% | ~452 |

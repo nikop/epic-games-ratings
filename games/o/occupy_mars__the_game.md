@@ -5,20 +5,20 @@ Rating: 3.68 (Ranked 919)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 27.00% | ~93 |
-| Electrician | 19.00% | ~65 |
-| Fear my botany powers, Mars | 13.00% | ~45 |
-| Zero Waste | 10.00% | ~34 |
-| I am the greatest botanist on this planet. | 8.00% | ~28 |
-| Bob The Builder | 8.00% | ~28 |
-| Houston we have a problem | 7.00% | ~24 |
-| Occupy Mars! | 7.00% | ~24 |
-| Miner | 5.00% | ~17 |
+| I don't feel so good | 28.00% | ~101 |
+| Electrician | 19.00% | ~68 |
+| Fear my botany powers, Mars | 13.00% | ~47 |
+| Zero Waste | 11.00% | ~39 |
+| I am the greatest botanist on this planet. | 8.00% | ~29 |
+| Bob The Builder | 8.00% | ~29 |
+| Houston we have a problem | 7.00% | ~25 |
+| Occupy Mars! | 7.00% | ~25 |
+| Miner | 5.00% | ~18 |
 | Detective | 2.00% | ~7 |
 | Gardener | 2.00% | ~7 |
 | Get your hands dirty | 2.00% | ~7 |
-| All Wheel Trouble | 1.00% | ~3 |
-| Space Forest | 0.90% | ~3 |
+| All Wheel Trouble | 1.00% | ~4 |
+| Space Forest | 0.80% | ~3 |
 | The Collector | 0.60% | ~2 |
 | “Aliens” | 0.60% | ~2 |
 | Caveman | 0.60% | ~2 |
@@ -31,6 +31,7 @@ Rating: 3.68 (Ranked 919)
 | Historical Places | 0.30% | ~1 |
 | Hot Repairs | 0.30% | ~1 |
 | 5G Network | 0.30% | ~1 |
+| Bull’s eye | 0.30% | ~1 |
 | Planetary Defence | 0.30% | ~1 |
 | Korolev crater | 0.30% | ~1 |
 | Never Ending Story? | 0.30% | ~1 |
@@ -42,7 +43,6 @@ Rating: 3.68 (Ranked 919)
 | Let's Cook | 0.00% | ~0 |
 | Life on Mars | 0.00% | ~0 |
 | Do A Bareel Roll | 0.00% | ~0 |
-| Bull’s eye | 0.00% | ~0 |
 | Dumb ways to die | 0.00% | ~0 |
 | Frozen | 0.00% | ~0 |
 | Good Martian | 0.00% | ~0 |
@@ -54,7 +54,7 @@ Rating: 3.68 (Ranked 919)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 344 (Ranked 204)  
+Progressed: 359 (Ranked 198)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,7 +66,7 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-16 | 9 | 0 |
 | 2023-05-17 | 10 | 0 |
 | 2023-05-18 | 287 | 0 |
-| 2023-05-19 | 344 | 0 |
+| 2023-05-19 | 359 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

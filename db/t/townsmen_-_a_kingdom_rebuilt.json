@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -931,9 +931,9 @@
       "ID": "ACHIEVEMENT_REPAIR1",
       "SetID": "9eacipp",
       "Name": "Full-time job I",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 249
     },
     {
       "ID": "ACHIEVEMENT_REPAIR2",
@@ -1419,8 +1419,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-05-18T04:58:08.3119533+00:00",
-  "LastChanged_Achievements": "2023-05-19T07:06:29.7506293+00:00",
+  "LastChanged_Achievements": "2023-05-19T08:05:25.5899047+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:59.3261946+00:00",
-  "LastUpdate_Ratings": "2023-05-19T06:58:08.7886171+00:00",
-  "LastUpdate_Achievements": "2023-05-19T07:06:29.75075+00:00"
+  "LastUpdate_Ratings": "2023-05-19T07:57:53.9539602+00:00",
+  "LastUpdate_Achievements": "2023-05-19T08:05:25.5900272+00:00"
 }

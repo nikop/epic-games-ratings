@@ -6,32 +6,32 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~6,690 |
-| What should I buy? | 83.00% | ~5,971 |
-| Focus! | 62.00% | ~4,460 |
-| Rescued Elder Ent | 62.00% | ~4,460 |
-| The End of the Gold Mane Knights | 46.00% | ~3,309 |
-| Rules of Etiquette | 39.00% | ~2,806 |
-| False Goddess, Disappear | 38.00% | ~2,734 |
-| Quick Movements | 33.00% | ~2,374 |
-| Inventory Management | 33.00% | ~2,374 |
-| The Fall of the Leonia Order | 29.00% | ~2,086 |
-| The Hero Killer | 27.00% | ~1,942 |
-| Go Home... | 26.00% | ~1,870 |
-| The Final Battle of the First Hero | 25.00% | ~1,798 |
+| The Legend Begins | 93.00% | ~6,693 |
+| What should I buy? | 83.00% | ~5,974 |
+| Focus! | 62.00% | ~4,462 |
+| Rescued Elder Ent | 62.00% | ~4,462 |
+| The End of the Gold Mane Knights | 46.00% | ~3,311 |
+| Rules of Etiquette | 39.00% | ~2,807 |
+| False Goddess, Disappear | 38.00% | ~2,735 |
+| Quick Movements | 33.00% | ~2,375 |
+| Inventory Management | 33.00% | ~2,375 |
+| The Fall of the Leonia Order | 29.00% | ~2,087 |
+| The Hero Killer | 27.00% | ~1,943 |
+| Go Home... | 26.00% | ~1,871 |
+| The Final Battle of the First Hero | 25.00% | ~1,799 |
 | Brain at Full Throttle | 23.00% | ~1,655 |
 | Rookies Welcome | 20.00% | ~1,439 |
-| Deadly Power | 15.00% | ~1,079 |
-| Castle Restoration Plans | 14.00% | ~1,007 |
-| The Dwarven Chandelier | 12.00% | ~863 |
-| Master of Speed | 9.00% | ~647 |
+| Deadly Power | 15.00% | ~1,080 |
+| Castle Restoration Plans | 14.00% | ~1,008 |
+| The Dwarven Chandelier | 12.00% | ~864 |
+| Master of Speed | 9.00% | ~648 |
 | The Levitator | 6.00% | ~432 |
 | The God of Battle | 3.00% | ~216 |
 | Too Much of a Talker | 2.00% | ~144 |
 | The Skeleton King | 2.00% | ~144 |
 | Cold-Blooded | 0.80% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,194 (Ranked 111)  
+Progressed: 7,197 (Ranked 111)  
 Completed: 11 (0.15%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,7 +56,7 @@ Completed: 11 (0.15%) (Ranked 147)
 | 2023-05-16 | 7,184 | 11 |
 | 2023-05-17 | 7,186 | 11 |
 | 2023-05-18 | 7,189 | 11 |
-| 2023-05-19 | 7,194 | 11 |
+| 2023-05-19 | 7,197 | 11 |
 ## Awards
 Max (Diverse Characters): 112  (Ranked 313)  
 Sum: 748 (Ranked 255)  

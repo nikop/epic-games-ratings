@@ -6,12 +6,12 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 20.00% | ~9,255 |
-| Float Like a Butterfly | 16.00% | ~7,404 |
-| Let There Be Light | 16.00% | ~7,404 |
+| Follow the Light | 20.00% | ~9,256 |
+| Float Like a Butterfly | 16.00% | ~7,405 |
+| Let There Be Light | 16.00% | ~7,405 |
 | Nordic Walking | 13.00% | ~6,016 |
 | Bright Falls' Finest | 13.00% | ~6,016 |
-| Under a Thin Layer of Skin | 11.00% | ~5,090 |
+| Under a Thin Layer of Skin | 11.00% | ~5,091 |
 | Park Ranger | 9.00% | ~4,165 |
 | Back! Back, I Say! | 9.00% | ~4,165 |
 | Finders Keepers | 9.00% | ~4,165 |
@@ -23,13 +23,13 @@ Number of Ratings: 524  (23.09.2022)
 | Missed by a Mile | 8.00% | ~3,702 |
 | Damn Good Cup of Coffee | 8.00% | ~3,702 |
 | A Friend in Need | 8.00% | ~780 |
-| Heavy Metal | 7.00% | ~3,239 |
-| Iron Horse | 7.00% | ~3,239 |
-| Perchance to Dream | 7.00% | ~3,239 |
-| It's Not Just a Typewriter Brand | 7.00% | ~3,239 |
-| Thunder and Lightning | 7.00% | ~3,239 |
-| Collateral Carnage | 7.00% | ~3,239 |
-| Come One, Come All | 7.00% | ~3,239 |
+| Heavy Metal | 7.00% | ~3,240 |
+| Iron Horse | 7.00% | ~3,240 |
+| Perchance to Dream | 7.00% | ~3,240 |
+| It's Not Just a Typewriter Brand | 7.00% | ~3,240 |
+| Thunder and Lightning | 7.00% | ~3,240 |
+| Collateral Carnage | 7.00% | ~3,240 |
+| Come One, Come All | 7.00% | ~3,240 |
 | Gatekeeper | 6.00% | ~2,777 |
 | The Lady of the Light | 6.00% | ~2,777 |
 | Two For the Price of One | 6.00% | ~2,777 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,276 (Ranked 75)  
+Progressed: 46,280 (Ranked 75)  
 Completed: 44 (0.10%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 44 (0.10%) (Ranked 157)
 | 2023-05-16 | 46,196 | 44 |
 | 2023-05-17 | 46,208 | 44 |
 | 2023-05-18 | 46,244 | 44 |
-| 2023-05-19 | 46,276 | 44 |
+| 2023-05-19 | 46,280 | 44 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

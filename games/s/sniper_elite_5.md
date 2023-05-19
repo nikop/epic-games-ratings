@@ -5,13 +5,14 @@ Rating: 4.41 (Ranked 655)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Meeting Resistance | 0.80% | ~6 |
 | The Long Game | 0.70% | ~5 |
 | Confirming Suspicions | 0.70% | ~5 |
 | Resourceful | 0.70% | ~5 |
 | As Quiet as a Mouse | 0.70% | ~5 |
 | Enemy at the Gates | 0.50% | ~4 |
-| Meeting Resistance | 0.50% | ~4 |
 | Taking it back | 0.50% | ~4 |
+| Opposing Force | 0.40% | ~3 |
 | Strategist | 0.40% | ~3 |
 | Gunslinger | 0.40% | ~3 |
 | Skirmisher | 0.40% | ~3 |
@@ -21,7 +22,6 @@ Rating: 4.41 (Ranked 655)
 | It's Starting to Crack | 0.40% | ~3 |
 | Climbing the Ladder | 0.30% | ~2 |
 | No Stone Unturned | 0.30% | ~2 |
-| Opposing Force | 0.30% | ~2 |
 | Snake in the Grass | 0.30% | ~2 |
 | Change the Channel | 0.30% | ~2 |
 | Don't hold your breath | 0.30% | ~2 |
@@ -29,6 +29,7 @@ Rating: 4.41 (Ranked 655)
 | Sink or Swim | 0.30% | ~2 |
 | Liberté | 0.10% | ~1 |
 | Fields of Glory | 0.10% | ~1 |
+| Just a Flesh Wound | 0.10% | ~1 |
 | Organ Grinder | 0.10% | ~1 |
 | Sharpshooter | 0.10% | ~1 |
 | Rigged to Blow | 0.10% | ~1 |
@@ -48,7 +49,6 @@ Rating: 4.41 (Ranked 655)
 | Ghost of Falaise | 0.10% | ~1 |
 | Operation Overlord | 0.10% | ~1 |
 | Best of the Best | 0.00% | ~0 |
-| Just a Flesh Wound | 0.00% | ~0 |
 | Master of Pistols | 0.00% | ~0 |
 | Master of Secondaries | 0.00% | ~0 |
 | Master of Rifles | 0.00% | ~0 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 655)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 760 (Ranked 173)  
+Progressed: 764 (Ranked 173)  
 Completed: 2 (0.26%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 2 (0.26%) (Ranked 131)
 | 2023-05-16 | 723 | 2 |
 | 2023-05-17 | 728 | 2 |
 | 2023-05-18 | 743 | 2 |
-| 2023-05-19 | 760 | 2 |
+| 2023-05-19 | 764 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

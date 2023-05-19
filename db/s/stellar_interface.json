@@ -4,7 +4,7 @@
   "ProductSlug": "stellar-interface-d14cc4",
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
@@ -672,9 +672,9 @@
       "ID": "Killed10EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "First Blood",
-      "Percentage": 50,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Killed20BossesAchievement",
@@ -1110,8 +1110,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-05-19T07:06:49.7281604+00:00",
+  "LastChanged_Achievements": "2023-05-19T08:05:42.634727+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:39.3518992+00:00",
-  "LastUpdate_Ratings": "2023-05-19T06:59:10.11401+00:00",
-  "LastUpdate_Achievements": "2023-05-19T07:06:49.7283539+00:00"
+  "LastUpdate_Ratings": "2023-05-19T07:58:27.7593232+00:00",
+  "LastUpdate_Achievements": "2023-05-19T08:05:42.634926+00:00"
 }

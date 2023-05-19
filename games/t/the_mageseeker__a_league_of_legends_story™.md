@@ -5,37 +5,37 @@ Rating: 4.76 (Ranked 116)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~1,930 |
-| No more cages! | 92.00% | ~1,869 |
+| For Demacia | 95.00% | ~1,931 |
+| No more cages! | 92.00% | ~1,870 |
 | Everfrost | 77.00% | ~1,565 |
-| Pentakill | 76.00% | ~1,544 |
-| Dark Forest | 76.00% | ~1,544 |
-| The use of petricite | 73.00% | ~1,483 |
-| You can pet the dog | 60.00% | ~1,219 |
+| Pentakill | 76.00% | ~1,545 |
+| Dark Forest | 76.00% | ~1,545 |
+| The use of petricite | 73.00% | ~1,484 |
+| You can pet the dog | 60.00% | ~1,220 |
 | Big Helmet Bro | 34.00% | ~691 |
 | Clarion Cove | 34.00% | ~691 |
-| Past trauma | 32.00% | ~650 |
-| Thornbarrow | 32.00% | ~650 |
-| Ternmoat Headquarters | 32.00% | ~650 |
+| Past trauma | 32.00% | ~651 |
+| Thornbarrow | 32.00% | ~651 |
+| Ternmoat Headquarters | 32.00% | ~651 |
 | Elemental master | 31.00% | ~630 |
 | Cypress Glen Headquarters | 31.00% | ~630 |
 | Petricite Burst | 27.00% | ~549 |
-| Old friend | 26.00% | ~528 |
+| Old friend | 26.00% | ~529 |
 | Whispers in the Woods I | 25.00% | ~508 |
 | Hijack | 25.00% | ~508 |
 | Devineur | 25.00% | ~508 |
-| Ancient power | 23.00% | ~467 |
+| Ancient power | 23.00% | ~468 |
 | I chose my shackles | 22.00% | ~447 |
 | Sacred Woods | 21.00% | ~427 |
-| Capelworth | 20.00% | ~406 |
+| Capelworth | 20.00% | ~407 |
 | Little light | 19.00% | ~386 |
 | Glyndemere | 18.00% | ~366 |
 | Iffighain Headquarters | 18.00% | ~366 |
-| Full equipped | 17.00% | ~345 |
+| Full equipped | 17.00% | ~346 |
 | Whispers in the Woods II | 16.00% | ~325 |
 | Quickmoore Headquarters | 15.00% | ~305 |
-| No more holding back | 14.00% | ~284 |
-| Terbisia | 14.00% | ~284 |
+| No more holding back | 14.00% | ~285 |
+| Terbisia | 14.00% | ~285 |
 | Whispers in the Woods III | 13.00% | ~264 |
 | Friendly fire | 13.00% | ~264 |
 | The Central Headquarters | 13.00% | ~264 |
@@ -59,7 +59,7 @@ Rating: 4.76 (Ranked 116)
 | Silverwing nest | 2.00% | ~41 |
 | The Unshackled | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,032 (Ranked 142)  
+Progressed: 2,033 (Ranked 142)  
 Completed: 1 (0.05%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 1 (0.05%) (Ranked 173)
 | 2023-05-16 | 2,008 | 1 |
 | 2023-05-17 | 2,015 | 1 |
 | 2023-05-18 | 2,025 | 1 |
-| 2023-05-19 | 2,032 | 1 |
+| 2023-05-19 | 2,033 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

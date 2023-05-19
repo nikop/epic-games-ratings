@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,540 |
-| That's a Grand Army | 8.00% | ~3,147 |
-| That is mine! | 8.00% | ~3,147 |
-| Victorious! | 8.00% | ~3,147 |
-| Brothers in Arms | 6.00% | ~2,360 |
-| That's a Grand Navy | 6.00% | ~2,360 |
-| Seriously?! | 6.00% | ~2,360 |
+| Until death do us apart | 9.00% | ~3,541 |
+| That's a Grand Army | 8.00% | ~3,148 |
+| That is mine! | 8.00% | ~3,148 |
+| Victorious! | 8.00% | ~3,148 |
+| Brothers in Arms | 6.00% | ~2,361 |
+| That's a Grand Navy | 6.00% | ~2,361 |
+| Seriously?! | 6.00% | ~2,361 |
 | For the Glory | 5.00% | ~1,967 |
-| Cold War | 4.00% | ~1,573 |
-| True Catholic | 4.00% | ~1,573 |
+| Cold War | 4.00% | ~1,574 |
+| True Catholic | 4.00% | ~1,574 |
 | Defender of the Faith | 3.00% | ~1,180 |
 | It's all about the money | 3.00% | ~1,180 |
 | Respected | 3.00% | ~1,180 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,335 (Ranked 80)  
+Progressed: 39,348 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -390,10 +390,10 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-16 | 38,036 | 0 |
 | 2023-05-17 | 38,614 | 0 |
 | 2023-05-18 | 39,222 | 0 |
-| 2023-05-19 | 39,335 | 0 |
+| 2023-05-19 | 39,348 | 0 |
 ## Awards
 Max (Educational): 5,232  (Ranked 60)  
-Sum: 43,381 (Ranked 27)  
+Sum: 43,389 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -402,7 +402,7 @@ Diff (max vs sum): 33
 | This game has Challenging Combat | 5,005 |
 | This game is Extremely Fun | 4,980 |
 | This game has Diverse Characters | 4,931 |
-| This game is Relaxing | 4,880 |
+| This game is Relaxing | 4,888 |
 | This game has Competitive Players | 4,714 |
 | This game has Amazing Storytelling | 4,477 |
 | This game has Amazing Characters | 4,126 |
@@ -532,3 +532,4 @@ Diff (max vs sum): 33
 | 2023-05-16 | 4.68 | - | 5,223 | 43,268 |
 | 2023-05-17 | 4.68 | - | 5,228 | 43,298 |
 | 2023-05-18 | 4.68 | - | 5,232 | 43,381 |
+| 2023-05-19 | 4.68 | - | 5,232 | 43,389 |

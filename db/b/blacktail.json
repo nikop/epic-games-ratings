@@ -5,9 +5,9 @@
   "Ranking_Rating": 259,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
-  "Ranking_EOS_Progress": 201,
+  "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 352,
+  "EOS_Progressed": 353,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -339,6 +339,11 @@
       "Time": "2023-05-19T05:05:16.3812386+00:00",
       "NumProgressed": 352,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T08:05:17.5570898+00:00",
+      "NumProgressed": 353,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -356,7 +361,7 @@
       "ID": "BadApple",
       "SetID": "2aagp3d",
       "Name": "Bad apple",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -374,15 +379,15 @@
       "Name": "Dental maturity",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "DevilDetail",
       "SetID": "2aagp3d",
       "Name": "Devil\u0027s in the details",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 42
     },
     {
       "ID": "Devoted",
@@ -500,7 +505,7 @@
       "ID": "NoMoreWards",
       "SetID": "2aagp3d",
       "Name": "Awards unwarded",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -566,7 +571,7 @@
       "Name": "Tooth fairy",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "Toxic",
@@ -605,7 +610,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 352,
+      "Progressed": 353,
       "Completed": 0
     }
   ],
@@ -613,8 +618,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-05-19T07:06:20.8405225+00:00",
+  "LastChanged_Achievements": "2023-05-19T08:05:17.5570893+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:50.1564465+00:00",
-  "LastUpdate_Ratings": "2023-05-19T06:57:55.0006808+00:00",
-  "LastUpdate_Achievements": "2023-05-19T07:06:20.8405441+00:00"
+  "LastUpdate_Ratings": "2023-05-19T07:57:45.7285613+00:00",
+  "LastUpdate_Achievements": "2023-05-19T08:05:17.557115+00:00"
 }

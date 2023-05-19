@@ -4,7 +4,7 @@
   "ProductSlug": "riftbound-db891d",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-05-18T23:00:00+00:00",
@@ -280,8 +280,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:45:02.2220313+00:00",
-  "LastChanged_Achievements": "2023-05-19T07:03:36.317515+00:00",
+  "LastChanged_Achievements": "2023-05-19T08:03:33.8583393+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:12.4637445+00:00",
-  "LastUpdate_Ratings": "2023-05-19T06:57:06.4718198+00:00",
-  "LastUpdate_Achievements": "2023-05-19T07:03:36.3175349+00:00"
+  "LastUpdate_Ratings": "2023-05-19T07:57:12.8176579+00:00",
+  "LastUpdate_Achievements": "2023-05-19T08:03:33.8583585+00:00"
 }
