@@ -5,9 +5,9 @@
   "Ranking_Rating": 743,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
-  "Ranking_EOS_Progress": 144,
+  "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2009,
+  "EOS_Progressed": 2011,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -605,6 +605,11 @@
       "Time": "2023-05-19T06:05:58.2297639+00:00",
       "NumProgressed": 2009,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-19T07:06:40.6078495+00:00",
+      "NumProgressed": 2011,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -648,7 +653,7 @@
       "Name": "The Second Law of Thermodynamics",
       "Percentage": 15,
       "XP": 150,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "complete_tutorial",
@@ -656,7 +661,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1768
+      "UsersEstimate": 1770
     },
     {
       "ID": "deal_damage",
@@ -664,7 +669,7 @@
       "Name": "Ouch",
       "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1126
     },
     {
       "ID": "defeat_enemies",
@@ -672,7 +677,7 @@
       "Name": "A Ribbiting Performance",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 1567
+      "UsersEstimate": 1569
     },
     {
       "ID": "defeat_tree_dummy",
@@ -680,7 +685,7 @@
       "Name": "Do you feel like a tough guy?",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "fail_planet",
@@ -688,7 +693,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     },
     {
       "ID": "piercing_beam",
@@ -702,9 +707,9 @@
       "ID": "reach_heat",
       "SetID": "236b9eg",
       "Name": "Turn Up The HEAT",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 824
+      "UsersEstimate": 804
     },
     {
       "ID": "reach_high_heat",
@@ -720,7 +725,7 @@
       "Name": "Frogbot",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 1467
+      "UsersEstimate": 1468
     },
     {
       "ID": "save_planet_bestfriend",
@@ -728,7 +733,7 @@
       "Name": "Do you trust me?",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "save_planet_coop",
@@ -736,7 +741,7 @@
       "Name": "The Interdimensional Power of Friendship",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "stick_decoy",
@@ -744,7 +749,7 @@
       "Name": "Stop Hitting Yourself!",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "stun_enemies",
@@ -752,7 +757,7 @@
       "Name": "Fun in the Stun",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 1105
+      "UsersEstimate": 1106
     },
     {
       "ID": "trash_truck",
@@ -767,7 +772,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2009,
+      "Progressed": 2011,
       "Completed": 8
     }
   ],
@@ -775,8 +780,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-05-15T22:59:29.8330198+00:00",
-  "LastChanged_Achievements": "2023-05-19T06:05:58.2297637+00:00",
+  "LastChanged_Achievements": "2023-05-19T07:06:40.607849+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:12.4998547+00:00",
-  "LastUpdate_Ratings": "2023-05-19T06:00:46.3615059+00:00",
-  "LastUpdate_Achievements": "2023-05-19T06:05:58.2297781+00:00"
+  "LastUpdate_Ratings": "2023-05-19T07:01:26.5664453+00:00",
+  "LastUpdate_Achievements": "2023-05-19T07:06:40.6078646+00:00"
 }

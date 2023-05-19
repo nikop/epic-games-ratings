@@ -6,20 +6,20 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~6,689 |
-| What should I buy? | 83.00% | ~5,970 |
+| The Legend Begins | 93.00% | ~6,690 |
+| What should I buy? | 83.00% | ~5,971 |
 | Focus! | 62.00% | ~4,460 |
 | Rescued Elder Ent | 62.00% | ~4,460 |
 | The End of the Gold Mane Knights | 46.00% | ~3,309 |
-| Rules of Etiquette | 39.00% | ~2,805 |
-| False Goddess, Disappear | 38.00% | ~2,733 |
+| Rules of Etiquette | 39.00% | ~2,806 |
+| False Goddess, Disappear | 38.00% | ~2,734 |
 | Quick Movements | 33.00% | ~2,374 |
 | Inventory Management | 33.00% | ~2,374 |
 | The Fall of the Leonia Order | 29.00% | ~2,086 |
 | The Hero Killer | 27.00% | ~1,942 |
 | Go Home... | 26.00% | ~1,870 |
 | The Final Battle of the First Hero | 25.00% | ~1,798 |
-| Brain at Full Throttle | 23.00% | ~1,654 |
+| Brain at Full Throttle | 23.00% | ~1,655 |
 | Rookies Welcome | 20.00% | ~1,439 |
 | Deadly Power | 15.00% | ~1,079 |
 | Castle Restoration Plans | 14.00% | ~1,007 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 2.00% | ~144 |
 | Cold-Blooded | 0.80% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,193 (Ranked 111)  
+Progressed: 7,194 (Ranked 111)  
 Completed: 11 (0.15%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,15 +56,15 @@ Completed: 11 (0.15%) (Ranked 147)
 | 2023-05-16 | 7,184 | 11 |
 | 2023-05-17 | 7,186 | 11 |
 | 2023-05-18 | 7,189 | 11 |
-| 2023-05-19 | 7,193 | 11 |
+| 2023-05-19 | 7,194 | 11 |
 ## Awards
-Max (Diverse Characters): 111  (Ranked 314)  
-Sum: 747 (Ranked 255)  
-Diff (max vs sum): 59  
+Max (Diverse Characters): 112  (Ranked 313)  
+Sum: 748 (Ranked 255)  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 114 |
-| This game has Diverse Characters | 111 |
+| This game has Diverse Characters | 112 |
 | This game is Extremely Fun | 106 |
 | This game is Relaxing | 105 |
 | This game is Highly Recommended | 104 |
@@ -166,3 +166,4 @@ Diff (max vs sum): 59
 | 2023-05-11 | 4.71 | - | 109 | 744 |
 | 2023-05-16 | 4.71 | - | 111 | 746 |
 | 2023-05-18 | 4.71 | - | 111 | 747 |
+| 2023-05-19 | 4.71 | - | 112 | 748 |

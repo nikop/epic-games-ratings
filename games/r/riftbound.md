@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Adventure Time | 78.00% | ~7 |
 | Master Of The Arts | 44.00% | ~4 |
-| Close Call | 11.00% | ~1 |
+| Close Call | 22.00% | ~2 |
 | Adept Summoner | 0.00% | ~0 |
 | Apprentice Summoner | 0.00% | ~0 |
 | Brave Younglings | 0.00% | ~0 |

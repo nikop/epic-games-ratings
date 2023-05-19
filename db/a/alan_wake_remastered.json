@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46272,
+  "EOS_Progressed": 46276,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1831,6 +1831,11 @@
       "Time": "2023-05-19T06:05:39.9350047+00:00",
       "NumProgressed": 46272,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-19T07:06:19.1717531+00:00",
+      "NumProgressed": 46276,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1842,7 +1847,7 @@
       "Name": "Follow the Light",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9254
+      "UsersEstimate": 9255
     },
     {
       "ID": "02",
@@ -1850,7 +1855,7 @@
       "Name": "Nordic Walking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6015
+      "UsersEstimate": 6016
     },
     {
       "ID": "03",
@@ -1858,7 +1863,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6015
+      "UsersEstimate": 6016
     },
     {
       "ID": "04",
@@ -1866,7 +1871,7 @@
       "Name": "Boob Tube",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "05",
@@ -1882,7 +1887,7 @@
       "Name": "Park Ranger",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4164
+      "UsersEstimate": 4165
     },
     {
       "ID": "07",
@@ -1946,7 +1951,7 @@
       "Name": "Gatekeeper",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2776
+      "UsersEstimate": 2777
     },
     {
       "ID": "15",
@@ -1954,7 +1959,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2776
+      "UsersEstimate": 2777
     },
     {
       "ID": "16",
@@ -2074,7 +2079,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2776
+      "UsersEstimate": 2777
     },
     {
       "ID": "31",
@@ -2082,7 +2087,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4164
+      "UsersEstimate": 4165
     },
     {
       "ID": "32",
@@ -2106,7 +2111,7 @@
       "Name": "Energized!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2776
+      "UsersEstimate": 2777
     },
     {
       "ID": "35",
@@ -2122,7 +2127,7 @@
       "Name": "Carny",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "37",
@@ -2162,7 +2167,7 @@
       "Name": "Finders Keepers",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4164
+      "UsersEstimate": 4165
     },
     {
       "ID": "42",
@@ -2178,7 +2183,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 4164
+      "UsersEstimate": 4165
     },
     {
       "ID": "44",
@@ -2242,7 +2247,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "52",
@@ -2250,7 +2255,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "53",
@@ -2377,21 +2382,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46272,
+      "Progressed": 46276,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9740,
+      "Progressed": 9744,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-19T06:05:39.9350041+00:00",
+  "LastChanged_Achievements": "2023-05-19T07:06:19.1717525+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:33.6043799+00:00",
-  "LastUpdate_Ratings": "2023-05-19T05:57:31.4812602+00:00",
-  "LastUpdate_Achievements": "2023-05-19T06:05:39.9350788+00:00"
+  "LastUpdate_Ratings": "2023-05-19T06:57:34.9484336+00:00",
+  "LastUpdate_Achievements": "2023-05-19T07:06:19.1718278+00:00"
 }

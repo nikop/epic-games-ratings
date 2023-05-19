@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2657,
+  "EOS_Progressed": 2658,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -929,6 +929,11 @@
       "Time": "2023-05-19T06:06:00.9688531+00:00",
       "NumProgressed": 2657,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-19T07:06:43.8368767+00:00",
+      "NumProgressed": 2658,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -988,7 +993,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2391
+      "UsersEstimate": 2392
     },
     {
       "ID": "campaign10",
@@ -1100,7 +1105,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1276
     },
     {
       "ID": "campaign5",
@@ -1148,7 +1153,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "scenario2",
@@ -1203,7 +1208,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2657,
+      "Progressed": 2658,
       "Completed": 9
     }
   ],
@@ -1211,8 +1216,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-19T06:06:00.9688527+00:00",
+  "LastChanged_Achievements": "2023-05-19T07:06:43.8368762+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:07.0051638+00:00",
-  "LastUpdate_Ratings": "2023-05-19T06:00:41.4538675+00:00",
-  "LastUpdate_Achievements": "2023-05-19T06:06:00.9688832+00:00"
+  "LastUpdate_Ratings": "2023-05-19T07:01:19.4168532+00:00",
+  "LastUpdate_Achievements": "2023-05-19T07:06:43.8369069+00:00"
 }

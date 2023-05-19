@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 195,
+  "EOS_Progressed": 196,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.03,
+  "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:50.5545173+00:00",
@@ -77,6 +77,11 @@
     {
       "Time": "2023-05-18T21:06:25.6197565+00:00",
       "NumProgressed": 195,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-19T07:05:43.4435174+00:00",
+      "NumProgressed": 196,
       "NumCompleted": 2
     }
   ],
@@ -129,7 +134,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ryan_date2_all",
@@ -183,9 +188,9 @@
       "ID": "success_hazel",
       "SetID": "6h5h9ho",
       "Name": "The individualist",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "success_jake",
@@ -193,7 +198,7 @@
       "Name": "The nice guy",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "success_kathleen",
@@ -240,7 +245,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 195,
+      "Progressed": 196,
       "Completed": 2
     }
   ],
@@ -248,8 +253,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-05-19T06:05:26.1167947+00:00",
+  "LastChanged_Achievements": "2023-05-19T07:05:43.4435168+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:22.1343656+00:00",
-  "LastUpdate_Ratings": "2023-05-19T05:57:15.6917199+00:00",
-  "LastUpdate_Achievements": "2023-05-19T06:05:26.1168096+00:00"
+  "LastUpdate_Ratings": "2023-05-19T06:57:20.7125542+00:00",
+  "LastUpdate_Achievements": "2023-05-19T07:05:43.4435315+00:00"
 }

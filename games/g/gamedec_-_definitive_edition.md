@@ -11,7 +11,7 @@ Number of Ratings: 33  (23.09.2022)
 | Barely scratched the surface | 25.00% | ~56,538 |
 | Write that down | 24.00% | ~54,276 |
 | Guns, lots of guns | 12.00% | ~27,138 |
-| Collector | 11.00% | ~24,876 |
+| Collector | 11.00% | ~24,877 |
 | Elementary! | 8.00% | ~18,092 |
 | Pumpkin Jack | 8.00% | ~18,092 |
 | Wake up! | 8.00% | ~18,092 |
@@ -23,9 +23,9 @@ Number of Ratings: 33  (23.09.2022)
 | Valedictorian | 5.00% | ~11,308 |
 | BOY! | 4.00% | ~9,046 |
 | Ka-ching! | 4.00% | ~9,046 |
-| I like to sniff around | 3.00% | ~6,784 |
-| Mind reader | 3.00% | ~6,784 |
-| So you like to read? | 3.00% | ~6,784 |
+| I like to sniff around | 3.00% | ~6,785 |
+| Mind reader | 3.00% | ~6,785 |
+| So you like to read? | 3.00% | ~6,785 |
 | Gentleman's classic | 2.00% | ~4,523 |
 | Hoarder | 2.00% | ~4,523 |
 | Is that a rift? | 2.00% | ~4,523 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~452 |
 | Memory 5 | 0.10% | ~226 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,150 (Ranked 42)  
+Progressed: 226,151 (Ranked 42)  
 Completed: 5 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 5 (0.00%) (Ranked 200)
 | 2023-05-16 | 225,722 | 5 |
 | 2023-05-17 | 225,903 | 5 |
 | 2023-05-18 | 226,113 | 5 |
-| 2023-05-19 | 226,150 | 5 |
+| 2023-05-19 | 226,151 | 5 |
 ## Awards
 Max (Character Customization): 73  (Ranked 358)  
 Sum: 73 (Ranked 417)  

@@ -2,9 +2,9 @@
   "ID": "7304eee6de244842b8158bfa95542b7a",
   "Name": "Terror of Hemasaurus",
   "ProductSlug": "terror-of-hemasaurus-a08800",
-  "Ranking_EOS_Progress": 290,
+  "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-10-17T17:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 39,
+  "EOS_Progressed": 40,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.13,
+  "EOS_Completed_Percentage": 5,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:56.8436927+00:00",
@@ -67,6 +67,11 @@
       "Time": "2023-05-13T12:03:15.505866+00:00",
       "NumProgressed": 39,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-19T07:02:04.2185443+00:00",
+      "NumProgressed": 40,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -76,7 +81,7 @@
       "ID": "ACH_1000_CIVILIANS",
       "SetID": "aio76gp",
       "Name": "Terror Rising",
-      "Percentage": 62,
+      "Percentage": 60,
       "XP": 10,
       "UsersEstimate": 24
     },
@@ -140,7 +145,7 @@
       "ID": "ACH_20_CARS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Jalopy Poppy",
-      "Percentage": 59,
+      "Percentage": 57,
       "XP": 10,
       "UsersEstimate": 23
     },
@@ -188,7 +193,7 @@
       "ID": "ACH_5000_CIVILIANS",
       "SetID": "aio76gp",
       "Name": "Reign of Terror",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 25,
       "UsersEstimate": 10
     },
@@ -204,7 +209,7 @@
       "ID": "ACH_50_CHOPPER_BLADES",
       "SetID": "aio76gp",
       "Name": "Aerosolized",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -276,7 +281,7 @@
       "ID": "ACH_KILL_100_ENEMIES",
       "SetID": "aio76gp",
       "Name": "Green-Bodied Monster",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
       "UsersEstimate": 18
     },
@@ -317,7 +322,7 @@
     {
       "ID": "aio76gp",
       "IsBase": true,
-      "Progressed": 39,
+      "Progressed": 40,
       "Completed": 2
     }
   ],
@@ -325,8 +330,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-05-19T06:01:14.5760604+00:00",
+  "LastChanged_Achievements": "2023-05-19T07:02:04.2185438+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:19.1092798+00:00",
-  "LastUpdate_Ratings": "2023-05-19T05:58:25.2694404+00:00",
-  "LastUpdate_Achievements": "2023-05-19T06:01:14.576086+00:00"
+  "LastUpdate_Ratings": "2023-05-19T06:58:35.6979148+00:00",
+  "LastUpdate_Achievements": "2023-05-19T07:02:04.2185745+00:00"
 }

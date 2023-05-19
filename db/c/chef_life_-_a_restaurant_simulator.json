@@ -2,7 +2,7 @@
   "ID": "04e9492e1c384d3283aa2c5b329af66c",
   "Name": "Chef Life - A Restaurant Simulator",
   "ProductSlug": "chef-life-a-restaurant-simulator",
-  "Ranking_EOS_Progress": 252,
+  "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 74,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 118,
+  "EOS_Progressed": 119,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -499,6 +499,11 @@
       "Time": "2023-05-19T03:05:28.5143795+00:00",
       "NumProgressed": 118,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T07:06:21.5820265+00:00",
+      "NumProgressed": 119,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -686,7 +691,7 @@
       "Name": "The Big Day",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "Packing20",
@@ -734,7 +739,7 @@
       "Name": "S is for Scrumptious",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ServiceMaxClient",
@@ -764,7 +769,7 @@
       "ID": "StaffMemberSpecialityDishes10",
       "SetID": "d1bm05f",
       "Name": "You\u0027re the Expert!",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 20,
       "UsersEstimate": 48
     },
@@ -822,14 +827,14 @@
       "Name": "Well-Stocked Kitchen",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     }
   ],
   "AchievementSets": [
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 118,
+      "Progressed": 119,
       "Completed": 0
     }
   ],
@@ -837,8 +842,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-19T06:05:42.1509005+00:00",
+  "LastChanged_Achievements": "2023-05-19T07:06:21.5820261+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:21.5130518+00:00",
-  "LastUpdate_Ratings": "2023-05-19T05:58:26.7383425+00:00",
-  "LastUpdate_Achievements": "2023-05-19T06:05:42.1509314+00:00"
+  "LastUpdate_Ratings": "2023-05-19T06:58:41.1837395+00:00",
+  "LastUpdate_Achievements": "2023-05-19T07:06:21.5820602+00:00"
 }

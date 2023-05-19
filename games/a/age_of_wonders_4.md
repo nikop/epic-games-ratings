@@ -5,20 +5,20 @@ Rating: 4.50 (Ranked 532)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 82.00% | ~2,277 |
-| Realm Estate | 79.00% | ~2,194 |
-| Secret Technique | 79.00% | ~2,194 |
-| Walls Cannot Stop Us | 75.00% | ~2,083 |
+| A Wonderful Discovery | 82.00% | ~2,278 |
+| Realm Estate | 79.00% | ~2,195 |
+| Secret Technique | 79.00% | ~2,195 |
+| Walls Cannot Stop Us | 75.00% | ~2,084 |
 | From Friends to Family | 71.00% | ~1,972 |
-| Magical Synergy | 66.00% | ~1,833 |
-| Bone Peddler | 64.00% | ~1,777 |
+| Magical Synergy | 67.00% | ~1,861 |
+| Bone Peddler | 64.00% | ~1,778 |
 | Stronger Together | 57.00% | ~1,583 |
-| Full Ascension | 55.00% | ~1,527 |
+| Full Ascension | 55.00% | ~1,528 |
 | There Can Only Be One! | 48.00% | ~1,333 |
-| Seat of Power | 47.00% | ~1,305 |
-| My Final Form | 43.00% | ~1,194 |
-| Intimidation Tactics | 43.00% | ~1,194 |
-| Valley of Wonders | 42.00% | ~1,166 |
+| Seat of Power | 47.00% | ~1,306 |
+| My Final Form | 43.00% | ~1,195 |
+| Intimidation Tactics | 43.00% | ~1,195 |
+| Valley of Wonders | 42.00% | ~1,167 |
 | In a Liege of Your Own | 36.00% | ~1,000 |
 | Return of the Wizard King | 30.00% | ~833 |
 | Digging for Treasure | 30.00% | ~833 |
@@ -34,7 +34,7 @@ Rating: 4.50 (Ranked 532)
 | Fiery Friend | 14.00% | ~389 |
 | The Creator | 13.00% | ~361 |
 | Lord of Chaos | 12.00% | ~333 |
-| The Goddess of Nature | 11.00% | ~305 |
+| The Goddess of Nature | 11.00% | ~306 |
 | Pruning for Progress | 8.00% | ~222 |
 | The Eternal Court | 6.00% | ~167 |
 | Jack of All Tomes | 6.00% | ~167 |
@@ -50,7 +50,7 @@ Rating: 4.50 (Ranked 532)
 | Returning Circle | 0.30% | ~8 |
 | Master of Evilness | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,777 (Ranked 134)  
+Progressed: 2,778 (Ranked 134)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,7 +65,7 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-16 | 2,592 | 0 |
 | 2023-05-17 | 2,660 | 0 |
 | 2023-05-18 | 2,756 | 0 |
-| 2023-05-19 | 2,777 | 0 |
+| 2023-05-19 | 2,778 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

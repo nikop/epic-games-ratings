@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 234,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -974,9 +974,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 2654,
+  "EOS_Progressed": 2655,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -1074,6 +1074,11 @@
       "Time": "2023-05-19T06:05:52.926735+00:00",
       "NumProgressed": 2654,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-19T07:06:34.2359862+00:00",
+      "NumProgressed": 2655,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 31,
@@ -1109,7 +1114,7 @@
       "Name": "Nothing Wasted",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "HARVEST_CROPS_200",
@@ -1117,7 +1122,7 @@
       "Name": "Green Thumb",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 1672
+      "UsersEstimate": 1673
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -1189,7 +1194,7 @@
       "Name": "Don\u0027t Cry Wolf",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "KILL_RAIDER",
@@ -1205,7 +1210,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 1141
+      "UsersEstimate": 1142
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -1221,7 +1226,7 @@
       "Name": "Fit For A King",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "STORE_NUTRITION_5000",
@@ -1245,7 +1250,7 @@
       "Name": "The First Day",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1592
+      "UsersEstimate": 1593
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -1261,7 +1266,7 @@
       "Name": "Heating Up",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -1285,7 +1290,7 @@
       "Name": "The First Week",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -1293,7 +1298,7 @@
       "Name": "Novice Researcher",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 1486
+      "UsersEstimate": 1487
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -1309,7 +1314,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -1317,7 +1322,7 @@
       "Name": "Onward",
       "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -1325,22 +1330,22 @@
       "Name": "Studious Researcher",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 2654,
+      "Progressed": 2655,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-05-19T04:59:46.0147247+00:00",
-  "LastChanged_Achievements": "2023-05-19T06:05:52.9267347+00:00",
+  "LastChanged_Achievements": "2023-05-19T07:06:34.2359859+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:42.6184247+00:00",
-  "LastUpdate_Ratings": "2023-05-19T06:00:10.4966984+00:00",
-  "LastUpdate_Achievements": "2023-05-19T06:05:52.9267574+00:00"
+  "LastUpdate_Ratings": "2023-05-19T07:00:44.1789865+00:00",
+  "LastUpdate_Achievements": "2023-05-19T07:06:34.2360105+00:00"
 }

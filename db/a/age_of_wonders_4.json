@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 50,
+  "Ranking_EOS_NewPlayers": 51,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2777,
+  "EOS_Progressed": 2778,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 900,
+  "EOS_NewPlayers": 896,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1209,6 +1209,11 @@
       "Time": "2023-05-19T06:03:39.2613357+00:00",
       "NumProgressed": 2777,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T07:03:11.9466324+00:00",
+      "NumProgressed": 2778,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -1220,7 +1225,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "10",
@@ -1260,7 +1265,7 @@
       "Name": "Full Ascension",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     },
     {
       "ID": "15",
@@ -1316,7 +1321,7 @@
       "Name": "The Goddess of Nature",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "21",
@@ -1332,7 +1337,7 @@
       "Name": "Realm Estate",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 2194
+      "UsersEstimate": 2195
     },
     {
       "ID": "23",
@@ -1340,7 +1345,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 2277
+      "UsersEstimate": 2278
     },
     {
       "ID": "24",
@@ -1348,7 +1353,7 @@
       "Name": "Secret Technique",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 2194
+      "UsersEstimate": 2195
     },
     {
       "ID": "25",
@@ -1356,7 +1361,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2083
+      "UsersEstimate": 2084
     },
     {
       "ID": "26",
@@ -1364,7 +1369,7 @@
       "Name": "Bone Peddler",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 1777
+      "UsersEstimate": 1778
     },
     {
       "ID": "27",
@@ -1410,9 +1415,9 @@
       "ID": "31",
       "SetID": "3aa2279",
       "Name": "Magical Synergy",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 1833
+      "UsersEstimate": 1861
     },
     {
       "ID": "32",
@@ -1420,7 +1425,7 @@
       "Name": "My Final Form",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 1194
+      "UsersEstimate": 1195
     },
     {
       "ID": "33",
@@ -1428,7 +1433,7 @@
       "Name": "Seat of Power",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "34",
@@ -1492,7 +1497,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 1194
+      "UsersEstimate": 1195
     },
     {
       "ID": "41",
@@ -1571,13 +1576,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 2777,
-      "Completed": 2777
+      "Progressed": 2778,
+      "Completed": 2778
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 2777,
+      "Progressed": 2778,
       "Completed": 0
     }
   ],
@@ -1585,8 +1590,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-15T19:58:41.4280533+00:00",
-  "LastChanged_Achievements": "2023-05-19T06:03:39.2613353+00:00",
+  "LastChanged_Achievements": "2023-05-19T07:03:11.946632+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:18.5454373+00:00",
-  "LastUpdate_Ratings": "2023-05-19T05:59:40.9524407+00:00",
-  "LastUpdate_Achievements": "2023-05-19T06:03:39.2613747+00:00"
+  "LastUpdate_Ratings": "2023-05-19T07:00:09.7287182+00:00",
+  "LastUpdate_Achievements": "2023-05-19T07:03:11.9466769+00:00"
 }
