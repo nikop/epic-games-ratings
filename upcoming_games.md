@@ -6,6 +6,7 @@
 | [Sir Whoopass - Immortal Death](games/s/sir_whoopass_-_immortal_death.md) | 2023-05-19 | 2022-08-18 |
 | [The Temple of Archimagus Hatabus](games/3/3b5b3310fcb74963b8d4ec489cd74291.md) | 2023-05-21 | 2023-03-20 |
 | [Amnesia: The Bunker](games/a/amnesia__the_bunker.md) | 2023-05-23 | 2023-05-23 |
+| [Cubzh](games/c/cubzh.md) | 2023-05-23 | 2021-10-24 |
 | [FutureGrind](games/8/80a76982ecc941dd864a8792a03a5ddc.md) | 2023-05-23 | 2019-01-22 |
 | [Planet of Lana](games/p/planet_of_lana.md) | 2023-05-23 | 2023-05-23 |
 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 2023-05-23 | 2023-05-23 |
@@ -63,7 +64,6 @@
 | [Butchers Don't Surf!](games/b/butchers_don't_surf!.md) | 2023-06-30 | 2023-06-30 |
 | [Cook Serve Forever](games/c/cook_serve_forever.md) | 2023-06-30 | 2023-06-30 |
 | [Covid Carl](games/c/covid_carl.md) | 2023-06-30 | 2022-10-25 |
-| [Cubzh](games/c/cubzh.md) | 2023-06-30 | 2021-10-24 |
 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 2023-06-30 | 2019-05-21 |
 | [Hidden Cats in London](games/h/hidden_cats_in_london.md) | 2023-06-30 | 2022-12-15 |
 | [Indies Lies](games/i/indies_lies.md) | 2023-06-30 | 2022-03-31 |
