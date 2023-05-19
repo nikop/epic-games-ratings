@@ -161,7 +161,6 @@
 | [Operation Wolf](games/o/operation_wolf.md) | 2023-12-31 | 2023-12-31 |
 | [Ova Magica](games/o/ova_magica.md) | 2023-12-31 | 2023-12-31 |
 | [Parkour Legends](games/p/parkour_legends.md) | 2023-12-31 | 2023-12-31 |
-| [PHAGEBORN: Online Card Game](games/p/phageborn__online_card_game.md) | 2023-12-31 | 2022-08-11 |
 | [PUGS Agents](games/p/pugs_agents.md) | 2023-12-31 | 2023-12-31 |
 | [RAWMEN: Food Fighter Arena 🍜](games/r/rawmen__food_fighter_arena_🍜.md) | 2023-12-31 | 2023-12-31 |
 | [Ring of Life: Survive in Proxima](games/r/ring_of_life__survive_in_proxima.md) | 2023-12-31 | 2023-12-31 |

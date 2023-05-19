@@ -4,7 +4,7 @@
 | [Alan Wake Remastered](../games/a/alan_wake_remastered.md) | 67 | 1,500 | 2 |
 | [Call of the Wild: The Angler™](../games/c/call_of_the_wild__the_angler™.md) | 35 | 1,200 | 2 |
 | [Cities: Skylines](../games/c/cities__skylines.md) | 119 | 2,580 | 2 |
-| [Crying Suns](../games/c/crying_suns.md) | 65 | 1,000 | 2 |
+| [Crying Suns](../games/c/crying_suns.md) | 79 | 1,160 | 2 |
 | [Dead by Daylight](../games/d/dead_by_daylight.md) | 214 | 5,105 | 2 |
 | [Destiny 2](../games/d/destiny_2.md) | 23 | 1,240 | 2 |
 | [Dying Light 2 Stay Human](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 | 2 |
