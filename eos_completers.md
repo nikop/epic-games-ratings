@@ -8,7 +8,7 @@
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.55% |
 | 7 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 20.00% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 9 | [Island Cities](games/i/island_cities.md) | 14.89% |
+| 9 | [Island Cities](games/i/island_cities.md) | 15.62% |
 | 10 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 14.29% |
 | 11 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.04% |
 | 12 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
@@ -18,8 +18,8 @@
 | 16 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.57% |
 | 17 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 18 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
-| 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.33% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.03% |
+| 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.28% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.02% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 8.00% |
 | 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.79% |
 | 23 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 7.69% |
@@ -33,7 +33,7 @@
 | 31 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.88% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.49% |
-| 34 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.12% |
+| 34 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.11% |
 | 35 | [Doodle God](games/d/doodle_god.md) | 3.92% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.87% |
 | 37 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
@@ -45,24 +45,24 @@
 | 43 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.17% |
 | 44 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.16% |
 | 45 | [HordeCore](games/h/hordecore.md) | 3.03% |
-| 46 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 3.01% |
-| 47 | [ZZT!](games/z/zzt!.md) | 2.99% |
-| 48 | [Lamentum](games/l/lamentum.md) | 2.97% |
-| 49 | [MultiVersus](games/m/multiversus.md) | 2.95% |
-| 50 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.94% |
-| 51 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.90% |
-| 52 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
-| 53 | [Destiny 2](games/d/destiny_2.md) | 2.86% |
-| 54 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.78% |
+| 46 | [ZZT!](games/z/zzt!.md) | 2.98% |
+| 47 | [Lamentum](games/l/lamentum.md) | 2.96% |
+| 48 | [MultiVersus](games/m/multiversus.md) | 2.95% |
+| 49 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 2.92% |
+| 50 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.90% |
+| 51 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
+| 52 | [Destiny 2](games/d/destiny_2.md) | 2.86% |
+| 53 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.78% |
+| 53 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.78% |
 | 55 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 56 | [FORECLOSED](games/f/foreclosed.md) | 2.63% |
 | 56 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.63% |
 | 58 | [JARS](games/j/jars.md) | 2.50% |
 | 58 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 60 | [Iron Danger](games/i/iron_danger.md) | 2.37% |
-| 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.19% |
+| 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.18% |
 | 62 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.10% |
-| 63 | [A Musical Story](games/a/a_musical_story.md) | 1.89% |
+| 63 | [A Musical Story](games/a/a_musical_story.md) | 1.85% |
 | 64 | [Sifu](games/s/sifu.md) | 1.81% |
 | 65 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
 | 66 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.68% |
@@ -85,7 +85,7 @@
 | 83 | [Late Shift](games/l/late_shift.md) | 1.16% |
 | 84 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.15% |
 | 85 | [Ten Dates](games/t/ten_dates.md) | 1.02% |
-| 86 | [Them and Us](games/t/them_and_us.md) | 0.98% |
+| 86 | [Them and Us](games/t/them_and_us.md) | 0.96% |
 | 87 | [Sable](games/s/sable.md) | 0.93% |
 | 88 | [Dungeons 3](games/d/dungeons_3.md) | 0.91% |
 | 89 | [Hades](games/h/hades.md) | 0.90% |
@@ -157,14 +157,14 @@
 | 155 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 156 | [Partisans 1941](games/p/partisans_1941.md) | 0.11% |
 | 156 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
-| 158 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
 | 158 | [House Flipper](games/h/house_flipper.md) | 0.10% |
 | 158 | [Ring of Pain](games/r/ring_of_pain.md) | 0.10% |
 | 158 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.10% |
 | 158 | [Supraland](games/s/supraland.md) | 0.10% |
-| 163 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
-| 163 | [Fall Guys](games/f/fall_guys.md) | 0.09% |
-| 163 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.09% |
+| 162 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.09% |
+| 162 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
+| 162 | [Fall Guys](games/f/fall_guys.md) | 0.09% |
+| 162 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.09% |
 | 166 | [Riverbond](games/r/riverbond.md) | 0.08% |
 | 166 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.08% |
 | 166 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
