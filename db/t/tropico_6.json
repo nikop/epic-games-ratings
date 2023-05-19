@@ -2,7 +2,7 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 259,
+  "Ranking_Rating": 258,
   "Ranking_Popularity": 318,
   "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 132,
@@ -852,9 +852,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 2917,
+  "EOS_Progressed": 2919,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2322,6 +2322,11 @@
       "Time": "2023-05-19T17:05:40.429056+00:00",
       "NumProgressed": 2917,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-19T18:06:16.7194424+00:00",
+      "NumProgressed": 2919,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2429,7 +2434,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 1371
+      "UsersEstimate": 1372
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -2453,7 +2458,7 @@
       "Name": "Number 18",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -2485,7 +2490,7 @@
       "Name": "The Governator",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -2493,7 +2498,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 2275
+      "UsersEstimate": 2277
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -2589,7 +2594,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1458
+      "UsersEstimate": 1460
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -2637,7 +2642,7 @@
       "Name": "French Connection",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -2652,15 +2657,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 2917,
+      "Progressed": 2919,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-15T17:00:44.7999652+00:00",
-  "LastChanged_Achievements": "2023-05-19T17:05:40.4290556+00:00",
+  "LastChanged_Achievements": "2023-05-19T18:06:16.7194419+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:03.9005572+00:00",
-  "LastUpdate_Ratings": "2023-05-19T16:59:32.7024961+00:00",
-  "LastUpdate_Achievements": "2023-05-19T17:05:40.4290853+00:00"
+  "LastUpdate_Ratings": "2023-05-19T18:00:16.6488285+00:00",
+  "LastUpdate_Achievements": "2023-05-19T18:06:16.719478+00:00"
 }

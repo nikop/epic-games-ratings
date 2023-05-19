@@ -6,16 +6,16 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~4,958 |
-| The Journey Begins | 98.00% | ~4,958 |
-| Slaughterhouse 5 (200 times) | 78.00% | ~3,946 |
-| There is No Escape | 71.00% | ~3,592 |
+| Quinceañera Time | 98.00% | ~4,959 |
+| The Journey Begins | 98.00% | ~4,959 |
+| Slaughterhouse 5 (200 times) | 78.00% | ~3,947 |
+| There is No Escape | 71.00% | ~3,593 |
 | Fun, Flirty, and Thirty | 62.00% | ~3,137 |
 | Royal Flush | 62.00% | ~3,137 |
-| Timber! | 60.00% | ~3,035 |
+| Timber! | 60.00% | ~3,036 |
 | Survive the Bombsequences | 59.00% | ~2,985 |
-| Killed 20 Jerks | 53.00% | ~2,681 |
-| Death Defied | 53.00% | ~2,681 |
+| Killed 20 Jerks | 53.00% | ~2,682 |
+| Death Defied | 53.00% | ~2,682 |
 | Fortunate Soul | 49.00% | ~2,479 |
 | Jerk-Slayer | 42.00% | ~2,125 |
 | Employee of the Month | 37.00% | ~1,872 |
@@ -24,14 +24,14 @@ Number of Ratings: 63  (23.09.2022)
 | Fe-Festival | 35.00% | ~1,771 |
 | Top of the Food Chain | 32.00% | ~1,619 |
 | Pardon my Slob | 32.00% | ~1,619 |
-| Humerus Achievement | 31.00% | ~1,568 |
+| Humerus Achievement | 31.00% | ~1,569 |
 | Ghost Facers! | 27.00% | ~1,366 |
-| If It Bleeds, You Can Kill It | 21.00% | ~1,062 |
-| Royal Flush, Again | 19.00% | ~961 |
+| If It Bleeds, You Can Kill It | 21.00% | ~1,063 |
 | Trying To Get Into That 1%, Huh? | 18.00% | ~911 |
 | Can't Touch This | 18.00% | ~911 |
-| Yummy! | 16.00% | ~809 |
-| That Was Quick | 16.00% | ~809 |
+| Royal Flush, Again | 18.00% | ~911 |
+| Yummy! | 16.00% | ~810 |
+| That Was Quick | 16.00% | ~810 |
 | Goldrush Glory Days | 15.00% | ~759 |
 | Best Party Guest | 15.00% | ~759 |
 | Shrub it Off | 15.00% | ~759 |
@@ -56,7 +56,7 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.60% | ~30 |
 | Completionist | 0.50% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,059 (Ranked 122)  
+Progressed: 5,060 (Ranked 122)  
 Completed: 26 (0.51%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 26 (0.51%) (Ranked 106)
 | 2023-05-12 | 5,052 | 26 |
 | 2023-05-14 | 5,053 | 26 |
 | 2023-05-18 | 5,056 | 26 |
-| 2023-05-19 | 5,059 | 26 |
+| 2023-05-19 | 5,060 | 26 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

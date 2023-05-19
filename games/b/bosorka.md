@@ -7,12 +7,12 @@
 | Path of purity | 79.00% | ~57 |
 | A good start | 56.00% | ~40 |
 | Witch's duty | 56.00% | ~40 |
-| Runes collector | 50.00% | ~36 |
-| First time, yes? | 47.00% | ~34 |
-| Kind heart | 44.00% | ~32 |
-| Skilled rider | 42.00% | ~30 |
+| Runes collector | 51.00% | ~37 |
+| First time, yes? | 49.00% | ~35 |
+| Kind heart | 46.00% | ~33 |
+| Skilled rider | 43.00% | ~31 |
 | Devil's dozen | 28.00% | ~20 |
-| It doesn't work like that | 19.00% | ~14 |
+| It doesn't work like that | 21.00% | ~15 |
 | A small victory | 17.00% | ~12 |
 | This is just the beginning... | 14.00% | ~10 |
 | Time is on my side | 11.00% | ~8 |

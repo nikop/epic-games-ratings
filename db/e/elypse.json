@@ -224,9 +224,9 @@
       "ID": "Ach_DiscoveryCaverns",
       "SetID": "4o5gjp0",
       "Name": "The light at the end of the tunnel",
-      "Percentage": 55,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Ach_DiscoveryCelestialIsland",
@@ -304,9 +304,9 @@
       "ID": "Ach_FirstGolem",
       "SetID": "4o5gjp0",
       "Name": "Soft skin",
-      "Percentage": 32,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "Ach_HutLay",
@@ -399,8 +399,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-05-19T17:05:07.9843904+00:00",
+  "LastChanged_Achievements": "2023-05-19T18:05:37.5425344+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:52.2027329+00:00",
-  "LastUpdate_Ratings": "2023-05-19T16:57:40.3183037+00:00",
-  "LastUpdate_Achievements": "2023-05-19T17:05:07.9844201+00:00"
+  "LastUpdate_Ratings": "2023-05-19T17:57:54.1739937+00:00",
+  "LastUpdate_Achievements": "2023-05-19T18:05:37.5425619+00:00"
 }

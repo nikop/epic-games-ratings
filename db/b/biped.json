@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1279,
+  "EOS_Progressed": 1282,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1501,6 +1501,11 @@
       "Time": "2023-05-19T16:05:04.8931072+00:00",
       "NumProgressed": 1279,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T18:05:32.757463+00:00",
+      "NumProgressed": 1282,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -1512,7 +1517,7 @@
       "Name": "First Step",
       "Percentage": 43,
       "XP": 45,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "10",
@@ -1528,7 +1533,7 @@
       "Name": "Telepathic",
       "Percentage": 12,
       "XP": 70,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "12",
@@ -1568,7 +1573,7 @@
       "Name": "Dense Forest",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 460
+      "UsersEstimate": 462
     },
     {
       "ID": "3",
@@ -1576,7 +1581,7 @@
       "Name": "Cactus Vally",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "4",
@@ -1584,7 +1589,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "5",
@@ -1600,7 +1605,7 @@
       "Name": "High Treetops",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "7",
@@ -1631,7 +1636,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 1279,
+      "Progressed": 1282,
       "Completed": 0
     }
   ],
@@ -1639,8 +1644,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-05-19T17:05:03.5873829+00:00",
+  "LastChanged_Achievements": "2023-05-19T18:05:32.7574624+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:57.6922017+00:00",
-  "LastUpdate_Ratings": "2023-05-19T16:57:44.0990553+00:00",
-  "LastUpdate_Achievements": "2023-05-19T17:05:03.5873985+00:00"
+  "LastUpdate_Ratings": "2023-05-19T17:57:58.9907564+00:00",
+  "LastUpdate_Achievements": "2023-05-19T18:05:32.7574848+00:00"
 }

@@ -8,10 +8,10 @@
 | And away we go! | 85.00% | ~133 |
 | Job one. DONE! | 54.00% | ~85 |
 | You are Carol Vorderman | 52.00% | ~82 |
-| Toby foolery | 47.00% | ~74 |
+| Toby foolery | 48.00% | ~75 |
 | Don't fear the baldness | 36.00% | ~57 |
 | Instinct | 34.00% | ~53 |
-| Blow | 29.00% | ~46 |
+| Blow | 30.00% | ~47 |
 | Just like me | 29.00% | ~46 |
 | I bless the rain down in London | 25.00% | ~39 |
 | Brown nosing | 25.00% | ~39 |

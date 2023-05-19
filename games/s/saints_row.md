@@ -6,17 +6,17 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 4.00% | ~1,211 |
-| Optimized | 3.00% | ~908 |
-| To The Nines | 3.00% | ~908 |
-| The Side Job | 2.00% | ~606 |
-| Wet Work | 2.00% | ~606 |
-| Tune Up | 2.00% | ~606 |
-| Landlord | 2.00% | ~606 |
-| Performance Review | 2.00% | ~606 |
-| Wrecking Ball | 2.00% | ~606 |
-| Making a Name | 2.00% | ~606 |
-| Food for Thought | 2.00% | ~606 |
+| First F#@!ing Day | 4.00% | ~1,213 |
+| Optimized | 3.00% | ~910 |
+| To The Nines | 3.00% | ~910 |
+| The Side Job | 2.00% | ~607 |
+| Wet Work | 2.00% | ~607 |
+| Tune Up | 2.00% | ~607 |
+| Landlord | 2.00% | ~607 |
+| Performance Review | 2.00% | ~607 |
+| Wrecking Ball | 2.00% | ~607 |
+| Making a Name | 2.00% | ~607 |
+| Food for Thought | 2.00% | ~607 |
 | Quality Time | 1.00% | ~303 |
 | Finders Keepers | 1.00% | ~303 |
 | Showdown | 1.00% | ~303 |
@@ -27,22 +27,22 @@ Number of Ratings: 22,103  (23.09.2022)
 | Took It to The Limit | 1.00% | ~303 |
 | Picking Fights | 1.00% | ~303 |
 | Kitted Out | 0.90% | ~273 |
-| Masters of Santo Ileso | 0.80% | ~242 |
-| Producer Credit | 0.70% | ~13 |
+| Masters of Santo Ileso | 0.80% | ~243 |
+| Producer Credit | 0.70% | ~14 |
 | Hijacked | 0.60% | ~182 |
 | The Spins | 0.60% | ~182 |
 | The Mechanic | 0.60% | ~182 |
-| Face Off | 0.60% | ~11 |
-| We could go home, or… | 0.50% | ~151 |
-| Challenge Accepted | 0.50% | ~151 |
-| Untouchable | 0.50% | ~151 |
-| A Golden Age | 0.50% | ~151 |
-| Closet Space | 0.50% | ~151 |
+| Face Off | 0.60% | ~12 |
+| We could go home, or… | 0.50% | ~152 |
+| Challenge Accepted | 0.50% | ~152 |
+| Untouchable | 0.50% | ~152 |
+| A Golden Age | 0.50% | ~152 |
+| Closet Space | 0.50% | ~152 |
 | Hazardous Heist | 0.50% | ~10 |
-| The Professional | 0.30% | ~91 |
+| The Professional | 0.40% | ~121 |
+| Neighborly | 0.40% | ~121 |
 | Chaos Tamer | 0.30% | ~91 |
 | Free Refills | 0.30% | ~91 |
-| Neighborly | 0.30% | ~91 |
 | Smooth Moves | 0.30% | ~91 |
 | Tourist | 0.30% | ~91 |
 | Shopping Spree | 0.20% | ~61 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Heard You Like Wheels | 0.10% | ~30 |
 | Fiesta Time | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,278 (Ranked 84)  
+Progressed: 30,337 (Ranked 84)  
 Completed: 19 (0.06%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 19 (0.06%) (Ranked 170)
 | 2023-05-16 | 28,544 | 18 |
 | 2023-05-17 | 28,880 | 18 |
 | 2023-05-18 | 29,461 | 19 |
-| 2023-05-19 | 30,278 | 19 |
+| 2023-05-19 | 30,337 | 19 |
 ## Awards
 Max (Extremely Fun): 1,029  (Ranked 133)  
 Sum: 8,339 (Ranked 88)  

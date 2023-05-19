@@ -4,7 +4,7 @@
   "ProductSlug": "tad-the-lost-explorer-590c8e",
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -260,8 +260,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:53:46.6837063+00:00",
-  "LastChanged_Achievements": "2023-05-19T17:05:38.1315159+00:00",
+  "LastChanged_Achievements": "2023-05-19T18:06:14.0366672+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:23.6901976+00:00",
-  "LastUpdate_Ratings": "2023-05-19T16:59:49.5090586+00:00",
-  "LastUpdate_Achievements": "2023-05-19T17:05:38.131531+00:00"
+  "LastUpdate_Ratings": "2023-05-19T18:00:38.5849443+00:00",
+  "LastUpdate_Achievements": "2023-05-19T18:06:14.036686+00:00"
 }

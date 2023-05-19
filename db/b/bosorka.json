@@ -170,9 +170,9 @@
       "ID": "RUNE_BAT",
       "SetID": "9433p49",
       "Name": "It doesn\u0027t work like that",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 55,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "RUNE_BOOSTDAMAGERANGE",
@@ -210,9 +210,9 @@
       "ID": "RUNE_CURSEDCOMPANIONSHIELD",
       "SetID": "9433p49",
       "Name": "Runes collector",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "RUNE_CURSEDCOMPANIONSPELL",
@@ -226,9 +226,9 @@
       "ID": "RUNE_DROPEXTRAHEART",
       "SetID": "9433p49",
       "Name": "First time, yes?",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 55,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "RUNE_DROPFIRSTAIDKIT",
@@ -250,9 +250,9 @@
       "ID": "RUNE_LIGHTNINGSTUN",
       "SetID": "9433p49",
       "Name": "Skilled rider",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 75,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "RUNE_OVERSTAMINA",
@@ -274,9 +274,9 @@
       "ID": "RUNE_STUNHIT",
       "SetID": "9433p49",
       "Name": "Kind heart",
-      "Percentage": 44,
+      "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
@@ -291,8 +291,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2023-05-19T17:05:10.4279424+00:00",
+  "LastChanged_Achievements": "2023-05-19T18:05:40.4089517+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:29.3226944+00:00",
-  "LastUpdate_Ratings": "2023-05-19T16:57:21.021231+00:00",
-  "LastUpdate_Achievements": "2023-05-19T17:05:10.4279534+00:00"
+  "LastUpdate_Ratings": "2023-05-19T17:57:29.5305225+00:00",
+  "LastUpdate_Achievements": "2023-05-19T18:05:40.408964+00:00"
 }

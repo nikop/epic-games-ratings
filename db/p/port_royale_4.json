@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -554,9 +554,9 @@
       "ID": "ACH012",
       "SetID": "69nfp41",
       "Name": "3, 2, 1, mine",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH013",
@@ -866,8 +866,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
-  "LastChanged_Achievements": "2023-05-19T17:05:19.0876275+00:00",
+  "LastChanged_Achievements": "2023-05-19T18:05:50.7764631+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:24.5882773+00:00",
-  "LastUpdate_Ratings": "2023-05-19T16:58:06.6683265+00:00",
-  "LastUpdate_Achievements": "2023-05-19T17:05:19.0876611+00:00"
+  "LastUpdate_Ratings": "2023-05-19T17:58:26.560624+00:00",
+  "LastUpdate_Achievements": "2023-05-19T18:05:50.7765059+00:00"
 }

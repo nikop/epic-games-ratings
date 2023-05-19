@@ -6,16 +6,16 @@ Rating: 4.41 (Ranked 657)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 2.00% | ~16 |
+| Enemy at the Gates | 1.00% | ~8 |
 | Confirming Suspicions | 1.00% | ~8 |
 | Resourceful | 0.90% | ~7 |
-| Enemy at the Gates | 0.70% | ~6 |
 | Lord of War | 0.70% | ~6 |
 | The Kraken Wakes | 0.70% | ~6 |
 | The Long Game | 0.60% | ~5 |
 | As Quiet as a Mouse | 0.60% | ~5 |
+| It's Starting to Crack | 0.60% | ~5 |
 | Taking it back | 0.60% | ~5 |
 | Organ Grinder | 0.50% | ~4 |
-| It's Starting to Crack | 0.50% | ~4 |
 | Target America | 0.50% | ~4 |
 | The Kraken Sleeps | 0.50% | ~4 |
 | Opposing Force | 0.40% | ~3 |
@@ -36,6 +36,7 @@ Rating: 4.41 (Ranked 657)
 | Last Resort | 0.20% | ~2 |
 | Fields of Glory | 0.10% | ~1 |
 | Rigged to Blow | 0.10% | ~1 |
+| Die Nussknacker Sweet! | 0.10% | ~1 |
 | Der Geist | 0.10% | ~1 |
 | Close Quarters | 0.10% | ~1 |
 | Burn after reading | 0.10% | ~1 |
@@ -58,7 +59,6 @@ Rating: 4.41 (Ranked 657)
 | Set Europe Ablaze | 0.00% | ~0 |
 | Out of Scope | 0.00% | ~0 |
 | My Little Friend | 0.00% | ~0 |
-| Die Nussknacker Sweet! | 0.00% | ~0 |
 | From Paris with Love | 0.00% | ~0 |
 | Souvenir hunter | 0.00% | ~0 |
 | Eagle Eyed | 0.00% | ~0 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 657)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 804 (Ranked 171)  
+Progressed: 807 (Ranked 171)  
 Completed: 2 (0.25%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 2 (0.25%) (Ranked 133)
 | 2023-05-16 | 723 | 2 |
 | 2023-05-17 | 728 | 2 |
 | 2023-05-18 | 743 | 2 |
-| 2023-05-19 | 804 | 2 |
+| 2023-05-19 | 807 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,13 +7,13 @@ Rating: 4.24 (Ranked 789)
 | ---- | ---------- | ----- |
 | Rigged And Ready | 81.00% | ~1,264 |
 | Don't I Know You...? | 77.00% | ~1,202 |
-| Jailbreak | 65.00% | ~1,015 |
+| Jailbreak | 66.00% | ~1,030 |
 | Suited and Booted | 38.00% | ~593 |
 | HEADSHOT! | 37.00% | ~578 |
 | Sleeping With The Fishes | 35.00% | ~546 |
 | Overheated | 30.00% | ~468 |
 | High Performance | 30.00% | ~468 |
-| Powered Up | 28.00% | ~437 |
+| Powered Up | 29.00% | ~453 |
 | Studied The Blade | 25.00% | ~390 |
 | Home Invasion | 23.00% | ~359 |
 | Luminary | 22.00% | ~343 |

@@ -4,10 +4,10 @@
   "ProductSlug": "kerbal-space-program",
   "Ranking_Rating": 79,
   "Ranking_Popularity": 174,
-  "Ranking_PopularitySum": 142,
+  "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-01-05T16:00:00+00:00",
@@ -1708,10 +1708,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 3535,
       "NumberOfAwardsMax": 548
+    },
+    {
+      "Time": "2023-05-19T17:57:12.6468832+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 3545,
+      "NumberOfAwardsMax": 548
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3535,
+  "NumberOfAwards": 3545,
   "NumberOfAwardsMax": 548,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -1731,7 +1737,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 423
+      "Count": 433
     },
     {
       "Text": "This game is Educational",
@@ -1776,8 +1782,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-01-05T18:57:29.6336645+00:00",
   "FirstSeenRating": "2023-01-06T04:57:07.6192793+00:00",
-  "LastChanged": "2023-05-19T15:57:15.5485489+00:00",
+  "LastChanged": "2023-05-19T17:57:12.6468831+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:15.4774468+00:00",
-  "LastUpdate_Ratings": "2023-05-19T16:57:07.6736961+00:00",
-  "LastUpdate_Achievements": "2023-05-19T16:59:59.2802761+00:00"
+  "LastUpdate_Ratings": "2023-05-19T17:57:12.6468836+00:00",
+  "LastUpdate_Achievements": "2023-05-19T18:00:54.238925+00:00"
 }

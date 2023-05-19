@@ -3,8 +3,8 @@
   "Name": "The Light in the Darkness",
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 155,
-  "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_Completed": 21,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1323,
+  "EOS_Progressed": 1326,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 8.01,
+  "EOS_Completed_Percentage": 7.99,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -1323,6 +1323,11 @@
       "Time": "2023-05-19T17:05:24.4278146+00:00",
       "NumProgressed": 1323,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-05-19T18:05:57.3360046+00:00",
+      "NumProgressed": 1326,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 12,
@@ -1334,7 +1339,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "Bernard",
@@ -1358,7 +1363,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "Jacques a Dit",
@@ -1366,7 +1371,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "Jakob",
@@ -1398,7 +1403,7 @@
       "Name": "Little Helper",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -1414,7 +1419,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "Nuremberg Laws",
@@ -1429,7 +1434,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1323,
+      "Progressed": 1326,
       "Completed": 106
     }
   ],
@@ -1437,8 +1442,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-19T17:05:24.4278142+00:00",
+  "LastChanged_Achievements": "2023-05-19T18:05:57.3360039+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:31.0168757+00:00",
-  "LastUpdate_Ratings": "2023-05-19T16:59:04.2528439+00:00",
-  "LastUpdate_Achievements": "2023-05-19T17:05:24.4278285+00:00"
+  "LastUpdate_Ratings": "2023-05-19T17:59:38.3700273+00:00",
+  "LastUpdate_Achievements": "2023-05-19T18:05:57.3360219+00:00"
 }

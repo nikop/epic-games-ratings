@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2669,
+  "EOS_Progressed": 2671,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -969,6 +969,11 @@
       "Time": "2023-05-19T17:05:37.9309109+00:00",
       "NumProgressed": 2669,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-19T18:06:13.808784+00:00",
+      "NumProgressed": 2671,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -996,7 +1001,7 @@
       "Name": "Your Biggest Fans",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "bonus4",
@@ -1028,7 +1033,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2402
+      "UsersEstimate": 2404
     },
     {
       "ID": "campaign10",
@@ -1108,15 +1113,15 @@
       "Name": "An Ally in Need",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "campaign2",
       "SetID": "2h56gn1",
       "Name": "Flanked!",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2135
+      "UsersEstimate": 2110
     },
     {
       "ID": "campaign20",
@@ -1124,7 +1129,7 @@
       "Name": "For the Queen",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "campaign3",
@@ -1132,7 +1137,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1736
     },
     {
       "ID": "campaign4",
@@ -1140,7 +1145,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1281
+      "UsersEstimate": 1282
     },
     {
       "ID": "campaign5",
@@ -1148,7 +1153,7 @@
       "Name": "Clay Fighter",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "campaign6",
@@ -1156,7 +1161,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "campaign7",
@@ -1164,7 +1169,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "campaign8",
@@ -1172,7 +1177,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "campaign9",
@@ -1188,7 +1193,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "scenario2",
@@ -1204,7 +1209,7 @@
       "Name": "Not a Drop Wasted",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "scenario4",
@@ -1243,7 +1248,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2669,
+      "Progressed": 2671,
       "Completed": 9
     }
   ],
@@ -1251,8 +1256,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-19T17:05:37.9309105+00:00",
+  "LastChanged_Achievements": "2023-05-19T18:06:13.8087834+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:07.0051638+00:00",
-  "LastUpdate_Ratings": "2023-05-19T16:59:35.472478+00:00",
-  "LastUpdate_Achievements": "2023-05-19T17:05:37.9309318+00:00"
+  "LastUpdate_Ratings": "2023-05-19T18:00:20.271495+00:00",
+  "LastUpdate_Achievements": "2023-05-19T18:06:13.8088138+00:00"
 }

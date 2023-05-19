@@ -10,9 +10,9 @@
 | Darts Pro | 25.00% | ~1 |
 | Gymnastics Pro | 25.00% | ~1 |
 | Pole Vault Pro | 25.00% | ~1 |
+| Watched a movie | 25.00% | ~1 |
 | Diving Pro | 0.00% | ~0 |
 | Trampolining Pro | 0.00% | ~0 |
-| Watched a movie | 0.00% | ~0 |
 | Crown | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4 (Ranked 354)  

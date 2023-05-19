@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 856,
+  "EOS_Progressed": 858,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -233,6 +233,11 @@
       "Time": "2023-05-18T21:06:58.599045+00:00",
       "NumProgressed": 856,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T18:06:04.0470336+00:00",
+      "NumProgressed": 858,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -250,9 +255,9 @@
       "ID": "02",
       "SetID": "73ikgfc",
       "Name": "Way of the Warlord",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 26
     },
     {
       "ID": "03",
@@ -276,7 +281,7 @@
       "Name": "The First Step",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "06",
@@ -284,7 +289,7 @@
       "Name": "First Blood",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 556
+      "UsersEstimate": 558
     },
     {
       "ID": "07",
@@ -292,15 +297,15 @@
       "Name": "Monster Hunter",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "08",
       "SetID": "73ikgfc",
       "Name": "Monster Slayer",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 257
+      "UsersEstimate": 249
     },
     {
       "ID": "09",
@@ -316,7 +321,7 @@
       "Name": "Huntmaster",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "11",
@@ -354,7 +359,7 @@
       "ID": "15",
       "SetID": "73ikgfc",
       "Name": "Lean on Me",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -372,7 +377,7 @@
       "Name": "Ready to Learn",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 539
+      "UsersEstimate": 541
     },
     {
       "ID": "18",
@@ -380,7 +385,7 @@
       "Name": "Earning Trust",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "19",
@@ -388,7 +393,7 @@
       "Name": "Broken Oath",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "20",
@@ -396,7 +401,7 @@
       "Name": "Digging Deep",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "21",
@@ -427,7 +432,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 856,
+      "Progressed": 858,
       "Completed": 0
     }
   ],
@@ -435,8 +440,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-05-19T17:05:29.8088208+00:00",
+  "LastChanged_Achievements": "2023-05-19T18:06:04.0470331+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:35.0665614+00:00",
-  "LastUpdate_Ratings": "2023-05-19T16:59:10.4835952+00:00",
-  "LastUpdate_Achievements": "2023-05-19T17:05:29.8088335+00:00"
+  "LastUpdate_Ratings": "2023-05-19T17:59:45.8671216+00:00",
+  "LastUpdate_Achievements": "2023-05-19T18:06:04.0470481+00:00"
 }

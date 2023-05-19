@@ -6,19 +6,19 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~403,989 |
+| Found a Friend | 95.00% | ~403,990 |
 | Haikyo | 80.00% | ~340,202 |
-| Good as New | 72.00% | ~306,181 |
-| Into the Woods | 69.00% | ~293,424 |
-| Hunter in the Forest | 60.00% | ~255,151 |
+| Good as New | 72.00% | ~306,182 |
+| Into the Woods | 69.00% | ~293,425 |
+| Hunter in the Forest | 60.00% | ~255,152 |
 | Rot Commander | 59.00% | ~250,899 |
 | Taro's Fear | 55.00% | ~233,889 |
 | Between the Eyes | 46.00% | ~195,616 |
-| Taro's Love | 45.00% | ~191,363 |
-| Taro's Regret | 43.00% | ~182,858 |
+| Taro's Love | 45.00% | ~191,364 |
+| Taro's Regret | 43.00% | ~182,859 |
 | Spirit Guide | 42.00% | ~178,606 |
 | Harness Your Power | 38.00% | ~161,596 |
-| The Open Range | 37.00% | ~157,343 |
+| The Open Range | 37.00% | ~157,344 |
 | Adira's Love | 33.00% | ~140,333 |
 | Adira's Fear | 32.00% | ~136,081 |
 | Weigh Them Down | 31.00% | ~131,828 |
@@ -32,7 +32,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Toshi's Love | 26.00% | ~110,566 |
 | A Leader Walks Alone | 25.00% | ~106,313 |
 | The Lonely Path | 25.00% | ~106,313 |
-| Restore Balance | 24.00% | ~102,060 |
+| Restore Balance | 24.00% | ~102,061 |
 | Say Cheese | 16.00% | ~68,040 |
 | Skillful Spirit Guide | 15.00% | ~63,788 |
 | Piercing Blow | 13.00% | ~55,283 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,827 |
 | Master Spirit Guide | 0.30% | ~1,276 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 425,252 (Ranked 32)  
+Progressed: 425,253 (Ranked 32)  
 Completed: 501 (0.12%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 501 (0.12%) (Ranked 155)
 | 2023-05-16 | 425,182 | 501 |
 | 2023-05-17 | 425,202 | 501 |
 | 2023-05-18 | 425,226 | 501 |
-| 2023-05-19 | 425,252 | 501 |
+| 2023-05-19 | 425,253 | 501 |
 ## Awards
 Max (Great Boss Battles): 1,296  (Ranked 119)  
 Sum: 1,667 (Ranked 198)  

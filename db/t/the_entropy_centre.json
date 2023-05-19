@@ -4,7 +4,7 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 85,
+  "EOS_Progressed": 86,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -83,6 +83,11 @@
       "Time": "2023-05-19T16:05:08.9172894+00:00",
       "NumProgressed": 85,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T18:05:37.6097736+00:00",
+      "NumProgressed": 86,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -92,7 +97,7 @@
       "ID": "ACH_ACT1",
       "SetID": "2310cb1",
       "Name": "Wake Up",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 30,
       "UsersEstimate": 70
     },
@@ -156,7 +161,7 @@
       "ID": "ACH_ACT2",
       "SetID": "2310cb1",
       "Name": "Time Gates",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 30,
       "UsersEstimate": 52
     },
@@ -188,7 +193,7 @@
       "ID": "ACH_ACT6",
       "SetID": "2310cb1",
       "Name": "48 Attempts",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
       "UsersEstimate": 32
     },
@@ -268,7 +273,7 @@
       "ID": "ACH_LOOPER",
       "SetID": "2310cb1",
       "Name": "Looper",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 90,
       "UsersEstimate": 9
     },
@@ -284,7 +289,7 @@
       "ID": "ACH_REWINDTIME",
       "SetID": "2310cb1",
       "Name": "It\u0027s Rewind Time",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 15,
       "UsersEstimate": 76
     },
@@ -292,7 +297,7 @@
       "ID": "ACH_SUMMERLOVE",
       "SetID": "2310cb1",
       "Name": "Summer Luvin\u0027",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -309,7 +314,7 @@
     {
       "ID": "2310cb1",
       "IsBase": true,
-      "Progressed": 85,
+      "Progressed": 86,
       "Completed": 0
     }
   ],
@@ -317,8 +322,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-05-19T17:05:07.9887278+00:00",
+  "LastChanged_Achievements": "2023-05-19T18:05:37.6097728+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:22.3451244+00:00",
-  "LastUpdate_Ratings": "2023-05-19T16:57:14.0445192+00:00",
-  "LastUpdate_Achievements": "2023-05-19T17:05:07.9887411+00:00"
+  "LastUpdate_Ratings": "2023-05-19T17:57:20.7467525+00:00",
+  "LastUpdate_Achievements": "2023-05-19T18:05:37.6097906+00:00"
 }

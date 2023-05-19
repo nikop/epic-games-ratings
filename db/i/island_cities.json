@@ -3,7 +3,7 @@
   "Name": "Island Cities",
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 255,
-  "Ranking_EOS_Completed": 9,
+  "Ranking_EOS_Completed": 8,
   "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 35,
   "Store": {
@@ -499,41 +499,41 @@
       "ID": "LEVEL_005",
       "SetID": "3khpmem",
       "Name": "Bridges to come and go",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 35,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "LEVEL_006",
       "SetID": "3khpmem",
       "Name": "Found an oasis",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 35,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "LEVEL_007",
       "SetID": "3khpmem",
       "Name": "Burger or pizza?",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 35,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "LEVEL_008",
       "SetID": "3khpmem",
       "Name": "Passion for sports",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "LEVEL_009",
       "SetID": "3khpmem",
       "Name": "Who loves trains?",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "LEVEL_010",
@@ -652,8 +652,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-19T17:05:07.355729+00:00",
+  "LastChanged_Achievements": "2023-05-19T18:05:37.0284761+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:57.1366152+00:00",
-  "LastUpdate_Ratings": "2023-05-19T16:57:44.1978837+00:00",
-  "LastUpdate_Achievements": "2023-05-19T17:05:07.3557434+00:00"
+  "LastUpdate_Ratings": "2023-05-19T17:57:59.1035066+00:00",
+  "LastUpdate_Achievements": "2023-05-19T18:05:37.028492+00:00"
 }

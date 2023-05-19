@@ -538,9 +538,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 458456,
+  "EOS_Progressed": 458460,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 679,
+  "EOS_NewPlayers": 682,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3158,6 +3158,11 @@
       "Time": "2023-05-19T17:05:31.2116217+00:00",
       "NumProgressed": 458456,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-19T18:06:05.7219016+00:00",
+      "NumProgressed": 458460,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 79,
@@ -3647,9 +3652,9 @@
       "ID": "achievement_win_run_with_church",
       "SetID": "8cokdon",
       "Name": "Jericho Rule",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_win_run_with_kb",
@@ -3800,21 +3805,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 2390,
+      "Progressed": 2394,
       "Completed": 2346
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 458456,
+      "Progressed": 458460,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-19T17:05:31.2116211+00:00",
+  "LastChanged_Achievements": "2023-05-19T18:06:05.7219011+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:09.480967+00:00",
-  "LastUpdate_Ratings": "2023-05-19T16:58:46.699843+00:00",
-  "LastUpdate_Achievements": "2023-05-19T17:05:31.2116955+00:00"
+  "LastUpdate_Ratings": "2023-05-19T17:59:16.0305845+00:00",
+  "LastUpdate_Achievements": "2023-05-19T18:06:05.7219976+00:00"
 }

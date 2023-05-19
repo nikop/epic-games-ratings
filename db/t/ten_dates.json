@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 196,
+  "EOS_Progressed": 197,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -83,6 +83,11 @@
       "Time": "2023-05-19T07:05:43.4435174+00:00",
       "NumProgressed": 196,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-19T18:05:31.5034178+00:00",
+      "NumProgressed": 197,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -134,7 +139,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ryan_date2_all",
@@ -204,25 +209,25 @@
       "ID": "success_kathleen",
       "SetID": "6h5h9ho",
       "Name": "The intellectual",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 55
+      "UsersEstimate": 53
     },
     {
       "ID": "success_lucas",
       "SetID": "6h5h9ho",
       "Name": "The techie",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "success_toni",
       "SetID": "6h5h9ho",
       "Name": "The athlete",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 51
+      "UsersEstimate": 49
     },
     {
       "ID": "success_ty",
@@ -245,7 +250,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 196,
+      "Progressed": 197,
       "Completed": 2
     }
   ],
@@ -253,8 +258,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-05-19T17:05:02.4833983+00:00",
+  "LastChanged_Achievements": "2023-05-19T18:05:31.5034171+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:22.1343656+00:00",
-  "LastUpdate_Ratings": "2023-05-19T16:57:14.5750869+00:00",
-  "LastUpdate_Achievements": "2023-05-19T17:05:02.4834098+00:00"
+  "LastUpdate_Ratings": "2023-05-19T17:57:21.2282584+00:00",
+  "LastUpdate_Achievements": "2023-05-19T18:05:31.5034318+00:00"
 }
