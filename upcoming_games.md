@@ -50,7 +50,6 @@
 | [Rise of Jericho](games/r/rise_of_jericho.md) | 2023-06-09 | 2023-06-09 |
 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 2023-06-09 | 2022-09-19 |
 | [Suicide Guy](games/7/7d9cb4fa8c4b488d86c7e9dec37318d5.md) | 2023-06-14 | 2017-06-14 |
-| [Layers of Fear](games/l/layers_of_fear.md) | 2023-06-15 | 2023-06-30 |
 | [F1® 23 Standard Edition](games/f/f1®_23_standard_edition.md) | 2023-06-16 | 2023-06-16 |
 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 2023-06-20 | 2023-06-20 |
 | [Reverie - Sweet As Edition](games/r/reverie_-_sweet_as_edition.md) | 2023-06-28 | 2023-06-30 |
@@ -67,6 +66,7 @@
 | [Indies Lies](games/i/indies_lies.md) | 2023-06-30 | 2022-03-31 |
 | [Iron Dungeon](games/i/iron_dungeon.md) | 2023-06-30 | 2023-06-30 |
 | [Klang 2](games/k/klang_2.md) | 2023-06-30 | 2021-10-20 |
+| [Layers of Fear](games/l/layers_of_fear.md) | 2023-06-30 | 2023-06-30 |
 | [Millennium Conflict](games/m/millennium_conflict.md) | 2023-06-30 | 2023-06-30 |
 | [MUSYNX](games/7/739d0f3d53054b29befc2753d58c7045.md) | 2023-06-30 | 2018-12-04 |
 | [My Demon Wife](games/m/my_demon_wife.md) | 2023-06-30 | 2023-12-31 |

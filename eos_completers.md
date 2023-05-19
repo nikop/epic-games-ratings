@@ -7,7 +7,7 @@
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 21.21% |
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.55% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 8 | [Island Cities](games/i/island_cities.md) | 15.56% |
+| 8 | [Island Cities](games/i/island_cities.md) | 15.38% |
 | 9 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 14.29% |
 | 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.04% |
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
@@ -23,16 +23,16 @@
 | 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 7.69% |
 | 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.65% |
 | 23 | [Scorn](games/s/scorn.md) | 7.02% |
-| 24 | [Ravenlok](games/r/ravenlok.md) | 6.56% |
+| 24 | [Ravenlok](games/r/ravenlok.md) | 6.55% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 26 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.10% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
 | 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.00% |
-| 28 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.00% |
-| 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.97% |
+| 29 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.97% |
+| 30 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.88% |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 32 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.49% |
-| 33 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.13% |
+| 33 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.12% |
 | 34 | [Doodle God](games/d/doodle_god.md) | 3.92% |
 | 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.87% |
 | 36 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
@@ -44,10 +44,10 @@
 | 42 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.17% |
 | 43 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.16% |
 | 44 | [HordeCore](games/h/hordecore.md) | 3.03% |
-| 44 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 3.03% |
-| 46 | [ZZT!](games/z/zzt!.md) | 2.99% |
-| 47 | [Lamentum](games/l/lamentum.md) | 2.97% |
-| 48 | [MultiVersus](games/m/multiversus.md) | 2.95% |
+| 45 | [ZZT!](games/z/zzt!.md) | 2.99% |
+| 46 | [Lamentum](games/l/lamentum.md) | 2.97% |
+| 47 | [MultiVersus](games/m/multiversus.md) | 2.95% |
+| 48 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.94% |
 | 49 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.90% |
 | 50 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
 | 51 | [Destiny 2](games/d/destiny_2.md) | 2.86% |
@@ -68,8 +68,8 @@
 | 66 | [Night Book](games/n/night_book.md) | 1.66% |
 | 67 | [Somerville](games/s/somerville.md) | 1.61% |
 | 68 | [Frogun](games/f/frogun.md) | 1.55% |
-| 68 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 1.55% |
-| 70 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.54% |
+| 69 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.54% |
+| 69 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 1.54% |
 | 71 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.47% |
 | 73 | [Bloodshore](games/b/bloodshore.md) | 1.39% |
@@ -131,10 +131,10 @@
 | 128 | [Despot's Game](games/d/despot's_game.md) | 0.28% |
 | 130 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
 | 131 | [Dead Island 2](games/d/dead_island_2.md) | 0.26% |
-| 131 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.26% |
 | 131 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.26% |
-| 134 | [Circus Electrique](games/c/circus_electrique.md) | 0.25% |
-| 134 | [Wildermyth](games/w/wildermyth.md) | 0.25% |
+| 133 | [Circus Electrique](games/c/circus_electrique.md) | 0.25% |
+| 133 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.25% |
+| 133 | [Wildermyth](games/w/wildermyth.md) | 0.25% |
 | 136 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
 | 137 | [Blanc](games/b/blanc.md) | 0.22% |
 | 137 | [Filament](games/f/filament.md) | 0.22% |
