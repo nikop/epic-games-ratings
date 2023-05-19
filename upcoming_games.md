@@ -63,7 +63,6 @@
 | [Butchers Don't Surf!](games/b/butchers_don't_surf!.md) | 2023-06-30 | 2023-06-30 |
 | [Cook Serve Forever](games/c/cook_serve_forever.md) | 2023-06-30 | 2023-06-30 |
 | [Covid Carl](games/c/covid_carl.md) | 2023-06-30 | 2022-10-25 |
-| [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 2023-06-30 | 2019-05-21 |
 | [Hidden Cats in London](games/h/hidden_cats_in_london.md) | 2023-06-30 | 2022-12-15 |
 | [Indies Lies](games/i/indies_lies.md) | 2023-06-30 | 2022-03-31 |
 | [Iron Dungeon](games/i/iron_dungeon.md) | 2023-06-30 | 2023-06-30 |

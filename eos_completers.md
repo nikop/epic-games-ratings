@@ -7,25 +7,25 @@
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 21.88% |
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.55% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 8 | [Island Cities](games/i/island_cities.md) | 16.09% |
-| 9 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 15.38% |
+| 8 | [Island Cities](games/i/island_cities.md) | 15.56% |
+| 9 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 14.29% |
 | 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.04% |
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
 | 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.03% |
-| 13 | [Remains](games/r/remains.md) | 10.71% |
+| 13 | [Remains](games/r/remains.md) | 10.34% |
 | 14 | [Smelter](games/s/smelter.md) | 9.68% |
 | 15 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.57% |
 | 16 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 18 | [Out of Bounds](games/o/out_of_bounds.md) | 8.00% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.90% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.97% |
 | 20 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 7.69% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.69% |
 | 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.66% |
 | 23 | [Scorn](games/s/scorn.md) | 7.02% |
-| 24 | [Ravenlok](games/r/ravenlok.md) | 6.57% |
+| 24 | [Ravenlok](games/r/ravenlok.md) | 6.56% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
-| 26 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.13% |
+| 26 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.10% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
 | 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.00% |
 | 28 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.00% |
@@ -40,11 +40,11 @@
 | 38 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.42% |
 | 39 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.33% |
 | 39 | [The Bunker](games/t/the_bunker.md) | 3.33% |
-| 41 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.28% |
+| 41 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.23% |
 | 42 | [Monster Harvest](games/m/monster_harvest.md) | 3.18% |
 | 43 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.16% |
-| 44 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 3.12% |
-| 45 | [HordeCore](games/h/hordecore.md) | 3.03% |
+| 44 | [HordeCore](games/h/hordecore.md) | 3.03% |
+| 44 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 3.03% |
 | 46 | [ZZT!](games/z/zzt!.md) | 2.99% |
 | 47 | [Lamentum](games/l/lamentum.md) | 2.97% |
 | 48 | [MultiVersus](games/m/multiversus.md) | 2.95% |
@@ -67,7 +67,7 @@
 | 65 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
 | 66 | [Night Book](games/n/night_book.md) | 1.66% |
 | 67 | [Somerville](games/s/somerville.md) | 1.61% |
-| 68 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 1.57% |
+| 68 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 1.56% |
 | 69 | [Frogun](games/f/frogun.md) | 1.55% |
 | 70 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.54% |
 | 71 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
@@ -79,12 +79,12 @@
 | 77 | [Trifox](games/t/trifox.md) | 1.28% |
 | 78 | [Chorus](games/c/chorus.md) | 1.27% |
 | 78 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.27% |
-| 78 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.27% |
+| 80 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.26% |
 | 81 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.21% |
 | 82 | [Late Shift](games/l/late_shift.md) | 1.16% |
 | 83 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.15% |
 | 84 | [Ten Dates](games/t/ten_dates.md) | 1.02% |
-| 85 | [Them and Us](games/t/them_and_us.md) | 1.00% |
+| 85 | [Them and Us](games/t/them_and_us.md) | 0.99% |
 | 86 | [Sable](games/s/sable.md) | 0.93% |
 | 87 | [Dungeons 3](games/d/dungeons_3.md) | 0.91% |
 | 88 | [Hades](games/h/hades.md) | 0.90% |
@@ -116,8 +116,8 @@
 | 114 | [Tchia](games/t/tchia.md) | 0.38% |
 | 115 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 116 | [Godlike Burger](games/g/godlike_burger.md) | 0.36% |
-| 116 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
-| 118 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.35% |
+| 117 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.35% |
+| 117 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.35% |
 | 119 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.34% |
 | 119 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.34% |
 | 121 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
