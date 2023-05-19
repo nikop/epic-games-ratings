@@ -1,5 +1,7 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
+| [Quantum Storm](games/q/quantum_storm.md) | 2023-05-19 | 2023-05-19 |
+| [Timothy vs the Aliens](games/8/8b24875aea504fdc8032dff4fcdf31d4.md) | 2023-05-19 | 2021-07-21 |
 | [PHAGEBORN: Online Card Game](games/p/phageborn__online_card_game.md) | 2023-05-19 | 2022-08-11 |
 | [FPVSIM FPV Simulator](games/a/acb4a47d0bae433e8d721807c5849b99.md) | 2023-05-19 | 2023-05-19 |
 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 2023-05-19 | 2022-02-03 |
@@ -170,4 +172,3 @@
 | [Outer Terror](games/o/outer_terror.md) | 2023-04-20 | 2023-04-20 |
 | [Fortune Follow: The Mansion](games/f/fortune_follow__the_mansion.md) | 2023-04-20 | 2023-04-20 |
 | [RichBroker](games/r/richbroker.md) | 2023-04-19 | 2022-11-02 |
-| [Lamoneo](games/l/lamoneo.md) | 2023-04-19 | 2022-05-25 |
