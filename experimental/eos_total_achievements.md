@@ -243,6 +243,7 @@
 | [Tails of Iron](../games/t/tails_of_iron.md) | 30 | 1,000 |
 | [Terraforming Mars](../games/t/terraforming_mars.md) | 30 | 1,000 |
 | [Terror of Hemasaurus](../games/t/terror_of_hemasaurus.md) | 30 | 1,000 |
+| [World of Contraptions](../games/w/world_of_contraptions.md) | 30 | 1,000 |
 | [Zoeti](../games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 30 | 1,000 |
 | [A Tale of Paper: Refolded](../games/a/a_tale_of_paper__refolded.md) | 29 | 1,000 |
 | [Airoheart](../games/a/airoheart.md) | 29 | 1,000 |

@@ -7,28 +7,28 @@
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 21.21% |
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.55% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 8 | [Island Cities](games/i/island_cities.md) | 15.38% |
+| 8 | [Island Cities](games/i/island_cities.md) | 15.05% |
 | 9 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 14.29% |
 | 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.04% |
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
-| 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.03% |
+| 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.08% |
 | 13 | [Remains](games/r/remains.md) | 10.34% |
-| 14 | [Smelter](games/s/smelter.md) | 9.68% |
+| 14 | [Smelter](games/s/smelter.md) | 9.38% |
 | 15 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.57% |
 | 16 | [Time Loader](games/t/time_loader.md) | 8.42% |
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.33% |
-| 19 | [Out of Bounds](games/o/out_of_bounds.md) | 8.00% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.97% |
-| 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 7.69% |
-| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.65% |
-| 23 | [Scorn](games/s/scorn.md) | 7.02% |
-| 24 | [Ravenlok](games/r/ravenlok.md) | 6.55% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 8.04% |
+| 20 | [Out of Bounds](games/o/out_of_bounds.md) | 8.00% |
+| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.79% |
+| 22 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 7.69% |
+| 23 | [Scorn](games/s/scorn.md) | 7.01% |
+| 24 | [Ravenlok](games/r/ravenlok.md) | 6.54% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
-| 26 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.10% |
+| 26 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.06% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
-| 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.00% |
-| 29 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.97% |
+| 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.97% |
+| 28 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.97% |
 | 30 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.88% |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 32 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.49% |
@@ -58,33 +58,33 @@
 | 56 | [JARS](games/j/jars.md) | 2.50% |
 | 56 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [Iron Danger](games/i/iron_danger.md) | 2.37% |
-| 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.19% |
-| 60 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.10% |
-| 61 | [A Musical Story](games/a/a_musical_story.md) | 1.89% |
-| 62 | [Sifu](games/s/sifu.md) | 1.81% |
-| 63 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
-| 64 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.68% |
-| 65 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
-| 66 | [Night Book](games/n/night_book.md) | 1.66% |
-| 67 | [Somerville](games/s/somerville.md) | 1.61% |
-| 68 | [Frogun](games/f/frogun.md) | 1.55% |
-| 69 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.54% |
-| 69 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 1.54% |
+| 59 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 2.27% |
+| 60 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.19% |
+| 61 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.10% |
+| 62 | [A Musical Story](games/a/a_musical_story.md) | 1.89% |
+| 63 | [Sifu](games/s/sifu.md) | 1.81% |
+| 64 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
+| 65 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.68% |
+| 66 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
+| 67 | [Night Book](games/n/night_book.md) | 1.66% |
+| 68 | [Somerville](games/s/somerville.md) | 1.61% |
+| 69 | [Frogun](games/f/frogun.md) | 1.55% |
+| 70 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.54% |
 | 71 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.47% |
 | 73 | [Bloodshore](games/b/bloodshore.md) | 1.39% |
-| 74 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.35% |
+| 74 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.33% |
 | 75 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
 | 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.29% |
 | 77 | [Trifox](games/t/trifox.md) | 1.28% |
 | 78 | [Chorus](games/c/chorus.md) | 1.27% |
-| 78 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.27% |
-| 80 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.26% |
+| 79 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.26% |
+| 79 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.26% |
 | 81 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.21% |
 | 82 | [Late Shift](games/l/late_shift.md) | 1.16% |
 | 83 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.15% |
 | 84 | [Ten Dates](games/t/ten_dates.md) | 1.02% |
-| 85 | [Them and Us](games/t/them_and_us.md) | 0.99% |
+| 85 | [Them and Us](games/t/them_and_us.md) | 0.98% |
 | 86 | [Sable](games/s/sable.md) | 0.93% |
 | 87 | [Dungeons 3](games/d/dungeons_3.md) | 0.91% |
 | 88 | [Hades](games/h/hades.md) | 0.90% |
@@ -92,7 +92,7 @@
 | 89 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.88% |
 | 91 | [Five Dates](games/f/five_dates.md) | 0.84% |
 | 91 | [Lemon Cake](games/l/lemon_cake.md) | 0.84% |
-| 93 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.83% |
+| 93 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.82% |
 | 94 | [Adios](games/a/adios.md) | 0.81% |
 | 95 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
 | 96 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
