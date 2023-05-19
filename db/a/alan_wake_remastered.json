@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46259,
+  "EOS_Progressed": 46262,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1811,6 +1811,11 @@
       "Time": "2023-05-19T02:05:45.7108787+00:00",
       "NumProgressed": 46259,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-19T03:05:26.7149622+00:00",
+      "NumProgressed": 46262,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 67,
@@ -1854,7 +1859,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5088
+      "UsersEstimate": 5089
     },
     {
       "ID": "06",
@@ -1862,7 +1867,7 @@
       "Name": "Park Ranger",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4163
+      "UsersEstimate": 4164
     },
     {
       "ID": "07",
@@ -2062,15 +2067,15 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4163
+      "UsersEstimate": 4164
     },
     {
       "ID": "32",
       "SetID": "212770e",
       "Name": "Float Like a Butterfly",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 6939
+      "UsersEstimate": 7402
     },
     {
       "ID": "33",
@@ -2094,7 +2099,7 @@
       "Name": "Let There Be Light",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7401
+      "UsersEstimate": 7402
     },
     {
       "ID": "36",
@@ -2142,7 +2147,7 @@
       "Name": "Finders Keepers",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4163
+      "UsersEstimate": 4164
     },
     {
       "ID": "42",
@@ -2158,7 +2163,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 4163
+      "UsersEstimate": 4164
     },
     {
       "ID": "44",
@@ -2357,21 +2362,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46259,
+      "Progressed": 46262,
       "Completed": 44
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9727,
+      "Progressed": 9730,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-19T02:05:45.7108781+00:00",
+  "LastChanged_Achievements": "2023-05-19T03:05:26.7149618+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:33.6043799+00:00",
-  "LastUpdate_Ratings": "2023-05-19T01:57:53.2133191+00:00",
-  "LastUpdate_Achievements": "2023-05-19T02:05:45.7109744+00:00"
+  "LastUpdate_Ratings": "2023-05-19T02:57:30.0572339+00:00",
+  "LastUpdate_Achievements": "2023-05-19T03:05:26.7150176+00:00"
 }

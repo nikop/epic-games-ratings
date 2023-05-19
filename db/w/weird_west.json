@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -618,9 +618,9 @@
       "ID": "ACH_HERE_COMES_SANTA_CLAUS",
       "SetID": "8j30i9k",
       "Name": "Here Comes Santa Claus",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 227
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH_IT_ALL_DIES",
@@ -930,8 +930,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-04-18T11:59:25.595754+00:00",
-  "LastChanged_Achievements": "2023-05-19T02:05:43.6366115+00:00",
+  "LastChanged_Achievements": "2023-05-19T03:05:24.5973423+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:23.6187843+00:00",
-  "LastUpdate_Ratings": "2023-05-19T01:58:46.4619171+00:00",
-  "LastUpdate_Achievements": "2023-05-19T02:05:43.6366642+00:00"
+  "LastUpdate_Ratings": "2023-05-19T02:58:19.3965252+00:00",
+  "LastUpdate_Achievements": "2023-05-19T03:05:24.5973757+00:00"
 }

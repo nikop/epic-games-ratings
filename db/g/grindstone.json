@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -204,9 +204,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5056,
+  "EOS_Progressed": 5057,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -274,6 +274,11 @@
       "Time": "2023-05-18T20:07:29.4022935+00:00",
       "NumProgressed": 5056,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-19T03:05:50.4057071+00:00",
+      "NumProgressed": 5057,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 49,
@@ -333,15 +338,15 @@
       "Name": "Goldrush Glory Days",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "ACHIEVE_50_GUTS",
       "SetID": "b8l3p0g",
       "Name": "Jerk-Slayer",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 2174
+      "UsersEstimate": 2124
     },
     {
       "ID": "ACHIEVE_50_ICE",
@@ -349,7 +354,7 @@
       "Name": "Best Party Guest",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "ACHIEVE_50_IRON",
@@ -413,7 +418,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 4955
+      "UsersEstimate": 4956
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -461,7 +466,7 @@
       "Name": "Fortunate Soul",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2477
+      "UsersEstimate": 2478
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -475,9 +480,9 @@
       "ID": "ACHIEVE_JERK_ATTACK_JERK",
       "SetID": "b8l3p0g",
       "Name": "Stop Hitting Each Other",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 657
+      "UsersEstimate": 607
     },
     {
       "ID": "ACHIEVE_JERK_POISON_DEATH",
@@ -515,9 +520,9 @@
       "ID": "ACHIEVE_KILL_JERKS_200",
       "SetID": "b8l3p0g",
       "Name": "Ultimate Jerk",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 657
+      "UsersEstimate": 607
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_5",
@@ -557,7 +562,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 2983
+      "UsersEstimate": 2984
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -573,7 +578,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 4955
+      "UsersEstimate": 4956
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -581,7 +586,7 @@
       "Name": "Humerus Achievement",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1567
+      "UsersEstimate": 1568
     },
     {
       "ID": "ACHIEVE_LVL_60_COMPLETE",
@@ -589,7 +594,7 @@
       "Name": "Shrub it Off",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "ACHIEVE_LVL_90_COMPLETE",
@@ -676,15 +681,15 @@
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5056,
+      "Progressed": 5057,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-04-17T23:58:07.4922283+00:00",
-  "LastChanged_Achievements": "2023-05-19T02:06:09.6259659+00:00",
+  "LastChanged_Achievements": "2023-05-19T03:05:50.4057068+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:55.926984+00:00",
-  "LastUpdate_Ratings": "2023-05-19T02:00:15.1919794+00:00",
-  "LastUpdate_Achievements": "2023-05-19T02:06:09.6260132+00:00"
+  "LastUpdate_Ratings": "2023-05-19T02:59:52.5107819+00:00",
+  "LastUpdate_Achievements": "2023-05-19T03:05:50.4057415+00:00"
 }

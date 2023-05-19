@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 66.00% | ~64 |
-| Forced to Kill | 66.00% | ~64 |
+| Alone with Them | 66.00% | ~65 |
+| Forced to Kill | 66.00% | ~65 |
 | A Night To Remember | 31.00% | ~30 |
-| Safe...For now? | 25.00% | ~24 |
-| Open Sesame | 19.00% | ~18 |
+| Safe...For now? | 24.00% | ~24 |
+| Open Sesame | 18.00% | ~18 |
 | What have I done!? | 10.00% | ~10 |
 | Them and Us | 9.00% | ~9 |
 | OUTRAGE | 9.00% | ~9 |
@@ -45,8 +45,8 @@
 | The 5th Element | 1.00% | ~1 |
 | This Mansion Is Clean | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97 (Ranked 254)  
-Completed: 1 (1.03%) (Ranked 84)  
+Progressed: 98 (Ranked 254)  
+Completed: 1 (1.02%) (Ranked 85)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -59,7 +59,7 @@ Completed: 1 (1.03%) (Ranked 84)
 | 2023-05-16 | 77 | 1 |
 | 2023-05-17 | 84 | 1 |
 | 2023-05-18 | 95 | 1 |
-| 2023-05-19 | 97 | 1 |
+| 2023-05-19 | 98 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

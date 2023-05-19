@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -2193,10 +2193,10 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 521344,
+  "EOS_Progressed": 521345,
   "EOS_Completed": 1412,
-  "EOS_NewPlayers": 754,
-  "EOS_NewCompleters": 8,
+  "EOS_NewPlayers": 750,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
@@ -4898,6 +4898,11 @@
       "Time": "2023-05-19T02:05:50.3904501+00:00",
       "NumProgressed": 521344,
       "NumCompleted": 1412
+    },
+    {
+      "Time": "2023-05-19T03:05:31.4571583+00:00",
+      "NumProgressed": 521345,
+      "NumCompleted": 1412
     }
   ],
   "TotalAchievements": 37,
@@ -4925,7 +4930,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 156403
+      "UsersEstimate": 156404
     },
     {
       "ID": "DEVOTED",
@@ -5165,7 +5170,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 333660
+      "UsersEstimate": 333661
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -5204,15 +5209,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 521344,
+      "Progressed": 521345,
       "Completed": 1412
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-05-18T06:58:44.2150379+00:00",
-  "LastChanged_Achievements": "2023-05-19T02:05:50.3904496+00:00",
+  "LastChanged_Achievements": "2023-05-19T03:05:31.457158+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:14.6878817+00:00",
-  "LastUpdate_Ratings": "2023-05-19T01:59:34.6498736+00:00",
-  "LastUpdate_Achievements": "2023-05-19T02:05:50.3904999+00:00"
+  "LastUpdate_Ratings": "2023-05-19T02:59:10.8007921+00:00",
+  "LastUpdate_Achievements": "2023-05-19T03:05:31.4571964+00:00"
 }

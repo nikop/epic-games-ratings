@@ -6,9 +6,9 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 75.00% | ~1,800 |
-| Ready for Winter | 64.00% | ~1,536 |
-| Ready for Summer | 51.00% | ~1,224 |
+| Venture Outward | 74.00% | ~1,777 |
+| Ready for Winter | 64.00% | ~1,537 |
+| Ready for Summer | 51.00% | ~1,225 |
 | Cordon Bleu | 44.00% | ~1,056 |
 | Tapped! | 36.00% | ~864 |
 | Eureka | 32.00% | ~768 |
@@ -47,9 +47,9 @@ Number of Ratings: 266  (23.09.2022)
 | Through fire and flame. | 0.80% | ~19 |
 | Legacy of a master hunter | 0.40% | ~10 |
 | Master of Aurai | 0.40% | ~10 |
-| The Absolute Pinnacle. | 0.30% | ~7 |
+| The Absolute Pinnacle. | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,400 (Ranked 140)  
+Progressed: 2,401 (Ranked 140)  
 Completed: 1 (0.04%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 1 (0.04%) (Ranked 177)
 | 2023-05-16 | 2,378 | 1 |
 | 2023-05-17 | 2,382 | 1 |
 | 2023-05-18 | 2,397 | 1 |
-| 2023-05-19 | 2,400 | 1 |
+| 2023-05-19 | 2,401 | 1 |
 ## Awards
 Max (Amazing Characters): 31  (Ranked 441)  
 Sum: 238 (Ranked 342)  

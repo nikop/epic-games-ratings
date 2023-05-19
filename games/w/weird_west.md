@@ -24,8 +24,8 @@ Number of Ratings: 125  (23.09.2022)
 | That’s All, Folks | 18.00% | ~273 |
 | Fallen Star | 16.00% | ~242 |
 | For Balance | 16.00% | ~242 |
+| Here Comes Santa Claus | 16.00% | ~242 |
 | Winds of War | 16.00% | ~242 |
-| Here Comes Santa Claus | 15.00% | ~227 |
 | Dog Days | 13.00% | ~197 |
 | Workers' Rights | 13.00% | ~197 |
 | Elusive Prey | 12.00% | ~182 |

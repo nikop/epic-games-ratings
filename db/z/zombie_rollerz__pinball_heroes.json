@@ -4,7 +4,7 @@
   "ProductSlug": "zombie-rollerz-7aa027",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -686,9 +686,9 @@
       "ID": "PRG_SP_arcadeFTUX",
       "SetID": "89cjc9l",
       "Name": "Graduation!",
-      "Percentage": 76,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     }
   ],
   "AchievementSets": [
@@ -703,8 +703,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-05-19T02:05:59.6235458+00:00",
+  "LastChanged_Achievements": "2023-05-19T03:05:40.7961564+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:26.7729117+00:00",
-  "LastUpdate_Ratings": "2023-05-19T01:57:45.7914702+00:00",
-  "LastUpdate_Achievements": "2023-05-19T02:05:59.6236265+00:00"
+  "LastUpdate_Ratings": "2023-05-19T02:57:23.1018811+00:00",
+  "LastUpdate_Achievements": "2023-05-19T03:05:40.7962156+00:00"
 }

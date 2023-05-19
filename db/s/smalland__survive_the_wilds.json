@@ -156,9 +156,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18666,
+  "EOS_Progressed": 18667,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2096,6 +2096,11 @@
       "Time": "2023-05-19T02:05:29.8555128+00:00",
       "NumProgressed": 18666,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-19T03:05:10.5811373+00:00",
+      "NumProgressed": 18667,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 13,
@@ -2161,9 +2166,9 @@
       "ID": "PickupBones",
       "SetID": "3c9im16",
       "Name": "Vertebrate hunter",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 373
+      "UsersEstimate": 187
     },
     {
       "ID": "PickupChitin",
@@ -2210,7 +2215,7 @@
     {
       "ID": "3c9im16",
       "IsBase": true,
-      "Progressed": 18666,
+      "Progressed": 18667,
       "Completed": 18
     }
   ],
@@ -2218,8 +2223,8 @@
   "FirstSeenRating": "2023-03-31T05:57:29.8298127+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.2502922+00:00",
   "LastChanged": "2023-05-16T05:57:23.2429484+00:00",
-  "LastChanged_Achievements": "2023-05-19T02:05:29.8555106+00:00",
+  "LastChanged_Achievements": "2023-05-19T03:05:10.581137+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:23.6945162+00:00",
-  "LastUpdate_Ratings": "2023-05-19T01:57:44.0342348+00:00",
-  "LastUpdate_Achievements": "2023-05-19T02:05:29.8555366+00:00"
+  "LastUpdate_Ratings": "2023-05-19T02:57:20.9881489+00:00",
+  "LastUpdate_Achievements": "2023-05-19T03:05:10.5811551+00:00"
 }

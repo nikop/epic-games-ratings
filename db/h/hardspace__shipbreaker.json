@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -270,9 +270,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 606,
+  "EOS_Progressed": 607,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -334,6 +334,11 @@
     {
       "Time": "2023-05-18T23:03:27.0238614+00:00",
       "NumProgressed": 606,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T03:03:14.1844262+00:00",
+      "NumProgressed": 607,
       "NumCompleted": 0
     }
   ],
@@ -426,7 +431,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -482,7 +487,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -490,7 +495,7 @@
       "Name": "I ain\u2019t afraid of no Ghost",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_I_CAN_FIX_IT",
@@ -506,7 +511,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -522,7 +527,7 @@
       "Name": "Post No Bills",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -552,16 +557,16 @@
       "ID": "ACH_TRUELY_SHOCKING",
       "SetID": "108h92c",
       "Name": "Truly Shocking!",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 279
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 606,
+      "Progressed": 607,
       "Completed": 0
     }
   ],
@@ -569,8 +574,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-05-13T23:57:28.1464548+00:00",
-  "LastChanged_Achievements": "2023-05-19T02:03:25.9215306+00:00",
+  "LastChanged_Achievements": "2023-05-19T03:03:14.1844259+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:27.192307+00:00",
-  "LastUpdate_Ratings": "2023-05-19T01:57:46.7318351+00:00",
-  "LastUpdate_Achievements": "2023-05-19T02:03:25.9215509+00:00"
+  "LastUpdate_Ratings": "2023-05-19T02:57:23.7443216+00:00",
+  "LastUpdate_Achievements": "2023-05-19T03:03:14.1844416+00:00"
 }

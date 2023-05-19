@@ -1,7 +1,7 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 3.75 (Ranked 915)  
+Rating: 3.75 (Ranked 916)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -64,8 +64,8 @@ Rating: 3.75 (Ranked 915)
 | Ebony Jungle Liberator | 0.60% | ~6 |
 | The Alchemist | 0.60% | ~6 |
 | Training makes a Pro player | 0.60% | ~6 |
-| Gear Enchanting | 0.40% | ~4 |
-| Mythic Power | 0.40% | ~4 |
+| Gear Enchanting | 0.50% | ~5 |
+| Mythic Power | 0.50% | ~5 |
 | Pokerface | 0.40% | ~4 |
 | Guardian Master | 0.30% | ~3 |
 | Arena Challenger | 0.20% | ~2 |

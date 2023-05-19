@@ -8,20 +8,20 @@
 | Pigeon | 91.00% | ~10 |
 | A bottomless pit | 91.00% | ~10 |
 | Splash! | 82.00% | ~9 |
-| Baited | 64.00% | ~7 |
+| Baited | 73.00% | ~8 |
+| "Swoosh" | 64.00% | ~7 |
+| The light at the end of the tunnel | 64.00% | ~7 |
+| Soft skin | 64.00% | ~7 |
 | Hard Rock | 64.00% | ~7 |
-| "Swoosh" | 55.00% | ~6 |
-| The light at the end of the tunnel | 55.00% | ~6 |
-| Soft skin | 55.00% | ~6 |
-| Masochistic | 45.00% | ~5 |
+| Masochistic | 55.00% | ~6 |
+| Squid game | 45.00% | ~5 |
 | Rooftop | 45.00% | ~5 |
-| Squid game | 36.00% | ~4 |
+| Sensitive soul | 45.00% | ~5 |
 | Rock Solid | 36.00% | ~4 |
 | The beast within | 36.00% | ~4 |
 | It's getting dark | 36.00% | ~4 |
 | Homeless | 36.00% | ~4 |
-| Sensitive soul | 36.00% | ~4 |
-| Big badaboom! | 27.00% | ~3 |
+| Big badaboom! | 36.00% | ~4 |
 | Nokron tower | 18.00% | ~2 |
 | MayDay! MayDay! | 18.00% | ~2 |
 | Magnitude 5 | 18.00% | ~2 |

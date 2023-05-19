@@ -7,9 +7,9 @@ Number of Ratings: 45  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Cost of Heroism | 31.00% | ~366 |
-| Me and My Familiar | 29.00% | ~342 |
-| This Too Shall Pass | 25.00% | ~295 |
-| Cutthroat Competitors | 24.00% | ~283 |
+| Me and My Familiar | 29.00% | ~343 |
+| This Too Shall Pass | 25.00% | ~296 |
+| Cutthroat Competitors | 24.00% | ~284 |
 | Passing Shadow | 23.00% | ~272 |
 | How Romantic! | 22.00% | ~260 |
 | Daybreak | 22.00% | ~260 |
@@ -19,7 +19,7 @@ Number of Ratings: 45  (23.09.2022)
 | War Endured | 11.00% | ~130 |
 | A Mythic Menagerie | 10.00% | ~118 |
 | Core Failure | 10.00% | ~118 |
-| Pyrrhic Victory | 8.00% | ~94 |
+| Pyrrhic Victory | 8.00% | ~95 |
 | Thematic Divergence | 7.00% | ~83 |
 | Echoes Die | 7.00% | ~83 |
 | Chain Reaction | 6.00% | ~71 |
@@ -57,13 +57,13 @@ Number of Ratings: 45  (23.09.2022)
 | Symbiosis | 1.00% | ~12 |
 | I'm Not Smiling | 1.00% | ~12 |
 | Thwack! | 1.00% | ~12 |
-| A Temperamental Shrub | 0.90% | ~11 |
+| A Temperamental Shrub | 1.00% | ~12 |
 | A Lowly Crust of Beef | 0.80% | ~9 |
 | We Call That Mortificient! | 0.50% | ~6 |
 | Overwhelming Monstrosity | 0.40% | ~5 |
 | Peacemaker | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,181 (Ranked 158)  
+Progressed: 1,182 (Ranked 158)  
 Completed: 3 (0.25%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,6 +89,7 @@ Completed: 3 (0.25%) (Ranked 133)
 | 2023-05-16 | 1,175 | 3 |
 | 2023-05-17 | 1,179 | 3 |
 | 2023-05-18 | 1,181 | 3 |
+| 2023-05-19 | 1,182 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 455)  
 Sum: 27 (Ranked 463)  

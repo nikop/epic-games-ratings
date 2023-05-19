@@ -5,7 +5,7 @@
   "Ranking_Rating": 259,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
-  "Ranking_EOS_Progress": 202,
+  "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 74,
@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 350,
+  "EOS_Progressed": 351,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -329,6 +329,11 @@
       "Time": "2023-05-19T00:06:59.2053785+00:00",
       "NumProgressed": 350,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T03:05:27.8607137+00:00",
+      "NumProgressed": 351,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -340,7 +345,7 @@
       "Name": "Extensive retelling",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "BadApple",
@@ -396,7 +401,7 @@
       "Name": "Sneak peek",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Favourite",
@@ -500,7 +505,7 @@
       "Name": "Queen",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Rats",
@@ -524,7 +529,7 @@
       "Name": "Specialist",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SpringCleaning",
@@ -532,7 +537,7 @@
       "Name": "Uprooting",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "TheGuardian",
@@ -580,7 +585,7 @@
       "Name": "Forbidden techniques",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "YagaProfessional",
@@ -588,14 +593,14 @@
       "Name": "Witch\u0027s cookbook",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 350,
+      "Progressed": 351,
       "Completed": 0
     }
   ],
@@ -603,8 +608,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-05-19T02:05:46.9088308+00:00",
+  "LastChanged_Achievements": "2023-05-19T03:05:27.8607133+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:50.1564465+00:00",
-  "LastUpdate_Ratings": "2023-05-19T01:58:10.7859145+00:00",
-  "LastUpdate_Achievements": "2023-05-19T02:05:46.9088593+00:00"
+  "LastUpdate_Ratings": "2023-05-19T02:57:44.1317719+00:00",
+  "LastUpdate_Achievements": "2023-05-19T03:05:27.8607549+00:00"
 }
