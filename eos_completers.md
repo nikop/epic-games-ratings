@@ -3,8 +3,8 @@
 | 1 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 50.00% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 30.77% |
 | 3 | [Overloop](games/o/overloop.md) | 25.00% |
-| 3 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 25.00% |
-| 5 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 24.32% |
+| 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 24.32% |
+| 5 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 22.22% |
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 21.88% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.55% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
@@ -23,7 +23,7 @@
 | 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.71% |
 | 22 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 7.69% |
 | 23 | [Scorn](games/s/scorn.md) | 7.02% |
-| 24 | [Ravenlok](games/r/ravenlok.md) | 6.71% |
+| 24 | [Ravenlok](games/r/ravenlok.md) | 6.68% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 26 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.41% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
@@ -51,15 +51,15 @@
 | 49 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.90% |
 | 50 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
 | 51 | [Destiny 2](games/d/destiny_2.md) | 2.86% |
-| 52 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.82% |
+| 52 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.78% |
 | 53 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 54 | [FORECLOSED](games/f/foreclosed.md) | 2.63% |
 | 54 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.63% |
 | 56 | [JARS](games/j/jars.md) | 2.56% |
 | 57 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [Iron Danger](games/i/iron_danger.md) | 2.38% |
-| 59 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 2.22% |
-| 60 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.19% |
+| 59 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.19% |
+| 60 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 2.13% |
 | 61 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.10% |
 | 62 | [A Musical Story](games/a/a_musical_story.md) | 1.92% |
 | 63 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -83,7 +83,7 @@
 | 81 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.21% |
 | 82 | [Late Shift](games/l/late_shift.md) | 1.17% |
 | 83 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.15% |
-| 84 | [Them and Us](games/t/them_and_us.md) | 1.05% |
+| 84 | [Them and Us](games/t/them_and_us.md) | 1.04% |
 | 85 | [Ten Dates](games/t/ten_dates.md) | 1.03% |
 | 86 | [Sable](games/s/sable.md) | 0.93% |
 | 87 | [Dungeons 3](games/d/dungeons_3.md) | 0.91% |
@@ -131,10 +131,10 @@
 | 128 | [Despot's Game](games/d/despot's_game.md) | 0.28% |
 | 130 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
 | 130 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.27% |
-| 132 | [Circus Electrique](games/c/circus_electrique.md) | 0.26% |
 | 132 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.26% |
-| 134 | [Dead Island 2](games/d/dead_island_2.md) | 0.25% |
-| 134 | [Wildermyth](games/w/wildermyth.md) | 0.25% |
+| 133 | [Circus Electrique](games/c/circus_electrique.md) | 0.25% |
+| 133 | [Dead Island 2](games/d/dead_island_2.md) | 0.25% |
+| 133 | [Wildermyth](games/w/wildermyth.md) | 0.25% |
 | 136 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
 | 137 | [Blanc](games/b/blanc.md) | 0.22% |
 | 137 | [Filament](games/f/filament.md) | 0.22% |

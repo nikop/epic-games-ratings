@@ -424,7 +424,6 @@
 | [Wildcat Gun Machine](../games/w/wildcat_gun_machine.md) | 20 | 1,000 |
 | [Wildermyth](../games/w/wildermyth.md) | 56 | 1,000 |
 | [Without Escape](../games/w/without_escape.md) | 9 | 1,000 |
-| [World of Contraptions](../games/w/world_of_contraptions.md) | 26 | 1,000 |
 | [WTC - Relentless Protagonist](../games/w/wtc_-_relentless_protagonist.md) | 60 | 1,000 |
 | [Wunderling DX](../games/w/wunderling_dx.md) | 41 | 1,000 |
 | [Yars: Recharged](../games/y/yars__recharged.md) | 15 | 1,000 |

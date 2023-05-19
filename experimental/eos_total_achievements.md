@@ -278,7 +278,6 @@
 | [New Tales from the Borderlands](../games/n/new_tales_from_the_borderlands.md) | 26 | 1,000 |
 | [Outcore - Desktop Adventure](../games/o/outcore_-_desktop_adventure.md) | 26 | 1,000 |
 | [Tortuga - A Pirate's Tale](../games/t/tortuga_-_a_pirate's_tale.md) | 26 | 1,000 |
-| [World of Contraptions](../games/w/world_of_contraptions.md) | 26 | 1,000 |
 | [Adios](../games/a/adios.md) | 25 | 1,000 |
 | [MeteoHeroes Saving Planet Earth!](../games/m/meteoheroes_saving_planet_earth!.md) | 25 | 1,000 |
 | [My Fantastic Ranch: Unicorns & Dragons](../games/m/my_fantastic_ranch__unicorns_&_dragons.md) | 25 | 1,000 |

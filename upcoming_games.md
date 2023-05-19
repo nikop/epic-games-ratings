@@ -1,6 +1,5 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [Riftbound](games/r/riftbound.md) | 2023-05-18 | 2022-05-12 |
 | [Backbeat](games/b/backbeat.md) | 2023-05-19 | 2023-03-16 |
 | [Minimal Move](games/m/minimal_move.md) | 2023-05-19 | 2021-03-30 |
 | [Volley Pals](games/v/volley_pals.md) | 2023-05-19 | 2023-04-06 |
