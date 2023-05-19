@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 896,
+  "EOS_Progressed": 897,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -535,6 +535,11 @@
       "Time": "2023-05-19T10:06:10.8648287+00:00",
       "NumProgressed": 896,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-19T11:07:24.7929559+00:00",
+      "NumProgressed": 897,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -672,9 +677,9 @@
       "ID": "Heroes_never_die",
       "SetID": "85nb4h3",
       "Name": "Heroes Never Die",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 206
     },
     {
       "ID": "High_noon",
@@ -785,15 +790,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 896,
+      "Progressed": 897,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-05-19T10:06:10.8648283+00:00",
+  "LastChanged_Achievements": "2023-05-19T11:07:24.7929556+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:11.284496+00:00",
-  "LastUpdate_Ratings": "2023-05-19T09:59:20.4660987+00:00",
-  "LastUpdate_Achievements": "2023-05-19T10:06:10.8648521+00:00"
+  "LastUpdate_Ratings": "2023-05-19T10:59:56.1570856+00:00",
+  "LastUpdate_Achievements": "2023-05-19T11:07:24.7929773+00:00"
 }

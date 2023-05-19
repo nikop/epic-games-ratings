@@ -6,35 +6,35 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~242,342 |
-| Cavalier | 25.00% | ~195,437 |
-| Fatso | 23.00% | ~179,802 |
-| Awakening | 20.00% | ~156,349 |
-| Ranger | 20.00% | ~156,349 |
-| Scrooge | 20.00% | ~156,349 |
+| Blacksmith's Son | 31.00% | ~242,343 |
+| Cavalier | 25.00% | ~195,438 |
+| Fatso | 23.00% | ~179,803 |
+| Awakening | 20.00% | ~156,350 |
+| Ranger | 20.00% | ~156,350 |
+| Scrooge | 20.00% | ~156,350 |
 | Anorectic | 16.00% | ~125,080 |
-| Firestarter | 15.00% | ~117,262 |
+| Firestarter | 15.00% | ~117,263 |
 | Bookworm | 14.00% | ~109,445 |
-| Insomniac | 13.00% | ~101,627 |
-| Buddy | 11.00% | ~85,992 |
-| Sinner | 11.00% | ~85,992 |
-| Thief | 11.00% | ~85,992 |
+| Insomniac | 13.00% | ~101,628 |
+| Buddy | 11.00% | ~85,993 |
+| Sinner | 11.00% | ~85,993 |
+| Thief | 11.00% | ~85,993 |
 | Convict | 10.00% | ~78,175 |
 | Traveller | 10.00% | ~78,175 |
-| Haggler | 9.00% | ~70,357 |
-| Runt | 7.00% | ~54,722 |
+| Haggler | 9.00% | ~70,358 |
+| Runt | 7.00% | ~54,723 |
 | Casanova | 6.00% | ~46,905 |
 | McLovin | 6.00% | ~46,905 |
-| Bad Trip | 5.00% | ~39,087 |
-| Monk | 5.00% | ~39,087 |
-| Serial Killer | 5.00% | ~39,087 |
+| Bad Trip | 5.00% | ~39,088 |
+| Monk | 5.00% | ~39,088 |
+| Serial Killer | 5.00% | ~39,088 |
 | Bastard | 4.00% | ~31,270 |
 | Hunter | 4.00% | ~31,270 |
 | Plague Doctor | 4.00% | ~31,270 |
-| Bard | 3.00% | ~23,452 |
-| Conqueror | 3.00% | ~23,452 |
-| Ginger in a Pickle | 3.00% | ~23,452 |
-| Kingdom did not come | 3.00% | ~23,452 |
+| Bard | 3.00% | ~23,453 |
+| Conqueror | 3.00% | ~23,453 |
+| Ginger in a Pickle | 3.00% | ~23,453 |
+| Kingdom did not come | 3.00% | ~23,453 |
 | Completionist | 2.00% | ~15,635 |
 | Death by splinter | 2.00% | ~15,635 |
 | King Charming | 2.00% | ~15,635 |
@@ -44,30 +44,30 @@ Number of Ratings: 9,133  (23.09.2022)
 | Robber Baron | 2.00% | ~15,635 |
 | Talmberger | 2.00% | ~15,635 |
 | The End | 2.00% | ~15,635 |
-| Woman's Lot | 1.00% | ~7,817 |
-| Chivalrous Soul | 1.00% | ~7,817 |
-| Freud | 1.00% | ~7,817 |
-| Gambler | 1.00% | ~7,817 |
-| Master Huntsman | 1.00% | ~7,817 |
-| Stealth Killer | 1.00% | ~7,817 |
+| Woman's Lot | 1.00% | ~7,818 |
+| Chivalrous Soul | 1.00% | ~7,818 |
+| Freud | 1.00% | ~7,818 |
+| Gambler | 1.00% | ~7,818 |
+| Master Huntsman | 1.00% | ~7,818 |
+| Stealth Killer | 1.00% | ~7,818 |
 | Spoilsport | 0.90% | ~7,036 |
 | Bailiff | 0.80% | ~6,254 |
 | Tracker | 0.80% | ~6,254 |
 | David Horak | 0.70% | ~5,472 |
 | Mercenary's Honour | 0.70% | ~5,472 |
 | Saviour | 0.70% | ~5,472 |
-| Edward Kelly | 0.60% | ~4,690 |
-| Fighter | 0.60% | ~4,690 |
+| Edward Kelly | 0.60% | ~4,691 |
+| Fighter | 0.60% | ~4,691 |
 | I Can Quit Anytime | 0.50% | ~3,909 |
 | Perfectionist | 0.40% | ~3,127 |
 | Alcoholic | 0.30% | ~2,345 |
 | Sniper | 0.30% | ~2,345 |
-| Angel of Mercy | 0.20% | ~1,563 |
-| Christian Burial | 0.20% | ~1,563 |
-| Friends without benefits | 0.20% | ~1,563 |
-| Game Over | 0.20% | ~1,563 |
-| Not-so-Christian Burial | 0.20% | ~1,563 |
-| True Friend | 0.20% | ~1,563 |
+| Angel of Mercy | 0.20% | ~1,564 |
+| Christian Burial | 0.20% | ~1,564 |
+| Friends without benefits | 0.20% | ~1,564 |
+| Game Over | 0.20% | ~1,564 |
+| Not-so-Christian Burial | 0.20% | ~1,564 |
+| True Friend | 0.20% | ~1,564 |
 | Bad Girl | 0.10% | ~782 |
 | Cleric's pet | 0.10% | ~782 |
 | Full House Sinner | 0.10% | ~782 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~782 |
 | Wingman | 0.10% | ~782 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 781,747 (Ranked 12)  
+Progressed: 781,752 (Ranked 12)  
 Completed: 39 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 39 (0.00%) (Ranked 200)
 | 2023-05-16 | 781,415 | 39 |
 | 2023-05-17 | 781,542 | 39 |
 | 2023-05-18 | 781,692 | 39 |
-| 2023-05-19 | 781,747 | 39 |
+| 2023-05-19 | 781,752 | 39 |
 ## Awards
 Max (Character Customization): 7,180  (Ranked 43)  
 Sum: 26,841 (Ranked 42)  

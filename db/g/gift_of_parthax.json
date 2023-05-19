@@ -4,7 +4,7 @@
   "ProductSlug": "gift-of-parthax-67ee4f",
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-09-09T08:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:39.9515798+00:00",
   "LastChanged": "2023-03-31T05:58:39.9515799+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.6282248+00:00",
-  "LastUpdate_Ratings": "2023-05-19T09:57:56.7820538+00:00",
-  "LastUpdate_Achievements": "2023-05-19T10:04:16.336576+00:00"
+  "LastUpdate_Ratings": "2023-05-19T10:58:19.2563864+00:00",
+  "LastUpdate_Achievements": "2023-05-19T11:05:11.4958508+00:00"
 }

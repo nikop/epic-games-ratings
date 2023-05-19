@@ -2,12 +2,12 @@
   "ID": "d14dcbe6b15b4fe191ff00880b9927f2",
   "Name": "F1\u00AE Manager 2022",
   "ProductSlug": "f1-manager-2022",
-  "Ranking_Rating": 401,
+  "Ranking_Rating": 414,
   "Ranking_Popularity": 241,
   "Ranking_PopularitySum": 196,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-08-30T14:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.59,
+  "Rating": 4.58,
   "NumberOfRatings": 810,
   "RatingHistory": [
     {
@@ -1238,11 +1238,17 @@
       "Rating": 4.59,
       "NumberOfAwards": 1799,
       "NumberOfAwardsMax": 242
+    },
+    {
+      "Time": "2023-05-19T10:58:46.4316636+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1800,
+      "NumberOfAwardsMax": 243
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1799,
-  "NumberOfAwardsMax": 242,
+  "NumberOfAwards": 1800,
+  "NumberOfAwardsMax": 243,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1255,7 +1261,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 242
+      "Count": 243
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1332,9 +1338,9 @@
   "FirstSeen": "2022-08-30T14:01:37.4479981+00:00",
   "FirstSeenRating": "2022-08-30T21:30:24.1805179+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.9629777+00:00",
-  "LastChanged": "2023-05-18T13:03:29.5493298+00:00",
-  "LastChanged_Achievements": "2023-05-19T10:05:45.1080073+00:00",
+  "LastChanged": "2023-05-19T10:58:46.4316633+00:00",
+  "LastChanged_Achievements": "2023-05-19T11:06:56.5179657+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:15.8238831+00:00",
-  "LastUpdate_Ratings": "2023-05-19T09:58:21.1626374+00:00",
-  "LastUpdate_Achievements": "2023-05-19T10:05:45.1080104+00:00"
+  "LastUpdate_Ratings": "2023-05-19T10:58:46.431664+00:00",
+  "LastUpdate_Achievements": "2023-05-19T11:06:56.5179691+00:00"
 }

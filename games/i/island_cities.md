@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome! | 99.00% | ~89 |
-| A tiny town | 81.00% | ~73 |
-| Buildings, roads, cars, ...and people | 64.00% | ~58 |
-| Great view from the beach and from the hill | 56.00% | ~50 |
-| Bridges to come and go | 51.00% | ~46 |
-| Found an oasis | 42.00% | ~38 |
-| Burger or pizza? | 38.00% | ~34 |
+| Welcome! | 100.00% | ~90 |
+| A tiny town | 82.00% | ~74 |
+| Buildings, roads, cars, ...and people | 67.00% | ~60 |
+| Great view from the beach and from the hill | 58.00% | ~52 |
+| Bridges to come and go | 52.00% | ~47 |
+| Found an oasis | 43.00% | ~39 |
+| Burger or pizza? | 39.00% | ~35 |
 | Passion for sports | 34.00% | ~31 |
 | Who loves trains? | 30.00% | ~27 |
 | Easy and steady climb | 30.00% | ~27 |
-| At the heart of the city | 29.00% | ~26 |
-| Calm neighborhood | 26.00% | ~23 |
-| Elevated ring | 26.00% | ~23 |
-| Not lonely anymore | 22.00% | ~20 |
-| Monumental tribute | 20.00% | ~18 |
+| At the heart of the city | 30.00% | ~27 |
+| Calm neighborhood | 27.00% | ~24 |
+| Elevated ring | 27.00% | ~24 |
+| Not lonely anymore | 23.00% | ~21 |
+| Monumental tribute | 21.00% | ~19 |
 | The beach is right there | 20.00% | ~18 |
 | Commuting | 19.00% | ~17 |
 | Le jardin magnifique | 17.00% | ~15 |

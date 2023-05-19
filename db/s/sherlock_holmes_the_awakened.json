@@ -278,17 +278,17 @@
       "ID": "MQ01_1",
       "SetID": "bbing49",
       "Name": "Read Between The Lines",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 103
+      "UsersEstimate": 105
     },
     {
       "ID": "MQ01_2",
       "SetID": "bbing49",
       "Name": "To Hell In A Handcart",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 40,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "MQ02_1",
@@ -511,8 +511,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-19T10:01:10.8876149+00:00",
+  "LastChanged_Achievements": "2023-05-19T11:02:02.9023386+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:11.4352441+00:00",
-  "LastUpdate_Ratings": "2023-05-19T09:57:10.7414748+00:00",
-  "LastUpdate_Achievements": "2023-05-19T10:01:10.8876514+00:00"
+  "LastUpdate_Ratings": "2023-05-19T10:57:26.3389275+00:00",
+  "LastUpdate_Achievements": "2023-05-19T11:02:02.9023668+00:00"
 }

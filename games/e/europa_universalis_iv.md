@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,545 |
-| That's a Grand Army | 8.00% | ~3,151 |
-| That is mine! | 8.00% | ~3,151 |
-| Victorious! | 8.00% | ~3,151 |
-| Brothers in Arms | 6.00% | ~2,363 |
-| That's a Grand Navy | 6.00% | ~2,363 |
-| Seriously?! | 6.00% | ~2,363 |
-| For the Glory | 5.00% | ~1,970 |
-| Cold War | 4.00% | ~1,576 |
-| True Catholic | 4.00% | ~1,576 |
-| Defender of the Faith | 3.00% | ~1,182 |
-| It's all about the money | 3.00% | ~1,182 |
-| Respected | 3.00% | ~1,182 |
-| Truly Divine Ruler | 3.00% | ~1,182 |
+| Until death do us apart | 9.00% | ~3,548 |
+| That's a Grand Army | 8.00% | ~3,153 |
+| That is mine! | 8.00% | ~3,153 |
+| Victorious! | 8.00% | ~3,153 |
+| Brothers in Arms | 6.00% | ~2,365 |
+| That's a Grand Navy | 6.00% | ~2,365 |
+| Seriously?! | 6.00% | ~2,365 |
+| For the Glory | 5.00% | ~1,971 |
+| Cold War | 4.00% | ~1,577 |
+| True Catholic | 4.00% | ~1,577 |
+| Defender of the Faith | 3.00% | ~1,183 |
+| It's all about the money | 3.00% | ~1,183 |
+| Respected | 3.00% | ~1,183 |
+| Truly Divine Ruler | 3.00% | ~1,183 |
 | Blockader | 2.00% | ~788 |
 | Combined Arms | 2.00% | ~788 |
 | Double the Love | 2.00% | ~788 |
@@ -43,8 +43,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | This navy can take it all | 0.80% | ~315 |
 | Down Under | 0.70% | ~276 |
 | The Emperors new clothes | 0.70% | ~276 |
-| Time Bandit | 0.60% | ~236 |
-| Trustworthy | 0.60% | ~236 |
+| Time Bandit | 0.60% | ~237 |
+| Trustworthy | 0.60% | ~237 |
 | All belongs to Mother Russia | 0.50% | ~197 |
 | At every continent | 0.50% | ~197 |
 | Early-Modern Warfare | 0.50% | ~197 |
@@ -98,6 +98,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | A tale of two Families | 0.10% | ~39 |
 | Abu Bakr II’s Ambition | 0.10% | ~39 |
 | AEIOU | 0.10% | ~39 |
+| African Power | 0.10% | ~39 |
 | Albania or Iberia | 0.10% | ~39 |
 | An early Reich | 0.10% | ~39 |
 | An Unlikely Candidate | 0.10% | ~39 |
@@ -295,7 +296,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Yarr Harr a Pirate's Life For Me | 0.10% | ~39 |
 | You Get A New Home, And You Get A New Home | 0.10% | ~39 |
 | Academical | 0.00% | ~0 |
-| African Power | 0.00% | ~0 |
 | All Blue | 0.00% | ~0 |
 | Almost Prussian Blue | 0.00% | ~0 |
 | The Animal Kingdom | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,390 (Ranked 80)  
+Progressed: 39,417 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -390,7 +390,7 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-16 | 38,036 | 0 |
 | 2023-05-17 | 38,614 | 0 |
 | 2023-05-18 | 39,222 | 0 |
-| 2023-05-19 | 39,390 | 0 |
+| 2023-05-19 | 39,417 | 0 |
 ## Awards
 Max (Educational): 5,242  (Ranked 60)  
 Sum: 43,399 (Ranked 27)  

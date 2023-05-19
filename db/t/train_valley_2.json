@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 419,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
@@ -265,9 +265,9 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 701,
+  "EOS_Progressed": 702,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -299,6 +299,11 @@
     {
       "Time": "2023-05-18T21:06:49.5647623+00:00",
       "NumProgressed": 701,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-19T11:07:15.7736821+00:00",
+      "NumProgressed": 702,
       "NumCompleted": 1
     }
   ],
@@ -413,9 +418,9 @@
       "ID": "AchievementCloseCall",
       "SetID": "76o014g",
       "Name": "Close call!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 21
     },
     {
       "ID": "AchievementCommonCause",
@@ -910,21 +915,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 42,
+      "Progressed": 43,
       "Completed": 6
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 701,
+      "Progressed": 702,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-05-04T07:57:22.9551284+00:00",
-  "LastChanged_Achievements": "2023-05-19T10:06:02.4988613+00:00",
+  "LastChanged_Achievements": "2023-05-19T11:07:15.7736816+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:25.4877513+00:00",
-  "LastUpdate_Ratings": "2023-05-19T09:57:25.1470748+00:00",
-  "LastUpdate_Achievements": "2023-05-19T10:06:02.4989364+00:00"
+  "LastUpdate_Ratings": "2023-05-19T10:57:42.8967016+00:00",
+  "LastUpdate_Achievements": "2023-05-19T11:07:15.773759+00:00"
 }

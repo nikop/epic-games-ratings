@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 77,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4006,10 +4006,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10327,
       "NumberOfAwardsMax": 6074
+    },
+    {
+      "Time": "2023-05-19T10:59:37.5128589+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10328,
+      "NumberOfAwardsMax": 6074
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10327,
+  "NumberOfAwards": 10328,
   "NumberOfAwardsMax": 6074,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4035,7 +4041,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 489
+      "Count": 490
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4086,9 +4092,9 @@
       "Count": 347
     }
   ],
-  "EOS_Progressed": 703276,
+  "EOS_Progressed": 703315,
   "EOS_Completed": 12731,
-  "EOS_NewPlayers": 440,
+  "EOS_NewPlayers": 476,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -6306,6 +6312,11 @@
       "Time": "2023-05-19T10:06:10.4295856+00:00",
       "NumProgressed": 703276,
       "NumCompleted": 12731
+    },
+    {
+      "Time": "2023-05-19T11:07:24.4838299+00:00",
+      "NumProgressed": 703315,
+      "NumCompleted": 12731
     }
   ],
   "TotalAchievements": 50,
@@ -6333,7 +6344,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5626
+      "UsersEstimate": 5627
     },
     {
       "ID": "04_Vengeance_H3",
@@ -6341,7 +6352,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5626
+      "UsersEstimate": 5627
     },
     {
       "ID": "05_Vengeance_H4",
@@ -6477,7 +6488,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3516
+      "UsersEstimate": 3517
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -6501,7 +6512,7 @@
       "Name": "State of constant learning",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5626
+      "UsersEstimate": 5627
     },
     {
       "ID": "25_ShrineMind",
@@ -6509,7 +6520,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3516
+      "UsersEstimate": 3517
     },
     {
       "ID": "26_ShrineSpirit",
@@ -6517,7 +6528,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6329
+      "UsersEstimate": 6330
     },
     {
       "ID": "27_ShrineBody",
@@ -6565,7 +6576,7 @@
       "Name": "Old Child",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3516
+      "UsersEstimate": 3517
     },
     {
       "ID": "33_BladeOneShot",
@@ -6597,7 +6608,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5626
+      "UsersEstimate": 5627
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -6605,7 +6616,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5626
+      "UsersEstimate": 5627
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -6653,7 +6664,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -6661,7 +6672,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 503
+      "UsersEstimate": 505
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -6685,7 +6696,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -6701,7 +6712,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -6716,21 +6727,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 12577,
+      "Progressed": 12616,
       "Completed": 10122
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 703276,
+      "Progressed": 703315,
       "Completed": 12731
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-05-18T11:59:31.6045442+00:00",
-  "LastChanged_Achievements": "2023-05-19T10:06:10.4295852+00:00",
+  "LastChanged": "2023-05-19T10:59:37.5128587+00:00",
+  "LastChanged_Achievements": "2023-05-19T11:07:24.4838295+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:53.7388155+00:00",
-  "LastUpdate_Ratings": "2023-05-19T09:59:04.7724941+00:00",
-  "LastUpdate_Achievements": "2023-05-19T10:06:10.4296424+00:00"
+  "LastUpdate_Ratings": "2023-05-19T10:59:37.5128595+00:00",
+  "LastUpdate_Achievements": "2023-05-19T11:07:24.483881+00:00"
 }

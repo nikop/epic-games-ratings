@@ -116,7 +116,7 @@
   "Tags": [],
   "EOS_Progressed": 4026,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1030,9 +1030,9 @@
       "ID": "ACH_HOLIDAYS",
       "SetID": "5nj1ea3",
       "Name": "Holidays!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH_KAMIKAZE",
@@ -1247,8 +1247,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-05-15T11:00:28.5619005+00:00",
-  "LastChanged_Achievements": "2023-05-19T10:06:25.473058+00:00",
+  "LastChanged_Achievements": "2023-05-19T11:07:41.1412623+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:15.6246126+00:00",
-  "LastUpdate_Ratings": "2023-05-19T10:00:33.0879588+00:00",
-  "LastUpdate_Achievements": "2023-05-19T10:06:25.473117+00:00"
+  "LastUpdate_Ratings": "2023-05-19T11:01:16.540392+00:00",
+  "LastUpdate_Achievements": "2023-05-19T11:07:41.1413241+00:00"
 }

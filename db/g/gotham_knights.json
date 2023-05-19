@@ -3,12 +3,12 @@
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
   "Ranking_Rating": 833,
-  "Ranking_Popularity": 99,
-  "Ranking_PopularitySum": 138,
+  "Ranking_Popularity": 98,
+  "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1074,18 +1074,24 @@
       "Rating": 4.17,
       "NumberOfAwards": 3679,
       "NumberOfAwardsMax": 2217
+    },
+    {
+      "Time": "2023-05-19T11:00:31.9062542+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 3684,
+      "NumberOfAwardsMax": 2222
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3679,
-  "NumberOfAwardsMax": 2217,
+  "NumberOfAwards": 3684,
+  "NumberOfAwardsMax": 2222,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2217
+      "Count": 2222
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1142,9 +1148,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61083,
+  "EOS_Progressed": 61085,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 275,
+  "EOS_NewPlayers": 277,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2927,6 +2933,11 @@
       "Time": "2023-05-19T10:06:23.5748946+00:00",
       "NumProgressed": 61083,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-19T11:07:39.0630215+00:00",
+      "NumProgressed": 61085,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3425,22 +3436,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61083,
+      "Progressed": 61085,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31363,
+      "Progressed": 31365,
       "Completed": 2640
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-05-18T02:59:45.3889837+00:00",
-  "LastChanged_Achievements": "2023-05-19T10:06:23.5748941+00:00",
+  "LastChanged": "2023-05-19T11:00:31.9062538+00:00",
+  "LastChanged_Achievements": "2023-05-19T11:07:39.0630211+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:40.0085268+00:00",
-  "LastUpdate_Ratings": "2023-05-19T09:59:51.7560355+00:00",
-  "LastUpdate_Achievements": "2023-05-19T10:06:23.5749622+00:00"
+  "LastUpdate_Ratings": "2023-05-19T11:00:31.9062547+00:00",
+  "LastUpdate_Achievements": "2023-05-19T11:07:39.0631157+00:00"
 }

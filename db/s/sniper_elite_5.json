@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -176,9 +176,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 769,
+  "EOS_Progressed": 772,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -656,6 +656,11 @@
       "Time": "2023-05-19T10:05:49.3199979+00:00",
       "NumProgressed": 769,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-19T11:07:01.2902349+00:00",
+      "NumProgressed": 772,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -729,9 +734,9 @@
       "ID": "REWARD_18_ORGAN_GRINDER",
       "SetID": "bm6el81",
       "Name": "Organ Grinder",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -745,9 +750,9 @@
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -809,7 +814,7 @@
       "ID": "REWARD_27_THE_LONG_GAME",
       "SetID": "bm6el81",
       "Name": "The Long Game",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 35,
       "UsersEstimate": 5
     },
@@ -833,7 +838,7 @@
       "ID": "REWARD_2_GATHERING_INTEL",
       "SetID": "bm6el81",
       "Name": "Confirming Suspicions",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -905,7 +910,7 @@
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
       "SetID": "bm6el81",
       "Name": "As Quiet as a Mouse",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -1234,13 +1239,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 720,
+      "Progressed": 723,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 769,
+      "Progressed": 772,
       "Completed": 2
     }
   ],
@@ -1248,8 +1253,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-18T16:01:31.1520338+00:00",
-  "LastChanged_Achievements": "2023-05-19T10:05:49.3199974+00:00",
+  "LastChanged_Achievements": "2023-05-19T11:07:01.2902346+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:23.4749836+00:00",
-  "LastUpdate_Ratings": "2023-05-19T10:00:43.4281378+00:00",
-  "LastUpdate_Achievements": "2023-05-19T10:05:49.3200641+00:00"
+  "LastUpdate_Ratings": "2023-05-19T11:01:29.9523844+00:00",
+  "LastUpdate_Achievements": "2023-05-19T11:07:01.290305+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "carto",
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:43.9608434+00:00",
   "LastChanged": "2023-03-31T05:57:43.9608436+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:17.8760765+00:00",
-  "LastUpdate_Ratings": "2023-05-19T09:58:21.9973773+00:00",
-  "LastUpdate_Achievements": "2023-05-19T10:01:01.4687131+00:00"
+  "LastUpdate_Ratings": "2023-05-19T10:58:47.2610827+00:00",
+  "LastUpdate_Achievements": "2023-05-19T11:01:51.8741819+00:00"
 }

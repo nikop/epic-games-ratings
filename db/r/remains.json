@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 13,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-05-03T17:00:00+00:00",
     "PcReleaseDate": "2021-06-09T12:00:00+00:00",
@@ -220,9 +220,9 @@
       "ID": "Achievement_RepairMaster",
       "SetID": "436h0ek",
       "Name": "Repair master",
-      "Percentage": 59,
+      "Percentage": 62,
       "XP": 200,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Achievement_Welcome",
@@ -243,8 +243,8 @@
   ],
   "FirstSeen": "2023-05-07T09:59:54.1262097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:43.8172139+00:00",
-  "LastChanged_Achievements": "2023-05-19T10:05:37.3010943+00:00",
+  "LastChanged_Achievements": "2023-05-19T11:06:47.6106057+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:09.4784604+00:00",
-  "LastUpdate_Ratings": "2023-05-19T09:58:15.322623+00:00",
-  "LastUpdate_Achievements": "2023-05-19T10:05:37.3011044+00:00"
+  "LastUpdate_Ratings": "2023-05-19T10:58:39.7880325+00:00",
+  "LastUpdate_Achievements": "2023-05-19T11:06:47.6106154+00:00"
 }
