@@ -3,9 +3,9 @@
   "Name": "Touch Type Tale",
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 135,
-  "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2664,
+  "EOS_Progressed": 2665,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
@@ -954,6 +954,11 @@
       "Time": "2023-05-19T13:09:41.4967829+00:00",
       "NumProgressed": 2664,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-19T14:05:28.2611694+00:00",
+      "NumProgressed": 2665,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -973,7 +978,7 @@
       "Name": "Sniped",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "bonus3",
@@ -1021,7 +1026,7 @@
       "Name": "Leave Them no Cake",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "campaign11",
@@ -1037,7 +1042,7 @@
       "Name": "Would be a Shame if Someone Would Waste Those Units",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "campaign13",
@@ -1101,7 +1106,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2131
+      "UsersEstimate": 2132
     },
     {
       "ID": "campaign20",
@@ -1115,9 +1120,9 @@
       "ID": "campaign3",
       "SetID": "2h56gn1",
       "Name": "Economics 101",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 1732
+      "UsersEstimate": 1759
     },
     {
       "ID": "campaign4",
@@ -1173,7 +1178,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "scenario2",
@@ -1228,7 +1233,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2664,
+      "Progressed": 2665,
       "Completed": 9
     }
   ],
@@ -1236,8 +1241,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-19T13:09:41.4967826+00:00",
+  "LastChanged_Achievements": "2023-05-19T14:05:28.2611691+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:07.0051638+00:00",
-  "LastUpdate_Ratings": "2023-05-19T13:03:49.6696895+00:00",
-  "LastUpdate_Achievements": "2023-05-19T13:09:41.4968111+00:00"
+  "LastUpdate_Ratings": "2023-05-19T13:59:30.8531685+00:00",
+  "LastUpdate_Achievements": "2023-05-19T14:05:28.2611985+00:00"
 }

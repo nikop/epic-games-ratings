@@ -5,7 +5,6 @@ Rating: 4.17 (Ranked 834)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quartzer Life Crisis | 0.50% | ~306 |
 | First Step Into the Knight | 0.50% | ~306 |
 | Gotham Knight | 0.50% | ~306 |
 | The Batman Family | 0.40% | ~244 |
@@ -16,6 +15,7 @@ Rating: 4.17 (Ranked 834)
 | Rock and a Hard Place | 0.40% | ~244 |
 | Shock Til They Drop | 0.40% | ~244 |
 | To the Victor Go the Spoils | 0.40% | ~244 |
+| Quartzer Life Crisis | 0.40% | ~244 |
 | Snow Problem | 0.40% | ~244 |
 | Cooldown | 0.40% | ~244 |
 | Har, Har, Har, Very Funny | 0.40% | ~244 |
@@ -67,8 +67,8 @@ Rating: 4.17 (Ranked 834)
 | Confronting Your Demon | 0.10% | ~31 |
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,103 (Ranked 67)  
-Completed: 91 (0.15%) (Ranked 147)  
+Progressed: 61,113 (Ranked 67)  
+Completed: 91 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -96,7 +96,7 @@ Completed: 91 (0.15%) (Ranked 147)
 | 2023-05-16 | 60,923 | 91 |
 | 2023-05-17 | 60,939 | 91 |
 | 2023-05-18 | 61,004 | 91 |
-| 2023-05-19 | 61,103 | 91 |
+| 2023-05-19 | 61,113 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,222  (Ranked 98)  
 Sum: 3,684 (Ranked 137)  

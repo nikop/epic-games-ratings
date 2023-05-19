@@ -23,10 +23,10 @@ Rating: 4.67 (Ranked 259)
 | Baba Yaga | 4.00% | ~14 |
 | Extensive retelling | 3.00% | ~11 |
 | Sneak peek | 3.00% | ~11 |
+| Goal! | 3.00% | ~11 |
 | Queen | 3.00% | ~11 |
 | Specialist | 3.00% | ~11 |
 | Witch's cookbook | 3.00% | ~11 |
-| Goal! | 2.00% | ~7 |
 | Gnowlledgeable | 2.00% | ~7 |
 | Both sides | 2.00% | ~7 |
 | Always worth a try | 2.00% | ~7 |
@@ -39,7 +39,7 @@ Rating: 4.67 (Ranked 259)
 | Apex predator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 355 (Ranked 202)  
-Completed: 0 (0.00%) (Ranked 200)  
+Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

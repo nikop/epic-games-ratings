@@ -3,9 +3,9 @@
   "Name": "Alex Kidd in Miracle World DX",
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 222,
-  "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_Completed": 76,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
     "PcReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 228,
+  "EOS_Progressed": 229,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.32,
+  "EOS_Completed_Percentage": 1.31,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.0192053+00:00",
@@ -45,6 +45,11 @@
     {
       "Time": "2023-05-15T02:06:58.4303246+00:00",
       "NumProgressed": 228,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-19T14:04:53.1140621+00:00",
+      "NumProgressed": 229,
       "NumCompleted": 3
     }
   ],
@@ -89,7 +94,7 @@
       "Name": "Second Commander",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "EGLE_FREED",
@@ -105,7 +110,7 @@
       "Name": "First Commander",
       "Percentage": 19,
       "XP": 60,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "GRIZZLY_DEFEATED",
@@ -113,7 +118,7 @@
       "Name": "Assailants",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "JANKEN_DEFEATED",
@@ -127,9 +132,9 @@
       "ID": "LEVEL_04",
       "SetID": "7im05fi",
       "Name": "Adventurer",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "LEVEL_06_NO_SHOT",
@@ -175,16 +180,16 @@
       "ID": "TELEPATHY_BALL_OBTAINED",
       "SetID": "7im05fi",
       "Name": "Magic Ball",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 82
+      "UsersEstimate": 80
     }
   ],
   "AchievementSets": [
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 228,
+      "Progressed": 229,
       "Completed": 3
     }
   ],
@@ -192,8 +197,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-05-19T13:09:06.3963171+00:00",
+  "LastChanged_Achievements": "2023-05-19T14:04:53.1140616+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:05.3974897+00:00",
-  "LastUpdate_Ratings": "2023-05-19T13:02:06.128943+00:00",
-  "LastUpdate_Achievements": "2023-05-19T13:09:06.3963299+00:00"
+  "LastUpdate_Ratings": "2023-05-19T13:57:50.1892249+00:00",
+  "LastUpdate_Achievements": "2023-05-19T14:04:53.1140729+00:00"
 }

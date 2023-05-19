@@ -7,7 +7,7 @@
 | Believer | 51.00% | ~124 |
 | Origin | 47.00% | ~114 |
 | End | 45.00% | ~109 |
-| Nonconsensual | 30.00% | ~73 |
+| Nonconsensual | 31.00% | ~75 |
 | Realist | 28.00% | ~68 |
 | Escape | 19.00% | ~46 |
 | Wrong | 17.00% | ~41 |
@@ -21,7 +21,7 @@
 | Interpret | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 243 (Ranked 221)  
-Completed: 2 (0.82%) (Ranked 93)  
+Completed: 2 (0.82%) (Ranked 94)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

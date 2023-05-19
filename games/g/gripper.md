@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Deal with Shock | 58.00% | ~14 |
 | Skinner | 54.00% | ~13 |
-| Deal with Shock | 54.00% | ~13 |
 | Deal with Anger | 33.00% | ~8 |
 | Robolimb Ripper | 17.00% | ~4 |
 | Deal with Depression | 17.00% | ~4 |
@@ -41,7 +41,7 @@
 | Flawless Tunnel Runner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 24 (Ranked 304)  
-Completed: 0 (0.00%) (Ranked 200)  
+Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

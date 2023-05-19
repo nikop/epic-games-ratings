@@ -2,13 +2,13 @@
   "ID": "33956bcb55d4452d8c47e16b94e294bd",
   "Name": "Among Us",
   "ProductSlug": "among-us",
-  "Ranking_Rating": 414,
+  "Ranking_Rating": 415,
   "Ranking_Popularity": 93,
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 408,
-  "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_Completed": 201,
+  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2020-12-18T17:00:00+00:00",
     "PcReleaseDate": "2018-06-15T14:36:00+00:00",
@@ -4558,10 +4558,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 22063,
       "NumberOfAwardsMax": 2408
+    },
+    {
+      "Time": "2023-05-19T13:58:08.390751+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 22067,
+      "NumberOfAwardsMax": 2408
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 22063,
+  "NumberOfAwards": 22067,
   "NumberOfAwardsMax": 2408,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4587,7 +4593,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 2068
+      "Count": 2071
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4623,7 +4629,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1839
+      "Count": 1840
     },
     {
       "Text": "This game has Playful Visuals",
@@ -4649,8 +4655,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:02.6618053+00:00",
-  "LastChanged": "2023-05-19T09:58:32.2335681+00:00",
+  "LastChanged": "2023-05-19T13:58:08.3907508+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:22.9009228+00:00",
-  "LastUpdate_Ratings": "2023-05-19T13:02:23.5597541+00:00",
-  "LastUpdate_Achievements": "2023-05-19T13:07:58.3980276+00:00"
+  "LastUpdate_Ratings": "2023-05-19T13:58:08.3907516+00:00",
+  "LastUpdate_Achievements": "2023-05-19T14:03:55.4503936+00:00"
 }

@@ -36,7 +36,7 @@
 | Kill All Humans! | 5.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 41 (Ranked 289)  
-Completed: 2 (4.88%) (Ranked 30)  
+Completed: 2 (4.88%) (Ranked 31)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

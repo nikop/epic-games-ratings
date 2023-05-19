@@ -3,9 +3,9 @@
   "Name": "For Honor Standard Edition",
   "ProductSlug": "for-honor",
   "Ranking_EOS_Progress": 408,
-  "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_Completed": 201,
+  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2017-02-14T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:00.9277982+00:00",
   "LastChanged": "2023-03-31T05:57:00.9277983+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:52.0008657+00:00",
-  "LastUpdate_Ratings": "2023-05-19T13:02:46.9031954+00:00",
-  "LastUpdate_Achievements": "2023-05-19T13:06:25.804562+00:00"
+  "LastUpdate_Ratings": "2023-05-19T13:58:31.2384567+00:00",
+  "LastUpdate_Achievements": "2023-05-19T14:02:24.8878844+00:00"
 }

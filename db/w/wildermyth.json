@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -147,7 +147,7 @@
   ],
   "EOS_Progressed": 1183,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -692,9 +692,9 @@
       "ID": "achievement_use3ReactionStrikesInOneTurn",
       "SetID": "95dc8p",
       "Name": "Chain Reaction",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 83
     },
     {
       "ID": "achievement_victoryAfterLosingThreeHeroesInBattle",
@@ -740,9 +740,9 @@
       "ID": "completedStory_monarchs",
       "SetID": "95dc8p",
       "Name": "Echoes Die",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 95
     },
     {
       "ID": "completedStory_procedural",
@@ -940,8 +940,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-19T13:09:18.2292231+00:00",
+  "LastChanged_Achievements": "2023-05-19T14:05:05.1336789+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:28.1630654+00:00",
-  "LastUpdate_Ratings": "2023-05-19T13:04:07.6568623+00:00",
-  "LastUpdate_Achievements": "2023-05-19T13:09:18.2292694+00:00"
+  "LastUpdate_Ratings": "2023-05-19T13:59:50.233868+00:00",
+  "LastUpdate_Achievements": "2023-05-19T14:05:05.1337299+00:00"
 }

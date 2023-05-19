@@ -2,13 +2,13 @@
   "ID": "f2bfff793b224f6190a394f461c9a4b8",
   "Name": "The Telltale Batman Shadows Edition",
   "ProductSlug": "the-telltale-batman",
-  "Ranking_Rating": 132,
+  "Ranking_Rating": 131,
   "Ranking_Popularity": 409,
   "Ranking_PopularitySum": 443,
   "Ranking_EOS_Progress": 408,
-  "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_Completed": 201,
+  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2019-12-17T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -333,6 +333,6 @@
   "FirstSeen": "2022-07-22T20:24:13.2126101+00:00",
   "LastChanged": "2023-04-10T21:57:40.8455786+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:10.7863418+00:00",
-  "LastUpdate_Ratings": "2023-05-19T13:03:53.5199693+00:00",
-  "LastUpdate_Achievements": "2023-05-19T13:08:52.8426821+00:00"
+  "LastUpdate_Ratings": "2023-05-19T13:59:34.9265285+00:00",
+  "LastUpdate_Achievements": "2023-05-19T14:04:39.0366788+00:00"
 }

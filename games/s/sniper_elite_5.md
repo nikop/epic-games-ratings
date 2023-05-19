@@ -5,14 +5,15 @@ Rating: 4.41 (Ranked 657)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 1.00% | ~8 |
-| Confirming Suspicions | 0.90% | ~7 |
+| Meeting Resistance | 2.00% | ~16 |
+| Confirming Suspicions | 1.00% | ~8 |
 | Resourceful | 0.90% | ~7 |
 | The Long Game | 0.60% | ~5 |
 | Lord of War | 0.60% | ~5 |
 | As Quiet as a Mouse | 0.60% | ~5 |
 | Enemy at the Gates | 0.50% | ~4 |
 | Organ Grinder | 0.50% | ~4 |
+| It's Starting to Crack | 0.50% | ~4 |
 | Taking it back | 0.50% | ~4 |
 | Opposing Force | 0.40% | ~3 |
 | Strategist | 0.40% | ~3 |
@@ -21,13 +22,14 @@ Rating: 4.41 (Ranked 657)
 | Sharpshooter | 0.40% | ~3 |
 | Precision Is Key | 0.40% | ~3 |
 | The Kraken Wakes | 0.40% | ~3 |
-| It's Starting to Crack | 0.40% | ~3 |
 | Climbing the Ladder | 0.30% | ~2 |
 | No Stone Unturned | 0.30% | ~2 |
 | Snake in the Grass | 0.30% | ~2 |
 | Change the Channel | 0.30% | ~2 |
 | Don't hold your breath | 0.30% | ~2 |
+| Target America | 0.30% | ~2 |
 | The Kraken Sleeps | 0.30% | ~2 |
+| Last Resort | 0.30% | ~2 |
 | Sink or Swim | 0.30% | ~2 |
 | Liberté | 0.10% | ~1 |
 | Fields of Glory | 0.10% | ~1 |
@@ -41,11 +43,9 @@ Rating: 4.41 (Ranked 657)
 | Locomotion Commotion | 0.10% | ~1 |
 | Up close and personal | 0.10% | ~1 |
 | Brains of the Operation | 0.10% | ~1 |
-| Target America | 0.10% | ~1 |
 | Führerious Repetition | 0.10% | ~1 |
 | Reich To The Point | 0.10% | ~1 |
 | Covert Elimination | 0.10% | ~1 |
-| Last Resort | 0.10% | ~1 |
 | Siegebreaker | 0.10% | ~1 |
 | Ghost of Falaise | 0.10% | ~1 |
 | Operation Overlord | 0.10% | ~1 |
@@ -77,8 +77,8 @@ Rating: 4.41 (Ranked 657)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 783 (Ranked 171)  
-Completed: 2 (0.26%) (Ranked 131)  
+Progressed: 786 (Ranked 171)  
+Completed: 2 (0.25%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -105,7 +105,7 @@ Completed: 2 (0.26%) (Ranked 131)
 | 2023-05-16 | 723 | 2 |
 | 2023-05-17 | 728 | 2 |
 | 2023-05-18 | 743 | 2 |
-| 2023-05-19 | 783 | 2 |
+| 2023-05-19 | 786 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

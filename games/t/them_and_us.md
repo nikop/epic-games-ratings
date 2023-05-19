@@ -46,7 +46,7 @@
 | This Mansion Is Clean | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 102 (Ranked 254)  
-Completed: 1 (0.98%) (Ranked 85)  
+Completed: 1 (0.98%) (Ranked 86)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Coasting to the Finish | 0.10% | ~54 |
 | Quick or Quack | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87,967 (Ranked 59)  
-Completed: 1,850 (2.10%) (Ranked 61)  
+Progressed: 87,972 (Ranked 59)  
+Completed: 1,850 (2.10%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -529,10 +529,10 @@ Completed: 1,850 (2.10%) (Ranked 61)
 | 2023-05-16 | 87,710 | 1,845 |
 | 2023-05-17 | 87,802 | 1,849 |
 | 2023-05-18 | 87,918 | 1,850 |
-| 2023-05-19 | 87,967 | 1,850 |
+| 2023-05-19 | 87,972 | 1,850 |
 ## Awards
 Max (Diverse Characters): 4,888  (Ranked 63)  
-Sum: 29,918 (Ranked 37)  
+Sum: 29,921 (Ranked 37)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
@@ -540,7 +540,7 @@ Diff (max vs sum): 26
 | This game is Great for Beginners | 4,830 |
 | This game has Quickly Understood Controls | 4,595 |
 | This game is Relaxing | 4,491 |
-| This game is Highly Recommended | 3,939 |
+| This game is Highly Recommended | 3,942 |
 | This game has Amazing Characters | 3,939 |
 | This game has Playful Visuals | 3,236 |
 ## Ratings History
@@ -659,3 +659,4 @@ Diff (max vs sum): 26
 | 2023-05-16 | 4.06 | - | 4,885 | 29,900 |
 | 2023-05-17 | 4.06 | - | 4,885 | 29,907 |
 | 2023-05-18 | 4.06 | - | 4,888 | 29,918 |
+| 2023-05-19 | 4.06 | - | 4,888 | 29,921 |

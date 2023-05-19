@@ -6,9 +6,9 @@
   "Ranking_Popularity": 441,
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 140,
-  "Ranking_EOS_Completed": 177,
+  "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -484,7 +484,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2409,
+  "EOS_Progressed": 2410,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
@@ -1074,6 +1074,11 @@
       "Time": "2023-05-19T11:07:06.9583261+00:00",
       "NumProgressed": 2409,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-19T14:05:06.3830653+00:00",
+      "NumProgressed": 2410,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1085,7 +1090,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "AceDetective_9",
@@ -1109,7 +1114,7 @@
       "Name": "Apex Predator",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "BloodAndJustice_50",
@@ -1293,7 +1298,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -1309,7 +1314,7 @@
       "Name": "Tapped!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -1349,7 +1354,7 @@
       "Name": "The Power of Family",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -1420,15 +1425,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2409,
+      "Progressed": 2410,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-05-19T13:09:19.3633693+00:00",
+  "LastChanged_Achievements": "2023-05-19T14:05:06.3830649+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:37.4392103+00:00",
-  "LastUpdate_Ratings": "2023-05-19T13:01:43.6769623+00:00",
-  "LastUpdate_Achievements": "2023-05-19T13:09:19.3634051+00:00"
+  "LastUpdate_Ratings": "2023-05-19T13:57:27.8838262+00:00",
+  "LastUpdate_Achievements": "2023-05-19T14:05:06.3831012+00:00"
 }

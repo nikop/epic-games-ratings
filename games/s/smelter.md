@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What took you so long? | 84.00% | ~27 |
-| Welcome to the Rumbly Lands! | 84.00% | ~27 |
-| Time to Bash Some Heads! | 81.00% | ~26 |
+| What took you so long? | 88.00% | ~28 |
+| Welcome to the Rumbly Lands! | 88.00% | ~28 |
+| Time to Bash Some Heads! | 84.00% | ~27 |
 | Shiny! | 72.00% | ~23 |
 | Deep in the Mounds | 69.00% | ~22 |
 | Locked Away | 34.00% | ~11 |
@@ -57,7 +57,7 @@
 | The More the Merrier | 9.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 32 (Ranked 297)  
-Completed: 3 (9.38%) (Ranked 14)  
+Completed: 3 (9.38%) (Ranked 15)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

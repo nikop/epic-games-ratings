@@ -3,9 +3,9 @@
   "Name": "Time Loader",
   "ProductSlug": "time-loader",
   "Ranking_EOS_Progress": 255,
-  "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_Completed": 17,
+  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
     "PcReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -50,17 +50,17 @@
       "ID": "01_WRENCH",
       "SetID": "681m9fa",
       "Name": "Wrench",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "02_Soap",
       "SetID": "681m9fa",
       "Name": "Soap",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "03_Cassette",
@@ -162,17 +162,17 @@
       "ID": "15_Screwdriver",
       "SetID": "681m9fa",
       "Name": "Screwdriver",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "16_Springs",
       "SetID": "681m9fa",
       "Name": "Springs",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "17_Capacitors",
@@ -291,8 +291,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2023-05-19T13:09:20.2191136+00:00",
+  "LastChanged_Achievements": "2023-05-19T14:05:07.2120394+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:50.152094+00:00",
-  "LastUpdate_Ratings": "2023-05-19T13:01:52.5426404+00:00",
-  "LastUpdate_Achievements": "2023-05-19T13:09:20.2191298+00:00"
+  "LastUpdate_Ratings": "2023-05-19T13:57:36.7389889+00:00",
+  "LastUpdate_Achievements": "2023-05-19T14:05:07.2120604+00:00"
 }

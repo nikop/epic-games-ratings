@@ -72,8 +72,8 @@
 | I Need Batteries | 0.00% | ~0 |
 | I Am A Beast | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9 (Ranked 327)  
-Completed: 0 (0.00%) (Ranked 200)  
+Progressed: 9 (Ranked 328)  
+Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

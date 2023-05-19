@@ -3,9 +3,9 @@
   "Name": "Super Alloy Ranger",
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 301,
-  "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_Completed": 201,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
     "PcReleaseDate": "2022-09-15T07:00:00+00:00",
@@ -375,9 +375,9 @@
       "ID": "Achi_27",
       "SetID": "51a97k7",
       "Name": "GG EZ",
-      "Percentage": 52,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Achi_28",
@@ -423,9 +423,9 @@
       "ID": "Achi_33",
       "SetID": "51a97k7",
       "Name": "Antaeus",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Achi_34",
@@ -576,8 +576,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-05-19T13:09:40.5857994+00:00",
+  "LastChanged_Achievements": "2023-05-19T14:05:27.2928564+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:50.1323653+00:00",
-  "LastUpdate_Ratings": "2023-05-19T13:03:32.9724208+00:00",
-  "LastUpdate_Achievements": "2023-05-19T13:09:40.5858365+00:00"
+  "LastUpdate_Ratings": "2023-05-19T13:59:15.4056914+00:00",
+  "LastUpdate_Achievements": "2023-05-19T14:05:27.2929052+00:00"
 }

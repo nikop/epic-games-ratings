@@ -7,8 +7,8 @@
 | Iceberg Theory | 69.00% | ~20 |
 | Gear Up | 66.00% | ~19 |
 | A Grand Show | 66.00% | ~19 |
+| GG EZ | 55.00% | ~16 |
 | Freshen Up | 52.00% | ~15 |
-| GG EZ | 52.00% | ~15 |
 | Hydrophobia | 24.00% | ~7 |
 | Ka-Ching! | 17.00% | ~5 |
 | Stop Right There | 17.00% | ~5 |
@@ -19,11 +19,11 @@
 | Space Warrior: Prologue | 7.00% | ~2 |
 | The Hidden Secret | 7.00% | ~2 |
 | Mr. Want It All | 7.00% | ~2 |
+| Antaeus | 7.00% | ~2 |
 | The Paradox Coordinate Conqueror | 3.00% | ~1 |
 | The Hypergravitational Abyss Conqueror | 3.00% | ~1 |
 | Death Bringer Conqueror | 3.00% | ~1 |
 | Keep it Up, rookie! | 3.00% | ~1 |
-| Antaeus | 3.00% | ~1 |
 | Air Interception | 3.00% | ~1 |
 | Proliferation | 3.00% | ~1 |
 | Decapitation Strike | 3.00% | ~1 |
@@ -56,7 +56,7 @@
 | Super Alloy Ranger! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 29 (Ranked 301)  
-Completed: 0 (0.00%) (Ranked 200)  
+Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

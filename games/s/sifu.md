@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~507 |
-| Project Arena | 3.00% | ~380 |
+| Diligence as a goal | 4.00% | ~509 |
+| Project Arena | 3.00% | ~381 |
 | Bloody Sport | 1.00% | ~127 |
-| Qi Gong: Breath | 0.90% | ~6,330 |
+| Qi Gong: Breath | 0.90% | ~6,331 |
 | The best strikes are the ones we avoid | 0.90% | ~114 |
 | The Hateful Pole Fighter | 0.80% | ~5,627 |
 | A Lady's Blood in the Snow | 0.80% | ~5,627 |
@@ -23,17 +23,17 @@ Number of Ratings: 9,492  (23.09.2022)
 | Street Fighting | 0.70% | ~4,924 |
 | Life is your teacher | 0.70% | ~4,924 |
 | Qi Gong: Essence | 0.70% | ~4,924 |
+| Lightning Hands | 0.70% | ~4,924 |
 | Take damage to save time | 0.70% | ~4,924 |
 | The Old Grandmaster | 0.60% | ~4,220 |
 | Scareless | 0.60% | ~4,220 |
 | Stuntmaster | 0.60% | ~4,220 |
-| Lightning Hands | 0.60% | ~4,220 |
 | Kung-Fu Tussle | 0.60% | ~4,220 |
 | Deadly Venom | 0.60% | ~76 |
 | Dance of the Praying Mantis | 0.50% | ~3,517 |
 | Qi Gong: Mind | 0.50% | ~3,517 |
 | Old Child | 0.50% | ~3,517 |
-| A Touch of Acumen | 0.50% | ~63 |
+| A Touch of Acumen | 0.50% | ~64 |
 | Muk Yan Master | 0.40% | ~2,814 |
 | Tiger on Fire | 0.40% | ~2,814 |
 | Source of Flying Daggers | 0.40% | ~2,814 |
@@ -57,8 +57,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~703 |
 | Warriors from the Mountain | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703,379 (Ranked 15)  
-Completed: 12,731 (1.81%) (Ranked 63)  
+Progressed: 703,413 (Ranked 15)  
+Completed: 12,731 (1.81%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -86,7 +86,7 @@ Completed: 12,731 (1.81%) (Ranked 63)
 | 2023-05-16 | 702,986 | 12,728 |
 | 2023-05-17 | 703,009 | 12,730 |
 | 2023-05-18 | 703,070 | 12,731 |
-| 2023-05-19 | 703,379 | 12,731 |
+| 2023-05-19 | 703,413 | 12,731 |
 ## Awards
 Max (Great Boss Battles): 6,074  (Ranked 53)  
 Sum: 10,328 (Ranked 77)  

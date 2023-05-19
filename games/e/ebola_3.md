@@ -41,13 +41,13 @@
 | Boss 2 ✔ | 3.00% | ~5 |
 | Priest ✔ | 3.00% | ~5 |
 | Rank B+ ✔ | 3.00% | ~5 |
+| Boss 3 ✔ | 3.00% | ~5 |
 | Car ✔ | 2.00% | ~3 |
 | Seeker One ✔ | 2.00% | ~3 |
 | Seeker Three ✔ | 2.00% | ~3 |
 | Crocodile Escape ✔ | 2.00% | ~3 |
 | Osipov's video message ✔ | 2.00% | ~3 |
 | The escape ✔ | 2.00% | ~3 |
-| Boss 3 ✔ | 2.00% | ~3 |
 | Exterminate pests ✔ | 1.00% | ~2 |
 | Hardcore ✔ | 1.00% | ~2 |
 | Speedrun ✔ | 1.00% | ~2 |
@@ -56,7 +56,7 @@
 | Rank A+ ✔ | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 170 (Ranked 230)  
-Completed: 0 (0.00%) (Ranked 200)  
+Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

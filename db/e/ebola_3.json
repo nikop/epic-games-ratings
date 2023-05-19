@@ -3,9 +3,9 @@
   "Name": "EBOLA 3",
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 230,
-  "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_Completed": 201,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -1084,9 +1084,9 @@
       "ID": "achWorms",
       "SetID": "72gjli4",
       "Name": "Boss 3 \u2714",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
@@ -1101,8 +1101,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-19T13:09:45.3673102+00:00",
+  "LastChanged_Achievements": "2023-05-19T14:05:32.2809389+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:09.5371961+00:00",
-  "LastUpdate_Ratings": "2023-05-19T13:03:50.8439997+00:00",
-  "LastUpdate_Achievements": "2023-05-19T13:09:45.3673596+00:00"
+  "LastUpdate_Ratings": "2023-05-19T13:59:32.192293+00:00",
+  "LastUpdate_Achievements": "2023-05-19T14:05:32.280986+00:00"
 }

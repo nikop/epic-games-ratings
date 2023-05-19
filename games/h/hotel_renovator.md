@@ -22,8 +22,8 @@ Rating: 4.50 (Ranked 533)
 | Big fortune | 32.00% | ~239 |
 | Still more work ahead | 28.00% | ~209 |
 | Hotel sleuthing | 27.00% | ~201 |
+| Aesop's fable | 26.00% | ~194 |
 | Kaboom | 25.00% | ~186 |
-| Aesop's fable | 25.00% | ~186 |
 | Nearly there | 24.00% | ~179 |
 | Broken heart | 22.00% | ~164 |
 | Island boy | 20.00% | ~149 |
@@ -34,7 +34,7 @@ Rating: 4.50 (Ranked 533)
 | Top spot in town | 3.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 746 (Ranked 176)  
-Completed: 11 (1.47%) (Ranked 72)  
+Completed: 11 (1.47%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 398,
   "Ranking_PopularitySum": 341,
   "Ranking_EOS_Progress": 101,
-  "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_Completed": 112,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -410,9 +410,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 12721,
+  "EOS_Progressed": 12727,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -845,6 +845,11 @@
       "Time": "2023-05-19T13:04:26.5243629+00:00",
       "NumProgressed": 12721,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-19T14:00:10.9957907+00:00",
+      "NumProgressed": 12727,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 40,
@@ -872,7 +877,7 @@
       "Name": "Giving Back",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -958,9 +963,9 @@
       "ID": "GRP_25_ENEMIES",
       "SetID": "4hj6d86",
       "Name": "Get a Grip",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 25
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -984,7 +989,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "KILL_ROBOT",
@@ -1014,9 +1019,9 @@
       "ID": "PERFECT_DODGE_MULTIPLE",
       "SetID": "4hj6d86",
       "Name": "Float Like A Butterfly",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 51
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -1126,23 +1131,23 @@
       "ID": "FINISH_RIOT_MODE",
       "SetID": "6j5ggkc",
       "Name": "Instigator",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "FINISH_WAVE_50",
       "SetID": "6j5ggkc",
       "Name": "Big Game Hunter",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
       "SetID": "6j5ggkc",
       "Name": "Bear Trap",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -1175,13 +1180,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 12721,
+      "Progressed": 12727,
       "Completed": 51
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 647,
+      "Progressed": 653,
       "Completed": 29
     }
   ],
@@ -1189,8 +1194,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-16T17:57:38.030273+00:00",
-  "LastChanged_Achievements": "2023-05-19T13:04:26.5243624+00:00",
+  "LastChanged_Achievements": "2023-05-19T14:00:10.9957902+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:45.2768909+00:00",
-  "LastUpdate_Ratings": "2023-05-19T13:01:50.9179134+00:00",
-  "LastUpdate_Achievements": "2023-05-19T13:04:26.5244013+00:00"
+  "LastUpdate_Ratings": "2023-05-19T13:57:34.8585433+00:00",
+  "LastUpdate_Achievements": "2023-05-19T14:00:10.9960265+00:00"
 }

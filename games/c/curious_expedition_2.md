@@ -38,8 +38,8 @@ Number of Ratings: 20  (23.09.2022)
 | Adventurer | 12.00% | ~35 |
 | Discovery | 12.00% | ~35 |
 | Very Classy | 11.00% | ~32 |
+| And Here Is Your Statue | 10.00% | ~29 |
 | Under the Table | 10.00% | ~29 |
-| And Here Is Your Statue | 9.00% | ~26 |
 | It's Complicated | 9.00% | ~26 |
 | Errand Runner | 9.00% | ~26 |
 | SCHMETTERLING | 8.00% | ~23 |
@@ -68,7 +68,7 @@ Number of Ratings: 20  (23.09.2022)
 | Now I've Seen It All | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 292 (Ranked 211)  
-Completed: 1 (0.34%) (Ranked 119)  
+Completed: 1 (0.34%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,10 +2,10 @@
   "ID": "55c1dafc343149419579a9939de53424",
   "Name": "Croc\u0027s World Construction Kit 2",
   "ProductSlug": "crocs-world-construction-kit-2-378153",
-  "Ranking_EOS_Progress": 352,
-  "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_Progress": 345,
+  "Ranking_EOS_Completed": 7,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-05-19T05:00:00+00:00",
     "PcReleaseDate": "2022-02-03T23:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4,
-  "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0,
+  "EOS_Progressed": 5,
+  "EOS_Completed": 1,
+  "EOS_NewPlayers": 4,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 20,
   "EosHistory": [
     {
       "Time": "2023-05-12T15:00:39.343778+00:00",
@@ -39,6 +39,11 @@
       "Time": "2023-05-19T12:02:15.0207717+00:00",
       "NumProgressed": 4,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T14:02:13.4426644+00:00",
+      "NumProgressed": 5,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 10,
@@ -48,94 +53,94 @@
       "ID": "1",
       "SetID": "3nb2n2l",
       "Name": "Play online levels for at least 45 mins!",
-      "Percentage": 25,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "10",
       "SetID": "3nb2n2l",
       "Name": "Create a level with more than 100 enemies!",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "2",
       "SetID": "3nb2n2l",
       "Name": "1 level rated!",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "3",
       "SetID": "3nb2n2l",
       "Name": "Create more than 3 levels!",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "4",
       "SetID": "3nb2n2l",
       "Name": "Rate at least 5 levels!",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "5",
       "SetID": "3nb2n2l",
       "Name": "Create a level!",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "6",
       "SetID": "3nb2n2l",
       "Name": "Big creator",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "7",
       "SetID": "3nb2n2l",
       "Name": "Play an onlinelevel!",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "8",
       "SetID": "3nb2n2l",
       "Name": "Giant rater!",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "9",
       "SetID": "3nb2n2l",
       "Name": "Create a level with more than 20 enemies!",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nb2n2l",
       "IsBase": true,
-      "Progressed": 4,
-      "Completed": 0
+      "Progressed": 5,
+      "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-05-12T15:00:39.345223+00:00",
-  "LastChanged_Achievements": "2023-05-19T13:06:14.2535781+00:00",
+  "LastChanged_Achievements": "2023-05-19T14:02:13.4426639+00:00",
   "LastUpdate_AppInfo": "2023-05-12T14:56:58.8349424+00:00",
-  "LastUpdate_Ratings": "2023-05-19T13:01:12.2160537+00:00",
-  "LastUpdate_Achievements": "2023-05-19T13:06:14.2535862+00:00"
+  "LastUpdate_Ratings": "2023-05-19T13:56:56.5604719+00:00",
+  "LastUpdate_Achievements": "2023-05-19T14:02:13.4426734+00:00"
 }

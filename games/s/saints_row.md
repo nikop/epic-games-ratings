@@ -6,37 +6,37 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 3.00% | ~902 |
-| To The Nines | 3.00% | ~902 |
-| The Side Job | 2.00% | ~601 |
-| Wet Work | 2.00% | ~601 |
-| Tune Up | 2.00% | ~601 |
-| Optimized | 2.00% | ~601 |
-| Landlord | 2.00% | ~601 |
-| Performance Review | 2.00% | ~601 |
-| Making a Name | 2.00% | ~601 |
-| Food for Thought | 2.00% | ~601 |
+| First F#@!ing Day | 3.00% | ~904 |
+| To The Nines | 3.00% | ~904 |
+| The Side Job | 2.00% | ~602 |
+| Wet Work | 2.00% | ~602 |
+| Tune Up | 2.00% | ~602 |
+| Optimized | 2.00% | ~602 |
+| Landlord | 2.00% | ~602 |
+| Performance Review | 2.00% | ~602 |
+| Wrecking Ball | 2.00% | ~602 |
+| Making a Name | 2.00% | ~602 |
+| Food for Thought | 2.00% | ~602 |
 | Quality Time | 1.00% | ~301 |
 | Finders Keepers | 1.00% | ~301 |
 | A Young Empire | 1.00% | ~301 |
 | Power Players | 1.00% | ~301 |
 | Work Ethic | 1.00% | ~301 |
+| Et tu? | 1.00% | ~301 |
+| Took It to The Limit | 1.00% | ~301 |
 | Picking Fights | 1.00% | ~301 |
-| Wrecking Ball | 1.00% | ~301 |
 | Showdown | 0.90% | ~271 |
-| Et tu? | 0.90% | ~271 |
-| Took It to The Limit | 0.90% | ~271 |
-| Kitted Out | 0.80% | ~240 |
-| Masters of Santo Ileso | 0.70% | ~210 |
-| The Mechanic | 0.60% | ~180 |
-| Producer Credit | 0.60% | ~10 |
-| Hijacked | 0.50% | ~150 |
-| We could go home, or… | 0.50% | ~150 |
-| The Spins | 0.50% | ~150 |
-| A Golden Age | 0.50% | ~150 |
-| Closet Space | 0.50% | ~150 |
-| Face Off | 0.50% | ~8 |
-| Challenge Accepted | 0.40% | ~120 |
+| Masters of Santo Ileso | 0.80% | ~241 |
+| Kitted Out | 0.80% | ~241 |
+| The Mechanic | 0.60% | ~181 |
+| Producer Credit | 0.60% | ~11 |
+| Face Off | 0.60% | ~11 |
+| Hijacked | 0.50% | ~151 |
+| We could go home, or… | 0.50% | ~151 |
+| Challenge Accepted | 0.50% | ~151 |
+| The Spins | 0.50% | ~151 |
+| A Golden Age | 0.50% | ~151 |
+| Closet Space | 0.50% | ~151 |
 | Untouchable | 0.40% | ~120 |
 | Hazardous Heist | 0.40% | ~7 |
 | The Professional | 0.30% | ~90 |
@@ -60,8 +60,8 @@ Number of Ratings: 22,103  (23.09.2022)
 | Fiesta Time | 0.10% | ~30 |
 | All Mine | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,057 (Ranked 84)  
-Completed: 19 (0.06%) (Ranked 169)  
+Progressed: 30,118 (Ranked 84)  
+Completed: 19 (0.06%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -89,10 +89,10 @@ Completed: 19 (0.06%) (Ranked 169)
 | 2023-05-16 | 28,544 | 18 |
 | 2023-05-17 | 28,880 | 18 |
 | 2023-05-18 | 29,461 | 19 |
-| 2023-05-19 | 30,057 | 19 |
+| 2023-05-19 | 30,118 | 19 |
 ## Awards
 Max (Extremely Fun): 1,029  (Ranked 133)  
-Sum: 8,337 (Ranked 88)  
+Sum: 8,339 (Ranked 88)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
@@ -102,7 +102,7 @@ Diff (max vs sum): 45
 | This game has Amazing Characters | 956 |
 | This game has Diverse Characters | 954 |
 | This game is Great for Beginners | 954 |
-| This game is Relaxing | 951 |
+| This game is Relaxing | 953 |
 | This game has Amazing Storytelling | 947 |
 | This game has Playful Visuals | 777 |
 | This game has a Silly Community | 578 |
@@ -182,4 +182,4 @@ Diff (max vs sum): 45
 | 2023-05-16 | 3.78 | - | 1,028 | 8,328 |
 | 2023-05-17 | 3.78 | - | 1,028 | 8,329 |
 | 2023-05-18 | 3.78 | - | 1,029 | 8,334 |
-| 2023-05-19 | 3.78 | - | 1,029 | 8,337 |
+| 2023-05-19 | 3.78 | - | 1,029 | 8,339 |

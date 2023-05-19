@@ -4,11 +4,11 @@
   "ProductSlug": "far-cry-6",
   "Ranking_Rating": 604,
   "Ranking_Popularity": 155,
-  "Ranking_PopularitySum": 118,
+  "Ranking_PopularitySum": 117,
   "Ranking_EOS_Progress": 408,
-  "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_Completed": 201,
+  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-11-29T15:00:00+00:00",
     "PcReleaseDate": "2021-10-07T04:00:00+00:00",
@@ -4058,10 +4058,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 5455,
       "NumberOfAwardsMax": 701
+    },
+    {
+      "Time": "2023-05-19T13:58:55.3649093+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 5459,
+      "NumberOfAwardsMax": 701
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5455,
+  "NumberOfAwards": 5459,
   "NumberOfAwardsMax": 701,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -4111,7 +4117,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 678
+      "Count": 682
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4131,8 +4137,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:07.3905482+00:00",
-  "LastChanged": "2023-05-18T23:00:50.5119364+00:00",
+  "LastChanged": "2023-05-19T13:58:55.3649091+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:22.9003456+00:00",
-  "LastUpdate_Ratings": "2023-05-19T13:03:12.2944194+00:00",
-  "LastUpdate_Achievements": "2023-05-19T13:08:25.4251249+00:00"
+  "LastUpdate_Ratings": "2023-05-19T13:58:55.36491+00:00",
+  "LastUpdate_Achievements": "2023-05-19T14:04:12.4068174+00:00"
 }

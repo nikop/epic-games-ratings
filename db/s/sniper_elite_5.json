@@ -6,9 +6,9 @@
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 171,
-  "Ranking_EOS_Completed": 131,
+  "Ranking_EOS_Completed": 133,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -176,11 +176,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 783,
+  "EOS_Progressed": 786,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.26,
+  "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:23.1376838+00:00",
@@ -671,6 +671,11 @@
       "Time": "2023-05-19T13:09:15.2114735+00:00",
       "NumProgressed": 783,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-19T14:05:02.1793914+00:00",
+      "NumProgressed": 786,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -760,9 +765,9 @@
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 16
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -848,9 +853,9 @@
       "ID": "REWARD_2_GATHERING_INTEL",
       "SetID": "bm6el81",
       "Name": "Confirming Suspicions",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -992,9 +997,9 @@
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
       "SetID": "bm6el81",
       "Name": "It\u0027s Starting to Crack",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -1072,9 +1077,9 @@
       "ID": "REWARD_7_TARGET_AMERICA",
       "SetID": "bm6el81",
       "Name": "Target America",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -1168,9 +1173,9 @@
       "ID": "REWARD_DLC01_09_LAST_RESORT",
       "SetID": "83mdf7p",
       "Name": "Last Resort",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -1249,13 +1254,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 734,
+      "Progressed": 737,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 783,
+      "Progressed": 786,
       "Completed": 2
     }
   ],
@@ -1263,8 +1268,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-18T16:01:31.1520338+00:00",
-  "LastChanged_Achievements": "2023-05-19T13:09:15.211473+00:00",
+  "LastChanged_Achievements": "2023-05-19T14:05:02.1793909+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:23.4749836+00:00",
-  "LastUpdate_Ratings": "2023-05-19T13:04:03.5312791+00:00",
-  "LastUpdate_Achievements": "2023-05-19T13:09:15.2115389+00:00"
+  "LastUpdate_Ratings": "2023-05-19T13:59:44.6786903+00:00",
+  "LastUpdate_Achievements": "2023-05-19T14:05:02.1794609+00:00"
 }

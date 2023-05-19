@@ -36,7 +36,7 @@
 | Adventure Bay’s Citizen | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2 (Ranked 368)  
-Completed: 0 (0.00%) (Ranked 200)  
+Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

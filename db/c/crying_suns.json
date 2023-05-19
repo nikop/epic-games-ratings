@@ -6,9 +6,9 @@
   "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 29,
-  "Ranking_EOS_Completed": 200,
+  "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -538,9 +538,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 458421,
+  "EOS_Progressed": 458431,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 655,
+  "EOS_NewPlayers": 663,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3138,6 +3138,11 @@
       "Time": "2023-05-19T13:09:34.6122239+00:00",
       "NumProgressed": 458421,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-19T14:05:21.2473605+00:00",
+      "NumProgressed": 458431,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 79,
@@ -3179,9 +3184,9 @@
       "ID": "achievement_story_complete_chapter_2",
       "SetID": "8cokdon",
       "Name": "Chapter II: Fallible Flesh",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -3195,9 +3200,9 @@
       "ID": "achievement_story_complete_chapter_4",
       "SetID": "8cokdon",
       "Name": "Chapter IV: Through the Looking Glass",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_story_complete_chapter_5",
@@ -3219,9 +3224,9 @@
       "ID": "achievement_story_ending_emperor",
       "SetID": "8cokdon",
       "Name": "Emperor of Misery",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_story_ending_rebecca",
@@ -3259,9 +3264,9 @@
       "ID": "achievement_story_meet_idaho_b",
       "SetID": "8cokdon",
       "Name": "Through the mirror",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_story_meet_mother",
@@ -3307,17 +3312,17 @@
       "ID": "achievement_story_meet_vivar",
       "SetID": "8cokdon",
       "Name": "General Vivar",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_story_meet_zenon",
       "SetID": "8cokdon",
       "Name": "Pope Zenon",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_story_neon_child",
@@ -3355,9 +3360,9 @@
       "ID": "achievement_unlock_officer_as_1",
       "SetID": "8cokdon",
       "Name": "The Impersonator",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_unlock_officer_as_2",
@@ -3395,9 +3400,9 @@
       "ID": "achievement_unlock_officer_empire_2",
       "SetID": "8cokdon",
       "Name": "The Ace Pilot",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_unlock_officer_kb_1",
@@ -3419,9 +3424,9 @@
       "ID": "achievement_unlock_officer_kickstarter_1",
       "SetID": "8cokdon",
       "Name": "The lucky charm",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_unlock_officer_pirate_1",
@@ -3619,9 +3624,9 @@
       "ID": "achievement_win_run_with_as",
       "SetID": "8cokdon",
       "Name": "Geno Rule",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_win_run_with_church",
@@ -3780,21 +3785,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 2355,
+      "Progressed": 2365,
       "Completed": 2346
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 458421,
+      "Progressed": 458431,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-19T13:09:34.6122233+00:00",
+  "LastChanged_Achievements": "2023-05-19T14:05:21.2473601+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:09.480967+00:00",
-  "LastUpdate_Ratings": "2023-05-19T13:03:00.2268672+00:00",
-  "LastUpdate_Achievements": "2023-05-19T13:09:34.6124576+00:00"
+  "LastUpdate_Ratings": "2023-05-19T13:58:44.3316753+00:00",
+  "LastUpdate_Achievements": "2023-05-19T14:05:21.247464+00:00"
 }

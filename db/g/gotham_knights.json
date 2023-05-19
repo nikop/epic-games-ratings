@@ -6,9 +6,9 @@
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 67,
-  "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_Completed": 148,
+  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1148,9 +1148,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61103,
+  "EOS_Progressed": 61113,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2948,6 +2948,11 @@
       "Time": "2023-05-19T13:09:44.1427609+00:00",
       "NumProgressed": 61103,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-19T14:05:30.9944636+00:00",
+      "NumProgressed": 61113,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3189,9 +3194,9 @@
       "ID": "FREEZE_1_5",
       "SetID": "4eo5ebm",
       "Name": "Quartzer Life Crisis",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 244
     },
     {
       "ID": "FREEZE_2",
@@ -3446,13 +3451,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61103,
+      "Progressed": 61113,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31383,
+      "Progressed": 31393,
       "Completed": 2640
     }
   ],
@@ -3460,8 +3465,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-19T11:00:31.9062538+00:00",
-  "LastChanged_Achievements": "2023-05-19T13:09:44.1427605+00:00",
+  "LastChanged_Achievements": "2023-05-19T14:05:30.9944631+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:40.0085268+00:00",
-  "LastUpdate_Ratings": "2023-05-19T13:03:25.1446343+00:00",
-  "LastUpdate_Achievements": "2023-05-19T13:09:44.1428248+00:00"
+  "LastUpdate_Ratings": "2023-05-19T13:59:07.8378371+00:00",
+  "LastUpdate_Achievements": "2023-05-19T14:05:30.994534+00:00"
 }
