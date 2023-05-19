@@ -2,9 +2,9 @@
   "ID": "62c5dc16e57d4850916f5de42635625d",
   "Name": "Riftbound",
   "ProductSlug": "riftbound-db891d",
-  "Ranking_EOS_Progress": 332,
+  "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-05-18T23:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 8,
+  "EOS_Progressed": 9,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -44,6 +44,11 @@
       "Time": "2023-05-19T00:04:29.577086+00:00",
       "NumProgressed": 8,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T06:03:58.6122446+00:00",
+      "NumProgressed": 9,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -61,9 +66,9 @@
       "ID": "ACH_AdventureTime",
       "SetID": "1od64h3",
       "Name": "Adventure Time",
-      "Percentage": 75,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_ApprenticeSummoner",
@@ -101,7 +106,7 @@
       "ID": "ACH_CloseCall",
       "SetID": "1od64h3",
       "Name": "Close Call",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -189,9 +194,9 @@
       "ID": "ACH_MasterOfTheArts",
       "SetID": "1od64h3",
       "Name": "Master Of The Arts",
-      "Percentage": 38,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_OneHandTied",
@@ -270,13 +275,13 @@
     {
       "ID": "1od64h3",
       "IsBase": true,
-      "Progressed": 8,
+      "Progressed": 9,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:45:02.2220313+00:00",
-  "LastChanged_Achievements": "2023-05-19T05:03:23.3198785+00:00",
+  "LastChanged_Achievements": "2023-05-19T06:03:58.6122443+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:12.4637445+00:00",
-  "LastUpdate_Ratings": "2023-05-19T04:57:01.7142478+00:00",
-  "LastUpdate_Achievements": "2023-05-19T05:03:23.3198982+00:00"
+  "LastUpdate_Ratings": "2023-05-19T05:57:06.1560238+00:00",
+  "LastUpdate_Achievements": "2023-05-19T06:03:58.6122628+00:00"
 }

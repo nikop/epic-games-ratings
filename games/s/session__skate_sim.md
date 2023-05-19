@@ -6,9 +6,9 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 50.00% | ~987 |
-| Keeping it classy | 26.00% | ~513 |
-| Welcome to the family | 18.00% | ~355 |
+| You're free now! | 50.00% | ~988 |
+| Keeping it classy | 26.00% | ~514 |
+| Welcome to the family | 18.00% | ~356 |
 | The finer things in life | 17.00% | ~336 |
 | Backpacker | 12.00% | ~237 |
 | Go with the Flow | 12.00% | ~237 |
@@ -43,9 +43,9 @@ Number of Ratings: 111  (23.09.2022)
 | Trick shot marksman | 4.00% | ~79 |
 | Hoarder | 3.00% | ~59 |
 | We get it, you're good | 3.00% | ~59 |
-| Cross lock country | 2.00% | ~39 |
-| Many plys later... | 2.00% | ~39 |
-| Pew-Pew | 2.00% | ~39 |
+| Cross lock country | 2.00% | ~40 |
+| Many plys later... | 2.00% | ~40 |
+| Pew-Pew | 2.00% | ~40 |
 | Dipped! | 1.00% | ~20 |
 | That was wheelie fun | 1.00% | ~20 |
 | Skatepark hero | 0.80% | ~16 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,974 (Ranked 145)  
+Progressed: 1,975 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-16 | 1,958 | 0 |
 | 2023-05-17 | 1,962 | 0 |
 | 2023-05-18 | 1,968 | 0 |
-| 2023-05-19 | 1,974 | 0 |
+| 2023-05-19 | 1,975 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 393)  
 Sum: 413 (Ranked 300)  

@@ -173,9 +173,9 @@
       "ID": "completeact1",
       "SetID": "40n95i5",
       "Name": "BBFF (Best Brigade Friend Forever)",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 60,
-      "UsersEstimate": 97
+      "UsersEstimate": 99
     },
     {
       "ID": "completeact2",
@@ -302,8 +302,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-05-19T05:05:15.4172915+00:00",
+  "LastChanged_Achievements": "2023-05-19T06:05:40.296646+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:43.0209148+00:00",
-  "LastUpdate_Ratings": "2023-05-19T04:58:44.0504526+00:00",
-  "LastUpdate_Achievements": "2023-05-19T05:05:15.4173038+00:00"
+  "LastUpdate_Ratings": "2023-05-19T05:58:57.3400627+00:00",
+  "LastUpdate_Achievements": "2023-05-19T06:05:40.2966577+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 300,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -646,9 +646,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1974,
+  "EOS_Progressed": 1975,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -996,6 +996,11 @@
       "Time": "2023-05-19T04:06:14.8241462+00:00",
       "NumProgressed": 1974,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T06:05:32.7494806+00:00",
+      "NumProgressed": 1975,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1047,7 +1052,7 @@
       "Name": "Cross lock country",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_DIPPED",
@@ -1159,7 +1164,7 @@
       "Name": "Keeping it classy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -1199,7 +1204,7 @@
       "Name": "Many plys later...",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_NAHELL",
@@ -1215,7 +1220,7 @@
       "Name": "Pew-Pew",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_PLASTIC-SURGEON",
@@ -1375,7 +1380,7 @@
       "Name": "Welcome to the family",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -1383,22 +1388,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 987
+      "UsersEstimate": 988
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 1974,
+      "Progressed": 1975,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-05-19T01:59:20.8031234+00:00",
-  "LastChanged_Achievements": "2023-05-19T05:04:57.9007087+00:00",
+  "LastChanged_Achievements": "2023-05-19T06:05:32.7494803+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:00.0773192+00:00",
-  "LastUpdate_Ratings": "2023-05-19T04:59:00.0439847+00:00",
-  "LastUpdate_Achievements": "2023-05-19T05:04:57.9007483+00:00"
+  "LastUpdate_Ratings": "2023-05-19T05:59:14.6490827+00:00",
+  "LastUpdate_Achievements": "2023-05-19T06:05:32.7495203+00:00"
 }

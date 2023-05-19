@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -1396,9 +1396,9 @@
       "ID": "19",
       "SetID": "d0g98p",
       "Name": "A Grand Visit",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 485
+      "UsersEstimate": 492
     },
     {
       "ID": "2",
@@ -1580,9 +1580,9 @@
       "ID": "4",
       "SetID": "d0g98p",
       "Name": "A Prophecy",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 581
+      "UsersEstimate": 587
     },
     {
       "ID": "40",
@@ -1725,8 +1725,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-19T05:04:54.9913919+00:00",
+  "LastChanged_Achievements": "2023-05-19T06:05:29.7531419+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:24.6988678+00:00",
-  "LastUpdate_Ratings": "2023-05-19T04:57:15.7619798+00:00",
-  "LastUpdate_Achievements": "2023-05-19T05:04:54.9914401+00:00"
+  "LastUpdate_Ratings": "2023-05-19T05:57:18.7793214+00:00",
+  "LastUpdate_Achievements": "2023-05-19T06:05:29.7531923+00:00"
 }

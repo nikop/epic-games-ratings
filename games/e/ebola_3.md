@@ -32,14 +32,14 @@
 | City on fire ✔ | 5.00% | ~8 |
 | Infected ✔ | 5.00% | ~8 |
 | Crocodile Attack ✔ | 4.00% | ~7 |
+| Group Alpha ✔ | 4.00% | ~7 |
 | Mutant run ✔ | 4.00% | ~7 |
 | Rank A ✔ | 4.00% | ~7 |
+| Broadcasting ✔ | 4.00% | ~7 |
 | Secret ✔ | 3.00% | ~5 |
 | Boss 2 ✔ | 3.00% | ~5 |
-| Group Alpha ✔ | 3.00% | ~5 |
 | Sheriff ✔ | 3.00% | ~5 |
 | Rank B+ ✔ | 3.00% | ~5 |
-| Broadcasting ✔ | 3.00% | ~5 |
 | Car ✔ | 2.00% | ~3 |
 | Seeker One ✔ | 2.00% | ~3 |
 | Seeker Three ✔ | 2.00% | ~3 |

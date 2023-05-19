@@ -6,28 +6,28 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 3.00% | ~892 |
+| First F#@!ing Day | 3.00% | ~893 |
 | Optimized | 2.00% | ~595 |
 | Performance Review | 2.00% | ~595 |
 | To The Nines | 2.00% | ~595 |
-| Finders Keepers | 1.00% | ~297 |
-| The Side Job | 1.00% | ~297 |
-| Wet Work | 1.00% | ~297 |
-| Tune Up | 1.00% | ~297 |
-| A Young Empire | 1.00% | ~297 |
-| Landlord | 1.00% | ~297 |
-| Work Ethic | 1.00% | ~297 |
-| Wrecking Ball | 1.00% | ~297 |
-| Making a Name | 1.00% | ~297 |
-| Food for Thought | 1.00% | ~297 |
+| Finders Keepers | 1.00% | ~298 |
+| The Side Job | 1.00% | ~298 |
+| Wet Work | 1.00% | ~298 |
+| Tune Up | 1.00% | ~298 |
+| A Young Empire | 1.00% | ~298 |
+| Landlord | 1.00% | ~298 |
+| Work Ethic | 1.00% | ~298 |
+| Picking Fights | 1.00% | ~298 |
+| Wrecking Ball | 1.00% | ~298 |
+| Making a Name | 1.00% | ~298 |
+| Food for Thought | 1.00% | ~298 |
 | Quality Time | 0.90% | ~268 |
 | Power Players | 0.90% | ~268 |
-| Picking Fights | 0.90% | ~268 |
+| Showdown | 0.80% | ~238 |
 | Et tu? | 0.80% | ~238 |
 | Took It to The Limit | 0.80% | ~238 |
-| Showdown | 0.70% | ~208 |
 | Kitted Out | 0.70% | ~208 |
-| Masters of Santo Ileso | 0.60% | ~178 |
+| Masters of Santo Ileso | 0.60% | ~179 |
 | The Spins | 0.50% | ~149 |
 | The Mechanic | 0.50% | ~149 |
 | Producer Credit | 0.50% | ~7 |
@@ -39,14 +39,15 @@ Number of Ratings: 22,103  (23.09.2022)
 | Closet Space | 0.40% | ~119 |
 | Hazardous Heist | 0.40% | ~6 |
 | Untouchable | 0.30% | ~89 |
+| Free Refills | 0.30% | ~89 |
 | Neighborly | 0.30% | ~89 |
-| Shopping Spree | 0.20% | ~59 |
-| The Professional | 0.20% | ~59 |
-| Chaos Tamer | 0.20% | ~59 |
-| Free Refills | 0.20% | ~59 |
-| Prankster | 0.20% | ~59 |
-| Smooth Moves | 0.20% | ~59 |
-| Tourist | 0.20% | ~59 |
+| Shopping Spree | 0.20% | ~60 |
+| The Professional | 0.20% | ~60 |
+| Chaos Tamer | 0.20% | ~60 |
+| Prankster | 0.20% | ~60 |
+| Smooth Moves | 0.20% | ~60 |
+| Tourist | 0.20% | ~60 |
+| Community Outreach | 0.20% | ~60 |
 | Jack of All Trades | 0.10% | ~30 |
 | It's a Bird! | 0.10% | ~30 |
 | The Collector | 0.10% | ~30 |
@@ -55,12 +56,11 @@ Number of Ratings: 22,103  (23.09.2022)
 | Bonus Round | 0.10% | ~30 |
 | Armor Piercing | 0.10% | ~30 |
 | A Car Named Simone | 0.10% | ~30 |
-| Community Outreach | 0.10% | ~30 |
 | Heard You Like Wheels | 0.10% | ~30 |
 | Fiesta Time | 0.10% | ~30 |
 | All Mine | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,745 (Ranked 84)  
+Progressed: 29,767 (Ranked 84)  
 Completed: 19 (0.06%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 19 (0.06%) (Ranked 169)
 | 2023-05-16 | 28,544 | 18 |
 | 2023-05-17 | 28,880 | 18 |
 | 2023-05-18 | 29,461 | 19 |
-| 2023-05-19 | 29,745 | 19 |
+| 2023-05-19 | 29,767 | 19 |
 ## Awards
 Max (Extremely Fun): 1,029  (Ranked 133)  
 Sum: 8,336 (Ranked 88)  

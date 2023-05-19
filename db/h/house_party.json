@@ -356,9 +356,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4986,
+  "EOS_Progressed": 4988,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -761,6 +761,11 @@
       "Time": "2023-05-19T04:03:11.0583497+00:00",
       "NumProgressed": 4986,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-19T06:03:23.9812382+00:00",
+      "NumProgressed": 4988,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 69,
@@ -770,17 +775,17 @@
       "ID": "AgainstAllOdds",
       "SetID": "bmkn7o4",
       "Name": "Against All Odds",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "Amy",
       "SetID": "bmkn7o4",
       "Name": "Amy",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "Amy_Scav",
@@ -826,9 +831,9 @@
       "ID": "Brahdyssey",
       "SetID": "bmkn7o4",
       "Name": "The Brahdyssey",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 25
     },
     {
       "ID": "Bride",
@@ -954,9 +959,9 @@
       "ID": "GoodRiddance",
       "SetID": "bmkn7o4",
       "Name": "Good Riddance!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "GrumpFu",
@@ -1034,9 +1039,9 @@
       "ID": "Katherine",
       "SetID": "bmkn7o4",
       "Name": "Katherine",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 30
     },
     {
       "ID": "LCA",
@@ -1154,9 +1159,9 @@
       "ID": "SocialButterfly",
       "SetID": "bmkn7o4",
       "Name": "Social Butterfly",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 10
     },
     {
       "ID": "Stephanie",
@@ -1178,9 +1183,9 @@
       "ID": "Succeed",
       "SetID": "bmkn7o4",
       "Name": "If at First You Don\u0027t Succeed...",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 25
     },
     {
       "ID": "SuckerPunch",
@@ -1323,21 +1328,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 2025,
+      "Progressed": 2027,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 4986,
+      "Progressed": 4988,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-05-19T05:01:17.6379794+00:00",
+  "LastChanged_Achievements": "2023-05-19T06:03:23.9812379+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:19.144132+00:00",
-  "LastUpdate_Ratings": "2023-05-19T04:57:09.9256152+00:00",
-  "LastUpdate_Achievements": "2023-05-19T05:01:17.6380635+00:00"
+  "LastUpdate_Ratings": "2023-05-19T05:57:14.1004575+00:00",
+  "LastUpdate_Achievements": "2023-05-19T06:03:23.9813097+00:00"
 }

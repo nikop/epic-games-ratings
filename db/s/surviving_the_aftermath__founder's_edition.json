@@ -981,7 +981,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 5421,
+  "EOS_Progressed": 5422,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 0,
@@ -3176,6 +3176,11 @@
       "Time": "2023-05-19T04:06:50.0981949+00:00",
       "NumProgressed": 5421,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T06:06:01.774815+00:00",
+      "NumProgressed": 5422,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -3195,7 +3200,7 @@
       "Name": "Friendly",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "11",
@@ -3219,7 +3224,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2873
+      "UsersEstimate": 2874
     },
     {
       "ID": "14",
@@ -3267,7 +3272,7 @@
       "Name": "Healer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2873
+      "UsersEstimate": 2874
     },
     {
       "ID": "2",
@@ -3275,7 +3280,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "20",
@@ -3291,7 +3296,7 @@
       "Name": "The Great Healer",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 1626
+      "UsersEstimate": 1627
     },
     {
       "ID": "22",
@@ -3331,7 +3336,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "27",
@@ -3347,7 +3352,7 @@
       "Name": "Merchant",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "29",
@@ -3427,7 +3432,7 @@
       "Name": "Spreading Influence",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "38",
@@ -3435,7 +3440,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 2439
+      "UsersEstimate": 2440
     },
     {
       "ID": "39",
@@ -3459,7 +3464,7 @@
       "Name": "Bread and Circuses",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "41",
@@ -3507,7 +3512,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "47",
@@ -3611,7 +3616,7 @@
       "Name": "Tailored to fit",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "59",
@@ -3643,7 +3648,7 @@
       "Name": "Real Survivor",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "9",
@@ -3658,15 +3663,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 5421,
+      "Progressed": 5422,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-05-13T10:01:00.1135595+00:00",
-  "LastChanged_Achievements": "2023-05-19T05:05:36.7290759+00:00",
+  "LastChanged_Achievements": "2023-05-19T06:06:01.7748145+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:49.5655014+00:00",
-  "LastUpdate_Ratings": "2023-05-19T04:59:56.0610374+00:00",
-  "LastUpdate_Achievements": "2023-05-19T05:05:36.7291425+00:00"
+  "LastUpdate_Ratings": "2023-05-19T06:00:21.376832+00:00",
+  "LastUpdate_Achievements": "2023-05-19T06:06:01.774884+00:00"
 }

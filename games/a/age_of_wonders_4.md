@@ -1,56 +1,56 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.50 (Ranked 531)  
+Rating: 4.50 (Ranked 532)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Wonderful Discovery | 82.00% | ~2,274 |
-| Realm Estate | 79.00% | ~2,191 |
-| Secret Technique | 79.00% | ~2,191 |
-| Walls Cannot Stop Us | 76.00% | ~2,107 |
-| From Friends to Family | 71.00% | ~1,969 |
-| Magical Synergy | 67.00% | ~1,858 |
-| Bone Peddler | 64.00% | ~1,775 |
-| Stronger Together | 58.00% | ~1,608 |
-| Full Ascension | 55.00% | ~1,525 |
-| There Can Only Be One! | 48.00% | ~1,331 |
-| Seat of Power | 47.00% | ~1,303 |
-| My Final Form | 43.00% | ~1,192 |
-| Intimidation Tactics | 43.00% | ~1,192 |
-| Valley of Wonders | 42.00% | ~1,165 |
-| In a Liege of Your Own | 36.00% | ~998 |
-| Return of the Wizard King | 30.00% | ~832 |
-| Digging for Treasure | 30.00% | ~832 |
-| Against the Odds | 30.00% | ~832 |
-| Enchanted Archipelago | 26.00% | ~721 |
-| Impenetrable Fortress | 25.00% | ~693 |
-| The Magic That Empowers Me! | 18.00% | ~499 |
-| Preparation Is Everything | 18.00% | ~499 |
-| Arch Mage | 17.00% | ~471 |
+| A Wonderful Discovery | 82.00% | ~2,277 |
+| Realm Estate | 79.00% | ~2,194 |
+| Secret Technique | 79.00% | ~2,194 |
+| Walls Cannot Stop Us | 75.00% | ~2,083 |
+| From Friends to Family | 71.00% | ~1,972 |
+| Magical Synergy | 66.00% | ~1,833 |
+| Bone Peddler | 64.00% | ~1,777 |
+| Stronger Together | 57.00% | ~1,583 |
+| Full Ascension | 55.00% | ~1,527 |
+| There Can Only Be One! | 48.00% | ~1,333 |
+| Seat of Power | 47.00% | ~1,305 |
+| My Final Form | 43.00% | ~1,194 |
+| Intimidation Tactics | 43.00% | ~1,194 |
+| Valley of Wonders | 42.00% | ~1,166 |
+| In a Liege of Your Own | 36.00% | ~1,000 |
+| Return of the Wizard King | 30.00% | ~833 |
+| Digging for Treasure | 30.00% | ~833 |
+| Against the Odds | 30.00% | ~833 |
+| Enchanted Archipelago | 26.00% | ~722 |
+| Impenetrable Fortress | 25.00% | ~694 |
+| The Magic That Empowers Me! | 18.00% | ~500 |
+| Preparation Is Everything | 18.00% | ~500 |
+| Arch Mage | 17.00% | ~472 |
 | God Emperor | 16.00% | ~444 |
-| Eternal Lord | 15.00% | ~416 |
-| Crimson Caldera | 14.00% | ~388 |
-| Fiery Friend | 14.00% | ~388 |
-| The Creator | 13.00% | ~360 |
+| Eternal Lord | 15.00% | ~417 |
+| Crimson Caldera | 14.00% | ~389 |
+| Fiery Friend | 14.00% | ~389 |
+| The Creator | 13.00% | ~361 |
 | Lord of Chaos | 12.00% | ~333 |
 | The Goddess of Nature | 11.00% | ~305 |
 | Pruning for Progress | 8.00% | ~222 |
-| The Eternal Court | 6.00% | ~166 |
-| Jack of All Tomes | 6.00% | ~166 |
+| The Eternal Court | 6.00% | ~167 |
+| Jack of All Tomes | 6.00% | ~167 |
 | I've Got Everything I Need Right Here | 5.00% | ~139 |
 | Betrayal Most Foul | 5.00% | ~139 |
 | Grexolis | 3.00% | ~83 |
-| Snap Out of It! | 2.00% | ~55 |
-| I Want to Break Free | 2.00% | ~55 |
-| One for All, All for One | 2.00% | ~55 |
+| Snap Out of It! | 2.00% | ~56 |
+| I Want to Break Free | 2.00% | ~56 |
+| One for All, All for One | 2.00% | ~56 |
 | Manufactured War | 1.00% | ~28 |
 | I'll Fight You All | 0.90% | ~25 |
 | The Grey Wizard | 0.30% | ~8 |
 | Returning Circle | 0.30% | ~8 |
 | Master of Evilness | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,773 (Ranked 134)  
+Progressed: 2,777 (Ranked 134)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,7 +65,7 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-16 | 2,592 | 0 |
 | 2023-05-17 | 2,660 | 0 |
 | 2023-05-18 | 2,756 | 0 |
-| 2023-05-19 | 2,773 | 0 |
+| 2023-05-19 | 2,777 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,22 +8,24 @@ Number of Ratings: 177  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Friend in Need... | 1.00% | ~50 |
 | Smooth Operator: Madison | 0.90% | ~45 |
+| Katherine | 0.60% | ~30 |
+| The Brahdyssey | 0.50% | ~25 |
 | Drunk and Disorderly: Stephanie | 0.50% | ~25 |
-| Katherine | 0.50% | ~25 |
 | Relentless | 0.50% | ~25 |
-| The Brahdyssey | 0.40% | ~20 |
+| If at First You Don't Succeed... | 0.50% | ~25 |
 | Life Found a Way | 0.40% | ~8 |
-| If at First You Don't Succeed... | 0.40% | ~20 |
 | Caught in the Act | 0.30% | ~15 |
+| Amy | 0.20% | ~10 |
 | IRL Let's Player | 0.20% | ~10 |
 | Newcomer: Vickie | 0.20% | ~10 |
 | Smooth Operator: Ashley | 0.20% | ~10 |
+| Social Butterfly | 0.20% | ~10 |
 | Stephanie | 0.20% | ~10 |
 | The Muse: Madison | 0.20% | ~10 |
 | The Crush | 0.20% | ~10 |
 | The Magic Number | 0.20% | ~10 |
 | Vickie | 0.20% | ~10 |
-| Amy | 0.10% | ~5 |
+| Against All Odds | 0.10% | ~5 |
 | Amy: Scavenger Hunt | 0.10% | ~5 |
 | Ashley | 0.10% | ~5 |
 | Benedict Brahrnold | 0.10% | ~5 |
@@ -38,6 +40,7 @@ Number of Ratings: 177  (23.09.2022)
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.10% | ~2 |
 | Duck n' Weave | 0.10% | ~5 |
 | First Impressions | 0.10% | ~5 |
+| Good Riddance! | 0.10% | ~5 |
 | I Know Grump-Fu | 0.10% | ~5 |
 | The Harder They Fall...Dood | 0.10% | ~5 |
 | Hijinks Averted | 0.10% | ~5 |
@@ -52,7 +55,6 @@ Number of Ratings: 177  (23.09.2022)
 | Rachael | 0.10% | ~5 |
 | Ronin | 0.10% | ~5 |
 | Do You Smell Blood? | 0.10% | ~5 |
-| Social Butterfly | 0.10% | ~5 |
 | A Striking Resemblance | 0.10% | ~5 |
 | The Muse: Derek | 0.10% | ~5 |
 | Howz It Goin Dood | 0.10% | ~5 |
@@ -63,11 +65,9 @@ Number of Ratings: 177  (23.09.2022)
 | Good Ol' Days | 0.10% | ~5 |
 | Snapped | 0.10% | ~5 |
 | Te Amo Lety | 0.10% | ~5 |
-| Against All Odds | 0.00% | ~0 |
 | Congrats, A Celebrity Hates You | 0.00% | ~0 |
 | D-Club Certified | 0.00% | ~0 |
 | Deck the Balls | 0.00% | ~0 |
-| Good Riddance! | 0.00% | ~0 |
 | Hungry Hungry Hot Tubs | 0.00% | ~0 |
 | Notice Me, Sensei | 0.00% | ~0 |
 | Party Pooper | 0.00% | ~0 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 | Derezzed | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,986 (Ranked 123)  
+Progressed: 4,988 (Ranked 123)  
 Completed: 2 (0.04%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 2 (0.04%) (Ranked 177)
 | 2023-05-16 | 4,971 | 2 |
 | 2023-05-17 | 4,973 | 2 |
 | 2023-05-18 | 4,981 | 2 |
-| 2023-05-19 | 4,986 | 2 |
+| 2023-05-19 | 4,988 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

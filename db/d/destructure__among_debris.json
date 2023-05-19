@@ -2,9 +2,9 @@
   "ID": "654424d5bf5d4687bd06b0354eccf38e",
   "Name": "DESTRUCTURE: Among Debris",
   "ProductSlug": "destructure-among-debris-b4aaf8",
-  "Ranking_EOS_Progress": 269,
-  "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_Progress": 268,
+  "Ranking_EOS_Completed": 74,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72,
+  "EOS_Progressed": 73,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.39,
+  "EOS_Completed_Percentage": 1.37,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:27.5419142+00:00",
@@ -333,6 +333,11 @@
       "Time": "2023-05-19T03:00:41.206043+00:00",
       "NumProgressed": 72,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-19T06:01:24.3578357+00:00",
+      "NumProgressed": 73,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -350,7 +355,7 @@
       "ID": "avaricerite",
       "SetID": "jig50d",
       "Name": "Avaricerite",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -414,7 +419,7 @@
       "ID": "die",
       "SetID": "jig50d",
       "Name": "You Have Been Deaded",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 10,
       "UsersEstimate": 52
     },
@@ -422,7 +427,7 @@
       "ID": "easy_victory",
       "SetID": "jig50d",
       "Name": "Easy Victory",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 40,
       "UsersEstimate": 4
     },
@@ -430,7 +435,7 @@
       "ID": "graduation",
       "SetID": "jig50d",
       "Name": "Graduation",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 10,
       "UsersEstimate": 54
     },
@@ -510,7 +515,7 @@
       "ID": "rookie",
       "SetID": "jig50d",
       "Name": "Rookie",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 5,
       "UsersEstimate": 51
     },
@@ -591,7 +596,7 @@
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 72,
+      "Progressed": 73,
       "Completed": 1
     }
   ],
@@ -599,8 +604,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-19T05:00:47.5606642+00:00",
+  "LastChanged_Achievements": "2023-05-19T06:01:24.3578351+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:52.876258+00:00",
-  "LastUpdate_Ratings": "2023-05-19T04:59:56.5352468+00:00",
-  "LastUpdate_Achievements": "2023-05-19T05:00:47.5606921+00:00"
+  "LastUpdate_Ratings": "2023-05-19T06:00:21.8067365+00:00",
+  "LastUpdate_Achievements": "2023-05-19T06:01:24.3579037+00:00"
 }

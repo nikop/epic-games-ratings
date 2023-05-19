@@ -15,19 +15,19 @@
 | Hard Rock | 58.00% | ~7 |
 | Masochistic | 50.00% | ~6 |
 | Squid game | 42.00% | ~5 |
+| The beast within | 42.00% | ~5 |
 | Rooftop | 42.00% | ~5 |
+| It's getting dark | 42.00% | ~5 |
 | Sensitive soul | 42.00% | ~5 |
 | Rock Solid | 33.00% | ~4 |
-| The beast within | 33.00% | ~4 |
-| It's getting dark | 33.00% | ~4 |
 | Homeless | 33.00% | ~4 |
 | Big badaboom! | 33.00% | ~4 |
 | Bookworm | 33.00% | ~4 |
+| Compulsive hoarder | 25.00% | ~3 |
 | Nokron tower | 25.00% | ~3 |
 | Payback | 25.00% | ~3 |
 | Full power | 17.00% | ~2 |
 | "Ah sh*t... Here we go again!" | 17.00% | ~2 |
-| Compulsive hoarder | 17.00% | ~2 |
 | MayDay! MayDay! | 17.00% | ~2 |
 | Magnitude 5 | 17.00% | ~2 |
 | Abyssal God | 0.00% | ~0 |

@@ -4,7 +4,7 @@
   "ProductSlug": "elypse-b177a8",
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -146,9 +146,9 @@
       "ID": "Ach_BuyAllItemAndUpgrade",
       "SetID": "4o5gjp0",
       "Name": "Compulsive hoarder",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Ach_BuyHut",
@@ -170,9 +170,9 @@
       "ID": "Ach_DarkPoulpeConstellation",
       "SetID": "4o5gjp0",
       "Name": "The beast within",
-      "Percentage": 33,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Ach_DeathXTime",
@@ -218,9 +218,9 @@
       "ID": "Ach_DiscoveryTemple",
       "SetID": "4o5gjp0",
       "Name": "It\u0027s getting dark",
-      "Percentage": 33,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Ach_DiscoveryTuto",
@@ -369,8 +369,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-05-19T05:04:56.7197208+00:00",
+  "LastChanged_Achievements": "2023-05-19T06:05:31.5827285+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:52.2027329+00:00",
-  "LastUpdate_Ratings": "2023-05-19T04:57:47.6077409+00:00",
-  "LastUpdate_Achievements": "2023-05-19T05:04:56.719744+00:00"
+  "LastUpdate_Ratings": "2023-05-19T05:57:50.9426973+00:00",
+  "LastUpdate_Achievements": "2023-05-19T06:05:31.582753+00:00"
 }

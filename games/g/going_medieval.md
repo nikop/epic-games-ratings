@@ -6,19 +6,19 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 68.00% | ~1,804 |
-| Having A Field Day | 66.00% | ~1,751 |
-| Reap What You Sow | 64.00% | ~1,698 |
-| Green Thumb | 63.00% | ~1,671 |
+| Get A Room | 68.00% | ~1,805 |
+| Having A Field Day | 66.00% | ~1,752 |
+| Reap What You Sow | 64.00% | ~1,699 |
+| Green Thumb | 63.00% | ~1,672 |
 | The First Day | 60.00% | ~1,592 |
 | Novice Researcher | 56.00% | ~1,486 |
-| Putting Food on the Table | 55.00% | ~1,459 |
-| Onward | 50.00% | ~1,326 |
+| Putting Food on the Table | 55.00% | ~1,460 |
+| Onward | 50.00% | ~1,327 |
 | The First Week | 47.00% | ~1,247 |
 | Studious Researcher | 47.00% | ~1,247 |
-| Feast or Famine | 46.00% | ~1,220 |
-| Beam Me Up | 44.00% | ~1,167 |
-| Adept Researcher | 44.00% | ~1,167 |
+| Feast or Famine | 46.00% | ~1,221 |
+| Beam Me Up | 44.00% | ~1,168 |
+| Adept Researcher | 44.00% | ~1,168 |
 | Home Cooked Meal | 43.00% | ~1,141 |
 | Luminary Researcher | 41.00% | ~1,088 |
 | Retribution | 35.00% | ~929 |
@@ -27,8 +27,8 @@ Number of Ratings: 706  (23.09.2022)
 | Heating Up | 23.00% | ~610 |
 | Winter Is Coming | 20.00% | ~531 |
 | Winter Is Here | 18.00% | ~478 |
-| Oh Deer! | 16.00% | ~424 |
-| All Year Round | 16.00% | ~424 |
+| Oh Deer! | 16.00% | ~425 |
+| All Year Round | 16.00% | ~425 |
 | A Party Now | 15.00% | ~398 |
 | Disassembled | 13.00% | ~345 |
 | Deerly Departed | 11.00% | ~292 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~53 |
 | Wabbit Season | 0.90% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,653 (Ranked 136)  
+Progressed: 2,654 (Ranked 136)  
 Completed: 6 (0.23%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -46,7 +46,7 @@ Completed: 6 (0.23%) (Ranked 136)
 | 2023-04-25 | 2,633 | 6 |
 | 2023-05-17 | 2,643 | 6 |
 | 2023-05-18 | 2,652 | 6 |
-| 2023-05-19 | 2,653 | 6 |
+| 2023-05-19 | 2,654 | 6 |
 ## Awards
 Max (Relaxing): 118  (Ranked 305)  
 Sum: 926 (Ranked 234)  

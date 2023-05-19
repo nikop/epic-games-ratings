@@ -2,9 +2,9 @@
   "ID": "301ec0fdbcaf46b3af9322e436ac87bd",
   "Name": "Voidtrain",
   "ProductSlug": "voidtrain",
-  "Ranking_Rating": 531,
+  "Ranking_Rating": 532,
   "Ranking_Popularity": 446,
-  "Ranking_PopularitySum": 386,
+  "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 282,
@@ -771,10 +771,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 129,
       "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2023-05-19T05:57:57.7661632+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 100,
+      "NumberOfAwardsMax": 30
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 129,
+  "NumberOfAwards": 100,
   "NumberOfAwardsMax": 30,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -820,8 +826,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:41.7165355+00:00",
-  "LastChanged": "2023-05-18T03:58:04.7119461+00:00",
+  "LastChanged": "2023-05-19T05:57:57.7661631+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:56.8191441+00:00",
-  "LastUpdate_Ratings": "2023-05-19T04:57:53.3750621+00:00",
-  "LastUpdate_Achievements": "2023-05-19T05:03:28.8467348+00:00"
+  "LastUpdate_Ratings": "2023-05-19T05:57:57.7661638+00:00",
+  "LastUpdate_Achievements": "2023-05-19T06:04:03.407361+00:00"
 }

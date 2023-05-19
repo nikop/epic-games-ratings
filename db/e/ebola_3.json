@@ -884,9 +884,9 @@
       "ID": "achIvan",
       "SetID": "72gjli4",
       "Name": "Group Alpha \u2714",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "achKloyn",
@@ -1060,9 +1060,9 @@
       "ID": "achVitali",
       "SetID": "72gjli4",
       "Name": "Broadcasting \u2714",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "achWater",
@@ -1101,8 +1101,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-19T05:05:39.796361+00:00",
+  "LastChanged_Achievements": "2023-05-19T06:06:05.0159789+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:09.5371961+00:00",
-  "LastUpdate_Ratings": "2023-05-19T05:00:12.612294+00:00",
-  "LastUpdate_Achievements": "2023-05-19T05:05:39.7963993+00:00"
+  "LastUpdate_Ratings": "2023-05-19T06:00:43.723468+00:00",
+  "LastUpdate_Achievements": "2023-05-19T06:06:05.0160264+00:00"
 }
