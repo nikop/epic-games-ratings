@@ -3,11 +3,11 @@
   "Name": "Obduction",
   "ProductSlug": "obduction",
   "Ranking_Rating": 860,
-  "Ranking_Popularity": 384,
-  "Ranking_PopularitySum": 432,
+  "Ranking_Popularity": 383,
+  "Ranking_PopularitySum": 431,
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-07-15T15:00:00+00:00",
@@ -458,6 +458,6 @@
   "FirstSeen": "2022-07-22T20:24:36.0781179+00:00",
   "LastChanged": "2023-03-11T18:57:30.1603188+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:43.1564085+00:00",
-  "LastUpdate_Ratings": "2023-05-19T19:18:31.0397011+00:00",
-  "LastUpdate_Achievements": "2023-05-19T19:23:32.3726723+00:00"
+  "LastUpdate_Ratings": "2023-05-19T20:00:42.1343818+00:00",
+  "LastUpdate_Achievements": "2023-05-19T20:05:17.3907013+00:00"
 }

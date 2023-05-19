@@ -2,9 +2,9 @@
   "ID": "877e0717992c4058acdb32363130958a",
   "Name": "Oxide Room 104",
   "ProductSlug": "oxide-room-104-4c1249",
-  "Ranking_EOS_Progress": 315,
+  "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -156,25 +156,25 @@
       "ID": "ACH_ENTRANCE",
       "SetID": "511e31d",
       "Name": "I\u0027m close now",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_ENTRANCEEVIL",
       "SetID": "511e31d",
       "Name": "Failed attempt",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_ESCAPEDOC",
       "SetID": "511e31d",
       "Name": "The real escape",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_EVADOCUMENTS",
@@ -204,9 +204,9 @@
       "ID": "ACH_GOODENDING",
       "SetID": "511e31d",
       "Name": "Born again",
-      "Percentage": 13,
+      "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_HOHARMFORCE104",
@@ -220,9 +220,9 @@
       "ID": "ACH_KITCHEN",
       "SetID": "511e31d",
       "Name": "Nightmare in the kitchen",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_MATTDOCUMENTS",
@@ -252,17 +252,17 @@
       "ID": "ACH_NOKNIFE",
       "SetID": "511e31d",
       "Name": "Good choice",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_OUTOFMOTEL",
       "SetID": "511e31d",
       "Name": "It can\u0027t be true",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_PICKLOCK",
@@ -276,9 +276,9 @@
       "ID": "ACH_RESTAURANT",
       "SetID": "511e31d",
       "Name": "Take the long way round",
-      "Percentage": 20,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_REVENGE",
@@ -355,8 +355,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-05-19T19:23:42.8751354+00:00",
+  "LastChanged_Achievements": "2023-05-19T20:05:30.0028315+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:03.4791013+00:00",
-  "LastUpdate_Ratings": "2023-05-19T19:15:46.4728027+00:00",
-  "LastUpdate_Achievements": "2023-05-19T19:23:42.8751534+00:00"
+  "LastUpdate_Ratings": "2023-05-19T19:57:15.3663904+00:00",
+  "LastUpdate_Achievements": "2023-05-19T20:05:30.002852+00:00"
 }

@@ -206,9 +206,9 @@
       "ID": "Achievement_Crafty",
       "SetID": "c01p6e5",
       "Name": "Crafty",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 270
     },
     {
       "ID": "Achievement_DontPanic",
@@ -262,9 +262,9 @@
       "ID": "Achievement_FirstOfApril",
       "SetID": "c01p6e5",
       "Name": "First of April",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 42
     },
     {
       "ID": "Achievement_FixItFelix",
@@ -503,8 +503,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-05-19T19:23:50.3514927+00:00",
+  "LastChanged_Achievements": "2023-05-19T20:05:38.667626+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:12.4303975+00:00",
-  "LastUpdate_Ratings": "2023-05-19T19:17:08.3533857+00:00",
-  "LastUpdate_Achievements": "2023-05-19T19:23:50.3515219+00:00"
+  "LastUpdate_Ratings": "2023-05-19T19:59:02.9349489+00:00",
+  "LastUpdate_Achievements": "2023-05-19T20:05:38.6676615+00:00"
 }

@@ -5,20 +5,20 @@ Rating: 4.67 (Ranked 258)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 43.00% | ~2,712 |
-| Greasy Palms | 39.00% | ~2,459 |
-| South American Connection | 23.00% | ~1,450 |
-| Life of the Party | 17.00% | ~1,072 |
-| Big Heat from Little Havana | 13.00% | ~820 |
-| Tommy Two-Wheels | 13.00% | ~820 |
+| Legal Counsel | 43.00% | ~2,714 |
+| Greasy Palms | 39.00% | ~2,462 |
+| South American Connection | 23.00% | ~1,452 |
+| Life of the Party | 17.00% | ~1,073 |
+| Big Heat from Little Havana | 13.00% | ~821 |
+| Tommy Two-Wheels | 13.00% | ~821 |
 | Chauffeur | 12.00% | ~757 |
 | Iron-y | 9.00% | ~568 |
 | Salutations My Little Friend | 9.00% | ~568 |
-| Gun for Hire | 7.00% | ~441 |
-| Mischief Managed | 7.00% | ~441 |
-| Vice City Mogul | 6.00% | ~378 |
-| Bloodstained Hands | 6.00% | ~378 |
-| Catch Me if You Can | 5.00% | ~315 |
+| Gun for Hire | 7.00% | ~442 |
+| Mischief Managed | 7.00% | ~442 |
+| Vice City Mogul | 6.00% | ~379 |
+| Bloodstained Hands | 6.00% | ~379 |
+| Catch Me if You Can | 5.00% | ~316 |
 | Not my First Time | 4.00% | ~252 |
 | Pie Guy | 4.00% | ~252 |
 | Grand Theft Auto | 4.00% | ~252 |
@@ -35,12 +35,12 @@ Rating: 4.67 (Ranked 258)
 | Chopper’d Up | 1.00% | ~63 |
 | Daredevil | 0.90% | ~57 |
 | Born in the 80’s | 0.70% | ~44 |
-| Keepie-Uppy Okie Dokie | 0.70% | ~44 |
 | I'm Famous! | 0.70% | ~44 |
 | Done it All | 0.70% | ~44 |
+| Keepie-Uppy Okie Dokie | 0.60% | ~38 |
 | Kingpin | 0.30% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,306 (Ranked 115)  
+Progressed: 6,312 (Ranked 115)  
 Completed: 22 (0.35%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,10 +69,10 @@ Completed: 22 (0.35%) (Ranked 119)
 | 2023-05-16 | 6,171 | 22 |
 | 2023-05-17 | 6,178 | 22 |
 | 2023-05-18 | 6,209 | 22 |
-| 2023-05-19 | 6,306 | 22 |
+| 2023-05-19 | 6,312 | 22 |
 ## Awards
-Max (Great Boss Battles): 34  (Ranked 430)  
-Sum: 34 (Ranked 452)  
+Max (Great Boss Battles): 34  (Ranked 429)  
+Sum: 34 (Ranked 451)  
 Diff (max vs sum): -22  
 | Award | Count |
 | ----- | ----- |

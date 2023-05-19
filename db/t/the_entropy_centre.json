@@ -2,9 +2,9 @@
   "ID": "3658d3b2ab274e47baf9da3225ad128e",
   "Name": "The Entropy Centre",
   "ProductSlug": "the-entropy-centre-40bccd",
-  "Ranking_EOS_Progress": 260,
+  "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 86,
+  "EOS_Progressed": 87,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -88,6 +88,11 @@
       "Time": "2023-05-19T18:05:37.6097736+00:00",
       "NumProgressed": 86,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T20:05:35.0348901+00:00",
+      "NumProgressed": 87,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -97,7 +102,7 @@
       "ID": "ACH_ACT1",
       "SetID": "2310cb1",
       "Name": "Wake Up",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 30,
       "UsersEstimate": 70
     },
@@ -169,7 +174,7 @@
       "ID": "ACH_ACT3",
       "SetID": "2310cb1",
       "Name": "Command Centre",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 30,
       "UsersEstimate": 42
     },
@@ -177,7 +182,7 @@
       "ID": "ACH_ACT4",
       "SetID": "2310cb1",
       "Name": "This is a Wall",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 30,
       "UsersEstimate": 40
     },
@@ -225,7 +230,7 @@
       "ID": "ACH_ARCHIVIST",
       "SetID": "2310cb1",
       "Name": "Archivist",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -233,7 +238,7 @@
       "ID": "ACH_BESTFRIEND",
       "SetID": "2310cb1",
       "Name": "Man\u0027s Best Friend",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 29
     },
@@ -241,7 +246,7 @@
       "ID": "ACH_CHAINREACTION",
       "SetID": "2310cb1",
       "Name": "Chain Reaction",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 30,
       "UsersEstimate": 30
     },
@@ -265,7 +270,7 @@
       "ID": "ACH_HANDYMAN",
       "SetID": "2310cb1",
       "Name": "Handyman",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 22
     },
@@ -289,7 +294,7 @@
       "ID": "ACH_REWINDTIME",
       "SetID": "2310cb1",
       "Name": "It\u0027s Rewind Time",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 15,
       "UsersEstimate": 77
     },
@@ -314,7 +319,7 @@
     {
       "ID": "2310cb1",
       "IsBase": true,
-      "Progressed": 86,
+      "Progressed": 87,
       "Completed": 0
     }
   ],
@@ -322,8 +327,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-05-19T19:23:47.1347458+00:00",
+  "LastChanged_Achievements": "2023-05-19T20:05:35.0348898+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:56.6865886+00:00",
-  "LastUpdate_Ratings": "2023-05-19T19:15:54.8660131+00:00",
-  "LastUpdate_Achievements": "2023-05-19T19:23:47.1347618+00:00"
+  "LastUpdate_Ratings": "2023-05-19T19:57:27.0227696+00:00",
+  "LastUpdate_Achievements": "2023-05-19T20:05:35.0349102+00:00"
 }

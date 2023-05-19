@@ -3,11 +3,11 @@
   "Name": "ATOM RPG",
   "ProductSlug": "atom-rpg-3adb54",
   "Ranking_Rating": 605,
-  "Ranking_Popularity": 395,
-  "Ranking_PopularitySum": 436,
+  "Ranking_Popularity": 394,
+  "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -342,7 +342,7 @@
   ],
   "EOS_Progressed": 781,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -880,8 +880,8 @@
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-05-09T03:01:00.2336224+00:00",
-  "LastChanged_Achievements": "2023-05-19T19:24:15.8475701+00:00",
+  "LastChanged_Achievements": "2023-05-19T20:06:07.7701025+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:55.4306832+00:00",
-  "LastUpdate_Ratings": "2023-05-19T19:18:13.9695194+00:00",
-  "LastUpdate_Achievements": "2023-05-19T19:24:15.8475926+00:00"
+  "LastUpdate_Ratings": "2023-05-19T20:00:21.3411904+00:00",
+  "LastUpdate_Achievements": "2023-05-19T20:06:07.7701322+00:00"
 }

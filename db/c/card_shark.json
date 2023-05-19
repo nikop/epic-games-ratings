@@ -3,11 +3,11 @@
   "Name": "Card Shark",
   "ProductSlug": "card-shark-8f95f0",
   "Ranking_Rating": 214,
-  "Ranking_Popularity": 492,
-  "Ranking_PopularitySum": 492,
+  "Ranking_Popularity": 491,
+  "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-06-02T14:00:00+00:00",
@@ -92,6 +92,6 @@
   "FirstSeenRating": "2022-08-19T11:03:13.5817816+00:00",
   "LastChanged": "2023-04-28T23:01:46.6885137+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:09:31.322266+00:00",
-  "LastUpdate_Ratings": "2023-05-19T19:18:00.9874243+00:00",
-  "LastUpdate_Achievements": "2023-05-19T19:21:33.2237881+00:00"
+  "LastUpdate_Ratings": "2023-05-19T20:00:06.5761931+00:00",
+  "LastUpdate_Achievements": "2023-05-19T20:02:27.9948915+00:00"
 }

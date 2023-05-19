@@ -4,7 +4,7 @@
   "ProductSlug": "gigapocalypse-fdc53b",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-22T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113,
+  "EOS_Progressed": 114,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
@@ -42,6 +42,11 @@
     {
       "Time": "2023-05-19T03:05:47.3253681+00:00",
       "NumProgressed": 113,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-19T20:06:09.5630617+00:00",
+      "NumProgressed": 114,
       "NumCompleted": 1
     }
   ],
@@ -70,31 +75,31 @@
       "Name": "Math Wizard",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "secret12",
       "SetID": "39f6ck8",
       "Name": "The Duelist",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 39
     },
     {
       "ID": "secret13",
       "SetID": "39f6ck8",
       "Name": "You Shall Not Pass",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 30
     },
     {
       "ID": "secret14",
       "SetID": "39f6ck8",
       "Name": "Mommy\u0027s Very Angry",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 28
     },
     {
       "ID": "secret15",
@@ -118,7 +123,7 @@
       "Name": "Who\u0027s A Good Boy",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "secret18",
@@ -132,7 +137,7 @@
       "ID": "secret19",
       "SetID": "39f6ck8",
       "Name": "Feng Shui",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 15,
       "UsersEstimate": 81
     },
@@ -156,9 +161,9 @@
       "ID": "secret21",
       "SetID": "39f6ck8",
       "Name": "Mutant And Proud",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 39
     },
     {
       "ID": "secret22",
@@ -190,7 +195,7 @@
       "Name": "Power Overload",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "secret26",
@@ -214,13 +219,13 @@
       "Name": "Thick Skin",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "secret29",
       "SetID": "39f6ck8",
       "Name": "Impenetrable Skin",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 15,
       "UsersEstimate": 56
     },
@@ -236,9 +241,9 @@
       "ID": "secret30",
       "SetID": "39f6ck8",
       "Name": "Undying Skin",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 28
     },
     {
       "ID": "secret31",
@@ -308,7 +313,7 @@
       "ID": "secret39",
       "SetID": "39f6ck8",
       "Name": "Chomp Chomp!",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
       "UsersEstimate": 47
     },
@@ -348,7 +353,7 @@
       "ID": "secret43",
       "SetID": "39f6ck8",
       "Name": "Quite A Snack",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 15,
       "UsersEstimate": 63
     },
@@ -356,7 +361,7 @@
       "ID": "secret44",
       "SetID": "39f6ck8",
       "Name": "Lunch Before The Lunch",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
       "UsersEstimate": 21
     },
@@ -422,7 +427,7 @@
       "Name": "Fire Beacon",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "secret52",
@@ -452,7 +457,7 @@
       "ID": "secret7",
       "SetID": "39f6ck8",
       "Name": "Too Cool For School",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 15,
       "UsersEstimate": 95
     },
@@ -477,7 +482,7 @@
     {
       "ID": "39f6ck8",
       "IsBase": true,
-      "Progressed": 113,
+      "Progressed": 114,
       "Completed": 1
     }
   ],
@@ -485,8 +490,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-05-19T19:24:17.3432833+00:00",
+  "LastChanged_Achievements": "2023-05-19T20:06:09.5630613+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:39.4540742+00:00",
-  "LastUpdate_Ratings": "2023-05-19T19:18:03.8475041+00:00",
-  "LastUpdate_Achievements": "2023-05-19T19:24:17.3433215+00:00"
+  "LastUpdate_Ratings": "2023-05-19T20:00:10.7821388+00:00",
+  "LastUpdate_Achievements": "2023-05-19T20:06:09.5631404+00:00"
 }

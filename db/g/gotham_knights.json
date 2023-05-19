@@ -1148,9 +1148,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61169,
+  "EOS_Progressed": 61175,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 356,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2978,6 +2978,11 @@
       "Time": "2023-05-19T19:24:19.9142965+00:00",
       "NumProgressed": 61169,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-19T20:06:12.3457683+00:00",
+      "NumProgressed": 61175,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3291,9 +3296,9 @@
       "ID": "HARLEY_1",
       "SetID": "4eo5ebm",
       "Name": "Har, Har, Har, Very Funny",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 306
     },
     {
       "ID": "HARLEY_2",
@@ -3476,13 +3481,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61169,
+      "Progressed": 61175,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31449,
+      "Progressed": 31455,
       "Completed": 2640
     }
   ],
@@ -3490,8 +3495,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-19T11:00:31.9062538+00:00",
-  "LastChanged_Achievements": "2023-05-19T19:24:19.914296+00:00",
+  "LastChanged_Achievements": "2023-05-19T20:06:12.3457681+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-19T19:17:50.8407876+00:00",
-  "LastUpdate_Achievements": "2023-05-19T19:24:19.914349+00:00"
+  "LastUpdate_Ratings": "2023-05-19T19:59:54.6461318+00:00",
+  "LastUpdate_Achievements": "2023-05-19T20:06:12.3458479+00:00"
 }

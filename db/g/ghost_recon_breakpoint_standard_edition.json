@@ -3,11 +3,11 @@
   "Name": "Ghost Recon Breakpoint Standard Edition",
   "ProductSlug": "ghost-recon-breakpoint",
   "Ranking_Rating": 480,
-  "Ranking_Popularity": 131,
+  "Ranking_Popularity": 130,
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2019-10-04T15:00:00+00:00",
@@ -4069,11 +4069,17 @@
       "Rating": 4.54,
       "NumberOfAwards": 8240,
       "NumberOfAwardsMax": 1057
+    },
+    {
+      "Time": "2023-05-19T19:57:32.2012701+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 8256,
+      "NumberOfAwardsMax": 1061
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8240,
-  "NumberOfAwardsMax": 1057,
+  "NumberOfAwards": 8256,
+  "NumberOfAwardsMax": 1061,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -4086,13 +4092,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1057
+      "Count": 1061
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 832
+      "Count": 837
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4110,7 +4116,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 933
+      "Count": 940
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4148,8 +4154,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:01.6049154+00:00",
-  "LastChanged": "2023-05-19T19:15:58.8710924+00:00",
+  "LastChanged": "2023-05-19T19:57:32.2012699+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:01.2210638+00:00",
-  "LastUpdate_Ratings": "2023-05-19T19:15:58.8710928+00:00",
-  "LastUpdate_Achievements": "2023-05-19T19:18:52.0757682+00:00"
+  "LastUpdate_Ratings": "2023-05-19T19:57:32.2012706+00:00",
+  "LastUpdate_Achievements": "2023-05-19T20:01:10.4979196+00:00"
 }

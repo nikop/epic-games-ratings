@@ -3,7 +3,7 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 829,
-  "Ranking_Popularity": 398,
+  "Ranking_Popularity": 397,
   "Ranking_PopularitySum": 341,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 112,
@@ -410,9 +410,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 12798,
+  "EOS_Progressed": 12811,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 253,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -870,6 +870,11 @@
       "Time": "2023-05-19T19:18:38.4118387+00:00",
       "NumProgressed": 12798,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-19T20:00:53.9310172+00:00",
+      "NumProgressed": 12811,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 40,
@@ -911,9 +916,9 @@
       "ID": "DISARM_ENEMY",
       "SetID": "4hj6d86",
       "Name": "Flesh Wound",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 256
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -1039,9 +1044,9 @@
       "ID": "PERFECT_DODGE_MULTIPLE",
       "SetID": "4hj6d86",
       "Name": "Float Like A Butterfly",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 64
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -1167,9 +1172,9 @@
       "ID": "KILL_2HEAD_HAZARD",
       "SetID": "6j5ggkc",
       "Name": "Bear Trap",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -1200,13 +1205,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 12798,
+      "Progressed": 12811,
       "Completed": 51
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 724,
+      "Progressed": 737,
       "Completed": 29
     }
   ],
@@ -1214,8 +1219,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-16T17:57:38.030273+00:00",
-  "LastChanged_Achievements": "2023-05-19T19:18:38.4118304+00:00",
+  "LastChanged_Achievements": "2023-05-19T20:00:53.9310168+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-19T19:16:17.1134814+00:00",
-  "LastUpdate_Achievements": "2023-05-19T19:18:38.4118927+00:00"
+  "LastUpdate_Ratings": "2023-05-19T19:57:53.5813011+00:00",
+  "LastUpdate_Achievements": "2023-05-19T20:00:53.9310604+00:00"
 }

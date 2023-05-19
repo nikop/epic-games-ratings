@@ -465,7 +465,7 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12523,
+  "EOS_Progressed": 12524,
   "EOS_Completed": 94,
   "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 1,
@@ -2170,6 +2170,11 @@
       "Time": "2023-05-19T18:05:33.0227502+00:00",
       "NumProgressed": 12523,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-05-19T20:05:30.4794716+00:00",
+      "NumProgressed": 12524,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 41,
@@ -2261,7 +2266,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2379
+      "UsersEstimate": 2380
     },
     {
       "ID": "tpote_achievement_2",
@@ -2333,7 +2338,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2379
+      "UsersEstimate": 2380
     },
     {
       "ID": "tpote_achievement_28",
@@ -2381,7 +2386,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1878
+      "UsersEstimate": 1879
     },
     {
       "ID": "tpote_achievement_33",
@@ -2501,22 +2506,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4508
+      "UsersEstimate": 4509
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12523,
+      "Progressed": 12524,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-19T19:23:43.2590765+00:00",
+  "LastChanged_Achievements": "2023-05-19T20:05:30.4794712+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:09:49.1992061+00:00",
-  "LastUpdate_Ratings": "2023-05-19T19:18:02.6216753+00:00",
-  "LastUpdate_Achievements": "2023-05-19T19:23:43.25911+00:00"
+  "LastUpdate_Ratings": "2023-05-19T20:00:08.2200233+00:00",
+  "LastUpdate_Achievements": "2023-05-19T20:05:30.4795194+00:00"
 }

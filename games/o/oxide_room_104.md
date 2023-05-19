@@ -15,18 +15,18 @@
 | Now or never | 53.00% | ~8 |
 | Antidote | 40.00% | ~6 |
 | On the right path | 27.00% | ~4 |
+| I'm close now | 27.00% | ~4 |
+| Failed attempt | 27.00% | ~4 |
+| The real escape | 27.00% | ~4 |
+| Nightmare in the kitchen | 27.00% | ~4 |
+| Good choice | 27.00% | ~4 |
+| It can't be true | 27.00% | ~4 |
+| Take the long way round | 27.00% | ~4 |
 | Pick the right door | 27.00% | ~4 |
 | One-way | 27.00% | ~4 |
 | The third floor | 27.00% | ~4 |
-| I'm close now | 20.00% | ~3 |
-| Failed attempt | 20.00% | ~3 |
-| The real escape | 20.00% | ~3 |
-| Nightmare in the kitchen | 20.00% | ~3 |
-| Good choice | 20.00% | ~3 |
-| It can't be true | 20.00% | ~3 |
-| Take the long way round | 20.00% | ~3 |
+| Born again | 20.00% | ~3 |
 | 373 | 13.00% | ~2 |
-| Born again | 13.00% | ~2 |
 | He who seeks, finds! | 13.00% | ~2 |
 | The experiment | 7.00% | ~1 |
 | Eva's diary | 7.00% | ~1 |
@@ -36,7 +36,7 @@
 | A dark past | 0.00% | ~0 |
 | Sly as a fox | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15 (Ranked 315)  
+Progressed: 15 (Ranked 316)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |

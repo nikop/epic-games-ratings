@@ -3,11 +3,11 @@
   "Name": "The Guild 3",
   "ProductSlug": "the-guild-3",
   "Ranking_Rating": 834,
-  "Ranking_Popularity": 492,
-  "Ranking_PopularitySum": 492,
+  "Ranking_Popularity": 491,
+  "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-06-14T17:00:00+00:00",
@@ -276,6 +276,6 @@
   "FirstSeen": "2022-07-22T20:21:22.0812478+00:00",
   "LastChanged": "2023-04-07T11:57:12.0692585+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:56:53.6889872+00:00",
-  "LastUpdate_Ratings": "2023-05-19T19:15:40.4316741+00:00",
-  "LastUpdate_Achievements": "2023-05-19T19:23:15.4217267+00:00"
+  "LastUpdate_Ratings": "2023-05-19T19:57:08.5603765+00:00",
+  "LastUpdate_Achievements": "2023-05-19T20:04:57.1272999+00:00"
 }

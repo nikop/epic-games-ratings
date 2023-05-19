@@ -318,25 +318,25 @@
       "ID": "LEVEL_016",
       "SetID": "212bg48",
       "Name": "Where\u0027s the toilet, sir?",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "LEVEL_017",
       "SetID": "212bg48",
       "Name": "Windmill on a rocky cliff",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "LEVEL_018",
       "SetID": "212bg48",
       "Name": "Isle rock city",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "LEVEL_019",
@@ -358,17 +358,17 @@
       "ID": "LEVEL_021",
       "SetID": "212bg48",
       "Name": "Island in the center of the island",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "LEVEL_022",
       "SetID": "212bg48",
       "Name": "Who likes bridges?",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "LEVEL_023",
@@ -444,8 +444,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-19T19:21:37.9608494+00:00",
+  "LastChanged_Achievements": "2023-05-19T20:03:13.605725+00:00",
   "LastUpdate_AppInfo": "2023-05-15T11:57:23.4437098+00:00",
-  "LastUpdate_Ratings": "2023-05-19T19:15:38.4873173+00:00",
-  "LastUpdate_Achievements": "2023-05-19T19:21:37.9608682+00:00"
+  "LastUpdate_Ratings": "2023-05-19T19:57:06.0657361+00:00",
+  "LastUpdate_Achievements": "2023-05-19T20:03:13.6057489+00:00"
 }

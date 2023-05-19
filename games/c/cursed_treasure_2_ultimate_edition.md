@@ -26,9 +26,9 @@
 | Top of the World | 67.00% | ~102 |
 | The Apotheosis of War | 66.00% | ~100 |
 | Stasis Alcatraz | 65.00% | ~99 |
-| Tastes Like Chicken | 61.00% | ~93 |
+| Tastes Like Chicken | 62.00% | ~94 |
+| Combo Breaker | 61.00% | ~93 |
 | Thunderstorm | 61.00% | ~93 |
-| Combo Breaker | 60.00% | ~91 |
 | Brilliant: Holy Mountain | 59.00% | ~90 |
 | Clean Forests | 57.00% | ~87 |
 | Starry: Meadowshire | 55.00% | ~84 |
@@ -59,7 +59,7 @@
 | Hostile Waters | 15.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 152 (Ranked 243)  
-Completed: 19 (12.50%) (Ranked 12)  
+Completed: 19 (12.50%) (Ranked 11)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

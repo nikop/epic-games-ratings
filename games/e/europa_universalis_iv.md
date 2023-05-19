@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,585 |
-| That's a Grand Army | 8.00% | ~3,186 |
-| That is mine! | 8.00% | ~3,186 |
-| Victorious! | 8.00% | ~3,186 |
-| Brothers in Arms | 6.00% | ~2,390 |
-| That's a Grand Navy | 6.00% | ~2,390 |
-| Seriously?! | 6.00% | ~2,390 |
-| For the Glory | 5.00% | ~1,992 |
-| Cold War | 4.00% | ~1,593 |
-| True Catholic | 4.00% | ~1,593 |
-| Defender of the Faith | 3.00% | ~1,195 |
-| It's all about the money | 3.00% | ~1,195 |
-| Respected | 3.00% | ~1,195 |
-| Truly Divine Ruler | 3.00% | ~1,195 |
+| Until death do us apart | 9.00% | ~3,588 |
+| That's a Grand Army | 8.00% | ~3,190 |
+| That is mine! | 8.00% | ~3,190 |
+| Victorious! | 8.00% | ~3,190 |
+| Brothers in Arms | 6.00% | ~2,392 |
+| That's a Grand Navy | 6.00% | ~2,392 |
+| Seriously?! | 6.00% | ~2,392 |
+| For the Glory | 5.00% | ~1,993 |
+| Cold War | 4.00% | ~1,595 |
+| True Catholic | 4.00% | ~1,595 |
+| Defender of the Faith | 3.00% | ~1,196 |
+| It's all about the money | 3.00% | ~1,196 |
+| Respected | 3.00% | ~1,196 |
+| Truly Divine Ruler | 3.00% | ~1,196 |
 | Blockader | 2.00% | ~797 |
 | Combined Arms | 2.00% | ~797 |
 | Double the Love | 2.00% | ~797 |
@@ -29,15 +29,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | Royal Authority | 2.00% | ~797 |
 | The Princess is in this Castle | 2.00% | ~797 |
 | Total Control | 2.00% | ~797 |
-| Agressive Expander | 1.00% | ~398 |
-| All That's Thine Shall Be Mine | 1.00% | ~398 |
-| Azur semé de lis or | 1.00% | ~398 |
-| Bright Spark | 1.00% | ~398 |
-| City of Cities | 1.00% | ~398 |
-| Factionalism | 1.00% | ~398 |
-| A Golden Empire | 1.00% | ~398 |
-| My armies are invincible! | 1.00% | ~398 |
-| The Five Colonies | 0.90% | ~358 |
+| Agressive Expander | 1.00% | ~399 |
+| All That's Thine Shall Be Mine | 1.00% | ~399 |
+| Azur semé de lis or | 1.00% | ~399 |
+| Bright Spark | 1.00% | ~399 |
+| City of Cities | 1.00% | ~399 |
+| Factionalism | 1.00% | ~399 |
+| A Golden Empire | 1.00% | ~399 |
+| My armies are invincible! | 1.00% | ~399 |
+| The Five Colonies | 0.90% | ~359 |
 | Isn't this the way to India? | 0.80% | ~319 |
 | Market Control | 0.80% | ~319 |
 | This navy can take it all | 0.80% | ~319 |
@@ -61,19 +61,19 @@ Number of Ratings: 8,414  (23.09.2022)
 | This is My Faith | 0.40% | ~159 |
 | Trophy Hunter | 0.40% | ~159 |
 | Voting Streak | 0.40% | ~159 |
-| All Your Trade Are Belong to Us | 0.30% | ~119 |
-| Bleed Them Dry | 0.30% | ~119 |
-| Four For Trade | 0.30% | ~119 |
-| Global Hegemony | 0.30% | ~119 |
-| Grand Coalition | 0.30% | ~119 |
-| Grand Duchy | 0.30% | ~119 |
-| Italian Ambition | 0.30% | ~119 |
-| Not so sad a state... | 0.30% | ~119 |
-| One Night in Paris | 0.30% | ~119 |
-| Tear Down This Wall | 0.30% | ~119 |
-| Three Trivial Tributary Tribes | 0.30% | ~119 |
-| Traditional Player | 0.30% | ~119 |
-| Wonderful | 0.30% | ~119 |
+| All Your Trade Are Belong to Us | 0.30% | ~120 |
+| Bleed Them Dry | 0.30% | ~120 |
+| Four For Trade | 0.30% | ~120 |
+| Global Hegemony | 0.30% | ~120 |
+| Grand Coalition | 0.30% | ~120 |
+| Grand Duchy | 0.30% | ~120 |
+| Italian Ambition | 0.30% | ~120 |
+| Not so sad a state... | 0.30% | ~120 |
+| One Night in Paris | 0.30% | ~120 |
+| Tear Down This Wall | 0.30% | ~120 |
+| Three Trivial Tributary Tribes | 0.30% | ~120 |
+| Traditional Player | 0.30% | ~120 |
+| Wonderful | 0.30% | ~120 |
 | A Decent Reserve | 0.20% | ~80 |
 | A Pile of Gold | 0.20% | ~80 |
 | A Protected Market | 0.20% | ~80 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,831 (Ranked 80)  
+Progressed: 39,869 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -390,7 +390,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-16 | 38,036 | 0 |
 | 2023-05-17 | 38,614 | 0 |
 | 2023-05-18 | 39,222 | 0 |
-| 2023-05-19 | 39,831 | 0 |
+| 2023-05-19 | 39,869 | 0 |
 ## Awards
 Max (Educational): 5,242  (Ranked 60)  
 Sum: 43,454 (Ranked 27)  

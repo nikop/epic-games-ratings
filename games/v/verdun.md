@@ -6,17 +6,17 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~34,052 |
-| Worth it | 64.00% | ~28,303 |
-| Eagle Eye | 55.00% | ~24,323 |
-| Corpseman I | 40.00% | ~17,689 |
-| Blast fishing | 38.00% | ~16,805 |
-| Not alone | 32.00% | ~14,151 |
-| Headhunter I | 27.00% | ~11,940 |
-| Manual Labour I | 26.00% | ~11,498 |
+| Setting an example | 77.00% | ~34,055 |
+| Worth it | 64.00% | ~28,305 |
+| Eagle Eye | 55.00% | ~24,325 |
+| Corpseman I | 40.00% | ~17,691 |
+| Blast fishing | 38.00% | ~16,806 |
+| Not alone | 32.00% | ~14,153 |
+| Headhunter I | 27.00% | ~11,941 |
+| Manual Labour I | 26.00% | ~11,499 |
 | Developers, Developers, Developers | 24.00% | ~10,614 |
 | Basic Training | 24.00% | ~10,614 |
-| Furchtlos und Treu | 13.00% | ~5,749 |
+| Furchtlos und Treu | 13.00% | ~5,750 |
 | Gott Mit Uns | 12.00% | ~5,307 |
 | This We'll Defend! | 9.00% | ~3,980 |
 | Anker wirf! | 9.00% | ~3,980 |
@@ -41,8 +41,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | In My Defens God Me Defend | 3.00% | ~1,327 |
 | Silver x100 | 3.00% | ~1,327 |
 | Impavidum Ferient Bella! | 3.00% | ~1,327 |
-| Bronze x100 | 2.00% | ~884 |
-| Shoot, Cover, Reload, Repeat | 2.00% | ~884 |
+| Bronze x100 | 2.00% | ~885 |
+| Shoot, Cover, Reload, Repeat | 2.00% | ~885 |
 | Gold x100 | 1.00% | ~442 |
 | Hunting the Hun | 1.00% | ~442 |
 | #1 | 1.00% | ~442 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~44 |
 | Blood Brother | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,223 (Ranked 77)  
+Progressed: 44,227 (Ranked 77)  
 Completed: 2 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 2 (0.00%) (Ranked 201)
 | 2023-05-16 | 43,902 | 2 |
 | 2023-05-17 | 44,025 | 2 |
 | 2023-05-18 | 44,114 | 2 |
-| 2023-05-19 | 44,223 | 2 |
+| 2023-05-19 | 44,227 | 2 |
 ## Awards
 Max (Highly Recommended): 93  (Ranked 332)  
 Sum: 732 (Ranked 257)  

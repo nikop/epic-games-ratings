@@ -6,11 +6,11 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 74.00% | ~1,789 |
+| Venture Outward | 74.00% | ~1,790 |
 | Ready for Winter | 64.00% | ~1,548 |
-| Ready for Summer | 51.00% | ~1,233 |
-| Cordon Bleu | 44.00% | ~1,064 |
-| Tapped! | 36.00% | ~870 |
+| Ready for Summer | 51.00% | ~1,234 |
+| Cordon Bleu | 43.00% | ~1,040 |
+| Tapped! | 36.00% | ~871 |
 | Eureka | 31.00% | ~750 |
 | Scourge Slayer | 26.00% | ~629 |
 | Science, Troglodyte! | 23.00% | ~556 |
@@ -23,10 +23,10 @@ Number of Ratings: 266  (23.09.2022)
 | Strange amalgams | 13.00% | ~314 |
 | The Power of Faith | 13.00% | ~314 |
 | The Power of Freedom | 9.00% | ~218 |
-| Ace Detective | 8.00% | ~193 |
-| Gift from the Ancestors | 8.00% | ~193 |
-| House of Cards | 8.00% | ~193 |
-| Magic is a science | 8.00% | ~193 |
+| Ace Detective | 8.00% | ~194 |
+| Gift from the Ancestors | 8.00% | ~194 |
+| House of Cards | 8.00% | ~194 |
+| Magic is a science | 8.00% | ~194 |
 | Let ‘em eat magma! | 7.00% | ~169 |
 | The power of ambition | 7.00% | ~169 |
 | The stuff of legends. | 7.00% | ~169 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.40% | ~10 |
 | The Absolute Pinnacle. | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,418 (Ranked 140)  
+Progressed: 2,419 (Ranked 140)  
 Completed: 1 (0.04%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,11 +77,11 @@ Completed: 1 (0.04%) (Ranked 178)
 | 2023-05-16 | 2,378 | 1 |
 | 2023-05-17 | 2,382 | 1 |
 | 2023-05-18 | 2,397 | 1 |
-| 2023-05-19 | 2,418 | 1 |
+| 2023-05-19 | 2,419 | 1 |
 ## Awards
-Max (Amazing Characters): 31  (Ranked 441)  
+Max (Amazing Characters): 31  (Ranked 440)  
 Sum: 238 (Ranked 342)  
-Diff (max vs sum): 99  
+Diff (max vs sum): 98  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 31 |

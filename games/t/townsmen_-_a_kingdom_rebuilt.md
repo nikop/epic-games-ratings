@@ -18,12 +18,12 @@ Number of Ratings: 37  (23.09.2022)
 | Tax-man II | 6.00% | ~249 |
 | A time consuming game I | 6.00% | ~249 |
 | Time for some trade | 6.00% | ~249 |
-| Bread for the people I | 5.00% | ~207 |
-| I like to build stuff... II | 5.00% | ~207 |
-| Completionist I | 5.00% | ~207 |
-| Full-time job II | 5.00% | ~207 |
-| A time consuming game II | 5.00% | ~207 |
-| Knee deep in snow | 5.00% | ~207 |
+| Bread for the people I | 5.00% | ~208 |
+| I like to build stuff... II | 5.00% | ~208 |
+| Completionist I | 5.00% | ~208 |
+| Full-time job II | 5.00% | ~208 |
+| A time consuming game II | 5.00% | ~208 |
+| Knee deep in snow | 5.00% | ~208 |
 | Not a small trader anymore | 4.00% | ~166 |
 | The King's new clothes I | 4.00% | ~166 |
 | Builder II | 4.00% | ~166 |
@@ -52,17 +52,17 @@ Number of Ratings: 37  (23.09.2022)
 | Tools of the trade II | 2.00% | ~83 |
 | Tools of the trade III | 2.00% | ~83 |
 | Out of the frying pan | 2.00% | ~83 |
-| The Art of War | 1.00% | ~41 |
-| The King's new clothes III | 1.00% | ~41 |
-| Survivalist | 1.00% | ~41 |
-| My precious... III | 1.00% | ~41 |
-| Lord of War | 1.00% | ~41 |
-| Plague strikes! | 1.00% | ~41 |
-| Builder IV | 1.00% | ~41 |
-| Completionist II | 1.00% | ~41 |
-| Genius | 1.00% | ~41 |
-| I've been everywhere I | 1.00% | ~41 |
-| I've been everywhere V | 1.00% | ~41 |
+| The Art of War | 1.00% | ~42 |
+| The King's new clothes III | 1.00% | ~42 |
+| Survivalist | 1.00% | ~42 |
+| My precious... III | 1.00% | ~42 |
+| Lord of War | 1.00% | ~42 |
+| Plague strikes! | 1.00% | ~42 |
+| Builder IV | 1.00% | ~42 |
+| Completionist II | 1.00% | ~42 |
+| Genius | 1.00% | ~42 |
+| I've been everywhere I | 1.00% | ~42 |
+| I've been everywhere V | 1.00% | ~42 |
 | An honorable Governor III | 0.90% | ~37 |
 | Completionist III | 0.90% | ~37 |
 | Only the sausage has two ends. | 0.90% | ~37 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | We can rebuild it! | 0.10% | ~4 |
 | Tired by festival | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,149 (Ranked 127)  
+Progressed: 4,150 (Ranked 127)  
 Completed: 3 (0.07%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,6 +129,7 @@ Completed: 3 (0.07%) (Ranked 169)
 | 2023-05-12 | 4,146 | 3 |
 | 2023-05-15 | 4,148 | 3 |
 | 2023-05-18 | 4,149 | 3 |
+| 2023-05-19 | 4,150 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

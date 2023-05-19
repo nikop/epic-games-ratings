@@ -4,7 +4,7 @@
   "ProductSlug": "i-saw-black-clouds-67008d",
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 245,
+  "EOS_Progressed": 246,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.82,
+  "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:35.1686756+00:00",
@@ -72,6 +72,11 @@
     {
       "Time": "2023-05-19T18:06:06.1225048+00:00",
       "NumProgressed": 245,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-19T20:06:01.5465941+00:00",
+      "NumProgressed": 246,
       "NumCompleted": 2
     }
   ],
@@ -116,7 +121,7 @@
       "Name": "End",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "escape",
@@ -154,9 +159,9 @@
       "ID": "nonconsensual",
       "SetID": "8b5dfcp",
       "Name": "Nonconsensual",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 76
+      "UsersEstimate": 74
     },
     {
       "ID": "origin",
@@ -164,7 +169,7 @@
       "Name": "Origin",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "realist",
@@ -203,7 +208,7 @@
     {
       "ID": "8b5dfcp",
       "IsBase": true,
-      "Progressed": 245,
+      "Progressed": 246,
       "Completed": 2
     }
   ],
@@ -211,8 +216,8 @@
   "FirstSeenRating": "2023-03-31T05:57:25.6585069+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.1686763+00:00",
   "LastChanged": "2023-03-31T05:57:25.658507+00:00",
-  "LastChanged_Achievements": "2023-05-19T19:24:10.5932297+00:00",
+  "LastChanged_Achievements": "2023-05-19T20:06:01.5465938+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:09:54.8379451+00:00",
-  "LastUpdate_Ratings": "2023-05-19T19:18:03.2034001+00:00",
-  "LastUpdate_Achievements": "2023-05-19T19:24:10.5932379+00:00"
+  "LastUpdate_Ratings": "2023-05-19T20:00:08.868432+00:00",
+  "LastUpdate_Achievements": "2023-05-19T20:06:01.5466045+00:00"
 }

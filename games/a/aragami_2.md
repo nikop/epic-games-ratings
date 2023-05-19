@@ -41,9 +41,9 @@ Number of Ratings: 88  (23.09.2022)
 | Pilgrimage | 7.00% | ~2,289 |
 | The Lookout | 5.00% | ~1,635 |
 | The Spirit of Vengeance | 5.00% | ~1,635 |
+| Hollow | 5.00% | ~1,635 |
 | Left Behind | 4.00% | ~1,308 |
 | Secrets of the Earth | 4.00% | ~1,308 |
-| Hollow | 4.00% | ~1,308 |
 | The Lion’s Den | 3.00% | ~981 |
 | Heart of Fire | 3.00% | ~981 |
 | Forest Spirits | 3.00% | ~981 |

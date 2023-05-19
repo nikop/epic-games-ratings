@@ -6,33 +6,33 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 54.00% | ~3,062 |
-| Tutti Eroi! | 53.00% | ~3,005 |
-| You Shall Not Pass | 52.00% | ~2,948 |
-| Avanti Savoia! | 46.00% | ~2,608 |
-| Conrad von Hotzensocks | 36.00% | ~2,041 |
-| Mamma Mia! | 35.00% | ~1,984 |
-| Gabriele D'Annunzio | 32.00% | ~1,814 |
+| Peak Performance | 54.00% | ~3,063 |
+| Tutti Eroi! | 53.00% | ~3,007 |
+| You Shall Not Pass | 52.00% | ~2,950 |
+| Avanti Savoia! | 46.00% | ~2,610 |
+| Conrad von Hotzensocks | 36.00% | ~2,042 |
+| Mamma Mia! | 35.00% | ~1,986 |
+| Gabriele D'Annunzio | 32.00% | ~1,815 |
 | Silver Lining | 28.00% | ~1,588 |
-| Aurelio Baruzzi | 22.00% | ~1,247 |
-| Veni Vidi Vici | 22.00% | ~1,247 |
-| Decimation | 20.00% | ~1,134 |
-| Donatello | 20.00% | ~1,134 |
-| Insubordination | 19.00% | ~1,077 |
-| The Italian Job | 19.00% | ~1,077 |
+| Aurelio Baruzzi | 22.00% | ~1,248 |
+| Veni Vidi Vici | 22.00% | ~1,248 |
+| Decimation | 20.00% | ~1,135 |
+| Donatello | 20.00% | ~1,135 |
+| Insubordination | 19.00% | ~1,078 |
+| The Italian Job | 19.00% | ~1,078 |
 | The Lion of the Isonzo | 18.00% | ~1,021 |
 | Ragazzi del '99 | 17.00% | ~964 |
-| Thus With A Kiss | 15.00% | ~850 |
+| Thus With A Kiss | 15.00% | ~851 |
 | Dirty Dozen | 14.00% | ~794 |
 | Luigi Cadorna | 13.00% | ~737 |
 | Uomo Universale | 13.00% | ~737 |
-| Machiavelli | 12.00% | ~680 |
-| Shaken, Not Stirred | 12.00% | ~680 |
+| Machiavelli | 12.00% | ~681 |
+| Shaken, Not Stirred | 12.00% | ~681 |
 | Dante's Inferno | 11.00% | ~624 |
 | Die Bosniaken Kommen! | 11.00% | ~624 |
 | The Devil's Paintbrush | 11.00% | ~624 |
-| I Have the High Ground | 9.00% | ~510 |
-| Millenial | 9.00% | ~510 |
+| I Have the High Ground | 9.00% | ~511 |
+| Millenial | 9.00% | ~511 |
 | The Show Must Go On | 8.00% | ~454 |
 | Tosca | 8.00% | ~454 |
 | Generalissimo | 6.00% | ~340 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~23 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,670 (Ranked 119)  
+Progressed: 5,673 (Ranked 119)  
 Completed: 8 (0.14%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,11 +78,11 @@ Completed: 8 (0.14%) (Ranked 151)
 | 2023-05-14 | 5,623 | 8 |
 | 2023-05-16 | 5,626 | 8 |
 | 2023-05-18 | 5,641 | 8 |
-| 2023-05-19 | 5,670 | 8 |
+| 2023-05-19 | 5,673 | 8 |
 ## Awards
-Max (Highly Recommended): 30  (Ranked 446)  
+Max (Highly Recommended): 30  (Ranked 445)  
 Sum: 235 (Ranked 343)  
-Diff (max vs sum): 103  
+Diff (max vs sum): 102  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 30 |

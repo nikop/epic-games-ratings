@@ -3,11 +3,11 @@
   "Name": "Circus Electrique",
   "ProductSlug": "circus-electrique",
   "Ranking_Rating": 839,
-  "Ranking_Popularity": 492,
-  "Ranking_PopularitySum": 492,
+  "Ranking_Popularity": 491,
+  "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 395,
+  "EOS_Progressed": 396,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -104,6 +104,11 @@
       "Time": "2023-05-19T19:24:06.9923533+00:00",
       "NumProgressed": 395,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-19T20:05:57.6330968+00:00",
+      "NumProgressed": 396,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -115,7 +120,7 @@
       "Name": "Grand Opening",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -163,15 +168,15 @@
       "Name": "Circus Electrique Proudly Presents...",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACHIEVEMENT_08",
       "SetID": "631ndc2",
       "Name": "Built in a Day",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 111
+      "UsersEstimate": 115
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -179,7 +184,7 @@
       "Name": "Path of Learning",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -355,7 +360,7 @@
       "Name": "King of District 2",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -403,7 +408,7 @@
       "Name": "Flawless Presentation",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -514,7 +519,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 395,
+      "Progressed": 396,
       "Completed": 1
     }
   ],
@@ -522,8 +527,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-05-19T19:24:06.9923528+00:00",
+  "LastChanged_Achievements": "2023-05-19T20:05:57.6330963+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.3315704+00:00",
-  "LastUpdate_Ratings": "2023-05-19T19:17:11.5671914+00:00",
-  "LastUpdate_Achievements": "2023-05-19T19:24:06.9923896+00:00"
+  "LastUpdate_Ratings": "2023-05-19T19:59:06.621813+00:00",
+  "LastUpdate_Achievements": "2023-05-19T20:05:57.6331492+00:00"
 }

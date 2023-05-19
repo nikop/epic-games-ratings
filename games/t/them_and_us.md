@@ -9,8 +9,8 @@
 | A Night To Remember | 30.00% | ~32 |
 | Safe...For now? | 24.00% | ~25 |
 | Open Sesame | 18.00% | ~19 |
+| Them and Us | 10.00% | ~10 |
 | What have I done!? | 10.00% | ~10 |
-| Them and Us | 9.00% | ~9 |
 | OUTRAGE | 9.00% | ~9 |
 | The Cultists | 9.00% | ~9 |
 | Alone In The Dark | 8.00% | ~8 |
@@ -19,14 +19,15 @@
 | The Forgotten Tower | 6.00% | ~6 |
 | Lover of classics | 5.00% | ~5 |
 | Rest In Peace | 5.00% | ~5 |
+| Modern Player | 4.00% | ~4 |
 | Researcher | 4.00% | ~4 |
 | I Am The Gate Keeper! | 4.00% | ~4 |
 | The Curse Is Real | 4.00% | ~4 |
 | Trapped | 4.00% | ~4 |
 | What A Mansion | 4.00% | ~4 |
-| Modern Player | 3.00% | ~3 |
 | The bus stop | 3.00% | ~3 |
 | Armed To The Teeth | 2.00% | ~2 |
+| Run and Gun | 2.00% | ~2 |
 | This Mansion Is Clean | 2.00% | ~2 |
 | Back In Time | 1.00% | ~1 |
 | Before The Eclipse | 1.00% | ~1 |
@@ -37,7 +38,6 @@
 | Dressed to Kill | 1.00% | ~1 |
 | Spiritual essence well spent | 1.00% | ~1 |
 | Life Of The Thousand Gods | 1.00% | ~1 |
-| Run and Gun | 1.00% | ~1 |
 | Nightmare Over | 1.00% | ~1 |
 | No Time To Relax | 1.00% | ~1 |
 | Pet The Dog | 1.00% | ~1 |

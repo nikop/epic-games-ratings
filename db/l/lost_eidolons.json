@@ -3,11 +3,11 @@
   "Name": "Lost Eidolons",
   "ProductSlug": "lost-eidolons",
   "Ranking_Rating": 755,
-  "Ranking_Popularity": 492,
-  "Ranking_PopularitySum": 492,
+  "Ranking_Popularity": 491,
+  "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 858,
+  "EOS_Progressed": 859,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -238,6 +238,11 @@
       "Time": "2023-05-19T18:06:04.0470336+00:00",
       "NumProgressed": 858,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T20:05:59.5141324+00:00",
+      "NumProgressed": 859,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -249,7 +254,7 @@
       "Name": "Way of the King",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "02",
@@ -281,7 +286,7 @@
       "Name": "The First Step",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "06",
@@ -297,7 +302,7 @@
       "Name": "Monster Hunter",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "08",
@@ -313,7 +318,7 @@
       "Name": "Awakening",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "10",
@@ -425,14 +430,14 @@
       "Name": "Complete the sidequest \u0027Malice and Greed\u0027",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     }
   ],
   "AchievementSets": [
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 858,
+      "Progressed": 859,
       "Completed": 0
     }
   ],
@@ -440,8 +445,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-05-19T19:24:08.8963981+00:00",
+  "LastChanged_Achievements": "2023-05-19T20:05:59.5141322+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:05:01.1887177+00:00",
-  "LastUpdate_Ratings": "2023-05-19T19:17:49.6561792+00:00",
-  "LastUpdate_Achievements": "2023-05-19T19:24:08.8964114+00:00"
+  "LastUpdate_Ratings": "2023-05-19T19:59:53.1173861+00:00",
+  "LastUpdate_Achievements": "2023-05-19T20:05:59.5141457+00:00"
 }

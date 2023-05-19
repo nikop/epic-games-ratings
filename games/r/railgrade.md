@@ -12,7 +12,7 @@ Rating: 4.54 (Ranked 480)
 | Builder | 82.00% | ~15,147 |
 | Eraser | 70.00% | ~12,930 |
 | Pocket of Trains | 65.00% | ~12,007 |
-| Inspector | 58.00% | ~10,714 |
+| Inspector | 59.00% | ~10,898 |
 | Going the Distance | 54.00% | ~9,975 |
 | Oil Baron | 42.00% | ~7,758 |
 | Loads-a-Money | 42.00% | ~7,758 |

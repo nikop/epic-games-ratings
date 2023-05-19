@@ -3,8 +3,8 @@
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
   "Ranking_Rating": 448,
-  "Ranking_Popularity": 492,
-  "Ranking_PopularitySum": 492,
+  "Ranking_Popularity": 491,
+  "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 92,
@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46360,
+  "EOS_Progressed": 46362,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1896,6 +1896,11 @@
       "Time": "2023-05-19T19:23:55.377069+00:00",
       "NumProgressed": 46360,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-05-19T20:05:44.5538079+00:00",
+      "NumProgressed": 46362,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 67,
@@ -1947,7 +1952,7 @@
       "Name": "Park Ranger",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4172
+      "UsersEstimate": 4173
     },
     {
       "ID": "07",
@@ -2147,7 +2152,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4172
+      "UsersEstimate": 4173
     },
     {
       "ID": "32",
@@ -2227,7 +2232,7 @@
       "Name": "Finders Keepers",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4172
+      "UsersEstimate": 4173
     },
     {
       "ID": "42",
@@ -2243,7 +2248,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 4172
+      "UsersEstimate": 4173
     },
     {
       "ID": "44",
@@ -2371,7 +2376,7 @@
       "Name": "Ding!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "60",
@@ -2442,21 +2447,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46360,
+      "Progressed": 46362,
       "Completed": 45
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9828,
+      "Progressed": 9830,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-19T19:23:55.3770685+00:00",
+  "LastChanged_Achievements": "2023-05-19T20:05:44.5538075+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:07.5579983+00:00",
-  "LastUpdate_Ratings": "2023-05-19T19:16:05.011552+00:00",
-  "LastUpdate_Achievements": "2023-05-19T19:23:55.3771245+00:00"
+  "LastUpdate_Ratings": "2023-05-19T19:57:39.943412+00:00",
+  "LastUpdate_Achievements": "2023-05-19T20:05:44.5538819+00:00"
 }

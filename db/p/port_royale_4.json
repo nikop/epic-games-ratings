@@ -3,11 +3,11 @@
   "Name": "Port Royale 4",
   "ProductSlug": "port-royale-4",
   "Ranking_Rating": 883,
-  "Ranking_Popularity": 492,
-  "Ranking_PopularitySum": 492,
+  "Ranking_Popularity": 491,
+  "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -234,9 +234,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 536,
+  "EOS_Progressed": 537,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -454,6 +454,11 @@
       "Time": "2023-05-19T19:23:58.0264415+00:00",
       "NumProgressed": 536,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T20:05:47.4804387+00:00",
+      "NumProgressed": 537,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -465,7 +470,7 @@
       "Name": "Cabin boy",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "ACH001",
@@ -473,7 +478,7 @@
       "Name": "Seafarer",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "ACH002",
@@ -553,7 +558,7 @@
       "Name": "Intangible",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACH012",
@@ -567,9 +572,9 @@
       "ID": "ACH013",
       "SetID": "69nfp41",
       "Name": "In a mint condition",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH014",
@@ -585,7 +590,7 @@
       "Name": "Groundskeeper",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH016",
@@ -601,7 +606,7 @@
       "Name": "Pearly gates",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH018",
@@ -681,7 +686,7 @@
       "Name": "I\u0027m out of here for a while",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH028",
@@ -753,7 +758,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH037",
@@ -769,7 +774,7 @@
       "Name": "O Captain! My Captain!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "ACH039",
@@ -817,7 +822,7 @@
       "Name": "Greed for gold",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH045",
@@ -847,9 +852,9 @@
       "ID": "ACH048",
       "SetID": "69nfp41",
       "Name": "Megalomania",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH049",
@@ -857,22 +862,22 @@
       "Name": "Wholesale",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     }
   ],
   "AchievementSets": [
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 536,
+      "Progressed": 537,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
-  "LastChanged_Achievements": "2023-05-19T19:23:58.026441+00:00",
+  "LastChanged_Achievements": "2023-05-19T20:05:47.4804383+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:02.5497371+00:00",
-  "LastUpdate_Ratings": "2023-05-19T19:16:49.226442+00:00",
-  "LastUpdate_Achievements": "2023-05-19T19:23:58.0264731+00:00"
+  "LastUpdate_Ratings": "2023-05-19T19:58:36.4925219+00:00",
+  "LastUpdate_Achievements": "2023-05-19T20:05:47.4804845+00:00"
 }

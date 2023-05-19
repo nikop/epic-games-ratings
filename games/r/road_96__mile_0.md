@@ -12,11 +12,11 @@
 | Welcome to the Garage | 21.00% | ~33 |
 | Truthseeker | 18.00% | ~29 |
 | 86's Nightmare | 14.00% | ~22 |
+| Partners in Crime | 13.00% | ~21 |
 | Friendzone | 13.00% | ~21 |
 | Freedom | 12.00% | ~19 |
-| Partners in Crime | 12.00% | ~19 |
 | Attack on Tyran | 10.00% | ~16 |
-| The Eye of the Storm | 8.00% | ~13 |
+| The Eye of the Storm | 9.00% | ~14 |
 | Song Harvester | 3.00% | ~5 |
 | Try Harder | 2.00% | ~3 |
 ## Popularity (Based on EOS Achievements)

@@ -5,21 +5,21 @@ Rating: 4.77 (Ranked 104)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Grappling with a Graphorn | 6.00% | ~16,103 |
-| The One Who Mastered Memories | 6.00% | ~16,103 |
-| The Hallowed Hero | 6.00% | ~16,103 |
-| The Hero of Hogwarts | 6.00% | ~16,103 |
-| The Defender of Dragons | 6.00% | ~16,103 |
-| Coasting Along | 6.00% | ~16,103 |
-| The Sort Who Makes an Entrance | 5.00% | ~13,420 |
-| The Avenging Gazelle | 5.00% | ~13,420 |
-| A Sallow Grave | 5.00% | ~13,420 |
-| Challenge Accepted | 5.00% | ~13,420 |
-| Loom for Improvement | 5.00% | ~13,420 |
-| First Class Student | 5.00% | ~13,420 |
-| Troll with the Punches | 5.00% | ~13,420 |
-| That's a Keeper | 5.00% | ~13,420 |
-| Rising From the Ashes | 5.00% | ~13,420 |
+| Grappling with a Graphorn | 6.00% | ~16,105 |
+| The One Who Mastered Memories | 6.00% | ~16,105 |
+| The Hallowed Hero | 6.00% | ~16,105 |
+| The Hero of Hogwarts | 6.00% | ~16,105 |
+| The Defender of Dragons | 6.00% | ~16,105 |
+| Coasting Along | 6.00% | ~16,105 |
+| The Sort Who Makes an Entrance | 5.00% | ~13,421 |
+| The Avenging Gazelle | 5.00% | ~13,421 |
+| A Sallow Grave | 5.00% | ~13,421 |
+| Challenge Accepted | 5.00% | ~13,421 |
+| Loom for Improvement | 5.00% | ~13,421 |
+| First Class Student | 5.00% | ~13,421 |
+| Troll with the Punches | 5.00% | ~13,421 |
+| That's a Keeper | 5.00% | ~13,421 |
+| Rising From the Ashes | 5.00% | ~13,421 |
 | Beast Friends | 4.00% | ~10,736 |
 | Flight the Good Flight | 4.00% | ~10,736 |
 | A Keen Sense of Spell | 4.00% | ~10,736 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 104)
 | The Nature of the Beast | 0.40% | ~1,074 |
 | Collector's Edition | 0.20% | ~537 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 268,390 (Ranked 38)  
+Progressed: 268,411 (Ranked 38)  
 Completed: 364 (0.14%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 364 (0.14%) (Ranked 151)
 | 2023-05-16 | 267,382 | 362 |
 | 2023-05-17 | 267,506 | 363 |
 | 2023-05-18 | 267,735 | 364 |
-| 2023-05-19 | 268,390 | 365 |
+| 2023-05-19 | 268,411 | 365 |
 ## Awards
 Max (Character Customization): 18,908  (Ranked 18)  
 Sum: 34,745 (Ranked 33)  

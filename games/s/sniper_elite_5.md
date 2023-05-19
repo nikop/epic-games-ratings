@@ -1,15 +1,15 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.41 (Ranked 657)  
+Rating: 4.41 (Ranked 656)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 2.00% | ~16 |
+| Meeting Resistance | 3.00% | ~24 |
 | Enemy at the Gates | 1.00% | ~8 |
 | Confirming Suspicions | 1.00% | ~8 |
-| Resourceful | 0.90% | ~7 |
-| Lord of War | 0.70% | ~6 |
+| Lord of War | 1.00% | ~8 |
+| Resourceful | 1.00% | ~8 |
 | The Kraken Wakes | 0.70% | ~6 |
 | The Long Game | 0.60% | ~5 |
 | As Quiet as a Mouse | 0.60% | ~5 |
@@ -33,17 +33,18 @@ Rating: 4.41 (Ranked 657)
 | Liberté | 0.20% | ~2 |
 | No Stone Unturned | 0.20% | ~2 |
 | Just a Flesh Wound | 0.20% | ~2 |
+| Der Geist | 0.20% | ~2 |
 | Close Quarters | 0.20% | ~2 |
 | Last Resort | 0.20% | ~2 |
 | Fields of Glory | 0.10% | ~1 |
 | Rigged to Blow | 0.10% | ~1 |
 | Die Nussknacker Sweet! | 0.10% | ~1 |
-| Der Geist | 0.10% | ~1 |
 | Burn after reading | 0.10% | ~1 |
 | It'll Buff Right Out | 0.10% | ~1 |
 | Locomotion Commotion | 0.10% | ~1 |
 | Up close and personal | 0.10% | ~1 |
 | Brains of the Operation | 0.10% | ~1 |
+| Shoot for the Moon | 0.10% | ~1 |
 | Führerious Repetition | 0.10% | ~1 |
 | Reich To The Point | 0.10% | ~1 |
 | Covert Elimination | 0.10% | ~1 |
@@ -67,7 +68,6 @@ Rating: 4.41 (Ranked 657)
 | Tinkerer | 0.00% | ~0 |
 | Road Rage | 0.00% | ~0 |
 | Sight Beyond Sights | 0.00% | ~0 |
-| Shoot for the Moon | 0.00% | ~0 |
 | Can't Outrun A Bullet | 0.00% | ~0 |
 | From Führer Away | 0.00% | ~0 |
 | Alpha | 0.00% | ~0 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 657)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 811 (Ranked 171)  
+Progressed: 813 (Ranked 171)  
 Completed: 2 (0.25%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 2 (0.25%) (Ranked 133)
 | 2023-05-16 | 723 | 2 |
 | 2023-05-17 | 728 | 2 |
 | 2023-05-18 | 743 | 2 |
-| 2023-05-19 | 811 | 2 |
+| 2023-05-19 | 813 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

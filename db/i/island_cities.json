@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 100,
+  "EOS_Progressed": 101,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 17,
+  "EOS_Completed_Percentage": 16.83,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -463,6 +463,11 @@
       "Time": "2023-05-19T19:23:46.5352749+00:00",
       "NumProgressed": 100,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-05-19T20:05:34.3380291+00:00",
+      "NumProgressed": 101,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 22,
@@ -474,7 +479,7 @@
       "Name": "Welcome!",
       "Percentage": 100,
       "XP": 35,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "LEVEL_002",
@@ -482,13 +487,13 @@
       "Name": "A tiny town",
       "Percentage": 83,
       "XP": 35,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "LEVEL_003",
       "SetID": "3khpmem",
       "Name": "Buildings, roads, cars, ...and people",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 35,
       "UsersEstimate": 67
     },
@@ -496,7 +501,7 @@
       "ID": "LEVEL_004",
       "SetID": "3khpmem",
       "Name": "Great view from the beach and from the hill",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 35,
       "UsersEstimate": 58
     },
@@ -504,7 +509,7 @@
       "ID": "LEVEL_005",
       "SetID": "3khpmem",
       "Name": "Bridges to come and go",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 35,
       "UsersEstimate": 52
     },
@@ -552,17 +557,17 @@
       "ID": "LEVEL_011",
       "SetID": "3khpmem",
       "Name": "At the heart of the city",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "LEVEL_012",
       "SetID": "3khpmem",
       "Name": "Calm neighborhood",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "LEVEL_013",
@@ -649,7 +654,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 100,
+      "Progressed": 101,
       "Completed": 17
     }
   ],
@@ -657,8 +662,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-19T19:23:46.5352744+00:00",
+  "LastChanged_Achievements": "2023-05-19T20:05:34.3380287+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:36.8517809+00:00",
-  "LastUpdate_Ratings": "2023-05-19T19:16:26.6949656+00:00",
-  "LastUpdate_Achievements": "2023-05-19T19:23:46.5352895+00:00"
+  "LastUpdate_Ratings": "2023-05-19T19:58:04.4986501+00:00",
+  "LastUpdate_Achievements": "2023-05-19T20:05:34.3380688+00:00"
 }

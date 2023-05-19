@@ -3,8 +3,8 @@
   "Name": "Potion Permit",
   "ProductSlug": "potion-permit",
   "Ranking_Rating": 911,
-  "Ranking_Popularity": 369,
-  "Ranking_PopularitySum": 423,
+  "Ranking_Popularity": 368,
+  "Ranking_PopularitySum": 422,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 175,
@@ -304,7 +304,7 @@
       "Count": 66
     }
   ],
-  "EOS_Progressed": 1254,
+  "EOS_Progressed": 1255,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
@@ -479,6 +479,11 @@
       "Time": "2023-05-19T19:24:17.8344144+00:00",
       "NumProgressed": 1254,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-19T20:06:10.0504381+00:00",
+      "NumProgressed": 1255,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 38,
@@ -490,7 +495,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1229
+      "UsersEstimate": 1230
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -498,7 +503,7 @@
       "Name": "Great Doctor",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -506,7 +511,7 @@
       "Name": "Good Samaritan",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHIEVEMENTS_04",
@@ -538,15 +543,15 @@
       "Name": "K.O.!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "ACHIEVEMENTS_08",
       "SetID": "d4o538a",
       "Name": "The First Step",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1116
+      "UsersEstimate": 1104
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -554,7 +559,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -570,7 +575,7 @@
       "Name": "Expert Chemist",
       "Percentage": 12,
       "XP": 80,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACHIEVEMENTS_12",
@@ -586,7 +591,7 @@
       "Name": "Line Cook",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ACHIEVEMENTS_14",
@@ -626,7 +631,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -746,7 +751,7 @@
       "Name": "Catch of the Day",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "ACHIEVEMENTS_34",
@@ -754,7 +759,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -793,7 +798,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1254,
+      "Progressed": 1255,
       "Completed": 5
     }
   ],
@@ -801,8 +806,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-05-03T21:59:55.8094288+00:00",
-  "LastChanged_Achievements": "2023-05-19T19:24:17.834414+00:00",
+  "LastChanged_Achievements": "2023-05-19T20:06:10.0504378+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:30.0956385+00:00",
-  "LastUpdate_Ratings": "2023-05-19T19:18:24.751054+00:00",
-  "LastUpdate_Achievements": "2023-05-19T19:24:17.8344374+00:00"
+  "LastUpdate_Ratings": "2023-05-19T20:00:34.328263+00:00",
+  "LastUpdate_Achievements": "2023-05-19T20:06:10.0504846+00:00"
 }

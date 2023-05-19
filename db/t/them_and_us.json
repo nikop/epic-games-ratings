@@ -511,9 +511,9 @@
       "ID": "ETUA_IsThemAndUs",
       "SetID": "65jc0ap",
       "Name": "Them and Us",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ETUA_LifeOfTheThousandGods",
@@ -527,17 +527,17 @@
       "ID": "ETUA_MissionOver",
       "SetID": "65jc0ap",
       "Name": "Run and Gun",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ETUA_ModernPlayer",
       "SetID": "65jc0ap",
       "Name": "Modern Player",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ETUA_NightmareOver",
@@ -736,8 +736,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-05-19T19:18:44.4491706+00:00",
+  "LastChanged_Achievements": "2023-05-19T20:01:01.2042439+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:00.9346953+00:00",
-  "LastUpdate_Ratings": "2023-05-19T19:15:43.8851776+00:00",
-  "LastUpdate_Achievements": "2023-05-19T19:18:44.449201+00:00"
+  "LastUpdate_Ratings": "2023-05-19T19:57:12.5089865+00:00",
+  "LastUpdate_Achievements": "2023-05-19T20:01:01.2042932+00:00"
 }

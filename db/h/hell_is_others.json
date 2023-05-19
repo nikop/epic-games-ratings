@@ -3,8 +3,8 @@
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 594,
-  "Ranking_Popularity": 470,
-  "Ranking_PopularitySum": 472,
+  "Ranking_Popularity": 469,
+  "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 68,
@@ -382,9 +382,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 249109,
+  "EOS_Progressed": 249111,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 640,
+  "EOS_NewPlayers": 641,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3117,6 +3117,11 @@
       "Time": "2023-05-19T19:24:20.7326272+00:00",
       "NumProgressed": 249109,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-19T20:06:13.2219894+00:00",
+      "NumProgressed": 249111,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -3184,7 +3189,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12455
+      "UsersEstimate": 12456
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -3256,7 +3261,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12455
+      "UsersEstimate": 12456
     },
     {
       "ID": "CreedsInBank2",
@@ -3384,7 +3389,7 @@
       "Name": "Cleaning Company",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12455
+      "UsersEstimate": 12456
     },
     {
       "ID": "KillOtherWithKatana",
@@ -3575,7 +3580,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 249109,
+      "Progressed": 249111,
       "Completed": 1
     }
   ],
@@ -3583,8 +3588,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-05-19T19:18:19.7844051+00:00",
-  "LastChanged_Achievements": "2023-05-19T19:24:20.7326268+00:00",
+  "LastChanged_Achievements": "2023-05-19T20:06:13.2219892+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:18.7976266+00:00",
-  "LastUpdate_Ratings": "2023-05-19T19:18:19.7844056+00:00",
-  "LastUpdate_Achievements": "2023-05-19T19:24:20.7326762+00:00"
+  "LastUpdate_Ratings": "2023-05-19T20:00:28.2602614+00:00",
+  "LastUpdate_Achievements": "2023-05-19T20:06:13.222073+00:00"
 }

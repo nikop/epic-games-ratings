@@ -12,7 +12,7 @@
 | Space Engineer | 61.00% | ~365 |
 | Dust to Dust | 57.00% | ~341 |
 | Across The Stars | 47.00% | ~282 |
-| Crafty | 44.00% | ~264 |
+| Crafty | 45.00% | ~270 |
 | All Seats Taken | 35.00% | ~210 |
 | For Science! | 31.00% | ~186 |
 | Meet the Petersons | 31.00% | ~186 |
@@ -26,12 +26,12 @@
 | Gold Medalist | 11.00% | ~66 |
 | Non-Fiction | 11.00% | ~66 |
 | No Man Left Behind | 9.00% | ~54 |
+| First of April | 7.00% | ~42 |
 | Fix-It Felix | 7.00% | ~42 |
 | Intergalactic Breakup | 7.00% | ~42 |
 | Flawless Maegangement | 7.00% | ~42 |
 | Second Life | 7.00% | ~42 |
 | Axel jump in space! | 6.00% | ~36 |
-| First of April | 6.00% | ~36 |
 | Extreme Makeover | 5.00% | ~30 |
 | The Improvinator | 4.00% | ~24 |
 | The Last Supper | 4.00% | ~24 |

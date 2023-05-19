@@ -3,7 +3,7 @@
   "Name": "Cursed Treasure 2 Ultimate Edition",
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 243,
-  "Ranking_EOS_Completed": 12,
+  "Ranking_EOS_Completed": 11,
   "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
@@ -435,9 +435,9 @@
       "ID": "BADGE_NINJA_INVISIBLE_KILL",
       "SetID": "ak6pfjk",
       "Name": "Combo Breaker",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 93
     },
     {
       "ID": "BADGE_PLAYER_RANK",
@@ -459,9 +459,9 @@
       "ID": "BADGE_POLYMORPH_COUNT",
       "SetID": "ak6pfjk",
       "Name": "Tastes Like Chicken",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "BADGE_SKILL_BRANCH_MAX",
@@ -524,8 +524,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-05-19T19:24:00.889921+00:00",
+  "LastChanged_Achievements": "2023-05-19T20:05:50.8478003+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:11.9155795+00:00",
-  "LastUpdate_Ratings": "2023-05-19T19:16:55.6069423+00:00",
-  "LastUpdate_Achievements": "2023-05-19T19:24:00.8899553+00:00"
+  "LastUpdate_Ratings": "2023-05-19T19:58:45.2846134+00:00",
+  "LastUpdate_Achievements": "2023-05-19T20:05:50.8478448+00:00"
 }
