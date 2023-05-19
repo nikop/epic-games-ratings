@@ -5,6 +5,7 @@ Rating: 4.17 (Ranked 833)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| First Step Into the Knight | 0.50% | ~305 |
 | Gotham Knight | 0.50% | ~305 |
 | End of an Era | 0.40% | ~244 |
 | Protector of Gotham | 0.40% | ~244 |
@@ -20,7 +21,6 @@ Rating: 4.17 (Ranked 833)
 | Get ReQ'd | 0.40% | ~244 |
 | Working Hard or Harley Working? | 0.40% | ~244 |
 | Universal Health Scare | 0.40% | ~244 |
-| First Step Into the Knight | 0.40% | ~244 |
 | Unstoppable Force | 0.40% | ~244 |
 | Knighthood | 0.40% | ~244 |
 | Loose Ends | 0.40% | ~244 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 833)
 | Confronting Your Demon | 0.10% | ~31 |
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,014 (Ranked 67)  
+Progressed: 61,027 (Ranked 67)  
 Completed: 91 (0.15%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 91 (0.15%) (Ranked 147)
 | 2023-05-16 | 60,923 | 91 |
 | 2023-05-17 | 60,939 | 91 |
 | 2023-05-18 | 61,004 | 91 |
-| 2023-05-19 | 61,014 | 91 |
+| 2023-05-19 | 61,027 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,217  (Ranked 99)  
 Sum: 3,679 (Ranked 138)  

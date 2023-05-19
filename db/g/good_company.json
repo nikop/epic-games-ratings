@@ -2,12 +2,12 @@
   "ID": "b595ab13a93a4be8b6857cc14d2d6e8b",
   "Name": "Good Company",
   "ProductSlug": "good-company",
-  "Ranking_Rating": 638,
+  "Ranking_Rating": 639,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4767,
+  "EOS_Progressed": 4769,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -674,6 +674,11 @@
       "Time": "2023-05-19T00:07:16.1594812+00:00",
       "NumProgressed": 4767,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-19T02:05:59.2964014+00:00",
+      "NumProgressed": 4769,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -797,7 +802,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2336
+      "UsersEstimate": 2337
     },
     {
       "ID": "ach_campaign_progress6",
@@ -1069,7 +1074,7 @@
       "Name": "Peddler",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "ach_frp_many_products2",
@@ -1292,15 +1297,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4767,
+      "Progressed": 4769,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-05-19T00:07:16.1594806+00:00",
+  "LastChanged_Achievements": "2023-05-19T02:05:59.296401+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:55.3006294+00:00",
-  "LastUpdate_Ratings": "2023-05-18T23:59:46.9893958+00:00",
-  "LastUpdate_Achievements": "2023-05-19T00:07:16.1595749+00:00"
+  "LastUpdate_Ratings": "2023-05-19T01:59:16.1733764+00:00",
+  "LastUpdate_Achievements": "2023-05-19T02:05:59.2965003+00:00"
 }

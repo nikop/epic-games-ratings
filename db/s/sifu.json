@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 77,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4086,10 +4086,10 @@
       "Count": 347
     }
   ],
-  "EOS_Progressed": 703072,
+  "EOS_Progressed": 703090,
   "EOS_Completed": 12731,
-  "EOS_NewPlayers": 245,
-  "EOS_NewCompleters": 9,
+  "EOS_NewPlayers": 263,
+  "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
     {
@@ -6261,6 +6261,11 @@
       "Time": "2023-05-19T00:07:14.3060829+00:00",
       "NumProgressed": 703072,
       "NumCompleted": 12731
+    },
+    {
+      "Time": "2023-05-19T02:05:57.9266383+00:00",
+      "NumProgressed": 703090,
+      "NumCompleted": 12731
     }
   ],
   "TotalAchievements": 50,
@@ -6272,7 +6277,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4218
+      "UsersEstimate": 4219
     },
     {
       "ID": "02_Vengeance_H1",
@@ -6360,7 +6365,7 @@
       "Name": "Scareless",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4218
+      "UsersEstimate": 4219
     },
     {
       "ID": "13_LowAge",
@@ -6424,7 +6429,7 @@
       "Name": "Stuntmaster",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4218
+      "UsersEstimate": 4219
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -6440,7 +6445,7 @@
       "Name": "Street Fighting",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4218
+      "UsersEstimate": 4219
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -6448,7 +6453,7 @@
       "Name": "Life is your teacher",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4218
+      "UsersEstimate": 4219
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -6536,7 +6541,7 @@
       "Name": "Lightning Hands",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4218
+      "UsersEstimate": 4219
     },
     {
       "ID": "35_WideStrike",
@@ -6544,7 +6549,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4218
+      "UsersEstimate": 4219
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -6608,7 +6613,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -6616,7 +6621,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -6656,7 +6661,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -6671,21 +6676,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 12373,
+      "Progressed": 12391,
       "Completed": 10121
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 703072,
+      "Progressed": 703090,
       "Completed": 12731
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-18T11:59:31.6045442+00:00",
-  "LastChanged_Achievements": "2023-05-19T00:07:14.3060824+00:00",
+  "LastChanged_Achievements": "2023-05-19T02:05:57.9266378+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:53.7388155+00:00",
-  "LastUpdate_Ratings": "2023-05-18T23:59:48.8176834+00:00",
-  "LastUpdate_Achievements": "2023-05-19T00:07:14.3061367+00:00"
+  "LastUpdate_Ratings": "2023-05-19T01:59:17.4223306+00:00",
+  "LastUpdate_Achievements": "2023-05-19T02:05:57.9267025+00:00"
 }

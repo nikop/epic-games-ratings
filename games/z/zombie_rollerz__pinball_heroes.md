@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 94.00% | ~58 |
-| Bullseye! | 87.00% | ~54 |
-| Villfir Forest | 82.00% | ~51 |
-| Graduation! | 76.00% | ~47 |
-| Right in the kisser! | 65.00% | ~40 |
+| Level Up! | 94.00% | ~59 |
+| Bullseye! | 87.00% | ~55 |
+| Villfir Forest | 83.00% | ~52 |
+| Graduation! | 76.00% | ~48 |
+| Right in the kisser! | 67.00% | ~42 |
 | Duscot Steamcity | 56.00% | ~35 |
-| The Shaman | 55.00% | ~34 |
-| The Penguin | 52.00% | ~32 |
-| The Magician | 50.00% | ~31 |
-| The Thrower | 47.00% | ~29 |
-| The Tunneler | 44.00% | ~27 |
+| The Shaman | 54.00% | ~34 |
+| The Penguin | 51.00% | ~32 |
+| The Magician | 49.00% | ~31 |
+| The Thrower | 48.00% | ~30 |
+| The Tunneler | 43.00% | ~27 |
 | Kill-streak | 40.00% | ~25 |
 | Level Up!! | 40.00% | ~25 |
 | The Shield | 40.00% | ~25 |
-| The Bird | 34.00% | ~21 |
-| The Idol | 29.00% | ~18 |
+| The Bird | 33.00% | ~21 |
+| The Idol | 30.00% | ~19 |
 | The Ninja | 29.00% | ~18 |
-| Topped up | 26.00% | ~16 |
-| Inferno Ruins | 26.00% | ~16 |
+| Inferno Ruins | 27.00% | ~17 |
+| Topped up | 25.00% | ~16 |
+| Untouchable | 24.00% | ~15 |
 | I'm Rich | 24.00% | ~15 |
-| Untouchable | 23.00% | ~14 |
 | 1 is all I need | 21.00% | ~13 |
 | The Giant | 19.00% | ~12 |
 | The Slime | 19.00% | ~12 |
-| Out of the Frying Pan... | 18.00% | ~11 |
+| Out of the Frying Pan... | 17.00% | ~11 |
 | The Blacksmith | 16.00% | ~10 |
 | The Flower | 16.00% | ~10 |
+| Turquoise | 14.00% | ~9 |
 | The Assistant | 13.00% | ~8 |
-| Turquoise | 13.00% | ~8 |
+| The Ooze | 13.00% | ~8 |
 | The Droid | 11.00% | ~7 |
-| The Ooze | 11.00% | ~7 |
 | Tested | 11.00% | ~7 |
 | The Steampunk | 10.00% | ~6 |
 | Ember | 10.00% | ~6 |
@@ -78,7 +78,7 @@
 | Satellite | 0.00% | ~0 |
 | Zombie Slayer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62 (Ranked 277)  
+Progressed: 63 (Ranked 277)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-15 | 58 | 0 |
 | 2023-05-17 | 59 | 0 |
 | 2023-05-18 | 61 | 0 |
-| 2023-05-19 | 62 | 0 |
+| 2023-05-19 | 63 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

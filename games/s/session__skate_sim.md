@@ -6,12 +6,12 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 50.00% | ~985 |
-| Keeping it classy | 26.00% | ~512 |
+| You're free now! | 50.00% | ~986 |
+| Keeping it classy | 26.00% | ~513 |
 | Welcome to the family | 18.00% | ~355 |
 | The finer things in life | 17.00% | ~335 |
-| Backpacker | 12.00% | ~236 |
-| Go with the Flow | 12.00% | ~236 |
+| Backpacker | 12.00% | ~237 |
+| Go with the Flow | 12.00% | ~237 |
 | Plastic Surgeon | 9.00% | ~177 |
 | The flip trick crown jewel | 9.00% | ~177 |
 | Keep the dream alive | 8.00% | ~158 |
@@ -23,14 +23,14 @@ Number of Ratings: 111  (23.09.2022)
 | G'Day Mate! | 6.00% | ~118 |
 | That pinch! | 6.00% | ~118 |
 | Tight lipslides | 6.00% | ~118 |
-| Bottom ply killer | 5.00% | ~98 |
-| Commence the Hijinx! | 5.00% | ~98 |
-| Fulfilled the dream | 5.00% | ~98 |
-| Globetrotter | 5.00% | ~98 |
-| NAHELL! | 5.00% | ~98 |
-| Purple passion | 5.00% | ~98 |
-| Squad goals | 5.00% | ~98 |
-| Sup widdit big dog! | 5.00% | ~98 |
+| Bottom ply killer | 5.00% | ~99 |
+| Commence the Hijinx! | 5.00% | ~99 |
+| Fulfilled the dream | 5.00% | ~99 |
+| Globetrotter | 5.00% | ~99 |
+| NAHELL! | 5.00% | ~99 |
+| Purple passion | 5.00% | ~99 |
+| Squad goals | 5.00% | ~99 |
+| Sup widdit big dog! | 5.00% | ~99 |
 | Cops called! | 4.00% | ~79 |
 | DIY Boss | 4.00% | ~79 |
 | G.O.A.T. status | 4.00% | ~79 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,970 (Ranked 145)  
+Progressed: 1,972 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,11 +82,11 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-16 | 1,958 | 0 |
 | 2023-05-17 | 1,962 | 0 |
 | 2023-05-18 | 1,968 | 0 |
-| 2023-05-19 | 1,970 | 0 |
+| 2023-05-19 | 1,972 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 393)  
-Sum: 412 (Ranked 301)  
-Diff (max vs sum): 92  
+Sum: 413 (Ranked 300)  
+Diff (max vs sum): 93  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 48 |
@@ -95,9 +95,9 @@ Diff (max vs sum): 92
 | This game has Amazing Storytelling | 39 |
 | This game is Relaxing | 38 |
 | This game has Amazing Characters | 38 |
+| This game has Diverse Characters | 37 |
 | This game is Extremely Fun | 36 |
 | This game has Realistic Visuals | 36 |
-| This game has Diverse Characters | 36 |
 | This game has Quickly Understood Controls | 36 |
 | This game has Challenging Combat | 26 |
 | This game is Educational | 22 |
@@ -199,3 +199,4 @@ Diff (max vs sum): 92
 | 2023-05-13 | 4.66 | - | 48 | 407 |
 | 2023-05-16 | 4.66 | - | 48 | 408 |
 | 2023-05-18 | 4.66 | - | 48 | 412 |
+| 2023-05-19 | 4.66 | - | 48 | 413 |

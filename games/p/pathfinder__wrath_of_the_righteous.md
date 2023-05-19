@@ -6,13 +6,13 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 13.00% | ~1,153 |
+| Devoured by Darkness | 13.00% | ~1,154 |
 | Burning City | 9.00% | ~799 |
 | A Spark | 9.00% | ~799 |
 | Mythic Choices | 8.00% | ~710 |
 | Defender's Heart | 8.00% | ~710 |
 | Banner over the Citadel | 7.00% | ~621 |
-| Queen's Gratitude | 6.00% | ~532 |
+| Queen's Gratitude | 6.00% | ~533 |
 | Fifth Crusade | 5.00% | ~444 |
 | Embrace of the Abyss | 3.00% | ~266 |
 | Path of the Angel | 3.00% | ~266 |
@@ -23,15 +23,15 @@ Number of Ratings: 1,354  (23.09.2022)
 | All Paths Open | 3.00% | ~266 |
 | Demonic and Divine | 3.00% | ~266 |
 | Next-Door Play | 3.00% | ~266 |
-| Heart of the Fallen Land | 2.00% | ~177 |
-| The Legacy | 2.00% | ~177 |
-| Divide and Rule | 2.00% | ~177 |
-| Mythic Reinforcements | 2.00% | ~177 |
-| Core of the Riddle | 2.00% | ~177 |
-| Your First Big Enemy | 2.00% | ~177 |
-| A Flame | 2.00% | ~177 |
-| Hey, I Know You! | 2.00% | ~177 |
-| Get the Toad | 2.00% | ~177 |
+| Heart of the Fallen Land | 2.00% | ~178 |
+| The Legacy | 2.00% | ~178 |
+| Divide and Rule | 2.00% | ~178 |
+| Mythic Reinforcements | 2.00% | ~178 |
+| Core of the Riddle | 2.00% | ~178 |
+| Your First Big Enemy | 2.00% | ~178 |
+| A Flame | 2.00% | ~178 |
+| Hey, I Know You! | 2.00% | ~178 |
+| Get the Toad | 2.00% | ~178 |
 | Hanged Man's Notes | 2.00% | ~153 |
 | The Lady of the Forest | 2.00% | ~153 |
 | Beware Still Water | 2.00% | ~153 |
@@ -54,7 +54,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Strategic Victory | 0.60% | ~53 |
 | Playful Mood | 0.60% | ~53 |
 | Dreadful Dragon | 0.50% | ~44 |
-| Truly Profane Gift | 0.40% | ~35 |
+| Truly Profane Gift | 0.40% | ~36 |
 | Masterful Charge | 0.30% | ~27 |
 | Masterful Dispel | 0.20% | ~18 |
 | Prelate's Nemesis | 0.20% | ~18 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,873 (Ranked 109)  
+Progressed: 8,878 (Ranked 109)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-16 | 8,839 | 0 |
 | 2023-05-17 | 8,850 | 0 |
 | 2023-05-18 | 8,872 | 0 |
-| 2023-05-19 | 8,873 | 0 |
+| 2023-05-19 | 8,878 | 0 |
 ## Awards
 Max (Character Customization): 1,634  (Ranked 111)  
 Sum: 6,623 (Ranked 108)  

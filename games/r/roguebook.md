@@ -1,7 +1,7 @@
 # Roguebook
 [Store](https://store.epicgames.com/en-US/p/roguebook)  
 [View Rawdata](../../db/r/roguebook.json)  
-Rating: 4.60 (Ranked 382)  
+Rating: 4.61 (Ranked 357)  
 Number of Ratings: 64  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -33,3 +33,4 @@ Number of Ratings: 64  (23.09.2022)
 | 2023-02-12 | 4.59 | - | - | - |
 | 2023-03-08 | 4.60 | - | - | - |
 | 2023-03-31 | 4.60 | - | 0 | 0 |
+| 2023-05-19 | 4.61 | - | 0 | 0 |

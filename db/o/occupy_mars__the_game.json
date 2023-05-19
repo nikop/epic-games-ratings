@@ -5,9 +5,9 @@
   "Ranking_Rating": 920,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
-  "Ranking_EOS_Progress": 209,
+  "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -34,9 +34,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 296,
+  "EOS_Progressed": 306,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -133,6 +133,11 @@
     {
       "Time": "2023-05-19T00:03:36.522476+00:00",
       "NumProgressed": 296,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T02:03:33.5467028+00:00",
+      "NumProgressed": 306,
       "NumCompleted": 0
     }
   ],
@@ -263,9 +268,9 @@
       "ID": "NEW_ACHIEVEMENT_BOTANY_POWERS",
       "SetID": "l546gc",
       "Name": "Fear my botany powers, Mars",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 37
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -321,7 +326,7 @@
       "Name": "Electrician",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -391,9 +396,9 @@
       "ID": "NEW_ACHIEVEMENT_MINER",
       "SetID": "l546gc",
       "Name": "Miner",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -401,7 +406,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 80
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -528,7 +533,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 296,
+      "Progressed": 306,
       "Completed": 0
     }
   ],
@@ -536,8 +541,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-05-18T06:57:04.6849596+00:00",
-  "LastChanged_Achievements": "2023-05-19T00:03:36.5224752+00:00",
+  "LastChanged_Achievements": "2023-05-19T02:03:33.5467023+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:22.3951133+00:00",
-  "LastUpdate_Ratings": "2023-05-18T23:57:39.5108462+00:00",
-  "LastUpdate_Achievements": "2023-05-19T00:03:36.5225335+00:00"
+  "LastUpdate_Ratings": "2023-05-19T01:57:41.8640033+00:00",
+  "LastUpdate_Achievements": "2023-05-19T02:03:33.5467494+00:00"
 }

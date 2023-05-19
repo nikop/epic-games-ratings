@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Treasure Hunting | 46.00% | ~11 |
+| Uncut Gem | 46.00% | ~11 |
 | Might be useful… | 46.00% | ~11 |
-| Uncut Gem | 42.00% | ~10 |
 | Friend! | 38.00% | ~9 |
 | Setting Off | 38.00% | ~9 |
+| Riddlesolver | 33.00% | ~8 |
 | Clear as Water | 33.00% | ~8 |
 | Shine! | 33.00% | ~8 |
 | Dungeon Mastery | 29.00% | ~7 |
-| Riddlesolver | 29.00% | ~7 |
 | The Apprentice | 17.00% | ~4 |
 | The Steed | 17.00% | ~4 |
 | A Strange Proposition | 17.00% | ~4 |

@@ -5,13 +5,13 @@ Rating: 4.67 (Ranked 259)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 43.00% | ~2,671 |
-| Greasy Palms | 39.00% | ~2,422 |
+| Legal Counsel | 43.00% | ~2,672 |
+| Greasy Palms | 39.00% | ~2,424 |
 | South American Connection | 23.00% | ~1,429 |
-| Life of the Party | 18.00% | ~1,118 |
-| Big Heat from Little Havana | 13.00% | ~807 |
-| Chauffeur | 13.00% | ~807 |
-| Tommy Two-Wheels | 13.00% | ~807 |
+| Life of the Party | 18.00% | ~1,119 |
+| Big Heat from Little Havana | 13.00% | ~808 |
+| Chauffeur | 13.00% | ~808 |
+| Tommy Two-Wheels | 13.00% | ~808 |
 | Iron-y | 9.00% | ~559 |
 | Salutations My Little Friend | 9.00% | ~559 |
 | Gun for Hire | 7.00% | ~435 |
@@ -19,9 +19,9 @@ Rating: 4.67 (Ranked 259)
 | Vice City Mogul | 6.00% | ~373 |
 | Bloodstained Hands | 6.00% | ~373 |
 | Catch Me if You Can | 5.00% | ~311 |
-| Not my First Time | 4.00% | ~248 |
-| Pie Guy | 4.00% | ~248 |
-| Grand Theft Auto | 4.00% | ~248 |
+| Not my First Time | 4.00% | ~249 |
+| Pie Guy | 4.00% | ~249 |
+| Grand Theft Auto | 4.00% | ~249 |
 | High Quality H2O | 3.00% | ~186 |
 | Don't Need Roads | 3.00% | ~186 |
 | Running Rampant | 2.00% | ~124 |
@@ -35,12 +35,12 @@ Rating: 4.67 (Ranked 259)
 | Chopper’d Up | 1.00% | ~62 |
 | Daredevil | 0.90% | ~56 |
 | I'm Famous! | 0.80% | ~50 |
-| Born in the 80’s | 0.70% | ~43 |
-| Keepie-Uppy Okie Dokie | 0.70% | ~43 |
-| Done it All | 0.70% | ~43 |
+| Born in the 80’s | 0.70% | ~44 |
+| Keepie-Uppy Okie Dokie | 0.70% | ~44 |
+| Done it All | 0.70% | ~44 |
 | Kingpin | 0.40% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,211 (Ranked 115)  
+Progressed: 6,215 (Ranked 115)  
 Completed: 22 (0.35%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 22 (0.35%) (Ranked 118)
 | 2023-05-16 | 6,171 | 22 |
 | 2023-05-17 | 6,178 | 22 |
 | 2023-05-18 | 6,209 | 22 |
-| 2023-05-19 | 6,211 | 22 |
+| 2023-05-19 | 6,215 | 22 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 430)  
 Sum: 34 (Ranked 452)  

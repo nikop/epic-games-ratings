@@ -20,8 +20,8 @@ Rating: 4.55 (Ranked 467)
 | The Ship of Theseus | 1.00% | ~19 |
 | Hope Seeker | 1.00% | ~19 |
 | A Hunk of Junk | 0.90% | ~17 |
+| Power Outage | 0.90% | ~17 |
 | Exceeding Capacity | 0.80% | ~15 |
-| Power Outage | 0.80% | ~15 |
 | Access Granted | 0.70% | ~13 |
 | Necessary Enhancement | 0.70% | ~13 |
 | Convenient Transport | 0.70% | ~13 |

@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1128,
+  "EOS_Progressed": 1129,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -348,6 +348,11 @@
       "Time": "2023-05-18T23:07:18.5785405+00:00",
       "NumProgressed": 1128,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-19T02:05:59.3288423+00:00",
+      "NumProgressed": 1129,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -383,7 +388,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "13",
@@ -423,7 +428,7 @@
       "Name": "Balding bloot!",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "18",
@@ -431,7 +436,7 @@
       "Name": "Like new!",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "19",
@@ -567,7 +572,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "7",
@@ -598,15 +603,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1128,
+      "Progressed": 1129,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-05-19T00:07:16.1750715+00:00",
+  "LastChanged_Achievements": "2023-05-19T02:05:59.3288419+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:27.7554539+00:00",
-  "LastUpdate_Ratings": "2023-05-19T00:00:34.2407167+00:00",
-  "LastUpdate_Achievements": "2023-05-19T00:07:16.17511+00:00"
+  "LastUpdate_Ratings": "2023-05-19T01:59:48.5070451+00:00",
+  "LastUpdate_Achievements": "2023-05-19T02:05:59.328866+00:00"
 }

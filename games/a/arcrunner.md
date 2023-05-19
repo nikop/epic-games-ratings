@@ -7,9 +7,9 @@
 | Augmented | 80.00% | ~60 |
 | Rookie | 77.00% | ~58 |
 | Challenge Accepted | 65.00% | ~49 |
-| Nanonic I | 64.00% | ~48 |
-| Terminated I | 63.00% | ~47 |
-| Unlocked and Loaded | 59.00% | ~44 |
+| Nanonic I | 65.00% | ~49 |
+| Terminated I | 65.00% | ~49 |
+| Unlocked and Loaded | 61.00% | ~46 |
 | Terminated II | 49.00% | ~37 |
 | Terminated III | 37.00% | ~28 |
 | Nanonic II | 32.00% | ~24 |

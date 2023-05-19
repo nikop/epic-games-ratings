@@ -2,12 +2,12 @@
   "ID": "ed58510215d54a33b89ea805e0d773d7",
   "Name": "Roguebook",
   "ProductSlug": "roguebook",
-  "Ranking_Rating": 382,
+  "Ranking_Rating": 357,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-10-20T08:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.61,
   "NumberOfRatings": 64,
   "RatingHistory": [
     {
@@ -156,6 +156,12 @@
       "Rating": 4.6,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-19T01:59:17.2965107+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -173,8 +179,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:42.1468934+00:00",
-  "LastChanged": "2023-03-31T05:57:02.524783+00:00",
+  "LastChanged": "2023-05-19T01:59:17.2965106+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:55.9773897+00:00",
-  "LastUpdate_Ratings": "2023-05-18T23:59:48.5002563+00:00",
-  "LastUpdate_Achievements": "2023-05-19T00:04:54.0817173+00:00"
+  "LastUpdate_Ratings": "2023-05-19T01:59:17.2965111+00:00",
+  "LastUpdate_Achievements": "2023-05-19T02:04:19.8502864+00:00"
 }

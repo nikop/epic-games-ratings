@@ -4,7 +4,7 @@
   "ProductSlug": "dungeon-drafters-82c40a",
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -201,9 +201,9 @@
       "ID": "MasterOracleQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Riddlesolver",
-      "Percentage": 29,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "MasterOracleQuestlineLast",
@@ -273,9 +273,9 @@
       "ID": "MasterWardenQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Uncut Gem",
-      "Percentage": 42,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "MasterWardenQuestlineLast",
@@ -466,8 +466,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-05-19T00:06:51.8414646+00:00",
+  "LastChanged_Achievements": "2023-05-19T02:05:41.4918073+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:11.4646536+00:00",
-  "LastUpdate_Ratings": "2023-05-18T23:57:28.2909021+00:00",
-  "LastUpdate_Achievements": "2023-05-19T00:06:51.8415111+00:00"
+  "LastUpdate_Ratings": "2023-05-19T01:57:35.2209047+00:00",
+  "LastUpdate_Achievements": "2023-05-19T02:05:41.4918442+00:00"
 }

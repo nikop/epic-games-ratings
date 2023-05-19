@@ -6,14 +6,14 @@ Rating: 4.41 (Ranked 655)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | As Quiet as a Mouse | 0.50% | ~4 |
+| Taking it back | 0.50% | ~4 |
 | Strategist | 0.40% | ~3 |
+| Meeting Resistance | 0.40% | ~3 |
 | The Long Game | 0.40% | ~3 |
 | Confirming Suspicions | 0.40% | ~3 |
 | Resourceful | 0.40% | ~3 |
 | It's Starting to Crack | 0.40% | ~3 |
-| Taking it back | 0.40% | ~3 |
 | Enemy at the Gates | 0.30% | ~2 |
-| Meeting Resistance | 0.30% | ~2 |
 | Precision Is Key | 0.30% | ~2 |
 | Lord of War | 0.30% | ~2 |
 | The Kraken Wakes | 0.30% | ~2 |
@@ -29,6 +29,7 @@ Rating: 4.41 (Ranked 655)
 | Gunslinger | 0.10% | ~1 |
 | Skirmisher | 0.10% | ~1 |
 | Rigged to Blow | 0.10% | ~1 |
+| Snake in the Grass | 0.10% | ~1 |
 | Burn after reading | 0.10% | ~1 |
 | Brains of the Operation | 0.10% | ~1 |
 | Target America | 0.10% | ~1 |
@@ -52,7 +53,6 @@ Rating: 4.41 (Ranked 655)
 | Die Nussknacker Sweet! | 0.00% | ~0 |
 | Der Geist | 0.00% | ~0 |
 | Close Quarters | 0.00% | ~0 |
-| Snake in the Grass | 0.00% | ~0 |
 | From Paris with Love | 0.00% | ~0 |
 | Souvenir hunter | 0.00% | ~0 |
 | Eagle Eyed | 0.00% | ~0 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 655)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 744 (Ranked 176)  
+Progressed: 749 (Ranked 173)  
 Completed: 2 (0.27%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 2 (0.27%) (Ranked 130)
 | 2023-05-16 | 723 | 2 |
 | 2023-05-17 | 728 | 2 |
 | 2023-05-18 | 743 | 2 |
-| 2023-05-19 | 744 | 2 |
+| 2023-05-19 | 749 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

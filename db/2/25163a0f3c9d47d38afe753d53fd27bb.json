@@ -2,9 +2,9 @@
   "ID": "25163a0f3c9d47d38afe753d53fd27bb",
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
-  "Ranking_EOS_Progress": 255,
-  "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_Progress": 253,
+  "Ranking_EOS_Completed": 61,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -19,11 +19,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 94,
+  "EOS_Progressed": 103,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 2.13,
+  "EOS_Completed_Percentage": 1.94,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -104,6 +104,11 @@
       "Time": "2023-05-19T00:03:39.2919964+00:00",
       "NumProgressed": 94,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-19T02:03:35.517388+00:00",
+      "NumProgressed": 103,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -115,77 +120,77 @@
       "Name": "A fresh start",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 97
     },
     {
       "ID": "LEVEL_002",
       "SetID": "212bg48",
       "Name": "Promising crop",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 81
     },
     {
       "ID": "LEVEL_003",
       "SetID": "212bg48",
       "Name": "A horse in the country",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 63
     },
     {
       "ID": "LEVEL_004",
       "SetID": "212bg48",
       "Name": "Life is better at the lake",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 53
     },
     {
       "ID": "LEVEL_005",
       "SetID": "212bg48",
       "Name": "Small village",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 41
     },
     {
       "ID": "LEVEL_006",
       "SetID": "212bg48",
       "Name": "Nothing like fresh food",
-      "Percentage": 31,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "LEVEL_007",
       "SetID": "212bg48",
       "Name": "Animals in the farm",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "LEVEL_008",
       "SetID": "212bg48",
       "Name": "Let\u0027s go to the market",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "LEVEL_009",
       "SetID": "212bg48",
       "Name": "Going zig zag",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "LEVEL_010",
       "SetID": "212bg48",
       "Name": "Rocks around the island",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
       "UsersEstimate": 15
     },
@@ -193,7 +198,7 @@
       "ID": "LEVEL_011",
       "SetID": "212bg48",
       "Name": "This island of mine",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 14
     },
@@ -203,7 +208,7 @@
       "Name": "Vegetables on rails",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "LEVEL_013",
@@ -211,15 +216,15 @@
       "Name": "Higher ground",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "LEVEL_014",
       "SetID": "212bg48",
       "Name": "Cross-country",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "LEVEL_015",
@@ -354,13 +359,13 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 94,
+      "Progressed": 103,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-19T00:03:39.2919958+00:00",
+  "LastChanged_Achievements": "2023-05-19T02:03:35.5173876+00:00",
   "LastUpdate_AppInfo": "2023-05-15T11:57:23.4437098+00:00",
-  "LastUpdate_Ratings": "2023-05-18T23:57:09.5341366+00:00",
-  "LastUpdate_Achievements": "2023-05-19T00:03:39.2920212+00:00"
+  "LastUpdate_Ratings": "2023-05-19T01:57:23.5760948+00:00",
+  "LastUpdate_Achievements": "2023-05-19T02:03:35.517416+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 674,
+  "EOS_Progressed": 676,
   "EOS_Completed": 45,
   "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 6.68,
+  "EOS_Completed_Percentage": 6.66,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -1287,6 +1287,11 @@
       "Time": "2023-05-19T00:06:43.3979811+00:00",
       "NumProgressed": 674,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-05-19T02:05:35.3572341+00:00",
+      "NumProgressed": 676,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 50,
@@ -1298,7 +1303,7 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 649
     },
     {
       "ID": "10",
@@ -1312,9 +1317,9 @@
       "ID": "11",
       "SetID": "d0g98p",
       "Name": "Nightmare Fuel",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 257
     },
     {
       "ID": "12",
@@ -1322,7 +1327,7 @@
       "Name": "Spellbound",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "13",
@@ -1330,7 +1335,7 @@
       "Name": "Extinct Again!",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "14",
@@ -1338,7 +1343,7 @@
       "Name": "Bird of Prey",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "15",
@@ -1346,7 +1351,7 @@
       "Name": "Pull the Plug",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "16",
@@ -1354,7 +1359,7 @@
       "Name": "Soul Slayer",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "17",
@@ -1362,15 +1367,15 @@
       "Name": "The Downfall",
       "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "18",
       "SetID": "d0g98p",
       "Name": "Surprise!",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 297
     },
     {
       "ID": "19",
@@ -1378,15 +1383,15 @@
       "Name": "A Grand Visit",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 485
+      "UsersEstimate": 487
     },
     {
       "ID": "2",
       "SetID": "d0g98p",
       "Name": "Waff!",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 627
+      "UsersEstimate": 635
     },
     {
       "ID": "20",
@@ -1394,15 +1399,15 @@
       "Name": "Stardust",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "21",
       "SetID": "d0g98p",
       "Name": "Take Heart",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 249
+      "UsersEstimate": 257
     },
     {
       "ID": "22",
@@ -1418,7 +1423,7 @@
       "Name": "All Heart",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "24",
@@ -1434,7 +1439,7 @@
       "Name": "Trick Question!",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "26",
@@ -1442,7 +1447,7 @@
       "Name": "Ancient Wisdom",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "27",
@@ -1450,7 +1455,7 @@
       "Name": "Frog Facts!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "28",
@@ -1458,7 +1463,7 @@
       "Name": "Sword, Shield, Fight!",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 514
     },
     {
       "ID": "29",
@@ -1466,15 +1471,15 @@
       "Name": "All That Glistens",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "3",
       "SetID": "d0g98p",
       "Name": "Vibing",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 411
+      "UsersEstimate": 419
     },
     {
       "ID": "30",
@@ -1482,7 +1487,7 @@
       "Name": "Gooey Delight!",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "31",
@@ -1498,7 +1503,7 @@
       "Name": "The Guardian",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "33",
@@ -1506,7 +1511,7 @@
       "Name": "Awakened Spirits",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "34",
@@ -1514,7 +1519,7 @@
       "Name": "Glimmer of Hope",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "35",
@@ -1522,7 +1527,7 @@
       "Name": "Teacups for Toppy",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "36",
@@ -1546,7 +1551,7 @@
       "Name": "Max Level!",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "39",
@@ -1554,15 +1559,15 @@
       "Name": "All Skilled Up!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "4",
       "SetID": "d0g98p",
       "Name": "A Prophecy",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 573
+      "UsersEstimate": 581
     },
     {
       "ID": "40",
@@ -1586,7 +1591,7 @@
       "Name": "Shopping Spree!",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "43",
@@ -1594,7 +1599,7 @@
       "Name": "An Actor!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "44",
@@ -1602,7 +1607,7 @@
       "Name": "It\u0027s Pointy!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "45",
@@ -1610,7 +1615,7 @@
       "Name": "Extraordinary!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "46",
@@ -1618,7 +1623,7 @@
       "Name": "Flower Power",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "47",
@@ -1626,15 +1631,15 @@
       "Name": "Crowned",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "48",
       "SetID": "d0g98p",
       "Name": "Into the Barn",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 586
+      "UsersEstimate": 595
     },
     {
       "ID": "49",
@@ -1642,7 +1647,7 @@
       "Name": "Final Showdown",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "5",
@@ -1650,7 +1655,7 @@
       "Name": "Well Rested",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "50",
@@ -1658,7 +1663,7 @@
       "Name": "Spot of Tea?",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "6",
@@ -1666,15 +1671,15 @@
       "Name": "Going Home",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "7",
       "SetID": "d0g98p",
       "Name": "Fun Guy",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 411
+      "UsersEstimate": 419
     },
     {
       "ID": "8",
@@ -1682,7 +1687,7 @@
       "Name": "Tragic Brave",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 350
+      "UsersEstimate": 352
     },
     {
       "ID": "9",
@@ -1690,14 +1695,14 @@
       "Name": "Curtain Call",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     }
   ],
   "AchievementSets": [
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 674,
+      "Progressed": 676,
       "Completed": 45
     }
   ],
@@ -1705,8 +1710,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-19T00:06:43.3979806+00:00",
+  "LastChanged_Achievements": "2023-05-19T02:05:35.3572336+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:24.6988678+00:00",
-  "LastUpdate_Ratings": "2023-05-18T23:57:45.5053507+00:00",
-  "LastUpdate_Achievements": "2023-05-19T00:06:43.398038+00:00"
+  "LastUpdate_Ratings": "2023-05-19T01:57:44.5564127+00:00",
+  "LastUpdate_Achievements": "2023-05-19T02:05:35.3572945+00:00"
 }

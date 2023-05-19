@@ -53,8 +53,8 @@ Rating: 3.75 (Ranked 915)
 | Lock And Load | 1.00% | ~11 |
 | Relic Of The Past | 1.00% | ~11 |
 | Active Member | 0.90% | ~10 |
+| Blueprint Upgrades | 0.90% | ~10 |
 | Four Leaf Clover | 0.90% | ~10 |
-| Blueprint Upgrades | 0.80% | ~9 |
 | Crystal Mining | 0.80% | ~9 |
 | Sailor | 0.80% | ~9 |
 | Enchanting skill | 0.70% | ~8 |

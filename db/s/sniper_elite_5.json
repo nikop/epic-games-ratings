@@ -5,9 +5,9 @@
   "Ranking_Rating": 655,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
-  "Ranking_EOS_Progress": 176,
+  "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -176,9 +176,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 744,
+  "EOS_Progressed": 749,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -616,6 +616,11 @@
       "Time": "2023-05-19T00:06:50.8762346+00:00",
       "NumProgressed": 744,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-19T02:05:40.8899893+00:00",
+      "NumProgressed": 749,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -705,9 +710,9 @@
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -889,9 +894,9 @@
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
       "SetID": "bm6el81",
       "Name": "Snake in the Grass",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -993,9 +998,9 @@
       "ID": "REWARD_6_BIG_GAME_HUNTER",
       "SetID": "bm6el81",
       "Name": "Taking it back",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -1194,13 +1199,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 695,
+      "Progressed": 700,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 744,
+      "Progressed": 749,
       "Completed": 2
     }
   ],
@@ -1208,8 +1213,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-18T16:01:31.1520338+00:00",
-  "LastChanged_Achievements": "2023-05-19T00:06:50.8762341+00:00",
+  "LastChanged_Achievements": "2023-05-19T02:05:40.8899886+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:23.4749836+00:00",
-  "LastUpdate_Ratings": "2023-05-19T00:01:52.1581847+00:00",
-  "LastUpdate_Achievements": "2023-05-19T00:06:50.8763149+00:00"
+  "LastUpdate_Ratings": "2023-05-19T02:00:44.0930155+00:00",
+  "LastUpdate_Achievements": "2023-05-19T02:05:40.8900623+00:00"
 }

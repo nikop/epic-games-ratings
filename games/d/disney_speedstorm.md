@@ -23,9 +23,9 @@
 | THE EYE OF THE HUNTER | 7.00% | ~174 |
 | MASTER | 6.00% | ~149 |
 | FRIENDLY | 4.00% | ~99 |
+| BE OUR GUEST | 3.00% | ~74 |
 | ACE TRICKSTER | 3.00% | ~74 |
 | EXPERIENCED CREW | 2.00% | ~50 |
-| BE OUR GUEST | 2.00% | ~50 |
 | FRAMED! | 1.00% | ~25 |
 | PERFECTLY POISED | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)

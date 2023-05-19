@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Killing Spree | 67.00% | ~2 |
-| First Blood | 67.00% | ~2 |
-| 5Gb HDD | 33.00% | ~1 |
-| Merchant Prince I | 33.00% | ~1 |
+| Killing Spree | 50.00% | ~2 |
+| First Blood | 50.00% | ~2 |
+| 5Gb HDD | 25.00% | ~1 |
+| Merchant Prince I | 25.00% | ~1 |
 | Providence | 0.00% | ~0 |
 | Revenge | 0.00% | ~0 |
 | Bronze Tovarish | 0.00% | ~0 |
@@ -137,10 +137,11 @@
 | Fighting Fit I | 0.00% | ~0 |
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 356)  
+Progressed: 4 (Ranked 350)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 2 | 0 |
 | 2023-05-18 | 3 | 0 |
+| 2023-05-19 | 4 | 0 |

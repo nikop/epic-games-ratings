@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adventure Time | 75.00% | ~6 |
-| Master Of The Arts | 25.00% | ~2 |
+| Master Of The Arts | 38.00% | ~3 |
+| Close Call | 13.00% | ~1 |
 | Adept Summoner | 0.00% | ~0 |
 | Apprentice Summoner | 0.00% | ~0 |
 | Brave Younglings | 0.00% | ~0 |
 | Catch 'em All | 0.00% | ~0 |
 | Challenger, Ready! | 0.00% | ~0 |
-| Close Call | 0.00% | ~0 |
 | Ender Ender | 0.00% | ~0 |
 | Evolution Revolution | 0.00% | ~0 |
 | Expert Summoner | 0.00% | ~0 |

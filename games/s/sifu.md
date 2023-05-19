@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~495 |
-| Project Arena | 3.00% | ~371 |
+| Diligence as a goal | 4.00% | ~496 |
+| Project Arena | 3.00% | ~372 |
 | Bloody Sport | 1.00% | ~124 |
-| The best strikes are the ones we avoid | 0.90% | ~111 |
+| The best strikes are the ones we avoid | 0.90% | ~112 |
 | The Hateful Pole Fighter | 0.80% | ~5,625 |
 | A Lady's Blood in the Snow | 0.80% | ~5,625 |
 | State of constant learning | 0.80% | ~5,625 |
@@ -22,13 +22,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kill Nil | 0.70% | ~4,922 |
 | Qi Gong: Essence | 0.70% | ~4,922 |
 | Take damage to save time | 0.70% | ~4,922 |
-| The Old Grandmaster | 0.60% | ~4,218 |
-| Scareless | 0.60% | ~4,218 |
-| Stuntmaster | 0.60% | ~4,218 |
-| Street Fighting | 0.60% | ~4,218 |
-| Life is your teacher | 0.60% | ~4,218 |
-| Lightning Hands | 0.60% | ~4,218 |
-| Kung-Fu Tussle | 0.60% | ~4,218 |
+| The Old Grandmaster | 0.60% | ~4,219 |
+| Scareless | 0.60% | ~4,219 |
+| Stuntmaster | 0.60% | ~4,219 |
+| Street Fighting | 0.60% | ~4,219 |
+| Life is your teacher | 0.60% | ~4,219 |
+| Lightning Hands | 0.60% | ~4,219 |
+| Kung-Fu Tussle | 0.60% | ~4,219 |
 | Deadly Venom | 0.60% | ~74 |
 | Dance of the Praying Mantis | 0.50% | ~3,515 |
 | Qi Gong: Mind | 0.50% | ~3,515 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~703 |
 | Warriors from the Mountain | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703,072 (Ranked 15)  
+Progressed: 703,090 (Ranked 15)  
 Completed: 12,731 (1.81%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 12,731 (1.81%) (Ranked 63)
 | 2023-05-16 | 702,986 | 12,728 |
 | 2023-05-17 | 703,009 | 12,730 |
 | 2023-05-18 | 703,070 | 12,731 |
-| 2023-05-19 | 703,072 | 12,731 |
+| 2023-05-19 | 703,090 | 12,731 |
 ## Awards
 Max (Great Boss Battles): 6,074  (Ranked 53)  
 Sum: 10,327 (Ranked 77)  

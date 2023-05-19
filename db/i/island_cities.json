@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 79,
+  "EOS_Progressed": 80,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 17.72,
+  "EOS_Completed_Percentage": 17.5,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -398,6 +398,11 @@
       "Time": "2023-05-18T22:05:53.67825+00:00",
       "NumProgressed": 79,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-19T02:05:36.7540189+00:00",
+      "NumProgressed": 80,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 22,
@@ -409,23 +414,23 @@
       "Name": "Welcome!",
       "Percentage": 100,
       "XP": 35,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "LEVEL_002",
       "SetID": "3khpmem",
       "Name": "A tiny town",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 35,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "LEVEL_003",
       "SetID": "3khpmem",
       "Name": "Buildings, roads, cars, ...and people",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 35,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "LEVEL_004",
@@ -433,69 +438,69 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "LEVEL_005",
       "SetID": "3khpmem",
       "Name": "Bridges to come and go",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 35,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "LEVEL_006",
       "SetID": "3khpmem",
       "Name": "Found an oasis",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "LEVEL_007",
       "SetID": "3khpmem",
       "Name": "Burger or pizza?",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "LEVEL_008",
       "SetID": "3khpmem",
       "Name": "Passion for sports",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 35,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "LEVEL_009",
       "SetID": "3khpmem",
       "Name": "Who loves trains?",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "LEVEL_010",
       "SetID": "3khpmem",
       "Name": "Easy and steady climb",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "LEVEL_011",
       "SetID": "3khpmem",
       "Name": "At the heart of the city",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "LEVEL_012",
       "SetID": "3khpmem",
       "Name": "Calm neighborhood",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 50,
       "UsersEstimate": 21
     },
@@ -503,7 +508,7 @@
       "ID": "LEVEL_013",
       "SetID": "3khpmem",
       "Name": "Elevated ring",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 50,
       "UsersEstimate": 21
     },
@@ -584,7 +589,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 79,
+      "Progressed": 80,
       "Completed": 14
     }
   ],
@@ -592,8 +597,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-19T00:06:45.3604539+00:00",
+  "LastChanged_Achievements": "2023-05-19T02:05:36.7540184+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:57.1366152+00:00",
-  "LastUpdate_Ratings": "2023-05-18T23:58:30.9698217+00:00",
-  "LastUpdate_Achievements": "2023-05-19T00:06:45.3604753+00:00"
+  "LastUpdate_Ratings": "2023-05-19T01:58:19.339736+00:00",
+  "LastUpdate_Achievements": "2023-05-19T02:05:36.7540389+00:00"
 }

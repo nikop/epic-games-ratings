@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 259,
+  "EOS_Progressed": 260,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -390,6 +390,11 @@
       "Time": "2023-05-15T18:05:06.5936589+00:00",
       "NumProgressed": 259,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T02:00:58.2586113+00:00",
+      "NumProgressed": 260,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -503,9 +508,9 @@
       "ID": "ACH_COLL_1",
       "SetID": "1j25agn",
       "Name": "Explorer",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 156
     },
     {
       "ID": "ACH_COLL_20",
@@ -513,7 +518,7 @@
       "Name": "Prospector",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -545,7 +550,7 @@
       "Name": "Collectibles of Chapter III",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_COLL_CH04",
@@ -625,7 +630,7 @@
       "Name": "Cowardice",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -655,9 +660,9 @@
       "ID": "ACH_FIN_CH05",
       "SetID": "1j25agn",
       "Name": "Consequences",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_FIN_CH06",
@@ -687,9 +692,9 @@
       "ID": "ACH_FIN_CH09",
       "SetID": "1j25agn",
       "Name": "Vengeance",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_FIN_CH10",
@@ -705,7 +710,7 @@
       "Name": "Sorrow",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_FIN_CH12",
@@ -737,7 +742,7 @@
       "Name": "Helping Hand",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_HIDE_BODIES",
@@ -745,7 +750,7 @@
       "Name": "Missing in Action",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_JOACHIM_FATE1",
@@ -783,9 +788,9 @@
       "ID": "ACH_KILL_ENEMY",
       "SetID": "1j25agn",
       "Name": "NO LIFE IS WORTH SAVING...",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 132
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -817,7 +822,7 @@
       "Name": "Food Massacre",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_KILL_SNIPER",
@@ -825,7 +830,7 @@
       "Name": "Sniper Wolf",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_KILL_THROW",
@@ -833,7 +838,7 @@
       "Name": "King of Knives",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_NEST1",
@@ -872,15 +877,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 259,
+      "Progressed": 260,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-05-09T23:57:28.9754418+00:00",
-  "LastChanged_Achievements": "2023-05-19T00:02:06.9097071+00:00",
+  "LastChanged_Achievements": "2023-05-19T02:00:58.2586108+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:26.9106567+00:00",
-  "LastUpdate_Ratings": "2023-05-18T23:57:48.0334831+00:00",
-  "LastUpdate_Achievements": "2023-05-19T00:02:06.9097711+00:00"
+  "LastUpdate_Ratings": "2023-05-19T01:57:46.4327053+00:00",
+  "LastUpdate_Achievements": "2023-05-19T02:00:58.2586771+00:00"
 }

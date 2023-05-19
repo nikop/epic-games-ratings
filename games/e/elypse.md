@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A path of no return | 110.00% | ~11 |
-| Pigeon | 90.00% | ~9 |
-| A bottomless pit | 90.00% | ~9 |
-| Splash! | 70.00% | ~7 |
-| Baited | 60.00% | ~6 |
-| Hard Rock | 60.00% | ~6 |
-| "Swoosh" | 50.00% | ~5 |
-| The light at the end of the tunnel | 50.00% | ~5 |
-| Soft skin | 50.00% | ~5 |
-| Squid game | 40.00% | ~4 |
-| Rock Solid | 40.00% | ~4 |
-| Masochistic | 40.00% | ~4 |
-| Rooftop | 40.00% | ~4 |
-| Sensitive soul | 40.00% | ~4 |
-| The beast within | 30.00% | ~3 |
-| It's getting dark | 30.00% | ~3 |
-| Homeless | 30.00% | ~3 |
-| Big badaboom! | 30.00% | ~3 |
-| Nokron tower | 20.00% | ~2 |
-| MayDay! MayDay! | 20.00% | ~2 |
-| Magnitude 5 | 20.00% | ~2 |
-| Bookworm | 20.00% | ~2 |
-| Payback | 20.00% | ~2 |
-| Full power | 10.00% | ~1 |
-| "Ah sh*t... Here we go again!" | 10.00% | ~1 |
+| A path of no return | 109.00% | ~12 |
+| Pigeon | 91.00% | ~10 |
+| A bottomless pit | 91.00% | ~10 |
+| Splash! | 82.00% | ~9 |
+| Baited | 64.00% | ~7 |
+| Hard Rock | 64.00% | ~7 |
+| "Swoosh" | 55.00% | ~6 |
+| The light at the end of the tunnel | 55.00% | ~6 |
+| Soft skin | 55.00% | ~6 |
+| Masochistic | 45.00% | ~5 |
+| Rooftop | 45.00% | ~5 |
+| Squid game | 36.00% | ~4 |
+| Rock Solid | 36.00% | ~4 |
+| The beast within | 36.00% | ~4 |
+| It's getting dark | 36.00% | ~4 |
+| Homeless | 36.00% | ~4 |
+| Sensitive soul | 36.00% | ~4 |
+| Big badaboom! | 27.00% | ~3 |
+| Nokron tower | 18.00% | ~2 |
+| MayDay! MayDay! | 18.00% | ~2 |
+| Magnitude 5 | 18.00% | ~2 |
+| Bookworm | 18.00% | ~2 |
+| Payback | 18.00% | ~2 |
+| Full power | 9.00% | ~1 |
+| "Ah sh*t... Here we go again!" | 9.00% | ~1 |
 | Abyssal God | 0.00% | ~0 |
 | GG EZ | 0.00% | ~0 |
 | Compulsive hoarder | 0.00% | ~0 |
@@ -39,10 +39,11 @@
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10 (Ranked 324)  
+Progressed: 11 (Ranked 323)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-17 | 2 | 0 |
 | 2023-05-18 | 10 | 0 |
+| 2023-05-19 | 11 | 0 |
