@@ -45,6 +45,7 @@
 | [Search](games/9/9f1f6bcb0e2e490682a81f3fc986690a.md) | 2023-06-01 | 2022-08-29 |
 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2023-06-01 | 2022-10-20 |
 | [Conjury Revell](games/c/cb52331116614b88b7b72602cbb52691.md) | 2023-06-01 | 2023-02-07 |
+| [Starlight X-2 Galactic Puzzles](games/s/starlight_x-2_galactic_puzzles.md) | 2023-06-07 | 2021-04-15 |
 | [Rise of Jericho](games/r/rise_of_jericho.md) | 2023-06-09 | 2023-06-09 |
 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 2023-06-09 | 2022-09-19 |
 | [Suicide Guy](games/7/7d9cb4fa8c4b488d86c7e9dec37318d5.md) | 2023-06-14 | 2017-06-14 |
@@ -70,7 +71,6 @@
 | [My Demon Wife](games/m/my_demon_wife.md) | 2023-06-30 | 2023-12-31 |
 | [Probo Rush](games/p/probo_rush.md) | 2023-06-30 | 2023-06-30 |
 | [SHAFTED](games/s/shafted.md) | 2023-06-30 | 2022-10-13 |
-| [Starlight X-2 Galactic Puzzles](games/s/starlight_x-2_galactic_puzzles.md) | 2023-06-30 | 2021-04-15 |
 | [Stillborn Slayer](games/s/stillborn_slayer.md) | 2023-06-30 | 2023-06-30 |
 | [Tabletop Playground](games/9/95f3bd44c8394061aca3eb1ce4b1f0fb.md) | 2023-06-30 | 2020-05-15 |
 | [The Riflemen](games/t/the_riflemen.md) | 2023-06-30 | 2023-06-27 |
@@ -89,6 +89,7 @@
 | [Dirty Wars: September 11](games/a/a3df291e5482464898a00f1ed892605f.md) | 2023-09-11 | 2023-09-11 |
 | [Life by You](games/l/life_by_you.md) | 2023-09-12 | 2023-09-12 |
 | [Outlive](games/o/outlive.md) | 2023-09-14 | 2023-09-14 |
+| [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 2023-09-19 | 2023-09-19 |
 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 2023-09-30 | 2023-09-30 |
 | [Agatha Christie - Murder on the Orient Express](games/b/b1c68be50f37489ca95ff2b7ed616490.md) | 2023-09-30 | 2023-09-30 |
 | [Bloxs](games/b/bloxs.md) | 2023-09-30 | 2023-09-30 |
