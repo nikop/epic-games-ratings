@@ -20,8 +20,8 @@
 | 18 | [Out of Bounds](games/o/out_of_bounds.md) | 8.00% |
 | 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.90% |
 | 20 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.74% |
-| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.70% |
-| 22 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 7.69% |
+| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.69% |
+| 21 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 7.69% |
 | 23 | [Scorn](games/s/scorn.md) | 7.02% |
 | 24 | [Ravenlok](games/r/ravenlok.md) | 6.59% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
@@ -63,9 +63,9 @@
 | 61 | [A Musical Story](games/a/a_musical_story.md) | 1.92% |
 | 62 | [Sifu](games/s/sifu.md) | 1.81% |
 | 63 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
-| 64 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 1.69% |
-| 65 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.68% |
-| 66 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
+| 64 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.68% |
+| 65 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
+| 65 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 1.67% |
 | 67 | [Night Book](games/n/night_book.md) | 1.66% |
 | 68 | [Somerville](games/s/somerville.md) | 1.61% |
 | 69 | [Frogun](games/f/frogun.md) | 1.55% |
@@ -73,7 +73,7 @@
 | 71 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.48% |
 | 73 | [Bloodshore](games/b/bloodshore.md) | 1.39% |
-| 73 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.39% |
+| 74 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.37% |
 | 75 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.32% |
 | 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.29% |
 | 77 | [Trifox](games/t/trifox.md) | 1.28% |
@@ -130,8 +130,8 @@
 | 128 | [Aegis Descent](games/a/aegis_descent.md) | 0.28% |
 | 128 | [Despot's Game](games/d/despot's_game.md) | 0.28% |
 | 130 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
-| 130 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.27% |
-| 132 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.26% |
+| 131 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.26% |
+| 131 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.26% |
 | 133 | [Circus Electrique](games/c/circus_electrique.md) | 0.25% |
 | 133 | [Dead Island 2](games/d/dead_island_2.md) | 0.25% |
 | 133 | [Wildermyth](games/w/wildermyth.md) | 0.25% |
