@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -2340,10 +2340,10 @@
       "Count": 1029
     }
   ],
-  "EOS_Progressed": 30176,
+  "EOS_Progressed": 30222,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 3790,
-  "EOS_NewCompleters": 5,
+  "EOS_NewPlayers": 3813,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
     {
@@ -5155,6 +5155,11 @@
       "Time": "2023-05-19T15:05:59.6781137+00:00",
       "NumProgressed": 30176,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-19T16:05:11.7459525+00:00",
+      "NumProgressed": 30222,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 53,
@@ -5252,9 +5257,9 @@
       "ID": "complete_final_mission",
       "SetID": "3ib2d0i",
       "Name": "Showdown",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 272
+      "UsersEstimate": 302
     },
     {
       "ID": "complete_first_side_hustle",
@@ -5278,7 +5283,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1209
     },
     {
       "ID": "customize_a_vehicle",
@@ -5332,9 +5337,9 @@
       "ID": "do_a_barrel_roll",
       "SetID": "3ib2d0i",
       "Name": "The Spins",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 181
     },
     {
       "ID": "empire_tier_2",
@@ -5358,7 +5363,7 @@
       "Name": "Masters of Santo Ileso",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "empire_tier_5",
@@ -5398,7 +5403,7 @@
       "Name": "Kitted Out",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "get_betrayed",
@@ -5550,7 +5555,7 @@
       "Name": "To The Nines",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 905
+      "UsersEstimate": 907
     },
     {
       "ID": "whole_map_purple",
@@ -5564,9 +5569,9 @@
       "ID": "bfhj_complete_mission_1_collectible",
       "SetID": "5gi7jl2",
       "Name": "Producer Credit",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "bfhj_complete_mission_2_collectible",
@@ -5589,22 +5594,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 30176,
+      "Progressed": 30222,
       "Completed": 19
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 1813,
-      "Completed": 494
+      "Progressed": 1859,
+      "Completed": 498
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-05-19T13:59:01.1568817+00:00",
-  "LastChanged_Achievements": "2023-05-19T15:05:59.678113+00:00",
+  "LastChanged_Achievements": "2023-05-19T16:05:11.7459522+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:30.5487135+00:00",
-  "LastUpdate_Ratings": "2023-05-19T14:59:54.8844578+00:00",
-  "LastUpdate_Achievements": "2023-05-19T15:05:59.678179+00:00"
+  "LastUpdate_Ratings": "2023-05-19T15:59:13.3381468+00:00",
+  "LastUpdate_Achievements": "2023-05-19T16:05:11.7460014+00:00"
 }

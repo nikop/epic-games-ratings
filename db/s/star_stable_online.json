@@ -2,12 +2,12 @@
   "ID": "207b765975664e9db1e29129aafae69c",
   "Name": "Star Stable Online",
   "ProductSlug": "star-stable",
-  "Ranking_Rating": 645,
+  "Ranking_Rating": 656,
   "Ranking_Popularity": 296,
   "Ranking_PopularitySum": 232,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-06-22T16:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.42,
+  "Rating": 4.41,
   "NumberOfRatings": 317,
   "RatingHistory": [
     {
@@ -1106,10 +1106,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 934,
       "NumberOfAwardsMax": 128
+    },
+    {
+      "Time": "2023-05-19T15:57:54.892711+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 935,
+      "NumberOfAwardsMax": 128
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 934,
+  "NumberOfAwards": 935,
   "NumberOfAwardsMax": 128,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1171,7 +1177,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 78
+      "Count": 79
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1197,8 +1203,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:59.036031+00:00",
-  "LastChanged": "2023-05-19T09:58:04.489232+00:00",
+  "LastChanged": "2023-05-19T15:57:54.8927109+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:00.9248952+00:00",
-  "LastUpdate_Ratings": "2023-05-19T14:58:19.2501937+00:00",
-  "LastUpdate_Achievements": "2023-05-19T15:04:16.6297307+00:00"
+  "LastUpdate_Ratings": "2023-05-19T15:57:54.8927113+00:00",
+  "LastUpdate_Achievements": "2023-05-19T16:03:36.8550606+00:00"
 }

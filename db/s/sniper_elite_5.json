@@ -2,12 +2,12 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 657,
+  "Ranking_Rating": 656,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -176,9 +176,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 791,
+  "EOS_Progressed": 796,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -681,6 +681,11 @@
       "Time": "2023-05-19T15:06:01.3240485+00:00",
       "NumProgressed": 791,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-19T16:05:13.0916373+00:00",
+      "NumProgressed": 796,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -698,9 +703,9 @@
       "ID": "REWARD_11_GAME_SUBTITLE",
       "SetID": "bm6el81",
       "Name": "Libert\u00E9",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -1026,9 +1031,9 @@
       "ID": "REWARD_5_BUNKER_BUSTER",
       "SetID": "bm6el81",
       "Name": "Change the Channel",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -1050,9 +1055,9 @@
       "ID": "REWARD_67_NO_ASSISTANCE",
       "SetID": "bm6el81",
       "Name": "Don\u0027t hold your breath",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_6_BIG_GAME_HUNTER",
@@ -1082,9 +1087,9 @@
       "ID": "REWARD_7_TARGET_AMERICA",
       "SetID": "bm6el81",
       "Name": "Target America",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -1098,9 +1103,9 @@
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
       "SetID": "bm6el81",
       "Name": "The Kraken Sleeps",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -1259,13 +1264,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 742,
+      "Progressed": 747,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 791,
+      "Progressed": 796,
       "Completed": 2
     }
   ],
@@ -1273,8 +1278,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-18T16:01:31.1520338+00:00",
-  "LastChanged_Achievements": "2023-05-19T15:06:01.3240476+00:00",
+  "LastChanged_Achievements": "2023-05-19T16:05:13.0916369+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:23.4749836+00:00",
-  "LastUpdate_Ratings": "2023-05-19T15:00:50.8479608+00:00",
-  "LastUpdate_Achievements": "2023-05-19T15:06:01.3241131+00:00"
+  "LastUpdate_Ratings": "2023-05-19T15:59:58.9351301+00:00",
+  "LastUpdate_Achievements": "2023-05-19T16:05:13.0916927+00:00"
 }

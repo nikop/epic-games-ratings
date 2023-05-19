@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -852,9 +852,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 2910,
+  "EOS_Progressed": 2912,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2312,6 +2312,11 @@
       "Time": "2023-05-19T14:05:30.9565112+00:00",
       "NumProgressed": 2910,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-19T16:05:42.4881759+00:00",
+      "NumProgressed": 2912,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2419,7 +2424,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1369
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -2483,7 +2488,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 2270
+      "UsersEstimate": 2271
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -2497,9 +2502,9 @@
       "ID": "ACH_MILITARYCOUP",
       "SetID": "1p8ab95",
       "Name": "One Does Not Simply Stage A Coup",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_MISSION_NOELECTION",
@@ -2507,7 +2512,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 21,
       "XP": 35,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -2579,7 +2584,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -2595,7 +2600,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -2642,15 +2647,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 2910,
+      "Progressed": 2912,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-15T17:00:44.7999652+00:00",
-  "LastChanged_Achievements": "2023-05-19T15:06:34.5599624+00:00",
+  "LastChanged_Achievements": "2023-05-19T16:05:42.4881755+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:03.9005572+00:00",
-  "LastUpdate_Ratings": "2023-05-19T15:00:30.1370903+00:00",
-  "LastUpdate_Achievements": "2023-05-19T15:06:34.560002+00:00"
+  "LastUpdate_Ratings": "2023-05-19T15:59:41.4294243+00:00",
+  "LastUpdate_Achievements": "2023-05-19T16:05:42.4882037+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "d66c34349a054c3ea529726a5687520e",
   "Name": "Wargame: Red Dragon",
   "ProductSlug": "wargame-red-dragon",
-  "Ranking_Rating": 213,
+  "Ranking_Rating": 214,
   "Ranking_Popularity": 142,
   "Ranking_PopularitySum": 92,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-03-04T16:00:00+00:00",
@@ -3180,10 +3180,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 7991,
       "NumberOfAwardsMax": 871
+    },
+    {
+      "Time": "2023-05-19T15:57:35.6301156+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 7994,
+      "NumberOfAwardsMax": 871
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7991,
+  "NumberOfAwards": 7994,
   "NumberOfAwardsMax": 871,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3197,7 +3203,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 836
+      "Count": 839
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3271,8 +3277,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:18.8189699+00:00",
-  "LastChanged": "2023-05-19T14:57:54.4579804+00:00",
+  "LastChanged": "2023-05-19T15:57:35.6301155+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:37.1440227+00:00",
-  "LastUpdate_Ratings": "2023-05-19T14:57:54.4579811+00:00",
-  "LastUpdate_Achievements": "2023-05-19T15:04:04.9550854+00:00"
+  "LastUpdate_Ratings": "2023-05-19T15:57:35.6301161+00:00",
+  "LastUpdate_Achievements": "2023-05-19T16:03:27.3186571+00:00"
 }

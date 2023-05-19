@@ -4,10 +4,10 @@
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
   "Ranking_Rating": 116,
   "Ranking_Popularity": 111,
-  "Ranking_PopularitySum": 109,
+  "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2432,9 +2432,9 @@
       "Count": 368
     }
   ],
-  "EOS_Progressed": 8902,
+  "EOS_Progressed": 8904,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3832,6 +3832,11 @@
       "Time": "2023-05-19T15:06:30.757532+00:00",
       "NumProgressed": 8902,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T16:05:39.1410298+00:00",
+      "NumProgressed": 8904,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3843,7 +3848,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1157
+      "UsersEstimate": 1158
     },
     {
       "ID": "02_BurningCity",
@@ -4770,21 +4775,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7684,
+      "Progressed": 7686,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8902,
+      "Progressed": 8904,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-18T21:58:35.3009581+00:00",
-  "LastChanged_Achievements": "2023-05-19T15:06:30.7575313+00:00",
+  "LastChanged_Achievements": "2023-05-19T16:05:39.141029+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:14.2729853+00:00",
-  "LastUpdate_Ratings": "2023-05-19T14:58:33.9924294+00:00",
-  "LastUpdate_Achievements": "2023-05-19T15:06:30.7577033+00:00"
+  "LastUpdate_Ratings": "2023-05-19T15:58:06.4210318+00:00",
+  "LastUpdate_Achievements": "2023-05-19T16:05:39.1411619+00:00"
 }

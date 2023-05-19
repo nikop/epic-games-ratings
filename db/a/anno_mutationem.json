@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -79,9 +79,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 606,
+  "EOS_Progressed": 607,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -169,6 +169,11 @@
       "Time": "2023-05-18T12:06:11.4412823+00:00",
       "NumProgressed": 606,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T16:00:30.843026+00:00",
+      "NumProgressed": 607,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -204,7 +209,7 @@
       "Name": "Big Spender",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "Clarity_of_Mind",
@@ -220,7 +225,7 @@
       "Name": "Club Star",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "Combine",
@@ -228,7 +233,7 @@
       "Name": "1\u002B1\u003E2",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Deadly_Kombationem",
@@ -268,7 +273,7 @@
       "Name": "I just love stuff!",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "I_think_its_broke",
@@ -292,7 +297,7 @@
       "Name": "Keep \u0027em coming!",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "Lady_Luck",
@@ -348,7 +353,7 @@
       "Name": "Tell me your story",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -396,7 +401,7 @@
       "Name": "The things they print nowadays",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "The_truth_is_out_there",
@@ -412,7 +417,7 @@
       "Name": "This can\u0027t be right\u2026",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Welcome_home_06",
@@ -420,7 +425,7 @@
       "Name": "Welcome home, 06",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Woman on a (side) mission",
@@ -467,7 +472,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 606,
+      "Progressed": 607,
       "Completed": 0
     }
   ],
@@ -475,8 +480,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-03-31T05:57:44.802254+00:00",
-  "LastChanged_Achievements": "2023-05-19T15:01:25.2362645+00:00",
+  "LastChanged_Achievements": "2023-05-19T16:00:30.8430255+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:35.0583707+00:00",
-  "LastUpdate_Ratings": "2023-05-19T14:57:51.2934743+00:00",
-  "LastUpdate_Achievements": "2023-05-19T15:01:25.2362927+00:00"
+  "LastUpdate_Ratings": "2023-05-19T15:57:33.2697477+00:00",
+  "LastUpdate_Achievements": "2023-05-19T16:00:30.8430472+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -1324,10 +1324,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 2117,
       "NumberOfAwardsMax": 286
+    },
+    {
+      "Time": "2023-05-19T15:59:05.5619449+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2118,
+      "NumberOfAwardsMax": 286
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2117,
+  "NumberOfAwards": 2118,
   "NumberOfAwardsMax": 286,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1359,7 +1365,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 216
+      "Count": 217
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1398,9 +1404,9 @@
       "Count": 203
     }
   ],
-  "EOS_Progressed": 18794,
+  "EOS_Progressed": 18797,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2223,6 +2229,11 @@
       "Time": "2023-05-19T15:06:14.668788+00:00",
       "NumProgressed": 18794,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-19T16:05:24.8840566+00:00",
+      "NumProgressed": 18797,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -2234,7 +2245,7 @@
       "Name": "Family man",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "CarMechanic",
@@ -2266,7 +2277,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2819
+      "UsersEstimate": 2820
     },
     {
       "ID": "EstateAgent",
@@ -2282,7 +2293,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 17666
+      "UsersEstimate": 17669
     },
     {
       "ID": "GameOver",
@@ -2314,7 +2325,7 @@
       "Name": "Mystery",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1879
+      "UsersEstimate": 1880
     },
     {
       "ID": "JuniorEstateAgent",
@@ -2322,7 +2333,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "KnockKnock",
@@ -2394,7 +2405,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5826
+      "UsersEstimate": 5827
     },
     {
       "ID": "VeronicaLiptson",
@@ -2402,7 +2413,7 @@
       "Name": "Artistic soul",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1691
+      "UsersEstimate": 1692
     },
     {
       "ID": "YouDoItWrong",
@@ -2417,15 +2428,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 18794,
+      "Progressed": 18797,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
-  "LastChanged": "2023-05-18T23:00:48.34153+00:00",
-  "LastChanged_Achievements": "2023-05-19T15:06:14.6687872+00:00",
+  "LastChanged": "2023-05-19T15:59:05.5619448+00:00",
+  "LastChanged_Achievements": "2023-05-19T16:05:24.8840561+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:21.1151824+00:00",
-  "LastUpdate_Ratings": "2023-05-19T14:59:45.6270495+00:00",
-  "LastUpdate_Achievements": "2023-05-19T15:06:14.6688116+00:00"
+  "LastUpdate_Ratings": "2023-05-19T15:59:05.5619452+00:00",
+  "LastUpdate_Achievements": "2023-05-19T16:05:24.8840727+00:00"
 }

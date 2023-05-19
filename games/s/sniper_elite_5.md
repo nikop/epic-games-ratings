@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.41 (Ranked 657)  
+Rating: 4.41 (Ranked 656)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -16,6 +16,7 @@ Rating: 4.41 (Ranked 657)
 | Organ Grinder | 0.50% | ~4 |
 | The Kraken Wakes | 0.50% | ~4 |
 | It's Starting to Crack | 0.50% | ~4 |
+| The Kraken Sleeps | 0.50% | ~4 |
 | Opposing Force | 0.40% | ~3 |
 | Strategist | 0.40% | ~3 |
 | Gunslinger | 0.40% | ~3 |
@@ -23,17 +24,16 @@ Rating: 4.41 (Ranked 657)
 | Sharpshooter | 0.40% | ~3 |
 | Precision Is Key | 0.40% | ~3 |
 | Snake in the Grass | 0.40% | ~3 |
+| Change the Channel | 0.40% | ~3 |
+| Don't hold your breath | 0.40% | ~3 |
+| Target America | 0.40% | ~3 |
 | Climbing the Ladder | 0.30% | ~2 |
+| Liberté | 0.30% | ~2 |
 | No Stone Unturned | 0.30% | ~2 |
 | Just a Flesh Wound | 0.30% | ~2 |
 | Explosive Efficiency | 0.30% | ~2 |
-| Change the Channel | 0.30% | ~2 |
-| Don't hold your breath | 0.30% | ~2 |
-| Target America | 0.30% | ~2 |
-| The Kraken Sleeps | 0.30% | ~2 |
 | Last Resort | 0.30% | ~2 |
 | Sink or Swim | 0.30% | ~2 |
-| Liberté | 0.10% | ~1 |
 | Fields of Glory | 0.10% | ~1 |
 | Rigged to Blow | 0.10% | ~1 |
 | Der Geist | 0.10% | ~1 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 657)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 791 (Ranked 171)  
+Progressed: 796 (Ranked 171)  
 Completed: 2 (0.25%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 2 (0.25%) (Ranked 133)
 | 2023-05-16 | 723 | 2 |
 | 2023-05-17 | 728 | 2 |
 | 2023-05-18 | 743 | 2 |
-| 2023-05-19 | 791 | 2 |
+| 2023-05-19 | 796 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

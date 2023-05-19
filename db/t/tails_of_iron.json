@@ -566,9 +566,9 @@
       "ID": "GetTHWeapon",
       "SetID": "9lj35g4",
       "Name": "Two Handed Weapon",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 736
+      "UsersEstimate": 750
     },
     {
       "ID": "Kill25Bugs",
@@ -590,9 +590,9 @@
       "ID": "Kill25Mozi",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Mozis",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 597
+      "UsersEstimate": 611
     },
     {
       "ID": "MeetTheMoles",
@@ -669,8 +669,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-04-02T20:59:05.8070796+00:00",
-  "LastChanged_Achievements": "2023-05-19T15:03:45.8315805+00:00",
+  "LastChanged_Achievements": "2023-05-19T16:03:11.0796534+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:16.6820766+00:00",
-  "LastUpdate_Ratings": "2023-05-19T14:58:36.9809205+00:00",
-  "LastUpdate_Achievements": "2023-05-19T15:03:45.8316031+00:00"
+  "LastUpdate_Ratings": "2023-05-19T15:58:08.7788239+00:00",
+  "LastUpdate_Achievements": "2023-05-19T16:03:11.0796707+00:00"
 }

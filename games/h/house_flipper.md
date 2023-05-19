@@ -6,16 +6,16 @@ Number of Ratings: 1,023  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First money | 94.00% | ~17,666 |
-| Strongman | 31.00% | ~5,826 |
+| First money | 94.00% | ~17,669 |
+| Strongman | 31.00% | ~5,827 |
 | Just Enough | 19.00% | ~3,571 |
 | Alpha Male | 19.00% | ~3,571 |
 | Pro-creative | 18.00% | ~3,383 |
-| Worth Every Penny | 15.00% | ~2,819 |
-| Family man | 12.00% | ~2,255 |
-| Junior Estate Agent | 12.00% | ~2,255 |
-| Mystery | 10.00% | ~1,879 |
-| Artistic soul | 9.00% | ~1,691 |
+| Worth Every Penny | 15.00% | ~2,820 |
+| Family man | 12.00% | ~2,256 |
+| Junior Estate Agent | 12.00% | ~2,256 |
+| Mystery | 10.00% | ~1,880 |
+| Artistic soul | 9.00% | ~1,692 |
 | Estate Agent | 5.00% | ~940 |
 | Millionaire | 5.00% | ~940 |
 | Perfectionist | 5.00% | ~940 |
@@ -30,7 +30,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Nerd | 0.50% | ~94 |
 | Senior Estate Agent | 0.50% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,794 (Ranked 93)  
+Progressed: 18,797 (Ranked 93)  
 Completed: 19 (0.10%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,17 +59,17 @@ Completed: 19 (0.10%) (Ranked 158)
 | 2023-05-16 | 18,748 | 19 |
 | 2023-05-17 | 18,757 | 19 |
 | 2023-05-18 | 18,776 | 19 |
-| 2023-05-19 | 18,794 | 19 |
+| 2023-05-19 | 18,797 | 19 |
 ## Awards
 Max (Great for Beginners): 286  (Ranked 226)  
-Sum: 2,117 (Ranked 178)  
+Sum: 2,118 (Ranked 178)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 286 |
 | This game is Educational | 233 |
 | This game is Extremely Fun | 219 |
-| This game is Relaxing | 216 |
+| This game is Relaxing | 217 |
 | This game has Quickly Understood Controls | 211 |
 | This game is Highly Recommended | 207 |
 | This game has Amazing Storytelling | 204 |
@@ -173,3 +173,4 @@ Diff (max vs sum): 48
 | 2023-05-15 | 4.70 | - | 285 | 2,115 |
 | 2023-05-17 | 4.70 | - | 286 | 2,116 |
 | 2023-05-18 | 4.70 | - | 286 | 2,117 |
+| 2023-05-19 | 4.70 | - | 286 | 2,118 |

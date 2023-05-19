@@ -6,43 +6,43 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,564 |
-| That's a Grand Army | 8.00% | ~3,168 |
-| That is mine! | 8.00% | ~3,168 |
-| Victorious! | 8.00% | ~3,168 |
-| Brothers in Arms | 6.00% | ~2,376 |
-| That's a Grand Navy | 6.00% | ~2,376 |
-| Seriously?! | 6.00% | ~2,376 |
-| For the Glory | 5.00% | ~1,980 |
-| Cold War | 4.00% | ~1,584 |
-| True Catholic | 4.00% | ~1,584 |
-| Defender of the Faith | 3.00% | ~1,188 |
-| It's all about the money | 3.00% | ~1,188 |
-| Respected | 3.00% | ~1,188 |
-| Truly Divine Ruler | 3.00% | ~1,188 |
-| Blockader | 2.00% | ~792 |
-| Combined Arms | 2.00% | ~792 |
-| Double the Love | 2.00% | ~792 |
-| Gentle Persuasion | 2.00% | ~792 |
-| It's all about luck | 2.00% | ~792 |
-| Queen of Conquest | 2.00% | ~792 |
-| Royal Authority | 2.00% | ~792 |
-| The Princess is in this Castle | 2.00% | ~792 |
-| Total Control | 2.00% | ~792 |
-| Agressive Expander | 1.00% | ~396 |
-| All That's Thine Shall Be Mine | 1.00% | ~396 |
-| Azur semé de lis or | 1.00% | ~396 |
-| Bright Spark | 1.00% | ~396 |
-| City of Cities | 1.00% | ~396 |
-| Factionalism | 1.00% | ~396 |
-| A Golden Empire | 1.00% | ~396 |
-| My armies are invincible! | 1.00% | ~396 |
-| The Five Colonies | 0.90% | ~356 |
+| Until death do us apart | 9.00% | ~3,570 |
+| That's a Grand Army | 8.00% | ~3,174 |
+| That is mine! | 8.00% | ~3,174 |
+| Victorious! | 8.00% | ~3,174 |
+| Brothers in Arms | 6.00% | ~2,380 |
+| That's a Grand Navy | 6.00% | ~2,380 |
+| Seriously?! | 6.00% | ~2,380 |
+| For the Glory | 5.00% | ~1,983 |
+| Cold War | 4.00% | ~1,587 |
+| True Catholic | 4.00% | ~1,587 |
+| Defender of the Faith | 3.00% | ~1,190 |
+| It's all about the money | 3.00% | ~1,190 |
+| Respected | 3.00% | ~1,190 |
+| Truly Divine Ruler | 3.00% | ~1,190 |
+| Blockader | 2.00% | ~793 |
+| Combined Arms | 2.00% | ~793 |
+| Double the Love | 2.00% | ~793 |
+| Gentle Persuasion | 2.00% | ~793 |
+| It's all about luck | 2.00% | ~793 |
+| Queen of Conquest | 2.00% | ~793 |
+| Royal Authority | 2.00% | ~793 |
+| The Princess is in this Castle | 2.00% | ~793 |
+| Total Control | 2.00% | ~793 |
+| Agressive Expander | 1.00% | ~397 |
+| All That's Thine Shall Be Mine | 1.00% | ~397 |
+| Azur semé de lis or | 1.00% | ~397 |
+| Bright Spark | 1.00% | ~397 |
+| City of Cities | 1.00% | ~397 |
+| Factionalism | 1.00% | ~397 |
+| A Golden Empire | 1.00% | ~397 |
+| My armies are invincible! | 1.00% | ~397 |
+| The Five Colonies | 0.90% | ~357 |
 | Isn't this the way to India? | 0.80% | ~317 |
 | Market Control | 0.80% | ~317 |
 | This navy can take it all | 0.80% | ~317 |
-| Down Under | 0.70% | ~277 |
-| The Emperors new clothes | 0.70% | ~277 |
+| Down Under | 0.70% | ~278 |
+| The Emperors new clothes | 0.70% | ~278 |
 | Time Bandit | 0.60% | ~238 |
 | Trustworthy | 0.60% | ~238 |
 | All belongs to Mother Russia | 0.50% | ~198 |
@@ -51,16 +51,16 @@ Number of Ratings: 8,414  (23.09.2022)
 | Electable! | 0.50% | ~198 |
 | One Family to Rule them All | 0.50% | ~198 |
 | The pen is mightier than the sword | 0.50% | ~198 |
-| Absolutely | 0.40% | ~158 |
-| Dude, Where's my Boat? | 0.40% | ~158 |
-| In the Name of the Father | 0.40% | ~158 |
-| Live Long and Prosper | 0.40% | ~158 |
-| Populists in Government | 0.40% | ~158 |
-| Ruina Imperii | 0.40% | ~158 |
-| The Continuation of Diplomacy | 0.40% | ~158 |
-| This is My Faith | 0.40% | ~158 |
-| Trophy Hunter | 0.40% | ~158 |
-| Voting Streak | 0.40% | ~158 |
+| Absolutely | 0.40% | ~159 |
+| Dude, Where's my Boat? | 0.40% | ~159 |
+| In the Name of the Father | 0.40% | ~159 |
+| Live Long and Prosper | 0.40% | ~159 |
+| Populists in Government | 0.40% | ~159 |
+| Ruina Imperii | 0.40% | ~159 |
+| The Continuation of Diplomacy | 0.40% | ~159 |
+| This is My Faith | 0.40% | ~159 |
+| Trophy Hunter | 0.40% | ~159 |
+| Voting Streak | 0.40% | ~159 |
 | All Your Trade Are Belong to Us | 0.30% | ~119 |
 | Bleed Them Dry | 0.30% | ~119 |
 | Four For Trade | 0.30% | ~119 |
@@ -138,6 +138,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Definitely the Sultan of Rum | 0.10% | ~40 |
 | Die Please Die | 0.10% | ~40 |
 | Don’t be Cilli | 0.10% | ~40 |
+| Dovmont's Own | 0.10% | ~40 |
 | Dracula's Revenge | 0.10% | ~40 |
 | Emperor of Hindustan | 0.10% | ~40 |
 | Empire of Mann | 0.10% | ~40 |
@@ -309,7 +310,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Core-fu | 0.00% | ~0 |
 | Crossing the Finnish Line | 0.00% | ~0 |
 | Disciples of Enlightenment | 0.00% | ~0 |
-| Dovmont's Own | 0.00% | ~0 |
 | Eat your Greens | 0.00% | ~0 |
 | The Fezzan Corridors | 0.00% | ~0 |
 | First Come, First Serve | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,602 (Ranked 80)  
+Progressed: 39,669 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -390,10 +390,10 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-16 | 38,036 | 0 |
 | 2023-05-17 | 38,614 | 0 |
 | 2023-05-18 | 39,222 | 0 |
-| 2023-05-19 | 39,602 | 0 |
+| 2023-05-19 | 39,669 | 0 |
 ## Awards
 Max (Educational): 5,242  (Ranked 60)  
-Sum: 43,424 (Ranked 27)  
+Sum: 43,440 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -401,7 +401,7 @@ Diff (max vs sum): 33
 | This game is Highly Recommended | 5,036 |
 | This game has Challenging Combat | 5,018 |
 | This game is Extremely Fun | 4,980 |
-| This game has Diverse Characters | 4,931 |
+| This game has Diverse Characters | 4,947 |
 | This game is Relaxing | 4,888 |
 | This game has Competitive Players | 4,714 |
 | This game has Amazing Storytelling | 4,477 |
@@ -532,4 +532,4 @@ Diff (max vs sum): 33
 | 2023-05-16 | 4.68 | - | 5,223 | 43,268 |
 | 2023-05-17 | 4.68 | - | 5,228 | 43,298 |
 | 2023-05-18 | 4.68 | - | 5,232 | 43,381 |
-| 2023-05-19 | 4.68 | - | 5,242 | 43,424 |
+| 2023-05-19 | 4.68 | - | 5,242 | 43,440 |

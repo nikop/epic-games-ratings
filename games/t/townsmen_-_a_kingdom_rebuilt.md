@@ -76,6 +76,7 @@ Number of Ratings: 37  (23.09.2022)
 | I've been everywhere VI | 0.60% | ~25 |
 | Builder V | 0.50% | ~21 |
 | Ten-Hut! | 0.50% | ~21 |
+| Penny pincher | 0.50% | ~21 |
 | The wood shortage | 0.50% | ~21 |
 | Buried | 0.40% | ~17 |
 | Craftsmen challenge | 0.40% | ~17 |
@@ -83,7 +84,6 @@ Number of Ratings: 37  (23.09.2022)
 | Little place in the country | 0.40% | ~17 |
 | Made my choice | 0.40% | ~17 |
 | An honorable departure | 0.40% | ~17 |
-| Penny pincher | 0.40% | ~17 |
 | I've been everywhere VII | 0.40% | ~17 |
 | Impregnable | 0.40% | ~17 |
 | To serve and protect | 0.40% | ~17 |

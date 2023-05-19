@@ -13,10 +13,10 @@ Rating: 4.55 (Ranked 467)
 | Space Society | 2.00% | ~39 |
 | A Thousand Strong | 2.00% | ~39 |
 | Ready for a New World | 2.00% | ~39 |
+| Breaking Protocol | 2.00% | ~39 |
+| Permanent Redesigns | 2.00% | ~39 |
 | A Hunk of Junk | 1.00% | ~20 |
 | Fully Recycled | 1.00% | ~20 |
-| Breaking Protocol | 1.00% | ~20 |
-| Permanent Redesigns | 1.00% | ~20 |
 | Ain't Nobody Got Time for That | 1.00% | ~20 |
 | The Ship of Theseus | 1.00% | ~20 |
 | Hope Seeker | 1.00% | ~20 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 467)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,952 (Ranked 146)  
+Progressed: 1,953 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-16 | 1,908 | 0 |
 | 2023-05-17 | 1,911 | 0 |
 | 2023-05-18 | 1,926 | 0 |
-| 2023-05-19 | 1,952 | 0 |
+| 2023-05-19 | 1,953 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

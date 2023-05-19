@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 769,
+  "EOS_Progressed": 770,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -312,6 +312,11 @@
     {
       "Time": "2023-05-19T15:05:55.8854422+00:00",
       "NumProgressed": 769,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T16:05:08.328759+00:00",
+      "NumProgressed": 770,
       "NumCompleted": 0
     }
   ],
@@ -586,7 +591,7 @@
       "ID": "UNLOCK_RULERS_BASEGAME",
       "SetID": "6ohhfoc",
       "Name": "The Council",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -683,7 +688,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 769,
+      "Progressed": 770,
       "Completed": 0
     }
   ],
@@ -691,8 +696,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-03-31T05:57:30.891724+00:00",
-  "LastChanged_Achievements": "2023-05-19T15:05:55.8854417+00:00",
+  "LastChanged_Achievements": "2023-05-19T16:05:08.3287586+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:37.8578956+00:00",
-  "LastUpdate_Ratings": "2023-05-19T14:57:55.181015+00:00",
-  "LastUpdate_Achievements": "2023-05-19T15:05:55.8854802+00:00"
+  "LastUpdate_Ratings": "2023-05-19T15:57:36.1345469+00:00",
+  "LastUpdate_Achievements": "2023-05-19T16:05:08.3287882+00:00"
 }

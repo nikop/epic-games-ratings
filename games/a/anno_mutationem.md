@@ -5,16 +5,16 @@ Rating: 4.55 (Ranked 467)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tell me your story | 75.00% | ~454 |
+| Tell me your story | 75.00% | ~455 |
 | Don't judge a manhole by its cover | 60.00% | ~364 |
-| I just love stuff! | 40.00% | ~242 |
-| Keep 'em coming! | 39.00% | ~236 |
-| Big Spender | 37.00% | ~224 |
-| The things they print nowadays | 36.00% | ~218 |
+| I just love stuff! | 40.00% | ~243 |
+| Keep 'em coming! | 39.00% | ~237 |
+| Big Spender | 37.00% | ~225 |
+| The things they print nowadays | 36.00% | ~219 |
 | That's gotta hurt | 34.00% | ~206 |
 | I think it's broke | 25.00% | ~152 |
 | The Ann Flores Combo Experience | 25.00% | ~152 |
-| Club Star | 23.00% | ~139 |
+| Club Star | 23.00% | ~140 |
 | Fire in the hole! | 19.00% | ~115 |
 | Omnipotence | 19.00% | ~115 |
 | The Warlord | 19.00% | ~115 |
@@ -24,9 +24,9 @@ Rating: 4.55 (Ranked 467)
 | Annakin Skyscroller | 12.00% | ~73 |
 | Arm Wrestlin' | 10.00% | ~61 |
 | In the smacker...I think | 10.00% | ~61 |
-| 1+1>2 | 8.00% | ~48 |
-| This can't be right… | 8.00% | ~48 |
-| Welcome home, 06 | 8.00% | ~48 |
+| 1+1>2 | 8.00% | ~49 |
+| This can't be right… | 8.00% | ~49 |
+| Welcome home, 06 | 8.00% | ~49 |
 | I'm walking here! | 7.00% | ~42 |
 | So Fresh and So clean clean | 7.00% | ~42 |
 | Supreme Bartender Ann | 7.00% | ~42 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 467)
 | Love me like I love my posters | 0.80% | ~5 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 606 (Ranked 185)  
+Progressed: 607 (Ranked 185)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,6 +60,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-13 | 604 | 0 |
 | 2023-05-15 | 605 | 0 |
 | 2023-05-18 | 606 | 0 |
+| 2023-05-19 | 607 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

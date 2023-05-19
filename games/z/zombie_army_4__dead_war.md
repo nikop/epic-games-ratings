@@ -1,31 +1,31 @@
 # Zombie Army 4: Dead War
 [Store](https://store.epicgames.com/en-US/p/zombie-army-4-dead-war)  
 [View Rawdata](../../db/z/zombie_army_4__dead_war.json)  
-Rating: 4.69 (Ranked 213)  
+Rating: 4.69 (Ranked 214)  
 Number of Ratings: 743  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 68.00% | ~28,767 |
-| Say goodbye, creep! | 65.00% | ~27,498 |
-| Blood splattered | 65.00% | ~27,498 |
-| Choo choo! | 62.00% | ~26,229 |
-| Groovy | 61.00% | ~25,806 |
-| Cleanup on aisle 4! | 56.00% | ~23,691 |
-| Gold | 50.00% | ~21,152 |
-| The boat can leave now...tell the crew | 48.00% | ~20,306 |
-| Give me something to shoot! | 46.00% | ~19,460 |
-| Stand back boy! | 46.00% | ~19,460 |
-| Weird science | 44.00% | ~18,614 |
-| Chain reaction | 44.00% | ~18,614 |
-| Look mummy! A shark! | 41.00% | ~17,345 |
-| What did you say, Blain? | 41.00% | ~17,345 |
-| In the dark dark woods... | 38.00% | ~16,076 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,076 |
-| Double tap | 36.00% | ~15,230 |
-| Cranial blowout! | 36.00% | ~15,230 |
-| Zombie killin' machine | 36.00% | ~15,230 |
-| Every bullet counts | 36.00% | ~15,230 |
+| Shoot it, man! Shoot it in the head! | 68.00% | ~28,769 |
+| Say goodbye, creep! | 65.00% | ~27,500 |
+| Blood splattered | 65.00% | ~27,500 |
+| Choo choo! | 62.00% | ~26,230 |
+| Groovy | 61.00% | ~25,807 |
+| Cleanup on aisle 4! | 56.00% | ~23,692 |
+| Gold | 50.00% | ~21,154 |
+| The boat can leave now...tell the crew | 48.00% | ~20,307 |
+| Give me something to shoot! | 46.00% | ~19,461 |
+| Stand back boy! | 46.00% | ~19,461 |
+| Weird science | 44.00% | ~18,615 |
+| Chain reaction | 44.00% | ~18,615 |
+| Look mummy! A shark! | 41.00% | ~17,346 |
+| What did you say, Blain? | 41.00% | ~17,346 |
+| In the dark dark woods... | 38.00% | ~16,077 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,077 |
+| Double tap | 36.00% | ~15,231 |
+| Cranial blowout! | 36.00% | ~15,231 |
+| Zombie killin' machine | 36.00% | ~15,231 |
+| Every bullet counts | 36.00% | ~15,231 |
 | All of this has happened before… | 35.00% | ~14,807 |
 | You've got red on you | 34.00% | ~14,384 |
 | All roads lead to Rome | 33.00% | ~13,961 |
@@ -33,11 +33,11 @@ Number of Ratings: 743  (23.09.2022)
 | He did Nazi that coming | 31.00% | ~13,115 |
 | Kill of the week | 31.00% | ~13,115 |
 | I never liked them anyway | 30.00% | ~12,692 |
-| Is it over? | 28.00% | ~11,845 |
-| Got your back | 27.00% | ~11,422 |
-| Gore soaked | 24.00% | ~10,153 |
-| Shock therapy | 22.00% | ~9,307 |
-| Leave the limbs you've lost | 22.00% | ~9,307 |
+| Is it over? | 28.00% | ~11,846 |
+| Got your back | 27.00% | ~11,423 |
+| Gore soaked | 24.00% | ~10,154 |
+| Shock therapy | 22.00% | ~9,308 |
+| Leave the limbs you've lost | 22.00% | ~9,308 |
 | Everyone's a mad scientist, life is the lab | 18.00% | ~7,615 |
 | Take them down screaming | 18.00% | ~7,615 |
 | Weapons expert | 17.00% | ~7,192 |
@@ -46,9 +46,9 @@ Number of Ratings: 743  (23.09.2022)
 | I'm going deeper underground | 14.00% | ~5,923 |
 | Well equipped | 12.00% | ~5,077 |
 | Into the deep | 12.00% | ~5,077 |
-| Damnedbusters | 9.00% | ~3,807 |
-| I can do anything I want. I got guns | 8.00% | ~3,384 |
-| Send me an angel | 8.00% | ~3,384 |
+| Damnedbusters | 9.00% | ~3,808 |
+| I can do anything I want. I got guns | 8.00% | ~3,385 |
+| Send me an angel | 8.00% | ~3,385 |
 | Plane sailing | 7.00% | ~2,961 |
 | This is no Sunday School picnic! | 7.00% | ~2,961 |
 | I never redoubted you! | 7.00% | ~2,961 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~423 |
 | None more hard | 0.50% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,305 (Ranked 79)  
+Progressed: 42,307 (Ranked 79)  
 Completed: 24 (0.06%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,15 +102,15 @@ Completed: 24 (0.06%) (Ranked 170)
 | 2023-05-16 | 42,282 | 24 |
 | 2023-05-17 | 42,284 | 24 |
 | 2023-05-18 | 42,292 | 24 |
-| 2023-05-19 | 42,305 | 24 |
+| 2023-05-19 | 42,307 | 24 |
 ## Awards
-Max (Great Boss Battles): 773  (Ranked 146)  
-Sum: 2,366 (Ranked 169)  
+Max (Great Boss Battles): 774  (Ranked 146)  
+Sum: 2,368 (Ranked 169)  
 Diff (max vs sum): -23  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 773 |
-| This game is Great for Beginners | 239 |
+| This game has Great Boss Battles | 774 |
+| This game is Great for Beginners | 240 |
 | This game has Amazing Storytelling | 204 |
 | This game is Extremely Fun | 203 |
 | This game is Highly Recommended | 202 |
@@ -236,4 +236,4 @@ Diff (max vs sum): -23
 | 2023-05-14 | 4.69 | - | 773 | 2,362 |
 | 2023-05-15 | 4.69 | - | 773 | 2,363 |
 | 2023-05-17 | 4.69 | - | 773 | 2,365 |
-| 2023-05-19 | 4.69 | - | 773 | 2,366 |
+| 2023-05-19 | 4.69 | - | 774 | 2,368 |

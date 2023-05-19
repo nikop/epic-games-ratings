@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38099,
+  "EOS_Progressed": 38101,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2101,6 +2101,11 @@
       "Time": "2023-05-19T15:06:16.2362657+00:00",
       "NumProgressed": 38099,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-19T16:05:26.2496763+00:00",
+      "NumProgressed": 38101,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2248,7 +2253,7 @@
       "Name": "Awakening",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "CRAFT_ALL",
@@ -2320,7 +2325,7 @@
       "Name": "Explorer: Trailblazer",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "LOCATION_TEN",
@@ -2535,22 +2540,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 38099,
+      "Progressed": 38101,
       "Completed": 1
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 2936,
-      "Completed": 2936
+      "Progressed": 2938,
+      "Completed": 2938
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-19T13:58:09.5173669+00:00",
-  "LastChanged_Achievements": "2023-05-19T15:06:16.2362652+00:00",
+  "LastChanged_Achievements": "2023-05-19T16:05:26.2496759+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:28.6848971+00:00",
-  "LastUpdate_Ratings": "2023-05-19T14:58:48.2155463+00:00",
-  "LastUpdate_Achievements": "2023-05-19T15:06:16.2363151+00:00"
+  "LastUpdate_Ratings": "2023-05-19T15:58:18.4028465+00:00",
+  "LastUpdate_Achievements": "2023-05-19T16:05:26.2497217+00:00"
 }

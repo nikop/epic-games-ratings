@@ -8,7 +8,7 @@
 | Caretaker | 81.00% | ~92 |
 | Feng Shui | 72.00% | ~81 |
 | Who's A Good Boy | 68.00% | ~77 |
-| Power Up | 66.00% | ~75 |
+| Power Up | 67.00% | ~76 |
 | Thick Skin | 65.00% | ~73 |
 | Math Wizard | 61.00% | ~69 |
 | Power Overload | 61.00% | ~69 |

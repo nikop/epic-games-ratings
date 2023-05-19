@@ -6,25 +6,25 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 50.00% | ~990 |
+| You're free now! | 50.00% | ~991 |
 | Keeping it classy | 26.00% | ~515 |
-| Welcome to the family | 18.00% | ~356 |
+| Welcome to the family | 18.00% | ~357 |
 | The finer things in life | 17.00% | ~337 |
 | Backpacker | 12.00% | ~238 |
 | Go with the Flow | 12.00% | ~238 |
 | Plastic Surgeon | 9.00% | ~178 |
 | The flip trick crown jewel | 9.00% | ~178 |
-| Keep the dream alive | 8.00% | ~158 |
-| The hard way | 8.00% | ~158 |
-| Upfront shredder | 8.00% | ~158 |
+| Keep the dream alive | 8.00% | ~159 |
+| The hard way | 8.00% | ~159 |
+| Upfront shredder | 8.00% | ~159 |
 | Good vibes | 7.00% | ~139 |
 | Fashionista | 6.00% | ~119 |
 | Finally he zips it | 6.00% | ~119 |
-| G'Day Mate! | 6.00% | ~119 |
 | That pinch! | 6.00% | ~119 |
 | Tight lipslides | 6.00% | ~119 |
 | Bottom ply killer | 5.00% | ~99 |
 | Fulfilled the dream | 5.00% | ~99 |
+| G'Day Mate! | 5.00% | ~99 |
 | Globetrotter | 5.00% | ~99 |
 | NAHELL! | 5.00% | ~99 |
 | Purple passion | 5.00% | ~99 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,980 (Ranked 145)  
+Progressed: 1,982 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-16 | 1,958 | 0 |
 | 2023-05-17 | 1,962 | 0 |
 | 2023-05-18 | 1,968 | 0 |
-| 2023-05-19 | 1,980 | 0 |
+| 2023-05-19 | 1,982 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 393)  
 Sum: 414 (Ranked 300)  

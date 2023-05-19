@@ -14,11 +14,13 @@ Number of Ratings: 1,003  (23.09.2022)
 | Chapter III: The Man Who Sold the World | 0.10% | ~458 |
 | Chapter IV: Through the Looking Glass | 0.10% | ~458 |
 | Emperor of Misery | 0.10% | ~458 |
+| A Frozen Lady | 0.10% | ~458 |
 | The Shutdown | 0.10% | ~458 |
 | Kill the Doctor | 0.10% | ~458 |
 | Forsaken | 0.10% | ~458 |
 | Through the mirror | 0.10% | ~458 |
 | Mother | 0.10% | ~458 |
+| The Survivalists | 0.10% | ~458 |
 | Tetsuo | 0.10% | ~458 |
 | General Vivar | 0.10% | ~458 |
 | Pope Zenon | 0.10% | ~458 |
@@ -26,6 +28,8 @@ Number of Ratings: 1,003  (23.09.2022)
 | Second Coming | 0.10% | ~458 |
 | Back to Ganyma | 0.10% | ~458 |
 | The Impersonator | 0.10% | ~458 |
+| The Kid | 0.10% | ~458 |
+| The Evangelist | 0.10% | ~458 |
 | The Inquisitor | 0.10% | ~458 |
 | The Tech Specialist | 0.10% | ~458 |
 | The Ace Pilot | 0.10% | ~458 |
@@ -48,13 +52,9 @@ Number of Ratings: 1,003  (23.09.2022)
 | Hand of the Emperor | 0.10% | ~2 |
 | Chapter V: Memories of None | 0.00% | ~0 |
 | A Rock in the Dark | 0.00% | ~0 |
-| A Frozen Lady | 0.00% | ~0 |
 | Meet your maker | 0.00% | ~0 |
 | Admiral Okonkwo | 0.00% | ~0 |
-| The Survivalists | 0.00% | ~0 |
 | Mercy | 0.00% | ~0 |
-| The Kid | 0.00% | ~0 |
-| The Evangelist | 0.00% | ~0 |
 | The Mech Soldier | 0.00% | ~0 |
 | The Crazy Repairman | 0.00% | ~0 |
 | The Weasel | 0.00% | ~0 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.00% | ~0 |
 | Kronos Rule | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458,442 (Ranked 29)  
+Progressed: 458,449 (Ranked 29)  
 Completed: 14 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 14 (0.00%) (Ranked 201)
 | 2023-05-16 | 458,171 | 14 |
 | 2023-05-17 | 458,267 | 14 |
 | 2023-05-18 | 458,375 | 14 |
-| 2023-05-19 | 458,442 | 14 |
+| 2023-05-19 | 458,449 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 209 (Ranked 349)  

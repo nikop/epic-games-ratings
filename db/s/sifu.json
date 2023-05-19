@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 77,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4012,18 +4012,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 10328,
       "NumberOfAwardsMax": 6074
+    },
+    {
+      "Time": "2023-05-19T15:58:42.3717972+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10332,
+      "NumberOfAwardsMax": 6075
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10328,
-  "NumberOfAwardsMax": 6074,
+  "NumberOfAwards": 10332,
+  "NumberOfAwardsMax": 6075,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6074
+      "Count": 6075
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4065,7 +4071,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 507
+      "Count": 510
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -4092,9 +4098,9 @@
       "Count": 347
     }
   ],
-  "EOS_Progressed": 703455,
+  "EOS_Progressed": 703489,
   "EOS_Completed": 12731,
-  "EOS_NewPlayers": 612,
+  "EOS_NewPlayers": 645,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -6337,6 +6343,11 @@
       "Time": "2023-05-19T15:06:21.5989584+00:00",
       "NumProgressed": 703455,
       "NumCompleted": 12731
+    },
+    {
+      "Time": "2023-05-19T16:05:30.7033137+00:00",
+      "NumProgressed": 703489,
+      "NumCompleted": 12731
     }
   ],
   "TotalAchievements": 50,
@@ -6684,7 +6695,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -6692,7 +6703,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 510
+      "UsersEstimate": 512
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -6747,21 +6758,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 12756,
-      "Completed": 10122
+      "Progressed": 12790,
+      "Completed": 10123
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 703455,
+      "Progressed": 703489,
       "Completed": 12731
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-05-19T10:59:37.5128587+00:00",
-  "LastChanged_Achievements": "2023-05-19T15:06:21.5989573+00:00",
+  "LastChanged": "2023-05-19T15:58:42.371797+00:00",
+  "LastChanged_Achievements": "2023-05-19T16:05:30.7033128+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:53.7388155+00:00",
-  "LastUpdate_Ratings": "2023-05-19T14:59:19.4138781+00:00",
-  "LastUpdate_Achievements": "2023-05-19T15:06:21.5990137+00:00"
+  "LastUpdate_Ratings": "2023-05-19T15:58:42.3717975+00:00",
+  "LastUpdate_Achievements": "2023-05-19T16:05:30.703358+00:00"
 }

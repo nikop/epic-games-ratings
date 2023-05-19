@@ -6,8 +6,8 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~510 |
-| Project Arena | 3.00% | ~383 |
+| Diligence as a goal | 4.00% | ~512 |
+| Project Arena | 3.00% | ~384 |
 | Bloody Sport | 1.00% | ~128 |
 | Qi Gong: Breath | 0.90% | ~6,331 |
 | The best strikes are the ones we avoid | 0.90% | ~115 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~703 |
 | Warriors from the Mountain | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703,455 (Ranked 15)  
+Progressed: 703,489 (Ranked 15)  
 Completed: 12,731 (1.81%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,16 +86,16 @@ Completed: 12,731 (1.81%) (Ranked 64)
 | 2023-05-16 | 702,986 | 12,728 |
 | 2023-05-17 | 703,009 | 12,730 |
 | 2023-05-18 | 703,070 | 12,731 |
-| 2023-05-19 | 703,455 | 12,731 |
+| 2023-05-19 | 703,489 | 12,731 |
 ## Awards
-Max (Great Boss Battles): 6,074  (Ranked 53)  
-Sum: 10,328 (Ranked 77)  
+Max (Great Boss Battles): 6,075  (Ranked 53)  
+Sum: 10,332 (Ranked 77)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,074 |
+| This game has Great Boss Battles | 6,075 |
 | This game has Diverse Characters | 511 |
-| This game has Challenging Combat | 507 |
+| This game has Challenging Combat | 510 |
 | This game has Quickly Understood Controls | 499 |
 | This game is Extremely Fun | 497 |
 | This game has Amazing Storytelling | 490 |
@@ -231,4 +231,4 @@ Diff (max vs sum): -24
 | 2023-05-16 | 4.82 | - | 6,071 | 10,316 |
 | 2023-05-17 | 4.82 | - | 6,074 | 10,322 |
 | 2023-05-18 | 4.82 | - | 6,074 | 10,327 |
-| 2023-05-19 | 4.82 | - | 6,074 | 10,328 |
+| 2023-05-19 | 4.82 | - | 6,075 | 10,332 |

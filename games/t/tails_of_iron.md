@@ -10,13 +10,13 @@ Rating: 4.50 (Ranked 534)
 | Ranged Weapon | 59.00% | ~820 |
 | Defeat 25 Frogs | 59.00% | ~820 |
 | Collect Monster Parts | 55.00% | ~764 |
-| Two Handed Weapon | 53.00% | ~736 |
+| Two Handed Weapon | 54.00% | ~750 |
 | Defeat 25 Grubs | 50.00% | ~694 |
 | Rescue Redgi's Brothers | 49.00% | ~681 |
 | Collect Iron Ore | 45.00% | ~625 |
+| Defeat 25 Mozis | 44.00% | ~611 |
 | Kitchen Ready To Cook | 44.00% | ~611 |
 | Collect Gold | 43.00% | ~597 |
-| Defeat 25 Mozis | 43.00% | ~597 |
 | Smithy Ready to Craft | 43.00% | ~597 |
 | Fix the Travellers Wagon | 41.00% | ~569 |
 | Complete Elder Faction | 38.00% | ~528 |

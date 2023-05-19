@@ -538,9 +538,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 458442,
+  "EOS_Progressed": 458449,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 670,
+  "EOS_NewPlayers": 674,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3148,6 +3148,11 @@
       "Time": "2023-05-19T15:06:23.7962954+00:00",
       "NumProgressed": 458442,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-19T16:05:32.5714848+00:00",
+      "NumProgressed": 458449,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 79,
@@ -3237,9 +3242,9 @@
       "ID": "achievement_story_ending_rebecca",
       "SetID": "8cokdon",
       "Name": "A Frozen Lady",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_story_event_bowie_ended",
@@ -3301,9 +3306,9 @@
       "ID": "achievement_story_meet_survivalists",
       "SetID": "8cokdon",
       "Name": "The Survivalists",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_story_meet_tetsuo",
@@ -3373,17 +3378,17 @@
       "ID": "achievement_unlock_officer_as_2",
       "SetID": "8cokdon",
       "Name": "The Kid",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_unlock_officer_church_1",
       "SetID": "8cokdon",
       "Name": "The Evangelist",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_unlock_officer_church_2",
@@ -3790,21 +3795,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 2376,
+      "Progressed": 2383,
       "Completed": 2346
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 458442,
+      "Progressed": 458449,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-19T15:06:23.7962949+00:00",
+  "LastChanged_Achievements": "2023-05-19T16:05:32.5714844+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:09.480967+00:00",
-  "LastUpdate_Ratings": "2023-05-19T14:59:33.6066649+00:00",
-  "LastUpdate_Achievements": "2023-05-19T15:06:23.7963982+00:00"
+  "LastUpdate_Ratings": "2023-05-19T15:58:53.7416598+00:00",
+  "LastUpdate_Achievements": "2023-05-19T16:05:32.571562+00:00"
 }

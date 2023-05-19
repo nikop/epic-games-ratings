@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 457,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -268,9 +268,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 865,
+  "EOS_Progressed": 866,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.27,
   "EosHistory": [
@@ -458,6 +458,11 @@
       "Time": "2023-05-18T20:07:26.4739291+00:00",
       "NumProgressed": 865,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-19T16:05:40.1761244+00:00",
+      "NumProgressed": 866,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 43,
@@ -469,7 +474,7 @@
       "Name": "Demigod",
       "Percentage": 77,
       "XP": 150,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "DieInPermadeath",
@@ -485,7 +490,7 @@
       "Name": "Voices from the Past",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "Finish5SideMissions",
@@ -493,7 +498,7 @@
       "Name": "Helping Hand",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "FinishAllSideMissions",
@@ -509,7 +514,7 @@
       "Name": "Controlled Demolition",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "Kill3InOneDrift",
@@ -525,7 +530,7 @@
       "Name": "Born to Drift",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "KillWithALargeShip",
@@ -533,7 +538,7 @@
       "Name": "The Great Destroyer",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "MasteryOfCombat",
@@ -541,7 +546,7 @@
       "Name": "Mastery of Combat",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "MasteryOfRites",
@@ -565,15 +570,15 @@
       "Name": "The Crimson Void",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "MissionAmaranthPart2",
       "SetID": "a6c395p",
       "Name": "Retaliate",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 190
+      "UsersEstimate": 182
     },
     {
       "ID": "MissionAncientRitual",
@@ -597,7 +602,7 @@
       "Name": "Payback",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "MissionDreamsOfThePast",
@@ -621,7 +626,7 @@
       "Name": "Set in Motion",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "MissionFirstRiftBoss",
@@ -645,7 +650,7 @@
       "Name": "Cult Slayer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "MissionLiberateEnclave",
@@ -653,7 +658,7 @@
       "Name": "Safe Home",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -669,7 +674,7 @@
       "Name": "Old Days Born Anew",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "MissionPhoenixRediscovery",
@@ -685,7 +690,7 @@
       "Name": "Shields Down",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "MissionScavengingJob",
@@ -693,7 +698,7 @@
       "Name": "Another Life",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "MissionShipyard",
@@ -717,7 +722,7 @@
       "Name": "Disruption",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "MissionTheArmadaStrikes",
@@ -725,7 +730,7 @@
       "Name": "Ascension",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "MissionTheiaStep1",
@@ -741,7 +746,7 @@
       "Name": "Overcharged",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "RadiationCloud",
@@ -749,7 +754,7 @@
       "Name": "Radiation Area",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "RiteOfControl",
@@ -765,7 +770,7 @@
       "Name": "Huntress",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "RiteOfTheStar",
@@ -789,15 +794,15 @@
       "Name": "Phoenix",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "VisitAllLocations",
       "SetID": "a6c395p",
       "Name": "Space Traveler",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 692
+      "UsersEstimate": 684
     },
     {
       "ID": "WinARace",
@@ -812,15 +817,15 @@
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 865,
+      "Progressed": 866,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-05-19T15:06:32.0451732+00:00",
+  "LastChanged_Achievements": "2023-05-19T16:05:40.176124+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:53.1050523+00:00",
-  "LastUpdate_Ratings": "2023-05-19T15:00:19.232783+00:00",
-  "LastUpdate_Achievements": "2023-05-19T15:06:32.0452068+00:00"
+  "LastUpdate_Ratings": "2023-05-19T15:59:32.6110952+00:00",
+  "LastUpdate_Achievements": "2023-05-19T16:05:40.1761505+00:00"
 }
