@@ -5,28 +5,28 @@ Rating: 4.69 (Ranked 214)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~3,759 |
-| Tomorrow Never Dyes | 48.00% | ~2,819 |
-| Mainframe Hacker | 44.00% | ~2,584 |
-| The Spy who eliminated me | 44.00% | ~2,584 |
-| Never Say Loser Again | 42.00% | ~2,467 |
-| For your Eyes only | 39.00% | ~2,290 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~3,760 |
+| Tomorrow Never Dyes | 48.00% | ~2,820 |
+| Mainframe Hacker | 44.00% | ~2,585 |
+| The Spy who eliminated me | 44.00% | ~2,585 |
+| Never Say Loser Again | 42.00% | ~2,468 |
+| For your Eyes only | 39.00% | ~2,291 |
 | Tailor-Made | 38.00% | ~2,232 |
-| Fully Decked Out | 37.00% | ~2,173 |
-| From the Vault with Love | 36.00% | ~2,114 |
+| Fully Decked Out | 37.00% | ~2,174 |
+| From the Vault with Love | 36.00% | ~2,115 |
 | You Only Live Twice | 30.00% | ~1,762 |
-| A view to Win | 29.00% | ~1,703 |
-| Private Collection | 26.00% | ~1,527 |
-| Smells Like Trouble | 26.00% | ~1,527 |
-| Assistant Accountant | 25.00% | ~1,468 |
-| In It to Win It | 25.00% | ~1,468 |
-| The Living Portrait | 25.00% | ~1,468 |
-| Killer Looks | 25.00% | ~1,468 |
-| Hostile Takeover | 25.00% | ~1,468 |
+| A view to Win | 29.00% | ~1,704 |
+| Private Collection | 26.00% | ~1,528 |
+| Smells Like Trouble | 26.00% | ~1,528 |
+| Assistant Accountant | 25.00% | ~1,469 |
+| In It to Win It | 25.00% | ~1,469 |
+| The Living Portrait | 25.00% | ~1,469 |
+| Killer Looks | 25.00% | ~1,469 |
+| Hostile Takeover | 25.00% | ~1,469 |
 | Keycards Royale | 24.00% | ~1,410 |
 | Dr. No Kill | 24.00% | ~1,410 |
 | My Motto, My Creed | 24.00% | ~1,410 |
-| Security Supervisor | 10.00% | ~587 |
+| Security Supervisor | 10.00% | ~588 |
 | License to Thrill | 8.00% | ~470 |
 | Social of Solace | 8.00% | ~470 |
 | Safe Withdrawal | 6.00% | ~352 |
@@ -34,15 +34,15 @@ Rating: 4.69 (Ranked 214)
 | Call Me Maybe | 5.00% | ~294 |
 | PHD in VIP | 4.00% | ~235 |
 | Branch Manager | 3.00% | ~176 |
-| The terminals are not enough | 2.00% | ~117 |
-| Lose Another Day | 2.00% | ~117 |
-| Chairman of Deceive Inc. | 2.00% | ~117 |
+| The terminals are not enough | 2.00% | ~118 |
+| Lose Another Day | 2.00% | ~118 |
+| Chairman of Deceive Inc. | 2.00% | ~118 |
 | Chief Information Officer | 1.00% | ~59 |
 | Masteries Are Forever | 0.80% | ~47 |
 | Extraction Confusion | 0.30% | ~18 |
 | Spyfall | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,873 (Ranked 116)  
+Progressed: 5,875 (Ranked 116)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-16 | 5,747 | 0 |
 | 2023-05-17 | 5,800 | 0 |
 | 2023-05-18 | 5,852 | 0 |
-| 2023-05-19 | 5,873 | 0 |
+| 2023-05-19 | 5,875 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

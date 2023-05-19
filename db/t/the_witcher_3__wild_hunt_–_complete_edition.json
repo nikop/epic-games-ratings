@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2020-05-14T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -5309,10 +5309,16 @@
       "Rating": 4.89,
       "NumberOfAwards": 37039,
       "NumberOfAwardsMax": 15243
+    },
+    {
+      "Time": "2023-05-19T16:58:49.3388507+00:00",
+      "Rating": 4.89,
+      "NumberOfAwards": 37058,
+      "NumberOfAwardsMax": 15243
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 37039,
+  "NumberOfAwards": 37058,
   "NumberOfAwardsMax": 15243,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5344,7 +5350,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 2346
+      "Count": 2354
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5362,7 +5368,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2354
+      "Count": 2361
     },
     {
       "Text": "This game is Educational",
@@ -5386,7 +5392,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1370
+      "Count": 1374
     }
   ],
   "EOS_Progressed": 0,
@@ -5400,8 +5406,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:37.9019948+00:00",
-  "LastChanged": "2023-05-19T14:59:36.4565356+00:00",
+  "LastChanged": "2023-05-19T16:58:49.3388505+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:13.1441152+00:00",
-  "LastUpdate_Ratings": "2023-05-19T15:58:56.2258315+00:00",
-  "LastUpdate_Achievements": "2023-05-19T16:04:17.7210218+00:00"
+  "LastUpdate_Ratings": "2023-05-19T16:58:49.3388511+00:00",
+  "LastUpdate_Achievements": "2023-05-19T17:04:17.3874493+00:00"
 }

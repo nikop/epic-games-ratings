@@ -1,33 +1,33 @@
 # Absolute Drift
 [Store](https://store.epicgames.com/en-US/p/absolute-drift)  
 [View Rawdata](../../db/a/absolute_drift.json)  
-Rating: 4.41 (Ranked 656)  
+Rating: 4.41 (Ranked 657)  
 Number of Ratings: 216  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Midnight Drifter | 10.00% | ~151,724 |
-| Good Skills | 9.00% | ~136,551 |
-| Multiplier Master | 8.00% | ~121,379 |
-| Maverick | 7.00% | ~106,207 |
-| The Long Drift | 5.00% | ~75,862 |
-| Drift Line Apprentice | 3.00% | ~45,517 |
-| Mad Skills | 3.00% | ~45,517 |
+| Midnight Drifter | 10.00% | ~151,725 |
+| Good Skills | 9.00% | ~136,553 |
+| Multiplier Master | 8.00% | ~121,380 |
+| Maverick | 7.00% | ~106,208 |
+| The Long Drift | 5.00% | ~75,863 |
+| Drift Line Apprentice | 3.00% | ~45,518 |
+| Mad Skills | 3.00% | ~45,518 |
 | Bring the Cubic Ruckus | 2.00% | ~30,345 |
 | Jelly Donuts | 2.00% | ~30,345 |
 | Master Drifter | 2.00% | ~30,345 |
-| Hoon Airlines | 1.00% | ~15,172 |
-| Midnight Master | 1.00% | ~15,172 |
-| Spin Doctor | 1.00% | ~15,172 |
+| Hoon Airlines | 1.00% | ~15,173 |
+| Midnight Master | 1.00% | ~15,173 |
+| Spin Doctor | 1.00% | ~15,173 |
 | Sake Bombs | 0.80% | ~12,138 |
 | Insane Skills | 0.70% | ~10,621 |
-| Drift Line Master | 0.60% | ~9,103 |
+| Drift Line Master | 0.60% | ~9,104 |
 | Bacon Donuts | 0.50% | ~7,586 |
 | Double Rainbow | 0.50% | ~7,586 |
 | Washing Machine | 0.30% | ~4,552 |
 | The Completionist | 0.10% | ~1,517 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,517,238 (Ranked 6)  
+Progressed: 1,517,252 (Ranked 6)  
 Completed: 607 (0.04%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,7 +56,7 @@ Completed: 607 (0.04%) (Ranked 178)
 | 2023-05-16 | 1,516,727 | 604 |
 | 2023-05-17 | 1,516,886 | 606 |
 | 2023-05-18 | 1,517,078 | 607 |
-| 2023-05-19 | 1,517,238 | 607 |
+| 2023-05-19 | 1,517,252 | 607 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

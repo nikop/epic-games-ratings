@@ -6,19 +6,19 @@ Number of Ratings: 425  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everybody Gets One | 97.00% | ~26,616 |
-| Gone Home | 93.00% | ~25,518 |
-| Wonderfalls | 87.00% | ~23,872 |
-| Got to Catch a Few | 77.00% | ~21,128 |
-| Double Trapper | 75.00% | ~20,579 |
-| I'm Stuffed | 69.00% | ~18,933 |
+| Everybody Gets One | 97.00% | ~26,617 |
+| Gone Home | 93.00% | ~25,519 |
+| Wonderfalls | 87.00% | ~23,873 |
+| Got to Catch a Few | 77.00% | ~21,129 |
+| Double Trapper | 75.00% | ~20,580 |
+| I'm Stuffed | 69.00% | ~18,934 |
 | Got to Catch a Lot | 66.00% | ~18,110 |
 | Talkin' 'Bout Bugsnax | 61.00% | ~16,738 |
-| Know Thy Neighbor | 59.00% | ~16,189 |
+| Know Thy Neighbor | 59.00% | ~16,190 |
 | In the Arms of the Gramble | 58.00% | ~15,915 |
 | Launch Party | 56.00% | ~15,366 |
 | Perf Dirt | 56.00% | ~15,366 |
-| Vacation's End | 52.00% | ~14,268 |
+| Vacation's End | 52.00% | ~14,269 |
 | Bossy Bugs | 46.00% | ~12,622 |
 | Survivor | 45.00% | ~12,348 |
 | That Reminds Me of a Puzzle | 43.00% | ~11,799 |
@@ -27,7 +27,7 @@ Number of Ratings: 425  (23.09.2022)
 | Combo Meal | 38.00% | ~10,427 |
 | Midnight Snak | 36.00% | ~9,878 |
 | Candid Cryptid | 35.00% | ~9,604 |
-| Got to Catch Them All | 32.00% | ~8,780 |
+| Got to Catch Them All | 32.00% | ~8,781 |
 | Deep Impact | 22.00% | ~6,037 |
 | Grab Bag | 22.00% | ~6,037 |
 | Feeding Frenzy | 18.00% | ~4,939 |
@@ -37,7 +37,7 @@ Number of Ratings: 425  (23.09.2022)
 | Live Laugh Hut | 8.00% | ~2,195 |
 | Dapper Capper | 6.00% | ~1,646 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 27,439 (Ranked 87)  
+Progressed: 27,440 (Ranked 87)  
 Completed: 1,269 (4.62%) (Ranked 32)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,7 +66,7 @@ Completed: 1,269 (4.62%) (Ranked 32)
 | 2023-05-16 | 27,415 | 1,268 |
 | 2023-05-17 | 27,420 | 1,268 |
 | 2023-05-18 | 27,427 | 1,269 |
-| 2023-05-19 | 27,439 | 1,269 |
+| 2023-05-19 | 27,440 | 1,269 |
 ## Awards
 Max (Amazing Storytelling): 38  (Ranked 414)  
 Sum: 313 (Ranked 324)  

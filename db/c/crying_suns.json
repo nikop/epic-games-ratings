@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -538,9 +538,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 458449,
+  "EOS_Progressed": 458456,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 674,
+  "EOS_NewPlayers": 679,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3153,6 +3153,11 @@
       "Time": "2023-05-19T16:05:32.5714848+00:00",
       "NumProgressed": 458449,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-19T17:05:31.2116217+00:00",
+      "NumProgressed": 458456,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 79,
@@ -3218,17 +3223,17 @@
       "ID": "achievement_story_complete_chapter_5",
       "SetID": "8cokdon",
       "Name": "Chapter V: Memories of None",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_story_ending_earth",
       "SetID": "8cokdon",
       "Name": "A Rock in the Dark",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_story_ending_emperor",
@@ -3290,9 +3295,9 @@
       "ID": "achievement_story_meet_oberon",
       "SetID": "8cokdon",
       "Name": "Meet your maker",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_story_meet_okonkwo",
@@ -3362,9 +3367,9 @@
       "ID": "achievement_story_spare_oberon",
       "SetID": "8cokdon",
       "Name": "Mercy",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_unlock_officer_as_1",
@@ -3458,9 +3463,9 @@
       "ID": "achievement_unlock_officer_scrapper_1",
       "SetID": "8cokdon",
       "Name": "The Crazy Repairman",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_unlock_officer_scrapper_2",
@@ -3650,9 +3655,9 @@
       "ID": "achievement_win_run_with_kb",
       "SetID": "8cokdon",
       "Name": "Hammer Rule",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_win_run_with_pirate",
@@ -3795,21 +3800,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 2383,
+      "Progressed": 2390,
       "Completed": 2346
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 458449,
+      "Progressed": 458456,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-19T16:05:32.5714844+00:00",
+  "LastChanged_Achievements": "2023-05-19T17:05:31.2116211+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:09.480967+00:00",
-  "LastUpdate_Ratings": "2023-05-19T15:58:53.7416598+00:00",
-  "LastUpdate_Achievements": "2023-05-19T16:05:32.571562+00:00"
+  "LastUpdate_Ratings": "2023-05-19T16:58:46.699843+00:00",
+  "LastUpdate_Achievements": "2023-05-19T17:05:31.2116955+00:00"
 }

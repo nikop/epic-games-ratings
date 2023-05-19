@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 265,
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -195,9 +195,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 190287,
+  "EOS_Progressed": 190294,
   "EOS_Completed": 423,
-  "EOS_NewPlayers": 722,
+  "EOS_NewPlayers": 723,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -2970,6 +2970,11 @@
       "Time": "2023-05-19T16:05:17.0268635+00:00",
       "NumProgressed": 190287,
       "NumCompleted": 423
+    },
+    {
+      "Time": "2023-05-19T17:05:16.087852+00:00",
+      "NumProgressed": 190294,
+      "NumCompleted": 423
     }
   ],
   "TotalAchievements": 29,
@@ -3005,7 +3010,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 178870
+      "UsersEstimate": 178876
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -3061,7 +3066,7 @@
       "Name": "Corrupted.",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 9514
+      "UsersEstimate": 9515
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTEDCOMPLETE",
@@ -3117,7 +3122,7 @@
       "Name": "So you\u0027re saying I don\u0027t touch these ones?",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 11417
+      "UsersEstimate": 11418
     },
     {
       "ID": "ACHIEVEMENT_OPUS",
@@ -3141,7 +3146,7 @@
       "Name": "Good things come in pairs... Coloured Pairs.",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 9514
+      "UsersEstimate": 9515
     },
     {
       "ID": "ACHIEVEMENT_REQUISITE",
@@ -3181,7 +3186,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13320
+      "UsersEstimate": 13321
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -3212,7 +3217,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 190287,
+      "Progressed": 190294,
       "Completed": 423
     }
   ],
@@ -3220,8 +3225,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-05-15T09:58:34.8225055+00:00",
-  "LastChanged_Achievements": "2023-05-19T16:05:17.0268629+00:00",
+  "LastChanged_Achievements": "2023-05-19T17:05:16.0878515+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:42.6671545+00:00",
-  "LastUpdate_Ratings": "2023-05-19T15:58:32.3626403+00:00",
-  "LastUpdate_Achievements": "2023-05-19T16:05:17.026889+00:00"
+  "LastUpdate_Ratings": "2023-05-19T16:58:23.5933745+00:00",
+  "LastUpdate_Achievements": "2023-05-19T17:05:16.0878847+00:00"
 }

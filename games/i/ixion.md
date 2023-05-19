@@ -22,12 +22,12 @@ Rating: 4.55 (Ranked 467)
 | Hope Seeker | 1.00% | ~20 |
 | Exceeding Capacity | 0.90% | ~18 |
 | Power Outage | 0.90% | ~18 |
+| Sightseeing | 0.70% | ~14 |
 | Access Granted | 0.70% | ~14 |
 | Necessary Enhancement | 0.70% | ~14 |
 | Convenient Transport | 0.70% | ~14 |
 | Please Make it Stop! | 0.70% | ~14 |
-| Sightseeing | 0.60% | ~12 |
-| BRAWL! | 0.50% | ~10 |
+| BRAWL! | 0.60% | ~12 |
 | All in Good Health | 0.50% | ~10 |
 | From the Past | 0.50% | ~10 |
 | Man's Best Friend | 0.40% | ~8 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 467)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,953 (Ranked 146)  
+Progressed: 1,955 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-16 | 1,908 | 0 |
 | 2023-05-17 | 1,911 | 0 |
 | 2023-05-18 | 1,926 | 0 |
-| 2023-05-19 | 1,953 | 0 |
+| 2023-05-19 | 1,955 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,13 +2,13 @@
   "ID": "5fdcc0dc67294af3be740f362bd976fd",
   "Name": "Magic: The Gathering Arena",
   "ProductSlug": "mtg-arena",
-  "Ranking_Rating": 604,
+  "Ranking_Rating": 605,
   "Ranking_Popularity": 33,
   "Ranking_PopularitySum": 15,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2020-01-16T08:00:00+00:00",
     "PcReleaseDate": null,
@@ -5375,10 +5375,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 84134,
       "NumberOfAwardsMax": 10274
+    },
+    {
+      "Time": "2023-05-19T16:57:48.1557456+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 84142,
+      "NumberOfAwardsMax": 10274
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 84134,
+  "NumberOfAwards": 84142,
   "NumberOfAwardsMax": 10274,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -5398,7 +5404,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 8429
+      "Count": 8437
     },
     {
       "Text": "This game is Relaxing",
@@ -5460,8 +5466,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2023-05-18T22:58:56.1463448+00:00",
+  "LastChanged": "2023-05-19T16:57:48.1557455+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:01.9226498+00:00",
-  "LastUpdate_Ratings": "2023-05-19T15:57:56.0536911+00:00",
-  "LastUpdate_Achievements": "2023-05-19T16:03:29.5102328+00:00"
+  "LastUpdate_Ratings": "2023-05-19T16:57:48.1557462+00:00",
+  "LastUpdate_Achievements": "2023-05-19T17:03:39.1723838+00:00"
 }

@@ -26,8 +26,8 @@ Rating: 3.75 (Ranked 917)
 | Natural Talent | 9.00% | ~98 |
 | The Unstoppable | 9.00% | ~98 |
 | Milestone collector | 8.00% | ~87 |
+| Scientist | 8.00% | ~87 |
 | Superior | 8.00% | ~87 |
-| Scientist | 7.00% | ~76 |
 | Challenger | 6.00% | ~65 |
 | Daily Quest Completionist | 6.00% | ~65 |
 | Scroll Master | 5.00% | ~54 |
@@ -82,7 +82,7 @@ Rating: 3.75 (Ranked 917)
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,089 (Ranked 161)  
-Completed: 1 (0.09%) (Ranked 162)  
+Completed: 1 (0.09%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

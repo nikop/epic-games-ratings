@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
     "PcReleaseDate": "2021-07-08T21:30:00+00:00",
@@ -721,9 +721,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 6472,
+  "EOS_Progressed": 6474,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2126,6 +2126,11 @@
       "Time": "2023-05-19T16:00:35.6175583+00:00",
       "NumProgressed": 6472,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T17:02:16.0517078+00:00",
+      "NumProgressed": 6474,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -2137,7 +2142,7 @@
       "Name": "Adventure Time",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 5178
+      "UsersEstimate": 5179
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -2145,7 +2150,7 @@
       "Name": "Booty Bashing",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 3042
+      "UsersEstimate": 3043
     },
     {
       "ID": "ACH_BOSS_OF_BOSSES",
@@ -2169,7 +2174,7 @@
       "Name": "Coup d\u0027Etat",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 3754
+      "UsersEstimate": 3755
     },
     {
       "ID": "ACH_EVENT_HORIZON",
@@ -2201,7 +2206,7 @@
       "Name": "Get Furious",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 3560
+      "UsersEstimate": 3561
     },
     {
       "ID": "ACH_GET_IN_THE_RING",
@@ -2209,7 +2214,7 @@
       "Name": "Get In The Ring!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "ACH_GREY_GOO",
@@ -2217,7 +2222,7 @@
       "Name": "Grey Goo",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1359
+      "UsersEstimate": 1360
     },
     {
       "ID": "ACH_GROUND_CONTROL",
@@ -2241,7 +2246,7 @@
       "Name": "Gunplay And Cosplay",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 3560
+      "UsersEstimate": 3561
     },
     {
       "ID": "ACH_HACKS_IN_STACKS",
@@ -2249,7 +2254,7 @@
       "Name": "Hacks In Stacks",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3495
+      "UsersEstimate": 3496
     },
     {
       "ID": "ACH_HERE_COMES_A_NEW_CHALLENGER",
@@ -2281,7 +2286,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 5890
+      "UsersEstimate": 5891
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -2305,7 +2310,7 @@
       "Name": "Meching Enemies",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 3171
+      "UsersEstimate": 3172
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -2335,9 +2340,9 @@
       "ID": "ACH_PHOTOGENIC",
       "SetID": "97mcd7i",
       "Name": "Photogenic",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 5695
+      "UsersEstimate": 5632
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -2345,7 +2350,7 @@
       "Name": "Playing With Power",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 4983
+      "UsersEstimate": 4985
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -2353,7 +2358,7 @@
       "Name": "Plug It In",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 5436
+      "UsersEstimate": 5438
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -2377,7 +2382,7 @@
       "Name": "Rapid Response",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2071
+      "UsersEstimate": 2072
     },
     {
       "ID": "ACH_RESCUE_RANGER",
@@ -2393,7 +2398,7 @@
       "Name": "Seasoned Adventurer",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "ACH_SHIELD_AND_SHRED",
@@ -2433,7 +2438,7 @@
       "Name": "Surge Ahead",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 2006
+      "UsersEstimate": 2007
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_JOCKEY",
@@ -2441,7 +2446,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 5501
+      "UsersEstimate": 5503
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -2481,7 +2486,7 @@
       "Name": "The Full Monty",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 2006
+      "UsersEstimate": 2007
     },
     {
       "ID": "ACH_THIS_IS_MY_BOOMSTICK",
@@ -2505,7 +2510,7 @@
       "Name": "Ticket Toddler",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 3042
+      "UsersEstimate": 3043
     },
     {
       "ID": "ACH_TO_BE_CONTINUED",
@@ -2529,22 +2534,22 @@
       "Name": "You\u0027re Fired",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 3754
+      "UsersEstimate": 3755
     }
   ],
   "AchievementSets": [
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 6472,
+      "Progressed": 6474,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-05-16T22:57:55.9778153+00:00",
-  "LastChanged_Achievements": "2023-05-19T16:00:35.6175579+00:00",
+  "LastChanged_Achievements": "2023-05-19T17:02:16.0517074+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:14.7665968+00:00",
-  "LastUpdate_Ratings": "2023-05-19T15:58:06.8614826+00:00",
-  "LastUpdate_Achievements": "2023-05-19T16:00:35.6176112+00:00"
+  "LastUpdate_Ratings": "2023-05-19T16:57:58.9255253+00:00",
+  "LastUpdate_Achievements": "2023-05-19T17:02:16.0517452+00:00"
 }

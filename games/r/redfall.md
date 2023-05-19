@@ -1,22 +1,22 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.50 (Ranked 922)  
+Rating: 3.47 (Ranked 923)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 80.00% | ~1,260 |
-| Home Is Where the Heart Is | 62.00% | ~976 |
-| Ne Plus Ultra | 62.00% | ~976 |
-| Wounded Whispers | 62.00% | ~976 |
-| Blood Will Have Blood | 51.00% | ~803 |
-| ICU | 47.00% | ~740 |
-| Catch and Release | 46.00% | ~724 |
+| I Like My Stakes Rare! | 80.00% | ~1,261 |
+| Home Is Where the Heart Is | 62.00% | ~977 |
+| Ne Plus Ultra | 62.00% | ~977 |
+| Wounded Whispers | 62.00% | ~977 |
+| Blood Will Have Blood | 51.00% | ~804 |
+| ICU | 47.00% | ~741 |
 | Peek-a-boo | 45.00% | ~709 |
+| Catch and Release | 45.00% | ~709 |
 | Sucks To Be You | 44.00% | ~693 |
-| Welcome to the Neighborhood | 38.00% | ~598 |
+| Welcome to the Neighborhood | 38.00% | ~599 |
 | Fly Fisher | 36.00% | ~567 |
-| Throw The First Stone | 35.00% | ~551 |
+| Throw The First Stone | 35.00% | ~552 |
 | Enter of Your Own Free Will | 33.00% | ~520 |
 | Heart Attack | 32.00% | ~504 |
 | Skin of Their Teeth | 32.00% | ~504 |
@@ -72,7 +72,7 @@ Rating: 3.50 (Ranked 922)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,575 (Ranked 150)  
+Progressed: 1,576 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-16 | 1,558 | 0 |
 | 2023-05-17 | 1,563 | 0 |
 | 2023-05-18 | 1,569 | 0 |
-| 2023-05-19 | 1,575 | 0 |
+| 2023-05-19 | 1,576 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -108,3 +108,4 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-15 | 3.44 | 0 | 0 |
 | 2023-05-16 | 3.48 | 0 | 0 |
 | 2023-05-17 | 3.50 | 0 | 0 |
+| 2023-05-19 | 3.47 | 0 | 0 |

@@ -2,13 +2,13 @@
   "ID": "d5cbd232ad304c91aacc20f31849435c",
   "Name": "House Flipper",
   "ProductSlug": "house-flipper",
-  "Ranking_Rating": 190,
+  "Ranking_Rating": 191,
   "Ranking_Popularity": 226,
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1404,9 +1404,9 @@
       "Count": 203
     }
   ],
-  "EOS_Progressed": 18797,
+  "EOS_Progressed": 18799,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2234,6 +2234,11 @@
       "Time": "2023-05-19T16:05:24.8840566+00:00",
       "NumProgressed": 18797,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-19T17:05:23.6596128+00:00",
+      "NumProgressed": 18799,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -2293,7 +2298,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 17669
+      "UsersEstimate": 17671
     },
     {
       "ID": "GameOver",
@@ -2357,7 +2362,7 @@
       "Name": "Just Enough",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3571
+      "UsersEstimate": 3572
     },
     {
       "ID": "Negotiator",
@@ -2381,7 +2386,7 @@
       "Name": "Alpha Male",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3571
+      "UsersEstimate": 3572
     },
     {
       "ID": "SeniorEstateAgent",
@@ -2397,7 +2402,7 @@
       "Name": "Pro-creative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3383
+      "UsersEstimate": 3384
     },
     {
       "ID": "Strongman",
@@ -2405,7 +2410,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5827
+      "UsersEstimate": 5828
     },
     {
       "ID": "VeronicaLiptson",
@@ -2428,15 +2433,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 18797,
+      "Progressed": 18799,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-05-19T15:59:05.5619448+00:00",
-  "LastChanged_Achievements": "2023-05-19T16:05:24.8840561+00:00",
+  "LastChanged_Achievements": "2023-05-19T17:05:23.6596123+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:21.1151824+00:00",
-  "LastUpdate_Ratings": "2023-05-19T15:59:05.5619452+00:00",
-  "LastUpdate_Achievements": "2023-05-19T16:05:24.8840727+00:00"
+  "LastUpdate_Ratings": "2023-05-19T16:58:56.9302222+00:00",
+  "LastUpdate_Achievements": "2023-05-19T17:05:23.6596295+00:00"
 }

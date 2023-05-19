@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1026,
+  "EOS_Progressed": 1027,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.97,
   "EosHistory": [
@@ -507,6 +507,11 @@
       "Time": "2023-05-19T09:06:42.5032431+00:00",
       "NumProgressed": 1026,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-19T17:05:30.429549+00:00",
+      "NumProgressed": 1027,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 11,
@@ -548,9 +553,9 @@
       "ID": "ACH_FineEV5",
       "SetID": "7a9m7mj",
       "Name": "Is she really dead?",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 472
+      "UsersEstimate": 483
     },
     {
       "ID": "ACH_FineEV9",
@@ -558,7 +563,7 @@
       "Name": "Alone",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "ACH_FineGioco",
@@ -574,7 +579,7 @@
       "Name": "Pack Rat",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -582,7 +587,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -605,15 +610,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1026,
+      "Progressed": 1027,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-05-19T16:05:31.9061252+00:00",
+  "LastChanged_Achievements": "2023-05-19T17:05:30.4295483+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:58.763726+00:00",
-  "LastUpdate_Ratings": "2023-05-19T15:59:37.8907998+00:00",
-  "LastUpdate_Achievements": "2023-05-19T16:05:31.9061342+00:00"
+  "LastUpdate_Ratings": "2023-05-19T16:59:28.7304353+00:00",
+  "LastUpdate_Achievements": "2023-05-19T17:05:30.429557+00:00"
 }

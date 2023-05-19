@@ -12,8 +12,8 @@ Rating: 4.57 (Ranked 435)
 | Clean up on Aisle 9 | 40.00% | ~233 |
 | Machine Maxed | 31.00% | ~180 |
 | Bug Fixer | 25.00% | ~146 |
+| Existential dread | 25.00% | ~146 |
 | Gerald of Riviera | 25.00% | ~146 |
-| Existential dread | 24.00% | ~140 |
 | Goal | 22.00% | ~128 |
 | I ran the numbers | 15.00% | ~87 |
 | Taking the plunge | 13.00% | ~76 |

@@ -3,9 +3,9 @@
   "Name": "Asteroids: Recharged",
   "ProductSlug": "asteroids-recharged",
   "Ranking_EOS_Progress": 280,
-  "Ranking_EOS_Completed": 67,
-  "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_Completed": 68,
+  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-12-14T16:00:00+00:00",
     "PcReleaseDate": "2021-12-14T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 60,
+  "EOS_Progressed": 61,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.67,
+  "EOS_Completed_Percentage": 1.64,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:37.0797761+00:00",
@@ -41,6 +41,11 @@
       "Time": "2023-04-28T08:03:35.4588562+00:00",
       "NumProgressed": 60,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-19T17:05:13.6752929+00:00",
+      "NumProgressed": 61,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 16,
@@ -50,7 +55,7 @@
       "ID": "ACH_ALL_DEAD",
       "SetID": "ca3jj1k",
       "Name": "All Dead, All Dead",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 20,
       "UsersEstimate": 27
     },
@@ -66,7 +71,7 @@
       "ID": "ACH_FRIENDS",
       "SetID": "ca3jj1k",
       "Name": "Friends Will Be Friends",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 7
     },
@@ -82,7 +87,7 @@
       "ID": "ACH_KEEP_YOURSELF_ALIVE",
       "SetID": "ca3jj1k",
       "Name": "Keep Yourself Alive",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 50,
       "UsersEstimate": 34
     },
@@ -114,7 +119,7 @@
       "ID": "ACH_NOW_IM_HERE",
       "SetID": "ca3jj1k",
       "Name": "Now I\u0027m Here",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 50,
       "UsersEstimate": 44
     },
@@ -138,7 +143,7 @@
       "ID": "ACH_THE_HERO",
       "SetID": "ca3jj1k",
       "Name": "The Hero",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 50,
       "UsersEstimate": 44
     },
@@ -146,7 +151,7 @@
       "ID": "ACH_THE_HITMAN",
       "SetID": "ca3jj1k",
       "Name": "The Hitman",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 75,
       "UsersEstimate": 36
     },
@@ -154,7 +159,7 @@
       "ID": "ACH_THE_INVISIBLE",
       "SetID": "ca3jj1k",
       "Name": "The Invisible Man",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 100,
       "UsersEstimate": 22
     },
@@ -179,7 +184,7 @@
     {
       "ID": "ca3jj1k",
       "IsBase": true,
-      "Progressed": 60,
+      "Progressed": 61,
       "Completed": 1
     }
   ],
@@ -187,8 +192,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2023-05-19T16:05:14.6961781+00:00",
+  "LastChanged_Achievements": "2023-05-19T17:05:13.6752925+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:40.1329294+00:00",
-  "LastUpdate_Ratings": "2023-05-19T15:58:30.6666111+00:00",
-  "LastUpdate_Achievements": "2023-05-19T16:05:14.6961871+00:00"
+  "LastUpdate_Ratings": "2023-05-19T16:58:21.7358992+00:00",
+  "LastUpdate_Achievements": "2023-05-19T17:05:13.6753013+00:00"
 }

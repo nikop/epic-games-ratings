@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-29T13:00:00+00:00",
     "PcReleaseDate": "2023-03-29T13:00:00+00:00",
@@ -162,9 +162,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18673,
+  "EOS_Progressed": 18675,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2132,6 +2132,11 @@
       "Time": "2023-05-19T16:05:01.8486912+00:00",
       "NumProgressed": 18673,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-19T17:05:00.5398115+00:00",
+      "NumProgressed": 18675,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 13,
@@ -2143,7 +2148,7 @@
       "Name": "Safe!",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "FirstGlide",
@@ -2246,7 +2251,7 @@
     {
       "ID": "3c9im16",
       "IsBase": true,
-      "Progressed": 18673,
+      "Progressed": 18675,
       "Completed": 18
     }
   ],
@@ -2254,8 +2259,8 @@
   "FirstSeenRating": "2023-03-31T05:57:29.8298127+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.2502922+00:00",
   "LastChanged": "2023-05-19T05:57:17.6704868+00:00",
-  "LastChanged_Achievements": "2023-05-19T16:05:01.8486908+00:00",
+  "LastChanged_Achievements": "2023-05-19T17:05:00.539811+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:23.6945162+00:00",
-  "LastUpdate_Ratings": "2023-05-19T15:57:24.9001273+00:00",
-  "LastUpdate_Achievements": "2023-05-19T16:05:01.8487075+00:00"
+  "LastUpdate_Ratings": "2023-05-19T16:57:16.1144254+00:00",
+  "LastUpdate_Achievements": "2023-05-19T17:05:00.5398287+00:00"
 }

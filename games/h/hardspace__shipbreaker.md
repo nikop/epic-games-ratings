@@ -6,19 +6,19 @@ Number of Ratings: 36  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 73.00% | ~445 |
+| Breathe In… Breathe Out… | 73.00% | ~446 |
 | It’s Heating up! | 68.00% | ~415 |
-| Let’s patch things up | 65.00% | ~396 |
-| I can fix it! | 62.00% | ~378 |
+| Let’s patch things up | 65.00% | ~397 |
+| I can fix it! | 62.00% | ~379 |
 | Post No Bills | 55.00% | ~336 |
 | Truly Shocking! | 46.00% | ~281 |
-| Critical Thinker | 34.00% | ~207 |
+| Critical Thinker | 34.00% | ~208 |
 | Always Finding Your Mark | 29.00% | ~177 |
 | The Weight of the World | 28.00% | ~171 |
 | A drop in the Ocean | 27.00% | ~165 |
 | Act I Complete | 26.00% | ~159 |
 | No Niños | 26.00% | ~159 |
-| I ain’t afraid of no Ghost | 24.00% | ~146 |
+| I ain’t afraid of no Ghost | 24.00% | ~147 |
 | Act II Complete | 20.00% | ~122 |
 | A successful procedure! | 18.00% | ~110 |
 | Bing Bang BOOM | 18.00% | ~110 |
@@ -27,14 +27,14 @@ Number of Ratings: 36  (23.09.2022)
 | A Tucked Tale | 10.00% | ~61 |
 | The best thing money can buy | 9.00% | ~55 |
 | Act III Complete | 6.00% | ~37 |
-| Fire and Brimstone | 5.00% | ~30 |
-| See you Space Cowboy | 5.00% | ~30 |
+| Fire and Brimstone | 5.00% | ~31 |
+| See you Space Cowboy | 5.00% | ~31 |
 | Ghost in the Ship | 2.00% | ~12 |
 | Disagree and Commit | 0.20% | ~1 |
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 610 (Ranked 184)  
+Progressed: 611 (Ranked 184)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -48,7 +48,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-11 | 601 | 0 |
 | 2023-05-13 | 602 | 0 |
 | 2023-05-18 | 606 | 0 |
-| 2023-05-19 | 610 | 0 |
+| 2023-05-19 | 611 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

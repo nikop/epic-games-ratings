@@ -2,13 +2,13 @@
   "ID": "5a82d5954a1943d79dc6b49cde2fe972",
   "Name": "Predator: Hunting Grounds Standard Edition",
   "ProductSlug": "predator-hunting-grounds",
-  "Ranking_Rating": 604,
+  "Ranking_Rating": 605,
   "Ranking_Popularity": 143,
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2020-04-23T23:00:00+00:00",
     "PcReleaseDate": "2020-04-23T23:00:00+00:00",
@@ -1882,10 +1882,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 2320,
       "NumberOfAwardsMax": 852
+    },
+    {
+      "Time": "2023-05-19T16:58:25.6923312+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 2321,
+      "NumberOfAwardsMax": 852
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2320,
+  "NumberOfAwards": 2321,
   "NumberOfAwardsMax": 852,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1917,7 +1923,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 153
+      "Count": 154
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1979,8 +1985,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:15.8732166+00:00",
-  "LastChanged": "2023-05-18T22:59:54.7902534+00:00",
+  "LastChanged": "2023-05-19T16:58:25.6923311+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:45.8071858+00:00",
-  "LastUpdate_Ratings": "2023-05-19T15:58:34.5657144+00:00",
-  "LastUpdate_Achievements": "2023-05-19T16:03:22.9966132+00:00"
+  "LastUpdate_Ratings": "2023-05-19T16:58:25.6923316+00:00",
+  "LastUpdate_Achievements": "2023-05-19T17:03:32.822943+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 899,
+  "EOS_Progressed": 900,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -545,6 +545,11 @@
       "Time": "2023-05-19T15:06:21.8733162+00:00",
       "NumProgressed": 899,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-19T17:05:29.4931595+00:00",
+      "NumProgressed": 900,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -682,9 +687,9 @@
       "ID": "Heroes_never_die",
       "SetID": "85nb4h3",
       "Name": "Heroes Never Die",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 207
     },
     {
       "ID": "High_noon",
@@ -770,9 +775,9 @@
       "ID": "War_never_changes",
       "SetID": "85nb4h3",
       "Name": "War Never Changes",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 234
     },
     {
       "ID": "We_were_not_here",
@@ -795,15 +800,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 899,
+      "Progressed": 900,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-05-19T16:05:30.9354741+00:00",
+  "LastChanged_Achievements": "2023-05-19T17:05:29.4931588+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:11.284496+00:00",
-  "LastUpdate_Ratings": "2023-05-19T15:58:55.1140484+00:00",
-  "LastUpdate_Achievements": "2023-05-19T16:05:30.9354917+00:00"
+  "LastUpdate_Ratings": "2023-05-19T16:58:48.0157771+00:00",
+  "LastUpdate_Achievements": "2023-05-19T17:05:29.4931772+00:00"
 }

@@ -1,28 +1,28 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.58 (Ranked 415)  
+Rating: 4.58 (Ranked 414)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~10,590 |
-| Sweet Sorrow | 18.00% | ~5,295 |
-| Rules the Waves | 17.00% | ~5,001 |
-| Thou, All-Shaking Thunder | 16.00% | ~4,707 |
-| Rival | 14.00% | ~4,118 |
-| Correspondent | 12.00% | ~3,530 |
-| Lose Your Mind | 12.00% | ~3,530 |
-| Sound Mind? | 12.00% | ~3,530 |
-| Salt's Curse | 11.00% | ~3,236 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~3,236 |
-| The Fall of the House | 11.00% | ~3,236 |
-| Shipmate | 11.00% | ~3,236 |
-| One Year at Zee | 8.00% | ~2,353 |
-| Pupil | 7.00% | ~2,059 |
-| Salvager | 7.00% | ~2,059 |
-| Open Your Ears | 7.00% | ~2,059 |
-| The Ascent of Man | 7.00% | ~2,059 |
+| Sink Beneath the Waves | 36.00% | ~10,592 |
+| Sweet Sorrow | 18.00% | ~5,296 |
+| Rules the Waves | 17.00% | ~5,002 |
+| Thou, All-Shaking Thunder | 16.00% | ~4,708 |
+| Rival | 14.00% | ~4,119 |
+| Correspondent | 12.00% | ~3,531 |
+| Lose Your Mind | 12.00% | ~3,531 |
+| Sound Mind? | 12.00% | ~3,531 |
+| Salt's Curse | 11.00% | ~3,237 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~3,237 |
+| The Fall of the House | 11.00% | ~3,237 |
+| Shipmate | 11.00% | ~3,237 |
+| One Year at Zee | 8.00% | ~2,354 |
+| Pupil | 7.00% | ~2,060 |
+| Salvager | 7.00% | ~2,060 |
+| Open Your Ears | 7.00% | ~2,060 |
+| The Ascent of Man | 7.00% | ~2,060 |
 | Sink Beneath the Waves. Again. | 5.00% | ~1,471 |
 | Zee Fever | 5.00% | ~1,471 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,177 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~29 |
 | Ten Years at Zee | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,417 (Ranked 85)  
+Progressed: 29,423 (Ranked 85)  
 Completed: 3 (0.01%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 3 (0.01%) (Ranked 193)
 | 2023-05-16 | 29,219 | 3 |
 | 2023-05-17 | 29,289 | 3 |
 | 2023-05-18 | 29,361 | 3 |
-| 2023-05-19 | 29,417 | 3 |
+| 2023-05-19 | 29,423 | 3 |
 ## Awards
 Max (Character Customization): 208  (Ranked 256)  
 Sum: 277 (Ranked 329)  
