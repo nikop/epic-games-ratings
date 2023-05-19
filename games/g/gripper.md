@@ -4,13 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Skinner | 58.00% | ~14 |
 | Deal with Shock | 58.00% | ~14 |
-| Skinner | 54.00% | ~13 |
 | Deal with Anger | 33.00% | ~8 |
-| Robolimb Ripper | 17.00% | ~4 |
+| Robolimb Ripper | 21.00% | ~5 |
 | Deal with Depression | 17.00% | ~4 |
 | No Shock Race | 13.00% | ~3 |
 | Max Health | 8.00% | ~2 |
+| Total Shock | 8.00% | ~2 |
 | No Anger Race | 8.00% | ~2 |
 | No Depression Race | 8.00% | ~2 |
 | Deal with Acceptance | 8.00% | ~2 |
@@ -21,7 +22,6 @@
 | Platinum Tunnel Collector | 4.00% | ~1 |
 | Monster Energy | 4.00% | ~1 |
 | Total Anger | 4.00% | ~1 |
-| Total Shock | 4.00% | ~1 |
 | Boss Rusher | 4.00% | ~1 |
 | Flawless Boss Rusher | 4.00% | ~1 |
 | The Fastest Boss Rusher | 4.00% | ~1 |

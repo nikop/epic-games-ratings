@@ -22,8 +22,8 @@ Number of Ratings: 706  (23.09.2022)
 | Home Cooked Meal | 43.00% | ~1,143 |
 | Luminary Researcher | 41.00% | ~1,090 |
 | Retribution | 35.00% | ~930 |
+| ...And Don’t Come Back! | 35.00% | ~930 |
 | Fit For A King | 34.00% | ~904 |
-| ...And Don’t Come Back! | 34.00% | ~904 |
 | Heating Up | 23.00% | ~611 |
 | Winter Is Coming | 20.00% | ~532 |
 | Winter Is Here | 18.00% | ~478 |
@@ -49,7 +49,7 @@ Completed: 6 (0.23%) (Ranked 137)
 | 2023-05-19 | 2,658 | 6 |
 ## Awards
 Max (Relaxing): 118  (Ranked 305)  
-Sum: 926 (Ranked 234)  
+Sum: 927 (Ranked 234)  
 Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
@@ -62,7 +62,7 @@ Diff (max vs sum): 71
 | This game has Amazing Characters | 90 |
 | This game has Amazing Storytelling | 81 |
 | This game has Unique Visuals | 75 |
-| This game has a Creative Community | 59 |
+| This game has a Creative Community | 60 |
 | This game has Obsessive Gameplay | 56 |
 | This game is Educational | 21 |
 ## Ratings History
@@ -157,4 +157,4 @@ Diff (max vs sum): 71
 | 2023-05-05 | 4.60 | - | 118 | 923 |
 | 2023-05-09 | 4.60 | - | 118 | 924 |
 | 2023-05-14 | 4.60 | - | 118 | 925 |
-| 2023-05-19 | 4.60 | - | 118 | 926 |
+| 2023-05-19 | 4.60 | - | 118 | 927 |

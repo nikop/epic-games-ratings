@@ -6,8 +6,8 @@
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 218,
-  "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_Completed": 47,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
@@ -63,11 +63,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 269,
+  "EOS_Progressed": 270,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.97,
+  "EOS_Completed_Percentage": 2.96,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.4947976+00:00",
@@ -92,6 +92,11 @@
     {
       "Time": "2023-05-19T02:03:35.9743015+00:00",
       "NumProgressed": 269,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-19T15:03:40.5451416+00:00",
+      "NumProgressed": 270,
       "NumCompleted": 8
     }
   ],
@@ -166,9 +171,9 @@
       "ID": "achievement_08",
       "SetID": "7881h0d",
       "Name": "There is freedom in awakening",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_09",
@@ -222,9 +227,9 @@
       "ID": "achievement_15",
       "SetID": "7881h0d",
       "Name": "My dear Magda",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 73
     },
     {
       "ID": "achievement_16",
@@ -255,7 +260,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 269,
+      "Progressed": 270,
       "Completed": 8
     }
   ],
@@ -263,8 +268,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-05-19T14:02:38.6482156+00:00",
+  "LastChanged_Achievements": "2023-05-19T15:03:40.5451412+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:40.199296+00:00",
-  "LastUpdate_Ratings": "2023-05-19T13:57:30.9479616+00:00",
-  "LastUpdate_Achievements": "2023-05-19T14:02:38.6482311+00:00"
+  "LastUpdate_Ratings": "2023-05-19T14:57:59.7087692+00:00",
+  "LastUpdate_Achievements": "2023-05-19T15:03:40.5451562+00:00"
 }

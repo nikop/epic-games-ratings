@@ -10,11 +10,11 @@ Rating: 4.37 (Ranked 702)
 | A forgotten language | 69.00% | ~186 |
 | Lord Wesley | 35.00% | ~94 |
 | One step down | 29.00% | ~78 |
-| My dear Magda | 28.00% | ~75 |
+| My dear Magda | 27.00% | ~73 |
 | Lord Clayton | 23.00% | ~62 |
 | The other side of the mirror | 16.00% | ~43 |
 | Little Mary | 14.00% | ~38 |
-| There is freedom in awakening | 12.00% | ~32 |
+| There is freedom in awakening | 11.00% | ~30 |
 | Ritual | 9.00% | ~24 |
 | Cowardice | 9.00% | ~24 |
 | Bloodrush | 7.00% | ~19 |
@@ -25,8 +25,8 @@ Rating: 4.37 (Ranked 702)
 | Sacrifice | 3.00% | ~8 |
 | Lamentum | 3.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 269 (Ranked 218)  
-Completed: 8 (2.97%) (Ranked 48)  
+Progressed: 270 (Ranked 218)  
+Completed: 8 (2.96%) (Ranked 47)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -34,7 +34,7 @@ Completed: 8 (2.97%) (Ranked 48)
 | 2023-05-06 | 266 | 8 |
 | 2023-05-07 | 267 | 8 |
 | 2023-05-15 | 268 | 8 |
-| 2023-05-19 | 269 | 8 |
+| 2023-05-19 | 270 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

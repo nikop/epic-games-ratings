@@ -4,10 +4,10 @@
   "ProductSlug": "remnant-from-the-ashes",
   "Ranking_Rating": 357,
   "Ranking_Popularity": 36,
-  "Ranking_PopularitySum": 65,
+  "Ranking_PopularitySum": 63,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -3874,10 +3874,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 13643,
       "NumberOfAwardsMax": 9098
+    },
+    {
+      "Time": "2023-05-19T14:58:35.591702+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 14251,
+      "NumberOfAwardsMax": 9098
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13643,
+  "NumberOfAwards": 14251,
   "NumberOfAwardsMax": 9098,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3945,7 +3951,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 601
+      "Count": 608
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3965,8 +3971,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:00.6523638+00:00",
-  "LastChanged": "2023-05-19T03:58:36.1814904+00:00",
+  "LastChanged": "2023-05-19T14:58:35.5917015+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:15.9847721+00:00",
-  "LastUpdate_Ratings": "2023-05-19T13:58:00.2256159+00:00",
-  "LastUpdate_Achievements": "2023-05-19T14:00:29.8588666+00:00"
+  "LastUpdate_Ratings": "2023-05-19T14:58:35.5917025+00:00",
+  "LastUpdate_Achievements": "2023-05-19T15:02:27.1956398+00:00"
 }

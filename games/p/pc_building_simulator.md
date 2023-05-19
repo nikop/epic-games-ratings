@@ -6,29 +6,29 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 48.00% | ~1,680,125 |
-| Easy to forget | 46.00% | ~1,610,120 |
-| Back in the black | 38.00% | ~1,330,099 |
-| That's what I'm talking about | 28.00% | ~980,073 |
-| The Best of Both Worlds | 24.00% | ~840,062 |
-| Get your wings | 20.00% | ~700,052 |
-| Double trouble | 15.00% | ~525,039 |
-| Smashing it | 10.00% | ~350,026 |
-| But can it run Crysis? | 9.00% | ~315,023 |
-| My favourite feature... | 9.00% | ~315,023 |
-| From humble beginnings... | 7.00% | ~245,018 |
-| Customer satisfaction | 7.00% | ~245,018 |
-| Keeping things neat | 4.00% | ~140,010 |
-| Seems you're pretty good at this | 4.00% | ~140,010 |
-| Triple threat | 3.00% | ~105,008 |
-| You rock at this! | 3.00% | ~105,008 |
-| Your music sucks | 3.00% | ~105,008 |
-| Bending over backwards | 3.00% | ~105,008 |
-| I'm broke, Uncle! | 2.00% | ~70,005 |
-| Maybe you should try something else? | 2.00% | ~70,005 |
-| Taking care of business | 2.00% | ~70,005 |
-| Perfection | 2.00% | ~70,005 |
-| Calling in Sick | 2.00% | ~70,005 |
+| You need to plug it in... | 48.00% | ~1,680,144 |
+| Easy to forget | 46.00% | ~1,610,138 |
+| Back in the black | 38.00% | ~1,330,114 |
+| That's what I'm talking about | 28.00% | ~980,084 |
+| The Best of Both Worlds | 24.00% | ~840,072 |
+| Get your wings | 20.00% | ~700,060 |
+| Double trouble | 15.00% | ~525,045 |
+| Smashing it | 10.00% | ~350,030 |
+| But can it run Crysis? | 9.00% | ~315,027 |
+| My favourite feature... | 9.00% | ~315,027 |
+| From humble beginnings... | 7.00% | ~245,021 |
+| Customer satisfaction | 7.00% | ~245,021 |
+| Keeping things neat | 4.00% | ~140,012 |
+| Seems you're pretty good at this | 4.00% | ~140,012 |
+| Triple threat | 3.00% | ~105,009 |
+| You rock at this! | 3.00% | ~105,009 |
+| Your music sucks | 3.00% | ~105,009 |
+| Bending over backwards | 3.00% | ~105,009 |
+| I'm broke, Uncle! | 2.00% | ~70,006 |
+| Maybe you should try something else? | 2.00% | ~70,006 |
+| Taking care of business | 2.00% | ~70,006 |
+| Perfection | 2.00% | ~70,006 |
+| Calling in Sick | 2.00% | ~70,006 |
 | Overvolted | 1.00% | ~35,003 |
 | If you fail the first time... | 1.00% | ~35,003 |
 | Amazonian | 1.00% | ~35,003 |
@@ -37,11 +37,11 @@ Number of Ratings: 12,155  (23.09.2022)
 | Building isn't cheap! | 1.00% | ~35,003 |
 | Majority Shareholder | 1.00% | ~35,003 |
 | Owner | 1.00% | ~35,003 |
-| Show off | 0.90% | ~31,502 |
+| Show off | 0.90% | ~31,503 |
 | Work ethic 101 | 0.60% | ~21,002 |
-| Building momentum | 0.50% | ~17,501 |
-| Lead by example | 0.50% | ~17,501 |
-| Treat yourself - RAM | 0.50% | ~17,501 |
+| Building momentum | 0.50% | ~17,502 |
+| Lead by example | 0.50% | ~17,502 |
+| Treat yourself - RAM | 0.50% | ~17,502 |
 | So you're the reason why the prices are so high? | 0.30% | ~10,501 |
 | Mr big business | 0.30% | ~10,501 |
 | Getting your feet wet | 0.30% | ~10,501 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,500 |
 | Treat yourself - GPU | 0.10% | ~3,500 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,500,260 (Ranked 4)  
+Progressed: 3,500,300 (Ranked 4)  
 Completed: 22 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,10 +88,10 @@ Completed: 22 (0.00%) (Ranked 201)
 | 2023-05-16 | 3,498,890 | 22 |
 | 2023-05-17 | 3,499,307 | 22 |
 | 2023-05-18 | 3,499,841 | 22 |
-| 2023-05-19 | 3,500,260 | 22 |
+| 2023-05-19 | 3,500,300 | 22 |
 ## Awards
 Max (Great for Beginners): 1,040  (Ranked 132)  
-Sum: 7,758 (Ranked 95)  
+Sum: 7,762 (Ranked 95)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
@@ -104,7 +104,7 @@ Diff (max vs sum): 37
 | This game has Amazing Storytelling | 793 |
 | This game has Obsessive Gameplay | 664 |
 | This game has Amazing Characters | 635 |
-| This game has a Creative Community | 620 |
+| This game has a Creative Community | 624 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -211,4 +211,4 @@ Diff (max vs sum): 37
 | 2023-05-16 | 4.66 | - | 1,038 | 7,751 |
 | 2023-05-17 | 4.66 | - | 1,039 | 7,755 |
 | 2023-05-18 | 4.66 | - | 1,039 | 7,757 |
-| 2023-05-19 | 4.66 | - | 1,040 | 7,758 |
+| 2023-05-19 | 4.66 | - | 1,040 | 7,762 |

@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -575,9 +575,9 @@
       "ID": "ach_profit_0",
       "SetID": "b8gh1fi",
       "Name": "In the Black",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 95
     },
     {
       "ID": "ach_profit_1",
@@ -824,8 +824,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-05-19T14:05:24.5135583+00:00",
+  "LastChanged_Achievements": "2023-05-19T15:06:27.7054356+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:00.4875795+00:00",
-  "LastUpdate_Ratings": "2023-05-19T13:57:46.2255968+00:00",
-  "LastUpdate_Achievements": "2023-05-19T14:05:24.5136515+00:00"
+  "LastUpdate_Ratings": "2023-05-19T14:58:18.8289463+00:00",
+  "LastUpdate_Achievements": "2023-05-19T15:06:27.7055404+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 376,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -568,9 +568,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3559,
+  "EOS_Progressed": 3563,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1323,6 +1323,11 @@
       "Time": "2023-05-19T14:02:19.6456606+00:00",
       "NumProgressed": 3559,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T15:03:18.0692111+00:00",
+      "NumProgressed": 3563,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -1334,7 +1339,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 2527
+      "UsersEstimate": 2530
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -1342,7 +1347,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 1602
+      "UsersEstimate": 1603
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -1350,7 +1355,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 2171
+      "UsersEstimate": 2173
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -1358,7 +1363,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -1366,7 +1371,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -1374,7 +1379,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1851
+      "UsersEstimate": 1853
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -1382,7 +1387,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -1390,7 +1395,7 @@
       "Name": "Scaling up",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 1637
+      "UsersEstimate": 1639
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -1398,7 +1403,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -1406,7 +1411,7 @@
       "Name": "License to Gill",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1105
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -1438,7 +1443,7 @@
       "Name": "Goldfish?",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -1454,7 +1459,7 @@
       "Name": "School\u0027s Out for Summer",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACHIEVEMENT_017",
@@ -1494,7 +1499,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -1502,7 +1507,7 @@
       "Name": "Diamond in the Rough",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -1613,13 +1618,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 3559,
+      "Progressed": 3563,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 2931,
+      "Progressed": 2935,
       "Completed": 112
     }
   ],
@@ -1627,8 +1632,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-05-14T03:00:04.4008144+00:00",
-  "LastChanged_Achievements": "2023-05-19T14:02:19.6456599+00:00",
+  "LastChanged_Achievements": "2023-05-19T15:03:18.0692106+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:44.4232926+00:00",
-  "LastUpdate_Ratings": "2023-05-19T13:59:11.4882844+00:00",
-  "LastUpdate_Achievements": "2023-05-19T14:02:19.6456928+00:00"
+  "LastUpdate_Ratings": "2023-05-19T15:00:09.0304847+00:00",
+  "LastUpdate_Achievements": "2023-05-19T15:03:18.0692395+00:00"
 }

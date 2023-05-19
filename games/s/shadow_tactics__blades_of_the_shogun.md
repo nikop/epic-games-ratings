@@ -6,25 +6,25 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~16,879 |
-| Thorough | 9.00% | ~15,191 |
-| A thief's beginning | 7.00% | ~11,815 |
-| Tanuki Time | 7.00% | ~11,815 |
-| Disguised | 6.00% | ~10,127 |
-| Jonin | 6.00% | ~10,127 |
-| Rescue Takuma | 6.00% | ~10,127 |
-| Rollin' | 6.00% | ~10,127 |
-| Chunin | 5.00% | ~8,439 |
-| Happy Planning | 5.00% | ~8,439 |
-| Ice Ice Yuki | 5.00% | ~8,439 |
-| Mugen Unchained | 5.00% | ~8,439 |
-| Stoned Ox | 5.00% | ~8,439 |
-| Yabu | 5.00% | ~8,439 |
-| Flying Rocks | 4.00% | ~6,751 |
-| Okkoto | 4.00% | ~6,751 |
-| Prisoners | 4.00% | ~6,751 |
-| Too Early | 4.00% | ~6,751 |
-| Warzone | 4.00% | ~6,751 |
+| Genin | 10.00% | ~16,881 |
+| Thorough | 9.00% | ~15,193 |
+| A thief's beginning | 7.00% | ~11,816 |
+| Tanuki Time | 7.00% | ~11,816 |
+| Disguised | 6.00% | ~10,128 |
+| Jonin | 6.00% | ~10,128 |
+| Rescue Takuma | 6.00% | ~10,128 |
+| Rollin' | 6.00% | ~10,128 |
+| Chunin | 5.00% | ~8,440 |
+| Happy Planning | 5.00% | ~8,440 |
+| Ice Ice Yuki | 5.00% | ~8,440 |
+| Mugen Unchained | 5.00% | ~8,440 |
+| Stoned Ox | 5.00% | ~8,440 |
+| Yabu | 5.00% | ~8,440 |
+| Flying Rocks | 4.00% | ~6,752 |
+| Okkoto | 4.00% | ~6,752 |
+| Prisoners | 4.00% | ~6,752 |
+| Too Early | 4.00% | ~6,752 |
+| Warzone | 4.00% | ~6,752 |
 | Gear up | 3.00% | ~5,064 |
 | Happy little accidents | 3.00% | ~5,064 |
 | Noboru | 3.00% | ~5,064 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~169 |
 | Release the Kraken | 0.10% | ~169 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 168,787 (Ranked 50)  
+Progressed: 168,806 (Ranked 50)  
 Completed: 44 (0.03%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 44 (0.03%) (Ranked 182)
 | 2023-05-16 | 168,061 | 44 |
 | 2023-05-17 | 168,316 | 44 |
 | 2023-05-18 | 168,601 | 44 |
-| 2023-05-19 | 168,787 | 44 |
+| 2023-05-19 | 168,806 | 44 |
 ## Awards
 Max (Great for Beginners): 548  (Ranked 174)  
 Sum: 4,663 (Ranked 126)  

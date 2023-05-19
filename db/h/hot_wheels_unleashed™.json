@@ -4,10 +4,10 @@
   "ProductSlug": "hot-wheels-unleashed",
   "Ranking_Rating": 383,
   "Ranking_Popularity": 421,
-  "Ranking_PopularitySum": 317,
+  "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-09-30T16:00:00+00:00",
@@ -456,10 +456,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 341,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-05-19T14:57:35.5866944+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 342,
+      "NumberOfAwardsMax": 36
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 341,
+  "NumberOfAwards": 342,
   "NumberOfAwardsMax": 36,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -485,7 +491,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game is Relaxing",
@@ -547,8 +553,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:07.8982996+00:00",
-  "LastChanged": "2023-05-12T22:57:24.7484261+00:00",
+  "LastChanged": "2023-05-19T14:57:35.5866942+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:19.9693247+00:00",
-  "LastUpdate_Ratings": "2023-05-19T13:57:11.2214929+00:00",
-  "LastUpdate_Achievements": "2023-05-19T14:03:42.8085409+00:00"
+  "LastUpdate_Ratings": "2023-05-19T14:57:35.5866947+00:00",
+  "LastUpdate_Achievements": "2023-05-19T15:04:22.4436232+00:00"
 }

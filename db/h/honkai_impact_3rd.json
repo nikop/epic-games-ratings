@@ -2,12 +2,12 @@
   "ID": "d2d162953fec40e381867d7af8371362",
   "Name": "Honkai Impact 3rd",
   "ProductSlug": "honkai-impact-3rd",
-  "Ranking_Rating": 533,
+  "Ranking_Rating": 534,
   "Ranking_Popularity": 95,
   "Ranking_PopularitySum": 94,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 285,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-10-27T06:00:00+00:00",
@@ -2276,10 +2276,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 7957,
       "NumberOfAwardsMax": 2340
+    },
+    {
+      "Time": "2023-05-19T14:58:37.9440656+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 7960,
+      "NumberOfAwardsMax": 2340
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7957,
+  "NumberOfAwards": 7960,
   "NumberOfAwardsMax": 2340,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2341,7 +2347,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 326
+      "Count": 329
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2380,8 +2386,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-27T11:30:26.4233372+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
-  "LastChanged": "2023-05-19T13:02:16.7058594+00:00",
+  "LastChanged": "2023-05-19T14:58:37.9440654+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:18.7496069+00:00",
-  "LastUpdate_Ratings": "2023-05-19T13:58:02.1131186+00:00",
-  "LastUpdate_Achievements": "2023-05-19T13:59:52.8525884+00:00"
+  "LastUpdate_Ratings": "2023-05-19T14:58:37.944066+00:00",
+  "LastUpdate_Achievements": "2023-05-19T15:01:01.4818364+00:00"
 }

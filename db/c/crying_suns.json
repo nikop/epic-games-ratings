@@ -2,7 +2,7 @@
   "ID": "0a4fc789eb0143c29296de79df5387ab",
   "Name": "Crying Suns",
   "ProductSlug": "crying-suns",
-  "Ranking_Rating": 533,
+  "Ranking_Rating": 534,
   "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 29,
@@ -538,9 +538,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 458431,
+  "EOS_Progressed": 458442,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 663,
+  "EOS_NewPlayers": 670,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3143,6 +3143,11 @@
       "Time": "2023-05-19T14:05:21.2473605+00:00",
       "NumProgressed": 458431,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-19T15:06:23.7962954+00:00",
+      "NumProgressed": 458442,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 79,
@@ -3192,9 +3197,9 @@
       "ID": "achievement_story_complete_chapter_3",
       "SetID": "8cokdon",
       "Name": "Chapter III: The Man Who Sold the World",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -3248,9 +3253,9 @@
       "ID": "achievement_story_landa",
       "SetID": "8cokdon",
       "Name": "Kill the Doctor",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_story_meet_cryo_rebecca",
@@ -3304,9 +3309,9 @@
       "ID": "achievement_story_meet_tetsuo",
       "SetID": "8cokdon",
       "Name": "Tetsuo",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -3344,9 +3349,9 @@
       "ID": "achievement_story_see_ganyma",
       "SetID": "8cokdon",
       "Name": "Back to Ganyma",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_story_spare_oberon",
@@ -3392,9 +3397,9 @@
       "ID": "achievement_unlock_officer_empire_1",
       "SetID": "8cokdon",
       "Name": "The Tech Specialist",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_unlock_officer_empire_2",
@@ -3440,9 +3445,9 @@
       "ID": "achievement_unlock_officer_pirate_2",
       "SetID": "8cokdon",
       "Name": "The Smuggler",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_unlock_officer_scrapper_1",
@@ -3656,9 +3661,9 @@
       "ID": "achievement_win_run_with_scrapper",
       "SetID": "8cokdon",
       "Name": "Kaos Rule",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_win_run_with_starter",
@@ -3785,21 +3790,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 2365,
+      "Progressed": 2376,
       "Completed": 2346
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 458431,
+      "Progressed": 458442,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-19T14:05:21.2473601+00:00",
+  "LastChanged_Achievements": "2023-05-19T15:06:23.7962949+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:09.480967+00:00",
-  "LastUpdate_Ratings": "2023-05-19T13:58:44.3316753+00:00",
-  "LastUpdate_Achievements": "2023-05-19T14:05:21.247464+00:00"
+  "LastUpdate_Ratings": "2023-05-19T14:59:33.6066649+00:00",
+  "LastUpdate_Achievements": "2023-05-19T15:06:23.7963982+00:00"
 }

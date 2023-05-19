@@ -652,9 +652,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1979,
+  "EOS_Progressed": 1980,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1022,6 +1022,11 @@
       "Time": "2023-05-19T11:06:57.9793434+00:00",
       "NumProgressed": 1979,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T15:05:58.3719256+00:00",
+      "NumProgressed": 1980,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1033,7 +1038,7 @@
       "Name": "Backpacker",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_BING-BONG",
@@ -1137,7 +1142,7 @@
       "Name": "Go with the Flow",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_GOAT-STATUS",
@@ -1337,7 +1342,7 @@
       "Name": "The finer things in life",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -1416,15 +1421,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 1979,
+      "Progressed": 1980,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-05-19T07:58:43.4333069+00:00",
-  "LastChanged_Achievements": "2023-05-19T14:04:59.5834861+00:00",
+  "LastChanged_Achievements": "2023-05-19T15:05:58.371925+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:00.0773192+00:00",
-  "LastUpdate_Ratings": "2023-05-19T13:58:36.3002827+00:00",
-  "LastUpdate_Achievements": "2023-05-19T14:04:59.5835276+00:00"
+  "LastUpdate_Ratings": "2023-05-19T14:59:22.6563606+00:00",
+  "LastUpdate_Achievements": "2023-05-19T15:05:58.371967+00:00"
 }

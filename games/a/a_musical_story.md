@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ECG | 98.00% | ~52 |
-| Rehearsal | 96.00% | ~51 |
-| Daily Life | 92.00% | ~49 |
-| Assembly Line Work | 87.00% | ~46 |
-| Solitude | 85.00% | ~45 |
-| Pinewood, Here we come! | 75.00% | ~40 |
-| The Van | 66.00% | ~35 |
-| Road-Trip | 58.00% | ~31 |
-| A Musical Pause | 57.00% | ~30 |
-| Sound of Noise | 45.00% | ~24 |
-| Briget's | 45.00% | ~24 |
-| Big City Music | 40.00% | ~21 |
-| Love at First Sight | 40.00% | ~21 |
-| First Kiss | 36.00% | ~19 |
-| A Bigger Band | 32.00% | ~17 |
+| ECG | 98.00% | ~53 |
+| Rehearsal | 96.00% | ~52 |
+| Daily Life | 93.00% | ~50 |
+| Assembly Line Work | 87.00% | ~47 |
+| Solitude | 85.00% | ~46 |
+| Pinewood, Here we come! | 76.00% | ~41 |
+| The Van | 67.00% | ~36 |
+| Road-Trip | 59.00% | ~32 |
+| A Musical Pause | 57.00% | ~31 |
+| Sound of Noise | 46.00% | ~25 |
+| Briget's | 46.00% | ~25 |
+| Big City Music | 41.00% | ~22 |
+| Love at First Sight | 41.00% | ~22 |
+| First Kiss | 35.00% | ~19 |
+| A Bigger Band | 31.00% | ~17 |
+| Symbiosis | 31.00% | ~17 |
 | Fuel | 30.00% | ~16 |
-| Symbiosis | 30.00% | ~16 |
 | Alone Together | 28.00% | ~15 |
 | Threatening Nature | 26.00% | ~14 |
-| TV Dreams | 25.00% | ~13 |
-| Flat Tire | 23.00% | ~12 |
-| The Clash | 23.00% | ~12 |
-| Dreamers | 17.00% | ~9 |
+| TV Dreams | 24.00% | ~13 |
+| Flat Tire | 22.00% | ~12 |
+| The Clash | 22.00% | ~12 |
+| Dreamers | 19.00% | ~10 |
 | Regrets | 15.00% | ~8 |
 | The Accident | 15.00% | ~8 |
 | The Fix | 15.00% | ~8 |
@@ -36,9 +36,9 @@
 | Here we go again! | 11.00% | ~6 |
 | The Mountains, The Valleys | 11.00% | ~6 |
 | Time | 9.00% | ~5 |
-| On the Road Again | 8.00% | ~4 |
-| Chase the Crow | 8.00% | ~4 |
-| Milk and Alcohol | 8.00% | ~4 |
+| On the Road Again | 7.00% | ~4 |
+| Chase the Crow | 7.00% | ~4 |
+| Milk and Alcohol | 7.00% | ~4 |
 | Gasoline | 6.00% | ~3 |
 | Under the Bridge | 6.00% | ~3 |
 | As the Crow Flies | 6.00% | ~3 |
@@ -59,15 +59,15 @@
 | Pinewood | 2.00% | ~1 |
 | Love is All | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53 (Ranked 282)  
-Completed: 1 (1.89%) (Ranked 63)  
+Progressed: 54 (Ranked 282)  
+Completed: 1 (1.85%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 50 | 1 |
 | 2023-05-04 | 51 | 1 |
 | 2023-05-10 | 52 | 1 |
-| 2023-05-19 | 53 | 1 |
+| 2023-05-19 | 54 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

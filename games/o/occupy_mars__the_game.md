@@ -5,25 +5,25 @@ Rating: 3.68 (Ranked 920)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 30.00% | ~130 |
-| Electrician | 21.00% | ~91 |
-| Fear my botany powers, Mars | 15.00% | ~65 |
-| Zero Waste | 13.00% | ~56 |
-| I am the greatest botanist on this planet. | 10.00% | ~43 |
-| Bob The Builder | 10.00% | ~43 |
-| Houston we have a problem | 9.00% | ~39 |
-| Occupy Mars! | 9.00% | ~39 |
-| Miner | 6.00% | ~26 |
-| Detective | 3.00% | ~13 |
-| Gardener | 3.00% | ~13 |
+| I don't feel so good | 30.00% | ~134 |
+| Electrician | 21.00% | ~94 |
+| Fear my botany powers, Mars | 14.00% | ~62 |
+| Zero Waste | 13.00% | ~58 |
+| I am the greatest botanist on this planet. | 11.00% | ~49 |
+| Occupy Mars! | 10.00% | ~45 |
+| Bob The Builder | 10.00% | ~45 |
+| Houston we have a problem | 9.00% | ~40 |
+| Miner | 7.00% | ~31 |
+| Gardener | 4.00% | ~18 |
 | Get your hands dirty | 3.00% | ~13 |
+| Detective | 2.00% | ~9 |
 | All Wheel Trouble | 1.00% | ~4 |
 | ITS crash site | 0.90% | ~4 |
 | Space Forest | 0.90% | ~4 |
-| The Collector | 0.50% | ~2 |
-| “Aliens” | 0.50% | ~2 |
-| Caveman | 0.50% | ~2 |
-| DeDust | 0.50% | ~2 |
+| The Collector | 0.40% | ~2 |
+| “Aliens” | 0.40% | ~2 |
+| Caveman | 0.40% | ~2 |
+| DeDust | 0.40% | ~2 |
 | Cooking Vegetables | 0.20% | ~1 |
 | Driver's License | 0.20% | ~1 |
 | Explosive Miner | 0.20% | ~1 |
@@ -54,7 +54,7 @@ Rating: 3.68 (Ranked 920)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 432 (Ranked 193)  
+Progressed: 446 (Ranked 192)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,7 +66,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-16 | 9 | 0 |
 | 2023-05-17 | 10 | 0 |
 | 2023-05-18 | 287 | 0 |
-| 2023-05-19 | 432 | 0 |
+| 2023-05-19 | 446 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 419,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
@@ -265,9 +265,9 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 703,
+  "EOS_Progressed": 704,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -309,6 +309,11 @@
     {
       "Time": "2023-05-19T13:09:26.1442178+00:00",
       "NumProgressed": 703,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-19T15:06:13.9030031+00:00",
+      "NumProgressed": 704,
       "NumCompleted": 1
     }
   ],
@@ -831,9 +836,9 @@
       "ID": "AchievementToTheEyeballs",
       "SetID": "76o014g",
       "Name": "To the eyeballs!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 35
     },
     {
       "ID": "AchievementTourismAge",
@@ -920,21 +925,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 44,
+      "Progressed": 45,
       "Completed": 6
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 703,
+      "Progressed": 704,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-05-04T07:57:22.9551284+00:00",
-  "LastChanged_Achievements": "2023-05-19T14:05:12.990305+00:00",
+  "LastChanged_Achievements": "2023-05-19T15:06:13.9030026+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:25.4877513+00:00",
-  "LastUpdate_Ratings": "2023-05-19T13:57:16.2774887+00:00",
-  "LastUpdate_Achievements": "2023-05-19T14:05:12.9903763+00:00"
+  "LastUpdate_Ratings": "2023-05-19T14:57:41.9016617+00:00",
+  "LastUpdate_Achievements": "2023-05-19T15:06:13.9030829+00:00"
 }

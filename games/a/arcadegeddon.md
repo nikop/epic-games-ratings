@@ -6,39 +6,39 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~5,882 |
-| Photogenic | 87.00% | ~5,624 |
-| Surge Gauntlet Jockey | 85.00% | ~5,494 |
-| Plug It In | 84.00% | ~5,430 |
-| Adventure Time | 80.00% | ~5,171 |
-| Playing With Power | 77.00% | ~4,977 |
-| You're Fired | 59.00% | ~3,814 |
-| Coup d'Etat | 58.00% | ~3,749 |
-| Get Furious | 55.00% | ~3,555 |
-| Gunplay And Cosplay | 55.00% | ~3,555 |
-| Hacks In Stacks | 54.00% | ~3,491 |
-| Meching Enemies | 49.00% | ~3,167 |
-| Booty Bashing | 47.00% | ~3,038 |
-| Ticket Toddler | 47.00% | ~3,038 |
-| Field Medic | 37.00% | ~2,392 |
-| Here Comes a New Challenger | 37.00% | ~2,392 |
-| Guardian Angel | 33.00% | ~2,133 |
-| Rapid Response | 32.00% | ~2,068 |
-| The Full Monty | 32.00% | ~2,068 |
-| Surge Ahead | 31.00% | ~2,004 |
-| Poppin Noggins | 25.00% | ~1,616 |
-| Clips and Crits | 23.00% | ~1,487 |
-| Grey Goo | 21.00% | ~1,357 |
+| Let's Get This Party Started | 91.00% | ~5,887 |
+| Photogenic | 87.00% | ~5,628 |
+| Surge Gauntlet Jockey | 85.00% | ~5,499 |
+| Plug It In | 84.00% | ~5,434 |
+| Adventure Time | 80.00% | ~5,175 |
+| Playing With Power | 77.00% | ~4,981 |
+| Coup d'Etat | 58.00% | ~3,752 |
+| You're Fired | 58.00% | ~3,752 |
+| Get Furious | 55.00% | ~3,558 |
+| Gunplay And Cosplay | 55.00% | ~3,558 |
+| Hacks In Stacks | 54.00% | ~3,493 |
+| Meching Enemies | 49.00% | ~3,170 |
+| Booty Bashing | 47.00% | ~3,040 |
+| Ticket Toddler | 47.00% | ~3,040 |
+| Field Medic | 37.00% | ~2,394 |
+| Here Comes a New Challenger | 37.00% | ~2,394 |
+| Guardian Angel | 33.00% | ~2,135 |
+| Rapid Response | 32.00% | ~2,070 |
+| The Full Monty | 32.00% | ~2,070 |
+| Surge Ahead | 31.00% | ~2,005 |
+| Poppin Noggins | 25.00% | ~1,617 |
+| Clips and Crits | 23.00% | ~1,488 |
+| Grey Goo | 21.00% | ~1,358 |
 | Boss of Bosses | 15.00% | ~970 |
 | The Final Blow | 15.00% | ~970 |
-| Light My Fire | 14.00% | ~905 |
-| Seasoned Adventurer | 13.00% | ~840 |
+| Light My Fire | 14.00% | ~906 |
+| Seasoned Adventurer | 13.00% | ~841 |
 | 1.21 Gigawatts | 12.00% | ~776 |
 | To Be Continued | 12.00% | ~776 |
-| This Is My Boomstick! | 11.00% | ~711 |
+| This Is My Boomstick! | 11.00% | ~712 |
 | Get In The Ring! | 9.00% | ~582 |
-| Ticket Titan | 8.00% | ~517 |
-| Rescue Ranger | 7.00% | ~452 |
+| Ticket Titan | 8.00% | ~518 |
+| Rescue Ranger | 7.00% | ~453 |
 | Surge Gauntlet Scholar | 6.00% | ~388 |
 | No Chill | 5.00% | ~323 |
 | Stop Hitting Yourself | 5.00% | ~323 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.50% | ~32 |
 | Pyrotechnical | 0.20% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,464 (Ranked 113)  
+Progressed: 6,469 (Ranked 113)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-16 | 6,403 | 0 |
 | 2023-05-17 | 6,416 | 0 |
 | 2023-05-18 | 6,438 | 0 |
-| 2023-05-19 | 6,464 | 0 |
+| 2023-05-19 | 6,469 | 0 |
 ## Awards
 Max (Relaxing): 62  (Ranked 375)  
 Sum: 484 (Ranked 292)  

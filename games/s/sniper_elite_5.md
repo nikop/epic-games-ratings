@@ -8,23 +8,25 @@ Rating: 4.41 (Ranked 657)
 | Meeting Resistance | 2.00% | ~16 |
 | Confirming Suspicions | 1.00% | ~8 |
 | Resourceful | 0.90% | ~7 |
+| Enemy at the Gates | 0.60% | ~5 |
 | The Long Game | 0.60% | ~5 |
 | Lord of War | 0.60% | ~5 |
 | As Quiet as a Mouse | 0.60% | ~5 |
-| Enemy at the Gates | 0.50% | ~4 |
+| Taking it back | 0.60% | ~5 |
 | Organ Grinder | 0.50% | ~4 |
+| The Kraken Wakes | 0.50% | ~4 |
 | It's Starting to Crack | 0.50% | ~4 |
-| Taking it back | 0.50% | ~4 |
 | Opposing Force | 0.40% | ~3 |
 | Strategist | 0.40% | ~3 |
 | Gunslinger | 0.40% | ~3 |
 | Skirmisher | 0.40% | ~3 |
 | Sharpshooter | 0.40% | ~3 |
 | Precision Is Key | 0.40% | ~3 |
-| The Kraken Wakes | 0.40% | ~3 |
+| Snake in the Grass | 0.40% | ~3 |
 | Climbing the Ladder | 0.30% | ~2 |
 | No Stone Unturned | 0.30% | ~2 |
-| Snake in the Grass | 0.30% | ~2 |
+| Just a Flesh Wound | 0.30% | ~2 |
+| Explosive Efficiency | 0.30% | ~2 |
 | Change the Channel | 0.30% | ~2 |
 | Don't hold your breath | 0.30% | ~2 |
 | Target America | 0.30% | ~2 |
@@ -33,9 +35,7 @@ Rating: 4.41 (Ranked 657)
 | Sink or Swim | 0.30% | ~2 |
 | Liberté | 0.10% | ~1 |
 | Fields of Glory | 0.10% | ~1 |
-| Just a Flesh Wound | 0.10% | ~1 |
 | Rigged to Blow | 0.10% | ~1 |
-| Explosive Efficiency | 0.10% | ~1 |
 | Der Geist | 0.10% | ~1 |
 | Close Quarters | 0.10% | ~1 |
 | Burn after reading | 0.10% | ~1 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 657)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 786 (Ranked 171)  
+Progressed: 791 (Ranked 171)  
 Completed: 2 (0.25%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 2 (0.25%) (Ranked 133)
 | 2023-05-16 | 723 | 2 |
 | 2023-05-17 | 728 | 2 |
 | 2023-05-18 | 743 | 2 |
-| 2023-05-19 | 786 | 2 |
+| 2023-05-19 | 791 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

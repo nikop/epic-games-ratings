@@ -1,21 +1,21 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.47 (Ranked 581)  
+Rating: 4.47 (Ranked 580)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | On My Own Two Feet | 94.00% | ~3,972 |
-| I'll Be Back | 84.00% | ~3,549 |
-| Sorry, I Dropped This | 77.00% | ~3,253 |
-| First Day on the Job | 76.00% | ~3,211 |
+| I'll Be Back | 84.00% | ~3,550 |
+| Sorry, I Dropped This | 77.00% | ~3,254 |
+| First Day on the Job | 76.00% | ~3,212 |
 | Butcher's Bill | 55.00% | ~2,324 |
-| P.A.X | 37.00% | ~1,563 |
+| P.A.X | 37.00% | ~1,564 |
 | Hey Listen | 36.00% | ~1,521 |
 | OPERATOR | 35.00% | ~1,479 |
-| It's Blue Light | 33.00% | ~1,394 |
-| Most Wanted | 26.00% | ~1,098 |
+| It's Blue Light | 33.00% | ~1,395 |
+| Most Wanted | 26.00% | ~1,099 |
 | Infidel | 23.00% | ~972 |
 | GOLIATH | 21.00% | ~887 |
 | Firebug | 20.00% | ~845 |
@@ -30,7 +30,7 @@ Number of Ratings: 62  (23.09.2022)
 | CREO Killed the Video Star | 11.00% | ~465 |
 | Who's in Charge Here? | 11.00% | ~465 |
 | Shall Not Pass | 11.00% | ~465 |
-| Right Tool for the Job | 10.00% | ~422 |
+| Right Tool for the Job | 10.00% | ~423 |
 | Raging Drones | 9.00% | ~380 |
 | Overconfident | 9.00% | ~380 |
 | Pusher Man | 8.00% | ~338 |
@@ -54,18 +54,18 @@ Number of Ratings: 62  (23.09.2022)
 | Turing Test | 3.00% | ~127 |
 | Repeat Customer | 3.00% | ~127 |
 | Evolution Theory | 3.00% | ~127 |
-| Ghost in the Machine | 2.00% | ~84 |
-| Homo Machinalis | 2.00% | ~84 |
-| Was That Yours? | 2.00% | ~84 |
-| Guard Dog | 2.00% | ~84 |
-| Carbon Cat vs Iron Maus | 2.00% | ~84 |
-| Dress Up | 2.00% | ~84 |
-| New Gear | 2.00% | ~84 |
-| Good Listener | 2.00% | ~84 |
-| One-Armed Bandit | 2.00% | ~84 |
-| Episodic | 2.00% | ~84 |
-| End of Transmission | 2.00% | ~84 |
-| Gramophone Enthusiast | 2.00% | ~84 |
+| Ghost in the Machine | 2.00% | ~85 |
+| Homo Machinalis | 2.00% | ~85 |
+| Was That Yours? | 2.00% | ~85 |
+| Guard Dog | 2.00% | ~85 |
+| Carbon Cat vs Iron Maus | 2.00% | ~85 |
+| Dress Up | 2.00% | ~85 |
+| New Gear | 2.00% | ~85 |
+| Good Listener | 2.00% | ~85 |
+| One-Armed Bandit | 2.00% | ~85 |
+| Episodic | 2.00% | ~85 |
+| End of Transmission | 2.00% | ~85 |
+| Gramophone Enthusiast | 2.00% | ~85 |
 | Bling-Bling | 1.00% | ~42 |
 | Sniffing Around | 0.70% | ~30 |
 | Suited and Booted | 0.70% | ~30 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.50% | ~21 |
 | The Surge | 0.40% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,225 (Ranked 126)  
+Progressed: 4,226 (Ranked 126)  
 Completed: 13 (0.31%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 13 (0.31%) (Ranked 125)
 | 2023-05-15 | 4,216 | 13 |
 | 2023-05-16 | 4,217 | 13 |
 | 2023-05-18 | 4,221 | 13 |
-| 2023-05-19 | 4,225 | 13 |
+| 2023-05-19 | 4,226 | 13 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 460)  
 Sum: 26 (Ranked 465)  

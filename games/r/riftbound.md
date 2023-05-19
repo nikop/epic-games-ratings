@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adventure Time | 73.00% | ~8 |
+| Adventure Time | 82.00% | ~9 |
 | Master Of The Arts | 45.00% | ~5 |
 | Close Call | 18.00% | ~2 |
 | Adept Summoner | 0.00% | ~0 |

@@ -5,10 +5,11 @@ Rating: 4.17 (Ranked 834)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 0.50% | ~306 |
+| First Step Into the Knight | 0.60% | ~367 |
 | Gotham Knight | 0.50% | ~306 |
 | The Batman Family | 0.40% | ~244 |
 | End of an Era | 0.40% | ~244 |
+| In Your Element | 0.40% | ~244 |
 | Protector of Gotham | 0.40% | ~244 |
 | Something in the Clay | 0.40% | ~244 |
 | The Show Mud Go On | 0.40% | ~244 |
@@ -31,7 +32,6 @@ Rating: 4.17 (Ranked 834)
 | From Inside Gotham's Walls | 0.40% | ~244 |
 | Voiceless | 0.40% | ~244 |
 | Seeking Asylum | 0.40% | ~244 |
-| In Your Element | 0.30% | ~183 |
 | Not On My Watch | 0.30% | ~183 |
 | Bulldozed | 0.30% | ~183 |
 | Out of Their League | 0.30% | ~183 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 834)
 | Confronting Your Demon | 0.10% | ~31 |
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,113 (Ranked 67)  
+Progressed: 61,123 (Ranked 67)  
 Completed: 91 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 91 (0.15%) (Ranked 148)
 | 2023-05-16 | 60,923 | 91 |
 | 2023-05-17 | 60,939 | 91 |
 | 2023-05-18 | 61,004 | 91 |
-| 2023-05-19 | 61,113 | 91 |
+| 2023-05-19 | 61,123 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,222  (Ranked 98)  
 Sum: 3,684 (Ranked 137)  
