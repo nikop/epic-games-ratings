@@ -1,10 +1,8 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [Backbeat](games/b/backbeat.md) | 2023-05-19 | 2023-03-16 |
-| [Minimal Move](games/m/minimal_move.md) | 2023-05-19 | 2021-03-30 |
-| [Volley Pals](games/v/volley_pals.md) | 2023-05-19 | 2023-04-06 |
 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 2023-05-19 | 2023-05-19 |
 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 2023-05-19 | 2022-02-03 |
+| [FPVSIM FPV Simulator](games/a/acb4a47d0bae433e8d721807c5849b99.md) | 2023-05-19 | 2023-05-19 |
 | [Quantum Storm](games/q/quantum_storm.md) | 2023-05-19 | 2023-05-19 |
 | [Timothy vs the Aliens](games/8/8b24875aea504fdc8032dff4fcdf31d4.md) | 2023-05-19 | 2021-07-21 |
 | [Sir Whoopass - Immortal Death](games/s/sir_whoopass_-_immortal_death.md) | 2023-05-19 | 2022-08-18 |
@@ -34,7 +32,6 @@
 | [Beach Invasion 1944](games/b/beach_invasion_1944.md) | 2023-05-31 | 2022-12-02 |
 | [Bob A thousand lives](games/b/bob_a_thousand_lives.md) | 2023-05-31 | 2022-09-06 |
 | [Death or Treat](games/d/death_or_treat.md) | 2023-05-31 | 2023-05-31 |
-| [FPVSIM FPV Simulator](games/a/acb4a47d0bae433e8d721807c5849b99.md) | 2023-05-31 | 2023-06-30 |
 | [Heroes of Shaola](games/h/heroes_of_shaola.md) | 2023-05-31 | 2019-08-01 |
 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 2023-05-31 | 2022-10-18 |
 | [Operation New Earth](games/o/operation_new_earth.md) | 2023-05-31 | 2016-12-14 |
