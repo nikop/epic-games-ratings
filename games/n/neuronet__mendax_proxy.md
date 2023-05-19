@@ -13,10 +13,10 @@
 | Vaccinated | 50.00% | ~9 |
 | A Light in the Dark | 44.00% | ~8 |
 | Busybody | 44.00% | ~8 |
+| Socially Acceptable Insanity | 44.00% | ~8 |
 | Task Master | 44.00% | ~8 |
 | Warning: Fragile | 44.00% | ~8 |
 | An Acquired Taste | 39.00% | ~7 |
-| Socially Acceptable Insanity | 39.00% | ~7 |
 | The Guardian | 33.00% | ~6 |
 | Blood Begets Blood | 33.00% | ~6 |
 | Endgame | 33.00% | ~6 |

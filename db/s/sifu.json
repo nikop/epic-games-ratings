@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 64,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4024,10 +4024,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10333,
       "NumberOfAwardsMax": 6075
+    },
+    {
+      "Time": "2023-05-19T21:58:25.1691811+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10334,
+      "NumberOfAwardsMax": 6075
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10333,
+  "NumberOfAwards": 10334,
   "NumberOfAwardsMax": 6075,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4095,7 +4101,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 476
+      "Count": 477
     },
     {
       "Text": "This game has a Creative Community",
@@ -4104,9 +4110,9 @@
       "Count": 347
     }
   ],
-  "EOS_Progressed": 703556,
+  "EOS_Progressed": 703563,
   "EOS_Completed": 12731,
-  "EOS_NewPlayers": 702,
+  "EOS_NewPlayers": 708,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -6379,6 +6385,11 @@
       "Time": "2023-05-19T21:05:03.4693536+00:00",
       "NumProgressed": 703556,
       "NumCompleted": 12731
+    },
+    {
+      "Time": "2023-05-19T22:05:18.7261517+00:00",
+      "NumProgressed": 703563,
+      "NumCompleted": 12731
     }
   ],
   "TotalAchievements": 50,
@@ -6406,7 +6417,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5628
+      "UsersEstimate": 5629
     },
     {
       "ID": "04_Vengeance_H3",
@@ -6414,7 +6425,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5628
+      "UsersEstimate": 5629
     },
     {
       "ID": "05_Vengeance_H4",
@@ -6574,7 +6585,7 @@
       "Name": "State of constant learning",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5628
+      "UsersEstimate": 5629
     },
     {
       "ID": "25_ShrineMind",
@@ -6670,7 +6681,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5628
+      "UsersEstimate": 5629
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -6678,7 +6689,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5628
+      "UsersEstimate": 5629
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -6734,7 +6745,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -6789,21 +6800,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 12857,
+      "Progressed": 12864,
       "Completed": 10123
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 703556,
+      "Progressed": 703563,
       "Completed": 12731
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-05-19T19:17:15.4816764+00:00",
-  "LastChanged_Achievements": "2023-05-19T21:05:03.4693529+00:00",
+  "LastChanged": "2023-05-19T21:58:25.1691809+00:00",
+  "LastChanged_Achievements": "2023-05-19T22:05:18.7261504+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.7579865+00:00",
-  "LastUpdate_Ratings": "2023-05-19T20:58:23.9767683+00:00",
-  "LastUpdate_Achievements": "2023-05-19T21:05:03.4694072+00:00"
+  "LastUpdate_Ratings": "2023-05-19T21:58:25.1691814+00:00",
+  "LastUpdate_Achievements": "2023-05-19T22:05:18.7261977+00:00"
 }

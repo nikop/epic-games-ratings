@@ -9,7 +9,7 @@
 | Cactus Vally | 28.00% | ~361 |
 | Rainy Ruins | 17.00% | ~219 |
 | Telepathic | 12.00% | ~155 |
-| Snowy Peak | 10.00% | ~129 |
+| Snowy Peak | 11.00% | ~142 |
 | Speed walkers | 9.00% | ~116 |
 | High Treetops | 8.00% | ~103 |
 | Blue Rapids | 7.00% | ~90 |

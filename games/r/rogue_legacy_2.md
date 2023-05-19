@@ -11,6 +11,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Harvest and Home | 0.40% | ~86 |
 | Poise and Poisons | 0.40% | ~86 |
 | Suns and Soldiers | 0.30% | ~65 |
+| For Glory | 0.20% | ~43 |
 | Hands and Hammers | 0.20% | ~43 |
 | King and Kin | 0.20% | ~43 |
 | Progenitor and Protégé | 0.20% | ~43 |
@@ -23,7 +24,6 @@ Number of Ratings: 1,331  (23.09.2022)
 | Erebus Purified | 0.10% | ~22 |
 | Looks Familiar | 0.10% | ~22 |
 | For Justice | 0.10% | ~22 |
-| For Glory | 0.10% | ~22 |
 | For Wrath | 0.10% | ~22 |
 | For Greed | 0.10% | ~22 |
 | For Survival | 0.10% | ~22 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,598 (Ranked 91)  
+Progressed: 21,602 (Ranked 91)  
 Completed: 35 (0.16%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 35 (0.16%) (Ranked 146)
 | 2023-05-16 | 21,530 | 35 |
 | 2023-05-17 | 21,536 | 35 |
 | 2023-05-18 | 21,558 | 35 |
-| 2023-05-19 | 21,598 | 35 |
+| 2023-05-19 | 21,602 | 35 |
 ## Awards
 Max (Extremely Fun): 215  (Ranked 251)  
 Sum: 1,628 (Ranked 201)  

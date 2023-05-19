@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You've met with a terrible fate haven't you? | 100.00% | ~3 |
-| Nothing in life is to be feared | 33.00% | ~1 |
-| Late night investigation | 33.00% | ~1 |
+| You've met with a terrible fate haven't you? | 75.00% | ~3 |
+| Nothing in life is to be feared | 25.00% | ~1 |
+| Late night investigation | 25.00% | ~1 |
 | Knock knock | 0.00% | ~0 |
 | It's a trap! | 0.00% | ~0 |
 | Like a ninja! | 0.00% | ~0 |
@@ -18,7 +18,7 @@
 | Never fade away | 0.00% | ~0 |
 | Thank you for playing! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 359)  
+Progressed: 4 (Ranked 354)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -26,3 +26,4 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-08 | 1 | 0 |
 | 2023-05-14 | 2 | 0 |
 | 2023-05-18 | 3 | 0 |
+| 2023-05-19 | 4 | 0 |

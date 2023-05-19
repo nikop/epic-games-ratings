@@ -4,7 +4,7 @@
   "ProductSlug": "lichenvale-091943",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-30T00:00:00+00:00",
@@ -25,9 +25,98 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "TotalAchievements": 11,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "IMMORTAL",
+      "SetID": "766gm71",
+      "Name": "Immortal",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_1_BOSS",
+      "SetID": "766gm71",
+      "Name": "Boogie\u0027d",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_2_BOSS",
+      "SetID": "766gm71",
+      "Name": "Fallen Lord",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_3_BOSS",
+      "SetID": "766gm71",
+      "Name": "Brutalized",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_4_BOSS",
+      "SetID": "766gm71",
+      "Name": "Always bet on the Blue Team",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_5_BOSS",
+      "SetID": "766gm71",
+      "Name": "Gorgone",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LEVEL_6_BOSS",
+      "SetID": "766gm71",
+      "Name": "Dethroned",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LORE_BOOK_ALL",
+      "SetID": "766gm71",
+      "Name": "Lore Master",
+      "Percentage": 0,
+      "XP": 175,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "LORE_BOOK_FIRST",
+      "SetID": "766gm71",
+      "Name": "Lore Novice",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MEMORALIA_ALL",
+      "SetID": "766gm71",
+      "Name": "Memorizer",
+      "Percentage": 0,
+      "XP": 175,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "MEMORALIA_FIRST",
+      "SetID": "766gm71",
+      "Name": "Remembrance",
+      "Percentage": 0,
+      "XP": 75,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "766gm71",
@@ -37,8 +126,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-19T10:02:19.9249451+00:00",
-  "LastChanged_Achievements": "2023-05-19T20:02:14.034137+00:00",
+  "LastChanged_Achievements": "2023-05-19T21:59:46.3137096+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:45.5744757+00:00",
-  "LastUpdate_Ratings": "2023-05-19T20:57:42.7703857+00:00",
-  "LastUpdate_Achievements": "2023-05-19T20:02:14.0341393+00:00"
+  "LastUpdate_Ratings": "2023-05-19T21:57:45.5193254+00:00",
+  "LastUpdate_Achievements": "2023-05-19T21:59:46.3137276+00:00"
 }

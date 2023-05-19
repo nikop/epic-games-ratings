@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1089,9 +1089,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 21598,
+  "EOS_Progressed": 21602,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2274,6 +2274,11 @@
       "Time": "2023-05-19T21:04:59.7661219+00:00",
       "NumProgressed": 21598,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-05-19T22:05:15.0538711+00:00",
+      "NumProgressed": 21602,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -2355,9 +2360,9 @@
       "ID": "BossCastleAdvancedDefeated",
       "SetID": "3ojhj46",
       "Name": "For Glory",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 43
     },
     {
       "ID": "BossCastleDefeated",
@@ -2596,21 +2601,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 21598,
+      "Progressed": 21602,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 528,
+      "Progressed": 532,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-05-18T23:00:19.112775+00:00",
-  "LastChanged_Achievements": "2023-05-19T21:04:59.7661214+00:00",
+  "LastChanged_Achievements": "2023-05-19T22:05:15.0538706+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:25.8639734+00:00",
-  "LastUpdate_Ratings": "2023-05-19T20:58:32.1054491+00:00",
-  "LastUpdate_Achievements": "2023-05-19T21:04:59.7661777+00:00"
+  "LastUpdate_Ratings": "2023-05-19T21:58:32.211871+00:00",
+  "LastUpdate_Achievements": "2023-05-19T22:05:15.053899+00:00"
 }

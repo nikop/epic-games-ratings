@@ -16,10 +16,10 @@ Number of Ratings: 125  (23.09.2022)
 | Off the Trail | 34.00% | ~517 |
 | Justice Served | 28.00% | ~426 |
 | Chain Reaction | 27.00% | ~410 |
+| Dishonored | 25.00% | ~380 |
 | Rain of Death | 25.00% | ~380 |
 | Scholar | 25.00% | ~380 |
 | Through Their Eyes | 25.00% | ~380 |
-| Dishonored | 24.00% | ~365 |
 | The Great Escape | 22.00% | ~334 |
 | That’s All, Folks | 18.00% | ~274 |
 | Fallen Star | 16.00% | ~243 |

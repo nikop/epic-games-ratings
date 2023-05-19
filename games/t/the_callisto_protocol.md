@@ -5,13 +5,13 @@ Rating: 4.18 (Ranked 829)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 2.00% | ~256 |
+| Flesh Wound | 2.00% | ~257 |
 | Giving Back | 1.00% | ~128 |
 | Chew 'Em Up | 1.00% | ~128 |
-| Instigator | 1.00% | ~7 |
-| Big Game Hunter | 1.00% | ~7 |
+| Instigator | 1.00% | ~8 |
+| Big Game Hunter | 1.00% | ~8 |
 | Bear Trap | 0.90% | ~7 |
-| Big Spender | 0.60% | ~4 |
+| Big Spender | 0.60% | ~5 |
 | Float Like A Butterfly | 0.50% | ~64 |
 | The Commonality | 0.40% | ~51 |
 | Mugshot | 0.40% | ~51 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 829)
 | I am the Danger | 0.00% | ~0 |
 | Subject Alpha | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,820 (Ranked 101)  
+Progressed: 12,834 (Ranked 101)  
 Completed: 51 (0.40%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 51 (0.40%) (Ranked 112)
 | 2023-05-16 | 12,566 | 49 |
 | 2023-05-17 | 12,567 | 49 |
 | 2023-05-18 | 12,620 | 51 |
-| 2023-05-19 | 12,820 | 51 |
+| 2023-05-19 | 12,834 | 51 |
 ## Awards
 Max (Amazing Storytelling): 46  (Ranked 397)  
 Sum: 246 (Ranked 341)  

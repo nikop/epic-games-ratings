@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabbage in the Baggage | 35.00% | ~8 |
-| Seven Days of Endless Adventure | 30.00% | ~7 |
-| Greengrocer | 30.00% | ~7 |
+| Cabbage in the Baggage | 33.00% | ~8 |
+| Seven Days of Endless Adventure | 29.00% | ~7 |
+| Greengrocer | 29.00% | ~7 |
 | Go-Getter | 17.00% | ~4 |
 | Seven Days of Endless Adventure - Déjà Vu | 13.00% | ~3 |
 | Just Hoverin' Along | 13.00% | ~3 |
@@ -16,19 +16,19 @@
 | Farm Life! | 13.00% | ~3 |
 | Handyman Extraordinaire | 13.00% | ~3 |
 | River Cleaner | 13.00% | ~3 |
-| A New Time | 9.00% | ~2 |
-| Beetle Savant | 9.00% | ~2 |
-| Cicada Connoisseur | 9.00% | ~2 |
-| My Fair Ladybug | 9.00% | ~2 |
-| The Holly Grail | 9.00% | ~2 |
-| What's That Smell? | 9.00% | ~2 |
-| Biwa Be Mine | 9.00% | ~2 |
-| Ice Fishing | 9.00% | ~2 |
-| Did Someone Order Ramen? | 9.00% | ~2 |
-| Top-Notch Journalist | 9.00% | ~2 |
-| Ptera Pal | 9.00% | ~2 |
-| DJ Superstar | 9.00% | ~2 |
-| Asso Bridge Enthusiast | 9.00% | ~2 |
+| A New Time | 8.00% | ~2 |
+| Beetle Savant | 8.00% | ~2 |
+| Cicada Connoisseur | 8.00% | ~2 |
+| My Fair Ladybug | 8.00% | ~2 |
+| The Holly Grail | 8.00% | ~2 |
+| What's That Smell? | 8.00% | ~2 |
+| Biwa Be Mine | 8.00% | ~2 |
+| Ice Fishing | 8.00% | ~2 |
+| Did Someone Order Ramen? | 8.00% | ~2 |
+| Top-Notch Journalist | 8.00% | ~2 |
+| Ptera Pal | 8.00% | ~2 |
+| DJ Superstar | 8.00% | ~2 |
+| Asso Bridge Enthusiast | 8.00% | ~2 |
 | Bee Professor | 4.00% | ~1 |
 | Grasshopper Guru | 4.00% | ~1 |
 | Butterfly Maestro | 4.00% | ~1 |
@@ -51,13 +51,14 @@
 | Gumdum Robot, I Choose You! | 0.00% | ~0 |
 | Dinosaur Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23 (Ranked 306)  
+Progressed: 24 (Ranked 305)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 22 | 0 |
 | 2023-05-07 | 23 | 0 |
+| 2023-05-19 | 24 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

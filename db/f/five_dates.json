@@ -2,9 +2,9 @@
   "ID": "e966687f61fa4c40b1e53b45b6e4eb75",
   "Name": "Five Dates",
   "ProductSlug": "five-dates-60ef51",
-  "Ranking_EOS_Progress": 200,
+  "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 360,
+  "EOS_Progressed": 361,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -172,6 +172,11 @@
       "Time": "2023-05-19T16:05:12.8205071+00:00",
       "NumProgressed": 360,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-19T22:05:00.9614849+00:00",
+      "NumProgressed": 361,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -183,7 +188,7 @@
       "Name": "All Set Up",
       "Percentage": 99,
       "XP": 100,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "booty_call",
@@ -197,9 +202,9 @@
       "ID": "crash_and_burn",
       "SetID": "c4ipj3h",
       "Name": "Crash and Burn",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 7
     },
     {
       "ID": "digital_casanova",
@@ -207,7 +212,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "hold_my_beer",
@@ -215,7 +220,7 @@
       "Name": "Hold my Beer",
       "Percentage": 64,
       "XP": 25,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -261,9 +266,9 @@
       "ID": "only_thyme_will_tell",
       "SetID": "c4ipj3h",
       "Name": "Only Thyme Will Tell",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 119
+      "UsersEstimate": 116
     },
     {
       "ID": "planting_the_seed",
@@ -285,9 +290,9 @@
       "ID": "sore_loser",
       "SetID": "c4ipj3h",
       "Name": "Sore Loser",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 25
     },
     {
       "ID": "we_go_again",
@@ -302,7 +307,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 360,
+      "Progressed": 361,
       "Completed": 3
     }
   ],
@@ -310,8 +315,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-05-19T21:04:45.8345745+00:00",
+  "LastChanged_Achievements": "2023-05-19T22:05:00.9614844+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:42.8167872+00:00",
-  "LastUpdate_Ratings": "2023-05-19T20:57:40.4123232+00:00",
-  "LastUpdate_Achievements": "2023-05-19T21:04:45.8345883+00:00"
+  "LastUpdate_Ratings": "2023-05-19T21:57:43.2283759+00:00",
+  "LastUpdate_Achievements": "2023-05-19T22:05:00.9614945+00:00"
 }

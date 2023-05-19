@@ -8,10 +8,10 @@
 | The Routine | 80.00% | ~73 |
 | Mother | 77.00% | ~70 |
 | Failure | 75.00% | ~68 |
-| Replace Fuse | 67.00% | ~61 |
-| Alarm | 64.00% | ~58 |
-| Air Filtration | 63.00% | ~57 |
-| Broken | 62.00% | ~56 |
+| Replace Fuse | 68.00% | ~62 |
+| Alarm | 65.00% | ~59 |
+| Air Filtration | 64.00% | ~58 |
+| Broken | 63.00% | ~57 |
 | Radiation | 60.00% | ~55 |
 | Descent | 59.00% | ~54 |
 | Awakenings | 57.00% | ~52 |
@@ -19,9 +19,9 @@
 | Sam | 53.00% | ~48 |
 | Churchill | 52.00% | ~47 |
 | Leave | 48.00% | ~44 |
+| Engineer | 48.00% | ~44 |
 | Commissioner | 47.00% | ~43 |
 | Doctor | 47.00% | ~43 |
-| Engineer | 47.00% | ~43 |
 | Soldier | 47.00% | ~43 |
 | Press Play | 37.00% | ~34 |
 | Bookworm | 25.00% | ~23 |

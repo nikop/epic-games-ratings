@@ -10,7 +10,7 @@ Number of Ratings: 46  (23.09.2022)
 | Imprint | 20.00% | ~109 |
 | Ravenous | 18.00% | ~98 |
 | The Hunt | 17.00% | ~93 |
-| Weeper | 15.00% | ~82 |
+| Weeper | 16.00% | ~87 |
 | Devourer | 12.00% | ~65 |
 | Scion | 10.00% | ~13 |
 | Glare | 10.00% | ~13 |

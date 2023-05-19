@@ -6,7 +6,7 @@ Rating: 4.41 (Ranked 656)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 3.00% | ~25 |
-| Confirming Suspicions | 2.00% | ~16 |
+| Confirming Suspicions | 2.00% | ~17 |
 | Enemy at the Gates | 1.00% | ~8 |
 | Lord of War | 1.00% | ~8 |
 | Resourceful | 1.00% | ~8 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 656)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 821 (Ranked 171)  
+Progressed: 829 (Ranked 171)  
 Completed: 2 (0.24%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 2 (0.24%) (Ranked 136)
 | 2023-05-16 | 723 | 2 |
 | 2023-05-17 | 728 | 2 |
 | 2023-05-18 | 743 | 2 |
-| 2023-05-19 | 821 | 2 |
+| 2023-05-19 | 829 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

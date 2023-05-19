@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 21348,
+  "EOS_Progressed": 21360,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 1097,
+  "EOS_NewPlayers": 1102,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3016,6 +3016,11 @@
       "Time": "2023-05-19T21:05:03.2244463+00:00",
       "NumProgressed": 21348,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-05-19T22:05:18.3907661+00:00",
+      "NumProgressed": 21360,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 29,
@@ -3027,7 +3032,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3416
+      "UsersEstimate": 3418
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -3035,7 +3040,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4270
+      "UsersEstimate": 4272
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -3091,7 +3096,7 @@
       "Name": "Enjoy The Silence",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACH_11_WOLF_GUARD_CRUSHED",
@@ -3099,7 +3104,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -3115,7 +3120,7 @@
       "Name": "Red In Tooth And Claw",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_14_DEFEATED_MOTHER_BEHOLDER",
@@ -3131,7 +3136,7 @@
       "Name": "Death Becomes Her",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_16_RETURNED_ICE_METEORS",
@@ -3163,7 +3168,7 @@
       "Name": "The Sky Is Falling",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_20_MULTI_KILL",
@@ -3179,7 +3184,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1281
+      "UsersEstimate": 1282
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -3187,7 +3192,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1281
+      "UsersEstimate": 1282
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -3211,7 +3216,7 @@
       "Name": "That\u0027ll Come In Handy...",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -3258,7 +3263,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 21348,
+      "Progressed": 21360,
       "Completed": 17
     }
   ],
@@ -3266,8 +3271,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-05-19T21:05:03.2244458+00:00",
+  "LastChanged_Achievements": "2023-05-19T22:05:18.3907655+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:39.6610119+00:00",
-  "LastUpdate_Ratings": "2023-05-19T20:59:13.3003185+00:00",
-  "LastUpdate_Achievements": "2023-05-19T21:05:03.2244819+00:00"
+  "LastUpdate_Ratings": "2023-05-19T21:59:13.4110427+00:00",
+  "LastUpdate_Achievements": "2023-05-19T22:05:18.3907959+00:00"
 }

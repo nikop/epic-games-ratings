@@ -538,9 +538,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 458471,
+  "EOS_Progressed": 458475,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 680,
+  "EOS_NewPlayers": 684,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3178,6 +3178,11 @@
       "Time": "2023-05-19T21:05:05.6589583+00:00",
       "NumProgressed": 458471,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-19T22:05:21.0154155+00:00",
+      "NumProgressed": 458475,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 79,
@@ -3323,9 +3328,9 @@
       "ID": "achievement_story_meet_okonkwo",
       "SetID": "8cokdon",
       "Name": "Admiral Okonkwo",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_story_meet_survivalists",
@@ -3820,21 +3825,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 2405,
+      "Progressed": 2409,
       "Completed": 2346
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 458471,
+      "Progressed": 458475,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-19T21:05:05.6589578+00:00",
+  "LastChanged_Achievements": "2023-05-19T22:05:21.0154147+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:33.0666845+00:00",
-  "LastUpdate_Ratings": "2023-05-19T20:58:37.2770197+00:00",
-  "LastUpdate_Achievements": "2023-05-19T21:05:05.6590444+00:00"
+  "LastUpdate_Ratings": "2023-05-19T21:58:36.4260354+00:00",
+  "LastUpdate_Achievements": "2023-05-19T22:05:21.0154923+00:00"
 }

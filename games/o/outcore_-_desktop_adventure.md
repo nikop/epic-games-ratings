@@ -16,10 +16,10 @@
 | Immersion Breaking | 38.00% | ~3 |
 | LOVE | 38.00% | ~3 |
 | Too good for this racing mini-game | 38.00% | ~3 |
+| Good boy | 25.00% | ~2 |
 | Internet Explorer | 25.00% | ~2 |
 | Murder | 25.00% | ~2 |
 | Booty Master | 13.00% | ~1 |
-| Good boy | 13.00% | ~1 |
 | Diverse desktop | 0.00% | ~0 |
 | Pure hearted | 0.00% | ~0 |
 | HIGH striker | 0.00% | ~0 |

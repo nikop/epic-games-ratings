@@ -1,17 +1,17 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.66 (Ranked 274)  
+Rating: 4.66 (Ranked 273)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 50.00% | ~994 |
+| You're free now! | 50.00% | ~995 |
 | Keeping it classy | 26.00% | ~517 |
 | Welcome to the family | 18.00% | ~358 |
 | The finer things in life | 17.00% | ~338 |
-| Backpacker | 12.00% | ~238 |
-| Go with the Flow | 12.00% | ~238 |
+| Backpacker | 12.00% | ~239 |
+| Go with the Flow | 12.00% | ~239 |
 | Plastic Surgeon | 9.00% | ~179 |
 | The flip trick crown jewel | 9.00% | ~179 |
 | Keep the dream alive | 8.00% | ~159 |
@@ -23,24 +23,24 @@ Number of Ratings: 111  (23.09.2022)
 | G'Day Mate! | 6.00% | ~119 |
 | That pinch! | 6.00% | ~119 |
 | Tight lipslides | 6.00% | ~119 |
-| Bottom ply killer | 5.00% | ~99 |
-| Fulfilled the dream | 5.00% | ~99 |
-| Globetrotter | 5.00% | ~99 |
-| NAHELL! | 5.00% | ~99 |
-| Purple passion | 5.00% | ~99 |
-| Squad goals | 5.00% | ~99 |
-| Sup widdit big dog! | 5.00% | ~99 |
-| Commence the Hijinx! | 4.00% | ~79 |
-| Cops called! | 4.00% | ~79 |
-| DIY Boss | 4.00% | ~79 |
-| G.O.A.T. status | 4.00% | ~79 |
-| Laid back | 4.00% | ~79 |
-| Lines for days | 4.00% | ~79 |
-| Manny Destroys All | 4.00% | ~79 |
-| Prince of Philly | 4.00% | ~79 |
-| Renaissance man | 4.00% | ~79 |
-| Tank commander | 4.00% | ~79 |
-| Trick shot marksman | 4.00% | ~79 |
+| Bottom ply killer | 5.00% | ~100 |
+| Fulfilled the dream | 5.00% | ~100 |
+| Globetrotter | 5.00% | ~100 |
+| NAHELL! | 5.00% | ~100 |
+| Purple passion | 5.00% | ~100 |
+| Squad goals | 5.00% | ~100 |
+| Sup widdit big dog! | 5.00% | ~100 |
+| Commence the Hijinx! | 4.00% | ~80 |
+| Cops called! | 4.00% | ~80 |
+| DIY Boss | 4.00% | ~80 |
+| G.O.A.T. status | 4.00% | ~80 |
+| Laid back | 4.00% | ~80 |
+| Lines for days | 4.00% | ~80 |
+| Manny Destroys All | 4.00% | ~80 |
+| Prince of Philly | 4.00% | ~80 |
+| Renaissance man | 4.00% | ~80 |
+| Tank commander | 4.00% | ~80 |
+| Trick shot marksman | 4.00% | ~80 |
 | Hoarder | 3.00% | ~60 |
 | We get it, you're good | 3.00% | ~60 |
 | Cross lock country | 2.00% | ~40 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,987 (Ranked 145)  
+Progressed: 1,990 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-16 | 1,958 | 0 |
 | 2023-05-17 | 1,962 | 0 |
 | 2023-05-18 | 1,968 | 0 |
-| 2023-05-19 | 1,987 | 0 |
+| 2023-05-19 | 1,990 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 392)  
 Sum: 414 (Ranked 300)  
