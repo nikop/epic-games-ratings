@@ -2,9 +2,9 @@
   "ID": "46ab1902884c48bc893964c0094e5ccf",
   "Name": "Mechajammer",
   "ProductSlug": "mechajammer-abc2dc",
-  "Ranking_EOS_Progress": 408,
+  "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-12-02T17:00:00+00:00",
@@ -39,7 +39,7 @@
   "FirstSeen": "2022-07-22T20:16:48.1360738+00:00",
   "FirstSeenRating": "2023-03-31T05:56:55.8949366+00:00",
   "LastChanged": "2023-03-31T05:56:55.8949367+00:00",
-  "LastUpdate_AppInfo": "2023-05-12T17:58:28.2362185+00:00",
-  "LastUpdate_Ratings": "2023-05-19T17:58:29.1885448+00:00",
-  "LastUpdate_Achievements": "2023-05-19T18:03:38.8927062+00:00"
+  "LastUpdate_AppInfo": "2023-05-19T19:00:06.7021107+00:00",
+  "LastUpdate_Ratings": "2023-05-19T19:16:51.2852314+00:00",
+  "LastUpdate_Achievements": "2023-05-19T19:22:20.1288937+00:00"
 }

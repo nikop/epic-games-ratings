@@ -4,20 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day of the Rest of Your Life | 67.00% | ~12 |
-| Hello World | 61.00% | ~11 |
-| I Think, Therefore I Am | 61.00% | ~11 |
-| The Real Beginning | 61.00% | ~11 |
+| First Day of the Rest of Your Life | 72.00% | ~13 |
+| Hello World | 67.00% | ~12 |
+| I Think, Therefore I Am | 67.00% | ~12 |
+| The Real Beginning | 67.00% | ~12 |
 | The Birds and the Bees | 56.00% | ~10 |
-| Shook Up | 44.00% | ~8 |
-| Vaccinated | 44.00% | ~8 |
-| A Light in the Dark | 39.00% | ~7 |
-| Busybody | 39.00% | ~7 |
+| Shook Up | 50.00% | ~9 |
+| Vaccinated | 50.00% | ~9 |
+| A Light in the Dark | 44.00% | ~8 |
+| Busybody | 44.00% | ~8 |
+| Task Master | 44.00% | ~8 |
+| Warning: Fragile | 44.00% | ~8 |
+| An Acquired Taste | 39.00% | ~7 |
 | Socially Acceptable Insanity | 39.00% | ~7 |
-| Task Master | 39.00% | ~7 |
-| Warning: Fragile | 39.00% | ~7 |
-| An Acquired Taste | 33.00% | ~6 |
 | The Guardian | 33.00% | ~6 |
+| Blood Begets Blood | 33.00% | ~6 |
 | Endgame | 33.00% | ~6 |
 | Everyone Needs a Break | 33.00% | ~6 |
 | The Philosopher | 33.00% | ~6 |
@@ -25,15 +26,14 @@
 | The Companion | 33.00% | ~6 |
 | The Counsellor | 33.00% | ~6 |
 | A Real Headache | 28.00% | ~5 |
-| Blood Begets Blood | 28.00% | ~5 |
+| A Total Riot | 28.00% | ~5 |
 | Job Creator | 28.00% | ~5 |
+| Knock Knock | 28.00% | ~5 |
+| That One Doesn't Count | 28.00% | ~5 |
 | A Little Eccentric | 22.00% | ~4 |
-| A Total Riot | 22.00% | ~4 |
 | Full Coverage | 22.00% | ~4 |
-| Knock Knock | 22.00% | ~4 |
 | Quidnunc | 22.00% | ~4 |
 | Social Butterfly | 22.00% | ~4 |
-| That One Doesn't Count | 22.00% | ~4 |
 | They Flock to Him | 22.00% | ~4 |
 | Zonk! | 22.00% | ~4 |
 | Leave It to the Professionals | 17.00% | ~3 |

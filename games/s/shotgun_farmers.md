@@ -4,18 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 8.00% | ~0 |
+| Survivor | 10.00% | ~0 |
+| Early Survivor | 8.00% | ~0 |
 | Aspairagus | 8.00% | ~0 |
 | Seeds of War | 6.00% | ~3 |
-| Early Survivor | 6.00% | ~0 |
+| Bouncemato | 6.00% | ~0 |
+| Quick-Draw Pod | 6.00% | ~0 |
 | No Diggity | 6.00% | ~0 |
 | Grave Digger | 6.00% | ~0 |
 | Quadsparagus | 6.00% | ~0 |
-| Bouncemato | 4.00% | ~0 |
-| Quick-Draw Pod | 4.00% | ~0 |
 | Oh My Gourd | 4.00% | ~0 |
 | Perfect | 4.00% | ~0 |
 | Amateur Survivor | 4.00% | ~0 |
+| Pyromaniac | 4.00% | ~0 |
 | Pro Pyromancer | 2.00% | ~1 |
 | King of the Crow | 2.00% | ~0 |
 | Berry Loved | 2.00% | ~0 |
@@ -26,7 +27,6 @@
 | Master Survivor | 2.00% | ~0 |
 | Heal Me Peas | 2.00% | ~0 |
 | Heart Breaker | 2.00% | ~0 |
-| Pyromaniac | 2.00% | ~0 |
 | This Is My Boomstick | 2.00% | ~0 |
 | Tomassacred | 2.00% | ~0 |
 | Summers Here | 2.00% | ~0 |

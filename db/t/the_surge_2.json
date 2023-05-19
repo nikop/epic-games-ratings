@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -225,9 +225,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1561,
+  "EOS_Progressed": 1562,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -375,6 +375,11 @@
       "Time": "2023-05-19T17:05:42.770474+00:00",
       "NumProgressed": 1561,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-19T19:24:22.1269077+00:00",
+      "NumProgressed": 1562,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -394,7 +399,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "ACHV_03",
@@ -410,7 +415,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ACHV_05",
@@ -466,7 +471,7 @@
       "Name": "Denying Prophecy",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACHV_12",
@@ -546,7 +551,7 @@
       "Name": "Stimulating The Local Economy",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACHV_22",
@@ -578,7 +583,7 @@
       "Name": "Full Arsenal",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACHV_26",
@@ -586,7 +591,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "ACHV_27",
@@ -594,7 +599,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ACHV_28",
@@ -616,9 +621,9 @@
       "ID": "ACHV_30",
       "SetID": "8p5mlmc",
       "Name": "Powered Up",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 453
+      "UsersEstimate": 437
     },
     {
       "ID": "ACHV_31",
@@ -658,7 +663,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "ACHV_36",
@@ -674,7 +679,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "ACHV_38",
@@ -690,7 +695,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "ACHV_40",
@@ -706,7 +711,7 @@
       "Name": "Suited and Booted",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "ACHV_42",
@@ -738,7 +743,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "ACHV_46",
@@ -841,7 +846,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1561,
+      "Progressed": 1562,
       "Completed": 10
     }
   ],
@@ -849,8 +854,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-05-19T18:06:19.5673315+00:00",
-  "LastUpdate_AppInfo": "2023-05-12T18:00:23.3956221+00:00",
-  "LastUpdate_Ratings": "2023-05-19T18:00:36.2321291+00:00",
-  "LastUpdate_Achievements": "2023-05-19T18:06:19.5673932+00:00"
+  "LastChanged_Achievements": "2023-05-19T19:24:22.1269073+00:00",
+  "LastUpdate_AppInfo": "2023-05-19T19:14:42.7008662+00:00",
+  "LastUpdate_Ratings": "2023-05-19T19:18:30.7891786+00:00",
+  "LastUpdate_Achievements": "2023-05-19T19:24:22.1269468+00:00"
 }

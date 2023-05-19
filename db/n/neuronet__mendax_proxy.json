@@ -136,17 +136,17 @@
       "ID": "ALPHA01",
       "SetID": "2d85n75",
       "Name": "Hello World",
-      "Percentage": 61,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "AN_ACQUIRED_TASTE",
       "SetID": "2d85n75",
       "Name": "An Acquired Taste",
-      "Percentage": 33,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "AREAL_HEADACHE",
@@ -160,17 +160,17 @@
       "ID": "ATOTAL_RIOT",
       "SetID": "2d85n75",
       "Name": "A Total Riot",
-      "Percentage": 22,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "AURORA04",
       "SetID": "2d85n75",
       "Name": "A Light in the Dark",
-      "Percentage": 39,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "AURORA_COMPLETE",
@@ -184,25 +184,25 @@
       "ID": "BETA03",
       "SetID": "2d85n75",
       "Name": "I Think, Therefore I Am",
-      "Percentage": 61,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "BLOOD_BEGETS_BLOOD",
       "SetID": "2d85n75",
       "Name": "Blood Begets Blood",
-      "Percentage": 28,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "BUSYBODY",
       "SetID": "2d85n75",
       "Name": "Busybody",
-      "Percentage": 39,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "COULDNT_HAVE_PLANNED_IT_BETTER_MYSELF",
@@ -240,9 +240,9 @@
       "ID": "FIRST_DAY",
       "SetID": "2d85n75",
       "Name": "First Day of the Rest of Your Life",
-      "Percentage": 67,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "FORTRAN_COMPLETE",
@@ -280,9 +280,9 @@
       "ID": "KNOCK_KNOCK",
       "SetID": "2d85n75",
       "Name": "Knock Knock",
-      "Percentage": 22,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "LEAVE_IT_TO_THE_PROFESSIONALS",
@@ -296,9 +296,9 @@
       "ID": "MIND_CORE01",
       "SetID": "2d85n75",
       "Name": "The Real Beginning",
-      "Percentage": 61,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "OBLIGATORY_FRAUDULENT_BAKING",
@@ -360,9 +360,9 @@
       "ID": "SHOOK_UP",
       "SetID": "2d85n75",
       "Name": "Shook Up",
-      "Percentage": 44,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "SOCIAL_BUTTERFLY",
@@ -392,9 +392,9 @@
       "ID": "TASK_MASTER",
       "SetID": "2d85n75",
       "Name": "Task Master",
-      "Percentage": 39,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TASTES_LIKE_REGRET",
@@ -408,9 +408,9 @@
       "ID": "THAT_ONE_DOESNT_COUNT",
       "SetID": "2d85n75",
       "Name": "That One Doesn\u0027t Count",
-      "Percentage": 22,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "THEY_FLOCK_TO_HIM",
@@ -472,17 +472,17 @@
       "ID": "VACCINATED",
       "SetID": "2d85n75",
       "Name": "Vaccinated",
-      "Percentage": 44,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "WARNING_FRAGILE",
       "SetID": "2d85n75",
       "Name": "Warning: Fragile",
-      "Percentage": 39,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "WHAT_THEY_DONT_KNOW_CANT_HURT_THEM",
@@ -521,8 +521,8 @@
   "FirstSeenRating": "2023-05-04T20:59:38.4702697+00:00",
   "FirstSeenAchievements": "2023-04-26T14:07:41.5246515+00:00",
   "LastChanged": "2023-05-04T20:59:38.4702697+00:00",
-  "LastChanged_Achievements": "2023-05-19T18:06:06.2347924+00:00",
-  "LastUpdate_AppInfo": "2023-05-12T17:59:36.6924459+00:00",
-  "LastUpdate_Ratings": "2023-05-19T17:59:44.005319+00:00",
-  "LastUpdate_Achievements": "2023-05-19T18:06:06.2348304+00:00"
+  "LastChanged_Achievements": "2023-05-19T19:24:10.811968+00:00",
+  "LastUpdate_AppInfo": "2023-05-19T19:04:57.9311486+00:00",
+  "LastUpdate_Ratings": "2023-05-19T19:17:48.1138305+00:00",
+  "LastUpdate_Achievements": "2023-05-19T19:24:10.8119978+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -638,7 +638,7 @@
       "ID": "ach_hit_player_with_bounce_grenade",
       "SetID": "bf10c8p",
       "Name": "Bouncemato",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -646,7 +646,7 @@
       "ID": "ach_kill_pistol_with_pistol",
       "SetID": "bf10c8p",
       "Name": "Quick-Draw Pod",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -718,7 +718,7 @@
       "ID": "ach_waves_1",
       "SetID": "bf10c8p",
       "Name": "Survivor",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -726,7 +726,7 @@
       "ID": "ach_waves_10",
       "SetID": "bf10c8p",
       "Name": "Early Survivor",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -798,7 +798,7 @@
       "ID": "ach_x_victims_using_chillithrower",
       "SetID": "bf10c8p",
       "Name": "Pyromaniac",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -869,8 +869,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-05-19T18:03:54.9966519+00:00",
-  "LastUpdate_AppInfo": "2023-05-12T17:58:14.3160105+00:00",
-  "LastUpdate_Ratings": "2023-05-19T17:58:15.3362354+00:00",
-  "LastUpdate_Achievements": "2023-05-19T18:03:54.9967218+00:00"
+  "LastChanged_Achievements": "2023-05-19T19:22:33.3900887+00:00",
+  "LastUpdate_AppInfo": "2023-05-19T18:59:50.6291522+00:00",
+  "LastUpdate_Ratings": "2023-05-19T19:16:39.8233009+00:00",
+  "LastUpdate_Achievements": "2023-05-19T19:22:33.3901488+00:00"
 }

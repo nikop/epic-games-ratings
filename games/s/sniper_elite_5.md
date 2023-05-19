@@ -16,6 +16,7 @@ Rating: 4.41 (Ranked 657)
 | It's Starting to Crack | 0.60% | ~5 |
 | Taking it back | 0.60% | ~5 |
 | Organ Grinder | 0.50% | ~4 |
+| Explosive Efficiency | 0.50% | ~4 |
 | Target America | 0.50% | ~4 |
 | The Kraken Sleeps | 0.50% | ~4 |
 | Opposing Force | 0.40% | ~3 |
@@ -24,7 +25,6 @@ Rating: 4.41 (Ranked 657)
 | Skirmisher | 0.40% | ~3 |
 | Sharpshooter | 0.40% | ~3 |
 | Precision Is Key | 0.40% | ~3 |
-| Explosive Efficiency | 0.40% | ~3 |
 | Snake in the Grass | 0.40% | ~3 |
 | Change the Channel | 0.40% | ~3 |
 | Don't hold your breath | 0.40% | ~3 |
@@ -33,12 +33,12 @@ Rating: 4.41 (Ranked 657)
 | Liberté | 0.20% | ~2 |
 | No Stone Unturned | 0.20% | ~2 |
 | Just a Flesh Wound | 0.20% | ~2 |
+| Close Quarters | 0.20% | ~2 |
 | Last Resort | 0.20% | ~2 |
 | Fields of Glory | 0.10% | ~1 |
 | Rigged to Blow | 0.10% | ~1 |
 | Die Nussknacker Sweet! | 0.10% | ~1 |
 | Der Geist | 0.10% | ~1 |
-| Close Quarters | 0.10% | ~1 |
 | Burn after reading | 0.10% | ~1 |
 | It'll Buff Right Out | 0.10% | ~1 |
 | Locomotion Commotion | 0.10% | ~1 |
@@ -47,6 +47,8 @@ Rating: 4.41 (Ranked 657)
 | Führerious Repetition | 0.10% | ~1 |
 | Reich To The Point | 0.10% | ~1 |
 | Covert Elimination | 0.10% | ~1 |
+| Herr Today, Gone Tomorrow | 0.10% | ~1 |
+| Operation Foxley | 0.10% | ~1 |
 | Siegebreaker | 0.10% | ~1 |
 | Ghost of Falaise | 0.10% | ~1 |
 | Operation Overlord | 0.10% | ~1 |
@@ -69,15 +71,13 @@ Rating: 4.41 (Ranked 657)
 | Can't Outrun A Bullet | 0.00% | ~0 |
 | From Führer Away | 0.00% | ~0 |
 | Alpha | 0.00% | ~0 |
-| Herr Today, Gone Tomorrow | 0.00% | ~0 |
-| Operation Foxley | 0.00% | ~0 |
 | Das Familienjuwel | 0.00% | ~0 |
 | Fight Another Day | 0.00% | ~0 |
 | Stroll in the Woods | 0.00% | ~0 |
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 807 (Ranked 171)  
+Progressed: 811 (Ranked 171)  
 Completed: 2 (0.25%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 2 (0.25%) (Ranked 133)
 | 2023-05-16 | 723 | 2 |
 | 2023-05-17 | 728 | 2 |
 | 2023-05-18 | 743 | 2 |
-| 2023-05-19 | 807 | 2 |
+| 2023-05-19 | 811 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,9 +2,9 @@
   "ID": "7e0d0f0b8a6e42ba962e3456c65268af",
   "Name": "Star Trek: Resurgence",
   "ProductSlug": "star-trek-resurgence",
-  "Ranking_EOS_Progress": 408,
+  "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2099-01-02T03:00:00+00:00",
@@ -27,7 +27,7 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
-  "LastUpdate_AppInfo": "2023-05-12T17:58:03.6755254+00:00",
-  "LastUpdate_Ratings": "2023-05-19T17:58:06.3982908+00:00",
-  "LastUpdate_Achievements": "2023-05-19T18:00:52.7802985+00:00"
+  "LastUpdate_AppInfo": "2023-05-19T18:59:42.9663429+00:00",
+  "LastUpdate_Ratings": "2023-05-19T19:16:32.7267851+00:00",
+  "LastUpdate_Achievements": "2023-05-19T19:18:44.1617289+00:00"
 }

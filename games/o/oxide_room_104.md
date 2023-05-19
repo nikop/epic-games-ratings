@@ -14,7 +14,10 @@
 | Soundtrack | 53.00% | ~8 |
 | Now or never | 53.00% | ~8 |
 | Antidote | 40.00% | ~6 |
-| On the right path | 20.00% | ~3 |
+| On the right path | 27.00% | ~4 |
+| Pick the right door | 27.00% | ~4 |
+| One-way | 27.00% | ~4 |
+| The third floor | 27.00% | ~4 |
 | I'm close now | 20.00% | ~3 |
 | Failed attempt | 20.00% | ~3 |
 | The real escape | 20.00% | ~3 |
@@ -22,9 +25,6 @@
 | Good choice | 20.00% | ~3 |
 | It can't be true | 20.00% | ~3 |
 | Take the long way round | 20.00% | ~3 |
-| Pick the right door | 20.00% | ~3 |
-| One-way | 20.00% | ~3 |
-| The third floor | 20.00% | ~3 |
 | 373 | 13.00% | ~2 |
 | Born again | 13.00% | ~2 |
 | He who seeks, finds! | 13.00% | ~2 |

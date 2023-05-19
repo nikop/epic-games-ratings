@@ -1148,9 +1148,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61153,
+  "EOS_Progressed": 61169,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 341,
+  "EOS_NewPlayers": 356,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2973,6 +2973,11 @@
       "Time": "2023-05-19T18:06:17.0055262+00:00",
       "NumProgressed": 61153,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-19T19:24:19.9142965+00:00",
+      "NumProgressed": 61169,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3070,9 +3075,9 @@
       "ID": "APPLY_STATUS",
       "SetID": "4eo5ebm",
       "Name": "In Your Element",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 245
     },
     {
       "ID": "CHALLENGES_1",
@@ -3144,7 +3149,7 @@
       "Name": "Not On My Watch",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -3158,9 +3163,9 @@
       "ID": "DEFEAT_FREAKS_1",
       "SetID": "4eo5ebm",
       "Name": "Bulldozed",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 245
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -3168,7 +3173,7 @@
       "Name": "Out of Their League",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -3200,7 +3205,7 @@
       "Name": "Drone You Out",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "FREEZE_1",
@@ -3398,9 +3403,9 @@
       "ID": "MYSTERY_04",
       "SetID": "4eo5ebm",
       "Name": "Bad Apples in Every Orchard",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 306
     },
     {
       "ID": "MYSTERY_05",
@@ -3471,13 +3476,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61153,
+      "Progressed": 61169,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31433,
+      "Progressed": 31449,
       "Completed": 2640
     }
   ],
@@ -3485,8 +3490,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-19T11:00:31.9062538+00:00",
-  "LastChanged_Achievements": "2023-05-19T18:06:17.0055255+00:00",
-  "LastUpdate_AppInfo": "2023-05-12T17:59:40.0085268+00:00",
-  "LastUpdate_Ratings": "2023-05-19T17:59:47.4583438+00:00",
-  "LastUpdate_Achievements": "2023-05-19T18:06:17.0055959+00:00"
+  "LastChanged_Achievements": "2023-05-19T19:24:19.914296+00:00",
+  "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
+  "LastUpdate_Ratings": "2023-05-19T19:17:50.8407876+00:00",
+  "LastUpdate_Achievements": "2023-05-19T19:24:19.914349+00:00"
 }

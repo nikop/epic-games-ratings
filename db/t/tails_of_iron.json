@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -595,9 +595,9 @@
       "ID": "Kill25Mozi",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Mozis",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 598
+      "UsersEstimate": 612
     },
     {
       "ID": "MeetTheMoles",
@@ -651,9 +651,9 @@
       "ID": "ReturnPowerInMines",
       "SetID": "9lj35g4",
       "Name": "Return Power To The Depths",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 459
+      "UsersEstimate": 473
     }
   ],
   "AchievementSets": [
@@ -674,8 +674,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-04-02T20:59:05.8070796+00:00",
-  "LastChanged_Achievements": "2023-05-19T18:03:16.7061732+00:00",
-  "LastUpdate_AppInfo": "2023-05-12T17:58:16.6820766+00:00",
-  "LastUpdate_Ratings": "2023-05-19T17:58:19.2015147+00:00",
-  "LastUpdate_Achievements": "2023-05-19T18:03:16.7061947+00:00"
+  "LastChanged_Achievements": "2023-05-19T19:21:42.3243514+00:00",
+  "LastUpdate_AppInfo": "2023-05-19T18:59:56.3670256+00:00",
+  "LastUpdate_Ratings": "2023-05-19T19:16:42.9739365+00:00",
+  "LastUpdate_Achievements": "2023-05-19T19:21:42.3243697+00:00"
 }

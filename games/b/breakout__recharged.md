@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Is There Anybody Out There? | 91.00% | ~67 |
+| Is There Anybody Out There? | 92.00% | ~68 |
 | Cluster One | 85.00% | ~63 |
 | Another Brick in the Wall (Part 1) | 72.00% | ~53 |
 | Comfortably Numb | 61.00% | ~45 |

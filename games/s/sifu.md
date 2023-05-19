@@ -1,16 +1,16 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 61)  
+Rating: 4.82 (Ranked 62)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~513 |
+| Diligence as a goal | 4.00% | ~514 |
 | Project Arena | 3.00% | ~385 |
 | Bloody Sport | 1.00% | ~128 |
 | Qi Gong: Breath | 0.90% | ~6,332 |
-| The best strikes are the ones we avoid | 0.90% | ~115 |
+| The best strikes are the ones we avoid | 0.90% | ~116 |
 | The Hateful Pole Fighter | 0.80% | ~5,628 |
 | A Lady's Blood in the Snow | 0.80% | ~5,628 |
 | State of constant learning | 0.80% | ~5,628 |
@@ -44,8 +44,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Prodigal Child | 0.30% | ~2,111 |
 | The 36th Chamber of Kung-Fu | 0.30% | ~2,111 |
 | Sword Stained With Blood | 0.30% | ~2,111 |
-| Martial Hub | 0.30% | ~38 |
-| Secure, Protect, Leave | 0.30% | ~38 |
+| Martial Hub | 0.30% | ~39 |
+| Secure, Protect, Leave | 0.30% | ~39 |
 | Drunken Fighter | 0.20% | ~1,407 |
 | Martial Artist | 0.20% | ~1,407 |
 | Knowledge Greed | 0.20% | ~1,407 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~704 |
 | Warriors from the Mountain | 0.10% | ~704 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703,529 (Ranked 15)  
+Progressed: 703,539 (Ranked 15)  
 Completed: 12,731 (1.81%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,10 +86,10 @@ Completed: 12,731 (1.81%) (Ranked 64)
 | 2023-05-16 | 702,986 | 12,728 |
 | 2023-05-17 | 703,009 | 12,730 |
 | 2023-05-18 | 703,070 | 12,731 |
-| 2023-05-19 | 703,529 | 12,731 |
+| 2023-05-19 | 703,539 | 12,731 |
 ## Awards
 Max (Great Boss Battles): 6,075  (Ranked 53)  
-Sum: 10,332 (Ranked 77)  
+Sum: 10,333 (Ranked 77)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
@@ -101,7 +101,7 @@ Diff (max vs sum): -24
 | This game has Amazing Storytelling | 490 |
 | This game is Highly Recommended | 476 |
 | This game has Amazing Characters | 473 |
-| This game has Unique Visuals | 454 |
+| This game has Unique Visuals | 455 |
 | This game is Relaxing | 401 |
 | This game has a Creative Community | 347 |
 | This game has Obsessive Gameplay | 293 |
@@ -231,4 +231,4 @@ Diff (max vs sum): -24
 | 2023-05-16 | 4.82 | - | 6,071 | 10,316 |
 | 2023-05-17 | 4.82 | - | 6,074 | 10,322 |
 | 2023-05-18 | 4.82 | - | 6,074 | 10,327 |
-| 2023-05-19 | 4.82 | - | 6,075 | 10,332 |
+| 2023-05-19 | 4.82 | - | 6,075 | 10,333 |

@@ -29,7 +29,7 @@
 | I Want an Award! | 0.00% | ~0 |
 | I Only Know How to Give 110% | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 614 (Ranked 183)  
+Progressed: 615 (Ranked 183)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -53,7 +53,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-14 | 596 | 0 |
 | 2023-05-15 | 598 | 0 |
 | 2023-05-18 | 606 | 0 |
-| 2023-05-19 | 614 | 0 |
+| 2023-05-19 | 615 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

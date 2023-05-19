@@ -2,9 +2,9 @@
   "ID": "6515ed58d6ef4981b0055e04e9abd204",
   "Name": "NHRA Championship Drag Racing - Speed For All",
   "ProductSlug": "nhra-championship-drag-racing-speed-for-all-690d95",
-  "Ranking_EOS_Progress": 182,
+  "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-01-03T20:29:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 664,
+  "EOS_Progressed": 665,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -53,6 +53,11 @@
       "Time": "2023-05-19T18:05:37.8395385+00:00",
       "NumProgressed": 664,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T19:23:47.3170115+00:00",
+      "NumProgressed": 665,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 33,
@@ -64,7 +69,7 @@
       "Name": "Graduated",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "11",
@@ -96,7 +101,7 @@
       "Name": "Trouble with the swerve",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "15",
@@ -327,7 +332,7 @@
     {
       "ID": "4n5bj21",
       "IsBase": true,
-      "Progressed": 664,
+      "Progressed": 665,
       "Completed": 0
     }
   ],
@@ -335,8 +340,8 @@
   "FirstSeenRating": "2023-03-31T05:56:56.4017079+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:42.4655927+00:00",
   "LastChanged": "2023-03-31T05:56:56.401708+00:00",
-  "LastChanged_Achievements": "2023-05-19T18:05:37.8395379+00:00",
-  "LastUpdate_AppInfo": "2023-05-12T17:58:20.0427728+00:00",
-  "LastUpdate_Ratings": "2023-05-19T17:58:22.1320263+00:00",
-  "LastUpdate_Achievements": "2023-05-19T18:05:37.8395615+00:00"
+  "LastChanged_Achievements": "2023-05-19T19:23:47.317011+00:00",
+  "LastUpdate_AppInfo": "2023-05-19T18:59:58.7398488+00:00",
+  "LastUpdate_Ratings": "2023-05-19T19:16:45.718309+00:00",
+  "LastUpdate_Achievements": "2023-05-19T19:23:47.3170311+00:00"
 }

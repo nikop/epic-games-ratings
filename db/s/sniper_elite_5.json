@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -176,9 +176,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 807,
+  "EOS_Progressed": 811,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -696,6 +696,11 @@
       "Time": "2023-05-19T18:05:42.6135446+00:00",
       "NumProgressed": 807,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-19T19:23:51.3066133+00:00",
+      "NumProgressed": 811,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -905,9 +910,9 @@
       "ID": "REWARD_34_TRIPLE_KILL",
       "SetID": "bm6el81",
       "Name": "Explosive Efficiency",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -961,9 +966,9 @@
       "ID": "REWARD_40_CLOSE_QUARTERS",
       "SetID": "bm6el81",
       "Name": "Close Quarters",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -1169,17 +1174,17 @@
       "ID": "REWARD_DLC01_06_HERR_TODAY",
       "SetID": "83mdf7p",
       "Name": "Herr Today, Gone Tomorrow",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
       "SetID": "83mdf7p",
       "Name": "Operation Foxley",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -1274,13 +1279,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 758,
+      "Progressed": 762,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 807,
+      "Progressed": 811,
       "Completed": 2
     }
   ],
@@ -1288,8 +1293,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-18T16:01:31.1520338+00:00",
-  "LastChanged_Achievements": "2023-05-19T18:05:42.6135438+00:00",
-  "LastUpdate_AppInfo": "2023-05-12T18:00:23.4749836+00:00",
-  "LastUpdate_Ratings": "2023-05-19T18:00:38.0348053+00:00",
-  "LastUpdate_Achievements": "2023-05-19T18:05:42.6135996+00:00"
+  "LastChanged_Achievements": "2023-05-19T19:23:51.3066127+00:00",
+  "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
+  "LastUpdate_Ratings": "2023-05-19T19:18:31.7903444+00:00",
+  "LastUpdate_Achievements": "2023-05-19T19:23:51.3066672+00:00"
 }

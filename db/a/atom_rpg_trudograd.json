@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -183,9 +183,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1024,
+  "EOS_Progressed": 1025,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -363,6 +363,11 @@
       "Time": "2023-05-18T23:06:49.9598794+00:00",
       "NumProgressed": 1024,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T19:23:48.0587613+00:00",
+      "NumProgressed": 1025,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -470,7 +475,7 @@
       "Name": "Household",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "HUMAN_ANTIDOTE",
@@ -622,14 +627,14 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 901
+      "UsersEstimate": 902
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1024,
+      "Progressed": 1025,
       "Completed": 0
     }
   ],
@@ -637,8 +642,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-04-29T21:56:53.0228715+00:00",
-  "LastChanged_Achievements": "2023-05-19T18:05:38.708217+00:00",
-  "LastUpdate_AppInfo": "2023-05-12T17:57:15.3359938+00:00",
-  "LastUpdate_Ratings": "2023-05-19T17:57:13.426946+00:00",
-  "LastUpdate_Achievements": "2023-05-19T18:05:38.7082423+00:00"
+  "LastChanged_Achievements": "2023-05-19T19:23:48.0587608+00:00",
+  "LastUpdate_AppInfo": "2023-05-19T18:57:06.2395841+00:00",
+  "LastUpdate_Ratings": "2023-05-19T19:15:49.1978192+00:00",
+  "LastUpdate_Achievements": "2023-05-19T19:23:48.0587787+00:00"
 }

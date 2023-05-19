@@ -9,10 +9,10 @@
 | Grime is Not Good | 46.00% | ~75 |
 | Campaign Launch | 39.00% | ~64 |
 | Floor Galore | 38.00% | ~62 |
-| Dinner Dash | 37.00% | ~61 |
+| Dinner Dash | 38.00% | ~62 |
 | It's Technical | 35.00% | ~57 |
+| Need a Consult | 34.00% | ~56 |
 | Upgrade Unlock | 34.00% | ~56 |
-| Need a Consult | 33.00% | ~54 |
 | Delegate Maintenance | 31.00% | ~51 |
 | Proper Walls | 30.00% | ~49 |
 | Destination Destiny | 26.00% | ~43 |
@@ -23,11 +23,11 @@
 | Don't Feel a Loan | 21.00% | ~34 |
 | Your Prestige is Rising | 21.00% | ~34 |
 | Retail Revenue | 21.00% | ~34 |
+| Artfully Done | 20.00% | ~33 |
 | People Mover | 20.00% | ~33 |
 | Emporium Empire | 20.00% | ~33 |
 | Leveled Up Shops | 20.00% | ~33 |
 | Get Electrified | 20.00% | ~33 |
-| Artfully Done | 19.00% | ~31 |
 | Rehab Expert | 19.00% | ~31 |
 | Tasty Profits | 18.00% | ~30 |
 | We Don't Need No Education | 18.00% | ~30 |

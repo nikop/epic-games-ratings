@@ -5,9 +5,9 @@
   "Ranking_Rating": 435,
   "Ranking_Popularity": 19,
   "Ranking_PopularitySum": 35,
-  "Ranking_EOS_Progress": 408,
+  "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-03-24T23:00:00+00:00",
@@ -4880,30 +4880,36 @@
       "Rating": 4.57,
       "NumberOfAwards": 32324,
       "NumberOfAwardsMax": 18330
+    },
+    {
+      "Time": "2023-05-19T19:16:53.3886488+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 32342,
+      "NumberOfAwardsMax": 18343
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32324,
-  "NumberOfAwardsMax": 18330,
+  "NumberOfAwards": 32342,
+  "NumberOfAwardsMax": 18343,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 18330
+      "Count": 18343
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1815
+      "Count": 1817
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1691
+      "Count": 1694
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4959,8 +4965,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.2976401+00:00",
-  "LastChanged": "2023-05-19T14:58:51.09847+00:00",
-  "LastUpdate_AppInfo": "2023-05-12T17:58:29.0245124+00:00",
-  "LastUpdate_Ratings": "2023-05-19T17:58:32.0005581+00:00",
-  "LastUpdate_Achievements": "2023-05-19T18:02:17.7207385+00:00"
+  "LastChanged": "2023-05-19T19:16:53.3886487+00:00",
+  "LastUpdate_AppInfo": "2023-05-19T19:00:09.736049+00:00",
+  "LastUpdate_Ratings": "2023-05-19T19:16:53.3886494+00:00",
+  "LastUpdate_Achievements": "2023-05-19T19:21:27.4067965+00:00"
 }

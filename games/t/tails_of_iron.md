@@ -14,16 +14,16 @@ Rating: 4.50 (Ranked 534)
 | Defeat 25 Grubs | 50.00% | ~696 |
 | Rescue Redgi's Brothers | 49.00% | ~682 |
 | Collect Iron Ore | 45.00% | ~626 |
+| Defeat 25 Mozis | 44.00% | ~612 |
 | Kitchen Ready To Cook | 44.00% | ~612 |
 | Collect Gold | 43.00% | ~598 |
-| Defeat 25 Mozis | 43.00% | ~598 |
 | Smithy Ready to Craft | 43.00% | ~598 |
 | Fix the Travellers Wagon | 41.00% | ~570 |
 | Complete Elder Faction | 38.00% | ~529 |
 | End of the Mozis | 35.00% | ~487 |
 | Throne Room Fit For A King | 35.00% | ~487 |
+| Return Power To The Depths | 34.00% | ~473 |
 | Meet the Creatures from the Deep | 33.00% | ~459 |
-| Return Power To The Depths | 33.00% | ~459 |
 | Defeat Ratnor Rodentson | 28.00% | ~389 |
 | Return the Statues | 24.00% | ~334 |
 | Defeat Rattus Augustail | 24.00% | ~334 |

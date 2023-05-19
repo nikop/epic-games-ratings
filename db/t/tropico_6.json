@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -852,9 +852,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 2919,
+  "EOS_Progressed": 2921,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2327,6 +2327,11 @@
       "Time": "2023-05-19T18:06:16.7194424+00:00",
       "NumProgressed": 2919,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-19T19:24:19.7579015+00:00",
+      "NumProgressed": 2921,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2378,7 +2383,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -2394,7 +2399,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -2434,7 +2439,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -2442,7 +2447,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -2482,7 +2487,7 @@
       "Name": "For Science!",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -2498,7 +2503,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 2277
+      "UsersEstimate": 2278
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -2610,7 +2615,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -2657,15 +2662,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 2919,
+      "Progressed": 2921,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-15T17:00:44.7999652+00:00",
-  "LastChanged_Achievements": "2023-05-19T18:06:16.7194419+00:00",
-  "LastUpdate_AppInfo": "2023-05-12T18:00:03.9005572+00:00",
-  "LastUpdate_Ratings": "2023-05-19T18:00:16.6488285+00:00",
-  "LastUpdate_Achievements": "2023-05-19T18:06:16.719478+00:00"
+  "LastChanged_Achievements": "2023-05-19T19:24:19.7579+00:00",
+  "LastUpdate_AppInfo": "2023-05-19T19:13:57.2781106+00:00",
+  "LastUpdate_Ratings": "2023-05-19T19:18:14.6560097+00:00",
+  "LastUpdate_Achievements": "2023-05-19T19:24:19.7579319+00:00"
 }

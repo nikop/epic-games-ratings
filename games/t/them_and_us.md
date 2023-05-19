@@ -22,10 +22,10 @@
 | Researcher | 4.00% | ~4 |
 | I Am The Gate Keeper! | 4.00% | ~4 |
 | The Curse Is Real | 4.00% | ~4 |
+| Trapped | 4.00% | ~4 |
 | What A Mansion | 4.00% | ~4 |
 | Modern Player | 3.00% | ~3 |
 | The bus stop | 3.00% | ~3 |
-| Trapped | 3.00% | ~3 |
 | Armed To The Teeth | 2.00% | ~2 |
 | This Mansion Is Clean | 2.00% | ~2 |
 | Back In Time | 1.00% | ~1 |

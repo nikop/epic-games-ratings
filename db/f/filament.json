@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 138,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -195,7 +195,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 190298,
+  "EOS_Progressed": 190304,
   "EOS_Completed": 423,
   "EOS_NewPlayers": 722,
   "EOS_NewCompleters": 6,
@@ -2980,6 +2980,11 @@
       "Time": "2023-05-19T18:05:47.0015192+00:00",
       "NumProgressed": 190298,
       "NumCompleted": 423
+    },
+    {
+      "Time": "2023-05-19T19:23:54.8735077+00:00",
+      "NumProgressed": 190304,
+      "NumCompleted": 423
     }
   ],
   "TotalAchievements": 29,
@@ -2991,7 +2996,7 @@
       "Name": "No Anchor too great.",
       "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 951
+      "UsersEstimate": 952
     },
     {
       "ID": "ACHIEVEMENT_ARCHWAY",
@@ -3015,7 +3020,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 178880
+      "UsersEstimate": 178886
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -3222,7 +3227,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 190298,
+      "Progressed": 190304,
       "Completed": 423
     }
   ],
@@ -3230,8 +3235,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-05-15T09:58:34.8225055+00:00",
-  "LastChanged_Achievements": "2023-05-19T18:05:47.0015187+00:00",
-  "LastUpdate_AppInfo": "2023-05-12T17:58:42.6671545+00:00",
-  "LastUpdate_Ratings": "2023-05-19T17:58:48.4873126+00:00",
-  "LastUpdate_Achievements": "2023-05-19T18:05:47.0015576+00:00"
+  "LastChanged_Achievements": "2023-05-19T19:23:54.8735073+00:00",
+  "LastUpdate_AppInfo": "2023-05-19T19:02:04.3691374+00:00",
+  "LastUpdate_Ratings": "2023-05-19T19:17:04.9031859+00:00",
+  "LastUpdate_Achievements": "2023-05-19T19:23:54.8735369+00:00"
 }

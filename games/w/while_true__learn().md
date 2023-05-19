@@ -6,25 +6,25 @@ Number of Ratings: 896  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~547,513 |
-| Error: Stack Overflow | 66.00% | ~388,558 |
-| We need more gold | 60.00% | ~353,234 |
-| The dawn of civilization | 53.00% | ~312,024 |
-| More FPS for the FPS god! | 49.00% | ~288,475 |
-| Beauty and harmony | 48.00% | ~282,588 |
-| One more! | 44.00% | ~259,039 |
-| Overmind | 24.00% | ~141,294 |
-| RNG is my best friend now | 18.00% | ~105,970 |
-| Cosplay | 13.00% | ~76,534 |
-| Evolution in progress... | 13.00% | ~76,534 |
-| Step by step | 8.00% | ~47,098 |
+| First.. Bit? | 93.00% | ~547,530 |
+| Error: Stack Overflow | 66.00% | ~388,570 |
+| We need more gold | 60.00% | ~353,245 |
+| The dawn of civilization | 53.00% | ~312,033 |
+| More FPS for the FPS god! | 49.00% | ~288,484 |
+| Beauty and harmony | 48.00% | ~282,596 |
+| One more! | 44.00% | ~259,046 |
+| Overmind | 24.00% | ~141,298 |
+| RNG is my best friend now | 18.00% | ~105,974 |
+| Cosplay | 13.00% | ~76,536 |
+| Evolution in progress... | 13.00% | ~76,536 |
+| Step by step | 8.00% | ~47,099 |
 | README reader | 3.00% | ~17,662 |
 | Data scientist | 3.00% | ~17,662 |
 | One small step for a man... | 3.00% | ~17,662 |
-| To see it all, to learn it all | 2.00% | ~11,774 |
-| Evolution complete | 2.00% | ~11,774 |
-| Is this Skynet? | 2.00% | ~11,774 |
-| Cybergeek 2047 | 2.00% | ~11,774 |
+| To see it all, to learn it all | 2.00% | ~11,775 |
+| Evolution complete | 2.00% | ~11,775 |
+| Is this Skynet? | 2.00% | ~11,775 |
+| Cybergeek 2047 | 2.00% | ~11,775 |
 | Best deal on the market | 1.00% | ~5,887 |
 | Ping | 1.00% | ~5,887 |
 | Magna cum laude | 1.00% | ~5,887 |
@@ -35,7 +35,7 @@ Number of Ratings: 896  (23.09.2022)
 | Elements will destroy you! | 0.30% | ~1,766 |
 | The Scrooge | 0.10% | ~589 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 588,724 (Ranked 21)  
+Progressed: 588,742 (Ranked 21)  
 Completed: 482 (0.08%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 482 (0.08%) (Ranked 166)
 | 2023-05-16 | 588,408 | 479 |
 | 2023-05-17 | 588,501 | 480 |
 | 2023-05-18 | 588,613 | 482 |
-| 2023-05-19 | 588,724 | 482 |
+| 2023-05-19 | 588,742 | 482 |
 ## Awards
 Max (Challenging Puzzles): 132  (Ranked 293)  
 Sum: 132 (Ranked 385)  

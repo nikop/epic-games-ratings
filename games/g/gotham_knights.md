@@ -7,13 +7,16 @@ Rating: 4.17 (Ranked 834)
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 0.60% | ~367 |
 | Quartzer Life Crisis | 0.50% | ~306 |
+| Bad Apples in Every Orchard | 0.50% | ~306 |
 | Gotham Knight | 0.50% | ~306 |
 | The Batman Family | 0.40% | ~245 |
 | End of an Era | 0.40% | ~245 |
+| In Your Element | 0.40% | ~245 |
 | Protector of Gotham | 0.40% | ~245 |
 | Something in the Clay | 0.40% | ~245 |
 | The Show Mud Go On | 0.40% | ~245 |
 | Rock and a Hard Place | 0.40% | ~245 |
+| Bulldozed | 0.40% | ~245 |
 | Shock Til They Drop | 0.40% | ~245 |
 | To the Victor Go the Spoils | 0.40% | ~245 |
 | Snow Problem | 0.40% | ~245 |
@@ -27,15 +30,12 @@ Rating: 4.17 (Ranked 834)
 | Loose Ends | 0.40% | ~245 |
 | Whispered Words | 0.40% | ~245 |
 | Lock and Key | 0.40% | ~245 |
-| Bad Apples in Every Orchard | 0.40% | ~245 |
 | From Inside Gotham's Walls | 0.40% | ~245 |
 | Voiceless | 0.40% | ~245 |
 | Seeking Asylum | 0.40% | ~245 |
-| In Your Element | 0.30% | ~183 |
-| Not On My Watch | 0.30% | ~183 |
-| Bulldozed | 0.30% | ~183 |
-| Out of Their League | 0.30% | ~183 |
-| Drone You Out | 0.30% | ~183 |
+| Not On My Watch | 0.30% | ~184 |
+| Out of Their League | 0.30% | ~184 |
+| Drone You Out | 0.30% | ~184 |
 | Dressed to Impress | 0.20% | ~122 |
 | Fusion Expert | 0.20% | ~122 |
 | Expert Crime Fighter | 0.20% | ~122 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 834)
 | Confronting Your Demon | 0.10% | ~31 |
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,153 (Ranked 67)  
+Progressed: 61,169 (Ranked 67)  
 Completed: 91 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 91 (0.15%) (Ranked 148)
 | 2023-05-16 | 60,923 | 91 |
 | 2023-05-17 | 60,939 | 91 |
 | 2023-05-18 | 61,004 | 91 |
-| 2023-05-19 | 61,153 | 91 |
+| 2023-05-19 | 61,169 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,222  (Ranked 98)  
 Sum: 3,684 (Ranked 137)  

@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A path of no return | 105.00% | ~23 |
-| Pigeon | 82.00% | ~18 |
-| A bottomless pit | 82.00% | ~18 |
+| Pigeon | 86.00% | ~19 |
+| A bottomless pit | 86.00% | ~19 |
+| Baited | 77.00% | ~17 |
 | Splash! | 68.00% | ~15 |
-| Baited | 64.00% | ~14 |
-| "Swoosh" | 59.00% | ~13 |
-| The light at the end of the tunnel | 59.00% | ~13 |
-| Masochistic | 45.00% | ~10 |
+| "Swoosh" | 64.00% | ~14 |
+| The light at the end of the tunnel | 64.00% | ~14 |
+| Masochistic | 55.00% | ~12 |
 | Soft skin | 45.00% | ~10 |
 | Sensitive soul | 45.00% | ~10 |
 | Hard Rock | 36.00% | ~8 |

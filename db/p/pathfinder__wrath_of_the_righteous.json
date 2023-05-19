@@ -2432,9 +2432,9 @@
       "Count": 368
     }
   ],
-  "EOS_Progressed": 8908,
+  "EOS_Progressed": 8911,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3847,6 +3847,11 @@
       "Time": "2023-05-19T18:06:13.1560129+00:00",
       "NumProgressed": 8908,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T19:24:16.7541867+00:00",
+      "NumProgressed": 8911,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3882,7 +3887,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -4058,7 +4063,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "28_GreatUpstart",
@@ -4168,9 +4173,9 @@
       "ID": "41_PlayfulMood",
       "SetID": "989of5o",
       "Name": "Playful Mood",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 45
     },
     {
       "ID": "42_JustPathetic",
@@ -4224,9 +4229,9 @@
       "ID": "48_Spark",
       "SetID": "989of5o",
       "Name": "A Spark",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 802
+      "UsersEstimate": 891
     },
     {
       "ID": "49_Flame",
@@ -4785,21 +4790,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7690,
+      "Progressed": 7693,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8908,
+      "Progressed": 8911,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-18T21:58:35.3009581+00:00",
-  "LastChanged_Achievements": "2023-05-19T18:06:13.1560121+00:00",
-  "LastUpdate_AppInfo": "2023-05-12T17:58:14.2729853+00:00",
-  "LastUpdate_Ratings": "2023-05-19T17:58:16.1486651+00:00",
-  "LastUpdate_Achievements": "2023-05-19T18:06:13.1561696+00:00"
+  "LastChanged_Achievements": "2023-05-19T19:24:16.7541863+00:00",
+  "LastUpdate_AppInfo": "2023-05-19T18:59:56.3010226+00:00",
+  "LastUpdate_Ratings": "2023-05-19T19:16:40.4625403+00:00",
+  "LastUpdate_Achievements": "2023-05-19T19:24:16.7543149+00:00"
 }

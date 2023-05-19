@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 293,
+  "EOS_Progressed": 294,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -91,6 +91,11 @@
       "Time": "2023-05-19T12:05:19.813987+00:00",
       "NumProgressed": 293,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T19:24:13.0355672+00:00",
+      "NumProgressed": 294,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -134,7 +139,7 @@
       "Name": "Boss Killer",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "BugHunter",
@@ -142,7 +147,7 @@
       "Name": "Bug Hunter",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "Cryomancer",
@@ -220,9 +225,9 @@
       "ID": "Inquisitor",
       "SetID": "82505mn",
       "Name": "Inquisitor",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 112
     },
     {
       "ID": "Librarian",
@@ -326,7 +331,7 @@
       "Name": "Shield Crusher",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "SlingOfDavid",
@@ -421,7 +426,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 293,
+      "Progressed": 294,
       "Completed": 0
     }
   ],
@@ -429,8 +434,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-05-19T18:06:08.9013946+00:00",
-  "LastUpdate_AppInfo": "2023-05-12T17:59:28.9930498+00:00",
-  "LastUpdate_Ratings": "2023-05-19T17:59:35.9405686+00:00",
-  "LastUpdate_Achievements": "2023-05-19T18:06:08.9014247+00:00"
+  "LastChanged_Achievements": "2023-05-19T19:24:13.0355667+00:00",
+  "LastUpdate_AppInfo": "2023-05-19T19:03:07.6550194+00:00",
+  "LastUpdate_Ratings": "2023-05-19T19:17:41.7514576+00:00",
+  "LastUpdate_Achievements": "2023-05-19T19:24:13.0355922+00:00"
 }

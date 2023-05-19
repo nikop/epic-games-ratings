@@ -5,19 +5,19 @@ Rating: 4.67 (Ranked 258)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~18,815 |
-| Mods Please Ban | 77.00% | ~17,455 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,228 |
-| Fallout Doesn't Let You Do This | 73.00% | ~16,548 |
+| Eye Scream, You Scream | 83.00% | ~18,816 |
+| Mods Please Ban | 77.00% | ~17,456 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,229 |
+| Fallout Doesn't Let You Do This | 73.00% | ~16,549 |
 | First Bounty Down | 59.00% | ~13,375 |
-| We're All Very Impressed, Trust Me | 57.00% | ~12,921 |
+| We're All Very Impressed, Trust Me | 57.00% | ~12,922 |
 | Luglox Genocide | 43.00% | ~9,748 |
 | Playing Card To Get | 33.00% | ~7,481 |
 | Don't Knife The Hand That Feeds | 33.00% | ~7,481 |
 | Creature Feature | 29.00% | ~6,574 |
-| Satisfied Gus-tomer | 28.00% | ~6,347 |
-| Cold-Blooded Driller | 28.00% | ~6,347 |
-| G3 Graduation | 25.00% | ~5,667 |
+| Satisfied Gus-tomer | 28.00% | ~6,348 |
+| Cold-Blooded Driller | 28.00% | ~6,348 |
+| G3 Graduation | 25.00% | ~5,668 |
 | Are You Packin'? | 24.00% | ~5,441 |
 | RIP Davey Glutes | 24.00% | ~5,441 |
 | Sweezy Like Sunday Morning | 24.00% | ~5,441 |
@@ -27,7 +27,7 @@ Rating: 4.67 (Ranked 258)
 | Who's The Boss? | 20.00% | ~4,534 |
 | Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,534 |
 | Self-Actualization | 19.00% | ~4,307 |
-| Legendary Bounty Hunter | 18.00% | ~4,080 |
+| Legendary Bounty Hunter | 18.00% | ~4,081 |
 | Seeing All The Sights | 16.00% | ~3,627 |
 | Carried Stan's Load To Completion | 13.00% | ~2,947 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,720 |
@@ -38,7 +38,7 @@ Rating: 4.67 (Ranked 258)
 | Epic Legendary Prize | 1.00% | ~227 |
 | A Starfish Is Born | 1.00% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,669 (Ranked 88)  
+Progressed: 22,670 (Ranked 88)  
 Completed: 8 (0.04%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 8 (0.04%) (Ranked 178)
 | 2023-05-16 | 22,657 | 8 |
 | 2023-05-17 | 22,659 | 8 |
 | 2023-05-18 | 22,665 | 8 |
-| 2023-05-19 | 22,669 | 8 |
+| 2023-05-19 | 22,670 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
