@@ -6,20 +6,20 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 86.00% | ~1,302 |
-| Self-Improvement | 71.00% | ~1,075 |
-| Perky | 66.00% | ~999 |
-| Let’s Ride | 60.00% | ~908 |
-| Welcome to the Weird West | 58.00% | ~878 |
+| Unforgiven | 86.00% | ~1,303 |
+| Self-Improvement | 71.00% | ~1,076 |
+| Perky | 66.00% | ~1,000 |
+| Let’s Ride | 60.00% | ~909 |
+| Welcome to the Weird West | 58.00% | ~879 |
 | Dead or Alive | 56.00% | ~848 |
-| Full House | 37.00% | ~560 |
+| Full House | 37.00% | ~561 |
 | Off the Trail | 34.00% | ~515 |
 | Justice Served | 29.00% | ~439 |
 | Chain Reaction | 27.00% | ~409 |
-| Dishonored | 25.00% | ~378 |
-| Rain of Death | 25.00% | ~378 |
-| Scholar | 25.00% | ~378 |
-| Through Their Eyes | 25.00% | ~378 |
+| Rain of Death | 25.00% | ~379 |
+| Scholar | 25.00% | ~379 |
+| Through Their Eyes | 25.00% | ~379 |
+| Dishonored | 24.00% | ~364 |
 | The Great Escape | 23.00% | ~348 |
 | That’s All, Folks | 18.00% | ~273 |
 | Fallen Star | 16.00% | ~242 |
@@ -34,7 +34,7 @@ Number of Ratings: 125  (23.09.2022)
 | Something Wicked This Way Comes… | 12.00% | ~182 |
 | There is Hope | 12.00% | ~182 |
 | Turning the Tables | 12.00% | ~182 |
-| The Philosopher’s Stone | 10.00% | ~151 |
+| The Philosopher’s Stone | 10.00% | ~152 |
 | Loyalty to the Pack | 9.00% | ~136 |
 | Eternity Can Wait | 9.00% | ~136 |
 | Mystery Machine | 9.00% | ~136 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.30% | ~5 |
 | Revenant | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,514 (Ranked 153)  
+Progressed: 1,515 (Ranked 153)  
 Completed: 2 (0.13%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,6 +82,7 @@ Completed: 2 (0.13%) (Ranked 153)
 | 2023-05-14 | 1,509 | 2 |
 | 2023-05-17 | 1,513 | 2 |
 | 2023-05-18 | 1,514 | 2 |
+| 2023-05-19 | 1,515 | 2 |
 ## Awards
 Max (Impact the Story): 23  (Ranked 470)  
 Sum: 23 (Ranked 472)  

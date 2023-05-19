@@ -1,16 +1,16 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.50 (Ranked 532)  
+Rating: 4.50 (Ranked 533)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~302,549 |
+| The Shutdown | 66.00% | ~302,550 |
 | Jeef Skeejj | 44.00% | ~201,700 |
-| Careful planning | 39.00% | ~178,779 |
+| Careful planning | 39.00% | ~178,780 |
 | Second Coming | 33.00% | ~151,275 |
-| Jeef Skagg | 30.00% | ~137,522 |
+| Jeef Skagg | 30.00% | ~137,523 |
 | Mother | 25.00% | ~114,602 |
 | In space, no one can hear you scream | 23.00% | ~105,434 |
 | Chapter I: Echoes | 22.00% | ~100,850 |
@@ -31,20 +31,20 @@ Number of Ratings: 1,003  (23.09.2022)
 | Admiral Okonkwo | 7.00% | ~32,089 |
 | The Survivalists | 7.00% | ~32,089 |
 | The Tech Specialist | 7.00% | ~32,089 |
-| Chapter V: Memories of None | 6.00% | ~27,504 |
-| Meet your maker | 6.00% | ~27,504 |
-| The Impersonator | 6.00% | ~27,504 |
-| The Kid | 6.00% | ~27,504 |
-| The Evangelist | 6.00% | ~27,504 |
-| The Inquisitor | 6.00% | ~27,504 |
-| The Ace Pilot | 6.00% | ~27,504 |
-| The Tech Med | 6.00% | ~27,504 |
-| The Mech Soldier | 6.00% | ~27,504 |
-| The lucky charm | 6.00% | ~27,504 |
-| The Anonymous | 6.00% | ~27,504 |
-| The Smuggler | 6.00% | ~27,504 |
-| The Crazy Repairman | 6.00% | ~27,504 |
-| The Weasel | 6.00% | ~27,504 |
+| Chapter V: Memories of None | 6.00% | ~27,505 |
+| Meet your maker | 6.00% | ~27,505 |
+| The Impersonator | 6.00% | ~27,505 |
+| The Kid | 6.00% | ~27,505 |
+| The Evangelist | 6.00% | ~27,505 |
+| The Inquisitor | 6.00% | ~27,505 |
+| The Ace Pilot | 6.00% | ~27,505 |
+| The Tech Med | 6.00% | ~27,505 |
+| The Mech Soldier | 6.00% | ~27,505 |
+| The lucky charm | 6.00% | ~27,505 |
+| The Anonymous | 6.00% | ~27,505 |
+| The Smuggler | 6.00% | ~27,505 |
+| The Crazy Repairman | 6.00% | ~27,505 |
+| The Weasel | 6.00% | ~27,505 |
 | Kill the Doctor | 5.00% | ~22,920 |
 | Forsaken | 5.00% | ~22,920 |
 | Mercy | 5.00% | ~22,920 |
@@ -72,7 +72,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Kaos Supremacy | 0.10% | ~458 |
 | Excelsior Supremacy | 0.10% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458,408 (Ranked 28)  
+Progressed: 458,409 (Ranked 29)  
 Completed: 14 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 14 (0.00%) (Ranked 200)
 | 2023-05-16 | 458,171 | 14 |
 | 2023-05-17 | 458,267 | 14 |
 | 2023-05-18 | 458,375 | 14 |
-| 2023-05-19 | 458,408 | 14 |
+| 2023-05-19 | 458,409 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 209 (Ranked 349)  

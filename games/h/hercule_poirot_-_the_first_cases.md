@@ -36,7 +36,7 @@ Rating: 4.33 (Ranked 738)
 | The Search | 31.00% | ~108 |
 | Hugo Beckers | 30.00% | ~104 |
 | The Family | 28.00% | ~97 |
-| Well-travelled | 26.00% | ~90 |
+| Well-travelled | 27.00% | ~94 |
 | Thinking of Everything | 26.00% | ~90 |
 | Exquisite Artwork | 26.00% | ~90 |
 | Viscount Edwin Van den Bosch | 26.00% | ~90 |

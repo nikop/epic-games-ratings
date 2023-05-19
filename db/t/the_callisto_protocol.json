@@ -410,9 +410,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 12686,
+  "EOS_Progressed": 12697,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -825,6 +825,11 @@
       "Time": "2023-05-19T09:01:53.148007+00:00",
       "NumProgressed": 12686,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-19T10:01:07.7876237+00:00",
+      "NumProgressed": 12697,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 40,
@@ -852,7 +857,7 @@
       "Name": "Giving Back",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -866,9 +871,9 @@
       "ID": "DISARM_ENEMY",
       "SetID": "4hj6d86",
       "Name": "Flesh Wound",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 114
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -962,9 +967,9 @@
       "ID": "KILL_MANY_WITH_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Chew \u0027Em Up",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 102
     },
     {
       "ID": "KILL_ROBOT",
@@ -1106,17 +1111,17 @@
       "ID": "FINISH_RIOT_MODE",
       "SetID": "6j5ggkc",
       "Name": "Instigator",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "FINISH_WAVE_50",
       "SetID": "6j5ggkc",
       "Name": "Big Game Hunter",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -1155,13 +1160,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 12686,
+      "Progressed": 12697,
       "Completed": 51
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 612,
+      "Progressed": 623,
       "Completed": 29
     }
   ],
@@ -1169,8 +1174,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-16T17:57:38.030273+00:00",
-  "LastChanged_Achievements": "2023-05-19T09:01:53.1480064+00:00",
+  "LastChanged_Achievements": "2023-05-19T10:01:07.7876232+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:45.2768909+00:00",
-  "LastUpdate_Ratings": "2023-05-19T08:58:02.9484656+00:00",
-  "LastUpdate_Achievements": "2023-05-19T09:01:53.148071+00:00"
+  "LastUpdate_Ratings": "2023-05-19T09:57:50.0808989+00:00",
+  "LastUpdate_Achievements": "2023-05-19T10:01:07.787673+00:00"
 }

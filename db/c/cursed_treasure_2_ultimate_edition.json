@@ -4,7 +4,7 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
@@ -131,9 +131,9 @@
       "ID": "BADGE_BOSS_5_KILL",
       "SetID": "ak6pfjk",
       "Name": "Deposition",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "BADGE_BOSS_6_KILL",
@@ -524,8 +524,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-05-19T09:06:30.8671151+00:00",
+  "LastChanged_Achievements": "2023-05-19T10:06:01.5394832+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:31.9076697+00:00",
-  "LastUpdate_Ratings": "2023-05-19T08:58:59.799476+00:00",
-  "LastUpdate_Achievements": "2023-05-19T09:06:30.8671889+00:00"
+  "LastUpdate_Ratings": "2023-05-19T09:58:39.4576109+00:00",
+  "LastUpdate_Achievements": "2023-05-19T10:06:01.5395284+00:00"
 }

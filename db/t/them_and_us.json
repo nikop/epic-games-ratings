@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 100,
+  "EOS_Progressed": 101,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1,
+  "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
     {
       "Time": "2023-04-30T13:59:34.488144+00:00",
@@ -378,6 +378,11 @@
       "Time": "2023-05-19T05:00:55.1915563+00:00",
       "NumProgressed": 100,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-19T10:01:27.5655948+00:00",
+      "NumProgressed": 101,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -403,7 +408,7 @@
       "ID": "ETUA_AlonewithThem",
       "SetID": "65jc0ap",
       "Name": "Alone with Them",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 5,
       "UsersEstimate": 65
     },
@@ -483,7 +488,7 @@
       "ID": "ETUA_ForcedtoKill",
       "SetID": "65jc0ap",
       "Name": "Forced to Kill",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 5,
       "UsersEstimate": 65
     },
@@ -708,7 +713,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 100,
+      "Progressed": 101,
       "Completed": 1
     }
   ],
@@ -716,8 +721,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-05-19T09:02:16.2332383+00:00",
+  "LastChanged_Achievements": "2023-05-19T10:01:27.5655941+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:08.4580551+00:00",
-  "LastUpdate_Ratings": "2023-05-19T08:57:12.470142+00:00",
-  "LastUpdate_Achievements": "2023-05-19T09:02:16.233293+00:00"
+  "LastUpdate_Ratings": "2023-05-19T09:57:06.0792533+00:00",
+  "LastUpdate_Achievements": "2023-05-19T10:01:27.5656384+00:00"
 }

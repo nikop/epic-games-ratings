@@ -5,26 +5,26 @@ Rating: 3.50 (Ranked 921)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 80.00% | ~1,257 |
+| I Like My Stakes Rare! | 80.00% | ~1,258 |
 | Home Is Where the Heart Is | 63.00% | ~990 |
-| Ne Plus Ultra | 62.00% | ~974 |
-| Wounded Whispers | 62.00% | ~974 |
-| Blood Will Have Blood | 51.00% | ~801 |
-| ICU | 47.00% | ~738 |
+| Ne Plus Ultra | 62.00% | ~975 |
+| Wounded Whispers | 62.00% | ~975 |
+| Blood Will Have Blood | 51.00% | ~802 |
+| ICU | 47.00% | ~739 |
 | Catch and Release | 46.00% | ~723 |
 | Peek-a-boo | 45.00% | ~707 |
-| Sucks To Be You | 44.00% | ~691 |
+| Sucks To Be You | 44.00% | ~692 |
 | Welcome to the Neighborhood | 38.00% | ~597 |
 | Fly Fisher | 36.00% | ~566 |
 | Throw The First Stone | 35.00% | ~550 |
-| Enter of Your Own Free Will | 33.00% | ~518 |
+| Enter of Your Own Free Will | 33.00% | ~519 |
 | Heart Attack | 32.00% | ~503 |
 | Skin of Their Teeth | 32.00% | ~503 |
 | Grounded | 24.00% | ~377 |
 | Bad Wiring | 21.00% | ~330 |
 | I Spit On Your Grave | 20.00% | ~314 |
-| Neighborhood Revitalization | 16.00% | ~251 |
-| Radio Silence | 16.00% | ~251 |
+| Neighborhood Revitalization | 16.00% | ~252 |
+| Radio Silence | 16.00% | ~252 |
 | Helping Hand | 12.00% | ~189 |
 | You Clean It Up | 11.00% | ~173 |
 | Starve the Beast | 9.00% | ~141 |
@@ -72,7 +72,7 @@ Rating: 3.50 (Ranked 921)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,571 (Ranked 149)  
+Progressed: 1,572 (Ranked 149)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-16 | 1,558 | 0 |
 | 2023-05-17 | 1,563 | 0 |
 | 2023-05-18 | 1,569 | 0 |
-| 2023-05-19 | 1,571 | 0 |
+| 2023-05-19 | 1,572 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

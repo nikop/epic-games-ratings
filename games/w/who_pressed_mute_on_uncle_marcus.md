@@ -7,10 +7,10 @@
 | Sorry, kiddo | 95.00% | ~148 |
 | And away we go! | 85.00% | ~133 |
 | Job one. DONE! | 53.00% | ~83 |
-| You are Carol Vorderman | 51.00% | ~80 |
+| You are Carol Vorderman | 52.00% | ~81 |
 | Toby foolery | 47.00% | ~73 |
 | Don't fear the baldness | 35.00% | ~55 |
-| Instinct | 33.00% | ~51 |
+| Instinct | 34.00% | ~53 |
 | Blow | 29.00% | ~45 |
 | Just like me | 28.00% | ~44 |
 | Brown nosing | 25.00% | ~39 |

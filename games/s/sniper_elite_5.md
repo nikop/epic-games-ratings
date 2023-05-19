@@ -5,10 +5,10 @@ Rating: 4.41 (Ranked 655)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 0.80% | ~6 |
+| Meeting Resistance | 0.90% | ~7 |
+| Resourceful | 0.80% | ~6 |
 | The Long Game | 0.70% | ~5 |
 | Confirming Suspicions | 0.70% | ~5 |
-| Resourceful | 0.70% | ~5 |
 | As Quiet as a Mouse | 0.70% | ~5 |
 | Enemy at the Gates | 0.50% | ~4 |
 | Taking it back | 0.50% | ~4 |
@@ -22,6 +22,7 @@ Rating: 4.41 (Ranked 655)
 | It's Starting to Crack | 0.40% | ~3 |
 | Climbing the Ladder | 0.30% | ~2 |
 | No Stone Unturned | 0.30% | ~2 |
+| Organ Grinder | 0.30% | ~2 |
 | Snake in the Grass | 0.30% | ~2 |
 | Change the Channel | 0.30% | ~2 |
 | Don't hold your breath | 0.30% | ~2 |
@@ -30,7 +31,6 @@ Rating: 4.41 (Ranked 655)
 | Liberté | 0.10% | ~1 |
 | Fields of Glory | 0.10% | ~1 |
 | Just a Flesh Wound | 0.10% | ~1 |
-| Organ Grinder | 0.10% | ~1 |
 | Sharpshooter | 0.10% | ~1 |
 | Rigged to Blow | 0.10% | ~1 |
 | Explosive Efficiency | 0.10% | ~1 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 655)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 768 (Ranked 172)  
+Progressed: 769 (Ranked 172)  
 Completed: 2 (0.26%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 2 (0.26%) (Ranked 131)
 | 2023-05-16 | 723 | 2 |
 | 2023-05-17 | 728 | 2 |
 | 2023-05-18 | 743 | 2 |
-| 2023-05-19 | 768 | 2 |
+| 2023-05-19 | 769 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

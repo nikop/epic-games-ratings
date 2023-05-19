@@ -5,25 +5,25 @@ Rating: 3.68 (Ranked 919)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 29.00% | ~108 |
-| Electrician | 20.00% | ~75 |
-| Fear my botany powers, Mars | 13.00% | ~48 |
-| Zero Waste | 11.00% | ~41 |
+| I don't feel so good | 29.00% | ~110 |
+| Electrician | 21.00% | ~80 |
+| Fear my botany powers, Mars | 13.00% | ~49 |
+| Zero Waste | 12.00% | ~45 |
 | I am the greatest botanist on this planet. | 9.00% | ~34 |
 | Bob The Builder | 9.00% | ~34 |
 | Houston we have a problem | 8.00% | ~30 |
 | Occupy Mars! | 8.00% | ~30 |
-| Miner | 5.00% | ~19 |
-| Detective | 2.00% | ~7 |
-| Gardener | 2.00% | ~7 |
-| Get your hands dirty | 2.00% | ~7 |
+| Miner | 6.00% | ~23 |
+| Detective | 2.00% | ~8 |
+| Gardener | 2.00% | ~8 |
+| Get your hands dirty | 2.00% | ~8 |
 | All Wheel Trouble | 1.00% | ~4 |
+| ITS crash site | 0.80% | ~3 |
 | Space Forest | 0.80% | ~3 |
 | The Collector | 0.50% | ~2 |
 | “Aliens” | 0.50% | ~2 |
 | Caveman | 0.50% | ~2 |
 | DeDust | 0.50% | ~2 |
-| ITS crash site | 0.50% | ~2 |
 | Cooking Vegetables | 0.30% | ~1 |
 | Driver's License | 0.30% | ~1 |
 | Explosive Miner | 0.30% | ~1 |
@@ -54,7 +54,7 @@ Rating: 3.68 (Ranked 919)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 373 (Ranked 197)  
+Progressed: 379 (Ranked 196)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,7 +66,7 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-16 | 9 | 0 |
 | 2023-05-17 | 10 | 0 |
 | 2023-05-18 | 287 | 0 |
-| 2023-05-19 | 373 | 0 |
+| 2023-05-19 | 379 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

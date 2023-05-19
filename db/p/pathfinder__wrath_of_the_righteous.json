@@ -2432,9 +2432,9 @@
       "Count": 368
     }
   ],
-  "EOS_Progressed": 8891,
+  "EOS_Progressed": 8893,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3802,6 +3802,11 @@
       "Time": "2023-05-19T09:06:50.7780063+00:00",
       "NumProgressed": 8891,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T10:06:19.4425028+00:00",
+      "NumProgressed": 8893,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3829,7 +3834,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "04_FithCrusade",
@@ -4013,7 +4018,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "28_GreatUpstart",
@@ -4693,7 +4698,7 @@
       "Name": "Hanged Man\u0027s Notes",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "DLC4_25_Sarkoris Will Be Green",
@@ -4725,7 +4730,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -4733,28 +4738,28 @@
       "Name": "Beware Still Water",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7673,
+      "Progressed": 7675,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8891,
+      "Progressed": 8893,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-18T21:58:35.3009581+00:00",
-  "LastChanged_Achievements": "2023-05-19T09:06:50.7780056+00:00",
+  "LastChanged_Achievements": "2023-05-19T10:06:19.4425023+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:14.2729853+00:00",
-  "LastUpdate_Ratings": "2023-05-19T08:58:37.4167779+00:00",
-  "LastUpdate_Achievements": "2023-05-19T09:06:50.7783039+00:00"
+  "LastUpdate_Ratings": "2023-05-19T09:58:19.3412009+00:00",
+  "LastUpdate_Achievements": "2023-05-19T10:06:19.442668+00:00"
 }

@@ -7,14 +7,14 @@
 | A path of no return | 107.00% | ~16 |
 | Pigeon | 87.00% | ~13 |
 | A bottomless pit | 87.00% | ~13 |
+| Baited | 67.00% | ~10 |
 | Splash! | 67.00% | ~10 |
-| Baited | 60.00% | ~9 |
-| "Swoosh" | 47.00% | ~7 |
-| The light at the end of the tunnel | 47.00% | ~7 |
+| "Swoosh" | 53.00% | ~8 |
+| The light at the end of the tunnel | 53.00% | ~8 |
 | Soft skin | 47.00% | ~7 |
 | Hard Rock | 47.00% | ~7 |
+| Sensitive soul | 47.00% | ~7 |
 | Masochistic | 40.00% | ~6 |
-| Sensitive soul | 40.00% | ~6 |
 | Squid game | 33.00% | ~5 |
 | The beast within | 33.00% | ~5 |
 | Rooftop | 33.00% | ~5 |
@@ -30,11 +30,11 @@
 | "Ah sh*t... Here we go again!" | 13.00% | ~2 |
 | MayDay! MayDay! | 13.00% | ~2 |
 | Magnitude 5 | 13.00% | ~2 |
+| GG EZ | 7.00% | ~1 |
+| Comeback | 7.00% | ~1 |
 | Abyssal God | 0.00% | ~0 |
-| GG EZ | 0.00% | ~0 |
 | What do you want? | 0.00% | ~0 |
 | Sadistic | 0.00% | ~0 |
-| Comeback | 0.00% | ~0 |
 | Gooooooaaaaal!!! | 0.00% | ~0 |
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |

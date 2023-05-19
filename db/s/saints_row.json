@@ -2328,9 +2328,9 @@
       "Count": 1029
     }
   ],
-  "EOS_Progressed": 29883,
+  "EOS_Progressed": 29923,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 3623,
+  "EOS_NewPlayers": 3653,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5113,6 +5113,11 @@
       "Time": "2023-05-19T09:06:15.7039914+00:00",
       "NumProgressed": 29883,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-19T10:05:47.8485385+00:00",
+      "NumProgressed": 29923,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 53,
@@ -5156,7 +5161,7 @@
       "Name": "Hijacked",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "collect_high_amount_hero_props",
@@ -5178,9 +5183,9 @@
       "ID": "complet_epilogue_mission",
       "SetID": "3ib2d0i",
       "Name": "We could go home, or\u2026",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 75,
-      "UsersEstimate": 120
+      "UsersEstimate": 150
     },
     {
       "ID": "complete_all_of_wanted",
@@ -5236,7 +5241,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 896
+      "UsersEstimate": 898
     },
     {
       "ID": "customize_a_vehicle",
@@ -5292,7 +5297,7 @@
       "Name": "The Spins",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "empire_tier_2",
@@ -5322,9 +5327,9 @@
       "ID": "empire_tier_5",
       "SetID": "3ib2d0i",
       "Name": "A Golden Age",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 120
+      "UsersEstimate": 150
     },
     {
       "ID": "first_building_placed",
@@ -5348,7 +5353,7 @@
       "Name": "The Mechanic",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "fully_upgrade_a_weapon",
@@ -5434,9 +5439,9 @@
       "ID": "own_100_pieces_of_clothing",
       "SetID": "3ib2d0i",
       "Name": "Closet Space",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 150
     },
     {
       "ID": "prank_coop_partner",
@@ -5474,9 +5479,9 @@
       "ID": "staggered_by_vending_machine",
       "SetID": "3ib2d0i",
       "Name": "Food for Thought",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 598
     },
     {
       "ID": "two_thirds_purple",
@@ -5547,22 +5552,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 29883,
+      "Progressed": 29923,
       "Completed": 19
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 1520,
-      "Completed": 477
+      "Progressed": 1560,
+      "Completed": 479
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-05-19T04:59:33.0188311+00:00",
-  "LastChanged_Achievements": "2023-05-19T09:06:15.7039908+00:00",
+  "LastChanged_Achievements": "2023-05-19T10:05:47.8485381+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:30.5487135+00:00",
-  "LastUpdate_Ratings": "2023-05-19T09:00:16.6567908+00:00",
-  "LastUpdate_Achievements": "2023-05-19T09:06:15.7040997+00:00"
+  "LastUpdate_Ratings": "2023-05-19T09:59:42.5056031+00:00",
+  "LastUpdate_Achievements": "2023-05-19T10:05:47.8485985+00:00"
 }

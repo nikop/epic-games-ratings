@@ -80,7 +80,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1080,
+  "EOS_Progressed": 1081,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
@@ -1845,6 +1845,11 @@
       "Time": "2023-05-19T08:05:20.7191384+00:00",
       "NumProgressed": 1080,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-19T10:06:00.5812068+00:00",
+      "NumProgressed": 1081,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1862,9 +1867,9 @@
       "ID": "ancientknowledge",
       "SetID": "3nl4bcg",
       "Name": "Ancient Knowledge",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 22
     },
     {
       "ID": "angelpower",
@@ -2038,9 +2043,9 @@
       "ID": "fellowshippower",
       "SetID": "3nl4bcg",
       "Name": "Fellowship Power",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 421
+      "UsersEstimate": 432
     },
     {
       "ID": "fourleafclover",
@@ -2062,9 +2067,9 @@
       "ID": "fullparty",
       "SetID": "3nl4bcg",
       "Name": "Full Party",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 130
     },
     {
       "ID": "gearenchanting",
@@ -2102,9 +2107,9 @@
       "ID": "heroinspection",
       "SetID": "3nl4bcg",
       "Name": "Hero inspection",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 130
     },
     {
       "ID": "howdoyouturnthison",
@@ -2344,7 +2349,7 @@
       "Name": "The game is on",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "thepowerofawakening",
@@ -2416,7 +2421,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1015
+      "UsersEstimate": 1016
     },
     {
       "ID": "warmachinesarmy",
@@ -2448,14 +2453,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1080,
+      "Progressed": 1081,
       "Completed": 1
     }
   ],
@@ -2463,8 +2468,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-18T22:58:45.6795503+00:00",
-  "LastChanged_Achievements": "2023-05-19T09:06:29.6423828+00:00",
+  "LastChanged_Achievements": "2023-05-19T10:06:00.5812064+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:54.9565506+00:00",
-  "LastUpdate_Ratings": "2023-05-19T08:58:13.1557676+00:00",
-  "LastUpdate_Achievements": "2023-05-19T09:06:29.6425339+00:00"
+  "LastUpdate_Ratings": "2023-05-19T09:57:58.335212+00:00",
+  "LastUpdate_Achievements": "2023-05-19T10:06:00.5812887+00:00"
 }

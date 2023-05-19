@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -72,9 +72,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 580,
+  "EOS_Progressed": 581,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -111,6 +111,11 @@
     {
       "Time": "2023-05-18T22:06:18.4009965+00:00",
       "NumProgressed": 580,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T10:05:59.8279076+00:00",
+      "NumProgressed": 581,
       "NumCompleted": 0
     }
   ],
@@ -171,7 +176,7 @@
       "Name": "Fetch Quest Complete",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "AhoyTrophy",
@@ -267,7 +272,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "Ext4Trophy",
@@ -403,7 +408,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "MaxPriceTrophy",
@@ -443,7 +448,7 @@
       "Name": "Taking the plunge",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "RacerTrophy",
@@ -554,7 +559,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 580,
+      "Progressed": 581,
       "Completed": 0
     }
   ],
@@ -562,8 +567,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-03-31T05:57:16.243609+00:00",
-  "LastChanged_Achievements": "2023-05-19T09:06:28.8512046+00:00",
+  "LastChanged_Achievements": "2023-05-19T10:05:59.8279072+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:10.2070468+00:00",
-  "LastUpdate_Ratings": "2023-05-19T08:58:31.4410085+00:00",
-  "LastUpdate_Achievements": "2023-05-19T09:06:28.8512864+00:00"
+  "LastUpdate_Ratings": "2023-05-19T09:58:14.2941386+00:00",
+  "LastUpdate_Achievements": "2023-05-19T10:05:59.8279537+00:00"
 }

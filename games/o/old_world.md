@@ -58,10 +58,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Artisans | 31.00% | ~3,463 |
 | Furious Family | 31.00% | ~3,463 |
 | Acropolis | 31.00% | ~3,463 |
+| Learn to Play 1 | 31.00% | ~3,463 |
 | Mythology | 31.00% | ~3,463 |
 | Just Difficulty | 30.00% | ~3,351 |
 | Mausoleum | 30.00% | ~3,351 |
-| Learn to Play 1 | 30.00% | ~3,351 |
 | Wise | 29.00% | ~3,240 |
 | Intercessor | 27.00% | ~3,016 |
 | Valiant | 26.00% | ~2,904 |

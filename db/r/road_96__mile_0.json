@@ -2,9 +2,9 @@
   "ID": "68c8fe90d12b4ea494f549ec409f58c8",
   "Name": "Road 96: Mile 0",
   "ProductSlug": "road-96-mile-0",
-  "Ranking_EOS_Progress": 238,
+  "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 157,
+  "EOS_Progressed": 158,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.27,
   "EosHistory": [
@@ -164,6 +164,11 @@
       "Time": "2023-05-19T04:06:23.9351813+00:00",
       "NumProgressed": 157,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-19T10:05:54.9218927+00:00",
+      "NumProgressed": 158,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -175,7 +180,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 63,
       "XP": 60,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "completeact2",
@@ -231,7 +236,7 @@
       "Name": "86\u0027s Nightmare",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "scoreminrankrf2",
@@ -261,9 +266,9 @@
       "ID": "scoreminrankrp2",
       "SetID": "40n95i5",
       "Name": "Attack on Tyran",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "scoreminrankrp3",
@@ -279,7 +284,7 @@
       "Name": "Welcome to the Garage",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "scoreminrankrv2",
@@ -294,7 +299,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 157,
+      "Progressed": 158,
       "Completed": 2
     }
   ],
@@ -302,8 +307,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-05-19T09:06:23.5831889+00:00",
+  "LastChanged_Achievements": "2023-05-19T10:05:54.9218921+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:43.0209148+00:00",
-  "LastUpdate_Ratings": "2023-05-19T08:59:15.441994+00:00",
-  "LastUpdate_Achievements": "2023-05-19T09:06:23.5832096+00:00"
+  "LastUpdate_Ratings": "2023-05-19T09:58:52.3480822+00:00",
+  "LastUpdate_Achievements": "2023-05-19T10:05:54.9219066+00:00"
 }
