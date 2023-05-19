@@ -1,5 +1,6 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
+| [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 2023-05-19 | 2023-05-19 |
 | [Backbeat](games/b/backbeat.md) | 2023-05-19 | 2023-03-16 |
 | [Minimal Move](games/m/minimal_move.md) | 2023-05-19 | 2021-03-30 |
 | [Volley Pals](games/v/volley_pals.md) | 2023-05-19 | 2023-04-06 |

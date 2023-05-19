@@ -490,7 +490,7 @@
 | 479 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 497 | 186 |
 | 479 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.54 | 0 | 492 |
 | 479 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.54 | 279 | 227 |
-| 479 | [VALORANT](games/v/valorant.md) | 4.54 | 52,923 | 11 |
+| 479 | [VALORANT](games/v/valorant.md) | 4.54 | 53,062 | 11 |
 | 479 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 28 | 454 |
 | 493 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 492 |
 | 493 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 492 |
@@ -899,8 +899,8 @@
 | 897 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 29 | 450 |
 | 897 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 274 | 231 |
 | 897 | [Ironcast](games/i/ironcast.md) | 3.93 | 0 | 492 |
-| 900 | [Conarium](games/c/conarium.md) | 3.92 | 0 | 492 |
-| 900 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.92 | 0 | 492 |
+| 897 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 0 | 492 |
+| 901 | [Conarium](games/c/conarium.md) | 3.92 | 0 | 492 |
 | 902 | [Fault: Elder Orb](games/f/fault__elder_orb.md) | 3.91 | 103 | 321 |
 | 902 | [Warface](games/w/warface.md) | 3.91 | 390 | 203 |
 | 904 | [Retreat To Enen](games/r/retreat_to_enen.md) | 3.86 | 0 | 492 |

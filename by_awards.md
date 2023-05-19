@@ -10,7 +10,7 @@
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 109,396 | 4.69 | 213 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 64,424 | 4.62 | 341 |
 | 10 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 56,870 | 4.59 | 401 |
-| 11 | [VALORANT](games/v/valorant.md) | 52,923 | 4.54 | 479 |
+| 11 | [VALORANT](games/v/valorant.md) | 53,062 | 4.54 | 479 |
 | 12 | [Destiny 2](games/d/destiny_2.md) | 33,889 | 4.50 | 531 |
 | 13 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 33,548 | 4.60 | 383 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 31,311 | 4.74 | 141 |

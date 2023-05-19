@@ -1,6 +1,5 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 2023-05-19 | 2023-05-19 |
 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 2023-05-19 | 2022-02-03 |
 | [FPVSIM FPV Simulator](games/a/acb4a47d0bae433e8d721807c5849b99.md) | 2023-05-19 | 2023-05-19 |
 | [Quantum Storm](games/q/quantum_storm.md) | 2023-05-19 | 2023-05-19 |
