@@ -11,7 +11,7 @@
 | A big leap for wolfkind | 8.00% | ~147 |
 | Transmission | 7.00% | ~129 |
 | The will to move on | 6.00% | ~110 |
-| Reunion | 5.00% | ~92 |
+| Reunion | 6.00% | ~110 |
 | The end | 5.00% | ~92 |
 | Sliders | 3.00% | ~55 |
 | Sheltered by the fallen tree | 2.00% | ~37 |

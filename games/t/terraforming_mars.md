@@ -6,10 +6,10 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 39.00% | ~22,582 |
-| Final touch | 38.00% | ~22,003 |
-| Prop-M Rover | 34.00% | ~19,687 |
-| Changing the Planet | 30.00% | ~17,371 |
+| It's a steal! | 39.00% | ~22,583 |
+| Final touch | 38.00% | ~22,004 |
+| Prop-M Rover | 34.00% | ~19,688 |
+| Changing the Planet | 30.00% | ~17,372 |
 | Sojourner | 29.00% | ~16,792 |
 | Beagle 2 | 26.00% | ~15,055 |
 | New Home | 25.00% | ~14,476 |
@@ -21,15 +21,15 @@ Number of Ratings: 2,731  (23.09.2022)
 | Master | 21.00% | ~12,160 |
 | No Longer Red | 20.00% | ~11,581 |
 | Money money | 17.00% | ~9,844 |
-| Biggest Reward | 15.00% | ~8,685 |
-| Acquired knowledge | 14.00% | ~8,106 |
-| Most Achievements | 13.00% | ~7,527 |
-| Hellenic Elysium | 13.00% | ~7,527 |
-| First Journey | 12.00% | ~6,948 |
-| Landlord | 12.00% | ~6,948 |
-| Grand champion | 12.00% | ~6,948 |
-| Spirit | 11.00% | ~6,369 |
-| Ultimate success | 11.00% | ~6,369 |
+| Biggest Reward | 15.00% | ~8,686 |
+| Acquired knowledge | 14.00% | ~8,107 |
+| Most Achievements | 13.00% | ~7,528 |
+| Hellenic Elysium | 13.00% | ~7,528 |
+| First Journey | 12.00% | ~6,949 |
+| Landlord | 12.00% | ~6,949 |
+| Grand champion | 12.00% | ~6,949 |
+| Spirit | 11.00% | ~6,370 |
+| Ultimate success | 11.00% | ~6,370 |
 | Variety Expert | 10.00% | ~5,790 |
 | Frequent tester | 9.00% | ~5,211 |
 | Determined | 8.00% | ~4,632 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~1,737 |
 | Opportunity | 3.00% | ~1,737 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,903 (Ranked 70)  
+Progressed: 57,905 (Ranked 70)  
 Completed: 63 (0.11%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -66,7 +66,7 @@ Completed: 63 (0.11%) (Ranked 155)
 | 2023-05-16 | 57,545 | 62 |
 | 2023-05-17 | 57,695 | 62 |
 | 2023-05-18 | 57,870 | 63 |
-| 2023-05-19 | 57,903 | 63 |
+| 2023-05-19 | 57,905 | 63 |
 ## Awards
 Max (Relaxing): 497  (Ranked 186)  
 Sum: 3,059 (Ranked 147)  

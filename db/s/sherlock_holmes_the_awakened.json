@@ -258,9 +258,9 @@
       "ID": "MQ01_1",
       "SetID": "bbing49",
       "Name": "Read Between The Lines",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "MQ01_2",
@@ -306,9 +306,9 @@
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "MQ03_2",
@@ -491,8 +491,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-19T04:01:34.7722569+00:00",
+  "LastChanged_Achievements": "2023-05-19T05:00:41.9927996+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:11.4352441+00:00",
-  "LastUpdate_Ratings": "2023-05-19T03:57:17.6568507+00:00",
-  "LastUpdate_Achievements": "2023-05-19T04:01:34.7722974+00:00"
+  "LastUpdate_Ratings": "2023-05-19T04:57:02.3721308+00:00",
+  "LastUpdate_Achievements": "2023-05-19T05:00:41.9928262+00:00"
 }

@@ -49,7 +49,7 @@ Completed: 6 (0.23%) (Ranked 136)
 | 2023-05-19 | 2,653 | 6 |
 ## Awards
 Max (Relaxing): 118  (Ranked 305)  
-Sum: 925 (Ranked 234)  
+Sum: 926 (Ranked 234)  
 Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
@@ -58,7 +58,7 @@ Diff (max vs sum): 71
 | This game has Quickly Understood Controls | 100 |
 | This game is Extremely Fun | 100 |
 | This game has Diverse Characters | 99 |
-| This game is Highly Recommended | 96 |
+| This game is Highly Recommended | 97 |
 | This game has Amazing Characters | 90 |
 | This game has Amazing Storytelling | 81 |
 | This game has Unique Visuals | 75 |
@@ -157,3 +157,4 @@ Diff (max vs sum): 71
 | 2023-05-05 | 4.60 | - | 118 | 923 |
 | 2023-05-09 | 4.60 | - | 118 | 924 |
 | 2023-05-14 | 4.60 | - | 118 | 925 |
+| 2023-05-19 | 4.60 | - | 118 | 926 |

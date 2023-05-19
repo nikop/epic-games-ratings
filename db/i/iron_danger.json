@@ -4,7 +4,7 @@
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 168,
+  "EOS_Progressed": 169,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.38,
+  "EOS_Completed_Percentage": 2.37,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.5378411+00:00",
@@ -71,6 +71,11 @@
       "Time": "2023-05-18T22:06:35.3118197+00:00",
       "NumProgressed": 168,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-19T05:05:32.6056982+00:00",
+      "NumProgressed": 169,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -90,7 +95,7 @@
       "Name": "Champion of Kalevala",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_FORAGER",
@@ -146,7 +151,7 @@
       "Name": "Found the Healer",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_KEYU_EXTERMINATOR",
@@ -178,7 +183,7 @@
       "Name": "Death is Merely a Setback",
       "Percentage": 8,
       "XP": 65,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_RINGFIRE",
@@ -202,15 +207,15 @@
       "Name": "First Shard",
       "Percentage": 80,
       "XP": 40,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_SHARD_2",
       "SetID": "ao59f0i",
       "Name": "Second Shard",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_SHARD_3",
@@ -218,7 +223,7 @@
       "Name": "Third Shard",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_SHARD_4",
@@ -265,7 +270,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 168,
+      "Progressed": 169,
       "Completed": 4
     }
   ],
@@ -273,8 +278,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-05-19T04:06:45.216773+00:00",
+  "LastChanged_Achievements": "2023-05-19T05:05:32.6056978+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:56.6904765+00:00",
-  "LastUpdate_Ratings": "2023-05-19T04:00:42.795515+00:00",
-  "LastUpdate_Achievements": "2023-05-19T04:06:45.2167981+00:00"
+  "LastUpdate_Ratings": "2023-05-19T05:00:00.3751441+00:00",
+  "LastUpdate_Achievements": "2023-05-19T05:05:32.6057144+00:00"
 }

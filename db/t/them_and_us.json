@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 98,
+  "EOS_Progressed": 100,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.02,
+  "EOS_Completed_Percentage": 1,
   "EosHistory": [
     {
       "Time": "2023-04-30T13:59:34.488144+00:00",
@@ -373,6 +373,11 @@
       "Time": "2023-05-19T03:00:49.3379889+00:00",
       "NumProgressed": 98,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-19T05:00:55.1915563+00:00",
+      "NumProgressed": 100,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -398,7 +403,7 @@
       "ID": "ETUA_AlonewithThem",
       "SetID": "65jc0ap",
       "Name": "Alone with Them",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 5,
       "UsersEstimate": 65
     },
@@ -478,7 +483,7 @@
       "ID": "ETUA_ForcedtoKill",
       "SetID": "65jc0ap",
       "Name": "Forced to Kill",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 5,
       "UsersEstimate": 65
     },
@@ -670,7 +675,7 @@
       "ID": "ETUA_Thiswillbealongnight",
       "SetID": "65jc0ap",
       "Name": "A Night To Remember",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
       "UsersEstimate": 31
     },
@@ -703,7 +708,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 98,
+      "Progressed": 100,
       "Completed": 1
     }
   ],
@@ -711,8 +716,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-05-19T04:01:51.6234733+00:00",
+  "LastChanged_Achievements": "2023-05-19T05:00:55.1915559+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:08.4580551+00:00",
-  "LastUpdate_Ratings": "2023-05-19T03:57:12.3934992+00:00",
-  "LastUpdate_Achievements": "2023-05-19T04:01:51.6235349+00:00"
+  "LastUpdate_Ratings": "2023-05-19T04:56:58.4989742+00:00",
+  "LastUpdate_Achievements": "2023-05-19T05:00:55.1915935+00:00"
 }

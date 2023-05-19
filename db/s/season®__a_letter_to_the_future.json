@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 33,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 748,
+  "EOS_Progressed": 749,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.14,
   "EosHistory": [
@@ -191,6 +191,11 @@
       "Time": "2023-05-19T04:06:20.400407+00:00",
       "NumProgressed": 748,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-05-19T05:05:12.4418379+00:00",
+      "NumProgressed": 749,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 16,
@@ -210,7 +215,7 @@
       "Name": "Deep Listener",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -250,7 +255,7 @@
       "Name": "Grey Hands Praxis 101",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -258,7 +263,7 @@
       "Name": "Home Leaver",
       "Percentage": 84,
       "XP": 40,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -266,7 +271,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 84,
       "XP": 40,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -329,7 +334,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 748,
+      "Progressed": 749,
       "Completed": 31
     }
   ],
@@ -337,8 +342,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-05-19T04:06:20.4004062+00:00",
+  "LastChanged_Achievements": "2023-05-19T05:05:12.4418371+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:32.6453589+00:00",
-  "LastUpdate_Ratings": "2023-05-19T03:58:56.9867865+00:00",
-  "LastUpdate_Achievements": "2023-05-19T04:06:20.400428+00:00"
+  "LastUpdate_Ratings": "2023-05-19T04:58:31.4844129+00:00",
+  "LastUpdate_Achievements": "2023-05-19T05:05:12.4418517+00:00"
 }

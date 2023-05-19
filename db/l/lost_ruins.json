@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 289,
+  "EOS_Progressed": 290,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -76,6 +76,11 @@
       "Time": "2023-05-18T21:07:03.1030966+00:00",
       "NumProgressed": 289,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T05:05:31.7641201+00:00",
+      "NumProgressed": 290,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -117,9 +122,9 @@
       "ID": "BossKiller",
       "SetID": "82505mn",
       "Name": "Boss Killer",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 67
     },
     {
       "ID": "BugHunter",
@@ -199,7 +204,7 @@
       "Name": "Iconoclasm",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Inquisitor",
@@ -406,7 +411,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 289,
+      "Progressed": 290,
       "Completed": 0
     }
   ],
@@ -414,8 +419,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-05-19T04:06:44.0836945+00:00",
+  "LastChanged_Achievements": "2023-05-19T05:05:31.7641196+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:28.9930498+00:00",
-  "LastUpdate_Ratings": "2023-05-19T04:00:09.1905138+00:00",
-  "LastUpdate_Achievements": "2023-05-19T04:06:44.0837557+00:00"
+  "LastUpdate_Ratings": "2023-05-19T04:59:28.8028274+00:00",
+  "LastUpdate_Achievements": "2023-05-19T05:05:31.7641506+00:00"
 }

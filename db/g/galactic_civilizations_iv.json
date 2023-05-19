@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -750,9 +750,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5704,
+  "EOS_Progressed": 5705,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2210,6 +2210,11 @@
       "Time": "2023-05-19T00:02:16.1530773+00:00",
       "NumProgressed": 5704,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T05:00:49.4429025+00:00",
+      "NumProgressed": 5705,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -2253,7 +2258,7 @@
       "Name": "Commodity Trader",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1825
+      "UsersEstimate": 1826
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -2283,9 +2288,9 @@
       "ID": "Destroy_Any_Faction",
       "SetID": "4h07amh",
       "Name": "Xenocide",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1882
+      "UsersEstimate": 1826
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -2301,7 +2306,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1768
+      "UsersEstimate": 1769
     },
     {
       "ID": "First_Major_Ally",
@@ -2325,7 +2330,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4506
+      "UsersEstimate": 4507
     },
     {
       "ID": "First_Race_Met",
@@ -2333,7 +2338,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4164
+      "UsersEstimate": 4165
     },
     {
       "ID": "First_Ship_Designed",
@@ -2357,7 +2362,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4449
+      "UsersEstimate": 4450
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -2437,7 +2442,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 1996
+      "UsersEstimate": 1997
     },
     {
       "ID": "Play_1000_Hours",
@@ -2541,7 +2546,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3536
+      "UsersEstimate": 3537
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -2557,7 +2562,7 @@
       "Name": "Galactic War",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "War_Without_Translator",
@@ -2796,15 +2801,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 5704,
+      "Progressed": 5705,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-05-13T13:57:10.2538669+00:00",
-  "LastChanged_Achievements": "2023-05-19T04:01:44.2618106+00:00",
+  "LastChanged_Achievements": "2023-05-19T05:00:49.4429021+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:16.807588+00:00",
-  "LastUpdate_Ratings": "2023-05-19T03:57:21.5811042+00:00",
-  "LastUpdate_Achievements": "2023-05-19T04:01:44.2619565+00:00"
+  "LastUpdate_Ratings": "2023-05-19T04:57:05.9596962+00:00",
+  "LastUpdate_Achievements": "2023-05-19T05:00:49.4430382+00:00"
 }

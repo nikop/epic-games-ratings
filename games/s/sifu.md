@@ -6,14 +6,14 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~497 |
+| Diligence as a goal | 4.00% | ~498 |
 | Project Arena | 3.00% | ~373 |
 | Bloody Sport | 1.00% | ~124 |
+| Qi Gong: Breath | 0.90% | ~6,328 |
 | The best strikes are the ones we avoid | 0.90% | ~112 |
 | The Hateful Pole Fighter | 0.80% | ~5,625 |
 | A Lady's Blood in the Snow | 0.80% | ~5,625 |
 | State of constant learning | 0.80% | ~5,625 |
-| Qi Gong: Breath | 0.80% | ~5,625 |
 | Path of the Prospect | 0.80% | ~5,625 |
 | Rumble in the Hangar | 0.80% | ~5,625 |
 | The Assault | 0.70% | ~4,922 |
@@ -34,11 +34,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Mind | 0.50% | ~3,516 |
 | Old Child | 0.50% | ~3,516 |
 | A Touch of Acumen | 0.50% | ~62 |
-| Muk Yan Master | 0.40% | ~2,812 |
-| Tiger on Fire | 0.40% | ~2,812 |
-| Source of Flying Daggers | 0.40% | ~2,812 |
-| Detective Story | 0.40% | ~2,812 |
-| I know Kung-Fu | 0.40% | ~2,812 |
+| Muk Yan Master | 0.40% | ~2,813 |
+| Tiger on Fire | 0.40% | ~2,813 |
+| Source of Flying Daggers | 0.40% | ~2,813 |
+| Detective Story | 0.40% | ~2,813 |
+| I know Kung-Fu | 0.40% | ~2,813 |
 | Iron Money | 0.30% | ~2,109 |
 | Legendary Talismans of Wuxing | 0.30% | ~2,109 |
 | Prodigal Child | 0.30% | ~2,109 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~703 |
 | Warriors from the Mountain | 0.10% | ~703 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703,119 (Ranked 15)  
+Progressed: 703,141 (Ranked 15)  
 Completed: 12,731 (1.81%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 12,731 (1.81%) (Ranked 62)
 | 2023-05-16 | 702,986 | 12,728 |
 | 2023-05-17 | 703,009 | 12,730 |
 | 2023-05-18 | 703,070 | 12,731 |
-| 2023-05-19 | 703,119 | 12,731 |
+| 2023-05-19 | 703,141 | 12,731 |
 ## Awards
 Max (Great Boss Battles): 6,074  (Ranked 53)  
 Sum: 10,327 (Ranked 77)  

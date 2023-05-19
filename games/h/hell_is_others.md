@@ -6,14 +6,14 @@ Rating: 4.47 (Ranked 581)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Survivor | 31.00% | ~77,206 |
-| Predator I | 22.00% | ~54,791 |
+| Predator I | 22.00% | ~54,792 |
 | Fixer I | 10.00% | ~24,905 |
 | A week in Century City | 10.00% | ~24,905 |
 | The Wait | 7.00% | ~17,434 |
 | Green thumb I | 6.00% | ~14,943 |
-| Well-oiled machine | 5.00% | ~12,452 |
-| Saver I | 5.00% | ~12,452 |
-| Cleaning Company | 5.00% | ~12,452 |
+| Well-oiled machine | 5.00% | ~12,453 |
+| Saver I | 5.00% | ~12,453 |
+| Cleaning Company | 5.00% | ~12,453 |
 | The Ascent | 4.00% | ~9,962 |
 | Pacifist | 4.00% | ~9,962 |
 | Vandalism | 4.00% | ~9,962 |
@@ -27,14 +27,14 @@ Rating: 4.47 (Ranked 581)
 | Predator II | 2.00% | ~4,981 |
 | Truffle Dog | 2.00% | ~4,981 |
 | A month in Century City | 2.00% | ~4,981 |
-| The Strengthening | 1.00% | ~2,490 |
-| Saver II | 1.00% | ~2,490 |
-| It's the last one, I swear | 1.00% | ~2,490 |
-| Botanist | 1.00% | ~2,490 |
-| Green thumb II | 1.00% | ~2,490 |
-| Don't try this at home | 1.00% | ~2,490 |
-| Bricklayer | 1.00% | ~2,490 |
-| Run the Economy | 1.00% | ~2,490 |
+| The Strengthening | 1.00% | ~2,491 |
+| Saver II | 1.00% | ~2,491 |
+| It's the last one, I swear | 1.00% | ~2,491 |
+| Botanist | 1.00% | ~2,491 |
+| Green thumb II | 1.00% | ~2,491 |
+| Don't try this at home | 1.00% | ~2,491 |
+| Bricklayer | 1.00% | ~2,491 |
+| Run the Economy | 1.00% | ~2,491 |
 | Committed Relationship | 0.80% | ~1,992 |
 | Number 1 | 0.70% | ~1,743 |
 | Interior designer | 0.60% | ~1,494 |
@@ -62,7 +62,7 @@ Rating: 4.47 (Ranked 581)
 | Capitalist III | 0.10% | ~249 |
 | Hell Is You | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,050 (Ranked 39)  
+Progressed: 249,053 (Ranked 39)  
 Completed: 1 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 1 (0.00%) (Ranked 200)
 | 2023-05-16 | 248,872 | 1 |
 | 2023-05-17 | 248,954 | 1 |
 | 2023-05-18 | 249,035 | 1 |
-| 2023-05-19 | 249,050 | 1 |
+| 2023-05-19 | 249,053 | 1 |
 ## Awards
 Max (Great for Quick Sessions): 23  (Ranked 470)  
 Sum: 23 (Ranked 472)  

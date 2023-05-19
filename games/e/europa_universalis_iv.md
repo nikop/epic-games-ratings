@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,536 |
-| That's a Grand Army | 8.00% | ~3,143 |
-| That is mine! | 8.00% | ~3,143 |
-| Victorious! | 8.00% | ~3,143 |
-| Brothers in Arms | 6.00% | ~2,357 |
-| That's a Grand Navy | 6.00% | ~2,357 |
-| Seriously?! | 6.00% | ~2,357 |
-| For the Glory | 5.00% | ~1,964 |
+| Until death do us apart | 9.00% | ~3,537 |
+| That's a Grand Army | 8.00% | ~3,144 |
+| That is mine! | 8.00% | ~3,144 |
+| Victorious! | 8.00% | ~3,144 |
+| Brothers in Arms | 6.00% | ~2,358 |
+| That's a Grand Navy | 6.00% | ~2,358 |
+| Seriously?! | 6.00% | ~2,358 |
+| For the Glory | 5.00% | ~1,965 |
 | Cold War | 4.00% | ~1,572 |
 | True Catholic | 4.00% | ~1,572 |
 | Defender of the Faith | 3.00% | ~1,179 |
@@ -45,12 +45,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Emperors new clothes | 0.70% | ~275 |
 | Time Bandit | 0.60% | ~236 |
 | Trustworthy | 0.60% | ~236 |
-| All belongs to Mother Russia | 0.50% | ~196 |
-| At every continent | 0.50% | ~196 |
-| Early-Modern Warfare | 0.50% | ~196 |
-| Electable! | 0.50% | ~196 |
-| One Family to Rule them All | 0.50% | ~196 |
-| The pen is mightier than the sword | 0.50% | ~196 |
+| All belongs to Mother Russia | 0.50% | ~197 |
+| At every continent | 0.50% | ~197 |
+| Early-Modern Warfare | 0.50% | ~197 |
+| Electable! | 0.50% | ~197 |
+| One Family to Rule them All | 0.50% | ~197 |
+| The pen is mightier than the sword | 0.50% | ~197 |
 | Absolutely | 0.40% | ~157 |
 | Dude, Where's my Boat? | 0.40% | ~157 |
 | In the Name of the Father | 0.40% | ~157 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39,288 (Ranked 80)  
+Progressed: 39,303 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -390,7 +390,7 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-16 | 38,036 | 0 |
 | 2023-05-17 | 38,614 | 0 |
 | 2023-05-18 | 39,222 | 0 |
-| 2023-05-19 | 39,288 | 0 |
+| 2023-05-19 | 39,303 | 0 |
 ## Awards
 Max (Educational): 5,232  (Ranked 60)  
 Sum: 43,381 (Ranked 27)  

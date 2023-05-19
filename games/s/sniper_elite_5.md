@@ -5,28 +5,29 @@ Rating: 4.41 (Ranked 655)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Confirming Suspicions | 0.70% | ~5 |
 | Resourceful | 0.70% | ~5 |
 | As Quiet as a Mouse | 0.70% | ~5 |
 | The Long Game | 0.50% | ~4 |
-| Confirming Suspicions | 0.50% | ~4 |
 | Taking it back | 0.50% | ~4 |
+| Enemy at the Gates | 0.40% | ~3 |
 | Strategist | 0.40% | ~3 |
 | Meeting Resistance | 0.40% | ~3 |
 | Gunslinger | 0.40% | ~3 |
 | Skirmisher | 0.40% | ~3 |
 | Precision Is Key | 0.40% | ~3 |
 | Lord of War | 0.40% | ~3 |
+| The Kraken Wakes | 0.40% | ~3 |
 | It's Starting to Crack | 0.40% | ~3 |
+| Climbing the Ladder | 0.30% | ~2 |
 | No Stone Unturned | 0.30% | ~2 |
-| Enemy at the Gates | 0.30% | ~2 |
-| The Kraken Wakes | 0.30% | ~2 |
+| Opposing Force | 0.30% | ~2 |
 | Snake in the Grass | 0.30% | ~2 |
 | Change the Channel | 0.30% | ~2 |
 | Don't hold your breath | 0.30% | ~2 |
+| The Kraken Sleeps | 0.30% | ~2 |
 | Sink or Swim | 0.30% | ~2 |
-| Climbing the Ladder | 0.10% | ~1 |
 | Liberté | 0.10% | ~1 |
-| Opposing Force | 0.10% | ~1 |
 | Fields of Glory | 0.10% | ~1 |
 | Organ Grinder | 0.10% | ~1 |
 | Sharpshooter | 0.10% | ~1 |
@@ -39,7 +40,6 @@ Rating: 4.41 (Ranked 655)
 | Up close and personal | 0.10% | ~1 |
 | Brains of the Operation | 0.10% | ~1 |
 | Target America | 0.10% | ~1 |
-| The Kraken Sleeps | 0.10% | ~1 |
 | Führerious Repetition | 0.10% | ~1 |
 | Reich To The Point | 0.10% | ~1 |
 | Covert Elimination | 0.10% | ~1 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 655)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 751 (Ranked 173)  
+Progressed: 754 (Ranked 173)  
 Completed: 2 (0.27%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 2 (0.27%) (Ranked 130)
 | 2023-05-16 | 723 | 2 |
 | 2023-05-17 | 728 | 2 |
 | 2023-05-18 | 743 | 2 |
-| 2023-05-19 | 751 | 2 |
+| 2023-05-19 | 754 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

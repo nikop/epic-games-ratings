@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Restoring the Protostar | 63.00% | ~5 |
+| Restoring the Protostar | 75.00% | ~6 |
 | Three Watchers, Two Phasers | 50.00% | ~4 |
 | One for the Crew | 38.00% | ~3 |
 | The Clock is Ticking | 38.00% | ~3 |

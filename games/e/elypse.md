@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A path of no return | 109.00% | ~12 |
-| Pigeon | 91.00% | ~10 |
-| A bottomless pit | 91.00% | ~10 |
-| Splash! | 82.00% | ~9 |
-| Baited | 73.00% | ~8 |
-| "Swoosh" | 64.00% | ~7 |
-| The light at the end of the tunnel | 64.00% | ~7 |
-| Soft skin | 64.00% | ~7 |
-| Hard Rock | 64.00% | ~7 |
-| Masochistic | 55.00% | ~6 |
-| Squid game | 45.00% | ~5 |
-| Rooftop | 45.00% | ~5 |
-| Sensitive soul | 45.00% | ~5 |
-| Rock Solid | 36.00% | ~4 |
-| The beast within | 36.00% | ~4 |
-| It's getting dark | 36.00% | ~4 |
-| Homeless | 36.00% | ~4 |
-| Big badaboom! | 36.00% | ~4 |
-| Bookworm | 27.00% | ~3 |
-| Payback | 27.00% | ~3 |
-| Nokron tower | 18.00% | ~2 |
-| MayDay! MayDay! | 18.00% | ~2 |
-| Magnitude 5 | 18.00% | ~2 |
-| Full power | 9.00% | ~1 |
-| "Ah sh*t... Here we go again!" | 9.00% | ~1 |
-| Compulsive hoarder | 9.00% | ~1 |
+| A path of no return | 108.00% | ~13 |
+| Pigeon | 83.00% | ~10 |
+| A bottomless pit | 83.00% | ~10 |
+| Splash! | 75.00% | ~9 |
+| Baited | 67.00% | ~8 |
+| "Swoosh" | 58.00% | ~7 |
+| The light at the end of the tunnel | 58.00% | ~7 |
+| Soft skin | 58.00% | ~7 |
+| Hard Rock | 58.00% | ~7 |
+| Masochistic | 50.00% | ~6 |
+| Squid game | 42.00% | ~5 |
+| Rooftop | 42.00% | ~5 |
+| Sensitive soul | 42.00% | ~5 |
+| Rock Solid | 33.00% | ~4 |
+| The beast within | 33.00% | ~4 |
+| It's getting dark | 33.00% | ~4 |
+| Homeless | 33.00% | ~4 |
+| Big badaboom! | 33.00% | ~4 |
+| Bookworm | 33.00% | ~4 |
+| Nokron tower | 25.00% | ~3 |
+| Payback | 25.00% | ~3 |
+| Full power | 17.00% | ~2 |
+| "Ah sh*t... Here we go again!" | 17.00% | ~2 |
+| Compulsive hoarder | 17.00% | ~2 |
+| MayDay! MayDay! | 17.00% | ~2 |
+| Magnitude 5 | 17.00% | ~2 |
 | Abyssal God | 0.00% | ~0 |
 | GG EZ | 0.00% | ~0 |
 | What do you want? | 0.00% | ~0 |
@@ -39,11 +39,11 @@
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11 (Ranked 324)  
+Progressed: 12 (Ranked 321)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-17 | 2 | 0 |
 | 2023-05-18 | 10 | 0 |
-| 2023-05-19 | 11 | 0 |
+| 2023-05-19 | 12 | 0 |

@@ -4,7 +4,7 @@
   "ProductSlug": "star-trek-prodigy-supernova-cdb770",
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-01-18T19:00:00+00:00",
@@ -161,9 +161,9 @@
       "ID": "Finish_P1L1",
       "SetID": "7270ipa",
       "Name": "Restoring the Protostar",
-      "Percentage": 63,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Finish_P1L2",
@@ -394,8 +394,8 @@
   "FirstSeenRating": "2023-03-31T05:57:13.3030994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.1498676+00:00",
   "LastChanged": "2023-03-31T05:57:13.3030995+00:00",
-  "LastChanged_Achievements": "2023-05-19T04:06:25.3421803+00:00",
+  "LastChanged_Achievements": "2023-05-19T05:05:16.6194735+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:46.9468925+00:00",
-  "LastUpdate_Ratings": "2023-05-19T03:57:59.791729+00:00",
-  "LastUpdate_Achievements": "2023-05-19T04:06:25.342233+00:00"
+  "LastUpdate_Ratings": "2023-05-19T04:57:39.3493326+00:00",
+  "LastUpdate_Achievements": "2023-05-19T05:05:16.6195044+00:00"
 }

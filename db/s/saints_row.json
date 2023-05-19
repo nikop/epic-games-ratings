@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 169,
   "Ranking_EOS_NewPlayers": 22,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -2254,10 +2254,16 @@
       "Rating": 3.78,
       "NumberOfAwards": 8334,
       "NumberOfAwardsMax": 1029
+    },
+    {
+      "Time": "2023-05-19T04:59:33.0188314+00:00",
+      "Rating": 3.78,
+      "NumberOfAwards": 8336,
+      "NumberOfAwardsMax": 1029
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8334,
+  "NumberOfAwards": 8336,
   "NumberOfAwardsMax": 1029,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -2313,7 +2319,7 @@
       "Text": "This game has a Silly Community",
       "Prefix": "This game has a",
       "Type": "Silly Community",
-      "Count": 576
+      "Count": 578
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2322,9 +2328,9 @@
       "Count": 1029
     }
   ],
-  "EOS_Progressed": 29708,
+  "EOS_Progressed": 29745,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 3508,
+  "EOS_NewPlayers": 3529,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5082,6 +5088,11 @@
       "Time": "2023-05-19T04:06:16.4337994+00:00",
       "NumProgressed": 29708,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-19T05:04:59.3425713+00:00",
+      "NumProgressed": 29745,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 53,
@@ -5109,7 +5120,7 @@
       "Name": "Quality Time",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -5203,9 +5214,9 @@
       "ID": "complete_mission_1",
       "SetID": "3ib2d0i",
       "Name": "First F#@!ing Day",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 594
+      "UsersEstimate": 892
     },
     {
       "ID": "customize_a_vehicle",
@@ -5221,7 +5232,7 @@
       "Name": "Optimized",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "cutting_edge_materials",
@@ -5259,9 +5270,9 @@
       "ID": "do_a_barrel_roll",
       "SetID": "3ib2d0i",
       "Name": "The Spins",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 149
     },
     {
       "ID": "empire_tier_2",
@@ -5275,9 +5286,9 @@
       "ID": "empire_tier_3",
       "SetID": "3ib2d0i",
       "Name": "Power Players",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 238
+      "UsersEstimate": 268
     },
     {
       "ID": "empire_tier_4",
@@ -5315,9 +5326,9 @@
       "ID": "fully_upgrade_1_vehicle",
       "SetID": "3ib2d0i",
       "Name": "The Mechanic",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 149
     },
     {
       "ID": "fully_upgrade_a_weapon",
@@ -5341,7 +5352,7 @@
       "Name": "Performance Review",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "hit_max_level",
@@ -5365,7 +5376,7 @@
       "Name": "Picking Fights",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -5395,9 +5406,9 @@
       "ID": "one_third_purple",
       "SetID": "3ib2d0i",
       "Name": "Neighborly",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 89
     },
     {
       "ID": "own_100_pieces_of_clothing",
@@ -5477,7 +5488,7 @@
       "Name": "To The Nines",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "whole_map_purple",
@@ -5509,29 +5520,29 @@
       "Name": "Hazardous Heist",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 29708,
+      "Progressed": 29745,
       "Completed": 19
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 1345,
-      "Completed": 467
+      "Progressed": 1382,
+      "Completed": 471
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
-  "LastChanged": "2023-05-18T22:00:15.4733182+00:00",
-  "LastChanged_Achievements": "2023-05-19T04:06:16.4337988+00:00",
+  "LastChanged": "2023-05-19T04:59:33.0188311+00:00",
+  "LastChanged_Achievements": "2023-05-19T05:04:59.3425709+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:30.5487135+00:00",
-  "LastUpdate_Ratings": "2023-05-19T04:00:11.7647989+00:00",
-  "LastUpdate_Achievements": "2023-05-19T04:06:16.4338957+00:00"
+  "LastUpdate_Ratings": "2023-05-19T04:59:33.0188324+00:00",
+  "LastUpdate_Achievements": "2023-05-19T05:04:59.3426309+00:00"
 }

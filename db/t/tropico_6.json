@@ -852,9 +852,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 2903,
+  "EOS_Progressed": 2904,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2287,6 +2287,11 @@
       "Time": "2023-05-19T00:07:29.1753601+00:00",
       "NumProgressed": 2903,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-19T05:05:38.511075+00:00",
+      "NumProgressed": 2904,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2370,7 +2375,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -2394,7 +2399,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -2458,7 +2463,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 2264
+      "UsersEstimate": 2265
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -2570,7 +2575,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -2617,15 +2622,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 2903,
+      "Progressed": 2904,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-15T17:00:44.7999652+00:00",
-  "LastChanged_Achievements": "2023-05-19T04:06:51.9907192+00:00",
+  "LastChanged_Achievements": "2023-05-19T05:05:38.5110743+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:03.9005572+00:00",
-  "LastUpdate_Ratings": "2023-05-19T04:00:53.4791147+00:00",
-  "LastUpdate_Achievements": "2023-05-19T04:06:51.9907858+00:00"
+  "LastUpdate_Ratings": "2023-05-19T05:00:06.7656622+00:00",
+  "LastUpdate_Achievements": "2023-05-19T05:05:38.5111135+00:00"
 }
