@@ -5,20 +5,20 @@ Rating: 4.76 (Ranked 116)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~1,931 |
-| No more cages! | 92.00% | ~1,870 |
-| Everfrost | 77.00% | ~1,565 |
-| Pentakill | 76.00% | ~1,545 |
-| Dark Forest | 76.00% | ~1,545 |
-| The use of petricite | 73.00% | ~1,484 |
+| For Demacia | 95.00% | ~1,932 |
+| No more cages! | 92.00% | ~1,871 |
+| Everfrost | 77.00% | ~1,566 |
+| Pentakill | 76.00% | ~1,546 |
+| Dark Forest | 76.00% | ~1,546 |
+| The use of petricite | 73.00% | ~1,485 |
 | You can pet the dog | 60.00% | ~1,220 |
-| Big Helmet Bro | 34.00% | ~691 |
-| Clarion Cove | 34.00% | ~691 |
+| Big Helmet Bro | 34.00% | ~692 |
+| Clarion Cove | 34.00% | ~692 |
 | Past trauma | 32.00% | ~651 |
 | Thornbarrow | 32.00% | ~651 |
 | Ternmoat Headquarters | 32.00% | ~651 |
-| Elemental master | 31.00% | ~630 |
-| Cypress Glen Headquarters | 31.00% | ~630 |
+| Elemental master | 31.00% | ~631 |
+| Cypress Glen Headquarters | 31.00% | ~631 |
 | Petricite Burst | 27.00% | ~549 |
 | Old friend | 26.00% | ~529 |
 | Whispers in the Woods I | 25.00% | ~508 |
@@ -59,7 +59,7 @@ Rating: 4.76 (Ranked 116)
 | Silverwing nest | 2.00% | ~41 |
 | The Unshackled | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,033 (Ranked 142)  
+Progressed: 2,034 (Ranked 142)  
 Completed: 1 (0.05%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 1 (0.05%) (Ranked 173)
 | 2023-05-16 | 2,008 | 1 |
 | 2023-05-17 | 2,015 | 1 |
 | 2023-05-18 | 2,025 | 1 |
-| 2023-05-19 | 2,033 | 1 |
+| 2023-05-19 | 2,034 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

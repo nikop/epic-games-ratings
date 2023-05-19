@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 32679,
+  "EOS_Progressed": 32680,
   "EOS_Completed": 156,
-  "EOS_NewPlayers": 461,
+  "EOS_NewPlayers": 462,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -2562,6 +2562,11 @@
       "Time": "2023-05-19T08:05:05.9650234+00:00",
       "NumProgressed": 32679,
       "NumCompleted": 156
+    },
+    {
+      "Time": "2023-05-19T09:06:09.4311283+00:00",
+      "NumProgressed": 32680,
+      "NumCompleted": 156
     }
   ],
   "TotalAchievements": 44,
@@ -2573,7 +2578,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 18627
+      "UsersEstimate": 18628
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2597,7 +2602,7 @@
       "Name": "Burning",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5555
+      "UsersEstimate": 5556
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -2693,7 +2698,7 @@
       "Name": "First Steps",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 26470
+      "UsersEstimate": 26471
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -2749,7 +2754,7 @@
       "Name": "Soul Reaver",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 7189
+      "UsersEstimate": 7190
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -2765,7 +2770,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 12091
+      "UsersEstimate": 12092
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -2797,7 +2802,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 18300
+      "UsersEstimate": 18301
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -2805,7 +2810,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 10457
+      "UsersEstimate": 10458
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -2821,7 +2826,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 8823
+      "UsersEstimate": 8824
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -2837,7 +2842,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 19607
+      "UsersEstimate": 19608
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -2909,7 +2914,7 @@
       "Name": "Awakening",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 30065
+      "UsersEstimate": 30066
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -2917,14 +2922,14 @@
       "Name": "Revenant",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 16666
+      "UsersEstimate": 16667
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 32679,
+      "Progressed": 32680,
       "Completed": 156
     }
   ],
@@ -2932,8 +2937,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-03-31T05:58:07.8538504+00:00",
-  "LastChanged_Achievements": "2023-05-19T08:05:05.965023+00:00",
+  "LastChanged_Achievements": "2023-05-19T09:06:09.4311272+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:18.9557254+00:00",
-  "LastUpdate_Ratings": "2023-05-19T07:58:10.2865329+00:00",
-  "LastUpdate_Achievements": "2023-05-19T08:05:05.9650722+00:00"
+  "LastUpdate_Ratings": "2023-05-19T08:58:43.5692856+00:00",
+  "LastUpdate_Achievements": "2023-05-19T09:06:09.4312168+00:00"
 }

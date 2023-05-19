@@ -187,9 +187,9 @@
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_3",
       "SetID": "ak6pfjk",
       "Name": "Brilliant: Tanglewood",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_4",
@@ -524,8 +524,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-05-19T08:05:21.7456942+00:00",
+  "LastChanged_Achievements": "2023-05-19T09:06:30.8671151+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:31.9076697+00:00",
-  "LastUpdate_Ratings": "2023-05-19T07:58:21.734937+00:00",
-  "LastUpdate_Achievements": "2023-05-19T08:05:21.7457381+00:00"
+  "LastUpdate_Ratings": "2023-05-19T08:58:59.799476+00:00",
+  "LastUpdate_Achievements": "2023-05-19T09:06:30.8671889+00:00"
 }

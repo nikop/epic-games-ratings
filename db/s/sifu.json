@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 77,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewPlayers": 78,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4086,9 +4086,9 @@
       "Count": 347
     }
   ],
-  "EOS_Progressed": 703221,
+  "EOS_Progressed": 703251,
   "EOS_Completed": 12731,
-  "EOS_NewPlayers": 387,
+  "EOS_NewPlayers": 416,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -6296,6 +6296,11 @@
       "Time": "2023-05-19T08:05:28.889068+00:00",
       "NumProgressed": 703221,
       "NumCompleted": 12731
+    },
+    {
+      "Time": "2023-05-19T09:06:40.6570791+00:00",
+      "NumProgressed": 703251,
+      "NumCompleted": 12731
     }
   ],
   "TotalAchievements": 50,
@@ -6307,7 +6312,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4219
+      "UsersEstimate": 4220
     },
     {
       "ID": "02_Vengeance_H1",
@@ -6395,7 +6400,7 @@
       "Name": "Scareless",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4219
+      "UsersEstimate": 4220
     },
     {
       "ID": "13_LowAge",
@@ -6427,7 +6432,7 @@
       "Name": "Drunken Fighter",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1407
     },
     {
       "ID": "17_Detective_H3",
@@ -6435,7 +6440,7 @@
       "Name": "Martial Artist",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1407
     },
     {
       "ID": "18_Detective_H4",
@@ -6443,7 +6448,7 @@
       "Name": "Knowledge Greed",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1407
     },
     {
       "ID": "19_Detective_H5",
@@ -6451,7 +6456,7 @@
       "Name": "Healing Memory",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1407
     },
     {
       "ID": "20_Traversal_Trophy",
@@ -6459,7 +6464,7 @@
       "Name": "Stuntmaster",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4219
+      "UsersEstimate": 4220
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -6475,7 +6480,7 @@
       "Name": "Street Fighting",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4219
+      "UsersEstimate": 4220
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -6483,7 +6488,7 @@
       "Name": "Life is your teacher",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4219
+      "UsersEstimate": 4220
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -6531,7 +6536,7 @@
       "Name": "Master of the Phoenix Eye Fist",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1407
     },
     {
       "ID": "30_ComboMid",
@@ -6571,7 +6576,7 @@
       "Name": "Lightning Hands",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4219
+      "UsersEstimate": 4220
     },
     {
       "ID": "35_WideStrike",
@@ -6579,7 +6584,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4219
+      "UsersEstimate": 4220
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -6603,7 +6608,7 @@
       "Name": "The Pit Protector",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1407
     },
     {
       "ID": "39_CustomTrophy_H3",
@@ -6611,7 +6616,7 @@
       "Name": "Be like water my friend",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1407
     },
     {
       "ID": "40_CustomTrophy_H4",
@@ -6635,7 +6640,7 @@
       "Name": "Come Snap With Me",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1407
     },
     {
       "ID": "43_Arena_UnlockPack",
@@ -6643,7 +6648,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -6651,7 +6656,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -6659,7 +6664,7 @@
       "Name": "Bloody Sport",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -6706,21 +6711,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 12522,
+      "Progressed": 12552,
       "Completed": 10122
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 703221,
+      "Progressed": 703251,
       "Completed": 12731
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-18T11:59:31.6045442+00:00",
-  "LastChanged_Achievements": "2023-05-19T08:05:28.8890676+00:00",
+  "LastChanged_Achievements": "2023-05-19T09:06:40.6570764+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:53.7388155+00:00",
-  "LastUpdate_Ratings": "2023-05-19T07:58:40.7429397+00:00",
-  "LastUpdate_Achievements": "2023-05-19T08:05:28.8891242+00:00"
+  "LastUpdate_Ratings": "2023-05-19T08:59:29.7560304+00:00",
+  "LastUpdate_Achievements": "2023-05-19T09:06:40.6571743+00:00"
 }

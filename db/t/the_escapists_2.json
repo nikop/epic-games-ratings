@@ -4,10 +4,10 @@
   "ProductSlug": "the-escapists-2",
   "Ranking_Rating": 415,
   "Ranking_Popularity": 388,
-  "Ranking_PopularitySum": 306,
+  "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2020-07-09T15:00:00+00:00",
@@ -935,10 +935,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 397,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2023-05-19T08:58:40.8879676+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 398,
+      "NumberOfAwardsMax": 50
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 397,
+  "NumberOfAwards": 398,
   "NumberOfAwardsMax": 50,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -958,7 +964,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1020,8 +1026,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:06.6335859+00:00",
-  "LastChanged": "2023-05-13T15:57:58.1723182+00:00",
+  "LastChanged": "2023-05-19T08:58:40.8879674+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:17.2775702+00:00",
-  "LastUpdate_Ratings": "2023-05-19T07:58:08.3720738+00:00",
-  "LastUpdate_Achievements": "2023-05-19T08:00:20.4396532+00:00"
+  "LastUpdate_Ratings": "2023-05-19T08:58:40.887968+00:00",
+  "LastUpdate_Achievements": "2023-05-19T09:02:06.8654611+00:00"
 }

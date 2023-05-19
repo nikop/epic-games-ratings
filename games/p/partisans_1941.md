@@ -26,7 +26,7 @@ Number of Ratings: 98  (23.09.2022)
 | No Witness | 4.00% | ~36 |
 | Strategist | 2.00% | ~18 |
 | Unbreakable Wall | 1.00% | ~9 |
-| Do a Barrel Roll! | 0.80% | ~7 |
+| Do a Barrel Roll! | 0.90% | ~8 |
 | Experienced Strategist | 0.80% | ~7 |
 | Tough as Nails | 0.30% | ~3 |
 | How?! | 0.30% | ~3 |

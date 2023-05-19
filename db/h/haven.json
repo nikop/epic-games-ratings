@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1131,
+  "EOS_Progressed": 1132,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -358,6 +358,11 @@
       "Time": "2023-05-19T06:05:53.7607631+00:00",
       "NumProgressed": 1131,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-19T09:06:42.2500468+00:00",
+      "NumProgressed": 1132,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -369,7 +374,7 @@
       "Name": "Lovebirds",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "10",
@@ -401,7 +406,7 @@
       "Name": "Unstoppable",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "14",
@@ -433,7 +438,7 @@
       "Name": "Balding bloot!",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "18",
@@ -503,9 +508,9 @@
       "ID": "25",
       "SetID": "n50no0",
       "Name": "Heartstrings",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 158
     },
     {
       "ID": "27",
@@ -529,7 +534,7 @@
       "Name": "Hug therapy",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "30",
@@ -537,7 +542,7 @@
       "Name": "Self-sustainability",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "31",
@@ -608,15 +613,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1131,
+      "Progressed": 1132,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-05-19T08:05:30.0518369+00:00",
+  "LastChanged_Achievements": "2023-05-19T09:06:42.2500461+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:27.7554539+00:00",
-  "LastUpdate_Ratings": "2023-05-19T07:59:06.260692+00:00",
-  "LastUpdate_Achievements": "2023-05-19T08:05:30.0518592+00:00"
+  "LastUpdate_Ratings": "2023-05-19T09:00:12.3762308+00:00",
+  "LastUpdate_Achievements": "2023-05-19T09:06:42.2500858+00:00"
 }

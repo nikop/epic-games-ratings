@@ -10,16 +10,16 @@
 | Shiny! | 74.00% | ~23 |
 | Deep in the Mounds | 71.00% | ~22 |
 | Locked Away | 35.00% | ~11 |
+| Smeltastic! | 35.00% | ~11 |
 | A Little Renovating | 32.00% | ~10 |
-| Smeltastic! | 32.00% | ~10 |
 | Deflect This! | 26.00% | ~8 |
+| It's a Sign! | 23.00% | ~7 |
 | Just Some Improvements | 19.00% | ~6 |
-| It's a Sign! | 19.00% | ~6 |
+| Isn't It Beautiful? | 16.00% | ~5 |
+| A Generous Leader | 16.00% | ~5 |
 | A Little Extra Love | 16.00% | ~5 |
 | A New Strategy | 16.00% | ~5 |
 | A Terrible Way to Go | 16.00% | ~5 |
-| Isn't It Beautiful? | 13.00% | ~4 |
-| A Generous Leader | 13.00% | ~4 |
 | Final Announcement | 13.00% | ~4 |
 | How Do You Like Them Apples? | 13.00% | ~4 |
 | Gotta Collect Them All | 10.00% | ~3 |

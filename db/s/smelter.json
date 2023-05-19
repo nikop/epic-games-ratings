@@ -4,7 +4,7 @@
   "ProductSlug": "smelter-97a47b",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 14,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-04-22T00:00:00+00:00",
@@ -231,9 +231,9 @@
       "ID": "SMELTER_HEART_LEVEL_2",
       "SetID": "1g58k92",
       "Name": "Isn\u0027t It Beautiful?",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SMELTER_HEART_LEVEL_4",
@@ -247,9 +247,9 @@
       "ID": "SMELTER_HOUSE_UPGRADE",
       "SetID": "1g58k92",
       "Name": "A Generous Leader",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SMELTER_MASTER_CHALLENGER",
@@ -311,9 +311,9 @@
       "ID": "SMELTER_NUTORO_RUNE",
       "SetID": "1g58k92",
       "Name": "It\u0027s a Sign!",
-      "Percentage": 19,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SMELTER_NUTORO_UPGRADES",
@@ -383,9 +383,9 @@
       "ID": "SMELTER_SMELT_PART1",
       "SetID": "1g58k92",
       "Name": "Smeltastic!",
-      "Percentage": 32,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SMELTER_SMELT_PART2",
@@ -472,8 +472,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.0584882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:46.9022214+00:00",
   "LastChanged": "2023-03-31T05:58:06.0584883+00:00",
-  "LastChanged_Achievements": "2023-05-19T08:05:26.3638162+00:00",
+  "LastChanged_Achievements": "2023-05-19T09:06:37.1416608+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:48.894328+00:00",
-  "LastUpdate_Ratings": "2023-05-19T07:58:35.2558643+00:00",
-  "LastUpdate_Achievements": "2023-05-19T08:05:26.3638562+00:00"
+  "LastUpdate_Ratings": "2023-05-19T08:59:21.2138095+00:00",
+  "LastUpdate_Achievements": "2023-05-19T09:06:37.1417182+00:00"
 }

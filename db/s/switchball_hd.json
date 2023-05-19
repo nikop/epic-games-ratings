@@ -4,7 +4,7 @@
   "ProductSlug": "switchball-hd-6d3802",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-05-12T13:00:00+00:00",
@@ -299,9 +299,9 @@
       "ID": "ACHIEVEMENT_POWERBALL_BADGE_ID",
       "SetID": "2h9pc72",
       "Name": "Powerball Badge",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACHIEVEMENT_SPEEDBALL_EXPERT_ID",
@@ -354,8 +354,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:34.7709022+00:00",
   "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00",
-  "LastChanged_Achievements": "2023-05-19T08:00:01.7082535+00:00",
+  "LastChanged_Achievements": "2023-05-19T09:01:39.2614338+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:11.6045638+00:00",
-  "LastUpdate_Ratings": "2023-05-19T07:57:12.175739+00:00",
-  "LastUpdate_Achievements": "2023-05-19T08:00:01.708288+00:00"
+  "LastUpdate_Ratings": "2023-05-19T08:57:16.5546589+00:00",
+  "LastUpdate_Achievements": "2023-05-19T09:01:39.2614634+00:00"
 }

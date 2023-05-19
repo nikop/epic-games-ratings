@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -1043,9 +1043,9 @@
       "ID": "Kills_FriendlyFire",
       "SetID": "3jha1np",
       "Name": "Friendly Fire",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 417
     },
     {
       "ID": "Kills_Interactable",
@@ -1321,8 +1321,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-17T16:59:29.0694874+00:00",
-  "LastChanged_Achievements": "2023-05-19T08:05:28.6503057+00:00",
+  "LastChanged_Achievements": "2023-05-19T09:06:40.3529393+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:33.8980479+00:00",
-  "LastUpdate_Ratings": "2023-05-19T07:58:22.8584432+00:00",
-  "LastUpdate_Achievements": "2023-05-19T08:05:28.6503619+00:00"
+  "LastUpdate_Ratings": "2023-05-19T08:59:01.8621019+00:00",
+  "LastUpdate_Achievements": "2023-05-19T09:06:40.3530332+00:00"
 }

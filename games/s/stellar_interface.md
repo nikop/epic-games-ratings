@@ -4,10 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 75.00% | ~3 |
-| Killing Spree | 50.00% | ~2 |
-| 5Gb HDD | 25.00% | ~1 |
-| Merchant Prince I | 25.00% | ~1 |
+| First Blood | 80.00% | ~4 |
+| Killing Spree | 60.00% | ~3 |
+| 5Gb HDD | 40.00% | ~2 |
+| The Vette | 20.00% | ~1 |
+| Food Poisoning | 20.00% | ~1 |
+| Dominating | 20.00% | ~1 |
+| Merchant Prince I | 20.00% | ~1 |
 | Providence | 0.00% | ~0 |
 | Revenge | 0.00% | ~0 |
 | Bronze Tovarish | 0.00% | ~0 |
@@ -54,12 +57,10 @@
 | Omicron Gamma | 0.00% | ~0 |
 | Omicron Beta | 0.00% | ~0 |
 | Hoarder | 0.00% | ~0 |
-| The Vette | 0.00% | ~0 |
 | No Peace | 0.00% | ~0 |
 | Bird of Prey | 0.00% | ~0 |
 | Unbalanced | 0.00% | ~0 |
 | Defrosted | 0.00% | ~0 |
-| Food Poisoning | 0.00% | ~0 |
 | U.N. Squadron I | 0.00% | ~0 |
 | U.N. Squadron II | 0.00% | ~0 |
 | U.N. Squadron III | 0.00% | ~0 |
@@ -89,7 +90,6 @@
 | Rampage | 0.00% | ~0 |
 | Unstoppable | 0.00% | ~0 |
 | Usurper V | 0.00% | ~0 |
-| Dominating | 0.00% | ~0 |
 | Usurper III | 0.00% | ~0 |
 | Flower Power | 0.00% | ~0 |
 | Five-O | 0.00% | ~0 |
@@ -137,11 +137,11 @@
 | Fighting Fit I | 0.00% | ~0 |
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4 (Ranked 350)  
+Progressed: 5 (Ranked 345)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 2 | 0 |
 | 2023-05-18 | 3 | 0 |
-| 2023-05-19 | 4 | 0 |
+| 2023-05-19 | 5 | 0 |

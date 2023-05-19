@@ -654,7 +654,7 @@
       "ID": "ach_kill_self_with_pumpkin",
       "SetID": "bf10c8p",
       "Name": "Oh My Gourd",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -718,7 +718,7 @@
       "ID": "ach_waves_1",
       "SetID": "bf10c8p",
       "Name": "Survivor",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -726,7 +726,7 @@
       "ID": "ach_waves_10",
       "SetID": "bf10c8p",
       "Name": "Early Survivor",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -734,7 +734,7 @@
       "ID": "ach_waves_20",
       "SetID": "bf10c8p",
       "Name": "Amateur Survivor",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -766,7 +766,7 @@
       "ID": "ach_x_farmers_same_sniper",
       "SetID": "bf10c8p",
       "Name": "Aspairagus",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -869,8 +869,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-05-19T08:03:42.9845524+00:00",
+  "LastChanged_Achievements": "2023-05-19T09:04:11.6041701+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:14.3160105+00:00",
-  "LastUpdate_Ratings": "2023-05-19T07:58:05.3449626+00:00",
-  "LastUpdate_Achievements": "2023-05-19T08:03:42.9846281+00:00"
+  "LastUpdate_Ratings": "2023-05-19T08:58:36.3858601+00:00",
+  "LastUpdate_Achievements": "2023-05-19T09:04:11.604301+00:00"
 }

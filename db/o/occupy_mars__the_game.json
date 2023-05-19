@@ -5,9 +5,9 @@
   "Ranking_Rating": 919,
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
-  "Ranking_EOS_Progress": 198,
+  "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -40,9 +40,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 359,
+  "EOS_Progressed": 373,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 356,
+  "EOS_NewPlayers": 370,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -175,6 +175,11 @@
       "Time": "2023-05-19T08:02:34.4711211+00:00",
       "NumProgressed": 359,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T09:03:15.3160056+00:00",
+      "NumProgressed": 373,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -256,7 +261,7 @@
       "ID": "ACHIEVEMENT_THE_COLLECTOR",
       "SetID": "l546gc",
       "Name": "The Collector",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -266,7 +271,7 @@
       "Name": "Zero Waste",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -280,7 +285,7 @@
       "ID": "NEW_ACHIEVEMENT_ALIENS",
       "SetID": "l546gc",
       "Name": "\u201CAliens\u201D",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -306,7 +311,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -320,7 +325,7 @@
       "ID": "NEW_ACHIEVEMENT_CAVEMAN",
       "SetID": "l546gc",
       "Name": "Caveman",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -344,7 +349,7 @@
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
       "SetID": "l546gc",
       "Name": "DeDust",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -360,9 +365,9 @@
       "ID": "NEW_ACHIEVEMENT_ELECTRICIAN",
       "SetID": "l546gc",
       "Name": "Electrician",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 75
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -400,23 +405,23 @@
       "ID": "NEW_ACHIEVEMENT_GREATEST_BOTANIST",
       "SetID": "l546gc",
       "Name": "I am the greatest botanist on this planet.",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 34
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
       "SetID": "l546gc",
       "Name": "Houston we have a problem",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 30
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
       "SetID": "l546gc",
       "Name": "ITS crash site",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -434,15 +439,15 @@
       "Name": "Miner",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
       "SetID": "l546gc",
       "Name": "I don\u0027t feel so good",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 101
+      "UsersEstimate": 108
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -456,9 +461,9 @@
       "ID": "NEW_ACHIEVEMENT_OCCUPY_MARS",
       "SetID": "l546gc",
       "Name": "Occupy Mars!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 30
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -544,9 +549,9 @@
       "ID": "NEW_ACHIEVEMENT_THE_BUILDER",
       "SetID": "l546gc",
       "Name": "Bob The Builder",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 34
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -569,7 +574,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 359,
+      "Progressed": 373,
       "Completed": 0
     }
   ],
@@ -577,8 +582,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-05-19T06:57:19.9457333+00:00",
-  "LastChanged_Achievements": "2023-05-19T08:02:34.4711197+00:00",
+  "LastChanged_Achievements": "2023-05-19T09:03:15.3160049+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:22.3951133+00:00",
-  "LastUpdate_Ratings": "2023-05-19T07:57:20.0106718+00:00",
-  "LastUpdate_Achievements": "2023-05-19T08:02:34.4711627+00:00"
+  "LastUpdate_Ratings": "2023-05-19T08:57:29.1159029+00:00",
+  "LastUpdate_Achievements": "2023-05-19T09:03:15.3160806+00:00"
 }

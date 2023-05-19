@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 51,
+  "Ranking_EOS_NewPlayers": 50,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -124,9 +124,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2783,
+  "EOS_Progressed": 2786,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 896,
+  "EOS_NewPlayers": 897,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1219,6 +1219,11 @@
       "Time": "2023-05-19T08:03:13.9577754+00:00",
       "NumProgressed": 2783,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T09:03:28.6685939+00:00",
+      "NumProgressed": 2786,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -1230,7 +1235,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "10",
@@ -1246,7 +1251,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 1336
+      "UsersEstimate": 1337
     },
     {
       "ID": "12",
@@ -1270,7 +1275,7 @@
       "Name": "Full Ascension",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 1531
+      "UsersEstimate": 1532
     },
     {
       "ID": "15",
@@ -1278,7 +1283,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "16",
@@ -1286,7 +1291,7 @@
       "Name": "God Emperor",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "17",
@@ -1302,7 +1307,7 @@
       "Name": "Arch Mage",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "19",
@@ -1334,7 +1339,7 @@
       "Name": "Eternal Lord",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "22",
@@ -1342,7 +1347,7 @@
       "Name": "Realm Estate",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 2199
+      "UsersEstimate": 2201
     },
     {
       "ID": "23",
@@ -1350,15 +1355,15 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 2282
+      "UsersEstimate": 2285
     },
     {
       "ID": "24",
       "SetID": "3aa2279",
       "Name": "Secret Technique",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 2171
+      "UsersEstimate": 2201
     },
     {
       "ID": "25",
@@ -1366,15 +1371,15 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2087
+      "UsersEstimate": 2090
     },
     {
       "ID": "26",
       "SetID": "3aa2279",
       "Name": "Bone Peddler",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1783
     },
     {
       "ID": "27",
@@ -1382,7 +1387,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "28",
@@ -1390,7 +1395,7 @@
       "Name": "From Friends to Family",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 1976
+      "UsersEstimate": 1978
     },
     {
       "ID": "29",
@@ -1398,7 +1403,7 @@
       "Name": "Stronger Together",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1586
+      "UsersEstimate": 1588
     },
     {
       "ID": "3",
@@ -1420,9 +1425,9 @@
       "ID": "31",
       "SetID": "3aa2279",
       "Name": "Magical Synergy",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 1837
+      "UsersEstimate": 1867
     },
     {
       "ID": "32",
@@ -1430,7 +1435,7 @@
       "Name": "My Final Form",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "33",
@@ -1438,7 +1443,7 @@
       "Name": "Seat of Power",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "34",
@@ -1446,7 +1451,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "35",
@@ -1470,7 +1475,7 @@
       "Name": "Against the Odds",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "38",
@@ -1502,7 +1507,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "41",
@@ -1542,7 +1547,7 @@
       "Name": "Grexolis",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "6",
@@ -1581,13 +1586,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 2783,
-      "Completed": 2783
+      "Progressed": 2786,
+      "Completed": 2786
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 2783,
+      "Progressed": 2786,
       "Completed": 0
     }
   ],
@@ -1595,8 +1600,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-15T19:58:41.4280533+00:00",
-  "LastChanged_Achievements": "2023-05-19T08:03:13.957775+00:00",
+  "LastChanged_Achievements": "2023-05-19T09:03:28.6685934+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:18.5454373+00:00",
-  "LastUpdate_Ratings": "2023-05-19T07:58:59.2947827+00:00",
-  "LastUpdate_Achievements": "2023-05-19T08:03:13.9578195+00:00"
+  "LastUpdate_Ratings": "2023-05-19T09:00:01.0133214+00:00",
+  "LastUpdate_Achievements": "2023-05-19T09:03:28.6686389+00:00"
 }

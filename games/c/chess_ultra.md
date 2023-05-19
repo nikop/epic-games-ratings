@@ -5,30 +5,30 @@ Rating: 4.26 (Ranked 778)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 67.00% | ~111,797 |
-| Doubled Pawn | 54.00% | ~90,105 |
-| Check | 52.00% | ~86,768 |
-| Absolute pin | 45.00% | ~75,087 |
-| Promotion | 29.00% | ~48,390 |
-| Checkmate | 28.00% | ~46,721 |
-| O-O | 22.00% | ~36,709 |
-| Spanish Bishop | 20.00% | ~33,372 |
-| Queen Sacrifice | 19.00% | ~31,704 |
-| Stalemate | 17.00% | ~28,366 |
-| O-O-O | 12.00% | ~20,023 |
-| Octopus | 12.00% | ~20,023 |
-| Stranger Danger | 12.00% | ~20,023 |
-| En Passant | 8.00% | ~13,349 |
-| Double Check | 7.00% | ~11,680 |
-| Family Fork | 5.00% | ~8,343 |
-| Friendly Fire | 5.00% | ~8,343 |
-| Piece Collector | 5.00% | ~8,343 |
-| ELO | 4.00% | ~6,674 |
-| Underpromote | 4.00% | ~6,674 |
-| ELO ELO | 3.00% | ~5,006 |
-| Blind Pigs | 2.00% | ~3,337 |
-| ELO ELO ELO | 2.00% | ~3,337 |
-| Learner | 2.00% | ~3,337 |
+| Chop Wood | 67.00% | ~111,814 |
+| Doubled Pawn | 54.00% | ~90,118 |
+| Check | 52.00% | ~86,781 |
+| Absolute pin | 45.00% | ~75,099 |
+| Promotion | 29.00% | ~48,397 |
+| Checkmate | 28.00% | ~46,728 |
+| O-O | 22.00% | ~36,715 |
+| Spanish Bishop | 20.00% | ~33,377 |
+| Queen Sacrifice | 19.00% | ~31,708 |
+| Stalemate | 17.00% | ~28,371 |
+| O-O-O | 12.00% | ~20,026 |
+| Octopus | 12.00% | ~20,026 |
+| Stranger Danger | 12.00% | ~20,026 |
+| En Passant | 8.00% | ~13,351 |
+| Double Check | 7.00% | ~11,682 |
+| Family Fork | 5.00% | ~8,344 |
+| Friendly Fire | 5.00% | ~8,344 |
+| Piece Collector | 5.00% | ~8,344 |
+| ELO | 4.00% | ~6,675 |
+| Underpromote | 4.00% | ~6,675 |
+| ELO ELO | 3.00% | ~5,007 |
+| Blind Pigs | 2.00% | ~3,338 |
+| ELO ELO ELO | 2.00% | ~3,338 |
+| Learner | 2.00% | ~3,338 |
 | Bobby Time | 1.00% | ~1,669 |
 | Back-rank Mate | 0.80% | ~1,335 |
 | Chess Champion | 0.30% | ~501 |
@@ -44,7 +44,7 @@ Rating: 4.26 (Ranked 778)
 | Tournament Master | 0.00% | ~0 |
 | Tournament Pro | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 166,861 (Ranked 51)  
+Progressed: 166,886 (Ranked 51)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-16 | 165,501 | 0 |
 | 2023-05-17 | 166,047 | 0 |
 | 2023-05-18 | 166,692 | 0 |
-| 2023-05-19 | 166,861 | 0 |
+| 2023-05-19 | 166,886 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

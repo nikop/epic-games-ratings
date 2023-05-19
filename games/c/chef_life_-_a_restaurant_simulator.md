@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Big Day | 73.00% | ~88 |
-| Home Cook | 42.00% | ~50 |
+| Home Cook | 43.00% | ~52 |
 | You're the Expert! | 40.00% | ~48 |
 | French Flair | 28.00% | ~34 |
 | So Clean You Can Eat Off the Floor | 28.00% | ~34 |
