@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 341,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -410,9 +410,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 12703,
+  "EOS_Progressed": 12710,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -835,6 +835,11 @@
       "Time": "2023-05-19T11:01:59.2114681+00:00",
       "NumProgressed": 12703,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-19T12:00:05.796867+00:00",
+      "NumProgressed": 12710,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 40,
@@ -876,9 +881,9 @@
       "ID": "DISARM_ENEMY",
       "SetID": "4hj6d86",
       "Name": "Flesh Wound",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 127
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -1140,9 +1145,9 @@
       "ID": "NOSPEND_2ROUNDS",
       "SetID": "6j5ggkc",
       "Name": "Hoard Mode",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "RIOT_10_POWERUPS",
@@ -1165,13 +1170,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 12703,
+      "Progressed": 12710,
       "Completed": 51
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 629,
+      "Progressed": 636,
       "Completed": 29
     }
   ],
@@ -1179,8 +1184,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-16T17:57:38.030273+00:00",
-  "LastChanged_Achievements": "2023-05-19T11:01:59.2114676+00:00",
+  "LastChanged_Achievements": "2023-05-19T12:00:05.7968666+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:45.2768909+00:00",
-  "LastUpdate_Ratings": "2023-05-19T10:58:10.15904+00:00",
-  "LastUpdate_Achievements": "2023-05-19T11:01:59.2115085+00:00"
+  "LastUpdate_Ratings": "2023-05-19T11:57:31.2221229+00:00",
+  "LastUpdate_Achievements": "2023-05-19T12:00:05.7968976+00:00"
 }

@@ -5,30 +5,30 @@ Rating: 4.50 (Ranked 533)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 81.00% | ~289 |
-| Vanquisher of Robots | 72.00% | ~257 |
+| Good start! | 81.00% | ~290 |
+| Vanquisher of Robots | 72.00% | ~258 |
 | Party | 45.00% | ~161 |
 | Knowledge is Power | 43.00% | ~154 |
 | Impossible Cube | 42.00% | ~150 |
-| No Mercy | 41.00% | ~146 |
-| The Return of a Rat | 39.00% | ~139 |
-| Through the Darkness | 39.00% | ~139 |
-| Fat of the Earth | 32.00% | ~114 |
+| No Mercy | 41.00% | ~147 |
+| The Return of a Rat | 39.00% | ~140 |
+| Through the Darkness | 39.00% | ~140 |
+| Fat of the Earth | 32.00% | ~115 |
 | Last Man Standing | 31.00% | ~111 |
 | Catch Jonathan_tostar | 26.00% | ~93 |
-| Campaigning | 24.00% | ~86 |
 | Assemble a Meganewbie | 24.00% | ~86 |
 | He's Seen It All | 24.00% | ~86 |
 | Great Hero | 24.00% | ~86 |
+| Campaigning | 23.00% | ~82 |
 | Rookie | 23.00% | ~82 |
-| Frugal | 20.00% | ~71 |
+| Frugal | 20.00% | ~72 |
 | Feed a God | 19.00% | ~68 |
 | To the Moon and Back | 19.00% | ~68 |
-| Great Flight | 17.00% | ~61 |
-| Holy Vengeance | 13.00% | ~46 |
+| Great Flight | 16.00% | ~57 |
+| Holy Vengeance | 13.00% | ~47 |
 | Strength and Sorcery | 10.00% | ~36 |
-| Brain and Brawn | 10.00% | ~36 |
 | Honorary Cultist | 10.00% | ~36 |
+| Brain and Brawn | 9.00% | ~32 |
 | Omae Wa Mou Shindeiru | 8.00% | ~29 |
 | Experimentalist | 5.00% | ~18 |
 | Wide Selection | 5.00% | ~18 |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 533)
 | Vet | 0.80% | ~3 |
 | Real Achiever | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 357 (Ranked 200)  
+Progressed: 358 (Ranked 200)  
 Completed: 1 (0.28%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -51,7 +51,7 @@ Completed: 1 (0.28%) (Ranked 128)
 | 2023-05-03 | 353 | 1 |
 | 2023-05-07 | 354 | 1 |
 | 2023-05-14 | 355 | 1 |
-| 2023-05-19 | 357 | 1 |
+| 2023-05-19 | 358 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

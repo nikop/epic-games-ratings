@@ -34,11 +34,12 @@
 | Crocodile Attack ✔ | 4.00% | ~7 |
 | Group Alpha ✔ | 4.00% | ~7 |
 | Mutant run ✔ | 4.00% | ~7 |
+| Sheriff ✔ | 4.00% | ~7 |
 | Rank A ✔ | 4.00% | ~7 |
 | Broadcasting ✔ | 4.00% | ~7 |
 | Secret ✔ | 3.00% | ~5 |
 | Boss 2 ✔ | 3.00% | ~5 |
-| Sheriff ✔ | 3.00% | ~5 |
+| Priest ✔ | 3.00% | ~5 |
 | Rank B+ ✔ | 3.00% | ~5 |
 | Car ✔ | 2.00% | ~3 |
 | Seeker One ✔ | 2.00% | ~3 |
@@ -46,7 +47,6 @@
 | Crocodile Escape ✔ | 2.00% | ~3 |
 | Osipov's video message ✔ | 2.00% | ~3 |
 | The escape ✔ | 2.00% | ~3 |
-| Priest ✔ | 2.00% | ~3 |
 | Boss 3 ✔ | 2.00% | ~3 |
 | Exterminate pests ✔ | 1.00% | ~2 |
 | Hardcore ✔ | 1.00% | ~2 |

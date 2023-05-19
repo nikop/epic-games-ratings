@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -516,7 +516,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2604,
+  "EOS_Progressed": 2605,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
@@ -826,6 +826,11 @@
       "Time": "2023-05-17T08:05:17.6551466+00:00",
       "NumProgressed": 2604,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-19T12:05:15.0256626+00:00",
+      "NumProgressed": 2605,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -925,7 +930,7 @@
       "Name": "Honoured Battle-Brother",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ExtractorSkullUses",
@@ -1029,7 +1034,7 @@
       "Name": "Executioner",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "Kills_Exterminator",
@@ -1101,7 +1106,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -1308,21 +1313,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2604,
+      "Progressed": 2605,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2604,
+      "Progressed": 2605,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-17T16:59:29.0694874+00:00",
-  "LastChanged_Achievements": "2023-05-19T11:07:24.2407207+00:00",
+  "LastChanged_Achievements": "2023-05-19T12:05:15.0256623+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:33.8980479+00:00",
-  "LastUpdate_Ratings": "2023-05-19T10:59:08.3110511+00:00",
-  "LastUpdate_Achievements": "2023-05-19T11:07:24.240776+00:00"
+  "LastUpdate_Ratings": "2023-05-19T11:58:10.187489+00:00",
+  "LastUpdate_Achievements": "2023-05-19T12:05:15.0257063+00:00"
 }

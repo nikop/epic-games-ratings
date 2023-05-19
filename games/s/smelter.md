@@ -13,12 +13,12 @@
 | Smeltastic! | 35.00% | ~11 |
 | A Little Renovating | 32.00% | ~10 |
 | Deflect This! | 26.00% | ~8 |
+| Just Some Improvements | 23.00% | ~7 |
 | It's a Sign! | 23.00% | ~7 |
-| Just Some Improvements | 19.00% | ~6 |
+| A New Strategy | 19.00% | ~6 |
 | Isn't It Beautiful? | 16.00% | ~5 |
 | A Generous Leader | 16.00% | ~5 |
 | A Little Extra Love | 16.00% | ~5 |
-| A New Strategy | 16.00% | ~5 |
 | A Terrible Way to Go | 16.00% | ~5 |
 | Final Announcement | 13.00% | ~4 |
 | How Do You Like Them Apples? | 13.00% | ~4 |

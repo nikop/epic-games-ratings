@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 58.00% | ~94 |
+| In the Black | 58.00% | ~95 |
 | Starting Skyward | 53.00% | ~86 |
 | Grime is Not Good | 46.00% | ~75 |
-| Campaign Launch | 40.00% | ~65 |
+| Campaign Launch | 39.00% | ~64 |
 | Floor Galore | 38.00% | ~62 |
-| Dinner Dash | 38.00% | ~62 |
+| Dinner Dash | 37.00% | ~60 |
 | It's Technical | 35.00% | ~57 |
 | Upgrade Unlock | 34.00% | ~55 |
-| Need a Consult | 33.00% | ~53 |
-| Proper Walls | 31.00% | ~50 |
-| Delegate Maintenance | 31.00% | ~50 |
-| Destination Destiny | 27.00% | ~44 |
+| Need a Consult | 33.00% | ~54 |
+| Proper Walls | 31.00% | ~51 |
+| Delegate Maintenance | 31.00% | ~51 |
+| Destination Destiny | 26.00% | ~42 |
 | Happy Tenants | 23.00% | ~37 |
 | Smooth Service | 23.00% | ~37 |
 | Potent Potables | 22.00% | ~36 |
@@ -23,13 +23,13 @@
 | Don't Feel a Loan | 21.00% | ~34 |
 | Your Prestige is Rising | 21.00% | ~34 |
 | Retail Revenue | 21.00% | ~34 |
-| People Mover | 20.00% | ~32 |
-| Emporium Empire | 20.00% | ~32 |
-| Leveled Up Shops | 20.00% | ~32 |
-| Get Electrified | 20.00% | ~32 |
+| People Mover | 20.00% | ~33 |
+| Emporium Empire | 20.00% | ~33 |
+| Leveled Up Shops | 20.00% | ~33 |
+| Get Electrified | 20.00% | ~33 |
 | Artfully Done | 19.00% | ~31 |
 | Rehab Expert | 19.00% | ~31 |
-| Tasty Profits | 19.00% | ~31 |
+| Tasty Profits | 18.00% | ~29 |
 | We Don't Need No Education | 18.00% | ~29 |
 | Established Fame | 17.00% | ~28 |
 | Cashflow Chief | 17.00% | ~28 |
@@ -40,7 +40,7 @@
 | Swimming in Surplus | 14.00% | ~23 |
 | Starred Dining | 14.00% | ~23 |
 | Smooth Operator | 13.00% | ~21 |
-| 28 Days Later | 12.00% | ~19 |
+| 28 Days Later | 12.00% | ~20 |
 | Plaza Plan | 11.00% | ~18 |
 | Master of Puppets | 10.00% | ~16 |
 | Revenue Royalty | 10.00% | ~16 |
@@ -64,8 +64,8 @@
 | Tuned In | 6.00% | ~10 |
 | Office Bigwigs | 5.00% | ~8 |
 | Luxury Boutiques | 5.00% | ~8 |
-| Decorator's Touch | 4.00% | ~6 |
-| Plebs Are Needed | 4.00% | ~6 |
+| Decorator's Touch | 4.00% | ~7 |
+| Plebs Are Needed | 4.00% | ~7 |
 | Loft Life | 3.00% | ~5 |
 | Glut of Gastronomy | 3.00% | ~5 |
 | Three of a Kind | 3.00% | ~5 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 162 (Ranked 234)  
+Progressed: 163 (Ranked 234)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-12 | 158 | 0 |
 | 2023-05-16 | 159 | 0 |
 | 2023-05-18 | 160 | 0 |
-| 2023-05-19 | 162 | 0 |
+| 2023-05-19 | 163 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

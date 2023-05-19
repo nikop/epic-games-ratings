@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Once Upon a Time | 96.00% | ~659 |
-| Waff! | 94.00% | ~645 |
-| Into the Barn | 87.00% | ~597 |
-| A Prophecy | 86.00% | ~590 |
-| Sword, Shield, Fight! | 76.00% | ~521 |
-| A Grand Visit | 71.00% | ~487 |
-| Vibing | 61.00% | ~418 |
-| Fun Guy | 61.00% | ~418 |
+| Once Upon a Time | 96.00% | ~660 |
+| Waff! | 94.00% | ~646 |
+| Into the Barn | 87.00% | ~598 |
+| A Prophecy | 85.00% | ~584 |
+| Sword, Shield, Fight! | 75.00% | ~515 |
+| A Grand Visit | 71.00% | ~488 |
+| Vibing | 61.00% | ~419 |
+| Fun Guy | 61.00% | ~419 |
 | Tragic Brave | 52.00% | ~357 |
-| Awakened Spirits | 49.00% | ~336 |
-| Little Shop | 48.00% | ~329 |
+| Awakened Spirits | 49.00% | ~337 |
+| Little Shop | 48.00% | ~330 |
 | Surprise! | 43.00% | ~295 |
 | An Actor! | 43.00% | ~295 |
-| Curtain Call | 41.00% | ~281 |
-| Piece of Cake | 40.00% | ~274 |
+| Curtain Call | 41.00% | ~282 |
+| Piece of Cake | 39.00% | ~268 |
 | Gooey Delight! | 39.00% | ~268 |
 | Glimmer of Hope | 39.00% | ~268 |
 | Teacups for Toppy | 38.00% | ~261 |
@@ -30,10 +30,10 @@
 | Ancient Wisdom | 35.00% | ~240 |
 | Frog Facts! | 35.00% | ~240 |
 | All That Glistens | 35.00% | ~240 |
-| Spellbound | 34.00% | ~233 |
-| All Skilled Up! | 34.00% | ~233 |
-| It's Pointy! | 34.00% | ~233 |
-| Extinct Again! | 33.00% | ~226 |
+| All Skilled Up! | 34.00% | ~234 |
+| It's Pointy! | 34.00% | ~234 |
+| Spellbound | 33.00% | ~227 |
+| Extinct Again! | 32.00% | ~220 |
 | Bird of Prey | 32.00% | ~220 |
 | Stardust | 32.00% | ~220 |
 | Heartbreaker | 32.00% | ~220 |
@@ -55,8 +55,8 @@
 | Dance Master | 8.00% | ~55 |
 | Bombs Away! | 8.00% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 686 (Ranked 179)  
-Completed: 45 (6.56%) (Ranked 24)  
+Progressed: 687 (Ranked 179)  
+Completed: 45 (6.55%) (Ranked 24)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -82,7 +82,7 @@ Completed: 45 (6.56%) (Ranked 24)
 | 2023-05-16 | 653 | 45 |
 | 2023-05-17 | 659 | 45 |
 | 2023-05-18 | 671 | 45 |
-| 2023-05-19 | 686 | 45 |
+| 2023-05-19 | 687 | 45 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

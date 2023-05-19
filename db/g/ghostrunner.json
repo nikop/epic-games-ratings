@@ -2,13 +2,13 @@
   "ID": "95d0b9561be1464cb43bd029e94cf526",
   "Name": "Ghostrunner",
   "ProductSlug": "ghostrunner",
-  "Ranking_Rating": 164,
+  "Ranking_Rating": 165,
   "Ranking_Popularity": 189,
   "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -870,9 +870,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5181,
+  "EOS_Progressed": 5191,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 639,
+  "EOS_NewPlayers": 647,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -3520,6 +3520,11 @@
       "Time": "2023-05-19T11:07:08.3675464+00:00",
       "NumProgressed": 5181,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-19T12:05:02.2462273+00:00",
+      "NumProgressed": 5191,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 45,
@@ -3539,7 +3544,7 @@
       "Name": "About Adam",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ArtificialSelection",
@@ -3547,7 +3552,7 @@
       "Name": "Artificial selection",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 1554
+      "UsersEstimate": 1557
     },
     {
       "ID": "BackToHell",
@@ -3555,7 +3560,7 @@
       "Name": "Back to hell",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2024
     },
     {
       "ID": "CantRunCantHide",
@@ -3563,7 +3568,7 @@
       "Name": "Can\u0027t Run Can\u0027t Hide",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1038
     },
     {
       "ID": "DeadInTheAir",
@@ -3571,7 +3576,7 @@
       "Name": "Dead in the air",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 829
+      "UsersEstimate": 831
     },
     {
       "ID": "EveryoneNeedsAHobby",
@@ -3579,7 +3584,7 @@
       "Name": "Everyone Needs A Hobby",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "FineAddition",
@@ -3587,7 +3592,7 @@
       "Name": "Fine addition",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "FinishLine",
@@ -3595,7 +3600,7 @@
       "Name": "Finish line",
       "Percentage": 28,
       "XP": 60,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1453
     },
     {
       "ID": "GRProjectComplete",
@@ -3619,7 +3624,7 @@
       "Name": "Homerunner",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 2487
+      "UsersEstimate": 2492
     },
     {
       "ID": "ICallItLuck",
@@ -3627,7 +3632,7 @@
       "Name": "I call it luck",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 2435
+      "UsersEstimate": 2440
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -3635,7 +3640,7 @@
       "Name": "Improvise, adapt, overrun",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 777
+      "UsersEstimate": 779
     },
     {
       "ID": "Junkrunner",
@@ -3643,7 +3648,7 @@
       "Name": "Junkrunner",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "JustAMan",
@@ -3651,7 +3656,7 @@
       "Name": "Just A Man",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "LegacyDrivers",
@@ -3667,7 +3672,7 @@
       "Name": "Longrunner",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 4041
+      "UsersEstimate": 4049
     },
     {
       "ID": "MoreThanHuman",
@@ -3675,7 +3680,7 @@
       "Name": "More than human",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "Neuromancer",
@@ -3683,7 +3688,7 @@
       "Name": "Control freak",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 1554
+      "UsersEstimate": 1557
     },
     {
       "ID": "ObedientMachine",
@@ -3699,7 +3704,7 @@
       "Name": "One man\u0027s trash",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "OneOfThoseDays",
@@ -3715,7 +3720,7 @@
       "Name": "Out of order",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 2435
+      "UsersEstimate": 2440
     },
     {
       "ID": "Perfection",
@@ -3723,7 +3728,7 @@
       "Name": "Perfection",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 1762
+      "UsersEstimate": 1765
     },
     {
       "ID": "PreempativeStrike",
@@ -3731,7 +3736,7 @@
       "Name": "Pre-empative strike",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 777
+      "UsersEstimate": 779
     },
     {
       "ID": "PushItToTheLimit",
@@ -3739,7 +3744,7 @@
       "Name": "Push it to the limit",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "RIsForRunning",
@@ -3747,7 +3752,7 @@
       "Name": "R is for Running",
       "Percentage": 19,
       "XP": 60,
-      "UsersEstimate": 984
+      "UsersEstimate": 986
     },
     {
       "ID": "RunningOutOfBreath",
@@ -3755,7 +3760,7 @@
       "Name": "Running out of breath",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 2953
+      "UsersEstimate": 2959
     },
     {
       "ID": "RunningWild",
@@ -3763,7 +3768,7 @@
       "Name": "Running Wild",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 1554
+      "UsersEstimate": 1557
     },
     {
       "ID": "Scrapped",
@@ -3771,7 +3776,7 @@
       "Name": "Scrapped",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "SticksAndStones",
@@ -3787,7 +3792,7 @@
       "Name": "Strafing Run",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "Strike",
@@ -3795,7 +3800,7 @@
       "Name": "Strike",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "SwordRunner",
@@ -3803,7 +3808,7 @@
       "Name": "Sword Runner",
       "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 3264
+      "UsersEstimate": 3270
     },
     {
       "ID": "SwordToAGunfight",
@@ -3811,7 +3816,7 @@
       "Name": "Sword to a gunfight",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1661
     },
     {
       "ID": "TripleA",
@@ -3819,7 +3824,7 @@
       "Name": "Triple A",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "UnstoppableForce",
@@ -3827,7 +3832,7 @@
       "Name": "Unstoppable force",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1246
     },
     {
       "ID": "UpCloseAndPersonal",
@@ -3843,7 +3848,7 @@
       "Name": "Upgrades not mandatory",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 1606
+      "UsersEstimate": 1609
     },
     {
       "ID": "Wallrunner",
@@ -3851,7 +3856,7 @@
       "Name": "Wallrunner",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 3005
+      "UsersEstimate": 3011
     },
     {
       "ID": "WaveOfMutilation",
@@ -3859,7 +3864,7 @@
       "Name": "Wave of mutilation",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1194
     },
     {
       "ID": "WhereAreMyKeys",
@@ -3867,7 +3872,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2280
+      "UsersEstimate": 2284
     },
     {
       "ID": "WhereHeStood",
@@ -3875,7 +3880,7 @@
       "Name": "Where He Stood",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "WhyNotBoth",
@@ -3883,28 +3888,28 @@
       "Name": "Why not both",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1661
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 5181,
+      "Progressed": 5191,
       "Completed": 16
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 5181,
+      "Progressed": 5191,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-05-19T01:58:15.6065869+00:00",
-  "LastChanged_Achievements": "2023-05-19T11:07:08.367546+00:00",
+  "LastChanged_Achievements": "2023-05-19T12:05:02.2462268+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:53.0761162+00:00",
-  "LastUpdate_Ratings": "2023-05-19T10:58:18.0907712+00:00",
-  "LastUpdate_Achievements": "2023-05-19T11:07:08.3676155+00:00"
+  "LastUpdate_Ratings": "2023-05-19T11:57:35.9496163+00:00",
+  "LastUpdate_Achievements": "2023-05-19T12:05:02.2462678+00:00"
 }

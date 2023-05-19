@@ -4,8 +4,8 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -721,8 +721,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-05-19T11:02:22.9129746+00:00",
+  "LastChanged_Achievements": "2023-05-19T12:02:11.6924983+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:08.4580551+00:00",
-  "LastUpdate_Ratings": "2023-05-19T10:57:19.8089147+00:00",
-  "LastUpdate_Achievements": "2023-05-19T11:02:22.9130085+00:00"
+  "LastUpdate_Ratings": "2023-05-19T11:56:57.1420982+00:00",
+  "LastUpdate_Achievements": "2023-05-19T12:02:11.692525+00:00"
 }

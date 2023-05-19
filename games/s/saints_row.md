@@ -6,15 +6,15 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 3.00% | ~899 |
-| To The Nines | 3.00% | ~899 |
-| The Side Job | 2.00% | ~599 |
-| Wet Work | 2.00% | ~599 |
-| Tune Up | 2.00% | ~599 |
-| Optimized | 2.00% | ~599 |
-| Performance Review | 2.00% | ~599 |
-| Making a Name | 2.00% | ~599 |
-| Food for Thought | 2.00% | ~599 |
+| First F#@!ing Day | 3.00% | ~900 |
+| To The Nines | 3.00% | ~900 |
+| The Side Job | 2.00% | ~600 |
+| Wet Work | 2.00% | ~600 |
+| Tune Up | 2.00% | ~600 |
+| Optimized | 2.00% | ~600 |
+| Performance Review | 2.00% | ~600 |
+| Making a Name | 2.00% | ~600 |
+| Food for Thought | 2.00% | ~600 |
 | Quality Time | 1.00% | ~300 |
 | Finders Keepers | 1.00% | ~300 |
 | A Young Empire | 1.00% | ~300 |
@@ -38,7 +38,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Face Off | 0.50% | ~8 |
 | Challenge Accepted | 0.40% | ~120 |
 | Untouchable | 0.40% | ~120 |
-| Hazardous Heist | 0.40% | ~6 |
+| Hazardous Heist | 0.40% | ~7 |
 | The Professional | 0.30% | ~90 |
 | Chaos Tamer | 0.30% | ~90 |
 | Free Refills | 0.30% | ~90 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Fiesta Time | 0.10% | ~30 |
 | All Mine | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,969 (Ranked 84)  
+Progressed: 30,006 (Ranked 84)  
 Completed: 19 (0.06%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 19 (0.06%) (Ranked 169)
 | 2023-05-16 | 28,544 | 18 |
 | 2023-05-17 | 28,880 | 18 |
 | 2023-05-18 | 29,461 | 19 |
-| 2023-05-19 | 29,969 | 19 |
+| 2023-05-19 | 30,006 | 19 |
 ## Awards
 Max (Extremely Fun): 1,029  (Ranked 133)  
 Sum: 8,336 (Ranked 88)  

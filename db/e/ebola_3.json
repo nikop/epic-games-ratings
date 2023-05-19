@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -924,9 +924,9 @@
       "ID": "achOsipovOne",
       "SetID": "72gjli4",
       "Name": "Sheriff \u2714",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "achOsipovTwo",
@@ -972,9 +972,9 @@
       "ID": "achPriest",
       "SetID": "72gjli4",
       "Name": "Priest \u2714",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "achRankOne",
@@ -1101,8 +1101,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-19T11:07:40.7352551+00:00",
+  "LastChanged_Achievements": "2023-05-19T12:05:27.859815+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:09.5371961+00:00",
-  "LastUpdate_Ratings": "2023-05-19T11:01:09.235461+00:00",
-  "LastUpdate_Achievements": "2023-05-19T11:07:40.7353006+00:00"
+  "LastUpdate_Ratings": "2023-05-19T11:59:31.9554423+00:00",
+  "LastUpdate_Achievements": "2023-05-19T12:05:27.8598695+00:00"
 }

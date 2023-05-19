@@ -10,9 +10,9 @@ Rating: 4.55 (Ranked 467)
 | Sputnik 2049 | 3.00% | ~58 |
 | Infinite Growth... | 2.00% | ~39 |
 | Guy de Borderlands | 2.00% | ~39 |
+| Space Society | 2.00% | ~39 |
 | A Thousand Strong | 2.00% | ~39 |
 | Ready for a New World | 2.00% | ~39 |
-| Space Society | 1.00% | ~19 |
 | A Hunk of Junk | 1.00% | ~19 |
 | Fully Recycled | 1.00% | ~19 |
 | Breaking Protocol | 1.00% | ~19 |
@@ -20,8 +20,8 @@ Rating: 4.55 (Ranked 467)
 | Ain't Nobody Got Time for That | 1.00% | ~19 |
 | The Ship of Theseus | 1.00% | ~19 |
 | Hope Seeker | 1.00% | ~19 |
-| Power Outage | 0.90% | ~17 |
-| Exceeding Capacity | 0.80% | ~16 |
+| Exceeding Capacity | 0.90% | ~18 |
+| Power Outage | 0.90% | ~18 |
 | Access Granted | 0.70% | ~14 |
 | Necessary Enhancement | 0.70% | ~14 |
 | Convenient Transport | 0.70% | ~14 |
@@ -38,13 +38,13 @@ Rating: 4.55 (Ranked 467)
 | Praise the Hull! | 0.40% | ~8 |
 | Pulsar Disciple | 0.40% | ~8 |
 | You Had One Job... | 0.30% | ~6 |
+| Space Greenhouse | 0.30% | ~6 |
 | Delivery! | 0.30% | ~6 |
 | Pedal to the Metal | 0.30% | ~6 |
 | What the Ruins Teach Us | 0.30% | ~6 |
 | Mutual Loyalty | 0.20% | ~4 |
 | Sustainable Energy | 0.20% | ~4 |
 | Catastrophe Avoided | 0.20% | ~4 |
-| Space Greenhouse | 0.20% | ~4 |
 | Tiqqun Unchained | 0.20% | ~4 |
 | Scientifically Accurate | 0.20% | ~4 |
 | Help of the Forgotten Member | 0.20% | ~4 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 467)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,944 (Ranked 146)  
+Progressed: 1,946 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-16 | 1,908 | 0 |
 | 2023-05-17 | 1,911 | 0 |
 | 2023-05-18 | 1,926 | 0 |
-| 2023-05-19 | 1,944 | 0 |
+| 2023-05-19 | 1,946 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

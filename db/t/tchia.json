@@ -140,9 +140,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5800,
+  "EOS_Progressed": 5801,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1650,6 +1650,11 @@
       "Time": "2023-05-19T11:06:54.2917938+00:00",
       "NumProgressed": 5800,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-19T12:04:51.5420114+00:00",
+      "NumProgressed": 5801,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 21,
@@ -1723,9 +1728,9 @@
       "ID": "FASHION_VICTIM",
       "SetID": "3cck1g6",
       "Name": "Fashion Victim",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 174
+      "UsersEstimate": 116
     },
     {
       "ID": "GLOBE_TROTTER",
@@ -1763,9 +1768,9 @@
       "ID": "IN_A_PINCH",
       "SetID": "3cck1g6",
       "Name": "In a Pinch",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1102
     },
     {
       "ID": "LIBERATOR",
@@ -1828,7 +1833,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5800,
+      "Progressed": 5801,
       "Completed": 22
     }
   ],
@@ -1836,8 +1841,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-16T16:57:54.2243616+00:00",
-  "LastChanged_Achievements": "2023-05-19T11:06:54.2917932+00:00",
+  "LastChanged_Achievements": "2023-05-19T12:04:51.5420111+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:53.6325406+00:00",
-  "LastUpdate_Ratings": "2023-05-19T10:58:18.9182383+00:00",
-  "LastUpdate_Achievements": "2023-05-19T11:06:54.2918363+00:00"
+  "LastUpdate_Ratings": "2023-05-19T11:57:36.4823932+00:00",
+  "LastUpdate_Achievements": "2023-05-19T12:04:51.5420285+00:00"
 }

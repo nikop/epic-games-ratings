@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-05-16T22:30:00+00:00",
     "PcReleaseDate": "2023-04-20T16:00:00+00:00",
@@ -95,9 +95,9 @@
       "ID": "BOSS_KILL2",
       "SetID": "1icc7kd",
       "Name": "Overcoming Weakness",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BOSS_KILL3",
@@ -302,8 +302,8 @@
   ],
   "FirstSeen": "2023-05-19T06:56:53.0270163+00:00",
   "FirstSeenAchievements": "2023-05-16T17:00:43.3294802+00:00",
-  "LastChanged_Achievements": "2023-05-19T11:03:31.4567219+00:00",
+  "LastChanged_Achievements": "2023-05-19T12:02:37.917605+00:00",
   "LastUpdate_AppInfo": "2023-05-16T16:56:57.5457988+00:00",
-  "LastUpdate_Ratings": "2023-05-19T10:57:09.7040206+00:00",
-  "LastUpdate_Achievements": "2023-05-19T11:03:31.4567438+00:00"
+  "LastUpdate_Ratings": "2023-05-19T11:56:51.1379232+00:00",
+  "LastUpdate_Achievements": "2023-05-19T12:02:37.9176229+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "4925c1cd4af148e39600e73590375c16",
   "Name": "Busway Islands - Puzzle",
   "ProductSlug": "busway-islands-puzzle-91287d",
-  "Ranking_EOS_Progress": 294,
+  "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 5,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-04-29T13:00:00+00:00",
@@ -459,17 +459,17 @@
       "ID": "level_4",
       "SetID": "dlpjnee",
       "Name": "Island 4",
-      "Percentage": 76,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "level_5",
       "SetID": "dlpjnee",
       "Name": "Island 5",
-      "Percentage": 67,
+      "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "level_6",
@@ -516,8 +516,8 @@
   "FirstSeenRating": "2023-04-30T05:57:09.5836645+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:09.4647411+00:00",
   "LastChanged": "2023-04-30T05:57:09.5836646+00:00",
-  "LastChanged_Achievements": "2023-05-19T11:07:00.1481329+00:00",
+  "LastChanged_Achievements": "2023-05-19T12:04:56.0036028+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:57:34.7730428+00:00",
-  "LastUpdate_Ratings": "2023-05-19T10:57:53.8486356+00:00",
-  "LastUpdate_Achievements": "2023-05-19T11:07:00.1481618+00:00"
+  "LastUpdate_Ratings": "2023-05-19T11:57:20.1555994+00:00",
+  "LastUpdate_Achievements": "2023-05-19T12:04:56.0036258+00:00"
 }

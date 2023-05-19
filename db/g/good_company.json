@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4770,
+  "EOS_Progressed": 4771,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -684,6 +684,11 @@
       "Time": "2023-05-19T07:06:35.6674475+00:00",
       "NumProgressed": 4770,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-19T12:05:16.5506822+00:00",
+      "NumProgressed": 4771,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -751,7 +756,7 @@
       "Name": "Level: Charlie\u0027s Circuits",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1049
+      "UsersEstimate": 1050
     },
     {
       "ID": "ach_campaign_progress10",
@@ -807,7 +812,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2337
+      "UsersEstimate": 2338
     },
     {
       "ID": "ach_campaign_progress6",
@@ -847,7 +852,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1192
+      "UsersEstimate": 1193
     },
     {
       "ID": "ach_campaign_special10",
@@ -1127,7 +1132,7 @@
       "Name": "Data Churn Type II",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ach_frp_researchdata3",
@@ -1287,7 +1292,7 @@
       "Name": "Speedy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ach_trait_overload",
@@ -1302,15 +1307,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4770,
+      "Progressed": 4771,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-05-19T11:07:26.3238021+00:00",
+  "LastChanged_Achievements": "2023-05-19T12:05:16.5506818+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:55.3006294+00:00",
-  "LastUpdate_Ratings": "2023-05-19T10:59:34.8627061+00:00",
-  "LastUpdate_Achievements": "2023-05-19T11:07:26.3238821+00:00"
+  "LastUpdate_Ratings": "2023-05-19T11:58:27.3224223+00:00",
+  "LastUpdate_Achievements": "2023-05-19T12:05:16.5507537+00:00"
 }

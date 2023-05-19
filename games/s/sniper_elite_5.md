@@ -1,24 +1,24 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.41 (Ranked 655)  
+Rating: 4.41 (Ranked 656)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 1.00% | ~8 |
-| Resourceful | 0.80% | ~6 |
+| Resourceful | 0.90% | ~7 |
+| Confirming Suspicions | 0.80% | ~6 |
 | The Long Game | 0.60% | ~5 |
-| Confirming Suspicions | 0.60% | ~5 |
 | As Quiet as a Mouse | 0.60% | ~5 |
 | Enemy at the Gates | 0.50% | ~4 |
+| Organ Grinder | 0.50% | ~4 |
+| Lord of War | 0.50% | ~4 |
 | Taking it back | 0.50% | ~4 |
 | Opposing Force | 0.40% | ~3 |
-| Organ Grinder | 0.40% | ~3 |
 | Strategist | 0.40% | ~3 |
 | Gunslinger | 0.40% | ~3 |
 | Skirmisher | 0.40% | ~3 |
 | Precision Is Key | 0.40% | ~3 |
-| Lord of War | 0.40% | ~3 |
 | The Kraken Wakes | 0.40% | ~3 |
 | It's Starting to Crack | 0.40% | ~3 |
 | Climbing the Ladder | 0.30% | ~2 |
@@ -37,6 +37,7 @@ Rating: 4.41 (Ranked 655)
 | Der Geist | 0.10% | ~1 |
 | Close Quarters | 0.10% | ~1 |
 | Burn after reading | 0.10% | ~1 |
+| It'll Buff Right Out | 0.10% | ~1 |
 | Locomotion Commotion | 0.10% | ~1 |
 | Up close and personal | 0.10% | ~1 |
 | Brains of the Operation | 0.10% | ~1 |
@@ -48,6 +49,7 @@ Rating: 4.41 (Ranked 655)
 | Siegebreaker | 0.10% | ~1 |
 | Ghost of Falaise | 0.10% | ~1 |
 | Operation Overlord | 0.10% | ~1 |
+| If You Go Down To The Woods Today | 0.10% | ~1 |
 | Best of the Best | 0.00% | ~0 |
 | Master of Pistols | 0.00% | ~0 |
 | Master of Secondaries | 0.00% | ~0 |
@@ -61,7 +63,6 @@ Rating: 4.41 (Ranked 655)
 | Souvenir hunter | 0.00% | ~0 |
 | Eagle Eyed | 0.00% | ~0 |
 | Tinkerer | 0.00% | ~0 |
-| It'll Buff Right Out | 0.00% | ~0 |
 | Road Rage | 0.00% | ~0 |
 | Sight Beyond Sights | 0.00% | ~0 |
 | Shoot for the Moon | 0.00% | ~0 |
@@ -71,13 +72,12 @@ Rating: 4.41 (Ranked 655)
 | Herr Today, Gone Tomorrow | 0.00% | ~0 |
 | Operation Foxley | 0.00% | ~0 |
 | Das Familienjuwel | 0.00% | ~0 |
-| If You Go Down To The Woods Today | 0.00% | ~0 |
 | Fight Another Day | 0.00% | ~0 |
 | Stroll in the Woods | 0.00% | ~0 |
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 772 (Ranked 172)  
+Progressed: 776 (Ranked 172)  
 Completed: 2 (0.26%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 2 (0.26%) (Ranked 131)
 | 2023-05-16 | 723 | 2 |
 | 2023-05-17 | 728 | 2 |
 | 2023-05-18 | 743 | 2 |
-| 2023-05-19 | 772 | 2 |
+| 2023-05-19 | 776 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

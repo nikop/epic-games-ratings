@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 64,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -538,7 +538,7 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 458414,
+  "EOS_Progressed": 458416,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 652,
   "EOS_NewCompleters": 0,
@@ -3128,6 +3128,11 @@
       "Time": "2023-05-19T11:07:26.7430214+00:00",
       "NumProgressed": 458414,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-19T12:05:16.8621276+00:00",
+      "NumProgressed": 458416,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 79,
@@ -3153,9 +3158,9 @@
       "ID": "achievement_first_death",
       "SetID": "8cokdon",
       "Name": "In space, no one can hear you scream",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -3225,9 +3230,9 @@
       "ID": "achievement_story_event_bowie_ended",
       "SetID": "8cokdon",
       "Name": "The Shutdown",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_story_landa",
@@ -3241,9 +3246,9 @@
       "ID": "achievement_story_meet_cryo_rebecca",
       "SetID": "8cokdon",
       "Name": "Forsaken",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_story_meet_idaho_b",
@@ -3313,9 +3318,9 @@
       "ID": "achievement_story_neon_child",
       "SetID": "8cokdon",
       "Name": "Things persisted in not being what they seemed",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -3393,9 +3398,9 @@
       "ID": "achievement_unlock_officer_kb_1",
       "SetID": "8cokdon",
       "Name": "The Tech Med",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_unlock_officer_kb_2",
@@ -3561,17 +3566,17 @@
       "ID": "achievement_win_boss_sector_1",
       "SetID": "8cokdon",
       "Name": "Jeef Skeejj",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_win_boss_sector_2",
       "SetID": "8cokdon",
       "Name": "Jeef Skagg",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -3593,9 +3598,9 @@
       "ID": "achievement_win_expedition_without_monster_noloss",
       "SetID": "8cokdon",
       "Name": "Careful planning",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_win_run_hard",
@@ -3657,9 +3662,9 @@
       "ID": "achievement_unlock_officer_phalanx_1",
       "SetID": "7plcbc4",
       "Name": "The Blade",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_unlock_officer_phalanx_2",
@@ -3673,33 +3678,33 @@
       "ID": "achievement_unlock_officer_pragmah_1",
       "SetID": "7plcbc4",
       "Name": "The Extractor",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_unlock_officer_pragmah_2",
       "SetID": "7plcbc4",
       "Name": "The Executioner",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_unlock_phalanx_battleship",
       "SetID": "7plcbc4",
       "Name": "Soldiers of Fortune",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_unlock_pragmah_battleship",
       "SetID": "7plcbc4",
       "Name": "Hand of the Emperor",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_win_all_chapers_with_all_bs_dlc_included_easy_normal",
@@ -3770,21 +3775,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 2348,
+      "Progressed": 2350,
       "Completed": 2346
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 458414,
+      "Progressed": 458416,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-19T11:07:26.743021+00:00",
+  "LastChanged_Achievements": "2023-05-19T12:05:16.8621272+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:09.480967+00:00",
-  "LastUpdate_Ratings": "2023-05-19T10:59:54.223724+00:00",
-  "LastUpdate_Achievements": "2023-05-19T11:07:26.7431175+00:00"
+  "LastUpdate_Ratings": "2023-05-19T11:58:40.2746358+00:00",
+  "LastUpdate_Achievements": "2023-05-19T12:05:16.8622076+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2660,
+  "EOS_Progressed": 2662,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -944,6 +944,11 @@
       "Time": "2023-05-19T11:07:35.6639176+00:00",
       "NumProgressed": 2660,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-19T12:05:23.9378319+00:00",
+      "NumProgressed": 2662,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -955,7 +960,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "bonus2",
@@ -1003,7 +1008,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2394
+      "UsersEstimate": 2396
     },
     {
       "ID": "campaign10",
@@ -1089,9 +1094,9 @@
       "ID": "campaign2",
       "SetID": "2h56gn1",
       "Name": "Flanked!",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2128
+      "UsersEstimate": 2103
     },
     {
       "ID": "campaign20",
@@ -1107,7 +1112,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1729
+      "UsersEstimate": 1730
     },
     {
       "ID": "campaign4",
@@ -1115,7 +1120,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "campaign5",
@@ -1155,7 +1160,7 @@
       "Name": "Boulder Clash",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "scenario1",
@@ -1171,7 +1176,7 @@
       "Name": "Full Employment",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "scenario3",
@@ -1218,7 +1223,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2660,
+      "Progressed": 2662,
       "Completed": 9
     }
   ],
@@ -1226,8 +1231,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-19T11:07:35.6639171+00:00",
+  "LastChanged_Achievements": "2023-05-19T12:05:23.9378315+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:07.0051638+00:00",
-  "LastUpdate_Ratings": "2023-05-19T11:01:07.5431598+00:00",
-  "LastUpdate_Achievements": "2023-05-19T11:07:35.6639571+00:00"
+  "LastUpdate_Ratings": "2023-05-19T11:59:30.5962232+00:00",
+  "LastUpdate_Achievements": "2023-05-19T12:05:23.9378584+00:00"
 }

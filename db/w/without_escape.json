@@ -2,10 +2,10 @@
   "ID": "8ee9de55298245e4bfe187dd50560f3c",
   "Name": "Without Escape",
   "ProductSlug": "without-escape-c00993",
-  "Ranking_EOS_Progress": 367,
+  "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-05-18T22:00:00+00:00",
     "PcReleaseDate": "2018-04-23T22:00:00+00:00",
@@ -43,17 +43,17 @@
       "ID": "ACH_ALL_ENDINGS",
       "SetID": "2a8fdfo",
       "Name": "You got all endings!",
-      "Percentage": 100,
+      "Percentage": 0,
       "XP": 150,
-      "UsersEstimate": 2
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_CALLED_POLICE",
       "SetID": "2a8fdfo",
       "Name": "Never around when you need them",
-      "Percentage": 50,
+      "Percentage": 0,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_ENDING_1",
@@ -99,17 +99,17 @@
       "ID": "ACH_ENDING_6",
       "SetID": "2a8fdfo",
       "Name": "So nineties it hurts...",
-      "Percentage": 100,
+      "Percentage": 0,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 0
     },
     {
       "ID": "ACH_FINISHED_GAME_10_TIMES",
       "SetID": "2a8fdfo",
       "Name": "Still trying to escape?",
-      "Percentage": 100,
+      "Percentage": 0,
       "XP": 200,
-      "UsersEstimate": 2
+      "UsersEstimate": 0
     }
   ],
   "AchievementSets": [
@@ -121,8 +121,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:51:18.51073+00:00",
-  "LastChanged_Achievements": "2023-05-19T11:07:15.2794879+00:00",
+  "LastChanged_Achievements": "2023-05-19T12:05:07.7797567+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:31.3602585+00:00",
-  "LastUpdate_Ratings": "2023-05-19T11:00:23.849001+00:00",
-  "LastUpdate_Achievements": "2023-05-19T11:07:15.2794982+00:00"
+  "LastUpdate_Ratings": "2023-05-19T11:58:59.1720169+00:00",
+  "LastUpdate_Achievements": "2023-05-19T12:05:07.779763+00:00"
 }

@@ -14,12 +14,12 @@
 | Road-Trip | 58.00% | ~31 |
 | A Musical Pause | 57.00% | ~30 |
 | Sound of Noise | 45.00% | ~24 |
-| Briget's | 43.00% | ~23 |
+| Briget's | 45.00% | ~24 |
 | Big City Music | 40.00% | ~21 |
-| Love at First Sight | 38.00% | ~20 |
-| First Kiss | 34.00% | ~18 |
+| Love at First Sight | 40.00% | ~21 |
+| First Kiss | 36.00% | ~19 |
+| A Bigger Band | 32.00% | ~17 |
 | Fuel | 30.00% | ~16 |
-| A Bigger Band | 30.00% | ~16 |
 | Symbiosis | 30.00% | ~16 |
 | Alone Together | 28.00% | ~15 |
 | Threatening Nature | 26.00% | ~14 |

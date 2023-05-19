@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -852,9 +852,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 2907,
+  "EOS_Progressed": 2908,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2302,6 +2302,11 @@
       "Time": "2023-05-19T10:06:23.60333+00:00",
       "NumProgressed": 2907,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-19T12:05:26.5540048+00:00",
+      "NumProgressed": 2908,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2321,7 +2326,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -2409,7 +2414,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 1366
+      "UsersEstimate": 1367
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -2465,7 +2470,7 @@
       "Name": "The Governator",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -2473,7 +2478,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 2267
+      "UsersEstimate": 2268
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -2497,7 +2502,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 21,
       "XP": 35,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -2505,7 +2510,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ACH_MYWAYS",
@@ -2632,15 +2637,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 2907,
+      "Progressed": 2908,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-15T17:00:44.7999652+00:00",
-  "LastChanged_Achievements": "2023-05-19T11:07:39.1257404+00:00",
+  "LastChanged_Achievements": "2023-05-19T12:05:26.554004+00:00",
   "LastUpdate_AppInfo": "2023-05-12T18:00:03.9005572+00:00",
-  "LastUpdate_Ratings": "2023-05-19T11:01:03.2140224+00:00",
-  "LastUpdate_Achievements": "2023-05-19T11:07:39.1258045+00:00"
+  "LastUpdate_Ratings": "2023-05-19T11:59:26.837372+00:00",
+  "LastUpdate_Achievements": "2023-05-19T12:05:26.5540343+00:00"
 }

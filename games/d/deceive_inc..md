@@ -5,24 +5,24 @@ Rating: 4.69 (Ranked 213)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~3,751 |
-| Tomorrow Never Dyes | 48.00% | ~2,813 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~3,752 |
+| Tomorrow Never Dyes | 48.00% | ~2,814 |
 | Mainframe Hacker | 44.00% | ~2,579 |
 | The Spy who eliminated me | 44.00% | ~2,579 |
 | Never Say Loser Again | 42.00% | ~2,462 |
 | For your Eyes only | 39.00% | ~2,286 |
-| Tailor-Made | 38.00% | ~2,227 |
+| Tailor-Made | 38.00% | ~2,228 |
 | Fully Decked Out | 37.00% | ~2,169 |
 | From the Vault with Love | 36.00% | ~2,110 |
-| You Only Live Twice | 30.00% | ~1,758 |
+| You Only Live Twice | 30.00% | ~1,759 |
 | A view to Win | 29.00% | ~1,700 |
 | Private Collection | 26.00% | ~1,524 |
 | Smells Like Trouble | 26.00% | ~1,524 |
-| Assistant Accountant | 25.00% | ~1,465 |
-| In It to Win It | 25.00% | ~1,465 |
-| The Living Portrait | 25.00% | ~1,465 |
-| Killer Looks | 25.00% | ~1,465 |
-| Hostile Takeover | 25.00% | ~1,465 |
+| Assistant Accountant | 25.00% | ~1,466 |
+| In It to Win It | 25.00% | ~1,466 |
+| The Living Portrait | 25.00% | ~1,466 |
+| Killer Looks | 25.00% | ~1,466 |
+| Hostile Takeover | 25.00% | ~1,466 |
 | Keycards Royale | 24.00% | ~1,407 |
 | Dr. No Kill | 24.00% | ~1,407 |
 | My Motto, My Creed | 24.00% | ~1,407 |
@@ -42,7 +42,7 @@ Rating: 4.69 (Ranked 213)
 | Extraction Confusion | 0.30% | ~18 |
 | Spyfall | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,861 (Ranked 116)  
+Progressed: 5,862 (Ranked 116)  
 Completed: 0 (0.00%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 0 (0.00%) (Ranked 200)
 | 2023-05-16 | 5,747 | 0 |
 | 2023-05-17 | 5,800 | 0 |
 | 2023-05-18 | 5,852 | 0 |
-| 2023-05-19 | 5,861 | 0 |
+| 2023-05-19 | 5,862 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

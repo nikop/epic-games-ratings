@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 150,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2214,10 +2214,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 3027,
       "NumberOfAwardsMax": 417
+    },
+    {
+      "Time": "2023-05-19T11:59:18.640692+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 3028,
+      "NumberOfAwardsMax": 417
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3027,
+  "NumberOfAwards": 3028,
   "NumberOfAwardsMax": 417,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -2279,12 +2285,12 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 303
+      "Count": 304
     }
   ],
   "EOS_Progressed": 14888,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -4131,9 +4137,9 @@
       "ID": "WinWithTimedOrders",
       "SetID": "cfbk359",
       "Name": "Like a Machine",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 149
     },
     {
       "ID": "WinWithTradeRoutes",
@@ -4178,9 +4184,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-05-18T23:01:35.4623409+00:00",
-  "LastChanged_Achievements": "2023-05-19T11:07:38.7562152+00:00",
+  "LastChanged": "2023-05-19T11:59:18.6406919+00:00",
+  "LastChanged_Achievements": "2023-05-19T12:05:26.30946+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:59:54.8345415+00:00",
-  "LastUpdate_Ratings": "2023-05-19T11:00:51.6422817+00:00",
-  "LastUpdate_Achievements": "2023-05-19T11:07:38.7562676+00:00"
+  "LastUpdate_Ratings": "2023-05-19T11:59:18.6406923+00:00",
+  "LastUpdate_Achievements": "2023-05-19T12:05:26.309498+00:00"
 }

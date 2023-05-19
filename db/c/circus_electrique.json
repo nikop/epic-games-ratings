@@ -6,9 +6,9 @@
   "Ranking_Popularity": 492,
   "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 196,
-  "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_Completed": 133,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 393,
+  "EOS_Progressed": 394,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -93,6 +93,11 @@
     {
       "Time": "2023-05-19T00:07:12.4308114+00:00",
       "NumProgressed": 393,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-19T12:05:13.5504214+00:00",
+      "NumProgressed": 394,
       "NumCompleted": 1
     }
   ],
@@ -151,9 +156,9 @@
       "ID": "ACHIEVEMENT_07",
       "SetID": "631ndc2",
       "Name": "Circus Electrique Proudly Presents...",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -231,9 +236,9 @@
       "ID": "ACHIEVEMENT_17",
       "SetID": "631ndc2",
       "Name": "Dirty Dozen",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 63
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -353,7 +358,7 @@
       "Name": "King of District 3",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -425,7 +430,7 @@
       "Name": "Self Defense",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -504,7 +509,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 393,
+      "Progressed": 394,
       "Completed": 1
     }
   ],
@@ -512,8 +517,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-05-19T11:07:22.3890251+00:00",
+  "LastChanged_Achievements": "2023-05-19T12:05:13.5504208+00:00",
   "LastUpdate_AppInfo": "2023-05-12T17:58:51.8492596+00:00",
-  "LastUpdate_Ratings": "2023-05-19T10:59:32.1522533+00:00",
-  "LastUpdate_Achievements": "2023-05-19T11:07:22.38907+00:00"
+  "LastUpdate_Ratings": "2023-05-19T11:58:25.3051597+00:00",
+  "LastUpdate_Achievements": "2023-05-19T12:05:13.5504563+00:00"
 }

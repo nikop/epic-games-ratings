@@ -13,10 +13,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Marshlands | 1.00% | ~149 |
 | The Scarlet Orchard | 1.00% | ~149 |
 | Taking Action | 1.00% | ~149 |
+| Like a Machine | 1.00% | ~149 |
 | No Deaths | 1.00% | ~149 |
 | Bandit Camp | 0.90% | ~134 |
 | Lost Colonies | 0.90% | ~134 |
-| Like a Machine | 0.90% | ~134 |
 | Trade Baron | 0.90% | ~134 |
 | Homesick | 0.80% | ~119 |
 | Barren Lands | 0.80% | ~119 |
@@ -89,7 +89,7 @@ Completed: 30 (0.20%) (Ranked 140)
 | 2023-05-19 | 14,888 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 195)  
-Sum: 3,027 (Ranked 150)  
+Sum: 3,028 (Ranked 150)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
@@ -98,7 +98,7 @@ Diff (max vs sum): 45
 | This game is Extremely Fun | 391 |
 | This game is Great for Beginners | 373 |
 | This game is Highly Recommended | 370 |
-| This game has Unique Visuals | 303 |
+| This game has Unique Visuals | 304 |
 | This game has Amazing Storytelling | 298 |
 | This game has Amazing Characters | 269 |
 | This game has Obsessive Gameplay | 254 |
@@ -227,3 +227,4 @@ Diff (max vs sum): 45
 | 2023-05-16 | 4.81 | - | 417 | 3,025 |
 | 2023-05-17 | 4.81 | - | 417 | 3,026 |
 | 2023-05-18 | 4.81 | - | 417 | 3,027 |
+| 2023-05-19 | 4.81 | - | 417 | 3,028 |
