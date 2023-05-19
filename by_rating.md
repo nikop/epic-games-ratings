@@ -329,7 +329,7 @@
 | 326 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 20 | 486 |
 | 326 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 0 | 492 |
 | 326 | [Cat Cafe Manager](games/c/cat_cafe_manager.md) | 4.63 | 0 | 492 |
-| 326 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 2,107 | 102 |
+| 326 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 2,109 | 102 |
 | 326 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.63 | 60 | 379 |
 | 326 | [HYPERCHARGE: Unboxed](games/h/hypercharge__unboxed.md) | 4.63 | 0 | 492 |
 | 326 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 0 | 492 |
@@ -507,7 +507,7 @@
 | 503 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 504 | 184 |
 | 503 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 100 | 324 |
 | 503 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 4.52 | 147 | 286 |
-| 503 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,152 | 126 |
+| 503 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.52 | 1,154 | 125 |
 | 503 | [Nowhere Prophet](games/n/nowhere_prophet.md) | 4.52 | 0 | 492 |
 | 503 | [Railway Empire](games/r/railway_empire.md) | 4.52 | 276 | 229 |
 | 503 | [Rebel Cops](games/r/rebel_cops.md) | 4.52 | 0 | 492 |
@@ -648,12 +648,12 @@
 | 644 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 185 | 264 |
 | 644 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 11,941 | 28 |
 | 644 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.42 | 0 | 492 |
-| 644 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,113 | 127 |
+| 644 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,114 | 127 |
 | 644 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 48 |
 | 644 | [Sheltered](games/s/sheltered.md) | 4.42 | 264 | 237 |
 | 644 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 128 | 296 |
 | 644 | [Tunche](games/t/tunche.md) | 4.42 | 0 | 492 |
-| 644 | [World of Warships](games/w/world_of_warships.md) | 4.42 | 1,061 | 129 |
+| 644 | [World of Warships](games/w/world_of_warships.md) | 4.42 | 1,063 | 129 |
 | 655 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 0 | 492 |
 | 655 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 0 | 492 |
 | 655 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.41 | 0 | 492 |

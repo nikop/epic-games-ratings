@@ -25,14 +25,14 @@
 | 23 | [Scorn](games/s/scorn.md) | 7.02% |
 | 24 | [Ravenlok](games/r/ravenlok.md) | 6.59% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
-| 26 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.29% |
+| 26 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 6.21% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
 | 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.00% |
 | 28 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 5.00% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.98% |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 32 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.49% |
-| 33 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.14% |
+| 33 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.13% |
 | 34 | [Doodle God](games/d/doodle_god.md) | 3.92% |
 | 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.88% |
 | 36 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
@@ -66,8 +66,8 @@
 | 64 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.68% |
 | 65 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.67% |
 | 66 | [Night Book](games/n/night_book.md) | 1.66% |
-| 67 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 1.63% |
-| 68 | [Somerville](games/s/somerville.md) | 1.61% |
+| 67 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 1.61% |
+| 67 | [Somerville](games/s/somerville.md) | 1.61% |
 | 69 | [Frogun](games/f/frogun.md) | 1.55% |
 | 70 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.54% |
 | 71 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
@@ -105,8 +105,8 @@
 | 103 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.60% |
 | 104 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.52% |
 | 105 | [Grindstone](games/g/grindstone.md) | 0.51% |
-| 106 | [Ghostrunner](games/g/ghostrunner.md) | 0.49% |
-| 107 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
+| 106 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
+| 106 | [Ghostrunner](games/g/ghostrunner.md) | 0.48% |
 | 108 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.47% |
 | 109 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 110 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
@@ -119,8 +119,8 @@
 | 116 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
 | 118 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.35% |
 | 119 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.34% |
-| 119 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.34% |
 | 119 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.34% |
+| 121 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
 | 122 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.32% |
 | 122 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
 | 124 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.31% |

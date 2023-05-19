@@ -101,7 +101,7 @@
 | 99 | [Gotham Knights](games/g/gotham_knights.md) | 2,217 | 4.17 | 833 |
 | 100 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,163 | 4.41 | 655 |
 | 101 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,132 | 4.37 | 702 |
-| 102 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,107 | 4.63 | 326 |
+| 102 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,109 | 4.63 | 326 |
 | 103 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 1,975 | 4.49 | 555 |
 | 104 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 1,913 | 3.98 | 888 |
 | 105 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,873 | 4.65 | 292 |
@@ -124,11 +124,11 @@
 | 122 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 1,228 | 4.86 | 30 |
 | 123 | [Conan Exiles](games/c/conan_exiles.md) | 1,183 | 4.55 | 467 |
 | 124 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 1,174 | 4.69 | 213 |
+| 125 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,154 | 4.52 | 503 |
 | 125 | [XCOM® 2](games/x/xcom®_2.md) | 1,154 | 4.55 | 467 |
-| 126 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 1,152 | 4.52 | 503 |
-| 127 | [OUTRIDERS](games/o/outriders.md) | 1,113 | 4.42 | 644 |
+| 127 | [OUTRIDERS](games/o/outriders.md) | 1,114 | 4.42 | 644 |
 | 128 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 1,090 | 4.61 | 357 |
-| 129 | [World of Warships](games/w/world_of_warships.md) | 1,061 | 4.42 | 644 |
+| 129 | [World of Warships](games/w/world_of_warships.md) | 1,063 | 4.42 | 644 |
 | 130 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,060 | 4.61 | 357 |
 | 131 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,057 | 4.54 | 479 |
 | 132 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,039 | 4.66 | 275 |

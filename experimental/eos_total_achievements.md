@@ -401,6 +401,7 @@
 | [Road 96](../games/r/road_96.md) | 12 | 1,000 |
 | [Scorn](../games/s/scorn.md) | 12 | 1,000 |
 | [Shinogi Chess Club](../games/s/shinogi_chess_club.md) | 12 | 1,000 |
+| [The Creepy Syndrome](../games/f/f2ed44898a204bee866836b9b659bce4.md) | 12 | 1,000 |
 | [The Cullfield Ritual](../games/t/the_cullfield_ritual.md) | 12 | 1,000 |
 | [The Great War: Western Front™](../games/t/the_great_war__western_front™.md) | 12 | 1,000 |
 | [The Inheritance of Crimson Manor](../games/t/the_inheritance_of_crimson_manor.md) | 12 | 1,000 |
