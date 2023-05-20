@@ -1,34 +1,34 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.68 (Ranked 237)  
+Rating: 4.68 (Ranked 238)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,661 |
-| That's a Grand Army | 8.00% | ~3,254 |
-| That is mine! | 8.00% | ~3,254 |
-| Victorious! | 8.00% | ~3,254 |
-| Brothers in Arms | 6.00% | ~2,440 |
-| That's a Grand Navy | 6.00% | ~2,440 |
-| Seriously?! | 6.00% | ~2,440 |
-| For the Glory | 5.00% | ~2,034 |
-| Cold War | 4.00% | ~1,627 |
-| True Catholic | 4.00% | ~1,627 |
-| Defender of the Faith | 3.00% | ~1,220 |
-| It's all about the money | 3.00% | ~1,220 |
-| Respected | 3.00% | ~1,220 |
-| Truly Divine Ruler | 3.00% | ~1,220 |
-| Blockader | 2.00% | ~813 |
-| Combined Arms | 2.00% | ~813 |
-| Double the Love | 2.00% | ~813 |
-| Gentle Persuasion | 2.00% | ~813 |
-| It's all about luck | 2.00% | ~813 |
-| Queen of Conquest | 2.00% | ~813 |
-| Royal Authority | 2.00% | ~813 |
-| The Princess is in this Castle | 2.00% | ~813 |
-| Total Control | 2.00% | ~813 |
+| Until death do us apart | 9.00% | ~3,664 |
+| That's a Grand Army | 8.00% | ~3,257 |
+| That is mine! | 8.00% | ~3,257 |
+| Victorious! | 8.00% | ~3,257 |
+| Brothers in Arms | 6.00% | ~2,443 |
+| That's a Grand Navy | 6.00% | ~2,443 |
+| Seriously?! | 6.00% | ~2,443 |
+| For the Glory | 5.00% | ~2,036 |
+| Cold War | 4.00% | ~1,628 |
+| True Catholic | 4.00% | ~1,628 |
+| Defender of the Faith | 3.00% | ~1,221 |
+| It's all about the money | 3.00% | ~1,221 |
+| Respected | 3.00% | ~1,221 |
+| Truly Divine Ruler | 3.00% | ~1,221 |
+| Blockader | 2.00% | ~814 |
+| Combined Arms | 2.00% | ~814 |
+| Double the Love | 2.00% | ~814 |
+| Gentle Persuasion | 2.00% | ~814 |
+| It's all about luck | 2.00% | ~814 |
+| Queen of Conquest | 2.00% | ~814 |
+| Royal Authority | 2.00% | ~814 |
+| The Princess is in this Castle | 2.00% | ~814 |
+| Total Control | 2.00% | ~814 |
 | Agressive Expander | 1.00% | ~407 |
 | All That's Thine Shall Be Mine | 1.00% | ~407 |
 | Azur semé de lis or | 1.00% | ~407 |
@@ -38,19 +38,19 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~407 |
 | My armies are invincible! | 1.00% | ~407 |
 | The Five Colonies | 0.90% | ~366 |
-| The Emperors new clothes | 0.80% | ~325 |
-| Isn't this the way to India? | 0.80% | ~325 |
-| Market Control | 0.80% | ~325 |
-| This navy can take it all | 0.80% | ~325 |
+| The Emperors new clothes | 0.80% | ~326 |
+| Isn't this the way to India? | 0.80% | ~326 |
+| Market Control | 0.80% | ~326 |
+| This navy can take it all | 0.80% | ~326 |
 | Down Under | 0.70% | ~285 |
 | Electable! | 0.60% | ~244 |
 | Time Bandit | 0.60% | ~244 |
 | Trustworthy | 0.60% | ~244 |
-| All belongs to Mother Russia | 0.50% | ~203 |
-| At every continent | 0.50% | ~203 |
-| Early-Modern Warfare | 0.50% | ~203 |
-| One Family to Rule them All | 0.50% | ~203 |
-| The pen is mightier than the sword | 0.50% | ~203 |
+| All belongs to Mother Russia | 0.50% | ~204 |
+| At every continent | 0.50% | ~204 |
+| Early-Modern Warfare | 0.50% | ~204 |
+| One Family to Rule them All | 0.50% | ~204 |
+| The pen is mightier than the sword | 0.50% | ~204 |
 | Absolutely | 0.40% | ~163 |
 | Dude, Where's my Boat? | 0.40% | ~163 |
 | In the Name of the Father | 0.40% | ~163 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,674 (Ranked 80)  
+Progressed: 40,710 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -391,10 +391,10 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-17 | 38,614 | 0 |
 | 2023-05-18 | 39,222 | 0 |
 | 2023-05-19 | 39,979 | 0 |
-| 2023-05-20 | 40,674 | 0 |
+| 2023-05-20 | 40,710 | 0 |
 ## Awards
 Max (Educational): 5,255  (Ranked 60)  
-Sum: 43,535 (Ranked 27)  
+Sum: 43,540 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -405,7 +405,7 @@ Diff (max vs sum): 33
 | This game has Diverse Characters | 4,957 |
 | This game is Relaxing | 4,894 |
 | This game has Competitive Players | 4,728 |
-| This game has Amazing Storytelling | 4,487 |
+| This game has Amazing Storytelling | 4,492 |
 | This game has Amazing Characters | 4,149 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -534,4 +534,4 @@ Diff (max vs sum): 33
 | 2023-05-17 | 4.68 | - | 5,228 | 43,298 |
 | 2023-05-18 | 4.68 | - | 5,232 | 43,381 |
 | 2023-05-19 | 4.68 | - | 5,242 | 43,472 |
-| 2023-05-20 | 4.68 | - | 5,255 | 43,535 |
+| 2023-05-20 | 4.68 | - | 5,255 | 43,540 |

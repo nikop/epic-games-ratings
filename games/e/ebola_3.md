@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chest ✔ | 55.00% | ~96 |
-| Fright ✔ | 55.00% | ~96 |
-| Inventory ✔ | 51.00% | ~89 |
-| Police officers ✔ | 27.00% | ~47 |
+| Chest ✔ | 55.00% | ~97 |
+| Fright ✔ | 55.00% | ~97 |
+| Inventory ✔ | 51.00% | ~90 |
+| Police officers ✔ | 27.00% | ~48 |
 | Mutation ✔ | 26.00% | ~46 |
 | Doberman ✔ | 13.00% | ~23 |
 | Master of Unlocking ✔ | 9.00% | ~16 |
@@ -16,23 +16,23 @@
 | Survival ✔ | 8.00% | ~14 |
 | Hospital ✔ | 7.00% | ~12 |
 | Thirst ✔ | 7.00% | ~12 |
-| Alice ✔ | 6.00% | ~10 |
-| Antivirus ✔ | 6.00% | ~10 |
-| Betty ✔ | 6.00% | ~10 |
-| Brain ✔ | 6.00% | ~10 |
-| Cheats ✔ | 6.00% | ~10 |
-| City ✔ | 6.00% | ~10 |
-| Food ✔ | 6.00% | ~10 |
-| Fraternal help ✔ | 6.00% | ~10 |
-| King of survival ✔ | 6.00% | ~10 |
-| All secrets revealed ✔ | 6.00% | ~10 |
+| Alice ✔ | 6.00% | ~11 |
+| Antivirus ✔ | 6.00% | ~11 |
+| Betty ✔ | 6.00% | ~11 |
+| Brain ✔ | 6.00% | ~11 |
+| Cheats ✔ | 6.00% | ~11 |
+| City ✔ | 6.00% | ~11 |
+| Food ✔ | 6.00% | ~11 |
+| Fraternal help ✔ | 6.00% | ~11 |
+| King of survival ✔ | 6.00% | ~11 |
+| All secrets revealed ✔ | 6.00% | ~11 |
 | Boss 1 ✔ | 5.00% | ~9 |
 | Eva ✔ | 5.00% | ~9 |
 | Mutant fight ✔ | 5.00% | ~9 |
 | City on fire ✔ | 5.00% | ~9 |
 | Infected ✔ | 5.00% | ~9 |
+| Broadcasting ✔ | 5.00% | ~9 |
 | Mutant run ✔ | 4.00% | ~7 |
-| Broadcasting ✔ | 4.00% | ~7 |
 | Crocodile Attack ✔ | 3.00% | ~5 |
 | Secret ✔ | 3.00% | ~5 |
 | Boss 2 ✔ | 3.00% | ~5 |
@@ -55,7 +55,7 @@
 | Seeker Two ✔ | 0.60% | ~1 |
 | Rank A+ ✔ | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 175 (Ranked 233)  
+Progressed: 176 (Ranked 233)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-15 | 167 | 0 |
 | 2023-05-17 | 168 | 0 |
 | 2023-05-18 | 170 | 0 |
-| 2023-05-20 | 175 | 0 |
+| 2023-05-20 | 176 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

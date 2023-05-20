@@ -2,12 +2,12 @@
   "ID": "aster",
   "Name": "Heavy Rain",
   "ProductSlug": "heavy-rain",
-  "Ranking_Rating": 384,
+  "Ranking_Rating": 401,
   "Ranking_Popularity": 381,
   "Ranking_PopularitySum": 430,
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2019-06-24T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.59,
   "NumberOfRatings": 251,
   "RatingHistory": [
     {
@@ -417,6 +417,12 @@
       "Rating": 4.6,
       "NumberOfAwards": 57,
       "NumberOfAwardsMax": 57
+    },
+    {
+      "Time": "2023-05-20T21:59:27.6269901+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 57,
+      "NumberOfAwardsMax": 57
     }
   ],
   "ReviewsDisabled": false,
@@ -442,8 +448,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:18.3925162+00:00",
-  "LastChanged": "2023-05-07T22:01:18.4143096+00:00",
+  "LastChanged": "2023-05-20T21:59:27.6269899+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:57.1419834+00:00",
-  "LastUpdate_Ratings": "2023-05-20T20:59:30.2298041+00:00",
-  "LastUpdate_Achievements": "2023-05-20T21:03:37.0793564+00:00"
+  "LastUpdate_Ratings": "2023-05-20T21:59:27.6269905+00:00",
+  "LastUpdate_Achievements": "2023-05-20T22:03:50.1648416+00:00"
 }

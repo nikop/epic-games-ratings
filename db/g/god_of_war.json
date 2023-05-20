@@ -2,12 +2,12 @@
   "ID": "3ddd6a590da64e3686042d108968a6b2",
   "Name": "God of War",
   "ProductSlug": "god-of-war",
-  "Ranking_Rating": 13,
+  "Ranking_Rating": 19,
   "Ranking_Popularity": 73,
   "Ranking_PopularitySum": 96,
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-01-14T16:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.89,
+  "Rating": 4.88,
   "NumberOfRatings": 4943,
   "RatingHistory": [
     {
@@ -2304,10 +2304,16 @@
       "Rating": 4.89,
       "NumberOfAwards": 7743,
       "NumberOfAwardsMax": 3993
+    },
+    {
+      "Time": "2023-05-20T21:59:42.6848183+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 7744,
+      "NumberOfAwardsMax": 3993
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7743,
+  "NumberOfAwards": 7744,
   "NumberOfAwardsMax": 3993,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2381,7 +2387,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 148
+      "Count": 149
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2413,8 +2419,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:02.7260883+00:00",
-  "LastChanged": "2023-05-20T11:00:03.5646119+00:00",
+  "LastChanged": "2023-05-20T21:59:42.6848181+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:04:59.0371996+00:00",
-  "LastUpdate_Ratings": "2023-05-20T20:59:45.6317485+00:00",
-  "LastUpdate_Achievements": "2023-05-20T21:03:25.1820908+00:00"
+  "LastUpdate_Ratings": "2023-05-20T21:59:42.6848187+00:00",
+  "LastUpdate_Achievements": "2023-05-20T22:03:37.9970882+00:00"
 }

@@ -17,47 +17,47 @@ Number of Ratings: 22  (23.09.2022)
 | Dirty Dozen | 17.00% | ~68 |
 | Fan Service | 16.00% | ~64 |
 | Lion Tamer | 15.00% | ~60 |
-| King of District 1 | 14.00% | ~56 |
 | Amazing! | 14.00% | ~56 |
 | One More Thing... | 13.00% | ~52 |
 | Lucky Day | 13.00% | ~52 |
 | Bar Brawler | 13.00% | ~52 |
-| Flawless Presentation | 13.00% | ~52 |
-| King of District 2 | 12.00% | ~48 |
+| King of District 1 | 13.00% | ~52 |
+| Flawless Presentation | 12.00% | ~48 |
+| King of District 2 | 11.00% | ~44 |
 | Time Travel! | 10.00% | ~40 |
 | Marketing Manager | 10.00% | ~40 |
-| Circus Versus Circus | 9.00% | ~36 |
+| Circus Versus Circus | 8.00% | ~32 |
 | King of District 3 | 8.00% | ~32 |
 | Club Member | 7.00% | ~28 |
-| Hundred Percent Second | 7.00% | ~28 |
 | Spirits High | 7.00% | ~28 |
+| Hundred Percent Second | 6.00% | ~24 |
 | King of District 4 | 6.00% | ~24 |
-| Mobile Infantry | 6.00% | ~24 |
 | Around the Clock | 5.00% | ~20 |
 | Club Champion | 5.00% | ~20 |
-| Circus Maximus | 4.00% | ~16 |
+| Mobile Infantry | 5.00% | ~20 |
 | King of District 5 | 4.00% | ~16 |
-| Accomplished Veteran | 3.00% | ~12 |
 | Hundred Percent Third | 3.00% | ~12 |
 | Hundred Percent Fourth | 3.00% | ~12 |
+| Circus Maximus | 3.00% | ~12 |
 | City Savior | 3.00% | ~12 |
+| Accomplished Veteran | 2.00% | ~8 |
 | Unmatched Skills | 2.00% | ~8 |
-| Hundred Percent Fifth | 2.00% | ~8 |
 | Victorian Victor | 2.00% | ~8 |
 | King of District 6 | 2.00% | ~8 |
 | Grand Slam | 2.00% | ~8 |
 | The Greatest Show | 2.00% | ~8 |
 | Perfect Chemistry | 2.00% | ~8 |
 | Last Man Standing | 2.00% | ~8 |
+| Hundred Percent Fifth | 1.00% | ~4 |
 | Hundred Percent Sixth | 1.00% | ~4 |
 | London Liberator | 1.00% | ~4 |
 | Vicious Busters | 1.00% | ~4 |
-| Devastating Blow | 0.80% | ~3 |
+| Devastating Blow | 0.70% | ~3 |
 | Clown Care | 0.50% | ~2 |
 | Guest Stars | 0.50% | ~2 |
-| Versatile Tactics | 0.30% | ~1 |
+| Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 400 (Ranked 196)  
+Progressed: 401 (Ranked 196)  
 Completed: 1 (0.25%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,7 +65,7 @@ Completed: 1 (0.25%) (Ranked 133)
 | 2023-04-25 | 390 | 1 |
 | 2023-05-09 | 391 | 1 |
 | 2023-05-19 | 396 | 1 |
-| 2023-05-20 | 400 | 1 |
+| 2023-05-20 | 401 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

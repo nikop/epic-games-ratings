@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 175,
+  "EOS_Progressed": 176,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -703,6 +703,11 @@
       "Time": "2023-05-20T15:06:57.8587449+00:00",
       "NumProgressed": 175,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T22:06:21.8051545+00:00",
+      "NumProgressed": 176,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -722,7 +727,7 @@
       "Name": "Alice \u2714",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achAntivirus",
@@ -730,7 +735,7 @@
       "Name": "Antivirus \u2714",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achBag",
@@ -738,7 +743,7 @@
       "Name": "Inventory \u2714",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "achBett",
@@ -746,7 +751,7 @@
       "Name": "Betty \u2714",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achBrain",
@@ -754,7 +759,7 @@
       "Name": "Brain \u2714",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achCar",
@@ -770,7 +775,7 @@
       "Name": "Cheats \u2714",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achChest",
@@ -778,7 +783,7 @@
       "Name": "Chest \u2714",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "achCity",
@@ -786,7 +791,7 @@
       "Name": "City \u2714",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achCoinOne",
@@ -882,7 +887,7 @@
       "Name": "Food \u2714",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achGameHard",
@@ -914,7 +919,7 @@
       "Name": "Fright \u2714",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "achLizun",
@@ -938,7 +943,7 @@
       "Name": "Fraternal help \u2714",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achOsipovOne",
@@ -986,7 +991,7 @@
       "Name": "Police officers \u2714",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "achPriest",
@@ -1026,7 +1031,7 @@
       "Name": "King of survival \u2714",
       "Percentage": 6,
       "XP": 70,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achSecretos",
@@ -1034,7 +1039,7 @@
       "Name": "All secrets revealed \u2714",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achSeif",
@@ -1080,9 +1085,9 @@
       "ID": "achVitali",
       "SetID": "72gjli4",
       "Name": "Broadcasting \u2714",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "achWater",
@@ -1113,7 +1118,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 175,
+      "Progressed": 176,
       "Completed": 0
     }
   ],
@@ -1121,8 +1126,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-20T21:06:45.3266941+00:00",
+  "LastChanged_Achievements": "2023-05-20T22:06:21.8051539+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:11.586606+00:00",
-  "LastUpdate_Ratings": "2023-05-20T21:00:19.364672+00:00",
-  "LastUpdate_Achievements": "2023-05-20T21:06:45.3267424+00:00"
+  "LastUpdate_Ratings": "2023-05-20T22:00:19.2294353+00:00",
+  "LastUpdate_Achievements": "2023-05-20T22:06:21.8052181+00:00"
 }

@@ -10,13 +10,13 @@ Rating: 4.18 (Ranked 830)
 | Chew 'Em Up | 3.00% | ~391 |
 | Instigator | 2.00% | ~19 |
 | Big Game Hunter | 2.00% | ~19 |
-| Bear Trap | 1.00% | ~10 |
+| Bear Trap | 2.00% | ~19 |
 | Big Spender | 1.00% | ~10 |
 | Float Like A Butterfly | 0.90% | ~117 |
 | The Commonality | 0.80% | ~104 |
 | Mugshot | 0.70% | ~91 |
+| Parole Denied | 0.60% | ~6 |
 | Hoard Mode | 0.60% | ~6 |
-| Parole Denied | 0.50% | ~5 |
 | Recidivist | 0.40% | ~4 |
 | Lifer | 0.40% | ~4 |
 | Get a Grip | 0.40% | ~52 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 830)
 | I am the Danger | 0.00% | ~0 |
 | Subject Alpha | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,038 (Ranked 101)  
+Progressed: 13,048 (Ranked 101)  
 Completed: 51 (0.39%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 51 (0.39%) (Ranked 113)
 | 2023-05-17 | 12,567 | 49 |
 | 2023-05-18 | 12,620 | 51 |
 | 2023-05-19 | 12,841 | 51 |
-| 2023-05-20 | 13,038 | 51 |
+| 2023-05-20 | 13,048 | 51 |
 ## Awards
 Max (Amazing Storytelling): 46  (Ranked 397)  
 Sum: 246 (Ranked 341)  

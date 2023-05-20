@@ -4,7 +4,7 @@
   "ProductSlug": "commandos-3-ba41db",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-08-30T08:00:00+00:00",
@@ -48,8 +48,8 @@
   "FirstSeenRating": "2023-03-31T05:58:33.6737466+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:22.5200559+00:00",
   "LastChanged": "2023-03-31T05:58:33.6737467+00:00",
-  "LastChanged_Achievements": "2023-05-20T21:06:23.1587025+00:00",
+  "LastChanged_Achievements": "2023-05-20T22:05:59.1813716+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:04:57.6656349+00:00",
-  "LastUpdate_Ratings": "2023-05-20T20:59:45.1199204+00:00",
-  "LastUpdate_Achievements": "2023-05-20T21:06:23.1587065+00:00"
+  "LastUpdate_Ratings": "2023-05-20T21:59:42.1197207+00:00",
+  "LastUpdate_Achievements": "2023-05-20T22:05:59.1813754+00:00"
 }

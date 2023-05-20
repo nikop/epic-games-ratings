@@ -2,12 +2,12 @@
   "ID": "e1809e1742cb498080d8849b11a99c5a",
   "Name": "Airborne Kingdom",
   "ProductSlug": "airborne-kingdom",
-  "Ranking_Rating": 293,
+  "Ranking_Rating": 294,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6391,
+  "EOS_Progressed": 6392,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -993,6 +993,11 @@
       "Time": "2023-05-20T21:06:17.0174307+00:00",
       "NumProgressed": 6391,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-20T22:05:52.8849299+00:00",
+      "NumProgressed": 6392,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 27,
@@ -1020,7 +1025,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2620
+      "UsersEstimate": 2621
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -1036,7 +1041,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3387
+      "UsersEstimate": 3388
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -1100,7 +1105,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1789
+      "UsersEstimate": 1790
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -1140,7 +1145,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2620
+      "UsersEstimate": 2621
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -1148,7 +1153,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2620
+      "UsersEstimate": 2621
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -1156,7 +1161,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3579
+      "UsersEstimate": 3580
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -1204,7 +1209,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2556
+      "UsersEstimate": 2557
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -1219,15 +1224,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6391,
+      "Progressed": 6392,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-05-20T21:06:17.0174302+00:00",
+  "LastChanged_Achievements": "2023-05-20T22:05:52.8849293+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:58.1571519+00:00",
-  "LastUpdate_Ratings": "2023-05-20T20:57:27.2900809+00:00",
-  "LastUpdate_Achievements": "2023-05-20T21:06:17.0174547+00:00"
+  "LastUpdate_Ratings": "2023-05-20T21:57:20.3319236+00:00",
+  "LastUpdate_Achievements": "2023-05-20T22:05:52.8849576+00:00"
 }

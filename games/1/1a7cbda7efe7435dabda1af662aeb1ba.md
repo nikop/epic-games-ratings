@@ -8,6 +8,7 @@
 | Crystal Hunter | 14.00% | ~1 |
 | Overcoming Weakness | 14.00% | ~1 |
 | Fence-Sitter | 14.00% | ~1 |
+| Equivalent Exchange | 14.00% | ~1 |
 | Danger | 14.00% | ~1 |
 | My Turn | 0.00% | ~0 |
 | Column Crusher | 0.00% | ~0 |
@@ -16,7 +17,6 @@
 | Bye-Bye, Butcher | 0.00% | ~0 |
 | Rejected Parasite | 0.00% | ~0 |
 | Green Thumb | 0.00% | ~0 |
-| Equivalent Exchange | 0.00% | ~0 |
 | Rebellious Servant | 0.00% | ~0 |
 | Setting Off | 0.00% | ~0 |
 | A Twist of Fate | 0.00% | ~0 |

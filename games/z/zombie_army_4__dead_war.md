@@ -1,79 +1,79 @@
 # Zombie Army 4: Dead War
 [Store](https://store.epicgames.com/en-US/p/zombie-army-4-dead-war)  
 [View Rawdata](../../db/z/zombie_army_4__dead_war.json)  
-Rating: 4.69 (Ranked 214)  
+Rating: 4.69 (Ranked 215)  
 Number of Ratings: 743  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 68.00% | ~28,796 |
-| Say goodbye, creep! | 65.00% | ~27,526 |
-| Blood splattered | 65.00% | ~27,526 |
-| Choo choo! | 62.00% | ~26,255 |
-| Groovy | 61.00% | ~25,832 |
-| Cleanup on aisle 4! | 56.00% | ~23,714 |
-| Gold | 50.00% | ~21,174 |
-| The boat can leave now...tell the crew | 48.00% | ~20,327 |
-| Give me something to shoot! | 46.00% | ~19,480 |
-| Stand back boy! | 46.00% | ~19,480 |
-| Weird science | 44.00% | ~18,633 |
-| Chain reaction | 44.00% | ~18,633 |
-| Look mummy! A shark! | 41.00% | ~17,362 |
-| What did you say, Blain? | 41.00% | ~17,362 |
-| In the dark dark woods... | 38.00% | ~16,092 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,092 |
-| Double tap | 36.00% | ~15,245 |
-| Cranial blowout! | 36.00% | ~15,245 |
-| Zombie killin' machine | 36.00% | ~15,245 |
-| Every bullet counts | 36.00% | ~15,245 |
-| All of this has happened before… | 35.00% | ~14,821 |
-| You've got red on you | 34.00% | ~14,398 |
-| All roads lead to Rome | 33.00% | ~13,975 |
-| You're all going to die down here | 31.00% | ~13,128 |
-| He did Nazi that coming | 31.00% | ~13,128 |
-| Kill of the week | 31.00% | ~13,128 |
-| I never liked them anyway | 30.00% | ~12,704 |
-| Is it over? | 28.00% | ~11,857 |
-| Got your back | 27.00% | ~11,434 |
-| Gore soaked | 24.00% | ~10,163 |
-| Shock therapy | 22.00% | ~9,316 |
-| Leave the limbs you've lost | 22.00% | ~9,316 |
-| Everyone's a mad scientist, life is the lab | 18.00% | ~7,622 |
-| Take them down screaming | 18.00% | ~7,622 |
-| Weapons expert | 17.00% | ~7,199 |
+| Shoot it, man! Shoot it in the head! | 68.00% | ~28,799 |
+| Say goodbye, creep! | 65.00% | ~27,528 |
+| Blood splattered | 65.00% | ~27,528 |
+| Choo choo! | 62.00% | ~26,258 |
+| Groovy | 61.00% | ~25,834 |
+| Cleanup on aisle 4! | 56.00% | ~23,717 |
+| Gold | 50.00% | ~21,176 |
+| The boat can leave now...tell the crew | 48.00% | ~20,328 |
+| Give me something to shoot! | 46.00% | ~19,481 |
+| Stand back boy! | 46.00% | ~19,481 |
+| Weird science | 44.00% | ~18,634 |
+| Chain reaction | 44.00% | ~18,634 |
+| Look mummy! A shark! | 41.00% | ~17,364 |
+| What did you say, Blain? | 41.00% | ~17,364 |
+| In the dark dark woods... | 38.00% | ~16,093 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,093 |
+| Double tap | 36.00% | ~15,246 |
+| Cranial blowout! | 36.00% | ~15,246 |
+| Zombie killin' machine | 36.00% | ~15,246 |
+| Every bullet counts | 36.00% | ~15,246 |
+| All of this has happened before… | 35.00% | ~14,823 |
+| You've got red on you | 34.00% | ~14,399 |
+| All roads lead to Rome | 33.00% | ~13,976 |
+| You're all going to die down here | 31.00% | ~13,129 |
+| He did Nazi that coming | 31.00% | ~13,129 |
+| Kill of the week | 31.00% | ~13,129 |
+| I never liked them anyway | 30.00% | ~12,705 |
+| Is it over? | 28.00% | ~11,858 |
+| Got your back | 27.00% | ~11,435 |
+| Gore soaked | 24.00% | ~10,164 |
+| Shock therapy | 22.00% | ~9,317 |
+| Leave the limbs you've lost | 22.00% | ~9,317 |
+| Everyone's a mad scientist, life is the lab | 18.00% | ~7,623 |
+| Take them down screaming | 18.00% | ~7,623 |
+| Weapons expert | 17.00% | ~7,200 |
 | Bad Blood | 16.00% | ~6,776 |
-| The bigger they are... | 15.00% | ~6,352 |
+| The bigger they are... | 15.00% | ~6,353 |
 | I'm going deeper underground | 14.00% | ~5,929 |
 | Well equipped | 12.00% | ~5,082 |
 | Into the deep | 12.00% | ~5,082 |
-| Damnedbusters | 9.00% | ~3,811 |
+| Damnedbusters | 9.00% | ~3,812 |
 | I can do anything I want. I got guns | 8.00% | ~3,388 |
 | Send me an angel | 8.00% | ~3,388 |
-| Plane sailing | 7.00% | ~2,964 |
-| This is no Sunday School picnic! | 7.00% | ~2,964 |
-| I never redoubted you! | 7.00% | ~2,964 |
-| Gotcha, didn't I? | 7.00% | ~2,964 |
-| A gross gross | 7.00% | ~2,964 |
-| Hail to the king, baby! | 7.00% | ~2,964 |
+| Plane sailing | 7.00% | ~2,965 |
+| This is no Sunday School picnic! | 7.00% | ~2,965 |
+| I never redoubted you! | 7.00% | ~2,965 |
+| Gotcha, didn't I? | 7.00% | ~2,965 |
+| A gross gross | 7.00% | ~2,965 |
+| Hail to the king, baby! | 7.00% | ~2,965 |
 | Something wicked this way comes | 6.00% | ~2,541 |
 | Not today you won't | 6.00% | ~2,541 |
 | Take a little bit of Italy with you | 6.00% | ~2,541 |
 | Staring at Shadows | 6.00% | ~2,541 |
 | Hoarder | 6.00% | ~2,541 |
-| Kali Ma | 5.00% | ~2,117 |
-| I told you we should have gone to the beach | 5.00% | ~2,117 |
-| Have you tried turning it off and on again? | 5.00% | ~2,117 |
+| Kali Ma | 5.00% | ~2,118 |
+| I told you we should have gone to the beach | 5.00% | ~2,118 |
+| Have you tried turning it off and on again? | 5.00% | ~2,118 |
 | They're coming to get you Barbara | 4.00% | ~1,694 |
 | Total protonic reversal | 4.00% | ~1,694 |
 | A friend in need | 4.00% | ~1,694 |
-| People don't change. We go round in circles | 3.00% | ~1,270 |
-| The blighters got through a second time. | 3.00% | ~1,270 |
-| I'm a survivor! | 3.00% | ~1,270 |
+| People don't change. We go round in circles | 3.00% | ~1,271 |
+| The blighters got through a second time. | 3.00% | ~1,271 |
+| I'm a survivor! | 3.00% | ~1,271 |
 | That's a lot of them, and only 4 of us | 2.00% | ~847 |
-| Just me and my trusty sidearm | 1.00% | ~423 |
+| Just me and my trusty sidearm | 1.00% | ~424 |
 | None more hard | 0.50% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,347 (Ranked 79)  
+Progressed: 42,351 (Ranked 79)  
 Completed: 24 (0.06%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 24 (0.06%) (Ranked 170)
 | 2023-05-17 | 42,284 | 24 |
 | 2023-05-18 | 42,292 | 24 |
 | 2023-05-19 | 42,312 | 24 |
-| 2023-05-20 | 42,347 | 24 |
+| 2023-05-20 | 42,351 | 24 |
 ## Awards
 Max (Great Boss Battles): 774  (Ranked 147)  
 Sum: 2,369 (Ranked 169)  

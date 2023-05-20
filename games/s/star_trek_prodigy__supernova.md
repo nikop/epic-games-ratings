@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Restoring the Protostar | 75.00% | ~6 |
-| Three Watchers, Two Phasers | 50.00% | ~4 |
-| One for the Crew | 38.00% | ~3 |
-| The Clock is Ticking | 38.00% | ~3 |
-| Guess who's back | 38.00% | ~3 |
-| A Helping Hand | 38.00% | ~3 |
-| I've Got You | 25.00% | ~2 |
-| Priceless Collection | 13.00% | ~1 |
-| One Man Army | 13.00% | ~1 |
-| Up your Arsenal | 13.00% | ~1 |
-| Quest for Loot | 13.00% | ~1 |
-| Proto Menagerie | 13.00% | ~1 |
-| Punny Lover | 13.00% | ~1 |
-| Back online | 13.00% | ~1 |
-| Rok and Roll | 13.00% | ~1 |
-| First Contact? | 13.00% | ~1 |
-| Naroan History | 13.00% | ~1 |
-| Playing with Time | 13.00% | ~1 |
-| Coming in from the Cold | 13.00% | ~1 |
-| Seeking Discovery | 13.00% | ~1 |
-| Trekkie | 13.00% | ~1 |
-| Not Too Long | 13.00% | ~1 |
-| Welcome back | 13.00% | ~1 |
-| Getting Better | 13.00% | ~1 |
+| Restoring the Protostar | 67.00% | ~6 |
+| Three Watchers, Two Phasers | 44.00% | ~4 |
+| One for the Crew | 33.00% | ~3 |
+| The Clock is Ticking | 33.00% | ~3 |
+| Guess who's back | 33.00% | ~3 |
+| A Helping Hand | 33.00% | ~3 |
+| I've Got You | 22.00% | ~2 |
+| Priceless Collection | 11.00% | ~1 |
+| One Man Army | 11.00% | ~1 |
+| Up your Arsenal | 11.00% | ~1 |
+| Quest for Loot | 11.00% | ~1 |
+| Proto Menagerie | 11.00% | ~1 |
+| Punny Lover | 11.00% | ~1 |
+| Back online | 11.00% | ~1 |
+| Rok and Roll | 11.00% | ~1 |
+| First Contact? | 11.00% | ~1 |
+| Naroan History | 11.00% | ~1 |
+| Playing with Time | 11.00% | ~1 |
+| Coming in from the Cold | 11.00% | ~1 |
+| Seeking Discovery | 11.00% | ~1 |
+| Trekkie | 11.00% | ~1 |
+| Not Too Long | 11.00% | ~1 |
+| Welcome back | 11.00% | ~1 |
+| Getting Better | 11.00% | ~1 |
 | Badge of a Captain | 0.00% | ~0 |
 | A True Merit Badge | 0.00% | ~0 |
 | Wilderness Badge | 0.00% | ~0 |
@@ -46,7 +46,7 @@
 | Maxed out | 0.00% | ~0 |
 | Teamwork makes the dream work | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8 (Ranked 335)  
+Progressed: 9 (Ranked 331)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -54,6 +54,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-04-25 | 6 | 0 |
 | 2023-04-26 | 7 | 0 |
 | 2023-05-19 | 8 | 0 |
+| 2023-05-20 | 9 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

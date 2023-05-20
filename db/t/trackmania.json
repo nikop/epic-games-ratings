@@ -2,12 +2,12 @@
   "ID": "b04882669b2e495e9f747c8560488c93",
   "Name": "Trackmania",
   "ProductSlug": "trackmania",
-  "Ranking_Rating": 257,
+  "Ranking_Rating": 258,
   "Ranking_Popularity": 90,
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2020-07-01T15:00:00+00:00",
@@ -5199,10 +5199,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 22544,
       "NumberOfAwardsMax": 2635
+    },
+    {
+      "Time": "2023-05-20T21:58:12.2177166+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 22553,
+      "NumberOfAwardsMax": 2635
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 22544,
+  "NumberOfAwards": 22553,
   "NumberOfAwardsMax": 2635,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -5210,7 +5216,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 2585
+      "Count": 2594
     },
     {
       "Text": "This game has Competitive Players",
@@ -5290,8 +5296,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-05-20T20:58:17.8639545+00:00",
+  "LastChanged": "2023-05-20T21:58:12.2177164+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:48.5530354+00:00",
-  "LastUpdate_Ratings": "2023-05-20T20:58:17.8639554+00:00",
-  "LastUpdate_Achievements": "2023-05-20T21:02:20.8397077+00:00"
+  "LastUpdate_Ratings": "2023-05-20T21:58:12.2177171+00:00",
+  "LastUpdate_Achievements": "2023-05-20T22:02:33.4393568+00:00"
 }

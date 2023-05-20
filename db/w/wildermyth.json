@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1191,
+  "EOS_Progressed": 1192,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -515,6 +515,11 @@
       "Time": "2023-05-20T19:06:10.1069039+00:00",
       "NumProgressed": 1191,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-20T22:05:50.8848761+00:00",
+      "NumProgressed": 1192,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -542,7 +547,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -702,7 +707,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "achievement_mythwalker",
@@ -758,7 +763,7 @@
       "Name": "Everfading",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "completedStory_enduringWar",
@@ -774,7 +779,7 @@
       "Name": "Another Tale to Tell",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "completedStory_monarchs",
@@ -790,7 +795,7 @@
       "Name": "A Story of Heroes",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "completedStory_ulstryx",
@@ -973,15 +978,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1191,
+      "Progressed": 1192,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-20T21:06:15.0464455+00:00",
+  "LastChanged_Achievements": "2023-05-20T22:05:50.8848755+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:59.9959604+00:00",
-  "LastUpdate_Ratings": "2023-05-20T21:00:40.3001675+00:00",
-  "LastUpdate_Achievements": "2023-05-20T21:06:15.0464969+00:00"
+  "LastUpdate_Ratings": "2023-05-20T22:00:40.1121074+00:00",
+  "LastUpdate_Achievements": "2023-05-20T22:05:50.8849524+00:00"
 }

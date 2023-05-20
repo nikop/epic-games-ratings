@@ -280,7 +280,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 334,
+  "EOS_Progressed": 335,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
@@ -565,6 +565,11 @@
       "Time": "2023-05-20T00:05:29.5728097+00:00",
       "NumProgressed": 334,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-20T22:06:12.3643298+00:00",
+      "NumProgressed": 335,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 19,
@@ -576,7 +581,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "cool-shirts",
@@ -600,7 +605,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "female-conqueror",
@@ -616,7 +621,7 @@
       "Name": "That was base",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "hire-lieutenant",
@@ -638,9 +643,9 @@
       "ID": "pack-and-sell",
       "SetID": "bed33dd",
       "Name": "Hokey-Pokey",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 245
     },
     {
       "ID": "play-at-night",
@@ -696,7 +701,7 @@
       "Name": "Camellos",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "unlock-residences",
@@ -727,15 +732,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 334,
+      "Progressed": 335,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-05-20T21:06:36.0692222+00:00",
+  "LastChanged_Achievements": "2023-05-20T22:06:12.3643287+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:45.257987+00:00",
-  "LastUpdate_Ratings": "2023-05-20T21:00:10.7908019+00:00",
-  "LastUpdate_Achievements": "2023-05-20T21:06:36.0692368+00:00"
+  "LastUpdate_Ratings": "2023-05-20T22:00:10.1624606+00:00",
+  "LastUpdate_Achievements": "2023-05-20T22:06:12.3643535+00:00"
 }

@@ -6,19 +6,19 @@
 | ---- | ---------- | ----- |
 | Play It Again Sam | 92.00% | ~148 |
 | Strong Silent Type | 91.00% | ~147 |
-| Play Me By The Hour | 64.00% | ~103 |
+| Play Me By The Hour | 65.00% | ~105 |
 | Patient Listener | 45.00% | ~72 |
 | Video Saved The Radio Star | 36.00% | ~58 |
 | Hashtag Winning | 35.00% | ~56 |
-| A Woman Scorned | 23.00% | ~37 |
+| A Woman Scorned | 24.00% | ~39 |
 | Chameleon | 21.00% | ~34 |
 | Highlander | 20.00% | ~32 |
 | Look Mum I'm A Detective | 19.00% | ~31 |
 | You Had One Job | 14.00% | ~23 |
 | Book 'em Danny | 11.00% | ~18 |
 | Poetent | 11.00% | ~18 |
+| Oscar Winning Performance | 10.00% | ~16 |
 | Heavy Rayne | 9.00% | ~14 |
-| Oscar Winning Performance | 9.00% | ~14 |
 | Put A Ring On It | 9.00% | ~14 |
 | Voyeur | 9.00% | ~14 |
 | Chicken | 7.00% | ~11 |

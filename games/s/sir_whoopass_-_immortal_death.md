@@ -15,35 +15,36 @@
 | Not so hip anymore! | 61.00% | ~11 |
 | Blurry depth perception | 61.00% | ~11 |
 | Up and down | 56.00% | ~10 |
-| Oh, you're up to no gouda! | 44.00% | ~8 |
+| Oh, you're up to no gouda! | 50.00% | ~9 |
 | Fire-fighter! | 44.00% | ~8 |
 | Honk honk! | 28.00% | ~5 |
+| Butcher | 28.00% | ~5 |
 | Mushroom soup of the day | 28.00% | ~5 |
+| You're not going to blow me up! | 28.00% | ~5 |
 | Make Love not War-Craft a Mistlefoe | 28.00% | ~5 |
-| You're not going to blow me up! | 22.00% | ~4 |
+| Spare Ribs | 28.00% | ~5 |
+| Self assessed tax return | 22.00% | ~4 |
+| My pants squeak when I walk | 22.00% | ~4 |
+| Thats disgusting! | 22.00% | ~4 |
 | You are no match for me, Billy! | 17.00% | ~3 |
 | Make America Grate Again | 17.00% | ~3 |
-| Butcher | 17.00% | ~3 |
-| Self assessed tax return | 17.00% | ~3 |
 | Surprise!! | 17.00% | ~3 |
 | Karaoke king | 17.00% | ~3 |
-| My pants squeak when I walk | 17.00% | ~3 |
-| Thats disgusting! | 17.00% | ~3 |
+| Haemochromatosis | 17.00% | ~3 |
 | Meat grinder | 17.00% | ~3 |
-| Spare Ribs | 17.00% | ~3 |
 | Cockadoodledoo! | 17.00% | ~3 |
 | Meatballs, coming up! | 11.00% | ~2 |
 | A Megapint...? | 11.00% | ~2 |
-| Haemochromatosis | 11.00% | ~2 |
+| Another one bites the iron | 11.00% | ~2 |
 | Pasta Bolognese | 11.00% | ~2 |
 | Spoiler alert! | 6.00% | ~1 |
 | Catch the bus with me! | 6.00% | ~1 |
+| I'm going to get a concussion | 6.00% | ~1 |
 | I drink, but I'm not a drunk! | 6.00% | ~1 |
 | Okay... Maybe I'm a bit drunk... | 6.00% | ~1 |
 | Ripe Meat Off The Bone! | 6.00% | ~1 |
 | European karaoke king | 6.00% | ~1 |
 | You can't stop me, bro! | 6.00% | ~1 |
-| Another one bites the iron | 6.00% | ~1 |
 | Hovering around | 6.00% | ~1 |
 | You're not so Big anymore, Boi! | 0.00% | ~0 |
 | You're looking mozzare-hella good! | 0.00% | ~0 |
@@ -63,7 +64,6 @@
 | Ancient Ruins of Leaky Roof | 0.00% | ~0 |
 | Ancient Ruins of Chilly Winds | 0.00% | ~0 |
 | Yeehaw!!! | 0.00% | ~0 |
-| I'm going to get a concussion | 0.00% | ~0 |
 | I want to throw up! | 0.00% | ~0 |
 | Master Butcher | 0.00% | ~0 |
 | My name is Whoopass, SIR Whoopass! | 0.00% | ~0 |

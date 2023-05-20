@@ -5,35 +5,35 @@ Rating: 4.86 (Ranked 29)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 84.00% | ~1,467 |
-| Feeling the beat! | 84.00% | ~1,467 |
-| You can pet the cat! | 79.00% | ~1,380 |
-| Who put gears in there? | 74.00% | ~1,293 |
-| Cream of the Crop | 70.00% | ~1,223 |
-| Thanks for the free chip, Peppermint! | 69.00% | ~1,205 |
-| You got this, Peppermint? | 64.00% | ~1,118 |
+| Start with a bang! | 84.00% | ~1,468 |
+| Feeling the beat! | 84.00% | ~1,468 |
+| You can pet the cat! | 79.00% | ~1,381 |
+| Who put gears in there? | 74.00% | ~1,294 |
+| Cream of the Crop | 70.00% | ~1,224 |
+| Thanks for the free chip, Peppermint! | 69.00% | ~1,206 |
+| You got this, Peppermint? | 64.00% | ~1,119 |
 | Perfect Parry | 61.00% | ~1,066 |
 | Alright, that felt AWESOME! | 61.00% | ~1,066 |
 | I play my own way! | 57.00% | ~996 |
 | This will cost you big time | 55.00% | ~961 |
-| Uh, they were broken when I got here | 54.00% | ~943 |
+| Uh, they were broken when I got here | 54.00% | ~944 |
 | Z-shielding's got nothing on us! | 53.00% | ~926 |
 | Kissing the sky! | 51.00% | ~891 |
 | Whoa! There's ANOTHER health bar!? | 48.00% | ~839 |
 | Does that say weakpoint? | 48.00% | ~839 |
 | The Negotiator | 46.00% | ~804 |
-| Out in a puff of smoke | 41.00% | ~716 |
+| Out in a puff of smoke | 41.00% | ~717 |
 | You must like calling me in, Chai | 40.00% | ~699 |
-| Headliner | 39.00% | ~681 |
-| Time to pay up! | 37.00% | ~646 |
-| Perfecter Parry-er! | 37.00% | ~646 |
-| Who's the boss now? | 35.00% | ~611 |
+| Headliner | 39.00% | ~682 |
+| Time to pay up! | 37.00% | ~647 |
+| Perfecter Parry-er! | 36.00% | ~629 |
+| Who's the boss now? | 35.00% | ~612 |
 | I have to read these things? | 33.00% | ~577 |
 | I look cool. But I can look COOLER. | 33.00% | ~577 |
 | That's a lot of junk metal… | 25.00% | ~437 |
 | There's such a thing as TOO helpful | 25.00% | ~437 |
 | Beat-hit mania | 23.00% | ~402 |
-| I told you I'd be fine, Peppermint! | 22.00% | ~384 |
+| I told you I'd be fine, Peppermint! | 22.00% | ~385 |
 | Well that was a rush! | 21.00% | ~367 |
 | Wanna hear my playlist? | 15.00% | ~262 |
 | Check out my moves! | 15.00% | ~262 |
@@ -41,8 +41,8 @@ Rating: 4.86 (Ranked 29)
 | We're Jammin' | 12.00% | ~210 |
 | I think I found your calling, Macaron | 10.00% | ~175 |
 | I'm not done with you yet | 10.00% | ~175 |
-| I hit things with a guitar really well. | 10.00% | ~175 |
 | First we parry, then we counter | 9.00% | ~157 |
+| I hit things with a guitar really well. | 9.00% | ~157 |
 | I think I deserve some praise, here! | 8.00% | ~140 |
 | You ever parry a volcano? | 7.00% | ~122 |
 | This is a breeze! | 6.00% | ~105 |
@@ -67,7 +67,7 @@ Rating: 4.86 (Ranked 29)
 | Didn't skip a beat! | 0.40% | ~7 |
 | What a journey it was... | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,747 (Ranked 149)  
+Progressed: 1,748 (Ranked 149)  
 Completed: 4 (0.23%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 4 (0.23%) (Ranked 135)
 | 2023-05-17 | 1,498 | 4 |
 | 2023-05-18 | 1,510 | 4 |
 | 2023-05-19 | 1,630 | 4 |
-| 2023-05-20 | 1,747 | 4 |
+| 2023-05-20 | 1,748 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

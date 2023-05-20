@@ -9,12 +9,12 @@
 | First Blood | 71.00% | ~10 |
 | It Feels Better Than It Sounds | 64.00% | ~9 |
 | Skilled Hands | 57.00% | ~8 |
+| Master Smithy | 57.00% | ~8 |
 | Unearth A Qanat | 57.00% | ~8 |
 | Carving A Memory | 57.00% | ~8 |
-| Master Smithy | 50.00% | ~7 |
+| The Depths Of Darkness | 50.00% | ~7 |
 | A Friend In Need | 43.00% | ~6 |
 | Close Encounter | 43.00% | ~6 |
-| The Depths Of Darkness | 43.00% | ~6 |
 | One With The Blades | 43.00% | ~6 |
 | Heart of Oblivion | 43.00% | ~6 |
 | Anahita's Greatest Mistake | 43.00% | ~6 |

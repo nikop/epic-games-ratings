@@ -2,7 +2,7 @@
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
-  "Ranking_Rating": 327,
+  "Ranking_Rating": 328,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 44,
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 221696,
+  "EOS_Progressed": 221698,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 571,
+  "EOS_NewPlayers": 568,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3062,6 +3062,11 @@
       "Time": "2023-05-20T21:06:31.6088157+00:00",
       "NumProgressed": 221696,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-20T22:06:07.8630688+00:00",
+      "NumProgressed": 221698,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -3233,7 +3238,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 48773
+      "UsersEstimate": 48774
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -3281,7 +3286,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 37688
+      "UsersEstimate": 37689
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -3296,7 +3301,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 221696,
+      "Progressed": 221698,
       "Completed": 3
     }
   ],
@@ -3304,8 +3309,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-05-11T22:00:06.9625296+00:00",
-  "LastChanged_Achievements": "2023-05-20T21:06:31.6088153+00:00",
+  "LastChanged_Achievements": "2023-05-20T22:06:07.8630682+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:35.8538905+00:00",
-  "LastUpdate_Ratings": "2023-05-20T20:59:55.5447183+00:00",
-  "LastUpdate_Achievements": "2023-05-20T21:06:31.6088537+00:00"
+  "LastUpdate_Ratings": "2023-05-20T21:59:53.5757841+00:00",
+  "LastUpdate_Achievements": "2023-05-20T22:06:07.8631121+00:00"
 }

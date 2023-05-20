@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 400,
+  "EOS_Progressed": 401,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -129,6 +129,11 @@
       "Time": "2023-05-20T21:06:29.3709157+00:00",
       "NumProgressed": 400,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-20T22:06:05.5559873+00:00",
+      "NumProgressed": 401,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -170,9 +175,9 @@
       "ID": "ACHIEVEMENT_05",
       "SetID": "631ndc2",
       "Name": "Circus Versus Circus",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -274,9 +279,9 @@
       "ID": "ACHIEVEMENT_18",
       "SetID": "631ndc2",
       "Name": "Accomplished Veteran",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -298,9 +303,9 @@
       "ID": "ACHIEVEMENT_21",
       "SetID": "631ndc2",
       "Name": "Hundred Percent Second",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 24
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -322,9 +327,9 @@
       "ID": "ACHIEVEMENT_24",
       "SetID": "631ndc2",
       "Name": "Hundred Percent Fifth",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -338,9 +343,9 @@
       "ID": "ACHIEVEMENT_26",
       "SetID": "631ndc2",
       "Name": "Circus Maximus",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -370,17 +375,17 @@
       "ID": "ACHIEVEMENT_30",
       "SetID": "631ndc2",
       "Name": "King of District 1",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHIEVEMENT_31",
       "SetID": "631ndc2",
       "Name": "King of District 2",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -426,9 +431,9 @@
       "ID": "ACHIEVEMENT_37",
       "SetID": "631ndc2",
       "Name": "Flawless Presentation",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -466,7 +471,7 @@
       "ID": "ACHIEVEMENT_42",
       "SetID": "631ndc2",
       "Name": "Devastating Blow",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -498,7 +503,7 @@
       "ID": "ACHIEVEMENT_46",
       "SetID": "631ndc2",
       "Name": "Versatile Tactics",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -506,9 +511,9 @@
       "ID": "ACHIEVEMENT_47",
       "SetID": "631ndc2",
       "Name": "Mobile Infantry",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHIEVEMENT_48",
@@ -539,7 +544,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 400,
+      "Progressed": 401,
       "Completed": 1
     }
   ],
@@ -547,8 +552,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-05-20T21:06:29.3709152+00:00",
+  "LastChanged_Achievements": "2023-05-20T22:06:05.5559868+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.3315704+00:00",
-  "LastUpdate_Ratings": "2023-05-20T20:58:58.7908738+00:00",
-  "LastUpdate_Achievements": "2023-05-20T21:06:29.3709605+00:00"
+  "LastUpdate_Ratings": "2023-05-20T21:58:54.6853565+00:00",
+  "LastUpdate_Achievements": "2023-05-20T22:06:05.5560505+00:00"
 }

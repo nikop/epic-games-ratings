@@ -689,9 +689,9 @@
       "ID": "CleanRestaurantDays10",
       "SetID": "d1bm05f",
       "Name": "So Clean You Can Eat Off the Floor",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "Clothes10",
@@ -809,9 +809,9 @@
       "ID": "OpenRestaurant",
       "SetID": "d1bm05f",
       "Name": "The Big Day",
-      "Percentage": 70,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 109
     },
     {
       "ID": "Packing20",
@@ -962,8 +962,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-20T21:06:19.3375092+00:00",
+  "LastChanged_Achievements": "2023-05-20T22:05:55.2390188+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.318416+00:00",
-  "LastUpdate_Ratings": "2023-05-20T20:58:27.381565+00:00",
-  "LastUpdate_Achievements": "2023-05-20T21:06:19.3375451+00:00"
+  "LastUpdate_Ratings": "2023-05-20T21:58:21.7042615+00:00",
+  "LastUpdate_Achievements": "2023-05-20T22:05:55.2390541+00:00"
 }

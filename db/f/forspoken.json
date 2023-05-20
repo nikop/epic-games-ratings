@@ -236,7 +236,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38139,
+  "EOS_Progressed": 38141,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
@@ -2206,6 +2206,11 @@
       "Time": "2023-05-20T21:06:27.3009996+00:00",
       "NumProgressed": 38139,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-20T22:06:03.3879461+00:00",
+      "NumProgressed": 38141,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2519,9 +2524,9 @@
       "ID": "PARKOUR_DISTANCE",
       "SetID": "6d0g7k8",
       "Name": "Endless Runner",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 763
+      "UsersEstimate": 1144
     },
     {
       "ID": "PARKOUR_TIME",
@@ -2640,22 +2645,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 38139,
+      "Progressed": 38141,
       "Completed": 1
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 2976,
-      "Completed": 2976
+      "Progressed": 2978,
+      "Completed": 2978
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-19T13:58:09.5173669+00:00",
-  "LastChanged_Achievements": "2023-05-20T21:06:27.3009992+00:00",
+  "LastChanged_Achievements": "2023-05-20T22:06:03.3879454+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:06.8378338+00:00",
-  "LastUpdate_Ratings": "2023-05-20T20:58:33.8429673+00:00",
-  "LastUpdate_Achievements": "2023-05-20T21:06:27.301057+00:00"
+  "LastUpdate_Ratings": "2023-05-20T21:58:28.2587124+00:00",
+  "LastUpdate_Achievements": "2023-05-20T22:06:03.3880448+00:00"
 }

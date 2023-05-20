@@ -2,7 +2,7 @@
   "ID": "25e53de2e4ab4da8aa589d881273a11c",
   "Name": "Pillars of Eternity - Definitive Edition",
   "ProductSlug": "pillars-of-eternity",
-  "Ranking_Rating": 293,
+  "Ranking_Rating": 294,
   "Ranking_Popularity": 105,
   "Ranking_PopularitySum": 127,
   "Ranking_EOS_Progress": 162,
@@ -2356,10 +2356,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 4603,
       "NumberOfAwardsMax": 1873
+    },
+    {
+      "Time": "2023-05-20T21:57:25.4334012+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 4604,
+      "NumberOfAwardsMax": 1873
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4603,
+  "NumberOfAwards": 4604,
   "NumberOfAwardsMax": 1873,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2415,7 +2421,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 307
+      "Count": 308
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2860,9 +2866,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
-  "LastChanged": "2023-05-20T19:57:22.9190977+00:00",
-  "LastChanged_Achievements": "2023-05-20T21:06:11.7579522+00:00",
+  "LastChanged": "2023-05-20T21:57:25.433401+00:00",
+  "LastChanged_Achievements": "2023-05-20T22:05:47.5647975+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:02.0339592+00:00",
-  "LastUpdate_Ratings": "2023-05-20T20:57:31.894701+00:00",
-  "LastUpdate_Achievements": "2023-05-20T21:06:11.757999+00:00"
+  "LastUpdate_Ratings": "2023-05-20T21:57:25.4334016+00:00",
+  "LastUpdate_Achievements": "2023-05-20T22:05:47.5648409+00:00"
 }

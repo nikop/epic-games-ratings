@@ -2,12 +2,12 @@
   "ID": "155b39e2ce7b4ed2855125fb2ef1d1a1",
   "Name": "The Crew\u00AE \u2013 Standard Edition",
   "ProductSlug": "the-crew",
-  "Ranking_Rating": 327,
+  "Ranking_Rating": 328,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-11-14T16:00:00+00:00",
@@ -186,6 +186,6 @@
   "FirstSeenRating": "2023-01-08T06:57:23.9480644+00:00",
   "LastChanged": "2023-05-16T16:58:24.8114125+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:00.4390675+00:00",
-  "LastUpdate_Ratings": "2023-05-20T20:58:28.6830939+00:00",
-  "LastUpdate_Achievements": "2023-05-20T21:03:52.8788478+00:00"
+  "LastUpdate_Ratings": "2023-05-20T21:58:23.0644542+00:00",
+  "LastUpdate_Achievements": "2023-05-20T22:04:06.034604+00:00"
 }

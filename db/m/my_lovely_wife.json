@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-06-07T16:00:00+00:00",
@@ -136,9 +136,9 @@
       "ID": "ACH_ASSIGN_LEARN_2",
       "SetID": "ajki3eh",
       "Name": "Dilligent",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 455
+      "UsersEstimate": 461
     },
     {
       "ID": "ACH_ASSIGN_PLAZA_1",
@@ -256,9 +256,9 @@
       "ID": "ACH_KILL_SUCC_2",
       "SetID": "ajki3eh",
       "Name": "Mandatory Sacrifice",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_KILL_SUCC_3",
@@ -280,9 +280,9 @@
       "ID": "ACH_SUMMON_SUCC_2",
       "SetID": "ajki3eh",
       "Name": "The Farmer",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_SUMMON_SUCC_3",
@@ -400,8 +400,8 @@
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-05-20T21:06:04.8622487+00:00",
+  "LastChanged_Achievements": "2023-05-20T22:05:40.6744146+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:40.9863737+00:00",
-  "LastUpdate_Ratings": "2023-05-20T20:58:08.235726+00:00",
-  "LastUpdate_Achievements": "2023-05-20T21:06:04.8622727+00:00"
+  "LastUpdate_Ratings": "2023-05-20T21:58:02.876206+00:00",
+  "LastUpdate_Achievements": "2023-05-20T22:05:40.6744474+00:00"
 }

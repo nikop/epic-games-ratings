@@ -5,13 +5,13 @@ Rating: 3.75 (Ranked 918)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,045 |
+| Victor | 94.00% | ~1,046 |
 | World Map | 80.00% | ~890 |
 | Temple of Eternals | 56.00% | ~623 |
-| Prestigious | 52.00% | ~578 |
+| Prestigious | 52.00% | ~579 |
 | Fellowship Power | 40.00% | ~445 |
 | Guild Power | 24.00% | ~267 |
-| Prestigious x10 | 21.00% | ~234 |
+| Prestigious x10 | 20.00% | ~223 |
 | The game is on | 18.00% | ~200 |
 | Dragon Clicker | 16.00% | ~178 |
 | Exotic Merchant | 16.00% | ~178 |
@@ -33,10 +33,10 @@ Rating: 3.75 (Ranked 918)
 | Hunter | 5.00% | ~56 |
 | Scroll Master | 5.00% | ~56 |
 | The power of Awakening | 5.00% | ~56 |
-| Frostfire Liberator | 4.00% | ~44 |
-| Mastery | 4.00% | ~44 |
-| Moving Up The Ladder | 4.00% | ~44 |
-| The Expeditioner | 4.00% | ~44 |
+| Frostfire Liberator | 4.00% | ~45 |
+| Mastery | 4.00% | ~45 |
+| Moving Up The Ladder | 4.00% | ~45 |
+| The Expeditioner | 4.00% | ~45 |
 | Ancient Knowledge | 3.00% | ~33 |
 | Background Story | 3.00% | ~33 |
 | Here We Go Again | 3.00% | ~33 |
@@ -81,7 +81,7 @@ Rating: 3.75 (Ranked 918)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,112 (Ranked 160)  
+Progressed: 1,113 (Ranked 160)  
 Completed: 1 (0.09%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 1 (0.09%) (Ranked 163)
 | 2023-05-17 | 1,057 | 1 |
 | 2023-05-18 | 1,076 | 1 |
 | 2023-05-19 | 1,090 | 1 |
-| 2023-05-20 | 1,112 | 1 |
+| 2023-05-20 | 1,113 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

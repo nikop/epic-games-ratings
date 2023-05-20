@@ -6,8 +6,8 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 214,
-  "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_Completed": 118,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -73,11 +73,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 281,
+  "EOS_Progressed": 282,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.36,
+  "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:15.8385226+00:00",
@@ -188,6 +188,11 @@
       "Time": "2023-05-20T21:02:14.026549+00:00",
       "NumProgressed": 281,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-20T22:02:26.4760098+00:00",
+      "NumProgressed": 282,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 28,
@@ -239,7 +244,7 @@
       "Name": "EXPERIMENTALIST",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "GB_FIRST_BLOOD",
@@ -247,7 +252,7 @@
       "Name": "FIRST BLOOD",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "GB_GOURMET",
@@ -295,7 +300,7 @@
       "Name": "HONORS STUDENT",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "GB_INDIVIDUAL_APPROACH",
@@ -327,7 +332,7 @@
       "Name": "KEVIN!",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "GB_LAW_ABIDING_CITIZEN",
@@ -351,7 +356,7 @@
       "Name": "MASTER CHEF",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "GB_MISTER_ALL_THUMBS",
@@ -383,7 +388,7 @@
       "Name": "RAMBO",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "GB_SCATTERBRAIN",
@@ -422,7 +427,7 @@
     {
       "ID": "8ga3kd9",
       "IsBase": true,
-      "Progressed": 281,
+      "Progressed": 282,
       "Completed": 1
     }
   ],
@@ -430,8 +435,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-05-18T03:58:25.9913255+00:00",
-  "LastChanged_Achievements": "2023-05-20T21:02:14.0265484+00:00",
+  "LastChanged_Achievements": "2023-05-20T22:02:26.476009+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:53.2828983+00:00",
-  "LastUpdate_Ratings": "2023-05-20T20:58:22.3045487+00:00",
-  "LastUpdate_Achievements": "2023-05-20T21:02:14.0265725+00:00"
+  "LastUpdate_Ratings": "2023-05-20T21:58:16.6721933+00:00",
+  "LastUpdate_Achievements": "2023-05-20T22:02:26.4760433+00:00"
 }

@@ -13,7 +13,7 @@ Number of Ratings: 25  (23.09.2022)
 | Devout | 89.00% | ~494 |
 | The Love Martyr | 87.00% | ~483 |
 | Frugal | 85.00% | ~472 |
-| Dilligent | 82.00% | ~455 |
+| Dilligent | 83.00% | ~461 |
 | I... I did it? | 80.00% | ~444 |
 | Adored | 75.00% | ~416 |
 | The Hobbyist | 64.00% | ~355 |
@@ -22,10 +22,10 @@ Number of Ratings: 25  (23.09.2022)
 | The Admirer | 50.00% | ~278 |
 | Precious | 43.00% | ~239 |
 | Devoted | 41.00% | ~228 |
-| The Farmer | 37.00% | ~205 |
+| The Farmer | 38.00% | ~211 |
 | Ever After | 35.00% | ~194 |
+| Mandatory Sacrifice | 28.00% | ~155 |
 | Loyal | 27.00% | ~150 |
-| Mandatory Sacrifice | 27.00% | ~150 |
 | The Collector | 24.00% | ~133 |
 | All Doors Open | 19.00% | ~105 |
 | Faithful | 10.00% | ~56 |

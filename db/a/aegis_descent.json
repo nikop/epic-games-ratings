@@ -4,7 +4,7 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 355,
+  "EOS_Progressed": 356,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -77,6 +77,11 @@
       "Time": "2023-05-20T14:04:58.5075187+00:00",
       "NumProgressed": 355,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-20T22:05:50.4437447+00:00",
+      "NumProgressed": 356,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -88,7 +93,7 @@
       "Name": "Batteries Included",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "Award_BigSpender",
@@ -128,7 +133,7 @@
       "Name": "Clean Sweep",
       "Percentage": 95,
       "XP": 20,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -200,7 +205,7 @@
       "Name": "Gunner",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "Award_HalfwayThere",
@@ -224,7 +229,7 @@
       "Name": "Hazardous Duty",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "Award_HeavyMetal",
@@ -240,7 +245,7 @@
       "Name": "Hull King",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "Award_IntelKing",
@@ -264,7 +269,7 @@
       "Name": "Line of Duty",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "Award_MilitaryIntelligence",
@@ -336,7 +341,7 @@
       "Name": "Scavenger",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "Award_ShellShock",
@@ -432,14 +437,14 @@
       "Name": "What-A-Shot",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     }
   ],
   "AchievementSets": [
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 355,
+      "Progressed": 356,
       "Completed": 1
     }
   ],
@@ -447,8 +452,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-05-20T21:06:14.561706+00:00",
+  "LastChanged_Achievements": "2023-05-20T22:05:50.4437441+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:49.6437871+00:00",
-  "LastUpdate_Ratings": "2023-05-20T20:58:18.5367781+00:00",
-  "LastUpdate_Achievements": "2023-05-20T21:06:14.5617414+00:00"
+  "LastUpdate_Ratings": "2023-05-20T21:58:12.9197595+00:00",
+  "LastUpdate_Achievements": "2023-05-20T22:05:50.4437818+00:00"
 }

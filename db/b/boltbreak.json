@@ -4,7 +4,7 @@
   "ProductSlug": "boltbreak-c2bf02",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-05-06T00:30:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-19T19:00:18.9957706+00:00",
-  "LastUpdate_Ratings": "2023-05-20T20:58:43.0569111+00:00",
-  "LastUpdate_Achievements": "2023-05-20T21:04:55.8364723+00:00"
+  "LastUpdate_Ratings": "2023-05-20T21:58:38.2706409+00:00",
+  "LastUpdate_Achievements": "2023-05-20T22:04:29.3693913+00:00"
 }

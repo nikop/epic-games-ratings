@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1112,
+  "EOS_Progressed": 1113,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1945,6 +1945,11 @@
       "Time": "2023-05-20T21:06:23.3305953+00:00",
       "NumProgressed": 1112,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-20T22:05:59.3673311+00:00",
+      "NumProgressed": 1113,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2156,7 +2161,7 @@
       "Name": "Frostfire Liberator",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "fullparty",
@@ -2276,7 +2281,7 @@
       "Name": "Mastery",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "milestonecollector",
@@ -2308,7 +2313,7 @@
       "Name": "Moving Up The Ladder",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "mysteriousrock",
@@ -2348,15 +2353,15 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "prestigiousx10",
       "SetID": "3nl4bcg",
       "Name": "Prestigious x10",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 223
     },
     {
       "ID": "relicofthepast",
@@ -2428,7 +2433,7 @@
       "Name": "The Expeditioner",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "thefatherofdragons",
@@ -2516,7 +2521,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "warmachinesarmy",
@@ -2555,7 +2560,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1112,
+      "Progressed": 1113,
       "Completed": 1
     }
   ],
@@ -2563,8 +2568,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-18T22:58:45.6795503+00:00",
-  "LastChanged_Achievements": "2023-05-20T21:06:23.3305945+00:00",
+  "LastChanged_Achievements": "2023-05-20T22:05:59.3673303+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:34.8363446+00:00",
-  "LastUpdate_Ratings": "2023-05-20T20:58:00.8724108+00:00",
-  "LastUpdate_Achievements": "2023-05-20T21:06:23.3306924+00:00"
+  "LastUpdate_Ratings": "2023-05-20T21:57:55.3439529+00:00",
+  "LastUpdate_Achievements": "2023-05-20T22:05:59.3674246+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "3628612cd9ca49248cd5b4d8a95c9f11",
   "Name": "Star Trek Prodigy: Supernova",
   "ProductSlug": "star-trek-prodigy-supernova-cdb770",
-  "Ranking_EOS_Progress": 335,
+  "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-01-18T19:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8,
+  "EOS_Progressed": 9,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -47,6 +47,11 @@
     {
       "Time": "2023-05-19T04:06:25.342181+00:00",
       "NumProgressed": 8,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T22:05:54.9906859+00:00",
+      "NumProgressed": 9,
       "NumCompleted": 0
     }
   ],
@@ -89,7 +94,7 @@
       "ID": "AllCollectibles",
       "SetID": "7270ipa",
       "Name": "Priceless Collection",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -97,7 +102,7 @@
       "ID": "BuyAllWeapons",
       "SetID": "7270ipa",
       "Name": "One Man Army",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -105,7 +110,7 @@
       "ID": "BuyWeapon",
       "SetID": "7270ipa",
       "Name": "Up your Arsenal",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 130,
       "UsersEstimate": 1
     },
@@ -121,7 +126,7 @@
       "ID": "Chests_50",
       "SetID": "7270ipa",
       "Name": "Quest for Loot",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -137,7 +142,7 @@
       "ID": "CompleteCrewMission",
       "SetID": "7270ipa",
       "Name": "One for the Crew",
-      "Percentage": 38,
+      "Percentage": 33,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -145,7 +150,7 @@
       "ID": "Creatures_100",
       "SetID": "7270ipa",
       "Name": "Proto Menagerie",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -153,7 +158,7 @@
       "ID": "Creatures_50",
       "SetID": "7270ipa",
       "Name": "Punny Lover",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -161,7 +166,7 @@
       "ID": "Finish_P1L1",
       "SetID": "7270ipa",
       "Name": "Restoring the Protostar",
-      "Percentage": 75,
+      "Percentage": 67,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -169,7 +174,7 @@
       "ID": "Finish_P1L2",
       "SetID": "7270ipa",
       "Name": "The Clock is Ticking",
-      "Percentage": 38,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -177,7 +182,7 @@
       "ID": "Finish_P1L3",
       "SetID": "7270ipa",
       "Name": "Back online",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -185,7 +190,7 @@
       "ID": "Finish_P1L4",
       "SetID": "7270ipa",
       "Name": "Rok and Roll",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -193,7 +198,7 @@
       "ID": "Finish_P2L1",
       "SetID": "7270ipa",
       "Name": "First Contact?",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -201,7 +206,7 @@
       "ID": "Finish_P2L2",
       "SetID": "7270ipa",
       "Name": "Naroan History",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -209,7 +214,7 @@
       "ID": "Finish_P2L3",
       "SetID": "7270ipa",
       "Name": "Playing with Time",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -225,7 +230,7 @@
       "ID": "Finish_P3L1",
       "SetID": "7270ipa",
       "Name": "Coming in from the Cold",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -257,7 +262,7 @@
       "ID": "Hit3EnemiesWithPhaser",
       "SetID": "7270ipa",
       "Name": "Three Watchers, Two Phasers",
-      "Percentage": 50,
+      "Percentage": 44,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -265,7 +270,7 @@
       "ID": "OpenAllSecretZones",
       "SetID": "7270ipa",
       "Name": "Seeking Discovery",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -297,7 +302,7 @@
       "ID": "Relics_100",
       "SetID": "7270ipa",
       "Name": "Trekkie",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -313,7 +318,7 @@
       "ID": "RescueJankomPog",
       "SetID": "7270ipa",
       "Name": "Guess who\u0027s back",
-      "Percentage": 38,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -329,7 +334,7 @@
       "ID": "RescueRokTahk",
       "SetID": "7270ipa",
       "Name": "Not Too Long",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -337,7 +342,7 @@
       "ID": "RescueZero",
       "SetID": "7270ipa",
       "Name": "Welcome back",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -345,7 +350,7 @@
       "ID": "ReviveTeammate",
       "SetID": "7270ipa",
       "Name": "I\u0027ve Got You",
-      "Percentage": 25,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -361,7 +366,7 @@
       "ID": "UpgradeWeapon",
       "SetID": "7270ipa",
       "Name": "Getting Better",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -377,7 +382,7 @@
       "ID": "UseCrewMember",
       "SetID": "7270ipa",
       "Name": "A Helping Hand",
-      "Percentage": 38,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 3
     }
@@ -386,7 +391,7 @@
     {
       "ID": "7270ipa",
       "IsBase": true,
-      "Progressed": 8,
+      "Progressed": 9,
       "Completed": 0
     }
   ],
@@ -394,8 +399,8 @@
   "FirstSeenRating": "2023-03-31T05:57:13.3030994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.1498676+00:00",
   "LastChanged": "2023-03-31T05:57:13.3030995+00:00",
-  "LastChanged_Achievements": "2023-05-20T21:06:19.0578331+00:00",
+  "LastChanged_Achievements": "2023-05-20T22:05:54.9906848+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:25.3602476+00:00",
-  "LastUpdate_Ratings": "2023-05-20T20:57:51.4965278+00:00",
-  "LastUpdate_Achievements": "2023-05-20T21:06:19.0578639+00:00"
+  "LastUpdate_Ratings": "2023-05-20T21:57:45.2478308+00:00",
+  "LastUpdate_Achievements": "2023-05-20T22:05:54.9907206+00:00"
 }

@@ -130,17 +130,17 @@
       "ID": "BISTUN_ACHIEVEMENT_16",
       "SetID": "1kdk24p",
       "Name": "The Depths Of Darkness",
-      "Percentage": 43,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_17",
       "SetID": "1kdk24p",
       "Name": "Master Smithy",
-      "Percentage": 50,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_18",
@@ -379,8 +379,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.7723222+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1212078+00:00",
   "LastChanged": "2023-03-31T05:58:10.7723223+00:00",
-  "LastChanged_Achievements": "2023-05-20T21:06:34.9266645+00:00",
+  "LastChanged_Achievements": "2023-05-20T22:06:11.1237668+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:44.4415674+00:00",
-  "LastUpdate_Ratings": "2023-05-20T20:59:57.7102792+00:00",
-  "LastUpdate_Achievements": "2023-05-20T21:06:34.9266938+00:00"
+  "LastUpdate_Ratings": "2023-05-20T21:59:55.9068429+00:00",
+  "LastUpdate_Achievements": "2023-05-20T22:06:11.1238182+00:00"
 }
