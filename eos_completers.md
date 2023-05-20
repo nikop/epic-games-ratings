@@ -21,7 +21,7 @@
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.23% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 8.00% |
 | 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.95% |
-| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.64% |
+| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.63% |
 | 23 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 7.14% |
 | 24 | [Scorn](games/s/scorn.md) | 6.99% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 6.56% |
@@ -55,12 +55,12 @@
 | 53 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.78% |
 | 54 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 55 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.67% |
-| 56 | [FORECLOSED](games/f/foreclosed.md) | 2.63% |
 | 56 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.63% |
+| 57 | [FORECLOSED](games/f/foreclosed.md) | 2.60% |
 | 58 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 59 | [JARS](games/j/jars.md) | 2.44% |
 | 60 | [Iron Danger](games/i/iron_danger.md) | 2.35% |
-| 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.18% |
+| 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.17% |
 | 62 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.10% |
 | 63 | [Bloodshore](games/b/bloodshore.md) | 2.05% |
 | 64 | [A Musical Story](games/a/a_musical_story.md) | 1.85% |
@@ -90,7 +90,7 @@
 | 87 | [Hades](games/h/hades.md) | 0.90% |
 | 87 | [Them and Us](games/t/them_and_us.md) | 0.90% |
 | 90 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.88% |
-| 91 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.87% |
+| 91 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.86% |
 | 92 | [Five Dates](games/f/five_dates.md) | 0.83% |
 | 92 | [Lemon Cake](games/l/lemon_cake.md) | 0.83% |
 | 94 | [Adios](games/a/adios.md) | 0.81% |
@@ -112,16 +112,16 @@
 | 110 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 111 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
 | 112 | [Potion Permit](games/p/potion_permit.md) | 0.40% |
-| 112 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.40% |
 | 112 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.40% |
+| 114 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.39% |
 | 115 | [Tchia](games/t/tchia.md) | 0.38% |
 | 116 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 117 | [Godlike Burger](games/g/godlike_burger.md) | 0.36% |
 | 117 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
 | 119 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.35% |
 | 120 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.34% |
-| 120 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.34% |
-| 122 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
+| 121 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
+| 121 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
 | 123 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
 | 124 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.31% |
 | 124 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
