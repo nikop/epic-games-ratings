@@ -14,11 +14,11 @@
 | Passion for sports | 36.00% | ~38 |
 | Who loves trains? | 32.00% | ~34 |
 | Easy and steady climb | 32.00% | ~34 |
-| At the heart of the city | 29.00% | ~31 |
-| Calm neighborhood | 27.00% | ~29 |
-| Elevated ring | 26.00% | ~28 |
-| Not lonely anymore | 24.00% | ~25 |
-| Monumental tribute | 22.00% | ~23 |
+| At the heart of the city | 30.00% | ~32 |
+| Calm neighborhood | 28.00% | ~30 |
+| Elevated ring | 27.00% | ~29 |
+| Not lonely anymore | 25.00% | ~26 |
+| Monumental tribute | 23.00% | ~24 |
 | The beach is right there | 22.00% | ~23 |
 | Commuting | 21.00% | ~22 |
 | Le jardin magnifique | 18.00% | ~19 |

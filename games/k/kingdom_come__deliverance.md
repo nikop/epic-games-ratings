@@ -6,25 +6,25 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~242,401 |
-| Cavalier | 25.00% | ~195,485 |
-| Fatso | 23.00% | ~179,846 |
-| Awakening | 20.00% | ~156,388 |
-| Ranger | 20.00% | ~156,388 |
-| Scrooge | 20.00% | ~156,388 |
-| Anorectic | 16.00% | ~125,110 |
-| Firestarter | 15.00% | ~117,291 |
-| Bookworm | 14.00% | ~109,471 |
-| Insomniac | 13.00% | ~101,652 |
-| Buddy | 11.00% | ~86,013 |
-| Sinner | 11.00% | ~86,013 |
-| Thief | 11.00% | ~86,013 |
-| Convict | 10.00% | ~78,194 |
-| Traveller | 10.00% | ~78,194 |
+| Blacksmith's Son | 31.00% | ~242,404 |
+| Cavalier | 25.00% | ~195,487 |
+| Fatso | 23.00% | ~179,848 |
+| Awakening | 20.00% | ~156,390 |
+| Ranger | 20.00% | ~156,390 |
+| Scrooge | 20.00% | ~156,390 |
+| Anorectic | 16.00% | ~125,112 |
+| Firestarter | 15.00% | ~117,292 |
+| Bookworm | 14.00% | ~109,473 |
+| Insomniac | 13.00% | ~101,653 |
+| Buddy | 11.00% | ~86,014 |
+| Sinner | 11.00% | ~86,014 |
+| Thief | 11.00% | ~86,014 |
+| Convict | 10.00% | ~78,195 |
+| Traveller | 10.00% | ~78,195 |
 | Haggler | 9.00% | ~70,375 |
 | Runt | 7.00% | ~54,736 |
-| Casanova | 6.00% | ~46,916 |
-| McLovin | 6.00% | ~46,916 |
+| Casanova | 6.00% | ~46,917 |
+| McLovin | 6.00% | ~46,917 |
 | Bad Trip | 5.00% | ~39,097 |
 | Monk | 5.00% | ~39,097 |
 | Serial Killer | 5.00% | ~39,097 |
@@ -50,7 +50,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Gambler | 1.00% | ~7,819 |
 | Master Huntsman | 1.00% | ~7,819 |
 | Stealth Killer | 1.00% | ~7,819 |
-| Spoilsport | 0.90% | ~7,037 |
+| Spoilsport | 0.90% | ~7,038 |
 | Bailiff | 0.80% | ~6,256 |
 | Tracker | 0.80% | ~6,256 |
 | David Horak | 0.70% | ~5,474 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~782 |
 | Wingman | 0.10% | ~782 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 781,939 (Ranked 12)  
+Progressed: 781,948 (Ranked 12)  
 Completed: 39 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 39 (0.00%) (Ranked 201)
 | 2023-05-17 | 781,542 | 39 |
 | 2023-05-18 | 781,692 | 39 |
 | 2023-05-19 | 781,877 | 39 |
-| 2023-05-20 | 781,939 | 39 |
+| 2023-05-20 | 781,948 | 39 |
 ## Awards
 Max (Character Customization): 7,183  (Ranked 43)  
 Sum: 26,848 (Ranked 42)  

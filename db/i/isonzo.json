@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -544,9 +544,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5685,
+  "EOS_Progressed": 5686,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1029,6 +1029,11 @@
       "Time": "2023-05-20T06:06:16.664723+00:00",
       "NumProgressed": 5685,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-20T07:06:09.6215504+00:00",
+      "NumProgressed": 5686,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -1056,7 +1061,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 2615
+      "UsersEstimate": 2616
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -1152,7 +1157,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 1819
+      "UsersEstimate": 1820
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -1248,7 +1253,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -1368,7 +1373,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3013
+      "UsersEstimate": 3014
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -1392,14 +1397,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 2956
+      "UsersEstimate": 2957
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5685,
+      "Progressed": 5686,
       "Completed": 8
     }
   ],
@@ -1407,8 +1412,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-19T05:57:11.7552648+00:00",
-  "LastChanged_Achievements": "2023-05-20T06:06:16.6647226+00:00",
+  "LastChanged_Achievements": "2023-05-20T07:06:09.6215501+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:10.2290416+00:00",
-  "LastUpdate_Ratings": "2023-05-20T05:57:24.3696483+00:00",
-  "LastUpdate_Achievements": "2023-05-20T06:06:16.6647514+00:00"
+  "LastUpdate_Ratings": "2023-05-20T06:57:28.5255668+00:00",
+  "LastUpdate_Achievements": "2023-05-20T07:06:09.6215812+00:00"
 }

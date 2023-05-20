@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,7 +15,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2502,
+  "EOS_Progressed": 2503,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
@@ -1550,6 +1550,11 @@
       "Time": "2023-05-20T04:59:48.6685674+00:00",
       "NumProgressed": 2502,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T07:01:25.1718851+00:00",
+      "NumProgressed": 2503,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1649,7 +1654,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "20",
@@ -1713,7 +1718,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1301
+      "UsersEstimate": 1302
     },
     {
       "ID": "6",
@@ -1752,13 +1757,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2502,
+      "Progressed": 2503,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-20T06:01:21.0481425+00:00",
+  "LastChanged_Achievements": "2023-05-20T07:01:25.1718846+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.9291954+00:00",
-  "LastUpdate_Ratings": "2023-05-20T05:59:15.9707992+00:00",
-  "LastUpdate_Achievements": "2023-05-20T06:01:21.0481667+00:00"
+  "LastUpdate_Ratings": "2023-05-20T06:59:19.7862172+00:00",
+  "LastUpdate_Achievements": "2023-05-20T07:01:25.1719106+00:00"
 }

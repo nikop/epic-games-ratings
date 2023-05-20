@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -382,9 +382,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 249147,
+  "EOS_Progressed": 249150,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 635,
+  "EOS_NewPlayers": 630,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3167,6 +3167,11 @@
       "Time": "2023-05-20T06:06:47.9862415+00:00",
       "NumProgressed": 249147,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-20T07:06:41.3039434+00:00",
+      "NumProgressed": 249150,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -3194,7 +3199,7 @@
       "Name": "The Strengthening",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2491
+      "UsersEstimate": 2492
     },
     {
       "ID": "Act4",
@@ -3234,7 +3239,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12457
+      "UsersEstimate": 12458
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -3306,7 +3311,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12457
+      "UsersEstimate": 12458
     },
     {
       "ID": "CreedsInBank2",
@@ -3314,7 +3319,7 @@
       "Name": "Saver II",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2491
+      "UsersEstimate": 2492
     },
     {
       "ID": "CreedsInBank3",
@@ -3346,7 +3351,7 @@
       "Name": "It\u0027s the last one, I swear",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2491
+      "UsersEstimate": 2492
     },
     {
       "ID": "FullHomeExpansion",
@@ -3370,7 +3375,7 @@
       "Name": "Botanist",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2491
+      "UsersEstimate": 2492
     },
     {
       "ID": "GrowPlants1",
@@ -3386,7 +3391,7 @@
       "Name": "Green thumb II",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2491
+      "UsersEstimate": 2492
     },
     {
       "ID": "GrowPlants3",
@@ -3434,7 +3439,7 @@
       "Name": "Cleaning Company",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12457
+      "UsersEstimate": 12458
     },
     {
       "ID": "KillOtherWithKatana",
@@ -3466,7 +3471,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54812
+      "UsersEstimate": 54813
     },
     {
       "ID": "KillOthers2",
@@ -3498,7 +3503,7 @@
       "Name": "Don\u0027t try this at home",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2491
+      "UsersEstimate": 2492
     },
     {
       "ID": "MaxImagoLevel",
@@ -3530,7 +3535,7 @@
       "Name": "Bricklayer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2491
+      "UsersEstimate": 2492
     },
     {
       "ID": "OldCoinCollected",
@@ -3618,14 +3623,14 @@
       "Name": "Run the Economy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2491
+      "UsersEstimate": 2492
     }
   ],
   "AchievementSets": [
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 249147,
+      "Progressed": 249150,
       "Completed": 1
     }
   ],
@@ -3633,8 +3638,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-05-19T19:18:19.7844051+00:00",
-  "LastChanged_Achievements": "2023-05-20T06:06:47.9862411+00:00",
+  "LastChanged_Achievements": "2023-05-20T07:06:41.3039431+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:18.7976266+00:00",
-  "LastUpdate_Ratings": "2023-05-20T06:00:52.7638451+00:00",
-  "LastUpdate_Achievements": "2023-05-20T06:06:47.9862949+00:00"
+  "LastUpdate_Ratings": "2023-05-20T07:00:53.0056502+00:00",
+  "LastUpdate_Achievements": "2023-05-20T07:06:41.3039969+00:00"
 }

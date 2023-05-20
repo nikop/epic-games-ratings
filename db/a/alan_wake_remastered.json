@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46423,
+  "EOS_Progressed": 46426,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 289,
+  "EOS_NewPlayers": 291,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1946,6 +1946,11 @@
       "Time": "2023-05-20T06:06:17.6287132+00:00",
       "NumProgressed": 46423,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-05-20T07:06:10.4531675+00:00",
+      "NumProgressed": 46426,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 67,
@@ -1981,7 +1986,7 @@
       "Name": "Boob Tube",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 928
+      "UsersEstimate": 929
     },
     {
       "ID": "05",
@@ -2061,7 +2066,7 @@
       "Name": "Gatekeeper",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2785
+      "UsersEstimate": 2786
     },
     {
       "ID": "15",
@@ -2069,7 +2074,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2785
+      "UsersEstimate": 2786
     },
     {
       "ID": "16",
@@ -2189,7 +2194,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2785
+      "UsersEstimate": 2786
     },
     {
       "ID": "31",
@@ -2221,7 +2226,7 @@
       "Name": "Energized!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2785
+      "UsersEstimate": 2786
     },
     {
       "ID": "35",
@@ -2237,7 +2242,7 @@
       "Name": "Carny",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 928
+      "UsersEstimate": 929
     },
     {
       "ID": "37",
@@ -2357,7 +2362,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "52",
@@ -2365,7 +2370,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "53",
@@ -2492,21 +2497,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46423,
+      "Progressed": 46426,
       "Completed": 45
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9891,
+      "Progressed": 9894,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-20T06:06:17.6287128+00:00",
+  "LastChanged_Achievements": "2023-05-20T07:06:10.4531669+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:07.5579983+00:00",
-  "LastUpdate_Ratings": "2023-05-20T05:57:41.249221+00:00",
-  "LastUpdate_Achievements": "2023-05-20T06:06:17.6287717+00:00"
+  "LastUpdate_Ratings": "2023-05-20T06:57:46.9201068+00:00",
+  "LastUpdate_Achievements": "2023-05-20T07:06:10.453229+00:00"
 }

@@ -5,18 +5,18 @@ Rating: 4.41 (Ranked 656)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 4.00% | ~34 |
+| Meeting Resistance | 4.00% | ~35 |
 | Confirming Suspicions | 2.00% | ~17 |
 | Enemy at the Gates | 1.00% | ~9 |
 | Lord of War | 1.00% | ~9 |
 | Resourceful | 1.00% | ~9 |
+| Opposing Force | 0.70% | ~6 |
 | Organ Grinder | 0.70% | ~6 |
 | As Quiet as a Mouse | 0.70% | ~6 |
 | The Kraken Wakes | 0.70% | ~6 |
 | It's Starting to Crack | 0.70% | ~6 |
 | Change the Channel | 0.70% | ~6 |
 | Taking it back | 0.70% | ~6 |
-| Opposing Force | 0.60% | ~5 |
 | The Long Game | 0.60% | ~5 |
 | Explosive Efficiency | 0.60% | ~5 |
 | Close Quarters | 0.60% | ~5 |
@@ -30,16 +30,17 @@ Rating: 4.41 (Ranked 656)
 | Liberté | 0.30% | ~3 |
 | Strategist | 0.30% | ~3 |
 | Sharpshooter | 0.30% | ~3 |
+| Die Nussknacker Sweet! | 0.30% | ~3 |
 | Der Geist | 0.30% | ~3 |
 | Don't hold your breath | 0.30% | ~3 |
 | Sink or Swim | 0.30% | ~2 |
 | Climbing the Ladder | 0.20% | ~2 |
 | No Stone Unturned | 0.20% | ~2 |
-| Die Nussknacker Sweet! | 0.20% | ~2 |
 | Brains of the Operation | 0.20% | ~2 |
 | Last Resort | 0.20% | ~2 |
 | Fields of Glory | 0.10% | ~1 |
 | Rigged to Blow | 0.10% | ~1 |
+| My Little Friend | 0.10% | ~1 |
 | From Paris with Love | 0.10% | ~1 |
 | Burn after reading | 0.10% | ~1 |
 | It'll Buff Right Out | 0.10% | ~1 |
@@ -62,7 +63,6 @@ Rating: 4.41 (Ranked 656)
 | Master-at-arms | 0.00% | ~0 |
 | Set Europe Ablaze | 0.00% | ~0 |
 | Out of Scope | 0.00% | ~0 |
-| My Little Friend | 0.00% | ~0 |
 | Souvenir hunter | 0.00% | ~0 |
 | Eagle Eyed | 0.00% | ~0 |
 | Tinkerer | 0.00% | ~0 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 656)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 860 (Ranked 170)  
+Progressed: 864 (Ranked 170)  
 Completed: 2 (0.23%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 2 (0.23%) (Ranked 136)
 | 2023-05-17 | 728 | 2 |
 | 2023-05-18 | 743 | 2 |
 | 2023-05-19 | 833 | 2 |
-| 2023-05-20 | 860 | 2 |
+| 2023-05-20 | 864 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

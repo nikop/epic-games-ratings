@@ -4,18 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Newbie | 75.00% | ~52 |
-| Better than cake | 12.00% | ~8 |
-| No brakes | 12.00% | ~8 |
-| Photo shoot | 7.00% | ~5 |
-| Wannabe | 6.00% | ~4 |
-| First taste | 4.00% | ~3 |
-| Amateur hitchhiker | 4.00% | ~3 |
+| Newbie | 76.00% | ~54 |
+| Better than cake | 14.00% | ~10 |
+| No brakes | 13.00% | ~9 |
+| Photo shoot | 8.00% | ~6 |
+| Wannabe | 7.00% | ~5 |
+| First taste | 6.00% | ~4 |
+| Amateur hitchhiker | 6.00% | ~4 |
 | Loyalty | 1.00% | ~1 |
 | Hero | 1.00% | ~1 |
 | Mr. Whiting | 1.00% | ~1 |
 | Shepherd | 1.00% | ~1 |
+| Hattrick | 1.00% | ~1 |
 | Tutorial master | 1.00% | ~1 |
+| Weatherman | 1.00% | ~1 |
 | Pro photo shoot | 0.00% | ~0 |
 | Standing tall Pro | 0.00% | ~0 |
 | Standing tall Master | 0.00% | ~0 |
@@ -97,7 +99,6 @@
 | Reliability expert | 0.00% | ~0 |
 | Zero to hero | 0.00% | ~0 |
 | Partners for life | 0.00% | ~0 |
-| Hattrick | 0.00% | ~0 |
 | Amateur top qualifier | 0.00% | ~0 |
 | Pro top qualifier | 0.00% | ~0 |
 | Master top qualifier | 0.00% | ~0 |
@@ -145,7 +146,6 @@
 | First Pro taste | 0.00% | ~0 |
 | First Master taste | 0.00% | ~0 |
 | First Elite taste | 0.00% | ~0 |
-| Weatherman | 0.00% | ~0 |
 | Salesman | 0.00% | ~0 |
 | Heavy duty | 0.00% | ~0 |
 | Among gods | 0.00% | ~0 |
@@ -167,7 +167,7 @@
 | Standing tall | 0.00% | ~0 |
 | Standing tall Amateur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 69 (Ranked 273)  
+Progressed: 71 (Ranked 272)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,4 +181,4 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-17 | 49 | 0 |
 | 2023-05-18 | 51 | 0 |
 | 2023-05-19 | 68 | 0 |
-| 2023-05-20 | 69 | 0 |
+| 2023-05-20 | 71 | 0 |

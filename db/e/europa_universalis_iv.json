@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -4930,10 +4930,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 43472,
       "NumberOfAwardsMax": 5242
+    },
+    {
+      "Time": "2023-05-20T06:57:23.3663477+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 43486,
+      "NumberOfAwardsMax": 5242
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43472,
+  "NumberOfAwards": 43486,
   "NumberOfAwardsMax": 5242,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -4977,7 +4983,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 4714
+      "Count": 4728
     },
     {
       "Text": "This game is Relaxing",
@@ -5004,9 +5010,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 40098,
+  "EOS_Progressed": 40114,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4835,
+  "EOS_NewPlayers": 4821,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7894,6 +7900,11 @@
       "Time": "2023-05-20T06:06:52.310519+00:00",
       "NumProgressed": 40098,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T07:06:45.7469255+00:00",
+      "NumProgressed": 40114,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -8049,7 +8060,7 @@
       "Name": "All belongs to Mother Russia",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "achievement_all_blue",
@@ -8145,7 +8156,7 @@
       "Name": "At every continent",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "achievement_atwix_legacy",
@@ -8345,7 +8356,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2406
+      "UsersEstimate": 2407
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -8425,7 +8436,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1604
+      "UsersEstimate": 1605
     },
     {
       "ID": "achievement_colonial_management",
@@ -8601,7 +8612,7 @@
       "Name": "Early-Modern Warfare",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "achievement_eat_your_greens",
@@ -8617,7 +8628,7 @@
       "Name": "Electable!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "achievement_emperor_of_hindustan",
@@ -8737,7 +8748,7 @@
       "Name": "For the Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2005
+      "UsersEstimate": 2006
     },
     {
       "ID": "achievement_forever_golden",
@@ -8905,7 +8916,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3208
+      "UsersEstimate": 3209
     },
     {
       "ID": "achievement_grand_coalition",
@@ -8929,7 +8940,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2406
+      "UsersEstimate": 2407
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -9617,7 +9628,7 @@
       "Name": "One Family to Rule them All",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "achievement_one_king_to_rule",
@@ -9905,7 +9916,7 @@
       "Name": "Seriously?!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2406
+      "UsersEstimate": 2407
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -10185,7 +10196,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3208
+      "UsersEstimate": 3209
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -10305,7 +10316,7 @@
       "Name": "The pen is mightier than the sword",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "achievement_the_pheasant_strut",
@@ -10497,7 +10508,7 @@
       "Name": "True Catholic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1604
+      "UsersEstimate": 1605
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -10569,7 +10580,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3609
+      "UsersEstimate": 3610
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -10601,7 +10612,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3208
+      "UsersEstimate": 3209
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -10736,21 +10747,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 40098,
+      "Progressed": 40114,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 40098,
+      "Progressed": 40114,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-05-19T21:57:00.0605674+00:00",
-  "LastChanged_Achievements": "2023-05-20T06:06:52.3105185+00:00",
+  "LastChanged": "2023-05-20T06:57:23.3663475+00:00",
+  "LastChanged_Achievements": "2023-05-20T07:06:45.7469252+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:06.3042546+00:00",
-  "LastUpdate_Ratings": "2023-05-20T05:57:19.3265705+00:00",
-  "LastUpdate_Achievements": "2023-05-20T06:06:52.311538+00:00"
+  "LastUpdate_Ratings": "2023-05-20T06:57:23.3663481+00:00",
+  "LastUpdate_Achievements": "2023-05-20T07:06:45.7479303+00:00"
 }

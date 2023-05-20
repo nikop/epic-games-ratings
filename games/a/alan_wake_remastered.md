@@ -22,7 +22,7 @@ Number of Ratings: 524  (23.09.2022)
 | Sound and Fury | 8.00% | ~3,714 |
 | Missed by a Mile | 8.00% | ~3,714 |
 | Damn Good Cup of Coffee | 8.00% | ~3,714 |
-| A Friend in Need | 8.00% | ~791 |
+| A Friend in Need | 8.00% | ~792 |
 | Heavy Metal | 7.00% | ~3,250 |
 | Iron Horse | 7.00% | ~3,250 |
 | Perchance to Dream | 7.00% | ~3,250 |
@@ -30,11 +30,11 @@ Number of Ratings: 524  (23.09.2022)
 | Thunder and Lightning | 7.00% | ~3,250 |
 | Collateral Carnage | 7.00% | ~3,250 |
 | Come One, Come All | 7.00% | ~3,250 |
-| Gatekeeper | 6.00% | ~2,785 |
-| The Lady of the Light | 6.00% | ~2,785 |
-| Two For the Price of One | 6.00% | ~2,785 |
-| Energized! | 6.00% | ~2,785 |
-| A Friend Indeed | 6.00% | ~593 |
+| Gatekeeper | 6.00% | ~2,786 |
+| The Lady of the Light | 6.00% | ~2,786 |
+| Two For the Price of One | 6.00% | ~2,786 |
+| Energized! | 6.00% | ~2,786 |
+| A Friend Indeed | 6.00% | ~594 |
 | Tornado Wrangler | 5.00% | ~2,321 |
 | What Light Through Yonder Window | 5.00% | ~2,321 |
 | Right of Way | 5.00% | ~2,321 |
@@ -47,8 +47,8 @@ Number of Ratings: 524  (23.09.2022)
 | KBF-FM | 3.00% | ~1,393 |
 | Kill Your Darlings | 3.00% | ~297 |
 | Heartbreaker | 3.00% | ~297 |
-| Boob Tube | 2.00% | ~928 |
-| Carny | 2.00% | ~928 |
+| Boob Tube | 2.00% | ~929 |
+| Carny | 2.00% | ~929 |
 | Iron Will | 2.00% | ~198 |
 | Medical Opinions | 1.00% | ~464 |
 | Taken Season | 1.00% | ~464 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,423 (Ranked 75)  
+Progressed: 46,426 (Ranked 75)  
 Completed: 45 (0.10%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 45 (0.10%) (Ranked 158)
 | 2023-05-17 | 46,208 | 44 |
 | 2023-05-18 | 46,244 | 44 |
 | 2023-05-19 | 46,386 | 45 |
-| 2023-05-20 | 46,423 | 45 |
+| 2023-05-20 | 46,426 | 45 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

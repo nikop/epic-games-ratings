@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -764,9 +764,9 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 7241,
+  "EOS_Progressed": 7243,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1064,6 +1064,11 @@
       "Time": "2023-05-20T06:06:03.1919483+00:00",
       "NumProgressed": 7241,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-20T07:05:56.0175168+00:00",
+      "NumProgressed": 7243,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -1099,7 +1104,7 @@
       "Name": "Focus!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4489
+      "UsersEstimate": 4491
     },
     {
       "ID": "DemonCastleRestoration",
@@ -1139,7 +1144,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1810
+      "UsersEstimate": 1811
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -1155,7 +1160,7 @@
       "Name": "Go Home...",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1810
+      "UsersEstimate": 1811
     },
     {
       "ID": "HeroSlayer",
@@ -1163,7 +1168,7 @@
       "Name": "The Hero Killer",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 1955
+      "UsersEstimate": 1956
     },
     {
       "ID": "LeoniasFall",
@@ -1171,7 +1176,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 2027
+      "UsersEstimate": 2028
     },
     {
       "ID": "LeoniasFall_2",
@@ -1179,7 +1184,7 @@
       "Name": "The Levitator",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "Manners",
@@ -1187,7 +1192,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2825
     },
     {
       "ID": "RookieWelcome",
@@ -1195,7 +1200,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "SavedElderEnt",
@@ -1203,7 +1208,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4489
+      "UsersEstimate": 4491
     },
     {
       "ID": "SavedElderEnt_2",
@@ -1235,7 +1240,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 6734
+      "UsersEstimate": 6736
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -1243,7 +1248,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 3331
+      "UsersEstimate": 3332
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -1259,22 +1264,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6010
+      "UsersEstimate": 6012
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7241,
+      "Progressed": 7243,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-05-19T06:59:30.4131127+00:00",
-  "LastChanged_Achievements": "2023-05-20T06:06:03.1919479+00:00",
+  "LastChanged_Achievements": "2023-05-20T07:05:56.0175164+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.259325+00:00",
-  "LastUpdate_Ratings": "2023-05-20T05:59:15.0807692+00:00",
-  "LastUpdate_Achievements": "2023-05-20T06:06:03.1919625+00:00"
+  "LastUpdate_Ratings": "2023-05-20T06:59:19.1095208+00:00",
+  "LastUpdate_Achievements": "2023-05-20T07:05:56.0175318+00:00"
 }

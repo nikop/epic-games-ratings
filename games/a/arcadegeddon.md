@@ -6,29 +6,29 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~5,913 |
-| Photogenic | 87.00% | ~5,653 |
-| Surge Gauntlet Jockey | 85.00% | ~5,523 |
-| Plug It In | 84.00% | ~5,458 |
-| Adventure Time | 80.00% | ~5,198 |
-| Playing With Power | 77.00% | ~5,003 |
-| Coup d'Etat | 58.00% | ~3,769 |
-| You're Fired | 58.00% | ~3,769 |
-| Get Furious | 55.00% | ~3,574 |
-| Gunplay And Cosplay | 55.00% | ~3,574 |
-| Hacks In Stacks | 54.00% | ~3,509 |
-| Meching Enemies | 48.00% | ~3,119 |
-| Ticket Toddler | 47.00% | ~3,054 |
-| Booty Bashing | 46.00% | ~2,989 |
-| Field Medic | 37.00% | ~2,404 |
-| Here Comes a New Challenger | 37.00% | ~2,404 |
-| Guardian Angel | 33.00% | ~2,144 |
-| Rapid Response | 32.00% | ~2,079 |
-| Surge Ahead | 31.00% | ~2,014 |
-| The Full Monty | 31.00% | ~2,014 |
-| Poppin Noggins | 25.00% | ~1,624 |
-| Clips and Crits | 23.00% | ~1,495 |
-| Grey Goo | 20.00% | ~1,300 |
+| Let's Get This Party Started | 91.00% | ~5,918 |
+| Photogenic | 87.00% | ~5,658 |
+| Surge Gauntlet Jockey | 85.00% | ~5,528 |
+| Plug It In | 84.00% | ~5,463 |
+| Adventure Time | 80.00% | ~5,202 |
+| Playing With Power | 77.00% | ~5,007 |
+| Coup d'Etat | 58.00% | ~3,772 |
+| You're Fired | 58.00% | ~3,772 |
+| Get Furious | 55.00% | ~3,577 |
+| Gunplay And Cosplay | 55.00% | ~3,577 |
+| Hacks In Stacks | 54.00% | ~3,512 |
+| Meching Enemies | 48.00% | ~3,121 |
+| Ticket Toddler | 47.00% | ~3,056 |
+| Booty Bashing | 46.00% | ~2,991 |
+| Field Medic | 37.00% | ~2,406 |
+| Here Comes a New Challenger | 37.00% | ~2,406 |
+| Guardian Angel | 33.00% | ~2,146 |
+| Rapid Response | 32.00% | ~2,081 |
+| Surge Ahead | 31.00% | ~2,016 |
+| The Full Monty | 31.00% | ~2,016 |
+| Poppin Noggins | 25.00% | ~1,626 |
+| Clips and Crits | 23.00% | ~1,496 |
+| Grey Goo | 20.00% | ~1,301 |
 | Boss of Bosses | 15.00% | ~975 |
 | The Final Blow | 15.00% | ~975 |
 | Light My Fire | 14.00% | ~910 |
@@ -52,12 +52,12 @@ Number of Ratings: 801  (23.09.2022)
 | Everybody Freeze | 1.00% | ~65 |
 | Nature Is Lit | 1.00% | ~65 |
 | The Collector | 1.00% | ~65 |
-| Shield and Shred | 0.70% | ~45 |
-| I'm The Pluggernaut | 0.50% | ~32 |
-| Infinite Adventures! | 0.50% | ~32 |
+| Shield and Shred | 0.70% | ~46 |
+| I'm The Pluggernaut | 0.50% | ~33 |
+| Infinite Adventures! | 0.50% | ~33 |
 | Pyrotechnical | 0.20% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,498 (Ranked 113)  
+Progressed: 6,503 (Ranked 113)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-17 | 6,416 | 0 |
 | 2023-05-18 | 6,438 | 0 |
 | 2023-05-19 | 6,488 | 0 |
-| 2023-05-20 | 6,498 | 0 |
+| 2023-05-20 | 6,503 | 0 |
 ## Awards
 Max (Relaxing): 62  (Ranked 374)  
 Sum: 484 (Ranked 292)  
