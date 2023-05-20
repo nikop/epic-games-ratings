@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -72,9 +72,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 584,
+  "EOS_Progressed": 585,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -131,6 +131,11 @@
     {
       "Time": "2023-05-20T00:05:17.7134192+00:00",
       "NumProgressed": 584,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T10:05:04.025607+00:00",
+      "NumProgressed": 585,
       "NumCompleted": 0
     }
   ],
@@ -191,7 +196,7 @@
       "Name": "Fetch Quest Complete",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "AhoyTrophy",
@@ -215,7 +220,7 @@
       "Name": "Goal",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "AllUpgrdTrophy",
@@ -287,7 +292,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "Ext4Trophy",
@@ -423,7 +428,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "MaxPriceTrophy",
@@ -461,9 +466,9 @@
       "ID": "PlungeTrophy",
       "SetID": "32aeje8",
       "Name": "Taking the plunge",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 70
     },
     {
       "ID": "RacerTrophy",
@@ -511,7 +516,7 @@
       "Name": "Swish",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "TerrorTrophy",
@@ -574,7 +579,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 584,
+      "Progressed": 585,
       "Completed": 0
     }
   ],
@@ -582,8 +587,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-03-31T05:57:16.243609+00:00",
-  "LastChanged_Achievements": "2023-05-20T09:05:02.4554201+00:00",
+  "LastChanged_Achievements": "2023-05-20T10:05:04.0256064+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:47.3233337+00:00",
-  "LastUpdate_Ratings": "2023-05-20T08:57:49.8696129+00:00",
-  "LastUpdate_Achievements": "2023-05-20T09:05:02.4554565+00:00"
+  "LastUpdate_Ratings": "2023-05-20T09:57:55.3874999+00:00",
+  "LastUpdate_Achievements": "2023-05-20T10:05:04.025656+00:00"
 }

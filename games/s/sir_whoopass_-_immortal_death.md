@@ -12,32 +12,35 @@
 | Up and down | 55.00% | ~6 |
 | Not so hip anymore! | 55.00% | ~6 |
 | Blurry depth perception | 55.00% | ~6 |
+| Oh, you're up to no gouda! | 45.00% | ~5 |
 | Rolling, Rolling, Rolling | 45.00% | ~5 |
 | AHHHHHH.....I'M ON FIRE!!! | 45.00% | ~5 |
 | Nerd | 45.00% | ~5 |
-| Oh, you're up to no gouda! | 36.00% | ~4 |
 | Honk honk! | 36.00% | ~4 |
 | Fire-fighter! | 36.00% | ~4 |
 | Mushroom soup of the day | 36.00% | ~4 |
 | Make Love not War-Craft a Mistlefoe | 36.00% | ~4 |
+| You are no match for me, Billy! | 27.00% | ~3 |
 | Make America Grate Again | 27.00% | ~3 |
+| Butcher | 27.00% | ~3 |
 | You're not going to blow me up! | 27.00% | ~3 |
+| My pants squeak when I walk | 27.00% | ~3 |
+| Spare Ribs | 27.00% | ~3 |
 | Cockadoodledoo! | 27.00% | ~3 |
-| You are no match for me, Billy! | 18.00% | ~2 |
-| Butcher | 18.00% | ~2 |
+| Meatballs, coming up! | 18.00% | ~2 |
+| Self assessed tax return | 18.00% | ~2 |
 | Surprise!! | 18.00% | ~2 |
-| My pants squeak when I walk | 18.00% | ~2 |
 | Haemochromatosis | 18.00% | ~2 |
 | Thats disgusting! | 18.00% | ~2 |
 | Meat grinder | 18.00% | ~2 |
-| Spare Ribs | 18.00% | ~2 |
+| Pasta Bolognese | 18.00% | ~2 |
 | Spoiler alert! | 9.00% | ~1 |
-| Meatballs, coming up! | 9.00% | ~1 |
 | A Megapint...? | 9.00% | ~1 |
-| Self assessed tax return | 9.00% | ~1 |
 | Ripe Meat Off The Bone! | 9.00% | ~1 |
 | Karaoke king | 9.00% | ~1 |
-| Pasta Bolognese | 9.00% | ~1 |
+| You can't stop me, bro! | 9.00% | ~1 |
+| Another one bites the iron | 9.00% | ~1 |
+| Hovering around | 9.00% | ~1 |
 | You're not so Big anymore, Boi! | 0.00% | ~0 |
 | You're looking mozzare-hella good! | 0.00% | ~0 |
 | Fifty Shades of Gruyere | 0.00% | ~0 |
@@ -75,13 +78,10 @@
 | Scrambled Eggs | 0.00% | ~0 |
 | European karaoke king | 0.00% | ~0 |
 | I cant stand still! | 0.00% | ~0 |
-| You can't stop me, bro! | 0.00% | ~0 |
 | I've got the power | 0.00% | ~0 |
 | Catch me if you can | 0.00% | ~0 |
 | I'm feeling lucky! | 0.00% | ~0 |
 | Better safe than sorry - use protection | 0.00% | ~0 |
-| Another one bites the iron | 0.00% | ~0 |
-| Hovering around | 0.00% | ~0 |
 | Kleptomaniac | 0.00% | ~0 |
 | Free Of Chains | 0.00% | ~0 |
 | Out of bounds | 0.00% | ~0 |

@@ -10,7 +10,7 @@
 | Baited | 72.00% | ~21 |
 | Splash! | 66.00% | ~19 |
 | "Swoosh" | 59.00% | ~17 |
-| The light at the end of the tunnel | 55.00% | ~16 |
+| The light at the end of the tunnel | 59.00% | ~17 |
 | Masochistic | 45.00% | ~13 |
 | Sensitive soul | 41.00% | ~12 |
 | Soft skin | 38.00% | ~11 |

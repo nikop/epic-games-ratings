@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15325,
+  "EOS_Progressed": 15326,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -927,6 +927,11 @@
       "Time": "2023-05-20T09:05:18.6747295+00:00",
       "NumProgressed": 15325,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T10:05:19.7556887+00:00",
+      "NumProgressed": 15326,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -938,7 +943,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 14559
+      "UsersEstimate": 14560
     },
     {
       "ID": "ACH001",
@@ -946,7 +951,7 @@
       "Name": "Personal Matter",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 13333
+      "UsersEstimate": 13334
     },
     {
       "ID": "ACH0010",
@@ -962,7 +967,7 @@
       "Name": "After All, Why Shouldn\u0027t I Keep It?",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACH0012",
@@ -1034,7 +1039,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 11034
+      "UsersEstimate": 11035
     },
     {
       "ID": "ACH0020",
@@ -1050,7 +1055,7 @@
       "Name": "A True Dandy",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACH0022",
@@ -1058,7 +1063,7 @@
       "Name": "House Party!",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 5057
+      "UsersEstimate": 5058
     },
     {
       "ID": "ACH0023",
@@ -1098,7 +1103,7 @@
       "Name": "No Half Measures",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 13486
+      "UsersEstimate": 13487
     },
     {
       "ID": "ACH005",
@@ -1114,7 +1119,7 @@
       "Name": "... And Where Do the Stories Come From?",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 6283
+      "UsersEstimate": 6284
     },
     {
       "ID": "ACH007",
@@ -1145,7 +1150,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 15325,
+      "Progressed": 15326,
       "Completed": 0
     }
   ],
@@ -1153,8 +1158,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-05-09T21:01:06.0893897+00:00",
-  "LastChanged_Achievements": "2023-05-20T09:05:18.674729+00:00",
+  "LastChanged_Achievements": "2023-05-20T10:05:19.7556881+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:17.69203+00:00",
-  "LastUpdate_Ratings": "2023-05-20T08:59:42.9619118+00:00",
-  "LastUpdate_Achievements": "2023-05-20T09:05:18.6747483+00:00"
+  "LastUpdate_Ratings": "2023-05-20T09:59:42.3275407+00:00",
+  "LastUpdate_Achievements": "2023-05-20T10:05:19.7557113+00:00"
 }

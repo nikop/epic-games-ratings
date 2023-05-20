@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2687,
+  "EOS_Progressed": 2691,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1024,6 +1024,11 @@
       "Time": "2023-05-20T08:07:06.9734272+00:00",
       "NumProgressed": 2687,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-20T10:05:19.9587479+00:00",
+      "NumProgressed": 2691,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1033,9 +1038,9 @@
       "ID": "bonus1",
       "SetID": "2h56gn1",
       "Name": "All Ovens Blazing",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 376
+      "UsersEstimate": 350
     },
     {
       "ID": "bonus2",
@@ -1051,7 +1056,7 @@
       "Name": "Your Biggest Fans",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "bonus4",
@@ -1083,7 +1088,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2418
+      "UsersEstimate": 2422
     },
     {
       "ID": "campaign10",
@@ -1099,7 +1104,7 @@
       "Name": "Reinforcements",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "campaign12",
@@ -1155,7 +1160,7 @@
       "Name": "Sweet Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "campaign19",
@@ -1163,7 +1168,7 @@
       "Name": "An Ally in Need",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "campaign2",
@@ -1171,7 +1176,7 @@
       "Name": "Flanked!",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 2123
+      "UsersEstimate": 2126
     },
     {
       "ID": "campaign20",
@@ -1179,23 +1184,23 @@
       "Name": "For the Queen",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "campaign3",
       "SetID": "2h56gn1",
       "Name": "Economics 101",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1773
+      "UsersEstimate": 1749
     },
     {
       "ID": "campaign4",
       "SetID": "2h56gn1",
       "Name": "Get Rich Quick",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1263
+      "UsersEstimate": 1292
     },
     {
       "ID": "campaign5",
@@ -1211,7 +1216,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "campaign7",
@@ -1219,7 +1224,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "campaign8",
@@ -1227,7 +1232,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "campaign9",
@@ -1235,7 +1240,7 @@
       "Name": "Boulder Clash",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "scenario1",
@@ -1243,7 +1248,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1103
     },
     {
       "ID": "scenario2",
@@ -1259,7 +1264,7 @@
       "Name": "Not a Drop Wasted",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "scenario4",
@@ -1275,7 +1280,7 @@
       "Name": "We Have the Technology",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "scenario6",
@@ -1283,7 +1288,7 @@
       "Name": "Figure of Breach",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "scenario7",
@@ -1298,7 +1303,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2687,
+      "Progressed": 2691,
       "Completed": 9
     }
   ],
@@ -1306,8 +1311,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-20T09:05:18.8887514+00:00",
+  "LastChanged_Achievements": "2023-05-20T10:05:19.9587471+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:08.6918917+00:00",
-  "LastUpdate_Ratings": "2023-05-20T08:59:41.3306617+00:00",
-  "LastUpdate_Achievements": "2023-05-20T09:05:18.8887749+00:00"
+  "LastUpdate_Ratings": "2023-05-20T09:59:40.8699763+00:00",
+  "LastUpdate_Achievements": "2023-05-20T10:05:19.9587787+00:00"
 }

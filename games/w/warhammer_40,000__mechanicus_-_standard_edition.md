@@ -73,7 +73,7 @@ Completed: 2 (0.00%) (Ranked 201)
 | 2023-05-20 | 210,422 | 2 |
 ## Awards
 Max (Highly Recommended): 277  (Ranked 229)  
-Sum: 2,094 (Ranked 182)  
+Sum: 2,095 (Ranked 182)  
 Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
@@ -82,7 +82,7 @@ Diff (max vs sum): 47
 | This game is Extremely Fun | 267 |
 | This game has Amazing Characters | 254 |
 | This game has Diverse Characters | 252 |
-| This game has Amazing Storytelling | 240 |
+| This game has Amazing Storytelling | 241 |
 | This game is Relaxing | 234 |
 | This game has Unique Visuals | 204 |
 | This game has a Creative Community | 96 |
@@ -117,3 +117,4 @@ Diff (max vs sum): 47
 | 2023-05-07 | 4.43 | 277 | 2,092 |
 | 2023-05-11 | 4.43 | 277 | 2,093 |
 | 2023-05-15 | 4.43 | 277 | 2,094 |
+| 2023-05-20 | 4.43 | 277 | 2,095 |

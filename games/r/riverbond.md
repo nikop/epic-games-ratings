@@ -7,11 +7,11 @@ Number of Ratings: 617  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 70.00% | ~361,826 |
-| Now You're Talking | 62.00% | ~320,474 |
-| Steel Yourself | 62.00% | ~320,474 |
-| Window Dressing | 50.00% | ~258,447 |
-| Trigger Happy | 46.00% | ~237,771 |
-| Riverborn | 45.00% | ~232,602 |
+| Now You're Talking | 62.00% | ~320,475 |
+| Steel Yourself | 62.00% | ~320,475 |
+| Window Dressing | 50.00% | ~258,448 |
+| Trigger Happy | 46.00% | ~237,772 |
+| Riverborn | 45.00% | ~232,603 |
 | Starry Eyed | 34.00% | ~175,744 |
 | Poking Around | 34.00% | ~175,744 |
 | Talk of the Town | 24.00% | ~124,055 |
@@ -26,10 +26,10 @@ Number of Ratings: 617  (23.09.2022)
 | Keep On Trucking | 13.00% | ~67,196 |
 | Going on an Adventure | 11.00% | ~56,858 |
 | Make Peace, Not War | 11.00% | ~56,858 |
-| Walking The Line | 10.00% | ~51,689 |
-| Not So Cute Anymore | 10.00% | ~51,689 |
-| Road Less Travelled | 9.00% | ~46,520 |
-| Lost and Found | 9.00% | ~46,520 |
+| Walking The Line | 10.00% | ~51,690 |
+| Not So Cute Anymore | 10.00% | ~51,690 |
+| Road Less Travelled | 9.00% | ~46,521 |
+| Lost and Found | 9.00% | ~46,521 |
 | Partner in Crime | 7.00% | ~36,183 |
 | Hard to Hear | 7.00% | ~36,183 |
 | Under the Radar | 7.00% | ~36,183 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,551 |
 | Point Taken | 0.10% | ~517 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 516,894 (Ranked 24)  
+Progressed: 516,895 (Ranked 24)  
 Completed: 408 (0.08%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 408 (0.08%) (Ranked 166)
 | 2023-05-17 | 516,685 | 406 |
 | 2023-05-18 | 516,766 | 406 |
 | 2023-05-19 | 516,860 | 407 |
-| 2023-05-20 | 516,894 | 408 |
+| 2023-05-20 | 516,895 | 408 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

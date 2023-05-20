@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 341,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -410,9 +410,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 12912,
+  "EOS_Progressed": 12925,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 353,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -935,6 +935,11 @@
       "Time": "2023-05-20T09:00:28.9141387+00:00",
       "NumProgressed": 12912,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-20T10:00:27.4203609+00:00",
+      "NumProgressed": 12925,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 40,
@@ -1024,7 +1029,7 @@
       "ID": "FINISH_GAME_HARDCORE",
       "SetID": "6j5ggkc",
       "Name": "Recidivist",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -1218,7 +1223,7 @@
       "Name": "Instigator",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -1234,15 +1239,15 @@
       "Name": "Bear Trap",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "NOSPEND_2ROUNDS",
       "SetID": "6j5ggkc",
       "Name": "Hoard Mode",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "RIOT_10_POWERUPS",
@@ -1256,22 +1261,22 @@
       "ID": "SPEND_20000",
       "SetID": "6j5ggkc",
       "Name": "Big Spender",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 12912,
+      "Progressed": 12925,
       "Completed": 51
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 838,
+      "Progressed": 851,
       "Completed": 29
     }
   ],
@@ -1279,8 +1284,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-16T17:57:38.030273+00:00",
-  "LastChanged_Achievements": "2023-05-20T09:00:28.9141383+00:00",
+  "LastChanged_Achievements": "2023-05-20T10:00:27.4203601+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-20T08:57:28.9706453+00:00",
-  "LastUpdate_Achievements": "2023-05-20T09:00:28.9143423+00:00"
+  "LastUpdate_Ratings": "2023-05-20T09:57:32.8768115+00:00",
+  "LastUpdate_Achievements": "2023-05-20T10:00:27.4204013+00:00"
 }

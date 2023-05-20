@@ -4,7 +4,7 @@
   "ProductSlug": "the-outlast-trials",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-05-18T17:00:00+00:00",
@@ -29,6 +29,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-18T20:02:29.2906541+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:52.7452003+00:00",
-  "LastUpdate_Ratings": "2023-05-20T09:00:01.8359198+00:00",
-  "LastUpdate_Achievements": "2023-05-20T09:04:37.0652839+00:00"
+  "LastUpdate_Ratings": "2023-05-20T10:00:01.8607422+00:00",
+  "LastUpdate_Achievements": "2023-05-20T10:04:39.4060058+00:00"
 }

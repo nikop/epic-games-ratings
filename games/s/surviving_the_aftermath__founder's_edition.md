@@ -6,28 +6,28 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~3,832 |
-| Leader | 60.00% | ~3,285 |
+| First Step | 70.00% | ~3,833 |
+| Leader | 60.00% | ~3,286 |
 | Explorer | 53.00% | ~2,902 |
 | Healer | 53.00% | ~2,902 |
 | Aspiring Inventor | 44.00% | ~2,409 |
 | Adventurer | 41.00% | ~2,245 |
-| Famous Healer | 38.00% | ~2,080 |
-| Local Leader | 35.00% | ~1,916 |
+| Famous Healer | 38.00% | ~2,081 |
+| Local Leader | 35.00% | ~1,917 |
 | New Opportunities | 34.00% | ~1,862 |
 | Famous Explorer | 33.00% | ~1,807 |
 | Energized | 33.00% | ~1,807 |
 | The Long Haul | 33.00% | ~1,807 |
-| Survivor | 31.00% | ~1,697 |
-| The Great Healer | 30.00% | ~1,642 |
+| Survivor | 31.00% | ~1,698 |
+| The Great Healer | 30.00% | ~1,643 |
 | Cleaner | 28.00% | ~1,533 |
 | Catastrofan | 28.00% | ~1,533 |
-| Legendary Explorer | 27.00% | ~1,478 |
+| Legendary Explorer | 27.00% | ~1,479 |
 | Finders, Keepers | 25.00% | ~1,369 |
 | Top Notch | 24.00% | ~1,314 |
-| Great Leader | 22.00% | ~1,204 |
-| Ice Lakes | 22.00% | ~1,204 |
-| Mentor | 22.00% | ~1,204 |
+| Great Leader | 22.00% | ~1,205 |
+| Ice Lakes | 22.00% | ~1,205 |
+| Mentor | 22.00% | ~1,205 |
 | Merchant | 21.00% | ~1,150 |
 | Real Survivor | 21.00% | ~1,150 |
 | War Never Changes | 19.00% | ~1,040 |
@@ -45,8 +45,8 @@ Number of Ratings: 836  (23.09.2022)
 | Trader | 8.00% | ~438 |
 | Bread and Circuses | 7.00% | ~383 |
 | Tailored to fit | 7.00% | ~383 |
-| Really Friendly | 6.00% | ~328 |
-| New Eden | 6.00% | ~328 |
+| Really Friendly | 6.00% | ~329 |
+| New Eden | 6.00% | ~329 |
 | Amped Up | 5.00% | ~274 |
 | Luxurious Living | 4.00% | ~219 |
 | Look, no Hands! | 4.00% | ~219 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Finnished | 0.20% | ~11 |
 | Customized calamities | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,475 (Ranked 120)  
+Progressed: 5,476 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-17 | 5,386 | 0 |
 | 2023-05-18 | 5,417 | 0 |
 | 2023-05-19 | 5,457 | 0 |
-| 2023-05-20 | 5,475 | 0 |
+| 2023-05-20 | 5,476 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 325)  
 Sum: 652 (Ranked 270)  

@@ -1,7 +1,7 @@
 # STAR WARS Jedi: Survivor™
 [Store](https://store.epicgames.com/en-US/p/star-wars-jedi-survivor)  
 [View Rawdata](../../db/s/star_wars_jedi__survivor™.json)  
-Rating: 4.40 (Ranked 673)  
+Rating: 4.41 (Ranked 656)  
 ## Awards
 Max (Great Boss Battles): 772  (Ranked 147)  
 Sum: 932 (Ranked 233)  
@@ -41,4 +41,4 @@ Diff (max vs sum): -86
 | 2023-05-17 | 4.40 | 696 | 804 |
 | 2023-05-18 | 4.40 | 732 | 844 |
 | 2023-05-19 | 4.40 | 772 | 905 |
-| 2023-05-20 | 4.40 | 772 | 932 |
+| 2023-05-20 | 4.41 | 772 | 932 |

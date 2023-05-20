@@ -2,9 +2,9 @@
   "ID": "25163a0f3c9d47d38afe753d53fd27bb",
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
-  "Ranking_EOS_Progress": 234,
-  "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_Progress": 233,
+  "Ranking_EOS_Completed": 39,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 167,
+  "EOS_Progressed": 171,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 3.59,
+  "EOS_Completed_Percentage": 3.51,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -236,6 +236,11 @@
       "Time": "2023-05-20T09:00:12.151423+00:00",
       "NumProgressed": 167,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-20T10:00:11.1376872+00:00",
+      "NumProgressed": 171,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -247,7 +252,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 164
     },
     {
       "ID": "LEVEL_002",
@@ -255,7 +260,7 @@
       "Name": "Promising crop",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 137
     },
     {
       "ID": "LEVEL_003",
@@ -263,21 +268,21 @@
       "Name": "A horse in the country",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 111
     },
     {
       "ID": "LEVEL_004",
       "SetID": "212bg48",
       "Name": "Life is better at the lake",
-      "Percentage": 53,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 87
     },
     {
       "ID": "LEVEL_005",
       "SetID": "212bg48",
       "Name": "Small village",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
       "UsersEstimate": 67
     },
@@ -285,7 +290,7 @@
       "ID": "LEVEL_006",
       "SetID": "212bg48",
       "Name": "Nothing like fresh food",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
       "UsersEstimate": 58
     },
@@ -293,7 +298,7 @@
       "ID": "LEVEL_007",
       "SetID": "212bg48",
       "Name": "Animals in the farm",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
       "UsersEstimate": 53
     },
@@ -303,15 +308,15 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "LEVEL_009",
       "SetID": "212bg48",
       "Name": "Going zig zag",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "LEVEL_010",
@@ -319,7 +324,7 @@
       "Name": "Rocks around the island",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "LEVEL_011",
@@ -333,25 +338,25 @@
       "ID": "LEVEL_012",
       "SetID": "212bg48",
       "Name": "Vegetables on rails",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "LEVEL_013",
       "SetID": "212bg48",
       "Name": "Higher ground",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 22
     },
     {
       "ID": "LEVEL_014",
       "SetID": "212bg48",
       "Name": "Cross-country",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 21
     },
     {
       "ID": "LEVEL_015",
@@ -359,7 +364,7 @@
       "Name": "Flatland",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "LEVEL_016",
@@ -381,9 +386,9 @@
       "ID": "LEVEL_018",
       "SetID": "212bg48",
       "Name": "Isle rock city",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "LEVEL_019",
@@ -399,7 +404,7 @@
       "Name": "Go round and round",
       "Percentage": 8,
       "XP": 110,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "LEVEL_021",
@@ -423,7 +428,7 @@
       "Name": "Flowing from high ground",
       "Percentage": 5,
       "XP": 55,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "LEVEL_024",
@@ -486,14 +491,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 167,
+      "Progressed": 171,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-20T09:00:12.1514226+00:00",
+  "LastChanged_Achievements": "2023-05-20T10:00:11.1376867+00:00",
   "LastUpdate_AppInfo": "2023-05-15T11:57:23.4437098+00:00",
-  "LastUpdate_Ratings": "2023-05-20T08:56:46.6850635+00:00",
-  "LastUpdate_Achievements": "2023-05-20T09:00:12.1514459+00:00"
+  "LastUpdate_Ratings": "2023-05-20T09:56:52.6354167+00:00",
+  "LastUpdate_Achievements": "2023-05-20T10:00:11.1377109+00:00"
 }

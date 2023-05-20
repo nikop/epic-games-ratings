@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
@@ -265,9 +265,9 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 708,
+  "EOS_Progressed": 709,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -334,6 +334,11 @@
     {
       "Time": "2023-05-20T09:05:04.9830633+00:00",
       "NumProgressed": 708,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-20T10:05:06.6145886+00:00",
+      "NumProgressed": 709,
       "NumCompleted": 1
     }
   ],
@@ -474,7 +479,7 @@
       "Name": "Dealmaker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "AchievementDigitalAge_NAME",
@@ -682,7 +687,7 @@
       "Name": "Miner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AchievementMiscalculation",
@@ -754,7 +759,7 @@
       "Name": "Pink Ruby",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AchievementPrickOfConscience",
@@ -810,7 +815,7 @@
       "Name": "Star Sapphire",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AchievementStargazer",
@@ -874,7 +879,7 @@
       "Name": "Trapiche Emerald",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AchievementUpgradeComplete",
@@ -945,21 +950,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 49,
+      "Progressed": 50,
       "Completed": 6
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 708,
+      "Progressed": 709,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-05-04T07:57:22.9551284+00:00",
-  "LastChanged_Achievements": "2023-05-20T09:05:04.9830631+00:00",
+  "LastChanged_Achievements": "2023-05-20T10:05:06.6145878+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:00.6806293+00:00",
-  "LastUpdate_Ratings": "2023-05-20T08:57:09.9031011+00:00",
-  "LastUpdate_Achievements": "2023-05-20T09:05:04.9831221+00:00"
+  "LastUpdate_Ratings": "2023-05-20T09:57:14.4675704+00:00",
+  "LastUpdate_Achievements": "2023-05-20T10:05:06.6146677+00:00"
 }

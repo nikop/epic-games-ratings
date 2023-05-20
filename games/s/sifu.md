@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~523 |
+| Diligence as a goal | 4.00% | ~524 |
 | Project Arena | 3.00% | ~393 |
 | Bloody Sport | 1.00% | ~131 |
 | Qi Gong: Breath | 0.90% | ~6,334 |
@@ -17,15 +17,15 @@ Number of Ratings: 9,492  (23.09.2022)
 | State of constant learning | 0.80% | ~5,630 |
 | Path of the Prospect | 0.80% | ~5,630 |
 | Rumble in the Hangar | 0.80% | ~5,630 |
-| The Old Grandmaster | 0.70% | ~4,926 |
-| The Assault | 0.70% | ~4,926 |
-| Furious Fists | 0.70% | ~4,926 |
-| Kill Nil | 0.70% | ~4,926 |
-| Street Fighting | 0.70% | ~4,926 |
-| Life is your teacher | 0.70% | ~4,926 |
-| Qi Gong: Essence | 0.70% | ~4,926 |
-| Lightning Hands | 0.70% | ~4,926 |
-| Take damage to save time | 0.70% | ~4,926 |
+| The Old Grandmaster | 0.70% | ~4,927 |
+| The Assault | 0.70% | ~4,927 |
+| Furious Fists | 0.70% | ~4,927 |
+| Kill Nil | 0.70% | ~4,927 |
+| Street Fighting | 0.70% | ~4,927 |
+| Life is your teacher | 0.70% | ~4,927 |
+| Qi Gong: Essence | 0.70% | ~4,927 |
+| Lightning Hands | 0.70% | ~4,927 |
+| Take damage to save time | 0.70% | ~4,927 |
 | Scareless | 0.60% | ~4,223 |
 | Stuntmaster | 0.60% | ~4,223 |
 | Old Child | 0.60% | ~4,223 |
@@ -33,7 +33,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Deadly Venom | 0.60% | ~79 |
 | Dance of the Praying Mantis | 0.50% | ~3,519 |
 | Qi Gong: Mind | 0.50% | ~3,519 |
-| A Touch of Acumen | 0.50% | ~65 |
+| A Touch of Acumen | 0.50% | ~66 |
 | Muk Yan Master | 0.40% | ~2,815 |
 | Tiger on Fire | 0.40% | ~2,815 |
 | Source of Flying Daggers | 0.40% | ~2,815 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~704 |
 | Warriors from the Mountain | 0.10% | ~704 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703,785 (Ranked 15)  
+Progressed: 703,809 (Ranked 15)  
 Completed: 12,731 (1.81%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 12,731 (1.81%) (Ranked 65)
 | 2023-05-17 | 703,009 | 12,730 |
 | 2023-05-18 | 703,070 | 12,731 |
 | 2023-05-19 | 703,575 | 12,731 |
-| 2023-05-20 | 703,785 | 12,731 |
+| 2023-05-20 | 703,809 | 12,731 |
 ## Awards
 Max (Great Boss Battles): 6,075  (Ranked 53)  
 Sum: 10,336 (Ranked 77)  
