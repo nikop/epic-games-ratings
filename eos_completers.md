@@ -23,17 +23,17 @@
 | 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.97% |
 | 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.66% |
 | 23 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 7.14% |
-| 24 | [Scorn](games/s/scorn.md) | 7.01% |
+| 24 | [Scorn](games/s/scorn.md) | 7.00% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 6.62% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
-| 27 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.81% |
-| 28 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
+| 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
+| 28 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.75% |
 | 29 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.97% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.96% |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 32 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.55% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.46% |
-| 34 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.06% |
+| 34 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.05% |
 | 35 | [Doodle God](games/d/doodle_god.md) | 3.92% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
 | 37 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
@@ -44,21 +44,21 @@
 | 42 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
 | 42 | [ZZT!](games/z/zzt!.md) | 3.17% |
 | 44 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.16% |
-| 45 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 3.12% |
+| 45 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 3.09% |
 | 46 | [HordeCore](games/h/hordecore.md) | 3.03% |
 | 46 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.03% |
 | 48 | [Lamentum](games/l/lamentum.md) | 2.95% |
 | 48 | [MultiVersus](games/m/multiversus.md) | 2.95% |
 | 50 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.90% |
 | 51 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
-| 52 | [Destiny 2](games/d/destiny_2.md) | 2.86% |
+| 51 | [Destiny 2](games/d/destiny_2.md) | 2.87% |
 | 53 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.78% |
 | 54 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 55 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.67% |
 | 56 | [FORECLOSED](games/f/foreclosed.md) | 2.63% |
 | 56 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.63% |
-| 58 | [JARS](games/j/jars.md) | 2.50% |
 | 58 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 59 | [JARS](games/j/jars.md) | 2.44% |
 | 60 | [Iron Danger](games/i/iron_danger.md) | 2.35% |
 | 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.18% |
 | 62 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.10% |
@@ -73,7 +73,7 @@
 | 71 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.54% |
 | 72 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 73 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.47% |
-| 74 | [Bloodshore](games/b/bloodshore.md) | 1.38% |
+| 74 | [Bloodshore](games/b/bloodshore.md) | 1.37% |
 | 75 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.31% |
 | 76 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.30% |
 | 77 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.28% |
@@ -86,7 +86,7 @@
 | 84 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.15% |
 | 85 | [Ten Dates](games/t/ten_dates.md) | 1.01% |
 | 86 | [Sable](games/s/sable.md) | 0.93% |
-| 87 | [Them and Us](games/t/them_and_us.md) | 0.92% |
+| 87 | [Them and Us](games/t/them_and_us.md) | 0.91% |
 | 88 | [Dungeons 3](games/d/dungeons_3.md) | 0.90% |
 | 88 | [Hades](games/h/hades.md) | 0.90% |
 | 90 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.88% |
