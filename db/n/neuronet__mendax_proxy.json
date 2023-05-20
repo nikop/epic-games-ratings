@@ -4,8 +4,8 @@
   "ProductSlug": "neuronet-mendax-proxy",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-05-04T15:00:00+00:00",
     "PcReleaseDate": "2023-05-04T15:00:00+00:00",
@@ -176,9 +176,9 @@
       "ID": "AURORA_COMPLETE",
       "SetID": "2d85n75",
       "Name": "The Guardian",
-      "Percentage": 33,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "BETA03",
@@ -224,9 +224,9 @@
       "ID": "ELEMAI05",
       "SetID": "2d85n75",
       "Name": "Endgame",
-      "Percentage": 33,
+      "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "EVERYONE_NEEDS_ABREAK",
@@ -416,9 +416,9 @@
       "ID": "THEY_FLOCK_TO_HIM",
       "SetID": "2d85n75",
       "Name": "They Flock to Him",
-      "Percentage": 22,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "THE_ARCHETYPE",
@@ -521,8 +521,8 @@
   "FirstSeenRating": "2023-05-04T20:59:38.4702697+00:00",
   "FirstSeenAchievements": "2023-04-26T14:07:41.5246515+00:00",
   "LastChanged": "2023-05-04T20:59:38.4702697+00:00",
-  "LastChanged_Achievements": "2023-05-20T14:05:15.935581+00:00",
+  "LastChanged_Achievements": "2023-05-20T15:06:44.6434743+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:04:57.9311486+00:00",
-  "LastUpdate_Ratings": "2023-05-20T13:59:10.9442962+00:00",
-  "LastUpdate_Achievements": "2023-05-20T14:05:15.9356261+00:00"
+  "LastUpdate_Ratings": "2023-05-20T15:00:11.2257833+00:00",
+  "LastUpdate_Achievements": "2023-05-20T15:06:44.6435145+00:00"
 }

@@ -17,9 +17,9 @@
 | Task Master | 44.00% | ~8 |
 | Warning: Fragile | 44.00% | ~8 |
 | An Acquired Taste | 39.00% | ~7 |
-| The Guardian | 33.00% | ~6 |
+| The Guardian | 39.00% | ~7 |
+| Endgame | 39.00% | ~7 |
 | Blood Begets Blood | 33.00% | ~6 |
-| Endgame | 33.00% | ~6 |
 | Everyone Needs a Break | 33.00% | ~6 |
 | The Philosopher | 33.00% | ~6 |
 | The Partner | 33.00% | ~6 |
@@ -30,11 +30,11 @@
 | Job Creator | 28.00% | ~5 |
 | Knock Knock | 28.00% | ~5 |
 | That One Doesn't Count | 28.00% | ~5 |
+| They Flock to Him | 28.00% | ~5 |
 | A Little Eccentric | 22.00% | ~4 |
 | Full Coverage | 22.00% | ~4 |
 | Quidnunc | 22.00% | ~4 |
 | Social Butterfly | 22.00% | ~4 |
-| They Flock to Him | 22.00% | ~4 |
 | Zonk! | 22.00% | ~4 |
 | Leave It to the Professionals | 17.00% | ~3 |
 | Obligatory Fraudulent Baking | 17.00% | ~3 |

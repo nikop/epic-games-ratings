@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
     "PcReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -234,9 +234,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 185494,
+  "EOS_Progressed": 185505,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1034,
+  "EOS_NewPlayers": 1030,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3109,6 +3109,11 @@
       "Time": "2023-05-20T14:05:07.4516497+00:00",
       "NumProgressed": 185494,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-20T15:06:34.0700611+00:00",
+      "NumProgressed": 185505,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -3128,7 +3133,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 131701
+      "UsersEstimate": 131709
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -3152,7 +3157,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 33389
+      "UsersEstimate": 33391
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -3160,7 +3165,7 @@
       "Name": "Not Afraid of the Big Bad Wolf",
       "Percentage": 0.1,
       "XP": 110,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_TOTAL_DESTRUCTION",
@@ -3176,7 +3181,7 @@
       "Name": "Many More to Come",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_WIN_10_ONLINE_GAME",
@@ -3216,7 +3221,7 @@
       "Name": "Mastermind",
       "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "ACH_WIN_COOP_2_PLAYERS",
@@ -3247,7 +3252,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 185494,
+      "Progressed": 185505,
       "Completed": 4
     }
   ],
@@ -3255,8 +3260,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-05-15T19:58:59.1456321+00:00",
-  "LastChanged_Achievements": "2023-05-20T14:05:07.4516486+00:00",
+  "LastChanged_Achievements": "2023-05-20T15:06:34.0700604+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:05:12.9175208+00:00",
-  "LastUpdate_Ratings": "2023-05-20T13:59:12.9787787+00:00",
-  "LastUpdate_Achievements": "2023-05-20T14:05:07.4516805+00:00"
+  "LastUpdate_Ratings": "2023-05-20T15:00:14.3079711+00:00",
+  "LastUpdate_Achievements": "2023-05-20T15:06:34.070096+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -410,9 +410,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 12968,
+  "EOS_Progressed": 12977,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 407,
+  "EOS_NewPlayers": 416,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -960,6 +960,11 @@
       "Time": "2023-05-20T14:00:26.8821829+00:00",
       "NumProgressed": 12968,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-20T15:02:10.2772834+00:00",
+      "NumProgressed": 12977,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 40,
@@ -987,7 +992,7 @@
       "Name": "Giving Back",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -1001,9 +1006,9 @@
       "ID": "DISARM_ENEMY",
       "SetID": "4hj6d86",
       "Name": "Flesh Wound",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 259
+      "UsersEstimate": 389
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -1073,9 +1078,9 @@
       "ID": "GRP_25_ENEMIES",
       "SetID": "4hj6d86",
       "Name": "Get a Grip",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 52
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -1099,7 +1104,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "KILL_ROBOT",
@@ -1267,7 +1272,7 @@
       "Name": "Hoard Mode",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "RIOT_10_POWERUPS",
@@ -1290,13 +1295,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 12968,
+      "Progressed": 12977,
       "Completed": 51
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 894,
+      "Progressed": 903,
       "Completed": 29
     }
   ],
@@ -1304,8 +1309,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-16T17:57:38.030273+00:00",
-  "LastChanged_Achievements": "2023-05-20T14:00:26.882182+00:00",
+  "LastChanged_Achievements": "2023-05-20T15:02:10.2772827+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-20T13:57:39.5915331+00:00",
-  "LastUpdate_Achievements": "2023-05-20T14:00:26.8822174+00:00"
+  "LastUpdate_Ratings": "2023-05-20T14:57:54.7775659+00:00",
+  "LastUpdate_Achievements": "2023-05-20T15:02:10.2773263+00:00"
 }

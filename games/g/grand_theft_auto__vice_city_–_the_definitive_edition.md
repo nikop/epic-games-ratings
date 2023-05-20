@@ -5,20 +5,20 @@ Rating: 4.67 (Ranked 257)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 43.00% | ~2,755 |
-| Greasy Palms | 39.00% | ~2,499 |
-| South American Connection | 23.00% | ~1,474 |
-| Life of the Party | 17.00% | ~1,089 |
+| Legal Counsel | 43.00% | ~2,757 |
+| Greasy Palms | 39.00% | ~2,500 |
+| South American Connection | 23.00% | ~1,475 |
+| Life of the Party | 17.00% | ~1,090 |
 | Big Heat from Little Havana | 13.00% | ~833 |
 | Tommy Two-Wheels | 13.00% | ~833 |
 | Chauffeur | 12.00% | ~769 |
 | Iron-y | 9.00% | ~577 |
 | Salutations My Little Friend | 9.00% | ~577 |
-| Gun for Hire | 7.00% | ~448 |
-| Mischief Managed | 7.00% | ~448 |
-| Vice City Mogul | 6.00% | ~384 |
-| Bloodstained Hands | 6.00% | ~384 |
-| Catch Me if You Can | 5.00% | ~320 |
+| Gun for Hire | 7.00% | ~449 |
+| Mischief Managed | 7.00% | ~449 |
+| Vice City Mogul | 6.00% | ~385 |
+| Bloodstained Hands | 6.00% | ~385 |
+| Catch Me if You Can | 5.00% | ~321 |
 | Not my First Time | 4.00% | ~256 |
 | Grand Theft Auto | 4.00% | ~256 |
 | High Quality H2O | 3.00% | ~192 |
@@ -40,7 +40,7 @@ Rating: 4.67 (Ranked 257)
 | Keepie-Uppy Okie Dokie | 0.60% | ~38 |
 | Kingpin | 0.30% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,407 (Ranked 114)  
+Progressed: 6,411 (Ranked 114)  
 Completed: 22 (0.34%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 22 (0.34%) (Ranked 119)
 | 2023-05-17 | 6,178 | 22 |
 | 2023-05-18 | 6,209 | 22 |
 | 2023-05-19 | 6,326 | 22 |
-| 2023-05-20 | 6,407 | 22 |
+| 2023-05-20 | 6,411 | 22 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 429)  
 Sum: 34 (Ranked 451)  

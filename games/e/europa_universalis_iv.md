@@ -6,29 +6,29 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,632 |
-| That's a Grand Army | 8.00% | ~3,228 |
-| That is mine! | 8.00% | ~3,228 |
-| Victorious! | 8.00% | ~3,228 |
-| Brothers in Arms | 6.00% | ~2,421 |
-| That's a Grand Navy | 6.00% | ~2,421 |
-| Seriously?! | 6.00% | ~2,421 |
-| For the Glory | 5.00% | ~2,018 |
-| Cold War | 4.00% | ~1,614 |
-| True Catholic | 4.00% | ~1,614 |
-| Defender of the Faith | 3.00% | ~1,211 |
-| It's all about the money | 3.00% | ~1,211 |
-| Respected | 3.00% | ~1,211 |
-| Truly Divine Ruler | 3.00% | ~1,211 |
-| Blockader | 2.00% | ~807 |
-| Combined Arms | 2.00% | ~807 |
-| Double the Love | 2.00% | ~807 |
-| Gentle Persuasion | 2.00% | ~807 |
-| It's all about luck | 2.00% | ~807 |
-| Queen of Conquest | 2.00% | ~807 |
-| Royal Authority | 2.00% | ~807 |
-| The Princess is in this Castle | 2.00% | ~807 |
-| Total Control | 2.00% | ~807 |
+| Until death do us apart | 9.00% | ~3,637 |
+| That's a Grand Army | 8.00% | ~3,233 |
+| That is mine! | 8.00% | ~3,233 |
+| Victorious! | 8.00% | ~3,233 |
+| Brothers in Arms | 6.00% | ~2,424 |
+| That's a Grand Navy | 6.00% | ~2,424 |
+| Seriously?! | 6.00% | ~2,424 |
+| For the Glory | 5.00% | ~2,020 |
+| Cold War | 4.00% | ~1,616 |
+| True Catholic | 4.00% | ~1,616 |
+| Defender of the Faith | 3.00% | ~1,212 |
+| It's all about the money | 3.00% | ~1,212 |
+| Respected | 3.00% | ~1,212 |
+| Truly Divine Ruler | 3.00% | ~1,212 |
+| Blockader | 2.00% | ~808 |
+| Combined Arms | 2.00% | ~808 |
+| Double the Love | 2.00% | ~808 |
+| Gentle Persuasion | 2.00% | ~808 |
+| It's all about luck | 2.00% | ~808 |
+| Queen of Conquest | 2.00% | ~808 |
+| Royal Authority | 2.00% | ~808 |
+| The Princess is in this Castle | 2.00% | ~808 |
+| Total Control | 2.00% | ~808 |
 | Agressive Expander | 1.00% | ~404 |
 | All That's Thine Shall Be Mine | 1.00% | ~404 |
 | Azur semé de lis or | 1.00% | ~404 |
@@ -37,30 +37,30 @@ Number of Ratings: 8,414  (23.09.2022)
 | Factionalism | 1.00% | ~404 |
 | A Golden Empire | 1.00% | ~404 |
 | My armies are invincible! | 1.00% | ~404 |
-| The Five Colonies | 0.90% | ~363 |
+| The Five Colonies | 0.90% | ~364 |
 | The Emperors new clothes | 0.80% | ~323 |
 | Isn't this the way to India? | 0.80% | ~323 |
 | Market Control | 0.80% | ~323 |
 | This navy can take it all | 0.80% | ~323 |
-| Down Under | 0.70% | ~282 |
-| Electable! | 0.60% | ~242 |
+| Down Under | 0.70% | ~283 |
 | Time Bandit | 0.60% | ~242 |
 | Trustworthy | 0.60% | ~242 |
 | All belongs to Mother Russia | 0.50% | ~202 |
 | At every continent | 0.50% | ~202 |
 | Early-Modern Warfare | 0.50% | ~202 |
+| Electable! | 0.50% | ~202 |
 | One Family to Rule them All | 0.50% | ~202 |
 | The pen is mightier than the sword | 0.50% | ~202 |
-| Absolutely | 0.40% | ~161 |
-| Dude, Where's my Boat? | 0.40% | ~161 |
-| In the Name of the Father | 0.40% | ~161 |
-| Live Long and Prosper | 0.40% | ~161 |
-| Populists in Government | 0.40% | ~161 |
-| Ruina Imperii | 0.40% | ~161 |
-| The Continuation of Diplomacy | 0.40% | ~161 |
-| This is My Faith | 0.40% | ~161 |
-| Trophy Hunter | 0.40% | ~161 |
-| Voting Streak | 0.40% | ~161 |
+| Absolutely | 0.40% | ~162 |
+| Dude, Where's my Boat? | 0.40% | ~162 |
+| In the Name of the Father | 0.40% | ~162 |
+| Live Long and Prosper | 0.40% | ~162 |
+| Populists in Government | 0.40% | ~162 |
+| Ruina Imperii | 0.40% | ~162 |
+| The Continuation of Diplomacy | 0.40% | ~162 |
+| This is My Faith | 0.40% | ~162 |
+| Trophy Hunter | 0.40% | ~162 |
+| Voting Streak | 0.40% | ~162 |
 | All Your Trade Are Belong to Us | 0.30% | ~121 |
 | Bleed Them Dry | 0.30% | ~121 |
 | Four For Trade | 0.30% | ~121 |
@@ -88,6 +88,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Not so sad a state... | 0.20% | ~81 |
 | The Chrysanthemum Throne | 0.20% | ~81 |
 | Vasa or Wettin? | 0.20% | ~81 |
+| We bled for this | 0.20% | ~81 |
 | World Discoverer | 0.20% | ~81 |
 | The 52 Garhs | 0.10% | ~40 |
 | I don't like sand | 0.10% | ~40 |
@@ -289,7 +290,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Venetian Sea | 0.10% | ~40 |
 | Viva la Revolución! | 0.10% | ~40 |
 | Voltaire's Nightmare | 0.10% | ~40 |
-| We bled for this | 0.10% | ~40 |
 | Where are the penguins? | 0.10% | ~40 |
 | The White Elephant | 0.10% | ~40 |
 | Winged Hussars | 0.10% | ~40 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,355 (Ranked 80)  
+Progressed: 40,408 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -391,7 +391,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-17 | 38,614 | 0 |
 | 2023-05-18 | 39,222 | 0 |
 | 2023-05-19 | 39,979 | 0 |
-| 2023-05-20 | 40,355 | 0 |
+| 2023-05-20 | 40,408 | 0 |
 ## Awards
 Max (Educational): 5,255  (Ranked 60)  
 Sum: 43,499 (Ranked 27)  

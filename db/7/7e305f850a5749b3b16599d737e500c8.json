@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 2,
   "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
     "PcReleaseDate": "2022-09-30T08:00:00+00:00",
@@ -180,17 +180,17 @@
       "ID": "Liberator",
       "SetID": "b7i210",
       "Name": "Liberator",
-      "Percentage": 38,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Peacemaker",
       "SetID": "b7i210",
       "Name": "Peacemaker",
-      "Percentage": 38,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Repair",
@@ -251,8 +251,8 @@
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-05-20T14:00:10.933696+00:00",
+  "LastChanged_Achievements": "2023-05-20T15:01:37.5735097+00:00",
   "LastUpdate_AppInfo": "2023-05-15T15:56:52.925224+00:00",
-  "LastUpdate_Ratings": "2023-05-20T13:57:02.7962859+00:00",
-  "LastUpdate_Achievements": "2023-05-20T14:00:10.933715+00:00"
+  "LastUpdate_Ratings": "2023-05-20T14:57:03.1877537+00:00",
+  "LastUpdate_Achievements": "2023-05-20T15:01:37.5735465+00:00"
 }

@@ -6,23 +6,23 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 20.00% | ~9,292 |
+| Follow the Light | 20.00% | ~9,293 |
 | Float Like a Butterfly | 16.00% | ~7,434 |
 | Let There Be Light | 16.00% | ~7,434 |
 | Nordic Walking | 13.00% | ~6,040 |
 | Bright Falls' Finest | 13.00% | ~6,040 |
 | Under a Thin Layer of Skin | 11.00% | ~5,111 |
-| Park Ranger | 9.00% | ~4,181 |
-| Back! Back, I Say! | 9.00% | ~4,181 |
-| Finders Keepers | 9.00% | ~4,181 |
-| Paging Mr. Wake | 9.00% | ~4,181 |
+| Park Ranger | 9.00% | ~4,182 |
+| Back! Back, I Say! | 9.00% | ~4,182 |
+| Finders Keepers | 9.00% | ~4,182 |
+| Paging Mr. Wake | 9.00% | ~4,182 |
 | Wheels Within Wheels | 8.00% | ~3,717 |
 | They're Heeeeeere! | 8.00% | ~3,717 |
 | The Six-Gun Scribe | 8.00% | ~3,717 |
 | Sound and Fury | 8.00% | ~3,717 |
 | Missed by a Mile | 8.00% | ~3,717 |
 | Damn Good Cup of Coffee | 8.00% | ~3,717 |
-| A Friend in Need | 8.00% | ~794 |
+| A Friend in Need | 8.00% | ~795 |
 | Heavy Metal | 7.00% | ~3,252 |
 | Iron Horse | 7.00% | ~3,252 |
 | Perchance to Dream | 7.00% | ~3,252 |
@@ -38,8 +38,8 @@ Number of Ratings: 524  (23.09.2022)
 | Tornado Wrangler | 5.00% | ~2,323 |
 | What Light Through Yonder Window | 5.00% | ~2,323 |
 | Right of Way | 5.00% | ~2,323 |
-| Ding! | 5.00% | ~496 |
-| Departure | 4.00% | ~1,858 |
+| Ding! | 5.00% | ~497 |
+| Departure | 4.00% | ~1,859 |
 | Children of the Elder God | 3.00% | ~1,394 |
 | Drink 'Em Both Up | 3.00% | ~1,394 |
 | Hardboiled Writer | 3.00% | ~1,394 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,461 (Ranked 75)  
+Progressed: 46,464 (Ranked 75)  
 Completed: 45 (0.10%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 45 (0.10%) (Ranked 158)
 | 2023-05-17 | 46,208 | 44 |
 | 2023-05-18 | 46,244 | 44 |
 | 2023-05-19 | 46,386 | 45 |
-| 2023-05-20 | 46,461 | 45 |
+| 2023-05-20 | 46,464 | 45 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

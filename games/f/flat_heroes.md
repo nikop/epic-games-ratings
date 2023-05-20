@@ -10,7 +10,7 @@
 | Fireball | 54.00% | ~151 |
 | The King of Flat | 48.00% | ~134 |
 | Air Slash | 40.00% | ~112 |
-| Hit That Ball | 37.00% | ~104 |
+| Hit That Ball | 38.00% | ~106 |
 | Eat That Apple | 27.00% | ~76 |
 | Tornado Chaser | 17.00% | ~48 |
 | Bomberman | 12.00% | ~34 |

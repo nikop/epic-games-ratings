@@ -6,9 +6,9 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,610 |
+| light attack | 96.00% | ~9,611 |
 | keep it tidy | 77.00% | ~7,708 |
-| podium | 72.00% | ~7,207 |
+| podium | 72.00% | ~7,208 |
 | medium attack | 59.00% | ~5,906 |
 | brail | 56.00% | ~5,606 |
 | grocery-getter | 39.00% | ~3,904 |
@@ -21,7 +21,7 @@ Number of Ratings: 56  (23.09.2022)
 | turbo | 20.00% | ~2,002 |
 | food tour: pretzel | 19.00% | ~1,902 |
 | bicycle race | 15.00% | ~1,502 |
-| monster | 14.00% | ~1,401 |
+| monster | 14.00% | ~1,402 |
 | car wash | 13.00% | ~1,301 |
 | perkele | 13.00% | ~1,301 |
 | night ride | 12.00% | ~1,201 |
@@ -39,9 +39,9 @@ Number of Ratings: 56  (23.09.2022)
 | parking lot | 6.00% | ~601 |
 | oktoberfest | 6.00% | ~601 |
 | viking | 6.00% | ~601 |
-| group b | 5.00% | ~500 |
-| in like a lamb, out like a lion | 5.00% | ~500 |
-| if in doubt, flat out! | 5.00% | ~500 |
+| group b | 5.00% | ~501 |
+| in like a lamb, out like a lion | 5.00% | ~501 |
+| if in doubt, flat out! | 5.00% | ~501 |
 | comfy seats | 3.00% | ~300 |
 | simulator | 3.00% | ~300 |
 | real roads, real fast | 2.00% | ~200 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~40 |
 | barely keeping it together | 0.30% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,010 (Ranked 106)  
+Progressed: 10,011 (Ranked 106)  
 Completed: 9 (0.09%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 9 (0.09%) (Ranked 163)
 | 2023-05-17 | 9,996 | 9 |
 | 2023-05-18 | 10,000 | 9 |
 | 2023-05-19 | 10,008 | 9 |
-| 2023-05-20 | 10,010 | 9 |
+| 2023-05-20 | 10,011 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

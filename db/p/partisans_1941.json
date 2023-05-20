@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 905,
+  "EOS_Progressed": 906,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -575,6 +575,11 @@
       "Time": "2023-05-20T11:05:59.2147034+00:00",
       "NumProgressed": 905,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-20T15:06:41.8954142+00:00",
+      "NumProgressed": 906,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -656,9 +661,9 @@
       "ID": "Double_barrel",
       "SetID": "85nb4h3",
       "Name": "Lock, Stock",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 54
     },
     {
       "ID": "E1M1",
@@ -666,7 +671,7 @@
       "Name": "E1M1",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "Everyone_is_here",
@@ -698,7 +703,7 @@
       "Name": "Grenadier",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "Hard_Serpent",
@@ -720,9 +725,9 @@
       "ID": "High_noon",
       "SetID": "85nb4h3",
       "Name": "Payback Time",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 45
     },
     {
       "ID": "How",
@@ -802,7 +807,7 @@
       "Name": "War Never Changes",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "We_were_not_here",
@@ -818,22 +823,22 @@
       "Name": "Your Answer",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     }
   ],
   "AchievementSets": [
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 905,
+      "Progressed": 906,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-05-20T14:05:13.9207171+00:00",
+  "LastChanged_Achievements": "2023-05-20T15:06:41.8954134+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:35.4826245+00:00",
-  "LastUpdate_Ratings": "2023-05-20T13:58:50.7830307+00:00",
-  "LastUpdate_Achievements": "2023-05-20T14:05:13.9207421+00:00"
+  "LastUpdate_Ratings": "2023-05-20T14:59:40.8157297+00:00",
+  "LastUpdate_Achievements": "2023-05-20T15:06:41.8954392+00:00"
 }

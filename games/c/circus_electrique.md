@@ -23,7 +23,7 @@ Number of Ratings: 22  (23.09.2022)
 | Lucky Day | 13.00% | ~52 |
 | Bar Brawler | 13.00% | ~52 |
 | Flawless Presentation | 13.00% | ~52 |
-| King of District 2 | 11.00% | ~44 |
+| King of District 2 | 12.00% | ~48 |
 | Time Travel! | 10.00% | ~40 |
 | Marketing Manager | 10.00% | ~40 |
 | Circus Versus Circus | 9.00% | ~36 |

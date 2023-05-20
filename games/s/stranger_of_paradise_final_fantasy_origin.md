@@ -6,19 +6,19 @@ Number of Ratings: 1,919  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Manifestation of the Soul | 97.00% | ~75,853 |
-| No Escape | 86.00% | ~67,251 |
-| Seeker of Power | 85.00% | ~66,469 |
-| Hopes and Dreams | 82.00% | ~64,123 |
-| Lantern Smasher | 78.00% | ~60,995 |
-| The Pirate's Way | 73.00% | ~57,085 |
-| Dark Crystal, Warrior's Heart | 71.00% | ~55,521 |
-| The King of the Dark Elves | 68.00% | ~53,175 |
-| Memories of the Distant Past | 66.00% | ~51,611 |
-| Distortion's Progeny | 63.00% | ~49,265 |
-| Savant | 62.00% | ~48,483 |
-| A Landscape of Memory | 58.00% | ~45,355 |
-| The Wind's Light | 54.00% | ~42,227 |
+| Manifestation of the Soul | 97.00% | ~75,854 |
+| No Escape | 86.00% | ~67,252 |
+| Seeker of Power | 85.00% | ~66,470 |
+| Hopes and Dreams | 82.00% | ~64,124 |
+| Lantern Smasher | 78.00% | ~60,996 |
+| The Pirate's Way | 73.00% | ~57,086 |
+| Dark Crystal, Warrior's Heart | 71.00% | ~55,522 |
+| The King of the Dark Elves | 68.00% | ~53,176 |
+| Memories of the Distant Past | 66.00% | ~51,612 |
+| Distortion's Progeny | 63.00% | ~49,266 |
+| Savant | 62.00% | ~48,484 |
+| A Landscape of Memory | 58.00% | ~45,356 |
+| The Wind's Light | 54.00% | ~42,228 |
 | Vague Remembrances | 49.00% | ~38,318 |
 | The Fire's Light | 47.00% | ~36,754 |
 | Phantom Memories | 46.00% | ~35,972 |
@@ -53,7 +53,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | Strangers' Memories | 3.00% | ~2,346 |
 | A Tale of Origins and Endings | 2.00% | ~1,564 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,199 (Ranked 62)  
+Progressed: 78,200 (Ranked 62)  
 Completed: 2,129 (2.72%) (Ranked 53)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 2,129 (2.72%) (Ranked 53)
 | 2023-05-17 | 78,151 | 2,128 |
 | 2023-05-18 | 78,167 | 2,129 |
 | 2023-05-19 | 78,186 | 2,129 |
-| 2023-05-20 | 78,199 | 2,129 |
+| 2023-05-20 | 78,200 | 2,129 |
 ## Awards
 Max (Great Boss Battles): 753  (Ranked 151)  
 Sum: 1,551 (Ranked 204)  

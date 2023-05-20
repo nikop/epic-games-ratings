@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -838,9 +838,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 656472,
+  "EOS_Progressed": 656473,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 396,
+  "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3398,6 +3398,11 @@
       "Time": "2023-05-20T14:04:55.6906492+00:00",
       "NumProgressed": 656472,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-05-20T15:06:18.8782038+00:00",
+      "NumProgressed": 656473,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -3409,7 +3414,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 472660
+      "UsersEstimate": 472661
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -3689,7 +3694,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59082
+      "UsersEstimate": 59083
     },
     {
       "ID": "Achievement_37_Champion",
@@ -3792,15 +3797,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 656472,
+      "Progressed": 656473,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-05-18T14:57:37.1411686+00:00",
-  "LastChanged_Achievements": "2023-05-20T14:04:55.6906487+00:00",
+  "LastChanged_Achievements": "2023-05-20T15:06:18.8782032+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:07.1745323+00:00",
-  "LastUpdate_Ratings": "2023-05-20T13:57:27.3664708+00:00",
-  "LastUpdate_Achievements": "2023-05-20T14:04:55.6907057+00:00"
+  "LastUpdate_Ratings": "2023-05-20T14:57:38.2559777+00:00",
+  "LastUpdate_Achievements": "2023-05-20T15:06:18.8782616+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 415,
+  "EOS_Progressed": 416,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.2,
   "EosHistory": [
@@ -153,6 +153,11 @@
     {
       "Time": "2023-05-20T02:03:45.2806689+00:00",
       "NumProgressed": 415,
+      "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-20T15:06:54.1305284+00:00",
+      "NumProgressed": 416,
       "NumCompleted": 5
     }
   ],
@@ -251,9 +256,9 @@
       "ID": "Healthy_Child",
       "SetID": "ek310c",
       "Name": "Bundle of Joy",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 212
+      "UsersEstimate": 208
     },
     {
       "ID": "Hitman",
@@ -341,7 +346,7 @@
       "Name": "A Familiar Face",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Paparazzi",
@@ -396,7 +401,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 415,
+      "Progressed": 416,
       "Completed": 5
     }
   ],
@@ -404,8 +409,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-05-18T03:00:40.7703689+00:00",
-  "LastChanged_Achievements": "2023-05-20T14:05:23.4198315+00:00",
+  "LastChanged_Achievements": "2023-05-20T15:06:54.1305278+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:53.1846024+00:00",
-  "LastUpdate_Ratings": "2023-05-20T13:59:57.1998057+00:00",
-  "LastUpdate_Achievements": "2023-05-20T14:05:23.4198532+00:00"
+  "LastUpdate_Ratings": "2023-05-20T15:01:16.0369956+00:00",
+  "LastUpdate_Achievements": "2023-05-20T15:06:54.1305523+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 730,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 228,
+  "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -374,9 +374,9 @@
       "ID": "ACH_COOK",
       "SetID": "7c4cldc",
       "Name": "Cook",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_CUT_100_TREES",
@@ -430,9 +430,9 @@
       "ID": "ACH_KILL_20",
       "SetID": "7c4cldc",
       "Name": "Scrapper",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_KILL_50",
@@ -535,8 +535,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-03-31T05:58:41.9972886+00:00",
-  "LastChanged_Achievements": "2023-05-20T14:04:51.0755528+00:00",
+  "LastChanged_Achievements": "2023-05-20T15:06:12.6256117+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:01.8031827+00:00",
-  "LastUpdate_Ratings": "2023-05-20T13:58:10.5642125+00:00",
-  "LastUpdate_Achievements": "2023-05-20T14:04:51.0755768+00:00"
+  "LastUpdate_Ratings": "2023-05-20T14:58:41.3502606+00:00",
+  "LastUpdate_Achievements": "2023-05-20T15:06:12.6256343+00:00"
 }

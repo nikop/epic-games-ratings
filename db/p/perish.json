@@ -4,8 +4,8 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
     "PcReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2849,
+  "EOS_Progressed": 2853,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -883,6 +883,11 @@
       "Time": "2023-05-20T12:06:10.5528298+00:00",
       "NumProgressed": 2849,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T15:06:49.2068357+00:00",
+      "NumProgressed": 2853,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -894,7 +899,7 @@
       "Name": "The Nameless One",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_B_DP",
@@ -918,7 +923,7 @@
       "Name": "Pillars of Eternity",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_B_KK",
@@ -926,7 +931,7 @@
       "Name": "Lament of the Constellations",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_ELY",
@@ -942,7 +947,7 @@
       "Name": "Immolator",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_FH",
@@ -966,7 +971,7 @@
       "Name": "Rule of Thirds",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_K_A1",
@@ -974,7 +979,7 @@
       "Name": "Go For the Head",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_K_A2",
@@ -982,7 +987,7 @@
       "Name": "Spartan Sandal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_K_A3",
@@ -998,7 +1003,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_M_AI",
@@ -1022,7 +1027,7 @@
       "Name": "To Suffer is to Learn",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_M_D1",
@@ -1038,7 +1043,7 @@
       "Name": "War Chest",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_M_D3",
@@ -1054,7 +1059,7 @@
       "Name": "The Midas Touch",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_M_D5",
@@ -1070,7 +1075,7 @@
       "Name": "Pyr Demon",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_M_I",
@@ -1110,7 +1115,7 @@
       "Name": "Symbols of Heresy",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_OB_BR",
@@ -1134,7 +1139,7 @@
       "Name": "Don\u0027t Pay the Ferryman",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_OB_CR",
@@ -1142,7 +1147,7 @@
       "Name": "The Sons of Minos",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_OB_CS",
@@ -1150,7 +1155,7 @@
       "Name": "Sisters of the Pantheon",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_OB_DS",
@@ -1166,7 +1171,7 @@
       "Name": "Siege Unit",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_OB_FC",
@@ -1174,7 +1179,7 @@
       "Name": "Veneration of Hephaestus",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_OB_FT",
@@ -1182,7 +1187,7 @@
       "Name": "Biotechnology",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_OB_HC",
@@ -1190,7 +1195,7 @@
       "Name": "Eidola",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_OB_LI",
@@ -1206,7 +1211,7 @@
       "Name": "Divine Assemblage",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_OB_PR",
@@ -1222,7 +1227,7 @@
       "Name": "No Scylla in Sight",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_OB_SC",
@@ -1246,7 +1251,7 @@
       "Name": "The Archimedes Principle",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_OB_TP",
@@ -1254,7 +1259,7 @@
       "Name": "Rites at Sea",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_OL",
@@ -1262,7 +1267,7 @@
       "Name": "Ophiolatreia",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_OT",
@@ -1270,7 +1275,7 @@
       "Name": "Initiate\u0027s Resolve",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "ACH_R_A",
@@ -1302,7 +1307,7 @@
       "Name": "Close Shut the Doors",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_TF",
@@ -1374,7 +1379,7 @@
       "Name": "Scrap Metal",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "KKA",
@@ -1397,7 +1402,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 2849,
+      "Progressed": 2853,
       "Completed": 0
     }
   ],
@@ -1405,8 +1410,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-05-20T14:05:19.561621+00:00",
+  "LastChanged_Achievements": "2023-05-20T15:06:49.2068351+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:05:00.7857859+00:00",
-  "LastUpdate_Ratings": "2023-05-20T13:59:12.2190552+00:00",
-  "LastUpdate_Achievements": "2023-05-20T14:05:19.5616788+00:00"
+  "LastUpdate_Ratings": "2023-05-20T15:00:13.1986221+00:00",
+  "LastUpdate_Achievements": "2023-05-20T15:06:49.2069139+00:00"
 }

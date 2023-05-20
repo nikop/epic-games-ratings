@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-03-29T13:00:00+00:00",
     "PcReleaseDate": "2023-03-29T13:00:00+00:00",
@@ -162,9 +162,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18698,
+  "EOS_Progressed": 18702,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2202,6 +2202,11 @@
       "Time": "2023-05-20T14:04:44.8117774+00:00",
       "NumProgressed": 18698,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-20T15:06:04.1444463+00:00",
+      "NumProgressed": 18702,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 13,
@@ -2221,7 +2226,7 @@
       "Name": "Hang time",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "FirstSleep",
@@ -2316,7 +2321,7 @@
     {
       "ID": "3c9im16",
       "IsBase": true,
-      "Progressed": 18698,
+      "Progressed": 18702,
       "Completed": 18
     }
   ],
@@ -2324,8 +2329,8 @@
   "FirstSeenRating": "2023-03-31T05:57:29.8298127+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.2502922+00:00",
   "LastChanged": "2023-05-19T05:57:17.6704868+00:00",
-  "LastChanged_Achievements": "2023-05-20T14:04:44.8117769+00:00",
+  "LastChanged_Achievements": "2023-05-20T15:06:04.1444457+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:59.3708396+00:00",
-  "LastUpdate_Ratings": "2023-05-20T13:57:19.4151859+00:00",
-  "LastUpdate_Achievements": "2023-05-20T14:04:44.8118016+00:00"
+  "LastUpdate_Ratings": "2023-05-20T14:57:26.7395199+00:00",
+  "LastUpdate_Achievements": "2023-05-20T15:06:04.1444732+00:00"
 }

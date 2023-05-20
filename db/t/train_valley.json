@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
     "PcReleaseDate": "2015-09-16T00:00:00+00:00",
@@ -93,9 +93,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 282,
+  "EOS_Progressed": 283,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -158,6 +158,11 @@
       "Time": "2023-05-20T00:03:17.0037418+00:00",
       "NumProgressed": 282,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-20T15:03:38.9370172+00:00",
+      "NumProgressed": 283,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 39,
@@ -169,7 +174,7 @@
       "Name": "Getting started",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "02_collector",
@@ -191,9 +196,9 @@
       "ID": "04_tycoon",
       "SetID": "chb1m60",
       "Name": "Tycoon",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 23
     },
     {
       "ID": "05_pangs",
@@ -217,7 +222,7 @@
       "Name": "Europe",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "08_america",
@@ -231,9 +236,9 @@
       "ID": "09_russia",
       "SetID": "chb1m60",
       "Name": "Russia",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 57
     },
     {
       "ID": "10_japan",
@@ -265,7 +270,7 @@
       "Name": "It\u0027s no coincidence.",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "14_woodcutter",
@@ -391,9 +396,9 @@
       "ID": "29_madness",
       "SetID": "chb1m60",
       "Name": "Madness!",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 71
     },
     {
       "ID": "30_completelynuts",
@@ -431,9 +436,9 @@
       "ID": "34_needtothink",
       "SetID": "chb1m60",
       "Name": "Need to think",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 121
+      "UsersEstimate": 119
     },
     {
       "ID": "35_achtung",
@@ -480,15 +485,15 @@
     {
       "ID": "chb1m60",
       "IsBase": true,
-      "Progressed": 282,
+      "Progressed": 283,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-03-31T05:57:32.453108+00:00",
-  "LastChanged_Achievements": "2023-05-20T14:02:32.3301319+00:00",
+  "LastChanged_Achievements": "2023-05-20T15:03:38.9370166+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:08.2885298+00:00",
-  "LastUpdate_Ratings": "2023-05-20T13:57:28.3940768+00:00",
-  "LastUpdate_Achievements": "2023-05-20T14:02:32.3301587+00:00"
+  "LastUpdate_Ratings": "2023-05-20T14:57:39.8909191+00:00",
+  "LastUpdate_Achievements": "2023-05-20T15:03:38.9370477+00:00"
 }

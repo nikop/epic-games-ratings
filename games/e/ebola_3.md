@@ -7,7 +7,7 @@
 | Fright ✔ | 55.00% | ~96 |
 | Chest ✔ | 54.00% | ~94 |
 | Inventory ✔ | 51.00% | ~89 |
-| Police officers ✔ | 26.00% | ~45 |
+| Police officers ✔ | 26.00% | ~46 |
 | Mutation ✔ | 24.00% | ~42 |
 | Doberman ✔ | 13.00% | ~23 |
 | Master of Unlocking ✔ | 9.00% | ~16 |
@@ -42,20 +42,20 @@
 | Rank A ✔ | 3.00% | ~5 |
 | Broadcasting ✔ | 3.00% | ~5 |
 | Boss 3 ✔ | 3.00% | ~5 |
-| Car ✔ | 2.00% | ~3 |
-| Seeker One ✔ | 2.00% | ~3 |
-| Seeker Three ✔ | 2.00% | ~3 |
-| Crocodile Escape ✔ | 2.00% | ~3 |
-| Osipov's video message ✔ | 2.00% | ~3 |
-| The escape ✔ | 2.00% | ~3 |
-| VIP ✔ | 2.00% | ~3 |
+| Car ✔ | 2.00% | ~4 |
+| Seeker One ✔ | 2.00% | ~4 |
+| Seeker Three ✔ | 2.00% | ~4 |
+| Crocodile Escape ✔ | 2.00% | ~4 |
+| Osipov's video message ✔ | 2.00% | ~4 |
+| The escape ✔ | 2.00% | ~4 |
+| VIP ✔ | 2.00% | ~4 |
 | Exterminate pests ✔ | 1.00% | ~2 |
 | Hardcore ✔ | 1.00% | ~2 |
 | Speedrun ✔ | 1.00% | ~2 |
 | Seeker Two ✔ | 0.60% | ~1 |
 | Rank A+ ✔ | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 174 (Ranked 233)  
+Progressed: 175 (Ranked 233)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-15 | 167 | 0 |
 | 2023-05-17 | 168 | 0 |
 | 2023-05-18 | 170 | 0 |
-| 2023-05-20 | 174 | 0 |
+| 2023-05-20 | 175 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

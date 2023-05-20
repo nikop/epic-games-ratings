@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3832,11 +3832,11 @@
       "Count": 3238
     }
   ],
-  "EOS_Progressed": 88075,
+  "EOS_Progressed": 88085,
   "EOS_Completed": 1854,
-  "EOS_NewPlayers": 710,
+  "EOS_NewPlayers": 714,
   "EOS_NewCompleters": 20,
-  "EOS_Completed_Percentage": 2.11,
+  "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:41.9871817+00:00",
@@ -6677,6 +6677,11 @@
       "Time": "2023-05-20T14:05:29.9731988+00:00",
       "NumProgressed": 88075,
       "NumCompleted": 1854
+    },
+    {
+      "Time": "2023-05-20T15:07:02.2684013+00:00",
+      "NumProgressed": 88085,
+      "NumCompleted": 1854
     }
   ],
   "TotalAchievements": 493,
@@ -8366,9 +8371,9 @@
       "ID": "objective_completed_34",
       "SetID": "cc37lbc",
       "Name": "The Ring of Regeneration",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 176
     },
     {
       "ID": "objective_completed_35",
@@ -10631,21 +10636,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54349,
-      "Completed": 2615
+      "Progressed": 54359,
+      "Completed": 2617
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88075,
+      "Progressed": 88085,
       "Completed": 1854
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-20T09:57:45.8561996+00:00",
-  "LastChanged_Achievements": "2023-05-20T14:05:29.9731977+00:00",
+  "LastChanged_Achievements": "2023-05-20T15:07:02.2684007+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-20T13:57:50.0296864+00:00",
-  "LastUpdate_Achievements": "2023-05-20T14:05:29.9757397+00:00"
+  "LastUpdate_Ratings": "2023-05-20T14:58:08.730124+00:00",
+  "LastUpdate_Achievements": "2023-05-20T15:07:02.270872+00:00"
 }

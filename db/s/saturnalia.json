@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63679,
+  "EOS_Progressed": 63684,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2430,6 +2430,11 @@
       "Time": "2023-05-20T13:06:14.1087687+00:00",
       "NumProgressed": 63679,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-20T15:03:56.7296734+00:00",
+      "NumProgressed": 63684,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 20,
@@ -2449,7 +2454,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 1910
+      "UsersEstimate": 1911
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -2593,14 +2598,14 @@
       "Name": "Survival Expert",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 1910
+      "UsersEstimate": 1911
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 63679,
+      "Progressed": 63684,
       "Completed": 10
     }
   ],
@@ -2608,8 +2613,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-05-14T20:57:12.1011944+00:00",
-  "LastChanged_Achievements": "2023-05-20T14:03:15.3079611+00:00",
+  "LastChanged_Achievements": "2023-05-20T15:03:56.7296728+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:02.4871773+00:00",
-  "LastUpdate_Ratings": "2023-05-20T13:57:22.3676065+00:00",
-  "LastUpdate_Achievements": "2023-05-20T14:03:15.3079884+00:00"
+  "LastUpdate_Ratings": "2023-05-20T14:57:31.1080531+00:00",
+  "LastUpdate_Achievements": "2023-05-20T15:03:56.7297055+00:00"
 }

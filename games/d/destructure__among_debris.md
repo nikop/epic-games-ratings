@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Graduation | 74.00% | ~59 |
-| You Have Been Deaded | 70.00% | ~56 |
-| Rookie | 68.00% | ~54 |
-| Apprentice Destructor | 24.00% | ~19 |
+| Graduation | 73.00% | ~59 |
+| You Have Been Deaded | 70.00% | ~57 |
+| Rookie | 68.00% | ~55 |
+| Apprentice Destructor | 23.00% | ~19 |
 | I Prefer Jazz Fusion | 9.00% | ~7 |
-| You Are Actually Supposed To Use Those | 8.00% | ~6 |
+| You Are Actually Supposed To Use Those | 7.00% | ~6 |
 | Ball Galore | 6.00% | ~5 |
 | Master Destructor | 6.00% | ~5 |
 | Avaricerite | 5.00% | ~4 |
 | Easy Victory | 5.00% | ~4 |
 | Back From The Dead | 4.00% | ~3 |
 | Legendary Destructor | 4.00% | ~3 |
-| Ball Protector | 3.00% | ~2 |
-| Monster of Fashion | 3.00% | ~2 |
-| Single Person On Earth | 3.00% | ~2 |
-| Untouchable | 3.00% | ~2 |
+| Ball Protector | 2.00% | ~2 |
+| Monster of Fashion | 2.00% | ~2 |
+| Single Person On Earth | 2.00% | ~2 |
+| Untouchable | 2.00% | ~2 |
 | Ball Collector | 1.00% | ~1 |
 | Bullet Hell | 1.00% | ~1 |
 | Collector | 1.00% | ~1 |
@@ -36,8 +36,8 @@
 | Victory That Is Even More True | 1.00% | ~1 |
 | What Even Are You? | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80 (Ranked 262)  
-Completed: 1 (1.25%) (Ranked 79)  
+Progressed: 81 (Ranked 262)  
+Completed: 1 (1.23%) (Ranked 80)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -59,7 +59,7 @@ Completed: 1 (1.25%) (Ranked 79)
 | 2023-05-13 | 67 | 1 |
 | 2023-05-18 | 70 | 1 |
 | 2023-05-19 | 75 | 1 |
-| 2023-05-20 | 80 | 1 |
+| 2023-05-20 | 81 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

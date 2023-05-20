@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -49,9 +49,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 292,
+  "EOS_Progressed": 293,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -78,6 +78,11 @@
     {
       "Time": "2023-05-18T17:06:41.1622713+00:00",
       "NumProgressed": 292,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-20T15:06:57.5325056+00:00",
+      "NumProgressed": 293,
       "NumCompleted": 1
     }
   ],
@@ -186,7 +191,7 @@
       "Name": "Traveller",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ach-campaign-finish-hard",
@@ -224,9 +229,9 @@
       "ID": "ach-campaign-story1",
       "SetID": "17ih7ma",
       "Name": "A Strange Artefact",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 135
     },
     {
       "ID": "ach-campaign-story2",
@@ -258,7 +263,7 @@
       "Name": "Roll to Save",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ach-discover-locations",
@@ -290,7 +295,7 @@
       "Name": "Fire and Flood",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ach-find-treasure",
@@ -314,7 +319,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ach-hardExpeditions",
@@ -362,7 +367,7 @@
       "Name": "No Laughing Matter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ach-kill-sandworm",
@@ -418,7 +423,7 @@
       "Name": "Spooky!",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ach-noEquipment",
@@ -569,7 +574,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 292,
+      "Progressed": 293,
       "Completed": 1
     }
   ],
@@ -577,8 +582,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-03-31T05:57:33.8410127+00:00",
-  "LastChanged_Achievements": "2023-05-20T14:05:25.9332173+00:00",
+  "LastChanged_Achievements": "2023-05-20T15:06:57.532505+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:15:00.3054339+00:00",
-  "LastUpdate_Ratings": "2023-05-20T13:59:58.0127885+00:00",
-  "LastUpdate_Achievements": "2023-05-20T14:05:25.9332653+00:00"
+  "LastUpdate_Ratings": "2023-05-20T15:01:17.2341804+00:00",
+  "LastUpdate_Achievements": "2023-05-20T15:06:57.5325612+00:00"
 }

@@ -6,17 +6,17 @@
 | ---- | ---------- | ----- |
 | Everything's Coming Up Gigachu | 91.00% | ~21 |
 | Cyber Bully | 70.00% | ~16 |
-| Loving Commute | 57.00% | ~13 |
+| Loving Commute | 61.00% | ~14 |
 | Love is in Bloom | 39.00% | ~9 |
 | Royal Romance | 35.00% | ~8 |
 | Speed Dating | 35.00% | ~8 |
+| A Heated Affair | 30.00% | ~7 |
 | Friendzoned | 30.00% | ~7 |
-| A Heated Affair | 26.00% | ~6 |
 | Love is in the Air | 26.00% | ~6 |
+| Out of Your Shell | 22.00% | ~5 |
 | Short Distance Relationship | 22.00% | ~5 |
 | Spread the Love | 22.00% | ~5 |
 | Long Distance Relationship | 17.00% | ~4 |
-| Out of Your Shell | 17.00% | ~4 |
 | Polyamorousasaurus | 17.00% | ~4 |
 | Loved and Lost | 13.00% | ~3 |
 ## Popularity (Based on EOS Achievements)

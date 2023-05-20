@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10010,
+  "EOS_Progressed": 10011,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -441,6 +441,11 @@
       "Time": "2023-05-20T09:04:46.333448+00:00",
       "NumProgressed": 10010,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-20T15:06:10.8529481+00:00",
+      "NumProgressed": 10011,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -588,7 +593,7 @@
       "Name": "monster",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1401
+      "UsersEstimate": 1402
     },
     {
       "ID": "ACH_COMPLETE_GROUPS",
@@ -620,7 +625,7 @@
       "Name": "group b",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACH_DAILY",
@@ -628,7 +633,7 @@
       "Name": "in like a lamb, out like a lion",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACH_FIVE_HUNDRED_KM",
@@ -668,7 +673,7 @@
       "Name": "if in doubt, flat out!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACH_MAX_SPEED_LIGHT",
@@ -676,7 +681,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9610
+      "UsersEstimate": 9611
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -788,22 +793,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7207
+      "UsersEstimate": 7208
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10010,
+      "Progressed": 10011,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-05-20T14:04:49.7251839+00:00",
+  "LastChanged_Achievements": "2023-05-20T15:06:10.8529476+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:57.669657+00:00",
-  "LastUpdate_Ratings": "2023-05-20T13:57:16.7331871+00:00",
-  "LastUpdate_Achievements": "2023-05-20T14:04:49.725221+00:00"
+  "LastUpdate_Ratings": "2023-05-20T14:57:22.9230945+00:00",
+  "LastUpdate_Achievements": "2023-05-20T15:06:10.8529834+00:00"
 }

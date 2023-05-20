@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -1419,9 +1419,9 @@
       "ID": "ThePowerofFaith_4",
       "SetID": "c4hee28",
       "Name": "The Power of Faith",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 317
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -1507,8 +1507,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-05-20T14:05:00.1701608+00:00",
+  "LastChanged_Achievements": "2023-05-20T15:06:24.7436549+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:14.085288+00:00",
-  "LastUpdate_Ratings": "2023-05-20T13:57:31.6989685+00:00",
-  "LastUpdate_Achievements": "2023-05-20T14:05:00.1702005+00:00"
+  "LastUpdate_Ratings": "2023-05-20T14:57:44.6021671+00:00",
+  "LastUpdate_Achievements": "2023-05-20T15:06:24.7436938+00:00"
 }

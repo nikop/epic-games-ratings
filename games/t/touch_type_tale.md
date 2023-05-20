@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You and what Army? | 90.00% | ~2,423 |
-| Flanked! | 79.00% | ~2,127 |
-| Economics 101 | 65.00% | ~1,750 |
+| Flanked! | 80.00% | ~2,154 |
+| Economics 101 | 66.00% | ~1,777 |
 | Get Rich Quick | 48.00% | ~1,292 |
 | Do the Splits | 41.00% | ~1,104 |
 | Maestro | 28.00% | ~754 |

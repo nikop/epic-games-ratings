@@ -5,47 +5,47 @@ Rating: 4.86 (Ranked 29)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 85.00% | ~1,459 |
-| Feeling the beat! | 85.00% | ~1,459 |
-| You can pet the cat! | 80.00% | ~1,374 |
-| Who put gears in there? | 74.00% | ~1,271 |
-| Cream of the Crop | 70.00% | ~1,202 |
-| Thanks for the free chip, Peppermint! | 70.00% | ~1,202 |
-| You got this, Peppermint? | 64.00% | ~1,099 |
-| Perfect Parry | 62.00% | ~1,065 |
-| Alright, that felt AWESOME! | 62.00% | ~1,065 |
-| I play my own way! | 58.00% | ~996 |
-| This will cost you big time | 55.00% | ~944 |
-| Uh, they were broken when I got here | 55.00% | ~944 |
-| Z-shielding's got nothing on us! | 53.00% | ~910 |
-| Kissing the sky! | 52.00% | ~893 |
-| Whoa! There's ANOTHER health bar!? | 48.00% | ~824 |
-| Does that say weakpoint? | 48.00% | ~824 |
-| The Negotiator | 47.00% | ~807 |
-| You must like calling me in, Chai | 41.00% | ~704 |
-| Out in a puff of smoke | 41.00% | ~704 |
-| Headliner | 40.00% | ~687 |
-| Time to pay up! | 37.00% | ~635 |
-| Perfecter Parry-er! | 37.00% | ~635 |
-| Who's the boss now? | 35.00% | ~601 |
-| I have to read these things? | 33.00% | ~567 |
-| I look cool. But I can look COOLER. | 33.00% | ~567 |
-| That's a lot of junk metal… | 26.00% | ~446 |
-| There's such a thing as TOO helpful | 26.00% | ~446 |
-| Beat-hit mania | 24.00% | ~412 |
-| I told you I'd be fine, Peppermint! | 22.00% | ~378 |
-| Well that was a rush! | 21.00% | ~361 |
-| Check out my moves! | 16.00% | ~275 |
-| Wanna hear my playlist? | 15.00% | ~258 |
-| Chip-tuned | 14.00% | ~240 |
-| We're Jammin' | 12.00% | ~206 |
+| Start with a bang! | 85.00% | ~1,466 |
+| Feeling the beat! | 85.00% | ~1,466 |
+| You can pet the cat! | 80.00% | ~1,380 |
+| Who put gears in there? | 74.00% | ~1,276 |
+| Cream of the Crop | 70.00% | ~1,208 |
+| Thanks for the free chip, Peppermint! | 69.00% | ~1,190 |
+| You got this, Peppermint? | 64.00% | ~1,104 |
+| Perfect Parry | 62.00% | ~1,070 |
+| Alright, that felt AWESOME! | 61.00% | ~1,052 |
+| I play my own way! | 58.00% | ~1,000 |
+| This will cost you big time | 55.00% | ~949 |
+| Uh, they were broken when I got here | 55.00% | ~949 |
+| Z-shielding's got nothing on us! | 53.00% | ~914 |
+| Kissing the sky! | 52.00% | ~897 |
+| Whoa! There's ANOTHER health bar!? | 48.00% | ~828 |
+| Does that say weakpoint? | 48.00% | ~828 |
+| The Negotiator | 46.00% | ~794 |
+| You must like calling me in, Chai | 41.00% | ~707 |
+| Out in a puff of smoke | 41.00% | ~707 |
+| Headliner | 40.00% | ~690 |
+| Time to pay up! | 37.00% | ~638 |
+| Perfecter Parry-er! | 37.00% | ~638 |
+| Who's the boss now? | 35.00% | ~604 |
+| I have to read these things? | 33.00% | ~569 |
+| I look cool. But I can look COOLER. | 33.00% | ~569 |
+| That's a lot of junk metal… | 26.00% | ~448 |
+| There's such a thing as TOO helpful | 26.00% | ~448 |
+| Beat-hit mania | 24.00% | ~414 |
+| I told you I'd be fine, Peppermint! | 22.00% | ~380 |
+| Well that was a rush! | 21.00% | ~362 |
+| Check out my moves! | 16.00% | ~276 |
+| Wanna hear my playlist? | 15.00% | ~259 |
+| Chip-tuned | 14.00% | ~242 |
+| We're Jammin' | 12.00% | ~207 |
 | I think I found your calling, Macaron | 10.00% | ~172 |
 | I'm not done with you yet | 10.00% | ~172 |
 | First we parry, then we counter | 10.00% | ~172 |
 | I hit things with a guitar really well. | 10.00% | ~172 |
-| I think I deserve some praise, here! | 8.00% | ~137 |
-| This is a breeze! | 7.00% | ~120 |
-| You ever parry a volcano? | 7.00% | ~120 |
+| I think I deserve some praise, here! | 8.00% | ~138 |
+| This is a breeze! | 7.00% | ~121 |
+| You ever parry a volcano? | 7.00% | ~121 |
 | OK, well THEY came after ME! | 5.00% | ~86 |
 | Problem solved... wait, what? | 4.00% | ~69 |
 | Easy Listening | 3.00% | ~52 |
@@ -59,7 +59,7 @@ Rating: 4.86 (Ranked 29)
 | This was... not what I expected. | 1.00% | ~17 |
 | Have we met before? | 1.00% | ~17 |
 | I saw all those hits coming a measure away! | 1.00% | ~17 |
-| OK, I THINK I know what I'm doing now | 0.90% | ~15 |
+| OK, I THINK I know what I'm doing now | 0.90% | ~16 |
 | I have to read ALL of these things? | 0.80% | ~14 |
 | I'm untouchable! | 0.80% | ~14 |
 | I think that's enough health for now | 0.60% | ~10 |
@@ -67,7 +67,7 @@ Rating: 4.86 (Ranked 29)
 | Didn't skip a beat! | 0.40% | ~7 |
 | What a journey it was... | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,717 (Ranked 149)  
+Progressed: 1,725 (Ranked 149)  
 Completed: 4 (0.23%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 4 (0.23%) (Ranked 135)
 | 2023-05-17 | 1,498 | 4 |
 | 2023-05-18 | 1,510 | 4 |
 | 2023-05-19 | 1,630 | 4 |
-| 2023-05-20 | 1,717 | 4 |
+| 2023-05-20 | 1,725 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

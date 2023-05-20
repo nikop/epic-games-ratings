@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -162,9 +162,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3395,
+  "EOS_Progressed": 3396,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -352,6 +352,11 @@
       "Time": "2023-05-20T04:06:05.9045161+00:00",
       "NumProgressed": 3395,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T15:06:39.2104665+00:00",
+      "NumProgressed": 3396,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -403,7 +408,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1222
+      "UsersEstimate": 1223
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -475,7 +480,7 @@
       "Name": "We\u0027re In",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1053
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -570,7 +575,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3395,
+      "Progressed": 3396,
       "Completed": 0
     }
   ],
@@ -578,8 +583,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-11T21:59:43.2932555+00:00",
-  "LastChanged_Achievements": "2023-05-20T14:05:11.8316591+00:00",
+  "LastChanged_Achievements": "2023-05-20T15:06:39.2104659+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:00.613564+00:00",
-  "LastUpdate_Ratings": "2023-05-20T13:59:01.0314626+00:00",
-  "LastUpdate_Achievements": "2023-05-20T14:05:11.83168+00:00"
+  "LastUpdate_Ratings": "2023-05-20T14:59:56.2112139+00:00",
+  "LastUpdate_Achievements": "2023-05-20T15:06:39.2104874+00:00"
 }
