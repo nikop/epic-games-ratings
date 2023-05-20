@@ -6,20 +6,20 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~16,893 |
-| Thorough | 9.00% | ~15,203 |
+| Genin | 10.00% | ~16,894 |
+| Thorough | 9.00% | ~15,204 |
 | A thief's beginning | 7.00% | ~11,825 |
 | Tanuki Time | 7.00% | ~11,825 |
 | Disguised | 6.00% | ~10,136 |
 | Jonin | 6.00% | ~10,136 |
 | Rescue Takuma | 6.00% | ~10,136 |
 | Rollin' | 6.00% | ~10,136 |
-| Chunin | 5.00% | ~8,446 |
-| Happy Planning | 5.00% | ~8,446 |
-| Ice Ice Yuki | 5.00% | ~8,446 |
-| Mugen Unchained | 5.00% | ~8,446 |
-| Stoned Ox | 5.00% | ~8,446 |
-| Yabu | 5.00% | ~8,446 |
+| Chunin | 5.00% | ~8,447 |
+| Happy Planning | 5.00% | ~8,447 |
+| Ice Ice Yuki | 5.00% | ~8,447 |
+| Mugen Unchained | 5.00% | ~8,447 |
+| Stoned Ox | 5.00% | ~8,447 |
+| Yabu | 5.00% | ~8,447 |
 | Flying Rocks | 4.00% | ~6,757 |
 | Okkoto | 4.00% | ~6,757 |
 | Prisoners | 4.00% | ~6,757 |
@@ -39,7 +39,7 @@ Number of Ratings: 495  (23.09.2022)
 | Old Man | 1.00% | ~1,689 |
 | The End | 1.00% | ~1,689 |
 | Undeserved Honor | 0.80% | ~1,351 |
-| When Cut Across the Neck | 0.70% | ~1,182 |
+| When Cut Across the Neck | 0.70% | ~1,183 |
 | High Five the Moon | 0.60% | ~1,014 |
 | The Cave | 0.60% | ~1,014 |
 | Merciful | 0.40% | ~676 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~169 |
 | Release the Kraken | 0.10% | ~169 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 168,927 (Ranked 50)  
+Progressed: 168,935 (Ranked 50)  
 Completed: 44 (0.03%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,6 +81,7 @@ Completed: 44 (0.03%) (Ranked 182)
 | 2023-05-17 | 168,316 | 44 |
 | 2023-05-18 | 168,601 | 44 |
 | 2023-05-19 | 168,927 | 44 |
+| 2023-05-20 | 168,935 | 44 |
 ## Awards
 Max (Great for Beginners): 548  (Ranked 174)  
 Sum: 4,663 (Ranked 126)  

@@ -34,9 +34,9 @@ Number of Ratings: 20  (23.09.2022)
 | Shortening of the Way | 14.00% | ~41 |
 | The New Director | 13.00% | ~38 |
 | The Director is Dead | 13.00% | ~38 |
+| Discovery | 13.00% | ~38 |
 | Plays Well With Others | 13.00% | ~38 |
 | Adventurer | 12.00% | ~35 |
-| Discovery | 12.00% | ~35 |
 | Very Classy | 11.00% | ~32 |
 | And Here Is Your Statue | 10.00% | ~29 |
 | Under the Table | 10.00% | ~29 |

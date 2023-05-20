@@ -2,7 +2,7 @@
   "ID": "viola",
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
-  "Ranking_Rating": 467,
+  "Ranking_Rating": 466,
   "Ranking_Popularity": 440,
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 140,
@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2424,
+  "EOS_Progressed": 2425,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1114,6 +1114,11 @@
       "Time": "2023-05-19T22:05:05.6219429+00:00",
       "NumProgressed": 2424,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-20T00:05:12.764461+00:00",
+      "NumProgressed": 2425,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1157,7 +1162,7 @@
       "Name": "Blood and justice",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "CordonBleu_28",
@@ -1165,7 +1170,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "CrowdPleaser",
@@ -1189,7 +1194,7 @@
       "Name": "Eureka",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -1197,7 +1202,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "ForAllAurai_8",
@@ -1221,7 +1226,7 @@
       "Name": "Hold my Mead and Watch This",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "HomeSweetHome_25",
@@ -1229,7 +1234,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "HouseofCards_19",
@@ -1309,7 +1314,7 @@
       "Name": "Ready for Summer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1237
     },
     {
       "ID": "ReadyforWinter_42",
@@ -1317,7 +1322,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1551
+      "UsersEstimate": 1552
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -1339,9 +1344,9 @@
       "ID": "StrangeAmalgams_53",
       "SetID": "c4hee28",
       "Name": "Strange amalgams",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 315
+      "UsersEstimate": 291
     },
     {
       "ID": "Tapped_22",
@@ -1460,15 +1465,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2424,
+      "Progressed": 2425,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-05-19T23:06:22.6156901+00:00",
+  "LastChanged_Achievements": "2023-05-20T00:05:12.7644606+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:14.085288+00:00",
-  "LastUpdate_Ratings": "2023-05-19T22:57:48.2007995+00:00",
-  "LastUpdate_Achievements": "2023-05-19T23:06:22.6157262+00:00"
+  "LastUpdate_Ratings": "2023-05-19T23:57:42.8822078+00:00",
+  "LastUpdate_Achievements": "2023-05-20T00:05:12.7644962+00:00"
 }

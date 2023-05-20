@@ -6,17 +6,17 @@ Rating: 4.49 (Ranked 555)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 86.00% | ~18,923 |
-| Advancement | 73.00% | ~16,062 |
-| Meticulously Efficient | 65.00% | ~14,302 |
-| Discovery | 63.00% | ~13,862 |
+| Advancement | 73.00% | ~16,063 |
+| Meticulously Efficient | 65.00% | ~14,303 |
+| Discovery | 63.00% | ~13,863 |
 | Swift Rift Removers | 56.00% | ~12,322 |
 | Fully Upgraded | 55.00% | ~12,102 |
 | Cultured | 53.00% | ~11,662 |
 | I collect Spores, Molds, and Fungi | 52.00% | ~11,442 |
-| Vaporous Expansion | 49.00% | ~10,781 |
-| Teamwork | 45.00% | ~9,901 |
-| There you are! | 44.00% | ~9,681 |
-| Clutch Capture | 41.00% | ~9,021 |
+| Vaporous Expansion | 49.00% | ~10,782 |
+| Teamwork | 45.00% | ~9,902 |
+| There you are! | 44.00% | ~9,682 |
+| Clutch Capture | 41.00% | ~9,022 |
 | Back Off | 36.00% | ~7,921 |
 | Daily Dose | 35.00% | ~7,701 |
 | Welcome to the Crew | 33.00% | ~7,261 |
@@ -38,9 +38,9 @@ Rating: 4.49 (Ranked 555)
 | Tobin's Prodigy | 19.00% | ~4,181 |
 | Reckless | 18.00% | ~3,961 |
 | Terrifying | 17.00% | ~3,741 |
-| Diabolical | 16.00% | ~3,520 |
-| Escape Artist | 16.00% | ~3,520 |
-| Seasoned | 16.00% | ~3,520 |
+| Diabolical | 16.00% | ~3,521 |
+| Escape Artist | 16.00% | ~3,521 |
+| Seasoned | 16.00% | ~3,521 |
 | Liability | 11.00% | ~2,420 |
 | Rivalry | 10.00% | ~2,200 |
 | Fragile Panes | 9.00% | ~1,980 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 555)
 | I don't need these | 1.00% | ~220 |
 | Mycophile | 1.00% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,003 (Ranked 89)  
+Progressed: 22,004 (Ranked 89)  
 Completed: 40 (0.18%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,9 +87,10 @@ Completed: 40 (0.18%) (Ranked 144)
 | 2023-05-17 | 21,890 | 40 |
 | 2023-05-18 | 21,933 | 40 |
 | 2023-05-19 | 22,003 | 40 |
+| 2023-05-20 | 22,004 | 40 |
 ## Awards
 Max (Great for Quick Sessions): 229  (Ranked 245)  
-Sum: 2,074 (Ranked 183)  
+Sum: 2,075 (Ranked 183)  
 Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
@@ -102,7 +103,7 @@ Diff (max vs sum): 62
 | This game is Highly Recommended | 201 |
 | This game is Relaxing | 198 |
 | This game has Amazing Characters | 194 |
-| This game has Quickly Understood Controls | 193 |
+| This game has Quickly Understood Controls | 194 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
 ## Ratings History
@@ -172,3 +173,4 @@ Diff (max vs sum): 62
 | 2023-05-15 | 4.49 | 228 | 2,067 |
 | 2023-05-17 | 4.49 | 228 | 2,069 |
 | 2023-05-18 | 4.49 | 229 | 2,074 |
+| 2023-05-19 | 4.49 | 229 | 2,075 |

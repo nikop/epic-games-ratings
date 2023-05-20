@@ -538,9 +538,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 458480,
+  "EOS_Progressed": 458485,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 685,
+  "EOS_NewPlayers": 689,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3188,6 +3188,11 @@
       "Time": "2023-05-19T23:06:42.5304835+00:00",
       "NumProgressed": 458480,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-20T00:05:27.4131363+00:00",
+      "NumProgressed": 458485,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 79,
@@ -3461,9 +3466,9 @@
       "ID": "achievement_unlock_officer_kb_2",
       "SetID": "8cokdon",
       "Name": "The Mech Soldier",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_unlock_officer_kickstarter_1",
@@ -3830,21 +3835,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 2414,
+      "Progressed": 2419,
       "Completed": 2346
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 458480,
+      "Progressed": 458485,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-19T23:06:42.5304829+00:00",
+  "LastChanged_Achievements": "2023-05-20T00:05:27.4131357+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:33.0666845+00:00",
-  "LastUpdate_Ratings": "2023-05-19T22:59:40.6315276+00:00",
-  "LastUpdate_Achievements": "2023-05-19T23:06:42.5305819+00:00"
+  "LastUpdate_Ratings": "2023-05-19T23:58:57.469288+00:00",
+  "LastUpdate_Achievements": "2023-05-20T00:05:27.413236+00:00"
 }

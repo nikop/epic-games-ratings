@@ -1,20 +1,20 @@
 # Train Valley
 [Store](https://store.epicgames.com/en-US/p/train-valley-ead642)  
 [View Rawdata](../../db/t/train_valley.json)  
-Rating: 4.47 (Ranked 581)  
+Rating: 4.47 (Ranked 582)  
 Number of Ratings: 28  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 77.00% | ~216 |
-| Close call! | 75.00% | ~211 |
-| Builder | 57.00% | ~160 |
-| Pangs of conscience | 51.00% | ~143 |
-| Living it large! | 47.00% | ~132 |
-| Collector | 45.00% | ~126 |
+| Getting started | 77.00% | ~217 |
+| Close call! | 74.00% | ~209 |
+| Builder | 57.00% | ~161 |
+| Pangs of conscience | 51.00% | ~144 |
+| Living it large! | 47.00% | ~133 |
+| Collector | 45.00% | ~127 |
 | Need to think | 43.00% | ~121 |
-| Completely nuts! | 36.00% | ~101 |
-| Just in time! | 35.00% | ~98 |
+| Completely nuts! | 36.00% | ~102 |
+| Just in time! | 35.00% | ~99 |
 | Europe | 32.00% | ~90 |
 | It's no coincidence. | 32.00% | ~90 |
 | Let's roll! | 28.00% | ~79 |
@@ -22,7 +22,7 @@ Number of Ratings: 28  (23.09.2022)
 | Ouroboros | 27.00% | ~76 |
 | Non Stop! | 27.00% | ~76 |
 | Madness! | 26.00% | ~73 |
-| Foreman | 24.00% | ~67 |
+| Foreman | 24.00% | ~68 |
 | Missed it! | 23.00% | ~65 |
 | Russia | 21.00% | ~59 |
 | America | 18.00% | ~51 |
@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Maniac vandal | 0.70% | ~2 |
 | Salesman | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 281 (Ranked 213)  
+Progressed: 282 (Ranked 213)  
 Completed: 2 (0.71%) (Ranked 100)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,6 +59,7 @@ Completed: 2 (0.71%) (Ranked 100)
 | 2023-05-15 | 277 | 2 |
 | 2023-05-18 | 280 | 2 |
 | 2023-05-19 | 281 | 2 |
+| 2023-05-20 | 282 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 163,
-  "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_Completed": 30,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -242,11 +242,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1027,
+  "EOS_Progressed": 1028,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.97,
+  "EOS_Completed_Percentage": 4.96,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:57.7032048+00:00",
@@ -512,6 +512,11 @@
       "Time": "2023-05-19T17:05:30.429549+00:00",
       "NumProgressed": 1027,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-20T00:05:26.3460082+00:00",
+      "NumProgressed": 1028,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 11,
@@ -523,7 +528,7 @@
       "Name": "Cutepie",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -531,7 +536,7 @@
       "Name": "Freeze to death",
       "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "ACH_Cacciavite",
@@ -539,7 +544,7 @@
       "Name": "Screwdriver",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -553,9 +558,9 @@
       "ID": "ACH_FineEV5",
       "SetID": "7a9m7mj",
       "Name": "Is she really dead?",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 483
+      "UsersEstimate": 473
     },
     {
       "ID": "ACH_FineEV9",
@@ -571,7 +576,7 @@
       "Name": "All together, again",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -610,15 +615,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1027,
+      "Progressed": 1028,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-05-19T23:06:41.1414955+00:00",
+  "LastChanged_Achievements": "2023-05-20T00:05:26.3460077+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:12:14.3771027+00:00",
-  "LastUpdate_Ratings": "2023-05-19T23:00:45.2293327+00:00",
-  "LastUpdate_Achievements": "2023-05-19T23:06:41.1415086+00:00"
+  "LastUpdate_Ratings": "2023-05-19T23:59:41.0298007+00:00",
+  "LastUpdate_Achievements": "2023-05-20T00:05:26.3460178+00:00"
 }

@@ -96,9 +96,9 @@
       "ID": "ACH_1000_CIVILIANS",
       "SetID": "aio76gp",
       "Name": "Terror Rising",
-      "Percentage": 58,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_100_CARS_DESTROYED",
@@ -160,9 +160,9 @@
       "ID": "ACH_20_CARS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Jalopy Poppy",
-      "Percentage": 56,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_20_MIDAIR_COLLISIONS",
@@ -296,9 +296,9 @@
       "ID": "ACH_KILL_100_ENEMIES",
       "SetID": "aio76gp",
       "Name": "Green-Bodied Monster",
-      "Percentage": 44,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_KILL_300_ENEMIES",
@@ -345,8 +345,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-05-19T23:02:23.4349547+00:00",
+  "LastChanged_Achievements": "2023-05-20T00:00:42.3382005+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:57.7075903+00:00",
-  "LastUpdate_Ratings": "2023-05-19T22:58:37.051149+00:00",
-  "LastUpdate_Achievements": "2023-05-19T23:02:23.4349776+00:00"
+  "LastUpdate_Ratings": "2023-05-19T23:58:16.8505982+00:00",
+  "LastUpdate_Achievements": "2023-05-20T00:00:42.3382227+00:00"
 }

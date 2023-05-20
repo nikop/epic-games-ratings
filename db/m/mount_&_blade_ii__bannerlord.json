@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -4137,9 +4137,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 50314,
+  "EOS_Progressed": 50316,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 675,
+  "EOS_NewPlayers": 674,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6847,6 +6847,11 @@
       "Time": "2023-05-19T23:06:53.4822516+00:00",
       "NumProgressed": 50314,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T00:05:35.8036821+00:00",
+      "NumProgressed": 50316,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -7082,7 +7087,7 @@
       "Name": "Landlord",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 15094
+      "UsersEstimate": 15095
     },
     {
       "ID": "Lawbringer",
@@ -7090,7 +7095,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 17610
+      "UsersEstimate": 17611
     },
     {
       "ID": "Lawmaker",
@@ -7210,7 +7215,7 @@
       "Name": "The king is pleased",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 8050
+      "UsersEstimate": 8051
     },
     {
       "ID": "This Is Our Land",
@@ -7265,15 +7270,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 50314,
+      "Progressed": 50316,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-05-19T20:59:00.0055678+00:00",
-  "LastChanged_Achievements": "2023-05-19T23:06:53.4822513+00:00",
+  "LastChanged_Achievements": "2023-05-20T00:05:35.8036816+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:05:00.2672545+00:00",
-  "LastUpdate_Ratings": "2023-05-19T23:00:16.0486274+00:00",
-  "LastUpdate_Achievements": "2023-05-19T23:06:53.4823343+00:00"
+  "LastUpdate_Ratings": "2023-05-19T23:59:21.0695497+00:00",
+  "LastUpdate_Achievements": "2023-05-20T00:05:35.8037398+00:00"
 }

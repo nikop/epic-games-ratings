@@ -9,9 +9,9 @@
 | Might be useful… | 44.00% | ~11 |
 | Friend! | 40.00% | ~10 |
 | Setting Off | 36.00% | ~9 |
+| Shine! | 36.00% | ~9 |
 | Riddlesolver | 32.00% | ~8 |
 | Clear as Water | 32.00% | ~8 |
-| Shine! | 32.00% | ~8 |
 | Dungeon Mastery | 28.00% | ~7 |
 | The Apprentice | 16.00% | ~4 |
 | The Steed | 16.00% | ~4 |

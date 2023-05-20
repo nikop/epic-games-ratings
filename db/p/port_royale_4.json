@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -777,9 +777,9 @@
       "ID": "ACH038",
       "SetID": "69nfp41",
       "Name": "O Captain! My Captain!",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 286
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH039",
@@ -881,8 +881,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
-  "LastChanged_Achievements": "2023-05-19T23:06:26.636289+00:00",
+  "LastChanged_Achievements": "2023-05-20T00:05:15.7577289+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:02.5497371+00:00",
-  "LastUpdate_Ratings": "2023-05-19T22:58:45.0977652+00:00",
-  "LastUpdate_Achievements": "2023-05-19T23:06:26.6363333+00:00"
+  "LastUpdate_Ratings": "2023-05-19T23:58:21.9210305+00:00",
+  "LastUpdate_Achievements": "2023-05-20T00:05:15.7577713+00:00"
 }

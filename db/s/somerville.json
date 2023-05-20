@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-11-15T00:00:00+00:00",
@@ -84,11 +84,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1557,
+  "EOS_Progressed": 1558,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.61,
+  "EOS_Completed_Percentage": 1.6,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:11.8533699+00:00",
@@ -189,6 +189,11 @@
       "Time": "2023-05-19T19:21:28.692+00:00",
       "NumProgressed": 1557,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-20T00:03:11.3249065+00:00",
+      "NumProgressed": 1558,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 11,
@@ -248,7 +253,7 @@
       "Name": "\u201COccupied!\u201C",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "SomervilleUnderstanding",
@@ -287,7 +292,7 @@
     {
       "ID": "3mk3nll",
       "IsBase": true,
-      "Progressed": 1557,
+      "Progressed": 1558,
       "Completed": 25
     }
   ],
@@ -295,8 +300,8 @@
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-03-31T05:58:16.104552+00:00",
-  "LastChanged_Achievements": "2023-05-19T23:03:23.1591409+00:00",
+  "LastChanged_Achievements": "2023-05-20T00:03:11.3249061+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:14.9054362+00:00",
-  "LastUpdate_Ratings": "2023-05-19T22:57:49.6713489+00:00",
-  "LastUpdate_Achievements": "2023-05-19T23:03:23.1591507+00:00"
+  "LastUpdate_Ratings": "2023-05-19T23:57:43.7889159+00:00",
+  "LastUpdate_Achievements": "2023-05-20T00:03:11.3249171+00:00"
 }

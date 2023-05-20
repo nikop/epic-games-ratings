@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1090,
+  "EOS_Progressed": 1092,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1875,6 +1875,11 @@
       "Time": "2023-05-19T23:06:29.8417689+00:00",
       "NumProgressed": 1090,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-20T00:05:18.185612+00:00",
+      "NumProgressed": 1092,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1950,7 +1955,7 @@
       "Name": "Challenger",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "conqueror",
@@ -1974,7 +1979,7 @@
       "Name": "Daily Quest Completionist",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "doingmypart",
@@ -1988,9 +1993,9 @@
       "ID": "dragonclicker",
       "SetID": "3nl4bcg",
       "Name": "Dragon Clicker",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 174
+      "UsersEstimate": 164
     },
     {
       "ID": "dragonmaster",
@@ -2062,7 +2067,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "fellowshippower",
@@ -2070,7 +2075,7 @@
       "Name": "Fellowship Power",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "fourleafclover",
@@ -2278,7 +2283,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "prestigiousx10",
@@ -2318,7 +2323,7 @@
       "Name": "Scroll Master",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "silverwoodliberator",
@@ -2342,7 +2347,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 610
+      "UsersEstimate": 612
     },
     {
       "ID": "thealchemist",
@@ -2374,7 +2379,7 @@
       "Name": "The game is on",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "thepowerofawakening",
@@ -2382,7 +2387,7 @@
       "Name": "The power of Awakening",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "theunstoppable",
@@ -2412,9 +2417,9 @@
       "ID": "trainingmakesaproplayer",
       "SetID": "3nl4bcg",
       "Name": "Training makes a Pro player",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "transmute",
@@ -2446,7 +2451,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "warmachinesarmy",
@@ -2478,14 +2483,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 872
+      "UsersEstimate": 874
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1090,
+      "Progressed": 1092,
       "Completed": 1
     }
   ],
@@ -2493,8 +2498,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-18T22:58:45.6795503+00:00",
-  "LastChanged_Achievements": "2023-05-19T23:06:29.8417685+00:00",
+  "LastChanged_Achievements": "2023-05-20T00:05:18.1856115+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:34.8363446+00:00",
-  "LastUpdate_Ratings": "2023-05-19T22:58:07.8749911+00:00",
-  "LastUpdate_Achievements": "2023-05-19T23:06:29.8418723+00:00"
+  "LastUpdate_Ratings": "2023-05-19T23:57:57.2122723+00:00",
+  "LastUpdate_Achievements": "2023-05-20T00:05:18.1857177+00:00"
 }

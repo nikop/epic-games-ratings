@@ -1,39 +1,39 @@
 # Hand of Fate 2
 [Store](https://store.epicgames.com/en-US/p/hand-of-fate-2)  
 [View Rawdata](../../db/h/hand_of_fate_2.json)  
-Rating: 4.56 (Ranked 448)  
+Rating: 4.56 (Ranked 447)  
 Number of Ratings: 780  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~472,625 |
-| Apprentice | 58.00% | ~380,725 |
-| Close Shave | 25.00% | ~164,106 |
-| Mercenary | 23.00% | ~150,977 |
-| Ninja | 23.00% | ~150,977 |
-| Northern Scourge | 17.00% | ~111,592 |
-| Thief Bane | 14.00% | ~91,899 |
+| The Fool | 72.00% | ~472,628 |
+| Apprentice | 58.00% | ~380,728 |
+| Close Shave | 25.00% | ~164,107 |
+| Mercenary | 23.00% | ~150,978 |
+| Ninja | 23.00% | ~150,978 |
+| Northern Scourge | 17.00% | ~111,593 |
+| Thief Bane | 14.00% | ~91,900 |
 | Master of Arms | 12.00% | ~78,771 |
-| Gambler | 10.00% | ~65,642 |
-| Dice Master | 10.00% | ~65,642 |
-| Swordsman | 9.00% | ~59,078 |
+| Gambler | 10.00% | ~65,643 |
+| Dice Master | 10.00% | ~65,643 |
+| Swordsman | 9.00% | ~59,079 |
 | Knight | 8.00% | ~52,514 |
 | Cure for Corruption | 8.00% | ~52,514 |
 | Focused | 8.00% | ~52,514 |
 | Flurry of Fury | 8.00% | ~52,514 |
 | Long Shot | 7.00% | ~45,950 |
 | Devil Dice | 7.00% | ~45,950 |
-| Adventurer | 6.00% | ~39,385 |
-| Empire's Bane | 6.00% | ~39,385 |
-| Broken Heart | 6.00% | ~39,385 |
+| Adventurer | 6.00% | ~39,386 |
+| Empire's Bane | 6.00% | ~39,386 |
+| Broken Heart | 6.00% | ~39,386 |
 | Jack of all Trades | 5.00% | ~32,821 |
 | Smithy | 5.00% | ~32,821 |
 | Leap of Faith | 3.00% | ~19,693 |
 | Combat Ready | 3.00% | ~19,693 |
 | Stuffed Potato | 3.00% | ~19,693 |
-| Card Sharp | 2.00% | ~13,128 |
-| Magician | 2.00% | ~13,128 |
-| Draknar's Bane | 2.00% | ~13,128 |
+| Card Sharp | 2.00% | ~13,129 |
+| Magician | 2.00% | ~13,129 |
+| Draknar's Bane | 2.00% | ~13,129 |
 | Protector of the Realm | 1.00% | ~6,564 |
 | Purgatorium | 1.00% | ~6,564 |
 | Cursed Soul | 1.00% | ~6,564 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~656 |
 | Blood Pact | 0.10% | ~656 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 656,423 (Ranked 18)  
+Progressed: 656,428 (Ranked 18)  
 Completed: 165 (0.03%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,6 +85,7 @@ Completed: 165 (0.03%) (Ranked 182)
 | 2023-05-17 | 656,314 | 165 |
 | 2023-05-18 | 656,361 | 165 |
 | 2023-05-19 | 656,423 | 165 |
+| 2023-05-20 | 656,428 | 165 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 426)  
 Sum: 180 (Ranked 360)  

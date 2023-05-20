@@ -39,6 +39,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Tech Specialist | 0.10% | ~458 |
 | The Ace Pilot | 0.10% | ~458 |
 | The Tech Med | 0.10% | ~458 |
+| The Mech Soldier | 0.10% | ~458 |
 | The lucky charm | 0.10% | ~458 |
 | The Anonymous | 0.10% | ~458 |
 | The Smuggler | 0.10% | ~458 |
@@ -62,7 +63,6 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Executioner | 0.10% | ~2 |
 | Soldiers of Fortune | 0.10% | ~2 |
 | Hand of the Emperor | 0.10% | ~2 |
-| The Mech Soldier | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
 | The Art of War | 0.00% | ~0 |
 | Geno Mastery | 0.00% | ~0 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.00% | ~0 |
 | Kronos Rule | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458,480 (Ranked 29)  
+Progressed: 458,485 (Ranked 29)  
 Completed: 14 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,6 +116,7 @@ Completed: 14 (0.00%) (Ranked 201)
 | 2023-05-17 | 458,267 | 14 |
 | 2023-05-18 | 458,375 | 14 |
 | 2023-05-19 | 458,480 | 14 |
+| 2023-05-20 | 458,485 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 209 (Ranked 349)  

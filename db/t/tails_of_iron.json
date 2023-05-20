@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1394,
+  "EOS_Progressed": 1395,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -425,6 +425,11 @@
       "Time": "2023-05-19T23:03:41.4257664+00:00",
       "NumProgressed": 1394,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-20T00:03:23.6655493+00:00",
+      "NumProgressed": 1395,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -444,7 +449,7 @@
       "Name": "Collect Gold",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "Collect20Iron",
@@ -452,7 +457,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "Collect50MonsterParts",
@@ -516,7 +521,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1059
+      "UsersEstimate": 1060
     },
     {
       "ID": "CompleteHunterFaction",
@@ -556,7 +561,7 @@
       "Name": "Defeat Ratnor Rodentson",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -580,7 +585,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "GetTHWeapon",
@@ -596,7 +601,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "Kill25Frogs",
@@ -604,7 +609,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "Kill25Mozi",
@@ -612,7 +617,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "MeetTheMoles",
@@ -636,7 +641,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "RepairSmith",
@@ -644,7 +649,7 @@
       "Name": "Smithy Ready to Craft",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "RepairThroneRoom",
@@ -660,7 +665,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "ReturnPowerInMines",
@@ -675,22 +680,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1394,
+      "Progressed": 1395,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 35,
-      "Completed": 35
+      "Progressed": 36,
+      "Completed": 36
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-04-02T20:59:05.8070796+00:00",
-  "LastChanged_Achievements": "2023-05-19T23:03:41.4257655+00:00",
+  "LastChanged_Achievements": "2023-05-20T00:03:23.6655488+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3670256+00:00",
-  "LastUpdate_Ratings": "2023-05-19T22:58:35.2828389+00:00",
-  "LastUpdate_Achievements": "2023-05-19T23:03:41.4257914+00:00"
+  "LastUpdate_Ratings": "2023-05-19T23:58:15.3384119+00:00",
+  "LastUpdate_Achievements": "2023-05-20T00:03:23.6655724+00:00"
 }

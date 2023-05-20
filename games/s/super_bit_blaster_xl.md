@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 2.5K | 94.00% | ~15 |
-| 10K | 88.00% | ~14 |
-| 1K | 88.00% | ~14 |
-| 15K | 69.00% | ~11 |
-| 5K | 69.00% | ~11 |
-| 25K | 56.00% | ~9 |
-| 50K | 50.00% | ~8 |
-| 75K | 44.00% | ~7 |
-| Bit Blaster V2 | 38.00% | ~6 |
-| 1.5 Million | 31.00% | ~5 |
-| 500K | 31.00% | ~5 |
-| Bit Blaster V3 | 31.00% | ~5 |
-| Bit Blaster V4 | 31.00% | ~5 |
-| Bit Blaster V5 | 13.00% | ~2 |
-| Bit Blaster V6 | 13.00% | ~2 |
-| Bit Blaster V7 | 13.00% | ~2 |
-| Bit Blaster V8 | 13.00% | ~2 |
+| 2.5K | 94.00% | ~16 |
+| 1K | 88.00% | ~15 |
+| 10K | 82.00% | ~14 |
+| 15K | 65.00% | ~11 |
+| 5K | 65.00% | ~11 |
+| 25K | 53.00% | ~9 |
+| 50K | 47.00% | ~8 |
+| 75K | 41.00% | ~7 |
+| Bit Blaster V2 | 35.00% | ~6 |
+| 1.5 Million | 29.00% | ~5 |
+| 500K | 29.00% | ~5 |
+| Bit Blaster V3 | 29.00% | ~5 |
+| Bit Blaster V4 | 29.00% | ~5 |
+| Bit Blaster V5 | 12.00% | ~2 |
+| Bit Blaster V6 | 12.00% | ~2 |
+| Bit Blaster V7 | 12.00% | ~2 |
+| Bit Blaster V8 | 12.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16 (Ranked 315)  
-Completed: 2 (12.50%) (Ranked 11)  
+Progressed: 17 (Ranked 314)  
+Completed: 2 (11.76%) (Ranked 13)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -33,3 +33,4 @@ Completed: 2 (12.50%) (Ranked 11)
 | 2023-05-11 | 5 | 2 |
 | 2023-05-18 | 8 | 2 |
 | 2023-05-19 | 16 | 2 |
+| 2023-05-20 | 17 | 2 |

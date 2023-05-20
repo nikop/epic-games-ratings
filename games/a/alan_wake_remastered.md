@@ -1,17 +1,17 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.56 (Ranked 448)  
+Rating: 4.56 (Ranked 447)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 20.00% | ~9,277 |
-| Float Like a Butterfly | 16.00% | ~7,422 |
-| Let There Be Light | 16.00% | ~7,422 |
-| Nordic Walking | 13.00% | ~6,030 |
-| Bright Falls' Finest | 13.00% | ~6,030 |
-| Under a Thin Layer of Skin | 11.00% | ~5,102 |
+| Follow the Light | 20.00% | ~9,278 |
+| Float Like a Butterfly | 16.00% | ~7,423 |
+| Let There Be Light | 16.00% | ~7,423 |
+| Nordic Walking | 13.00% | ~6,031 |
+| Bright Falls' Finest | 13.00% | ~6,031 |
+| Under a Thin Layer of Skin | 11.00% | ~5,103 |
 | Park Ranger | 9.00% | ~4,175 |
 | Back! Back, I Say! | 9.00% | ~4,175 |
 | Finders Keepers | 9.00% | ~4,175 |
@@ -22,7 +22,7 @@ Number of Ratings: 524  (23.09.2022)
 | Sound and Fury | 8.00% | ~3,711 |
 | Missed by a Mile | 8.00% | ~3,711 |
 | Damn Good Cup of Coffee | 8.00% | ~3,711 |
-| A Friend in Need | 8.00% | ~788 |
+| A Friend in Need | 8.00% | ~789 |
 | Heavy Metal | 7.00% | ~3,247 |
 | Iron Horse | 7.00% | ~3,247 |
 | Perchance to Dream | 7.00% | ~3,247 |
@@ -34,12 +34,12 @@ Number of Ratings: 524  (23.09.2022)
 | The Lady of the Light | 6.00% | ~2,783 |
 | Two For the Price of One | 6.00% | ~2,783 |
 | Energized! | 6.00% | ~2,783 |
-| A Friend Indeed | 6.00% | ~591 |
-| Tornado Wrangler | 5.00% | ~2,319 |
-| What Light Through Yonder Window | 5.00% | ~2,319 |
-| Right of Way | 5.00% | ~2,319 |
+| A Friend Indeed | 6.00% | ~592 |
+| Tornado Wrangler | 5.00% | ~2,320 |
+| What Light Through Yonder Window | 5.00% | ~2,320 |
+| Right of Way | 5.00% | ~2,320 |
 | Ding! | 5.00% | ~493 |
-| Departure | 4.00% | ~1,855 |
+| Departure | 4.00% | ~1,856 |
 | Children of the Elder God | 3.00% | ~1,392 |
 | Drink 'Em Both Up | 3.00% | ~1,392 |
 | Hardboiled Writer | 3.00% | ~1,392 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,386 (Ranked 75)  
+Progressed: 46,391 (Ranked 75)  
 Completed: 45 (0.10%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,6 +104,7 @@ Completed: 45 (0.10%) (Ranked 158)
 | 2023-05-17 | 46,208 | 44 |
 | 2023-05-18 | 46,244 | 44 |
 | 2023-05-19 | 46,386 | 45 |
+| 2023-05-20 | 46,391 | 45 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

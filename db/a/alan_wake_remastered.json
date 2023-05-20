@@ -2,12 +2,12 @@
   "ID": "2e92a78949e2474aa89271b8b893f3b0",
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
-  "Ranking_Rating": 448,
+  "Ranking_Rating": 447,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46386,
+  "EOS_Progressed": 46391,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1916,6 +1916,11 @@
       "Time": "2023-05-19T23:06:23.1794792+00:00",
       "NumProgressed": 46386,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-05-20T00:05:13.3220343+00:00",
+      "NumProgressed": 46391,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 67,
@@ -1927,7 +1932,7 @@
       "Name": "Follow the Light",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9277
+      "UsersEstimate": 9278
     },
     {
       "ID": "02",
@@ -1935,7 +1940,7 @@
       "Name": "Nordic Walking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6030
+      "UsersEstimate": 6031
     },
     {
       "ID": "03",
@@ -1943,7 +1948,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6030
+      "UsersEstimate": 6031
     },
     {
       "ID": "04",
@@ -1959,7 +1964,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5102
+      "UsersEstimate": 5103
     },
     {
       "ID": "06",
@@ -2047,7 +2052,7 @@
       "Name": "Tornado Wrangler",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2319
+      "UsersEstimate": 2320
     },
     {
       "ID": "17",
@@ -2055,7 +2060,7 @@
       "Name": "Departure",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1855
+      "UsersEstimate": 1856
     },
     {
       "ID": "18",
@@ -2119,7 +2124,7 @@
       "Name": "What Light Through Yonder Window",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2319
+      "UsersEstimate": 2320
     },
     {
       "ID": "26",
@@ -2175,7 +2180,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7422
+      "UsersEstimate": 7423
     },
     {
       "ID": "33",
@@ -2199,7 +2204,7 @@
       "Name": "Let There Be Light",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7422
+      "UsersEstimate": 7423
     },
     {
       "ID": "36",
@@ -2239,7 +2244,7 @@
       "Name": "Right of Way",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2319
+      "UsersEstimate": 2320
     },
     {
       "ID": "41",
@@ -2327,7 +2332,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "52",
@@ -2335,7 +2340,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "53",
@@ -2462,21 +2467,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46386,
+      "Progressed": 46391,
       "Completed": 45
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9854,
+      "Progressed": 9859,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-19T23:06:23.1794788+00:00",
+  "LastChanged_Achievements": "2023-05-20T00:05:13.3220337+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:07.5579983+00:00",
-  "LastUpdate_Ratings": "2023-05-19T22:57:42.0014335+00:00",
-  "LastUpdate_Achievements": "2023-05-19T23:06:23.1795679+00:00"
+  "LastUpdate_Ratings": "2023-05-19T23:57:39.0250452+00:00",
+  "LastUpdate_Achievements": "2023-05-20T00:05:13.3221071+00:00"
 }

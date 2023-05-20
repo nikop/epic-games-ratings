@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -72,9 +72,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 583,
+  "EOS_Progressed": 584,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -127,6 +127,11 @@
       "Time": "2023-05-19T20:05:49.6455944+00:00",
       "NumProgressed": 583,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T00:05:17.7134192+00:00",
+      "NumProgressed": 584,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -162,7 +167,7 @@
       "Name": "GOOOAAAL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "3DigitGoalTrophy",
@@ -202,7 +207,7 @@
       "Name": "We come in peace",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "AllGoalTrophy",
@@ -242,7 +247,7 @@
       "Name": "Crowning achievement",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "DancerTrophy",
@@ -264,9 +269,9 @@
       "ID": "DreadTrophy",
       "SetID": "32aeje8",
       "Name": "Existential dread",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 140
     },
     {
       "ID": "DropBallTrophy",
@@ -282,7 +287,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "Ext4Trophy",
@@ -330,7 +335,7 @@
       "Name": "Modern Gorefare",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "GrindTrophy",
@@ -354,7 +359,7 @@
       "Name": "Hammer time",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "HexaTrophy",
@@ -386,7 +391,7 @@
       "Name": "I ran the numbers",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "KKBossTrophy",
@@ -418,7 +423,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "MaxPriceTrophy",
@@ -506,7 +511,7 @@
       "Name": "Swish",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "TerrorTrophy",
@@ -538,7 +543,7 @@
       "Name": "Clean up on Aisle 9",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "WhiteWolfTrophy",
@@ -569,7 +574,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 583,
+      "Progressed": 584,
       "Completed": 0
     }
   ],
@@ -577,8 +582,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-03-31T05:57:16.243609+00:00",
-  "LastChanged_Achievements": "2023-05-19T23:06:29.1625397+00:00",
+  "LastChanged_Achievements": "2023-05-20T00:05:17.7134187+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:47.3233337+00:00",
-  "LastUpdate_Ratings": "2023-05-19T22:58:25.4002069+00:00",
-  "LastUpdate_Achievements": "2023-05-19T23:06:29.1626119+00:00"
+  "LastUpdate_Ratings": "2023-05-19T23:58:08.9454134+00:00",
+  "LastUpdate_Achievements": "2023-05-20T00:05:17.7134682+00:00"
 }

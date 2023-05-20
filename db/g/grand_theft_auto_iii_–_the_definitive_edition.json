@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5012,
+  "EOS_Progressed": 5013,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -1303,6 +1303,11 @@
       "Time": "2023-05-19T23:02:11.5520809+00:00",
       "NumProgressed": 5012,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-20T00:00:34.1858012+00:00",
+      "NumProgressed": 5013,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -1314,7 +1319,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4160
+      "UsersEstimate": 4161
     },
     {
       "ID": "ACH02",
@@ -1338,7 +1343,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 1804
+      "UsersEstimate": 1805
     },
     {
       "ID": "ACH05",
@@ -1386,7 +1391,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "ACH11",
@@ -1416,9 +1421,9 @@
       "ID": "ACH14",
       "SetID": "552d41m",
       "Name": "Liberty City Minute",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 852
+      "UsersEstimate": 802
     },
     {
       "ID": "ACH15",
@@ -1426,7 +1431,7 @@
       "Name": "Full Artillery",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACH16",
@@ -1442,7 +1447,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "ACH18",
@@ -1545,7 +1550,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 5012,
+      "Progressed": 5013,
       "Completed": 26
     }
   ],
@@ -1553,8 +1558,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-12T16:57:58.7220785+00:00",
-  "LastChanged_Achievements": "2023-05-19T23:02:11.5520798+00:00",
+  "LastChanged_Achievements": "2023-05-20T00:00:34.1858008+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:31.8748782+00:00",
-  "LastUpdate_Ratings": "2023-05-19T22:58:03.5469143+00:00",
-  "LastUpdate_Achievements": "2023-05-19T23:02:11.5521088+00:00"
+  "LastUpdate_Ratings": "2023-05-19T23:57:54.2446+00:00",
+  "LastUpdate_Achievements": "2023-05-20T00:00:34.1858272+00:00"
 }

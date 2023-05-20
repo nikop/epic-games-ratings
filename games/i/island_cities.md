@@ -18,10 +18,10 @@
 | Calm neighborhood | 27.00% | ~28 |
 | Elevated ring | 26.00% | ~27 |
 | Not lonely anymore | 24.00% | ~24 |
-| Monumental tribute | 21.00% | ~21 |
-| The beach is right there | 21.00% | ~21 |
-| Commuting | 20.00% | ~20 |
-| Le jardin magnifique | 18.00% | ~18 |
+| Monumental tribute | 22.00% | ~22 |
+| The beach is right there | 22.00% | ~22 |
+| Commuting | 21.00% | ~21 |
+| Le jardin magnifique | 19.00% | ~19 |
 | Aiming for a living and human city | 17.00% | ~17 |
 | City of dreams | 17.00% | ~17 |
 | Happy Christmas night! | 17.00% | ~17 |

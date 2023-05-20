@@ -4,7 +4,7 @@
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 19,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
@@ -146,9 +146,9 @@
       "ID": "delusions",
       "SetID": "202dmm8",
       "Name": "Delusions",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "dont_fear_the_baldness",
@@ -162,9 +162,9 @@
       "ID": "instinct",
       "SetID": "202dmm8",
       "Name": "Instinct",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "job_one_done",
@@ -178,9 +178,9 @@
       "ID": "just_like_me",
       "SetID": "202dmm8",
       "Name": "Just like me",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "making_a_murderer",
@@ -234,9 +234,9 @@
       "ID": "you_are_carol_vorderman",
       "SetID": "202dmm8",
       "Name": "You are Carol Vorderman",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 84
     }
   ],
   "AchievementSets": [
@@ -251,8 +251,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-05-19T23:06:43.8480871+00:00",
+  "LastChanged_Achievements": "2023-05-20T00:05:28.2925002+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:45.4038684+00:00",
-  "LastUpdate_Ratings": "2023-05-19T23:00:45.7027044+00:00",
-  "LastUpdate_Achievements": "2023-05-19T23:06:43.8481015+00:00"
+  "LastUpdate_Ratings": "2023-05-19T23:59:41.2677632+00:00",
+  "LastUpdate_Achievements": "2023-05-20T00:05:28.2925135+00:00"
 }

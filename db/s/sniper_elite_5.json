@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -176,9 +176,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 833,
+  "EOS_Progressed": 836,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -721,6 +721,11 @@
       "Time": "2023-05-19T23:06:17.6018578+00:00",
       "NumProgressed": 833,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-20T00:05:09.1247916+00:00",
+      "NumProgressed": 836,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1042,9 +1047,9 @@
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
       "SetID": "bm6el81",
       "Name": "It\u0027s Starting to Crack",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -1299,13 +1304,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 784,
+      "Progressed": 787,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 833,
+      "Progressed": 836,
       "Completed": 2
     }
   ],
@@ -1313,8 +1318,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-18T16:01:31.1520338+00:00",
-  "LastChanged_Achievements": "2023-05-19T23:06:17.6018571+00:00",
+  "LastChanged_Achievements": "2023-05-20T00:05:09.1247912+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-19T23:01:17.0973698+00:00",
-  "LastUpdate_Achievements": "2023-05-19T23:06:17.6019296+00:00"
+  "LastUpdate_Ratings": "2023-05-20T00:00:02.1679722+00:00",
+  "LastUpdate_Achievements": "2023-05-20T00:05:09.1248612+00:00"
 }

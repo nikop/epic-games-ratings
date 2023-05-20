@@ -6,12 +6,12 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 5.00% | ~1,529 |
-| To The Nines | 4.00% | ~1,223 |
-| The Side Job | 3.00% | ~917 |
-| Wet Work | 3.00% | ~917 |
-| Optimized | 3.00% | ~917 |
-| Performance Review | 3.00% | ~917 |
+| First F#@!ing Day | 5.00% | ~1,531 |
+| To The Nines | 4.00% | ~1,225 |
+| The Side Job | 3.00% | ~919 |
+| Wet Work | 3.00% | ~919 |
+| Optimized | 3.00% | ~919 |
+| Performance Review | 3.00% | ~919 |
 | Finders Keepers | 2.00% | ~612 |
 | Tune Up | 2.00% | ~612 |
 | A Young Empire | 2.00% | ~612 |
@@ -33,10 +33,10 @@ Number of Ratings: 22,103  (23.09.2022)
 | The Spins | 0.70% | ~214 |
 | The Mechanic | 0.70% | ~214 |
 | Face Off | 0.70% | ~16 |
-| We could go home, or… | 0.60% | ~183 |
-| Challenge Accepted | 0.60% | ~183 |
-| A Golden Age | 0.60% | ~183 |
-| Closet Space | 0.60% | ~183 |
+| We could go home, or… | 0.60% | ~184 |
+| Challenge Accepted | 0.60% | ~184 |
+| A Golden Age | 0.60% | ~184 |
+| Closet Space | 0.60% | ~184 |
 | Untouchable | 0.50% | ~153 |
 | Hazardous Heist | 0.50% | ~11 |
 | The Professional | 0.40% | ~122 |
@@ -44,9 +44,9 @@ Number of Ratings: 22,103  (23.09.2022)
 | Neighborly | 0.40% | ~122 |
 | Smooth Moves | 0.40% | ~122 |
 | Tourist | 0.40% | ~122 |
+| Shopping Spree | 0.30% | ~92 |
 | Chaos Tamer | 0.30% | ~92 |
 | Prankster | 0.30% | ~92 |
-| Shopping Spree | 0.20% | ~61 |
 | Always Be Hustling | 0.20% | ~61 |
 | Bonus Round | 0.20% | ~61 |
 | Community Outreach | 0.20% | ~61 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Heard You Like Wheels | 0.10% | ~31 |
 | Fiesta Time | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,583 (Ranked 84)  
+Progressed: 30,624 (Ranked 84)  
 Completed: 19 (0.06%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,6 +90,7 @@ Completed: 19 (0.06%) (Ranked 170)
 | 2023-05-17 | 28,880 | 18 |
 | 2023-05-18 | 29,461 | 19 |
 | 2023-05-19 | 30,583 | 19 |
+| 2023-05-20 | 30,624 | 19 |
 ## Awards
 Max (Extremely Fun): 1,029  (Ranked 133)  
 Sum: 8,339 (Ranked 88)  

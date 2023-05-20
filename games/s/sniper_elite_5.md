@@ -11,12 +11,12 @@ Rating: 4.41 (Ranked 656)
 | Lord of War | 1.00% | ~8 |
 | Resourceful | 1.00% | ~8 |
 | The Kraken Wakes | 0.70% | ~6 |
+| It's Starting to Crack | 0.70% | ~6 |
 | Taking it back | 0.70% | ~6 |
 | Organ Grinder | 0.60% | ~5 |
 | The Long Game | 0.60% | ~5 |
 | Explosive Efficiency | 0.60% | ~5 |
 | As Quiet as a Mouse | 0.60% | ~5 |
-| It's Starting to Crack | 0.60% | ~5 |
 | Target America | 0.60% | ~5 |
 | Opposing Force | 0.50% | ~4 |
 | Snake in the Grass | 0.50% | ~4 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 656)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 833 (Ranked 171)  
+Progressed: 836 (Ranked 171)  
 Completed: 2 (0.24%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,6 +106,7 @@ Completed: 2 (0.24%) (Ranked 136)
 | 2023-05-17 | 728 | 2 |
 | 2023-05-18 | 743 | 2 |
 | 2023-05-19 | 833 | 2 |
+| 2023-05-20 | 836 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

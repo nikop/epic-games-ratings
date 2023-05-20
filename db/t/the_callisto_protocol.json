@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 341,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -410,9 +410,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 12841,
+  "EOS_Progressed": 12853,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 283,
+  "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -890,6 +890,11 @@
       "Time": "2023-05-19T23:01:38.1703473+00:00",
       "NumProgressed": 12841,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-20T00:00:18.2532978+00:00",
+      "NumProgressed": 12853,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 40,
@@ -915,9 +920,9 @@
       "ID": "BACKSTAB_BLIND",
       "SetID": "4hj6d86",
       "Name": "Giving Back",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 257
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -1220,13 +1225,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 12841,
+      "Progressed": 12853,
       "Completed": 51
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 767,
+      "Progressed": 779,
       "Completed": 29
     }
   ],
@@ -1234,8 +1239,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-16T17:57:38.030273+00:00",
-  "LastChanged_Achievements": "2023-05-19T23:01:38.1703468+00:00",
+  "LastChanged_Achievements": "2023-05-20T00:00:18.2532973+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-19T22:57:58.692086+00:00",
-  "LastUpdate_Achievements": "2023-05-19T23:01:38.1703919+00:00"
+  "LastUpdate_Ratings": "2023-05-19T23:57:50.2204686+00:00",
+  "LastUpdate_Achievements": "2023-05-20T00:00:18.2533366+00:00"
 }

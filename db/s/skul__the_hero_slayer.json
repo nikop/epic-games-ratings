@@ -764,9 +764,9 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 7225,
+  "EOS_Progressed": 7226,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1034,6 +1034,11 @@
       "Time": "2023-05-19T20:05:31.7012143+00:00",
       "NumProgressed": 7225,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-20T00:05:01.9320569+00:00",
+      "NumProgressed": 7226,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -1053,7 +1058,7 @@
       "Name": "Too Much of a Talker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ColdBlood",
@@ -1181,7 +1186,7 @@
       "Name": "Quick Movements",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 2384
+      "UsersEstimate": 2385
     },
     {
       "ID": "SkeletonKing",
@@ -1189,7 +1194,7 @@
       "Name": "The Skeleton King",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "StockManagement",
@@ -1197,7 +1202,7 @@
       "Name": "Inventory Management",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2384
+      "UsersEstimate": 2385
     },
     {
       "ID": "TheLegendBegins",
@@ -1205,7 +1210,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 6719
+      "UsersEstimate": 6720
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -1229,22 +1234,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 5997
+      "UsersEstimate": 5998
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7225,
+      "Progressed": 7226,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-05-19T06:59:30.4131127+00:00",
-  "LastChanged_Achievements": "2023-05-19T23:06:08.218344+00:00",
+  "LastChanged_Achievements": "2023-05-20T00:05:01.9320564+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.259325+00:00",
-  "LastUpdate_Ratings": "2023-05-19T22:59:18.9071093+00:00",
-  "LastUpdate_Achievements": "2023-05-19T23:06:08.2183613+00:00"
+  "LastUpdate_Ratings": "2023-05-19T23:58:43.7951178+00:00",
+  "LastUpdate_Achievements": "2023-05-20T00:05:01.9320761+00:00"
 }

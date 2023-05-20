@@ -5,26 +5,26 @@ Rating: 4.50 (Ranked 534)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 76.00% | ~1,059 |
+| Complete Guard Faction | 76.00% | ~1,060 |
 | Become King | 70.00% | ~976 |
-| Ranged Weapon | 59.00% | ~822 |
-| Defeat 25 Frogs | 59.00% | ~822 |
+| Ranged Weapon | 59.00% | ~823 |
+| Defeat 25 Frogs | 59.00% | ~823 |
 | Collect Monster Parts | 55.00% | ~767 |
 | Two Handed Weapon | 54.00% | ~753 |
-| Defeat 25 Grubs | 50.00% | ~697 |
-| Rescue Redgi's Brothers | 49.00% | ~683 |
-| Collect Iron Ore | 45.00% | ~627 |
-| Defeat 25 Mozis | 44.00% | ~613 |
-| Kitchen Ready To Cook | 44.00% | ~613 |
-| Collect Gold | 43.00% | ~599 |
-| Smithy Ready to Craft | 43.00% | ~599 |
+| Defeat 25 Grubs | 50.00% | ~698 |
+| Rescue Redgi's Brothers | 49.00% | ~684 |
+| Collect Iron Ore | 45.00% | ~628 |
+| Defeat 25 Mozis | 44.00% | ~614 |
+| Kitchen Ready To Cook | 44.00% | ~614 |
+| Collect Gold | 43.00% | ~600 |
+| Smithy Ready to Craft | 43.00% | ~600 |
 | Fix the Travellers Wagon | 41.00% | ~572 |
 | Complete Elder Faction | 38.00% | ~530 |
 | End of the Mozis | 35.00% | ~488 |
 | Throne Room Fit For A King | 35.00% | ~488 |
 | Meet the Creatures from the Deep | 33.00% | ~460 |
 | Return Power To The Depths | 33.00% | ~460 |
-| Defeat Ratnor Rodentson | 27.00% | ~376 |
+| Defeat Ratnor Rodentson | 27.00% | ~377 |
 | Return the Statues | 24.00% | ~335 |
 | Defeat Rattus Augustail | 24.00% | ~335 |
 | Complete the Chefs Book | 23.00% | ~321 |
@@ -36,7 +36,7 @@ Rating: 4.50 (Ranked 534)
 | King of Kings | 6.00% | ~84 |
 | A new Warchief rises | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,394 (Ranked 154)  
+Progressed: 1,395 (Ranked 154)  
 Completed: 6 (0.43%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,6 +60,7 @@ Completed: 6 (0.43%) (Ranked 111)
 | 2023-05-16 | 1,377 | 6 |
 | 2023-05-18 | 1,382 | 6 |
 | 2023-05-19 | 1,394 | 6 |
+| 2023-05-20 | 1,395 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

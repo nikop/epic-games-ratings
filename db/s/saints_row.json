@@ -2340,9 +2340,9 @@
       "Count": 1029
     }
   ],
-  "EOS_Progressed": 30583,
+  "EOS_Progressed": 30624,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 3981,
+  "EOS_NewPlayers": 4009,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5195,6 +5195,11 @@
       "Time": "2023-05-19T23:06:15.8109912+00:00",
       "NumProgressed": 30583,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-20T00:05:07.785931+00:00",
+      "NumProgressed": 30624,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 53,
@@ -5228,9 +5233,9 @@
       "ID": "buy_1_thing_from_every_store",
       "SetID": "3ib2d0i",
       "Name": "Shopping Spree",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 92
     },
     {
       "ID": "car_jacked_by_a_ped",
@@ -5262,7 +5267,7 @@
       "Name": "We could go home, or\u2026",
       "Percentage": 0.6,
       "XP": 75,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "complete_all_of_wanted",
@@ -5286,7 +5291,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "complete_final_mission",
@@ -5302,7 +5307,7 @@
       "Name": "The Side Job",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 917
+      "UsersEstimate": 919
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -5310,7 +5315,7 @@
       "Name": "Wet Work",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 917
+      "UsersEstimate": 919
     },
     {
       "ID": "complete_mission_1",
@@ -5318,7 +5323,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1529
+      "UsersEstimate": 1531
     },
     {
       "ID": "customize_a_vehicle",
@@ -5334,7 +5339,7 @@
       "Name": "Optimized",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 917
+      "UsersEstimate": 919
     },
     {
       "ID": "cutting_edge_materials",
@@ -5406,7 +5411,7 @@
       "Name": "A Golden Age",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "first_building_placed",
@@ -5454,7 +5459,7 @@
       "Name": "Performance Review",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 917
+      "UsersEstimate": 919
     },
     {
       "ID": "hit_max_level",
@@ -5518,7 +5523,7 @@
       "Name": "Closet Space",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "prank_coop_partner",
@@ -5590,7 +5595,7 @@
       "Name": "To The Nines",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1225
     },
     {
       "ID": "whole_map_purple",
@@ -5629,22 +5634,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 30583,
+      "Progressed": 30624,
       "Completed": 19
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 2220,
-      "Completed": 513
+      "Progressed": 2261,
+      "Completed": 515
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-05-19T13:59:01.1568817+00:00",
-  "LastChanged_Achievements": "2023-05-19T23:06:15.8109907+00:00",
+  "LastChanged_Achievements": "2023-05-20T00:05:07.7859305+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:12.3332393+00:00",
-  "LastUpdate_Ratings": "2023-05-19T23:00:08.1630909+00:00",
-  "LastUpdate_Achievements": "2023-05-19T23:06:15.8110732+00:00"
+  "LastUpdate_Ratings": "2023-05-19T23:59:15.9048987+00:00",
+  "LastUpdate_Achievements": "2023-05-20T00:05:07.7859925+00:00"
 }
