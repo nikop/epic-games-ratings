@@ -11,8 +11,8 @@
 | Act 1 | 33.00% | ~32 |
 | Wrench | 32.00% | ~31 |
 | Purr-fect | 31.00% | ~30 |
+| Soldering iron | 30.00% | ~29 |
 | Mug | 29.00% | ~28 |
-| Soldering iron | 29.00% | ~28 |
 | Robot Bros | 26.00% | ~25 |
 | Act 2 | 25.00% | ~24 |
 | Harpoon | 23.00% | ~22 |

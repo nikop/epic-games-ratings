@@ -2,7 +2,7 @@
   "ID": "135201128d4f428699a891fc501a5097",
   "Name": "Scorn",
   "ProductSlug": "scorn",
-  "Ranking_Rating": 571,
+  "Ranking_Rating": 570,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 147,
@@ -507,9 +507,9 @@
       "ID": "006",
       "SetID": "94k0mj8",
       "Name": "006",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 80,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "007",
@@ -572,8 +572,8 @@
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-05-05T21:59:14.505449+00:00",
-  "LastChanged_Achievements": "2023-05-20T12:05:32.3620527+00:00",
+  "LastChanged_Achievements": "2023-05-20T13:08:00.4120693+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:35.3193403+00:00",
-  "LastUpdate_Ratings": "2023-05-20T11:57:58.3146489+00:00",
-  "LastUpdate_Achievements": "2023-05-20T12:05:32.362063+00:00"
+  "LastUpdate_Ratings": "2023-05-20T13:00:31.1720868+00:00",
+  "LastUpdate_Achievements": "2023-05-20T13:08:00.4120776+00:00"
 }

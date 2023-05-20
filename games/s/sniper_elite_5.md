@@ -1,29 +1,29 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.41 (Ranked 656)  
+Rating: 4.41 (Ranked 657)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 4.00% | ~36 |
+| Meeting Resistance | 5.00% | ~46 |
 | Confirming Suspicions | 2.00% | ~18 |
 | Enemy at the Gates | 1.00% | ~9 |
 | Lord of War | 1.00% | ~9 |
 | Resourceful | 1.00% | ~9 |
 | The Kraken Wakes | 0.90% | ~8 |
+| Opposing Force | 0.80% | ~7 |
 | Organ Grinder | 0.80% | ~7 |
 | Taking it back | 0.80% | ~7 |
-| Opposing Force | 0.70% | ~6 |
+| Explosive Efficiency | 0.70% | ~6 |
 | As Quiet as a Mouse | 0.70% | ~6 |
 | It's Starting to Crack | 0.70% | ~6 |
 | Change the Channel | 0.70% | ~6 |
-| Gunslinger | 0.60% | ~5 |
-| The Long Game | 0.60% | ~5 |
-| Precision Is Key | 0.60% | ~5 |
-| Explosive Efficiency | 0.60% | ~5 |
-| Close Quarters | 0.60% | ~5 |
-| Target America | 0.60% | ~5 |
-| The Kraken Sleeps | 0.60% | ~5 |
+| Gunslinger | 0.50% | ~5 |
+| The Long Game | 0.50% | ~5 |
+| Precision Is Key | 0.50% | ~5 |
+| Close Quarters | 0.50% | ~5 |
+| Target America | 0.50% | ~5 |
+| The Kraken Sleeps | 0.50% | ~5 |
 | Just a Flesh Wound | 0.40% | ~4 |
 | Strategist | 0.40% | ~4 |
 | Skirmisher | 0.40% | ~4 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 656)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 900 (Ranked 169)  
+Progressed: 910 (Ranked 168)  
 Completed: 2 (0.22%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 2 (0.22%) (Ranked 136)
 | 2023-05-17 | 728 | 2 |
 | 2023-05-18 | 743 | 2 |
 | 2023-05-19 | 833 | 2 |
-| 2023-05-20 | 900 | 2 |
+| 2023-05-20 | 910 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -21,10 +21,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Trade Baron | 0.90% | ~134 |
 | Homesick | 0.80% | ~119 |
 | Ancient Battleground | 0.80% | ~119 |
+| Sparkdew Crystals | 0.80% | ~119 |
 | Cursed Lands | 0.80% | ~119 |
 | Refinery | 0.70% | ~104 |
-| Sparkdew Crystals | 0.70% | ~104 |
 | Dangerous Lands | 0.70% | ~104 |
+| Haunted Forest | 0.70% | ~104 |
 | Levitating Monument | 0.70% | ~104 |
 | Flooded Mines | 0.70% | ~104 |
 | Monastery of the Holy Flame | 0.70% | ~104 |
@@ -32,7 +33,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Corrosive Torrent | 0.70% | ~104 |
 | A Real Challenge | 0.70% | ~104 |
 | Against All Odds | 0.60% | ~89 |
-| Haunted Forest | 0.60% | ~89 |
 | Statue of the Forefathers | 0.60% | ~89 |
 | Forsaken Gods Temple | 0.60% | ~89 |
 | Watchtower | 0.60% | ~89 |
@@ -41,6 +41,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Defying the Crown | 0.50% | ~75 |
 | Into the Forest | 0.50% | ~75 |
 | Ruined Armory | 0.40% | ~60 |
+| Lizard Utopia | 0.30% | ~45 |
 | Efficient Explorer | 0.30% | ~45 |
 | Fishmen Ritual Site | 0.30% | ~45 |
 | Prestigious Expedition | 0.30% | ~45 |
@@ -49,7 +50,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Beaver Utopia | 0.20% | ~30 |
 | Harpy Utopia | 0.20% | ~30 |
 | Human Utopia | 0.20% | ~30 |
-| Lizard Utopia | 0.20% | ~30 |
 | Victory through Prosperity | 0.20% | ~30 |
 | Paradise | 0.10% | ~15 |
 | Higher Needs | 0.10% | ~15 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,908 (Ranked 98)  
+Progressed: 14,909 (Ranked 98)  
 Completed: 30 (0.20%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 30 (0.20%) (Ranked 140)
 | 2023-05-17 | 14,860 | 30 |
 | 2023-05-18 | 14,878 | 30 |
 | 2023-05-19 | 14,897 | 30 |
-| 2023-05-20 | 14,908 | 30 |
+| 2023-05-20 | 14,909 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 196)  
 Sum: 3,028 (Ranked 150)  

@@ -319,9 +319,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 1524,
+  "EOS_Progressed": 1525,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -534,6 +534,11 @@
       "Time": "2023-05-20T12:05:47.8756565+00:00",
       "NumProgressed": 1524,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-20T13:08:16.1932175+00:00",
+      "NumProgressed": 1525,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -545,7 +550,7 @@
       "Name": "Chain Reaction",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ACH_DEAD_OR_ALIVE",
@@ -553,7 +558,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -697,7 +702,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -841,7 +846,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1098
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -873,7 +878,7 @@
       "Name": "The Great Escape",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ACH_THE_HARD_WAY",
@@ -921,7 +926,7 @@
       "Name": "Unforgiven",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -945,7 +950,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_WINDS_OF_WAR",
@@ -968,15 +973,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1524,
+      "Progressed": 1525,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-04-18T11:59:25.595754+00:00",
-  "LastChanged_Achievements": "2023-05-20T12:05:47.8756561+00:00",
+  "LastChanged_Achievements": "2023-05-20T13:08:16.1932165+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:00.9656203+00:00",
-  "LastUpdate_Ratings": "2023-05-20T11:58:35.0635025+00:00",
-  "LastUpdate_Achievements": "2023-05-20T12:05:47.8756933+00:00"
+  "LastUpdate_Ratings": "2023-05-20T13:01:03.4820829+00:00",
+  "LastUpdate_Achievements": "2023-05-20T13:08:16.1932536+00:00"
 }

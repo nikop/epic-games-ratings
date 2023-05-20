@@ -6,9 +6,9 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 20.00% | ~9,289 |
-| Float Like a Butterfly | 16.00% | ~7,431 |
-| Let There Be Light | 16.00% | ~7,431 |
+| Follow the Light | 20.00% | ~9,290 |
+| Float Like a Butterfly | 16.00% | ~7,432 |
+| Let There Be Light | 16.00% | ~7,432 |
 | Nordic Walking | 13.00% | ~6,038 |
 | Bright Falls' Finest | 13.00% | ~6,038 |
 | Under a Thin Layer of Skin | 11.00% | ~5,109 |
@@ -16,12 +16,12 @@ Number of Ratings: 524  (23.09.2022)
 | Back! Back, I Say! | 9.00% | ~4,180 |
 | Finders Keepers | 9.00% | ~4,180 |
 | Paging Mr. Wake | 9.00% | ~4,180 |
-| Wheels Within Wheels | 8.00% | ~3,715 |
-| They're Heeeeeere! | 8.00% | ~3,715 |
-| The Six-Gun Scribe | 8.00% | ~3,715 |
-| Sound and Fury | 8.00% | ~3,715 |
-| Missed by a Mile | 8.00% | ~3,715 |
-| Damn Good Cup of Coffee | 8.00% | ~3,715 |
+| Wheels Within Wheels | 8.00% | ~3,716 |
+| They're Heeeeeere! | 8.00% | ~3,716 |
+| The Six-Gun Scribe | 8.00% | ~3,716 |
+| Sound and Fury | 8.00% | ~3,716 |
+| Missed by a Mile | 8.00% | ~3,716 |
+| Damn Good Cup of Coffee | 8.00% | ~3,716 |
 | A Friend in Need | 8.00% | ~793 |
 | Heavy Metal | 7.00% | ~3,251 |
 | Iron Horse | 7.00% | ~3,251 |
@@ -45,8 +45,8 @@ Number of Ratings: 524  (23.09.2022)
 | Hardboiled Writer | 3.00% | ~1,393 |
 | If It Flies, It Burns | 3.00% | ~1,393 |
 | KBF-FM | 3.00% | ~1,393 |
-| Kill Your Darlings | 3.00% | ~297 |
-| Heartbreaker | 3.00% | ~297 |
+| Kill Your Darlings | 3.00% | ~298 |
+| Heartbreaker | 3.00% | ~298 |
 | Boob Tube | 2.00% | ~929 |
 | Carny | 2.00% | ~929 |
 | Iron Will | 2.00% | ~198 |
@@ -55,8 +55,8 @@ Number of Ratings: 524  (23.09.2022)
 | An Idyllic Small Town | 1.00% | ~464 |
 | Couch Potato | 1.00% | ~464 |
 | Go Gentle Into That Good Light | 1.00% | ~99 |
-| Words Will Never Harm You | 0.60% | ~59 |
-| Cardboard Companions | 0.60% | ~59 |
+| Words Will Never Harm You | 0.60% | ~60 |
+| Cardboard Companions | 0.60% | ~60 |
 | Fast and Furious | 0.50% | ~50 |
 | Creative Space | 0.50% | ~50 |
 | License Revoked | 0.40% | ~40 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,443 (Ranked 75)  
+Progressed: 46,449 (Ranked 75)  
 Completed: 45 (0.10%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 45 (0.10%) (Ranked 158)
 | 2023-05-17 | 46,208 | 44 |
 | 2023-05-18 | 46,244 | 44 |
 | 2023-05-19 | 46,386 | 45 |
-| 2023-05-20 | 46,443 | 45 |
+| 2023-05-20 | 46,449 | 45 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

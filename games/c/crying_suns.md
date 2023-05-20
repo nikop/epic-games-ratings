@@ -47,6 +47,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Weasel | 0.10% | ~459 |
 | Hammer Mastery | 0.10% | ~459 |
 | Hammer Supremacy | 0.10% | ~459 |
+| Excelsior Mastery | 0.10% | ~459 |
 | Jeef Skeejj | 0.10% | ~459 |
 | Jeef Skagg | 0.10% | ~459 |
 | Survivor | 0.10% | ~459 |
@@ -75,7 +76,6 @@ Number of Ratings: 1,003  (23.09.2022)
 | Void Supremacy | 0.00% | ~0 |
 | Kaos Mastery | 0.00% | ~0 |
 | Kaos Supremacy | 0.00% | ~0 |
-| Excelsior Mastery | 0.00% | ~0 |
 | Excelsior Supremacy | 0.00% | ~0 |
 | Savior | 0.00% | ~0 |
 | The God of War | 0.00% | ~0 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.00% | ~0 |
 | Kronos Rule | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458,524 (Ranked 29)  
+Progressed: 458,529 (Ranked 29)  
 Completed: 14 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 14 (0.00%) (Ranked 201)
 | 2023-05-17 | 458,267 | 14 |
 | 2023-05-18 | 458,375 | 14 |
 | 2023-05-19 | 458,480 | 14 |
-| 2023-05-20 | 458,524 | 14 |
+| 2023-05-20 | 458,529 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 209 (Ranked 349)  

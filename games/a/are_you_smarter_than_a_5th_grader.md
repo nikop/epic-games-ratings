@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Exam Time | 83.00% | ~230 |
+| Exam Time | 84.00% | ~233 |
 | 1st Grade | 41.00% | ~114 |
 | Smarter than a 5th Grader | 35.00% | ~97 |
 | Study Session | 30.00% | ~83 |

@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 69.00% | ~126 |
 | Read Between The Lines | 62.00% | ~113 |
-| High Profile | 59.00% | ~107 |
+| High Profile | 60.00% | ~109 |
 | Whispers In The Dark | 58.00% | ~106 |
 | Fond Memories | 52.00% | ~95 |
 | History Check | 51.00% | ~93 |
@@ -16,7 +16,7 @@
 | Gaze Into The Abyss | 46.00% | ~84 |
 | Open Sesame | 46.00% | ~84 |
 | Sticky Fingers | 46.00% | ~84 |
-| Knives Out | 45.00% | ~82 |
+| Knives Out | 46.00% | ~84 |
 | Back In The Saddle | 44.00% | ~80 |
 | Land, Ho! | 44.00% | ~80 |
 | No Man Is An Island | 42.00% | ~76 |

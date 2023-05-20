@@ -12,9 +12,9 @@ Number of Ratings: 46  (23.09.2022)
 | The Hunt | 18.00% | ~98 |
 | Weeper | 16.00% | ~88 |
 | Devourer | 12.00% | ~66 |
+| Harmless | 11.00% | ~60 |
 | Scion | 10.00% | ~13 |
 | Glare | 10.00% | ~13 |
-| Harmless | 10.00% | ~55 |
 | Silenced Whispers | 10.00% | ~55 |
 | Yank | 10.00% | ~55 |
 | Sharpened Vessel | 10.00% | ~55 |

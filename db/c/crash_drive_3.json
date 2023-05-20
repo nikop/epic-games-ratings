@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 305,
+  "EOS_Progressed": 306,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.66,
+  "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:19.8064239+00:00",
@@ -91,6 +91,11 @@
       "Time": "2023-05-19T07:02:40.9046067+00:00",
       "NumProgressed": 305,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-20T13:03:50.3848113+00:00",
+      "NumProgressed": 306,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -118,7 +123,7 @@
       "Name": "Fore!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "CATAPULT_THROW",
@@ -132,9 +137,9 @@
       "ID": "COIN_COLLECT",
       "SetID": "20koof9",
       "Name": "The Collector",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 80
     },
     {
       "ID": "COLLECT_1_CAR",
@@ -220,9 +225,9 @@
       "ID": "FRONT_AND_BACKFLIP",
       "SetID": "20koof9",
       "Name": "To and Fro",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 76
     },
     {
       "ID": "FRONT_OR_BACKFLIP",
@@ -310,7 +315,7 @@
       "Name": "Insurance fraud",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "HIT_FLYING_UFO",
@@ -358,7 +363,7 @@
       "Name": "The Wild West",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "LOADED_LVL_FOREST",
@@ -372,9 +377,9 @@
       "ID": "LOADED_LVL_SNOW",
       "SetID": "20koof9",
       "Name": "Snow Fun!",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 83
     },
     {
       "ID": "LOADED_LVL_TANK",
@@ -422,7 +427,7 @@
       "Name": "Bag of Tricks",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "STUNT_SCORE_DOUBLE",
@@ -462,7 +467,7 @@
       "Name": "I see the light!",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "WIN_100_EVENTS",
@@ -486,7 +491,7 @@
       "Name": "Event Pro",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "WIN_BALL",
@@ -526,7 +531,7 @@
       "Name": "You\u0027re it",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "WIN_TANK_BATTLES",
@@ -541,7 +546,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 305,
+      "Progressed": 306,
       "Completed": 2
     }
   ],
@@ -549,8 +554,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-05-20T12:01:18.4552465+00:00",
+  "LastChanged_Achievements": "2023-05-20T13:03:50.3848108+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:24.363984+00:00",
-  "LastUpdate_Ratings": "2023-05-20T11:58:56.5206694+00:00",
-  "LastUpdate_Achievements": "2023-05-20T12:01:18.4552858+00:00"
+  "LastUpdate_Ratings": "2023-05-20T13:01:25.6372067+00:00",
+  "LastUpdate_Achievements": "2023-05-20T13:03:50.3848479+00:00"
 }

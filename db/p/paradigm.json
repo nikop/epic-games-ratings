@@ -2,7 +2,7 @@
   "ID": "dd9648d29088406e9e2a61ba33fc13f6",
   "Name": "Paradigm",
   "ProductSlug": "paradigm-875c5c",
-  "Ranking_Rating": 571,
+  "Ranking_Rating": 570,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 409,
@@ -366,6 +366,6 @@
   "FirstSeen": "2022-07-22T20:32:34.4741735+00:00",
   "LastChanged": "2023-03-31T05:58:43.8207787+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:11.3959344+00:00",
-  "LastUpdate_Ratings": "2023-05-20T11:58:43.7932855+00:00",
-  "LastUpdate_Achievements": "2023-05-20T12:02:25.3973472+00:00"
+  "LastUpdate_Ratings": "2023-05-20T13:01:14.8065965+00:00",
+  "LastUpdate_Achievements": "2023-05-20T13:05:16.3005493+00:00"
 }

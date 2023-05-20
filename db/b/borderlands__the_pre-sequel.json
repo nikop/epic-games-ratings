@@ -4,7 +4,7 @@
   "ProductSlug": "borderlands-the-pre-sequel",
   "Ranking_Rating": 555,
   "Ranking_Popularity": 202,
-  "Ranking_PopularitySum": 160,
+  "Ranking_PopularitySum": 159,
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 301,
@@ -2412,10 +2412,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 2746,
       "NumberOfAwardsMax": 396
+    },
+    {
+      "Time": "2023-05-20T13:00:53.0566752+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2747,
+      "NumberOfAwardsMax": 396
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2746,
+  "NumberOfAwards": 2747,
   "NumberOfAwardsMax": 396,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2441,7 +2447,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 335
+      "Count": 336
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2491,8 +2497,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:28.453834+00:00",
-  "LastChanged": "2023-05-19T10:58:43.7385795+00:00",
+  "LastChanged": "2023-05-20T13:00:53.0566751+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:50.7712167+00:00",
-  "LastUpdate_Ratings": "2023-05-20T11:58:23.0985328+00:00",
-  "LastUpdate_Achievements": "2023-05-20T12:03:51.6356003+00:00"
+  "LastUpdate_Ratings": "2023-05-20T13:00:53.0566756+00:00",
+  "LastUpdate_Achievements": "2023-05-20T13:06:31.1800336+00:00"
 }

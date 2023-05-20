@@ -11,16 +11,16 @@
 | A Forest Walk | 32.00% | ~98 |
 | Multiply that! | 31.00% | ~95 |
 | C-C-C-Combo! | 30.00% | ~92 |
-| Snow Fun! | 28.00% | ~85 |
-| Fore! | 27.00% | ~82 |
-| The Collector | 27.00% | ~82 |
-| Insurance fraud | 27.00% | ~82 |
-| To and Fro | 26.00% | ~79 |
-| The Wild West | 26.00% | ~79 |
-| Bag of Tricks | 26.00% | ~79 |
-| I see the light! | 26.00% | ~79 |
-| You're it | 26.00% | ~79 |
+| Fore! | 27.00% | ~83 |
+| Insurance fraud | 27.00% | ~83 |
+| Snow Fun! | 27.00% | ~83 |
+| The Collector | 26.00% | ~80 |
+| The Wild West | 26.00% | ~80 |
+| Bag of Tricks | 26.00% | ~80 |
+| I see the light! | 26.00% | ~80 |
+| You're it | 26.00% | ~80 |
 | First Come, First Serve | 25.00% | ~76 |
+| To and Fro | 25.00% | ~76 |
 | Disoriented | 25.00% | ~76 |
 | Take that Frosty! | 25.00% | ~76 |
 | Goodbye cruel world | 25.00% | ~76 |
@@ -43,7 +43,7 @@
 | Blasting away! | 14.00% | ~43 |
 | Earth Defense Force | 13.00% | ~40 |
 | High Roller | 12.00% | ~37 |
-| Event Pro | 10.00% | ~30 |
+| Event Pro | 10.00% | ~31 |
 | Space Crash | 8.00% | ~24 |
 | To war! | 8.00% | ~24 |
 | Hoarder | 7.00% | ~21 |
@@ -60,8 +60,8 @@
 | Master Mechanic | 1.00% | ~3 |
 | Crashed and Driven | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 305 (Ranked 210)  
-Completed: 2 (0.66%) (Ranked 102)  
+Progressed: 306 (Ranked 210)  
+Completed: 2 (0.65%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -75,6 +75,7 @@ Completed: 2 (0.66%) (Ranked 102)
 | 2023-05-17 | 303 | 2 |
 | 2023-05-18 | 304 | 2 |
 | 2023-05-19 | 305 | 2 |
+| 2023-05-20 | 306 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

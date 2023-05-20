@@ -538,9 +538,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 458524,
+  "EOS_Progressed": 458529,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 677,
+  "EOS_NewPlayers": 676,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3248,6 +3248,11 @@
       "Time": "2023-05-20T12:06:06.8291092+00:00",
       "NumProgressed": 458524,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-20T13:08:35.2940781+00:00",
+      "NumProgressed": 458529,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 79,
@@ -3665,9 +3670,9 @@
       "ID": "achievement_win_all_chapers_with_starter_easy_normal",
       "SetID": "8cokdon",
       "Name": "Excelsior Mastery",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 459
     },
     {
       "ID": "achievement_win_all_chapers_with_starter_hard",
@@ -3890,21 +3895,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 2458,
+      "Progressed": 2463,
       "Completed": 2346
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 458524,
+      "Progressed": 458529,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-20T12:06:06.8291087+00:00",
+  "LastChanged_Achievements": "2023-05-20T13:08:35.2940777+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:33.0666845+00:00",
-  "LastUpdate_Ratings": "2023-05-20T11:59:31.4938617+00:00",
-  "LastUpdate_Achievements": "2023-05-20T12:06:06.8291882+00:00"
+  "LastUpdate_Ratings": "2023-05-20T13:01:57.2020013+00:00",
+  "LastUpdate_Achievements": "2023-05-20T13:08:35.2941587+00:00"
 }

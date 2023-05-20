@@ -13,9 +13,9 @@
 | Reign of Terror | 27.00% | ~12 |
 | Monstrosity Atrocity | 27.00% | ~12 |
 | Crushing All Cars | 20.00% | ~9 |
+| Horror Show | 16.00% | ~7 |
+| Brain Chopper | 14.00% | ~6 |
 | Night Bird | 14.00% | ~6 |
-| Horror Show | 14.00% | ~6 |
-| Brain Chopper | 11.00% | ~5 |
 | Demolition Ambition | 9.00% | ~4 |
 | Hindenburgerer | 7.00% | ~3 |
 | Punchy Wagon | 7.00% | ~3 |

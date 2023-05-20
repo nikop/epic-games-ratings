@@ -5,9 +5,9 @@ Rating: 4.55 (Ranked 466)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Wakey Wakey | 4.00% | ~80 |
 | Without Breaking Some Eggs... | 3.00% | ~60 |
 | Infinite Growth... | 3.00% | ~60 |
-| Wakey Wakey | 3.00% | ~60 |
 | Sputnik 2049 | 3.00% | ~60 |
 | Guy de Borderlands | 2.00% | ~40 |
 | Space Society | 2.00% | ~40 |
@@ -24,17 +24,17 @@ Rating: 4.55 (Ranked 466)
 | Power Outage | 0.90% | ~18 |
 | Convenient Transport | 0.90% | ~18 |
 | Access Granted | 0.80% | ~16 |
+| Necessary Enhancement | 0.80% | ~16 |
+| Please Make it Stop! | 0.80% | ~16 |
 | Sightseeing | 0.70% | ~14 |
-| Necessary Enhancement | 0.70% | ~14 |
-| Please Make it Stop! | 0.70% | ~14 |
 | BRAWL! | 0.60% | ~12 |
 | From the Past | 0.60% | ~12 |
+| In Dolos We Trust | 0.50% | ~10 |
 | All in Good Health | 0.50% | ~10 |
 | Man's Best Friend | 0.40% | ~8 |
 | Oats | 0.40% | ~8 |
 | What They Hide From Us | 0.40% | ~8 |
 | ...  in a finite world | 0.40% | ~8 |
-| In Dolos We Trust | 0.40% | ~8 |
 | Praise the Hull! | 0.40% | ~8 |
 | You Had One Job... | 0.40% | ~8 |
 | Delivery! | 0.40% | ~8 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 466)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,991 (Ranked 146)  
+Progressed: 1,995 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-17 | 1,911 | 0 |
 | 2023-05-18 | 1,926 | 0 |
 | 2023-05-19 | 1,969 | 0 |
-| 2023-05-20 | 1,991 | 0 |
+| 2023-05-20 | 1,995 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

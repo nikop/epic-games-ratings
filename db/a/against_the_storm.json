@@ -2288,7 +2288,7 @@
       "Count": 304
     }
   ],
-  "EOS_Progressed": 14908,
+  "EOS_Progressed": 14909,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
@@ -3838,6 +3838,11 @@
       "Time": "2023-05-20T10:05:22.5302199+00:00",
       "NumProgressed": 14908,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-20T13:08:45.1361541+00:00",
+      "NumProgressed": 14909,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 50,
@@ -3903,9 +3908,9 @@
       "ID": "LizardUtopia",
       "SetID": "cfbk359",
       "Name": "Lizard Utopia",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 45
     },
     {
       "ID": "ManyEvents",
@@ -3991,9 +3996,9 @@
       "ID": "WinNearCrystals",
       "SetID": "cfbk359",
       "Name": "Sparkdew Crystals",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 119
     },
     {
       "ID": "WinNearDangerous",
@@ -4031,9 +4036,9 @@
       "ID": "WinNearHaunted",
       "SetID": "cfbk359",
       "Name": "Haunted Forest",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 104
     },
     {
       "ID": "WinNearLevitating",
@@ -4248,15 +4253,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 14908,
+      "Progressed": 14909,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-19T11:59:18.6406919+00:00",
-  "LastChanged_Achievements": "2023-05-20T12:06:16.7577021+00:00",
+  "LastChanged_Achievements": "2023-05-20T13:08:45.1361536+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:57.8342165+00:00",
-  "LastUpdate_Ratings": "2023-05-20T12:00:24.7609642+00:00",
-  "LastUpdate_Achievements": "2023-05-20T12:06:16.7577424+00:00"
+  "LastUpdate_Ratings": "2023-05-20T13:02:51.4969348+00:00",
+  "LastUpdate_Achievements": "2023-05-20T13:08:45.1361951+00:00"
 }

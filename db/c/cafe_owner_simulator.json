@@ -403,9 +403,9 @@
       "ID": "CHIEF",
       "SetID": "64e5lgf",
       "Name": "CHIEF",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 53
     },
     {
       "ID": "CLEANER",
@@ -427,9 +427,9 @@
       "ID": "FIREFIGHTER",
       "SetID": "64e5lgf",
       "Name": "FIREFIGHTER",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 152
+      "UsersEstimate": 155
     },
     {
       "ID": "FIRST_100K",
@@ -508,8 +508,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-05-20T12:05:54.0279155+00:00",
+  "LastChanged_Achievements": "2023-05-20T13:08:22.2665054+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:57.2732477+00:00",
-  "LastUpdate_Ratings": "2023-05-20T11:59:45.8209229+00:00",
-  "LastUpdate_Achievements": "2023-05-20T12:05:54.0279263+00:00"
+  "LastUpdate_Ratings": "2023-05-20T13:02:13.150878+00:00",
+  "LastUpdate_Achievements": "2023-05-20T13:08:22.2665137+00:00"
 }

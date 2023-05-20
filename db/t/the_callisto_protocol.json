@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 341,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -410,9 +410,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 12943,
+  "EOS_Progressed": 12956,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 383,
+  "EOS_NewPlayers": 396,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -950,6 +950,11 @@
       "Time": "2023-05-20T12:01:33.4228449+00:00",
       "NumProgressed": 12943,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-20T13:04:04.7614427+00:00",
+      "NumProgressed": 12956,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 40,
@@ -1041,7 +1046,7 @@
       "Name": "Recidivist",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "FINISH_GAME_HARDCORE_PLUS",
@@ -1049,7 +1054,7 @@
       "Name": "Lifer",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "FINISH_NEW_GAME_PLUS",
@@ -1057,7 +1062,7 @@
       "Name": "Parole Denied",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -1111,9 +1116,9 @@
       "ID": "PERFECT_DODGE_GRUNT",
       "SetID": "4hj6d86",
       "Name": "The Commonality",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 65
+      "UsersEstimate": 78
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -1241,7 +1246,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -1280,13 +1285,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 12943,
+      "Progressed": 12956,
       "Completed": 51
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 869,
+      "Progressed": 882,
       "Completed": 29
     }
   ],
@@ -1294,8 +1299,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-16T17:57:38.030273+00:00",
-  "LastChanged_Achievements": "2023-05-20T12:01:33.4228444+00:00",
+  "LastChanged_Achievements": "2023-05-20T13:04:04.7614423+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-20T11:57:46.2252838+00:00",
-  "LastUpdate_Achievements": "2023-05-20T12:01:33.4228728+00:00"
+  "LastUpdate_Ratings": "2023-05-20T13:00:20.6998045+00:00",
+  "LastUpdate_Achievements": "2023-05-20T13:04:04.7614701+00:00"
 }

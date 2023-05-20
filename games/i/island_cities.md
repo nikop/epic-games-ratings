@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome! | 99.00% | ~108 |
-| A tiny town | 83.00% | ~90 |
-| Buildings, roads, cars, ...and people | 67.00% | ~73 |
-| Great view from the beach and from the hill | 57.00% | ~62 |
+| Welcome! | 99.00% | ~109 |
+| A tiny town | 83.00% | ~91 |
+| Buildings, roads, cars, ...and people | 66.00% | ~73 |
+| Great view from the beach and from the hill | 56.00% | ~62 |
 | Bridges to come and go | 51.00% | ~56 |
 | Found an oasis | 43.00% | ~47 |
-| Burger or pizza? | 39.00% | ~43 |
+| Burger or pizza? | 38.00% | ~42 |
 | Passion for sports | 35.00% | ~38 |
 | Who loves trains? | 31.00% | ~34 |
 | Easy and steady climb | 31.00% | ~34 |
 | At the heart of the city | 29.00% | ~32 |
-| Calm neighborhood | 28.00% | ~31 |
-| Elevated ring | 27.00% | ~29 |
+| Calm neighborhood | 27.00% | ~30 |
+| Elevated ring | 26.00% | ~29 |
 | Not lonely anymore | 24.00% | ~26 |
 | Monumental tribute | 22.00% | ~24 |
 | The beach is right there | 21.00% | ~23 |
-| Commuting | 20.00% | ~22 |
+| Commuting | 21.00% | ~23 |
 | Le jardin magnifique | 17.00% | ~19 |
-| Aiming for a living and human city | 17.00% | ~19 |
-| City of dreams | 17.00% | ~19 |
-| Happy Christmas night! | 17.00% | ~19 |
-| Night walk along the beach | 17.00% | ~19 |
+| Aiming for a living and human city | 16.00% | ~18 |
+| City of dreams | 16.00% | ~18 |
+| Happy Christmas night! | 16.00% | ~18 |
+| Night walk along the beach | 16.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 109 (Ranked 255)  
-Completed: 18 (16.51%) (Ranked 8)  
+Progressed: 110 (Ranked 255)  
+Completed: 18 (16.36%) (Ranked 8)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -55,7 +55,7 @@ Completed: 18 (16.51%) (Ranked 8)
 | 2023-05-17 | 74 | 14 |
 | 2023-05-18 | 79 | 14 |
 | 2023-05-19 | 102 | 17 |
-| 2023-05-20 | 109 | 18 |
+| 2023-05-20 | 110 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
