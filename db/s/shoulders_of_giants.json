@@ -6,8 +6,8 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 143,
-  "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_Completed": 113,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -722,17 +722,17 @@
       "ID": "deal_damage",
       "SetID": "236b9eg",
       "Name": "Ouch",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1135
     },
     {
       "ID": "defeat_enemies",
       "SetID": "236b9eg",
       "Name": "A Ribbiting Performance",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 1560
+      "UsersEstimate": 1580
     },
     {
       "ID": "defeat_tree_dummy",
@@ -835,8 +835,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-05-15T22:59:29.8330198+00:00",
-  "LastChanged_Achievements": "2023-05-20T08:07:03.1437597+00:00",
+  "LastChanged_Achievements": "2023-05-20T09:05:15.9754109+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:21.4953983+00:00",
-  "LastUpdate_Ratings": "2023-05-20T08:01:13.3823551+00:00",
-  "LastUpdate_Achievements": "2023-05-20T08:07:03.1437797+00:00"
+  "LastUpdate_Ratings": "2023-05-20T08:59:44.8281444+00:00",
+  "LastUpdate_Achievements": "2023-05-20T09:05:15.9754255+00:00"
 }

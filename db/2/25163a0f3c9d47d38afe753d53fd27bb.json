@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 38,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 166,
+  "EOS_Progressed": 167,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 3.61,
+  "EOS_Completed_Percentage": 3.59,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -231,6 +231,11 @@
       "Time": "2023-05-20T07:01:23.5688991+00:00",
       "NumProgressed": 166,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-20T09:00:12.151423+00:00",
+      "NumProgressed": 167,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -242,7 +247,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "LEVEL_002",
@@ -250,15 +255,15 @@
       "Name": "Promising crop",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "LEVEL_003",
       "SetID": "212bg48",
       "Name": "A horse in the country",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 109
     },
     {
       "ID": "LEVEL_004",
@@ -266,7 +271,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "LEVEL_005",
@@ -274,7 +279,7 @@
       "Name": "Small village",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "LEVEL_006",
@@ -296,9 +301,9 @@
       "ID": "LEVEL_008",
       "SetID": "212bg48",
       "Name": "Let\u0027s go to the market",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 48
     },
     {
       "ID": "LEVEL_009",
@@ -336,17 +341,17 @@
       "ID": "LEVEL_013",
       "SetID": "212bg48",
       "Name": "Higher ground",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "LEVEL_014",
       "SetID": "212bg48",
       "Name": "Cross-country",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "LEVEL_015",
@@ -481,14 +486,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 166,
+      "Progressed": 167,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-20T08:01:45.4311684+00:00",
+  "LastChanged_Achievements": "2023-05-20T09:00:12.1514226+00:00",
   "LastUpdate_AppInfo": "2023-05-15T11:57:23.4437098+00:00",
-  "LastUpdate_Ratings": "2023-05-20T07:57:01.315405+00:00",
-  "LastUpdate_Achievements": "2023-05-20T08:01:45.4312342+00:00"
+  "LastUpdate_Ratings": "2023-05-20T08:56:46.6850635+00:00",
+  "LastUpdate_Achievements": "2023-05-20T09:00:12.1514459+00:00"
 }

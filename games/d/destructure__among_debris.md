@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Graduation | 73.00% | ~58 |
+| Graduation | 74.00% | ~59 |
 | You Have Been Deaded | 69.00% | ~55 |
 | Rookie | 68.00% | ~54 |
 | Apprentice Destructor | 24.00% | ~19 |

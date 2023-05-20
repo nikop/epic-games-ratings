@@ -6,10 +6,10 @@ Rating: 4.32 (Ranked 744)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | On the Shoulders of Giants | 88.00% | ~1,783 |
-| A Ribbiting Performance | 77.00% | ~1,560 |
+| A Ribbiting Performance | 78.00% | ~1,580 |
 | At Least We Have Each Other... | 76.00% | ~1,540 |
 | Frogbot | 73.00% | ~1,479 |
-| Ouch | 55.00% | ~1,114 |
+| Ouch | 56.00% | ~1,135 |
 | Fun in the Stun | 55.00% | ~1,114 |
 | Do you feel like a tough guy? | 45.00% | ~912 |
 | The Interdimensional Power of Friendship | 44.00% | ~891 |
@@ -26,7 +26,7 @@ Rating: 4.32 (Ranked 744)
 | So do we just stay up here, or?... | 2.00% | ~41 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,026 (Ranked 143)  
-Completed: 8 (0.39%) (Ranked 114)  
+Completed: 8 (0.39%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

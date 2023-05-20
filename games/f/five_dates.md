@@ -15,7 +15,7 @@
 | Booty Call | 27.00% | ~98 |
 | Planting the Seed | 21.00% | ~76 |
 | Light Sleepers | 17.00% | ~62 |
-| Smooth Criminal | 8.00% | ~29 |
+| Smooth Criminal | 9.00% | ~33 |
 | Sore Loser | 7.00% | ~25 |
 | Interrogation | 4.00% | ~14 |
 | Crash and Burn | 2.00% | ~7 |

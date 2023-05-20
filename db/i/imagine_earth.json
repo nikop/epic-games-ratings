@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 366,
+  "EOS_Progressed": 367,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -98,6 +98,11 @@
     {
       "Time": "2023-05-19T13:04:27.9168078+00:00",
       "NumProgressed": 366,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T09:00:29.9623426+00:00",
+      "NumProgressed": 367,
       "NumCompleted": 0
     }
   ],
@@ -230,7 +235,7 @@
       "Name": "Joma",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "PlanetLorian",
@@ -238,7 +243,7 @@
       "Name": "Lorian",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "PlanetMagni",
@@ -270,7 +275,7 @@
       "Name": "Tuto",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "PlanetUdionTorix",
@@ -301,7 +306,7 @@
     {
       "ID": "c2k469b",
       "IsBase": true,
-      "Progressed": 366,
+      "Progressed": 367,
       "Completed": 0
     }
   ],
@@ -309,8 +314,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-03-31T05:58:11.9489163+00:00",
-  "LastChanged_Achievements": "2023-05-20T08:02:20.7332571+00:00",
+  "LastChanged_Achievements": "2023-05-20T09:00:29.9623422+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:34.9258969+00:00",
-  "LastUpdate_Ratings": "2023-05-20T07:59:52.6168244+00:00",
-  "LastUpdate_Achievements": "2023-05-20T08:02:20.7332765+00:00"
+  "LastUpdate_Ratings": "2023-05-20T08:58:47.1126994+00:00",
+  "LastUpdate_Achievements": "2023-05-20T09:00:29.9623577+00:00"
 }

@@ -5,16 +5,16 @@ Rating: 4.76 (Ranked 117)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~1,949 |
-| No more cages! | 92.00% | ~1,888 |
-| Everfrost | 77.00% | ~1,580 |
-| Dark Forest | 77.00% | ~1,580 |
+| For Demacia | 95.00% | ~1,950 |
+| No more cages! | 92.00% | ~1,889 |
+| Everfrost | 77.00% | ~1,581 |
+| Dark Forest | 77.00% | ~1,581 |
 | Pentakill | 76.00% | ~1,560 |
-| The use of petricite | 73.00% | ~1,498 |
-| You can pet the dog | 60.00% | ~1,231 |
-| Big Helmet Bro | 35.00% | ~718 |
+| The use of petricite | 73.00% | ~1,499 |
+| You can pet the dog | 60.00% | ~1,232 |
+| Big Helmet Bro | 34.00% | ~698 |
 | Clarion Cove | 34.00% | ~698 |
-| Past trauma | 33.00% | ~677 |
+| Past trauma | 32.00% | ~657 |
 | Thornbarrow | 32.00% | ~657 |
 | Ternmoat Headquarters | 32.00% | ~657 |
 | Elemental master | 31.00% | ~636 |
@@ -25,12 +25,12 @@ Rating: 4.76 (Ranked 117)
 | Hijack | 25.00% | ~513 |
 | Devineur | 25.00% | ~513 |
 | Ancient power | 23.00% | ~472 |
-| I chose my shackles | 22.00% | ~451 |
+| I chose my shackles | 22.00% | ~452 |
 | Sacred Woods | 21.00% | ~431 |
 | Capelworth | 19.00% | ~390 |
-| Little light | 18.00% | ~369 |
-| Glyndemere | 18.00% | ~369 |
-| Iffighain Headquarters | 18.00% | ~369 |
+| Little light | 18.00% | ~370 |
+| Glyndemere | 18.00% | ~370 |
+| Iffighain Headquarters | 18.00% | ~370 |
 | Full equipped | 17.00% | ~349 |
 | Whispers in the Woods II | 15.00% | ~308 |
 | Quickmoore Headquarters | 15.00% | ~308 |
@@ -59,7 +59,7 @@ Rating: 4.76 (Ranked 117)
 | Silverwing nest | 2.00% | ~41 |
 | The Unshackled | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,052 (Ranked 142)  
+Progressed: 2,053 (Ranked 142)  
 Completed: 1 (0.05%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 1 (0.05%) (Ranked 174)
 | 2023-05-17 | 2,015 | 1 |
 | 2023-05-18 | 2,025 | 1 |
 | 2023-05-19 | 2,048 | 1 |
-| 2023-05-20 | 2,052 | 1 |
+| 2023-05-20 | 2,053 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

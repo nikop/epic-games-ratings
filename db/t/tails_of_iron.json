@@ -462,9 +462,9 @@
       "ID": "Collect20Gold",
       "SetID": "9lj35g4",
       "Name": "Collect Gold",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 588
+      "UsersEstimate": 602
     },
     {
       "ID": "Collect20Iron",
@@ -630,9 +630,9 @@
       "ID": "Kill25Mozi",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Mozis",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 602
+      "UsersEstimate": 616
     },
     {
       "ID": "MeetTheMoles",
@@ -709,8 +709,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-04-02T20:59:05.8070796+00:00",
-  "LastChanged_Achievements": "2023-05-20T08:03:57.1607944+00:00",
+  "LastChanged_Achievements": "2023-05-20T09:02:35.190902+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3670256+00:00",
-  "LastUpdate_Ratings": "2023-05-20T07:58:40.3452739+00:00",
-  "LastUpdate_Achievements": "2023-05-20T08:03:57.1608208+00:00"
+  "LastUpdate_Ratings": "2023-05-20T08:57:59.0571836+00:00",
+  "LastUpdate_Achievements": "2023-05-20T09:02:35.1909201+00:00"
 }

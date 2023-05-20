@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -80,7 +80,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1098,
+  "EOS_Progressed": 1100,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
@@ -1900,6 +1900,11 @@
       "Time": "2023-05-20T08:06:45.4519732+00:00",
       "NumProgressed": 1098,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-20T09:05:02.8908375+00:00",
+      "NumProgressed": 1100,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2095,7 +2100,7 @@
       "Name": "Fellowship Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "fourleafclover",
@@ -2117,9 +2122,9 @@
       "ID": "fullparty",
       "SetID": "3nl4bcg",
       "Name": "Full Party",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 143
     },
     {
       "ID": "gearenchanting",
@@ -2127,7 +2132,7 @@
       "Name": "Gear Enchanting",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "guardianmaster",
@@ -2279,7 +2284,7 @@
       "Name": "Mythic Power",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "naturaltalent",
@@ -2303,7 +2308,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "prestigiousx10",
@@ -2367,7 +2372,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "thealchemist",
@@ -2439,7 +2444,7 @@
       "Name": "Training makes a Pro player",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "transmute",
@@ -2471,7 +2476,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1034
     },
     {
       "ID": "warmachinesarmy",
@@ -2503,14 +2508,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 878
+      "UsersEstimate": 880
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1098,
+      "Progressed": 1100,
       "Completed": 1
     }
   ],
@@ -2518,8 +2523,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-18T22:58:45.6795503+00:00",
-  "LastChanged_Achievements": "2023-05-20T08:06:45.4519727+00:00",
+  "LastChanged_Achievements": "2023-05-20T09:05:02.8908369+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:34.8363446+00:00",
-  "LastUpdate_Ratings": "2023-05-20T07:58:10.9205728+00:00",
-  "LastUpdate_Achievements": "2023-05-20T08:06:45.4520725+00:00"
+  "LastUpdate_Ratings": "2023-05-20T08:57:35.475247+00:00",
+  "LastUpdate_Achievements": "2023-05-20T09:05:02.8909043+00:00"
 }

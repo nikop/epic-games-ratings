@@ -4,7 +4,7 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 440,
+  "EOS_Progressed": 441,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.41,
+  "EOS_Completed_Percentage": 3.4,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:50.241177+00:00",
@@ -116,6 +116,11 @@
       "Time": "2023-05-19T14:05:09.3440259+00:00",
       "NumProgressed": 440,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-05-20T09:04:59.9946415+00:00",
+      "NumProgressed": 441,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 32,
@@ -151,7 +156,7 @@
       "Name": "Buckle up",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "CONCRETE_PAINTING",
@@ -167,7 +172,7 @@
       "Name": "Curious",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "EVERYBODY_LIES",
@@ -175,7 +180,7 @@
       "Name": "Everybody lies",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "EVERY_LITTLE_HELPS",
@@ -191,15 +196,15 @@
       "Name": "Found it!",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "GOODY",
       "SetID": "2iigf77",
       "Name": "Goody",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 79
+      "UsersEstimate": 75
     },
     {
       "ID": "HACKER",
@@ -215,7 +220,7 @@
       "Name": "Hands up!",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "HAPPY_HALLOWEEN",
@@ -247,7 +252,7 @@
       "Name": "I can do a thing or two",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "LUCKY_DOG",
@@ -279,7 +284,7 @@
       "Name": "Not what it seems",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "NOW_YOU_KNOW",
@@ -319,7 +324,7 @@
       "Name": "Quick charge",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "SHORT_CIRCUIT",
@@ -327,7 +332,7 @@
       "Name": "Short circuit",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "SILENT",
@@ -351,7 +356,7 @@
       "Name": "That\u0027s much better!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "THERE_IS_ANOTHER_WAY",
@@ -375,14 +380,14 @@
       "Name": "The Walking Robot Among Us",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     }
   ],
   "AchievementSets": [
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 440,
+      "Progressed": 441,
       "Completed": 15
     }
   ],
@@ -390,8 +395,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-05-20T08:06:41.6668266+00:00",
+  "LastChanged_Achievements": "2023-05-20T09:04:59.9946411+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:21.9827734+00:00",
-  "LastUpdate_Ratings": "2023-05-20T07:59:08.8660581+00:00",
-  "LastUpdate_Achievements": "2023-05-20T08:06:41.6668496+00:00"
+  "LastUpdate_Ratings": "2023-05-20T08:58:16.8363162+00:00",
+  "LastUpdate_Achievements": "2023-05-20T09:04:59.9946646+00:00"
 }

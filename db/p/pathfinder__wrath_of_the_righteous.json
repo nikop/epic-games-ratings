@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2364,10 +2364,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6624,
       "NumberOfAwardsMax": 1634
+    },
+    {
+      "Time": "2023-05-20T08:57:55.1419794+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6627,
+      "NumberOfAwardsMax": 1634
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6624,
+  "NumberOfAwards": 6627,
   "NumberOfAwardsMax": 1634,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2399,7 +2405,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 589
+      "Count": 592
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2438,9 +2444,9 @@
       "Count": 368
     }
   ],
-  "EOS_Progressed": 8944,
+  "EOS_Progressed": 8945,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3918,6 +3924,11 @@
       "Time": "2023-05-20T08:07:07.3007877+00:00",
       "NumProgressed": 8944,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T09:05:19.2034178+00:00",
+      "NumProgressed": 8945,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3993,7 +4004,7 @@
       "Name": "Path of the Demon",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "10_PathOfAzata",
@@ -4856,21 +4867,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7726,
+      "Progressed": 7727,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8944,
+      "Progressed": 8945,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-05-20T05:58:29.572128+00:00",
-  "LastChanged_Achievements": "2023-05-20T08:07:07.300787+00:00",
+  "LastChanged": "2023-05-20T08:57:55.1419793+00:00",
+  "LastChanged_Achievements": "2023-05-20T09:05:19.2034174+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3010226+00:00",
-  "LastUpdate_Ratings": "2023-05-20T07:58:36.4352494+00:00",
-  "LastUpdate_Achievements": "2023-05-20T08:07:07.3009875+00:00"
+  "LastUpdate_Ratings": "2023-05-20T08:57:55.1419797+00:00",
+  "LastUpdate_Achievements": "2023-05-20T09:05:19.2035443+00:00"
 }

@@ -6,30 +6,30 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 6.00% | ~1,857 |
-| To The Nines | 5.00% | ~1,548 |
-| Optimized | 4.00% | ~1,238 |
-| The Side Job | 3.00% | ~929 |
-| Wet Work | 3.00% | ~929 |
-| Tune Up | 3.00% | ~929 |
-| Performance Review | 3.00% | ~929 |
-| Making a Name | 3.00% | ~929 |
-| Food for Thought | 3.00% | ~929 |
-| Finders Keepers | 2.00% | ~619 |
-| A Young Empire | 2.00% | ~619 |
-| Landlord | 2.00% | ~619 |
-| Work Ethic | 2.00% | ~619 |
-| Picking Fights | 2.00% | ~619 |
-| Wrecking Ball | 2.00% | ~619 |
+| First F#@!ing Day | 6.00% | ~1,859 |
+| To The Nines | 5.00% | ~1,549 |
+| Optimized | 4.00% | ~1,240 |
+| The Side Job | 3.00% | ~930 |
+| Wet Work | 3.00% | ~930 |
+| Tune Up | 3.00% | ~930 |
+| Landlord | 3.00% | ~930 |
+| Performance Review | 3.00% | ~930 |
+| Making a Name | 3.00% | ~930 |
+| Food for Thought | 3.00% | ~930 |
+| Finders Keepers | 2.00% | ~620 |
+| A Young Empire | 2.00% | ~620 |
+| Power Players | 2.00% | ~620 |
+| Work Ethic | 2.00% | ~620 |
+| Picking Fights | 2.00% | ~620 |
+| Wrecking Ball | 2.00% | ~620 |
 | Quality Time | 1.00% | ~310 |
 | Showdown | 1.00% | ~310 |
-| Power Players | 1.00% | ~310 |
 | Masters of Santo Ileso | 1.00% | ~310 |
 | Kitted Out | 1.00% | ~310 |
 | Et tu? | 1.00% | ~310 |
 | Took It to The Limit | 1.00% | ~310 |
 | Hijacked | 0.90% | ~279 |
-| Producer Credit | 0.90% | ~23 |
+| Producer Credit | 0.90% | ~24 |
 | The Spins | 0.80% | ~248 |
 | The Mechanic | 0.80% | ~248 |
 | Face Off | 0.80% | ~21 |
@@ -48,8 +48,8 @@ Number of Ratings: 22,103  (23.09.2022)
 | Tourist | 0.40% | ~124 |
 | Shopping Spree | 0.30% | ~93 |
 | Always Be Hustling | 0.30% | ~93 |
+| Community Outreach | 0.30% | ~93 |
 | Bonus Round | 0.20% | ~62 |
-| Community Outreach | 0.20% | ~62 |
 | All Mine | 0.20% | ~62 |
 | Jack of All Trades | 0.10% | ~31 |
 | It's a Bird! | 0.10% | ~31 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Heard You Like Wheels | 0.10% | ~31 |
 | Fiesta Time | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,953 (Ranked 83)  
+Progressed: 30,988 (Ranked 83)  
 Completed: 19 (0.06%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,16 +90,16 @@ Completed: 19 (0.06%) (Ranked 170)
 | 2023-05-17 | 28,880 | 18 |
 | 2023-05-18 | 29,461 | 19 |
 | 2023-05-19 | 30,583 | 19 |
-| 2023-05-20 | 30,953 | 19 |
+| 2023-05-20 | 30,988 | 19 |
 ## Awards
 Max (Extremely Fun): 1,029  (Ranked 133)  
-Sum: 8,339 (Ranked 88)  
+Sum: 8,342 (Ranked 88)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 1,029 |
 | This game has Quickly Understood Controls | 998 |
-| This game is Highly Recommended | 970 |
+| This game is Highly Recommended | 973 |
 | This game has Amazing Characters | 956 |
 | This game has Diverse Characters | 954 |
 | This game is Great for Beginners | 954 |
@@ -184,3 +184,4 @@ Diff (max vs sum): 45
 | 2023-05-17 | 3.78 | - | 1,028 | 8,329 |
 | 2023-05-18 | 3.78 | - | 1,029 | 8,334 |
 | 2023-05-19 | 3.78 | - | 1,029 | 8,339 |
+| 2023-05-20 | 3.78 | - | 1,029 | 8,342 |

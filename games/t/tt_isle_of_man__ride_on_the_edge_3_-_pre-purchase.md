@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 100.00% | ~36 |
-| To Each Their Own | 36.00% | ~13 |
-| Like Phileas Fogg | 17.00% | ~6 |
-| You Get An Upgrade, You Get An Upgrade! | 17.00% | ~6 |
-| Onwards and Upwards | 17.00% | ~6 |
+| You're Going Down! | 97.00% | ~36 |
+| To Each Their Own | 38.00% | ~14 |
+| Like Phileas Fogg | 16.00% | ~6 |
+| You Get An Upgrade, You Get An Upgrade! | 16.00% | ~6 |
+| Onwards and Upwards | 16.00% | ~6 |
 | Seven-League Boots | 8.00% | ~3 |
 | Playing God | 8.00% | ~3 |
-| Nerd | 6.00% | ~2 |
-| Highly Qualified | 6.00% | ~2 |
-| Serial Winner | 6.00% | ~2 |
-| First and Foremost | 6.00% | ~2 |
-| Made Mother Proud | 6.00% | ~2 |
-| Winner Winner Chicken Dinner | 6.00% | ~2 |
-| No Room for Improvement | 6.00% | ~2 |
-| Upgradeaholic | 6.00% | ~2 |
-| Start Your Engines | 6.00% | ~2 |
-| Tailor-Made for Two | 6.00% | ~2 |
+| Nerd | 5.00% | ~2 |
+| Highly Qualified | 5.00% | ~2 |
+| Serial Winner | 5.00% | ~2 |
+| First and Foremost | 5.00% | ~2 |
+| Made Mother Proud | 5.00% | ~2 |
+| Winner Winner Chicken Dinner | 5.00% | ~2 |
+| No Room for Improvement | 5.00% | ~2 |
+| Upgradeaholic | 5.00% | ~2 |
+| Start Your Engines | 5.00% | ~2 |
+| Tailor-Made for Two | 5.00% | ~2 |
 | Déjà-Vu | 3.00% | ~1 |
 | Golden Ratio | 3.00% | ~1 |
 | POI Hunter | 3.00% | ~1 |
@@ -44,8 +44,8 @@
 | Tempus Fugit | 3.00% | ~1 |
 | Lone Wolf | 3.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36 (Ranked 294)  
-Completed: 1 (2.78%) (Ranked 53)  
+Progressed: 37 (Ranked 293)  
+Completed: 1 (2.70%) (Ranked 54)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -59,3 +59,4 @@ Completed: 1 (2.78%) (Ranked 53)
 | 2023-05-17 | 27 | 1 |
 | 2023-05-18 | 30 | 1 |
 | 2023-05-19 | 36 | 1 |
+| 2023-05-20 | 37 | 1 |

@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I can do a thing or two | 61.00% | ~268 |
-| Buckle up | 60.00% | ~264 |
-| Quick charge | 60.00% | ~264 |
+| I can do a thing or two | 61.00% | ~269 |
+| Buckle up | 60.00% | ~265 |
+| Quick charge | 60.00% | ~265 |
 | Now you know | 54.00% | ~238 |
-| Hands up! | 53.00% | ~233 |
-| Short circuit | 53.00% | ~233 |
-| Curious | 41.00% | ~180 |
-| Everybody lies | 36.00% | ~158 |
+| Hands up! | 53.00% | ~234 |
+| Short circuit | 53.00% | ~234 |
+| Curious | 41.00% | ~181 |
+| Everybody lies | 36.00% | ~159 |
 | Trick or Treat? | 24.00% | ~106 |
 | There is another way | 23.00% | ~101 |
 | Sysadmin | 22.00% | ~97 |
-| The Walking Robot Among Us | 21.00% | ~92 |
+| The Walking Robot Among Us | 21.00% | ~93 |
 | Annoying | 20.00% | ~88 |
 | Every little helps | 20.00% | ~88 |
 | Hacker | 20.00% | ~88 |
 | He is just a child | 20.00% | ~88 |
 | Uncertain | 20.00% | ~88 |
-| Goody | 18.00% | ~79 |
 | Ace | 17.00% | ~75 |
 | Concrete painting | 17.00% | ~75 |
+| Goody | 17.00% | ~75 |
 | Hipster | 17.00% | ~75 |
 | Please oh pleeease! | 17.00% | ~75 |
-| Found it! | 16.00% | ~70 |
-| Not what it seems | 16.00% | ~70 |
-| That's much better! | 16.00% | ~70 |
+| Found it! | 16.00% | ~71 |
+| Not what it seems | 16.00% | ~71 |
+| That's much better! | 16.00% | ~71 |
 | Not as clumsy or random | 13.00% | ~57 |
 | Blade Runner | 10.00% | ~44 |
 | Perfect hearing | 9.00% | ~40 |
@@ -37,8 +37,8 @@
 | Accurate | 5.00% | ~22 |
 | Silent | 4.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 440 (Ranked 193)  
-Completed: 15 (3.41%) (Ranked 40)  
+Progressed: 441 (Ranked 193)  
+Completed: 15 (3.40%) (Ranked 40)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -57,6 +57,7 @@ Completed: 15 (3.41%) (Ranked 40)
 | 2023-05-17 | 438 | 15 |
 | 2023-05-18 | 439 | 15 |
 | 2023-05-19 | 440 | 15 |
+| 2023-05-20 | 441 | 15 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

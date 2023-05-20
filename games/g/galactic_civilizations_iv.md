@@ -12,7 +12,7 @@ Number of Ratings: 429  (23.09.2022)
 | Win a Battle | 67.00% | ~3,833 |
 | Anomaly Researcher | 63.00% | ~3,604 |
 | Unleash My Power | 62.00% | ~3,547 |
-| Own 30 Planets | 34.00% | ~1,945 |
+| Own 30 Planets | 35.00% | ~2,002 |
 | Xenocide | 33.00% | ~1,888 |
 | Commodity Trader | 32.00% | ~1,831 |
 | Design a Civilization | 31.00% | ~1,774 |

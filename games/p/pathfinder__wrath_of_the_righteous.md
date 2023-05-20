@@ -43,7 +43,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Truly Important Deed | 1.00% | ~89 |
 | Stay Underground | 1.00% | ~77 |
 | Sarkoris Will Be Green | 1.00% | ~77 |
-| Path of the Demon | 0.90% | ~80 |
+| Path of the Demon | 0.90% | ~81 |
 | Abyssal Conspiracy | 0.80% | ~72 |
 | End of Eternal Guard | 0.70% | ~63 |
 | This Wall Won't Fall | 0.70% | ~54 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,944 (Ranked 109)  
+Progressed: 8,945 (Ranked 109)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,10 +153,10 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-17 | 8,850 | 0 |
 | 2023-05-18 | 8,872 | 0 |
 | 2023-05-19 | 8,921 | 0 |
-| 2023-05-20 | 8,944 | 0 |
+| 2023-05-20 | 8,945 | 0 |
 ## Awards
 Max (Character Customization): 1,634  (Ranked 111)  
-Sum: 6,624 (Ranked 110)  
+Sum: 6,627 (Ranked 110)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
@@ -164,8 +164,8 @@ Diff (max vs sum): 1
 | This game is Extremely Fun | 618 |
 | This game has Amazing Characters | 605 |
 | This game is Highly Recommended | 605 |
+| This game has Diverse Characters | 592 |
 | This game has Amazing Storytelling | 589 |
-| This game has Diverse Characters | 589 |
 | This game has Quickly Understood Controls | 546 |
 | This game has Challenging Combat | 546 |
 | This game is Relaxing | 524 |
@@ -287,4 +287,4 @@ Diff (max vs sum): 1
 | 2023-05-15 | 4.76 | - | 1,631 | 6,612 |
 | 2023-05-16 | 4.76 | - | 1,632 | 6,614 |
 | 2023-05-18 | 4.76 | - | 1,634 | 6,623 |
-| 2023-05-20 | 4.76 | - | 1,634 | 6,624 |
+| 2023-05-20 | 4.76 | - | 1,634 | 6,627 |

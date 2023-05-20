@@ -94,9 +94,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2052,
+  "EOS_Progressed": 2053,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1504,6 +1504,11 @@
       "Time": "2023-05-20T06:06:15.9102661+00:00",
       "NumProgressed": 2052,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-20T09:04:55.9543507+00:00",
+      "NumProgressed": 2053,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1579,7 +1584,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1949
+      "UsersEstimate": 1950
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1595,7 +1600,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1580
+      "UsersEstimate": 1581
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -1617,9 +1622,9 @@
       "ID": "STB_DEFEAT_MAGICSHIFTER",
       "SetID": "3pe2bac",
       "Name": "Big Helmet Bro",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 718
+      "UsersEstimate": 698
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -1627,15 +1632,15 @@
       "Name": "I chose my shackles",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
       "SetID": "3pe2bac",
       "Name": "Past trauma",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 677
+      "UsersEstimate": 657
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -1643,7 +1648,7 @@
       "Name": "Little light",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -1699,7 +1704,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1889
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1731,7 +1736,7 @@
       "Name": "Dark Forest",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 1580
+      "UsersEstimate": 1581
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -1771,7 +1776,7 @@
       "Name": "Glyndemere",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -1819,7 +1824,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1231
+      "UsersEstimate": 1232
     },
     {
       "ID": "STB_PET_HORSE",
@@ -1867,7 +1872,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -1891,7 +1896,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 1498
+      "UsersEstimate": 1499
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -1938,7 +1943,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2052,
+      "Progressed": 2053,
       "Completed": 1
     }
   ],
@@ -1946,8 +1951,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-17T18:57:40.491639+00:00",
-  "LastChanged_Achievements": "2023-05-20T08:06:35.9598248+00:00",
+  "LastChanged_Achievements": "2023-05-20T09:04:55.9543502+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:08.2361804+00:00",
-  "LastUpdate_Ratings": "2023-05-20T07:57:43.2023621+00:00",
-  "LastUpdate_Achievements": "2023-05-20T08:06:35.9598864+00:00"
+  "LastUpdate_Ratings": "2023-05-20T08:57:17.7485258+00:00",
+  "LastUpdate_Achievements": "2023-05-20T09:04:55.9543952+00:00"
 }

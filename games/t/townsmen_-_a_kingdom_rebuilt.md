@@ -61,11 +61,11 @@ Number of Ratings: 37  (23.09.2022)
 | Builder IV | 1.00% | ~42 |
 | Completionist II | 1.00% | ~42 |
 | Genius | 1.00% | ~42 |
+| Only the sausage has two ends. | 1.00% | ~42 |
 | I've been everywhere I | 1.00% | ~42 |
 | I've been everywhere V | 1.00% | ~42 |
 | An honorable Governor III | 0.90% | ~37 |
 | Completionist III | 0.90% | ~37 |
-| Only the sausage has two ends. | 0.90% | ~37 |
 | Reunification | 0.90% | ~37 |
 | Tax-man V | 0.90% | ~37 |
 | A time consuming game V | 0.90% | ~37 |

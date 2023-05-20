@@ -9,33 +9,33 @@ Rating: 4.50 (Ranked 534)
 | Vanquisher of Robots | 72.00% | ~260 |
 | Party | 45.00% | ~162 |
 | Knowledge is Power | 43.00% | ~155 |
-| Impossible Cube | 41.00% | ~148 |
-| No Mercy | 40.00% | ~144 |
+| Impossible Cube | 42.00% | ~152 |
+| No Mercy | 41.00% | ~148 |
 | The Return of a Rat | 39.00% | ~141 |
 | Through the Darkness | 39.00% | ~141 |
 | Fat of the Earth | 32.00% | ~116 |
-| Last Man Standing | 31.00% | ~112 |
-| Catch Jonathan_tostar | 25.00% | ~90 |
+| Last Man Standing | 32.00% | ~116 |
+| Catch Jonathan_tostar | 26.00% | ~94 |
+| Campaigning | 24.00% | ~87 |
 | Assemble a Meganewbie | 24.00% | ~87 |
 | He's Seen It All | 24.00% | ~87 |
 | Great Hero | 24.00% | ~87 |
-| Campaigning | 23.00% | ~83 |
 | Rookie | 23.00% | ~83 |
 | Frugal | 20.00% | ~72 |
+| To the Moon and Back | 20.00% | ~72 |
 | Feed a God | 19.00% | ~69 |
-| To the Moon and Back | 19.00% | ~69 |
-| Great Flight | 16.00% | ~58 |
-| Holy Vengeance | 13.00% | ~47 |
+| Great Flight | 17.00% | ~61 |
+| Holy Vengeance | 14.00% | ~51 |
+| Honorary Cultist | 11.00% | ~40 |
 | Strength and Sorcery | 10.00% | ~36 |
-| Honorary Cultist | 10.00% | ~36 |
 | Brain and Brawn | 9.00% | ~32 |
 | Omae Wa Mou Shindeiru | 8.00% | ~29 |
 | Experimentalist | 5.00% | ~18 |
 | Wide Selection | 5.00% | ~18 |
 | Soldier | 5.00% | ~18 |
-| Android Power | 4.00% | ~14 |
+| Android Power | 5.00% | ~18 |
+| Zombie Lover | 3.00% | ~11 |
 | Shopaholic | 2.00% | ~7 |
-| Zombie Lover | 2.00% | ~7 |
 | Full House | 1.00% | ~4 |
 | Munchkin | 1.00% | ~4 |
 | Vet | 0.80% | ~3 |
