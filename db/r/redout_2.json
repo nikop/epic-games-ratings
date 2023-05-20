@@ -2,12 +2,12 @@
   "ID": "05ae696a3c5f49af91a7433547460c21",
   "Name": "Redout 2",
   "ProductSlug": "redout-2",
-  "Ranking_Rating": 608,
+  "Ranking_Rating": 609,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 973,
+  "EOS_Progressed": 974,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -177,6 +177,11 @@
     {
       "Time": "2023-05-20T12:05:56.9172259+00:00",
       "NumProgressed": 973,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T23:05:50.2246845+00:00",
+      "NumProgressed": 974,
       "NumCompleted": 0
     }
   ],
@@ -509,7 +514,7 @@
       "Name": "It\u0027s like an haircut",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ONEPLATINUM",
@@ -604,7 +609,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 973,
+      "Progressed": 974,
       "Completed": 0
     }
   ],
@@ -612,8 +617,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-05-20T22:06:00.5562675+00:00",
+  "LastChanged_Achievements": "2023-05-20T23:05:50.224684+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:42.1539132+00:00",
-  "LastUpdate_Ratings": "2023-05-20T21:58:04.1731137+00:00",
-  "LastUpdate_Achievements": "2023-05-20T22:06:00.5563316+00:00"
+  "LastUpdate_Ratings": "2023-05-20T22:57:54.5275732+00:00",
+  "LastUpdate_Achievements": "2023-05-20T23:05:50.224729+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "a-plague-tale-requiem",
   "Ranking_Rating": 154,
   "Ranking_Popularity": 200,
-  "Ranking_PopularitySum": 288,
+  "Ranking_PopularitySum": 286,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 111,
@@ -210,10 +210,16 @@
       "Rating": 4.73,
       "NumberOfAwards": 557,
       "NumberOfAwardsMax": 401
+    },
+    {
+      "Time": "2023-05-20T22:59:09.5997763+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 577,
+      "NumberOfAwardsMax": 401
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 557,
+  "NumberOfAwards": 577,
   "NumberOfAwardsMax": 401,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -258,6 +264,12 @@
       "Prefix": "This game is",
       "Type": "Extremely Fun",
       "Count": 24
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 10407,
@@ -1542,9 +1554,9 @@
   "FirstSeen": "2022-10-18T03:00:59.1275304+00:00",
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
-  "LastChanged": "2023-05-19T19:59:32.6529436+00:00",
-  "LastChanged_Achievements": "2023-05-20T22:06:08.426296+00:00",
+  "LastChanged": "2023-05-20T22:59:09.5997761+00:00",
+  "LastChanged_Achievements": "2023-05-20T23:05:58.0399943+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:44.7734011+00:00",
-  "LastUpdate_Ratings": "2023-05-20T21:59:22.0363375+00:00",
-  "LastUpdate_Achievements": "2023-05-20T22:06:08.4263299+00:00"
+  "LastUpdate_Ratings": "2023-05-20T22:59:09.5997765+00:00",
+  "LastUpdate_Achievements": "2023-05-20T23:05:58.0400261+00:00"
 }

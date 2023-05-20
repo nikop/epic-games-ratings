@@ -6,19 +6,19 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 92.00% | ~30,176 |
-| First Steps | 81.00% | ~26,568 |
-| Control the Shadows | 68.00% | ~22,304 |
-| Tools of the Trade | 63.00% | ~20,664 |
-| Apprentice | 60.00% | ~19,680 |
-| Secret Seeker | 57.00% | ~18,696 |
-| Forge of Assassins | 56.00% | ~18,368 |
-| Revenant | 51.00% | ~16,728 |
-| I don’t Care! | 45.00% | ~14,760 |
-| Bird of Prey | 37.00% | ~12,136 |
-| Engraved with Power | 32.00% | ~10,496 |
-| Lady | 30.00% | ~9,840 |
-| Fashionable Assassin | 27.00% | ~8,856 |
+| Awakening | 92.00% | ~30,178 |
+| First Steps | 81.00% | ~26,570 |
+| Control the Shadows | 68.00% | ~22,305 |
+| Tools of the Trade | 63.00% | ~20,665 |
+| Apprentice | 60.00% | ~19,681 |
+| Secret Seeker | 57.00% | ~18,697 |
+| Forge of Assassins | 56.00% | ~18,369 |
+| Revenant | 51.00% | ~16,729 |
+| I don’t Care! | 45.00% | ~14,761 |
+| Bird of Prey | 37.00% | ~12,137 |
+| Engraved with Power | 32.00% | ~10,497 |
+| Lady | 30.00% | ~9,841 |
+| Fashionable Assassin | 27.00% | ~8,857 |
 | Apex Predator | 24.00% | ~7,872 |
 | Soul Reaver | 22.00% | ~7,216 |
 | Embers | 21.00% | ~6,888 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~328 |
 | Anger Management | 1.00% | ~328 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,800 (Ranked 82)  
+Progressed: 32,802 (Ranked 82)  
 Completed: 156 (0.48%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 156 (0.48%) (Ranked 107)
 | 2023-05-17 | 32,590 | 156 |
 | 2023-05-18 | 32,651 | 156 |
 | 2023-05-19 | 32,723 | 156 |
-| 2023-05-20 | 32,800 | 156 |
+| 2023-05-20 | 32,802 | 156 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

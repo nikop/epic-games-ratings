@@ -13,16 +13,16 @@ Number of Ratings: 45  (23.09.2022)
 | Passing Shadow | 23.00% | ~274 |
 | How Romantic! | 22.00% | ~262 |
 | Daybreak | 22.00% | ~262 |
-| Gotta Ca... Must Collect All of Them | 20.00% | ~238 |
+| Gotta Ca... Must Collect All of Them | 20.00% | ~239 |
 | Completing the Look | 11.00% | ~131 |
 | Who's Counting? | 11.00% | ~131 |
 | War Endured | 11.00% | ~131 |
 | A Mythic Menagerie | 10.00% | ~119 |
 | Core Failure | 10.00% | ~119 |
 | Pyrrhic Victory | 8.00% | ~95 |
-| Thematic Divergence | 7.00% | ~83 |
-| Chain Reaction | 7.00% | ~83 |
-| Echoes Die | 7.00% | ~83 |
+| Thematic Divergence | 7.00% | ~84 |
+| Chain Reaction | 7.00% | ~84 |
+| Echoes Die | 7.00% | ~84 |
 | Everfading | 6.00% | ~72 |
 | Another Tale to Tell | 6.00% | ~72 |
 | A Story of Heroes | 6.00% | ~72 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Overwhelming Monstrosity | 0.40% | ~5 |
 | Peacemaker | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,192 (Ranked 158)  
+Progressed: 1,193 (Ranked 158)  
 Completed: 3 (0.25%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 3 (0.25%) (Ranked 133)
 | 2023-05-17 | 1,179 | 3 |
 | 2023-05-18 | 1,181 | 3 |
 | 2023-05-19 | 1,185 | 3 |
-| 2023-05-20 | 1,192 | 3 |
+| 2023-05-20 | 1,193 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 455)  
 Sum: 27 (Ranked 462)  

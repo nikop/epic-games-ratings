@@ -1,7 +1,7 @@
 # Redout 2
 [Store](https://store.epicgames.com/en-US/p/redout-2)  
 [View Rawdata](../../db/r/redout_2.json)  
-Rating: 4.45 (Ranked 608)  
+Rating: 4.45 (Ranked 609)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,7 +11,7 @@ Rating: 4.45 (Ranked 608)
 | I just can't choose | 24.00% | ~234 |
 | A Cheese Grater to the Face | 19.00% | ~185 |
 | Put it on a shelf | 18.00% | ~175 |
-| It's like an haircut | 17.00% | ~165 |
+| It's like an haircut | 17.00% | ~166 |
 | Suit up | 16.00% | ~156 |
 | Walked like an Egyptian | 15.00% | ~146 |
 | Ride in the rising sun | 15.00% | ~146 |
@@ -58,7 +58,7 @@ Rating: 4.45 (Ranked 608)
 | I, need, more, shelves! | 0.50% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 973 (Ranked 166)  
+Progressed: 974 (Ranked 166)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-12 | 969 | 0 |
 | 2023-05-14 | 970 | 0 |
 | 2023-05-16 | 971 | 0 |
-| 2023-05-20 | 973 | 0 |
+| 2023-05-20 | 974 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

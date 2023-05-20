@@ -4,7 +4,7 @@
   "ProductSlug": "zombie-rollerz-7aa027",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -125,17 +125,17 @@
       "ID": "CLG_CHAPTER_NODAMAGE",
       "SetID": "89cjc9l",
       "Name": "Untouchable",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "CLG_CHAPTER_NODROPBALL",
       "SetID": "89cjc9l",
       "Name": "1 is all I need",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "CLG_LEVEL_BALLISTASHOT",
@@ -213,9 +213,9 @@
       "ID": "CLG_UNLOCK_10003",
       "SetID": "89cjc9l",
       "Name": "The Idol",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "CLG_UNLOCK_10004",
@@ -365,9 +365,9 @@
       "ID": "PRG_BOSS_SHIELD",
       "SetID": "89cjc9l",
       "Name": "The Shield",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "PRG_BOSS_SLIME",
@@ -718,8 +718,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-05-20T22:06:11.8783639+00:00",
+  "LastChanged_Achievements": "2023-05-20T23:06:01.3301514+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:01.3689294+00:00",
-  "LastUpdate_Ratings": "2023-05-20T21:57:24.419736+00:00",
-  "LastUpdate_Achievements": "2023-05-20T22:06:11.8785178+00:00"
+  "LastUpdate_Ratings": "2023-05-20T22:57:15.8485438+00:00",
+  "LastUpdate_Achievements": "2023-05-20T23:06:01.3302276+00:00"
 }

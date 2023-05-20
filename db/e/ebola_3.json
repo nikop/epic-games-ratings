@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 176,
+  "EOS_Progressed": 177,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -708,6 +708,11 @@
       "Time": "2023-05-20T22:06:21.8051545+00:00",
       "NumProgressed": 176,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T23:06:11.1029092+00:00",
+      "NumProgressed": 177,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -773,9 +778,9 @@
       "ID": "achCheet",
       "SetID": "72gjli4",
       "Name": "Cheats \u2714",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achChest",
@@ -981,9 +986,9 @@
       "ID": "achPlotTwo",
       "SetID": "72gjli4",
       "Name": "The escape \u2714",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achPolice",
@@ -1021,17 +1026,17 @@
       "ID": "achRankTwo",
       "SetID": "72gjli4",
       "Name": "Rank A \u2714",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "achSave",
       "SetID": "72gjli4",
       "Name": "King of survival \u2714",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 70,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achSecretos",
@@ -1045,9 +1050,9 @@
       "ID": "achSeif",
       "SetID": "72gjli4",
       "Name": "Master of Unlocking \u2714",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "achShahmat",
@@ -1069,9 +1074,9 @@
       "ID": "achTransform",
       "SetID": "72gjli4",
       "Name": "Mutation \u2714",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "achVip",
@@ -1118,7 +1123,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 176,
+      "Progressed": 177,
       "Completed": 0
     }
   ],
@@ -1126,8 +1131,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-20T22:06:21.8051539+00:00",
+  "LastChanged_Achievements": "2023-05-20T23:06:11.1029087+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:11.586606+00:00",
-  "LastUpdate_Ratings": "2023-05-20T22:00:19.2294353+00:00",
-  "LastUpdate_Achievements": "2023-05-20T22:06:21.8052181+00:00"
+  "LastUpdate_Ratings": "2023-05-20T23:00:05.8014201+00:00",
+  "LastUpdate_Achievements": "2023-05-20T23:06:11.1029556+00:00"
 }

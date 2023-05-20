@@ -4,7 +4,7 @@
   "ProductSlug": "the-tale-of-bistun-9d6c5f",
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 23,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-07-13T16:00:00+00:00",
@@ -146,17 +146,17 @@
       "ID": "BISTUN_ACHIEVEMENT_18",
       "SetID": "1kdk24p",
       "Name": "One With The Blades",
-      "Percentage": 43,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_19",
       "SetID": "1kdk24p",
       "Name": "Heart of Oblivion",
-      "Percentage": 43,
+      "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_2",
@@ -314,9 +314,9 @@
       "ID": "BISTUN_ACHIEVEMENT_37",
       "SetID": "1kdk24p",
       "Name": "Shoo! Shoo!",
-      "Percentage": 43,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_4",
@@ -379,8 +379,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.7723222+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1212078+00:00",
   "LastChanged": "2023-03-31T05:58:10.7723223+00:00",
-  "LastChanged_Achievements": "2023-05-20T22:06:11.1237668+00:00",
+  "LastChanged_Achievements": "2023-05-20T23:06:00.6190765+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:44.4415674+00:00",
-  "LastUpdate_Ratings": "2023-05-20T21:59:55.9068429+00:00",
-  "LastUpdate_Achievements": "2023-05-20T22:06:11.1238182+00:00"
+  "LastUpdate_Ratings": "2023-05-20T22:59:41.8016012+00:00",
+  "LastUpdate_Achievements": "2023-05-20T23:06:00.6191059+00:00"
 }

@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 21561,
+  "EOS_Progressed": 21577,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 1110,
+  "EOS_NewPlayers": 1115,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3136,6 +3136,11 @@
       "Time": "2023-05-20T22:06:05.9577105+00:00",
       "NumProgressed": 21561,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-20T23:05:55.5588432+00:00",
+      "NumProgressed": 21577,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 29,
@@ -3147,7 +3152,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3450
+      "UsersEstimate": 3452
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -3155,7 +3160,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4312
+      "UsersEstimate": 4315
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -3171,7 +3176,7 @@
       "Name": "Thorn in My Herbicide",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACH_06_BLOODTOWER_NO_PIT_DEATH",
@@ -3187,7 +3192,7 @@
       "Name": "Down Boy!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
@@ -3195,7 +3200,7 @@
       "Name": "Backdoor Man",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -3219,7 +3224,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -3259,7 +3264,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -3291,7 +3296,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -3299,7 +3304,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -3307,7 +3312,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -3315,7 +3320,7 @@
       "Name": "Schadenfreude",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACH_24_HEAD_BANGED_TO_ALL_BOSSES",
@@ -3378,7 +3383,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 21561,
+      "Progressed": 21577,
       "Completed": 18
     }
   ],
@@ -3386,8 +3391,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-05-20T22:06:05.9577099+00:00",
+  "LastChanged_Achievements": "2023-05-20T23:05:55.5588426+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:39.6610119+00:00",
-  "LastUpdate_Ratings": "2023-05-20T22:00:01.5446715+00:00",
-  "LastUpdate_Achievements": "2023-05-20T22:06:05.9577617+00:00"
+  "LastUpdate_Ratings": "2023-05-20T22:59:46.3181917+00:00",
+  "LastUpdate_Achievements": "2023-05-20T23:05:55.5588787+00:00"
 }

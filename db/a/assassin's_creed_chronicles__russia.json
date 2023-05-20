@@ -4,7 +4,7 @@
   "ProductSlug": "assassins-creed-chronicles-russia",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 303,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-10-26T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:34.1126442+00:00",
   "LastChanged": "2023-03-31T05:57:34.1126443+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:43.5425673+00:00",
-  "LastUpdate_Ratings": "2023-05-20T21:59:21.5361786+00:00",
-  "LastUpdate_Achievements": "2023-05-20T22:04:46.6021372+00:00"
+  "LastUpdate_Ratings": "2023-05-20T22:59:09.138925+00:00",
+  "LastUpdate_Achievements": "2023-05-20T23:04:37.8622271+00:00"
 }

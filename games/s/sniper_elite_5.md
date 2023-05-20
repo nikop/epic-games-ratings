@@ -13,28 +13,29 @@ Rating: 4.41 (Ranked 658)
 | The Kraken Wakes | 2.00% | ~20 |
 | Organ Grinder | 1.00% | ~10 |
 | Explosive Efficiency | 1.00% | ~10 |
+| As Quiet as a Mouse | 1.00% | ~10 |
 | It's Starting to Crack | 1.00% | ~10 |
 | Target America | 1.00% | ~10 |
-| As Quiet as a Mouse | 0.90% | ~9 |
+| The Kraken Sleeps | 1.00% | ~10 |
 | Close Quarters | 0.90% | ~9 |
+| Liberté | 0.80% | ~8 |
 | Opposing Force | 0.80% | ~8 |
 | The Long Game | 0.80% | ~8 |
 | Die Nussknacker Sweet! | 0.80% | ~8 |
 | Change the Channel | 0.80% | ~8 |
 | Taking it back | 0.80% | ~8 |
-| The Kraken Sleeps | 0.80% | ~8 |
 | Just a Flesh Wound | 0.70% | ~7 |
 | Snake in the Grass | 0.70% | ~7 |
-| Liberté | 0.60% | ~6 |
 | Precision Is Key | 0.60% | ~6 |
+| Climbing the Ladder | 0.50% | ~5 |
 | Gunslinger | 0.50% | ~5 |
+| Skirmisher | 0.50% | ~5 |
 | Sharpshooter | 0.50% | ~5 |
 | Der Geist | 0.50% | ~5 |
 | Brains of the Operation | 0.50% | ~5 |
-| Climbing the Ladder | 0.40% | ~4 |
 | Strategist | 0.40% | ~4 |
-| Skirmisher | 0.40% | ~4 |
 | Shoot for the Moon | 0.40% | ~4 |
+| No Stone Unturned | 0.30% | ~3 |
 | Set Europe Ablaze | 0.30% | ~3 |
 | It'll Buff Right Out | 0.30% | ~3 |
 | Don't hold your breath | 0.30% | ~3 |
@@ -42,7 +43,6 @@ Rating: 4.41 (Ranked 658)
 | Operation Foxley | 0.30% | ~3 |
 | Last Resort | 0.30% | ~3 |
 | Sink or Swim | 0.30% | ~2 |
-| No Stone Unturned | 0.20% | ~2 |
 | Rigged to Blow | 0.20% | ~2 |
 | From Paris with Love | 0.20% | ~2 |
 | Siegebreaker | 0.20% | ~2 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 658)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 979 (Ranked 165)  
+Progressed: 984 (Ranked 165)  
 Completed: 2 (0.20%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 2 (0.20%) (Ranked 140)
 | 2023-05-17 | 728 | 2 |
 | 2023-05-18 | 743 | 2 |
 | 2023-05-19 | 833 | 2 |
-| 2023-05-20 | 979 | 2 |
+| 2023-05-20 | 984 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

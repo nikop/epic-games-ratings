@@ -4,7 +4,7 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 442,
+  "EOS_Progressed": 443,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.39,
   "EosHistory": [
@@ -126,6 +126,11 @@
       "Time": "2023-05-20T11:05:47.075641+00:00",
       "NumProgressed": 442,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-05-20T23:05:45.837526+00:00",
+      "NumProgressed": 443,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 32,
@@ -135,9 +140,9 @@
       "ID": "ACE",
       "SetID": "2iigf77",
       "Name": "Ace",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 71
     },
     {
       "ID": "ANNOYING",
@@ -145,7 +150,7 @@
       "Name": "Annoying",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "BLADE_RUNNER",
@@ -159,17 +164,17 @@
       "ID": "BUCKLE_UP",
       "SetID": "2iigf77",
       "Name": "Buckle up",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 265
+      "UsersEstimate": 261
     },
     {
       "ID": "CONCRETE_PAINTING",
       "SetID": "2iigf77",
       "Name": "Concrete painting",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 71
     },
     {
       "ID": "CURIOUS",
@@ -177,7 +182,7 @@
       "Name": "Curious",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "EVERYBODY_LIES",
@@ -193,7 +198,7 @@
       "Name": "Every little helps",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "FOUND_IT",
@@ -217,7 +222,7 @@
       "Name": "Hacker",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "HANDS_UP",
@@ -225,15 +230,15 @@
       "Name": "Hands up!",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "HAPPY_HALLOWEEN",
       "SetID": "2iigf77",
       "Name": "Trick or Treat?",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 102
     },
     {
       "ID": "HE_IS_JUST_A_CHILD",
@@ -241,7 +246,7 @@
       "Name": "He is just a child",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "HIPSTER",
@@ -281,7 +286,7 @@
       "Name": "Not as clumsy or random",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "NOT_WHAT_IT_SEEMS",
@@ -295,9 +300,9 @@
       "ID": "NOW_YOU_KNOW",
       "SetID": "2iigf77",
       "Name": "Now you know",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 239
+      "UsersEstimate": 235
     },
     {
       "ID": "PERFECT_HEARING",
@@ -329,7 +334,7 @@
       "Name": "Quick charge",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "SHORT_CIRCUIT",
@@ -337,7 +342,7 @@
       "Name": "Short circuit",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "SILENT",
@@ -377,7 +382,7 @@
       "Name": "Uncertain",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "WALKING_ROBOT",
@@ -392,7 +397,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 442,
+      "Progressed": 443,
       "Completed": 15
     }
   ],
@@ -400,8 +405,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-05-20T22:05:55.8984161+00:00",
+  "LastChanged_Achievements": "2023-05-20T23:05:45.8375255+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:21.9827734+00:00",
-  "LastUpdate_Ratings": "2023-05-20T21:58:39.715768+00:00",
-  "LastUpdate_Achievements": "2023-05-20T22:05:55.8984564+00:00"
+  "LastUpdate_Ratings": "2023-05-20T22:58:28.9758622+00:00",
+  "LastUpdate_Achievements": "2023-05-20T23:05:45.8375494+00:00"
 }

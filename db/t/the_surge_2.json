@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -225,11 +225,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1574,
+  "EOS_Progressed": 1575,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.64,
+  "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:46.0038697+00:00",
@@ -420,6 +420,11 @@
       "Time": "2023-05-20T20:06:05.9494453+00:00",
       "NumProgressed": 1574,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-20T23:06:11.3908561+00:00",
+      "NumProgressed": 1575,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -439,7 +444,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "ACHV_03",
@@ -447,7 +452,7 @@
       "Name": "Dead Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "ACHV_04",
@@ -487,7 +492,7 @@
       "Name": "Mommy Dearest",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACHV_09",
@@ -607,7 +612,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "ACHV_24",
@@ -631,7 +636,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1276
     },
     {
       "ID": "ACHV_27",
@@ -647,7 +652,7 @@
       "Name": "Clean Cut",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "ACHV_29",
@@ -655,7 +660,7 @@
       "Name": "Triplets",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACHV_30",
@@ -735,7 +740,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "ACHV_40",
@@ -815,7 +820,7 @@
       "Name": "Box Office Smash",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHV_50",
@@ -847,7 +852,7 @@
       "Name": "Going Postal",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHV_54",
@@ -855,7 +860,7 @@
       "Name": "The Easy Way Out",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHV_55",
@@ -879,14 +884,14 @@
       "Name": "Loot, Pillage \u0026 Craft",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     }
   ],
   "AchievementSets": [
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1574,
+      "Progressed": 1575,
       "Completed": 10
     }
   ],
@@ -894,8 +899,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-05-20T22:06:22.1295295+00:00",
+  "LastChanged_Achievements": "2023-05-20T23:06:11.3908557+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:42.7008662+00:00",
-  "LastUpdate_Ratings": "2023-05-20T22:00:33.5666738+00:00",
-  "LastUpdate_Achievements": "2023-05-20T22:06:22.1296243+00:00"
+  "LastUpdate_Ratings": "2023-05-20T23:00:19.7561463+00:00",
+  "LastUpdate_Achievements": "2023-05-20T23:06:11.3909096+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 909,
+  "EOS_Progressed": 910,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -595,6 +595,11 @@
       "Time": "2023-05-20T21:06:31.4125502+00:00",
       "NumProgressed": 909,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-20T23:05:57.2783349+00:00",
+      "NumProgressed": 910,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -676,9 +681,9 @@
       "ID": "Double_barrel",
       "SetID": "85nb4h3",
       "Name": "Lock, Stock",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 46
     },
     {
       "ID": "E1M1",
@@ -686,7 +691,7 @@
       "Name": "E1M1",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "Everyone_is_here",
@@ -718,7 +723,7 @@
       "Name": "Grenadier",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "Hard_Serpent",
@@ -742,7 +747,7 @@
       "Name": "Payback Time",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "How",
@@ -822,7 +827,7 @@
       "Name": "War Never Changes",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "We_were_not_here",
@@ -845,15 +850,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 909,
+      "Progressed": 910,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-05-20T22:06:07.67901+00:00",
+  "LastChanged_Achievements": "2023-05-20T23:05:57.2783345+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:35.4826245+00:00",
-  "LastUpdate_Ratings": "2023-05-20T21:59:15.6111602+00:00",
-  "LastUpdate_Achievements": "2023-05-20T22:06:07.6790488+00:00"
+  "LastUpdate_Ratings": "2023-05-20T22:59:04.0187567+00:00",
+  "LastUpdate_Achievements": "2023-05-20T23:05:57.2783579+00:00"
 }

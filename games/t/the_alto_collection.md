@@ -6,27 +6,27 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 27.00% | ~5,970 |
-| Rookie | 24.00% | ~5,307 |
-| Nomad | 19.00% | ~4,201 |
-| Picking Up Speed | 17.00% | ~3,759 |
-| Welcome Maya | 16.00% | ~3,538 |
-| Sightseer | 12.00% | ~2,653 |
-| Scout | 10.00% | ~2,211 |
-| Amateur | 9.00% | ~1,990 |
-| Enter Paz | 9.00% | ~1,990 |
-| Wanderer | 9.00% | ~1,990 |
-| Unlock Maya | 7.00% | ~1,548 |
+| Finding Your Footing | 27.00% | ~5,973 |
+| Rookie | 24.00% | ~5,309 |
+| Nomad | 19.00% | ~4,203 |
+| Picking Up Speed | 17.00% | ~3,761 |
+| Welcome Maya | 16.00% | ~3,540 |
+| Sightseer | 12.00% | ~2,655 |
+| Scout | 10.00% | ~2,212 |
+| Amateur | 9.00% | ~1,991 |
+| Enter Paz | 9.00% | ~1,991 |
+| Wanderer | 9.00% | ~1,991 |
+| Unlock Maya | 7.00% | ~1,549 |
 | Aviator | 6.00% | ~1,327 |
 | One With The Board | 6.00% | ~1,327 |
 | Voyager | 6.00% | ~1,327 |
 | My Little Friend | 5.00% | ~1,106 |
-| Sandboarder | 4.00% | ~884 |
-| Izel Has Arrived | 4.00% | ~884 |
-| Junkie | 3.00% | ~663 |
-| Traveler | 3.00% | ~663 |
-| Journeyer | 3.00% | ~663 |
-| Here Comes Felipe | 3.00% | ~663 |
+| Sandboarder | 4.00% | ~885 |
+| Izel Has Arrived | 4.00% | ~885 |
+| Junkie | 3.00% | ~664 |
+| Traveler | 3.00% | ~664 |
+| Journeyer | 3.00% | ~664 |
+| Here Comes Felipe | 3.00% | ~664 |
 | Pro | 2.00% | ~442 |
 | Unlock Paz | 2.00% | ~442 |
 | Human Flight | 2.00% | ~442 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~22 |
 | Windswept | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,111 (Ranked 89)  
+Progressed: 22,122 (Ranked 89)  
 Completed: 3 (0.01%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 3 (0.01%) (Ranked 193)
 | 2023-05-17 | 21,574 | 3 |
 | 2023-05-18 | 21,730 | 3 |
 | 2023-05-19 | 21,920 | 3 |
-| 2023-05-20 | 22,111 | 3 |
+| 2023-05-20 | 22,122 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 44  (Ranked 404)  
 Sum: 344 (Ranked 314)  

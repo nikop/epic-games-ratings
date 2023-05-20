@@ -7,9 +7,9 @@ Rating: 4.53 (Ranked 492)
 | ---- | ---------- | ----- |
 | A Wonderful Discovery | 80.00% | ~2,446 |
 | Realm Estate | 77.00% | ~2,355 |
-| Secret Technique | 76.00% | ~2,324 |
+| Secret Technique | 77.00% | ~2,355 |
 | Walls Cannot Stop Us | 74.00% | ~2,263 |
-| From Friends to Family | 69.00% | ~2,110 |
+| From Friends to Family | 70.00% | ~2,141 |
 | Magical Synergy | 65.00% | ~1,988 |
 | Bone Peddler | 62.00% | ~1,896 |
 | Stronger Together | 55.00% | ~1,682 |
@@ -20,8 +20,8 @@ Rating: 4.53 (Ranked 492)
 | Intimidation Tactics | 42.00% | ~1,284 |
 | Valley of Wonders | 41.00% | ~1,254 |
 | In a Liege of Your Own | 36.00% | ~1,101 |
+| Digging for Treasure | 30.00% | ~917 |
 | Return of the Wizard King | 29.00% | ~887 |
-| Digging for Treasure | 29.00% | ~887 |
 | Against the Odds | 29.00% | ~887 |
 | Enchanted Archipelago | 26.00% | ~795 |
 | Impenetrable Fortress | 25.00% | ~764 |

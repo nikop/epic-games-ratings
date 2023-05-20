@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1192,
+  "EOS_Progressed": 1193,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -520,6 +520,11 @@
       "Time": "2023-05-20T22:05:50.8848761+00:00",
       "NumProgressed": 1192,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-20T23:05:40.8185989+00:00",
+      "NumProgressed": 1193,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -595,7 +600,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -731,7 +736,7 @@
       "Name": "Thematic Divergence",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "achievement_use3ReactionStrikesInOneTurn",
@@ -739,7 +744,7 @@
       "Name": "Chain Reaction",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "achievement_victoryAfterLosingThreeHeroesInBattle",
@@ -787,7 +792,7 @@
       "Name": "Echoes Die",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "completedStory_procedural",
@@ -978,15 +983,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1192,
+      "Progressed": 1193,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-20T22:05:50.8848755+00:00",
+  "LastChanged_Achievements": "2023-05-20T23:05:40.8185984+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:59.9959604+00:00",
-  "LastUpdate_Ratings": "2023-05-20T22:00:40.1121074+00:00",
-  "LastUpdate_Achievements": "2023-05-20T22:05:50.8849524+00:00"
+  "LastUpdate_Ratings": "2023-05-20T23:00:26.2576976+00:00",
+  "LastUpdate_Achievements": "2023-05-20T23:05:40.8186471+00:00"
 }

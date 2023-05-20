@@ -8,23 +8,23 @@
 | Fright ✔ | 55.00% | ~97 |
 | Inventory ✔ | 51.00% | ~90 |
 | Police officers ✔ | 27.00% | ~48 |
-| Mutation ✔ | 26.00% | ~46 |
+| Mutation ✔ | 25.00% | ~44 |
 | Doberman ✔ | 13.00% | ~23 |
-| Master of Unlocking ✔ | 9.00% | ~16 |
 | Chess ✔ | 9.00% | ~16 |
 | Weapon ✔ | 9.00% | ~16 |
 | Survival ✔ | 8.00% | ~14 |
+| Master of Unlocking ✔ | 8.00% | ~14 |
+| Cheats ✔ | 7.00% | ~12 |
 | Hospital ✔ | 7.00% | ~12 |
+| King of survival ✔ | 7.00% | ~12 |
 | Thirst ✔ | 7.00% | ~12 |
 | Alice ✔ | 6.00% | ~11 |
 | Antivirus ✔ | 6.00% | ~11 |
 | Betty ✔ | 6.00% | ~11 |
 | Brain ✔ | 6.00% | ~11 |
-| Cheats ✔ | 6.00% | ~11 |
 | City ✔ | 6.00% | ~11 |
 | Food ✔ | 6.00% | ~11 |
 | Fraternal help ✔ | 6.00% | ~11 |
-| King of survival ✔ | 6.00% | ~11 |
 | All secrets revealed ✔ | 6.00% | ~11 |
 | Boss 1 ✔ | 5.00% | ~9 |
 | Eva ✔ | 5.00% | ~9 |
@@ -33,21 +33,21 @@
 | Infected ✔ | 5.00% | ~9 |
 | Broadcasting ✔ | 5.00% | ~9 |
 | Mutant run ✔ | 4.00% | ~7 |
+| Rank A ✔ | 4.00% | ~7 |
 | Crocodile Attack ✔ | 3.00% | ~5 |
 | Secret ✔ | 3.00% | ~5 |
 | Boss 2 ✔ | 3.00% | ~5 |
 | Group Alpha ✔ | 3.00% | ~5 |
 | Sheriff ✔ | 3.00% | ~5 |
+| The escape ✔ | 3.00% | ~5 |
 | Priest ✔ | 3.00% | ~5 |
 | Rank B+ ✔ | 3.00% | ~5 |
-| Rank A ✔ | 3.00% | ~5 |
 | Boss 3 ✔ | 3.00% | ~5 |
 | Car ✔ | 2.00% | ~4 |
 | Seeker One ✔ | 2.00% | ~4 |
 | Seeker Three ✔ | 2.00% | ~4 |
 | Crocodile Escape ✔ | 2.00% | ~4 |
 | Osipov's video message ✔ | 2.00% | ~4 |
-| The escape ✔ | 2.00% | ~4 |
 | VIP ✔ | 2.00% | ~4 |
 | Exterminate pests ✔ | 1.00% | ~2 |
 | Hardcore ✔ | 1.00% | ~2 |
@@ -55,7 +55,7 @@
 | Seeker Two ✔ | 0.60% | ~1 |
 | Rank A+ ✔ | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 176 (Ranked 233)  
+Progressed: 177 (Ranked 233)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-15 | 167 | 0 |
 | 2023-05-17 | 168 | 0 |
 | 2023-05-18 | 170 | 0 |
-| 2023-05-20 | 176 | 0 |
+| 2023-05-20 | 177 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

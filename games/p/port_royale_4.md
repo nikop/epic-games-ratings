@@ -12,7 +12,7 @@ Number of Ratings: 53  (23.09.2022)
 | 3, 2, 1, mine | 55.00% | ~300 |
 | Gofer | 55.00% | ~300 |
 | Seafarer | 54.00% | ~294 |
-| O Captain! My Captain! | 53.00% | ~289 |
+| O Captain! My Captain! | 54.00% | ~294 |
 | Greed for gold | 43.00% | ~234 |
 | Intangible | 41.00% | ~223 |
 | I'm out of here for a while | 40.00% | ~218 |

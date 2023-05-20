@@ -6,38 +6,38 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~526,503 |
-| Green Energy | 60.00% | ~444,932 |
-| Foggy Weather | 59.00% | ~437,517 |
-| Singing In The- | 59.00% | ~437,517 |
-| Unpopular Mayor | 41.00% | ~304,037 |
-| Power at Your Fingertips | 33.00% | ~244,713 |
-| City Planner | 23.00% | ~170,557 |
-| Rolling in Dough | 20.00% | ~148,311 |
-| Does My Bum Look Big In This? | 18.00% | ~133,480 |
-| Climbing the Social Ladder | 16.00% | ~118,649 |
-| Safe City | 14.00% | ~103,818 |
-| Quay-King | 11.00% | ~81,571 |
-| Lawmaker | 10.00% | ~74,155 |
-| With Canals You Can! | 10.00% | ~74,155 |
-| Nomen Est Omen | 7.00% | ~51,909 |
-| Well Informed | 6.00% | ~44,493 |
-| Fire Watch | 5.00% | ~37,078 |
-| Greenest City | 4.00% | ~29,662 |
-| Reporting! | 4.00% | ~29,662 |
-| Heavenly City | 3.00% | ~22,247 |
-| SIMulated City | 3.00% | ~22,247 |
-| The Safest Town | 3.00% | ~22,247 |
-| City in Motion | 2.00% | ~14,831 |
-| Professional Dumper | 2.00% | ~14,831 |
-| Earthloving City | 1.00% | ~7,416 |
-| Metropolis | 1.00% | ~7,416 |
-| Beam Me Up | 0.70% | ~5,191 |
-| Higher Education | 0.70% | ~5,191 |
-| Terraformer | 0.70% | ~5,191 |
-| Decorator | 0.60% | ~4,449 |
-| Full Capacity | 0.60% | ~4,449 |
-| The Waters of Our Lives | 0.60% | ~4,449 |
+| Pioneer | 71.00% | ~526,584 |
+| Green Energy | 60.00% | ~445,001 |
+| Foggy Weather | 59.00% | ~437,584 |
+| Singing In The- | 59.00% | ~437,584 |
+| Unpopular Mayor | 41.00% | ~304,084 |
+| Power at Your Fingertips | 33.00% | ~244,750 |
+| City Planner | 23.00% | ~170,584 |
+| Rolling in Dough | 20.00% | ~148,334 |
+| Does My Bum Look Big In This? | 18.00% | ~133,500 |
+| Climbing the Social Ladder | 16.00% | ~118,667 |
+| Safe City | 14.00% | ~103,834 |
+| Quay-King | 11.00% | ~81,583 |
+| Lawmaker | 10.00% | ~74,167 |
+| With Canals You Can! | 10.00% | ~74,167 |
+| Nomen Est Omen | 7.00% | ~51,917 |
+| Well Informed | 6.00% | ~44,500 |
+| Fire Watch | 5.00% | ~37,083 |
+| Greenest City | 4.00% | ~29,667 |
+| Reporting! | 4.00% | ~29,667 |
+| Heavenly City | 3.00% | ~22,250 |
+| SIMulated City | 3.00% | ~22,250 |
+| The Safest Town | 3.00% | ~22,250 |
+| City in Motion | 2.00% | ~14,833 |
+| Professional Dumper | 2.00% | ~14,833 |
+| Earthloving City | 1.00% | ~7,417 |
+| Metropolis | 1.00% | ~7,417 |
+| Beam Me Up | 0.70% | ~5,192 |
+| Higher Education | 0.70% | ~5,192 |
+| Terraformer | 0.70% | ~5,192 |
+| Decorator | 0.60% | ~4,450 |
+| Full Capacity | 0.60% | ~4,450 |
+| The Waters of Our Lives | 0.60% | ~4,450 |
 | Airfield Expertise | 0.50% | ~3,708 |
 | Drop the Base | 0.50% | ~3,708 |
 | Get Your Snowshoes Ready! | 0.50% | ~3,708 |
@@ -47,12 +47,12 @@ Number of Ratings: 25,248  (23.09.2022)
 | Speed up! | 0.50% | ~3,708 |
 | Thunder and Lightning | 0.50% | ~3,708 |
 | Twist and shout | 0.50% | ~3,708 |
-| Airlifter | 0.40% | ~2,966 |
-| Airport Architect | 0.40% | ~2,966 |
-| Are They Naked In There? | 0.40% | ~2,966 |
-| Happy Town | 0.40% | ~2,966 |
-| I Want It All | 0.40% | ~2,966 |
-| Just Tolling | 0.40% | ~2,966 |
+| Airlifter | 0.40% | ~2,967 |
+| Airport Architect | 0.40% | ~2,967 |
+| Are They Naked In There? | 0.40% | ~2,967 |
+| Happy Town | 0.40% | ~2,967 |
+| I Want It All | 0.40% | ~2,967 |
+| Just Tolling | 0.40% | ~2,967 |
 | A Huge Hadron | 0.30% | ~2,225 |
 | Friendly Teaching | 0.30% | ~2,225 |
 | Here's A Tram | 0.30% | ~2,225 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~742 |
 | Z00 | 0.10% | ~742 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 741,554 (Ranked 13)  
+Progressed: 741,668 (Ranked 13)  
 Completed: 6 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 6 (0.00%) (Ranked 201)
 | 2023-05-17 | 732,566 | 6 |
 | 2023-05-18 | 735,187 | 6 |
 | 2023-05-19 | 738,089 | 6 |
-| 2023-05-20 | 741,554 | 6 |
+| 2023-05-20 | 741,668 | 6 |
 ## Awards
 Max (Great for Beginners): 4,505  (Ranked 68)  
 Sum: 34,387 (Ranked 34)  

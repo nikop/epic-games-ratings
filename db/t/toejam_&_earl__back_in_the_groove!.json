@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 54566,
+  "EOS_Progressed": 54572,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -2027,6 +2027,11 @@
       "Time": "2023-05-20T22:06:19.4878276+00:00",
       "NumProgressed": 54566,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-20T23:06:08.8275747+00:00",
+      "NumProgressed": 54572,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 49,
@@ -2110,15 +2115,15 @@
       "Name": "Flying Present Catcher",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2728
+      "UsersEstimate": 2729
     },
     {
       "ID": "FlyingPresentMaster",
       "SetID": "8gem5jc",
       "Name": "Flying Present Ultimate Master",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 218
+      "UsersEstimate": 164
     },
     {
       "ID": "FoodTaster",
@@ -2126,7 +2131,7 @@
       "Name": "Food Taster",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 4365
+      "UsersEstimate": 4366
     },
     {
       "ID": "FoolMeTwice",
@@ -2182,7 +2187,7 @@
       "Name": "HFZ Goober",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2728
+      "UsersEstimate": 2729
     },
     {
       "ID": "HarshLove",
@@ -2429,7 +2434,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 54566,
+      "Progressed": 54572,
       "Completed": 4
     }
   ],
@@ -2437,8 +2442,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-03-31T17:59:29.6978698+00:00",
-  "LastChanged_Achievements": "2023-05-20T22:06:19.487827+00:00",
+  "LastChanged_Achievements": "2023-05-20T23:06:08.8275743+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:53.3555179+00:00",
-  "LastUpdate_Ratings": "2023-05-20T22:00:39.0779681+00:00",
-  "LastUpdate_Achievements": "2023-05-20T22:06:19.4878822+00:00"
+  "LastUpdate_Ratings": "2023-05-20T23:00:25.2064921+00:00",
+  "LastUpdate_Achievements": "2023-05-20T23:06:08.8276251+00:00"
 }

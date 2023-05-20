@@ -2,12 +2,12 @@
   "ID": "cb62701a29834de6a91e5f634a72b6f8",
   "Name": "ATOM RPG",
   "ProductSlug": "atom-rpg-3adb54",
-  "Ranking_Rating": 608,
+  "Ranking_Rating": 609,
   "Ranking_Popularity": 394,
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -340,9 +340,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 791,
+  "EOS_Progressed": 793,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -615,6 +615,11 @@
       "Time": "2023-05-20T18:06:02.7205172+00:00",
       "NumProgressed": 791,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T23:06:04.8650186+00:00",
+      "NumProgressed": 793,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -626,7 +631,7 @@
       "Name": "Bustin\u0027 nuts",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "CAREER_CRIMINAL",
@@ -680,9 +685,9 @@
       "ID": "EARLY_ACCESS_1",
       "SetID": "bf13m8j",
       "Name": "Atom Agent",
-      "Percentage": 99,
+      "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 783
+      "UsersEstimate": 777
     },
     {
       "ID": "EXPERT_1",
@@ -698,7 +703,7 @@
       "Name": "Explorer",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "GHOSTBUSTER",
@@ -714,7 +719,7 @@
       "Name": "Grave Robber",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "HEAD_BURST_1",
@@ -722,7 +727,7 @@
       "Name": "Head Burst",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "INDY_1",
@@ -778,7 +783,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -786,7 +791,7 @@
       "Name": "One shot, one kill",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "PACIFIST",
@@ -890,7 +895,7 @@
       "Name": "The Vitinsky Rifle",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "WANDERER_1",
@@ -913,15 +918,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 791,
+      "Progressed": 793,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-05-09T03:01:00.2336224+00:00",
-  "LastChanged_Achievements": "2023-05-20T22:06:15.5731069+00:00",
+  "LastChanged_Achievements": "2023-05-20T23:06:04.8650181+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:55.4306832+00:00",
-  "LastUpdate_Ratings": "2023-05-20T22:00:13.3164753+00:00",
-  "LastUpdate_Achievements": "2023-05-20T22:06:15.5731361+00:00"
+  "LastUpdate_Ratings": "2023-05-20T22:59:58.649042+00:00",
+  "LastUpdate_Achievements": "2023-05-20T23:06:04.8650458+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -410,9 +410,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 13048,
+  "EOS_Progressed": 13057,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 486,
+  "EOS_NewPlayers": 495,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -995,6 +995,11 @@
       "Time": "2023-05-20T22:00:47.8699764+00:00",
       "NumProgressed": 13048,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-20T23:00:35.7122081+00:00",
+      "NumProgressed": 13057,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 40,
@@ -1022,7 +1027,7 @@
       "Name": "Giving Back",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -1038,7 +1043,7 @@
       "Name": "Flesh Wound",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -1134,7 +1139,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "KILL_ROBOT",
@@ -1166,7 +1171,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -1278,7 +1283,7 @@
       "Name": "Instigator",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -1286,7 +1291,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -1294,7 +1299,7 @@
       "Name": "Bear Trap",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -1325,13 +1330,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13048,
+      "Progressed": 13057,
       "Completed": 51
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 974,
+      "Progressed": 983,
       "Completed": 29
     }
   ],
@@ -1339,8 +1344,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-16T17:57:38.030273+00:00",
-  "LastChanged_Achievements": "2023-05-20T22:00:47.8699758+00:00",
+  "LastChanged_Achievements": "2023-05-20T23:00:35.7122078+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-20T21:57:46.075572+00:00",
-  "LastUpdate_Achievements": "2023-05-20T22:00:47.8700424+00:00"
+  "LastUpdate_Ratings": "2023-05-20T22:57:36.935426+00:00",
+  "LastUpdate_Achievements": "2023-05-20T23:00:35.7122455+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 200,
+  "EOS_Progressed": 201,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -103,6 +103,11 @@
       "Time": "2023-05-20T12:05:34.6744493+00:00",
       "NumProgressed": 200,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-20T23:05:27.1115424+00:00",
+      "NumProgressed": 201,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -154,7 +159,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ryan_date2_all",
@@ -176,9 +181,9 @@
       "ID": "success_azalea",
       "SetID": "6h5h9ho",
       "Name": "The activist",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "success_bash",
@@ -208,41 +213,41 @@
       "ID": "success_hazel",
       "SetID": "6h5h9ho",
       "Name": "The individualist",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "success_jake",
       "SetID": "6h5h9ho",
       "Name": "The nice guy",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "success_kathleen",
       "SetID": "6h5h9ho",
       "Name": "The intellectual",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 56
+      "UsersEstimate": 54
     },
     {
       "ID": "success_lucas",
       "SetID": "6h5h9ho",
       "Name": "The techie",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "success_toni",
       "SetID": "6h5h9ho",
       "Name": "The athlete",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 52
+      "UsersEstimate": 50
     },
     {
       "ID": "success_ty",
@@ -256,16 +261,16 @@
       "ID": "vinny_number",
       "SetID": "6h5h9ho",
       "Name": "Muggy Misha",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 200,
+      "Progressed": 201,
       "Completed": 2
     }
   ],
@@ -273,8 +278,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-05-20T22:05:36.8601881+00:00",
+  "LastChanged_Achievements": "2023-05-20T23:05:27.1115418+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:57.7443793+00:00",
-  "LastUpdate_Ratings": "2023-05-20T21:57:19.3588217+00:00",
-  "LastUpdate_Achievements": "2023-05-20T22:05:36.8602042+00:00"
+  "LastUpdate_Ratings": "2023-05-20T22:57:11.0822099+00:00",
+  "LastUpdate_Achievements": "2023-05-20T23:05:27.1115559+00:00"
 }
