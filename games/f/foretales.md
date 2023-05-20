@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Caged tiger | 61.00% | ~155 |
+| Caged tiger | 61.00% | ~156 |
 | Gorilla warfare | 57.00% | ~145 |
 | Isenburg's fall | 48.00% | ~122 |
-| Pieces of eight! | 41.00% | ~104 |
+| Pieces of eight! | 41.00% | ~105 |
 | Aboard the Sea Bird | 31.00% | ~79 |
 | Elephant in the room | 30.00% | ~76 |
 | Dark and stinky | 29.00% | ~74 |
@@ -18,11 +18,11 @@
 | Say hello to my little friends | 20.00% | ~51 |
 | Gotcha | 18.00% | ~46 |
 | Heal thyself | 18.00% | ~46 |
-| Double trouble | 17.00% | ~43 |
+| Double trouble | 16.00% | ~41 |
 | It's not cheating | 16.00% | ~41 |
 | Stronk | 15.00% | ~38 |
 | Welcome to Forte Ailes | 13.00% | ~33 |
-| Super Moth Boy | 12.00% | ~30 |
+| Super Moth Boy | 12.00% | ~31 |
 | Meet your maker | 9.00% | ~23 |
 | The Bad Place | 9.00% | ~23 |
 | A grave matter | 7.00% | ~18 |
@@ -30,9 +30,9 @@
 | Pacifist fanatic | 7.00% | ~18 |
 | The Good Place | 7.00% | ~18 |
 | Trial by combat | 7.00% | ~18 |
-| Money talks | 6.00% | ~15 |
 | Peaceful protest | 6.00% | ~15 |
 | A bard day's night | 5.00% | ~13 |
+| Money talks | 5.00% | ~13 |
 | Squid Game | 4.00% | ~10 |
 | Lyre lyre pants on fyre | 4.00% | ~10 |
 | Be kind to monsters | 3.00% | ~8 |
@@ -46,7 +46,7 @@
 | Force of nature | 0.00% | ~0 |
 | Save it for a Rainier day | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254 (Ranked 220)  
+Progressed: 255 (Ranked 220)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,6 +55,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-04-27 | 252 | 0 |
 | 2023-04-28 | 253 | 0 |
 | 2023-05-14 | 254 | 0 |
+| 2023-05-20 | 255 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

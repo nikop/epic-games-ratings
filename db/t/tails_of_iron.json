@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -510,9 +510,9 @@
       "ID": "CompleteArenaFaction",
       "SetID": "9lj35g4",
       "Name": "Complete Arena Faction",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 196
+      "UsersEstimate": 210
     },
     {
       "ID": "CompleteChefsBook",
@@ -709,8 +709,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-04-02T20:59:05.8070796+00:00",
-  "LastChanged_Achievements": "2023-05-20T10:02:47.3515336+00:00",
+  "LastChanged_Achievements": "2023-05-20T11:03:28.6151242+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3670256+00:00",
-  "LastUpdate_Ratings": "2023-05-20T09:58:04.1422325+00:00",
-  "LastUpdate_Achievements": "2023-05-20T10:02:47.351556+00:00"
+  "LastUpdate_Ratings": "2023-05-20T10:58:37.2595877+00:00",
+  "LastUpdate_Achievements": "2023-05-20T11:03:28.6151493+00:00"
 }

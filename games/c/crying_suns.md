@@ -49,6 +49,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Hammer Supremacy | 0.10% | ~459 |
 | Jeef Skeejj | 0.10% | ~459 |
 | Jeef Skagg | 0.10% | ~459 |
+| Survivor | 0.10% | ~459 |
 | Plan for the worst | 0.10% | ~459 |
 | Careful planning | 0.10% | ~459 |
 | The greatest admiral of all time | 0.10% | ~459 |
@@ -76,7 +77,6 @@ Number of Ratings: 1,003  (23.09.2022)
 | Kaos Supremacy | 0.00% | ~0 |
 | Excelsior Mastery | 0.00% | ~0 |
 | Excelsior Supremacy | 0.00% | ~0 |
-| Survivor | 0.00% | ~0 |
 | Savior | 0.00% | ~0 |
 | The God of War | 0.00% | ~0 |
 | Horus Mastery | 0.00% | ~0 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.00% | ~0 |
 | Kronos Rule | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458,519 (Ranked 29)  
+Progressed: 458,522 (Ranked 29)  
 Completed: 14 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 14 (0.00%) (Ranked 201)
 | 2023-05-17 | 458,267 | 14 |
 | 2023-05-18 | 458,375 | 14 |
 | 2023-05-19 | 458,480 | 14 |
-| 2023-05-20 | 458,519 | 14 |
+| 2023-05-20 | 458,522 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 209 (Ranked 349)  

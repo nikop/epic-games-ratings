@@ -4,8 +4,8 @@
   "ProductSlug": "conglomerate-451-6570f5",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 298,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-05-19T14:00:00+00:00",
     "PcReleaseDate": "2020-02-20T00:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:18.5253389+00:00",
   "LastChanged": "2023-03-31T05:58:18.525339+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:07.4058043+00:00",
-  "LastUpdate_Ratings": "2023-05-20T09:58:12.3313088+00:00",
-  "LastUpdate_Achievements": "2023-05-20T10:03:35.2664034+00:00"
+  "LastUpdate_Ratings": "2023-05-20T10:58:47.9164162+00:00",
+  "LastUpdate_Achievements": "2023-05-20T11:04:02.854444+00:00"
 }

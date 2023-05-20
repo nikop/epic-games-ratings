@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2450,9 +2450,9 @@
       "Count": 368
     }
   ],
-  "EOS_Progressed": 8950,
+  "EOS_Progressed": 8952,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3940,6 +3940,11 @@
       "Time": "2023-05-20T10:05:20.2286014+00:00",
       "NumProgressed": 8950,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T11:06:09.056908+00:00",
+      "NumProgressed": 8952,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3983,7 +3988,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -4007,7 +4012,7 @@
       "Name": "Path of the Angel",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "09_PathOfDemon",
@@ -4023,7 +4028,7 @@
       "Name": "Path of the Azata",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "11_PathOfAeon",
@@ -4079,7 +4084,7 @@
       "Name": "Transformation",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "18_MythicChoices",
@@ -4159,7 +4164,7 @@
       "Name": "Great Upstart",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "29_StrategicVictory",
@@ -4295,7 +4300,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "46_AllPathsOpen",
@@ -4303,7 +4308,7 @@
       "Name": "All Paths Open",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -4343,7 +4348,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -4375,7 +4380,7 @@
       "Name": "Next-Door Play",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "56_GetToad",
@@ -4878,21 +4883,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7732,
+      "Progressed": 7734,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8950,
+      "Progressed": 8952,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-20T09:58:01.271803+00:00",
-  "LastChanged_Achievements": "2023-05-20T10:05:20.2286008+00:00",
+  "LastChanged_Achievements": "2023-05-20T11:06:09.0569075+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3010226+00:00",
-  "LastUpdate_Ratings": "2023-05-20T09:58:01.2718038+00:00",
-  "LastUpdate_Achievements": "2023-05-20T10:05:20.2287725+00:00"
+  "LastUpdate_Ratings": "2023-05-20T10:58:33.9655708+00:00",
+  "LastUpdate_Achievements": "2023-05-20T11:06:09.0571152+00:00"
 }

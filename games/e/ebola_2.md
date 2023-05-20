@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Statue ✔ | 63.00% | ~111 |
-| Recluse ✔ | 29.00% | ~51 |
-| Witch ✔ | 16.00% | ~28 |
-| Scent of Meat ✔ | 15.00% | ~26 |
+| Statue ✔ | 63.00% | ~112 |
+| Recluse ✔ | 30.00% | ~53 |
+| Witch ✔ | 17.00% | ~30 |
+| Scent of Meat ✔ | 15.00% | ~27 |
 | Survival ✔ | 2.00% | ~4 |
 | Voodoo ✔ | 0.00% | ~0 |
 | Light will show the truth ✔ | 0.00% | ~0 |
@@ -23,7 +23,7 @@
 | Master of Unlocking ✔ | 0.00% | ~0 |
 | Saved the planet ✔ | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 176 (Ranked 231)  
+Progressed: 177 (Ranked 231)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -40,4 +40,4 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-17 | 155 | 0 |
 | 2023-05-18 | 161 | 0 |
 | 2023-05-19 | 172 | 0 |
-| 2023-05-20 | 176 | 0 |
+| 2023-05-20 | 177 | 0 |

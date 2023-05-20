@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2019-07-25T08:00:00+00:00",
@@ -1085,9 +1085,9 @@
       "ID": "ACH_HOLIDAYS",
       "SetID": "5nj1ea3",
       "Name": "Holidays!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH_KAMIKAZE",
@@ -1302,8 +1302,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-05-15T11:00:28.5619005+00:00",
-  "LastChanged_Achievements": "2023-05-20T10:05:24.1144163+00:00",
+  "LastChanged_Achievements": "2023-05-20T11:06:13.4049367+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:27.3855463+00:00",
-  "LastUpdate_Ratings": "2023-05-20T09:59:47.8560815+00:00",
-  "LastUpdate_Achievements": "2023-05-20T10:05:24.1144747+00:00"
+  "LastUpdate_Ratings": "2023-05-20T11:00:45.8292894+00:00",
+  "LastUpdate_Achievements": "2023-05-20T11:06:13.4050197+00:00"
 }

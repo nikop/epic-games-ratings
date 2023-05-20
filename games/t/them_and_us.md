@@ -46,7 +46,7 @@
 | The 5th Element | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 111 (Ranked 254)  
-Completed: 1 (0.90%) (Ranked 87)  
+Completed: 1 (0.90%) (Ranked 88)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

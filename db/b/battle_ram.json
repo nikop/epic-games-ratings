@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-30T00:00:00+00:00",
     "PcReleaseDate": "2020-03-21T05:00:00+00:00",
@@ -189,9 +189,9 @@
       "ID": "ach_5",
       "SetID": "392n4e7",
       "Name": "Ram First Sergeant",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_6",
@@ -235,8 +235,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:08.6528344+00:00",
-  "LastChanged_Achievements": "2023-05-20T10:04:47.7073998+00:00",
+  "LastChanged_Achievements": "2023-05-20T11:05:30.8582076+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:38.6881308+00:00",
-  "LastUpdate_Ratings": "2023-05-20T09:57:46.6091769+00:00",
-  "LastUpdate_Achievements": "2023-05-20T10:04:47.7074166+00:00"
+  "LastUpdate_Ratings": "2023-05-20T10:58:16.0015507+00:00",
+  "LastUpdate_Achievements": "2023-05-20T11:05:30.8582265+00:00"
 }

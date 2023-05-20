@@ -5,10 +5,10 @@
   "Ranking_Rating": 258,
   "Ranking_Popularity": 429,
   "Ranking_PopularitySum": 451,
-  "Ranking_EOS_Progress": 115,
+  "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 119,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -310,9 +310,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 6379,
+  "EOS_Progressed": 6384,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 251,
+  "EOS_NewPlayers": 253,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -1735,6 +1735,11 @@
       "Time": "2023-05-20T10:04:53.2638088+00:00",
       "NumProgressed": 6379,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-20T11:05:37.3652304+00:00",
+      "NumProgressed": 6384,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 34,
@@ -1762,7 +1767,7 @@
       "Name": "Iron-y",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "ACH04",
@@ -1794,7 +1799,7 @@
       "Name": "High Quality H2O",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACH08",
@@ -1802,7 +1807,7 @@
       "Name": "Pie Guy",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACH09",
@@ -1826,7 +1831,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "ACH12",
@@ -1850,7 +1855,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2488
+      "UsersEstimate": 2490
     },
     {
       "ID": "ACH15",
@@ -1890,7 +1895,7 @@
       "Name": "Don\u0027t Need Roads",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACH20",
@@ -1906,7 +1911,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2743
+      "UsersEstimate": 2745
     },
     {
       "ID": "ACH22",
@@ -1914,7 +1919,7 @@
       "Name": "Life of the Party",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "ACH23",
@@ -1922,7 +1927,7 @@
       "Name": "South American Connection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1467
+      "UsersEstimate": 1468
     },
     {
       "ID": "ACH24",
@@ -1930,7 +1935,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "ACH25",
@@ -1938,7 +1943,7 @@
       "Name": "Chauffeur",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "ACH26",
@@ -1946,7 +1951,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "ACH27",
@@ -2017,7 +2022,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6379,
+      "Progressed": 6384,
       "Completed": 22
     }
   ],
@@ -2025,8 +2030,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-17T13:04:15.6274807+00:00",
-  "LastChanged_Achievements": "2023-05-20T10:04:53.2638083+00:00",
+  "LastChanged_Achievements": "2023-05-20T11:05:37.3652298+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:49.9519997+00:00",
-  "LastUpdate_Ratings": "2023-05-20T09:57:59.1049012+00:00",
-  "LastUpdate_Achievements": "2023-05-20T10:04:53.2638407+00:00"
+  "LastUpdate_Ratings": "2023-05-20T10:58:32.6047369+00:00",
+  "LastUpdate_Achievements": "2023-05-20T11:05:37.3653021+00:00"
 }

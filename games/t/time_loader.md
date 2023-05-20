@@ -8,8 +8,8 @@
 | Springs | 60.00% | ~58 |
 | Soap | 40.00% | ~39 |
 | Capacitors | 33.00% | ~32 |
+| Act 1 | 33.00% | ~32 |
 | Wrench | 32.00% | ~31 |
-| Act 1 | 32.00% | ~31 |
 | Purr-fect | 31.00% | ~30 |
 | Mug | 29.00% | ~28 |
 | Soldering iron | 29.00% | ~28 |
@@ -20,8 +20,8 @@
 | Cassette | 22.00% | ~21 |
 | Here we go again | 22.00% | ~21 |
 | Flyer | 18.00% | ~17 |
+| It’s in the Vault | 15.00% | ~15 |
 | Time Capsule | 14.00% | ~14 |
-| It’s in the Vault | 14.00% | ~14 |
 | Dr. Antivirus | 14.00% | ~14 |
 | Photo | 13.00% | ~13 |
 | Ticket | 13.00% | ~13 |

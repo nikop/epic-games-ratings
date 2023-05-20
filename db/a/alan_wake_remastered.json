@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46435,
+  "EOS_Progressed": 46439,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 297,
+  "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1966,6 +1966,11 @@
       "Time": "2023-05-20T10:04:59.1055266+00:00",
       "NumProgressed": 46435,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-05-20T11:05:44.2013735+00:00",
+      "NumProgressed": 46439,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 67,
@@ -1977,7 +1982,7 @@
       "Name": "Follow the Light",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9287
+      "UsersEstimate": 9288
     },
     {
       "ID": "02",
@@ -2017,7 +2022,7 @@
       "Name": "Park Ranger",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4179
+      "UsersEstimate": 4180
     },
     {
       "ID": "07",
@@ -2025,7 +2030,7 @@
       "Name": "Heavy Metal",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3250
+      "UsersEstimate": 3251
     },
     {
       "ID": "08",
@@ -2033,7 +2038,7 @@
       "Name": "Iron Horse",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3250
+      "UsersEstimate": 3251
     },
     {
       "ID": "09",
@@ -2065,7 +2070,7 @@
       "Name": "Perchance to Dream",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3250
+      "UsersEstimate": 3251
     },
     {
       "ID": "13",
@@ -2105,7 +2110,7 @@
       "Name": "Departure",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1857
+      "UsersEstimate": 1858
     },
     {
       "ID": "18",
@@ -2161,7 +2166,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3250
+      "UsersEstimate": 3251
     },
     {
       "ID": "25",
@@ -2177,7 +2182,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3250
+      "UsersEstimate": 3251
     },
     {
       "ID": "27",
@@ -2185,7 +2190,7 @@
       "Name": "Collateral Carnage",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3250
+      "UsersEstimate": 3251
     },
     {
       "ID": "28",
@@ -2193,7 +2198,7 @@
       "Name": "Come One, Come All",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3250
+      "UsersEstimate": 3251
     },
     {
       "ID": "29",
@@ -2217,7 +2222,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4179
+      "UsersEstimate": 4180
     },
     {
       "ID": "32",
@@ -2297,7 +2302,7 @@
       "Name": "Finders Keepers",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4179
+      "UsersEstimate": 4180
     },
     {
       "ID": "42",
@@ -2313,7 +2318,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 4179
+      "UsersEstimate": 4180
     },
     {
       "ID": "44",
@@ -2377,7 +2382,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "52",
@@ -2512,21 +2517,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46435,
+      "Progressed": 46439,
       "Completed": 45
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9903,
+      "Progressed": 9907,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-20T10:04:59.1055259+00:00",
+  "LastChanged_Achievements": "2023-05-20T11:05:44.2013728+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:07.5579983+00:00",
-  "LastUpdate_Ratings": "2023-05-20T09:57:21.6428201+00:00",
-  "LastUpdate_Achievements": "2023-05-20T10:04:59.1056003+00:00"
+  "LastUpdate_Ratings": "2023-05-20T10:57:45.2961607+00:00",
+  "LastUpdate_Achievements": "2023-05-20T11:05:44.201455+00:00"
 }

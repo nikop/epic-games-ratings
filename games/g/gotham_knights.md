@@ -6,17 +6,18 @@ Rating: 4.17 (Ranked 835)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 0.80% | ~490 |
-| Quartzer Life Crisis | 0.50% | ~306 |
-| Snow Problem | 0.50% | ~306 |
-| Har, Har, Har, Very Funny | 0.50% | ~306 |
-| Get ReQ'd | 0.50% | ~306 |
-| Working Hard or Harley Working? | 0.50% | ~306 |
-| Unstoppable Force | 0.50% | ~306 |
-| Knighthood | 0.50% | ~306 |
-| Loose Ends | 0.50% | ~306 |
-| Whispered Words | 0.50% | ~306 |
-| Bad Apples in Every Orchard | 0.50% | ~306 |
-| Gotham Knight | 0.50% | ~306 |
+| Quartzer Life Crisis | 0.50% | ~307 |
+| Snow Problem | 0.50% | ~307 |
+| Har, Har, Har, Very Funny | 0.50% | ~307 |
+| Get ReQ'd | 0.50% | ~307 |
+| Working Hard or Harley Working? | 0.50% | ~307 |
+| Unstoppable Force | 0.50% | ~307 |
+| Knighthood | 0.50% | ~307 |
+| Loose Ends | 0.50% | ~307 |
+| Whispered Words | 0.50% | ~307 |
+| Bad Apples in Every Orchard | 0.50% | ~307 |
+| From Inside Gotham's Walls | 0.50% | ~307 |
+| Gotham Knight | 0.50% | ~307 |
 | The Batman Family | 0.40% | ~245 |
 | End of an Era | 0.40% | ~245 |
 | In Your Element | 0.40% | ~245 |
@@ -30,7 +31,6 @@ Rating: 4.17 (Ranked 835)
 | Cooldown | 0.40% | ~245 |
 | Universal Health Scare | 0.40% | ~245 |
 | Lock and Key | 0.40% | ~245 |
-| From Inside Gotham's Walls | 0.40% | ~245 |
 | Voiceless | 0.40% | ~245 |
 | Seeking Asylum | 0.40% | ~245 |
 | Not On My Watch | 0.30% | ~184 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 835)
 | Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,297 (Ranked 67)  
+Progressed: 61,303 (Ranked 67)  
 Completed: 91 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 91 (0.15%) (Ranked 148)
 | 2023-05-17 | 60,939 | 91 |
 | 2023-05-18 | 61,004 | 91 |
 | 2023-05-19 | 61,198 | 91 |
-| 2023-05-20 | 61,297 | 91 |
+| 2023-05-20 | 61,303 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,222  (Ranked 98)  
 Sum: 3,684 (Ranked 137)  

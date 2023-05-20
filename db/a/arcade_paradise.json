@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
     "PcReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -274,9 +274,9 @@
       "ID": "DreadTrophy",
       "SetID": "32aeje8",
       "Name": "Existential dread",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 146
     },
     {
       "ID": "DropBallTrophy",
@@ -587,8 +587,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-03-31T05:57:16.243609+00:00",
-  "LastChanged_Achievements": "2023-05-20T10:05:04.0256064+00:00",
+  "LastChanged_Achievements": "2023-05-20T11:05:49.8702255+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:47.3233337+00:00",
-  "LastUpdate_Ratings": "2023-05-20T09:57:55.3874999+00:00",
-  "LastUpdate_Achievements": "2023-05-20T10:05:04.025656+00:00"
+  "LastUpdate_Ratings": "2023-05-20T10:58:29.2739077+00:00",
+  "LastUpdate_Achievements": "2023-05-20T11:05:49.8702719+00:00"
 }

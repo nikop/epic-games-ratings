@@ -4,8 +4,8 @@
   "ProductSlug": "there-is-no-light-4eadf2",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 298,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-09-19T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T17:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:58.6318904+00:00",
   "LastChanged": "2023-03-31T05:57:58.6318905+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:27.7847453+00:00",
-  "LastUpdate_Ratings": "2023-05-20T09:58:45.7682542+00:00",
-  "LastUpdate_Achievements": "2023-05-20T10:03:58.4923421+00:00"
+  "LastUpdate_Ratings": "2023-05-20T10:59:30.0776089+00:00",
+  "LastUpdate_Achievements": "2023-05-20T11:04:31.945526+00:00"
 }

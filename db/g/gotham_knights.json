@@ -1148,9 +1148,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61297,
+  "EOS_Progressed": 61303,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 467,
+  "EOS_NewPlayers": 471,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3048,6 +3048,11 @@
       "Time": "2023-05-20T10:05:22.7681952+00:00",
       "NumProgressed": 61297,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-20T11:06:11.9651528+00:00",
+      "NumProgressed": 61303,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3291,7 +3296,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "FREEZE_2",
@@ -3299,7 +3304,7 @@
       "Name": "Snow Problem",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "FREEZE_3",
@@ -3363,7 +3368,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "HARLEY_2",
@@ -3371,7 +3376,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "HARLEY_3",
@@ -3379,7 +3384,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "HARLEY_4",
@@ -3427,7 +3432,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -3435,7 +3440,7 @@
       "Name": "Knighthood",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -3451,7 +3456,7 @@
       "Name": "Loose Ends",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "MYSTERY_02",
@@ -3459,7 +3464,7 @@
       "Name": "Whispered Words",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "MYSTERY_03",
@@ -3475,15 +3480,15 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "MYSTERY_05",
       "SetID": "4eo5ebm",
       "Name": "From Inside Gotham\u0027s Walls",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 307
     },
     {
       "ID": "MYSTERY_06",
@@ -3507,7 +3512,7 @@
       "Name": "Gotham Knight",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "SECRET_CACHE",
@@ -3546,13 +3551,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61297,
+      "Progressed": 61303,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31577,
+      "Progressed": 31583,
       "Completed": 2640
     }
   ],
@@ -3560,8 +3565,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-19T11:00:31.9062538+00:00",
-  "LastChanged_Achievements": "2023-05-20T10:05:22.7681946+00:00",
+  "LastChanged_Achievements": "2023-05-20T11:06:11.9651522+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-20T09:59:15.9012468+00:00",
-  "LastUpdate_Achievements": "2023-05-20T10:05:22.7682652+00:00"
+  "LastUpdate_Ratings": "2023-05-20T11:00:06.9178794+00:00",
+  "LastUpdate_Achievements": "2023-05-20T11:06:11.9652332+00:00"
 }

@@ -29,8 +29,8 @@ Number of Ratings: 22  (23.09.2022)
 | Circus Versus Circus | 9.00% | ~36 |
 | King of District 3 | 8.00% | ~32 |
 | Club Member | 7.00% | ~28 |
+| Hundred Percent Second | 7.00% | ~28 |
 | Spirits High | 7.00% | ~28 |
-| Hundred Percent Second | 6.00% | ~24 |
 | King of District 4 | 6.00% | ~24 |
 | Mobile Infantry | 6.00% | ~24 |
 | Around the Clock | 5.00% | ~20 |

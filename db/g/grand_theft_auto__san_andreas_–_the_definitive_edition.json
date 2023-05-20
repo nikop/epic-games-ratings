@@ -284,9 +284,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7857,
+  "EOS_Progressed": 7862,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1779,6 +1779,11 @@
       "Time": "2023-05-20T10:05:21.8065181+00:00",
       "NumProgressed": 7857,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-05-20T11:06:10.870024+00:00",
+      "NumProgressed": 7862,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 35,
@@ -1790,7 +1795,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6286
+      "UsersEstimate": 6290
     },
     {
       "ID": "ACH02",
@@ -1798,7 +1803,7 @@
       "Name": "With Extra Dip",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "ACH03",
@@ -1806,7 +1811,7 @@
       "Name": "The End of the Line",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "ACH04",
@@ -1838,7 +1843,7 @@
       "Name": "The American Dream",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1336
+      "UsersEstimate": 1337
     },
     {
       "ID": "ACH08",
@@ -1846,7 +1851,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3771
+      "UsersEstimate": 3774
     },
     {
       "ID": "ACH09",
@@ -1886,7 +1891,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 1257
+      "UsersEstimate": 1258
     },
     {
       "ID": "ACH14",
@@ -1894,7 +1899,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "ACH15",
@@ -1964,9 +1969,9 @@
       "ID": "ACH23",
       "SetID": "4ck5mbe",
       "Name": "All Dressed Up for San Fierro",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1807
+      "UsersEstimate": 1730
     },
     {
       "ID": "ACH24",
@@ -2006,7 +2011,7 @@
       "Name": "Original Gangster",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "ACH29",
@@ -2014,7 +2019,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 13,
       "XP": 45,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "ACH30",
@@ -2069,7 +2074,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 7857,
+      "Progressed": 7862,
       "Completed": 16
     }
   ],
@@ -2077,8 +2082,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-05-14T18:59:29.7023894+00:00",
-  "LastChanged_Achievements": "2023-05-20T10:05:21.8065175+00:00",
+  "LastChanged_Achievements": "2023-05-20T11:06:10.8700231+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:19.5303152+00:00",
-  "LastUpdate_Ratings": "2023-05-20T09:59:44.2933565+00:00",
-  "LastUpdate_Achievements": "2023-05-20T10:05:21.8065532+00:00"
+  "LastUpdate_Ratings": "2023-05-20T11:00:41.5080449+00:00",
+  "LastUpdate_Achievements": "2023-05-20T11:06:10.8700791+00:00"
 }

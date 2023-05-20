@@ -5,13 +5,13 @@ Rating: 4.67 (Ranked 258)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~18,820 |
-| Mods Please Ban | 77.00% | ~17,460 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,233 |
+| Eye Scream, You Scream | 83.00% | ~18,821 |
+| Mods Please Ban | 77.00% | ~17,461 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,234 |
 | Fallout Doesn't Let You Do This | 73.00% | ~16,553 |
-| First Bounty Down | 59.00% | ~13,378 |
+| First Bounty Down | 59.00% | ~13,379 |
 | We're All Very Impressed, Trust Me | 57.00% | ~12,925 |
-| Luglox Genocide | 43.00% | ~9,750 |
+| Luglox Genocide | 43.00% | ~9,751 |
 | Playing Card To Get | 33.00% | ~7,483 |
 | Don't Knife The Hand That Feeds | 33.00% | ~7,483 |
 | Creature Feature | 29.00% | ~6,576 |
@@ -21,8 +21,8 @@ Rating: 4.67 (Ranked 258)
 | Are You Packin'? | 24.00% | ~5,442 |
 | RIP Davey Glutes | 24.00% | ~5,442 |
 | Sweezy Like Sunday Morning | 24.00% | ~5,442 |
-| Hardest Battle In The Game | 22.00% | ~4,988 |
-| Series Wrap on Suit-O | 22.00% | ~4,988 |
+| Hardest Battle In The Game | 22.00% | ~4,989 |
+| Series Wrap on Suit-O | 22.00% | ~4,989 |
 | Lezduit! | 20.00% | ~4,535 |
 | Who's The Boss? | 20.00% | ~4,535 |
 | Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,535 |
@@ -34,11 +34,11 @@ Rating: 4.67 (Ranked 258)
 | Eatin' Good in the Neighborhood | 9.00% | ~2,041 |
 | Sequel-Bait | 8.00% | ~1,814 |
 | Gunning For Your Job | 7.00% | ~1,587 |
-| Playing Favorites | 6.00% | ~1,360 |
+| Playing Favorites | 6.00% | ~1,361 |
 | Epic Legendary Prize | 1.00% | ~227 |
 | A Starfish Is Born | 1.00% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,675 (Ranked 88)  
+Progressed: 22,676 (Ranked 88)  
 Completed: 8 (0.04%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 8 (0.04%) (Ranked 178)
 | 2023-05-17 | 22,659 | 8 |
 | 2023-05-18 | 22,665 | 8 |
 | 2023-05-19 | 22,671 | 8 |
-| 2023-05-20 | 22,675 | 8 |
+| 2023-05-20 | 22,676 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-01-09T16:00:00+00:00",
     "PcReleaseDate": "2022-06-05T23:00:00+00:00",
@@ -160,9 +160,9 @@
       "ID": "A_Hire_Crew",
       "SetID": "56632p4",
       "Name": "You\u0027re Hired!",
-      "Percentage": 28,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "A_Kill_Cookie_Cutter",
@@ -265,8 +265,8 @@
   "FirstSeenRating": "2023-03-31T05:58:44.0451512+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:41.2389416+00:00",
   "LastChanged": "2023-03-31T05:58:44.0451513+00:00",
-  "LastChanged_Achievements": "2023-05-20T10:05:00.807397+00:00",
+  "LastChanged_Achievements": "2023-05-20T11:05:46.2331131+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:13.3654298+00:00",
-  "LastUpdate_Ratings": "2023-05-20T09:58:30.4172047+00:00",
-  "LastUpdate_Achievements": "2023-05-20T10:05:00.8074117+00:00"
+  "LastUpdate_Ratings": "2023-05-20T10:59:11.8903709+00:00",
+  "LastUpdate_Achievements": "2023-05-20T11:05:46.2331304+00:00"
 }

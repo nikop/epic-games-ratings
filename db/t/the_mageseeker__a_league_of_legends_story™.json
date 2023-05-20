@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -96,7 +96,7 @@
   "Tags": [],
   "EOS_Progressed": 2055,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1643,9 +1643,9 @@
       "ID": "STB_DEFEAT_NIGHTMARE_I",
       "SetID": "3pe2bac",
       "Name": "Past trauma",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 658
+      "UsersEstimate": 678
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -1956,8 +1956,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-17T18:57:40.491639+00:00",
-  "LastChanged_Achievements": "2023-05-20T10:04:57.905644+00:00",
+  "LastChanged_Achievements": "2023-05-20T11:05:42.8169384+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:08.2361804+00:00",
-  "LastUpdate_Ratings": "2023-05-20T09:57:22.2844932+00:00",
-  "LastUpdate_Achievements": "2023-05-20T10:04:57.9057+00:00"
+  "LastUpdate_Ratings": "2023-05-20T10:57:46.0876184+00:00",
+  "LastUpdate_Achievements": "2023-05-20T11:05:42.8169962+00:00"
 }

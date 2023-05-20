@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 133,
   "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -288,9 +288,9 @@
       "ID": "ACHIEVEMENT_21",
       "SetID": "631ndc2",
       "Name": "Hundred Percent Second",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 28
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -537,8 +537,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-05-20T10:05:10.154787+00:00",
+  "LastChanged_Achievements": "2023-05-20T11:05:57.2668887+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.3315704+00:00",
-  "LastUpdate_Ratings": "2023-05-20T09:58:32.211524+00:00",
-  "LastUpdate_Achievements": "2023-05-20T10:05:10.1548267+00:00"
+  "LastUpdate_Ratings": "2023-05-20T10:59:13.9995012+00:00",
+  "LastUpdate_Achievements": "2023-05-20T11:05:57.2669352+00:00"
 }

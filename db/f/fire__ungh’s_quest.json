@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 29,
   "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
     "PcReleaseDate": "2015-04-09T16:00:00+00:00",
@@ -193,9 +193,9 @@
       "ID": "Hit_the_UFO_in_Space_Invaders_in_006",
       "SetID": "6od1ndi",
       "Name": "1978",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 53
+      "UsersEstimate": 55
     },
     {
       "ID": "Level_completed_001_002",
@@ -249,9 +249,9 @@
       "ID": "Level_completed_007_006",
       "SetID": "6od1ndi",
       "Name": "Onk Boga VII",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 53
+      "UsersEstimate": 55
     },
     {
       "ID": "Level_completed_008_005",
@@ -322,8 +322,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-05-20T10:05:11.1773067+00:00",
+  "LastChanged_Achievements": "2023-05-20T11:05:58.5017473+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:25.4163927+00:00",
-  "LastUpdate_Ratings": "2023-05-20T09:59:21.749722+00:00",
-  "LastUpdate_Achievements": "2023-05-20T10:05:11.1773263+00:00"
+  "LastUpdate_Ratings": "2023-05-20T11:00:13.141101+00:00",
+  "LastUpdate_Achievements": "2023-05-20T11:05:58.5017688+00:00"
 }

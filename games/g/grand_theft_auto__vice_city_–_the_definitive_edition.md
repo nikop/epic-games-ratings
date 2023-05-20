@@ -5,15 +5,15 @@ Rating: 4.67 (Ranked 258)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 43.00% | ~2,743 |
-| Greasy Palms | 39.00% | ~2,488 |
-| South American Connection | 23.00% | ~1,467 |
-| Life of the Party | 17.00% | ~1,084 |
-| Big Heat from Little Havana | 13.00% | ~829 |
-| Tommy Two-Wheels | 13.00% | ~829 |
-| Chauffeur | 12.00% | ~765 |
-| Iron-y | 9.00% | ~574 |
-| Salutations My Little Friend | 9.00% | ~574 |
+| Legal Counsel | 43.00% | ~2,745 |
+| Greasy Palms | 39.00% | ~2,490 |
+| South American Connection | 23.00% | ~1,468 |
+| Life of the Party | 17.00% | ~1,085 |
+| Big Heat from Little Havana | 13.00% | ~830 |
+| Tommy Two-Wheels | 13.00% | ~830 |
+| Chauffeur | 12.00% | ~766 |
+| Iron-y | 9.00% | ~575 |
+| Salutations My Little Friend | 9.00% | ~575 |
 | Gun for Hire | 7.00% | ~447 |
 | Mischief Managed | 7.00% | ~447 |
 | Vice City Mogul | 6.00% | ~383 |
@@ -21,9 +21,9 @@ Rating: 4.67 (Ranked 258)
 | Catch Me if You Can | 5.00% | ~319 |
 | Not my First Time | 4.00% | ~255 |
 | Grand Theft Auto | 4.00% | ~255 |
-| High Quality H2O | 3.00% | ~191 |
-| Pie Guy | 3.00% | ~191 |
-| Don't Need Roads | 3.00% | ~191 |
+| High Quality H2O | 3.00% | ~192 |
+| Pie Guy | 3.00% | ~192 |
+| Don't Need Roads | 3.00% | ~192 |
 | Running Rampant | 2.00% | ~128 |
 | Point A to Point B | 2.00% | ~128 |
 | Bull in a China Shop | 2.00% | ~128 |
@@ -40,7 +40,7 @@ Rating: 4.67 (Ranked 258)
 | Keepie-Uppy Okie Dokie | 0.60% | ~38 |
 | Kingpin | 0.30% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,379 (Ranked 115)  
+Progressed: 6,384 (Ranked 114)  
 Completed: 22 (0.34%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 22 (0.34%) (Ranked 119)
 | 2023-05-17 | 6,178 | 22 |
 | 2023-05-18 | 6,209 | 22 |
 | 2023-05-19 | 6,326 | 22 |
-| 2023-05-20 | 6,379 | 22 |
+| 2023-05-20 | 6,384 | 22 |
 ## Awards
 Max (Great Boss Battles): 34  (Ranked 429)  
 Sum: 34 (Ranked 451)  

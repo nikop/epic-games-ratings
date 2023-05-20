@@ -48,9 +48,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56874,
+  "EOS_Progressed": 56882,
   "EOS_Completed": 460,
-  "EOS_NewPlayers": 1305,
+  "EOS_NewPlayers": 1304,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -2948,6 +2948,11 @@
       "Time": "2023-05-20T10:05:17.3736245+00:00",
       "NumProgressed": 56874,
       "NumCompleted": 460
+    },
+    {
+      "Time": "2023-05-20T11:06:05.7020903+00:00",
+      "NumProgressed": 56882,
+      "NumCompleted": 460
     }
   ],
   "TotalAchievements": 25,
@@ -2967,7 +2972,7 @@
       "Name": "Ace in the Hole",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1137
+      "UsersEstimate": 1138
     },
     {
       "ID": "Adios, Friendo",
@@ -2975,7 +2980,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 17,
       "XP": 150,
-      "UsersEstimate": 9669
+      "UsersEstimate": 9670
     },
     {
       "ID": "Audiophile",
@@ -2983,7 +2988,7 @@
       "Name": "Audiophile",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1137
+      "UsersEstimate": 1138
     },
     {
       "ID": "Be Seeing You",
@@ -2991,7 +2996,7 @@
       "Name": "Be Seeing You",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 11944
+      "UsersEstimate": 11945
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -2999,7 +3004,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 9669
+      "UsersEstimate": 9670
     },
     {
       "ID": "Butcher",
@@ -3031,7 +3036,7 @@
       "Name": "Hard Worker",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 10806
+      "UsersEstimate": 10808
     },
     {
       "ID": "Hearty",
@@ -3063,7 +3068,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 11375
+      "UsersEstimate": 11376
     },
     {
       "ID": "Meaty",
@@ -3079,7 +3084,7 @@
       "Name": "Mechanic",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 10237
+      "UsersEstimate": 10239
     },
     {
       "ID": "Nice Try",
@@ -3087,7 +3092,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 9100
+      "UsersEstimate": 9101
     },
     {
       "ID": "Nothing Left to Say",
@@ -3095,7 +3100,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3412
+      "UsersEstimate": 3413
     },
     {
       "ID": "Piano Man",
@@ -3103,7 +3108,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 5687
+      "UsersEstimate": 5688
     },
     {
       "ID": "Right On Target",
@@ -3111,7 +3116,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7394
+      "UsersEstimate": 7395
     },
     {
       "ID": "Sniper",
@@ -3119,7 +3124,7 @@
       "Name": "Sniper",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 3412
+      "UsersEstimate": 3413
     },
     {
       "ID": "Spicy",
@@ -3151,14 +3156,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3981
+      "UsersEstimate": 3982
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 56874,
+      "Progressed": 56882,
       "Completed": 460
     }
   ],
@@ -3166,8 +3171,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-05-11T21:00:12.8058431+00:00",
-  "LastChanged_Achievements": "2023-05-20T10:05:17.3736239+00:00",
+  "LastChanged_Achievements": "2023-05-20T11:06:05.7020894+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:41.144581+00:00",
-  "LastUpdate_Ratings": "2023-05-20T09:59:56.3118298+00:00",
-  "LastUpdate_Achievements": "2023-05-20T10:05:17.3736604+00:00"
+  "LastUpdate_Ratings": "2023-05-20T11:00:55.0617053+00:00",
+  "LastUpdate_Achievements": "2023-05-20T11:06:05.7021296+00:00"
 }
