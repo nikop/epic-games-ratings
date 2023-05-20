@@ -171,4 +171,3 @@
 | [Roma Invicta](games/r/roma_invicta.md) | 2023-04-20 | 2022-02-11 |
 | [Strawhart](games/s/strawhart.md) | 2023-04-20 | 2022-03-11 |
 | [Outer Terror](games/o/outer_terror.md) | 2023-04-20 | 2023-04-20 |
-| [Fortune Follow: The Mansion](games/f/fortune_follow__the_mansion.md) | 2023-04-20 | 2023-04-20 |

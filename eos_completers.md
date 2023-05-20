@@ -7,7 +7,7 @@
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 21.21% |
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.55% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 8 | [Island Cities](games/i/island_cities.md) | 17.14% |
+| 8 | [Island Cities](games/i/island_cities.md) | 16.98% |
 | 9 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 14.29% |
 | 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.04% |
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
@@ -20,20 +20,20 @@
 | 17 | [Time Loader](games/t/time_loader.md) | 8.33% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.23% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 8.00% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.97% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.96% |
 | 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.65% |
 | 23 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 7.14% |
-| 24 | [Scorn](games/s/scorn.md) | 7.00% |
-| 25 | [Ravenlok](games/r/ravenlok.md) | 6.62% |
+| 24 | [Scorn](games/s/scorn.md) | 6.99% |
+| 25 | [Ravenlok](games/r/ravenlok.md) | 6.61% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
-| 28 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.68% |
+| 28 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.65% |
 | 29 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.97% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.96% |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 32 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.55% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.46% |
-| 34 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.05% |
+| 34 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.04% |
 | 35 | [Doodle God](games/d/doodle_god.md) | 3.92% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
 | 37 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
@@ -70,7 +70,7 @@
 | 68 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.61% |
 | 69 | [Somerville](games/s/somerville.md) | 1.60% |
 | 70 | [Frogun](games/f/frogun.md) | 1.55% |
-| 71 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.54% |
+| 71 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.52% |
 | 72 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 73 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.47% |
 | 74 | [Bloodshore](games/b/bloodshore.md) | 1.37% |
@@ -80,7 +80,7 @@
 | 76 | [Trifox](games/t/trifox.md) | 1.28% |
 | 79 | [Chorus](games/c/chorus.md) | 1.27% |
 | 80 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.25% |
-| 81 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.24% |
+| 81 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.23% |
 | 82 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.20% |
 | 83 | [Late Shift](games/l/late_shift.md) | 1.16% |
 | 84 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.15% |
@@ -135,8 +135,8 @@
 | 133 | [Circus Electrique](games/c/circus_electrique.md) | 0.25% |
 | 133 | [Wildermyth](games/w/wildermyth.md) | 0.25% |
 | 135 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.24% |
-| 135 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.24% |
-| 137 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
+| 136 | [Going Medieval](games/g/going_medieval.md) | 0.23% |
+| 136 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.23% |
 | 138 | [Blanc](games/b/blanc.md) | 0.22% |
 | 138 | [Filament](games/f/filament.md) | 0.22% |
 | 140 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |

@@ -163,7 +163,7 @@
 | 154 | [The Eternal Cylinder](games/t/the_eternal_cylinder.md) | 4.73 | 0 | 491 |
 | 154 | [This War of Mine](games/t/this_war_of_mine.md) | 4.73 | 79 | 349 |
 | 154 | [What Remains of Edith Finch](games/w/what_remains_of_edith_finch.md) | 4.73 | 0 | 491 |
-| 164 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 457 | 189 |
+| 164 | [Ghostrunner](games/g/ghostrunner.md) | 4.72 | 458 | 188 |
 | 164 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.72 | 0 | 491 |
 | 164 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 4.72 | 552 | 172 |
 | 164 | [Night in the Woods](games/n/night_in_the_woods.md) | 4.72 | 139 | 288 |
@@ -223,7 +223,7 @@
 | 214 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.69 | 1,174 | 124 |
 | 214 | [Moonlighter](games/m/moonlighter.md) | 4.69 | 0 | 491 |
 | 214 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 491 |
-| 214 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,214 | 32 |
+| 214 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,217 | 32 |
 | 214 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 455 |
 | 214 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.69 | 0 | 491 |
 | 214 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.69 | 0 | 491 |
@@ -236,7 +236,7 @@
 | 214 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 491 |
 | 214 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.69 | 0 | 491 |
 | 214 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 4.69 | 774 | 146 |
-| 237 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,322 | 81 |
+| 237 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 4.68 | 3,323 | 81 |
 | 237 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4.68 | 3,052 | 88 |
 | 237 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.68 | 644 | 162 |
 | 237 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 69 | 366 |
@@ -489,7 +489,7 @@
 | 480 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 89 | 337 |
 | 480 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 491 |
 | 480 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 497 | 186 |
-| 480 | [VALORANT](games/v/valorant.md) | 4.54 | 53,062 | 11 |
+| 480 | [VALORANT](games/v/valorant.md) | 4.54 | 53,229 | 11 |
 | 480 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 28 | 453 |
 | 492 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 491 |
 | 492 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 491 |
@@ -735,7 +735,7 @@
 | 730 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.34 | 0 | 491 |
 | 730 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 491 |
 | 730 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 491 |
-| 730 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 4,923 | 62 |
+| 730 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 4,927 | 62 |
 | 730 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 241 | 242 |
 | 730 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | 0 | 491 |
 | 739 | [Backbone](games/b/backbone.md) | 4.33 | 0 | 491 |
@@ -874,7 +874,7 @@
 | 871 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.07 | 179 | 270 |
 | 871 | [The World Next Door](games/t/the_world_next_door.md) | 4.07 | 0 | 491 |
 | 874 | [Gravewood High](games/g/gravewood_high.md) | 4.06 | 0 | 491 |
-| 874 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 4,888 | 63 |
+| 874 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 4,890 | 63 |
 | 876 | [Lifeless Planet: Premier Edition](games/l/lifeless_planet__premier_edition.md) | 4.05 | 0 | 491 |
 | 876 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.05 | 0 | 491 |
 | 876 | [Tharsis](games/t/tharsis.md) | 4.05 | 0 | 491 |
