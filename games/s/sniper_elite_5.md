@@ -7,27 +7,27 @@ Rating: 4.41 (Ranked 656)
 | ---- | ---------- | ----- |
 | Meeting Resistance | 4.00% | ~34 |
 | Confirming Suspicions | 2.00% | ~17 |
-| Enemy at the Gates | 1.00% | ~8 |
-| Lord of War | 1.00% | ~8 |
-| Resourceful | 1.00% | ~8 |
+| Enemy at the Gates | 1.00% | ~9 |
+| Lord of War | 1.00% | ~9 |
+| Resourceful | 1.00% | ~9 |
+| Organ Grinder | 0.70% | ~6 |
 | As Quiet as a Mouse | 0.70% | ~6 |
 | The Kraken Wakes | 0.70% | ~6 |
 | It's Starting to Crack | 0.70% | ~6 |
 | Change the Channel | 0.70% | ~6 |
 | Taking it back | 0.70% | ~6 |
-| Organ Grinder | 0.60% | ~5 |
+| Opposing Force | 0.60% | ~5 |
 | The Long Game | 0.60% | ~5 |
 | Explosive Efficiency | 0.60% | ~5 |
 | Close Quarters | 0.60% | ~5 |
 | Target America | 0.60% | ~5 |
 | The Kraken Sleeps | 0.60% | ~5 |
-| Opposing Force | 0.50% | ~4 |
+| Just a Flesh Wound | 0.50% | ~4 |
 | Gunslinger | 0.50% | ~4 |
 | Skirmisher | 0.50% | ~4 |
 | Precision Is Key | 0.50% | ~4 |
 | Snake in the Grass | 0.50% | ~4 |
 | Liberté | 0.40% | ~3 |
-| Just a Flesh Wound | 0.40% | ~3 |
 | Strategist | 0.40% | ~3 |
 | Sharpshooter | 0.40% | ~3 |
 | Der Geist | 0.40% | ~3 |
@@ -35,11 +35,11 @@ Rating: 4.41 (Ranked 656)
 | Sink or Swim | 0.30% | ~2 |
 | Climbing the Ladder | 0.20% | ~2 |
 | No Stone Unturned | 0.20% | ~2 |
+| Die Nussknacker Sweet! | 0.20% | ~2 |
 | Brains of the Operation | 0.20% | ~2 |
 | Last Resort | 0.20% | ~2 |
 | Fields of Glory | 0.10% | ~1 |
 | Rigged to Blow | 0.10% | ~1 |
-| Die Nussknacker Sweet! | 0.10% | ~1 |
 | From Paris with Love | 0.10% | ~1 |
 | Burn after reading | 0.10% | ~1 |
 | It'll Buff Right Out | 0.10% | ~1 |
@@ -77,8 +77,8 @@ Rating: 4.41 (Ranked 656)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 849 (Ranked 171)  
-Completed: 2 (0.24%) (Ranked 135)  
+Progressed: 855 (Ranked 171)  
+Completed: 2 (0.23%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -106,7 +106,7 @@ Completed: 2 (0.24%) (Ranked 135)
 | 2023-05-17 | 728 | 2 |
 | 2023-05-18 | 743 | 2 |
 | 2023-05-19 | 833 | 2 |
-| 2023-05-20 | 849 | 2 |
+| 2023-05-20 | 855 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

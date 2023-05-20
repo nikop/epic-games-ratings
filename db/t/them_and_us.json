@@ -550,9 +550,9 @@
       "ID": "ETUA_ModernPlayer",
       "SetID": "65jc0ap",
       "Name": "Modern Player",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ETUA_NightmareOver",
@@ -574,9 +574,9 @@
       "ID": "ETUA_OpenSesame",
       "SetID": "65jc0ap",
       "Name": "Open Sesame",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ETUA_OutRage",
@@ -630,9 +630,9 @@
       "ID": "ETUA_SafeFornow",
       "SetID": "65jc0ap",
       "Name": "Safe...For now?",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "ETUA_StayDead",
@@ -718,9 +718,9 @@
       "ID": "ETUA_Trapped",
       "SetID": "65jc0ap",
       "Name": "Trapped",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ETUA_WhatAMansion",
@@ -751,8 +751,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-05-20T04:01:15.3282224+00:00",
+  "LastChanged_Achievements": "2023-05-20T05:00:09.7209574+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:00.9346953+00:00",
-  "LastUpdate_Ratings": "2023-05-20T03:57:06.7111767+00:00",
-  "LastUpdate_Achievements": "2023-05-20T04:01:15.328263+00:00"
+  "LastUpdate_Ratings": "2023-05-20T04:56:53.5744375+00:00",
+  "LastUpdate_Achievements": "2023-05-20T05:00:09.7209861+00:00"
 }

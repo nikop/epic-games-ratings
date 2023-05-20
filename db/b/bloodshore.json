@@ -4,7 +4,7 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
@@ -110,9 +110,9 @@
       "ID": "deathlooper",
       "SetID": "84ad177",
       "Name": "Deathlooper",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "good_job_nerd",
@@ -126,17 +126,17 @@
       "ID": "leader_you_are_not",
       "SetID": "84ad177",
       "Name": "A leader, you are not",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "lootaphilia",
       "SetID": "84ad177",
       "Name": "Lootaphilia",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "maybe_you_should_give_it_another_go",
@@ -198,9 +198,9 @@
       "ID": "tried_to_warn_you",
       "SetID": "84ad177",
       "Name": "We tried to warn you!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "um_ok",
@@ -231,8 +231,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-05-20T04:06:12.2225929+00:00",
+  "LastChanged_Achievements": "2023-05-20T05:05:20.292459+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:09:48.2887695+00:00",
-  "LastUpdate_Ratings": "2023-05-20T04:00:05.0625556+00:00",
-  "LastUpdate_Achievements": "2023-05-20T04:06:12.2226114+00:00"
+  "LastUpdate_Ratings": "2023-05-20T04:59:13.1378811+00:00",
+  "LastUpdate_Achievements": "2023-05-20T05:05:20.2924721+00:00"
 }

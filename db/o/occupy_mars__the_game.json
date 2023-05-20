@@ -40,9 +40,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 557,
+  "EOS_Progressed": 558,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 553,
+  "EOS_NewPlayers": 554,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -265,6 +265,11 @@
       "Time": "2023-05-20T03:02:39.836428+00:00",
       "NumProgressed": 557,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T05:02:48.9145951+00:00",
+      "NumProgressed": 558,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -354,9 +359,9 @@
       "ID": "ACHIEVEMENT_ZERO_WASTE",
       "SetID": "l546gc",
       "Name": "Zero Waste",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 78
+      "UsersEstimate": 84
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -490,9 +495,9 @@
       "ID": "NEW_ACHIEVEMENT_GREATEST_BOTANIST",
       "SetID": "l546gc",
       "Name": "I am the greatest botanist on this planet.",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 67
+      "UsersEstimate": 73
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -506,9 +511,9 @@
       "ID": "NEW_ACHIEVEMENT_ITS",
       "SetID": "l546gc",
       "Name": "ITS crash site",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "NEW_ACHIEVEMENT_KOROLEV",
@@ -522,9 +527,9 @@
       "ID": "NEW_ACHIEVEMENT_MINER",
       "SetID": "l546gc",
       "Name": "Miner",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 39
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -659,7 +664,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 557,
+      "Progressed": 558,
       "Completed": 0
     }
   ],
@@ -667,8 +672,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-05-19T06:57:19.9457333+00:00",
-  "LastChanged_Achievements": "2023-05-20T04:03:16.3676535+00:00",
+  "LastChanged_Achievements": "2023-05-20T05:02:48.9145946+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:55.9692167+00:00",
-  "LastUpdate_Ratings": "2023-05-20T03:57:19.8592447+00:00",
-  "LastUpdate_Achievements": "2023-05-20T04:03:16.3676973+00:00"
+  "LastUpdate_Ratings": "2023-05-20T04:57:04.7574828+00:00",
+  "LastUpdate_Achievements": "2023-05-20T05:02:48.9146381+00:00"
 }

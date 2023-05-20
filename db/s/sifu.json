@@ -4116,9 +4116,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 703658,
+  "EOS_Progressed": 703689,
   "EOS_Completed": 12731,
-  "EOS_NewPlayers": 794,
+  "EOS_NewPlayers": 822,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -6421,6 +6421,11 @@
       "Time": "2023-05-20T04:06:08.0328125+00:00",
       "NumProgressed": 703658,
       "NumCompleted": 12731
+    },
+    {
+      "Time": "2023-05-20T05:05:16.8540456+00:00",
+      "NumProgressed": 703689,
+      "NumCompleted": 12731
     }
   ],
   "TotalAchievements": 50,
@@ -6448,7 +6453,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5629
+      "UsersEstimate": 5630
     },
     {
       "ID": "04_Vengeance_H3",
@@ -6456,15 +6461,15 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5629
+      "UsersEstimate": 5630
     },
     {
       "ID": "05_Vengeance_H4",
       "SetID": "adcm20g",
       "Name": "Lady Wing Chun",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 4926
+      "UsersEstimate": 5630
     },
     {
       "ID": "06_Vengeance_H5",
@@ -6616,7 +6621,7 @@
       "Name": "State of constant learning",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5629
+      "UsersEstimate": 5630
     },
     {
       "ID": "25_ShrineMind",
@@ -6712,7 +6717,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5629
+      "UsersEstimate": 5630
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -6720,7 +6725,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5629
+      "UsersEstimate": 5630
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -6768,7 +6773,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -6776,7 +6781,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 518
+      "UsersEstimate": 520
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -6831,21 +6836,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 12959,
-      "Completed": 10125
+      "Progressed": 12990,
+      "Completed": 10127
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 703658,
+      "Progressed": 703689,
       "Completed": 12731
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-19T22:59:24.2093818+00:00",
-  "LastChanged_Achievements": "2023-05-20T04:06:08.032812+00:00",
+  "LastChanged_Achievements": "2023-05-20T05:05:16.854045+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.7579865+00:00",
-  "LastUpdate_Ratings": "2023-05-20T03:59:03.5185602+00:00",
-  "LastUpdate_Achievements": "2023-05-20T04:06:08.0329072+00:00"
+  "LastUpdate_Ratings": "2023-05-20T04:58:25.3390319+00:00",
+  "LastUpdate_Achievements": "2023-05-20T05:05:16.8541018+00:00"
 }

@@ -1148,9 +1148,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61245,
+  "EOS_Progressed": 61256,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 419,
+  "EOS_NewPlayers": 429,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3018,6 +3018,11 @@
       "Time": "2023-05-20T04:06:21.2394609+00:00",
       "NumProgressed": 61245,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-20T05:05:27.9225019+00:00",
+      "NumProgressed": 61256,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3165,7 +3170,7 @@
       "Name": "Dressed to Impress",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "CRAFTING_MOD_CHIPS",
@@ -3173,7 +3178,7 @@
       "Name": "Fusion Expert",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -3181,7 +3186,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -3229,7 +3234,7 @@
       "Name": "Family Meeting",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -3395,9 +3400,9 @@
       "ID": "HERO_PROGRESSION_4",
       "SetID": "4eo5ebm",
       "Name": "Unstoppable Force",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 306
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -3413,7 +3418,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "MYSTERY_01",
@@ -3427,9 +3432,9 @@
       "ID": "MYSTERY_02",
       "SetID": "4eo5ebm",
       "Name": "Whispered Words",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 306
     },
     {
       "ID": "MYSTERY_03",
@@ -3485,7 +3490,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -3493,7 +3498,7 @@
       "Name": "Solid Alibi",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -3516,13 +3521,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61245,
+      "Progressed": 61256,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31525,
+      "Progressed": 31536,
       "Completed": 2640
     }
   ],
@@ -3530,8 +3535,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-19T11:00:31.9062538+00:00",
-  "LastChanged_Achievements": "2023-05-20T04:06:21.2394604+00:00",
+  "LastChanged_Achievements": "2023-05-20T05:05:27.9225013+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-20T03:59:50.8421829+00:00",
-  "LastUpdate_Achievements": "2023-05-20T04:06:21.2395522+00:00"
+  "LastUpdate_Ratings": "2023-05-20T04:59:03.1419482+00:00",
+  "LastUpdate_Achievements": "2023-05-20T05:05:27.9225723+00:00"
 }

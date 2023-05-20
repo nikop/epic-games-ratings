@@ -4,7 +4,7 @@
   "ProductSlug": "terror-of-hemasaurus-a08800",
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-10-17T17:00:00+00:00",
@@ -117,9 +117,9 @@
       "ID": "ACH_100_HELICOPTERS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Brain Chopper",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_100_STAGES_ENDLESS",
@@ -181,9 +181,9 @@
       "ID": "ACH_25_BLIMPS",
       "SetID": "aio76gp",
       "Name": "Hindenburgerer",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_25_EATEN_AIRBORNE",
@@ -261,9 +261,9 @@
       "ID": "ACH_50_POLICE_HELICOPTERS",
       "SetID": "aio76gp",
       "Name": "Night Bird",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_50_SWAT_HELICOPTERS",
@@ -293,9 +293,9 @@
       "ID": "ACH_KILL_1000_ENEMIES",
       "SetID": "aio76gp",
       "Name": "Horror Show",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_KILL_100_ENEMIES",
@@ -333,9 +333,9 @@
       "ID": "ACH_UFO_STAGE",
       "SetID": "aio76gp",
       "Name": "Kill All Humans!",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
@@ -350,8 +350,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-05-20T04:02:15.3871782+00:00",
+  "LastChanged_Achievements": "2023-05-20T05:02:24.2615839+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:57.7075903+00:00",
-  "LastUpdate_Ratings": "2023-05-20T03:58:23.1733479+00:00",
-  "LastUpdate_Achievements": "2023-05-20T04:02:15.3872109+00:00"
+  "LastUpdate_Ratings": "2023-05-20T04:57:54.7020963+00:00",
+  "LastUpdate_Achievements": "2023-05-20T05:02:24.2616053+00:00"
 }

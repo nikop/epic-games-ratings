@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 600,
+  "EOS_Progressed": 601,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -138,6 +138,11 @@
       "Time": "2023-05-19T22:05:00.7581515+00:00",
       "NumProgressed": 600,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-20T05:04:59.179793+00:00",
+      "NumProgressed": 601,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -211,9 +216,9 @@
       "ID": "Achievement_Crafty",
       "SetID": "c01p6e5",
       "Name": "Crafty",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 264
     },
     {
       "ID": "Achievement_DontPanic",
@@ -221,7 +226,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "Achievement_DustToDust",
@@ -229,7 +234,7 @@
       "Name": "Dust to Dust",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "Achievement_EcoShuttle",
@@ -243,9 +248,9 @@
       "ID": "Achievement_ExtremeMakeover",
       "SetID": "c01p6e5",
       "Name": "Extreme Makeover",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 24
     },
     {
       "ID": "Achievement_FeelsLikeHome",
@@ -267,17 +272,17 @@
       "ID": "Achievement_FirstOfApril",
       "SetID": "c01p6e5",
       "Name": "First of April",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 36
     },
     {
       "ID": "Achievement_FixItFelix",
       "SetID": "c01p6e5",
       "Name": "Fix-It Felix",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 36
     },
     {
       "ID": "Achievement_ForScience",
@@ -291,9 +296,9 @@
       "ID": "Achievement_Friendzone",
       "SetID": "c01p6e5",
       "Name": "Friendzone",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 474
+      "UsersEstimate": 469
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -323,9 +328,9 @@
       "ID": "Achievement_HelloWorld",
       "SetID": "c01p6e5",
       "Name": "Hello World",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 444
+      "UsersEstimate": 439
     },
     {
       "ID": "Achievement_Improvinator",
@@ -427,9 +432,9 @@
       "ID": "Achievement_SoupOdyssey",
       "SetID": "c01p6e5",
       "Name": "2018: A Soup Odyssey",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 12
     },
     {
       "ID": "Achievement_SpaceColonization",
@@ -437,15 +442,15 @@
       "Name": "Space Colonization",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "Achievement_SpaceEngineer",
       "SetID": "c01p6e5",
       "Name": "Space Engineer",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 372
+      "UsersEstimate": 367
     },
     {
       "ID": "Achievement_SpaceExplorer",
@@ -485,7 +490,7 @@
       "Name": "Tinkerer",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "Achievement_Traitor",
@@ -500,7 +505,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 600,
+      "Progressed": 601,
       "Completed": 1
     }
   ],
@@ -508,8 +513,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-05-20T04:05:46.6494507+00:00",
+  "LastChanged_Achievements": "2023-05-20T05:04:59.1797924+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:12.4303975+00:00",
-  "LastUpdate_Ratings": "2023-05-20T03:58:54.7958319+00:00",
-  "LastUpdate_Achievements": "2023-05-20T04:05:46.6494974+00:00"
+  "LastUpdate_Ratings": "2023-05-20T04:58:19.1759405+00:00",
+  "LastUpdate_Achievements": "2023-05-20T05:04:59.1798269+00:00"
 }

@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46417,
+  "EOS_Progressed": 46418,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 283,
+  "EOS_NewPlayers": 284,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1936,6 +1936,11 @@
       "Time": "2023-05-20T04:05:53.1230097+00:00",
       "NumProgressed": 46417,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-05-20T05:05:04.5795181+00:00",
+      "NumProgressed": 46418,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 67,
@@ -1947,7 +1952,7 @@
       "Name": "Follow the Light",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9283
+      "UsersEstimate": 9284
     },
     {
       "ID": "02",
@@ -2482,21 +2487,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46417,
+      "Progressed": 46418,
       "Completed": 45
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9885,
+      "Progressed": 9886,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-20T04:05:53.1230092+00:00",
+  "LastChanged_Achievements": "2023-05-20T05:05:04.5795171+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:07.5579983+00:00",
-  "LastUpdate_Ratings": "2023-05-20T03:57:32.8095747+00:00",
-  "LastUpdate_Achievements": "2023-05-20T04:05:53.1230883+00:00"
+  "LastUpdate_Ratings": "2023-05-20T04:57:16.1992215+00:00",
+  "LastUpdate_Achievements": "2023-05-20T05:05:04.5796108+00:00"
 }

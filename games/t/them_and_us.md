@@ -7,8 +7,8 @@
 | Alone with Them | 62.00% | ~68 |
 | Forced to Kill | 62.00% | ~68 |
 | A Night To Remember | 29.00% | ~32 |
-| Safe...For now? | 24.00% | ~26 |
-| Open Sesame | 17.00% | ~19 |
+| Safe...For now? | 25.00% | ~28 |
+| Open Sesame | 18.00% | ~20 |
 | Them and Us | 10.00% | ~11 |
 | OUTRAGE | 10.00% | ~11 |
 | What have I done!? | 10.00% | ~11 |
@@ -17,15 +17,15 @@
 | Parasite Exterminated | 6.00% | ~7 |
 | This Coffin Has Your Name On It! | 6.00% | ~7 |
 | Lover of classics | 5.00% | ~6 |
+| Modern Player | 5.00% | ~6 |
 | Rest In Peace | 5.00% | ~6 |
 | The Curse Is Real | 5.00% | ~6 |
 | The Forgotten Tower | 5.00% | ~6 |
+| Trapped | 5.00% | ~6 |
 | What A Mansion | 5.00% | ~6 |
-| Modern Player | 4.00% | ~4 |
 | Researcher | 4.00% | ~4 |
 | I Am The Gate Keeper! | 4.00% | ~4 |
 | The bus stop | 4.00% | ~4 |
-| Trapped | 4.00% | ~4 |
 | This Mansion Is Clean | 3.00% | ~3 |
 | Armed To The Teeth | 2.00% | ~2 |
 | Run and Gun | 2.00% | ~2 |

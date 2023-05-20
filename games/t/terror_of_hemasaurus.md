@@ -13,16 +13,17 @@
 | Reign of Terror | 25.00% | ~11 |
 | Monstrosity Atrocity | 25.00% | ~11 |
 | Crushing All Cars | 18.00% | ~8 |
-| Horror Show | 11.00% | ~5 |
-| Brain Chopper | 9.00% | ~4 |
+| Horror Show | 14.00% | ~6 |
+| Brain Chopper | 11.00% | ~5 |
+| Night Bird | 11.00% | ~5 |
 | Demolition Ambition | 9.00% | ~4 |
-| Night Bird | 9.00% | ~4 |
+| Hindenburgerer | 7.00% | ~3 |
 | Punchy Wagon | 7.00% | ~3 |
+| Kill All Humans! | 7.00% | ~3 |
 | Demolition Exhibition | 5.00% | ~2 |
 | Rocket Science | 5.00% | ~2 |
 | Holy Terror | 5.00% | ~2 |
 | Midair Affair | 5.00% | ~2 |
-| Hindenburgerer | 5.00% | ~2 |
 | Meat Catcher | 5.00% | ~2 |
 | Demolition Tactician | 5.00% | ~2 |
 | Hot Potato | 5.00% | ~2 |
@@ -33,7 +34,6 @@
 | Juggle the People | 5.00% | ~2 |
 | Trash the Planet. | 5.00% | ~2 |
 | Simulation 8e7d28c1 | 5.00% | ~2 |
-| Kill All Humans! | 5.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 44 (Ranked 288)  
 Completed: 2 (4.55%) (Ranked 32)  

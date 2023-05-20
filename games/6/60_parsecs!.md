@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~582 |
-| Friendzone | 79.00% | ~474 |
-| Space Colonization | 79.00% | ~474 |
-| Hello World | 74.00% | ~444 |
-| Tinkerer | 63.00% | ~378 |
-| Space Engineer | 62.00% | ~372 |
-| Dust to Dust | 57.00% | ~342 |
+| Don't Panic! | 97.00% | ~583 |
+| Space Colonization | 79.00% | ~475 |
+| Friendzone | 78.00% | ~469 |
+| Hello World | 73.00% | ~439 |
+| Tinkerer | 63.00% | ~379 |
+| Space Engineer | 61.00% | ~367 |
+| Dust to Dust | 57.00% | ~343 |
 | Across The Stars | 47.00% | ~282 |
-| Crafty | 45.00% | ~270 |
+| Crafty | 44.00% | ~264 |
 | All Seats Taken | 35.00% | ~210 |
 | For Science! | 31.00% | ~186 |
 | Meet the Petersons | 31.00% | ~186 |
@@ -26,17 +26,17 @@
 | Gold Medalist | 11.00% | ~66 |
 | Non-Fiction | 11.00% | ~66 |
 | No Man Left Behind | 9.00% | ~54 |
-| First of April | 7.00% | ~42 |
-| Fix-It Felix | 7.00% | ~42 |
 | Intergalactic Breakup | 7.00% | ~42 |
 | Flawless Maegangement | 7.00% | ~42 |
 | Second Life | 7.00% | ~42 |
 | Axel jump in space! | 6.00% | ~36 |
-| Extreme Makeover | 5.00% | ~30 |
+| First of April | 6.00% | ~36 |
+| Fix-It Felix | 6.00% | ~36 |
+| Extreme Makeover | 4.00% | ~24 |
 | The Improvinator | 4.00% | ~24 |
 | The Last Supper | 4.00% | ~24 |
-| 2018: A Soup Odyssey | 3.00% | ~18 |
 | Bovine Domain | 2.00% | ~12 |
+| 2018: A Soup Odyssey | 2.00% | ~12 |
 | That's No Moon! | 2.00% | ~12 |
 | AAARGH! | 1.00% | ~6 |
 | Feels like home | 1.00% | ~6 |
@@ -49,7 +49,7 @@
 | Liberté, Égalité, Félinité | 0.20% | ~1 |
 | Man's best comrade | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 600 (Ranked 186)  
+Progressed: 601 (Ranked 186)  
 Completed: 1 (0.17%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,6 +70,7 @@ Completed: 1 (0.17%) (Ranked 145)
 | 2023-05-17 | 596 | 1 |
 | 2023-05-18 | 597 | 1 |
 | 2023-05-19 | 600 | 1 |
+| 2023-05-20 | 601 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

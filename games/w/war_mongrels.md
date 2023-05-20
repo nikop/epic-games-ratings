@@ -7,7 +7,7 @@ Number of Ratings: 34  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Explorer | 59.00% | ~156 |
-| Cowardice | 52.00% | ~137 |
+| Cowardice | 53.00% | ~140 |
 | NO LIFE IS WORTH SAVING... | 51.00% | ~135 |
 | Eat Lead! | 50.00% | ~132 |
 | Prospector | 45.00% | ~119 |
@@ -19,7 +19,7 @@ Number of Ratings: 34  (23.09.2022)
 | The Motivation | 34.00% | ~90 |
 | King of Knives | 33.00% | ~87 |
 | Heroism | 32.00% | ~84 |
-| Collectibles of Chapter I | 30.00% | ~79 |
+| Collectibles of Chapter I | 31.00% | ~82 |
 | Consequences | 29.00% | ~77 |
 | Opportunities | 28.00% | ~74 |
 | The Horror | 27.00% | ~71 |

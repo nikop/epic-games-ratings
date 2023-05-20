@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 161,
+  "EOS_Progressed": 162,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.24,
+  "EOS_Completed_Percentage": 1.23,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:35.153611+00:00",
@@ -184,6 +184,11 @@
       "Time": "2023-05-20T02:03:18.8393427+00:00",
       "NumProgressed": 161,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-20T05:05:04.331772+00:00",
+      "NumProgressed": 162,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -201,17 +206,17 @@
       "ID": "completeact2",
       "SetID": "40n95i5",
       "Name": "Conspiracy Theorist",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 80,
-      "UsersEstimate": 85
+      "UsersEstimate": 84
     },
     {
       "ID": "completeact3",
       "SetID": "40n95i5",
       "Name": "On the Road",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 80
+      "UsersEstimate": 79
     },
     {
       "ID": "findalltapes",
@@ -267,7 +272,7 @@
       "Name": "Souvenirs",
       "Percentage": 38,
       "XP": 40,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "scoreminrankrp1",
@@ -291,7 +296,7 @@
       "Name": "The Eye of the Storm",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "scoreminrankrv1",
@@ -314,7 +319,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 161,
+      "Progressed": 162,
       "Completed": 2
     }
   ],
@@ -322,8 +327,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-05-20T04:05:52.8236388+00:00",
+  "LastChanged_Achievements": "2023-05-20T05:05:04.3317714+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:05.0477946+00:00",
-  "LastUpdate_Ratings": "2023-05-20T03:58:50.3349356+00:00",
-  "LastUpdate_Achievements": "2023-05-20T04:05:52.8236586+00:00"
+  "LastUpdate_Ratings": "2023-05-20T04:58:16.1767491+00:00",
+  "LastUpdate_Achievements": "2023-05-20T05:05:04.331784+00:00"
 }

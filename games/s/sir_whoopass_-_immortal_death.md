@@ -6,35 +6,37 @@
 | ---- | ---------- | ----- |
 | Tastes just like chicken! | 88.00% | ~7 |
 | MLG 360 no scope kill! | 63.00% | ~5 |
+| I like you...but I have to kill you... | 63.00% | ~5 |
 | Are you ready to rumble? | 63.00% | ~5 |
-| I like you...but I have to kill you... | 50.00% | ~4 |
+| That's what cheese said! | 50.00% | ~4 |
+| Up and down | 50.00% | ~4 |
+| Not so hip anymore! | 50.00% | ~4 |
 | Nerd | 50.00% | ~4 |
-| That's what cheese said! | 38.00% | ~3 |
-| Up and down | 38.00% | ~3 |
-| Not so hip anymore! | 38.00% | ~3 |
-| Blurry depth perception | 38.00% | ~3 |
-| Oh, you're up to no gouda! | 25.00% | ~2 |
-| Rolling, Rolling, Rolling | 25.00% | ~2 |
-| AHHHHHH.....I'M ON FIRE!!! | 25.00% | ~2 |
-| Fire-fighter! | 25.00% | ~2 |
-| Make Love not War-Craft a Mistlefoe | 25.00% | ~2 |
+| Blurry depth perception | 50.00% | ~4 |
+| Oh, you're up to no gouda! | 38.00% | ~3 |
+| Honk honk! | 38.00% | ~3 |
+| Rolling, Rolling, Rolling | 38.00% | ~3 |
+| AHHHHHH.....I'M ON FIRE!!! | 38.00% | ~3 |
+| Fire-fighter! | 38.00% | ~3 |
+| Mushroom soup of the day | 38.00% | ~3 |
+| Make Love not War-Craft a Mistlefoe | 38.00% | ~3 |
+| You're not going to blow me up! | 25.00% | ~2 |
+| Meat grinder | 25.00% | ~2 |
 | Cockadoodledoo! | 25.00% | ~2 |
 | Spoiler alert! | 13.00% | ~1 |
-| Honk honk! | 13.00% | ~1 |
+| Meatballs, coming up! | 13.00% | ~1 |
+| Make America Grate Again | 13.00% | ~1 |
 | A Megapint...? | 13.00% | ~1 |
 | Butcher | 13.00% | ~1 |
-| Mushroom soup of the day | 13.00% | ~1 |
 | Ripe Meat Off The Bone! | 13.00% | ~1 |
 | Surprise!! | 13.00% | ~1 |
+| Karaoke king | 13.00% | ~1 |
 | My pants squeak when I walk | 13.00% | ~1 |
 | Haemochromatosis | 13.00% | ~1 |
-| Meat grinder | 13.00% | ~1 |
 | Spare Ribs | 13.00% | ~1 |
 | Pasta Bolognese | 13.00% | ~1 |
 | You're not so Big anymore, Boi! | 0.00% | ~0 |
 | You are no match for me, Billy! | 0.00% | ~0 |
-| Meatballs, coming up! | 0.00% | ~0 |
-| Make America Grate Again | 0.00% | ~0 |
 | You're looking mozzare-hella good! | 0.00% | ~0 |
 | Fifty Shades of Gruyere | 0.00% | ~0 |
 | Ancient Ruins of Moist Overhangs | 0.00% | ~0 |
@@ -66,12 +68,10 @@
 | Your daily dose of Vitamin C. | 0.00% | ~0 |
 | I'm getting full... | 0.00% | ~0 |
 | Bloody Knuckles | 0.00% | ~0 |
-| You're not going to blow me up! | 0.00% | ~0 |
 | No...No...No...that was not meant for you...yet! | 0.00% | ~0 |
 | Grumpy Immortal | 0.00% | ~0 |
 | Self assessed tax return | 0.00% | ~0 |
 | Scrambled Eggs | 0.00% | ~0 |
-| Karaoke king | 0.00% | ~0 |
 | European karaoke king | 0.00% | ~0 |
 | I cant stand still! | 0.00% | ~0 |
 | You can't stop me, bro! | 0.00% | ~0 |

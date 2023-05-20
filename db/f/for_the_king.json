@@ -4,10 +4,10 @@
   "ProductSlug": "for-the-king",
   "Ranking_Rating": 191,
   "Ranking_Popularity": 209,
-  "Ranking_PopularitySum": 157,
+  "Ranking_PopularitySum": 156,
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2020-04-23T15:00:00+00:00",
@@ -2548,10 +2548,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 2796,
       "NumberOfAwardsMax": 364
+    },
+    {
+      "Time": "2023-05-20T04:58:26.6873505+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2797,
+      "NumberOfAwardsMax": 364
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2796,
+  "NumberOfAwards": 2797,
   "NumberOfAwardsMax": 364,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2571,7 +2577,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 271
+      "Count": 272
     },
     {
       "Text": "This game is Relaxing",
@@ -2627,8 +2633,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:13.7495529+00:00",
-  "LastChanged": "2023-05-20T01:56:39.1280433+00:00",
+  "LastChanged": "2023-05-20T04:58:26.6873503+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:20.5497585+00:00",
-  "LastUpdate_Ratings": "2023-05-20T03:59:05.3516011+00:00",
-  "LastUpdate_Achievements": "2023-05-20T04:03:38.269965+00:00"
+  "LastUpdate_Ratings": "2023-05-20T04:58:26.6873508+00:00",
+  "LastUpdate_Achievements": "2023-05-20T05:03:26.2674835+00:00"
 }

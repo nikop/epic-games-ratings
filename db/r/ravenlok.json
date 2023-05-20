@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 710,
+  "EOS_Progressed": 711,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 6.62,
+  "EOS_Completed_Percentage": 6.61,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -1372,6 +1372,11 @@
       "Time": "2023-05-20T02:03:07.2544478+00:00",
       "NumProgressed": 710,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-05-20T05:04:54.6724764+00:00",
+      "NumProgressed": 711,
+      "NumCompleted": 47
     }
   ],
   "TotalAchievements": 50,
@@ -1383,7 +1388,7 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "10",
@@ -1407,7 +1412,7 @@
       "Name": "Spellbound",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "13",
@@ -1415,7 +1420,7 @@
       "Name": "Extinct Again!",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "14",
@@ -1423,7 +1428,7 @@
       "Name": "Bird of Prey",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "15",
@@ -1437,9 +1442,9 @@
       "ID": "16",
       "SetID": "d0g98p",
       "Name": "Soul Slayer",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 206
+      "UsersEstimate": 213
     },
     {
       "ID": "17",
@@ -1455,15 +1460,15 @@
       "Name": "Surprise!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "19",
       "SetID": "d0g98p",
       "Name": "A Grand Visit",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 504
+      "UsersEstimate": 498
     },
     {
       "ID": "2",
@@ -1471,7 +1476,7 @@
       "Name": "Waff!",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "20",
@@ -1479,7 +1484,7 @@
       "Name": "Stardust",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "21",
@@ -1495,7 +1500,7 @@
       "Name": "Heartbreaker",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "23",
@@ -1511,7 +1516,7 @@
       "Name": "Kidnapped!",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "25",
@@ -1527,7 +1532,7 @@
       "Name": "Ancient Wisdom",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "27",
@@ -1535,7 +1540,7 @@
       "Name": "Frog Facts!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "28",
@@ -1543,7 +1548,7 @@
       "Name": "Sword, Shield, Fight!",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "29",
@@ -1551,7 +1556,7 @@
       "Name": "All That Glistens",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "3",
@@ -1559,7 +1564,7 @@
       "Name": "Vibing",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "30",
@@ -1639,7 +1644,7 @@
       "Name": "All Skilled Up!",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "4",
@@ -1679,7 +1684,7 @@
       "Name": "An Actor!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "44",
@@ -1687,7 +1692,7 @@
       "Name": "It\u0027s Pointy!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "45",
@@ -1703,7 +1708,7 @@
       "Name": "Flower Power",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "47",
@@ -1757,9 +1762,9 @@
       "ID": "7",
       "SetID": "d0g98p",
       "Name": "Fun Guy",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 433
+      "UsersEstimate": 427
     },
     {
       "ID": "8",
@@ -1767,7 +1772,7 @@
       "Name": "Tragic Brave",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "9",
@@ -1775,14 +1780,14 @@
       "Name": "Curtain Call",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     }
   ],
   "AchievementSets": [
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 710,
+      "Progressed": 711,
       "Completed": 47
     }
   ],
@@ -1790,8 +1795,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-20T04:05:41.1607196+00:00",
+  "LastChanged_Achievements": "2023-05-20T05:04:54.6724755+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:59.9943101+00:00",
-  "LastUpdate_Ratings": "2023-05-20T03:57:23.4885629+00:00",
-  "LastUpdate_Achievements": "2023-05-20T04:05:41.1608003+00:00"
+  "LastUpdate_Ratings": "2023-05-20T04:57:07.5031256+00:00",
+  "LastUpdate_Achievements": "2023-05-20T05:04:54.6725198+00:00"
 }
