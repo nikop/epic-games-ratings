@@ -4,7 +4,7 @@
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 80,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -382,9 +382,9 @@
       "ID": "apprentice_destructor",
       "SetID": "jig50d",
       "Name": "Apprentice Destructor",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "avaricerite",
@@ -639,8 +639,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-20T18:01:06.2904513+00:00",
+  "LastChanged_Achievements": "2023-05-20T19:02:53.691007+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:10:10.466439+00:00",
-  "LastUpdate_Ratings": "2023-05-20T17:59:52.6081536+00:00",
-  "LastUpdate_Achievements": "2023-05-20T18:01:06.2904762+00:00"
+  "LastUpdate_Ratings": "2023-05-20T19:00:17.38568+00:00",
+  "LastUpdate_Achievements": "2023-05-20T19:02:53.6910325+00:00"
 }

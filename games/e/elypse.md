@@ -13,13 +13,13 @@
 | The light at the end of the tunnel | 62.00% | ~18 |
 | Masochistic | 48.00% | ~14 |
 | Sensitive soul | 45.00% | ~13 |
-| Soft skin | 38.00% | ~11 |
+| Soft skin | 41.00% | ~12 |
 | Hard Rock | 28.00% | ~8 |
 | Squid game | 24.00% | ~7 |
-| Rock Solid | 17.00% | ~5 |
-| The beast within | 17.00% | ~5 |
+| Rock Solid | 21.00% | ~6 |
+| The beast within | 21.00% | ~6 |
+| It's getting dark | 21.00% | ~6 |
 | Rooftop | 17.00% | ~5 |
-| It's getting dark | 17.00% | ~5 |
 | Homeless | 17.00% | ~5 |
 | Nokron tower | 14.00% | ~4 |
 | Big badaboom! | 14.00% | ~4 |

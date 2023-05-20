@@ -34,8 +34,8 @@
 | Drift King! | 20.00% | ~61 |
 | Feeling Hot Hot Hot! | 20.00% | ~61 |
 | Ferry Good! | 20.00% | ~61 |
+| Speed of light | 20.00% | ~61 |
 | Assert Dominance | 19.00% | ~58 |
-| Speed of light | 19.00% | ~58 |
 | Special Forces | 16.00% | ~49 |
 | Out of this League | 16.00% | ~49 |
 | Toot Toot! | 14.00% | ~43 |

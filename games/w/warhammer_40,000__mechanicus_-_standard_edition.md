@@ -5,15 +5,15 @@ Rating: 4.43 (Ranked 642)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~52,622 |
-| This is only the beginning | 19.00% | ~39,993 |
-| Knowledge is power | 12.00% | ~25,259 |
-| Power Ranger | 9.00% | ~18,944 |
-| Galvanic Rifle | 9.00% | ~18,944 |
-| Taser Goad | 9.00% | ~18,944 |
-| Radium Ready | 9.00% | ~18,944 |
-| Half a cog | 9.00% | ~18,944 |
-| Watch them crumble | 6.00% | ~12,629 |
+| No aid from the Omnissiah | 25.00% | ~52,625 |
+| This is only the beginning | 19.00% | ~39,995 |
+| Knowledge is power | 12.00% | ~25,260 |
+| Power Ranger | 9.00% | ~18,945 |
+| Galvanic Rifle | 9.00% | ~18,945 |
+| Taser Goad | 9.00% | ~18,945 |
+| Radium Ready | 9.00% | ~18,945 |
+| Half a cog | 9.00% | ~18,945 |
+| Watch them crumble | 6.00% | ~12,630 |
 | Competent Cohort | 4.00% | ~8,420 |
 | Celestial Cartography Catastrophe | 4.00% | ~8,420 |
 | One with the Machine | 4.00% | ~8,420 |
@@ -24,23 +24,23 @@ Rating: 4.43 (Ranked 642)
 | Impatient destruction | 2.00% | ~4,210 |
 | Vivisected Vizier | 2.00% | ~4,210 |
 | Architect Abortion | 2.00% | ~4,210 |
-| Cohortus Maximus | 0.70% | ~1,473 |
+| Cohortus Maximus | 0.70% | ~1,474 |
 | Mother of Xenarites | 0.40% | ~842 |
-| False God | 0.30% | ~631 |
+| False God | 0.30% | ~632 |
 | Hard | 0.20% | ~421 |
-| Sterile Perfection | 0.10% | ~210 |
-| Impossible | 0.10% | ~210 |
-| Sensory overload | 0.10% | ~210 |
-| Transonic Blur | 0.10% | ~210 |
-| Melee Machine | 0.10% | ~210 |
-| AoE-phobia | 0.10% | ~210 |
-| Zero to Hero | 0.10% | ~210 |
-| No Omnissian Guidance | 0.10% | ~210 |
-| Not the Men-of-Iron | 0.10% | ~210 |
-| Perma-live | 0.10% | ~210 |
-| Purge the Heretek | 0.10% | ~210 |
+| Sterile Perfection | 0.10% | ~211 |
+| Impossible | 0.10% | ~211 |
+| Sensory overload | 0.10% | ~211 |
+| Transonic Blur | 0.10% | ~211 |
+| Melee Machine | 0.10% | ~211 |
+| AoE-phobia | 0.10% | ~211 |
+| Zero to Hero | 0.10% | ~211 |
+| No Omnissian Guidance | 0.10% | ~211 |
+| Not the Men-of-Iron | 0.10% | ~211 |
+| Perma-live | 0.10% | ~211 |
+| Purge the Heretek | 0.10% | ~211 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210,490 (Ranked 47)  
+Progressed: 210,501 (Ranked 47)  
 Completed: 2 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 2 (0.00%) (Ranked 201)
 | 2023-05-17 | 210,155 | 2 |
 | 2023-05-18 | 210,257 | 2 |
 | 2023-05-19 | 210,378 | 2 |
-| 2023-05-20 | 210,490 | 2 |
+| 2023-05-20 | 210,501 | 2 |
 ## Awards
 Max (Highly Recommended): 277  (Ranked 229)  
 Sum: 2,096 (Ranked 182)  

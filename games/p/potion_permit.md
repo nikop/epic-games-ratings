@@ -6,14 +6,14 @@ Rating: 3.79 (Ranked 912)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome to Moonbury | 98.00% | ~1,238 |
-| The First Step | 88.00% | ~1,111 |
+| The First Step | 89.00% | ~1,124 |
 | Moonbury Traveller | 63.00% | ~796 |
 | Rookie Chemist | 62.00% | ~783 |
 | Great Doctor | 50.00% | ~632 |
 | Dog Whisperer | 47.00% | ~594 |
 | Friendly | 45.00% | ~568 |
+| The Capitalist | 42.00% | ~530 |
 | K.O.! | 41.00% | ~518 |
-| The Capitalist | 41.00% | ~518 |
 | Intermediate Chemist | 37.00% | ~467 |
 | Decorative Mind | 31.00% | ~392 |
 | Lumber Specialist | 29.00% | ~366 |
@@ -25,8 +25,8 @@ Rating: 3.79 (Ranked 912)
 | Spark of Love | 14.00% | ~177 |
 | Stone Specialist | 13.00% | ~164 |
 | Expert Chemist | 12.00% | ~152 |
+| Ablutomaniac | 12.00% | ~152 |
 | Sociable | 11.00% | ~139 |
-| Ablutomaniac | 11.00% | ~139 |
 | Production Sorter | 11.00% | ~139 |
 | Good Samaritan | 10.00% | ~126 |
 | Line Cook | 10.00% | ~126 |

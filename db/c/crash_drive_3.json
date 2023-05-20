@@ -513,9 +513,9 @@
       "ID": "WIN_RACE_AGAINST_3",
       "SetID": "20koof9",
       "Name": "Speed of light",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 61
     },
     {
       "ID": "WIN_ROBBER",
@@ -554,8 +554,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-05-20T18:00:56.1969347+00:00",
+  "LastChanged_Achievements": "2023-05-20T19:01:23.9751527+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:24.363984+00:00",
-  "LastUpdate_Ratings": "2023-05-20T17:58:40.357185+00:00",
-  "LastUpdate_Achievements": "2023-05-20T18:00:56.1969836+00:00"
+  "LastUpdate_Ratings": "2023-05-20T18:59:05.2051852+00:00",
+  "LastUpdate_Achievements": "2023-05-20T19:01:23.9752008+00:00"
 }

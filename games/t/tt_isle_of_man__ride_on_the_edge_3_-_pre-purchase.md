@@ -6,10 +6,11 @@
 | ---- | ---------- | ----- |
 | You're Going Down! | 95.00% | ~37 |
 | To Each Their Own | 38.00% | ~15 |
-| You Get An Upgrade, You Get An Upgrade! | 18.00% | ~7 |
+| You Get An Upgrade, You Get An Upgrade! | 21.00% | ~8 |
 | Like Phileas Fogg | 15.00% | ~6 |
 | Onwards and Upwards | 15.00% | ~6 |
 | Seven-League Boots | 8.00% | ~3 |
+| No Room for Improvement | 8.00% | ~3 |
 | Upgradeaholic | 8.00% | ~3 |
 | Start Your Engines | 8.00% | ~3 |
 | Playing God | 8.00% | ~3 |
@@ -19,7 +20,6 @@
 | First and Foremost | 5.00% | ~2 |
 | Made Mother Proud | 5.00% | ~2 |
 | Winner Winner Chicken Dinner | 5.00% | ~2 |
-| No Room for Improvement | 5.00% | ~2 |
 | Tailor-Made for Two | 5.00% | ~2 |
 | Déjà-Vu | 3.00% | ~1 |
 | Golden Ratio | 3.00% | ~1 |

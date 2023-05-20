@@ -140,9 +140,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5885,
+  "EOS_Progressed": 5890,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1800,6 +1800,11 @@
       "Time": "2023-05-20T18:05:27.1948128+00:00",
       "NumProgressed": 5885,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-20T19:05:59.7802282+00:00",
+      "NumProgressed": 5890,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 21,
@@ -1835,7 +1840,7 @@
       "Name": "Body and Soul",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -1883,7 +1888,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -1891,7 +1896,7 @@
       "Name": "Happy Camper",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "HISTORIAN",
@@ -1915,7 +1920,7 @@
       "Name": "In a Pinch",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "LIBERATOR",
@@ -1923,7 +1928,7 @@
       "Name": "Liberator",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "LIVE_WIRE",
@@ -1931,7 +1936,7 @@
       "Name": "Live Wire",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "SHREDDER",
@@ -1963,7 +1968,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "THING",
@@ -1978,7 +1983,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5885,
+      "Progressed": 5890,
       "Completed": 22
     }
   ],
@@ -1986,8 +1991,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-16T16:57:54.2243616+00:00",
-  "LastChanged_Achievements": "2023-05-20T18:05:27.1948123+00:00",
+  "LastChanged_Achievements": "2023-05-20T19:05:59.7802277+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.822955+00:00",
-  "LastUpdate_Ratings": "2023-05-20T17:57:50.0463139+00:00",
-  "LastUpdate_Achievements": "2023-05-20T18:05:27.1948369+00:00"
+  "LastUpdate_Ratings": "2023-05-20T18:58:15.5875438+00:00",
+  "LastUpdate_Achievements": "2023-05-20T19:05:59.7802522+00:00"
 }

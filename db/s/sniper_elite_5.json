@@ -6,7 +6,7 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 166,
-  "Ranking_EOS_Completed": 139,
+  "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
@@ -176,9 +176,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 958,
+  "EOS_Progressed": 966,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -811,6 +811,11 @@
       "Time": "2023-05-20T18:05:35.1974887+00:00",
       "NumProgressed": 958,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-20T19:06:07.7914772+00:00",
+      "NumProgressed": 966,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -884,9 +889,9 @@
       "ID": "REWARD_18_ORGAN_GRINDER",
       "SetID": "bm6el81",
       "Name": "Organ Grinder",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -902,7 +907,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1020,9 +1025,9 @@
       "ID": "REWARD_34_TRIPLE_KILL",
       "SetID": "bm6el81",
       "Name": "Explosive Efficiency",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -1036,17 +1041,17 @@
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
       "SetID": "bm6el81",
       "Name": "Die Nussknacker Sweet!",
-      "Percentage": 0.4,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
       "SetID": "bm6el81",
       "Name": "Resourceful",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 19
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -1228,9 +1233,9 @@
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
       "SetID": "bm6el81",
       "Name": "The Kraken Sleeps",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -1389,13 +1394,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 909,
+      "Progressed": 917,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 958,
+      "Progressed": 966,
       "Completed": 2
     }
   ],
@@ -1403,8 +1408,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-18T16:01:31.1520338+00:00",
-  "LastChanged_Achievements": "2023-05-20T18:05:35.1974883+00:00",
+  "LastChanged_Achievements": "2023-05-20T19:06:07.7914766+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-20T18:00:26.2186741+00:00",
-  "LastUpdate_Achievements": "2023-05-20T18:05:35.1975578+00:00"
+  "LastUpdate_Ratings": "2023-05-20T19:00:51.6131966+00:00",
+  "LastUpdate_Achievements": "2023-05-20T19:06:07.791546+00:00"
 }

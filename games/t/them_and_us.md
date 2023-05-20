@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 62.00% | ~69 |
-| Forced to Kill | 62.00% | ~69 |
-| A Night To Remember | 31.00% | ~34 |
+| Alone with Them | 63.00% | ~71 |
+| Forced to Kill | 63.00% | ~71 |
+| A Night To Remember | 31.00% | ~35 |
 | Safe...For now? | 26.00% | ~29 |
 | Open Sesame | 20.00% | ~22 |
 | Them and Us | 11.00% | ~12 |
@@ -16,16 +16,16 @@
 | The Cultists | 8.00% | ~9 |
 | Parasite Exterminated | 7.00% | ~8 |
 | This Coffin Has Your Name On It! | 7.00% | ~8 |
-| Lover of classics | 5.00% | ~6 |
-| Modern Player | 5.00% | ~6 |
 | Rest In Peace | 5.00% | ~6 |
-| The Curse Is Real | 5.00% | ~6 |
 | The Forgotten Tower | 5.00% | ~6 |
-| Trapped | 5.00% | ~6 |
-| What A Mansion | 5.00% | ~6 |
+| Lover of classics | 4.00% | ~4 |
+| Modern Player | 4.00% | ~4 |
 | Researcher | 4.00% | ~4 |
 | I Am The Gate Keeper! | 4.00% | ~4 |
 | The bus stop | 4.00% | ~4 |
+| The Curse Is Real | 4.00% | ~4 |
+| Trapped | 4.00% | ~4 |
+| What A Mansion | 4.00% | ~4 |
 | This Mansion Is Clean | 3.00% | ~3 |
 | Armed To The Teeth | 2.00% | ~2 |
 | Run and Gun | 2.00% | ~2 |
@@ -45,8 +45,8 @@
 | Survival Hero | 0.90% | ~1 |
 | The 5th Element | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 111 (Ranked 255)  
-Completed: 1 (0.90%) (Ranked 87)  
+Progressed: 112 (Ranked 255)  
+Completed: 1 (0.89%) (Ranked 89)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -60,7 +60,7 @@ Completed: 1 (0.90%) (Ranked 87)
 | 2023-05-17 | 84 | 1 |
 | 2023-05-18 | 95 | 1 |
 | 2023-05-19 | 109 | 1 |
-| 2023-05-20 | 111 | 1 |
+| 2023-05-20 | 112 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

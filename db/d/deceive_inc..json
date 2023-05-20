@@ -148,9 +148,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5934,
+  "EOS_Progressed": 5935,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 331,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2423,6 +2423,11 @@
       "Time": "2023-05-20T18:05:58.717768+00:00",
       "NumProgressed": 5934,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T19:06:29.9693695+00:00",
+      "NumProgressed": 5935,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -2458,7 +2463,7 @@
       "Name": "Security Supervisor",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "0005",
@@ -2490,7 +2495,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 2136
+      "UsersEstimate": 2137
     },
     {
       "ID": "0009",
@@ -2562,7 +2567,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 2492
+      "UsersEstimate": 2493
     },
     {
       "ID": "0018",
@@ -2666,7 +2671,7 @@
       "Name": "For your Eyes only",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 2314
+      "UsersEstimate": 2315
     },
     {
       "ID": "0031",
@@ -2721,7 +2726,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 5934,
+      "Progressed": 5935,
       "Completed": 0
     }
   ],
@@ -2729,8 +2734,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-05-19T17:59:42.1652138+00:00",
-  "LastChanged_Achievements": "2023-05-20T18:05:58.7177673+00:00",
+  "LastChanged_Achievements": "2023-05-20T19:06:29.969369+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:04:08.7969663+00:00",
-  "LastUpdate_Ratings": "2023-05-20T17:59:32.6281694+00:00",
-  "LastUpdate_Achievements": "2023-05-20T18:05:58.7178092+00:00"
+  "LastUpdate_Ratings": "2023-05-20T18:59:58.5458528+00:00",
+  "LastUpdate_Achievements": "2023-05-20T19:06:29.9694082+00:00"
 }

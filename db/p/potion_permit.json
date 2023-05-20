@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 422,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -579,9 +579,9 @@
       "ID": "ACHIEVEMENTS_08",
       "SetID": "d4o538a",
       "Name": "The First Step",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1124
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -691,9 +691,9 @@
       "ID": "ACHIEVEMENTS_22",
       "SetID": "d4o538a",
       "Name": "The Capitalist",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 518
+      "UsersEstimate": 530
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -763,9 +763,9 @@
       "ID": "ACHIEVEMENTS_31",
       "SetID": "d4o538a",
       "Name": "Ablutomaniac",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 152
     },
     {
       "ID": "ACHIEVEMENTS_32",
@@ -836,8 +836,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-05-03T21:59:55.8094288+00:00",
-  "LastChanged_Achievements": "2023-05-20T18:06:05.0581183+00:00",
+  "LastChanged_Achievements": "2023-05-20T19:06:36.193664+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:30.0956385+00:00",
-  "LastUpdate_Ratings": "2023-05-20T18:00:17.8122577+00:00",
-  "LastUpdate_Achievements": "2023-05-20T18:06:05.0581477+00:00"
+  "LastUpdate_Ratings": "2023-05-20T19:00:42.2081533+00:00",
+  "LastUpdate_Achievements": "2023-05-20T19:06:36.1936956+00:00"
 }

@@ -8,6 +8,7 @@ Rating: 4.17 (Ranked 836)
 | First Step Into the Knight | 0.90% | ~552 |
 | Har, Har, Har, Very Funny | 0.60% | ~368 |
 | Loose Ends | 0.60% | ~368 |
+| The Batman Family | 0.50% | ~307 |
 | Protector of Gotham | 0.50% | ~307 |
 | Something in the Clay | 0.50% | ~307 |
 | The Show Mud Go On | 0.50% | ~307 |
@@ -24,15 +25,14 @@ Rating: 4.17 (Ranked 836)
 | Bad Apples in Every Orchard | 0.50% | ~307 |
 | From Inside Gotham's Walls | 0.50% | ~307 |
 | Gotham Knight | 0.50% | ~307 |
-| The Batman Family | 0.40% | ~245 |
-| End of an Era | 0.40% | ~245 |
-| In Your Element | 0.40% | ~245 |
-| Bulldozed | 0.40% | ~245 |
-| Shock Til They Drop | 0.40% | ~245 |
-| Cooldown | 0.40% | ~245 |
-| Universal Health Scare | 0.40% | ~245 |
-| Voiceless | 0.40% | ~245 |
-| Seeking Asylum | 0.40% | ~245 |
+| End of an Era | 0.40% | ~246 |
+| In Your Element | 0.40% | ~246 |
+| Bulldozed | 0.40% | ~246 |
+| Shock Til They Drop | 0.40% | ~246 |
+| Cooldown | 0.40% | ~246 |
+| Universal Health Scare | 0.40% | ~246 |
+| Voiceless | 0.40% | ~246 |
+| Seeking Asylum | 0.40% | ~246 |
 | Not On My Watch | 0.30% | ~184 |
 | Out of Their League | 0.30% | ~184 |
 | Drone You Out | 0.30% | ~184 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 836)
 | Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,364 (Ranked 68)  
+Progressed: 61,379 (Ranked 68)  
 Completed: 91 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 91 (0.15%) (Ranked 148)
 | 2023-05-17 | 60,939 | 91 |
 | 2023-05-18 | 61,004 | 91 |
 | 2023-05-19 | 61,198 | 91 |
-| 2023-05-20 | 61,364 | 91 |
+| 2023-05-20 | 61,379 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,227  (Ranked 98)  
 Sum: 3,689 (Ranked 137)  

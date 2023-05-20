@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 361,
+  "EOS_Progressed": 362,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -95,6 +95,11 @@
       "Time": "2023-05-20T03:05:02.6588224+00:00",
       "NumProgressed": 361,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-20T19:06:20.2478352+00:00",
+      "NumProgressed": 362,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -114,7 +119,7 @@
       "Name": "Brain and Brawn",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "assemble-team3",
@@ -162,7 +167,7 @@
       "Name": "Party",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "different-items2",
@@ -194,15 +199,15 @@
       "Name": "Great Flight",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "finished-quest-monster",
       "SetID": "799afm0",
       "Name": "Campaigning",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 83
     },
     {
       "ID": "finished-quest-nurgle",
@@ -280,9 +285,9 @@
       "ID": "last-hero",
       "SetID": "799afm0",
       "Name": "Last Man Standing",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 112
     },
     {
       "ID": "save-zombie",
@@ -322,7 +327,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "win-first-level",
@@ -330,7 +335,7 @@
       "Name": "Good start!",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "win-koth-fights1",
@@ -368,9 +373,9 @@
       "ID": "win-with-3-cultists",
       "SetID": "799afm0",
       "Name": "Honorary Cultist",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 36
     },
     {
       "ID": "win-with-mrakus",
@@ -385,7 +390,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 361,
+      "Progressed": 362,
       "Completed": 1
     }
   ],
@@ -393,8 +398,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-05-20T18:05:48.5880674+00:00",
+  "LastChanged_Achievements": "2023-05-20T19:06:20.2478347+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:20.0092319+00:00",
-  "LastUpdate_Ratings": "2023-05-20T17:58:35.7300912+00:00",
-  "LastUpdate_Achievements": "2023-05-20T18:05:48.5880947+00:00"
+  "LastUpdate_Ratings": "2023-05-20T18:59:00.6163051+00:00",
+  "LastUpdate_Achievements": "2023-05-20T19:06:20.2478605+00:00"
 }

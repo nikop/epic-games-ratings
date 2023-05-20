@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5080,
+  "EOS_Progressed": 5083,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -1388,6 +1388,11 @@
       "Time": "2023-05-20T18:00:47.7355663+00:00",
       "NumProgressed": 5080,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-20T19:01:15.6061056+00:00",
+      "NumProgressed": 5083,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -1399,7 +1404,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4216
+      "UsersEstimate": 4219
     },
     {
       "ID": "ACH02",
@@ -1407,7 +1412,7 @@
       "Name": "Without a Scratch",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 1626
+      "UsersEstimate": 1627
     },
     {
       "ID": "ACH03",
@@ -1423,7 +1428,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 1829
+      "UsersEstimate": 1830
     },
     {
       "ID": "ACH05",
@@ -1519,7 +1524,7 @@
       "Name": "A Marked Man",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "ACH17",
@@ -1535,7 +1540,7 @@
       "Name": "Not So Fast",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "ACH19",
@@ -1630,7 +1635,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 5080,
+      "Progressed": 5083,
       "Completed": 26
     }
   ],
@@ -1638,8 +1643,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-12T16:57:58.7220785+00:00",
-  "LastChanged_Achievements": "2023-05-20T18:00:47.7355657+00:00",
+  "LastChanged_Achievements": "2023-05-20T19:01:15.6061047+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:31.8748782+00:00",
-  "LastUpdate_Ratings": "2023-05-20T17:57:48.7186652+00:00",
-  "LastUpdate_Achievements": "2023-05-20T18:00:47.7355974+00:00"
+  "LastUpdate_Ratings": "2023-05-20T18:58:14.2173885+00:00",
+  "LastUpdate_Achievements": "2023-05-20T19:01:15.606136+00:00"
 }

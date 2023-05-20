@@ -306,7 +306,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2359,
+  "EOS_Progressed": 2360,
   "EOS_Completed": 92,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 2,
@@ -811,6 +811,11 @@
       "Time": "2023-05-20T17:06:38.8643061+00:00",
       "NumProgressed": 2359,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-05-20T19:06:32.4987178+00:00",
+      "NumProgressed": 2360,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 14,
@@ -870,7 +875,7 @@
       "Name": "Family Lost",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 731
+      "UsersEstimate": 732
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -910,7 +915,7 @@
       "Name": "Shovel Night",
       "Percentage": 36,
       "XP": 55,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -933,7 +938,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2359,
+      "Progressed": 2360,
       "Completed": 92
     }
   ],
@@ -941,8 +946,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-05-17T22:01:13.9287638+00:00",
-  "LastChanged_Achievements": "2023-05-20T18:06:01.2656487+00:00",
+  "LastChanged_Achievements": "2023-05-20T19:06:32.4987172+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:26.5471231+00:00",
-  "LastUpdate_Ratings": "2023-05-20T18:00:15.1306883+00:00",
-  "LastUpdate_Achievements": "2023-05-20T18:06:01.265661+00:00"
+  "LastUpdate_Ratings": "2023-05-20T19:00:39.7131785+00:00",
+  "LastUpdate_Achievements": "2023-05-20T19:06:32.4987297+00:00"
 }

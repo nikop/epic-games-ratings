@@ -30,6 +30,7 @@ Number of Ratings: 87  (23.09.2022)
 | Bridgemania | 2.00% | ~14 |
 | Critical care | 2.00% | ~14 |
 | One way | 2.00% | ~14 |
+| Overseer | 2.00% | ~14 |
 | Steam Age | 2.00% | ~14 |
 | The Tortoise | 2.00% | ~14 |
 | Without a lunch break | 2.00% | ~14 |
@@ -45,30 +46,29 @@ Number of Ratings: 87  (23.09.2022)
 | Lucky vandal | 1.00% | ~7 |
 | Missed it! | 1.00% | ~7 |
 | Ouroboros | 1.00% | ~7 |
-| Overseer | 1.00% | ~7 |
 | Relocation | 1.00% | ~7 |
 | Sabotage | 1.00% | ~7 |
 | Squander | 1.00% | ~7 |
 | Stargazer | 1.00% | ~7 |
 | Vandal | 1.00% | ~7 |
 | Atomic Age | 0.80% | ~0 |
+| Information Age | 0.80% | ~0 |
 | Innovator | 0.80% | ~6 |
 | Prick of conscience | 0.80% | ~6 |
 | Astronomer | 0.70% | ~5 |
 | At the last moment! | 0.70% | ~5 |
 | Digital Age | 0.70% | ~0 |
-| Information Age | 0.70% | ~0 |
 | Railroad tycoon | 0.70% | ~5 |
 | Vostok | 0.70% | ~0 |
 | Achiever | 0.60% | ~4 |
 | Miscalculation | 0.60% | ~4 |
 | Will work | 0.60% | ~4 |
+| Astrochemist | 0.40% | ~0 |
 | BBQ | 0.40% | ~3 |
 | Metro builder | 0.40% | ~3 |
 | Space Age | 0.40% | ~3 |
 | Woodcutter | 0.40% | ~3 |
 | Alchemist | 0.30% | ~2 |
-| Astrochemist | 0.30% | ~0 |
 | Astrophysicist | 0.30% | ~2 |
 | Tourism Age | 0.30% | ~2 |
 | Urbanization Age | 0.30% | ~2 |

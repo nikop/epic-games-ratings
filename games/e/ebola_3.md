@@ -7,8 +7,8 @@
 | Chest ✔ | 55.00% | ~96 |
 | Fright ✔ | 55.00% | ~96 |
 | Inventory ✔ | 51.00% | ~89 |
-| Police officers ✔ | 26.00% | ~46 |
-| Mutation ✔ | 25.00% | ~44 |
+| Police officers ✔ | 27.00% | ~47 |
+| Mutation ✔ | 26.00% | ~46 |
 | Doberman ✔ | 13.00% | ~23 |
 | Master of Unlocking ✔ | 9.00% | ~16 |
 | Chess ✔ | 9.00% | ~16 |
@@ -32,6 +32,7 @@
 | City on fire ✔ | 5.00% | ~9 |
 | Infected ✔ | 5.00% | ~9 |
 | Mutant run ✔ | 4.00% | ~7 |
+| Broadcasting ✔ | 4.00% | ~7 |
 | Crocodile Attack ✔ | 3.00% | ~5 |
 | Secret ✔ | 3.00% | ~5 |
 | Boss 2 ✔ | 3.00% | ~5 |
@@ -40,7 +41,6 @@
 | Priest ✔ | 3.00% | ~5 |
 | Rank B+ ✔ | 3.00% | ~5 |
 | Rank A ✔ | 3.00% | ~5 |
-| Broadcasting ✔ | 3.00% | ~5 |
 | Boss 3 ✔ | 3.00% | ~5 |
 | Car ✔ | 2.00% | ~4 |
 | Seeker One ✔ | 2.00% | ~4 |

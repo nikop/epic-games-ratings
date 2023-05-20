@@ -1154,9 +1154,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61364,
+  "EOS_Progressed": 61379,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 525,
+  "EOS_NewPlayers": 538,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3094,6 +3094,11 @@
       "Time": "2023-05-20T18:06:07.7296241+00:00",
       "NumProgressed": 61364,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-20T19:06:38.8316388+00:00",
+      "NumProgressed": 61379,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3151,9 +3156,9 @@
       "ID": "ALL_HEROES_PLAYED",
       "SetID": "4eo5ebm",
       "Name": "The Batman Family",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 307
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -3185,7 +3190,7 @@
       "Name": "End of an Era",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "APPLY_STATUS",
@@ -3193,7 +3198,7 @@
       "Name": "In Your Element",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "CHALLENGES_1",
@@ -3281,7 +3286,7 @@
       "Name": "Bulldozed",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -3313,7 +3318,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -3353,7 +3358,7 @@
       "Name": "Cooldown",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -3433,7 +3438,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -3537,7 +3542,7 @@
       "Name": "Voiceless",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "MYSTERY_07",
@@ -3545,7 +3550,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "MYSTERY_08",
@@ -3592,13 +3597,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61364,
+      "Progressed": 61379,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31644,
+      "Progressed": 31659,
       "Completed": 2640
     }
   ],
@@ -3606,8 +3611,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-20T13:59:13.9457948+00:00",
-  "LastChanged_Achievements": "2023-05-20T18:06:07.7296236+00:00",
+  "LastChanged_Achievements": "2023-05-20T19:06:38.8316383+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-20T17:59:38.6308396+00:00",
-  "LastUpdate_Achievements": "2023-05-20T18:06:07.7296904+00:00"
+  "LastUpdate_Ratings": "2023-05-20T19:00:04.6032085+00:00",
+  "LastUpdate_Achievements": "2023-05-20T19:06:38.8317065+00:00"
 }

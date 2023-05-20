@@ -6,17 +6,17 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~472,668 |
-| Apprentice | 58.00% | ~380,760 |
-| Close Shave | 25.00% | ~164,121 |
-| Mercenary | 23.00% | ~150,991 |
-| Ninja | 23.00% | ~150,991 |
-| Northern Scourge | 17.00% | ~111,602 |
+| The Fool | 72.00% | ~472,671 |
+| Apprentice | 58.00% | ~380,762 |
+| Close Shave | 25.00% | ~164,122 |
+| Mercenary | 23.00% | ~150,992 |
+| Ninja | 23.00% | ~150,992 |
+| Northern Scourge | 17.00% | ~111,603 |
 | Thief Bane | 14.00% | ~91,908 |
 | Master of Arms | 12.00% | ~78,778 |
-| Gambler | 10.00% | ~65,648 |
-| Dice Master | 10.00% | ~65,648 |
-| Swordsman | 9.00% | ~59,083 |
+| Gambler | 10.00% | ~65,649 |
+| Dice Master | 10.00% | ~65,649 |
+| Swordsman | 9.00% | ~59,084 |
 | Knight | 8.00% | ~52,519 |
 | Cure for Corruption | 8.00% | ~52,519 |
 | Focused | 8.00% | ~52,519 |
@@ -28,9 +28,9 @@ Number of Ratings: 780  (23.09.2022)
 | Broken Heart | 6.00% | ~39,389 |
 | Jack of all Trades | 5.00% | ~32,824 |
 | Smithy | 5.00% | ~32,824 |
-| Leap of Faith | 3.00% | ~19,694 |
-| Combat Ready | 3.00% | ~19,694 |
-| Stuffed Potato | 3.00% | ~19,694 |
+| Leap of Faith | 3.00% | ~19,695 |
+| Combat Ready | 3.00% | ~19,695 |
+| Stuffed Potato | 3.00% | ~19,695 |
 | Card Sharp | 2.00% | ~13,130 |
 | Magician | 2.00% | ~13,130 |
 | Draknar's Bane | 2.00% | ~13,130 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~656 |
 | Blood Pact | 0.10% | ~656 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 656,483 (Ranked 18)  
+Progressed: 656,487 (Ranked 18)  
 Completed: 165 (0.03%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 165 (0.03%) (Ranked 182)
 | 2023-05-17 | 656,314 | 165 |
 | 2023-05-18 | 656,361 | 165 |
 | 2023-05-19 | 656,423 | 165 |
-| 2023-05-20 | 656,483 | 165 |
+| 2023-05-20 | 656,487 | 165 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 426)  
 Sum: 180 (Ranked 360)  

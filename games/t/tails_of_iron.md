@@ -5,26 +5,26 @@ Rating: 4.50 (Ranked 535)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 76.00% | ~1,065 |
+| Complete Guard Faction | 76.00% | ~1,066 |
 | Become King | 70.00% | ~981 |
 | Defeat 25 Frogs | 60.00% | ~841 |
 | Ranged Weapon | 59.00% | ~827 |
-| Collect Monster Parts | 56.00% | ~785 |
+| Collect Monster Parts | 55.00% | ~771 |
 | Two Handed Weapon | 54.00% | ~757 |
-| Defeat 25 Grubs | 50.00% | ~700 |
-| Rescue Redgi's Brothers | 50.00% | ~700 |
-| Collect Iron Ore | 45.00% | ~630 |
-| Defeat 25 Mozis | 44.00% | ~616 |
-| Kitchen Ready To Cook | 44.00% | ~616 |
-| Collect Gold | 43.00% | ~602 |
-| Smithy Ready to Craft | 43.00% | ~602 |
-| Fix the Travellers Wagon | 41.00% | ~574 |
-| Complete Elder Faction | 38.00% | ~532 |
-| End of the Mozis | 35.00% | ~490 |
-| Throne Room Fit For A King | 35.00% | ~490 |
-| Meet the Creatures from the Deep | 33.00% | ~462 |
-| Return Power To The Depths | 33.00% | ~462 |
-| Defeat Ratnor Rodentson | 27.00% | ~378 |
+| Defeat 25 Grubs | 50.00% | ~701 |
+| Rescue Redgi's Brothers | 50.00% | ~701 |
+| Collect Iron Ore | 45.00% | ~631 |
+| Defeat 25 Mozis | 44.00% | ~617 |
+| Kitchen Ready To Cook | 44.00% | ~617 |
+| Collect Gold | 43.00% | ~603 |
+| Smithy Ready to Craft | 43.00% | ~603 |
+| Fix the Travellers Wagon | 41.00% | ~575 |
+| Complete Elder Faction | 38.00% | ~533 |
+| End of the Mozis | 35.00% | ~491 |
+| Throne Room Fit For A King | 35.00% | ~491 |
+| Meet the Creatures from the Deep | 33.00% | ~463 |
+| Return Power To The Depths | 33.00% | ~463 |
+| Defeat Ratnor Rodentson | 27.00% | ~379 |
 | Return the Statues | 24.00% | ~336 |
 | Defeat Rattus Augustail | 24.00% | ~336 |
 | Complete the Chefs Book | 23.00% | ~322 |
@@ -36,7 +36,7 @@ Rating: 4.50 (Ranked 535)
 | King of Kings | 7.00% | ~98 |
 | A new Warchief rises | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,401 (Ranked 154)  
+Progressed: 1,402 (Ranked 154)  
 Completed: 6 (0.43%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,7 +60,7 @@ Completed: 6 (0.43%) (Ranked 111)
 | 2023-05-16 | 1,377 | 6 |
 | 2023-05-18 | 1,382 | 6 |
 | 2023-05-19 | 1,394 | 6 |
-| 2023-05-20 | 1,401 | 6 |
+| 2023-05-20 | 1,402 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
