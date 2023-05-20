@@ -165,5 +165,3 @@
 | [Koropokkur in Love ~A Little Fairy’s Tale~](games/k/koropokkur_in_love_~a_little_fairy’s_tale~.md) | 2023-04-21 | 2018-09-27 |
 | [Cepheus Protocol](games/c/cepheus_protocol.md) | 2023-04-21 | 2020-05-15 |
 | [Afterglitch](games/a/afterglitch.md) | 2023-04-20 | 2022-12-08 |
-| [Biped](games/b/biped.md) | 2023-04-20 | 2020-03-26 |
-| [Stray Blade](games/s/stray_blade.md) | 2023-04-20 | 2023-04-20 |
