@@ -2,7 +2,7 @@
   "ID": "04e9492e1c384d3283aa2c5b329af66c",
   "Name": "Chef Life - A Restaurant Simulator",
   "ProductSlug": "chef-life-a-restaurant-simulator",
-  "Ranking_EOS_Progress": 249,
+  "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 77,
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 136,
+  "EOS_Progressed": 137,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
@@ -569,6 +569,11 @@
       "Time": "2023-05-20T02:03:21.5637253+00:00",
       "NumProgressed": 136,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T03:04:57.6281942+00:00",
+      "NumProgressed": 137,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -636,7 +641,7 @@
       "Name": "So Clean You Can Eat Off the Floor",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Clothes10",
@@ -764,7 +769,7 @@
       "Name": "Next Level Cuisine",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "PerfectGrade25",
@@ -802,9 +807,9 @@
       "ID": "SDishes50",
       "SetID": "d1bm05f",
       "Name": "S is for Scrumptious",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "ServiceMaxClient",
@@ -834,17 +839,17 @@
       "ID": "StaffMemberSpecialityDishes10",
       "SetID": "d1bm05f",
       "Name": "You\u0027re the Expert!",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 49
     },
     {
       "ID": "TrattoriaSet",
       "SetID": "d1bm05f",
       "Name": "Italian Style",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "UnlockAssiette",
@@ -899,7 +904,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 136,
+      "Progressed": 137,
       "Completed": 0
     }
   ],
@@ -907,8 +912,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-20T02:03:21.5637249+00:00",
+  "LastChanged_Achievements": "2023-05-20T03:04:57.6281936+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.318416+00:00",
-  "LastUpdate_Ratings": "2023-05-20T01:55:56.5916361+00:00",
-  "LastUpdate_Achievements": "2023-05-20T02:03:21.5637788+00:00"
+  "LastUpdate_Ratings": "2023-05-20T02:57:59.3481288+00:00",
+  "LastUpdate_Achievements": "2023-05-20T03:04:57.6282259+00:00"
 }

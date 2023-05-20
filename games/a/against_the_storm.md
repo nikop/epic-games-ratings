@@ -37,10 +37,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Watchtower | 0.60% | ~89 |
 | Serving Ale | 0.50% | ~74 |
 | Forsaken Gods Temple | 0.50% | ~74 |
+| Defying the Crown | 0.50% | ~74 |
 | Into the Forest | 0.50% | ~74 |
 | Ruined Armory | 0.40% | ~60 |
 | Forbidden Lands | 0.40% | ~60 |
-| Defying the Crown | 0.40% | ~60 |
 | Efficient Explorer | 0.30% | ~45 |
 | Fishmen Ritual Site | 0.30% | ~45 |
 | Prestigious Expedition | 0.30% | ~45 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,898 (Ranked 98)  
+Progressed: 14,900 (Ranked 98)  
 Completed: 30 (0.20%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 30 (0.20%) (Ranked 140)
 | 2023-05-17 | 14,860 | 30 |
 | 2023-05-18 | 14,878 | 30 |
 | 2023-05-19 | 14,897 | 30 |
-| 2023-05-20 | 14,898 | 30 |
+| 2023-05-20 | 14,900 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 196)  
 Sum: 3,028 (Ranked 150)  

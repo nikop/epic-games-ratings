@@ -410,9 +410,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 12867,
+  "EOS_Progressed": 12871,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 309,
+  "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -900,6 +900,11 @@
       "Time": "2023-05-20T01:58:33.3231457+00:00",
       "NumProgressed": 12867,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-20T03:00:01.375274+00:00",
+      "NumProgressed": 12871,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 40,
@@ -1013,9 +1018,9 @@
       "ID": "GRP_25_ENEMIES",
       "SetID": "4hj6d86",
       "Name": "Get a Grip",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 39
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -1221,22 +1226,22 @@
       "ID": "SPEND_20000",
       "SetID": "6j5ggkc",
       "Name": "Big Spender",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 12867,
+      "Progressed": 12871,
       "Completed": 51
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 793,
+      "Progressed": 797,
       "Completed": 29
     }
   ],
@@ -1244,8 +1249,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-16T17:57:38.030273+00:00",
-  "LastChanged_Achievements": "2023-05-20T01:58:33.3231451+00:00",
+  "LastChanged_Achievements": "2023-05-20T03:00:01.3752734+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-20T01:55:21.0512141+00:00",
-  "LastUpdate_Achievements": "2023-05-20T01:58:33.3231868+00:00"
+  "LastUpdate_Ratings": "2023-05-20T02:57:30.3782865+00:00",
+  "LastUpdate_Achievements": "2023-05-20T03:00:01.3753111+00:00"
 }

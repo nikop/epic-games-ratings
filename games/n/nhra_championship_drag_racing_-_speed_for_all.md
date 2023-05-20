@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Graduated | 99.00% | ~659 |
+| Graduated | 99.00% | ~660 |
 | Trouble with the swerve | 69.00% | ~460 |
-| Oops, My bad | 68.00% | ~453 |
-| Don't get ahead on yourself | 40.00% | ~266 |
-| I didn't know you where there! | 31.00% | ~206 |
+| Oops, My bad | 68.00% | ~454 |
+| Don't get ahead on yourself | 40.00% | ~267 |
+| I didn't know you where there! | 31.00% | ~207 |
 | Participation trophy | 23.00% | ~153 |
 | Whole again | 12.00% | ~80 |
 | Getting the job done | 8.00% | ~53 |
@@ -24,9 +24,9 @@
 | Dedicated tourist | 0.90% | ~6 |
 | Well oiled Veteran | 0.30% | ~2 |
 | For Science! | 0.30% | ~2 |
-| Lightning fast | 0.20% | ~1 |
-| Unstoppable Force | 0.20% | ~1 |
-| Secure the bag | 0.20% | ~1 |
+| Lightning fast | 0.10% | ~1 |
+| Unstoppable Force | 0.10% | ~1 |
+| Secure the bag | 0.10% | ~1 |
 | Allaround speed demon | 0.00% | ~0 |
 | Simply the best | 0.00% | ~0 |
 | I don't take breaks, I break records | 0.00% | ~0 |
@@ -38,7 +38,7 @@
 | Winning streak | 0.00% | ~0 |
 | Finisher | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666 (Ranked 181)  
+Progressed: 667 (Ranked 180)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -47,7 +47,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-04-26 | 662 | 0 |
 | 2023-05-01 | 663 | 0 |
 | 2023-05-19 | 665 | 0 |
-| 2023-05-20 | 666 | 0 |
+| 2023-05-20 | 667 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

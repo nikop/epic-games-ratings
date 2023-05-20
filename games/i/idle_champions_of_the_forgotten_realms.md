@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rescue in the Jungle | 0.10% | ~88 |
 | Quick or Quack | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,018 (Ranked 59)  
+Progressed: 88,021 (Ranked 59)  
 Completed: 1,851 (2.10%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -530,7 +530,7 @@ Completed: 1,851 (2.10%) (Ranked 62)
 | 2023-05-17 | 87,802 | 1,849 |
 | 2023-05-18 | 87,918 | 1,850 |
 | 2023-05-19 | 88,008 | 1,851 |
-| 2023-05-20 | 88,018 | 1,851 |
+| 2023-05-20 | 88,021 | 1,851 |
 ## Awards
 Max (Diverse Characters): 4,888  (Ranked 63)  
 Sum: 29,923 (Ranked 37)  

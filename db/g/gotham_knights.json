@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1148,9 +1148,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61214,
+  "EOS_Progressed": 61233,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 409,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3008,6 +3008,11 @@
       "Time": "2023-05-20T02:03:47.1943129+00:00",
       "NumProgressed": 61214,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-20T03:05:19.1504252+00:00",
+      "NumProgressed": 61233,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3019,7 +3024,7 @@
       "Name": "Hammer and Icicle",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "AC1_HA_BREAK_BUFFS",
@@ -3027,7 +3032,7 @@
       "Name": "Element of Surprise",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "AC1_HA_DEFEAT_MOST_WANTED",
@@ -3035,7 +3040,7 @@
       "Name": "It\u0027s Nice to Be Wanted",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "AC1_HA_DEFEAT_VARIANTS",
@@ -3043,7 +3048,7 @@
       "Name": "Renewable Enemy Source",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "AC1_HA_RESERVOIR",
@@ -3051,7 +3056,7 @@
       "Name": "Crime Is a Terrible Thing to Waste",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "AC1_HA_STARLABS",
@@ -3059,7 +3064,7 @@
       "Name": "The Cold, the Bad and the Ugly",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ALL_HEROES_PLAYED",
@@ -3075,7 +3080,7 @@
       "Name": "Gotham\u0027s Greatest Depths",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ALL_SHOWDOWN",
@@ -3083,7 +3088,7 @@
       "Name": "Showdown Sovereign",
       "Percentage": 0.1,
       "XP": 90,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ALL_TRAINING_ROOMS",
@@ -3147,7 +3152,7 @@
       "Name": "That\u0027s Showbiz, Clayby",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "CRAFTING_LEGENDARY_SET",
@@ -3275,7 +3280,7 @@
       "Name": "Icebreaker",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "FREEZE_SHOWDOWN_2",
@@ -3283,7 +3288,7 @@
       "Name": "Don\u0027t Mecha Big Deal About It",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "GOTHAM_BATARANGS",
@@ -3355,7 +3360,7 @@
       "Name": "A Sophisticated Mallet",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "HERO_PROGRESSION_1",
@@ -3363,7 +3368,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -3491,7 +3496,7 @@
       "Name": "Confronting Your Demon",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "TIME_TRIALS_1",
@@ -3506,13 +3511,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61214,
+      "Progressed": 61233,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31494,
+      "Progressed": 31513,
       "Completed": 2640
     }
   ],
@@ -3520,8 +3525,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-19T11:00:31.9062538+00:00",
-  "LastChanged_Achievements": "2023-05-20T02:03:47.1943125+00:00",
+  "LastChanged_Achievements": "2023-05-20T03:05:19.1504247+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-20T01:57:23.5556998+00:00",
-  "LastUpdate_Achievements": "2023-05-20T02:03:47.1943865+00:00"
+  "LastUpdate_Ratings": "2023-05-20T02:59:05.2954238+00:00",
+  "LastUpdate_Achievements": "2023-05-20T03:05:19.1504963+00:00"
 }

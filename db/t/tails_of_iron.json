@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1397,
+  "EOS_Progressed": 1398,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -435,6 +435,11 @@
       "Time": "2023-05-20T02:00:38.2251896+00:00",
       "NumProgressed": 1397,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-20T03:02:45.3596902+00:00",
+      "NumProgressed": 1398,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -446,7 +451,7 @@
       "Name": "Become King",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 978
+      "UsersEstimate": 979
     },
     {
       "ID": "Collect20Gold",
@@ -470,7 +475,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "CollectAllStatues",
@@ -478,7 +483,7 @@
       "Name": "Return the Statues",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "CollectAllWeaponsAndGear",
@@ -510,7 +515,7 @@
       "Name": "Complete the Chefs Book",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "CompleteElderFaction",
@@ -534,7 +539,7 @@
       "Name": "Complete Ranger Faction",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "CompleteStoryDM",
@@ -550,7 +555,7 @@
       "Name": "Defeat Avor Warden of the Northern Wastes",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "DefeatMoziQueen",
@@ -574,7 +579,7 @@
       "Name": "Defeat Rattus Augustail",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "FixTheTravellersWagon",
@@ -590,15 +595,15 @@
       "Name": "Ranged Weapon",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "GetTHWeapon",
       "SetID": "9lj35g4",
       "Name": "Two Handed Weapon",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 740
+      "UsersEstimate": 755
     },
     {
       "ID": "Kill25Bugs",
@@ -606,7 +611,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "Kill25Frogs",
@@ -614,7 +619,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "Kill25Mozi",
@@ -638,7 +643,7 @@
       "Name": "Discover the mystery of the Kings Chambers",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "RepairChef",
@@ -685,22 +690,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1397,
+      "Progressed": 1398,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 38,
-      "Completed": 38
+      "Progressed": 39,
+      "Completed": 39
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-04-02T20:59:05.8070796+00:00",
-  "LastChanged_Achievements": "2023-05-20T02:00:38.2251891+00:00",
+  "LastChanged_Achievements": "2023-05-20T03:02:45.3596898+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3670256+00:00",
-  "LastUpdate_Ratings": "2023-05-20T01:55:52.898921+00:00",
-  "LastUpdate_Achievements": "2023-05-20T02:00:38.2252161+00:00"
+  "LastUpdate_Ratings": "2023-05-20T02:57:56.6071538+00:00",
+  "LastUpdate_Achievements": "2023-05-20T03:02:45.3597164+00:00"
 }

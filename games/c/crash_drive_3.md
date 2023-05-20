@@ -5,16 +5,16 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Brace for impact! | 35.00% | ~107 |
-| Baby's First Car | 32.00% | ~98 |
+| Baby's First Car | 33.00% | ~101 |
 | Amateur Mechanic | 32.00% | ~98 |
 | Pushover | 32.00% | ~98 |
 | A Forest Walk | 32.00% | ~98 |
+| Multiply that! | 31.00% | ~95 |
 | C-C-C-Combo! | 30.00% | ~92 |
-| Multiply that! | 30.00% | ~92 |
 | Snow Fun! | 28.00% | ~85 |
 | Fore! | 27.00% | ~82 |
+| The Collector | 27.00% | ~82 |
 | Insurance fraud | 27.00% | ~82 |
-| The Collector | 26.00% | ~79 |
 | To and Fro | 26.00% | ~79 |
 | The Wild West | 26.00% | ~79 |
 | Bag of Tricks | 26.00% | ~79 |
@@ -23,10 +23,10 @@
 | First Come, First Serve | 25.00% | ~76 |
 | Disoriented | 25.00% | ~76 |
 | Take that Frosty! | 25.00% | ~76 |
+| Goodbye cruel world | 25.00% | ~76 |
 | Beach Party! | 25.00% | ~76 |
 | In the Bag! | 25.00% | ~76 |
 | Anger Issues | 24.00% | ~73 |
-| Goodbye cruel world | 24.00% | ~73 |
 | Car-Tapult | 23.00% | ~70 |
 | Your Highness | 23.00% | ~70 |
 | Event Amateur | 22.00% | ~67 |

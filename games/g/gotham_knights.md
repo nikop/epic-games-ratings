@@ -5,7 +5,7 @@ Rating: 4.17 (Ranked 835)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 0.70% | ~428 |
+| First Step Into the Knight | 0.70% | ~429 |
 | Quartzer Life Crisis | 0.50% | ~306 |
 | Har, Har, Har, Very Funny | 0.50% | ~306 |
 | Get ReQ'd | 0.50% | ~306 |
@@ -43,31 +43,31 @@ Rating: 4.17 (Ranked 835)
 | A Worthy Successor | 0.20% | ~122 |
 | Gotham City Confidential | 0.20% | ~122 |
 | Solid Alibi | 0.20% | ~122 |
-| Hammer and Icicle | 0.10% | ~31 |
-| Element of Surprise | 0.10% | ~31 |
-| It's Nice to Be Wanted | 0.10% | ~31 |
-| Renewable Enemy Source | 0.10% | ~31 |
-| Crime Is a Terrible Thing to Waste | 0.10% | ~31 |
-| The Cold, the Bad and the Ugly | 0.10% | ~31 |
-| Gotham's Greatest Depths | 0.10% | ~31 |
-| Showdown Sovereign | 0.10% | ~31 |
+| Hammer and Icicle | 0.10% | ~32 |
+| Element of Surprise | 0.10% | ~32 |
+| It's Nice to Be Wanted | 0.10% | ~32 |
+| Renewable Enemy Source | 0.10% | ~32 |
+| Crime Is a Terrible Thing to Waste | 0.10% | ~32 |
+| The Cold, the Bad and the Ugly | 0.10% | ~32 |
+| Gotham's Greatest Depths | 0.10% | ~32 |
+| Showdown Sovereign | 0.10% | ~32 |
 | Practice Makes Perfect | 0.10% | ~61 |
-| That's Showbiz, Clayby | 0.10% | ~31 |
+| That's Showbiz, Clayby | 0.10% | ~32 |
 | Talonted | 0.10% | ~61 |
 | The Man-Bat Family | 0.10% | ~61 |
-| Icebreaker | 0.10% | ~31 |
-| Don't Mecha Big Deal About It | 0.10% | ~31 |
+| Icebreaker | 0.10% | ~32 |
+| Don't Mecha Big Deal About It | 0.10% | ~32 |
 | Batarang Collector | 0.10% | ~61 |
 | Read Owl About It | 0.10% | ~61 |
 | History Major | 0.10% | ~61 |
 | Claiming the Mural High Ground | 0.10% | ~61 |
-| A Sophisticated Mallet | 0.10% | ~31 |
+| A Sophisticated Mallet | 0.10% | ~32 |
 | He'd Be So Proud of You | 0.10% | ~61 |
 | A Momentum Occasion | 0.10% | ~61 |
-| Confronting Your Demon | 0.10% | ~31 |
+| Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,214 (Ranked 67)  
+Progressed: 61,233 (Ranked 67)  
 Completed: 91 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 91 (0.15%) (Ranked 148)
 | 2023-05-17 | 60,939 | 91 |
 | 2023-05-18 | 61,004 | 91 |
 | 2023-05-19 | 61,198 | 91 |
-| 2023-05-20 | 61,214 | 91 |
+| 2023-05-20 | 61,233 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,222  (Ranked 98)  
 Sum: 3,684 (Ranked 137)  

@@ -574,9 +574,9 @@
       "ID": "complete-deals",
       "SetID": "bed33dd",
       "Name": "Safe Pair of Hands",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 120
     },
     {
       "ID": "cool-shirts",
@@ -734,8 +734,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-05-20T02:03:38.9757268+00:00",
+  "LastChanged_Achievements": "2023-05-20T03:05:12.1514832+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:45.257987+00:00",
-  "LastUpdate_Ratings": "2023-05-20T01:57:45.9626058+00:00",
-  "LastUpdate_Achievements": "2023-05-20T02:03:38.9757422+00:00"
+  "LastUpdate_Ratings": "2023-05-20T02:59:23.6701988+00:00",
+  "LastUpdate_Achievements": "2023-05-20T03:05:12.1515163+00:00"
 }

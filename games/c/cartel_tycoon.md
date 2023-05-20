@@ -14,7 +14,7 @@ Number of Ratings: 101  (23.09.2022)
 | Didn't Miss A Single One | 45.00% | ~150 |
 | Spread | 40.00% | ~134 |
 | That was base | 39.00% | ~130 |
-| Safe Pair of Hands | 35.00% | ~117 |
+| Safe Pair of Hands | 36.00% | ~120 |
 | Don't Let Mom Know You're A Druglord | 30.00% | ~100 |
 | Architect of Fortunes | 25.00% | ~84 |
 | Pampered Life | 25.00% | ~84 |

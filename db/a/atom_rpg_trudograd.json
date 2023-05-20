@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 485,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -183,9 +183,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1025,
+  "EOS_Progressed": 1026,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -368,6 +368,11 @@
       "Time": "2023-05-19T19:23:48.0587613+00:00",
       "NumProgressed": 1025,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T03:04:47.5745825+00:00",
+      "NumProgressed": 1026,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -451,7 +456,7 @@
       "Name": "Fight Club",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "FREELANCE_POLICE",
@@ -483,7 +488,7 @@
       "Name": "Human Antidote",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "INCOMPETENCE",
@@ -627,14 +632,14 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1025,
+      "Progressed": 1026,
       "Completed": 0
     }
   ],
@@ -642,8 +647,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-04-29T21:56:53.0228715+00:00",
-  "LastChanged_Achievements": "2023-05-20T02:03:10.0646573+00:00",
+  "LastChanged_Achievements": "2023-05-20T03:04:47.5745821+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:06.2395841+00:00",
-  "LastUpdate_Ratings": "2023-05-20T01:54:46.043729+00:00",
-  "LastUpdate_Achievements": "2023-05-20T02:03:10.064683+00:00"
+  "LastUpdate_Ratings": "2023-05-20T02:57:03.7362281+00:00",
+  "LastUpdate_Achievements": "2023-05-20T03:04:47.5746042+00:00"
 }

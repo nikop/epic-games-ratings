@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1185,
+  "EOS_Progressed": 1186,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -485,6 +485,11 @@
       "Time": "2023-05-19T22:05:04.4223063+00:00",
       "NumProgressed": 1185,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-20T03:04:53.8184545+00:00",
+      "NumProgressed": 1186,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -528,7 +533,7 @@
       "Name": "A Mythic Menagerie",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "achievement_beatAllStoryCampaigns",
@@ -672,7 +677,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "achievement_mythwalker",
@@ -688,7 +693,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -800,7 +805,7 @@
       "Name": "Core Failure",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "enduringWar_destroyEnduring",
@@ -943,15 +948,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1185,
+      "Progressed": 1186,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-20T02:03:16.97135+00:00",
+  "LastChanged_Achievements": "2023-05-20T03:04:53.8184539+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:59.9959604+00:00",
-  "LastUpdate_Ratings": "2023-05-20T01:58:17.0876761+00:00",
-  "LastUpdate_Achievements": "2023-05-20T02:03:16.9714045+00:00"
+  "LastUpdate_Ratings": "2023-05-20T02:59:47.6775645+00:00",
+  "LastUpdate_Achievements": "2023-05-20T03:04:53.8185018+00:00"
 }

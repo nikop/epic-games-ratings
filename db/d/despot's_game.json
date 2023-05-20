@@ -5,9 +5,9 @@
   "Ranking_Rating": 534,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 201,
+  "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 360,
+  "EOS_Progressed": 361,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -90,6 +90,11 @@
       "Time": "2023-05-19T19:24:02.7569793+00:00",
       "NumProgressed": 360,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-20T03:05:02.6588224+00:00",
+      "NumProgressed": 361,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -139,17 +144,17 @@
       "ID": "collect-discounted-items2",
       "SetID": "799afm0",
       "Name": "Shopaholic",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 7
     },
     {
       "ID": "collect-sacrifices",
       "SetID": "799afm0",
       "Name": "No Mercy",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 144
     },
     {
       "ID": "different-items1",
@@ -173,7 +178,7 @@
       "Name": "Fat of the Earth",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "finished-quest-cube",
@@ -205,7 +210,7 @@
       "Name": "Feed a God",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "finished-quest-pit",
@@ -213,7 +218,7 @@
       "Name": "Assemble a Meganewbie",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "finished-quest-rat",
@@ -221,15 +226,15 @@
       "Name": "The Return of a Rat",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "finished-quest-reaper",
       "SetID": "799afm0",
       "Name": "Catch Jonathan_tostar",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 90
     },
     {
       "ID": "finished-quest-sci",
@@ -245,7 +250,7 @@
       "Name": "To the Moon and Back",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "finished-quest-sword",
@@ -269,7 +274,7 @@
       "Name": "He\u0027s Seen It All",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "last-hero",
@@ -283,9 +288,9 @@
       "ID": "save-zombie",
       "SetID": "799afm0",
       "Name": "Zombie Lover",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 7
     },
     {
       "ID": "unlock-chips",
@@ -309,7 +314,7 @@
       "Name": "Great Hero",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "win-first-biom",
@@ -317,7 +322,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "win-first-level",
@@ -357,7 +362,7 @@
       "Name": "Through the Darkness",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "win-with-3-cultists",
@@ -380,7 +385,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 360,
+      "Progressed": 361,
       "Completed": 1
     }
   ],
@@ -388,8 +393,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-05-20T02:03:27.6453647+00:00",
+  "LastChanged_Achievements": "2023-05-20T03:05:02.6588218+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:20.0092319+00:00",
-  "LastUpdate_Ratings": "2023-05-20T01:56:14.1198985+00:00",
-  "LastUpdate_Achievements": "2023-05-20T02:03:27.6453909+00:00"
+  "LastUpdate_Ratings": "2023-05-20T02:58:11.696547+00:00",
+  "LastUpdate_Achievements": "2023-05-20T03:05:02.6588477+00:00"
 }

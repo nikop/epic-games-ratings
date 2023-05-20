@@ -4,7 +4,7 @@
   "ProductSlug": "gripper-a6534b",
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-29T13:00:00+00:00",
@@ -195,9 +195,9 @@
       "ID": "ach_skin_changer",
       "SetID": "7flpkel",
       "Name": "Skinner",
-      "Percentage": 56,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ach_tunnel_anger_nodamage",
@@ -315,9 +315,9 @@
       "ID": "ach_win_shock",
       "SetID": "7flpkel",
       "Name": "Deal with Shock",
-      "Percentage": 56,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ach_win_tunnelrun",
@@ -356,8 +356,8 @@
   "FirstSeenRating": "2023-04-12T09:57:52.0824797+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.9769729+00:00",
   "LastChanged": "2023-04-12T09:57:52.0824798+00:00",
-  "LastChanged_Achievements": "2023-05-20T02:03:08.186174+00:00",
+  "LastChanged_Achievements": "2023-05-20T03:04:46.1087589+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:42.5401332+00:00",
-  "LastUpdate_Ratings": "2023-05-20T01:55:39.1093624+00:00",
-  "LastUpdate_Achievements": "2023-05-20T02:03:08.1862025+00:00"
+  "LastUpdate_Ratings": "2023-05-20T02:57:45.9695959+00:00",
+  "LastUpdate_Achievements": "2023-05-20T03:04:46.1087836+00:00"
 }

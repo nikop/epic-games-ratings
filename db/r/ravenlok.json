@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -1461,9 +1461,9 @@
       "ID": "19",
       "SetID": "d0g98p",
       "Name": "A Grand Visit",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 497
+      "UsersEstimate": 504
     },
     {
       "ID": "2",
@@ -1493,9 +1493,9 @@
       "ID": "22",
       "SetID": "d0g98p",
       "Name": "Heartbreaker",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 220
+      "UsersEstimate": 227
     },
     {
       "ID": "23",
@@ -1509,9 +1509,9 @@
       "ID": "24",
       "SetID": "d0g98p",
       "Name": "Kidnapped!",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 227
     },
     {
       "ID": "25",
@@ -1525,17 +1525,17 @@
       "ID": "26",
       "SetID": "d0g98p",
       "Name": "Ancient Wisdom",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 241
+      "UsersEstimate": 248
     },
     {
       "ID": "27",
       "SetID": "d0g98p",
       "Name": "Frog Facts!",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 248
     },
     {
       "ID": "28",
@@ -1549,9 +1549,9 @@
       "ID": "29",
       "SetID": "d0g98p",
       "Name": "All That Glistens",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 241
+      "UsersEstimate": 248
     },
     {
       "ID": "3",
@@ -1565,9 +1565,9 @@
       "ID": "30",
       "SetID": "d0g98p",
       "Name": "Gooey Delight!",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 277
     },
     {
       "ID": "31",
@@ -1581,9 +1581,9 @@
       "ID": "32",
       "SetID": "d0g98p",
       "Name": "The Guardian",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 263
     },
     {
       "ID": "33",
@@ -1621,9 +1621,9 @@
       "ID": "37",
       "SetID": "d0g98p",
       "Name": "Stronger!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 248
+      "UsersEstimate": 256
     },
     {
       "ID": "38",
@@ -1757,9 +1757,9 @@
       "ID": "7",
       "SetID": "d0g98p",
       "Name": "Fun Guy",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 426
+      "UsersEstimate": 433
     },
     {
       "ID": "8",
@@ -1790,8 +1790,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-20T02:03:07.2544473+00:00",
+  "LastChanged_Achievements": "2023-05-20T03:04:45.3061299+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:59.9943101+00:00",
-  "LastUpdate_Ratings": "2023-05-20T01:54:56.4724261+00:00",
-  "LastUpdate_Achievements": "2023-05-20T02:03:07.2545029+00:00"
+  "LastUpdate_Ratings": "2023-05-20T02:57:11.8606532+00:00",
+  "LastUpdate_Achievements": "2023-05-20T03:04:45.3061808+00:00"
 }

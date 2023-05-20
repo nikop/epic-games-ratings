@@ -9,9 +9,9 @@
 | Into the Barn | 86.00% | ~611 |
 | A Prophecy | 85.00% | ~604 |
 | Sword, Shield, Fight! | 75.00% | ~532 |
-| A Grand Visit | 70.00% | ~497 |
+| A Grand Visit | 71.00% | ~504 |
 | Vibing | 61.00% | ~433 |
-| Fun Guy | 60.00% | ~426 |
+| Fun Guy | 61.00% | ~433 |
 | Tragic Brave | 51.00% | ~362 |
 | Awakened Spirits | 48.00% | ~341 |
 | Little Shop | 47.00% | ~334 |
@@ -19,25 +19,25 @@
 | An Actor! | 43.00% | ~305 |
 | Curtain Call | 41.00% | ~291 |
 | Piece of Cake | 39.00% | ~277 |
-| Gooey Delight! | 38.00% | ~270 |
+| Gooey Delight! | 39.00% | ~277 |
 | Glimmer of Hope | 38.00% | ~270 |
 | Teacups for Toppy | 38.00% | ~270 |
 | Well Rested | 38.00% | ~270 |
 | Nightmare Fuel | 37.00% | ~263 |
 | Take Heart | 37.00% | ~263 |
-| The Guardian | 36.00% | ~256 |
-| Stronger! | 35.00% | ~248 |
-| Ancient Wisdom | 34.00% | ~241 |
-| Frog Facts! | 34.00% | ~241 |
-| All That Glistens | 34.00% | ~241 |
+| The Guardian | 37.00% | ~263 |
+| Stronger! | 36.00% | ~256 |
+| Ancient Wisdom | 35.00% | ~248 |
+| Frog Facts! | 35.00% | ~248 |
+| All That Glistens | 35.00% | ~248 |
 | It's Pointy! | 34.00% | ~241 |
 | Spellbound | 33.00% | ~234 |
 | All Skilled Up! | 33.00% | ~234 |
 | Extinct Again! | 32.00% | ~227 |
 | Bird of Prey | 32.00% | ~227 |
 | Stardust | 32.00% | ~227 |
-| Heartbreaker | 31.00% | ~220 |
-| Kidnapped! | 31.00% | ~220 |
+| Heartbreaker | 32.00% | ~227 |
+| Kidnapped! | 32.00% | ~227 |
 | Pull the Plug | 30.00% | ~213 |
 | All Heart | 30.00% | ~213 |
 | Trick Question! | 30.00% | ~213 |

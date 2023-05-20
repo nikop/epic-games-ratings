@@ -2,7 +2,7 @@
   "ID": "25163a0f3c9d47d38afe753d53fd27bb",
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
-  "Ranking_EOS_Progress": 237,
+  "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 45,
   "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 28,
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 160,
+  "EOS_Progressed": 162,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 3.12,
+  "EOS_Completed_Percentage": 3.09,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -216,6 +216,11 @@
       "Time": "2023-05-20T02:00:33.2459728+00:00",
       "NumProgressed": 160,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-20T03:02:41.1118268+00:00",
+      "NumProgressed": 162,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 30,
@@ -227,7 +232,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 156
     },
     {
       "ID": "LEVEL_002",
@@ -235,7 +240,7 @@
       "Name": "Promising crop",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 130
     },
     {
       "ID": "LEVEL_003",
@@ -243,15 +248,15 @@
       "Name": "A horse in the country",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "LEVEL_004",
       "SetID": "212bg48",
       "Name": "Life is better at the lake",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 84
     },
     {
       "ID": "LEVEL_005",
@@ -259,7 +264,7 @@
       "Name": "Small village",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "LEVEL_006",
@@ -281,9 +286,9 @@
       "ID": "LEVEL_008",
       "SetID": "212bg48",
       "Name": "Let\u0027s go to the market",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 45
     },
     {
       "ID": "LEVEL_009",
@@ -315,15 +320,15 @@
       "Name": "Vegetables on rails",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "LEVEL_013",
       "SetID": "212bg48",
       "Name": "Higher ground",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "LEVEL_014",
@@ -337,9 +342,9 @@
       "ID": "LEVEL_015",
       "SetID": "212bg48",
       "Name": "Flatland",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "LEVEL_016",
@@ -363,7 +368,7 @@
       "Name": "Isle rock city",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "LEVEL_019",
@@ -371,7 +376,7 @@
       "Name": "Calling Mr. Joe",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "LEVEL_020",
@@ -385,9 +390,9 @@
       "ID": "LEVEL_021",
       "SetID": "212bg48",
       "Name": "Island in the center of the island",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "LEVEL_022",
@@ -441,17 +446,17 @@
       "ID": "LEVEL_028",
       "SetID": "212bg48",
       "Name": "What is the country?",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 55,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "LEVEL_029",
       "SetID": "212bg48",
       "Name": "Bridges connect us",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 55,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "LEVEL_030",
@@ -466,14 +471,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 160,
+      "Progressed": 162,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-20T02:00:33.2459723+00:00",
+  "LastChanged_Achievements": "2023-05-20T03:02:41.1118263+00:00",
   "LastUpdate_AppInfo": "2023-05-15T11:57:23.4437098+00:00",
-  "LastUpdate_Ratings": "2023-05-20T01:54:31.5540865+00:00",
-  "LastUpdate_Achievements": "2023-05-20T02:00:33.2459975+00:00"
+  "LastUpdate_Ratings": "2023-05-20T02:56:53.6498182+00:00",
+  "LastUpdate_Achievements": "2023-05-20T03:02:41.1118602+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Far Cry New Dawn Standard Edition",
   "ProductSlug": "far-cry-new-dawn",
   "Ranking_Rating": 645,
-  "Ranking_Popularity": 264,
+  "Ranking_Popularity": 265,
   "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2019-02-15T16:00:00+00:00",
@@ -628,6 +628,6 @@
   "FirstSeen": "2022-07-22T20:19:24.3746385+00:00",
   "LastChanged": "2023-05-17T23:59:51.6089092+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:55.9398438+00:00",
-  "LastUpdate_Ratings": "2023-05-20T01:57:32.8494502+00:00",
-  "LastUpdate_Achievements": "2023-05-20T02:01:21.9549894+00:00"
+  "LastUpdate_Ratings": "2023-05-20T02:59:13.5386519+00:00",
+  "LastUpdate_Achievements": "2023-05-20T03:03:23.4501172+00:00"
 }

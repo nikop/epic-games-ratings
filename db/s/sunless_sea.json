@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
@@ -643,9 +643,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 29465,
+  "EOS_Progressed": 29467,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 559,
+  "EOS_NewPlayers": 556,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3363,6 +3363,11 @@
       "Time": "2023-05-20T01:58:25.2045429+00:00",
       "NumProgressed": 29465,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-20T02:59:54.9578145+00:00",
+      "NumProgressed": 29467,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -3494,7 +3499,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 10607
+      "UsersEstimate": 10608
     },
     {
       "ID": "ach_die10",
@@ -3742,7 +3747,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 4714
+      "UsersEstimate": 4715
     },
     {
       "ID": "ach_undercurrent",
@@ -3805,15 +3810,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 29465,
+      "Progressed": 29467,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-05-16T03:00:31.6712899+00:00",
-  "LastChanged_Achievements": "2023-05-20T01:58:25.2045423+00:00",
+  "LastChanged_Achievements": "2023-05-20T02:59:54.9578139+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:16.1571391+00:00",
-  "LastUpdate_Ratings": "2023-05-20T01:57:16.7347119+00:00",
-  "LastUpdate_Achievements": "2023-05-20T01:58:25.2046329+00:00"
+  "LastUpdate_Ratings": "2023-05-20T02:58:59.3759087+00:00",
+  "LastUpdate_Achievements": "2023-05-20T02:59:54.9578821+00:00"
 }

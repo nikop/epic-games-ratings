@@ -94,9 +94,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2048,
+  "EOS_Progressed": 2049,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1489,6 +1489,11 @@
       "Time": "2023-05-19T22:05:04.6629076+00:00",
       "NumProgressed": 2048,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-20T03:04:54.2668621+00:00",
+      "NumProgressed": 2049,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1564,7 +1569,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1946
+      "UsersEstimate": 1947
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1580,7 +1585,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1577
+      "UsersEstimate": 1578
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -1604,7 +1609,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -1620,15 +1625,15 @@
       "Name": "Past trauma",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
       "SetID": "3pe2bac",
       "Name": "Little light",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 369
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -1636,7 +1641,7 @@
       "Name": "Old friend",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -1676,7 +1681,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1557
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -1684,7 +1689,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1884
+      "UsersEstimate": 1885
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1716,7 +1721,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1557
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -1724,7 +1729,7 @@
       "Name": "Thornbarrow",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -1732,7 +1737,7 @@
       "Name": "Clarion Cove",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -1836,7 +1841,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -1876,7 +1881,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 1495
+      "UsersEstimate": 1496
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -1923,7 +1928,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2048,
+      "Progressed": 2049,
       "Completed": 1
     }
   ],
@@ -1931,8 +1936,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-17T18:57:40.491639+00:00",
-  "LastChanged_Achievements": "2023-05-20T02:03:17.5706998+00:00",
+  "LastChanged_Achievements": "2023-05-20T03:04:54.2668616+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:08.2361804+00:00",
-  "LastUpdate_Ratings": "2023-05-20T01:55:07.5821818+00:00",
-  "LastUpdate_Achievements": "2023-05-20T02:03:17.5707539+00:00"
+  "LastUpdate_Ratings": "2023-05-20T02:57:19.9085902+00:00",
+  "LastUpdate_Achievements": "2023-05-20T03:04:54.2669163+00:00"
 }

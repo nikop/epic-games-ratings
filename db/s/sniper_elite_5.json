@@ -176,9 +176,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 839,
+  "EOS_Progressed": 844,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -731,6 +731,11 @@
       "Time": "2023-05-20T02:03:13.9644105+00:00",
       "NumProgressed": 839,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-20T03:04:50.9146221+00:00",
+      "NumProgressed": 844,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -868,9 +873,9 @@
       "ID": "REWARD_25_SKIRMISHER",
       "SetID": "bm6el81",
       "Name": "Skirmisher",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -972,9 +977,9 @@
       "ID": "REWARD_38_DER_GEIST",
       "SetID": "bm6el81",
       "Name": "Der Geist",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -996,9 +1001,9 @@
       "ID": "REWARD_40_CLOSE_QUARTERS",
       "SetID": "bm6el81",
       "Name": "Close Quarters",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -1076,9 +1081,9 @@
       "ID": "REWARD_5_BUNKER_BUSTER",
       "SetID": "bm6el81",
       "Name": "Change the Channel",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -1309,13 +1314,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 790,
+      "Progressed": 795,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 839,
+      "Progressed": 844,
       "Completed": 2
     }
   ],
@@ -1323,8 +1328,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-18T16:01:31.1520338+00:00",
-  "LastChanged_Achievements": "2023-05-20T02:03:13.96441+00:00",
+  "LastChanged_Achievements": "2023-05-20T03:04:50.9146214+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-20T01:58:11.9504028+00:00",
-  "LastUpdate_Achievements": "2023-05-20T02:03:13.9644729+00:00"
+  "LastUpdate_Ratings": "2023-05-20T02:59:43.7656551+00:00",
+  "LastUpdate_Achievements": "2023-05-20T03:04:50.914683+00:00"
 }

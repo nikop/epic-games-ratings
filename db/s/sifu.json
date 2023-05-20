@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 64,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4116,9 +4116,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 703606,
+  "EOS_Progressed": 703626,
   "EOS_Completed": 12731,
-  "EOS_NewPlayers": 744,
+  "EOS_NewPlayers": 763,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -6411,6 +6411,11 @@
       "Time": "2023-05-20T02:03:33.930634+00:00",
       "NumProgressed": 703606,
       "NumCompleted": 12731
+    },
+    {
+      "Time": "2023-05-20T03:05:07.9348718+00:00",
+      "NumProgressed": 703626,
+      "NumCompleted": 12731
     }
   ],
   "TotalAchievements": 50,
@@ -6470,7 +6475,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 2814
+      "UsersEstimate": 2815
     },
     {
       "ID": "08_Wude_H2",
@@ -6478,7 +6483,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 2814
+      "UsersEstimate": 2815
     },
     {
       "ID": "09_Wude_H3",
@@ -6486,7 +6491,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 2814
+      "UsersEstimate": 2815
     },
     {
       "ID": "10_Wude_H4",
@@ -6494,7 +6499,7 @@
       "Name": "Iron Money",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 2814
+      "UsersEstimate": 2815
     },
     {
       "ID": "11_Wude_H5",
@@ -6534,7 +6539,7 @@
       "Name": "Detective Story",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2814
+      "UsersEstimate": 2815
     },
     {
       "ID": "16_Detective_H2",
@@ -6622,7 +6627,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6332
+      "UsersEstimate": 6333
     },
     {
       "ID": "27_ShrineBody",
@@ -6654,7 +6659,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 2814
+      "UsersEstimate": 2815
     },
     {
       "ID": "31_ComboHigh",
@@ -6668,9 +6673,9 @@
       "ID": "32_ReachMaxAge",
       "SetID": "adcm20g",
       "Name": "Old Child",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3518
+      "UsersEstimate": 4222
     },
     {
       "ID": "33_BladeOneShot",
@@ -6758,7 +6763,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -6766,7 +6771,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -6790,7 +6795,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -6821,21 +6826,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 12907,
+      "Progressed": 12927,
       "Completed": 10124
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 703606,
+      "Progressed": 703626,
       "Completed": 12731
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-19T22:59:24.2093818+00:00",
-  "LastChanged_Achievements": "2023-05-20T02:03:33.9306335+00:00",
+  "LastChanged_Achievements": "2023-05-20T03:05:07.9348713+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.7579865+00:00",
-  "LastUpdate_Ratings": "2023-05-20T01:56:37.2625084+00:00",
-  "LastUpdate_Achievements": "2023-05-20T02:03:33.9306902+00:00"
+  "LastUpdate_Ratings": "2023-05-20T02:58:28.1749989+00:00",
+  "LastUpdate_Achievements": "2023-05-20T03:05:07.9349243+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "aeon-must-die",
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 2637,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3466,
+  "EOS_Progressed": 3467,
   "EOS_Completed": -29,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": -0.84,
   "EosHistory": [
@@ -70,6 +70,11 @@
     {
       "Time": "2023-05-19T13:09:08.9501438+00:00",
       "NumProgressed": 3466,
+      "NumCompleted": -29
+    },
+    {
+      "Time": "2023-05-20T03:04:44.3220248+00:00",
+      "NumProgressed": 3467,
       "NumCompleted": -29
     }
   ],
@@ -232,9 +237,9 @@
       "ID": "27",
       "SetID": "5cfan5f",
       "Name": "Not Afraid Of The Dark",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 35
     },
     {
       "ID": "28",
@@ -361,7 +366,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3466,
+      "Progressed": 3467,
       "Completed": -29
     }
   ],
@@ -369,8 +374,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2023-05-20T02:03:06.0013339+00:00",
+  "LastChanged_Achievements": "2023-05-20T03:04:44.3220243+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:02.3025092+00:00",
-  "LastUpdate_Ratings": "2023-05-20T01:54:41.0960825+00:00",
-  "LastUpdate_Achievements": "2023-05-20T02:03:06.0013624+00:00"
+  "LastUpdate_Ratings": "2023-05-20T02:56:59.9579609+00:00",
+  "LastUpdate_Achievements": "2023-05-20T03:04:44.3220502+00:00"
 }

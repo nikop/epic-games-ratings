@@ -564,17 +564,17 @@
       "ID": "ACHIEVEMENTS_08",
       "SetID": "d4o538a",
       "Name": "The First Step",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1121
     },
     {
       "ID": "ACHIEVEMENTS_09",
       "SetID": "d4o538a",
       "Name": "Rookie Chemist",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 768
+      "UsersEstimate": 781
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -821,8 +821,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-05-03T21:59:55.8094288+00:00",
-  "LastChanged_Achievements": "2023-05-20T02:03:44.5633531+00:00",
+  "LastChanged_Achievements": "2023-05-20T03:05:16.9463793+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:30.0956385+00:00",
-  "LastUpdate_Ratings": "2023-05-20T01:58:02.8751431+00:00",
-  "LastUpdate_Achievements": "2023-05-20T02:03:44.5633999+00:00"
+  "LastUpdate_Ratings": "2023-05-20T02:59:36.5782584+00:00",
+  "LastUpdate_Achievements": "2023-05-20T03:05:16.9464214+00:00"
 }

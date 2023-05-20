@@ -234,9 +234,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 185371,
+  "EOS_Progressed": 185381,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1000,
+  "EOS_NewPlayers": 1001,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3049,6 +3049,11 @@
       "Time": "2023-05-20T02:03:27.3082523+00:00",
       "NumProgressed": 185371,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-20T03:05:02.4357361+00:00",
+      "NumProgressed": 185381,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -3068,7 +3073,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 131613
+      "UsersEstimate": 131621
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -3092,7 +3097,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 33367
+      "UsersEstimate": 33369
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -3164,7 +3169,7 @@
       "Name": "Tag Team Champions",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 3707
+      "UsersEstimate": 3708
     },
     {
       "ID": "ACH_WIN_COOP_NODAMAGE_SIEGE",
@@ -3187,7 +3192,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 185371,
+      "Progressed": 185381,
       "Completed": 4
     }
   ],
@@ -3195,8 +3200,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-05-15T19:58:59.1456321+00:00",
-  "LastChanged_Achievements": "2023-05-20T02:03:27.3082519+00:00",
+  "LastChanged_Achievements": "2023-05-20T03:05:02.4357356+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:05:12.9175208+00:00",
-  "LastUpdate_Ratings": "2023-05-20T01:57:22.8769197+00:00",
-  "LastUpdate_Achievements": "2023-05-20T02:03:27.3082894+00:00"
+  "LastUpdate_Ratings": "2023-05-20T02:59:04.3570481+00:00",
+  "LastUpdate_Achievements": "2023-05-20T03:05:02.4357639+00:00"
 }

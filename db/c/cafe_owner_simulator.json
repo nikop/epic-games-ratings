@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 300,
+  "EOS_Progressed": 301,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -358,6 +358,11 @@
       "Time": "2023-05-20T02:03:23.7387496+00:00",
       "NumProgressed": 300,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T03:04:59.3791222+00:00",
+      "NumProgressed": 301,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -377,7 +382,7 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "CHIEF",
@@ -391,9 +396,9 @@
       "ID": "CLEANER",
       "SetID": "64e5lgf",
       "Name": "CLEANER",
-      "Percentage": 93,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 279
+      "UsersEstimate": 277
     },
     {
       "ID": "DEBTOR",
@@ -433,7 +438,7 @@
       "Name": "OH NO, HE\u0027S LEAVING!",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "INTRODUCTION",
@@ -480,7 +485,7 @@
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 300,
+      "Progressed": 301,
       "Completed": 0
     }
   ],
@@ -488,8 +493,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-05-20T02:03:23.7387492+00:00",
+  "LastChanged_Achievements": "2023-05-20T03:04:59.3791216+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:57.2732477+00:00",
-  "LastUpdate_Ratings": "2023-05-20T01:57:04.5229841+00:00",
-  "LastUpdate_Achievements": "2023-05-20T02:03:23.7387629+00:00"
+  "LastUpdate_Ratings": "2023-05-20T02:58:50.3732123+00:00",
+  "LastUpdate_Achievements": "2023-05-20T03:04:59.3791339+00:00"
 }

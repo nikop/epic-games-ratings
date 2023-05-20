@@ -1,7 +1,7 @@
 # Medieval Dynasty
 [Store](https://store.epicgames.com/en-US/p/medieval-dynasty)  
 [View Rawdata](../../db/m/medieval_dynasty.json)  
-Rating: 4.65 (Ranked 292)  
+Rating: 4.66 (Ranked 273)  
 Number of Ratings: 722  (23.09.2022)  
 ## Awards
 Max (Amazing Storytelling): 48  (Ranked 392)  
@@ -106,3 +106,4 @@ Diff (max vs sum): 85
 | 2023-04-30 | 4.65 | - | 48 | 384 |
 | 2023-05-02 | 4.65 | - | 48 | 385 |
 | 2023-05-06 | 4.65 | - | 48 | 386 |
+| 2023-05-20 | 4.66 | - | 48 | 386 |

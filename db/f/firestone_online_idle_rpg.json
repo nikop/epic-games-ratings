@@ -2126,9 +2126,9 @@
       "ID": "guildpower",
       "SetID": "3nl4bcg",
       "Name": "Guild Power",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 251
+      "UsersEstimate": 262
     },
     {
       "ID": "herewegoagain",
@@ -2503,8 +2503,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-18T22:58:45.6795503+00:00",
-  "LastChanged_Achievements": "2023-05-20T02:03:24.9355082+00:00",
+  "LastChanged_Achievements": "2023-05-20T03:05:00.3771111+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:34.8363446+00:00",
-  "LastUpdate_Ratings": "2023-05-20T01:55:29.5553922+00:00",
-  "LastUpdate_Achievements": "2023-05-20T02:03:24.9356545+00:00"
+  "LastUpdate_Ratings": "2023-05-20T02:57:37.865141+00:00",
+  "LastUpdate_Achievements": "2023-05-20T03:05:00.3771839+00:00"
 }
