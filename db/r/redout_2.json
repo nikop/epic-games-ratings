@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 972,
+  "EOS_Progressed": 973,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -172,6 +172,11 @@
     {
       "Time": "2023-05-20T10:05:05.1677379+00:00",
       "NumProgressed": 972,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T12:05:56.9172259+00:00",
+      "NumProgressed": 973,
       "NumCompleted": 0
     }
   ],
@@ -288,7 +293,7 @@
       "Name": "To the core",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ALLTRACKSTOKYO",
@@ -336,7 +341,7 @@
       "Name": "Enter the Speed Gauntlet",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -408,7 +413,7 @@
       "Name": "Blurred photofinish",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "FINISHSOUND",
@@ -480,7 +485,7 @@
       "Name": "I just can\u0027t choose",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ONELIVERY",
@@ -599,7 +604,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 972,
+      "Progressed": 973,
       "Completed": 0
     }
   ],
@@ -607,8 +612,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-05-20T11:05:51.2749556+00:00",
+  "LastChanged_Achievements": "2023-05-20T12:05:56.9172255+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:42.1539132+00:00",
-  "LastUpdate_Ratings": "2023-05-20T10:58:20.9790829+00:00",
-  "LastUpdate_Achievements": "2023-05-20T11:05:51.2749961+00:00"
+  "LastUpdate_Ratings": "2023-05-20T11:58:10.4871156+00:00",
+  "LastUpdate_Achievements": "2023-05-20T12:05:56.9172606+00:00"
 }

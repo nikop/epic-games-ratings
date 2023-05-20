@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
@@ -421,9 +421,9 @@
       "ID": "AchievementBeginner",
       "SetID": "76o014g",
       "Name": "Beginner",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 7
+      "UsersEstimate": 14
     },
     {
       "ID": "AchievementBridgeBuilder",
@@ -963,8 +963,8 @@
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-05-04T07:57:22.9551284+00:00",
-  "LastChanged_Achievements": "2023-05-20T11:05:53.0729446+00:00",
+  "LastChanged_Achievements": "2023-05-20T12:05:58.4600227+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:00.6806293+00:00",
-  "LastUpdate_Ratings": "2023-05-20T10:57:36.9081035+00:00",
-  "LastUpdate_Achievements": "2023-05-20T11:05:53.0730236+00:00"
+  "LastUpdate_Ratings": "2023-05-20T11:57:20.282749+00:00",
+  "LastUpdate_Achievements": "2023-05-20T12:05:58.4600971+00:00"
 }

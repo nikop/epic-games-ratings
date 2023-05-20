@@ -4,7 +4,7 @@
   "ProductSlug": "lamoneo-2fb334",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-19T16:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-19T19:02:19.6563064+00:00",
-  "LastUpdate_Ratings": "2023-05-20T10:59:19.2967708+00:00",
-  "LastUpdate_Achievements": "2023-05-20T11:04:27.0791473+00:00"
+  "LastUpdate_Ratings": "2023-05-20T11:59:14.5409038+00:00",
+  "LastUpdate_Achievements": "2023-05-20T12:04:33.8817204+00:00"
 }

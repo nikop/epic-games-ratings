@@ -6,15 +6,15 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 86.00% | ~1,310 |
+| Unforgiven | 86.00% | ~1,311 |
 | Self-Improvement | 72.00% | ~1,097 |
-| Perky | 66.00% | ~1,005 |
+| Perky | 66.00% | ~1,006 |
 | Let’s Ride | 60.00% | ~914 |
-| Welcome to the Weird West | 58.00% | ~883 |
+| Welcome to the Weird West | 58.00% | ~884 |
 | Dead or Alive | 56.00% | ~853 |
 | Full House | 37.00% | ~564 |
 | Off the Trail | 34.00% | ~518 |
-| Justice Served | 28.00% | ~426 |
+| Justice Served | 28.00% | ~427 |
 | Chain Reaction | 27.00% | ~411 |
 | Dishonored | 25.00% | ~381 |
 | Rain of Death | 25.00% | ~381 |
@@ -25,7 +25,7 @@ Number of Ratings: 125  (23.09.2022)
 | Fallen Star | 16.00% | ~244 |
 | For Balance | 16.00% | ~244 |
 | Winds of War | 16.00% | ~244 |
-| Here Comes Santa Claus | 15.00% | ~228 |
+| Here Comes Santa Claus | 15.00% | ~229 |
 | Dog Days | 13.00% | ~198 |
 | Workers' Rights | 13.00% | ~198 |
 | Elusive Prey | 12.00% | ~183 |
@@ -48,8 +48,8 @@ Number of Ratings: 125  (23.09.2022)
 | This Is Sparta | 5.00% | ~76 |
 | What’s in the Box? | 5.00% | ~76 |
 | Ghost Town | 3.00% | ~46 |
+| Lord Inut Sends His Regards | 3.00% | ~46 |
 | Moondrunk | 3.00% | ~46 |
-| Lord Inut Sends His Regards | 2.00% | ~30 |
 | I Kicked a Bird and I Liked it | 1.00% | ~15 |
 | Hog Wild | 1.00% | ~15 |
 | 'Ma Barker | 1.00% | ~15 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.30% | ~5 |
 | Revenant | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,523 (Ranked 153)  
+Progressed: 1,524 (Ranked 153)  
 Completed: 2 (0.13%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 2 (0.13%) (Ranked 154)
 | 2023-05-17 | 1,513 | 2 |
 | 2023-05-18 | 1,514 | 2 |
 | 2023-05-19 | 1,520 | 2 |
-| 2023-05-20 | 1,523 | 2 |
+| 2023-05-20 | 1,524 | 2 |
 ## Awards
 Max (Impact the Story): 23  (Ranked 469)  
 Sum: 23 (Ranked 471)  

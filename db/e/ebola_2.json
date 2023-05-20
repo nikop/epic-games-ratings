@@ -711,9 +711,9 @@
       "ID": "achMeat",
       "SetID": "1al1mjg",
       "Name": "Scent of Meat \u2714",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "achSaveses",
@@ -751,9 +751,9 @@
       "ID": "achWitch",
       "SetID": "1al1mjg",
       "Name": "Witch \u2714",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     }
   ],
   "AchievementSets": [
@@ -766,8 +766,8 @@
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-05-20T11:03:53.9837028+00:00",
+  "LastChanged_Achievements": "2023-05-20T12:03:51.3615321+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:00.6189303+00:00",
-  "LastUpdate_Ratings": "2023-05-20T10:57:16.9473174+00:00",
-  "LastUpdate_Achievements": "2023-05-20T11:03:53.9837213+00:00"
+  "LastUpdate_Ratings": "2023-05-20T11:56:59.7612569+00:00",
+  "LastUpdate_Achievements": "2023-05-20T12:03:51.3615508+00:00"
 }

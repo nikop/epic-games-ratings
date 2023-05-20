@@ -24,6 +24,7 @@ Number of Ratings: 87  (23.09.2022)
 | Star Sapphire | 3.00% | ~2 |
 | Trapiche Emerald | 3.00% | ~2 |
 | Upgrade complete | 3.00% | ~21 |
+| Beginner | 2.00% | ~14 |
 | Bridgemania | 2.00% | ~14 |
 | Critical care | 2.00% | ~14 |
 | Get out my way | 2.00% | ~14 |
@@ -32,7 +33,6 @@ Number of Ratings: 87  (23.09.2022)
 | Steam Age | 2.00% | ~14 |
 | The Tortoise | 2.00% | ~14 |
 | Without a lunch break | 2.00% | ~14 |
-| Beginner | 1.00% | ~7 |
 | Bridge builder | 1.00% | ~7 |
 | Electrical Age | 1.00% | ~7 |
 | Engineer | 1.00% | ~7 |

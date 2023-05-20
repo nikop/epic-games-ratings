@@ -4,7 +4,7 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 38,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 454,
+  "EOS_Progressed": 455,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.52,
   "EosHistory": [
@@ -82,6 +82,11 @@
       "Time": "2023-05-15T22:07:04.7917336+00:00",
       "NumProgressed": 454,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-05-20T12:06:14.5265445+00:00",
+      "NumProgressed": 455,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 20,
@@ -101,7 +106,7 @@
       "Name": "Blast From The Past",
       "Percentage": 87,
       "XP": 25,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "deadly_secret",
@@ -141,7 +146,7 @@
       "Name": "The Promise",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ending_5",
@@ -221,7 +226,7 @@
       "Name": "People Pleaser",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "storage_hunter",
@@ -229,7 +234,7 @@
       "Name": "Storage Hunter",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "the_rebel_and_the_doctor",
@@ -237,7 +242,7 @@
       "Name": "The Rebel And The Doctor",
       "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "tough_decision",
@@ -245,14 +250,14 @@
       "Name": "Tough Decision",
       "Percentage": 95,
       "XP": 50,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 454,
+      "Progressed": 455,
       "Completed": 16
     }
   ],
@@ -260,8 +265,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-05-20T11:06:09.5657983+00:00",
+  "LastChanged_Achievements": "2023-05-20T12:06:14.5265441+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:01.9428381+00:00",
-  "LastUpdate_Ratings": "2023-05-20T10:57:18.9342265+00:00",
-  "LastUpdate_Achievements": "2023-05-20T11:06:09.5658157+00:00"
+  "LastUpdate_Ratings": "2023-05-20T11:57:01.1316073+00:00",
+  "LastUpdate_Achievements": "2023-05-20T12:06:14.526556+00:00"
 }

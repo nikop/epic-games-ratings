@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46439,
+  "EOS_Progressed": 46443,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 299,
+  "EOS_NewPlayers": 301,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1971,6 +1971,11 @@
       "Time": "2023-05-20T11:05:44.2013735+00:00",
       "NumProgressed": 46439,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-05-20T12:05:50.020691+00:00",
+      "NumProgressed": 46443,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 67,
@@ -1982,7 +1987,7 @@
       "Name": "Follow the Light",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9288
+      "UsersEstimate": 9289
     },
     {
       "ID": "02",
@@ -1990,7 +1995,7 @@
       "Name": "Nordic Walking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6037
+      "UsersEstimate": 6038
     },
     {
       "ID": "03",
@@ -1998,7 +2003,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6037
+      "UsersEstimate": 6038
     },
     {
       "ID": "04",
@@ -2014,7 +2019,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5108
+      "UsersEstimate": 5109
     },
     {
       "ID": "06",
@@ -2086,7 +2091,7 @@
       "Name": "Gatekeeper",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2786
+      "UsersEstimate": 2787
     },
     {
       "ID": "15",
@@ -2094,7 +2099,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2786
+      "UsersEstimate": 2787
     },
     {
       "ID": "16",
@@ -2214,7 +2219,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2786
+      "UsersEstimate": 2787
     },
     {
       "ID": "31",
@@ -2230,7 +2235,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7430
+      "UsersEstimate": 7431
     },
     {
       "ID": "33",
@@ -2246,7 +2251,7 @@
       "Name": "Energized!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2786
+      "UsersEstimate": 2787
     },
     {
       "ID": "35",
@@ -2254,7 +2259,7 @@
       "Name": "Let There Be Light",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7430
+      "UsersEstimate": 7431
     },
     {
       "ID": "36",
@@ -2390,7 +2395,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "53",
@@ -2446,7 +2451,7 @@
       "Name": "Ding!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "60",
@@ -2517,21 +2522,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46439,
+      "Progressed": 46443,
       "Completed": 45
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9907,
+      "Progressed": 9911,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-20T11:05:44.2013728+00:00",
+  "LastChanged_Achievements": "2023-05-20T12:05:50.0206906+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:07.5579983+00:00",
-  "LastUpdate_Ratings": "2023-05-20T10:57:45.2961607+00:00",
-  "LastUpdate_Achievements": "2023-05-20T11:05:44.201455+00:00"
+  "LastUpdate_Ratings": "2023-05-20T11:57:28.8242589+00:00",
+  "LastUpdate_Achievements": "2023-05-20T12:05:50.0207473+00:00"
 }

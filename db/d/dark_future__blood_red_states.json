@@ -4,7 +4,7 @@
   "ProductSlug": "dark-future-blood-red-states",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-07-20T11:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:29.5972529+00:00",
   "LastChanged": "2023-03-31T05:58:29.597253+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:31.5869409+00:00",
-  "LastUpdate_Ratings": "2023-05-20T10:59:32.6199822+00:00",
-  "LastUpdate_Achievements": "2023-05-20T11:03:11.4199385+00:00"
+  "LastUpdate_Ratings": "2023-05-20T11:59:30.8530098+00:00",
+  "LastUpdate_Achievements": "2023-05-20T12:02:39.1559094+00:00"
 }

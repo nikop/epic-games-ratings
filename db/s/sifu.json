@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 65,
   "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4128,9 +4128,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 703834,
+  "EOS_Progressed": 703860,
   "EOS_Completed": 12731,
-  "EOS_NewPlayers": 960,
+  "EOS_NewPlayers": 986,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -6468,6 +6468,11 @@
       "Time": "2023-05-20T11:05:59.4893833+00:00",
       "NumProgressed": 703834,
       "NumCompleted": 12731
+    },
+    {
+      "Time": "2023-05-20T12:06:04.6997813+00:00",
+      "NumProgressed": 703860,
+      "NumCompleted": 12731
     }
   ],
   "TotalAchievements": 50,
@@ -6815,7 +6820,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -6823,7 +6828,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -6831,7 +6836,7 @@
       "Name": "Bloody Sport",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -6878,21 +6883,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 13135,
-      "Completed": 10129
+      "Progressed": 13161,
+      "Completed": 10130
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 703834,
+      "Progressed": 703860,
       "Completed": 12731
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-20T10:59:18.5405897+00:00",
-  "LastChanged_Achievements": "2023-05-20T11:05:59.4893828+00:00",
+  "LastChanged_Achievements": "2023-05-20T12:06:04.6997807+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.7579865+00:00",
-  "LastUpdate_Ratings": "2023-05-20T10:59:18.5405904+00:00",
-  "LastUpdate_Achievements": "2023-05-20T11:05:59.4894417+00:00"
+  "LastUpdate_Ratings": "2023-05-20T11:59:13.8772915+00:00",
+  "LastUpdate_Achievements": "2023-05-20T12:06:04.6998311+00:00"
 }

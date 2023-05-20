@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 44.00% | ~590 |
-| Dense Forest | 37.00% | ~497 |
-| Cactus Vally | 29.00% | ~389 |
-| Rainy Ruins | 16.00% | ~215 |
-| Telepathic | 12.00% | ~161 |
-| Snowy Peak | 10.00% | ~134 |
-| Speed walkers | 9.00% | ~121 |
-| High Treetops | 8.00% | ~107 |
-| Blue Rapids | 7.00% | ~94 |
+| First Step | 44.00% | ~596 |
+| Dense Forest | 37.00% | ~501 |
+| Cactus Vally | 29.00% | ~393 |
+| Rainy Ruins | 16.00% | ~217 |
+| Telepathic | 12.00% | ~162 |
+| Snowy Peak | 10.00% | ~135 |
+| Speed walkers | 9.00% | ~122 |
+| High Treetops | 8.00% | ~108 |
+| Blue Rapids | 7.00% | ~95 |
 | Sunset Ridge | 4.00% | ~54 |
 | Trend hunters | 0.10% | ~1 |
 | I can do this alone | 0.10% | ~1 |
@@ -20,7 +20,7 @@
 | Robot lives matter too | 0.00% | ~0 |
 | Master biped | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,342 (Ranked 155)  
+Progressed: 1,354 (Ranked 155)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,7 +50,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-17 | 1,186 | 0 |
 | 2023-05-18 | 1,208 | 0 |
 | 2023-05-19 | 1,289 | 0 |
-| 2023-05-20 | 1,342 | 0 |
+| 2023-05-20 | 1,354 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

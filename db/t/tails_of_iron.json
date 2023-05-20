@@ -502,9 +502,9 @@
       "ID": "CompleteAll",
       "SetID": "9lj35g4",
       "Name": "King of Kings",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 84
+      "UsersEstimate": 98
     },
     {
       "ID": "CompleteArenaFaction",
@@ -709,8 +709,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-04-02T20:59:05.8070796+00:00",
-  "LastChanged_Achievements": "2023-05-20T11:03:28.6151242+00:00",
+  "LastChanged_Achievements": "2023-05-20T12:03:26.345699+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3670256+00:00",
-  "LastUpdate_Ratings": "2023-05-20T10:58:37.2595877+00:00",
-  "LastUpdate_Achievements": "2023-05-20T11:03:28.6151493+00:00"
+  "LastUpdate_Ratings": "2023-05-20T11:58:27.1967615+00:00",
+  "LastUpdate_Achievements": "2023-05-20T12:03:26.3457163+00:00"
 }

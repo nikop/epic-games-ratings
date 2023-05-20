@@ -6,14 +6,14 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~16,910 |
-| Thorough | 9.00% | ~15,219 |
-| A thief's beginning | 7.00% | ~11,837 |
-| Tanuki Time | 7.00% | ~11,837 |
-| Disguised | 6.00% | ~10,146 |
-| Jonin | 6.00% | ~10,146 |
-| Rescue Takuma | 6.00% | ~10,146 |
-| Rollin' | 6.00% | ~10,146 |
+| Genin | 10.00% | ~16,911 |
+| Thorough | 9.00% | ~15,220 |
+| A thief's beginning | 7.00% | ~11,838 |
+| Tanuki Time | 7.00% | ~11,838 |
+| Disguised | 6.00% | ~10,147 |
+| Jonin | 6.00% | ~10,147 |
+| Rescue Takuma | 6.00% | ~10,147 |
+| Rollin' | 6.00% | ~10,147 |
 | Chunin | 5.00% | ~8,455 |
 | Happy Planning | 5.00% | ~8,455 |
 | Ice Ice Yuki | 5.00% | ~8,455 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~169 |
 | Release the Kraken | 0.10% | ~169 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 169,098 (Ranked 50)  
+Progressed: 169,109 (Ranked 50)  
 Completed: 44 (0.03%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 44 (0.03%) (Ranked 182)
 | 2023-05-17 | 168,316 | 44 |
 | 2023-05-18 | 168,601 | 44 |
 | 2023-05-19 | 168,927 | 44 |
-| 2023-05-20 | 169,098 | 44 |
+| 2023-05-20 | 169,109 | 44 |
 ## Awards
 Max (Great for Beginners): 548  (Ranked 174)  
 Sum: 4,663 (Ranked 126)  

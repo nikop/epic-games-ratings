@@ -23,8 +23,8 @@ Rating: 4.55 (Ranked 466)
 | The Ship of Theseus | 1.00% | ~20 |
 | Power Outage | 0.90% | ~18 |
 | Convenient Transport | 0.90% | ~18 |
+| Access Granted | 0.80% | ~16 |
 | Sightseeing | 0.70% | ~14 |
-| Access Granted | 0.70% | ~14 |
 | Necessary Enhancement | 0.70% | ~14 |
 | Please Make it Stop! | 0.70% | ~14 |
 | BRAWL! | 0.60% | ~12 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 466)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,987 (Ranked 146)  
+Progressed: 1,991 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-17 | 1,911 | 0 |
 | 2023-05-18 | 1,926 | 0 |
 | 2023-05-19 | 1,969 | 0 |
-| 2023-05-20 | 1,987 | 0 |
+| 2023-05-20 | 1,991 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

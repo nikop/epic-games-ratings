@@ -6,7 +6,7 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| E1M1 | 26.00% | ~235 |
+| E1M1 | 27.00% | ~244 |
 | War Never Changes | 26.00% | ~235 |
 | Grenadier | 25.00% | ~226 |
 | Heroes Never Die | 23.00% | ~208 |
@@ -17,7 +17,7 @@ Number of Ratings: 98  (23.09.2022)
 | Bomberman | 17.00% | ~154 |
 | Death to the Oppressor! | 12.00% | ~109 |
 | The Gang's All Here | 11.00% | ~100 |
-| Your Answer | 9.00% | ~81 |
+| Your Answer | 10.00% | ~90 |
 | The Big Bertha | 8.00% | ~72 |
 | One by One | 8.00% | ~72 |
 | Game Over | 7.00% | ~63 |

@@ -34,10 +34,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Against All Odds | 0.60% | ~89 |
 | Haunted Forest | 0.60% | ~89 |
 | Statue of the Forefathers | 0.60% | ~89 |
+| Forsaken Gods Temple | 0.60% | ~89 |
 | Watchtower | 0.60% | ~89 |
 | Serving Ale | 0.50% | ~75 |
 | Forbidden Lands | 0.50% | ~75 |
-| Forsaken Gods Temple | 0.50% | ~75 |
 | Defying the Crown | 0.50% | ~75 |
 | Into the Forest | 0.50% | ~75 |
 | Ruined Armory | 0.40% | ~60 |

@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 94.00% | ~62 |
-| Bullseye! | 88.00% | ~58 |
+| Level Up! | 95.00% | ~63 |
+| Bullseye! | 89.00% | ~59 |
 | Villfir Forest | 83.00% | ~55 |
 | Graduation! | 79.00% | ~52 |
 | Right in the kisser! | 67.00% | ~44 |

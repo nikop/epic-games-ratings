@@ -238,11 +238,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5046,
+  "EOS_Progressed": 5049,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.52,
+  "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:24.6451257+00:00",
@@ -1353,6 +1353,11 @@
       "Time": "2023-05-20T11:01:11.392177+00:00",
       "NumProgressed": 5046,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-20T12:01:10.2780118+00:00",
+      "NumProgressed": 5049,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -1364,7 +1369,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4188
+      "UsersEstimate": 4191
     },
     {
       "ID": "ACH02",
@@ -1372,7 +1377,7 @@
       "Name": "Without a Scratch",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 1615
+      "UsersEstimate": 1616
     },
     {
       "ID": "ACH03",
@@ -1388,7 +1393,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1818
     },
     {
       "ID": "ACH05",
@@ -1436,7 +1441,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "ACH11",
@@ -1468,7 +1473,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "ACH15",
@@ -1484,7 +1489,7 @@
       "Name": "A Marked Man",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1212
     },
     {
       "ID": "ACH17",
@@ -1595,7 +1600,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 5046,
+      "Progressed": 5049,
       "Completed": 26
     }
   ],
@@ -1603,8 +1608,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-12T16:57:58.7220785+00:00",
-  "LastChanged_Achievements": "2023-05-20T11:01:11.3921764+00:00",
+  "LastChanged_Achievements": "2023-05-20T12:01:10.2780113+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:31.8748782+00:00",
-  "LastUpdate_Ratings": "2023-05-20T10:58:06.3179393+00:00",
-  "LastUpdate_Achievements": "2023-05-20T11:01:11.3922112+00:00"
+  "LastUpdate_Ratings": "2023-05-20T11:57:52.0632961+00:00",
+  "LastUpdate_Achievements": "2023-05-20T12:01:10.2780351+00:00"
 }

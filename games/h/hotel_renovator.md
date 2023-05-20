@@ -33,7 +33,7 @@ Rating: 4.50 (Ranked 534)
 | King of hospitality | 11.00% | ~82 |
 | Top spot in town | 3.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 750 (Ranked 175)  
+Progressed: 750 (Ranked 176)  
 Completed: 11 (1.47%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |
