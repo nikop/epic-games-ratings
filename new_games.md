@@ -1,5 +1,6 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
+| [Sir Whoopass - Immortal Death](games/s/sir_whoopass_-_immortal_death.md) | 2023-05-19 | 2022-08-18 |
 | [Quantum Storm](games/q/quantum_storm.md) | 2023-05-19 | 2023-05-19 |
 | [Timothy vs the Aliens](games/8/8b24875aea504fdc8032dff4fcdf31d4.md) | 2023-05-19 | 2021-07-21 |
 | [PHAGEBORN: Online Card Game](games/p/phageborn__online_card_game.md) | 2023-05-19 | 2022-08-11 |
@@ -171,4 +172,3 @@
 | [Strawhart](games/s/strawhart.md) | 2023-04-20 | 2022-03-11 |
 | [Outer Terror](games/o/outer_terror.md) | 2023-04-20 | 2023-04-20 |
 | [Fortune Follow: The Mansion](games/f/fortune_follow__the_mansion.md) | 2023-04-20 | 2023-04-20 |
-| [RichBroker](games/r/richbroker.md) | 2023-04-19 | 2022-11-02 |

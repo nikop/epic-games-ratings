@@ -11,8 +11,8 @@
 | 9 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 14.29% |
 | 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.04% |
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
-| 11 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 12.50% |
-| 13 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.08% |
+| 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.08% |
+| 13 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 11.76% |
 | 14 | [Remains](games/r/remains.md) | 10.34% |
 | 15 | [Smelter](games/s/smelter.md) | 9.38% |
 | 16 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.57% |
@@ -20,16 +20,16 @@
 | 18 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.23% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 8.00% |
-| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.98% |
-| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.68% |
+| 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.97% |
+| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.67% |
 | 23 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 7.14% |
 | 24 | [Scorn](games/s/scorn.md) | 7.01% |
-| 25 | [Ravenlok](games/r/ravenlok.md) | 6.55% |
+| 25 | [Ravenlok](games/r/ravenlok.md) | 6.52% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
-| 27 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.88% |
+| 27 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.85% |
 | 28 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
 | 29 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.97% |
-| 29 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.97% |
+| 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.96% |
 | 31 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.65% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.49% |
@@ -41,7 +41,7 @@
 | 39 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.41% |
 | 40 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.33% |
 | 41 | [The Bunker](games/t/the_bunker.md) | 3.30% |
-| 42 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 3.25% |
+| 42 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 3.21% |
 | 43 | [ZZT!](games/z/zzt!.md) | 3.18% |
 | 44 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
 | 45 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.16% |
@@ -67,14 +67,14 @@
 | 65 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
 | 66 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.68% |
 | 67 | [Night Book](games/n/night_book.md) | 1.66% |
-| 68 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.64% |
-| 69 | [Somerville](games/s/somerville.md) | 1.61% |
+| 68 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.61% |
+| 69 | [Somerville](games/s/somerville.md) | 1.60% |
 | 70 | [Frogun](games/f/frogun.md) | 1.55% |
 | 71 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.54% |
 | 72 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 73 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.47% |
 | 74 | [Bloodshore](games/b/bloodshore.md) | 1.38% |
-| 75 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.33% |
+| 75 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.32% |
 | 76 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.31% |
 | 77 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.28% |
 | 77 | [Trifox](games/t/trifox.md) | 1.28% |
