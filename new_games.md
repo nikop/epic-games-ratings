@@ -167,4 +167,3 @@
 | [Afterglitch](games/a/afterglitch.md) | 2023-04-20 | 2022-12-08 |
 | [Biped](games/b/biped.md) | 2023-04-20 | 2020-03-26 |
 | [Stray Blade](games/s/stray_blade.md) | 2023-04-20 | 2023-04-20 |
-| [Panic Porcupine](games/p/panic_porcupine.md) | 2023-04-20 | 2022-10-27 |
