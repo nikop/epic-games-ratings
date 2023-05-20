@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 21375,
+  "EOS_Progressed": 21391,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 1105,
+  "EOS_NewPlayers": 1116,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3031,6 +3031,11 @@
       "Time": "2023-05-20T00:05:24.9757199+00:00",
       "NumProgressed": 21375,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-05-20T02:03:33.4732233+00:00",
+      "NumProgressed": 21391,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 29,
@@ -3042,7 +3047,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3420
+      "UsersEstimate": 3423
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -3050,7 +3055,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4275
+      "UsersEstimate": 4278
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -3074,7 +3079,7 @@
       "Name": "Sure Footed As A Goat",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -3114,7 +3119,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -3186,7 +3191,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -3194,7 +3199,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -3202,7 +3207,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -3224,9 +3229,9 @@
       "ID": "ACH_25_TALISMAN_COMPLETE",
       "SetID": "443p4o4",
       "Name": "That\u0027ll Come In Handy...",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -3273,7 +3278,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 21375,
+      "Progressed": 21391,
       "Completed": 17
     }
   ],
@@ -3281,8 +3286,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-05-20T00:05:24.9757197+00:00",
+  "LastChanged_Achievements": "2023-05-20T02:03:33.4732229+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:39.6610119+00:00",
-  "LastUpdate_Ratings": "2023-05-19T23:59:35.7196814+00:00",
-  "LastUpdate_Achievements": "2023-05-20T00:05:24.9757534+00:00"
+  "LastUpdate_Ratings": "2023-05-20T01:57:38.3497912+00:00",
+  "LastUpdate_Achievements": "2023-05-20T02:03:33.4732684+00:00"
 }

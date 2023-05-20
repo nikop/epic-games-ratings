@@ -17,12 +17,12 @@
 | I bless the rain down in London | 25.00% | ~40 |
 | Cheat | 25.00% | ~40 |
 | Delusions | 25.00% | ~40 |
-| Prove it | 19.00% | ~30 |
-| The truth | 19.00% | ~30 |
+| Prove it | 20.00% | ~32 |
+| The truth | 20.00% | ~32 |
 | Making a murderer | 15.00% | ~24 |
-| The whole truth | 10.00% | ~16 |
+| The whole truth | 11.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158 (Ranked 238)  
+Progressed: 158 (Ranked 239)  
 Completed: 13 (8.23%) (Ranked 19)  
 ## EOS Players History
 | Date | Progressed | Completed |

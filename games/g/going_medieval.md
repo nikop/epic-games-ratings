@@ -17,13 +17,13 @@ Number of Ratings: 706  (23.09.2022)
 | The First Week | 47.00% | ~1,253 |
 | Studious Researcher | 47.00% | ~1,253 |
 | Feast or Famine | 46.00% | ~1,226 |
+| Adept Researcher | 45.00% | ~1,199 |
 | Beam Me Up | 44.00% | ~1,173 |
-| Adept Researcher | 44.00% | ~1,173 |
 | Home Cooked Meal | 43.00% | ~1,146 |
 | Luminary Researcher | 41.00% | ~1,093 |
 | Retribution | 35.00% | ~933 |
+| ...And Don’t Come Back! | 35.00% | ~933 |
 | Fit For A King | 34.00% | ~906 |
-| ...And Don’t Come Back! | 34.00% | ~906 |
 | Heating Up | 23.00% | ~613 |
 | Winter Is Coming | 20.00% | ~533 |
 | Winter Is Here | 18.00% | ~480 |
@@ -49,8 +49,8 @@ Completed: 6 (0.23%) (Ranked 137)
 | 2023-05-19 | 2,665 | 6 |
 ## Awards
 Max (Relaxing): 118  (Ranked 305)  
-Sum: 927 (Ranked 234)  
-Diff (max vs sum): 71  
+Sum: 927 (Ranked 235)  
+Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 118 |

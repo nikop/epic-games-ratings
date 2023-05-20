@@ -5,23 +5,23 @@ Rating: 4.61 (Ranked 357)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~6,248 |
-| Pay 'n' Spray | 48.00% | ~3,749 |
-| All Dressed Up for San Fierro | 23.00% | ~1,796 |
-| The American Dream | 17.00% | ~1,328 |
-| School's Out | 16.00% | ~1,250 |
-| Smooth Moves | 15.00% | ~1,172 |
-| Today Was a Good Day | 14.00% | ~1,093 |
-| What happens in Las Venturas... | 12.00% | ~937 |
-| Horror of the Santa Maria | 9.00% | ~703 |
-| Liberty City State of Mind | 8.00% | ~625 |
+| Getting Started | 80.00% | ~6,255 |
+| Pay 'n' Spray | 48.00% | ~3,753 |
+| All Dressed Up for San Fierro | 23.00% | ~1,798 |
+| The American Dream | 17.00% | ~1,329 |
+| School's Out | 16.00% | ~1,251 |
+| Smooth Moves | 15.00% | ~1,173 |
+| Today Was a Good Day | 13.00% | ~1,016 |
+| What happens in Las Venturas... | 12.00% | ~938 |
+| Horror of the Santa Maria | 9.00% | ~704 |
+| Liberty City State of Mind | 8.00% | ~626 |
 | Original Gangster | 7.00% | ~547 |
 | With Extra Dip | 6.00% | ~469 |
 | The End of the Line | 6.00% | ~469 |
-| Saviour | 5.00% | ~390 |
-| They Can’t Stop All of Us | 4.00% | ~312 |
-| Rescue a Kitten Too? | 4.00% | ~312 |
-| What are the Odds | 3.00% | ~234 |
+| Saviour | 5.00% | ~391 |
+| They Can’t Stop All of Us | 4.00% | ~313 |
+| Rescue a Kitten Too? | 4.00% | ~313 |
+| What are the Odds | 3.00% | ~235 |
 | I’ll Have Two Number 9s | 2.00% | ~156 |
 | Bike or Biker | 2.00% | ~156 |
 | What the City Needs | 2.00% | ~156 |
@@ -41,7 +41,7 @@ Rating: 4.61 (Ranked 357)
 | ...Here we go again | 0.30% | ~23 |
 | I Ain't No Buster | 0.20% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,810 (Ranked 110)  
+Progressed: 7,819 (Ranked 110)  
 Completed: 16 (0.20%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 16 (0.20%) (Ranked 140)
 | 2023-05-17 | 7,650 | 16 |
 | 2023-05-18 | 7,692 | 16 |
 | 2023-05-19 | 7,805 | 16 |
-| 2023-05-20 | 7,810 | 16 |
+| 2023-05-20 | 7,819 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

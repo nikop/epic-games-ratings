@@ -2,7 +2,7 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 834,
+  "Ranking_Rating": 835,
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 67,
@@ -1148,9 +1148,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61205,
+  "EOS_Progressed": 61214,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 392,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3003,6 +3003,11 @@
       "Time": "2023-05-20T00:05:36.5082624+00:00",
       "NumProgressed": 61205,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-20T02:03:47.1943129+00:00",
+      "NumProgressed": 61214,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3324,17 +3329,17 @@
       "ID": "HARLEY_2",
       "SetID": "4eo5ebm",
       "Name": "Get ReQ\u0027d",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 306
     },
     {
       "ID": "HARLEY_3",
       "SetID": "4eo5ebm",
       "Name": "Working Hard or Harley Working?",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 306
     },
     {
       "ID": "HARLEY_4",
@@ -3388,9 +3393,9 @@
       "ID": "KNIGHTHOOD_1",
       "SetID": "4eo5ebm",
       "Name": "Knighthood",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 306
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -3501,13 +3506,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61205,
+      "Progressed": 61214,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31485,
+      "Progressed": 31494,
       "Completed": 2640
     }
   ],
@@ -3515,8 +3520,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-19T11:00:31.9062538+00:00",
-  "LastChanged_Achievements": "2023-05-20T00:05:36.5082619+00:00",
+  "LastChanged_Achievements": "2023-05-20T02:03:47.1943125+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-19T23:59:23.3371258+00:00",
-  "LastUpdate_Achievements": "2023-05-20T00:05:36.5083348+00:00"
+  "LastUpdate_Ratings": "2023-05-20T01:57:23.5556998+00:00",
+  "LastUpdate_Achievements": "2023-05-20T02:03:47.1943865+00:00"
 }

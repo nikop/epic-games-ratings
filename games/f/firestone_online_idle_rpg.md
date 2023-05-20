@@ -5,13 +5,13 @@ Rating: 3.75 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,026 |
+| Victor | 94.00% | ~1,027 |
 | World Map | 80.00% | ~874 |
 | Temple of Eternals | 56.00% | ~612 |
 | Prestigious | 52.00% | ~568 |
 | Fellowship Power | 40.00% | ~437 |
 | Guild Power | 23.00% | ~251 |
-| Prestigious x10 | 20.00% | ~218 |
+| Prestigious x10 | 20.00% | ~219 |
 | The game is on | 18.00% | ~197 |
 | Exotic Merchant | 16.00% | ~175 |
 | Dragon Clicker | 15.00% | ~164 |
@@ -30,10 +30,10 @@ Rating: 3.75 (Ranked 917)
 | Superior | 8.00% | ~87 |
 | Challenger | 6.00% | ~66 |
 | Daily Quest Completionist | 6.00% | ~66 |
+| Hunter | 5.00% | ~55 |
 | Scroll Master | 5.00% | ~55 |
 | The power of Awakening | 5.00% | ~55 |
 | Frostfire Liberator | 4.00% | ~44 |
-| Hunter | 4.00% | ~44 |
 | Mastery | 4.00% | ~44 |
 | Moving Up The Ladder | 4.00% | ~44 |
 | The Expeditioner | 4.00% | ~44 |
@@ -46,12 +46,12 @@ Rating: 3.75 (Ranked 917)
 | Dragon Slayer | 2.00% | ~22 |
 | Engineer Mastery | 2.00% | ~22 |
 | Master Enchanter | 2.00% | ~22 |
+| Relic Of The Past | 2.00% | ~22 |
 | The father of Dragons | 2.00% | ~22 |
 | Trader | 2.00% | ~22 |
 | Weekly Quest Completionist | 2.00% | ~22 |
 | What lies behind the bush | 2.00% | ~22 |
 | Lock And Load | 1.00% | ~11 |
-| Relic Of The Past | 1.00% | ~11 |
 | Active Member | 0.90% | ~10 |
 | Blueprint Upgrades | 0.90% | ~10 |
 | Four Leaf Clover | 0.90% | ~10 |
@@ -81,7 +81,7 @@ Rating: 3.75 (Ranked 917)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,092 (Ranked 161)  
+Progressed: 1,093 (Ranked 161)  
 Completed: 1 (0.09%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 1 (0.09%) (Ranked 163)
 | 2023-05-17 | 1,057 | 1 |
 | 2023-05-18 | 1,076 | 1 |
 | 2023-05-19 | 1,090 | 1 |
-| 2023-05-20 | 1,092 | 1 |
+| 2023-05-20 | 1,093 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

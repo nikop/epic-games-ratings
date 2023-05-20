@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 8,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -29,10 +29,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 102,
-  "EOS_Completed": 17,
+  "EOS_Completed": 18,
   "EOS_NewPlayers": 34,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 16.67,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 17.65,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -473,6 +473,11 @@
       "Time": "2023-05-19T21:04:41.1940085+00:00",
       "NumProgressed": 102,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-05-20T02:03:08.0763148+00:00",
+      "NumProgressed": 102,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 22,
@@ -514,49 +519,49 @@
       "ID": "LEVEL_005",
       "SetID": "3khpmem",
       "Name": "Bridges to come and go",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 35,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "LEVEL_006",
       "SetID": "3khpmem",
       "Name": "Found an oasis",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "LEVEL_007",
       "SetID": "3khpmem",
       "Name": "Burger or pizza?",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "LEVEL_008",
       "SetID": "3khpmem",
       "Name": "Passion for sports",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 35,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "LEVEL_009",
       "SetID": "3khpmem",
       "Name": "Who loves trains?",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "LEVEL_010",
       "SetID": "3khpmem",
       "Name": "Easy and steady climb",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "LEVEL_011",
@@ -626,33 +631,33 @@
       "ID": "LEVEL_019",
       "SetID": "3khpmem",
       "Name": "Aiming for a living and human city",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "LEVEL_020",
       "SetID": "3khpmem",
       "Name": "City of dreams",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "LEVEL_021",
       "SetID": "3khpmem",
       "Name": "Happy Christmas night!",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "LEVEL_022",
       "SetID": "3khpmem",
       "Name": "Night walk along the beach",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     }
   ],
   "AchievementSets": [
@@ -660,15 +665,15 @@
       "ID": "3khpmem",
       "IsBase": true,
       "Progressed": 102,
-      "Completed": 17
+      "Completed": 18
     }
   ],
   "FirstSeen": "2023-04-28T06:58:06.5817191+00:00",
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-20T00:05:04.227404+00:00",
+  "LastChanged_Achievements": "2023-05-20T02:03:08.0763143+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:36.8517809+00:00",
-  "LastUpdate_Ratings": "2023-05-19T23:57:59.1858708+00:00",
-  "LastUpdate_Achievements": "2023-05-20T00:05:04.2274211+00:00"
+  "LastUpdate_Ratings": "2023-05-20T01:55:32.0256486+00:00",
+  "LastUpdate_Achievements": "2023-05-20T02:03:08.0763358+00:00"
 }

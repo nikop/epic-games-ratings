@@ -2,9 +2,9 @@
   "ID": "d8a4cd05d72d437aa3f3091bae2add52",
   "Name": "Shin-chan Me and the Professor on Summer Vacation",
   "ProductSlug": "shinchan-me-and-the-professor-on-summer-vacation-bb7bad",
-  "Ranking_EOS_Progress": 305,
+  "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-02-15T15:00:00+00:00",
@@ -201,9 +201,9 @@
       "ID": "Trophy_19",
       "SetID": "cf5h6dl",
       "Name": "Masu-ter Angler",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Trophy_20",
@@ -434,8 +434,8 @@
   "FirstSeenRating": "2023-04-14T13:04:33.1915334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:56.3452226+00:00",
   "LastChanged": "2023-04-14T13:04:33.1915334+00:00",
-  "LastChanged_Achievements": "2023-05-20T00:05:35.590705+00:00",
+  "LastChanged_Achievements": "2023-05-20T02:03:46.052442+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:08.5510482+00:00",
-  "LastUpdate_Ratings": "2023-05-19T23:59:47.9329316+00:00",
-  "LastUpdate_Achievements": "2023-05-20T00:05:35.5907426+00:00"
+  "LastUpdate_Ratings": "2023-05-20T01:57:53.564021+00:00",
+  "LastUpdate_Achievements": "2023-05-20T02:03:46.0525041+00:00"
 }

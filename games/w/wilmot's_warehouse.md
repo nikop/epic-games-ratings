@@ -1,7 +1,7 @@
 # Wilmot's Warehouse
 [Store](https://store.epicgames.com/en-US/p/wilmots-warehouse)  
 [View Rawdata](../../db/w/wilmot's_warehouse.json)  
-Rating: 4.65 (Ranked 291)  
+Rating: 4.66 (Ranked 273)  
 Number of Ratings: 88  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -59,3 +59,4 @@ Number of Ratings: 88  (23.09.2022)
 | 2023-02-28 | 4.64 | - | - | - |
 | 2023-03-31 | 4.64 | - | 0 | 0 |
 | 2023-04-04 | 4.65 | - | 0 | 0 |
+| 2023-05-20 | 4.66 | - | 0 | 0 |

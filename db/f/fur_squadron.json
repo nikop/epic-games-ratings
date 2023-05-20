@@ -4,7 +4,7 @@
   "ProductSlug": "fur-squadron-0042b8",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-04T13:30:00+00:00",
@@ -19,7 +19,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 15,
+  "EOS_Progressed": 16,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
@@ -99,6 +99,11 @@
       "Time": "2023-05-19T00:07:04.1837814+00:00",
       "NumProgressed": 15,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T02:03:24.5835416+00:00",
+      "NumProgressed": 16,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -108,7 +113,7 @@
       "ID": "COMPLETED_AXEL_1",
       "SetID": "d91enl3",
       "Name": "Piece of cake",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -156,15 +161,15 @@
       "ID": "COMPLETED_BLAZE_1",
       "SetID": "d91enl3",
       "Name": "All systems go",
-      "Percentage": 53,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "COMPLETED_BLAZE_2",
       "SetID": "d91enl3",
       "Name": "Do a barrel roll!",
-      "Percentage": 40,
+      "Percentage": 38,
       "XP": 20,
       "UsersEstimate": 6
     },
@@ -172,7 +177,7 @@
       "ID": "COMPLETED_BLAZE_3",
       "SetID": "d91enl3",
       "Name": "Huh? What was that?",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -180,7 +185,7 @@
       "ID": "COMPLETED_BLAZE_4",
       "SetID": "d91enl3",
       "Name": "Whatever it is, fix it!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -188,7 +193,7 @@
       "ID": "COMPLETED_BLAZE_5",
       "SetID": "d91enl3",
       "Name": "The opposite of good news",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -244,7 +249,7 @@
       "ID": "COMPLETED_KIRO_6",
       "SetID": "d91enl3",
       "Name": "No need to say goodbye",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -260,7 +265,7 @@
       "ID": "MASTERED_2",
       "SetID": "d91enl3",
       "Name": "Priceless company",
-      "Percentage": 33,
+      "Percentage": 31,
       "XP": 60,
       "UsersEstimate": 5
     },
@@ -301,13 +306,13 @@
     {
       "ID": "d91enl3",
       "IsBase": true,
-      "Progressed": 15,
+      "Progressed": 16,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:54.8735108+00:00",
-  "LastChanged_Achievements": "2023-05-20T00:05:17.8915525+00:00",
+  "LastChanged_Achievements": "2023-05-20T02:03:24.5835412+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:54.3687091+00:00",
-  "LastUpdate_Ratings": "2023-05-19T23:59:07.1075551+00:00",
-  "LastUpdate_Achievements": "2023-05-20T00:05:17.8915688+00:00"
+  "LastUpdate_Ratings": "2023-05-20T01:57:02.6622539+00:00",
+  "LastUpdate_Achievements": "2023-05-20T02:03:24.5835743+00:00"
 }

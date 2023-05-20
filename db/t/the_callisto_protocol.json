@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 341,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -410,9 +410,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 12853,
+  "EOS_Progressed": 12867,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 295,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -895,6 +895,11 @@
       "Time": "2023-05-20T00:00:18.2532978+00:00",
       "NumProgressed": 12853,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-20T01:58:33.3231457+00:00",
+      "NumProgressed": 12867,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 40,
@@ -1000,9 +1005,9 @@
       "ID": "FINISH_NEW_GAME_PLUS",
       "SetID": "6j5ggkc",
       "Name": "Parole Denied",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -1064,9 +1069,9 @@
       "ID": "PERFECT_DODGE_MULTIPLE",
       "SetID": "4hj6d86",
       "Name": "Float Like A Butterfly",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 77
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -1192,9 +1197,9 @@
       "ID": "KILL_2HEAD_HAZARD",
       "SetID": "6j5ggkc",
       "Name": "Bear Trap",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -1225,13 +1230,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 12853,
+      "Progressed": 12867,
       "Completed": 51
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 779,
+      "Progressed": 793,
       "Completed": 29
     }
   ],
@@ -1239,8 +1244,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-16T17:57:38.030273+00:00",
-  "LastChanged_Achievements": "2023-05-20T00:00:18.2532973+00:00",
+  "LastChanged_Achievements": "2023-05-20T01:58:33.3231451+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-19T23:57:50.2204686+00:00",
-  "LastUpdate_Achievements": "2023-05-20T00:00:18.2533366+00:00"
+  "LastUpdate_Ratings": "2023-05-20T01:55:21.0512141+00:00",
+  "LastUpdate_Achievements": "2023-05-20T01:58:33.3231868+00:00"
 }

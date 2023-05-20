@@ -1,7 +1,7 @@
 # The Guild 3
 [Store](https://store.epicgames.com/en-US/p/the-guild-3)  
 [View Rawdata](../../db/t/the_guild_3.json)  
-Rating: 4.17 (Ranked 834)  
+Rating: 4.18 (Ranked 829)  
 Number of Ratings: 76  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -57,3 +57,4 @@ Number of Ratings: 76  (23.09.2022)
 | 2023-03-18 | 4.16 | - | - | - |
 | 2023-03-31 | 4.16 | - | 0 | 0 |
 | 2023-04-07 | 4.17 | - | 0 | 0 |
+| 2023-05-20 | 4.18 | - | 0 | 0 |

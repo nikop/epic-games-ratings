@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1092,
+  "EOS_Progressed": 1093,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1880,6 +1880,11 @@
       "Time": "2023-05-20T00:05:18.185612+00:00",
       "NumProgressed": 1092,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-20T02:03:24.9355084+00:00",
+      "NumProgressed": 1093,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2153,9 +2158,9 @@
       "ID": "hunter",
       "SetID": "3nl4bcg",
       "Name": "Hunter",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 55
     },
     {
       "ID": "inspection",
@@ -2291,15 +2296,15 @@
       "Name": "Prestigious x10",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "relicofthepast",
       "SetID": "3nl4bcg",
       "Name": "Relic Of The Past",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 22
     },
     {
       "ID": "sailor",
@@ -2451,7 +2456,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1026
+      "UsersEstimate": 1027
     },
     {
       "ID": "warmachinesarmy",
@@ -2490,7 +2495,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1092,
+      "Progressed": 1093,
       "Completed": 1
     }
   ],
@@ -2498,8 +2503,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-18T22:58:45.6795503+00:00",
-  "LastChanged_Achievements": "2023-05-20T00:05:18.1856115+00:00",
+  "LastChanged_Achievements": "2023-05-20T02:03:24.9355082+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:34.8363446+00:00",
-  "LastUpdate_Ratings": "2023-05-19T23:57:57.2122723+00:00",
-  "LastUpdate_Achievements": "2023-05-20T00:05:18.1857177+00:00"
+  "LastUpdate_Ratings": "2023-05-20T01:55:29.5553922+00:00",
+  "LastUpdate_Achievements": "2023-05-20T02:03:24.9356545+00:00"
 }

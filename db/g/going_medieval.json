@@ -4,7 +4,7 @@
   "ProductSlug": "going-medieval",
   "Ranking_Rating": 383,
   "Ranking_Popularity": 305,
-  "Ranking_PopularitySum": 234,
+  "Ranking_PopularitySum": 235,
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 137,
   "Ranking_EOS_NewPlayers": 154,
@@ -1292,9 +1292,9 @@
       "ID": "SURVIVE_FIRST_RAID",
       "SetID": "5349c2e",
       "Name": "...And Don\u2019t Come Back!",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 906
+      "UsersEstimate": 933
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -1340,9 +1340,9 @@
       "ID": "UNLOCK_RESEARCH_10",
       "SetID": "5349c2e",
       "Name": "Adept Researcher",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 1173
+      "UsersEstimate": 1199
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -1380,8 +1380,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-05-19T15:00:08.3191747+00:00",
-  "LastChanged_Achievements": "2023-05-20T00:05:25.1638433+00:00",
+  "LastChanged_Achievements": "2023-05-20T02:03:33.7242837+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:15.8703194+00:00",
-  "LastUpdate_Ratings": "2023-05-19T23:59:26.3633216+00:00",
-  "LastUpdate_Achievements": "2023-05-20T00:05:25.163892+00:00"
+  "LastUpdate_Ratings": "2023-05-20T01:57:27.5954082+00:00",
+  "LastUpdate_Achievements": "2023-05-20T02:03:33.7243076+00:00"
 }

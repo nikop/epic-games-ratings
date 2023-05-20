@@ -4,16 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tastes just like chicken! | 75.00% | ~3 |
-| Spoiler alert! | 25.00% | ~1 |
-| MLG 360 no scope kill! | 25.00% | ~1 |
-| I like you...but I have to kill you... | 25.00% | ~1 |
-| Blurry depth perception | 25.00% | ~1 |
-| Are you ready to rumble? | 25.00% | ~1 |
+| Tastes just like chicken! | 83.00% | ~5 |
+| MLG 360 no scope kill! | 50.00% | ~3 |
+| I like you...but I have to kill you... | 50.00% | ~3 |
+| Are you ready to rumble? | 50.00% | ~3 |
+| That's what cheese said! | 33.00% | ~2 |
+| Not so hip anymore! | 33.00% | ~2 |
+| Nerd | 33.00% | ~2 |
+| Spoiler alert! | 17.00% | ~1 |
+| Rolling, Rolling, Rolling | 17.00% | ~1 |
+| AHHHHHH.....I'M ON FIRE!!! | 17.00% | ~1 |
+| Up and down | 17.00% | ~1 |
+| Haemochromatosis | 17.00% | ~1 |
+| Blurry depth perception | 17.00% | ~1 |
 | You're not so Big anymore, Boi! | 0.00% | ~0 |
 | You are no match for me, Billy! | 0.00% | ~0 |
 | Meatballs, coming up! | 0.00% | ~0 |
-| That's what cheese said! | 0.00% | ~0 |
 | Oh, you're up to no gouda! | 0.00% | ~0 |
 | Make America Grate Again | 0.00% | ~0 |
 | You're looking mozzare-hella good! | 0.00% | ~0 |
@@ -35,7 +41,6 @@
 | Ancient Ruins of Chilly Winds | 0.00% | ~0 |
 | Yeehaw!!! | 0.00% | ~0 |
 | Catch the bus with me! | 0.00% | ~0 |
-| Rolling, Rolling, Rolling | 0.00% | ~0 |
 | I'm going to get a concussion | 0.00% | ~0 |
 | I want to throw up! | 0.00% | ~0 |
 | A Megapint...? | 0.00% | ~0 |
@@ -45,7 +50,6 @@
 | Master Butcher | 0.00% | ~0 |
 | My name is Whoopass, SIR Whoopass! | 0.00% | ~0 |
 | Timber! | 0.00% | ~0 |
-| AHHHHHH.....I'M ON FIRE!!! | 0.00% | ~0 |
 | Fire-fighter! | 0.00% | ~0 |
 | Just wing it! | 0.00% | ~0 |
 | Mushroom soup of the day | 0.00% | ~0 |
@@ -63,7 +67,6 @@
 | Surprise!! | 0.00% | ~0 |
 | Karaoke king | 0.00% | ~0 |
 | European karaoke king | 0.00% | ~0 |
-| Up and down | 0.00% | ~0 |
 | My pants squeak when I walk | 0.00% | ~0 |
 | I cant stand still! | 0.00% | ~0 |
 | You can't stop me, bro! | 0.00% | ~0 |
@@ -72,11 +75,8 @@
 | I'm feeling lucky! | 0.00% | ~0 |
 | Better safe than sorry - use protection | 0.00% | ~0 |
 | Another one bites the iron | 0.00% | ~0 |
-| Haemochromatosis | 0.00% | ~0 |
 | Hovering around | 0.00% | ~0 |
-| Not so hip anymore! | 0.00% | ~0 |
 | Kleptomaniac | 0.00% | ~0 |
-| Nerd | 0.00% | ~0 |
 | Free Of Chains | 0.00% | ~0 |
 | Make Love not War-Craft a Mistlefoe | 0.00% | ~0 |
 | Thats disgusting! | 0.00% | ~0 |
@@ -87,10 +87,11 @@
 | Pasta Bolognese | 0.00% | ~0 |
 | Slimy... yet satisfying | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4 (Ranked 354)  
+Progressed: 6 (Ranked 342)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-06 | 1 | 0 |
 | 2023-05-07 | 4 | 0 |
+| 2023-05-20 | 6 | 0 |

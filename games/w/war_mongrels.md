@@ -29,9 +29,9 @@ Number of Ratings: 34  (23.09.2022)
 | Food Massacre | 21.00% | ~55 |
 | Broken Hopes | 20.00% | ~53 |
 | Bullseye! | 20.00% | ~53 |
+| It's Just an Accident | 17.00% | ~45 |
 | Collectibles of Chapter III | 16.00% | ~42 |
 | Sorrow | 16.00% | ~42 |
-| It's Just an Accident | 16.00% | ~42 |
 | Atonement | 15.00% | ~39 |
 | Collectibles of Chapter IV | 14.00% | ~37 |
 | Without a Second Thought | 13.00% | ~34 |

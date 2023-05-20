@@ -6,8 +6,8 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~515 |
-| Project Arena | 3.00% | ~386 |
+| Diligence as a goal | 4.00% | ~516 |
+| Project Arena | 3.00% | ~387 |
 | Bloody Sport | 1.00% | ~129 |
 | Qi Gong: Breath | 0.90% | ~6,332 |
 | The best strikes are the ones we avoid | 0.90% | ~116 |
@@ -25,15 +25,15 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Essence | 0.70% | ~4,925 |
 | Lightning Hands | 0.70% | ~4,925 |
 | Take damage to save time | 0.70% | ~4,925 |
-| The Old Grandmaster | 0.60% | ~4,221 |
-| Scareless | 0.60% | ~4,221 |
-| Stuntmaster | 0.60% | ~4,221 |
-| Kung-Fu Tussle | 0.60% | ~4,221 |
+| The Old Grandmaster | 0.60% | ~4,222 |
+| Scareless | 0.60% | ~4,222 |
+| Stuntmaster | 0.60% | ~4,222 |
+| Kung-Fu Tussle | 0.60% | ~4,222 |
 | Deadly Venom | 0.60% | ~77 |
 | Dance of the Praying Mantis | 0.50% | ~3,518 |
 | Qi Gong: Mind | 0.50% | ~3,518 |
 | Old Child | 0.50% | ~3,518 |
-| A Touch of Acumen | 0.50% | ~64 |
+| A Touch of Acumen | 0.50% | ~65 |
 | Muk Yan Master | 0.40% | ~2,814 |
 | Tiger on Fire | 0.40% | ~2,814 |
 | Source of Flying Daggers | 0.40% | ~2,814 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~704 |
 | Warriors from the Mountain | 0.10% | ~704 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703,582 (Ranked 15)  
+Progressed: 703,606 (Ranked 15)  
 Completed: 12,731 (1.81%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 12,731 (1.81%) (Ranked 64)
 | 2023-05-17 | 703,009 | 12,730 |
 | 2023-05-18 | 703,070 | 12,731 |
 | 2023-05-19 | 703,575 | 12,731 |
-| 2023-05-20 | 703,582 | 12,731 |
+| 2023-05-20 | 703,606 | 12,731 |
 ## Awards
 Max (Great Boss Battles): 6,075  (Ranked 53)  
 Sum: 10,335 (Ranked 77)  

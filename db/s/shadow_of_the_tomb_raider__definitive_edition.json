@@ -2,12 +2,12 @@
   "ID": "4b5461ca8d1c488787b5200b420de066",
   "Name": "Shadow of the Tomb Raider: Definitive Edition",
   "ProductSlug": "shadow-of-the-tomb-raider",
-  "Ranking_Rating": 291,
+  "Ranking_Rating": 292,
   "Ranking_Popularity": 15,
   "Ranking_PopularitySum": 29,
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-12-30T16:00:00+00:00",
@@ -3811,6 +3811,6 @@
   "FirstSeen": "2022-07-22T20:32:36.072499+00:00",
   "LastChanged": "2023-05-19T16:57:55.2423521+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:48.1429036+00:00",
-  "LastUpdate_Ratings": "2023-05-19T23:58:10.7552929+00:00",
-  "LastUpdate_Achievements": "2023-05-20T00:03:52.0008549+00:00"
+  "LastUpdate_Ratings": "2023-05-20T01:55:47.0453116+00:00",
+  "LastUpdate_Achievements": "2023-05-20T02:01:34.8024382+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "super-bit-blaster-xl-35d206",
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 13,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-08T16:00:00+00:00",
@@ -18,6 +18,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 17,
   "EOS_Completed": 2,
@@ -227,9 +229,9 @@
       "ID": "Bit Blaster V5",
       "SetID": "1f269fc",
       "Name": "Bit Blaster V5",
-      "Percentage": 12,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Bit Blaster V6",
@@ -264,9 +266,10 @@
       "Completed": 2
     }
   ],
+  "FirstSeen": "2023-05-20T01:55:13.7731097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:16.9581391+00:00",
-  "LastChanged_Achievements": "2023-05-20T00:05:02.1356908+00:00",
+  "LastChanged_Achievements": "2023-05-20T02:03:05.7466487+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:15.3020968+00:00",
-  "LastUpdate_Ratings": "2023-05-19T23:57:44.1814504+00:00",
-  "LastUpdate_Achievements": "2023-05-20T00:05:02.1357161+00:00"
+  "LastUpdate_Ratings": "2023-05-20T01:55:13.7731139+00:00",
+  "LastUpdate_Achievements": "2023-05-20T02:03:05.7466626+00:00"
 }

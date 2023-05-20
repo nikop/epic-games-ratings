@@ -4,7 +4,7 @@
   "ProductSlug": "crocs-world-construction-kit-2-378153",
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 9,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-05-19T05:00:00+00:00",
@@ -71,9 +71,9 @@
       "ID": "10",
       "SetID": "3nb2n2l",
       "Name": "Create a level with more than 100 enemies!",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "2",
@@ -135,9 +135,9 @@
       "ID": "9",
       "SetID": "3nb2n2l",
       "Name": "Create a level with more than 20 enemies!",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -149,8 +149,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-12T15:00:39.345223+00:00",
-  "LastChanged_Achievements": "2023-05-20T00:00:23.1499328+00:00",
+  "LastChanged_Achievements": "2023-05-20T01:58:39.5232878+00:00",
   "LastUpdate_AppInfo": "2023-05-19T14:57:13.8717204+00:00",
-  "LastUpdate_Ratings": "2023-05-19T23:57:13.8495337+00:00",
-  "LastUpdate_Achievements": "2023-05-20T00:00:23.1499451+00:00"
+  "LastUpdate_Ratings": "2023-05-20T01:54:31.9253008+00:00",
+  "LastUpdate_Achievements": "2023-05-20T01:58:39.5233111+00:00"
 }

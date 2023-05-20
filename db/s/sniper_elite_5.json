@@ -6,8 +6,8 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 171,
-  "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_Completed": 135,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -176,9 +176,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 836,
+  "EOS_Progressed": 839,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -726,6 +726,11 @@
       "Time": "2023-05-20T00:05:09.1247916+00:00",
       "NumProgressed": 836,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-20T02:03:13.9644105+00:00",
+      "NumProgressed": 839,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -791,9 +796,9 @@
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
       "SetID": "bm6el81",
       "Name": "Just a Flesh Wound",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -855,9 +860,9 @@
       "ID": "REWARD_24_GUNSLINGER",
       "SetID": "bm6el81",
       "Name": "Gunslinger",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -895,9 +900,9 @@
       "ID": "REWARD_29_PRECISION_IS_KEY",
       "SetID": "bm6el81",
       "Name": "Precision Is Key",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -975,9 +980,9 @@
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
       "SetID": "bm6el81",
       "Name": "As Quiet as a Mouse",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -991,9 +996,9 @@
       "ID": "REWARD_40_CLOSE_QUARTERS",
       "SetID": "bm6el81",
       "Name": "Close Quarters",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -1007,9 +1012,9 @@
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
       "SetID": "bm6el81",
       "Name": "From Paris with Love",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "REWARD_43_X_FILES",
@@ -1304,13 +1309,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 787,
+      "Progressed": 790,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 836,
+      "Progressed": 839,
       "Completed": 2
     }
   ],
@@ -1318,8 +1323,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-18T16:01:31.1520338+00:00",
-  "LastChanged_Achievements": "2023-05-20T00:05:09.1247912+00:00",
+  "LastChanged_Achievements": "2023-05-20T02:03:13.96441+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-20T00:00:02.1679722+00:00",
-  "LastUpdate_Achievements": "2023-05-20T00:05:09.1248612+00:00"
+  "LastUpdate_Ratings": "2023-05-20T01:58:11.9504028+00:00",
+  "LastUpdate_Achievements": "2023-05-20T02:03:13.9644729+00:00"
 }

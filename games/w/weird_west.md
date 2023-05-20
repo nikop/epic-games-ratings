@@ -6,21 +6,21 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 86.00% | ~1,307 |
-| Self-Improvement | 72.00% | ~1,094 |
-| Perky | 66.00% | ~1,003 |
-| Let’s Ride | 60.00% | ~912 |
+| Unforgiven | 86.00% | ~1,308 |
+| Self-Improvement | 72.00% | ~1,095 |
+| Perky | 66.00% | ~1,004 |
+| Let’s Ride | 60.00% | ~913 |
 | Welcome to the Weird West | 58.00% | ~882 |
-| Dead or Alive | 56.00% | ~851 |
-| Full House | 37.00% | ~562 |
+| Dead or Alive | 56.00% | ~852 |
+| Full House | 37.00% | ~563 |
 | Off the Trail | 34.00% | ~517 |
 | Justice Served | 28.00% | ~426 |
-| Chain Reaction | 27.00% | ~410 |
+| Chain Reaction | 27.00% | ~411 |
 | Dishonored | 25.00% | ~380 |
 | Rain of Death | 25.00% | ~380 |
 | Scholar | 25.00% | ~380 |
 | Through Their Eyes | 25.00% | ~380 |
-| The Great Escape | 23.00% | ~350 |
+| The Great Escape | 22.00% | ~335 |
 | That’s All, Folks | 18.00% | ~274 |
 | Fallen Star | 16.00% | ~243 |
 | For Balance | 16.00% | ~243 |
@@ -28,12 +28,12 @@ Number of Ratings: 125  (23.09.2022)
 | Here Comes Santa Claus | 15.00% | ~228 |
 | Dog Days | 13.00% | ~198 |
 | Workers' Rights | 13.00% | ~198 |
-| Elusive Prey | 12.00% | ~182 |
-| Out on the Ebb Tide | 12.00% | ~182 |
-| Power Behind the Pulpit | 12.00% | ~182 |
-| Something Wicked This Way Comes… | 12.00% | ~182 |
-| There is Hope | 12.00% | ~182 |
-| Turning the Tables | 12.00% | ~182 |
+| Elusive Prey | 12.00% | ~183 |
+| Out on the Ebb Tide | 12.00% | ~183 |
+| Power Behind the Pulpit | 12.00% | ~183 |
+| Something Wicked This Way Comes… | 12.00% | ~183 |
+| There is Hope | 12.00% | ~183 |
+| Turning the Tables | 12.00% | ~183 |
 | The Philosopher’s Stone | 10.00% | ~152 |
 | Loyalty to the Pack | 9.00% | ~137 |
 | Eternity Can Wait | 9.00% | ~137 |
@@ -48,8 +48,8 @@ Number of Ratings: 125  (23.09.2022)
 | This Is Sparta | 5.00% | ~76 |
 | What’s in the Box? | 5.00% | ~76 |
 | Ghost Town | 3.00% | ~46 |
-| Lord Inut Sends His Regards | 3.00% | ~46 |
 | Moondrunk | 3.00% | ~46 |
+| Lord Inut Sends His Regards | 2.00% | ~30 |
 | I Kicked a Bird and I Liked it | 1.00% | ~15 |
 | Hog Wild | 1.00% | ~15 |
 | 'Ma Barker | 1.00% | ~15 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.30% | ~5 |
 | Revenant | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,520 (Ranked 153)  
+Progressed: 1,521 (Ranked 153)  
 Completed: 2 (0.13%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,6 +83,7 @@ Completed: 2 (0.13%) (Ranked 154)
 | 2023-05-17 | 1,513 | 2 |
 | 2023-05-18 | 1,514 | 2 |
 | 2023-05-19 | 1,520 | 2 |
+| 2023-05-20 | 1,521 | 2 |
 ## Awards
 Max (Impact the Story): 23  (Ranked 469)  
 Sum: 23 (Ranked 471)  

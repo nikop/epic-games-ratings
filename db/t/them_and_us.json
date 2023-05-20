@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -521,9 +521,9 @@
       "ID": "ETUA_IsThemAndUs",
       "SetID": "65jc0ap",
       "Name": "Them and Us",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ETUA_LifeOfTheThousandGods",
@@ -577,9 +577,9 @@
       "ID": "ETUA_OutRage",
       "SetID": "65jc0ap",
       "Name": "OUTRAGE",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ETUA_PTD",
@@ -625,9 +625,9 @@
       "ID": "ETUA_SafeFornow",
       "SetID": "65jc0ap",
       "Name": "Safe...For now?",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "ETUA_StayDead",
@@ -657,9 +657,9 @@
       "ID": "ETUA_TheBusStop",
       "SetID": "65jc0ap",
       "Name": "The bus stop",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ETUA_TheCultists",
@@ -729,9 +729,9 @@
       "ID": "ETUA_WhatHaveIDone",
       "SetID": "65jc0ap",
       "Name": "What have I done!?",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
@@ -746,8 +746,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-05-20T00:00:24.3479577+00:00",
+  "LastChanged_Achievements": "2023-05-20T01:58:41.0675355+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:00.9346953+00:00",
-  "LastUpdate_Ratings": "2023-05-19T23:57:18.5363949+00:00",
-  "LastUpdate_Achievements": "2023-05-20T00:00:24.3479955+00:00"
+  "LastUpdate_Ratings": "2023-05-20T01:54:39.3969349+00:00",
+  "LastUpdate_Achievements": "2023-05-20T01:58:41.06769+00:00"
 }

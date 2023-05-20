@@ -22,7 +22,7 @@ Number of Ratings: 45  (23.09.2022)
 | Pyrrhic Victory | 8.00% | ~95 |
 | Echoes Die | 8.00% | ~95 |
 | Thematic Divergence | 7.00% | ~83 |
-| Chain Reaction | 6.00% | ~71 |
+| Chain Reaction | 7.00% | ~83 |
 | Everfading | 6.00% | ~71 |
 | Another Tale to Tell | 6.00% | ~71 |
 | A Story of Heroes | 6.00% | ~71 |

@@ -1,31 +1,31 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.65 (Ranked 291)  
+Rating: 4.65 (Ranked 292)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~3,777 |
-| Tomorrow Never Dyes | 48.00% | ~2,832 |
-| Mainframe Hacker | 44.00% | ~2,596 |
-| The Spy who eliminated me | 44.00% | ~2,596 |
-| Never Say Loser Again | 42.00% | ~2,478 |
-| For your Eyes only | 39.00% | ~2,301 |
-| Tailor-Made | 38.00% | ~2,242 |
-| Fully Decked Out | 37.00% | ~2,183 |
-| From the Vault with Love | 36.00% | ~2,124 |
-| You Only Live Twice | 30.00% | ~1,770 |
-| A view to Win | 29.00% | ~1,711 |
-| Private Collection | 26.00% | ~1,534 |
-| Smells Like Trouble | 26.00% | ~1,534 |
-| Assistant Accountant | 25.00% | ~1,475 |
-| The Living Portrait | 25.00% | ~1,475 |
-| Killer Looks | 25.00% | ~1,475 |
-| Hostile Takeover | 25.00% | ~1,475 |
-| Keycards Royale | 24.00% | ~1,416 |
-| In It to Win It | 24.00% | ~1,416 |
-| Dr. No Kill | 24.00% | ~1,416 |
-| My Motto, My Creed | 24.00% | ~1,416 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~3,778 |
+| Tomorrow Never Dyes | 48.00% | ~2,833 |
+| Mainframe Hacker | 44.00% | ~2,597 |
+| The Spy who eliminated me | 44.00% | ~2,597 |
+| Never Say Loser Again | 42.00% | ~2,479 |
+| For your Eyes only | 39.00% | ~2,302 |
+| Tailor-Made | 38.00% | ~2,243 |
+| Fully Decked Out | 37.00% | ~2,184 |
+| From the Vault with Love | 36.00% | ~2,125 |
+| You Only Live Twice | 30.00% | ~1,771 |
+| A view to Win | 29.00% | ~1,712 |
+| Private Collection | 26.00% | ~1,535 |
+| Smells Like Trouble | 26.00% | ~1,535 |
+| Assistant Accountant | 25.00% | ~1,476 |
+| The Living Portrait | 25.00% | ~1,476 |
+| Killer Looks | 25.00% | ~1,476 |
+| Hostile Takeover | 25.00% | ~1,476 |
+| Keycards Royale | 24.00% | ~1,417 |
+| In It to Win It | 24.00% | ~1,417 |
+| Dr. No Kill | 24.00% | ~1,417 |
+| My Motto, My Creed | 24.00% | ~1,417 |
 | Security Supervisor | 10.00% | ~590 |
 | License to Thrill | 8.00% | ~472 |
 | Social of Solace | 8.00% | ~472 |
@@ -42,7 +42,7 @@ Rating: 4.65 (Ranked 291)
 | Extraction Confusion | 0.30% | ~18 |
 | Spyfall | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,901 (Ranked 116)  
+Progressed: 5,903 (Ranked 116)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,6 +72,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-17 | 5,800 | 0 |
 | 2023-05-18 | 5,852 | 0 |
 | 2023-05-19 | 5,901 | 0 |
+| 2023-05-20 | 5,903 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

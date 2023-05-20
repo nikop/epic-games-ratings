@@ -3814,10 +3814,10 @@
       "Count": 3236
     }
   ],
-  "EOS_Progressed": 88010,
+  "EOS_Progressed": 88018,
   "EOS_Completed": 1851,
   "EOS_NewPlayers": 712,
-  "EOS_NewCompleters": 20,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
     {
@@ -6594,6 +6594,11 @@
       "Time": "2023-05-20T00:05:41.4735558+00:00",
       "NumProgressed": 88010,
       "NumCompleted": 1851
+    },
+    {
+      "Time": "2023-05-20T02:03:52.928119+00:00",
+      "NumProgressed": 88018,
+      "NumCompleted": 1851
     }
   ],
   "TotalAchievements": 493,
@@ -6603,9 +6608,9 @@
       "ID": "objective_completed_1",
       "SetID": "cc37lbc",
       "Name": "A Brief Tour of the Realms",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 264
     },
     {
       "ID": "objective_completed_10",
@@ -10515,9 +10520,9 @@
       "ID": "objective_completed_1355",
       "SetID": "415jc5c",
       "Name": "The Court of Storms",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 217
     },
     {
       "ID": "objective_completed_1356",
@@ -10548,21 +10553,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54284,
-      "Completed": 2597
+      "Progressed": 54292,
+      "Completed": 2600
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88010,
+      "Progressed": 88018,
       "Completed": 1851
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-19T16:57:44.9144265+00:00",
-  "LastChanged_Achievements": "2023-05-20T00:05:41.4735552+00:00",
+  "LastChanged_Achievements": "2023-05-20T02:03:52.9281185+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-19T23:58:00.0551321+00:00",
-  "LastUpdate_Achievements": "2023-05-20T00:05:41.475903+00:00"
+  "LastUpdate_Ratings": "2023-05-20T01:55:33.1788021+00:00",
+  "LastUpdate_Achievements": "2023-05-20T02:03:52.9544742+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "e1809e1742cb498080d8849b11a99c5a",
   "Name": "Airborne Kingdom",
   "ProductSlug": "airborne-kingdom",
-  "Ranking_Rating": 291,
+  "Ranking_Rating": 292,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -315,7 +315,7 @@
   "Tags": [],
   "EOS_Progressed": 6378,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -1196,8 +1196,8 @@
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-05-20T00:05:13.7998347+00:00",
+  "LastChanged_Achievements": "2023-05-20T02:03:19.6066865+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:58.1571519+00:00",
-  "LastUpdate_Ratings": "2023-05-19T23:57:30.2391657+00:00",
-  "LastUpdate_Achievements": "2023-05-20T00:05:13.7998582+00:00"
+  "LastUpdate_Ratings": "2023-05-20T01:54:54.3248411+00:00",
+  "LastUpdate_Achievements": "2023-05-20T02:03:19.6067112+00:00"
 }
