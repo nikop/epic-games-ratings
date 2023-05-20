@@ -5,26 +5,26 @@ Rating: 4.64 (Ranked 312)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 92.00% | ~3,719 |
-| All thumbs | 91.00% | ~3,678 |
-| I will survive! | 91.00% | ~3,678 |
-| Home, sweet home | 89.00% | ~3,597 |
+| Prepper | 92.00% | ~3,720 |
+| All thumbs | 91.00% | ~3,679 |
+| I will survive! | 91.00% | ~3,679 |
+| Home, sweet home | 89.00% | ~3,598 |
 | Survivalist | 87.00% | ~3,517 |
-| One way ticket | 83.00% | ~3,355 |
-| Last man standing | 77.00% | ~3,112 |
+| One way ticket | 83.00% | ~3,356 |
+| Last man standing | 77.00% | ~3,113 |
 | Family guy | 75.00% | ~3,032 |
-| Out of the Bag | 72.00% | ~2,910 |
-| The Dark Side | 67.00% | ~2,708 |
-| Duck and cover! | 62.00% | ~2,506 |
-| Souper! | 60.00% | ~2,425 |
-| Pacifist | 55.00% | ~2,223 |
+| Out of the Bag | 72.00% | ~2,911 |
+| The Dark Side | 67.00% | ~2,709 |
+| Duck and cover! | 62.00% | ~2,507 |
+| Souper! | 60.00% | ~2,426 |
+| Pacifist | 55.00% | ~2,224 |
 | 2-1-6 | 54.00% | ~2,183 |
-| A gift | 50.00% | ~2,021 |
-| Girl Power | 44.00% | ~1,778 |
+| A gift | 50.00% | ~2,022 |
+| Girl Power | 44.00% | ~1,779 |
 | What goes around... | 40.00% | ~1,617 |
-| Be Prepared | 34.00% | ~1,374 |
+| Be Prepared | 34.00% | ~1,375 |
 | Unbreakable | 33.00% | ~1,334 |
-| Atomic drill | 32.00% | ~1,293 |
+| Atomic drill | 32.00% | ~1,294 |
 | This is the end | 31.00% | ~1,253 |
 | Gotta get 'em all | 29.00% | ~1,172 |
 | Disco Roach | 26.00% | ~1,051 |
@@ -66,7 +66,7 @@ Rating: 4.64 (Ranked 312)
 | Miracle | 0.20% | ~8 |
 | Dead Hand | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,042 (Ranked 128)  
+Progressed: 4,043 (Ranked 128)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-17 | 4,021 | 0 |
 | 2023-05-18 | 4,025 | 0 |
 | 2023-05-19 | 4,034 | 0 |
-| 2023-05-20 | 4,042 | 0 |
+| 2023-05-20 | 4,043 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

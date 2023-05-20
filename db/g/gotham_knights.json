@@ -1154,9 +1154,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61341,
+  "EOS_Progressed": 61353,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 506,
+  "EOS_NewPlayers": 517,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3084,6 +3084,11 @@
       "Time": "2023-05-20T16:06:06.6317088+00:00",
       "NumProgressed": 61341,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-20T17:06:45.6584144+00:00",
+      "NumProgressed": 61353,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3437,9 +3442,9 @@
       "ID": "HERO_PROGRESSION_1",
       "SetID": "4eo5ebm",
       "Name": "First Step Into the Knight",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 491
+      "UsersEstimate": 552
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -3485,9 +3490,9 @@
       "ID": "MYSTERY_01",
       "SetID": "4eo5ebm",
       "Name": "Loose Ends",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 368
     },
     {
       "ID": "MYSTERY_02",
@@ -3582,13 +3587,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61341,
+      "Progressed": 61353,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31621,
+      "Progressed": 31633,
       "Completed": 2640
     }
   ],
@@ -3596,8 +3601,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-20T13:59:13.9457948+00:00",
-  "LastChanged_Achievements": "2023-05-20T16:06:06.6317082+00:00",
+  "LastChanged_Achievements": "2023-05-20T17:06:45.6584139+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-20T15:59:49.7863953+00:00",
-  "LastUpdate_Achievements": "2023-05-20T16:06:06.6317768+00:00"
+  "LastUpdate_Ratings": "2023-05-20T17:00:08.1493801+00:00",
+  "LastUpdate_Achievements": "2023-05-20T17:06:45.6584852+00:00"
 }

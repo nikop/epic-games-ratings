@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
     "PcReleaseDate": "2022-12-05T12:00:00+00:00",
@@ -437,9 +437,9 @@
       "ID": "FIREFIGHTER",
       "SetID": "64e5lgf",
       "Name": "FIREFIGHTER",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 157
+      "UsersEstimate": 160
     },
     {
       "ID": "FIRST_100K",
@@ -461,9 +461,9 @@
       "ID": "FIRST_LOSED_VISITOR",
       "SetID": "64e5lgf",
       "Name": "OH NO, HE\u0027S LEAVING!",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 232
     },
     {
       "ID": "INTRODUCTION",
@@ -518,8 +518,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-05-20T16:05:42.4395811+00:00",
+  "LastChanged_Achievements": "2023-05-20T17:06:20.4075232+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:57.2732477+00:00",
-  "LastUpdate_Ratings": "2023-05-20T15:59:31.5141414+00:00",
-  "LastUpdate_Achievements": "2023-05-20T16:05:42.4395937+00:00"
+  "LastUpdate_Ratings": "2023-05-20T16:59:47.6272941+00:00",
+  "LastUpdate_Achievements": "2023-05-20T17:06:20.4075371+00:00"
 }

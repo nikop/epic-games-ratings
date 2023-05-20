@@ -4,8 +4,8 @@
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -371,9 +371,9 @@
       "ID": "MQ01_2",
       "SetID": "bbing49",
       "Name": "To Hell In A Handcart",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 40,
-      "UsersEstimate": 125
+      "UsersEstimate": 127
     },
     {
       "ID": "MQ02_1",
@@ -451,9 +451,9 @@
       "ID": "MQ04_1",
       "SetID": "bbing49",
       "Name": "Going Once...",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "MQ04_2",
@@ -475,9 +475,9 @@
       "ID": "MQ05_1",
       "SetID": "bbing49",
       "Name": "Open Sesame",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "MQ05_2",
@@ -491,9 +491,9 @@
       "ID": "MQ05_3",
       "SetID": "bbing49",
       "Name": "Sticky Fingers",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "MQ05_4",
@@ -523,9 +523,9 @@
       "ID": "MQ06_3",
       "SetID": "bbing49",
       "Name": "Land, Ho!",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "MQ06_4",
@@ -596,8 +596,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-20T16:01:10.876612+00:00",
+  "LastChanged_Achievements": "2023-05-20T17:01:37.3804812+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.473335+00:00",
-  "LastUpdate_Ratings": "2023-05-20T15:57:13.2204401+00:00",
-  "LastUpdate_Achievements": "2023-05-20T16:01:10.876636+00:00"
+  "LastUpdate_Ratings": "2023-05-20T16:57:17.8613194+00:00",
+  "LastUpdate_Achievements": "2023-05-20T17:01:37.3805084+00:00"
 }

@@ -15,14 +15,15 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Scarlet Orchard | 1.00% | ~149 |
 | Taking Action | 1.00% | ~149 |
 | Like a Machine | 1.00% | ~149 |
+| Trade Baron | 1.00% | ~149 |
 | No Deaths | 1.00% | ~149 |
 | Barren Lands | 0.90% | ~134 |
 | Lost Colonies | 0.90% | ~134 |
-| Trade Baron | 0.90% | ~134 |
 | Homesick | 0.80% | ~119 |
 | Ancient Battleground | 0.80% | ~119 |
 | Sparkdew Crystals | 0.80% | ~119 |
 | Cursed Lands | 0.80% | ~119 |
+| A Real Challenge | 0.80% | ~119 |
 | Refinery | 0.70% | ~104 |
 | Dangerous Lands | 0.70% | ~104 |
 | Haunted Forest | 0.70% | ~104 |
@@ -31,7 +32,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Monastery of the Holy Flame | 0.70% | ~104 |
 | Royal Outpost | 0.70% | ~104 |
 | Corrosive Torrent | 0.70% | ~104 |
-| A Real Challenge | 0.70% | ~104 |
 | Against All Odds | 0.60% | ~89 |
 | Statue of the Forefathers | 0.60% | ~89 |
 | Forsaken Gods Temple | 0.60% | ~89 |

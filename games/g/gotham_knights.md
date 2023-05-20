@@ -5,8 +5,9 @@ Rating: 4.17 (Ranked 835)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 0.80% | ~491 |
+| First Step Into the Knight | 0.90% | ~552 |
 | Har, Har, Har, Very Funny | 0.60% | ~368 |
+| Loose Ends | 0.60% | ~368 |
 | Protector of Gotham | 0.50% | ~307 |
 | Something in the Clay | 0.50% | ~307 |
 | The Show Mud Go On | 0.50% | ~307 |
@@ -18,7 +19,6 @@ Rating: 4.17 (Ranked 835)
 | Working Hard or Harley Working? | 0.50% | ~307 |
 | Unstoppable Force | 0.50% | ~307 |
 | Knighthood | 0.50% | ~307 |
-| Loose Ends | 0.50% | ~307 |
 | Whispered Words | 0.50% | ~307 |
 | Lock and Key | 0.50% | ~307 |
 | Bad Apples in Every Orchard | 0.50% | ~307 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 835)
 | Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,341 (Ranked 68)  
+Progressed: 61,353 (Ranked 68)  
 Completed: 91 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 91 (0.15%) (Ranked 148)
 | 2023-05-17 | 60,939 | 91 |
 | 2023-05-18 | 61,004 | 91 |
 | 2023-05-19 | 61,198 | 91 |
-| 2023-05-20 | 61,341 | 91 |
+| 2023-05-20 | 61,353 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,227  (Ranked 98)  
 Sum: 3,689 (Ranked 137)  

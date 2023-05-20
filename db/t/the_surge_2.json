@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -624,9 +624,9 @@
       "ID": "ACHV_26",
       "SetID": "8p5mlmc",
       "Name": "Rigged And Ready",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 1258
+      "UsersEstimate": 1273
     },
     {
       "ID": "ACHV_27",
@@ -889,8 +889,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-05-20T16:06:08.2976526+00:00",
+  "LastChanged_Achievements": "2023-05-20T17:06:47.395932+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:42.7008662+00:00",
-  "LastUpdate_Ratings": "2023-05-20T16:00:36.1934165+00:00",
-  "LastUpdate_Achievements": "2023-05-20T16:06:08.2977058+00:00"
+  "LastUpdate_Ratings": "2023-05-20T17:00:57.8901458+00:00",
+  "LastUpdate_Achievements": "2023-05-20T17:06:47.3959874+00:00"
 }

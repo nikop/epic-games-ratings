@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-11-15T00:00:00+00:00",
     "PcReleaseDate": "2022-11-15T00:00:00+00:00",
@@ -84,9 +84,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1558,
+  "EOS_Progressed": 1559,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.6,
   "EosHistory": [
@@ -194,6 +194,11 @@
       "Time": "2023-05-20T00:03:11.3249065+00:00",
       "NumProgressed": 1558,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-20T17:03:35.2500437+00:00",
+      "NumProgressed": 1559,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 11,
@@ -269,7 +274,7 @@
       "Name": "War of the worlds.",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "SomervilleWearyTraveller",
@@ -292,7 +297,7 @@
     {
       "ID": "3mk3nll",
       "IsBase": true,
-      "Progressed": 1558,
+      "Progressed": 1559,
       "Completed": 25
     }
   ],
@@ -300,8 +305,8 @@
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-03-31T05:58:16.104552+00:00",
-  "LastChanged_Achievements": "2023-05-20T16:02:35.8841126+00:00",
+  "LastChanged_Achievements": "2023-05-20T17:03:35.2500432+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:14.9054362+00:00",
-  "LastUpdate_Ratings": "2023-05-20T15:57:42.8026618+00:00",
-  "LastUpdate_Achievements": "2023-05-20T16:02:35.8841234+00:00"
+  "LastUpdate_Ratings": "2023-05-20T16:57:49.5775789+00:00",
+  "LastUpdate_Achievements": "2023-05-20T17:03:35.2500567+00:00"
 }

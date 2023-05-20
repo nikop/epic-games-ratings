@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tastes just like chicken! | 87.00% | ~13 |
-| MLG 360 no scope kill! | 73.00% | ~11 |
-| Are you ready to rumble? | 73.00% | ~11 |
-| That's what cheese said! | 60.00% | ~9 |
-| I like you...but I have to kill you... | 60.00% | ~9 |
-| Rolling, Rolling, Rolling | 53.00% | ~8 |
-| AHHHHHH.....I'M ON FIRE!!! | 53.00% | ~8 |
-| Up and down | 53.00% | ~8 |
-| Not so hip anymore! | 53.00% | ~8 |
-| Nerd | 53.00% | ~8 |
-| Blurry depth perception | 53.00% | ~8 |
+| Tastes just like chicken! | 93.00% | ~14 |
+| MLG 360 no scope kill! | 80.00% | ~12 |
+| Are you ready to rumble? | 80.00% | ~12 |
+| That's what cheese said! | 67.00% | ~10 |
+| I like you...but I have to kill you... | 67.00% | ~10 |
+| Rolling, Rolling, Rolling | 60.00% | ~9 |
+| AHHHHHH.....I'M ON FIRE!!! | 60.00% | ~9 |
+| Up and down | 60.00% | ~9 |
+| Not so hip anymore! | 60.00% | ~9 |
+| Nerd | 60.00% | ~9 |
+| Blurry depth perception | 60.00% | ~9 |
 | Oh, you're up to no gouda! | 47.00% | ~7 |
-| Fire-fighter! | 40.00% | ~6 |
+| Fire-fighter! | 47.00% | ~7 |
+| Make Love not War-Craft a Mistlefoe | 33.00% | ~5 |
 | Honk honk! | 27.00% | ~4 |
 | Mushroom soup of the day | 27.00% | ~4 |
-| Make Love not War-Craft a Mistlefoe | 27.00% | ~4 |
 | You are no match for me, Billy! | 20.00% | ~3 |
 | Make America Grate Again | 20.00% | ~3 |
 | Butcher | 20.00% | ~3 |
@@ -87,7 +87,7 @@
 | Out of bounds | 0.00% | ~0 |
 | Slimy... yet satisfying | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15 (Ranked 318)  
+Progressed: 15 (Ranked 319)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |

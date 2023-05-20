@@ -11,7 +11,7 @@
 | Uncle will be happy | 71.00% | ~29 |
 | The child of the night | 68.00% | ~28 |
 | Sticky fingers | 49.00% | ~20 |
-| A horrible thing will happen... | 41.00% | ~17 |
+| A horrible thing will happen... | 44.00% | ~18 |
 | Vampires | 37.00% | ~15 |
 | Bloody stream | 34.00% | ~14 |
 | Fangs | 20.00% | ~8 |

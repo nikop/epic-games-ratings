@@ -195,9 +195,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 190433,
+  "EOS_Progressed": 190443,
   "EOS_Completed": 424,
-  "EOS_NewPlayers": 735,
+  "EOS_NewPlayers": 738,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -3085,6 +3085,11 @@
       "Time": "2023-05-20T16:05:37.0366996+00:00",
       "NumProgressed": 190433,
       "NumCompleted": 424
+    },
+    {
+      "Time": "2023-05-20T17:06:14.8250718+00:00",
+      "NumProgressed": 190443,
+      "NumCompleted": 424
     }
   ],
   "TotalAchievements": 29,
@@ -3120,7 +3125,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 179007
+      "UsersEstimate": 179016
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -3232,7 +3237,7 @@
       "Name": "So you\u0027re saying I don\u0027t touch these ones?",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 11426
+      "UsersEstimate": 11427
     },
     {
       "ID": "ACHIEVEMENT_OPUS",
@@ -3280,7 +3285,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 19043
+      "UsersEstimate": 19044
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -3296,7 +3301,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 13330
+      "UsersEstimate": 13331
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -3327,7 +3332,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 190433,
+      "Progressed": 190443,
       "Completed": 424
     }
   ],
@@ -3335,8 +3340,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-05-15T09:58:34.8225055+00:00",
-  "LastChanged_Achievements": "2023-05-20T16:05:37.0366991+00:00",
+  "LastChanged_Achievements": "2023-05-20T17:06:14.8250713+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:04.3691374+00:00",
-  "LastUpdate_Ratings": "2023-05-20T15:58:50.4891118+00:00",
-  "LastUpdate_Achievements": "2023-05-20T16:05:37.0367333+00:00"
+  "LastUpdate_Ratings": "2023-05-20T16:59:03.5984147+00:00",
+  "LastUpdate_Achievements": "2023-05-20T17:06:14.8251101+00:00"
 }

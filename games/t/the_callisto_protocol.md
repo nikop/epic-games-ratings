@@ -8,12 +8,12 @@ Rating: 4.18 (Ranked 829)
 | Flesh Wound | 3.00% | ~390 |
 | Giving Back | 2.00% | ~260 |
 | Chew 'Em Up | 2.00% | ~260 |
-| Instigator | 2.00% | ~18 |
-| Big Game Hunter | 2.00% | ~18 |
+| Instigator | 2.00% | ~19 |
+| Big Game Hunter | 2.00% | ~19 |
 | Bear Trap | 1.00% | ~9 |
 | Big Spender | 0.90% | ~8 |
 | Float Like A Butterfly | 0.80% | ~104 |
-| The Commonality | 0.60% | ~78 |
+| The Commonality | 0.70% | ~91 |
 | Mugshot | 0.60% | ~78 |
 | Hoard Mode | 0.50% | ~5 |
 | Recidivist | 0.40% | ~4 |
@@ -21,6 +21,7 @@ Rating: 4.18 (Ranked 829)
 | Parole Denied | 0.40% | ~4 |
 | Get a Grip | 0.40% | ~52 |
 | In Striking Distance | 0.20% | ~26 |
+| Reforged | 0.20% | ~26 |
 | It's over, Jacob! | 0.10% | ~13 |
 | Armed to the Teeth | 0.10% | ~1 |
 | You Need a Gun | 0.10% | ~13 |
@@ -32,7 +33,6 @@ Rating: 4.18 (Ranked 829)
 | Two Heads Are Better Than One | 0.10% | ~13 |
 | Terminated | 0.10% | ~13 |
 | Workplace Hazard | 0.10% | ~13 |
-| Reforged | 0.10% | ~13 |
 | Paper Jams | 0.10% | ~13 |
 | The Outer Way | 0.10% | ~13 |
 | If the SHU Fits... | 0.10% | ~13 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 829)
 | I am the Danger | 0.00% | ~0 |
 | Subject Alpha | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,986 (Ranked 101)  
+Progressed: 13,002 (Ranked 101)  
 Completed: 51 (0.39%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 51 (0.39%) (Ranked 113)
 | 2023-05-17 | 12,567 | 49 |
 | 2023-05-18 | 12,620 | 51 |
 | 2023-05-19 | 12,841 | 51 |
-| 2023-05-20 | 12,986 | 51 |
+| 2023-05-20 | 13,002 | 51 |
 ## Awards
 Max (Amazing Storytelling): 46  (Ranked 397)  
 Sum: 246 (Ranked 341)  

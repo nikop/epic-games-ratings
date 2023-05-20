@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | It's Rewind Time | 90.00% | ~82 |
 | Wake Up | 82.00% | ~75 |
-| Time Gates | 62.00% | ~56 |
+| Time Gates | 63.00% | ~57 |
 | Command Centre | 49.00% | ~45 |
 | This is a Wall | 46.00% | ~42 |
 | 48 Attempts | 36.00% | ~33 |

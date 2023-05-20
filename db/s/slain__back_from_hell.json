@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 388,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 48,
+  "Ranking_EOS_NewPlayers": 49,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 21496,
+  "EOS_Progressed": 21504,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 1104,
+  "EOS_NewPlayers": 1100,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3106,6 +3106,11 @@
       "Time": "2023-05-20T16:05:51.8683543+00:00",
       "NumProgressed": 21496,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-20T17:06:30.2352079+00:00",
+      "NumProgressed": 21504,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 29,
@@ -3117,7 +3122,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3439
+      "UsersEstimate": 3441
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -3125,7 +3130,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4299
+      "UsersEstimate": 4301
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -3149,7 +3154,7 @@
       "Name": "Sure Footed As A Goat",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -3205,7 +3210,7 @@
       "Name": "Red In Tooth And Claw",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_14_DEFEATED_MOTHER_BEHOLDER",
@@ -3213,7 +3218,7 @@
       "Name": "Oh God, Mother! Blood! Blood!",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_15_MOTHER_BEHOLDER_QUICK_KILL",
@@ -3221,7 +3226,7 @@
       "Name": "Death Becomes Her",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_16_RETURNED_ICE_METEORS",
@@ -3253,7 +3258,7 @@
       "Name": "The Sky Is Falling",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_20_MULTI_KILL",
@@ -3301,7 +3306,7 @@
       "Name": "That\u0027ll Come In Handy...",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -3309,7 +3314,7 @@
       "Name": "Vroll With It",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_27_VROLL_QUICK_KILL",
@@ -3317,7 +3322,7 @@
       "Name": "Swift of Foot, Keen of Blade",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_28_FINISHED_GAME_NO_MANA_USE",
@@ -3325,7 +3330,7 @@
       "Name": "Too Metal For Magic",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_29_FINISHED_GAME_NO_DEATHS",
@@ -3333,7 +3338,7 @@
       "Name": "Heart Of Steel",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_30_FINISHED_HARDCORE_MODE",
@@ -3348,7 +3353,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 21496,
+      "Progressed": 21504,
       "Completed": 18
     }
   ],
@@ -3356,8 +3361,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-05-20T16:05:51.8683539+00:00",
+  "LastChanged_Achievements": "2023-05-20T17:06:30.2352074+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:39.6610119+00:00",
-  "LastUpdate_Ratings": "2023-05-20T16:00:04.1080558+00:00",
-  "LastUpdate_Achievements": "2023-05-20T16:05:51.8683947+00:00"
+  "LastUpdate_Ratings": "2023-05-20T17:00:23.552973+00:00",
+  "LastUpdate_Achievements": "2023-05-20T17:06:30.2352476+00:00"
 }

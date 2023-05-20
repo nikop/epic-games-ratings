@@ -4,11 +4,11 @@
   "ProductSlug": "f1-manager-2022",
   "Ranking_Rating": 414,
   "Ranking_Popularity": 241,
-  "Ranking_PopularitySum": 196,
+  "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-08-30T14:00:00+00:00",
     "PcReleaseDate": "2022-08-30T14:00:00+00:00",
@@ -1244,10 +1244,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 1800,
       "NumberOfAwardsMax": 243
+    },
+    {
+      "Time": "2023-05-20T16:58:31.9997683+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1921,
+      "NumberOfAwardsMax": 243
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1800,
+  "NumberOfAwards": 1921,
   "NumberOfAwardsMax": 243,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1315,7 +1321,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 117
+      "Count": 121
     }
   ],
   "EOS_Progressed": 0,
@@ -1338,9 +1344,9 @@
   "FirstSeen": "2022-08-30T14:01:37.4479981+00:00",
   "FirstSeenRating": "2022-08-30T21:30:24.1805179+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.9629777+00:00",
-  "LastChanged": "2023-05-19T10:58:46.4316633+00:00",
-  "LastChanged_Achievements": "2023-05-20T16:05:27.5937594+00:00",
+  "LastChanged": "2023-05-20T16:58:31.9997681+00:00",
+  "LastChanged_Achievements": "2023-05-20T17:06:04.7746333+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:54.0999766+00:00",
-  "LastUpdate_Ratings": "2023-05-20T15:58:20.6805061+00:00",
-  "LastUpdate_Achievements": "2023-05-20T16:05:27.5937626+00:00"
+  "LastUpdate_Ratings": "2023-05-20T16:58:31.9997691+00:00",
+  "LastUpdate_Achievements": "2023-05-20T17:06:04.7746355+00:00"
 }

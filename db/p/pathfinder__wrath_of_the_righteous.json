@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2450,9 +2450,9 @@
       "Count": 368
     }
   ],
-  "EOS_Progressed": 8965,
+  "EOS_Progressed": 8970,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3970,6 +3970,11 @@
       "Time": "2023-05-20T16:06:03.8607155+00:00",
       "NumProgressed": 8965,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T17:06:42.8565413+00:00",
+      "NumProgressed": 8970,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3981,7 +3986,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     },
     {
       "ID": "02_BurningCity",
@@ -4117,7 +4122,7 @@
       "Name": "Mythic Choices",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "19_EqualToAroden",
@@ -4229,7 +4234,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -4349,7 +4354,7 @@
       "Name": "A Spark",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "49_Flame",
@@ -4853,7 +4858,7 @@
       "Name": "Stay Underground",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "DLC4_24_Hanged Man\u0027s Notes",
@@ -4869,7 +4874,7 @@
       "Name": "Sarkoris Will Be Green",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "DLC4_26_This Wall Won\u0027t Fall",
@@ -4908,21 +4913,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7747,
+      "Progressed": 7752,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8965,
+      "Progressed": 8970,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-20T09:58:01.271803+00:00",
-  "LastChanged_Achievements": "2023-05-20T16:06:03.8607144+00:00",
+  "LastChanged_Achievements": "2023-05-20T17:06:42.8565402+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3010226+00:00",
-  "LastUpdate_Ratings": "2023-05-20T15:58:18.4112358+00:00",
-  "LastUpdate_Achievements": "2023-05-20T16:06:03.8608857+00:00"
+  "LastUpdate_Ratings": "2023-05-20T16:58:28.9753877+00:00",
+  "LastUpdate_Achievements": "2023-05-20T17:06:42.8567139+00:00"
 }

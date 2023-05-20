@@ -12,7 +12,7 @@ Number of Ratings: 22  (23.09.2022)
 | Lorian | 31.00% | ~114 |
 | Metropolis | 27.00% | ~99 |
 | Rounos | 23.00% | ~84 |
-| Campaign Silver | 21.00% | ~77 |
+| Campaign Silver | 22.00% | ~81 |
 | Magni | 21.00% | ~77 |
 | Bora | 18.00% | ~66 |
 | Scientist | 15.00% | ~55 |
@@ -26,7 +26,7 @@ Number of Ratings: 22  (23.09.2022)
 | Campaign Titanium | 5.00% | ~18 |
 | World Creator | 5.00% | ~18 |
 | Builder | 4.00% | ~15 |
-| Multitalent | 1.00% | ~4 |
+| Multitalent | 2.00% | ~7 |
 | Competitor Bronze | 0.50% | ~2 |
 | Competitor Silver | 0.30% | ~1 |
 | Competitor Gold | 0.30% | ~1 |

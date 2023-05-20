@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
     "PcReleaseDate": "2021-08-28T00:00:00+00:00",
@@ -63,11 +63,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 272,
+  "EOS_Progressed": 273,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.94,
+  "EOS_Completed_Percentage": 2.93,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.4947976+00:00",
@@ -108,6 +108,11 @@
       "Time": "2023-05-20T14:02:35.2023619+00:00",
       "NumProgressed": 272,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-20T17:03:45.7927235+00:00",
+      "NumProgressed": 273,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -135,7 +140,7 @@
       "Name": "Ritual",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_03",
@@ -143,15 +148,15 @@
       "Name": "Cowardice",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_04",
       "SetID": "7881h0d",
       "Name": "The moth and the flame",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_05",
@@ -191,7 +196,7 @@
       "Name": "Grau Hill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "achievement_10",
@@ -199,15 +204,15 @@
       "Name": "The creature",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "achievement_11",
       "SetID": "7881h0d",
       "Name": "A forgotten language",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 186
     },
     {
       "ID": "achievement_12",
@@ -215,7 +220,7 @@
       "Name": "Lord Wesley",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "achievement_13",
@@ -239,7 +244,7 @@
       "Name": "My dear Magda",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "achievement_16",
@@ -270,7 +275,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 272,
+      "Progressed": 273,
       "Completed": 8
     }
   ],
@@ -278,8 +283,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-05-20T16:03:16.4184981+00:00",
+  "LastChanged_Achievements": "2023-05-20T17:03:45.7927229+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:18.0777045+00:00",
-  "LastUpdate_Ratings": "2023-05-20T15:57:45.5067365+00:00",
-  "LastUpdate_Achievements": "2023-05-20T16:03:16.4185134+00:00"
+  "LastUpdate_Ratings": "2023-05-20T16:57:52.7292017+00:00",
+  "LastUpdate_Achievements": "2023-05-20T17:03:45.7927379+00:00"
 }

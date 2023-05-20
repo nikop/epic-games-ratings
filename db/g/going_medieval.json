@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 136,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -980,9 +980,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 2670,
+  "EOS_Progressed": 2671,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1135,6 +1135,11 @@
       "Time": "2023-05-20T15:06:41.3133426+00:00",
       "NumProgressed": 2670,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-20T17:06:31.2460915+00:00",
+      "NumProgressed": 2671,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 31,
@@ -1178,7 +1183,7 @@
       "Name": "Green Thumb",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 1682
+      "UsersEstimate": 1683
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -1186,7 +1191,7 @@
       "Name": "Having A Field Day",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1762
+      "UsersEstimate": 1763
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -1202,7 +1207,7 @@
       "Name": "A Party Now",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "HUNT_DEER_20",
@@ -1258,7 +1263,7 @@
       "Name": "Retribution",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "PRODUCE_AT_CAMPFIRE",
@@ -1266,7 +1271,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1149
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -1274,7 +1279,7 @@
       "Name": "Feast or Famine",
       "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -1306,7 +1311,7 @@
       "Name": "The First Day",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1602
+      "UsersEstimate": 1603
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -1314,7 +1319,7 @@
       "Name": "...And Don\u2019t Come Back!",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -1354,7 +1359,7 @@
       "Name": "Novice Researcher",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 1495
+      "UsersEstimate": 1496
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -1378,7 +1383,7 @@
       "Name": "Onward",
       "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 1335
+      "UsersEstimate": 1336
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -1393,15 +1398,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 2670,
+      "Progressed": 2671,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-05-19T15:00:08.3191747+00:00",
-  "LastChanged_Achievements": "2023-05-20T16:05:52.7382689+00:00",
+  "LastChanged_Achievements": "2023-05-20T17:06:31.2460909+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:15.8703194+00:00",
-  "LastUpdate_Ratings": "2023-05-20T15:59:53.2604936+00:00",
-  "LastUpdate_Achievements": "2023-05-20T16:05:52.7382903+00:00"
+  "LastUpdate_Ratings": "2023-05-20T17:00:12.53172+00:00",
+  "LastUpdate_Achievements": "2023-05-20T17:06:31.2461156+00:00"
 }

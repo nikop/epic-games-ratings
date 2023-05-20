@@ -410,9 +410,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 12986,
+  "EOS_Progressed": 13002,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 424,
+  "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -970,6 +970,11 @@
       "Time": "2023-05-20T16:01:20.8481851+00:00",
       "NumProgressed": 12986,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-20T17:01:48.2877707+00:00",
+      "NumProgressed": 13002,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 40,
@@ -1131,9 +1136,9 @@
       "ID": "PERFECT_DODGE_GRUNT",
       "SetID": "4hj6d86",
       "Name": "The Commonality",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 91
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -1147,9 +1152,9 @@
       "ID": "PRINT_UPGRADE",
       "SetID": "4hj6d86",
       "Name": "Reforged",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "PRINT_WEAPON",
@@ -1253,7 +1258,7 @@
       "Name": "Instigator",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -1261,7 +1266,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -1300,13 +1305,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 12986,
+      "Progressed": 13002,
       "Completed": 51
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 912,
+      "Progressed": 928,
       "Completed": 29
     }
   ],
@@ -1314,8 +1319,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-16T17:57:38.030273+00:00",
-  "LastChanged_Achievements": "2023-05-20T16:01:20.8481844+00:00",
+  "LastChanged_Achievements": "2023-05-20T17:01:48.2877702+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-20T15:57:50.2886232+00:00",
-  "LastUpdate_Achievements": "2023-05-20T16:01:20.8482245+00:00"
+  "LastUpdate_Ratings": "2023-05-20T16:57:58.0412165+00:00",
+  "LastUpdate_Achievements": "2023-05-20T17:01:48.287806+00:00"
 }

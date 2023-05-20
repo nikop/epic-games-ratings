@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -290,9 +290,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13749,
+  "EOS_Progressed": 13751,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -2535,6 +2535,11 @@
       "Time": "2023-05-20T15:01:24.7648263+00:00",
       "NumProgressed": 13749,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-05-20T17:01:15.459124+00:00",
+      "NumProgressed": 13751,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 16,
@@ -2554,7 +2559,7 @@
       "Name": "Burning For You",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 3987
+      "UsersEstimate": 3988
     },
     {
       "ID": "Deadline",
@@ -2562,7 +2567,7 @@
       "Name": "Deadline",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 2062
+      "UsersEstimate": 2063
     },
     {
       "ID": "Dont_Fear_The_Reaper",
@@ -2570,7 +2575,7 @@
       "Name": "Don\u0027t Fear The Reaper",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "Eyes_On_Fire",
@@ -2578,7 +2583,7 @@
       "Name": "Eyes On Fire",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "Feel_The_Thunder",
@@ -2586,7 +2591,7 @@
       "Name": "Feel The Thunder",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "Fireworks",
@@ -2594,7 +2599,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 4537
+      "UsersEstimate": 4538
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -2602,7 +2607,7 @@
       "Name": "Harvester Of Eyes",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "I_Am_The_Storm",
@@ -2618,7 +2623,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 5912
+      "UsersEstimate": 5913
     },
     {
       "ID": "Mirrors",
@@ -2626,7 +2631,7 @@
       "Name": "Mirrors",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "Shadow_Warrior",
@@ -2642,7 +2647,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 7012
+      "UsersEstimate": 7013
     },
     {
       "ID": "Sole_Survivor",
@@ -2650,7 +2655,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 5087
+      "UsersEstimate": 5088
     },
     {
       "ID": "Still_Burning",
@@ -2666,22 +2671,22 @@
       "Name": "The Reaper",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     }
   ],
   "AchievementSets": [
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 13749,
+      "Progressed": 13751,
       "Completed": 82
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-10T20:58:58.4288263+00:00",
-  "LastChanged_Achievements": "2023-05-20T16:00:50.0841856+00:00",
+  "LastChanged_Achievements": "2023-05-20T17:01:15.4591228+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:20.131205+00:00",
-  "LastUpdate_Ratings": "2023-05-20T15:59:04.3457724+00:00",
-  "LastUpdate_Achievements": "2023-05-20T16:00:50.0842453+00:00"
+  "LastUpdate_Ratings": "2023-05-20T16:59:19.8023802+00:00",
+  "LastUpdate_Achievements": "2023-05-20T17:01:15.4591774+00:00"
 }
