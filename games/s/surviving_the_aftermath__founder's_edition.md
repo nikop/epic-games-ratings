@@ -10,7 +10,7 @@ Number of Ratings: 836  (23.09.2022)
 | Leader | 61.00% | ~3,349 |
 | Explorer | 53.00% | ~2,910 |
 | Healer | 53.00% | ~2,910 |
-| Aspiring Inventor | 44.00% | ~2,416 |
+| Aspiring Inventor | 45.00% | ~2,470 |
 | Adventurer | 41.00% | ~2,251 |
 | Famous Healer | 38.00% | ~2,086 |
 | Local Leader | 35.00% | ~1,921 |
@@ -23,7 +23,7 @@ Number of Ratings: 836  (23.09.2022)
 | Cleaner | 28.00% | ~1,537 |
 | Catastrofan | 28.00% | ~1,537 |
 | Legendary Explorer | 27.00% | ~1,482 |
-| Finders, Keepers | 25.00% | ~1,372 |
+| Finders, Keepers | 26.00% | ~1,427 |
 | Top Notch | 24.00% | ~1,318 |
 | Great Leader | 22.00% | ~1,208 |
 | Ice Lakes | 22.00% | ~1,208 |

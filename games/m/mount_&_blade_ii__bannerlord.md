@@ -6,26 +6,26 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 35.00% | ~17,647 |
-| Landlord | 30.00% | ~15,126 |
-| Lawmaker | 21.00% | ~10,588 |
-| Bannerlord | 20.00% | ~10,084 |
-| Horde breaker | 20.00% | ~10,084 |
-| Trained | 20.00% | ~10,084 |
-| The king is pleased | 16.00% | ~8,067 |
-| King Solomon | 15.00% | ~7,563 |
-| I can do it | 14.00% | ~7,059 |
+| Lawbringer | 35.00% | ~17,649 |
+| Landlord | 30.00% | ~15,128 |
+| Lawmaker | 21.00% | ~10,589 |
+| Bannerlord | 20.00% | ~10,085 |
+| Horde breaker | 20.00% | ~10,085 |
+| Trained | 20.00% | ~10,085 |
+| The king is pleased | 16.00% | ~8,068 |
+| King Solomon | 15.00% | ~7,564 |
+| I can do it | 14.00% | ~7,060 |
 | Apple of my eye | 13.00% | ~6,555 |
-| God of the Arena | 12.00% | ~6,050 |
+| God of the Arena | 12.00% | ~6,051 |
 | Against all odds | 9.00% | ~4,538 |
 | Swordbearer | 9.00% | ~4,538 |
 | Duelist | 8.00% | ~4,034 |
 | Dynasty | 8.00% | ~4,034 |
 | I spit on your grave | 8.00% | ~4,034 |
 | What have the Romans ever done for us? | 8.00% | ~4,034 |
-| Butterlord | 7.00% | ~3,529 |
-| Mastery | 6.00% | ~3,025 |
-| This Is Our Land | 6.00% | ~3,025 |
+| Butterlord | 7.00% | ~3,530 |
+| Mastery | 6.00% | ~3,026 |
+| This Is Our Land | 6.00% | ~3,026 |
 | Know your enemy | 5.00% | ~2,521 |
 | Crush your enemies | 4.00% | ~2,017 |
 | My way | 4.00% | ~2,017 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,420 (Ranked 74)  
+Progressed: 50,425 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,10 +88,10 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-17 | 50,127 | 0 |
 | 2023-05-18 | 50,198 | 0 |
 | 2023-05-19 | 50,314 | 0 |
-| 2023-05-20 | 50,420 | 0 |
+| 2023-05-20 | 50,425 | 0 |
 ## Awards
 Max (Character Customization): 6,561  (Ranked 49)  
-Sum: 13,099 (Ranked 68)  
+Sum: 13,102 (Ranked 68)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
@@ -99,7 +99,7 @@ Diff (max vs sum): -19
 | This game is Great for Beginners | 818 |
 | This game has Diverse Characters | 800 |
 | This game is Highly Recommended | 776 |
-| This game is Extremely Fun | 738 |
+| This game is Extremely Fun | 741 |
 | This game has Amazing Storytelling | 729 |
 | This game has Quickly Understood Controls | 724 |
 | This game has Amazing Characters | 717 |
@@ -235,4 +235,4 @@ Diff (max vs sum): -19
 | 2023-05-17 | 4.74 | - | 6,542 | 13,053 |
 | 2023-05-18 | 4.74 | - | 6,545 | 13,065 |
 | 2023-05-19 | 4.74 | - | 6,552 | 13,080 |
-| 2023-05-20 | 4.74 | - | 6,561 | 13,099 |
+| 2023-05-20 | 4.74 | - | 6,561 | 13,102 |

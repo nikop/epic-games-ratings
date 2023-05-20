@@ -57,8 +57,8 @@ Rating: 3.75 (Ranked 917)
 | Four Leaf Clover | 0.90% | ~10 |
 | Crystal Mining | 0.80% | ~9 |
 | Sailor | 0.80% | ~9 |
+| The Alchemist | 0.80% | ~9 |
 | Enchanting skill | 0.70% | ~8 |
-| The Alchemist | 0.70% | ~8 |
 | Ebony Jungle Liberator | 0.60% | ~7 |
 | Legendary | 0.60% | ~7 |
 | Transmute | 0.60% | ~7 |

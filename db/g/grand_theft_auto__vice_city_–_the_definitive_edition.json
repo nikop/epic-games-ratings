@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 119,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -310,9 +310,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 6411,
+  "EOS_Progressed": 6418,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 278,
+  "EOS_NewPlayers": 284,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -1760,6 +1760,11 @@
       "Time": "2023-05-20T15:06:17.4584842+00:00",
       "NumProgressed": 6411,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-20T16:05:31.2248876+00:00",
+      "NumProgressed": 6418,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 34,
@@ -1787,7 +1792,7 @@
       "Name": "Iron-y",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "ACH04",
@@ -1795,7 +1800,7 @@
       "Name": "Not my First Time",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACH05",
@@ -1819,7 +1824,7 @@
       "Name": "High Quality H2O",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH08",
@@ -1827,7 +1832,7 @@
       "Name": "Pie Guy",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH09",
@@ -1851,7 +1856,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "ACH12",
@@ -1875,7 +1880,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2500
+      "UsersEstimate": 2503
     },
     {
       "ID": "ACH15",
@@ -1891,7 +1896,7 @@
       "Name": "Keepie-Uppy Okie Dokie",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH17",
@@ -1931,7 +1936,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2757
+      "UsersEstimate": 2760
     },
     {
       "ID": "ACH22",
@@ -1939,7 +1944,7 @@
       "Name": "Life of the Party",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "ACH23",
@@ -1947,7 +1952,7 @@
       "Name": "South American Connection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1475
+      "UsersEstimate": 1476
     },
     {
       "ID": "ACH24",
@@ -1955,7 +1960,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "ACH25",
@@ -1963,7 +1968,7 @@
       "Name": "Chauffeur",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "ACH26",
@@ -1971,7 +1976,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "ACH27",
@@ -1979,7 +1984,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACH28",
@@ -2042,7 +2047,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6411,
+      "Progressed": 6418,
       "Completed": 22
     }
   ],
@@ -2050,8 +2055,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-17T13:04:15.6274807+00:00",
-  "LastChanged_Achievements": "2023-05-20T15:06:17.4584836+00:00",
+  "LastChanged_Achievements": "2023-05-20T16:05:31.2248868+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:49.9519997+00:00",
-  "LastUpdate_Ratings": "2023-05-20T14:58:27.0774792+00:00",
-  "LastUpdate_Achievements": "2023-05-20T15:06:17.4585265+00:00"
+  "LastUpdate_Ratings": "2023-05-20T15:58:17.0567558+00:00",
+  "LastUpdate_Achievements": "2023-05-20T16:05:31.224923+00:00"
 }

@@ -8,6 +8,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | ---- | ---------- | ----- |
 | First Real Expedition | 1.00% | ~149 |
 | Overcoming Difficulty | 1.00% | ~149 |
+| Bandit Camp | 1.00% | ~149 |
 | Fertile Meadows | 1.00% | ~149 |
 | Coral Forest | 1.00% | ~149 |
 | The Marshlands | 1.00% | ~149 |
@@ -15,7 +16,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 1.00% | ~149 |
 | Like a Machine | 1.00% | ~149 |
 | No Deaths | 1.00% | ~149 |
-| Bandit Camp | 0.90% | ~134 |
 | Barren Lands | 0.90% | ~134 |
 | Lost Colonies | 0.90% | ~134 |
 | Trade Baron | 0.90% | ~134 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,913 (Ranked 98)  
+Progressed: 14,916 (Ranked 98)  
 Completed: 30 (0.20%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 30 (0.20%) (Ranked 140)
 | 2023-05-17 | 14,860 | 30 |
 | 2023-05-18 | 14,878 | 30 |
 | 2023-05-19 | 14,897 | 30 |
-| 2023-05-20 | 14,913 | 30 |
+| 2023-05-20 | 14,916 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 196)  
 Sum: 3,028 (Ranked 150)  

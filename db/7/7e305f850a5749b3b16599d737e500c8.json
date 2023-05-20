@@ -2,10 +2,10 @@
   "ID": "7e305f850a5749b3b16599d737e500c8",
   "Name": "Boxville",
   "ProductSlug": "boxville-2b75d3",
-  "Ranking_EOS_Progress": 320,
+  "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 2,
   "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
     "PcReleaseDate": "2022-09-30T08:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 13,
-  "EOS_Completed": 4,
+  "EOS_Completed": 5,
   "EOS_NewPlayers": 3,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 30.77,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 38.46,
   "EosHistory": [
     {
       "Time": "2023-05-08T15:02:14.2317541+00:00",
@@ -91,6 +91,11 @@
       "Time": "2023-05-18T23:03:31.948962+00:00",
       "NumProgressed": 13,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-20T16:01:01.1541749+00:00",
+      "NumProgressed": 13,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 18,
@@ -100,9 +105,9 @@
       "ID": "Best_friends_forever",
       "SetID": "b7i210",
       "Name": "Best friends forever",
-      "Percentage": 38,
+      "Percentage": 46,
       "XP": 150,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Dreamkeeper",
@@ -196,17 +201,17 @@
       "ID": "Repair",
       "SetID": "b7i210",
       "Name": "Repair",
-      "Percentage": 38,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Rusty",
       "SetID": "b7i210",
       "Name": "Rusty",
-      "Percentage": 38,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Samaritan",
@@ -246,13 +251,13 @@
       "ID": "b7i210",
       "IsBase": true,
       "Progressed": 13,
-      "Completed": 4
+      "Completed": 5
     }
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-05-20T15:01:37.5735097+00:00",
+  "LastChanged_Achievements": "2023-05-20T16:01:01.1541739+00:00",
   "LastUpdate_AppInfo": "2023-05-15T15:56:52.925224+00:00",
-  "LastUpdate_Ratings": "2023-05-20T14:57:03.1877537+00:00",
-  "LastUpdate_Achievements": "2023-05-20T15:01:37.5735465+00:00"
+  "LastUpdate_Ratings": "2023-05-20T15:57:05.3238663+00:00",
+  "LastUpdate_Achievements": "2023-05-20T16:01:01.1542217+00:00"
 }

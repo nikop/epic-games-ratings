@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -544,9 +544,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5701,
+  "EOS_Progressed": 5702,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1069,6 +1069,11 @@
       "Time": "2023-05-20T15:06:24.3906694+00:00",
       "NumProgressed": 5701,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-20T16:05:37.5096728+00:00",
+      "NumProgressed": 5702,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -1096,7 +1101,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 2622
+      "UsersEstimate": 2623
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -1128,7 +1133,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2052
+      "UsersEstimate": 2053
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -1192,7 +1197,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 1824
+      "UsersEstimate": 1825
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -1248,7 +1253,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1995
+      "UsersEstimate": 1996
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -1328,7 +1333,7 @@
       "Name": "Silver Lining",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1597
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -1439,7 +1444,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5701,
+      "Progressed": 5702,
       "Completed": 8
     }
   ],
@@ -1447,8 +1452,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-19T05:57:11.7552648+00:00",
-  "LastChanged_Achievements": "2023-05-20T15:06:24.3906688+00:00",
+  "LastChanged_Achievements": "2023-05-20T16:05:37.5096723+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:10.2290416+00:00",
-  "LastUpdate_Ratings": "2023-05-20T14:57:20.8363632+00:00",
-  "LastUpdate_Achievements": "2023-05-20T15:06:24.3907109+00:00"
+  "LastUpdate_Ratings": "2023-05-20T15:57:20.2836043+00:00",
+  "LastUpdate_Achievements": "2023-05-20T16:05:37.5097079+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 194,
-  "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_Completed": 81,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 416,
+  "EOS_Progressed": 417,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.2,
   "EosHistory": [
@@ -159,6 +159,11 @@
       "Time": "2023-05-20T15:06:54.1305284+00:00",
       "NumProgressed": 416,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-20T16:06:04.5927217+00:00",
+      "NumProgressed": 417,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -192,9 +197,9 @@
       "ID": "Caring_Soul",
       "SetID": "ek310c",
       "Name": "Bosom Buddies",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 125
     },
     {
       "ID": "Doors_Closing",
@@ -256,9 +261,9 @@
       "ID": "Healthy_Child",
       "SetID": "ek310c",
       "Name": "Bundle of Joy",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 208
+      "UsersEstimate": 213
     },
     {
       "ID": "Hitman",
@@ -290,7 +295,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "Leisurely_Strol",
@@ -354,7 +359,7 @@
       "Name": "Paparazzi",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Park",
@@ -370,7 +375,7 @@
       "Name": "Life of the Party",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Smart cookie",
@@ -401,7 +406,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 416,
+      "Progressed": 417,
       "Completed": 5
     }
   ],
@@ -409,8 +414,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-05-18T03:00:40.7703689+00:00",
-  "LastChanged_Achievements": "2023-05-20T15:06:54.1305278+00:00",
+  "LastChanged_Achievements": "2023-05-20T16:06:04.5927212+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:53.1846024+00:00",
-  "LastUpdate_Ratings": "2023-05-20T15:01:16.0369956+00:00",
-  "LastUpdate_Achievements": "2023-05-20T15:06:54.1305523+00:00"
+  "LastUpdate_Ratings": "2023-05-20T16:00:41.7283105+00:00",
+  "LastUpdate_Achievements": "2023-05-20T16:06:04.5927413+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "28ed8f56800c4bcc9eaa0c5264ec6917",
   "Name": "New Tales from the Borderlands",
   "ProductSlug": "new-tales-from-the-borderlands",
-  "Ranking_Rating": 869,
+  "Ranking_Rating": 868,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -162,9 +162,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3396,
+  "EOS_Progressed": 3397,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -357,6 +357,11 @@
       "Time": "2023-05-20T15:06:39.2104665+00:00",
       "NumProgressed": 3396,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T16:05:50.9922502+00:00",
+      "NumProgressed": 3397,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -400,7 +405,7 @@
       "Name": "Totally Intentional",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -488,7 +493,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1631
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -544,7 +549,7 @@
       "Name": "And Still Champion...",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "WIN_FIRST_VAULTLANDER_BATTLE",
@@ -575,7 +580,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3396,
+      "Progressed": 3397,
       "Completed": 0
     }
   ],
@@ -583,8 +588,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-11T21:59:43.2932555+00:00",
-  "LastChanged_Achievements": "2023-05-20T15:06:39.2104659+00:00",
+  "LastChanged_Achievements": "2023-05-20T16:05:50.9922495+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:00.613564+00:00",
-  "LastUpdate_Ratings": "2023-05-20T14:59:56.2112139+00:00",
-  "LastUpdate_Achievements": "2023-05-20T15:06:39.2104874+00:00"
+  "LastUpdate_Ratings": "2023-05-20T15:59:33.7025091+00:00",
+  "LastUpdate_Achievements": "2023-05-20T16:05:50.99227+00:00"
 }

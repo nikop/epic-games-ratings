@@ -19,12 +19,12 @@
 | An Acquired Taste | 39.00% | ~7 |
 | The Guardian | 39.00% | ~7 |
 | Endgame | 39.00% | ~7 |
+| The Philosopher | 39.00% | ~7 |
+| The Partner | 39.00% | ~7 |
+| The Companion | 39.00% | ~7 |
+| The Counsellor | 39.00% | ~7 |
 | Blood Begets Blood | 33.00% | ~6 |
 | Everyone Needs a Break | 33.00% | ~6 |
-| The Philosopher | 33.00% | ~6 |
-| The Partner | 33.00% | ~6 |
-| The Companion | 33.00% | ~6 |
-| The Counsellor | 33.00% | ~6 |
 | A Real Headache | 28.00% | ~5 |
 | A Total Riot | 28.00% | ~5 |
 | Job Creator | 28.00% | ~5 |

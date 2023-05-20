@@ -29,10 +29,10 @@ Rating: 4.55 (Ranked 466)
 | Sightseeing | 0.70% | ~14 |
 | From the Past | 0.60% | ~12 |
 | Oats | 0.50% | ~10 |
+| In Dolos We Trust | 0.50% | ~10 |
 | BRAWL! | 0.50% | ~10 |
 | Man's Best Friend | 0.40% | ~8 |
 | ...  in a finite world | 0.40% | ~8 |
-| In Dolos We Trust | 0.40% | ~8 |
 | You Had One Job... | 0.40% | ~8 |
 | Delivery! | 0.40% | ~8 |
 | All in Good Health | 0.40% | ~8 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 466)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,004 (Ranked 145)  
+Progressed: 2,008 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-17 | 1,911 | 0 |
 | 2023-05-18 | 1,926 | 0 |
 | 2023-05-19 | 1,969 | 0 |
-| 2023-05-20 | 2,004 | 0 |
+| 2023-05-20 | 2,008 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

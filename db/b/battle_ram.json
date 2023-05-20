@@ -4,8 +4,8 @@
   "ProductSlug": "battle-ram-d001fd",
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-30T00:00:00+00:00",
     "PcReleaseDate": "2020-03-21T05:00:00+00:00",
@@ -53,9 +53,9 @@
       "ID": "ach_1",
       "SetID": "392n4e7",
       "Name": "START",
-      "Percentage": 80,
+      "Percentage": 40,
       "XP": 45,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_10",
@@ -141,9 +141,9 @@
       "ID": "ach_2",
       "SetID": "392n4e7",
       "Name": "Ram Corporal",
-      "Percentage": 80,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_20",
@@ -173,9 +173,9 @@
       "ID": "ach_3",
       "SetID": "392n4e7",
       "Name": "Ram Sergeant",
-      "Percentage": 60,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_4",
@@ -197,9 +197,9 @@
       "ID": "ach_6",
       "SetID": "392n4e7",
       "Name": "Senior Sergeant Baran",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_7",
@@ -235,8 +235,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:08.6528344+00:00",
-  "LastChanged_Achievements": "2023-05-20T15:06:09.92242+00:00",
+  "LastChanged_Achievements": "2023-05-20T16:05:24.5924135+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:38.6881308+00:00",
-  "LastUpdate_Ratings": "2023-05-20T14:58:09.8978457+00:00",
-  "LastUpdate_Achievements": "2023-05-20T15:06:09.9224345+00:00"
+  "LastUpdate_Ratings": "2023-05-20T15:58:03.2450165+00:00",
+  "LastUpdate_Achievements": "2023-05-20T16:05:24.5924264+00:00"
 }

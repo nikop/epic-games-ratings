@@ -3,12 +3,12 @@
   "Name": "Heroes \u0026 Generals WWII",
   "ProductSlug": "heroes-and-generals-wwii",
   "Ranking_Rating": 798,
-  "Ranking_Popularity": 137,
+  "Ranking_Popularity": 136,
   "Ranking_PopularitySum": 104,
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2020-09-24T14:00:00+00:00",
     "PcReleaseDate": "2020-09-24T14:00:00+00:00",
@@ -3283,18 +3283,24 @@
       "Rating": 4.23,
       "NumberOfAwards": 6936,
       "NumberOfAwardsMax": 1001
+    },
+    {
+      "Time": "2023-05-20T16:00:32.9126704+00:00",
+      "Rating": 4.23,
+      "NumberOfAwards": 6942,
+      "NumberOfAwardsMax": 1006
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6936,
-  "NumberOfAwardsMax": 1001,
+  "NumberOfAwards": 6942,
+  "NumberOfAwardsMax": 1006,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1001
+      "Count": 1006
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3342,7 +3348,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 727
+      "Count": 728
     }
   ],
   "EOS_Progressed": 0,
@@ -3356,8 +3362,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:51.2948147+00:00",
-  "LastChanged": "2023-05-20T08:59:54.0773461+00:00",
+  "LastChanged": "2023-05-20T16:00:32.9126702+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:36.8794319+00:00",
-  "LastUpdate_Ratings": "2023-05-20T15:01:05.9350463+00:00",
-  "LastUpdate_Achievements": "2023-05-20T15:05:48.9974061+00:00"
+  "LastUpdate_Ratings": "2023-05-20T16:00:32.9126708+00:00",
+  "LastUpdate_Achievements": "2023-05-20T16:05:06.282844+00:00"
 }

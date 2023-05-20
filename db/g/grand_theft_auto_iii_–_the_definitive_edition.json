@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5069,
+  "EOS_Progressed": 5071,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -1373,6 +1373,11 @@
       "Time": "2023-05-20T15:01:33.3119836+00:00",
       "NumProgressed": 5069,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-20T16:00:57.3818875+00:00",
+      "NumProgressed": 5071,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -1384,7 +1389,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4207
+      "UsersEstimate": 4209
     },
     {
       "ID": "ACH02",
@@ -1392,7 +1397,7 @@
       "Name": "Without a Scratch",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 1622
+      "UsersEstimate": 1623
     },
     {
       "ID": "ACH03",
@@ -1408,7 +1413,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 1825
+      "UsersEstimate": 1826
     },
     {
       "ID": "ACH05",
@@ -1512,7 +1517,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "ACH18",
@@ -1615,7 +1620,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 5069,
+      "Progressed": 5071,
       "Completed": 26
     }
   ],
@@ -1623,8 +1628,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-12T16:57:58.7220785+00:00",
-  "LastChanged_Achievements": "2023-05-20T15:01:33.3119831+00:00",
+  "LastChanged_Achievements": "2023-05-20T16:00:57.381887+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:31.8748782+00:00",
-  "LastUpdate_Ratings": "2023-05-20T14:58:00.8854789+00:00",
-  "LastUpdate_Achievements": "2023-05-20T15:01:33.3120238+00:00"
+  "LastUpdate_Ratings": "2023-05-20T15:57:55.5698583+00:00",
+  "LastUpdate_Achievements": "2023-05-20T16:00:57.3819205+00:00"
 }

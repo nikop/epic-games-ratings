@@ -4,8 +4,8 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -29,10 +29,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 112,
-  "EOS_Completed": 18,
-  "EOS_NewPlayers": 44,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 16.07,
+  "EOS_Completed": 19,
+  "EOS_NewPlayers": 43,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 16.96,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -518,6 +518,11 @@
       "Time": "2023-05-20T15:06:12.8613692+00:00",
       "NumProgressed": 112,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-20T16:05:27.1625646+00:00",
+      "NumProgressed": 112,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 22,
@@ -623,25 +628,25 @@
       "ID": "LEVEL_013",
       "SetID": "3khpmem",
       "Name": "Elevated ring",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "LEVEL_014",
       "SetID": "3khpmem",
       "Name": "Not lonely anymore",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "LEVEL_015",
       "SetID": "3khpmem",
       "Name": "Monumental tribute",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "LEVEL_016",
@@ -695,9 +700,9 @@
       "ID": "LEVEL_022",
       "SetID": "3khpmem",
       "Name": "Night walk along the beach",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     }
   ],
   "AchievementSets": [
@@ -705,15 +710,15 @@
       "ID": "3khpmem",
       "IsBase": true,
       "Progressed": 112,
-      "Completed": 18
+      "Completed": 19
     }
   ],
   "FirstSeen": "2023-04-28T06:58:06.5817191+00:00",
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-20T15:06:12.8613686+00:00",
+  "LastChanged_Achievements": "2023-05-20T16:05:27.1625639+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:36.8517809+00:00",
-  "LastUpdate_Ratings": "2023-05-20T14:58:07.6178036+00:00",
-  "LastUpdate_Achievements": "2023-05-20T15:06:12.8613882+00:00"
+  "LastUpdate_Ratings": "2023-05-20T15:58:01.2484316+00:00",
+  "LastUpdate_Achievements": "2023-05-20T16:05:27.1625823+00:00"
 }

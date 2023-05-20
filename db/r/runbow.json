@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 243314,
+  "EOS_Progressed": 243317,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 396,
   "EOS_NewCompleters": 0,
@@ -2734,6 +2734,11 @@
       "Time": "2023-05-20T15:06:33.6098848+00:00",
       "NumProgressed": 243314,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-20T16:05:45.8509225+00:00",
+      "NumProgressed": 243317,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 46,
@@ -2801,7 +2806,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 41363
+      "UsersEstimate": 41364
     },
     {
       "ID": "cantBeKeptDown",
@@ -2817,7 +2822,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 36497
+      "UsersEstimate": 36498
     },
     {
       "ID": "clearCut",
@@ -2897,7 +2902,7 @@
       "Name": "He Who Laughs Last",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7299
+      "UsersEstimate": 7300
     },
     {
       "ID": "hereWeGo",
@@ -2921,7 +2926,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 128956
+      "UsersEstimate": 128958
     },
     {
       "ID": "indegestible",
@@ -2985,7 +2990,7 @@
       "Name": "My First Runbow",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 124090
+      "UsersEstimate": 124092
     },
     {
       "ID": "notScared",
@@ -3033,7 +3038,7 @@
       "Name": "Shoo, Cat!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7299
+      "UsersEstimate": 7300
     },
     {
       "ID": "talentScout",
@@ -3049,7 +3054,7 @@
       "Name": "The Stunner",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51096
+      "UsersEstimate": 51097
     },
     {
       "ID": "thunderstruck",
@@ -3105,14 +3110,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 38930
+      "UsersEstimate": 38931
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 243314,
+      "Progressed": 243317,
       "Completed": 2
     }
   ],
@@ -3120,8 +3125,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-05-20T15:06:33.6098841+00:00",
+  "LastChanged_Achievements": "2023-05-20T16:05:45.8509217+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:26.6901793+00:00",
-  "LastUpdate_Ratings": "2023-05-20T14:59:33.3041561+00:00",
-  "LastUpdate_Achievements": "2023-05-20T15:06:33.6099409+00:00"
+  "LastUpdate_Ratings": "2023-05-20T15:59:12.5623306+00:00",
+  "LastUpdate_Achievements": "2023-05-20T16:05:45.8509773+00:00"
 }

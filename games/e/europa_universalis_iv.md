@@ -6,29 +6,29 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,637 |
-| That's a Grand Army | 8.00% | ~3,233 |
-| That is mine! | 8.00% | ~3,233 |
-| Victorious! | 8.00% | ~3,233 |
-| Brothers in Arms | 6.00% | ~2,424 |
-| That's a Grand Navy | 6.00% | ~2,424 |
-| Seriously?! | 6.00% | ~2,424 |
-| For the Glory | 5.00% | ~2,020 |
-| Cold War | 4.00% | ~1,616 |
-| True Catholic | 4.00% | ~1,616 |
-| Defender of the Faith | 3.00% | ~1,212 |
-| It's all about the money | 3.00% | ~1,212 |
-| Respected | 3.00% | ~1,212 |
-| Truly Divine Ruler | 3.00% | ~1,212 |
-| Blockader | 2.00% | ~808 |
-| Combined Arms | 2.00% | ~808 |
-| Double the Love | 2.00% | ~808 |
-| Gentle Persuasion | 2.00% | ~808 |
-| It's all about luck | 2.00% | ~808 |
-| Queen of Conquest | 2.00% | ~808 |
-| Royal Authority | 2.00% | ~808 |
-| The Princess is in this Castle | 2.00% | ~808 |
-| Total Control | 2.00% | ~808 |
+| Until death do us apart | 9.00% | ~3,640 |
+| That's a Grand Army | 8.00% | ~3,236 |
+| That is mine! | 8.00% | ~3,236 |
+| Victorious! | 8.00% | ~3,236 |
+| Brothers in Arms | 6.00% | ~2,427 |
+| That's a Grand Navy | 6.00% | ~2,427 |
+| Seriously?! | 6.00% | ~2,427 |
+| For the Glory | 5.00% | ~2,022 |
+| Cold War | 4.00% | ~1,618 |
+| True Catholic | 4.00% | ~1,618 |
+| Defender of the Faith | 3.00% | ~1,213 |
+| It's all about the money | 3.00% | ~1,213 |
+| Respected | 3.00% | ~1,213 |
+| Truly Divine Ruler | 3.00% | ~1,213 |
+| Blockader | 2.00% | ~809 |
+| Combined Arms | 2.00% | ~809 |
+| Double the Love | 2.00% | ~809 |
+| Gentle Persuasion | 2.00% | ~809 |
+| It's all about luck | 2.00% | ~809 |
+| Queen of Conquest | 2.00% | ~809 |
+| Royal Authority | 2.00% | ~809 |
+| The Princess is in this Castle | 2.00% | ~809 |
+| Total Control | 2.00% | ~809 |
 | Agressive Expander | 1.00% | ~404 |
 | All That's Thine Shall Be Mine | 1.00% | ~404 |
 | Azur semé de lis or | 1.00% | ~404 |
@@ -38,17 +38,17 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~404 |
 | My armies are invincible! | 1.00% | ~404 |
 | The Five Colonies | 0.90% | ~364 |
-| The Emperors new clothes | 0.80% | ~323 |
-| Isn't this the way to India? | 0.80% | ~323 |
-| Market Control | 0.80% | ~323 |
-| This navy can take it all | 0.80% | ~323 |
+| The Emperors new clothes | 0.80% | ~324 |
+| Isn't this the way to India? | 0.80% | ~324 |
+| Market Control | 0.80% | ~324 |
+| This navy can take it all | 0.80% | ~324 |
 | Down Under | 0.70% | ~283 |
-| Time Bandit | 0.60% | ~242 |
-| Trustworthy | 0.60% | ~242 |
+| Electable! | 0.60% | ~243 |
+| Time Bandit | 0.60% | ~243 |
+| Trustworthy | 0.60% | ~243 |
 | All belongs to Mother Russia | 0.50% | ~202 |
 | At every continent | 0.50% | ~202 |
 | Early-Modern Warfare | 0.50% | ~202 |
-| Electable! | 0.50% | ~202 |
 | One Family to Rule them All | 0.50% | ~202 |
 | The pen is mightier than the sword | 0.50% | ~202 |
 | Absolutely | 0.40% | ~162 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,408 (Ranked 80)  
+Progressed: 40,448 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -391,10 +391,10 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-17 | 38,614 | 0 |
 | 2023-05-18 | 39,222 | 0 |
 | 2023-05-19 | 39,979 | 0 |
-| 2023-05-20 | 40,408 | 0 |
+| 2023-05-20 | 40,448 | 0 |
 ## Awards
 Max (Educational): 5,255  (Ranked 60)  
-Sum: 43,499 (Ranked 27)  
+Sum: 43,505 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -403,7 +403,7 @@ Diff (max vs sum): 33
 | This game has Challenging Combat | 5,018 |
 | This game is Extremely Fun | 4,994 |
 | This game has Diverse Characters | 4,947 |
-| This game is Relaxing | 4,888 |
+| This game is Relaxing | 4,894 |
 | This game has Competitive Players | 4,728 |
 | This game has Amazing Storytelling | 4,487 |
 | This game has Amazing Characters | 4,138 |
@@ -534,4 +534,4 @@ Diff (max vs sum): 33
 | 2023-05-17 | 4.68 | - | 5,228 | 43,298 |
 | 2023-05-18 | 4.68 | - | 5,232 | 43,381 |
 | 2023-05-19 | 4.68 | - | 5,242 | 43,472 |
-| 2023-05-20 | 4.68 | - | 5,255 | 43,499 |
+| 2023-05-20 | 4.68 | - | 5,255 | 43,505 |

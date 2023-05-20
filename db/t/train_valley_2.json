@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 151,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
     "PcReleaseDate": "2019-04-15T00:00:00+00:00",
@@ -554,9 +554,9 @@
       "ID": "AchievementGetOutMyWay",
       "SetID": "76o014g",
       "Name": "Get out my way",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 21
     },
     {
       "ID": "AchievementGlobalisationAge",
@@ -578,9 +578,9 @@
       "ID": "AchievementIndividualDelivery",
       "SetID": "76o014g",
       "Name": "Individual delivery",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 36
     },
     {
       "ID": "AchievementIndustrialAge",
@@ -634,9 +634,9 @@
       "ID": "AchievementJuggler",
       "SetID": "76o014g",
       "Name": "Juggler",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 36
     },
     {
       "ID": "AchievementJustInTime",
@@ -674,9 +674,9 @@
       "ID": "AchievementMegaRailroad",
       "SetID": "76o014g",
       "Name": "Mega-railroad",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 28
     },
     {
       "ID": "AchievementMetroBuilder",
@@ -968,8 +968,8 @@
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-05-04T07:57:22.9551284+00:00",
-  "LastChanged_Achievements": "2023-05-20T15:06:35.3745755+00:00",
+  "LastChanged_Achievements": "2023-05-20T16:05:47.5712062+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:00.6806293+00:00",
-  "LastUpdate_Ratings": "2023-05-20T14:57:28.7933219+00:00",
-  "LastUpdate_Achievements": "2023-05-20T15:06:35.3746562+00:00"
+  "LastUpdate_Ratings": "2023-05-20T15:57:28.0380473+00:00",
+  "LastUpdate_Achievements": "2023-05-20T16:05:47.5712753+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "space-punks",
   "Ranking_Rating": 839,
   "Ranking_Popularity": 273,
-  "Ranking_PopularitySum": 231,
+  "Ranking_PopularitySum": 232,
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-04-20T14:00:00+00:00",
     "PcReleaseDate": "2022-04-20T14:00:00+00:00",
@@ -1732,10 +1732,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 950,
       "NumberOfAwardsMax": 171
+    },
+    {
+      "Time": "2023-05-20T15:58:10.0404972+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 951,
+      "NumberOfAwardsMax": 171
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 950,
+  "NumberOfAwards": 951,
   "NumberOfAwardsMax": 171,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1779,7 +1785,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 165
+      "Count": 166
     }
   ],
   "EOS_Progressed": 0,
@@ -1793,8 +1799,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:42.1353747+00:00",
-  "LastChanged": "2023-05-05T19:59:24.9020532+00:00",
+  "LastChanged": "2023-05-20T15:58:10.0404971+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:44.2252296+00:00",
-  "LastUpdate_Ratings": "2023-05-20T14:58:17.9953281+00:00",
-  "LastUpdate_Achievements": "2023-05-20T15:03:57.8997498+00:00"
+  "LastUpdate_Ratings": "2023-05-20T15:58:10.0404976+00:00",
+  "LastUpdate_Achievements": "2023-05-20T16:03:29.5586089+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -225,9 +225,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1570,
+  "EOS_Progressed": 1572,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -410,6 +410,11 @@
       "Time": "2023-05-20T12:06:18.5552116+00:00",
       "NumProgressed": 1570,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-20T16:06:08.2976531+00:00",
+      "NumProgressed": 1572,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -429,7 +434,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1038
     },
     {
       "ID": "ACHV_03",
@@ -445,7 +450,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "ACHV_05",
@@ -453,7 +458,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "ACHV_06",
@@ -461,7 +466,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ACHV_07",
@@ -469,7 +474,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ACHV_08",
@@ -533,7 +538,7 @@
       "Name": "Hello Darkness My Old Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACHV_16",
@@ -573,7 +578,7 @@
       "Name": "Marked For Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACHV_21",
@@ -589,7 +594,7 @@
       "Name": "Offensive Defense",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ACHV_23",
@@ -597,7 +602,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "ACHV_24",
@@ -619,9 +624,9 @@
       "ID": "ACHV_26",
       "SetID": "8p5mlmc",
       "Name": "Rigged And Ready",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1258
     },
     {
       "ID": "ACHV_27",
@@ -629,7 +634,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "ACHV_28",
@@ -669,7 +674,7 @@
       "Name": "Remote Surgery",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACHV_33",
@@ -701,7 +706,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ACHV_37",
@@ -709,7 +714,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ACHV_38",
@@ -725,7 +730,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "ACHV_40",
@@ -749,7 +754,7 @@
       "Name": "Sorry, Didn\u0027t See You There",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ACHV_43",
@@ -765,7 +770,7 @@
       "Name": "Counter-Sniper",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACHV_45",
@@ -773,7 +778,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "ACHV_46",
@@ -813,15 +818,15 @@
       "Name": "Shrimp Cocktail",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACHV_51",
       "SetID": "8p5mlmc",
       "Name": "Homewrecker",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 47
     },
     {
       "ID": "ACHV_52",
@@ -876,7 +881,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1570,
+      "Progressed": 1572,
       "Completed": 10
     }
   ],
@@ -884,8 +889,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-05-20T15:06:58.1713671+00:00",
+  "LastChanged_Achievements": "2023-05-20T16:06:08.2976526+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:42.7008662+00:00",
-  "LastUpdate_Ratings": "2023-05-20T15:01:09.7473255+00:00",
-  "LastUpdate_Achievements": "2023-05-20T15:06:58.171424+00:00"
+  "LastUpdate_Ratings": "2023-05-20T16:00:36.1934165+00:00",
+  "LastUpdate_Achievements": "2023-05-20T16:06:08.2977058+00:00"
 }

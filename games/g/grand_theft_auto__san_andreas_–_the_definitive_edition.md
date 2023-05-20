@@ -5,23 +5,23 @@ Rating: 4.61 (Ranked 357)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~6,305 |
-| Pay 'n' Spray | 48.00% | ~3,783 |
-| All Dressed Up for San Fierro | 22.00% | ~1,734 |
-| The American Dream | 17.00% | ~1,340 |
-| School's Out | 16.00% | ~1,261 |
-| Smooth Moves | 15.00% | ~1,182 |
-| Today Was a Good Day | 13.00% | ~1,025 |
-| What happens in Las Venturas... | 12.00% | ~946 |
-| Horror of the Santa Maria | 9.00% | ~709 |
-| Liberty City State of Mind | 8.00% | ~630 |
+| Getting Started | 80.00% | ~6,311 |
+| Pay 'n' Spray | 48.00% | ~3,787 |
+| All Dressed Up for San Fierro | 22.00% | ~1,736 |
+| The American Dream | 17.00% | ~1,341 |
+| School's Out | 16.00% | ~1,262 |
+| Smooth Moves | 15.00% | ~1,183 |
+| Today Was a Good Day | 13.00% | ~1,026 |
+| What happens in Las Venturas... | 12.00% | ~947 |
+| Horror of the Santa Maria | 9.00% | ~710 |
+| Liberty City State of Mind | 8.00% | ~631 |
 | With Extra Dip | 6.00% | ~473 |
 | The End of the Line | 6.00% | ~473 |
 | Original Gangster | 6.00% | ~473 |
 | Saviour | 5.00% | ~394 |
-| They Can’t Stop All of Us | 4.00% | ~315 |
-| Rescue a Kitten Too? | 4.00% | ~315 |
-| What are the Odds | 3.00% | ~236 |
+| They Can’t Stop All of Us | 4.00% | ~316 |
+| Rescue a Kitten Too? | 4.00% | ~316 |
+| What are the Odds | 3.00% | ~237 |
 | I’ll Have Two Number 9s | 2.00% | ~158 |
 | Bike or Biker | 2.00% | ~158 |
 | What the City Needs | 2.00% | ~158 |
@@ -33,15 +33,15 @@ Rating: 4.61 (Ranked 357)
 | Swiss Army Strife | 1.00% | ~79 |
 | Assassin | 1.00% | ~79 |
 | Ain’t Nothing But a G Thing | 1.00% | ~79 |
-| Lucky Spinner | 0.90% | ~71 |
 | Chick Magnet | 0.90% | ~71 |
+| Lucky Spinner | 0.80% | ~63 |
 | Hoopin' it Up | 0.70% | ~55 |
 | Not a Player | 0.60% | ~47 |
 | Remastered | 0.50% | ~39 |
 | ...Here we go again | 0.30% | ~24 |
 | I Ain't No Buster | 0.20% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,881 (Ranked 110)  
+Progressed: 7,889 (Ranked 110)  
 Completed: 16 (0.20%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 16 (0.20%) (Ranked 140)
 | 2023-05-17 | 7,650 | 16 |
 | 2023-05-18 | 7,692 | 16 |
 | 2023-05-19 | 7,805 | 16 |
-| 2023-05-20 | 7,881 | 16 |
+| 2023-05-20 | 7,889 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

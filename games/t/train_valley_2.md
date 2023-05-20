@@ -8,15 +8,16 @@ Number of Ratings: 87  (23.09.2022)
 | ---- | ---------- | ----- |
 | Dealmaker | 6.00% | ~43 |
 | Full garage | 5.00% | ~36 |
+| Individual delivery | 5.00% | ~36 |
+| Juggler | 5.00% | ~36 |
 | To the eyeballs! | 5.00% | ~36 |
-| Individual delivery | 4.00% | ~28 |
-| Juggler | 4.00% | ~28 |
+| Mega-railroad | 4.00% | ~28 |
 | Builder | 3.00% | ~21 |
 | Close call! | 3.00% | ~21 |
 | Common cause | 3.00% | ~21 |
 | Forgot something | 3.00% | ~21 |
+| Get out my way | 3.00% | ~21 |
 | Just in time! | 3.00% | ~21 |
-| Mega-railroad | 3.00% | ~21 |
 | Miner | 3.00% | ~2 |
 | Need to think | 3.00% | ~21 |
 | Non-Stop | 3.00% | ~21 |
@@ -27,7 +28,6 @@ Number of Ratings: 87  (23.09.2022)
 | Beginner | 2.00% | ~14 |
 | Bridgemania | 2.00% | ~14 |
 | Critical care | 2.00% | ~14 |
-| Get out my way | 2.00% | ~14 |
 | Multilevel road | 2.00% | ~14 |
 | One way | 2.00% | ~14 |
 | Steam Age | 2.00% | ~14 |

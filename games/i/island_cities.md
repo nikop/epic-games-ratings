@@ -16,19 +16,19 @@
 | Easy and steady climb | 30.00% | ~34 |
 | At the heart of the city | 29.00% | ~32 |
 | Calm neighborhood | 28.00% | ~31 |
-| Elevated ring | 27.00% | ~30 |
-| Not lonely anymore | 24.00% | ~27 |
-| Monumental tribute | 21.00% | ~24 |
+| Elevated ring | 28.00% | ~31 |
+| Not lonely anymore | 25.00% | ~28 |
+| Monumental tribute | 22.00% | ~25 |
 | The beach is right there | 21.00% | ~24 |
 | Commuting | 21.00% | ~24 |
 | Le jardin magnifique | 18.00% | ~20 |
 | Aiming for a living and human city | 17.00% | ~19 |
 | City of dreams | 17.00% | ~19 |
 | Happy Christmas night! | 17.00% | ~19 |
-| Night walk along the beach | 16.00% | ~18 |
+| Night walk along the beach | 17.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 112 (Ranked 254)  
-Completed: 18 (16.07%) (Ranked 8)  
+Completed: 19 (16.96%) (Ranked 8)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -55,7 +55,7 @@ Completed: 18 (16.07%) (Ranked 8)
 | 2023-05-17 | 74 | 14 |
 | 2023-05-18 | 79 | 14 |
 | 2023-05-19 | 102 | 17 |
-| 2023-05-20 | 112 | 18 |
+| 2023-05-20 | 112 | 19 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

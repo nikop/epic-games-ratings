@@ -4,8 +4,8 @@
   "ProductSlug": "remains-dcb937",
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 13,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-05-03T17:00:00+00:00",
     "PcReleaseDate": "2021-06-09T12:00:00+00:00",
@@ -222,17 +222,17 @@
       "ID": "Achievement_OmNomNom",
       "SetID": "436h0ek",
       "Name": "Om nom nom",
-      "Percentage": 74,
+      "Percentage": 77,
       "XP": 200,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Achievement_RepairMaster",
       "SetID": "436h0ek",
       "Name": "Repair master",
-      "Percentage": 61,
+      "Percentage": 65,
       "XP": 200,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Achievement_Welcome",
@@ -253,8 +253,8 @@
   ],
   "FirstSeen": "2023-05-07T09:59:54.1262097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:43.8172139+00:00",
-  "LastChanged_Achievements": "2023-05-20T15:06:05.494355+00:00",
+  "LastChanged_Achievements": "2023-05-20T16:05:20.5788975+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:48.0322148+00:00",
-  "LastUpdate_Ratings": "2023-05-20T14:58:23.8372063+00:00",
-  "LastUpdate_Achievements": "2023-05-20T15:06:05.4943662+00:00"
+  "LastUpdate_Ratings": "2023-05-20T15:58:14.293758+00:00",
+  "LastUpdate_Achievements": "2023-05-20T16:05:20.5789062+00:00"
 }

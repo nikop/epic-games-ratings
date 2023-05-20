@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
     "PcReleaseDate": "2019-09-17T12:00:00+00:00",
@@ -652,9 +652,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1999,
+  "EOS_Progressed": 2001,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1087,6 +1087,11 @@
       "Time": "2023-05-20T15:06:16.4529778+00:00",
       "NumProgressed": 1999,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T16:05:30.481804+00:00",
+      "NumProgressed": 2001,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1184,17 +1189,17 @@
       "ID": "ACH_GDAY-MATE",
       "SetID": "72olkc5",
       "Name": "G\u0027Day Mate!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_GLOBETROTTER",
       "SetID": "72olkc5",
       "Name": "Globetrotter",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_GO-WITH-THE-FLOW",
@@ -1208,9 +1213,9 @@
       "ID": "ACH_GOAT-STATUS",
       "SetID": "72olkc5",
       "Name": "G.O.A.T. status",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_GOLDEN",
@@ -1344,9 +1349,9 @@
       "ID": "ACH_SKATEPARK-HERO",
       "SetID": "72olkc5",
       "Name": "Skatepark hero",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_SQUAD-GOALS",
@@ -1481,15 +1486,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 1999,
+      "Progressed": 2001,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-05-19T07:58:43.4333069+00:00",
-  "LastChanged_Achievements": "2023-05-20T15:06:16.4529772+00:00",
+  "LastChanged_Achievements": "2023-05-20T16:05:30.4818032+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:21.8061522+00:00",
-  "LastUpdate_Ratings": "2023-05-20T14:59:26.5921512+00:00",
-  "LastUpdate_Achievements": "2023-05-20T15:06:16.4530332+00:00"
+  "LastUpdate_Ratings": "2023-05-20T15:59:06.7509404+00:00",
+  "LastUpdate_Achievements": "2023-05-20T16:05:30.4818471+00:00"
 }

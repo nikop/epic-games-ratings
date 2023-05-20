@@ -6,37 +6,37 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 7.00% | ~2,192 |
-| To The Nines | 5.00% | ~1,566 |
-| Wet Work | 4.00% | ~1,253 |
-| Optimized | 4.00% | ~1,253 |
-| Performance Review | 4.00% | ~1,253 |
-| The Side Job | 3.00% | ~939 |
-| Tune Up | 3.00% | ~939 |
-| Landlord | 3.00% | ~939 |
-| Wrecking Ball | 3.00% | ~939 |
-| Making a Name | 3.00% | ~939 |
-| Food for Thought | 3.00% | ~939 |
-| Quality Time | 2.00% | ~626 |
-| Finders Keepers | 2.00% | ~626 |
-| A Young Empire | 2.00% | ~626 |
-| Power Players | 2.00% | ~626 |
-| Work Ethic | 2.00% | ~626 |
-| Took It to The Limit | 2.00% | ~626 |
-| Picking Fights | 2.00% | ~626 |
-| Hijacked | 1.00% | ~313 |
-| Showdown | 1.00% | ~313 |
-| Masters of Santo Ileso | 1.00% | ~313 |
-| Kitted Out | 1.00% | ~313 |
-| Et tu? | 1.00% | ~313 |
+| First F#@!ing Day | 7.00% | ~2,196 |
+| To The Nines | 5.00% | ~1,568 |
+| The Side Job | 4.00% | ~1,255 |
+| Wet Work | 4.00% | ~1,255 |
+| Optimized | 4.00% | ~1,255 |
+| Performance Review | 4.00% | ~1,255 |
+| Tune Up | 3.00% | ~941 |
+| Landlord | 3.00% | ~941 |
+| Wrecking Ball | 3.00% | ~941 |
+| Making a Name | 3.00% | ~941 |
+| Food for Thought | 3.00% | ~941 |
+| Quality Time | 2.00% | ~627 |
+| Finders Keepers | 2.00% | ~627 |
+| A Young Empire | 2.00% | ~627 |
+| Power Players | 2.00% | ~627 |
+| Work Ethic | 2.00% | ~627 |
+| Et tu? | 2.00% | ~627 |
+| Took It to The Limit | 2.00% | ~627 |
+| Picking Fights | 2.00% | ~627 |
+| Hijacked | 1.00% | ~314 |
+| Showdown | 1.00% | ~314 |
+| Masters of Santo Ileso | 1.00% | ~314 |
+| Kitted Out | 1.00% | ~314 |
 | Producer Credit | 1.00% | ~30 |
 | The Spins | 0.90% | ~282 |
 | The Mechanic | 0.90% | ~282 |
 | Closet Space | 0.80% | ~251 |
 | Face Off | 0.80% | ~24 |
-| We could go home, or… | 0.70% | ~219 |
-| Challenge Accepted | 0.70% | ~219 |
-| A Golden Age | 0.70% | ~219 |
+| We could go home, or… | 0.70% | ~220 |
+| Challenge Accepted | 0.70% | ~220 |
+| A Golden Age | 0.70% | ~220 |
 | Hazardous Heist | 0.70% | ~21 |
 | Untouchable | 0.60% | ~188 |
 | The Professional | 0.50% | ~157 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Heard You Like Wheels | 0.10% | ~31 |
 | Fiesta Time | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,315 (Ranked 83)  
+Progressed: 31,367 (Ranked 83)  
 Completed: 19 (0.06%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 19 (0.06%) (Ranked 170)
 | 2023-05-17 | 28,880 | 18 |
 | 2023-05-18 | 29,461 | 19 |
 | 2023-05-19 | 30,583 | 19 |
-| 2023-05-20 | 31,315 | 19 |
+| 2023-05-20 | 31,367 | 19 |
 ## Awards
 Max (Extremely Fun): 1,029  (Ranked 133)  
 Sum: 8,342 (Ranked 88)  

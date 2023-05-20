@@ -20,12 +20,11 @@ Number of Ratings: 111  (23.09.2022)
 | Good vibes | 7.00% | ~140 |
 | Fashionista | 6.00% | ~120 |
 | Finally he zips it | 6.00% | ~120 |
-| G'Day Mate! | 6.00% | ~120 |
 | That pinch! | 6.00% | ~120 |
 | Tight lipslides | 6.00% | ~120 |
 | Bottom ply killer | 5.00% | ~100 |
 | Fulfilled the dream | 5.00% | ~100 |
-| Globetrotter | 5.00% | ~100 |
+| G'Day Mate! | 5.00% | ~100 |
 | NAHELL! | 5.00% | ~100 |
 | Purple passion | 5.00% | ~100 |
 | Squad goals | 5.00% | ~100 |
@@ -33,7 +32,7 @@ Number of Ratings: 111  (23.09.2022)
 | Commence the Hijinx! | 4.00% | ~80 |
 | Cops called! | 4.00% | ~80 |
 | DIY Boss | 4.00% | ~80 |
-| G.O.A.T. status | 4.00% | ~80 |
+| Globetrotter | 4.00% | ~80 |
 | Laid back | 4.00% | ~80 |
 | Lines for days | 4.00% | ~80 |
 | Manny Destroys All | 4.00% | ~80 |
@@ -41,6 +40,7 @@ Number of Ratings: 111  (23.09.2022)
 | Renaissance man | 4.00% | ~80 |
 | Tank commander | 4.00% | ~80 |
 | Trick shot marksman | 4.00% | ~80 |
+| G.O.A.T. status | 3.00% | ~60 |
 | Hoarder | 3.00% | ~60 |
 | We get it, you're good | 3.00% | ~60 |
 | Cross lock country | 2.00% | ~40 |
@@ -48,14 +48,14 @@ Number of Ratings: 111  (23.09.2022)
 | Pew-Pew | 2.00% | ~40 |
 | Dipped! | 1.00% | ~20 |
 | That was wheelie fun | 1.00% | ~20 |
-| Skatepark hero | 0.80% | ~16 |
+| Skatepark hero | 0.70% | ~14 |
 | That's how it's done! | 0.10% | ~2 |
 | Ultimate skate nerd | 0.10% | ~2 |
 | Bing Bong! | 0.00% | ~0 |
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,999 (Ranked 146)  
+Progressed: 2,001 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-17 | 1,962 | 0 |
 | 2023-05-18 | 1,968 | 0 |
 | 2023-05-19 | 1,992 | 0 |
-| 2023-05-20 | 1,999 | 0 |
+| 2023-05-20 | 2,001 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 392)  
 Sum: 414 (Ranked 300)  

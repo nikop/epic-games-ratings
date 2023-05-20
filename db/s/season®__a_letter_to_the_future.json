@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 34,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -432,9 +432,9 @@
       "ID": "ACH_THEEND",
       "SetID": "7pam6gn",
       "Name": "The End",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 200,
-      "UsersEstimate": 86
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_TOURDETIENG",
@@ -457,8 +457,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-05-20T15:06:19.9327277+00:00",
+  "LastChanged_Achievements": "2023-05-20T16:05:33.5401296+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:12.4580527+00:00",
-  "LastUpdate_Ratings": "2023-05-20T14:58:52.6850079+00:00",
-  "LastUpdate_Achievements": "2023-05-20T15:06:19.9327438+00:00"
+  "LastUpdate_Ratings": "2023-05-20T15:58:39.0334137+00:00",
+  "LastUpdate_Achievements": "2023-05-20T16:05:33.5401455+00:00"
 }

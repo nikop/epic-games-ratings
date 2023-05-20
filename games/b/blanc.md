@@ -9,7 +9,7 @@
 | Stronger together | 11.00% | ~203 |
 | Helping the little ones | 9.00% | ~166 |
 | A big leap for wolfkind | 8.00% | ~148 |
-| Transmission | 7.00% | ~129 |
+| Transmission | 8.00% | ~148 |
 | The will to move on | 6.00% | ~111 |
 | Reunion | 6.00% | ~111 |
 | The end | 5.00% | ~92 |

@@ -4,8 +4,8 @@
   "ProductSlug": "neuronet-mendax-proxy",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-05-04T15:00:00+00:00",
     "PcReleaseDate": "2023-05-04T15:00:00+00:00",
@@ -248,9 +248,9 @@
       "ID": "FORTRAN_COMPLETE",
       "SetID": "2d85n75",
       "Name": "The Philosopher",
-      "Percentage": 33,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "FULL_COVERAGE",
@@ -320,9 +320,9 @@
       "ID": "PAPA_RU_COMPLETE",
       "SetID": "2d85n75",
       "Name": "The Partner",
-      "Percentage": 33,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "PATRIZIA_COMPLETE",
@@ -384,9 +384,9 @@
       "ID": "TALINGREY_COMPLETE",
       "SetID": "2d85n75",
       "Name": "The Companion",
-      "Percentage": 33,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "TASK_MASTER",
@@ -456,9 +456,9 @@
       "ID": "THOMPSON_COMPLETE",
       "SetID": "2d85n75",
       "Name": "The Counsellor",
-      "Percentage": 33,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "UNDER_THE_WEATHER",
@@ -521,8 +521,8 @@
   "FirstSeenRating": "2023-05-04T20:59:38.4702697+00:00",
   "FirstSeenAchievements": "2023-04-26T14:07:41.5246515+00:00",
   "LastChanged": "2023-05-04T20:59:38.4702697+00:00",
-  "LastChanged_Achievements": "2023-05-20T15:06:44.6434743+00:00",
+  "LastChanged_Achievements": "2023-05-20T16:05:55.9302356+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:04:57.9311486+00:00",
-  "LastUpdate_Ratings": "2023-05-20T15:00:11.2257833+00:00",
-  "LastUpdate_Achievements": "2023-05-20T15:06:44.6435145+00:00"
+  "LastUpdate_Ratings": "2023-05-20T15:59:45.8576148+00:00",
+  "LastUpdate_Achievements": "2023-05-20T16:05:55.930275+00:00"
 }

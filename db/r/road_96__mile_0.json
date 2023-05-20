@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 165,
+  "EOS_Progressed": 166,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.21,
+  "EOS_Completed_Percentage": 1.2,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:35.153611+00:00",
@@ -204,6 +204,11 @@
       "Time": "2023-05-20T15:06:24.8819248+00:00",
       "NumProgressed": 165,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-20T16:05:37.9297571+00:00",
+      "NumProgressed": 166,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -221,9 +226,9 @@
       "ID": "completeact2",
       "SetID": "40n95i5",
       "Name": "Conspiracy Theorist",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 80,
-      "UsersEstimate": 86
+      "UsersEstimate": 85
     },
     {
       "ID": "completeact3",
@@ -231,7 +236,7 @@
       "Name": "On the Road",
       "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "findalltapes",
@@ -253,17 +258,17 @@
       "ID": "scoreminrankrb1",
       "SetID": "40n95i5",
       "Name": "Truthseeker",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "scoreminrankrb2",
       "SetID": "40n95i5",
       "Name": "Freedom",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "scoreminrankrf1",
@@ -271,7 +276,7 @@
       "Name": "86\u0027s Nightmare",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "scoreminrankrf2",
@@ -295,7 +300,7 @@
       "Name": "This is Not Heavy Metal!",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "scoreminrankrp2",
@@ -303,7 +308,7 @@
       "Name": "Attack on Tyran",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "scoreminrankrp3",
@@ -317,9 +322,9 @@
       "ID": "scoreminrankrv1",
       "SetID": "40n95i5",
       "Name": "Welcome to the Garage",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 35
+      "UsersEstimate": 33
     },
     {
       "ID": "scoreminrankrv2",
@@ -334,7 +339,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 165,
+      "Progressed": 166,
       "Completed": 2
     }
   ],
@@ -342,8 +347,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-05-20T15:06:24.8819243+00:00",
+  "LastChanged_Achievements": "2023-05-20T16:05:37.929757+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:05.0477946+00:00",
-  "LastUpdate_Ratings": "2023-05-20T14:59:06.4970278+00:00",
-  "LastUpdate_Achievements": "2023-05-20T15:06:24.8819386+00:00"
+  "LastUpdate_Ratings": "2023-05-20T15:58:50.8095084+00:00",
+  "LastUpdate_Achievements": "2023-05-20T16:05:37.9297647+00:00"
 }

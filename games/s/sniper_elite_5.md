@@ -6,43 +6,44 @@ Rating: 4.41 (Ranked 657)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 6.00% | ~56 |
+| Confirming Suspicions | 3.00% | ~28 |
 | Enemy at the Gates | 2.00% | ~19 |
-| Confirming Suspicions | 2.00% | ~19 |
 | Lord of War | 1.00% | ~9 |
 | Resourceful | 1.00% | ~9 |
+| It's Starting to Crack | 1.00% | ~9 |
 | Organ Grinder | 0.90% | ~8 |
 | As Quiet as a Mouse | 0.90% | ~8 |
 | The Kraken Wakes | 0.90% | ~8 |
-| It's Starting to Crack | 0.90% | ~8 |
-| Opposing Force | 0.80% | ~7 |
-| The Long Game | 0.80% | ~7 |
-| Close Quarters | 0.80% | ~7 |
-| Change the Channel | 0.80% | ~7 |
-| Taking it back | 0.80% | ~7 |
-| The Kraken Sleeps | 0.80% | ~7 |
+| Change the Channel | 0.90% | ~8 |
+| Opposing Force | 0.70% | ~7 |
+| The Long Game | 0.70% | ~7 |
+| Close Quarters | 0.70% | ~7 |
+| Taking it back | 0.70% | ~7 |
+| Target America | 0.70% | ~7 |
+| The Kraken Sleeps | 0.70% | ~7 |
 | Precision Is Key | 0.60% | ~6 |
 | Explosive Efficiency | 0.60% | ~6 |
-| Target America | 0.60% | ~6 |
+| Liberté | 0.50% | ~5 |
 | Just a Flesh Wound | 0.50% | ~5 |
 | Gunslinger | 0.50% | ~5 |
-| Liberté | 0.40% | ~4 |
+| Snake in the Grass | 0.50% | ~5 |
 | Strategist | 0.40% | ~4 |
 | Skirmisher | 0.40% | ~4 |
 | Die Nussknacker Sweet! | 0.40% | ~4 |
 | Der Geist | 0.40% | ~4 |
-| Snake in the Grass | 0.40% | ~4 |
 | Climbing the Ladder | 0.30% | ~3 |
 | Sharpshooter | 0.30% | ~3 |
 | It'll Buff Right Out | 0.30% | ~3 |
 | Don't hold your breath | 0.30% | ~3 |
+| Brains of the Operation | 0.30% | ~3 |
 | Sink or Swim | 0.30% | ~2 |
 | No Stone Unturned | 0.20% | ~2 |
 | From Paris with Love | 0.20% | ~2 |
-| Brains of the Operation | 0.20% | ~2 |
 | Last Resort | 0.20% | ~2 |
 | Siegebreaker | 0.20% | ~2 |
 | Ghost of Falaise | 0.20% | ~2 |
 | Fields of Glory | 0.10% | ~1 |
+| Set Europe Ablaze | 0.10% | ~1 |
 | Rigged to Blow | 0.10% | ~1 |
 | My Little Friend | 0.10% | ~1 |
 | Burn after reading | 0.10% | ~1 |
@@ -63,7 +64,6 @@ Rating: 4.41 (Ranked 657)
 | Master of Secondaries | 0.00% | ~0 |
 | Master of Rifles | 0.00% | ~0 |
 | Master-at-arms | 0.00% | ~0 |
-| Set Europe Ablaze | 0.00% | ~0 |
 | Out of Scope | 0.00% | ~0 |
 | Souvenir hunter | 0.00% | ~0 |
 | Road Rage | 0.00% | ~0 |
@@ -77,8 +77,8 @@ Rating: 4.41 (Ranked 657)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 927 (Ranked 167)  
-Completed: 2 (0.22%) (Ranked 136)  
+Progressed: 937 (Ranked 167)  
+Completed: 2 (0.21%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -106,7 +106,7 @@ Completed: 2 (0.22%) (Ranked 136)
 | 2023-05-17 | 728 | 2 |
 | 2023-05-18 | 743 | 2 |
 | 2023-05-19 | 833 | 2 |
-| 2023-05-20 | 927 | 2 |
+| 2023-05-20 | 937 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
