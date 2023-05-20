@@ -2,9 +2,9 @@
   "ID": "9070f19d29354e45abf338e566da7ced",
   "Name": "FORECLOSED",
   "ProductSlug": "foreclosed",
-  "Ranking_EOS_Progress": 267,
-  "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_Progress": 266,
+  "Ranking_EOS_Completed": 57,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76,
+  "EOS_Progressed": 77,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.63,
+  "EOS_Completed_Percentage": 2.6,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -60,6 +60,11 @@
     {
       "Time": "2023-05-15T23:04:53.3248947+00:00",
       "NumProgressed": 76,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-20T08:06:45.7212068+00:00",
+      "NumProgressed": 77,
       "NumCompleted": 2
     }
   ],
@@ -118,7 +123,7 @@
       "ID": "ExpertChoice",
       "SetID": "9e3d06k",
       "Name": "Tough Decision",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
       "UsersEstimate": 18
     },
@@ -126,31 +131,31 @@
       "ID": "FirstAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Breaking Through",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "FirstSkillBuy",
       "SetID": "9e3d06k",
       "Name": "A.I. Training",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "GunUnlock",
       "SetID": "9e3d06k",
       "Name": "Symbiotic Weapon",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Headshots_0",
       "SetID": "9e3d06k",
       "Name": "Sniper",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 25,
       "UsersEstimate": 31
     },
@@ -166,7 +171,7 @@
       "ID": "KyklosPlan",
       "SetID": "9e3d06k",
       "Name": "The Red Herring",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 5,
       "UsersEstimate": 28
     },
@@ -190,7 +195,7 @@
       "ID": "Neuroconnector",
       "SetID": "9e3d06k",
       "Name": "The Neuro-connector",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
       "UsersEstimate": 15
     },
@@ -198,9 +203,9 @@
       "ID": "SecondAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Silent Overload",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "SecretEnding",
@@ -214,7 +219,7 @@
       "ID": "StealthDefeat_0",
       "SetID": "9e3d06k",
       "Name": "Flatline",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
       "UsersEstimate": 15
     },
@@ -254,7 +259,7 @@
       "ID": "ThirdAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Telekinesis",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
       "UsersEstimate": 24
     }
@@ -263,7 +268,7 @@
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 76,
+      "Progressed": 77,
       "Completed": 2
     }
   ],
@@ -271,8 +276,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2023-05-20T07:06:17.3357781+00:00",
+  "LastChanged_Achievements": "2023-05-20T08:06:45.7212062+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.8695872+00:00",
-  "LastUpdate_Ratings": "2023-05-20T06:59:24.6488003+00:00",
-  "LastUpdate_Achievements": "2023-05-20T07:06:17.3358011+00:00"
+  "LastUpdate_Ratings": "2023-05-20T07:59:33.548775+00:00",
+  "LastUpdate_Achievements": "2023-05-20T08:06:45.7212239+00:00"
 }

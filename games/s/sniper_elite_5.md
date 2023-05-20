@@ -36,6 +36,7 @@ Rating: 4.41 (Ranked 656)
 | Sink or Swim | 0.30% | ~2 |
 | Climbing the Ladder | 0.20% | ~2 |
 | No Stone Unturned | 0.20% | ~2 |
+| It'll Buff Right Out | 0.20% | ~2 |
 | Brains of the Operation | 0.20% | ~2 |
 | Last Resort | 0.20% | ~2 |
 | Fields of Glory | 0.10% | ~1 |
@@ -43,7 +44,6 @@ Rating: 4.41 (Ranked 656)
 | My Little Friend | 0.10% | ~1 |
 | From Paris with Love | 0.10% | ~1 |
 | Burn after reading | 0.10% | ~1 |
-| It'll Buff Right Out | 0.10% | ~1 |
 | Locomotion Commotion | 0.10% | ~1 |
 | Up close and personal | 0.10% | ~1 |
 | Shoot for the Moon | 0.10% | ~1 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 656)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 864 (Ranked 170)  
+Progressed: 867 (Ranked 169)  
 Completed: 2 (0.23%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 2 (0.23%) (Ranked 136)
 | 2023-05-17 | 728 | 2 |
 | 2023-05-18 | 743 | 2 |
 | 2023-05-19 | 833 | 2 |
-| 2023-05-20 | 864 | 2 |
+| 2023-05-20 | 867 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

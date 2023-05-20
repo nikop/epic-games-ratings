@@ -6,11 +6,11 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~522 |
-| Project Arena | 3.00% | ~391 |
-| Bloody Sport | 1.00% | ~130 |
+| Diligence as a goal | 4.00% | ~523 |
+| Project Arena | 3.00% | ~392 |
+| Bloody Sport | 1.00% | ~131 |
 | Qi Gong: Breath | 0.90% | ~6,334 |
-| The best strikes are the ones we avoid | 0.90% | ~117 |
+| The best strikes are the ones we avoid | 0.90% | ~118 |
 | The Hateful Pole Fighter | 0.80% | ~5,630 |
 | A Lady's Blood in the Snow | 0.80% | ~5,630 |
 | Lady Wing Chun | 0.80% | ~5,630 |
@@ -26,10 +26,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Essence | 0.70% | ~4,926 |
 | Lightning Hands | 0.70% | ~4,926 |
 | Take damage to save time | 0.70% | ~4,926 |
-| Scareless | 0.60% | ~4,222 |
-| Stuntmaster | 0.60% | ~4,222 |
-| Old Child | 0.60% | ~4,222 |
-| Kung-Fu Tussle | 0.60% | ~4,222 |
+| Scareless | 0.60% | ~4,223 |
+| Stuntmaster | 0.60% | ~4,223 |
+| Old Child | 0.60% | ~4,223 |
+| Kung-Fu Tussle | 0.60% | ~4,223 |
 | Deadly Venom | 0.60% | ~78 |
 | Dance of the Praying Mantis | 0.50% | ~3,519 |
 | Qi Gong: Mind | 0.50% | ~3,519 |
@@ -46,18 +46,18 @@ Number of Ratings: 9,492  (23.09.2022)
 | Sword Stained With Blood | 0.30% | ~2,111 |
 | Martial Hub | 0.30% | ~39 |
 | Secure, Protect, Leave | 0.30% | ~39 |
-| Drunken Fighter | 0.20% | ~1,407 |
-| Martial Artist | 0.20% | ~1,407 |
-| Knowledge Greed | 0.20% | ~1,407 |
-| Healing Memory | 0.20% | ~1,407 |
-| Master of the Phoenix Eye Fist | 0.20% | ~1,407 |
-| The Pit Protector | 0.20% | ~1,407 |
-| Be like water my friend | 0.20% | ~1,407 |
-| Come Snap With Me | 0.20% | ~1,407 |
+| Drunken Fighter | 0.20% | ~1,408 |
+| Martial Artist | 0.20% | ~1,408 |
+| Knowledge Greed | 0.20% | ~1,408 |
+| Healing Memory | 0.20% | ~1,408 |
+| Master of the Phoenix Eye Fist | 0.20% | ~1,408 |
+| The Pit Protector | 0.20% | ~1,408 |
+| Be like water my friend | 0.20% | ~1,408 |
+| Come Snap With Me | 0.20% | ~1,408 |
 | Ferocity, speed, strength, accuracy | 0.10% | ~704 |
 | Warriors from the Mountain | 0.10% | ~704 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703,739 (Ranked 15)  
+Progressed: 703,762 (Ranked 15)  
 Completed: 12,731 (1.81%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 12,731 (1.81%) (Ranked 65)
 | 2023-05-17 | 703,009 | 12,730 |
 | 2023-05-18 | 703,070 | 12,731 |
 | 2023-05-19 | 703,575 | 12,731 |
-| 2023-05-20 | 703,739 | 12,731 |
+| 2023-05-20 | 703,762 | 12,731 |
 ## Awards
 Max (Great Boss Battles): 6,075  (Ranked 53)  
 Sum: 10,336 (Ranked 77)  

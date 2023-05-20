@@ -5,26 +5,26 @@ Rating: 4.50 (Ranked 534)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 76.00% | ~1,062 |
+| Complete Guard Faction | 76.00% | ~1,063 |
 | Become King | 70.00% | ~979 |
 | Ranged Weapon | 59.00% | ~825 |
 | Defeat 25 Frogs | 59.00% | ~825 |
 | Collect Monster Parts | 55.00% | ~769 |
 | Two Handed Weapon | 54.00% | ~755 |
-| Defeat 25 Grubs | 50.00% | ~699 |
-| Rescue Redgi's Brothers | 49.00% | ~685 |
-| Collect Iron Ore | 45.00% | ~629 |
-| Kitchen Ready To Cook | 44.00% | ~615 |
-| Defeat 25 Mozis | 43.00% | ~601 |
-| Collect Gold | 42.00% | ~587 |
-| Smithy Ready to Craft | 42.00% | ~587 |
-| Fix the Travellers Wagon | 41.00% | ~573 |
-| Complete Elder Faction | 38.00% | ~531 |
-| End of the Mozis | 35.00% | ~489 |
-| Throne Room Fit For A King | 35.00% | ~489 |
-| Meet the Creatures from the Deep | 33.00% | ~461 |
-| Return Power To The Depths | 33.00% | ~461 |
-| Defeat Ratnor Rodentson | 27.00% | ~377 |
+| Defeat 25 Grubs | 50.00% | ~700 |
+| Rescue Redgi's Brothers | 49.00% | ~686 |
+| Collect Iron Ore | 45.00% | ~630 |
+| Kitchen Ready To Cook | 44.00% | ~616 |
+| Defeat 25 Mozis | 43.00% | ~602 |
+| Collect Gold | 42.00% | ~588 |
+| Smithy Ready to Craft | 42.00% | ~588 |
+| Fix the Travellers Wagon | 41.00% | ~574 |
+| Complete Elder Faction | 38.00% | ~532 |
+| End of the Mozis | 35.00% | ~490 |
+| Throne Room Fit For A King | 35.00% | ~490 |
+| Meet the Creatures from the Deep | 33.00% | ~462 |
+| Return Power To The Depths | 33.00% | ~462 |
+| Defeat Ratnor Rodentson | 27.00% | ~378 |
 | Return the Statues | 24.00% | ~336 |
 | Defeat Rattus Augustail | 24.00% | ~336 |
 | Complete the Chefs Book | 23.00% | ~322 |
@@ -36,7 +36,7 @@ Rating: 4.50 (Ranked 534)
 | King of Kings | 6.00% | ~84 |
 | A new Warchief rises | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,398 (Ranked 154)  
+Progressed: 1,399 (Ranked 154)  
 Completed: 6 (0.43%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,7 +60,7 @@ Completed: 6 (0.43%) (Ranked 111)
 | 2023-05-16 | 1,377 | 6 |
 | 2023-05-18 | 1,382 | 6 |
 | 2023-05-19 | 1,394 | 6 |
-| 2023-05-20 | 1,398 | 6 |
+| 2023-05-20 | 1,399 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

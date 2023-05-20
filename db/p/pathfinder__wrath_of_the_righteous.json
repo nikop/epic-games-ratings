@@ -2,12 +2,12 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 116,
+  "Ranking_Rating": 117,
   "Ranking_Popularity": 111,
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2438,9 +2438,9 @@
       "Count": 368
     }
   ],
-  "EOS_Progressed": 8941,
+  "EOS_Progressed": 8944,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3913,6 +3913,11 @@
       "Time": "2023-05-20T07:06:37.1679021+00:00",
       "NumProgressed": 8941,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T08:07:07.3007877+00:00",
+      "NumProgressed": 8944,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3924,7 +3929,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1163
     },
     {
       "ID": "02_BurningCity",
@@ -4060,7 +4065,7 @@
       "Name": "Mythic Choices",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "19_EqualToAroden",
@@ -4124,7 +4129,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "28_GreatUpstart",
@@ -4172,7 +4177,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -4804,7 +4809,7 @@
       "Name": "Hanged Man\u0027s Notes",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "DLC4_25_Sarkoris Will Be Green",
@@ -4836,7 +4841,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -4844,28 +4849,28 @@
       "Name": "Beware Still Water",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7723,
+      "Progressed": 7726,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8941,
+      "Progressed": 8944,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-20T05:58:29.572128+00:00",
-  "LastChanged_Achievements": "2023-05-20T07:06:37.1679018+00:00",
+  "LastChanged_Achievements": "2023-05-20T08:07:07.300787+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3010226+00:00",
-  "LastUpdate_Ratings": "2023-05-20T06:58:34.2798517+00:00",
-  "LastUpdate_Achievements": "2023-05-20T07:06:37.168045+00:00"
+  "LastUpdate_Ratings": "2023-05-20T07:58:36.4352494+00:00",
+  "LastUpdate_Achievements": "2023-05-20T08:07:07.3009875+00:00"
 }

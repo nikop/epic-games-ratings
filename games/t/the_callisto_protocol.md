@@ -13,8 +13,8 @@ Rating: 4.18 (Ranked 829)
 | Bear Trap | 1.00% | ~8 |
 | Big Spender | 0.70% | ~6 |
 | Float Like A Butterfly | 0.60% | ~77 |
-| The Commonality | 0.50% | ~64 |
-| Mugshot | 0.50% | ~64 |
+| The Commonality | 0.50% | ~65 |
+| Mugshot | 0.50% | ~65 |
 | Lifer | 0.40% | ~3 |
 | Parole Denied | 0.40% | ~3 |
 | Hoard Mode | 0.40% | ~3 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 829)
 | I am the Danger | 0.00% | ~0 |
 | Subject Alpha | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,895 (Ranked 101)  
+Progressed: 12,901 (Ranked 101)  
 Completed: 51 (0.40%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 51 (0.40%) (Ranked 112)
 | 2023-05-17 | 12,567 | 49 |
 | 2023-05-18 | 12,620 | 51 |
 | 2023-05-19 | 12,841 | 51 |
-| 2023-05-20 | 12,895 | 51 |
+| 2023-05-20 | 12,901 | 51 |
 ## Awards
 Max (Amazing Storytelling): 46  (Ranked 397)  
 Sum: 246 (Ranked 341)  

@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Treasure Hunting | 39.00% | ~11 |
+| Treasure Hunting | 43.00% | ~12 |
+| Might be useful… | 43.00% | ~12 |
+| Friend! | 39.00% | ~11 |
 | Uncut Gem | 39.00% | ~11 |
-| Might be useful… | 39.00% | ~11 |
-| Friend! | 36.00% | ~10 |
 | Setting Off | 32.00% | ~9 |
 | Shine! | 32.00% | ~9 |
 | Riddlesolver | 29.00% | ~8 |
@@ -45,7 +45,7 @@
 | Gladiator | 4.00% | ~1 |
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28 (Ranked 303)  
+Progressed: 28 (Ranked 304)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |

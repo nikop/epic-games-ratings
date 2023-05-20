@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1148,9 +1148,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61273,
+  "EOS_Progressed": 61281,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 444,
+  "EOS_NewPlayers": 452,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3033,6 +3033,11 @@
       "Time": "2023-05-20T07:06:40.6241387+00:00",
       "NumProgressed": 61273,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-20T08:07:10.7823515+00:00",
+      "NumProgressed": 61281,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3386,9 +3391,9 @@
       "ID": "HERO_PROGRESSION_1",
       "SetID": "4eo5ebm",
       "Name": "First Step Into the Knight",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 429
+      "UsersEstimate": 490
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -3531,13 +3536,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61273,
+      "Progressed": 61281,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31553,
+      "Progressed": 31561,
       "Completed": 2640
     }
   ],
@@ -3545,8 +3550,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-19T11:00:31.9062538+00:00",
-  "LastChanged_Achievements": "2023-05-20T07:06:40.6241382+00:00",
+  "LastChanged_Achievements": "2023-05-20T08:07:10.782351+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-20T07:00:16.7731688+00:00",
-  "LastUpdate_Achievements": "2023-05-20T07:06:40.6241949+00:00"
+  "LastUpdate_Ratings": "2023-05-20T08:00:31.0888224+00:00",
+  "LastUpdate_Achievements": "2023-05-20T08:07:10.7824204+00:00"
 }

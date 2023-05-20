@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -411,9 +411,9 @@
       "ID": "ACHIEVEMENT_37",
       "SetID": "631ndc2",
       "Name": "Flawless Presentation",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -532,8 +532,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-05-20T07:06:24.4728515+00:00",
+  "LastChanged_Achievements": "2023-05-20T08:06:53.2950582+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.3315704+00:00",
-  "LastUpdate_Ratings": "2023-05-20T06:59:18.9296802+00:00",
-  "LastUpdate_Achievements": "2023-05-20T07:06:24.4728876+00:00"
+  "LastUpdate_Ratings": "2023-05-20T07:59:27.8500883+00:00",
+  "LastUpdate_Achievements": "2023-05-20T08:06:53.2951069+00:00"
 }

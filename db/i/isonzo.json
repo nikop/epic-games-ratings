@@ -544,9 +544,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5686,
+  "EOS_Progressed": 5687,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1034,6 +1034,11 @@
       "Time": "2023-05-20T07:06:09.6215504+00:00",
       "NumProgressed": 5686,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-20T08:06:36.9760978+00:00",
+      "NumProgressed": 5687,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -1101,7 +1106,7 @@
       "Name": "Dante\u0027s Inferno",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "ISONZO_ACH_DECIMATION",
@@ -1117,7 +1122,7 @@
       "Name": "Die Bosniaken Kommen!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
@@ -1173,7 +1178,7 @@
       "Name": "Insubordination",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -1237,7 +1242,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3070
+      "UsersEstimate": 3071
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -1317,7 +1322,7 @@
       "Name": "The Devil\u0027s Paintbrush",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "ISONZO_ACH_THE_ENLIGHTMENT",
@@ -1333,7 +1338,7 @@
       "Name": "The Italian Job",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -1341,7 +1346,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1024
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -1404,7 +1409,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5686,
+      "Progressed": 5687,
       "Completed": 8
     }
   ],
@@ -1412,8 +1417,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-19T05:57:11.7552648+00:00",
-  "LastChanged_Achievements": "2023-05-20T07:06:09.6215501+00:00",
+  "LastChanged_Achievements": "2023-05-20T08:06:36.9760973+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:10.2290416+00:00",
-  "LastUpdate_Ratings": "2023-05-20T06:57:28.5255668+00:00",
-  "LastUpdate_Achievements": "2023-05-20T07:06:09.6215812+00:00"
+  "LastUpdate_Ratings": "2023-05-20T07:57:22.0962089+00:00",
+  "LastUpdate_Achievements": "2023-05-20T08:06:36.9761346+00:00"
 }

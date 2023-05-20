@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1980,
+  "EOS_Progressed": 1982,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -887,6 +887,11 @@
       "Time": "2023-05-20T07:06:02.5328401+00:00",
       "NumProgressed": 1980,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T08:06:28.6545419+00:00",
+      "NumProgressed": 1982,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -1016,9 +1021,9 @@
       "ID": "ACH_BASE_25",
       "SetID": "92iocjf",
       "Name": "Remember the Dead",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_BASE_26",
@@ -1256,9 +1261,9 @@
       "ID": "ACH_BASE_57",
       "SetID": "92iocjf",
       "Name": "Pedal to the Metal",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_BASE_58",
@@ -1353,13 +1358,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 161,
+      "Progressed": 163,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 1980,
+      "Progressed": 1982,
       "Completed": 0
     }
   ],
@@ -1367,8 +1372,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-05-13T22:58:30.2604361+00:00",
-  "LastChanged_Achievements": "2023-05-20T07:06:02.5328395+00:00",
+  "LastChanged_Achievements": "2023-05-20T08:06:28.6545413+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.7103468+00:00",
-  "LastUpdate_Ratings": "2023-05-20T06:58:42.8458539+00:00",
-  "LastUpdate_Achievements": "2023-05-20T07:06:02.5328876+00:00"
+  "LastUpdate_Ratings": "2023-05-20T07:58:45.2401806+00:00",
+  "LastUpdate_Achievements": "2023-05-20T08:06:28.6546112+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Rising Storm 2: Vietnam",
   "ProductSlug": "rising-storm-2-vietnam",
   "Ranking_Rating": 534,
-  "Ranking_Popularity": 161,
+  "Ranking_Popularity": 160,
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2020-10-08T15:00:00+00:00",
@@ -3085,12 +3085,18 @@
       "Rating": 4.5,
       "NumberOfAwards": 6131,
       "NumberOfAwardsMax": 658
+    },
+    {
+      "Time": "2023-05-20T08:00:25.8919231+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 6136,
+      "NumberOfAwardsMax": 660
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6131,
-  "NumberOfAwardsMax": 658,
-  "MaxAwardTitle": "Diverse Characters",
+  "NumberOfAwards": 6136,
+  "NumberOfAwardsMax": 660,
+  "MaxAwardTitle": "Challenging Combat",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
@@ -3102,7 +3108,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 656
+      "Count": 660
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3132,7 +3138,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 579
+      "Count": 580
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3176,8 +3182,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:01.9832025+00:00",
-  "LastChanged": "2023-05-20T02:59:01.4867565+00:00",
+  "LastChanged": "2023-05-20T08:00:25.8919229+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:04:56.6724088+00:00",
-  "LastUpdate_Ratings": "2023-05-20T07:00:12.3009886+00:00",
-  "LastUpdate_Achievements": "2023-05-20T07:05:04.6326231+00:00"
+  "LastUpdate_Ratings": "2023-05-20T08:00:25.8919236+00:00",
+  "LastUpdate_Achievements": "2023-05-20T08:05:26.3624728+00:00"
 }

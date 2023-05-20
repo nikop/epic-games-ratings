@@ -764,9 +764,9 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 7243,
+  "EOS_Progressed": 7244,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1069,6 +1069,11 @@
       "Time": "2023-05-20T07:05:56.0175168+00:00",
       "NumProgressed": 7243,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-20T08:06:21.7469352+00:00",
+      "NumProgressed": 7244,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -1080,7 +1085,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1593
+      "UsersEstimate": 1594
     },
     {
       "ID": "Chatterbox",
@@ -1128,7 +1133,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 2752
+      "UsersEstimate": 2753
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -1136,7 +1141,7 @@
       "Name": "Deadly Power",
       "Percentage": 15,
       "XP": 90,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "FirstHeroLastBattle",
@@ -1216,7 +1221,7 @@
       "Name": "Quick Movements",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 2390
+      "UsersEstimate": 2391
     },
     {
       "ID": "SkeletonKing",
@@ -1232,7 +1237,7 @@
       "Name": "Inventory Management",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2390
+      "UsersEstimate": 2391
     },
     {
       "ID": "TheLegendBegins",
@@ -1240,7 +1245,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 6736
+      "UsersEstimate": 6737
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -1264,22 +1269,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6012
+      "UsersEstimate": 6013
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7243,
+      "Progressed": 7244,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-05-19T06:59:30.4131127+00:00",
-  "LastChanged_Achievements": "2023-05-20T07:05:56.0175164+00:00",
+  "LastChanged_Achievements": "2023-05-20T08:06:21.7469344+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.259325+00:00",
-  "LastUpdate_Ratings": "2023-05-20T06:59:19.1095208+00:00",
-  "LastUpdate_Achievements": "2023-05-20T07:05:56.0175318+00:00"
+  "LastUpdate_Ratings": "2023-05-20T07:59:28.0514698+00:00",
+  "LastUpdate_Achievements": "2023-05-20T08:06:21.7469547+00:00"
 }
