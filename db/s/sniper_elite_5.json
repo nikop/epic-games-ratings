@@ -6,8 +6,8 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 166,
-  "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_Completed": 139,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -176,9 +176,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 966,
+  "EOS_Progressed": 968,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -816,6 +816,11 @@
       "Time": "2023-05-20T19:06:07.7914772+00:00",
       "NumProgressed": 966,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-20T20:05:31.9360578+00:00",
+      "NumProgressed": 968,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -881,9 +886,9 @@
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
       "SetID": "bm6el81",
       "Name": "Just a Flesh Wound",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -961,9 +966,9 @@
       "ID": "REWARD_26_SHARPSHOOTER",
       "SetID": "bm6el81",
       "Name": "Sharpshooter",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -993,9 +998,9 @@
       "ID": "REWARD_2_GATHERING_INTEL",
       "SetID": "bm6el81",
       "Name": "Confirming Suspicions",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 39
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1025,9 +1030,9 @@
       "ID": "REWARD_34_TRIPLE_KILL",
       "SetID": "bm6el81",
       "Name": "Explosive Efficiency",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -1137,9 +1142,9 @@
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
       "SetID": "bm6el81",
       "Name": "It\u0027s Starting to Crack",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -1289,17 +1294,17 @@
       "ID": "REWARD_DLC01_06_HERR_TODAY",
       "SetID": "83mdf7p",
       "Name": "Herr Today, Gone Tomorrow",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
       "SetID": "83mdf7p",
       "Name": "Operation Foxley",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -1313,9 +1318,9 @@
       "ID": "REWARD_DLC01_09_LAST_RESORT",
       "SetID": "83mdf7p",
       "Name": "Last Resort",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -1394,13 +1399,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 917,
+      "Progressed": 919,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 966,
+      "Progressed": 968,
       "Completed": 2
     }
   ],
@@ -1408,8 +1413,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-18T16:01:31.1520338+00:00",
-  "LastChanged_Achievements": "2023-05-20T19:06:07.7914766+00:00",
+  "LastChanged_Achievements": "2023-05-20T20:05:31.9360571+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-20T19:00:51.6131966+00:00",
-  "LastUpdate_Achievements": "2023-05-20T19:06:07.791546+00:00"
+  "LastUpdate_Ratings": "2023-05-20T20:00:26.3266351+00:00",
+  "LastUpdate_Achievements": "2023-05-20T20:05:31.9361273+00:00"
 }

@@ -6,24 +6,24 @@ Number of Ratings: 36  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 72.00% | ~445 |
-| It’s Heating up! | 68.00% | ~420 |
-| Let’s patch things up | 65.00% | ~402 |
-| I can fix it! | 61.00% | ~377 |
-| Post No Bills | 55.00% | ~340 |
-| Truly Shocking! | 46.00% | ~284 |
-| Critical Thinker | 34.00% | ~210 |
-| Always Finding Your Mark | 29.00% | ~179 |
-| The Weight of the World | 28.00% | ~173 |
+| Breathe In… Breathe Out… | 72.00% | ~447 |
+| It’s Heating up! | 68.00% | ~422 |
+| Let’s patch things up | 65.00% | ~404 |
+| I can fix it! | 61.00% | ~379 |
+| Post No Bills | 54.00% | ~335 |
+| Truly Shocking! | 46.00% | ~286 |
+| Critical Thinker | 34.00% | ~211 |
+| Always Finding Your Mark | 29.00% | ~180 |
+| The Weight of the World | 28.00% | ~174 |
 | Act I Complete | 26.00% | ~161 |
 | A drop in the Ocean | 26.00% | ~161 |
 | No Niños | 26.00% | ~161 |
-| I ain’t afraid of no Ghost | 24.00% | ~148 |
+| I ain’t afraid of no Ghost | 24.00% | ~149 |
 | Act II Complete | 20.00% | ~124 |
-| A successful procedure! | 18.00% | ~111 |
-| Bing Bang BOOM | 18.00% | ~111 |
+| A successful procedure! | 18.00% | ~112 |
+| Bing Bang BOOM | 18.00% | ~112 |
 | Breaking the Ice | 16.00% | ~99 |
-| Solidarity Forever | 12.00% | ~74 |
+| Solidarity Forever | 12.00% | ~75 |
 | A Tucked Tale | 10.00% | ~62 |
 | The best thing money can buy | 9.00% | ~56 |
 | Act III Complete | 6.00% | ~37 |
@@ -34,7 +34,7 @@ Number of Ratings: 36  (23.09.2022)
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 618 (Ranked 185)  
+Progressed: 621 (Ranked 185)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -49,7 +49,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-13 | 602 | 0 |
 | 2023-05-18 | 606 | 0 |
 | 2023-05-19 | 614 | 0 |
-| 2023-05-20 | 618 | 0 |
+| 2023-05-20 | 621 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

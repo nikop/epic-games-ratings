@@ -5,8 +5,8 @@ Rating: 4.86 (Ranked 29)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Feeling the beat! | 85.00% | ~1,483 |
 | Start with a bang! | 84.00% | ~1,466 |
-| Feeling the beat! | 84.00% | ~1,466 |
 | You can pet the cat! | 79.00% | ~1,379 |
 | Who put gears in there? | 74.00% | ~1,291 |
 | Cream of the Crop | 70.00% | ~1,222 |

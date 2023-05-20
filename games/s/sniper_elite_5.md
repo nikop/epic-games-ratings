@@ -6,41 +6,43 @@ Rating: 4.41 (Ranked 658)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 6.00% | ~58 |
-| Confirming Suspicions | 3.00% | ~29 |
+| Confirming Suspicions | 4.00% | ~39 |
 | Enemy at the Gates | 2.00% | ~19 |
 | Lord of War | 2.00% | ~19 |
 | Resourceful | 2.00% | ~19 |
 | Organ Grinder | 1.00% | ~10 |
 | The Kraken Wakes | 1.00% | ~10 |
+| It's Starting to Crack | 1.00% | ~10 |
 | Close Quarters | 0.90% | ~9 |
-| It's Starting to Crack | 0.90% | ~9 |
 | Opposing Force | 0.80% | ~8 |
 | The Long Game | 0.80% | ~8 |
+| Explosive Efficiency | 0.80% | ~8 |
 | Die Nussknacker Sweet! | 0.80% | ~8 |
 | As Quiet as a Mouse | 0.80% | ~8 |
 | Change the Channel | 0.80% | ~8 |
 | Taking it back | 0.80% | ~8 |
 | The Kraken Sleeps | 0.80% | ~8 |
-| Explosive Efficiency | 0.70% | ~7 |
 | Target America | 0.70% | ~7 |
+| Just a Flesh Wound | 0.60% | ~6 |
 | Precision Is Key | 0.60% | ~6 |
 | Snake in the Grass | 0.60% | ~6 |
 | Liberté | 0.50% | ~5 |
-| Just a Flesh Wound | 0.50% | ~5 |
 | Gunslinger | 0.50% | ~5 |
 | Der Geist | 0.50% | ~5 |
 | Climbing the Ladder | 0.40% | ~4 |
 | Strategist | 0.40% | ~4 |
 | Skirmisher | 0.40% | ~4 |
+| Sharpshooter | 0.40% | ~4 |
 | Brains of the Operation | 0.40% | ~4 |
-| Sharpshooter | 0.30% | ~3 |
 | It'll Buff Right Out | 0.30% | ~3 |
 | Don't hold your breath | 0.30% | ~3 |
+| Herr Today, Gone Tomorrow | 0.30% | ~3 |
+| Operation Foxley | 0.30% | ~3 |
+| Last Resort | 0.30% | ~3 |
 | Sink or Swim | 0.30% | ~2 |
 | No Stone Unturned | 0.20% | ~2 |
 | Rigged to Blow | 0.20% | ~2 |
 | From Paris with Love | 0.20% | ~2 |
-| Last Resort | 0.20% | ~2 |
 | Siegebreaker | 0.20% | ~2 |
 | Ghost of Falaise | 0.20% | ~2 |
 | Fields of Glory | 0.10% | ~1 |
@@ -55,8 +57,6 @@ Rating: 4.41 (Ranked 658)
 | Führerious Repetition | 0.10% | ~1 |
 | Reich To The Point | 0.10% | ~1 |
 | Covert Elimination | 0.10% | ~1 |
-| Herr Today, Gone Tomorrow | 0.10% | ~1 |
-| Operation Foxley | 0.10% | ~1 |
 | Operation Overlord | 0.10% | ~1 |
 | If You Go Down To The Woods Today | 0.10% | ~1 |
 | Best of the Best | 0.00% | ~0 |
@@ -77,8 +77,8 @@ Rating: 4.41 (Ranked 658)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 966 (Ranked 166)  
-Completed: 2 (0.21%) (Ranked 140)  
+Progressed: 968 (Ranked 166)  
+Completed: 2 (0.21%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -106,7 +106,7 @@ Completed: 2 (0.21%) (Ranked 140)
 | 2023-05-17 | 728 | 2 |
 | 2023-05-18 | 743 | 2 |
 | 2023-05-19 | 833 | 2 |
-| 2023-05-20 | 966 | 2 |
+| 2023-05-20 | 968 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

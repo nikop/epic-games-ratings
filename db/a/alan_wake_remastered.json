@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46494,
+  "EOS_Progressed": 46501,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 346,
+  "EOS_NewPlayers": 353,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2011,6 +2011,11 @@
       "Time": "2023-05-20T19:06:12.1089019+00:00",
       "NumProgressed": 46494,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-05-20T20:05:36.2846783+00:00",
+      "NumProgressed": 46501,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 67,
@@ -2022,7 +2027,7 @@
       "Name": "Follow the Light",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9299
+      "UsersEstimate": 9300
     },
     {
       "ID": "02",
@@ -2030,7 +2035,7 @@
       "Name": "Nordic Walking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6044
+      "UsersEstimate": 6045
     },
     {
       "ID": "03",
@@ -2038,7 +2043,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6044
+      "UsersEstimate": 6045
     },
     {
       "ID": "04",
@@ -2054,7 +2059,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5114
+      "UsersEstimate": 5115
     },
     {
       "ID": "06",
@@ -2062,7 +2067,7 @@
       "Name": "Park Ranger",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4184
+      "UsersEstimate": 4185
     },
     {
       "ID": "07",
@@ -2262,7 +2267,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4184
+      "UsersEstimate": 4185
     },
     {
       "ID": "32",
@@ -2270,7 +2275,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7439
+      "UsersEstimate": 7440
     },
     {
       "ID": "33",
@@ -2294,7 +2299,7 @@
       "Name": "Let There Be Light",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7439
+      "UsersEstimate": 7440
     },
     {
       "ID": "36",
@@ -2326,7 +2331,7 @@
       "Name": "Gunless Wonder",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "40",
@@ -2342,7 +2347,7 @@
       "Name": "Finders Keepers",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4184
+      "UsersEstimate": 4185
     },
     {
       "ID": "42",
@@ -2350,7 +2355,7 @@
       "Name": "Every Nook and Cranny",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "43",
@@ -2358,7 +2363,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 4184
+      "UsersEstimate": 4185
     },
     {
       "ID": "44",
@@ -2374,7 +2379,7 @@
       "Name": "Collector\u0027s Edition",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "46",
@@ -2390,7 +2395,7 @@
       "Name": "Hypercaffeinated",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "48",
@@ -2422,7 +2427,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "52",
@@ -2557,21 +2562,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46494,
+      "Progressed": 46501,
       "Completed": 45
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 9962,
+      "Progressed": 9969,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-20T19:06:12.1089014+00:00",
+  "LastChanged_Achievements": "2023-05-20T20:05:36.2846775+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:07.5579983+00:00",
-  "LastUpdate_Ratings": "2023-05-20T18:57:53.4010334+00:00",
-  "LastUpdate_Achievements": "2023-05-20T19:06:12.1089746+00:00"
+  "LastUpdate_Ratings": "2023-05-20T19:57:29.3987092+00:00",
+  "LastUpdate_Achievements": "2023-05-20T20:05:36.2848045+00:00"
 }

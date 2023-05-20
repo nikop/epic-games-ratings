@@ -6,16 +6,16 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 31.00% | ~809 |
+| Executioner | 31.00% | ~810 |
 | Look Over There! | 28.00% | ~731 |
 | Not So Fast... | 27.00% | ~705 |
 | Watch Where You Step... | 27.00% | ~705 |
-| An Ill Omen | 25.00% | ~652 |
-| Purging Spree | 21.00% | ~548 |
+| An Ill Omen | 25.00% | ~653 |
+| Purging Spree | 21.00% | ~549 |
 | Blood for the Blood God! | 16.00% | ~418 |
 | Friendly Fire | 16.00% | ~418 |
-| Surgical Excision | 14.00% | ~365 |
-| Bloodless | 14.00% | ~365 |
+| Surgical Excision | 14.00% | ~366 |
+| Bloodless | 14.00% | ~366 |
 | Honoured Battle-Brother | 11.00% | ~287 |
 | The Emperor Protects | 11.00% | ~287 |
 | Nemesis Master | 10.00% | ~261 |
@@ -45,7 +45,7 @@ Number of Ratings: 371  (23.09.2022)
 | Strike Force | 1.00% | ~26 |
 | Hands-On Research | 1.00% | ~26 |
 | Only in Death | 1.00% | ~26 |
-| Exercise in Restraint | 0.90% | ~23 |
+| Exercise in Restraint | 0.90% | ~24 |
 | True Mastery | 0.60% | ~16 |
 | The Flesh is Weak | 0.50% | ~13 |
 | Warp Flickers | 0.50% | ~13 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,610 (Ranked 137)  
+Progressed: 2,612 (Ranked 137)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-16 | 2,602 | 0 |
 | 2023-05-17 | 2,604 | 0 |
 | 2023-05-19 | 2,606 | 0 |
-| 2023-05-20 | 2,610 | 0 |
+| 2023-05-20 | 2,612 | 0 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 418 (Ranked 298)  

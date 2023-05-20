@@ -4,7 +4,7 @@
   "ProductSlug": "terror-of-hemasaurus-a08800",
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-10-17T17:00:00+00:00",
@@ -293,9 +293,9 @@
       "ID": "ACH_KILL_1000_ENEMIES",
       "SetID": "aio76gp",
       "Name": "Horror Show",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_KILL_100_ENEMIES",
@@ -350,8 +350,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-05-20T19:03:12.0350705+00:00",
+  "LastChanged_Achievements": "2023-05-20T20:02:28.5465057+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:57.7075903+00:00",
-  "LastUpdate_Ratings": "2023-05-20T18:58:42.6712549+00:00",
-  "LastUpdate_Achievements": "2023-05-20T19:03:12.035092+00:00"
+  "LastUpdate_Ratings": "2023-05-20T19:58:17.0790443+00:00",
+  "LastUpdate_Achievements": "2023-05-20T20:02:28.5465425+00:00"
 }

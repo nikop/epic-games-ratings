@@ -140,9 +140,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5890,
+  "EOS_Progressed": 5893,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1805,6 +1805,11 @@
       "Time": "2023-05-20T19:05:59.7802282+00:00",
       "NumProgressed": 5890,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-20T20:05:23.3241534+00:00",
+      "NumProgressed": 5893,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 21,
@@ -1832,7 +1837,7 @@
       "Name": "Audiophile",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -1856,7 +1861,7 @@
       "Name": "Clay Pigeon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ENERGY_SAVER",
@@ -1864,7 +1869,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -1904,7 +1909,7 @@
       "Name": "Historian",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ICONOCLAST",
@@ -1912,7 +1917,7 @@
       "Name": "Iconoclast",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "IN_A_PINCH",
@@ -1920,7 +1925,7 @@
       "Name": "In a Pinch",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "LIBERATOR",
@@ -1944,7 +1949,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "SNIP_SNIP",
@@ -1960,7 +1965,7 @@
       "Name": "Soul-Canon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -1983,7 +1988,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5890,
+      "Progressed": 5893,
       "Completed": 22
     }
   ],
@@ -1991,8 +1996,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-16T16:57:54.2243616+00:00",
-  "LastChanged_Achievements": "2023-05-20T19:05:59.7802277+00:00",
+  "LastChanged_Achievements": "2023-05-20T20:05:23.3241528+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.822955+00:00",
-  "LastUpdate_Ratings": "2023-05-20T18:58:15.5875438+00:00",
-  "LastUpdate_Achievements": "2023-05-20T19:05:59.7802522+00:00"
+  "LastUpdate_Ratings": "2023-05-20T19:57:49.8204376+00:00",
+  "LastUpdate_Achievements": "2023-05-20T20:05:23.3241854+00:00"
 }

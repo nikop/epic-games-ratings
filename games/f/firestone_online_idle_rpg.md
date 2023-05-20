@@ -9,8 +9,8 @@ Rating: 3.75 (Ranked 918)
 | World Map | 80.00% | ~889 |
 | Temple of Eternals | 56.00% | ~622 |
 | Prestigious | 52.00% | ~578 |
-| Fellowship Power | 39.00% | ~433 |
-| Guild Power | 23.00% | ~256 |
+| Fellowship Power | 40.00% | ~444 |
+| Guild Power | 24.00% | ~267 |
 | Prestigious x10 | 21.00% | ~233 |
 | The game is on | 18.00% | ~200 |
 | Dragon Clicker | 16.00% | ~178 |
@@ -37,11 +37,11 @@ Rating: 3.75 (Ranked 918)
 | Mastery | 4.00% | ~44 |
 | Moving Up The Ladder | 4.00% | ~44 |
 | The Expeditioner | 4.00% | ~44 |
+| Ancient Knowledge | 3.00% | ~33 |
 | Background Story | 3.00% | ~33 |
 | Here We Go Again | 3.00% | ~33 |
 | How Do You Turn This On? | 3.00% | ~33 |
 | Missions Dedication | 3.00% | ~33 |
-| Ancient Knowledge | 2.00% | ~22 |
 | Doing My Part | 2.00% | ~22 |
 | Dragon Slayer | 2.00% | ~22 |
 | Engineer Mastery | 2.00% | ~22 |
@@ -81,7 +81,7 @@ Rating: 3.75 (Ranked 918)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,111 (Ranked 160)  
+Progressed: 1,111 (Ranked 161)  
 Completed: 1 (0.09%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |

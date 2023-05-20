@@ -224,9 +224,9 @@
       "ID": "ACHIEVEMENT_03",
       "SetID": "gagif7",
       "Name": "To Each Their Own",
-      "Percentage": 38,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -272,9 +272,9 @@
       "ID": "ACHIEVEMENT_09",
       "SetID": "gagif7",
       "Name": "Say My Name",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -527,8 +527,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-05-20T19:03:12.7866829+00:00",
+  "LastChanged_Achievements": "2023-05-20T20:02:29.3890019+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:05.2189133+00:00",
-  "LastUpdate_Ratings": "2023-05-20T18:57:50.8070036+00:00",
-  "LastUpdate_Achievements": "2023-05-20T19:03:12.7867143+00:00"
+  "LastUpdate_Ratings": "2023-05-20T19:57:26.7009743+00:00",
+  "LastUpdate_Achievements": "2023-05-20T20:02:29.3890418+00:00"
 }

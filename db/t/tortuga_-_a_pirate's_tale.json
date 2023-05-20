@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15336,
+  "EOS_Progressed": 15337,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -962,6 +962,11 @@
       "Time": "2023-05-20T19:06:35.232585+00:00",
       "NumProgressed": 15336,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T20:06:00.5581345+00:00",
+      "NumProgressed": 15337,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -973,7 +978,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 14569
+      "UsersEstimate": 14570
     },
     {
       "ID": "ACH001",
@@ -981,7 +986,7 @@
       "Name": "Personal Matter",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 13342
+      "UsersEstimate": 13343
     },
     {
       "ID": "ACH0010",
@@ -1069,7 +1074,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 11042
+      "UsersEstimate": 11043
     },
     {
       "ID": "ACH0020",
@@ -1133,7 +1138,7 @@
       "Name": "No Half Measures",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 13496
+      "UsersEstimate": 13497
     },
     {
       "ID": "ACH005",
@@ -1141,7 +1146,7 @@
       "Name": "Head First",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 2300
+      "UsersEstimate": 2301
     },
     {
       "ID": "ACH006",
@@ -1180,7 +1185,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 15336,
+      "Progressed": 15337,
       "Completed": 0
     }
   ],
@@ -1188,8 +1193,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-05-09T21:01:06.0893897+00:00",
-  "LastChanged_Achievements": "2023-05-20T19:06:35.2325844+00:00",
+  "LastChanged_Achievements": "2023-05-20T20:06:00.5581338+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:17.69203+00:00",
-  "LastUpdate_Ratings": "2023-05-20T19:00:34.5890035+00:00",
-  "LastUpdate_Achievements": "2023-05-20T19:06:35.2326076+00:00"
+  "LastUpdate_Ratings": "2023-05-20T20:00:11.1164656+00:00",
+  "LastUpdate_Achievements": "2023-05-20T20:06:00.558158+00:00"
 }

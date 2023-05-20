@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 301,
+  "EOS_Progressed": 302,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -126,6 +126,11 @@
       "Time": "2023-05-20T18:06:00.0852248+00:00",
       "NumProgressed": 301,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T20:05:56.481863+00:00",
+      "NumProgressed": 302,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -217,7 +222,7 @@
       "Name": "Goblin Tales",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "Hardboiled",
@@ -255,9 +260,9 @@
       "ID": "Inquisitor",
       "SetID": "82505mn",
       "Name": "Inquisitor",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 112
     },
     {
       "ID": "Librarian",
@@ -456,7 +461,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 301,
+      "Progressed": 302,
       "Completed": 0
     }
   ],
@@ -464,8 +469,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-05-20T19:06:31.3672896+00:00",
+  "LastChanged_Achievements": "2023-05-20T20:05:56.4818624+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:07.6550194+00:00",
-  "LastUpdate_Ratings": "2023-05-20T18:59:52.6677689+00:00",
-  "LastUpdate_Achievements": "2023-05-20T19:06:31.3673229+00:00"
+  "LastUpdate_Ratings": "2023-05-20T19:59:28.0310996+00:00",
+  "LastUpdate_Achievements": "2023-05-20T20:05:56.4819279+00:00"
 }

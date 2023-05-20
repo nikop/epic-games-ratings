@@ -630,9 +630,9 @@
       "ID": "LEVEL_012",
       "SetID": "3khpmem",
       "Name": "Calm neighborhood",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "LEVEL_013",
@@ -662,17 +662,17 @@
       "ID": "LEVEL_016",
       "SetID": "3khpmem",
       "Name": "The beach is right there",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "LEVEL_017",
       "SetID": "3khpmem",
       "Name": "Commuting",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "LEVEL_018",
@@ -727,8 +727,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-20T19:06:00.9767918+00:00",
+  "LastChanged_Achievements": "2023-05-20T20:05:24.5904093+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:36.8517809+00:00",
-  "LastUpdate_Ratings": "2023-05-20T18:58:19.8140657+00:00",
-  "LastUpdate_Achievements": "2023-05-20T19:06:00.9768115+00:00"
+  "LastUpdate_Ratings": "2023-05-20T19:57:54.3995096+00:00",
+  "LastUpdate_Achievements": "2023-05-20T20:05:24.5904294+00:00"
 }

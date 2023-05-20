@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 70.00% | ~21 |
-| Gear Up | 67.00% | ~20 |
-| A Grand Show | 67.00% | ~20 |
+| Iceberg Theory | 73.00% | ~22 |
+| Gear Up | 70.00% | ~21 |
+| A Grand Show | 70.00% | ~21 |
+| GG EZ | 57.00% | ~17 |
 | Freshen Up | 53.00% | ~16 |
-| GG EZ | 53.00% | ~16 |
 | Hydrophobia | 23.00% | ~7 |
 | Ka-Ching! | 20.00% | ~6 |
 | Stop Right There | 17.00% | ~5 |
@@ -23,6 +23,7 @@
 | The Paradox Coordinate Conqueror | 3.00% | ~1 |
 | The Hypergravitational Abyss Conqueror | 3.00% | ~1 |
 | Death Bringer Conqueror | 3.00% | ~1 |
+| Easy Peasy | 3.00% | ~1 |
 | Keep it Up, rookie! | 3.00% | ~1 |
 | Air Interception | 3.00% | ~1 |
 | Proliferation | 3.00% | ~1 |
@@ -42,7 +43,6 @@
 | Breaking the Limit | 0.00% | ~0 |
 | Pumped Up | 0.00% | ~0 |
 | The Truth? | 0.00% | ~0 |
-| Easy Peasy | 0.00% | ~0 |
 | Rapidfire | 0.00% | ~0 |
 | Flawless | 0.00% | ~0 |
 | Hell of a Fight | 0.00% | ~0 |

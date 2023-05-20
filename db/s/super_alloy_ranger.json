@@ -4,7 +4,7 @@
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
@@ -308,9 +308,9 @@
       "ID": "Achi_18",
       "SetID": "51a97k7",
       "Name": "Gear Up",
-      "Percentage": 67,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Achi_19",
@@ -340,9 +340,9 @@
       "ID": "Achi_22",
       "SetID": "51a97k7",
       "Name": "Iceberg Theory",
-      "Percentage": 70,
+      "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Achi_23",
@@ -372,17 +372,17 @@
       "ID": "Achi_26",
       "SetID": "51a97k7",
       "Name": "Easy Peasy",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Achi_27",
       "SetID": "51a97k7",
       "Name": "GG EZ",
-      "Percentage": 53,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Achi_28",
@@ -404,9 +404,9 @@
       "ID": "Achi_30",
       "SetID": "51a97k7",
       "Name": "A Grand Show",
-      "Percentage": 67,
+      "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Achi_31",
@@ -581,8 +581,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-05-20T19:06:34.9393134+00:00",
+  "LastChanged_Achievements": "2023-05-20T20:06:00.1693966+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:09:24.1067719+00:00",
-  "LastUpdate_Ratings": "2023-05-20T19:00:13.9484096+00:00",
-  "LastUpdate_Achievements": "2023-05-20T19:06:34.9393557+00:00"
+  "LastUpdate_Ratings": "2023-05-20T19:59:49.2810869+00:00",
+  "LastUpdate_Achievements": "2023-05-20T20:06:00.1694387+00:00"
 }

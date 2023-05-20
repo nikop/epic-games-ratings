@@ -6,24 +6,24 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,611 |
-| keep it tidy | 77.00% | ~7,708 |
-| podium | 72.00% | ~7,208 |
-| medium attack | 59.00% | ~5,906 |
-| brail | 56.00% | ~5,606 |
-| grocery-getter | 39.00% | ~3,904 |
-| good drivers have dead flies on the side windows | 39.00% | ~3,904 |
+| light attack | 96.00% | ~9,612 |
+| keep it tidy | 77.00% | ~7,709 |
+| podium | 72.00% | ~7,209 |
+| medium attack | 59.00% | ~5,907 |
+| brail | 56.00% | ~5,607 |
+| grocery-getter | 39.00% | ~3,905 |
+| good drivers have dead flies on the side windows | 39.00% | ~3,905 |
 | rwd only | 26.00% | ~2,603 |
 | food tour: pasta | 26.00% | ~2,603 |
-| to finish first, first you must finish | 21.00% | ~2,102 |
-| you can't treat a car like a human being. a car requires love | 21.00% | ~2,102 |
+| to finish first, first you must finish | 21.00% | ~2,103 |
+| you can't treat a car like a human being. a car requires love | 21.00% | ~2,103 |
 | autopilot | 20.00% | ~2,002 |
 | turbo | 20.00% | ~2,002 |
 | food tour: pretzel | 19.00% | ~1,902 |
 | bicycle race | 15.00% | ~1,502 |
 | monster | 14.00% | ~1,402 |
-| car wash | 13.00% | ~1,301 |
-| perkele | 13.00% | ~1,301 |
+| car wash | 13.00% | ~1,302 |
+| perkele | 13.00% | ~1,302 |
 | night ride | 12.00% | ~1,201 |
 | the artist | 12.00% | ~1,201 |
 | snorkel | 12.00% | ~1,201 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~40 |
 | barely keeping it together | 0.30% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,011 (Ranked 106)  
+Progressed: 10,012 (Ranked 106)  
 Completed: 9 (0.09%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 9 (0.09%) (Ranked 163)
 | 2023-05-17 | 9,996 | 9 |
 | 2023-05-18 | 10,000 | 9 |
 | 2023-05-19 | 10,008 | 9 |
-| 2023-05-20 | 10,011 | 9 |
+| 2023-05-20 | 10,012 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

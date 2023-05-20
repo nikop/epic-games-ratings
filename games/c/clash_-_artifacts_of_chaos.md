@@ -18,7 +18,7 @@
 | The Pride of Moozhaw | 18.00% | ~12 |
 | Stilt House | 15.00% | ~10 |
 | Armor Collector | 12.00% | ~8 |
-| Corwid Hill | 10.00% | ~7 |
+| Corwid Hill | 12.00% | ~8 |
 | Dreamwalker | 10.00% | ~7 |
 | Your Training Is Complete | 6.00% | ~4 |
 | Red in Tooth and Claw | 6.00% | ~4 |

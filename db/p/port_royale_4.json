@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -234,9 +234,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 544,
+  "EOS_Progressed": 545,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -484,6 +484,11 @@
       "Time": "2023-05-20T19:06:15.3542611+00:00",
       "NumProgressed": 544,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T20:05:39.5655722+00:00",
+      "NumProgressed": 545,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -495,7 +500,7 @@
       "Name": "Cabin boy",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "ACH001",
@@ -509,17 +514,17 @@
       "ID": "ACH002",
       "SetID": "69nfp41",
       "Name": "Conquistador",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH003",
       "SetID": "69nfp41",
       "Name": "Buccaneer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH004",
@@ -541,9 +546,9 @@
       "ID": "ACH006",
       "SetID": "69nfp41",
       "Name": "Supreme conqueror",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH007",
@@ -551,7 +556,7 @@
       "Name": "My little farm",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "ACH008",
@@ -591,7 +596,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH013",
@@ -599,7 +604,7 @@
       "Name": "In a mint condition",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH014",
@@ -615,7 +620,7 @@
       "Name": "Groundskeeper",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH016",
@@ -631,7 +636,7 @@
       "Name": "Pearly gates",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH018",
@@ -663,7 +668,7 @@
       "Name": "Collectionitis",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH022",
@@ -679,7 +684,7 @@
       "Name": "Gofer",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH024",
@@ -695,7 +700,7 @@
       "Name": "My precious!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH026",
@@ -725,17 +730,17 @@
       "ID": "ACH029",
       "SetID": "69nfp41",
       "Name": "Licence to Kill",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH030",
       "SetID": "69nfp41",
       "Name": "Walk the plank",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH031",
@@ -751,7 +756,7 @@
       "Name": "Pirates!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH033",
@@ -783,15 +788,15 @@
       "Name": "Every beginning is difficult",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ACH037",
       "SetID": "69nfp41",
       "Name": "Paths of Glory",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH038",
@@ -799,7 +804,7 @@
       "Name": "O Captain! My Captain!",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "ACH039",
@@ -879,7 +884,7 @@
       "Name": "Megalomania",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH049",
@@ -894,15 +899,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 544,
+      "Progressed": 545,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
-  "LastChanged_Achievements": "2023-05-20T19:06:15.3542605+00:00",
+  "LastChanged_Achievements": "2023-05-20T20:05:39.5655715+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:02.5497371+00:00",
-  "LastUpdate_Ratings": "2023-05-20T18:58:48.1343727+00:00",
-  "LastUpdate_Achievements": "2023-05-20T19:06:15.3543029+00:00"
+  "LastUpdate_Ratings": "2023-05-20T19:58:22.6074176+00:00",
+  "LastUpdate_Achievements": "2023-05-20T20:05:39.5656452+00:00"
 }

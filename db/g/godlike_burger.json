@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -312,9 +312,9 @@
       "ID": "GB_JACK_OF_ALL_TRADES",
       "SetID": "8ga3kd9",
       "Name": "JACK OF ALL TRADES",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 182
+      "UsersEstimate": 185
     },
     {
       "ID": "GB_KEVIN",
@@ -425,8 +425,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-05-18T03:58:25.9913255+00:00",
-  "LastChanged_Achievements": "2023-05-20T19:02:59.2048533+00:00",
+  "LastChanged_Achievements": "2023-05-20T20:02:15.0777922+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:53.2828983+00:00",
-  "LastUpdate_Ratings": "2023-05-20T18:58:39.874581+00:00",
-  "LastUpdate_Achievements": "2023-05-20T19:02:59.204874+00:00"
+  "LastUpdate_Ratings": "2023-05-20T19:58:14.1852435+00:00",
+  "LastUpdate_Achievements": "2023-05-20T20:02:15.0778164+00:00"
 }

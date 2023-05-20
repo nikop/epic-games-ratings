@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1154,9 +1154,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61379,
+  "EOS_Progressed": 61386,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 538,
+  "EOS_NewPlayers": 542,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3099,6 +3099,11 @@
       "Time": "2023-05-20T19:06:38.8316388+00:00",
       "NumProgressed": 61379,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-20T20:06:04.2250152+00:00",
+      "NumProgressed": 61386,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3436,9 +3441,9 @@
       "ID": "HARLEY_4",
       "SetID": "4eo5ebm",
       "Name": "Universal Health Scare",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 246
+      "UsersEstimate": 307
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -3548,9 +3553,9 @@
       "ID": "MYSTERY_07",
       "SetID": "4eo5ebm",
       "Name": "Seeking Asylum",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 307
     },
     {
       "ID": "MYSTERY_08",
@@ -3597,13 +3602,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61379,
+      "Progressed": 61386,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31659,
+      "Progressed": 31666,
       "Completed": 2640
     }
   ],
@@ -3611,8 +3616,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-20T13:59:13.9457948+00:00",
-  "LastChanged_Achievements": "2023-05-20T19:06:38.8316383+00:00",
+  "LastChanged_Achievements": "2023-05-20T20:06:04.2250146+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-20T19:00:04.6032085+00:00",
-  "LastUpdate_Achievements": "2023-05-20T19:06:38.8317065+00:00"
+  "LastUpdate_Ratings": "2023-05-20T19:59:39.7685449+00:00",
+  "LastUpdate_Achievements": "2023-05-20T20:06:04.2250857+00:00"
 }

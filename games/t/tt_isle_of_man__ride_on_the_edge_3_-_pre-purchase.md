@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You're Going Down! | 95.00% | ~37 |
-| To Each Their Own | 38.00% | ~15 |
+| To Each Their Own | 41.00% | ~16 |
 | You Get An Upgrade, You Get An Upgrade! | 21.00% | ~8 |
 | Like Phileas Fogg | 15.00% | ~6 |
 | Onwards and Upwards | 15.00% | ~6 |
@@ -14,6 +14,7 @@
 | Upgradeaholic | 8.00% | ~3 |
 | Start Your Engines | 8.00% | ~3 |
 | Playing God | 8.00% | ~3 |
+| Say My Name | 5.00% | ~2 |
 | Nerd | 5.00% | ~2 |
 | Highly Qualified | 5.00% | ~2 |
 | Serial Winner | 5.00% | ~2 |
@@ -26,7 +27,6 @@
 | POI Hunter | 3.00% | ~1 |
 | The Joy of Discovery | 3.00% | ~1 |
 | Gotta Go Fast! | 3.00% | ~1 |
-| Say My Name | 3.00% | ~1 |
 | Geek | 3.00% | ~1 |
 | Last One Standing | 3.00% | ~1 |
 | The Immortal One | 3.00% | ~1 |

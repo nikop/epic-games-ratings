@@ -5,39 +5,39 @@ Rating: 4.24 (Ranked 790)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 81.00% | ~1,273 |
-| Don't I Know You...? | 77.00% | ~1,210 |
-| Jailbreak | 66.00% | ~1,038 |
-| Suited and Booted | 38.00% | ~597 |
+| Rigged And Ready | 81.00% | ~1,275 |
+| Don't I Know You...? | 77.00% | ~1,212 |
+| Jailbreak | 66.00% | ~1,039 |
+| Suited and Booted | 38.00% | ~598 |
 | HEADSHOT! | 37.00% | ~582 |
-| Sleeping With The Fishes | 35.00% | ~550 |
+| Sleeping With The Fishes | 35.00% | ~551 |
 | Overheated | 30.00% | ~472 |
 | High Performance | 30.00% | ~472 |
-| Powered Up | 28.00% | ~440 |
-| Studied The Blade | 25.00% | ~393 |
+| Powered Up | 28.00% | ~441 |
+| Studied The Blade | 25.00% | ~394 |
 | Home Invasion | 23.00% | ~362 |
 | Luminary | 22.00% | ~346 |
 | It's a Trap | 22.00% | ~346 |
-| True Survivor | 21.00% | ~330 |
-| Shocking | 20.00% | ~314 |
-| Unforeseeable Consequences | 20.00% | ~314 |
+| True Survivor | 21.00% | ~331 |
+| Shocking | 20.00% | ~315 |
+| Unforeseeable Consequences | 20.00% | ~315 |
 | Court Martial | 19.00% | ~299 |
 | Offensive Defense | 19.00% | ~299 |
 | Dead Again | 18.00% | ~283 |
 | Clean Cut | 18.00% | ~283 |
-| Full Arsenal | 17.00% | ~267 |
+| Full Arsenal | 17.00% | ~268 |
 | Can't Trust Banks | 16.00% | ~252 |
 | Mommy Dearest | 14.00% | ~220 |
-| Bad Dog | 13.00% | ~204 |
-| Where It All Began | 13.00% | ~204 |
-| Risk Tolerant | 13.00% | ~204 |
-| What A Catchy Song | 13.00% | ~204 |
+| Bad Dog | 13.00% | ~205 |
+| Where It All Began | 13.00% | ~205 |
+| Risk Tolerant | 13.00% | ~205 |
+| What A Catchy Song | 13.00% | ~205 |
 | Marked For Success | 12.00% | ~189 |
 | Sorry, Didn't See You There | 12.00% | ~189 |
 | Corrupted Beauty | 11.00% | ~173 |
 | Triplets | 10.00% | ~157 |
-| Denying Prophecy | 9.00% | ~141 |
-| Stimulating The Local Economy | 9.00% | ~141 |
+| Denying Prophecy | 9.00% | ~142 |
+| Stimulating The Local Economy | 9.00% | ~142 |
 | A Little Banged Up | 8.00% | ~126 |
 | Following In Their Footsteps | 8.00% | ~126 |
 | Defense in Depth | 8.00% | ~126 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 790)
 | Swiss Army Drone | 1.00% | ~16 |
 | Three Birds With One Stone | 1.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,572 (Ranked 151)  
+Progressed: 1,574 (Ranked 151)  
 Completed: 10 (0.64%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 10 (0.64%) (Ranked 103)
 | 2023-05-14 | 1,550 | 10 |
 | 2023-05-18 | 1,552 | 10 |
 | 2023-05-19 | 1,566 | 10 |
-| 2023-05-20 | 1,572 | 10 |
+| 2023-05-20 | 1,574 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
