@@ -7,7 +7,7 @@
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 21.21% |
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.55% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 8 | [Island Cities](games/i/island_cities.md) | 16.38% |
+| 8 | [Island Cities](games/i/island_cities.md) | 16.24% |
 | 9 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.04% |
 | 10 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
 | 11 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.06% |
@@ -21,9 +21,9 @@
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 8.00% |
 | 19 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 8.00% |
 | 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.89% |
-| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.78% |
+| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.77% |
 | 23 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 7.14% |
-| 24 | [Scorn](games/s/scorn.md) | 7.01% |
+| 24 | [Scorn](games/s/scorn.md) | 7.00% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 26 | [Ravenlok](games/r/ravenlok.md) | 6.40% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
@@ -33,7 +33,7 @@
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 32 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.55% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.46% |
-| 34 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 4.06% |
+| 34 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 4.02% |
 | 35 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.94% |
 | 36 | [Doodle God](games/d/doodle_god.md) | 3.90% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.90% |
@@ -78,7 +78,7 @@
 | 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.28% |
 | 76 | [Trifox](games/t/trifox.md) | 1.28% |
 | 78 | [Chorus](games/c/chorus.md) | 1.27% |
-| 79 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.25% |
+| 79 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.24% |
 | 80 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.23% |
 | 81 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.20% |
 | 81 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.20% |
@@ -139,10 +139,10 @@
 | 136 | [Filament](games/f/filament.md) | 0.22% |
 | 136 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
 | 139 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.21% |
-| 139 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.21% |
-| 141 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
-| 141 | [Against the Storm](games/a/against_the_storm.md) | 0.20% |
-| 141 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
+| 140 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
+| 140 | [Against the Storm](games/a/against_the_storm.md) | 0.20% |
+| 140 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
+| 140 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.20% |
 | 144 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.18% |
 | 145 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.17% |
 | 146 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
