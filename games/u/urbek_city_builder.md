@@ -18,7 +18,7 @@
 | King of fish | 11.00% | ~17 |
 | I love books! | 10.00% | ~16 |
 | I love parks | 10.00% | ~16 |
-| What would we do if we can't go out with friends? | 8.00% | ~12 |
+| What would we do if we can't go out with friends? | 9.00% | ~14 |
 | Metropolurbek | 7.00% | ~11 |
 | Food producer | 6.00% | ~9 |
 | I am very happy! | 5.00% | ~8 |
@@ -31,13 +31,13 @@
 | Archipelago builder | 2.00% | ~3 |
 | Food provider master | 2.00% | ~3 |
 | What is there after death? | 2.00% | ~3 |
+| Oh, I love parks, listening to birds! | 2.00% | ~3 |
 | Freedom to go to the mall! | 2.00% | ~3 |
 | Temperate urban planner | 2.00% | ~3 |
 | Anarchist Utopia | 1.00% | ~2 |
 | Archipelago urban planner | 1.00% | ~2 |
 | City crisis | 1.00% | ~2 |
 | Perfect city | 1.00% | ~2 |
-| Oh, I love parks, listening to birds! | 1.00% | ~2 |
 | Town planner | 1.00% | ~2 |
 | Anarchist paradise | 0.60% | ~1 |
 | I can't see the sky | 0.60% | ~1 |

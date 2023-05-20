@@ -480,7 +480,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 516881,
+  "EOS_Progressed": 516882,
   "EOS_Completed": 408,
   "EOS_NewPlayers": 607,
   "EOS_NewCompleters": 4,
@@ -3225,6 +3225,11 @@
       "Time": "2023-05-20T05:05:05.1063827+00:00",
       "NumProgressed": 516881,
       "NumCompleted": 408
+    },
+    {
+      "Time": "2023-05-20T06:06:18.2430441+00:00",
+      "NumProgressed": 516882,
+      "NumCompleted": 408
     }
   ],
   "TotalAchievements": 57,
@@ -3244,7 +3249,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 232596
+      "UsersEstimate": 232597
     },
     {
       "ID": "11",
@@ -3316,7 +3321,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 320466
+      "UsersEstimate": 320467
     },
     {
       "ID": "2",
@@ -3332,7 +3337,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 124051
+      "UsersEstimate": 124052
     },
     {
       "ID": "21",
@@ -3460,7 +3465,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 258440
+      "UsersEstimate": 258441
     },
     {
       "ID": "36",
@@ -3564,7 +3569,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 320466
+      "UsersEstimate": 320467
     },
     {
       "ID": "48",
@@ -3612,7 +3617,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 237765
+      "UsersEstimate": 237766
     },
     {
       "ID": "53",
@@ -3691,15 +3696,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 516881,
+      "Progressed": 516882,
       "Completed": 408
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-04-09T23:59:07.5064907+00:00",
-  "LastChanged_Achievements": "2023-05-20T05:05:05.1063821+00:00",
+  "LastChanged_Achievements": "2023-05-20T06:06:18.243043+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:06.5975328+00:00",
-  "LastUpdate_Ratings": "2023-05-20T04:56:59.5527677+00:00",
-  "LastUpdate_Achievements": "2023-05-20T05:05:05.1064505+00:00"
+  "LastUpdate_Ratings": "2023-05-20T05:57:19.8590923+00:00",
+  "LastUpdate_Achievements": "2023-05-20T06:06:18.2430997+00:00"
 }

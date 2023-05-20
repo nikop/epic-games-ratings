@@ -27,11 +27,11 @@ Rating: 4.41 (Ranked 656)
 | Skirmisher | 0.50% | ~4 |
 | Precision Is Key | 0.50% | ~4 |
 | Snake in the Grass | 0.50% | ~4 |
-| Liberté | 0.40% | ~3 |
-| Strategist | 0.40% | ~3 |
-| Sharpshooter | 0.40% | ~3 |
-| Der Geist | 0.40% | ~3 |
-| Don't hold your breath | 0.40% | ~3 |
+| Liberté | 0.30% | ~3 |
+| Strategist | 0.30% | ~3 |
+| Sharpshooter | 0.30% | ~3 |
+| Der Geist | 0.30% | ~3 |
+| Don't hold your breath | 0.30% | ~3 |
 | Sink or Swim | 0.30% | ~2 |
 | Climbing the Ladder | 0.20% | ~2 |
 | No Stone Unturned | 0.20% | ~2 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 656)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 855 (Ranked 171)  
+Progressed: 860 (Ranked 170)  
 Completed: 2 (0.23%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 2 (0.23%) (Ranked 136)
 | 2023-05-17 | 728 | 2 |
 | 2023-05-18 | 743 | 2 |
 | 2023-05-19 | 833 | 2 |
-| 2023-05-20 | 855 | 2 |
+| 2023-05-20 | 860 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

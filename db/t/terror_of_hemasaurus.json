@@ -197,9 +197,9 @@
       "ID": "ACH_25_HELICOPTERS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Chopper Stopper",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_40_STAGES_ENDLESS",
@@ -229,9 +229,9 @@
       "ID": "ACH_50_CHOPPER_BLADES",
       "SetID": "aio76gp",
       "Name": "Aerosolized",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_50_MILITARY_CARS",
@@ -261,9 +261,9 @@
       "ID": "ACH_50_POLICE_HELICOPTERS",
       "SetID": "aio76gp",
       "Name": "Night Bird",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_50_SWAT_HELICOPTERS",
@@ -350,8 +350,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2023-05-20T05:02:24.2615839+00:00",
+  "LastChanged_Achievements": "2023-05-20T06:02:17.8031028+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:57.7075903+00:00",
-  "LastUpdate_Ratings": "2023-05-20T04:57:54.7020963+00:00",
-  "LastUpdate_Achievements": "2023-05-20T05:02:24.2616053+00:00"
+  "LastUpdate_Ratings": "2023-05-20T05:58:36.2269383+00:00",
+  "LastUpdate_Achievements": "2023-05-20T06:02:17.8031209+00:00"
 }

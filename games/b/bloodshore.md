@@ -15,7 +15,7 @@
 | Mission Complete | 30.00% | ~44 |
 | Bromance | 29.00% | ~42 |
 | Lootaphilia | 23.00% | ~34 |
-| Maybe you should give it another go | 9.00% | ~13 |
+| Maybe you should give it another go | 10.00% | ~15 |
 | I used to think I was indecisive... | 7.00% | ~10 |
 | Mikey Lizard | 5.00% | ~7 |
 | We tried to warn you! | 4.00% | ~6 |

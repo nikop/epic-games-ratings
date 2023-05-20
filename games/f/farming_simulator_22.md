@@ -12,13 +12,13 @@ Number of Ratings: 7,683  (23.09.2022)
 | I'm stumped | 61.00% | ~25,990 |
 | Plant get enough | 61.00% | ~25,990 |
 | It's just the beginning | 59.00% | ~25,138 |
-| This is just my weekend vehicle | 58.00% | ~24,711 |
-| Hard work pays off | 53.00% | ~22,581 |
+| This is just my weekend vehicle | 58.00% | ~24,712 |
+| Hard work pays off | 53.00% | ~22,582 |
 | It's never too late to farm | 47.00% | ~20,025 |
 | All out of Land | 44.00% | ~18,747 |
 | Field Trip | 43.00% | ~18,321 |
-| I like to switch it up | 40.00% | ~17,042 |
-| Help me to help you | 38.00% | ~16,190 |
+| I like to switch it up | 40.00% | ~17,043 |
+| Help me to help you | 38.00% | ~16,191 |
 | Ultimutt Pawesomeness | 28.00% | ~11,930 |
 | Van Gogh | 26.00% | ~11,078 |
 | You wood not believe it | 21.00% | ~8,947 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~170 |
 | Raisin the stakes | 0.30% | ~128 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,606 (Ranked 78)  
+Progressed: 42,607 (Ranked 78)  
 Completed: 5 (0.01%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,16 +80,16 @@ Completed: 5 (0.01%) (Ranked 193)
 | 2023-05-17 | 42,489 | 5 |
 | 2023-05-18 | 42,541 | 5 |
 | 2023-05-19 | 42,595 | 5 |
-| 2023-05-20 | 42,606 | 5 |
+| 2023-05-20 | 42,607 | 5 |
 ## Awards
 Max (Great for Beginners): 4,227  (Ranked 70)  
-Sum: 36,498 (Ranked 31)  
+Sum: 36,499 (Ranked 31)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,227 |
 | This game is Relaxing | 3,899 |
-| This game is Educational | 3,845 |
+| This game is Educational | 3,846 |
 | This game has Quickly Understood Controls | 3,817 |
 | This game is Extremely Fun | 3,693 |
 | This game is Highly Recommended | 3,663 |
@@ -225,3 +225,4 @@ Diff (max vs sum): 39
 | 2023-05-17 | 4.70 | - | 4,213 | 36,432 |
 | 2023-05-18 | 4.70 | - | 4,218 | 36,463 |
 | 2023-05-19 | 4.70 | - | 4,227 | 36,498 |
+| 2023-05-20 | 4.70 | - | 4,227 | 36,499 |

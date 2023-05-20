@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fright ✔ | 55.00% | ~94 |
-| Chest ✔ | 54.00% | ~92 |
-| Inventory ✔ | 51.00% | ~87 |
-| Police officers ✔ | 26.00% | ~44 |
-| Mutation ✔ | 24.00% | ~41 |
+| Chest ✔ | 54.00% | ~93 |
+| Fright ✔ | 54.00% | ~93 |
+| Inventory ✔ | 50.00% | ~86 |
+| Police officers ✔ | 25.00% | ~43 |
+| Mutation ✔ | 24.00% | ~42 |
 | Doberman ✔ | 13.00% | ~22 |
-| Master of Unlocking ✔ | 9.00% | ~15 |
-| Chess ✔ | 9.00% | ~15 |
-| Weapon ✔ | 9.00% | ~15 |
+| Master of Unlocking ✔ | 9.00% | ~16 |
+| Chess ✔ | 9.00% | ~16 |
+| Weapon ✔ | 9.00% | ~16 |
 | Survival ✔ | 8.00% | ~14 |
 | Thirst ✔ | 8.00% | ~14 |
 | Hospital ✔ | 7.00% | ~12 |
@@ -31,16 +31,16 @@
 | Mutant fight ✔ | 5.00% | ~9 |
 | City on fire ✔ | 5.00% | ~9 |
 | Infected ✔ | 5.00% | ~9 |
-| Crocodile Attack ✔ | 4.00% | ~7 |
-| Group Alpha ✔ | 4.00% | ~7 |
 | Mutant run ✔ | 4.00% | ~7 |
-| Sheriff ✔ | 4.00% | ~7 |
-| Rank A ✔ | 4.00% | ~7 |
-| Broadcasting ✔ | 4.00% | ~7 |
+| Crocodile Attack ✔ | 3.00% | ~5 |
 | Secret ✔ | 3.00% | ~5 |
 | Boss 2 ✔ | 3.00% | ~5 |
+| Group Alpha ✔ | 3.00% | ~5 |
+| Sheriff ✔ | 3.00% | ~5 |
 | Priest ✔ | 3.00% | ~5 |
 | Rank B+ ✔ | 3.00% | ~5 |
+| Rank A ✔ | 3.00% | ~5 |
+| Broadcasting ✔ | 3.00% | ~5 |
 | Boss 3 ✔ | 3.00% | ~5 |
 | Car ✔ | 2.00% | ~3 |
 | Seeker One ✔ | 2.00% | ~3 |
@@ -55,7 +55,7 @@
 | Seeker Two ✔ | 0.60% | ~1 |
 | Rank A+ ✔ | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 171 (Ranked 232)  
+Progressed: 173 (Ranked 232)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-15 | 167 | 0 |
 | 2023-05-17 | 168 | 0 |
 | 2023-05-18 | 170 | 0 |
-| 2023-05-20 | 171 | 0 |
+| 2023-05-20 | 173 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

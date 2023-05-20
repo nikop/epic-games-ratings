@@ -31,8 +31,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Old Child | 0.60% | ~4,222 |
 | Kung-Fu Tussle | 0.60% | ~4,222 |
 | Deadly Venom | 0.60% | ~78 |
-| Dance of the Praying Mantis | 0.50% | ~3,518 |
-| Qi Gong: Mind | 0.50% | ~3,518 |
+| Dance of the Praying Mantis | 0.50% | ~3,519 |
+| Qi Gong: Mind | 0.50% | ~3,519 |
 | A Touch of Acumen | 0.50% | ~65 |
 | Muk Yan Master | 0.40% | ~2,815 |
 | Tiger on Fire | 0.40% | ~2,815 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~704 |
 | Warriors from the Mountain | 0.10% | ~704 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 703,689 (Ranked 15)  
+Progressed: 703,705 (Ranked 15)  
 Completed: 12,731 (1.81%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,17 +87,17 @@ Completed: 12,731 (1.81%) (Ranked 64)
 | 2023-05-17 | 703,009 | 12,730 |
 | 2023-05-18 | 703,070 | 12,731 |
 | 2023-05-19 | 703,575 | 12,731 |
-| 2023-05-20 | 703,689 | 12,731 |
+| 2023-05-20 | 703,705 | 12,731 |
 ## Awards
 Max (Great Boss Battles): 6,075  (Ranked 53)  
-Sum: 10,335 (Ranked 77)  
+Sum: 10,336 (Ranked 77)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,075 |
 | This game has Diverse Characters | 511 |
 | This game has Challenging Combat | 510 |
-| This game has Quickly Understood Controls | 499 |
+| This game has Quickly Understood Controls | 500 |
 | This game is Extremely Fun | 497 |
 | This game has Amazing Storytelling | 490 |
 | This game is Highly Recommended | 477 |
@@ -233,3 +233,4 @@ Diff (max vs sum): -24
 | 2023-05-17 | 4.82 | - | 6,074 | 10,322 |
 | 2023-05-18 | 4.82 | - | 6,074 | 10,327 |
 | 2023-05-19 | 4.82 | - | 6,075 | 10,335 |
+| 2023-05-20 | 4.82 | - | 6,075 | 10,336 |

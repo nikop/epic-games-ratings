@@ -12,7 +12,7 @@
 | The Best Snowman Ever! | 46.00% | ~32 |
 | Rounding Up the Chickens. | 42.00% | ~29 |
 | What’s in These Rockpools? | 35.00% | ~24 |
-| Where’s Mr. Dinosaur? | 23.00% | ~16 |
+| Where’s Mr. Dinosaur? | 25.00% | ~17 |
 | Helping Tiddles the Tortoise. | 23.00% | ~16 |
 | Always Remember To Eat Your Five! | 12.00% | ~8 |
 ## Popularity (Based on EOS Achievements)

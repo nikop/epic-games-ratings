@@ -12,6 +12,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 0.20% | ~176 |
 | Coasting to the Finish | 0.20% | ~109 |
 | Beware the Jabberwock | 0.20% | ~109 |
+| Quick or Quack | 0.20% | ~109 |
 | Maddening | 0.10% | ~88 |
 | Pros and CONs | 0.10% | ~88 |
 | Upholding the Law | 0.10% | ~88 |
@@ -498,9 +499,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Poor Guidance | 0.10% | ~88 |
 | Overwhelming Force | 0.10% | ~88 |
 | Rescue in the Jungle | 0.10% | ~88 |
-| Quick or Quack | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,036 (Ranked 59)  
+Progressed: 88,038 (Ranked 59)  
 Completed: 1,852 (2.10%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -530,7 +530,7 @@ Completed: 1,852 (2.10%) (Ranked 62)
 | 2023-05-17 | 87,802 | 1,849 |
 | 2023-05-18 | 87,918 | 1,850 |
 | 2023-05-19 | 88,008 | 1,851 |
-| 2023-05-20 | 88,036 | 1,852 |
+| 2023-05-20 | 88,038 | 1,852 |
 ## Awards
 Max (Diverse Characters): 4,890  (Ranked 63)  
 Sum: 29,931 (Ranked 37)  

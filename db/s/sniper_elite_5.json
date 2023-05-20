@@ -5,9 +5,9 @@
   "Ranking_Rating": 656,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 171,
+  "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -176,9 +176,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 855,
+  "EOS_Progressed": 860,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -746,6 +746,11 @@
       "Time": "2023-05-20T05:05:00.192496+00:00",
       "NumProgressed": 855,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-20T06:06:12.3111503+00:00",
+      "NumProgressed": 860,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -763,7 +768,7 @@
       "ID": "REWARD_11_GAME_SUBTITLE",
       "SetID": "bm6el81",
       "Name": "Libert\u00E9",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 100,
       "UsersEstimate": 3
     },
@@ -827,7 +832,7 @@
       "ID": "REWARD_19_STRATEGIST",
       "SetID": "bm6el81",
       "Name": "Strategist",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -891,7 +896,7 @@
       "ID": "REWARD_26_SHARPSHOOTER",
       "SetID": "bm6el81",
       "Name": "Sharpshooter",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -987,7 +992,7 @@
       "ID": "REWARD_38_DER_GEIST",
       "SetID": "bm6el81",
       "Name": "Der Geist",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -1115,7 +1120,7 @@
       "ID": "REWARD_67_NO_ASSISTANCE",
       "SetID": "bm6el81",
       "Name": "Don\u0027t hold your breath",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -1324,13 +1329,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 806,
+      "Progressed": 811,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 855,
+      "Progressed": 860,
       "Completed": 2
     }
   ],
@@ -1338,8 +1343,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-18T16:01:31.1520338+00:00",
-  "LastChanged_Achievements": "2023-05-20T05:05:00.1924955+00:00",
+  "LastChanged_Achievements": "2023-05-20T06:06:12.31115+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-20T04:59:41.5558537+00:00",
-  "LastUpdate_Achievements": "2023-05-20T05:05:00.1925708+00:00"
+  "LastUpdate_Ratings": "2023-05-20T06:01:09.3262868+00:00",
+  "LastUpdate_Achievements": "2023-05-20T06:06:12.3112043+00:00"
 }

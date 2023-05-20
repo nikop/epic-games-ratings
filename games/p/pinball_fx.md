@@ -6,16 +6,16 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 81.00% | ~177,533 |
-| I know the Rules | 43.00% | ~94,246 |
-| Contender | 11.00% | ~24,109 |
-| I Found it! | 7.00% | ~15,342 |
-| Dress Code | 4.00% | ~8,767 |
-| First but not Last | 3.00% | ~6,575 |
+| Ball Launched | 81.00% | ~177,547 |
+| I know the Rules | 43.00% | ~94,253 |
+| Contender | 11.00% | ~24,111 |
+| I Found it! | 7.00% | ~15,344 |
+| Dress Code | 4.00% | ~8,768 |
+| First but not Last | 3.00% | ~6,576 |
 | Ready Steady Score | 2.00% | ~4,384 |
 | Full Loot Madness | 2.00% | ~4,384 |
 | Nine Zeroes | 0.90% | ~1,973 |
-| My Table, my Rules | 0.80% | ~1,753 |
+| My Table, my Rules | 0.80% | ~1,754 |
 | Shiny Memento | 0.30% | ~658 |
 | Pinball Hoarder | 0.30% | ~658 |
 | Interior Designer | 0.30% | ~658 |
@@ -37,7 +37,7 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,176 (Ranked 45)  
+Progressed: 219,194 (Ranked 45)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,10 +67,10 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-17 | 218,064 | 0 |
 | 2023-05-18 | 218,525 | 0 |
 | 2023-05-19 | 219,050 | 0 |
-| 2023-05-20 | 219,176 | 0 |
+| 2023-05-20 | 219,194 | 0 |
 ## Awards
 Max (Great for Beginners): 173  (Ranked 272)  
-Sum: 1,491 (Ranked 208)  
+Sum: 1,492 (Ranked 208)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
@@ -82,8 +82,8 @@ Diff (max vs sum): 64
 | This game is Highly Recommended | 149 |
 | This game has Competitive Players | 144 |
 | This game has Amazing Storytelling | 100 |
+| This game has Challenging Combat | 100 |
 | This game has a Competitive Community | 99 |
-| This game has Challenging Combat | 99 |
 | This game has Amazing Characters | 89 |
 | This game has Obsessive Gameplay | 65 |
 | This game has Realistic Visuals | 52 |
@@ -210,3 +210,4 @@ Diff (max vs sum): 64
 | 2023-05-16 | 4.03 | - | 173 | 1,489 |
 | 2023-05-17 | 4.03 | - | 173 | 1,490 |
 | 2023-05-19 | 4.03 | - | 173 | 1,491 |
+| 2023-05-20 | 4.03 | - | 173 | 1,492 |

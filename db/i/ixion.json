@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1977,
+  "EOS_Progressed": 1979,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -877,6 +877,11 @@
       "Time": "2023-05-20T05:04:58.1213773+00:00",
       "NumProgressed": 1977,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T06:06:09.5703468+00:00",
+      "NumProgressed": 1979,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -1174,9 +1179,9 @@
       "ID": "ACH_BASE_47",
       "SetID": "92iocjf",
       "Name": "Delivery!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_BASE_48",
@@ -1343,13 +1348,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 158,
+      "Progressed": 160,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 1977,
+      "Progressed": 1979,
       "Completed": 0
     }
   ],
@@ -1357,8 +1362,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-05-13T22:58:30.2604361+00:00",
-  "LastChanged_Achievements": "2023-05-20T05:04:58.1213769+00:00",
+  "LastChanged_Achievements": "2023-05-20T06:06:09.5703456+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.7103468+00:00",
-  "LastUpdate_Ratings": "2023-05-20T04:57:56.8295324+00:00",
-  "LastUpdate_Achievements": "2023-05-20T05:04:58.1214381+00:00"
+  "LastUpdate_Ratings": "2023-05-20T05:58:39.1221406+00:00",
+  "LastUpdate_Achievements": "2023-05-20T06:06:09.5703958+00:00"
 }

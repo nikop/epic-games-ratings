@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2024,
+  "EOS_Progressed": 2025,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -655,6 +655,11 @@
       "Time": "2023-05-20T05:05:22.1061349+00:00",
       "NumProgressed": 2024,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-20T06:06:40.0297129+00:00",
+      "NumProgressed": 2025,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -674,7 +679,7 @@
       "Name": "Nothing to Wear",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "complete_act_one",
@@ -698,7 +703,7 @@
       "Name": "The Second Law of Thermodynamics",
       "Percentage": 14,
       "XP": 150,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "complete_tutorial",
@@ -706,7 +711,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1781
+      "UsersEstimate": 1782
     },
     {
       "ID": "deal_damage",
@@ -714,15 +719,15 @@
       "Name": "Ouch",
       "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 1133
+      "UsersEstimate": 1134
     },
     {
       "ID": "defeat_enemies",
       "SetID": "236b9eg",
       "Name": "A Ribbiting Performance",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1559
     },
     {
       "ID": "defeat_tree_dummy",
@@ -738,7 +743,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1538
+      "UsersEstimate": 1539
     },
     {
       "ID": "piercing_beam",
@@ -794,7 +799,7 @@
       "Name": "Stop Hitting Yourself!",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "stun_enemies",
@@ -802,7 +807,7 @@
       "Name": "Fun in the Stun",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "trash_truck",
@@ -817,7 +822,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2024,
+      "Progressed": 2025,
       "Completed": 8
     }
   ],
@@ -825,8 +830,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-05-15T22:59:29.8330198+00:00",
-  "LastChanged_Achievements": "2023-05-20T05:05:22.1061343+00:00",
+  "LastChanged_Achievements": "2023-05-20T06:06:40.0297124+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:21.4953983+00:00",
-  "LastUpdate_Ratings": "2023-05-20T04:59:30.5456595+00:00",
-  "LastUpdate_Achievements": "2023-05-20T05:05:22.1061508+00:00"
+  "LastUpdate_Ratings": "2023-05-20T06:00:54.3941607+00:00",
+  "LastUpdate_Achievements": "2023-05-20T06:06:40.0297253+00:00"
 }

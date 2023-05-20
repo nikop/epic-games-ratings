@@ -3826,9 +3826,9 @@
       "Count": 3238
     }
   ],
-  "EOS_Progressed": 88036,
+  "EOS_Progressed": 88038,
   "EOS_Completed": 1852,
-  "EOS_NewPlayers": 713,
+  "EOS_NewPlayers": 712,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
@@ -6625,6 +6625,11 @@
     {
       "Time": "2023-05-20T05:05:32.9322795+00:00",
       "NumProgressed": 88036,
+      "NumCompleted": 1852
+    },
+    {
+      "Time": "2023-05-20T06:06:52.9906131+00:00",
+      "NumProgressed": 88038,
       "NumCompleted": 1852
     }
   ],
@@ -10571,30 +10576,30 @@
       "ID": "objective_completed_1361",
       "SetID": "415jc5c",
       "Name": "Quick or Quack",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 109
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54310,
-      "Completed": 2602
+      "Progressed": 54312,
+      "Completed": 2606
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88036,
+      "Progressed": 88038,
       "Completed": 1852
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-20T04:57:37.0068741+00:00",
-  "LastChanged_Achievements": "2023-05-20T05:05:32.9322789+00:00",
+  "LastChanged_Achievements": "2023-05-20T06:06:52.9906126+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-20T04:57:37.0068749+00:00",
-  "LastUpdate_Achievements": "2023-05-20T05:05:32.9346329+00:00"
+  "LastUpdate_Ratings": "2023-05-20T05:58:10.6463428+00:00",
+  "LastUpdate_Achievements": "2023-05-20T06:06:52.9928388+00:00"
 }

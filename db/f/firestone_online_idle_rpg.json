@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1093,
+  "EOS_Progressed": 1095,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1885,6 +1885,11 @@
       "Time": "2023-05-20T02:03:24.9355084+00:00",
       "NumProgressed": 1093,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-20T06:06:23.9996195+00:00",
+      "NumProgressed": 1095,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -1998,9 +2003,9 @@
       "ID": "dragonclicker",
       "SetID": "3nl4bcg",
       "Name": "Dragon Clicker",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 175
     },
     {
       "ID": "dragonmaster",
@@ -2064,7 +2069,7 @@
       "Name": "Enlightenment",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "exoticmerchant",
@@ -2080,7 +2085,7 @@
       "Name": "Fellowship Power",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "fourleafclover",
@@ -2128,7 +2133,7 @@
       "Name": "Guild Power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "herewegoagain",
@@ -2192,7 +2197,7 @@
       "Name": "Lieutenant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "lockandload",
@@ -2224,7 +2229,7 @@
       "Name": "Milestone collector",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "minerclicker",
@@ -2256,7 +2261,7 @@
       "Name": "Mysterious Rock",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "mythicpower",
@@ -2272,7 +2277,7 @@
       "Name": "Natural Talent",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "pokerface",
@@ -2288,15 +2293,15 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "prestigiousx10",
       "SetID": "3nl4bcg",
       "Name": "Prestigious x10",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 219
+      "UsersEstimate": 230
     },
     {
       "ID": "relicofthepast",
@@ -2320,7 +2325,7 @@
       "Name": "Scientist",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "scrollmaster",
@@ -2344,7 +2349,7 @@
       "Name": "Superior",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "templeofeternals",
@@ -2352,7 +2357,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "thealchemist",
@@ -2400,7 +2405,7 @@
       "Name": "The Unstoppable",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "titanpower",
@@ -2456,7 +2461,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1029
     },
     {
       "ID": "warmachinesarmy",
@@ -2488,14 +2493,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 874
+      "UsersEstimate": 876
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1093,
+      "Progressed": 1095,
       "Completed": 1
     }
   ],
@@ -2503,8 +2508,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-18T22:58:45.6795503+00:00",
-  "LastChanged_Achievements": "2023-05-20T05:05:09.3895096+00:00",
+  "LastChanged_Achievements": "2023-05-20T06:06:23.999619+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:34.8363446+00:00",
-  "LastUpdate_Ratings": "2023-05-20T04:57:34.2471336+00:00",
-  "LastUpdate_Achievements": "2023-05-20T05:05:09.3895978+00:00"
+  "LastUpdate_Ratings": "2023-05-20T05:58:06.8108728+00:00",
+  "LastUpdate_Achievements": "2023-05-20T06:06:23.9996891+00:00"
 }

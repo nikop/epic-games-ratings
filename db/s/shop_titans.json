@@ -4090,7 +4090,7 @@
       "Count": 3670
     }
   ],
-  "EOS_Progressed": 128606,
+  "EOS_Progressed": 128607,
   "EOS_Completed": 79,
   "EOS_NewPlayers": 511,
   "EOS_NewCompleters": 1,
@@ -6740,6 +6740,11 @@
       "Time": "2023-05-20T05:05:17.3911978+00:00",
       "NumProgressed": 128606,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-05-20T06:06:34.155323+00:00",
+      "NumProgressed": 128607,
+      "NumCompleted": 79
     }
   ],
   "TotalAchievements": 112,
@@ -6775,7 +6780,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 10288
+      "UsersEstimate": 10289
     },
     {
       "ID": "advlevel05",
@@ -6847,7 +6852,7 @@
       "Name": "The King\u0027s Caprice",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 10288
+      "UsersEstimate": 10289
     },
     {
       "ID": "blueprint01",
@@ -6919,7 +6924,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 124748
+      "UsersEstimate": 124749
     },
     {
       "ID": "chest02",
@@ -6983,7 +6988,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 117031
+      "UsersEstimate": 117032
     },
     {
       "ID": "commonres02",
@@ -6991,7 +6996,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 50156
+      "UsersEstimate": 50157
     },
     {
       "ID": "commonres03",
@@ -7023,7 +7028,7 @@
       "Name": "Flooding the Market",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 52728
+      "UsersEstimate": 52729
     },
     {
       "ID": "craft03",
@@ -7111,7 +7116,7 @@
       "Name": "Power of Love",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 29579
+      "UsersEstimate": 29580
     },
     {
       "ID": "energy03",
@@ -7127,7 +7132,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 90024
+      "UsersEstimate": 90025
     },
     {
       "ID": "expansion02",
@@ -7191,7 +7196,7 @@
       "Name": "Flawless Fusion",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 30865
+      "UsersEstimate": 30866
     },
     {
       "ID": "fuselegendary",
@@ -7223,7 +7228,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 111887
+      "UsersEstimate": 111888
     },
     {
       "ID": "gold02",
@@ -7231,7 +7236,7 @@
       "Name": "Pretty Penny",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 73305
+      "UsersEstimate": 73306
     },
     {
       "ID": "gold03",
@@ -7239,7 +7244,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 47584
+      "UsersEstimate": 47585
     },
     {
       "ID": "gold04",
@@ -7303,7 +7308,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 64303
+      "UsersEstimate": 64304
     },
     {
       "ID": "jackslot02",
@@ -7327,7 +7332,7 @@
       "Name": "Item of Renown",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 10288
+      "UsersEstimate": 10289
     },
     {
       "ID": "level01",
@@ -7335,7 +7340,7 @@
       "Name": "Budding Merchant",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 84880
+      "UsersEstimate": 84881
     },
     {
       "ID": "level02",
@@ -7415,7 +7420,7 @@
       "Name": "Natural 20",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 29579
+      "UsersEstimate": 29580
     },
     {
       "ID": "master03",
@@ -7527,7 +7532,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 96454
+      "UsersEstimate": 96455
     },
     {
       "ID": "sell02",
@@ -7567,7 +7572,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 123462
+      "UsersEstimate": 123463
     },
     {
       "ID": "twinenchant01",
@@ -7646,15 +7651,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 128606,
+      "Progressed": 128607,
       "Completed": 79
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-05-20T01:55:53.5824107+00:00",
-  "LastChanged_Achievements": "2023-05-20T05:05:17.3911972+00:00",
+  "LastChanged_Achievements": "2023-05-20T06:06:34.1553226+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.991774+00:00",
-  "LastUpdate_Ratings": "2023-05-20T04:57:53.6730927+00:00",
-  "LastUpdate_Achievements": "2023-05-20T05:05:17.391352+00:00"
+  "LastUpdate_Ratings": "2023-05-20T05:58:35.6298191+00:00",
+  "LastUpdate_Achievements": "2023-05-20T06:06:34.1554576+00:00"
 }

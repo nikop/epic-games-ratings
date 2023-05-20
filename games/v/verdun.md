@@ -6,16 +6,16 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~34,092 |
-| Worth it | 64.00% | ~28,336 |
-| Eagle Eye | 55.00% | ~24,351 |
-| Corpseman I | 40.00% | ~17,710 |
-| Blast fishing | 38.00% | ~16,824 |
-| Not alone | 32.00% | ~14,168 |
-| Headhunter I | 27.00% | ~11,954 |
-| Manual Labour I | 26.00% | ~11,512 |
-| Developers, Developers, Developers | 24.00% | ~10,626 |
-| Basic Training | 24.00% | ~10,626 |
+| Setting an example | 77.00% | ~34,095 |
+| Worth it | 64.00% | ~28,339 |
+| Eagle Eye | 55.00% | ~24,353 |
+| Corpseman I | 40.00% | ~17,712 |
+| Blast fishing | 38.00% | ~16,826 |
+| Not alone | 32.00% | ~14,169 |
+| Headhunter I | 27.00% | ~11,955 |
+| Manual Labour I | 26.00% | ~11,513 |
+| Developers, Developers, Developers | 24.00% | ~10,627 |
+| Basic Training | 24.00% | ~10,627 |
 | Furchtlos und Treu | 13.00% | ~5,756 |
 | Gott Mit Uns | 12.00% | ~5,313 |
 | This We'll Defend! | 9.00% | ~3,985 |
@@ -23,8 +23,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | Providentiea Memor | 9.00% | ~3,985 |
 | For King and Country | 9.00% | ~3,985 |
 | Battle hardened | 8.00% | ~3,542 |
-| Semper Fidelis! | 7.00% | ~3,099 |
-| Honneur et Patrie | 7.00% | ~3,099 |
+| Semper Fidelis! | 7.00% | ~3,100 |
+| Honneur et Patrie | 7.00% | ~3,100 |
 | In Treue Fest | 5.00% | ~2,214 |
 | Voor De Koning | 5.00% | ~2,214 |
 | Extreme Headhunter | 5.00% | ~2,214 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~44 |
 | Blood Brother | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,275 (Ranked 77)  
+Progressed: 44,279 (Ranked 77)  
 Completed: 2 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 2 (0.00%) (Ranked 201)
 | 2023-05-17 | 44,025 | 2 |
 | 2023-05-18 | 44,114 | 2 |
 | 2023-05-19 | 44,246 | 2 |
-| 2023-05-20 | 44,275 | 2 |
+| 2023-05-20 | 44,279 | 2 |
 ## Awards
 Max (Highly Recommended): 93  (Ranked 332)  
 Sum: 732 (Ranked 256)  

@@ -68,7 +68,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 748,
+  "EOS_Progressed": 749,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
@@ -363,6 +363,11 @@
       "Time": "2023-05-19T22:05:21.7190726+00:00",
       "NumProgressed": 748,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-20T06:06:36.6788214+00:00",
+      "NumProgressed": 749,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 27,
@@ -438,7 +443,7 @@
       "Name": "No need to call anyone",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ACH_GLORY_AND_SPLENDOR_FINISHED",
@@ -454,7 +459,7 @@
       "Name": "Aesop\u0027s fable",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_GRANDPA_BOY_SUIT",
@@ -462,7 +467,7 @@
       "Name": "Memento",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -470,7 +475,7 @@
       "Name": "No pressure",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -494,7 +499,7 @@
       "Name": "Big fortune",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH_POSTCARD",
@@ -526,7 +531,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "ACH_STAR_2",
@@ -542,7 +547,7 @@
       "Name": "Still more work ahead",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_STAR_4",
@@ -574,22 +579,22 @@
       "Name": "Excellent service",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "ACH_WALLET_RETURNED",
       "SetID": "7k95e4n",
       "Name": "I think you dropped this",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 411
+      "UsersEstimate": 404
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 748,
+      "Progressed": 749,
       "Completed": 11
     }
   ],
@@ -597,8 +602,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-05-05T13:04:29.3480635+00:00",
-  "LastChanged_Achievements": "2023-05-20T05:05:19.4183351+00:00",
+  "LastChanged_Achievements": "2023-05-20T06:06:36.6788205+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:56:53.9528089+00:00",
-  "LastUpdate_Ratings": "2023-05-20T04:56:51.2145999+00:00",
-  "LastUpdate_Achievements": "2023-05-20T05:05:19.4183573+00:00"
+  "LastUpdate_Ratings": "2023-05-20T05:57:07.9092508+00:00",
+  "LastUpdate_Achievements": "2023-05-20T06:06:36.6788372+00:00"
 }

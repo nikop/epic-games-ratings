@@ -7,6 +7,7 @@ Rating: 4.17 (Ranked 835)
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 0.70% | ~429 |
 | Quartzer Life Crisis | 0.50% | ~306 |
+| Snow Problem | 0.50% | ~306 |
 | Har, Har, Har, Very Funny | 0.50% | ~306 |
 | Get ReQ'd | 0.50% | ~306 |
 | Working Hard or Harley Working? | 0.50% | ~306 |
@@ -26,7 +27,6 @@ Rating: 4.17 (Ranked 835)
 | Bulldozed | 0.40% | ~245 |
 | Shock Til They Drop | 0.40% | ~245 |
 | To the Victor Go the Spoils | 0.40% | ~245 |
-| Snow Problem | 0.40% | ~245 |
 | Cooldown | 0.40% | ~245 |
 | Universal Health Scare | 0.40% | ~245 |
 | Lock and Key | 0.40% | ~245 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 835)
 | Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,256 (Ranked 67)  
+Progressed: 61,266 (Ranked 67)  
 Completed: 91 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 91 (0.15%) (Ranked 148)
 | 2023-05-17 | 60,939 | 91 |
 | 2023-05-18 | 61,004 | 91 |
 | 2023-05-19 | 61,198 | 91 |
-| 2023-05-20 | 61,256 | 91 |
+| 2023-05-20 | 61,266 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,222  (Ranked 98)  
 Sum: 3,684 (Ranked 137)  
