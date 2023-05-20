@@ -20,7 +20,7 @@
 | Be Like the Lotus | 12.00% | ~80 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 667 (Ranked 181)  
-Completed: 43 (6.45%) (Ranked 26)  
+Completed: 43 (6.45%) (Ranked 25)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

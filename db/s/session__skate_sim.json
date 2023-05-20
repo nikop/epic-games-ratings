@@ -652,9 +652,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2002,
+  "EOS_Progressed": 2004,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1097,6 +1097,11 @@
       "Time": "2023-05-20T17:06:07.8611094+00:00",
       "NumProgressed": 2002,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T18:05:31.6770594+00:00",
+      "NumProgressed": 2004,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1412,7 +1417,7 @@
       "Name": "The finer things in life",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -1476,7 +1481,7 @@
       "Name": "Welcome to the family",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -1484,22 +1489,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1002
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2002,
+      "Progressed": 2004,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-05-19T07:58:43.4333069+00:00",
-  "LastChanged_Achievements": "2023-05-20T17:06:07.8611088+00:00",
+  "LastChanged_Achievements": "2023-05-20T18:05:31.6770588+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:21.8061522+00:00",
-  "LastUpdate_Ratings": "2023-05-20T16:59:22.2424112+00:00",
-  "LastUpdate_Achievements": "2023-05-20T17:06:07.8611562+00:00"
+  "LastUpdate_Ratings": "2023-05-20T17:58:58.4136026+00:00",
+  "LastUpdate_Achievements": "2023-05-20T18:05:31.6771193+00:00"
 }

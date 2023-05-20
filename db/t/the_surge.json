@@ -2,7 +2,7 @@
   "ID": "08f38e25e11f4c1e977cb75aae5e4535",
   "Name": "The Surge",
   "ProductSlug": "the-surge",
-  "Ranking_Rating": 583,
+  "Ranking_Rating": 584,
   "Ranking_Popularity": 459,
   "Ranking_PopularitySum": 464,
   "Ranking_EOS_Progress": 126,
@@ -295,9 +295,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4232,
+  "EOS_Progressed": 4233,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -510,6 +510,11 @@
       "Time": "2023-05-20T16:05:34.1674377+00:00",
       "NumProgressed": 4232,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-05-20T18:05:35.1621641+00:00",
+      "NumProgressed": 4233,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 67,
@@ -529,7 +534,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -569,7 +574,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 3555
+      "UsersEstimate": 3556
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -577,7 +582,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 3978
+      "UsersEstimate": 3979
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -703,9 +708,9 @@
       "ID": "ID_ACHIEV_24",
       "SetID": "98bke8c",
       "Name": "Core Power",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 550
+      "UsersEstimate": 508
     },
     {
       "ID": "ID_ACHIEV_25",
@@ -737,7 +742,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3216
+      "UsersEstimate": 3217
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -785,7 +790,7 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1100
+      "UsersEstimate": 1101
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -793,7 +798,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -809,7 +814,7 @@
       "Name": "I Choose You",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "ID_ACHIEV_39",
@@ -841,7 +846,7 @@
       "Name": "Nothing to Lose",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "ID_ACHIEV_43",
@@ -865,7 +870,7 @@
       "Name": "OPERATOR",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -1056,15 +1061,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4232,
+      "Progressed": 4233,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-05-13T23:57:53.8271899+00:00",
-  "LastChanged_Achievements": "2023-05-20T17:06:11.6876679+00:00",
+  "LastChanged_Achievements": "2023-05-20T18:05:35.1621635+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.3215176+00:00",
-  "LastUpdate_Ratings": "2023-05-20T16:58:04.7035066+00:00",
-  "LastUpdate_Achievements": "2023-05-20T17:06:11.6877397+00:00"
+  "LastUpdate_Ratings": "2023-05-20T17:57:49.5543682+00:00",
+  "LastUpdate_Achievements": "2023-05-20T18:05:35.162235+00:00"
 }

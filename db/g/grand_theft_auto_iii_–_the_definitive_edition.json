@@ -2,12 +2,12 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 853,
+  "Ranking_Rating": 854,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5075,
+  "EOS_Progressed": 5080,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -1383,6 +1383,11 @@
       "Time": "2023-05-20T17:01:23.1964451+00:00",
       "NumProgressed": 5075,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-20T18:00:47.7355663+00:00",
+      "NumProgressed": 5080,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -1394,7 +1399,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4212
+      "UsersEstimate": 4216
     },
     {
       "ID": "ACH02",
@@ -1402,7 +1407,7 @@
       "Name": "Without a Scratch",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 1624
+      "UsersEstimate": 1626
     },
     {
       "ID": "ACH03",
@@ -1418,7 +1423,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 1827
+      "UsersEstimate": 1829
     },
     {
       "ID": "ACH05",
@@ -1434,7 +1439,7 @@
       "Name": "Street Sweeper",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "ACH07",
@@ -1466,7 +1471,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1370
+      "UsersEstimate": 1372
     },
     {
       "ID": "ACH11",
@@ -1498,7 +1503,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "ACH15",
@@ -1514,7 +1519,7 @@
       "Name": "A Marked Man",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "ACH17",
@@ -1522,7 +1527,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "ACH18",
@@ -1538,7 +1543,7 @@
       "Name": "A Gift from the King",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACH20",
@@ -1578,7 +1583,7 @@
       "Name": "Dirty Money",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "ACH25",
@@ -1625,7 +1630,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 5075,
+      "Progressed": 5080,
       "Completed": 26
     }
   ],
@@ -1633,8 +1638,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-12T16:57:58.7220785+00:00",
-  "LastChanged_Achievements": "2023-05-20T17:01:23.1964444+00:00",
+  "LastChanged_Achievements": "2023-05-20T18:00:47.7355657+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:31.8748782+00:00",
-  "LastUpdate_Ratings": "2023-05-20T16:58:03.8192062+00:00",
-  "LastUpdate_Achievements": "2023-05-20T17:01:23.1964772+00:00"
+  "LastUpdate_Ratings": "2023-05-20T17:57:48.7186652+00:00",
+  "LastUpdate_Achievements": "2023-05-20T18:00:47.7355974+00:00"
 }

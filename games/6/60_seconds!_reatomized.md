@@ -22,10 +22,10 @@ Rating: 4.64 (Ranked 312)
 | A gift | 50.00% | ~2,022 |
 | Girl Power | 44.00% | ~1,779 |
 | What goes around... | 40.00% | ~1,617 |
-| Be Prepared | 34.00% | ~1,375 |
+| Be Prepared | 35.00% | ~1,415 |
 | Unbreakable | 33.00% | ~1,334 |
 | Atomic drill | 32.00% | ~1,294 |
-| This is the end | 31.00% | ~1,253 |
+| This is the end | 32.00% | ~1,294 |
 | Gotta get 'em all | 29.00% | ~1,172 |
 | Disco Roach | 26.00% | ~1,051 |
 | Dawkins Residence | 19.00% | ~768 |

@@ -2,12 +2,12 @@
   "ID": "7277899e0d3241ea81ee56943fd31567",
   "Name": "RAILGRADE",
   "ProductSlug": "railgrade",
-  "Ranking_Rating": 480,
+  "Ranking_Rating": 481,
   "Ranking_Popularity": 342,
   "Ranking_PopularitySum": 272,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -414,9 +414,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 18526,
+  "EOS_Progressed": 18527,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1489,6 +1489,11 @@
       "Time": "2023-05-20T16:05:46.6091132+00:00",
       "NumProgressed": 18526,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-05-20T18:05:48.1534644+00:00",
+      "NumProgressed": 18527,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 37,
@@ -1508,7 +1513,7 @@
       "Name": "Helper of the People",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 7225
+      "UsersEstimate": 7226
     },
     {
       "ID": "ach.030.deertastic",
@@ -1532,7 +1537,7 @@
       "Name": "Builder",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 15191
+      "UsersEstimate": 15192
     },
     {
       "ID": "ach.060.goingdistance",
@@ -1540,7 +1545,7 @@
       "Name": "Going the Distance",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 10004
+      "UsersEstimate": 10005
     },
     {
       "ID": "ach.070.8kenough",
@@ -1556,7 +1561,7 @@
       "Name": "Eraser",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 12968
+      "UsersEstimate": 12969
     },
     {
       "ID": "ach.090.perfectionist",
@@ -1596,7 +1601,7 @@
       "Name": "Minimalist",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 16673
+      "UsersEstimate": 16674
     },
     {
       "ID": "ach.140.legacy",
@@ -1604,7 +1609,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 98,
       "XP": 60,
-      "UsersEstimate": 18155
+      "UsersEstimate": 18156
     },
     {
       "ID": "ach.150.pocket",
@@ -1612,7 +1617,7 @@
       "Name": "Pocket of Trains",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 12042
+      "UsersEstimate": 12043
     },
     {
       "ID": "ach.160.box",
@@ -1636,7 +1641,7 @@
       "Name": "Inspector",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 10745
+      "UsersEstimate": 10746
     },
     {
       "ID": "ach.190.scenic",
@@ -1652,7 +1657,7 @@
       "Name": "Let There be Light",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5928
+      "UsersEstimate": 5929
     },
     {
       "ID": "ach.210.baron",
@@ -1692,7 +1697,7 @@
       "Name": "Before the Downfall",
       "Percentage": 93,
       "XP": 60,
-      "UsersEstimate": 17229
+      "UsersEstimate": 17230
     },
     {
       "ID": "ach.260.investor",
@@ -1756,7 +1761,7 @@
       "Name": "Money like Water",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 16859
+      "UsersEstimate": 16860
     },
     {
       "ID": "ach.340.steel",
@@ -1795,7 +1800,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 18526,
+      "Progressed": 18527,
       "Completed": 28
     }
   ],
@@ -1803,8 +1808,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-05-18T15:59:55.9963774+00:00",
-  "LastChanged_Achievements": "2023-05-20T17:06:24.7764624+00:00",
+  "LastChanged_Achievements": "2023-05-20T18:05:48.1534639+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:39.9088278+00:00",
-  "LastUpdate_Ratings": "2023-05-20T16:59:38.7834262+00:00",
-  "LastUpdate_Achievements": "2023-05-20T17:06:24.7764967+00:00"
+  "LastUpdate_Ratings": "2023-05-20T17:59:13.1415423+00:00",
+  "LastUpdate_Achievements": "2023-05-20T18:05:48.1534988+00:00"
 }

@@ -1,26 +1,26 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.42 (Ranked 922)  
+Rating: 3.42 (Ranked 923)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 79.00% | ~1,249 |
-| Home Is Where the Heart Is | 62.00% | ~980 |
-| Wounded Whispers | 62.00% | ~980 |
-| Ne Plus Ultra | 61.00% | ~964 |
-| Blood Will Have Blood | 51.00% | ~806 |
-| ICU | 47.00% | ~743 |
-| Peek-a-boo | 45.00% | ~711 |
-| Catch and Release | 45.00% | ~711 |
+| I Like My Stakes Rare! | 79.00% | ~1,250 |
+| Home Is Where the Heart Is | 62.00% | ~981 |
+| Wounded Whispers | 62.00% | ~981 |
+| Ne Plus Ultra | 61.00% | ~965 |
+| Blood Will Have Blood | 51.00% | ~807 |
+| ICU | 47.00% | ~744 |
+| Peek-a-boo | 45.00% | ~712 |
+| Catch and Release | 45.00% | ~712 |
 | Sucks To Be You | 44.00% | ~696 |
 | Welcome to the Neighborhood | 38.00% | ~601 |
-| Fly Fisher | 36.00% | ~569 |
-| Throw The First Stone | 35.00% | ~553 |
+| Fly Fisher | 36.00% | ~570 |
+| Throw The First Stone | 35.00% | ~554 |
 | Enter of Your Own Free Will | 33.00% | ~522 |
 | Heart Attack | 32.00% | ~506 |
 | Skin of Their Teeth | 32.00% | ~506 |
-| Grounded | 24.00% | ~379 |
+| Grounded | 24.00% | ~380 |
 | Bad Wiring | 21.00% | ~332 |
 | I Spit On Your Grave | 20.00% | ~316 |
 | Radio Silence | 16.00% | ~253 |
@@ -28,7 +28,7 @@ Rating: 3.42 (Ranked 922)
 | Helping Hand | 12.00% | ~190 |
 | You Clean It Up | 11.00% | ~174 |
 | Starve the Beast | 9.00% | ~142 |
-| Block Party | 8.00% | ~126 |
+| Block Party | 8.00% | ~127 |
 | From the Shadows | 5.00% | ~79 |
 | Bell-ringer | 4.00% | ~63 |
 | Right This Way | 4.00% | ~63 |
@@ -72,7 +72,7 @@ Rating: 3.42 (Ranked 922)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,581 (Ranked 150)  
+Progressed: 1,582 (Ranked 150)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-17 | 1,563 | 0 |
 | 2023-05-18 | 1,569 | 0 |
 | 2023-05-19 | 1,578 | 0 |
-| 2023-05-20 | 1,581 | 0 |
+| 2023-05-20 | 1,582 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

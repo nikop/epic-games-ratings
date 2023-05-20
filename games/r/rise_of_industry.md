@@ -1,25 +1,25 @@
 # Rise of Industry
 [Store](https://store.epicgames.com/en-US/p/rise-of-industry-0af838)  
 [View Rawdata](../../db/r/rise_of_industry.json)  
-Rating: 4.23 (Ranked 798)  
+Rating: 4.23 (Ranked 799)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 47.00% | ~315,682 |
-| Well educated | 37.00% | ~248,515 |
-| City Planner | 19.00% | ~127,616 |
-| Deforester | 16.00% | ~107,466 |
-| Big Hauling | 15.00% | ~100,749 |
-| Exporter | 13.00% | ~87,316 |
-| I would drive 500 tiles... | 12.00% | ~80,600 |
-| Apprentice Manufacturer | 12.00% | ~80,600 |
-| Landscaper | 11.00% | ~73,883 |
-| Railwayman | 7.00% | ~47,016 |
-| Penniless | 6.00% | ~40,300 |
-| Massive Gains | 6.00% | ~40,300 |
-| Engineer | 2.00% | ~13,433 |
-| Salesman | 2.00% | ~13,433 |
-| High Flyer | 2.00% | ~13,433 |
+| Entrepreneur | 47.00% | ~315,711 |
+| Well educated | 37.00% | ~248,538 |
+| City Planner | 19.00% | ~127,628 |
+| Deforester | 16.00% | ~107,476 |
+| Big Hauling | 15.00% | ~100,759 |
+| Exporter | 13.00% | ~87,324 |
+| I would drive 500 tiles... | 12.00% | ~80,607 |
+| Apprentice Manufacturer | 12.00% | ~80,607 |
+| Landscaper | 11.00% | ~73,890 |
+| Railwayman | 7.00% | ~47,021 |
+| Penniless | 6.00% | ~40,304 |
+| Massive Gains | 6.00% | ~40,304 |
+| Engineer | 2.00% | ~13,434 |
+| Salesman | 2.00% | ~13,434 |
+| High Flyer | 2.00% | ~13,434 |
 | Captain | 0.70% | ~4,702 |
 | Billionaire | 0.60% | ~4,030 |
 | Vroom Vroom | 0.40% | ~2,687 |
@@ -33,7 +33,7 @@ Rating: 4.23 (Ranked 798)
 | Master Builder | 0.10% | ~672 |
 | Hard working | 0.10% | ~672 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 671,663 (Ranked 17)  
+Progressed: 671,725 (Ranked 17)  
 Completed: 1 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,7 +63,7 @@ Completed: 1 (0.00%) (Ranked 201)
 | 2023-05-17 | 669,494 | 1 |
 | 2023-05-18 | 670,213 | 1 |
 | 2023-05-19 | 670,990 | 1 |
-| 2023-05-20 | 671,663 | 1 |
+| 2023-05-20 | 671,725 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

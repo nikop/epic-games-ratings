@@ -22,15 +22,15 @@ Number of Ratings: 1,845  (23.09.2022)
 | Homesick | 0.80% | ~119 |
 | Ancient Battleground | 0.80% | ~119 |
 | Sparkdew Crystals | 0.80% | ~119 |
+| Flooded Mines | 0.80% | ~119 |
+| Royal Outpost | 0.80% | ~119 |
 | Cursed Lands | 0.80% | ~119 |
 | A Real Challenge | 0.80% | ~119 |
 | Refinery | 0.70% | ~104 |
 | Dangerous Lands | 0.70% | ~104 |
 | Haunted Forest | 0.70% | ~104 |
 | Levitating Monument | 0.70% | ~104 |
-| Flooded Mines | 0.70% | ~104 |
 | Monastery of the Holy Flame | 0.70% | ~104 |
-| Royal Outpost | 0.70% | ~104 |
 | Corrosive Torrent | 0.70% | ~104 |
 | Against All Odds | 0.60% | ~89 |
 | Statue of the Forefathers | 0.60% | ~89 |

@@ -1,20 +1,20 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.61 (Ranked 357)  
+Rating: 4.61 (Ranked 358)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~6,314 |
-| Pay 'n' Spray | 48.00% | ~3,788 |
-| All Dressed Up for San Fierro | 22.00% | ~1,736 |
-| The American Dream | 17.00% | ~1,342 |
-| School's Out | 16.00% | ~1,263 |
-| Smooth Moves | 15.00% | ~1,184 |
-| Today Was a Good Day | 13.00% | ~1,026 |
-| What happens in Las Venturas... | 12.00% | ~947 |
-| Horror of the Santa Maria | 9.00% | ~710 |
-| Liberty City State of Mind | 8.00% | ~631 |
+| Getting Started | 80.00% | ~6,322 |
+| Pay 'n' Spray | 48.00% | ~3,793 |
+| All Dressed Up for San Fierro | 22.00% | ~1,738 |
+| The American Dream | 17.00% | ~1,343 |
+| School's Out | 16.00% | ~1,264 |
+| Smooth Moves | 15.00% | ~1,185 |
+| Today Was a Good Day | 13.00% | ~1,027 |
+| What happens in Las Venturas... | 12.00% | ~948 |
+| Horror of the Santa Maria | 9.00% | ~711 |
+| Liberty City State of Mind | 8.00% | ~632 |
 | With Extra Dip | 6.00% | ~474 |
 | The End of the Line | 6.00% | ~474 |
 | Original Gangster | 6.00% | ~474 |
@@ -37,11 +37,11 @@ Rating: 4.61 (Ranked 357)
 | Lucky Spinner | 0.80% | ~63 |
 | Hoopin' it Up | 0.70% | ~55 |
 | Not a Player | 0.60% | ~47 |
-| Remastered | 0.50% | ~39 |
+| Remastered | 0.50% | ~40 |
 | ...Here we go again | 0.30% | ~24 |
 | I Ain't No Buster | 0.20% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,892 (Ranked 110)  
+Progressed: 7,902 (Ranked 110)  
 Completed: 16 (0.20%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 16 (0.20%) (Ranked 140)
 | 2023-05-17 | 7,650 | 16 |
 | 2023-05-18 | 7,692 | 16 |
 | 2023-05-19 | 7,805 | 16 |
-| 2023-05-20 | 7,892 | 16 |
+| 2023-05-20 | 7,902 | 16 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

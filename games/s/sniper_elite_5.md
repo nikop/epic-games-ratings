@@ -1,38 +1,38 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.41 (Ranked 657)  
+Rating: 4.41 (Ranked 658)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 6.00% | ~57 |
-| Confirming Suspicions | 3.00% | ~28 |
+| Confirming Suspicions | 3.00% | ~29 |
 | Enemy at the Gates | 2.00% | ~19 |
-| Lord of War | 1.00% | ~10 |
+| Lord of War | 2.00% | ~19 |
 | Resourceful | 1.00% | ~10 |
+| The Kraken Wakes | 1.00% | ~10 |
+| Close Quarters | 0.90% | ~9 |
 | It's Starting to Crack | 0.90% | ~9 |
 | Opposing Force | 0.80% | ~8 |
 | Organ Grinder | 0.80% | ~8 |
 | The Long Game | 0.80% | ~8 |
 | As Quiet as a Mouse | 0.80% | ~8 |
-| The Kraken Wakes | 0.80% | ~8 |
-| Close Quarters | 0.80% | ~8 |
 | Change the Channel | 0.80% | ~8 |
-| Taking it back | 0.70% | ~7 |
+| Taking it back | 0.80% | ~8 |
 | Target America | 0.70% | ~7 |
 | The Kraken Sleeps | 0.70% | ~7 |
 | Precision Is Key | 0.60% | ~6 |
 | Explosive Efficiency | 0.60% | ~6 |
+| Snake in the Grass | 0.60% | ~6 |
 | Liberté | 0.50% | ~5 |
 | Just a Flesh Wound | 0.50% | ~5 |
 | Gunslinger | 0.50% | ~5 |
 | Der Geist | 0.50% | ~5 |
-| Snake in the Grass | 0.50% | ~5 |
+| Climbing the Ladder | 0.40% | ~4 |
 | Strategist | 0.40% | ~4 |
 | Skirmisher | 0.40% | ~4 |
 | Die Nussknacker Sweet! | 0.40% | ~4 |
 | Brains of the Operation | 0.40% | ~4 |
-| Climbing the Ladder | 0.30% | ~3 |
 | Sharpshooter | 0.30% | ~3 |
 | It'll Buff Right Out | 0.30% | ~3 |
 | Don't hold your breath | 0.30% | ~3 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 657)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 950 (Ranked 166)  
+Progressed: 958 (Ranked 166)  
 Completed: 2 (0.21%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 2 (0.21%) (Ranked 139)
 | 2023-05-17 | 728 | 2 |
 | 2023-05-18 | 743 | 2 |
 | 2023-05-19 | 833 | 2 |
-| 2023-05-20 | 950 | 2 |
+| 2023-05-20 | 958 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

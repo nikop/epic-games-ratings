@@ -876,17 +876,17 @@
       "ID": "ACH_BAD_ENDING",
       "SetID": "5nj1ea3",
       "Name": "This is the end",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1294
     },
     {
       "ID": "ACH_BE_PREPARED",
       "SetID": "5nj1ea3",
       "Name": "Be Prepared",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 1375
+      "UsersEstimate": 1415
     },
     {
       "ID": "ACH_BLUE_HARVEST",
@@ -1317,8 +1317,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-05-15T11:00:28.5619005+00:00",
-  "LastChanged_Achievements": "2023-05-20T17:06:47.1787055+00:00",
+  "LastChanged_Achievements": "2023-05-20T18:06:09.2117197+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:27.3855463+00:00",
-  "LastUpdate_Ratings": "2023-05-20T17:00:48.3109761+00:00",
-  "LastUpdate_Achievements": "2023-05-20T17:06:47.1787621+00:00"
+  "LastUpdate_Ratings": "2023-05-20T18:00:15.5863308+00:00",
+  "LastUpdate_Achievements": "2023-05-20T18:06:09.2117775+00:00"
 }

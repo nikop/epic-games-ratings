@@ -2,12 +2,12 @@
   "ID": "fbab831cc1c94385b4e311f47f6fdc4f",
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
-  "Ranking_Rating": 829,
+  "Ranking_Rating": 830,
   "Ranking_Popularity": 335,
   "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -756,9 +756,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5725,
+  "EOS_Progressed": 5726,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2291,6 +2291,11 @@
       "Time": "2023-05-20T17:03:24.4444859+00:00",
       "NumProgressed": 5725,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T18:02:32.5183715+00:00",
+      "NumProgressed": 5726,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -2366,7 +2371,7 @@
       "Name": "Xenocide",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1889
+      "UsersEstimate": 1890
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -2406,7 +2411,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4523
+      "UsersEstimate": 4524
     },
     {
       "ID": "First_Race_Met",
@@ -2414,7 +2419,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4179
+      "UsersEstimate": 4180
     },
     {
       "ID": "First_Ship_Designed",
@@ -2422,7 +2427,7 @@
       "Name": "Design a Ship",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1660
+      "UsersEstimate": 1661
     },
     {
       "ID": "First_Stream_Travel",
@@ -2606,7 +2611,7 @@
       "Name": "Commodity Seller",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1488
+      "UsersEstimate": 1489
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -2630,7 +2635,7 @@
       "Name": "Artifact Mastery",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "War_With_5_Factions",
@@ -2654,7 +2659,7 @@
       "Name": "Win as Altarians",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "Win_As_Arcean",
@@ -2782,7 +2787,7 @@
       "Name": "Win as the Yor",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "Win_Battle",
@@ -2838,7 +2843,7 @@
       "Name": "Influence Victory!",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "Win_Multiplayer",
@@ -2877,15 +2882,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 5725,
+      "Progressed": 5726,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-05-19T13:57:08.9272337+00:00",
-  "LastChanged_Achievements": "2023-05-20T17:03:24.4444854+00:00",
+  "LastChanged_Achievements": "2023-05-20T18:02:32.518371+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:07.7367569+00:00",
-  "LastUpdate_Ratings": "2023-05-20T16:57:24.6092378+00:00",
-  "LastUpdate_Achievements": "2023-05-20T17:03:24.4445588+00:00"
+  "LastUpdate_Ratings": "2023-05-20T17:57:14.319531+00:00",
+  "LastUpdate_Achievements": "2023-05-20T18:02:32.518516+00:00"
 }

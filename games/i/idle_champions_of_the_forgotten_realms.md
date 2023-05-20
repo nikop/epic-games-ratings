@@ -1,12 +1,12 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 874)  
+Rating: 4.06 (Ranked 875)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Court of Storms | 0.40% | ~217 |
+| The Court of Storms | 0.40% | ~218 |
 | A Brief Tour of the Realms | 0.30% | ~264 |
 | Beware the Jabberwock | 0.30% | ~163 |
 | Beast Intentions | 0.20% | ~176 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.10% | ~88 |
 | Rescue in the Jungle | 0.10% | ~88 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,096 (Ranked 59)  
+Progressed: 88,101 (Ranked 59)  
 Completed: 1,854 (2.10%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -530,7 +530,7 @@ Completed: 1,854 (2.10%) (Ranked 62)
 | 2023-05-17 | 87,802 | 1,849 |
 | 2023-05-18 | 87,918 | 1,850 |
 | 2023-05-19 | 88,008 | 1,851 |
-| 2023-05-20 | 88,096 | 1,854 |
+| 2023-05-20 | 88,101 | 1,854 |
 ## Awards
 Max (Diverse Characters): 4,890  (Ranked 64)  
 Sum: 29,933 (Ranked 37)  

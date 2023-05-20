@@ -2,12 +2,12 @@
   "ID": "c4395ba88061417a8ac6bd3fdc7fba79",
   "Name": "Potion Permit",
   "ProductSlug": "potion-permit",
-  "Ranking_Rating": 911,
+  "Ranking_Rating": 912,
   "Ranking_Popularity": 368,
   "Ranking_PopularitySum": 422,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -304,9 +304,9 @@
       "Count": 66
     }
   ],
-  "EOS_Progressed": 1261,
+  "EOS_Progressed": 1263,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -509,6 +509,11 @@
       "Time": "2023-05-20T13:08:42.6322903+00:00",
       "NumProgressed": 1261,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-20T18:06:05.0581187+00:00",
+      "NumProgressed": 1263,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 38,
@@ -520,7 +525,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1238
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -528,7 +533,7 @@
       "Name": "Great Doctor",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 630
+      "UsersEstimate": 632
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -568,15 +573,15 @@
       "Name": "K.O.!",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "ACHIEVEMENTS_08",
       "SetID": "d4o538a",
       "Name": "The First Step",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1111
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -584,7 +589,7 @@
       "Name": "Rookie Chemist",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "ACHIEVEMENTS_10",
@@ -600,7 +605,7 @@
       "Name": "Expert Chemist",
       "Percentage": 12,
       "XP": 80,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ACHIEVEMENTS_12",
@@ -630,9 +635,9 @@
       "ID": "ACHIEVEMENTS_15",
       "SetID": "d4o538a",
       "Name": "Friendly",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 580
+      "UsersEstimate": 568
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -648,7 +653,7 @@
       "Name": "Kind-hearted",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "ACHIEVEMENTS_18",
@@ -656,7 +661,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -672,7 +677,7 @@
       "Name": "Decorative Mind",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "ACHIEVEMENTS_21",
@@ -680,7 +685,7 @@
       "Name": "Fishing Guru",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACHIEVEMENTS_22",
@@ -688,7 +693,7 @@
       "Name": "The Capitalist",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -728,7 +733,7 @@
       "Name": "Plantation Exterminator",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENTS_28",
@@ -784,7 +789,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 794
+      "UsersEstimate": 796
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -800,7 +805,7 @@
       "Name": "Grape Supplier",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENTS_37",
@@ -823,7 +828,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1261,
+      "Progressed": 1263,
       "Completed": 5
     }
   ],
@@ -831,8 +836,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-05-03T21:59:55.8094288+00:00",
-  "LastChanged_Achievements": "2023-05-20T17:06:42.9547691+00:00",
+  "LastChanged_Achievements": "2023-05-20T18:06:05.0581183+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:30.0956385+00:00",
-  "LastUpdate_Ratings": "2023-05-20T17:00:50.4431045+00:00",
-  "LastUpdate_Achievements": "2023-05-20T17:06:42.9548+00:00"
+  "LastUpdate_Ratings": "2023-05-20T18:00:17.8122577+00:00",
+  "LastUpdate_Achievements": "2023-05-20T18:06:05.0581477+00:00"
 }

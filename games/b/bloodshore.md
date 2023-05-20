@@ -22,7 +22,7 @@
 | Deathlooper | 3.00% | ~4 |
 | That's my boy! | 3.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146 (Ranked 246)  
+Progressed: 146 (Ranked 247)  
 Completed: 3 (2.05%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |

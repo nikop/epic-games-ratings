@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2450,9 +2450,9 @@
       "Count": 368
     }
   ],
-  "EOS_Progressed": 8970,
+  "EOS_Progressed": 8975,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3975,6 +3975,11 @@
       "Time": "2023-05-20T17:06:42.8565413+00:00",
       "NumProgressed": 8970,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T18:06:05.0463781+00:00",
+      "NumProgressed": 8975,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -3986,7 +3991,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1166
+      "UsersEstimate": 1167
     },
     {
       "ID": "02_BurningCity",
@@ -3994,7 +3999,7 @@
       "Name": "Burning City",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -4010,7 +4015,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -4026,7 +4031,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "07_FinalThreshold",
@@ -4170,7 +4175,7 @@
       "Name": "The Legacy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "25_MasterfulDispell",
@@ -4218,7 +4223,7 @@
       "Name": "Divide and Rule",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "32_MythicReinforcements",
@@ -4226,7 +4231,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "33_DefendersHeart",
@@ -4258,7 +4263,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -4266,7 +4271,7 @@
       "Name": "Your First Big Enemy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "38_PrelatesNemesis",
@@ -4354,7 +4359,7 @@
       "Name": "A Spark",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "49_Flame",
@@ -4362,7 +4367,7 @@
       "Name": "A Flame",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -4370,7 +4375,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -4418,7 +4423,7 @@
       "Name": "Get the Toad",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "57_PathOfDevil",
@@ -4913,21 +4918,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7752,
+      "Progressed": 7757,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 8970,
+      "Progressed": 8975,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-20T09:58:01.271803+00:00",
-  "LastChanged_Achievements": "2023-05-20T17:06:42.8565402+00:00",
+  "LastChanged_Achievements": "2023-05-20T18:06:05.0463775+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3010226+00:00",
-  "LastUpdate_Ratings": "2023-05-20T16:58:28.9753877+00:00",
-  "LastUpdate_Achievements": "2023-05-20T17:06:42.8567139+00:00"
+  "LastUpdate_Ratings": "2023-05-20T17:58:11.712713+00:00",
+  "LastUpdate_Achievements": "2023-05-20T18:06:05.0465424+00:00"
 }

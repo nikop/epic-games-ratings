@@ -22,7 +22,7 @@
 | Love Uncoverer | 9.00% | ~71 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 784 (Ranked 173)  
-Completed: 31 (3.95%) (Ranked 34)  
+Completed: 31 (3.95%) (Ranked 35)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

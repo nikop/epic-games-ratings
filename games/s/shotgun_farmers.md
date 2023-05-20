@@ -5,18 +5,20 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Survivor | 13.00% | ~0 |
-| Aspairagus | 12.00% | ~0 |
+| Aspairagus | 13.00% | ~0 |
 | Bouncemato | 10.00% | ~0 |
 | Early Survivor | 10.00% | ~0 |
+| No Diggity | 10.00% | ~0 |
 | Quick-Draw Pod | 8.00% | ~0 |
-| No Diggity | 8.00% | ~0 |
 | Seeds of War | 6.00% | ~3 |
+| Perfect | 6.00% | ~0 |
 | Grave Digger | 6.00% | ~0 |
 | Quadsparagus | 6.00% | ~0 |
 | Oh My Gourd | 4.00% | ~0 |
-| Perfect | 4.00% | ~0 |
 | Amateur Survivor | 4.00% | ~0 |
 | Pyromaniac | 4.00% | ~0 |
+| Summers Here | 4.00% | ~0 |
+| Easy Peasy | 4.00% | ~0 |
 | Pro Pyromancer | 2.00% | ~1 |
 | King of the Crow | 2.00% | ~0 |
 | Berry Loved | 2.00% | ~0 |
@@ -29,8 +31,6 @@
 | Heart Breaker | 2.00% | ~0 |
 | This Is My Boomstick | 2.00% | ~0 |
 | Tomassacred | 2.00% | ~0 |
-| Summers Here | 2.00% | ~0 |
-| Easy Peasy | 2.00% | ~0 |
 | Bring Home The Bacon | 0.00% | ~0 |
 | Chick Magnet | 0.00% | ~0 |
 | Fresh Pancake | 0.00% | ~0 |

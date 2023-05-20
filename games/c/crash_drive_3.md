@@ -36,8 +36,8 @@
 | Ferry Good! | 20.00% | ~61 |
 | Assert Dominance | 19.00% | ~58 |
 | Speed of light | 19.00% | ~58 |
+| Special Forces | 16.00% | ~49 |
 | Out of this League | 16.00% | ~49 |
-| Special Forces | 15.00% | ~46 |
 | Toot Toot! | 14.00% | ~43 |
 | Rocketman | 14.00% | ~43 |
 | Blasting away! | 14.00% | ~43 |

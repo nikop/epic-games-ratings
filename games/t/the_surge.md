@@ -1,32 +1,32 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.47 (Ranked 583)  
+Rating: 4.47 (Ranked 584)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~3,978 |
-| I'll Be Back | 84.00% | ~3,555 |
+| On My Own Two Feet | 94.00% | ~3,979 |
+| I'll Be Back | 84.00% | ~3,556 |
 | Sorry, I Dropped This | 77.00% | ~3,259 |
-| First Day on the Job | 76.00% | ~3,216 |
+| First Day on the Job | 76.00% | ~3,217 |
 | Butcher's Bill | 55.00% | ~2,328 |
 | P.A.X | 37.00% | ~1,566 |
 | Hey Listen | 36.00% | ~1,524 |
-| OPERATOR | 35.00% | ~1,481 |
+| OPERATOR | 35.00% | ~1,482 |
 | It's Blue Light | 33.00% | ~1,397 |
-| Most Wanted | 26.00% | ~1,100 |
-| Infidel | 23.00% | ~973 |
+| Most Wanted | 26.00% | ~1,101 |
+| Infidel | 23.00% | ~974 |
 | GOLIATH | 21.00% | ~889 |
-| Firebug | 20.00% | ~846 |
-| I Choose You | 17.00% | ~719 |
-| Nothing to Lose | 17.00% | ~719 |
+| Firebug | 20.00% | ~847 |
+| I Choose You | 17.00% | ~720 |
+| Nothing to Lose | 17.00% | ~720 |
 | Big Sister | 15.00% | ~635 |
 | Gear Up | 15.00% | ~635 |
 | SENTINEL | 15.00% | ~635 |
-| Core Power | 13.00% | ~550 |
 | The Black Cerberus | 12.00% | ~508 |
 | Watchman | 12.00% | ~508 |
+| Core Power | 12.00% | ~508 |
 | CREO Killed the Video Star | 11.00% | ~466 |
 | Who's in Charge Here? | 11.00% | ~466 |
 | Shall Not Pass | 11.00% | ~466 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.50% | ~21 |
 | The Surge | 0.40% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,232 (Ranked 126)  
+Progressed: 4,233 (Ranked 126)  
 Completed: 13 (0.31%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 13 (0.31%) (Ranked 124)
 | 2023-05-16 | 4,217 | 13 |
 | 2023-05-18 | 4,221 | 13 |
 | 2023-05-19 | 4,226 | 13 |
-| 2023-05-20 | 4,232 | 13 |
+| 2023-05-20 | 4,233 | 13 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 459)  
 Sum: 26 (Ranked 464)  

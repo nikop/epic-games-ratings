@@ -2,7 +2,7 @@
   "ID": "d469e82d91fe4516a00d6566c3d2f8f7",
   "Name": "Going Medieval",
   "ProductSlug": "going-medieval",
-  "Ranking_Rating": 383,
+  "Ranking_Rating": 384,
   "Ranking_Popularity": 305,
   "Ranking_PopularitySum": 235,
   "Ranking_EOS_Progress": 136,
@@ -900,10 +900,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 927,
       "NumberOfAwardsMax": 118
+    },
+    {
+      "Time": "2023-05-20T17:59:42.2266889+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 928,
+      "NumberOfAwardsMax": 118
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 927,
+  "NumberOfAwards": 928,
   "NumberOfAwardsMax": 118,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -941,7 +947,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 107
+      "Count": 108
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1404,9 +1410,9 @@
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
-  "LastChanged": "2023-05-19T15:00:08.3191747+00:00",
-  "LastChanged_Achievements": "2023-05-20T17:06:31.2460909+00:00",
+  "LastChanged": "2023-05-20T17:59:42.2266886+00:00",
+  "LastChanged_Achievements": "2023-05-20T18:05:54.15497+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:15.8703194+00:00",
-  "LastUpdate_Ratings": "2023-05-20T17:00:12.53172+00:00",
-  "LastUpdate_Achievements": "2023-05-20T17:06:31.2461156+00:00"
+  "LastUpdate_Ratings": "2023-05-20T17:59:42.2266894+00:00",
+  "LastUpdate_Achievements": "2023-05-20T18:05:54.1549959+00:00"
 }

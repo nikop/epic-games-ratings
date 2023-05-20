@@ -6,14 +6,14 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 13.00% | ~1,166 |
-| A Spark | 10.00% | ~897 |
-| Burning City | 9.00% | ~807 |
+| Devoured by Darkness | 13.00% | ~1,167 |
+| A Spark | 10.00% | ~898 |
+| Burning City | 9.00% | ~808 |
 | Mythic Choices | 8.00% | ~718 |
 | Defender's Heart | 8.00% | ~718 |
 | Banner over the Citadel | 7.00% | ~628 |
 | Queen's Gratitude | 7.00% | ~628 |
-| Fifth Crusade | 5.00% | ~448 |
+| Fifth Crusade | 5.00% | ~449 |
 | Embrace of the Abyss | 3.00% | ~269 |
 | Path of the Angel | 3.00% | ~269 |
 | Path of the Azata | 3.00% | ~269 |
@@ -23,15 +23,15 @@ Number of Ratings: 1,354  (23.09.2022)
 | All Paths Open | 3.00% | ~269 |
 | Demonic and Divine | 3.00% | ~269 |
 | Next-Door Play | 3.00% | ~269 |
-| Heart of the Fallen Land | 2.00% | ~179 |
-| The Legacy | 2.00% | ~179 |
-| Divide and Rule | 2.00% | ~179 |
-| Mythic Reinforcements | 2.00% | ~179 |
-| Core of the Riddle | 2.00% | ~179 |
-| Your First Big Enemy | 2.00% | ~179 |
-| A Flame | 2.00% | ~179 |
-| Hey, I Know You! | 2.00% | ~179 |
-| Get the Toad | 2.00% | ~179 |
+| Heart of the Fallen Land | 2.00% | ~180 |
+| The Legacy | 2.00% | ~180 |
+| Divide and Rule | 2.00% | ~180 |
+| Mythic Reinforcements | 2.00% | ~180 |
+| Core of the Riddle | 2.00% | ~180 |
+| Your First Big Enemy | 2.00% | ~180 |
+| A Flame | 2.00% | ~180 |
+| Hey, I Know You! | 2.00% | ~180 |
+| Get the Toad | 2.00% | ~180 |
 | Hanged Man's Notes | 2.00% | ~155 |
 | The Lady of the Forest | 2.00% | ~155 |
 | Beware Still Water | 2.00% | ~155 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,970 (Ranked 109)  
+Progressed: 8,975 (Ranked 109)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-17 | 8,850 | 0 |
 | 2023-05-18 | 8,872 | 0 |
 | 2023-05-19 | 8,921 | 0 |
-| 2023-05-20 | 8,970 | 0 |
+| 2023-05-20 | 8,975 | 0 |
 ## Awards
 Max (Character Customization): 1,634  (Ranked 111)  
 Sum: 6,630 (Ranked 110)  

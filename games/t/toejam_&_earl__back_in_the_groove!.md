@@ -1,7 +1,7 @@
 # ToeJam & Earl: Back in the Groove!
 [Store](https://store.epicgames.com/en-US/p/toejam-and-earl-back-in-the-groove-cddc16)  
 [View Rawdata](../../db/t/toejam_&_earl__back_in_the_groove!.json)  
-Rating: 4.32 (Ranked 745)  
+Rating: 4.32 (Ranked 746)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -29,10 +29,10 @@ Rating: 4.32 (Ranked 745)
 | Piece O' Cake | 0.50% | ~273 |
 | Boom Box Baby | 0.40% | ~218 |
 | I Can't Believe I've Done This | 0.40% | ~218 |
+| Flying Present Ultimate Master | 0.40% | ~218 |
 | Harsh Love | 0.40% | ~218 |
 | Made It Through | 0.40% | ~218 |
 | Map Explorer | 0.30% | ~164 |
-| Flying Present Ultimate Master | 0.30% | ~164 |
 | Ridiculously Generous | 0.30% | ~164 |
 | Nine Funkotronians | 0.30% | ~164 |
 | I'm A Total Saint | 0.30% | ~164 |
@@ -55,7 +55,7 @@ Rating: 4.32 (Ranked 745)
 | Why Do I Keep Doing That? | 0.10% | ~55 |
 | Hey, You Did It! | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54,552 (Ranked 73)  
+Progressed: 54,553 (Ranked 73)  
 Completed: 4 (0.01%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 4 (0.01%) (Ranked 193)
 | 2023-05-17 | 54,484 | 4 |
 | 2023-05-18 | 54,503 | 4 |
 | 2023-05-19 | 54,523 | 4 |
-| 2023-05-20 | 54,552 | 4 |
+| 2023-05-20 | 54,553 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

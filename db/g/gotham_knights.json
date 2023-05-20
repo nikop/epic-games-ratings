@@ -2,7 +2,7 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 835,
+  "Ranking_Rating": 836,
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 68,
@@ -1154,9 +1154,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61353,
+  "EOS_Progressed": 61364,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 517,
+  "EOS_NewPlayers": 525,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3089,6 +3089,11 @@
       "Time": "2023-05-20T17:06:45.6584144+00:00",
       "NumProgressed": 61353,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-20T18:06:07.7296241+00:00",
+      "NumProgressed": 61364,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3587,13 +3592,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61353,
+      "Progressed": 61364,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31633,
+      "Progressed": 31644,
       "Completed": 2640
     }
   ],
@@ -3601,8 +3606,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-20T13:59:13.9457948+00:00",
-  "LastChanged_Achievements": "2023-05-20T17:06:45.6584139+00:00",
+  "LastChanged_Achievements": "2023-05-20T18:06:07.7296236+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-20T17:00:08.1493801+00:00",
-  "LastUpdate_Achievements": "2023-05-20T17:06:45.6584852+00:00"
+  "LastUpdate_Ratings": "2023-05-20T17:59:38.6308396+00:00",
+  "LastUpdate_Achievements": "2023-05-20T18:06:07.7296904+00:00"
 }

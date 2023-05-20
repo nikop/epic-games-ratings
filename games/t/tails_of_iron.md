@@ -1,7 +1,7 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.50 (Ranked 534)  
+Rating: 4.50 (Ranked 535)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,7 +12,7 @@ Rating: 4.50 (Ranked 534)
 | Collect Monster Parts | 56.00% | ~785 |
 | Two Handed Weapon | 54.00% | ~757 |
 | Defeat 25 Grubs | 50.00% | ~700 |
-| Rescue Redgi's Brothers | 49.00% | ~686 |
+| Rescue Redgi's Brothers | 50.00% | ~700 |
 | Collect Iron Ore | 45.00% | ~630 |
 | Defeat 25 Mozis | 44.00% | ~616 |
 | Kitchen Ready To Cook | 44.00% | ~616 |

@@ -2,7 +2,7 @@
   "ID": "301ec0fdbcaf46b3af9322e436ac87bd",
   "Name": "Voidtrain",
   "ProductSlug": "voidtrain",
-  "Ranking_Rating": 534,
+  "Ranking_Rating": 535,
   "Ranking_Popularity": 445,
   "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 409,
@@ -834,6 +834,6 @@
   "FirstSeen": "2022-07-22T20:25:41.7165355+00:00",
   "LastChanged": "2023-05-19T21:57:37.0418531+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.267928+00:00",
-  "LastUpdate_Ratings": "2023-05-20T16:58:09.660895+00:00",
-  "LastUpdate_Achievements": "2023-05-20T17:04:20.6298262+00:00"
+  "LastUpdate_Ratings": "2023-05-20T17:57:55.4212663+00:00",
+  "LastUpdate_Achievements": "2023-05-20T18:03:52.9406798+00:00"
 }

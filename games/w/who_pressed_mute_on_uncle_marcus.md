@@ -19,7 +19,7 @@
 | Delusions | 25.00% | ~40 |
 | Prove it | 20.00% | ~32 |
 | The truth | 20.00% | ~32 |
-| Making a murderer | 15.00% | ~24 |
+| Making a murderer | 16.00% | ~25 |
 | The whole truth | 11.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 159 (Ranked 239)  

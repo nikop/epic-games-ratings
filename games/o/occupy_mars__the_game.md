@@ -1,19 +1,19 @@
 # Occupy Mars: The Game
 [Store](https://store.epicgames.com/en-US/p/occupy-mars)  
 [View Rawdata](../../db/o/occupy_mars__the_game.json)  
-Rating: 3.68 (Ranked 921)  
+Rating: 3.68 (Ranked 922)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 33.00% | ~215 |
-| Electrician | 23.00% | ~150 |
-| Fear my botany powers, Mars | 18.00% | ~117 |
-| Zero Waste | 16.00% | ~104 |
-| I am the greatest botanist on this planet. | 14.00% | ~91 |
-| Bob The Builder | 14.00% | ~91 |
+| I don't feel so good | 33.00% | ~216 |
+| Electrician | 23.00% | ~151 |
+| Fear my botany powers, Mars | 19.00% | ~124 |
+| Zero Waste | 16.00% | ~105 |
+| I am the greatest botanist on this planet. | 14.00% | ~92 |
+| Bob The Builder | 14.00% | ~92 |
 | Houston we have a problem | 13.00% | ~85 |
 | Occupy Mars! | 13.00% | ~85 |
-| Miner | 8.00% | ~52 |
+| Miner | 9.00% | ~59 |
 | Gardener | 7.00% | ~46 |
 | Detective | 5.00% | ~33 |
 | Get your hands dirty | 4.00% | ~26 |
@@ -21,7 +21,7 @@ Rating: 3.68 (Ranked 921)
 | The Collector | 2.00% | ~13 |
 | ITS crash site | 1.00% | ~7 |
 | “Aliens” | 0.90% | ~6 |
-| Space Forest | 0.80% | ~5 |
+| Space Forest | 0.90% | ~6 |
 | Caveman | 0.50% | ~3 |
 | Driver's License | 0.30% | ~2 |
 | DeDust | 0.30% | ~2 |
@@ -36,6 +36,7 @@ Rating: 3.68 (Ranked 921)
 | Korolev crater | 0.20% | ~1 |
 | Never Ending Story? | 0.20% | ~1 |
 | One does not simply... | 0.20% | ~1 |
+| Plumber | 0.20% | ~1 |
 | Roadster | 0.20% | ~1 |
 | Rover Mechanic | 0.20% | ~1 |
 | Thunderstruck | 0.20% | ~1 |
@@ -48,13 +49,12 @@ Rating: 3.68 (Ranked 921)
 | Frozen | 0.00% | ~0 |
 | Good Martian | 0.00% | ~0 |
 | Party Time! | 0.00% | ~0 |
-| Plumber | 0.00% | ~0 |
 | Rocket Jump | 0.00% | ~0 |
 | Rocket Scientist | 0.00% | ~0 |
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 651 (Ranked 183)  
+Progressed: 655 (Ranked 183)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-17 | 10 | 0 |
 | 2023-05-18 | 287 | 0 |
 | 2023-05-19 | 540 | 0 |
-| 2023-05-20 | 651 | 0 |
+| 2023-05-20 | 655 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,32 +6,32 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 78.00% | ~2,300 |
-| Un-Lonely Island | 50.00% | ~1,474 |
+| Just One...More...Term... | 78.00% | ~2,301 |
+| Un-Lonely Island | 50.00% | ~1,475 |
 | The Beginning of a Servantship | 46.00% | ~1,357 |
 | Trade Is My Trait | 38.00% | ~1,121 |
 | Number 18 | 26.00% | ~767 |
 | We Don't Have Time For That | 20.00% | ~590 |
 | The Governator | 19.00% | ~560 |
 | The Legend of Langostino | 18.00% | ~531 |
-| Caribbean Comrade | 17.00% | ~501 |
+| Caribbean Comrade | 17.00% | ~502 |
 | The Dreamer of Dreams | 16.00% | ~472 |
 | Go Sovereigns! | 12.00% | ~354 |
 | For Science! | 12.00% | ~354 |
 | Happy Ending? | 11.00% | ~324 |
 | Of Seals And Men | 10.00% | ~295 |
 | Shackadelic | 10.00% | ~295 |
-| Double Trouble | 9.00% | ~265 |
-| Firestarter | 9.00% | ~265 |
-| Make Tropico Great Again! | 9.00% | ~265 |
+| Double Trouble | 9.00% | ~266 |
+| Firestarter | 9.00% | ~266 |
+| Make Tropico Great Again! | 9.00% | ~266 |
 | French Connection | 8.00% | ~236 |
-| Don't Panic! | 7.00% | ~206 |
-| I Owe You Nothing | 7.00% | ~206 |
+| Don't Panic! | 7.00% | ~207 |
+| I Owe You Nothing | 7.00% | ~207 |
 | Computer Says "No" | 6.00% | ~177 |
 | Beware The Betman | 6.00% | ~177 |
 | Watch The World Burn | 6.00% | ~177 |
 | Fairy Tale Come True | 6.00% | ~177 |
-| Viva Tropico! | 5.00% | ~147 |
+| Viva Tropico! | 5.00% | ~148 |
 | Apocalypso | 4.00% | ~118 |
 | The Time For Wonders | 4.00% | ~118 |
 | Been there, Done That | 3.00% | ~88 |
@@ -44,10 +44,10 @@ Number of Ratings: 398  (23.09.2022)
 | Sublime Subliminal Supreme | 2.00% | ~59 |
 | Teamplayer | 2.00% | ~59 |
 | Curse of the Mummy | 2.00% | ~59 |
-| Survivor | 1.00% | ~29 |
+| Survivor | 1.00% | ~30 |
 | My Ways | 0.30% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,949 (Ranked 133)  
+Progressed: 2,950 (Ranked 133)  
 Completed: 1 (0.03%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 1 (0.03%) (Ranked 182)
 | 2023-05-17 | 2,875 | 1 |
 | 2023-05-18 | 2,902 | 1 |
 | 2023-05-19 | 2,924 | 1 |
-| 2023-05-20 | 2,949 | 1 |
+| 2023-05-20 | 2,950 | 1 |
 ## Awards
 Max (Great for Beginners): 104  (Ranked 319)  
 Sum: 750 (Ranked 253)  

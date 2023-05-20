@@ -1,21 +1,21 @@
 # ATOM RPG
 [Store](https://store.epicgames.com/en-US/p/atom-rpg-3adb54)  
 [View Rawdata](../../db/a/atom_rpg.json)  
-Rating: 4.45 (Ranked 607)  
+Rating: 4.45 (Ranked 608)  
 Number of Ratings: 54  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~781 |
-| Wanderer | 36.00% | ~284 |
-| One HIT wonder | 34.00% | ~268 |
+| Atom Agent | 98.00% | ~775 |
+| Wanderer | 36.00% | ~285 |
+| One HIT wonder | 34.00% | ~269 |
 | One shot, one kill | 30.00% | ~237 |
-| Traveler | 26.00% | ~205 |
+| Traveler | 26.00% | ~206 |
 | Head Burst | 20.00% | ~158 |
 | Explorer | 19.00% | ~150 |
 | Grave Robber | 18.00% | ~142 |
-| Double agent | 14.00% | ~110 |
-| Paranoia | 14.00% | ~110 |
+| Double agent | 14.00% | ~111 |
+| Paranoia | 14.00% | ~111 |
 | Kraina Grzybow | 10.00% | ~79 |
 | Love Guru | 9.00% | ~71 |
 | Savant | 9.00% | ~71 |
@@ -23,8 +23,8 @@ Number of Ratings: 54  (23.09.2022)
 | Superhuman | 8.00% | ~63 |
 | Bustin' nuts | 7.00% | ~55 |
 | The Vitinsky Rifle | 7.00% | ~55 |
-| Protection racket | 5.00% | ~39 |
-| Secret room | 5.00% | ~39 |
+| Protection racket | 5.00% | ~40 |
+| Secret room | 5.00% | ~40 |
 | Indy | 4.00% | ~32 |
 | Sacrifice | 4.00% | ~32 |
 | Career criminal | 2.00% | ~16 |
@@ -43,7 +43,7 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 789 (Ranked 172)  
+Progressed: 791 (Ranked 172)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-14 | 778 | 0 |
 | 2023-05-17 | 779 | 0 |
 | 2023-05-19 | 784 | 0 |
-| 2023-05-20 | 789 | 0 |
+| 2023-05-20 | 791 | 0 |
 ## Awards
 Max (Character Customization): 47  (Ranked 394)  
 Sum: 47 (Ranked 435)  

@@ -9,9 +9,9 @@
 | Over the Moon | 33.00% | ~22 |
 | The Bigger They Are | 30.00% | ~20 |
 | Enemies of Fate | 30.00% | ~20 |
+| Amokuali Tower | 27.00% | ~18 |
 | Armored | 27.00% | ~18 |
 | Your Training Continues | 25.00% | ~17 |
-| Amokuali Tower | 25.00% | ~17 |
 | Freedom | 22.00% | ~15 |
 | Winner | 19.00% | ~13 |
 | Omnia Vincit Amor | 19.00% | ~13 |
@@ -19,7 +19,7 @@
 | Stilt House | 15.00% | ~10 |
 | Armor Collector | 12.00% | ~8 |
 | Corwid Hill | 10.00% | ~7 |
-| Dreamwalker | 9.00% | ~6 |
+| Dreamwalker | 10.00% | ~7 |
 | Your Training Is Complete | 6.00% | ~4 |
 | Red in Tooth and Claw | 6.00% | ~4 |
 | Total Eclipse | 6.00% | ~4 |

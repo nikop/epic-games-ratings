@@ -1,21 +1,21 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.56 (Ranked 447)  
+Rating: 4.56 (Ranked 448)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 54.00% | ~3,081 |
-| Tutti Eroi! | 53.00% | ~3,024 |
-| You Shall Not Pass | 52.00% | ~2,967 |
+| Peak Performance | 54.00% | ~3,082 |
+| Tutti Eroi! | 53.00% | ~3,025 |
+| You Shall Not Pass | 52.00% | ~2,968 |
 | Avanti Savoia! | 46.00% | ~2,625 |
-| Conrad von Hotzensocks | 36.00% | ~2,054 |
+| Conrad von Hotzensocks | 36.00% | ~2,055 |
 | Mamma Mia! | 35.00% | ~1,997 |
 | Gabriele D'Annunzio | 32.00% | ~1,826 |
 | Silver Lining | 28.00% | ~1,598 |
-| Aurelio Baruzzi | 22.00% | ~1,255 |
-| Veni Vidi Vici | 22.00% | ~1,255 |
+| Aurelio Baruzzi | 22.00% | ~1,256 |
+| Veni Vidi Vici | 22.00% | ~1,256 |
 | Decimation | 20.00% | ~1,141 |
 | Donatello | 20.00% | ~1,141 |
 | Insubordination | 19.00% | ~1,084 |
@@ -33,8 +33,8 @@ Number of Ratings: 98  (23.09.2022)
 | The Devil's Paintbrush | 11.00% | ~628 |
 | I Have the High Ground | 9.00% | ~514 |
 | Millenial | 9.00% | ~514 |
-| The Show Must Go On | 8.00% | ~456 |
-| Tosca | 8.00% | ~456 |
+| The Show Must Go On | 8.00% | ~457 |
+| Tosca | 8.00% | ~457 |
 | Generalissimo | 6.00% | ~342 |
 | The Enlightment | 6.00% | ~342 |
 | 12th Bottle of the Isonzo | 5.00% | ~285 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~23 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,706 (Ranked 119)  
+Progressed: 5,707 (Ranked 119)  
 Completed: 8 (0.14%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 8 (0.14%) (Ranked 151)
 | 2023-05-16 | 5,626 | 8 |
 | 2023-05-18 | 5,641 | 8 |
 | 2023-05-19 | 5,676 | 8 |
-| 2023-05-20 | 5,706 | 8 |
+| 2023-05-20 | 5,707 | 8 |
 ## Awards
 Max (Highly Recommended): 30  (Ranked 445)  
 Sum: 235 (Ranked 343)  

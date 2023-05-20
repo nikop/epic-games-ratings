@@ -1,19 +1,19 @@
 # Shoulders of Giants
 [Store](https://store.epicgames.com/en-US/p/shoulders-of-giants-61381f)  
 [View Rawdata](../../db/s/shoulders_of_giants.json)  
-Rating: 4.32 (Ranked 745)  
+Rating: 4.32 (Ranked 746)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On the Shoulders of Giants | 88.00% | ~1,785 |
-| A Ribbiting Performance | 78.00% | ~1,582 |
-| At Least We Have Each Other... | 76.00% | ~1,541 |
-| Frogbot | 73.00% | ~1,480 |
-| Ouch | 56.00% | ~1,136 |
-| Fun in the Stun | 55.00% | ~1,115 |
+| On the Shoulders of Giants | 88.00% | ~1,786 |
+| A Ribbiting Performance | 77.00% | ~1,562 |
+| At Least We Have Each Other... | 76.00% | ~1,542 |
+| Frogbot | 73.00% | ~1,481 |
+| Ouch | 55.00% | ~1,116 |
+| Fun in the Stun | 55.00% | ~1,116 |
 | Do you feel like a tough guy? | 45.00% | ~913 |
-| The Interdimensional Power of Friendship | 44.00% | ~892 |
-| Turn Up The HEAT | 40.00% | ~811 |
+| The Interdimensional Power of Friendship | 44.00% | ~893 |
+| Turn Up The HEAT | 40.00% | ~812 |
 | Stop Hitting Yourself! | 35.00% | ~710 |
 | Nothing to Wear | 31.00% | ~629 |
 | The First Law of Thermodynamics | 27.00% | ~548 |
@@ -25,7 +25,7 @@ Rating: 4.32 (Ranked 745)
 | Better Than the Devs | 4.00% | ~81 |
 | So do we just stay up here, or?... | 2.00% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,028 (Ranked 143)  
+Progressed: 2,029 (Ranked 143)  
 Completed: 8 (0.39%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,7 +50,7 @@ Completed: 8 (0.39%) (Ranked 113)
 | 2023-05-17 | 1,991 | 8 |
 | 2023-05-18 | 2,005 | 8 |
 | 2023-05-19 | 2,021 | 8 |
-| 2023-05-20 | 2,028 | 8 |
+| 2023-05-20 | 2,029 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

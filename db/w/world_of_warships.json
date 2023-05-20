@@ -2,7 +2,7 @@
   "ID": "84c76746bce94effb8e1047fabfd7eb7",
   "Name": "World of Warships",
   "ProductSlug": "world-of-warships",
-  "Ranking_Rating": 646,
+  "Ranking_Rating": 647,
   "Ranking_Popularity": 129,
   "Ranking_PopularitySum": 80,
   "Ranking_EOS_Progress": 409,
@@ -4564,10 +4564,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 9446,
       "NumberOfAwardsMax": 1065
+    },
+    {
+      "Time": "2023-05-20T17:58:41.00073+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 9448,
+      "NumberOfAwardsMax": 1065
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9446,
+  "NumberOfAwards": 9448,
   "NumberOfAwardsMax": 1065,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -4617,7 +4623,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 861
+      "Count": 863
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4643,8 +4649,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
-  "LastChanged": "2023-05-20T13:58:25.824286+00:00",
+  "LastChanged": "2023-05-20T17:58:41.0007296+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:26.2825521+00:00",
-  "LastUpdate_Ratings": "2023-05-20T16:59:01.1881674+00:00",
-  "LastUpdate_Achievements": "2023-05-20T17:03:20.3951403+00:00"
+  "LastUpdate_Ratings": "2023-05-20T17:58:41.0007306+00:00",
+  "LastUpdate_Achievements": "2023-05-20T18:02:28.8118751+00:00"
 }

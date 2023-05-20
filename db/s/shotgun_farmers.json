@@ -662,7 +662,7 @@
       "ID": "ach_perfect",
       "SetID": "bf10c8p",
       "Name": "Perfect",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -766,7 +766,7 @@
       "ID": "ach_x_farmers_same_sniper",
       "SetID": "bf10c8p",
       "Name": "Aspairagus",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -782,7 +782,7 @@
       "ID": "ach_x_victims_holding_shovel",
       "SetID": "bf10c8p",
       "Name": "No Diggity",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -822,7 +822,7 @@
       "ID": "ach_x_victims_using_lmg",
       "SetID": "bf10c8p",
       "Name": "Summers Here",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -830,7 +830,7 @@
       "ID": "ach_x_victims_using_pistol",
       "SetID": "bf10c8p",
       "Name": "Easy Peasy",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -869,8 +869,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-05-20T17:04:28.5441903+00:00",
+  "LastChanged_Achievements": "2023-05-20T18:04:00.1294902+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:50.6291522+00:00",
-  "LastUpdate_Ratings": "2023-05-20T16:58:28.4413253+00:00",
-  "LastUpdate_Achievements": "2023-05-20T17:04:28.5442685+00:00"
+  "LastUpdate_Ratings": "2023-05-20T17:58:11.2312994+00:00",
+  "LastUpdate_Achievements": "2023-05-20T18:04:00.1295682+00:00"
 }

@@ -1,23 +1,23 @@
 # Galactic Civilizations IV
 [Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iv)  
 [View Rawdata](../../db/g/galactic_civilizations_iv.json)  
-Rating: 4.18 (Ranked 829)  
+Rating: 4.18 (Ranked 830)  
 Number of Ratings: 429  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 79.00% | ~4,523 |
+| Colonize a Planet | 79.00% | ~4,524 |
 | Worker Specialization | 78.00% | ~4,466 |
-| First Contact | 73.00% | ~4,179 |
+| First Contact | 73.00% | ~4,180 |
 | Win a Battle | 67.00% | ~3,836 |
 | Anomaly Researcher | 63.00% | ~3,607 |
 | Unleash My Power | 62.00% | ~3,550 |
 | Own 30 Planets | 34.00% | ~1,947 |
-| Xenocide | 33.00% | ~1,889 |
+| Xenocide | 33.00% | ~1,890 |
 | Commodity Trader | 32.00% | ~1,832 |
 | Design a Civilization | 31.00% | ~1,775 |
-| Design a Ship | 29.00% | ~1,660 |
-| Commodity Seller | 26.00% | ~1,488 |
+| Design a Ship | 29.00% | ~1,661 |
+| Commodity Seller | 26.00% | ~1,489 |
 | Prestige Victory! | 14.00% | ~802 |
 | Galactic War | 11.00% | ~630 |
 | Trading Partner | 9.00% | ~515 |
@@ -30,10 +30,10 @@ Number of Ratings: 429  (23.09.2022)
 | Win Quickly | 4.00% | ~229 |
 | Pirate Cleansing | 3.00% | ~172 |
 | Win an Immense Game | 3.00% | ~172 |
-| Artifact Mastery | 2.00% | ~114 |
-| Win as Altarians | 2.00% | ~114 |
-| Win as the Yor | 2.00% | ~114 |
-| Influence Victory! | 2.00% | ~114 |
+| Artifact Mastery | 2.00% | ~115 |
+| Win as Altarians | 2.00% | ~115 |
+| Win as the Yor | 2.00% | ~115 |
+| Influence Victory! | 2.00% | ~115 |
 | Win as Arceans | 1.00% | ~57 |
 | Win as the Baratak | 1.00% | ~57 |
 | Win as Festron | 1.00% | ~57 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,725 (Ranked 118)  
+Progressed: 5,726 (Ranked 118)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-17 | 5,685 | 0 |
 | 2023-05-18 | 5,703 | 0 |
 | 2023-05-19 | 5,714 | 0 |
-| 2023-05-20 | 5,725 | 0 |
+| 2023-05-20 | 5,726 | 0 |
 ## Awards
 Max (Diverse Characters): 91  (Ranked 335)  
 Sum: 658 (Ranked 268)  
