@@ -282,7 +282,7 @@
 | 273 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.66 | 0 | 491 |
 | 273 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.66 | 48 | 392 |
 | 273 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 0 | 491 |
-| 273 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,040 | 132 |
+| 273 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,041 | 132 |
 | 273 | [Returnal™](games/r/returnal™.md) | 4.66 | 21 | 479 |
 | 273 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.66 | 51 | 384 |
 | 273 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.66 | 48 | 392 |
@@ -475,7 +475,7 @@
 | 466 | [MotoGP™21](games/m/motogp™21.md) | 4.55 | 22 | 473 |
 | 466 | [Outward Definitive Edition](games/o/outward.md) | 4.55 | 31 | 440 |
 | 466 | [Oxenfree](games/o/oxenfree.md) | 4.55 | 0 | 491 |
-| 466 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 842 | 145 |
+| 466 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 4.55 | 844 | 145 |
 | 466 | [Tales of the Neon Sea](games/t/tales_of_the_neon_sea.md) | 4.55 | 0 | 491 |
 | 466 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.55 | 0 | 491 |
 | 466 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,156 | 125 |
@@ -563,7 +563,7 @@
 | 555 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 271 | 233 |
 | 555 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 229 | 245 |
 | 555 | [Industries of Titan](games/i/industries_of_titan.md) | 4.49 | 0 | 491 |
-| 555 | [Maneater](games/m/maneater.md) | 4.49 | 13,455 | 24 |
+| 555 | [Maneater](games/m/maneater.md) | 4.49 | 13,460 | 24 |
 | 555 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 611 | 163 |
 | 555 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 0 | 491 |
 | 555 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 346 |
@@ -651,7 +651,7 @@
 | 645 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.42 | 0 | 491 |
 | 645 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,114 | 127 |
 | 645 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 48 |
-| 645 | [Sheltered](games/s/sheltered.md) | 4.42 | 264 | 237 |
+| 645 | [Sheltered](games/s/sheltered.md) | 4.42 | 267 | 235 |
 | 645 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 535 | 179 |
 | 645 | [Tunche](games/t/tunche.md) | 4.42 | 0 | 491 |
 | 645 | [World of Warships](games/w/world_of_warships.md) | 4.42 | 1,063 | 129 |

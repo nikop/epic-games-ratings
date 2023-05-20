@@ -23,7 +23,7 @@
 | 21 | [Warframe](games/w/warframe.md) | 14,909 | 4.61 | 357 |
 | 22 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,351 | 4.58 | 414 |
 | 23 | [Borderlands 2](games/b/borderlands_2.md) | 14,237 | 4.76 | 117 |
-| 24 | [Maneater](games/m/maneater.md) | 13,455 | 4.49 | 555 |
+| 24 | [Maneater](games/m/maneater.md) | 13,460 | 4.49 | 555 |
 | 25 | [League of Legends](games/l/league_of_legends.md) | 13,297 | 4.21 | 805 |
 | 26 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,285 | 4.60 | 383 |
 | 27 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,401 | 4.36 | 710 |
@@ -131,7 +131,7 @@
 | 129 | [World of Warships](games/w/world_of_warships.md) | 1,063 | 4.42 | 645 |
 | 130 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,061 | 4.54 | 480 |
 | 131 | [Rogue Legacy](games/r/rogue_legacy.md) | 1,060 | 4.61 | 357 |
-| 132 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,040 | 4.66 | 273 |
+| 132 | [PC Building Simulator](games/p/pc_building_simulator.md) | 1,041 | 4.66 | 273 |
 | 133 | [Saints Row](games/s/saints_row.md) | 1,029 | 3.78 | 913 |
 | 134 | [EVE Online](games/e/eve_online.md) | 1,020 | 4.25 | 783 |
 | 135 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,016 | 4.79 | 92 |
@@ -144,7 +144,7 @@
 | 142 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 871 | 4.69 | 214 |
 | 143 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 852 | 4.45 | 607 |
 | 144 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 846 | 4.76 | 117 |
-| 145 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 842 | 4.55 | 466 |
+| 145 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 844 | 4.55 | 466 |
 | 146 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 774 | 4.69 | 214 |
 | 147 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 772 | 4.40 | 673 |
 | 148 | [Frostpunk](games/f/frostpunk.md) | 771 | 4.74 | 139 |
@@ -235,8 +235,8 @@
 | 233 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 271 | 4.49 | 555 |
 | 234 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 268 | 4.61 | 357 |
 | 235 | [Diabotical](games/d/diabotical.md) | 267 | 4.75 | 131 |
+| 235 | [Sheltered](games/s/sheltered.md) | 267 | 4.42 | 645 |
 | 235 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 267 | 4.58 | 414 |
-| 237 | [Sheltered](games/s/sheltered.md) | 264 | 4.42 | 645 |
 | 238 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 253 | 4.84 | 50 |
 | 239 | [Dead Cells](games/d/dead_cells.md) | 251 | 4.88 | 20 |
 | 240 | [Crysis Remastered](games/c/crysis_remastered.md) | 246 | 4.40 | 673 |

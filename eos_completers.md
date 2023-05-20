@@ -7,7 +7,7 @@
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 21.21% |
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.55% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 8 | [Island Cities](games/i/island_cities.md) | 16.98% |
+| 8 | [Island Cities](games/i/island_cities.md) | 16.82% |
 | 9 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.04% |
 | 10 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
 | 11 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.07% |
@@ -21,13 +21,13 @@
 | 19 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.23% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 8.00% |
 | 21 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.95% |
-| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.63% |
+| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.62% |
 | 23 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 7.14% |
 | 24 | [Scorn](games/s/scorn.md) | 6.99% |
 | 25 | [Ravenlok](games/r/ravenlok.md) | 6.56% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
-| 28 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.59% |
+| 28 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.56% |
 | 29 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.97% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.96% |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
@@ -37,9 +37,9 @@
 | 35 | [Doodle God](games/d/doodle_god.md) | 3.92% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
 | 37 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
-| 38 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 3.61% |
+| 38 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 3.59% |
 | 39 | [The Complex](games/t/the_complex.md) | 3.52% |
-| 40 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.41% |
+| 40 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.40% |
 | 41 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.33% |
 | 42 | [The Bunker](games/t/the_bunker.md) | 3.30% |
 | 43 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
@@ -52,8 +52,8 @@
 | 50 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.90% |
 | 51 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
 | 51 | [Destiny 2](games/d/destiny_2.md) | 2.87% |
-| 53 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.78% |
-| 54 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
+| 53 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
+| 54 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.70% |
 | 55 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.67% |
 | 56 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.63% |
 | 57 | [FORECLOSED](games/f/foreclosed.md) | 2.60% |
@@ -112,8 +112,8 @@
 | 110 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 111 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
 | 112 | [Potion Permit](games/p/potion_permit.md) | 0.40% |
-| 112 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.40% |
-| 114 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.39% |
+| 113 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.39% |
+| 113 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.39% |
 | 115 | [Tchia](games/t/tchia.md) | 0.38% |
 | 116 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 117 | [Godlike Burger](games/g/godlike_burger.md) | 0.36% |
