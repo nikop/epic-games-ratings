@@ -11,8 +11,8 @@
 | The Fallen | 20.00% | ~60 |
 | Trap Master | 20.00% | ~60 |
 | Artifact Collector | 19.00% | ~57 |
+| Reincarnation | 17.00% | ~51 |
 | Ghost Buster | 16.00% | ~48 |
-| Reincarnation | 16.00% | ~48 |
 | Iconoclasm | 14.00% | ~42 |
 | Librarian | 13.00% | ~39 |
 | Orcs Must Die! | 13.00% | ~39 |

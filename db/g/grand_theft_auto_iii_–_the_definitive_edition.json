@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5022,
+  "EOS_Progressed": 5025,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -1318,6 +1318,11 @@
       "Time": "2023-05-20T03:00:17.2777605+00:00",
       "NumProgressed": 5022,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-20T04:01:27.6440136+00:00",
+      "NumProgressed": 5025,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -1329,7 +1334,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4168
+      "UsersEstimate": 4171
     },
     {
       "ID": "ACH02",
@@ -1337,7 +1342,7 @@
       "Name": "Without a Scratch",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 1607
+      "UsersEstimate": 1608
     },
     {
       "ID": "ACH03",
@@ -1353,7 +1358,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 1808
+      "UsersEstimate": 1809
     },
     {
       "ID": "ACH05",
@@ -1401,7 +1406,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "ACH11",
@@ -1449,7 +1454,7 @@
       "Name": "A Marked Man",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "ACH17",
@@ -1463,9 +1468,9 @@
       "ID": "ACH18",
       "SetID": "552d41m",
       "Name": "Not So Fast",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 452
+      "UsersEstimate": 402
     },
     {
       "ID": "ACH19",
@@ -1473,7 +1478,7 @@
       "Name": "A Gift from the King",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "ACH20",
@@ -1513,7 +1518,7 @@
       "Name": "Dirty Money",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "ACH25",
@@ -1560,7 +1565,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 5022,
+      "Progressed": 5025,
       "Completed": 26
     }
   ],
@@ -1568,8 +1573,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-12T16:57:58.7220785+00:00",
-  "LastChanged_Achievements": "2023-05-20T03:00:17.2777597+00:00",
+  "LastChanged_Achievements": "2023-05-20T04:01:27.6440074+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:31.8748782+00:00",
-  "LastUpdate_Ratings": "2023-05-20T02:57:33.7761588+00:00",
-  "LastUpdate_Achievements": "2023-05-20T03:00:17.277798+00:00"
+  "LastUpdate_Ratings": "2023-05-20T03:57:52.7776086+00:00",
+  "LastUpdate_Achievements": "2023-05-20T04:01:27.6440614+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "8f25cbefde7d4e7c8537aa860415d0b5",
   "Name": "Voltaire: The Vegan Vampire",
   "ProductSlug": "voltaire-e1c517",
-  "Ranking_EOS_Progress": 264,
+  "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-02-27T17:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 77,
+  "EOS_Progressed": 78,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -57,6 +57,11 @@
     {
       "Time": "2023-05-19T21:04:45.4776521+00:00",
       "NumProgressed": 77,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T04:05:46.3795066+00:00",
+      "NumProgressed": 78,
       "NumCompleted": 0
     }
   ],
@@ -93,13 +98,13 @@
       "Name": "Fashionista",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "FIRST_HARVEST",
       "SetID": "3c20ib3",
       "Name": "Good to grow",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 5,
       "UsersEstimate": 49
     },
@@ -141,7 +146,7 @@
       "Name": "So it begins",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "HUNTING",
@@ -243,7 +248,7 @@
       "ID": "REACH_10",
       "SetID": "3c20ib3",
       "Name": "It\u0027s about the journey",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 12
     },
@@ -291,7 +296,7 @@
       "ID": "TUTORIAL",
       "SetID": "3c20ib3",
       "Name": "Graduated",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 5,
       "UsersEstimate": 30
     },
@@ -316,7 +321,7 @@
     {
       "ID": "3c20ib3",
       "IsBase": true,
-      "Progressed": 77,
+      "Progressed": 78,
       "Completed": 0
     }
   ],
@@ -324,8 +329,8 @@
   "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.0090692+00:00",
   "LastChanged": "2023-03-31T05:58:46.11228+00:00",
-  "LastChanged_Achievements": "2023-05-20T03:04:49.6092445+00:00",
+  "LastChanged_Achievements": "2023-05-20T04:05:46.3795062+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:00.1482004+00:00",
-  "LastUpdate_Ratings": "2023-05-20T02:57:12.1130173+00:00",
-  "LastUpdate_Achievements": "2023-05-20T03:04:49.6092656+00:00"
+  "LastUpdate_Ratings": "2023-05-20T03:57:23.7989697+00:00",
+  "LastUpdate_Achievements": "2023-05-20T04:05:46.3795417+00:00"
 }

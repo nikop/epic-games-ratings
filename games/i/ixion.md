@@ -9,13 +9,13 @@ Rating: 4.55 (Ranked 466)
 | Infinite Growth... | 3.00% | ~59 |
 | Wakey Wakey | 3.00% | ~59 |
 | Sputnik 2049 | 3.00% | ~59 |
-| Guy de Borderlands | 2.00% | ~39 |
-| Space Society | 2.00% | ~39 |
-| A Thousand Strong | 2.00% | ~39 |
-| Ready for a New World | 2.00% | ~39 |
-| Breaking Protocol | 2.00% | ~39 |
-| Permanent Redesigns | 2.00% | ~39 |
-| Hope Seeker | 2.00% | ~39 |
+| Guy de Borderlands | 2.00% | ~40 |
+| Space Society | 2.00% | ~40 |
+| A Thousand Strong | 2.00% | ~40 |
+| Ready for a New World | 2.00% | ~40 |
+| Breaking Protocol | 2.00% | ~40 |
+| Permanent Redesigns | 2.00% | ~40 |
+| Hope Seeker | 2.00% | ~40 |
 | A Hunk of Junk | 1.00% | ~20 |
 | Exceeding Capacity | 1.00% | ~20 |
 | Fully Recycled | 1.00% | ~20 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 466)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,973 (Ranked 146)  
+Progressed: 1,976 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-17 | 1,911 | 0 |
 | 2023-05-18 | 1,926 | 0 |
 | 2023-05-19 | 1,969 | 0 |
-| 2023-05-20 | 1,973 | 0 |
+| 2023-05-20 | 1,976 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -410,9 +410,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 12871,
+  "EOS_Progressed": 12875,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 316,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -905,6 +905,11 @@
       "Time": "2023-05-20T03:00:01.375274+00:00",
       "NumProgressed": 12871,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-20T04:01:07.3696473+00:00",
+      "NumProgressed": 12875,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 40,
@@ -932,7 +937,7 @@
       "Name": "Giving Back",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -948,7 +953,7 @@
       "Name": "Flesh Wound",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -1044,7 +1049,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "KILL_ROBOT",
@@ -1100,7 +1105,7 @@
       "Name": "Mugshot",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -1235,13 +1240,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 12871,
+      "Progressed": 12875,
       "Completed": 51
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 797,
+      "Progressed": 801,
       "Completed": 29
     }
   ],
@@ -1249,8 +1254,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-16T17:57:38.030273+00:00",
-  "LastChanged_Achievements": "2023-05-20T03:00:01.3752734+00:00",
+  "LastChanged_Achievements": "2023-05-20T04:01:07.3696468+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-20T02:57:30.3782865+00:00",
-  "LastUpdate_Achievements": "2023-05-20T03:00:01.3753111+00:00"
+  "LastUpdate_Ratings": "2023-05-20T03:57:48.5048477+00:00",
+  "LastUpdate_Achievements": "2023-05-20T04:01:07.3696836+00:00"
 }

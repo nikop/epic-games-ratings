@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome! | 100.00% | ~102 |
-| A tiny town | 83.00% | ~85 |
-| Buildings, roads, cars, ...and people | 68.00% | ~69 |
-| Great view from the beach and from the hill | 58.00% | ~59 |
-| Bridges to come and go | 53.00% | ~54 |
-| Found an oasis | 44.00% | ~45 |
-| Burger or pizza? | 39.00% | ~40 |
-| Passion for sports | 35.00% | ~36 |
-| Who loves trains? | 31.00% | ~32 |
-| Easy and steady climb | 31.00% | ~32 |
-| At the heart of the city | 30.00% | ~31 |
+| Welcome! | 99.00% | ~104 |
+| A tiny town | 82.00% | ~86 |
+| Buildings, roads, cars, ...and people | 67.00% | ~70 |
+| Great view from the beach and from the hill | 57.00% | ~60 |
+| Bridges to come and go | 52.00% | ~55 |
+| Found an oasis | 44.00% | ~46 |
+| Burger or pizza? | 39.00% | ~41 |
+| Passion for sports | 34.00% | ~36 |
+| Who loves trains? | 30.00% | ~32 |
+| Easy and steady climb | 30.00% | ~32 |
+| At the heart of the city | 30.00% | ~32 |
 | Calm neighborhood | 28.00% | ~29 |
 | Elevated ring | 27.00% | ~28 |
-| Not lonely anymore | 24.00% | ~24 |
-| Monumental tribute | 22.00% | ~22 |
-| The beach is right there | 22.00% | ~22 |
-| Commuting | 21.00% | ~21 |
-| Le jardin magnifique | 19.00% | ~19 |
-| Aiming for a living and human city | 18.00% | ~18 |
-| City of dreams | 18.00% | ~18 |
-| Happy Christmas night! | 18.00% | ~18 |
-| Night walk along the beach | 18.00% | ~18 |
+| Not lonely anymore | 24.00% | ~25 |
+| Monumental tribute | 22.00% | ~23 |
+| The beach is right there | 22.00% | ~23 |
+| Commuting | 21.00% | ~22 |
+| Le jardin magnifique | 18.00% | ~19 |
+| Aiming for a living and human city | 17.00% | ~18 |
+| City of dreams | 17.00% | ~18 |
+| Happy Christmas night! | 17.00% | ~18 |
+| Night walk along the beach | 17.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102 (Ranked 255)  
-Completed: 18 (17.65%) (Ranked 8)  
+Progressed: 105 (Ranked 255)  
+Completed: 18 (17.14%) (Ranked 8)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -55,7 +55,7 @@ Completed: 18 (17.65%) (Ranked 8)
 | 2023-05-17 | 74 | 14 |
 | 2023-05-18 | 79 | 14 |
 | 2023-05-19 | 102 | 17 |
-| 2023-05-20 | 102 | 18 |
+| 2023-05-20 | 105 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

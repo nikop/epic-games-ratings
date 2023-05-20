@@ -6,19 +6,19 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~124,741 |
-| Titan's First Steps | 96.00% | ~123,455 |
-| Basic in Bulk | 91.00% | ~117,025 |
-| Tinkle of Coins | 87.00% | ~111,881 |
-| Disintermediation | 76.00% | ~97,735 |
-| Capitalism Ho! | 75.00% | ~96,449 |
-| It's Free Real Estate | 70.00% | ~90,019 |
-| Budding Merchant | 66.00% | ~84,875 |
-| Another Satisfied Customer | 61.00% | ~78,445 |
-| One Easy Payment | 60.00% | ~77,159 |
-| Own the Means of Production | 60.00% | ~77,159 |
-| Some Assembly Required | 59.00% | ~75,873 |
-| Pretty Penny | 57.00% | ~73,301 |
+| Sponsored by Argon | 97.00% | ~124,743 |
+| Titan's First Steps | 96.00% | ~123,457 |
+| Basic in Bulk | 91.00% | ~117,027 |
+| Tinkle of Coins | 87.00% | ~111,883 |
+| Disintermediation | 76.00% | ~97,737 |
+| Capitalism Ho! | 75.00% | ~96,451 |
+| It's Free Real Estate | 70.00% | ~90,021 |
+| Budding Merchant | 66.00% | ~84,877 |
+| Another Satisfied Customer | 61.00% | ~78,447 |
+| One Easy Payment | 60.00% | ~77,161 |
+| Own the Means of Production | 60.00% | ~77,161 |
+| Some Assembly Required | 59.00% | ~75,875 |
+| Pretty Penny | 57.00% | ~73,303 |
 | One-Armed Bandit | 50.00% | ~64,300 |
 | Through Repetition, Perfection | 46.00% | ~59,156 |
 | The Daily Grind | 45.00% | ~57,870 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.40% | ~514 |
 | Capitalist Camaraderie | 0.20% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,599 (Ranked 54)  
+Progressed: 128,601 (Ranked 54)  
 Completed: 79 (0.06%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 79 (0.06%) (Ranked 170)
 | 2023-05-17 | 128,452 | 78 |
 | 2023-05-18 | 128,527 | 78 |
 | 2023-05-19 | 128,589 | 79 |
-| 2023-05-20 | 128,599 | 79 |
+| 2023-05-20 | 128,601 | 79 |
 ## Awards
 Max (Great for Beginners): 4,579  (Ranked 66)  
 Sum: 26,593 (Ranked 44)  

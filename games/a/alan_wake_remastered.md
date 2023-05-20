@@ -6,23 +6,23 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 20.00% | ~9,282 |
-| Float Like a Butterfly | 16.00% | ~7,426 |
-| Let There Be Light | 16.00% | ~7,426 |
+| Follow the Light | 20.00% | ~9,283 |
+| Float Like a Butterfly | 16.00% | ~7,427 |
+| Let There Be Light | 16.00% | ~7,427 |
 | Nordic Walking | 13.00% | ~6,034 |
 | Bright Falls' Finest | 13.00% | ~6,034 |
-| Under a Thin Layer of Skin | 11.00% | ~5,105 |
-| Park Ranger | 9.00% | ~4,177 |
-| Back! Back, I Say! | 9.00% | ~4,177 |
-| Finders Keepers | 9.00% | ~4,177 |
-| Paging Mr. Wake | 9.00% | ~4,177 |
+| Under a Thin Layer of Skin | 11.00% | ~5,106 |
+| Park Ranger | 9.00% | ~4,178 |
+| Back! Back, I Say! | 9.00% | ~4,178 |
+| Finders Keepers | 9.00% | ~4,178 |
+| Paging Mr. Wake | 9.00% | ~4,178 |
 | Wheels Within Wheels | 8.00% | ~3,713 |
 | They're Heeeeeere! | 8.00% | ~3,713 |
 | The Six-Gun Scribe | 8.00% | ~3,713 |
 | Sound and Fury | 8.00% | ~3,713 |
 | Missed by a Mile | 8.00% | ~3,713 |
 | Damn Good Cup of Coffee | 8.00% | ~3,713 |
-| A Friend in Need | 8.00% | ~790 |
+| A Friend in Need | 8.00% | ~791 |
 | Heavy Metal | 7.00% | ~3,249 |
 | Iron Horse | 7.00% | ~3,249 |
 | Perchance to Dream | 7.00% | ~3,249 |
@@ -39,14 +39,14 @@ Number of Ratings: 524  (23.09.2022)
 | What Light Through Yonder Window | 5.00% | ~2,321 |
 | Right of Way | 5.00% | ~2,321 |
 | Ding! | 5.00% | ~494 |
-| Departure | 4.00% | ~1,856 |
-| Children of the Elder God | 3.00% | ~1,392 |
-| Drink 'Em Both Up | 3.00% | ~1,392 |
-| Hardboiled Writer | 3.00% | ~1,392 |
-| If It Flies, It Burns | 3.00% | ~1,392 |
-| KBF-FM | 3.00% | ~1,392 |
-| Kill Your Darlings | 3.00% | ~296 |
-| Heartbreaker | 3.00% | ~296 |
+| Departure | 4.00% | ~1,857 |
+| Children of the Elder God | 3.00% | ~1,393 |
+| Drink 'Em Both Up | 3.00% | ~1,393 |
+| Hardboiled Writer | 3.00% | ~1,393 |
+| If It Flies, It Burns | 3.00% | ~1,393 |
+| KBF-FM | 3.00% | ~1,393 |
+| Kill Your Darlings | 3.00% | ~297 |
+| Heartbreaker | 3.00% | ~297 |
 | Boob Tube | 2.00% | ~928 |
 | Carny | 2.00% | ~928 |
 | Iron Will | 2.00% | ~198 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~46 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,412 (Ranked 75)  
+Progressed: 46,417 (Ranked 75)  
 Completed: 45 (0.10%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 45 (0.10%) (Ranked 158)
 | 2023-05-17 | 46,208 | 44 |
 | 2023-05-18 | 46,244 | 44 |
 | 2023-05-19 | 46,386 | 45 |
-| 2023-05-20 | 46,412 | 45 |
+| 2023-05-20 | 46,417 | 45 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Congratulations, you are a sadist | 51.00% | ~74 |
 | Super Seducer | 51.00% | ~74 |
-| Congratulations, you are a sadist | 50.00% | ~73 |
 | Um, ok... | 47.00% | ~69 |
 | Superstar-crossed lovers | 38.00% | ~55 |
 | A leader, you are not | 35.00% | ~51 |
+| Comedy Killer | 34.00% | ~50 |
 | This won't end well... | 34.00% | ~50 |
-| Comedy Killer | 33.00% | ~48 |
+| Good job, nerd | 30.00% | ~44 |
+| Mission Complete | 30.00% | ~44 |
 | Bromance | 29.00% | ~42 |
-| Good job, nerd | 29.00% | ~42 |
-| Mission Complete | 29.00% | ~42 |
 | Lootaphilia | 22.00% | ~32 |
 | Maybe you should give it another go | 9.00% | ~13 |
-| I used to think I was indecisive... | 6.00% | ~9 |
+| I used to think I was indecisive... | 7.00% | ~10 |
 | Mikey Lizard | 5.00% | ~7 |
 | That's my boy! | 3.00% | ~4 |
 | We tried to warn you! | 3.00% | ~4 |

@@ -8,12 +8,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 13.00% | ~1,161 |
 | A Spark | 10.00% | ~893 |
-| Burning City | 9.00% | ~803 |
-| Mythic Choices | 8.00% | ~714 |
-| Defender's Heart | 8.00% | ~714 |
+| Burning City | 9.00% | ~804 |
+| Mythic Choices | 8.00% | ~715 |
+| Defender's Heart | 8.00% | ~715 |
 | Banner over the Citadel | 7.00% | ~625 |
 | Queen's Gratitude | 6.00% | ~536 |
-| Fifth Crusade | 5.00% | ~446 |
+| Fifth Crusade | 5.00% | ~447 |
 | Embrace of the Abyss | 3.00% | ~268 |
 | Path of the Angel | 3.00% | ~268 |
 | Path of the Azata | 3.00% | ~268 |
@@ -45,7 +45,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Sarkoris Will Be Green | 1.00% | ~77 |
 | Path of the Demon | 0.90% | ~80 |
 | Abyssal Conspiracy | 0.80% | ~71 |
-| End of Eternal Guard | 0.70% | ~62 |
+| End of Eternal Guard | 0.70% | ~63 |
 | This Wall Won't Fall | 0.70% | ~54 |
 | Not the Last Sarkorian | 0.70% | ~54 |
 | The Final Threshold | 0.60% | ~54 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,927 (Ranked 109)  
+Progressed: 8,932 (Ranked 109)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-17 | 8,850 | 0 |
 | 2023-05-18 | 8,872 | 0 |
 | 2023-05-19 | 8,921 | 0 |
-| 2023-05-20 | 8,927 | 0 |
+| 2023-05-20 | 8,932 | 0 |
 ## Awards
 Max (Character Customization): 1,634  (Ranked 111)  
 Sum: 6,623 (Ranked 110)  

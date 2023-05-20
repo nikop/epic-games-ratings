@@ -4,7 +4,7 @@
   "ProductSlug": "jars-e39063",
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-10-20T16:00:00+00:00",
@@ -73,9 +73,9 @@
       "ID": "ACH_100_MINIONS_PLACED",
       "SetID": "3jfhgga",
       "Name": "I have an army!",
-      "Percentage": 68,
+      "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_ALL_ENCYCLOPEDIA_ENTRIES",
@@ -89,9 +89,9 @@
       "ID": "ACH_CHAPTER_0_DONE",
       "SetID": "3jfhgga",
       "Name": "The child of the night",
-      "Percentage": 66,
+      "Percentage": 68,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_CHAPTER_1_DONE",
@@ -145,9 +145,9 @@
       "ID": "ACH_EQUIP_PERK",
       "SetID": "3jfhgga",
       "Name": "It fits. IT FITS!",
-      "Percentage": 73,
+      "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_FIND_SECRET",
@@ -209,17 +209,17 @@
       "ID": "ACH_SHOP_FIRST_PURCHASE",
       "SetID": "3jfhgga",
       "Name": "Uncle will be happy",
-      "Percentage": 68,
+      "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_STAGE_LOST_FIRST_TIME",
       "SetID": "3jfhgga",
       "Name": "Broken jar",
-      "Percentage": 85,
+      "Percentage": 88,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     }
   ],
   "AchievementSets": [
@@ -234,8 +234,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-05-20T03:04:48.5636262+00:00",
+  "LastChanged_Achievements": "2023-05-20T04:05:44.9766237+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:38.4112631+00:00",
-  "LastUpdate_Ratings": "2023-05-20T02:57:41.1731066+00:00",
-  "LastUpdate_Achievements": "2023-05-20T03:04:48.5636399+00:00"
+  "LastUpdate_Ratings": "2023-05-20T03:58:01.1453398+00:00",
+  "LastUpdate_Achievements": "2023-05-20T04:05:44.9766455+00:00"
 }

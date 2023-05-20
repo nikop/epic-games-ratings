@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Rescue in the Jungle | 0.10% | ~88 |
 | Quick or Quack | 0.10% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,021 (Ranked 59)  
+Progressed: 88,029 (Ranked 59)  
 Completed: 1,851 (2.10%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -530,10 +530,10 @@ Completed: 1,851 (2.10%) (Ranked 62)
 | 2023-05-17 | 87,802 | 1,849 |
 | 2023-05-18 | 87,918 | 1,850 |
 | 2023-05-19 | 88,008 | 1,851 |
-| 2023-05-20 | 88,021 | 1,851 |
+| 2023-05-20 | 88,029 | 1,851 |
 ## Awards
 Max (Diverse Characters): 4,888  (Ranked 63)  
-Sum: 29,923 (Ranked 37)  
+Sum: 29,925 (Ranked 37)  
 Diff (max vs sum): 26  
 | Award | Count |
 | ----- | ----- |
@@ -543,7 +543,7 @@ Diff (max vs sum): 26
 | This game is Relaxing | 4,491 |
 | This game is Highly Recommended | 3,942 |
 | This game has Amazing Characters | 3,939 |
-| This game has Playful Visuals | 3,236 |
+| This game has Playful Visuals | 3,238 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -661,3 +661,4 @@ Diff (max vs sum): 26
 | 2023-05-17 | 4.06 | - | 4,885 | 29,907 |
 | 2023-05-18 | 4.06 | - | 4,888 | 29,918 |
 | 2023-05-19 | 4.06 | - | 4,888 | 29,923 |
+| 2023-05-20 | 4.06 | - | 4,888 | 29,925 |

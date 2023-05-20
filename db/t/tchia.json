@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -140,9 +140,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5846,
+  "EOS_Progressed": 5852,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1725,6 +1725,11 @@
       "Time": "2023-05-20T03:04:45.1055885+00:00",
       "NumProgressed": 5846,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-20T04:05:40.8834374+00:00",
+      "NumProgressed": 5852,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 21,
@@ -1736,7 +1741,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "ARRR",
@@ -1752,7 +1757,7 @@
       "Name": "Audiophile",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -1768,7 +1773,7 @@
       "Name": "\u00C7a de Wizz!",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "CLAY_PIGEON",
@@ -1784,7 +1789,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -1792,7 +1797,7 @@
       "Name": "Fashion Faux-Pas",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "FASHION_VICTIM",
@@ -1808,7 +1813,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -1832,7 +1837,7 @@
       "Name": "Iconoclast",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "IN_A_PINCH",
@@ -1840,7 +1845,7 @@
       "Name": "In a Pinch",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1112
     },
     {
       "ID": "LIBERATOR",
@@ -1864,7 +1869,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "SNIP_SNIP",
@@ -1896,14 +1901,14 @@
       "Name": "Thing",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     }
   ],
   "AchievementSets": [
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5846,
+      "Progressed": 5852,
       "Completed": 22
     }
   ],
@@ -1911,8 +1916,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-16T16:57:54.2243616+00:00",
-  "LastChanged_Achievements": "2023-05-20T03:04:45.1055882+00:00",
+  "LastChanged_Achievements": "2023-05-20T04:05:40.8834367+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.822955+00:00",
-  "LastUpdate_Ratings": "2023-05-20T02:57:35.517456+00:00",
-  "LastUpdate_Achievements": "2023-05-20T03:04:45.1056095+00:00"
+  "LastUpdate_Ratings": "2023-05-20T03:57:55.095896+00:00",
+  "LastUpdate_Achievements": "2023-05-20T04:05:40.8834788+00:00"
 }

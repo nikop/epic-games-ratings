@@ -6,57 +6,57 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Knightmare Frames | 0.10% | ~458 |
-| May His passing cleanse the world | 0.10% | ~458 |
-| In space, no one can hear you scream | 0.10% | ~458 |
-| Chapter I: Echoes | 0.10% | ~458 |
-| Chapter II: Fallible Flesh | 0.10% | ~458 |
-| Chapter III: The Man Who Sold the World | 0.10% | ~458 |
-| Chapter IV: Through the Looking Glass | 0.10% | ~458 |
-| Chapter V: Memories of None | 0.10% | ~458 |
-| A Rock in the Dark | 0.10% | ~458 |
-| Emperor of Misery | 0.10% | ~458 |
-| A Frozen Lady | 0.10% | ~458 |
-| The Shutdown | 0.10% | ~458 |
-| Kill the Doctor | 0.10% | ~458 |
-| Forsaken | 0.10% | ~458 |
-| Through the mirror | 0.10% | ~458 |
-| Mother | 0.10% | ~458 |
-| Meet your maker | 0.10% | ~458 |
-| Admiral Okonkwo | 0.10% | ~458 |
-| The Survivalists | 0.10% | ~458 |
-| Tetsuo | 0.10% | ~458 |
-| General Vivar | 0.10% | ~458 |
-| Pope Zenon | 0.10% | ~458 |
-| Things persisted in not being what they seemed | 0.10% | ~458 |
-| Second Coming | 0.10% | ~458 |
-| Back to Ganyma | 0.10% | ~458 |
-| Mercy | 0.10% | ~458 |
-| The Impersonator | 0.10% | ~458 |
-| The Kid | 0.10% | ~458 |
-| The Evangelist | 0.10% | ~458 |
-| The Inquisitor | 0.10% | ~458 |
-| The Tech Specialist | 0.10% | ~458 |
-| The Ace Pilot | 0.10% | ~458 |
-| The Tech Med | 0.10% | ~458 |
-| The Mech Soldier | 0.10% | ~458 |
-| The lucky charm | 0.10% | ~458 |
-| The Anonymous | 0.10% | ~458 |
-| The Smuggler | 0.10% | ~458 |
-| The Crazy Repairman | 0.10% | ~458 |
-| The Weasel | 0.10% | ~458 |
-| Hammer Mastery | 0.10% | ~458 |
-| Hammer Supremacy | 0.10% | ~458 |
-| Jeef Skeejj | 0.10% | ~458 |
-| Jeef Skagg | 0.10% | ~458 |
-| Plan for the worst | 0.10% | ~458 |
-| Careful planning | 0.10% | ~458 |
-| Geno Rule | 0.10% | ~458 |
-| Jericho Rule | 0.10% | ~458 |
-| Hammer Rule | 0.10% | ~458 |
-| Void Rule | 0.10% | ~458 |
-| Kaos Rule | 0.10% | ~458 |
-| Excelsior Rule | 0.10% | ~458 |
+| Knightmare Frames | 0.10% | ~459 |
+| May His passing cleanse the world | 0.10% | ~459 |
+| In space, no one can hear you scream | 0.10% | ~459 |
+| Chapter I: Echoes | 0.10% | ~459 |
+| Chapter II: Fallible Flesh | 0.10% | ~459 |
+| Chapter III: The Man Who Sold the World | 0.10% | ~459 |
+| Chapter IV: Through the Looking Glass | 0.10% | ~459 |
+| Chapter V: Memories of None | 0.10% | ~459 |
+| A Rock in the Dark | 0.10% | ~459 |
+| Emperor of Misery | 0.10% | ~459 |
+| A Frozen Lady | 0.10% | ~459 |
+| The Shutdown | 0.10% | ~459 |
+| Kill the Doctor | 0.10% | ~459 |
+| Forsaken | 0.10% | ~459 |
+| Through the mirror | 0.10% | ~459 |
+| Mother | 0.10% | ~459 |
+| Meet your maker | 0.10% | ~459 |
+| Admiral Okonkwo | 0.10% | ~459 |
+| The Survivalists | 0.10% | ~459 |
+| Tetsuo | 0.10% | ~459 |
+| General Vivar | 0.10% | ~459 |
+| Pope Zenon | 0.10% | ~459 |
+| Things persisted in not being what they seemed | 0.10% | ~459 |
+| Second Coming | 0.10% | ~459 |
+| Back to Ganyma | 0.10% | ~459 |
+| Mercy | 0.10% | ~459 |
+| The Impersonator | 0.10% | ~459 |
+| The Kid | 0.10% | ~459 |
+| The Evangelist | 0.10% | ~459 |
+| The Inquisitor | 0.10% | ~459 |
+| The Tech Specialist | 0.10% | ~459 |
+| The Ace Pilot | 0.10% | ~459 |
+| The Tech Med | 0.10% | ~459 |
+| The Mech Soldier | 0.10% | ~459 |
+| The lucky charm | 0.10% | ~459 |
+| The Anonymous | 0.10% | ~459 |
+| The Smuggler | 0.10% | ~459 |
+| The Crazy Repairman | 0.10% | ~459 |
+| The Weasel | 0.10% | ~459 |
+| Hammer Mastery | 0.10% | ~459 |
+| Hammer Supremacy | 0.10% | ~459 |
+| Jeef Skeejj | 0.10% | ~459 |
+| Jeef Skagg | 0.10% | ~459 |
+| Plan for the worst | 0.10% | ~459 |
+| Careful planning | 0.10% | ~459 |
+| Geno Rule | 0.10% | ~459 |
+| Jericho Rule | 0.10% | ~459 |
+| Hammer Rule | 0.10% | ~459 |
+| Void Rule | 0.10% | ~459 |
+| Kaos Rule | 0.10% | ~459 |
+| Excelsior Rule | 0.10% | ~459 |
 | The Blade | 0.10% | ~2 |
 | The Ghost | 0.10% | ~2 |
 | The Extractor | 0.10% | ~2 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.00% | ~0 |
 | Kronos Rule | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458,499 (Ranked 29)  
+Progressed: 458,502 (Ranked 29)  
 Completed: 14 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 14 (0.00%) (Ranked 201)
 | 2023-05-17 | 458,267 | 14 |
 | 2023-05-18 | 458,375 | 14 |
 | 2023-05-19 | 458,480 | 14 |
-| 2023-05-20 | 458,499 | 14 |
+| 2023-05-20 | 458,502 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 209 (Ranked 349)  

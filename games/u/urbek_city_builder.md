@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Small town | 60.00% | ~94 |
+| Small town | 61.00% | ~95 |
 | I like parks | 47.00% | ~73 |
 | The spiritual world... | 27.00% | ~42 |
 | Sport is good for you | 26.00% | ~41 |
 | The woodcutter | 24.00% | ~37 |
 | It is nice to share with friends in the city | 24.00% | ~37 |
-| I like books | 19.00% | ~30 |
+| I like books | 20.00% | ~31 |
 | I like my life | 19.00% | ~30 |
 | Clean energy | 18.00% | ~28 |
 | Soviet town | 16.00% | ~25 |

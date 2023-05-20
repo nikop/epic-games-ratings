@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -320,9 +320,9 @@
       "ID": "Reincarnation",
       "SetID": "82505mn",
       "Name": "Reincarnation",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 51
     },
     {
       "ID": "Roughneck",
@@ -449,8 +449,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-05-20T03:05:12.5075722+00:00",
+  "LastChanged_Achievements": "2023-05-20T04:06:13.463752+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:07.6550194+00:00",
-  "LastUpdate_Ratings": "2023-05-20T02:58:55.6658213+00:00",
-  "LastUpdate_Achievements": "2023-05-20T03:05:12.5076059+00:00"
+  "LastUpdate_Ratings": "2023-05-20T03:59:39.0228259+00:00",
+  "LastUpdate_Achievements": "2023-05-20T04:06:13.4638265+00:00"
 }

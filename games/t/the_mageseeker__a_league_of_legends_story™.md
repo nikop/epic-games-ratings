@@ -8,8 +8,8 @@ Rating: 4.76 (Ranked 116)
 | For Demacia | 95.00% | ~1,947 |
 | No more cages! | 92.00% | ~1,885 |
 | Everfrost | 77.00% | ~1,578 |
+| Dark Forest | 77.00% | ~1,578 |
 | Pentakill | 76.00% | ~1,557 |
-| Dark Forest | 76.00% | ~1,557 |
 | The use of petricite | 73.00% | ~1,496 |
 | You can pet the dog | 60.00% | ~1,229 |
 | Big Helmet Bro | 34.00% | ~697 |
@@ -45,7 +45,7 @@ Rating: 4.76 (Ranked 116)
 | Cloven Dell Headquarters | 12.00% | ~246 |
 | Whispers in the Woods IV | 11.00% | ~225 |
 | Embrace the darkness | 10.00% | ~205 |
-| I smell fear | 9.00% | ~184 |
+| I smell fear | 10.00% | ~205 |
 | The end of the experiments | 9.00% | ~184 |
 | The Great City of Demacia | 9.00% | ~184 |
 | Call it 'redistribution of magic | 9.00% | ~184 |

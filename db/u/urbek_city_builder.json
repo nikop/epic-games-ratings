@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -340,9 +340,9 @@
       "ID": "CULTURE_1",
       "SetID": "44dlcg0",
       "Name": "I like books",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "CULTURE_2",
@@ -628,9 +628,9 @@
       "ID": "POPULATION_1",
       "SetID": "44dlcg0",
       "Name": "Small town",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "POPULATION_2",
@@ -837,8 +837,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-05-20T03:05:07.0986815+00:00",
+  "LastChanged_Achievements": "2023-05-20T04:06:06.8041428+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:08.225759+00:00",
-  "LastUpdate_Ratings": "2023-05-20T02:58:20.1142658+00:00",
-  "LastUpdate_Achievements": "2023-05-20T03:05:07.0987621+00:00"
+  "LastUpdate_Ratings": "2023-05-20T03:58:52.1314706+00:00",
+  "LastUpdate_Achievements": "2023-05-20T04:06:06.8042383+00:00"
 }

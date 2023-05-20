@@ -4,29 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tastes just like chicken! | 86.00% | ~6 |
-| MLG 360 no scope kill! | 57.00% | ~4 |
-| I like you...but I have to kill you... | 57.00% | ~4 |
-| Are you ready to rumble? | 57.00% | ~4 |
-| That's what cheese said! | 43.00% | ~3 |
-| Not so hip anymore! | 43.00% | ~3 |
-| Nerd | 43.00% | ~3 |
-| Blurry depth perception | 43.00% | ~3 |
-| AHHHHHH.....I'M ON FIRE!!! | 29.00% | ~2 |
-| Up and down | 29.00% | ~2 |
-| Spoiler alert! | 14.00% | ~1 |
-| Rolling, Rolling, Rolling | 14.00% | ~1 |
-| Surprise!! | 14.00% | ~1 |
-| Haemochromatosis | 14.00% | ~1 |
-| Cockadoodledoo! | 14.00% | ~1 |
+| Tastes just like chicken! | 88.00% | ~7 |
+| MLG 360 no scope kill! | 63.00% | ~5 |
+| Are you ready to rumble? | 63.00% | ~5 |
+| I like you...but I have to kill you... | 50.00% | ~4 |
+| Nerd | 50.00% | ~4 |
+| That's what cheese said! | 38.00% | ~3 |
+| Up and down | 38.00% | ~3 |
+| Not so hip anymore! | 38.00% | ~3 |
+| Blurry depth perception | 38.00% | ~3 |
+| Oh, you're up to no gouda! | 25.00% | ~2 |
+| Rolling, Rolling, Rolling | 25.00% | ~2 |
+| AHHHHHH.....I'M ON FIRE!!! | 25.00% | ~2 |
+| Fire-fighter! | 25.00% | ~2 |
+| Make Love not War-Craft a Mistlefoe | 25.00% | ~2 |
+| Cockadoodledoo! | 25.00% | ~2 |
+| Spoiler alert! | 13.00% | ~1 |
+| Honk honk! | 13.00% | ~1 |
+| A Megapint...? | 13.00% | ~1 |
+| Butcher | 13.00% | ~1 |
+| Mushroom soup of the day | 13.00% | ~1 |
+| Ripe Meat Off The Bone! | 13.00% | ~1 |
+| Surprise!! | 13.00% | ~1 |
+| My pants squeak when I walk | 13.00% | ~1 |
+| Haemochromatosis | 13.00% | ~1 |
+| Meat grinder | 13.00% | ~1 |
+| Spare Ribs | 13.00% | ~1 |
+| Pasta Bolognese | 13.00% | ~1 |
 | You're not so Big anymore, Boi! | 0.00% | ~0 |
 | You are no match for me, Billy! | 0.00% | ~0 |
 | Meatballs, coming up! | 0.00% | ~0 |
-| Oh, you're up to no gouda! | 0.00% | ~0 |
 | Make America Grate Again | 0.00% | ~0 |
 | You're looking mozzare-hella good! | 0.00% | ~0 |
 | Fifty Shades of Gruyere | 0.00% | ~0 |
-| Honk honk! | 0.00% | ~0 |
 | Ancient Ruins of Moist Overhangs | 0.00% | ~0 |
 | Ancient Ruins of Empty Echoes | 0.00% | ~0 |
 | Ancient Ruins of Misplaced Belongings | 0.00% | ~0 |
@@ -45,16 +55,12 @@
 | Catch the bus with me! | 0.00% | ~0 |
 | I'm going to get a concussion | 0.00% | ~0 |
 | I want to throw up! | 0.00% | ~0 |
-| A Megapint...? | 0.00% | ~0 |
 | I drink, but I'm not a drunk! | 0.00% | ~0 |
 | Okay... Maybe I'm a bit drunk... | 0.00% | ~0 |
-| Butcher | 0.00% | ~0 |
 | Master Butcher | 0.00% | ~0 |
 | My name is Whoopass, SIR Whoopass! | 0.00% | ~0 |
 | Timber! | 0.00% | ~0 |
-| Fire-fighter! | 0.00% | ~0 |
 | Just wing it! | 0.00% | ~0 |
-| Mushroom soup of the day | 0.00% | ~0 |
 | Deal with it | 0.00% | ~0 |
 | Consider it dealt with | 0.00% | ~0 |
 | Your daily dose of Vitamin C. | 0.00% | ~0 |
@@ -64,11 +70,9 @@
 | No...No...No...that was not meant for you...yet! | 0.00% | ~0 |
 | Grumpy Immortal | 0.00% | ~0 |
 | Self assessed tax return | 0.00% | ~0 |
-| Ripe Meat Off The Bone! | 0.00% | ~0 |
 | Scrambled Eggs | 0.00% | ~0 |
 | Karaoke king | 0.00% | ~0 |
 | European karaoke king | 0.00% | ~0 |
-| My pants squeak when I walk | 0.00% | ~0 |
 | I cant stand still! | 0.00% | ~0 |
 | You can't stop me, bro! | 0.00% | ~0 |
 | I've got the power | 0.00% | ~0 |
@@ -79,19 +83,15 @@
 | Hovering around | 0.00% | ~0 |
 | Kleptomaniac | 0.00% | ~0 |
 | Free Of Chains | 0.00% | ~0 |
-| Make Love not War-Craft a Mistlefoe | 0.00% | ~0 |
 | Thats disgusting! | 0.00% | ~0 |
 | Out of bounds | 0.00% | ~0 |
-| Meat grinder | 0.00% | ~0 |
-| Spare Ribs | 0.00% | ~0 |
-| Pasta Bolognese | 0.00% | ~0 |
 | Slimy... yet satisfying | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7 (Ranked 337)  
+Progressed: 8 (Ranked 333)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-06 | 1 | 0 |
 | 2023-05-07 | 4 | 0 |
-| 2023-05-20 | 7 | 0 |
+| 2023-05-20 | 8 | 0 |

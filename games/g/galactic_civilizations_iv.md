@@ -7,20 +7,20 @@ Number of Ratings: 429  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Colonize a Planet | 79.00% | ~4,516 |
-| Worker Specialization | 78.00% | ~4,458 |
+| Worker Specialization | 78.00% | ~4,459 |
 | First Contact | 73.00% | ~4,173 |
 | Win a Battle | 67.00% | ~3,830 |
-| Anomaly Researcher | 63.00% | ~3,601 |
-| Unleash My Power | 62.00% | ~3,544 |
-| Own 30 Planets | 34.00% | ~1,943 |
-| Xenocide | 33.00% | ~1,886 |
+| Anomaly Researcher | 63.00% | ~3,602 |
+| Unleash My Power | 62.00% | ~3,545 |
+| Own 30 Planets | 34.00% | ~1,944 |
+| Xenocide | 33.00% | ~1,887 |
 | Commodity Trader | 32.00% | ~1,829 |
 | Design a Civilization | 31.00% | ~1,772 |
-| Design a Ship | 28.00% | ~1,600 |
+| Design a Ship | 28.00% | ~1,601 |
 | Commodity Seller | 26.00% | ~1,486 |
 | Prestige Victory! | 14.00% | ~800 |
 | Galactic War | 11.00% | ~629 |
-| Trading Partner | 9.00% | ~514 |
+| Trading Partner | 9.00% | ~515 |
 | Fleet Victory | 8.00% | ~457 |
 | Win as Terrans | 7.00% | ~400 |
 | Gain an Ally | 6.00% | ~343 |
@@ -28,8 +28,8 @@ Number of Ratings: 429  (23.09.2022)
 | War with the Unknown | 5.00% | ~286 |
 | Conquest Victory! | 4.00% | ~229 |
 | Win Quickly | 4.00% | ~229 |
-| Pirate Cleansing | 3.00% | ~171 |
-| Win an Immense Game | 3.00% | ~171 |
+| Pirate Cleansing | 3.00% | ~172 |
+| Win an Immense Game | 3.00% | ~172 |
 | Artifact Mastery | 2.00% | ~114 |
 | Win as Altarians | 2.00% | ~114 |
 | Win as the Yor | 2.00% | ~114 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,716 (Ranked 118)  
+Progressed: 5,717 (Ranked 118)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-17 | 5,685 | 0 |
 | 2023-05-18 | 5,703 | 0 |
 | 2023-05-19 | 5,714 | 0 |
-| 2023-05-20 | 5,716 | 0 |
+| 2023-05-20 | 5,717 | 0 |
 ## Awards
 Max (Diverse Characters): 91  (Ranked 335)  
 Sum: 658 (Ranked 268)  
