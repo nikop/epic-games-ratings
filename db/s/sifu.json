@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 77,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 65,
-  "Ranking_EOS_NewPlayers": 51,
+  "Ranking_EOS_NewPlayers": 50,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4128,9 +4128,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 703890,
+  "EOS_Progressed": 703921,
   "EOS_Completed": 12732,
-  "EOS_NewPlayers": 1015,
+  "EOS_NewPlayers": 1044,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -6478,6 +6478,11 @@
       "Time": "2023-05-20T13:08:33.0504324+00:00",
       "NumProgressed": 703890,
       "NumCompleted": 12732
+    },
+    {
+      "Time": "2023-05-20T14:05:14.1763691+00:00",
+      "NumProgressed": 703921,
+      "NumCompleted": 12732
     }
   ],
   "TotalAchievements": 50,
@@ -6577,7 +6582,7 @@
       "Name": "Scareless",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4223
+      "UsersEstimate": 4224
     },
     {
       "ID": "13_LowAge",
@@ -6641,7 +6646,7 @@
       "Name": "Stuntmaster",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4223
+      "UsersEstimate": 4224
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -6649,7 +6654,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3519
+      "UsersEstimate": 3520
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -6681,7 +6686,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3519
+      "UsersEstimate": 3520
     },
     {
       "ID": "26_ShrineSpirit",
@@ -6737,7 +6742,7 @@
       "Name": "Old Child",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4223
+      "UsersEstimate": 4224
     },
     {
       "ID": "33_BladeOneShot",
@@ -6761,7 +6766,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4223
+      "UsersEstimate": 4224
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -6825,7 +6830,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -6833,7 +6838,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -6888,21 +6893,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 13191,
+      "Progressed": 13222,
       "Completed": 10130
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 703890,
+      "Progressed": 703921,
       "Completed": 12732
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-20T10:59:18.5405897+00:00",
-  "LastChanged_Achievements": "2023-05-20T13:08:33.0504319+00:00",
+  "LastChanged_Achievements": "2023-05-20T14:05:14.1763681+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.7579865+00:00",
-  "LastUpdate_Ratings": "2023-05-20T13:01:42.0502404+00:00",
-  "LastUpdate_Achievements": "2023-05-20T13:08:33.0504757+00:00"
+  "LastUpdate_Ratings": "2023-05-20T13:58:37.332954+00:00",
+  "LastUpdate_Achievements": "2023-05-20T14:05:14.1764272+00:00"
 }

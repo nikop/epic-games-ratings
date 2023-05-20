@@ -13,16 +13,16 @@ Rating: 4.41 (Ranked 657)
 | The Kraken Wakes | 0.90% | ~8 |
 | Opposing Force | 0.80% | ~7 |
 | Organ Grinder | 0.80% | ~7 |
+| As Quiet as a Mouse | 0.80% | ~7 |
+| Change the Channel | 0.80% | ~7 |
 | Taking it back | 0.80% | ~7 |
+| The Long Game | 0.70% | ~6 |
+| Precision Is Key | 0.70% | ~6 |
 | Explosive Efficiency | 0.70% | ~6 |
-| As Quiet as a Mouse | 0.70% | ~6 |
+| Close Quarters | 0.70% | ~6 |
 | It's Starting to Crack | 0.70% | ~6 |
-| Change the Channel | 0.70% | ~6 |
+| Target America | 0.70% | ~6 |
 | Gunslinger | 0.50% | ~5 |
-| The Long Game | 0.50% | ~5 |
-| Precision Is Key | 0.50% | ~5 |
-| Close Quarters | 0.50% | ~5 |
-| Target America | 0.50% | ~5 |
 | The Kraken Sleeps | 0.50% | ~5 |
 | Just a Flesh Wound | 0.40% | ~4 |
 | Strategist | 0.40% | ~4 |
@@ -33,10 +33,10 @@ Rating: 4.41 (Ranked 657)
 | Sharpshooter | 0.30% | ~3 |
 | Die Nussknacker Sweet! | 0.30% | ~3 |
 | Der Geist | 0.30% | ~3 |
+| It'll Buff Right Out | 0.30% | ~3 |
 | Don't hold your breath | 0.30% | ~3 |
 | Sink or Swim | 0.30% | ~2 |
 | No Stone Unturned | 0.20% | ~2 |
-| It'll Buff Right Out | 0.20% | ~2 |
 | Brains of the Operation | 0.20% | ~2 |
 | Last Resort | 0.20% | ~2 |
 | Fields of Glory | 0.10% | ~1 |
@@ -44,6 +44,7 @@ Rating: 4.41 (Ranked 657)
 | My Little Friend | 0.10% | ~1 |
 | From Paris with Love | 0.10% | ~1 |
 | Burn after reading | 0.10% | ~1 |
+| Tinkerer | 0.10% | ~1 |
 | Locomotion Commotion | 0.10% | ~1 |
 | Up close and personal | 0.10% | ~1 |
 | Shoot for the Moon | 0.10% | ~1 |
@@ -65,7 +66,6 @@ Rating: 4.41 (Ranked 657)
 | Out of Scope | 0.00% | ~0 |
 | Souvenir hunter | 0.00% | ~0 |
 | Eagle Eyed | 0.00% | ~0 |
-| Tinkerer | 0.00% | ~0 |
 | Road Rage | 0.00% | ~0 |
 | Sight Beyond Sights | 0.00% | ~0 |
 | Can't Outrun A Bullet | 0.00% | ~0 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 657)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 910 (Ranked 168)  
+Progressed: 918 (Ranked 168)  
 Completed: 2 (0.22%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 2 (0.22%) (Ranked 136)
 | 2023-05-17 | 728 | 2 |
 | 2023-05-18 | 743 | 2 |
 | 2023-05-19 | 833 | 2 |
-| 2023-05-20 | 910 | 2 |
+| 2023-05-20 | 918 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

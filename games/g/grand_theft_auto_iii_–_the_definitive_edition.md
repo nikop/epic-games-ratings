@@ -5,37 +5,37 @@ Rating: 4.13 (Ranked 853)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~4,198 |
-| Disposing of the Evidence | 36.00% | ~1,821 |
-| Without a Scratch | 32.00% | ~1,619 |
-| Wreckless Driving | 27.00% | ~1,366 |
-| A Marked Man | 24.00% | ~1,214 |
-| Street Sweeper | 17.00% | ~860 |
-| Liberty City Minute | 16.00% | ~809 |
-| Offshore Delivery | 12.00% | ~607 |
-| Dirty Money | 11.00% | ~556 |
-| By a Mile | 9.00% | ~455 |
-| Right-hand Man | 9.00% | ~455 |
+| First Day on the Job | 83.00% | ~4,203 |
+| Disposing of the Evidence | 36.00% | ~1,823 |
+| Without a Scratch | 32.00% | ~1,620 |
+| Wreckless Driving | 27.00% | ~1,367 |
+| A Marked Man | 24.00% | ~1,215 |
+| Street Sweeper | 17.00% | ~861 |
+| Liberty City Minute | 16.00% | ~810 |
+| Offshore Delivery | 12.00% | ~608 |
+| Dirty Money | 11.00% | ~557 |
+| By a Mile | 9.00% | ~456 |
+| Right-hand Man | 9.00% | ~456 |
 | Not So Fast | 8.00% | ~405 |
-| A Gift from the King | 6.00% | ~303 |
-| Full Artillery | 4.00% | ~202 |
+| A Gift from the King | 6.00% | ~304 |
+| Full Artillery | 4.00% | ~203 |
 | Mob Boss | 2.00% | ~101 |
 | Splish Splash | 2.00% | ~101 |
 | Liberty City Secrets | 2.00% | ~101 |
 | Escape Artist | 1.00% | ~51 |
+| Got This Figured Out | 1.00% | ~51 |
 | Come Out to Play-y-y-y | 1.00% | ~51 |
 | Where To? | 1.00% | ~51 |
 | Playing Doctor | 1.00% | ~51 |
-| Got This Figured Out | 0.90% | ~46 |
-| Wheels Up | 0.90% | ~46 |
 | Man Toyz | 0.90% | ~46 |
-| Planned Ahead | 0.80% | ~40 |
-| Going Rogue | 0.80% | ~40 |
-| Furious First Responder | 0.80% | ~40 |
+| Planned Ahead | 0.80% | ~41 |
+| Wheels Up | 0.80% | ~41 |
+| Going Rogue | 0.80% | ~41 |
+| Furious First Responder | 0.80% | ~41 |
 | Is That All You've Got? | 0.70% | ~35 |
 | King of Liberty City | 0.50% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,058 (Ranked 123)  
+Progressed: 5,064 (Ranked 122)  
 Completed: 26 (0.51%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,7 +65,7 @@ Completed: 26 (0.51%) (Ranked 105)
 | 2023-05-17 | 4,923 | 26 |
 | 2023-05-18 | 4,945 | 26 |
 | 2023-05-19 | 5,012 | 26 |
-| 2023-05-20 | 5,058 | 26 |
+| 2023-05-20 | 5,064 | 26 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

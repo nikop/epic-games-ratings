@@ -20,6 +20,7 @@ Rating: 4.18 (Ranked 829)
 | Lifer | 0.40% | ~4 |
 | Parole Denied | 0.40% | ~4 |
 | Get a Grip | 0.30% | ~39 |
+| In Striking Distance | 0.20% | ~26 |
 | It's over, Jacob! | 0.10% | ~13 |
 | Armed to the Teeth | 0.10% | ~1 |
 | You Need a Gun | 0.10% | ~13 |
@@ -28,7 +29,6 @@ Rating: 4.18 (Ranked 829)
 | You Belong Here | 0.10% | ~1 |
 | I Do Belong Here | 0.10% | ~13 |
 | The Protocol is About Life | 0.10% | ~13 |
-| In Striking Distance | 0.10% | ~13 |
 | Two Heads Are Better Than One | 0.10% | ~13 |
 | Terminated | 0.10% | ~13 |
 | Workplace Hazard | 0.10% | ~13 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 829)
 | I am the Danger | 0.00% | ~0 |
 | Subject Alpha | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,956 (Ranked 101)  
+Progressed: 12,968 (Ranked 101)  
 Completed: 51 (0.39%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 51 (0.39%) (Ranked 113)
 | 2023-05-17 | 12,567 | 49 |
 | 2023-05-18 | 12,620 | 51 |
 | 2023-05-19 | 12,841 | 51 |
-| 2023-05-20 | 12,956 | 51 |
+| 2023-05-20 | 12,968 | 51 |
 ## Awards
 Max (Amazing Storytelling): 46  (Ranked 397)  
 Sum: 246 (Ranked 341)  

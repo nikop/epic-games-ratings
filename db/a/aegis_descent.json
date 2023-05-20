@@ -4,7 +4,7 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 354,
+  "EOS_Progressed": 355,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -71,6 +71,11 @@
     {
       "Time": "2023-05-20T10:04:57.1212838+00:00",
       "NumProgressed": 354,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-20T14:04:58.5075187+00:00",
+      "NumProgressed": 355,
       "NumCompleted": 1
     }
   ],
@@ -123,7 +128,7 @@
       "Name": "Clean Sweep",
       "Percentage": 95,
       "XP": 20,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -155,7 +160,7 @@
       "Name": "DocKing",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "Award_EarlyBird",
@@ -233,9 +238,9 @@
       "ID": "Award_HullKing",
       "SetID": "9ojec6n",
       "Name": "Hull King",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 92
     },
     {
       "ID": "Award_IntelKing",
@@ -259,7 +264,7 @@
       "Name": "Line of Duty",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "Award_MilitaryIntelligence",
@@ -291,7 +296,7 @@
       "Name": "Perfect Timing",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Award_PerkKing",
@@ -305,9 +310,9 @@
       "ID": "Award_Perky",
       "SetID": "9ojec6n",
       "Name": "Perky",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 53
     },
     {
       "ID": "Award_PowerUp",
@@ -347,7 +352,7 @@
       "Name": "Sixty Seconds",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Award_SoldierLockOn",
@@ -379,7 +384,7 @@
       "Name": "Shocking",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Award_SwissCheese",
@@ -434,7 +439,7 @@
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 354,
+      "Progressed": 355,
       "Completed": 1
     }
   ],
@@ -442,8 +447,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-05-20T13:08:15.9534069+00:00",
+  "LastChanged_Achievements": "2023-05-20T14:04:58.5075181+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:49.6437871+00:00",
-  "LastUpdate_Ratings": "2023-05-20T13:00:50.6217901+00:00",
-  "LastUpdate_Achievements": "2023-05-20T13:08:15.9534358+00:00"
+  "LastUpdate_Ratings": "2023-05-20T13:58:00.9311083+00:00",
+  "LastUpdate_Achievements": "2023-05-20T14:04:58.5075583+00:00"
 }

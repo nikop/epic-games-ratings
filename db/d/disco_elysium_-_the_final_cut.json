@@ -1079,9 +1079,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 118619,
+  "EOS_Progressed": 118622,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3489,6 +3489,11 @@
       "Time": "2023-05-20T13:08:28.6911322+00:00",
       "NumProgressed": 118619,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-20T14:05:10.3923666+00:00",
+      "NumProgressed": 118622,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -3532,7 +3537,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 21351
+      "UsersEstimate": 21352
     },
     {
       "ID": "ACH_COP_BAD",
@@ -3580,7 +3585,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 33213
+      "UsersEstimate": 33214
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -3604,7 +3609,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 18979
+      "UsersEstimate": 18980
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -3628,7 +3633,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15420
+      "UsersEstimate": 15421
     },
     {
       "ID": "ACH_COP_STAR",
@@ -3780,7 +3785,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15420
+      "UsersEstimate": 15421
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -3819,15 +3824,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 118619,
+      "Progressed": 118622,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-05-19T22:59:29.6177829+00:00",
-  "LastChanged_Achievements": "2023-05-20T13:08:28.6911318+00:00",
+  "LastChanged_Achievements": "2023-05-20T14:05:10.3923663+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:22.6216682+00:00",
-  "LastUpdate_Ratings": "2023-05-20T13:01:47.4284168+00:00",
-  "LastUpdate_Achievements": "2023-05-20T13:08:28.6911677+00:00"
+  "LastUpdate_Ratings": "2023-05-20T13:58:41.7163459+00:00",
+  "LastUpdate_Achievements": "2023-05-20T14:05:10.3924067+00:00"
 }

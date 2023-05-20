@@ -8,7 +8,7 @@ Rating: 4.25 (Ranked 783)
 | MASTER CHEF | 84.00% | ~234 |
 | FIRST BLOOD | 79.00% | ~220 |
 | KEVIN! | 69.00% | ~193 |
-| JACK OF ALL TRADES | 65.00% | ~181 |
+| JACK OF ALL TRADES | 66.00% | ~184 |
 | CRIMINAL | 59.00% | ~165 |
 | GRANDMA WOULD BE PROUD | 49.00% | ~137 |
 | WITHOUT BREAKING A SWEAT | 44.00% | ~123 |
@@ -17,8 +17,8 @@ Rating: 4.25 (Ranked 783)
 | RAMBO | 24.00% | ~67 |
 | INDIVIDUAL APPROACH | 23.00% | ~64 |
 | MARTYR | 23.00% | ~64 |
+| CELEBRITY | 22.00% | ~61 |
 | HELL'S KITCHEN | 22.00% | ~61 |
-| CELEBRITY | 21.00% | ~59 |
 | GRATITUDE | 20.00% | ~56 |
 | LAW-ABIDING CITIZEN | 14.00% | ~39 |
 | PRUDENT | 12.00% | ~33 |

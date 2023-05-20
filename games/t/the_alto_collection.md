@@ -6,27 +6,27 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 27.00% | ~5,942 |
-| Rookie | 24.00% | ~5,282 |
-| Nomad | 19.00% | ~4,182 |
-| Picking Up Speed | 17.00% | ~3,742 |
-| Welcome Maya | 16.00% | ~3,521 |
-| Sightseer | 12.00% | ~2,641 |
-| Scout | 10.00% | ~2,201 |
-| Amateur | 9.00% | ~1,981 |
-| Enter Paz | 9.00% | ~1,981 |
-| Wanderer | 9.00% | ~1,981 |
+| Finding Your Footing | 27.00% | ~5,945 |
+| Rookie | 24.00% | ~5,285 |
+| Nomad | 19.00% | ~4,184 |
+| Picking Up Speed | 17.00% | ~3,743 |
+| Welcome Maya | 16.00% | ~3,523 |
+| Sightseer | 12.00% | ~2,642 |
+| Scout | 10.00% | ~2,202 |
+| Amateur | 9.00% | ~1,982 |
+| Enter Paz | 9.00% | ~1,982 |
+| Wanderer | 9.00% | ~1,982 |
 | Unlock Maya | 7.00% | ~1,541 |
 | Aviator | 6.00% | ~1,321 |
 | One With The Board | 6.00% | ~1,321 |
 | Voyager | 6.00% | ~1,321 |
-| My Little Friend | 5.00% | ~1,100 |
-| Sandboarder | 4.00% | ~880 |
-| Izel Has Arrived | 4.00% | ~880 |
-| Junkie | 3.00% | ~660 |
-| Traveler | 3.00% | ~660 |
-| Journeyer | 3.00% | ~660 |
-| Here Comes Felipe | 3.00% | ~660 |
+| My Little Friend | 5.00% | ~1,101 |
+| Sandboarder | 4.00% | ~881 |
+| Izel Has Arrived | 4.00% | ~881 |
+| Junkie | 3.00% | ~661 |
+| Traveler | 3.00% | ~661 |
+| Journeyer | 3.00% | ~661 |
+| Here Comes Felipe | 3.00% | ~661 |
 | Pro | 2.00% | ~440 |
 | Unlock Paz | 2.00% | ~440 |
 | Human Flight | 2.00% | ~440 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~22 |
 | Windswept | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,009 (Ranked 90)  
+Progressed: 22,019 (Ranked 90)  
 Completed: 3 (0.01%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 3 (0.01%) (Ranked 193)
 | 2023-05-17 | 21,574 | 3 |
 | 2023-05-18 | 21,730 | 3 |
 | 2023-05-19 | 21,920 | 3 |
-| 2023-05-20 | 22,009 | 3 |
+| 2023-05-20 | 22,019 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 44  (Ranked 404)  
 Sum: 344 (Ranked 315)  

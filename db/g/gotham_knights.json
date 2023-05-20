@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1080,18 +1080,24 @@
       "Rating": 4.17,
       "NumberOfAwards": 3684,
       "NumberOfAwardsMax": 2222
+    },
+    {
+      "Time": "2023-05-20T13:59:13.9457949+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 3689,
+      "NumberOfAwardsMax": 2227
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3684,
-  "NumberOfAwardsMax": 2222,
+  "NumberOfAwards": 3689,
+  "NumberOfAwardsMax": 2227,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2222
+      "Count": 2227
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1148,9 +1154,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61317,
+  "EOS_Progressed": 61323,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 485,
+  "EOS_NewPlayers": 489,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3063,6 +3069,11 @@
       "Time": "2023-05-20T13:08:45.2775783+00:00",
       "NumProgressed": 61317,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-20T14:05:25.1030612+00:00",
+      "NumProgressed": 61323,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3528,9 +3539,9 @@
       "ID": "SECRET_CACHE",
       "SetID": "4eo5ebm",
       "Name": "Gotham City Confidential",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 184
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -3561,22 +3572,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61317,
+      "Progressed": 61323,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31597,
+      "Progressed": 31603,
       "Completed": 2640
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-05-19T11:00:31.9062538+00:00",
-  "LastChanged_Achievements": "2023-05-20T13:08:45.2775778+00:00",
+  "LastChanged": "2023-05-20T13:59:13.9457948+00:00",
+  "LastChanged_Achievements": "2023-05-20T14:05:25.1030606+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-20T13:02:34.2467894+00:00",
-  "LastUpdate_Achievements": "2023-05-20T13:08:45.2776338+00:00"
+  "LastUpdate_Ratings": "2023-05-20T13:59:13.9457953+00:00",
+  "LastUpdate_Achievements": "2023-05-20T14:05:25.1031305+00:00"
 }

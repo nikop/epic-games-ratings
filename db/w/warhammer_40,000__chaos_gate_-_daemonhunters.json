@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -516,9 +516,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2607,
+  "EOS_Progressed": 2609,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -841,6 +841,11 @@
       "Time": "2023-05-20T10:05:12.3053382+00:00",
       "NumProgressed": 2607,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T14:05:14.6084871+00:00",
+      "NumProgressed": 2609,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -868,7 +873,7 @@
       "Name": "Look Over There!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "BloodAndIron",
@@ -1012,7 +1017,7 @@
       "Name": "Hold Your Ground",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "Kills_Auto",
@@ -1044,7 +1049,7 @@
       "Name": "Executioner",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "Kills_Exterminator",
@@ -1068,7 +1073,7 @@
       "Name": "Opportunist",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "Kills_Knockback",
@@ -1084,7 +1089,7 @@
       "Name": "Purging Spree",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "Kills_Vakir",
@@ -1180,7 +1185,7 @@
       "Name": "Efficient Killer",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "MissionVictory_NoDamage",
@@ -1212,7 +1217,7 @@
       "Name": "Just a Scratch",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "NexusCompleted",
@@ -1323,21 +1328,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2607,
+      "Progressed": 2609,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2607,
+      "Progressed": 2609,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-17T16:59:29.0694874+00:00",
-  "LastChanged_Achievements": "2023-05-20T13:08:33.4546182+00:00",
+  "LastChanged_Achievements": "2023-05-20T14:05:14.6084865+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:13.6314729+00:00",
-  "LastUpdate_Ratings": "2023-05-20T13:01:17.280841+00:00",
-  "LastUpdate_Achievements": "2023-05-20T13:08:33.4546605+00:00"
+  "LastUpdate_Ratings": "2023-05-20T13:58:19.1764825+00:00",
+  "LastUpdate_Achievements": "2023-05-20T14:05:14.6085449+00:00"
 }

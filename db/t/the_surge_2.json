@@ -619,9 +619,9 @@
       "ID": "ACHV_26",
       "SetID": "8p5mlmc",
       "Name": "Rigged And Ready",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1272
     },
     {
       "ID": "ACHV_27",
@@ -884,8 +884,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-05-20T13:08:46.8646757+00:00",
+  "LastChanged_Achievements": "2023-05-20T14:05:26.4577579+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:42.7008662+00:00",
-  "LastUpdate_Ratings": "2023-05-20T13:03:22.7657149+00:00",
-  "LastUpdate_Achievements": "2023-05-20T13:08:46.8647187+00:00"
+  "LastUpdate_Ratings": "2023-05-20T13:59:52.2945963+00:00",
+  "LastUpdate_Achievements": "2023-05-20T14:05:26.4578054+00:00"
 }

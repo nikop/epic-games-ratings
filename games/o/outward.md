@@ -6,35 +6,35 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 74.00% | ~1,800 |
-| Ready for Winter | 64.00% | ~1,557 |
-| Ready for Summer | 51.00% | ~1,241 |
-| Cordon Bleu | 43.00% | ~1,046 |
-| Tapped! | 36.00% | ~876 |
-| Eureka | 31.00% | ~754 |
-| Scourge Slayer | 26.00% | ~633 |
-| Science, Troglodyte! | 23.00% | ~560 |
-| Exceptional Skill | 22.00% | ~535 |
-| Home Sweet Home | 22.00% | ~535 |
-| Encyclopedic! | 20.00% | ~487 |
-| A Fortress Toppled! | 16.00% | ~389 |
-| Apex Predator | 16.00% | ~389 |
-| The Power of Family | 16.00% | ~389 |
-| Strange amalgams | 12.00% | ~292 |
-| The Power of Faith | 12.00% | ~292 |
+| Venture Outward | 74.00% | ~1,804 |
+| Ready for Winter | 64.00% | ~1,560 |
+| Ready for Summer | 51.00% | ~1,243 |
+| Cordon Bleu | 43.00% | ~1,048 |
+| Tapped! | 36.00% | ~878 |
+| Eureka | 31.00% | ~756 |
+| Scourge Slayer | 26.00% | ~634 |
+| Science, Troglodyte! | 23.00% | ~561 |
+| Exceptional Skill | 22.00% | ~536 |
+| Home Sweet Home | 22.00% | ~536 |
+| Encyclopedic! | 20.00% | ~488 |
+| A Fortress Toppled! | 16.00% | ~390 |
+| Apex Predator | 16.00% | ~390 |
+| The Power of Family | 16.00% | ~390 |
+| Strange amalgams | 12.00% | ~293 |
+| The Power of Faith | 12.00% | ~293 |
 | The Power of Freedom | 9.00% | ~219 |
 | Ace Detective | 8.00% | ~195 |
 | Gift from the Ancestors | 8.00% | ~195 |
 | Magic is a science | 8.00% | ~195 |
-| House of Cards | 7.00% | ~170 |
-| Let ‘em eat magma! | 7.00% | ~170 |
-| The power of ambition | 7.00% | ~170 |
-| The stuff of legends. | 7.00% | ~170 |
+| House of Cards | 7.00% | ~171 |
+| Let ‘em eat magma! | 7.00% | ~171 |
+| The power of ambition | 7.00% | ~171 |
+| The stuff of legends. | 7.00% | ~171 |
 | Blood and justice | 6.00% | ~146 |
 | Hold my Mead and Watch This | 6.00% | ~146 |
 | Ancestor's Pride | 5.00% | ~122 |
-| For All Aurai | 4.00% | ~97 |
-| Memory of a legend | 4.00% | ~97 |
+| For All Aurai | 4.00% | ~98 |
+| Memory of a legend | 4.00% | ~98 |
 | Light of Levant | 3.00% | ~73 |
 | This was a mistake... | 3.00% | ~73 |
 | Crowd Pleaser. | 2.00% | ~49 |
@@ -44,12 +44,12 @@ Number of Ratings: 266  (23.09.2022)
 | The blood is life | 1.00% | ~24 |
 | They'll Tell Stories About This | 1.00% | ~24 |
 | Vanquisher of nightmares | 1.00% | ~24 |
-| Through fire and flame. | 0.80% | ~19 |
+| Through fire and flame. | 0.80% | ~20 |
 | Legacy of a master hunter | 0.40% | ~10 |
 | Master of Aurai | 0.40% | ~10 |
 | The Absolute Pinnacle. | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,433 (Ranked 140)  
+Progressed: 2,438 (Ranked 140)  
 Completed: 1 (0.04%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 1 (0.04%) (Ranked 178)
 | 2023-05-17 | 2,382 | 1 |
 | 2023-05-18 | 2,397 | 1 |
 | 2023-05-19 | 2,424 | 1 |
-| 2023-05-20 | 2,433 | 1 |
+| 2023-05-20 | 2,438 | 1 |
 ## Awards
 Max (Amazing Characters): 31  (Ranked 440)  
 Sum: 238 (Ranked 342)  

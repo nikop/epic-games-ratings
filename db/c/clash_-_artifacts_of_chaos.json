@@ -2,9 +2,9 @@
   "ID": "a4b249bd941143158a5f428d2b98d2e9",
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
-  "Ranking_EOS_Progress": 277,
-  "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_Progress": 276,
+  "Ranking_EOS_Completed": 73,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66,
+  "EOS_Progressed": 67,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.52,
+  "EOS_Completed_Percentage": 1.49,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:21.1984631+00:00",
@@ -78,6 +78,11 @@
       "Time": "2023-05-20T05:05:23.7589974+00:00",
       "NumProgressed": 66,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-20T14:05:21.0663086+00:00",
+      "NumProgressed": 67,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -87,7 +92,7 @@
       "ID": "Achievement1",
       "SetID": "jf6ho5",
       "Name": "Freedom",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 35,
       "UsersEstimate": 15
     },
@@ -127,7 +132,7 @@
       "ID": "Achievement14",
       "SetID": "jf6ho5",
       "Name": "Vivid Dreams",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -135,7 +140,7 @@
       "ID": "Achievement15",
       "SetID": "jf6ho5",
       "Name": "Target Practice",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
       "UsersEstimate": 27
     },
@@ -151,7 +156,7 @@
       "ID": "Achievement17",
       "SetID": "jf6ho5",
       "Name": "Declawing",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 35,
       "UsersEstimate": 42
     },
@@ -159,7 +164,7 @@
       "ID": "Achievement18",
       "SetID": "jf6ho5",
       "Name": "Over the Moon",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 90,
       "UsersEstimate": 21
     },
@@ -167,7 +172,7 @@
       "ID": "Achievement19",
       "SetID": "jf6ho5",
       "Name": "Corwid Hill",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -175,7 +180,7 @@
       "ID": "Achievement2",
       "SetID": "jf6ho5",
       "Name": "Winner",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 35,
       "UsersEstimate": 13
     },
@@ -183,7 +188,7 @@
       "ID": "Achievement20",
       "SetID": "jf6ho5",
       "Name": "Amokuali Tower",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
       "UsersEstimate": 17
     },
@@ -207,7 +212,7 @@
       "ID": "Achievement4",
       "SetID": "jf6ho5",
       "Name": "Omnia Vincit Amor",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 90,
       "UsersEstimate": 13
     },
@@ -239,7 +244,7 @@
       "ID": "Achievement8",
       "SetID": "jf6ho5",
       "Name": "Armored",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 35,
       "UsersEstimate": 17
     },
@@ -256,7 +261,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 66,
+      "Progressed": 67,
       "Completed": 1
     }
   ],
@@ -264,8 +269,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-05-20T13:08:40.6708758+00:00",
+  "LastChanged_Achievements": "2023-05-20T14:05:21.066308+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:08.2343317+00:00",
-  "LastUpdate_Ratings": "2023-05-20T13:03:05.798125+00:00",
-  "LastUpdate_Achievements": "2023-05-20T13:08:40.6708881+00:00"
+  "LastUpdate_Ratings": "2023-05-20T13:59:38.188521+00:00",
+  "LastUpdate_Achievements": "2023-05-20T14:05:21.066324+00:00"
 }

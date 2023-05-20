@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 341,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -410,9 +410,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 12956,
+  "EOS_Progressed": 12968,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 396,
+  "EOS_NewPlayers": 407,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -955,6 +955,11 @@
       "Time": "2023-05-20T13:04:04.7614427+00:00",
       "NumProgressed": 12956,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-20T14:00:26.8821829+00:00",
+      "NumProgressed": 12968,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 40,
@@ -1076,9 +1081,9 @@
       "ID": "GRP_MELEE_KILL",
       "SetID": "4hj6d86",
       "Name": "In Striking Distance",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "KILL_2HEAD",
@@ -1285,13 +1290,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 12956,
+      "Progressed": 12968,
       "Completed": 51
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 882,
+      "Progressed": 894,
       "Completed": 29
     }
   ],
@@ -1299,8 +1304,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-16T17:57:38.030273+00:00",
-  "LastChanged_Achievements": "2023-05-20T13:04:04.7614423+00:00",
+  "LastChanged_Achievements": "2023-05-20T14:00:26.882182+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-20T13:00:20.6998045+00:00",
-  "LastUpdate_Achievements": "2023-05-20T13:04:04.7614701+00:00"
+  "LastUpdate_Ratings": "2023-05-20T13:57:39.5915331+00:00",
+  "LastUpdate_Achievements": "2023-05-20T14:00:26.8822174+00:00"
 }

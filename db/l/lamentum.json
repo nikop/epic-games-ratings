@@ -6,8 +6,8 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 218,
-  "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_Completed": 49,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
@@ -63,11 +63,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 271,
+  "EOS_Progressed": 272,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.95,
+  "EOS_Completed_Percentage": 2.94,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.4947976+00:00",
@@ -102,6 +102,11 @@
     {
       "Time": "2023-05-19T16:02:26.8833466+00:00",
       "NumProgressed": 271,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-20T14:02:35.2023619+00:00",
+      "NumProgressed": 272,
       "NumCompleted": 8
     }
   ],
@@ -186,7 +191,7 @@
       "Name": "Grau Hill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "achievement_10",
@@ -194,7 +199,7 @@
       "Name": "The creature",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "achievement_11",
@@ -202,7 +207,7 @@
       "Name": "A forgotten language",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "achievement_12",
@@ -226,7 +231,7 @@
       "Name": "Lord Clayton",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "achievement_15",
@@ -265,7 +270,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 271,
+      "Progressed": 272,
       "Completed": 8
     }
   ],
@@ -273,8 +278,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-05-20T13:05:41.809972+00:00",
+  "LastChanged_Achievements": "2023-05-20T14:02:35.2023603+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:18.0777045+00:00",
-  "LastUpdate_Ratings": "2023-05-20T13:00:16.1924725+00:00",
-  "LastUpdate_Achievements": "2023-05-20T13:05:41.8099821+00:00"
+  "LastUpdate_Ratings": "2023-05-20T13:57:35.64923+00:00",
+  "LastUpdate_Achievements": "2023-05-20T14:02:35.2023783+00:00"
 }

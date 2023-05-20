@@ -195,9 +195,9 @@
       "ID": "GB_CELEBRITY",
       "SetID": "8ga3kd9",
       "Name": "CELEBRITY",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "GB_CORRUPTIONIST",
@@ -307,9 +307,9 @@
       "ID": "GB_JACK_OF_ALL_TRADES",
       "SetID": "8ga3kd9",
       "Name": "JACK OF ALL TRADES",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 181
+      "UsersEstimate": 184
     },
     {
       "ID": "GB_KEVIN",
@@ -420,8 +420,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-05-18T03:58:25.9913255+00:00",
-  "LastChanged_Achievements": "2023-05-20T13:04:07.9794613+00:00",
+  "LastChanged_Achievements": "2023-05-20T14:00:29.2995577+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:53.2828983+00:00",
-  "LastUpdate_Ratings": "2023-05-20T13:00:55.6016439+00:00",
-  "LastUpdate_Achievements": "2023-05-20T13:04:07.9794768+00:00"
+  "LastUpdate_Ratings": "2023-05-20T13:58:04.2336759+00:00",
+  "LastUpdate_Achievements": "2023-05-20T14:00:29.2995794+00:00"
 }

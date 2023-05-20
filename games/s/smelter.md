@@ -15,10 +15,10 @@
 | Deflect This! | 25.00% | ~8 |
 | Just Some Improvements | 22.00% | ~7 |
 | It's a Sign! | 22.00% | ~7 |
+| A Little Extra Love | 19.00% | ~6 |
 | A New Strategy | 19.00% | ~6 |
 | Isn't It Beautiful? | 16.00% | ~5 |
 | A Generous Leader | 16.00% | ~5 |
-| A Little Extra Love | 16.00% | ~5 |
 | A Terrible Way to Go | 16.00% | ~5 |
 | Final Announcement | 13.00% | ~4 |
 | How Do You Like Them Apples? | 13.00% | ~4 |
