@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 399,
+  "EOS_Progressed": 400,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -123,6 +123,11 @@
     {
       "Time": "2023-05-20T19:06:24.2406041+00:00",
       "NumProgressed": 399,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-20T21:06:29.3709157+00:00",
+      "NumProgressed": 400,
       "NumCompleted": 1
     }
   ],
@@ -453,9 +458,9 @@
       "ID": "ACHIEVEMENT_41",
       "SetID": "631ndc2",
       "Name": "Self Defense",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 156
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -534,7 +539,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 399,
+      "Progressed": 400,
       "Completed": 1
     }
   ],
@@ -542,8 +547,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-05-20T20:05:49.0244309+00:00",
+  "LastChanged_Achievements": "2023-05-20T21:06:29.3709152+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.3315704+00:00",
-  "LastUpdate_Ratings": "2023-05-20T19:58:51.16361+00:00",
-  "LastUpdate_Achievements": "2023-05-20T20:05:49.0244767+00:00"
+  "LastUpdate_Ratings": "2023-05-20T20:58:58.7908738+00:00",
+  "LastUpdate_Achievements": "2023-05-20T21:06:29.3709605+00:00"
 }

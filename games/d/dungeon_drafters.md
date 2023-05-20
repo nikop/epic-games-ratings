@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Treasure Hunting | 43.00% | ~12 |
-| Might be useful… | 43.00% | ~12 |
-| Friend! | 39.00% | ~11 |
-| Uncut Gem | 39.00% | ~11 |
-| Setting Off | 32.00% | ~9 |
-| Shine! | 32.00% | ~9 |
-| Riddlesolver | 29.00% | ~8 |
-| Clear as Water | 29.00% | ~8 |
-| Dungeon Mastery | 25.00% | ~7 |
-| Card Collector | 18.00% | ~5 |
+| Treasure Hunting | 41.00% | ~12 |
+| Might be useful… | 41.00% | ~12 |
+| Friend! | 38.00% | ~11 |
+| Uncut Gem | 38.00% | ~11 |
+| Setting Off | 34.00% | ~10 |
+| Shine! | 31.00% | ~9 |
+| Riddlesolver | 28.00% | ~8 |
+| Clear as Water | 28.00% | ~8 |
+| Dungeon Mastery | 24.00% | ~7 |
+| Card Collector | 17.00% | ~5 |
 | The Apprentice | 14.00% | ~4 |
 | The Steed | 14.00% | ~4 |
 | A Strange Proposition | 14.00% | ~4 |
-| The Bodyguard | 11.00% | ~3 |
-| The Familiar | 11.00% | ~3 |
-| Ancient Nemesis | 11.00% | ~3 |
+| The Bodyguard | 10.00% | ~3 |
+| The Familiar | 10.00% | ~3 |
+| Ancient Nemesis | 10.00% | ~3 |
 | Braving Miasma | 7.00% | ~2 |
 | Best Pupil | 7.00% | ~2 |
 | Oracle Mastery | 7.00% | ~2 |
@@ -41,11 +41,11 @@
 | A New Tomorrow | 7.00% | ~2 |
 | ACHOO! | 7.00% | ~2 |
 | No Stone Unturned | 7.00% | ~2 |
-| The New Demon Lord | 4.00% | ~1 |
-| Gladiator | 4.00% | ~1 |
+| The New Demon Lord | 3.00% | ~1 |
+| Gladiator | 3.00% | ~1 |
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28 (Ranked 304)  
+Progressed: 29 (Ranked 303)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,7 +60,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-06 | 23 | 0 |
 | 2023-05-13 | 24 | 0 |
 | 2023-05-19 | 25 | 0 |
-| 2023-05-20 | 28 | 0 |
+| 2023-05-20 | 29 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

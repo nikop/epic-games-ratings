@@ -1154,9 +1154,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61386,
+  "EOS_Progressed": 61394,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 542,
+  "EOS_NewPlayers": 550,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3104,6 +3104,11 @@
       "Time": "2023-05-20T20:06:04.2250152+00:00",
       "NumProgressed": 61386,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-20T21:06:43.9974496+00:00",
+      "NumProgressed": 61394,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3459,7 +3464,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -3489,9 +3494,9 @@
       "ID": "KNIGHTHOOD_1",
       "SetID": "4eo5ebm",
       "Name": "Knighthood",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 368
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -3602,13 +3607,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61386,
+      "Progressed": 61394,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31666,
+      "Progressed": 31674,
       "Completed": 2640
     }
   ],
@@ -3616,8 +3621,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-20T13:59:13.9457948+00:00",
-  "LastChanged_Achievements": "2023-05-20T20:06:04.2250146+00:00",
+  "LastChanged_Achievements": "2023-05-20T21:06:43.997449+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-20T19:59:39.7685449+00:00",
-  "LastUpdate_Achievements": "2023-05-20T20:06:04.2250857+00:00"
+  "LastUpdate_Ratings": "2023-05-20T20:59:48.9432497+00:00",
+  "LastUpdate_Achievements": "2023-05-20T21:06:43.9975189+00:00"
 }

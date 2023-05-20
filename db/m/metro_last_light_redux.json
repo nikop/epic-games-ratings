@@ -4,11 +4,11 @@
   "ProductSlug": "metro-last-light-redux",
   "Ranking_Rating": 191,
   "Ranking_Popularity": 106,
-  "Ranking_PopularitySum": 181,
+  "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2015-06-02T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1165,10 +1165,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 2104,
       "NumberOfAwardsMax": 1822
+    },
+    {
+      "Time": "2023-05-20T20:58:53.2813686+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2105,
+      "NumberOfAwardsMax": 1822
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2104,
+  "NumberOfAwards": 2105,
   "NumberOfAwardsMax": 1822,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1218,7 +1224,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 34
+      "Count": 35
     },
     {
       "Text": "This game has a Creative Community",
@@ -1244,8 +1250,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:11.2145128+00:00",
-  "LastChanged": "2023-05-19T13:02:40.4936239+00:00",
+  "LastChanged": "2023-05-20T20:58:53.2813669+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:07.8305025+00:00",
-  "LastUpdate_Ratings": "2023-05-20T19:58:45.4553648+00:00",
-  "LastUpdate_Achievements": "2023-05-20T20:04:13.442509+00:00"
+  "LastUpdate_Ratings": "2023-05-20T20:58:53.2813691+00:00",
+  "LastUpdate_Achievements": "2023-05-20T21:04:57.7509277+00:00"
 }

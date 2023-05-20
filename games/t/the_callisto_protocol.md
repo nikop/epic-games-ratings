@@ -12,15 +12,17 @@ Rating: 4.18 (Ranked 830)
 | Big Game Hunter | 2.00% | ~19 |
 | Bear Trap | 1.00% | ~10 |
 | Big Spender | 1.00% | ~10 |
-| Float Like A Butterfly | 0.80% | ~104 |
-| The Commonality | 0.70% | ~91 |
-| Mugshot | 0.60% | ~78 |
+| Float Like A Butterfly | 0.90% | ~117 |
+| The Commonality | 0.80% | ~104 |
+| Mugshot | 0.70% | ~91 |
+| Hoard Mode | 0.60% | ~6 |
 | Parole Denied | 0.50% | ~5 |
-| Hoard Mode | 0.50% | ~5 |
 | Recidivist | 0.40% | ~4 |
 | Lifer | 0.40% | ~4 |
 | Get a Grip | 0.40% | ~52 |
 | In Striking Distance | 0.20% | ~26 |
+| Terminated | 0.20% | ~26 |
+| Workplace Hazard | 0.20% | ~26 |
 | Reforged | 0.20% | ~26 |
 | It's over, Jacob! | 0.10% | ~13 |
 | Armed to the Teeth | 0.10% | ~1 |
@@ -31,8 +33,6 @@ Rating: 4.18 (Ranked 830)
 | I Do Belong Here | 0.10% | ~13 |
 | The Protocol is About Life | 0.10% | ~13 |
 | Two Heads Are Better Than One | 0.10% | ~13 |
-| Terminated | 0.10% | ~13 |
-| Workplace Hazard | 0.10% | ~13 |
 | Paper Jams | 0.10% | ~13 |
 | The Outer Way | 0.10% | ~13 |
 | If the SHU Fits... | 0.10% | ~13 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 830)
 | I am the Danger | 0.00% | ~0 |
 | Subject Alpha | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,024 (Ranked 101)  
+Progressed: 13,038 (Ranked 101)  
 Completed: 51 (0.39%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 51 (0.39%) (Ranked 113)
 | 2023-05-17 | 12,567 | 49 |
 | 2023-05-18 | 12,620 | 51 |
 | 2023-05-19 | 12,841 | 51 |
-| 2023-05-20 | 13,024 | 51 |
+| 2023-05-20 | 13,038 | 51 |
 ## Awards
 Max (Amazing Storytelling): 46  (Ranked 397)  
 Sum: 246 (Ranked 341)  

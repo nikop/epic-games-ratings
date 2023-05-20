@@ -7,35 +7,37 @@
 | Iceberg Theory | 73.00% | ~22 |
 | Gear Up | 70.00% | ~21 |
 | A Grand Show | 70.00% | ~21 |
+| Freshen Up | 57.00% | ~17 |
 | GG EZ | 57.00% | ~17 |
-| Freshen Up | 53.00% | ~16 |
-| Hydrophobia | 23.00% | ~7 |
-| Ka-Ching! | 20.00% | ~6 |
-| Stop Right There | 17.00% | ~5 |
-| Get to the Point | 17.00% | ~5 |
+| Hydrophobia | 27.00% | ~8 |
+| Ka-Ching! | 23.00% | ~7 |
+| Stop Right There | 20.00% | ~6 |
+| Get to the Point | 20.00% | ~6 |
 | Toe to Toe | 13.00% | ~4 |
+| Mr. Want It All | 10.00% | ~3 |
 | Phew! | 10.00% | ~3 |
+| The Paradox Coordinate Conqueror | 7.00% | ~2 |
 | Grand Escape | 7.00% | ~2 |
 | Space Warrior: Prologue | 7.00% | ~2 |
 | The Hidden Secret | 7.00% | ~2 |
-| Mr. Want It All | 7.00% | ~2 |
 | Antaeus | 7.00% | ~2 |
-| The Paradox Coordinate Conqueror | 3.00% | ~1 |
+| Air Interception | 7.00% | ~2 |
+| The Deep Frozen Conqueror | 3.00% | ~1 |
+| The Abyss Conqueror | 3.00% | ~1 |
+| The Infinite Train Conqueror | 3.00% | ~1 |
+| The Inactivated Frozen Conqueror | 3.00% | ~1 |
 | The Hypergravitational Abyss Conqueror | 3.00% | ~1 |
 | Death Bringer Conqueror | 3.00% | ~1 |
+| he Ultra Fortress Conqueror | 3.00% | ~1 |
 | Easy Peasy | 3.00% | ~1 |
+| Rapidfire | 3.00% | ~1 |
 | Keep it Up, rookie! | 3.00% | ~1 |
-| Air Interception | 3.00% | ~1 |
 | Proliferation | 3.00% | ~1 |
 | Decapitation Strike | 3.00% | ~1 |
+| Clean Sweep | 3.00% | ~1 |
 | The Sunken City Conqueror | 0.00% | ~0 |
-| The Deep Frozen Conqueror | 0.00% | ~0 |
-| The Abyss Conqueror | 0.00% | ~0 |
-| The Infinite Train Conqueror | 0.00% | ~0 |
 | The Fortress Conqueror | 0.00% | ~0 |
 | The Zero Dimensional Capital Conqueror | 0.00% | ~0 |
-| The Inactivated Frozen Conqueror | 0.00% | ~0 |
-| he Ultra Fortress Conqueror | 0.00% | ~0 |
 | The Looping Space Conqueror | 0.00% | ~0 |
 | Break Through the Forbidden | 0.00% | ~0 |
 | Alloy Rangers, Assemble! | 0.00% | ~0 |
@@ -43,13 +45,11 @@
 | Breaking the Limit | 0.00% | ~0 |
 | Pumped Up | 0.00% | ~0 |
 | The Truth? | 0.00% | ~0 |
-| Rapidfire | 0.00% | ~0 |
 | Flawless | 0.00% | ~0 |
 | Hell of a Fight | 0.00% | ~0 |
 | Peace Out | 0.00% | ~0 |
 | Mischief Time | 0.00% | ~0 |
 | Art is an Explosion | 0.00% | ~0 |
-| Clean Sweep | 0.00% | ~0 |
 | Bullets Fear Me | 0.00% | ~0 |
 | Bye Bye Gravity | 0.00% | ~0 |
 | Burn After Reading | 0.00% | ~0 |

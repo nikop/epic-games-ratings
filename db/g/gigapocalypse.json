@@ -2,10 +2,10 @@
   "ID": "09f00180b25347bdb65ac0b7378756b7",
   "Name": "Gigapocalypse",
   "ProductSlug": "gigapocalypse-fdc53b",
-  "Ranking_EOS_Progress": 253,
+  "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-03-22T16:00:00+00:00",
     "PcReleaseDate": "2021-11-20T17:00:00+00:00",
@@ -500,8 +500,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-05-20T20:06:01.0647167+00:00",
+  "LastChanged_Achievements": "2023-05-20T21:06:40.9156622+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:39.4540742+00:00",
-  "LastUpdate_Ratings": "2023-05-20T19:59:53.80758+00:00",
-  "LastUpdate_Achievements": "2023-05-20T20:06:01.0647646+00:00"
+  "LastUpdate_Ratings": "2023-05-20T21:00:03.1017526+00:00",
+  "LastUpdate_Achievements": "2023-05-20T21:06:40.9157091+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -209,9 +209,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4150,
+  "EOS_Progressed": 4151,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -599,6 +599,11 @@
       "Time": "2023-05-19T20:05:56.7223886+00:00",
       "NumProgressed": 4150,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-20T21:06:31.1872556+00:00",
+      "NumProgressed": 4151,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -634,7 +639,7 @@
       "Name": "Another one bites the dust",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACHIEVEMENT_BREAD1",
@@ -650,7 +655,7 @@
       "Name": "Bread for the people II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACHIEVEMENT_BREAD3",
@@ -674,7 +679,7 @@
       "Name": "I like to build stuff... I",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS2",
@@ -690,7 +695,7 @@
       "Name": "I like to build stuff... III",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS4",
@@ -698,7 +703,7 @@
       "Name": "I like to build stuff... IV",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACHIEVEMENT_BUILDINGS5",
@@ -746,7 +751,7 @@
       "Name": "Experienced decorator",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACHIEVEMENT_ELECTION_FACTIONS",
@@ -890,7 +895,7 @@
       "Name": "An honorable Governor II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACHIEVEMENT_PRESTIGE3",
@@ -954,7 +959,7 @@
       "Name": "Full-time job III",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACHIEVEMENT_RESEARCHCOMPLETED1",
@@ -1282,7 +1287,7 @@
       "Name": "Tax-man IV",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACHIEVEMENT_TAXES5",
@@ -1314,7 +1319,7 @@
       "Name": "A time consuming game III",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACHIEVEMENT_TIME4",
@@ -1417,15 +1422,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4150,
+      "Progressed": 4151,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-05-18T04:58:08.3119533+00:00",
-  "LastChanged_Achievements": "2023-05-20T20:05:50.7720273+00:00",
+  "LastChanged_Achievements": "2023-05-20T21:06:31.1872552+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:38.1590673+00:00",
-  "LastUpdate_Ratings": "2023-05-20T19:57:55.5261401+00:00",
-  "LastUpdate_Achievements": "2023-05-20T20:05:50.7722423+00:00"
+  "LastUpdate_Ratings": "2023-05-20T20:58:04.2540649+00:00",
+  "LastUpdate_Achievements": "2023-05-20T21:06:31.1873838+00:00"
 }

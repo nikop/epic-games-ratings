@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Rewind Time | 89.00% | ~83 |
-| Wake Up | 81.00% | ~75 |
-| Time Gates | 61.00% | ~57 |
+| It's Rewind Time | 90.00% | ~84 |
+| Wake Up | 82.00% | ~76 |
+| Time Gates | 62.00% | ~58 |
 | Command Centre | 48.00% | ~45 |
 | This is a Wall | 45.00% | ~42 |
-| 48 Attempts | 35.00% | ~33 |
+| 48 Attempts | 37.00% | ~34 |
 | Extendable Bridges | 34.00% | ~32 |
 | Chain Reaction | 33.00% | ~31 |
 | Man's Best Friend | 31.00% | ~29 |

@@ -10,7 +10,7 @@ Number of Ratings: 37  (23.09.2022)
 | Tax-man I | 10.00% | ~415 |
 | A new beginning | 10.00% | ~415 |
 | Friends from the past | 8.00% | ~332 |
-| I like to build stuff... I | 7.00% | ~290 |
+| I like to build stuff... I | 7.00% | ~291 |
 | Builder I | 6.00% | ~249 |
 | An honorable Governor I | 6.00% | ~249 |
 | Full-time job I | 6.00% | ~249 |
@@ -30,15 +30,15 @@ Number of Ratings: 37  (23.09.2022)
 | Tax-man III | 4.00% | ~166 |
 | Tools of the trade I | 4.00% | ~166 |
 | Conflicting parties | 4.00% | ~166 |
-| Another one bites the dust | 3.00% | ~124 |
-| Bread for the people II | 3.00% | ~124 |
-| I like to build stuff... III | 3.00% | ~124 |
-| I like to build stuff... IV | 3.00% | ~124 |
-| Experienced decorator | 3.00% | ~124 |
-| An honorable Governor II | 3.00% | ~124 |
-| Full-time job III | 3.00% | ~124 |
-| Tax-man IV | 3.00% | ~124 |
-| A time consuming game III | 3.00% | ~124 |
+| Another one bites the dust | 3.00% | ~125 |
+| Bread for the people II | 3.00% | ~125 |
+| I like to build stuff... III | 3.00% | ~125 |
+| I like to build stuff... IV | 3.00% | ~125 |
+| Experienced decorator | 3.00% | ~125 |
+| An honorable Governor II | 3.00% | ~125 |
+| Full-time job III | 3.00% | ~125 |
+| Tax-man IV | 3.00% | ~125 |
+| A time consuming game III | 3.00% | ~125 |
 | Bread for the people III | 2.00% | ~83 |
 | Five brews are a schnitzel | 2.00% | ~83 |
 | I like to build stuff... V | 2.00% | ~83 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | We can rebuild it! | 0.10% | ~4 |
 | Tired by festival | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,150 (Ranked 127)  
+Progressed: 4,151 (Ranked 127)  
 Completed: 3 (0.07%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,6 +130,7 @@ Completed: 3 (0.07%) (Ranked 169)
 | 2023-05-15 | 4,148 | 3 |
 | 2023-05-18 | 4,149 | 3 |
 | 2023-05-19 | 4,150 | 3 |
+| 2023-05-20 | 4,151 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

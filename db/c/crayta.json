@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 310,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -329,9 +329,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109300,
+  "EOS_Progressed": 109301,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -789,6 +789,11 @@
       "Time": "2023-05-20T18:05:22.2243488+00:00",
       "NumProgressed": 109300,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-20T21:05:59.619066+00:00",
+      "NumProgressed": 109301,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -944,7 +949,7 @@
       "Name": "Variety Player - Gold",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "29",
@@ -1008,7 +1013,7 @@
       "Name": "Challenge Master",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "36",
@@ -1071,15 +1076,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109300,
+      "Progressed": 109301,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2023-05-20T20:05:18.2481997+00:00",
+  "LastChanged_Achievements": "2023-05-20T21:05:59.6190651+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:48.4371068+00:00",
-  "LastUpdate_Ratings": "2023-05-20T19:58:09.0804916+00:00",
-  "LastUpdate_Achievements": "2023-05-20T20:05:18.248245+00:00"
+  "LastUpdate_Ratings": "2023-05-20T20:58:17.3285168+00:00",
+  "LastUpdate_Achievements": "2023-05-20T21:05:59.6190943+00:00"
 }

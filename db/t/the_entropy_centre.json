@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2022-11-03T16:00:00+00:00",
@@ -127,9 +127,9 @@
       "ID": "ACH_ACT1",
       "SetID": "2310cb1",
       "Name": "Wake Up",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_ACT10",
@@ -191,9 +191,9 @@
       "ID": "ACH_ACT2",
       "SetID": "2310cb1",
       "Name": "Time Gates",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_ACT3",
@@ -223,9 +223,9 @@
       "ID": "ACH_ACT6",
       "SetID": "2310cb1",
       "Name": "48 Attempts",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_ACT7",
@@ -319,9 +319,9 @@
       "ID": "ACH_REWINDTIME",
       "SetID": "2310cb1",
       "Name": "It\u0027s Rewind Time",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_SUMMERLOVE",
@@ -352,8 +352,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-05-20T20:05:25.5689111+00:00",
+  "LastChanged_Achievements": "2023-05-20T21:06:06.6967653+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:56.6865886+00:00",
-  "LastUpdate_Ratings": "2023-05-20T19:57:17.0795655+00:00",
-  "LastUpdate_Achievements": "2023-05-20T20:05:25.5689356+00:00"
+  "LastUpdate_Ratings": "2023-05-20T20:57:24.9997087+00:00",
+  "LastUpdate_Achievements": "2023-05-20T21:06:06.6967813+00:00"
 }

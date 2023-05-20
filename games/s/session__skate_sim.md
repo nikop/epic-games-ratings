@@ -17,7 +17,7 @@ Number of Ratings: 111  (23.09.2022)
 | Keep the dream alive | 8.00% | ~161 |
 | The hard way | 8.00% | ~161 |
 | Upfront shredder | 8.00% | ~161 |
-| Good vibes | 7.00% | ~140 |
+| Good vibes | 7.00% | ~141 |
 | Fashionista | 6.00% | ~120 |
 | Finally he zips it | 6.00% | ~120 |
 | That pinch! | 6.00% | ~120 |
@@ -25,6 +25,7 @@ Number of Ratings: 111  (23.09.2022)
 | Bottom ply killer | 5.00% | ~100 |
 | Fulfilled the dream | 5.00% | ~100 |
 | G'Day Mate! | 5.00% | ~100 |
+| Globetrotter | 5.00% | ~100 |
 | NAHELL! | 5.00% | ~100 |
 | Purple passion | 5.00% | ~100 |
 | Squad goals | 5.00% | ~100 |
@@ -32,7 +33,6 @@ Number of Ratings: 111  (23.09.2022)
 | Commence the Hijinx! | 4.00% | ~80 |
 | Cops called! | 4.00% | ~80 |
 | DIY Boss | 4.00% | ~80 |
-| Globetrotter | 4.00% | ~80 |
 | Laid back | 4.00% | ~80 |
 | Lines for days | 4.00% | ~80 |
 | Manny Destroys All | 4.00% | ~80 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,007 (Ranked 146)  
+Progressed: 2,008 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-17 | 1,962 | 0 |
 | 2023-05-18 | 1,968 | 0 |
 | 2023-05-19 | 1,992 | 0 |
-| 2023-05-20 | 2,007 | 0 |
+| 2023-05-20 | 2,008 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 392)  
 Sum: 414 (Ranked 300)  

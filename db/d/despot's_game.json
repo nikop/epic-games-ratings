@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -117,9 +117,9 @@
       "ID": "assemble-team2",
       "SetID": "799afm0",
       "Name": "Brain and Brawn",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "assemble-team3",
@@ -205,9 +205,9 @@
       "ID": "finished-quest-monster",
       "SetID": "799afm0",
       "Name": "Campaigning",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 87
     },
     {
       "ID": "finished-quest-nurgle",
@@ -365,9 +365,9 @@
       "ID": "win-second-biom",
       "SetID": "799afm0",
       "Name": "Through the Darkness",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 141
+      "UsersEstimate": 145
     },
     {
       "ID": "win-with-3-cultists",
@@ -398,8 +398,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-05-20T20:05:44.7019788+00:00",
+  "LastChanged_Achievements": "2023-05-20T21:06:25.2376483+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:20.0092319+00:00",
-  "LastUpdate_Ratings": "2023-05-20T19:58:35.8070174+00:00",
-  "LastUpdate_Achievements": "2023-05-20T20:05:44.7020185+00:00"
+  "LastUpdate_Ratings": "2023-05-20T20:58:43.3153185+00:00",
+  "LastUpdate_Achievements": "2023-05-20T21:06:25.2376708+00:00"
 }

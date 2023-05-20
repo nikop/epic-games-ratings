@@ -6,25 +6,25 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 82.00% | ~505,097 |
-| Every story has a beginning | 37.00% | ~227,910 |
-| The first of many | 32.00% | ~197,111 |
-| Positive word of mouth | 18.00% | ~110,875 |
-| Lawn in the U.S.A. | 15.00% | ~92,396 |
-| Blade Runner | 9.00% | ~55,437 |
-| Credible | 7.00% | ~43,118 |
-| Teamwork makes the dream work | 6.00% | ~36,958 |
-| Bigger and better | 4.00% | ~24,639 |
-| Aggressive expansion | 4.00% | ~24,639 |
-| Where there's muck there's brass | 3.00% | ~18,479 |
-| Size isn't everything | 3.00% | ~18,479 |
-| Established | 3.00% | ~18,479 |
-| Mighty Mowing Park Ranger | 2.00% | ~12,319 |
-| Close shave | 2.00% | ~12,319 |
-| Every good deed… | 2.00% | ~12,319 |
-| Leaner and meaner | 2.00% | ~12,319 |
-| First step on the ladder | 2.00% | ~12,319 |
-| Trusted | 2.00% | ~12,319 |
+| The dream begins | 82.00% | ~505,122 |
+| Every story has a beginning | 37.00% | ~227,921 |
+| The first of many | 32.00% | ~197,121 |
+| Positive word of mouth | 18.00% | ~110,880 |
+| Lawn in the U.S.A. | 15.00% | ~92,400 |
+| Blade Runner | 9.00% | ~55,440 |
+| Credible | 7.00% | ~43,120 |
+| Teamwork makes the dream work | 6.00% | ~36,960 |
+| Bigger and better | 4.00% | ~24,640 |
+| Aggressive expansion | 4.00% | ~24,640 |
+| Where there's muck there's brass | 3.00% | ~18,480 |
+| Size isn't everything | 3.00% | ~18,480 |
+| Established | 3.00% | ~18,480 |
+| Mighty Mowing Park Ranger | 2.00% | ~12,320 |
+| Close shave | 2.00% | ~12,320 |
+| Every good deed… | 2.00% | ~12,320 |
+| Leaner and meaner | 2.00% | ~12,320 |
+| First step on the ladder | 2.00% | ~12,320 |
+| Trusted | 2.00% | ~12,320 |
 | Fighting on all fronts | 1.00% | ~6,160 |
 | The top of the mountain | 1.00% | ~6,160 |
 | Earn your stripes | 0.90% | ~5,544 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~616 |
 | Mo mowers, mo problems | 0.10% | ~616 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 615,972 (Ranked 19)  
+Progressed: 616,002 (Ranked 19)  
 Completed: 9 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 9 (0.00%) (Ranked 201)
 | 2023-05-17 | 614,630 | 9 |
 | 2023-05-18 | 615,050 | 9 |
 | 2023-05-19 | 615,489 | 9 |
-| 2023-05-20 | 615,972 | 9 |
+| 2023-05-20 | 616,002 | 9 |
 ## Awards
 Max (Quickly Understood Controls): 179  (Ranked 270)  
 Sum: 958 (Ranked 231)  

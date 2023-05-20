@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4789,
+  "EOS_Progressed": 4790,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -764,6 +764,11 @@
       "Time": "2023-05-20T20:05:53.0175018+00:00",
       "NumProgressed": 4789,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-20T21:06:33.3695069+00:00",
+      "NumProgressed": 4790,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -927,7 +932,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "ach_campaign_special10",
@@ -1207,7 +1212,7 @@
       "Name": "Data Churn Type II",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ach_frp_researchdata3",
@@ -1367,7 +1372,7 @@
       "Name": "Speedy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ach_trait_overload",
@@ -1382,15 +1387,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4789,
+      "Progressed": 4790,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-05-20T20:05:53.0175011+00:00",
+  "LastChanged_Achievements": "2023-05-20T21:06:33.3695064+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:17.17846+00:00",
-  "LastUpdate_Ratings": "2023-05-20T19:58:52.963778+00:00",
-  "LastUpdate_Achievements": "2023-05-20T20:05:53.0175874+00:00"
+  "LastUpdate_Ratings": "2023-05-20T20:59:00.7111604+00:00",
+  "LastUpdate_Achievements": "2023-05-20T21:06:33.3696015+00:00"
 }

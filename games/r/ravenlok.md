@@ -8,7 +8,7 @@
 | Waff! | 93.00% | ~683 |
 | Into the Barn | 86.00% | ~631 |
 | A Prophecy | 84.00% | ~617 |
-| Sword, Shield, Fight! | 74.00% | ~543 |
+| Sword, Shield, Fight! | 75.00% | ~550 |
 | A Grand Visit | 70.00% | ~514 |
 | Vibing | 60.00% | ~440 |
 | Fun Guy | 60.00% | ~440 |
@@ -26,18 +26,18 @@
 | Nightmare Fuel | 37.00% | ~272 |
 | Take Heart | 37.00% | ~272 |
 | The Guardian | 36.00% | ~264 |
+| Ancient Wisdom | 35.00% | ~257 |
 | Stronger! | 35.00% | ~257 |
-| Ancient Wisdom | 34.00% | ~250 |
 | Frog Facts! | 34.00% | ~250 |
 | All That Glistens | 34.00% | ~250 |
 | It's Pointy! | 34.00% | ~250 |
 | Spellbound | 33.00% | ~242 |
 | All Skilled Up! | 33.00% | ~242 |
 | Extinct Again! | 32.00% | ~235 |
-| Bird of Prey | 31.00% | ~228 |
-| Stardust | 31.00% | ~228 |
-| Heartbreaker | 31.00% | ~228 |
-| Kidnapped! | 31.00% | ~228 |
+| Bird of Prey | 32.00% | ~235 |
+| Stardust | 32.00% | ~235 |
+| Heartbreaker | 32.00% | ~235 |
+| Kidnapped! | 32.00% | ~235 |
 | Pull the Plug | 30.00% | ~220 |
 | All Heart | 30.00% | ~220 |
 | Trick Question! | 30.00% | ~220 |

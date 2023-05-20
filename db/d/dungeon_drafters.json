@@ -2,10 +2,10 @@
   "ID": "4570fd48bd25472b87e028bbab19c6e8",
   "Name": "Dungeon Drafters",
   "ProductSlug": "dungeon-drafters-82c40a",
-  "Ranking_EOS_Progress": 304,
+  "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28,
+  "EOS_Progressed": 29,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -143,6 +143,11 @@
       "Time": "2023-05-20T07:06:05.2101229+00:00",
       "NumProgressed": 28,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T21:06:11.7665653+00:00",
+      "NumProgressed": 29,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -152,7 +157,7 @@
       "ID": "DD_complete",
       "SetID": "3b8n56h",
       "Name": "The Bodyguard",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -168,7 +173,7 @@
       "ID": "InnkeeperQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Treasure Hunting",
-      "Percentage": 43,
+      "Percentage": 41,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -184,7 +189,7 @@
       "ID": "InnkeeperQuestlineThird",
       "SetID": "3b8n56h",
       "Name": "Dungeon Mastery",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -192,7 +197,7 @@
       "ID": "LW_complete",
       "SetID": "3b8n56h",
       "Name": "The Familiar",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -208,7 +213,7 @@
       "ID": "MGR_complete",
       "SetID": "3b8n56h",
       "Name": "Ancient Nemesis",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -216,7 +221,7 @@
       "ID": "MasterOracleQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Riddlesolver",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
       "UsersEstimate": 8
     },
@@ -240,7 +245,7 @@
       "ID": "MasterRaiderQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Friend!",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -264,9 +269,9 @@
       "ID": "MasterTravelerQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Setting Off",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "MasterTravelerQuestlineLast",
@@ -288,7 +293,7 @@
       "ID": "MasterWardenQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Uncut Gem",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -344,7 +349,7 @@
       "ID": "any_curio",
       "SetID": "3b8n56h",
       "Name": "Might be useful\u2026",
-      "Percentage": 43,
+      "Percentage": 41,
       "XP": 100,
       "UsersEstimate": 12
     },
@@ -352,7 +357,7 @@
       "ID": "bad_ending",
       "SetID": "3b8n56h",
       "Name": "The New Demon Lord",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -360,7 +365,7 @@
       "ID": "bought_rune_clear",
       "SetID": "3b8n56h",
       "Name": "Clear as Water",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -376,7 +381,7 @@
       "ID": "cards_discovered_half",
       "SetID": "3b8n56h",
       "Name": "Card Collector",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -392,7 +397,7 @@
       "ID": "foil_card",
       "SetID": "3b8n56h",
       "Name": "Shine!",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 100,
       "UsersEstimate": 9
     },
@@ -464,7 +469,7 @@
       "ID": "the_legend",
       "SetID": "3b8n56h",
       "Name": "Gladiator",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
       "UsersEstimate": 1
     }
@@ -473,7 +478,7 @@
     {
       "ID": "3b8n56h",
       "IsBase": true,
-      "Progressed": 28,
+      "Progressed": 29,
       "Completed": 0
     }
   ],
@@ -481,8 +486,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-05-20T20:05:30.7187607+00:00",
+  "LastChanged_Achievements": "2023-05-20T21:06:11.766565+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.9763289+00:00",
-  "LastUpdate_Ratings": "2023-05-20T19:57:08.7361504+00:00",
-  "LastUpdate_Achievements": "2023-05-20T20:05:30.7187914+00:00"
+  "LastUpdate_Ratings": "2023-05-20T20:57:16.5765111+00:00",
+  "LastUpdate_Achievements": "2023-05-20T21:06:11.7665935+00:00"
 }

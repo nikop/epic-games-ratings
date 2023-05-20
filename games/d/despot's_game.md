@@ -11,15 +11,15 @@ Rating: 4.50 (Ranked 535)
 | Knowledge is Power | 44.00% | ~159 |
 | Impossible Cube | 42.00% | ~152 |
 | No Mercy | 41.00% | ~148 |
+| Through the Darkness | 40.00% | ~145 |
 | The Return of a Rat | 39.00% | ~141 |
-| Through the Darkness | 39.00% | ~141 |
 | Fat of the Earth | 32.00% | ~116 |
 | Last Man Standing | 31.00% | ~112 |
 | Catch Jonathan_tostar | 26.00% | ~94 |
+| Campaigning | 24.00% | ~87 |
 | Assemble a Meganewbie | 24.00% | ~87 |
 | He's Seen It All | 24.00% | ~87 |
 | Great Hero | 24.00% | ~87 |
-| Campaigning | 23.00% | ~83 |
 | Rookie | 23.00% | ~83 |
 | Frugal | 20.00% | ~72 |
 | To the Moon and Back | 20.00% | ~72 |
@@ -27,8 +27,8 @@ Rating: 4.50 (Ranked 535)
 | Great Flight | 17.00% | ~62 |
 | Holy Vengeance | 14.00% | ~51 |
 | Strength and Sorcery | 10.00% | ~36 |
+| Brain and Brawn | 10.00% | ~36 |
 | Honorary Cultist | 10.00% | ~36 |
-| Brain and Brawn | 9.00% | ~33 |
 | Omae Wa Mou Shindeiru | 8.00% | ~29 |
 | Experimentalist | 5.00% | ~18 |
 | Wide Selection | 5.00% | ~18 |

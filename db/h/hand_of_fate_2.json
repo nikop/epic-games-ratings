@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -838,9 +838,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 656487,
+  "EOS_Progressed": 656491,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 392,
+  "EOS_NewPlayers": 394,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3423,6 +3423,11 @@
       "Time": "2023-05-20T19:06:06.2674717+00:00",
       "NumProgressed": 656487,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-05-20T21:06:11.1408389+00:00",
+      "NumProgressed": 656491,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -3434,7 +3439,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 472671
+      "UsersEstimate": 472674
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -3442,7 +3447,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 380762
+      "UsersEstimate": 380765
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -3450,7 +3455,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 150992
+      "UsersEstimate": 150993
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -3522,7 +3527,7 @@
       "Name": "Jack of all Trades",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 32824
+      "UsersEstimate": 32825
     },
     {
       "ID": "Achievement_13_Dice_Master",
@@ -3570,7 +3575,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 150992
+      "UsersEstimate": 150993
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -3578,7 +3583,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 91908
+      "UsersEstimate": 91909
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -3610,7 +3615,7 @@
       "Name": "Smithy",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 32824
+      "UsersEstimate": 32825
     },
     {
       "ID": "Achievement_24_Leap_of_Faith",
@@ -3674,7 +3679,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 78778
+      "UsersEstimate": 78779
     },
     {
       "ID": "Achievement_32_Karma",
@@ -3698,7 +3703,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 164122
+      "UsersEstimate": 164123
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -3817,15 +3822,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 656487,
+      "Progressed": 656491,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-05-18T14:57:37.1411686+00:00",
-  "LastChanged_Achievements": "2023-05-20T20:05:30.0627538+00:00",
+  "LastChanged_Achievements": "2023-05-20T21:06:11.1408384+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:07.1745323+00:00",
-  "LastUpdate_Ratings": "2023-05-20T19:57:29.0844457+00:00",
-  "LastUpdate_Achievements": "2023-05-20T20:05:30.0628088+00:00"
+  "LastUpdate_Ratings": "2023-05-20T20:57:38.3338434+00:00",
+  "LastUpdate_Achievements": "2023-05-20T21:06:11.140893+00:00"
 }

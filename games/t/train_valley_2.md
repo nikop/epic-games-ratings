@@ -63,11 +63,11 @@ Number of Ratings: 87  (23.09.2022)
 | Achiever | 0.60% | ~4 |
 | Miscalculation | 0.60% | ~4 |
 | Will work | 0.60% | ~4 |
+| Woodcutter | 0.60% | ~4 |
 | Astrochemist | 0.40% | ~0 |
 | BBQ | 0.40% | ~3 |
 | Metro builder | 0.40% | ~3 |
 | Space Age | 0.40% | ~3 |
-| Woodcutter | 0.40% | ~3 |
 | Alchemist | 0.30% | ~2 |
 | Astrophysicist | 0.30% | ~2 |
 | Tourism Age | 0.30% | ~2 |

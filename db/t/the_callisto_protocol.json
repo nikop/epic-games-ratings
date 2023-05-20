@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 341,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -410,9 +410,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 13024,
+  "EOS_Progressed": 13038,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 462,
+  "EOS_NewPlayers": 476,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -985,6 +985,11 @@
       "Time": "2023-05-20T20:00:35.4635335+00:00",
       "NumProgressed": 13024,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-20T21:00:46.0207011+00:00",
+      "NumProgressed": 13038,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 40,
@@ -1130,33 +1135,33 @@
       "ID": "KILL_ROBOT",
       "SetID": "4hj6d86",
       "Name": "Terminated",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Workplace Hazard",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
       "SetID": "4hj6d86",
       "Name": "The Commonality",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 104
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
       "SetID": "4hj6d86",
       "Name": "Float Like A Butterfly",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 117
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -1178,9 +1183,9 @@
       "ID": "SHARE_PHOTO",
       "SetID": "4hj6d86",
       "Name": "Mugshot",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 91
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -1290,9 +1295,9 @@
       "ID": "NOSPEND_2ROUNDS",
       "SetID": "6j5ggkc",
       "Name": "Hoard Mode",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "RIOT_10_POWERUPS",
@@ -1315,13 +1320,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13024,
+      "Progressed": 13038,
       "Completed": 51
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 950,
+      "Progressed": 964,
       "Completed": 29
     }
   ],
@@ -1329,8 +1334,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-16T17:57:38.030273+00:00",
-  "LastChanged_Achievements": "2023-05-20T20:00:35.4635329+00:00",
+  "LastChanged_Achievements": "2023-05-20T21:00:46.0207006+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-20T19:57:43.4950925+00:00",
-  "LastUpdate_Achievements": "2023-05-20T20:00:35.4635789+00:00"
+  "LastUpdate_Ratings": "2023-05-20T20:57:52.5524923+00:00",
+  "LastUpdate_Achievements": "2023-05-20T21:00:46.0207427+00:00"
 }

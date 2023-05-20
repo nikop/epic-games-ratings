@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 28,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -373,9 +373,9 @@
       "ID": "MQ01_1",
       "SetID": "bbing49",
       "Name": "Read Between The Lines",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 119
     },
     {
       "ID": "MQ01_2",
@@ -421,25 +421,25 @@
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 99
     },
     {
       "ID": "MQ03_2",
       "SetID": "bbing49",
       "Name": "Lock, Stock, And Barrel",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "MQ03_3",
       "SetID": "bbing49",
       "Name": "History Check",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 40,
-      "UsersEstimate": 93
+      "UsersEstimate": 95
     },
     {
       "ID": "MQ03_4",
@@ -485,9 +485,9 @@
       "ID": "MQ05_1",
       "SetID": "bbing49",
       "Name": "Open Sesame",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "MQ05_2",
@@ -501,9 +501,9 @@
       "ID": "MQ05_3",
       "SetID": "bbing49",
       "Name": "Sticky Fingers",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "MQ05_4",
@@ -606,8 +606,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-20T20:01:05.1598425+00:00",
+  "LastChanged_Achievements": "2023-05-20T21:01:15.6878606+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.473335+00:00",
-  "LastUpdate_Ratings": "2023-05-20T19:57:08.0988065+00:00",
-  "LastUpdate_Achievements": "2023-05-20T20:01:05.1598794+00:00"
+  "LastUpdate_Ratings": "2023-05-20T20:57:15.9711141+00:00",
+  "LastUpdate_Achievements": "2023-05-20T21:01:15.6878842+00:00"
 }

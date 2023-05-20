@@ -5,10 +5,10 @@
   "Ranking_Rating": 658,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 166,
-  "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_Progress": 165,
+  "Ranking_EOS_Completed": 140,
+  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -176,11 +176,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 968,
+  "EOS_Progressed": 977,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.21,
+  "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:23.1376838+00:00",
@@ -821,6 +821,11 @@
       "Time": "2023-05-20T20:05:31.9360578+00:00",
       "NumProgressed": 968,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-20T21:06:12.8444818+00:00",
+      "NumProgressed": 977,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -838,9 +843,9 @@
       "ID": "REWARD_11_GAME_SUBTITLE",
       "SetID": "bm6el81",
       "Name": "Libert\u00E9",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -872,7 +877,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -910,9 +915,9 @@
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 68
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -982,9 +987,9 @@
       "ID": "REWARD_28_AMBUSH_KING",
       "SetID": "bm6el81",
       "Name": "Set Europe Ablaze",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -1030,9 +1035,9 @@
       "ID": "REWARD_34_TRIPLE_KILL",
       "SetID": "bm6el81",
       "Name": "Explosive Efficiency",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -1040,7 +1045,7 @@
       "Name": "Lord of War",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -1056,7 +1061,7 @@
       "Name": "Resourceful",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -1206,9 +1211,9 @@
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
       "SetID": "bm6el81",
       "Name": "Brains of the Operation",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -1222,17 +1227,17 @@
       "ID": "REWARD_7_TARGET_AMERICA",
       "SetID": "bm6el81",
       "Name": "Target America",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
       "SetID": "bm6el81",
       "Name": "Shoot for the Moon",
-      "Percentage": 0.1,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 4
     },
     {
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
@@ -1399,13 +1404,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 919,
+      "Progressed": 928,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 968,
+      "Progressed": 977,
       "Completed": 2
     }
   ],
@@ -1413,8 +1418,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-18T16:01:31.1520338+00:00",
-  "LastChanged_Achievements": "2023-05-20T20:05:31.9360571+00:00",
+  "LastChanged_Achievements": "2023-05-20T21:06:12.8444806+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-20T20:00:26.3266351+00:00",
-  "LastUpdate_Achievements": "2023-05-20T20:05:31.9361273+00:00"
+  "LastUpdate_Ratings": "2023-05-20T21:00:34.7729689+00:00",
+  "LastUpdate_Achievements": "2023-05-20T21:06:12.8446727+00:00"
 }

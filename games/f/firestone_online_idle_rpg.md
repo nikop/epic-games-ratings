@@ -5,20 +5,20 @@ Rating: 3.75 (Ranked 918)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,044 |
-| World Map | 80.00% | ~889 |
-| Temple of Eternals | 56.00% | ~622 |
+| Victor | 94.00% | ~1,045 |
+| World Map | 80.00% | ~890 |
+| Temple of Eternals | 56.00% | ~623 |
 | Prestigious | 52.00% | ~578 |
-| Fellowship Power | 40.00% | ~444 |
+| Fellowship Power | 40.00% | ~445 |
 | Guild Power | 24.00% | ~267 |
-| Prestigious x10 | 21.00% | ~233 |
+| Prestigious x10 | 21.00% | ~234 |
 | The game is on | 18.00% | ~200 |
 | Dragon Clicker | 16.00% | ~178 |
 | Exotic Merchant | 16.00% | ~178 |
 | Miner Clicker | 15.00% | ~167 |
 | Inspection | 14.00% | ~156 |
-| Full Party | 13.00% | ~144 |
-| Hero inspection | 13.00% | ~144 |
+| Full Party | 13.00% | ~145 |
+| Hero inspection | 13.00% | ~145 |
 | Dragon Master | 11.00% | ~122 |
 | Enlightenment | 10.00% | ~111 |
 | Lieutenant | 10.00% | ~111 |
@@ -63,10 +63,10 @@ Rating: 3.75 (Ranked 918)
 | Legendary | 0.60% | ~7 |
 | Transmute | 0.60% | ~7 |
 | Tree of Life | 0.60% | ~7 |
-| Gear Enchanting | 0.50% | ~6 |
-| Mythic Power | 0.50% | ~6 |
 | Training makes a Pro player | 0.50% | ~6 |
 | Cauldron Liberator | 0.40% | ~4 |
+| Gear Enchanting | 0.40% | ~4 |
+| Mythic Power | 0.40% | ~4 |
 | Pokerface | 0.40% | ~4 |
 | Guardian Master | 0.30% | ~3 |
 | Arena Challenger | 0.20% | ~2 |
@@ -81,7 +81,7 @@ Rating: 3.75 (Ranked 918)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,111 (Ranked 161)  
+Progressed: 1,112 (Ranked 160)  
 Completed: 1 (0.09%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 1 (0.09%) (Ranked 163)
 | 2023-05-17 | 1,057 | 1 |
 | 2023-05-18 | 1,076 | 1 |
 | 2023-05-19 | 1,090 | 1 |
-| 2023-05-20 | 1,111 | 1 |
+| 2023-05-20 | 1,112 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,8 +4,8 @@
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
     "PcReleaseDate": "2022-09-15T07:00:00+00:00",
@@ -180,25 +180,25 @@
       "ID": "Achi_02",
       "SetID": "51a97k7",
       "Name": "The Deep Frozen Conqueror",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Achi_03",
       "SetID": "51a97k7",
       "Name": "The Abyss Conqueror",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Achi_04",
       "SetID": "51a97k7",
       "Name": "The Infinite Train Conqueror",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Achi_05",
@@ -212,9 +212,9 @@
       "ID": "Achi_06",
       "SetID": "51a97k7",
       "Name": "The Paradox Coordinate Conqueror",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Achi_07",
@@ -228,9 +228,9 @@
       "ID": "Achi_08",
       "SetID": "51a97k7",
       "Name": "The Inactivated Frozen Conqueror",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Achi_09",
@@ -252,9 +252,9 @@
       "ID": "Achi_11",
       "SetID": "51a97k7",
       "Name": "he Ultra Fortress Conqueror",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Achi_12",
@@ -324,9 +324,9 @@
       "ID": "Achi_20",
       "SetID": "51a97k7",
       "Name": "Freshen Up",
-      "Percentage": 53,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Achi_21",
@@ -364,9 +364,9 @@
       "ID": "Achi_25",
       "SetID": "51a97k7",
       "Name": "Mr. Want It All",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Achi_26",
@@ -388,17 +388,17 @@
       "ID": "Achi_28",
       "SetID": "51a97k7",
       "Name": "Ka-Ching!",
-      "Percentage": 20,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Achi_29",
       "SetID": "51a97k7",
       "Name": "Rapidfire",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Achi_30",
@@ -436,33 +436,33 @@
       "ID": "Achi_34",
       "SetID": "51a97k7",
       "Name": "Hydrophobia",
-      "Percentage": 23,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Achi_35",
       "SetID": "51a97k7",
       "Name": "Stop Right There",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Achi_36",
       "SetID": "51a97k7",
       "Name": "Air Interception",
-      "Percentage": 3,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Achi_37",
       "SetID": "51a97k7",
       "Name": "Get to the Point",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Achi_38",
@@ -524,9 +524,9 @@
       "ID": "Achi_45",
       "SetID": "51a97k7",
       "Name": "Clean Sweep",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Achi_46",
@@ -581,8 +581,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-05-20T20:06:00.1693966+00:00",
+  "LastChanged_Achievements": "2023-05-20T21:06:40.0782467+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:09:24.1067719+00:00",
-  "LastUpdate_Ratings": "2023-05-20T19:59:49.2810869+00:00",
-  "LastUpdate_Achievements": "2023-05-20T20:06:00.1694387+00:00"
+  "LastUpdate_Ratings": "2023-05-20T20:59:58.2507404+00:00",
+  "LastUpdate_Achievements": "2023-05-20T21:06:40.0783497+00:00"
 }

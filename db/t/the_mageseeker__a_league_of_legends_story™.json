@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -94,9 +94,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2064,
+  "EOS_Progressed": 2065,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1534,6 +1534,11 @@
       "Time": "2023-05-20T20:05:34.496268+00:00",
       "NumProgressed": 2064,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-20T21:06:15.3620582+00:00",
+      "NumProgressed": 2065,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1609,7 +1614,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1961
+      "UsersEstimate": 1962
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1625,7 +1630,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1590
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -1665,7 +1670,7 @@
       "Name": "Past trauma",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -1697,7 +1702,7 @@
       "Name": "Do you trust me?",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "STB_FIND_ALL_SILVERWINGS",
@@ -1729,7 +1734,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1899
+      "UsersEstimate": 1900
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1753,7 +1758,7 @@
       "Name": "The great mage rebellion starts now",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "STB_MISSION1_COMPLETED",
@@ -1761,7 +1766,7 @@
       "Name": "Dark Forest",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1590
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -1769,7 +1774,7 @@
       "Name": "Thornbarrow",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -1793,7 +1798,7 @@
       "Name": "Sacred Woods",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -1849,7 +1854,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "STB_PET_HORSE",
@@ -1881,7 +1886,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -1929,7 +1934,7 @@
       "Name": "Spellcrafting",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "STB_UNLOCK_ALL_SLOTS_IMPROVEMENTS",
@@ -1961,14 +1966,14 @@
       "Name": "Petricite Burst",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2064,
+      "Progressed": 2065,
       "Completed": 1
     }
   ],
@@ -1976,8 +1981,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-17T18:57:40.491639+00:00",
-  "LastChanged_Achievements": "2023-05-20T20:05:34.4962671+00:00",
+  "LastChanged_Achievements": "2023-05-20T21:06:15.3620577+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:08.2361804+00:00",
-  "LastUpdate_Ratings": "2023-05-20T19:57:30.0322096+00:00",
-  "LastUpdate_Achievements": "2023-05-20T20:05:34.4963231+00:00"
+  "LastUpdate_Ratings": "2023-05-20T20:57:39.3178888+00:00",
+  "LastUpdate_Achievements": "2023-05-20T21:06:15.3621156+00:00"
 }

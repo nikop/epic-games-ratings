@@ -36,7 +36,7 @@ Number of Ratings: 209  (23.09.2022)
 | Force Cube | 82.00% | ~1,652 |
 | Got Battery | 80.00% | ~1,612 |
 | Guard Distracted | 80.00% | ~1,612 |
-| Translocator | 79.00% | ~1,592 |
+| Translocator | 80.00% | ~1,612 |
 | Inner Peace | 77.00% | ~1,552 |
 | Diamond Pickaxe | 76.00% | ~1,531 |
 | Killed them all | 76.00% | ~1,531 |
@@ -60,7 +60,7 @@ Number of Ratings: 209  (23.09.2022)
 | Too hot | 19.00% | ~383 |
 | All the chests | 13.00% | ~262 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,015 (Ranked 144)  
+Progressed: 2,015 (Ranked 145)  
 Completed: 243 (12.06%) (Ranked 11)  
 ## EOS Players History
 | Date | Progressed | Completed |

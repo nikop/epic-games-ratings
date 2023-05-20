@@ -4,8 +4,8 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2511,
+  "EOS_Progressed": 2512,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1580,6 +1580,11 @@
       "Time": "2023-05-20T20:00:56.9469684+00:00",
       "NumProgressed": 2511,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-20T21:01:07.6869295+00:00",
+      "NumProgressed": 2512,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1599,7 +1604,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "11",
@@ -1751,7 +1756,7 @@
       "Name": "PRO",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "7",
@@ -1782,13 +1787,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2511,
+      "Progressed": 2512,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-20T20:00:56.9469677+00:00",
+  "LastChanged_Achievements": "2023-05-20T21:01:07.6869289+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.9291954+00:00",
-  "LastUpdate_Ratings": "2023-05-20T19:58:51.8436979+00:00",
-  "LastUpdate_Achievements": "2023-05-20T20:00:56.9470129+00:00"
+  "LastUpdate_Ratings": "2023-05-20T20:58:59.546552+00:00",
+  "LastUpdate_Achievements": "2023-05-20T21:01:07.6869569+00:00"
 }

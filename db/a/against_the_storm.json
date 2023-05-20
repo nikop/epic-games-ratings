@@ -6,9 +6,9 @@
   "Ranking_Popularity": 196,
   "Ranking_PopularitySum": 150,
   "Ranking_EOS_Progress": 98,
-  "Ranking_EOS_Completed": 141,
+  "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2288,7 +2288,7 @@
       "Count": 304
     }
   ],
-  "EOS_Progressed": 14922,
+  "EOS_Progressed": 14924,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
@@ -3868,6 +3868,11 @@
       "Time": "2023-05-20T20:06:04.0922825+00:00",
       "NumProgressed": 14922,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-20T21:06:43.7847127+00:00",
+      "NumProgressed": 14924,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 50,
@@ -4013,9 +4018,9 @@
       "ID": "WinNearBattleground",
       "SetID": "cfbk359",
       "Name": "Ancient Battleground",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 134
     },
     {
       "ID": "WinNearCrystals",
@@ -4278,15 +4283,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 14922,
+      "Progressed": 14924,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-19T11:59:18.6406919+00:00",
-  "LastChanged_Achievements": "2023-05-20T20:06:04.092282+00:00",
+  "LastChanged_Achievements": "2023-05-20T21:06:43.7847121+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:57.8342165+00:00",
-  "LastUpdate_Ratings": "2023-05-20T19:59:55.4191862+00:00",
-  "LastUpdate_Achievements": "2023-05-20T20:06:04.0923432+00:00"
+  "LastUpdate_Ratings": "2023-05-20T21:00:05.1452478+00:00",
+  "LastUpdate_Achievements": "2023-05-20T21:06:43.7847635+00:00"
 }
