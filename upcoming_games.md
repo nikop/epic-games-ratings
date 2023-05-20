@@ -52,7 +52,6 @@
 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 2023-06-20 | 2023-06-20 |
 | [Reverie - Sweet As Edition](games/r/reverie_-_sweet_as_edition.md) | 2023-06-28 | 2023-06-30 |
 | [Journey to the West](games/j/journey_to_the_west.md) | 2023-06-29 | 2023-05-31 |
-| [Arcade Fishing](games/a/arcade_fishing.md) | 2023-06-30 | 2023-06-30 |
 | [Assassin: The First List](games/a/assassin_the_first_list.md) | 2023-06-30 | 2023-06-30 |
 | [Avian Knights](games/a/avian_knights.md) | 2023-06-30 | 2023-06-30 |
 | [Awesome Pea 2](games/a/awesome_pea_2.md) | 2023-06-30 | 2020-01-31 |
@@ -79,6 +78,7 @@
 | [Full Metal Sergeant](games/f/full_metal_sergeant.md) | 2023-07-07 | 2023-04-03 |
 | [Cramped Room of Death](games/c/cramped_room_of_death.md) | 2023-07-19 | 2023-07-19 |
 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 2023-07-20 | 2023-07-20 |
+| [Arcade Fishing](games/a/arcade_fishing.md) | 2023-07-31 | 2023-06-30 |
 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 2023-07-31 | 2023-07-31 |
 | [Paw Paw Destiny](games/p/paw_paw_destiny.md) | 2023-08-16 | 2023-08-16 |
 | [RIDE 5](games/r/ride_5.md) | 2023-08-24 | 2023-08-24 |

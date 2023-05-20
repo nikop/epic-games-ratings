@@ -2,7 +2,7 @@
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 1,332,147 | 4.30 | 758 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 414,755 | 4.51 | 517 |
-| 3 | [Genshin Impact](games/g/genshin_impact.md) | 295,891 | 4.68 | 237 |
+| 3 | [Genshin Impact](games/g/genshin_impact.md) | 295,948 | 4.68 | 237 |
 | 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 182,626 | 4.19 | 822 |
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 172,091 | 4.68 | 237 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 141,730 | 4.89 | 13 |
@@ -77,7 +77,7 @@
 | 75 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 3,898 | 4.56 | 447 |
 | 76 | [SMITE](games/s/smite.md) | 3,787 | 4.45 | 607 |
 | 77 | [Days Gone](games/d/days_gone.md) | 3,760 | 4.69 | 214 |
-| 78 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,601 | 4.30 | 758 |
+| 78 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,604 | 4.30 | 758 |
 | 79 | [Dead Island 2](games/d/dead_island_2.md) | 3,587 | 4.54 | 480 |
 | 80 | [Gloomhaven](games/g/gloomhaven.md) | 3,447 | 4.47 | 583 |
 | 81 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,323 | 4.68 | 237 |
@@ -139,7 +139,7 @@
 | 137 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 1,001 | 4.23 | 798 |
 | 138 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 988 | 4.40 | 673 |
 | 139 | [Torchlight II](games/t/torchlight_ii.md) | 972 | 4.58 | 414 |
-| 140 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 936 | 4.31 | 755 |
+| 140 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 937 | 4.31 | 755 |
 | 141 | [Sonic Mania](games/s/sonic_mania.md) | 907 | 4.78 | 100 |
 | 142 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 871 | 4.69 | 214 |
 | 143 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 852 | 4.45 | 607 |

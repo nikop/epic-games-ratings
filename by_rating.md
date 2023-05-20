@@ -243,7 +243,7 @@
 | 237 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 491 |
 | 237 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 6,855 | 47 |
 | 237 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,242 | 60 |
-| 237 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 295,891 | 3 |
+| 237 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 295,948 | 3 |
 | 237 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 172,091 | 5 |
 | 237 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | 0 | 491 |
 | 237 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 410 | 197 |
@@ -756,13 +756,13 @@
 | 744 | [War Mongrels](games/w/war_mongrels.md) | 4.32 | 0 | 491 |
 | 755 | [3 out of 10: Season Two](games/3/3_out_of_10__season_two.md) | 4.31 | 0 | 491 |
 | 755 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.31 | 0 | 491 |
-| 755 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 936 | 140 |
+| 755 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 937 | 140 |
 | 758 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 491 |
 | 758 | [Fortnite](games/f/fortnite.md) | 4.30 | 1,332,147 | 1 |
 | 758 | [Hammerting](games/h/hammerting.md) | 4.30 | 0 | 491 |
 | 758 | [Hellpoint](games/h/hellpoint.md) | 4.30 | 0 | 491 |
 | 758 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 491 |
-| 758 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 3,601 | 78 |
+| 758 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.30 | 3,604 | 78 |
 | 758 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 170 | 274 |
 | 765 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 491 |
 | 765 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 491 |
