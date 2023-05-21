@@ -2,9 +2,9 @@
   "ID": "654424d5bf5d4687bd06b0354eccf38e",
   "Name": "DESTRUCTURE: Among Debris",
   "ProductSlug": "destructure-among-debris-b4aaf8",
-  "Ranking_EOS_Progress": 261,
+  "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 89,
+  "EOS_Progressed": 90,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.12,
+  "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:27.5419142+00:00",
@@ -413,6 +413,11 @@
       "Time": "2023-05-21T21:02:45.2064564+00:00",
       "NumProgressed": 89,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-21T23:02:32.7156404+00:00",
+      "NumProgressed": 90,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -510,7 +515,7 @@
       "ID": "graduation",
       "SetID": "jig50d",
       "Name": "Graduation",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 10,
       "UsersEstimate": 67
     },
@@ -590,7 +595,7 @@
       "ID": "rookie",
       "SetID": "jig50d",
       "Name": "Rookie",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 5,
       "UsersEstimate": 57
     },
@@ -671,7 +676,7 @@
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 89,
+      "Progressed": 90,
       "Completed": 1
     }
   ],
@@ -679,8 +684,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-21T22:02:38.5720592+00:00",
+  "LastChanged_Achievements": "2023-05-21T23:02:32.7156398+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:10:10.466439+00:00",
-  "LastUpdate_Ratings": "2023-05-21T22:00:18.7017143+00:00",
-  "LastUpdate_Achievements": "2023-05-21T22:02:38.5720831+00:00"
+  "LastUpdate_Ratings": "2023-05-21T23:00:21.0406375+00:00",
+  "LastUpdate_Achievements": "2023-05-21T23:02:32.7156606+00:00"
 }

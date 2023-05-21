@@ -5,22 +5,22 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Aspairagus | 17.00% | ~1 |
-| Survivor | 15.00% | ~0 |
+| Survivor | 15.00% | ~1 |
 | Bouncemato | 11.00% | ~0 |
 | Early Survivor | 11.00% | ~0 |
 | Quick-Draw Pod | 9.00% | ~0 |
 | No Diggity | 9.00% | ~0 |
-| Seeds of War | 8.00% | ~4 |
+| Seeds of War | 7.00% | ~4 |
 | Oh My Gourd | 6.00% | ~0 |
 | Perfect | 6.00% | ~0 |
 | Grave Digger | 6.00% | ~0 |
 | Quadsparagus | 6.00% | ~0 |
+| First Blood | 4.00% | ~2 |
 | Amateur Survivor | 4.00% | ~0 |
 | Pyromaniac | 4.00% | ~0 |
 | Summers Here | 4.00% | ~0 |
 | Easy Peasy | 4.00% | ~0 |
 | 15K | 2.00% | ~1 |
-| First Blood | 2.00% | ~1 |
 | Skin Of Your Teeth | 2.00% | ~1 |
 | Pro Pyromancer | 2.00% | ~1 |
 | No Asperascope | 2.00% | ~1 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53 (Ranked 284)  
+Progressed: 54 (Ranked 284)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-14 | 49 | 0 |
 | 2023-05-15 | 50 | 0 |
 | 2023-05-16 | 52 | 0 |
-| 2023-05-21 | 53 | 0 |
+| 2023-05-21 | 54 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

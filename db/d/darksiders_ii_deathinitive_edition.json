@@ -4,10 +4,10 @@
   "ProductSlug": "darksiders2",
   "Ranking_Rating": 358,
   "Ranking_Popularity": 206,
-  "Ranking_PopularitySum": 286,
+  "Ranking_PopularitySum": 285,
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2015-11-05T15:00:00+00:00",
@@ -577,18 +577,24 @@
       "Rating": 4.61,
       "NumberOfAwards": 576,
       "NumberOfAwardsMax": 375
+    },
+    {
+      "Time": "2023-05-21T22:58:54.45684+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 577,
+      "NumberOfAwardsMax": 376
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 576,
-  "NumberOfAwardsMax": 375,
+  "NumberOfAwards": 577,
+  "NumberOfAwardsMax": 376,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 375
+      "Count": 376
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -608,8 +614,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:32.2059195+00:00",
-  "LastChanged": "2023-05-14T21:58:26.7944366+00:00",
+  "LastChanged": "2023-05-21T22:58:54.4568398+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:22.5122803+00:00",
-  "LastUpdate_Ratings": "2023-05-21T21:58:49.9289684+00:00",
-  "LastUpdate_Achievements": "2023-05-21T22:03:24.1148444+00:00"
+  "LastUpdate_Ratings": "2023-05-21T22:58:54.4568403+00:00",
+  "LastUpdate_Achievements": "2023-05-21T23:03:28.4668722+00:00"
 }

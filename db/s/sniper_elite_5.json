@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1123,
+  "EOS_Progressed": 1126,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 406,
+  "EOS_NewPlayers": 409,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -952,6 +952,11 @@
       "Time": "2023-05-21T22:05:47.9947791+00:00",
       "NumProgressed": 1123,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-21T23:06:04.3700511+00:00",
+      "NumProgressed": 1126,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1011,7 +1016,7 @@
       "Name": "Fields of Glory",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -1019,7 +1024,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -1027,7 +1032,7 @@
       "Name": "Organ Grinder",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -1035,7 +1040,7 @@
       "Name": "Strategist",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "REWARD_1_MEETING_RESISTANCE",
@@ -1147,7 +1152,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -1163,7 +1168,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -1203,7 +1208,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -1275,7 +1280,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -1283,7 +1288,7 @@
       "Name": "It\u0027ll Buff Right Out",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "REWARD_56_SMOOTH_OPERATOR",
@@ -1299,7 +1304,7 @@
       "Name": "Change the Channel",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -1329,9 +1334,9 @@
       "ID": "REWARD_6_BIG_GAME_HUNTER",
       "SetID": "bm6el81",
       "Name": "Taking it back",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -1339,7 +1344,7 @@
       "Name": "Brains of the Operation",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -1363,7 +1368,7 @@
       "Name": "Shoot for the Moon",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
@@ -1530,13 +1535,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1074,
+      "Progressed": 1077,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1123,
+      "Progressed": 1126,
       "Completed": 2
     }
   ],
@@ -1544,8 +1549,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-21T20:01:20.196422+00:00",
-  "LastChanged_Achievements": "2023-05-21T22:05:47.9947786+00:00",
+  "LastChanged_Achievements": "2023-05-21T23:06:04.3700505+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-21T22:00:56.8680464+00:00",
-  "LastUpdate_Achievements": "2023-05-21T22:05:47.9948335+00:00"
+  "LastUpdate_Ratings": "2023-05-21T23:00:59.6300621+00:00",
+  "LastUpdate_Achievements": "2023-05-21T23:06:04.370113+00:00"
 }

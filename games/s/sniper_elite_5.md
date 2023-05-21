@@ -11,19 +11,19 @@ Rating: 4.40 (Ranked 674)
 | Enemy at the Gates | 3.00% | ~34 |
 | Lord of War | 3.00% | ~34 |
 | Resourceful | 3.00% | ~34 |
-| Just a Flesh Wound | 2.00% | ~22 |
-| Organ Grinder | 2.00% | ~22 |
-| Explosive Efficiency | 2.00% | ~22 |
-| As Quiet as a Mouse | 2.00% | ~22 |
-| It's Starting to Crack | 2.00% | ~22 |
-| Change the Channel | 2.00% | ~22 |
+| Just a Flesh Wound | 2.00% | ~23 |
+| Organ Grinder | 2.00% | ~23 |
+| Explosive Efficiency | 2.00% | ~23 |
+| As Quiet as a Mouse | 2.00% | ~23 |
+| It's Starting to Crack | 2.00% | ~23 |
+| Change the Channel | 2.00% | ~23 |
 | Opposing Force | 1.00% | ~11 |
 | Die Nussknacker Sweet! | 1.00% | ~11 |
 | Close Quarters | 1.00% | ~11 |
+| Taking it back | 1.00% | ~11 |
 | Target America | 1.00% | ~11 |
 | The Kraken Sleeps | 1.00% | ~11 |
 | Gunslinger | 0.90% | ~10 |
-| Taking it back | 0.90% | ~10 |
 | Liberté | 0.80% | ~9 |
 | Sharpshooter | 0.80% | ~9 |
 | The Long Game | 0.80% | ~9 |
@@ -33,12 +33,12 @@ Rating: 4.40 (Ranked 674)
 | Der Geist | 0.70% | ~8 |
 | Climbing the Ladder | 0.60% | ~7 |
 | Set Europe Ablaze | 0.60% | ~7 |
-| Fields of Glory | 0.40% | ~4 |
-| Strategist | 0.40% | ~4 |
-| Rigged to Blow | 0.40% | ~4 |
-| It'll Buff Right Out | 0.40% | ~4 |
-| Brains of the Operation | 0.40% | ~4 |
-| Shoot for the Moon | 0.40% | ~4 |
+| Fields of Glory | 0.40% | ~5 |
+| Strategist | 0.40% | ~5 |
+| Rigged to Blow | 0.40% | ~5 |
+| It'll Buff Right Out | 0.40% | ~5 |
+| Brains of the Operation | 0.40% | ~5 |
+| Shoot for the Moon | 0.40% | ~5 |
 | No Stone Unturned | 0.30% | ~3 |
 | Don't hold your breath | 0.30% | ~3 |
 | Herr Today, Gone Tomorrow | 0.30% | ~3 |
@@ -77,7 +77,7 @@ Rating: 4.40 (Ranked 674)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,123 (Ranked 161)  
+Progressed: 1,126 (Ranked 161)  
 Completed: 2 (0.18%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 2 (0.18%) (Ranked 143)
 | 2023-05-18 | 743 | 2 |
 | 2023-05-19 | 833 | 2 |
 | 2023-05-20 | 984 | 2 |
-| 2023-05-21 | 1,123 | 2 |
+| 2023-05-21 | 1,126 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

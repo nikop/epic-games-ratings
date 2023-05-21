@@ -142,9 +142,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3177,
+  "EOS_Progressed": 3178,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 769,
+  "EOS_NewPlayers": 770,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1532,6 +1532,11 @@
       "Time": "2023-05-21T22:03:32.7427766+00:00",
       "NumProgressed": 3177,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T23:03:37.2464026+00:00",
+      "NumProgressed": 3178,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -1559,7 +1564,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1494
     },
     {
       "ID": "12",
@@ -1613,9 +1618,9 @@
       "ID": "18",
       "SetID": "3aa2279",
       "Name": "Arch Mage",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 572
+      "UsersEstimate": 540
     },
     {
       "ID": "19",
@@ -1639,7 +1644,7 @@
       "Name": "The Goddess of Nature",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "21",
@@ -1655,7 +1660,7 @@
       "Name": "Realm Estate",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2478
+      "UsersEstimate": 2479
     },
     {
       "ID": "23",
@@ -1663,7 +1668,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2573
+      "UsersEstimate": 2574
     },
     {
       "ID": "24",
@@ -1671,7 +1676,7 @@
       "Name": "Secret Technique",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2446
+      "UsersEstimate": 2447
     },
     {
       "ID": "25",
@@ -1679,7 +1684,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2351
+      "UsersEstimate": 2352
     },
     {
       "ID": "26",
@@ -1703,7 +1708,7 @@
       "Name": "From Friends to Family",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 2224
+      "UsersEstimate": 2225
     },
     {
       "ID": "29",
@@ -1711,7 +1716,7 @@
       "Name": "Stronger Together",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1779
+      "UsersEstimate": 1780
     },
     {
       "ID": "3",
@@ -1735,7 +1740,7 @@
       "Name": "Magical Synergy",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 2065
+      "UsersEstimate": 2066
     },
     {
       "ID": "32",
@@ -1743,7 +1748,7 @@
       "Name": "My Final Form",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 1366
+      "UsersEstimate": 1367
     },
     {
       "ID": "33",
@@ -1751,7 +1756,7 @@
       "Name": "Seat of Power",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "34",
@@ -1815,7 +1820,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 1366
+      "UsersEstimate": 1367
     },
     {
       "ID": "41",
@@ -1894,13 +1899,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 3177,
-      "Completed": 3177
+      "Progressed": 3178,
+      "Completed": 3178
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 3177,
+      "Progressed": 3178,
       "Completed": 0
     }
   ],
@@ -1908,8 +1913,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-21T13:01:53.2055411+00:00",
-  "LastChanged_Achievements": "2023-05-21T22:03:32.7427761+00:00",
+  "LastChanged_Achievements": "2023-05-21T23:03:37.2464021+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:46.682938+00:00",
-  "LastUpdate_Ratings": "2023-05-21T21:59:38.58446+00:00",
-  "LastUpdate_Achievements": "2023-05-21T22:03:32.7428109+00:00"
+  "LastUpdate_Ratings": "2023-05-21T22:59:42.508883+00:00",
+  "LastUpdate_Achievements": "2023-05-21T23:03:37.2464368+00:00"
 }

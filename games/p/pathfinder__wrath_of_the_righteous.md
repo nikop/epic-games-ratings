@@ -9,8 +9,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Devoured by Darkness | 14.00% | ~1,266 |
 | A Spark | 10.00% | ~904 |
 | Burning City | 9.00% | ~814 |
-| Mythic Choices | 8.00% | ~723 |
-| Defender's Heart | 8.00% | ~723 |
+| Mythic Choices | 8.00% | ~724 |
+| Defender's Heart | 8.00% | ~724 |
 | Banner over the Citadel | 7.00% | ~633 |
 | Queen's Gratitude | 7.00% | ~633 |
 | Fifth Crusade | 5.00% | ~452 |
@@ -32,9 +32,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | A Flame | 2.00% | ~181 |
 | Hey, I Know You! | 2.00% | ~181 |
 | Get the Toad | 2.00% | ~181 |
-| Hanged Man's Notes | 2.00% | ~156 |
-| The Lady of the Forest | 2.00% | ~156 |
-| Beware Still Water | 2.00% | ~156 |
+| Hanged Man's Notes | 2.00% | ~157 |
+| The Lady of the Forest | 2.00% | ~157 |
+| Beware Still Water | 2.00% | ~157 |
 | Path of the Demon | 1.00% | ~90 |
 | Path of the Aeon | 1.00% | ~90 |
 | Path of the Trickster | 1.00% | ~90 |
@@ -45,10 +45,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Stay Underground | 1.00% | ~78 |
 | Sarkoris Will Be Green | 1.00% | ~78 |
 | Abyssal Conspiracy | 0.80% | ~72 |
+| The Final Threshold | 0.70% | ~63 |
 | End of Eternal Guard | 0.70% | ~63 |
 | This Wall Won't Fall | 0.70% | ~55 |
 | Not the Last Sarkorian | 0.70% | ~55 |
-| The Final Threshold | 0.60% | ~54 |
 | Path of the Dragon | 0.60% | ~54 |
 | Path of the Legend | 0.60% | ~54 |
 | Strategic Victory | 0.60% | ~54 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,042 (Ranked 109)  
+Progressed: 9,045 (Ranked 109)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-18 | 8,872 | 0 |
 | 2023-05-19 | 8,921 | 0 |
 | 2023-05-20 | 8,990 | 0 |
-| 2023-05-21 | 9,042 | 0 |
+| 2023-05-21 | 9,045 | 0 |
 ## Awards
 Max (Character Customization): 1,636  (Ranked 111)  
 Sum: 6,637 (Ranked 110)  

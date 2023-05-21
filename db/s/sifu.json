@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 64,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4152,9 +4152,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 704403,
+  "EOS_Progressed": 704407,
   "EOS_Completed": 12733,
-  "EOS_NewPlayers": 1470,
+  "EOS_NewPlayers": 1473,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -6662,6 +6662,11 @@
       "Time": "2023-05-21T22:06:08.5990573+00:00",
       "NumProgressed": 704403,
       "NumCompleted": 12733
+    },
+    {
+      "Time": "2023-05-21T23:06:25.0106239+00:00",
+      "NumProgressed": 704407,
+      "NumCompleted": 12733
     }
   ],
   "TotalAchievements": 50,
@@ -6879,9 +6884,9 @@
       "ID": "27_ShrineBody",
       "SetID": "adcm20g",
       "Name": "Qi Gong: Essence",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 4931
+      "UsersEstimate": 5635
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -7072,21 +7077,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 13704,
+      "Progressed": 13708,
       "Completed": 10142
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 704403,
+      "Progressed": 704407,
       "Completed": 12733
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-21T21:59:10.8120001+00:00",
-  "LastChanged_Achievements": "2023-05-21T22:06:08.5990569+00:00",
+  "LastChanged_Achievements": "2023-05-21T23:06:25.0106234+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.7579865+00:00",
-  "LastUpdate_Ratings": "2023-05-21T21:59:10.8120006+00:00",
-  "LastUpdate_Achievements": "2023-05-21T22:06:08.5991051+00:00"
+  "LastUpdate_Ratings": "2023-05-21T22:59:14.7889758+00:00",
+  "LastUpdate_Achievements": "2023-05-21T23:06:25.010667+00:00"
 }

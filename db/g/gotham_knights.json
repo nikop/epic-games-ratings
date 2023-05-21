@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1160,9 +1160,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61583,
+  "EOS_Progressed": 61589,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 702,
+  "EOS_NewPlayers": 706,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3235,6 +3235,11 @@
       "Time": "2023-05-21T22:06:21.1458729+00:00",
       "NumProgressed": 61583,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-21T23:06:37.8094557+00:00",
+      "NumProgressed": 61589,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3294,7 +3299,7 @@
       "Name": "The Batman Family",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -3470,7 +3475,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "FREEZE_1_5",
@@ -3478,7 +3483,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "FREEZE_2",
@@ -3558,7 +3563,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "HARLEY_3",
@@ -3566,7 +3571,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "HARLEY_4",
@@ -3646,7 +3651,7 @@
       "Name": "Whispered Words",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "MYSTERY_03",
@@ -3733,13 +3738,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61583,
+      "Progressed": 61589,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31863,
+      "Progressed": 31869,
       "Completed": 2640
     }
   ],
@@ -3747,8 +3752,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-21T20:59:39.1766882+00:00",
-  "LastChanged_Achievements": "2023-05-21T22:06:21.1458719+00:00",
+  "LastChanged_Achievements": "2023-05-21T23:06:37.8094552+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-21T22:00:01.626594+00:00",
-  "LastUpdate_Achievements": "2023-05-21T22:06:21.1459279+00:00"
+  "LastUpdate_Ratings": "2023-05-21T23:00:05.2239768+00:00",
+  "LastUpdate_Achievements": "2023-05-21T23:06:37.8095081+00:00"
 }

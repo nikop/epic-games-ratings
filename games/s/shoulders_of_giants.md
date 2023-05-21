@@ -1,7 +1,7 @@
 # Shoulders of Giants
 [Store](https://store.epicgames.com/en-US/p/shoulders-of-giants-61381f)  
 [View Rawdata](../../db/s/shoulders_of_giants.json)  
-Rating: 4.32 (Ranked 746)  
+Rating: 4.35 (Ranked 720)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -62,3 +62,4 @@ Completed: 8 (0.39%) (Ranked 112)
 | 2023-03-31 | 4.26 | 0 | 0 |
 | 2023-05-09 | 4.29 | 0 | 0 |
 | 2023-05-15 | 4.32 | 0 | 0 |
+| 2023-05-21 | 4.35 | 0 | 0 |

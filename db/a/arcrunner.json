@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -325,9 +325,9 @@
       "ID": "ACHV_BIGGERTHEYARE",
       "SetID": "cceobco",
       "Name": "The Bigger They Are",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHV_CHALLENGEACCEPTED",
@@ -349,9 +349,9 @@
       "ID": "ACHV_CITY",
       "SetID": "cceobco",
       "Name": "The City",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHV_CYBERNETIC",
@@ -550,8 +550,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-05-21T22:06:03.9392044+00:00",
+  "LastChanged_Achievements": "2023-05-21T23:06:20.2734496+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:04:10.0269591+00:00",
-  "LastUpdate_Ratings": "2023-05-21T21:59:57.7846987+00:00",
-  "LastUpdate_Achievements": "2023-05-21T22:06:03.9392222+00:00"
+  "LastUpdate_Ratings": "2023-05-21T23:00:01.0879095+00:00",
+  "LastUpdate_Achievements": "2023-05-21T23:06:20.2734649+00:00"
 }

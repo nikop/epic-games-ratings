@@ -4,7 +4,7 @@
   "ProductSlug": "panic-porcupine-aa131e",
   "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-20T14:00:00+00:00",
@@ -46,9 +46,9 @@
       "ID": "Barf Bag",
       "SetID": "4e9p31o",
       "Name": "Barf Bag",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Beyond the Hills",
@@ -78,9 +78,9 @@
       "ID": "It\u0027s a start",
       "SetID": "4e9p31o",
       "Name": "It\u0027s a start",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "No Bones About it",
@@ -148,8 +148,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:51:28.7644634+00:00",
-  "LastChanged_Achievements": "2023-05-21T22:06:01.7631648+00:00",
+  "LastChanged_Achievements": "2023-05-21T23:06:18.1856392+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:13.0578097+00:00",
-  "LastUpdate_Ratings": "2023-05-21T21:59:51.8330468+00:00",
-  "LastUpdate_Achievements": "2023-05-21T22:06:01.7631721+00:00"
+  "LastUpdate_Ratings": "2023-05-21T22:59:56.0146708+00:00",
+  "LastUpdate_Achievements": "2023-05-21T23:06:18.1856463+00:00"
 }

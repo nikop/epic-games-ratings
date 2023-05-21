@@ -8,10 +8,10 @@ Number of Ratings: 53  (23.09.2022)
 | ---- | ---------- | ----- |
 | Cabin boy | 80.00% | ~444 |
 | My little farm | 66.00% | ~366 |
-| Every beginning is difficult | 62.00% | ~344 |
+| Every beginning is difficult | 63.00% | ~350 |
+| Seafarer | 55.00% | ~305 |
 | 3, 2, 1, mine | 55.00% | ~305 |
 | Gofer | 55.00% | ~305 |
-| Seafarer | 54.00% | ~300 |
 | O Captain! My Captain! | 53.00% | ~294 |
 | Greed for gold | 42.00% | ~233 |
 | Intangible | 41.00% | ~228 |

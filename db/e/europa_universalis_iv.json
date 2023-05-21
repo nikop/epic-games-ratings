@@ -4996,10 +4996,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 43585,
       "NumberOfAwardsMax": 5264
+    },
+    {
+      "Time": "2023-05-21T22:57:10.9978306+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 43591,
+      "NumberOfAwardsMax": 5264
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43585,
+  "NumberOfAwards": 43591,
   "NumberOfAwardsMax": 5264,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -5061,7 +5067,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4149
+      "Count": 4155
     },
     {
       "Text": "This game has Unique Visuals",
@@ -5070,9 +5076,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 41500,
+  "EOS_Progressed": 41525,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4619,
+  "EOS_NewPlayers": 4620,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8155,6 +8161,11 @@
       "Time": "2023-05-21T22:06:26.4245385+00:00",
       "NumProgressed": 41500,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T23:06:42.5534827+00:00",
+      "NumProgressed": 41525,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -8334,7 +8345,7 @@
       "Name": "All Your Trade Are Belong to Us",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "achievement_almost_prussian_blue",
@@ -8550,7 +8561,7 @@
       "Name": "Bleed Them Dry",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "achievement_blockader",
@@ -8606,7 +8617,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2490
+      "UsersEstimate": 2492
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -8686,7 +8697,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1660
+      "UsersEstimate": 1661
     },
     {
       "ID": "achievement_colonial_management",
@@ -8782,7 +8793,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1246
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -8838,7 +8849,7 @@
       "Name": "Down Under",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "achievement_draculas_revenge",
@@ -8998,7 +9009,7 @@
       "Name": "For the Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2075
+      "UsersEstimate": 2076
     },
     {
       "ID": "achievement_forever_golden",
@@ -9030,7 +9041,7 @@
       "Name": "Four For Trade",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "achievement_frankfurt_andes",
@@ -9102,7 +9113,7 @@
       "Name": "Global Hegemony",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "achievement_god_tier",
@@ -9166,7 +9177,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3320
+      "UsersEstimate": 3322
     },
     {
       "ID": "achievement_grand_coalition",
@@ -9174,7 +9185,7 @@
       "Name": "Grand Coalition",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "achievement_grand_duchy",
@@ -9182,7 +9193,7 @@
       "Name": "Grand Duchy",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "achievement_grand_navy",
@@ -9190,7 +9201,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2490
+      "UsersEstimate": 2492
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -9366,7 +9377,7 @@
       "Name": "Italian Ambition",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "achievement_its_all_about_luck",
@@ -9382,7 +9393,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1246
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -9414,7 +9425,7 @@
       "Name": "Just a Little Patience",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "achievement_just_resting_in_my_account",
@@ -9806,7 +9817,7 @@
       "Name": "No Pirates in my Caribbean",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "achievement_no_trail_of_tears",
@@ -9902,7 +9913,7 @@
       "Name": "One Night in Paris",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "achievement_ostindisk_kompagni_te",
@@ -10102,7 +10113,7 @@
       "Name": "Respected",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1246
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -10166,7 +10177,7 @@
       "Name": "Seriously?!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2490
+      "UsersEstimate": 2492
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -10430,7 +10441,7 @@
       "Name": "Tear Down This Wall",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "achievement_terra_mariana",
@@ -10446,7 +10457,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3320
+      "UsersEstimate": 3322
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -10686,7 +10697,7 @@
       "Name": "Three Trivial Tributary Tribes",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "achievement_tiger_of_mysore",
@@ -10734,7 +10745,7 @@
       "Name": "Traditional Player",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "achievement_triple_rome",
@@ -10758,7 +10769,7 @@
       "Name": "True Catholic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1660
+      "UsersEstimate": 1661
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -10774,7 +10785,7 @@
       "Name": "Truly Divine Ruler",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1246
     },
     {
       "ID": "achievement_trustworthy",
@@ -10830,7 +10841,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3735
+      "UsersEstimate": 3737
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -10862,7 +10873,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3320
+      "UsersEstimate": 3322
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -10958,7 +10969,7 @@
       "Name": "Wonderful",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "achievement_world_conqueror",
@@ -10997,21 +11008,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 41500,
+      "Progressed": 41525,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 41500,
+      "Progressed": 41525,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-05-21T16:57:06.7875211+00:00",
-  "LastChanged_Achievements": "2023-05-21T22:06:26.4245381+00:00",
+  "LastChanged": "2023-05-21T22:57:10.9978305+00:00",
+  "LastChanged_Achievements": "2023-05-21T23:06:42.5534821+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:06.3042546+00:00",
-  "LastUpdate_Ratings": "2023-05-21T21:57:08.1676189+00:00",
-  "LastUpdate_Achievements": "2023-05-21T22:06:26.4255171+00:00"
+  "LastUpdate_Ratings": "2023-05-21T22:57:10.997831+00:00",
+  "LastUpdate_Achievements": "2023-05-21T23:06:42.5544684+00:00"
 }

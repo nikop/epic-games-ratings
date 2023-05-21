@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 118,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
@@ -462,9 +462,9 @@
       "ID": "ETUA_ADC",
       "SetID": "65jc0ap",
       "Name": "Lover of classics",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ETUA_AloneInTheDark",
@@ -791,8 +791,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-05-21T22:01:36.8296816+00:00",
+  "LastChanged_Achievements": "2023-05-21T23:01:41.4480888+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:00.9346953+00:00",
-  "LastUpdate_Ratings": "2023-05-21T21:57:01.3607316+00:00",
-  "LastUpdate_Achievements": "2023-05-21T22:01:36.8297074+00:00"
+  "LastUpdate_Ratings": "2023-05-21T22:57:02.5197878+00:00",
+  "LastUpdate_Achievements": "2023-05-21T23:01:41.4481142+00:00"
 }

@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Barf Bag | 100.00% | ~1 |
+| It's a start | 100.00% | ~1 |
 | Artful Dodger | 0.00% | ~0 |
-| Barf Bag | 0.00% | ~0 |
 | Beyond the Hills | 0.00% | ~0 |
 | Commitment | 0.00% | ~0 |
 | Egg Hunt | 0.00% | ~0 |
-| It's a start | 0.00% | ~0 |
 | No Bones About it | 0.00% | ~0 |
 | Over Easy | 0.00% | ~0 |
 | Punctual Porcupine | 0.00% | ~0 |

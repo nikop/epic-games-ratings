@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 69,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3856,9 +3856,9 @@
       "Count": 3238
     }
   ],
-  "EOS_Progressed": 88246,
+  "EOS_Progressed": 88251,
   "EOS_Completed": 1860,
-  "EOS_NewPlayers": 708,
+  "EOS_NewPlayers": 705,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
@@ -6851,6 +6851,11 @@
       "Time": "2023-05-21T22:06:26.8851277+00:00",
       "NumProgressed": 88246,
       "NumCompleted": 1860
+    },
+    {
+      "Time": "2023-05-21T23:06:43.4964406+00:00",
+      "NumProgressed": 88251,
+      "NumCompleted": 1860
     }
   ],
   "TotalAchievements": 493,
@@ -7230,7 +7235,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_110",
@@ -7726,7 +7731,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_1203",
@@ -8542,7 +8547,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_35",
@@ -8654,7 +8659,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_390",
@@ -8726,7 +8731,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_40",
@@ -10805,21 +10810,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54520,
+      "Progressed": 54525,
       "Completed": 2648
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88246,
+      "Progressed": 88251,
       "Completed": 1860
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-21T11:58:31.6555519+00:00",
-  "LastChanged_Achievements": "2023-05-21T22:06:26.8851272+00:00",
+  "LastChanged_Achievements": "2023-05-21T23:06:43.4964401+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-21T21:58:02.9892375+00:00",
-  "LastUpdate_Achievements": "2023-05-21T22:06:26.8872457+00:00"
+  "LastUpdate_Ratings": "2023-05-21T22:58:07.9567097+00:00",
+  "LastUpdate_Achievements": "2023-05-21T23:06:43.4985375+00:00"
 }

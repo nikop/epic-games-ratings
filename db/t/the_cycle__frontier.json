@@ -2,12 +2,12 @@
   "ID": "azalea",
   "Name": "The Cycle: Frontier",
   "ProductSlug": "thecycle",
-  "Ranking_Rating": 860,
+  "Ranking_Rating": 861,
   "Ranking_Popularity": 96,
   "Ranking_PopularitySum": 61,
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-06-08T10:00:00+00:00",
@@ -4604,10 +4604,16 @@
       "Rating": 4.1,
       "NumberOfAwards": 15186,
       "NumberOfAwardsMax": 2301
+    },
+    {
+      "Time": "2023-05-21T22:58:22.5775801+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 15190,
+      "NumberOfAwardsMax": 2301
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15186,
+  "NumberOfAwards": 15190,
   "NumberOfAwardsMax": 2301,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -4651,7 +4657,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2058
+      "Count": 2062
     }
   ],
   "EOS_Progressed": 0,
@@ -4665,8 +4671,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00",
-  "LastChanged": "2023-05-21T16:57:57.3578621+00:00",
+  "LastChanged": "2023-05-21T22:58:22.5775796+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:49.392889+00:00",
-  "LastUpdate_Ratings": "2023-05-21T21:58:18.3549568+00:00",
-  "LastUpdate_Achievements": "2023-05-21T22:01:18.9260005+00:00"
+  "LastUpdate_Ratings": "2023-05-21T22:58:22.5775805+00:00",
+  "LastUpdate_Achievements": "2023-05-21T23:01:23.2948409+00:00"
 }

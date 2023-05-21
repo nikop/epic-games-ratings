@@ -6,7 +6,7 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 50.00% | ~1,011 |
+| You're free now! | 50.00% | ~1,012 |
 | Keeping it classy | 26.00% | ~526 |
 | Welcome to the family | 18.00% | ~364 |
 | The finer things in life | 17.00% | ~344 |
@@ -26,7 +26,6 @@ Number of Ratings: 111  (23.09.2022)
 | Bottom ply killer | 5.00% | ~101 |
 | Fulfilled the dream | 5.00% | ~101 |
 | Globetrotter | 5.00% | ~101 |
-| Laid back | 5.00% | ~101 |
 | NAHELL! | 5.00% | ~101 |
 | Purple passion | 5.00% | ~101 |
 | Squad goals | 5.00% | ~101 |
@@ -35,6 +34,7 @@ Number of Ratings: 111  (23.09.2022)
 | Cops called! | 4.00% | ~81 |
 | DIY Boss | 4.00% | ~81 |
 | G.O.A.T. status | 4.00% | ~81 |
+| Laid back | 4.00% | ~81 |
 | Lines for days | 4.00% | ~81 |
 | Manny Destroys All | 4.00% | ~81 |
 | Prince of Philly | 4.00% | ~81 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,022 (Ranked 145)  
+Progressed: 2,024 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-18 | 1,968 | 0 |
 | 2023-05-19 | 1,992 | 0 |
 | 2023-05-20 | 2,009 | 0 |
-| 2023-05-21 | 2,022 | 0 |
+| 2023-05-21 | 2,024 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 392)  
 Sum: 414 (Ranked 300)  

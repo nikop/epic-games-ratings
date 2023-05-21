@@ -26,21 +26,21 @@ Rating: 4.55 (Ranked 468)
 | Power Outage | 0.90% | ~19 |
 | Access Granted | 0.90% | ~19 |
 | Necessary Enhancement | 0.90% | ~19 |
-| From the Past | 0.80% | ~16 |
+| From the Past | 0.80% | ~17 |
 | Sightseeing | 0.70% | ~14 |
 | Man's Best Friend | 0.60% | ~12 |
+| In Dolos We Trust | 0.60% | ~12 |
 | Oats | 0.50% | ~10 |
 | ...  in a finite world | 0.50% | ~10 |
-| In Dolos We Trust | 0.50% | ~10 |
 | Delivery! | 0.50% | ~10 |
 | BRAWL! | 0.50% | ~10 |
 | All in Good Health | 0.50% | ~10 |
 | What They Hide From Us | 0.40% | ~8 |
+| Sustainable Energy | 0.40% | ~8 |
 | Praise the Hull! | 0.40% | ~8 |
 | You Had One Job... | 0.40% | ~8 |
 | What the Ruins Teach Us | 0.40% | ~8 |
 | Pulsar Disciple | 0.40% | ~8 |
-| Sustainable Energy | 0.30% | ~6 |
 | Space Greenhouse | 0.30% | ~6 |
 | Pedal to the Metal | 0.30% | ~6 |
 | Mutual Loyalty | 0.20% | ~4 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 468)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,062 (Ranked 143)  
+Progressed: 2,063 (Ranked 143)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-18 | 1,926 | 0 |
 | 2023-05-19 | 1,969 | 0 |
 | 2023-05-20 | 2,021 | 0 |
-| 2023-05-21 | 2,062 | 0 |
+| 2023-05-21 | 2,063 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

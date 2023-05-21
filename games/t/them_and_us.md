@@ -17,8 +17,8 @@
 | Alone In The Dark | 8.00% | ~9 |
 | The Cultists | 8.00% | ~9 |
 | The Forgotten Tower | 6.00% | ~7 |
+| Lover of classics | 5.00% | ~6 |
 | Rest In Peace | 5.00% | ~6 |
-| Lover of classics | 4.00% | ~5 |
 | Modern Player | 4.00% | ~5 |
 | The bus stop | 4.00% | ~5 |
 | The Curse Is Real | 4.00% | ~5 |

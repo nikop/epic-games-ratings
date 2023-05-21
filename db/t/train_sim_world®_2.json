@@ -2,12 +2,12 @@
   "ID": "d8d8b399f3d14ac2b9b75870329a68dd",
   "Name": "Train Sim World\u00AE 2",
   "ProductSlug": "train-sim-world-2",
-  "Ranking_Rating": 646,
+  "Ranking_Rating": 647,
   "Ranking_Popularity": 179,
   "Ranking_PopularitySum": 130,
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": null,
@@ -2309,6 +2309,6 @@
   "FirstSeen": "2022-07-22T20:17:00.3136154+00:00",
   "LastChanged": "2023-05-20T19:57:08.4037105+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.564688+00:00",
-  "LastUpdate_Ratings": "2023-05-21T21:57:06.5588501+00:00",
-  "LastUpdate_Achievements": "2023-05-21T22:04:05.9791949+00:00"
+  "LastUpdate_Ratings": "2023-05-21T22:57:09.5465746+00:00",
+  "LastUpdate_Achievements": "2023-05-21T23:04:21.3427072+00:00"
 }

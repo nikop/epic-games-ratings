@@ -310,9 +310,9 @@
       "ID": "sore_loser",
       "SetID": "c4ipj3h",
       "Name": "Sore Loser",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "we_go_again",
@@ -335,8 +335,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-05-21T22:05:44.7127156+00:00",
+  "LastChanged_Achievements": "2023-05-21T23:06:00.8197338+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:42.8167872+00:00",
-  "LastUpdate_Ratings": "2023-05-21T21:58:09.6319707+00:00",
-  "LastUpdate_Achievements": "2023-05-21T22:05:44.7127258+00:00"
+  "LastUpdate_Ratings": "2023-05-21T22:58:13.9276053+00:00",
+  "LastUpdate_Achievements": "2023-05-21T23:06:00.8197439+00:00"
 }

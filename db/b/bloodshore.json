@@ -4,8 +4,8 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
     "PcReleaseDate": "2021-11-03T17:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 147,
+  "EOS_Progressed": 148,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.04,
+  "EOS_Completed_Percentage": 2.03,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:37.2601776+00:00",
@@ -87,6 +87,11 @@
       "Time": "2023-05-21T15:06:22.3304919+00:00",
       "NumProgressed": 147,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-21T23:06:27.7701512+00:00",
+      "NumProgressed": 148,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 17,
@@ -96,9 +101,9 @@
       "ID": "bromance",
       "SetID": "84ad177",
       "Name": "Bromance",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "comedy_killer",
@@ -138,7 +143,7 @@
       "Name": "A leader, you are not",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "lootaphilia",
@@ -146,15 +151,15 @@
       "Name": "Lootaphilia",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "maybe_you_should_give_it_another_go",
       "SetID": "84ad177",
       "Name": "Maybe you should give it another go",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "mikey_lizard",
@@ -176,9 +181,9 @@
       "ID": "super_seducer",
       "SetID": "84ad177",
       "Name": "Super Seducer",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 76
+      "UsersEstimate": 75
     },
     {
       "ID": "superstar_crossed_lovers",
@@ -186,7 +191,7 @@
       "Name": "Superstar-crossed lovers",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "thats_my_boy",
@@ -218,7 +223,7 @@
       "Name": "Um, ok...",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "used_to_think_i_was_indecisive",
@@ -233,7 +238,7 @@
     {
       "ID": "84ad177",
       "IsBase": true,
-      "Progressed": 147,
+      "Progressed": 148,
       "Completed": 3
     }
   ],
@@ -241,8 +246,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-05-21T22:06:11.3865854+00:00",
+  "LastChanged_Achievements": "2023-05-21T23:06:27.7701507+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:09:48.2887695+00:00",
-  "LastUpdate_Ratings": "2023-05-21T22:00:17.4751302+00:00",
-  "LastUpdate_Achievements": "2023-05-21T22:06:11.3866024+00:00"
+  "LastUpdate_Ratings": "2023-05-21T23:00:20.2250265+00:00",
+  "LastUpdate_Achievements": "2023-05-21T23:06:27.7701606+00:00"
 }

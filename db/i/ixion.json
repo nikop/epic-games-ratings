@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -182,7 +182,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2062,
+  "EOS_Progressed": 2063,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
@@ -1057,6 +1057,11 @@
       "Time": "2023-05-21T22:05:45.7766137+00:00",
       "NumProgressed": 2062,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T23:06:02.0711734+00:00",
+      "NumProgressed": 2063,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -1162,9 +1167,9 @@
       "ID": "ACH_BASE_22",
       "SetID": "92iocjf",
       "Name": "Sustainable Energy",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_BASE_23",
@@ -1210,9 +1215,9 @@
       "ID": "ACH_BASE_28",
       "SetID": "92iocjf",
       "Name": "In Dolos We Trust",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_BASE_29",
@@ -1500,7 +1505,7 @@
       "Name": "From the Past",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_BASE_8",
@@ -1523,13 +1528,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 243,
+      "Progressed": 244,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2062,
+      "Progressed": 2063,
       "Completed": 0
     }
   ],
@@ -1537,8 +1542,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-05-13T22:58:30.2604361+00:00",
-  "LastChanged_Achievements": "2023-05-21T22:05:45.7766131+00:00",
+  "LastChanged_Achievements": "2023-05-21T23:06:02.0711729+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.7103468+00:00",
-  "LastUpdate_Ratings": "2023-05-21T21:58:29.274236+00:00",
-  "LastUpdate_Achievements": "2023-05-21T22:05:45.7766633+00:00"
+  "LastUpdate_Ratings": "2023-05-21T22:58:34.1716223+00:00",
+  "LastUpdate_Achievements": "2023-05-21T23:06:02.0712208+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 20,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1364,
+  "EOS_Progressed": 1365,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 7.77,
   "EosHistory": [
@@ -1473,6 +1473,11 @@
       "Time": "2023-05-21T22:06:00.1675393+00:00",
       "NumProgressed": 1364,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-05-21T23:06:16.5023426+00:00",
+      "NumProgressed": 1365,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 12,
@@ -1500,7 +1505,7 @@
       "Name": "Building the Fox",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "Green Ticket Roundup",
@@ -1548,7 +1553,7 @@
       "Name": "Little Helper",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -1564,7 +1569,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "Nuremberg Laws",
@@ -1579,7 +1584,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1364,
+      "Progressed": 1365,
       "Completed": 106
     }
   ],
@@ -1587,8 +1592,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-21T22:06:00.1675388+00:00",
+  "LastChanged_Achievements": "2023-05-21T23:06:16.5023421+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:11.427731+00:00",
-  "LastUpdate_Ratings": "2023-05-21T21:59:50.7347037+00:00",
-  "LastUpdate_Achievements": "2023-05-21T22:06:00.1675527+00:00"
+  "LastUpdate_Ratings": "2023-05-21T22:59:54.7288724+00:00",
+  "LastUpdate_Achievements": "2023-05-21T23:06:16.5023564+00:00"
 }

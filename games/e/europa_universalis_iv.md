@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,735 |
-| That's a Grand Army | 8.00% | ~3,320 |
-| That is mine! | 8.00% | ~3,320 |
-| Victorious! | 8.00% | ~3,320 |
-| Brothers in Arms | 6.00% | ~2,490 |
-| That's a Grand Navy | 6.00% | ~2,490 |
-| Seriously?! | 6.00% | ~2,490 |
-| For the Glory | 5.00% | ~2,075 |
-| Cold War | 4.00% | ~1,660 |
-| True Catholic | 4.00% | ~1,660 |
-| Defender of the Faith | 3.00% | ~1,245 |
-| It's all about the money | 3.00% | ~1,245 |
-| Respected | 3.00% | ~1,245 |
-| Truly Divine Ruler | 3.00% | ~1,245 |
+| Until death do us apart | 9.00% | ~3,737 |
+| That's a Grand Army | 8.00% | ~3,322 |
+| That is mine! | 8.00% | ~3,322 |
+| Victorious! | 8.00% | ~3,322 |
+| Brothers in Arms | 6.00% | ~2,492 |
+| That's a Grand Navy | 6.00% | ~2,492 |
+| Seriously?! | 6.00% | ~2,492 |
+| For the Glory | 5.00% | ~2,076 |
+| Cold War | 4.00% | ~1,661 |
+| True Catholic | 4.00% | ~1,661 |
+| Defender of the Faith | 3.00% | ~1,246 |
+| It's all about the money | 3.00% | ~1,246 |
+| Respected | 3.00% | ~1,246 |
+| Truly Divine Ruler | 3.00% | ~1,246 |
 | Blockader | 2.00% | ~830 |
 | Combined Arms | 2.00% | ~830 |
 | Double the Love | 2.00% | ~830 |
@@ -42,7 +42,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Isn't this the way to India? | 0.80% | ~332 |
 | Market Control | 0.80% | ~332 |
 | This navy can take it all | 0.80% | ~332 |
-| Down Under | 0.70% | ~290 |
+| Down Under | 0.70% | ~291 |
 | Electable! | 0.60% | ~249 |
 | Time Bandit | 0.60% | ~249 |
 | Trustworthy | 0.60% | ~249 |
@@ -61,20 +61,20 @@ Number of Ratings: 8,414  (23.09.2022)
 | This is My Faith | 0.40% | ~166 |
 | Trophy Hunter | 0.40% | ~166 |
 | Voting Streak | 0.40% | ~166 |
-| All Your Trade Are Belong to Us | 0.30% | ~124 |
-| Bleed Them Dry | 0.30% | ~124 |
-| Four For Trade | 0.30% | ~124 |
-| Global Hegemony | 0.30% | ~124 |
-| Grand Coalition | 0.30% | ~124 |
-| Grand Duchy | 0.30% | ~124 |
-| Italian Ambition | 0.30% | ~124 |
-| Just a Little Patience | 0.30% | ~124 |
-| No Pirates in my Caribbean | 0.30% | ~124 |
-| One Night in Paris | 0.30% | ~124 |
-| Tear Down This Wall | 0.30% | ~124 |
-| Three Trivial Tributary Tribes | 0.30% | ~124 |
-| Traditional Player | 0.30% | ~124 |
-| Wonderful | 0.30% | ~124 |
+| All Your Trade Are Belong to Us | 0.30% | ~125 |
+| Bleed Them Dry | 0.30% | ~125 |
+| Four For Trade | 0.30% | ~125 |
+| Global Hegemony | 0.30% | ~125 |
+| Grand Coalition | 0.30% | ~125 |
+| Grand Duchy | 0.30% | ~125 |
+| Italian Ambition | 0.30% | ~125 |
+| Just a Little Patience | 0.30% | ~125 |
+| No Pirates in my Caribbean | 0.30% | ~125 |
+| One Night in Paris | 0.30% | ~125 |
+| Tear Down This Wall | 0.30% | ~125 |
+| Three Trivial Tributary Tribes | 0.30% | ~125 |
+| Traditional Player | 0.30% | ~125 |
+| Wonderful | 0.30% | ~125 |
 | A Decent Reserve | 0.20% | ~83 |
 | A Pile of Gold | 0.20% | ~83 |
 | A Protected Market | 0.20% | ~83 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,500 (Ranked 80)  
+Progressed: 41,525 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -392,10 +392,10 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-18 | 39,222 | 0 |
 | 2023-05-19 | 39,979 | 0 |
 | 2023-05-20 | 40,736 | 0 |
-| 2023-05-21 | 41,500 | 0 |
+| 2023-05-21 | 41,525 | 0 |
 ## Awards
 Max (Educational): 5,264  (Ranked 60)  
-Sum: 43,585 (Ranked 27)  
+Sum: 43,591 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -407,7 +407,7 @@ Diff (max vs sum): 33
 | This game is Relaxing | 4,904 |
 | This game has Competitive Players | 4,735 |
 | This game has Amazing Storytelling | 4,492 |
-| This game has Amazing Characters | 4,149 |
+| This game has Amazing Characters | 4,155 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -536,4 +536,4 @@ Diff (max vs sum): 33
 | 2023-05-18 | 4.68 | - | 5,232 | 43,381 |
 | 2023-05-19 | 4.68 | - | 5,242 | 43,472 |
 | 2023-05-20 | 4.68 | - | 5,255 | 43,550 |
-| 2023-05-21 | 4.68 | - | 5,264 | 43,585 |
+| 2023-05-21 | 4.68 | - | 5,264 | 43,591 |

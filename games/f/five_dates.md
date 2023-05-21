@@ -16,7 +16,7 @@
 | Planting the Seed | 21.00% | ~77 |
 | Light Sleepers | 17.00% | ~62 |
 | Smooth Criminal | 8.00% | ~29 |
-| Sore Loser | 7.00% | ~26 |
+| Sore Loser | 8.00% | ~29 |
 | Interrogation | 4.00% | ~15 |
 | Crash and Burn | 2.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
