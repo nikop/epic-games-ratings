@@ -7,7 +7,7 @@
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 21.21% |
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.55% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 8 | [Island Cities](games/i/island_cities.md) | 17.29% |
+| 8 | [Island Cities](games/i/island_cities.md) | 16.91% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 10 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
 | 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.50% |
@@ -19,15 +19,15 @@
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.18% |
 | 18 | [Time Loader](games/t/time_loader.md) | 8.08% |
 | 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.88% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.78% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.77% |
 | 21 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 7.69% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
 | 23 | [Scorn](games/s/scorn.md) | 6.96% |
 | 24 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.90% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 6.44% |
+| 26 | [Ravenlok](games/r/ravenlok.md) | 6.42% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
-| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.76% |
+| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.71% |
 | 29 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.50% |
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.91% |
 | 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.90% |
@@ -58,8 +58,8 @@
 | 56 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.50% |
 | 56 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [JARS](games/j/jars.md) | 2.44% |
-| 59 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.38% |
-| 60 | [Iron Danger](games/i/iron_danger.md) | 2.35% |
+| 59 | [Iron Danger](games/i/iron_danger.md) | 2.35% |
+| 60 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.33% |
 | 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.16% |
 | 62 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.11% |
 | 63 | [Bloodshore](games/b/bloodshore.md) | 2.04% |
@@ -104,9 +104,9 @@
 | 102 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.65% |
 | 103 | [The Surge 2](games/t/the_surge_2.md) | 0.63% |
 | 104 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.59% |
+| 105 | [Ghostrunner](games/g/ghostrunner.md) | 0.51% |
 | 105 | [Grindstone](games/g/grindstone.md) | 0.51% |
-| 106 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.50% |
-| 107 | [Ghostrunner](games/g/ghostrunner.md) | 0.49% |
+| 107 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.50% |
 | 108 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.48% |
 | 109 | [Aragami 2](games/a/aragami_2.md) | 0.47% |
 | 110 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
@@ -150,10 +150,10 @@
 | 146 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
 | 149 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
 | 149 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
-| 151 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.14% |
 | 151 | [Isonzo](games/i/isonzo.md) | 0.14% |
 | 151 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
-| 154 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.13% |
+| 153 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.13% |
+| 153 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.13% |
 | 155 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 156 | [Partisans 1941](games/p/partisans_1941.md) | 0.11% |
 | 156 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
