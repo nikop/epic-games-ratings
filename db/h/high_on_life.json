@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -208,9 +208,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22679,
+  "EOS_Progressed": 22680,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -748,6 +748,11 @@
       "Time": "2023-05-20T19:04:12.4130588+00:00",
       "NumProgressed": 22679,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-21T04:03:47.5287204+00:00",
+      "NumProgressed": 22680,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -775,7 +780,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 17463
+      "UsersEstimate": 17464
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -813,9 +818,9 @@
       "ID": "ACH_GET_JETPACK",
       "SetID": "cdkbb11",
       "Name": "Are You Packin\u0027?",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 5443
+      "UsersEstimate": 5670
     },
     {
       "ID": "ACH_GET_KNIFEY",
@@ -823,7 +828,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 17236
+      "UsersEstimate": 17237
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -879,7 +884,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 12927
+      "UsersEstimate": 12928
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -911,7 +916,7 @@
       "Name": "Hardest Battle In The Game",
       "Percentage": 22,
       "XP": 45,
-      "UsersEstimate": 4989
+      "UsersEstimate": 4990
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -967,7 +972,7 @@
       "Name": "We Paid For The Rights To Put A Whole Movie In Here",
       "Percentage": 12,
       "XP": 45,
-      "UsersEstimate": 2721
+      "UsersEstimate": 2722
     },
     {
       "ID": "ACH_NARR_WARPBASES",
@@ -1007,14 +1012,14 @@
       "Name": "Series Wrap on Suit-O",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 4989
+      "UsersEstimate": 4990
     }
   ],
   "AchievementSets": [
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22679,
+      "Progressed": 22680,
       "Completed": 8
     }
   ],
@@ -1022,8 +1027,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-05-18T06:57:32.9581513+00:00",
-  "LastChanged_Achievements": "2023-05-21T03:04:13.0657654+00:00",
+  "LastChanged_Achievements": "2023-05-21T04:03:47.52872+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:35.4420325+00:00",
-  "LastUpdate_Ratings": "2023-05-21T02:58:15.8238102+00:00",
-  "LastUpdate_Achievements": "2023-05-21T03:04:13.0657981+00:00"
+  "LastUpdate_Ratings": "2023-05-21T03:58:02.8773002+00:00",
+  "LastUpdate_Achievements": "2023-05-21T04:03:47.5287488+00:00"
 }

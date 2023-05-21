@@ -18,11 +18,11 @@
 | Goodbye Tieng Valley | 12.00% | ~95 |
 | Shrine Arriver | 12.00% | ~95 |
 | The End | 12.00% | ~95 |
+| Graffiti Artist | 9.00% | ~71 |
 | Love Uncoverer | 9.00% | ~71 |
-| Graffiti Artist | 8.00% | ~63 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 790 (Ranked 173)  
-Completed: 31 (3.92%) (Ranked 34)  
+Completed: 31 (3.92%) (Ranked 35)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

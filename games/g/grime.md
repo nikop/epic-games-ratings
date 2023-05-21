@@ -6,8 +6,8 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Imprint | 21.00% | ~115 |
-| Taste | 20.00% | ~110 |
+| Taste | 21.00% | ~116 |
+| Imprint | 21.00% | ~116 |
 | Ravenous | 19.00% | ~104 |
 | The Hunt | 18.00% | ~99 |
 | Weeper | 16.00% | ~88 |
@@ -17,23 +17,23 @@ Number of Ratings: 46  (23.09.2022)
 | Glare | 10.00% | ~13 |
 | Silenced Whispers | 10.00% | ~55 |
 | Yank | 10.00% | ~55 |
-| Feast | 9.00% | ~49 |
-| Sharpened Vessel | 9.00% | ~49 |
+| Feast | 9.00% | ~50 |
+| Sharpened Vessel | 9.00% | ~50 |
 | Shapely | 8.00% | ~44 |
 | Host | 8.00% | ~11 |
 | Jawcrab | 8.00% | ~44 |
 | Jawstag | 8.00% | ~44 |
-| Celebration | 7.00% | ~38 |
-| Inevitable | 7.00% | ~38 |
-| Predator | 7.00% | ~38 |
+| Celebration | 7.00% | ~39 |
+| Inevitable | 7.00% | ~39 |
+| Predator | 7.00% | ~39 |
 | Assimilation | 6.00% | ~33 |
 | Watcher | 6.00% | ~33 |
 | Dream | 6.00% | ~8 |
-| Hunt Down | 5.00% | ~27 |
-| Artisan | 5.00% | ~27 |
-| Hush | 5.00% | ~27 |
-| All-Seeing | 5.00% | ~27 |
-| Passage | 5.00% | ~27 |
+| Hunt Down | 5.00% | ~28 |
+| Artisan | 5.00% | ~28 |
+| Hush | 5.00% | ~28 |
+| All-Seeing | 5.00% | ~28 |
+| Passage | 5.00% | ~28 |
 | Kin | 5.00% | ~7 |
 | Kinship | 4.00% | ~22 |
 | Unwrap the Gift | 4.00% | ~22 |
@@ -43,13 +43,13 @@ Number of Ratings: 46  (23.09.2022)
 | Listen | 3.00% | ~4 |
 | Proportions | 3.00% | ~16 |
 | Breath | 2.00% | ~11 |
-| Skinmaker | 1.00% | ~5 |
+| Skinmaker | 1.00% | ~6 |
 | Zygote | 1.00% | ~1 |
-| Generous | 1.00% | ~5 |
+| Generous | 1.00% | ~6 |
 | Instruments | 0.90% | ~5 |
 | Spiral Heart | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 549 (Ranked 190)  
+Progressed: 550 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,6 +73,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-18 | 544 | 0 |
 | 2023-05-19 | 545 | 0 |
 | 2023-05-20 | 549 | 0 |
+| 2023-05-21 | 550 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -318,9 +318,9 @@
       "Count": 73
     }
   ],
-  "EOS_Progressed": 226638,
+  "EOS_Progressed": 226643,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1549,
+  "EOS_NewPlayers": 1544,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3288,6 +3288,11 @@
       "Time": "2023-05-21T03:06:31.8168576+00:00",
       "NumProgressed": 226638,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-21T04:05:45.6446983+00:00",
+      "NumProgressed": 226643,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 52,
@@ -3299,7 +3304,7 @@
       "Name": "Powergamer",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58926
+      "UsersEstimate": 58927
     },
     {
       "ID": "ACH_AON",
@@ -3339,7 +3344,7 @@
       "Name": "Collector",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 24930
+      "UsersEstimate": 24931
     },
     {
       "ID": "ACH_ENJOY",
@@ -3443,7 +3448,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 63459
+      "UsersEstimate": 63460
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -3459,7 +3464,7 @@
       "Name": "It\u0027s blue, always blue",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 1586
+      "UsersEstimate": 1587
     },
     {
       "ID": "ACH_KACHING",
@@ -3515,7 +3520,7 @@
       "Name": "Write that down",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 54393
+      "UsersEstimate": 54394
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -3579,7 +3584,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13598
+      "UsersEstimate": 13599
     },
     {
       "ID": "ACH_MEMORY5",
@@ -3619,7 +3624,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 56660
+      "UsersEstimate": 56661
     },
     {
       "ID": "ACH_SOREAD",
@@ -3714,7 +3719,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 226638,
+      "Progressed": 226643,
       "Completed": 5
     }
   ],
@@ -3722,8 +3727,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-05-20T11:57:54.4535936+00:00",
-  "LastChanged_Achievements": "2023-05-21T03:06:31.8168572+00:00",
+  "LastChanged_Achievements": "2023-05-21T04:05:45.6446977+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.4406943+00:00",
-  "LastUpdate_Ratings": "2023-05-21T02:58:12.5908273+00:00",
-  "LastUpdate_Achievements": "2023-05-21T03:06:31.8169201+00:00"
+  "LastUpdate_Ratings": "2023-05-21T03:58:00.1694029+00:00",
+  "LastUpdate_Achievements": "2023-05-21T04:05:45.6447727+00:00"
 }

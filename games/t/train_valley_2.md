@@ -24,6 +24,7 @@ Number of Ratings: 87  (23.09.2022)
 | Non-Stop | 3.00% | ~21 |
 | Pink Ruby | 3.00% | ~2 |
 | Star Sapphire | 3.00% | ~2 |
+| Steam Age | 3.00% | ~21 |
 | Trapiche Emerald | 3.00% | ~2 |
 | Upgrade complete | 3.00% | ~21 |
 | Beginner | 2.00% | ~14 |
@@ -31,7 +32,6 @@ Number of Ratings: 87  (23.09.2022)
 | Critical care | 2.00% | ~14 |
 | One way | 2.00% | ~14 |
 | Overseer | 2.00% | ~14 |
-| Steam Age | 2.00% | ~14 |
 | The Tortoise | 2.00% | ~14 |
 | Without a lunch break | 2.00% | ~14 |
 | Bridge builder | 1.00% | ~7 |

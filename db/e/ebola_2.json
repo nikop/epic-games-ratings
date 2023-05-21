@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
     "PcReleaseDate": "2020-12-20T03:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 184,
+  "EOS_Progressed": 185,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -636,6 +636,11 @@
       "Time": "2023-05-21T00:04:07.8529583+00:00",
       "NumProgressed": 184,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T04:04:00.2313872+00:00",
+      "NumProgressed": 185,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -735,7 +740,7 @@
       "Name": "Recluse \u2714",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "achMeat",
@@ -743,7 +748,7 @@
       "Name": "Scent of Meat \u2714",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achSaveses",
@@ -765,9 +770,9 @@
       "ID": "achStatue",
       "SetID": "1al1mjg",
       "Name": "Statue \u2714",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 115
     },
     {
       "ID": "achVirus",
@@ -790,14 +795,14 @@
     {
       "ID": "1al1mjg",
       "IsBase": true,
-      "Progressed": 184,
+      "Progressed": 185,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-05-21T03:04:28.1281724+00:00",
+  "LastChanged_Achievements": "2023-05-21T04:04:00.2313865+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:00.6189303+00:00",
-  "LastUpdate_Ratings": "2023-05-21T02:57:16.0041479+00:00",
-  "LastUpdate_Achievements": "2023-05-21T03:04:28.1281928+00:00"
+  "LastUpdate_Ratings": "2023-05-21T03:57:13.2521986+00:00",
+  "LastUpdate_Achievements": "2023-05-21T04:04:00.2314029+00:00"
 }

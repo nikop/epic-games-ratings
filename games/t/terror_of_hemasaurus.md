@@ -10,8 +10,8 @@
 | Chopper Stopper | 43.00% | ~19 |
 | Test of Faith | 39.00% | ~17 |
 | Aerosolized | 36.00% | ~16 |
+| Reign of Terror | 30.00% | ~13 |
 | Monstrosity Atrocity | 30.00% | ~13 |
-| Reign of Terror | 27.00% | ~12 |
 | Crushing All Cars | 23.00% | ~10 |
 | Horror Show | 18.00% | ~8 |
 | Brain Chopper | 16.00% | ~7 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -382,9 +382,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 249247,
+  "EOS_Progressed": 249250,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 624,
+  "EOS_NewPlayers": 623,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3267,6 +3267,11 @@
       "Time": "2023-05-21T03:07:06.2224367+00:00",
       "NumProgressed": 249247,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-21T04:06:15.942458+00:00",
+      "NumProgressed": 249250,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -3278,7 +3283,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17447
+      "UsersEstimate": 17448
     },
     {
       "ID": "Act2",
@@ -3326,7 +3331,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 77267
+      "UsersEstimate": 77268
     },
     {
       "ID": "BackHomeNTimes",
@@ -3396,9 +3401,9 @@
       "ID": "CreditLevel3",
       "SetID": "3l9dm1h",
       "Name": "Fixer III",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 498
+      "UsersEstimate": 748
     },
     {
       "ID": "CreedsInBank1",
@@ -3510,7 +3515,7 @@
       "Name": "Interior designer",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 1495
+      "UsersEstimate": 1496
     },
     {
       "ID": "KillCrawlingThing",
@@ -3550,7 +3555,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7477
+      "UsersEstimate": 7478
     },
     {
       "ID": "KillOtherWithMine",
@@ -3566,7 +3571,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54834
+      "UsersEstimate": 54835
     },
     {
       "ID": "KillOthers2",
@@ -3725,7 +3730,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 249247,
+      "Progressed": 249250,
       "Completed": 1
     }
   ],
@@ -3733,8 +3738,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-05-19T19:18:19.7844051+00:00",
-  "LastChanged_Achievements": "2023-05-21T03:07:06.2224361+00:00",
+  "LastChanged_Achievements": "2023-05-21T04:06:15.9424576+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:18.7976266+00:00",
-  "LastUpdate_Ratings": "2023-05-21T03:01:02.284856+00:00",
-  "LastUpdate_Achievements": "2023-05-21T03:07:06.2225133+00:00"
+  "LastUpdate_Ratings": "2023-05-21T04:00:26.7104073+00:00",
+  "LastUpdate_Achievements": "2023-05-21T04:06:15.9425376+00:00"
 }

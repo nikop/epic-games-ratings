@@ -5,28 +5,28 @@ Rating: 3.75 (Ranked 918)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,049 |
-| World Map | 80.00% | ~893 |
-| Temple of Eternals | 56.00% | ~625 |
-| Prestigious | 52.00% | ~580 |
-| Fellowship Power | 40.00% | ~446 |
+| Victor | 94.00% | ~1,050 |
+| World Map | 80.00% | ~894 |
+| Temple of Eternals | 56.00% | ~626 |
+| Prestigious | 52.00% | ~581 |
+| Fellowship Power | 40.00% | ~447 |
 | Guild Power | 24.00% | ~268 |
-| Prestigious x10 | 21.00% | ~234 |
+| Prestigious x10 | 21.00% | ~235 |
 | The game is on | 18.00% | ~201 |
-| Dragon Clicker | 16.00% | ~179 |
 | Exotic Merchant | 16.00% | ~179 |
-| Miner Clicker | 15.00% | ~167 |
+| Dragon Clicker | 15.00% | ~168 |
+| Miner Clicker | 15.00% | ~168 |
 | Inspection | 14.00% | ~156 |
 | Full Party | 13.00% | ~145 |
 | Hero inspection | 13.00% | ~145 |
 | Dragon Master | 11.00% | ~123 |
 | Enlightenment | 10.00% | ~112 |
 | Lieutenant | 10.00% | ~112 |
-| Milestone collector | 9.00% | ~100 |
-| Mysterious Rock | 9.00% | ~100 |
-| Natural Talent | 9.00% | ~100 |
-| Superior | 9.00% | ~100 |
-| The Unstoppable | 9.00% | ~100 |
+| Milestone collector | 9.00% | ~101 |
+| Mysterious Rock | 9.00% | ~101 |
+| Natural Talent | 9.00% | ~101 |
+| Superior | 9.00% | ~101 |
+| The Unstoppable | 9.00% | ~101 |
 | Scientist | 7.00% | ~78 |
 | Challenger | 6.00% | ~67 |
 | Daily Quest Completionist | 6.00% | ~67 |
@@ -37,13 +37,13 @@ Rating: 3.75 (Ranked 918)
 | Mastery | 4.00% | ~45 |
 | Moving Up The Ladder | 4.00% | ~45 |
 | The Expeditioner | 4.00% | ~45 |
-| Ancient Knowledge | 3.00% | ~33 |
-| Background Story | 3.00% | ~33 |
-| Doing My Part | 3.00% | ~33 |
-| Here We Go Again | 3.00% | ~33 |
-| How Do You Turn This On? | 3.00% | ~33 |
-| Missions Dedication | 3.00% | ~33 |
-| The father of Dragons | 3.00% | ~33 |
+| Ancient Knowledge | 3.00% | ~34 |
+| Background Story | 3.00% | ~34 |
+| Doing My Part | 3.00% | ~34 |
+| Here We Go Again | 3.00% | ~34 |
+| How Do You Turn This On? | 3.00% | ~34 |
+| Missions Dedication | 3.00% | ~34 |
+| The father of Dragons | 3.00% | ~34 |
 | Dragon Slayer | 2.00% | ~22 |
 | Engineer Mastery | 2.00% | ~22 |
 | Master Enchanter | 2.00% | ~22 |
@@ -81,7 +81,7 @@ Rating: 3.75 (Ranked 918)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,116 (Ranked 160)  
+Progressed: 1,117 (Ranked 160)  
 Completed: 1 (0.09%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 1 (0.09%) (Ranked 163)
 | 2023-05-18 | 1,076 | 1 |
 | 2023-05-19 | 1,090 | 1 |
 | 2023-05-20 | 1,114 | 1 |
-| 2023-05-21 | 1,116 | 1 |
+| 2023-05-21 | 1,117 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

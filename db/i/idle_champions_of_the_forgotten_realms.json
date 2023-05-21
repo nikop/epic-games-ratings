@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3838,10 +3838,10 @@
       "Count": 3238
     }
   ],
-  "EOS_Progressed": 88145,
+  "EOS_Progressed": 88148,
   "EOS_Completed": 1855,
-  "EOS_NewPlayers": 709,
-  "EOS_NewCompleters": 19,
+  "EOS_NewPlayers": 708,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 2.1,
   "EosHistory": [
     {
@@ -6737,6 +6737,11 @@
     {
       "Time": "2023-05-21T03:07:11.5055447+00:00",
       "NumProgressed": 88145,
+      "NumCompleted": 1855
+    },
+    {
+      "Time": "2023-05-21T04:06:20.8104682+00:00",
+      "NumProgressed": 88148,
       "NumCompleted": 1855
     }
   ],
@@ -10667,9 +10672,9 @@
       "ID": "objective_completed_1356",
       "SetID": "415jc5c",
       "Name": "Coasting to the Finish",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 163
     },
     {
       "ID": "objective_completed_1360",
@@ -10692,21 +10697,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54419,
+      "Progressed": 54422,
       "Completed": 2628
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88145,
+      "Progressed": 88148,
       "Completed": 1855
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-21T02:04:23.2407755+00:00",
-  "LastChanged_Achievements": "2023-05-21T03:07:11.505544+00:00",
+  "LastChanged_Achievements": "2023-05-21T04:06:20.8104676+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-21T02:58:18.9373917+00:00",
-  "LastUpdate_Achievements": "2023-05-21T03:07:11.5083421+00:00"
+  "LastUpdate_Ratings": "2023-05-21T03:58:05.7717172+00:00",
+  "LastUpdate_Achievements": "2023-05-21T04:06:20.8133633+00:00"
 }

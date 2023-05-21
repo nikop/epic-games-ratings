@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 549,
+  "EOS_Progressed": 550,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -318,6 +318,11 @@
       "Time": "2023-05-20T19:06:37.3910973+00:00",
       "NumProgressed": 549,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T04:06:14.0805283+00:00",
+      "NumProgressed": 550,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -345,7 +350,7 @@
       "Name": "Skinmaker",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACQUIRE_ALLTRAITS",
@@ -391,9 +396,9 @@
       "ID": "ACQUIRE_TRAIT",
       "SetID": "ccc0dlh",
       "Name": "Taste",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 116
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -409,7 +414,7 @@
       "Name": "Hunt Down",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "DEFEAT_ARTISAN",
@@ -417,7 +422,7 @@
       "Name": "Artisan",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "DEFEAT_FIDUS",
@@ -457,7 +462,7 @@
       "Name": "Hush",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "DEFEAT_HARMLESSROCKGIANT",
@@ -489,7 +494,7 @@
       "Name": "Celebration",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -497,7 +502,7 @@
       "Name": "Inevitable",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "DEFEAT_VULTURE",
@@ -505,7 +510,7 @@
       "Name": "Feast",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -537,7 +542,7 @@
       "Name": "All-Seeing",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "MISC_ACTIVATESURROGATE",
@@ -545,7 +550,7 @@
       "Name": "Imprint",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -553,7 +558,7 @@
       "Name": "Predator",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "MISC_ENDING_PROPER",
@@ -593,7 +598,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -617,7 +622,7 @@
       "Name": "Passage",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "QUEST_CHILD",
@@ -633,7 +638,7 @@
       "Name": "Generous",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "QUEST_KIN",
@@ -664,21 +669,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 132,
+      "Progressed": 133,
       "Completed": 17
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 549,
+      "Progressed": 550,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-05-18T00:00:29.519029+00:00",
-  "LastChanged_Achievements": "2023-05-21T03:07:04.1321602+00:00",
+  "LastChanged_Achievements": "2023-05-21T04:06:14.0805279+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:40.5662436+00:00",
-  "LastUpdate_Ratings": "2023-05-21T03:01:18.827025+00:00",
-  "LastUpdate_Achievements": "2023-05-21T03:07:04.1322006+00:00"
+  "LastUpdate_Ratings": "2023-05-21T04:00:39.3253439+00:00",
+  "LastUpdate_Achievements": "2023-05-21T04:06:14.0805625+00:00"
 }

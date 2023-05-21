@@ -6,18 +6,18 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~63,459 |
-| Powergamer | 26.00% | ~58,926 |
-| Barely scratched the surface | 25.00% | ~56,660 |
-| Write that down | 24.00% | ~54,393 |
+| I will finish what you started | 28.00% | ~63,460 |
+| Powergamer | 26.00% | ~58,927 |
+| Barely scratched the surface | 25.00% | ~56,661 |
+| Write that down | 24.00% | ~54,394 |
 | Guns, lots of guns | 12.00% | ~27,197 |
-| Collector | 11.00% | ~24,930 |
+| Collector | 11.00% | ~24,931 |
 | Elementary! | 8.00% | ~18,131 |
 | Pumpkin Jack | 8.00% | ~18,131 |
 | Wake up! | 8.00% | ~18,131 |
 | It's honest work | 7.00% | ~15,865 |
 | Griever | 7.00% | ~15,865 |
-| Me smart | 6.00% | ~13,598 |
+| Me smart | 6.00% | ~13,599 |
 | Good listener | 5.00% | ~11,332 |
 | Trash compactor | 5.00% | ~11,332 |
 | Valedictorian | 5.00% | ~11,332 |
@@ -45,7 +45,7 @@ Number of Ratings: 33  (23.09.2022)
 | The power of three | 0.90% | ~2,040 |
 | Let's try another | 0.80% | ~1,813 |
 | Home run | 0.80% | ~1,813 |
-| It's blue, always blue | 0.70% | ~1,586 |
+| It's blue, always blue | 0.70% | ~1,587 |
 | I have the high ground | 0.60% | ~1,360 |
 | Who wouldn't love a troll? | 0.50% | ~1,133 |
 | Enjoy these little moments | 0.40% | ~907 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~453 |
 | Memory 5 | 0.10% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,638 (Ranked 42)  
+Progressed: 226,643 (Ranked 42)  
 Completed: 5 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 5 (0.00%) (Ranked 201)
 | 2023-05-18 | 226,113 | 5 |
 | 2023-05-19 | 226,334 | 5 |
 | 2023-05-20 | 226,607 | 5 |
-| 2023-05-21 | 226,638 | 5 |
+| 2023-05-21 | 226,643 | 5 |
 ## Awards
 Max (Character Customization): 73  (Ranked 357)  
 Sum: 73 (Ranked 416)  

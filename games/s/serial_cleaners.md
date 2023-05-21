@@ -9,9 +9,9 @@
 | Business as usual | 2.00% | ~3 |
 | Clean Conscience | 2.00% | ~3 |
 | Off to a Good Start | 1.00% | ~2 |
+| Pride and Joy | 1.00% | ~2 |
 | A New Broom Sweeps Clean | 1.00% | ~2 |
 | Mr. Hygeni | 1.00% | ~2 |
-| Pride and Joy | 0.60% | ~1 |
 | Eyes Yet To Open | 0.60% | ~1 |
 | The Crush And Smash The Dino Four | 0.60% | ~0 |
 | … Women Inherit The Earth | 0.60% | ~0 |

@@ -10,12 +10,12 @@
 | Great view from the beach and from the hill | 56.00% | ~68 |
 | Bridges to come and go | 50.00% | ~60 |
 | Found an oasis | 41.00% | ~50 |
-| Burger or pizza? | 36.00% | ~44 |
+| Burger or pizza? | 37.00% | ~45 |
 | Passion for sports | 33.00% | ~40 |
 | Who loves trains? | 30.00% | ~36 |
 | Easy and steady climb | 30.00% | ~36 |
-| At the heart of the city | 28.00% | ~34 |
-| Calm neighborhood | 26.00% | ~31 |
+| At the heart of the city | 29.00% | ~35 |
+| Calm neighborhood | 27.00% | ~33 |
 | Elevated ring | 26.00% | ~31 |
 | Not lonely anymore | 23.00% | ~28 |
 | Monumental tribute | 21.00% | ~25 |

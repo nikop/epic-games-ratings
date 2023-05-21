@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 45,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -117,9 +117,9 @@
       "ID": "CHAPTER2_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Pride and Joy",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CHAPTER3_COMPLETE",
@@ -292,8 +292,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-05-21T03:06:45.0283955+00:00",
+  "LastChanged_Achievements": "2023-05-21T04:05:57.1708044+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:32.2683704+00:00",
-  "LastUpdate_Ratings": "2023-05-21T02:59:46.7860034+00:00",
-  "LastUpdate_Achievements": "2023-05-21T03:06:45.0284172+00:00"
+  "LastUpdate_Ratings": "2023-05-21T03:59:20.1324269+00:00",
+  "LastUpdate_Achievements": "2023-05-21T04:05:57.1708222+00:00"
 }

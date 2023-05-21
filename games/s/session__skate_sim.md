@@ -6,7 +6,7 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 50.00% | ~1,005 |
+| You're free now! | 50.00% | ~1,006 |
 | Keeping it classy | 26.00% | ~523 |
 | Welcome to the family | 18.00% | ~362 |
 | The finer things in life | 17.00% | ~342 |
@@ -22,14 +22,14 @@ Number of Ratings: 111  (23.09.2022)
 | Finally he zips it | 6.00% | ~121 |
 | That pinch! | 6.00% | ~121 |
 | Tight lipslides | 6.00% | ~121 |
-| Bottom ply killer | 5.00% | ~100 |
-| Fulfilled the dream | 5.00% | ~100 |
-| G'Day Mate! | 5.00% | ~100 |
-| Globetrotter | 5.00% | ~100 |
-| NAHELL! | 5.00% | ~100 |
-| Purple passion | 5.00% | ~100 |
-| Squad goals | 5.00% | ~100 |
-| Sup widdit big dog! | 5.00% | ~100 |
+| Bottom ply killer | 5.00% | ~101 |
+| Fulfilled the dream | 5.00% | ~101 |
+| G'Day Mate! | 5.00% | ~101 |
+| Globetrotter | 5.00% | ~101 |
+| NAHELL! | 5.00% | ~101 |
+| Purple passion | 5.00% | ~101 |
+| Squad goals | 5.00% | ~101 |
+| Sup widdit big dog! | 5.00% | ~101 |
 | Commence the Hijinx! | 4.00% | ~80 |
 | Cops called! | 4.00% | ~80 |
 | DIY Boss | 4.00% | ~80 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,010 (Ranked 146)  
+Progressed: 2,012 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-18 | 1,968 | 0 |
 | 2023-05-19 | 1,992 | 0 |
 | 2023-05-20 | 2,009 | 0 |
-| 2023-05-21 | 2,010 | 0 |
+| 2023-05-21 | 2,012 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 392)  
 Sum: 414 (Ranked 300)  

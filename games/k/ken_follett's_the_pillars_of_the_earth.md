@@ -11,7 +11,7 @@ Number of Ratings: 368  (23.09.2022)
 | Friends of sorts | 35.00% | ~4,398 |
 | Yet another secret | 35.00% | ~4,398 |
 | Let there be darkness | 33.00% | ~4,147 |
-| End of Book One | 31.00% | ~3,895 |
+| End of Book One | 31.00% | ~3,896 |
 | Wannabe knight | 25.00% | ~3,142 |
 | Garden of Eden | 25.00% | ~3,142 |
 | Full house | 25.00% | ~3,142 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~377 |
 | Boy of mystery | 2.00% | ~251 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,566 (Ranked 103)  
+Progressed: 12,567 (Ranked 103)  
 Completed: 94 (0.75%) (Ranked 97)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 94 (0.75%) (Ranked 97)
 | 2023-05-18 | 12,511 | 94 |
 | 2023-05-19 | 12,527 | 94 |
 | 2023-05-20 | 12,562 | 94 |
-| 2023-05-21 | 12,566 | 94 |
+| 2023-05-21 | 12,567 | 94 |
 ## Awards
 Max (Easy Puzzles): 147  (Ranked 286)  
 Sum: 186 (Ranked 355)  

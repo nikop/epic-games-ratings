@@ -9,18 +9,18 @@ Rating: 4.55 (Ranked 468)
 | Infinite Growth... | 4.00% | ~81 |
 | Wakey Wakey | 4.00% | ~81 |
 | Sputnik 2049 | 4.00% | ~81 |
-| Guy de Borderlands | 2.00% | ~40 |
-| Space Society | 2.00% | ~40 |
-| A Thousand Strong | 2.00% | ~40 |
-| Ready for a New World | 2.00% | ~40 |
-| Breaking Protocol | 2.00% | ~40 |
-| Permanent Redesigns | 2.00% | ~40 |
-| Ain't Nobody Got Time for That | 2.00% | ~40 |
-| Hope Seeker | 2.00% | ~40 |
+| Guy de Borderlands | 2.00% | ~41 |
+| Space Society | 2.00% | ~41 |
+| A Thousand Strong | 2.00% | ~41 |
+| Ready for a New World | 2.00% | ~41 |
+| Breaking Protocol | 2.00% | ~41 |
+| Permanent Redesigns | 2.00% | ~41 |
+| Ain't Nobody Got Time for That | 2.00% | ~41 |
+| The Ship of Theseus | 2.00% | ~41 |
+| Hope Seeker | 2.00% | ~41 |
 | A Hunk of Junk | 1.00% | ~20 |
 | Exceeding Capacity | 1.00% | ~20 |
 | Fully Recycled | 1.00% | ~20 |
-| The Ship of Theseus | 1.00% | ~20 |
 | Power Outage | 0.90% | ~18 |
 | Convenient Transport | 0.90% | ~18 |
 | Access Granted | 0.80% | ~16 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 468)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,025 (Ranked 144)  
+Progressed: 2,026 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-18 | 1,926 | 0 |
 | 2023-05-19 | 1,969 | 0 |
 | 2023-05-20 | 2,021 | 0 |
-| 2023-05-21 | 2,025 | 0 |
+| 2023-05-21 | 2,026 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

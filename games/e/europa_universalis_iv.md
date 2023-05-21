@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,673 |
-| That's a Grand Army | 8.00% | ~3,265 |
-| That is mine! | 8.00% | ~3,265 |
-| Victorious! | 8.00% | ~3,265 |
+| Until death do us apart | 9.00% | ~3,674 |
+| That's a Grand Army | 8.00% | ~3,266 |
+| That is mine! | 8.00% | ~3,266 |
+| Victorious! | 8.00% | ~3,266 |
 | Brothers in Arms | 6.00% | ~2,449 |
 | That's a Grand Navy | 6.00% | ~2,449 |
 | Seriously?! | 6.00% | ~2,449 |
-| For the Glory | 5.00% | ~2,040 |
-| Cold War | 4.00% | ~1,632 |
-| True Catholic | 4.00% | ~1,632 |
-| Defender of the Faith | 3.00% | ~1,224 |
-| It's all about the money | 3.00% | ~1,224 |
-| Respected | 3.00% | ~1,224 |
-| Truly Divine Ruler | 3.00% | ~1,224 |
+| For the Glory | 5.00% | ~2,041 |
+| Cold War | 4.00% | ~1,633 |
+| True Catholic | 4.00% | ~1,633 |
+| Defender of the Faith | 3.00% | ~1,225 |
+| It's all about the money | 3.00% | ~1,225 |
+| Respected | 3.00% | ~1,225 |
+| Truly Divine Ruler | 3.00% | ~1,225 |
 | Blockader | 2.00% | ~816 |
 | Combined Arms | 2.00% | ~816 |
 | Double the Love | 2.00% | ~816 |
@@ -38,10 +38,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~408 |
 | My armies are invincible! | 1.00% | ~408 |
 | The Five Colonies | 0.90% | ~367 |
-| The Emperors new clothes | 0.80% | ~326 |
-| Isn't this the way to India? | 0.80% | ~326 |
-| Market Control | 0.80% | ~326 |
-| This navy can take it all | 0.80% | ~326 |
+| The Emperors new clothes | 0.80% | ~327 |
+| Isn't this the way to India? | 0.80% | ~327 |
+| Market Control | 0.80% | ~327 |
+| This navy can take it all | 0.80% | ~327 |
 | Down Under | 0.70% | ~286 |
 | Electable! | 0.60% | ~245 |
 | Time Bandit | 0.60% | ~245 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,810 (Ranked 80)  
+Progressed: 40,823 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -392,7 +392,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-18 | 39,222 | 0 |
 | 2023-05-19 | 39,979 | 0 |
 | 2023-05-20 | 40,736 | 0 |
-| 2023-05-21 | 40,810 | 0 |
+| 2023-05-21 | 40,823 | 0 |
 ## Awards
 Max (Educational): 5,255  (Ranked 60)  
 Sum: 43,550 (Ranked 27)  

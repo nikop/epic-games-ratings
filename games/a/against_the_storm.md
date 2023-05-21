@@ -41,9 +41,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Defying the Crown | 0.50% | ~75 |
 | Into the Forest | 0.50% | ~75 |
 | Ruined Armory | 0.40% | ~60 |
+| Fishmen Ritual Site | 0.40% | ~60 |
 | Lizard Utopia | 0.30% | ~45 |
 | Efficient Explorer | 0.30% | ~45 |
-| Fishmen Ritual Site | 0.30% | ~45 |
 | Prestigious Expedition | 0.30% | ~45 |
 | Blood Flower Farmer | 0.30% | ~45 |
 | Feeding The People | 0.20% | ~30 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,925 (Ranked 98)  
+Progressed: 14,927 (Ranked 98)  
 Completed: 30 (0.20%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,6 +88,7 @@ Completed: 30 (0.20%) (Ranked 140)
 | 2023-05-18 | 14,878 | 30 |
 | 2023-05-19 | 14,897 | 30 |
 | 2023-05-20 | 14,925 | 30 |
+| 2023-05-21 | 14,927 | 30 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 196)  
 Sum: 3,028 (Ranked 150)  

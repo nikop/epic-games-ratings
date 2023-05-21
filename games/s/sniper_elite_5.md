@@ -27,10 +27,10 @@ Rating: 4.41 (Ranked 658)
 | Taking it back | 0.80% | ~8 |
 | Snake in the Grass | 0.70% | ~7 |
 | Skirmisher | 0.60% | ~6 |
+| Sharpshooter | 0.60% | ~6 |
 | Precision Is Key | 0.60% | ~6 |
 | Climbing the Ladder | 0.50% | ~5 |
 | Gunslinger | 0.50% | ~5 |
-| Sharpshooter | 0.50% | ~5 |
 | Der Geist | 0.50% | ~5 |
 | Brains of the Operation | 0.50% | ~5 |
 | Strategist | 0.40% | ~4 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 658)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,003 (Ranked 165)  
+Progressed: 1,005 (Ranked 165)  
 Completed: 2 (0.20%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 2 (0.20%) (Ranked 140)
 | 2023-05-18 | 743 | 2 |
 | 2023-05-19 | 833 | 2 |
 | 2023-05-20 | 984 | 2 |
-| 2023-05-21 | 1,003 | 2 |
+| 2023-05-21 | 1,005 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

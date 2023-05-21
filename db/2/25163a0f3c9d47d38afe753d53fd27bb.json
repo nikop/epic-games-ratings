@@ -3,9 +3,9 @@
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 225,
-  "Ranking_EOS_Completed": 38,
+  "Ranking_EOS_Completed": 34,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -22,10 +22,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 212,
-  "EOS_Completed": 8,
+  "EOS_Completed": 9,
   "EOS_NewPlayers": 211,
-  "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 3.77,
+  "EOS_NewCompleters": 9,
+  "EOS_Completed_Percentage": 4.25,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -321,6 +321,11 @@
       "Time": "2023-05-21T03:02:07.9652015+00:00",
       "NumProgressed": 212,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-21T04:01:23.3402141+00:00",
+      "NumProgressed": 212,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 30,
@@ -354,9 +359,9 @@
       "ID": "LEVEL_004",
       "SetID": "212bg48",
       "Name": "Life is better at the lake",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 114
     },
     {
       "ID": "LEVEL_005",
@@ -394,9 +399,9 @@
       "ID": "LEVEL_009",
       "SetID": "212bg48",
       "Name": "Going zig zag",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "LEVEL_010",
@@ -506,9 +511,9 @@
       "ID": "LEVEL_023",
       "SetID": "212bg48",
       "Name": "Flowing from high ground",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 55,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "LEVEL_024",
@@ -522,9 +527,9 @@
       "ID": "LEVEL_025",
       "SetID": "212bg48",
       "Name": "A superb resort to enjoy the holidays!",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "LEVEL_026",
@@ -572,13 +577,13 @@
       "ID": "212bg48",
       "IsBase": true,
       "Progressed": 212,
-      "Completed": 8
+      "Completed": 9
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-21T03:02:07.965201+00:00",
+  "LastChanged_Achievements": "2023-05-21T04:01:23.3402133+00:00",
   "LastUpdate_AppInfo": "2023-05-15T11:57:23.4437098+00:00",
-  "LastUpdate_Ratings": "2023-05-21T02:57:08.7214418+00:00",
-  "LastUpdate_Achievements": "2023-05-21T03:02:07.9652299+00:00"
+  "LastUpdate_Ratings": "2023-05-21T03:57:06.1644052+00:00",
+  "LastUpdate_Achievements": "2023-05-21T04:01:23.3402414+00:00"
 }

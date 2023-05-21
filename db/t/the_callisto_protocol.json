@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 341,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -410,9 +410,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 13071,
+  "EOS_Progressed": 13078,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 509,
+  "EOS_NewPlayers": 516,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1015,6 +1015,11 @@
       "Time": "2023-05-21T03:01:44.7969129+00:00",
       "NumProgressed": 13071,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-21T04:01:03.2096759+00:00",
+      "NumProgressed": 13078,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 40,
@@ -1176,9 +1181,9 @@
       "ID": "PERFECT_DODGE_GRUNT",
       "SetID": "4hj6d86",
       "Name": "The Commonality",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 105
+      "UsersEstimate": 118
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -1345,13 +1350,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13071,
+      "Progressed": 13078,
       "Completed": 51
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 997,
+      "Progressed": 1004,
       "Completed": 29
     }
   ],
@@ -1359,8 +1364,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-16T17:57:38.030273+00:00",
-  "LastChanged_Achievements": "2023-05-21T03:01:44.7969123+00:00",
+  "LastChanged_Achievements": "2023-05-21T04:01:03.2096755+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-21T02:58:04.930708+00:00",
-  "LastUpdate_Achievements": "2023-05-21T03:01:44.7969581+00:00"
+  "LastUpdate_Ratings": "2023-05-21T03:57:53.7925412+00:00",
+  "LastUpdate_Achievements": "2023-05-21T04:01:03.2097212+00:00"
 }

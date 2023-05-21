@@ -3,9 +3,9 @@
   "Name": "SEASON\u00AE: A letter to the future",
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 173,
-  "Ranking_EOS_Completed": 34,
+  "Ranking_EOS_Completed": 35,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 78,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -385,9 +385,9 @@
       "ID": "ACH_GRAFFITIARTIST",
       "SetID": "7pam6gn",
       "Name": "Graffiti Artist",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 63
+      "UsersEstimate": 71
     },
     {
       "ID": "ACH_GREYHANDSPRAXI101",
@@ -482,8 +482,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-05-21T03:06:29.2586848+00:00",
+  "LastChanged_Achievements": "2023-05-21T04:05:43.3880584+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:12.4580527+00:00",
-  "LastUpdate_Ratings": "2023-05-21T02:59:03.1925459+00:00",
-  "LastUpdate_Achievements": "2023-05-21T03:06:29.2587023+00:00"
+  "LastUpdate_Ratings": "2023-05-21T03:58:42.1622564+00:00",
+  "LastUpdate_Achievements": "2023-05-21T04:05:43.3880741+00:00"
 }
