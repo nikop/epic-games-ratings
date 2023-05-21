@@ -7,7 +7,7 @@
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 21.21% |
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.55% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 8 | [Island Cities](games/i/island_cities.md) | 16.67% |
+| 8 | [Island Cities](games/i/island_cities.md) | 16.53% |
 | 9 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.04% |
 | 10 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
 | 11 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.05% |
@@ -19,13 +19,13 @@
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.18% |
 | 18 | [Time Loader](games/t/time_loader.md) | 8.16% |
 | 19 | [Out of Bounds](games/o/out_of_bounds.md) | 8.00% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.88% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.87% |
 | 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.72% |
 | 22 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.69% |
 | 23 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 7.14% |
 | 24 | [Scorn](games/s/scorn.md) | 6.99% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 6.30% |
+| 26 | [Ravenlok](games/r/ravenlok.md) | 6.29% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
 | 28 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.79% |
 | 29 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.97% |
@@ -33,11 +33,11 @@
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 32 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.55% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.46% |
-| 34 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.93% |
+| 34 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.92% |
 | 35 | [Doodle God](games/d/doodle_god.md) | 3.90% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
 | 37 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
-| 38 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 3.79% |
+| 38 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 3.77% |
 | 39 | [The Complex](games/t/the_complex.md) | 3.52% |
 | 40 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.39% |
 | 41 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.33% |
@@ -88,8 +88,8 @@
 | 86 | [Sable](games/s/sable.md) | 0.94% |
 | 87 | [Dungeons 3](games/d/dungeons_3.md) | 0.90% |
 | 87 | [Hades](games/h/hades.md) | 0.90% |
-| 89 | [Them and Us](games/t/them_and_us.md) | 0.89% |
-| 90 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.88% |
+| 89 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.88% |
+| 89 | [Them and Us](games/t/them_and_us.md) | 0.88% |
 | 91 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.86% |
 | 92 | [Lemon Cake](games/l/lemon_cake.md) | 0.83% |
 | 93 | [Five Dates](games/f/five_dates.md) | 0.82% |
