@@ -93,7 +93,7 @@
 | 91 | [Path of Exile](games/p/path_of_exile.md) | 2,493 | 4.61 | 358 |
 | 92 | [RAGE 2](games/r/rage_2.md) | 2,449 | 4.28 | 772 |
 | 93 | [Among Us](games/a/among_us.md) | 2,417 | 4.58 | 416 |
-| 94 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,359 | 4.80 | 77 |
+| 94 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,362 | 4.80 | 77 |
 | 95 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,344 | 4.50 | 536 |
 | 96 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,301 | 4.10 | 860 |
 | 97 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,271 | 4.78 | 100 |
@@ -154,7 +154,7 @@
 | 152 | [Auto Chess](games/a/auto_chess.md) | 738 | 4.52 | 504 |
 | 153 | [Core](games/c/core.md) | 732 | 4.37 | 703 |
 | 154 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 721 | 4.79 | 89 |
-| 155 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 703 | 4.45 | 609 |
+| 155 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 705 | 4.45 | 609 |
 | 156 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 692 | 4.59 | 401 |
 | 157 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 689 | 4.86 | 29 |
 | 158 | [Neverwinter](games/n/neverwinter.md) | 682 | 4.29 | 766 |
@@ -424,7 +424,7 @@
 | 420 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 36 | 4.58 | 416 |
 | 420 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 36 | 4.77 | 104 |
 | 420 | [Steelrising](games/s/steelrising.md) | 36 | 4.27 | 776 |
-| 420 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 36 | 4.48 | 570 |
+| 420 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 36 | 4.48 | 571 |
 | 426 | [FUSER™](games/f/fuser™.md) | 35 | 4.71 | 177 |
 | 426 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 35 | 4.67 | 258 |
 | 426 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 35 | 4.56 | 448 |

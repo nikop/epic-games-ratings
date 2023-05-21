@@ -42,8 +42,8 @@
 | 40 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.39% |
 | 41 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.33% |
 | 42 | [The Bunker](games/t/the_bunker.md) | 3.30% |
-| 43 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
-| 44 | [ZZT!](games/z/zzt!.md) | 3.16% |
+| 43 | [ZZT!](games/z/zzt!.md) | 3.20% |
+| 44 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
 | 45 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.11% |
 | 46 | [HordeCore](games/h/hordecore.md) | 3.03% |
 | 47 | [MultiVersus](games/m/multiversus.md) | 2.95% |
@@ -61,7 +61,7 @@
 | 59 | [JARS](games/j/jars.md) | 2.44% |
 | 60 | [Iron Danger](games/i/iron_danger.md) | 2.35% |
 | 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.18% |
-| 62 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.10% |
+| 62 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.11% |
 | 63 | [Bloodshore](games/b/bloodshore.md) | 2.05% |
 | 64 | [A Musical Story](games/a/a_musical_story.md) | 1.82% |
 | 65 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -76,8 +76,8 @@
 | 74 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.46% |
 | 75 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.31% |
 | 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.27% |
-| 76 | [Trifox](games/t/trifox.md) | 1.27% |
-| 78 | [Chorus](games/c/chorus.md) | 1.26% |
+| 77 | [Chorus](games/c/chorus.md) | 1.26% |
+| 78 | [Trifox](games/t/trifox.md) | 1.25% |
 | 79 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.24% |
 | 80 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.20% |
 | 80 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.20% |
@@ -138,11 +138,11 @@
 | 136 | [Blanc](games/b/blanc.md) | 0.22% |
 | 136 | [Filament](games/f/filament.md) | 0.22% |
 | 136 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
+| 139 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
 | 139 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.21% |
-| 140 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.20% |
-| 140 | [Against the Storm](games/a/against_the_storm.md) | 0.20% |
-| 140 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
-| 140 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.20% |
+| 141 | [Against the Storm](games/a/against_the_storm.md) | 0.20% |
+| 141 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
+| 141 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.20% |
 | 144 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.18% |
 | 145 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.17% |
 | 146 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |

@@ -79,7 +79,7 @@
 | 77 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,274 | 51 |
 | 77 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 159 | 282 |
 | 77 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.80 | 554 | 172 |
-| 77 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,359 | 94 |
+| 77 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,362 | 94 |
 | 77 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 192 | 262 |
 | 77 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 323 |
 | 77 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 491 |
@@ -569,20 +569,20 @@
 | 556 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 0 | 491 |
 | 556 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 346 |
 | 556 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 491 |
-| 570 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 0 | 491 |
-| 570 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 491 |
-| 570 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.48 | 0 | 491 |
-| 570 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.48 | 0 | 491 |
-| 570 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.48 | 0 | 491 |
-| 570 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 0 | 491 |
-| 570 | [Paradigm](games/p/paradigm.md) | 4.48 | 0 | 491 |
-| 570 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 0 | 491 |
-| 570 | [Scorn](games/s/scorn.md) | 4.48 | 0 | 491 |
-| 570 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 0 | 491 |
-| 570 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.48 | 0 | 491 |
-| 570 | [The Escapists](games/t/the_escapists.md) | 4.48 | 0 | 491 |
-| 570 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.48 | 0 | 491 |
-| 570 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 36 | 420 |
+| 556 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.49 | 0 | 491 |
+| 571 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 0 | 491 |
+| 571 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 491 |
+| 571 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.48 | 0 | 491 |
+| 571 | [Epistory - Typing Chronicles](games/e/epistory_-_typing_chronicles.md) | 4.48 | 0 | 491 |
+| 571 | [Madden NFL 23](games/m/madden_nfl_23.md) | 4.48 | 0 | 491 |
+| 571 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.48 | 0 | 491 |
+| 571 | [Paradigm](games/p/paradigm.md) | 4.48 | 0 | 491 |
+| 571 | [SAMURAI SHODOWN NEOGEO COLLECTION](games/s/samurai_shodown_neogeo_collection.md) | 4.48 | 0 | 491 |
+| 571 | [Scorn](games/s/scorn.md) | 4.48 | 0 | 491 |
+| 571 | [Sherlock Holmes Chapter One](games/s/sherlock_holmes_chapter_one.md) | 4.48 | 0 | 491 |
+| 571 | [The Escapists](games/t/the_escapists.md) | 4.48 | 0 | 491 |
+| 571 | [UNO Standard Edition](games/u/uno_standard_edition.md) | 4.48 | 0 | 491 |
+| 571 | [WRC 10 FIA World Rally Championship](games/w/wrc_10_fia_world_rally_championship.md) | 4.48 | 36 | 420 |
 | 584 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.47 | 0 | 491 |
 | 584 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 491 |
 | 584 | [Chorus](games/c/chorus.md) | 4.47 | 32 | 436 |
@@ -613,7 +613,7 @@
 | 609 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.45 | 0 | 491 |
 | 609 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 232 | 244 |
 | 609 | [Faeria](games/f/faeria.md) | 4.45 | 105 | 316 |
-| 609 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 703 | 155 |
+| 609 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 705 | 155 |
 | 609 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 0 | 491 |
 | 609 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 0 | 491 |
 | 609 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 10,311 | 33 |
