@@ -8,27 +8,27 @@
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.55% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 8 | [Island Cities](games/i/island_cities.md) | 16.79% |
-| 9 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
-| 9 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.50% |
-| 11 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.04% |
-| 12 | [Remains](games/r/remains.md) | 9.68% |
-| 13 | [Smelter](games/s/smelter.md) | 9.09% |
-| 14 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.57% |
-| 15 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 8.33% |
-| 15 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
+| 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
+| 10 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
+| 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.50% |
+| 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.04% |
+| 13 | [Remains](games/r/remains.md) | 9.68% |
+| 14 | [Smelter](games/s/smelter.md) | 9.09% |
+| 15 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.57% |
+| 16 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.18% |
 | 18 | [Time Loader](games/t/time_loader.md) | 8.08% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.90% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.82% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.88% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.81% |
+| 21 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 7.69% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
-| 22 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.14% |
-| 22 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 7.14% |
-| 24 | [Scorn](games/s/scorn.md) | 6.96% |
-| 25 | [Ravenlok](games/r/ravenlok.md) | 6.54% |
+| 23 | [Scorn](games/s/scorn.md) | 6.96% |
+| 24 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.90% |
+| 25 | [Ravenlok](games/r/ravenlok.md) | 6.50% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
 | 28 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.56% |
-| 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.15% |
+| 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.08% |
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.94% |
 | 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.92% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
@@ -60,7 +60,7 @@
 | 56 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 59 | [JARS](games/j/jars.md) | 2.44% |
 | 60 | [Iron Danger](games/i/iron_danger.md) | 2.35% |
-| 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.17% |
+| 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.16% |
 | 62 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.11% |
 | 63 | [Bloodshore](games/b/bloodshore.md) | 2.04% |
 | 64 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -100,7 +100,7 @@
 | 98 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.73% |
 | 98 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.73% |
 | 100 | [Train Valley](games/t/train_valley.md) | 0.71% |
-| 101 | [Haven](games/h/haven.md) | 0.70% |
+| 101 | [Haven](games/h/haven.md) | 0.69% |
 | 102 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.65% |
 | 103 | [The Surge 2](games/t/the_surge_2.md) | 0.63% |
 | 104 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.59% |
