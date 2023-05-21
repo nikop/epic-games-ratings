@@ -68,7 +68,7 @@
 | 62 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 491 |
 | 62 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 0 | 491 |
 | 62 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 500 | 185 |
-| 62 | [Sifu](games/s/sifu.md) | 4.82 | 6,078 | 53 |
+| 62 | [Sifu](games/s/sifu.md) | 4.82 | 6,082 | 53 |
 | 62 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.82 | 0 | 491 |
 | 71 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 0 | 491 |
 | 71 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 417 | 196 |
@@ -136,7 +136,7 @@
 | 132 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.75 | 0 | 491 |
 | 132 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 3,192 | 85 |
 | 132 | [Diabotical](games/d/diabotical.md) | 4.75 | 267 | 235 |
-| 132 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 449 | 190 |
+| 132 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 453 | 190 |
 | 132 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.75 | 38 | 415 |
 | 132 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.75 | 41 | 408 |
 | 132 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 491 |
@@ -366,7 +366,7 @@
 | 358 | [Darkwood](games/d/darkwood.md) | 4.61 | 319 | 221 |
 | 358 | [DOOM 3](games/d/doom_3.md) | 4.61 | 65 | 371 |
 | 358 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 0 | 491 |
-| 358 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 568 | 170 |
+| 358 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 569 | 170 |
 | 358 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 351 | 211 |
 | 358 | [Limbo](games/l/limbo.md) | 4.61 | 0 | 491 |
 | 358 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,093 | 128 |
@@ -402,7 +402,7 @@
 | 384 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.60 | 0 | 491 |
 | 401 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.59 | 44 | 404 |
 | 401 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.59 | 56,938 | 10 |
-| 401 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.59 | 602 | 166 |
+| 401 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 4.59 | 603 | 166 |
 | 401 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 121 | 302 |
 | 401 | [Heavy Rain](games/h/heavy_rain.md) | 4.59 | 57 | 381 |
 | 401 | [Moving Out](games/m/moving_out.md) | 4.59 | 0 | 491 |
@@ -670,21 +670,21 @@
 | 658 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 31 | 440 |
 | 658 | [Rising Hell](games/r/rising_hell.md) | 4.41 | 73 | 357 |
 | 658 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,163 | 100 |
-| 658 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.41 | 0 | 491 |
 | 658 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.41 | 852 | 143 |
 | 658 | [Warpips](games/w/warpips.md) | 4.41 | 22 | 473 |
-| 674 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 246 | 240 |
-| 674 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 990 | 138 |
-| 674 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.40 | 0 | 491 |
-| 674 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 491 |
-| 674 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 0 | 491 |
-| 674 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 0 | 491 |
-| 674 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 398 | 201 |
-| 674 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 72 | 359 |
-| 674 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 0 | 491 |
-| 674 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 0 | 491 |
-| 674 | [Tacoma](games/t/tacoma.md) | 4.40 | 0 | 491 |
-| 674 | [The Lion's Song](games/t/the_lion's_song.md) | 4.40 | 0 | 491 |
+| 673 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.40 | 246 | 240 |
+| 673 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 990 | 138 |
+| 673 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.40 | 0 | 491 |
+| 673 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 491 |
+| 673 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 0 | 491 |
+| 673 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 0 | 491 |
+| 673 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 398 | 201 |
+| 673 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 4.40 | 0 | 491 |
+| 673 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 72 | 359 |
+| 673 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 0 | 491 |
+| 673 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 0 | 491 |
+| 673 | [Tacoma](games/t/tacoma.md) | 4.40 | 0 | 491 |
+| 673 | [The Lion's Song](games/t/the_lion's_song.md) | 4.40 | 0 | 491 |
 | 686 | [Beholder 3](games/b/beholder_3.md) | 4.39 | 0 | 491 |
 | 686 | [Breathedge](games/b/breathedge.md) | 4.39 | 0 | 491 |
 | 686 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 491 |
