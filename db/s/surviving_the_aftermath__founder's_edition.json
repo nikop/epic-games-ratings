@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -981,7 +981,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 5535,
+  "EOS_Progressed": 5536,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 285,
   "EOS_NewCompleters": 0,
@@ -3386,6 +3386,11 @@
       "Time": "2023-05-21T05:05:52.2255231+00:00",
       "NumProgressed": 5535,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T06:06:31.597585+00:00",
+      "NumProgressed": 5536,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -3397,7 +3402,7 @@
       "Name": "Leader",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 3321
+      "UsersEstimate": 3322
     },
     {
       "ID": "10",
@@ -3445,7 +3450,7 @@
       "Name": "Legendary Explorer",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1494
+      "UsersEstimate": 1495
     },
     {
       "ID": "16",
@@ -3453,7 +3458,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 2269
+      "UsersEstimate": 2270
     },
     {
       "ID": "17",
@@ -3485,7 +3490,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1938
     },
     {
       "ID": "20",
@@ -3493,7 +3498,7 @@
       "Name": "Famous Healer",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 2103
+      "UsersEstimate": 2104
     },
     {
       "ID": "21",
@@ -3501,7 +3506,7 @@
       "Name": "The Great Healer",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 1660
+      "UsersEstimate": 1661
     },
     {
       "ID": "22",
@@ -3509,7 +3514,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 3874
+      "UsersEstimate": 3875
     },
     {
       "ID": "23",
@@ -3533,7 +3538,7 @@
       "Name": "Cleaner",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1494
+      "UsersEstimate": 1495
     },
     {
       "ID": "26",
@@ -3557,7 +3562,7 @@
       "Name": "Merchant",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1163
     },
     {
       "ID": "29",
@@ -3645,7 +3650,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 2435
+      "UsersEstimate": 2436
     },
     {
       "ID": "39",
@@ -3669,7 +3674,7 @@
       "Name": "Bread and Circuses",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "41",
@@ -3789,7 +3794,7 @@
       "Name": "Top Notch",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1329
     },
     {
       "ID": "55",
@@ -3821,7 +3826,7 @@
       "Name": "Tailored to fit",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "59",
@@ -3853,7 +3858,7 @@
       "Name": "Real Survivor",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1163
     },
     {
       "ID": "9",
@@ -3868,15 +3873,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 5535,
+      "Progressed": 5536,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-05-13T10:01:00.1135595+00:00",
-  "LastChanged_Achievements": "2023-05-21T05:05:52.2255227+00:00",
+  "LastChanged_Achievements": "2023-05-21T06:06:31.5975844+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:33.4626364+00:00",
-  "LastUpdate_Ratings": "2023-05-21T04:59:36.8455142+00:00",
-  "LastUpdate_Achievements": "2023-05-21T05:05:52.2255775+00:00"
+  "LastUpdate_Ratings": "2023-05-21T06:00:21.7453244+00:00",
+  "LastUpdate_Achievements": "2023-05-21T06:06:31.5976387+00:00"
 }

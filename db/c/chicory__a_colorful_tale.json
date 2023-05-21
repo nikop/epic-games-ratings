@@ -2,7 +2,7 @@
   "ID": "facc5c8822a8413aab0af205f555c8ce",
   "Name": "Chicory: A Colorful Tale",
   "ProductSlug": "chicory-a-colorful-tale",
-  "Ranking_Rating": 140,
+  "Ranking_Rating": 131,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 409,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.74,
+  "Rating": 4.75,
   "RatingHistory": [
     {
       "Time": "2022-12-10T22:57:38.5891213+00:00",
@@ -40,6 +40,12 @@
       "Rating": 4.74,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-21T06:00:17.1772772+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -58,8 +64,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:34.3357709+00:00",
   "FirstSeenRating": "2022-12-10T22:57:38.5891209+00:00",
-  "LastChanged": "2023-03-31T05:58:09.0309404+00:00",
+  "LastChanged": "2023-05-21T06:00:17.177277+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:56.6224129+00:00",
-  "LastUpdate_Ratings": "2023-05-21T04:59:32.961485+00:00",
-  "LastUpdate_Achievements": "2023-05-21T05:04:48.2804865+00:00"
+  "LastUpdate_Ratings": "2023-05-21T06:00:17.1772775+00:00",
+  "LastUpdate_Achievements": "2023-05-21T06:05:09.8178727+00:00"
 }

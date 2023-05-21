@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2462,9 +2462,9 @@
       "Count": 368
     }
   ],
-  "EOS_Progressed": 9002,
+  "EOS_Progressed": 9004,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4042,6 +4042,11 @@
       "Time": "2023-05-21T05:05:52.5650562+00:00",
       "NumProgressed": 9002,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T06:06:31.934542+00:00",
+      "NumProgressed": 9004,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -4053,7 +4058,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1170
+      "UsersEstimate": 1171
     },
     {
       "ID": "02_BurningCity",
@@ -4949,7 +4954,7 @@
       "Name": "This Wall Won\u0027t Fall",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "DLC4_27_Not the Last Sarkorian",
@@ -4957,7 +4962,7 @@
       "Name": "Not the Last Sarkorian",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "DLC4_29_The Lady of the Forest",
@@ -4980,21 +4985,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7784,
+      "Progressed": 7786,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9002,
+      "Progressed": 9004,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-20T20:58:20.2972772+00:00",
-  "LastChanged_Achievements": "2023-05-21T05:05:52.5650558+00:00",
+  "LastChanged_Achievements": "2023-05-21T06:06:31.9345415+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3010226+00:00",
-  "LastUpdate_Ratings": "2023-05-21T04:58:14.9968592+00:00",
-  "LastUpdate_Achievements": "2023-05-21T05:05:52.5651917+00:00"
+  "LastUpdate_Ratings": "2023-05-21T05:58:29.8700138+00:00",
+  "LastUpdate_Achievements": "2023-05-21T06:06:31.9346728+00:00"
 }

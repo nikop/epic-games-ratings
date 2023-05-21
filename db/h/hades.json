@@ -3085,9 +3085,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 682923,
+  "EOS_Progressed": 682970,
   "EOS_Completed": 6115,
-  "EOS_NewPlayers": 2407,
+  "EOS_NewPlayers": 2453,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -5900,6 +5900,11 @@
       "Time": "2023-05-21T05:05:26.0579671+00:00",
       "NumProgressed": 682923,
       "NumCompleted": 6115
+    },
+    {
+      "Time": "2023-05-21T06:05:59.0961948+00:00",
+      "NumProgressed": 682970,
+      "NumCompleted": 6115
     }
   ],
   "TotalAchievements": 49,
@@ -5911,7 +5916,7 @@
       "Name": "Back to Work",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 266340
+      "UsersEstimate": 266358
     },
     {
       "ID": "AchAresKills",
@@ -5919,7 +5924,7 @@
       "Name": "War-God\u0027s Bloodlust",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 102438
+      "UsersEstimate": 102446
     },
     {
       "ID": "AchBeatCharon",
@@ -5927,7 +5932,7 @@
       "Name": "To Charon\u0027s Credit",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 157072
+      "UsersEstimate": 157083
     },
     {
       "ID": "AchBronzeSkellyTrophy",
@@ -5935,7 +5940,7 @@
       "Name": "The Useless Trinket",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 88780
+      "UsersEstimate": 88786
     },
     {
       "ID": "AchBuffedButterfly",
@@ -5943,7 +5948,7 @@
       "Name": "Thorn of Thanatos",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 27317
+      "UsersEstimate": 27319
     },
     {
       "ID": "AchBuffedPlume",
@@ -5951,7 +5956,7 @@
       "Name": "Haste of Hermes",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 75122
+      "UsersEstimate": 75127
     },
     {
       "ID": "AchCerberusPets",
@@ -5959,7 +5964,7 @@
       "Name": "Three-Headed Boy",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 218535
+      "UsersEstimate": 218550
     },
     {
       "ID": "AchClearAnyRun",
@@ -5967,7 +5972,7 @@
       "Name": "Is There No Escape?",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 355120
+      "UsersEstimate": 355144
     },
     {
       "ID": "AchClearAsphodel",
@@ -5975,7 +5980,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 546338
+      "UsersEstimate": 546376
     },
     {
       "ID": "AchClearElysium",
@@ -5983,7 +5988,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 450729
+      "UsersEstimate": 450760
     },
     {
       "ID": "AchClearElysiumEM",
@@ -5991,7 +5996,7 @@
       "Name": "Champion of Elysium",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 88780
+      "UsersEstimate": 88786
     },
     {
       "ID": "AchClearHeatGate",
@@ -5999,7 +6004,7 @@
       "Name": "Hold the Onions",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 122926
+      "UsersEstimate": 122935
     },
     {
       "ID": "AchClearRun4thAspect",
@@ -6007,7 +6012,7 @@
       "Name": "Weapon of Fate",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 143414
+      "UsersEstimate": 143424
     },
     {
       "ID": "AchClearTartarus",
@@ -6015,7 +6020,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 607801
+      "UsersEstimate": 607843
     },
     {
       "ID": "AchCrushedThanatos",
@@ -6023,7 +6028,7 @@
       "Name": "Death Dealer",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 307315
+      "UsersEstimate": 307336
     },
     {
       "ID": "AchEliteAttributeKills",
@@ -6031,7 +6036,7 @@
       "Name": "Slashed Benefits",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 81951
+      "UsersEstimate": 81956
     },
     {
       "ID": "AchFishFromEachBiome",
@@ -6039,7 +6044,7 @@
       "Name": "River Denizens",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 191218
+      "UsersEstimate": 191232
     },
     {
       "ID": "AchForgedBond",
@@ -6047,7 +6052,7 @@
       "Name": "Grown Close",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 191218
+      "UsersEstimate": 191232
     },
     {
       "ID": "AchFoundAllSummons",
@@ -6055,7 +6060,7 @@
       "Name": "Complete Set",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 40975
+      "UsersEstimate": 40978
     },
     {
       "ID": "AchFoundKeepsakes",
@@ -6063,7 +6068,7 @@
       "Name": "Something From Everyone",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 129755
+      "UsersEstimate": 129764
     },
     {
       "ID": "AchFoundSummon",
@@ -6071,7 +6076,7 @@
       "Name": "Rare Collectible",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 150243
+      "UsersEstimate": 150253
     },
     {
       "ID": "AchGreaterCall",
@@ -6079,7 +6084,7 @@
       "Name": "Friends in High Places",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 464388
+      "UsersEstimate": 464420
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -6087,7 +6092,7 @@
       "Name": "Bad Call",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 68292
+      "UsersEstimate": 68297
     },
     {
       "ID": "AchLeveledKeepsakes",
@@ -6095,7 +6100,7 @@
       "Name": "Friends Forever",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 27317
+      "UsersEstimate": 27319
     },
     {
       "ID": "AchManyBrokerTrades",
@@ -6103,7 +6108,7 @@
       "Name": "Day-or-Night Trader",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 252682
+      "UsersEstimate": 252699
     },
     {
       "ID": "AchManyCosmetics",
@@ -6111,7 +6116,7 @@
       "Name": "Home Makeover",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 184389
+      "UsersEstimate": 184402
     },
     {
       "ID": "AchManyQuests",
@@ -6119,7 +6124,7 @@
       "Name": "Had to Happen",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 170731
+      "UsersEstimate": 170742
     },
     {
       "ID": "AchMaxedAnyAspect",
@@ -6127,7 +6132,7 @@
       "Name": "Blood Bound",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 239023
+      "UsersEstimate": 239039
     },
     {
       "ID": "AchMeetChthonicGods",
@@ -6135,7 +6140,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 430241
+      "UsersEstimate": 430271
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -6143,7 +6148,7 @@
       "Name": "Nyx\u0027s Mirror",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 68292
+      "UsersEstimate": 68297
     },
     {
       "ID": "AchMirrorUpgradeClears",
@@ -6151,7 +6156,7 @@
       "Name": "Dark Reflections",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 61463
+      "UsersEstimate": 61467
     },
     {
       "ID": "AchMyrmidonReunion",
@@ -6159,7 +6164,7 @@
       "Name": "Divided by Death",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 54634
+      "UsersEstimate": 54638
     },
     {
       "ID": "AchNyxChaosReunion",
@@ -6167,7 +6172,7 @@
       "Name": "Night and Darkness",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 68292
+      "UsersEstimate": 68297
     },
     {
       "ID": "AchOlympiansCodex",
@@ -6175,7 +6180,7 @@
       "Name": "Well Versed",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 116097
+      "UsersEstimate": 116105
     },
     {
       "ID": "AchOrpheusSingsAgain",
@@ -6183,7 +6188,7 @@
       "Name": "Urge to Sing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 245852
+      "UsersEstimate": 245869
     },
     {
       "ID": "AchPactUpgradesClears",
@@ -6191,7 +6196,7 @@
       "Name": "Harsh Conditions",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 47805
+      "UsersEstimate": 47808
     },
     {
       "ID": "AchPickedManyBoons",
@@ -6199,7 +6204,7 @@
       "Name": "Blessed by the Gods",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 252682
+      "UsersEstimate": 252699
     },
     {
       "ID": "AchPickedManyHammers",
@@ -6207,7 +6212,7 @@
       "Name": "Tools of the Architect",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 157072
+      "UsersEstimate": 157083
     },
     {
       "ID": "AchPurgedLegendBoon",
@@ -6215,7 +6220,7 @@
       "Name": "Thanks, But No Thanks",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 61463
+      "UsersEstimate": 61467
     },
     {
       "ID": "AchReachedEnding",
@@ -6223,7 +6228,7 @@
       "Name": "The Family Secret",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 177560
+      "UsersEstimate": 177572
     },
     {
       "ID": "AchReachedEpilogue",
@@ -6231,7 +6236,7 @@
       "Name": "One for the Ages",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 47805
+      "UsersEstimate": 47808
     },
     {
       "ID": "AchSilverSkellyTrophy",
@@ -6239,7 +6244,7 @@
       "Name": "Skelly\u0027s Last Lamentations",
       "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 40975
+      "UsersEstimate": 40978
     },
     {
       "ID": "AchSingersReunion",
@@ -6247,7 +6252,7 @@
       "Name": "Musician and Muse",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 95609
+      "UsersEstimate": 95616
     },
     {
       "ID": "AchSisyphusLiberation",
@@ -6255,7 +6260,7 @@
       "Name": "End to Torment",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 68292
+      "UsersEstimate": 68297
     },
     {
       "ID": "AchSkellyKills",
@@ -6263,7 +6268,7 @@
       "Name": "Skelly Slayer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 286828
+      "UsersEstimate": 286847
     },
     {
       "ID": "AchUnlockedAllWeapons",
@@ -6271,7 +6276,7 @@
       "Name": "Arms Collector",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 484875
+      "UsersEstimate": 484909
     },
     {
       "ID": "AchWeaponClears",
@@ -6279,7 +6284,7 @@
       "Name": "Master of Arms",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 157072
+      "UsersEstimate": 157083
     },
     {
       "ID": "AchWellShopItems",
@@ -6287,7 +6292,7 @@
       "Name": "Well Stocked",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 273169
+      "UsersEstimate": 273188
     },
     {
       "ID": "ActUnlockedAllAspects",
@@ -6295,22 +6300,22 @@
       "Name": "Infernal Arms",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 61463
+      "UsersEstimate": 61467
     }
   ],
   "AchievementSets": [
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 682923,
+      "Progressed": 682970,
       "Completed": 6115
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-05-21T02:04:02.1054278+00:00",
-  "LastChanged_Achievements": "2023-05-21T05:05:26.0579667+00:00",
+  "LastChanged_Achievements": "2023-05-21T06:05:59.0961945+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:07.4637358+00:00",
-  "LastUpdate_Ratings": "2023-05-21T04:57:41.2264281+00:00",
-  "LastUpdate_Achievements": "2023-05-21T05:05:26.0580125+00:00"
+  "LastUpdate_Ratings": "2023-05-21T05:57:41.6739338+00:00",
+  "LastUpdate_Achievements": "2023-05-21T06:05:59.0962391+00:00"
 }

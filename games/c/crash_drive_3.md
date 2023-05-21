@@ -19,17 +19,17 @@
 | Bag of Tricks | 26.00% | ~80 |
 | I see the light! | 26.00% | ~80 |
 | You're it | 26.00% | ~80 |
-| First Come, First Serve | 25.00% | ~76 |
-| To and Fro | 25.00% | ~76 |
-| Disoriented | 25.00% | ~76 |
-| Take that Frosty! | 25.00% | ~76 |
-| Goodbye cruel world | 25.00% | ~76 |
-| Beach Party! | 25.00% | ~76 |
-| In the Bag! | 25.00% | ~76 |
-| Anger Issues | 24.00% | ~73 |
-| Car-Tapult | 23.00% | ~70 |
-| Your Highness | 23.00% | ~70 |
-| Event Amateur | 22.00% | ~67 |
+| First Come, First Serve | 25.00% | ~77 |
+| To and Fro | 25.00% | ~77 |
+| Beach Party! | 25.00% | ~77 |
+| In the Bag! | 25.00% | ~77 |
+| Disoriented | 24.00% | ~74 |
+| Anger Issues | 24.00% | ~74 |
+| Take that Frosty! | 24.00% | ~74 |
+| Goodbye cruel world | 24.00% | ~74 |
+| Car-Tapult | 23.00% | ~71 |
+| Your Highness | 23.00% | ~71 |
+| Event Amateur | 22.00% | ~68 |
 | Feeling Dizzy? | 21.00% | ~64 |
 | Drift King! | 20.00% | ~61 |
 | Feeling Hot Hot Hot! | 20.00% | ~61 |
@@ -44,8 +44,8 @@
 | Earth Defense Force | 13.00% | ~40 |
 | High Roller | 12.00% | ~37 |
 | Event Pro | 10.00% | ~31 |
-| Space Crash | 8.00% | ~24 |
-| To war! | 8.00% | ~24 |
+| Space Crash | 8.00% | ~25 |
+| To war! | 8.00% | ~25 |
 | Hoarder | 7.00% | ~21 |
 | Event Master | 6.00% | ~18 |
 | A Starting Collector | 5.00% | ~15 |
@@ -60,7 +60,7 @@
 | Master Mechanic | 1.00% | ~3 |
 | Crashed and Driven | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 306 (Ranked 210)  
+Progressed: 307 (Ranked 210)  
 Completed: 2 (0.65%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,6 +76,7 @@ Completed: 2 (0.65%) (Ranked 102)
 | 2023-05-18 | 304 | 2 |
 | 2023-05-19 | 305 | 2 |
 | 2023-05-20 | 306 | 2 |
+| 2023-05-21 | 307 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

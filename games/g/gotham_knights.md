@@ -7,9 +7,9 @@ Rating: 4.17 (Ranked 836)
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 1.00% | ~615 |
 | Har, Har, Har, Very Funny | 0.70% | ~430 |
+| Loose Ends | 0.70% | ~430 |
 | Get ReQ'd | 0.60% | ~369 |
 | Knighthood | 0.60% | ~369 |
-| Loose Ends | 0.60% | ~369 |
 | The Batman Family | 0.50% | ~307 |
 | Protector of Gotham | 0.50% | ~307 |
 | Something in the Clay | 0.50% | ~307 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 836)
 | Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,465 (Ranked 68)  
+Progressed: 61,469 (Ranked 68)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-18 | 61,004 | 91 |
 | 2023-05-19 | 61,198 | 91 |
 | 2023-05-20 | 61,416 | 91 |
-| 2023-05-21 | 61,465 | 91 |
+| 2023-05-21 | 61,469 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,227  (Ranked 98)  
 Sum: 3,689 (Ranked 137)  

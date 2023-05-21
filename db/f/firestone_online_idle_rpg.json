@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1117,
+  "EOS_Progressed": 1118,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1965,6 +1965,11 @@
       "Time": "2023-05-21T04:05:54.7257656+00:00",
       "NumProgressed": 1117,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-21T06:06:12.1200565+00:00",
+      "NumProgressed": 1118,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2022,9 +2027,9 @@
       "ID": "blueprintupgrades",
       "SetID": "3nl4bcg",
       "Name": "Blueprint Upgrades",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "cauldronliberator",
@@ -2248,7 +2253,7 @@
       "Name": "Inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "jewelenchanting",
@@ -2302,9 +2307,9 @@
       "ID": "milestonecollector",
       "SetID": "3nl4bcg",
       "Name": "Milestone collector",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 89
     },
     {
       "ID": "minerclicker",
@@ -2374,9 +2379,9 @@
       "ID": "prestigiousx10",
       "SetID": "3nl4bcg",
       "Name": "Prestigious x10",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 235
+      "UsersEstimate": 224
     },
     {
       "ID": "relicofthepast",
@@ -2390,9 +2395,9 @@
       "ID": "sailor",
       "SetID": "3nl4bcg",
       "Name": "Sailor",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "scientist",
@@ -2536,7 +2541,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     },
     {
       "ID": "warmachinesarmy",
@@ -2575,7 +2580,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1117,
+      "Progressed": 1118,
       "Completed": 1
     }
   ],
@@ -2583,8 +2588,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-18T22:58:45.6795503+00:00",
-  "LastChanged_Achievements": "2023-05-21T05:05:36.3953561+00:00",
+  "LastChanged_Achievements": "2023-05-21T06:06:12.1200562+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:34.8363446+00:00",
-  "LastUpdate_Ratings": "2023-05-21T04:57:58.9631887+00:00",
-  "LastUpdate_Achievements": "2023-05-21T05:05:36.3954253+00:00"
+  "LastUpdate_Ratings": "2023-05-21T05:58:08.1490906+00:00",
+  "LastUpdate_Achievements": "2023-05-21T06:06:12.1201295+00:00"
 }

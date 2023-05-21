@@ -7,8 +7,8 @@ Number of Ratings: 58  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Another Life | 85.00% | ~740 |
+| Space Traveler | 80.00% | ~697 |
 | Voices from the Past | 79.00% | ~688 |
-| Space Traveler | 79.00% | ~688 |
 | Demigod | 77.00% | ~671 |
 | The Great Destroyer | 76.00% | ~662 |
 | Shields Down | 73.00% | ~636 |
@@ -39,8 +39,8 @@ Number of Ratings: 58  (23.09.2022)
 | Ghosts | 25.00% | ~218 |
 | Uneasy Alliance | 24.00% | ~209 |
 | Mastery of Combat | 22.00% | ~192 |
+| Retaliate | 22.00% | ~192 |
 | Mastery of Rites | 21.00% | ~183 |
-| Retaliate | 21.00% | ~183 |
 | Power Chord | 20.00% | ~174 |
 | Crash Test | 20.00% | ~174 |
 | Ascension | 19.00% | ~165 |

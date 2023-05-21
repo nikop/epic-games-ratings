@@ -1,26 +1,26 @@
 # Despot's Game
 [Store](https://store.epicgames.com/en-US/p/despots-game-f61a0a)  
 [View Rawdata](../../db/d/despot's_game.json)  
-Rating: 4.50 (Ranked 535)  
+Rating: 4.50 (Ranked 536)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Good start! | 82.00% | ~298 |
-| Vanquisher of Robots | 72.00% | ~261 |
-| Party | 45.00% | ~163 |
+| Vanquisher of Robots | 73.00% | ~266 |
+| Party | 45.00% | ~164 |
 | Knowledge is Power | 44.00% | ~160 |
-| Impossible Cube | 42.00% | ~152 |
+| Impossible Cube | 42.00% | ~153 |
 | No Mercy | 41.00% | ~149 |
 | The Return of a Rat | 39.00% | ~142 |
 | Through the Darkness | 39.00% | ~142 |
 | Fat of the Earth | 32.00% | ~116 |
 | Last Man Standing | 31.00% | ~113 |
-| Catch Jonathan_tostar | 26.00% | ~94 |
+| Catch Jonathan_tostar | 26.00% | ~95 |
 | Campaigning | 24.00% | ~87 |
 | Assemble a Meganewbie | 24.00% | ~87 |
 | He's Seen It All | 24.00% | ~87 |
 | Great Hero | 24.00% | ~87 |
-| Rookie | 23.00% | ~83 |
+| Rookie | 23.00% | ~84 |
 | Frugal | 20.00% | ~73 |
 | To the Moon and Back | 20.00% | ~73 |
 | Feed a God | 19.00% | ~69 |
@@ -41,8 +41,8 @@ Rating: 4.50 (Ranked 535)
 | Vet | 0.80% | ~3 |
 | Real Achiever | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363 (Ranked 201)  
-Completed: 1 (0.28%) (Ranked 129)  
+Progressed: 364 (Ranked 200)  
+Completed: 1 (0.27%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -53,7 +53,7 @@ Completed: 1 (0.28%) (Ranked 129)
 | 2023-05-14 | 355 | 1 |
 | 2023-05-19 | 360 | 1 |
 | 2023-05-20 | 362 | 1 |
-| 2023-05-21 | 363 | 1 |
+| 2023-05-21 | 364 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

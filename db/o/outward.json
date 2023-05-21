@@ -2,7 +2,7 @@
   "ID": "viola",
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
-  "Ranking_Rating": 468,
+  "Ranking_Rating": 467,
   "Ranking_Popularity": 440,
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 140,
@@ -1400,9 +1400,9 @@
       "ID": "ReadyforWinter_42",
       "SetID": "c4hee28",
       "Name": "Ready for Winter",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1552
+      "UsersEstimate": 1577
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -1552,8 +1552,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-05-21T05:05:30.7254138+00:00",
+  "LastChanged_Achievements": "2023-05-21T06:06:04.8600364+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:14.085288+00:00",
-  "LastUpdate_Ratings": "2023-05-21T04:57:45.4540644+00:00",
-  "LastUpdate_Achievements": "2023-05-21T05:05:30.725444+00:00"
+  "LastUpdate_Ratings": "2023-05-21T05:57:46.8961608+00:00",
+  "LastUpdate_Achievements": "2023-05-21T06:06:04.8600696+00:00"
 }

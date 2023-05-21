@@ -6,24 +6,24 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~404,039 |
-| Haikyo | 80.00% | ~340,243 |
-| Good as New | 72.00% | ~306,219 |
+| Found a Friend | 95.00% | ~404,040 |
+| Haikyo | 80.00% | ~340,244 |
+| Good as New | 72.00% | ~306,220 |
 | Into the Woods | 69.00% | ~293,460 |
-| Hunter in the Forest | 60.00% | ~255,182 |
-| Rot Commander | 59.00% | ~250,929 |
-| Taro's Fear | 55.00% | ~233,917 |
+| Hunter in the Forest | 60.00% | ~255,183 |
+| Rot Commander | 59.00% | ~250,930 |
+| Taro's Fear | 55.00% | ~233,918 |
 | Between the Eyes | 46.00% | ~195,640 |
 | Taro's Love | 45.00% | ~191,387 |
 | Taro's Regret | 43.00% | ~182,881 |
 | Spirit Guide | 42.00% | ~178,628 |
 | Harness Your Power | 38.00% | ~161,616 |
-| The Open Range | 37.00% | ~157,362 |
-| Adira's Love | 33.00% | ~140,350 |
-| Adira's Fear | 32.00% | ~136,097 |
-| Weigh Them Down | 31.00% | ~131,844 |
-| Adira's Regret | 31.00% | ~131,844 |
-| A Heavy Hammer | 30.00% | ~127,591 |
+| The Open Range | 37.00% | ~157,363 |
+| Adira's Love | 33.00% | ~140,351 |
+| Adira's Fear | 32.00% | ~136,098 |
+| Weigh Them Down | 31.00% | ~131,845 |
+| Adira's Regret | 31.00% | ~131,845 |
+| A Heavy Hammer | 30.00% | ~127,592 |
 | Crossing Over | 29.00% | ~123,338 |
 | Quick Draw | 29.00% | ~123,338 |
 | Toshi's Fear | 27.00% | ~114,832 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,828 |
 | Master Spirit Guide | 0.30% | ~1,276 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 425,304 (Ranked 32)  
+Progressed: 425,305 (Ranked 32)  
 Completed: 501 (0.12%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 501 (0.12%) (Ranked 155)
 | 2023-05-18 | 425,226 | 501 |
 | 2023-05-19 | 425,258 | 501 |
 | 2023-05-20 | 425,297 | 501 |
-| 2023-05-21 | 425,304 | 501 |
+| 2023-05-21 | 425,305 | 501 |
 ## Awards
 Max (Great Boss Battles): 1,296  (Ranked 119)  
 Sum: 1,667 (Ranked 198)  

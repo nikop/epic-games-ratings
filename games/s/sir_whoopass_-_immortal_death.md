@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tastes just like chicken! | 91.00% | ~21 |
-| MLG 360 no scope kill! | 83.00% | ~19 |
-| Are you ready to rumble? | 83.00% | ~19 |
-| That's what cheese said! | 70.00% | ~16 |
-| Nerd | 70.00% | ~16 |
-| I like you...but I have to kill you... | 65.00% | ~15 |
+| Tastes just like chicken! | 96.00% | ~22 |
+| MLG 360 no scope kill! | 87.00% | ~20 |
+| Are you ready to rumble? | 87.00% | ~20 |
+| That's what cheese said! | 74.00% | ~17 |
+| Nerd | 74.00% | ~17 |
+| I like you...but I have to kill you... | 70.00% | ~16 |
+| AHHHHHH.....I'M ON FIRE!!! | 65.00% | ~15 |
+| Up and down | 65.00% | ~15 |
+| Not so hip anymore! | 65.00% | ~15 |
+| Blurry depth perception | 65.00% | ~15 |
 | Rolling, Rolling, Rolling | 61.00% | ~14 |
-| AHHHHHH.....I'M ON FIRE!!! | 61.00% | ~14 |
-| Up and down | 61.00% | ~14 |
-| Not so hip anymore! | 61.00% | ~14 |
-| Blurry depth perception | 61.00% | ~14 |
 | Oh, you're up to no gouda! | 52.00% | ~12 |
 | Fire-fighter! | 52.00% | ~12 |
 | Make Love not War-Craft a Mistlefoe | 48.00% | ~11 |

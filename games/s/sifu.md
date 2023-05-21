@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~537 |
+| Diligence as a goal | 4.00% | ~538 |
 | Project Arena | 3.00% | ~403 |
 | Bloody Sport | 1.00% | ~134 |
 | The Hateful Pole Fighter | 0.90% | ~6,337 |
@@ -34,12 +34,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Dance of the Praying Mantis | 0.50% | ~3,521 |
 | Qi Gong: Mind | 0.50% | ~3,521 |
 | A Touch of Acumen | 0.50% | ~67 |
-| Muk Yan Master | 0.40% | ~2,816 |
-| Tiger on Fire | 0.40% | ~2,816 |
-| Source of Flying Daggers | 0.40% | ~2,816 |
-| Iron Money | 0.40% | ~2,816 |
-| Detective Story | 0.40% | ~2,816 |
-| I know Kung-Fu | 0.40% | ~2,816 |
+| Muk Yan Master | 0.40% | ~2,817 |
+| Tiger on Fire | 0.40% | ~2,817 |
+| Source of Flying Daggers | 0.40% | ~2,817 |
+| Iron Money | 0.40% | ~2,817 |
+| Detective Story | 0.40% | ~2,817 |
+| I know Kung-Fu | 0.40% | ~2,817 |
 | Legendary Talismans of Wuxing | 0.30% | ~2,112 |
 | Prodigal Child | 0.30% | ~2,112 |
 | The 36th Chamber of Kung-Fu | 0.30% | ~2,112 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~704 |
 | Warriors from the Mountain | 0.10% | ~704 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,119 (Ranked 15)  
+Progressed: 704,143 (Ranked 15)  
 Completed: 12,732 (1.81%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 12,732 (1.81%) (Ranked 65)
 | 2023-05-18 | 703,070 | 12,731 |
 | 2023-05-19 | 703,575 | 12,731 |
 | 2023-05-20 | 704,036 | 12,732 |
-| 2023-05-21 | 704,119 | 12,732 |
+| 2023-05-21 | 704,143 | 12,732 |
 ## Awards
 Max (Great Boss Battles): 6,078  (Ranked 53)  
 Sum: 10,344 (Ranked 77)  

@@ -1,13 +1,13 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.55 (Ranked 468)  
+Rating: 4.55 (Ranked 467)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Venture Outward | 74.00% | ~1,823 |
-| Ready for Winter | 63.00% | ~1,552 |
+| Ready for Winter | 64.00% | ~1,577 |
 | Ready for Summer | 51.00% | ~1,257 |
 | Cordon Bleu | 43.00% | ~1,060 |
 | Tapped! | 35.00% | ~862 |

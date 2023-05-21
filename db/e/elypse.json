@@ -219,9 +219,9 @@
       "ID": "Ach_BuyHut",
       "SetID": "4o5gjp0",
       "Name": "Pigeon",
-      "Percentage": 80,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Ach_CallBeggarNothingToSell",
@@ -251,9 +251,9 @@
       "ID": "Ach_DiscoveryCatacombes",
       "SetID": "4o5gjp0",
       "Name": "A bottomless pit",
-      "Percentage": 80,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Ach_DiscoveryCaverns",
@@ -363,9 +363,9 @@
       "ID": "Ach_LavaDeath",
       "SetID": "4o5gjp0",
       "Name": "Splash!",
-      "Percentage": 63,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Ach_OptionalDialogRead",
@@ -434,8 +434,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-05-21T05:05:21.7793066+00:00",
+  "LastChanged_Achievements": "2023-05-21T06:05:53.8791771+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.0525193+00:00",
-  "LastUpdate_Ratings": "2023-05-21T04:57:56.7756737+00:00",
-  "LastUpdate_Achievements": "2023-05-21T05:05:21.7793278+00:00"
+  "LastUpdate_Ratings": "2023-05-21T05:58:04.2749705+00:00",
+  "LastUpdate_Achievements": "2023-05-21T06:05:53.8791973+00:00"
 }

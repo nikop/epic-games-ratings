@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 306,
+  "EOS_Progressed": 307,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -96,6 +96,11 @@
       "Time": "2023-05-20T13:03:50.3848113+00:00",
       "NumProgressed": 306,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-21T06:02:11.7166779+00:00",
+      "NumProgressed": 307,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -131,7 +136,7 @@
       "Name": "Car-Tapult",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "COIN_COLLECT",
@@ -219,7 +224,7 @@
       "Name": "First Come, First Serve",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "FRONT_AND_BACKFLIP",
@@ -227,15 +232,15 @@
       "Name": "To and Fro",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "FRONT_OR_BACKFLIP",
       "SetID": "20koof9",
       "Name": "Disoriented",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 74
     },
     {
       "ID": "FULLY_LEVEL_20_CARS",
@@ -283,7 +288,7 @@
       "Name": "Anger Issues",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "HIT_50_PUSHABLES",
@@ -305,9 +310,9 @@
       "ID": "HIT_BIG_SNOWMAN",
       "SetID": "20koof9",
       "Name": "Take that Frosty!",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 74
     },
     {
       "ID": "HIT_EXPLOSIVE_BARREL",
@@ -323,7 +328,7 @@
       "Name": "Space Crash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "HONK_100_TIMES",
@@ -347,15 +352,15 @@
       "Name": "Your Highness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "LEFT_LEVEL",
       "SetID": "20koof9",
       "Name": "Goodbye cruel world",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 74
     },
     {
       "ID": "LOADED_LVL_DESERT",
@@ -411,7 +416,7 @@
       "Name": "To war!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "SPIN_1080",
@@ -483,7 +488,7 @@
       "Name": "Event Amateur",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "WIN_50_EVENTS",
@@ -499,7 +504,7 @@
       "Name": "Beach Party!",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "WIN_KING_HILL",
@@ -523,7 +528,7 @@
       "Name": "In the Bag!",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "WIN_TAG_EVENT",
@@ -546,7 +551,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 306,
+      "Progressed": 307,
       "Completed": 2
     }
   ],
@@ -554,8 +559,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-05-21T05:02:13.2943655+00:00",
+  "LastChanged_Achievements": "2023-05-21T06:02:11.7166775+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:24.363984+00:00",
-  "LastUpdate_Ratings": "2023-05-21T04:58:37.5240082+00:00",
-  "LastUpdate_Achievements": "2023-05-21T05:02:13.2944047+00:00"
+  "LastUpdate_Ratings": "2023-05-21T05:59:01.0766419+00:00",
+  "LastUpdate_Achievements": "2023-05-21T06:02:11.7167147+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "3348e3d8eae449ecbcf9fe354d4fe8a0",
   "Name": "Hotel Renovator",
   "ProductSlug": "hotel-renovator",
-  "Ranking_Rating": 535,
+  "Ranking_Rating": 536,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -617,8 +617,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-05-05T13:04:29.3480635+00:00",
-  "LastChanged_Achievements": "2023-05-21T05:05:45.6829944+00:00",
+  "LastChanged_Achievements": "2023-05-21T06:06:23.6652611+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:56:53.9528089+00:00",
-  "LastUpdate_Ratings": "2023-05-21T04:57:16.9423463+00:00",
-  "LastUpdate_Achievements": "2023-05-21T05:05:45.6830108+00:00"
+  "LastUpdate_Ratings": "2023-05-21T05:57:07.4759662+00:00",
+  "LastUpdate_Achievements": "2023-05-21T06:06:23.6652782+00:00"
 }

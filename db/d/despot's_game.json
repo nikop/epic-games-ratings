@@ -2,12 +2,12 @@
   "ID": "7a0f0e0bef6a45249e9d476d08bc9739",
   "Name": "Despot\u0027s Game",
   "ProductSlug": "despots-game-f61a0a",
-  "Ranking_Rating": 535,
+  "Ranking_Rating": 536,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 201,
-  "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_Progress": 200,
+  "Ranking_EOS_Completed": 130,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,11 +35,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 363,
+  "EOS_Progressed": 364,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.28,
+  "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:35.8924559+00:00",
@@ -104,6 +104,11 @@
     {
       "Time": "2023-05-21T02:11:52.100898+00:00",
       "NumProgressed": 363,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-21T06:06:13.8155248+00:00",
+      "NumProgressed": 364,
       "NumCompleted": 1
     }
   ],
@@ -172,7 +177,7 @@
       "Name": "Party",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "different-items2",
@@ -196,7 +201,7 @@
       "Name": "Impossible Cube",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "finished-quest-flight",
@@ -244,7 +249,7 @@
       "Name": "Catch Jonathan_tostar",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "finished-quest-sci",
@@ -330,9 +335,9 @@
       "ID": "win-first-biom",
       "SetID": "799afm0",
       "Name": "Vanquisher of Robots",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 266
     },
     {
       "ID": "win-first-level",
@@ -348,7 +353,7 @@
       "Name": "Rookie",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "win-koth-fights2",
@@ -395,7 +400,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 363,
+      "Progressed": 364,
       "Completed": 1
     }
   ],
@@ -403,8 +408,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-05-21T05:05:37.7363543+00:00",
+  "LastChanged_Achievements": "2023-05-21T06:06:13.8155244+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:20.0092319+00:00",
-  "LastUpdate_Ratings": "2023-05-21T04:58:33.789641+00:00",
-  "LastUpdate_Achievements": "2023-05-21T05:05:37.7363744+00:00"
+  "LastUpdate_Ratings": "2023-05-21T05:58:55.6203043+00:00",
+  "LastUpdate_Achievements": "2023-05-21T06:06:13.8155442+00:00"
 }

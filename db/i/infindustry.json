@@ -2,7 +2,7 @@
   "ID": "3e8745caaecf4adb9e358de5df7b8a41",
   "Name": "Infindustry",
   "ProductSlug": "infindustry-cccc40",
-  "Ranking_EOS_Progress": 297,
+  "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 76,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 32,
+  "EOS_Progressed": 33,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -181,6 +181,11 @@
       "Time": "2023-05-20T06:06:03.4069029+00:00",
       "NumProgressed": 32,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T06:05:50.3406929+00:00",
+      "NumProgressed": 33,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -230,7 +235,7 @@
       "ID": "Harvester",
       "SetID": "82ojhod",
       "Name": "Harvester",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -278,7 +283,7 @@
       "ID": "Workforce",
       "SetID": "82ojhod",
       "Name": "Workforce",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 60,
       "UsersEstimate": 5
     }
@@ -287,14 +292,14 @@
     {
       "ID": "82ojhod",
       "IsBase": true,
-      "Progressed": 32,
+      "Progressed": 33,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2023-05-21T05:05:18.9336774+00:00",
+  "LastChanged_Achievements": "2023-05-21T06:05:50.3406924+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:03.2312003+00:00",
-  "LastUpdate_Ratings": "2023-05-21T04:57:21.6288724+00:00",
-  "LastUpdate_Achievements": "2023-05-21T05:05:18.9336871+00:00"
+  "LastUpdate_Ratings": "2023-05-21T05:57:13.5845153+00:00",
+  "LastUpdate_Achievements": "2023-05-21T06:05:50.3407019+00:00"
 }

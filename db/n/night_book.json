@@ -4,7 +4,7 @@
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 182,
+  "EOS_Progressed": 183,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.65,
+  "EOS_Completed_Percentage": 1.64,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:54.2644177+00:00",
@@ -63,6 +63,11 @@
       "Time": "2023-05-20T16:05:26.3678894+00:00",
       "NumProgressed": 182,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-21T06:05:52.1879652+00:00",
+      "NumProgressed": 183,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 17,
@@ -82,7 +87,7 @@
       "Name": "Career Woman",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "deal_or_no_deal",
@@ -114,7 +119,7 @@
       "Name": "Impress Theron",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "marriage_is_off",
@@ -130,7 +135,7 @@
       "Name": "No One Is Safe",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "off_his_meds",
@@ -138,15 +143,15 @@
       "Name": "He\u0027s Off His Meds",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "on_your_bike",
       "SetID": "a3kkelb",
       "Name": "On Your Bike",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 53
+      "UsersEstimate": 55
     },
     {
       "ID": "pearce",
@@ -160,9 +165,9 @@
       "ID": "personal_life",
       "SetID": "a3kkelb",
       "Name": "Personal Life",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 90
     },
     {
       "ID": "save_dad",
@@ -170,7 +175,7 @@
       "Name": "Save Dad",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "shady_truth",
@@ -200,16 +205,16 @@
       "ID": "will_this_help",
       "SetID": "a3kkelb",
       "Name": "Will This Help?",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 132
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3kkelb",
       "IsBase": true,
-      "Progressed": 182,
+      "Progressed": 183,
       "Completed": 3
     }
   ],
@@ -217,8 +222,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-05-21T05:05:20.3663992+00:00",
+  "LastChanged_Achievements": "2023-05-21T06:05:52.1879648+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:08.7260317+00:00",
-  "LastUpdate_Ratings": "2023-05-21T04:57:27.1052487+00:00",
-  "LastUpdate_Achievements": "2023-05-21T05:05:20.3664092+00:00"
+  "LastUpdate_Ratings": "2023-05-21T05:57:20.8609069+00:00",
+  "LastUpdate_Achievements": "2023-05-21T06:05:52.1879743+00:00"
 }

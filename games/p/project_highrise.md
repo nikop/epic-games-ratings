@@ -19,8 +19,8 @@
 | Happy Tenants | 24.00% | ~40 |
 | Potent Potables | 23.00% | ~38 |
 | Smooth Service | 23.00% | ~38 |
+| Lux Living | 22.00% | ~37 |
 | Your Prestige is Rising | 22.00% | ~37 |
-| Lux Living | 21.00% | ~35 |
 | Retail Revenue | 21.00% | ~35 |
 | Leveled Up Shops | 21.00% | ~35 |
 | Artfully Done | 20.00% | ~33 |

@@ -15,6 +15,7 @@
 | Bank Objectives Complete | 0.10% | ~7 |
 | Chicken Maxed Out | 0.10% | ~7 |
 | All Weapons Purchased | 0.10% | ~7 |
+| Military Base Heisted | 0.10% | ~7 |
 | Monkey Maxed Out | 0.10% | ~7 |
 | Moose Maxed Out | 0.10% | ~7 |
 | Nuclear Plant Heisted | 0.10% | ~7 |
@@ -26,7 +27,6 @@
 | Bandit Camp Objectives Complete | 0.00% | ~0 |
 | Bandit Camp Heisted | 0.00% | ~0 |
 | Military Base Objectives Complete | 0.00% | ~0 |
-| Military Base Heisted | 0.00% | ~0 |
 | Nuclear Plant Objectives Complete | 0.00% | ~0 |
 | Spaceship Objectives Complete | 0.00% | ~0 |
 | Spaceship Heisted | 0.00% | ~0 |
