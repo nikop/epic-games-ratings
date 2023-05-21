@@ -2,7 +2,7 @@
   "ID": "49ed715a3ade43379f21a48eb5c8f864",
   "Name": "City of Beats",
   "ProductSlug": "city-of-beats-08f8c2",
-  "Ranking_EOS_Progress": 409,
+  "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 75,
@@ -40,8 +40,8 @@
   ],
   "FirstSeen": "2023-05-07T19:59:06.3879388+00:00",
   "FirstSeenAchievements": "2023-04-27T20:01:35.0403274+00:00",
-  "LastChanged_Achievements": "2023-05-21T11:00:49.9111383+00:00",
+  "LastChanged_Achievements": "2023-05-21T12:02:00.1129436+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:28.7880402+00:00",
-  "LastUpdate_Ratings": "2023-05-21T10:57:57.0988625+00:00",
-  "LastUpdate_Achievements": "2023-05-21T11:00:49.9111458+00:00"
+  "LastUpdate_Ratings": "2023-05-21T11:58:20.1833547+00:00",
+  "LastUpdate_Achievements": "2023-05-21T12:02:00.1129729+00:00"
 }

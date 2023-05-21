@@ -176,9 +176,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1044,
+  "EOS_Progressed": 1049,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 329,
+  "EOS_NewPlayers": 333,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -891,6 +891,11 @@
       "Time": "2023-05-21T11:05:37.0862013+00:00",
       "NumProgressed": 1044,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-21T12:07:00.3253073+00:00",
+      "NumProgressed": 1049,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -956,9 +961,9 @@
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
       "SetID": "bm6el81",
       "Name": "Just a Flesh Wound",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 21
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -980,9 +985,9 @@
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 94
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1020,9 +1025,9 @@
       "ID": "REWARD_24_GUNSLINGER",
       "SetID": "bm6el81",
       "Name": "Gunslinger",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -1052,9 +1057,9 @@
       "ID": "REWARD_28_AMBUSH_KING",
       "SetID": "bm6el81",
       "Name": "Set Europe Ablaze",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -1132,9 +1137,9 @@
       "ID": "REWARD_38_DER_GEIST",
       "SetID": "bm6el81",
       "Name": "Der Geist",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -1469,13 +1474,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 995,
+      "Progressed": 1000,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1044,
+      "Progressed": 1049,
       "Completed": 2
     }
   ],
@@ -1483,8 +1488,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-18T16:01:31.1520338+00:00",
-  "LastChanged_Achievements": "2023-05-21T11:05:37.0862008+00:00",
+  "LastChanged_Achievements": "2023-05-21T12:07:00.3253068+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-21T11:00:37.0559355+00:00",
-  "LastUpdate_Achievements": "2023-05-21T11:05:37.0862734+00:00"
+  "LastUpdate_Ratings": "2023-05-21T12:01:42.4443696+00:00",
+  "LastUpdate_Achievements": "2023-05-21T12:07:00.3253761+00:00"
 }

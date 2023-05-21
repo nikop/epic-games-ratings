@@ -8,7 +8,7 @@
 | To Each Their Own | 44.00% | ~17 |
 | You Get An Upgrade, You Get An Upgrade! | 21.00% | ~8 |
 | Like Phileas Fogg | 18.00% | ~7 |
-| Onwards and Upwards | 15.00% | ~6 |
+| Onwards and Upwards | 18.00% | ~7 |
 | Seven-League Boots | 8.00% | ~3 |
 | No Room for Improvement | 8.00% | ~3 |
 | Upgradeaholic | 8.00% | ~3 |

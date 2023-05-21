@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6394,
+  "EOS_Progressed": 6396,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -1008,6 +1008,11 @@
       "Time": "2023-05-21T09:06:03.6866964+00:00",
       "NumProgressed": 6394,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-21T12:07:04.99277+00:00",
+      "NumProgressed": 6396,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 27,
@@ -1027,7 +1032,7 @@
       "Name": "Daylight Found",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1598
+      "UsersEstimate": 1599
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -1051,7 +1056,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3389
+      "UsersEstimate": 3390
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -1075,7 +1080,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1598
+      "UsersEstimate": 1599
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -1083,7 +1088,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1598
+      "UsersEstimate": 1599
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -1107,7 +1112,7 @@
       "Name": "A Learned Scholar",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "AK_ON_TOWN",
@@ -1115,7 +1120,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1790
+      "UsersEstimate": 1791
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -1171,7 +1176,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 3581
+      "UsersEstimate": 3582
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -1187,7 +1192,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2174
+      "UsersEstimate": 2175
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -1211,7 +1216,7 @@
       "Name": "A Wanderer\u2019s Guide",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "AK_WIND_POWERED",
@@ -1234,15 +1239,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6394,
+      "Progressed": 6396,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-05-21T11:05:41.0947462+00:00",
+  "LastChanged_Achievements": "2023-05-21T12:07:04.9927692+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:58.1571519+00:00",
-  "LastUpdate_Ratings": "2023-05-21T10:57:29.5236515+00:00",
-  "LastUpdate_Achievements": "2023-05-21T11:05:41.0947711+00:00"
+  "LastUpdate_Ratings": "2023-05-21T11:57:44.1762284+00:00",
+  "LastUpdate_Achievements": "2023-05-21T12:07:04.9927955+00:00"
 }

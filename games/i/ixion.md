@@ -26,8 +26,8 @@ Rating: 4.55 (Ranked 467)
 | Convenient Transport | 0.90% | ~18 |
 | Access Granted | 0.80% | ~16 |
 | Please Make it Stop! | 0.80% | ~16 |
+| From the Past | 0.80% | ~16 |
 | Sightseeing | 0.70% | ~14 |
-| From the Past | 0.70% | ~14 |
 | Man's Best Friend | 0.50% | ~10 |
 | Oats | 0.50% | ~10 |
 | In Dolos We Trust | 0.50% | ~10 |

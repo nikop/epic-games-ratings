@@ -21,8 +21,8 @@
 | Picky! | 5.00% | ~10 |
 | Playing the field | 5.00% | ~10 |
 | Go well, lad | 4.00% | ~8 |
+| Muggy Misha | 4.00% | ~8 |
 | Keep the spark alive | 3.00% | ~6 |
-| Muggy Misha | 3.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 203 (Ranked 227)  
 Completed: 2 (0.99%) (Ranked 85)  

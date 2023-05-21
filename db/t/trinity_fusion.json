@@ -2,7 +2,7 @@
   "ID": "6272ed59a9894d5499e8d8818fdbea1a",
   "Name": "Trinity Fusion",
   "ProductSlug": "trinity-fusion-e036cf",
-  "Ranking_EOS_Progress": 409,
+  "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 75,
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-04-14T02:57:39.6098813+00:00",
   "LastChanged": "2023-04-14T02:57:39.6098814+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:25.3459712+00:00",
-  "LastUpdate_Ratings": "2023-05-21T10:57:54.2599862+00:00",
-  "LastUpdate_Achievements": "2023-05-21T11:01:01.9371572+00:00"
+  "LastUpdate_Ratings": "2023-05-21T11:58:16.3344941+00:00",
+  "LastUpdate_Achievements": "2023-05-21T12:02:14.7217612+00:00"
 }

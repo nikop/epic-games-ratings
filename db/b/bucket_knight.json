@@ -2,7 +2,7 @@
   "ID": "e4a9b75e99da4a35aa57fc602c0e8ebb",
   "Name": "Bucket Knight",
   "ProductSlug": "bucket-knight-1ac30c",
-  "Ranking_EOS_Progress": 409,
+  "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 75,
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-19T19:02:09.2329776+00:00",
-  "LastUpdate_Ratings": "2023-05-21T10:58:56.2222411+00:00",
-  "LastUpdate_Achievements": "2023-05-21T11:01:02.8666293+00:00"
+  "LastUpdate_Ratings": "2023-05-21T11:59:35.6917163+00:00",
+  "LastUpdate_Achievements": "2023-05-21T12:02:16.0144676+00:00"
 }

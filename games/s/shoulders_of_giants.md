@@ -11,8 +11,8 @@ Rating: 4.32 (Ranked 746)
 | Frogbot | 73.00% | ~1,486 |
 | Ouch | 56.00% | ~1,140 |
 | Fun in the Stun | 55.00% | ~1,120 |
+| Do you feel like a tough guy? | 45.00% | ~916 |
 | The Interdimensional Power of Friendship | 45.00% | ~916 |
-| Do you feel like a tough guy? | 44.00% | ~896 |
 | Turn Up The HEAT | 40.00% | ~814 |
 | Stop Hitting Yourself! | 35.00% | ~713 |
 | Nothing to Wear | 31.00% | ~631 |

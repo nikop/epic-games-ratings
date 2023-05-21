@@ -16,9 +16,9 @@
 | Quite A Snack | 58.00% | ~68 |
 | Overwhelming Power | 53.00% | ~63 |
 | Impenetrable Skin | 49.00% | ~58 |
-| Chomp Chomp! | 41.00% | ~48 |
+| Chomp Chomp! | 42.00% | ~50 |
 | Glorious Battle | 39.00% | ~46 |
-| Diaper Time! | 38.00% | ~45 |
+| Diaper Time! | 39.00% | ~46 |
 | Supreme Power | 37.00% | ~44 |
 | The Duelist | 36.00% | ~42 |
 | Mutant And Proud | 36.00% | ~42 |
@@ -32,8 +32,8 @@
 | You Shall Not Pass | 25.00% | ~30 |
 | Mommy's Very Angry | 25.00% | ~30 |
 | Undying Skin | 25.00% | ~30 |
+| Fight Me! | 25.00% | ~30 |
 | Animal Lover | 24.00% | ~28 |
-| Fight Me! | 24.00% | ~28 |
 | Immortal Skin | 20.00% | ~24 |
 | Back To The Future | 19.00% | ~22 |
 | Loyal Companion | 19.00% | ~22 |

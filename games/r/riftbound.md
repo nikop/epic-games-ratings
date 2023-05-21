@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adventure Time | 88.00% | ~14 |
-| Master Of The Arts | 44.00% | ~7 |
-| Close Call | 19.00% | ~3 |
+| Master Of The Arts | 50.00% | ~8 |
+| Close Call | 25.00% | ~4 |
 | Adept Summoner | 0.00% | ~0 |
 | Apprentice Summoner | 0.00% | ~0 |
 | Brave Younglings | 0.00% | ~0 |
@@ -32,7 +32,7 @@
 | Who's The Boss? | 0.00% | ~0 |
 | Worker Wisp | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16 (Ranked 317)  
+Progressed: 16 (Ranked 318)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |

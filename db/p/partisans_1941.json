@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 911,
+  "EOS_Progressed": 912,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -605,6 +605,11 @@
       "Time": "2023-05-21T06:06:20.6248177+00:00",
       "NumProgressed": 911,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-21T12:07:21.6379583+00:00",
+      "NumProgressed": 912,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -664,7 +669,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "Defense_Common",
@@ -855,15 +860,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 911,
+      "Progressed": 912,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-05-21T11:05:55.7043466+00:00",
+  "LastChanged_Achievements": "2023-05-21T12:07:21.6379579+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:35.4826245+00:00",
-  "LastUpdate_Ratings": "2023-05-21T10:59:21.2444376+00:00",
-  "LastUpdate_Achievements": "2023-05-21T11:05:55.704373+00:00"
+  "LastUpdate_Ratings": "2023-05-21T12:00:09.3009743+00:00",
+  "LastUpdate_Achievements": "2023-05-21T12:07:21.6379794+00:00"
 }

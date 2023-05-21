@@ -7,7 +7,8 @@
 | START | 83.00% | ~5 |
 | Ram Corporal | 83.00% | ~5 |
 | Ram Sergeant | 50.00% | ~3 |
-| Ram Staff Sergeant | 17.00% | ~1 |
+| Ram Staff Sergeant | 33.00% | ~2 |
+| Ram First Sergeant | 17.00% | ~1 |
 | Senior Sergeant Baran | 17.00% | ~1 |
 | Sergeant Major Baran | 17.00% | ~1 |
 | Senior warrant officer Baran 3rd class | 0.00% | ~0 |
@@ -23,7 +24,6 @@
 | Lieutenant General Baran | 0.00% | ~0 |
 | EMERAID RAM | 0.00% | ~0 |
 | GOLDEN RAM | 0.00% | ~0 |
-| Ram First Sergeant | 0.00% | ~0 |
 | Senior warrant officer Baran 1st class | 0.00% | ~0 |
 | Senior warrant officer Baran 2nd class | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

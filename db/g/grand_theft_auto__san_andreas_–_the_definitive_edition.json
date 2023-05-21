@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -290,9 +290,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7991,
+  "EOS_Progressed": 7996,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 374,
+  "EOS_NewPlayers": 377,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1905,6 +1905,11 @@
       "Time": "2023-05-21T11:06:06.9430687+00:00",
       "NumProgressed": 7991,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-05-21T12:07:34.5612141+00:00",
+      "NumProgressed": 7996,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 35,
@@ -1916,7 +1921,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6393
+      "UsersEstimate": 6397
     },
     {
       "ID": "ACH02",
@@ -1924,7 +1929,7 @@
       "Name": "With Extra Dip",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "ACH03",
@@ -1932,7 +1937,7 @@
       "Name": "The End of the Line",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "ACH04",
@@ -1964,7 +1969,7 @@
       "Name": "The American Dream",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "ACH08",
@@ -1972,7 +1977,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3836
+      "UsersEstimate": 3838
     },
     {
       "ID": "ACH09",
@@ -1996,7 +2001,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "ACH12",
@@ -2020,7 +2025,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "ACH15",
@@ -2084,7 +2089,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "ACH23",
@@ -2092,7 +2097,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1758
+      "UsersEstimate": 1759
     },
     {
       "ID": "ACH24",
@@ -2132,7 +2137,7 @@
       "Name": "Original Gangster",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "ACH29",
@@ -2195,7 +2200,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 7991,
+      "Progressed": 7996,
       "Completed": 17
     }
   ],
@@ -2203,8 +2208,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-05-21T03:01:02.6768255+00:00",
-  "LastChanged_Achievements": "2023-05-21T11:06:06.9430683+00:00",
+  "LastChanged_Achievements": "2023-05-21T12:07:34.5612135+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:19.5303152+00:00",
-  "LastUpdate_Ratings": "2023-05-21T11:00:22.2122107+00:00",
-  "LastUpdate_Achievements": "2023-05-21T11:06:06.9431065+00:00"
+  "LastUpdate_Ratings": "2023-05-21T12:01:24.064328+00:00",
+  "LastUpdate_Achievements": "2023-05-21T12:07:34.5612521+00:00"
 }

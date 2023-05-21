@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -340,9 +340,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 793,
+  "EOS_Progressed": 794,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -620,6 +620,11 @@
       "Time": "2023-05-20T23:06:04.8650186+00:00",
       "NumProgressed": 793,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T12:07:29.9367931+00:00",
+      "NumProgressed": 794,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -687,7 +692,7 @@
       "Name": "Atom Agent",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "EXPERT_1",
@@ -815,7 +820,7 @@
       "Name": "Not-so-private Eye",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "PROTECTION_RACKET",
@@ -879,7 +884,7 @@
       "Name": "Superhuman",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "TRAVELER_1",
@@ -903,7 +908,7 @@
       "Name": "Wanderer",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "WISHMASTER_1",
@@ -918,15 +923,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 793,
+      "Progressed": 794,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-05-09T03:01:00.2336224+00:00",
-  "LastChanged_Achievements": "2023-05-21T11:06:03.0597022+00:00",
+  "LastChanged_Achievements": "2023-05-21T12:07:29.9367926+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:55.4306832+00:00",
-  "LastUpdate_Ratings": "2023-05-21T11:00:14.7616848+00:00",
-  "LastUpdate_Achievements": "2023-05-21T11:06:03.0597335+00:00"
+  "LastUpdate_Ratings": "2023-05-21T12:01:15.6186395+00:00",
+  "LastUpdate_Achievements": "2023-05-21T12:07:29.9368212+00:00"
 }

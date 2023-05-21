@@ -7,20 +7,20 @@ Number of Ratings: 58  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Another Life | 85.00% | ~741 |
+| Space Traveler | 80.00% | ~698 |
 | Voices from the Past | 79.00% | ~689 |
-| Space Traveler | 79.00% | ~689 |
 | Demigod | 77.00% | ~671 |
 | The Great Destroyer | 76.00% | ~663 |
-| Shields Down | 73.00% | ~637 |
+| Shields Down | 74.00% | ~645 |
 | Safe Home | 69.00% | ~602 |
 | Helping Hand | 68.00% | ~593 |
 | Paragon | 64.00% | ~558 |
 | Old Days Born Anew | 63.00% | ~549 |
 | Full Arsenal | 58.00% | ~506 |
 | Controlled Demolition | 57.00% | ~497 |
+| Born to Drift | 54.00% | ~471 |
 | Payback | 54.00% | ~471 |
 | Huntress | 54.00% | ~471 |
-| Born to Drift | 53.00% | ~462 |
 | Relentless | 49.00% | ~427 |
 | The Path Forward | 47.00% | ~410 |
 | Disruption | 45.00% | ~392 |

@@ -553,9 +553,9 @@
       "ID": "KillWhileDrifting",
       "SetID": "a6c395p",
       "Name": "Born to Drift",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 462
+      "UsersEstimate": 471
     },
     {
       "ID": "KillWithALargeShip",
@@ -713,9 +713,9 @@
       "ID": "MissionSalvage",
       "SetID": "a6c395p",
       "Name": "Shields Down",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 637
+      "UsersEstimate": 645
     },
     {
       "ID": "MissionScavengingJob",
@@ -825,9 +825,9 @@
       "ID": "VisitAllLocations",
       "SetID": "a6c395p",
       "Name": "Space Traveler",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 689
+      "UsersEstimate": 698
     },
     {
       "ID": "WinARace",
@@ -849,8 +849,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-05-21T11:06:05.8914546+00:00",
+  "LastChanged_Achievements": "2023-05-21T12:07:33.3945479+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:40.2648469+00:00",
-  "LastUpdate_Ratings": "2023-05-21T11:00:04.1828025+00:00",
-  "LastUpdate_Achievements": "2023-05-21T11:06:05.8914904+00:00"
+  "LastUpdate_Ratings": "2023-05-21T12:01:02.6553813+00:00",
+  "LastUpdate_Achievements": "2023-05-21T12:07:33.3945884+00:00"
 }

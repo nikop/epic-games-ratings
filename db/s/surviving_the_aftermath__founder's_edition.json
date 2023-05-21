@@ -981,9 +981,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 5548,
+  "EOS_Progressed": 5549,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 288,
+  "EOS_NewPlayers": 287,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3416,6 +3416,11 @@
       "Time": "2023-05-21T11:06:05.8286593+00:00",
       "NumProgressed": 5548,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T12:07:33.1309638+00:00",
+      "NumProgressed": 5549,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -3459,7 +3464,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2940
+      "UsersEstimate": 2941
     },
     {
       "ID": "14",
@@ -3507,7 +3512,7 @@
       "Name": "Healer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2940
+      "UsersEstimate": 2941
     },
     {
       "ID": "2",
@@ -3521,9 +3526,9 @@
       "ID": "20",
       "SetID": "8idi9ml",
       "Name": "Famous Healer",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 2053
+      "UsersEstimate": 2109
     },
     {
       "ID": "21",
@@ -3531,7 +3536,7 @@
       "Name": "The Great Healer",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 1664
+      "UsersEstimate": 1665
     },
     {
       "ID": "22",
@@ -3547,7 +3552,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1886
+      "UsersEstimate": 1887
     },
     {
       "ID": "24",
@@ -3675,7 +3680,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 2441
+      "UsersEstimate": 2442
     },
     {
       "ID": "39",
@@ -3691,7 +3696,7 @@
       "Name": "Catastrofan",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1553
+      "UsersEstimate": 1554
     },
     {
       "ID": "40",
@@ -3898,15 +3903,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 5548,
+      "Progressed": 5549,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-05-13T10:01:00.1135595+00:00",
-  "LastChanged_Achievements": "2023-05-21T11:06:05.8286588+00:00",
+  "LastChanged_Achievements": "2023-05-21T12:07:33.1309632+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:33.4626364+00:00",
-  "LastUpdate_Ratings": "2023-05-21T11:00:02.2325108+00:00",
-  "LastUpdate_Achievements": "2023-05-21T11:06:05.8287273+00:00"
+  "LastUpdate_Ratings": "2023-05-21T12:01:00.9498523+00:00",
+  "LastUpdate_Achievements": "2023-05-21T12:07:33.1310351+00:00"
 }

@@ -94,9 +94,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2076,
+  "EOS_Progressed": 2077,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1569,6 +1569,11 @@
       "Time": "2023-05-21T11:05:39.3060038+00:00",
       "NumProgressed": 2076,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-21T12:07:02.8612862+00:00",
+      "NumProgressed": 2077,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1604,7 +1609,7 @@
       "Name": "Whispers in the Woods II",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -1644,7 +1649,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1972
+      "UsersEstimate": 1973
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1700,7 +1705,7 @@
       "Name": "Past trauma",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -1756,7 +1761,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1578
+      "UsersEstimate": 1579
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -1764,7 +1769,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1910
+      "UsersEstimate": 1911
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1796,7 +1801,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1578
+      "UsersEstimate": 1579
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -1804,7 +1809,7 @@
       "Name": "Thornbarrow",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -1844,7 +1849,7 @@
       "Name": "Capelworth",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -1916,7 +1921,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -1940,7 +1945,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -1956,7 +1961,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 1515
+      "UsersEstimate": 1516
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -1988,7 +1993,7 @@
       "Name": "Ancient power",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -2003,7 +2008,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2076,
+      "Progressed": 2077,
       "Completed": 1
     }
   ],
@@ -2011,8 +2016,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-17T18:57:40.491639+00:00",
-  "LastChanged_Achievements": "2023-05-21T11:05:39.3060025+00:00",
+  "LastChanged_Achievements": "2023-05-21T12:07:02.8612855+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:08.2361804+00:00",
-  "LastUpdate_Ratings": "2023-05-21T10:57:41.9247665+00:00",
-  "LastUpdate_Achievements": "2023-05-21T11:05:39.3060604+00:00"
+  "LastUpdate_Ratings": "2023-05-21T11:58:00.8419748+00:00",
+  "LastUpdate_Achievements": "2023-05-21T12:07:02.8613405+00:00"
 }

@@ -6,37 +6,37 @@ Rating: 4.17 (Ranked 836)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 1.00% | ~615 |
-| Har, Har, Har, Very Funny | 0.70% | ~430 |
-| Loose Ends | 0.70% | ~430 |
+| Har, Har, Har, Very Funny | 0.70% | ~431 |
+| Loose Ends | 0.70% | ~431 |
 | To the Victor Go the Spoils | 0.60% | ~369 |
 | Get ReQ'd | 0.60% | ~369 |
 | Knighthood | 0.60% | ~369 |
-| The Batman Family | 0.50% | ~307 |
-| Protector of Gotham | 0.50% | ~307 |
-| Something in the Clay | 0.50% | ~307 |
-| The Show Mud Go On | 0.50% | ~307 |
-| Rock and a Hard Place | 0.50% | ~307 |
-| Quartzer Life Crisis | 0.50% | ~307 |
-| Snow Problem | 0.50% | ~307 |
-| Cooldown | 0.50% | ~307 |
-| Working Hard or Harley Working? | 0.50% | ~307 |
-| Universal Health Scare | 0.50% | ~307 |
-| Unstoppable Force | 0.50% | ~307 |
-| Whispered Words | 0.50% | ~307 |
-| Lock and Key | 0.50% | ~307 |
-| Bad Apples in Every Orchard | 0.50% | ~307 |
-| From Inside Gotham's Walls | 0.50% | ~307 |
-| Voiceless | 0.50% | ~307 |
-| Seeking Asylum | 0.50% | ~307 |
-| Gotham Knight | 0.50% | ~307 |
+| The Batman Family | 0.50% | ~308 |
+| Protector of Gotham | 0.50% | ~308 |
+| Something in the Clay | 0.50% | ~308 |
+| The Show Mud Go On | 0.50% | ~308 |
+| Rock and a Hard Place | 0.50% | ~308 |
+| Quartzer Life Crisis | 0.50% | ~308 |
+| Snow Problem | 0.50% | ~308 |
+| Cooldown | 0.50% | ~308 |
+| Working Hard or Harley Working? | 0.50% | ~308 |
+| Universal Health Scare | 0.50% | ~308 |
+| Unstoppable Force | 0.50% | ~308 |
+| Whispered Words | 0.50% | ~308 |
+| Lock and Key | 0.50% | ~308 |
+| Bad Apples in Every Orchard | 0.50% | ~308 |
+| From Inside Gotham's Walls | 0.50% | ~308 |
+| Voiceless | 0.50% | ~308 |
+| Seeking Asylum | 0.50% | ~308 |
+| Gotham Knight | 0.50% | ~308 |
 | End of an Era | 0.40% | ~246 |
 | In Your Element | 0.40% | ~246 |
 | Not On My Watch | 0.40% | ~246 |
 | Bulldozed | 0.40% | ~246 |
 | Shock Til They Drop | 0.40% | ~246 |
-| Out of Their League | 0.30% | ~184 |
-| Drone You Out | 0.30% | ~184 |
-| Gotham City Confidential | 0.30% | ~184 |
+| Out of Their League | 0.30% | ~185 |
+| Drone You Out | 0.30% | ~185 |
+| Gotham City Confidential | 0.30% | ~185 |
 | Dressed to Impress | 0.20% | ~123 |
 | Fusion Expert | 0.20% | ~123 |
 | Expert Crime Fighter | 0.20% | ~123 |
@@ -51,23 +51,23 @@ Rating: 4.17 (Ranked 836)
 | The Cold, the Bad and the Ugly | 0.10% | ~32 |
 | Gotham's Greatest Depths | 0.10% | ~32 |
 | Showdown Sovereign | 0.10% | ~32 |
-| Practice Makes Perfect | 0.10% | ~61 |
+| Practice Makes Perfect | 0.10% | ~62 |
 | That's Showbiz, Clayby | 0.10% | ~32 |
-| Talonted | 0.10% | ~61 |
-| The Man-Bat Family | 0.10% | ~61 |
+| Talonted | 0.10% | ~62 |
+| The Man-Bat Family | 0.10% | ~62 |
 | Icebreaker | 0.10% | ~32 |
 | Don't Mecha Big Deal About It | 0.10% | ~32 |
-| Batarang Collector | 0.10% | ~61 |
-| Read Owl About It | 0.10% | ~61 |
-| History Major | 0.10% | ~61 |
-| Claiming the Mural High Ground | 0.10% | ~61 |
+| Batarang Collector | 0.10% | ~62 |
+| Read Owl About It | 0.10% | ~62 |
+| History Major | 0.10% | ~62 |
+| Claiming the Mural High Ground | 0.10% | ~62 |
 | A Sophisticated Mallet | 0.10% | ~32 |
-| He'd Be So Proud of You | 0.10% | ~61 |
-| A Momentum Occasion | 0.10% | ~61 |
+| He'd Be So Proud of You | 0.10% | ~62 |
+| A Momentum Occasion | 0.10% | ~62 |
 | Confronting Your Demon | 0.10% | ~32 |
-| Bat Out of Hell | 0.10% | ~61 |
+| Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,498 (Ranked 68)  
+Progressed: 61,505 (Ranked 68)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-18 | 61,004 | 91 |
 | 2023-05-19 | 61,198 | 91 |
 | 2023-05-20 | 61,416 | 91 |
-| 2023-05-21 | 61,498 | 91 |
+| 2023-05-21 | 61,505 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,227  (Ranked 98)  
 Sum: 3,689 (Ranked 137)  

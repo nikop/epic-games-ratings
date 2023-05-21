@@ -2,7 +2,7 @@
   "ID": "7a1f1500fc504725a76744238e74a7a6",
   "Name": "Before Your Eyes",
   "ProductSlug": "before-your-eyes",
-  "Ranking_EOS_Progress": 409,
+  "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 75,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:35.7172572+00:00",
   "LastChanged": "2023-03-31T05:58:35.7172573+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:36.5891802+00:00",
-  "LastUpdate_Ratings": "2023-05-21T10:58:05.7783502+00:00",
-  "LastUpdate_Achievements": "2023-05-21T11:04:13.4263195+00:00"
+  "LastUpdate_Ratings": "2023-05-21T11:58:30.6766073+00:00",
+  "LastUpdate_Achievements": "2023-05-21T12:05:18.9926323+00:00"
 }

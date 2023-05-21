@@ -35,7 +35,7 @@
 | First medium level | 0.00% | ~0 |
 | Starting to take notes | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 362)  
+Progressed: 4 (Ranked 357)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -43,3 +43,4 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-11 | 1 | 0 |
 | 2023-05-13 | 2 | 0 |
 | 2023-05-17 | 3 | 0 |
+| 2023-05-21 | 4 | 0 |

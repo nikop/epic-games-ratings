@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -756,9 +756,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5732,
+  "EOS_Progressed": 5734,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2321,6 +2321,11 @@
       "Time": "2023-05-21T09:01:21.5218331+00:00",
       "NumProgressed": 5732,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T12:02:13.4197755+00:00",
+      "NumProgressed": 5734,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -2364,7 +2369,7 @@
       "Name": "Commodity Trader",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1834
+      "UsersEstimate": 1835
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -2372,7 +2377,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 3611
+      "UsersEstimate": 3612
     },
     {
       "ID": "Control_All_Relics",
@@ -2412,7 +2417,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1777
+      "UsersEstimate": 1778
     },
     {
       "ID": "First_Major_Ally",
@@ -2436,7 +2441,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4528
+      "UsersEstimate": 4530
     },
     {
       "ID": "First_Race_Met",
@@ -2444,7 +2449,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4184
+      "UsersEstimate": 4186
     },
     {
       "ID": "First_Ship_Designed",
@@ -2452,7 +2457,7 @@
       "Name": "Design a Ship",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 1605
+      "UsersEstimate": 1606
     },
     {
       "ID": "First_Stream_Travel",
@@ -2468,7 +2473,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4471
+      "UsersEstimate": 4473
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -2548,7 +2553,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1949
+      "UsersEstimate": 1950
     },
     {
       "ID": "Play_1000_Hours",
@@ -2636,7 +2641,7 @@
       "Name": "Commodity Seller",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1490
+      "UsersEstimate": 1491
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -2652,7 +2657,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3554
+      "UsersEstimate": 3555
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -2820,7 +2825,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 3840
+      "UsersEstimate": 3842
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -2884,7 +2889,7 @@
       "Name": "Prestige Victory!",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "Win_Quickly",
@@ -2907,15 +2912,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 5732,
+      "Progressed": 5734,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-05-19T13:57:08.9272337+00:00",
-  "LastChanged_Achievements": "2023-05-21T11:01:00.695163+00:00",
+  "LastChanged_Achievements": "2023-05-21T12:02:13.4197749+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:07.7367569+00:00",
-  "LastUpdate_Ratings": "2023-05-21T10:57:24.7123587+00:00",
-  "LastUpdate_Achievements": "2023-05-21T11:01:00.695251+00:00"
+  "LastUpdate_Ratings": "2023-05-21T11:57:38.6429557+00:00",
+  "LastUpdate_Achievements": "2023-05-21T12:02:13.4198609+00:00"
 }

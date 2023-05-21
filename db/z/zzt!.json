@@ -4,8 +4,8 @@
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewPlayers": 132,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
     "PcReleaseDate": "1991-01-15T12:31:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2502,
+  "EOS_Progressed": 2505,
   "EOS_Completed": 80,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 3.2,
+  "EOS_Completed_Percentage": 3.19,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:54.6096492+00:00",
@@ -1501,6 +1501,11 @@
       "Time": "2023-05-21T08:05:22.2274417+00:00",
       "NumProgressed": 2502,
       "NumCompleted": 80
+    },
+    {
+      "Time": "2023-05-21T12:06:53.8327974+00:00",
+      "NumProgressed": 2505,
+      "NumCompleted": 80
     }
   ],
   "TotalAchievements": 5,
@@ -1512,7 +1517,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 2502
+      "UsersEstimate": 2505
     },
     {
       "ID": "2",
@@ -1551,7 +1556,7 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 2502,
+      "Progressed": 2505,
       "Completed": 80
     }
   ],
@@ -1559,8 +1564,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-05-21T11:05:31.7798266+00:00",
+  "LastChanged_Achievements": "2023-05-21T12:06:53.8327965+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:53.1513524+00:00",
-  "LastUpdate_Ratings": "2023-05-21T10:58:23.5696182+00:00",
-  "LastUpdate_Achievements": "2023-05-21T11:05:31.779841+00:00"
+  "LastUpdate_Ratings": "2023-05-21T11:58:55.8376619+00:00",
+  "LastUpdate_Achievements": "2023-05-21T12:06:53.8328117+00:00"
 }

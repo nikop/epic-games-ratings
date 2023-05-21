@@ -2,7 +2,7 @@
   "ID": "cace077f51674e66b937ba8d5646fff7",
   "Name": "Mokoko X",
   "ProductSlug": "mokoko-x-e2b09d",
-  "Ranking_EOS_Progress": 409,
+  "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 75,
@@ -622,8 +622,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-08T09:03:21.3999065+00:00",
-  "LastChanged_Achievements": "2023-05-21T11:02:15.4321297+00:00",
+  "LastChanged_Achievements": "2023-05-21T12:03:22.144497+00:00",
   "LastUpdate_AppInfo": "2023-05-15T09:57:08.7786739+00:00",
-  "LastUpdate_Ratings": "2023-05-21T10:57:11.2981885+00:00",
-  "LastUpdate_Achievements": "2023-05-21T11:02:15.4321961+00:00"
+  "LastUpdate_Ratings": "2023-05-21T11:57:22.6009719+00:00",
+  "LastUpdate_Achievements": "2023-05-21T12:03:22.1445604+00:00"
 }

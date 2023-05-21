@@ -17,15 +17,15 @@ Rating: 4.45 (Ranked 609)
 | Ride in the rising sun | 15.00% | ~146 |
 | Martian explorer | 12.00% | ~117 |
 | Rookie No-No More | 12.00% | ~117 |
-| Running at the speed of sound | 11.00% | ~107 |
+| Running at the speed of sound | 12.00% | ~117 |
 | To the core | 9.00% | ~88 |
 | Blurred photofinish | 9.00% | ~88 |
 | EZ game EZ life | 7.00% | ~68 |
 | First step into a larger world | 7.00% | ~68 |
-| Over the clouds | 6.00% | ~58 |
-| Under the sea, under the sea | 6.00% | ~58 |
-| Even Faster! | 6.00% | ~58 |
-| Longshot | 6.00% | ~58 |
+| Over the clouds | 6.00% | ~59 |
+| Under the sea, under the sea | 6.00% | ~59 |
+| Even Faster! | 6.00% | ~59 |
+| Longshot | 6.00% | ~59 |
 | B-asic! | 5.00% | ~49 |
 | Under the neon lights | 4.00% | ~39 |
 | Almost broke the game | 4.00% | ~39 |
@@ -58,7 +58,7 @@ Rating: 4.45 (Ranked 609)
 | I, need, more, shelves! | 0.50% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 975 (Ranked 166)  
+Progressed: 976 (Ranked 166)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-14 | 970 | 0 |
 | 2023-05-16 | 971 | 0 |
 | 2023-05-20 | 974 | 0 |
-| 2023-05-21 | 975 | 0 |
+| 2023-05-21 | 976 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
