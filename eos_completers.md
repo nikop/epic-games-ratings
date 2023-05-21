@@ -1,13 +1,13 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 50.00% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 38.46% |
+| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 35.71% |
 | 3 | [Overloop](games/o/overloop.md) | 25.00% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 24.32% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 21.21% |
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.55% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 8 | [Island Cities](games/i/island_cities.md) | 16.53% |
+| 8 | [Island Cities](games/i/island_cities.md) | 16.26% |
 | 9 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.04% |
 | 10 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
 | 11 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.05% |
@@ -19,7 +19,7 @@
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.18% |
 | 18 | [Time Loader](games/t/time_loader.md) | 8.08% |
 | 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.85% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.70% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.81% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
 | 22 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.14% |
 | 22 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 7.14% |
@@ -27,8 +27,8 @@
 | 25 | [Ravenlok](games/r/ravenlok.md) | 6.64% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
-| 28 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.73% |
-| 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.07% |
+| 28 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.70% |
+| 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.05% |
 | 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.97% |
 | 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.93% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
@@ -81,7 +81,7 @@
 | 79 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.24% |
 | 80 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.20% |
 | 80 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.20% |
-| 82 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.19% |
+| 82 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.18% |
 | 83 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.15% |
 | 84 | [Late Shift](games/l/late_shift.md) | 1.14% |
 | 85 | [Ten Dates](games/t/ten_dates.md) | 0.99% |
@@ -103,10 +103,10 @@
 | 101 | [Haven](games/h/haven.md) | 0.70% |
 | 102 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.65% |
 | 103 | [The Surge 2](games/t/the_surge_2.md) | 0.63% |
-| 104 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.60% |
+| 104 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.59% |
 | 105 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.51% |
 | 105 | [Grindstone](games/g/grindstone.md) | 0.51% |
-| 107 | [Ghostrunner](games/g/ghostrunner.md) | 0.50% |
+| 107 | [Ghostrunner](games/g/ghostrunner.md) | 0.49% |
 | 108 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
 | 108 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.48% |
 | 110 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
