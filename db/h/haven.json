@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -443,9 +443,9 @@
       "ID": "11",
       "SetID": "n50no0",
       "Name": "Strike!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 229
+      "UsersEstimate": 240
     },
     {
       "ID": "12",
@@ -675,8 +675,8 @@
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-05-21T12:07:22.4074467+00:00",
+  "LastChanged_Achievements": "2023-05-21T13:08:11.5903873+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:06.355513+00:00",
-  "LastUpdate_Ratings": "2023-05-21T12:00:30.1009523+00:00",
-  "LastUpdate_Achievements": "2023-05-21T12:07:22.4074707+00:00"
+  "LastUpdate_Ratings": "2023-05-21T13:01:59.7837516+00:00",
+  "LastUpdate_Achievements": "2023-05-21T13:08:11.590407+00:00"
 }

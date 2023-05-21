@@ -10,19 +10,19 @@ Rating: 4.67 (Ranked 258)
 | Devil's in the details | 12.00% | ~44 |
 | Uprooting | 11.00% | ~40 |
 | Forbidden techniques | 11.00% | ~40 |
-| Slavic squatter | 9.00% | ~33 |
+| Slavic squatter | 10.00% | ~37 |
 | Devoted | 7.00% | ~26 |
 | Gold rush | 6.00% | ~22 |
 | Spirit animal | 6.00% | ~22 |
 | Liar Liar | 5.00% | ~18 |
 | A friend in need... | 5.00% | ~18 |
+| Sneak peek | 4.00% | ~15 |
 | Favorite | 4.00% | ~15 |
 | Fishing fanatic | 4.00% | ~15 |
 | The word around is... | 4.00% | ~15 |
 | The cycle acknowledged | 4.00% | ~15 |
 | Baba Yaga | 4.00% | ~15 |
 | Extensive retelling | 3.00% | ~11 |
-| Sneak peek | 3.00% | ~11 |
 | Queen | 3.00% | ~11 |
 | Specialist | 3.00% | ~11 |
 | Witch's cookbook | 3.00% | ~11 |

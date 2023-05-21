@@ -6,24 +6,24 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~32,158 |
-| Get Busy Living | 17.00% | ~21,026 |
-| Samuel Norton | 10.00% | ~12,368 |
-| Spare The Rod | 5.00% | ~6,184 |
-| Wait and Hope | 4.00% | ~4,947 |
-| I May Have Found A Way Out Of Here | 4.00% | ~4,947 |
+| Stone Walls | 26.00% | ~32,165 |
+| Get Busy Living | 17.00% | ~21,031 |
+| Samuel Norton | 10.00% | ~12,371 |
+| Spare The Rod | 5.00% | ~6,186 |
+| Wait and Hope | 4.00% | ~4,949 |
+| I May Have Found A Way Out Of Here | 4.00% | ~4,949 |
 | Don't Put Me In The Dark | 3.00% | ~3,711 |
 | Iron Bars | 3.00% | ~3,711 |
 | Throw The Book At Them | 2.00% | ~2,474 |
 | D.B. Cooper | 1.00% | ~1,237 |
 | Reformation | 0.60% | ~742 |
-| Crowd Control | 0.50% | ~618 |
+| Crowd Control | 0.50% | ~619 |
 | Freedom | 0.40% | ~495 |
 | Confined | 0.40% | ~495 |
 | It's Not What You Know... | 0.10% | ~124 |
 | ... It's What You Can Prove | 0.10% | ~124 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 123,685 (Ranked 55)  
+Progressed: 123,713 (Ranked 55)  
 Completed: 4 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -54,14 +54,14 @@ Completed: 4 (0.00%) (Ranked 201)
 | 2023-05-18 | 122,252 | 4 |
 | 2023-05-19 | 122,749 | 4 |
 | 2023-05-20 | 123,397 | 4 |
-| 2023-05-21 | 123,685 | 4 |
+| 2023-05-21 | 123,713 | 4 |
 ## Awards
-Max (Extremely Fun): 418  (Ranked 194)  
-Sum: 3,300 (Ranked 144)  
+Max (Extremely Fun): 422  (Ranked 194)  
+Sum: 3,304 (Ranked 144)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
-| This game is Extremely Fun | 418 |
+| This game is Extremely Fun | 422 |
 | This game is Highly Recommended | 410 |
 | This game is Great for Beginners | 405 |
 | This game has Quickly Understood Controls | 391 |
@@ -196,3 +196,4 @@ Diff (max vs sum): 50
 | 2023-05-18 | 4.61 | - | 415 | 3,292 |
 | 2023-05-19 | 4.61 | - | 418 | 3,297 |
 | 2023-05-20 | 4.61 | - | 418 | 3,300 |
+| 2023-05-21 | 4.61 | - | 422 | 3,304 |

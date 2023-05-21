@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,697 |
-| That's a Grand Army | 8.00% | ~3,286 |
-| That is mine! | 8.00% | ~3,286 |
-| Victorious! | 8.00% | ~3,286 |
-| Brothers in Arms | 6.00% | ~2,465 |
-| That's a Grand Navy | 6.00% | ~2,465 |
-| Seriously?! | 6.00% | ~2,465 |
-| For the Glory | 5.00% | ~2,054 |
-| Cold War | 4.00% | ~1,643 |
-| True Catholic | 4.00% | ~1,643 |
-| Defender of the Faith | 3.00% | ~1,232 |
-| It's all about the money | 3.00% | ~1,232 |
-| Respected | 3.00% | ~1,232 |
-| Truly Divine Ruler | 3.00% | ~1,232 |
+| Until death do us apart | 9.00% | ~3,701 |
+| That's a Grand Army | 8.00% | ~3,289 |
+| That is mine! | 8.00% | ~3,289 |
+| Victorious! | 8.00% | ~3,289 |
+| Brothers in Arms | 6.00% | ~2,467 |
+| That's a Grand Navy | 6.00% | ~2,467 |
+| Seriously?! | 6.00% | ~2,467 |
+| For the Glory | 5.00% | ~2,056 |
+| Cold War | 4.00% | ~1,645 |
+| True Catholic | 4.00% | ~1,645 |
+| Defender of the Faith | 3.00% | ~1,234 |
+| It's all about the money | 3.00% | ~1,234 |
+| Respected | 3.00% | ~1,234 |
+| Truly Divine Ruler | 3.00% | ~1,234 |
 | Blockader | 2.00% | ~822 |
 | Combined Arms | 2.00% | ~822 |
 | Double the Love | 2.00% | ~822 |
@@ -43,14 +43,14 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.80% | ~329 |
 | This navy can take it all | 0.80% | ~329 |
 | Down Under | 0.70% | ~288 |
-| Electable! | 0.60% | ~246 |
-| Time Bandit | 0.60% | ~246 |
-| Trustworthy | 0.60% | ~246 |
-| All belongs to Mother Russia | 0.50% | ~205 |
-| At every continent | 0.50% | ~205 |
-| Early-Modern Warfare | 0.50% | ~205 |
-| One Family to Rule them All | 0.50% | ~205 |
-| The pen is mightier than the sword | 0.50% | ~205 |
+| Time Bandit | 0.60% | ~247 |
+| Trustworthy | 0.60% | ~247 |
+| All belongs to Mother Russia | 0.50% | ~206 |
+| At every continent | 0.50% | ~206 |
+| Early-Modern Warfare | 0.50% | ~206 |
+| Electable! | 0.50% | ~206 |
+| One Family to Rule them All | 0.50% | ~206 |
+| The pen is mightier than the sword | 0.50% | ~206 |
 | Absolutely | 0.40% | ~164 |
 | Dude, Where's my Boat? | 0.40% | ~164 |
 | In the Name of the Father | 0.40% | ~164 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,078 (Ranked 80)  
+Progressed: 41,117 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -392,7 +392,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-18 | 39,222 | 0 |
 | 2023-05-19 | 39,979 | 0 |
 | 2023-05-20 | 40,736 | 0 |
-| 2023-05-21 | 41,078 | 0 |
+| 2023-05-21 | 41,117 | 0 |
 ## Awards
 Max (Educational): 5,255  (Ranked 60)  
 Sum: 43,566 (Ranked 27)  

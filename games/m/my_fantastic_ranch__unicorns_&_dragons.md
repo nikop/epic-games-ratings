@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let the Adventure Begin! | 80.00% | ~4 |
+| Let the Adventure Begin! | 100.00% | ~5 |
 | Creature Evolution | 20.00% | ~1 |
+| Think Positive | 20.00% | ~1 |
 | Spirit of competition | 20.00% | ~1 |
 | Kingdom Party Time | 20.00% | ~1 |
 | Lecturer | 20.00% | ~1 |
 | Prized Possession | 20.00% | ~1 |
-| Think Positive | 0.00% | ~0 |
 | Kingdom Champions | 0.00% | ~0 |
 | Dream Team | 0.00% | ~0 |
 | Festival Fever | 0.00% | ~0 |

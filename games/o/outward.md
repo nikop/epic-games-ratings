@@ -1,25 +1,25 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.55 (Ranked 467)  
+Rating: 4.55 (Ranked 468)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 74.00% | ~1,831 |
-| Ready for Winter | 64.00% | ~1,583 |
-| Ready for Summer | 51.00% | ~1,262 |
-| Cordon Bleu | 43.00% | ~1,064 |
-| Tapped! | 35.00% | ~866 |
-| Eureka | 31.00% | ~767 |
-| Scourge Slayer | 25.00% | ~618 |
-| Science, Troglodyte! | 23.00% | ~569 |
-| Exceptional Skill | 22.00% | ~544 |
-| Home Sweet Home | 22.00% | ~544 |
+| Venture Outward | 74.00% | ~1,833 |
+| Ready for Winter | 63.00% | ~1,561 |
+| Ready for Summer | 51.00% | ~1,263 |
+| Cordon Bleu | 43.00% | ~1,065 |
+| Tapped! | 35.00% | ~867 |
+| Eureka | 31.00% | ~768 |
+| Scourge Slayer | 25.00% | ~619 |
+| Science, Troglodyte! | 23.00% | ~570 |
+| Exceptional Skill | 22.00% | ~545 |
+| Home Sweet Home | 22.00% | ~545 |
 | Encyclopedic! | 20.00% | ~495 |
 | A Fortress Toppled! | 16.00% | ~396 |
 | Apex Predator | 16.00% | ~396 |
-| The Power of Family | 15.00% | ~371 |
+| The Power of Family | 15.00% | ~372 |
 | Strange amalgams | 12.00% | ~297 |
 | The Power of Faith | 12.00% | ~297 |
 | The Power of Freedom | 9.00% | ~223 |
@@ -30,17 +30,17 @@ Number of Ratings: 266  (23.09.2022)
 | Let ‘em eat magma! | 7.00% | ~173 |
 | The power of ambition | 7.00% | ~173 |
 | The stuff of legends. | 7.00% | ~173 |
-| Blood and justice | 6.00% | ~148 |
-| Hold my Mead and Watch This | 6.00% | ~148 |
+| Blood and justice | 6.00% | ~149 |
+| Hold my Mead and Watch This | 6.00% | ~149 |
 | Ancestor's Pride | 5.00% | ~124 |
 | For All Aurai | 4.00% | ~99 |
 | Memory of a legend | 4.00% | ~99 |
 | Light of Levant | 3.00% | ~74 |
 | This was a mistake... | 3.00% | ~74 |
-| Crowd Pleaser. | 2.00% | ~49 |
-| Perfect Defense | 2.00% | ~49 |
-| Power! To! The People! | 2.00% | ~49 |
-| Your actions define you | 2.00% | ~49 |
+| Crowd Pleaser. | 2.00% | ~50 |
+| Perfect Defense | 2.00% | ~50 |
+| Power! To! The People! | 2.00% | ~50 |
+| Your actions define you | 2.00% | ~50 |
 | The blood is life | 1.00% | ~25 |
 | They'll Tell Stories About This | 1.00% | ~25 |
 | Vanquisher of nightmares | 1.00% | ~25 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.40% | ~10 |
 | The Absolute Pinnacle. | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,474 (Ranked 140)  
+Progressed: 2,477 (Ranked 140)  
 Completed: 1 (0.04%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 1 (0.04%) (Ranked 177)
 | 2023-05-18 | 2,397 | 1 |
 | 2023-05-19 | 2,424 | 1 |
 | 2023-05-20 | 2,454 | 1 |
-| 2023-05-21 | 2,474 | 1 |
+| 2023-05-21 | 2,477 | 1 |
 ## Awards
 Max (Amazing Characters): 31  (Ranked 440)  
 Sum: 238 (Ranked 342)  

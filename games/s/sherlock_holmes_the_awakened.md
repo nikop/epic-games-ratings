@@ -12,21 +12,21 @@
 | History Check | 50.00% | ~96 |
 | A Method To His Madness | 50.00% | ~96 |
 | Lock, Stock, And Barrel | 48.00% | ~93 |
-| The New World | 47.00% | ~91 |
+| The New World | 48.00% | ~93 |
+| Sticky Fingers | 47.00% | ~91 |
+| Gaze Into The Abyss | 46.00% | ~89 |
 | Open Sesame | 46.00% | ~89 |
-| Sticky Fingers | 46.00% | ~89 |
 | Knives Out | 46.00% | ~89 |
-| Gaze Into The Abyss | 45.00% | ~87 |
-| Back In The Saddle | 44.00% | ~85 |
-| Land, Ho! | 44.00% | ~85 |
+| Back In The Saddle | 45.00% | ~87 |
+| Land, Ho! | 45.00% | ~87 |
 | No Man Is An Island | 42.00% | ~81 |
 | At Wits' End | 40.00% | ~77 |
-| Bookworm | 38.00% | ~73 |
+| Bookworm | 39.00% | ~75 |
+| Going Once... | 37.00% | ~71 |
 | Fhtagn! | 37.00% | ~71 |
-| Going Once... | 36.00% | ~69 |
 | Up In Flames | 36.00% | ~69 |
+| Brain Food | 35.00% | ~68 |
 | Let Me Be Frank | 34.00% | ~66 |
-| Brain Food | 34.00% | ~66 |
 | No Stone Unturned | 32.00% | ~62 |
 | Curiosity Killed The Cat | 22.00% | ~42 |
 | Big Breakthrough | 21.00% | ~41 |

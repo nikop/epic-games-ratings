@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1195,
+  "EOS_Progressed": 1196,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -535,6 +535,11 @@
       "Time": "2023-05-21T03:06:32.5022325+00:00",
       "NumProgressed": 1195,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-21T13:07:56.8446583+00:00",
+      "NumProgressed": 1196,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -578,7 +583,7 @@
       "Name": "A Mythic Menagerie",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_beatAllStoryCampaigns",
@@ -634,7 +639,7 @@
       "Name": "Completing the Look",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_kill1000Cultists",
@@ -690,7 +695,7 @@
       "Name": "Who\u0027s Counting?",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_kill3EnemiesWithPoisonInOneTurn",
@@ -722,7 +727,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "achievement_mythwalker",
@@ -786,7 +791,7 @@
       "Name": "War Endured",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "completedStory_legacy",
@@ -800,9 +805,9 @@
       "ID": "completedStory_monarchs",
       "SetID": "95dc8p",
       "Name": "Echoes Die",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 96
     },
     {
       "ID": "completedStory_procedural",
@@ -993,15 +998,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1195,
+      "Progressed": 1196,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-21T12:07:02.5764892+00:00",
+  "LastChanged_Achievements": "2023-05-21T13:07:56.8446577+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:59.9959604+00:00",
-  "LastUpdate_Ratings": "2023-05-21T12:01:48.6589122+00:00",
-  "LastUpdate_Achievements": "2023-05-21T12:07:02.5765401+00:00"
+  "LastUpdate_Ratings": "2023-05-21T13:02:54.7255152+00:00",
+  "LastUpdate_Achievements": "2023-05-21T13:07:56.844699+00:00"
 }

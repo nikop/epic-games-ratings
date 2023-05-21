@@ -6,30 +6,30 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~5,155 |
-| Battering Crew | 20.00% | ~2,577 |
-| The Kingsroad | 19.00% | ~2,449 |
-| Well Stocked | 14.00% | ~1,804 |
-| Royal Fleet | 14.00% | ~1,804 |
+| Conqueror | 40.00% | ~5,158 |
+| Battering Crew | 20.00% | ~2,579 |
+| The Kingsroad | 19.00% | ~2,450 |
+| Well Stocked | 14.00% | ~1,805 |
+| Royal Fleet | 14.00% | ~1,805 |
 | The Kraken’s Grasp | 10.00% | ~1,289 |
 | Daggers in the Dark | 9.00% | ~1,160 |
 | Alliance | 9.00% | ~1,160 |
-| Oathkeeper | 8.00% | ~1,031 |
-| Influential | 8.00% | ~1,031 |
-| A Long Journey | 8.00% | ~1,031 |
-| Ours is the Fury | 7.00% | ~902 |
-| We Do Not Sow | 7.00% | ~902 |
-| Winter is Coming | 7.00% | ~902 |
-| Unbowed, Unbent, Unbroken | 6.00% | ~773 |
-| Hear me Roar! | 6.00% | ~773 |
-| Defender of the Wall | 6.00% | ~773 |
-| Growing Strong | 5.00% | ~644 |
+| Oathkeeper | 8.00% | ~1,032 |
+| Influential | 8.00% | ~1,032 |
+| A Long Journey | 8.00% | ~1,032 |
+| Ours is the Fury | 7.00% | ~903 |
+| We Do Not Sow | 7.00% | ~903 |
+| Winter is Coming | 7.00% | ~903 |
+| Unbowed, Unbent, Unbroken | 6.00% | ~774 |
+| Hear me Roar! | 6.00% | ~774 |
+| Defender of the Wall | 6.00% | ~774 |
+| Growing Strong | 5.00% | ~645 |
 | What is Dead may Never Die | 3.00% | ~387 |
 | The Swift | 3.00% | ~387 |
 | King in the North | 2.00% | ~258 |
 | War of the Five Kings | 1.00% | ~129 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,887 (Ranked 102)  
+Progressed: 12,894 (Ranked 102)  
 Completed: 27 (0.21%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -60,11 +60,11 @@ Completed: 27 (0.21%) (Ranked 139)
 | 2023-05-18 | 12,546 | 25 |
 | 2023-05-19 | 12,676 | 25 |
 | 2023-05-20 | 12,834 | 26 |
-| 2023-05-21 | 12,887 | 27 |
+| 2023-05-21 | 12,894 | 27 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 301)  
-Sum: 779 (Ranked 251)  
-Diff (max vs sum): 50  
+Sum: 779 (Ranked 252)  
+Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 123 |

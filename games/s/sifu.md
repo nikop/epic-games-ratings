@@ -6,11 +6,11 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~543 |
-| Project Arena | 3.00% | ~407 |
+| Diligence as a goal | 4.00% | ~544 |
+| Project Arena | 3.00% | ~408 |
 | Bloody Sport | 1.00% | ~136 |
-| The Hateful Pole Fighter | 0.90% | ~6,338 |
-| Qi Gong: Breath | 0.90% | ~6,338 |
+| The Hateful Pole Fighter | 0.90% | ~6,339 |
+| Qi Gong: Breath | 0.90% | ~6,339 |
 | The best strikes are the ones we avoid | 0.90% | ~122 |
 | The Assault | 0.80% | ~5,634 |
 | A Lady's Blood in the Snow | 0.80% | ~5,634 |
@@ -30,7 +30,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Stuntmaster | 0.60% | ~4,226 |
 | Old Child | 0.60% | ~4,226 |
 | Kung-Fu Tussle | 0.60% | ~4,226 |
-| Deadly Venom | 0.60% | ~81 |
+| Deadly Venom | 0.60% | ~82 |
 | Dance of the Praying Mantis | 0.50% | ~3,521 |
 | Qi Gong: Mind | 0.50% | ~3,521 |
 | A Touch of Acumen | 0.50% | ~68 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~704 |
 | Warriors from the Mountain | 0.10% | ~704 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,269 (Ranked 15)  
+Progressed: 704,290 (Ranked 15)  
 Completed: 12,732 (1.81%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 12,732 (1.81%) (Ranked 65)
 | 2023-05-18 | 703,070 | 12,731 |
 | 2023-05-19 | 703,575 | 12,731 |
 | 2023-05-20 | 704,036 | 12,732 |
-| 2023-05-21 | 704,269 | 12,732 |
+| 2023-05-21 | 704,290 | 12,732 |
 ## Awards
 Max (Great Boss Battles): 6,078  (Ranked 53)  
 Sum: 10,344 (Ranked 77)  

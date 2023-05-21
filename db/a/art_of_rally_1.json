@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
     "PcReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10018,
+  "EOS_Progressed": 10020,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -476,6 +476,11 @@
       "Time": "2023-05-21T11:05:27.7422971+00:00",
       "NumProgressed": 10018,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-21T13:07:46.9561049+00:00",
+      "NumProgressed": 10020,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -535,7 +540,7 @@
       "Name": "car wash",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1302
+      "UsersEstimate": 1303
     },
     {
       "ID": "ACH_COLLECTIBLES_FINLAND",
@@ -543,7 +548,7 @@
       "Name": "perkele",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1302
+      "UsersEstimate": 1303
     },
     {
       "ID": "ACH_COLLECTIBLES_GERMANY",
@@ -591,7 +596,7 @@
       "Name": "grocery-getter",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3907
+      "UsersEstimate": 3908
     },
     {
       "ID": "ACH_COMPLETE_GROUP3",
@@ -647,7 +652,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7714
+      "UsersEstimate": 7715
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -695,7 +700,7 @@
       "Name": "brail",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5610
+      "UsersEstimate": 5611
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -711,7 +716,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9617
+      "UsersEstimate": 9619
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -727,7 +732,7 @@
       "Name": "medium attack",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 5911
+      "UsersEstimate": 5912
     },
     {
       "ID": "ACH_NIGHT",
@@ -775,7 +780,7 @@
       "Name": "good drivers have dead flies on the side windows",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 3907
+      "UsersEstimate": 3908
     },
     {
       "ID": "ACH_SNOW",
@@ -791,7 +796,7 @@
       "Name": "samir",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "ACH_TOUR_GERMANY",
@@ -799,7 +804,7 @@
       "Name": "food tour: pretzel",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1903
+      "UsersEstimate": 1904
     },
     {
       "ID": "ACH_TOUR_ITALY",
@@ -823,22 +828,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7213
+      "UsersEstimate": 7214
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10018,
+      "Progressed": 10020,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-05-21T12:06:49.1947942+00:00",
+  "LastChanged_Achievements": "2023-05-21T13:07:46.9561043+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:57.669657+00:00",
-  "LastUpdate_Ratings": "2023-05-21T11:57:41.9811733+00:00",
-  "LastUpdate_Achievements": "2023-05-21T12:06:49.1948279+00:00"
+  "LastUpdate_Ratings": "2023-05-21T13:00:08.3915685+00:00",
+  "LastUpdate_Achievements": "2023-05-21T13:07:46.9561326+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 535,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 200,
+  "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 366,
+  "EOS_Progressed": 367,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -119,6 +119,11 @@
     {
       "Time": "2023-05-21T10:05:59.6228271+00:00",
       "NumProgressed": 366,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-21T13:08:05.3824877+00:00",
+      "NumProgressed": 367,
       "NumCompleted": 1
     }
   ],
@@ -307,7 +312,7 @@
       "Name": "Last Man Standing",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "save-zombie",
@@ -345,9 +350,9 @@
       "ID": "win-first-biom",
       "SetID": "799afm0",
       "Name": "Vanquisher of Robots",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 264
     },
     {
       "ID": "win-first-level",
@@ -355,7 +360,7 @@
       "Name": "Good start!",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "win-koth-fights1",
@@ -410,7 +415,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 366,
+      "Progressed": 367,
       "Completed": 1
     }
   ],
@@ -418,8 +423,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-05-21T12:07:14.2973585+00:00",
+  "LastChanged_Achievements": "2023-05-21T13:08:05.3824871+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:20.0092319+00:00",
-  "LastUpdate_Ratings": "2023-05-21T11:59:22.6737319+00:00",
-  "LastUpdate_Achievements": "2023-05-21T12:07:14.2973852+00:00"
+  "LastUpdate_Ratings": "2023-05-21T13:01:15.489751+00:00",
+  "LastUpdate_Achievements": "2023-05-21T13:08:05.3825145+00:00"
 }

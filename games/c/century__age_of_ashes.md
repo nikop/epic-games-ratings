@@ -1,12 +1,12 @@
 # Century: Age of Ashes
 [Store](https://store.epicgames.com/en-US/p/century-age-of-ashes)  
 [View Rawdata](../../db/c/century__age_of_ashes.json)  
-Rating: 4.42 (Ranked 647)  
+Rating: 4.42 (Ranked 646)  
 Number of Ratings: 1,747  (23.09.2022)  
 ## Awards
 Max (Competitive Players): 60  (Ranked 378)  
-Sum: 580 (Ranked 285)  
-Diff (max vs sum): 93  
+Sum: 580 (Ranked 284)  
+Diff (max vs sum): 94  
 | Award | Count |
 | ----- | ----- |
 | This game has Competitive Players | 60 |

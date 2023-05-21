@@ -2,10 +2,10 @@
   "ID": "8ee9de55298245e4bfe187dd50560f3c",
   "Name": "Without Escape",
   "ProductSlug": "without-escape-c00993",
-  "Ranking_EOS_Progress": 357,
+  "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-05-18T22:00:00+00:00",
     "PcReleaseDate": "2018-04-23T22:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -43,6 +43,11 @@
     {
       "Time": "2023-05-20T23:05:47.8935446+00:00",
       "NumProgressed": 4,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T13:08:02.1774229+00:00",
+      "NumProgressed": 5,
       "NumCompleted": 0
     }
   ],
@@ -126,13 +131,13 @@
     {
       "ID": "2a8fdfo",
       "IsBase": true,
-      "Progressed": 4,
+      "Progressed": 5,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:51:18.51073+00:00",
-  "LastChanged_Achievements": "2023-05-21T12:07:10.0381937+00:00",
+  "LastChanged_Achievements": "2023-05-21T13:08:02.1774224+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:15.5629521+00:00",
-  "LastUpdate_Ratings": "2023-05-21T12:00:35.9619727+00:00",
-  "LastUpdate_Achievements": "2023-05-21T12:07:10.038202+00:00"
+  "LastUpdate_Ratings": "2023-05-21T13:02:03.997846+00:00",
+  "LastUpdate_Achievements": "2023-05-21T13:08:02.1774293+00:00"
 }

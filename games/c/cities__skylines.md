@@ -6,53 +6,53 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~527,739 |
-| Green Energy | 60.00% | ~445,977 |
-| Foggy Weather | 59.00% | ~438,544 |
-| Singing In The- | 59.00% | ~438,544 |
-| Unpopular Mayor | 41.00% | ~304,751 |
-| Power at Your Fingertips | 33.00% | ~245,287 |
-| City Planner | 23.00% | ~170,958 |
-| Rolling in Dough | 20.00% | ~148,659 |
-| Does My Bum Look Big In This? | 18.00% | ~133,793 |
-| Climbing the Social Ladder | 16.00% | ~118,927 |
-| Safe City | 14.00% | ~104,061 |
-| Quay-King | 11.00% | ~81,762 |
-| Lawmaker | 10.00% | ~74,330 |
-| With Canals You Can! | 10.00% | ~74,330 |
-| Nomen Est Omen | 7.00% | ~52,031 |
-| Well Informed | 6.00% | ~44,598 |
-| Fire Watch | 5.00% | ~37,165 |
-| Greenest City | 4.00% | ~29,732 |
-| Reporting! | 4.00% | ~29,732 |
-| Heavenly City | 3.00% | ~22,299 |
-| SIMulated City | 3.00% | ~22,299 |
-| The Safest Town | 3.00% | ~22,299 |
-| City in Motion | 2.00% | ~14,866 |
-| Professional Dumper | 2.00% | ~14,866 |
-| Earthloving City | 1.00% | ~7,433 |
-| Metropolis | 1.00% | ~7,433 |
-| Beam Me Up | 0.70% | ~5,203 |
-| Higher Education | 0.70% | ~5,203 |
-| Terraformer | 0.70% | ~5,203 |
-| Decorator | 0.60% | ~4,460 |
-| Full Capacity | 0.60% | ~4,460 |
-| The Waters of Our Lives | 0.60% | ~4,460 |
-| Airfield Expertise | 0.50% | ~3,716 |
-| Drop the Base | 0.50% | ~3,716 |
-| Get Your Snowshoes Ready! | 0.50% | ~3,716 |
-| It's heading right for us! | 0.50% | ~3,716 |
-| Postman | 0.50% | ~3,716 |
-| Shake It Up! | 0.50% | ~3,716 |
-| Speed up! | 0.50% | ~3,716 |
-| Thunder and Lightning | 0.50% | ~3,716 |
-| Twist and shout | 0.50% | ~3,716 |
-| Airlifter | 0.40% | ~2,973 |
-| Airport Architect | 0.40% | ~2,973 |
-| Are They Naked In There? | 0.40% | ~2,973 |
-| Happy Town | 0.40% | ~2,973 |
-| I Want It All | 0.40% | ~2,973 |
-| Just Tolling | 0.40% | ~2,973 |
+| Pioneer | 71.00% | ~527,874 |
+| Green Energy | 60.00% | ~446,090 |
+| Foggy Weather | 59.00% | ~438,656 |
+| Singing In The- | 59.00% | ~438,656 |
+| Unpopular Mayor | 41.00% | ~304,828 |
+| Power at Your Fingertips | 33.00% | ~245,350 |
+| City Planner | 23.00% | ~171,001 |
+| Rolling in Dough | 20.00% | ~148,697 |
+| Does My Bum Look Big In This? | 18.00% | ~133,827 |
+| Climbing the Social Ladder | 16.00% | ~118,957 |
+| Safe City | 14.00% | ~104,088 |
+| Quay-King | 11.00% | ~81,783 |
+| Lawmaker | 10.00% | ~74,348 |
+| With Canals You Can! | 10.00% | ~74,348 |
+| Nomen Est Omen | 7.00% | ~52,044 |
+| Well Informed | 6.00% | ~44,609 |
+| Fire Watch | 5.00% | ~37,174 |
+| Greenest City | 4.00% | ~29,739 |
+| Reporting! | 4.00% | ~29,739 |
+| Heavenly City | 3.00% | ~22,305 |
+| SIMulated City | 3.00% | ~22,305 |
+| The Safest Town | 3.00% | ~22,305 |
+| City in Motion | 2.00% | ~14,870 |
+| Professional Dumper | 2.00% | ~14,870 |
+| Earthloving City | 1.00% | ~7,435 |
+| Metropolis | 1.00% | ~7,435 |
+| Beam Me Up | 0.70% | ~5,204 |
+| Higher Education | 0.70% | ~5,204 |
+| Terraformer | 0.70% | ~5,204 |
+| Decorator | 0.60% | ~4,461 |
+| Full Capacity | 0.60% | ~4,461 |
+| The Waters of Our Lives | 0.60% | ~4,461 |
+| Airfield Expertise | 0.50% | ~3,717 |
+| Drop the Base | 0.50% | ~3,717 |
+| Get Your Snowshoes Ready! | 0.50% | ~3,717 |
+| It's heading right for us! | 0.50% | ~3,717 |
+| Postman | 0.50% | ~3,717 |
+| Shake It Up! | 0.50% | ~3,717 |
+| Speed up! | 0.50% | ~3,717 |
+| Thunder and Lightning | 0.50% | ~3,717 |
+| Twist and shout | 0.50% | ~3,717 |
+| Airlifter | 0.40% | ~2,974 |
+| Airport Architect | 0.40% | ~2,974 |
+| Are They Naked In There? | 0.40% | ~2,974 |
+| Happy Town | 0.40% | ~2,974 |
+| I Want It All | 0.40% | ~2,974 |
+| Just Tolling | 0.40% | ~2,974 |
 | A Huge Hadron | 0.30% | ~2,230 |
 | Friendly Teaching | 0.30% | ~2,230 |
 | Here's A Tram | 0.30% | ~2,230 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~743 |
 | Z00 | 0.10% | ~743 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 743,295 (Ranked 13)  
+Progressed: 743,484 (Ranked 13)  
 Completed: 6 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -157,7 +157,7 @@ Completed: 6 (0.00%) (Ranked 201)
 | 2023-05-18 | 735,187 | 6 |
 | 2023-05-19 | 738,089 | 6 |
 | 2023-05-20 | 741,668 | 6 |
-| 2023-05-21 | 743,295 | 6 |
+| 2023-05-21 | 743,484 | 6 |
 ## Awards
 Max (Great for Beginners): 4,505  (Ranked 68)  
 Sum: 34,403 (Ranked 34)  

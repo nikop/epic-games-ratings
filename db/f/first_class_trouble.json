@@ -4,11 +4,11 @@
   "ProductSlug": "first-class-trouble",
   "Ranking_Rating": 519,
   "Ranking_Popularity": 339,
-  "Ranking_PopularitySum": 288,
+  "Ranking_PopularitySum": 287,
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -878,6 +878,6 @@
   "FirstSeenRating": "2023-01-13T07:56:45.2170746+00:00",
   "LastChanged": "2023-05-20T23:57:28.32553+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:59.2328799+00:00",
-  "LastUpdate_Ratings": "2023-05-21T11:57:45.5438829+00:00",
-  "LastUpdate_Achievements": "2023-05-21T12:03:15.9929714+00:00"
+  "LastUpdate_Ratings": "2023-05-21T13:00:11.1816228+00:00",
+  "LastUpdate_Achievements": "2023-05-21T13:03:28.0609459+00:00"
 }

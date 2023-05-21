@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2468,9 +2468,9 @@
       "Count": 368
     }
   ],
-  "EOS_Progressed": 9016,
+  "EOS_Progressed": 9018,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4083,6 +4083,11 @@
       "Time": "2023-05-21T12:07:34.4240469+00:00",
       "NumProgressed": 9016,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T13:08:21.4209408+00:00",
+      "NumProgressed": 9018,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -4102,7 +4107,7 @@
       "Name": "Burning City",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -4126,7 +4131,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -4150,7 +4155,7 @@
       "Name": "Path of the Angel",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "09_PathOfDemon",
@@ -4166,7 +4171,7 @@
       "Name": "Path of the Azata",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "11_PathOfAeon",
@@ -4222,7 +4227,7 @@
       "Name": "Transformation",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "18_MythicChoices",
@@ -4292,9 +4297,9 @@
       "ID": "27_VictorySeige",
       "SetID": "989of5o",
       "Name": "Queen\u0027s Gratitude",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 541
+      "UsersEstimate": 631
     },
     {
       "ID": "28_GreatUpstart",
@@ -4302,7 +4307,7 @@
       "Name": "Great Upstart",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "29_StrategicVictory",
@@ -4438,7 +4443,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "46_AllPathsOpen",
@@ -4446,7 +4451,7 @@
       "Name": "All Paths Open",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -4486,7 +4491,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -4518,7 +4523,7 @@
       "Name": "Next-Door Play",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "56_GetToad",
@@ -5021,21 +5026,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7798,
+      "Progressed": 7800,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9016,
+      "Progressed": 9018,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-21T11:58:54.5561172+00:00",
-  "LastChanged_Achievements": "2023-05-21T12:07:34.4240462+00:00",
+  "LastChanged_Achievements": "2023-05-21T13:08:21.4209402+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3010226+00:00",
-  "LastUpdate_Ratings": "2023-05-21T11:58:54.5561177+00:00",
-  "LastUpdate_Achievements": "2023-05-21T12:07:34.4242357+00:00"
+  "LastUpdate_Ratings": "2023-05-21T13:00:55.498422+00:00",
+  "LastUpdate_Achievements": "2023-05-21T13:08:21.4210751+00:00"
 }

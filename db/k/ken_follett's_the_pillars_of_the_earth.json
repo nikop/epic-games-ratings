@@ -2,13 +2,13 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 504,
+  "Ranking_Rating": 503,
   "Ranking_Popularity": 286,
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 97,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -465,7 +465,7 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12572,
+  "EOS_Progressed": 12573,
   "EOS_Completed": 94,
   "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
@@ -2285,6 +2285,11 @@
       "Time": "2023-05-21T11:05:26.6580511+00:00",
       "NumProgressed": 12572,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-05-21T13:07:45.9918257+00:00",
+      "NumProgressed": 12573,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 41,
@@ -2336,7 +2341,7 @@
       "Name": "Friends of sorts",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4400
+      "UsersEstimate": 4401
     },
     {
       "ID": "tpote_achievement_15",
@@ -2384,7 +2389,7 @@
       "Name": "Yet another secret",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 4400
+      "UsersEstimate": 4401
     },
     {
       "ID": "tpote_achievement_20",
@@ -2400,7 +2405,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3897
+      "UsersEstimate": 3898
     },
     {
       "ID": "tpote_achievement_22",
@@ -2408,7 +2413,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2514
+      "UsersEstimate": 2515
     },
     {
       "ID": "tpote_achievement_23",
@@ -2504,7 +2509,7 @@
       "Name": "Nothing but make-believe",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "tpote_achievement_34",
@@ -2528,7 +2533,7 @@
       "Name": "Brother Marcus",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "tpote_achievement_37",
@@ -2552,7 +2557,7 @@
       "Name": "The oath",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "tpote_achievement_4",
@@ -2560,7 +2565,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5280
+      "UsersEstimate": 5281
     },
     {
       "ID": "tpote_achievement_40",
@@ -2568,7 +2573,7 @@
       "Name": "The truth revealed",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "tpote_achievement_41",
@@ -2576,7 +2581,7 @@
       "Name": "The End.",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "tpote_achievement_5",
@@ -2623,15 +2628,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12572,
+      "Progressed": 12573,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-21T12:06:47.9001777+00:00",
+  "LastChanged_Achievements": "2023-05-21T13:07:45.9918251+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:09:49.1992061+00:00",
-  "LastUpdate_Ratings": "2023-05-21T12:01:00.3067899+00:00",
-  "LastUpdate_Achievements": "2023-05-21T12:06:47.9002225+00:00"
+  "LastUpdate_Ratings": "2023-05-21T13:02:20.7173919+00:00",
+  "LastUpdate_Achievements": "2023-05-21T13:07:45.9918603+00:00"
 }

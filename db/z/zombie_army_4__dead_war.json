@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1497,9 +1497,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42363,
+  "EOS_Progressed": 42364,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2302,6 +2302,11 @@
       "Time": "2023-05-21T11:06:10.0227956+00:00",
       "NumProgressed": 42363,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-05-21T13:08:24.198397+00:00",
+      "NumProgressed": 42364,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 66,
@@ -2313,7 +2318,7 @@
       "Name": "Groovy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 25841
+      "UsersEstimate": 25842
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -2505,7 +2510,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26265
+      "UsersEstimate": 26266
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -2553,7 +2558,7 @@
       "Name": "Everyone\u0027s a mad scientist, life is the lab",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7625
+      "UsersEstimate": 7626
     },
     {
       "ID": "SE_COMPLETE_VENICE",
@@ -2561,7 +2566,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 20334
+      "UsersEstimate": 20335
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -2641,7 +2646,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 28807
+      "UsersEstimate": 28808
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -2673,7 +2678,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 23723
+      "UsersEstimate": 23724
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -2713,7 +2718,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27536
+      "UsersEstimate": 27537
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -2753,7 +2758,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14403
+      "UsersEstimate": 14404
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -2769,7 +2774,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27536
+      "UsersEstimate": 27537
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -2817,7 +2822,7 @@
       "Name": "The bigger they are...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6354
+      "UsersEstimate": 6355
     },
     {
       "ID": "SE_TAKEDOWN_A_BLIND_SCREAMER",
@@ -2825,7 +2830,7 @@
       "Name": "Take them down screaming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7625
+      "UsersEstimate": 7626
     },
     {
       "ID": "SE_X_HEADSHOTS_WITH_ONE_BULLET",
@@ -2840,15 +2845,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42363,
+      "Progressed": 42364,
       "Completed": 24
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-05-21T10:59:55.1500252+00:00",
-  "LastChanged_Achievements": "2023-05-21T12:07:38.1758075+00:00",
+  "LastChanged_Achievements": "2023-05-21T13:08:24.1983965+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.8149711+00:00",
-  "LastUpdate_Ratings": "2023-05-21T12:00:52.2224156+00:00",
-  "LastUpdate_Achievements": "2023-05-21T12:07:38.1758778+00:00"
+  "LastUpdate_Ratings": "2023-05-21T13:02:15.3189457+00:00",
+  "LastUpdate_Achievements": "2023-05-21T13:08:24.1984516+00:00"
 }

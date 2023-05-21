@@ -1,29 +1,29 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.41 (Ranked 658)  
+Rating: 4.41 (Ranked 657)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 9.00% | ~94 |
-| Confirming Suspicions | 5.00% | ~52 |
-| Enemy at the Gates | 3.00% | ~31 |
-| The Kraken Wakes | 3.00% | ~31 |
+| Meeting Resistance | 9.00% | ~95 |
+| Confirming Suspicions | 5.00% | ~53 |
+| Enemy at the Gates | 3.00% | ~32 |
+| Lord of War | 3.00% | ~32 |
+| The Kraken Wakes | 3.00% | ~32 |
 | Just a Flesh Wound | 2.00% | ~21 |
 | Explosive Efficiency | 2.00% | ~21 |
-| Lord of War | 2.00% | ~21 |
 | Resourceful | 2.00% | ~21 |
 | It's Starting to Crack | 2.00% | ~21 |
-| Opposing Force | 1.00% | ~10 |
-| Organ Grinder | 1.00% | ~10 |
-| Die Nussknacker Sweet! | 1.00% | ~10 |
-| As Quiet as a Mouse | 1.00% | ~10 |
-| Change the Channel | 1.00% | ~10 |
-| Target America | 1.00% | ~10 |
-| The Kraken Sleeps | 1.00% | ~10 |
-| Close Quarters | 0.90% | ~9 |
+| Opposing Force | 1.00% | ~11 |
+| Organ Grinder | 1.00% | ~11 |
+| Die Nussknacker Sweet! | 1.00% | ~11 |
+| As Quiet as a Mouse | 1.00% | ~11 |
+| Change the Channel | 1.00% | ~11 |
+| Target America | 1.00% | ~11 |
+| The Kraken Sleeps | 0.90% | ~10 |
 | Liberté | 0.80% | ~8 |
 | The Long Game | 0.80% | ~8 |
+| Close Quarters | 0.80% | ~8 |
 | Taking it back | 0.80% | ~8 |
 | Gunslinger | 0.70% | ~7 |
 | Precision Is Key | 0.70% | ~7 |
@@ -37,6 +37,7 @@ Rating: 4.41 (Ranked 658)
 | Strategist | 0.40% | ~4 |
 | Shoot for the Moon | 0.40% | ~4 |
 | No Stone Unturned | 0.30% | ~3 |
+| Rigged to Blow | 0.30% | ~3 |
 | It'll Buff Right Out | 0.30% | ~3 |
 | Don't hold your breath | 0.30% | ~3 |
 | Herr Today, Gone Tomorrow | 0.30% | ~3 |
@@ -44,7 +45,6 @@ Rating: 4.41 (Ranked 658)
 | Last Resort | 0.30% | ~3 |
 | Sink or Swim | 0.30% | ~2 |
 | Fields of Glory | 0.20% | ~2 |
-| Rigged to Blow | 0.20% | ~2 |
 | My Little Friend | 0.20% | ~2 |
 | From Paris with Love | 0.20% | ~2 |
 | Siegebreaker | 0.20% | ~2 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 658)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,049 (Ranked 163)  
+Progressed: 1,061 (Ranked 163)  
 Completed: 2 (0.19%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 2 (0.19%) (Ranked 143)
 | 2023-05-18 | 743 | 2 |
 | 2023-05-19 | 833 | 2 |
 | 2023-05-20 | 984 | 2 |
-| 2023-05-21 | 1,049 | 2 |
+| 2023-05-21 | 1,061 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

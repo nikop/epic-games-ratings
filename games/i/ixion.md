@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.55 (Ranked 467)  
+Rating: 4.55 (Ranked 468)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -22,13 +22,13 @@ Rating: 4.55 (Ranked 467)
 | A Hunk of Junk | 1.00% | ~20 |
 | Exceeding Capacity | 1.00% | ~20 |
 | Power Outage | 0.90% | ~18 |
+| Access Granted | 0.90% | ~18 |
 | Necessary Enhancement | 0.90% | ~18 |
 | Convenient Transport | 0.90% | ~18 |
-| Access Granted | 0.80% | ~16 |
 | Please Make it Stop! | 0.80% | ~16 |
 | From the Past | 0.80% | ~16 |
 | Sightseeing | 0.70% | ~14 |
-| Man's Best Friend | 0.50% | ~10 |
+| Man's Best Friend | 0.60% | ~12 |
 | Oats | 0.50% | ~10 |
 | In Dolos We Trust | 0.50% | ~10 |
 | BRAWL! | 0.50% | ~10 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 467)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,035 (Ranked 144)  
+Progressed: 2,036 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-18 | 1,926 | 0 |
 | 2023-05-19 | 1,969 | 0 |
 | 2023-05-20 | 2,021 | 0 |
-| 2023-05-21 | 2,035 | 0 |
+| 2023-05-21 | 2,036 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

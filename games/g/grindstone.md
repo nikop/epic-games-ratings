@@ -38,7 +38,7 @@ Number of Ratings: 63  (23.09.2022)
 | Collected 50 mushrooms | 14.00% | ~709 |
 | Budding Gardener | 14.00% | ~709 |
 | Stop Hitting Each Other | 13.00% | ~659 |
-| Ultimate Jerk | 12.00% | ~608 |
+| Ultimate Jerk | 13.00% | ~659 |
 | Hot Potato | 10.00% | ~507 |
 | Off the Beaten Path | 9.00% | ~456 |
 | It's Been a Blast | 9.00% | ~456 |

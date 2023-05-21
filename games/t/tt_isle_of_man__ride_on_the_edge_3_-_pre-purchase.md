@@ -6,10 +6,11 @@
 | ---- | ---------- | ----- |
 | You're Going Down! | 97.00% | ~38 |
 | To Each Their Own | 44.00% | ~17 |
-| You Get An Upgrade, You Get An Upgrade! | 21.00% | ~8 |
+| You Get An Upgrade, You Get An Upgrade! | 23.00% | ~9 |
 | Like Phileas Fogg | 18.00% | ~7 |
 | Onwards and Upwards | 18.00% | ~7 |
 | Seven-League Boots | 8.00% | ~3 |
+| Serial Winner | 8.00% | ~3 |
 | No Room for Improvement | 8.00% | ~3 |
 | Upgradeaholic | 8.00% | ~3 |
 | Start Your Engines | 8.00% | ~3 |
@@ -17,7 +18,6 @@
 | Say My Name | 5.00% | ~2 |
 | Nerd | 5.00% | ~2 |
 | Highly Qualified | 5.00% | ~2 |
-| Serial Winner | 5.00% | ~2 |
 | First and Foremost | 5.00% | ~2 |
 | Made Mother Proud | 5.00% | ~2 |
 | Winner Winner Chicken Dinner | 5.00% | ~2 |
