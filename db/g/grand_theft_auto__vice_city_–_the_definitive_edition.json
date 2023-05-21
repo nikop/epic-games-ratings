@@ -316,9 +316,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 6491,
+  "EOS_Progressed": 6493,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 348,
+  "EOS_NewPlayers": 350,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -1836,6 +1836,11 @@
       "Time": "2023-05-21T06:05:57.5245076+00:00",
       "NumProgressed": 6491,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-21T07:05:45.5109366+00:00",
+      "NumProgressed": 6493,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 34,
@@ -1919,7 +1924,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "ACH11",
@@ -1951,7 +1956,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2531
+      "UsersEstimate": 2532
     },
     {
       "ID": "ACH15",
@@ -1975,7 +1980,7 @@
       "Name": "Gun for Hire",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "ACH18",
@@ -2007,7 +2012,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2791
+      "UsersEstimate": 2792
     },
     {
       "ID": "ACH22",
@@ -2015,7 +2020,7 @@
       "Name": "Life of the Party",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "ACH23",
@@ -2063,7 +2068,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "ACH29",
@@ -2079,7 +2084,7 @@
       "Name": "Mischief Managed",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "ACH31",
@@ -2118,7 +2123,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6491,
+      "Progressed": 6493,
       "Completed": 22
     }
   ],
@@ -2126,8 +2131,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-20T16:58:27.5892756+00:00",
-  "LastChanged_Achievements": "2023-05-21T06:05:57.5245073+00:00",
+  "LastChanged_Achievements": "2023-05-21T07:05:45.5109361+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:49.9519997+00:00",
-  "LastUpdate_Ratings": "2023-05-21T05:58:28.0637631+00:00",
-  "LastUpdate_Achievements": "2023-05-21T06:05:57.5245325+00:00"
+  "LastUpdate_Ratings": "2023-05-21T06:58:13.7132014+00:00",
+  "LastUpdate_Achievements": "2023-05-21T07:05:45.5109682+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 162,
+  "EOS_Progressed": 163,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -211,6 +211,11 @@
     {
       "Time": "2023-05-21T02:11:56.3674429+00:00",
       "NumProgressed": 162,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T07:06:06.1610976+00:00",
+      "NumProgressed": 163,
       "NumCompleted": 0
     }
   ],
@@ -437,9 +442,9 @@
       "ID": "FAITH_1",
       "SetID": "44dlcg0",
       "Name": "The spiritual world...",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "FAITH_2",
@@ -551,7 +556,7 @@
       "Name": "I like parks",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -655,7 +660,7 @@
       "Name": "Small town",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "POPULATION_2",
@@ -743,7 +748,7 @@
       "Name": "Sport is good for you",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "SPORTS_2",
@@ -751,7 +756,7 @@
       "Name": "Sport is the best thing",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SPORTS_3",
@@ -854,7 +859,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 162,
+      "Progressed": 163,
       "Completed": 0
     }
   ],
@@ -862,8 +867,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-05-21T06:06:19.3784111+00:00",
+  "LastChanged_Achievements": "2023-05-21T07:06:06.161097+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:08.225759+00:00",
-  "LastUpdate_Ratings": "2023-05-21T05:59:06.2668402+00:00",
-  "LastUpdate_Achievements": "2023-05-21T06:06:19.3784778+00:00"
+  "LastUpdate_Ratings": "2023-05-21T06:58:48.6333444+00:00",
+  "LastUpdate_Achievements": "2023-05-21T07:06:06.1611779+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 26,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -28,10 +28,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 751,
-  "EOS_Completed": 47,
+  "EOS_Completed": 48,
   "EOS_NewPlayers": 126,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 6.26,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 6.39,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -1462,6 +1462,11 @@
       "Time": "2023-05-21T06:05:52.5069675+00:00",
       "NumProgressed": 751,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-05-21T07:05:40.8281739+00:00",
+      "NumProgressed": 751,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 50,
@@ -1487,9 +1492,9 @@
       "ID": "11",
       "SetID": "d0g98p",
       "Name": "Nightmare Fuel",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 278
     },
     {
       "ID": "12",
@@ -1575,9 +1580,9 @@
       "ID": "21",
       "SetID": "d0g98p",
       "Name": "Take Heart",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 270
+      "UsersEstimate": 278
     },
     {
       "ID": "22",
@@ -1743,9 +1748,9 @@
       "ID": "40",
       "SetID": "d0g98p",
       "Name": "Mirror, Mirror",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 195
+      "UsersEstimate": 203
     },
     {
       "ID": "41",
@@ -1873,15 +1878,15 @@
       "ID": "d0g98p",
       "IsBase": true,
       "Progressed": 751,
-      "Completed": 47
+      "Completed": 48
     }
   ],
   "FirstSeen": "2023-05-04T05:57:24.2490249+00:00",
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-21T06:05:52.5069671+00:00",
+  "LastChanged_Achievements": "2023-05-21T07:05:40.8281732+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:59.9943101+00:00",
-  "LastUpdate_Ratings": "2023-05-21T05:57:29.6269003+00:00",
-  "LastUpdate_Achievements": "2023-05-21T06:05:52.5070083+00:00"
+  "LastUpdate_Ratings": "2023-05-21T06:57:21.9110876+00:00",
+  "LastUpdate_Achievements": "2023-05-21T07:05:40.8282272+00:00"
 }

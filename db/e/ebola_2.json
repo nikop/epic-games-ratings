@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
     "PcReleaseDate": "2020-12-20T03:00:00+00:00",
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 186,
+  "EOS_Progressed": 187,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
@@ -646,6 +646,11 @@
       "Time": "2023-05-21T06:03:57.7556243+00:00",
       "NumProgressed": 186,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T07:04:05.2842844+00:00",
+      "NumProgressed": 187,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -777,7 +782,7 @@
       "Name": "Statue \u2714",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "achVirus",
@@ -793,21 +798,21 @@
       "Name": "Witch \u2714",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     }
   ],
   "AchievementSets": [
     {
       "ID": "1al1mjg",
       "IsBase": true,
-      "Progressed": 186,
+      "Progressed": 187,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2023-05-21T06:03:57.7556239+00:00",
+  "LastChanged_Achievements": "2023-05-21T07:04:05.2842838+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:00.6189303+00:00",
-  "LastUpdate_Ratings": "2023-05-21T05:57:10.2285949+00:00",
-  "LastUpdate_Achievements": "2023-05-21T06:03:57.7556372+00:00"
+  "LastUpdate_Ratings": "2023-05-21T06:57:02.7834691+00:00",
+  "LastUpdate_Achievements": "2023-05-21T07:04:05.2843416+00:00"
 }

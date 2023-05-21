@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
     "PcReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -171,9 +171,9 @@
       "ID": "Ach_BossDarkPoulpe",
       "SetID": "4o5gjp0",
       "Name": "Squid game",
-      "Percentage": 23,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Ach_BossFinal",
@@ -195,9 +195,9 @@
       "ID": "Ach_BossSlug",
       "SetID": "4o5gjp0",
       "Name": "\u0022Swoosh\u0022",
-      "Percentage": 60,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Ach_BossSlugMk2",
@@ -259,9 +259,9 @@
       "ID": "Ach_DiscoveryCaverns",
       "SetID": "4o5gjp0",
       "Name": "The light at the end of the tunnel",
-      "Percentage": 60,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Ach_DiscoveryCelestialIsland",
@@ -307,17 +307,17 @@
       "ID": "Ach_DiveKillEnnemis",
       "SetID": "4o5gjp0",
       "Name": "Magnitude 5",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Ach_EnnemyDeathByEnnemy",
       "SetID": "4o5gjp0",
       "Name": "Baited",
-      "Percentage": 70,
+      "Percentage": 73,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Ach_FinalBossHand",
@@ -434,8 +434,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-05-21T06:05:53.8791771+00:00",
+  "LastChanged_Achievements": "2023-05-21T07:05:42.0390585+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.0525193+00:00",
-  "LastUpdate_Ratings": "2023-05-21T05:58:04.2749705+00:00",
-  "LastUpdate_Achievements": "2023-05-21T06:05:53.8791973+00:00"
+  "LastUpdate_Ratings": "2023-05-21T06:57:51.8087628+00:00",
+  "LastUpdate_Achievements": "2023-05-21T07:05:42.0390809+00:00"
 }

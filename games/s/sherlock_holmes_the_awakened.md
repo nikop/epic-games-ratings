@@ -30,7 +30,7 @@
 | No Stone Unturned | 32.00% | ~61 |
 | Curiosity Killed The Cat | 22.00% | ~42 |
 | Big Breakthrough | 21.00% | ~40 |
-| Read It And Weep | 20.00% | ~38 |
+| Read It And Weep | 21.00% | ~40 |
 | Reawakened | 9.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 192 (Ranked 229)  

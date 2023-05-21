@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 149,
+  "EOS_Progressed": 150,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -624,6 +624,11 @@
       "Time": "2023-05-20T21:06:13.6125017+00:00",
       "NumProgressed": 149,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T07:05:48.7844116+00:00",
+      "NumProgressed": 150,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -659,7 +664,7 @@
       "Name": "From the Pages of History",
       "Percentage": 7,
       "XP": 85,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "COMPLETE_MULTIPLAYER_MATCH",
@@ -667,7 +672,7 @@
       "Name": "War with Friends",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DESTROY_100_EMPLACEMENTS_WITH_BOMBERS",
@@ -683,7 +688,7 @@
       "Name": "The Chemists\u0027 War",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "REACH_DECEMBER_1919",
@@ -699,7 +704,7 @@
       "Name": "Earth Shattering",
       "Percentage": 50,
       "XP": 90,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -730,7 +735,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 149,
+      "Progressed": 150,
       "Completed": 0
     }
   ],
@@ -738,8 +743,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-05-21T06:06:01.1781146+00:00",
+  "LastChanged_Achievements": "2023-05-21T07:05:48.7844113+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:01.4945715+00:00",
-  "LastUpdate_Ratings": "2023-05-21T05:58:40.8543478+00:00",
-  "LastUpdate_Achievements": "2023-05-21T06:06:01.1781267+00:00"
+  "LastUpdate_Ratings": "2023-05-21T06:58:25.4469825+00:00",
+  "LastUpdate_Achievements": "2023-05-21T07:05:48.7844258+00:00"
 }

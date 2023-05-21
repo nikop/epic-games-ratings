@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -764,9 +764,9 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 7277,
+  "EOS_Progressed": 7279,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1149,6 +1149,11 @@
       "Time": "2023-05-21T06:05:50.9857248+00:00",
       "NumProgressed": 7277,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-21T07:05:39.3827458+00:00",
+      "NumProgressed": 7279,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -1184,7 +1189,7 @@
       "Name": "Focus!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4512
+      "UsersEstimate": 4513
     },
     {
       "ID": "DemonCastleRestoration",
@@ -1208,7 +1213,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 2765
+      "UsersEstimate": 2766
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -1224,7 +1229,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1819
+      "UsersEstimate": 1820
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -1240,7 +1245,7 @@
       "Name": "Go Home...",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1819
+      "UsersEstimate": 1820
     },
     {
       "ID": "HeroSlayer",
@@ -1272,7 +1277,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 2838
+      "UsersEstimate": 2839
     },
     {
       "ID": "RookieWelcome",
@@ -1280,7 +1285,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1455
+      "UsersEstimate": 1456
     },
     {
       "ID": "SavedElderEnt",
@@ -1288,7 +1293,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4512
+      "UsersEstimate": 4513
     },
     {
       "ID": "SavedElderEnt_2",
@@ -1296,7 +1301,7 @@
       "Name": "Quick Movements",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 2401
+      "UsersEstimate": 2402
     },
     {
       "ID": "SkeletonKing",
@@ -1312,7 +1317,7 @@
       "Name": "Inventory Management",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2401
+      "UsersEstimate": 2402
     },
     {
       "ID": "TheLegendBegins",
@@ -1320,7 +1325,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 6768
+      "UsersEstimate": 6769
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -1328,7 +1333,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 3347
+      "UsersEstimate": 3348
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -1344,22 +1349,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6040
+      "UsersEstimate": 6042
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7277,
+      "Progressed": 7279,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-05-19T06:59:30.4131127+00:00",
-  "LastChanged_Achievements": "2023-05-21T06:05:50.9857244+00:00",
+  "LastChanged_Achievements": "2023-05-21T07:05:39.3827454+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.259325+00:00",
-  "LastUpdate_Ratings": "2023-05-21T05:59:12.660557+00:00",
-  "LastUpdate_Achievements": "2023-05-21T06:05:50.9857405+00:00"
+  "LastUpdate_Ratings": "2023-05-21T06:58:54.8382041+00:00",
+  "LastUpdate_Achievements": "2023-05-21T07:05:39.3827634+00:00"
 }

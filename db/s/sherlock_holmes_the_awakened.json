@@ -574,9 +574,9 @@
       "ID": "MQ07_1",
       "SetID": "bbing49",
       "Name": "Read It And Weep",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "MQ07_2",
@@ -631,8 +631,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-21T06:01:11.3164672+00:00",
+  "LastChanged_Achievements": "2023-05-21T07:00:49.8792163+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.473335+00:00",
-  "LastUpdate_Ratings": "2023-05-21T05:57:16.2297371+00:00",
-  "LastUpdate_Achievements": "2023-05-21T06:01:11.3164882+00:00"
+  "LastUpdate_Ratings": "2023-05-21T06:57:08.9690354+00:00",
+  "LastUpdate_Achievements": "2023-05-21T07:00:49.8792677+00:00"
 }

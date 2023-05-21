@@ -23,8 +23,8 @@
 | Glimmer of Hope | 38.00% | ~285 |
 | Teacups for Toppy | 38.00% | ~285 |
 | Well Rested | 38.00% | ~285 |
-| Nightmare Fuel | 36.00% | ~270 |
-| Take Heart | 36.00% | ~270 |
+| Nightmare Fuel | 37.00% | ~278 |
+| Take Heart | 37.00% | ~278 |
 | The Guardian | 36.00% | ~270 |
 | Stronger! | 35.00% | ~263 |
 | Ancient Wisdom | 34.00% | ~255 |
@@ -47,7 +47,7 @@
 | Final Showdown | 29.00% | ~218 |
 | Spot of Tea? | 29.00% | ~218 |
 | Going Home | 29.00% | ~218 |
-| Mirror, Mirror | 26.00% | ~195 |
+| Mirror, Mirror | 27.00% | ~203 |
 | Flower Power | 24.00% | ~180 |
 | Shopping Spree! | 21.00% | ~158 |
 | Crowned | 21.00% | ~158 |
@@ -56,7 +56,7 @@
 | Dance Master | 7.00% | ~53 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 751 (Ranked 177)  
-Completed: 47 (6.26%) (Ranked 26)  
+Completed: 48 (6.39%) (Ranked 26)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -84,7 +84,7 @@ Completed: 47 (6.26%) (Ranked 26)
 | 2023-05-18 | 671 | 45 |
 | 2023-05-19 | 702 | 46 |
 | 2023-05-20 | 739 | 47 |
-| 2023-05-21 | 751 | 47 |
+| 2023-05-21 | 751 | 48 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

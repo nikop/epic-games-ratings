@@ -13,14 +13,14 @@
 | Eyes Yet To Open | 1.00% | ~2 |
 | A New Broom Sweeps Clean | 1.00% | ~2 |
 | Mr. Hygeni | 1.00% | ~2 |
+| Total Recall | 0.60% | ~1 |
+| Something Rotten | 0.60% | ~1 |
 | The Crush And Smash The Dino Four | 0.60% | ~0 |
 | … Women Inherit The Earth | 0.60% | ~0 |
 | The Wing and the Thigh | 0.60% | ~1 |
 | Hackathon | 0.60% | ~1 |
 | All the Stories | 0.00% | ~0 |
-| Total Recall | 0.00% | ~0 |
 | Blood Capade | 0.00% | ~0 |
-| Something Rotten | 0.00% | ~0 |
 | Witness Protection | 0.00% | ~0 |
 | Crazy SOB, You Did It | 0.00% | ~0 |
 | Do-you-think-he-saurus | 0.00% | ~0 |

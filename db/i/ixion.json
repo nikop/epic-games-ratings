@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -1428,9 +1428,9 @@
       "ID": "ACH_BASE_7",
       "SetID": "92iocjf",
       "Name": "From the Past",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_BASE_8",
@@ -1467,8 +1467,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-05-13T22:58:30.2604361+00:00",
-  "LastChanged_Achievements": "2023-05-21T06:05:57.8305316+00:00",
+  "LastChanged_Achievements": "2023-05-21T07:05:45.774309+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.7103468+00:00",
-  "LastUpdate_Ratings": "2023-05-21T05:58:38.8549412+00:00",
-  "LastUpdate_Achievements": "2023-05-21T06:05:57.8305885+00:00"
+  "LastUpdate_Ratings": "2023-05-21T06:58:23.9193543+00:00",
+  "LastUpdate_Achievements": "2023-05-21T07:05:45.7743878+00:00"
 }

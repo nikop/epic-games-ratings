@@ -6,28 +6,28 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~34,222 |
-| Worth it | 64.00% | ~28,444 |
-| Eagle Eye | 55.00% | ~24,444 |
-| Corpseman I | 40.00% | ~17,778 |
-| Blast fishing | 38.00% | ~16,889 |
-| Not alone | 32.00% | ~14,222 |
-| Headhunter I | 27.00% | ~12,000 |
-| Manual Labour I | 26.00% | ~11,555 |
-| Developers, Developers, Developers | 24.00% | ~10,667 |
-| Basic Training | 24.00% | ~10,667 |
-| Furchtlos und Treu | 13.00% | ~5,778 |
-| Gott Mit Uns | 12.00% | ~5,333 |
-| This We'll Defend! | 9.00% | ~4,000 |
-| Anker wirf! | 9.00% | ~4,000 |
-| Providentiea Memor | 9.00% | ~4,000 |
-| For King and Country | 9.00% | ~4,000 |
+| Setting an example | 77.00% | ~34,227 |
+| Worth it | 64.00% | ~28,449 |
+| Eagle Eye | 55.00% | ~24,448 |
+| Corpseman I | 40.00% | ~17,780 |
+| Blast fishing | 38.00% | ~16,891 |
+| Not alone | 32.00% | ~14,224 |
+| Headhunter I | 27.00% | ~12,002 |
+| Manual Labour I | 26.00% | ~11,557 |
+| Developers, Developers, Developers | 24.00% | ~10,668 |
+| Basic Training | 24.00% | ~10,668 |
+| Furchtlos und Treu | 13.00% | ~5,779 |
+| Gott Mit Uns | 12.00% | ~5,334 |
+| This We'll Defend! | 9.00% | ~4,001 |
+| Anker wirf! | 9.00% | ~4,001 |
+| Providentiea Memor | 9.00% | ~4,001 |
+| For King and Country | 9.00% | ~4,001 |
 | Battle hardened | 8.00% | ~3,556 |
-| Semper Fidelis! | 7.00% | ~3,111 |
-| Honneur et Patrie | 7.00% | ~3,111 |
-| In Treue Fest | 5.00% | ~2,222 |
-| Voor De Koning | 5.00% | ~2,222 |
-| Extreme Headhunter | 5.00% | ~2,222 |
+| Semper Fidelis! | 7.00% | ~3,112 |
+| Honneur et Patrie | 7.00% | ~3,112 |
+| In Treue Fest | 5.00% | ~2,223 |
+| Voor De Koning | 5.00% | ~2,223 |
+| Extreme Headhunter | 5.00% | ~2,223 |
 | Advance Australia | 4.00% | ~1,778 |
 | We Stand on Guard | 4.00% | ~1,778 |
 | Sidi Brahim | 4.00% | ~1,778 |
@@ -35,22 +35,22 @@ Number of Ratings: 1,999  (23.09.2022)
 | Let them, come to us | 4.00% | ~1,778 |
 | Corpseman II | 4.00% | ~1,778 |
 | Manual Labour II | 4.00% | ~1,778 |
-| Offense is the best defence | 3.00% | ~1,333 |
-| There is no I in team | 3.00% | ~1,333 |
-| Veteran | 3.00% | ~1,333 |
-| In My Defens God Me Defend | 3.00% | ~1,333 |
-| Silver x100 | 3.00% | ~1,333 |
-| Impavidum Ferient Bella! | 3.00% | ~1,333 |
+| Offense is the best defence | 3.00% | ~1,334 |
+| There is no I in team | 3.00% | ~1,334 |
+| Veteran | 3.00% | ~1,334 |
+| In My Defens God Me Defend | 3.00% | ~1,334 |
+| Silver x100 | 3.00% | ~1,334 |
+| Impavidum Ferient Bella! | 3.00% | ~1,334 |
 | Bronze x100 | 2.00% | ~889 |
 | Shoot, Cover, Reload, Repeat | 2.00% | ~889 |
-| Gold x100 | 1.00% | ~444 |
-| Hunting the Hun | 1.00% | ~444 |
-| #1 | 1.00% | ~444 |
-| Golden Headhunter | 1.00% | ~444 |
-| That's another one down! | 1.00% | ~444 |
-| Do you even die? | 1.00% | ~444 |
-| Headhunter II | 1.00% | ~444 |
-| Corpseman III | 1.00% | ~444 |
+| Gold x100 | 1.00% | ~445 |
+| Hunting the Hun | 1.00% | ~445 |
+| #1 | 1.00% | ~445 |
+| Golden Headhunter | 1.00% | ~445 |
+| That's another one down! | 1.00% | ~445 |
+| Do you even die? | 1.00% | ~445 |
+| Headhunter II | 1.00% | ~445 |
+| Corpseman III | 1.00% | ~445 |
 | Elite Player | 0.80% | ~356 |
 | Manual Labour III | 0.40% | ~178 |
 | Buddy | 0.30% | ~133 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~44 |
 | Blood Brother | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,444 (Ranked 77)  
+Progressed: 44,451 (Ranked 77)  
 Completed: 2 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,11 +97,11 @@ Completed: 2 (0.00%) (Ranked 201)
 | 2023-05-18 | 44,114 | 2 |
 | 2023-05-19 | 44,246 | 2 |
 | 2023-05-20 | 44,407 | 2 |
-| 2023-05-21 | 44,444 | 2 |
+| 2023-05-21 | 44,451 | 2 |
 ## Awards
 Max (Highly Recommended): 93  (Ranked 332)  
-Sum: 733 (Ranked 256)  
-Diff (max vs sum): 76  
+Sum: 734 (Ranked 257)  
+Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 93 |
@@ -115,7 +115,7 @@ Diff (max vs sum): 76
 | This game has Amazing Characters | 66 |
 | This game has Realistic Visuals | 66 |
 | This game has a Competitive Community | 62 |
-| This game has Amazing Storytelling | 56 |
+| This game has Amazing Storytelling | 57 |
 | This game has Challenging Combat | 55 |
 | This game has Obsessive Gameplay | 46 |
 ## Ratings History
@@ -221,3 +221,4 @@ Diff (max vs sum): 76
 | 2023-05-17 | 4.53 | - | 93 | 731 |
 | 2023-05-18 | 4.53 | - | 93 | 732 |
 | 2023-05-20 | 4.53 | - | 93 | 733 |
+| 2023-05-21 | 4.53 | - | 93 | 734 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -209,9 +209,9 @@
       "ID": "ach_buzz",
       "SetID": "b8gh1fi",
       "Name": "Campaign Launch",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "ach_campaigns_1",
@@ -481,9 +481,9 @@
       "ID": "ach_happy",
       "SetID": "b8gh1fi",
       "Name": "Happy Tenants",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "ach_loan",
@@ -545,9 +545,9 @@
       "ID": "ach_pop_1",
       "SetID": "b8gh1fi",
       "Name": "People Mover",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "ach_pop_2",
@@ -834,8 +834,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-05-21T06:06:29.2645939+00:00",
+  "LastChanged_Achievements": "2023-05-21T07:06:15.2613889+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:39.3542327+00:00",
-  "LastUpdate_Ratings": "2023-05-21T05:58:14.716693+00:00",
-  "LastUpdate_Achievements": "2023-05-21T06:06:29.2646741+00:00"
+  "LastUpdate_Ratings": "2023-05-21T06:58:01.5934629+00:00",
+  "LastUpdate_Achievements": "2023-05-21T07:06:15.2614707+00:00"
 }

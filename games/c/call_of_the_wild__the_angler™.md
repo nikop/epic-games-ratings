@@ -6,26 +6,26 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 72.00% | ~2,599 |
-| Hey Good Hookin | 62.00% | ~2,238 |
-| I'm on a Boat! | 53.00% | ~1,913 |
-| Scaling up | 46.00% | ~1,661 |
-| Can you smell what the Rod is Hooking | 45.00% | ~1,624 |
-| Ready to Rod and Roll | 37.00% | ~1,336 |
-| More Fish in the Sea | 37.00% | ~1,336 |
-| License to Gill | 31.00% | ~1,119 |
-| Fish Out of Water | 30.00% | ~1,083 |
-| Things that go Splash in the Night | 25.00% | ~902 |
-| Goldfish? | 25.00% | ~902 |
-| Going for Gold | 23.00% | ~830 |
+| Fish Just Got Reel | 72.00% | ~2,601 |
+| Hey Good Hookin | 62.00% | ~2,240 |
+| I'm on a Boat! | 52.00% | ~1,879 |
+| Scaling up | 46.00% | ~1,662 |
+| Can you smell what the Rod is Hooking | 45.00% | ~1,626 |
+| Ready to Rod and Roll | 37.00% | ~1,337 |
+| More Fish in the Sea | 37.00% | ~1,337 |
+| License to Gill | 31.00% | ~1,120 |
+| Fish Out of Water | 30.00% | ~1,084 |
+| Things that go Splash in the Night | 25.00% | ~903 |
+| Goldfish? | 25.00% | ~903 |
+| Going for Gold | 23.00% | ~831 |
 | I'm Hooked! | 17.00% | ~614 |
-| More than a Tourist | 12.00% | ~433 |
-| Diamond in the Rough | 12.00% | ~433 |
+| More than a Tourist | 12.00% | ~434 |
+| Diamond in the Rough | 12.00% | ~434 |
 | Marathon | 8.00% | ~289 |
 | Hook, Line and Sinker | 7.00% | ~253 |
 | Big Fish Small Pond | 6.00% | ~217 |
-| I'm the Captain Now | 5.00% | ~180 |
-| School's Out for Summer | 4.00% | ~144 |
+| I'm the Captain Now | 5.00% | ~181 |
+| School's Out for Summer | 4.00% | ~145 |
 | Gonna Need a Bigger Boat | 3.00% | ~108 |
 | The Beetles | 2.00% | ~72 |
 | Taylor Made | 2.00% | ~72 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,610 (Ranked 129)  
+Progressed: 3,613 (Ranked 129)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-18 | 3,531 | 0 |
 | 2023-05-19 | 3,576 | 0 |
 | 2023-05-20 | 3,607 | 0 |
-| 2023-05-21 | 3,610 | 0 |
+| 2023-05-21 | 3,613 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 436)  
 Sum: 158 (Ranked 376)  

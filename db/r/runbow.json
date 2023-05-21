@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 243362,
+  "EOS_Progressed": 243363,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 387,
+  "EOS_NewPlayers": 388,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2799,6 +2799,11 @@
       "Time": "2023-05-21T06:06:12.5107674+00:00",
       "NumProgressed": 243362,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-21T07:05:59.6877287+00:00",
+      "NumProgressed": 243363,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 46,
@@ -2834,7 +2839,7 @@
       "Name": "Be Aggressive",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 48672
+      "UsersEstimate": 48673
     },
     {
       "ID": "blotbuster",
@@ -2914,7 +2919,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 48672
+      "UsersEstimate": 48673
     },
     {
       "ID": "didYourTime",
@@ -3177,7 +3182,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 243362,
+      "Progressed": 243363,
       "Completed": 2
     }
   ],
@@ -3185,8 +3190,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-05-21T06:06:12.510767+00:00",
+  "LastChanged_Achievements": "2023-05-21T07:05:59.6877283+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:26.6901793+00:00",
-  "LastUpdate_Ratings": "2023-05-21T05:59:28.0233812+00:00",
-  "LastUpdate_Achievements": "2023-05-21T06:06:12.510809+00:00"
+  "LastUpdate_Ratings": "2023-05-21T06:59:08.4819145+00:00",
+  "LastUpdate_Achievements": "2023-05-21T07:05:59.687779+00:00"
 }

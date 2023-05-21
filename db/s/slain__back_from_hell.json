@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 21625,
+  "EOS_Progressed": 21630,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 1117,
+  "EOS_NewPlayers": 1119,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3171,6 +3171,11 @@
       "Time": "2023-05-21T06:06:18.7684982+00:00",
       "NumProgressed": 21625,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-21T07:06:05.5257836+00:00",
+      "NumProgressed": 21630,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 29,
@@ -3182,7 +3187,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3460
+      "UsersEstimate": 3461
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -3190,7 +3195,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4325
+      "UsersEstimate": 4326
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -3222,7 +3227,7 @@
       "Name": "Down Boy!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
@@ -3254,7 +3259,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -3262,7 +3267,7 @@
       "Name": "Four Legged Friend",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_13_DEFEATED_WEREBEAST",
@@ -3294,7 +3299,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -3302,7 +3307,7 @@
       "Name": "Ice To See You",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_18_DEFEATED_IMP",
@@ -3310,7 +3315,7 @@
       "Name": "Smack My Imp Up",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_19_DEFEATED_HOGRE",
@@ -3413,7 +3418,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 21625,
+      "Progressed": 21630,
       "Completed": 18
     }
   ],
@@ -3421,8 +3426,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-05-21T06:06:18.7684978+00:00",
+  "LastChanged_Achievements": "2023-05-21T07:06:05.5257833+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:39.6610119+00:00",
-  "LastUpdate_Ratings": "2023-05-21T06:00:23.453841+00:00",
-  "LastUpdate_Achievements": "2023-05-21T06:06:18.7685276+00:00"
+  "LastUpdate_Ratings": "2023-05-21T06:59:59.1943645+00:00",
+  "LastUpdate_Achievements": "2023-05-21T07:06:05.5258232+00:00"
 }

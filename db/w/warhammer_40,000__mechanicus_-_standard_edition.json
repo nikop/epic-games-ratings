@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -393,9 +393,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 210568,
+  "EOS_Progressed": 210571,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 868,
+  "EOS_NewPlayers": 866,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3358,6 +3358,11 @@
       "Time": "2023-05-21T06:01:40.1379467+00:00",
       "NumProgressed": 210568,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-21T07:02:16.203438+00:00",
+      "NumProgressed": 210571,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 34,
@@ -3377,7 +3382,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 52642
+      "UsersEstimate": 52643
     },
     {
       "ID": "ACH_BASE_11",
@@ -3617,7 +3622,7 @@
       "Name": "Knowledge is power",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 25268
+      "UsersEstimate": 25269
     },
     {
       "ID": "ACH_BASE_8",
@@ -3640,7 +3645,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 210568,
+      "Progressed": 210571,
       "Completed": 2
     }
   ],
@@ -3648,8 +3653,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-05-20T14:58:43.6837508+00:00",
-  "LastChanged_Achievements": "2023-05-21T06:01:40.1379461+00:00",
+  "LastChanged_Achievements": "2023-05-21T07:02:16.2034375+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:04.1848298+00:00",
-  "LastUpdate_Ratings": "2023-05-21T05:58:43.1414768+00:00",
-  "LastUpdate_Achievements": "2023-05-21T06:01:40.1379828+00:00"
+  "LastUpdate_Ratings": "2023-05-21T06:58:27.6291336+00:00",
+  "LastUpdate_Achievements": "2023-05-21T07:02:16.2037522+00:00"
 }

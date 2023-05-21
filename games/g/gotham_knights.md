@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 836)
 | Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,469 (Ranked 68)  
+Progressed: 61,478 (Ranked 68)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-18 | 61,004 | 91 |
 | 2023-05-19 | 61,198 | 91 |
 | 2023-05-20 | 61,416 | 91 |
-| 2023-05-21 | 61,469 | 91 |
+| 2023-05-21 | 61,478 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,227  (Ranked 98)  
 Sum: 3,689 (Ranked 137)  

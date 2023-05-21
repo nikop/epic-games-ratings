@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 364,
+  "EOS_Progressed": 365,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -110,6 +110,11 @@
       "Time": "2023-05-21T06:06:13.8155248+00:00",
       "NumProgressed": 364,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-21T07:06:01.0404276+00:00",
+      "NumProgressed": 365,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -169,7 +174,7 @@
       "Name": "No Mercy",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "different-items1",
@@ -193,7 +198,7 @@
       "Name": "Fat of the Earth",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "finished-quest-cube",
@@ -217,7 +222,7 @@
       "Name": "Campaigning",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "finished-quest-nurgle",
@@ -233,7 +238,7 @@
       "Name": "Assemble a Meganewbie",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "finished-quest-rat",
@@ -257,15 +262,15 @@
       "Name": "Knowledge is Power",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "finished-quest-secret",
       "SetID": "799afm0",
       "Name": "To the Moon and Back",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 69
     },
     {
       "ID": "finished-quest-sword",
@@ -289,7 +294,7 @@
       "Name": "He\u0027s Seen It All",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "last-hero",
@@ -329,7 +334,7 @@
       "Name": "Great Hero",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "win-first-biom",
@@ -345,7 +350,7 @@
       "Name": "Good start!",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "win-koth-fights1",
@@ -400,7 +405,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 364,
+      "Progressed": 365,
       "Completed": 1
     }
   ],
@@ -408,8 +413,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-05-21T06:06:13.8155244+00:00",
+  "LastChanged_Achievements": "2023-05-21T07:06:01.0404269+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:20.0092319+00:00",
-  "LastUpdate_Ratings": "2023-05-21T05:58:55.6203043+00:00",
-  "LastUpdate_Achievements": "2023-05-21T06:06:13.8155442+00:00"
+  "LastUpdate_Ratings": "2023-05-21T06:58:39.0842319+00:00",
+  "LastUpdate_Achievements": "2023-05-21T07:06:01.0404695+00:00"
 }

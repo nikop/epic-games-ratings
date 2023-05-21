@@ -6,21 +6,21 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~3,875 |
-| Leader | 60.00% | ~3,322 |
-| Explorer | 53.00% | ~2,934 |
-| Healer | 53.00% | ~2,934 |
-| Aspiring Inventor | 44.00% | ~2,436 |
-| Adventurer | 41.00% | ~2,270 |
+| First Step | 70.00% | ~3,877 |
+| Leader | 60.00% | ~3,323 |
+| Explorer | 53.00% | ~2,935 |
+| Healer | 53.00% | ~2,935 |
+| Aspiring Inventor | 44.00% | ~2,437 |
+| Adventurer | 41.00% | ~2,271 |
 | Famous Healer | 38.00% | ~2,104 |
 | Local Leader | 35.00% | ~1,938 |
-| New Opportunities | 34.00% | ~1,882 |
-| Famous Explorer | 33.00% | ~1,827 |
-| Energized | 33.00% | ~1,827 |
-| The Long Haul | 33.00% | ~1,827 |
-| Survivor | 31.00% | ~1,716 |
+| New Opportunities | 34.00% | ~1,883 |
+| Famous Explorer | 33.00% | ~1,828 |
+| Energized | 33.00% | ~1,828 |
+| The Long Haul | 33.00% | ~1,828 |
+| Survivor | 31.00% | ~1,717 |
 | The Great Healer | 30.00% | ~1,661 |
-| Catastrofan | 28.00% | ~1,550 |
+| Catastrofan | 28.00% | ~1,551 |
 | Legendary Explorer | 27.00% | ~1,495 |
 | Cleaner | 27.00% | ~1,495 |
 | Finders, Keepers | 25.00% | ~1,384 |
@@ -35,11 +35,11 @@ Number of Ratings: 836  (23.09.2022)
 | Friendly | 16.00% | ~886 |
 | Big Game Hunter | 16.00% | ~886 |
 | Spreading Influence | 16.00% | ~886 |
-| Around the World | 15.00% | ~830 |
+| Around the World | 15.00% | ~831 |
 | Bookworm | 14.00% | ~775 |
 | Famous Adventurer | 13.00% | ~720 |
 | Prepared for Anything | 13.00% | ~720 |
-| Big Catastrofan | 12.00% | ~664 |
+| Big Catastrofan | 12.00% | ~665 |
 | It's a Finnish Thing | 10.00% | ~554 |
 | Sky Burial | 9.00% | ~498 |
 | Trader | 8.00% | ~443 |
@@ -48,8 +48,8 @@ Number of Ratings: 836  (23.09.2022)
 | Really Friendly | 6.00% | ~332 |
 | New Eden | 6.00% | ~332 |
 | Amped Up | 5.00% | ~277 |
-| Luxurious Living | 4.00% | ~221 |
-| Look, no Hands! | 4.00% | ~221 |
+| Luxurious Living | 4.00% | ~222 |
+| Look, no Hands! | 4.00% | ~222 |
 | Mogul | 3.00% | ~166 |
 | Ranch Hand | 3.00% | ~166 |
 | Diplomat | 2.00% | ~111 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Finnished | 0.20% | ~11 |
 | Customized calamities | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,536 (Ranked 120)  
+Progressed: 5,538 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-18 | 5,417 | 0 |
 | 2023-05-19 | 5,457 | 0 |
 | 2023-05-20 | 5,518 | 0 |
-| 2023-05-21 | 5,536 | 0 |
+| 2023-05-21 | 5,538 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 325)  
 Sum: 652 (Ranked 270)  

@@ -14,8 +14,8 @@
 | Stop Right There | 23.00% | ~7 |
 | Get to the Point | 19.00% | ~6 |
 | Toe to Toe | 13.00% | ~4 |
+| Phew! | 13.00% | ~4 |
 | Mr. Want It All | 10.00% | ~3 |
-| Phew! | 10.00% | ~3 |
 | The Paradox Coordinate Conqueror | 6.00% | ~2 |
 | Grand Escape | 6.00% | ~2 |
 | Space Warrior: Prologue | 6.00% | ~2 |

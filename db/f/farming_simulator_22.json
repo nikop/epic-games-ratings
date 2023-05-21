@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -4645,18 +4645,24 @@
       "Rating": 4.7,
       "NumberOfAwards": 36508,
       "NumberOfAwardsMax": 4227
+    },
+    {
+      "Time": "2023-05-21T06:59:40.107191+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 36513,
+      "NumberOfAwardsMax": 4232
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 36508,
-  "NumberOfAwardsMax": 4227,
+  "NumberOfAwards": 36513,
+  "NumberOfAwardsMax": 4232,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4227
+      "Count": 4232
     },
     {
       "Text": "This game is Relaxing",
@@ -4725,9 +4731,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 42687,
+  "EOS_Progressed": 42688,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -7105,6 +7111,11 @@
       "Time": "2023-05-21T06:06:19.6261781+00:00",
       "NumProgressed": 42687,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-21T07:06:06.3991709+00:00",
+      "NumProgressed": 42688,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -7132,7 +7143,7 @@
       "Name": "Three little piggies\u2026",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1707
+      "UsersEstimate": 1708
     },
     {
       "ID": "BreedSheep",
@@ -7164,7 +7175,7 @@
       "Name": "Game on",
       "Percentage": 4,
       "XP": 55,
-      "UsersEstimate": 1707
+      "UsersEstimate": 1708
     },
     {
       "ID": "CollectiblesUS",
@@ -7212,7 +7223,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26039
+      "UsersEstimate": 26040
     },
     {
       "ID": "DeliveryGrapes",
@@ -7252,7 +7263,7 @@
       "Name": "Plant get enough",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 26039
+      "UsersEstimate": 26040
     },
     {
       "ID": "Harvested",
@@ -7268,7 +7279,7 @@
       "Name": "Own use",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 32442
+      "UsersEstimate": 32443
     },
     {
       "ID": "HorseJumps",
@@ -7324,7 +7335,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 22624
+      "UsersEstimate": 22625
     },
     {
       "ID": "NumBeehives",
@@ -7348,7 +7359,7 @@
       "Name": "All out of Land",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 18782
+      "UsersEstimate": 18783
     },
     {
       "ID": "NumProductionPoints",
@@ -7372,7 +7383,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 24758
+      "UsersEstimate": 24759
     },
     {
       "ID": "PetDog",
@@ -7380,7 +7391,7 @@
       "Name": "Ultimutt Pawesomeness",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 11952
+      "UsersEstimate": 11953
     },
     {
       "ID": "PlayTime",
@@ -7388,7 +7399,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 25185
+      "UsersEstimate": 25186
     },
     {
       "ID": "Sow",
@@ -7412,7 +7423,7 @@
       "Name": "Rock on",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 5122
+      "UsersEstimate": 5123
     },
     {
       "ID": "TractorDriving",
@@ -7420,7 +7431,7 @@
       "Name": "Field Trip",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 18355
+      "UsersEstimate": 18356
     },
     {
       "ID": "TruckDriving",
@@ -7459,15 +7470,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 42687,
+      "Progressed": 42688,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2023-05-20T18:59:57.9266548+00:00",
-  "LastChanged_Achievements": "2023-05-21T06:06:19.6261777+00:00",
+  "LastChanged": "2023-05-21T06:59:40.1071908+00:00",
+  "LastChanged_Achievements": "2023-05-21T07:06:06.3991705+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:04:56.3875149+00:00",
-  "LastUpdate_Ratings": "2023-05-21T06:00:00.0951032+00:00",
-  "LastUpdate_Achievements": "2023-05-21T06:06:19.6262163+00:00"
+  "LastUpdate_Ratings": "2023-05-21T06:59:40.1071915+00:00",
+  "LastUpdate_Achievements": "2023-05-21T07:06:06.3992196+00:00"
 }

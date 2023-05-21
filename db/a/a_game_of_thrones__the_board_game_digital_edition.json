@@ -1239,9 +1239,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12856,
+  "EOS_Progressed": 12858,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 790,
+  "EOS_NewPlayers": 787,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -4139,6 +4139,11 @@
       "Time": "2023-05-21T06:06:22.3899917+00:00",
       "NumProgressed": 12856,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-21T07:06:08.8434016+00:00",
+      "NumProgressed": 12858,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 22,
@@ -4238,7 +4243,7 @@
       "Name": "Oathkeeper",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "1027",
@@ -4270,7 +4275,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2571
+      "UsersEstimate": 2572
     },
     {
       "ID": "1031",
@@ -4286,7 +4291,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 5142
+      "UsersEstimate": 5143
     },
     {
       "ID": "1033",
@@ -4302,7 +4307,7 @@
       "Name": "Influential",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "1035",
@@ -4318,22 +4323,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 12856,
+      "Progressed": 12858,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-05-07T09:02:24.8496722+00:00",
-  "LastChanged_Achievements": "2023-05-21T06:06:22.3899912+00:00",
+  "LastChanged_Achievements": "2023-05-21T07:06:08.8433901+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:02.1359414+00:00",
-  "LastUpdate_Ratings": "2023-05-21T06:00:40.0928833+00:00",
-  "LastUpdate_Achievements": "2023-05-21T06:06:22.3900181+00:00"
+  "LastUpdate_Ratings": "2023-05-21T07:00:17.714352+00:00",
+  "LastUpdate_Achievements": "2023-05-21T07:06:08.8434425+00:00"
 }
