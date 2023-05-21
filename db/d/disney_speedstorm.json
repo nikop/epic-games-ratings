@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2515,
+  "EOS_Progressed": 2516,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1590,6 +1590,11 @@
       "Time": "2023-05-20T23:00:27.75262+00:00",
       "NumProgressed": 2515,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T00:01:15.8765716+00:00",
+      "NumProgressed": 2516,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1601,7 +1606,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "10",
@@ -1641,7 +1646,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1031
+      "UsersEstimate": 1032
     },
     {
       "ID": "15",
@@ -1697,7 +1702,7 @@
       "Name": "PROTECTED",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "21",
@@ -1792,13 +1797,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2515,
+      "Progressed": 2516,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-20T23:00:27.7526004+00:00",
+  "LastChanged_Achievements": "2023-05-21T00:01:15.8765712+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.9291954+00:00",
-  "LastUpdate_Ratings": "2023-05-20T22:58:44.1463529+00:00",
-  "LastUpdate_Achievements": "2023-05-20T23:00:27.7547766+00:00"
+  "LastUpdate_Ratings": "2023-05-20T23:59:15.0823762+00:00",
+  "LastUpdate_Achievements": "2023-05-21T00:01:15.8766007+00:00"
 }

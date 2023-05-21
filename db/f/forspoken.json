@@ -238,7 +238,7 @@
   "Tags": [],
   "EOS_Progressed": 38142,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2329,9 +2329,9 @@
       "ID": "CHAPTER_08_CLEAR",
       "SetID": "6d0g7k8",
       "Name": "The Truth Will Out",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 343
+      "UsersEstimate": 381
     },
     {
       "ID": "CHAPTER_09_CLEAR",
@@ -2664,8 +2664,8 @@
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-19T13:58:09.5173669+00:00",
-  "LastChanged_Achievements": "2023-05-20T23:05:53.1906526+00:00",
+  "LastChanged_Achievements": "2023-05-21T00:06:21.4132591+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:06.8378338+00:00",
-  "LastUpdate_Ratings": "2023-05-20T22:58:18.116339+00:00",
-  "LastUpdate_Achievements": "2023-05-20T23:05:53.1907083+00:00"
+  "LastUpdate_Ratings": "2023-05-20T23:58:44.3044066+00:00",
+  "LastUpdate_Achievements": "2023-05-21T00:06:21.4133121+00:00"
 }

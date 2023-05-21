@@ -8,43 +8,44 @@
 | MLG 360 no scope kill! | 85.00% | ~17 |
 | Are you ready to rumble? | 85.00% | ~17 |
 | That's what cheese said! | 75.00% | ~15 |
+| I like you...but I have to kill you... | 70.00% | ~14 |
 | Nerd | 70.00% | ~14 |
+| Rolling, Rolling, Rolling | 65.00% | ~13 |
 | AHHHHHH.....I'M ON FIRE!!! | 65.00% | ~13 |
-| I like you...but I have to kill you... | 65.00% | ~13 |
-| Rolling, Rolling, Rolling | 60.00% | ~12 |
-| Up and down | 60.00% | ~12 |
-| Not so hip anymore! | 60.00% | ~12 |
-| Blurry depth perception | 60.00% | ~12 |
-| Oh, you're up to no gouda! | 50.00% | ~10 |
-| Fire-fighter! | 50.00% | ~10 |
+| Up and down | 65.00% | ~13 |
+| Not so hip anymore! | 65.00% | ~13 |
+| Blurry depth perception | 65.00% | ~13 |
+| Oh, you're up to no gouda! | 55.00% | ~11 |
+| Fire-fighter! | 55.00% | ~11 |
 | Honk honk! | 35.00% | ~7 |
 | Mushroom soup of the day | 35.00% | ~7 |
 | Make Love not War-Craft a Mistlefoe | 35.00% | ~7 |
+| Butcher | 30.00% | ~6 |
 | You're not going to blow me up! | 30.00% | ~6 |
-| Butcher | 25.00% | ~5 |
-| My pants squeak when I walk | 25.00% | ~5 |
+| My pants squeak when I walk | 30.00% | ~6 |
+| Spare Ribs | 30.00% | ~6 |
+| Make America Grate Again | 25.00% | ~5 |
+| Self assessed tax return | 25.00% | ~5 |
+| Karaoke king | 25.00% | ~5 |
 | Thats disgusting! | 25.00% | ~5 |
 | Meat grinder | 25.00% | ~5 |
-| Spare Ribs | 25.00% | ~5 |
 | Cockadoodledoo! | 25.00% | ~5 |
-| Make America Grate Again | 20.00% | ~4 |
-| Self assessed tax return | 20.00% | ~4 |
+| You are no match for me, Billy! | 20.00% | ~4 |
 | Surprise!! | 20.00% | ~4 |
-| Karaoke king | 20.00% | ~4 |
-| You are no match for me, Billy! | 15.00% | ~3 |
+| Haemochromatosis | 20.00% | ~4 |
+| Pasta Bolognese | 20.00% | ~4 |
+| Meatballs, coming up! | 15.00% | ~3 |
+| Catch the bus with me! | 15.00% | ~3 |
 | A Megapint...? | 15.00% | ~3 |
-| Haemochromatosis | 15.00% | ~3 |
-| Meatballs, coming up! | 10.00% | ~2 |
-| Catch the bus with me! | 10.00% | ~2 |
-| I drink, but I'm not a drunk! | 10.00% | ~2 |
+| I drink, but I'm not a drunk! | 15.00% | ~3 |
+| Another one bites the iron | 15.00% | ~3 |
+| I'm going to get a concussion | 10.00% | ~2 |
 | Okay... Maybe I'm a bit drunk... | 10.00% | ~2 |
-| Another one bites the iron | 10.00% | ~2 |
-| Pasta Bolognese | 10.00% | ~2 |
+| Ripe Meat Off The Bone! | 10.00% | ~2 |
+| You can't stop me, bro! | 10.00% | ~2 |
 | Spoiler alert! | 5.00% | ~1 |
-| I'm going to get a concussion | 5.00% | ~1 |
-| Ripe Meat Off The Bone! | 5.00% | ~1 |
+| Deal with it | 5.00% | ~1 |
 | European karaoke king | 5.00% | ~1 |
-| You can't stop me, bro! | 5.00% | ~1 |
 | Hovering around | 5.00% | ~1 |
 | You're not so Big anymore, Boi! | 0.00% | ~0 |
 | You're looking mozzare-hella good! | 0.00% | ~0 |
@@ -69,7 +70,6 @@
 | My name is Whoopass, SIR Whoopass! | 0.00% | ~0 |
 | Timber! | 0.00% | ~0 |
 | Just wing it! | 0.00% | ~0 |
-| Deal with it | 0.00% | ~0 |
 | Consider it dealt with | 0.00% | ~0 |
 | Your daily dose of Vitamin C. | 0.00% | ~0 |
 | I'm getting full... | 0.00% | ~0 |

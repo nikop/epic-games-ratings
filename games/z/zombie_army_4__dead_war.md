@@ -6,13 +6,13 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 68.00% | ~28,799 |
+| Shoot it, man! Shoot it in the head! | 68.00% | ~28,798 |
 | Say goodbye, creep! | 65.00% | ~27,528 |
 | Blood splattered | 65.00% | ~27,528 |
-| Choo choo! | 62.00% | ~26,258 |
+| Choo choo! | 62.00% | ~26,257 |
 | Groovy | 61.00% | ~25,834 |
-| Cleanup on aisle 4! | 56.00% | ~23,717 |
-| Gold | 50.00% | ~21,176 |
+| Cleanup on aisle 4! | 56.00% | ~23,716 |
+| Gold | 50.00% | ~21,175 |
 | The boat can leave now...tell the crew | 48.00% | ~20,328 |
 | Give me something to shoot! | 46.00% | ~19,481 |
 | Stand back boy! | 46.00% | ~19,481 |
@@ -26,15 +26,15 @@ Number of Ratings: 743  (23.09.2022)
 | Cranial blowout! | 36.00% | ~15,246 |
 | Zombie killin' machine | 36.00% | ~15,246 |
 | Every bullet counts | 36.00% | ~15,246 |
-| All of this has happened before… | 35.00% | ~14,823 |
+| All of this has happened before… | 35.00% | ~14,822 |
 | You've got red on you | 34.00% | ~14,399 |
 | All roads lead to Rome | 33.00% | ~13,976 |
-| You're all going to die down here | 31.00% | ~13,129 |
-| He did Nazi that coming | 31.00% | ~13,129 |
-| Kill of the week | 31.00% | ~13,129 |
+| You're all going to die down here | 31.00% | ~13,128 |
+| He did Nazi that coming | 31.00% | ~13,128 |
+| Kill of the week | 31.00% | ~13,128 |
 | I never liked them anyway | 30.00% | ~12,705 |
 | Is it over? | 28.00% | ~11,858 |
-| Got your back | 27.00% | ~11,435 |
+| Got your back | 27.00% | ~11,434 |
 | Gore soaked | 24.00% | ~10,164 |
 | Shock therapy | 22.00% | ~9,317 |
 | Leave the limbs you've lost | 22.00% | ~9,317 |
@@ -42,7 +42,7 @@ Number of Ratings: 743  (23.09.2022)
 | Take them down screaming | 18.00% | ~7,623 |
 | Weapons expert | 17.00% | ~7,200 |
 | Bad Blood | 16.00% | ~6,776 |
-| The bigger they are... | 15.00% | ~6,353 |
+| The bigger they are... | 15.00% | ~6,352 |
 | I'm going deeper underground | 14.00% | ~5,929 |
 | Well equipped | 12.00% | ~5,082 |
 | Into the deep | 12.00% | ~5,082 |
@@ -66,14 +66,14 @@ Number of Ratings: 743  (23.09.2022)
 | They're coming to get you Barbara | 4.00% | ~1,694 |
 | Total protonic reversal | 4.00% | ~1,694 |
 | A friend in need | 4.00% | ~1,694 |
-| People don't change. We go round in circles | 3.00% | ~1,271 |
-| The blighters got through a second time. | 3.00% | ~1,271 |
-| I'm a survivor! | 3.00% | ~1,271 |
+| People don't change. We go round in circles | 3.00% | ~1,270 |
+| The blighters got through a second time. | 3.00% | ~1,270 |
+| I'm a survivor! | 3.00% | ~1,270 |
 | That's a lot of them, and only 4 of us | 2.00% | ~847 |
 | Just me and my trusty sidearm | 1.00% | ~424 |
 | None more hard | 0.50% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,351 (Ranked 79)  
+Progressed: 42,350 (Ranked 79)  
 Completed: 24 (0.06%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,6 +104,7 @@ Completed: 24 (0.06%) (Ranked 170)
 | 2023-05-18 | 42,292 | 24 |
 | 2023-05-19 | 42,312 | 24 |
 | 2023-05-20 | 42,351 | 24 |
+| 2023-05-21 | 42,350 | 24 |
 ## Awards
 Max (Great Boss Battles): 774  (Ranked 147)  
 Sum: 2,369 (Ranked 169)  

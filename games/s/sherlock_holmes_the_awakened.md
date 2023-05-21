@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Hell In A Handcart | 68.00% | ~129 |
-| Read Between The Lines | 63.00% | ~120 |
-| High Profile | 60.00% | ~114 |
+| To Hell In A Handcart | 69.00% | ~131 |
+| Read Between The Lines | 64.00% | ~122 |
+| High Profile | 61.00% | ~116 |
 | Whispers In The Dark | 58.00% | ~110 |
 | Fond Memories | 52.00% | ~99 |
 | A Method To His Madness | 50.00% | ~95 |
@@ -22,7 +22,7 @@
 | No Man Is An Island | 42.00% | ~80 |
 | At Wits' End | 41.00% | ~78 |
 | Bookworm | 38.00% | ~72 |
-| Going Once... | 36.00% | ~68 |
+| Going Once... | 37.00% | ~70 |
 | Up In Flames | 36.00% | ~68 |
 | Fhtagn! | 36.00% | ~68 |
 | Let Me Be Frank | 34.00% | ~65 |
@@ -30,7 +30,7 @@
 | No Stone Unturned | 32.00% | ~61 |
 | Curiosity Killed The Cat | 22.00% | ~42 |
 | Big Breakthrough | 21.00% | ~40 |
-| Read It And Weep | 20.00% | ~38 |
+| Read It And Weep | 21.00% | ~40 |
 | Reawakened | 8.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 190 (Ranked 229)  

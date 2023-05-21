@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1143,
+  "EOS_Progressed": 1144,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -408,6 +408,11 @@
       "Time": "2023-05-20T23:05:58.3525837+00:00",
       "NumProgressed": 1143,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-21T00:06:27.1544254+00:00",
+      "NumProgressed": 1144,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -483,7 +488,7 @@
       "Name": "Balding bloot!",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "18",
@@ -587,7 +592,7 @@
       "Name": "Self-sustainability",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "31",
@@ -627,7 +632,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "7",
@@ -658,15 +663,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1143,
+      "Progressed": 1144,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-05-20T23:05:58.3525833+00:00",
+  "LastChanged_Achievements": "2023-05-21T00:06:27.154425+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:06.355513+00:00",
-  "LastUpdate_Ratings": "2023-05-20T22:59:20.35374+00:00",
-  "LastUpdate_Achievements": "2023-05-20T23:05:58.3526054+00:00"
+  "LastUpdate_Ratings": "2023-05-20T23:59:55.8549926+00:00",
+  "LastUpdate_Achievements": "2023-05-21T00:06:27.1544435+00:00"
 }

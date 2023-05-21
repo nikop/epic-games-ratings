@@ -46,9 +46,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 675,
+  "EOS_Progressed": 676,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 670,
+  "EOS_NewPlayers": 671,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -366,6 +366,11 @@
       "Time": "2023-05-20T23:03:26.7264591+00:00",
       "NumProgressed": 675,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T00:03:34.1059545+00:00",
+      "NumProgressed": 676,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -471,17 +476,17 @@
       "ID": "NEW_ACHIEVEMENT_ALIENS",
       "SetID": "l546gc",
       "Name": "\u201CAliens\u201D",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "NEW_ACHIEVEMENT_ALL_WHEEL_TROUBLE",
       "SetID": "l546gc",
       "Name": "All Wheel Trouble",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 27
     },
     {
       "ID": "NEW_ACHIEVEMENT_BAREEL_ROLL",
@@ -529,7 +534,7 @@
       "Name": "Detective",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -633,7 +638,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -760,7 +765,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 675,
+      "Progressed": 676,
       "Completed": 0
     }
   ],
@@ -768,8 +773,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-05-20T21:57:18.8563123+00:00",
-  "LastChanged_Achievements": "2023-05-20T23:03:26.7264587+00:00",
+  "LastChanged_Achievements": "2023-05-21T00:03:34.1059541+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:55.9692167+00:00",
-  "LastUpdate_Ratings": "2023-05-20T22:57:10.4567843+00:00",
-  "LastUpdate_Achievements": "2023-05-20T23:03:26.7264996+00:00"
+  "LastUpdate_Ratings": "2023-05-20T23:57:25.0102887+00:00",
+  "LastUpdate_Achievements": "2023-05-21T00:03:34.105986+00:00"
 }

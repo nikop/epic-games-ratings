@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9877,
+  "EOS_Progressed": 9880,
   "EOS_Completed": 214,
-  "EOS_NewPlayers": 589,
+  "EOS_NewPlayers": 591,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 2.17,
   "EosHistory": [
@@ -3183,6 +3183,11 @@
       "Time": "2023-05-20T23:06:01.0251957+00:00",
       "NumProgressed": 9877,
       "NumCompleted": 214
+    },
+    {
+      "Time": "2023-05-21T00:06:30.0978132+00:00",
+      "NumProgressed": 9880,
+      "NumCompleted": 214
     }
   ],
   "TotalAchievements": 20,
@@ -3226,7 +3231,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -3234,7 +3239,7 @@
       "Name": "Condor condo",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -3250,7 +3255,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -3274,7 +3279,7 @@
       "Name": "Tails of Stone",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "FOUND_MAMBA",
@@ -3298,7 +3303,7 @@
       "Name": "Written in stone",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "GAME_FINISHED",
@@ -3314,7 +3319,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 7507
+      "UsersEstimate": 7509
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -3338,7 +3343,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "WEST_FINISHED",
@@ -3353,15 +3358,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 9877,
+      "Progressed": 9880,
       "Completed": 214
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-04T21:00:08.7329241+00:00",
-  "LastChanged_Achievements": "2023-05-20T23:06:01.0251953+00:00",
+  "LastChanged_Achievements": "2023-05-21T00:06:30.0978128+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:55.3860901+00:00",
-  "LastUpdate_Ratings": "2023-05-20T22:59:58.3315719+00:00",
-  "LastUpdate_Achievements": "2023-05-20T23:06:01.02523+00:00"
+  "LastUpdate_Ratings": "2023-05-21T00:00:38.8968472+00:00",
+  "LastUpdate_Achievements": "2023-05-21T00:06:30.0978375+00:00"
 }

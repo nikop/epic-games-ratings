@@ -4,10 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Small-time Finder | 2.00% | ~3 |
 | So it goes | 2.00% | ~3 |
-| Small-time Finder | 1.00% | ~2 |
-| Business as usual | 1.00% | ~2 |
+| Business as usual | 2.00% | ~3 |
 | Clean Conscience | 1.00% | ~2 |
+| Off to a Good Start | 0.60% | ~1 |
 | Pride and Joy | 0.60% | ~1 |
 | Eyes Yet To Open | 0.60% | ~1 |
 | The Crush And Smash The Dino Four | 0.60% | ~0 |
@@ -19,7 +20,6 @@
 | All the Stories | 0.00% | ~0 |
 | Total Recall | 0.00% | ~0 |
 | Blood Capade | 0.00% | ~0 |
-| Off to a Good Start | 0.00% | ~0 |
 | Something Rotten | 0.00% | ~0 |
 | Witness Protection | 0.00% | ~0 |
 | Crazy SOB, You Did It | 0.00% | ~0 |

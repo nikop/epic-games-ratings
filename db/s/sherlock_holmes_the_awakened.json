@@ -383,25 +383,25 @@
       "ID": "MQ01_1",
       "SetID": "bbing49",
       "Name": "Read Between The Lines",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 122
     },
     {
       "ID": "MQ01_2",
       "SetID": "bbing49",
       "Name": "To Hell In A Handcart",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 40,
-      "UsersEstimate": 129
+      "UsersEstimate": 131
     },
     {
       "ID": "MQ02_1",
       "SetID": "bbing49",
       "Name": "High Profile",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 116
     },
     {
       "ID": "MQ02_2",
@@ -471,9 +471,9 @@
       "ID": "MQ04_1",
       "SetID": "bbing49",
       "Name": "Going Once...",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "MQ04_2",
@@ -559,9 +559,9 @@
       "ID": "MQ07_1",
       "SetID": "bbing49",
       "Name": "Read It And Weep",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "MQ07_2",
@@ -616,8 +616,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-20T23:02:13.9293037+00:00",
+  "LastChanged_Achievements": "2023-05-21T00:02:15.5786076+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.473335+00:00",
-  "LastUpdate_Ratings": "2023-05-20T22:57:02.1183245+00:00",
-  "LastUpdate_Achievements": "2023-05-20T23:02:13.9293257+00:00"
+  "LastUpdate_Ratings": "2023-05-20T23:57:15.2781496+00:00",
+  "LastUpdate_Achievements": "2023-05-21T00:02:15.5786244+00:00"
 }

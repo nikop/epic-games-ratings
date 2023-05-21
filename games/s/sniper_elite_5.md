@@ -6,7 +6,7 @@ Rating: 4.41 (Ranked 658)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 7.00% | ~69 |
-| Confirming Suspicions | 4.00% | ~39 |
+| Confirming Suspicions | 4.00% | ~40 |
 | Enemy at the Gates | 2.00% | ~20 |
 | Lord of War | 2.00% | ~20 |
 | Resourceful | 2.00% | ~20 |
@@ -18,11 +18,11 @@ Rating: 4.41 (Ranked 658)
 | Target America | 1.00% | ~10 |
 | The Kraken Sleeps | 1.00% | ~10 |
 | Close Quarters | 0.90% | ~9 |
+| Change the Channel | 0.90% | ~9 |
 | Liberté | 0.80% | ~8 |
 | Opposing Force | 0.80% | ~8 |
 | The Long Game | 0.80% | ~8 |
 | Die Nussknacker Sweet! | 0.80% | ~8 |
-| Change the Channel | 0.80% | ~8 |
 | Taking it back | 0.80% | ~8 |
 | Just a Flesh Wound | 0.70% | ~7 |
 | Snake in the Grass | 0.70% | ~7 |
@@ -34,9 +34,9 @@ Rating: 4.41 (Ranked 658)
 | Der Geist | 0.50% | ~5 |
 | Brains of the Operation | 0.50% | ~5 |
 | Strategist | 0.40% | ~4 |
+| Set Europe Ablaze | 0.40% | ~4 |
 | Shoot for the Moon | 0.40% | ~4 |
 | No Stone Unturned | 0.30% | ~3 |
-| Set Europe Ablaze | 0.30% | ~3 |
 | It'll Buff Right Out | 0.30% | ~3 |
 | Don't hold your breath | 0.30% | ~3 |
 | Herr Today, Gone Tomorrow | 0.30% | ~3 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 658)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 984 (Ranked 165)  
+Progressed: 989 (Ranked 165)  
 Completed: 2 (0.20%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,6 +107,7 @@ Completed: 2 (0.20%) (Ranked 140)
 | 2023-05-18 | 743 | 2 |
 | 2023-05-19 | 833 | 2 |
 | 2023-05-20 | 984 | 2 |
+| 2023-05-21 | 989 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

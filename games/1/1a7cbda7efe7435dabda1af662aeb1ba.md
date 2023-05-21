@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breaking Free | 29.00% | ~2 |
-| Crystal Hunter | 14.00% | ~1 |
-| Overcoming Weakness | 14.00% | ~1 |
-| Fence-Sitter | 14.00% | ~1 |
-| Equivalent Exchange | 14.00% | ~1 |
-| Danger | 14.00% | ~1 |
+| Breaking Free | 25.00% | ~2 |
+| Crystal Hunter | 13.00% | ~1 |
+| Overcoming Weakness | 13.00% | ~1 |
+| Fence-Sitter | 13.00% | ~1 |
+| Equivalent Exchange | 13.00% | ~1 |
+| Danger | 13.00% | ~1 |
 | My Turn | 0.00% | ~0 |
 | Column Crusher | 0.00% | ~0 |
 | Armor Annihilator | 0.00% | ~0 |
@@ -35,7 +35,7 @@
 | The End of Fate | 0.00% | ~0 |
 | Breach of Contract | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7 (Ranked 341)  
+Progressed: 8 (Ranked 336)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -43,3 +43,4 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-16 | 4 | 0 |
 | 2023-05-18 | 6 | 0 |
 | 2023-05-19 | 7 | 0 |
+| 2023-05-21 | 8 | 0 |

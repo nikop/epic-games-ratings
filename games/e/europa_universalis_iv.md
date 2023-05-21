@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,666 |
-| That's a Grand Army | 8.00% | ~3,259 |
-| That is mine! | 8.00% | ~3,259 |
-| Victorious! | 8.00% | ~3,259 |
-| Brothers in Arms | 6.00% | ~2,444 |
-| That's a Grand Navy | 6.00% | ~2,444 |
-| Seriously?! | 6.00% | ~2,444 |
-| For the Glory | 5.00% | ~2,037 |
-| Cold War | 4.00% | ~1,629 |
-| True Catholic | 4.00% | ~1,629 |
-| Defender of the Faith | 3.00% | ~1,222 |
-| It's all about the money | 3.00% | ~1,222 |
-| Respected | 3.00% | ~1,222 |
-| Truly Divine Ruler | 3.00% | ~1,222 |
+| Until death do us apart | 9.00% | ~3,668 |
+| That's a Grand Army | 8.00% | ~3,260 |
+| That is mine! | 8.00% | ~3,260 |
+| Victorious! | 8.00% | ~3,260 |
+| Brothers in Arms | 6.00% | ~2,445 |
+| That's a Grand Navy | 6.00% | ~2,445 |
+| Seriously?! | 6.00% | ~2,445 |
+| For the Glory | 5.00% | ~2,038 |
+| Cold War | 4.00% | ~1,630 |
+| True Catholic | 4.00% | ~1,630 |
+| Defender of the Faith | 3.00% | ~1,223 |
+| It's all about the money | 3.00% | ~1,223 |
+| Respected | 3.00% | ~1,223 |
+| Truly Divine Ruler | 3.00% | ~1,223 |
 | Blockader | 2.00% | ~815 |
 | Combined Arms | 2.00% | ~815 |
 | Double the Love | 2.00% | ~815 |
@@ -29,23 +29,23 @@ Number of Ratings: 8,414  (23.09.2022)
 | Royal Authority | 2.00% | ~815 |
 | The Princess is in this Castle | 2.00% | ~815 |
 | Total Control | 2.00% | ~815 |
-| Agressive Expander | 1.00% | ~407 |
-| All That's Thine Shall Be Mine | 1.00% | ~407 |
-| Azur semé de lis or | 1.00% | ~407 |
-| Bright Spark | 1.00% | ~407 |
-| City of Cities | 1.00% | ~407 |
-| Factionalism | 1.00% | ~407 |
-| A Golden Empire | 1.00% | ~407 |
-| My armies are invincible! | 1.00% | ~407 |
+| Agressive Expander | 1.00% | ~408 |
+| All That's Thine Shall Be Mine | 1.00% | ~408 |
+| Azur semé de lis or | 1.00% | ~408 |
+| Bright Spark | 1.00% | ~408 |
+| City of Cities | 1.00% | ~408 |
+| Factionalism | 1.00% | ~408 |
+| A Golden Empire | 1.00% | ~408 |
+| My armies are invincible! | 1.00% | ~408 |
 | The Five Colonies | 0.90% | ~367 |
 | The Emperors new clothes | 0.80% | ~326 |
 | Isn't this the way to India? | 0.80% | ~326 |
 | Market Control | 0.80% | ~326 |
 | This navy can take it all | 0.80% | ~326 |
 | Down Under | 0.70% | ~285 |
-| Electable! | 0.60% | ~244 |
-| Time Bandit | 0.60% | ~244 |
-| Trustworthy | 0.60% | ~244 |
+| Electable! | 0.60% | ~245 |
+| Time Bandit | 0.60% | ~245 |
+| Trustworthy | 0.60% | ~245 |
 | All belongs to Mother Russia | 0.50% | ~204 |
 | At every continent | 0.50% | ~204 |
 | Early-Modern Warfare | 0.50% | ~204 |
@@ -74,22 +74,22 @@ Number of Ratings: 8,414  (23.09.2022)
 | Three Trivial Tributary Tribes | 0.30% | ~122 |
 | Traditional Player | 0.30% | ~122 |
 | Wonderful | 0.30% | ~122 |
-| A Decent Reserve | 0.20% | ~81 |
-| A Pile of Gold | 0.20% | ~81 |
-| A Protected Market | 0.20% | ~81 |
-| AAA Credit | 0.20% | ~81 |
-| Fine Financials | 0.20% | ~81 |
-| A Fine Goosestep | 0.20% | ~81 |
-| Imperio español | 0.20% | ~81 |
-| Industrial Powerhouse | 0.20% | ~81 |
-| Magellan’s Voyage | 0.20% | ~81 |
-| Multiculturalism | 0.20% | ~81 |
-| No Pirates in my Caribbean | 0.20% | ~81 |
-| Not so sad a state... | 0.20% | ~81 |
-| The Chrysanthemum Throne | 0.20% | ~81 |
-| Vasa or Wettin? | 0.20% | ~81 |
-| We bled for this | 0.20% | ~81 |
-| World Discoverer | 0.20% | ~81 |
+| A Decent Reserve | 0.20% | ~82 |
+| A Pile of Gold | 0.20% | ~82 |
+| A Protected Market | 0.20% | ~82 |
+| AAA Credit | 0.20% | ~82 |
+| Fine Financials | 0.20% | ~82 |
+| A Fine Goosestep | 0.20% | ~82 |
+| Imperio español | 0.20% | ~82 |
+| Industrial Powerhouse | 0.20% | ~82 |
+| Magellan’s Voyage | 0.20% | ~82 |
+| Multiculturalism | 0.20% | ~82 |
+| No Pirates in my Caribbean | 0.20% | ~82 |
+| Not so sad a state... | 0.20% | ~82 |
+| The Chrysanthemum Throne | 0.20% | ~82 |
+| Vasa or Wettin? | 0.20% | ~82 |
+| We bled for this | 0.20% | ~82 |
+| World Discoverer | 0.20% | ~82 |
 | The 52 Garhs | 0.10% | ~41 |
 | I don't like sand | 0.10% | ~41 |
 | A Blessed Nation | 0.10% | ~41 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,736 (Ranked 80)  
+Progressed: 40,752 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -392,6 +392,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-18 | 39,222 | 0 |
 | 2023-05-19 | 39,979 | 0 |
 | 2023-05-20 | 40,736 | 0 |
+| 2023-05-21 | 40,752 | 0 |
 ## Awards
 Max (Educational): 5,255  (Ranked 60)  
 Sum: 43,550 (Ranked 27)  

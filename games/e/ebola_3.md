@@ -6,12 +6,12 @@
 | ---- | ---------- | ----- |
 | Chest ✔ | 55.00% | ~97 |
 | Fright ✔ | 55.00% | ~97 |
-| Inventory ✔ | 51.00% | ~90 |
+| Inventory ✔ | 52.00% | ~92 |
 | Police officers ✔ | 27.00% | ~48 |
 | Mutation ✔ | 25.00% | ~44 |
 | Doberman ✔ | 13.00% | ~23 |
+| Weapon ✔ | 10.00% | ~18 |
 | Chess ✔ | 9.00% | ~16 |
-| Weapon ✔ | 9.00% | ~16 |
 | Survival ✔ | 8.00% | ~14 |
 | Master of Unlocking ✔ | 8.00% | ~14 |
 | Cheats ✔ | 7.00% | ~12 |

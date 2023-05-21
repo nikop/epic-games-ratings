@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -981,9 +981,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 5518,
+  "EOS_Progressed": 5519,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 276,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3361,6 +3361,11 @@
       "Time": "2023-05-20T23:06:07.4482721+00:00",
       "NumProgressed": 5518,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T00:06:37.1958526+00:00",
+      "NumProgressed": 5519,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -3428,7 +3433,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 2262
+      "UsersEstimate": 2263
     },
     {
       "ID": "17",
@@ -3460,7 +3465,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1931
+      "UsersEstimate": 1932
     },
     {
       "ID": "20",
@@ -3476,7 +3481,7 @@
       "Name": "The Great Healer",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1656
     },
     {
       "ID": "22",
@@ -3540,7 +3545,7 @@
       "Name": "Trader",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "3",
@@ -3596,7 +3601,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "36",
@@ -3618,9 +3623,9 @@
       "ID": "38",
       "SetID": "8idi9ml",
       "Name": "Aspiring Inventor",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 2428
+      "UsersEstimate": 2484
     },
     {
       "ID": "39",
@@ -3628,7 +3633,7 @@
       "Name": "Rocket Surgeon",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "4",
@@ -3764,7 +3769,7 @@
       "Name": "Top Notch",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1325
     },
     {
       "ID": "55",
@@ -3843,15 +3848,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 5518,
+      "Progressed": 5519,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-05-13T10:01:00.1135595+00:00",
-  "LastChanged_Achievements": "2023-05-20T23:06:07.4482717+00:00",
+  "LastChanged_Achievements": "2023-05-21T00:06:37.1958522+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:33.4626364+00:00",
-  "LastUpdate_Ratings": "2023-05-20T22:59:45.3735101+00:00",
-  "LastUpdate_Achievements": "2023-05-20T23:06:07.448347+00:00"
+  "LastUpdate_Ratings": "2023-05-21T00:00:24.6314575+00:00",
+  "LastUpdate_Achievements": "2023-05-21T00:06:37.1959124+00:00"
 }

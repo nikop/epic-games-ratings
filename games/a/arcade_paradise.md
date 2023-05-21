@@ -5,16 +5,16 @@ Rating: 4.57 (Ranked 437)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 96.00% | ~564 |
-| Fetch Quest Complete | 91.00% | ~535 |
-| I can't wait! | 83.00% | ~488 |
-| Swish | 56.00% | ~329 |
-| Clean up on Aisle 9 | 40.00% | ~235 |
-| Machine Maxed | 31.00% | ~182 |
+| Pushing a pull door | 96.00% | ~565 |
+| Fetch Quest Complete | 91.00% | ~536 |
+| I can't wait! | 83.00% | ~489 |
+| Swish | 56.00% | ~330 |
+| Clean up on Aisle 9 | 40.00% | ~236 |
+| Machine Maxed | 31.00% | ~183 |
 | Bug Fixer | 25.00% | ~147 |
 | Gerald of Riviera | 25.00% | ~147 |
 | Existential dread | 24.00% | ~141 |
-| Goal | 22.00% | ~129 |
+| Goal | 22.00% | ~130 |
 | I ran the numbers | 15.00% | ~88 |
 | Taking the plunge | 12.00% | ~71 |
 | Hidden Packages | 11.00% | ~65 |
@@ -45,9 +45,9 @@ Rating: 4.57 (Ranked 437)
 | Hexadecimal | 1.00% | ~6 |
 | IMANOK CODE | 1.00% | ~6 |
 | Intergalactic, planetary, planetary... | 1.00% | ~6 |
-| True Capitalist | 0.90% | ~5 |
-| Once upon a slime | 0.90% | ~5 |
-| It's a horror game | 0.90% | ~5 |
+| True Capitalist | 0.80% | ~5 |
+| Once upon a slime | 0.80% | ~5 |
+| It's a horror game | 0.80% | ~5 |
 | Friends Reunited | 0.70% | ~4 |
 | Smells like teen spirit | 0.70% | ~4 |
 | Got 9999 problem but a Zombie ain't one | 0.70% | ~4 |
@@ -60,7 +60,7 @@ Rating: 4.57 (Ranked 437)
 | Another all nighter? | 0.20% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 588 (Ranked 188)  
+Progressed: 589 (Ranked 188)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,6 +72,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-18 | 580 | 0 |
 | 2023-05-19 | 583 | 0 |
 | 2023-05-20 | 588 | 0 |
+| 2023-05-21 | 589 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

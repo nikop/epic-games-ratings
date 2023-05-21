@@ -54,7 +54,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 365,
+  "EOS_Progressed": 366,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
@@ -379,6 +379,11 @@
       "Time": "2023-05-20T14:05:01.6352779+00:00",
       "NumProgressed": 365,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T00:06:10.6038137+00:00",
+      "NumProgressed": 366,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -414,7 +419,7 @@
       "Name": "Dental maturity",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "DevilDetail",
@@ -645,7 +650,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 365,
+      "Progressed": 366,
       "Completed": 0
     }
   ],
@@ -653,8 +658,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-05-20T23:05:43.6189766+00:00",
+  "LastChanged_Achievements": "2023-05-21T00:06:10.6038134+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:28.25189+00:00",
-  "LastUpdate_Ratings": "2023-05-20T22:57:38.7280402+00:00",
-  "LastUpdate_Achievements": "2023-05-20T23:05:43.6190015+00:00"
+  "LastUpdate_Ratings": "2023-05-20T23:57:58.9125664+00:00",
+  "LastUpdate_Achievements": "2023-05-21T00:06:10.6038342+00:00"
 }

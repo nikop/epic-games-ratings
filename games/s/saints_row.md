@@ -6,26 +6,26 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 8.00% | ~2,540 |
-| To The Nines | 6.00% | ~1,905 |
-| Optimized | 5.00% | ~1,588 |
-| The Side Job | 4.00% | ~1,270 |
-| Wet Work | 4.00% | ~1,270 |
-| Tune Up | 4.00% | ~1,270 |
-| Performance Review | 4.00% | ~1,270 |
-| Making a Name | 4.00% | ~1,270 |
-| Food for Thought | 4.00% | ~1,270 |
-| Finders Keepers | 3.00% | ~953 |
-| A Young Empire | 3.00% | ~953 |
-| Landlord | 3.00% | ~953 |
-| Wrecking Ball | 3.00% | ~953 |
-| Quality Time | 2.00% | ~635 |
-| Showdown | 2.00% | ~635 |
-| Power Players | 2.00% | ~635 |
-| Work Ethic | 2.00% | ~635 |
-| Et tu? | 2.00% | ~635 |
-| Took It to The Limit | 2.00% | ~635 |
-| Picking Fights | 2.00% | ~635 |
+| First F#@!ing Day | 8.00% | ~2,543 |
+| To The Nines | 6.00% | ~1,907 |
+| Optimized | 5.00% | ~1,590 |
+| The Side Job | 4.00% | ~1,272 |
+| Wet Work | 4.00% | ~1,272 |
+| Tune Up | 4.00% | ~1,272 |
+| Performance Review | 4.00% | ~1,272 |
+| Making a Name | 4.00% | ~1,272 |
+| Food for Thought | 4.00% | ~1,272 |
+| Finders Keepers | 3.00% | ~954 |
+| A Young Empire | 3.00% | ~954 |
+| Landlord | 3.00% | ~954 |
+| Wrecking Ball | 3.00% | ~954 |
+| Quality Time | 2.00% | ~636 |
+| Showdown | 2.00% | ~636 |
+| Power Players | 2.00% | ~636 |
+| Work Ethic | 2.00% | ~636 |
+| Et tu? | 2.00% | ~636 |
+| Took It to The Limit | 2.00% | ~636 |
+| Picking Fights | 2.00% | ~636 |
 | Hijacked | 1.00% | ~318 |
 | The Spins | 1.00% | ~318 |
 | Masters of Santo Ileso | 1.00% | ~318 |
@@ -38,7 +38,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Challenge Accepted | 0.80% | ~254 |
 | A Golden Age | 0.80% | ~254 |
 | Hazardous Heist | 0.80% | ~27 |
-| Untouchable | 0.70% | ~222 |
+| Untouchable | 0.70% | ~223 |
 | Free Refills | 0.60% | ~191 |
 | Smooth Moves | 0.60% | ~191 |
 | The Professional | 0.50% | ~159 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Heard You Like Wheels | 0.10% | ~32 |
 | Fiesta Time | 0.10% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,752 (Ranked 83)  
+Progressed: 31,791 (Ranked 83)  
 Completed: 19 (0.06%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,6 +91,7 @@ Completed: 19 (0.06%) (Ranked 170)
 | 2023-05-18 | 29,461 | 19 |
 | 2023-05-19 | 30,583 | 19 |
 | 2023-05-20 | 31,752 | 19 |
+| 2023-05-21 | 31,791 | 19 |
 ## Awards
 Max (Extremely Fun): 1,029  (Ranked 133)  
 Sum: 8,346 (Ranked 88)  

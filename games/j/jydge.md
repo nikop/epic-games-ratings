@@ -9,13 +9,13 @@
 | Savior | 18.00% | ~2 |
 | The Jydgement Day | 9.00% | ~1 |
 | The Dusk Falls | 9.00% | ~1 |
+| Cyberware | 9.00% | ~1 |
 | Crime Reaper | 9.00% | ~1 |
 | Hardcore Law | 9.00% | ~1 |
 | Law Enforced | 9.00% | ~1 |
 | Firemodes to the Max | 9.00% | ~1 |
 | Weapon Mods | 9.00% | ~1 |
 | Collector | 0.00% | ~0 |
-| Cyberware | 0.00% | ~0 |
 | Nightmare Law | 0.00% | ~0 |
 | Lawful Not Awful | 0.00% | ~0 |
 | Special Specialist | 0.00% | ~0 |

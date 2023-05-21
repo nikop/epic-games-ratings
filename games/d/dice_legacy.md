@@ -7,7 +7,7 @@ Rating: 4.29 (Ranked 766)
 | ---- | ---------- | ----- |
 | We made it | 27.00% | ~208 |
 | The City | 6.00% | ~46 |
-| Manipulating Fate | 5.00% | ~38 |
+| Manipulating Fate | 5.00% | ~39 |
 | Burn and Pillage | 4.00% | ~31 |
 | Hear me out | 4.00% | ~31 |
 | Listening to the crowd | 4.00% | ~31 |
@@ -51,7 +51,7 @@ Rating: 4.29 (Ranked 766)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 770 (Ranked 174)  
+Progressed: 771 (Ranked 174)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,6 +77,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-17 | 762 | 0 |
 | 2023-05-18 | 765 | 0 |
 | 2023-05-19 | 770 | 0 |
+| 2023-05-21 | 771 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

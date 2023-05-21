@@ -410,9 +410,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 13057,
+  "EOS_Progressed": 13060,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 495,
+  "EOS_NewPlayers": 498,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1000,6 +1000,11 @@
       "Time": "2023-05-20T23:00:35.7122081+00:00",
       "NumProgressed": 13057,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-21T00:01:24.2586402+00:00",
+      "NumProgressed": 13060,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 40,
@@ -1049,9 +1054,9 @@
       "ID": "FIND_ALL_BIOS",
       "SetID": "4hj6d86",
       "Name": "Grim Reaper",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "FINISH_CONTAGION",
@@ -1097,9 +1102,9 @@
       "ID": "FINISH_GAME_HARDCORE_PLUS",
       "SetID": "6j5ggkc",
       "Name": "Lifer",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "FINISH_NEW_GAME_PLUS",
@@ -1169,9 +1174,9 @@
       "ID": "PERFECT_DODGE_MULTIPLE",
       "SetID": "4hj6d86",
       "Name": "Float Like A Butterfly",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 131
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -1193,9 +1198,9 @@
       "ID": "SHARE_PHOTO",
       "SetID": "4hj6d86",
       "Name": "Mugshot",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 104
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -1330,13 +1335,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13057,
+      "Progressed": 13060,
       "Completed": 51
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 983,
+      "Progressed": 986,
       "Completed": 29
     }
   ],
@@ -1344,8 +1349,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-16T17:57:38.030273+00:00",
-  "LastChanged_Achievements": "2023-05-20T23:00:35.7122078+00:00",
+  "LastChanged_Achievements": "2023-05-21T00:01:24.2586397+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-20T22:57:36.935426+00:00",
-  "LastUpdate_Achievements": "2023-05-20T23:00:35.7122455+00:00"
+  "LastUpdate_Ratings": "2023-05-20T23:57:56.7311297+00:00",
+  "LastUpdate_Achievements": "2023-05-21T00:01:24.258677+00:00"
 }
