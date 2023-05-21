@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 339,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -1386,9 +1386,9 @@
       "ID": "achFirstCargoWaiting",
       "SetID": "dgl390n",
       "Name": "First cargo item waiting",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 785
+      "UsersEstimate": 797
     },
     {
       "ID": "achFirstElectricTrainArrived",
@@ -1658,8 +1658,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-05-15T19:58:54.3106025+00:00",
-  "LastChanged_Achievements": "2023-05-21T18:07:14.8768183+00:00",
+  "LastChanged_Achievements": "2023-05-21T19:07:13.2915824+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:14.7095355+00:00",
-  "LastUpdate_Ratings": "2023-05-21T18:00:30.3167911+00:00",
-  "LastUpdate_Achievements": "2023-05-21T18:07:14.8768738+00:00"
+  "LastUpdate_Ratings": "2023-05-21T19:00:22.2590034+00:00",
+  "LastUpdate_Achievements": "2023-05-21T19:07:13.2916889+00:00"
 }

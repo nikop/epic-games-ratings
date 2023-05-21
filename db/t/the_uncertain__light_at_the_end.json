@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -74,11 +74,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 418,
+  "EOS_Progressed": 420,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.2,
+  "EOS_Completed_Percentage": 1.19,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:44.5175392+00:00",
@@ -169,6 +169,11 @@
       "Time": "2023-05-21T14:05:25.3221653+00:00",
       "NumProgressed": 418,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-21T19:07:09.2574888+00:00",
+      "NumProgressed": 420,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -204,7 +209,7 @@
       "Name": "Bosom Buddies",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "Doors_Closing",
@@ -212,7 +217,7 @@
       "Name": "Mind the Gap",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Echoes",
@@ -268,7 +273,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "Hitman",
@@ -284,7 +289,7 @@
       "Name": "F is for Feline",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Investigative",
@@ -300,7 +305,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "Leisurely_Strol",
@@ -316,7 +321,7 @@
       "Name": "Does Not Compute",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Misanthrope",
@@ -348,7 +353,7 @@
       "Name": "A Stealthy Outlook",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Old_Friend",
@@ -396,7 +401,7 @@
       "Name": "Beat the Heat",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "Unforeseen_Consequences",
@@ -411,7 +416,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 418,
+      "Progressed": 420,
       "Completed": 5
     }
   ],
@@ -419,8 +424,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-05-18T03:00:40.7703689+00:00",
-  "LastChanged_Achievements": "2023-05-21T18:07:10.8546819+00:00",
+  "LastChanged_Achievements": "2023-05-21T19:07:09.2574882+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:53.1846024+00:00",
-  "LastUpdate_Ratings": "2023-05-21T18:01:45.9514522+00:00",
-  "LastUpdate_Achievements": "2023-05-21T18:07:10.8547028+00:00"
+  "LastUpdate_Ratings": "2023-05-21T19:01:37.8164485+00:00",
+  "LastUpdate_Achievements": "2023-05-21T19:07:09.257511+00:00"
 }

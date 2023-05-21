@@ -16,6 +16,7 @@ Number of Ratings: 177  (23.09.2022)
 | Life Found a Way | 0.50% | ~11 |
 | Caught in the Act | 0.40% | ~20 |
 | Amy | 0.20% | ~10 |
+| I'll Be Back | 0.20% | ~10 |
 | IRL Let's Player | 0.20% | ~10 |
 | Newcomer: Vickie | 0.20% | ~10 |
 | Smooth Operator: Ashley | 0.20% | ~10 |
@@ -29,7 +30,6 @@ Number of Ratings: 177  (23.09.2022)
 | Amy: Scavenger Hunt | 0.10% | ~5 |
 | Ashley | 0.10% | ~5 |
 | Benedict Brahrnold | 0.10% | ~5 |
-| I'll Be Back | 0.10% | ~5 |
 | Beyond the Call of Dude-y | 0.10% | ~5 |
 | The Bride | 0.10% | ~5 |
 | Casabrova | 0.10% | ~5 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 | Derezzed | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,063 (Ranked 124)  
+Progressed: 5,064 (Ranked 124)  
 Completed: 2 (0.04%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 2 (0.04%) (Ranked 177)
 | 2023-05-18 | 4,981 | 2 |
 | 2023-05-19 | 5,009 | 2 |
 | 2023-05-20 | 5,039 | 2 |
-| 2023-05-21 | 5,063 | 2 |
+| 2023-05-21 | 5,064 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

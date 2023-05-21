@@ -7,28 +7,28 @@ Rating: 4.50 (Ranked 535)
 | ---- | ---------- | ----- |
 | Good start! | 82.00% | ~301 |
 | Vanquisher of Robots | 73.00% | ~268 |
-| Party | 45.00% | ~165 |
+| Party | 46.00% | ~169 |
 | Knowledge is Power | 44.00% | ~161 |
 | Impossible Cube | 42.00% | ~154 |
 | No Mercy | 41.00% | ~150 |
 | Through the Darkness | 40.00% | ~147 |
 | The Return of a Rat | 39.00% | ~143 |
-| Fat of the Earth | 32.00% | ~117 |
-| Last Man Standing | 31.00% | ~114 |
+| Fat of the Earth | 33.00% | ~121 |
+| Last Man Standing | 32.00% | ~117 |
 | Catch Jonathan_tostar | 26.00% | ~95 |
+| Great Hero | 25.00% | ~92 |
 | Campaigning | 24.00% | ~88 |
 | Assemble a Meganewbie | 24.00% | ~88 |
 | He's Seen It All | 24.00% | ~88 |
-| Great Hero | 24.00% | ~88 |
 | Rookie | 24.00% | ~88 |
 | Frugal | 20.00% | ~73 |
 | Feed a God | 19.00% | ~70 |
 | To the Moon and Back | 19.00% | ~70 |
 | Great Flight | 17.00% | ~62 |
 | Holy Vengeance | 14.00% | ~51 |
+| Honorary Cultist | 11.00% | ~40 |
 | Strength and Sorcery | 10.00% | ~37 |
 | Brain and Brawn | 10.00% | ~37 |
-| Honorary Cultist | 10.00% | ~37 |
 | Omae Wa Mou Shindeiru | 8.00% | ~29 |
 | Experimentalist | 5.00% | ~18 |
 | Wide Selection | 5.00% | ~18 |

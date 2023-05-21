@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -270,9 +270,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 629,
+  "EOS_Progressed": 630,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -425,6 +425,11 @@
       "Time": "2023-05-21T18:03:11.4298004+00:00",
       "NumProgressed": 629,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T19:03:12.5877628+00:00",
+      "NumProgressed": 630,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -516,7 +521,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -548,7 +553,7 @@
       "Name": "Fire and Brimstone",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_GECKO_GOAL_GETTER",
@@ -578,9 +583,9 @@
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
       "SetID": "108h92c",
       "Name": "I ain\u2019t afraid of no Ghost",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 151
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_I_CAN_FIX_IT",
@@ -620,7 +625,7 @@
       "Name": "See you Space Cowboy",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_SOLIDARITY_FOREVER",
@@ -628,7 +633,7 @@
       "Name": "Solidarity Forever",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "ACH_THE_WEIGHT_OF_THE_WORLD",
@@ -644,14 +649,14 @@
       "Name": "Truly Shocking!",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 629,
+      "Progressed": 630,
       "Completed": 0
     }
   ],
@@ -659,8 +664,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-05-13T23:57:28.1464548+00:00",
-  "LastChanged_Achievements": "2023-05-21T18:03:11.4297997+00:00",
+  "LastChanged_Achievements": "2023-05-21T19:03:12.5877621+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:01.7624708+00:00",
-  "LastUpdate_Ratings": "2023-05-21T17:57:44.1589558+00:00",
-  "LastUpdate_Achievements": "2023-05-21T18:03:11.4298196+00:00"
+  "LastUpdate_Ratings": "2023-05-21T18:57:35.7125701+00:00",
+  "LastUpdate_Achievements": "2023-05-21T19:03:12.5877823+00:00"
 }

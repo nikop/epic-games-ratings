@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 30,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -538,9 +538,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 458661,
+  "EOS_Progressed": 458664,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 658,
+  "EOS_NewPlayers": 654,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3388,6 +3388,11 @@
       "Time": "2023-05-21T18:07:02.5145822+00:00",
       "NumProgressed": 458661,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-21T19:07:00.9941499+00:00",
+      "NumProgressed": 458664,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 79,
@@ -3709,9 +3714,9 @@
       "ID": "achievement_win_all_chapers_with_all_bs_easy_normal",
       "SetID": "8cokdon",
       "Name": "Liberator",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 459
     },
     {
       "ID": "achievement_win_all_chapers_with_all_bs_hard",
@@ -4030,21 +4035,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 2595,
+      "Progressed": 2598,
       "Completed": 2346
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 458661,
+      "Progressed": 458664,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-21T18:07:02.5145819+00:00",
+  "LastChanged_Achievements": "2023-05-21T19:07:00.9941492+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:33.0666845+00:00",
-  "LastUpdate_Ratings": "2023-05-21T18:00:00.2851366+00:00",
-  "LastUpdate_Achievements": "2023-05-21T18:07:02.5147066+00:00"
+  "LastUpdate_Ratings": "2023-05-21T18:59:51.5255906+00:00",
+  "LastUpdate_Achievements": "2023-05-21T19:07:00.9942492+00:00"
 }

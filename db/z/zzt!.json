@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 43,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
     "PcReleaseDate": "1991-01-15T12:31:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2509,
+  "EOS_Progressed": 2511,
   "EOS_Completed": 80,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 3.19,
   "EosHistory": [
@@ -1516,6 +1516,11 @@
       "Time": "2023-05-21T18:06:30.7188937+00:00",
       "NumProgressed": 2509,
       "NumCompleted": 80
+    },
+    {
+      "Time": "2023-05-21T19:06:29.7545413+00:00",
+      "NumProgressed": 2511,
+      "NumCompleted": 80
     }
   ],
   "TotalAchievements": 5,
@@ -1527,7 +1532,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 2509
+      "UsersEstimate": 2511
     },
     {
       "ID": "2",
@@ -1535,7 +1540,7 @@
       "Name": "Traveler",
       "Percentage": 5,
       "XP": 200,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "3",
@@ -1566,7 +1571,7 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 2509,
+      "Progressed": 2511,
       "Completed": 80
     }
   ],
@@ -1574,8 +1579,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2023-05-21T18:06:30.7188932+00:00",
+  "LastChanged_Achievements": "2023-05-21T19:06:29.7545406+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:53.1513524+00:00",
-  "LastUpdate_Ratings": "2023-05-21T17:58:49.8848412+00:00",
-  "LastUpdate_Achievements": "2023-05-21T18:06:30.7189109+00:00"
+  "LastUpdate_Ratings": "2023-05-21T18:58:40.3539587+00:00",
+  "LastUpdate_Achievements": "2023-05-21T19:06:29.7545691+00:00"
 }

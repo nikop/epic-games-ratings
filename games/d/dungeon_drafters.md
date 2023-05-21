@@ -13,11 +13,11 @@
 | Clear as Water | 31.00% | ~9 |
 | Riddlesolver | 28.00% | ~8 |
 | Dungeon Mastery | 24.00% | ~7 |
+| The Steed | 17.00% | ~5 |
 | A Strange Proposition | 17.00% | ~5 |
 | Card Collector | 17.00% | ~5 |
 | The Apprentice | 14.00% | ~4 |
 | The Familiar | 14.00% | ~4 |
-| The Steed | 14.00% | ~4 |
 | The Bodyguard | 10.00% | ~3 |
 | Braving Miasma | 10.00% | ~3 |
 | Ancient Nemesis | 10.00% | ~3 |

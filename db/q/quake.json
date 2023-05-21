@@ -2,7 +2,7 @@
   "ID": "f57987ad149c43b3a7a66a7f10828f92",
   "Name": "Quake",
   "ProductSlug": "quake",
-  "Ranking_Rating": 131,
+  "Ranking_Rating": 117,
   "Ranking_Popularity": 401,
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 410,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.75,
+  "Rating": 4.76,
   "NumberOfRatings": 53,
   "RatingHistory": [
     {
@@ -289,6 +289,12 @@
       "Rating": 4.75,
       "NumberOfAwards": 45,
       "NumberOfAwardsMax": 45
+    },
+    {
+      "Time": "2023-05-21T18:57:58.8322731+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 45,
+      "NumberOfAwardsMax": 45
     }
   ],
   "ReviewsDisabled": false,
@@ -315,8 +321,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:41.8153102+00:00",
   "FirstSeenRating": "2022-08-05T13:31:10.1842866+00:00",
-  "LastChanged": "2023-04-19T01:59:17.20438+00:00",
+  "LastChanged": "2023-05-21T18:57:58.832273+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:22.0307912+00:00",
-  "LastUpdate_Ratings": "2023-05-21T17:58:08.2448157+00:00",
-  "LastUpdate_Achievements": "2023-05-21T18:04:30.4322571+00:00"
+  "LastUpdate_Ratings": "2023-05-21T18:57:58.8322736+00:00",
+  "LastUpdate_Achievements": "2023-05-21T19:04:31.0044451+00:00"
 }

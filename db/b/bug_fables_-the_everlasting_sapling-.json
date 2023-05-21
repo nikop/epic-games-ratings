@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66,
+  "EOS_Progressed": 67,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -40,6 +40,11 @@
     {
       "Time": "2023-05-04T00:05:28.0069215+00:00",
       "NumProgressed": 66,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T19:07:02.6093743+00:00",
+      "NumProgressed": 67,
       "NumCompleted": 0
     }
   ],
@@ -66,7 +71,7 @@
       "ID": "BFT_CH1",
       "SetID": "7o7kd30",
       "Name": "Chapter 1 Complete",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 15,
       "UsersEstimate": 46
     },
@@ -74,7 +79,7 @@
       "ID": "BFT_CH1HB",
       "SetID": "7o7kd30",
       "Name": "Vicious Spider",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 30,
       "UsersEstimate": 29
     },
@@ -82,7 +87,7 @@
       "ID": "BFT_CH2",
       "SetID": "7o7kd30",
       "Name": "Chapter 2 Complete",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 15,
       "UsersEstimate": 31
     },
@@ -114,7 +119,7 @@
       "ID": "BFT_CH4",
       "SetID": "7o7kd30",
       "Name": "Chapter 4 Complete",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
       "UsersEstimate": 19
     },
@@ -122,7 +127,7 @@
       "ID": "BFT_CH4HB",
       "SetID": "7o7kd30",
       "Name": "Always Watchful",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 30,
       "UsersEstimate": 13
     },
@@ -130,7 +135,7 @@
       "ID": "BFT_CH5",
       "SetID": "7o7kd30",
       "Name": "Chapter 5 Complete",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
       "UsersEstimate": 15
     },
@@ -162,7 +167,7 @@
       "ID": "BFT_CH7",
       "SetID": "7o7kd30",
       "Name": "Chapter 7 Complete",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
       "UsersEstimate": 13
     },
@@ -178,7 +183,7 @@
       "ID": "BFT_CHOMP",
       "SetID": "7o7kd30",
       "Name": "Plant Enchanter",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 65,
       "UsersEstimate": 13
     },
@@ -202,7 +207,7 @@
       "ID": "BFT_DISC",
       "SetID": "7o7kd30",
       "Name": "Pro Explorers",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 7
     },
@@ -218,7 +223,7 @@
       "ID": "BFT_KABBU",
       "SetID": "7o7kd30",
       "Name": "Good Deed",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 65,
       "UsersEstimate": 9
     },
@@ -226,7 +231,7 @@
       "ID": "BFT_LEIF",
       "SetID": "7o7kd30",
       "Name": "The Truth",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 65,
       "UsersEstimate": 15
     },
@@ -242,7 +247,7 @@
       "ID": "BFT_MEDAL",
       "SetID": "7o7kd30",
       "Name": "Medal Collector",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -250,7 +255,7 @@
       "ID": "BFT_MUSIC",
       "SetID": "7o7kd30",
       "Name": "Music Collector",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
       "UsersEstimate": 9
     },
@@ -258,7 +263,7 @@
       "ID": "BFT_PLAT",
       "SetID": "7o7kd30",
       "Name": "Our job\u0027s done!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
       "UsersEstimate": 5
     },
@@ -291,7 +296,7 @@
     {
       "ID": "7o7kd30",
       "IsBase": true,
-      "Progressed": 66,
+      "Progressed": 67,
       "Completed": 0
     }
   ],
@@ -299,8 +304,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2023-05-21T18:07:04.2120072+00:00",
+  "LastChanged_Achievements": "2023-05-21T19:07:02.6093737+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:40.113504+00:00",
-  "LastUpdate_Ratings": "2023-05-21T18:00:59.9678192+00:00",
-  "LastUpdate_Achievements": "2023-05-21T18:07:04.2120301+00:00"
+  "LastUpdate_Ratings": "2023-05-21T19:00:50.9687812+00:00",
+  "LastUpdate_Achievements": "2023-05-21T19:07:02.6093959+00:00"
 }

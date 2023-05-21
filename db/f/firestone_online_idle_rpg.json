@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1129,
+  "EOS_Progressed": 1131,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2000,6 +2000,11 @@
       "Time": "2023-05-21T18:06:49.6681347+00:00",
       "NumProgressed": 1129,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-21T19:06:48.5239169+00:00",
+      "NumProgressed": 1131,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2115,7 +2120,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "dragonmaster",
@@ -2211,7 +2216,7 @@
       "Name": "Frostfire Liberator",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "fullparty",
@@ -2275,7 +2280,7 @@
       "Name": "Hunter",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "inspection",
@@ -2347,7 +2352,7 @@
       "Name": "Miner Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "missionsdedication",
@@ -2403,7 +2408,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "prestigiousx10",
@@ -2411,7 +2416,7 @@
       "Name": "Prestigious x10",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "relicofthepast",
@@ -2443,7 +2448,7 @@
       "Name": "Scroll Master",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "silverwoodliberator",
@@ -2467,7 +2472,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "thealchemist",
@@ -2499,7 +2504,7 @@
       "Name": "The game is on",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "thepowerofawakening",
@@ -2507,7 +2512,7 @@
       "Name": "The power of Awakening",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "theunstoppable",
@@ -2571,7 +2576,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1063
     },
     {
       "ID": "warmachinesarmy",
@@ -2603,14 +2608,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 903
+      "UsersEstimate": 905
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1129,
+      "Progressed": 1131,
       "Completed": 1
     }
   ],
@@ -2618,8 +2623,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-18T22:58:45.6795503+00:00",
-  "LastChanged_Achievements": "2023-05-21T18:06:49.6681342+00:00",
+  "LastChanged_Achievements": "2023-05-21T19:06:48.5239162+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:34.8363446+00:00",
-  "LastUpdate_Ratings": "2023-05-21T17:58:23.1442827+00:00",
-  "LastUpdate_Achievements": "2023-05-21T18:06:49.6682208+00:00"
+  "LastUpdate_Ratings": "2023-05-21T18:58:12.3144761+00:00",
+  "LastUpdate_Achievements": "2023-05-21T19:06:48.5240101+00:00"
 }

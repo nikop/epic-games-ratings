@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 170,
+  "EOS_Progressed": 171,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.18,
+  "EOS_Completed_Percentage": 1.17,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:35.153611+00:00",
@@ -224,6 +224,11 @@
       "Time": "2023-05-21T18:06:40.141628+00:00",
       "NumProgressed": 170,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-21T19:06:39.1076489+00:00",
+      "NumProgressed": 171,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -235,7 +240,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 60,
       "XP": 60,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "completeact2",
@@ -243,7 +248,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 50,
       "XP": 80,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "completeact3",
@@ -299,7 +304,7 @@
       "Name": "Partners in Crime",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "scoreminrankrh1",
@@ -307,7 +312,7 @@
       "Name": "Souvenirs",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "scoreminrankrp1",
@@ -315,7 +320,7 @@
       "Name": "This is Not Heavy Metal!",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "scoreminrankrp2",
@@ -347,14 +352,14 @@
       "Name": "Friendzone",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     }
   ],
   "AchievementSets": [
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 170,
+      "Progressed": 171,
       "Completed": 2
     }
   ],
@@ -362,8 +367,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-05-21T18:06:40.1416275+00:00",
+  "LastChanged_Achievements": "2023-05-21T19:06:39.1076482+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:05.0477946+00:00",
-  "LastUpdate_Ratings": "2023-05-21T17:59:28.1897342+00:00",
-  "LastUpdate_Achievements": "2023-05-21T18:06:40.1416422+00:00"
+  "LastUpdate_Ratings": "2023-05-21T18:59:18.1681011+00:00",
+  "LastUpdate_Achievements": "2023-05-21T19:06:39.1076609+00:00"
 }

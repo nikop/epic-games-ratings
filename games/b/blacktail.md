@@ -31,9 +31,9 @@ Rating: 4.67 (Ranked 258)
 | Both sides | 2.00% | ~7 |
 | Always worth a try | 2.00% | ~7 |
 | Toxic | 2.00% | ~7 |
+| Bad apple | 1.00% | ~4 |
 | Loremaster | 1.00% | ~4 |
 | Entangled | 1.00% | ~4 |
-| Bad apple | 0.80% | ~3 |
 | Awards unwarded | 0.80% | ~3 |
 | Mushrooming enthusiast | 0.30% | ~1 |
 | Apex predator | 0.00% | ~0 |

@@ -190,9 +190,9 @@
       "ID": "different-items1",
       "SetID": "799afm0",
       "Name": "Party",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 169
     },
     {
       "ID": "different-items2",
@@ -206,9 +206,9 @@
       "ID": "fat-human",
       "SetID": "799afm0",
       "Name": "Fat of the Earth",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 121
     },
     {
       "ID": "finished-quest-cube",
@@ -310,9 +310,9 @@
       "ID": "last-hero",
       "SetID": "799afm0",
       "Name": "Last Man Standing",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 117
     },
     {
       "ID": "save-zombie",
@@ -342,9 +342,9 @@
       "ID": "win-campaign",
       "SetID": "799afm0",
       "Name": "Great Hero",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 88
+      "UsersEstimate": 92
     },
     {
       "ID": "win-first-biom",
@@ -398,9 +398,9 @@
       "ID": "win-with-3-cultists",
       "SetID": "799afm0",
       "Name": "Honorary Cultist",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 40
     },
     {
       "ID": "win-with-mrakus",
@@ -423,8 +423,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-05-21T18:06:51.2685904+00:00",
+  "LastChanged_Achievements": "2023-05-21T19:06:49.9853686+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:20.0092319+00:00",
-  "LastUpdate_Ratings": "2023-05-21T17:59:16.8466032+00:00",
-  "LastUpdate_Achievements": "2023-05-21T18:06:51.2686157+00:00"
+  "LastUpdate_Ratings": "2023-05-21T18:59:07.8007528+00:00",
+  "LastUpdate_Achievements": "2023-05-21T19:06:49.985395+00:00"
 }

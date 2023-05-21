@@ -21,11 +21,11 @@ Rating: 4.55 (Ranked 468)
 | Hope Seeker | 2.00% | ~41 |
 | A Hunk of Junk | 1.00% | ~21 |
 | Exceeding Capacity | 1.00% | ~21 |
-| Power Outage | 0.90% | ~18 |
-| Access Granted | 0.90% | ~18 |
-| Necessary Enhancement | 0.90% | ~18 |
-| Convenient Transport | 0.90% | ~18 |
-| Please Make it Stop! | 0.80% | ~16 |
+| Convenient Transport | 1.00% | ~21 |
+| Power Outage | 0.90% | ~19 |
+| Access Granted | 0.90% | ~19 |
+| Necessary Enhancement | 0.90% | ~19 |
+| Please Make it Stop! | 0.90% | ~19 |
 | From the Past | 0.80% | ~16 |
 | Sightseeing | 0.70% | ~14 |
 | Man's Best Friend | 0.60% | ~12 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 468)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,053 (Ranked 143)  
+Progressed: 2,058 (Ranked 143)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-18 | 1,926 | 0 |
 | 2023-05-19 | 1,969 | 0 |
 | 2023-05-20 | 2,021 | 0 |
-| 2023-05-21 | 2,053 | 0 |
+| 2023-05-21 | 2,058 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 98.00% | ~39 |
-| To Each Their Own | 43.00% | ~17 |
-| You Get An Upgrade, You Get An Upgrade! | 23.00% | ~9 |
+| You're Going Down! | 98.00% | ~40 |
+| To Each Their Own | 44.00% | ~18 |
+| You Get An Upgrade, You Get An Upgrade! | 22.00% | ~9 |
 | Like Phileas Fogg | 20.00% | ~8 |
 | Onwards and Upwards | 20.00% | ~8 |
-| Seven-League Boots | 8.00% | ~3 |
-| Serial Winner | 8.00% | ~3 |
-| No Room for Improvement | 8.00% | ~3 |
-| Upgradeaholic | 8.00% | ~3 |
-| Start Your Engines | 8.00% | ~3 |
-| Playing God | 8.00% | ~3 |
+| Seven-League Boots | 7.00% | ~3 |
+| Serial Winner | 7.00% | ~3 |
+| No Room for Improvement | 7.00% | ~3 |
+| Upgradeaholic | 7.00% | ~3 |
+| Start Your Engines | 7.00% | ~3 |
+| Playing God | 7.00% | ~3 |
 | Say My Name | 5.00% | ~2 |
 | Nerd | 5.00% | ~2 |
 | Highly Qualified | 5.00% | ~2 |
@@ -23,29 +23,29 @@
 | Winner Winner Chicken Dinner | 5.00% | ~2 |
 | Tailor-Made for Two | 5.00% | ~2 |
 | Lone Wolf | 5.00% | ~2 |
-| Déjà-Vu | 3.00% | ~1 |
-| Golden Ratio | 3.00% | ~1 |
-| POI Hunter | 3.00% | ~1 |
-| The Joy of Discovery | 3.00% | ~1 |
-| Gotta Go Fast! | 3.00% | ~1 |
-| Geek | 3.00% | ~1 |
-| Last One Standing | 3.00% | ~1 |
-| The Immortal One | 3.00% | ~1 |
-| Shopping List | 3.00% | ~1 |
-| Checklist | 3.00% | ~1 |
-| Time Lord | 3.00% | ~1 |
-| Time Is of the Essence | 3.00% | ~1 |
-| First Things First | 3.00% | ~1 |
-| Made Father Proud | 3.00% | ~1 |
-| Win-Win! | 3.00% | ~1 |
-| Supersport Superfan | 3.00% | ~1 |
-| Superbike Superfan | 3.00% | ~1 |
-| Playing Favourites | 3.00% | ~1 |
-| Tailor-Made | 3.00% | ~1 |
-| Tempus Fugit | 3.00% | ~1 |
+| Déjà-Vu | 2.00% | ~1 |
+| Golden Ratio | 2.00% | ~1 |
+| POI Hunter | 2.00% | ~1 |
+| The Joy of Discovery | 2.00% | ~1 |
+| Gotta Go Fast! | 2.00% | ~1 |
+| Geek | 2.00% | ~1 |
+| Last One Standing | 2.00% | ~1 |
+| The Immortal One | 2.00% | ~1 |
+| Shopping List | 2.00% | ~1 |
+| Checklist | 2.00% | ~1 |
+| Time Lord | 2.00% | ~1 |
+| Time Is of the Essence | 2.00% | ~1 |
+| First Things First | 2.00% | ~1 |
+| Made Father Proud | 2.00% | ~1 |
+| Win-Win! | 2.00% | ~1 |
+| Supersport Superfan | 2.00% | ~1 |
+| Superbike Superfan | 2.00% | ~1 |
+| Playing Favourites | 2.00% | ~1 |
+| Tailor-Made | 2.00% | ~1 |
+| Tempus Fugit | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 291)  
-Completed: 1 (2.50%) (Ranked 56)  
+Progressed: 41 (Ranked 290)  
+Completed: 1 (2.44%) (Ranked 58)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -60,4 +60,4 @@ Completed: 1 (2.50%) (Ranked 56)
 | 2023-05-18 | 30 | 1 |
 | 2023-05-19 | 36 | 1 |
 | 2023-05-20 | 39 | 1 |
-| 2023-05-21 | 40 | 1 |
+| 2023-05-21 | 41 | 1 |

@@ -4,7 +4,7 @@
   "ProductSlug": "echo-storm-4e5fbe",
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-11T05:00:00+00:00",
@@ -86,9 +86,9 @@
       "ID": "earn3000",
       "SetID": "bma0pih",
       "Name": "Reach",
-      "Percentage": 78,
+      "Percentage": 89,
       "XP": 60,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "fastBossKill",
@@ -110,25 +110,25 @@
       "ID": "kill100",
       "SetID": "bma0pih",
       "Name": "Recruit",
-      "Percentage": 78,
+      "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "kill300",
       "SetID": "bma0pih",
       "Name": "Soldier",
-      "Percentage": 78,
+      "Percentage": 89,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "kill750",
       "SetID": "bma0pih",
       "Name": "War machine",
-      "Percentage": 78,
+      "Percentage": 89,
       "XP": 150,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "killWithHammer",
@@ -198,9 +198,9 @@
       "ID": "unlockPlasmaMoon",
       "SetID": "bma0pih",
       "Name": "Solar power",
-      "Percentage": 78,
+      "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
@@ -212,8 +212,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-07T09:02:54.6493409+00:00",
-  "LastChanged_Achievements": "2023-05-21T18:02:34.1071146+00:00",
+  "LastChanged_Achievements": "2023-05-21T19:02:26.1277811+00:00",
   "LastUpdate_AppInfo": "2023-05-21T09:56:59.7858595+00:00",
-  "LastUpdate_Ratings": "2023-05-21T17:57:15.0220977+00:00",
-  "LastUpdate_Achievements": "2023-05-21T18:02:34.1071282+00:00"
+  "LastUpdate_Ratings": "2023-05-21T18:57:03.9118841+00:00",
+  "LastUpdate_Achievements": "2023-05-21T19:02:26.1277929+00:00"
 }

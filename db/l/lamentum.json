@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
@@ -63,11 +63,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 275,
+  "EOS_Progressed": 276,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.91,
+  "EOS_Completed_Percentage": 2.9,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.4947976+00:00",
@@ -122,6 +122,11 @@
     {
       "Time": "2023-05-21T02:09:35.7483547+00:00",
       "NumProgressed": 275,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-21T19:03:52.2902859+00:00",
+      "NumProgressed": 276,
       "NumCompleted": 8
     }
   ],
@@ -182,7 +187,7 @@
       "Name": "Moon Cloudiness Sonata by Danloop",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_07",
@@ -206,7 +211,7 @@
       "Name": "Grau Hill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "achievement_10",
@@ -214,7 +219,7 @@
       "Name": "The creature",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "achievement_11",
@@ -230,7 +235,7 @@
       "Name": "Lord Wesley",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "achievement_13",
@@ -244,9 +249,9 @@
       "ID": "achievement_14",
       "SetID": "7881h0d",
       "Name": "Lord Clayton",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 61
     },
     {
       "ID": "achievement_15",
@@ -254,7 +259,7 @@
       "Name": "My dear Magda",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "achievement_16",
@@ -285,7 +290,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 275,
+      "Progressed": 276,
       "Completed": 8
     }
   ],
@@ -293,8 +298,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-05-21T18:03:51.0026426+00:00",
+  "LastChanged_Achievements": "2023-05-21T19:03:52.2902853+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:18.0777045+00:00",
-  "LastUpdate_Ratings": "2023-05-21T17:58:05.8749687+00:00",
-  "LastUpdate_Achievements": "2023-05-21T18:03:51.0026633+00:00"
+  "LastUpdate_Ratings": "2023-05-21T18:57:56.8771628+00:00",
+  "LastUpdate_Achievements": "2023-05-21T19:03:52.2903012+00:00"
 }

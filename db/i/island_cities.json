@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 131,
-  "EOS_Completed": 22,
-  "EOS_NewPlayers": 60,
-  "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 16.79,
+  "EOS_Progressed": 132,
+  "EOS_Completed": 23,
+  "EOS_NewPlayers": 61,
+  "EOS_NewCompleters": 9,
+  "EOS_Completed_Percentage": 17.42,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -588,6 +588,11 @@
       "Time": "2023-05-21T17:04:57.4923267+00:00",
       "NumProgressed": 131,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-21T19:06:27.5684433+00:00",
+      "NumProgressed": 132,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 22,
@@ -599,15 +604,15 @@
       "Name": "Welcome!",
       "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "LEVEL_002",
       "SetID": "3khpmem",
       "Name": "A tiny town",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 35,
-      "UsersEstimate": 107
+      "UsersEstimate": 110
     },
     {
       "ID": "LEVEL_003",
@@ -615,7 +620,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 65,
       "XP": 35,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "LEVEL_004",
@@ -639,13 +644,13 @@
       "Name": "Found an oasis",
       "Percentage": 40,
       "XP": 35,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "LEVEL_007",
       "SetID": "3khpmem",
       "Name": "Burger or pizza?",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 35,
       "UsersEstimate": 48
     },
@@ -655,7 +660,7 @@
       "Name": "Passion for sports",
       "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "LEVEL_009",
@@ -679,7 +684,7 @@
       "Name": "At the heart of the city",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "LEVEL_012",
@@ -709,25 +714,25 @@
       "ID": "LEVEL_015",
       "SetID": "3khpmem",
       "Name": "Monumental tribute",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "LEVEL_016",
       "SetID": "3khpmem",
       "Name": "The beach is right there",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "LEVEL_017",
       "SetID": "3khpmem",
       "Name": "Commuting",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "LEVEL_018",
@@ -774,16 +779,16 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 131,
-      "Completed": 22
+      "Progressed": 132,
+      "Completed": 23
     }
   ],
   "FirstSeen": "2023-04-28T06:58:06.5817191+00:00",
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-21T18:06:28.6289712+00:00",
+  "LastChanged_Achievements": "2023-05-21T19:06:27.5684429+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:36.8517809+00:00",
-  "LastUpdate_Ratings": "2023-05-21T17:58:26.1180289+00:00",
-  "LastUpdate_Achievements": "2023-05-21T18:06:28.6289919+00:00"
+  "LastUpdate_Ratings": "2023-05-21T18:58:15.2365516+00:00",
+  "LastUpdate_Achievements": "2023-05-21T19:06:27.5684607+00:00"
 }

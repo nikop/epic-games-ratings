@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2480,
+  "EOS_Progressed": 2481,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1234,6 +1234,11 @@
       "Time": "2023-05-21T18:06:41.1808532+00:00",
       "NumProgressed": 2480,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-21T19:06:40.2593942+00:00",
+      "NumProgressed": 2481,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1285,7 +1290,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "CrowdPleaser",
@@ -1437,7 +1442,7 @@
       "Name": "Ready for Winter",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1587
+      "UsersEstimate": 1588
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -1445,7 +1450,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -1565,7 +1570,7 @@
       "Name": "Venture Outward",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1835
+      "UsersEstimate": 1836
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -1580,15 +1585,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2480,
+      "Progressed": 2481,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-05-21T18:06:41.1808527+00:00",
+  "LastChanged_Achievements": "2023-05-21T19:06:40.2593935+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:14.085288+00:00",
-  "LastUpdate_Ratings": "2023-05-21T17:58:00.3460572+00:00",
-  "LastUpdate_Achievements": "2023-05-21T18:06:41.1808899+00:00"
+  "LastUpdate_Ratings": "2023-05-21T18:57:51.4750571+00:00",
+  "LastUpdate_Achievements": "2023-05-21T19:06:40.2594347+00:00"
 }

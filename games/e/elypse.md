@@ -17,10 +17,10 @@
 | Squid game | 31.00% | ~10 |
 | Hard Rock | 31.00% | ~10 |
 | Rock Solid | 25.00% | ~8 |
-| The beast within | 19.00% | ~6 |
-| It's getting dark | 19.00% | ~6 |
+| The beast within | 22.00% | ~7 |
+| It's getting dark | 22.00% | ~7 |
+| Homeless | 19.00% | ~6 |
 | Rooftop | 16.00% | ~5 |
-| Homeless | 16.00% | ~5 |
 | Nokron tower | 13.00% | ~4 |
 | Magnitude 5 | 13.00% | ~4 |
 | Big badaboom! | 13.00% | ~4 |
@@ -39,7 +39,7 @@
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32 (Ranked 299)  
+Progressed: 32 (Ranked 300)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |

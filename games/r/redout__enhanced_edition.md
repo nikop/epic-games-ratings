@@ -6,14 +6,14 @@ Number of Ratings: 274  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~91,223 |
-| NATURAL BORN WINNER | 32.00% | ~71,198 |
-| CALLING HOUSTON | 28.00% | ~62,298 |
-| SNEAKY SNEAKY | 22.00% | ~48,949 |
-| TRICK UP YOUR SLEEVE | 22.00% | ~48,949 |
-| GT9STRADALE | 20.00% | ~44,499 |
-| CHALLENGER | 11.00% | ~24,474 |
-| ON A ROLL | 9.00% | ~20,024 |
+| VANGUARD | 41.00% | ~91,226 |
+| NATURAL BORN WINNER | 32.00% | ~71,201 |
+| CALLING HOUSTON | 28.00% | ~62,301 |
+| SNEAKY SNEAKY | 22.00% | ~48,950 |
+| TRICK UP YOUR SLEEVE | 22.00% | ~48,950 |
+| GT9STRADALE | 20.00% | ~44,500 |
+| CHALLENGER | 11.00% | ~24,475 |
+| ON A ROLL | 9.00% | ~20,025 |
 | CENTAUR | 8.00% | ~17,800 |
 | FASTER THAN EVER | 8.00% | ~17,800 |
 | CHALLENGE THE WORLD | 7.00% | ~15,575 |
@@ -26,11 +26,11 @@ Number of Ratings: 274  (23.09.2022)
 | RESPWND | 2.00% | ~4,450 |
 | SHINY SHINY GOLD | 2.00% | ~4,450 |
 | HARDCORE | 1.00% | ~2,225 |
-| ACE | 0.70% | ~1,557 |
+| ACE | 0.70% | ~1,558 |
 | TACTICIAN | 0.60% | ~1,335 |
-| GTX COMPETIZIONE | 0.50% | ~1,112 |
-| HIDDEN POWER | 0.50% | ~1,112 |
-| TUNING MANIAC | 0.50% | ~1,112 |
+| GTX COMPETIZIONE | 0.50% | ~1,113 |
+| HIDDEN POWER | 0.50% | ~1,113 |
+| TUNING MANIAC | 0.50% | ~1,113 |
 | DRAGOON | 0.40% | ~890 |
 | FLAWLESS | 0.40% | ~890 |
 | BETTER THAN EVER | 0.20% | ~445 |
@@ -39,9 +39,9 @@ Number of Ratings: 274  (23.09.2022)
 | NOBUNAGA | 0.20% | ~445 |
 | ODIN | 0.20% | ~445 |
 | PILE UP TROPHIES | 0.20% | ~445 |
-| ENLIGHTENED | 0.10% | ~222 |
+| ENLIGHTENED | 0.10% | ~223 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,494 (Ranked 43)  
+Progressed: 222,502 (Ranked 43)  
 Completed: 41 (0.02%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 41 (0.02%) (Ranked 187)
 | 2023-05-18 | 222,168 | 41 |
 | 2023-05-19 | 222,282 | 41 |
 | 2023-05-20 | 222,396 | 41 |
-| 2023-05-21 | 222,494 | 41 |
+| 2023-05-21 | 222,502 | 41 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 116,
+  "EOS_Progressed": 117,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.86,
+  "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
     {
       "Time": "2023-04-30T13:59:34.488144+00:00",
@@ -443,6 +443,11 @@
       "Time": "2023-05-21T16:00:22.3994689+00:00",
       "NumProgressed": 116,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-21T19:02:14.5250106+00:00",
+      "NumProgressed": 117,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -468,7 +473,7 @@
       "ID": "ETUA_AlonewithThem",
       "SetID": "65jc0ap",
       "Name": "Alone with Them",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 5,
       "UsersEstimate": 75
     },
@@ -548,7 +553,7 @@
       "ID": "ETUA_ForcedtoKill",
       "SetID": "65jc0ap",
       "Name": "Forced to Kill",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 5,
       "UsersEstimate": 75
     },
@@ -606,7 +611,7 @@
       "Name": "Open Sesame",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ETUA_OutRage",
@@ -630,7 +635,7 @@
       "Name": "Parasite Exterminated",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ETUA_Researcher",
@@ -638,7 +643,7 @@
       "Name": "Researcher",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ETUA_RestInPeace",
@@ -670,7 +675,7 @@
       "Name": "I Am The Gate Keeper!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ETUA_SurvivalHero",
@@ -716,9 +721,9 @@
       "ID": "ETUA_TheForgottenTower",
       "SetID": "65jc0ap",
       "Name": "The Forgotten Tower",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ETUA_ThisCoffin",
@@ -726,7 +731,7 @@
       "Name": "This Coffin Has Your Name On It!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ETUA_ThisMansionIsClean",
@@ -734,15 +739,15 @@
       "Name": "This Mansion Is Clean",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ETUA_Thiswillbealongnight",
       "SetID": "65jc0ap",
       "Name": "A Night To Remember",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ETUA_Trapped",
@@ -773,7 +778,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 116,
+      "Progressed": 117,
       "Completed": 1
     }
   ],
@@ -781,8 +786,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-05-21T18:02:22.2379785+00:00",
+  "LastChanged_Achievements": "2023-05-21T19:02:14.5250098+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:00.9346953+00:00",
-  "LastUpdate_Ratings": "2023-05-21T17:57:20.5148393+00:00",
-  "LastUpdate_Achievements": "2023-05-21T18:02:22.2380115+00:00"
+  "LastUpdate_Ratings": "2023-05-21T18:57:09.4892247+00:00",
+  "LastUpdate_Achievements": "2023-05-21T19:02:14.5250434+00:00"
 }

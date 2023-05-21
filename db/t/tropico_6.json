@@ -852,7 +852,7 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 2994,
+  "EOS_Progressed": 2995,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
@@ -2507,6 +2507,11 @@
       "Time": "2023-05-21T18:07:13.1273402+00:00",
       "NumProgressed": 2994,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-21T19:07:11.5904896+00:00",
+      "NumProgressed": 2995,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2534,7 +2539,7 @@
       "Name": "Double Trouble",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -2598,7 +2603,7 @@
       "Name": "Of Seals And Men",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH_EP_ONEPERCENTERS",
@@ -2614,7 +2619,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -2630,7 +2635,7 @@
       "Name": "Shackadelic",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -2638,7 +2643,7 @@
       "Name": "Number 18",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -2646,7 +2651,7 @@
       "Name": "Firestarter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -2678,7 +2683,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2305
+      "UsersEstimate": 2306
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -2774,7 +2779,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 1467
+      "UsersEstimate": 1468
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -2798,7 +2803,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -2837,15 +2842,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 2994,
+      "Progressed": 2995,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-15T17:00:44.7999652+00:00",
-  "LastChanged_Achievements": "2023-05-21T18:07:13.1273395+00:00",
+  "LastChanged_Achievements": "2023-05-21T19:07:11.5904889+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:57.2781106+00:00",
-  "LastUpdate_Ratings": "2023-05-21T18:01:13.7784411+00:00",
-  "LastUpdate_Achievements": "2023-05-21T18:07:13.1273843+00:00"
+  "LastUpdate_Ratings": "2023-05-21T19:01:04.6948192+00:00",
+  "LastUpdate_Achievements": "2023-05-21T19:07:11.5905279+00:00"
 }

@@ -7,7 +7,7 @@
 | Too Cool For School | 84.00% | ~100 |
 | Caretaker | 82.00% | ~98 |
 | Feng Shui | 71.00% | ~84 |
-| Who's A Good Boy | 68.00% | ~81 |
+| Who's A Good Boy | 69.00% | ~82 |
 | Power Up | 68.00% | ~81 |
 | Thick Skin | 66.00% | ~79 |
 | Math Wizard | 62.00% | ~74 |
@@ -19,11 +19,11 @@
 | Chomp Chomp! | 41.00% | ~49 |
 | Glorious Battle | 39.00% | ~46 |
 | Diaper Time! | 39.00% | ~46 |
-| Supreme Power | 37.00% | ~44 |
-| Target Practice | 36.00% | ~43 |
-| The Duelist | 35.00% | ~42 |
+| Supreme Power | 38.00% | ~45 |
+| Target Practice | 37.00% | ~44 |
+| The Duelist | 36.00% | ~43 |
+| Meat Larder | 36.00% | ~43 |
 | Mutant And Proud | 35.00% | ~42 |
-| Meat Larder | 35.00% | ~42 |
 | Happy Little Home | 29.00% | ~35 |
 | The Emperor's New Clothes | 28.00% | ~33 |
 | Final Evolution | 28.00% | ~33 |
@@ -35,8 +35,8 @@
 | Undying Skin | 24.00% | ~29 |
 | Fight Me! | 24.00% | ~29 |
 | Immortal Skin | 20.00% | ~24 |
+| Loyal Companion | 20.00% | ~24 |
 | Back To The Future | 19.00% | ~23 |
-| Loyal Companion | 19.00% | ~23 |
 | Lunch Before The Lunch | 18.00% | ~21 |
 | Fire Beacon | 18.00% | ~21 |
 | Building Blocks | 16.00% | ~19 |
