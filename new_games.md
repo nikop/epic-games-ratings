@@ -159,4 +159,3 @@
 | [Frogurai](games/f/frogurai.md) | 2023-04-23 | 2023-03-10 |
 | [Tesla's Best Friend](games/t/tesla's_best_friend.md) | 2023-04-22 | 2023-04-22 |
 | [Homestead Arcana](games/h/homestead_arcana.md) | 2023-04-21 | 2023-04-21 |
-| [Dead Island 2](games/d/dead_island_2.md) | 2023-04-21 | 2023-04-21 |
