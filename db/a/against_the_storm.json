@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2290,7 +2290,7 @@
   ],
   "EOS_Progressed": 14934,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -4026,9 +4026,9 @@
       "ID": "WinImpossible",
       "SetID": "cfbk359",
       "Name": "Against All Odds",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 90
+      "UsersEstimate": 105
     },
     {
       "ID": "WinNearArmory",
@@ -4330,8 +4330,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-19T11:59:18.6406919+00:00",
-  "LastChanged_Achievements": "2023-05-21T17:05:30.7163839+00:00",
+  "LastChanged_Achievements": "2023-05-21T18:07:13.1543062+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:57.8342165+00:00",
-  "LastUpdate_Ratings": "2023-05-21T16:59:28.4130427+00:00",
-  "LastUpdate_Achievements": "2023-05-21T17:05:30.7164354+00:00"
+  "LastUpdate_Ratings": "2023-05-21T18:01:01.5194063+00:00",
+  "LastUpdate_Achievements": "2023-05-21T18:07:13.1543628+00:00"
 }

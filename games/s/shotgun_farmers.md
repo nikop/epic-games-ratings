@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 13.00% | ~0 |
-| Aspairagus | 13.00% | ~0 |
+| Survivor | 15.00% | ~0 |
+| Aspairagus | 15.00% | ~0 |
+| Early Survivor | 11.00% | ~0 |
 | Bouncemato | 9.00% | ~0 |
-| Early Survivor | 9.00% | ~0 |
 | No Diggity | 9.00% | ~0 |
+| Seeds of War | 8.00% | ~4 |
 | Quick-Draw Pod | 8.00% | ~0 |
-| Seeds of War | 6.00% | ~3 |
 | Perfect | 6.00% | ~0 |
 | Grave Digger | 6.00% | ~0 |
 | Quadsparagus | 6.00% | ~0 |
@@ -19,7 +19,10 @@
 | Pyromaniac | 4.00% | ~0 |
 | Summers Here | 4.00% | ~0 |
 | Easy Peasy | 4.00% | ~0 |
+| 15K | 2.00% | ~1 |
 | Pro Pyromancer | 2.00% | ~1 |
+| No Asperascope | 2.00% | ~1 |
+| 10K | 2.00% | ~1 |
 | King of the Crow | 2.00% | ~0 |
 | Berry Loved | 2.00% | ~0 |
 | Carrocket From Above | 2.00% | ~0 |
@@ -36,7 +39,6 @@
 | Fresh Pancake | 0.00% | ~0 |
 | 15 Days | 0.00% | ~0 |
 | 30 Days | 0.00% | ~0 |
-| 15K | 0.00% | ~0 |
 | First Blood | 0.00% | ~0 |
 | I Believe I Can Fly | 0.00% | ~0 |
 | Drinking Problem | 0.00% | ~0 |
@@ -65,9 +67,7 @@
 | Pro Sniperagus | 0.00% | ~0 |
 | Pork Chop Express | 0.00% | ~0 |
 | Eggtraordinary | 0.00% | ~0 |
-| No Asperascope | 0.00% | ~0 |
 | Gnome Thief | 0.00% | ~0 |
-| 10K | 0.00% | ~0 |
 | Triple Kill | 0.00% | ~0 |
 | Unstoppable | 0.00% | ~0 |
 | Pum-King | 0.00% | ~0 |

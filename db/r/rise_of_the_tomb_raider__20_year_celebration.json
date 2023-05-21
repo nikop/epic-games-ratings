@@ -2,13 +2,13 @@
   "ID": "48ffecf4a89f4fd496817b0451384f39",
   "Name": "Rise of the Tomb Raider: 20 Year Celebration",
   "ProductSlug": "rise-of-the-tomb-raider",
-  "Ranking_Rating": 214,
+  "Ranking_Rating": 215,
   "Ranking_Popularity": 32,
   "Ranking_PopularitySum": 64,
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-10-18T13:00:00+00:00",
     "PcReleaseDate": "2016-10-16T13:00:00+00:00",
@@ -3047,10 +3047,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 14186,
       "NumberOfAwardsMax": 11220
+    },
+    {
+      "Time": "2023-05-21T17:58:32.8214928+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 14187,
+      "NumberOfAwardsMax": 11220
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14186,
+  "NumberOfAwards": 14187,
   "NumberOfAwardsMax": 11220,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3112,7 +3118,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 183
+      "Count": 184
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3132,8 +3138,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:10.6439255+00:00",
-  "LastChanged": "2023-05-21T16:57:49.9069354+00:00",
+  "LastChanged": "2023-05-21T17:58:32.8214923+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:41.1372969+00:00",
-  "LastUpdate_Ratings": "2023-05-21T16:57:49.906936+00:00",
-  "LastUpdate_Achievements": "2023-05-21T17:02:14.2035749+00:00"
+  "LastUpdate_Ratings": "2023-05-21T17:58:32.8214938+00:00",
+  "LastUpdate_Achievements": "2023-05-21T18:02:42.7695124+00:00"
 }

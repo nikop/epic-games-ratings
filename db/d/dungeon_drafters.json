@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 234,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -269,9 +269,9 @@
       "ID": "MasterTravelerQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Setting Off",
-      "Percentage": 34,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "MasterTravelerQuestlineLast",
@@ -365,9 +365,9 @@
       "ID": "bought_rune_clear",
       "SetID": "3b8n56h",
       "Name": "Clear as Water",
-      "Percentage": 28,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "cards_discovered_complete",
@@ -486,8 +486,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-05-21T17:05:03.1888774+00:00",
+  "LastChanged_Achievements": "2023-05-21T18:06:36.140032+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.9763289+00:00",
-  "LastUpdate_Ratings": "2023-05-21T16:57:05.6363573+00:00",
-  "LastUpdate_Achievements": "2023-05-21T17:05:03.1889053+00:00"
+  "LastUpdate_Ratings": "2023-05-21T17:57:26.3898+00:00",
+  "LastUpdate_Achievements": "2023-05-21T18:06:36.1400612+00:00"
 }

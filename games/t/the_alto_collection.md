@@ -1,28 +1,28 @@
 # The Alto Collection
 [Store](https://store.epicgames.com/en-US/p/the-alto-collection)  
 [View Rawdata](../../db/t/the_alto_collection.json)  
-Rating: 4.69 (Ranked 214)  
+Rating: 4.69 (Ranked 215)  
 Number of Ratings: 332  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 27.00% | ~6,009 |
-| Rookie | 24.00% | ~5,341 |
-| Nomad | 19.00% | ~4,229 |
-| Picking Up Speed | 17.00% | ~3,784 |
-| Welcome Maya | 16.00% | ~3,561 |
-| Sightseer | 12.00% | ~2,671 |
-| Scout | 10.00% | ~2,226 |
-| Enter Paz | 9.00% | ~2,003 |
-| Wanderer | 9.00% | ~2,003 |
-| Amateur | 8.00% | ~1,780 |
-| Unlock Maya | 7.00% | ~1,558 |
-| Aviator | 6.00% | ~1,335 |
-| One With The Board | 6.00% | ~1,335 |
-| Voyager | 6.00% | ~1,335 |
+| Finding Your Footing | 27.00% | ~6,013 |
+| Rookie | 24.00% | ~5,345 |
+| Nomad | 19.00% | ~4,231 |
+| Picking Up Speed | 17.00% | ~3,786 |
+| Welcome Maya | 16.00% | ~3,563 |
+| Sightseer | 12.00% | ~2,672 |
+| Scout | 10.00% | ~2,227 |
+| Enter Paz | 9.00% | ~2,004 |
+| Wanderer | 9.00% | ~2,004 |
+| Amateur | 8.00% | ~1,782 |
+| Unlock Maya | 7.00% | ~1,559 |
+| Aviator | 6.00% | ~1,336 |
+| One With The Board | 6.00% | ~1,336 |
+| Voyager | 6.00% | ~1,336 |
 | My Little Friend | 5.00% | ~1,113 |
-| Sandboarder | 4.00% | ~890 |
-| Izel Has Arrived | 4.00% | ~890 |
+| Sandboarder | 4.00% | ~891 |
+| Izel Has Arrived | 4.00% | ~891 |
 | Junkie | 3.00% | ~668 |
 | Traveler | 3.00% | ~668 |
 | Journeyer | 3.00% | ~668 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~22 |
 | Windswept | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,256 (Ranked 89)  
+Progressed: 22,269 (Ranked 89)  
 Completed: 3 (0.01%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,11 +77,11 @@ Completed: 3 (0.01%) (Ranked 193)
 | 2023-05-18 | 21,730 | 3 |
 | 2023-05-19 | 21,920 | 3 |
 | 2023-05-20 | 22,122 | 3 |
-| 2023-05-21 | 22,256 | 3 |
+| 2023-05-21 | 22,269 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 44  (Ranked 404)  
-Sum: 344 (Ranked 314)  
-Diff (max vs sum): 90  
+Sum: 344 (Ranked 315)  
+Diff (max vs sum): 89  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 44 |

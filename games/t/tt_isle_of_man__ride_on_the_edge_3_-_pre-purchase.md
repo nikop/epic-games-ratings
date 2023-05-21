@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 95.00% | ~38 |
+| You're Going Down! | 98.00% | ~39 |
 | To Each Their Own | 43.00% | ~17 |
 | You Get An Upgrade, You Get An Upgrade! | 23.00% | ~9 |
 | Like Phileas Fogg | 20.00% | ~8 |
@@ -22,6 +22,7 @@
 | Made Mother Proud | 5.00% | ~2 |
 | Winner Winner Chicken Dinner | 5.00% | ~2 |
 | Tailor-Made for Two | 5.00% | ~2 |
+| Lone Wolf | 5.00% | ~2 |
 | Déjà-Vu | 3.00% | ~1 |
 | Golden Ratio | 3.00% | ~1 |
 | POI Hunter | 3.00% | ~1 |
@@ -42,7 +43,6 @@
 | Playing Favourites | 3.00% | ~1 |
 | Tailor-Made | 3.00% | ~1 |
 | Tempus Fugit | 3.00% | ~1 |
-| Lone Wolf | 3.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 40 (Ranked 291)  
 Completed: 1 (2.50%) (Ranked 56)  

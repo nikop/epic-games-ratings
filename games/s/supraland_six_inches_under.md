@@ -32,7 +32,7 @@ Number of Ratings: 209  (23.09.2022)
 | Mission Unlikely | 85.00% | ~1,715 |
 | Don't draw dicks pls | 84.00% | ~1,695 |
 | Ripped | 84.00% | ~1,695 |
-| Beat the big arena | 82.00% | ~1,655 |
+| Beat the big arena | 83.00% | ~1,675 |
 | Force Cube | 82.00% | ~1,655 |
 | Got Battery | 80.00% | ~1,614 |
 | Guard Distracted | 80.00% | ~1,614 |
@@ -61,7 +61,7 @@ Number of Ratings: 209  (23.09.2022)
 | All the chests | 13.00% | ~262 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,018 (Ranked 146)  
-Completed: 243 (12.04%) (Ranked 11)  
+Completed: 243 (12.04%) (Ranked 12)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

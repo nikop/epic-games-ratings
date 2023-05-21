@@ -34,12 +34,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Dance of the Praying Mantis | 0.50% | ~3,522 |
 | Qi Gong: Mind | 0.50% | ~3,522 |
 | A Touch of Acumen | 0.50% | ~68 |
-| Muk Yan Master | 0.40% | ~2,817 |
-| Tiger on Fire | 0.40% | ~2,817 |
-| Source of Flying Daggers | 0.40% | ~2,817 |
-| Iron Money | 0.40% | ~2,817 |
-| Detective Story | 0.40% | ~2,817 |
-| I know Kung-Fu | 0.40% | ~2,817 |
+| Muk Yan Master | 0.40% | ~2,818 |
+| Tiger on Fire | 0.40% | ~2,818 |
+| Source of Flying Daggers | 0.40% | ~2,818 |
+| Iron Money | 0.40% | ~2,818 |
+| Detective Story | 0.40% | ~2,818 |
+| I know Kung-Fu | 0.40% | ~2,818 |
 | Legendary Talismans of Wuxing | 0.30% | ~2,113 |
 | Prodigal Child | 0.30% | ~2,113 |
 | The 36th Chamber of Kung-Fu | 0.30% | ~2,113 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~704 |
 | Warriors from the Mountain | 0.10% | ~704 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,362 (Ranked 15)  
+Progressed: 704,378 (Ranked 15)  
 Completed: 12,733 (1.81%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 12,733 (1.81%) (Ranked 64)
 | 2023-05-18 | 703,070 | 12,731 |
 | 2023-05-19 | 703,575 | 12,731 |
 | 2023-05-20 | 704,036 | 12,732 |
-| 2023-05-21 | 704,362 | 12,733 |
+| 2023-05-21 | 704,378 | 12,733 |
 ## Awards
 Max (Great Boss Battles): 6,078  (Ranked 53)  
 Sum: 10,344 (Ranked 77)  

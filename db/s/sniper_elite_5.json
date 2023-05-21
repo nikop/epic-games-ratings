@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -176,9 +176,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1091,
+  "EOS_Progressed": 1095,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 374,
+  "EOS_NewPlayers": 378,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -921,6 +921,11 @@
       "Time": "2023-05-21T17:05:03.9887688+00:00",
       "NumProgressed": 1091,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-21T18:06:37.156261+00:00",
+      "NumProgressed": 1095,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -978,9 +983,9 @@
       "ID": "REWARD_16_FIELDS_OF_GLORY",
       "SetID": "bm6el81",
       "Name": "Fields of Glory",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -1012,7 +1017,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1066,9 +1071,9 @@
       "ID": "REWARD_26_SHARPSHOOTER",
       "SetID": "bm6el81",
       "Name": "Sharpshooter",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -1090,9 +1095,9 @@
       "ID": "REWARD_29_PRECISION_IS_KEY",
       "SetID": "bm6el81",
       "Name": "Precision Is Key",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -1100,7 +1105,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1154,25 +1159,25 @@
       "ID": "REWARD_37_RESOURCEFUL",
       "SetID": "bm6el81",
       "Name": "Resourceful",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 33
     },
     {
       "ID": "REWARD_38_DER_GEIST",
       "SetID": "bm6el81",
       "Name": "Der Geist",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
       "SetID": "bm6el81",
       "Name": "As Quiet as a Mouse",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 22
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -1186,9 +1191,9 @@
       "ID": "REWARD_40_CLOSE_QUARTERS",
       "SetID": "bm6el81",
       "Name": "Close Quarters",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -1499,13 +1504,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1042,
+      "Progressed": 1046,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1091,
+      "Progressed": 1095,
       "Completed": 2
     }
   ],
@@ -1513,8 +1518,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-18T16:01:31.1520338+00:00",
-  "LastChanged_Achievements": "2023-05-21T17:05:03.9887681+00:00",
+  "LastChanged_Achievements": "2023-05-21T18:06:37.1562532+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-21T16:59:54.4386741+00:00",
-  "LastUpdate_Achievements": "2023-05-21T17:05:03.9888371+00:00"
+  "LastUpdate_Ratings": "2023-05-21T18:01:40.5797977+00:00",
+  "LastUpdate_Achievements": "2023-05-21T18:06:37.1563354+00:00"
 }

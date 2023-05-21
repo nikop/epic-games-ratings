@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Will This Help? | 71.00% | ~131 |
+| Will This Help? | 72.00% | ~132 |
 | No One Is Safe | 64.00% | ~118 |
-| Career Woman | 60.00% | ~110 |
+| Career Woman | 61.00% | ~112 |
 | He's Off His Meds | 53.00% | ~98 |
 | Personal Life | 48.00% | ~88 |
 | Deal Or No Deal | 47.00% | ~86 |
 | Impress Theron | 43.00% | ~79 |
 | On Your Bike | 29.00% | ~53 |
 | Save Dad | 20.00% | ~37 |
-| A Little Extra | 13.00% | ~24 |
+| A Little Extra | 14.00% | ~26 |
 | Use Your Connections | 12.00% | ~22 |
 | The Marriage Is Off | 10.00% | ~18 |
 | Unhelpful | 10.00% | ~18 |

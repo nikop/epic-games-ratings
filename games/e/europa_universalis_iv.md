@@ -1,47 +1,47 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.68 (Ranked 237)  
+Rating: 4.68 (Ranked 238)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,718 |
-| That's a Grand Army | 8.00% | ~3,305 |
-| That is mine! | 8.00% | ~3,305 |
-| Victorious! | 8.00% | ~3,305 |
-| Brothers in Arms | 6.00% | ~2,479 |
-| That's a Grand Navy | 6.00% | ~2,479 |
-| Seriously?! | 6.00% | ~2,479 |
-| For the Glory | 5.00% | ~2,066 |
-| Cold War | 4.00% | ~1,652 |
-| True Catholic | 4.00% | ~1,652 |
-| Defender of the Faith | 3.00% | ~1,239 |
-| It's all about the money | 3.00% | ~1,239 |
-| Respected | 3.00% | ~1,239 |
-| Truly Divine Ruler | 3.00% | ~1,239 |
-| Blockader | 2.00% | ~826 |
-| Combined Arms | 2.00% | ~826 |
-| Double the Love | 2.00% | ~826 |
-| Gentle Persuasion | 2.00% | ~826 |
-| It's all about luck | 2.00% | ~826 |
-| Queen of Conquest | 2.00% | ~826 |
-| Royal Authority | 2.00% | ~826 |
-| The Princess is in this Castle | 2.00% | ~826 |
-| Total Control | 2.00% | ~826 |
-| Agressive Expander | 1.00% | ~413 |
-| All That's Thine Shall Be Mine | 1.00% | ~413 |
-| Azur semé de lis or | 1.00% | ~413 |
-| Bright Spark | 1.00% | ~413 |
-| City of Cities | 1.00% | ~413 |
-| Factionalism | 1.00% | ~413 |
-| A Golden Empire | 1.00% | ~413 |
-| My armies are invincible! | 1.00% | ~413 |
+| Until death do us apart | 9.00% | ~3,722 |
+| That's a Grand Army | 8.00% | ~3,309 |
+| That is mine! | 8.00% | ~3,309 |
+| Victorious! | 8.00% | ~3,309 |
+| Brothers in Arms | 6.00% | ~2,481 |
+| That's a Grand Navy | 6.00% | ~2,481 |
+| Seriously?! | 6.00% | ~2,481 |
+| For the Glory | 5.00% | ~2,068 |
+| Cold War | 4.00% | ~1,654 |
+| True Catholic | 4.00% | ~1,654 |
+| Defender of the Faith | 3.00% | ~1,241 |
+| It's all about the money | 3.00% | ~1,241 |
+| Respected | 3.00% | ~1,241 |
+| Truly Divine Ruler | 3.00% | ~1,241 |
+| Blockader | 2.00% | ~827 |
+| Combined Arms | 2.00% | ~827 |
+| Double the Love | 2.00% | ~827 |
+| Gentle Persuasion | 2.00% | ~827 |
+| It's all about luck | 2.00% | ~827 |
+| Queen of Conquest | 2.00% | ~827 |
+| Royal Authority | 2.00% | ~827 |
+| The Princess is in this Castle | 2.00% | ~827 |
+| Total Control | 2.00% | ~827 |
+| Agressive Expander | 1.00% | ~414 |
+| All That's Thine Shall Be Mine | 1.00% | ~414 |
+| Azur semé de lis or | 1.00% | ~414 |
+| Bright Spark | 1.00% | ~414 |
+| City of Cities | 1.00% | ~414 |
+| Factionalism | 1.00% | ~414 |
+| A Golden Empire | 1.00% | ~414 |
+| My armies are invincible! | 1.00% | ~414 |
 | The Five Colonies | 0.90% | ~372 |
-| The Emperors new clothes | 0.80% | ~330 |
-| Isn't this the way to India? | 0.80% | ~330 |
-| Market Control | 0.80% | ~330 |
-| This navy can take it all | 0.80% | ~330 |
+| The Emperors new clothes | 0.80% | ~331 |
+| Isn't this the way to India? | 0.80% | ~331 |
+| Market Control | 0.80% | ~331 |
+| This navy can take it all | 0.80% | ~331 |
 | Down Under | 0.70% | ~289 |
 | Electable! | 0.60% | ~248 |
 | Time Bandit | 0.60% | ~248 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,312 (Ranked 80)  
+Progressed: 41,357 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -392,7 +392,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-18 | 39,222 | 0 |
 | 2023-05-19 | 39,979 | 0 |
 | 2023-05-20 | 40,736 | 0 |
-| 2023-05-21 | 41,312 | 0 |
+| 2023-05-21 | 41,357 | 0 |
 ## Awards
 Max (Educational): 5,264  (Ranked 60)  
 Sum: 43,585 (Ranked 27)  

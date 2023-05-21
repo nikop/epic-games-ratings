@@ -18,11 +18,11 @@
 | The Wild West | 26.00% | ~80 |
 | Bag of Tricks | 26.00% | ~80 |
 | I see the light! | 26.00% | ~80 |
+| In the Bag! | 26.00% | ~80 |
 | You're it | 26.00% | ~80 |
 | First Come, First Serve | 25.00% | ~77 |
 | To and Fro | 25.00% | ~77 |
 | Beach Party! | 25.00% | ~77 |
-| In the Bag! | 25.00% | ~77 |
 | Disoriented | 24.00% | ~74 |
 | Anger Issues | 24.00% | ~74 |
 | Take that Frosty! | 24.00% | ~74 |

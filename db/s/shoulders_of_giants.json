@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
     "PcReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -766,9 +766,9 @@
       "ID": "complete_act_two",
       "SetID": "236b9eg",
       "Name": "The Second Law of Thermodynamics",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 150,
-      "UsersEstimate": 286
+      "UsersEstimate": 306
     },
     {
       "ID": "complete_tutorial",
@@ -895,8 +895,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-05-15T22:59:29.8330198+00:00",
-  "LastChanged_Achievements": "2023-05-21T17:05:24.871421+00:00",
+  "LastChanged_Achievements": "2023-05-21T18:07:05.5265553+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:21.4953983+00:00",
-  "LastUpdate_Ratings": "2023-05-21T16:59:43.5888191+00:00",
-  "LastUpdate_Achievements": "2023-05-21T17:05:24.87144+00:00"
+  "LastUpdate_Ratings": "2023-05-21T18:01:23.9555628+00:00",
+  "LastUpdate_Achievements": "2023-05-21T18:07:05.5265764+00:00"
 }

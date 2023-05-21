@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -852,9 +852,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 2993,
+  "EOS_Progressed": 2994,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2502,6 +2502,11 @@
       "Time": "2023-05-21T17:05:30.5528985+00:00",
       "NumProgressed": 2993,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-21T18:07:13.1273402+00:00",
+      "NumProgressed": 2994,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2785,7 +2790,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 1137
+      "UsersEstimate": 1138
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -2817,7 +2822,7 @@
       "Name": "French Connection",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -2832,15 +2837,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 2993,
+      "Progressed": 2994,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-15T17:00:44.7999652+00:00",
-  "LastChanged_Achievements": "2023-05-21T17:05:30.5528982+00:00",
+  "LastChanged_Achievements": "2023-05-21T18:07:13.1273395+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:57.2781106+00:00",
-  "LastUpdate_Ratings": "2023-05-21T16:59:36.6925216+00:00",
-  "LastUpdate_Achievements": "2023-05-21T17:05:30.5529357+00:00"
+  "LastUpdate_Ratings": "2023-05-21T18:01:13.7784411+00:00",
+  "LastUpdate_Achievements": "2023-05-21T18:07:13.1273843+00:00"
 }

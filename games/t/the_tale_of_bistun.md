@@ -38,13 +38,13 @@
 | At One With Nature | 36.00% | ~5 |
 | Talent And Dedication | 29.00% | ~4 |
 | Read, Read, Read | 21.00% | ~3 |
-| Ledge-walker | 14.00% | ~2 |
-| Slip and Slide | 14.00% | ~2 |
-| Prolific Artist | 7.00% | ~1 |
-| Merely Inquisitive | 7.00% | ~1 |
+| Ledge-walker | 21.00% | ~3 |
+| Slip and Slide | 21.00% | ~3 |
+| Prolific Artist | 14.00% | ~2 |
+| Merely Inquisitive | 14.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 14 (Ranked 321)  
-Completed: 1 (7.14%) (Ranked 22)  
+Completed: 2 (14.29%) (Ranked 9)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -53,6 +53,7 @@ Completed: 1 (7.14%) (Ranked 22)
 | 2023-04-27 | 12 | 1 |
 | 2023-05-18 | 13 | 1 |
 | 2023-05-19 | 14 | 1 |
+| 2023-05-21 | 14 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3,9 +3,9 @@
   "Name": "The Tale of Bistun",
   "ProductSlug": "the-tale-of-bistun-9d6c5f",
   "Ranking_EOS_Progress": 321,
-  "Ranking_EOS_Completed": 22,
-  "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_Completed": 9,
+  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-07-13T16:00:00+00:00",
     "PcReleaseDate": "2022-07-13T14:00:00+00:00",
@@ -28,10 +28,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 14,
-  "EOS_Completed": 1,
+  "EOS_Completed": 2,
   "EOS_NewPlayers": 1,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.14,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 14.29,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:55.121207+00:00",
@@ -57,6 +57,11 @@
       "Time": "2023-05-19T20:06:02.9240371+00:00",
       "NumProgressed": 14,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-21T18:07:02.4443973+00:00",
+      "NumProgressed": 14,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -266,17 +271,17 @@
       "ID": "BISTUN_ACHIEVEMENT_31",
       "SetID": "1kdk24p",
       "Name": "Ledge-walker",
-      "Percentage": 14,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_32",
       "SetID": "1kdk24p",
       "Name": "Prolific Artist",
-      "Percentage": 7,
+      "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_33",
@@ -290,17 +295,17 @@
       "ID": "BISTUN_ACHIEVEMENT_34",
       "SetID": "1kdk24p",
       "Name": "Slip and Slide",
-      "Percentage": 14,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_35",
       "SetID": "1kdk24p",
       "Name": "Merely Inquisitive",
-      "Percentage": 7,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_36",
@@ -372,15 +377,15 @@
       "ID": "1kdk24p",
       "IsBase": true,
       "Progressed": 14,
-      "Completed": 1
+      "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.7928237+00:00",
   "FirstSeenRating": "2023-03-31T05:58:10.7723222+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1212078+00:00",
   "LastChanged": "2023-03-31T05:58:10.7723223+00:00",
-  "LastChanged_Achievements": "2023-05-21T17:05:22.4953303+00:00",
+  "LastChanged_Achievements": "2023-05-21T18:07:02.4443967+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:44.4415674+00:00",
-  "LastUpdate_Ratings": "2023-05-21T16:59:22.0349611+00:00",
-  "LastUpdate_Achievements": "2023-05-21T17:05:22.4953597+00:00"
+  "LastUpdate_Ratings": "2023-05-21T18:00:52.270842+00:00",
+  "LastUpdate_Achievements": "2023-05-21T18:07:02.4444259+00:00"
 }

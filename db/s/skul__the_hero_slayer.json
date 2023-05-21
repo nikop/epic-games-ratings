@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -764,7 +764,7 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 7294,
+  "EOS_Progressed": 7295,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
@@ -1189,6 +1189,11 @@
       "Time": "2023-05-21T15:05:50.1598305+00:00",
       "NumProgressed": 7294,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-21T18:06:26.43346+00:00",
+      "NumProgressed": 7295,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -1224,7 +1229,7 @@
       "Name": "Focus!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4522
+      "UsersEstimate": 4523
     },
     {
       "ID": "DemonCastleRestoration",
@@ -1288,7 +1293,7 @@
       "Name": "The Hero Killer",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 1969
+      "UsersEstimate": 1970
     },
     {
       "ID": "LeoniasFall",
@@ -1296,7 +1301,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 2042
+      "UsersEstimate": 2043
     },
     {
       "ID": "LeoniasFall_2",
@@ -1328,7 +1333,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4522
+      "UsersEstimate": 4523
     },
     {
       "ID": "SavedElderEnt_2",
@@ -1360,7 +1365,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 6783
+      "UsersEstimate": 6784
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -1368,7 +1373,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 3355
+      "UsersEstimate": 3356
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -1376,7 +1381,7 @@
       "Name": "Master of Speed",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "WhattoBuy",
@@ -1384,22 +1389,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6054
+      "UsersEstimate": 6055
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7294,
+      "Progressed": 7295,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-05-19T06:59:30.4131127+00:00",
-  "LastChanged_Achievements": "2023-05-21T17:04:55.9649197+00:00",
+  "LastChanged_Achievements": "2023-05-21T18:06:26.4334593+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.259325+00:00",
-  "LastUpdate_Ratings": "2023-05-21T16:58:33.4320696+00:00",
-  "LastUpdate_Achievements": "2023-05-21T17:04:55.9649382+00:00"
+  "LastUpdate_Ratings": "2023-05-21T17:59:37.3242085+00:00",
+  "LastUpdate_Achievements": "2023-05-21T18:06:26.4334796+00:00"
 }

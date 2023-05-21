@@ -4,8 +4,8 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -307,9 +307,9 @@
       "ID": "ach_fifteen_thousand_points",
       "SetID": "cmg602e",
       "Name": "15K",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_first_first_blood",
@@ -323,9 +323,9 @@
       "ID": "ach_first_harvest",
       "SetID": "cmg602e",
       "Name": "Seeds of War",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_first_rocket_jump",
@@ -555,9 +555,9 @@
       "ID": "ach_sniperKillNoScope",
       "SetID": "cmg602e",
       "Name": "No Asperascope",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_steal_x_gnomes",
@@ -571,9 +571,9 @@
       "ID": "ach_ten_thousand_points",
       "SetID": "cmg602e",
       "Name": "10K",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_tripleKill",
@@ -723,7 +723,7 @@
       "ID": "ach_waves_1",
       "SetID": "bf10c8p",
       "Name": "Survivor",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -731,7 +731,7 @@
       "ID": "ach_waves_10",
       "SetID": "bf10c8p",
       "Name": "Early Survivor",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -771,7 +771,7 @@
       "ID": "ach_x_farmers_same_sniper",
       "SetID": "bf10c8p",
       "Name": "Aspairagus",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 5,
       "UsersEstimate": 0
     },
@@ -874,8 +874,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-05-21T17:03:48.1569243+00:00",
+  "LastChanged_Achievements": "2023-05-21T18:04:46.2376494+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:50.6291522+00:00",
-  "LastUpdate_Ratings": "2023-05-21T16:57:58.4523946+00:00",
-  "LastUpdate_Achievements": "2023-05-21T17:03:48.157+00:00"
+  "LastUpdate_Ratings": "2023-05-21T17:58:46.958157+00:00",
+  "LastUpdate_Achievements": "2023-05-21T18:04:46.2377319+00:00"
 }

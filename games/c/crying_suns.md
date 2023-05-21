@@ -45,9 +45,12 @@ Number of Ratings: 1,003  (23.09.2022)
 | The Smuggler | 0.10% | ~459 |
 | The Crazy Repairman | 0.10% | ~459 |
 | The Weasel | 0.10% | ~459 |
+| The Art of War | 0.10% | ~459 |
 | Hammer Mastery | 0.10% | ~459 |
 | Hammer Supremacy | 0.10% | ~459 |
+| Void Supremacy | 0.10% | ~459 |
 | Excelsior Mastery | 0.10% | ~459 |
+| Excelsior Supremacy | 0.10% | ~459 |
 | Jeef Skeejj | 0.10% | ~459 |
 | Jeef Skagg | 0.10% | ~459 |
 | Survivor | 0.10% | ~459 |
@@ -70,23 +73,20 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Mastery | 0.10% | ~3 |
 | Horus Supremacy | 0.10% | ~3 |
 | Liberator | 0.00% | ~0 |
-| The Art of War | 0.00% | ~0 |
 | Geno Mastery | 0.00% | ~0 |
 | Geno Supremacy | 0.00% | ~0 |
 | Jericho Mastery | 0.00% | ~0 |
 | Jericho Supremacy | 0.00% | ~0 |
 | Void Mastery | 0.00% | ~0 |
-| Void Supremacy | 0.00% | ~0 |
 | Kaos Mastery | 0.00% | ~0 |
 | Kaos Supremacy | 0.00% | ~0 |
-| Excelsior Supremacy | 0.00% | ~0 |
 | The God of War | 0.00% | ~0 |
 | Kronos Mastery | 0.00% | ~0 |
 | Kronos Supremacy | 0.00% | ~0 |
 | Horus Rule | 0.00% | ~0 |
 | Kronos Rule | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458,652 (Ranked 29)  
+Progressed: 458,661 (Ranked 30)  
 Completed: 14 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 14 (0.00%) (Ranked 201)
 | 2023-05-18 | 458,375 | 14 |
 | 2023-05-19 | 458,480 | 14 |
 | 2023-05-20 | 458,583 | 14 |
-| 2023-05-21 | 458,652 | 14 |
+| 2023-05-21 | 458,661 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 209 (Ranked 349)  

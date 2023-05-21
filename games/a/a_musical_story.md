@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ECG | 96.00% | ~54 |
-| Rehearsal | 95.00% | ~53 |
-| Daily Life | 91.00% | ~51 |
-| Assembly Line Work | 86.00% | ~48 |
-| Solitude | 84.00% | ~47 |
-| Pinewood, Here we come! | 75.00% | ~42 |
-| The Van | 66.00% | ~37 |
-| Road-Trip | 59.00% | ~33 |
-| A Musical Pause | 57.00% | ~32 |
-| Sound of Noise | 46.00% | ~26 |
-| Briget's | 46.00% | ~26 |
-| Big City Music | 41.00% | ~23 |
+| ECG | 98.00% | ~55 |
+| Rehearsal | 96.00% | ~54 |
+| Daily Life | 93.00% | ~52 |
+| Assembly Line Work | 88.00% | ~49 |
+| Solitude | 86.00% | ~48 |
+| Pinewood, Here we come! | 77.00% | ~43 |
+| The Van | 68.00% | ~38 |
+| Road-Trip | 61.00% | ~34 |
+| A Musical Pause | 59.00% | ~33 |
+| Sound of Noise | 48.00% | ~27 |
+| Briget's | 48.00% | ~27 |
+| Big City Music | 43.00% | ~24 |
 | Love at First Sight | 41.00% | ~23 |
 | First Kiss | 38.00% | ~21 |
 | A Bigger Band | 34.00% | ~19 |

@@ -5,39 +5,39 @@ Rating: 4.86 (Ranked 29)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 84.00% | ~1,539 |
-| Feeling the beat! | 84.00% | ~1,539 |
-| You can pet the cat! | 78.00% | ~1,429 |
-| Who put gears in there? | 73.00% | ~1,337 |
-| Cream of the Crop | 68.00% | ~1,246 |
-| Thanks for the free chip, Peppermint! | 68.00% | ~1,246 |
-| You got this, Peppermint? | 62.00% | ~1,136 |
-| Perfect Parry | 60.00% | ~1,099 |
-| Alright, that felt AWESOME! | 59.00% | ~1,081 |
-| I play my own way! | 56.00% | ~1,026 |
-| This will cost you big time | 53.00% | ~971 |
-| Uh, they were broken when I got here | 53.00% | ~971 |
-| Z-shielding's got nothing on us! | 51.00% | ~934 |
-| Kissing the sky! | 50.00% | ~916 |
-| Whoa! There's ANOTHER health bar!? | 47.00% | ~861 |
-| Does that say weakpoint? | 47.00% | ~861 |
-| The Negotiator | 45.00% | ~824 |
-| Out in a puff of smoke | 40.00% | ~733 |
-| You must like calling me in, Chai | 39.00% | ~714 |
-| Headliner | 38.00% | ~696 |
-| Time to pay up! | 35.00% | ~641 |
-| Perfecter Parry-er! | 35.00% | ~641 |
-| Who's the boss now? | 34.00% | ~623 |
-| I have to read these things? | 32.00% | ~586 |
-| I look cool. But I can look COOLER. | 32.00% | ~586 |
-| There's such a thing as TOO helpful | 25.00% | ~458 |
+| Start with a bang! | 84.00% | ~1,541 |
+| Feeling the beat! | 84.00% | ~1,541 |
+| You can pet the cat! | 78.00% | ~1,431 |
+| Who put gears in there? | 73.00% | ~1,340 |
+| Cream of the Crop | 68.00% | ~1,248 |
+| Thanks for the free chip, Peppermint! | 68.00% | ~1,248 |
+| You got this, Peppermint? | 62.00% | ~1,138 |
+| Perfect Parry | 60.00% | ~1,101 |
+| Alright, that felt AWESOME! | 59.00% | ~1,083 |
+| I play my own way! | 56.00% | ~1,028 |
+| This will cost you big time | 53.00% | ~973 |
+| Uh, they were broken when I got here | 53.00% | ~973 |
+| Z-shielding's got nothing on us! | 51.00% | ~936 |
+| Kissing the sky! | 50.00% | ~918 |
+| Does that say weakpoint? | 47.00% | ~862 |
+| Whoa! There's ANOTHER health bar!? | 46.00% | ~844 |
+| The Negotiator | 44.00% | ~807 |
+| You must like calling me in, Chai | 39.00% | ~716 |
+| Out in a puff of smoke | 39.00% | ~716 |
+| Headliner | 38.00% | ~697 |
+| Time to pay up! | 35.00% | ~642 |
+| Perfecter Parry-er! | 35.00% | ~642 |
+| Who's the boss now? | 34.00% | ~624 |
+| I have to read these things? | 32.00% | ~587 |
+| I look cool. But I can look COOLER. | 32.00% | ~587 |
+| There's such a thing as TOO helpful | 25.00% | ~459 |
 | That's a lot of junk metal… | 24.00% | ~440 |
-| Beat-hit mania | 22.00% | ~403 |
+| Beat-hit mania | 22.00% | ~404 |
 | I told you I'd be fine, Peppermint! | 21.00% | ~385 |
-| Well that was a rush! | 20.00% | ~366 |
+| Well that was a rush! | 20.00% | ~367 |
 | Check out my moves! | 15.00% | ~275 |
-| Chip-tuned | 14.00% | ~256 |
-| Wanna hear my playlist? | 14.00% | ~256 |
+| Chip-tuned | 14.00% | ~257 |
+| Wanna hear my playlist? | 14.00% | ~257 |
 | We're Jammin' | 11.00% | ~202 |
 | I think I found your calling, Macaron | 9.00% | ~165 |
 | I'm not done with you yet | 9.00% | ~165 |
@@ -58,16 +58,16 @@ Rating: 4.86 (Ranked 29)
 | My Ultimate Setlist | 1.00% | ~18 |
 | This was... not what I expected. | 1.00% | ~18 |
 | I saw all those hits coming a measure away! | 1.00% | ~18 |
-| Have we met before? | 0.90% | ~16 |
-| OK, I THINK I know what I'm doing now | 0.90% | ~16 |
+| Have we met before? | 0.90% | ~17 |
+| OK, I THINK I know what I'm doing now | 0.90% | ~17 |
 | I have to read ALL of these things? | 0.70% | ~13 |
 | I'm untouchable! | 0.70% | ~13 |
 | I think that's enough health for now | 0.60% | ~11 |
 | I'm trying to FOCUS HERE! | 0.50% | ~9 |
 | Didn't skip a beat! | 0.40% | ~7 |
-| What a journey it was... | 0.30% | ~5 |
+| What a journey it was... | 0.30% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,832 (Ranked 149)  
+Progressed: 1,835 (Ranked 149)  
 Completed: 4 (0.22%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 4 (0.22%) (Ranked 135)
 | 2023-05-18 | 1,510 | 4 |
 | 2023-05-19 | 1,630 | 4 |
 | 2023-05-20 | 1,749 | 4 |
-| 2023-05-21 | 1,832 | 4 |
+| 2023-05-21 | 1,835 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

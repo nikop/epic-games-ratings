@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 111,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -560,9 +560,9 @@
       "ID": "Collect20Iron",
       "SetID": "9lj35g4",
       "Name": "Collect Iron Ore",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 627
+      "UsersEstimate": 641
     },
     {
       "ID": "Collect50MonsterParts",
@@ -799,8 +799,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-04-02T20:59:05.8070796+00:00",
-  "LastChanged_Achievements": "2023-05-21T17:03:22.1876801+00:00",
+  "LastChanged_Achievements": "2023-05-21T18:03:56.2986817+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3670256+00:00",
-  "LastUpdate_Ratings": "2023-05-21T16:58:02.6729748+00:00",
-  "LastUpdate_Achievements": "2023-05-21T17:03:22.1877011+00:00"
+  "LastUpdate_Ratings": "2023-05-21T17:58:54.4156326+00:00",
+  "LastUpdate_Achievements": "2023-05-21T18:03:56.2987081+00:00"
 }

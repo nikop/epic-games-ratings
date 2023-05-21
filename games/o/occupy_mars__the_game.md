@@ -5,19 +5,19 @@ Rating: 3.72 (Ranked 922)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 37.00% | ~272 |
-| Electrician | 26.00% | ~191 |
-| Fear my botany powers, Mars | 23.00% | ~169 |
-| Zero Waste | 19.00% | ~140 |
-| Bob The Builder | 18.00% | ~132 |
-| I am the greatest botanist on this planet. | 17.00% | ~125 |
-| Houston we have a problem | 15.00% | ~110 |
-| Occupy Mars! | 14.00% | ~103 |
-| Miner | 12.00% | ~88 |
-| Gardener | 11.00% | ~81 |
-| Detective | 7.00% | ~51 |
-| All Wheel Trouble | 4.00% | ~29 |
-| Get your hands dirty | 4.00% | ~29 |
+| I don't feel so good | 37.00% | ~275 |
+| Electrician | 26.00% | ~193 |
+| Fear my botany powers, Mars | 23.00% | ~171 |
+| Zero Waste | 19.00% | ~141 |
+| I am the greatest botanist on this planet. | 18.00% | ~134 |
+| Bob The Builder | 18.00% | ~134 |
+| Houston we have a problem | 15.00% | ~111 |
+| Occupy Mars! | 14.00% | ~104 |
+| Miner | 13.00% | ~96 |
+| Gardener | 11.00% | ~82 |
+| Detective | 7.00% | ~52 |
+| Get your hands dirty | 5.00% | ~37 |
+| All Wheel Trouble | 4.00% | ~30 |
 | The Collector | 3.00% | ~22 |
 | ITS crash site | 2.00% | ~15 |
 | “Aliens” | 1.00% | ~7 |
@@ -27,6 +27,7 @@ Rating: 3.72 (Ranked 922)
 | Plumber | 0.40% | ~3 |
 | Driver's License | 0.30% | ~2 |
 | Hard Landing | 0.30% | ~2 |
+| Rover Mechanic | 0.30% | ~2 |
 | Thunderstruck | 0.30% | ~2 |
 | To infinity and beyond! | 0.30% | ~2 |
 | Cooking Vegetables | 0.10% | ~1 |
@@ -40,7 +41,6 @@ Rating: 3.72 (Ranked 922)
 | Never Ending Story? | 0.10% | ~1 |
 | One does not simply... | 0.10% | ~1 |
 | Roadster | 0.10% | ~1 |
-| Rover Mechanic | 0.10% | ~1 |
 | The cake is a lie | 0.00% | ~0 |
 | Let's Cook | 0.00% | ~0 |
 | Life on Mars | 0.00% | ~0 |
@@ -54,7 +54,7 @@ Rating: 3.72 (Ranked 922)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 735 (Ranked 179)  
+Progressed: 742 (Ranked 179)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-18 | 287 | 0 |
 | 2023-05-19 | 540 | 0 |
 | 2023-05-20 | 675 | 0 |
-| 2023-05-21 | 735 | 0 |
+| 2023-05-21 | 742 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

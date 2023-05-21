@@ -28,12 +28,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | Corrosive Torrent | 0.80% | ~119 |
 | A Real Challenge | 0.80% | ~119 |
 | Refinery | 0.70% | ~105 |
+| Against All Odds | 0.70% | ~105 |
 | Dangerous Lands | 0.70% | ~105 |
 | Haunted Forest | 0.70% | ~105 |
 | Levitating Monument | 0.70% | ~105 |
 | Monastery of the Holy Flame | 0.70% | ~105 |
 | Watchtower | 0.70% | ~105 |
-| Against All Odds | 0.60% | ~90 |
 | Statue of the Forefathers | 0.60% | ~90 |
 | Forsaken Gods Temple | 0.60% | ~90 |
 | Serving Ale | 0.50% | ~75 |

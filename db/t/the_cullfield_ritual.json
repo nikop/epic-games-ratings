@@ -4,8 +4,8 @@
   "ProductSlug": "the-cullfield-ritual-a821c4",
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2023-05-31T00:00:00+00:00",
     "PcReleaseDate": "2023-01-05T10:00:00+00:00",
@@ -134,8 +134,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:34.5395291+00:00",
-  "LastChanged_Achievements": "2023-05-21T17:05:06.8511544+00:00",
+  "LastChanged_Achievements": "2023-05-21T18:06:40.9550779+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:14.4920161+00:00",
-  "LastUpdate_Ratings": "2023-05-21T16:58:32.8126153+00:00",
-  "LastUpdate_Achievements": "2023-05-21T17:05:06.8511646+00:00"
+  "LastUpdate_Ratings": "2023-05-21T17:59:36.3207635+00:00",
+  "LastUpdate_Achievements": "2023-05-21T18:06:40.9550853+00:00"
 }

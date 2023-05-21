@@ -5,10 +5,10 @@
   "Ranking_Rating": 535,
   "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 349,
-  "Ranking_EOS_Progress": 29,
+  "Ranking_EOS_Progress": 30,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -538,9 +538,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 458652,
+  "EOS_Progressed": 458661,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 655,
+  "EOS_NewPlayers": 658,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3383,6 +3383,11 @@
       "Time": "2023-05-21T17:05:22.6016795+00:00",
       "NumProgressed": 458652,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-21T18:07:02.5145822+00:00",
+      "NumProgressed": 458661,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 79,
@@ -3712,9 +3717,9 @@
       "ID": "achievement_win_all_chapers_with_all_bs_hard",
       "SetID": "8cokdon",
       "Name": "The Art of War",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 459
     },
     {
       "ID": "achievement_win_all_chapers_with_as_easy_normal",
@@ -3776,9 +3781,9 @@
       "ID": "achievement_win_all_chapers_with_pirate_hard",
       "SetID": "8cokdon",
       "Name": "Void Supremacy",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 459
     },
     {
       "ID": "achievement_win_all_chapers_with_scrapper_easy_normal",
@@ -3808,9 +3813,9 @@
       "ID": "achievement_win_all_chapers_with_starter_hard",
       "SetID": "8cokdon",
       "Name": "Excelsior Supremacy",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 459
     },
     {
       "ID": "achievement_win_boss_sector_1",
@@ -4025,21 +4030,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 2586,
+      "Progressed": 2595,
       "Completed": 2346
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 458652,
+      "Progressed": 458661,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-21T17:05:22.6016789+00:00",
+  "LastChanged_Achievements": "2023-05-21T18:07:02.5145819+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:33.0666845+00:00",
-  "LastUpdate_Ratings": "2023-05-21T16:58:49.0023253+00:00",
-  "LastUpdate_Achievements": "2023-05-21T17:05:22.6019165+00:00"
+  "LastUpdate_Ratings": "2023-05-21T18:00:00.2851366+00:00",
+  "LastUpdate_Achievements": "2023-05-21T18:07:02.5147066+00:00"
 }

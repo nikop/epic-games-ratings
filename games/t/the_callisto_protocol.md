@@ -8,18 +8,18 @@ Rating: 4.18 (Ranked 831)
 | Giving Back | 4.00% | ~527 |
 | Flesh Wound | 4.00% | ~527 |
 | Chew 'Em Up | 4.00% | ~527 |
+| Instigator | 3.00% | ~33 |
 | Big Game Hunter | 3.00% | ~33 |
-| Instigator | 2.00% | ~22 |
 | Bear Trap | 2.00% | ~22 |
 | The Commonality | 1.00% | ~132 |
 | Float Like A Butterfly | 1.00% | ~132 |
 | Mugshot | 1.00% | ~132 |
 | Big Spender | 1.00% | ~11 |
+| Get a Grip | 0.80% | ~105 |
 | Parole Denied | 0.70% | ~8 |
-| Get a Grip | 0.70% | ~92 |
 | Hoard Mode | 0.70% | ~8 |
+| Recidivist | 0.60% | ~7 |
 | Lifer | 0.60% | ~7 |
-| Recidivist | 0.50% | ~5 |
 | Reforged | 0.40% | ~53 |
 | In Striking Distance | 0.30% | ~40 |
 | Terminated | 0.30% | ~40 |
@@ -27,13 +27,13 @@ Rating: 4.18 (Ranked 831)
 | Grim Reaper | 0.20% | ~26 |
 | I Do Belong Here | 0.20% | ~26 |
 | Two Heads Are Better Than One | 0.20% | ~26 |
+| Paper Jams | 0.20% | ~26 |
 | It's over, Jacob! | 0.10% | ~13 |
 | Armed to the Teeth | 0.10% | ~1 |
 | You Need a Gun | 0.10% | ~13 |
 | Glutton for Punishment | 0.10% | ~1 |
 | You Belong Here | 0.10% | ~1 |
 | The Protocol is About Life | 0.10% | ~13 |
-| Paper Jams | 0.10% | ~13 |
 | The Outer Way | 0.10% | ~13 |
 | If the SHU Fits... | 0.10% | ~13 |
 | Without A Paddle | 0.10% | ~13 |
@@ -46,8 +46,8 @@ Rating: 4.18 (Ranked 831)
 | I am the Danger | 0.00% | ~0 |
 | Subject Alpha | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,169 (Ranked 101)  
-Completed: 51 (0.39%) (Ranked 113)  
+Progressed: 13,175 (Ranked 101)  
+Completed: 52 (0.39%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -76,7 +76,7 @@ Completed: 51 (0.39%) (Ranked 113)
 | 2023-05-18 | 12,620 | 51 |
 | 2023-05-19 | 12,841 | 51 |
 | 2023-05-20 | 13,057 | 51 |
-| 2023-05-21 | 13,169 | 51 |
+| 2023-05-21 | 13,175 | 52 |
 ## Awards
 Max (Amazing Storytelling): 46  (Ranked 397)  
 Sum: 246 (Ranked 341)  

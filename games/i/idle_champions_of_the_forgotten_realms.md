@@ -10,12 +10,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Brief Tour of the Realms | 0.40% | ~353 |
 | Beware the Jabberwock | 0.40% | ~218 |
 | The Cursed Farmer | 0.30% | ~265 |
+| The Mad Wizard | 0.30% | ~265 |
 | Coasting to the Finish | 0.30% | ~163 |
 | Beast Intentions | 0.20% | ~176 |
+| Were-verpowered | 0.20% | ~176 |
 | The Ring of Regeneration | 0.20% | ~176 |
 | Seeking Allies | 0.20% | ~176 |
 | Are Ya Chicken? | 0.20% | ~176 |
-| The Mad Wizard | 0.20% | ~176 |
 | Quick or Quack | 0.20% | ~109 |
 | Maddening | 0.10% | ~88 |
 | Pros and CONs | 0.10% | ~88 |
@@ -123,7 +124,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Kas the Bloody Handed | 0.10% | ~54 |
 | Get Back In The Castle | 0.10% | ~54 |
 | Kas the Destroyer | 0.10% | ~54 |
-| Were-verpowered | 0.10% | ~88 |
 | Checkmate | 0.10% | ~54 |
 | Pin and Skewer | 0.10% | ~54 |
 | Vecna Out! | 0.10% | ~54 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.10% | ~88 |
 | Rescue in the Jungle | 0.10% | ~88 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,215 (Ranked 59)  
-Completed: 1,858 (2.11%) (Ranked 62)  
+Progressed: 88,222 (Ranked 59)  
+Completed: 1,859 (2.11%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -531,7 +531,7 @@ Completed: 1,858 (2.11%) (Ranked 62)
 | 2023-05-18 | 87,918 | 1,850 |
 | 2023-05-19 | 88,008 | 1,851 |
 | 2023-05-20 | 88,132 | 1,854 |
-| 2023-05-21 | 88,215 | 1,858 |
+| 2023-05-21 | 88,222 | 1,859 |
 ## Awards
 Max (Diverse Characters): 4,892  (Ranked 64)  
 Sum: 29,941 (Ranked 37)  

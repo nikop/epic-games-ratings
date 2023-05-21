@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 976,
+  "EOS_Progressed": 978,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -193,6 +193,11 @@
       "Time": "2023-05-21T12:07:13.4747688+00:00",
       "NumProgressed": 976,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T18:06:50.6670587+00:00",
+      "NumProgressed": 978,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -260,7 +265,7 @@
       "Name": "Walked like an Egyptian",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ALLTRACKSCLOUD",
@@ -276,7 +281,7 @@
       "Name": "Ride in the rising sun",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ALLTRACKSGENESIS",
@@ -356,7 +361,7 @@
       "Name": "Enter the Speed Gauntlet",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -500,7 +505,7 @@
       "Name": "I just can\u0027t choose",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ONELIVERY",
@@ -556,7 +561,7 @@
       "Name": "A Cheese Grater to the Face",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "TENPLATINUM",
@@ -619,7 +624,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 976,
+      "Progressed": 978,
       "Completed": 0
     }
   ],
@@ -627,8 +632,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-05-21T17:05:13.8164502+00:00",
+  "LastChanged_Achievements": "2023-05-21T18:06:50.6670582+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:42.1539132+00:00",
-  "LastUpdate_Ratings": "2023-05-21T16:57:50.3878253+00:00",
-  "LastUpdate_Achievements": "2023-05-21T17:05:13.8164949+00:00"
+  "LastUpdate_Ratings": "2023-05-21T17:58:33.4618715+00:00",
+  "LastUpdate_Achievements": "2023-05-21T18:06:50.6671141+00:00"
 }
