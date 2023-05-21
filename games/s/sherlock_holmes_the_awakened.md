@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 70.00% | ~140 |
 | Read Between The Lines | 65.00% | ~130 |
-| High Profile | 61.00% | ~122 |
+| High Profile | 62.00% | ~124 |
 | Whispers In The Dark | 58.00% | ~116 |
-| Fond Memories | 51.00% | ~102 |
+| Fond Memories | 52.00% | ~104 |
 | History Check | 50.00% | ~100 |
 | A Method To His Madness | 50.00% | ~100 |
 | The New World | 48.00% | ~96 |
@@ -16,8 +16,8 @@
 | Gaze Into The Abyss | 46.00% | ~92 |
 | Open Sesame | 46.00% | ~92 |
 | Sticky Fingers | 46.00% | ~92 |
+| Back In The Saddle | 45.00% | ~90 |
 | Knives Out | 45.00% | ~90 |
-| Back In The Saddle | 44.00% | ~88 |
 | Land, Ho! | 44.00% | ~88 |
 | No Man Is An Island | 43.00% | ~86 |
 | At Wits' End | 40.00% | ~80 |
@@ -29,8 +29,8 @@
 | Let Me Be Frank | 34.00% | ~68 |
 | No Stone Unturned | 31.00% | ~62 |
 | Curiosity Killed The Cat | 22.00% | ~44 |
+| Big Breakthrough | 21.00% | ~42 |
 | Read It And Weep | 21.00% | ~42 |
-| Big Breakthrough | 20.00% | ~40 |
 | Reawakened | 9.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 200 (Ranked 228)  

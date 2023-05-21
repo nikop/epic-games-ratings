@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 132,
+  "EOS_Progressed": 133,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 17.42,
+  "EOS_Completed_Percentage": 17.29,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -593,6 +593,11 @@
       "Time": "2023-05-21T19:06:27.5684433+00:00",
       "NumProgressed": 132,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-21T21:05:30.2723167+00:00",
+      "NumProgressed": 133,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 22,
@@ -604,7 +609,7 @@
       "Name": "Welcome!",
       "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "LEVEL_002",
@@ -626,15 +631,15 @@
       "ID": "LEVEL_004",
       "SetID": "3khpmem",
       "Name": "Great view from the beach and from the hill",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 35,
-      "UsersEstimate": 71
+      "UsersEstimate": 70
     },
     {
       "ID": "LEVEL_005",
       "SetID": "3khpmem",
       "Name": "Bridges to come and go",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 35,
       "UsersEstimate": 63
     },
@@ -658,9 +663,9 @@
       "ID": "LEVEL_008",
       "SetID": "3khpmem",
       "Name": "Passion for sports",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 44
+      "UsersEstimate": 43
     },
     {
       "ID": "LEVEL_009",
@@ -668,7 +673,7 @@
       "Name": "Who loves trains?",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "LEVEL_010",
@@ -676,7 +681,7 @@
       "Name": "Easy and steady climb",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "LEVEL_011",
@@ -690,9 +695,9 @@
       "ID": "LEVEL_012",
       "SetID": "3khpmem",
       "Name": "Calm neighborhood",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 35
     },
     {
       "ID": "LEVEL_013",
@@ -700,7 +705,7 @@
       "Name": "Elevated ring",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "LEVEL_014",
@@ -708,31 +713,31 @@
       "Name": "Not lonely anymore",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "LEVEL_015",
       "SetID": "3khpmem",
       "Name": "Monumental tribute",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "LEVEL_016",
       "SetID": "3khpmem",
       "Name": "The beach is right there",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "LEVEL_017",
       "SetID": "3khpmem",
       "Name": "Commuting",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "LEVEL_018",
@@ -748,7 +753,7 @@
       "Name": "Aiming for a living and human city",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "LEVEL_020",
@@ -756,7 +761,7 @@
       "Name": "City of dreams",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "LEVEL_021",
@@ -764,7 +769,7 @@
       "Name": "Happy Christmas night!",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "LEVEL_022",
@@ -772,14 +777,14 @@
       "Name": "Night walk along the beach",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     }
   ],
   "AchievementSets": [
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 132,
+      "Progressed": 133,
       "Completed": 23
     }
   ],
@@ -787,8 +792,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-21T20:06:06.5972441+00:00",
+  "LastChanged_Achievements": "2023-05-21T21:05:30.2723165+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:36.8517809+00:00",
-  "LastUpdate_Ratings": "2023-05-21T19:58:13.2899637+00:00",
-  "LastUpdate_Achievements": "2023-05-21T20:06:06.5972595+00:00"
+  "LastUpdate_Ratings": "2023-05-21T20:57:50.36996+00:00",
+  "LastUpdate_Achievements": "2023-05-21T21:05:30.2723288+00:00"
 }

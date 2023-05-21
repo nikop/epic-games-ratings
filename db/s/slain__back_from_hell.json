@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -181,7 +181,7 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 21743,
+  "EOS_Progressed": 21752,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 1136,
   "EOS_NewCompleters": 2,
@@ -3241,6 +3241,11 @@
       "Time": "2023-05-21T20:06:35.7498434+00:00",
       "NumProgressed": 21743,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-21T21:05:53.6218137+00:00",
+      "NumProgressed": 21752,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 29,
@@ -3252,7 +3257,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3479
+      "UsersEstimate": 3480
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -3260,7 +3265,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4349
+      "UsersEstimate": 4350
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -3268,7 +3273,7 @@
       "Name": "Start As You Mean To Go On",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_05_DEFEATED_THORN_BEAST",
@@ -3308,7 +3313,7 @@
       "Name": "Flame Retardant",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_10_DEFEATED_BANSHEE_QUEEN",
@@ -3316,7 +3321,7 @@
       "Name": "Enjoy The Silence",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_11_WOLF_GUARD_CRUSHED",
@@ -3324,7 +3329,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1088
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -3428,7 +3433,7 @@
       "Name": "Hail the Great Horned Metal God!",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_25_TALISMAN_COMPLETE",
@@ -3476,14 +3481,14 @@
       "Name": "Death or Glory",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     }
   ],
   "AchievementSets": [
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 21743,
+      "Progressed": 21752,
       "Completed": 18
     }
   ],
@@ -3491,8 +3496,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-05-21T20:06:35.7498429+00:00",
+  "LastChanged_Achievements": "2023-05-21T21:05:53.6218133+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:39.6610119+00:00",
-  "LastUpdate_Ratings": "2023-05-21T20:00:37.0388166+00:00",
-  "LastUpdate_Achievements": "2023-05-21T20:06:35.7498737+00:00"
+  "LastUpdate_Ratings": "2023-05-21T20:59:54.6898129+00:00",
+  "LastUpdate_Achievements": "2023-05-21T21:05:53.6218437+00:00"
 }

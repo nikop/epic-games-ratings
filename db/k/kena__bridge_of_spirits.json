@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 198,
   "Ranking_EOS_Progress": 32,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1130,7 +1130,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 425323,
+  "EOS_Progressed": 425324,
   "EOS_Completed": 501,
   "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 1,
@@ -3180,6 +3180,11 @@
       "Time": "2023-05-21T18:06:37.2557117+00:00",
       "NumProgressed": 425323,
       "NumCompleted": 501
+    },
+    {
+      "Time": "2023-05-21T21:05:37.6058326+00:00",
+      "NumProgressed": 425324,
+      "NumCompleted": 501
     }
   ],
   "TotalAchievements": 41,
@@ -3191,7 +3196,7 @@
       "Name": "Skillful Spirit Guide",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 63798
+      "UsersEstimate": 63799
     },
     {
       "ID": "ACH_ABILITY_BOMB",
@@ -3359,7 +3364,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 404057
+      "UsersEstimate": 404058
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -3391,7 +3396,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 293473
+      "UsersEstimate": 293474
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -3407,7 +3412,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 340258
+      "UsersEstimate": 340259
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -3439,7 +3444,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 191395
+      "UsersEstimate": 191396
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -3447,7 +3452,7 @@
       "Name": "Adira\u0027s Fear",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 136103
+      "UsersEstimate": 136104
     },
     {
       "ID": "ACH_RELIC_HARPOON",
@@ -3518,15 +3523,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 425323,
+      "Progressed": 425324,
       "Completed": 501
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-05-18T07:58:06.0566735+00:00",
-  "LastChanged_Achievements": "2023-05-21T20:06:16.4699119+00:00",
+  "LastChanged_Achievements": "2023-05-21T21:05:37.6058321+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:49.1218266+00:00",
-  "LastUpdate_Ratings": "2023-05-21T19:58:31.7815339+00:00",
-  "LastUpdate_Achievements": "2023-05-21T20:06:16.469954+00:00"
+  "LastUpdate_Ratings": "2023-05-21T20:58:07.7790488+00:00",
+  "LastUpdate_Achievements": "2023-05-21T21:05:37.6058722+00:00"
 }

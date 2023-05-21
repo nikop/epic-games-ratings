@@ -19,9 +19,9 @@ Number of Ratings: 45  (23.09.2022)
 | Who's Counting? | 11.00% | ~132 |
 | War Endured | 11.00% | ~132 |
 | Core Failure | 11.00% | ~132 |
+| Thematic Divergence | 8.00% | ~96 |
 | Pyrrhic Victory | 8.00% | ~96 |
 | Echoes Die | 8.00% | ~96 |
-| Thematic Divergence | 7.00% | ~84 |
 | Chain Reaction | 7.00% | ~84 |
 | Everfading | 6.00% | ~72 |
 | Another Tale to Tell | 6.00% | ~72 |

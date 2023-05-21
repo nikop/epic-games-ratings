@@ -6,38 +6,38 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 9.00% | ~49,785 |
-| Into the Unknown | 8.00% | ~44,254 |
-| First Shot | 8.00% | ~44,254 |
-| Herzlich Wilkommen! | 8.00% | ~44,254 |
-| Sancho Panza | 7.00% | ~38,722 |
-| Good Night & Good Luck | 7.00% | ~38,722 |
-| Under Pressure | 6.00% | ~33,190 |
-| Flag Burning | 6.00% | ~33,190 |
-| Oh, So This Is How It Works! | 6.00% | ~33,190 |
-| Night Hunter | 6.00% | ~33,190 |
-| On the Trail of the Enemy | 5.00% | ~27,659 |
-| Light in the Darkness | 5.00% | ~27,659 |
-| Get Outta My House! | 5.00% | ~27,659 |
-| It Wasn't That Hard, Was It? | 5.00% | ~27,659 |
-| Being All Social | 5.00% | ~27,659 |
-| Debris and Ashes | 4.00% | ~22,127 |
-| We Will Be Heard! | 4.00% | ~22,127 |
-| Known Associate | 4.00% | ~22,127 |
-| Brush with Death | 4.00% | ~22,127 |
-| Going Down | 4.00% | ~22,127 |
-| Family First | 4.00% | ~22,127 |
-| Your World, Your Rules | 4.00% | ~22,127 |
-| Tunnel Entrance | 4.00% | ~22,127 |
-| After the Fall | 4.00% | ~22,127 |
-| Can't Touch This! | 4.00% | ~22,127 |
-| Death From Afar | 4.00% | ~22,127 |
-| Terminal Headache | 3.00% | ~16,595 |
-| Slowpoke! | 3.00% | ~16,595 |
-| Tickets, Please! | 2.00% | ~11,063 |
-| Parkour Master | 2.00% | ~11,063 |
-| Combat Master | 2.00% | ~11,063 |
-| You're Going Down! | 2.00% | ~11,063 |
+| You Never Forget Your First... | 9.00% | ~49,790 |
+| Into the Unknown | 8.00% | ~44,258 |
+| First Shot | 8.00% | ~44,258 |
+| Herzlich Wilkommen! | 8.00% | ~44,258 |
+| Sancho Panza | 7.00% | ~38,726 |
+| Good Night & Good Luck | 7.00% | ~38,726 |
+| Under Pressure | 6.00% | ~33,194 |
+| Flag Burning | 6.00% | ~33,194 |
+| Oh, So This Is How It Works! | 6.00% | ~33,194 |
+| Night Hunter | 6.00% | ~33,194 |
+| On the Trail of the Enemy | 5.00% | ~27,661 |
+| Light in the Darkness | 5.00% | ~27,661 |
+| Get Outta My House! | 5.00% | ~27,661 |
+| It Wasn't That Hard, Was It? | 5.00% | ~27,661 |
+| Being All Social | 5.00% | ~27,661 |
+| Debris and Ashes | 4.00% | ~22,129 |
+| We Will Be Heard! | 4.00% | ~22,129 |
+| Known Associate | 4.00% | ~22,129 |
+| Brush with Death | 4.00% | ~22,129 |
+| Going Down | 4.00% | ~22,129 |
+| Family First | 4.00% | ~22,129 |
+| Your World, Your Rules | 4.00% | ~22,129 |
+| Tunnel Entrance | 4.00% | ~22,129 |
+| After the Fall | 4.00% | ~22,129 |
+| Can't Touch This! | 4.00% | ~22,129 |
+| Death From Afar | 4.00% | ~22,129 |
+| Terminal Headache | 3.00% | ~16,597 |
+| Slowpoke! | 3.00% | ~16,597 |
+| Tickets, Please! | 2.00% | ~11,065 |
+| Parkour Master | 2.00% | ~11,065 |
+| Combat Master | 2.00% | ~11,065 |
+| You're Going Down! | 2.00% | ~11,065 |
 | Municipal Services | 1.00% | ~5,532 |
 | Tube Map | 1.00% | ~5,532 |
 | Don Quixote | 1.00% | ~5,532 |
@@ -45,13 +45,13 @@ Number of Ratings: 7,305  (23.09.2022)
 | Ban Hammer | 1.00% | ~5,532 |
 | Modder | 1.00% | ~5,532 |
 | Ironheart | 1.00% | ~5,532 |
-| Nemesis | 1.00% | ~1,986 |
+| Nemesis | 1.00% | ~1,987 |
 | Fit as a Fiddle | 0.90% | ~4,979 |
 | Enter the Hall | 0.90% | ~1,788 |
-| That's Teamwork! | 0.80% | ~4,425 |
+| That's Teamwork! | 0.80% | ~4,426 |
 | Night of Terrors | 0.80% | ~1,589 |
-| Find Anything Interesting? | 0.70% | ~3,872 |
-| Boot Licker | 0.70% | ~3,872 |
+| Find Anything Interesting? | 0.70% | ~3,873 |
+| Boot Licker | 0.70% | ~3,873 |
 | Who Wants To Be a... | 0.60% | ~3,319 |
 | Get the Point? | 0.60% | ~3,319 |
 | My Friend, Ciro | 0.60% | ~1,192 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~199 |
 | Connoisseur | 0.10% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 553,172 (Ranked 22)  
+Progressed: 553,227 (Ranked 22)  
 Completed: 49 (0.01%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 49 (0.01%) (Ranked 193)
 | 2023-05-18 | 549,255 | 49 |
 | 2023-05-19 | 550,413 | 49 |
 | 2023-05-20 | 551,878 | 49 |
-| 2023-05-21 | 553,172 | 49 |
+| 2023-05-21 | 553,227 | 49 |
 ## Awards
 Max (Character Customization): 7,148  (Ranked 44)  
 Sum: 16,618 (Ranked 59)  

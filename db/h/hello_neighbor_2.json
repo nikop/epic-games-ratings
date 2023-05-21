@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 37,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -312,9 +312,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2366,
+  "EOS_Progressed": 2367,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.89,
   "EosHistory": [
@@ -852,6 +852,11 @@
       "Time": "2023-05-21T18:07:05.7678094+00:00",
       "NumProgressed": 2366,
       "NumCompleted": 92
+    },
+    {
+      "Time": "2023-05-21T21:06:01.4775716+00:00",
+      "NumProgressed": 2367,
+      "NumCompleted": 92
     }
   ],
   "TotalAchievements": 14,
@@ -911,7 +916,7 @@
       "Name": "Family Lost",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -967,14 +972,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 74,
       "XP": 35,
-      "UsersEstimate": 1751
+      "UsersEstimate": 1752
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2366,
+      "Progressed": 2367,
       "Completed": 92
     }
   ],
@@ -982,8 +987,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-05-20T22:00:24.4945734+00:00",
-  "LastChanged_Achievements": "2023-05-21T20:06:44.3393429+00:00",
+  "LastChanged_Achievements": "2023-05-21T21:06:01.4775709+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:26.5471231+00:00",
-  "LastUpdate_Ratings": "2023-05-21T20:01:06.1319877+00:00",
-  "LastUpdate_Achievements": "2023-05-21T20:06:44.3393554+00:00"
+  "LastUpdate_Ratings": "2023-05-21T21:00:20.9189378+00:00",
+  "LastUpdate_Achievements": "2023-05-21T21:06:01.4775838+00:00"
 }

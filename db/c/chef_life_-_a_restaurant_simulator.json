@@ -2,7 +2,7 @@
   "ID": "04e9492e1c384d3283aa2c5b329af66c",
   "Name": "Chef Life - A Restaurant Simulator",
   "ProductSlug": "chef-life-a-restaurant-simulator",
-  "Ranking_EOS_Progress": 239,
+  "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 79,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 162,
+  "EOS_Progressed": 163,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -664,6 +664,11 @@
       "Time": "2023-05-21T20:06:24.8221486+00:00",
       "NumProgressed": 162,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T21:05:43.7865539+00:00",
+      "NumProgressed": 163,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -859,7 +864,7 @@
       "Name": "Next Level Cuisine",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "PerfectGrade25",
@@ -875,7 +880,7 @@
       "Name": "Home Cook",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "RecipeDifferent30",
@@ -899,7 +904,7 @@
       "Name": "S is for Scrumptious",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ServiceMaxClient",
@@ -994,7 +999,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 162,
+      "Progressed": 163,
       "Completed": 0
     }
   ],
@@ -1002,8 +1007,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-21T20:06:24.8221481+00:00",
+  "LastChanged_Achievements": "2023-05-21T21:05:43.7865535+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.318416+00:00",
-  "LastUpdate_Ratings": "2023-05-21T19:58:40.6930362+00:00",
-  "LastUpdate_Achievements": "2023-05-21T20:06:24.8221753+00:00"
+  "LastUpdate_Ratings": "2023-05-21T20:58:15.1598417+00:00",
+  "LastUpdate_Achievements": "2023-05-21T21:05:43.786581+00:00"
 }

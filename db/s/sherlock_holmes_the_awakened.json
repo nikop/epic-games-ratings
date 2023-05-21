@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 29,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -439,17 +439,17 @@
       "ID": "MQ02_1",
       "SetID": "bbing49",
       "Name": "High Profile",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 124
     },
     {
       "ID": "MQ02_2",
       "SetID": "bbing49",
       "Name": "Big Breakthrough",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "MQ02_3",
@@ -471,9 +471,9 @@
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 104
     },
     {
       "ID": "MQ03_2",
@@ -543,9 +543,9 @@
       "ID": "MQ05_2",
       "SetID": "bbing49",
       "Name": "Back In The Saddle",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "MQ05_3",
@@ -656,8 +656,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-21T20:01:56.2904292+00:00",
+  "LastChanged_Achievements": "2023-05-21T21:02:13.056315+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.473335+00:00",
-  "LastUpdate_Ratings": "2023-05-21T19:57:16.4199851+00:00",
-  "LastUpdate_Achievements": "2023-05-21T20:01:56.2904603+00:00"
+  "LastUpdate_Ratings": "2023-05-21T20:57:07.3475353+00:00",
+  "LastUpdate_Achievements": "2023-05-21T21:02:13.0563368+00:00"
 }

@@ -19,13 +19,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kill Nil | 0.80% | ~5,635 |
 | Life is your teacher | 0.80% | ~5,635 |
 | State of constant learning | 0.80% | ~5,635 |
+| Qi Gong: Essence | 0.80% | ~5,635 |
 | Lightning Hands | 0.80% | ~5,635 |
 | Path of the Prospect | 0.80% | ~5,635 |
 | Rumble in the Hangar | 0.80% | ~5,635 |
 | Furious Fists | 0.70% | ~4,931 |
 | Stuntmaster | 0.70% | ~4,931 |
 | Street Fighting | 0.70% | ~4,931 |
-| Qi Gong: Essence | 0.70% | ~4,931 |
 | Take damage to save time | 0.70% | ~4,931 |
 | Scareless | 0.60% | ~4,226 |
 | Old Child | 0.60% | ~4,226 |
@@ -33,7 +33,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Deadly Venom | 0.60% | ~82 |
 | Dance of the Praying Mantis | 0.50% | ~3,522 |
 | Qi Gong: Mind | 0.50% | ~3,522 |
-| A Touch of Acumen | 0.50% | ~68 |
+| A Touch of Acumen | 0.50% | ~69 |
 | Muk Yan Master | 0.40% | ~2,818 |
 | Tiger on Fire | 0.40% | ~2,818 |
 | Source of Flying Daggers | 0.40% | ~2,818 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~704 |
 | Warriors from the Mountain | 0.10% | ~704 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,391 (Ranked 15)  
+Progressed: 704,400 (Ranked 15)  
 Completed: 12,733 (1.81%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 12,733 (1.81%) (Ranked 64)
 | 2023-05-18 | 703,070 | 12,731 |
 | 2023-05-19 | 703,575 | 12,731 |
 | 2023-05-20 | 704,036 | 12,732 |
-| 2023-05-21 | 704,391 | 12,733 |
+| 2023-05-21 | 704,400 | 12,733 |
 ## Awards
 Max (Great Boss Battles): 6,082  (Ranked 53)  
 Sum: 10,348 (Ranked 77)  

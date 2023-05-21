@@ -6,36 +6,36 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 96.00% | ~219,854 |
-| Uncharted Territory | 89.00% | ~203,823 |
-| Getting A Glimpse | 73.00% | ~167,181 |
+| First Steps | 96.00% | ~219,855 |
+| Uncharted Territory | 89.00% | ~203,824 |
+| Getting A Glimpse | 73.00% | ~167,182 |
 | A Quick Escape | 65.00% | ~148,860 |
-| Explorer | 62.00% | ~141,989 |
-| Defeat The Dark | 61.00% | ~139,699 |
-| An Offering | 61.00% | ~139,699 |
+| Explorer | 62.00% | ~141,990 |
+| Defeat The Dark | 61.00% | ~139,700 |
+| An Offering | 61.00% | ~139,700 |
 | Colorful Corpse | 58.00% | ~132,829 |
-| That Was Quick | 56.00% | ~128,248 |
-| A Donation | 56.00% | ~128,248 |
-| Goodbye, Frog Friend | 54.00% | ~123,668 |
+| That Was Quick | 56.00% | ~128,249 |
+| A Donation | 56.00% | ~128,249 |
+| Goodbye, Frog Friend | 54.00% | ~123,669 |
 | Heavy Hitter | 53.00% | ~121,378 |
 | Heartless | 46.00% | ~105,347 |
 | Spine Breaker | 46.00% | ~105,347 |
 | Deflection | 44.00% | ~100,767 |
-| Sneaky | 43.00% | ~98,476 |
-| Delving Deeper | 42.00% | ~96,186 |
-| Ambitious Intent | 41.00% | ~93,896 |
-| C-C-Combo | 41.00% | ~93,896 |
+| Sneaky | 43.00% | ~98,477 |
+| Delving Deeper | 42.00% | ~96,187 |
+| Ambitious Intent | 41.00% | ~93,897 |
+| C-C-Combo | 41.00% | ~93,897 |
 | The Bestiary | 40.00% | ~91,606 |
 | Nothing To Lose | 39.00% | ~89,316 |
 | What's Yours Is Mine | 38.00% | ~87,026 |
-| R.I.P | 36.00% | ~82,445 |
-| Shootout | 35.00% | ~80,155 |
+| R.I.P | 36.00% | ~82,446 |
+| Shootout | 35.00% | ~80,156 |
 | Cold Hearted | 34.00% | ~77,865 |
 | I Am Overburdened | 34.00% | ~77,865 |
 | Dig Your Own Grave | 32.00% | ~73,285 |
 | Toxic | 32.00% | ~73,285 |
 | Who To Trust? | 31.00% | ~70,995 |
-| Flesh Wound | 29.00% | ~66,414 |
+| Flesh Wound | 29.00% | ~66,415 |
 | Walk It Off | 27.00% | ~61,834 |
 | Stone Touch | 27.00% | ~61,834 |
 | Acid Bath | 27.00% | ~61,834 |
@@ -50,11 +50,11 @@ Number of Ratings: 15,086  (23.09.2022)
 | Just Chilling | 19.00% | ~43,513 |
 | All Consuming | 18.00% | ~41,223 |
 | Stop Hitting Yourself | 18.00% | ~41,223 |
-| Shadow Spreads | 16.00% | ~36,642 |
-| Max Damage! | 16.00% | ~36,642 |
-| Don't Ignore Me! | 16.00% | ~36,642 |
-| Illuminate, Eliminate | 16.00% | ~36,642 |
-| Doing Time | 16.00% | ~36,642 |
+| Shadow Spreads | 16.00% | ~36,643 |
+| Max Damage! | 16.00% | ~36,643 |
+| Don't Ignore Me! | 16.00% | ~36,643 |
+| Illuminate, Eliminate | 16.00% | ~36,643 |
+| Doing Time | 16.00% | ~36,643 |
 | Spreading Plague | 14.00% | ~32,062 |
 | The Long Run | 14.00% | ~32,062 |
 | A Rough Road | 13.00% | ~29,772 |
@@ -129,7 +129,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Never Too Many Hats | 0.40% | ~916 |
 | Near Death Experience | 0.30% | ~687 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,015 (Ranked 41)  
+Progressed: 229,016 (Ranked 41)  
 Completed: 229 (0.10%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -160,10 +160,10 @@ Completed: 229 (0.10%) (Ranked 158)
 | 2023-05-18 | 228,702 | 229 |
 | 2023-05-19 | 228,801 | 229 |
 | 2023-05-20 | 228,899 | 229 |
-| 2023-05-21 | 229,015 | 229 |
+| 2023-05-21 | 229,016 | 229 |
 ## Awards
 Max (Quickly Understood Controls): 1,473  (Ranked 114)  
-Sum: 11,408 (Ranked 74)  
+Sum: 11,410 (Ranked 74)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
@@ -174,8 +174,8 @@ Diff (max vs sum): 40
 | This game is Extremely Fun | 1,382 |
 | This game is Highly Recommended | 1,347 |
 | This game has Amazing Storytelling | 1,294 |
-| This game has Amazing Characters | 1,200 |
-| This game has Unique Visuals | 1,184 |
+| This game has Amazing Characters | 1,201 |
+| This game has Unique Visuals | 1,185 |
 | This game has Obsessive Gameplay | 1,088 |
 | This game has a Creative Community | 724 |
 ## Ratings History
@@ -256,3 +256,4 @@ Diff (max vs sum): 40
 | 2023-05-18 | 4.58 | - | 1,473 | 11,403 |
 | 2023-05-19 | 4.58 | - | 1,473 | 11,404 |
 | 2023-05-20 | 4.58 | - | 1,473 | 11,408 |
+| 2023-05-21 | 4.58 | - | 1,473 | 11,410 |

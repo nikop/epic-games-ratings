@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 168,
+  "EOS_Progressed": 169,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -237,6 +237,11 @@
       "Time": "2023-05-21T18:06:57.9120802+00:00",
       "NumProgressed": 168,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T21:05:54.9947623+00:00",
+      "NumProgressed": 169,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -398,9 +403,9 @@
       "ID": "CULTURE_2",
       "SetID": "44dlcg0",
       "Name": "I love books!",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "CULTURE_3",
@@ -462,9 +467,9 @@
       "ID": "FAITH_1",
       "SetID": "44dlcg0",
       "Name": "The spiritual world...",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "FAITH_2",
@@ -582,9 +587,9 @@
       "ID": "GREEN_AREAS_2",
       "SetID": "44dlcg0",
       "Name": "I love parks",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "GREEN_AREAS_3",
@@ -600,7 +605,7 @@
       "Name": "The woodcutter",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "MILLS",
@@ -632,7 +637,7 @@
       "Name": "It is nice to share with friends in the city",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -640,7 +645,7 @@
       "Name": "What would we do if we can\u0027t go out with friends?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "NIGHT_LIFE_3",
@@ -678,9 +683,9 @@
       "ID": "POPULATION_1",
       "SetID": "44dlcg0",
       "Name": "Small town",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 100
     },
     {
       "ID": "POPULATION_2",
@@ -854,9 +859,9 @@
       "ID": "VILLAS",
       "SetID": "44dlcg0",
       "Name": "Bucolic city",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "WELFARE_1",
@@ -879,7 +884,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 168,
+      "Progressed": 169,
       "Completed": 0
     }
   ],
@@ -887,8 +892,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-05-21T20:06:37.0652613+00:00",
+  "LastChanged_Achievements": "2023-05-21T21:05:54.9947617+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:08.225759+00:00",
-  "LastUpdate_Ratings": "2023-05-21T19:59:12.4828117+00:00",
-  "LastUpdate_Achievements": "2023-05-21T20:06:37.0653286+00:00"
+  "LastUpdate_Ratings": "2023-05-21T20:58:41.7820802+00:00",
+  "LastUpdate_Achievements": "2023-05-21T21:05:54.9948288+00:00"
 }

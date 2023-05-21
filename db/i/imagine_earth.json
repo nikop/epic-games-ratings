@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 367,
+  "EOS_Progressed": 368,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -104,6 +104,11 @@
       "Time": "2023-05-20T09:00:29.9623426+00:00",
       "NumProgressed": 367,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T21:00:44.0474835+00:00",
+      "NumProgressed": 368,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -129,9 +134,9 @@
       "ID": "CampaignStars2",
       "SetID": "c2k469b",
       "Name": "Campaign Silver",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 81
+      "UsersEstimate": 77
     },
     {
       "ID": "CampaignStars3",
@@ -139,7 +144,7 @@
       "Name": "Campaign Gold",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "CampaignStars4",
@@ -219,7 +224,7 @@
       "Name": "Edora",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "PlanetIqunox",
@@ -259,7 +264,7 @@
       "Name": "Rounos",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "PlanetThera",
@@ -306,7 +311,7 @@
     {
       "ID": "c2k469b",
       "IsBase": true,
-      "Progressed": 367,
+      "Progressed": 368,
       "Completed": 0
     }
   ],
@@ -314,8 +319,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-03-31T05:58:11.9489163+00:00",
-  "LastChanged_Achievements": "2023-05-21T20:01:33.73271+00:00",
+  "LastChanged_Achievements": "2023-05-21T21:00:44.0474831+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:34.9258969+00:00",
-  "LastUpdate_Ratings": "2023-05-21T19:59:43.7529333+00:00",
-  "LastUpdate_Achievements": "2023-05-21T20:01:33.7327332+00:00"
+  "LastUpdate_Ratings": "2023-05-21T20:59:07.5078984+00:00",
+  "LastUpdate_Achievements": "2023-05-21T21:00:44.0475042+00:00"
 }

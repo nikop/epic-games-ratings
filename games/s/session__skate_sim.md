@@ -26,6 +26,7 @@ Number of Ratings: 111  (23.09.2022)
 | Bottom ply killer | 5.00% | ~101 |
 | Fulfilled the dream | 5.00% | ~101 |
 | Globetrotter | 5.00% | ~101 |
+| Laid back | 5.00% | ~101 |
 | NAHELL! | 5.00% | ~101 |
 | Purple passion | 5.00% | ~101 |
 | Squad goals | 5.00% | ~101 |
@@ -34,7 +35,6 @@ Number of Ratings: 111  (23.09.2022)
 | Cops called! | 4.00% | ~81 |
 | DIY Boss | 4.00% | ~81 |
 | G.O.A.T. status | 4.00% | ~81 |
-| Laid back | 4.00% | ~81 |
 | Lines for days | 4.00% | ~81 |
 | Manny Destroys All | 4.00% | ~81 |
 | Prince of Philly | 4.00% | ~81 |

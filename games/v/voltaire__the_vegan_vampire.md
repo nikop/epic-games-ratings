@@ -8,7 +8,7 @@
 | Good to grow | 63.00% | ~50 |
 | Fashionista | 47.00% | ~37 |
 | Irrigation not irritation | 41.00% | ~32 |
-| Graduated | 38.00% | ~30 |
+| Graduated | 39.00% | ~31 |
 | Night Shift | 25.00% | ~20 |
 | It's about the journey | 15.00% | ~12 |
 | C'who? | 11.00% | ~9 |

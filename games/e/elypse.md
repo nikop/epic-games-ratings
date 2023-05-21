@@ -17,19 +17,19 @@
 | Squid game | 31.00% | ~10 |
 | Hard Rock | 31.00% | ~10 |
 | Rock Solid | 25.00% | ~8 |
-| The beast within | 22.00% | ~7 |
-| It's getting dark | 22.00% | ~7 |
+| The beast within | 25.00% | ~8 |
+| It's getting dark | 25.00% | ~8 |
 | Rooftop | 19.00% | ~6 |
 | Homeless | 19.00% | ~6 |
 | Big badaboom! | 16.00% | ~5 |
 | Nokron tower | 13.00% | ~4 |
+| MayDay! MayDay! | 13.00% | ~4 |
 | Magnitude 5 | 13.00% | ~4 |
 | Bookworm | 13.00% | ~4 |
 | Payback | 13.00% | ~4 |
 | Full power | 9.00% | ~3 |
 | "Ah sh*t... Here we go again!" | 9.00% | ~3 |
 | Compulsive hoarder | 9.00% | ~3 |
-| MayDay! MayDay! | 9.00% | ~3 |
 | GG EZ | 3.00% | ~1 |
 | Comeback | 3.00% | ~1 |
 | Gooooooaaaaal!!! | 3.00% | ~1 |

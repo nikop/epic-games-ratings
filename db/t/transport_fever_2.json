@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 339,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -440,7 +440,7 @@
   ],
   "EOS_Progressed": 1122,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1426,9 +1426,9 @@
       "ID": "achFirstShipArrived",
       "SetID": "dgl390n",
       "Name": "First ship arrived",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 505
+      "UsersEstimate": 516
     },
     {
       "ID": "achFirstSteamTrainArrived",
@@ -1658,8 +1658,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-05-15T19:58:54.3106025+00:00",
-  "LastChanged_Achievements": "2023-05-21T20:06:52.8751478+00:00",
+  "LastChanged_Achievements": "2023-05-21T21:06:09.5492046+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:14.7095355+00:00",
-  "LastUpdate_Ratings": "2023-05-21T20:00:10.63614+00:00",
-  "LastUpdate_Achievements": "2023-05-21T20:06:52.8751944+00:00"
+  "LastUpdate_Ratings": "2023-05-21T20:59:31.2727595+00:00",
+  "LastUpdate_Achievements": "2023-05-21T21:06:09.549255+00:00"
 }

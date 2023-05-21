@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -1123,9 +1123,9 @@
       "Count": 242
     }
   ],
-  "EOS_Progressed": 169600,
+  "EOS_Progressed": 169607,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 2069,
+  "EOS_NewPlayers": 2071,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -4203,6 +4203,11 @@
       "Time": "2023-05-21T20:06:33.1941524+00:00",
       "NumProgressed": 169600,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-21T21:05:51.4000289+00:00",
+      "NumProgressed": 169607,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 44,
@@ -4286,7 +4291,7 @@
       "Name": "Genin",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 16960
+      "UsersEstimate": 16961
     },
     {
       "ID": "HappyLittleAccidents",
@@ -4502,7 +4507,7 @@
       "Name": "Thorough",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 15264
+      "UsersEstimate": 15265
     },
     {
       "ID": "TimeParadox",
@@ -4565,15 +4570,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 169600,
+      "Progressed": 169607,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-05-21T06:58:55.8203592+00:00",
-  "LastChanged_Achievements": "2023-05-21T20:06:33.1941519+00:00",
+  "LastChanged_Achievements": "2023-05-21T21:05:51.4000285+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:16.147513+00:00",
-  "LastUpdate_Ratings": "2023-05-21T19:59:20.2251996+00:00",
-  "LastUpdate_Achievements": "2023-05-21T20:06:33.1941929+00:00"
+  "LastUpdate_Ratings": "2023-05-21T20:58:48.1694583+00:00",
+  "LastUpdate_Achievements": "2023-05-21T21:05:51.4000719+00:00"
 }

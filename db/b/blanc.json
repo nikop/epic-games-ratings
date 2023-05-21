@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1858,
+  "EOS_Progressed": 1859,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -393,6 +393,11 @@
       "Time": "2023-05-21T19:06:44.127489+00:00",
       "NumProgressed": 1858,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-21T21:05:44.2886888+00:00",
+      "NumProgressed": 1859,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 13,
@@ -436,7 +441,7 @@
       "Name": "The will to move on",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "REUNION",
@@ -444,7 +449,7 @@
       "Name": "Reunion",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "SLIDERS",
@@ -507,7 +512,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 1858,
+      "Progressed": 1859,
       "Completed": 4
     }
   ],
@@ -515,8 +520,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-05-21T20:06:25.4044937+00:00",
+  "LastChanged_Achievements": "2023-05-21T21:05:44.2886877+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:36.367715+00:00",
-  "LastUpdate_Ratings": "2023-05-21T19:59:44.7882736+00:00",
-  "LastUpdate_Achievements": "2023-05-21T20:06:25.4045034+00:00"
+  "LastUpdate_Ratings": "2023-05-21T20:59:08.3179521+00:00",
+  "LastUpdate_Achievements": "2023-05-21T21:05:44.2887002+00:00"
 }
