@@ -316,9 +316,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 6523,
+  "EOS_Progressed": 6525,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 377,
+  "EOS_NewPlayers": 378,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -1871,6 +1871,11 @@
       "Time": "2023-05-21T13:07:52.2701033+00:00",
       "NumProgressed": 6523,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-21T14:04:56.3137965+00:00",
+      "NumProgressed": 6525,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 34,
@@ -1954,7 +1959,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "ACH11",
@@ -1986,7 +1991,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2544
+      "UsersEstimate": 2545
     },
     {
       "ID": "ACH15",
@@ -2042,7 +2047,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2805
+      "UsersEstimate": 2806
     },
     {
       "ID": "ACH22",
@@ -2058,7 +2063,7 @@
       "Name": "South American Connection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1500
+      "UsersEstimate": 1501
     },
     {
       "ID": "ACH24",
@@ -2098,7 +2103,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "ACH29",
@@ -2153,7 +2158,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6523,
+      "Progressed": 6525,
       "Completed": 22
     }
   ],
@@ -2161,8 +2166,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-20T16:58:27.5892756+00:00",
-  "LastChanged_Achievements": "2023-05-21T13:07:52.2701027+00:00",
+  "LastChanged_Achievements": "2023-05-21T14:04:56.3137958+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:49.9519997+00:00",
-  "LastUpdate_Ratings": "2023-05-21T13:00:54.3079703+00:00",
-  "LastUpdate_Achievements": "2023-05-21T13:07:52.2701302+00:00"
+  "LastUpdate_Ratings": "2023-05-21T13:57:51.8684137+00:00",
+  "LastUpdate_Achievements": "2023-05-21T14:04:56.3138291+00:00"
 }

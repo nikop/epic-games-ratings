@@ -1425,9 +1425,9 @@
       "ID": "ReadyforWinter_42",
       "SetID": "c4hee28",
       "Name": "Ready for Winter",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1561
+      "UsersEstimate": 1585
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -1577,8 +1577,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-05-21T13:07:57.9956357+00:00",
+  "LastChanged_Achievements": "2023-05-21T14:05:02.0591347+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:14.085288+00:00",
-  "LastUpdate_Ratings": "2023-05-21T13:00:24.61257+00:00",
-  "LastUpdate_Achievements": "2023-05-21T13:07:57.9956663+00:00"
+  "LastUpdate_Ratings": "2023-05-21T13:57:22.5246791+00:00",
+  "LastUpdate_Achievements": "2023-05-21T14:05:02.0591652+00:00"
 }

@@ -94,7 +94,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2078,
+  "EOS_Progressed": 2079,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
@@ -1579,6 +1579,11 @@
       "Time": "2023-05-21T13:07:56.9004558+00:00",
       "NumProgressed": 2078,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-21T14:05:00.9191672+00:00",
+      "NumProgressed": 2079,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1654,7 +1659,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1974
+      "UsersEstimate": 1975
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1670,7 +1675,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1600
+      "UsersEstimate": 1601
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -1726,7 +1731,7 @@
       "Name": "Old friend",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -1742,7 +1747,7 @@
       "Name": "Do you trust me?",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "STB_FIND_ALL_SILVERWINGS",
@@ -1766,7 +1771,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -1774,7 +1779,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1912
+      "UsersEstimate": 1913
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1798,7 +1803,7 @@
       "Name": "The great mage rebellion starts now",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "STB_MISSION1_COMPLETED",
@@ -1806,7 +1811,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -1838,7 +1843,7 @@
       "Name": "Sacred Woods",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -1966,7 +1971,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 1517
+      "UsersEstimate": 1518
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -1974,7 +1979,7 @@
       "Name": "Spellcrafting",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "STB_UNLOCK_ALL_SLOTS_IMPROVEMENTS",
@@ -2013,7 +2018,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2078,
+      "Progressed": 2079,
       "Completed": 1
     }
   ],
@@ -2021,8 +2026,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-17T18:57:40.491639+00:00",
-  "LastChanged_Achievements": "2023-05-21T13:07:56.9004552+00:00",
+  "LastChanged_Achievements": "2023-05-21T14:05:00.9191667+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:08.2361804+00:00",
-  "LastUpdate_Ratings": "2023-05-21T13:00:21.1846992+00:00",
-  "LastUpdate_Achievements": "2023-05-21T13:07:56.9004972+00:00"
+  "LastUpdate_Ratings": "2023-05-21T13:57:18.7814619+00:00",
+  "LastUpdate_Achievements": "2023-05-21T14:05:00.9192103+00:00"
 }

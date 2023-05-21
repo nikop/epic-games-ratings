@@ -6,66 +6,66 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~699,174 |
-| The Blues | 85.00% | ~600,301 |
-| Fast | 66.00% | ~466,116 |
-| Healthbar | 55.00% | ~388,430 |
-| Force Cube | 52.00% | ~367,243 |
-| Double Jump | 48.00% | ~338,993 |
-| Regeneration | 47.00% | ~331,931 |
-| Climb the hill | 42.00% | ~296,619 |
-| Triple Jump | 42.00% | ~296,619 |
-| Through the fire pipe | 38.00% | ~268,370 |
-| MacGuffin | 37.00% | ~261,307 |
-| Just once | 36.00% | ~254,245 |
-| Armor | 30.00% | ~211,871 |
-| True holy spirit | 27.00% | ~190,684 |
-| That's how electronics work obviously | 26.00% | ~183,621 |
-| Force Cube Catapult | 25.00% | ~176,559 |
-| Holy Sword | 23.00% | ~162,434 |
-| Telefrag | 22.00% | ~155,372 |
-| Freed from prison | 21.00% | ~148,310 |
-| Stomp | 21.00% | ~148,310 |
-| Double Health | 18.00% | ~127,122 |
-| Buckle | 17.00% | ~120,060 |
-| Green Keycard | 17.00% | ~120,060 |
-| Rattle Hag | 15.00% | ~105,935 |
-| All Shells | 14.00% | ~98,873 |
-| Beam | 14.00% | ~98,873 |
-| 9 | 13.00% | ~91,811 |
-| Purple Cube | 13.00% | ~91,811 |
-| Supraball Noob | 13.00% | ~91,811 |
-| Health Drink | 12.00% | ~84,748 |
-| Helped a star | 12.00% | ~84,748 |
-| Strong | 12.00% | ~84,748 |
-| Blue King's lair | 11.00% | ~77,686 |
-| Infiltrated | 11.00% | ~77,686 |
-| Robbed | 11.00% | ~77,686 |
-| Payback | 10.00% | ~70,624 |
-| Got the coins back | 10.00% | ~70,624 |
-| Cave Flies | 10.00% | ~70,624 |
-| Gold Scam | 10.00% | ~70,624 |
-| Gold Scam Uncovered | 10.00% | ~70,624 |
-| Got the gun back | 10.00% | ~70,624 |
-| Translocator | 10.00% | ~70,624 |
-| Yellow Shot Button | 10.00% | ~70,624 |
-| Fire Flies | 9.00% | ~63,561 |
-| Moon Door | 9.00% | ~63,561 |
-| Momentum | 9.00% | ~63,561 |
-| Panic Lights | 9.00% | ~63,561 |
-| Through the tiny pipe | 8.00% | ~56,499 |
-| Win! | 8.00% | ~56,499 |
-| The real real teleported man | 7.00% | ~49,437 |
-| Well deserved | 6.00% | ~42,374 |
-| Happiness | 3.00% | ~21,187 |
-| Super Sword | 3.00% | ~21,187 |
+| Out of bed | 99.00% | ~699,188 |
+| The Blues | 85.00% | ~600,313 |
+| Fast | 66.00% | ~466,126 |
+| Healthbar | 55.00% | ~388,438 |
+| Force Cube | 52.00% | ~367,251 |
+| Double Jump | 48.00% | ~339,000 |
+| Regeneration | 47.00% | ~331,938 |
+| Climb the hill | 42.00% | ~296,625 |
+| Triple Jump | 42.00% | ~296,625 |
+| Through the fire pipe | 38.00% | ~268,375 |
+| MacGuffin | 37.00% | ~261,313 |
+| Just once | 36.00% | ~254,250 |
+| Armor | 30.00% | ~211,875 |
+| True holy spirit | 27.00% | ~190,688 |
+| That's how electronics work obviously | 26.00% | ~183,625 |
+| Force Cube Catapult | 25.00% | ~176,563 |
+| Holy Sword | 23.00% | ~162,438 |
+| Telefrag | 22.00% | ~155,375 |
+| Freed from prison | 21.00% | ~148,313 |
+| Stomp | 21.00% | ~148,313 |
+| Double Health | 18.00% | ~127,125 |
+| Buckle | 17.00% | ~120,063 |
+| Green Keycard | 17.00% | ~120,063 |
+| Rattle Hag | 15.00% | ~105,938 |
+| All Shells | 14.00% | ~98,875 |
+| Beam | 14.00% | ~98,875 |
+| 9 | 13.00% | ~91,813 |
+| Purple Cube | 13.00% | ~91,813 |
+| Supraball Noob | 13.00% | ~91,813 |
+| Health Drink | 12.00% | ~84,750 |
+| Helped a star | 12.00% | ~84,750 |
+| Strong | 12.00% | ~84,750 |
+| Blue King's lair | 11.00% | ~77,688 |
+| Infiltrated | 11.00% | ~77,688 |
+| Robbed | 11.00% | ~77,688 |
+| Payback | 10.00% | ~70,625 |
+| Got the coins back | 10.00% | ~70,625 |
+| Cave Flies | 10.00% | ~70,625 |
+| Gold Scam | 10.00% | ~70,625 |
+| Gold Scam Uncovered | 10.00% | ~70,625 |
+| Got the gun back | 10.00% | ~70,625 |
+| Translocator | 10.00% | ~70,625 |
+| Yellow Shot Button | 10.00% | ~70,625 |
+| Fire Flies | 9.00% | ~63,563 |
+| Moon Door | 9.00% | ~63,563 |
+| Momentum | 9.00% | ~63,563 |
+| Panic Lights | 9.00% | ~63,563 |
+| Through the tiny pipe | 8.00% | ~56,500 |
+| Win! | 8.00% | ~56,500 |
+| The real real teleported man | 7.00% | ~49,438 |
+| Well deserved | 6.00% | ~42,375 |
+| Happiness | 3.00% | ~21,188 |
+| Super Sword | 3.00% | ~21,188 |
 | All Chests | 2.00% | ~14,125 |
 | Poor ancestors | 2.00% | ~14,125 |
 | Shelf filled | 2.00% | ~14,125 |
 | Invisible Wall | 2.00% | ~14,125 |
-| Groupies | 1.00% | ~7,062 |
-| Jesus Christ Suprastar | 1.00% | ~7,062 |
-| Redstone Pickaxe | 1.00% | ~7,062 |
+| Groupies | 1.00% | ~7,063 |
+| Jesus Christ Suprastar | 1.00% | ~7,063 |
+| Redstone Pickaxe | 1.00% | ~7,063 |
 | DLC: Green Bird | 0.50% | ~3,531 |
 | DLC: Crashed | 0.50% | ~3,531 |
 | DLC: Discovering the Globe | 0.50% | ~3,531 |
@@ -98,14 +98,14 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: Knocked him out | 0.30% | ~2,119 |
 | DLC: Thrown | 0.30% | ~2,119 |
 | DLC: To the House | 0.30% | ~2,119 |
-| DLC: The Giant's Workshop | 0.20% | ~1,412 |
-| DLC: A good cause! | 0.20% | ~1,412 |
-| DLC: Shady stick | 0.20% | ~1,412 |
+| DLC: The Giant's Workshop | 0.20% | ~1,413 |
+| DLC: A good cause! | 0.20% | ~1,413 |
+| DLC: Shady stick | 0.20% | ~1,413 |
 | DLC: Invisible Wall | 0.10% | ~706 |
 | DLC: There he is! | 0.10% | ~706 |
 | DLC: Top of the world | 0.10% | ~706 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706,236 (Ranked 14)  
+Progressed: 706,251 (Ranked 14)  
 Completed: 683 (0.10%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -136,10 +136,10 @@ Completed: 683 (0.10%) (Ranked 158)
 | 2023-05-18 | 705,596 | 681 |
 | 2023-05-19 | 705,829 | 683 |
 | 2023-05-20 | 706,106 | 683 |
-| 2023-05-21 | 706,236 | 683 |
+| 2023-05-21 | 706,251 | 683 |
 ## Awards
 Max (Challenging Puzzles): 7,611  (Ranked 40)  
-Sum: 9,903 (Ranked 79)  
+Sum: 9,904 (Ranked 79)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
@@ -147,7 +147,7 @@ Diff (max vs sum): -39
 | This game is Educational | 277 |
 | This game is Relaxing | 275 |
 | This game has Amazing Characters | 273 |
-| This game has Amazing Storytelling | 269 |
+| This game has Amazing Storytelling | 270 |
 | This game is Great for Beginners | 262 |
 | This game has Quickly Understood Controls | 261 |
 | This game is Extremely Fun | 255 |
@@ -250,4 +250,4 @@ Diff (max vs sum): -39
 | 2023-05-14 | 4.61 | - | 7,610 | 9,898 |
 | 2023-05-18 | 4.61 | - | 7,610 | 9,900 |
 | 2023-05-20 | 4.61 | - | 7,611 | 9,902 |
-| 2023-05-21 | 4.61 | - | 7,611 | 9,903 |
+| 2023-05-21 | 4.61 | - | 7,611 | 9,904 |

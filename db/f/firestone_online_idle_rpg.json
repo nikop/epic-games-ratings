@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1122,
+  "EOS_Progressed": 1125,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1985,6 +1985,11 @@
       "Time": "2023-05-21T13:08:04.2759315+00:00",
       "NumProgressed": 1122,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-21T14:05:08.730764+00:00",
+      "NumProgressed": 1125,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2060,7 +2065,7 @@
       "Name": "Challenger",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "conqueror",
@@ -2084,7 +2089,7 @@
       "Name": "Daily Quest Completionist",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "doingmypart",
@@ -2098,9 +2103,9 @@
       "ID": "dragonclicker",
       "SetID": "3nl4bcg",
       "Name": "Dragon Clicker",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 169
     },
     {
       "ID": "dragonmaster",
@@ -2108,7 +2113,7 @@
       "Name": "Dragon Master",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "dragonslayer",
@@ -2180,7 +2185,7 @@
       "Name": "Fellowship Power",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "fourleafclover",
@@ -2228,7 +2233,7 @@
       "Name": "Guild Power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "herewegoagain",
@@ -2268,7 +2273,7 @@
       "Name": "Inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "jewelenchanting",
@@ -2332,7 +2337,7 @@
       "Name": "Miner Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "missionsdedication",
@@ -2388,7 +2393,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 583
+      "UsersEstimate": 585
     },
     {
       "ID": "prestigiousx10",
@@ -2452,7 +2457,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 628
+      "UsersEstimate": 630
     },
     {
       "ID": "thealchemist",
@@ -2556,7 +2561,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1058
     },
     {
       "ID": "warmachinesarmy",
@@ -2588,14 +2593,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 898
+      "UsersEstimate": 900
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1122,
+      "Progressed": 1125,
       "Completed": 1
     }
   ],
@@ -2603,8 +2608,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-18T22:58:45.6795503+00:00",
-  "LastChanged_Achievements": "2023-05-21T13:08:04.2759308+00:00",
+  "LastChanged_Achievements": "2023-05-21T14:05:08.7307634+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:34.8363446+00:00",
-  "LastUpdate_Ratings": "2023-05-21T13:00:38.0343695+00:00",
-  "LastUpdate_Achievements": "2023-05-21T13:08:04.2760021+00:00"
+  "LastUpdate_Ratings": "2023-05-21T13:57:36.3997594+00:00",
+  "LastUpdate_Achievements": "2023-05-21T14:05:08.7308311+00:00"
 }

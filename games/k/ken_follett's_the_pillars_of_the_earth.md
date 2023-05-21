@@ -81,9 +81,9 @@ Completed: 94 (0.75%) (Ranked 97)
 | 2023-05-20 | 12,562 | 94 |
 | 2023-05-21 | 12,573 | 94 |
 ## Awards
-Max (Easy Puzzles): 147  (Ranked 286)  
+Max (Easy Puzzles): 147  (Ranked 287)  
 Sum: 186 (Ranked 355)  
-Diff (max vs sum): -69  
+Diff (max vs sum): -68  
 | Award | Count |
 | ----- | ----- |
 | This game features Easy Puzzles | 147 |

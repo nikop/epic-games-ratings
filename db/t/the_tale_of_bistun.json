@@ -122,9 +122,9 @@
       "ID": "BISTUN_ACHIEVEMENT_15",
       "SetID": "1kdk24p",
       "Name": "Close Encounter",
-      "Percentage": 43,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_16",
@@ -258,9 +258,9 @@
       "ID": "BISTUN_ACHIEVEMENT_30",
       "SetID": "1kdk24p",
       "Name": "Read, Read, Read",
-      "Percentage": 14,
+      "Percentage": 21,
       "XP": 35,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "BISTUN_ACHIEVEMENT_31",
@@ -379,8 +379,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.7723222+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1212078+00:00",
   "LastChanged": "2023-03-31T05:58:10.7723223+00:00",
-  "LastChanged_Achievements": "2023-05-21T13:08:14.3507135+00:00",
+  "LastChanged_Achievements": "2023-05-21T14:05:19.0206125+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:44.4415674+00:00",
-  "LastUpdate_Ratings": "2023-05-21T13:02:18.2951224+00:00",
-  "LastUpdate_Achievements": "2023-05-21T13:08:14.3507373+00:00"
+  "LastUpdate_Ratings": "2023-05-21T13:59:16.0456989+00:00",
+  "LastUpdate_Achievements": "2023-05-21T14:05:19.0206362+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 417,
+  "EOS_Progressed": 418,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.2,
   "EosHistory": [
@@ -163,6 +163,11 @@
     {
       "Time": "2023-05-20T16:06:04.5927217+00:00",
       "NumProgressed": 417,
+      "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-21T14:05:25.3221653+00:00",
+      "NumProgressed": 418,
       "NumCompleted": 5
     }
   ],
@@ -261,17 +266,17 @@
       "ID": "Healthy_Child",
       "SetID": "ek310c",
       "Name": "Bundle of Joy",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 209
     },
     {
       "ID": "Hitman",
       "SetID": "ek310c",
       "Name": "Short Circuit",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 46
     },
     {
       "ID": "Illustrator",
@@ -399,14 +404,14 @@
       "Name": "Unexpected Consequences",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     }
   ],
   "AchievementSets": [
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 417,
+      "Progressed": 418,
       "Completed": 5
     }
   ],
@@ -414,8 +419,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-05-18T03:00:40.7703689+00:00",
-  "LastChanged_Achievements": "2023-05-21T13:08:20.6786038+00:00",
+  "LastChanged_Achievements": "2023-05-21T14:05:25.3221646+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:53.1846024+00:00",
-  "LastUpdate_Ratings": "2023-05-21T13:02:53.9272487+00:00",
-  "LastUpdate_Achievements": "2023-05-21T13:08:20.6786197+00:00"
+  "LastUpdate_Ratings": "2023-05-21T13:59:49.2477047+00:00",
+  "LastUpdate_Achievements": "2023-05-21T14:05:25.3221822+00:00"
 }

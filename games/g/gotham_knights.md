@@ -41,6 +41,7 @@ Rating: 4.17 (Ranked 836)
 | Fusion Expert | 0.20% | ~123 |
 | Expert Crime Fighter | 0.20% | ~123 |
 | Family Meeting | 0.20% | ~123 |
+| A Momentum Occasion | 0.20% | ~123 |
 | A Worthy Successor | 0.20% | ~123 |
 | Solid Alibi | 0.20% | ~123 |
 | Hammer and Icicle | 0.10% | ~32 |
@@ -63,11 +64,10 @@ Rating: 4.17 (Ranked 836)
 | Claiming the Mural High Ground | 0.10% | ~62 |
 | A Sophisticated Mallet | 0.10% | ~32 |
 | He'd Be So Proud of You | 0.10% | ~62 |
-| A Momentum Occasion | 0.10% | ~62 |
 | Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,511 (Ranked 68)  
+Progressed: 61,518 (Ranked 68)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-18 | 61,004 | 91 |
 | 2023-05-19 | 61,198 | 91 |
 | 2023-05-20 | 61,416 | 91 |
-| 2023-05-21 | 61,511 | 91 |
+| 2023-05-21 | 61,518 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,227  (Ranked 98)  
 Sum: 3,689 (Ranked 137)  

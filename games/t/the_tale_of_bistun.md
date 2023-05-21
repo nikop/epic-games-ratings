@@ -12,6 +12,7 @@
 | Master Smithy | 57.00% | ~8 |
 | Unearth A Qanat | 57.00% | ~8 |
 | Carving A Memory | 57.00% | ~8 |
+| Close Encounter | 50.00% | ~7 |
 | The Depths Of Darkness | 50.00% | ~7 |
 | One With The Blades | 50.00% | ~7 |
 | Heart of Oblivion | 50.00% | ~7 |
@@ -23,7 +24,6 @@
 | Here I Am | 50.00% | ~7 |
 | Shoo! Shoo! | 50.00% | ~7 |
 | A Friend In Need | 43.00% | ~6 |
-| Close Encounter | 43.00% | ~6 |
 | The Ultimate Sacrifice | 43.00% | ~6 |
 | Break The Cycle | 43.00% | ~6 |
 | A Stranger's Diary | 43.00% | ~6 |
@@ -37,7 +37,7 @@
 | Fledgling Smithy | 36.00% | ~5 |
 | At One With Nature | 36.00% | ~5 |
 | Talent And Dedication | 29.00% | ~4 |
-| Read, Read, Read | 14.00% | ~2 |
+| Read, Read, Read | 21.00% | ~3 |
 | Ledge-walker | 14.00% | ~2 |
 | Slip and Slide | 14.00% | ~2 |
 | Prolific Artist | 7.00% | ~1 |

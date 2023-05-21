@@ -176,9 +176,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1061,
+  "EOS_Progressed": 1068,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 345,
+  "EOS_NewPlayers": 352,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -901,6 +901,11 @@
       "Time": "2023-05-21T13:07:55.0869611+00:00",
       "NumProgressed": 1061,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-21T14:04:59.0961038+00:00",
+      "NumProgressed": 1068,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -918,9 +923,9 @@
       "ID": "REWARD_11_GAME_SUBTITLE",
       "SetID": "bm6el81",
       "Name": "Libert\u00E9",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -966,9 +971,9 @@
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
       "SetID": "bm6el81",
       "Name": "Just a Flesh Wound",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 11
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -992,7 +997,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1038,9 +1043,9 @@
       "ID": "REWARD_25_SKIRMISHER",
       "SetID": "bm6el81",
       "Name": "Skirmisher",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -1056,7 +1061,7 @@
       "Name": "The Long Game",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -1078,9 +1083,9 @@
       "ID": "REWARD_2_GATHERING_INTEL",
       "SetID": "bm6el81",
       "Name": "Confirming Suspicions",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 64
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1166,9 +1171,9 @@
       "ID": "REWARD_40_CLOSE_QUARTERS",
       "SetID": "bm6el81",
       "Name": "Close Quarters",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -1280,7 +1285,7 @@
       "Name": "Taking it back",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -1479,13 +1484,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1012,
+      "Progressed": 1019,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1061,
+      "Progressed": 1068,
       "Completed": 2
     }
   ],
@@ -1493,8 +1498,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-18T16:01:31.1520338+00:00",
-  "LastChanged_Achievements": "2023-05-21T13:07:55.0869605+00:00",
+  "LastChanged_Achievements": "2023-05-21T14:04:59.0961033+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-21T13:02:50.1131519+00:00",
-  "LastUpdate_Achievements": "2023-05-21T13:07:55.0870174+00:00"
+  "LastUpdate_Ratings": "2023-05-21T13:59:46.1338443+00:00",
+  "LastUpdate_Achievements": "2023-05-21T14:04:59.0961605+00:00"
 }

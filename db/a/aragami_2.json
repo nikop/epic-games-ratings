@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 32841,
+  "EOS_Progressed": 32842,
   "EOS_Completed": 156,
-  "EOS_NewPlayers": 474,
+  "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -2802,6 +2802,11 @@
       "Time": "2023-05-21T13:07:48.6145304+00:00",
       "NumProgressed": 32841,
       "NumCompleted": 156
+    },
+    {
+      "Time": "2023-05-21T14:04:52.8201952+00:00",
+      "NumProgressed": 32842,
+      "NumCompleted": 156
     }
   ],
   "TotalAchievements": 44,
@@ -2813,7 +2818,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 18719
+      "UsersEstimate": 18720
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2821,7 +2826,7 @@
       "Name": "Lady",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 9852
+      "UsersEstimate": 9853
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -2933,7 +2938,7 @@
       "Name": "First Steps",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 26601
+      "UsersEstimate": 26602
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -3005,7 +3010,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 12151
+      "UsersEstimate": 12152
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -3013,7 +3018,7 @@
       "Name": "Clinging to Life",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 5911
+      "UsersEstimate": 5912
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -3037,7 +3042,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 18391
+      "UsersEstimate": 18392
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -3085,7 +3090,7 @@
       "Name": "Control the Shadows",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 22332
+      "UsersEstimate": 22333
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -3117,7 +3122,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 14778
+      "UsersEstimate": 14779
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -3149,7 +3154,7 @@
       "Name": "Awakening",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 30214
+      "UsersEstimate": 30215
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -3164,7 +3169,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 32841,
+      "Progressed": 32842,
       "Completed": 156
     }
   ],
@@ -3172,8 +3177,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-03-31T05:58:07.8538504+00:00",
-  "LastChanged_Achievements": "2023-05-21T13:07:48.6145299+00:00",
+  "LastChanged_Achievements": "2023-05-21T14:04:52.8201946+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:57.7696392+00:00",
-  "LastUpdate_Ratings": "2023-05-21T13:00:59.2682442+00:00",
-  "LastUpdate_Achievements": "2023-05-21T13:07:48.6145735+00:00"
+  "LastUpdate_Ratings": "2023-05-21T13:57:57.6305169+00:00",
+  "LastUpdate_Achievements": "2023-05-21T14:04:52.8202391+00:00"
 }

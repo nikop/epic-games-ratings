@@ -15,7 +15,7 @@
 | Destroy Erase Improve | 62.00% | ~73 |
 | Quite A Snack | 58.00% | ~68 |
 | Overwhelming Power | 53.00% | ~63 |
-| Impenetrable Skin | 49.00% | ~58 |
+| Impenetrable Skin | 50.00% | ~59 |
 | Chomp Chomp! | 42.00% | ~50 |
 | Glorious Battle | 39.00% | ~46 |
 | Diaper Time! | 39.00% | ~46 |

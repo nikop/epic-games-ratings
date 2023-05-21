@@ -2,7 +2,7 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 830,
+  "Ranking_Rating": 831,
   "Ranking_Popularity": 397,
   "Ranking_PopularitySum": 341,
   "Ranking_EOS_Progress": 101,
@@ -410,9 +410,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 13135,
+  "EOS_Progressed": 13144,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 572,
+  "EOS_NewPlayers": 581,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1065,6 +1065,11 @@
       "Time": "2023-05-21T13:03:18.906848+00:00",
       "NumProgressed": 13135,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-21T14:00:16.3856794+00:00",
+      "NumProgressed": 13144,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 40,
@@ -1108,7 +1113,7 @@
       "Name": "Flesh Wound",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -1178,9 +1183,9 @@
       "ID": "GRP_25_ENEMIES",
       "SetID": "4hj6d86",
       "Name": "Get a Grip",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 92
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -1226,9 +1231,9 @@
       "ID": "PERFECT_DODGE_GRUNT",
       "SetID": "4hj6d86",
       "Name": "The Commonality",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 131
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -1395,13 +1400,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13135,
+      "Progressed": 13144,
       "Completed": 51
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1061,
+      "Progressed": 1070,
       "Completed": 29
     }
   ],
@@ -1409,8 +1414,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-16T17:57:38.030273+00:00",
-  "LastChanged_Achievements": "2023-05-21T13:03:18.9068475+00:00",
+  "LastChanged_Achievements": "2023-05-21T14:00:16.3856789+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-21T13:00:31.444615+00:00",
-  "LastUpdate_Achievements": "2023-05-21T13:03:18.9068767+00:00"
+  "LastUpdate_Ratings": "2023-05-21T13:57:29.5743754+00:00",
+  "LastUpdate_Achievements": "2023-05-21T14:00:16.3857086+00:00"
 }

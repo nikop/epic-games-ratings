@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -538,9 +538,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 458631,
+  "EOS_Progressed": 458634,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 653,
+  "EOS_NewPlayers": 650,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3363,6 +3363,11 @@
       "Time": "2023-05-21T13:08:14.2801368+00:00",
       "NumProgressed": 458631,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-21T14:05:18.9853593+00:00",
+      "NumProgressed": 458634,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 79,
@@ -3940,9 +3945,9 @@
       "ID": "achievement_win_all_chapers_with_all_bs_dlc_included_easy_normal",
       "SetID": "7plcbc4",
       "Name": "Savior",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_win_all_chapers_with_all_bs_dlc_included_hard",
@@ -3956,17 +3961,17 @@
       "ID": "achievement_win_all_chapers_with_phalanx_easy_normal",
       "SetID": "7plcbc4",
       "Name": "Horus Mastery",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_win_all_chapers_with_phalanx_hard",
       "SetID": "7plcbc4",
       "Name": "Horus Supremacy",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_win_all_chapers_with_pragmah_easy_normal",
@@ -4005,21 +4010,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 2565,
+      "Progressed": 2568,
       "Completed": 2346
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 458631,
+      "Progressed": 458634,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-21T13:08:14.2801362+00:00",
+  "LastChanged_Achievements": "2023-05-21T14:05:18.9853587+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:33.0666845+00:00",
-  "LastUpdate_Ratings": "2023-05-21T13:01:44.4072126+00:00",
-  "LastUpdate_Achievements": "2023-05-21T13:08:14.2802201+00:00"
+  "LastUpdate_Ratings": "2023-05-21T13:58:41.8853876+00:00",
+  "LastUpdate_Achievements": "2023-05-21T14:05:18.9854384+00:00"
 }
