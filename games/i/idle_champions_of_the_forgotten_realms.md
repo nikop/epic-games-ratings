@@ -13,6 +13,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Coasting to the Finish | 0.30% | ~163 |
 | Beast Intentions | 0.20% | ~176 |
 | The Ring of Regeneration | 0.20% | ~176 |
+| Seeking Allies | 0.20% | ~176 |
 | Are Ya Chicken? | 0.20% | ~176 |
 | The Mad Wizard | 0.20% | ~176 |
 | Quick or Quack | 0.20% | ~109 |
@@ -236,7 +237,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spirit of the Trickster Gods | 0.10% | ~54 |
 | Flies on the Wall | 0.10% | ~88 |
 | The Killer Mists | 0.10% | ~88 |
-| Seeking Allies | 0.10% | ~88 |
 | Class Vacation | 0.10% | ~88 |
 | A Nod from Strahd | 0.10% | ~54 |
 | Backtracking Through Barovia | 0.10% | ~88 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.10% | ~88 |
 | Rescue in the Jungle | 0.10% | ~88 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,204 (Ranked 59)  
+Progressed: 88,215 (Ranked 59)  
 Completed: 1,858 (2.11%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -531,7 +531,7 @@ Completed: 1,858 (2.11%) (Ranked 62)
 | 2023-05-18 | 87,918 | 1,850 |
 | 2023-05-19 | 88,008 | 1,851 |
 | 2023-05-20 | 88,132 | 1,854 |
-| 2023-05-21 | 88,204 | 1,858 |
+| 2023-05-21 | 88,215 | 1,858 |
 ## Awards
 Max (Diverse Characters): 4,892  (Ranked 64)  
 Sum: 29,941 (Ranked 37)  

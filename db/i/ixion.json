@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2047,
+  "EOS_Progressed": 2049,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1027,6 +1027,11 @@
       "Time": "2023-05-21T16:05:15.0955175+00:00",
       "NumProgressed": 2047,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T17:05:01.7066922+00:00",
+      "NumProgressed": 2049,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -1148,9 +1153,9 @@
       "ID": "ACH_BASE_24",
       "SetID": "92iocjf",
       "Name": "Sputnik 2049",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_BASE_25",
@@ -1324,9 +1329,9 @@
       "ID": "ACH_BASE_47",
       "SetID": "92iocjf",
       "Name": "Delivery!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_BASE_48",
@@ -1493,13 +1498,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 228,
+      "Progressed": 230,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2047,
+      "Progressed": 2049,
       "Completed": 0
     }
   ],
@@ -1507,8 +1512,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-05-13T22:58:30.2604361+00:00",
-  "LastChanged_Achievements": "2023-05-21T16:05:15.0955168+00:00",
+  "LastChanged_Achievements": "2023-05-21T17:05:01.7066918+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.7103468+00:00",
-  "LastUpdate_Ratings": "2023-05-21T15:58:16.6112407+00:00",
-  "LastUpdate_Achievements": "2023-05-21T16:05:15.0955774+00:00"
+  "LastUpdate_Ratings": "2023-05-21T16:58:05.1433991+00:00",
+  "LastUpdate_Achievements": "2023-05-21T17:05:01.706754+00:00"
 }

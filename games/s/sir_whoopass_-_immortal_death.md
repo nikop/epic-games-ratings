@@ -12,24 +12,24 @@
 | Nerd | 74.00% | ~23 |
 | AHHHHHH.....I'M ON FIRE!!! | 71.00% | ~22 |
 | Not so hip anymore! | 71.00% | ~22 |
+| Blurry depth perception | 71.00% | ~22 |
 | Up and down | 68.00% | ~21 |
-| Blurry depth perception | 68.00% | ~21 |
+| Oh, you're up to no gouda! | 58.00% | ~18 |
 | Rolling, Rolling, Rolling | 58.00% | ~18 |
-| Oh, you're up to no gouda! | 55.00% | ~17 |
-| Fire-fighter! | 48.00% | ~15 |
-| Make Love not War-Craft a Mistlefoe | 48.00% | ~15 |
+| Make Love not War-Craft a Mistlefoe | 55.00% | ~17 |
+| Fire-fighter! | 52.00% | ~16 |
+| My pants squeak when I walk | 42.00% | ~13 |
 | Meat grinder | 42.00% | ~13 |
-| My pants squeak when I walk | 39.00% | ~12 |
+| You're not going to blow me up! | 39.00% | ~12 |
+| Thats disgusting! | 39.00% | ~12 |
 | Make America Grate Again | 35.00% | ~11 |
 | Butcher | 35.00% | ~11 |
-| You're not going to blow me up! | 35.00% | ~11 |
-| Thats disgusting! | 35.00% | ~11 |
 | Spare Ribs | 35.00% | ~11 |
+| Cockadoodledoo! | 35.00% | ~11 |
 | Honk honk! | 32.00% | ~10 |
 | Mushroom soup of the day | 32.00% | ~10 |
-| Cockadoodledoo! | 32.00% | ~10 |
-| Self assessed tax return | 29.00% | ~9 |
-| Karaoke king | 26.00% | ~8 |
+| Self assessed tax return | 32.00% | ~10 |
+| Karaoke king | 29.00% | ~9 |
 | Haemochromatosis | 26.00% | ~8 |
 | Meatballs, coming up! | 23.00% | ~7 |
 | Surprise!! | 23.00% | ~7 |
@@ -44,10 +44,10 @@
 | Another one bites the iron | 13.00% | ~4 |
 | Ripe Meat Off The Bone! | 10.00% | ~3 |
 | Hovering around | 10.00% | ~3 |
+| Spoiler alert! | 6.00% | ~2 |
 | Yeehaw!!! | 6.00% | ~2 |
 | Okay... Maybe I'm a bit drunk... | 6.00% | ~2 |
 | Slimy... yet satisfying | 6.00% | ~2 |
-| Spoiler alert! | 3.00% | ~1 |
 | You're not so Big anymore, Boi! | 3.00% | ~1 |
 | Ancient Ruins of Dirty Feet | 3.00% | ~1 |
 | Deal with it | 3.00% | ~1 |

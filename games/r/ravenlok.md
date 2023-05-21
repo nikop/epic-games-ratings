@@ -12,16 +12,16 @@
 | A Grand Visit | 71.00% | ~543 |
 | Vibing | 61.00% | ~467 |
 | Fun Guy | 61.00% | ~467 |
-| Tragic Brave | 51.00% | ~390 |
+| Tragic Brave | 52.00% | ~398 |
 | Awakened Spirits | 49.00% | ~375 |
-| Little Shop | 47.00% | ~360 |
+| Little Shop | 48.00% | ~367 |
+| Surprise! | 43.00% | ~329 |
 | An Actor! | 43.00% | ~329 |
-| Surprise! | 42.00% | ~321 |
 | Curtain Call | 41.00% | ~314 |
 | Piece of Cake | 39.00% | ~298 |
+| Glimmer of Hope | 39.00% | ~298 |
 | Well Rested | 39.00% | ~298 |
 | Gooey Delight! | 38.00% | ~291 |
-| Glimmer of Hope | 38.00% | ~291 |
 | Teacups for Toppy | 38.00% | ~291 |
 | Nightmare Fuel | 37.00% | ~283 |
 | Take Heart | 37.00% | ~283 |
@@ -34,8 +34,8 @@
 | Spellbound | 33.00% | ~252 |
 | All Skilled Up! | 33.00% | ~252 |
 | Extinct Again! | 32.00% | ~245 |
-| Bird of Prey | 31.00% | ~237 |
-| Stardust | 31.00% | ~237 |
+| Bird of Prey | 32.00% | ~245 |
+| Stardust | 32.00% | ~245 |
 | Heartbreaker | 31.00% | ~237 |
 | Kidnapped! | 31.00% | ~237 |
 | Pull the Plug | 30.00% | ~230 |

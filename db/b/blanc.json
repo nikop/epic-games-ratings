@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1856,
+  "EOS_Progressed": 1857,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -383,6 +383,11 @@
       "Time": "2023-05-21T16:05:23.5776072+00:00",
       "NumProgressed": 1856,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-21T17:05:10.094888+00:00",
+      "NumProgressed": 1857,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 13,
@@ -402,7 +407,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "FALLEN_TREE",
@@ -482,7 +487,7 @@
       "Name": "Transmission",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -490,14 +495,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 1856,
+      "Progressed": 1857,
       "Completed": 4
     }
   ],
@@ -505,8 +510,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-05-21T16:05:23.5776064+00:00",
+  "LastChanged_Achievements": "2023-05-21T17:05:10.0948876+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:36.367715+00:00",
-  "LastUpdate_Ratings": "2023-05-21T15:58:57.5569204+00:00",
-  "LastUpdate_Achievements": "2023-05-21T16:05:23.5776208+00:00"
+  "LastUpdate_Ratings": "2023-05-21T16:58:50.4380505+00:00",
+  "LastUpdate_Achievements": "2023-05-21T17:05:10.0949004+00:00"
 }

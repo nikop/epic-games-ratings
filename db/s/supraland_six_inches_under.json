@@ -2,13 +2,13 @@
   "ID": "ffa7b0821b4142d5873ecb0528715003",
   "Name": "Supraland Six Inches Under",
   "ProductSlug": "supraland-six-inches-under-dd0220",
-  "Ranking_Rating": 104,
+  "Ranking_Rating": 105,
   "Ranking_Popularity": 326,
   "Ranking_PopularitySum": 399,
-  "Ranking_EOS_Progress": 145,
+  "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 11,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
     "PcReleaseDate": "2022-01-14T10:00:00+00:00",
@@ -339,7 +339,7 @@
   ],
   "EOS_Progressed": 2018,
   "EOS_Completed": 243,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 12.04,
   "EosHistory": [
@@ -1038,8 +1038,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-05-01T22:59:17.7167092+00:00",
-  "LastChanged_Achievements": "2023-05-21T16:05:45.11452+00:00",
+  "LastChanged_Achievements": "2023-05-21T17:05:31.4375192+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:12:06.0461464+00:00",
-  "LastUpdate_Ratings": "2023-05-21T15:59:35.244148+00:00",
-  "LastUpdate_Achievements": "2023-05-21T16:05:45.1145615+00:00"
+  "LastUpdate_Ratings": "2023-05-21T16:59:31.5707512+00:00",
+  "LastUpdate_Achievements": "2023-05-21T17:05:31.4375664+00:00"
 }

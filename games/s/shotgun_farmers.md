@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Survivor | 13.00% | ~0 |
 | Aspairagus | 13.00% | ~0 |
-| Bouncemato | 10.00% | ~0 |
-| Early Survivor | 10.00% | ~0 |
-| No Diggity | 10.00% | ~0 |
+| Bouncemato | 9.00% | ~0 |
+| Early Survivor | 9.00% | ~0 |
+| No Diggity | 9.00% | ~0 |
 | Quick-Draw Pod | 8.00% | ~0 |
 | Seeds of War | 6.00% | ~3 |
 | Perfect | 6.00% | ~0 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52 (Ranked 284)  
+Progressed: 53 (Ranked 284)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,6 +102,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-14 | 49 | 0 |
 | 2023-05-15 | 50 | 0 |
 | 2023-05-16 | 52 | 0 |
+| 2023-05-21 | 53 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

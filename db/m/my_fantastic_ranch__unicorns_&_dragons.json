@@ -4,7 +4,7 @@
   "ProductSlug": "my-fantastic-ranch",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-11-17T09:00:00+00:00",
@@ -84,9 +84,9 @@
       "ID": "11",
       "SetID": "6ljhbe4",
       "Name": "Think Positive",
-      "Percentage": 17,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "12",
@@ -277,8 +277,8 @@
   "FirstSeenRating": "2023-03-31T05:58:20.5434938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.8838282+00:00",
   "LastChanged": "2023-03-31T05:58:20.5434939+00:00",
-  "LastChanged_Achievements": "2023-05-21T16:05:16.7149053+00:00",
+  "LastChanged_Achievements": "2023-05-21T17:05:03.4242258+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:15.2172649+00:00",
-  "LastUpdate_Ratings": "2023-05-21T15:58:26.2353117+00:00",
-  "LastUpdate_Achievements": "2023-05-21T16:05:16.7149235+00:00"
+  "LastUpdate_Ratings": "2023-05-21T16:58:17.6733382+00:00",
+  "LastUpdate_Achievements": "2023-05-21T17:05:03.4242424+00:00"
 }

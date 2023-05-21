@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Glass Act | 33.00% | ~13 |
 | Tour Guide Extraordinaire | 28.00% | ~11 |
-| Relight my Cannon | 26.00% | ~10 |
-| Puzzle Prodigy | 21.00% | ~8 |
+| Relight my Cannon | 25.00% | ~10 |
+| Puzzle Prodigy | 20.00% | ~8 |
 | Bathroom Brawler | 18.00% | ~7 |
 | Codebreaker | 18.00% | ~7 |
 | Explosive End | 18.00% | ~7 |
@@ -23,8 +23,8 @@
 | Freedum Fighter | 3.00% | ~1 |
 | Key Keeper's Curse | 3.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39 (Ranked 292)  
-Completed: 1 (2.56%) (Ranked 55)  
+Progressed: 40 (Ranked 291)  
+Completed: 1 (2.50%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -43,3 +43,4 @@ Completed: 1 (2.56%) (Ranked 55)
 | 2023-05-14 | 37 | 1 |
 | 2023-05-16 | 38 | 1 |
 | 2023-05-20 | 39 | 1 |
+| 2023-05-21 | 40 | 1 |

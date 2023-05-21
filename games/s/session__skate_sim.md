@@ -1,22 +1,22 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.66 (Ranked 274)  
+Rating: 4.66 (Ranked 273)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 50.00% | ~1,008 |
-| Keeping it classy | 26.00% | ~524 |
+| You're free now! | 50.00% | ~1,010 |
+| Keeping it classy | 26.00% | ~525 |
 | Welcome to the family | 18.00% | ~363 |
 | The finer things in life | 17.00% | ~343 |
 | Backpacker | 12.00% | ~242 |
 | Go with the Flow | 12.00% | ~242 |
-| Plastic Surgeon | 9.00% | ~181 |
-| The flip trick crown jewel | 9.00% | ~181 |
-| Keep the dream alive | 8.00% | ~161 |
-| The hard way | 8.00% | ~161 |
-| Upfront shredder | 8.00% | ~161 |
+| Plastic Surgeon | 9.00% | ~182 |
+| The flip trick crown jewel | 9.00% | ~182 |
+| Keep the dream alive | 8.00% | ~162 |
+| The hard way | 8.00% | ~162 |
+| Upfront shredder | 8.00% | ~162 |
 | Good vibes | 7.00% | ~141 |
 | Fashionista | 6.00% | ~121 |
 | Finally he zips it | 6.00% | ~121 |
@@ -41,8 +41,8 @@ Number of Ratings: 111  (23.09.2022)
 | Renaissance man | 4.00% | ~81 |
 | Tank commander | 4.00% | ~81 |
 | Trick shot marksman | 4.00% | ~81 |
-| Hoarder | 3.00% | ~60 |
-| We get it, you're good | 3.00% | ~60 |
+| Hoarder | 3.00% | ~61 |
+| We get it, you're good | 3.00% | ~61 |
 | Cross lock country | 2.00% | ~40 |
 | Many plys later... | 2.00% | ~40 |
 | Pew-Pew | 2.00% | ~40 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,016 (Ranked 146)  
+Progressed: 2,019 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-18 | 1,968 | 0 |
 | 2023-05-19 | 1,992 | 0 |
 | 2023-05-20 | 2,009 | 0 |
-| 2023-05-21 | 2,016 | 0 |
+| 2023-05-21 | 2,019 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 392)  
 Sum: 414 (Ranked 300)  

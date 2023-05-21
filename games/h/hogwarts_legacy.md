@@ -1,57 +1,57 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.77 (Ranked 104)  
+Rating: 4.77 (Ranked 105)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 6.00% | ~16,210 |
-| Grappling with a Graphorn | 6.00% | ~16,210 |
-| The One Who Mastered Memories | 6.00% | ~16,210 |
-| The Hallowed Hero | 6.00% | ~16,210 |
-| The Hero of Hogwarts | 6.00% | ~16,210 |
-| The Defender of Dragons | 6.00% | ~16,210 |
-| Coasting Along | 6.00% | ~16,210 |
-| The Avenging Gazelle | 5.00% | ~13,508 |
-| A Sallow Grave | 5.00% | ~13,508 |
-| Challenge Accepted | 5.00% | ~13,508 |
-| A Keen Sense of Spell | 5.00% | ~13,508 |
-| Loom for Improvement | 5.00% | ~13,508 |
-| A Talent for Spending | 5.00% | ~13,508 |
-| The Spell Master | 5.00% | ~13,508 |
-| First Class Student | 5.00% | ~13,508 |
-| Troll with the Punches | 5.00% | ~13,508 |
-| That's a Keeper | 5.00% | ~13,508 |
-| Rising From the Ashes | 5.00% | ~13,508 |
-| Beast Friends | 4.00% | ~10,807 |
-| Flight the Good Flight | 4.00% | ~10,807 |
-| Followed the Butterflies | 4.00% | ~10,807 |
-| The Seeker of Knowledge | 3.00% | ~8,105 |
-| The Root of the Problem | 3.00% | ~8,105 |
-| Third Time's a Charm | 3.00% | ~8,105 |
-| Room with a View | 3.00% | ~8,105 |
-| The Ends Petrify the Means | 3.00% | ~8,105 |
-| Raising Expectations | 3.00% | ~8,105 |
-| The Toast of the Town | 2.00% | ~5,403 |
-| Going Through the Potions | 2.00% | ~5,403 |
-| Floo Around the World | 2.00% | ~5,403 |
-| The Intrepid Explorer | 2.00% | ~5,403 |
-| The Gryffindor in the Graveyard | 2.00% | ~5,403 |
-| The Wise Owl | 2.00% | ~5,403 |
+| The Sort Who Makes an Entrance | 6.00% | ~16,213 |
+| Grappling with a Graphorn | 6.00% | ~16,213 |
+| The One Who Mastered Memories | 6.00% | ~16,213 |
+| The Hallowed Hero | 6.00% | ~16,213 |
+| The Hero of Hogwarts | 6.00% | ~16,213 |
+| The Defender of Dragons | 6.00% | ~16,213 |
+| Coasting Along | 6.00% | ~16,213 |
+| The Avenging Gazelle | 5.00% | ~13,510 |
+| A Sallow Grave | 5.00% | ~13,510 |
+| Challenge Accepted | 5.00% | ~13,510 |
+| A Keen Sense of Spell | 5.00% | ~13,510 |
+| Loom for Improvement | 5.00% | ~13,510 |
+| A Talent for Spending | 5.00% | ~13,510 |
+| The Spell Master | 5.00% | ~13,510 |
+| First Class Student | 5.00% | ~13,510 |
+| Troll with the Punches | 5.00% | ~13,510 |
+| That's a Keeper | 5.00% | ~13,510 |
+| Rising From the Ashes | 5.00% | ~13,510 |
+| Beast Friends | 4.00% | ~10,808 |
+| Flight the Good Flight | 4.00% | ~10,808 |
+| Followed the Butterflies | 4.00% | ~10,808 |
+| The Seeker of Knowledge | 3.00% | ~8,106 |
+| The Root of the Problem | 3.00% | ~8,106 |
+| Third Time's a Charm | 3.00% | ~8,106 |
+| Room with a View | 3.00% | ~8,106 |
+| The Ends Petrify the Means | 3.00% | ~8,106 |
+| Raising Expectations | 3.00% | ~8,106 |
+| The Toast of the Town | 2.00% | ~5,404 |
+| Going Through the Potions | 2.00% | ~5,404 |
+| Floo Around the World | 2.00% | ~5,404 |
+| The Intrepid Explorer | 2.00% | ~5,404 |
+| The Gryffindor in the Graveyard | 2.00% | ~5,404 |
+| The Wise Owl | 2.00% | ~5,404 |
 | The Good Samaritan | 1.00% | ~2,702 |
 | Put Down Roots | 1.00% | ~2,702 |
 | The Auror's Apprentice | 1.00% | ~2,702 |
 | Rise to the Challenges | 1.00% | ~2,702 |
 | Finishing Touches | 1.00% | ~2,702 |
-| Demiguise Dread | 0.80% | ~2,161 |
-| A Forte for Achievement | 0.80% | ~2,161 |
+| Demiguise Dread | 0.80% | ~2,162 |
+| A Forte for Achievement | 0.80% | ~2,162 |
 | Savvy Spender | 0.70% | ~1,891 |
 | Merlin's Beard! | 0.60% | ~1,621 |
 | Spilled Milk | 0.50% | ~1,351 |
 | The Nature of the Beast | 0.40% | ~1,081 |
 | Collector's Edition | 0.20% | ~540 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 270,168 (Ranked 38)  
+Progressed: 270,210 (Ranked 38)  
 Completed: 364 (0.13%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,10 +82,10 @@ Completed: 364 (0.13%) (Ranked 153)
 | 2023-05-18 | 267,735 | 364 |
 | 2023-05-19 | 268,534 | 365 |
 | 2023-05-20 | 269,542 | 364 |
-| 2023-05-21 | 270,168 | 364 |
+| 2023-05-21 | 270,210 | 364 |
 ## Awards
 Max (Character Customization): 18,954  (Ranked 18)  
-Sum: 34,896 (Ranked 33)  
+Sum: 34,898 (Ranked 33)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -99,7 +99,7 @@ Diff (max vs sum): -15
 | This game has Amazing Characters | 735 |
 | This game is Highly Recommended | 710 |
 | This game has Quickly Understood Controls | 661 |
-| This game has Beautiful Visuals | 624 |
+| This game has Beautiful Visuals | 626 |
 | This game has a Creative Community | 478 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -162,4 +162,4 @@ Diff (max vs sum): -15
 | 2023-05-18 | 4.77 | 18,874 | 34,686 |
 | 2023-05-19 | 4.77 | 18,908 | 34,789 |
 | 2023-05-20 | 4.77 | 18,954 | 34,859 |
-| 2023-05-21 | 4.77 | 18,954 | 34,896 |
+| 2023-05-21 | 4.77 | 18,954 | 34,898 |

@@ -4,8 +4,8 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -29,10 +29,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 131,
-  "EOS_Completed": 21,
+  "EOS_Completed": 22,
   "EOS_NewPlayers": 60,
-  "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 16.03,
+  "EOS_NewCompleters": 8,
+  "EOS_Completed_Percentage": 16.79,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -583,6 +583,11 @@
       "Time": "2023-05-21T16:05:10.9118081+00:00",
       "NumProgressed": 131,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-05-21T17:04:57.4923267+00:00",
+      "NumProgressed": 131,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 22,
@@ -608,17 +613,17 @@
       "ID": "LEVEL_003",
       "SetID": "3khpmem",
       "Name": "Buildings, roads, cars, ...and people",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 35,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "LEVEL_004",
       "SetID": "3khpmem",
       "Name": "Great view from the beach and from the hill",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 35,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "LEVEL_005",
@@ -760,9 +765,9 @@
       "ID": "LEVEL_022",
       "SetID": "3khpmem",
       "Name": "Night walk along the beach",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     }
   ],
   "AchievementSets": [
@@ -770,15 +775,15 @@
       "ID": "3khpmem",
       "IsBase": true,
       "Progressed": 131,
-      "Completed": 21
+      "Completed": 22
     }
   ],
   "FirstSeen": "2023-04-28T06:58:06.5817191+00:00",
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-21T16:05:10.9118077+00:00",
+  "LastChanged_Achievements": "2023-05-21T17:04:57.4923263+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:36.8517809+00:00",
-  "LastUpdate_Ratings": "2023-05-21T15:57:57.229177+00:00",
-  "LastUpdate_Achievements": "2023-05-21T16:05:10.9118271+00:00"
+  "LastUpdate_Ratings": "2023-05-21T16:57:45.6835454+00:00",
+  "LastUpdate_Achievements": "2023-05-21T17:04:57.4923419+00:00"
 }

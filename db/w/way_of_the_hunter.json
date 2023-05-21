@@ -3,7 +3,7 @@
   "Name": "Way of the Hunter",
   "ProductSlug": "way-of-the-hunter",
   "Ranking_Rating": 719,
-  "Ranking_Popularity": 414,
+  "Ranking_Popularity": 415,
   "Ranking_PopularitySum": 344,
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 201,
@@ -690,6 +690,6 @@
   "FirstSeenRating": "2022-08-25T19:31:36.42786+00:00",
   "LastChanged": "2023-05-20T06:59:23.6343454+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:17.8725613+00:00",
-  "LastUpdate_Ratings": "2023-05-21T15:58:43.5600436+00:00",
-  "LastUpdate_Achievements": "2023-05-21T16:04:16.9970865+00:00"
+  "LastUpdate_Ratings": "2023-05-21T16:58:36.0748424+00:00",
+  "LastUpdate_Achievements": "2023-05-21T17:04:02.615611+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -270,9 +270,9 @@
       "ID": "GB_FIRST_BLOOD",
       "SetID": "8ga3kd9",
       "Name": "FIRST BLOOD",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 224
+      "UsersEstimate": 227
     },
     {
       "ID": "GB_GOURMET",
@@ -294,9 +294,9 @@
       "ID": "GB_GRATITUDE",
       "SetID": "8ga3kd9",
       "Name": "GRATITUDE",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     },
     {
       "ID": "GB_HELLS_KITCHEN",
@@ -318,9 +318,9 @@
       "ID": "GB_HONORS_STUDENT",
       "SetID": "8ga3kd9",
       "Name": "HONORS STUDENT",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 112
+      "UsersEstimate": 115
     },
     {
       "ID": "GB_INDIVIDUAL_APPROACH",
@@ -350,9 +350,9 @@
       "ID": "GB_KEVIN",
       "SetID": "8ga3kd9",
       "Name": "KEVIN!",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 195
+      "UsersEstimate": 198
     },
     {
       "ID": "GB_LAW_ABIDING_CITIZEN",
@@ -438,9 +438,9 @@
       "ID": "GB_WITHOUT_BREAKING_A_SWEAT",
       "SetID": "8ga3kd9",
       "Name": "WITHOUT BREAKING A SWEAT",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 123
+      "UsersEstimate": 126
     }
   ],
   "AchievementSets": [
@@ -455,8 +455,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-05-18T03:58:25.9913255+00:00",
-  "LastChanged_Achievements": "2023-05-21T15:03:11.8100001+00:00",
+  "LastChanged_Achievements": "2023-05-21T17:00:01.5310592+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:53.2828983+00:00",
-  "LastUpdate_Ratings": "2023-05-21T15:58:11.9605927+00:00",
-  "LastUpdate_Achievements": "2023-05-21T15:03:11.8100248+00:00"
+  "LastUpdate_Ratings": "2023-05-21T16:58:00.3892445+00:00",
+  "LastUpdate_Achievements": "2023-05-21T17:00:01.5311009+00:00"
 }

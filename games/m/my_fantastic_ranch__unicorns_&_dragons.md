@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Let the Adventure Begin! | 83.00% | ~5 |
+| Think Positive | 33.00% | ~2 |
 | Prized Possession | 33.00% | ~2 |
 | Creature Evolution | 17.00% | ~1 |
-| Think Positive | 17.00% | ~1 |
 | Spirit of competition | 17.00% | ~1 |
 | Kingdom Party Time | 17.00% | ~1 |
 | Lecturer | 17.00% | ~1 |

@@ -21,7 +21,7 @@
   "Tags": [],
   "EOS_Progressed": 92,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -537,9 +537,9 @@
       "ID": "Obtain 50 PowerUps",
       "SetID": "5n829i",
       "Name": "Obtained 50 PowerUps",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Poosh Past 10000",
@@ -553,9 +553,9 @@
       "ID": "Poosh Past 2500",
       "SetID": "5n829i",
       "Name": "Pooshed Past 2500",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Poosh Past 5000",
@@ -577,9 +577,9 @@
       "ID": "Poosh over 250000",
       "SetID": "5n829i",
       "Name": "Pooshed over 250000",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Terrible Start",
@@ -599,8 +599,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:01.0341399+00:00",
-  "LastChanged_Achievements": "2023-05-21T16:00:27.5195925+00:00",
+  "LastChanged_Achievements": "2023-05-21T17:00:24.3449874+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:06.3552766+00:00",
-  "LastUpdate_Ratings": "2023-05-21T15:57:35.7266812+00:00",
-  "LastUpdate_Achievements": "2023-05-21T16:00:27.5196144+00:00"
+  "LastUpdate_Ratings": "2023-05-21T16:57:24.4958137+00:00",
+  "LastUpdate_Achievements": "2023-05-21T17:00:24.345012+00:00"
 }

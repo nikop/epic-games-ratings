@@ -6,9 +6,9 @@
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 77,
   "Ranking_EOS_Progress": 15,
-  "Ranking_EOS_Completed": 65,
+  "Ranking_EOS_Completed": 64,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4140,9 +4140,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 704353,
+  "EOS_Progressed": 704362,
   "EOS_Completed": 12733,
-  "EOS_NewPlayers": 1434,
+  "EOS_NewPlayers": 1441,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -6620,6 +6620,11 @@
       "Time": "2023-05-21T16:05:33.9308267+00:00",
       "NumProgressed": 704353,
       "NumCompleted": 12733
+    },
+    {
+      "Time": "2023-05-21T17:05:20.2521325+00:00",
+      "NumProgressed": 704362,
+      "NumCompleted": 12733
     }
   ],
   "TotalAchievements": 50,
@@ -6671,7 +6676,7 @@
       "Name": "Furious Fists",
       "Percentage": 0.7,
       "XP": 75,
-      "UsersEstimate": 4930
+      "UsersEstimate": 4931
     },
     {
       "ID": "07_Wude_H1",
@@ -6733,9 +6738,9 @@
       "ID": "14_DeathlessBoss_Trophy",
       "SetID": "adcm20g",
       "Name": "Kill Nil",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 4930
+      "UsersEstimate": 5635
     },
     {
       "ID": "15_Detective_H1",
@@ -6783,7 +6788,7 @@
       "Name": "Stuntmaster",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 4930
+      "UsersEstimate": 4931
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -6799,7 +6804,7 @@
       "Name": "Street Fighting",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 4930
+      "UsersEstimate": 4931
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -6839,7 +6844,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4930
+      "UsersEstimate": 4931
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -6943,7 +6948,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4930
+      "UsersEstimate": 4931
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -6975,7 +6980,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -7030,21 +7035,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 13654,
+      "Progressed": 13663,
       "Completed": 10141
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 704353,
+      "Progressed": 704362,
       "Completed": 12733
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-21T02:05:11.0148373+00:00",
-  "LastChanged_Achievements": "2023-05-21T16:05:33.9308259+00:00",
+  "LastChanged_Achievements": "2023-05-21T17:05:20.2521322+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.7579865+00:00",
-  "LastUpdate_Ratings": "2023-05-21T15:58:44.4205256+00:00",
-  "LastUpdate_Achievements": "2023-05-21T16:05:33.9308822+00:00"
+  "LastUpdate_Ratings": "2023-05-21T16:58:37.0942077+00:00",
+  "LastUpdate_Achievements": "2023-05-21T17:05:20.252188+00:00"
 }

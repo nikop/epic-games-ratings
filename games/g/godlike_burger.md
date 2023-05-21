@@ -6,20 +6,20 @@ Rating: 4.25 (Ranked 784)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | MASTER CHEF | 83.00% | ~238 |
-| FIRST BLOOD | 78.00% | ~224 |
-| KEVIN! | 68.00% | ~195 |
+| FIRST BLOOD | 79.00% | ~227 |
+| KEVIN! | 69.00% | ~198 |
 | JACK OF ALL TRADES | 64.00% | ~184 |
 | CRIMINAL | 58.00% | ~166 |
 | GRANDMA WOULD BE PROUD | 48.00% | ~138 |
-| WITHOUT BREAKING A SWEAT | 43.00% | ~123 |
-| HONORS STUDENT | 39.00% | ~112 |
+| WITHOUT BREAKING A SWEAT | 44.00% | ~126 |
+| HONORS STUDENT | 40.00% | ~115 |
 | BUTCHER | 28.00% | ~80 |
 | MARTYR | 23.00% | ~66 |
 | RAMBO | 23.00% | ~66 |
 | INDIVIDUAL APPROACH | 22.00% | ~63 |
 | CELEBRITY | 21.00% | ~60 |
 | HELL'S KITCHEN | 21.00% | ~60 |
-| GRATITUDE | 19.00% | ~55 |
+| GRATITUDE | 20.00% | ~57 |
 | LAW-ABIDING CITIZEN | 14.00% | ~40 |
 | PRUDENT | 11.00% | ~32 |
 | PATTY-KILLER | 10.00% | ~29 |

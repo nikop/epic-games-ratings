@@ -2,20 +2,20 @@
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
   "ProductSlug": "tchia",
-  "Ranking_Rating": 104,
+  "Ranking_Rating": 100,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 115,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.77,
+  "Rating": 4.78,
   "RatingHistory": [
     {
       "Time": "2023-03-27T01:58:07.9260384+00:00",
@@ -134,15 +134,21 @@
       "Rating": 4.77,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-21T16:57:42.2177511+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5926,
+  "EOS_Progressed": 5931,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1885,6 +1891,11 @@
       "Time": "2023-05-21T16:05:09.6726283+00:00",
       "NumProgressed": 5926,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-21T17:04:56.2894551+00:00",
+      "NumProgressed": 5931,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 21,
@@ -1896,7 +1907,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "ARRR",
@@ -1944,7 +1955,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -1982,9 +1993,9 @@
       "ID": "HISTORIAN",
       "SetID": "3cck1g6",
       "Name": "Historian",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 356
+      "UsersEstimate": 297
     },
     {
       "ID": "ICONOCLAST",
@@ -1992,7 +2003,7 @@
       "Name": "Iconoclast",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "IN_A_PINCH",
@@ -2000,7 +2011,7 @@
       "Name": "In a Pinch",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1127
     },
     {
       "ID": "LIBERATOR",
@@ -2024,7 +2035,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "SNIP_SNIP",
@@ -2048,7 +2059,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "THING",
@@ -2063,16 +2074,16 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5926,
+      "Progressed": 5931,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-03-21T09:57:30.0588208+00:00",
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
-  "LastChanged": "2023-05-16T16:57:54.2243616+00:00",
-  "LastChanged_Achievements": "2023-05-21T16:05:09.6726276+00:00",
+  "LastChanged": "2023-05-21T16:57:42.2177509+00:00",
+  "LastChanged_Achievements": "2023-05-21T17:04:56.2894548+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.822955+00:00",
-  "LastUpdate_Ratings": "2023-05-21T15:57:52.9145537+00:00",
-  "LastUpdate_Achievements": "2023-05-21T16:05:09.6726545+00:00"
+  "LastUpdate_Ratings": "2023-05-21T16:57:42.2177515+00:00",
+  "LastUpdate_Achievements": "2023-05-21T17:04:56.2894808+00:00"
 }

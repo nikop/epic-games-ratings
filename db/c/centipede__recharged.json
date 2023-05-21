@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -290,9 +290,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13793,
+  "EOS_Progressed": 13794,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -2630,6 +2630,11 @@
       "Time": "2023-05-21T16:00:37.6891808+00:00",
       "NumProgressed": 13793,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2023-05-21T17:02:14.0712503+00:00",
+      "NumProgressed": 13794,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 16,
@@ -2737,7 +2742,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 7034
+      "UsersEstimate": 7035
     },
     {
       "ID": "Sole_Survivor",
@@ -2745,7 +2750,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 5103
+      "UsersEstimate": 5104
     },
     {
       "ID": "Still_Burning",
@@ -2768,15 +2773,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 13793,
+      "Progressed": 13794,
       "Completed": 82
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-10T20:58:58.4288263+00:00",
-  "LastChanged_Achievements": "2023-05-21T16:00:37.68918+00:00",
+  "LastChanged_Achievements": "2023-05-21T17:02:14.07125+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:20.131205+00:00",
-  "LastUpdate_Ratings": "2023-05-21T15:58:45.1004863+00:00",
-  "LastUpdate_Achievements": "2023-05-21T16:00:37.6892065+00:00"
+  "LastUpdate_Ratings": "2023-05-21T16:58:37.8714947+00:00",
+  "LastUpdate_Achievements": "2023-05-21T17:02:14.0712758+00:00"
 }

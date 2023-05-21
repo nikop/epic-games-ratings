@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 915,
+  "EOS_Progressed": 916,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -615,6 +615,11 @@
       "Time": "2023-05-21T14:05:16.1524729+00:00",
       "NumProgressed": 915,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-21T17:05:19.9994329+00:00",
+      "NumProgressed": 916,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -672,9 +677,9 @@
       "ID": "Death_to_the_dictator",
       "SetID": "85nb4h3",
       "Name": "Death to the Oppressor!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 119
     },
     {
       "ID": "Defense_Common",
@@ -696,9 +701,9 @@
       "ID": "Double_barrel",
       "SetID": "85nb4h3",
       "Name": "Lock, Stock",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 55
     },
     {
       "ID": "E1M1",
@@ -754,7 +759,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "High_noon",
@@ -776,9 +781,9 @@
       "ID": "Its_very_spicy",
       "SetID": "85nb4h3",
       "Name": "Spice It Up",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 192
     },
     {
       "ID": "KillAllM2",
@@ -818,7 +823,7 @@
       "Name": "Mosquito bite",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "Scout",
@@ -865,15 +870,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 915,
+      "Progressed": 916,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-05-21T16:05:33.6385864+00:00",
+  "LastChanged_Achievements": "2023-05-21T17:05:19.9994326+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:35.4826245+00:00",
-  "LastUpdate_Ratings": "2023-05-21T15:58:57.7062277+00:00",
-  "LastUpdate_Achievements": "2023-05-21T16:05:33.6386076+00:00"
+  "LastUpdate_Ratings": "2023-05-21T16:58:50.6147339+00:00",
+  "LastUpdate_Achievements": "2023-05-21T17:05:19.999456+00:00"
 }

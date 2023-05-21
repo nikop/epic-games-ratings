@@ -2,20 +2,20 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 258,
+  "Ranking_Rating": 273,
   "Ranking_Popularity": 426,
   "Ranking_PopularitySum": 450,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 119,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.67,
+  "Rating": 4.66,
   "RatingHistory": [
     {
       "Time": "2023-02-21T16:57:02.7003964+00:00",
@@ -302,6 +302,12 @@
       "Rating": 4.67,
       "NumberOfAwards": 35,
       "NumberOfAwardsMax": 35
+    },
+    {
+      "Time": "2023-05-21T16:57:57.9549744+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 35,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
@@ -316,9 +322,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 6538,
+  "EOS_Progressed": 6541,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 388,
+  "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -1886,6 +1892,11 @@
       "Time": "2023-05-21T16:05:14.5109983+00:00",
       "NumProgressed": 6538,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-21T17:05:01.1761064+00:00",
+      "NumProgressed": 6541,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 34,
@@ -1913,7 +1924,7 @@
       "Name": "Iron-y",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "ACH04",
@@ -1977,7 +1988,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "ACH12",
@@ -2001,7 +2012,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2550
+      "UsersEstimate": 2551
     },
     {
       "ID": "ACH15",
@@ -2057,7 +2068,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2811
+      "UsersEstimate": 2813
     },
     {
       "ID": "ACH22",
@@ -2065,7 +2076,7 @@
       "Name": "Life of the Party",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1112
     },
     {
       "ID": "ACH23",
@@ -2168,16 +2179,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6538,
+      "Progressed": 6541,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
-  "LastChanged": "2023-05-20T16:58:27.5892756+00:00",
-  "LastChanged_Achievements": "2023-05-21T16:05:14.5109978+00:00",
+  "LastChanged": "2023-05-21T16:57:57.9549739+00:00",
+  "LastChanged_Achievements": "2023-05-21T17:05:01.176106+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:49.9519997+00:00",
-  "LastUpdate_Ratings": "2023-05-21T15:58:09.4510273+00:00",
-  "LastUpdate_Achievements": "2023-05-21T16:05:14.5110308+00:00"
+  "LastUpdate_Ratings": "2023-05-21T16:57:57.9549747+00:00",
+  "LastUpdate_Achievements": "2023-05-21T17:05:01.17614+00:00"
 }

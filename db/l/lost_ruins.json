@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 304,
+  "EOS_Progressed": 306,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -141,6 +141,11 @@
       "Time": "2023-05-21T06:06:26.1417971+00:00",
       "NumProgressed": 304,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T17:05:24.4014775+00:00",
+      "NumProgressed": 306,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -224,7 +229,7 @@
       "Name": "Gladiator",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "GoblinTales",
@@ -232,7 +237,7 @@
       "Name": "Goblin Tales",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "Hardboiled",
@@ -270,17 +275,17 @@
       "ID": "Inquisitor",
       "SetID": "82505mn",
       "Name": "Inquisitor",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 113
     },
     {
       "ID": "Librarian",
       "SetID": "82505mn",
       "Name": "Librarian",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 37
     },
     {
       "ID": "Lumberjack",
@@ -288,7 +293,7 @@
       "Name": "Lumberjack",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Marksman",
@@ -310,9 +315,9 @@
       "ID": "MoneySwag",
       "SetID": "82505mn",
       "Name": "Money Swag",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 24
     },
     {
       "ID": "Necromancer",
@@ -406,9 +411,9 @@
       "ID": "TheEnd",
       "SetID": "82505mn",
       "Name": "The End",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 37
     },
     {
       "ID": "TheFallen",
@@ -448,7 +453,7 @@
       "Name": "Troubleshooter",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "WeaponMaster",
@@ -471,7 +476,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 304,
+      "Progressed": 306,
       "Completed": 0
     }
   ],
@@ -479,8 +484,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-05-21T16:05:37.9415028+00:00",
+  "LastChanged_Achievements": "2023-05-21T17:05:24.4014771+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:07.6550194+00:00",
-  "LastUpdate_Ratings": "2023-05-21T15:59:10.9160984+00:00",
-  "LastUpdate_Achievements": "2023-05-21T16:05:37.9415349+00:00"
+  "LastUpdate_Ratings": "2023-05-21T16:59:03.5917057+00:00",
+  "LastUpdate_Achievements": "2023-05-21T17:05:24.4015081+00:00"
 }

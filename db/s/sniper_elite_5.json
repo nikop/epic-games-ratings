@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -176,9 +176,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1088,
+  "EOS_Progressed": 1091,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 372,
+  "EOS_NewPlayers": 374,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -916,6 +916,11 @@
       "Time": "2023-05-21T16:05:17.3024595+00:00",
       "NumProgressed": 1088,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-21T17:05:03.9887688+00:00",
+      "NumProgressed": 1091,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1045,9 +1050,9 @@
       "ID": "REWARD_24_GUNSLINGER",
       "SetID": "bm6el81",
       "Name": "Gunslinger",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -1077,17 +1082,17 @@
       "ID": "REWARD_28_AMBUSH_KING",
       "SetID": "bm6el81",
       "Name": "Set Europe Ablaze",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
       "SetID": "bm6el81",
       "Name": "Precision Is Key",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -1494,13 +1499,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1039,
+      "Progressed": 1042,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1088,
+      "Progressed": 1091,
       "Completed": 2
     }
   ],
@@ -1508,8 +1513,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-18T16:01:31.1520338+00:00",
-  "LastChanged_Achievements": "2023-05-21T16:05:17.3024589+00:00",
+  "LastChanged_Achievements": "2023-05-21T17:05:03.9887681+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-21T15:59:58.7527035+00:00",
-  "LastUpdate_Achievements": "2023-05-21T16:05:17.3025291+00:00"
+  "LastUpdate_Ratings": "2023-05-21T16:59:54.4386741+00:00",
+  "LastUpdate_Achievements": "2023-05-21T17:05:03.9888371+00:00"
 }

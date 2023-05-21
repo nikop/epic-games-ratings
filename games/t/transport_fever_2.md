@@ -1,25 +1,25 @@
 # Transport Fever 2
 [Store](https://store.epicgames.com/en-US/p/transport-fever-2)  
 [View Rawdata](../../db/t/transport_fever_2.json)  
-Rating: 4.69 (Ranked 213)  
+Rating: 4.69 (Ranked 214)  
 Number of Ratings: 180  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 77.00% | ~862 |
-| First cargo item waiting | 71.00% | ~795 |
-| First cargo item on board | 70.00% | ~784 |
+| First line | 77.00% | ~863 |
+| First cargo item on board | 70.00% | ~785 |
+| First cargo item waiting | 70.00% | ~785 |
 | First bus stop | 69.00% | ~773 |
-| First passenger on board | 66.00% | ~739 |
-| First passenger waiting | 66.00% | ~739 |
-| First bus arrived | 65.00% | ~728 |
+| First passenger on board | 66.00% | ~740 |
+| First passenger waiting | 66.00% | ~740 |
+| First bus arrived | 65.00% | ~729 |
 | First train station | 63.00% | ~706 |
 | First steam train arrived | 59.00% | ~661 |
-| First industry upgraded | 56.00% | ~627 |
-| Transport millionaire | 55.00% | ~616 |
+| First industry upgraded | 56.00% | ~628 |
+| Transport millionaire | 55.00% | ~617 |
 | Cargo hub | 53.00% | ~594 |
-| Transport master | 52.00% | ~582 |
-| Cadet | 52.00% | ~582 |
+| Transport master | 52.00% | ~583 |
+| Cadet | 52.00% | ~583 |
 | Sculpturer | 50.00% | ~560 |
 | First electric train arrived | 48.00% | ~538 |
 | Settled down | 48.00% | ~538 |
@@ -31,14 +31,14 @@ Number of Ratings: 180  (23.09.2022)
 | Exemplary student | 40.00% | ~448 |
 | Mass production | 35.00% | ~392 |
 | Aircraft entrepreneur | 33.00% | ~370 |
-| Not in my backyard | 31.00% | ~347 |
-| The future is now, old man | 31.00% | ~347 |
+| Not in my backyard | 31.00% | ~348 |
+| The future is now, old man | 31.00% | ~348 |
 | Crowd in a train | 30.00% | ~336 |
 | City | 29.00% | ~325 |
 | The king of the sea | 28.00% | ~314 |
 | Transport tycoon | 24.00% | ~269 |
 | Climate change | 23.00% | ~258 |
-| The ugly smell of success | 22.00% | ~246 |
+| The ugly smell of success | 22.00% | ~247 |
 | Old timer | 21.00% | ~235 |
 | Heavily loaded | 20.00% | ~224 |
 | Bob Ross | 16.00% | ~179 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~2 |
 | Museum line | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,120 (Ranked 161)  
+Progressed: 1,121 (Ranked 161)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,11 +99,11 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-18 | 1,092 | 0 |
 | 2023-05-19 | 1,103 | 0 |
 | 2023-05-20 | 1,112 | 0 |
-| 2023-05-21 | 1,120 | 0 |
+| 2023-05-21 | 1,121 | 0 |
 ## Awards
-Max (Highly Recommended): 38  (Ranked 414)  
+Max (Highly Recommended): 38  (Ranked 415)  
 Sum: 261 (Ranked 339)  
-Diff (max vs sum): 75  
+Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 38 |

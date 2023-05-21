@@ -4,7 +4,7 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 80,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
@@ -95,9 +95,9 @@
       "ID": "chameleon",
       "SetID": "2db2j74",
       "Name": "Chameleon",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "chicken",
@@ -175,9 +175,9 @@
       "ID": "poetent",
       "SetID": "2db2j74",
       "Name": "Poetent",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "put_a_ring_on_it",
@@ -248,8 +248,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-05-21T16:00:24.4661336+00:00",
+  "LastChanged_Achievements": "2023-05-21T17:00:21.3524251+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:20.2992909+00:00",
-  "LastUpdate_Ratings": "2023-05-21T15:58:28.4842663+00:00",
-  "LastUpdate_Achievements": "2023-05-21T16:00:24.4661543+00:00"
+  "LastUpdate_Ratings": "2023-05-21T16:58:19.9097131+00:00",
+  "LastUpdate_Achievements": "2023-05-21T17:00:21.3524399+00:00"
 }

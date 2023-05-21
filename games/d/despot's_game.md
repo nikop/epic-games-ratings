@@ -20,7 +20,7 @@ Rating: 4.50 (Ranked 535)
 | Assemble a Meganewbie | 24.00% | ~88 |
 | He's Seen It All | 24.00% | ~88 |
 | Great Hero | 24.00% | ~88 |
-| Rookie | 23.00% | ~84 |
+| Rookie | 24.00% | ~88 |
 | Frugal | 20.00% | ~73 |
 | Feed a God | 19.00% | ~70 |
 | To the Moon and Back | 19.00% | ~70 |

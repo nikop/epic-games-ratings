@@ -22,17 +22,17 @@ Rating: 4.41 (Ranked 658)
 | Target America | 1.00% | ~11 |
 | Close Quarters | 0.90% | ~10 |
 | The Kraken Sleeps | 0.90% | ~10 |
+| Gunslinger | 0.80% | ~9 |
 | The Long Game | 0.80% | ~9 |
 | Taking it back | 0.80% | ~9 |
 | Liberté | 0.70% | ~8 |
-| Gunslinger | 0.70% | ~8 |
+| Precision Is Key | 0.70% | ~8 |
 | Snake in the Grass | 0.70% | ~8 |
 | Skirmisher | 0.60% | ~7 |
 | Sharpshooter | 0.60% | ~7 |
-| Set Europe Ablaze | 0.60% | ~7 |
-| Precision Is Key | 0.60% | ~7 |
 | Der Geist | 0.60% | ~7 |
 | Climbing the Ladder | 0.50% | ~5 |
+| Set Europe Ablaze | 0.50% | ~5 |
 | Brains of the Operation | 0.50% | ~5 |
 | Strategist | 0.40% | ~4 |
 | It'll Buff Right Out | 0.40% | ~4 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 658)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,088 (Ranked 162)  
+Progressed: 1,091 (Ranked 162)  
 Completed: 2 (0.18%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 2 (0.18%) (Ranked 143)
 | 2023-05-18 | 743 | 2 |
 | 2023-05-19 | 833 | 2 |
 | 2023-05-20 | 984 | 2 |
-| 2023-05-21 | 1,088 | 2 |
+| 2023-05-21 | 1,091 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -19,8 +19,8 @@
 | The Familiar | 14.00% | ~4 |
 | The Steed | 14.00% | ~4 |
 | The Bodyguard | 10.00% | ~3 |
+| Braving Miasma | 10.00% | ~3 |
 | Ancient Nemesis | 10.00% | ~3 |
-| Braving Miasma | 7.00% | ~2 |
 | Best Pupil | 7.00% | ~2 |
 | Oracle Mastery | 7.00% | ~2 |
 | FOR JUSTICE! | 7.00% | ~2 |
