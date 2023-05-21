@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 307,
+  "EOS_Progressed": 308,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -101,6 +101,11 @@
       "Time": "2023-05-21T06:02:11.7166779+00:00",
       "NumProgressed": 307,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-21T10:01:38.1300819+00:00",
+      "NumProgressed": 308,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -110,15 +115,15 @@
       "ID": "AIRTIME_6_SEC",
       "SetID": "20koof9",
       "Name": "Brace for impact!",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 105
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
       "SetID": "20koof9",
       "Name": "Crashed and Driven",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -150,9 +155,9 @@
       "ID": "COLLECT_1_CAR",
       "SetID": "20koof9",
       "Name": "Baby\u0027s First Car",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 99
     },
     {
       "ID": "COLLECT_20_CARS",
@@ -200,7 +205,7 @@
       "Name": "Drift King!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "FIND_40_M2H",
@@ -264,7 +269,7 @@
       "Name": "Amateur Mechanic",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "HIGHEST_ASTEROID",
@@ -296,7 +301,7 @@
       "Name": "Pushover",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "HIT_ALIEN",
@@ -376,7 +381,7 @@
       "Name": "A Forest Walk",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "LOADED_LVL_SNOW",
@@ -392,7 +397,7 @@
       "Name": "Feeling Hot Hot Hot!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "MAX_MULTIPLIER",
@@ -424,7 +429,7 @@
       "Name": "Feeling Dizzy?",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "STUNT_EVENT",
@@ -448,15 +453,15 @@
       "Name": "Hoarder",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "USE_FERRY",
       "SetID": "20koof9",
       "Name": "Ferry Good!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 59
     },
     {
       "ID": "USE_ROCKET",
@@ -512,15 +517,15 @@
       "Name": "Assert Dominance",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "WIN_RACE_AGAINST_3",
       "SetID": "20koof9",
       "Name": "Speed of light",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 59
     },
     {
       "ID": "WIN_ROBBER",
@@ -551,7 +556,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 307,
+      "Progressed": 308,
       "Completed": 2
     }
   ],
@@ -559,8 +564,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-05-21T09:02:12.4389962+00:00",
+  "LastChanged_Achievements": "2023-05-21T10:01:38.1300814+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:24.363984+00:00",
-  "LastUpdate_Ratings": "2023-05-21T08:58:51.5299024+00:00",
-  "LastUpdate_Achievements": "2023-05-21T09:02:12.4390357+00:00"
+  "LastUpdate_Ratings": "2023-05-21T09:58:50.2666555+00:00",
+  "LastUpdate_Achievements": "2023-05-21T10:01:38.1301601+00:00"
 }

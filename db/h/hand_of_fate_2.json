@@ -838,7 +838,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 656519,
+  "EOS_Progressed": 656522,
   "EOS_Completed": 165,
   "EOS_NewPlayers": 398,
   "EOS_NewCompleters": 0,
@@ -3478,6 +3478,11 @@
       "Time": "2023-05-21T09:05:57.4043968+00:00",
       "NumProgressed": 656519,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-05-21T10:05:45.6851329+00:00",
+      "NumProgressed": 656522,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -3489,7 +3494,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 472694
+      "UsersEstimate": 472696
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -3497,7 +3502,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 380781
+      "UsersEstimate": 380783
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -3505,7 +3510,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 150999
+      "UsersEstimate": 151000
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -3561,7 +3566,7 @@
       "Name": "Long Shot",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 45956
+      "UsersEstimate": 45957
     },
     {
       "ID": "Achievement_11_Grifter",
@@ -3625,7 +3630,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 150999
+      "UsersEstimate": 151000
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -3641,7 +3646,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 111608
+      "UsersEstimate": 111609
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -3721,7 +3726,7 @@
       "Name": "Devil Dice",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 45956
+      "UsersEstimate": 45957
     },
     {
       "ID": "Achievement_31_Master_of_Arms",
@@ -3729,7 +3734,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 78782
+      "UsersEstimate": 78783
     },
     {
       "ID": "Achievement_32_Karma",
@@ -3872,15 +3877,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 656519,
+      "Progressed": 656522,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-05-18T14:57:37.1411686+00:00",
-  "LastChanged_Achievements": "2023-05-21T09:05:57.4043966+00:00",
+  "LastChanged_Achievements": "2023-05-21T10:05:45.6851324+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:07.1745323+00:00",
-  "LastUpdate_Ratings": "2023-05-21T08:57:32.5658054+00:00",
-  "LastUpdate_Achievements": "2023-05-21T09:05:57.4044425+00:00"
+  "LastUpdate_Ratings": "2023-05-21T09:57:38.7714292+00:00",
+  "LastUpdate_Achievements": "2023-05-21T10:05:45.6851888+00:00"
 }

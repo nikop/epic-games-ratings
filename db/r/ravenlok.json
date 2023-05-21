@@ -1689,9 +1689,9 @@
       "ID": "33",
       "SetID": "d0g98p",
       "Name": "Awakened Spirits",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 361
+      "UsersEstimate": 369
     },
     {
       "ID": "34",
@@ -1890,8 +1890,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-21T09:05:50.2669005+00:00",
+  "LastChanged_Achievements": "2023-05-21T10:05:39.5059264+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:59.9943101+00:00",
-  "LastUpdate_Ratings": "2023-05-21T08:57:22.2736403+00:00",
-  "LastUpdate_Achievements": "2023-05-21T09:05:50.266969+00:00"
+  "LastUpdate_Ratings": "2023-05-21T09:57:29.2987772+00:00",
+  "LastUpdate_Achievements": "2023-05-21T10:05:39.5059783+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 29,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 217,
+  "EOS_Progressed": 218,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 216,
+  "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 5.07,
+  "EOS_Completed_Percentage": 5.05,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -336,6 +336,11 @@
       "Time": "2023-05-21T09:01:10.6393196+00:00",
       "NumProgressed": 217,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-21T10:00:59.6839183+00:00",
+      "NumProgressed": 218,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 30,
@@ -347,15 +352,15 @@
       "Name": "A fresh start",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "LEVEL_002",
       "SetID": "212bg48",
       "Name": "Promising crop",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 174
     },
     {
       "ID": "LEVEL_003",
@@ -363,7 +368,7 @@
       "Name": "A horse in the country",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "LEVEL_004",
@@ -371,7 +376,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "LEVEL_005",
@@ -379,23 +384,23 @@
       "Name": "Small village",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "LEVEL_006",
       "SetID": "212bg48",
       "Name": "Nothing like fresh food",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 85
     },
     {
       "ID": "LEVEL_007",
       "SetID": "212bg48",
       "Name": "Animals in the farm",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 74
     },
     {
       "ID": "LEVEL_008",
@@ -403,7 +408,7 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "LEVEL_009",
@@ -419,7 +424,7 @@
       "Name": "Rocks around the island",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "LEVEL_011",
@@ -457,9 +462,9 @@
       "ID": "LEVEL_015",
       "SetID": "212bg48",
       "Name": "Flatland",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "LEVEL_016",
@@ -586,14 +591,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 217,
+      "Progressed": 218,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-21T09:01:10.6392986+00:00",
+  "LastChanged_Achievements": "2023-05-21T10:00:59.6838928+00:00",
   "LastUpdate_AppInfo": "2023-05-15T11:57:23.4437098+00:00",
-  "LastUpdate_Ratings": "2023-05-21T08:56:55.8410871+00:00",
-  "LastUpdate_Achievements": "2023-05-21T09:01:10.6401497+00:00"
+  "LastUpdate_Ratings": "2023-05-21T09:57:03.0761428+00:00",
+  "LastUpdate_Achievements": "2023-05-21T10:00:59.6849897+00:00"
 }

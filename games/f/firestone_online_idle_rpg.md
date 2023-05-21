@@ -5,20 +5,20 @@ Rating: 3.75 (Ranked 918)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,052 |
-| World Map | 80.00% | ~895 |
-| Temple of Eternals | 56.00% | ~627 |
-| Prestigious | 52.00% | ~582 |
+| Victor | 94.00% | ~1,054 |
+| World Map | 80.00% | ~897 |
+| Temple of Eternals | 56.00% | ~628 |
+| Prestigious | 52.00% | ~583 |
 | Fellowship Power | 40.00% | ~448 |
 | Guild Power | 24.00% | ~269 |
 | Prestigious x10 | 20.00% | ~224 |
-| The game is on | 18.00% | ~201 |
+| The game is on | 18.00% | ~202 |
 | Dragon Clicker | 16.00% | ~179 |
 | Exotic Merchant | 16.00% | ~179 |
 | Miner Clicker | 15.00% | ~168 |
 | Inspection | 14.00% | ~157 |
-| Full Party | 13.00% | ~145 |
-| Hero inspection | 13.00% | ~145 |
+| Full Party | 13.00% | ~146 |
+| Hero inspection | 13.00% | ~146 |
 | Dragon Master | 11.00% | ~123 |
 | Enlightenment | 10.00% | ~112 |
 | Lieutenant | 10.00% | ~112 |
@@ -53,10 +53,10 @@ Rating: 3.75 (Ranked 918)
 | What lies behind the bush | 2.00% | ~22 |
 | Blueprint Upgrades | 1.00% | ~11 |
 | Lock And Load | 1.00% | ~11 |
+| Sailor | 1.00% | ~11 |
 | Active Member | 0.90% | ~10 |
 | Enchanting skill | 0.90% | ~10 |
 | Four Leaf Clover | 0.90% | ~10 |
-| Sailor | 0.90% | ~10 |
 | Crystal Mining | 0.80% | ~9 |
 | The Alchemist | 0.80% | ~9 |
 | Ebony Jungle Liberator | 0.60% | ~7 |
@@ -81,7 +81,7 @@ Rating: 3.75 (Ranked 918)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,119 (Ranked 160)  
+Progressed: 1,121 (Ranked 160)  
 Completed: 1 (0.09%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 1 (0.09%) (Ranked 163)
 | 2023-05-18 | 1,076 | 1 |
 | 2023-05-19 | 1,090 | 1 |
 | 2023-05-20 | 1,114 | 1 |
-| 2023-05-21 | 1,119 | 1 |
+| 2023-05-21 | 1,121 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

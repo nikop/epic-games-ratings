@@ -1,18 +1,18 @@
 # Despot's Game
 [Store](https://store.epicgames.com/en-US/p/despots-game-f61a0a)  
 [View Rawdata](../../db/d/despot's_game.json)  
-Rating: 4.50 (Ranked 536)  
+Rating: 4.50 (Ranked 535)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 82.00% | ~299 |
-| Vanquisher of Robots | 73.00% | ~266 |
-| Party | 45.00% | ~164 |
+| Good start! | 81.00% | ~296 |
+| Vanquisher of Robots | 72.00% | ~264 |
+| Party | 45.00% | ~165 |
 | Knowledge is Power | 44.00% | ~161 |
-| Impossible Cube | 42.00% | ~153 |
+| Impossible Cube | 42.00% | ~154 |
 | No Mercy | 41.00% | ~150 |
-| The Return of a Rat | 39.00% | ~142 |
-| Through the Darkness | 39.00% | ~142 |
+| The Return of a Rat | 39.00% | ~143 |
+| Through the Darkness | 39.00% | ~143 |
 | Fat of the Earth | 32.00% | ~117 |
 | Last Man Standing | 31.00% | ~113 |
 | Catch Jonathan_tostar | 26.00% | ~95 |
@@ -22,13 +22,13 @@ Rating: 4.50 (Ranked 536)
 | Great Hero | 24.00% | ~88 |
 | Rookie | 23.00% | ~84 |
 | Frugal | 20.00% | ~73 |
-| Feed a God | 19.00% | ~69 |
-| To the Moon and Back | 19.00% | ~69 |
+| Feed a God | 19.00% | ~70 |
+| To the Moon and Back | 19.00% | ~70 |
 | Great Flight | 17.00% | ~62 |
 | Holy Vengeance | 14.00% | ~51 |
-| Strength and Sorcery | 10.00% | ~36 |
-| Brain and Brawn | 10.00% | ~36 |
-| Honorary Cultist | 10.00% | ~36 |
+| Strength and Sorcery | 10.00% | ~37 |
+| Brain and Brawn | 10.00% | ~37 |
+| Honorary Cultist | 10.00% | ~37 |
 | Omae Wa Mou Shindeiru | 8.00% | ~29 |
 | Experimentalist | 5.00% | ~18 |
 | Wide Selection | 5.00% | ~18 |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 536)
 | Vet | 0.80% | ~3 |
 | Real Achiever | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 365 (Ranked 200)  
+Progressed: 366 (Ranked 200)  
 Completed: 1 (0.27%) (Ranked 130)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -53,7 +53,7 @@ Completed: 1 (0.27%) (Ranked 130)
 | 2023-05-14 | 355 | 1 |
 | 2023-05-19 | 360 | 1 |
 | 2023-05-20 | 362 | 1 |
-| 2023-05-21 | 365 | 1 |
+| 2023-05-21 | 366 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,22 +5,22 @@ Rating: 4.41 (Ranked 658)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 8.00% | ~82 |
-| Confirming Suspicions | 5.00% | ~51 |
+| Meeting Resistance | 8.00% | ~83 |
+| Confirming Suspicions | 5.00% | ~52 |
 | Enemy at the Gates | 3.00% | ~31 |
+| Explosive Efficiency | 2.00% | ~21 |
 | Lord of War | 2.00% | ~21 |
 | Resourceful | 2.00% | ~21 |
 | The Kraken Wakes | 2.00% | ~21 |
+| It's Starting to Crack | 2.00% | ~21 |
+| Opposing Force | 1.00% | ~10 |
 | Just a Flesh Wound | 1.00% | ~10 |
 | Organ Grinder | 1.00% | ~10 |
-| Explosive Efficiency | 1.00% | ~10 |
 | Die Nussknacker Sweet! | 1.00% | ~10 |
 | As Quiet as a Mouse | 1.00% | ~10 |
-| It's Starting to Crack | 1.00% | ~10 |
 | Change the Channel | 1.00% | ~10 |
 | Target America | 1.00% | ~10 |
 | The Kraken Sleeps | 1.00% | ~10 |
-| Opposing Force | 0.90% | ~9 |
 | Close Quarters | 0.90% | ~9 |
 | Liberté | 0.80% | ~8 |
 | The Long Game | 0.80% | ~8 |
@@ -30,8 +30,8 @@ Rating: 4.41 (Ranked 658)
 | Gunslinger | 0.60% | ~6 |
 | Skirmisher | 0.60% | ~6 |
 | Sharpshooter | 0.60% | ~6 |
+| Der Geist | 0.60% | ~6 |
 | Climbing the Ladder | 0.50% | ~5 |
-| Der Geist | 0.50% | ~5 |
 | Brains of the Operation | 0.50% | ~5 |
 | Strategist | 0.40% | ~4 |
 | Set Europe Ablaze | 0.40% | ~4 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 658)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,029 (Ranked 165)  
+Progressed: 1,036 (Ranked 163)  
 Completed: 2 (0.19%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 2 (0.19%) (Ranked 143)
 | 2023-05-18 | 743 | 2 |
 | 2023-05-19 | 833 | 2 |
 | 2023-05-20 | 984 | 2 |
-| 2023-05-21 | 1,029 | 2 |
+| 2023-05-21 | 1,036 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

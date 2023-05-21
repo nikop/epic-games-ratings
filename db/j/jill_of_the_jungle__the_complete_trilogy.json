@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 20,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2023-04-26T15:00:00+00:00",
     "PcReleaseDate": "1992-07-01T12:44:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 766,
-  "EOS_Completed": 59,
-  "EOS_NewPlayers": 115,
-  "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 7.7,
+  "EOS_Progressed": 768,
+  "EOS_Completed": 60,
+  "EOS_NewPlayers": 116,
+  "EOS_NewCompleters": 12,
+  "EOS_Completed_Percentage": 7.81,
   "EosHistory": [
     {
       "Time": "2023-04-26T15:59:54.0238725+00:00",
@@ -1884,6 +1884,11 @@
       "Time": "2023-05-21T09:05:46.5029783+00:00",
       "NumProgressed": 766,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-05-21T10:05:35.8225466+00:00",
+      "NumProgressed": 768,
+      "NumCompleted": 60
     }
   ],
   "TotalAchievements": 5,
@@ -1895,7 +1900,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 766
+      "UsersEstimate": 768
     },
     {
       "ID": "2",
@@ -1934,16 +1939,16 @@
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 766,
-      "Completed": 59
+      "Progressed": 768,
+      "Completed": 60
     }
   ],
   "FirstSeen": "2023-04-27T14:58:11.4259359+00:00",
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-05-21T09:05:46.5029779+00:00",
+  "LastChanged_Achievements": "2023-05-21T10:05:35.8225462+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:03.1024393+00:00",
-  "LastUpdate_Ratings": "2023-05-21T08:57:06.1367483+00:00",
-  "LastUpdate_Achievements": "2023-05-21T09:05:46.5029922+00:00"
+  "LastUpdate_Ratings": "2023-05-21T09:57:12.5420375+00:00",
+  "LastUpdate_Achievements": "2023-05-21T10:05:35.8225646+00:00"
 }

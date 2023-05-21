@@ -200,9 +200,9 @@
       "ID": "Ach_BossSlug",
       "SetID": "4o5gjp0",
       "Name": "\u0022Swoosh\u0022",
-      "Percentage": 61,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Ach_BossSlugMk2",
@@ -224,9 +224,9 @@
       "ID": "Ach_BuyHut",
       "SetID": "4o5gjp0",
       "Name": "Pigeon",
-      "Percentage": 81,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Ach_CallBeggarNothingToSell",
@@ -248,9 +248,9 @@
       "ID": "Ach_DeathXTime",
       "SetID": "4o5gjp0",
       "Name": "Masochistic",
-      "Percentage": 48,
+      "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Ach_DiscoveryCatacombes",
@@ -264,9 +264,9 @@
       "ID": "Ach_DiscoveryCaverns",
       "SetID": "4o5gjp0",
       "Name": "The light at the end of the tunnel",
-      "Percentage": 61,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Ach_DiscoveryCelestialIsland",
@@ -320,9 +320,9 @@
       "ID": "Ach_EnnemyDeathByEnnemy",
       "SetID": "4o5gjp0",
       "Name": "Baited",
-      "Percentage": 71,
+      "Percentage": 74,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Ach_FinalBossHand",
@@ -368,9 +368,9 @@
       "ID": "Ach_LavaDeath",
       "SetID": "4o5gjp0",
       "Name": "Splash!",
-      "Percentage": 65,
+      "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Ach_OptionalDialogRead",
@@ -439,8 +439,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-05-21T09:05:51.6934995+00:00",
+  "LastChanged_Achievements": "2023-05-21T10:05:40.8049054+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.0525193+00:00",
-  "LastUpdate_Ratings": "2023-05-21T08:57:55.4980156+00:00",
-  "LastUpdate_Achievements": "2023-05-21T09:05:51.6935229+00:00"
+  "LastUpdate_Ratings": "2023-05-21T09:57:58.6937418+00:00",
+  "LastUpdate_Achievements": "2023-05-21T10:05:40.8049313+00:00"
 }

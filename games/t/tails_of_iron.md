@@ -1,32 +1,32 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.50 (Ranked 536)  
+Rating: 4.50 (Ranked 535)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Complete Guard Faction | 76.00% | ~1,075 |
 | Become King | 70.00% | ~990 |
-| Ranged Weapon | 59.00% | ~834 |
-| Defeat 25 Frogs | 59.00% | ~834 |
+| Ranged Weapon | 59.00% | ~835 |
+| Defeat 25 Frogs | 59.00% | ~835 |
 | Collect Monster Parts | 55.00% | ~778 |
 | Two Handed Weapon | 54.00% | ~764 |
-| Defeat 25 Grubs | 50.00% | ~707 |
+| Defeat 25 Grubs | 50.00% | ~708 |
 | Rescue Redgi's Brothers | 49.00% | ~693 |
-| Collect Iron Ore | 45.00% | ~636 |
-| Kitchen Ready To Cook | 44.00% | ~622 |
+| Collect Iron Ore | 45.00% | ~637 |
+| Kitchen Ready To Cook | 44.00% | ~623 |
 | Collect Gold | 43.00% | ~608 |
 | Defeat 25 Mozis | 43.00% | ~608 |
 | Smithy Ready to Craft | 43.00% | ~608 |
 | Fix the Travellers Wagon | 41.00% | ~580 |
-| Complete Elder Faction | 38.00% | ~537 |
+| Complete Elder Faction | 38.00% | ~538 |
 | End of the Mozis | 35.00% | ~495 |
 | Throne Room Fit For A King | 35.00% | ~495 |
 | Meet the Creatures from the Deep | 33.00% | ~467 |
 | Return Power To The Depths | 33.00% | ~467 |
 | Defeat Ratnor Rodentson | 27.00% | ~382 |
-| Return the Statues | 24.00% | ~339 |
-| Defeat Rattus Augustail | 24.00% | ~339 |
+| Return the Statues | 24.00% | ~340 |
+| Defeat Rattus Augustail | 24.00% | ~340 |
 | Complete the Chefs Book | 23.00% | ~325 |
 | Complete Ranger Faction | 20.00% | ~283 |
 | Defeat Avor Warden of the Northern Wastes | 19.00% | ~269 |
@@ -36,7 +36,7 @@ Rating: 4.50 (Ranked 536)
 | King of Kings | 7.00% | ~99 |
 | A new Warchief rises | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,414 (Ranked 155)  
+Progressed: 1,415 (Ranked 155)  
 Completed: 6 (0.42%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,7 +61,7 @@ Completed: 6 (0.42%) (Ranked 111)
 | 2023-05-18 | 1,382 | 6 |
 | 2023-05-19 | 1,394 | 6 |
 | 2023-05-20 | 1,403 | 6 |
-| 2023-05-21 | 1,414 | 6 |
+| 2023-05-21 | 1,415 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

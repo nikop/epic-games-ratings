@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brace for impact! | 35.00% | ~107 |
-| Baby's First Car | 33.00% | ~101 |
-| Amateur Mechanic | 32.00% | ~98 |
-| Pushover | 32.00% | ~98 |
-| A Forest Walk | 32.00% | ~98 |
+| Brace for impact! | 34.00% | ~105 |
+| Baby's First Car | 32.00% | ~99 |
+| Amateur Mechanic | 32.00% | ~99 |
+| Pushover | 32.00% | ~99 |
+| A Forest Walk | 32.00% | ~99 |
 | Multiply that! | 31.00% | ~95 |
 | C-C-C-Combo! | 30.00% | ~92 |
 | Fore! | 27.00% | ~83 |
@@ -30,12 +30,12 @@
 | Car-Tapult | 23.00% | ~71 |
 | Your Highness | 23.00% | ~71 |
 | Event Amateur | 22.00% | ~68 |
-| Feeling Dizzy? | 21.00% | ~64 |
-| Drift King! | 20.00% | ~61 |
-| Feeling Hot Hot Hot! | 20.00% | ~61 |
-| Ferry Good! | 20.00% | ~61 |
-| Speed of light | 20.00% | ~61 |
-| Assert Dominance | 19.00% | ~58 |
+| Feeling Dizzy? | 21.00% | ~65 |
+| Drift King! | 20.00% | ~62 |
+| Feeling Hot Hot Hot! | 20.00% | ~62 |
+| Ferry Good! | 19.00% | ~59 |
+| Assert Dominance | 19.00% | ~59 |
+| Speed of light | 19.00% | ~59 |
 | Special Forces | 16.00% | ~49 |
 | Out of this League | 16.00% | ~49 |
 | Toot Toot! | 14.00% | ~43 |
@@ -46,7 +46,7 @@
 | Event Pro | 10.00% | ~31 |
 | Space Crash | 8.00% | ~25 |
 | To war! | 8.00% | ~25 |
-| Hoarder | 7.00% | ~21 |
+| Hoarder | 7.00% | ~22 |
 | Event Master | 6.00% | ~18 |
 | A Starting Collector | 5.00% | ~15 |
 | 433 Eros | 5.00% | ~15 |
@@ -58,9 +58,9 @@
 | Monkey Madness | 2.00% | ~6 |
 | Ultimate Car Collector | 1.00% | ~3 |
 | Master Mechanic | 1.00% | ~3 |
-| Crashed and Driven | 0.70% | ~2 |
+| Crashed and Driven | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 307 (Ranked 210)  
+Progressed: 308 (Ranked 210)  
 Completed: 2 (0.65%) (Ranked 102)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 2 (0.65%) (Ranked 102)
 | 2023-05-18 | 304 | 2 |
 | 2023-05-19 | 305 | 2 |
 | 2023-05-20 | 306 | 2 |
-| 2023-05-21 | 307 | 2 |
+| 2023-05-21 | 308 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

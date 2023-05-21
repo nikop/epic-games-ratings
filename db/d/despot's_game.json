@@ -2,12 +2,12 @@
   "ID": "7a0f0e0bef6a45249e9d476d08bc9739",
   "Name": "Despot\u0027s Game",
   "ProductSlug": "despots-game-f61a0a",
-  "Ranking_Rating": 536,
+  "Ranking_Rating": 535,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 365,
+  "EOS_Progressed": 366,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -115,6 +115,11 @@
       "Time": "2023-05-21T07:06:01.0404276+00:00",
       "NumProgressed": 365,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-21T10:05:59.6228271+00:00",
+      "NumProgressed": 366,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -126,7 +131,7 @@
       "Name": "Strength and Sorcery",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "assemble-team2",
@@ -134,7 +139,7 @@
       "Name": "Brain and Brawn",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "assemble-team3",
@@ -182,7 +187,7 @@
       "Name": "Party",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "different-items2",
@@ -206,7 +211,7 @@
       "Name": "Impossible Cube",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "finished-quest-flight",
@@ -230,7 +235,7 @@
       "Name": "Feed a God",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "finished-quest-pit",
@@ -246,7 +251,7 @@
       "Name": "The Return of a Rat",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "finished-quest-reaper",
@@ -270,7 +275,7 @@
       "Name": "To the Moon and Back",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "finished-quest-sword",
@@ -340,17 +345,17 @@
       "ID": "win-first-biom",
       "SetID": "799afm0",
       "Name": "Vanquisher of Robots",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 264
     },
     {
       "ID": "win-first-level",
       "SetID": "799afm0",
       "Name": "Good start!",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 299
+      "UsersEstimate": 296
     },
     {
       "ID": "win-koth-fights1",
@@ -382,7 +387,7 @@
       "Name": "Through the Darkness",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "win-with-3-cultists",
@@ -390,7 +395,7 @@
       "Name": "Honorary Cultist",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "win-with-mrakus",
@@ -405,7 +410,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 365,
+      "Progressed": 366,
       "Completed": 1
     }
   ],
@@ -413,8 +418,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-05-21T09:06:12.3927927+00:00",
+  "LastChanged_Achievements": "2023-05-21T10:05:59.6228267+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:20.0092319+00:00",
-  "LastUpdate_Ratings": "2023-05-21T08:58:46.0641755+00:00",
-  "LastUpdate_Achievements": "2023-05-21T09:06:12.3928152+00:00"
+  "LastUpdate_Ratings": "2023-05-21T09:58:45.460648+00:00",
+  "LastUpdate_Achievements": "2023-05-21T10:05:59.6228567+00:00"
 }

@@ -14,12 +14,12 @@
 | Your Days Are Numbered | 30.00% | ~3 |
 | It's In My Nature | 30.00% | ~3 |
 | Ads Fan | 10.00% | ~1 |
+| Best Student | 10.00% | ~1 |
 | Chapter 6 | 10.00% | ~1 |
 | Highway Survival | 10.00% | ~1 |
 | Hard To Wake Up | 10.00% | ~1 |
 | Bear Cop | 0.00% | ~0 |
 | Master of Mattresses | 0.00% | ~0 |
-| Best Student | 0.00% | ~0 |
 | Chipmunk | 0.00% | ~0 |
 | Food Thief | 0.00% | ~0 |
 | Secret Locker | 0.00% | ~0 |

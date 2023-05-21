@@ -410,9 +410,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 13115,
+  "EOS_Progressed": 13119,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 552,
+  "EOS_NewPlayers": 556,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1045,6 +1045,11 @@
       "Time": "2023-05-21T09:01:29.7890107+00:00",
       "NumProgressed": 13115,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-21T10:01:17.7301324+00:00",
+      "NumProgressed": 13119,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 40,
@@ -1072,7 +1077,7 @@
       "Name": "Giving Back",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -1086,9 +1091,9 @@
       "ID": "DISARM_ENEMY",
       "SetID": "4hj6d86",
       "Name": "Flesh Wound",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 393
+      "UsersEstimate": 525
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -1184,7 +1189,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "KILL_ROBOT",
@@ -1238,9 +1243,9 @@
       "ID": "SHARE_PHOTO",
       "SetID": "4hj6d86",
       "Name": "Mugshot",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 118
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -1334,9 +1339,9 @@
       "ID": "FINISH_WAVE_50",
       "SetID": "6j5ggkc",
       "Name": "Big Game Hunter",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 21
+      "UsersEstimate": 31
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -1350,9 +1355,9 @@
       "ID": "NOSPEND_2ROUNDS",
       "SetID": "6j5ggkc",
       "Name": "Hoard Mode",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "RIOT_10_POWERUPS",
@@ -1375,13 +1380,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13115,
+      "Progressed": 13119,
       "Completed": 51
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1041,
+      "Progressed": 1045,
       "Completed": 29
     }
   ],
@@ -1389,8 +1394,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-16T17:57:38.030273+00:00",
-  "LastChanged_Achievements": "2023-05-21T09:01:29.7890102+00:00",
+  "LastChanged_Achievements": "2023-05-21T10:01:17.7301318+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-21T08:57:48.902523+00:00",
-  "LastUpdate_Achievements": "2023-05-21T09:01:29.7890379+00:00"
+  "LastUpdate_Ratings": "2023-05-21T09:57:52.9425802+00:00",
+  "LastUpdate_Achievements": "2023-05-21T10:01:17.7301723+00:00"
 }

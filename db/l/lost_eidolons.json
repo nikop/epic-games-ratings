@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 869,
+  "EOS_Progressed": 870,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -288,6 +288,11 @@
       "Time": "2023-05-21T06:06:20.0983806+00:00",
       "NumProgressed": 869,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T10:06:05.4413019+00:00",
+      "NumProgressed": 870,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -331,7 +336,7 @@
       "Name": "The First Step",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "06",
@@ -339,7 +344,7 @@
       "Name": "First Blood",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "07",
@@ -435,7 +440,7 @@
       "Name": "Earning Trust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "19",
@@ -482,7 +487,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 869,
+      "Progressed": 870,
       "Completed": 0
     }
   ],
@@ -490,8 +495,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-05-21T09:06:18.5822138+00:00",
+  "LastChanged_Achievements": "2023-05-21T10:06:05.4413015+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:05:01.1887177+00:00",
-  "LastUpdate_Ratings": "2023-05-21T09:00:02.0959027+00:00",
-  "LastUpdate_Achievements": "2023-05-21T09:06:18.5822277+00:00"
+  "LastUpdate_Ratings": "2023-05-21T09:59:54.5474904+00:00",
+  "LastUpdate_Achievements": "2023-05-21T10:06:05.4413199+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "nioh-the-complete-edition",
   "Ranking_Rating": 437,
   "Ranking_Popularity": 42,
-  "Ranking_PopularitySum": 55,
+  "Ranking_PopularitySum": 56,
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 305,
@@ -4400,10 +4400,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 17665,
       "NumberOfAwardsMax": 7330
+    },
+    {
+      "Time": "2023-05-21T10:00:51.6223132+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 17013,
+      "NumberOfAwardsMax": 7330
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 17665,
+  "NumberOfAwards": 17013,
   "NumberOfAwardsMax": 7330,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4479,8 +4485,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:37.2904323+00:00",
-  "LastChanged": "2023-05-21T07:00:41.5131066+00:00",
+  "LastChanged": "2023-05-21T10:00:51.622313+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:53.6445729+00:00",
-  "LastUpdate_Ratings": "2023-05-21T09:01:02.7056321+00:00",
-  "LastUpdate_Achievements": "2023-05-21T09:05:36.4321327+00:00"
+  "LastUpdate_Ratings": "2023-05-21T10:00:51.6223141+00:00",
+  "LastUpdate_Achievements": "2023-05-21T10:05:26.650072+00:00"
 }

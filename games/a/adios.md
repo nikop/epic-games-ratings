@@ -5,33 +5,33 @@ Rating: 3.41 (Ranked 923)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 21.00% | ~11,993 |
-| Master, Commander | 20.00% | ~11,422 |
-| Hard Worker | 19.00% | ~10,851 |
-| Mechanic | 18.00% | ~10,280 |
-| Adios, Friendo | 17.00% | ~9,709 |
-| Bottom's Up | 17.00% | ~9,709 |
-| Nice Try | 16.00% | ~9,137 |
-| Right On Target | 13.00% | ~7,424 |
-| Piano Man | 10.00% | ~5,711 |
-| Lazy Bones | 9.00% | ~5,140 |
+| Be Seeing You | 21.00% | ~11,995 |
+| Master, Commander | 20.00% | ~11,424 |
+| Hard Worker | 19.00% | ~10,853 |
+| Mechanic | 18.00% | ~10,282 |
+| Adios, Friendo | 17.00% | ~9,710 |
+| Bottom's Up | 17.00% | ~9,710 |
+| Nice Try | 16.00% | ~9,139 |
+| Right On Target | 13.00% | ~7,426 |
+| Piano Man | 10.00% | ~5,712 |
+| Lazy Bones | 9.00% | ~5,141 |
 | Vinyl Vibes | 7.00% | ~3,998 |
 | Nothing Left to Say | 6.00% | ~3,427 |
 | Sniper | 6.00% | ~3,427 |
-| Cut Call | 5.00% | ~2,855 |
-| Butcher | 4.00% | ~2,284 |
-| Magnetic Miracles | 4.00% | ~2,284 |
-| Spicy | 4.00% | ~2,284 |
-| A Man Of Taste | 3.00% | ~1,713 |
-| Fair's Fair | 3.00% | ~1,713 |
-| Hearty | 3.00% | ~1,713 |
-| Meaty | 3.00% | ~1,713 |
-| Taco Toto | 3.00% | ~1,713 |
+| Cut Call | 5.00% | ~2,856 |
+| Butcher | 4.00% | ~2,285 |
+| Magnetic Miracles | 4.00% | ~2,285 |
+| Spicy | 4.00% | ~2,285 |
+| A Man Of Taste | 3.00% | ~1,714 |
+| Fair's Fair | 3.00% | ~1,714 |
+| Hearty | 3.00% | ~1,714 |
+| Meaty | 3.00% | ~1,714 |
+| Taco Toto | 3.00% | ~1,714 |
 | Ace in the Hole | 2.00% | ~1,142 |
 | Audiophile | 2.00% | ~1,142 |
 | Tape Head | 1.00% | ~571 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,109 (Ranked 71)  
+Progressed: 57,120 (Ranked 71)  
 Completed: 464 (0.81%) (Ranked 94)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,7 +62,7 @@ Completed: 464 (0.81%) (Ranked 94)
 | 2023-05-18 | 56,595 | 458 |
 | 2023-05-19 | 56,795 | 459 |
 | 2023-05-20 | 57,029 | 462 |
-| 2023-05-21 | 57,109 | 464 |
+| 2023-05-21 | 57,120 | 464 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

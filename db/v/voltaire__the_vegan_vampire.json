@@ -4,7 +4,7 @@
   "ProductSlug": "voltaire-e1c517",
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-02-27T17:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78,
+  "EOS_Progressed": 79,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -62,6 +62,11 @@
     {
       "Time": "2023-05-20T04:05:46.3795066+00:00",
       "NumProgressed": 78,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T10:05:44.4093605+00:00",
+      "NumProgressed": 79,
       "NumCompleted": 0
     }
   ],
@@ -104,7 +109,7 @@
       "ID": "FIRST_HARVEST",
       "SetID": "3c20ib3",
       "Name": "Good to grow",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 5,
       "UsersEstimate": 49
     },
@@ -112,7 +117,7 @@
       "ID": "FISH",
       "SetID": "3c20ib3",
       "Name": "C\u0027who?",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 100,
       "UsersEstimate": 9
     },
@@ -136,7 +141,7 @@
       "ID": "GLOWBUG",
       "SetID": "3c20ib3",
       "Name": "Shine bright",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -146,7 +151,7 @@
       "Name": "So it begins",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "HUNTING",
@@ -224,7 +229,7 @@
       "ID": "KILL_SKULLY",
       "SetID": "3c20ib3",
       "Name": "Night Shift",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 20
     },
@@ -321,7 +326,7 @@
     {
       "ID": "3c20ib3",
       "IsBase": true,
-      "Progressed": 78,
+      "Progressed": 79,
       "Completed": 0
     }
   ],
@@ -329,8 +334,8 @@
   "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.0090692+00:00",
   "LastChanged": "2023-03-31T05:58:46.11228+00:00",
-  "LastChanged_Achievements": "2023-05-21T09:05:55.6094981+00:00",
+  "LastChanged_Achievements": "2023-05-21T10:05:44.4093586+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:00.1482004+00:00",
-  "LastUpdate_Ratings": "2023-05-21T08:57:22.8790407+00:00",
-  "LastUpdate_Achievements": "2023-05-21T09:05:55.6095158+00:00"
+  "LastUpdate_Ratings": "2023-05-21T09:57:29.9630805+00:00",
+  "LastUpdate_Achievements": "2023-05-21T10:05:44.409384+00:00"
 }

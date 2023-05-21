@@ -691,9 +691,9 @@
       "ID": "BistroSet",
       "SetID": "d1bm05f",
       "Name": "French Flair",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -972,8 +972,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-21T09:06:05.7282664+00:00",
+  "LastChanged_Achievements": "2023-05-21T10:05:53.2278564+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.318416+00:00",
-  "LastUpdate_Ratings": "2023-05-21T08:58:28.1890851+00:00",
-  "LastUpdate_Achievements": "2023-05-21T09:06:05.7282953+00:00"
+  "LastUpdate_Ratings": "2023-05-21T09:58:28.2478433+00:00",
+  "LastUpdate_Achievements": "2023-05-21T10:05:53.227889+00:00"
 }

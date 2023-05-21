@@ -4,7 +4,7 @@
   "ProductSlug": "battle-ram-d001fd",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-04-30T00:00:00+00:00",
@@ -146,9 +146,9 @@
       "ID": "ach_2",
       "SetID": "392n4e7",
       "Name": "Ram Corporal",
-      "Percentage": 50,
+      "Percentage": 83,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_20",
@@ -178,17 +178,17 @@
       "ID": "ach_3",
       "SetID": "392n4e7",
       "Name": "Ram Sergeant",
-      "Percentage": 17,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_4",
       "SetID": "392n4e7",
       "Name": "Ram Staff Sergeant",
-      "Percentage": 0,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_5",
@@ -240,8 +240,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:08.6528344+00:00",
-  "LastChanged_Achievements": "2023-05-21T09:05:47.8687992+00:00",
+  "LastChanged_Achievements": "2023-05-21T10:05:37.1433872+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:38.6881308+00:00",
-  "LastUpdate_Ratings": "2023-05-21T08:58:03.4767766+00:00",
-  "LastUpdate_Achievements": "2023-05-21T09:05:47.8688322+00:00"
+  "LastUpdate_Ratings": "2023-05-21T09:58:06.1593075+00:00",
+  "LastUpdate_Achievements": "2023-05-21T10:05:37.1434059+00:00"
 }

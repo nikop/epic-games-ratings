@@ -4140,9 +4140,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 704205,
+  "EOS_Progressed": 704231,
   "EOS_Completed": 12732,
-  "EOS_NewPlayers": 1305,
+  "EOS_NewPlayers": 1330,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -6585,6 +6585,11 @@
       "Time": "2023-05-21T09:06:19.5634911+00:00",
       "NumProgressed": 704205,
       "NumCompleted": 12732
+    },
+    {
+      "Time": "2023-05-21T10:06:06.2426398+00:00",
+      "NumProgressed": 704231,
+      "NumCompleted": 12732
     }
   ],
   "TotalAchievements": 50,
@@ -6596,7 +6601,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 4929
+      "UsersEstimate": 4930
     },
     {
       "ID": "02_Vengeance_H1",
@@ -6636,7 +6641,7 @@
       "Name": "Furious Fists",
       "Percentage": 0.7,
       "XP": 75,
-      "UsersEstimate": 4929
+      "UsersEstimate": 4930
     },
     {
       "ID": "07_Wude_H1",
@@ -6700,7 +6705,7 @@
       "Name": "Kill Nil",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 4929
+      "UsersEstimate": 4930
     },
     {
       "ID": "15_Detective_H1",
@@ -6764,7 +6769,7 @@
       "Name": "Street Fighting",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 4929
+      "UsersEstimate": 4930
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -6804,7 +6809,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4929
+      "UsersEstimate": 4930
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -6860,7 +6865,7 @@
       "Name": "Lightning Hands",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4929
+      "UsersEstimate": 4930
     },
     {
       "ID": "35_WideStrike",
@@ -6908,7 +6913,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4929
+      "UsersEstimate": 4930
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -6932,7 +6937,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -6940,7 +6945,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -6995,21 +7000,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 13506,
+      "Progressed": 13532,
       "Completed": 10138
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 704205,
+      "Progressed": 704231,
       "Completed": 12732
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-21T02:05:11.0148373+00:00",
-  "LastChanged_Achievements": "2023-05-21T09:06:19.5634908+00:00",
+  "LastChanged_Achievements": "2023-05-21T10:06:06.2426394+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.7579865+00:00",
-  "LastUpdate_Ratings": "2023-05-21T08:59:08.5039191+00:00",
-  "LastUpdate_Achievements": "2023-05-21T09:06:19.5635351+00:00"
+  "LastUpdate_Ratings": "2023-05-21T09:59:07.5057407+00:00",
+  "LastUpdate_Achievements": "2023-05-21T10:06:06.2426984+00:00"
 }
