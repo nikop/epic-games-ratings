@@ -7,7 +7,7 @@
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 21.21% |
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.55% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 8 | [Island Cities](games/i/island_cities.md) | 16.10% |
+| 8 | [Island Cities](games/i/island_cities.md) | 15.97% |
 | 9 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 13.04% |
 | 10 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
 | 11 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.05% |
@@ -33,9 +33,9 @@
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 32 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.55% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.46% |
-| 34 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 3.96% |
-| 35 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.93% |
-| 36 | [Doodle God](games/d/doodle_god.md) | 3.90% |
+| 34 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.93% |
+| 35 | [Doodle God](games/d/doodle_god.md) | 3.90% |
+| 35 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 3.90% |
 | 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
 | 38 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 39 | [The Complex](games/t/the_complex.md) | 3.52% |
@@ -51,7 +51,7 @@
 | 49 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.90% |
 | 50 | [Destiny 2](games/d/destiny_2.md) | 2.89% |
 | 51 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
-| 52 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.86% |
+| 52 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.82% |
 | 53 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 54 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.60% |
 | 54 | [FORECLOSED](games/f/foreclosed.md) | 2.60% |
@@ -79,9 +79,9 @@
 | 76 | [Trifox](games/t/trifox.md) | 1.28% |
 | 78 | [Chorus](games/c/chorus.md) | 1.27% |
 | 79 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.24% |
-| 80 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.22% |
-| 81 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.20% |
-| 81 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.20% |
+| 80 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.20% |
+| 80 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.20% |
+| 80 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.20% |
 | 83 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.15% |
 | 84 | [Late Shift](games/l/late_shift.md) | 1.14% |
 | 85 | [Ten Dates](games/t/ten_dates.md) | 1.00% |
