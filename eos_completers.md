@@ -18,16 +18,16 @@
 | 16 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.18% |
 | 18 | [Time Loader](games/t/time_loader.md) | 8.08% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.87% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.86% |
 | 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.71% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
 | 21 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.69% |
 | 23 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 7.14% |
 | 24 | [Scorn](games/s/scorn.md) | 6.99% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 6.28% |
+| 26 | [Ravenlok](games/r/ravenlok.md) | 6.27% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
-| 28 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.79% |
+| 28 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.76% |
 | 29 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.97% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.94% |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
@@ -75,8 +75,8 @@
 | 73 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.49% |
 | 74 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.46% |
 | 75 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.31% |
-| 76 | [Trifox](games/t/trifox.md) | 1.28% |
-| 77 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.27% |
+| 76 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.27% |
+| 76 | [Trifox](games/t/trifox.md) | 1.27% |
 | 78 | [Chorus](games/c/chorus.md) | 1.26% |
 | 79 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.24% |
 | 80 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.20% |
@@ -84,7 +84,7 @@
 | 82 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.19% |
 | 83 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.15% |
 | 84 | [Late Shift](games/l/late_shift.md) | 1.14% |
-| 85 | [Ten Dates](games/t/ten_dates.md) | 1.00% |
+| 85 | [Ten Dates](games/t/ten_dates.md) | 0.99% |
 | 86 | [Sable](games/s/sable.md) | 0.94% |
 | 87 | [Dungeons 3](games/d/dungeons_3.md) | 0.90% |
 | 87 | [Hades](games/h/hades.md) | 0.90% |
@@ -106,9 +106,9 @@
 | 104 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.60% |
 | 105 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.51% |
 | 105 | [Grindstone](games/g/grindstone.md) | 0.51% |
-| 107 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
-| 107 | [Ghostrunner](games/g/ghostrunner.md) | 0.48% |
-| 107 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.48% |
+| 107 | [Ghostrunner](games/g/ghostrunner.md) | 0.50% |
+| 108 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
+| 108 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.48% |
 | 110 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 111 | [Tails of Iron](games/t/tails_of_iron.md) | 0.43% |
 | 112 | [Potion Permit](games/p/potion_permit.md) | 0.40% |

@@ -161,5 +161,3 @@
 | [Homestead Arcana](games/h/homestead_arcana.md) | 2023-04-21 | 2023-04-21 |
 | [Dead Island 2](games/d/dead_island_2.md) | 2023-04-21 | 2023-04-21 |
 | [The Hong Kong Massacre](games/t/the_hong_kong_massacre.md) | 2023-04-21 | 2019-01-22 |
-| [Grief Trigger](games/g/grief_trigger.md) | 2023-04-21 | 2023-04-21 |
-| [Koropokkur in Love ~A Little Fairy’s Tale~](games/k/koropokkur_in_love_~a_little_fairy’s_tale~.md) | 2023-04-21 | 2018-09-27 |
