@@ -42,7 +42,7 @@
 | 40 | [Supraland](games/s/supraland.md) | 7,611 | 4.61 | 358 |
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,554 | 4.85 | 39 |
 | 42 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,330 | 4.57 | 437 |
-| 43 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,183 | 4.71 | 177 |
+| 43 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,185 | 4.71 | 177 |
 | 44 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 7,148 | 4.58 | 416 |
 | 45 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 7,026 | 4.89 | 13 |
 | 46 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 6,892 | 4.47 | 584 |
@@ -51,7 +51,7 @@
 | 49 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,561 | 4.74 | 141 |
 | 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,307 | 4.71 | 177 |
 | 51 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,274 | 4.80 | 77 |
-| 52 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,095 | 4.58 | 416 |
+| 52 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,101 | 4.58 | 416 |
 | 53 | [Sifu](games/s/sifu.md) | 6,078 | 4.82 | 62 |
 | 54 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,926 | 4.64 | 313 |
 | 55 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,846 | 4.79 | 89 |
@@ -73,7 +73,7 @@
 | 71 | [Chivalry 2](games/c/chivalry_2.md) | 4,110 | 4.61 | 358 |
 | 72 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,089 | 4.51 | 519 |
 | 73 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 3,997 | 4.77 | 104 |
-| 74 | [God of War](games/g/god_of_war.md) | 3,993 | 4.88 | 19 |
+| 74 | [God of War](games/g/god_of_war.md) | 3,996 | 4.88 | 19 |
 | 75 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 3,904 | 4.56 | 448 |
 | 76 | [SMITE](games/s/smite.md) | 3,792 | 4.45 | 609 |
 | 77 | [Days Gone](games/d/days_gone.md) | 3,760 | 4.69 | 214 |
@@ -90,7 +90,7 @@
 | 88 | [Hades](games/h/hades.md) | 3,056 | 4.92 | 3 |
 | 89 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,840 | 4.77 | 104 |
 | 90 | [Trackmania](games/t/trackmania.md) | 2,635 | 4.67 | 258 |
-| 91 | [Path of Exile](games/p/path_of_exile.md) | 2,493 | 4.61 | 358 |
+| 91 | [Path of Exile](games/p/path_of_exile.md) | 2,494 | 4.61 | 358 |
 | 92 | [RAGE 2](games/r/rage_2.md) | 2,449 | 4.28 | 772 |
 | 93 | [Among Us](games/a/among_us.md) | 2,425 | 4.58 | 416 |
 | 94 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,362 | 4.80 | 77 |
@@ -192,7 +192,7 @@
 | 190 | [Riders Republic](games/r/riders_republic.md) | 449 | 4.75 | 131 |
 | 191 | [Surviving Mars](games/s/surviving_mars.md) | 444 | 4.60 | 384 |
 | 192 | [Football Manager 2023](games/f/football_manager_2023.md) | 435 | 4.76 | 117 |
-| 193 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 428 | 4.66 | 274 |
+| 193 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 430 | 4.66 | 274 |
 | 194 | [Prison Architect](games/p/prison_architect.md) | 418 | 4.61 | 358 |
 | 194 | [Second Extinction™](games/s/second_extinction™.md) | 418 | 4.04 | 880 |
 | 196 | [Against the Storm](games/a/against_the_storm.md) | 417 | 4.81 | 71 |
@@ -294,10 +294,10 @@
 | 292 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 135 | 4.56 | 448 |
 | 293 | [Realm Royale Reforged](games/r/realm_royale_reforged.md) | 132 | 4.29 | 766 |
 | 293 | [while True: learn()](games/w/while_true__learn().md) | 132 | 4.51 | 519 |
-| 295 | [Atomicrops](games/a/atomicrops.md) | 130 | 4.88 | 19 |
-| 296 | [Alien: Isolation](games/a/alien__isolation.md) | 128 | 4.61 | 358 |
-| 296 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 128 | 4.79 | 89 |
-| 296 | [Star Stable Online](games/s/star_stable_online.md) | 128 | 4.41 | 658 |
+| 295 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 131 | 4.79 | 89 |
+| 296 | [Atomicrops](games/a/atomicrops.md) | 130 | 4.88 | 19 |
+| 297 | [Alien: Isolation](games/a/alien__isolation.md) | 128 | 4.61 | 358 |
+| 297 | [Star Stable Online](games/s/star_stable_online.md) | 128 | 4.41 | 658 |
 | 299 | [Encased](games/e/encased.md) | 126 | 4.35 | 719 |
 | 300 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 125 | 4.28 | 772 |
 | 301 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 123 | 4.20 | 813 |
@@ -381,7 +381,7 @@
 | 378 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 60 | 4.63 | 329 |
 | 380 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.44 | 628 |
 | 381 | [Heavy Rain](games/h/heavy_rain.md) | 57 | 4.59 | 401 |
-| 382 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 53 | 3.77 | 915 |
+| 382 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 54 | 3.76 | 917 |
 | 383 | [Obduction](games/o/obduction.md) | 52 | 4.10 | 860 |
 | 384 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 51 | 4.83 | 56 |
 | 384 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 51 | 4.35 | 719 |
