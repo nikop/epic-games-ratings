@@ -6,9 +6,9 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 57.00% | ~168 |
+| The Adventure Begins | 58.00% | ~171 |
 | Cartographer | 51.00% | ~150 |
-| A Strange Artefact | 46.00% | ~136 |
+| A Strange Artefact | 47.00% | ~139 |
 | Insomnia | 43.00% | ~127 |
 | From Whence we Came | 38.00% | ~112 |
 | Lost & Found & Lost Again | 37.00% | ~109 |

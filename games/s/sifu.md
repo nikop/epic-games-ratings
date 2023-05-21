@@ -6,9 +6,9 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~541 |
-| Project Arena | 3.00% | ~406 |
-| Bloody Sport | 1.00% | ~135 |
+| Diligence as a goal | 4.00% | ~542 |
+| Project Arena | 3.00% | ~407 |
+| Bloody Sport | 1.00% | ~136 |
 | The Hateful Pole Fighter | 0.90% | ~6,338 |
 | Qi Gong: Breath | 0.90% | ~6,338 |
 | The best strikes are the ones we avoid | 0.90% | ~122 |
@@ -26,10 +26,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Essence | 0.70% | ~4,930 |
 | Lightning Hands | 0.70% | ~4,930 |
 | Take damage to save time | 0.70% | ~4,930 |
-| Scareless | 0.60% | ~4,225 |
-| Stuntmaster | 0.60% | ~4,225 |
-| Old Child | 0.60% | ~4,225 |
-| Kung-Fu Tussle | 0.60% | ~4,225 |
+| Scareless | 0.60% | ~4,226 |
+| Stuntmaster | 0.60% | ~4,226 |
+| Old Child | 0.60% | ~4,226 |
+| Kung-Fu Tussle | 0.60% | ~4,226 |
 | Deadly Venom | 0.60% | ~81 |
 | Dance of the Praying Mantis | 0.50% | ~3,521 |
 | Qi Gong: Mind | 0.50% | ~3,521 |
@@ -46,18 +46,18 @@ Number of Ratings: 9,492  (23.09.2022)
 | Sword Stained With Blood | 0.30% | ~2,113 |
 | Martial Hub | 0.30% | ~41 |
 | Secure, Protect, Leave | 0.30% | ~41 |
-| Drunken Fighter | 0.20% | ~1,408 |
-| Martial Artist | 0.20% | ~1,408 |
-| Knowledge Greed | 0.20% | ~1,408 |
-| Healing Memory | 0.20% | ~1,408 |
-| Master of the Phoenix Eye Fist | 0.20% | ~1,408 |
-| The Pit Protector | 0.20% | ~1,408 |
-| Be like water my friend | 0.20% | ~1,408 |
-| Come Snap With Me | 0.20% | ~1,408 |
+| Drunken Fighter | 0.20% | ~1,409 |
+| Martial Artist | 0.20% | ~1,409 |
+| Knowledge Greed | 0.20% | ~1,409 |
+| Healing Memory | 0.20% | ~1,409 |
+| Master of the Phoenix Eye Fist | 0.20% | ~1,409 |
+| The Pit Protector | 0.20% | ~1,409 |
+| Be like water my friend | 0.20% | ~1,409 |
+| Come Snap With Me | 0.20% | ~1,409 |
 | Ferocity, speed, strength, accuracy | 0.10% | ~704 |
 | Warriors from the Mountain | 0.10% | ~704 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,231 (Ranked 15)  
+Progressed: 704,256 (Ranked 15)  
 Completed: 12,732 (1.81%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 12,732 (1.81%) (Ranked 65)
 | 2023-05-18 | 703,070 | 12,731 |
 | 2023-05-19 | 703,575 | 12,731 |
 | 2023-05-20 | 704,036 | 12,732 |
-| 2023-05-21 | 704,231 | 12,732 |
+| 2023-05-21 | 704,256 | 12,732 |
 ## Awards
 Max (Great Boss Battles): 6,078  (Ranked 53)  
 Sum: 10,344 (Ranked 77)  

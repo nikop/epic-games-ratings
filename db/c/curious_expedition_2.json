@@ -234,9 +234,9 @@
       "ID": "ach-campaign-story1",
       "SetID": "17ih7ma",
       "Name": "A Strange Artefact",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 139
     },
     {
       "ID": "ach-campaign-story2",
@@ -322,9 +322,9 @@
       "ID": "ach-firstExpedition",
       "SetID": "17ih7ma",
       "Name": "The Adventure Begins",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 171
     },
     {
       "ID": "ach-hardExpeditions",
@@ -587,8 +587,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-03-31T05:57:33.8410127+00:00",
-  "LastChanged_Achievements": "2023-05-21T10:06:19.505818+00:00",
+  "LastChanged_Achievements": "2023-05-21T11:06:09.4128292+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:15:00.3054339+00:00",
-  "LastUpdate_Ratings": "2023-05-21T10:00:52.2783472+00:00",
-  "LastUpdate_Achievements": "2023-05-21T10:06:19.5058659+00:00"
+  "LastUpdate_Ratings": "2023-05-21T11:00:41.9332696+00:00",
+  "LastUpdate_Achievements": "2023-05-21T11:06:09.4128869+00:00"
 }

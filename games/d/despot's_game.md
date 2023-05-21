@@ -5,8 +5,8 @@ Rating: 4.50 (Ranked 535)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 81.00% | ~296 |
-| Vanquisher of Robots | 72.00% | ~264 |
+| Good start! | 82.00% | ~300 |
+| Vanquisher of Robots | 73.00% | ~267 |
 | Party | 45.00% | ~165 |
 | Knowledge is Power | 44.00% | ~161 |
 | Impossible Cube | 42.00% | ~154 |

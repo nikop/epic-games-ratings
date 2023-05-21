@@ -5,29 +5,29 @@ Rating: 4.50 (Ranked 535)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 76.00% | ~1,075 |
-| Become King | 70.00% | ~990 |
+| Complete Guard Faction | 76.00% | ~1,076 |
+| Become King | 70.00% | ~991 |
 | Ranged Weapon | 59.00% | ~835 |
 | Defeat 25 Frogs | 59.00% | ~835 |
-| Collect Monster Parts | 55.00% | ~778 |
-| Two Handed Weapon | 54.00% | ~764 |
+| Collect Monster Parts | 55.00% | ~779 |
+| Two Handed Weapon | 54.00% | ~765 |
 | Defeat 25 Grubs | 50.00% | ~708 |
-| Rescue Redgi's Brothers | 49.00% | ~693 |
+| Rescue Redgi's Brothers | 49.00% | ~694 |
 | Collect Iron Ore | 45.00% | ~637 |
 | Kitchen Ready To Cook | 44.00% | ~623 |
-| Collect Gold | 43.00% | ~608 |
-| Defeat 25 Mozis | 43.00% | ~608 |
-| Smithy Ready to Craft | 43.00% | ~608 |
-| Fix the Travellers Wagon | 41.00% | ~580 |
+| Collect Gold | 43.00% | ~609 |
+| Defeat 25 Mozis | 43.00% | ~609 |
+| Smithy Ready to Craft | 43.00% | ~609 |
+| Fix the Travellers Wagon | 41.00% | ~581 |
 | Complete Elder Faction | 38.00% | ~538 |
-| End of the Mozis | 35.00% | ~495 |
-| Throne Room Fit For A King | 35.00% | ~495 |
+| End of the Mozis | 35.00% | ~496 |
+| Throne Room Fit For A King | 35.00% | ~496 |
 | Meet the Creatures from the Deep | 33.00% | ~467 |
 | Return Power To The Depths | 33.00% | ~467 |
 | Defeat Ratnor Rodentson | 27.00% | ~382 |
 | Return the Statues | 24.00% | ~340 |
 | Defeat Rattus Augustail | 24.00% | ~340 |
-| Complete the Chefs Book | 23.00% | ~325 |
+| Complete the Chefs Book | 23.00% | ~326 |
 | Complete Ranger Faction | 20.00% | ~283 |
 | Defeat Avor Warden of the Northern Wastes | 19.00% | ~269 |
 | Discover the mystery of the Kings Chambers | 18.00% | ~255 |
@@ -36,7 +36,7 @@ Rating: 4.50 (Ranked 535)
 | King of Kings | 7.00% | ~99 |
 | A new Warchief rises | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,415 (Ranked 155)  
+Progressed: 1,416 (Ranked 155)  
 Completed: 6 (0.42%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,7 +61,7 @@ Completed: 6 (0.42%) (Ranked 111)
 | 2023-05-18 | 1,382 | 6 |
 | 2023-05-19 | 1,394 | 6 |
 | 2023-05-20 | 1,403 | 6 |
-| 2023-05-21 | 1,415 | 6 |
+| 2023-05-21 | 1,416 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 161,
+  "EOS_Progressed": 162,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.24,
+  "EOS_Completed_Percentage": 1.23,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:57.7196507+00:00",
@@ -56,6 +56,11 @@
     {
       "Time": "2023-05-20T21:01:12.0917297+00:00",
       "NumProgressed": 161,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-21T11:00:59.3322878+00:00",
+      "NumProgressed": 162,
       "NumCompleted": 2
     }
   ],
@@ -108,7 +113,7 @@
       "Name": "Hashtag Winning",
       "Percentage": 35,
       "XP": 90,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "heavy_rayne",
@@ -116,7 +121,7 @@
       "Name": "Heavy Rayne",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "highlander",
@@ -148,7 +153,7 @@
       "Name": "Patient Listener",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "play_it_again_sam",
@@ -156,7 +161,7 @@
       "Name": "Play It Again Sam",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "play_me_by_the_hour",
@@ -180,7 +185,7 @@
       "Name": "Put A Ring On It",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "show_me_some_skin",
@@ -220,7 +225,7 @@
       "Name": "Voyeur",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "you_had_one_job",
@@ -235,7 +240,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 161,
+      "Progressed": 162,
       "Completed": 2
     }
   ],
@@ -243,8 +248,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-05-21T10:01:08.2784621+00:00",
+  "LastChanged_Achievements": "2023-05-21T11:00:59.3322873+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:20.2992909+00:00",
-  "LastUpdate_Ratings": "2023-05-21T09:58:45.9360863+00:00",
-  "LastUpdate_Achievements": "2023-05-21T10:01:08.2784842+00:00"
+  "LastUpdate_Ratings": "2023-05-21T10:58:45.9110975+00:00",
+  "LastUpdate_Achievements": "2023-05-21T11:00:59.3323066+00:00"
 }

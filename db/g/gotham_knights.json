@@ -1154,9 +1154,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61492,
+  "EOS_Progressed": 61498,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 634,
+  "EOS_NewPlayers": 640,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3169,6 +3169,11 @@
       "Time": "2023-05-21T10:06:18.3834442+00:00",
       "NumProgressed": 61492,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-21T11:06:08.2631276+00:00",
+      "NumProgressed": 61498,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3338,9 +3343,9 @@
       "ID": "CRIME_FIGHTER_2",
       "SetID": "4eo5ebm",
       "Name": "Not On My Watch",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 184
+      "UsersEstimate": 246
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -3667,13 +3672,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61492,
+      "Progressed": 61498,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31772,
+      "Progressed": 31778,
       "Completed": 2640
     }
   ],
@@ -3681,8 +3686,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-20T13:59:13.9457948+00:00",
-  "LastChanged_Achievements": "2023-05-21T10:06:18.3834438+00:00",
+  "LastChanged_Achievements": "2023-05-21T11:06:08.2631271+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-21T09:59:56.0956468+00:00",
-  "LastUpdate_Achievements": "2023-05-21T10:06:18.3835179+00:00"
+  "LastUpdate_Ratings": "2023-05-21T10:59:49.4125324+00:00",
+  "LastUpdate_Achievements": "2023-05-21T11:06:08.2631974+00:00"
 }

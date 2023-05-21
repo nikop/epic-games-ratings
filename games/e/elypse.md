@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A path of no return | 103.00% | ~32 |
-| Pigeon | 84.00% | ~26 |
-| A bottomless pit | 84.00% | ~26 |
-| Baited | 74.00% | ~23 |
-| Splash! | 68.00% | ~21 |
-| "Swoosh" | 65.00% | ~20 |
-| The light at the end of the tunnel | 65.00% | ~20 |
-| Masochistic | 52.00% | ~16 |
-| Soft skin | 45.00% | ~14 |
-| Sensitive soul | 42.00% | ~13 |
-| Squid game | 26.00% | ~8 |
-| Hard Rock | 26.00% | ~8 |
-| Rock Solid | 19.00% | ~6 |
+| A path of no return | 103.00% | ~33 |
+| Pigeon | 84.00% | ~27 |
+| A bottomless pit | 84.00% | ~27 |
+| Baited | 72.00% | ~23 |
+| Splash! | 66.00% | ~21 |
+| "Swoosh" | 63.00% | ~20 |
+| The light at the end of the tunnel | 63.00% | ~20 |
+| Masochistic | 50.00% | ~16 |
+| Soft skin | 47.00% | ~15 |
+| Sensitive soul | 41.00% | ~13 |
+| Squid game | 28.00% | ~9 |
+| Hard Rock | 25.00% | ~8 |
+| Rock Solid | 22.00% | ~7 |
 | The beast within | 19.00% | ~6 |
 | It's getting dark | 19.00% | ~6 |
 | Rooftop | 16.00% | ~5 |
@@ -25,10 +25,10 @@
 | Big badaboom! | 13.00% | ~4 |
 | Bookworm | 13.00% | ~4 |
 | Payback | 13.00% | ~4 |
-| Full power | 10.00% | ~3 |
-| "Ah sh*t... Here we go again!" | 10.00% | ~3 |
-| Compulsive hoarder | 10.00% | ~3 |
-| Magnitude 5 | 10.00% | ~3 |
+| Full power | 9.00% | ~3 |
+| "Ah sh*t... Here we go again!" | 9.00% | ~3 |
+| Compulsive hoarder | 9.00% | ~3 |
+| Magnitude 5 | 9.00% | ~3 |
 | MayDay! MayDay! | 6.00% | ~2 |
 | GG EZ | 3.00% | ~1 |
 | Comeback | 3.00% | ~1 |
@@ -39,7 +39,7 @@
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31 (Ranked 300)  
+Progressed: 32 (Ranked 298)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -48,4 +48,4 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-18 | 10 | 0 |
 | 2023-05-19 | 22 | 0 |
 | 2023-05-20 | 30 | 0 |
-| 2023-05-21 | 31 | 0 |
+| 2023-05-21 | 32 | 0 |

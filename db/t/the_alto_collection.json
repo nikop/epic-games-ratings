@@ -655,9 +655,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 22190,
+  "EOS_Progressed": 22199,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1120,
+  "EOS_NewPlayers": 1123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3635,6 +3635,11 @@
       "Time": "2023-05-21T10:05:55.3467664+00:00",
       "NumProgressed": 22190,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-21T11:05:44.6287439+00:00",
+      "NumProgressed": 22199,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 39,
@@ -3670,7 +3675,7 @@
       "Name": "Scout",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2219
+      "UsersEstimate": 2220
     },
     {
       "ID": "distance500000",
@@ -3686,7 +3691,7 @@
       "Name": "Rookie",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5326
+      "UsersEstimate": 5328
     },
     {
       "ID": "goals180",
@@ -3700,9 +3705,9 @@
       "ID": "goals25",
       "SetID": "2lgngib",
       "Name": "Amateur",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1775
+      "UsersEstimate": 1998
     },
     {
       "ID": "goals75",
@@ -3726,7 +3731,7 @@
       "Name": "Aviator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "journeyer",
@@ -3766,7 +3771,7 @@
       "Name": "Nomad",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4216
+      "UsersEstimate": 4218
     },
     {
       "ID": "novice",
@@ -3774,7 +3779,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3772
+      "UsersEstimate": 3774
     },
     {
       "ID": "playerFelipe",
@@ -3798,7 +3803,7 @@
       "Name": "Unlock Maya",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1553
+      "UsersEstimate": 1554
     },
     {
       "ID": "playerPaz",
@@ -3838,7 +3843,7 @@
       "Name": "One With The Board",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "proximityFly1000",
@@ -3854,7 +3859,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 5991
+      "UsersEstimate": 5994
     },
     {
       "ID": "sandboarder",
@@ -3870,7 +3875,7 @@
       "Name": "Sightseer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2663
+      "UsersEstimate": 2664
     },
     {
       "ID": "ultimate",
@@ -3910,7 +3915,7 @@
       "Name": "Welcome Maya",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3550
+      "UsersEstimate": 3552
     },
     {
       "ID": "unlockpaz",
@@ -3918,7 +3923,7 @@
       "Name": "Enter Paz",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1997
+      "UsersEstimate": 1998
     },
     {
       "ID": "vandal",
@@ -3934,7 +3939,7 @@
       "Name": "Voyager",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "wanderer",
@@ -3942,7 +3947,7 @@
       "Name": "Wanderer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1997
+      "UsersEstimate": 1998
     },
     {
       "ID": "windswept",
@@ -3957,15 +3962,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 22190,
+      "Progressed": 22199,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-05-21T02:05:22.6886845+00:00",
-  "LastChanged_Achievements": "2023-05-21T10:05:55.346766+00:00",
+  "LastChanged_Achievements": "2023-05-21T11:05:44.628743+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:34.6693979+00:00",
-  "LastUpdate_Ratings": "2023-05-21T09:59:24.3651863+00:00",
-  "LastUpdate_Achievements": "2023-05-21T10:05:55.3468148+00:00"
+  "LastUpdate_Ratings": "2023-05-21T10:59:20.8883812+00:00",
+  "LastUpdate_Achievements": "2023-05-21T11:05:44.6287931+00:00"
 }

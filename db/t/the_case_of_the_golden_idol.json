@@ -184,9 +184,9 @@
       "ID": "3",
       "SetID": "acl54ke",
       "Name": "Solved fourth case",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "4",
@@ -208,9 +208,9 @@
       "ID": "6",
       "SetID": "acl54ke",
       "Name": "Solved seventh case",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "7",
@@ -255,8 +255,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-05-21T10:01:23.3673024+00:00",
+  "LastChanged_Achievements": "2023-05-21T11:01:13.8565203+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:22.8180475+00:00",
-  "LastUpdate_Ratings": "2023-05-21T09:58:47.6599633+00:00",
-  "LastUpdate_Achievements": "2023-05-21T10:01:23.3673136+00:00"
+  "LastUpdate_Ratings": "2023-05-21T10:58:47.5173476+00:00",
+  "LastUpdate_Achievements": "2023-05-21T11:01:13.8565321+00:00"
 }

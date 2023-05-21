@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 115,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -140,9 +140,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5912,
+  "EOS_Progressed": 5915,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1855,6 +1855,11 @@
       "Time": "2023-05-21T08:05:18.5804918+00:00",
       "NumProgressed": 5912,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-21T11:05:28.0560663+00:00",
+      "NumProgressed": 5915,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 21,
@@ -1890,7 +1895,7 @@
       "Name": "Body and Soul",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -1938,7 +1943,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -1946,7 +1951,7 @@
       "Name": "Happy Camper",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "HISTORIAN",
@@ -1970,7 +1975,7 @@
       "Name": "In a Pinch",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1123
+      "UsersEstimate": 1124
     },
     {
       "ID": "LIBERATOR",
@@ -1978,7 +1983,7 @@
       "Name": "Liberator",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "LIVE_WIRE",
@@ -1986,7 +1991,7 @@
       "Name": "Live Wire",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "SHREDDER",
@@ -2018,7 +2023,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "THING",
@@ -2033,7 +2038,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5912,
+      "Progressed": 5915,
       "Completed": 22
     }
   ],
@@ -2041,8 +2046,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-16T16:57:54.2243616+00:00",
-  "LastChanged_Achievements": "2023-05-21T10:05:38.4116536+00:00",
+  "LastChanged_Achievements": "2023-05-21T11:05:28.0560659+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.822955+00:00",
-  "LastUpdate_Ratings": "2023-05-21T09:57:59.671896+00:00",
-  "LastUpdate_Achievements": "2023-05-21T10:05:38.4116803+00:00"
+  "LastUpdate_Ratings": "2023-05-21T10:58:01.5990561+00:00",
+  "LastUpdate_Achievements": "2023-05-21T11:05:28.056091+00:00"
 }

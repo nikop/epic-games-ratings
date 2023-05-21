@@ -6,25 +6,25 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Scrap Gatherer | 57.00% | ~105 |
+| Scrap Gatherer | 58.00% | ~107 |
 | My New Home | 57.00% | ~105 |
-| Mushroom Picker | 55.00% | ~101 |
-| Scrapper | 48.00% | ~88 |
+| Mushroom Picker | 56.00% | ~103 |
+| Scrapper | 49.00% | ~90 |
 | Cook | 41.00% | ~75 |
-| Scrap Master | 37.00% | ~68 |
+| Scrap Master | 38.00% | ~70 |
 | Teleport | 36.00% | ~66 |
 | Smelter | 34.00% | ~63 |
 | Digger | 33.00% | ~61 |
 | Electro-Scrap Gatherer | 32.00% | ~59 |
-| Robot Destroyer | 29.00% | ~53 |
+| Robot Destroyer | 30.00% | ~55 |
 | Survivor | 29.00% | ~53 |
 | Herbalist | 27.00% | ~50 |
+| Lumberjack | 24.00% | ~44 |
 | Electro-Scrap Master | 23.00% | ~42 |
-| Lumberjack | 23.00% | ~42 |
 | Prepper | 23.00% | ~42 |
-| Robot Hunter | 19.00% | ~35 |
+| Robot Hunter | 20.00% | ~37 |
 | Advanced Survivalist | 18.00% | ~33 |
-| Master Of Technology | 15.00% | ~28 |
+| Master Of Technology | 16.00% | ~29 |
 | Treasure Hunter | 15.00% | ~28 |
 | Blacksmith | 10.00% | ~18 |
 | Mythical Smelter | 10.00% | ~18 |

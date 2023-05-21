@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -176,9 +176,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1036,
+  "EOS_Progressed": 1044,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 321,
+  "EOS_NewPlayers": 329,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -886,6 +886,11 @@
       "Time": "2023-05-21T10:05:47.3585823+00:00",
       "NumProgressed": 1036,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-21T11:05:37.0862013+00:00",
+      "NumProgressed": 1044,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -977,7 +982,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1143,9 +1148,9 @@
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
       "SetID": "bm6el81",
       "Name": "The Kraken Wakes",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 31
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -1464,13 +1469,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 987,
+      "Progressed": 995,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1036,
+      "Progressed": 1044,
       "Completed": 2
     }
   ],
@@ -1478,8 +1483,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-18T16:01:31.1520338+00:00",
-  "LastChanged_Achievements": "2023-05-21T10:05:47.3585819+00:00",
+  "LastChanged_Achievements": "2023-05-21T11:05:37.0862008+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-21T10:00:46.0178221+00:00",
-  "LastUpdate_Achievements": "2023-05-21T10:05:47.3586543+00:00"
+  "LastUpdate_Ratings": "2023-05-21T11:00:37.0559355+00:00",
+  "LastUpdate_Achievements": "2023-05-21T11:05:37.0862734+00:00"
 }

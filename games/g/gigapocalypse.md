@@ -19,11 +19,11 @@
 | Chomp Chomp! | 41.00% | ~48 |
 | Glorious Battle | 39.00% | ~46 |
 | Diaper Time! | 38.00% | ~45 |
+| Supreme Power | 37.00% | ~44 |
 | The Duelist | 36.00% | ~42 |
 | Mutant And Proud | 36.00% | ~42 |
-| Supreme Power | 36.00% | ~42 |
+| Meat Larder | 36.00% | ~42 |
 | Target Practice | 36.00% | ~42 |
-| Meat Larder | 35.00% | ~41 |
 | Happy Little Home | 29.00% | ~34 |
 | The Emperor's New Clothes | 28.00% | ~33 |
 | Final Evolution | 28.00% | ~33 |

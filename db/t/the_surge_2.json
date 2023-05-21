@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -225,9 +225,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1577,
+  "EOS_Progressed": 1578,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -435,6 +435,11 @@
       "Time": "2023-05-21T05:05:55.8072845+00:00",
       "NumProgressed": 1577,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-21T11:06:09.9578931+00:00",
+      "NumProgressed": 1578,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -500,9 +505,9 @@
       "ID": "ACHV_08",
       "SetID": "8p5mlmc",
       "Name": "Mommy Dearest",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 205
     },
     {
       "ID": "ACHV_09",
@@ -518,7 +523,7 @@
       "Name": "Corrupted Beauty",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "ACHV_11",
@@ -622,7 +627,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "ACHV_24",
@@ -710,7 +715,7 @@
       "Name": "Shocking",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ACHV_35",
@@ -750,7 +755,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "ACHV_40",
@@ -766,7 +771,7 @@
       "Name": "Suited and Booted",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "ACHV_42",
@@ -806,7 +811,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ACHV_47",
@@ -901,7 +906,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1577,
+      "Progressed": 1578,
       "Completed": 10
     }
   ],
@@ -909,8 +914,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-05-21T10:06:20.0720211+00:00",
+  "LastChanged_Achievements": "2023-05-21T11:06:09.9578925+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:42.7008662+00:00",
-  "LastUpdate_Ratings": "2023-05-21T10:00:44.2978154+00:00",
-  "LastUpdate_Achievements": "2023-05-21T10:06:20.0720749+00:00"
+  "LastUpdate_Ratings": "2023-05-21T11:00:35.7300335+00:00",
+  "LastUpdate_Achievements": "2023-05-21T11:06:09.9579406+00:00"
 }

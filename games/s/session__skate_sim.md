@@ -10,8 +10,8 @@ Number of Ratings: 111  (23.09.2022)
 | Keeping it classy | 26.00% | ~523 |
 | Welcome to the family | 18.00% | ~362 |
 | The finer things in life | 17.00% | ~342 |
-| Backpacker | 12.00% | ~241 |
-| Go with the Flow | 12.00% | ~241 |
+| Backpacker | 12.00% | ~242 |
+| Go with the Flow | 12.00% | ~242 |
 | Plastic Surgeon | 9.00% | ~181 |
 | The flip trick crown jewel | 9.00% | ~181 |
 | Keep the dream alive | 8.00% | ~161 |
@@ -30,17 +30,17 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 5.00% | ~101 |
 | Squad goals | 5.00% | ~101 |
 | Sup widdit big dog! | 5.00% | ~101 |
-| Commence the Hijinx! | 4.00% | ~80 |
-| Cops called! | 4.00% | ~80 |
-| DIY Boss | 4.00% | ~80 |
-| G.O.A.T. status | 4.00% | ~80 |
-| Laid back | 4.00% | ~80 |
-| Lines for days | 4.00% | ~80 |
-| Manny Destroys All | 4.00% | ~80 |
-| Prince of Philly | 4.00% | ~80 |
-| Renaissance man | 4.00% | ~80 |
-| Tank commander | 4.00% | ~80 |
-| Trick shot marksman | 4.00% | ~80 |
+| Commence the Hijinx! | 4.00% | ~81 |
+| Cops called! | 4.00% | ~81 |
+| DIY Boss | 4.00% | ~81 |
+| G.O.A.T. status | 4.00% | ~81 |
+| Laid back | 4.00% | ~81 |
+| Lines for days | 4.00% | ~81 |
+| Manny Destroys All | 4.00% | ~81 |
+| Prince of Philly | 4.00% | ~81 |
+| Renaissance man | 4.00% | ~81 |
+| Tank commander | 4.00% | ~81 |
+| Trick shot marksman | 4.00% | ~81 |
 | Hoarder | 3.00% | ~60 |
 | We get it, you're good | 3.00% | ~60 |
 | Cross lock country | 2.00% | ~40 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,012 (Ranked 146)  
+Progressed: 2,013 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-18 | 1,968 | 0 |
 | 2023-05-19 | 1,992 | 0 |
 | 2023-05-20 | 2,009 | 0 |
-| 2023-05-21 | 2,012 | 0 |
+| 2023-05-21 | 2,013 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 392)  
 Sum: 414 (Ranked 300)  
