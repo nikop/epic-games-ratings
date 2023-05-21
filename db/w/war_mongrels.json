@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 269,
+  "EOS_Progressed": 270,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -440,6 +440,11 @@
       "Time": "2023-05-21T15:02:17.9533819+00:00",
       "NumProgressed": 269,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T16:00:41.7168865+00:00",
+      "NumProgressed": 270,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -563,7 +568,7 @@
       "Name": "Prospector",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -659,7 +664,7 @@
       "Name": "Collectibles of Chapter XI",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_COLL_CH12",
@@ -683,15 +688,15 @@
       "Name": "The Breaking Point",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACH_FIN_CH03",
       "SetID": "1j25agn",
       "Name": "The Motivation",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_FIN_CH04",
@@ -713,9 +718,9 @@
       "ID": "ACH_FIN_CH06",
       "SetID": "1j25agn",
       "Name": "Opportunities",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_FIN_CH07",
@@ -793,9 +798,9 @@
       "ID": "ACH_HIDE_BODIES",
       "SetID": "1j25agn",
       "Name": "Missing in Action",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 102
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_JOACHIM_FATE1",
@@ -819,7 +824,7 @@
       "Name": "Here Comes the Boom",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_KILL_DOOR",
@@ -835,7 +840,7 @@
       "Name": "NO LIFE IS WORTH SAVING...",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -922,15 +927,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 269,
+      "Progressed": 270,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-05-09T23:57:28.9754418+00:00",
-  "LastChanged_Achievements": "2023-05-21T15:02:17.9533814+00:00",
+  "LastChanged_Achievements": "2023-05-21T16:00:41.7168858+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:01.9016759+00:00",
-  "LastUpdate_Ratings": "2023-05-21T14:57:44.872532+00:00",
-  "LastUpdate_Achievements": "2023-05-21T15:02:17.9534461+00:00"
+  "LastUpdate_Ratings": "2023-05-21T15:57:31.6917376+00:00",
+  "LastUpdate_Achievements": "2023-05-21T16:00:41.7169416+00:00"
 }

@@ -161,9 +161,9 @@
       "ID": "Achievement17",
       "SetID": "jf6ho5",
       "Name": "Declawing",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 35,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Achievement18",
@@ -274,8 +274,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-05-21T15:06:26.9597418+00:00",
+  "LastChanged_Achievements": "2023-05-21T16:05:40.229311+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:08.2343317+00:00",
-  "LastUpdate_Ratings": "2023-05-21T15:00:39.1572654+00:00",
-  "LastUpdate_Achievements": "2023-05-21T15:06:26.9597603+00:00"
+  "LastUpdate_Ratings": "2023-05-21T15:59:43.8008696+00:00",
+  "LastUpdate_Achievements": "2023-05-21T16:05:40.2293278+00:00"
 }

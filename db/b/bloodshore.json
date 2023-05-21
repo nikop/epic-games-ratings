@@ -176,9 +176,9 @@
       "ID": "super_seducer",
       "SetID": "84ad177",
       "Name": "Super Seducer",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "superstar_crossed_lovers",
@@ -216,9 +216,9 @@
       "ID": "um_ok",
       "SetID": "84ad177",
       "Name": "Um, ok...",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "used_to_think_i_was_indecisive",
@@ -241,8 +241,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-05-21T15:06:22.3304914+00:00",
+  "LastChanged_Achievements": "2023-05-21T16:05:36.4182982+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:09:48.2887695+00:00",
-  "LastUpdate_Ratings": "2023-05-21T15:00:21.4874377+00:00",
-  "LastUpdate_Achievements": "2023-05-21T15:06:22.3305056+00:00"
+  "LastUpdate_Ratings": "2023-05-21T15:59:30.1741289+00:00",
+  "LastUpdate_Achievements": "2023-05-21T16:05:36.4183096+00:00"
 }

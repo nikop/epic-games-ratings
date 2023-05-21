@@ -852,9 +852,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 2987,
+  "EOS_Progressed": 2988,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2492,6 +2492,11 @@
       "Time": "2023-05-21T14:05:27.0922772+00:00",
       "NumProgressed": 2987,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-21T16:05:44.1160121+00:00",
+      "NumProgressed": 2988,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2543,7 +2548,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -2639,7 +2644,7 @@
       "Name": "Apocalypso",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_EP_TROPICOLAND",
@@ -2647,7 +2652,7 @@
       "Name": "For Science!",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -2663,7 +2668,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2300
+      "UsersEstimate": 2301
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -2687,7 +2692,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -2767,7 +2772,7 @@
       "Name": "The Time For Wonders",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_TRADEISMYTRAIT",
@@ -2822,15 +2827,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 2987,
+      "Progressed": 2988,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-15T17:00:44.7999652+00:00",
-  "LastChanged_Achievements": "2023-05-21T15:06:31.397606+00:00",
+  "LastChanged_Achievements": "2023-05-21T16:05:44.1160116+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:57.2781106+00:00",
-  "LastUpdate_Ratings": "2023-05-21T15:00:35.0634529+00:00",
-  "LastUpdate_Achievements": "2023-05-21T15:06:31.3976551+00:00"
+  "LastUpdate_Ratings": "2023-05-21T15:59:40.2287178+00:00",
+  "LastUpdate_Achievements": "2023-05-21T16:05:44.1160517+00:00"
 }

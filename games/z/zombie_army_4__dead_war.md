@@ -1,21 +1,21 @@
 # Zombie Army 4: Dead War
 [Store](https://store.epicgames.com/en-US/p/zombie-army-4-dead-war)  
 [View Rawdata](../../db/z/zombie_army_4__dead_war.json)  
-Rating: 4.69 (Ranked 214)  
+Rating: 4.69 (Ranked 213)  
 Number of Ratings: 743  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 68.00% | ~28,809 |
-| Say goodbye, creep! | 65.00% | ~27,538 |
-| Blood splattered | 65.00% | ~27,538 |
-| Choo choo! | 62.00% | ~26,267 |
-| Groovy | 61.00% | ~25,843 |
-| Cleanup on aisle 4! | 56.00% | ~23,725 |
-| Gold | 50.00% | ~21,183 |
+| Shoot it, man! Shoot it in the head! | 68.00% | ~28,810 |
+| Say goodbye, creep! | 65.00% | ~27,539 |
+| Blood splattered | 65.00% | ~27,539 |
+| Choo choo! | 62.00% | ~26,268 |
+| Groovy | 61.00% | ~25,844 |
+| Cleanup on aisle 4! | 56.00% | ~23,726 |
+| Gold | 50.00% | ~21,184 |
 | The boat can leave now...tell the crew | 48.00% | ~20,336 |
-| Give me something to shoot! | 46.00% | ~19,488 |
-| Stand back boy! | 46.00% | ~19,488 |
+| Give me something to shoot! | 46.00% | ~19,489 |
+| Stand back boy! | 46.00% | ~19,489 |
 | Weird science | 44.00% | ~18,641 |
 | Chain reaction | 44.00% | ~18,641 |
 | Look mummy! A shark! | 41.00% | ~17,370 |
@@ -27,13 +27,13 @@ Number of Ratings: 743  (23.09.2022)
 | Zombie killin' machine | 36.00% | ~15,252 |
 | Every bullet counts | 36.00% | ~15,252 |
 | All of this has happened before… | 35.00% | ~14,828 |
-| You've got red on you | 34.00% | ~14,404 |
+| You've got red on you | 34.00% | ~14,405 |
 | All roads lead to Rome | 33.00% | ~13,981 |
-| You're all going to die down here | 31.00% | ~13,133 |
-| He did Nazi that coming | 31.00% | ~13,133 |
-| Kill of the week | 31.00% | ~13,133 |
+| You're all going to die down here | 31.00% | ~13,134 |
+| He did Nazi that coming | 31.00% | ~13,134 |
+| Kill of the week | 31.00% | ~13,134 |
 | I never liked them anyway | 30.00% | ~12,710 |
-| Is it over? | 28.00% | ~11,862 |
+| Is it over? | 28.00% | ~11,863 |
 | Got your back | 27.00% | ~11,439 |
 | Gore soaked | 24.00% | ~10,168 |
 | Shock therapy | 22.00% | ~9,321 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~424 |
 | None more hard | 0.50% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,366 (Ranked 79)  
+Progressed: 42,367 (Ranked 79)  
 Completed: 24 (0.06%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 24 (0.06%) (Ranked 170)
 | 2023-05-18 | 42,292 | 24 |
 | 2023-05-19 | 42,312 | 24 |
 | 2023-05-20 | 42,351 | 24 |
-| 2023-05-21 | 42,366 | 24 |
+| 2023-05-21 | 42,367 | 24 |
 ## Awards
 Max (Great Boss Battles): 774  (Ranked 147)  
 Sum: 2,370 (Ranked 169)  

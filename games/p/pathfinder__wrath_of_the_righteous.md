@@ -6,9 +6,9 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 13.00% | ~1,173 |
-| A Spark | 10.00% | ~902 |
-| Burning City | 9.00% | ~812 |
+| Devoured by Darkness | 13.00% | ~1,174 |
+| A Spark | 10.00% | ~903 |
+| Burning City | 9.00% | ~813 |
 | Mythic Choices | 8.00% | ~722 |
 | Defender's Heart | 8.00% | ~722 |
 | Banner over the Citadel | 7.00% | ~632 |
@@ -23,18 +23,19 @@ Number of Ratings: 1,354  (23.09.2022)
 | All Paths Open | 3.00% | ~271 |
 | Demonic and Divine | 3.00% | ~271 |
 | Next-Door Play | 3.00% | ~271 |
-| Heart of the Fallen Land | 2.00% | ~180 |
-| The Legacy | 2.00% | ~180 |
-| Divide and Rule | 2.00% | ~180 |
-| Mythic Reinforcements | 2.00% | ~180 |
-| Core of the Riddle | 2.00% | ~180 |
-| Your First Big Enemy | 2.00% | ~180 |
-| A Flame | 2.00% | ~180 |
-| Hey, I Know You! | 2.00% | ~180 |
-| Get the Toad | 2.00% | ~180 |
+| Heart of the Fallen Land | 2.00% | ~181 |
+| The Legacy | 2.00% | ~181 |
+| Divide and Rule | 2.00% | ~181 |
+| Mythic Reinforcements | 2.00% | ~181 |
+| Core of the Riddle | 2.00% | ~181 |
+| Your First Big Enemy | 2.00% | ~181 |
+| A Flame | 2.00% | ~181 |
+| Hey, I Know You! | 2.00% | ~181 |
+| Get the Toad | 2.00% | ~181 |
 | Hanged Man's Notes | 2.00% | ~156 |
 | The Lady of the Forest | 2.00% | ~156 |
 | Beware Still Water | 2.00% | ~156 |
+| Path of the Demon | 1.00% | ~90 |
 | Path of the Aeon | 1.00% | ~90 |
 | Path of the Trickster | 1.00% | ~90 |
 | Path of the Lich | 1.00% | ~90 |
@@ -43,7 +44,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | Truly Important Deed | 1.00% | ~90 |
 | Stay Underground | 1.00% | ~78 |
 | Sarkoris Will Be Green | 1.00% | ~78 |
-| Path of the Demon | 0.90% | ~81 |
 | Abyssal Conspiracy | 0.80% | ~72 |
 | End of Eternal Guard | 0.70% | ~63 |
 | This Wall Won't Fall | 0.70% | ~55 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,025 (Ranked 109)  
+Progressed: 9,029 (Ranked 109)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-18 | 8,872 | 0 |
 | 2023-05-19 | 8,921 | 0 |
 | 2023-05-20 | 8,990 | 0 |
-| 2023-05-21 | 9,025 | 0 |
+| 2023-05-21 | 9,029 | 0 |
 ## Awards
 Max (Character Customization): 1,636  (Ranked 111)  
 Sum: 6,637 (Ranked 110)  

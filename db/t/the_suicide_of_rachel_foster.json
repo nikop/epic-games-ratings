@@ -5,9 +5,9 @@
   "Ranking_Rating": 831,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 165,
-  "Ranking_EOS_Completed": 30,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_Progress": 164,
+  "Ranking_EOS_Completed": 31,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1036,
+  "EOS_Progressed": 1037,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.92,
   "EosHistory": [
@@ -557,6 +557,11 @@
       "Time": "2023-05-21T14:05:16.2541463+00:00",
       "NumProgressed": 1036,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-21T16:05:33.6321088+00:00",
+      "NumProgressed": 1037,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 11,
@@ -568,7 +573,7 @@
       "Name": "Cutepie",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -616,7 +621,7 @@
       "Name": "All together, again",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -632,7 +637,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -655,15 +660,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1036,
+      "Progressed": 1037,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-05-21T15:06:19.1162341+00:00",
+  "LastChanged_Achievements": "2023-05-21T16:05:33.6321083+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:12:14.3771027+00:00",
-  "LastUpdate_Ratings": "2023-05-21T15:00:30.8474378+00:00",
-  "LastUpdate_Achievements": "2023-05-21T15:06:19.1162449+00:00"
+  "LastUpdate_Ratings": "2023-05-21T15:59:36.8936737+00:00",
+  "LastUpdate_Achievements": "2023-05-21T16:05:33.632119+00:00"
 }

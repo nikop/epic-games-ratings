@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Hell In A Handcart | 68.00% | ~134 |
-| Read Between The Lines | 64.00% | ~126 |
-| High Profile | 60.00% | ~118 |
-| Whispers In The Dark | 57.00% | ~112 |
-| Fond Memories | 51.00% | ~100 |
-| History Check | 50.00% | ~98 |
-| A Method To His Madness | 50.00% | ~98 |
-| Lock, Stock, And Barrel | 47.00% | ~93 |
+| To Hell In A Handcart | 68.00% | ~135 |
+| Read Between The Lines | 64.00% | ~127 |
+| High Profile | 60.00% | ~119 |
+| Whispers In The Dark | 58.00% | ~115 |
+| Fond Memories | 51.00% | ~101 |
+| A Method To His Madness | 50.00% | ~99 |
+| History Check | 49.00% | ~97 |
 | The New World | 47.00% | ~93 |
-| Gaze Into The Abyss | 46.00% | ~91 |
-| Open Sesame | 46.00% | ~91 |
-| Sticky Fingers | 46.00% | ~91 |
+| Lock, Stock, And Barrel | 46.00% | ~91 |
+| Gaze Into The Abyss | 45.00% | ~89 |
+| Open Sesame | 45.00% | ~89 |
+| Sticky Fingers | 45.00% | ~89 |
 | Knives Out | 45.00% | ~89 |
 | Back In The Saddle | 44.00% | ~87 |
 | Land, Ho! | 44.00% | ~87 |
-| No Man Is An Island | 43.00% | ~85 |
+| No Man Is An Island | 42.00% | ~83 |
 | At Wits' End | 40.00% | ~79 |
-| Bookworm | 39.00% | ~77 |
+| Bookworm | 38.00% | ~75 |
 | Going Once... | 37.00% | ~73 |
 | Fhtagn! | 37.00% | ~73 |
 | Up In Flames | 36.00% | ~71 |
-| Let Me Be Frank | 35.00% | ~69 |
 | Brain Food | 35.00% | ~69 |
+| Let Me Be Frank | 34.00% | ~67 |
 | No Stone Unturned | 31.00% | ~61 |
-| Curiosity Killed The Cat | 22.00% | ~43 |
-| Read It And Weep | 21.00% | ~41 |
-| Big Breakthrough | 20.00% | ~39 |
+| Curiosity Killed The Cat | 22.00% | ~44 |
+| Read It And Weep | 21.00% | ~42 |
+| Big Breakthrough | 20.00% | ~40 |
 | Reawakened | 9.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 197 (Ranked 228)  
-Completed: 11 (5.58%) (Ranked 28)  
+Progressed: 198 (Ranked 228)  
+Completed: 11 (5.56%) (Ranked 28)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -61,7 +61,7 @@ Completed: 11 (5.58%) (Ranked 28)
 | 2023-05-18 | 156 | 10 |
 | 2023-05-19 | 170 | 10 |
 | 2023-05-20 | 190 | 10 |
-| 2023-05-21 | 197 | 11 |
+| 2023-05-21 | 198 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

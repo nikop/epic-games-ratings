@@ -6,9 +6,9 @@ Rating: 4.18 (Ranked 831)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Flesh Wound | 4.00% | ~526 |
+| Chew 'Em Up | 4.00% | ~526 |
 | Giving Back | 3.00% | ~395 |
-| Chew 'Em Up | 3.00% | ~395 |
-| Big Game Hunter | 3.00% | ~32 |
+| Big Game Hunter | 3.00% | ~33 |
 | Instigator | 2.00% | ~22 |
 | Bear Trap | 2.00% | ~22 |
 | The Commonality | 1.00% | ~132 |
@@ -18,15 +18,15 @@ Rating: 4.18 (Ranked 831)
 | Parole Denied | 0.70% | ~8 |
 | Get a Grip | 0.70% | ~92 |
 | Hoard Mode | 0.70% | ~8 |
-| Lifer | 0.60% | ~6 |
+| Lifer | 0.60% | ~7 |
 | Recidivist | 0.50% | ~5 |
+| Reforged | 0.40% | ~53 |
 | In Striking Distance | 0.30% | ~39 |
-| Reforged | 0.30% | ~39 |
+| Terminated | 0.30% | ~39 |
+| Workplace Hazard | 0.30% | ~39 |
 | Grim Reaper | 0.20% | ~26 |
 | I Do Belong Here | 0.20% | ~26 |
 | Two Heads Are Better Than One | 0.20% | ~26 |
-| Terminated | 0.20% | ~26 |
-| Workplace Hazard | 0.20% | ~26 |
 | It's over, Jacob! | 0.10% | ~13 |
 | Armed to the Teeth | 0.10% | ~1 |
 | You Need a Gun | 0.10% | ~13 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 831)
 | I am the Danger | 0.00% | ~0 |
 | Subject Alpha | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,156 (Ranked 101)  
+Progressed: 13,160 (Ranked 101)  
 Completed: 51 (0.39%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 51 (0.39%) (Ranked 113)
 | 2023-05-18 | 12,620 | 51 |
 | 2023-05-19 | 12,841 | 51 |
 | 2023-05-20 | 13,057 | 51 |
-| 2023-05-21 | 13,156 | 51 |
+| 2023-05-21 | 13,160 | 51 |
 ## Awards
 Max (Amazing Storytelling): 46  (Ranked 397)  
 Sum: 246 (Ranked 341)  

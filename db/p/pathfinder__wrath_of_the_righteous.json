@@ -2474,9 +2474,9 @@
       "Count": 368
     }
   ],
-  "EOS_Progressed": 9025,
+  "EOS_Progressed": 9029,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4104,6 +4104,11 @@
       "Time": "2023-05-21T15:06:30.3624891+00:00",
       "NumProgressed": 9025,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T16:05:43.1533569+00:00",
+      "NumProgressed": 9029,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -4115,7 +4120,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1173
+      "UsersEstimate": 1174
     },
     {
       "ID": "02_BurningCity",
@@ -4123,7 +4128,7 @@
       "Name": "Burning City",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -4155,7 +4160,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "07_FinalThreshold",
@@ -4177,9 +4182,9 @@
       "ID": "09_PathOfDemon",
       "SetID": "989of5o",
       "Name": "Path of the Demon",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 90
     },
     {
       "ID": "10_PathOfAzata",
@@ -4299,7 +4304,7 @@
       "Name": "The Legacy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "25_MasterfulDispell",
@@ -4347,7 +4352,7 @@
       "Name": "Divide and Rule",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "32_MythicReinforcements",
@@ -4355,7 +4360,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "33_DefendersHeart",
@@ -4387,7 +4392,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -4395,7 +4400,7 @@
       "Name": "Your First Big Enemy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "38_PrelatesNemesis",
@@ -4483,7 +4488,7 @@
       "Name": "A Spark",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "49_Flame",
@@ -4491,7 +4496,7 @@
       "Name": "A Flame",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -4499,7 +4504,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -4547,7 +4552,7 @@
       "Name": "Get the Toad",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "57_PathOfDevil",
@@ -5042,21 +5047,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7807,
+      "Progressed": 7811,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9025,
+      "Progressed": 9029,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-21T14:58:37.6130712+00:00",
-  "LastChanged_Achievements": "2023-05-21T15:06:30.3624887+00:00",
+  "LastChanged_Achievements": "2023-05-21T16:05:43.1533562+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3010226+00:00",
-  "LastUpdate_Ratings": "2023-05-21T14:58:37.6130718+00:00",
-  "LastUpdate_Achievements": "2023-05-21T15:06:30.3627032+00:00"
+  "LastUpdate_Ratings": "2023-05-21T15:58:10.6326666+00:00",
+  "LastUpdate_Achievements": "2023-05-21T16:05:43.1535242+00:00"
 }

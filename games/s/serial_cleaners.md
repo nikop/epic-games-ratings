@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Small-time Finder | 3.00% | ~5 |
 | So it goes | 3.00% | ~5 |
-| Small-time Finder | 2.00% | ~3 |
-| Business as usual | 2.00% | ~3 |
+| Business as usual | 3.00% | ~5 |
+| Off to a Good Start | 2.00% | ~3 |
 | Clean Conscience | 2.00% | ~3 |
-| Off to a Good Start | 1.00% | ~2 |
 | Pride and Joy | 1.00% | ~2 |
 | Eyes Yet To Open | 1.00% | ~2 |
 | A New Broom Sweeps Clean | 1.00% | ~2 |

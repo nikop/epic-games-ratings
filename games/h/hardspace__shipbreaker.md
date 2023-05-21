@@ -6,26 +6,26 @@ Number of Ratings: 36  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 72.00% | ~451 |
-| It’s Heating up! | 68.00% | ~426 |
-| Let’s patch things up | 65.00% | ~408 |
-| I can fix it! | 61.00% | ~382 |
+| Breathe In… Breathe Out… | 72.00% | ~452 |
+| It’s Heating up! | 68.00% | ~427 |
+| Let’s patch things up | 64.00% | ~402 |
+| I can fix it! | 61.00% | ~383 |
 | Post No Bills | 54.00% | ~339 |
-| Truly Shocking! | 46.00% | ~288 |
-| Critical Thinker | 34.00% | ~213 |
-| Always Finding Your Mark | 28.00% | ~176 |
+| Truly Shocking! | 46.00% | ~289 |
+| Critical Thinker | 34.00% | ~214 |
+| Always Finding Your Mark | 29.00% | ~182 |
 | The Weight of the World | 28.00% | ~176 |
 | Act I Complete | 26.00% | ~163 |
 | A drop in the Ocean | 26.00% | ~163 |
 | No Niños | 26.00% | ~163 |
-| I ain’t afraid of no Ghost | 24.00% | ~150 |
+| I ain’t afraid of no Ghost | 24.00% | ~151 |
 | Act II Complete | 19.00% | ~119 |
 | A successful procedure! | 18.00% | ~113 |
 | Bing Bang BOOM | 18.00% | ~113 |
 | Breaking the Ice | 16.00% | ~100 |
 | Solidarity Forever | 12.00% | ~75 |
 | A Tucked Tale | 10.00% | ~63 |
-| The best thing money can buy | 9.00% | ~56 |
+| The best thing money can buy | 9.00% | ~57 |
 | Act III Complete | 6.00% | ~38 |
 | Fire and Brimstone | 5.00% | ~31 |
 | See you Space Cowboy | 5.00% | ~31 |
@@ -34,7 +34,7 @@ Number of Ratings: 36  (23.09.2022)
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 627 (Ranked 185)  
+Progressed: 628 (Ranked 185)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,7 +50,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-18 | 606 | 0 |
 | 2023-05-19 | 614 | 0 |
 | 2023-05-20 | 622 | 0 |
-| 2023-05-21 | 627 | 0 |
+| 2023-05-21 | 628 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

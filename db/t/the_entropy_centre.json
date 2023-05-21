@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 94,
+  "EOS_Progressed": 95,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -123,6 +123,11 @@
       "Time": "2023-05-21T11:05:30.8739329+00:00",
       "NumProgressed": 94,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T16:05:12.1007601+00:00",
+      "NumProgressed": 95,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -132,7 +137,7 @@
       "ID": "ACH_ACT1",
       "SetID": "2310cb1",
       "Name": "Wake Up",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 30,
       "UsersEstimate": 76
     },
@@ -180,7 +185,7 @@
       "ID": "ACH_ACT15",
       "SetID": "2310cb1",
       "Name": "Cataclysm",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -196,7 +201,7 @@
       "ID": "ACH_ACT2",
       "SetID": "2310cb1",
       "Name": "Time Gates",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 30,
       "UsersEstimate": 58
     },
@@ -204,7 +209,7 @@
       "ID": "ACH_ACT3",
       "SetID": "2310cb1",
       "Name": "Command Centre",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 30,
       "UsersEstimate": 46
     },
@@ -212,7 +217,7 @@
       "ID": "ACH_ACT4",
       "SetID": "2310cb1",
       "Name": "This is a Wall",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 30,
       "UsersEstimate": 44
     },
@@ -308,7 +313,7 @@
       "ID": "ACH_LOOPER",
       "SetID": "2310cb1",
       "Name": "Looper",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 90,
       "UsersEstimate": 9
     },
@@ -324,7 +329,7 @@
       "ID": "ACH_REWINDTIME",
       "SetID": "2310cb1",
       "Name": "It\u0027s Rewind Time",
-      "Percentage": 90,
+      "Percentage": 89,
       "XP": 15,
       "UsersEstimate": 85
     },
@@ -349,7 +354,7 @@
     {
       "ID": "2310cb1",
       "IsBase": true,
-      "Progressed": 94,
+      "Progressed": 95,
       "Completed": 0
     }
   ],
@@ -357,8 +362,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-05-21T15:05:53.9054403+00:00",
+  "LastChanged_Achievements": "2023-05-21T16:05:12.1007597+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:56.6865886+00:00",
-  "LastUpdate_Ratings": "2023-05-21T14:57:37.5351797+00:00",
-  "LastUpdate_Achievements": "2023-05-21T15:05:53.905463+00:00"
+  "LastUpdate_Ratings": "2023-05-21T15:57:26.6997536+00:00",
+  "LastUpdate_Achievements": "2023-05-21T16:05:12.100778+00:00"
 }

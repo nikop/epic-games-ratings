@@ -410,9 +410,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 13156,
+  "EOS_Progressed": 13160,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 593,
+  "EOS_NewPlayers": 597,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1075,6 +1075,11 @@
       "Time": "2023-05-21T15:01:35.1064604+00:00",
       "NumProgressed": 13156,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-21T16:00:31.6722974+00:00",
+      "NumProgressed": 13160,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 40,
@@ -1174,7 +1179,7 @@
       "Name": "Lifer",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "FINISH_NEW_GAME_PLUS",
@@ -1212,25 +1217,25 @@
       "ID": "KILL_MANY_WITH_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Chew \u0027Em Up",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 395
+      "UsersEstimate": 526
     },
     {
       "ID": "KILL_ROBOT",
       "SetID": "4hj6d86",
       "Name": "Terminated",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 39
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Workplace Hazard",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 39
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -1252,9 +1257,9 @@
       "ID": "PRINT_UPGRADE",
       "SetID": "4hj6d86",
       "Name": "Reforged",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 53
     },
     {
       "ID": "PRINT_WEAPON",
@@ -1366,7 +1371,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -1405,13 +1410,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13156,
+      "Progressed": 13160,
       "Completed": 51
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1082,
+      "Progressed": 1086,
       "Completed": 29
     }
   ],
@@ -1419,8 +1424,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-16T17:57:38.030273+00:00",
-  "LastChanged_Achievements": "2023-05-21T15:01:35.10646+00:00",
+  "LastChanged_Achievements": "2023-05-21T16:00:31.6722967+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-21T14:58:07.4080724+00:00",
-  "LastUpdate_Achievements": "2023-05-21T15:01:35.106503+00:00"
+  "LastUpdate_Ratings": "2023-05-21T15:57:47.7410875+00:00",
+  "LastUpdate_Achievements": "2023-05-21T16:00:31.672359+00:00"
 }

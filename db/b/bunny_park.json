@@ -2,7 +2,7 @@
   "ID": "7d8459956d774d788532fd472b437df8",
   "Name": "Bunny Park",
   "ProductSlug": "bunny-park-835c4c",
-  "Ranking_EOS_Progress": 216,
+  "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 51,
   "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 76,
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 279,
+  "EOS_Progressed": 280,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.87,
+  "EOS_Completed_Percentage": 2.86,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.4240429+00:00",
@@ -57,6 +57,11 @@
       "Time": "2023-05-03T18:59:55.51819+00:00",
       "NumProgressed": 279,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-21T16:05:09.8132251+00:00",
+      "NumProgressed": 280,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 18,
@@ -68,7 +73,7 @@
       "Name": "Lonely Bunny",
       "Percentage": 97,
       "XP": 25,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "BP-02",
@@ -76,7 +81,7 @@
       "Name": "Bunny Party",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "BP-03",
@@ -92,7 +97,7 @@
       "Name": "Debris Finder",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "BP-05",
@@ -100,7 +105,7 @@
       "Name": "Debris Gatherer",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "BP-06",
@@ -114,9 +119,9 @@
       "ID": "BP-07",
       "SetID": "7fc93f2",
       "Name": "Beginner Decorator",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 142
+      "UsersEstimate": 140
     },
     {
       "ID": "BP-08",
@@ -124,7 +129,7 @@
       "Name": "Stylish Decorator",
       "Percentage": 32,
       "XP": 75,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "BP-09",
@@ -154,9 +159,9 @@
       "ID": "BP-12",
       "SetID": "7fc93f2",
       "Name": "Cozy Autumn",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 114
+      "UsersEstimate": 112
     },
     {
       "ID": "BP-13",
@@ -178,9 +183,9 @@
       "ID": "BP-15",
       "SetID": "7fc93f2",
       "Name": "Helpful Bot-terfly",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 129
     },
     {
       "ID": "BP-16",
@@ -211,7 +216,7 @@
     {
       "ID": "7fc93f2",
       "IsBase": true,
-      "Progressed": 279,
+      "Progressed": 280,
       "Completed": 8
     }
   ],
@@ -219,8 +224,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5432443+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.424044+00:00",
   "LastChanged": "2023-03-31T05:58:48.5432443+00:00",
-  "LastChanged_Achievements": "2023-05-21T15:05:50.6306788+00:00",
+  "LastChanged_Achievements": "2023-05-21T16:05:09.8132242+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:47.3485313+00:00",
-  "LastUpdate_Ratings": "2023-05-21T14:58:32.6360986+00:00",
-  "LastUpdate_Achievements": "2023-05-21T15:05:50.6306912+00:00"
+  "LastUpdate_Ratings": "2023-05-21T15:58:06.9283203+00:00",
+  "LastUpdate_Achievements": "2023-05-21T16:05:09.8132387+00:00"
 }

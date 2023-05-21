@@ -23,7 +23,7 @@
 | ACE DEFENDER | 7.00% | ~177 |
 | THE EYE OF THE HUNTER | 7.00% | ~177 |
 | FRIENDLY | 5.00% | ~126 |
-| BE OUR GUEST | 3.00% | ~76 |
+| BE OUR GUEST | 4.00% | ~101 |
 | ACE TRICKSTER | 3.00% | ~76 |
 | EXPERIENCED CREW | 2.00% | ~51 |
 | FRAMED! | 1.00% | ~25 |

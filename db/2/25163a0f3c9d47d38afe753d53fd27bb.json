@@ -2,10 +2,10 @@
   "ID": "25163a0f3c9d47d38afe753d53fd27bb",
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
-  "Ranking_EOS_Progress": 223,
-  "Ranking_EOS_Completed": 31,
+  "Ranking_EOS_Progress": 222,
+  "Ranking_EOS_Completed": 29,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 228,
-  "EOS_Completed": 11,
-  "EOS_NewPlayers": 227,
-  "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 4.82,
+  "EOS_Progressed": 229,
+  "EOS_Completed": 12,
+  "EOS_NewPlayers": 228,
+  "EOS_NewCompleters": 12,
+  "EOS_Completed_Percentage": 5.24,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -361,6 +361,11 @@
       "Time": "2023-05-21T15:01:17.2316197+00:00",
       "NumProgressed": 228,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-21T16:00:17.2838276+00:00",
+      "NumProgressed": 229,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 30,
@@ -372,7 +377,7 @@
       "Name": "A fresh start",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "LEVEL_002",
@@ -380,7 +385,7 @@
       "Name": "Promising crop",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "LEVEL_003",
@@ -388,7 +393,7 @@
       "Name": "A horse in the country",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "LEVEL_004",
@@ -428,7 +433,7 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "LEVEL_009",
@@ -452,7 +457,7 @@
       "Name": "This island of mine",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "LEVEL_012",
@@ -611,14 +616,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 228,
-      "Completed": 11
+      "Progressed": 229,
+      "Completed": 12
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-21T15:01:17.2316191+00:00",
+  "LastChanged_Achievements": "2023-05-21T16:00:17.283827+00:00",
   "LastUpdate_AppInfo": "2023-05-15T11:57:23.4437098+00:00",
-  "LastUpdate_Ratings": "2023-05-21T14:57:18.3000928+00:00",
-  "LastUpdate_Achievements": "2023-05-21T15:01:17.231653+00:00"
+  "LastUpdate_Ratings": "2023-05-21T15:57:09.900309+00:00",
+  "LastUpdate_Achievements": "2023-05-21T16:00:17.2838558+00:00"
 }

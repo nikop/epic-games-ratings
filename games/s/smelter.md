@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What took you so long? | 88.00% | ~28 |
-| Welcome to the Rumbly Lands! | 88.00% | ~28 |
-| Time to Bash Some Heads! | 84.00% | ~27 |
-| Shiny! | 72.00% | ~23 |
-| Deep in the Mounds | 69.00% | ~22 |
-| Locked Away | 34.00% | ~11 |
-| Smeltastic! | 34.00% | ~11 |
-| A Little Renovating | 31.00% | ~10 |
-| Deflect This! | 25.00% | ~8 |
-| Just Some Improvements | 22.00% | ~7 |
-| It's a Sign! | 22.00% | ~7 |
-| A Little Extra Love | 19.00% | ~6 |
-| A New Strategy | 19.00% | ~6 |
-| Isn't It Beautiful? | 16.00% | ~5 |
-| A Generous Leader | 16.00% | ~5 |
-| A Terrible Way to Go | 16.00% | ~5 |
-| Final Announcement | 13.00% | ~4 |
-| How Do You Like Them Apples? | 13.00% | ~4 |
+| What took you so long? | 88.00% | ~29 |
+| Welcome to the Rumbly Lands! | 88.00% | ~29 |
+| Time to Bash Some Heads! | 82.00% | ~27 |
+| Shiny! | 70.00% | ~23 |
+| Deep in the Mounds | 67.00% | ~22 |
+| Locked Away | 33.00% | ~11 |
+| Smeltastic! | 33.00% | ~11 |
+| A Little Renovating | 30.00% | ~10 |
+| Deflect This! | 24.00% | ~8 |
+| Just Some Improvements | 21.00% | ~7 |
+| It's a Sign! | 21.00% | ~7 |
+| A Little Extra Love | 18.00% | ~6 |
+| A New Strategy | 18.00% | ~6 |
+| Isn't It Beautiful? | 15.00% | ~5 |
+| A Generous Leader | 15.00% | ~5 |
+| A Terrible Way to Go | 15.00% | ~5 |
+| Final Announcement | 12.00% | ~4 |
+| How Do You Like Them Apples? | 12.00% | ~4 |
 | Gotta Collect Them All | 9.00% | ~3 |
 | Keeping Things Tidy | 9.00% | ~3 |
 | My Precious Gems! | 9.00% | ~3 |
@@ -56,8 +56,8 @@
 | With a Little Help from My Friends | 9.00% | ~3 |
 | The More the Merrier | 9.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32 (Ranked 298)  
-Completed: 3 (9.38%) (Ranked 13)  
+Progressed: 33 (Ranked 296)  
+Completed: 3 (9.09%) (Ranked 13)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -65,6 +65,7 @@ Completed: 3 (9.38%) (Ranked 13)
 | 2023-04-30 | 30 | 3 |
 | 2023-05-16 | 31 | 3 |
 | 2023-05-19 | 32 | 3 |
+| 2023-05-21 | 33 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

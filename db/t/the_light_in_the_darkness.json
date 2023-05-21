@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 20,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1354,
+  "EOS_Progressed": 1355,
   "EOS_Completed": 106,
   "EOS_NewPlayers": 92,
-  "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 7.83,
+  "EOS_NewCompleters": 7,
+  "EOS_Completed_Percentage": 7.82,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -1448,6 +1448,11 @@
       "Time": "2023-05-21T14:05:09.051537+00:00",
       "NumProgressed": 1354,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-05-21T16:05:27.0291736+00:00",
+      "NumProgressed": 1355,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 12,
@@ -1475,7 +1480,7 @@
       "Name": "Building the Fox",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "Green Ticket Roundup",
@@ -1491,7 +1496,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "Jakob",
@@ -1507,7 +1512,7 @@
       "Name": "Jude",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "Le Juif et la France",
@@ -1515,7 +1520,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "Little Helper",
@@ -1523,7 +1528,7 @@
       "Name": "Little Helper",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -1554,7 +1559,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1354,
+      "Progressed": 1355,
       "Completed": 106
     }
   ],
@@ -1562,8 +1567,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-21T15:06:11.5601497+00:00",
+  "LastChanged_Achievements": "2023-05-21T16:05:27.029173+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:11.427731+00:00",
-  "LastUpdate_Ratings": "2023-05-21T14:59:57.7659835+00:00",
-  "LastUpdate_Achievements": "2023-05-21T15:06:11.5601691+00:00"
+  "LastUpdate_Ratings": "2023-05-21T15:59:13.1201319+00:00",
+  "LastUpdate_Achievements": "2023-05-21T16:05:27.0291911+00:00"
 }

@@ -1154,9 +1154,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61524,
+  "EOS_Progressed": 61530,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 657,
+  "EOS_NewPlayers": 661,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3194,6 +3194,11 @@
       "Time": "2023-05-21T15:06:31.7468647+00:00",
       "NumProgressed": 61524,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-21T16:05:44.3983003+00:00",
+      "NumProgressed": 61530,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3603,9 +3608,9 @@
       "ID": "MYSTERY_02",
       "SetID": "4eo5ebm",
       "Name": "Whispered Words",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 369
     },
     {
       "ID": "MYSTERY_03",
@@ -3692,13 +3697,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61524,
+      "Progressed": 61530,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31804,
+      "Progressed": 31810,
       "Completed": 2640
     }
   ],
@@ -3706,8 +3711,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-20T13:59:13.9457948+00:00",
-  "LastChanged_Achievements": "2023-05-21T15:06:31.7468642+00:00",
+  "LastChanged_Achievements": "2023-05-21T16:05:44.3982997+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-21T15:00:07.8065433+00:00",
-  "LastUpdate_Achievements": "2023-05-21T15:06:31.7469523+00:00"
+  "LastUpdate_Ratings": "2023-05-21T15:59:20.4935311+00:00",
+  "LastUpdate_Achievements": "2023-05-21T16:05:44.3983682+00:00"
 }

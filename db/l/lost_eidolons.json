@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 873,
+  "EOS_Progressed": 875,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -308,6 +308,11 @@
       "Time": "2023-05-21T13:08:10.4402586+00:00",
       "NumProgressed": 873,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T16:05:33.0380889+00:00",
+      "NumProgressed": 875,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -343,7 +348,7 @@
       "Name": "The Unvanquished",
       "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "05",
@@ -351,15 +356,15 @@
       "Name": "The First Step",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "06",
       "SetID": "73ikgfc",
       "Name": "First Blood",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 567
+      "UsersEstimate": 560
     },
     {
       "ID": "07",
@@ -367,7 +372,7 @@
       "Name": "Monster Hunter",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "08",
@@ -375,7 +380,7 @@
       "Name": "Monster Slayer",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "09",
@@ -415,7 +420,7 @@
       "Name": "Let Us Cling Together",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "14",
@@ -447,7 +452,7 @@
       "Name": "Ready to Learn",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "18",
@@ -455,7 +460,7 @@
       "Name": "Earning Trust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 436
+      "UsersEstimate": 438
     },
     {
       "ID": "19",
@@ -471,7 +476,7 @@
       "Name": "Digging Deep",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "21",
@@ -479,7 +484,7 @@
       "Name": "Arrow in the Wind",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "22",
@@ -487,7 +492,7 @@
       "Name": "House Vulisica\u0027s Heirloom",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "23",
@@ -495,14 +500,14 @@
       "Name": "Complete the sidequest \u0027Malice and Greed\u0027",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     }
   ],
   "AchievementSets": [
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 873,
+      "Progressed": 875,
       "Completed": 0
     }
   ],
@@ -510,8 +515,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-05-21T15:06:18.3494961+00:00",
+  "LastChanged_Achievements": "2023-05-21T16:05:33.0380881+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:05:01.1887177+00:00",
-  "LastUpdate_Ratings": "2023-05-21T15:00:06.3520014+00:00",
-  "LastUpdate_Achievements": "2023-05-21T15:06:18.3495137+00:00"
+  "LastUpdate_Ratings": "2023-05-21T15:59:19.3603386+00:00",
+  "LastUpdate_Achievements": "2023-05-21T16:05:33.0381051+00:00"
 }

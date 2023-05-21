@@ -5,17 +5,17 @@ Rating: 4.76 (Ranked 117)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~1,977 |
+| For Demacia | 95.00% | ~1,978 |
 | No more cages! | 92.00% | ~1,915 |
-| Everfrost | 77.00% | ~1,602 |
+| Everfrost | 77.00% | ~1,603 |
 | Pentakill | 76.00% | ~1,582 |
 | Dark Forest | 76.00% | ~1,582 |
-| The use of petricite | 73.00% | ~1,519 |
+| The use of petricite | 73.00% | ~1,520 |
 | You can pet the dog | 60.00% | ~1,249 |
 | Big Helmet Bro | 34.00% | ~708 |
 | Clarion Cove | 34.00% | ~708 |
+| Thornbarrow | 33.00% | ~687 |
 | Past trauma | 32.00% | ~666 |
-| Thornbarrow | 32.00% | ~666 |
 | Ternmoat Headquarters | 32.00% | ~666 |
 | Elemental master | 31.00% | ~645 |
 | Cypress Glen Headquarters | 31.00% | ~645 |
@@ -27,8 +27,8 @@ Rating: 4.76 (Ranked 117)
 | Ancient power | 23.00% | ~479 |
 | I chose my shackles | 22.00% | ~458 |
 | Sacred Woods | 21.00% | ~437 |
-| Little light | 19.00% | ~395 |
-| Capelworth | 19.00% | ~395 |
+| Little light | 19.00% | ~396 |
+| Capelworth | 19.00% | ~396 |
 | Glyndemere | 18.00% | ~375 |
 | Iffighain Headquarters | 18.00% | ~375 |
 | Full equipped | 17.00% | ~354 |
@@ -49,17 +49,17 @@ Rating: 4.76 (Ranked 117)
 | The end of the experiments | 9.00% | ~187 |
 | The Great City of Demacia | 9.00% | ~187 |
 | Call it 'redistribution of magic | 9.00% | ~187 |
-| Chains master | 8.00% | ~166 |
-| Truth is a dark mirror | 8.00% | ~166 |
-| You can pet the... horse | 8.00% | ~166 |
-| Back to sleep, then... | 8.00% | ~166 |
+| Chains master | 8.00% | ~167 |
+| Truth is a dark mirror | 8.00% | ~167 |
+| You can pet the... horse | 8.00% | ~167 |
+| Back to sleep, then... | 8.00% | ~167 |
 | Do you trust me? | 7.00% | ~146 |
 | The great mage rebellion starts now | 7.00% | ~146 |
 | Spellcrafting | 7.00% | ~146 |
 | Silverwing nest | 2.00% | ~42 |
 | The Unshackled | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,081 (Ranked 142)  
+Progressed: 2,082 (Ranked 142)  
 Completed: 1 (0.05%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 1 (0.05%) (Ranked 174)
 | 2023-05-18 | 2,025 | 1 |
 | 2023-05-19 | 2,048 | 1 |
 | 2023-05-20 | 2,067 | 1 |
-| 2023-05-21 | 2,081 | 1 |
+| 2023-05-21 | 2,082 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

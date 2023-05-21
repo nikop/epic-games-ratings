@@ -11,6 +11,7 @@ Rating: 4.17 (Ranked 836)
 | To the Victor Go the Spoils | 0.60% | ~369 |
 | Get ReQ'd | 0.60% | ~369 |
 | Knighthood | 0.60% | ~369 |
+| Whispered Words | 0.60% | ~369 |
 | The Batman Family | 0.50% | ~308 |
 | Protector of Gotham | 0.50% | ~308 |
 | Something in the Clay | 0.50% | ~308 |
@@ -22,7 +23,6 @@ Rating: 4.17 (Ranked 836)
 | Working Hard or Harley Working? | 0.50% | ~308 |
 | Universal Health Scare | 0.50% | ~308 |
 | Unstoppable Force | 0.50% | ~308 |
-| Whispered Words | 0.50% | ~308 |
 | Lock and Key | 0.50% | ~308 |
 | Bad Apples in Every Orchard | 0.50% | ~308 |
 | From Inside Gotham's Walls | 0.50% | ~308 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 836)
 | Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,524 (Ranked 68)  
+Progressed: 61,530 (Ranked 68)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-18 | 61,004 | 91 |
 | 2023-05-19 | 61,198 | 91 |
 | 2023-05-20 | 61,416 | 91 |
-| 2023-05-21 | 61,524 | 91 |
+| 2023-05-21 | 61,530 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,227  (Ranked 98)  
 Sum: 3,689 (Ranked 137)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 550,
+  "EOS_Progressed": 551,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -323,6 +323,11 @@
       "Time": "2023-05-21T04:06:14.0805283+00:00",
       "NumProgressed": 550,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T16:05:42.6646448+00:00",
+      "NumProgressed": 551,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -342,7 +347,7 @@
       "Name": "Bloodhunter",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACQUIRE_ALLOUTFITS",
@@ -470,7 +475,7 @@
       "Name": "Harmless",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -574,7 +579,7 @@
       "Name": "Weakness",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "MISC_MAXUPGRADE",
@@ -582,7 +587,7 @@
       "Name": "Breathsmith",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "MISC_PULLANENEMY",
@@ -606,7 +611,7 @@
       "Name": "Ravenous",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -662,28 +667,28 @@
       "Name": "Proportions",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 133,
+      "Progressed": 134,
       "Completed": 17
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 550,
+      "Progressed": 551,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-05-18T00:00:29.519029+00:00",
-  "LastChanged_Achievements": "2023-05-21T15:06:29.8024918+00:00",
+  "LastChanged_Achievements": "2023-05-21T16:05:42.6646442+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:40.5662436+00:00",
-  "LastUpdate_Ratings": "2023-05-21T15:00:53.7123273+00:00",
-  "LastUpdate_Achievements": "2023-05-21T15:06:29.8025395+00:00"
+  "LastUpdate_Ratings": "2023-05-21T15:59:56.2659751+00:00",
+  "LastUpdate_Achievements": "2023-05-21T16:05:42.6646775+00:00"
 }

@@ -54,7 +54,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 369,
+  "EOS_Progressed": 370,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
@@ -399,6 +399,11 @@
       "Time": "2023-05-21T14:05:03.3532602+00:00",
       "NumProgressed": 369,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T16:05:21.629068+00:00",
+      "NumProgressed": 370,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -488,9 +493,9 @@
       "ID": "Goal",
       "SetID": "2aagp3d",
       "Name": "Goal!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 11
     },
     {
       "ID": "GoldRush",
@@ -520,9 +525,9 @@
       "ID": "HexMaster",
       "SetID": "2aagp3d",
       "Name": "Spirit animal",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 26
+      "UsersEstimate": 22
     },
     {
       "ID": "LiarLiar",
@@ -584,9 +589,9 @@
       "ID": "SlavicSquatter",
       "SetID": "2aagp3d",
       "Name": "Slavic squatter",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 37
     },
     {
       "ID": "Specialist",
@@ -624,9 +629,9 @@
       "ID": "ToothFairy",
       "SetID": "2aagp3d",
       "Name": "Tooth fairy",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 92
     },
     {
       "ID": "Toxic",
@@ -665,7 +670,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 369,
+      "Progressed": 370,
       "Completed": 0
     }
   ],
@@ -673,8 +678,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-05-21T15:06:04.8584684+00:00",
+  "LastChanged_Achievements": "2023-05-21T16:05:21.6290672+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:28.25189+00:00",
-  "LastUpdate_Ratings": "2023-05-21T14:58:09.4196699+00:00",
-  "LastUpdate_Achievements": "2023-05-21T15:06:04.8584967+00:00"
+  "LastUpdate_Ratings": "2023-05-21T15:57:49.2152258+00:00",
+  "LastUpdate_Achievements": "2023-05-21T16:05:21.6290931+00:00"
 }

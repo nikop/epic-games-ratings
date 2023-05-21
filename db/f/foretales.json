@@ -4,7 +4,7 @@
   "ProductSlug": "foretales-d6c5bd",
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-09-15T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 255,
+  "EOS_Progressed": 256,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -61,6 +61,11 @@
     {
       "Time": "2023-05-20T11:06:10.3776118+00:00",
       "NumProgressed": 255,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T16:05:42.8038274+00:00",
+      "NumProgressed": 256,
       "NumCompleted": 0
     }
   ],
@@ -97,15 +102,15 @@
       "Name": "Isenburg\u0027s fall",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "chapter2",
       "SetID": "5bkacmp",
       "Name": "Aboard the Sea Bird",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 77
     },
     {
       "ID": "chapter3",
@@ -335,9 +340,9 @@
       "ID": "theNovice",
       "SetID": "5bkacmp",
       "Name": "A gift horse",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 59
     },
     {
       "ID": "thePirate",
@@ -353,15 +358,15 @@
       "Name": "Elephant in the room",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "theRanger",
       "SetID": "5bkacmp",
       "Name": "Caged tiger",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 156
     },
     {
       "ID": "theUnionLeader",
@@ -369,7 +374,7 @@
       "Name": "Gorilla warfare",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "trialByCombat",
@@ -400,7 +405,7 @@
     {
       "ID": "5bkacmp",
       "IsBase": true,
-      "Progressed": 255,
+      "Progressed": 256,
       "Completed": 0
     }
   ],
@@ -408,8 +413,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2023-05-21T15:06:29.9844609+00:00",
+  "LastChanged_Achievements": "2023-05-21T16:05:42.8038266+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:46.489951+00:00",
-  "LastUpdate_Ratings": "2023-05-21T15:00:57.2047751+00:00",
-  "LastUpdate_Achievements": "2023-05-21T15:06:29.9844939+00:00"
+  "LastUpdate_Ratings": "2023-05-21T15:59:59.3855431+00:00",
+  "LastUpdate_Achievements": "2023-05-21T16:05:42.8038579+00:00"
 }
