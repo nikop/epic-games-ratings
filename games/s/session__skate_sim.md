@@ -20,11 +20,11 @@ Number of Ratings: 111  (23.09.2022)
 | Good vibes | 7.00% | ~141 |
 | Fashionista | 6.00% | ~121 |
 | Finally he zips it | 6.00% | ~121 |
+| G'Day Mate! | 6.00% | ~121 |
 | That pinch! | 6.00% | ~121 |
 | Tight lipslides | 6.00% | ~121 |
 | Bottom ply killer | 5.00% | ~101 |
 | Fulfilled the dream | 5.00% | ~101 |
-| G'Day Mate! | 5.00% | ~101 |
 | Globetrotter | 5.00% | ~101 |
 | NAHELL! | 5.00% | ~101 |
 | Purple passion | 5.00% | ~101 |

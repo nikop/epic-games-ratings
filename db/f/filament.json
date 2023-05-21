@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 48,
   "Ranking_EOS_Completed": 136,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -195,10 +195,10 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 190500,
+  "EOS_Progressed": 190507,
   "EOS_Completed": 424,
-  "EOS_NewPlayers": 737,
-  "EOS_NewCompleters": 6,
+  "EOS_NewPlayers": 740,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
@@ -3140,6 +3140,11 @@
       "Time": "2023-05-21T04:05:46.5882+00:00",
       "NumProgressed": 190500,
       "NumCompleted": 424
+    },
+    {
+      "Time": "2023-05-21T05:05:29.4316301+00:00",
+      "NumProgressed": 190507,
+      "NumCompleted": 424
     }
   ],
   "TotalAchievements": 29,
@@ -3151,7 +3156,7 @@
       "Name": "No Anchor too great.",
       "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "ACHIEVEMENT_ARCHWAY",
@@ -3175,7 +3180,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 179070
+      "UsersEstimate": 179077
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -3207,7 +3212,7 @@
       "Name": "Cockpit",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "ACHIEVEMENT_COLMIX",
@@ -3247,7 +3252,7 @@
       "Name": "Names to faces.",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "ACHIEVEMENT_CRYOSLEEP",
@@ -3335,7 +3340,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 19050
+      "UsersEstimate": 19051
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -3359,7 +3364,7 @@
       "Name": "Witness it.",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "ACHIEVEMENT_WRAP",
@@ -3382,7 +3387,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 190500,
+      "Progressed": 190507,
       "Completed": 424
     }
   ],
@@ -3390,8 +3395,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-05-15T09:58:34.8225055+00:00",
-  "LastChanged_Achievements": "2023-05-21T04:05:46.5881994+00:00",
+  "LastChanged_Achievements": "2023-05-21T05:05:29.4316297+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:04.3691374+00:00",
-  "LastUpdate_Ratings": "2023-05-21T03:58:53.4226506+00:00",
-  "LastUpdate_Achievements": "2023-05-21T04:05:46.5882406+00:00"
+  "LastUpdate_Ratings": "2023-05-21T04:58:39.7669867+00:00",
+  "LastUpdate_Achievements": "2023-05-21T05:05:29.4316596+00:00"
 }

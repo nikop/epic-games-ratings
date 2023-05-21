@@ -5,24 +5,24 @@ Rating: 4.24 (Ranked 790)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,261 |
+| Rigged And Ready | 80.00% | ~1,262 |
 | Don't I Know You...? | 77.00% | ~1,214 |
-| Jailbreak | 66.00% | ~1,040 |
+| Jailbreak | 66.00% | ~1,041 |
 | Suited and Booted | 38.00% | ~599 |
 | HEADSHOT! | 37.00% | ~583 |
 | Sleeping With The Fishes | 35.00% | ~552 |
 | Overheated | 30.00% | ~473 |
 | High Performance | 30.00% | ~473 |
-| Powered Up | 28.00% | ~441 |
+| Powered Up | 28.00% | ~442 |
 | Studied The Blade | 25.00% | ~394 |
-| Home Invasion | 23.00% | ~362 |
+| Home Invasion | 23.00% | ~363 |
 | Luminary | 22.00% | ~347 |
 | It's a Trap | 22.00% | ~347 |
 | True Survivor | 21.00% | ~331 |
 | Shocking | 20.00% | ~315 |
 | Unforeseeable Consequences | 20.00% | ~315 |
-| Court Martial | 19.00% | ~299 |
-| Offensive Defense | 19.00% | ~299 |
+| Court Martial | 19.00% | ~300 |
+| Offensive Defense | 19.00% | ~300 |
 | Dead Again | 18.00% | ~284 |
 | Clean Cut | 18.00% | ~284 |
 | Full Arsenal | 17.00% | ~268 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 790)
 | Swiss Army Drone | 1.00% | ~16 |
 | Three Birds With One Stone | 1.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,576 (Ranked 151)  
+Progressed: 1,577 (Ranked 151)  
 Completed: 10 (0.63%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 10 (0.63%) (Ranked 103)
 | 2023-05-18 | 1,552 | 10 |
 | 2023-05-19 | 1,566 | 10 |
 | 2023-05-20 | 1,575 | 10 |
-| 2023-05-21 | 1,576 | 10 |
+| 2023-05-21 | 1,577 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

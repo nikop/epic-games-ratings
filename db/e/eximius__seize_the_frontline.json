@@ -2,13 +2,13 @@
   "ID": "1c943de0163f4f0982f34dc0fc37dce9",
   "Name": "Eximius: Seize the Frontline",
   "ProductSlug": "eximius-seize-the-frontline",
-  "Ranking_Rating": 812,
+  "Ranking_Rating": 813,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
     "PcReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -234,9 +234,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 185600,
+  "EOS_Progressed": 185608,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1050,
+  "EOS_NewPlayers": 1051,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3174,6 +3174,11 @@
       "Time": "2023-05-21T04:05:55.4868223+00:00",
       "NumProgressed": 185600,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-21T05:05:36.9213484+00:00",
+      "NumProgressed": 185608,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -3185,7 +3190,7 @@
       "Name": "Battlesuit Victory",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 14848
+      "UsersEstimate": 14849
     },
     {
       "ID": "ACH_COMPLETE_TUTORIAL",
@@ -3193,7 +3198,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 131776
+      "UsersEstimate": 131782
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -3217,7 +3222,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 33408
+      "UsersEstimate": 33409
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -3312,7 +3317,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 185600,
+      "Progressed": 185608,
       "Completed": 4
     }
   ],
@@ -3320,8 +3325,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-05-15T19:58:59.1456321+00:00",
-  "LastChanged_Achievements": "2023-05-21T04:05:55.4868219+00:00",
+  "LastChanged_Achievements": "2023-05-21T05:05:36.921348+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:05:12.9175208+00:00",
-  "LastUpdate_Ratings": "2023-05-21T03:59:53.6581049+00:00",
-  "LastUpdate_Achievements": "2023-05-21T04:05:55.4868514+00:00"
+  "LastUpdate_Ratings": "2023-05-21T04:59:25.8985054+00:00",
+  "LastUpdate_Achievements": "2023-05-21T05:05:36.9213701+00:00"
 }

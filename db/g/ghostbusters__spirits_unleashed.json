@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -964,10 +964,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 2078,
       "NumberOfAwardsMax": 229
+    },
+    {
+      "Time": "2023-05-21T04:58:44.2883809+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2079,
+      "NumberOfAwardsMax": 229
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2078,
+  "NumberOfAwards": 2079,
   "NumberOfAwardsMax": 229,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -999,7 +1005,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 206
+      "Count": 207
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1044,7 +1050,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 22063,
+  "EOS_Progressed": 22064,
   "EOS_Completed": 40,
   "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 1,
@@ -3239,6 +3245,11 @@
       "Time": "2023-05-21T04:06:00.9492488+00:00",
       "NumProgressed": 22063,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-05-21T05:05:41.5563295+00:00",
+      "NumProgressed": 22064,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -3250,7 +3261,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 16106
+      "UsersEstimate": 16107
     },
     {
       "ID": "Animated",
@@ -3314,7 +3325,7 @@
       "Name": "Cultured",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 11693
+      "UsersEstimate": 11694
     },
     {
       "ID": "Daily_Dose",
@@ -3362,7 +3373,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 14120
+      "UsersEstimate": 14121
     },
     {
       "ID": "Escape_Artist",
@@ -3466,7 +3477,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 5736
+      "UsersEstimate": 5737
     },
     {
       "ID": "Reckless",
@@ -3474,7 +3485,7 @@
       "Name": "Reckless",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3971
+      "UsersEstimate": 3972
     },
     {
       "ID": "Rift_Destroyer",
@@ -3554,7 +3565,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 18974
+      "UsersEstimate": 18975
     },
     {
       "ID": "Summoner",
@@ -3578,7 +3589,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 12355
+      "UsersEstimate": 12356
     },
     {
       "ID": "Teamwork",
@@ -3586,7 +3597,7 @@
       "Name": "Teamwork",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 9928
+      "UsersEstimate": 9929
     },
     {
       "ID": "Terrifying",
@@ -3657,16 +3668,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 22063,
+      "Progressed": 22064,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-05-20T18:59:13.1448143+00:00",
-  "LastChanged_Achievements": "2023-05-21T04:06:00.9492483+00:00",
+  "LastChanged": "2023-05-21T04:58:44.2883808+00:00",
+  "LastChanged_Achievements": "2023-05-21T05:05:41.5563292+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:13.3107598+00:00",
-  "LastUpdate_Ratings": "2023-05-21T03:58:58.9407345+00:00",
-  "LastUpdate_Achievements": "2023-05-21T04:06:00.9493116+00:00"
+  "LastUpdate_Ratings": "2023-05-21T04:58:44.2883812+00:00",
+  "LastUpdate_Achievements": "2023-05-21T05:05:41.5563734+00:00"
 }

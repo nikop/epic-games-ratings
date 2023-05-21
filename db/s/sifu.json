@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 65,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4140,10 +4140,10 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 704097,
+  "EOS_Progressed": 704119,
   "EOS_Completed": 12732,
-  "EOS_NewPlayers": 1199,
-  "EOS_NewCompleters": 7,
+  "EOS_NewPlayers": 1221,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
     {
@@ -6560,6 +6560,11 @@
       "Time": "2023-05-21T04:06:03.440471+00:00",
       "NumProgressed": 704097,
       "NumCompleted": 12732
+    },
+    {
+      "Time": "2023-05-21T05:05:43.6454918+00:00",
+      "NumProgressed": 704119,
+      "NumCompleted": 12732
     }
   ],
   "TotalAchievements": 50,
@@ -6585,9 +6590,9 @@
       "ID": "03_Vengeance_H2",
       "SetID": "adcm20g",
       "Name": "The Hateful Pole Fighter",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 5633
+      "UsersEstimate": 6337
     },
     {
       "ID": "04_Vengeance_H3",
@@ -6731,7 +6736,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3520
+      "UsersEstimate": 3521
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -6763,7 +6768,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3520
+      "UsersEstimate": 3521
     },
     {
       "ID": "26_ShrineSpirit",
@@ -6907,7 +6912,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -6915,7 +6920,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -6939,7 +6944,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -6970,21 +6975,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 13398,
+      "Progressed": 13420,
       "Completed": 10135
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 704097,
+      "Progressed": 704119,
       "Completed": 12732
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-21T02:05:11.0148373+00:00",
-  "LastChanged_Achievements": "2023-05-21T04:06:03.4404706+00:00",
+  "LastChanged_Achievements": "2023-05-21T05:05:43.6454914+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.7579865+00:00",
-  "LastUpdate_Ratings": "2023-05-21T03:59:05.7670385+00:00",
-  "LastUpdate_Achievements": "2023-05-21T04:06:03.4405299+00:00"
+  "LastUpdate_Ratings": "2023-05-21T04:58:49.928422+00:00",
+  "LastUpdate_Achievements": "2023-05-21T05:05:43.6455356+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 96,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6392,
+  "EOS_Progressed": 6393,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -998,6 +998,11 @@
       "Time": "2023-05-20T22:05:52.8849299+00:00",
       "NumProgressed": 6392,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-21T05:05:30.9260366+00:00",
+      "NumProgressed": 6393,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 27,
@@ -1081,7 +1086,7 @@
       "Name": "Knowledge Seeker",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "AK_KNOWLEDGE_SHARED",
@@ -1089,7 +1094,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -1137,7 +1142,7 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "AK_SEEKERS_FOUND",
@@ -1177,7 +1182,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2173
+      "UsersEstimate": 2174
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -1217,22 +1222,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6392,
+      "Progressed": 6393,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-05-21T04:05:48.167916+00:00",
+  "LastChanged_Achievements": "2023-05-21T05:05:30.9260362+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:58.1571519+00:00",
-  "LastUpdate_Ratings": "2023-05-21T03:57:28.0836976+00:00",
-  "LastUpdate_Achievements": "2023-05-21T04:05:48.1679399+00:00"
+  "LastUpdate_Ratings": "2023-05-21T04:57:31.6716201+00:00",
+  "LastUpdate_Achievements": "2023-05-21T05:05:30.9260538+00:00"
 }

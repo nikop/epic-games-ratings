@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -290,9 +290,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7956,
+  "EOS_Progressed": 7962,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 342,
+  "EOS_NewPlayers": 347,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1870,6 +1870,11 @@
       "Time": "2023-05-21T04:06:14.317944+00:00",
       "NumProgressed": 7956,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-05-21T05:05:53.2721938+00:00",
+      "NumProgressed": 7962,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 35,
@@ -1881,7 +1886,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6365
+      "UsersEstimate": 6370
     },
     {
       "ID": "ACH02",
@@ -1889,7 +1894,7 @@
       "Name": "With Extra Dip",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ACH03",
@@ -1897,7 +1902,7 @@
       "Name": "The End of the Line",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ACH04",
@@ -1929,7 +1934,7 @@
       "Name": "The American Dream",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "ACH08",
@@ -1937,7 +1942,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3819
+      "UsersEstimate": 3822
     },
     {
       "ID": "ACH09",
@@ -1959,9 +1964,9 @@
       "ID": "ACH11",
       "SetID": "4ck5mbe",
       "Name": "Liberty City State of Mind",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 636
+      "UsersEstimate": 557
     },
     {
       "ID": "ACH12",
@@ -1977,7 +1982,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "ACH14",
@@ -1985,7 +1990,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "ACH15",
@@ -2001,7 +2006,7 @@
       "Name": "Smooth Moves",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1193
+      "UsersEstimate": 1194
     },
     {
       "ID": "ACH17",
@@ -2057,7 +2062,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1750
+      "UsersEstimate": 1752
     },
     {
       "ID": "ACH24",
@@ -2097,7 +2102,7 @@
       "Name": "Original Gangster",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ACH29",
@@ -2105,7 +2110,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 13,
       "XP": 45,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "ACH30",
@@ -2160,7 +2165,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 7956,
+      "Progressed": 7962,
       "Completed": 17
     }
   ],
@@ -2168,8 +2173,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-05-21T03:01:02.6768255+00:00",
-  "LastChanged_Achievements": "2023-05-21T04:06:14.3179434+00:00",
+  "LastChanged_Achievements": "2023-05-21T05:05:53.2721935+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:19.5303152+00:00",
-  "LastUpdate_Ratings": "2023-05-21T04:00:27.0428409+00:00",
-  "LastUpdate_Achievements": "2023-05-21T04:06:14.3179799+00:00"
+  "LastUpdate_Ratings": "2023-05-21T04:59:51.9108743+00:00",
+  "LastUpdate_Achievements": "2023-05-21T05:05:53.272221+00:00"
 }

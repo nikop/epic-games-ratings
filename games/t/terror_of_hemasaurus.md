@@ -16,7 +16,7 @@
 | Horror Show | 18.00% | ~8 |
 | Brain Chopper | 16.00% | ~7 |
 | Night Bird | 14.00% | ~6 |
-| Demolition Ambition | 9.00% | ~4 |
+| Demolition Ambition | 11.00% | ~5 |
 | Hindenburgerer | 7.00% | ~3 |
 | Punchy Wagon | 7.00% | ~3 |
 | Kill All Humans! | 7.00% | ~3 |

@@ -11,11 +11,11 @@ Number of Ratings: 87  (23.09.2022)
 | Individual delivery | 5.00% | ~36 |
 | Juggler | 5.00% | ~36 |
 | To the eyeballs! | 5.00% | ~36 |
+| Forgot something | 4.00% | ~28 |
 | Mega-railroad | 4.00% | ~28 |
 | Builder | 3.00% | ~21 |
 | Close call! | 3.00% | ~21 |
 | Common cause | 3.00% | ~21 |
-| Forgot something | 3.00% | ~21 |
 | Get out my way | 3.00% | ~21 |
 | Just in time! | 3.00% | ~21 |
 | Miner | 3.00% | ~2 |
@@ -30,6 +30,7 @@ Number of Ratings: 87  (23.09.2022)
 | Beginner | 2.00% | ~14 |
 | Bridgemania | 2.00% | ~14 |
 | Critical care | 2.00% | ~14 |
+| Jewelry accuracy | 2.00% | ~14 |
 | One way | 2.00% | ~14 |
 | Overseer | 2.00% | ~14 |
 | The Tortoise | 2.00% | ~14 |
@@ -40,7 +41,6 @@ Number of Ratings: 87  (23.09.2022)
 | Environmental activist | 1.00% | ~7 |
 | Globalisation Age | 1.00% | ~7 |
 | Industrial Age | 1.00% | ~7 |
-| Jewelry accuracy | 1.00% | ~7 |
 | Large construction | 1.00% | ~7 |
 | Living it large | 1.00% | ~7 |
 | Lucky vandal | 1.00% | ~7 |

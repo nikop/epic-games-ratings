@@ -2,7 +2,7 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 812,
+  "Ranking_Rating": 813,
   "Ranking_Popularity": 301,
   "Ranking_PopularitySum": 251,
   "Ranking_EOS_Progress": 102,
@@ -1239,9 +1239,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 12850,
+  "EOS_Progressed": 12852,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 793,
+  "EOS_NewPlayers": 791,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -4129,6 +4129,11 @@
       "Time": "2023-05-21T04:06:04.4762329+00:00",
       "NumProgressed": 12850,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-21T05:05:44.6911814+00:00",
+      "NumProgressed": 12852,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 22,
@@ -4140,7 +4145,7 @@
       "Name": "War of the Five Kings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "1016",
@@ -4180,7 +4185,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "1021",
@@ -4212,7 +4217,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "1025",
@@ -4252,7 +4257,7 @@
       "Name": "Alliance",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "1030",
@@ -4276,7 +4281,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 5140
+      "UsersEstimate": 5141
     },
     {
       "ID": "1033",
@@ -4315,15 +4320,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 12850,
+      "Progressed": 12852,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-05-07T09:02:24.8496722+00:00",
-  "LastChanged_Achievements": "2023-05-21T04:06:04.4762324+00:00",
+  "LastChanged_Achievements": "2023-05-21T05:05:44.6911811+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:02.1359414+00:00",
-  "LastUpdate_Ratings": "2023-05-21T04:00:23.7660007+00:00",
-  "LastUpdate_Achievements": "2023-05-21T04:06:04.476272+00:00"
+  "LastUpdate_Ratings": "2023-05-21T04:59:49.464552+00:00",
+  "LastUpdate_Achievements": "2023-05-21T05:05:44.6912055+00:00"
 }
