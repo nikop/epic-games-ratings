@@ -17,7 +17,7 @@
 | 13 | [Firework](games/f/firework.md) | 4.89 | 0 | 491 |
 | 13 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 141,979 | 6 |
 | 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 407 | 198 |
-| 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 15,284 | 20 |
+| 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 15,307 | 20 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 129 | 295 |
 | 19 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 251 | 239 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 3,993 | 74 |
@@ -706,30 +706,30 @@
 | 703 | [Core](games/c/core.md) | 4.37 | 732 | 153 |
 | 703 | [Democracy 4](games/d/democracy_4.md) | 4.37 | 0 | 491 |
 | 703 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 4.37 | 2,132 | 101 |
-| 703 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.37 | 0 | 491 |
 | 703 | [Lamentum](games/l/lamentum.md) | 4.37 | 0 | 491 |
 | 703 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 4.37 | 47 | 394 |
 | 703 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.37 | 89 | 337 |
-| 711 | [Among Trees](games/a/among_trees.md) | 4.36 | 0 | 491 |
-| 711 | [Beyond Blue](games/b/beyond_blue.md) | 4.36 | 0 | 491 |
-| 711 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 170 | 274 |
-| 711 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.36 | 0 | 491 |
-| 711 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,401 | 27 |
-| 711 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.36 | 0 | 491 |
-| 711 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 491 |
-| 711 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 464 |
-| 711 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 0 | 491 |
-| 711 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 491 |
-| 721 | [Against All Odds](games/a/against_all_odds.md) | 4.35 | 0 | 491 |
-| 721 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 491 |
-| 721 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 91 | 335 |
-| 721 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.35 | 51 | 384 |
-| 721 | [Encased](games/e/encased.md) | 4.35 | 126 | 299 |
-| 721 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 201 | 258 |
-| 721 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 0 | 491 |
-| 721 | [Paladins](games/p/paladins.md) | 4.35 | 3,234 | 83 |
-| 721 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.35 | 71 | 362 |
-| 721 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.35 | 38 | 413 |
+| 710 | [Among Trees](games/a/among_trees.md) | 4.36 | 0 | 491 |
+| 710 | [Beyond Blue](games/b/beyond_blue.md) | 4.36 | 0 | 491 |
+| 710 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 170 | 274 |
+| 710 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.36 | 0 | 491 |
+| 710 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,401 | 27 |
+| 710 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.36 | 0 | 491 |
+| 710 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 491 |
+| 710 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 464 |
+| 710 | [Tom Clancy's Splinter Cell](games/t/tom_clancy's_splinter_cell.md) | 4.36 | 0 | 491 |
+| 710 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 491 |
+| 720 | [Against All Odds](games/a/against_all_odds.md) | 4.35 | 0 | 491 |
+| 720 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 491 |
+| 720 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 91 | 335 |
+| 720 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.35 | 51 | 384 |
+| 720 | [Encased](games/e/encased.md) | 4.35 | 126 | 299 |
+| 720 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 201 | 258 |
+| 720 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.35 | 0 | 491 |
+| 720 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 0 | 491 |
+| 720 | [Paladins](games/p/paladins.md) | 4.35 | 3,237 | 83 |
+| 720 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.35 | 71 | 362 |
+| 720 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.35 | 38 | 413 |
 | 731 | [Ashen](games/a/ashen.md) | 4.34 | 0 | 491 |
 | 731 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 455 |
 | 731 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.34 | 0 | 491 |
@@ -899,7 +899,7 @@
 | 897 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 401 |
 | 898 | [Patron](games/p/patron.md) | 3.94 | 0 | 491 |
 | 899 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 29 | 449 |
-| 899 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 278 | 228 |
+| 899 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 279 | 227 |
 | 899 | [Ironcast](games/i/ironcast.md) | 3.93 | 0 | 491 |
 | 899 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 0 | 491 |
 | 903 | [Conarium](games/c/conarium.md) | 3.92 | 0 | 491 |
@@ -922,6 +922,6 @@
 | 918 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 0 | 491 |
 | 921 | [Blood of Steel](games/b/blood_of_steel.md) | 3.73 | 0 | 491 |
 | 922 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 3.72 | 0 | 491 |
-| 923 | [Redfall](games/r/redfall.md) | 3.42 | 0 | 491 |
-| 924 | [Adios](games/a/adios.md) | 3.41 | 0 | 491 |
+| 923 | [Adios](games/a/adios.md) | 3.41 | 0 | 491 |
+| 924 | [Redfall](games/r/redfall.md) | 3.40 | 0 | 491 |
 | 925 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.36 | 0 | 491 |
