@@ -18,19 +18,19 @@
 | 16 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.18% |
 | 18 | [Time Loader](games/t/time_loader.md) | 8.08% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.86% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.71% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.85% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.70% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
-| 22 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.41% |
-| 23 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 7.14% |
-| 24 | [Scorn](games/s/scorn.md) | 6.99% |
-| 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 6.39% |
+| 22 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.14% |
+| 22 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 7.14% |
+| 24 | [Scorn](games/s/scorn.md) | 6.98% |
+| 25 | [Ravenlok](games/r/ravenlok.md) | 6.64% |
+| 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
 | 28 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.73% |
-| 29 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.97% |
-| 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.93% |
-| 31 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 4.67% |
+| 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.07% |
+| 30 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.97% |
+| 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.93% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 33 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.55% |
 | 34 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.46% |
@@ -38,7 +38,7 @@
 | 36 | [Doodle God](games/d/doodle_god.md) | 3.90% |
 | 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
 | 38 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
-| 39 | [The Complex](games/t/the_complex.md) | 3.52% |
+| 39 | [The Complex](games/t/the_complex.md) | 3.51% |
 | 40 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.39% |
 | 41 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.33% |
 | 42 | [The Bunker](games/t/the_bunker.md) | 3.30% |
@@ -134,15 +134,15 @@
 | 132 | [Dead Island 2](games/d/dead_island_2.md) | 0.26% |
 | 133 | [Circus Electrique](games/c/circus_electrique.md) | 0.25% |
 | 133 | [Wildermyth](games/w/wildermyth.md) | 0.25% |
-| 135 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.23% |
-| 136 | [Blanc](games/b/blanc.md) | 0.22% |
-| 136 | [Filament](games/f/filament.md) | 0.22% |
-| 136 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
+| 135 | [Blanc](games/b/blanc.md) | 0.22% |
+| 135 | [Filament](games/f/filament.md) | 0.22% |
+| 135 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
+| 135 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.22% |
 | 139 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
 | 139 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.21% |
 | 141 | [Against the Storm](games/a/against_the_storm.md) | 0.20% |
 | 141 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
-| 141 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.20% |
+| 143 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.19% |
 | 144 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.18% |
 | 145 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.17% |
 | 146 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
