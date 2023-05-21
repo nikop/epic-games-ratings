@@ -11,6 +11,7 @@
 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 2023-05-23 | 2023-05-23 |
 | [Skeletal Avengers](games/d/d2dcfb91f59d4880b8a5e6fe2aa64a7e.md) | 2023-05-24 | 2021-09-28 |
 | [Tuk Tuk Race](games/t/tuk_tuk_race.md) | 2023-05-25 | 2023-05-25 |
+| [World of Contraptions](games/w/world_of_contraptions.md) | 2023-05-25 | 2022-03-24 |
 | [Puzzle Compound](games/d/dc0f95061f7746e3b4ad939bee60f1a3.md) | 2023-05-25 | 2023-05-25 |
 | [Tennis Manager 2023](games/t/tennis_manager_2023.md) | 2023-05-25 | 2023-05-25 |
 | [Hello Goodboy](games/h/hello_goodboy.md) | 2023-05-25 | 2023-05-25 |
@@ -21,6 +22,7 @@
 | [Doors - Paradox](games/8/88c17fed155e43068c338d33d1bcd481.md) | 2023-05-26 | 2022-11-03 |
 | [Gardenia](games/g/gardenia.md) | 2023-05-26 | 2023-05-26 |
 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 2023-05-26 | 2023-05-26 |
+| [Tracks of Triumph: Summertime](games/c/cd2b2654ac2c42be8cd9e51ea4e2df47.md) | 2023-05-27 | 2023-05-27 |
 | [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 2023-05-28 | 2023-05-28 |
 | [Everdream Valley](games/e/everdream_valley.md) | 2023-05-29 | 2023-05-29 |
 | [Shame Legacy](games/s/shame_legacy.md) | 2023-05-30 | 2023-05-30 |
@@ -344,7 +346,6 @@
 | [Wayfinder](games/w/wayfinder.md) | 2099-01-01 | 2099-01-01 |
 | [Witchfire](games/w/witchfire.md) | 2099-01-01 | 2099-01-01 |
 | [Wolfsbane](games/w/wolfsbane.md) | 2099-01-01 | 2099-01-01 |
-| [World of Contraptions](games/w/world_of_contraptions.md) | 2099-01-01 | 2022-03-24 |
 | [XENOTILT: HOSTILE PINBALL ACTION](games/x/xenotilt__hostile_pinball_action.md) | 2099-01-01 | 2099-01-01 |
 | [Zorans: Resistance (Closed Alpha)](games/z/zorans__resistance_(closed_alpha).md) | 2099-01-01 | 2099-01-01 |
 | [ΔV: Rings of Saturn](games/δ/δv__rings_of_saturn.md) | 2099-01-01 | 2019-08-12 |

@@ -7,7 +7,7 @@
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 21.21% |
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.55% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 8 | [Island Cities](games/i/island_cities.md) | 16.00% |
+| 8 | [Island Cities](games/i/island_cities.md) | 15.50% |
 | 9 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
 | 9 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.50% |
 | 11 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.05% |
@@ -18,23 +18,23 @@
 | 15 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.18% |
 | 18 | [Time Loader](games/t/time_loader.md) | 8.08% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.84% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.81% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.83% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.80% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
 | 22 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.14% |
 | 22 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 7.14% |
 | 24 | [Scorn](games/s/scorn.md) | 6.98% |
-| 25 | [Ravenlok](games/r/ravenlok.md) | 6.58% |
+| 25 | [Ravenlok](games/r/ravenlok.md) | 6.57% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
-| 28 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.70% |
+| 28 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.64% |
 | 29 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.97% |
-| 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.93% |
-| 31 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 4.91% |
+| 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.92% |
+| 31 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 4.85% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 33 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.55% |
 | 34 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.46% |
-| 35 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.04% |
+| 35 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.03% |
 | 36 | [Doodle God](games/d/doodle_god.md) | 3.90% |
 | 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
 | 38 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
@@ -51,7 +51,7 @@
 | 49 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.90% |
 | 50 | [Destiny 2](games/d/destiny_2.md) | 2.89% |
 | 51 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
-| 52 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.78% |
+| 52 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.74% |
 | 53 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 54 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.60% |
 | 54 | [FORECLOSED](games/f/foreclosed.md) | 2.60% |
@@ -82,8 +82,8 @@
 | 80 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.23% |
 | 81 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.20% |
 | 81 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.20% |
-| 83 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
-| 84 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.15% |
+| 83 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.15% |
+| 83 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.15% |
 | 85 | [Late Shift](games/l/late_shift.md) | 1.14% |
 | 86 | [Sable](games/s/sable.md) | 0.94% |
 | 87 | [Dungeons 3](games/d/dungeons_3.md) | 0.90% |
@@ -408,4 +408,4 @@
 | 201 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 201 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 201 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,638 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,639 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
