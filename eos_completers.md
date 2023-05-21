@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 50.00% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 35.71% |
+| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.86% |
 | 3 | [Overloop](games/o/overloop.md) | 25.00% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 24.32% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 21.21% |
@@ -18,13 +18,13 @@
 | 16 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.18% |
 | 18 | [Time Loader](games/t/time_loader.md) | 8.08% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.85% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.84% |
 | 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.81% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
 | 22 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.14% |
 | 22 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 7.14% |
 | 24 | [Scorn](games/s/scorn.md) | 6.98% |
-| 25 | [Ravenlok](games/r/ravenlok.md) | 6.62% |
+| 25 | [Ravenlok](games/r/ravenlok.md) | 6.61% |
 | 26 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
 | 28 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.70% |
@@ -42,7 +42,7 @@
 | 40 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.39% |
 | 41 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.33% |
 | 42 | [The Bunker](games/t/the_bunker.md) | 3.30% |
-| 43 | [ZZT!](games/z/zzt!.md) | 3.20% |
+| 43 | [ZZT!](games/z/zzt!.md) | 3.19% |
 | 44 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
 | 45 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.11% |
 | 46 | [HordeCore](games/h/hordecore.md) | 3.03% |
@@ -51,7 +51,7 @@
 | 49 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.90% |
 | 50 | [Destiny 2](games/d/destiny_2.md) | 2.89% |
 | 51 | [Bunny Park](games/b/bunny_park.md) | 2.87% |
-| 52 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.82% |
+| 52 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.78% |
 | 53 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 54 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.60% |
 | 54 | [FORECLOSED](games/f/foreclosed.md) | 2.60% |
@@ -174,13 +174,13 @@
 | 170 | [Shop Titans](games/s/shop_titans.md) | 0.06% |
 | 170 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
 | 174 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
-| 174 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
 | 174 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.05% |
 | 174 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.05% |
-| 178 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
-| 178 | [High On Life](games/h/high_on_life.md) | 0.04% |
-| 178 | [House Party](games/h/house_party.md) | 0.04% |
-| 178 | [Outward Definitive Edition](games/o/outward.md) | 0.04% |
+| 177 | [Absolute Drift](games/a/absolute_drift.md) | 0.04% |
+| 177 | [DEATH STRANDING](games/d/death_stranding.md) | 0.04% |
+| 177 | [High On Life](games/h/high_on_life.md) | 0.04% |
+| 177 | [House Party](games/h/house_party.md) | 0.04% |
+| 177 | [Outward Definitive Edition](games/o/outward.md) | 0.04% |
 | 182 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 182 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.03% |
 | 182 | [Old World](games/o/old_world.md) | 0.03% |
@@ -297,6 +297,7 @@
 | 201 | [Kabaret](games/k/kabaret.md) | 0.00% |
 | 201 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 0.00% |
 | 201 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 0.00% |
+| 201 | [Lichenvale](games/l/lichenvale.md) | 0.00% |
 | 201 | [Lifeslide](games/l/lifeslide.md) | 0.00% |
 | 201 | [LOOPMANCER](games/l/loopmancer.md) | 0.00% |
 | 201 | [Loretta](games/l/loretta.md) | 0.00% |
