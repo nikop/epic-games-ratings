@@ -3168,9 +3168,9 @@
       "Count": 261
     }
   ],
-  "EOS_Progressed": 123540,
+  "EOS_Progressed": 123555,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 3348,
+  "EOS_NewPlayers": 3337,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6158,6 +6158,11 @@
       "Time": "2023-05-21T07:00:57.6181902+00:00",
       "NumProgressed": 123540,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-21T08:00:48.1559985+00:00",
+      "NumProgressed": 123555,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -6185,7 +6190,7 @@
       "Name": "Don\u0027t Put Me In The Dark",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 3706
+      "UsersEstimate": 3707
     },
     {
       "ID": "Achievement_11",
@@ -6201,7 +6206,7 @@
       "Name": "Get Busy Living",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 21002
+      "UsersEstimate": 21004
     },
     {
       "ID": "Achievement_13",
@@ -6249,7 +6254,7 @@
       "Name": "Stone Walls",
       "Percentage": 26,
       "XP": 40,
-      "UsersEstimate": 32120
+      "UsersEstimate": 32124
     },
     {
       "ID": "Achievement_5",
@@ -6257,7 +6262,7 @@
       "Name": "Iron Bars",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 3706
+      "UsersEstimate": 3707
     },
     {
       "ID": "Achievement_6",
@@ -6273,7 +6278,7 @@
       "Name": "D.B. Cooper",
       "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 1235
+      "UsersEstimate": 1236
     },
     {
       "ID": "Achievement_8",
@@ -6281,7 +6286,7 @@
       "Name": "Samuel Norton",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 12354
+      "UsersEstimate": 12356
     },
     {
       "ID": "Achievement_9",
@@ -6289,22 +6294,22 @@
       "Name": "Spare The Rod",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 6177
+      "UsersEstimate": 6178
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 123540,
+      "Progressed": 123555,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-05-20T14:58:38.2254537+00:00",
-  "LastChanged_Achievements": "2023-05-21T07:00:57.6181896+00:00",
+  "LastChanged_Achievements": "2023-05-21T08:00:48.1559979+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.4720821+00:00",
-  "LastUpdate_Ratings": "2023-05-21T06:58:23.429318+00:00",
-  "LastUpdate_Achievements": "2023-05-21T07:00:57.6182511+00:00"
+  "LastUpdate_Ratings": "2023-05-21T07:58:16.0111669+00:00",
+  "LastUpdate_Achievements": "2023-05-21T08:00:48.156035+00:00"
 }

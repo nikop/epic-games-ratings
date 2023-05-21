@@ -6,24 +6,24 @@
 | ---- | ---------- | ----- |
 | Too Cool For School | 85.00% | ~100 |
 | Caretaker | 82.00% | ~97 |
-| Feng Shui | 71.00% | ~84 |
+| Feng Shui | 72.00% | ~85 |
 | Who's A Good Boy | 69.00% | ~81 |
-| Power Up | 68.00% | ~80 |
-| Thick Skin | 66.00% | ~78 |
-| Math Wizard | 61.00% | ~72 |
-| Power Overload | 61.00% | ~72 |
-| Destroy Erase Improve | 60.00% | ~71 |
-| Quite A Snack | 56.00% | ~66 |
-| Overwhelming Power | 52.00% | ~61 |
+| Power Up | 69.00% | ~81 |
+| Thick Skin | 67.00% | ~79 |
+| Math Wizard | 63.00% | ~74 |
+| Power Overload | 63.00% | ~74 |
+| Destroy Erase Improve | 62.00% | ~73 |
+| Quite A Snack | 58.00% | ~68 |
+| Overwhelming Power | 53.00% | ~63 |
 | Impenetrable Skin | 49.00% | ~58 |
-| Chomp Chomp! | 40.00% | ~47 |
-| Glorious Battle | 37.00% | ~44 |
-| Diaper Time! | 37.00% | ~44 |
+| Chomp Chomp! | 41.00% | ~48 |
+| Glorious Battle | 39.00% | ~46 |
+| Diaper Time! | 38.00% | ~45 |
+| The Duelist | 36.00% | ~42 |
+| Mutant And Proud | 36.00% | ~42 |
 | Supreme Power | 36.00% | ~42 |
 | Target Practice | 36.00% | ~42 |
-| The Duelist | 35.00% | ~41 |
 | Meat Larder | 35.00% | ~41 |
-| Mutant And Proud | 34.00% | ~40 |
 | Happy Little Home | 29.00% | ~34 |
 | The Emperor's New Clothes | 28.00% | ~33 |
 | Final Evolution | 28.00% | ~33 |

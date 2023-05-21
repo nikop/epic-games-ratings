@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breaking Free | 25.00% | ~2 |
+| Breaking Free | 38.00% | ~3 |
 | Crystal Hunter | 13.00% | ~1 |
 | Overcoming Weakness | 13.00% | ~1 |
 | Fence-Sitter | 13.00% | ~1 |

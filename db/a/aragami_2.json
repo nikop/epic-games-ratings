@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 108,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 32831,
+  "EOS_Progressed": 32832,
   "EOS_Completed": 156,
-  "EOS_NewPlayers": 479,
+  "EOS_NewPlayers": 476,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -2772,6 +2772,11 @@
       "Time": "2023-05-21T07:05:41.36896+00:00",
       "NumProgressed": 32831,
       "NumCompleted": 156
+    },
+    {
+      "Time": "2023-05-21T08:05:20.1011819+00:00",
+      "NumProgressed": 32832,
+      "NumCompleted": 156
     }
   ],
   "TotalAchievements": 44,
@@ -2791,7 +2796,7 @@
       "Name": "Lady",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 9849
+      "UsersEstimate": 9850
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -2823,7 +2828,7 @@
       "Name": "Ruse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 3611
+      "UsersEstimate": 3612
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -2847,7 +2852,7 @@
       "Name": "Denouement",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 2626
+      "UsersEstimate": 2627
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -2903,7 +2908,7 @@
       "Name": "First Steps",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 26593
+      "UsersEstimate": 26594
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -2927,7 +2932,7 @@
       "Name": "Get Over Here",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2626
+      "UsersEstimate": 2627
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -2951,7 +2956,7 @@
       "Name": "The Hidden Village",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 2626
+      "UsersEstimate": 2627
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -2975,7 +2980,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 12147
+      "UsersEstimate": 12148
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -2999,7 +3004,7 @@
       "Name": "Apex Predator",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 7879
+      "UsersEstimate": 7880
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -3007,7 +3012,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 18385
+      "UsersEstimate": 18386
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -3031,7 +3036,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 8864
+      "UsersEstimate": 8865
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -3039,7 +3044,7 @@
       "Name": "A Pleasant Stay",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 2626
+      "UsersEstimate": 2627
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -3055,7 +3060,7 @@
       "Name": "Control the Shadows",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 22325
+      "UsersEstimate": 22326
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -3134,7 +3139,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 32831,
+      "Progressed": 32832,
       "Completed": 156
     }
   ],
@@ -3142,8 +3147,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-03-31T05:58:07.8538504+00:00",
-  "LastChanged_Achievements": "2023-05-21T07:05:41.3689595+00:00",
+  "LastChanged_Achievements": "2023-05-21T08:05:20.1011816+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:57.7696392+00:00",
-  "LastUpdate_Ratings": "2023-05-21T06:58:20.7183412+00:00",
-  "LastUpdate_Achievements": "2023-05-21T07:05:41.3690047+00:00"
+  "LastUpdate_Ratings": "2023-05-21T07:58:13.1802703+00:00",
+  "LastUpdate_Achievements": "2023-05-21T08:05:20.1012277+00:00"
 }

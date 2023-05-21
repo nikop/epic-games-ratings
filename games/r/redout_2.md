@@ -5,12 +5,12 @@ Rating: 4.45 (Ranked 609)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie No More | 26.00% | ~253 |
-| Increasing your Power Level | 26.00% | ~253 |
+| Rookie No More | 26.00% | ~254 |
+| Increasing your Power Level | 26.00% | ~254 |
 | Enter the Speed Gauntlet | 24.00% | ~234 |
 | I just can't choose | 24.00% | ~234 |
 | A Cheese Grater to the Face | 19.00% | ~185 |
-| Put it on a shelf | 18.00% | ~175 |
+| Put it on a shelf | 18.00% | ~176 |
 | It's like an haircut | 17.00% | ~166 |
 | Suit up | 16.00% | ~156 |
 | Walked like an Egyptian | 15.00% | ~146 |
@@ -41,11 +41,11 @@ Rating: 4.45 (Ranked 609)
 | Had to sweat a bit | 3.00% | ~29 |
 | [Sweats profusely] | 3.00% | ~29 |
 | Healthy competition | 3.00% | ~29 |
-| S-uper! | 2.00% | ~19 |
-| This is to go, even Further Beyond! | 2.00% | ~19 |
-| Gitting Gud | 2.00% | ~19 |
-| Redout Champion | 2.00% | ~19 |
-| Great Start | 2.00% | ~19 |
+| S-uper! | 2.00% | ~20 |
+| This is to go, even Further Beyond! | 2.00% | ~20 |
+| Gitting Gud | 2.00% | ~20 |
+| Redout Champion | 2.00% | ~20 |
+| Great Start | 2.00% | ~20 |
 | Fashion Racer | 1.00% | ~10 |
 | Put a sign on it | 1.00% | ~10 |
 | Everything is better with friends | 1.00% | ~10 |
@@ -58,7 +58,7 @@ Rating: 4.45 (Ranked 609)
 | I, need, more, shelves! | 0.50% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 974 (Ranked 166)  
+Progressed: 975 (Ranked 166)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,6 +75,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-14 | 970 | 0 |
 | 2023-05-16 | 971 | 0 |
 | 2023-05-20 | 974 | 0 |
+| 2023-05-21 | 975 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

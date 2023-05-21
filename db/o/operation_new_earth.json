@@ -4,7 +4,7 @@
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2023-05-31T00:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
-  "LastChanged_Achievements": "2023-05-21T07:05:23.8522435+00:00",
+  "LastChanged_Achievements": "2023-05-21T08:05:02.4839063+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:32.9589087+00:00",
-  "LastUpdate_Ratings": "2023-05-21T07:00:29.3926372+00:00",
-  "LastUpdate_Achievements": "2023-05-21T07:05:23.8522469+00:00"
+  "LastUpdate_Ratings": "2023-05-21T08:00:19.9600372+00:00",
+  "LastUpdate_Achievements": "2023-05-21T08:05:02.4839095+00:00"
 }

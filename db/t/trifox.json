@@ -3,8 +3,8 @@
   "Name": "Trifox",
   "ProductSlug": "trifox-b361b7",
   "Ranking_EOS_Progress": 263,
-  "Ranking_EOS_Completed": 76,
-  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_Completed": 78,
+  "Ranking_EOS_NewPlayers": 280,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-10-14T16:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 79,
+  "EOS_Progressed": 80,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.27,
+  "EOS_Completed_Percentage": 1.25,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:34.1090375+00:00",
@@ -41,6 +41,11 @@
     {
       "Time": "2023-05-21T05:05:40.0173206+00:00",
       "NumProgressed": 79,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-21T08:05:41.9080721+00:00",
+      "NumProgressed": 80,
       "NumCompleted": 1
     }
   ],
@@ -131,7 +136,7 @@
       "ID": "ACH_ENEMYKILLS_SMALL",
       "SetID": "cfld5bl",
       "Name": "Get out of my way",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
       "UsersEstimate": 17
     },
@@ -139,7 +144,7 @@
       "ID": "ACH_GEMSCOLLECTED_1",
       "SetID": "cfld5bl",
       "Name": "What is this?",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
       "UsersEstimate": 56
     },
@@ -420,7 +425,7 @@
     {
       "ID": "cfld5bl",
       "IsBase": true,
-      "Progressed": 79,
+      "Progressed": 80,
       "Completed": 1
     }
   ],
@@ -428,8 +433,8 @@
   "FirstSeenRating": "2023-03-31T05:58:28.8391982+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.1090385+00:00",
   "LastChanged": "2023-03-31T05:58:28.8391984+00:00",
-  "LastChanged_Achievements": "2023-05-21T07:06:03.613977+00:00",
+  "LastChanged_Achievements": "2023-05-21T08:05:41.9080704+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:21.8454122+00:00",
-  "LastUpdate_Ratings": "2023-05-21T06:59:02.9852437+00:00",
-  "LastUpdate_Achievements": "2023-05-21T07:06:03.6140135+00:00"
+  "LastUpdate_Ratings": "2023-05-21T07:58:55.5464947+00:00",
+  "LastUpdate_Achievements": "2023-05-21T08:05:41.9081081+00:00"
 }

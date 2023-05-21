@@ -1154,9 +1154,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61478,
+  "EOS_Progressed": 61481,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 623,
+  "EOS_NewPlayers": 624,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3154,6 +3154,11 @@
       "Time": "2023-05-21T07:06:19.8487466+00:00",
       "NumProgressed": 61478,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-21T08:05:58.2003984+00:00",
+      "NumProgressed": 61481,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3387,9 +3392,9 @@
       "ID": "FREEZE_1",
       "SetID": "4eo5ebm",
       "Name": "To the Victor Go the Spoils",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 369
     },
     {
       "ID": "FREEZE_1_5",
@@ -3411,9 +3416,9 @@
       "ID": "FREEZE_3",
       "SetID": "4eo5ebm",
       "Name": "Cooldown",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 307
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -3652,13 +3657,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61478,
+      "Progressed": 61481,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31758,
+      "Progressed": 31761,
       "Completed": 2640
     }
   ],
@@ -3666,8 +3671,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-20T13:59:13.9457948+00:00",
-  "LastChanged_Achievements": "2023-05-21T07:06:19.848746+00:00",
+  "LastChanged_Achievements": "2023-05-21T08:05:58.2003978+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-21T06:59:45.9551032+00:00",
-  "LastUpdate_Achievements": "2023-05-21T07:06:19.8488277+00:00"
+  "LastUpdate_Ratings": "2023-05-21T07:59:37.7064078+00:00",
+  "LastUpdate_Achievements": "2023-05-21T08:05:58.2004671+00:00"
 }

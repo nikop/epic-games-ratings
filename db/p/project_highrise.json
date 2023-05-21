@@ -665,9 +665,9 @@
       "ID": "ach_retail_1",
       "SetID": "b8gh1fi",
       "Name": "Retail Revenue",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_retail_2",
@@ -834,8 +834,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-05-21T07:06:15.2613889+00:00",
+  "LastChanged_Achievements": "2023-05-21T08:05:53.8870143+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:39.3542327+00:00",
-  "LastUpdate_Ratings": "2023-05-21T06:58:01.5934629+00:00",
-  "LastUpdate_Achievements": "2023-05-21T07:06:15.2614707+00:00"
+  "LastUpdate_Ratings": "2023-05-21T07:57:54.0357396+00:00",
+  "LastUpdate_Achievements": "2023-05-21T08:05:53.8871156+00:00"
 }

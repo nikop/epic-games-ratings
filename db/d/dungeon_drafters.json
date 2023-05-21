@@ -397,9 +397,9 @@
       "ID": "foil_card",
       "SetID": "3b8n56h",
       "Name": "Shine!",
-      "Percentage": 31,
+      "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "git_gud?",
@@ -486,8 +486,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-05-21T07:05:47.4376336+00:00",
+  "LastChanged_Achievements": "2023-05-21T08:05:26.156158+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.9763289+00:00",
-  "LastUpdate_Ratings": "2023-05-21T06:57:08.76824+00:00",
-  "LastUpdate_Achievements": "2023-05-21T07:05:47.4376637+00:00"
+  "LastUpdate_Ratings": "2023-05-21T07:57:04.0448171+00:00",
+  "LastUpdate_Achievements": "2023-05-21T08:05:26.1561887+00:00"
 }

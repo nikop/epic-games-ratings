@@ -6,60 +6,60 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~124,848 |
-| Titan's First Steps | 96.00% | ~123,561 |
-| Basic in Bulk | 91.00% | ~117,125 |
-| Tinkle of Coins | 87.00% | ~111,977 |
-| Disintermediation | 76.00% | ~97,819 |
-| Capitalism Ho! | 75.00% | ~96,532 |
-| It's Free Real Estate | 70.00% | ~90,096 |
-| Budding Merchant | 66.00% | ~84,948 |
-| Another Satisfied Customer | 61.00% | ~78,512 |
-| One Easy Payment | 60.00% | ~77,225 |
-| Own the Means of Production | 60.00% | ~77,225 |
-| Some Assembly Required | 59.00% | ~75,938 |
-| Pretty Penny | 57.00% | ~73,364 |
-| One-Armed Bandit | 50.00% | ~64,354 |
-| Through Repetition, Perfection | 46.00% | ~59,206 |
-| The Daily Grind | 45.00% | ~57,919 |
-| Bounty Hunters | 44.00% | ~56,632 |
-| Where it Hurts | 43.00% | ~55,345 |
-| Dungeon Imports | 43.00% | ~55,345 |
-| Flooding the Market | 41.00% | ~52,771 |
-| Demand for Supplies | 39.00% | ~50,197 |
-| Gild-Gotten Goods | 37.00% | ~47,622 |
-| Did we pack lunch? | 35.00% | ~45,048 |
-| Arcane Industries | 34.00% | ~43,761 |
-| Accomplished Merchant | 31.00% | ~39,900 |
+| Sponsored by Argon | 97.00% | ~124,851 |
+| Titan's First Steps | 96.00% | ~123,564 |
+| Basic in Bulk | 91.00% | ~117,128 |
+| Tinkle of Coins | 87.00% | ~111,979 |
+| Disintermediation | 76.00% | ~97,821 |
+| Capitalism Ho! | 75.00% | ~96,534 |
+| It's Free Real Estate | 70.00% | ~90,098 |
+| Budding Merchant | 66.00% | ~84,950 |
+| Another Satisfied Customer | 61.00% | ~78,514 |
+| One Easy Payment | 60.00% | ~77,227 |
+| Own the Means of Production | 60.00% | ~77,227 |
+| Some Assembly Required | 59.00% | ~75,940 |
+| Pretty Penny | 57.00% | ~73,366 |
+| One-Armed Bandit | 50.00% | ~64,356 |
+| Through Repetition, Perfection | 46.00% | ~59,208 |
+| The Daily Grind | 45.00% | ~57,920 |
+| Bounty Hunters | 44.00% | ~56,633 |
+| Where it Hurts | 43.00% | ~55,346 |
+| Dungeon Imports | 43.00% | ~55,346 |
+| Flooding the Market | 41.00% | ~52,772 |
+| Demand for Supplies | 39.00% | ~50,198 |
+| Gild-Gotten Goods | 37.00% | ~47,623 |
+| Did we pack lunch? | 35.00% | ~45,049 |
+| Arcane Industries | 34.00% | ~43,762 |
+| Accomplished Merchant | 31.00% | ~39,901 |
 | Ascended | 28.00% | ~36,039 |
 | Gem Expert | 28.00% | ~36,039 |
 | Helping Hand | 28.00% | ~36,039 |
-| On the Path to Greatness | 27.00% | ~34,751 |
-| Blank Page Syndrome | 27.00% | ~34,751 |
-| Efficient Floor Space | 27.00% | ~34,751 |
-| Vanity, Verily | 26.00% | ~33,464 |
-| Research & Development | 25.00% | ~32,177 |
-| Flawless Fusion | 24.00% | ~30,890 |
-| Power of Love | 23.00% | ~29,603 |
-| Natural 20 | 23.00% | ~29,603 |
-| Fated Encounters | 21.00% | ~27,029 |
-| Royal Ransom | 21.00% | ~27,029 |
-| Magical Harmony | 21.00% | ~27,029 |
+| On the Path to Greatness | 27.00% | ~34,752 |
+| Blank Page Syndrome | 27.00% | ~34,752 |
+| Efficient Floor Space | 27.00% | ~34,752 |
+| Vanity, Verily | 26.00% | ~33,465 |
+| Research & Development | 25.00% | ~32,178 |
+| Flawless Fusion | 24.00% | ~30,891 |
+| Power of Love | 23.00% | ~29,604 |
+| Natural 20 | 23.00% | ~29,604 |
+| Fated Encounters | 21.00% | ~27,030 |
+| Royal Ransom | 21.00% | ~27,030 |
+| Magical Harmony | 21.00% | ~27,030 |
 | Tax not Included | 20.00% | ~25,742 |
 | Trash to Treasure | 18.00% | ~23,168 |
 | For the Hoard! | 17.00% | ~21,881 |
 | Special Ingredient | 17.00% | ~21,881 |
-| A Notch Above the Rest | 15.00% | ~19,306 |
-| Scrapbooker | 15.00% | ~19,306 |
-| This Power Level...! | 15.00% | ~19,306 |
-| Expansion in Session | 15.00% | ~19,306 |
-| Seasoned Journeyman | 15.00% | ~19,306 |
-| Black Friday Special | 15.00% | ~19,306 |
-| Big Game Hunting | 14.00% | ~18,019 |
-| Locally Sourced | 14.00% | ~18,019 |
-| Flying off the Shelves | 14.00% | ~18,019 |
-| Laden with Loot | 14.00% | ~18,019 |
-| Fat Cat Tag Team | 13.00% | ~16,732 |
+| A Notch Above the Rest | 15.00% | ~19,307 |
+| Scrapbooker | 15.00% | ~19,307 |
+| This Power Level...! | 15.00% | ~19,307 |
+| Expansion in Session | 15.00% | ~19,307 |
+| Seasoned Journeyman | 15.00% | ~19,307 |
+| Black Friday Special | 15.00% | ~19,307 |
+| Big Game Hunting | 14.00% | ~18,020 |
+| Locally Sourced | 14.00% | ~18,020 |
+| Flying off the Shelves | 14.00% | ~18,020 |
+| Laden with Loot | 14.00% | ~18,020 |
+| Fat Cat Tag Team | 13.00% | ~16,733 |
 | Hidden Potential | 12.00% | ~15,445 |
 | Mammonite | 12.00% | ~15,445 |
 | Attrition Mission | 12.00% | ~15,445 |
@@ -83,9 +83,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Thirst for Knowledge | 6.00% | ~7,723 |
 | Treasure Trove | 6.00% | ~7,723 |
 | All Accounted For | 6.00% | ~7,723 |
-| Archivist | 5.00% | ~6,435 |
-| Bountiful Harvest | 5.00% | ~6,435 |
-| Precision Engineering | 5.00% | ~6,435 |
+| Archivist | 5.00% | ~6,436 |
+| Bountiful Harvest | 5.00% | ~6,436 |
+| Precision Engineering | 5.00% | ~6,436 |
 | Proud Paladin | 4.00% | ~5,148 |
 | Industrial Evolution | 4.00% | ~5,148 |
 | Fit for a King | 4.00% | ~5,148 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.40% | ~515 |
 | Capitalist Camaraderie | 0.20% | ~257 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,709 (Ranked 54)  
+Progressed: 128,712 (Ranked 54)  
 Completed: 80 (0.06%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 80 (0.06%) (Ranked 170)
 | 2023-05-18 | 128,527 | 78 |
 | 2023-05-19 | 128,589 | 79 |
 | 2023-05-20 | 128,675 | 80 |
-| 2023-05-21 | 128,709 | 80 |
+| 2023-05-21 | 128,712 | 80 |
 ## Awards
 Max (Great for Beginners): 4,579  (Ranked 66)  
 Sum: 26,596 (Ranked 44)  

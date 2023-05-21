@@ -6,15 +6,16 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~538 |
+| Diligence as a goal | 4.00% | ~539 |
 | Project Arena | 3.00% | ~404 |
 | Bloody Sport | 1.00% | ~135 |
-| The Hateful Pole Fighter | 0.90% | ~6,337 |
-| Qi Gong: Breath | 0.90% | ~6,337 |
+| The Hateful Pole Fighter | 0.90% | ~6,338 |
+| Qi Gong: Breath | 0.90% | ~6,338 |
 | The best strikes are the ones we avoid | 0.90% | ~121 |
 | The Assault | 0.80% | ~5,633 |
 | A Lady's Blood in the Snow | 0.80% | ~5,633 |
 | Lady Wing Chun | 0.80% | ~5,633 |
+| Life is your teacher | 0.80% | ~5,633 |
 | State of constant learning | 0.80% | ~5,633 |
 | Path of the Prospect | 0.80% | ~5,633 |
 | Rumble in the Hangar | 0.80% | ~5,633 |
@@ -22,7 +23,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Furious Fists | 0.70% | ~4,929 |
 | Kill Nil | 0.70% | ~4,929 |
 | Street Fighting | 0.70% | ~4,929 |
-| Life is your teacher | 0.70% | ~4,929 |
 | Qi Gong: Essence | 0.70% | ~4,929 |
 | Lightning Hands | 0.70% | ~4,929 |
 | Take damage to save time | 0.70% | ~4,929 |
@@ -40,10 +40,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Iron Money | 0.40% | ~2,817 |
 | Detective Story | 0.40% | ~2,817 |
 | I know Kung-Fu | 0.40% | ~2,817 |
-| Legendary Talismans of Wuxing | 0.30% | ~2,112 |
-| Prodigal Child | 0.30% | ~2,112 |
-| The 36th Chamber of Kung-Fu | 0.30% | ~2,112 |
-| Sword Stained With Blood | 0.30% | ~2,112 |
+| Legendary Talismans of Wuxing | 0.30% | ~2,113 |
+| Prodigal Child | 0.30% | ~2,113 |
+| The 36th Chamber of Kung-Fu | 0.30% | ~2,113 |
+| Sword Stained With Blood | 0.30% | ~2,113 |
 | Martial Hub | 0.30% | ~40 |
 | Secure, Protect, Leave | 0.30% | ~40 |
 | Drunken Fighter | 0.20% | ~1,408 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~704 |
 | Warriors from the Mountain | 0.10% | ~704 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,160 (Ranked 15)  
+Progressed: 704,176 (Ranked 15)  
 Completed: 12,732 (1.81%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 12,732 (1.81%) (Ranked 65)
 | 2023-05-18 | 703,070 | 12,731 |
 | 2023-05-19 | 703,575 | 12,731 |
 | 2023-05-20 | 704,036 | 12,732 |
-| 2023-05-21 | 704,160 | 12,732 |
+| 2023-05-21 | 704,176 | 12,732 |
 ## Awards
 Max (Great Boss Battles): 6,078  (Ranked 53)  
 Sum: 10,344 (Ranked 77)  

@@ -6,18 +6,18 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~34,227 |
-| Worth it | 64.00% | ~28,449 |
-| Eagle Eye | 55.00% | ~24,448 |
-| Corpseman I | 40.00% | ~17,780 |
-| Blast fishing | 38.00% | ~16,891 |
-| Not alone | 32.00% | ~14,224 |
-| Headhunter I | 27.00% | ~12,002 |
-| Manual Labour I | 26.00% | ~11,557 |
-| Developers, Developers, Developers | 24.00% | ~10,668 |
-| Basic Training | 24.00% | ~10,668 |
+| Setting an example | 77.00% | ~34,231 |
+| Worth it | 64.00% | ~28,452 |
+| Eagle Eye | 55.00% | ~24,451 |
+| Corpseman I | 40.00% | ~17,782 |
+| Blast fishing | 38.00% | ~16,893 |
+| Not alone | 32.00% | ~14,226 |
+| Headhunter I | 27.00% | ~12,003 |
+| Manual Labour I | 26.00% | ~11,559 |
+| Developers, Developers, Developers | 24.00% | ~10,669 |
+| Basic Training | 24.00% | ~10,669 |
 | Furchtlos und Treu | 13.00% | ~5,779 |
-| Gott Mit Uns | 12.00% | ~5,334 |
+| Gott Mit Uns | 12.00% | ~5,335 |
 | This We'll Defend! | 9.00% | ~4,001 |
 | Anker wirf! | 9.00% | ~4,001 |
 | Providentiea Memor | 9.00% | ~4,001 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~44 |
 | Blood Brother | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,451 (Ranked 77)  
+Progressed: 44,456 (Ranked 77)  
 Completed: 2 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,17 +97,17 @@ Completed: 2 (0.00%) (Ranked 201)
 | 2023-05-18 | 44,114 | 2 |
 | 2023-05-19 | 44,246 | 2 |
 | 2023-05-20 | 44,407 | 2 |
-| 2023-05-21 | 44,451 | 2 |
+| 2023-05-21 | 44,456 | 2 |
 ## Awards
 Max (Highly Recommended): 93  (Ranked 332)  
-Sum: 734 (Ranked 257)  
+Sum: 736 (Ranked 257)  
 Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 93 |
 | This game is Great for Beginners | 88 |
-| This game is Extremely Fun | 86 |
-| This game has Quickly Understood Controls | 81 |
+| This game is Extremely Fun | 87 |
+| This game has Quickly Understood Controls | 82 |
 | This game has Diverse Characters | 81 |
 | This game is Educational | 76 |
 | This game is Relaxing | 73 |
@@ -221,4 +221,4 @@ Diff (max vs sum): 75
 | 2023-05-17 | 4.53 | - | 93 | 731 |
 | 2023-05-18 | 4.53 | - | 93 | 732 |
 | 2023-05-20 | 4.53 | - | 93 | 733 |
-| 2023-05-21 | 4.53 | - | 93 | 734 |
+| 2023-05-21 | 4.53 | - | 93 | 736 |

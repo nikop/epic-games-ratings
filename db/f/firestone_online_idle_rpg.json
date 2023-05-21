@@ -2307,9 +2307,9 @@
       "ID": "milestonecollector",
       "SetID": "3nl4bcg",
       "Name": "Milestone collector",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 101
     },
     {
       "ID": "minerclicker",
@@ -2588,8 +2588,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-18T22:58:45.6795503+00:00",
-  "LastChanged_Achievements": "2023-05-21T07:05:59.4596163+00:00",
+  "LastChanged_Achievements": "2023-05-21T08:05:37.6440071+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:34.8363446+00:00",
-  "LastUpdate_Ratings": "2023-05-21T06:57:54.4465786+00:00",
-  "LastUpdate_Achievements": "2023-05-21T07:05:59.4597146+00:00"
+  "LastUpdate_Ratings": "2023-05-21T07:57:48.0864503+00:00",
+  "LastUpdate_Achievements": "2023-05-21T08:05:37.6440846+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 751,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 6.39,
   "EosHistory": [
@@ -1516,17 +1516,17 @@
       "ID": "14",
       "SetID": "d0g98p",
       "Name": "Bird of Prey",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 233
+      "UsersEstimate": 240
     },
     {
       "ID": "15",
       "SetID": "d0g98p",
       "Name": "Pull the Plug",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 218
+      "UsersEstimate": 225
     },
     {
       "ID": "16",
@@ -1572,9 +1572,9 @@
       "ID": "20",
       "SetID": "d0g98p",
       "Name": "Stardust",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 233
+      "UsersEstimate": 240
     },
     {
       "ID": "21",
@@ -1596,9 +1596,9 @@
       "ID": "23",
       "SetID": "d0g98p",
       "Name": "All Heart",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 218
+      "UsersEstimate": 225
     },
     {
       "ID": "24",
@@ -1684,9 +1684,9 @@
       "ID": "33",
       "SetID": "d0g98p",
       "Name": "Awakened Spirits",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 360
+      "UsersEstimate": 368
     },
     {
       "ID": "34",
@@ -1772,9 +1772,9 @@
       "ID": "43",
       "SetID": "d0g98p",
       "Name": "An Actor!",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 323
     },
     {
       "ID": "44",
@@ -1885,8 +1885,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-21T07:05:40.8281732+00:00",
+  "LastChanged_Achievements": "2023-05-21T08:05:19.4307301+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:59.9943101+00:00",
-  "LastUpdate_Ratings": "2023-05-21T06:57:21.9110876+00:00",
-  "LastUpdate_Achievements": "2023-05-21T07:05:40.8282272+00:00"
+  "LastUpdate_Ratings": "2023-05-21T07:57:15.4357779+00:00",
+  "LastUpdate_Achievements": "2023-05-21T08:05:19.4307825+00:00"
 }

@@ -10,24 +10,24 @@
 | Graduation! | 78.00% | ~54 |
 | Right in the kisser! | 65.00% | ~45 |
 | The Shaman | 55.00% | ~38 |
-| Duscot Steamcity | 54.00% | ~37 |
+| Duscot Steamcity | 55.00% | ~38 |
 | The Penguin | 49.00% | ~34 |
 | The Magician | 49.00% | ~34 |
 | The Thrower | 45.00% | ~31 |
-| The Tunneler | 42.00% | ~29 |
+| The Tunneler | 43.00% | ~30 |
+| Level Up!! | 39.00% | ~27 |
 | Kill-streak | 38.00% | ~26 |
-| Level Up!! | 38.00% | ~26 |
 | The Shield | 38.00% | ~26 |
 | The Bird | 32.00% | ~22 |
 | The Idol | 29.00% | ~20 |
+| Topped up | 26.00% | ~18 |
 | The Ninja | 26.00% | ~18 |
 | Inferno Ruins | 26.00% | ~18 |
-| Topped up | 25.00% | ~17 |
 | Untouchable | 23.00% | ~16 |
 | I'm Rich | 22.00% | ~15 |
 | 1 is all I need | 20.00% | ~14 |
 | The Giant | 19.00% | ~13 |
-| The Slime | 17.00% | ~12 |
+| The Slime | 19.00% | ~13 |
 | Out of the Frying Pan... | 16.00% | ~11 |
 | The Blacksmith | 14.00% | ~10 |
 | The Flower | 14.00% | ~10 |

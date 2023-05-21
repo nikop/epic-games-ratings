@@ -4140,9 +4140,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 704160,
+  "EOS_Progressed": 704176,
   "EOS_Completed": 12732,
-  "EOS_NewPlayers": 1261,
+  "EOS_NewPlayers": 1276,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -6575,6 +6575,11 @@
       "Time": "2023-05-21T07:06:07.5451118+00:00",
       "NumProgressed": 704160,
       "NumCompleted": 12732
+    },
+    {
+      "Time": "2023-05-21T08:05:46.0606203+00:00",
+      "NumProgressed": 704176,
+      "NumCompleted": 12732
     }
   ],
   "TotalAchievements": 50,
@@ -6602,7 +6607,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6337
+      "UsersEstimate": 6338
     },
     {
       "ID": "04_Vengeance_H3",
@@ -6666,7 +6671,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 2112
+      "UsersEstimate": 2113
     },
     {
       "ID": "12_MidAge",
@@ -6682,7 +6687,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 2112
+      "UsersEstimate": 2113
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -6760,9 +6765,9 @@
       "ID": "23_AnySkill_Trophy",
       "SetID": "adcm20g",
       "Name": "Life is your teacher",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 4929
+      "UsersEstimate": 5633
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -6786,7 +6791,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6337
+      "UsersEstimate": 6338
     },
     {
       "ID": "27_ShrineBody",
@@ -6802,7 +6807,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 2112
+      "UsersEstimate": 2113
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -6842,7 +6847,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2112
+      "UsersEstimate": 2113
     },
     {
       "ID": "34_TimedTakedown",
@@ -6930,7 +6935,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -6985,21 +6990,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 13461,
-      "Completed": 10136
+      "Progressed": 13477,
+      "Completed": 10138
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 704160,
+      "Progressed": 704176,
       "Completed": 12732
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-21T02:05:11.0148373+00:00",
-  "LastChanged_Achievements": "2023-05-21T07:06:07.5451115+00:00",
+  "LastChanged_Achievements": "2023-05-21T08:05:46.06062+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.7579865+00:00",
-  "LastUpdate_Ratings": "2023-05-21T06:58:59.9741787+00:00",
-  "LastUpdate_Achievements": "2023-05-21T07:06:07.5451619+00:00"
+  "LastUpdate_Ratings": "2023-05-21T07:58:52.7231779+00:00",
+  "LastUpdate_Achievements": "2023-05-21T08:05:46.0606741+00:00"
 }

@@ -7,8 +7,8 @@
 | To Hell In A Handcart | 69.00% | ~132 |
 | Read Between The Lines | 65.00% | ~125 |
 | High Profile | 61.00% | ~117 |
-| Whispers In The Dark | 58.00% | ~111 |
-| Fond Memories | 52.00% | ~100 |
+| Whispers In The Dark | 59.00% | ~113 |
+| Fond Memories | 53.00% | ~102 |
 | History Check | 49.00% | ~94 |
 | A Method To His Madness | 49.00% | ~94 |
 | Lock, Stock, And Barrel | 47.00% | ~90 |
@@ -20,7 +20,7 @@
 | Back In The Saddle | 44.00% | ~84 |
 | Land, Ho! | 44.00% | ~84 |
 | No Man Is An Island | 42.00% | ~81 |
-| At Wits' End | 40.00% | ~77 |
+| At Wits' End | 41.00% | ~79 |
 | Bookworm | 38.00% | ~73 |
 | Going Once... | 36.00% | ~69 |
 | Up In Flames | 36.00% | ~69 |
