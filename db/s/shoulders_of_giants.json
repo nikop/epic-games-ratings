@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2037,
+  "EOS_Progressed": 2038,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -715,6 +715,11 @@
       "Time": "2023-05-21T13:08:16.5605456+00:00",
       "NumProgressed": 2037,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-21T15:06:24.8173726+00:00",
+      "NumProgressed": 2038,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -734,7 +739,7 @@
       "Name": "Nothing to Wear",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "complete_act_one",
@@ -782,7 +787,7 @@
       "Name": "A Ribbiting Performance",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1590
     },
     {
       "ID": "defeat_tree_dummy",
@@ -798,7 +803,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1548
+      "UsersEstimate": 1549
     },
     {
       "ID": "piercing_beam",
@@ -822,7 +827,7 @@
       "Name": "Better Than the Devs",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "save_planet",
@@ -830,7 +835,7 @@
       "Name": "Frogbot",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 1487
+      "UsersEstimate": 1488
     },
     {
       "ID": "save_planet_bestfriend",
@@ -862,7 +867,7 @@
       "Name": "Fun in the Stun",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "trash_truck",
@@ -877,7 +882,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2037,
+      "Progressed": 2038,
       "Completed": 8
     }
   ],
@@ -885,8 +890,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-05-15T22:59:29.8330198+00:00",
-  "LastChanged_Achievements": "2023-05-21T14:05:21.2301797+00:00",
+  "LastChanged_Achievements": "2023-05-21T15:06:24.8173721+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:21.4953983+00:00",
-  "LastUpdate_Ratings": "2023-05-21T13:59:35.3042356+00:00",
-  "LastUpdate_Achievements": "2023-05-21T14:05:21.2301927+00:00"
+  "LastUpdate_Ratings": "2023-05-21T15:00:43.2037665+00:00",
+  "LastUpdate_Achievements": "2023-05-21T15:06:24.8173936+00:00"
 }

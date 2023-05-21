@@ -5,32 +5,32 @@ Rating: 4.67 (Ranked 258)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 43.00% | ~2,806 |
-| Greasy Palms | 39.00% | ~2,545 |
-| South American Connection | 23.00% | ~1,501 |
-| Life of the Party | 17.00% | ~1,109 |
-| Big Heat from Little Havana | 13.00% | ~848 |
-| Tommy Two-Wheels | 13.00% | ~848 |
-| Chauffeur | 12.00% | ~783 |
-| Iron-y | 9.00% | ~587 |
-| Salutations My Little Friend | 9.00% | ~587 |
+| Legal Counsel | 43.00% | ~2,809 |
+| Greasy Palms | 39.00% | ~2,548 |
+| South American Connection | 23.00% | ~1,503 |
+| Life of the Party | 17.00% | ~1,111 |
+| Tommy Two-Wheels | 13.00% | ~849 |
+| Big Heat from Little Havana | 12.00% | ~784 |
+| Chauffeur | 12.00% | ~784 |
+| Iron-y | 9.00% | ~588 |
+| Salutations My Little Friend | 9.00% | ~588 |
 | Gun for Hire | 7.00% | ~457 |
 | Mischief Managed | 7.00% | ~457 |
 | Vice City Mogul | 6.00% | ~392 |
-| Bloodstained Hands | 6.00% | ~392 |
-| Catch Me if You Can | 5.00% | ~326 |
+| Catch Me if You Can | 5.00% | ~327 |
+| Bloodstained Hands | 5.00% | ~327 |
 | Not my First Time | 4.00% | ~261 |
 | Grand Theft Auto | 4.00% | ~261 |
 | High Quality H2O | 3.00% | ~196 |
 | Pie Guy | 3.00% | ~196 |
-| Running Rampant | 2.00% | ~130 |
-| Point A to Point B | 2.00% | ~130 |
-| Bull in a China Shop | 2.00% | ~130 |
-| Somebody Call the Wambulance? | 2.00% | ~130 |
-| Just Like the Real Thing | 2.00% | ~130 |
-| Don't Need Roads | 2.00% | ~130 |
-| Take the Cannoli | 2.00% | ~130 |
-| City Sleuth | 2.00% | ~130 |
+| Running Rampant | 2.00% | ~131 |
+| Point A to Point B | 2.00% | ~131 |
+| Bull in a China Shop | 2.00% | ~131 |
+| Somebody Call the Wambulance? | 2.00% | ~131 |
+| Just Like the Real Thing | 2.00% | ~131 |
+| Don't Need Roads | 2.00% | ~131 |
+| Take the Cannoli | 2.00% | ~131 |
+| City Sleuth | 2.00% | ~131 |
 | One is Better Than Two | 1.00% | ~65 |
 | Chopper’d Up | 1.00% | ~65 |
 | Daredevil | 0.90% | ~59 |
@@ -40,7 +40,7 @@ Rating: 4.67 (Ranked 258)
 | Done it All | 0.70% | ~46 |
 | Kingpin | 0.30% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,525 (Ranked 114)  
+Progressed: 6,533 (Ranked 114)  
 Completed: 22 (0.34%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 22 (0.34%) (Ranked 119)
 | 2023-05-18 | 6,209 | 22 |
 | 2023-05-19 | 6,326 | 22 |
 | 2023-05-20 | 6,463 | 22 |
-| 2023-05-21 | 6,525 | 22 |
+| 2023-05-21 | 6,533 | 22 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 426)  
 Sum: 35 (Ranked 450)  

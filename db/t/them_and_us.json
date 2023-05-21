@@ -3,8 +3,8 @@
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 255,
-  "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_Completed": 90,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114,
+  "EOS_Progressed": 115,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.88,
+  "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
     {
       "Time": "2023-04-30T13:59:34.488144+00:00",
@@ -433,6 +433,11 @@
       "Time": "2023-05-21T14:00:06.6905935+00:00",
       "NumProgressed": 114,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-21T15:01:23.5818591+00:00",
+      "NumProgressed": 115,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -460,7 +465,7 @@
       "Name": "Alone with Them",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -540,7 +545,7 @@
       "Name": "Forced to Kill",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -620,15 +625,15 @@
       "Name": "Parasite Exterminated",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ETUA_Researcher",
       "SetID": "65jc0ap",
       "Name": "Researcher",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "ETUA_RestInPeace",
@@ -652,15 +657,15 @@
       "Name": "Safe...For now?",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ETUA_StayDead",
       "SetID": "65jc0ap",
       "Name": "I Am The Gate Keeper!",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "ETUA_SurvivalHero",
@@ -730,9 +735,9 @@
       "ID": "ETUA_Thiswillbealongnight",
       "SetID": "65jc0ap",
       "Name": "A Night To Remember",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 34
     },
     {
       "ID": "ETUA_Trapped",
@@ -763,7 +768,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 114,
+      "Progressed": 115,
       "Completed": 1
     }
   ],
@@ -771,8 +776,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-05-21T14:00:06.690593+00:00",
+  "LastChanged_Achievements": "2023-05-21T15:01:23.5818586+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:00.9346953+00:00",
-  "LastUpdate_Ratings": "2023-05-21T13:56:55.6282618+00:00",
-  "LastUpdate_Achievements": "2023-05-21T14:00:06.6906277+00:00"
+  "LastUpdate_Ratings": "2023-05-21T14:57:24.4898692+00:00",
+  "LastUpdate_Achievements": "2023-05-21T15:01:23.581903+00:00"
 }

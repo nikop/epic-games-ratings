@@ -6,13 +6,13 @@ Rating: 3.75 (Ranked 918)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Victor | 94.00% | ~1,058 |
-| World Map | 80.00% | ~900 |
-| Temple of Eternals | 56.00% | ~630 |
-| Prestigious | 52.00% | ~585 |
+| World Map | 80.00% | ~901 |
+| Temple of Eternals | 56.00% | ~631 |
+| Prestigious | 53.00% | ~597 |
 | Fellowship Power | 40.00% | ~450 |
 | Guild Power | 24.00% | ~270 |
 | Prestigious x10 | 21.00% | ~236 |
-| The game is on | 18.00% | ~202 |
+| The game is on | 18.00% | ~203 |
 | Exotic Merchant | 16.00% | ~180 |
 | Dragon Clicker | 15.00% | ~169 |
 | Miner Clicker | 15.00% | ~169 |
@@ -20,8 +20,8 @@ Rating: 3.75 (Ranked 918)
 | Full Party | 13.00% | ~146 |
 | Hero inspection | 13.00% | ~146 |
 | Dragon Master | 11.00% | ~124 |
-| Enlightenment | 10.00% | ~112 |
-| Lieutenant | 10.00% | ~112 |
+| Enlightenment | 10.00% | ~113 |
+| Lieutenant | 10.00% | ~113 |
 | Milestone collector | 9.00% | ~101 |
 | Mysterious Rock | 9.00% | ~101 |
 | Natural Talent | 9.00% | ~101 |
@@ -44,13 +44,13 @@ Rating: 3.75 (Ranked 918)
 | How Do You Turn This On? | 3.00% | ~34 |
 | Missions Dedication | 3.00% | ~34 |
 | The father of Dragons | 3.00% | ~34 |
-| Dragon Slayer | 2.00% | ~22 |
-| Engineer Mastery | 2.00% | ~22 |
-| Master Enchanter | 2.00% | ~22 |
-| Relic Of The Past | 2.00% | ~22 |
-| Trader | 2.00% | ~22 |
-| Weekly Quest Completionist | 2.00% | ~22 |
-| What lies behind the bush | 2.00% | ~22 |
+| Dragon Slayer | 2.00% | ~23 |
+| Engineer Mastery | 2.00% | ~23 |
+| Master Enchanter | 2.00% | ~23 |
+| Relic Of The Past | 2.00% | ~23 |
+| Trader | 2.00% | ~23 |
+| Weekly Quest Completionist | 2.00% | ~23 |
+| What lies behind the bush | 2.00% | ~23 |
 | Blueprint Upgrades | 1.00% | ~11 |
 | Lock And Load | 1.00% | ~11 |
 | Sailor | 1.00% | ~11 |
@@ -64,10 +64,10 @@ Rating: 3.75 (Ranked 918)
 | Transmute | 0.60% | ~7 |
 | Tree of Life | 0.60% | ~7 |
 | Training makes a Pro player | 0.50% | ~6 |
-| Cauldron Liberator | 0.40% | ~4 |
-| Gear Enchanting | 0.40% | ~4 |
-| Mythic Power | 0.40% | ~4 |
-| Pokerface | 0.40% | ~4 |
+| Cauldron Liberator | 0.40% | ~5 |
+| Gear Enchanting | 0.40% | ~5 |
+| Mythic Power | 0.40% | ~5 |
+| Pokerface | 0.40% | ~5 |
 | Guardian Master | 0.30% | ~3 |
 | Arena Challenger | 0.20% | ~2 |
 | Beast War Machines | 0.20% | ~2 |
@@ -81,7 +81,7 @@ Rating: 3.75 (Ranked 918)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,125 (Ranked 160)  
+Progressed: 1,126 (Ranked 160)  
 Completed: 1 (0.09%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 1 (0.09%) (Ranked 163)
 | 2023-05-18 | 1,076 | 1 |
 | 2023-05-19 | 1,090 | 1 |
 | 2023-05-20 | 1,114 | 1 |
-| 2023-05-21 | 1,125 | 1 |
+| 2023-05-21 | 1,126 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

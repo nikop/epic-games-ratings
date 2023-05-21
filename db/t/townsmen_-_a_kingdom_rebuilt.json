@@ -1042,9 +1042,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_CRAFTSMEN",
       "SetID": "9eacipp",
       "Name": "Craftsmen challenge",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 21
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_CURSE",
@@ -1434,8 +1434,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-05-18T04:58:08.3119533+00:00",
-  "LastChanged_Achievements": "2023-05-21T14:05:17.5232259+00:00",
+  "LastChanged_Achievements": "2023-05-21T15:06:20.6140844+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:38.1590673+00:00",
-  "LastUpdate_Ratings": "2023-05-21T13:57:39.3306217+00:00",
-  "LastUpdate_Achievements": "2023-05-21T14:05:17.5233233+00:00"
+  "LastUpdate_Ratings": "2023-05-21T14:58:19.7650561+00:00",
+  "LastUpdate_Achievements": "2023-05-21T15:06:20.6142358+00:00"
 }

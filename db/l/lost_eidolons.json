@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -357,9 +357,9 @@
       "ID": "06",
       "SetID": "73ikgfc",
       "Name": "First Blood",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 559
+      "UsersEstimate": 567
     },
     {
       "ID": "07",
@@ -510,8 +510,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-05-21T14:05:15.441914+00:00",
+  "LastChanged_Achievements": "2023-05-21T15:06:18.3494961+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:05:01.1887177+00:00",
-  "LastUpdate_Ratings": "2023-05-21T13:59:05.9067107+00:00",
-  "LastUpdate_Achievements": "2023-05-21T14:05:15.4419246+00:00"
+  "LastUpdate_Ratings": "2023-05-21T15:00:06.3520014+00:00",
+  "LastUpdate_Achievements": "2023-05-21T15:06:18.3495137+00:00"
 }

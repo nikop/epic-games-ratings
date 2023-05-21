@@ -34,10 +34,10 @@ Number of Ratings: 125  (23.09.2022)
 | Something Wicked This Way Comes… | 12.00% | ~184 |
 | There is Hope | 12.00% | ~184 |
 | Turning the Tables | 12.00% | ~184 |
+| The Philosopher’s Stone | 10.00% | ~153 |
 | Loyalty to the Pack | 9.00% | ~138 |
 | Eternity Can Wait | 9.00% | ~138 |
 | Mystery Machine | 9.00% | ~138 |
-| The Philosopher’s Stone | 9.00% | ~138 |
 | Gold Digger | 8.00% | ~122 |
 | Monster Hunter | 8.00% | ~122 |
 | Knuckle Sandwich | 8.00% | ~122 |

@@ -6,29 +6,29 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Balding bloot! | 80.00% | ~916 |
-| Lovebirds | 51.00% | ~584 |
-| Life’s short, ride long | 47.00% | ~538 |
-| Hug therapy | 46.00% | ~527 |
-| Over my dead body | 42.00% | ~481 |
-| Shake the rust off their feet | 23.00% | ~263 |
-| Strike! | 21.00% | ~240 |
-| My little pony | 21.00% | ~240 |
+| Balding bloot! | 79.00% | ~906 |
+| Lovebirds | 51.00% | ~585 |
+| Life’s short, ride long | 47.00% | ~539 |
+| Hug therapy | 46.00% | ~528 |
+| Over my dead body | 42.00% | ~482 |
+| Shake the rust off their feet | 23.00% | ~264 |
+| My little pony | 21.00% | ~241 |
+| Strike! | 20.00% | ~229 |
 | A love supreme | 19.00% | ~218 |
 | In my shoes | 18.00% | ~206 |
-| Like new! | 16.00% | ~183 |
-| Heartstrings | 14.00% | ~160 |
-| Head in the clouds | 14.00% | ~160 |
+| Like new! | 16.00% | ~184 |
+| Heartstrings | 14.00% | ~161 |
+| Head in the clouds | 14.00% | ~161 |
 | Don't look back | 13.00% | ~149 |
-| Back to rust | 12.00% | ~137 |
-| Flower Powered | 12.00% | ~137 |
-| Perfect timing | 10.00% | ~114 |
-| Unstoppable | 10.00% | ~114 |
+| Back to rust | 12.00% | ~138 |
+| Flower Powered | 12.00% | ~138 |
+| Perfect timing | 10.00% | ~115 |
+| Unstoppable | 10.00% | ~115 |
 | Ain't no mountain high enough | 9.00% | ~103 |
 | Self-sustainability | 8.00% | ~92 |
-| Spring cleaning | 6.00% | ~69 |
 | An eye for an eye | 6.00% | ~69 |
 | Can't get wetter... | 5.00% | ~57 |
+| Spring cleaning | 5.00% | ~57 |
 | Second thoughts | 4.00% | ~46 |
 | Mooning the moon | 4.00% | ~46 |
 | Strip-a-bobble | 4.00% | ~46 |
@@ -37,7 +37,7 @@ Number of Ratings: 38  (23.09.2022)
 | Thar she blows | 2.00% | ~23 |
 | À la carte | 2.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,145 (Ranked 159)  
+Progressed: 1,147 (Ranked 159)  
 Completed: 8 (0.70%) (Ranked 101)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,7 +65,7 @@ Completed: 8 (0.70%) (Ranked 101)
 | 2023-05-18 | 1,128 | 8 |
 | 2023-05-19 | 1,136 | 8 |
 | 2023-05-20 | 1,143 | 8 |
-| 2023-05-21 | 1,145 | 8 |
+| 2023-05-21 | 1,147 | 8 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

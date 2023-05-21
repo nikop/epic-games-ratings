@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -632,9 +632,9 @@
       "ID": "ACH_TRUELY_SHOCKING",
       "SetID": "108h92c",
       "Name": "Truly Shocking!",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 288
     }
   ],
   "AchievementSets": [
@@ -649,8 +649,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-05-13T23:57:28.1464548+00:00",
-  "LastChanged_Achievements": "2023-05-21T14:00:29.3075236+00:00",
+  "LastChanged_Achievements": "2023-05-21T15:02:20.6540926+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:01.7624708+00:00",
-  "LastUpdate_Ratings": "2023-05-21T13:57:12.0600721+00:00",
-  "LastUpdate_Achievements": "2023-05-21T14:00:29.3075397+00:00"
+  "LastUpdate_Ratings": "2023-05-21T14:57:44.302814+00:00",
+  "LastUpdate_Achievements": "2023-05-21T15:02:20.6541156+00:00"
 }

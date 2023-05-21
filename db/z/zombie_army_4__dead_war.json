@@ -1497,9 +1497,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42365,
+  "EOS_Progressed": 42366,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2312,6 +2312,11 @@
       "Time": "2023-05-21T14:05:28.9830255+00:00",
       "NumProgressed": 42365,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-05-21T15:06:33.7442776+00:00",
+      "NumProgressed": 42366,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 66,
@@ -2363,7 +2368,7 @@
       "Name": "Bad Blood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 6778
+      "UsersEstimate": 6779
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_NIGHTMARE",
@@ -2515,7 +2520,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26266
+      "UsersEstimate": 26267
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -2531,7 +2536,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 13980
+      "UsersEstimate": 13981
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -2571,7 +2576,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 20335
+      "UsersEstimate": 20336
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -2595,7 +2600,7 @@
       "Name": "Shock therapy",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 9320
+      "UsersEstimate": 9321
     },
     {
       "ID": "SE_FIND_ALL_JOURNALS_COMICS_TOKENS",
@@ -2611,7 +2616,7 @@
       "Name": "Double tap",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15251
+      "UsersEstimate": 15252
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -2627,7 +2632,7 @@
       "Name": "Gold",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 21182
+      "UsersEstimate": 21183
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -2643,7 +2648,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 15251
+      "UsersEstimate": 15252
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -2651,7 +2656,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 28808
+      "UsersEstimate": 28809
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -2683,7 +2688,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 23724
+      "UsersEstimate": 23725
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -2699,7 +2704,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15251
+      "UsersEstimate": 15252
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -2723,7 +2728,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27537
+      "UsersEstimate": 27538
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -2779,7 +2784,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27537
+      "UsersEstimate": 27538
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -2819,7 +2824,7 @@
       "Name": "Leave the limbs you\u0027ve lost",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 9320
+      "UsersEstimate": 9321
     },
     {
       "ID": "SE_TAKEDOWN_AN_ELITE",
@@ -2843,22 +2848,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15251
+      "UsersEstimate": 15252
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42365,
+      "Progressed": 42366,
       "Completed": 24
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-05-21T10:59:55.1500252+00:00",
-  "LastChanged_Achievements": "2023-05-21T14:05:28.983025+00:00",
+  "LastChanged_Achievements": "2023-05-21T15:06:33.7442771+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.8149711+00:00",
-  "LastUpdate_Ratings": "2023-05-21T13:59:13.5906242+00:00",
-  "LastUpdate_Achievements": "2023-05-21T14:05:28.9830753+00:00"
+  "LastUpdate_Ratings": "2023-05-21T15:00:14.7246869+00:00",
+  "LastUpdate_Achievements": "2023-05-21T15:06:33.7443576+00:00"
 }

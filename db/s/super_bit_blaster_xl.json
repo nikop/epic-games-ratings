@@ -175,9 +175,9 @@
       "ID": "1.5 Million",
       "SetID": "1f269fc",
       "Name": "1.5 Million",
-      "Percentage": 25,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "10K",
@@ -223,17 +223,17 @@
       "ID": "500K",
       "SetID": "1f269fc",
       "Name": "500K",
-      "Percentage": 29,
+      "Percentage": 32,
       "XP": 75,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "50K",
       "SetID": "1f269fc",
       "Name": "50K",
-      "Percentage": 50,
+      "Percentage": 54,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "5K",
@@ -247,33 +247,33 @@
       "ID": "75K",
       "SetID": "1f269fc",
       "Name": "75K",
-      "Percentage": 43,
+      "Percentage": 46,
       "XP": 150,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Bit Blaster V2",
       "SetID": "1f269fc",
       "Name": "Bit Blaster V2",
-      "Percentage": 36,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Bit Blaster V3",
       "SetID": "1f269fc",
       "Name": "Bit Blaster V3",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Bit Blaster V4",
       "SetID": "1f269fc",
       "Name": "Bit Blaster V4",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Bit Blaster V5",
@@ -318,8 +318,8 @@
   ],
   "FirstSeen": "2023-05-20T01:55:13.7731097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:16.9581391+00:00",
-  "LastChanged_Achievements": "2023-05-21T14:04:50.8573406+00:00",
+  "LastChanged_Achievements": "2023-05-21T15:05:50.003232+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:15.3020968+00:00",
-  "LastUpdate_Ratings": "2023-05-21T13:57:23.6600272+00:00",
-  "LastUpdate_Achievements": "2023-05-21T14:04:50.8573512+00:00"
+  "LastUpdate_Ratings": "2023-05-21T14:57:58.9224341+00:00",
+  "LastUpdate_Achievements": "2023-05-21T15:05:50.0032455+00:00"
 }

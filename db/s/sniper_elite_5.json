@@ -2,10 +2,10 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 657,
+  "Ranking_Rating": 658,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 163,
+  "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 76,
@@ -176,9 +176,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1068,
+  "EOS_Progressed": 1078,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 352,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -906,6 +906,11 @@
       "Time": "2023-05-21T14:04:59.0961038+00:00",
       "NumProgressed": 1068,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-21T15:06:00.1535032+00:00",
+      "NumProgressed": 1078,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -925,7 +930,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -997,7 +1002,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1037,15 +1042,15 @@
       "Name": "Gunslinger",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
       "SetID": "bm6el81",
       "Name": "Skirmisher",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -1067,17 +1072,17 @@
       "ID": "REWARD_28_AMBUSH_KING",
       "SetID": "bm6el81",
       "Name": "Set Europe Ablaze",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
       "SetID": "bm6el81",
       "Name": "Precision Is Key",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -1085,7 +1090,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1117,7 +1122,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -1141,15 +1146,15 @@
       "Name": "Resourceful",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "REWARD_38_DER_GEIST",
       "SetID": "bm6el81",
       "Name": "Der Geist",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -1181,7 +1186,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -1229,7 +1234,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -1484,13 +1489,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1019,
+      "Progressed": 1029,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1068,
+      "Progressed": 1078,
       "Completed": 2
     }
   ],
@@ -1498,8 +1503,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-18T16:01:31.1520338+00:00",
-  "LastChanged_Achievements": "2023-05-21T14:04:59.0961033+00:00",
+  "LastChanged_Achievements": "2023-05-21T15:06:00.1535027+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-21T13:59:46.1338443+00:00",
-  "LastUpdate_Achievements": "2023-05-21T14:04:59.0961605+00:00"
+  "LastUpdate_Ratings": "2023-05-21T15:00:56.4282509+00:00",
+  "LastUpdate_Achievements": "2023-05-21T15:06:00.153587+00:00"
 }

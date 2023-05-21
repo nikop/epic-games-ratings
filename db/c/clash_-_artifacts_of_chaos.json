@@ -4,7 +4,7 @@
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 67,
+  "EOS_Progressed": 68,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.49,
+  "EOS_Completed_Percentage": 1.47,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:21.1984631+00:00",
@@ -82,6 +82,11 @@
     {
       "Time": "2023-05-20T14:05:21.0663086+00:00",
       "NumProgressed": 67,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-21T15:06:26.9597424+00:00",
+      "NumProgressed": 68,
       "NumCompleted": 1
     }
   ],
@@ -148,7 +153,7 @@
       "ID": "Achievement16",
       "SetID": "jf6ho5",
       "Name": "The Bigger They Are",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 35,
       "UsersEstimate": 20
     },
@@ -156,7 +161,7 @@
       "ID": "Achievement17",
       "SetID": "jf6ho5",
       "Name": "Declawing",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 35,
       "UsersEstimate": 42
     },
@@ -164,7 +169,7 @@
       "ID": "Achievement18",
       "SetID": "jf6ho5",
       "Name": "Over the Moon",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 90,
       "UsersEstimate": 22
     },
@@ -188,7 +193,7 @@
       "ID": "Achievement20",
       "SetID": "jf6ho5",
       "Name": "Amokuali Tower",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
       "UsersEstimate": 18
     },
@@ -204,7 +209,7 @@
       "ID": "Achievement3",
       "SetID": "jf6ho5",
       "Name": "Enemies of Fate",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 35,
       "UsersEstimate": 20
     },
@@ -244,7 +249,7 @@
       "ID": "Achievement8",
       "SetID": "jf6ho5",
       "Name": "Armored",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 35,
       "UsersEstimate": 18
     },
@@ -261,7 +266,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 67,
+      "Progressed": 68,
       "Completed": 1
     }
   ],
@@ -269,8 +274,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-05-21T14:05:23.0869282+00:00",
+  "LastChanged_Achievements": "2023-05-21T15:06:26.9597418+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:08.2343317+00:00",
-  "LastUpdate_Ratings": "2023-05-21T13:59:31.9710321+00:00",
-  "LastUpdate_Achievements": "2023-05-21T14:05:23.0869421+00:00"
+  "LastUpdate_Ratings": "2023-05-21T15:00:39.1572654+00:00",
+  "LastUpdate_Achievements": "2023-05-21T15:06:26.9597603+00:00"
 }

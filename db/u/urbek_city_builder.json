@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 164,
+  "EOS_Progressed": 165,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -221,6 +221,11 @@
     {
       "Time": "2023-05-21T09:06:18.0407293+00:00",
       "NumProgressed": 164,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T15:06:18.067898+00:00",
+      "NumProgressed": 165,
       "NumCompleted": 0
     }
   ],
@@ -559,9 +564,9 @@
       "ID": "GREEN_AREAS_1",
       "SetID": "44dlcg0",
       "Name": "I like parks",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 78
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -585,7 +590,7 @@
       "Name": "The woodcutter",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "MILLS",
@@ -623,9 +628,9 @@
       "ID": "NIGHT_LIFE_2",
       "SetID": "44dlcg0",
       "Name": "What would we do if we can\u0027t go out with friends?",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "NIGHT_LIFE_3",
@@ -665,7 +670,7 @@
       "Name": "Small town",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "POPULATION_2",
@@ -673,7 +678,7 @@
       "Name": "Metropolurbek",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "POPULATION_3",
@@ -751,9 +756,9 @@
       "ID": "SPORTS_1",
       "SetID": "44dlcg0",
       "Name": "Sport is good for you",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "SPORTS_2",
@@ -864,7 +869,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 164,
+      "Progressed": 165,
       "Completed": 0
     }
   ],
@@ -872,8 +877,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-05-21T14:05:15.2131633+00:00",
+  "LastChanged_Achievements": "2023-05-21T15:06:18.0678975+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:08.225759+00:00",
-  "LastUpdate_Ratings": "2023-05-21T13:58:21.4132731+00:00",
-  "LastUpdate_Achievements": "2023-05-21T14:05:15.2132329+00:00"
+  "LastUpdate_Ratings": "2023-05-21T14:59:10.6292166+00:00",
+  "LastUpdate_Achievements": "2023-05-21T15:06:18.0680049+00:00"
 }

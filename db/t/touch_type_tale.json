@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2709,
+  "EOS_Progressed": 2710,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1089,6 +1089,11 @@
       "Time": "2023-05-21T14:05:24.0206688+00:00",
       "NumProgressed": 2709,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-21T15:06:27.810298+00:00",
+      "NumProgressed": 2710,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1116,7 +1121,7 @@
       "Name": "Your Biggest Fans",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "bonus4",
@@ -1148,7 +1153,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2438
+      "UsersEstimate": 2439
     },
     {
       "ID": "campaign10",
@@ -1228,7 +1233,7 @@
       "Name": "An Ally in Need",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "campaign2",
@@ -1236,7 +1241,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2167
+      "UsersEstimate": 2168
     },
     {
       "ID": "campaign20",
@@ -1244,7 +1249,7 @@
       "Name": "For the Queen",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "campaign3",
@@ -1252,7 +1257,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1761
+      "UsersEstimate": 1762
     },
     {
       "ID": "campaign4",
@@ -1260,7 +1265,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "campaign5",
@@ -1324,7 +1329,7 @@
       "Name": "Not a Drop Wasted",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "scenario4",
@@ -1363,7 +1368,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2709,
+      "Progressed": 2710,
       "Completed": 9
     }
   ],
@@ -1371,8 +1376,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-21T14:05:24.0206683+00:00",
+  "LastChanged_Achievements": "2023-05-21T15:06:27.8102976+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:08.6918917+00:00",
-  "LastUpdate_Ratings": "2023-05-21T13:59:32.7289634+00:00",
-  "LastUpdate_Achievements": "2023-05-21T14:05:24.0206922+00:00"
+  "LastUpdate_Ratings": "2023-05-21T15:00:40.1344541+00:00",
+  "LastUpdate_Achievements": "2023-05-21T15:06:27.8103351+00:00"
 }

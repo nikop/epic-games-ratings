@@ -6,14 +6,14 @@ Rating: 4.67 (Ranked 258)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tooth fairy | 24.00% | ~89 |
-| Dental maturity | 18.00% | ~66 |
+| Dental maturity | 19.00% | ~70 |
 | Devil's in the details | 12.00% | ~44 |
 | Uprooting | 11.00% | ~41 |
 | Forbidden techniques | 11.00% | ~41 |
 | Slavic squatter | 9.00% | ~33 |
-| Devoted | 7.00% | ~26 |
+| Devoted | 8.00% | ~30 |
+| Spirit animal | 7.00% | ~26 |
 | Gold rush | 6.00% | ~22 |
-| Spirit animal | 6.00% | ~22 |
 | Liar Liar | 5.00% | ~18 |
 | A friend in need... | 5.00% | ~18 |
 | Sneak peek | 4.00% | ~15 |

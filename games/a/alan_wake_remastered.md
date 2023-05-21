@@ -6,12 +6,12 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 20.00% | ~9,319 |
-| Let There Be Light | 17.00% | ~7,921 |
-| Float Like a Butterfly | 16.00% | ~7,456 |
-| Nordic Walking | 13.00% | ~6,058 |
-| Bright Falls' Finest | 13.00% | ~6,058 |
-| Under a Thin Layer of Skin | 11.00% | ~5,126 |
+| Follow the Light | 20.00% | ~9,321 |
+| Let There Be Light | 17.00% | ~7,923 |
+| Float Like a Butterfly | 16.00% | ~7,457 |
+| Nordic Walking | 13.00% | ~6,059 |
+| Bright Falls' Finest | 13.00% | ~6,059 |
+| Under a Thin Layer of Skin | 11.00% | ~5,127 |
 | Park Ranger | 9.00% | ~4,194 |
 | Back! Back, I Say! | 9.00% | ~4,194 |
 | Finders Keepers | 9.00% | ~4,194 |
@@ -22,7 +22,7 @@ Number of Ratings: 524  (23.09.2022)
 | Sound and Fury | 8.00% | ~3,728 |
 | Missed by a Mile | 8.00% | ~3,728 |
 | Damn Good Cup of Coffee | 8.00% | ~3,728 |
-| A Friend in Need | 8.00% | ~805 |
+| A Friend in Need | 8.00% | ~806 |
 | Heavy Metal | 7.00% | ~3,262 |
 | Iron Horse | 7.00% | ~3,262 |
 | Perchance to Dream | 7.00% | ~3,262 |
@@ -38,7 +38,7 @@ Number of Ratings: 524  (23.09.2022)
 | Tornado Wrangler | 5.00% | ~2,330 |
 | What Light Through Yonder Window | 5.00% | ~2,330 |
 | Right of Way | 5.00% | ~2,330 |
-| Ding! | 5.00% | ~503 |
+| Ding! | 5.00% | ~504 |
 | Departure | 4.00% | ~1,864 |
 | Children of the Elder God | 3.00% | ~1,398 |
 | Drink 'Em Both Up | 3.00% | ~1,398 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~47 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,597 (Ranked 76)  
+Progressed: 46,605 (Ranked 76)  
 Completed: 45 (0.10%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 45 (0.10%) (Ranked 158)
 | 2023-05-18 | 46,244 | 44 |
 | 2023-05-19 | 46,386 | 45 |
 | 2023-05-20 | 46,523 | 45 |
-| 2023-05-21 | 46,597 | 45 |
+| 2023-05-21 | 46,605 | 45 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

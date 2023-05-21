@@ -2,7 +2,7 @@
   "ID": "73c5297403d440f69cc7418a75df293d",
   "Name": "Switchball HD",
   "ProductSlug": "switchball-hd-6d3802",
-  "Ranking_EOS_Progress": 273,
+  "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 76,
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 71,
+  "EOS_Progressed": 72,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -311,6 +311,11 @@
       "Time": "2023-05-21T14:00:24.7915211+00:00",
       "NumProgressed": 71,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T15:02:15.3445054+00:00",
+      "NumProgressed": 72,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 9,
@@ -330,7 +335,7 @@
       "Name": "Marbleball Badge",
       "Percentage": 68,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHIEVEMENT_METALBALL_BADGE_ID",
@@ -368,7 +373,7 @@
       "ID": "ACHIEVEMENT_SPEEDBALL_ROOKIE_ID",
       "SetID": "2h9pc72",
       "Name": "Speedroller Rookie",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 100,
       "UsersEstimate": 37
     },
@@ -393,14 +398,14 @@
     {
       "ID": "2h9pc72",
       "IsBase": true,
-      "Progressed": 71,
+      "Progressed": 72,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-15T16:57:34.7709022+00:00",
   "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00",
-  "LastChanged_Achievements": "2023-05-21T14:00:24.7915204+00:00",
+  "LastChanged_Achievements": "2023-05-21T15:02:15.3445049+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:05.042816+00:00",
-  "LastUpdate_Ratings": "2023-05-21T13:56:59.5944475+00:00",
-  "LastUpdate_Achievements": "2023-05-21T14:00:24.7915284+00:00"
+  "LastUpdate_Ratings": "2023-05-21T14:57:29.0358606+00:00",
+  "LastUpdate_Achievements": "2023-05-21T15:02:15.344516+00:00"
 }

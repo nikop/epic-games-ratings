@@ -4,7 +4,7 @@
   "ProductSlug": "echo-storm-4e5fbe",
   "Ranking_EOS_Progress": 336,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-05-11T05:00:00+00:00",
@@ -129,9 +129,9 @@
       "ID": "killWithHammer",
       "SetID": "bma0pih",
       "Name": "Eternal blacksmith",
-      "Percentage": 38,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "leviathan01",
@@ -193,9 +193,9 @@
       "ID": "unlockPlasmaMoon",
       "SetID": "bma0pih",
       "Name": "Solar power",
-      "Percentage": 75,
+      "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
@@ -207,8 +207,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-07T09:02:54.6493409+00:00",
-  "LastChanged_Achievements": "2023-05-21T14:00:15.2878738+00:00",
+  "LastChanged_Achievements": "2023-05-21T15:01:33.8140285+00:00",
   "LastUpdate_AppInfo": "2023-05-21T09:56:59.7858595+00:00",
-  "LastUpdate_Ratings": "2023-05-21T13:56:52.1990235+00:00",
-  "LastUpdate_Achievements": "2023-05-21T14:00:15.2878837+00:00"
+  "LastUpdate_Ratings": "2023-05-21T14:57:20.34982+00:00",
+  "LastUpdate_Achievements": "2023-05-21T15:01:33.8140423+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 268,
+  "EOS_Progressed": 269,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -435,6 +435,11 @@
       "Time": "2023-05-21T11:02:12.2104784+00:00",
       "NumProgressed": 268,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T15:02:17.9533819+00:00",
+      "NumProgressed": 269,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -548,9 +553,9 @@
       "ID": "ACH_COLL_1",
       "SetID": "1j25agn",
       "Name": "Explorer",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH_COLL_20",
@@ -566,15 +571,15 @@
       "Name": "Treasure Hunter",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_COLL_CH01",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter I",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 81
     },
     {
       "ID": "ACH_COLL_CH02",
@@ -582,7 +587,7 @@
       "Name": "Collectibles of Chapter II",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_COLL_CH03",
@@ -668,9 +673,9 @@
       "ID": "ACH_FIN_CH01",
       "SetID": "1j25agn",
       "Name": "Cowardice",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -756,9 +761,9 @@
       "ID": "ACH_FIN_CH12",
       "SetID": "1j25agn",
       "Name": "Atonement",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_HARD_1",
@@ -766,7 +771,7 @@
       "Name": "Such is War!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_HARD_ALL",
@@ -782,7 +787,7 @@
       "Name": "Helping Hand",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_HIDE_BODIES",
@@ -852,17 +857,17 @@
       "ID": "ACH_KILL_OFFICER",
       "SetID": "1j25agn",
       "Name": "Eat Lead!",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 134
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
       "SetID": "1j25agn",
       "Name": "Food Massacre",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_KILL_SNIPER",
@@ -870,7 +875,7 @@
       "Name": "Sniper Wolf",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_KILL_THROW",
@@ -917,15 +922,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 268,
+      "Progressed": 269,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-05-09T23:57:28.9754418+00:00",
-  "LastChanged_Achievements": "2023-05-21T14:00:26.9737835+00:00",
+  "LastChanged_Achievements": "2023-05-21T15:02:17.9533814+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:01.9016759+00:00",
-  "LastUpdate_Ratings": "2023-05-21T13:57:12.5899148+00:00",
-  "LastUpdate_Achievements": "2023-05-21T14:00:26.9738264+00:00"
+  "LastUpdate_Ratings": "2023-05-21T14:57:44.872532+00:00",
+  "LastUpdate_Achievements": "2023-05-21T15:02:17.9534461+00:00"
 }
