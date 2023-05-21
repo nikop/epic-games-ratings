@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 464,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -295,9 +295,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4248,
+  "EOS_Progressed": 4249,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -565,6 +565,11 @@
       "Time": "2023-05-21T21:05:37.3292495+00:00",
       "NumProgressed": 4248,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-05-21T22:05:47.8371587+00:00",
+      "NumProgressed": 4249,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 67,
@@ -624,7 +629,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 3568
+      "UsersEstimate": 3569
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -632,7 +637,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 3993
+      "UsersEstimate": 3994
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -640,7 +645,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3271
+      "UsersEstimate": 3272
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -648,7 +653,7 @@
       "Name": "Hey Listen",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1529
+      "UsersEstimate": 1530
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -792,7 +797,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3228
+      "UsersEstimate": 3229
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -824,7 +829,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 2336
+      "UsersEstimate": 2337
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -840,7 +845,7 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -1111,15 +1116,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4248,
+      "Progressed": 4249,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-05-13T23:57:53.8271899+00:00",
-  "LastChanged_Achievements": "2023-05-21T21:05:37.329249+00:00",
+  "LastChanged_Achievements": "2023-05-21T22:05:47.8371583+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.3215176+00:00",
-  "LastUpdate_Ratings": "2023-05-21T20:57:46.1011052+00:00",
-  "LastUpdate_Achievements": "2023-05-21T21:05:37.329303+00:00"
+  "LastUpdate_Ratings": "2023-05-21T21:57:55.801011+00:00",
+  "LastUpdate_Achievements": "2023-05-21T22:05:47.8372121+00:00"
 }

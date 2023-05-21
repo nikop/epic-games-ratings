@@ -4,7 +4,7 @@
   "ProductSlug": "match-village-5f41dd",
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
@@ -241,8 +241,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-05-21T21:02:38.1165157+00:00",
+  "LastChanged_Achievements": "2023-05-21T22:02:30.7048346+00:00",
   "LastUpdate_AppInfo": "2023-05-18T10:56:57.7570035+00:00",
-  "LastUpdate_Ratings": "2023-05-21T20:56:52.7605978+00:00",
-  "LastUpdate_Achievements": "2023-05-21T21:02:38.1165302+00:00"
+  "LastUpdate_Ratings": "2023-05-21T21:56:50.157797+00:00",
+  "LastUpdate_Achievements": "2023-05-21T22:02:30.7048469+00:00"
 }

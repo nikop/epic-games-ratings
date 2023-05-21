@@ -6,8 +6,8 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 50.00% | ~1,010 |
-| Keeping it classy | 26.00% | ~525 |
+| You're free now! | 50.00% | ~1,011 |
+| Keeping it classy | 26.00% | ~526 |
 | Welcome to the family | 18.00% | ~364 |
 | The finer things in life | 17.00% | ~344 |
 | Backpacker | 12.00% | ~243 |
@@ -17,7 +17,7 @@ Number of Ratings: 111  (23.09.2022)
 | Keep the dream alive | 8.00% | ~162 |
 | The hard way | 8.00% | ~162 |
 | Upfront shredder | 8.00% | ~162 |
-| Good vibes | 7.00% | ~141 |
+| Good vibes | 7.00% | ~142 |
 | Fashionista | 6.00% | ~121 |
 | Finally he zips it | 6.00% | ~121 |
 | G'Day Mate! | 6.00% | ~121 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,021 (Ranked 145)  
+Progressed: 2,022 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-18 | 1,968 | 0 |
 | 2023-05-19 | 1,992 | 0 |
 | 2023-05-20 | 2,009 | 0 |
-| 2023-05-21 | 2,021 | 0 |
+| 2023-05-21 | 2,022 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 392)  
 Sum: 414 (Ranked 300)  

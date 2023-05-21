@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2715,
+  "EOS_Progressed": 2716,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1109,6 +1109,11 @@
       "Time": "2023-05-21T21:06:04.3848519+00:00",
       "NumProgressed": 2715,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-21T22:06:17.2327818+00:00",
+      "NumProgressed": 2716,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1254,9 +1259,9 @@
       "ID": "campaign2",
       "SetID": "2h56gn1",
       "Name": "Flanked!",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2145
+      "UsersEstimate": 2173
     },
     {
       "ID": "campaign20",
@@ -1280,7 +1285,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "campaign5",
@@ -1328,7 +1333,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "scenario2",
@@ -1383,7 +1388,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2715,
+      "Progressed": 2716,
       "Completed": 9
     }
   ],
@@ -1391,8 +1396,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-21T21:06:04.3848515+00:00",
+  "LastChanged_Achievements": "2023-05-21T22:06:17.2327813+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:08.6918917+00:00",
-  "LastUpdate_Ratings": "2023-05-21T21:00:13.5716049+00:00",
-  "LastUpdate_Achievements": "2023-05-21T21:06:04.3848765+00:00"
+  "LastUpdate_Ratings": "2023-05-21T22:00:37.9520374+00:00",
+  "LastUpdate_Achievements": "2023-05-21T22:06:17.2328052+00:00"
 }

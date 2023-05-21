@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | BBFF (Best Brigade Friend Forever) | 59.00% | ~102 |
-| Conspiracy Theorist | 49.00% | ~85 |
+| Conspiracy Theorist | 50.00% | ~86 |
 | On the Road | 46.00% | ~80 |
 | Souvenirs | 36.00% | ~62 |
 | This is Not Heavy Metal! | 21.00% | ~36 |

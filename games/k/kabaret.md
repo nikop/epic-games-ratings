@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Your Journey Begins | 80.00% | ~8 |
 | The Boy That Came With The Rain | 50.00% | ~5 |
-| Welcome To The Kabaret | 30.00% | ~3 |
+| Welcome To The Kabaret | 40.00% | ~4 |
 | Congkak Hero | 30.00% | ~3 |
 | Congkak Champion | 30.00% | ~3 |
 | An Unheard Song | 30.00% | ~3 |

@@ -2,9 +2,9 @@
   "ID": "405a48516fba4540bd8cc17c53085ab2",
   "Name": "Island Cities",
   "ProductSlug": "island-cities-0a3026",
-  "Ranking_EOS_Progress": 251,
+  "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 133,
+  "EOS_Progressed": 136,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 17.29,
+  "EOS_Completed_Percentage": 16.91,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -598,6 +598,11 @@
       "Time": "2023-05-21T21:05:30.2723167+00:00",
       "NumProgressed": 133,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-21T22:05:40.3146589+00:00",
+      "NumProgressed": 136,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 22,
@@ -607,9 +612,9 @@
       "ID": "LEVEL_001",
       "SetID": "3khpmem",
       "Name": "Welcome!",
-      "Percentage": 98,
+      "Percentage": 99,
       "XP": 35,
-      "UsersEstimate": 130
+      "UsersEstimate": 135
     },
     {
       "ID": "LEVEL_002",
@@ -617,7 +622,7 @@
       "Name": "A tiny town",
       "Percentage": 83,
       "XP": 35,
-      "UsersEstimate": 110
+      "UsersEstimate": 113
     },
     {
       "ID": "LEVEL_003",
@@ -625,7 +630,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 65,
       "XP": 35,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     },
     {
       "ID": "LEVEL_004",
@@ -633,7 +638,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 53,
       "XP": 35,
-      "UsersEstimate": 70
+      "UsersEstimate": 72
     },
     {
       "ID": "LEVEL_005",
@@ -641,13 +646,13 @@
       "Name": "Bridges to come and go",
       "Percentage": 47,
       "XP": 35,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "LEVEL_006",
       "SetID": "3khpmem",
       "Name": "Found an oasis",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 35,
       "UsersEstimate": 53
     },
@@ -655,7 +660,7 @@
       "ID": "LEVEL_007",
       "SetID": "3khpmem",
       "Name": "Burger or pizza?",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 35,
       "UsersEstimate": 48
     },
@@ -665,29 +670,29 @@
       "Name": "Passion for sports",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "LEVEL_009",
       "SetID": "3khpmem",
       "Name": "Who loves trains?",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 39
+      "UsersEstimate": 38
     },
     {
       "ID": "LEVEL_010",
       "SetID": "3khpmem",
       "Name": "Easy and steady climb",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 39
+      "UsersEstimate": 38
     },
     {
       "ID": "LEVEL_011",
       "SetID": "3khpmem",
       "Name": "At the heart of the city",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 50,
       "UsersEstimate": 37
     },
@@ -703,9 +708,9 @@
       "ID": "LEVEL_013",
       "SetID": "3khpmem",
       "Name": "Elevated ring",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 34
     },
     {
       "ID": "LEVEL_014",
@@ -721,7 +726,7 @@
       "Name": "Monumental tribute",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "LEVEL_016",
@@ -729,7 +734,7 @@
       "Name": "The beach is right there",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "LEVEL_017",
@@ -737,15 +742,15 @@
       "Name": "Commuting",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "LEVEL_018",
       "SetID": "3khpmem",
       "Name": "Le jardin magnifique",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 24
     },
     {
       "ID": "LEVEL_019",
@@ -784,7 +789,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 133,
+      "Progressed": 136,
       "Completed": 23
     }
   ],
@@ -792,8 +797,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-21T21:05:30.2723165+00:00",
+  "LastChanged_Achievements": "2023-05-21T22:05:40.3146584+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:36.8517809+00:00",
-  "LastUpdate_Ratings": "2023-05-21T20:57:50.36996+00:00",
-  "LastUpdate_Achievements": "2023-05-21T21:05:30.2723288+00:00"
+  "LastUpdate_Ratings": "2023-05-21T21:58:00.6957373+00:00",
+  "LastUpdate_Achievements": "2023-05-21T22:05:40.3146736+00:00"
 }

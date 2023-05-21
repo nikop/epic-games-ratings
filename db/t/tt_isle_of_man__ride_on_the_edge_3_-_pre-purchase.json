@@ -2,9 +2,9 @@
   "ID": "3d7d73d0611849969f568da28ae10530",
   "Name": "TT Isle of Man: Ride on the Edge 3 - Pre-Purchase",
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
-  "Ranking_EOS_Progress": 290,
-  "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_Progress": 289,
+  "Ranking_EOS_Completed": 60,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 42,
+  "EOS_Progressed": 43,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.38,
+  "EOS_Completed_Percentage": 2.33,
   "EosHistory": [
     {
       "Time": "2023-05-09T11:06:33.5022357+00:00",
@@ -214,6 +214,11 @@
       "Time": "2023-05-21T21:02:12.1875152+00:00",
       "NumProgressed": 42,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-21T22:01:32.1222204+00:00",
+      "NumProgressed": 43,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 39,
@@ -239,7 +244,7 @@
       "ID": "ACHIEVEMENT_03",
       "SetID": "gagif7",
       "Name": "To Each Their Own",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 5,
       "UsersEstimate": 18
     },
@@ -479,7 +484,7 @@
       "ID": "ACHIEVEMENT_33",
       "SetID": "gagif7",
       "Name": "Start Your Engines",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -487,7 +492,7 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "gagif7",
       "Name": "You\u0027re Going Down!",
-      "Percentage": 95,
+      "Percentage": 93,
       "XP": 5,
       "UsersEstimate": 40
     },
@@ -536,14 +541,14 @@
     {
       "ID": "gagif7",
       "IsBase": true,
-      "Progressed": 42,
+      "Progressed": 43,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-05-21T21:02:12.1875146+00:00",
+  "LastChanged_Achievements": "2023-05-21T22:01:32.1222199+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:05.2189133+00:00",
-  "LastUpdate_Ratings": "2023-05-21T20:57:24.9257734+00:00",
-  "LastUpdate_Achievements": "2023-05-21T21:02:12.1875446+00:00"
+  "LastUpdate_Ratings": "2023-05-21T21:57:28.1674653+00:00",
+  "LastUpdate_Achievements": "2023-05-21T22:01:32.1222567+00:00"
 }

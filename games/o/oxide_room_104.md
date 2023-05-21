@@ -12,8 +12,9 @@
 | Let's play a game… | 59.00% | ~10 |
 | Now or never | 59.00% | ~10 |
 | First aid | 53.00% | ~9 |
+| Antidote | 47.00% | ~8 |
 | Soundtrack | 47.00% | ~8 |
-| Antidote | 41.00% | ~7 |
+| Pick the right door | 29.00% | ~5 |
 | On the right path | 24.00% | ~4 |
 | I'm close now | 24.00% | ~4 |
 | Failed attempt | 24.00% | ~4 |
@@ -22,7 +23,6 @@
 | Good choice | 24.00% | ~4 |
 | It can't be true | 24.00% | ~4 |
 | Take the long way round | 24.00% | ~4 |
-| Pick the right door | 24.00% | ~4 |
 | One-way | 24.00% | ~4 |
 | The third floor | 24.00% | ~4 |
 | Born again | 18.00% | ~3 |

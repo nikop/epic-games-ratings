@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 403,
+  "EOS_Progressed": 404,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -144,6 +144,11 @@
       "Time": "2023-05-21T16:05:31.6878202+00:00",
       "NumProgressed": 403,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-21T22:06:05.7268422+00:00",
+      "NumProgressed": 404,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -171,7 +176,7 @@
       "Name": "Lion Tamer",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -179,7 +184,7 @@
       "Name": "One More Thing...",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -235,7 +240,7 @@
       "Name": "Lucky Day",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -243,7 +248,7 @@
       "Name": "Fan Service",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -251,7 +256,7 @@
       "Name": "Bar Brawler",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACHIEVEMENT_14",
@@ -387,7 +392,7 @@
       "Name": "King of District 1",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -475,7 +480,7 @@
       "Name": "Self Defense",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -491,7 +496,7 @@
       "Name": "Amazing!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -554,7 +559,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 403,
+      "Progressed": 404,
       "Completed": 1
     }
   ],
@@ -562,8 +567,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-05-21T21:05:53.6362184+00:00",
+  "LastChanged_Achievements": "2023-05-21T22:06:05.7268415+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.3315704+00:00",
-  "LastUpdate_Ratings": "2023-05-21T20:58:47.7221634+00:00",
-  "LastUpdate_Achievements": "2023-05-21T21:05:53.6362534+00:00"
+  "LastUpdate_Ratings": "2023-05-21T21:59:06.4602602+00:00",
+  "LastUpdate_Achievements": "2023-05-21T22:06:05.726879+00:00"
 }

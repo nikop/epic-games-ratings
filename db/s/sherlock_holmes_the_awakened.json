@@ -423,9 +423,9 @@
       "ID": "MQ01_1",
       "SetID": "bbing49",
       "Name": "Read Between The Lines",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 132
     },
     {
       "ID": "MQ01_2",
@@ -463,17 +463,17 @@
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 40,
-      "UsersEstimate": 116
+      "UsersEstimate": 118
     },
     {
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 106
     },
     {
       "ID": "MQ03_2",
@@ -559,9 +559,9 @@
       "ID": "MQ05_4",
       "SetID": "bbing49",
       "Name": "Knives Out",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 90
+      "UsersEstimate": 92
     },
     {
       "ID": "MQ06_1",
@@ -656,8 +656,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-21T21:02:13.056315+00:00",
+  "LastChanged_Achievements": "2023-05-21T22:01:33.1016108+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.473335+00:00",
-  "LastUpdate_Ratings": "2023-05-21T20:57:07.3475353+00:00",
-  "LastUpdate_Achievements": "2023-05-21T21:02:13.0563368+00:00"
+  "LastUpdate_Ratings": "2023-05-21T21:57:06.9193916+00:00",
+  "LastUpdate_Achievements": "2023-05-21T22:01:33.1016289+00:00"
 }

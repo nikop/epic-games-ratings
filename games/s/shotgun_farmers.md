@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Aspairagus | 17.00% | ~1 |
 | Survivor | 15.00% | ~0 |
-| Aspairagus | 15.00% | ~0 |
+| Bouncemato | 11.00% | ~0 |
 | Early Survivor | 11.00% | ~0 |
-| Bouncemato | 9.00% | ~0 |
+| Quick-Draw Pod | 9.00% | ~0 |
 | No Diggity | 9.00% | ~0 |
 | Seeds of War | 8.00% | ~4 |
-| Quick-Draw Pod | 8.00% | ~0 |
 | Oh My Gourd | 6.00% | ~0 |
 | Perfect | 6.00% | ~0 |
 | Grave Digger | 6.00% | ~0 |

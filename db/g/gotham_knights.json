@@ -1160,9 +1160,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61573,
+  "EOS_Progressed": 61583,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 692,
+  "EOS_NewPlayers": 702,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3230,6 +3230,11 @@
       "Time": "2023-05-21T21:06:08.1854321+00:00",
       "NumProgressed": 61573,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-21T22:06:21.1458729+00:00",
+      "NumProgressed": 61583,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3559,9 +3564,9 @@
       "ID": "HARLEY_3",
       "SetID": "4eo5ebm",
       "Name": "Working Hard or Harley Working?",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 369
     },
     {
       "ID": "HARLEY_4",
@@ -3728,13 +3733,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61573,
+      "Progressed": 61583,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31853,
+      "Progressed": 31863,
       "Completed": 2640
     }
   ],
@@ -3742,8 +3747,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-21T20:59:39.1766882+00:00",
-  "LastChanged_Achievements": "2023-05-21T21:06:08.1854316+00:00",
+  "LastChanged_Achievements": "2023-05-21T22:06:21.1458719+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-21T20:59:39.1766886+00:00",
-  "LastUpdate_Achievements": "2023-05-21T21:06:08.1854868+00:00"
+  "LastUpdate_Ratings": "2023-05-21T22:00:01.626594+00:00",
+  "LastUpdate_Achievements": "2023-05-21T22:06:21.1459279+00:00"
 }

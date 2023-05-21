@@ -2,7 +2,7 @@
   "ID": "d5cbd232ad304c91aacc20f31849435c",
   "Name": "House Flipper",
   "ProductSlug": "house-flipper",
-  "Ranking_Rating": 191,
+  "Ranking_Rating": 192,
   "Ranking_Popularity": 226,
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 93,
@@ -1422,9 +1422,9 @@
       "Count": 204
     }
   ],
-  "EOS_Progressed": 18882,
+  "EOS_Progressed": 18883,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2442,6 +2442,11 @@
       "Time": "2023-05-21T21:05:47.5023949+00:00",
       "NumProgressed": 18882,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-21T22:05:59.016458+00:00",
+      "NumProgressed": 18883,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -2501,7 +2506,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 17749
+      "UsersEstimate": 17750
     },
     {
       "ID": "GameOver",
@@ -2613,7 +2618,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5853
+      "UsersEstimate": 5854
     },
     {
       "ID": "VeronicaLiptson",
@@ -2636,15 +2641,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 18882,
+      "Progressed": 18883,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-05-21T16:58:58.3259772+00:00",
-  "LastChanged_Achievements": "2023-05-21T21:05:47.5023944+00:00",
+  "LastChanged_Achievements": "2023-05-21T22:05:59.0164578+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:56.8900842+00:00",
-  "LastUpdate_Ratings": "2023-05-21T20:59:18.5974837+00:00",
-  "LastUpdate_Achievements": "2023-05-21T21:05:47.5024125+00:00"
+  "LastUpdate_Ratings": "2023-05-21T21:59:40.3380945+00:00",
+  "LastUpdate_Achievements": "2023-05-21T22:05:59.016479+00:00"
 }

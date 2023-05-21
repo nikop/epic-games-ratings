@@ -6,13 +6,13 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 74.00% | ~1,839 |
-| Ready for Winter | 64.00% | ~1,590 |
-| Ready for Summer | 51.00% | ~1,267 |
+| Venture Outward | 74.00% | ~1,840 |
+| Ready for Winter | 64.00% | ~1,591 |
+| Ready for Summer | 51.00% | ~1,268 |
 | Cordon Bleu | 43.00% | ~1,069 |
 | Tapped! | 35.00% | ~870 |
-| Eureka | 31.00% | ~770 |
-| Scourge Slayer | 25.00% | ~621 |
+| Eureka | 31.00% | ~771 |
+| Scourge Slayer | 25.00% | ~622 |
 | Science, Troglodyte! | 23.00% | ~572 |
 | Exceptional Skill | 22.00% | ~547 |
 | Home Sweet Home | 22.00% | ~547 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.40% | ~10 |
 | The Absolute Pinnacle. | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,485 (Ranked 140)  
+Progressed: 2,486 (Ranked 140)  
 Completed: 1 (0.04%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 1 (0.04%) (Ranked 177)
 | 2023-05-18 | 2,397 | 1 |
 | 2023-05-19 | 2,424 | 1 |
 | 2023-05-20 | 2,454 | 1 |
-| 2023-05-21 | 2,485 | 1 |
+| 2023-05-21 | 2,486 | 1 |
 ## Awards
 Max (Amazing Characters): 31  (Ranked 440)  
 Sum: 238 (Ranked 342)  

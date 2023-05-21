@@ -19,13 +19,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kill Nil | 0.80% | ~5,635 |
 | Life is your teacher | 0.80% | ~5,635 |
 | State of constant learning | 0.80% | ~5,635 |
-| Qi Gong: Essence | 0.80% | ~5,635 |
 | Lightning Hands | 0.80% | ~5,635 |
 | Path of the Prospect | 0.80% | ~5,635 |
 | Rumble in the Hangar | 0.80% | ~5,635 |
 | Furious Fists | 0.70% | ~4,931 |
 | Stuntmaster | 0.70% | ~4,931 |
 | Street Fighting | 0.70% | ~4,931 |
+| Qi Gong: Essence | 0.70% | ~4,931 |
 | Take damage to save time | 0.70% | ~4,931 |
 | Scareless | 0.60% | ~4,226 |
 | Old Child | 0.60% | ~4,226 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~704 |
 | Warriors from the Mountain | 0.10% | ~704 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,400 (Ranked 15)  
+Progressed: 704,403 (Ranked 15)  
 Completed: 12,733 (1.81%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,17 +88,17 @@ Completed: 12,733 (1.81%) (Ranked 64)
 | 2023-05-18 | 703,070 | 12,731 |
 | 2023-05-19 | 703,575 | 12,731 |
 | 2023-05-20 | 704,036 | 12,732 |
-| 2023-05-21 | 704,400 | 12,733 |
+| 2023-05-21 | 704,403 | 12,733 |
 ## Awards
 Max (Great Boss Battles): 6,082  (Ranked 53)  
-Sum: 10,348 (Ranked 77)  
+Sum: 10,350 (Ranked 77)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,082 |
 | This game has Diverse Characters | 511 |
 | This game has Challenging Combat | 510 |
-| This game has Quickly Understood Controls | 500 |
+| This game has Quickly Understood Controls | 502 |
 | This game is Extremely Fun | 499 |
 | This game has Amazing Storytelling | 490 |
 | This game is Highly Recommended | 477 |
@@ -235,4 +235,4 @@ Diff (max vs sum): -24
 | 2023-05-18 | 4.82 | - | 6,074 | 10,327 |
 | 2023-05-19 | 4.82 | - | 6,075 | 10,335 |
 | 2023-05-20 | 4.82 | - | 6,078 | 10,342 |
-| 2023-05-21 | 4.82 | - | 6,082 | 10,348 |
+| 2023-05-21 | 4.82 | - | 6,082 | 10,350 |

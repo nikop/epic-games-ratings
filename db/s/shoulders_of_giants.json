@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2041,
+  "EOS_Progressed": 2042,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -730,6 +730,11 @@
       "Time": "2023-05-21T19:07:03.7891418+00:00",
       "NumProgressed": 2041,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-21T22:06:13.750138+00:00",
+      "NumProgressed": 2042,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -757,7 +762,7 @@
       "Name": "The First Law of Thermodynamics",
       "Percentage": 28,
       "XP": 150,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "complete_act_three",
@@ -781,7 +786,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1796
+      "UsersEstimate": 1797
     },
     {
       "ID": "deal_damage",
@@ -789,7 +794,7 @@
       "Name": "Ouch",
       "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "defeat_enemies",
@@ -797,7 +802,7 @@
       "Name": "A Ribbiting Performance",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 1592
+      "UsersEstimate": 1593
     },
     {
       "ID": "defeat_tree_dummy",
@@ -805,7 +810,7 @@
       "Name": "Do you feel like a tough guy?",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "fail_planet",
@@ -813,7 +818,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1551
+      "UsersEstimate": 1552
     },
     {
       "ID": "piercing_beam",
@@ -829,7 +834,7 @@
       "Name": "Turn Up The HEAT",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "reach_high_heat",
@@ -845,7 +850,7 @@
       "Name": "Frogbot",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 1490
+      "UsersEstimate": 1491
     },
     {
       "ID": "save_planet_bestfriend",
@@ -861,7 +866,7 @@
       "Name": "The Interdimensional Power of Friendship",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "stick_decoy",
@@ -869,7 +874,7 @@
       "Name": "Stop Hitting Yourself!",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "stun_enemies",
@@ -892,7 +897,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2041,
+      "Progressed": 2042,
       "Completed": 8
     }
   ],
@@ -900,8 +905,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-05-15T22:59:29.8330198+00:00",
-  "LastChanged_Achievements": "2023-05-21T21:06:01.2376537+00:00",
+  "LastChanged_Achievements": "2023-05-21T22:06:13.7501375+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:21.4953983+00:00",
-  "LastUpdate_Ratings": "2023-05-21T21:00:17.5714052+00:00",
-  "LastUpdate_Achievements": "2023-05-21T21:06:01.2376677+00:00"
+  "LastUpdate_Ratings": "2023-05-21T22:00:41.2873511+00:00",
+  "LastUpdate_Achievements": "2023-05-21T22:06:13.750153+00:00"
 }

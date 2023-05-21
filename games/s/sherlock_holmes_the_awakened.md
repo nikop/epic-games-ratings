@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 70.00% | ~140 |
-| Read Between The Lines | 65.00% | ~130 |
+| Read Between The Lines | 66.00% | ~132 |
 | High Profile | 62.00% | ~124 |
-| Whispers In The Dark | 58.00% | ~116 |
-| Fond Memories | 52.00% | ~104 |
+| Whispers In The Dark | 59.00% | ~118 |
+| Fond Memories | 53.00% | ~106 |
 | History Check | 50.00% | ~100 |
 | A Method To His Madness | 50.00% | ~100 |
 | The New World | 48.00% | ~96 |
@@ -16,8 +16,8 @@
 | Gaze Into The Abyss | 46.00% | ~92 |
 | Open Sesame | 46.00% | ~92 |
 | Sticky Fingers | 46.00% | ~92 |
+| Knives Out | 46.00% | ~92 |
 | Back In The Saddle | 45.00% | ~90 |
-| Knives Out | 45.00% | ~90 |
 | Land, Ho! | 44.00% | ~88 |
 | No Man Is An Island | 43.00% | ~86 |
 | At Wits' End | 40.00% | ~80 |

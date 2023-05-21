@@ -4066,10 +4066,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10348,
       "NumberOfAwardsMax": 6082
+    },
+    {
+      "Time": "2023-05-21T21:59:10.8120002+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10350,
+      "NumberOfAwardsMax": 6082
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10348,
+  "NumberOfAwards": 10350,
   "NumberOfAwardsMax": 6082,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4089,7 +4095,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 500
+      "Count": 502
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4146,9 +4152,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 704400,
+  "EOS_Progressed": 704403,
   "EOS_Completed": 12733,
-  "EOS_NewPlayers": 1469,
+  "EOS_NewPlayers": 1470,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -6651,6 +6657,11 @@
       "Time": "2023-05-21T21:05:56.2725094+00:00",
       "NumProgressed": 704400,
       "NumCompleted": 12733
+    },
+    {
+      "Time": "2023-05-21T22:06:08.5990573+00:00",
+      "NumProgressed": 704403,
+      "NumCompleted": 12733
     }
   ],
   "TotalAchievements": 50,
@@ -6868,9 +6879,9 @@
       "ID": "27_ShrineBody",
       "SetID": "adcm20g",
       "Name": "Qi Gong: Essence",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5635
+      "UsersEstimate": 4931
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -7061,21 +7072,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 13701,
+      "Progressed": 13704,
       "Completed": 10142
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 704400,
+      "Progressed": 704403,
       "Completed": 12733
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-05-21T19:59:25.7786872+00:00",
-  "LastChanged_Achievements": "2023-05-21T21:05:56.2725089+00:00",
+  "LastChanged": "2023-05-21T21:59:10.8120001+00:00",
+  "LastChanged_Achievements": "2023-05-21T22:06:08.5990569+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.7579865+00:00",
-  "LastUpdate_Ratings": "2023-05-21T20:58:52.4568524+00:00",
-  "LastUpdate_Achievements": "2023-05-21T21:05:56.2725549+00:00"
+  "LastUpdate_Ratings": "2023-05-21T21:59:10.8120006+00:00",
+  "LastUpdate_Achievements": "2023-05-21T22:06:08.5991051+00:00"
 }

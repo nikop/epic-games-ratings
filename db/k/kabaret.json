@@ -4,7 +4,7 @@
   "ProductSlug": "kabaret-4810f9",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-05T16:00:00+00:00",
@@ -155,9 +155,9 @@
       "ID": "2",
       "SetID": "37jn7be",
       "Name": "Welcome To The Kabaret",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "20",
@@ -612,8 +612,8 @@
   "FirstSeenRating": "2023-04-29T22:57:51.702813+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:15.0612299+00:00",
   "LastChanged": "2023-04-29T22:57:51.7028131+00:00",
-  "LastChanged_Achievements": "2023-05-21T21:05:32.892109+00:00",
+  "LastChanged_Achievements": "2023-05-21T22:05:43.1829536+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.1178962+00:00",
-  "LastUpdate_Ratings": "2023-05-21T20:57:50.5199226+00:00",
-  "LastUpdate_Achievements": "2023-05-21T21:05:32.8921626+00:00"
+  "LastUpdate_Ratings": "2023-05-21T21:58:00.8616205+00:00",
+  "LastUpdate_Achievements": "2023-05-21T22:05:43.1830072+00:00"
 }

@@ -94,9 +94,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2088,
+  "EOS_Progressed": 2089,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1609,6 +1609,11 @@
       "Time": "2023-05-21T20:06:20.6066689+00:00",
       "NumProgressed": 2088,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-21T22:05:50.5516183+00:00",
+      "NumProgressed": 2089,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1652,7 +1657,7 @@
       "Name": "Whispers in the Woods III",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "STB_COPY_ABILITIES",
@@ -1668,7 +1673,7 @@
       "Name": "Elemental master",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -1684,7 +1689,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1700,7 +1705,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1609
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -1716,7 +1721,7 @@
       "Name": "Friendly fire",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "STB_DEFEAT_MAGICSHIFTER",
@@ -1732,7 +1737,7 @@
       "Name": "I chose my shackles",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -1796,7 +1801,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1587
+      "UsersEstimate": 1588
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -1804,7 +1809,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1921
+      "UsersEstimate": 1922
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1836,7 +1841,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1587
+      "UsersEstimate": 1588
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -1868,7 +1873,7 @@
       "Name": "Sacred Woods",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -1900,7 +1905,7 @@
       "Name": "The Central Headquarters",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "STB_MISSION8_COMPLETED",
@@ -1964,7 +1969,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -1996,7 +2001,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1525
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -2043,7 +2048,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2088,
+      "Progressed": 2089,
       "Completed": 1
     }
   ],
@@ -2051,8 +2056,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-17T18:57:40.491639+00:00",
-  "LastChanged_Achievements": "2023-05-21T21:05:39.8004212+00:00",
+  "LastChanged_Achievements": "2023-05-21T22:05:50.5516177+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:08.2361804+00:00",
-  "LastUpdate_Ratings": "2023-05-21T20:57:27.9945344+00:00",
-  "LastUpdate_Achievements": "2023-05-21T21:05:39.8004711+00:00"
+  "LastUpdate_Ratings": "2023-05-21T21:57:33.954619+00:00",
+  "LastUpdate_Achievements": "2023-05-21T22:05:50.5516599+00:00"
 }

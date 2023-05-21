@@ -333,9 +333,9 @@
       "ID": "TROP006",
       "SetID": "9n0dl35",
       "Name": "Maternity",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 66
     },
     {
       "ID": "TROP007",
@@ -518,8 +518,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-05-21T21:05:38.6387407+00:00",
+  "LastChanged_Achievements": "2023-05-21T22:05:49.2430121+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:12.8901211+00:00",
-  "LastUpdate_Ratings": "2023-05-21T20:58:45.4000734+00:00",
-  "LastUpdate_Achievements": "2023-05-21T21:05:38.6387625+00:00"
+  "LastUpdate_Ratings": "2023-05-21T21:59:03.7797328+00:00",
+  "LastUpdate_Achievements": "2023-05-21T22:05:49.2430295+00:00"
 }
