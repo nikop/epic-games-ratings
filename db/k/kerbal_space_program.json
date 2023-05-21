@@ -4,11 +4,11 @@
   "ProductSlug": "kerbal-space-program",
   "Ranking_Rating": 77,
   "Ranking_Popularity": 172,
-  "Ranking_PopularitySum": 140,
-  "Ranking_EOS_Progress": 410,
+  "Ranking_PopularitySum": 139,
+  "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-01-05T16:00:00+00:00",
     "PcReleaseDate": "2015-04-27T15:00:00+00:00",
@@ -1786,10 +1786,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 3643,
       "NumberOfAwardsMax": 558
+    },
+    {
+      "Time": "2023-05-21T19:57:16.9594251+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 3653,
+      "NumberOfAwardsMax": 558
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3643,
+  "NumberOfAwards": 3653,
   "NumberOfAwardsMax": 558,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -1797,7 +1803,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 479
+      "Count": 482
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1827,7 +1833,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 416
+      "Count": 423
     },
     {
       "Text": "This game has a Creative Community",
@@ -1854,8 +1860,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-01-05T18:57:29.6336645+00:00",
   "FirstSeenRating": "2023-01-06T04:57:07.6192793+00:00",
-  "LastChanged": "2023-05-21T18:57:16.5592335+00:00",
+  "LastChanged": "2023-05-21T19:57:16.959425+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:05.5070287+00:00",
-  "LastUpdate_Ratings": "2023-05-21T18:57:16.5592341+00:00",
-  "LastUpdate_Achievements": "2023-05-21T19:01:53.7393508+00:00"
+  "LastUpdate_Ratings": "2023-05-21T19:57:16.9594255+00:00",
+  "LastUpdate_Achievements": "2023-05-21T20:01:40.6943386+00:00"
 }

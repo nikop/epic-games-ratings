@@ -4,8 +4,8 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -477,9 +477,9 @@
       "ID": "TROP024",
       "SetID": "9n0dl35",
       "Name": "You Can Pet The Fox",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 128
     },
     {
       "ID": "TROP025",
@@ -518,8 +518,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-05-21T19:06:37.5678621+00:00",
+  "LastChanged_Achievements": "2023-05-21T20:06:18.7878529+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:12.8901211+00:00",
-  "LastUpdate_Ratings": "2023-05-21T18:59:25.8669286+00:00",
-  "LastUpdate_Achievements": "2023-05-21T19:06:37.5678912+00:00"
+  "LastUpdate_Ratings": "2023-05-21T19:59:16.8725939+00:00",
+  "LastUpdate_Achievements": "2023-05-21T20:06:18.7878724+00:00"
 }

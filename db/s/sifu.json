@@ -4060,18 +4060,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 10344,
       "NumberOfAwardsMax": 6078
+    },
+    {
+      "Time": "2023-05-21T19:59:25.7786874+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10348,
+      "NumberOfAwardsMax": 6082
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10344,
-  "NumberOfAwardsMax": 6078,
+  "NumberOfAwards": 10348,
+  "NumberOfAwardsMax": 6082,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6078
+      "Count": 6082
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4140,7 +4146,7 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 704386,
+  "EOS_Progressed": 704391,
   "EOS_Completed": 12733,
   "EOS_NewPlayers": 1462,
   "EOS_NewCompleters": 7,
@@ -6635,6 +6641,11 @@
       "Time": "2023-05-21T19:06:57.8668871+00:00",
       "NumProgressed": 704386,
       "NumCompleted": 12733
+    },
+    {
+      "Time": "2023-05-21T20:06:38.5189137+00:00",
+      "NumProgressed": 704391,
+      "NumCompleted": 12733
     }
   ],
   "TotalAchievements": 50,
@@ -6662,7 +6673,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6339
+      "UsersEstimate": 6340
     },
     {
       "ID": "04_Vengeance_H3",
@@ -6846,7 +6857,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6339
+      "UsersEstimate": 6340
     },
     {
       "ID": "27_ShrineBody",
@@ -6990,7 +7001,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -7045,21 +7056,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 13687,
+      "Progressed": 13692,
       "Completed": 10141
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 704386,
+      "Progressed": 704391,
       "Completed": 12733
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-05-21T02:05:11.0148373+00:00",
-  "LastChanged_Achievements": "2023-05-21T19:06:57.8668867+00:00",
+  "LastChanged": "2023-05-21T19:59:25.7786872+00:00",
+  "LastChanged_Achievements": "2023-05-21T20:06:38.5189132+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.7579865+00:00",
-  "LastUpdate_Ratings": "2023-05-21T18:59:34.8356449+00:00",
-  "LastUpdate_Achievements": "2023-05-21T19:06:57.8669696+00:00"
+  "LastUpdate_Ratings": "2023-05-21T19:59:25.7786878+00:00",
+  "LastUpdate_Achievements": "2023-05-21T20:06:38.5189581+00:00"
 }

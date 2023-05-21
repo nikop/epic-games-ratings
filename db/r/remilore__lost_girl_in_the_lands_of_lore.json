@@ -2,10 +2,10 @@
   "ID": "3fbe0be2f0a44febb56dc080c3a53775",
   "Name": "RemiLore: Lost Girl in the Lands of Lore",
   "ProductSlug": "remilore-lost-girl-in-the-lands-of-lore",
-  "Ranking_EOS_Progress": 410,
+  "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-02-12T16:00:00+00:00",
     "PcReleaseDate": "2019-09-04T16:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:34.9177629+00:00",
   "LastChanged": "2023-03-31T05:58:34.917763+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.1965964+00:00",
-  "LastUpdate_Ratings": "2023-05-21T18:59:28.1695967+00:00",
-  "LastUpdate_Achievements": "2023-05-21T19:04:10.3733912+00:00"
+  "LastUpdate_Ratings": "2023-05-21T19:59:19.03153+00:00",
+  "LastUpdate_Achievements": "2023-05-21T20:03:49.1453844+00:00"
 }

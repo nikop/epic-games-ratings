@@ -6,14 +6,15 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| A Brief Tour of the Realms | 0.50% | ~441 |
 | The Court of Storms | 0.50% | ~273 |
-| A Brief Tour of the Realms | 0.40% | ~353 |
 | Beware the Jabberwock | 0.40% | ~218 |
 | The Cursed Farmer | 0.30% | ~265 |
 | The Mad Wizard | 0.30% | ~265 |
 | Coasting to the Finish | 0.30% | ~164 |
 | Beast Intentions | 0.20% | ~176 |
 | Were-verpowered | 0.20% | ~176 |
+| Checkmate | 0.20% | ~109 |
 | The Ring of Regeneration | 0.20% | ~176 |
 | Seeking Allies | 0.20% | ~176 |
 | Are Ya Chicken? | 0.20% | ~176 |
@@ -124,7 +125,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Kas the Bloody Handed | 0.10% | ~55 |
 | Get Back In The Castle | 0.10% | ~55 |
 | Kas the Destroyer | 0.10% | ~55 |
-| Checkmate | 0.10% | ~55 |
 | Pin and Skewer | 0.10% | ~55 |
 | Vecna Out! | 0.10% | ~55 |
 | Bully for Vecna | 0.10% | ~55 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.10% | ~88 |
 | Rescue in the Jungle | 0.10% | ~88 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,227 (Ranked 59)  
+Progressed: 88,231 (Ranked 59)  
 Completed: 1,860 (2.11%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -531,7 +531,7 @@ Completed: 1,860 (2.11%) (Ranked 62)
 | 2023-05-18 | 87,918 | 1,850 |
 | 2023-05-19 | 88,008 | 1,851 |
 | 2023-05-20 | 88,132 | 1,854 |
-| 2023-05-21 | 88,227 | 1,860 |
+| 2023-05-21 | 88,231 | 1,860 |
 ## Awards
 Max (Diverse Characters): 4,892  (Ranked 64)  
 Sum: 29,941 (Ranked 37)  

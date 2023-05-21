@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
     "PcReleaseDate": "2022-08-18T17:00:00+00:00",
@@ -176,25 +176,25 @@
       "ID": "BILLY_BOB_1",
       "SetID": "9gfkh7c",
       "Name": "You are no match for me, Billy!",
-      "Percentage": 18,
-      "XP": 10,
-      "UsersEstimate": 6
-    },
-    {
-      "ID": "BILLY_GOAT_1",
-      "SetID": "9gfkh7c",
-      "Name": "Meatballs, coming up!",
       "Percentage": 21,
       "XP": 10,
       "UsersEstimate": 7
     },
     {
+      "ID": "BILLY_GOAT_1",
+      "SetID": "9gfkh7c",
+      "Name": "Meatballs, coming up!",
+      "Percentage": 24,
+      "XP": 10,
+      "UsersEstimate": 8
+    },
+    {
       "ID": "CHEESE_1",
       "SetID": "9gfkh7c",
       "Name": "That\u0027s what cheese said!",
-      "Percentage": 79,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "CHEESE_2",
@@ -272,9 +272,9 @@
       "ID": "COMPLETE_DUNGEONRUINSSMALL_05",
       "SetID": "9gfkh7c",
       "Name": "Ancient Ruins of Dirty Feet",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "COMPLETE_DUNGEONRUINSSMALL_06",
@@ -368,9 +368,9 @@
       "ID": "DODGE_1",
       "SetID": "9gfkh7c",
       "Name": "Rolling, Rolling, Rolling",
-      "Percentage": 58,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "DODGE_2",
@@ -384,9 +384,9 @@
       "ID": "DODGE_3",
       "SetID": "9gfkh7c",
       "Name": "I want to throw up!",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DRUNK_1",
@@ -416,9 +416,9 @@
       "ID": "ENEMIES_1",
       "SetID": "9gfkh7c",
       "Name": "Butcher",
-      "Percentage": 33,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ENEMIES_2",
@@ -448,9 +448,9 @@
       "ID": "FIRE_1",
       "SetID": "9gfkh7c",
       "Name": "AHHHHHH.....I\u0027M ON FIRE!!!",
-      "Percentage": 73,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "FIRE_2",
@@ -504,9 +504,9 @@
       "ID": "GNOME_2",
       "SetID": "9gfkh7c",
       "Name": "Your daily dose of Vitamin C.",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GNOME_3",
@@ -528,9 +528,9 @@
       "ID": "GRENADIER_2",
       "SetID": "9gfkh7c",
       "Name": "You\u0027re not going to blow me up!",
-      "Percentage": 36,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "HIDDEN_1",
@@ -552,9 +552,9 @@
       "ID": "IRS_1",
       "SetID": "9gfkh7c",
       "Name": "Self assessed tax return",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ITEM_1",
@@ -576,17 +576,17 @@
       "ID": "ITEM_3",
       "SetID": "9gfkh7c",
       "Name": "Surprise!!",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "JOLLY_1",
       "SetID": "9gfkh7c",
       "Name": "Karaoke king",
-      "Percentage": 27,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "JOLLY_2",
@@ -616,17 +616,17 @@
       "ID": "JUMP_3",
       "SetID": "9gfkh7c",
       "Name": "I cant stand still!",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "KNIGHT_1",
       "SetID": "9gfkh7c",
       "Name": "You can\u0027t stop me, bro!",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "LEVELUP_1",
@@ -680,9 +680,9 @@
       "ID": "MOUNT_1",
       "SetID": "9gfkh7c",
       "Name": "Hovering around",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ORC_HIPSTER_1",
@@ -712,9 +712,9 @@
       "ID": "ORC_WARMAIDEN_1",
       "SetID": "9gfkh7c",
       "Name": "I like you...but I have to kill you...",
-      "Percentage": 76,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "OTHER_1",
@@ -744,9 +744,9 @@
       "ID": "OUTHOUSE_1",
       "SetID": "9gfkh7c",
       "Name": "Thats disgusting!",
-      "Percentage": 36,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "OUT_OF_BOUNDS",
@@ -760,17 +760,17 @@
       "ID": "SHARK",
       "SetID": "9gfkh7c",
       "Name": "Meat grinder",
-      "Percentage": 42,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "SKELETON_1",
       "SetID": "9gfkh7c",
       "Name": "Spare Ribs",
-      "Percentage": 33,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "SVEN_OLOF_1",
@@ -823,8 +823,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-05-21T19:06:37.6137254+00:00",
+  "LastChanged_Achievements": "2023-05-21T20:06:19.1068873+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:56:59.9162402+00:00",
-  "LastUpdate_Ratings": "2023-05-21T18:57:08.0601056+00:00",
-  "LastUpdate_Achievements": "2023-05-21T19:06:37.6138159+00:00"
+  "LastUpdate_Ratings": "2023-05-21T19:57:09.3355536+00:00",
+  "LastUpdate_Achievements": "2023-05-21T20:06:19.1069726+00:00"
 }

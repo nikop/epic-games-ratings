@@ -2,10 +2,10 @@
   "ID": "c7ab6cc723fe4bc6b24237d61b58687b",
   "Name": "Song of Nunu: A League of Legends Story\u2122",
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
-  "Ranking_EOS_Progress": 410,
+  "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2099-01-02T03:00:00+00:00",
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-19T19:02:19.5580752+00:00",
-  "LastUpdate_Ratings": "2023-05-21T18:59:36.1124906+00:00",
-  "LastUpdate_Achievements": "2023-05-21T19:05:09.1423441+00:00"
+  "LastUpdate_Ratings": "2023-05-21T19:59:27.1956068+00:00",
+  "LastUpdate_Achievements": "2023-05-21T20:04:53.5895895+00:00"
 }

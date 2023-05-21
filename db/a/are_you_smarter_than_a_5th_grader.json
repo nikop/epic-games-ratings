@@ -4,8 +4,8 @@
   "ProductSlug": "are-you-smarter-than-a-5th-grader-bc328a",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-08-23T13:00:00+00:00",
     "PcReleaseDate": "2022-08-23T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 277,
+  "EOS_Progressed": 278,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -102,6 +102,11 @@
       "Time": "2023-05-20T11:06:04.1148544+00:00",
       "NumProgressed": 277,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T20:06:42.2146992+00:00",
+      "NumProgressed": 278,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 19,
@@ -143,9 +148,9 @@
       "ID": "ExamTime",
       "SetID": "6l18k14",
       "Name": "Exam Time",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 25,
-      "UsersEstimate": 233
+      "UsersEstimate": 231
     },
     {
       "ID": "FifthGrade",
@@ -239,9 +244,9 @@
       "ID": "StudySession",
       "SetID": "6l18k14",
       "Name": "Study Session",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 83
+      "UsersEstimate": 86
     },
     {
       "ID": "ThirdGrade",
@@ -264,7 +269,7 @@
     {
       "ID": "6l18k14",
       "IsBase": true,
-      "Progressed": 277,
+      "Progressed": 278,
       "Completed": 0
     }
   ],
@@ -272,8 +277,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.561977+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.3990521+00:00",
   "LastChanged": "2023-03-31T05:58:18.5619771+00:00",
-  "LastChanged_Achievements": "2023-05-21T19:07:01.7909792+00:00",
+  "LastChanged_Achievements": "2023-05-21T20:06:42.2146987+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:59.0619353+00:00",
-  "LastUpdate_Ratings": "2023-05-21T19:01:07.070555+00:00",
-  "LastUpdate_Achievements": "2023-05-21T19:07:01.790992+00:00"
+  "LastUpdate_Ratings": "2023-05-21T20:00:55.9267818+00:00",
+  "LastUpdate_Achievements": "2023-05-21T20:06:42.2147096+00:00"
 }

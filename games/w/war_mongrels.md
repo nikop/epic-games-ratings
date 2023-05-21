@@ -6,37 +6,37 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 59.00% | ~159 |
-| Cowardice | 52.00% | ~140 |
+| Explorer | 59.00% | ~160 |
+| Cowardice | 52.00% | ~141 |
 | NO LIFE IS WORTH SAVING... | 51.00% | ~138 |
-| Eat Lead! | 49.00% | ~132 |
+| Eat Lead! | 49.00% | ~133 |
 | Prospector | 45.00% | ~122 |
 | Here Comes the Boom | 45.00% | ~122 |
-| Treasure Hunter | 43.00% | ~116 |
+| Treasure Hunter | 43.00% | ~117 |
 | The Breaking Point | 38.00% | ~103 |
 | Missing in Action | 37.00% | ~100 |
 | Sniper Wolf | 37.00% | ~100 |
 | The Motivation | 34.00% | ~92 |
-| Heroism | 32.00% | ~86 |
-| King of Knives | 32.00% | ~86 |
+| Heroism | 32.00% | ~87 |
+| King of Knives | 32.00% | ~87 |
 | Collectibles of Chapter I | 30.00% | ~81 |
-| Consequences | 29.00% | ~78 |
+| Consequences | 28.00% | ~76 |
 | Opportunities | 27.00% | ~73 |
 | The Horror | 26.00% | ~70 |
 | Collectibles of Chapter II | 24.00% | ~65 |
 | The Difference | 23.00% | ~62 |
-| Vengeance | 22.00% | ~59 |
+| Vengeance | 22.00% | ~60 |
 | Food Massacre | 20.00% | ~54 |
 | Bullseye! | 20.00% | ~54 |
 | Broken Hopes | 19.00% | ~51 |
 | It's Just an Accident | 17.00% | ~46 |
 | Sorrow | 16.00% | ~43 |
-| Collectibles of Chapter III | 15.00% | ~40 |
+| Collectibles of Chapter III | 15.00% | ~41 |
 | Collectibles of Chapter IV | 14.00% | ~38 |
 | Atonement | 14.00% | ~38 |
 | Without a Second Thought | 13.00% | ~35 |
 | Helping Hand | 11.00% | ~30 |
-| Collectibles of Chapter V | 9.00% | ~24 |
+| Collectibles of Chapter V | 8.00% | ~22 |
 | Such is War! | 8.00% | ~22 |
 | Collectibles of Chapter VII | 7.00% | ~19 |
 | Piece of Cake | 7.00% | ~19 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 270 (Ranked 219)  
+Progressed: 271 (Ranked 219)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-15 | 259 | 0 |
 | 2023-05-19 | 263 | 0 |
 | 2023-05-20 | 267 | 0 |
-| 2023-05-21 | 270 | 0 |
+| 2023-05-21 | 271 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

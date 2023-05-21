@@ -12,14 +12,14 @@ Rating: 4.32 (Ranked 746)
 | Ouch | 56.00% | ~1,143 |
 | Fun in the Stun | 55.00% | ~1,123 |
 | Do you feel like a tough guy? | 45.00% | ~918 |
-| The Interdimensional Power of Friendship | 44.00% | ~898 |
+| The Interdimensional Power of Friendship | 45.00% | ~918 |
 | Turn Up The HEAT | 40.00% | ~816 |
 | Stop Hitting Yourself! | 35.00% | ~714 |
 | Nothing to Wear | 31.00% | ~633 |
-| The First Law of Thermodynamics | 27.00% | ~551 |
+| The First Law of Thermodynamics | 28.00% | ~571 |
 | The Second Law of Thermodynamics | 15.00% | ~306 |
 | Do you trust me? | 15.00% | ~306 |
-| The Third Law of Thermodynamics | 8.00% | ~163 |
+| The Third Law of Thermodynamics | 9.00% | ~184 |
 | Say "Cheese!" | 8.00% | ~163 |
 | Taking Out the Trash | 8.00% | ~163 |
 | Better Than the Devs | 4.00% | ~82 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 875,
+  "EOS_Progressed": 876,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -313,6 +313,11 @@
       "Time": "2023-05-21T16:05:33.0380889+00:00",
       "NumProgressed": 875,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T20:06:37.2723778+00:00",
+      "NumProgressed": 876,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -324,7 +329,7 @@
       "Name": "Way of the King",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "02",
@@ -356,15 +361,15 @@
       "Name": "The First Step",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "06",
       "SetID": "73ikgfc",
       "Name": "First Blood",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 560
+      "UsersEstimate": 569
     },
     {
       "ID": "07",
@@ -396,7 +401,7 @@
       "Name": "Huntmaster",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "11",
@@ -452,7 +457,7 @@
       "Name": "Ready to Learn",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "18",
@@ -507,7 +512,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 875,
+      "Progressed": 876,
       "Completed": 0
     }
   ],
@@ -515,8 +520,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-05-21T19:06:56.6283587+00:00",
+  "LastChanged_Achievements": "2023-05-21T20:06:37.2723771+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:05:01.1887177+00:00",
-  "LastUpdate_Ratings": "2023-05-21T19:00:29.5144754+00:00",
-  "LastUpdate_Achievements": "2023-05-21T19:06:56.6283772+00:00"
+  "LastUpdate_Ratings": "2023-05-21T20:00:18.4055036+00:00",
+  "LastUpdate_Achievements": "2023-05-21T20:06:37.272391+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -4114,7 +4114,7 @@
       "Count": 3674
     }
   ],
-  "EOS_Progressed": 128764,
+  "EOS_Progressed": 128767,
   "EOS_Completed": 80,
   "EOS_NewPlayers": 538,
   "EOS_NewCompleters": 2,
@@ -6949,6 +6949,11 @@
       "Time": "2023-05-21T19:07:00.0596433+00:00",
       "NumProgressed": 128764,
       "NumCompleted": 80
+    },
+    {
+      "Time": "2023-05-21T20:06:40.566596+00:00",
+      "NumProgressed": 128767,
+      "NumCompleted": 80
     }
   ],
   "TotalAchievements": 112,
@@ -6960,7 +6965,7 @@
       "Name": "The Daily Grind",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 57944
+      "UsersEstimate": 57945
     },
     {
       "ID": "advlevel02",
@@ -6968,7 +6973,7 @@
       "Name": "On the Path to Greatness",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 34766
+      "UsersEstimate": 34767
     },
     {
       "ID": "advlevel03",
@@ -7008,7 +7013,7 @@
       "Name": "Ascended",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36054
+      "UsersEstimate": 36055
     },
     {
       "ID": "ascend02",
@@ -7040,7 +7045,7 @@
       "Name": "One Easy Payment",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 77258
+      "UsersEstimate": 77260
     },
     {
       "ID": "bigsale02",
@@ -7064,7 +7069,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 75971
+      "UsersEstimate": 75973
     },
     {
       "ID": "blueprint02",
@@ -7072,7 +7077,7 @@
       "Name": "Research \u0026 Development",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 32191
+      "UsersEstimate": 32192
     },
     {
       "ID": "blueprint03",
@@ -7096,7 +7101,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 56656
+      "UsersEstimate": 56657
     },
     {
       "ID": "boss02",
@@ -7120,7 +7125,7 @@
       "Name": "Fated Encounters",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 27040
+      "UsersEstimate": 27041
     },
     {
       "ID": "chest01",
@@ -7128,7 +7133,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 124901
+      "UsersEstimate": 124904
     },
     {
       "ID": "chest02",
@@ -7144,7 +7149,7 @@
       "Name": "Booty by the Boatload",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9013
+      "UsersEstimate": 9014
     },
     {
       "ID": "collection01",
@@ -7152,7 +7157,7 @@
       "Name": "Blank Page Syndrome",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 34766
+      "UsersEstimate": 34767
     },
     {
       "ID": "collection02",
@@ -7192,7 +7197,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 117175
+      "UsersEstimate": 117178
     },
     {
       "ID": "commonres02",
@@ -7200,7 +7205,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 50218
+      "UsersEstimate": 50219
     },
     {
       "ID": "commonres03",
@@ -7224,7 +7229,7 @@
       "Name": "Disintermediation",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 97861
+      "UsersEstimate": 97863
     },
     {
       "ID": "craft02",
@@ -7232,7 +7237,7 @@
       "Name": "Flooding the Market",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 52793
+      "UsersEstimate": 52794
     },
     {
       "ID": "craft03",
@@ -7264,7 +7269,7 @@
       "Name": "Where it Hurts",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 55369
+      "UsersEstimate": 55370
     },
     {
       "ID": "damage02",
@@ -7312,7 +7317,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 78546
+      "UsersEstimate": 78548
     },
     {
       "ID": "energy02",
@@ -7336,7 +7341,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 90135
+      "UsersEstimate": 90137
     },
     {
       "ID": "expansion02",
@@ -7368,7 +7373,7 @@
       "Name": "Efficient Floor Space",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 34766
+      "UsersEstimate": 34767
     },
     {
       "ID": "furniture02",
@@ -7400,7 +7405,7 @@
       "Name": "Flawless Fusion",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 30903
+      "UsersEstimate": 30904
     },
     {
       "ID": "fuselegendary",
@@ -7408,7 +7413,7 @@
       "Name": "A Legend is Born",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9013
+      "UsersEstimate": 9014
     },
     {
       "ID": "fuseuncommon",
@@ -7424,7 +7429,7 @@
       "Name": "Gem Expert",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 36054
+      "UsersEstimate": 36055
     },
     {
       "ID": "gold01",
@@ -7432,7 +7437,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 112025
+      "UsersEstimate": 112027
     },
     {
       "ID": "gold02",
@@ -7440,7 +7445,7 @@
       "Name": "Pretty Penny",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 73395
+      "UsersEstimate": 73397
     },
     {
       "ID": "gold03",
@@ -7448,7 +7453,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 47643
+      "UsersEstimate": 47644
     },
     {
       "ID": "gold04",
@@ -7456,7 +7461,7 @@
       "Name": "Royal Ransom",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 27040
+      "UsersEstimate": 27041
     },
     {
       "ID": "gold05",
@@ -7472,7 +7477,7 @@
       "Name": "Wealth Beyond Measure",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9013
+      "UsersEstimate": 9014
     },
     {
       "ID": "help01",
@@ -7480,7 +7485,7 @@
       "Name": "Helping Hand",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36054
+      "UsersEstimate": 36055
     },
     {
       "ID": "help02",
@@ -7488,7 +7493,7 @@
       "Name": "Fat Cat Tag Team",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 16739
+      "UsersEstimate": 16740
     },
     {
       "ID": "help03",
@@ -7512,7 +7517,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 64382
+      "UsersEstimate": 64384
     },
     {
       "ID": "jackslot02",
@@ -7544,7 +7549,7 @@
       "Name": "Budding Merchant",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 84984
+      "UsersEstimate": 84986
     },
     {
       "ID": "level02",
@@ -7552,7 +7557,7 @@
       "Name": "Accomplished Merchant",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 39917
+      "UsersEstimate": 39918
     },
     {
       "ID": "level03",
@@ -7584,7 +7589,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 55369
+      "UsersEstimate": 55370
     },
     {
       "ID": "loot02",
@@ -7616,7 +7621,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 59231
+      "UsersEstimate": 59233
     },
     {
       "ID": "master02",
@@ -7672,7 +7677,7 @@
       "Name": "Did we pack lunch?",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 45067
+      "UsersEstimate": 45068
     },
     {
       "ID": "quest02",
@@ -7736,7 +7741,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 96573
+      "UsersEstimate": 96575
     },
     {
       "ID": "sell02",
@@ -7776,7 +7781,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 123613
+      "UsersEstimate": 123616
     },
     {
       "ID": "twinenchant01",
@@ -7784,7 +7789,7 @@
       "Name": "Magical Harmony",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 27040
+      "UsersEstimate": 27041
     },
     {
       "ID": "typeunlock01",
@@ -7824,7 +7829,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 77258
+      "UsersEstimate": 77260
     },
     {
       "ID": "workers02",
@@ -7832,7 +7837,7 @@
       "Name": "Arcane Industries",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 43780
+      "UsersEstimate": 43781
     },
     {
       "ID": "workers03",
@@ -7855,15 +7860,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 128764,
+      "Progressed": 128767,
       "Completed": 80
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-05-21T18:58:44.0907011+00:00",
-  "LastChanged_Achievements": "2023-05-21T19:07:00.0596426+00:00",
+  "LastChanged_Achievements": "2023-05-21T20:06:40.5665956+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.991774+00:00",
-  "LastUpdate_Ratings": "2023-05-21T18:58:44.0907021+00:00",
-  "LastUpdate_Achievements": "2023-05-21T19:07:00.0598357+00:00"
+  "LastUpdate_Ratings": "2023-05-21T19:58:37.8394408+00:00",
+  "LastUpdate_Achievements": "2023-05-21T20:06:40.5667284+00:00"
 }

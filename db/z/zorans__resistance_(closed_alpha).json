@@ -2,10 +2,10 @@
   "ID": "ebf7b58e33e14f88b9bd08db56f508da",
   "Name": "Zorans: Resistance (Closed Alpha)",
   "ProductSlug": "zorans-resistance-2bc134",
-  "Ranking_EOS_Progress": 410,
+  "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-19T18:59:41.292606+00:00",
-  "LastUpdate_Ratings": "2023-05-21T18:58:22.0864818+00:00",
-  "LastUpdate_Achievements": "2023-05-21T19:03:54.435306+00:00"
+  "LastUpdate_Ratings": "2023-05-21T19:58:19.5409451+00:00",
+  "LastUpdate_Achievements": "2023-05-21T20:03:43.7216093+00:00"
 }

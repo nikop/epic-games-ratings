@@ -2,10 +2,10 @@
   "ID": "cec90f999e994e05a3ec2426d3da7600",
   "Name": "Perimeter: Emperor\u0027s Testament",
   "ProductSlug": "perimeter-emperors-testament-af1efc",
-  "Ranking_EOS_Progress": 410,
+  "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-05-11T17:00:00+00:00",
     "PcReleaseDate": "2006-08-29T08:00:00+00:00",
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-12T06:57:03.853028+00:00",
   "LastUpdate_AppInfo": "2023-05-18T18:56:53.2771034+00:00",
-  "LastUpdate_Ratings": "2023-05-21T18:57:00.8613733+00:00",
-  "LastUpdate_Achievements": "2023-05-21T19:02:33.6720597+00:00"
+  "LastUpdate_Ratings": "2023-05-21T19:57:01.9431932+00:00",
+  "LastUpdate_Achievements": "2023-05-21T20:02:27.3563425+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "9e30bd4e12954cee898f4c059625d374",
   "Name": "Prince of Persia: The Sands of Time Remake",
   "ProductSlug": "prince-of-persia-sands-of-time",
-  "Ranking_EOS_Progress": 410,
+  "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2099-01-02T03:00:00+00:00",
     "PcReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-19T19:13:54.3827849+00:00",
-  "LastUpdate_Ratings": "2023-05-21T19:01:02.1835229+00:00",
-  "LastUpdate_Achievements": "2023-05-21T19:05:51.4737621+00:00"
+  "LastUpdate_Ratings": "2023-05-21T20:00:49.2116628+00:00",
+  "LastUpdate_Achievements": "2023-05-21T20:05:33.276533+00:00"
 }

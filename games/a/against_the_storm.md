@@ -24,6 +24,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Cursed Lands | 0.90% | ~134 |
 | Sparkdew Crystals | 0.80% | ~119 |
 | Flooded Mines | 0.80% | ~119 |
+| Monastery of the Holy Flame | 0.80% | ~119 |
 | Royal Outpost | 0.80% | ~119 |
 | Corrosive Torrent | 0.80% | ~119 |
 | A Real Challenge | 0.80% | ~119 |
@@ -32,15 +33,14 @@ Number of Ratings: 1,845  (23.09.2022)
 | Dangerous Lands | 0.70% | ~105 |
 | Haunted Forest | 0.70% | ~105 |
 | Levitating Monument | 0.70% | ~105 |
-| Monastery of the Holy Flame | 0.70% | ~105 |
 | Watchtower | 0.70% | ~105 |
+| Serving Ale | 0.60% | ~90 |
 | Statue of the Forefathers | 0.60% | ~90 |
 | Forsaken Gods Temple | 0.60% | ~90 |
-| Serving Ale | 0.50% | ~75 |
+| Ruined Armory | 0.50% | ~75 |
 | Forbidden Lands | 0.50% | ~75 |
 | Defying the Crown | 0.50% | ~75 |
 | Into the Forest | 0.50% | ~75 |
-| Ruined Armory | 0.40% | ~60 |
 | Fishmen Ritual Site | 0.40% | ~60 |
 | Lizard Utopia | 0.30% | ~45 |
 | Efficient Explorer | 0.30% | ~45 |
@@ -57,8 +57,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,934 (Ranked 98)  
-Completed: 30 (0.20%) (Ranked 141)  
+Progressed: 14,936 (Ranked 98)  
+Completed: 31 (0.21%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -88,7 +88,7 @@ Completed: 30 (0.20%) (Ranked 141)
 | 2023-05-18 | 14,878 | 30 |
 | 2023-05-19 | 14,897 | 30 |
 | 2023-05-20 | 14,925 | 30 |
-| 2023-05-21 | 14,934 | 30 |
+| 2023-05-21 | 14,936 | 31 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 196)  
 Sum: 3,028 (Ranked 150)  

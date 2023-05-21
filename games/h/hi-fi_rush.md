@@ -7,7 +7,7 @@ Rating: 4.86 (Ranked 29)
 | ---- | ---------- | ----- |
 | Start with a bang! | 84.00% | ~1,544 |
 | Feeling the beat! | 84.00% | ~1,544 |
-| You can pet the cat! | 78.00% | ~1,434 |
+| You can pet the cat! | 79.00% | ~1,452 |
 | Who put gears in there? | 73.00% | ~1,342 |
 | Cream of the Crop | 68.00% | ~1,250 |
 | Thanks for the free chip, Peppermint! | 68.00% | ~1,250 |
@@ -27,7 +27,7 @@ Rating: 4.86 (Ranked 29)
 | Headliner | 38.00% | ~698 |
 | Time to pay up! | 35.00% | ~643 |
 | Perfecter Parry-er! | 35.00% | ~643 |
-| Who's the boss now? | 33.00% | ~607 |
+| Who's the boss now? | 34.00% | ~625 |
 | I have to read these things? | 32.00% | ~588 |
 | I look cool. But I can look COOLER. | 32.00% | ~588 |
 | There's such a thing as TOO helpful | 25.00% | ~460 |

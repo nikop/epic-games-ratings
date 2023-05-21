@@ -2,10 +2,10 @@
   "ID": "26434978f91940d7a80b609fd6c39d63",
   "Name": "Age of Undead",
   "ProductSlug": "age-of-undead-5603d7",
-  "Ranking_EOS_Progress": 410,
+  "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-03-30T13:00:00+00:00",
     "PcReleaseDate": "2022-07-26T17:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-19T19:03:12.6401533+00:00",
-  "LastUpdate_Ratings": "2023-05-21T19:00:20.9111957+00:00",
-  "LastUpdate_Achievements": "2023-05-21T19:05:31.4056535+00:00"
+  "LastUpdate_Ratings": "2023-05-21T20:00:08.5004125+00:00",
+  "LastUpdate_Achievements": "2023-05-21T20:05:14.4379578+00:00"
 }

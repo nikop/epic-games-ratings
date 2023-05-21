@@ -4,8 +4,8 @@
   "ProductSlug": "voltaire-e1c517",
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-02-27T17:00:00+00:00",
     "PcReleaseDate": "2023-02-27T17:00:00+00:00",
@@ -109,9 +109,9 @@
       "ID": "FIRST_HARVEST",
       "SetID": "3c20ib3",
       "Name": "Good to grow",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "FISH",
@@ -334,8 +334,8 @@
   "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.0090692+00:00",
   "LastChanged": "2023-03-31T05:58:46.11228+00:00",
-  "LastChanged_Achievements": "2023-05-21T19:06:32.4827495+00:00",
+  "LastChanged_Achievements": "2023-05-21T20:06:11.1529398+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:00.1482004+00:00",
-  "LastUpdate_Ratings": "2023-05-21T18:57:33.3848276+00:00",
-  "LastUpdate_Achievements": "2023-05-21T19:06:32.4827981+00:00"
+  "LastUpdate_Ratings": "2023-05-21T19:57:31.1921032+00:00",
+  "LastUpdate_Achievements": "2023-05-21T20:06:11.1529568+00:00"
 }

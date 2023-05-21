@@ -2,20 +2,20 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 658,
+  "Ranking_Rating": 673,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 86,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.41,
+  "Rating": 4.4,
   "RatingHistory": [
     {
       "Time": "2023-03-27T02:57:24.3255682+00:00",
@@ -170,15 +170,21 @@
       "Rating": 4.41,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-21T20:01:20.1964223+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1104,
+  "EOS_Progressed": 1115,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 387,
+  "EOS_NewPlayers": 398,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -931,6 +937,11 @@
       "Time": "2023-05-21T19:06:36.1062909+00:00",
       "NumProgressed": 1104,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-21T20:06:16.1917752+00:00",
+      "NumProgressed": 1115,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -940,9 +951,9 @@
       "ID": "REWARD_10_CLIMBING_THE_LADDER",
       "SetID": "bm6el81",
       "Name": "Climbing the Ladder",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -1022,7 +1033,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 123
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1060,9 +1071,9 @@
       "ID": "REWARD_24_GUNSLINGER",
       "SetID": "bm6el81",
       "Name": "Gunslinger",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -1110,7 +1121,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1188,9 +1199,9 @@
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
       "SetID": "bm6el81",
       "Name": "The Kraken Wakes",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 45
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -1316,9 +1327,9 @@
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
       "SetID": "bm6el81",
       "Name": "Brains of the Operation",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -1509,22 +1520,22 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1055,
+      "Progressed": 1066,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1104,
+      "Progressed": 1115,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-03-07T14:57:33.0234716+00:00",
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
-  "LastChanged": "2023-05-18T16:01:31.1520338+00:00",
-  "LastChanged_Achievements": "2023-05-21T19:06:36.1062903+00:00",
+  "LastChanged": "2023-05-21T20:01:20.196422+00:00",
+  "LastChanged_Achievements": "2023-05-21T20:06:16.1917747+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-21T19:01:33.1264809+00:00",
-  "LastUpdate_Achievements": "2023-05-21T19:06:36.1063625+00:00"
+  "LastUpdate_Ratings": "2023-05-21T20:01:20.1964228+00:00",
+  "LastUpdate_Achievements": "2023-05-21T20:06:16.1918391+00:00"
 }

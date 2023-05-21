@@ -2,10 +2,10 @@
   "ID": "abafc2bb624e445e812f67406ad0eabc",
   "Name": "CoopValor 2056 WW3",
   "ProductSlug": "coopvalor-wwii-718385",
-  "Ranking_EOS_Progress": 410,
+  "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-05-17T10:00:00+00:00",
     "PcReleaseDate": "2023-05-17T10:00:00+00:00",
@@ -40,8 +40,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:32.3617505+00:00",
   "FirstSeenAchievements": "2023-04-27T07:00:05.0177716+00:00",
-  "LastChanged_Achievements": "2023-05-21T19:06:16.4917776+00:00",
+  "LastChanged_Achievements": "2023-05-21T20:05:56.2072357+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:01.3014899+00:00",
-  "LastUpdate_Ratings": "2023-05-21T18:57:10.1956221+00:00",
-  "LastUpdate_Achievements": "2023-05-21T19:06:16.4917808+00:00"
+  "LastUpdate_Ratings": "2023-05-21T19:57:11.1839405+00:00",
+  "LastUpdate_Achievements": "2023-05-21T20:05:56.2072385+00:00"
 }

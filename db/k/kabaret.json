@@ -2,10 +2,10 @@
   "ID": "2b94ba4a1f1f4d8aa5b85ecdeef1f33e",
   "Name": "Kabaret",
   "ProductSlug": "kabaret-4810f9",
-  "Ranking_EOS_Progress": 331,
+  "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-05T16:00:00+00:00",
     "PcReleaseDate": "2023-04-05T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9,
+  "EOS_Progressed": 10,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -53,6 +53,11 @@
       "Time": "2023-05-19T04:06:14.0456723+00:00",
       "NumProgressed": 9,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T20:06:09.4866523+00:00",
+      "NumProgressed": 10,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 67,
@@ -62,15 +67,15 @@
       "ID": "1",
       "SetID": "37jn7be",
       "Name": "Your Journey Begins",
-      "Percentage": 78,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "10",
       "SetID": "37jn7be",
       "Name": "Strangers You Meet",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -78,7 +83,7 @@
       "ID": "11",
       "SetID": "37jn7be",
       "Name": "Losing A Small, Good Thing",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -86,7 +91,7 @@
       "ID": "12",
       "SetID": "37jn7be",
       "Name": "I\u0027ll Become... A Beast",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -102,7 +107,7 @@
       "ID": "14",
       "SetID": "37jn7be",
       "Name": "Rebel To God",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -110,7 +115,7 @@
       "ID": "15",
       "SetID": "37jn7be",
       "Name": "True Potential Unlocked",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -126,7 +131,7 @@
       "ID": "17",
       "SetID": "37jn7be",
       "Name": "Guli Novice",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -134,7 +139,7 @@
       "ID": "18",
       "SetID": "37jn7be",
       "Name": "Guli Pro",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -142,7 +147,7 @@
       "ID": "19",
       "SetID": "37jn7be",
       "Name": "Guli Master",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -150,7 +155,7 @@
       "ID": "2",
       "SetID": "37jn7be",
       "Name": "Welcome To The Kabaret",
-      "Percentage": 33,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -158,7 +163,7 @@
       "ID": "20",
       "SetID": "37jn7be",
       "Name": "Congkak Hero",
-      "Percentage": 33,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -166,7 +171,7 @@
       "ID": "21",
       "SetID": "37jn7be",
       "Name": "Congkak Champion",
-      "Percentage": 33,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -174,7 +179,7 @@
       "ID": "22",
       "SetID": "37jn7be",
       "Name": "Congkak Legend",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -182,7 +187,7 @@
       "ID": "23",
       "SetID": "37jn7be",
       "Name": "In Service Of Others",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -190,7 +195,7 @@
       "ID": "24",
       "SetID": "37jn7be",
       "Name": "Expert Service",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -206,7 +211,7 @@
       "ID": "26",
       "SetID": "37jn7be",
       "Name": "Human Supremacy",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -214,7 +219,7 @@
       "ID": "27",
       "SetID": "37jn7be",
       "Name": "Equality",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -222,7 +227,7 @@
       "ID": "28",
       "SetID": "37jn7be",
       "Name": "Deep Thinker",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -230,7 +235,7 @@
       "ID": "29",
       "SetID": "37jn7be",
       "Name": "Face Value",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -238,7 +243,7 @@
       "ID": "3",
       "SetID": "37jn7be",
       "Name": "Goodbye Dear Friend",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -246,7 +251,7 @@
       "ID": "30",
       "SetID": "37jn7be",
       "Name": "Uncommitted",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -254,7 +259,7 @@
       "ID": "31",
       "SetID": "37jn7be",
       "Name": "Thou Art Naive",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -262,7 +267,7 @@
       "ID": "32",
       "SetID": "37jn7be",
       "Name": "Philosopher",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -278,7 +283,7 @@
       "ID": "34",
       "SetID": "37jn7be",
       "Name": "I Like Salty Seawater",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -302,7 +307,7 @@
       "ID": "37",
       "SetID": "37jn7be",
       "Name": "Under The Sea",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -310,7 +315,7 @@
       "ID": "38",
       "SetID": "37jn7be",
       "Name": "I Sit On The Beach, Watching The Tide Leave",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -318,7 +323,7 @@
       "ID": "39",
       "SetID": "37jn7be",
       "Name": "An Unheard Song",
-      "Percentage": 33,
+      "Percentage": 30,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -326,7 +331,7 @@
       "ID": "4",
       "SetID": "37jn7be",
       "Name": "By My Own Hands",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -342,7 +347,7 @@
       "ID": "41",
       "SetID": "37jn7be",
       "Name": "Self-indulgent",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -350,7 +355,7 @@
       "ID": "42",
       "SetID": "37jn7be",
       "Name": "Breaking In The Horse",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -374,7 +379,7 @@
       "ID": "45",
       "SetID": "37jn7be",
       "Name": "Power Of Friendship",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -382,7 +387,7 @@
       "ID": "46",
       "SetID": "37jn7be",
       "Name": "Squashed Bug",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -398,7 +403,7 @@
       "ID": "48",
       "SetID": "37jn7be",
       "Name": "Till Death Do We...",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -406,7 +411,7 @@
       "ID": "49",
       "SetID": "37jn7be",
       "Name": "Be Cruel To Be Kind",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -414,7 +419,7 @@
       "ID": "5",
       "SetID": "37jn7be",
       "Name": "An End To History",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -446,7 +451,7 @@
       "ID": "53",
       "SetID": "37jn7be",
       "Name": "Eating A Dead Flower",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -454,7 +459,7 @@
       "ID": "54",
       "SetID": "37jn7be",
       "Name": "Bookworm",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -486,7 +491,7 @@
       "ID": "58",
       "SetID": "37jn7be",
       "Name": "Behold, The Nagarimau",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -502,7 +507,7 @@
       "ID": "6",
       "SetID": "37jn7be",
       "Name": "Clipped Wings",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -510,7 +515,7 @@
       "ID": "60",
       "SetID": "37jn7be",
       "Name": "For The Greater Good",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -518,7 +523,7 @@
       "ID": "61",
       "SetID": "37jn7be",
       "Name": "I Am Vengeance",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -526,7 +531,7 @@
       "ID": "62",
       "SetID": "37jn7be",
       "Name": "Sowing The Seeds of Destruction",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -534,7 +539,7 @@
       "ID": "63",
       "SetID": "37jn7be",
       "Name": "At The End of The World, It\u0027s Just Two of Us",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -542,7 +547,7 @@
       "ID": "64",
       "SetID": "37jn7be",
       "Name": "The World Is Mine, And I Don\u0027t Want It",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -550,7 +555,7 @@
       "ID": "65",
       "SetID": "37jn7be",
       "Name": "Let There Be Light",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -574,7 +579,7 @@
       "ID": "7",
       "SetID": "37jn7be",
       "Name": "Lady In The Book",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -582,7 +587,7 @@
       "ID": "8",
       "SetID": "37jn7be",
       "Name": "The Boy That Came With The Rain",
-      "Percentage": 44,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -590,7 +595,7 @@
       "ID": "9",
       "SetID": "37jn7be",
       "Name": "All Alone With A Curse",
-      "Percentage": 33,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 3
     }
@@ -599,7 +604,7 @@
     {
       "ID": "37jn7be",
       "IsBase": true,
-      "Progressed": 9,
+      "Progressed": 10,
       "Completed": 0
     }
   ],
@@ -607,8 +612,8 @@
   "FirstSeenRating": "2023-04-29T22:57:51.702813+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:15.0612299+00:00",
   "LastChanged": "2023-04-29T22:57:51.7028131+00:00",
-  "LastChanged_Achievements": "2023-05-21T19:06:30.6422409+00:00",
+  "LastChanged_Achievements": "2023-05-21T20:06:09.4866508+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.1178962+00:00",
-  "LastUpdate_Ratings": "2023-05-21T18:58:15.6156042+00:00",
-  "LastUpdate_Achievements": "2023-05-21T19:06:30.6423075+00:00"
+  "LastUpdate_Ratings": "2023-05-21T19:58:13.4660157+00:00",
+  "LastUpdate_Achievements": "2023-05-21T20:06:09.4867045+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "533f90787a8c41db9800dc2affaf3924",
   "Name": "Blind Fate: Edo no Yami",
   "ProductSlug": "blind-fate-edo-no-yami-87e748",
-  "Ranking_EOS_Progress": 410,
+  "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-09-15T15:00:00+00:00",
     "PcReleaseDate": "2022-09-15T15:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0390419+00:00",
   "LastChanged": "2023-03-31T05:58:27.039042+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.7669616+00:00",
-  "LastUpdate_Ratings": "2023-05-21T18:57:15.1608256+00:00",
-  "LastUpdate_Achievements": "2023-05-21T19:01:58.923799+00:00"
+  "LastUpdate_Ratings": "2023-05-21T19:57:15.6989957+00:00",
+  "LastUpdate_Achievements": "2023-05-21T20:01:45.4127613+00:00"
 }

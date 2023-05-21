@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1361,
+  "EOS_Progressed": 1363,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 7.79,
+  "EOS_Completed_Percentage": 7.78,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -1463,6 +1463,11 @@
       "Time": "2023-05-21T19:06:49.04792+00:00",
       "NumProgressed": 1361,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-05-21T20:06:30.1526814+00:00",
+      "NumProgressed": 1363,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 12,
@@ -1488,9 +1493,9 @@
       "ID": "Building the Fox",
       "SetID": "b40dflc",
       "Name": "Building the Fox",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 272
+      "UsersEstimate": 286
     },
     {
       "ID": "Green Ticket Roundup",
@@ -1506,7 +1511,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "Jakob",
@@ -1522,7 +1527,7 @@
       "Name": "Jude",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "Le Juif et la France",
@@ -1530,7 +1535,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "Little Helper",
@@ -1569,7 +1574,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1361,
+      "Progressed": 1363,
       "Completed": 106
     }
   ],
@@ -1577,8 +1582,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-21T19:06:49.0479193+00:00",
+  "LastChanged_Achievements": "2023-05-21T20:06:30.1526809+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:11.427731+00:00",
-  "LastUpdate_Ratings": "2023-05-21T19:00:20.3241597+00:00",
-  "LastUpdate_Achievements": "2023-05-21T19:06:49.0479382+00:00"
+  "LastUpdate_Ratings": "2023-05-21T20:00:07.4155841+00:00",
+  "LastUpdate_Achievements": "2023-05-21T20:06:30.1526964+00:00"
 }

@@ -4,6 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Switch off the light | 200.00% | ~2 |
+| Complete 25 levels | 100.00% | ~1 |
+| Complete 50 levels | 100.00% | ~1 |
+| Complete 100 levels | 100.00% | ~1 |
+| Complete 25 6x6 levels | 100.00% | ~1 |
+| Use 10 hints | 100.00% | ~1 |
+| Use 20 hints | 100.00% | ~1 |
+| Use 50 hints | 100.00% | ~1 |
 | Addicted for 3 Days | 0.00% | ~0 |
 | Addicted for 7 Days | 0.00% | ~0 |
 | Addicted for 10 Days | 0.00% | ~0 |
@@ -17,13 +25,9 @@
 | Fast 11x11 | 0.00% | ~0 |
 | Fast 12x12 | 0.00% | ~0 |
 | Fast 13x13 | 0.00% | ~0 |
-| Complete 25 levels | 0.00% | ~0 |
-| Complete 50 levels | 0.00% | ~0 |
-| Complete 100 levels | 0.00% | ~0 |
 | Complete 500 levels | 0.00% | ~0 |
 | Complete 1000 levels | 0.00% | ~0 |
 | Complete 5000 levels | 0.00% | ~0 |
-| Complete 25 6x6 levels | 0.00% | ~0 |
 | Complete 25 7x7 levels | 0.00% | ~0 |
 | Complete 25 8x8 levels | 0.00% | ~0 |
 | Complete 25 9x9 levels | 0.00% | ~0 |
@@ -43,7 +47,10 @@
 | Play for 5 hours | 0.00% | ~0 |
 | Play for 10 hours | 0.00% | ~0 |
 | Play for 24 hours | 0.00% | ~0 |
-| Switch off the light | 0.00% | ~0 |
-| Use 10 hints | 0.00% | ~0 |
-| Use 20 hints | 0.00% | ~0 |
-| Use 50 hints | 0.00% | ~0 |
+## Popularity (Based on EOS Achievements)
+Progressed: 1 (Ranked 386)  
+Completed: 0 (0.00%) (Ranked 201)  
+## EOS Players History
+| Date | Progressed | Completed |
+| ---- | ---------- | --------- |
+| 2023-05-21 | 1 | 0 |

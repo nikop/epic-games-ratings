@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 62,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3856,10 +3856,10 @@
       "Count": 3238
     }
   ],
-  "EOS_Progressed": 88227,
+  "EOS_Progressed": 88231,
   "EOS_Completed": 1860,
-  "EOS_NewPlayers": 699,
-  "EOS_NewCompleters": 19,
+  "EOS_NewPlayers": 701,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
     {
@@ -6836,6 +6836,11 @@
       "Time": "2023-05-21T19:07:18.0849501+00:00",
       "NumProgressed": 88227,
       "NumCompleted": 1860
+    },
+    {
+      "Time": "2023-05-21T20:06:57.1533031+00:00",
+      "NumProgressed": 88231,
+      "NumCompleted": 1860
     }
   ],
   "TotalAchievements": 493,
@@ -6845,9 +6850,9 @@
       "ID": "objective_completed_1",
       "SetID": "cc37lbc",
       "Name": "A Brief Tour of the Realms",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 353
+      "UsersEstimate": 441
     },
     {
       "ID": "objective_completed_10",
@@ -7717,9 +7722,9 @@
       "ID": "objective_completed_1203",
       "SetID": "415jc5c",
       "Name": "Checkmate",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 109
     },
     {
       "ID": "objective_completed_1204",
@@ -10790,21 +10795,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54501,
-      "Completed": 2643
+      "Progressed": 54505,
+      "Completed": 2645
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88227,
+      "Progressed": 88231,
       "Completed": 1860
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-21T11:58:31.6555519+00:00",
-  "LastChanged_Achievements": "2023-05-21T19:07:18.0849495+00:00",
+  "LastChanged_Achievements": "2023-05-21T20:06:57.1533024+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-21T18:58:16.9362174+00:00",
-  "LastUpdate_Achievements": "2023-05-21T19:07:18.0877448+00:00"
+  "LastUpdate_Ratings": "2023-05-21T19:58:14.3712246+00:00",
+  "LastUpdate_Achievements": "2023-05-21T20:06:57.1554939+00:00"
 }

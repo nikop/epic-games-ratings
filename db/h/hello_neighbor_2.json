@@ -2,13 +2,13 @@
   "ID": "4046b000e6b0477ea639ee07e28db3d0",
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
-  "Ranking_Rating": 674,
+  "Ranking_Rating": 673,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -314,7 +314,7 @@
   "Tags": [],
   "EOS_Progressed": 2366,
   "EOS_Completed": 92,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.89,
   "EosHistory": [
@@ -982,8 +982,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-05-20T22:00:24.4945734+00:00",
-  "LastChanged_Achievements": "2023-05-21T19:07:04.0333821+00:00",
+  "LastChanged_Achievements": "2023-05-21T20:06:44.3393429+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:26.5471231+00:00",
-  "LastUpdate_Ratings": "2023-05-21T19:01:18.2298685+00:00",
-  "LastUpdate_Achievements": "2023-05-21T19:07:04.0333984+00:00"
+  "LastUpdate_Ratings": "2023-05-21T20:01:06.1319877+00:00",
+  "LastUpdate_Achievements": "2023-05-21T20:06:44.3393554+00:00"
 }

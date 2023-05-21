@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -208,9 +208,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22688,
+  "EOS_Progressed": 22689,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -783,6 +783,11 @@
       "Time": "2023-05-21T19:04:18.7187971+00:00",
       "NumProgressed": 22688,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-21T20:03:56.6524638+00:00",
+      "NumProgressed": 22689,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -810,7 +815,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 17470
+      "UsersEstimate": 17471
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -858,7 +863,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 17243
+      "UsersEstimate": 17244
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -898,7 +903,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 18831
+      "UsersEstimate": 18832
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -914,7 +919,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 12932
+      "UsersEstimate": 12933
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -922,7 +927,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 13386
+      "UsersEstimate": 13387
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -946,7 +951,7 @@
       "Name": "Hardest Battle In The Game",
       "Percentage": 22,
       "XP": 45,
-      "UsersEstimate": 4991
+      "UsersEstimate": 4992
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -978,7 +983,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16562
+      "UsersEstimate": 16563
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -1034,7 +1039,7 @@
       "Name": "Carried Stan\u0027s Load To Completion",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 2949
+      "UsersEstimate": 2950
     },
     {
       "ID": "ACH_SUITO_SUICIDE",
@@ -1042,14 +1047,14 @@
       "Name": "Series Wrap on Suit-O",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 4991
+      "UsersEstimate": 4992
     }
   ],
   "AchievementSets": [
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22688,
+      "Progressed": 22689,
       "Completed": 8
     }
   ],
@@ -1057,8 +1062,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-05-18T06:57:32.9581513+00:00",
-  "LastChanged_Achievements": "2023-05-21T19:04:18.7187964+00:00",
+  "LastChanged_Achievements": "2023-05-21T20:03:56.6524633+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:35.4420325+00:00",
-  "LastUpdate_Ratings": "2023-05-21T18:58:13.4733345+00:00",
-  "LastUpdate_Achievements": "2023-05-21T19:04:18.718827+00:00"
+  "LastUpdate_Ratings": "2023-05-21T19:58:11.3419219+00:00",
+  "LastUpdate_Achievements": "2023-05-21T20:03:56.6524875+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "04e9492e1c384d3283aa2c5b329af66c",
   "Name": "Chef Life - A Restaurant Simulator",
   "ProductSlug": "chef-life-a-restaurant-simulator",
-  "Ranking_EOS_Progress": 241,
+  "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 160,
+  "EOS_Progressed": 162,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -659,6 +659,11 @@
       "Time": "2023-05-21T17:05:09.2481929+00:00",
       "NumProgressed": 160,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T20:06:24.8221486+00:00",
+      "NumProgressed": 162,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -716,17 +721,17 @@
       "ID": "BistroSet",
       "SetID": "d1bm05f",
       "Name": "French Flair",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 37
     },
     {
       "ID": "CleanRestaurantDays10",
       "SetID": "d1bm05f",
       "Name": "So Clean You Can Eat Off the Floor",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 37
     },
     {
       "ID": "Clothes10",
@@ -830,7 +835,7 @@
       "Name": "Haute Cuisine",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Money10000",
@@ -844,7 +849,7 @@
       "ID": "OpenRestaurant",
       "SetID": "d1bm05f",
       "Name": "The Big Day",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 15,
       "UsersEstimate": 117
     },
@@ -852,9 +857,9 @@
       "ID": "Packing20",
       "SetID": "d1bm05f",
       "Name": "Next Level Cuisine",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "PerfectGrade25",
@@ -892,9 +897,9 @@
       "ID": "SDishes50",
       "SetID": "d1bm05f",
       "Name": "S is for Scrumptious",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "ServiceMaxClient",
@@ -924,9 +929,9 @@
       "ID": "StaffMemberSpecialityDishes10",
       "SetID": "d1bm05f",
       "Name": "You\u0027re the Expert!",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 57
     },
     {
       "ID": "TrattoriaSet",
@@ -989,7 +994,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 160,
+      "Progressed": 162,
       "Completed": 0
     }
   ],
@@ -997,8 +1002,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-21T19:06:43.3014401+00:00",
+  "LastChanged_Achievements": "2023-05-21T20:06:24.8221481+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.318416+00:00",
-  "LastUpdate_Ratings": "2023-05-21T18:58:47.5774349+00:00",
-  "LastUpdate_Achievements": "2023-05-21T19:06:43.3014712+00:00"
+  "LastUpdate_Ratings": "2023-05-21T19:58:40.6930362+00:00",
+  "LastUpdate_Achievements": "2023-05-21T20:06:24.8221753+00:00"
 }

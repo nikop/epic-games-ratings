@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 64.00% | ~75 |
-| Forced to Kill | 64.00% | ~75 |
-| A Night To Remember | 31.00% | ~36 |
-| Safe...For now? | 25.00% | ~29 |
-| Open Sesame | 21.00% | ~25 |
+| Alone with Them | 64.00% | ~76 |
+| Forced to Kill | 64.00% | ~76 |
+| A Night To Remember | 31.00% | ~37 |
+| Safe...For now? | 25.00% | ~30 |
+| Open Sesame | 20.00% | ~24 |
 | Them and Us | 12.00% | ~14 |
 | OUTRAGE | 12.00% | ~14 |
 | What have I done!? | 12.00% | ~14 |
@@ -31,21 +31,21 @@
 | Back In Time | 2.00% | ~2 |
 | Run and Gun | 2.00% | ~2 |
 | The 5th Element | 2.00% | ~2 |
-| Before The Eclipse | 0.90% | ~1 |
-| Box Of Ploutus | 0.90% | ~1 |
-| Chosen One | 0.90% | ~1 |
-| Retro Player | 0.90% | ~1 |
-| Die Another Day | 0.90% | ~1 |
-| Dressed to Kill | 0.90% | ~1 |
-| Spiritual essence well spent | 0.90% | ~1 |
-| Life Of The Thousand Gods | 0.90% | ~1 |
-| Nightmare Over | 0.90% | ~1 |
-| No Time To Relax | 0.90% | ~1 |
-| Pet The Dog | 0.90% | ~1 |
-| Survival Horror | 0.90% | ~1 |
-| Survival Hero | 0.90% | ~1 |
+| Before The Eclipse | 0.80% | ~1 |
+| Box Of Ploutus | 0.80% | ~1 |
+| Chosen One | 0.80% | ~1 |
+| Retro Player | 0.80% | ~1 |
+| Die Another Day | 0.80% | ~1 |
+| Dressed to Kill | 0.80% | ~1 |
+| Spiritual essence well spent | 0.80% | ~1 |
+| Life Of The Thousand Gods | 0.80% | ~1 |
+| Nightmare Over | 0.80% | ~1 |
+| No Time To Relax | 0.80% | ~1 |
+| Pet The Dog | 0.80% | ~1 |
+| Survival Horror | 0.80% | ~1 |
+| Survival Hero | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117 (Ranked 255)  
+Progressed: 118 (Ranked 255)  
 Completed: 1 (0.85%) (Ranked 90)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,7 +61,7 @@ Completed: 1 (0.85%) (Ranked 90)
 | 2023-05-18 | 95 | 1 |
 | 2023-05-19 | 109 | 1 |
 | 2023-05-20 | 112 | 1 |
-| 2023-05-21 | 117 | 1 |
+| 2023-05-21 | 118 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

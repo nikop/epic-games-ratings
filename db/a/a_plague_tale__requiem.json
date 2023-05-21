@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -272,7 +272,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 10456,
+  "EOS_Progressed": 10457,
   "EOS_Completed": 32,
   "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
@@ -1337,6 +1337,11 @@
       "Time": "2023-05-21T19:06:57.6190773+00:00",
       "NumProgressed": 10456,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-05-21T20:06:38.1953675+00:00",
+      "NumProgressed": 10457,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 35,
@@ -1364,7 +1369,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 7633
+      "UsersEstimate": 7634
     },
     {
       "ID": "ACH_04",
@@ -1396,7 +1401,7 @@
       "Name": "Felons",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 6378
+      "UsersEstimate": 6379
     },
     {
       "ID": "ACH_08",
@@ -1404,7 +1409,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 6169
+      "UsersEstimate": 6170
     },
     {
       "ID": "ACH_09",
@@ -1412,7 +1417,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 5855
+      "UsersEstimate": 5856
     },
     {
       "ID": "ACH_10",
@@ -1428,7 +1433,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 4914
+      "UsersEstimate": 4915
     },
     {
       "ID": "ACH_12",
@@ -1436,7 +1441,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 4705
+      "UsersEstimate": 4706
     },
     {
       "ID": "ACH_13",
@@ -1444,7 +1449,7 @@
       "Name": "Nothing Left",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 3973
+      "UsersEstimate": 3974
     },
     {
       "ID": "ACH_14",
@@ -1452,7 +1457,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 3764
+      "UsersEstimate": 3765
     },
     {
       "ID": "ACH_15",
@@ -1596,7 +1601,7 @@
       "Name": "Perfect shot",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 2300
+      "UsersEstimate": 2301
     },
     {
       "ID": "ACH_33",
@@ -1627,7 +1632,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 10456,
+      "Progressed": 10457,
       "Completed": 32
     }
   ],
@@ -1635,8 +1640,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-05-20T22:59:09.5997761+00:00",
-  "LastChanged_Achievements": "2023-05-21T19:06:57.6190767+00:00",
+  "LastChanged_Achievements": "2023-05-21T20:06:38.195367+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:44.7734011+00:00",
-  "LastUpdate_Ratings": "2023-05-21T19:00:01.3933123+00:00",
-  "LastUpdate_Achievements": "2023-05-21T19:06:57.6191085+00:00"
+  "LastUpdate_Ratings": "2023-05-21T19:59:51.2846863+00:00",
+  "LastUpdate_Achievements": "2023-05-21T20:06:38.1953901+00:00"
 }

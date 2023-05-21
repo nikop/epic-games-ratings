@@ -6,11 +6,11 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~547 |
+| Diligence as a goal | 4.00% | ~548 |
 | Project Arena | 3.00% | ~411 |
 | Bloody Sport | 1.00% | ~137 |
-| The Hateful Pole Fighter | 0.90% | ~6,339 |
-| Qi Gong: Breath | 0.90% | ~6,339 |
+| The Hateful Pole Fighter | 0.90% | ~6,340 |
+| Qi Gong: Breath | 0.90% | ~6,340 |
 | The best strikes are the ones we avoid | 0.90% | ~123 |
 | The Old Grandmaster | 0.80% | ~5,635 |
 | The Assault | 0.80% | ~5,635 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~704 |
 | Warriors from the Mountain | 0.10% | ~704 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,386 (Ranked 15)  
+Progressed: 704,391 (Ranked 15)  
 Completed: 12,733 (1.81%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,14 +88,14 @@ Completed: 12,733 (1.81%) (Ranked 64)
 | 2023-05-18 | 703,070 | 12,731 |
 | 2023-05-19 | 703,575 | 12,731 |
 | 2023-05-20 | 704,036 | 12,732 |
-| 2023-05-21 | 704,386 | 12,733 |
+| 2023-05-21 | 704,391 | 12,733 |
 ## Awards
-Max (Great Boss Battles): 6,078  (Ranked 53)  
-Sum: 10,344 (Ranked 77)  
+Max (Great Boss Battles): 6,082  (Ranked 53)  
+Sum: 10,348 (Ranked 77)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,078 |
+| This game has Great Boss Battles | 6,082 |
 | This game has Diverse Characters | 511 |
 | This game has Challenging Combat | 510 |
 | This game has Quickly Understood Controls | 500 |
@@ -235,4 +235,4 @@ Diff (max vs sum): -24
 | 2023-05-18 | 4.82 | - | 6,074 | 10,327 |
 | 2023-05-19 | 4.82 | - | 6,075 | 10,335 |
 | 2023-05-20 | 4.82 | - | 6,078 | 10,342 |
-| 2023-05-21 | 4.82 | - | 6,078 | 10,344 |
+| 2023-05-21 | 4.82 | - | 6,082 | 10,348 |

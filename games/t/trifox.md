@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What is this? | 70.00% | ~57 |
-| Complete Level 1-1 | 61.00% | ~50 |
-| Immortal | 51.00% | ~42 |
+| What is this? | 71.00% | ~58 |
+| Complete Level 1-1 | 62.00% | ~51 |
+| Immortal | 52.00% | ~43 |
 | Complete Level 1-2 | 46.00% | ~38 |
 | Scraping by | 32.00% | ~26 |
 | Engineer-mage hybrid | 32.00% | ~26 |

@@ -6,61 +6,61 @@ Number of Ratings: 2,205  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Champion | 91.00% | ~58,357 |
-| The Pyromancer | 86.00% | ~55,151 |
-| The Wastes | 83.00% | ~53,227 |
-| Waste Not | 80.00% | ~51,303 |
-| The Cryomancer | 76.00% | ~48,738 |
-| Stock Up | 75.00% | ~48,097 |
-| The Hydromancer | 73.00% | ~46,814 |
-| The Matriarch | 70.00% | ~44,890 |
-| The Aeromancer | 66.00% | ~42,325 |
-| The Venomancer | 66.00% | ~42,325 |
-| The Huntsman | 65.00% | ~41,684 |
-| Dawnlight Order | 64.00% | ~41,043 |
-| The Electromancer | 61.00% | ~39,119 |
-| The Terramancer | 59.00% | ~37,836 |
-| The Exalted | 56.00% | ~35,912 |
-| Sheriff Inquisitors | 55.00% | ~35,271 |
-| Blueheart Runners | 54.00% | ~34,630 |
-| The Necromancer | 52.00% | ~33,347 |
-| The Swamp | 50.00% | ~32,064 |
-| The Fungalmancer | 47.00% | ~30,141 |
-| The Thaumamancer | 47.00% | ~30,141 |
-| The Hag | 45.00% | ~28,858 |
-| The Corpumancer | 42.00% | ~26,934 |
+| The Champion | 91.00% | ~58,359 |
+| The Pyromancer | 86.00% | ~55,153 |
+| The Wastes | 83.00% | ~53,229 |
+| Waste Not | 80.00% | ~51,305 |
+| The Cryomancer | 76.00% | ~48,740 |
+| Stock Up | 75.00% | ~48,098 |
+| The Hydromancer | 73.00% | ~46,816 |
+| The Matriarch | 70.00% | ~44,892 |
+| The Aeromancer | 66.00% | ~42,326 |
+| The Venomancer | 66.00% | ~42,326 |
+| The Huntsman | 65.00% | ~41,685 |
+| Dawnlight Order | 64.00% | ~41,044 |
+| The Electromancer | 61.00% | ~39,120 |
+| The Terramancer | 59.00% | ~37,837 |
+| The Exalted | 56.00% | ~35,913 |
+| Sheriff Inquisitors | 55.00% | ~35,272 |
+| Blueheart Runners | 54.00% | ~34,631 |
+| The Necromancer | 52.00% | ~33,348 |
+| The Swamp | 50.00% | ~32,066 |
+| The Fungalmancer | 47.00% | ~30,142 |
+| The Thaumamancer | 47.00% | ~30,142 |
+| The Hag | 45.00% | ~28,859 |
+| The Corpumancer | 42.00% | ~26,935 |
 | The Mountain | 40.00% | ~25,652 |
 | The Treeheart | 40.00% | ~25,652 |
-| Shroud Alliance | 39.00% | ~25,010 |
+| Shroud Alliance | 39.00% | ~25,011 |
 | The Two Monks | 37.00% | ~23,728 |
-| The Neuromancer | 34.00% | ~21,804 |
+| The Neuromancer | 34.00% | ~21,805 |
 | Oathbound Watchers | 33.00% | ~21,163 |
-| The Chronomancer | 32.00% | ~20,521 |
-| The Mechanomancer | 32.00% | ~20,521 |
-| The Copse | 29.00% | ~18,597 |
-| The Dragon | 29.00% | ~18,597 |
-| The Dracomancer | 29.00% | ~18,597 |
-| Well Stocked | 28.00% | ~17,956 |
-| The Umbramancer | 28.00% | ~17,956 |
+| The Chronomancer | 32.00% | ~20,522 |
+| The Mechanomancer | 32.00% | ~20,522 |
+| The Copse | 29.00% | ~18,598 |
+| The Dragon | 29.00% | ~18,598 |
+| The Dracomancer | 29.00% | ~18,598 |
+| Well Stocked | 28.00% | ~17,957 |
+| The Umbramancer | 28.00% | ~17,957 |
 | Chaos Hunger | 27.00% | ~17,315 |
 | The Kinetomancer | 27.00% | ~17,315 |
 | The Sanguimancer | 27.00% | ~17,315 |
-| The Bibliomancer | 25.00% | ~16,032 |
-| The Luminimancer | 25.00% | ~16,032 |
-| The Skylord | 25.00% | ~16,032 |
+| The Bibliomancer | 25.00% | ~16,033 |
+| The Luminimancer | 25.00% | ~16,033 |
+| The Skylord | 25.00% | ~16,033 |
 | The Firelord | 24.00% | ~15,391 |
-| Want Not | 21.00% | ~13,467 |
-| The Diablomancer | 21.00% | ~13,467 |
-| The Sacrifice | 21.00% | ~13,467 |
-| The King | 18.00% | ~11,543 |
+| Want Not | 21.00% | ~13,468 |
+| The Diablomancer | 21.00% | ~13,468 |
+| The Sacrifice | 21.00% | ~13,468 |
+| The King | 18.00% | ~11,544 |
 | Take Your Place | 14.00% | ~8,978 |
 | The Nomad | 14.00% | ~8,978 |
 | The Soldier | 11.00% | ~7,054 |
 | Make The Climb | 10.00% | ~6,413 |
 | The Scholar | 10.00% | ~6,413 |
-| Top Shelf | 5.00% | ~3,206 |
+| Top Shelf | 5.00% | ~3,207 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,129 (Ranked 65)  
+Progressed: 64,131 (Ranked 65)  
 Completed: 1,157 (1.80%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 1,157 (1.80%) (Ranked 65)
 | 2023-05-18 | 64,058 | 1,156 |
 | 2023-05-19 | 64,076 | 1,156 |
 | 2023-05-20 | 64,101 | 1,157 |
-| 2023-05-21 | 64,129 | 1,157 |
+| 2023-05-21 | 64,131 | 1,157 |
 ## Awards
 Max (Character Customization): 937  (Ranked 140)  
 Sum: 1,874 (Ranked 192)  
