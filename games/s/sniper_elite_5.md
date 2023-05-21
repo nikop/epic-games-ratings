@@ -5,7 +5,7 @@ Rating: 4.41 (Ranked 658)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 7.00% | ~69 |
+| Meeting Resistance | 7.00% | ~70 |
 | Confirming Suspicions | 4.00% | ~40 |
 | Enemy at the Gates | 2.00% | ~20 |
 | Lord of War | 2.00% | ~20 |
@@ -21,10 +21,10 @@ Rating: 4.41 (Ranked 658)
 | Change the Channel | 0.90% | ~9 |
 | Liberté | 0.80% | ~8 |
 | Opposing Force | 0.80% | ~8 |
+| Just a Flesh Wound | 0.80% | ~8 |
 | The Long Game | 0.80% | ~8 |
 | Die Nussknacker Sweet! | 0.80% | ~8 |
 | Taking it back | 0.80% | ~8 |
-| Just a Flesh Wound | 0.70% | ~7 |
 | Snake in the Grass | 0.70% | ~7 |
 | Precision Is Key | 0.60% | ~6 |
 | Climbing the Ladder | 0.50% | ~5 |
@@ -44,11 +44,11 @@ Rating: 4.41 (Ranked 658)
 | Last Resort | 0.30% | ~3 |
 | Sink or Swim | 0.30% | ~2 |
 | Rigged to Blow | 0.20% | ~2 |
+| My Little Friend | 0.20% | ~2 |
 | From Paris with Love | 0.20% | ~2 |
 | Siegebreaker | 0.20% | ~2 |
 | Ghost of Falaise | 0.20% | ~2 |
 | Fields of Glory | 0.10% | ~1 |
-| My Little Friend | 0.10% | ~1 |
 | Burn after reading | 0.10% | ~1 |
 | Eagle Eyed | 0.10% | ~1 |
 | Tinkerer | 0.10% | ~1 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 658)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 989 (Ranked 165)  
+Progressed: 999 (Ranked 165)  
 Completed: 2 (0.20%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 2 (0.20%) (Ranked 140)
 | 2023-05-18 | 743 | 2 |
 | 2023-05-19 | 833 | 2 |
 | 2023-05-20 | 984 | 2 |
-| 2023-05-21 | 989 | 2 |
+| 2023-05-21 | 999 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

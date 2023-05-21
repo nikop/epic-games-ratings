@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
     "PcReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15338,
+  "EOS_Progressed": 15342,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -972,6 +972,11 @@
       "Time": "2023-05-21T00:06:35.8522768+00:00",
       "NumProgressed": 15338,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T02:12:05.4567322+00:00",
+      "NumProgressed": 15342,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -983,7 +988,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 14571
+      "UsersEstimate": 14575
     },
     {
       "ID": "ACH001",
@@ -991,7 +996,7 @@
       "Name": "Personal Matter",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 13344
+      "UsersEstimate": 13348
     },
     {
       "ID": "ACH0010",
@@ -999,7 +1004,7 @@
       "Name": "Table for Six",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1687
+      "UsersEstimate": 1688
     },
     {
       "ID": "ACH0011",
@@ -1015,7 +1020,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 7055
+      "UsersEstimate": 7057
     },
     {
       "ID": "ACH0013",
@@ -1023,7 +1028,7 @@
       "Name": "Make It Rain",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3681
+      "UsersEstimate": 3682
     },
     {
       "ID": "ACH0014",
@@ -1031,7 +1036,7 @@
       "Name": "Sharing Is Caring",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     },
     {
       "ID": "ACH0015",
@@ -1063,7 +1068,7 @@
       "Name": "Curse of the Seven Seas",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 3221
+      "UsersEstimate": 3222
     },
     {
       "ID": "ACH0019",
@@ -1079,7 +1084,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 11043
+      "UsersEstimate": 11046
     },
     {
       "ID": "ACH0020",
@@ -1103,7 +1108,7 @@
       "Name": "House Party!",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 5062
+      "UsersEstimate": 5063
     },
     {
       "ID": "ACH0023",
@@ -1127,7 +1132,7 @@
       "Name": "Morally Flexible",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "ACH003",
@@ -1135,7 +1140,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 8436
+      "UsersEstimate": 8438
     },
     {
       "ID": "ACH004",
@@ -1143,7 +1148,7 @@
       "Name": "No Half Measures",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 13497
+      "UsersEstimate": 13501
     },
     {
       "ID": "ACH005",
@@ -1159,7 +1164,7 @@
       "Name": "... And Where Do the Stories Come From?",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 6289
+      "UsersEstimate": 6290
     },
     {
       "ID": "ACH007",
@@ -1190,7 +1195,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 15338,
+      "Progressed": 15342,
       "Completed": 0
     }
   ],
@@ -1198,8 +1203,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-05-09T21:01:06.0893897+00:00",
-  "LastChanged_Achievements": "2023-05-21T00:06:35.8522765+00:00",
+  "LastChanged_Achievements": "2023-05-21T02:12:05.4567318+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:17.69203+00:00",
-  "LastUpdate_Ratings": "2023-05-21T00:00:46.2548907+00:00",
-  "LastUpdate_Achievements": "2023-05-21T00:06:35.852294+00:00"
+  "LastUpdate_Ratings": "2023-05-21T02:06:11.6175963+00:00",
+  "LastUpdate_Achievements": "2023-05-21T02:12:05.456756+00:00"
 }

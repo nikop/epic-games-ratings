@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -234,7 +234,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 545,
+  "EOS_Progressed": 546,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
@@ -489,6 +489,11 @@
       "Time": "2023-05-20T20:05:39.5655722+00:00",
       "NumProgressed": 545,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T02:11:47.8976033+00:00",
+      "NumProgressed": 546,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -500,7 +505,7 @@
       "Name": "Cabin boy",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ACH001",
@@ -508,7 +513,7 @@
       "Name": "Seafarer",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH002",
@@ -588,7 +593,7 @@
       "Name": "Intangible",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ACH012",
@@ -652,7 +657,7 @@
       "Name": "Just a scratch",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH020",
@@ -732,7 +737,7 @@
       "Name": "Licence to Kill",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ACH030",
@@ -740,7 +745,7 @@
       "Name": "Walk the plank",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH031",
@@ -788,7 +793,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "ACH037",
@@ -802,9 +807,9 @@
       "ID": "ACH038",
       "SetID": "69nfp41",
       "Name": "O Captain! My Captain!",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 289
     },
     {
       "ID": "ACH039",
@@ -844,7 +849,7 @@
       "Name": "Your vessel, my vessel",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH044",
@@ -852,7 +857,7 @@
       "Name": "Greed for gold",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH045",
@@ -899,15 +904,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 545,
+      "Progressed": 546,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
-  "LastChanged_Achievements": "2023-05-21T00:06:13.39363+00:00",
+  "LastChanged_Achievements": "2023-05-21T02:11:47.8976027+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:02.5497371+00:00",
-  "LastUpdate_Ratings": "2023-05-20T23:58:40.4709276+00:00",
-  "LastUpdate_Achievements": "2023-05-21T00:06:13.3936653+00:00"
+  "LastUpdate_Ratings": "2023-05-21T02:04:44.5259414+00:00",
+  "LastUpdate_Achievements": "2023-05-21T02:11:47.8976479+00:00"
 }

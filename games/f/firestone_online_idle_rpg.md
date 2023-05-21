@@ -10,7 +10,7 @@ Rating: 3.75 (Ranked 918)
 | Temple of Eternals | 56.00% | ~625 |
 | Prestigious | 52.00% | ~580 |
 | Fellowship Power | 40.00% | ~446 |
-| Guild Power | 23.00% | ~257 |
+| Guild Power | 24.00% | ~268 |
 | Prestigious x10 | 21.00% | ~234 |
 | The game is on | 18.00% | ~201 |
 | Dragon Clicker | 16.00% | ~179 |
@@ -43,11 +43,11 @@ Rating: 3.75 (Ranked 918)
 | Here We Go Again | 3.00% | ~33 |
 | How Do You Turn This On? | 3.00% | ~33 |
 | Missions Dedication | 3.00% | ~33 |
+| The father of Dragons | 3.00% | ~33 |
 | Dragon Slayer | 2.00% | ~22 |
 | Engineer Mastery | 2.00% | ~22 |
 | Master Enchanter | 2.00% | ~22 |
 | Relic Of The Past | 2.00% | ~22 |
-| The father of Dragons | 2.00% | ~22 |
 | Trader | 2.00% | ~22 |
 | Weekly Quest Completionist | 2.00% | ~22 |
 | What lies behind the bush | 2.00% | ~22 |

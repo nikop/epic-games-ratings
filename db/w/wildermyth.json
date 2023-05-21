@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1193,
+  "EOS_Progressed": 1194,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -525,6 +525,11 @@
       "Time": "2023-05-20T23:05:40.8185989+00:00",
       "NumProgressed": 1193,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-21T02:11:43.4497497+00:00",
+      "NumProgressed": 1194,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -608,7 +613,7 @@
       "Name": "Passing Shadow",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -670,9 +675,9 @@
       "ID": "achievement_kill1000Thrixl",
       "SetID": "95dc8p",
       "Name": "No More Nightmares",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 36
     },
     {
       "ID": "achievement_kill100Monsters",
@@ -704,7 +709,7 @@
       "Name": "How Romantic!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "achievement_maimedHero",
@@ -728,7 +733,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -752,7 +757,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "completedStory_cvawn",
@@ -808,7 +813,7 @@
       "Name": "Daybreak",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "completedStory_vultureLord",
@@ -983,15 +988,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1193,
+      "Progressed": 1194,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-21T00:06:07.5487506+00:00",
+  "LastChanged_Achievements": "2023-05-21T02:11:43.4497489+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:59.9959604+00:00",
-  "LastUpdate_Ratings": "2023-05-21T00:01:11.8487655+00:00",
-  "LastUpdate_Achievements": "2023-05-21T00:06:07.5487897+00:00"
+  "LastUpdate_Ratings": "2023-05-21T02:06:28.4868453+00:00",
+  "LastUpdate_Achievements": "2023-05-21T02:11:43.4497994+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2516,
+  "EOS_Progressed": 2517,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1595,6 +1595,11 @@
       "Time": "2023-05-21T00:01:15.8765716+00:00",
       "NumProgressed": 2516,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T02:06:32.9827421+00:00",
+      "NumProgressed": 2517,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1614,7 +1619,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "11",
@@ -1662,7 +1667,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 9,
       "XP": 45,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "17",
@@ -1670,15 +1675,15 @@
       "Name": "BE OUR GUEST",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "18",
       "SetID": "9p3jgda",
       "Name": "ACE BRAWLER",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 176
+      "UsersEstimate": 201
     },
     {
       "ID": "19",
@@ -1726,7 +1731,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "24",
@@ -1734,7 +1739,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "3",
@@ -1750,7 +1755,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "5",
@@ -1758,7 +1763,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "6",
@@ -1782,7 +1787,7 @@
       "Name": "ACE TRICKSTER",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "9",
@@ -1797,13 +1802,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2516,
+      "Progressed": 2517,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-21T00:01:15.8765712+00:00",
+  "LastChanged_Achievements": "2023-05-21T02:06:32.9827417+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.9291954+00:00",
-  "LastUpdate_Ratings": "2023-05-20T23:59:15.0823762+00:00",
-  "LastUpdate_Achievements": "2023-05-21T00:01:15.8766007+00:00"
+  "LastUpdate_Ratings": "2023-05-21T02:05:08.2642524+00:00",
+  "LastUpdate_Achievements": "2023-05-21T02:06:32.9827783+00:00"
 }

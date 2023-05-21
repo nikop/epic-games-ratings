@@ -6,11 +6,11 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The Court of Storms | 0.50% | ~272 |
 | A Brief Tour of the Realms | 0.40% | ~353 |
-| The Court of Storms | 0.40% | ~218 |
+| The Cursed Farmer | 0.30% | ~264 |
 | Beware the Jabberwock | 0.30% | ~163 |
 | Beast Intentions | 0.20% | ~176 |
-| The Cursed Farmer | 0.20% | ~176 |
 | The Ring of Regeneration | 0.20% | ~176 |
 | The Mad Wizard | 0.20% | ~176 |
 | Coasting to the Finish | 0.20% | ~109 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.10% | ~88 |
 | Rescue in the Jungle | 0.10% | ~88 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,132 (Ranked 59)  
+Progressed: 88,143 (Ranked 59)  
 Completed: 1,854 (2.10%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -531,9 +531,10 @@ Completed: 1,854 (2.10%) (Ranked 62)
 | 2023-05-18 | 87,918 | 1,850 |
 | 2023-05-19 | 88,008 | 1,851 |
 | 2023-05-20 | 88,132 | 1,854 |
+| 2023-05-21 | 88,143 | 1,854 |
 ## Awards
 Max (Diverse Characters): 4,890  (Ranked 64)  
-Sum: 29,933 (Ranked 37)  
+Sum: 29,936 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
@@ -542,7 +543,7 @@ Diff (max vs sum): 27
 | This game has Quickly Understood Controls | 4,597 |
 | This game is Relaxing | 4,493 |
 | This game is Highly Recommended | 3,942 |
-| This game has Amazing Characters | 3,939 |
+| This game has Amazing Characters | 3,942 |
 | This game has Playful Visuals | 3,238 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -662,3 +663,4 @@ Diff (max vs sum): 27
 | 2023-05-18 | 4.06 | - | 4,888 | 29,918 |
 | 2023-05-19 | 4.06 | - | 4,888 | 29,923 |
 | 2023-05-20 | 4.06 | - | 4,890 | 29,933 |
+| 2023-05-21 | 4.06 | - | 4,890 | 29,936 |

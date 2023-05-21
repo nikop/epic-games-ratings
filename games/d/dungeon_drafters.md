@@ -13,12 +13,12 @@
 | Riddlesolver | 28.00% | ~8 |
 | Clear as Water | 28.00% | ~8 |
 | Dungeon Mastery | 24.00% | ~7 |
+| A Strange Proposition | 17.00% | ~5 |
 | Card Collector | 17.00% | ~5 |
 | The Apprentice | 14.00% | ~4 |
+| The Familiar | 14.00% | ~4 |
 | The Steed | 14.00% | ~4 |
-| A Strange Proposition | 14.00% | ~4 |
 | The Bodyguard | 10.00% | ~3 |
-| The Familiar | 10.00% | ~3 |
 | Ancient Nemesis | 10.00% | ~3 |
 | Braving Miasma | 7.00% | ~2 |
 | Best Pupil | 7.00% | ~2 |

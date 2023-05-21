@@ -6,23 +6,23 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 14.00% | ~82,885 |
-| Incurious | 13.00% | ~76,965 |
-| Stroller | 12.00% | ~71,045 |
-| Climate Change | 12.00% | ~71,045 |
-| Advanced Hiker | 10.00% | ~59,204 |
-| Toy Train | 10.00% | ~59,204 |
-| Hiker | 9.00% | ~53,283 |
-| Mojave Courier | 4.00% | ~23,682 |
-| Advanced Voyager | 3.00% | ~17,761 |
-| Expert Stroller | 3.00% | ~17,761 |
-| Voyager | 2.00% | ~11,841 |
-| Expert Hiker | 2.00% | ~11,841 |
-| Orient Express | 2.00% | ~11,841 |
-| Marathon | 2.00% | ~11,841 |
-| Destructionist | 2.00% | ~11,841 |
-| Saved by Nausicaä | 2.00% | ~11,841 |
-| Lost | 1.00% | ~5,920 |
+| Advanced Stroller | 14.00% | ~82,892 |
+| Incurious | 13.00% | ~76,971 |
+| Stroller | 12.00% | ~71,051 |
+| Climate Change | 12.00% | ~71,051 |
+| Advanced Hiker | 10.00% | ~59,209 |
+| Toy Train | 10.00% | ~59,209 |
+| Hiker | 9.00% | ~53,288 |
+| Mojave Courier | 4.00% | ~23,684 |
+| Advanced Voyager | 3.00% | ~17,763 |
+| Expert Stroller | 3.00% | ~17,763 |
+| Voyager | 2.00% | ~11,842 |
+| Expert Hiker | 2.00% | ~11,842 |
+| Orient Express | 2.00% | ~11,842 |
+| Marathon | 2.00% | ~11,842 |
+| Destructionist | 2.00% | ~11,842 |
+| Saved by Nausicaä | 2.00% | ~11,842 |
+| Lost | 1.00% | ~5,921 |
 | Expert Voyager | 0.50% | ~2,960 |
 | Rocketman | 0.50% | ~2,960 |
 | Shopaholic | 0.50% | ~2,960 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~592 |
 | 20 Miles under the Sea | 0.10% | ~592 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 592,038 (Ranked 20)  
+Progressed: 592,088 (Ranked 20)  
 Completed: 7 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,6 +90,7 @@ Completed: 7 (0.00%) (Ranked 201)
 | 2023-05-18 | 590,954 | 7 |
 | 2023-05-19 | 591,411 | 7 |
 | 2023-05-20 | 592,038 | 7 |
+| 2023-05-21 | 592,088 | 7 |
 ## Awards
 Max (Diverse Characters): 185  (Ranked 265)  
 Sum: 1,505 (Ranked 207)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
     "PcReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2031,
+  "EOS_Progressed": 2032,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -690,6 +690,11 @@
       "Time": "2023-05-20T23:06:03.0449557+00:00",
       "NumProgressed": 2031,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-21T02:12:02.4909289+00:00",
+      "NumProgressed": 2032,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -717,7 +722,7 @@
       "Name": "The First Law of Thermodynamics",
       "Percentage": 27,
       "XP": 150,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "complete_act_three",
@@ -741,7 +746,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "deal_damage",
@@ -749,7 +754,7 @@
       "Name": "Ouch",
       "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 1137
+      "UsersEstimate": 1138
     },
     {
       "ID": "defeat_enemies",
@@ -757,7 +762,7 @@
       "Name": "A Ribbiting Performance",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "defeat_tree_dummy",
@@ -781,7 +786,7 @@
       "Name": "Say \u0022Cheese!\u0022",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "reach_heat",
@@ -789,7 +794,7 @@
       "Name": "Turn Up The HEAT",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "reach_high_heat",
@@ -837,7 +842,7 @@
       "Name": "Fun in the Stun",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 1117
+      "UsersEstimate": 1118
     },
     {
       "ID": "trash_truck",
@@ -845,14 +850,14 @@
       "Name": "Taking Out the Trash",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     }
   ],
   "AchievementSets": [
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2031,
+      "Progressed": 2032,
       "Completed": 8
     }
   ],
@@ -860,8 +865,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-05-15T22:59:29.8330198+00:00",
-  "LastChanged_Achievements": "2023-05-21T00:06:32.4764813+00:00",
+  "LastChanged_Achievements": "2023-05-21T02:12:02.4909285+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:21.4953983+00:00",
-  "LastUpdate_Ratings": "2023-05-21T00:00:48.791981+00:00",
-  "LastUpdate_Achievements": "2023-05-21T00:06:32.4764949+00:00"
+  "LastUpdate_Ratings": "2023-05-21T02:06:13.3793782+00:00",
+  "LastUpdate_Achievements": "2023-05-21T02:12:02.4909448+00:00"
 }

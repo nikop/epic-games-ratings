@@ -2,10 +2,10 @@
   "ID": "96f4ce259e1b4845848399fc29c718fe",
   "Name": "Serial Cleaners",
   "ProductSlug": "serial-cleaners",
-  "Ranking_EOS_Progress": 239,
+  "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 160,
+  "EOS_Progressed": 161,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.12,
+  "EOS_Completed_Percentage": 3.11,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -70,6 +70,11 @@
     {
       "Time": "2023-05-20T23:05:51.50767+00:00",
       "NumProgressed": 160,
+      "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-21T02:11:52.4564492+00:00",
+      "NumProgressed": 161,
       "NumCompleted": 5
     }
   ],
@@ -224,9 +229,9 @@
       "ID": "NODEATH_MISSION_CLEAR",
       "SetID": "2lk004m",
       "Name": "A New Broom Sweeps Clean",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PERFECT_CLEANED_EVERY_MAP",
@@ -240,9 +245,9 @@
       "ID": "PERFECT_CLEANED_ONE_MAP",
       "SetID": "2lk004m",
       "Name": "Mr. Hygeni",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PSYCHO_DISMEMBER",
@@ -256,9 +261,9 @@
       "ID": "TUTORIAL_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Clean Conscience",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "VIPER_HACKING",
@@ -273,13 +278,13 @@
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 23,
+      "Progressed": 24,
       "Completed": 15
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 160,
+      "Progressed": 161,
       "Completed": 5
     }
   ],
@@ -287,8 +292,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-05-21T00:06:19.4464877+00:00",
+  "LastChanged_Achievements": "2023-05-21T02:11:52.456449+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:32.2683704+00:00",
-  "LastUpdate_Ratings": "2023-05-20T23:59:34.5298772+00:00",
-  "LastUpdate_Achievements": "2023-05-21T00:06:19.4465171+00:00"
+  "LastUpdate_Ratings": "2023-05-21T02:05:21.0467247+00:00",
+  "LastUpdate_Achievements": "2023-05-21T02:11:52.4564641+00:00"
 }

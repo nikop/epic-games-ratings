@@ -1,33 +1,33 @@
 # RAILGRADE
 [Store](https://store.epicgames.com/en-US/p/railgrade)  
 [View Rawdata](../../db/r/railgrade.json)  
-Rating: 4.54 (Ranked 481)  
+Rating: 4.54 (Ranked 480)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~18,169 |
-| Before the Downfall | 93.00% | ~17,242 |
-| Money like Water | 91.00% | ~16,871 |
-| Minimalist | 90.00% | ~16,686 |
-| Builder | 82.00% | ~15,203 |
-| Eraser | 70.00% | ~12,978 |
-| Pocket of Trains | 65.00% | ~12,051 |
-| Inspector | 59.00% | ~10,939 |
-| Going the Distance | 54.00% | ~10,012 |
-| Oil Baron | 42.00% | ~7,787 |
-| Loads-a-Money | 42.00% | ~7,787 |
-| Helper of the People | 39.00% | ~7,231 |
-| Simplification | 33.00% | ~6,118 |
-| Box of Trains | 33.00% | ~6,118 |
-| Let There be Light | 32.00% | ~5,933 |
-| Hot Water | 30.00% | ~5,562 |
-| Indecisive | 29.00% | ~5,377 |
-| The scenic route | 27.00% | ~5,006 |
-| Industrialist | 25.00% | ~4,635 |
-| Perfectionist | 23.00% | ~4,264 |
-| Trains over Pipes | 23.00% | ~4,264 |
-| 8K is Enough for Everyone | 22.00% | ~4,079 |
-| Man of Steel | 16.00% | ~2,966 |
+| Trevithick's Legacy | 98.00% | ~18,173 |
+| Before the Downfall | 93.00% | ~17,246 |
+| Money like Water | 91.00% | ~16,875 |
+| Minimalist | 90.00% | ~16,690 |
+| Builder | 82.00% | ~15,206 |
+| Eraser | 70.00% | ~12,981 |
+| Pocket of Trains | 65.00% | ~12,054 |
+| Inspector | 59.00% | ~10,941 |
+| Going the Distance | 54.00% | ~10,014 |
+| Oil Baron | 42.00% | ~7,788 |
+| Loads-a-Money | 42.00% | ~7,788 |
+| Helper of the People | 39.00% | ~7,232 |
+| Simplification | 33.00% | ~6,120 |
+| Box of Trains | 33.00% | ~6,120 |
+| Let There be Light | 32.00% | ~5,934 |
+| Hot Water | 30.00% | ~5,563 |
+| Indecisive | 29.00% | ~5,378 |
+| The scenic route | 27.00% | ~5,007 |
+| Industrialist | 25.00% | ~4,636 |
+| Perfectionist | 23.00% | ~4,265 |
+| Trains over Pipes | 23.00% | ~4,265 |
+| 8K is Enough for Everyone | 22.00% | ~4,080 |
+| Man of Steel | 16.00% | ~2,967 |
 | Room Full of Trains | 12.00% | ~2,225 |
 | Investor | 9.00% | ~1,669 |
 | Multiverse | 7.00% | ~1,298 |
@@ -43,8 +43,8 @@ Rating: 4.54 (Ranked 481)
 | Overdeer | 0.40% | ~74 |
 | Cloud Services | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,540 (Ranked 95)  
-Completed: 28 (0.15%) (Ranked 148)  
+Progressed: 18,544 (Ranked 95)  
+Completed: 29 (0.16%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -74,7 +74,7 @@ Completed: 28 (0.15%) (Ranked 148)
 | 2023-05-18 | 18,398 | 28 |
 | 2023-05-19 | 18,478 | 28 |
 | 2023-05-20 | 18,539 | 28 |
-| 2023-05-21 | 18,540 | 28 |
+| 2023-05-21 | 18,544 | 29 |
 ## Awards
 Max (Highly Recommended): 87  (Ranked 342)  
 Sum: 646 (Ranked 272)  

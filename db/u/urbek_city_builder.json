@@ -2,10 +2,10 @@
   "ID": "5d2e14c5f6ac427b8a8466508cf81f6d",
   "Name": "Urbek City Builder",
   "ProductSlug": "urbek-city-builder-17cf7d",
-  "Ranking_EOS_Progress": 239,
+  "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 160,
+  "EOS_Progressed": 162,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -207,6 +207,11 @@
       "Time": "2023-05-21T00:06:24.4285282+00:00",
       "NumProgressed": 160,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T02:11:56.3674429+00:00",
+      "NumProgressed": 162,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -362,7 +367,7 @@
       "Name": "I like books",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "CULTURE_2",
@@ -432,9 +437,9 @@
       "ID": "FAITH_1",
       "SetID": "44dlcg0",
       "Name": "The spiritual world...",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "FAITH_2",
@@ -520,9 +525,9 @@
       "ID": "FISHING",
       "SetID": "44dlcg0",
       "Name": "King of fish",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "GRANJA_1",
@@ -544,9 +549,9 @@
       "ID": "GREEN_AREAS_1",
       "SetID": "44dlcg0",
       "Name": "I like parks",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 76
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -570,15 +575,15 @@
       "Name": "The woodcutter",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "MILLS",
       "SetID": "44dlcg0",
       "Name": "Clean energy",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 28
     },
     {
       "ID": "MURICA_1",
@@ -602,7 +607,7 @@
       "Name": "It is nice to share with friends in the city",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -610,7 +615,7 @@
       "Name": "What would we do if we can\u0027t go out with friends?",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "NIGHT_LIFE_3",
@@ -648,9 +653,9 @@
       "ID": "POPULATION_1",
       "SetID": "44dlcg0",
       "Name": "Small town",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 97
     },
     {
       "ID": "POPULATION_2",
@@ -672,9 +677,9 @@
       "ID": "REBELDES_1",
       "SetID": "44dlcg0",
       "Name": "Rebel city",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "REBELDES_2",
@@ -736,9 +741,9 @@
       "ID": "SPORTS_1",
       "SetID": "44dlcg0",
       "Name": "Sport is good for you",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "SPORTS_2",
@@ -849,7 +854,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 160,
+      "Progressed": 162,
       "Completed": 0
     }
   ],
@@ -857,8 +862,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-05-21T00:06:24.428528+00:00",
+  "LastChanged_Achievements": "2023-05-21T02:11:56.3674425+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:08.225759+00:00",
-  "LastUpdate_Ratings": "2023-05-20T23:59:07.341207+00:00",
-  "LastUpdate_Achievements": "2023-05-21T00:06:24.4285982+00:00"
+  "LastUpdate_Ratings": "2023-05-21T02:05:02.2634112+00:00",
+  "LastUpdate_Achievements": "2023-05-21T02:11:56.3675384+00:00"
 }

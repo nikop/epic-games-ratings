@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 751,
+  "EOS_Progressed": 752,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.46,
   "EosHistory": [
@@ -378,6 +378,11 @@
       "Time": "2023-05-20T15:06:45.274308+00:00",
       "NumProgressed": 751,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-21T02:11:59.6266296+00:00",
+      "NumProgressed": 752,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 27,
@@ -453,7 +458,7 @@
       "Name": "No need to call anyone",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "ACH_GLORY_AND_SPLENDOR_FINISHED",
@@ -469,7 +474,7 @@
       "Name": "Aesop\u0027s fable",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH_GRANDPA_BOY_SUIT",
@@ -477,7 +482,7 @@
       "Name": "Memento",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -485,7 +490,7 @@
       "Name": "No pressure",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -541,7 +546,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "ACH_STAR_2",
@@ -549,7 +554,7 @@
       "Name": "Moving up",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ACH_STAR_3",
@@ -557,7 +562,7 @@
       "Name": "Still more work ahead",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_STAR_4",
@@ -604,7 +609,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 751,
+      "Progressed": 752,
       "Completed": 11
     }
   ],
@@ -612,8 +617,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-05-05T13:04:29.3480635+00:00",
-  "LastChanged_Achievements": "2023-05-21T00:06:28.7302708+00:00",
+  "LastChanged_Achievements": "2023-05-21T02:11:59.6266292+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:56:53.9528089+00:00",
-  "LastUpdate_Ratings": "2023-05-20T23:57:06.8193504+00:00",
-  "LastUpdate_Achievements": "2023-05-21T00:06:28.7302883+00:00"
+  "LastUpdate_Ratings": "2023-05-21T02:03:37.9296263+00:00",
+  "LastUpdate_Achievements": "2023-05-21T02:11:59.6266507+00:00"
 }

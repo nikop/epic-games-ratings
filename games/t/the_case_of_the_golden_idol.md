@@ -8,13 +8,13 @@
 | Solved second case | 82.00% | ~58 |
 | Solved third case | 65.00% | ~46 |
 | Solved fourth case | 42.00% | ~30 |
-| Solved seventh case | 21.00% | ~15 |
-| Solved eighth case | 21.00% | ~15 |
-| Solved sixth case | 20.00% | ~14 |
+| Solved seventh case | 23.00% | ~16 |
+| Solved eighth case | 23.00% | ~16 |
+| Solved sixth case | 21.00% | ~15 |
+| Solved ninth case | 20.00% | ~14 |
 | Solved fifth case | 18.00% | ~13 |
-| Solved ninth case | 18.00% | ~13 |
-| Solved tenth case | 15.00% | ~11 |
-| Solved eleventh case | 14.00% | ~10 |
+| Solved tenth case | 17.00% | ~12 |
+| Solved eleventh case | 15.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 71 (Ranked 272)  
 Completed: 2 (2.82%) (Ranked 52)  

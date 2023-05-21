@@ -6,13 +6,13 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~472,679 |
-| Apprentice | 58.00% | ~380,769 |
-| Close Shave | 25.00% | ~164,125 |
-| Mercenary | 23.00% | ~150,995 |
-| Ninja | 23.00% | ~150,995 |
-| Northern Scourge | 17.00% | ~111,605 |
-| Thief Bane | 14.00% | ~91,910 |
+| The Fool | 72.00% | ~472,683 |
+| Apprentice | 58.00% | ~380,772 |
+| Close Shave | 25.00% | ~164,126 |
+| Mercenary | 23.00% | ~150,996 |
+| Ninja | 23.00% | ~150,996 |
+| Northern Scourge | 17.00% | ~111,606 |
+| Thief Bane | 14.00% | ~91,911 |
 | Master of Arms | 12.00% | ~78,780 |
 | Gambler | 10.00% | ~65,650 |
 | Dice Master | 10.00% | ~65,650 |
@@ -41,21 +41,21 @@ Number of Ratings: 780  (23.09.2022)
 | Final Death | 1.00% | ~6,565 |
 | Ally | 0.80% | ~5,252 |
 | Thomas' Bane | 0.80% | ~5,252 |
-| Gamester | 0.70% | ~4,595 |
+| Gamester | 0.70% | ~4,596 |
 | Hero | 0.60% | ~3,939 |
 | Rebel | 0.60% | ~3,939 |
-| Dungeon Master | 0.50% | ~3,282 |
+| Dungeon Master | 0.50% | ~3,283 |
 | Pilgrim | 0.40% | ~2,626 |
 | Smiths Honour | 0.40% | ~2,626 |
-| Peaceful Coast | 0.30% | ~1,969 |
+| Peaceful Coast | 0.30% | ~1,970 |
 | Money Bags | 0.20% | ~1,313 |
-| Grifter | 0.10% | ~656 |
-| Unburdened | 0.10% | ~656 |
-| Karma | 0.10% | ~656 |
-| Miracle | 0.10% | ~656 |
-| Blood Pact | 0.10% | ~656 |
+| Grifter | 0.10% | ~657 |
+| Unburdened | 0.10% | ~657 |
+| Karma | 0.10% | ~657 |
+| Miracle | 0.10% | ~657 |
+| Blood Pact | 0.10% | ~657 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 656,499 (Ranked 18)  
+Progressed: 656,504 (Ranked 18)  
 Completed: 165 (0.03%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 165 (0.03%) (Ranked 182)
 | 2023-05-18 | 656,361 | 165 |
 | 2023-05-19 | 656,423 | 165 |
 | 2023-05-20 | 656,495 | 165 |
-| 2023-05-21 | 656,499 | 165 |
+| 2023-05-21 | 656,504 | 165 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 426)  
 Sum: 180 (Ranked 360)  

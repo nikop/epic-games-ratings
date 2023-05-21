@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 97,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -465,9 +465,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12562,
+  "EOS_Progressed": 12566,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -2260,6 +2260,11 @@
       "Time": "2023-05-20T22:05:38.4434324+00:00",
       "NumProgressed": 12562,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-05-21T02:11:33.3333371+00:00",
+      "NumProgressed": 12566,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 41,
@@ -2287,7 +2292,7 @@
       "Name": "Wannabe knight",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 3140
+      "UsersEstimate": 3142
     },
     {
       "ID": "tpote_achievement_12",
@@ -2311,7 +2316,7 @@
       "Name": "Friends of sorts",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4397
+      "UsersEstimate": 4398
     },
     {
       "ID": "tpote_achievement_15",
@@ -2351,7 +2356,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2387
+      "UsersEstimate": 2388
     },
     {
       "ID": "tpote_achievement_2",
@@ -2359,7 +2364,7 @@
       "Name": "Yet another secret",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 4397
+      "UsersEstimate": 4398
     },
     {
       "ID": "tpote_achievement_20",
@@ -2375,7 +2380,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3894
+      "UsersEstimate": 3895
     },
     {
       "ID": "tpote_achievement_22",
@@ -2383,7 +2388,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2512
+      "UsersEstimate": 2513
     },
     {
       "ID": "tpote_achievement_23",
@@ -2407,7 +2412,7 @@
       "Name": "Revenge",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "tpote_achievement_26",
@@ -2423,7 +2428,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2387
+      "UsersEstimate": 2388
     },
     {
       "ID": "tpote_achievement_28",
@@ -2431,7 +2436,7 @@
       "Name": "Whodunnit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1633
+      "UsersEstimate": 1634
     },
     {
       "ID": "tpote_achievement_29",
@@ -2439,7 +2444,7 @@
       "Name": "Skilled merchant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "tpote_achievement_3",
@@ -2447,7 +2452,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4145
+      "UsersEstimate": 4147
     },
     {
       "ID": "tpote_achievement_30",
@@ -2455,7 +2460,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "tpote_achievement_31",
@@ -2463,7 +2468,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2261
+      "UsersEstimate": 2262
     },
     {
       "ID": "tpote_achievement_32",
@@ -2471,7 +2476,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1884
+      "UsersEstimate": 1885
     },
     {
       "ID": "tpote_achievement_33",
@@ -2495,7 +2500,7 @@
       "Name": "Self-defense",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "tpote_achievement_36",
@@ -2519,7 +2524,7 @@
       "Name": "Countess Aliena",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "tpote_achievement_39",
@@ -2535,7 +2540,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5276
+      "UsersEstimate": 5278
     },
     {
       "ID": "tpote_achievement_40",
@@ -2559,7 +2564,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3140
+      "UsersEstimate": 3142
     },
     {
       "ID": "tpote_achievement_6",
@@ -2567,7 +2572,7 @@
       "Name": "Full house",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 3140
+      "UsersEstimate": 3142
     },
     {
       "ID": "tpote_achievement_7",
@@ -2575,7 +2580,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 879
+      "UsersEstimate": 880
     },
     {
       "ID": "tpote_achievement_8",
@@ -2583,7 +2588,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2764
+      "UsersEstimate": 2765
     },
     {
       "ID": "tpote_achievement_9",
@@ -2591,22 +2596,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4522
+      "UsersEstimate": 4524
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12562,
+      "Progressed": 12566,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2022-12-18T07:58:24.625193+00:00",
-  "LastChanged_Achievements": "2023-05-21T00:05:54.1541084+00:00",
+  "LastChanged_Achievements": "2023-05-21T02:11:33.3333368+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:09:49.1992061+00:00",
-  "LastUpdate_Ratings": "2023-05-21T00:00:24.0292916+00:00",
-  "LastUpdate_Achievements": "2023-05-21T00:05:54.1541412+00:00"
+  "LastUpdate_Ratings": "2023-05-21T02:05:55.7226617+00:00",
+  "LastUpdate_Achievements": "2023-05-21T02:11:33.3333794+00:00"
 }

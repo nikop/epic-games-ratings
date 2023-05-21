@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4792,
+  "EOS_Progressed": 4796,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -779,6 +779,11 @@
       "Time": "2023-05-21T00:06:28.1706056+00:00",
       "NumProgressed": 4792,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-21T02:11:59.2473804+00:00",
+      "NumProgressed": 4796,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -846,7 +851,7 @@
       "Name": "Level: Charlie\u0027s Circuits",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "ach_campaign_progress10",
@@ -878,7 +883,7 @@
       "Name": "Level: Extra Life",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ach_campaign_progress3",
@@ -902,7 +907,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2348
+      "UsersEstimate": 2350
     },
     {
       "ID": "ach_campaign_progress6",
@@ -910,7 +915,7 @@
       "Name": "Level: Rising Markets",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "ach_campaign_progress7",
@@ -942,7 +947,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1199
     },
     {
       "ID": "ach_campaign_special10",
@@ -1038,7 +1043,7 @@
       "Name": "Rising Markets: Avoiding the Reds",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ach_campaign_special5",
@@ -1174,7 +1179,7 @@
       "Name": "Peddler",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "ach_frp_many_products2",
@@ -1214,7 +1219,7 @@
       "Name": "Data Churn Type I",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ach_frp_researchdata2",
@@ -1397,15 +1402,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4792,
+      "Progressed": 4796,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-05-21T00:06:28.1706052+00:00",
+  "LastChanged_Achievements": "2023-05-21T02:11:59.24738+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:17.17846+00:00",
-  "LastUpdate_Ratings": "2023-05-20T23:59:16.5912569+00:00",
-  "LastUpdate_Achievements": "2023-05-21T00:06:28.1706734+00:00"
+  "LastUpdate_Ratings": "2023-05-21T02:05:09.0876175+00:00",
+  "LastUpdate_Achievements": "2023-05-21T02:11:59.2474664+00:00"
 }

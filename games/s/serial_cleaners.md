@@ -7,14 +7,14 @@
 | Small-time Finder | 2.00% | ~3 |
 | So it goes | 2.00% | ~3 |
 | Business as usual | 2.00% | ~3 |
-| Clean Conscience | 1.00% | ~2 |
+| Clean Conscience | 2.00% | ~3 |
+| A New Broom Sweeps Clean | 1.00% | ~2 |
+| Mr. Hygeni | 1.00% | ~2 |
 | Off to a Good Start | 0.60% | ~1 |
 | Pride and Joy | 0.60% | ~1 |
 | Eyes Yet To Open | 0.60% | ~1 |
 | The Crush And Smash The Dino Four | 0.60% | ~0 |
 | … Women Inherit The Earth | 0.60% | ~0 |
-| A New Broom Sweeps Clean | 0.60% | ~1 |
-| Mr. Hygeni | 0.60% | ~1 |
 | The Wing and the Thigh | 0.60% | ~1 |
 | Hackathon | 0.60% | ~1 |
 | All the Stories | 0.00% | ~0 |
@@ -29,8 +29,8 @@
 | Bee Squat | 0.00% | ~0 |
 | The Germophobes | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 160 (Ranked 239)  
-Completed: 5 (3.12%) (Ranked 45)  
+Progressed: 161 (Ranked 238)  
+Completed: 5 (3.11%) (Ranked 45)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -39,6 +39,7 @@ Completed: 5 (3.12%) (Ranked 45)
 | 2023-05-02 | 155 | 5 |
 | 2023-05-05 | 158 | 5 |
 | 2023-05-20 | 160 | 5 |
+| 2023-05-21 | 161 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

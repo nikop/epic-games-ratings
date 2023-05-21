@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 866,
+  "EOS_Progressed": 867,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -273,6 +273,11 @@
       "Time": "2023-05-20T21:06:31.3659592+00:00",
       "NumProgressed": 866,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T02:11:57.0467763+00:00",
+      "NumProgressed": 867,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -316,7 +321,7 @@
       "Name": "The First Step",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "06",
@@ -324,7 +329,7 @@
       "Name": "First Blood",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "07",
@@ -402,9 +407,9 @@
       "ID": "16",
       "SetID": "73ikgfc",
       "Name": "A Promised Voyage",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 9
     },
     {
       "ID": "17",
@@ -412,7 +417,7 @@
       "Name": "Ready to Learn",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "18",
@@ -420,7 +425,7 @@
       "Name": "Earning Trust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "19",
@@ -467,7 +472,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 866,
+      "Progressed": 867,
       "Completed": 0
     }
   ],
@@ -475,8 +480,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-05-21T00:06:25.4802445+00:00",
+  "LastChanged_Achievements": "2023-05-21T02:11:57.0467759+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:05:01.1887177+00:00",
-  "LastUpdate_Ratings": "2023-05-21T00:00:08.6637155+00:00",
-  "LastUpdate_Achievements": "2023-05-21T00:06:25.4802576+00:00"
+  "LastUpdate_Ratings": "2023-05-21T02:05:45.1384644+00:00",
+  "LastUpdate_Achievements": "2023-05-21T02:11:57.0467928+00:00"
 }

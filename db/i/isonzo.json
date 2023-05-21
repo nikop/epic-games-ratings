@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -544,9 +544,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5719,
+  "EOS_Progressed": 5720,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1109,6 +1109,11 @@
       "Time": "2023-05-21T00:06:08.6777144+00:00",
       "NumProgressed": 5719,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-21T02:11:44.2714917+00:00",
+      "NumProgressed": 5720,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -1264,7 +1269,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -1312,7 +1317,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3088
+      "UsersEstimate": 3089
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -1368,7 +1373,7 @@
       "Name": "Silver Lining",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1602
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -1416,7 +1421,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -1448,7 +1453,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3031
+      "UsersEstimate": 3032
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -1456,7 +1461,7 @@
       "Name": "Uomo Universale",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -1479,7 +1484,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5719,
+      "Progressed": 5720,
       "Completed": 8
     }
   ],
@@ -1487,8 +1492,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-19T05:57:11.7552648+00:00",
-  "LastChanged_Achievements": "2023-05-21T00:06:08.6777139+00:00",
+  "LastChanged_Achievements": "2023-05-21T02:11:44.2714913+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:10.2290416+00:00",
-  "LastUpdate_Ratings": "2023-05-20T23:57:22.7285374+00:00",
-  "LastUpdate_Achievements": "2023-05-21T00:06:08.6777466+00:00"
+  "LastUpdate_Ratings": "2023-05-21T02:03:49.7906611+00:00",
+  "LastUpdate_Achievements": "2023-05-21T02:11:44.2715294+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "The Light in the Darkness",
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 156,
-  "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_Completed": 20,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1345,
+  "EOS_Progressed": 1346,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 7.88,
   "EosHistory": [
@@ -1408,6 +1408,11 @@
       "Time": "2023-05-20T22:06:01.1609305+00:00",
       "NumProgressed": 1345,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-05-21T02:11:51.8547924+00:00",
+      "NumProgressed": 1346,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 12,
@@ -1435,7 +1440,7 @@
       "Name": "Building the Fox",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "Green Ticket Roundup",
@@ -1451,7 +1456,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "Jakob",
@@ -1467,7 +1472,7 @@
       "Name": "Jude",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "Le Juif et la France",
@@ -1475,7 +1480,7 @@
       "Name": "Le Juif et la France",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "Little Helper",
@@ -1483,7 +1488,7 @@
       "Name": "Little Helper",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -1514,7 +1519,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1345,
+      "Progressed": 1346,
       "Completed": 106
     }
   ],
@@ -1522,8 +1527,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-21T00:06:18.7636599+00:00",
+  "LastChanged_Achievements": "2023-05-21T02:11:51.854792+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:11.427731+00:00",
-  "LastUpdate_Ratings": "2023-05-20T23:59:58.9584692+00:00",
-  "LastUpdate_Achievements": "2023-05-21T00:06:18.7636751+00:00"
+  "LastUpdate_Ratings": "2023-05-21T02:05:39.1906541+00:00",
+  "LastUpdate_Achievements": "2023-05-21T02:11:51.8548098+00:00"
 }

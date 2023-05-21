@@ -4,8 +4,8 @@
   "ProductSlug": "star-atlas-bead34",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-12-31T00:00:00+00:00",
     "PcReleaseDate": "2022-12-31T00:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:58:30.8564198+00:00",
   "LastChanged": "2023-03-31T05:58:30.8564199+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:07.6696224+00:00",
-  "LastUpdate_Ratings": "2023-05-20T23:58:45.2181479+00:00",
-  "LastUpdate_Achievements": "2023-05-21T00:01:31.2412528+00:00"
+  "LastUpdate_Ratings": "2023-05-21T02:04:47.3086085+00:00",
+  "LastUpdate_Achievements": "2023-05-21T02:06:44.135999+00:00"
 }

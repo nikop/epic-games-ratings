@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 341,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -410,9 +410,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 13060,
+  "EOS_Progressed": 13068,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 498,
+  "EOS_NewPlayers": 506,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1005,6 +1005,11 @@
       "Time": "2023-05-21T00:01:24.2586402+00:00",
       "NumProgressed": 13060,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-21T02:06:38.9829809+00:00",
+      "NumProgressed": 13068,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 40,
@@ -1094,9 +1099,9 @@
       "ID": "FINISH_GAME_HARDCORE",
       "SetID": "6j5ggkc",
       "Name": "Recidivist",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "FINISH_GAME_HARDCORE_PLUS",
@@ -1118,25 +1123,25 @@
       "ID": "GRP_25_ENEMIES",
       "SetID": "4hj6d86",
       "Name": "Get a Grip",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 65
     },
     {
       "ID": "GRP_MELEE_KILL",
       "SetID": "4hj6d86",
       "Name": "In Striking Distance",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 39
     },
     {
       "ID": "KILL_2HEAD",
       "SetID": "4hj6d86",
       "Name": "Two Heads Are Better Than One",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 26
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -1168,7 +1173,7 @@
       "Name": "The Commonality",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -1182,9 +1187,9 @@
       "ID": "PRINT_UPGRADE",
       "SetID": "4hj6d86",
       "Name": "Reforged",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 39
     },
     {
       "ID": "PRINT_WEAPON",
@@ -1200,7 +1205,7 @@
       "Name": "Mugshot",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -1335,13 +1340,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13060,
+      "Progressed": 13068,
       "Completed": 51
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 986,
+      "Progressed": 994,
       "Completed": 29
     }
   ],
@@ -1349,8 +1354,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-16T17:57:38.030273+00:00",
-  "LastChanged_Achievements": "2023-05-21T00:01:24.2586397+00:00",
+  "LastChanged_Achievements": "2023-05-21T02:06:38.9829804+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-20T23:57:56.7311297+00:00",
-  "LastUpdate_Achievements": "2023-05-21T00:01:24.258677+00:00"
+  "LastUpdate_Ratings": "2023-05-21T02:04:13.5903372+00:00",
+  "LastUpdate_Achievements": "2023-05-21T02:06:38.9830199+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "r-type-final-2",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2021-04-30T17:00:00+00:00",
     "PcReleaseDate": "2021-04-30T17:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:05.459304+00:00",
   "LastChanged": "2023-03-31T05:57:05.4593041+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:09.6531186+00:00",
-  "LastUpdate_Ratings": "2023-05-20T23:57:42.2788626+00:00",
-  "LastUpdate_Achievements": "2023-05-21T00:03:51.4117528+00:00"
+  "LastUpdate_Ratings": "2023-05-21T02:04:03.4741268+00:00",
+  "LastUpdate_Achievements": "2023-05-21T02:09:46.62975+00:00"
 }

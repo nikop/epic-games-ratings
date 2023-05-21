@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -162,9 +162,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3397,
+  "EOS_Progressed": 3398,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -362,6 +362,11 @@
       "Time": "2023-05-20T16:05:50.9922502+00:00",
       "NumProgressed": 3397,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T02:11:55.183701+00:00",
+      "NumProgressed": 3398,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -429,7 +434,7 @@
       "Name": "Shard Snatchers",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "FINISH_EPISODE_3",
@@ -437,7 +442,7 @@
       "Name": "Our Lucky Winner",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "FINISH_EPISODE_4",
@@ -445,7 +450,7 @@
       "Name": "The Shardmenstration",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "FINISH_EPISODE_5",
@@ -453,7 +458,7 @@
       "Name": "...To Heroes",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "FINISH_GAME_W_GOOD_SKATE_RAT",
@@ -477,7 +482,7 @@
       "Name": "You Rich Now!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -501,7 +506,7 @@
       "Name": "You Poor Now!",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "NAILED_PERFECT_SEXY_DANCE",
@@ -509,7 +514,7 @@
       "Name": "You Got the Goods, Kid",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "PERF_EVRY_BCKGRD_CHECK",
@@ -541,7 +546,7 @@
       "Name": "Those Were the Days...",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "WIN_EVERY_VAULTLANDER_IN_MAIN",
@@ -573,14 +578,14 @@
       "Name": "Mas, Por Favor",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     }
   ],
   "AchievementSets": [
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3397,
+      "Progressed": 3398,
       "Completed": 0
     }
   ],
@@ -588,8 +593,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-11T21:59:43.2932555+00:00",
-  "LastChanged_Achievements": "2023-05-21T00:06:23.1080079+00:00",
+  "LastChanged_Achievements": "2023-05-21T02:11:55.1837007+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:00.613564+00:00",
-  "LastUpdate_Ratings": "2023-05-20T23:59:51.5712947+00:00",
-  "LastUpdate_Achievements": "2023-05-21T00:06:23.1080199+00:00"
+  "LastUpdate_Ratings": "2023-05-21T02:05:33.0828484+00:00",
+  "LastUpdate_Achievements": "2023-05-21T02:11:55.1837171+00:00"
 }

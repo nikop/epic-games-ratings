@@ -4,8 +4,8 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -437,9 +437,9 @@
       "ID": "ACHV_NANONIC2",
       "SetID": "cceobco",
       "Name": "Nanonic II",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHV_NANONIC3",
@@ -550,8 +550,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-05-21T00:06:22.0549644+00:00",
+  "LastChanged_Achievements": "2023-05-21T02:11:54.3442261+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:04:10.0269591+00:00",
-  "LastUpdate_Ratings": "2023-05-21T00:00:04.8092405+00:00",
-  "LastUpdate_Achievements": "2023-05-21T00:06:22.0549825+00:00"
+  "LastUpdate_Ratings": "2023-05-21T02:05:42.486792+00:00",
+  "LastUpdate_Achievements": "2023-05-21T02:11:54.3442486+00:00"
 }

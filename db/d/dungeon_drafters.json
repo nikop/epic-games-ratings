@@ -4,8 +4,8 @@
   "ProductSlug": "dungeon-drafters-82c40a",
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -197,9 +197,9 @@
       "ID": "LW_complete",
       "SetID": "3b8n56h",
       "Name": "The Familiar",
-      "Percentage": 10,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "MC_complete",
@@ -317,9 +317,9 @@
       "ID": "StrangerQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "A Strange Proposition",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "StrangerQuestlineLast",
@@ -486,8 +486,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-05-21T00:06:04.1671758+00:00",
+  "LastChanged_Achievements": "2023-05-21T02:11:40.7873751+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.9763289+00:00",
-  "LastUpdate_Ratings": "2023-05-20T23:57:16.0035315+00:00",
-  "LastUpdate_Achievements": "2023-05-21T00:06:04.1672056+00:00"
+  "LastUpdate_Ratings": "2023-05-21T02:03:44.5666181+00:00",
+  "LastUpdate_Achievements": "2023-05-21T02:11:40.7874046+00:00"
 }

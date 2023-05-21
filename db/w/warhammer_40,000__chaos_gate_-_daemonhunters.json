@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -516,9 +516,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2613,
+  "EOS_Progressed": 2614,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -861,6 +861,11 @@
       "Time": "2023-05-20T23:05:58.1270824+00:00",
       "NumProgressed": 2613,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T02:11:58.1661336+00:00",
+      "NumProgressed": 2614,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -960,7 +965,7 @@
       "Name": "Honoured Battle-Brother",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ExtractorSkullUses",
@@ -1120,7 +1125,7 @@
       "Name": "An Ill Omen",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -1136,7 +1141,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -1343,21 +1348,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2613,
+      "Progressed": 2614,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2613,
+      "Progressed": 2614,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-17T16:59:29.0694874+00:00",
-  "LastChanged_Achievements": "2023-05-21T00:06:26.9059297+00:00",
+  "LastChanged_Achievements": "2023-05-21T02:11:58.1661333+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:13.6314729+00:00",
-  "LastUpdate_Ratings": "2023-05-20T23:58:51.7087168+00:00",
-  "LastUpdate_Achievements": "2023-05-21T00:06:26.9059743+00:00"
+  "LastUpdate_Ratings": "2023-05-21T02:04:51.7140795+00:00",
+  "LastUpdate_Achievements": "2023-05-21T02:11:58.1661874+00:00"
 }

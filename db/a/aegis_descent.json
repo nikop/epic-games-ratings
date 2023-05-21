@@ -2,10 +2,10 @@
   "ID": "ddac88f4f58b4abc99644d6b529a16cd",
   "Name": "Aegis Descent",
   "ProductSlug": "aegis-descent-a1f5a0",
-  "Ranking_EOS_Progress": 203,
+  "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
     "PcReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 356,
+  "EOS_Progressed": 358,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -82,6 +82,11 @@
       "Time": "2023-05-20T22:05:50.4437447+00:00",
       "NumProgressed": 356,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-21T02:11:43.2141963+00:00",
+      "NumProgressed": 358,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -93,7 +98,7 @@
       "Name": "Batteries Included",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "Award_BigSpender",
@@ -109,7 +114,7 @@
       "Name": "Boss Down",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Award_BumperCar",
@@ -133,15 +138,15 @@
       "Name": "Clean Sweep",
       "Percentage": 95,
       "XP": 20,
-      "UsersEstimate": 338
+      "UsersEstimate": 340
     },
     {
       "ID": "Award_DeathFromAbove",
       "SetID": "9ojec6n",
       "Name": "Death from Above",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 132
     },
     {
       "ID": "Award_DemolitionDerby",
@@ -163,9 +168,9 @@
       "ID": "Award_DocKing",
       "SetID": "9ojec6n",
       "Name": "DocKing",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 165
     },
     {
       "ID": "Award_EarlyBird",
@@ -181,7 +186,7 @@
       "Name": "Extra Ammo",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "Award_FinalAscension",
@@ -205,7 +210,7 @@
       "Name": "Gunner",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "Award_HalfwayThere",
@@ -267,9 +272,9 @@
       "ID": "Award_LineOfDuty",
       "SetID": "9ojec6n",
       "Name": "Line of Duty",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 260
+      "UsersEstimate": 258
     },
     {
       "ID": "Award_MilitaryIntelligence",
@@ -317,7 +322,7 @@
       "Name": "Perky",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "Award_PowerUp",
@@ -341,7 +346,7 @@
       "Name": "Scavenger",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "Award_ShellShock",
@@ -437,14 +442,14 @@
       "Name": "What-A-Shot",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     }
   ],
   "AchievementSets": [
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 356,
+      "Progressed": 358,
       "Completed": 1
     }
   ],
@@ -452,8 +457,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-05-21T00:06:07.2771936+00:00",
+  "LastChanged_Achievements": "2023-05-21T02:11:43.2141957+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:49.6437871+00:00",
-  "LastUpdate_Ratings": "2023-05-20T23:58:25.7874527+00:00",
-  "LastUpdate_Achievements": "2023-05-21T00:06:07.2772231+00:00"
+  "LastUpdate_Ratings": "2023-05-21T02:04:34.6142401+00:00",
+  "LastUpdate_Achievements": "2023-05-21T02:11:43.2142312+00:00"
 }

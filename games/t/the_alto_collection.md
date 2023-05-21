@@ -1,28 +1,28 @@
 # The Alto Collection
 [Store](https://store.epicgames.com/en-US/p/the-alto-collection)  
 [View Rawdata](../../db/t/the_alto_collection.json)  
-Rating: 4.70 (Ranked 192)  
+Rating: 4.69 (Ranked 214)  
 Number of Ratings: 332  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 27.00% | ~5,975 |
-| Rookie | 24.00% | ~5,311 |
-| Nomad | 19.00% | ~4,205 |
-| Picking Up Speed | 17.00% | ~3,762 |
-| Welcome Maya | 16.00% | ~3,541 |
-| Sightseer | 12.00% | ~2,656 |
-| Scout | 10.00% | ~2,213 |
-| Amateur | 9.00% | ~1,992 |
-| Enter Paz | 9.00% | ~1,992 |
-| Wanderer | 9.00% | ~1,992 |
-| Unlock Maya | 7.00% | ~1,549 |
+| Finding Your Footing | 27.00% | ~5,978 |
+| Rookie | 24.00% | ~5,313 |
+| Nomad | 19.00% | ~4,206 |
+| Picking Up Speed | 17.00% | ~3,764 |
+| Welcome Maya | 16.00% | ~3,542 |
+| Sightseer | 12.00% | ~2,657 |
+| Scout | 10.00% | ~2,214 |
+| Amateur | 9.00% | ~1,993 |
+| Enter Paz | 9.00% | ~1,993 |
+| Wanderer | 9.00% | ~1,993 |
+| Unlock Maya | 7.00% | ~1,550 |
 | Aviator | 6.00% | ~1,328 |
 | One With The Board | 6.00% | ~1,328 |
 | Voyager | 6.00% | ~1,328 |
 | My Little Friend | 5.00% | ~1,107 |
-| Sandboarder | 4.00% | ~885 |
-| Izel Has Arrived | 4.00% | ~885 |
+| Sandboarder | 4.00% | ~886 |
+| Izel Has Arrived | 4.00% | ~886 |
 | Junkie | 3.00% | ~664 |
 | Traveler | 3.00% | ~664 |
 | Journeyer | 3.00% | ~664 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~22 |
 | Windswept | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,131 (Ranked 89)  
+Progressed: 22,139 (Ranked 89)  
 Completed: 3 (0.01%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 3 (0.01%) (Ranked 193)
 | 2023-05-18 | 21,730 | 3 |
 | 2023-05-19 | 21,920 | 3 |
 | 2023-05-20 | 22,122 | 3 |
-| 2023-05-21 | 22,131 | 3 |
+| 2023-05-21 | 22,139 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 44  (Ranked 404)  
 Sum: 344 (Ranked 314)  
@@ -180,3 +180,4 @@ Diff (max vs sum): 90
 | 2023-04-26 | 4.70 | - | 44 | 342 |
 | 2023-04-29 | 4.70 | - | 44 | 343 |
 | 2023-05-02 | 4.70 | - | 44 | 344 |
+| 2023-05-21 | 4.69 | - | 44 | 344 |

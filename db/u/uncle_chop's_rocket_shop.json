@@ -4,8 +4,8 @@
   "ProductSlug": "uncle-chops-rocket-shop-ed20e6",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-19T18:59:01.7388784+00:00",
-  "LastUpdate_Ratings": "2023-05-20T23:57:32.205217+00:00",
-  "LastUpdate_Achievements": "2023-05-21T00:03:59.4063768+00:00"
+  "LastUpdate_Ratings": "2023-05-21T02:03:56.6900227+00:00",
+  "LastUpdate_Achievements": "2023-05-21T02:10:12.2289014+00:00"
 }

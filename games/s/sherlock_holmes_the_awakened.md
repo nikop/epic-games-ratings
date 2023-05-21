@@ -5,36 +5,36 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 69.00% | ~131 |
-| Read Between The Lines | 64.00% | ~122 |
+| Read Between The Lines | 65.00% | ~124 |
 | High Profile | 61.00% | ~116 |
 | Whispers In The Dark | 58.00% | ~110 |
-| Fond Memories | 52.00% | ~99 |
+| Fond Memories | 53.00% | ~101 |
 | A Method To His Madness | 50.00% | ~95 |
 | History Check | 49.00% | ~93 |
-| The New World | 47.00% | ~89 |
+| The New World | 48.00% | ~91 |
+| Open Sesame | 47.00% | ~89 |
+| Sticky Fingers | 47.00% | ~89 |
 | Lock, Stock, And Barrel | 46.00% | ~87 |
-| Open Sesame | 46.00% | ~87 |
-| Sticky Fingers | 46.00% | ~87 |
 | Knives Out | 46.00% | ~87 |
 | Gaze Into The Abyss | 45.00% | ~86 |
-| Back In The Saddle | 44.00% | ~84 |
+| Back In The Saddle | 45.00% | ~86 |
 | Land, Ho! | 44.00% | ~84 |
 | No Man Is An Island | 42.00% | ~80 |
 | At Wits' End | 41.00% | ~78 |
 | Bookworm | 38.00% | ~72 |
 | Going Once... | 37.00% | ~70 |
+| Fhtagn! | 37.00% | ~70 |
 | Up In Flames | 36.00% | ~68 |
-| Fhtagn! | 36.00% | ~68 |
+| Brain Food | 35.00% | ~66 |
 | Let Me Be Frank | 34.00% | ~65 |
-| Brain Food | 34.00% | ~65 |
 | No Stone Unturned | 32.00% | ~61 |
 | Curiosity Killed The Cat | 22.00% | ~42 |
 | Big Breakthrough | 21.00% | ~40 |
 | Read It And Weep | 21.00% | ~40 |
-| Reawakened | 8.00% | ~15 |
+| Reawakened | 9.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 190 (Ranked 229)  
-Completed: 10 (5.26%) (Ranked 28)  
+Completed: 11 (5.79%) (Ranked 28)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -61,6 +61,7 @@ Completed: 10 (5.26%) (Ranked 28)
 | 2023-05-18 | 156 | 10 |
 | 2023-05-19 | 170 | 10 |
 | 2023-05-20 | 190 | 10 |
+| 2023-05-21 | 190 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

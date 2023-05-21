@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 56,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -224,9 +224,9 @@
       "ID": "ACHIEVEMENT_03",
       "SetID": "gagif7",
       "Name": "To Each Their Own",
-      "Percentage": 41,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -472,9 +472,9 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "gagif7",
       "Name": "You\u0027re Going Down!",
-      "Percentage": 95,
+      "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -527,8 +527,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-05-21T00:02:39.3761988+00:00",
+  "LastChanged_Achievements": "2023-05-21T02:09:17.6564555+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:05.2189133+00:00",
-  "LastUpdate_Ratings": "2023-05-20T23:57:36.888768+00:00",
-  "LastUpdate_Achievements": "2023-05-21T00:02:39.3762236+00:00"
+  "LastUpdate_Ratings": "2023-05-21T02:03:59.779888+00:00",
+  "LastUpdate_Achievements": "2023-05-21T02:09:17.6564873+00:00"
 }

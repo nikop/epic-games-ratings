@@ -9,17 +9,17 @@ Number of Ratings: 45  (23.09.2022)
 | The Cost of Heroism | 31.00% | ~370 |
 | Me and My Familiar | 29.00% | ~346 |
 | This Too Shall Pass | 25.00% | ~298 |
-| Cutthroat Competitors | 24.00% | ~286 |
-| Passing Shadow | 23.00% | ~274 |
-| How Romantic! | 22.00% | ~262 |
-| Daybreak | 22.00% | ~262 |
+| Cutthroat Competitors | 24.00% | ~287 |
+| Passing Shadow | 23.00% | ~275 |
+| How Romantic! | 22.00% | ~263 |
+| Daybreak | 22.00% | ~263 |
 | Gotta Ca... Must Collect All of Them | 20.00% | ~239 |
 | Completing the Look | 11.00% | ~131 |
 | Who's Counting? | 11.00% | ~131 |
 | War Endured | 11.00% | ~131 |
 | A Mythic Menagerie | 10.00% | ~119 |
 | Core Failure | 10.00% | ~119 |
-| Pyrrhic Victory | 8.00% | ~95 |
+| Pyrrhic Victory | 8.00% | ~96 |
 | Thematic Divergence | 7.00% | ~84 |
 | Chain Reaction | 7.00% | ~84 |
 | Echoes Die | 7.00% | ~84 |
@@ -36,6 +36,7 @@ Number of Ratings: 45  (23.09.2022)
 | Turncoat | 4.00% | ~48 |
 | We Emerge Changed | 3.00% | ~36 |
 | Worldwalker | 3.00% | ~36 |
+| No More Nightmares | 3.00% | ~36 |
 | Bears are Scary | 3.00% | ~36 |
 | Grillmaster | 3.00% | ~36 |
 | Into Mulch | 3.00% | ~36 |
@@ -45,7 +46,6 @@ Number of Ratings: 45  (23.09.2022)
 | Empty the Caves | 2.00% | ~24 |
 | Drauvenslayers | 2.00% | ~24 |
 | Bonebreakers | 2.00% | ~24 |
-| No More Nightmares | 2.00% | ~24 |
 | War-Ender | 2.00% | ~24 |
 | Fight Like a Bird | 2.00% | ~24 |
 | Some Say I'm Too Flashy | 2.00% | ~24 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Overwhelming Monstrosity | 0.40% | ~5 |
 | Peacemaker | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,193 (Ranked 158)  
+Progressed: 1,194 (Ranked 158)  
 Completed: 3 (0.25%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,6 +91,7 @@ Completed: 3 (0.25%) (Ranked 133)
 | 2023-05-18 | 1,181 | 3 |
 | 2023-05-19 | 1,185 | 3 |
 | 2023-05-20 | 1,193 | 3 |
+| 2023-05-21 | 1,194 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 455)  
 Sum: 27 (Ranked 462)  
