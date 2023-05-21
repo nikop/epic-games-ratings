@@ -5,7 +5,7 @@ Rating: 4.41 (Ranked 658)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 7.00% | ~70 |
+| Meeting Resistance | 8.00% | ~80 |
 | Confirming Suspicions | 4.00% | ~40 |
 | Enemy at the Gates | 2.00% | ~20 |
 | Lord of War | 2.00% | ~20 |
@@ -15,21 +15,21 @@ Rating: 4.41 (Ranked 658)
 | Explosive Efficiency | 1.00% | ~10 |
 | As Quiet as a Mouse | 1.00% | ~10 |
 | It's Starting to Crack | 1.00% | ~10 |
+| Change the Channel | 1.00% | ~10 |
 | Target America | 1.00% | ~10 |
 | The Kraken Sleeps | 1.00% | ~10 |
+| Die Nussknacker Sweet! | 0.90% | ~9 |
 | Close Quarters | 0.90% | ~9 |
-| Change the Channel | 0.90% | ~9 |
 | Liberté | 0.80% | ~8 |
 | Opposing Force | 0.80% | ~8 |
 | Just a Flesh Wound | 0.80% | ~8 |
 | The Long Game | 0.80% | ~8 |
-| Die Nussknacker Sweet! | 0.80% | ~8 |
 | Taking it back | 0.80% | ~8 |
 | Snake in the Grass | 0.70% | ~7 |
+| Skirmisher | 0.60% | ~6 |
 | Precision Is Key | 0.60% | ~6 |
 | Climbing the Ladder | 0.50% | ~5 |
 | Gunslinger | 0.50% | ~5 |
-| Skirmisher | 0.50% | ~5 |
 | Sharpshooter | 0.50% | ~5 |
 | Der Geist | 0.50% | ~5 |
 | Brains of the Operation | 0.50% | ~5 |
@@ -77,7 +77,7 @@ Rating: 4.41 (Ranked 658)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 999 (Ranked 165)  
+Progressed: 1,003 (Ranked 165)  
 Completed: 2 (0.20%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 2 (0.20%) (Ranked 140)
 | 2023-05-18 | 743 | 2 |
 | 2023-05-19 | 833 | 2 |
 | 2023-05-20 | 984 | 2 |
-| 2023-05-21 | 999 | 2 |
+| 2023-05-21 | 1,003 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -9,23 +9,23 @@
 | A Night To Remember | 31.00% | ~35 |
 | Safe...For now? | 26.00% | ~29 |
 | Open Sesame | 21.00% | ~24 |
-| Them and Us | 12.00% | ~13 |
-| OUTRAGE | 12.00% | ~13 |
-| What have I done!? | 12.00% | ~13 |
+| Them and Us | 12.00% | ~14 |
+| OUTRAGE | 12.00% | ~14 |
+| What have I done!? | 12.00% | ~14 |
 | Alone In The Dark | 8.00% | ~9 |
+| Parasite Exterminated | 8.00% | ~9 |
 | The Cultists | 8.00% | ~9 |
-| Parasite Exterminated | 7.00% | ~8 |
 | This Coffin Has Your Name On It! | 7.00% | ~8 |
 | Rest In Peace | 5.00% | ~6 |
 | The Forgotten Tower | 5.00% | ~6 |
-| Lover of classics | 4.00% | ~4 |
-| Modern Player | 4.00% | ~4 |
-| Researcher | 4.00% | ~4 |
-| I Am The Gate Keeper! | 4.00% | ~4 |
-| The bus stop | 4.00% | ~4 |
-| The Curse Is Real | 4.00% | ~4 |
-| Trapped | 4.00% | ~4 |
-| What A Mansion | 4.00% | ~4 |
+| Lover of classics | 4.00% | ~5 |
+| Modern Player | 4.00% | ~5 |
+| Researcher | 4.00% | ~5 |
+| I Am The Gate Keeper! | 4.00% | ~5 |
+| The bus stop | 4.00% | ~5 |
+| The Curse Is Real | 4.00% | ~5 |
+| Trapped | 4.00% | ~5 |
+| What A Mansion | 4.00% | ~5 |
 | This Mansion Is Clean | 3.00% | ~3 |
 | Armed To The Teeth | 2.00% | ~2 |
 | Run and Gun | 2.00% | ~2 |
@@ -45,8 +45,8 @@
 | Survival Hero | 0.90% | ~1 |
 | The 5th Element | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 112 (Ranked 255)  
-Completed: 1 (0.89%) (Ranked 89)  
+Progressed: 113 (Ranked 255)  
+Completed: 1 (0.88%) (Ranked 89)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -61,6 +61,7 @@ Completed: 1 (0.89%) (Ranked 89)
 | 2023-05-18 | 95 | 1 |
 | 2023-05-19 | 109 | 1 |
 | 2023-05-20 | 112 | 1 |
+| 2023-05-21 | 113 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

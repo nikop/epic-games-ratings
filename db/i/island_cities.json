@@ -2,7 +2,7 @@
   "ID": "405a48516fba4540bd8cc17c53085ab2",
   "Name": "Island Cities",
   "ProductSlug": "island-cities-0a3026",
-  "Ranking_EOS_Progress": 252,
+  "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 8,
   "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 25,
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 120,
+  "EOS_Progressed": 121,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 16.67,
+  "EOS_Completed_Percentage": 16.53,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -553,6 +553,11 @@
       "Time": "2023-05-21T02:11:35.5718649+00:00",
       "NumProgressed": 120,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-21T03:06:21.5469856+00:00",
+      "NumProgressed": 121,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 22,
@@ -564,7 +569,7 @@
       "Name": "Welcome!",
       "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "LEVEL_002",
@@ -578,7 +583,7 @@
       "ID": "LEVEL_003",
       "SetID": "3khpmem",
       "Name": "Buildings, roads, cars, ...and people",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 35,
       "UsersEstimate": 80
     },
@@ -586,7 +591,7 @@
       "ID": "LEVEL_004",
       "SetID": "3khpmem",
       "Name": "Great view from the beach and from the hill",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 35,
       "UsersEstimate": 68
     },
@@ -594,15 +599,15 @@
       "ID": "LEVEL_005",
       "SetID": "3khpmem",
       "Name": "Bridges to come and go",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 61
+      "UsersEstimate": 60
     },
     {
       "ID": "LEVEL_006",
       "SetID": "3khpmem",
       "Name": "Found an oasis",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 35,
       "UsersEstimate": 50
     },
@@ -610,7 +615,7 @@
       "ID": "LEVEL_007",
       "SetID": "3khpmem",
       "Name": "Burger or pizza?",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 35,
       "UsersEstimate": 44
     },
@@ -650,9 +655,9 @@
       "ID": "LEVEL_012",
       "SetID": "3khpmem",
       "Name": "Calm neighborhood",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 31
     },
     {
       "ID": "LEVEL_013",
@@ -708,7 +713,7 @@
       "Name": "Aiming for a living and human city",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "LEVEL_020",
@@ -716,7 +721,7 @@
       "Name": "City of dreams",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "LEVEL_021",
@@ -724,7 +729,7 @@
       "Name": "Happy Christmas night!",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "LEVEL_022",
@@ -732,14 +737,14 @@
       "Name": "Night walk along the beach",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     }
   ],
   "AchievementSets": [
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 120,
+      "Progressed": 121,
       "Completed": 20
     }
   ],
@@ -747,8 +752,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-21T02:11:35.5718645+00:00",
+  "LastChanged_Achievements": "2023-05-21T03:06:21.5469851+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:36.8517809+00:00",
-  "LastUpdate_Ratings": "2023-05-21T02:04:22.5253766+00:00",
-  "LastUpdate_Achievements": "2023-05-21T02:11:35.5718837+00:00"
+  "LastUpdate_Ratings": "2023-05-21T02:58:17.9162869+00:00",
+  "LastUpdate_Achievements": "2023-05-21T03:06:21.5470078+00:00"
 }

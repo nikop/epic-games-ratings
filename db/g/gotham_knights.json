@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1154,9 +1154,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61443,
+  "EOS_Progressed": 61450,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 591,
+  "EOS_NewPlayers": 597,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3129,6 +3129,11 @@
       "Time": "2023-05-21T02:12:08.4155572+00:00",
       "NumProgressed": 61443,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-21T03:07:05.6551682+00:00",
+      "NumProgressed": 61450,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3442,9 +3447,9 @@
       "ID": "HARLEY_1",
       "SetID": "4eo5ebm",
       "Name": "Har, Har, Har, Very Funny",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 430
     },
     {
       "ID": "HARLEY_2",
@@ -3627,13 +3632,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61443,
+      "Progressed": 61450,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31723,
+      "Progressed": 31730,
       "Completed": 2640
     }
   ],
@@ -3641,8 +3646,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-20T13:59:13.9457948+00:00",
-  "LastChanged_Achievements": "2023-05-21T02:12:08.4155568+00:00",
+  "LastChanged_Achievements": "2023-05-21T03:07:05.6551676+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-21T02:05:46.3961922+00:00",
-  "LastUpdate_Achievements": "2023-05-21T02:12:08.4156233+00:00"
+  "LastUpdate_Ratings": "2023-05-21T03:00:25.3616561+00:00",
+  "LastUpdate_Achievements": "2023-05-21T03:07:05.6552512+00:00"
 }

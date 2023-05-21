@@ -54,9 +54,9 @@ Rating: 3.75 (Ranked 918)
 | Lock And Load | 1.00% | ~11 |
 | Active Member | 0.90% | ~10 |
 | Blueprint Upgrades | 0.90% | ~10 |
+| Enchanting skill | 0.90% | ~10 |
 | Four Leaf Clover | 0.90% | ~10 |
 | Crystal Mining | 0.80% | ~9 |
-| Enchanting skill | 0.80% | ~9 |
 | Sailor | 0.80% | ~9 |
 | The Alchemist | 0.80% | ~9 |
 | Ebony Jungle Liberator | 0.60% | ~7 |

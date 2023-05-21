@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 115,
   "Ranking_EOS_NewPlayers": 102,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -140,9 +140,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5904,
+  "EOS_Progressed": 5906,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1830,6 +1830,11 @@
       "Time": "2023-05-21T02:11:34.6432052+00:00",
       "NumProgressed": 5904,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-21T03:06:20.2314006+00:00",
+      "NumProgressed": 5906,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 21,
@@ -1841,7 +1846,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "ARRR",
@@ -1865,7 +1870,7 @@
       "Name": "Body and Soul",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -1913,7 +1918,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -1993,7 +1998,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "THING",
@@ -2008,7 +2013,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5904,
+      "Progressed": 5906,
       "Completed": 22
     }
   ],
@@ -2016,8 +2021,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-16T16:57:54.2243616+00:00",
-  "LastChanged_Achievements": "2023-05-21T02:11:34.6432048+00:00",
+  "LastChanged_Achievements": "2023-05-21T03:06:20.2314+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.822955+00:00",
-  "LastUpdate_Ratings": "2023-05-21T02:04:19.4972421+00:00",
-  "LastUpdate_Achievements": "2023-05-21T02:11:34.6432282+00:00"
+  "LastUpdate_Ratings": "2023-05-21T02:58:13.2294768+00:00",
+  "LastUpdate_Achievements": "2023-05-21T03:06:20.2314257+00:00"
 }

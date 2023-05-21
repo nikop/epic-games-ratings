@@ -1,16 +1,16 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.61 (Ranked 358)  
+Rating: 4.62 (Ranked 342)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~6,360 |
-| Pay 'n' Spray | 48.00% | ~3,816 |
-| All Dressed Up for San Fierro | 22.00% | ~1,749 |
+| Getting Started | 80.00% | ~6,362 |
+| Pay 'n' Spray | 48.00% | ~3,817 |
+| All Dressed Up for San Fierro | 22.00% | ~1,750 |
 | The American Dream | 17.00% | ~1,352 |
 | School's Out | 16.00% | ~1,272 |
-| Smooth Moves | 15.00% | ~1,192 |
+| Smooth Moves | 15.00% | ~1,193 |
 | Today Was a Good Day | 13.00% | ~1,034 |
 | What happens in Las Venturas... | 12.00% | ~954 |
 | Horror of the Santa Maria | 9.00% | ~716 |
@@ -21,7 +21,7 @@ Rating: 4.61 (Ranked 358)
 | Saviour | 5.00% | ~398 |
 | They Can’t Stop All of Us | 4.00% | ~318 |
 | Rescue a Kitten Too? | 4.00% | ~318 |
-| What are the Odds | 3.00% | ~238 |
+| What are the Odds | 3.00% | ~239 |
 | I’ll Have Two Number 9s | 2.00% | ~159 |
 | Bike or Biker | 2.00% | ~159 |
 | What the City Needs | 2.00% | ~159 |
@@ -41,7 +41,7 @@ Rating: 4.61 (Ranked 358)
 | ...Here we go again | 0.30% | ~24 |
 | I Ain't No Buster | 0.20% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,950 (Ranked 110)  
+Progressed: 7,953 (Ranked 110)  
 Completed: 17 (0.21%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,7 +72,7 @@ Completed: 17 (0.21%) (Ranked 139)
 | 2023-05-18 | 7,692 | 16 |
 | 2023-05-19 | 7,805 | 16 |
 | 2023-05-20 | 7,932 | 17 |
-| 2023-05-21 | 7,950 | 17 |
+| 2023-05-21 | 7,953 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -116,3 +116,4 @@ Completed: 17 (0.21%) (Ranked 139)
 | 2023-04-28 | 4.59 | 0 | 0 |
 | 2023-05-06 | 4.60 | 0 | 0 |
 | 2023-05-14 | 4.61 | 0 | 0 |
+| 2023-05-21 | 4.62 | 0 | 0 |

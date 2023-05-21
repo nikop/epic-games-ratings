@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -176,9 +176,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 999,
+  "EOS_Progressed": 1003,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 289,
+  "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -846,6 +846,11 @@
       "Time": "2023-05-21T02:11:41.7249788+00:00",
       "NumProgressed": 999,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-21T03:06:30.305272+00:00",
+      "NumProgressed": 1003,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -935,9 +940,9 @@
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 80
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -983,9 +988,9 @@
       "ID": "REWARD_25_SKIRMISHER",
       "SetID": "bm6el81",
       "Name": "Skirmisher",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -1071,9 +1076,9 @@
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
       "SetID": "bm6el81",
       "Name": "Die Nussknacker Sweet!",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -1191,9 +1196,9 @@
       "ID": "REWARD_5_BUNKER_BUSTER",
       "SetID": "bm6el81",
       "Name": "Change the Channel",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -1424,13 +1429,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 950,
+      "Progressed": 954,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 999,
+      "Progressed": 1003,
       "Completed": 2
     }
   ],
@@ -1438,8 +1443,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-18T16:01:31.1520338+00:00",
-  "LastChanged_Achievements": "2023-05-21T02:11:41.7249784+00:00",
+  "LastChanged_Achievements": "2023-05-21T03:06:30.3052713+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-21T02:06:23.6651031+00:00",
-  "LastUpdate_Achievements": "2023-05-21T02:11:41.7250486+00:00"
+  "LastUpdate_Ratings": "2023-05-21T03:01:21.7540094+00:00",
+  "LastUpdate_Achievements": "2023-05-21T03:06:30.3053809+00:00"
 }

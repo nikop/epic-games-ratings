@@ -9,32 +9,32 @@
 | Are you ready to rumble? | 86.00% | ~19 |
 | That's what cheese said! | 73.00% | ~16 |
 | Nerd | 73.00% | ~16 |
-| I like you...but I have to kill you... | 64.00% | ~14 |
-| Rolling, Rolling, Rolling | 59.00% | ~13 |
-| AHHHHHH.....I'M ON FIRE!!! | 59.00% | ~13 |
+| I like you...but I have to kill you... | 68.00% | ~15 |
+| Rolling, Rolling, Rolling | 64.00% | ~14 |
+| AHHHHHH.....I'M ON FIRE!!! | 64.00% | ~14 |
 | Up and down | 59.00% | ~13 |
 | Not so hip anymore! | 59.00% | ~13 |
 | Blurry depth perception | 59.00% | ~13 |
 | Oh, you're up to no gouda! | 50.00% | ~11 |
 | Fire-fighter! | 50.00% | ~11 |
 | Make Love not War-Craft a Mistlefoe | 41.00% | ~9 |
+| Honk honk! | 36.00% | ~8 |
+| Mushroom soup of the day | 36.00% | ~8 |
 | Make America Grate Again | 32.00% | ~7 |
-| Honk honk! | 32.00% | ~7 |
-| Mushroom soup of the day | 32.00% | ~7 |
+| Butcher | 32.00% | ~7 |
 | You're not going to blow me up! | 32.00% | ~7 |
 | My pants squeak when I walk | 32.00% | ~7 |
 | Spare Ribs | 32.00% | ~7 |
 | Cockadoodledoo! | 32.00% | ~7 |
-| Butcher | 27.00% | ~6 |
 | Self assessed tax return | 27.00% | ~6 |
 | Thats disgusting! | 27.00% | ~6 |
 | Meat grinder | 27.00% | ~6 |
+| Pasta Bolognese | 27.00% | ~6 |
 | You are no match for me, Billy! | 23.00% | ~5 |
 | Surprise!! | 23.00% | ~5 |
 | Karaoke king | 23.00% | ~5 |
-| Pasta Bolognese | 23.00% | ~5 |
+| Haemochromatosis | 23.00% | ~5 |
 | Meatballs, coming up! | 18.00% | ~4 |
-| Haemochromatosis | 18.00% | ~4 |
 | Catch the bus with me! | 14.00% | ~3 |
 | I'm going to get a concussion | 14.00% | ~3 |
 | A Megapint...? | 14.00% | ~3 |

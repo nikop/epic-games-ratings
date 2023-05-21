@@ -136,7 +136,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3066,
+  "EOS_Progressed": 3069,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 815,
   "EOS_NewCompleters": 0,
@@ -1426,6 +1426,11 @@
       "Time": "2023-05-21T02:09:40.2283031+00:00",
       "NumProgressed": 3066,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T03:03:51.8768596+00:00",
+      "NumProgressed": 3069,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -1437,7 +1442,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1257
+      "UsersEstimate": 1258
     },
     {
       "ID": "10",
@@ -1453,7 +1458,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1441
+      "UsersEstimate": 1442
     },
     {
       "ID": "12",
@@ -1477,7 +1482,7 @@
       "Name": "Full Ascension",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 1656
+      "UsersEstimate": 1657
     },
     {
       "ID": "15",
@@ -1485,7 +1490,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "16",
@@ -1509,7 +1514,7 @@
       "Name": "Arch Mage",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "19",
@@ -1525,7 +1530,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "20",
@@ -1533,7 +1538,7 @@
       "Name": "The Goddess of Nature",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "21",
@@ -1547,9 +1552,9 @@
       "ID": "22",
       "SetID": "3aa2279",
       "Name": "Realm Estate",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2361
+      "UsersEstimate": 2394
     },
     {
       "ID": "23",
@@ -1557,7 +1562,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 2453
+      "UsersEstimate": 2455
     },
     {
       "ID": "24",
@@ -1565,7 +1570,7 @@
       "Name": "Secret Technique",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2361
+      "UsersEstimate": 2363
     },
     {
       "ID": "25",
@@ -1573,7 +1578,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2269
+      "UsersEstimate": 2271
     },
     {
       "ID": "26",
@@ -1581,7 +1586,7 @@
       "Name": "Bone Peddler",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1901
+      "UsersEstimate": 1903
     },
     {
       "ID": "27",
@@ -1589,7 +1594,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "28",
@@ -1597,7 +1602,7 @@
       "Name": "From Friends to Family",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 2146
+      "UsersEstimate": 2148
     },
     {
       "ID": "29",
@@ -1605,7 +1610,7 @@
       "Name": "Stronger Together",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 1686
+      "UsersEstimate": 1688
     },
     {
       "ID": "3",
@@ -1613,7 +1618,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "30",
@@ -1629,7 +1634,7 @@
       "Name": "Magical Synergy",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 1993
+      "UsersEstimate": 1995
     },
     {
       "ID": "32",
@@ -1637,7 +1642,7 @@
       "Name": "My Final Form",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1320
     },
     {
       "ID": "33",
@@ -1645,7 +1650,7 @@
       "Name": "Seat of Power",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 1410
+      "UsersEstimate": 1412
     },
     {
       "ID": "34",
@@ -1653,7 +1658,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "35",
@@ -1677,7 +1682,7 @@
       "Name": "Against the Odds",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "38",
@@ -1693,7 +1698,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "4",
@@ -1709,7 +1714,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "41",
@@ -1741,7 +1746,7 @@
       "Name": "Pruning for Progress",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "5",
@@ -1788,13 +1793,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 3066,
-      "Completed": 3066
+      "Progressed": 3069,
+      "Completed": 3069
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 3066,
+      "Progressed": 3069,
       "Completed": 0
     }
   ],
@@ -1802,8 +1807,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-20T16:59:45.2125507+00:00",
-  "LastChanged_Achievements": "2023-05-21T02:09:40.2283025+00:00",
+  "LastChanged_Achievements": "2023-05-21T03:03:51.876859+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:46.682938+00:00",
-  "LastUpdate_Ratings": "2023-05-21T02:05:29.8232248+00:00",
-  "LastUpdate_Achievements": "2023-05-21T02:09:40.2283491+00:00"
+  "LastUpdate_Ratings": "2023-05-21T02:59:59.7800932+00:00",
+  "LastUpdate_Achievements": "2023-05-21T03:03:51.8769046+00:00"
 }

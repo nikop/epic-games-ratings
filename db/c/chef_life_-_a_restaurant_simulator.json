@@ -838,9 +838,9 @@
       "ID": "RecipeDifferent10",
       "SetID": "d1bm05f",
       "Name": "Home Cook",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "RecipeDifferent30",
@@ -967,8 +967,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-21T02:11:47.0673413+00:00",
+  "LastChanged_Achievements": "2023-05-21T03:06:37.373396+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.318416+00:00",
-  "LastUpdate_Ratings": "2023-05-21T02:04:41.4019342+00:00",
-  "LastUpdate_Achievements": "2023-05-21T02:11:47.067376+00:00"
+  "LastUpdate_Ratings": "2023-05-21T02:58:47.9530543+00:00",
+  "LastUpdate_Achievements": "2023-05-21T03:06:37.3734323+00:00"
 }

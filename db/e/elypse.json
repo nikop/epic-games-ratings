@@ -2,9 +2,9 @@
   "ID": "ac1e1228d81c433ba5b25c6c09318e0e",
   "Name": "Elypse",
   "ProductSlug": "elypse-b177a8",
-  "Ranking_EOS_Progress": 302,
+  "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -243,9 +243,9 @@
       "ID": "Ach_DeathXTime",
       "SetID": "4o5gjp0",
       "Name": "Masochistic",
-      "Percentage": 47,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Ach_DiscoveryCatacombes",
@@ -339,9 +339,9 @@
       "ID": "Ach_FirstGolem",
       "SetID": "4o5gjp0",
       "Name": "Soft skin",
-      "Percentage": 43,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Ach_HutLay",
@@ -434,8 +434,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-05-21T02:11:36.462191+00:00",
+  "LastChanged_Achievements": "2023-05-21T03:06:22.9033227+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.0525193+00:00",
-  "LastUpdate_Ratings": "2023-05-21T02:04:18.6159191+00:00",
-  "LastUpdate_Achievements": "2023-05-21T02:11:36.462213+00:00"
+  "LastUpdate_Ratings": "2023-05-21T02:58:11.871752+00:00",
+  "LastUpdate_Achievements": "2023-05-21T03:06:22.9033526+00:00"
 }

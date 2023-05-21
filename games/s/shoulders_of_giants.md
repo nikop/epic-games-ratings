@@ -12,7 +12,7 @@ Rating: 4.32 (Ranked 746)
 | Ouch | 56.00% | ~1,138 |
 | Fun in the Stun | 55.00% | ~1,118 |
 | Do you feel like a tough guy? | 45.00% | ~914 |
-| The Interdimensional Power of Friendship | 44.00% | ~894 |
+| The Interdimensional Power of Friendship | 45.00% | ~914 |
 | Turn Up The HEAT | 40.00% | ~813 |
 | Stop Hitting Yourself! | 35.00% | ~711 |
 | Nothing to Wear | 31.00% | ~630 |

@@ -4,7 +4,7 @@
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 89,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 112,
+  "EOS_Progressed": 113,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.89,
+  "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
     {
       "Time": "2023-04-30T13:59:34.488144+00:00",
@@ -423,6 +423,11 @@
       "Time": "2023-05-20T19:03:03.5229483+00:00",
       "NumProgressed": 112,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-21T03:01:31.1742746+00:00",
+      "NumProgressed": 113,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -434,7 +439,7 @@
       "Name": "Lover of classics",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ETUA_AloneInTheDark",
@@ -538,7 +543,7 @@
       "Name": "Them and Us",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ETUA_LifeOfTheThousandGods",
@@ -562,7 +567,7 @@
       "Name": "Modern Player",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ETUA_NightmareOver",
@@ -594,7 +599,7 @@
       "Name": "OUTRAGE",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ETUA_PTD",
@@ -608,9 +613,9 @@
       "ID": "ETUA_ParasiteExterminated",
       "SetID": "65jc0ap",
       "Name": "Parasite Exterminated",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ETUA_Researcher",
@@ -618,7 +623,7 @@
       "Name": "Researcher",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ETUA_RestInPeace",
@@ -650,7 +655,7 @@
       "Name": "I Am The Gate Keeper!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ETUA_SurvivalHero",
@@ -674,7 +679,7 @@
       "Name": "The bus stop",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ETUA_TheCultists",
@@ -690,7 +695,7 @@
       "Name": "The Curse Is Real",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ETUA_TheForgottenTower",
@@ -730,7 +735,7 @@
       "Name": "Trapped",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ETUA_WhatAMansion",
@@ -738,7 +743,7 @@
       "Name": "What A Mansion",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ETUA_WhatHaveIDone",
@@ -746,14 +751,14 @@
       "Name": "What have I done!?",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     }
   ],
   "AchievementSets": [
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 112,
+      "Progressed": 113,
       "Completed": 1
     }
   ],
@@ -761,8 +766,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-05-20T23:02:25.9034556+00:00",
+  "LastChanged_Achievements": "2023-05-21T03:01:31.1742736+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:00.9346953+00:00",
-  "LastUpdate_Ratings": "2023-05-21T02:03:40.2941245+00:00",
-  "LastUpdate_Achievements": "2023-05-21T00:02:29.1605325+00:00"
+  "LastUpdate_Ratings": "2023-05-21T02:57:16.4032253+00:00",
+  "LastUpdate_Achievements": "2023-05-21T03:01:31.174397+00:00"
 }

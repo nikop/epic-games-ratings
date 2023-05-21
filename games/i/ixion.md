@@ -6,9 +6,9 @@ Rating: 4.55 (Ranked 468)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Without Breaking Some Eggs... | 4.00% | ~81 |
+| Infinite Growth... | 4.00% | ~81 |
 | Wakey Wakey | 4.00% | ~81 |
 | Sputnik 2049 | 4.00% | ~81 |
-| Infinite Growth... | 3.00% | ~61 |
 | Guy de Borderlands | 2.00% | ~40 |
 | Space Society | 2.00% | ~40 |
 | A Thousand Strong | 2.00% | ~40 |

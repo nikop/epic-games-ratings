@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 73.00% | ~22 |
-| Gear Up | 70.00% | ~21 |
-| A Grand Show | 70.00% | ~21 |
-| Freshen Up | 57.00% | ~17 |
-| GG EZ | 57.00% | ~17 |
-| Hydrophobia | 27.00% | ~8 |
+| Iceberg Theory | 74.00% | ~23 |
+| Gear Up | 71.00% | ~22 |
+| A Grand Show | 71.00% | ~22 |
+| Freshen Up | 58.00% | ~18 |
+| GG EZ | 58.00% | ~18 |
+| Hydrophobia | 29.00% | ~9 |
 | Ka-Ching! | 23.00% | ~7 |
-| Stop Right There | 20.00% | ~6 |
-| Get to the Point | 20.00% | ~6 |
+| Stop Right There | 23.00% | ~7 |
+| Get to the Point | 19.00% | ~6 |
 | Toe to Toe | 13.00% | ~4 |
 | Mr. Want It All | 10.00% | ~3 |
 | Phew! | 10.00% | ~3 |
-| The Paradox Coordinate Conqueror | 7.00% | ~2 |
-| Grand Escape | 7.00% | ~2 |
-| Space Warrior: Prologue | 7.00% | ~2 |
-| The Hidden Secret | 7.00% | ~2 |
-| Antaeus | 7.00% | ~2 |
-| Air Interception | 7.00% | ~2 |
+| The Paradox Coordinate Conqueror | 6.00% | ~2 |
+| Grand Escape | 6.00% | ~2 |
+| Space Warrior: Prologue | 6.00% | ~2 |
+| The Hidden Secret | 6.00% | ~2 |
+| Antaeus | 6.00% | ~2 |
+| Air Interception | 6.00% | ~2 |
 | The Deep Frozen Conqueror | 3.00% | ~1 |
 | The Abyss Conqueror | 3.00% | ~1 |
 | The Infinite Train Conqueror | 3.00% | ~1 |
@@ -55,7 +55,7 @@
 | Burn After Reading | 0.00% | ~0 |
 | Super Alloy Ranger! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30 (Ranked 302)  
+Progressed: 31 (Ranked 300)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,6 +75,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-13 | 27 | 0 |
 | 2023-05-15 | 29 | 0 |
 | 2023-05-20 | 30 | 0 |
+| 2023-05-21 | 31 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

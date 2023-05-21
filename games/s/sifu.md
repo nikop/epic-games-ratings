@@ -17,15 +17,15 @@ Number of Ratings: 9,492  (23.09.2022)
 | State of constant learning | 0.80% | ~5,633 |
 | Path of the Prospect | 0.80% | ~5,633 |
 | Rumble in the Hangar | 0.80% | ~5,633 |
-| The Old Grandmaster | 0.70% | ~4,928 |
-| The Assault | 0.70% | ~4,928 |
-| Furious Fists | 0.70% | ~4,928 |
-| Kill Nil | 0.70% | ~4,928 |
-| Street Fighting | 0.70% | ~4,928 |
-| Life is your teacher | 0.70% | ~4,928 |
-| Qi Gong: Essence | 0.70% | ~4,928 |
-| Lightning Hands | 0.70% | ~4,928 |
-| Take damage to save time | 0.70% | ~4,928 |
+| The Old Grandmaster | 0.70% | ~4,929 |
+| The Assault | 0.70% | ~4,929 |
+| Furious Fists | 0.70% | ~4,929 |
+| Kill Nil | 0.70% | ~4,929 |
+| Street Fighting | 0.70% | ~4,929 |
+| Life is your teacher | 0.70% | ~4,929 |
+| Qi Gong: Essence | 0.70% | ~4,929 |
+| Lightning Hands | 0.70% | ~4,929 |
+| Take damage to save time | 0.70% | ~4,929 |
 | Scareless | 0.60% | ~4,224 |
 | Stuntmaster | 0.60% | ~4,224 |
 | Old Child | 0.60% | ~4,224 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~704 |
 | Warriors from the Mountain | 0.10% | ~704 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,064 (Ranked 15)  
+Progressed: 704,078 (Ranked 15)  
 Completed: 12,732 (1.81%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 12,732 (1.81%) (Ranked 65)
 | 2023-05-18 | 703,070 | 12,731 |
 | 2023-05-19 | 703,575 | 12,731 |
 | 2023-05-20 | 704,036 | 12,732 |
-| 2023-05-21 | 704,064 | 12,732 |
+| 2023-05-21 | 704,078 | 12,732 |
 ## Awards
 Max (Great Boss Battles): 6,078  (Ranked 53)  
 Sum: 10,344 (Ranked 77)  
