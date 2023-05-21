@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -981,9 +981,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 5541,
+  "EOS_Progressed": 5542,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 288,
+  "EOS_NewPlayers": 286,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3401,6 +3401,11 @@
       "Time": "2023-05-21T08:05:55.8063635+00:00",
       "NumProgressed": 5541,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T09:06:30.0490237+00:00",
+      "NumProgressed": 5542,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -3428,7 +3433,7 @@
       "Name": "Really Friendly",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "12",
@@ -3500,7 +3505,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "20",
@@ -3516,7 +3521,7 @@
       "Name": "The Great Healer",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "22",
@@ -3676,7 +3681,7 @@
       "Name": "Catastrofan",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1551
+      "UsersEstimate": 1552
     },
     {
       "ID": "40",
@@ -3692,7 +3697,7 @@
       "Name": "New Eden",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "42",
@@ -3732,7 +3737,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 1385
+      "UsersEstimate": 1386
     },
     {
       "ID": "47",
@@ -3883,15 +3888,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 5541,
+      "Progressed": 5542,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-05-13T10:01:00.1135595+00:00",
-  "LastChanged_Achievements": "2023-05-21T08:05:55.806363+00:00",
+  "LastChanged_Achievements": "2023-05-21T09:06:30.0490233+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:33.4626364+00:00",
-  "LastUpdate_Ratings": "2023-05-21T07:59:52.8977543+00:00",
-  "LastUpdate_Achievements": "2023-05-21T08:05:55.8064309+00:00"
+  "LastUpdate_Ratings": "2023-05-21T09:00:19.0333818+00:00",
+  "LastUpdate_Achievements": "2023-05-21T09:06:30.0490795+00:00"
 }

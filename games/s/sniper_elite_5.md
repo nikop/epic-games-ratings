@@ -8,9 +8,9 @@ Rating: 4.41 (Ranked 658)
 | Meeting Resistance | 8.00% | ~82 |
 | Confirming Suspicions | 5.00% | ~51 |
 | Enemy at the Gates | 3.00% | ~31 |
-| Lord of War | 2.00% | ~20 |
-| Resourceful | 2.00% | ~20 |
-| The Kraken Wakes | 2.00% | ~20 |
+| Lord of War | 2.00% | ~21 |
+| Resourceful | 2.00% | ~21 |
+| The Kraken Wakes | 2.00% | ~21 |
 | Just a Flesh Wound | 1.00% | ~10 |
 | Organ Grinder | 1.00% | ~10 |
 | Explosive Efficiency | 1.00% | ~10 |
@@ -27,10 +27,10 @@ Rating: 4.41 (Ranked 658)
 | Taking it back | 0.80% | ~8 |
 | Precision Is Key | 0.70% | ~7 |
 | Snake in the Grass | 0.70% | ~7 |
+| Gunslinger | 0.60% | ~6 |
 | Skirmisher | 0.60% | ~6 |
 | Sharpshooter | 0.60% | ~6 |
 | Climbing the Ladder | 0.50% | ~5 |
-| Gunslinger | 0.50% | ~5 |
 | Der Geist | 0.50% | ~5 |
 | Brains of the Operation | 0.50% | ~5 |
 | Strategist | 0.40% | ~4 |
@@ -43,12 +43,12 @@ Rating: 4.41 (Ranked 658)
 | Operation Foxley | 0.30% | ~3 |
 | Last Resort | 0.30% | ~3 |
 | Sink or Swim | 0.30% | ~2 |
+| Fields of Glory | 0.20% | ~2 |
 | Rigged to Blow | 0.20% | ~2 |
 | My Little Friend | 0.20% | ~2 |
 | From Paris with Love | 0.20% | ~2 |
 | Siegebreaker | 0.20% | ~2 |
 | Ghost of Falaise | 0.20% | ~2 |
-| Fields of Glory | 0.10% | ~1 |
 | Burn after reading | 0.10% | ~1 |
 | Eagle Eyed | 0.10% | ~1 |
 | Tinkerer | 0.10% | ~1 |
@@ -77,8 +77,8 @@ Rating: 4.41 (Ranked 658)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,024 (Ranked 165)  
-Completed: 2 (0.20%) (Ranked 141)  
+Progressed: 1,029 (Ranked 165)  
+Completed: 2 (0.19%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -107,7 +107,7 @@ Completed: 2 (0.20%) (Ranked 141)
 | 2023-05-18 | 743 | 2 |
 | 2023-05-19 | 833 | 2 |
 | 2023-05-20 | 984 | 2 |
-| 2023-05-21 | 1,024 | 2 |
+| 2023-05-21 | 1,029 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 765,
+  "EOS_Progressed": 766,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 7.71,
+  "EOS_Completed_Percentage": 7.7,
   "EosHistory": [
     {
       "Time": "2023-04-26T15:59:54.0238725+00:00",
@@ -1879,6 +1879,11 @@
       "Time": "2023-05-21T04:05:33.0935422+00:00",
       "NumProgressed": 765,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-05-21T09:05:46.5029783+00:00",
+      "NumProgressed": 766,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 5,
@@ -1890,7 +1895,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "2",
@@ -1898,7 +1903,7 @@
       "Name": "Jill the Bold",
       "Percentage": 13,
       "XP": 200,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "3",
@@ -1906,7 +1911,7 @@
       "Name": "Jill the Brave",
       "Percentage": 10,
       "XP": 200,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "4",
@@ -1929,7 +1934,7 @@
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 765,
+      "Progressed": 766,
       "Completed": 59
     }
   ],
@@ -1937,8 +1942,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-05-21T08:05:15.9726716+00:00",
+  "LastChanged_Achievements": "2023-05-21T09:05:46.5029779+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:03.1024393+00:00",
-  "LastUpdate_Ratings": "2023-05-21T07:57:01.3579463+00:00",
-  "LastUpdate_Achievements": "2023-05-21T08:05:15.9726908+00:00"
+  "LastUpdate_Ratings": "2023-05-21T08:57:06.1367483+00:00",
+  "LastUpdate_Achievements": "2023-05-21T09:05:46.5029922+00:00"
 }

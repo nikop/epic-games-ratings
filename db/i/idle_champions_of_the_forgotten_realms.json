@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 12,
+  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3844,10 +3844,10 @@
       "Count": 3238
     }
   ],
-  "EOS_Progressed": 88166,
-  "EOS_Completed": 1856,
+  "EOS_Progressed": 88172,
+  "EOS_Completed": 1857,
   "EOS_NewPlayers": 713,
-  "EOS_NewCompleters": 17,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
     {
@@ -6769,6 +6769,11 @@
       "Time": "2023-05-21T08:06:03.306044+00:00",
       "NumProgressed": 88166,
       "NumCompleted": 1856
+    },
+    {
+      "Time": "2023-05-21T09:06:38.2171009+00:00",
+      "NumProgressed": 88172,
+      "NumCompleted": 1857
     }
   ],
   "TotalAchievements": 493,
@@ -8452,7 +8457,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "objective_completed_34",
@@ -8642,9 +8647,9 @@
       "ID": "objective_completed_4",
       "SetID": "cc37lbc",
       "Name": "Are Ya Chicken?",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 176
     },
     {
       "ID": "objective_completed_40",
@@ -10723,21 +10728,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54440,
+      "Progressed": 54446,
       "Completed": 2630
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88166,
-      "Completed": 1856
+      "Progressed": 88172,
+      "Completed": 1857
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-21T07:57:51.9272436+00:00",
-  "LastChanged_Achievements": "2023-05-21T08:06:03.3060436+00:00",
+  "LastChanged_Achievements": "2023-05-21T09:06:38.2171006+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-21T07:57:51.9272442+00:00",
-  "LastUpdate_Achievements": "2023-05-21T08:06:03.3083612+00:00"
+  "LastUpdate_Ratings": "2023-05-21T08:58:02.2292941+00:00",
+  "LastUpdate_Achievements": "2023-05-21T09:06:38.2192723+00:00"
 }

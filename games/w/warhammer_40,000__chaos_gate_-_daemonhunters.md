@@ -7,11 +7,11 @@ Number of Ratings: 371  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Executioner | 31.00% | ~811 |
-| Look Over There! | 28.00% | ~732 |
-| Not So Fast... | 27.00% | ~706 |
-| Watch Where You Step... | 27.00% | ~706 |
+| Look Over There! | 28.00% | ~733 |
+| Not So Fast... | 27.00% | ~707 |
+| Watch Where You Step... | 27.00% | ~707 |
 | An Ill Omen | 25.00% | ~654 |
-| Purging Spree | 21.00% | ~549 |
+| Purging Spree | 21.00% | ~550 |
 | Blood for the Blood God! | 16.00% | ~419 |
 | Friendly Fire | 16.00% | ~419 |
 | Surgical Excision | 14.00% | ~366 |
@@ -28,11 +28,11 @@ Number of Ratings: 371  (23.09.2022)
 | Daemonkeeper | 4.00% | ~105 |
 | A Gift Spurned | 4.00% | ~105 |
 | Long Distance Call | 4.00% | ~105 |
-| Corruption Cleanser | 3.00% | ~78 |
-| Mind Like a Fortress | 3.00% | ~78 |
-| Harvest No More | 3.00% | ~78 |
-| Junk Banishment | 3.00% | ~78 |
-| Tactical Flexibility | 3.00% | ~78 |
+| Corruption Cleanser | 3.00% | ~79 |
+| Mind Like a Fortress | 3.00% | ~79 |
+| Harvest No More | 3.00% | ~79 |
+| Junk Banishment | 3.00% | ~79 |
+| Tactical Flexibility | 3.00% | ~79 |
 | Patron of Deimos | 2.00% | ~52 |
 | Exterminator | 2.00% | ~52 |
 | Preservationist | 2.00% | ~52 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,616 (Ranked 137)  
+Progressed: 2,617 (Ranked 137)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-17 | 2,604 | 0 |
 | 2023-05-19 | 2,606 | 0 |
 | 2023-05-20 | 2,613 | 0 |
-| 2023-05-21 | 2,616 | 0 |
+| 2023-05-21 | 2,617 | 0 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 418 (Ranked 298)  

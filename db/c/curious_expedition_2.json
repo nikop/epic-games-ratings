@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -49,9 +49,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 293,
+  "EOS_Progressed": 295,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -83,6 +83,11 @@
     {
       "Time": "2023-05-20T15:06:57.5325056+00:00",
       "NumProgressed": 293,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-21T09:06:33.6590447+00:00",
+      "NumProgressed": 295,
       "NumCompleted": 1
     }
   ],
@@ -167,7 +172,7 @@
       "Name": "SCHMETTERLING",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ach-campaign-allEndings",
@@ -181,9 +186,9 @@
       "ID": "ach-campaign-fameThreshold",
       "SetID": "17ih7ma",
       "Name": "And Here Is Your Statue",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "ach-campaign-finish-easy",
@@ -231,7 +236,7 @@
       "Name": "A Strange Artefact",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ach-campaign-story2",
@@ -239,15 +244,15 @@
       "Name": "Lost \u0026 Found \u0026 Lost Again",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ach-campaign-story3",
       "SetID": "17ih7ma",
       "Name": "O Captain My Captain",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 77
     },
     {
       "ID": "ach-cartography-complete",
@@ -271,7 +276,7 @@
       "Name": "Cartographer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ach-discover-locations-high",
@@ -285,9 +290,9 @@
       "ID": "ach-drinkingContest",
       "SetID": "17ih7ma",
       "Name": "Under the Table",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "ach-environmentKill",
@@ -319,7 +324,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ach-hardExpeditions",
@@ -333,9 +338,9 @@
       "ID": "ach-interspeciesLove",
       "SetID": "17ih7ma",
       "Name": "It\u0027s Complicated",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "ach-joinClubChallenge",
@@ -357,9 +362,9 @@
       "ID": "ach-kill-animal-groups",
       "SetID": "17ih7ma",
       "Name": "Taxonomist",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 71
     },
     {
       "ID": "ach-kill-hyenas",
@@ -407,7 +412,7 @@
       "Name": "The Great Library",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ach-maxLevelCharacter",
@@ -439,7 +444,7 @@
       "Name": "Insomnia",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ach-pacifist-goals",
@@ -447,7 +452,7 @@
       "Name": "Nahua Seeker",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ach-paleMask-cure",
@@ -463,31 +468,31 @@
       "Name": "Uncertain Loyalties",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ach-portal-return",
       "SetID": "17ih7ma",
       "Name": "From Whence we Came",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 112
     },
     {
       "ID": "ach-promotion",
       "SetID": "17ih7ma",
       "Name": "Level Up",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "ach-raiseDino",
       "SetID": "17ih7ma",
       "Name": "Good Mama",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 83
     },
     {
       "ID": "ach-redElk",
@@ -511,7 +516,7 @@
       "Name": "Plunderer",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ach-salamanderPrince",
@@ -519,7 +524,7 @@
       "Name": "Cold Blood, Warm Heart",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ach-spendNoMoney",
@@ -559,7 +564,7 @@
       "Name": "Errand Runner",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ach-wearHat",
@@ -574,7 +579,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 293,
+      "Progressed": 295,
       "Completed": 1
     }
   ],
@@ -582,8 +587,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-03-31T05:57:33.8410127+00:00",
-  "LastChanged_Achievements": "2023-05-21T08:05:59.2090956+00:00",
+  "LastChanged_Achievements": "2023-05-21T09:06:33.6590443+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:15:00.3054339+00:00",
-  "LastUpdate_Ratings": "2023-05-21T08:00:32.5897381+00:00",
-  "LastUpdate_Achievements": "2023-05-21T08:05:59.2091482+00:00"
+  "LastUpdate_Ratings": "2023-05-21T09:01:03.4172975+00:00",
+  "LastUpdate_Achievements": "2023-05-21T09:06:33.6590883+00:00"
 }

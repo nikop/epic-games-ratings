@@ -8,11 +8,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Court of Storms | 0.50% | ~272 |
 | A Brief Tour of the Realms | 0.40% | ~353 |
-| The Cursed Farmer | 0.30% | ~264 |
+| The Cursed Farmer | 0.30% | ~265 |
 | Coasting to the Finish | 0.30% | ~163 |
 | Beware the Jabberwock | 0.30% | ~163 |
 | Beast Intentions | 0.20% | ~176 |
 | The Ring of Regeneration | 0.20% | ~176 |
+| Are Ya Chicken? | 0.20% | ~176 |
 | The Mad Wizard | 0.20% | ~176 |
 | Quick or Quack | 0.20% | ~109 |
 | Maddening | 0.10% | ~88 |
@@ -244,7 +245,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Shadowfell Stalwarts | 0.10% | ~54 |
 | Nimble Escape | 0.10% | ~88 |
 | Nimblest Escape | 0.10% | ~88 |
-| Are Ya Chicken? | 0.10% | ~88 |
 | Useless Allies | 0.10% | ~88 |
 | Stumbling Escape | 0.10% | ~88 |
 | Distracted Escape | 0.10% | ~54 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.10% | ~88 |
 | Rescue in the Jungle | 0.10% | ~88 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,166 (Ranked 59)  
-Completed: 1,856 (2.11%) (Ranked 62)  
+Progressed: 88,172 (Ranked 59)  
+Completed: 1,857 (2.11%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -531,7 +531,7 @@ Completed: 1,856 (2.11%) (Ranked 62)
 | 2023-05-18 | 87,918 | 1,850 |
 | 2023-05-19 | 88,008 | 1,851 |
 | 2023-05-20 | 88,132 | 1,854 |
-| 2023-05-21 | 88,166 | 1,856 |
+| 2023-05-21 | 88,172 | 1,857 |
 ## Awards
 Max (Diverse Characters): 4,890  (Ranked 64)  
 Sum: 29,937 (Ranked 37)  

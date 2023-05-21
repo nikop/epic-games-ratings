@@ -568,9 +568,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3615,
+  "EOS_Progressed": 3616,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1443,6 +1443,11 @@
       "Time": "2023-05-21T08:00:54.2261692+00:00",
       "NumProgressed": 3615,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-21T09:01:28.8803038+00:00",
+      "NumProgressed": 3616,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -1452,9 +1457,9 @@
       "ID": "ACHIEVEMENT_001",
       "SetID": "1a05lfd",
       "Name": "Fish Just Got Reel",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 2603
+      "UsersEstimate": 2567
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -1470,7 +1475,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 2241
+      "UsersEstimate": 2242
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -1486,7 +1491,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -1566,7 +1571,7 @@
       "Name": "Going for Gold",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -1733,13 +1738,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 3615,
+      "Progressed": 3616,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 2987,
+      "Progressed": 2988,
       "Completed": 112
     }
   ],
@@ -1747,8 +1752,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-05-14T03:00:04.4008144+00:00",
-  "LastChanged_Achievements": "2023-05-21T08:00:54.2261687+00:00",
+  "LastChanged_Achievements": "2023-05-21T09:01:28.8803033+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:23.9987618+00:00",
-  "LastUpdate_Ratings": "2023-05-21T07:59:43.4728384+00:00",
-  "LastUpdate_Achievements": "2023-05-21T08:00:54.2262668+00:00"
+  "LastUpdate_Ratings": "2023-05-21T09:00:10.0603249+00:00",
+  "LastUpdate_Achievements": "2023-05-21T09:01:28.8803859+00:00"
 }

@@ -22,8 +22,8 @@
 | Lux Living | 22.00% | ~37 |
 | Your Prestige is Rising | 22.00% | ~37 |
 | Retail Revenue | 22.00% | ~37 |
+| Leveled Up Shops | 22.00% | ~37 |
 | People Mover | 21.00% | ~35 |
-| Leveled Up Shops | 21.00% | ~35 |
 | Artfully Done | 20.00% | ~33 |
 | Don't Feel a Loan | 20.00% | ~33 |
 | Emporium Empire | 20.00% | ~33 |
@@ -36,15 +36,15 @@
 | Under One Roof | 16.00% | ~27 |
 | Boutique Benefits | 16.00% | ~27 |
 | Terrifically Trashed | 16.00% | ~27 |
-| Thrilled Tenants | 15.00% | ~25 |
+| Thrilled Tenants | 16.00% | ~27 |
 | Swimming in Surplus | 14.00% | ~23 |
 | Starred Dining | 14.00% | ~23 |
 | Smooth Operator | 13.00% | ~22 |
 | 28 Days Later | 12.00% | ~20 |
 | Plaza Plan | 11.00% | ~18 |
+| First 100 Days | 10.00% | ~17 |
 | Master of Puppets | 10.00% | ~17 |
 | Revenue Royalty | 10.00% | ~17 |
-| First 100 Days | 9.00% | ~15 |
 | Aestheticly Pleased | 9.00% | ~15 |
 | Profound Proceeds | 9.00% | ~15 |
 | Refined Palates | 9.00% | ~15 |

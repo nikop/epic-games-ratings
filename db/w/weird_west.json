@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -319,9 +319,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 1529,
+  "EOS_Progressed": 1530,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -559,6 +559,11 @@
       "Time": "2023-05-21T07:05:50.1832478+00:00",
       "NumProgressed": 1529,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-21T09:06:01.079483+00:00",
+      "NumProgressed": 1530,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -578,7 +583,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -618,7 +623,7 @@
       "Name": "Elusive Prey",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ACH_EXPLORER",
@@ -640,9 +645,9 @@
       "ID": "ACH_FOR_BALANCE",
       "SetID": "8j30i9k",
       "Name": "For Balance",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 245
+      "UsersEstimate": 230
     },
     {
       "ID": "ACH_FULL_HOUSE",
@@ -690,7 +695,7 @@
       "Name": "Here Comes Santa Claus",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ACH_IT_ALL_DIES",
@@ -722,7 +727,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -810,7 +815,7 @@
       "Name": "Out on the Ebb Tide",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ACH_PERKY",
@@ -818,7 +823,7 @@
       "Name": "Perky",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -834,7 +839,7 @@
       "Name": "Power Behind the Pulpit",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ACH_RAIN_OF_DEATH",
@@ -866,7 +871,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -874,7 +879,7 @@
       "Name": "Something Wicked This Way Comes\u2026",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ACH_THATS_ALL_FOLKS",
@@ -890,7 +895,7 @@
       "Name": "There is Hope",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ACH_THE_GREAT_ESCAPE",
@@ -898,7 +903,7 @@
       "Name": "The Great Escape",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "ACH_THE_HARD_WAY",
@@ -938,7 +943,7 @@
       "Name": "Turning the Tables",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ACH_UNFORGIVEN",
@@ -946,7 +951,7 @@
       "Name": "Unforgiven",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -993,15 +998,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1529,
+      "Progressed": 1530,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-04-18T11:59:25.595754+00:00",
-  "LastChanged_Achievements": "2023-05-21T08:05:28.8372999+00:00",
+  "LastChanged_Achievements": "2023-05-21T09:06:01.0794826+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:00.9656203+00:00",
-  "LastUpdate_Ratings": "2023-05-21T07:58:17.9999432+00:00",
-  "LastUpdate_Achievements": "2023-05-21T08:05:28.8373457+00:00"
+  "LastUpdate_Ratings": "2023-05-21T08:58:30.4676406+00:00",
+  "LastUpdate_Achievements": "2023-05-21T09:06:01.0795217+00:00"
 }

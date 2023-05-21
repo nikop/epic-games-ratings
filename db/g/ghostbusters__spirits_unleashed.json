@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -1050,7 +1050,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 22067,
+  "EOS_Progressed": 22068,
   "EOS_Completed": 40,
   "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 1,
@@ -3255,6 +3255,11 @@
       "Time": "2023-05-21T07:06:05.3181398+00:00",
       "NumProgressed": 22067,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-05-21T09:06:17.0164525+00:00",
+      "NumProgressed": 22068,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -3266,7 +3271,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 16109
+      "UsersEstimate": 16110
     },
     {
       "ID": "Animated",
@@ -3306,7 +3311,7 @@
       "Name": "Clutch Capture",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 9047
+      "UsersEstimate": 9048
     },
     {
       "ID": "Collect_Spores",
@@ -3338,7 +3343,7 @@
       "Name": "Daily Dose",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 7723
+      "UsersEstimate": 7724
     },
     {
       "ID": "Diabolical",
@@ -3354,7 +3359,7 @@
       "Name": "Discovery",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 13902
+      "UsersEstimate": 13903
     },
     {
       "ID": "Dont_Need_These",
@@ -3378,7 +3383,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 14123
+      "UsersEstimate": 14124
     },
     {
       "ID": "Escape_Artist",
@@ -3482,7 +3487,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 5737
+      "UsersEstimate": 5738
     },
     {
       "ID": "Reckless",
@@ -3498,7 +3503,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4413
+      "UsersEstimate": 4414
     },
     {
       "ID": "Rift_Seeker",
@@ -3554,7 +3559,7 @@
       "Name": "Solo Capture",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 7061
+      "UsersEstimate": 7062
     },
     {
       "ID": "Stunner",
@@ -3602,7 +3607,7 @@
       "Name": "Teamwork",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 9930
+      "UsersEstimate": 9931
     },
     {
       "ID": "Terrifying",
@@ -3610,7 +3615,7 @@
       "Name": "Terrifying",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 3751
+      "UsersEstimate": 3752
     },
     {
       "ID": "Therapeutic",
@@ -3626,7 +3631,7 @@
       "Name": "There you are!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 9709
+      "UsersEstimate": 9710
     },
     {
       "ID": "Tobins_Prodigy",
@@ -3673,7 +3678,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 22067,
+      "Progressed": 22068,
       "Completed": 40
     }
   ],
@@ -3681,8 +3686,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-05-21T04:58:44.2883808+00:00",
-  "LastChanged_Achievements": "2023-05-21T08:05:43.6239003+00:00",
+  "LastChanged_Achievements": "2023-05-21T09:06:17.0164521+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:13.3107598+00:00",
-  "LastUpdate_Ratings": "2023-05-21T07:58:45.2091256+00:00",
-  "LastUpdate_Achievements": "2023-05-21T08:05:43.6239533+00:00"
+  "LastUpdate_Ratings": "2023-05-21T08:59:01.157058+00:00",
+  "LastUpdate_Achievements": "2023-05-21T09:06:17.0164972+00:00"
 }

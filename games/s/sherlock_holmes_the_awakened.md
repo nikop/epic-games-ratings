@@ -22,9 +22,9 @@
 | No Man Is An Island | 42.00% | ~81 |
 | At Wits' End | 41.00% | ~79 |
 | Bookworm | 38.00% | ~73 |
+| Fhtagn! | 37.00% | ~71 |
 | Going Once... | 36.00% | ~69 |
 | Up In Flames | 36.00% | ~69 |
-| Fhtagn! | 36.00% | ~69 |
 | Let Me Be Frank | 34.00% | ~65 |
 | Brain Food | 34.00% | ~65 |
 | No Stone Unturned | 32.00% | ~61 |

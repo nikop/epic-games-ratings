@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Terror Rising | 64.00% | ~28 |
-| Jalopy Poppy | 61.00% | ~27 |
-| Green-Bodied Monster | 50.00% | ~22 |
-| Chopper Stopper | 43.00% | ~19 |
-| Test of Faith | 39.00% | ~17 |
-| Aerosolized | 36.00% | ~16 |
-| Reign of Terror | 30.00% | ~13 |
-| Monstrosity Atrocity | 30.00% | ~13 |
+| Terror Rising | 66.00% | ~29 |
+| Jalopy Poppy | 64.00% | ~28 |
+| Green-Bodied Monster | 52.00% | ~23 |
+| Chopper Stopper | 45.00% | ~20 |
+| Test of Faith | 41.00% | ~18 |
+| Aerosolized | 39.00% | ~17 |
+| Reign of Terror | 32.00% | ~14 |
+| Monstrosity Atrocity | 32.00% | ~14 |
 | Crushing All Cars | 23.00% | ~10 |
 | Horror Show | 18.00% | ~8 |
 | Brain Chopper | 16.00% | ~7 |

@@ -4,7 +4,7 @@
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -85,9 +85,9 @@
       "ID": "ALL_MAIN_MISSIONS",
       "SetID": "2lk004m",
       "Name": "All the Stories",
-      "Percentage": 0,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ALL_MEMORIES",
@@ -141,9 +141,9 @@
       "ID": "CHAPTER5_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Witness Protection",
-      "Percentage": 0,
+      "Percentage": 0.6,
       "XP": 75,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "COLLECT_20_EVIDENCE",
@@ -269,9 +269,9 @@
       "ID": "VIPER_HACKING",
       "SetID": "2lk004m",
       "Name": "Hackathon",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     }
   ],
   "AchievementSets": [
@@ -292,8 +292,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-05-21T08:05:40.1653593+00:00",
+  "LastChanged_Achievements": "2023-05-21T09:06:13.1612273+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:32.2683704+00:00",
-  "LastUpdate_Ratings": "2023-05-21T07:59:06.4405596+00:00",
-  "LastUpdate_Achievements": "2023-05-21T08:05:40.165378+00:00"
+  "LastUpdate_Ratings": "2023-05-21T08:59:26.0555135+00:00",
+  "LastUpdate_Achievements": "2023-05-21T09:06:13.1612415+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 228,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1079,9 +1079,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 118673,
+  "EOS_Progressed": 118674,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3579,6 +3579,11 @@
       "Time": "2023-05-21T08:05:41.686362+00:00",
       "NumProgressed": 118673,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-21T09:06:14.8310692+00:00",
+      "NumProgressed": 118674,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -3670,7 +3675,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 33228
+      "UsersEstimate": 33229
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -3718,7 +3723,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15427
+      "UsersEstimate": 15428
     },
     {
       "ID": "ACH_COP_STAR",
@@ -3870,7 +3875,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 15427
+      "UsersEstimate": 15428
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -3909,15 +3914,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 118673,
+      "Progressed": 118674,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-05-19T22:59:29.6177829+00:00",
-  "LastChanged_Achievements": "2023-05-21T08:05:41.6863616+00:00",
+  "LastChanged_Achievements": "2023-05-21T09:06:14.8310689+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:22.6216682+00:00",
-  "LastUpdate_Ratings": "2023-05-21T07:58:58.2121207+00:00",
-  "LastUpdate_Achievements": "2023-05-21T08:05:41.6864009+00:00"
+  "LastUpdate_Ratings": "2023-05-21T08:59:16.697314+00:00",
+  "LastUpdate_Achievements": "2023-05-21T09:06:14.8311055+00:00"
 }

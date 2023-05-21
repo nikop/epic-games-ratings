@@ -6,7 +6,7 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 165,
-  "Ranking_EOS_Completed": 141,
+  "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 75,
   "Store": {
@@ -176,11 +176,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1024,
+  "EOS_Progressed": 1029,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 310,
+  "EOS_NewPlayers": 314,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.2,
+  "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:23.1376838+00:00",
@@ -876,6 +876,11 @@
       "Time": "2023-05-21T08:05:27.3030479+00:00",
       "NumProgressed": 1024,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-21T09:05:59.4621983+00:00",
+      "NumProgressed": 1029,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -933,9 +938,9 @@
       "ID": "REWARD_16_FIELDS_OF_GLORY",
       "SetID": "bm6el81",
       "Name": "Fields of Glory",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -1005,9 +1010,9 @@
       "ID": "REWARD_24_GUNSLINGER",
       "SetID": "bm6el81",
       "Name": "Gunslinger",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -1095,7 +1100,7 @@
       "Name": "Lord of War",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -1111,7 +1116,7 @@
       "Name": "Resourceful",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -1135,7 +1140,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -1454,13 +1459,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 975,
+      "Progressed": 980,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1024,
+      "Progressed": 1029,
       "Completed": 2
     }
   ],
@@ -1468,8 +1473,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-18T16:01:31.1520338+00:00",
-  "LastChanged_Achievements": "2023-05-21T08:05:27.3030474+00:00",
+  "LastChanged_Achievements": "2023-05-21T09:05:59.4621979+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-21T08:00:27.8492115+00:00",
-  "LastUpdate_Achievements": "2023-05-21T08:05:27.3031214+00:00"
+  "LastUpdate_Ratings": "2023-05-21T09:00:57.8644187+00:00",
+  "LastUpdate_Achievements": "2023-05-21T09:05:59.4622571+00:00"
 }

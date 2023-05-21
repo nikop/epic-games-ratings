@@ -21,7 +21,7 @@ Rating: 3.79 (Ranked 912)
 | Kind-hearted | 22.00% | ~278 |
 | Amateur Chef | 19.00% | ~240 |
 | Fishing Guru | 17.00% | ~215 |
-| Community Helper | 15.00% | ~190 |
+| Community Helper | 16.00% | ~202 |
 | Spark of Love | 14.00% | ~177 |
 | Stone Specialist | 13.00% | ~164 |
 | Expert Chemist | 12.00% | ~152 |

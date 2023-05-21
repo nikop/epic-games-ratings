@@ -13,17 +13,17 @@ Number of Ratings: 836  (23.09.2022)
 | Aspiring Inventor | 44.00% | ~2,438 |
 | Adventurer | 41.00% | ~2,272 |
 | Famous Healer | 38.00% | ~2,106 |
-| Local Leader | 35.00% | ~1,939 |
+| Local Leader | 35.00% | ~1,940 |
 | New Opportunities | 34.00% | ~1,884 |
 | Famous Explorer | 33.00% | ~1,829 |
 | Energized | 33.00% | ~1,829 |
 | The Long Haul | 33.00% | ~1,829 |
 | Survivor | 31.00% | ~1,718 |
-| The Great Healer | 30.00% | ~1,662 |
-| Catastrofan | 28.00% | ~1,551 |
+| The Great Healer | 30.00% | ~1,663 |
+| Catastrofan | 28.00% | ~1,552 |
 | Legendary Explorer | 27.00% | ~1,496 |
 | Cleaner | 27.00% | ~1,496 |
-| Finders, Keepers | 25.00% | ~1,385 |
+| Finders, Keepers | 25.00% | ~1,386 |
 | Top Notch | 24.00% | ~1,330 |
 | Great Leader | 22.00% | ~1,219 |
 | Ice Lakes | 22.00% | ~1,219 |
@@ -45,8 +45,8 @@ Number of Ratings: 836  (23.09.2022)
 | Trader | 8.00% | ~443 |
 | Bread and Circuses | 7.00% | ~388 |
 | Tailored to fit | 7.00% | ~388 |
-| Really Friendly | 6.00% | ~332 |
-| New Eden | 6.00% | ~332 |
+| Really Friendly | 6.00% | ~333 |
+| New Eden | 6.00% | ~333 |
 | Amped Up | 5.00% | ~277 |
 | Luxurious Living | 4.00% | ~222 |
 | Look, no Hands! | 4.00% | ~222 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Finnished | 0.20% | ~11 |
 | Customized calamities | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,541 (Ranked 120)  
+Progressed: 5,542 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-18 | 5,417 | 0 |
 | 2023-05-19 | 5,457 | 0 |
 | 2023-05-20 | 5,518 | 0 |
-| 2023-05-21 | 5,541 | 0 |
+| 2023-05-21 | 5,542 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 325)  
 Sum: 652 (Ranked 270)  

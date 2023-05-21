@@ -1797,9 +1797,9 @@
       "ID": "7",
       "SetID": "9p3jgda",
       "Name": "MASTER",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 65,
-      "UsersEstimate": 177
+      "UsersEstimate": 202
     },
     {
       "ID": "8",
@@ -1827,8 +1827,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-21T08:00:47.2325064+00:00",
+  "LastChanged_Achievements": "2023-05-21T09:01:21.266352+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.9291954+00:00",
-  "LastUpdate_Ratings": "2023-05-21T07:58:48.402461+00:00",
-  "LastUpdate_Achievements": "2023-05-21T08:00:47.232537+00:00"
+  "LastUpdate_Ratings": "2023-05-21T08:59:04.5471372+00:00",
+  "LastUpdate_Achievements": "2023-05-21T09:01:21.2663796+00:00"
 }

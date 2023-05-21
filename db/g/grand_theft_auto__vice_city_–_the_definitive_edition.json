@@ -316,9 +316,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 6495,
+  "EOS_Progressed": 6500,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 352,
+  "EOS_NewPlayers": 355,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -1846,6 +1846,11 @@
       "Time": "2023-05-21T08:05:24.1922467+00:00",
       "NumProgressed": 6495,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-21T09:05:55.3713848+00:00",
+      "NumProgressed": 6500,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 34,
@@ -1961,7 +1966,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2533
+      "UsersEstimate": 2535
     },
     {
       "ID": "ACH15",
@@ -2009,7 +2014,7 @@
       "Name": "Daredevil",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH21",
@@ -2017,7 +2022,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2793
+      "UsersEstimate": 2795
     },
     {
       "ID": "ACH22",
@@ -2025,7 +2030,7 @@
       "Name": "Life of the Party",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "ACH23",
@@ -2033,15 +2038,15 @@
       "Name": "South American Connection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1494
+      "UsersEstimate": 1495
     },
     {
       "ID": "ACH24",
       "SetID": "9llo822",
       "Name": "Big Heat from Little Havana",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 844
+      "UsersEstimate": 780
     },
     {
       "ID": "ACH25",
@@ -2049,7 +2054,7 @@
       "Name": "Chauffeur",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACH26",
@@ -2057,7 +2062,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "ACH27",
@@ -2121,14 +2126,14 @@
       "Name": "Kingpin",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     }
   ],
   "AchievementSets": [
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6495,
+      "Progressed": 6500,
       "Completed": 22
     }
   ],
@@ -2136,8 +2141,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-20T16:58:27.5892756+00:00",
-  "LastChanged_Achievements": "2023-05-21T08:05:24.1922462+00:00",
+  "LastChanged_Achievements": "2023-05-21T09:05:55.3713845+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:49.9519997+00:00",
-  "LastUpdate_Ratings": "2023-05-21T07:58:07.216819+00:00",
-  "LastUpdate_Achievements": "2023-05-21T08:05:24.1922765+00:00"
+  "LastUpdate_Ratings": "2023-05-21T08:58:18.9809119+00:00",
+  "LastUpdate_Achievements": "2023-05-21T09:05:55.3714082+00:00"
 }

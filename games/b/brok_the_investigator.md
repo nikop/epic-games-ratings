@@ -10,9 +10,9 @@
 | Chapter 3 | 40.00% | ~4 |
 | Chapter 4 | 40.00% | ~4 |
 | All Materials | 40.00% | ~4 |
+| Chapter 5 | 30.00% | ~3 |
 | Your Days Are Numbered | 30.00% | ~3 |
 | It's In My Nature | 30.00% | ~3 |
-| Chapter 5 | 20.00% | ~2 |
 | Ads Fan | 10.00% | ~1 |
 | Chapter 6 | 10.00% | ~1 |
 | Highway Survival | 10.00% | ~1 |
