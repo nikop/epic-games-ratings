@@ -158,4 +158,3 @@
 | [Grim Nights](games/g/grim_nights.md) | 2023-04-24 | 2018-10-11 |
 | [Frogurai](games/f/frogurai.md) | 2023-04-23 | 2023-03-10 |
 | [Tesla's Best Friend](games/t/tesla's_best_friend.md) | 2023-04-22 | 2023-04-22 |
-| [Homestead Arcana](games/h/homestead_arcana.md) | 2023-04-21 | 2023-04-21 |
