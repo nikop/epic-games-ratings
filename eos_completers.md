@@ -25,15 +25,15 @@
 | 23 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 7.14% |
 | 24 | [Scorn](games/s/scorn.md) | 6.99% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
-| 26 | [Ravenlok](games/r/ravenlok.md) | 6.27% |
+| 26 | [Ravenlok](games/r/ravenlok.md) | 6.26% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
-| 28 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.76% |
+| 28 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.73% |
 | 29 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.97% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.94% |
-| 31 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
-| 32 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.55% |
-| 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.46% |
-| 34 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 4.25% |
+| 31 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 4.67% |
+| 32 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
+| 33 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.55% |
+| 34 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.46% |
 | 35 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.92% |
 | 36 | [Doodle God](games/d/doodle_god.md) | 3.90% |
 | 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.89% |
@@ -67,7 +67,7 @@
 | 65 | [Sifu](games/s/sifu.md) | 1.81% |
 | 66 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
 | 67 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.68% |
-| 68 | [Night Book](games/n/night_book.md) | 1.65% |
+| 68 | [Night Book](games/n/night_book.md) | 1.64% |
 | 69 | [Somerville](games/s/somerville.md) | 1.60% |
 | 70 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.56% |
 | 71 | [Frogun](games/f/frogun.md) | 1.55% |
@@ -129,8 +129,8 @@
 | 124 | [The Surge](games/t/the_surge.md) | 0.31% |
 | 128 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.30% |
 | 129 | [Aegis Descent](games/a/aegis_descent.md) | 0.28% |
-| 129 | [Despot's Game](games/d/despot's_game.md) | 0.28% |
-| 131 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
+| 130 | [Despot's Game](games/d/despot's_game.md) | 0.27% |
+| 130 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
 | 132 | [Dead Island 2](games/d/dead_island_2.md) | 0.26% |
 | 133 | [Circus Electrique](games/c/circus_electrique.md) | 0.25% |
 | 133 | [Wildermyth](games/w/wildermyth.md) | 0.25% |
