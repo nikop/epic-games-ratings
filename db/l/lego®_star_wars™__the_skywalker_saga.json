@@ -2174,9 +2174,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 46777,
+  "EOS_Progressed": 46778,
   "EOS_Completed": 166,
-  "EOS_NewPlayers": 789,
+  "EOS_NewPlayers": 788,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -4374,6 +4374,11 @@
       "Time": "2023-05-22T07:05:40.073682+00:00",
       "NumProgressed": 46777,
       "NumCompleted": 166
+    },
+    {
+      "Time": "2023-05-22T08:06:45.123851+00:00",
+      "NumProgressed": 46778,
+      "NumCompleted": 166
     }
   ],
   "TotalAchievements": 45,
@@ -4409,7 +4414,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 36954
+      "UsersEstimate": 36955
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -4497,7 +4502,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 27598
+      "UsersEstimate": 27599
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -4505,7 +4510,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 21517
+      "UsersEstimate": 21518
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -4521,7 +4526,7 @@
       "Name": "A New Hope",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 21985
+      "UsersEstimate": 21986
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -4649,7 +4654,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 45374
+      "UsersEstimate": 45375
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -4705,7 +4710,7 @@
       "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 17307
+      "UsersEstimate": 17308
     },
     {
       "ID": "RIDE_ALL_CREATURES",
@@ -4737,22 +4742,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 33679
+      "UsersEstimate": 33680
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 46777,
+      "Progressed": 46778,
       "Completed": 166
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-05-21T11:00:40.2192549+00:00",
-  "LastChanged_Achievements": "2023-05-22T07:05:40.0736813+00:00",
+  "LastChanged_Achievements": "2023-05-22T08:06:45.1238505+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:50.9828107+00:00",
-  "LastUpdate_Ratings": "2023-05-22T07:00:07.5590777+00:00",
-  "LastUpdate_Achievements": "2023-05-22T07:05:40.0737296+00:00"
+  "LastUpdate_Ratings": "2023-05-22T08:01:21.2031307+00:00",
+  "LastUpdate_Achievements": "2023-05-22T08:06:45.1239014+00:00"
 }

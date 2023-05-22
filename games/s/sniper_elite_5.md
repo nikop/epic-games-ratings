@@ -77,7 +77,7 @@ Rating: 4.40 (Ranked 674)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,153 (Ranked 159)  
+Progressed: 1,154 (Ranked 159)  
 Completed: 2 (0.17%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 2 (0.17%) (Ranked 144)
 | 2023-05-19 | 833 | 2 |
 | 2023-05-20 | 984 | 2 |
 | 2023-05-21 | 1,126 | 2 |
-| 2023-05-22 | 1,153 | 2 |
+| 2023-05-22 | 1,154 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

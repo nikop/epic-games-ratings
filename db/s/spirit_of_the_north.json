@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 108,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -306,9 +306,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 55001,
+  "EOS_Progressed": 55002,
   "EOS_Completed": 262,
-  "EOS_NewPlayers": 946,
+  "EOS_NewPlayers": 942,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -3411,6 +3411,11 @@
       "Time": "2023-05-22T07:05:21.4409658+00:00",
       "NumProgressed": 55001,
       "NumCompleted": 262
+    },
+    {
+      "Time": "2023-05-22T08:06:22.8298485+00:00",
+      "NumProgressed": 55002,
+      "NumCompleted": 262
     }
   ],
   "TotalAchievements": 24,
@@ -3454,7 +3459,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 14300
+      "UsersEstimate": 14301
     },
     {
       "ID": "ERADICATE",
@@ -3470,7 +3475,7 @@
       "Name": "FETCH",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 14850
+      "UsersEstimate": 14851
     },
     {
       "ID": "FOXIN_AROUND",
@@ -3478,7 +3483,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 15400
+      "UsersEstimate": 15401
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -3613,7 +3618,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 55001,
+      "Progressed": 55002,
       "Completed": 262
     }
   ],
@@ -3621,8 +3626,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-05-05T19:00:44.1846952+00:00",
-  "LastChanged_Achievements": "2023-05-22T07:05:21.4409654+00:00",
+  "LastChanged_Achievements": "2023-05-22T08:06:22.8298479+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:55.8161254+00:00",
-  "LastUpdate_Ratings": "2023-05-22T06:59:02.1813157+00:00",
-  "LastUpdate_Achievements": "2023-05-22T07:05:21.441004+00:00"
+  "LastUpdate_Ratings": "2023-05-22T08:00:01.345942+00:00",
+  "LastUpdate_Achievements": "2023-05-22T08:06:22.8298847+00:00"
 }

@@ -9,9 +9,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Diligence as a goal | 4.00% | ~552 |
 | Project Arena | 3.00% | ~414 |
 | Bloody Sport | 1.00% | ~138 |
-| The Hateful Pole Fighter | 0.90% | ~6,340 |
-| A Lady's Blood in the Snow | 0.90% | ~6,340 |
-| Qi Gong: Breath | 0.90% | ~6,340 |
+| The Hateful Pole Fighter | 0.90% | ~6,341 |
+| A Lady's Blood in the Snow | 0.90% | ~6,341 |
+| Qi Gong: Breath | 0.90% | ~6,341 |
 | The best strikes are the ones we avoid | 0.90% | ~124 |
 | The Old Grandmaster | 0.80% | ~5,636 |
 | The Assault | 0.80% | ~5,636 |
@@ -23,27 +23,27 @@ Number of Ratings: 9,492  (23.09.2022)
 | Lightning Hands | 0.80% | ~5,636 |
 | Path of the Prospect | 0.80% | ~5,636 |
 | Rumble in the Hangar | 0.80% | ~5,636 |
-| Furious Fists | 0.70% | ~4,931 |
-| Stuntmaster | 0.70% | ~4,931 |
-| Street Fighting | 0.70% | ~4,931 |
-| Take damage to save time | 0.70% | ~4,931 |
+| Furious Fists | 0.70% | ~4,932 |
+| Stuntmaster | 0.70% | ~4,932 |
+| Street Fighting | 0.70% | ~4,932 |
+| Take damage to save time | 0.70% | ~4,932 |
 | Scareless | 0.60% | ~4,227 |
 | Old Child | 0.60% | ~4,227 |
 | Kung-Fu Tussle | 0.60% | ~4,227 |
 | Deadly Venom | 0.60% | ~83 |
-| Dance of the Praying Mantis | 0.50% | ~3,522 |
-| Qi Gong: Mind | 0.50% | ~3,522 |
-| I know Kung-Fu | 0.50% | ~3,522 |
+| Dance of the Praying Mantis | 0.50% | ~3,523 |
+| Qi Gong: Mind | 0.50% | ~3,523 |
+| I know Kung-Fu | 0.50% | ~3,523 |
 | A Touch of Acumen | 0.50% | ~69 |
 | Muk Yan Master | 0.40% | ~2,818 |
 | Tiger on Fire | 0.40% | ~2,818 |
 | Source of Flying Daggers | 0.40% | ~2,818 |
 | Iron Money | 0.40% | ~2,818 |
 | Detective Story | 0.40% | ~2,818 |
-| Legendary Talismans of Wuxing | 0.30% | ~2,113 |
-| Prodigal Child | 0.30% | ~2,113 |
-| The 36th Chamber of Kung-Fu | 0.30% | ~2,113 |
-| Sword Stained With Blood | 0.30% | ~2,113 |
+| Legendary Talismans of Wuxing | 0.30% | ~2,114 |
+| Prodigal Child | 0.30% | ~2,114 |
+| The 36th Chamber of Kung-Fu | 0.30% | ~2,114 |
+| Sword Stained With Blood | 0.30% | ~2,114 |
 | Martial Hub | 0.30% | ~41 |
 | Secure, Protect, Leave | 0.30% | ~41 |
 | Drunken Fighter | 0.20% | ~1,409 |
@@ -54,10 +54,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Pit Protector | 0.20% | ~1,409 |
 | Be like water my friend | 0.20% | ~1,409 |
 | Come Snap With Me | 0.20% | ~1,409 |
-| Ferocity, speed, strength, accuracy | 0.10% | ~704 |
-| Warriors from the Mountain | 0.10% | ~704 |
+| Ferocity, speed, strength, accuracy | 0.10% | ~705 |
+| Warriors from the Mountain | 0.10% | ~705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,491 (Ranked 15)  
+Progressed: 704,501 (Ranked 15)  
 Completed: 12,733 (1.81%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,15 +89,15 @@ Completed: 12,733 (1.81%) (Ranked 64)
 | 2023-05-19 | 703,575 | 12,731 |
 | 2023-05-20 | 704,036 | 12,732 |
 | 2023-05-21 | 704,407 | 12,733 |
-| 2023-05-22 | 704,491 | 12,733 |
+| 2023-05-22 | 704,501 | 12,733 |
 ## Awards
 Max (Great Boss Battles): 6,082  (Ranked 53)  
-Sum: 10,350 (Ranked 77)  
+Sum: 10,351 (Ranked 77)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,082 |
-| This game has Diverse Characters | 511 |
+| This game has Diverse Characters | 512 |
 | This game has Challenging Combat | 510 |
 | This game has Quickly Understood Controls | 502 |
 | This game is Extremely Fun | 499 |
@@ -237,3 +237,4 @@ Diff (max vs sum): -24
 | 2023-05-19 | 4.82 | - | 6,075 | 10,335 |
 | 2023-05-20 | 4.82 | - | 6,078 | 10,342 |
 | 2023-05-21 | 4.82 | - | 6,082 | 10,350 |
+| 2023-05-22 | 4.82 | - | 6,082 | 10,351 |

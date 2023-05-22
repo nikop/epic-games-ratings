@@ -1089,9 +1089,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 21694,
+  "EOS_Progressed": 21695,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2504,6 +2504,11 @@
       "Time": "2023-05-22T06:05:53.9051722+00:00",
       "NumProgressed": 21694,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-05-22T08:06:29.4441598+00:00",
+      "NumProgressed": 21695,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -2521,9 +2526,9 @@
       "ID": "AllBlessings",
       "SetID": "3ojhj46",
       "Name": "Truly Blessed",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 43
     },
     {
       "ID": "AllEquipment",
@@ -2826,21 +2831,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 21694,
+      "Progressed": 21695,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 624,
+      "Progressed": 625,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-05-18T23:00:19.112775+00:00",
-  "LastChanged_Achievements": "2023-05-22T07:05:26.9379608+00:00",
+  "LastChanged_Achievements": "2023-05-22T08:06:29.4441589+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:25.8639734+00:00",
-  "LastUpdate_Ratings": "2023-05-22T06:58:47.8011044+00:00",
-  "LastUpdate_Achievements": "2023-05-22T07:05:26.9380003+00:00"
+  "LastUpdate_Ratings": "2023-05-22T07:59:38.6920194+00:00",
+  "LastUpdate_Achievements": "2023-05-22T08:06:29.4442053+00:00"
 }

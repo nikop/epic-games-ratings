@@ -25,9 +25,9 @@
 | My pants squeak when I walk | 38.00% | ~16 |
 | Spare Ribs | 38.00% | ~16 |
 | Honk honk! | 36.00% | ~15 |
+| Surprise!! | 36.00% | ~15 |
 | Cockadoodledoo! | 36.00% | ~15 |
 | Self assessed tax return | 33.00% | ~14 |
-| Surprise!! | 33.00% | ~14 |
 | Thats disgusting! | 33.00% | ~14 |
 | Haemochromatosis | 31.00% | ~13 |
 | Meatballs, coming up! | 29.00% | ~12 |
@@ -49,10 +49,11 @@
 | Ancient Ruins of Dirty Feet | 7.00% | ~3 |
 | Yeehaw!!! | 7.00% | ~3 |
 | Your daily dose of Vitamin C. | 7.00% | ~3 |
+| I cant stand still! | 7.00% | ~3 |
 | Spoiler alert! | 5.00% | ~2 |
 | You're not so Big anymore, Boi! | 5.00% | ~2 |
 | Okay... Maybe I'm a bit drunk... | 5.00% | ~2 |
-| I cant stand still! | 5.00% | ~2 |
+| Deal with it | 5.00% | ~2 |
 | You're looking mozzare-hella good! | 2.00% | ~1 |
 | Ancient Ruins of Moist Overhangs | 2.00% | ~1 |
 | Ancient Ruins of Misplaced Belongings | 2.00% | ~1 |
@@ -61,9 +62,9 @@
 | Master Butcher | 2.00% | ~1 |
 | My name is Whoopass, SIR Whoopass! | 2.00% | ~1 |
 | Timber! | 2.00% | ~1 |
-| Deal with it | 2.00% | ~1 |
 | Consider it dealt with | 2.00% | ~1 |
 | Grumpy Immortal | 2.00% | ~1 |
+| Scrambled Eggs | 2.00% | ~1 |
 | European karaoke king | 2.00% | ~1 |
 | Free Of Chains | 2.00% | ~1 |
 | Out of bounds | 2.00% | ~1 |
@@ -81,7 +82,6 @@
 | I'm getting full... | 0.00% | ~0 |
 | Bloody Knuckles | 0.00% | ~0 |
 | No...No...No...that was not meant for you...yet! | 0.00% | ~0 |
-| Scrambled Eggs | 0.00% | ~0 |
 | I've got the power | 0.00% | ~0 |
 | Catch me if you can | 0.00% | ~0 |
 | I'm feeling lucky! | 0.00% | ~0 |

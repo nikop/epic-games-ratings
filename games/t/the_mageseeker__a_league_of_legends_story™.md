@@ -5,13 +5,13 @@ Rating: 4.76 (Ranked 117)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~1,989 |
-| No more cages! | 92.00% | ~1,926 |
-| Everfrost | 77.00% | ~1,612 |
-| Pentakill | 76.00% | ~1,591 |
-| Dark Forest | 76.00% | ~1,591 |
+| For Demacia | 95.00% | ~1,990 |
+| No more cages! | 92.00% | ~1,927 |
+| Everfrost | 77.00% | ~1,613 |
+| Pentakill | 76.00% | ~1,592 |
+| Dark Forest | 76.00% | ~1,592 |
 | The use of petricite | 73.00% | ~1,529 |
-| You can pet the dog | 60.00% | ~1,256 |
+| You can pet the dog | 60.00% | ~1,257 |
 | Big Helmet Bro | 34.00% | ~712 |
 | Clarion Cove | 34.00% | ~712 |
 | Past trauma | 32.00% | ~670 |
@@ -19,8 +19,8 @@ Rating: 4.76 (Ranked 117)
 | Ternmoat Headquarters | 32.00% | ~670 |
 | Elemental master | 31.00% | ~649 |
 | Cypress Glen Headquarters | 31.00% | ~649 |
-| Petricite Burst | 27.00% | ~565 |
-| Old friend | 26.00% | ~544 |
+| Petricite Burst | 27.00% | ~566 |
+| Old friend | 26.00% | ~545 |
 | Whispers in the Woods I | 25.00% | ~524 |
 | Hijack | 25.00% | ~524 |
 | Devineur | 25.00% | ~524 |
@@ -44,11 +44,11 @@ Rating: 4.76 (Ranked 117)
 | Meltridge | 12.00% | ~251 |
 | Cloven Dell Headquarters | 12.00% | ~251 |
 | Whispers in the Woods IV | 11.00% | ~230 |
-| Embrace the darkness | 10.00% | ~209 |
-| I smell fear | 9.00% | ~188 |
-| The end of the experiments | 9.00% | ~188 |
-| The Great City of Demacia | 9.00% | ~188 |
-| Call it 'redistribution of magic | 9.00% | ~188 |
+| Embrace the darkness | 10.00% | ~210 |
+| I smell fear | 9.00% | ~189 |
+| The end of the experiments | 9.00% | ~189 |
+| The Great City of Demacia | 9.00% | ~189 |
+| Call it 'redistribution of magic | 9.00% | ~189 |
 | Chains master | 8.00% | ~168 |
 | Truth is a dark mirror | 8.00% | ~168 |
 | You can pet the... horse | 8.00% | ~168 |
@@ -59,7 +59,7 @@ Rating: 4.76 (Ranked 117)
 | Silverwing nest | 2.00% | ~42 |
 | The Unshackled | 0.60% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,094 (Ranked 142)  
+Progressed: 2,095 (Ranked 142)  
 Completed: 1 (0.05%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 1 (0.05%) (Ranked 174)
 | 2023-05-19 | 2,048 | 1 |
 | 2023-05-20 | 2,067 | 1 |
 | 2023-05-21 | 2,090 | 1 |
-| 2023-05-22 | 2,094 | 1 |
+| 2023-05-22 | 2,095 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

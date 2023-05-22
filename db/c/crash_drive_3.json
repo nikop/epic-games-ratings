@@ -171,9 +171,9 @@
       "ID": "COLLECT_500_COIN",
       "SetID": "20koof9",
       "Name": "High Roller",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 40
     },
     {
       "ID": "COLLECT_ALL_CARS",
@@ -499,9 +499,9 @@
       "ID": "WIN_50_EVENTS",
       "SetID": "20koof9",
       "Name": "Event Pro",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "WIN_BALL",
@@ -564,8 +564,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-05-22T07:00:14.5718435+00:00",
+  "LastChanged_Achievements": "2023-05-22T08:01:31.3176428+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:24.363984+00:00",
-  "LastUpdate_Ratings": "2023-05-22T06:58:27.1087719+00:00",
-  "LastUpdate_Achievements": "2023-05-22T07:00:14.5719238+00:00"
+  "LastUpdate_Ratings": "2023-05-22T07:59:11.7395341+00:00",
+  "LastUpdate_Achievements": "2023-05-22T08:01:31.3176996+00:00"
 }

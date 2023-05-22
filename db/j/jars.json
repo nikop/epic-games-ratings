@@ -2,9 +2,9 @@
   "ID": "9b89b68d8751414db0991007bdc4766c",
   "Name": "JARS",
   "ProductSlug": "jars-e39063",
-  "Ranking_EOS_Progress": 292,
+  "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-10-20T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 41,
+  "EOS_Progressed": 42,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.44,
+  "EOS_Completed_Percentage": 2.38,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:38.9338531+00:00",
@@ -56,6 +56,11 @@
       "Time": "2023-05-20T03:04:48.5636267+00:00",
       "NumProgressed": 41,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-22T08:06:09.6408759+00:00",
+      "NumProgressed": 42,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 20,
@@ -65,7 +70,7 @@
       "ID": "ACH_100_ITEMS_USED",
       "SetID": "3jfhgga",
       "Name": "Sticky fingers",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 25,
       "UsersEstimate": 20
     },
@@ -75,7 +80,7 @@
       "Name": "I have an army!",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_ALL_ENCYCLOPEDIA_ENTRIES",
@@ -89,7 +94,7 @@
       "ID": "ACH_CHAPTER_0_DONE",
       "SetID": "3jfhgga",
       "Name": "The child of the night",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 50,
       "UsersEstimate": 28
     },
@@ -97,15 +102,15 @@
       "ID": "ACH_CHAPTER_1_DONE",
       "SetID": "3jfhgga",
       "Name": "Vampires",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_CHAPTER_2_DONE",
       "SetID": "3jfhgga",
       "Name": "Fangs",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -113,7 +118,7 @@
       "ID": "ACH_CHAPTER_3_DONE",
       "SetID": "3jfhgga",
       "Name": "Mirrors",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -137,9 +142,9 @@
       "ID": "ACH_ENCYCLOPEDIA_ENTRY",
       "SetID": "3jfhgga",
       "Name": "Missing data",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_EQUIP_PERK",
@@ -147,13 +152,13 @@
       "Name": "It fits. IT FITS!",
       "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_FIND_SECRET",
       "SetID": "3jfhgga",
       "Name": "A horrible thing will happen...",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 25,
       "UsersEstimate": 18
     },
@@ -161,9 +166,9 @@
       "ID": "ACH_GET10K_ESSENCE",
       "SetID": "3jfhgga",
       "Name": "Bloody stream",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_GETALL_COLLECTIBLES",
@@ -211,7 +216,7 @@
       "Name": "Uncle will be happy",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_STAGE_LOST_FIRST_TIME",
@@ -219,14 +224,14 @@
       "Name": "Broken jar",
       "Percentage": 88,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jfhgga",
       "IsBase": true,
-      "Progressed": 41,
+      "Progressed": 42,
       "Completed": 1
     }
   ],
@@ -234,8 +239,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-05-22T07:05:10.5179712+00:00",
+  "LastChanged_Achievements": "2023-05-22T08:06:09.6408753+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:38.4112631+00:00",
-  "LastUpdate_Ratings": "2023-05-22T06:57:50.063903+00:00",
-  "LastUpdate_Achievements": "2023-05-22T07:05:10.5179848+00:00"
+  "LastUpdate_Ratings": "2023-05-22T07:58:19.2394699+00:00",
+  "LastUpdate_Achievements": "2023-05-22T08:06:09.6408912+00:00"
 }

@@ -6,23 +6,23 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 92.00% | ~30,279 |
-| First Steps | 81.00% | ~26,659 |
-| Control the Shadows | 68.00% | ~22,380 |
+| Awakening | 92.00% | ~30,280 |
+| First Steps | 81.00% | ~26,660 |
+| Control the Shadows | 68.00% | ~22,381 |
 | Tools of the Trade | 63.00% | ~20,735 |
-| Apprentice | 60.00% | ~19,747 |
+| Apprentice | 60.00% | ~19,748 |
 | Secret Seeker | 57.00% | ~18,760 |
 | Forge of Assassins | 56.00% | ~18,431 |
-| Revenant | 51.00% | ~16,785 |
-| I don’t Care! | 45.00% | ~14,810 |
-| Bird of Prey | 37.00% | ~12,177 |
+| Revenant | 51.00% | ~16,786 |
+| I don’t Care! | 45.00% | ~14,811 |
+| Bird of Prey | 37.00% | ~12,178 |
 | Engraved with Power | 32.00% | ~10,532 |
 | Lady | 30.00% | ~9,874 |
-| Fashionable Assassin | 27.00% | ~8,886 |
+| Fashionable Assassin | 27.00% | ~8,887 |
 | Apex Predator | 24.00% | ~7,899 |
 | Soul Reaver | 22.00% | ~7,241 |
 | Embers | 21.00% | ~6,912 |
-| Wall Lizard | 20.00% | ~6,582 |
+| Wall Lizard | 20.00% | ~6,583 |
 | Clinging to Life | 18.00% | ~5,924 |
 | Burning | 17.00% | ~5,595 |
 | Look Behind You | 16.00% | ~5,266 |
@@ -41,9 +41,9 @@ Number of Ratings: 88  (23.09.2022)
 | Pilgrimage | 7.00% | ~2,304 |
 | The Lookout | 5.00% | ~1,646 |
 | The Spirit of Vengeance | 5.00% | ~1,646 |
-| Left Behind | 4.00% | ~1,316 |
-| Secrets of the Earth | 4.00% | ~1,316 |
-| Hollow | 4.00% | ~1,316 |
+| Left Behind | 4.00% | ~1,317 |
+| Secrets of the Earth | 4.00% | ~1,317 |
+| Hollow | 4.00% | ~1,317 |
 | The Lion’s Den | 3.00% | ~987 |
 | Heart of Fire | 3.00% | ~987 |
 | Forest Spirits | 3.00% | ~987 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~329 |
 | Anger Management | 1.00% | ~329 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,912 (Ranked 83)  
+Progressed: 32,913 (Ranked 83)  
 Completed: 156 (0.47%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 156 (0.47%) (Ranked 109)
 | 2023-05-19 | 32,723 | 156 |
 | 2023-05-20 | 32,802 | 156 |
 | 2023-05-21 | 32,889 | 156 |
-| 2023-05-22 | 32,912 | 156 |
+| 2023-05-22 | 32,913 | 156 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

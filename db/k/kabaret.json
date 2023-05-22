@@ -99,9 +99,9 @@
       "ID": "13",
       "SetID": "37jn7be",
       "Name": "Faithful Follower",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "14",
@@ -115,9 +115,9 @@
       "ID": "15",
       "SetID": "37jn7be",
       "Name": "True Potential Unlocked",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "16",
@@ -131,17 +131,17 @@
       "ID": "17",
       "SetID": "37jn7be",
       "Name": "Guli Novice",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "18",
       "SetID": "37jn7be",
       "Name": "Guli Pro",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "19",
@@ -163,17 +163,17 @@
       "ID": "20",
       "SetID": "37jn7be",
       "Name": "Congkak Hero",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "21",
       "SetID": "37jn7be",
       "Name": "Congkak Champion",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "22",
@@ -219,9 +219,9 @@
       "ID": "27",
       "SetID": "37jn7be",
       "Name": "Equality",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "28",
@@ -443,9 +443,9 @@
       "ID": "52",
       "SetID": "37jn7be",
       "Name": "A New Hope",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "53",
@@ -555,9 +555,9 @@
       "ID": "65",
       "SetID": "37jn7be",
       "Name": "Let There Be Light",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "66",
@@ -612,8 +612,8 @@
   "FirstSeenRating": "2023-04-29T22:57:51.702813+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:15.0612299+00:00",
   "LastChanged": "2023-04-29T22:57:51.7028131+00:00",
-  "LastChanged_Achievements": "2023-05-22T07:05:10.6499478+00:00",
+  "LastChanged_Achievements": "2023-05-22T08:06:09.7502175+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.1178962+00:00",
-  "LastUpdate_Ratings": "2023-05-22T06:57:48.7470323+00:00",
-  "LastUpdate_Achievements": "2023-05-22T07:05:10.6500186+00:00"
+  "LastUpdate_Ratings": "2023-05-22T07:58:16.9039251+00:00",
+  "LastUpdate_Achievements": "2023-05-22T08:06:09.7503013+00:00"
 }

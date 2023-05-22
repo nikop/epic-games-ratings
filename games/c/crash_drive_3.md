@@ -41,9 +41,9 @@
 | Toot Toot! | 14.00% | ~43 |
 | Rocketman | 14.00% | ~43 |
 | Blasting away! | 14.00% | ~43 |
+| High Roller | 13.00% | ~40 |
 | Earth Defense Force | 13.00% | ~40 |
-| High Roller | 12.00% | ~37 |
-| Event Pro | 10.00% | ~31 |
+| Event Pro | 11.00% | ~34 |
 | Space Crash | 8.00% | ~25 |
 | To war! | 8.00% | ~25 |
 | Hoarder | 7.00% | ~22 |

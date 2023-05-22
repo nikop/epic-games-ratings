@@ -26,8 +26,8 @@ Rating: 4.55 (Ranked 468)
 | Please Make it Stop! | 1.00% | ~21 |
 | Access Granted | 0.90% | ~19 |
 | Necessary Enhancement | 0.90% | ~19 |
+| Sightseeing | 0.80% | ~17 |
 | From the Past | 0.80% | ~17 |
-| Sightseeing | 0.70% | ~14 |
 | Man's Best Friend | 0.60% | ~12 |
 | In Dolos We Trust | 0.60% | ~12 |
 | BRAWL! | 0.60% | ~12 |

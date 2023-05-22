@@ -2480,9 +2480,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 9054,
+  "EOS_Progressed": 9059,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4175,6 +4175,11 @@
       "Time": "2023-05-22T07:05:40.0861289+00:00",
       "NumProgressed": 9054,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T08:06:45.4679615+00:00",
+      "NumProgressed": 9059,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -4250,7 +4255,7 @@
       "Name": "Path of the Demon",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "10_PathOfAzata",
@@ -4322,7 +4327,7 @@
       "Name": "Mythic Choices",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "19_EqualToAroden",
@@ -4434,7 +4439,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -4554,7 +4559,7 @@
       "Name": "A Spark",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "49_Flame",
@@ -5113,21 +5118,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7836,
+      "Progressed": 7841,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9054,
+      "Progressed": 9059,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-22T02:04:20.9087258+00:00",
-  "LastChanged_Achievements": "2023-05-22T07:05:40.0861285+00:00",
+  "LastChanged_Achievements": "2023-05-22T08:06:45.4679609+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3010226+00:00",
-  "LastUpdate_Ratings": "2023-05-22T06:58:03.2909381+00:00",
-  "LastUpdate_Achievements": "2023-05-22T07:05:40.0862992+00:00"
+  "LastUpdate_Ratings": "2023-05-22T07:58:36.4645962+00:00",
+  "LastUpdate_Achievements": "2023-05-22T08:06:45.4681698+00:00"
 }

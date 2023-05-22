@@ -5,24 +5,24 @@ Rating: 3.72 (Ranked 922)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 37.00% | ~284 |
-| Electrician | 27.00% | ~207 |
-| Fear my botany powers, Mars | 24.00% | ~184 |
-| Zero Waste | 20.00% | ~153 |
+| I don't feel so good | 38.00% | ~293 |
+| Electrician | 27.00% | ~208 |
+| Fear my botany powers, Mars | 24.00% | ~185 |
+| Zero Waste | 20.00% | ~154 |
 | Bob The Builder | 19.00% | ~146 |
-| I am the greatest botanist on this planet. | 18.00% | ~138 |
-| Houston we have a problem | 16.00% | ~123 |
-| Occupy Mars! | 15.00% | ~115 |
+| I am the greatest botanist on this planet. | 18.00% | ~139 |
+| Houston we have a problem | 15.00% | ~116 |
+| Occupy Mars! | 15.00% | ~116 |
 | Miner | 13.00% | ~100 |
-| Gardener | 11.00% | ~84 |
-| Detective | 8.00% | ~61 |
+| Gardener | 11.00% | ~85 |
+| Detective | 8.00% | ~62 |
 | Get your hands dirty | 5.00% | ~38 |
 | The Collector | 4.00% | ~31 |
 | All Wheel Trouble | 4.00% | ~31 |
 | ITS crash site | 2.00% | ~15 |
 | Space Forest | 2.00% | ~15 |
 | “Aliens” | 1.00% | ~8 |
-| DeDust | 0.70% | ~5 |
+| DeDust | 0.60% | ~5 |
 | Caveman | 0.40% | ~3 |
 | Plumber | 0.40% | ~3 |
 | Driver's License | 0.30% | ~2 |
@@ -54,7 +54,7 @@ Rating: 3.72 (Ranked 922)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 767 (Ranked 177)  
+Progressed: 770 (Ranked 177)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-19 | 540 | 0 |
 | 2023-05-20 | 675 | 0 |
 | 2023-05-21 | 760 | 0 |
-| 2023-05-22 | 767 | 0 |
+| 2023-05-22 | 770 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

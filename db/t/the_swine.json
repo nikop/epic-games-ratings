@@ -4,7 +4,7 @@
   "ProductSlug": "the-swine-41226a",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-30T00:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:52:53.7111423+00:00",
-  "LastChanged_Achievements": "2023-05-22T07:05:25.6341139+00:00",
+  "LastChanged_Achievements": "2023-05-22T08:06:27.623234+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:55.7174809+00:00",
-  "LastUpdate_Ratings": "2023-05-22T06:59:44.2789122+00:00",
-  "LastUpdate_Achievements": "2023-05-22T07:05:25.6341166+00:00"
+  "LastUpdate_Ratings": "2023-05-22T08:00:53.079518+00:00",
+  "LastUpdate_Achievements": "2023-05-22T08:06:27.6232444+00:00"
 }

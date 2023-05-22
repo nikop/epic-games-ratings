@@ -13,7 +13,7 @@ Number of Ratings: 180  (23.09.2022)
 | First passenger on board | 66.00% | ~742 |
 | First passenger waiting | 66.00% | ~742 |
 | First bus arrived | 65.00% | ~731 |
-| First train station | 63.00% | ~709 |
+| First train station | 64.00% | ~720 |
 | First steam train arrived | 59.00% | ~664 |
 | First industry upgraded | 56.00% | ~630 |
 | Transport millionaire | 55.00% | ~619 |
@@ -38,8 +38,8 @@ Number of Ratings: 180  (23.09.2022)
 | The king of the sea | 28.00% | ~315 |
 | Transport tycoon | 24.00% | ~270 |
 | Climate change | 23.00% | ~259 |
+| Old timer | 22.00% | ~248 |
 | The ugly smell of success | 22.00% | ~248 |
-| Old timer | 21.00% | ~236 |
 | Heavily loaded | 20.00% | ~225 |
 | Bob Ross | 16.00% | ~180 |
 | Campaign expert | 11.00% | ~124 |

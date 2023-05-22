@@ -2,12 +2,12 @@
   "ID": "f575ebe4cc43491c95e5e01e5741a031",
   "Name": "Stranded: Alien Dawn",
   "ProductSlug": "stranded-alien-dawn",
-  "Ranking_Rating": 557,
+  "Ranking_Rating": 535,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-25T12:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "stranded-alien-dawn"
     }
   },
-  "Rating": 4.49,
+  "Rating": 4.5,
   "RatingHistory": [
     {
       "Time": "2023-04-25T13:05:45.0799844+00:00",
@@ -108,6 +108,12 @@
       "Rating": 4.49,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-22T07:59:21.4206437+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -126,8 +132,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-25T13:05:45.0799807+00:00",
   "FirstSeenRating": "2023-04-25T13:05:45.0799839+00:00",
-  "LastChanged": "2023-05-21T07:58:46.0016268+00:00",
+  "LastChanged": "2023-05-22T07:59:21.4206435+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:14.179633+00:00",
-  "LastUpdate_Ratings": "2023-05-22T06:58:34.3550184+00:00",
-  "LastUpdate_Achievements": "2023-05-22T07:04:13.1549237+00:00"
+  "LastUpdate_Ratings": "2023-05-22T07:59:21.4206441+00:00",
+  "LastUpdate_Achievements": "2023-05-22T08:04:46.576081+00:00"
 }

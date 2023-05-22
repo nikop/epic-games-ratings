@@ -4,7 +4,7 @@
   "ProductSlug": "days-of-war",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": null,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-19T19:11:50.7009139+00:00",
-  "LastUpdate_Ratings": "2023-05-22T06:59:34.5584426+00:00",
-  "LastUpdate_Achievements": "2023-05-22T07:04:39.5670828+00:00"
+  "LastUpdate_Ratings": "2023-05-22T08:00:37.6088878+00:00",
+  "LastUpdate_Achievements": "2023-05-22T08:05:30.2941937+00:00"
 }

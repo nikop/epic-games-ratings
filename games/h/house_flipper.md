@@ -1,7 +1,7 @@
 # House Flipper
 [Store](https://store.epicgames.com/en-US/p/house-flipper)  
 [View Rawdata](../../db/h/house_flipper.json)  
-Rating: 4.70 (Ranked 193)  
+Rating: 4.70 (Ranked 192)  
 Number of Ratings: 1,023  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |

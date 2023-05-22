@@ -410,9 +410,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 13267,
+  "EOS_Progressed": 13268,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 703,
+  "EOS_NewPlayers": 704,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1145,6 +1145,11 @@
       "Time": "2023-05-22T07:02:20.0422886+00:00",
       "NumProgressed": 13267,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-05-22T08:02:24.9398487+00:00",
+      "NumProgressed": 13268,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 40,
@@ -1186,9 +1191,9 @@
       "ID": "DISARM_ENEMY",
       "SetID": "4hj6d86",
       "Name": "Flesh Wound",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 531
+      "UsersEstimate": 663
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -1322,9 +1327,9 @@
       "ID": "PRINT_UPGRADE",
       "SetID": "4hj6d86",
       "Name": "Reforged",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 66
     },
     {
       "ID": "PRINT_WEAPON",
@@ -1475,13 +1480,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13267,
+      "Progressed": 13268,
       "Completed": 52
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1193,
+      "Progressed": 1194,
       "Completed": 29
     }
   ],
@@ -1489,8 +1494,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-16T17:57:38.030273+00:00",
-  "LastChanged_Achievements": "2023-05-22T07:02:20.042288+00:00",
+  "LastChanged_Achievements": "2023-05-22T08:02:24.9398478+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-22T06:57:38.2204085+00:00",
-  "LastUpdate_Achievements": "2023-05-22T07:02:20.0423244+00:00"
+  "LastUpdate_Ratings": "2023-05-22T07:58:04.3654887+00:00",
+  "LastUpdate_Achievements": "2023-05-22T08:02:24.9398876+00:00"
 }

@@ -7,16 +7,19 @@
 | Your Journey Begins | 90.00% | ~9 |
 | The Boy That Came With The Rain | 60.00% | ~6 |
 | Welcome To The Kabaret | 50.00% | ~5 |
-| Congkak Hero | 30.00% | ~3 |
-| Congkak Champion | 30.00% | ~3 |
+| Congkak Hero | 40.00% | ~4 |
+| Congkak Champion | 40.00% | ~4 |
+| Let There Be Light | 40.00% | ~4 |
+| Equality | 30.00% | ~3 |
 | Goodbye Dear Friend | 30.00% | ~3 |
 | An Unheard Song | 30.00% | ~3 |
 | By My Own Hands | 30.00% | ~3 |
-| Let There Be Light | 30.00% | ~3 |
 | All Alone With A Curse | 30.00% | ~3 |
 | Strangers You Meet | 20.00% | ~2 |
 | I'll Become... A Beast | 20.00% | ~2 |
-| Equality | 20.00% | ~2 |
+| True Potential Unlocked | 20.00% | ~2 |
+| Guli Novice | 20.00% | ~2 |
+| Guli Pro | 20.00% | ~2 |
 | Squashed Bug | 20.00% | ~2 |
 | Till Death Do We... | 20.00% | ~2 |
 | Eating A Dead Flower | 20.00% | ~2 |
@@ -25,10 +28,8 @@
 | Clipped Wings | 20.00% | ~2 |
 | Lady In The Book | 20.00% | ~2 |
 | Losing A Small, Good Thing | 10.00% | ~1 |
+| Faithful Follower | 10.00% | ~1 |
 | Rebel To God | 10.00% | ~1 |
-| True Potential Unlocked | 10.00% | ~1 |
-| Guli Novice | 10.00% | ~1 |
-| Guli Pro | 10.00% | ~1 |
 | Guli Master | 10.00% | ~1 |
 | Congkak Legend | 10.00% | ~1 |
 | In Service Of Others | 10.00% | ~1 |
@@ -47,12 +48,12 @@
 | Power Of Friendship | 10.00% | ~1 |
 | Be Cruel To Be Kind | 10.00% | ~1 |
 | An End To History | 10.00% | ~1 |
+| A New Hope | 10.00% | ~1 |
 | For The Greater Good | 10.00% | ~1 |
 | I Am Vengeance | 10.00% | ~1 |
 | Sowing The Seeds of Destruction | 10.00% | ~1 |
 | At The End of The World, It's Just Two of Us | 10.00% | ~1 |
 | The World Is Mine, And I Don't Want It | 10.00% | ~1 |
-| Faithful Follower | 0.00% | ~0 |
 | I See The Truth | 0.00% | ~0 |
 | True Devourer | 0.00% | ~0 |
 | Unbiased | 0.00% | ~0 |
@@ -64,7 +65,6 @@
 | I Enjoy Death | 0.00% | ~0 |
 | I Don't Want To Dirty My Hands | 0.00% | ~0 |
 | Baby Food | 0.00% | ~0 |
-| A New Hope | 0.00% | ~0 |
 | King Blood Chaser | 0.00% | ~0 |
 | Top Of The Food Chain | 0.00% | ~0 |
 | Indulging In The Flesh | 0.00% | ~0 |

@@ -2676,9 +2676,9 @@
       "Count": 481
     }
   ],
-  "EOS_Progressed": 270652,
+  "EOS_Progressed": 270666,
   "EOS_Completed": 366,
-  "EOS_NewPlayers": 3486,
+  "EOS_NewPlayers": 3497,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5701,6 +5701,11 @@
       "Time": "2023-05-22T07:03:38.7633745+00:00",
       "NumProgressed": 270652,
       "NumCompleted": 366
+    },
+    {
+      "Time": "2023-05-22T08:04:15.9996254+00:00",
+      "NumProgressed": 270666,
+      "NumCompleted": 366
     }
   ],
   "TotalAchievements": 45,
@@ -5712,7 +5717,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16239
+      "UsersEstimate": 16240
     },
     {
       "ID": "PFA_10",
@@ -5720,7 +5725,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16239
+      "UsersEstimate": 16240
     },
     {
       "ID": "PFA_11",
@@ -5728,7 +5733,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 16239
+      "UsersEstimate": 16240
     },
     {
       "ID": "PFA_12",
@@ -5736,7 +5741,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 16239
+      "UsersEstimate": 16240
     },
     {
       "ID": "PFA_13",
@@ -5744,7 +5749,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 16239
+      "UsersEstimate": 16240
     },
     {
       "ID": "PFA_14",
@@ -5768,7 +5773,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16239
+      "UsersEstimate": 16240
     },
     {
       "ID": "PFA_17",
@@ -5776,7 +5781,7 @@
       "Name": "Beast Friends",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10826
+      "UsersEstimate": 10827
     },
     {
       "ID": "PFA_18",
@@ -5792,7 +5797,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 10826
+      "UsersEstimate": 10827
     },
     {
       "ID": "PFA_2",
@@ -5936,7 +5941,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10826
+      "UsersEstimate": 10827
     },
     {
       "ID": "PFA_36",
@@ -5968,7 +5973,7 @@
       "Name": "Coasting Along",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16239
+      "UsersEstimate": 16240
     },
     {
       "ID": "PFA_4",
@@ -6071,7 +6076,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 270652,
+      "Progressed": 270666,
       "Completed": 366
     }
   ],
@@ -6079,8 +6084,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-05-22T02:03:28.0534204+00:00",
-  "LastChanged_Achievements": "2023-05-22T07:03:38.7633741+00:00",
+  "LastChanged_Achievements": "2023-05-22T08:04:15.9996247+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:06.7022297+00:00",
-  "LastUpdate_Ratings": "2023-05-22T06:57:10.8152179+00:00",
-  "LastUpdate_Achievements": "2023-05-22T07:03:38.7634311+00:00"
+  "LastUpdate_Ratings": "2023-05-22T07:57:25.4079809+00:00",
+  "LastUpdate_Achievements": "2023-05-22T08:04:15.9996824+00:00"
 }

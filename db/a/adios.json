@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 46,
+  "Ranking_EOS_NewPlayers": 47,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -48,9 +48,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57304,
+  "EOS_Progressed": 57308,
   "EOS_Completed": 468,
-  "EOS_NewPlayers": 1300,
+  "EOS_NewPlayers": 1299,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -3163,6 +3163,11 @@
       "Time": "2023-05-22T07:05:34.5052885+00:00",
       "NumProgressed": 57304,
       "NumCompleted": 468
+    },
+    {
+      "Time": "2023-05-22T08:06:38.4812162+00:00",
+      "NumProgressed": 57308,
+      "NumCompleted": 468
     }
   ],
   "TotalAchievements": 25,
@@ -3206,7 +3211,7 @@
       "Name": "Be Seeing You",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 12034
+      "UsersEstimate": 12035
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -3246,7 +3251,7 @@
       "Name": "Hard Worker",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 10888
+      "UsersEstimate": 10889
     },
     {
       "ID": "Hearty",
@@ -3262,7 +3267,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 5157
+      "UsersEstimate": 5158
     },
     {
       "ID": "Magnetic Miracles",
@@ -3278,7 +3283,7 @@
       "Name": "Master, Commander",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 11461
+      "UsersEstimate": 11462
     },
     {
       "ID": "Meaty",
@@ -3318,7 +3323,7 @@
       "Name": "Piano Man",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 5730
+      "UsersEstimate": 5731
     },
     {
       "ID": "Right On Target",
@@ -3366,14 +3371,14 @@
       "Name": "Vinyl Vibes",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4011
+      "UsersEstimate": 4012
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 57304,
+      "Progressed": 57308,
       "Completed": 468
     }
   ],
@@ -3381,8 +3386,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-05-11T21:00:12.8058431+00:00",
-  "LastChanged_Achievements": "2023-05-22T07:05:34.5052881+00:00",
+  "LastChanged_Achievements": "2023-05-22T08:06:38.4812156+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:41.144581+00:00",
-  "LastUpdate_Ratings": "2023-05-22T07:00:03.660037+00:00",
-  "LastUpdate_Achievements": "2023-05-22T07:05:34.5053273+00:00"
+  "LastUpdate_Ratings": "2023-05-22T08:01:16.3256194+00:00",
+  "LastUpdate_Achievements": "2023-05-22T08:06:38.4812544+00:00"
 }

@@ -48,15 +48,15 @@
 | Spot of Tea? | 29.00% | ~229 |
 | Going Home | 29.00% | ~229 |
 | Mirror, Mirror | 27.00% | ~213 |
-| Flower Power | 24.00% | ~189 |
+| Flower Power | 25.00% | ~197 |
 | Shopping Spree! | 21.00% | ~166 |
 | Crowned | 21.00% | ~166 |
-| Max Level! | 13.00% | ~103 |
+| Max Level! | 14.00% | ~110 |
 | Dance Master | 8.00% | ~63 |
 | Bombs Away! | 8.00% | ~63 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 789 (Ranked 174)  
-Completed: 53 (6.72%) (Ranked 23)  
+Completed: 55 (6.97%) (Ranked 22)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -85,7 +85,7 @@ Completed: 53 (6.72%) (Ranked 23)
 | 2023-05-19 | 702 | 46 |
 | 2023-05-20 | 739 | 47 |
 | 2023-05-21 | 781 | 51 |
-| 2023-05-22 | 789 | 53 |
+| 2023-05-22 | 789 | 55 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

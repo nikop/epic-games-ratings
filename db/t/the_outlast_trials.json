@@ -2,12 +2,12 @@
   "ID": "6504cc61472e498796e0b4963a201438",
   "Name": "The Outlast Trials",
   "ProductSlug": "the-outlast-trials",
-  "Ranking_Rating": 177,
+  "Ranking_Rating": 192,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-05-18T17:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.71,
+  "Rating": 4.7,
   "RatingHistory": [
     {
       "Time": "2023-05-20T18:00:30.4536489+00:00",
@@ -52,6 +52,12 @@
       "Rating": 4.71,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-22T08:01:22.3816664+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -70,8 +76,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-18T20:02:29.2906541+00:00",
   "FirstSeenRating": "2023-05-20T18:00:30.4536484+00:00",
-  "LastChanged": "2023-05-21T22:01:01.9301146+00:00",
+  "LastChanged": "2023-05-22T08:01:22.3816662+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:52.7452003+00:00",
-  "LastUpdate_Ratings": "2023-05-22T07:00:09.2092794+00:00",
-  "LastUpdate_Achievements": "2023-05-22T07:04:58.0137138+00:00"
+  "LastUpdate_Ratings": "2023-05-22T08:01:22.3816669+00:00",
+  "LastUpdate_Achievements": "2023-05-22T08:05:54.128891+00:00"
 }
