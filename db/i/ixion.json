@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 143,
-  "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_Completed": 202,
+  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2075,
+  "EOS_Progressed": 2076,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1097,6 +1097,11 @@
       "Time": "2023-05-22T14:05:55.5546065+00:00",
       "NumProgressed": 2075,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T16:05:52.7202434+00:00",
+      "NumProgressed": 2076,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -1196,7 +1201,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_BASE_22",
@@ -1563,13 +1568,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 256,
+      "Progressed": 257,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2075,
+      "Progressed": 2076,
       "Completed": 0
     }
   ],
@@ -1577,8 +1582,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-05-13T22:58:30.2604361+00:00",
-  "LastChanged_Achievements": "2023-05-22T15:05:57.4627843+00:00",
+  "LastChanged_Achievements": "2023-05-22T16:05:52.7202428+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.7103468+00:00",
-  "LastUpdate_Ratings": "2023-05-22T14:58:31.6766263+00:00",
-  "LastUpdate_Achievements": "2023-05-22T15:05:57.4628322+00:00"
+  "LastUpdate_Ratings": "2023-05-22T15:58:42.1427178+00:00",
+  "LastUpdate_Achievements": "2023-05-22T16:05:52.7203075+00:00"
 }

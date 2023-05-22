@@ -2,20 +2,20 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 674,
+  "Ranking_Rating": 729,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 159,
-  "Ranking_EOS_Completed": 144,
+  "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.4,
+  "Rating": 4.34,
   "RatingHistory": [
     {
       "Time": "2023-03-27T02:57:24.3255682+00:00",
@@ -176,15 +176,21 @@
       "Rating": 4.4,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-22T16:01:02.9174494+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1180,
+  "EOS_Progressed": 1192,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 460,
+  "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1032,6 +1038,11 @@
       "Time": "2023-05-22T15:05:59.594946+00:00",
       "NumProgressed": 1180,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-22T16:05:54.6377525+00:00",
+      "NumProgressed": 1192,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1051,7 +1062,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -1083,15 +1094,15 @@
       "Name": "Enemy at the Gates",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
       "SetID": "bm6el81",
       "Name": "Fields of Glory",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -1123,7 +1134,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1171,7 +1182,7 @@
       "Name": "Skirmisher",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -1179,7 +1190,7 @@
       "Name": "Sharpshooter",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -1187,7 +1198,7 @@
       "Name": "The Long Game",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -1211,7 +1222,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1225,9 +1236,9 @@
       "ID": "REWARD_32_RIGGED_BLOW",
       "SetID": "bm6el81",
       "Name": "Rigged to Blow",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -1251,7 +1262,7 @@
       "Name": "Lord of War",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -1267,7 +1278,7 @@
       "Name": "Resourceful",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -1291,7 +1302,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -1355,7 +1366,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -1610,22 +1621,22 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1131,
+      "Progressed": 1143,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1180,
+      "Progressed": 1192,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-03-07T14:57:33.0234716+00:00",
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
-  "LastChanged": "2023-05-21T20:01:20.196422+00:00",
-  "LastChanged_Achievements": "2023-05-22T15:05:59.5949456+00:00",
+  "LastChanged": "2023-05-22T16:01:02.9174493+00:00",
+  "LastChanged_Achievements": "2023-05-22T16:05:54.637752+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-22T15:01:03.9157223+00:00",
-  "LastUpdate_Achievements": "2023-05-22T15:05:59.5950013+00:00"
+  "LastUpdate_Ratings": "2023-05-22T16:01:02.91745+00:00",
+  "LastUpdate_Achievements": "2023-05-22T16:05:54.6378303+00:00"
 }

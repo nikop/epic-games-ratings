@@ -23,7 +23,7 @@
 | That's my boy! | 3.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 148 (Ranked 247)  
-Completed: 3 (2.03%) (Ranked 63)  
+Completed: 3 (2.03%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

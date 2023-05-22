@@ -3,9 +3,9 @@
   "Name": "Project Highrise",
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 238,
-  "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_Completed": 202,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2016-09-07T23:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 167,
+  "EOS_Progressed": 168,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -117,6 +117,11 @@
       "Time": "2023-05-22T02:11:52.9288055+00:00",
       "NumProgressed": 167,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T16:06:23.9001018+00:00",
+      "NumProgressed": 168,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -142,9 +147,9 @@
       "ID": "ach_apartments_1",
       "SetID": "b8gh1fi",
       "Name": "Lux Living",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "ach_apartments_2",
@@ -160,7 +165,7 @@
       "Name": "Floor Galore",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ach_area_1",
@@ -176,7 +181,7 @@
       "Name": "Artfully Done",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ach_art_large",
@@ -214,9 +219,9 @@
       "ID": "ach_buzz",
       "SetID": "b8gh1fi",
       "Name": "Campaign Launch",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 67
     },
     {
       "ID": "ach_campaigns_1",
@@ -430,9 +435,9 @@
       "ID": "ach_floors",
       "SetID": "b8gh1fi",
       "Name": "Starting Skyward",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 87
     },
     {
       "ID": "ach_floors_1",
@@ -462,9 +467,9 @@
       "ID": "ach_grime",
       "SetID": "b8gh1fi",
       "Name": "Grime is Not Good",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 77
     },
     {
       "ID": "ach_grime_1",
@@ -472,23 +477,23 @@
       "Name": "Delegate Maintenance",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ach_grime_2",
       "SetID": "b8gh1fi",
       "Name": "Rehab Expert",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "ach_happy",
       "SetID": "b8gh1fi",
       "Name": "Happy Tenants",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "ach_loan",
@@ -496,7 +501,7 @@
       "Name": "Don\u0027t Feel a Loan",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ach_mod_1",
@@ -576,7 +581,7 @@
       "Name": "Established Fame",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ach_prestige_3",
@@ -600,7 +605,7 @@
       "Name": "Swimming in Surplus",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ach_profit_2",
@@ -648,7 +653,7 @@
       "Name": "Dinner Dash",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ach_restaurants_4",
@@ -656,7 +661,7 @@
       "Name": "Potent Potables",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ach_restaurants_5",
@@ -664,15 +669,15 @@
       "Name": "Starred Dining",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ach_retail_1",
       "SetID": "b8gh1fi",
       "Name": "Retail Revenue",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "ach_retail_2",
@@ -680,15 +685,15 @@
       "Name": "Emporium Empire",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ach_retail_3",
       "SetID": "b8gh1fi",
       "Name": "Leveled Up Shops",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "ach_retail_4",
@@ -704,7 +709,7 @@
       "Name": "Cashflow Chief",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ach_revs_2",
@@ -752,7 +757,7 @@
       "Name": "Smooth Service",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ach_trash_1",
@@ -800,7 +805,7 @@
       "Name": "Get Electrified",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ach_util_water",
@@ -814,9 +819,9 @@
       "ID": "ach_veryhappy",
       "SetID": "b8gh1fi",
       "Name": "Thrilled Tenants",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "ach_visitors_1",
@@ -831,7 +836,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 167,
+      "Progressed": 168,
       "Completed": 0
     }
   ],
@@ -839,8 +844,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-05-22T15:06:30.7606783+00:00",
+  "LastChanged_Achievements": "2023-05-22T16:06:23.9001012+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:39.3542327+00:00",
-  "LastUpdate_Ratings": "2023-05-22T14:58:06.9110001+00:00",
-  "LastUpdate_Achievements": "2023-05-22T15:06:30.7607644+00:00"
+  "LastUpdate_Ratings": "2023-05-22T15:58:19.0187507+00:00",
+  "LastUpdate_Achievements": "2023-05-22T16:06:23.9002796+00:00"
 }

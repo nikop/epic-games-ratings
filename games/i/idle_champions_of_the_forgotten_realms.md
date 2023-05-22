@@ -22,6 +22,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Are Ya Chicken? | 0.20% | ~177 |
 | Mad Cow Disease | 0.20% | ~177 |
 | Friendly Imps | 0.20% | ~177 |
+| Pure Energy | 0.20% | ~177 |
 | Maddening | 0.10% | ~88 |
 | Pros and CONs | 0.10% | ~88 |
 | Upholding the Law | 0.10% | ~88 |
@@ -478,7 +479,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Reghed Glacier Mysteries | 0.10% | ~55 |
 | Mysteries Unlocked | 0.10% | ~55 |
 | Male Pattern Boldness | 0.10% | ~55 |
-| Pure Energy | 0.10% | ~88 |
 | Tekeli-li's Hunt | 0.10% | ~55 |
 | Cackling Horror | 0.10% | ~55 |
 | Working for the Weak End | 0.10% | ~55 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.10% | ~88 |
 | Rescue in the Jungle | 0.10% | ~88 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,303 (Ranked 60)  
-Completed: 1,862 (2.11%) (Ranked 62)  
+Progressed: 88,308 (Ranked 60)  
+Completed: 1,862 (2.11%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -532,7 +532,7 @@ Completed: 1,862 (2.11%) (Ranked 62)
 | 2023-05-19 | 88,008 | 1,851 |
 | 2023-05-20 | 88,132 | 1,854 |
 | 2023-05-21 | 88,251 | 1,860 |
-| 2023-05-22 | 88,303 | 1,862 |
+| 2023-05-22 | 88,308 | 1,862 |
 ## Awards
 Max (Diverse Characters): 4,892  (Ranked 64)  
 Sum: 29,945 (Ranked 37)  

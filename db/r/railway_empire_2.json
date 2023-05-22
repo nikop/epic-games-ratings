@@ -3,9 +3,9 @@
   "Name": "Railway Empire 2",
   "ProductSlug": "railway-empire-2-46840c",
   "Ranking_EOS_Progress": 332,
-  "Ranking_EOS_Completed": 201,
+  "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -173,9 +173,9 @@
       "ID": "A13",
       "SetID": "9b7p7eo",
       "Name": "Seven at one stroke",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "A14",
@@ -205,9 +205,9 @@
       "ID": "A17",
       "SetID": "9b7p7eo",
       "Name": "Facility Manager",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "A18",
@@ -421,9 +421,9 @@
       "ID": "A44",
       "SetID": "9b7p7eo",
       "Name": "Breaking Ground",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "A45",
@@ -515,8 +515,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged_Achievements": "2023-05-22T15:06:13.4054829+00:00",
+  "LastChanged_Achievements": "2023-05-22T16:06:07.5073835+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:39.7708852+00:00",
-  "LastUpdate_Ratings": "2023-05-22T14:58:05.9765979+00:00",
-  "LastUpdate_Achievements": "2023-05-22T15:06:13.4055354+00:00"
+  "LastUpdate_Ratings": "2023-05-22T15:58:18.2425952+00:00",
+  "LastUpdate_Achievements": "2023-05-22T16:06:07.5074655+00:00"
 }

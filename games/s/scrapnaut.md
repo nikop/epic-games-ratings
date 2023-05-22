@@ -1,20 +1,20 @@
 # Scrapnaut
 [Store](https://store.epicgames.com/en-US/p/scrapnaut)  
 [View Rawdata](../../db/s/scrapnaut.json)  
-Rating: 4.34 (Ranked 730)  
+Rating: 4.34 (Ranked 729)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Scrap Gatherer | 57.00% | ~109 |
-| My New Home | 56.00% | ~107 |
+| My New Home | 57.00% | ~109 |
 | Mushroom Picker | 55.00% | ~105 |
 | Scrapper | 48.00% | ~92 |
-| Cook | 40.00% | ~76 |
+| Cook | 41.00% | ~78 |
 | Scrap Master | 37.00% | ~71 |
 | Teleport | 36.00% | ~69 |
-| Digger | 33.00% | ~63 |
-| Smelter | 33.00% | ~63 |
+| Digger | 34.00% | ~65 |
+| Smelter | 34.00% | ~65 |
 | Electro-Scrap Gatherer | 31.00% | ~59 |
 | Robot Destroyer | 29.00% | ~55 |
 | Survivor | 29.00% | ~55 |
@@ -39,7 +39,7 @@ Number of Ratings: 38  (23.09.2022)
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 191 (Ranked 230)  
-Completed: 0 (0.00%) (Ranked 201)  
+Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

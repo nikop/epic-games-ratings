@@ -56,6 +56,7 @@
 | Self-indulgent | 10.00% | ~1 |
 | Breaking In The Horse | 10.00% | ~1 |
 | To Live And Die Free | 10.00% | ~1 |
+| I Enjoy Death | 10.00% | ~1 |
 | Be Cruel To Be Kind | 10.00% | ~1 |
 | A New Hope | 10.00% | ~1 |
 | I Take The Tiger Upon Myself | 10.00% | ~1 |
@@ -63,7 +64,6 @@
 | True Devourer | 0.00% | ~0 |
 | Mayang's Song | 0.00% | ~0 |
 | Sweetheart | 0.00% | ~0 |
-| I Enjoy Death | 0.00% | ~0 |
 | I Don't Want To Dirty My Hands | 0.00% | ~0 |
 | Baby Food | 0.00% | ~0 |
 | King Blood Chaser | 0.00% | ~0 |
@@ -73,7 +73,7 @@
 | I Am A Beast | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 10 (Ranked 332)  
-Completed: 0 (0.00%) (Ranked 201)  
+Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1,23 +1,24 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.40 (Ranked 674)  
+Rating: 4.34 (Ranked 729)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 12.00% | ~142 |
-| Confirming Suspicions | 8.00% | ~94 |
-| The Kraken Wakes | 5.00% | ~59 |
-| Lord of War | 4.00% | ~47 |
-| Enemy at the Gates | 3.00% | ~35 |
-| Resourceful | 3.00% | ~35 |
-| It's Starting to Crack | 3.00% | ~35 |
+| Meeting Resistance | 12.00% | ~143 |
+| Confirming Suspicions | 8.00% | ~95 |
+| The Kraken Wakes | 5.00% | ~60 |
+| Lord of War | 4.00% | ~48 |
+| Enemy at the Gates | 3.00% | ~36 |
+| Resourceful | 3.00% | ~36 |
+| It's Starting to Crack | 3.00% | ~36 |
 | Just a Flesh Wound | 2.00% | ~24 |
 | Organ Grinder | 2.00% | ~24 |
 | Explosive Efficiency | 2.00% | ~24 |
 | As Quiet as a Mouse | 2.00% | ~24 |
 | Change the Channel | 2.00% | ~24 |
 | Opposing Force | 1.00% | ~12 |
+| Fields of Glory | 1.00% | ~12 |
 | Gunslinger | 1.00% | ~12 |
 | Die Nussknacker Sweet! | 1.00% | ~12 |
 | Close Quarters | 1.00% | ~12 |
@@ -25,16 +26,15 @@ Rating: 4.40 (Ranked 674)
 | Taking it back | 1.00% | ~12 |
 | Target America | 1.00% | ~12 |
 | The Kraken Sleeps | 1.00% | ~12 |
-| Fields of Glory | 0.90% | ~11 |
 | Precision Is Key | 0.90% | ~11 |
-| Liberté | 0.80% | ~9 |
-| Skirmisher | 0.80% | ~9 |
-| Sharpshooter | 0.80% | ~9 |
-| The Long Game | 0.80% | ~9 |
+| Liberté | 0.80% | ~10 |
+| Skirmisher | 0.80% | ~10 |
+| Sharpshooter | 0.80% | ~10 |
+| The Long Game | 0.80% | ~10 |
 | Der Geist | 0.70% | ~8 |
 | Climbing the Ladder | 0.60% | ~7 |
 | Set Europe Ablaze | 0.60% | ~7 |
-| Rigged to Blow | 0.50% | ~6 |
+| Rigged to Blow | 0.60% | ~7 |
 | It'll Buff Right Out | 0.40% | ~5 |
 | Brains of the Operation | 0.40% | ~5 |
 | No Stone Unturned | 0.30% | ~4 |
@@ -77,8 +77,8 @@ Rating: 4.40 (Ranked 674)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,180 (Ranked 159)  
-Completed: 2 (0.17%) (Ranked 144)  
+Progressed: 1,192 (Ranked 159)  
+Completed: 2 (0.17%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -108,7 +108,7 @@ Completed: 2 (0.17%) (Ranked 144)
 | 2023-05-19 | 833 | 2 |
 | 2023-05-20 | 984 | 2 |
 | 2023-05-21 | 1,126 | 2 |
-| 2023-05-22 | 1,180 | 2 |
+| 2023-05-22 | 1,192 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -138,3 +138,4 @@ Completed: 2 (0.17%) (Ranked 144)
 | 2023-05-16 | 4.40 | 0 | 0 |
 | 2023-05-18 | 4.41 | 0 | 0 |
 | 2023-05-21 | 4.40 | 0 | 0 |
+| 2023-05-22 | 4.34 | 0 | 0 |

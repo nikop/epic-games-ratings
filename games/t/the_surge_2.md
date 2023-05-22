@@ -6,20 +6,20 @@ Rating: 4.24 (Ranked 790)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 80.00% | ~1,270 |
-| Don't I Know You...? | 77.00% | ~1,222 |
-| Jailbreak | 66.00% | ~1,047 |
+| Don't I Know You...? | 77.00% | ~1,223 |
+| Jailbreak | 66.00% | ~1,048 |
 | Suited and Booted | 38.00% | ~603 |
-| HEADSHOT! | 37.00% | ~587 |
-| Sleeping With The Fishes | 35.00% | ~555 |
+| HEADSHOT! | 37.00% | ~588 |
+| Sleeping With The Fishes | 35.00% | ~556 |
 | Overheated | 30.00% | ~476 |
 | High Performance | 30.00% | ~476 |
-| Powered Up | 28.00% | ~444 |
-| Studied The Blade | 25.00% | ~397 |
+| Powered Up | 28.00% | ~445 |
+| Studied The Blade | 24.00% | ~381 |
 | Home Invasion | 22.00% | ~349 |
 | Luminary | 22.00% | ~349 |
 | It's a Trap | 22.00% | ~349 |
 | True Survivor | 21.00% | ~333 |
-| Shocking | 20.00% | ~317 |
+| Shocking | 20.00% | ~318 |
 | Court Martial | 19.00% | ~302 |
 | Offensive Defense | 19.00% | ~302 |
 | Unforeseeable Consequences | 19.00% | ~302 |
@@ -32,8 +32,8 @@ Rating: 4.24 (Ranked 790)
 | Where It All Began | 13.00% | ~206 |
 | Risk Tolerant | 13.00% | ~206 |
 | What A Catchy Song | 13.00% | ~206 |
-| Marked For Success | 12.00% | ~190 |
-| Sorry, Didn't See You There | 12.00% | ~190 |
+| Marked For Success | 12.00% | ~191 |
+| Sorry, Didn't See You There | 12.00% | ~191 |
 | Corrupted Beauty | 11.00% | ~175 |
 | Triplets | 10.00% | ~159 |
 | Denying Prophecy | 9.00% | ~143 |
@@ -50,8 +50,8 @@ Rating: 4.24 (Ranked 790)
 | Remote Surgery | 5.00% | ~79 |
 | Counter-Sniper | 5.00% | ~79 |
 | Shrimp Cocktail | 5.00% | ~79 |
-| Geronimo! | 4.00% | ~63 |
-| Plank of Wood | 4.00% | ~63 |
+| Geronimo! | 4.00% | ~64 |
+| Plank of Wood | 4.00% | ~64 |
 | It Lives! It Sniffs! It Conquers! | 3.00% | ~48 |
 | Gotta Craft 'em All | 3.00% | ~48 |
 | Homewrecker | 3.00% | ~48 |
@@ -63,8 +63,8 @@ Rating: 4.24 (Ranked 790)
 | Swiss Army Drone | 1.00% | ~16 |
 | Three Birds With One Stone | 1.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,587 (Ranked 152)  
-Completed: 10 (0.63%) (Ranked 103)  
+Progressed: 1,588 (Ranked 152)  
+Completed: 10 (0.63%) (Ranked 104)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -87,7 +87,7 @@ Completed: 10 (0.63%) (Ranked 103)
 | 2023-05-19 | 1,566 | 10 |
 | 2023-05-20 | 1,575 | 10 |
 | 2023-05-21 | 1,584 | 10 |
-| 2023-05-22 | 1,587 | 10 |
+| 2023-05-22 | 1,588 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

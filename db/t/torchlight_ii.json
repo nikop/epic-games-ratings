@@ -4,11 +4,11 @@
   "ProductSlug": "torchlight-2",
   "Ranking_Rating": 417,
   "Ranking_Popularity": 139,
-  "Ranking_PopularitySum": 190,
+  "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 412,
-  "Ranking_EOS_Completed": 201,
+  "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2020-07-16T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1435,10 +1435,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 1908,
       "NumberOfAwardsMax": 974
+    },
+    {
+      "Time": "2023-05-22T16:00:54.8603566+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 1909,
+      "NumberOfAwardsMax": 974
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1908,
+  "NumberOfAwards": 1909,
   "NumberOfAwardsMax": 974,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1488,7 +1494,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 51
+      "Count": 52
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1520,8 +1526,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:22.1423084+00:00",
-  "LastChanged": "2023-05-22T02:06:08.7805758+00:00",
+  "LastChanged": "2023-05-22T16:00:54.8603564+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:31.1218032+00:00",
-  "LastUpdate_Ratings": "2023-05-22T15:00:53.7735407+00:00",
-  "LastUpdate_Achievements": "2023-05-22T15:05:27.9395377+00:00"
+  "LastUpdate_Ratings": "2023-05-22T16:00:54.8603573+00:00",
+  "LastUpdate_Achievements": "2023-05-22T16:05:25.108198+00:00"
 }

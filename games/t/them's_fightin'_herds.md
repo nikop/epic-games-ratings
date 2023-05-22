@@ -5,7 +5,7 @@ Rating: 4.63 (Ranked 329)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Once upon a time... | 35.00% | ~77,646 |
+| Once upon a time... | 36.00% | ~79,865 |
 | ... in the magical land of Foenum... | 34.00% | ~75,428 |
 | Be Gentle... | 22.00% | ~48,806 |
 | A Worthy Opponent | 17.00% | ~37,714 |
@@ -35,7 +35,7 @@ Rating: 4.63 (Ranked 329)
 | High Priestess | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 221,847 (Ranked 44)  
-Completed: 3 (0.00%) (Ranked 201)  
+Completed: 3 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

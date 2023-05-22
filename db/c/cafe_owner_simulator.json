@@ -3,9 +3,9 @@
   "Name": "Cafe Owner Simulator",
   "ProductSlug": "cafe-owner-simulator-749e0f",
   "Ranking_EOS_Progress": 206,
-  "Ranking_EOS_Completed": 201,
+  "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
     "PcReleaseDate": "2022-12-05T12:00:00+00:00",
@@ -556,9 +556,9 @@
       "ID": "FIRST_LOSED_VISITOR",
       "SetID": "64e5lgf",
       "Name": "OH NO, HE\u0027S LEAVING!",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 250
     },
     {
       "ID": "INTRODUCTION",
@@ -613,8 +613,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-05-22T15:06:07.4647878+00:00",
+  "LastChanged_Achievements": "2023-05-22T16:06:01.7847158+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:57.2732477+00:00",
-  "LastUpdate_Ratings": "2023-05-22T14:59:45.3454899+00:00",
-  "LastUpdate_Achievements": "2023-05-22T15:06:07.4647972+00:00"
+  "LastUpdate_Ratings": "2023-05-22T15:59:52.5209617+00:00",
+  "LastUpdate_Achievements": "2023-05-22T16:06:01.7847349+00:00"
 }

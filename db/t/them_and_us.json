@@ -3,9 +3,9 @@
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 255,
-  "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_Completed": 92,
+  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 118,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
@@ -710,17 +710,17 @@
       "ID": "ETUA_TheCultists",
       "SetID": "65jc0ap",
       "Name": "The Cultists",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ETUA_TheCurseIsReal",
       "SetID": "65jc0ap",
       "Name": "The Curse Is Real",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ETUA_TheForgottenTower",
@@ -791,8 +791,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-05-22T15:02:26.2608869+00:00",
+  "LastChanged_Achievements": "2023-05-22T16:02:11.6158893+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:00.9346953+00:00",
-  "LastUpdate_Ratings": "2023-05-22T14:57:01.1431001+00:00",
-  "LastUpdate_Achievements": "2023-05-22T15:02:26.2609132+00:00"
+  "LastUpdate_Ratings": "2023-05-22T15:57:15.5110648+00:00",
+  "LastUpdate_Achievements": "2023-05-22T16:02:11.6159447+00:00"
 }

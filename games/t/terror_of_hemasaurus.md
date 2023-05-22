@@ -35,8 +35,8 @@
 | Trash the Planet. | 4.00% | ~2 |
 | Simulation 8e7d28c1 | 4.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45 (Ranked 288)  
-Completed: 2 (4.44%) (Ranked 33)  
+Progressed: 45 (Ranked 289)  
+Completed: 2 (4.44%) (Ranked 34)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

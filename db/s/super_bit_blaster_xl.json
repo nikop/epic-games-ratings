@@ -2,10 +2,10 @@
   "ID": "b9857458d4d5405bb222610cd9f979d9",
   "Name": "Super Bit Blaster XL",
   "ProductSlug": "super-bit-blaster-xl-35d206",
-  "Ranking_EOS_Progress": 298,
-  "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_Progress": 299,
+  "Ranking_EOS_Completed": 27,
+  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-05-08T16:00:00+00:00",
     "PcReleaseDate": "2020-03-16T17:00:00+00:00",
@@ -288,9 +288,9 @@
       "ID": "Bit Blaster V3",
       "SetID": "1f269fc",
       "Name": "Bit Blaster V3",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Bit Blaster V4",
@@ -312,9 +312,9 @@
       "ID": "Bit Blaster V6",
       "SetID": "1f269fc",
       "Name": "Bit Blaster V6",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Bit Blaster V7",
@@ -343,8 +343,8 @@
   ],
   "FirstSeen": "2023-05-20T01:55:13.7731097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:16.9581391+00:00",
-  "LastChanged_Achievements": "2023-05-22T15:05:49.4972924+00:00",
+  "LastChanged_Achievements": "2023-05-22T16:05:44.8671182+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:15.3020968+00:00",
-  "LastUpdate_Ratings": "2023-05-22T14:57:40.7406106+00:00",
-  "LastUpdate_Achievements": "2023-05-22T15:05:49.4973022+00:00"
+  "LastUpdate_Ratings": "2023-05-22T15:57:52.3309262+00:00",
+  "LastUpdate_Achievements": "2023-05-22T16:05:44.8671395+00:00"
 }

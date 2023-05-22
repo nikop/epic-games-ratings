@@ -13,8 +13,8 @@ Rating: 3.75 (Ranked 920)
 | Guild Power | 24.00% | ~273 |
 | Prestigious x10 | 21.00% | ~239 |
 | The game is on | 18.00% | ~205 |
+| Dragon Clicker | 16.00% | ~182 |
 | Exotic Merchant | 16.00% | ~182 |
-| Dragon Clicker | 15.00% | ~171 |
 | Miner Clicker | 15.00% | ~171 |
 | Inspection | 14.00% | ~159 |
 | Full Party | 13.00% | ~148 |
@@ -28,8 +28,8 @@ Rating: 3.75 (Ranked 920)
 | Superior | 9.00% | ~102 |
 | The Unstoppable | 9.00% | ~102 |
 | Scientist | 8.00% | ~91 |
+| Daily Quest Completionist | 7.00% | ~80 |
 | Challenger | 6.00% | ~68 |
-| Daily Quest Completionist | 6.00% | ~68 |
 | The power of Awakening | 6.00% | ~68 |
 | Frostfire Liberator | 5.00% | ~57 |
 | Hunter | 5.00% | ~57 |
@@ -45,11 +45,11 @@ Rating: 3.75 (Ranked 920)
 | Missions Dedication | 3.00% | ~34 |
 | The father of Dragons | 3.00% | ~34 |
 | Trader | 3.00% | ~34 |
+| Weekly Quest Completionist | 3.00% | ~34 |
 | Dragon Slayer | 2.00% | ~23 |
 | Engineer Mastery | 2.00% | ~23 |
 | Master Enchanter | 2.00% | ~23 |
 | Relic Of The Past | 2.00% | ~23 |
-| Weekly Quest Completionist | 2.00% | ~23 |
 | What lies behind the bush | 2.00% | ~23 |
 | Blueprint Upgrades | 1.00% | ~11 |
 | Four Leaf Clover | 1.00% | ~11 |
@@ -82,7 +82,7 @@ Rating: 3.75 (Ranked 920)
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,138 (Ranked 161)  
-Completed: 1 (0.09%) (Ranked 163)  
+Completed: 1 (0.09%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

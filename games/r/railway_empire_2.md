@@ -16,20 +16,20 @@
 | Apprentice | 40.00% | ~4 |
 | From X to Y | 40.00% | ~4 |
 | Full Steam ahead | 40.00% | ~4 |
+| Facility Manager | 40.00% | ~4 |
 | Brainstorm | 40.00% | ~4 |
 | Access granted | 40.00% | ~4 |
 | Producer | 40.00% | ~4 |
 | Mind the Gap | 40.00% | ~4 |
-| Facility Manager | 30.00% | ~3 |
+| Seven at one stroke | 30.00% | ~3 |
 | Country Life | 30.00% | ~3 |
 | Bold and beautiful | 30.00% | ~3 |
 | Right through the middle | 30.00% | ~3 |
 | Bridge Builder | 30.00% | ~3 |
+| Breaking Ground | 30.00% | ~3 |
 | Socializer | 30.00% | ~3 |
 | Stoker | 20.00% | ~2 |
-| Seven at one stroke | 20.00% | ~2 |
 | General Manager | 20.00% | ~2 |
-| Breaking Ground | 20.00% | ~2 |
 | Bull and bear | 20.00% | ~2 |
 | Financial Shark | 20.00% | ~2 |
 | Trailblazer | 10.00% | ~1 |
@@ -61,7 +61,7 @@
 | Together we stand | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 10 (Ranked 332)  
-Completed: 0 (0.00%) (Ranked 201)  
+Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

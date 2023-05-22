@@ -2,13 +2,13 @@
   "ID": "0d89655f53884b09b241b60c07e684af",
   "Name": "Warhammer 40,000: Gladius - Relics of War",
   "ProductSlug": "warhammer-40000-gladius-relics-of-war",
-  "Ranking_Rating": 720,
+  "Ranking_Rating": 719,
   "Ranking_Popularity": 362,
-  "Ranking_PopularitySum": 320,
+  "Ranking_PopularitySum": 319,
   "Ranking_EOS_Progress": 412,
-  "Ranking_EOS_Completed": 201,
+  "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2020-11-12T16:00:00+00:00",
     "PcReleaseDate": "2020-11-12T16:00:00+00:00",
@@ -1075,10 +1075,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 334,
       "NumberOfAwardsMax": 71
+    },
+    {
+      "Time": "2023-05-22T15:59:05.67352+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 336,
+      "NumberOfAwardsMax": 71
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 334,
+  "NumberOfAwards": 336,
   "NumberOfAwardsMax": 71,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1086,7 +1092,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 59
+      "Count": 60
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1116,7 +1122,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 43
+      "Count": 44
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1154,8 +1160,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:36.3681248+00:00",
-  "LastChanged": "2023-05-20T16:59:03.06947+00:00",
+  "LastChanged": "2023-05-22T15:59:05.6735198+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:31.8013123+00:00",
-  "LastUpdate_Ratings": "2023-05-22T14:58:58.9268677+00:00",
-  "LastUpdate_Achievements": "2023-05-22T15:03:43.4384917+00:00"
+  "LastUpdate_Ratings": "2023-05-22T15:59:05.6735207+00:00",
+  "LastUpdate_Achievements": "2023-05-22T16:03:33.1495345+00:00"
 }

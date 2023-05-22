@@ -60,7 +60,7 @@
 | Love is All | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 57 (Ranked 283)  
-Completed: 1 (1.75%) (Ranked 66)  
+Completed: 1 (1.75%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

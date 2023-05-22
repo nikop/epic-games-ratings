@@ -6,8 +6,8 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 76,
-  "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_Completed": 159,
+  "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46736,
+  "EOS_Progressed": 46742,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 554,
+  "EOS_NewPlayers": 560,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2216,6 +2216,11 @@
       "Time": "2023-05-22T15:06:04.2734617+00:00",
       "NumProgressed": 46736,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-05-22T16:05:58.9065308+00:00",
+      "NumProgressed": 46742,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 67,
@@ -2227,7 +2232,7 @@
       "Name": "Follow the Light",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9347
+      "UsersEstimate": 9348
     },
     {
       "ID": "02",
@@ -2259,7 +2264,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5141
+      "UsersEstimate": 5142
     },
     {
       "ID": "06",
@@ -2267,7 +2272,7 @@
       "Name": "Park Ranger",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4206
+      "UsersEstimate": 4207
     },
     {
       "ID": "07",
@@ -2331,7 +2336,7 @@
       "Name": "Gatekeeper",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2804
+      "UsersEstimate": 2805
     },
     {
       "ID": "15",
@@ -2339,7 +2344,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2804
+      "UsersEstimate": 2805
     },
     {
       "ID": "16",
@@ -2355,7 +2360,7 @@
       "Name": "Departure",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1869
+      "UsersEstimate": 1870
     },
     {
       "ID": "18",
@@ -2459,7 +2464,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2804
+      "UsersEstimate": 2805
     },
     {
       "ID": "31",
@@ -2467,7 +2472,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4206
+      "UsersEstimate": 4207
     },
     {
       "ID": "32",
@@ -2475,7 +2480,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7478
+      "UsersEstimate": 7479
     },
     {
       "ID": "33",
@@ -2491,7 +2496,7 @@
       "Name": "Energized!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2804
+      "UsersEstimate": 2805
     },
     {
       "ID": "35",
@@ -2499,7 +2504,7 @@
       "Name": "Let There Be Light",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7945
+      "UsersEstimate": 7946
     },
     {
       "ID": "36",
@@ -2547,7 +2552,7 @@
       "Name": "Finders Keepers",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4206
+      "UsersEstimate": 4207
     },
     {
       "ID": "42",
@@ -2627,7 +2632,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "52",
@@ -2635,7 +2640,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "53",
@@ -2762,21 +2767,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46736,
+      "Progressed": 46742,
       "Completed": 45
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 10204,
+      "Progressed": 10210,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-22T15:06:04.2734612+00:00",
+  "LastChanged_Achievements": "2023-05-22T16:05:58.9065304+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:07.5579983+00:00",
-  "LastUpdate_Ratings": "2023-05-22T14:57:33.9787587+00:00",
-  "LastUpdate_Achievements": "2023-05-22T15:06:04.2735182+00:00"
+  "LastUpdate_Ratings": "2023-05-22T15:57:47.0632442+00:00",
+  "LastUpdate_Achievements": "2023-05-22T16:05:58.906662+00:00"
 }

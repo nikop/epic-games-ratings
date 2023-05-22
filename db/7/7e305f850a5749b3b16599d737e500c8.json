@@ -3,9 +3,9 @@
   "Name": "Boxville",
   "ProductSlug": "boxville-2b75d3",
   "Ranking_EOS_Progress": 322,
-  "Ranking_EOS_Completed": 2,
+  "Ranking_EOS_Completed": 3,
   "Ranking_EOS_NewPlayers": 243,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
     "PcReleaseDate": "2022-09-30T08:00:00+00:00",
@@ -141,33 +141,33 @@
       "ID": "Dust_fighter",
       "SetID": "b7i210",
       "Name": "Dust fighter",
-      "Percentage": 44,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Engineer",
       "SetID": "b7i210",
       "Name": "Engineer",
-      "Percentage": 44,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Express_home_delivery",
       "SetID": "b7i210",
       "Name": "Express home delivery",
-      "Percentage": 44,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Fisher",
       "SetID": "b7i210",
       "Name": "Fisher",
-      "Percentage": 50,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Fixer",
@@ -181,9 +181,9 @@
       "ID": "Florist",
       "SetID": "b7i210",
       "Name": "Florist",
-      "Percentage": 44,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Game_changer",
@@ -276,8 +276,8 @@
   ],
   "FirstSeen": "2023-05-16T13:05:40.6222618+00:00",
   "FirstSeenAchievements": "2023-05-08T15:02:14.2328484+00:00",
-  "LastChanged_Achievements": "2023-05-22T15:01:42.3393272+00:00",
-  "LastUpdate_AppInfo": "2023-05-15T15:56:52.925224+00:00",
-  "LastUpdate_Ratings": "2023-05-22T14:56:57.6564586+00:00",
-  "LastUpdate_Achievements": "2023-05-22T15:01:42.3393428+00:00"
+  "LastChanged_Achievements": "2023-05-22T16:01:40.7110651+00:00",
+  "LastUpdate_AppInfo": "2023-05-22T15:57:05.6577442+00:00",
+  "LastUpdate_Ratings": "2023-05-22T15:57:12.4645724+00:00",
+  "LastUpdate_Achievements": "2023-05-22T16:01:40.7110859+00:00"
 }

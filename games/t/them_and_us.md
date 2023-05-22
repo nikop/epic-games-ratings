@@ -14,16 +14,16 @@
 | What have I done!? | 13.00% | ~15 |
 | This Coffin Has Your Name On It! | 11.00% | ~13 |
 | Parasite Exterminated | 10.00% | ~12 |
+| The Cultists | 10.00% | ~12 |
 | Alone In The Dark | 9.00% | ~11 |
-| The Cultists | 9.00% | ~11 |
 | The Forgotten Tower | 8.00% | ~9 |
 | Lover of classics | 5.00% | ~6 |
 | Researcher | 5.00% | ~6 |
 | Rest In Peace | 5.00% | ~6 |
 | I Am The Gate Keeper! | 5.00% | ~6 |
+| The Curse Is Real | 5.00% | ~6 |
 | Modern Player | 4.00% | ~5 |
 | The bus stop | 4.00% | ~5 |
-| The Curse Is Real | 4.00% | ~5 |
 | Trapped | 4.00% | ~5 |
 | What A Mansion | 4.00% | ~5 |
 | This Mansion Is Clean | 3.00% | ~4 |
@@ -46,7 +46,7 @@
 | Survival Hero | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 118 (Ranked 255)  
-Completed: 1 (0.85%) (Ranked 91)  
+Completed: 1 (0.85%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

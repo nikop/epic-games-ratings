@@ -10,8 +10,8 @@
 | Sniarb! | 90.00% | ~148 |
 | Blunga 5 | 65.00% | ~107 |
 | Onk Boga II | 62.00% | ~102 |
-| Bzzzzzz | 55.00% | ~90 |
-| Onk Boga III | 47.00% | ~77 |
+| Bzzzzzz | 56.00% | ~92 |
+| Onk Boga III | 48.00% | ~79 |
 | Danka, Lagga, Wonwon | 40.00% | ~66 |
 | Onk Boga IV | 40.00% | ~66 |
 | BumBum | 40.00% | ~66 |
@@ -33,7 +33,7 @@
 | Blunga 30 | 5.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 164 (Ranked 239)  
-Completed: 8 (4.88%) (Ranked 31)  
+Completed: 8 (4.88%) (Ranked 32)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

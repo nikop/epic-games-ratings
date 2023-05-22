@@ -6,9 +6,9 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 14.00% | ~1,270 |
-| A Spark | 10.00% | ~907 |
-| Burning City | 9.00% | ~816 |
+| Devoured by Darkness | 14.00% | ~1,271 |
+| A Spark | 10.00% | ~908 |
+| Burning City | 9.00% | ~817 |
 | Mythic Choices | 8.00% | ~726 |
 | Defender's Heart | 8.00% | ~726 |
 | Banner over the Citadel | 7.00% | ~635 |
@@ -23,15 +23,15 @@ Number of Ratings: 1,354  (23.09.2022)
 | All Paths Open | 3.00% | ~272 |
 | Demonic and Divine | 3.00% | ~272 |
 | Next-Door Play | 3.00% | ~272 |
-| Heart of the Fallen Land | 2.00% | ~181 |
-| The Legacy | 2.00% | ~181 |
-| Divide and Rule | 2.00% | ~181 |
-| Mythic Reinforcements | 2.00% | ~181 |
-| Core of the Riddle | 2.00% | ~181 |
-| Your First Big Enemy | 2.00% | ~181 |
-| A Flame | 2.00% | ~181 |
-| Hey, I Know You! | 2.00% | ~181 |
-| Get the Toad | 2.00% | ~181 |
+| Heart of the Fallen Land | 2.00% | ~182 |
+| The Legacy | 2.00% | ~182 |
+| Divide and Rule | 2.00% | ~182 |
+| Mythic Reinforcements | 2.00% | ~182 |
+| Core of the Riddle | 2.00% | ~182 |
+| Your First Big Enemy | 2.00% | ~182 |
+| A Flame | 2.00% | ~182 |
+| Hey, I Know You! | 2.00% | ~182 |
+| Get the Toad | 2.00% | ~182 |
 | Hanged Man's Notes | 2.00% | ~157 |
 | The Lady of the Forest | 2.00% | ~157 |
 | Beware Still Water | 2.00% | ~157 |
@@ -123,8 +123,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,072 (Ranked 109)  
-Completed: 0 (0.00%) (Ranked 201)  
+Progressed: 9,075 (Ranked 109)  
+Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -155,17 +155,17 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-19 | 8,921 | 0 |
 | 2023-05-20 | 8,990 | 0 |
 | 2023-05-21 | 9,045 | 0 |
-| 2023-05-22 | 9,072 | 0 |
+| 2023-05-22 | 9,075 | 0 |
 ## Awards
 Max (Character Customization): 1,636  (Ranked 111)  
-Sum: 6,638 (Ranked 110)  
+Sum: 6,639 (Ranked 110)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,636 |
 | This game is Extremely Fun | 621 |
+| This game has Amazing Characters | 606 |
 | This game is Highly Recommended | 606 |
-| This game has Amazing Characters | 605 |
 | This game has Diverse Characters | 592 |
 | This game has Amazing Storytelling | 589 |
 | This game has Challenging Combat | 549 |
@@ -291,4 +291,4 @@ Diff (max vs sum): 1
 | 2023-05-18 | 4.76 | - | 1,634 | 6,623 |
 | 2023-05-20 | 4.76 | - | 1,636 | 6,635 |
 | 2023-05-21 | 4.76 | - | 1,636 | 6,637 |
-| 2023-05-22 | 4.76 | - | 1,636 | 6,638 |
+| 2023-05-22 | 4.76 | - | 1,636 | 6,639 |

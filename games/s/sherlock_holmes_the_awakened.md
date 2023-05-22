@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Hell In A Handcart | 68.00% | ~140 |
-| Read Between The Lines | 65.00% | ~134 |
-| High Profile | 61.00% | ~126 |
-| Whispers In The Dark | 57.00% | ~117 |
-| Fond Memories | 51.00% | ~105 |
-| A Method To His Madness | 50.00% | ~103 |
+| To Hell In A Handcart | 69.00% | ~143 |
+| Read Between The Lines | 64.00% | ~132 |
+| High Profile | 60.00% | ~124 |
+| Whispers In The Dark | 57.00% | ~118 |
+| Fond Memories | 51.00% | ~106 |
 | History Check | 49.00% | ~101 |
+| A Method To His Madness | 49.00% | ~101 |
 | The New World | 47.00% | ~97 |
-| Open Sesame | 46.00% | ~95 |
 | Sticky Fingers | 46.00% | ~95 |
 | Lock, Stock, And Barrel | 45.00% | ~93 |
 | Gaze Into The Abyss | 45.00% | ~93 |
-| Knives Out | 45.00% | ~93 |
+| Open Sesame | 45.00% | ~93 |
 | Back In The Saddle | 44.00% | ~91 |
+| Knives Out | 44.00% | ~91 |
 | Land, Ho! | 44.00% | ~91 |
 | No Man Is An Island | 42.00% | ~87 |
-| At Wits' End | 40.00% | ~82 |
-| Bookworm | 38.00% | ~78 |
-| Going Once... | 36.00% | ~74 |
-| Up In Flames | 36.00% | ~74 |
-| Fhtagn! | 36.00% | ~74 |
+| At Wits' End | 40.00% | ~83 |
+| Bookworm | 38.00% | ~79 |
+| Fhtagn! | 37.00% | ~77 |
+| Going Once... | 36.00% | ~75 |
+| Up In Flames | 36.00% | ~75 |
 | Brain Food | 35.00% | ~72 |
 | Let Me Be Frank | 34.00% | ~70 |
 | No Stone Unturned | 31.00% | ~64 |
 | Curiosity Killed The Cat | 21.00% | ~43 |
 | Big Breakthrough | 20.00% | ~41 |
 | Read It And Weep | 20.00% | ~41 |
-| Reawakened | 8.00% | ~16 |
+| Reawakened | 8.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206 (Ranked 226)  
-Completed: 11 (5.34%) (Ranked 29)  
+Progressed: 207 (Ranked 226)  
+Completed: 11 (5.31%) (Ranked 30)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -62,7 +62,7 @@ Completed: 11 (5.34%) (Ranked 29)
 | 2023-05-19 | 170 | 10 |
 | 2023-05-20 | 190 | 10 |
 | 2023-05-21 | 201 | 11 |
-| 2023-05-22 | 206 | 11 |
+| 2023-05-22 | 207 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

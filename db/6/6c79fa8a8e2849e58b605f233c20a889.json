@@ -2,10 +2,10 @@
   "ID": "6c79fa8a8e2849e58b605f233c20a889",
   "Name": "Feud",
   "ProductSlug": "feud-19b141",
-  "Ranking_EOS_Progress": 314,
-  "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_Progress": 287,
+  "Ranking_EOS_Completed": 202,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 18,
+  "EOS_Progressed": 48,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -38,6 +38,11 @@
     {
       "Time": "2023-05-22T15:02:25.2008788+00:00",
       "NumProgressed": 18,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T16:02:10.6751151+00:00",
+      "NumProgressed": 48,
       "NumCompleted": 0
     }
   ],
@@ -56,39 +61,39 @@
       "ID": "AI_DRAW",
       "SetID": "8lhbnh7",
       "Name": "Puppetmaster",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "BOT_DESTROYER",
       "SetID": "8lhbnh7",
       "Name": "Bot Destroyer",
-      "Percentage": 6,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CLUMSY",
       "SetID": "8lhbnh7",
       "Name": "Whoops",
-      "Percentage": 22,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "CONQUEROR",
       "SetID": "8lhbnh7",
       "Name": "Harold Rex Interfectus Est",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 6
     },
     {
       "ID": "EXPRESS_YOURSELF",
       "SetID": "8lhbnh7",
       "Name": "Express Yourself",
-      "Percentage": 22,
+      "Percentage": 8,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -96,7 +101,7 @@
       "ID": "FACE_FACE",
       "SetID": "8lhbnh7",
       "Name": "Face-To-Face",
-      "Percentage": 6,
+      "Percentage": 2,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -104,7 +109,7 @@
       "ID": "FACE_SCREEN_FACE",
       "SetID": "8lhbnh7",
       "Name": "Face-To-Screen-To-Face",
-      "Percentage": 11,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -128,23 +133,23 @@
       "ID": "FEUD_NOVICE",
       "SetID": "8lhbnh7",
       "Name": "Novice",
-      "Percentage": 28,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 9
     },
     {
       "ID": "GLOVE_SLAP",
       "SetID": "8lhbnh7",
       "Name": "Glove Slap!",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GONNA_FLY_NOW",
       "SetID": "8lhbnh7",
       "Name": "Gonna Fly Now",
-      "Percentage": 11,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -152,9 +157,9 @@
       "ID": "GRASSHOPPER",
       "SetID": "8lhbnh7",
       "Name": "Grasshopper",
-      "Percentage": 56,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 24
     },
     {
       "ID": "GUARD_MAKER",
@@ -184,7 +189,7 @@
       "ID": "KNIGHT_MASTERY",
       "SetID": "8lhbnh7",
       "Name": "Knight Commander",
-      "Percentage": 6,
+      "Percentage": 2,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -208,9 +213,9 @@
       "ID": "SMARTER_THAN_A_BEAR",
       "SetID": "8lhbnh7",
       "Name": "Smarter than a Bear",
-      "Percentage": 6,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "WIZARD_MASTERY",
@@ -225,13 +230,13 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 18,
+      "Progressed": 48,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-05-22T15:02:25.2008783+00:00",
+  "LastChanged_Achievements": "2023-05-22T16:02:10.6751146+00:00",
   "LastUpdate_AppInfo": "2023-05-16T13:56:59.1730865+00:00",
-  "LastUpdate_Ratings": "2023-05-22T14:56:52.2120863+00:00",
-  "LastUpdate_Achievements": "2023-05-22T15:02:25.2008903+00:00"
+  "LastUpdate_Ratings": "2023-05-22T15:57:07.3101695+00:00",
+  "LastUpdate_Achievements": "2023-05-22T16:02:10.6751305+00:00"
 }

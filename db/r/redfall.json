@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 151,
-  "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_Completed": 202,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -100,9 +100,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1599,
+  "EOS_Progressed": 1600,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1445,6 +1445,11 @@
       "Time": "2023-05-22T09:06:29.8125782+00:00",
       "NumProgressed": 1599,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T16:06:00.8753282+00:00",
+      "NumProgressed": 1600,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1472,7 +1477,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "Achievement_004",
@@ -1512,7 +1517,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "Achievement_010",
@@ -1592,7 +1597,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1263
+      "UsersEstimate": 1264
     },
     {
       "ID": "Achievement_020",
@@ -1704,7 +1709,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "Achievement_034",
@@ -1983,7 +1988,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1599,
+      "Progressed": 1600,
       "Completed": 0
     }
   ],
@@ -1991,8 +1996,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-21T03:57:51.8415336+00:00",
-  "LastChanged_Achievements": "2023-05-22T15:06:06.4888254+00:00",
+  "LastChanged_Achievements": "2023-05-22T16:06:00.8753278+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:23.3271568+00:00",
-  "LastUpdate_Ratings": "2023-05-22T14:57:47.7609832+00:00",
-  "LastUpdate_Achievements": "2023-05-22T15:06:06.4888849+00:00"
+  "LastUpdate_Ratings": "2023-05-22T15:58:00.2877432+00:00",
+  "LastUpdate_Achievements": "2023-05-22T16:06:00.8754117+00:00"
 }

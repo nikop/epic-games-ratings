@@ -2,10 +2,10 @@
   "ID": "ac1e1228d81c433ba5b25c6c09318e0e",
   "Name": "Elypse",
   "ProductSlug": "elypse-b177a8",
-  "Ranking_EOS_Progress": 296,
-  "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_Progress": 297,
+  "Ranking_EOS_Completed": 202,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
     "PcReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -241,9 +241,9 @@
       "ID": "Ach_BuyAllItemAndUpgrade",
       "SetID": "4o5gjp0",
       "Name": "Compulsive hoarder",
-      "Percentage": 8,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Ach_BuyHut",
@@ -305,9 +305,9 @@
       "ID": "Ach_DiscoveryFinalTower",
       "SetID": "4o5gjp0",
       "Name": "Nokron tower",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Ach_DiscoveryTemple",
@@ -401,9 +401,9 @@
       "ID": "Ach_OptionalDialogRead",
       "SetID": "4o5gjp0",
       "Name": "Bookworm",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Ach_SkullGoal",
@@ -417,9 +417,9 @@
       "ID": "Ach_SoulPotBeggarHouse",
       "SetID": "4o5gjp0",
       "Name": "Payback",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Ach_SoulPots",
@@ -464,8 +464,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-05-22T15:05:52.6282556+00:00",
+  "LastChanged_Achievements": "2023-05-22T16:05:47.7666521+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.0525193+00:00",
-  "LastUpdate_Ratings": "2023-05-22T14:57:56.4695065+00:00",
-  "LastUpdate_Achievements": "2023-05-22T15:05:52.6282762+00:00"
+  "LastUpdate_Ratings": "2023-05-22T15:58:07.9829773+00:00",
+  "LastUpdate_Achievements": "2023-05-22T16:05:47.766682+00:00"
 }

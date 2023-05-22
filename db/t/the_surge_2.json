@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 152,
-  "Ranking_EOS_Completed": 103,
+  "Ranking_EOS_Completed": 104,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -225,9 +225,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1587,
+  "EOS_Progressed": 1588,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -475,6 +475,11 @@
       "Time": "2023-05-22T12:05:32.2118993+00:00",
       "NumProgressed": 1587,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-22T16:06:27.5927105+00:00",
+      "NumProgressed": 1588,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -494,7 +499,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1047
+      "UsersEstimate": 1048
     },
     {
       "ID": "ACHV_03",
@@ -516,9 +521,9 @@
       "ID": "ACHV_05",
       "SetID": "8p5mlmc",
       "Name": "Studied The Blade",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 397
+      "UsersEstimate": 381
     },
     {
       "ID": "ACHV_06",
@@ -638,7 +643,7 @@
       "Name": "Marked For Success",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACHV_21",
@@ -662,7 +667,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "ACHV_24",
@@ -718,7 +723,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ACHV_31",
@@ -750,7 +755,7 @@
       "Name": "Shocking",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "ACHV_35",
@@ -758,7 +763,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "ACHV_36",
@@ -790,7 +795,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1222
+      "UsersEstimate": 1223
     },
     {
       "ID": "ACHV_40",
@@ -814,7 +819,7 @@
       "Name": "Sorry, Didn\u0027t See You There",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACHV_43",
@@ -854,7 +859,7 @@
       "Name": "Geronimo!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHV_48",
@@ -918,7 +923,7 @@
       "Name": "Plank of Wood",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHV_56",
@@ -941,7 +946,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1587,
+      "Progressed": 1588,
       "Completed": 10
     }
   ],
@@ -949,8 +954,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-05-22T15:06:34.953952+00:00",
+  "LastChanged_Achievements": "2023-05-22T16:06:27.5927099+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:42.7008662+00:00",
-  "LastUpdate_Ratings": "2023-05-22T15:01:01.1724636+00:00",
-  "LastUpdate_Achievements": "2023-05-22T15:06:34.9539926+00:00"
+  "LastUpdate_Ratings": "2023-05-22T16:01:00.9208045+00:00",
+  "LastUpdate_Achievements": "2023-05-22T16:06:27.5928+00:00"
 }

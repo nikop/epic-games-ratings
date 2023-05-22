@@ -3,9 +3,9 @@
   "Name": "Touch Type Tale",
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 135,
-  "Ranking_EOS_Completed": 120,
+  "Ranking_EOS_Completed": 121,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2721,
+  "EOS_Progressed": 2722,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1129,6 +1129,11 @@
       "Time": "2023-05-22T02:11:52.225161+00:00",
       "NumProgressed": 2721,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-22T16:06:22.378571+00:00",
+      "NumProgressed": 2722,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1148,7 +1153,7 @@
       "Name": "Sniped",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "bonus3",
@@ -1188,7 +1193,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2449
+      "UsersEstimate": 2450
     },
     {
       "ID": "campaign10",
@@ -1196,7 +1201,7 @@
       "Name": "Leave Them no Cake",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "campaign11",
@@ -1212,7 +1217,7 @@
       "Name": "Would be a Shame if Someone Would Waste Those Units",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "campaign13",
@@ -1276,7 +1281,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2177
+      "UsersEstimate": 2178
     },
     {
       "ID": "campaign20",
@@ -1300,7 +1305,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "campaign5",
@@ -1403,7 +1408,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2721,
+      "Progressed": 2722,
       "Completed": 9
     }
   ],
@@ -1411,8 +1416,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-22T15:06:29.3245285+00:00",
+  "LastChanged_Achievements": "2023-05-22T16:06:22.3785704+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:08.6918917+00:00",
-  "LastUpdate_Ratings": "2023-05-22T15:00:43.7025497+00:00",
-  "LastUpdate_Achievements": "2023-05-22T15:06:29.3245524+00:00"
+  "LastUpdate_Ratings": "2023-05-22T16:00:46.3951158+00:00",
+  "LastUpdate_Achievements": "2023-05-22T16:06:22.3786225+00:00"
 }

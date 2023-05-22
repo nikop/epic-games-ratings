@@ -6,30 +6,30 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~124,957 |
-| Titan's First Steps | 96.00% | ~123,669 |
-| Basic in Bulk | 91.00% | ~117,228 |
-| Tinkle of Coins | 87.00% | ~112,075 |
+| Sponsored by Argon | 97.00% | ~124,958 |
+| Titan's First Steps | 96.00% | ~123,670 |
+| Basic in Bulk | 91.00% | ~117,229 |
+| Tinkle of Coins | 87.00% | ~112,076 |
 | Disintermediation | 76.00% | ~97,905 |
-| Capitalism Ho! | 75.00% | ~96,616 |
-| It's Free Real Estate | 70.00% | ~90,175 |
+| Capitalism Ho! | 75.00% | ~96,617 |
+| It's Free Real Estate | 70.00% | ~90,176 |
 | Budding Merchant | 66.00% | ~85,023 |
-| Another Satisfied Customer | 61.00% | ~78,581 |
-| One Easy Payment | 60.00% | ~77,293 |
-| Own the Means of Production | 60.00% | ~77,293 |
-| Some Assembly Required | 59.00% | ~76,005 |
+| Another Satisfied Customer | 61.00% | ~78,582 |
+| One Easy Payment | 60.00% | ~77,294 |
+| Own the Means of Production | 60.00% | ~77,294 |
+| Some Assembly Required | 59.00% | ~76,006 |
 | Pretty Penny | 57.00% | ~73,429 |
-| One-Armed Bandit | 50.00% | ~64,411 |
-| Through Repetition, Perfection | 46.00% | ~59,258 |
+| One-Armed Bandit | 50.00% | ~64,412 |
+| Through Repetition, Perfection | 46.00% | ~59,259 |
 | The Daily Grind | 45.00% | ~57,970 |
 | Bounty Hunters | 44.00% | ~56,682 |
-| Where it Hurts | 43.00% | ~55,393 |
-| Dungeon Imports | 43.00% | ~55,393 |
+| Where it Hurts | 43.00% | ~55,394 |
+| Dungeon Imports | 43.00% | ~55,394 |
 | Flooding the Market | 41.00% | ~52,817 |
 | Demand for Supplies | 39.00% | ~50,241 |
-| Gild-Gotten Goods | 37.00% | ~47,664 |
+| Gild-Gotten Goods | 37.00% | ~47,665 |
 | Did we pack lunch? | 35.00% | ~45,088 |
-| Arcane Industries | 34.00% | ~43,799 |
+| Arcane Industries | 34.00% | ~43,800 |
 | Accomplished Merchant | 31.00% | ~39,935 |
 | Ascended | 28.00% | ~36,070 |
 | Gem Expert | 28.00% | ~36,070 |
@@ -39,13 +39,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Efficient Floor Space | 27.00% | ~34,782 |
 | Vanity, Verily | 26.00% | ~33,494 |
 | Research & Development | 25.00% | ~32,206 |
-| Flawless Fusion | 24.00% | ~30,917 |
+| Flawless Fusion | 24.00% | ~30,918 |
 | Power of Love | 23.00% | ~29,629 |
 | Natural 20 | 23.00% | ~29,629 |
 | Fated Encounters | 21.00% | ~27,053 |
 | Royal Ransom | 21.00% | ~27,053 |
 | Magical Harmony | 21.00% | ~27,053 |
-| Tax not Included | 20.00% | ~25,764 |
+| Tax not Included | 20.00% | ~25,765 |
 | Trash to Treasure | 18.00% | ~23,188 |
 | For the Hoard! | 17.00% | ~21,900 |
 | Special Ingredient | 17.00% | ~21,900 |
@@ -63,12 +63,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Hidden Potential | 12.00% | ~15,459 |
 | Mammonite | 12.00% | ~15,459 |
 | Attrition Mission | 12.00% | ~15,459 |
-| Above the Norm | 11.00% | ~14,170 |
-| Omae wa Mou Shindeiru | 11.00% | ~14,170 |
-| Cranked up to 11 | 11.00% | ~14,170 |
-| By Your Powers Combined... | 11.00% | ~14,170 |
-| Exotic Commodities | 11.00% | ~14,170 |
-| Complete Monopoly | 11.00% | ~14,170 |
+| Above the Norm | 11.00% | ~14,171 |
+| Omae wa Mou Shindeiru | 11.00% | ~14,171 |
+| Cranked up to 11 | 11.00% | ~14,171 |
+| By Your Powers Combined... | 11.00% | ~14,171 |
+| Exotic Commodities | 11.00% | ~14,171 |
+| Complete Monopoly | 11.00% | ~14,171 |
 | Supercharged | 9.00% | ~11,594 |
 | Ritualist | 9.00% | ~11,594 |
 | Master Merchant | 9.00% | ~11,594 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.40% | ~515 |
 | Capitalist Camaraderie | 0.20% | ~258 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,822 (Ranked 54)  
-Completed: 80 (0.06%) (Ranked 170)  
+Progressed: 128,823 (Ranked 54)  
+Completed: 80 (0.06%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -151,10 +151,10 @@ Completed: 80 (0.06%) (Ranked 170)
 | 2023-05-19 | 128,589 | 79 |
 | 2023-05-20 | 128,675 | 80 |
 | 2023-05-21 | 128,776 | 80 |
-| 2023-05-22 | 128,822 | 80 |
+| 2023-05-22 | 128,823 | 80 |
 ## Awards
 Max (Great for Beginners): 4,584  (Ranked 66)  
-Sum: 26,605 (Ranked 44)  
+Sum: 26,606 (Ranked 44)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
@@ -164,7 +164,7 @@ Diff (max vs sum): 22
 | This game has Diverse Characters | 3,752 |
 | This game is Highly Recommended | 3,674 |
 | This game has Easy Combat | 3,611 |
-| This game has Playful Visuals | 3,097 |
+| This game has Playful Visuals | 3,098 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -287,4 +287,4 @@ Diff (max vs sum): 22
 | 2023-05-19 | 3.98 | - | 4,579 | 26,592 |
 | 2023-05-20 | 3.98 | - | 4,579 | 26,596 |
 | 2023-05-21 | 3.98 | - | 4,579 | 26,600 |
-| 2023-05-22 | 3.98 | - | 4,584 | 26,605 |
+| 2023-05-22 | 3.98 | - | 4,584 | 26,606 |

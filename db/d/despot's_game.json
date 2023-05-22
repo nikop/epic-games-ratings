@@ -5,10 +5,10 @@
   "Ranking_Rating": 535,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 200,
-  "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_Progress": 199,
+  "Ranking_EOS_Completed": 131,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 367,
+  "EOS_Progressed": 368,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -125,6 +125,11 @@
       "Time": "2023-05-21T13:08:05.3824877+00:00",
       "NumProgressed": 367,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-22T16:06:06.6342194+00:00",
+      "NumProgressed": 368,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -168,7 +173,7 @@
       "Name": "Frugal",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "collect-discounted-items2",
@@ -184,7 +189,7 @@
       "Name": "No Mercy",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "different-items1",
@@ -224,7 +229,7 @@
       "Name": "Great Flight",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "finished-quest-monster",
@@ -238,9 +243,9 @@
       "ID": "finished-quest-nurgle",
       "SetID": "799afm0",
       "Name": "Feed a God",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 74
     },
     {
       "ID": "finished-quest-pit",
@@ -272,7 +277,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "finished-quest-secret",
@@ -288,7 +293,7 @@
       "Name": "Holy Vengeance",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "get-all",
@@ -312,7 +317,7 @@
       "Name": "Last Man Standing",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "save-zombie",
@@ -342,9 +347,9 @@
       "ID": "win-campaign",
       "SetID": "799afm0",
       "Name": "Great Hero",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 92
+      "UsersEstimate": 88
     },
     {
       "ID": "win-first-biom",
@@ -352,7 +357,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "win-first-level",
@@ -360,7 +365,7 @@
       "Name": "Good start!",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "win-koth-fights1",
@@ -415,7 +420,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 367,
+      "Progressed": 368,
       "Completed": 1
     }
   ],
@@ -423,8 +428,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-05-22T15:06:12.5116638+00:00",
+  "LastChanged_Achievements": "2023-05-22T16:06:06.634219+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:20.0092319+00:00",
-  "LastUpdate_Ratings": "2023-05-22T14:58:50.7570497+00:00",
-  "LastUpdate_Achievements": "2023-05-22T15:06:12.5116894+00:00"
+  "LastUpdate_Ratings": "2023-05-22T15:58:59.1020145+00:00",
+  "LastUpdate_Achievements": "2023-05-22T16:06:06.6342454+00:00"
 }
