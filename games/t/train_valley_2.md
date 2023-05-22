@@ -14,6 +14,7 @@ Number of Ratings: 87  (23.09.2022)
 | Common cause | 4.00% | ~28 |
 | Forgot something | 4.00% | ~28 |
 | Mega-railroad | 4.00% | ~28 |
+| Upgrade complete | 4.00% | ~28 |
 | Builder | 3.00% | ~21 |
 | Close call! | 3.00% | ~21 |
 | Get out my way | 3.00% | ~21 |
@@ -26,7 +27,6 @@ Number of Ratings: 87  (23.09.2022)
 | Star Sapphire | 3.00% | ~2 |
 | Steam Age | 3.00% | ~21 |
 | Trapiche Emerald | 3.00% | ~2 |
-| Upgrade complete | 3.00% | ~21 |
 | Beginner | 2.00% | ~14 |
 | Bridgemania | 2.00% | ~14 |
 | Critical care | 2.00% | ~14 |
@@ -46,6 +46,7 @@ Number of Ratings: 87  (23.09.2022)
 | Lucky vandal | 1.00% | ~7 |
 | Missed it! | 1.00% | ~7 |
 | Ouroboros | 1.00% | ~7 |
+| Prick of conscience | 1.00% | ~7 |
 | Relocation | 1.00% | ~7 |
 | Sabotage | 1.00% | ~7 |
 | Squander | 1.00% | ~7 |
@@ -55,7 +56,6 @@ Number of Ratings: 87  (23.09.2022)
 | Atomic Age | 0.80% | ~0 |
 | Information Age | 0.80% | ~0 |
 | Innovator | 0.80% | ~6 |
-| Prick of conscience | 0.80% | ~6 |
 | At the last moment! | 0.70% | ~5 |
 | Digital Age | 0.70% | ~0 |
 | Railroad tycoon | 0.70% | ~5 |
@@ -83,7 +83,7 @@ Number of Ratings: 87  (23.09.2022)
 | Jeweller | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 712 (Ranked 180)  
-Completed: 1 (0.14%) (Ranked 152)  
+Completed: 1 (0.14%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

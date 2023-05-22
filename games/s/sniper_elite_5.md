@@ -5,14 +5,14 @@ Rating: 4.34 (Ranked 729)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 12.00% | ~143 |
-| Confirming Suspicions | 8.00% | ~95 |
+| Meeting Resistance | 12.00% | ~144 |
+| Confirming Suspicions | 8.00% | ~96 |
 | The Kraken Wakes | 5.00% | ~60 |
 | Lord of War | 4.00% | ~48 |
 | Enemy at the Gates | 3.00% | ~36 |
+| Just a Flesh Wound | 3.00% | ~36 |
 | Resourceful | 3.00% | ~36 |
 | It's Starting to Crack | 3.00% | ~36 |
-| Just a Flesh Wound | 2.00% | ~24 |
 | Organ Grinder | 2.00% | ~24 |
 | Explosive Efficiency | 2.00% | ~24 |
 | As Quiet as a Mouse | 2.00% | ~24 |
@@ -55,6 +55,7 @@ Rating: 4.34 (Ranked 729)
 | Eagle Eyed | 0.10% | ~1 |
 | Tinkerer | 0.10% | ~1 |
 | Up close and personal | 0.10% | ~1 |
+| Road Rage | 0.10% | ~1 |
 | Führerious Repetition | 0.10% | ~1 |
 | Reich To The Point | 0.10% | ~1 |
 | Covert Elimination | 0.10% | ~1 |
@@ -66,7 +67,6 @@ Rating: 4.34 (Ranked 729)
 | Master of Rifles | 0.00% | ~0 |
 | Master-at-arms | 0.00% | ~0 |
 | Out of Scope | 0.00% | ~0 |
-| Road Rage | 0.00% | ~0 |
 | Sight Beyond Sights | 0.00% | ~0 |
 | Can't Outrun A Bullet | 0.00% | ~0 |
 | From Führer Away | 0.00% | ~0 |
@@ -77,8 +77,8 @@ Rating: 4.34 (Ranked 729)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,192 (Ranked 159)  
-Completed: 2 (0.17%) (Ranked 145)  
+Progressed: 1,198 (Ranked 159)  
+Completed: 2 (0.17%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -108,7 +108,7 @@ Completed: 2 (0.17%) (Ranked 145)
 | 2023-05-19 | 833 | 2 |
 | 2023-05-20 | 984 | 2 |
 | 2023-05-21 | 1,126 | 2 |
-| 2023-05-22 | 1,192 | 2 |
+| 2023-05-22 | 1,198 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

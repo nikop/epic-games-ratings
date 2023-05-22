@@ -7,13 +7,13 @@
 | Your Journey Begins | 90.00% | ~9 |
 | The Boy That Came With The Rain | 60.00% | ~6 |
 | Welcome To The Kabaret | 50.00% | ~5 |
-| Congkak Hero | 40.00% | ~4 |
+| Congkak Hero | 50.00% | ~5 |
 | Congkak Champion | 40.00% | ~4 |
+| Equality | 40.00% | ~4 |
 | An Unheard Song | 40.00% | ~4 |
 | Let There Be Light | 40.00% | ~4 |
 | All Alone With A Curse | 40.00% | ~4 |
 | I'll Become... A Beast | 30.00% | ~3 |
-| Equality | 30.00% | ~3 |
 | Goodbye Dear Friend | 30.00% | ~3 |
 | By My Own Hands | 30.00% | ~3 |
 | Bookworm | 30.00% | ~3 |
@@ -73,7 +73,7 @@
 | I Am A Beast | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 10 (Ranked 332)  
-Completed: 0 (0.00%) (Ranked 202)  
+Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

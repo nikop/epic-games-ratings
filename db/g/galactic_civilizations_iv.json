@@ -6,9 +6,9 @@
   "Ranking_Popularity": 333,
   "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 119,
-  "Ranking_EOS_Completed": 202,
+  "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -2512,9 +2512,9 @@
       "ID": "First_Ship_Designed",
       "SetID": "4h07amh",
       "Name": "Design a Ship",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1666
     },
     {
       "ID": "First_Stream_Travel",
@@ -2976,8 +2976,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-05-22T02:57:12.0040707+00:00",
-  "LastChanged_Achievements": "2023-05-22T16:01:14.6105701+00:00",
+  "LastChanged_Achievements": "2023-05-22T17:00:23.7018289+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:07.7367569+00:00",
-  "LastUpdate_Ratings": "2023-05-22T15:57:27.2623761+00:00",
-  "LastUpdate_Achievements": "2023-05-22T16:01:14.6107291+00:00"
+  "LastUpdate_Ratings": "2023-05-22T16:57:20.5339314+00:00",
+  "LastUpdate_Achievements": "2023-05-22T17:00:23.7020325+00:00"
 }

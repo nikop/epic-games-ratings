@@ -2,12 +2,12 @@
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
   "ProductSlug": "tchia",
-  "Ranking_Rating": 100,
+  "Ranking_Rating": 116,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 117,
-  "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_Completed": 115,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.78,
+  "Rating": 4.76,
   "RatingHistory": [
     {
       "Time": "2023-03-27T01:58:07.9260384+00:00",
@@ -140,15 +140,21 @@
       "Rating": 4.78,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-22T16:57:53.1033558+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5954,
+  "EOS_Progressed": 5958,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1961,6 +1967,11 @@
       "Time": "2023-05-22T16:05:45.3008356+00:00",
       "NumProgressed": 5954,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-22T17:05:06.5556655+00:00",
+      "NumProgressed": 5958,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 21,
@@ -1996,7 +2007,7 @@
       "Name": "Body and Soul",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -2076,7 +2087,7 @@
       "Name": "In a Pinch",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "LIBERATOR",
@@ -2124,7 +2135,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "THING",
@@ -2139,16 +2150,16 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5954,
+      "Progressed": 5958,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-03-21T09:57:30.0588208+00:00",
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
-  "LastChanged": "2023-05-21T16:57:42.2177509+00:00",
-  "LastChanged_Achievements": "2023-05-22T16:05:45.3008348+00:00",
+  "LastChanged": "2023-05-22T16:57:53.1033555+00:00",
+  "LastChanged_Achievements": "2023-05-22T17:05:06.555665+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.822955+00:00",
-  "LastUpdate_Ratings": "2023-05-22T15:58:08.1419309+00:00",
-  "LastUpdate_Achievements": "2023-05-22T16:05:45.3008787+00:00"
+  "LastUpdate_Ratings": "2023-05-22T16:57:53.1033564+00:00",
+  "LastUpdate_Achievements": "2023-05-22T17:05:06.5556913+00:00"
 }

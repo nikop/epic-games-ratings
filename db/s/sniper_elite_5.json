@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 159,
-  "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_Completed": 144,
+  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1192,
+  "EOS_Progressed": 1198,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 472,
+  "EOS_NewPlayers": 478,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1043,6 +1043,11 @@
       "Time": "2023-05-22T16:05:54.6377525+00:00",
       "NumProgressed": 1192,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-22T17:05:14.158224+00:00",
+      "NumProgressed": 1198,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1108,9 +1113,9 @@
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
       "SetID": "bm6el81",
       "Name": "Just a Flesh Wound",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 36
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -1134,7 +1139,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1222,7 +1227,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1404,9 +1409,9 @@
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
       "SetID": "bm6el81",
       "Name": "Road Rage",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "REWARD_67_NO_ASSISTANCE",
@@ -1621,13 +1626,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1143,
+      "Progressed": 1149,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1192,
+      "Progressed": 1198,
       "Completed": 2
     }
   ],
@@ -1635,8 +1640,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-22T16:01:02.9174493+00:00",
-  "LastChanged_Achievements": "2023-05-22T16:05:54.637752+00:00",
+  "LastChanged_Achievements": "2023-05-22T17:05:14.1582235+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-22T16:01:02.91745+00:00",
-  "LastUpdate_Achievements": "2023-05-22T16:05:54.6378303+00:00"
+  "LastUpdate_Ratings": "2023-05-22T17:00:14.519405+00:00",
+  "LastUpdate_Achievements": "2023-05-22T17:05:14.158299+00:00"
 }

@@ -45,7 +45,7 @@
 | The Coreland | 39.00% | ~59 |
 | Starry: The Coreland | 37.00% | ~56 |
 | Feed the Fishes | 36.00% | ~55 |
-| Brilliant: Wasteland | 32.00% | ~49 |
+| Brilliant: Wasteland | 33.00% | ~50 |
 | Father of Nation | 30.00% | ~46 |
 | Dwarven Countdown | 28.00% | ~43 |
 | Starry: Wasteland | 28.00% | ~43 |
@@ -59,7 +59,7 @@
 | Hostile Waters | 15.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 152 (Ranked 245)  
-Completed: 19 (12.50%) (Ranked 11)  
+Completed: 19 (12.50%) (Ranked 10)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 246,
   "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 90,
-  "Ranking_EOS_Completed": 144,
+  "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
@@ -1056,9 +1056,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 22126,
+  "EOS_Progressed": 22127,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 307,
+  "EOS_NewPlayers": 306,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3381,6 +3381,11 @@
       "Time": "2023-05-22T16:06:11.387423+00:00",
       "NumProgressed": 22126,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-05-22T17:05:28.4086572+00:00",
+      "NumProgressed": 22127,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -3392,7 +3397,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 16152
+      "UsersEstimate": 16153
     },
     {
       "ID": "Animated",
@@ -3408,7 +3413,7 @@
       "Name": "Back Off",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 7965
+      "UsersEstimate": 7966
     },
     {
       "ID": "Best_Insurance",
@@ -3480,7 +3485,7 @@
       "Name": "Discovery",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 13718
+      "UsersEstimate": 13719
     },
     {
       "ID": "Dont_Need_These",
@@ -3528,7 +3533,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 12169
+      "UsersEstimate": 12170
     },
     {
       "ID": "GB_In_Training",
@@ -3664,7 +3669,7 @@
       "Name": "Side Hustle",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 6195
+      "UsersEstimate": 6196
     },
     {
       "ID": "Skilled",
@@ -3680,7 +3685,7 @@
       "Name": "Solo Capture",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 7080
+      "UsersEstimate": 7081
     },
     {
       "ID": "Stunner",
@@ -3696,7 +3701,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 19028
+      "UsersEstimate": 19029
     },
     {
       "ID": "Summoner",
@@ -3736,7 +3741,7 @@
       "Name": "Terrifying",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 3761
+      "UsersEstimate": 3762
     },
     {
       "ID": "Therapeutic",
@@ -3752,7 +3757,7 @@
       "Name": "There you are!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 9735
+      "UsersEstimate": 9736
     },
     {
       "ID": "Tobins_Prodigy",
@@ -3799,7 +3804,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 22126,
+      "Progressed": 22127,
       "Completed": 40
     }
   ],
@@ -3807,8 +3812,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-05-22T06:58:33.6226052+00:00",
-  "LastChanged_Achievements": "2023-05-22T16:06:11.3874225+00:00",
+  "LastChanged_Achievements": "2023-05-22T17:05:28.4086567+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:13.3107598+00:00",
-  "LastUpdate_Ratings": "2023-05-22T15:59:15.64858+00:00",
-  "LastUpdate_Achievements": "2023-05-22T16:06:11.3875049+00:00"
+  "LastUpdate_Ratings": "2023-05-22T16:58:48.3827083+00:00",
+  "LastUpdate_Achievements": "2023-05-22T17:05:28.4087142+00:00"
 }

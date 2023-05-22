@@ -3,9 +3,9 @@
   "Name": "EBOLA 3",
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 233,
-  "Ranking_EOS_Completed": 202,
+  "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
     "PcReleaseDate": "2022-09-19T00:00:00+00:00",
@@ -1131,8 +1131,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-22T16:06:26.5908843+00:00",
+  "LastChanged_Achievements": "2023-05-22T17:05:41.2192871+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:11.586606+00:00",
-  "LastUpdate_Ratings": "2023-05-22T16:00:47.6434788+00:00",
-  "LastUpdate_Achievements": "2023-05-22T16:06:26.5909518+00:00"
+  "LastUpdate_Ratings": "2023-05-22T16:59:58.8359066+00:00",
+  "LastUpdate_Achievements": "2023-05-22T17:05:41.2193321+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 133,
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 82,
-  "Ranking_EOS_Completed": 171,
+  "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 20,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
@@ -2364,9 +2364,9 @@
       "Count": 1029
     }
   ],
-  "EOS_Progressed": 33184,
+  "EOS_Progressed": 33214,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 5143,
+  "EOS_NewPlayers": 5153,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5524,6 +5524,11 @@
       "Time": "2023-05-22T16:01:35.1066947+00:00",
       "NumProgressed": 33184,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-22T17:00:41.1963612+00:00",
+      "NumProgressed": 33214,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 53,
@@ -5583,7 +5588,7 @@
       "Name": "Finders Keepers",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1329
     },
     {
       "ID": "complet_epilogue_mission",
@@ -5599,7 +5604,7 @@
       "Name": "The Professional",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "complete_all_side_hustles",
@@ -5631,7 +5636,7 @@
       "Name": "The Side Job",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1991
+      "UsersEstimate": 1993
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -5639,7 +5644,7 @@
       "Name": "Wet Work",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2323
+      "UsersEstimate": 2325
     },
     {
       "ID": "complete_mission_1",
@@ -5647,7 +5652,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 3650
+      "UsersEstimate": 3654
     },
     {
       "ID": "customize_a_vehicle",
@@ -5655,7 +5660,7 @@
       "Name": "Tune Up",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1991
+      "UsersEstimate": 1993
     },
     {
       "ID": "customize_a_weapon",
@@ -5663,7 +5668,7 @@
       "Name": "Optimized",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2655
+      "UsersEstimate": 2657
     },
     {
       "ID": "cutting_edge_materials",
@@ -5711,7 +5716,7 @@
       "Name": "A Young Empire",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1329
     },
     {
       "ID": "empire_tier_3",
@@ -5743,7 +5748,7 @@
       "Name": "Landlord",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1991
+      "UsersEstimate": 1993
     },
     {
       "ID": "fully_complete_a_building",
@@ -5751,15 +5756,15 @@
       "Name": "Work Ethic",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1329
     },
     {
       "ID": "fully_upgrade_1_vehicle",
       "SetID": "3ib2d0i",
       "Name": "The Mechanic",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 332
+      "UsersEstimate": 664
     },
     {
       "ID": "fully_upgrade_a_weapon",
@@ -5783,7 +5788,7 @@
       "Name": "Performance Review",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2323
+      "UsersEstimate": 2325
     },
     {
       "ID": "hit_max_level",
@@ -5799,7 +5804,7 @@
       "Name": "Free Refills",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "kill_each_faction_miniboss",
@@ -5815,7 +5820,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1659
+      "UsersEstimate": 1661
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -5831,7 +5836,7 @@
       "Name": "Making a Name",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2323
+      "UsersEstimate": 2325
     },
     {
       "ID": "one_third_purple",
@@ -5855,7 +5860,7 @@
       "Name": "Prankster",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "purchase_2_emotes",
@@ -5887,7 +5892,7 @@
       "Name": "Food for Thought",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1659
+      "UsersEstimate": 1661
     },
     {
       "ID": "two_thirds_purple",
@@ -5919,7 +5924,7 @@
       "Name": "To The Nines",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2987
+      "UsersEstimate": 2989
     },
     {
       "ID": "whole_map_purple",
@@ -5935,7 +5940,7 @@
       "Name": "Producer Credit",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "bfhj_complete_mission_2_collectible",
@@ -5943,7 +5948,7 @@
       "Name": "Face Off",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "bfhj_complete_mission_3_collectible",
@@ -5951,29 +5956,29 @@
       "Name": "Hazardous Heist",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 33184,
+      "Progressed": 33214,
       "Completed": 20
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 4821,
-      "Completed": 693
+      "Progressed": 4851,
+      "Completed": 698
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-05-21T15:59:13.5972334+00:00",
-  "LastChanged_Achievements": "2023-05-22T16:01:35.1066943+00:00",
+  "LastChanged_Achievements": "2023-05-22T17:00:41.1963607+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:12.3332393+00:00",
-  "LastUpdate_Ratings": "2023-05-22T16:00:02.3700284+00:00",
-  "LastUpdate_Achievements": "2023-05-22T16:01:35.1067588+00:00"
+  "LastUpdate_Ratings": "2023-05-22T16:59:26.9137175+00:00",
+  "LastUpdate_Achievements": "2023-05-22T17:00:41.1964232+00:00"
 }

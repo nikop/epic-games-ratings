@@ -6,7 +6,7 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 63,
-  "Ranking_EOS_Completed": 111,
+  "Ranking_EOS_Completed": 110,
   "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 50,
   "Store": {
@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 71692,
+  "EOS_Progressed": 71695,
   "EOS_Completed": 331,
-  "EOS_NewPlayers": 807,
+  "EOS_NewPlayers": 804,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -3528,6 +3528,11 @@
       "Time": "2023-05-22T16:06:13.4714424+00:00",
       "NumProgressed": 71692,
       "NumCompleted": 331
+    },
+    {
+      "Time": "2023-05-22T17:05:30.1598264+00:00",
+      "NumProgressed": 71695,
+      "NumCompleted": 331
     }
   ],
   "TotalAchievements": 10,
@@ -3595,7 +3600,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 7169
+      "UsersEstimate": 7170
     },
     {
       "ID": "Level00BowlingStrike",
@@ -3603,7 +3608,7 @@
       "Name": "Strike",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 25809
+      "UsersEstimate": 25810
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -3618,15 +3623,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 71692,
+      "Progressed": 71695,
       "Completed": 331
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-05-22T16:06:13.4714417+00:00",
+  "LastChanged_Achievements": "2023-05-22T17:05:30.1598254+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:37.6361011+00:00",
-  "LastUpdate_Ratings": "2023-05-22T16:00:58.4538833+00:00",
-  "LastUpdate_Achievements": "2023-05-22T16:06:13.4714683+00:00"
+  "LastUpdate_Ratings": "2023-05-22T17:00:10.6697817+00:00",
+  "LastUpdate_Achievements": "2023-05-22T17:05:30.1598537+00:00"
 }

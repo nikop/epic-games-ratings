@@ -6,7 +6,7 @@
   "Ranking_Popularity": 64,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 60,
-  "Ranking_EOS_Completed": 63,
+  "Ranking_EOS_Completed": 62,
   "Ranking_EOS_NewPlayers": 69,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
@@ -3818,11 +3818,17 @@
       "Rating": 4.06,
       "NumberOfAwards": 29945,
       "NumberOfAwardsMax": 4892
+    },
+    {
+      "Time": "2023-05-22T16:57:57.9886052+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29950,
+      "NumberOfAwardsMax": 4896
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29945,
-  "NumberOfAwardsMax": 4892,
+  "NumberOfAwards": 29950,
+  "NumberOfAwardsMax": 4896,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -3835,7 +3841,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4892
+      "Count": 4896
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3859,7 +3865,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 3942
+      "Count": 3943
     },
     {
       "Text": "This game has Playful Visuals",
@@ -3868,9 +3874,9 @@
       "Count": 3238
     }
   ],
-  "EOS_Progressed": 88308,
+  "EOS_Progressed": 88311,
   "EOS_Completed": 1862,
-  "EOS_NewPlayers": 711,
+  "EOS_NewPlayers": 707,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
@@ -6948,6 +6954,11 @@
       "Time": "2023-05-22T16:06:31.2377794+00:00",
       "NumProgressed": 88308,
       "NumCompleted": 1862
+    },
+    {
+      "Time": "2023-05-22T17:05:45.6279239+00:00",
+      "NumProgressed": 88311,
+      "NumCompleted": 1862
     }
   ],
   "TotalAchievements": 493,
@@ -8629,9 +8640,9 @@
       "ID": "objective_completed_3",
       "SetID": "cc37lbc",
       "Name": "The Cursed Farmer",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 353
     },
     {
       "ID": "objective_completed_34",
@@ -10871,7 +10882,7 @@
       "Name": "The Court of Storms",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "objective_completed_1356",
@@ -10902,21 +10913,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54582,
-      "Completed": 2662
+      "Progressed": 54585,
+      "Completed": 2664
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88308,
+      "Progressed": 88311,
       "Completed": 1862
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-05-22T11:57:48.4900538+00:00",
-  "LastChanged_Achievements": "2023-05-22T16:06:31.2377788+00:00",
+  "LastChanged": "2023-05-22T16:57:57.9886051+00:00",
+  "LastChanged_Achievements": "2023-05-22T17:05:45.6279232+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-22T15:58:16.7223794+00:00",
-  "LastUpdate_Achievements": "2023-05-22T16:06:31.2415814+00:00"
+  "LastUpdate_Ratings": "2023-05-22T16:57:57.9886058+00:00",
+  "LastUpdate_Achievements": "2023-05-22T17:05:45.6303182+00:00"
 }

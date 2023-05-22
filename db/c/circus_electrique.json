@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 196,
-  "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_Completed": 133,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 405,
+  "EOS_Progressed": 406,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -154,6 +154,11 @@
       "Time": "2023-05-22T02:11:42.6204682+00:00",
       "NumProgressed": 405,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-22T17:05:28.1482709+00:00",
+      "NumProgressed": 406,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -221,7 +226,7 @@
       "Name": "Built in a Day",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -237,7 +242,7 @@
       "Name": "Time Travel!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -269,7 +274,7 @@
       "Name": "More Brain Than Brawn",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -403,9 +408,9 @@
       "ID": "ACHIEVEMENT_31",
       "SetID": "631ndc2",
       "Name": "King of District 2",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -477,7 +482,7 @@
       "Name": "Marketing Manager",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -564,7 +569,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 405,
+      "Progressed": 406,
       "Completed": 1
     }
   ],
@@ -572,8 +577,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-05-22T16:06:11.06242+00:00",
+  "LastChanged_Achievements": "2023-05-22T17:05:28.1482705+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.3315704+00:00",
-  "LastUpdate_Ratings": "2023-05-22T15:59:17.9622123+00:00",
-  "LastUpdate_Achievements": "2023-05-22T16:06:11.0624966+00:00"
+  "LastUpdate_Ratings": "2023-05-22T16:58:50.2010343+00:00",
+  "LastUpdate_Achievements": "2023-05-22T17:05:28.1483152+00:00"
 }

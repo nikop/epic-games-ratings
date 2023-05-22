@@ -20,7 +20,7 @@ Number of Ratings: 25  (23.09.2022)
 | A Forked Tongue | 54.00% | ~300 |
 | Between Two Fires | 51.00% | ~283 |
 | The Admirer | 50.00% | ~278 |
-| Precious | 43.00% | ~239 |
+| Precious | 44.00% | ~244 |
 | Devoted | 41.00% | ~228 |
 | The Farmer | 38.00% | ~211 |
 | Ever After | 35.00% | ~194 |
@@ -41,7 +41,7 @@ Number of Ratings: 25  (23.09.2022)
 | Lady Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 555 (Ranked 190)  
-Completed: 0 (0.00%) (Ranked 202)  
+Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,10 +2,10 @@
   "ID": "2ebac9c446314673836958b3238593f6",
   "Name": "Crowns and Pawns: Kingdom of Deceit",
   "ProductSlug": "crowns-and-pawns-kingdom-of-deceit-51b045",
-  "Ranking_EOS_Progress": 412,
-  "Ranking_EOS_Completed": 202,
+  "Ranking_EOS_Progress": 413,
+  "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-05-06T15:00:00+00:00",
     "PcReleaseDate": "2022-05-06T15:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:50.3533998+00:00",
   "LastChanged": "2023-03-31T05:57:50.3533999+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:06:56.9383937+00:00",
-  "LastUpdate_Ratings": "2023-05-22T16:00:14.4514997+00:00",
-  "LastUpdate_Achievements": "2023-05-22T16:01:48.3739514+00:00"
+  "LastUpdate_Ratings": "2023-05-22T16:59:35.4342263+00:00",
+  "LastUpdate_Achievements": "2023-05-22T17:00:51.9358771+00:00"
 }

@@ -24,7 +24,7 @@
 | Key Keeper's Curse | 3.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 40 (Ranked 294)  
-Completed: 1 (2.50%) (Ranked 57)  
+Completed: 1 (2.50%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -4,11 +4,11 @@
   "ProductSlug": "for-the-king",
   "Ranking_Rating": 192,
   "Ranking_Popularity": 209,
-  "Ranking_PopularitySum": 157,
-  "Ranking_EOS_Progress": 412,
-  "Ranking_EOS_Completed": 202,
+  "Ranking_PopularitySum": 156,
+  "Ranking_EOS_Progress": 413,
+  "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2020-04-23T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2566,10 +2566,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 2799,
       "NumberOfAwardsMax": 364
+    },
+    {
+      "Time": "2023-05-22T16:58:54.5089925+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2800,
+      "NumberOfAwardsMax": 364
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2799,
+  "NumberOfAwards": 2800,
   "NumberOfAwardsMax": 364,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2601,7 +2607,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 309
+      "Count": 310
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2645,8 +2651,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:13.7495529+00:00",
-  "LastChanged": "2023-05-21T13:01:33.52445+00:00",
+  "LastChanged": "2023-05-22T16:58:54.5089924+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:20.5497585+00:00",
-  "LastUpdate_Ratings": "2023-05-22T15:59:23.7283793+00:00",
-  "LastUpdate_Achievements": "2023-05-22T16:03:41.57356+00:00"
+  "LastUpdate_Ratings": "2023-05-22T16:58:54.5089932+00:00",
+  "LastUpdate_Achievements": "2023-05-22T17:03:32.3882944+00:00"
 }

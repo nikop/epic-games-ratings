@@ -45,7 +45,7 @@
 | Clever reference #451 | 19.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 21 (Ranked 313)  
-Completed: 4 (19.05%) (Ranked 8)  
+Completed: 4 (19.05%) (Ranked 7)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

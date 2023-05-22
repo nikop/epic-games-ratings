@@ -16,7 +16,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Trader | 32.00% | ~1,838 |
 | Xenocide | 32.00% | ~1,838 |
 | Design a Civilization | 31.00% | ~1,781 |
-| Design a Ship | 28.00% | ~1,609 |
+| Design a Ship | 29.00% | ~1,666 |
 | Commodity Seller | 26.00% | ~1,494 |
 | Prestige Victory! | 14.00% | ~804 |
 | Galactic War | 11.00% | ~632 |
@@ -80,7 +80,7 @@ Number of Ratings: 429  (23.09.2022)
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,745 (Ranked 119)  
-Completed: 0 (0.00%) (Ranked 202)  
+Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

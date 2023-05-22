@@ -1,43 +1,43 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.77 (Ranked 106)  
+Rating: 4.77 (Ranked 105)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 6.00% | ~16,251 |
-| Grappling with a Graphorn | 6.00% | ~16,251 |
-| The One Who Mastered Memories | 6.00% | ~16,251 |
-| The Hallowed Hero | 6.00% | ~16,251 |
-| The Hero of Hogwarts | 6.00% | ~16,251 |
-| The Defender of Dragons | 6.00% | ~16,251 |
-| Coasting Along | 6.00% | ~16,251 |
-| The Avenging Gazelle | 5.00% | ~13,543 |
-| A Sallow Grave | 5.00% | ~13,543 |
-| Challenge Accepted | 5.00% | ~13,543 |
-| A Keen Sense of Spell | 5.00% | ~13,543 |
-| Loom for Improvement | 5.00% | ~13,543 |
-| A Talent for Spending | 5.00% | ~13,543 |
-| The Spell Master | 5.00% | ~13,543 |
-| First Class Student | 5.00% | ~13,543 |
-| Troll with the Punches | 5.00% | ~13,543 |
-| That's a Keeper | 5.00% | ~13,543 |
-| Rising From the Ashes | 5.00% | ~13,543 |
-| Beast Friends | 4.00% | ~10,834 |
-| Flight the Good Flight | 4.00% | ~10,834 |
-| Followed the Butterflies | 4.00% | ~10,834 |
+| The Sort Who Makes an Entrance | 6.00% | ~16,253 |
+| Grappling with a Graphorn | 6.00% | ~16,253 |
+| The One Who Mastered Memories | 6.00% | ~16,253 |
+| The Hallowed Hero | 6.00% | ~16,253 |
+| The Hero of Hogwarts | 6.00% | ~16,253 |
+| The Defender of Dragons | 6.00% | ~16,253 |
+| Coasting Along | 6.00% | ~16,253 |
+| The Avenging Gazelle | 5.00% | ~13,544 |
+| A Sallow Grave | 5.00% | ~13,544 |
+| Challenge Accepted | 5.00% | ~13,544 |
+| A Keen Sense of Spell | 5.00% | ~13,544 |
+| Loom for Improvement | 5.00% | ~13,544 |
+| A Talent for Spending | 5.00% | ~13,544 |
+| The Spell Master | 5.00% | ~13,544 |
+| First Class Student | 5.00% | ~13,544 |
+| Troll with the Punches | 5.00% | ~13,544 |
+| That's a Keeper | 5.00% | ~13,544 |
+| Rising From the Ashes | 5.00% | ~13,544 |
+| Beast Friends | 4.00% | ~10,835 |
+| Flight the Good Flight | 4.00% | ~10,835 |
+| Followed the Butterflies | 4.00% | ~10,835 |
 | The Seeker of Knowledge | 3.00% | ~8,126 |
 | The Root of the Problem | 3.00% | ~8,126 |
 | Third Time's a Charm | 3.00% | ~8,126 |
 | Room with a View | 3.00% | ~8,126 |
 | The Ends Petrify the Means | 3.00% | ~8,126 |
 | Raising Expectations | 3.00% | ~8,126 |
-| The Toast of the Town | 2.00% | ~5,417 |
-| Going Through the Potions | 2.00% | ~5,417 |
-| Floo Around the World | 2.00% | ~5,417 |
-| The Intrepid Explorer | 2.00% | ~5,417 |
-| The Gryffindor in the Graveyard | 2.00% | ~5,417 |
-| The Wise Owl | 2.00% | ~5,417 |
+| The Toast of the Town | 2.00% | ~5,418 |
+| Going Through the Potions | 2.00% | ~5,418 |
+| Floo Around the World | 2.00% | ~5,418 |
+| The Intrepid Explorer | 2.00% | ~5,418 |
+| The Gryffindor in the Graveyard | 2.00% | ~5,418 |
+| The Wise Owl | 2.00% | ~5,418 |
 | The Good Samaritan | 1.00% | ~2,709 |
 | Put Down Roots | 1.00% | ~2,709 |
 | The Auror's Apprentice | 1.00% | ~2,709 |
@@ -48,11 +48,11 @@ Rating: 4.77 (Ranked 106)
 | A Forte for Achievement | 0.80% | ~2,167 |
 | Merlin's Beard! | 0.60% | ~1,625 |
 | Spilled Milk | 0.50% | ~1,354 |
-| The Nature of the Beast | 0.40% | ~1,083 |
+| The Nature of the Beast | 0.40% | ~1,084 |
 | Collector's Edition | 0.20% | ~542 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 270,856 (Ranked 38)  
-Completed: 368 (0.14%) (Ranked 152)  
+Progressed: 270,880 (Ranked 38)  
+Completed: 369 (0.14%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -83,10 +83,10 @@ Completed: 368 (0.14%) (Ranked 152)
 | 2023-05-19 | 268,534 | 365 |
 | 2023-05-20 | 269,542 | 364 |
 | 2023-05-21 | 270,427 | 365 |
-| 2023-05-22 | 270,856 | 368 |
+| 2023-05-22 | 270,880 | 369 |
 ## Awards
 Max (Character Customization): 18,994  (Ranked 18)  
-Sum: 34,986 (Ranked 33)  
+Sum: 35,001 (Ranked 33)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -94,8 +94,8 @@ Diff (max vs sum): -15
 | This game has Great Boss Battles | 8,963 |
 | This game is Extremely Fun | 779 |
 | This game is Great for Beginners | 773 |
-| This game is Relaxing | 761 |
-| This game has Amazing Storytelling | 747 |
+| This game is Relaxing | 768 |
+| This game has Amazing Storytelling | 755 |
 | This game has Diverse Characters | 744 |
 | This game has Amazing Characters | 740 |
 | This game is Highly Recommended | 714 |
@@ -164,4 +164,4 @@ Diff (max vs sum): -15
 | 2023-05-19 | 4.77 | 18,908 | 34,789 |
 | 2023-05-20 | 4.77 | 18,954 | 34,859 |
 | 2023-05-21 | 4.77 | 18,994 | 34,952 |
-| 2023-05-22 | 4.77 | 18,994 | 34,986 |
+| 2023-05-22 | 4.77 | 18,994 | 35,001 |

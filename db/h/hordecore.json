@@ -3,9 +3,9 @@
   "Name": "HordeCore",
   "ProductSlug": "hordecore",
   "Ranking_EOS_Progress": 208,
-  "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_Completed": 46,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-03-02T17:00:00+00:00",
     "PcReleaseDate": "2022-03-02T17:00:00+00:00",
@@ -96,9 +96,9 @@
       "ID": "11",
       "SetID": "1530e6b",
       "Name": "Getting the Hang Of This",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 156
+      "UsersEstimate": 159
     },
     {
       "ID": "12",
@@ -313,8 +313,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.7013302+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.4754344+00:00",
   "LastChanged": "2023-03-31T05:57:38.7013303+00:00",
-  "LastChanged_Achievements": "2023-05-22T16:06:19.412303+00:00",
+  "LastChanged_Achievements": "2023-05-22T17:05:34.8091615+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:09:25.4313904+00:00",
-  "LastUpdate_Ratings": "2023-05-22T16:00:23.8663356+00:00",
-  "LastUpdate_Achievements": "2023-05-22T16:06:19.4123222+00:00"
+  "LastUpdate_Ratings": "2023-05-22T16:59:42.2345747+00:00",
+  "LastUpdate_Achievements": "2023-05-22T17:05:34.8091822+00:00"
 }

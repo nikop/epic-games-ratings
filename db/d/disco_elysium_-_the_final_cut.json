@@ -6,9 +6,9 @@
   "Ranking_Popularity": 157,
   "Ranking_PopularitySum": 229,
   "Ranking_EOS_Progress": 56,
-  "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_Completed": 187,
+  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1079,9 +1079,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 118750,
+  "EOS_Progressed": 118751,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 316,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3714,6 +3714,11 @@
       "Time": "2023-05-22T16:06:08.5061366+00:00",
       "NumProgressed": 118750,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-22T17:05:25.8492912+00:00",
+      "NumProgressed": 118751,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 40,
@@ -3749,7 +3754,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3562
+      "UsersEstimate": 3563
     },
     {
       "ID": "ACH_COP_ART",
@@ -3861,7 +3866,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 17812
+      "UsersEstimate": 17813
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -3869,7 +3874,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 13062
+      "UsersEstimate": 13063
     },
     {
       "ID": "ACH_CUNO",
@@ -3949,7 +3954,7 @@
       "Name": "Bother Kim After Hours",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3562
+      "UsersEstimate": 3563
     },
     {
       "ID": "ACH_KIM_JACKET",
@@ -4044,15 +4049,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 118750,
+      "Progressed": 118751,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-05-19T22:59:29.6177829+00:00",
-  "LastChanged_Achievements": "2023-05-22T16:06:08.5061361+00:00",
+  "LastChanged_Achievements": "2023-05-22T17:05:25.8492908+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:22.6216682+00:00",
-  "LastUpdate_Ratings": "2023-05-22T15:59:28.15279+00:00",
-  "LastUpdate_Achievements": "2023-05-22T16:06:08.5061831+00:00"
+  "LastUpdate_Ratings": "2023-05-22T16:58:57.4116814+00:00",
+  "LastUpdate_Achievements": "2023-05-22T17:05:25.8493354+00:00"
 }

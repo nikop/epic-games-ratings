@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 170,
-  "Ranking_EOS_Completed": 202,
+  "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 881,
+  "EOS_Progressed": 882,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -343,6 +343,11 @@
       "Time": "2023-05-22T14:06:15.5725123+00:00",
       "NumProgressed": 881,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T17:05:28.8686252+00:00",
+      "NumProgressed": 882,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -386,7 +391,7 @@
       "Name": "The First Step",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "06",
@@ -410,7 +415,7 @@
       "Name": "Monster Slayer",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "09",
@@ -482,7 +487,7 @@
       "Name": "Ready to Learn",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "18",
@@ -490,7 +495,7 @@
       "Name": "Earning Trust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "19",
@@ -498,7 +503,7 @@
       "Name": "Broken Oath",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "20",
@@ -520,9 +525,9 @@
       "ID": "22",
       "SetID": "73ikgfc",
       "Name": "House Vulisica\u0027s Heirloom",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 123
+      "UsersEstimate": 115
     },
     {
       "ID": "23",
@@ -537,7 +542,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 881,
+      "Progressed": 882,
       "Completed": 0
     }
   ],
@@ -545,8 +550,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-05-22T16:06:11.9655529+00:00",
+  "LastChanged_Achievements": "2023-05-22T17:05:28.8686247+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:05:01.1887177+00:00",
-  "LastUpdate_Ratings": "2023-05-22T16:00:10.2647186+00:00",
-  "LastUpdate_Achievements": "2023-05-22T16:06:11.9655805+00:00"
+  "LastUpdate_Ratings": "2023-05-22T16:59:32.4139405+00:00",
+  "LastUpdate_Achievements": "2023-05-22T17:05:28.8686422+00:00"
 }

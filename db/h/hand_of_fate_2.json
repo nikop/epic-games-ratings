@@ -6,9 +6,9 @@
   "Ranking_Popularity": 427,
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 18,
-  "Ranking_EOS_Completed": 183,
+  "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -838,9 +838,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 656600,
+  "EOS_Progressed": 656602,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 409,
+  "EOS_NewPlayers": 406,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3613,6 +3613,11 @@
       "Time": "2023-05-22T16:05:53.1561447+00:00",
       "NumProgressed": 656600,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-05-22T17:05:12.7544003+00:00",
+      "NumProgressed": 656602,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -3624,7 +3629,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 472752
+      "UsersEstimate": 472753
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -3632,7 +3637,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 380828
+      "UsersEstimate": 380829
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -4007,15 +4012,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 656600,
+      "Progressed": 656602,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-05-18T14:57:37.1411686+00:00",
-  "LastChanged_Achievements": "2023-05-22T16:05:53.1561443+00:00",
+  "LastChanged_Achievements": "2023-05-22T17:05:12.7543998+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:07.1745323+00:00",
-  "LastUpdate_Ratings": "2023-05-22T15:57:45.9763356+00:00",
-  "LastUpdate_Achievements": "2023-05-22T16:05:53.1562018+00:00"
+  "LastUpdate_Ratings": "2023-05-22T16:57:34.3316091+00:00",
+  "LastUpdate_Achievements": "2023-05-22T17:05:12.754448+00:00"
 }

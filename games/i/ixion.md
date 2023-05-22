@@ -22,10 +22,10 @@ Rating: 4.55 (Ranked 467)
 | Hope Seeker | 2.00% | ~42 |
 | Exceeding Capacity | 1.00% | ~21 |
 | Power Outage | 1.00% | ~21 |
+| Access Granted | 1.00% | ~21 |
 | Convenient Transport | 1.00% | ~21 |
 | Please Make it Stop! | 1.00% | ~21 |
 | Sightseeing | 0.90% | ~19 |
-| Access Granted | 0.90% | ~19 |
 | Necessary Enhancement | 0.90% | ~19 |
 | From the Past | 0.80% | ~17 |
 | Man's Best Friend | 0.70% | ~15 |
@@ -64,7 +64,7 @@ Rating: 4.55 (Ranked 467)
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,076 (Ranked 143)  
-Completed: 0 (0.00%) (Ranked 202)  
+Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

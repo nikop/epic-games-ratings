@@ -6,9 +6,9 @@
   "Ranking_Popularity": 362,
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 180,
-  "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_Completed": 151,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
     "PcReleaseDate": "2019-04-15T00:00:00+00:00",
@@ -780,9 +780,9 @@
       "ID": "AchievementPrickOfConscience",
       "SetID": "76o014g",
       "Name": "Prick of conscience",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "AchievementRailroadTycoon",
@@ -900,9 +900,9 @@
       "ID": "AchievementUpgradeComplete",
       "SetID": "76o014g",
       "Name": "Upgrade complete",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 28
     },
     {
       "ID": "AchievementUrbanizationAge",
@@ -978,8 +978,8 @@
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-05-04T07:57:22.9551284+00:00",
-  "LastChanged_Achievements": "2023-05-22T16:06:09.0831364+00:00",
+  "LastChanged_Achievements": "2023-05-22T17:05:26.5006337+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:00.6806293+00:00",
-  "LastUpdate_Ratings": "2023-05-22T15:57:38.1320863+00:00",
-  "LastUpdate_Achievements": "2023-05-22T16:06:09.0832576+00:00"
+  "LastUpdate_Ratings": "2023-05-22T16:57:28.4301595+00:00",
+  "LastUpdate_Achievements": "2023-05-22T17:05:26.5007095+00:00"
 }

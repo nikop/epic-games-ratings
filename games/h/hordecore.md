@@ -11,7 +11,7 @@
 | Master Chef | 66.00% | ~219 |
 | Master of Cards | 59.00% | ~196 |
 | Over Nine Thousaaand | 57.00% | ~189 |
-| Getting the Hang Of This | 47.00% | ~156 |
+| Getting the Hang Of This | 48.00% | ~159 |
 | Collector | 29.00% | ~96 |
 | Poker-Man | 21.00% | ~70 |
 | That’s What Friends Are For | 20.00% | ~66 |
@@ -34,7 +34,7 @@
 | Through Hell and Back | 3.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 332 (Ranked 208)  
-Completed: 10 (3.01%) (Ranked 47)  
+Completed: 10 (3.01%) (Ranked 46)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1,7 +1,7 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 117)  
+Rating: 4.76 (Ranked 116)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -35,6 +35,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Hanged Man's Notes | 2.00% | ~157 |
 | The Lady of the Forest | 2.00% | ~157 |
 | Beware Still Water | 2.00% | ~157 |
+| Path of the Demon | 1.00% | ~91 |
 | Path of the Aeon | 1.00% | ~91 |
 | Path of the Trickster | 1.00% | ~91 |
 | Path of the Lich | 1.00% | ~91 |
@@ -43,12 +44,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Truly Important Deed | 1.00% | ~91 |
 | Stay Underground | 1.00% | ~79 |
 | Sarkoris Will Be Green | 1.00% | ~79 |
-| Path of the Demon | 0.90% | ~82 |
 | Abyssal Conspiracy | 0.80% | ~73 |
-| The Final Threshold | 0.70% | ~64 |
 | End of Eternal Guard | 0.70% | ~64 |
 | This Wall Won't Fall | 0.70% | ~55 |
 | Not the Last Sarkorian | 0.70% | ~55 |
+| The Final Threshold | 0.60% | ~54 |
 | Path of the Dragon | 0.60% | ~54 |
 | Path of the Legend | 0.60% | ~54 |
 | Strategic Victory | 0.60% | ~54 |
@@ -123,8 +123,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,075 (Ranked 109)  
-Completed: 0 (0.00%) (Ranked 202)  
+Progressed: 9,077 (Ranked 109)  
+Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -155,7 +155,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-19 | 8,921 | 0 |
 | 2023-05-20 | 8,990 | 0 |
 | 2023-05-21 | 9,045 | 0 |
-| 2023-05-22 | 9,075 | 0 |
+| 2023-05-22 | 9,077 | 0 |
 ## Awards
 Max (Character Customization): 1,636  (Ranked 111)  
 Sum: 6,639 (Ranked 110)  

@@ -26,11 +26,11 @@
 | Magnitude 5 | 14.00% | ~5 |
 | Bookworm | 14.00% | ~5 |
 | Payback | 14.00% | ~5 |
+| Full power | 11.00% | ~4 |
+| "Ah sh*t... Here we go again!" | 11.00% | ~4 |
 | Compulsive hoarder | 11.00% | ~4 |
 | MayDay! MayDay! | 11.00% | ~4 |
-| Full power | 8.00% | ~3 |
-| "Ah sh*t... Here we go again!" | 8.00% | ~3 |
-| GG EZ | 3.00% | ~1 |
+| GG EZ | 6.00% | ~2 |
 | Comeback | 3.00% | ~1 |
 | Gooooooaaaaal!!! | 3.00% | ~1 |
 | Abyssal God | 0.00% | ~0 |
@@ -40,7 +40,7 @@
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 36 (Ranked 297)  
-Completed: 0 (0.00%) (Ranked 202)  
+Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

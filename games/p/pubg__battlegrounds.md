@@ -5,46 +5,46 @@ Rating: 3.99 (Ranked 889)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 74.00% | ~273,982 |
-| Health Junkie | 45.00% | ~166,611 |
-| You Complete Me | 41.00% | ~151,801 |
-| Guardian Angel | 39.00% | ~144,396 |
-| Devil Inside Me | 31.00% | ~114,776 |
-| Killing Spree | 22.00% | ~81,454 |
-| Fantastic Four | 21.00% | ~77,752 |
-| Marksman Novice | 20.00% | ~74,049 |
-| First Blood | 13.00% | ~48,132 |
-| Top 10 | 13.00% | ~48,132 |
-| Now You See Me, Now You Don't | 12.00% | ~44,430 |
-| Marksman Expert | 9.00% | ~33,322 |
-| CQB Novice | 8.00% | ~29,620 |
-| Collateral Damage | 7.00% | ~25,917 |
-| Airborne | 6.00% | ~22,215 |
-| Pacifist | 6.00% | ~22,215 |
-| Last Survivor | 4.00% | ~14,810 |
-| Marksman Master | 4.00% | ~14,810 |
-| Trigonometry Novice | 4.00% | ~14,810 |
-| First Come, First Served | 4.00% | ~14,810 |
-| Dynamic Duo | 4.00% | ~14,810 |
-| Winner Winner Chicken Dinner! | 2.00% | ~7,405 |
-| Okay, Now I'm Ready | 2.00% | ~7,405 |
-| Agent 48 | 2.00% | ~7,405 |
-| Don't Pan Me Bro! | 2.00% | ~7,405 |
-| Fast and Furious | 2.00% | ~7,405 |
-| CQB Expert | 2.00% | ~7,405 |
-| Fury Road | 1.00% | ~3,702 |
-| Ghost | 1.00% | ~3,702 |
-| Cruising with the Enemy | 1.00% | ~3,702 |
+| Blood on My Hands | 74.00% | ~274,023 |
+| Health Junkie | 45.00% | ~166,635 |
+| You Complete Me | 41.00% | ~151,823 |
+| Guardian Angel | 39.00% | ~144,417 |
+| Devil Inside Me | 31.00% | ~114,793 |
+| Killing Spree | 22.00% | ~81,466 |
+| Fantastic Four | 21.00% | ~77,763 |
+| Marksman Novice | 20.00% | ~74,060 |
+| First Blood | 13.00% | ~48,139 |
+| Top 10 | 13.00% | ~48,139 |
+| Now You See Me, Now You Don't | 12.00% | ~44,436 |
+| Marksman Expert | 9.00% | ~33,327 |
+| CQB Novice | 8.00% | ~29,624 |
+| Collateral Damage | 7.00% | ~25,921 |
+| Airborne | 6.00% | ~22,218 |
+| Pacifist | 6.00% | ~22,218 |
+| Last Survivor | 4.00% | ~14,812 |
+| Marksman Master | 4.00% | ~14,812 |
+| Trigonometry Novice | 4.00% | ~14,812 |
+| First Come, First Served | 4.00% | ~14,812 |
+| Dynamic Duo | 4.00% | ~14,812 |
+| Winner Winner Chicken Dinner! | 2.00% | ~7,406 |
+| Okay, Now I'm Ready | 2.00% | ~7,406 |
+| Agent 48 | 2.00% | ~7,406 |
+| Don't Pan Me Bro! | 2.00% | ~7,406 |
+| Fast and Furious | 2.00% | ~7,406 |
+| CQB Expert | 2.00% | ~7,406 |
+| Fury Road | 1.00% | ~3,703 |
+| Ghost | 1.00% | ~3,703 |
+| Cruising with the Enemy | 1.00% | ~3,703 |
 | Nade King Novice | 0.70% | ~2,592 |
-| Master Assassin | 0.50% | ~1,851 |
+| Master Assassin | 0.50% | ~1,852 |
 | CQB Master | 0.30% | ~1,111 |
 | Nade King Master | 0.10% | ~370 |
 | Nade King Expert | 0.10% | ~370 |
 | The First Rule Is… | 0.10% | ~370 |
 | Shoot the Knee | 0.10% | ~370 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 370,246 (Ranked 36)  
-Completed: 8 (0.00%) (Ranked 202)  
+Progressed: 370,301 (Ranked 36)  
+Completed: 8 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -75,18 +75,18 @@ Completed: 8 (0.00%) (Ranked 202)
 | 2023-05-19 | 366,187 | 8 |
 | 2023-05-20 | 367,762 | 8 |
 | 2023-05-21 | 369,462 | 8 |
-| 2023-05-22 | 370,246 | 8 |
+| 2023-05-22 | 370,301 | 8 |
 ## Awards
 Max (Competitive Players): 1,964  (Ranked 104)  
-Sum: 8,215 (Ranked 90)  
+Sum: 8,233 (Ranked 90)  
 Diff (max vs sum): 14  
 | Award | Count |
 | ----- | ----- |
 | This game has Competitive Players | 1,964 |
 | This game has Quickly Understood Controls | 1,828 |
-| This game has Challenging Combat | 1,717 |
+| This game has Challenging Combat | 1,730 |
 | This game is Highly Recommended | 1,579 |
-| This game has a Competitive Community | 1,127 |
+| This game has a Competitive Community | 1,132 |
 | This game is Extremely Fun | 122 |
 | This game has Diverse Characters | 76 |
 | This game is Relaxing | 57 |
@@ -177,4 +177,4 @@ Diff (max vs sum): 14
 | 2023-05-19 | 3.99 | 1,929 | 8,093 |
 | 2023-05-20 | 3.99 | 1,948 | 8,159 |
 | 2023-05-21 | 3.98 | 1,964 | 8,205 |
-| 2023-05-22 | 3.99 | 1,964 | 8,215 |
+| 2023-05-22 | 3.99 | 1,964 | 8,233 |

@@ -1,7 +1,7 @@
 # Grand Theft Auto III – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-iii-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto_iii_–_the_definitive_edition.json)  
-Rating: 4.13 (Ranked 854)  
+Rating: 4.15 (Ranked 845)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -36,7 +36,7 @@ Rating: 4.13 (Ranked 854)
 | King of Liberty City | 0.50% | ~26 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,193 (Ranked 122)  
-Completed: 26 (0.50%) (Ranked 107)  
+Completed: 26 (0.50%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -112,3 +112,4 @@ Completed: 26 (0.50%) (Ranked 107)
 | 2023-05-09 | 4.13 | 0 | 0 |
 | 2023-05-11 | 4.12 | 0 | 0 |
 | 2023-05-12 | 4.13 | 0 | 0 |
+| 2023-05-22 | 4.15 | 0 | 0 |

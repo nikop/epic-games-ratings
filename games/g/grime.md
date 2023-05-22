@@ -24,8 +24,8 @@ Number of Ratings: 46  (23.09.2022)
 | Jawcrab | 8.00% | ~44 |
 | Jawstag | 8.00% | ~44 |
 | Celebration | 7.00% | ~39 |
+| Inevitable | 7.00% | ~39 |
 | Assimilation | 6.00% | ~33 |
-| Inevitable | 6.00% | ~33 |
 | Watcher | 6.00% | ~33 |
 | Predator | 6.00% | ~33 |
 | Dream | 6.00% | ~8 |
@@ -50,7 +50,7 @@ Number of Ratings: 46  (23.09.2022)
 | Spiral Heart | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 555 (Ranked 190)  
-Completed: 0 (0.00%) (Ranked 202)  
+Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

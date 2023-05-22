@@ -2,13 +2,13 @@
   "ID": "c8b495f1a9a34972ba0b0c46e8afec31",
   "Name": "Rain World",
   "ProductSlug": "rain-world-4c860c",
-  "Ranking_Rating": 6,
+  "Ranking_Rating": 5,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 412,
-  "Ranking_EOS_Completed": 202,
+  "Ranking_EOS_Progress": 413,
+  "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-01-25T06:00:00+00:00",
     "PcReleaseDate": "2017-03-28T05:00:00+00:00",
@@ -19,7 +19,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.9,
+  "Rating": 4.91,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:25.9902036+00:00",
@@ -30,6 +30,12 @@
     {
       "Time": "2023-05-18T16:59:05.2327347+00:00",
       "Rating": 4.9,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-22T16:58:33.0645848+00:00",
+      "Rating": 4.91,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -50,8 +56,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-01-27T19:57:19.8877819+00:00",
   "FirstSeenRating": "2023-03-31T05:57:25.9902032+00:00",
-  "LastChanged": "2023-05-18T16:59:05.2327344+00:00",
+  "LastChanged": "2023-05-22T16:58:33.0645844+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:21.28192+00:00",
-  "LastUpdate_Ratings": "2023-05-22T15:58:59.4111785+00:00",
-  "LastUpdate_Achievements": "2023-05-22T16:04:13.7268815+00:00"
+  "LastUpdate_Ratings": "2023-05-22T16:58:33.0645852+00:00",
+  "LastUpdate_Achievements": "2023-05-22T17:03:49.857636+00:00"
 }
