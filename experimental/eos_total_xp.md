@@ -60,6 +60,7 @@
 | [Ash of Gods: The Way](../games/a/ash_of_gods__the_way.md) | 49 | 1,000 |
 | [Astalon -Tears of the Earth-](../games/a/astalon_-tears_of_the_earth-.md) | 30 | 1,000 |
 | [Asteroids: Recharged](../games/a/asteroids__recharged.md) | 16 | 1,000 |
+| [Astronite](../games/a/a6f0804f960a472c95e3bae2e0543bb0.md) | 25 | 1,000 |
 | [Atari Mania](../games/a/atari_mania.md) | 18 | 1,000 |
 | [ATOM RPG](../games/a/atom_rpg.md) | 36 | 1,000 |
 | [ATOM RPG Trudograd](../games/a/atom_rpg_trudograd.md) | 32 | 1,000 |

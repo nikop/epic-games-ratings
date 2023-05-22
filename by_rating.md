@@ -61,7 +61,7 @@
 | 56 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 4.83 | 35 | 427 |
 | 56 | [The Last Campfire](games/t/the_last_campfire.md) | 4.83 | 0 | 491 |
 | 56 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.83 | 82 | 348 |
-| 62 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,301 | 118 |
+| 62 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.82 | 1,308 | 118 |
 | 62 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 4.82 | 5,507 | 58 |
 | 62 | [Citizen Sleeper](games/c/citizen_sleeper.md) | 4.82 | 0 | 491 |
 | 62 | [Cook Serve Delicious 2](games/c/cook_serve_delicious_2.md) | 4.82 | 0 | 491 |
@@ -183,7 +183,7 @@
 | 177 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,318 | 50 |
 | 177 | [Fez](games/f/fez.md) | 4.71 | 23 | 469 |
 | 177 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 427 |
-| 177 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,185 | 43 |
+| 177 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,188 | 43 |
 | 177 | [Monster Jam Steel Titans 2](games/m/monster_jam_steel_titans_2.md) | 4.71 | 0 | 491 |
 | 177 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 0 | 491 |
 | 177 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 0 | 491 |
@@ -360,7 +360,7 @@
 | 358 | [20XX](games/2/20xx.md) | 4.61 | 36 | 421 |
 | 358 | [Alien: Isolation](games/a/alien__isolation.md) | 4.61 | 128 | 297 |
 | 358 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.61 | 0 | 491 |
-| 358 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 4,110 | 71 |
+| 358 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 4,118 | 71 |
 | 358 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 0 | 491 |
 | 358 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 376 | 206 |
 | 358 | [Darkwood](games/d/darkwood.md) | 4.61 | 319 | 221 |
@@ -690,7 +690,7 @@
 | 686 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 491 |
 | 686 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 547 | 177 |
 | 686 | [Kitaria Fables](games/k/kitaria_fables.md) | 4.39 | 0 | 491 |
-| 686 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,667 | 30 |
+| 686 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,669 | 30 |
 | 686 | [Tannenberg](games/t/tannenberg.md) | 4.39 | 322 | 219 |
 | 693 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 491 |
 | 693 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.38 | 0 | 491 |
@@ -889,10 +889,10 @@
 | 886 | [Banished](games/b/banished.md) | 4.00 | 0 | 491 |
 | 886 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 0 | 491 |
 | 889 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 368 | 207 |
-| 890 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 491 |
-| 890 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 1,964 | 104 |
-| 890 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,584 | 66 |
-| 890 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 0 | 491 |
+| 889 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.99 | 1,964 | 104 |
+| 891 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 491 |
+| 891 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,584 | 66 |
+| 891 | [The First Tree](games/t/the_first_tree.md) | 3.98 | 0 | 491 |
 | 894 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 491 |
 | 894 | [Martha Is Dead](games/m/martha_is_dead.md) | 3.97 | 0 | 491 |
 | 896 | [Chimeraland](games/c/chimeraland.md) | 3.96 | 21 | 479 |
@@ -918,10 +918,10 @@
 | 916 | [Poker Club](games/p/poker_club.md) | 3.77 | 0 | 491 |
 | 916 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 0 | 491 |
 | 916 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 54 | 382 |
-| 919 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.75 | 0 | 491 |
-| 919 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 0 | 491 |
-| 921 | [Blood of Steel](games/b/blood_of_steel.md) | 3.73 | 0 | 491 |
-| 922 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 3.72 | 0 | 491 |
+| 919 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 3.76 | 0 | 491 |
+| 920 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 3.75 | 0 | 491 |
+| 920 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 0 | 491 |
+| 922 | [Blood of Steel](games/b/blood_of_steel.md) | 3.73 | 0 | 491 |
 | 923 | [To The Rescue](games/t/to_the_rescue.md) | 3.70 | 0 | 491 |
 | 924 | [Adios](games/a/adios.md) | 3.41 | 0 | 491 |
 | 925 | [Redfall](games/r/redfall.md) | 3.40 | 0 | 491 |
