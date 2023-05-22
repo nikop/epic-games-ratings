@@ -17,15 +17,15 @@
 | The Cultists | 10.00% | ~12 |
 | Alone In The Dark | 9.00% | ~11 |
 | The Forgotten Tower | 8.00% | ~9 |
+| Rest In Peace | 6.00% | ~7 |
 | The Curse Is Real | 6.00% | ~7 |
 | Lover of classics | 5.00% | ~6 |
 | Researcher | 5.00% | ~6 |
-| Rest In Peace | 5.00% | ~6 |
 | I Am The Gate Keeper! | 5.00% | ~6 |
+| What A Mansion | 5.00% | ~6 |
 | Modern Player | 4.00% | ~5 |
 | The bus stop | 4.00% | ~5 |
 | Trapped | 4.00% | ~5 |
-| What A Mansion | 4.00% | ~5 |
 | This Mansion Is Clean | 3.00% | ~4 |
 | Armed To The Teeth | 2.00% | ~2 |
 | Back In Time | 2.00% | ~2 |

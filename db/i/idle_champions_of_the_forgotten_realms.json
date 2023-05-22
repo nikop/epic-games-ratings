@@ -3874,9 +3874,9 @@
       "Count": 3238
     }
   ],
-  "EOS_Progressed": 88321,
+  "EOS_Progressed": 88325,
   "EOS_Completed": 1862,
-  "EOS_NewPlayers": 710,
+  "EOS_NewPlayers": 714,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
@@ -6969,6 +6969,11 @@
       "Time": "2023-05-22T19:06:49.5928769+00:00",
       "NumProgressed": 88321,
       "NumCompleted": 1862
+    },
+    {
+      "Time": "2023-05-22T20:06:07.0874104+00:00",
+      "NumProgressed": 88325,
+      "NumCompleted": 1862
     }
   ],
   "TotalAchievements": 493,
@@ -7650,9 +7655,9 @@
       "ID": "objective_completed_1160",
       "SetID": "415jc5c",
       "Name": "Best Thay Ever",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 109
     },
     {
       "ID": "objective_completed_1163",
@@ -10923,21 +10928,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54595,
-      "Completed": 2665
+      "Progressed": 54599,
+      "Completed": 2666
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88321,
+      "Progressed": 88325,
       "Completed": 1862
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-22T16:57:57.9886051+00:00",
-  "LastChanged_Achievements": "2023-05-22T19:06:49.5928764+00:00",
+  "LastChanged_Achievements": "2023-05-22T20:06:07.0874099+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-22T18:58:26.1526748+00:00",
-  "LastUpdate_Achievements": "2023-05-22T19:06:49.5950657+00:00"
+  "LastUpdate_Ratings": "2023-05-22T19:57:56.5606387+00:00",
+  "LastUpdate_Achievements": "2023-05-22T20:06:07.089642+00:00"
 }

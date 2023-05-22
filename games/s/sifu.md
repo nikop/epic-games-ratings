@@ -35,11 +35,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Mind | 0.50% | ~3,523 |
 | I know Kung-Fu | 0.50% | ~3,523 |
 | A Touch of Acumen | 0.50% | ~70 |
-| Muk Yan Master | 0.40% | ~2,818 |
-| Tiger on Fire | 0.40% | ~2,818 |
-| Source of Flying Daggers | 0.40% | ~2,818 |
-| Iron Money | 0.40% | ~2,818 |
-| Detective Story | 0.40% | ~2,818 |
+| Muk Yan Master | 0.40% | ~2,819 |
+| Tiger on Fire | 0.40% | ~2,819 |
+| Source of Flying Daggers | 0.40% | ~2,819 |
+| Iron Money | 0.40% | ~2,819 |
+| Detective Story | 0.40% | ~2,819 |
 | Legendary Talismans of Wuxing | 0.30% | ~2,114 |
 | Prodigal Child | 0.30% | ~2,114 |
 | The 36th Chamber of Kung-Fu | 0.30% | ~2,114 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~705 |
 | Warriors from the Mountain | 0.10% | ~705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,623 (Ranked 15)  
+Progressed: 704,631 (Ranked 15)  
 Completed: 12,733 (1.81%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 12,733 (1.81%) (Ranked 64)
 | 2023-05-19 | 703,575 | 12,731 |
 | 2023-05-20 | 704,036 | 12,732 |
 | 2023-05-21 | 704,407 | 12,733 |
-| 2023-05-22 | 704,623 | 12,733 |
+| 2023-05-22 | 704,631 | 12,733 |
 ## Awards
 Max (Great Boss Battles): 6,082  (Ranked 53)  
 Sum: 10,353 (Ranked 77)  

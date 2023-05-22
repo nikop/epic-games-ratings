@@ -9,8 +9,8 @@ Rating: 4.18 (Ranked 831)
 | Chew 'Em Up | 5.00% | ~666 |
 | Giving Back | 4.00% | ~533 |
 | Big Game Hunter | 4.00% | ~50 |
-| Instigator | 3.00% | ~37 |
-| Bear Trap | 3.00% | ~37 |
+| Instigator | 3.00% | ~38 |
+| Bear Trap | 3.00% | ~38 |
 | Float Like A Butterfly | 2.00% | ~266 |
 | Big Spender | 2.00% | ~25 |
 | Get a Grip | 1.00% | ~133 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 831)
 | I am the Danger | 0.00% | ~0 |
 | Subject Alpha | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,316 (Ranked 101)  
+Progressed: 13,324 (Ranked 101)  
 Completed: 52 (0.39%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,16 +77,16 @@ Completed: 52 (0.39%) (Ranked 112)
 | 2023-05-19 | 12,841 | 51 |
 | 2023-05-20 | 13,057 | 51 |
 | 2023-05-21 | 13,223 | 52 |
-| 2023-05-22 | 13,316 | 52 |
+| 2023-05-22 | 13,324 | 52 |
 ## Awards
 Max (Amazing Storytelling): 46  (Ranked 397)  
-Sum: 246 (Ranked 341)  
+Sum: 247 (Ranked 341)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 46 |
 | This game has Amazing Storytelling | 46 |
-| This game has Amazing Characters | 43 |
+| This game has Amazing Characters | 44 |
 | This game is Extremely Fun | 41 |
 | This game has Quickly Understood Controls | 40 |
 | This game has Challenging Combat | 30 |
@@ -139,3 +139,4 @@ Diff (max vs sum): 56
 | 2023-04-30 | 4.18 | 46 | 244 |
 | 2023-05-05 | 4.18 | 46 | 245 |
 | 2023-05-16 | 4.18 | 46 | 246 |
+| 2023-05-22 | 4.18 | 46 | 247 |

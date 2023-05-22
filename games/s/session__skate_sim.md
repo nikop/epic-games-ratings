@@ -6,18 +6,18 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 50.00% | ~1,016 |
-| Keeping it classy | 26.00% | ~529 |
-| Welcome to the family | 18.00% | ~366 |
+| You're free now! | 50.00% | ~1,019 |
+| Keeping it classy | 26.00% | ~530 |
+| Welcome to the family | 18.00% | ~367 |
 | The finer things in life | 17.00% | ~346 |
-| Backpacker | 12.00% | ~244 |
-| Go with the Flow | 12.00% | ~244 |
+| Backpacker | 12.00% | ~245 |
+| Go with the Flow | 12.00% | ~245 |
 | Plastic Surgeon | 9.00% | ~183 |
 | The flip trick crown jewel | 9.00% | ~183 |
 | Keep the dream alive | 8.00% | ~163 |
 | The hard way | 8.00% | ~163 |
 | Upfront shredder | 8.00% | ~163 |
-| Good vibes | 7.00% | ~142 |
+| Good vibes | 7.00% | ~143 |
 | Fashionista | 6.00% | ~122 |
 | Finally he zips it | 6.00% | ~122 |
 | G'Day Mate! | 6.00% | ~122 |
@@ -30,17 +30,17 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 5.00% | ~102 |
 | Squad goals | 5.00% | ~102 |
 | Sup widdit big dog! | 5.00% | ~102 |
-| Commence the Hijinx! | 4.00% | ~81 |
-| Cops called! | 4.00% | ~81 |
-| DIY Boss | 4.00% | ~81 |
-| G.O.A.T. status | 4.00% | ~81 |
-| Laid back | 4.00% | ~81 |
-| Lines for days | 4.00% | ~81 |
-| Manny Destroys All | 4.00% | ~81 |
-| Prince of Philly | 4.00% | ~81 |
-| Renaissance man | 4.00% | ~81 |
-| Tank commander | 4.00% | ~81 |
-| Trick shot marksman | 4.00% | ~81 |
+| Commence the Hijinx! | 4.00% | ~82 |
+| Cops called! | 4.00% | ~82 |
+| DIY Boss | 4.00% | ~82 |
+| G.O.A.T. status | 4.00% | ~82 |
+| Laid back | 4.00% | ~82 |
+| Lines for days | 4.00% | ~82 |
+| Manny Destroys All | 4.00% | ~82 |
+| Prince of Philly | 4.00% | ~82 |
+| Renaissance man | 4.00% | ~82 |
+| Tank commander | 4.00% | ~82 |
+| Trick shot marksman | 4.00% | ~82 |
 | Hoarder | 3.00% | ~61 |
 | We get it, you're good | 3.00% | ~61 |
 | Cross lock country | 2.00% | ~41 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,033 (Ranked 145)  
+Progressed: 2,038 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-19 | 1,992 | 0 |
 | 2023-05-20 | 2,009 | 0 |
 | 2023-05-21 | 2,024 | 0 |
-| 2023-05-22 | 2,033 | 0 |
+| 2023-05-22 | 2,038 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 392)  
 Sum: 414 (Ranked 300)  

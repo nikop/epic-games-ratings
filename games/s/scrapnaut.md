@@ -31,8 +31,8 @@ Number of Ratings: 38  (23.09.2022)
 | Forest Lord | 9.00% | ~17 |
 | Fuel | 9.00% | ~17 |
 | Smelting Master | 9.00% | ~17 |
+| Master Of Management | 8.00% | ~15 |
 | Black Gold | 7.00% | ~13 |
-| Master Of Management | 7.00% | ~13 |
 | Survival Master | 4.00% | ~8 |
 | Traveler | 3.00% | ~6 |
 | Forest Killer | 1.00% | ~2 |

@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1139,
+  "EOS_Progressed": 1140,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2040,6 +2040,11 @@
       "Time": "2023-05-22T19:06:25.001918+00:00",
       "NumProgressed": 1139,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-22T20:05:44.7351535+00:00",
+      "NumProgressed": 1140,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2283,7 +2288,7 @@
       "Name": "Guild Power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "herewegoagain",
@@ -2323,7 +2328,7 @@
       "Name": "Inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "jewelenchanting",
@@ -2611,7 +2616,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1072
     },
     {
       "ID": "warmachinesarmy",
@@ -2643,14 +2648,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1139,
+      "Progressed": 1140,
       "Completed": 1
     }
   ],
@@ -2658,8 +2663,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-18T22:58:45.6795503+00:00",
-  "LastChanged_Achievements": "2023-05-22T19:06:25.0019176+00:00",
+  "LastChanged_Achievements": "2023-05-22T20:05:44.735153+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:34.8363446+00:00",
-  "LastUpdate_Ratings": "2023-05-22T18:58:19.4414788+00:00",
-  "LastUpdate_Achievements": "2023-05-22T19:06:25.001988+00:00"
+  "LastUpdate_Ratings": "2023-05-22T19:57:52.931695+00:00",
+  "LastUpdate_Achievements": "2023-05-22T20:05:44.7352224+00:00"
 }

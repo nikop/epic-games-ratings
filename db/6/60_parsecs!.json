@@ -492,9 +492,9 @@
       "ID": "Achievement_StayCool",
       "SetID": "c01p6e5",
       "Name": "Stay Cool",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 169
     },
     {
       "ID": "Achievement_ThatsNoMoon",
@@ -533,8 +533,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-05-22T19:06:14.9128766+00:00",
+  "LastChanged_Achievements": "2023-05-22T20:05:35.9740758+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:12.4303975+00:00",
-  "LastUpdate_Ratings": "2023-05-22T18:59:23.6462119+00:00",
-  "LastUpdate_Achievements": "2023-05-22T19:06:14.9129097+00:00"
+  "LastUpdate_Ratings": "2023-05-22T19:58:49.8859487+00:00",
+  "LastUpdate_Achievements": "2023-05-22T20:05:35.9741088+00:00"
 }

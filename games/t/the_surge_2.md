@@ -6,11 +6,11 @@ Rating: 4.24 (Ranked 790)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 81.00% | ~1,290 |
-| Don't I Know You...? | 77.00% | ~1,226 |
-| Jailbreak | 66.00% | ~1,051 |
+| Don't I Know You...? | 77.00% | ~1,227 |
+| Jailbreak | 65.00% | ~1,035 |
 | Suited and Booted | 38.00% | ~605 |
 | HEADSHOT! | 37.00% | ~589 |
-| Sleeping With The Fishes | 35.00% | ~557 |
+| Sleeping With The Fishes | 35.00% | ~558 |
 | Overheated | 30.00% | ~478 |
 | High Performance | 30.00% | ~478 |
 | Powered Up | 28.00% | ~446 |
@@ -18,11 +18,11 @@ Rating: 4.24 (Ranked 790)
 | Home Invasion | 22.00% | ~350 |
 | Luminary | 22.00% | ~350 |
 | It's a Trap | 22.00% | ~350 |
-| True Survivor | 21.00% | ~334 |
-| Shocking | 20.00% | ~318 |
-| Court Martial | 19.00% | ~302 |
-| Offensive Defense | 19.00% | ~302 |
-| Unforeseeable Consequences | 19.00% | ~302 |
+| True Survivor | 21.00% | ~335 |
+| Shocking | 20.00% | ~319 |
+| Court Martial | 19.00% | ~303 |
+| Offensive Defense | 19.00% | ~303 |
+| Unforeseeable Consequences | 19.00% | ~303 |
 | Dead Again | 18.00% | ~287 |
 | Clean Cut | 18.00% | ~287 |
 | Full Arsenal | 17.00% | ~271 |
@@ -41,7 +41,7 @@ Rating: 4.24 (Ranked 790)
 | Denying Prophecy | 8.00% | ~127 |
 | Following In Their Footsteps | 8.00% | ~127 |
 | Defense in Depth | 8.00% | ~127 |
-| Reverse Engineering | 7.00% | ~111 |
+| Reverse Engineering | 7.00% | ~112 |
 | Turbo Booster | 6.00% | ~96 |
 | Juiced Up | 6.00% | ~96 |
 | Squid Pro Quo | 6.00% | ~96 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 790)
 | Swiss Army Drone | 1.00% | ~16 |
 | Three Birds With One Stone | 1.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,592 (Ranked 152)  
+Progressed: 1,593 (Ranked 152)  
 Completed: 10 (0.63%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 10 (0.63%) (Ranked 103)
 | 2023-05-19 | 1,566 | 10 |
 | 2023-05-20 | 1,575 | 10 |
 | 2023-05-21 | 1,584 | 10 |
-| 2023-05-22 | 1,592 | 10 |
+| 2023-05-22 | 1,593 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

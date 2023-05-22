@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1213,
+  "EOS_Progressed": 1222,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 492,
+  "EOS_NewPlayers": 501,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1058,6 +1058,11 @@
       "Time": "2023-05-22T19:06:13.7997552+00:00",
       "NumProgressed": 1213,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-22T20:05:34.8779119+00:00",
+      "NumProgressed": 1222,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1123,9 +1128,9 @@
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
       "SetID": "bm6el81",
       "Name": "Just a Flesh Wound",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 37
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -1149,7 +1154,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1211,9 +1216,9 @@
       "ID": "REWARD_27_THE_LONG_GAME",
       "SetID": "bm6el81",
       "Name": "The Long Game",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -1221,7 +1226,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -1237,7 +1242,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1293,7 +1298,7 @@
       "Name": "Resourceful",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -1301,7 +1306,7 @@
       "Name": "Der Geist",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -1533,7 +1538,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -1557,7 +1562,7 @@
       "Name": "Last Resort",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -1636,13 +1641,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1164,
+      "Progressed": 1173,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1213,
+      "Progressed": 1222,
       "Completed": 2
     }
   ],
@@ -1650,8 +1655,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-22T16:01:02.9174493+00:00",
-  "LastChanged_Achievements": "2023-05-22T19:06:13.7997547+00:00",
+  "LastChanged_Achievements": "2023-05-22T20:05:34.8779114+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-22T19:01:12.6762522+00:00",
-  "LastUpdate_Achievements": "2023-05-22T19:06:13.7998289+00:00"
+  "LastUpdate_Ratings": "2023-05-22T20:00:36.5659772+00:00",
+  "LastUpdate_Achievements": "2023-05-22T20:05:34.8779758+00:00"
 }

@@ -5,27 +5,27 @@ Rating: 3.99 (Ranked 889)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 74.00% | ~274,103 |
-| Health Junkie | 45.00% | ~166,684 |
-| You Complete Me | 41.00% | ~151,868 |
-| Guardian Angel | 39.00% | ~144,460 |
-| Devil Inside Me | 31.00% | ~114,827 |
-| Killing Spree | 22.00% | ~81,490 |
-| Fantastic Four | 21.00% | ~77,786 |
-| Marksman Novice | 20.00% | ~74,082 |
-| First Blood | 13.00% | ~48,153 |
-| Top 10 | 13.00% | ~48,153 |
-| Now You See Me, Now You Don't | 12.00% | ~44,449 |
+| Blood on My Hands | 74.00% | ~274,108 |
+| Health Junkie | 45.00% | ~166,687 |
+| You Complete Me | 41.00% | ~151,871 |
+| Guardian Angel | 39.00% | ~144,462 |
+| Devil Inside Me | 31.00% | ~114,829 |
+| Killing Spree | 22.00% | ~81,492 |
+| Fantastic Four | 21.00% | ~77,787 |
+| Marksman Novice | 20.00% | ~74,083 |
+| First Blood | 13.00% | ~48,154 |
+| Top 10 | 13.00% | ~48,154 |
+| Now You See Me, Now You Don't | 12.00% | ~44,450 |
 | Marksman Expert | 9.00% | ~33,337 |
 | CQB Novice | 8.00% | ~29,633 |
 | Collateral Damage | 7.00% | ~25,929 |
 | Airborne | 6.00% | ~22,225 |
 | Pacifist | 6.00% | ~22,225 |
-| Last Survivor | 4.00% | ~14,816 |
-| Marksman Master | 4.00% | ~14,816 |
-| Trigonometry Novice | 4.00% | ~14,816 |
-| First Come, First Served | 4.00% | ~14,816 |
-| Dynamic Duo | 4.00% | ~14,816 |
+| Last Survivor | 4.00% | ~14,817 |
+| Marksman Master | 4.00% | ~14,817 |
+| Trigonometry Novice | 4.00% | ~14,817 |
+| First Come, First Served | 4.00% | ~14,817 |
+| Dynamic Duo | 4.00% | ~14,817 |
 | Winner Winner Chicken Dinner! | 2.00% | ~7,408 |
 | Okay, Now I'm Ready | 2.00% | ~7,408 |
 | Agent 48 | 2.00% | ~7,408 |
@@ -43,7 +43,7 @@ Rating: 3.99 (Ranked 889)
 | The First Rule Is… | 0.10% | ~370 |
 | Shoot the Knee | 0.10% | ~370 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 370,410 (Ranked 36)  
+Progressed: 370,416 (Ranked 36)  
 Completed: 8 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 8 (0.00%) (Ranked 201)
 | 2023-05-19 | 366,187 | 8 |
 | 2023-05-20 | 367,762 | 8 |
 | 2023-05-21 | 369,462 | 8 |
-| 2023-05-22 | 370,410 | 8 |
+| 2023-05-22 | 370,416 | 8 |
 ## Awards
 Max (Competitive Players): 1,978  (Ranked 103)  
 Sum: 8,247 (Ranked 90)  

@@ -7,10 +7,10 @@ Rating: 4.17 (Ranked 836)
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 1.00% | ~617 |
 | Har, Har, Har, Very Funny | 0.90% | ~555 |
+| Knighthood | 0.80% | ~494 |
 | Loose Ends | 0.80% | ~494 |
 | To the Victor Go the Spoils | 0.70% | ~432 |
 | Get ReQ'd | 0.70% | ~432 |
-| Knighthood | 0.70% | ~432 |
 | The Batman Family | 0.60% | ~370 |
 | Something in the Clay | 0.60% | ~370 |
 | Quartzer Life Crisis | 0.60% | ~370 |
@@ -20,17 +20,17 @@ Rating: 4.17 (Ranked 836)
 | Whispered Words | 0.60% | ~370 |
 | Lock and Key | 0.60% | ~370 |
 | Bad Apples in Every Orchard | 0.60% | ~370 |
-| End of an Era | 0.50% | ~308 |
-| Protector of Gotham | 0.50% | ~308 |
-| The Show Mud Go On | 0.50% | ~308 |
-| Rock and a Hard Place | 0.50% | ~308 |
-| Shock Til They Drop | 0.50% | ~308 |
-| Cooldown | 0.50% | ~308 |
-| Universal Health Scare | 0.50% | ~308 |
-| From Inside Gotham's Walls | 0.50% | ~308 |
-| Voiceless | 0.50% | ~308 |
-| Seeking Asylum | 0.50% | ~308 |
-| Gotham Knight | 0.50% | ~308 |
+| End of an Era | 0.50% | ~309 |
+| Protector of Gotham | 0.50% | ~309 |
+| The Show Mud Go On | 0.50% | ~309 |
+| Rock and a Hard Place | 0.50% | ~309 |
+| Shock Til They Drop | 0.50% | ~309 |
+| Cooldown | 0.50% | ~309 |
+| Universal Health Scare | 0.50% | ~309 |
+| From Inside Gotham's Walls | 0.50% | ~309 |
+| Voiceless | 0.50% | ~309 |
+| Seeking Asylum | 0.50% | ~309 |
+| Gotham Knight | 0.50% | ~309 |
 | In Your Element | 0.40% | ~247 |
 | Not On My Watch | 0.40% | ~247 |
 | Bulldozed | 0.40% | ~247 |
@@ -39,12 +39,12 @@ Rating: 4.17 (Ranked 836)
 | Family Meeting | 0.30% | ~185 |
 | Gotham City Confidential | 0.30% | ~185 |
 | Solid Alibi | 0.30% | ~185 |
+| Hammer and Icicle | 0.20% | ~64 |
 | Dressed to Impress | 0.20% | ~123 |
 | Fusion Expert | 0.20% | ~123 |
 | Expert Crime Fighter | 0.20% | ~123 |
 | A Momentum Occasion | 0.20% | ~123 |
 | A Worthy Successor | 0.20% | ~123 |
-| Hammer and Icicle | 0.10% | ~32 |
 | Element of Surprise | 0.10% | ~32 |
 | It's Nice to Be Wanted | 0.10% | ~32 |
 | Renewable Enemy Source | 0.10% | ~32 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 836)
 | Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,693 (Ranked 68)  
+Progressed: 61,708 (Ranked 68)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-19 | 61,198 | 91 |
 | 2023-05-20 | 61,416 | 91 |
 | 2023-05-21 | 61,589 | 91 |
-| 2023-05-22 | 61,693 | 91 |
+| 2023-05-22 | 61,708 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,229  (Ranked 98)  
 Sum: 3,695 (Ranked 137)  

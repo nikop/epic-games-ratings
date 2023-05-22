@@ -5,15 +5,15 @@ Rating: 4.34 (Ranked 729)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 13.00% | ~158 |
-| Confirming Suspicions | 8.00% | ~97 |
+| Meeting Resistance | 13.00% | ~159 |
+| Confirming Suspicions | 8.00% | ~98 |
 | The Kraken Wakes | 5.00% | ~61 |
 | Enemy at the Gates | 4.00% | ~49 |
 | Lord of War | 4.00% | ~49 |
 | It's Starting to Crack | 4.00% | ~49 |
-| Resourceful | 3.00% | ~36 |
+| Just a Flesh Wound | 3.00% | ~37 |
+| Resourceful | 3.00% | ~37 |
 | Opposing Force | 2.00% | ~24 |
-| Just a Flesh Wound | 2.00% | ~24 |
 | Organ Grinder | 2.00% | ~24 |
 | Explosive Efficiency | 2.00% | ~24 |
 | As Quiet as a Mouse | 2.00% | ~24 |
@@ -30,9 +30,9 @@ Rating: 4.34 (Ranked 729)
 | Precision Is Key | 0.90% | ~11 |
 | Liberté | 0.80% | ~10 |
 | Skirmisher | 0.80% | ~10 |
-| The Long Game | 0.70% | ~8 |
-| Set Europe Ablaze | 0.70% | ~8 |
-| Der Geist | 0.70% | ~8 |
+| The Long Game | 0.80% | ~10 |
+| Set Europe Ablaze | 0.70% | ~9 |
+| Der Geist | 0.70% | ~9 |
 | Climbing the Ladder | 0.60% | ~7 |
 | Rigged to Blow | 0.60% | ~7 |
 | It'll Buff Right Out | 0.40% | ~5 |
@@ -40,8 +40,8 @@ Rating: 4.34 (Ranked 729)
 | Operation Foxley | 0.40% | ~5 |
 | Strategist | 0.30% | ~4 |
 | Shoot for the Moon | 0.30% | ~4 |
-| Herr Today, Gone Tomorrow | 0.30% | ~3 |
-| Last Resort | 0.30% | ~3 |
+| Herr Today, Gone Tomorrow | 0.30% | ~4 |
+| Last Resort | 0.30% | ~4 |
 | Sink or Swim | 0.30% | ~2 |
 | No Stone Unturned | 0.20% | ~2 |
 | My Little Friend | 0.20% | ~2 |
@@ -77,7 +77,7 @@ Rating: 4.34 (Ranked 729)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,213 (Ranked 158)  
+Progressed: 1,222 (Ranked 158)  
 Completed: 2 (0.16%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 2 (0.16%) (Ranked 145)
 | 2023-05-19 | 833 | 2 |
 | 2023-05-20 | 984 | 2 |
 | 2023-05-21 | 1,126 | 2 |
-| 2023-05-22 | 1,213 | 2 |
+| 2023-05-22 | 1,222 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

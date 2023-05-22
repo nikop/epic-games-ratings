@@ -6,23 +6,23 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 14.00% | ~1,271 |
+| Devoured by Darkness | 14.00% | ~1,272 |
 | A Spark | 10.00% | ~908 |
-| Burning City | 9.00% | ~817 |
-| Mythic Choices | 8.00% | ~726 |
-| Defender's Heart | 8.00% | ~726 |
+| Burning City | 9.00% | ~818 |
+| Mythic Choices | 8.00% | ~727 |
+| Defender's Heart | 8.00% | ~727 |
 | Banner over the Citadel | 7.00% | ~636 |
 | Queen's Gratitude | 7.00% | ~636 |
 | Fifth Crusade | 5.00% | ~454 |
-| Embrace of the Abyss | 3.00% | ~272 |
-| Path of the Angel | 3.00% | ~272 |
-| Path of the Azata | 3.00% | ~272 |
-| Transformation | 3.00% | ~272 |
-| Great Upstart | 3.00% | ~272 |
-| Voice from Your Dreams | 3.00% | ~272 |
-| All Paths Open | 3.00% | ~272 |
-| Demonic and Divine | 3.00% | ~272 |
-| Next-Door Play | 3.00% | ~272 |
+| Embrace of the Abyss | 3.00% | ~273 |
+| Path of the Angel | 3.00% | ~273 |
+| Path of the Azata | 3.00% | ~273 |
+| Transformation | 3.00% | ~273 |
+| Great Upstart | 3.00% | ~273 |
+| Voice from Your Dreams | 3.00% | ~273 |
+| All Paths Open | 3.00% | ~273 |
+| Demonic and Divine | 3.00% | ~273 |
+| Next-Door Play | 3.00% | ~273 |
 | Heart of the Fallen Land | 2.00% | ~182 |
 | The Legacy | 2.00% | ~182 |
 | Divide and Rule | 2.00% | ~182 |
@@ -48,11 +48,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | End of Eternal Guard | 0.70% | ~64 |
 | This Wall Won't Fall | 0.70% | ~55 |
 | Not the Last Sarkorian | 0.70% | ~55 |
-| The Final Threshold | 0.60% | ~54 |
-| Path of the Dragon | 0.60% | ~54 |
-| Path of the Legend | 0.60% | ~54 |
-| Strategic Victory | 0.60% | ~54 |
-| Playful Mood | 0.60% | ~54 |
+| The Final Threshold | 0.60% | ~55 |
+| Path of the Dragon | 0.60% | ~55 |
+| Path of the Legend | 0.60% | ~55 |
+| Strategic Victory | 0.60% | ~55 |
+| Playful Mood | 0.60% | ~55 |
 | Dreadful Dragon | 0.50% | ~45 |
 | Truly Profane Gift | 0.40% | ~36 |
 | Masterful Charge | 0.30% | ~27 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,080 (Ranked 109)  
+Progressed: 9,084 (Ranked 109)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-19 | 8,921 | 0 |
 | 2023-05-20 | 8,990 | 0 |
 | 2023-05-21 | 9,045 | 0 |
-| 2023-05-22 | 9,080 | 0 |
+| 2023-05-22 | 9,084 | 0 |
 ## Awards
 Max (Character Customization): 1,636  (Ranked 111)  
 Sum: 6,639 (Ranked 110)  

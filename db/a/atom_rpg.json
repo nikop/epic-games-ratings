@@ -5,9 +5,9 @@
   "Ranking_Rating": 608,
   "Ranking_Popularity": 394,
   "Ranking_PopularitySum": 435,
-  "Ranking_EOS_Progress": 174,
+  "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -340,9 +340,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 800,
+  "EOS_Progressed": 801,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -655,6 +655,11 @@
       "Time": "2023-05-22T19:06:38.1230458+00:00",
       "NumProgressed": 800,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T20:05:56.3878108+00:00",
+      "NumProgressed": 801,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -720,9 +725,9 @@
       "ID": "EARLY_ACCESS_1",
       "SetID": "bf13m8j",
       "Name": "Atom Agent",
-      "Percentage": 99,
+      "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 792
+      "UsersEstimate": 785
     },
     {
       "ID": "EXPERT_1",
@@ -864,7 +869,7 @@
       "ID": "RELICTS",
       "SetID": "bf13m8j",
       "Name": "Mystical relics",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -953,15 +958,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 800,
+      "Progressed": 801,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-05-09T03:01:00.2336224+00:00",
-  "LastChanged_Achievements": "2023-05-22T19:06:38.1230454+00:00",
+  "LastChanged_Achievements": "2023-05-22T20:05:56.3878102+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:55.4306832+00:00",
-  "LastUpdate_Ratings": "2023-05-22T19:00:48.1884045+00:00",
-  "LastUpdate_Achievements": "2023-05-22T19:06:38.1230683+00:00"
+  "LastUpdate_Ratings": "2023-05-22T20:00:14.6860909+00:00",
+  "LastUpdate_Achievements": "2023-05-22T20:05:56.3878321+00:00"
 }

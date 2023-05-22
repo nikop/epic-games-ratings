@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 58.00% | ~97 |
-| Starting Skyward | 52.00% | ~87 |
-| Grime is Not Good | 46.00% | ~77 |
-| Campaign Launch | 40.00% | ~67 |
-| Floor Galore | 39.00% | ~66 |
-| Dinner Dash | 39.00% | ~66 |
-| It's Technical | 36.00% | ~60 |
+| In the Black | 58.00% | ~98 |
+| Starting Skyward | 52.00% | ~88 |
+| Grime is Not Good | 46.00% | ~78 |
+| Campaign Launch | 40.00% | ~68 |
+| Floor Galore | 38.00% | ~64 |
+| Dinner Dash | 38.00% | ~64 |
+| It's Technical | 36.00% | ~61 |
 | Need a Consult | 34.00% | ~57 |
 | Upgrade Unlock | 34.00% | ~57 |
-| Delegate Maintenance | 32.00% | ~54 |
 | Proper Walls | 31.00% | ~52 |
-| Destination Destiny | 27.00% | ~45 |
-| Happy Tenants | 24.00% | ~40 |
+| Delegate Maintenance | 31.00% | ~52 |
+| Destination Destiny | 27.00% | ~46 |
+| Happy Tenants | 24.00% | ~41 |
 | Potent Potables | 23.00% | ~39 |
 | Smooth Service | 23.00% | ~39 |
 | Your Prestige is Rising | 22.00% | ~37 |
@@ -39,19 +39,19 @@
 | Thrilled Tenants | 15.00% | ~25 |
 | Swimming in Surplus | 14.00% | ~24 |
 | Starred Dining | 14.00% | ~24 |
-| Smooth Operator | 13.00% | ~22 |
+| Smooth Operator | 12.00% | ~20 |
 | 28 Days Later | 12.00% | ~20 |
-| Plaza Plan | 11.00% | ~18 |
-| First 100 Days | 10.00% | ~17 |
-| Master of Puppets | 10.00% | ~17 |
-| Revenue Royalty | 10.00% | ~17 |
+| Plaza Plan | 11.00% | ~19 |
+| First 100 Days | 9.00% | ~15 |
 | Aestheticly Pleased | 9.00% | ~15 |
+| Master of Puppets | 9.00% | ~15 |
 | Profound Proceeds | 9.00% | ~15 |
 | Refined Palates | 9.00% | ~15 |
+| Revenue Royalty | 9.00% | ~15 |
 | Pipe Up | 9.00% | ~15 |
-| Meet Me at HQ | 8.00% | ~13 |
-| Maximum Reuse | 8.00% | ~13 |
-| Phoning It In | 8.00% | ~13 |
+| Meet Me at HQ | 8.00% | ~14 |
+| Maximum Reuse | 8.00% | ~14 |
+| Phoning It In | 8.00% | ~14 |
 | Penthouse in the Sky | 7.00% | ~12 |
 | I'm Busy Ruling | 7.00% | ~12 |
 | Careful Constructor | 7.00% | ~12 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 168 (Ranked 238)  
+Progressed: 169 (Ranked 238)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-19 | 164 | 0 |
 | 2023-05-20 | 165 | 0 |
 | 2023-05-21 | 166 | 0 |
-| 2023-05-22 | 168 | 0 |
+| 2023-05-22 | 169 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

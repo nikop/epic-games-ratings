@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 353,
+  "EOS_Progressed": 354,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -157,6 +157,11 @@
       "Time": "2023-05-22T15:05:47.0033819+00:00",
       "NumProgressed": 353,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-22T20:05:24.5585906+00:00",
+      "NumProgressed": 354,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 20,
@@ -168,7 +173,7 @@
       "Name": "Cause and Effect",
       "Percentage": 96,
       "XP": 25,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "CHOICES_MATTER",
@@ -200,7 +205,7 @@
       "Name": "The Ploy",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ENDING_4",
@@ -240,7 +245,7 @@
       "Name": "Even Tempered",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -264,7 +269,7 @@
       "Name": "Good Karma",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "INTERROGATION",
@@ -296,7 +301,7 @@
       "Name": "Protector",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "SABOTAGE",
@@ -310,9 +315,9 @@
       "ID": "SHILL_BIDDER",
       "SetID": "8eejhlh",
       "Name": "Shill Bidder",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 152
+      "UsersEstimate": 156
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
@@ -327,7 +332,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 353,
+      "Progressed": 354,
       "Completed": 4
     }
   ],
@@ -335,8 +340,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-05-22T19:06:02.1349806+00:00",
+  "LastChanged_Achievements": "2023-05-22T20:05:24.55859+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:15.4499974+00:00",
-  "LastUpdate_Ratings": "2023-05-22T18:58:02.7683689+00:00",
-  "LastUpdate_Achievements": "2023-05-22T19:06:02.1349928+00:00"
+  "LastUpdate_Ratings": "2023-05-22T19:57:37.1942969+00:00",
+  "LastUpdate_Achievements": "2023-05-22T20:05:24.5586035+00:00"
 }

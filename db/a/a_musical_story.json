@@ -4,7 +4,7 @@
   "ProductSlug": "a-musical-story-973128",
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 66,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-03-04T18:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57,
+  "EOS_Progressed": 58,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.75,
+  "EOS_Completed_Percentage": 1.72,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:26.5327185+00:00",
@@ -71,6 +71,11 @@
       "Time": "2023-05-22T14:01:17.4471722+00:00",
       "NumProgressed": 57,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-22T20:01:03.3141826+00:00",
+      "NumProgressed": 58,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 54,
@@ -80,7 +85,7 @@
       "ID": "ALL_PERFECT",
       "SetID": "6finf64",
       "Name": "Voodoo Child",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -88,7 +93,7 @@
       "ID": "L0_FINISH",
       "SetID": "6finf64",
       "Name": "ECG",
-      "Percentage": 98,
+      "Percentage": 97,
       "XP": 10,
       "UsersEstimate": 56
     },
@@ -104,7 +109,7 @@
       "ID": "L10_5_FINISH",
       "SetID": "6finf64",
       "Name": "Fuel",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 17
     },
@@ -160,7 +165,7 @@
       "ID": "L12_PERFECT",
       "SetID": "6finf64",
       "Name": "Riders on the Storm",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -168,7 +173,7 @@
       "ID": "L13_FINISH",
       "SetID": "6finf64",
       "Name": "Flat Tire",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -176,7 +181,7 @@
       "ID": "L13_PERFECT",
       "SetID": "6finf64",
       "Name": "Under my Wheels",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -192,7 +197,7 @@
       "ID": "L14_PERFECT",
       "SetID": "6finf64",
       "Name": "The Fight Song",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -200,7 +205,7 @@
       "ID": "L15_FINISH",
       "SetID": "6finf64",
       "Name": "Bad Trip",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -224,7 +229,7 @@
       "ID": "L16_5_PERFECT",
       "SetID": "6finf64",
       "Name": "All Apologies",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -248,7 +253,7 @@
       "ID": "L17_FINISH",
       "SetID": "6finf64",
       "Name": "Love",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -264,7 +269,7 @@
       "ID": "L18_FINISH",
       "SetID": "6finf64",
       "Name": "Here we go again!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -272,7 +277,7 @@
       "ID": "L18_PERFECT",
       "SetID": "6finf64",
       "Name": "Carry On",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -288,7 +293,7 @@
       "ID": "L19_PERFECT",
       "SetID": "6finf64",
       "Name": "Killer Cars",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -296,7 +301,7 @@
       "ID": "L1_5_FINISH",
       "SetID": "6finf64",
       "Name": "Daily Life",
-      "Percentage": 93,
+      "Percentage": 91,
       "XP": 10,
       "UsersEstimate": 53
     },
@@ -304,7 +309,7 @@
       "ID": "L1_5_PERFECT",
       "SetID": "6finf64",
       "Name": "Big City Music",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 20,
       "UsersEstimate": 24
     },
@@ -312,7 +317,7 @@
       "ID": "L1_FINISH",
       "SetID": "6finf64",
       "Name": "Rehearsal",
-      "Percentage": 96,
+      "Percentage": 95,
       "XP": 10,
       "UsersEstimate": 55
     },
@@ -360,7 +365,7 @@
       "ID": "L2_FINISH",
       "SetID": "6finf64",
       "Name": "Assembly Line Work",
-      "Percentage": 88,
+      "Percentage": 86,
       "XP": 10,
       "UsersEstimate": 50
     },
@@ -368,7 +373,7 @@
       "ID": "L2_PERFECT",
       "SetID": "6finf64",
       "Name": "Sound of Noise",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 20,
       "UsersEstimate": 28
     },
@@ -376,7 +381,7 @@
       "ID": "L3_FINISH",
       "SetID": "6finf64",
       "Name": "Solitude",
-      "Percentage": 86,
+      "Percentage": 84,
       "XP": 10,
       "UsersEstimate": 49
     },
@@ -392,7 +397,7 @@
       "ID": "L4_FINISH",
       "SetID": "6finf64",
       "Name": "Pinewood, Here we come!",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 10,
       "UsersEstimate": 44
     },
@@ -408,7 +413,7 @@
       "ID": "L5_FINISH",
       "SetID": "6finf64",
       "Name": "The Van",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 10,
       "UsersEstimate": 39
     },
@@ -424,7 +429,7 @@
       "ID": "L6_FINISH",
       "SetID": "6finf64",
       "Name": "Road-Trip",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 10,
       "UsersEstimate": 34
     },
@@ -456,7 +461,7 @@
       "ID": "L7_FINISH",
       "SetID": "6finf64",
       "Name": "A Musical Pause",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 10,
       "UsersEstimate": 33
     },
@@ -472,7 +477,7 @@
       "ID": "L8_FINISH",
       "SetID": "6finf64",
       "Name": "Love at First Sight",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
       "UsersEstimate": 24
     },
@@ -488,7 +493,7 @@
       "ID": "L9_FINISH",
       "SetID": "6finf64",
       "Name": "First Kiss",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
       "UsersEstimate": 21
     },
@@ -504,7 +509,7 @@
       "ID": "UNLOCK_L21",
       "SetID": "6finf64",
       "Name": "Stairway to Heaven",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 60,
       "UsersEstimate": 2
     }
@@ -513,7 +518,7 @@
     {
       "ID": "6finf64",
       "IsBase": true,
-      "Progressed": 57,
+      "Progressed": 58,
       "Completed": 1
     }
   ],
@@ -521,8 +526,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.0267676+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.5327196+00:00",
   "LastChanged": "2023-03-31T05:57:21.0267677+00:00",
-  "LastChanged_Achievements": "2023-05-22T19:01:41.0289822+00:00",
+  "LastChanged_Achievements": "2023-05-22T20:01:03.314182+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:45.8712062+00:00",
-  "LastUpdate_Ratings": "2023-05-22T18:58:37.8798453+00:00",
-  "LastUpdate_Achievements": "2023-05-22T19:01:41.0290317+00:00"
+  "LastUpdate_Ratings": "2023-05-22T19:58:06.9646493+00:00",
+  "LastUpdate_Achievements": "2023-05-22T20:01:03.3142252+00:00"
 }

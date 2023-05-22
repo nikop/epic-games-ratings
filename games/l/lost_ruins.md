@@ -13,7 +13,7 @@
 | Artifact Collector | 19.00% | ~59 |
 | Ghost Buster | 16.00% | ~50 |
 | Reincarnation | 16.00% | ~50 |
-| Iconoclasm | 13.00% | ~40 |
+| Iconoclasm | 14.00% | ~43 |
 | Orcs Must Die! | 13.00% | ~40 |
 | The End | 13.00% | ~40 |
 | Gladiator | 12.00% | ~37 |

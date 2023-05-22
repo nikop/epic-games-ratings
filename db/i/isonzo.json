@@ -550,9 +550,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5781,
+  "EOS_Progressed": 5782,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1255,6 +1255,11 @@
       "Time": "2023-05-22T18:05:21.9091356+00:00",
       "NumProgressed": 5781,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-22T20:05:37.5498135+00:00",
+      "NumProgressed": 5782,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -1282,7 +1287,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 2659
+      "UsersEstimate": 2660
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -1314,7 +1319,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 2023
+      "UsersEstimate": 2024
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -1434,7 +1439,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 2023
+      "UsersEstimate": 2024
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -1554,7 +1559,7 @@
       "Name": "The Italian Job",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1099
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -1570,7 +1575,7 @@
       "Name": "The Show Must Go On",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "ISONZO_ACH_THUS_WITH_A_KISS",
@@ -1586,7 +1591,7 @@
       "Name": "Tosca",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "ISONZO_ACH_TUTTI_EROI",
@@ -1618,14 +1623,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 3006
+      "UsersEstimate": 3007
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5781,
+      "Progressed": 5782,
       "Completed": 8
     }
   ],
@@ -1633,8 +1638,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-21T19:57:24.0719198+00:00",
-  "LastChanged_Achievements": "2023-05-22T19:06:16.6410501+00:00",
+  "LastChanged_Achievements": "2023-05-22T20:05:37.549813+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:10.2290416+00:00",
-  "LastUpdate_Ratings": "2023-05-22T18:57:39.8613544+00:00",
-  "LastUpdate_Achievements": "2023-05-22T19:06:16.6410915+00:00"
+  "LastUpdate_Ratings": "2023-05-22T19:57:13.704351+00:00",
+  "LastUpdate_Achievements": "2023-05-22T20:05:37.5498639+00:00"
 }

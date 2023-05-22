@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A path of no return | 103.00% | ~38 |
-| Pigeon | 81.00% | ~30 |
-| A bottomless pit | 81.00% | ~30 |
+| Pigeon | 84.00% | ~31 |
+| A bottomless pit | 84.00% | ~31 |
 | Baited | 68.00% | ~25 |
-| Splash! | 62.00% | ~23 |
+| Splash! | 65.00% | ~24 |
 | "Swoosh" | 57.00% | ~21 |
 | The light at the end of the tunnel | 57.00% | ~21 |
 | Masochistic | 49.00% | ~18 |
@@ -23,11 +23,11 @@
 | Homeless | 22.00% | ~8 |
 | Big badaboom! | 19.00% | ~7 |
 | Nokron tower | 16.00% | ~6 |
+| Magnitude 5 | 16.00% | ~6 |
 | Payback | 16.00% | ~6 |
-| Magnitude 5 | 14.00% | ~5 |
+| Full power | 14.00% | ~5 |
+| "Ah sh*t... Here we go again!" | 14.00% | ~5 |
 | Bookworm | 14.00% | ~5 |
-| Full power | 11.00% | ~4 |
-| "Ah sh*t... Here we go again!" | 11.00% | ~4 |
 | Compulsive hoarder | 11.00% | ~4 |
 | MayDay! MayDay! | 11.00% | ~4 |
 | GG EZ | 5.00% | ~2 |

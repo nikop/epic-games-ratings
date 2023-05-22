@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Barf Bag | 100.00% | ~1 |
-| It's a start | 100.00% | ~1 |
+| Barf Bag | 100.00% | ~2 |
+| It's a start | 100.00% | ~2 |
 | Artful Dodger | 0.00% | ~0 |
 | Beyond the Hills | 0.00% | ~0 |
 | Commitment | 0.00% | ~0 |
@@ -18,9 +18,10 @@
 | Saw Speedrun | 0.00% | ~0 |
 | Snowy Shortcut | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 388)  
+Progressed: 2 (Ranked 370)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 1 | 0 |
+| 2023-05-22 | 2 | 0 |

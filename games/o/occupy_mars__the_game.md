@@ -5,16 +5,16 @@ Rating: 3.76 (Ranked 919)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 38.00% | ~304 |
-| Electrician | 28.00% | ~224 |
-| Fear my botany powers, Mars | 25.00% | ~200 |
-| Zero Waste | 21.00% | ~168 |
-| Bob The Builder | 21.00% | ~168 |
-| I am the greatest botanist on this planet. | 19.00% | ~152 |
+| I don't feel so good | 38.00% | ~305 |
+| Electrician | 28.00% | ~225 |
+| Fear my botany powers, Mars | 25.00% | ~201 |
+| Zero Waste | 21.00% | ~169 |
+| Bob The Builder | 21.00% | ~169 |
+| I am the greatest botanist on this planet. | 19.00% | ~153 |
 | Houston we have a problem | 16.00% | ~128 |
 | Occupy Mars! | 15.00% | ~120 |
-| Miner | 14.00% | ~112 |
 | Gardener | 13.00% | ~104 |
+| Miner | 13.00% | ~104 |
 | Detective | 9.00% | ~72 |
 | Get your hands dirty | 6.00% | ~48 |
 | The Collector | 5.00% | ~40 |
@@ -25,12 +25,13 @@ Rating: 3.76 (Ranked 919)
 | DeDust | 0.90% | ~7 |
 | Caveman | 0.40% | ~3 |
 | Plumber | 0.40% | ~3 |
-| Driver's License | 0.30% | ~2 |
-| Hard Landing | 0.30% | ~2 |
-| Bull’s eye | 0.30% | ~2 |
-| Rover Mechanic | 0.30% | ~2 |
-| Thunderstruck | 0.30% | ~2 |
-| To infinity and beyond! | 0.30% | ~2 |
+| Driver's License | 0.20% | ~2 |
+| Hard Landing | 0.20% | ~2 |
+| Bull’s eye | 0.20% | ~2 |
+| Rocket Jump | 0.20% | ~2 |
+| Rover Mechanic | 0.20% | ~2 |
+| Thunderstruck | 0.20% | ~2 |
+| To infinity and beyond! | 0.20% | ~2 |
 | Cooking Vegetables | 0.10% | ~1 |
 | Explosive Miner | 0.10% | ~1 |
 | Historical Places | 0.10% | ~1 |
@@ -41,7 +42,6 @@ Rating: 3.76 (Ranked 919)
 | Never Ending Story? | 0.10% | ~1 |
 | One does not simply... | 0.10% | ~1 |
 | Roadster | 0.10% | ~1 |
-| Rocket Jump | 0.10% | ~1 |
 | The cake is a lie | 0.00% | ~0 |
 | Let's Cook | 0.00% | ~0 |
 | Life on Mars | 0.00% | ~0 |
@@ -54,7 +54,7 @@ Rating: 3.76 (Ranked 919)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 799 (Ranked 175)  
+Progressed: 803 (Ranked 174)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-19 | 540 | 0 |
 | 2023-05-20 | 675 | 0 |
 | 2023-05-21 | 760 | 0 |
-| 2023-05-22 | 799 | 0 |
+| 2023-05-22 | 803 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
