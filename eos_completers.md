@@ -22,14 +22,14 @@
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.82% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
 | 22 | [Scorn](games/s/scorn.md) | 6.95% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 6.73% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 6.72% |
 | 24 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 24 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.45% |
 | 26 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
 | 28 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.47% |
 | 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.45% |
-| 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.90% |
+| 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.89% |
 | 31 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.88% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 33 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.44% |
@@ -60,7 +60,7 @@
 | 58 | [JARS](games/j/jars.md) | 2.44% |
 | 59 | [Iron Danger](games/i/iron_danger.md) | 2.34% |
 | 60 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.33% |
-| 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.16% |
+| 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.15% |
 | 62 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.11% |
 | 63 | [Bloodshore](games/b/bloodshore.md) | 2.03% |
 | 64 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -93,8 +93,8 @@
 | 91 | [Them and Us](games/t/them_and_us.md) | 0.85% |
 | 92 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.84% |
 | 93 | [Lemon Cake](games/l/lemon_cake.md) | 0.83% |
-| 94 | [Adios](games/a/adios.md) | 0.81% |
-| 94 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.81% |
+| 94 | [Adios](games/a/adios.md) | 0.82% |
+| 95 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.81% |
 | 96 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
 | 97 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 98 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.73% |

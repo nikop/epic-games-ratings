@@ -9,7 +9,6 @@
 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 2023-05-19 | 2022-02-03 |
 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 2023-05-19 | 2023-05-19 |
 | [Volley Pals](games/v/volley_pals.md) | 2023-05-19 | 2023-05-19 |
-| [Backbeat](games/b/backbeat.md) | 2023-05-19 | 2023-03-16 |
 | [Minimal Move](games/m/minimal_move.md) | 2023-05-19 | 2021-03-30 |
 | [Riftbound](games/r/riftbound.md) | 2023-05-18 | 2022-05-12 |
 | [Without Escape](games/w/without_escape.md) | 2023-05-18 | 2018-04-23 |
