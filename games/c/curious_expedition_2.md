@@ -1,21 +1,21 @@
 # Curious Expedition 2
 [Store](https://store.epicgames.com/en-US/p/curious-expedition-2-8cb901)  
 [View Rawdata](../../db/c/curious_expedition_2.json)  
-Rating: 4.70 (Ranked 192)  
+Rating: 4.70 (Ranked 193)  
 Number of Ratings: 20  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 58.00% | ~171 |
-| Cartographer | 51.00% | ~150 |
+| The Adventure Begins | 57.00% | ~169 |
+| Cartographer | 51.00% | ~151 |
 | A Strange Artefact | 47.00% | ~139 |
 | Insomnia | 43.00% | ~127 |
 | From Whence we Came | 39.00% | ~115 |
-| Lost & Found & Lost Again | 37.00% | ~109 |
-| Fire and Flood | 35.00% | ~103 |
-| Spooky! | 33.00% | ~97 |
-| Shennong Herbalist | 31.00% | ~91 |
-| Treasure Hunt | 30.00% | ~88 |
+| Lost & Found & Lost Again | 37.00% | ~110 |
+| Fire and Flood | 34.00% | ~101 |
+| Spooky! | 33.00% | ~98 |
+| Shennong Herbalist | 30.00% | ~89 |
+| Treasure Hunt | 30.00% | ~89 |
 | Good Mama | 28.00% | ~83 |
 | O Captain My Captain | 26.00% | ~77 |
 | Plunderer | 25.00% | ~74 |
@@ -36,8 +36,8 @@ Number of Ratings: 20  (23.09.2022)
 | The Director is Dead | 13.00% | ~38 |
 | Discovery | 13.00% | ~38 |
 | Plays Well With Others | 13.00% | ~38 |
-| Adventurer | 12.00% | ~35 |
-| Very Classy | 11.00% | ~32 |
+| Adventurer | 12.00% | ~36 |
+| Very Classy | 11.00% | ~33 |
 | And Here Is Your Statue | 9.00% | ~27 |
 | Under the Table | 9.00% | ~27 |
 | Errand Runner | 9.00% | ~27 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.70% | ~2 |
 | Now I've Seen It All | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 295 (Ranked 212)  
+Progressed: 296 (Ranked 212)  
 Completed: 1 (0.34%) (Ranked 119)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,6 +79,7 @@ Completed: 1 (0.34%) (Ranked 119)
 | 2023-05-18 | 292 | 1 |
 | 2023-05-20 | 293 | 1 |
 | 2023-05-21 | 295 | 1 |
+| 2023-05-22 | 296 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

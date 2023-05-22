@@ -2,12 +2,12 @@
   "ID": "d5cbd232ad304c91aacc20f31849435c",
   "Name": "House Flipper",
   "ProductSlug": "house-flipper",
-  "Ranking_Rating": 192,
+  "Ranking_Rating": 193,
   "Ranking_Popularity": 226,
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -1354,10 +1354,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 2124,
       "NumberOfAwardsMax": 288
+    },
+    {
+      "Time": "2023-05-22T02:05:20.3991516+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 2125,
+      "NumberOfAwardsMax": 288
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2124,
+  "NumberOfAwards": 2125,
   "NumberOfAwardsMax": 288,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1383,7 +1389,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 211
+      "Count": 212
     },
     {
       "Text": "This game is Relaxing",
@@ -1428,9 +1434,9 @@
       "Count": 204
     }
   ],
-  "EOS_Progressed": 18886,
+  "EOS_Progressed": 18887,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2463,6 +2469,11 @@
       "Time": "2023-05-22T00:06:17.9371603+00:00",
       "NumProgressed": 18886,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-22T02:11:37.1857822+00:00",
+      "NumProgressed": 18887,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -2522,7 +2533,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 17753
+      "UsersEstimate": 17754
     },
     {
       "ID": "GameOver",
@@ -2586,7 +2597,7 @@
       "Name": "Just Enough",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3399
+      "UsersEstimate": 3400
     },
     {
       "ID": "Negotiator",
@@ -2610,7 +2621,7 @@
       "Name": "Alpha Male",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3588
+      "UsersEstimate": 3589
     },
     {
       "ID": "SeniorEstateAgent",
@@ -2626,7 +2637,7 @@
       "Name": "Pro-creative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3399
+      "UsersEstimate": 3400
     },
     {
       "ID": "Strongman",
@@ -2657,15 +2668,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 18886,
+      "Progressed": 18887,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
-  "LastChanged": "2023-05-21T23:59:55.9899106+00:00",
-  "LastChanged_Achievements": "2023-05-22T00:06:17.9371592+00:00",
+  "LastChanged": "2023-05-22T02:05:20.3991515+00:00",
+  "LastChanged_Achievements": "2023-05-22T02:11:37.1857817+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:56.8900842+00:00",
-  "LastUpdate_Ratings": "2023-05-21T23:59:55.9899115+00:00",
-  "LastUpdate_Achievements": "2023-05-22T00:06:17.937184+00:00"
+  "LastUpdate_Ratings": "2023-05-22T02:05:20.3991525+00:00",
+  "LastUpdate_Achievements": "2023-05-22T02:11:37.1858071+00:00"
 }

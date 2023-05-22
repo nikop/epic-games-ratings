@@ -1092,18 +1092,24 @@
       "Rating": 4.17,
       "NumberOfAwards": 3690,
       "NumberOfAwardsMax": 2227
+    },
+    {
+      "Time": "2023-05-22T02:05:36.4388642+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 3692,
+      "NumberOfAwardsMax": 2229
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3690,
-  "NumberOfAwardsMax": 2227,
+  "NumberOfAwards": 3692,
+  "NumberOfAwardsMax": 2229,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2227
+      "Count": 2229
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1160,9 +1166,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61594,
+  "EOS_Progressed": 61600,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 711,
+  "EOS_NewPlayers": 714,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3245,6 +3251,11 @@
       "Time": "2023-05-22T00:06:41.1817502+00:00",
       "NumProgressed": 61594,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-22T02:11:55.5185966+00:00",
+      "NumProgressed": 61600,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3358,9 +3369,9 @@
       "ID": "CLAYFACE_1",
       "SetID": "4eo5ebm",
       "Name": "Something in the Clay",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 370
     },
     {
       "ID": "CLAYFACE_2",
@@ -3566,9 +3577,9 @@
       "ID": "HARLEY_2",
       "SetID": "4eo5ebm",
       "Name": "Get ReQ\u0027d",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 370
+      "UsersEstimate": 431
     },
     {
       "ID": "HARLEY_3",
@@ -3743,22 +3754,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61594,
+      "Progressed": 61600,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31874,
+      "Progressed": 31880,
       "Completed": 2640
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-05-21T20:59:39.1766882+00:00",
-  "LastChanged_Achievements": "2023-05-22T00:06:41.1817492+00:00",
+  "LastChanged": "2023-05-22T02:05:36.438864+00:00",
+  "LastChanged_Achievements": "2023-05-22T02:11:55.518596+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-22T00:00:17.6655033+00:00",
-  "LastUpdate_Achievements": "2023-05-22T00:06:41.1818199+00:00"
+  "LastUpdate_Ratings": "2023-05-22T02:05:36.4388646+00:00",
+  "LastUpdate_Achievements": "2023-05-22T02:11:55.5186685+00:00"
 }

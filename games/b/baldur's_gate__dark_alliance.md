@@ -1,7 +1,7 @@
 # Baldur's Gate: Dark Alliance
 [Store](https://store.epicgames.com/en-US/p/baldurs_gate_dark_alliance-8a2e77)  
 [View Rawdata](../../db/b/baldur's_gate__dark_alliance.json)  
-Rating: 4.70 (Ranked 192)  
+Rating: 4.71 (Ranked 177)  
 Number of Ratings: 22  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -21,3 +21,4 @@ Number of Ratings: 22  (23.09.2022)
 | 2023-01-06 | 4.72 | - | - | - |
 | 2023-03-31 | 4.72 | - | 0 | 0 |
 | 2023-04-14 | 4.70 | - | 0 | 0 |
+| 2023-05-22 | 4.71 | - | 0 | 0 |

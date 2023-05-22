@@ -6,8 +6,8 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 205,
-  "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_Completed": 83,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
@@ -40,11 +40,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 349,
+  "EOS_Progressed": 350,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.15,
+  "EOS_Completed_Percentage": 1.14,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:42.6464552+00:00",
@@ -115,6 +115,11 @@
       "Time": "2023-05-20T04:05:57.7190434+00:00",
       "NumProgressed": 349,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-22T02:11:37.0001222+00:00",
+      "NumProgressed": 350,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 46,
@@ -126,7 +131,7 @@
       "Name": "The Bracelet",
       "Percentage": 68,
       "XP": 50,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_010",
@@ -134,7 +139,7 @@
       "Name": "The Denouement",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_011",
@@ -158,15 +163,15 @@
       "Name": "Little Grey Cells",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ACH_014",
       "SetID": "72imik0",
       "Name": "Order and Method",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_015",
@@ -180,9 +185,9 @@
       "ID": "ACH_016",
       "SetID": "72imik0",
       "Name": "Curious and Beautiful",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_017",
@@ -204,9 +209,9 @@
       "ID": "ACH_019",
       "SetID": "72imik0",
       "Name": "Fine-toothed Comb",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 195
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_02",
@@ -214,7 +219,7 @@
       "Name": "The Blackmail",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_020",
@@ -238,7 +243,7 @@
       "Name": "Room with a View",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_023",
@@ -278,7 +283,7 @@
       "Name": "Well-prepared",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_028",
@@ -302,7 +307,7 @@
       "Name": "The Altercation",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH_030",
@@ -324,9 +329,9 @@
       "ID": "ACH_032",
       "SetID": "72imik0",
       "Name": "Archibald Sterling",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_033",
@@ -350,15 +355,15 @@
       "Name": "Elizabeth Padget",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ACH_036",
       "SetID": "72imik0",
       "Name": "Ernesto da Silva",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 119
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_037",
@@ -366,7 +371,7 @@
       "Name": "Florette Duval",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_038",
@@ -390,7 +395,7 @@
       "Name": "The Major",
       "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_040",
@@ -406,7 +411,7 @@
       "Name": "Jacqueline \u201CJackie\u201D Conrad",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_042",
@@ -414,7 +419,7 @@
       "Name": "Luc Piette",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACH_043",
@@ -422,15 +427,15 @@
       "Name": "Major Felix Hagen",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_044",
       "SetID": "72imik0",
       "Name": "Rehana Piette",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_045",
@@ -454,7 +459,7 @@
       "Name": "The Interrogations",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_06",
@@ -486,14 +491,14 @@
       "Name": "The Truth",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     }
   ],
   "AchievementSets": [
     {
       "ID": "72imik0",
       "IsBase": true,
-      "Progressed": 349,
+      "Progressed": 350,
       "Completed": 4
     }
   ],
@@ -501,8 +506,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-04-23T20:59:05.6364727+00:00",
-  "LastChanged_Achievements": "2023-05-22T00:06:17.7182797+00:00",
+  "LastChanged_Achievements": "2023-05-22T02:11:37.0001216+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:21.1677619+00:00",
-  "LastUpdate_Ratings": "2023-05-21T23:57:57.1255528+00:00",
-  "LastUpdate_Achievements": "2023-05-22T00:06:17.7183213+00:00"
+  "LastUpdate_Ratings": "2023-05-22T02:03:54.0515827+00:00",
+  "LastUpdate_Achievements": "2023-05-22T02:11:37.0001598+00:00"
 }

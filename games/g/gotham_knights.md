@@ -8,16 +8,16 @@ Rating: 4.17 (Ranked 836)
 | First Step Into the Knight | 1.00% | ~616 |
 | Har, Har, Har, Very Funny | 0.80% | ~493 |
 | Loose Ends | 0.80% | ~493 |
+| Get ReQ'd | 0.70% | ~431 |
 | Knighthood | 0.70% | ~431 |
 | The Batman Family | 0.60% | ~370 |
+| Something in the Clay | 0.60% | ~370 |
 | To the Victor Go the Spoils | 0.60% | ~370 |
 | Quartzer Life Crisis | 0.60% | ~370 |
-| Get ReQ'd | 0.60% | ~370 |
 | Working Hard or Harley Working? | 0.60% | ~370 |
 | Whispered Words | 0.60% | ~370 |
 | Lock and Key | 0.60% | ~370 |
 | Protector of Gotham | 0.50% | ~308 |
-| Something in the Clay | 0.50% | ~308 |
 | The Show Mud Go On | 0.50% | ~308 |
 | Rock and a Hard Place | 0.50% | ~308 |
 | Shock Til They Drop | 0.50% | ~308 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 836)
 | Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,594 (Ranked 68)  
+Progressed: 61,600 (Ranked 68)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,14 +99,14 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-19 | 61,198 | 91 |
 | 2023-05-20 | 61,416 | 91 |
 | 2023-05-21 | 61,589 | 91 |
-| 2023-05-22 | 61,594 | 91 |
+| 2023-05-22 | 61,600 | 91 |
 ## Awards
-Max (Great Boss Battles): 2,227  (Ranked 98)  
-Sum: 3,690 (Ranked 137)  
+Max (Great Boss Battles): 2,229  (Ranked 98)  
+Sum: 3,692 (Ranked 137)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,227 |
+| This game has Great Boss Battles | 2,229 |
 | This game is Extremely Fun | 191 |
 | This game has Quickly Understood Controls | 189 |
 | This game is Relaxing | 189 |
@@ -209,3 +209,4 @@ Diff (max vs sum): -39
 | 2023-05-19 | 4.17 | 2,222 | 3,684 |
 | 2023-05-20 | 4.17 | 2,227 | 3,689 |
 | 2023-05-21 | 4.17 | 2,227 | 3,690 |
+| 2023-05-22 | 4.17 | 2,229 | 3,692 |

@@ -2,9 +2,9 @@
   "ID": "72d60095fecc42bea1c711ede0762220",
   "Name": "Distant Worlds 2",
   "ProductSlug": "distant-worlds-2",
-  "Ranking_EOS_Progress": 411,
+  "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-19T19:14:45.2975337+00:00",
-  "LastUpdate_Ratings": "2023-05-22T00:01:12.7045416+00:00",
-  "LastUpdate_Achievements": "2023-05-22T00:05:43.5876576+00:00"
+  "LastUpdate_Ratings": "2023-05-22T02:06:15.4974538+00:00",
+  "LastUpdate_Achievements": "2023-05-22T02:11:10.0411825+00:00"
 }

@@ -16,7 +16,7 @@ Number of Ratings: 429  (23.09.2022)
 | Xenocide | 33.00% | ~1,895 |
 | Commodity Trader | 32.00% | ~1,837 |
 | Design a Civilization | 31.00% | ~1,780 |
-| Design a Ship | 28.00% | ~1,608 |
+| Design a Ship | 29.00% | ~1,665 |
 | Commodity Seller | 26.00% | ~1,493 |
 | Prestige Victory! | 14.00% | ~804 |
 | Galactic War | 11.00% | ~632 |

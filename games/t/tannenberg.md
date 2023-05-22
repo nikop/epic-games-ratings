@@ -6,60 +6,60 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~98,386 |
-| Comeback | 81.00% | ~89,542 |
-| Information is Key | 80.00% | ~88,437 |
-| Unlucky | 71.00% | ~78,488 |
-| Anarchist | 68.00% | ~75,171 |
-| Wallhack | 65.00% | ~71,855 |
-| Steady Supply | 60.00% | ~66,328 |
-| Lucky Shot | 53.00% | ~58,589 |
-| Forward Observer | 52.00% | ~57,484 |
-| Ring Ring! | 52.00% | ~57,484 |
-| Bossing Around | 45.00% | ~49,746 |
-| Frostbite | 45.00% | ~49,746 |
-| Night Owl | 44.00% | ~48,640 |
-| Strength in Numbers | 44.00% | ~48,640 |
-| Fog of War | 41.00% | ~45,324 |
-| Stronghold Denied | 39.00% | ~43,113 |
-| Anyone Else? | 38.00% | ~42,007 |
-| Rasputin | 38.00% | ~42,007 |
-| This Belongs to Us Now | 36.00% | ~39,797 |
-| Hydra | 35.00% | ~38,691 |
-| Stronghold | 34.00% | ~37,586 |
-| Leeroy | 33.00% | ~36,480 |
-| Lost Batallion | 33.00% | ~36,480 |
-| This is MY Machine Gun! | 31.00% | ~34,269 |
-| Together As One | 31.00% | ~34,269 |
-| Gavrilo Princip | 27.00% | ~29,847 |
-| Lead Harvest | 25.00% | ~27,636 |
-| Kesselschlacht | 23.00% | ~25,426 |
-| Skynet Confirmed | 23.00% | ~25,426 |
-| Democracy Works! | 20.00% | ~22,109 |
-| Switch, Please! | 19.00% | ~21,004 |
-| I've Seen It All | 18.00% | ~19,898 |
-| Tourist | 18.00% | ~19,898 |
-| At Least This Way I Can Win... | 17.00% | ~18,793 |
-| Oops! | 17.00% | ~18,793 |
-| Developers, Developers, Developers, Developers! | 16.00% | ~17,687 |
-| Butcher | 12.00% | ~13,266 |
-| Before the Leaves Fall | 10.00% | ~11,055 |
-| Close Call | 10.00% | ~11,055 |
-| Pinpoint | 10.00% | ~11,055 |
-| Tannenberg | 9.00% | ~9,949 |
-| For the Emperor | 8.00% | ~8,844 |
-| Hawk Eye | 8.00% | ~8,844 |
-| Hötzendorf | 7.00% | ~7,738 |
-| Equality For All | 6.00% | ~6,633 |
-| Crack Shot | 5.00% | ~5,527 |
-| From Russia with Love | 5.00% | ~5,527 |
-| Overachiever | 5.00% | ~5,527 |
-| Your Family Will Be Proud... | 5.00% | ~5,527 |
-| Gott Mit Uns | 4.00% | ~4,422 |
-| Indivisibiliter ac Inseparabiliter | 4.00% | ~4,422 |
-| Living on the Edge | 4.00% | ~4,422 |
-| Chivalrous | 3.00% | ~3,316 |
-| S nami Bog! | 3.00% | ~3,316 |
+| Immovable Object | 89.00% | ~98,401 |
+| Comeback | 81.00% | ~89,556 |
+| Information is Key | 80.00% | ~88,450 |
+| Unlucky | 71.00% | ~78,500 |
+| Anarchist | 68.00% | ~75,183 |
+| Wallhack | 65.00% | ~71,866 |
+| Steady Supply | 60.00% | ~66,338 |
+| Lucky Shot | 53.00% | ~58,598 |
+| Forward Observer | 52.00% | ~57,493 |
+| Ring Ring! | 52.00% | ~57,493 |
+| Bossing Around | 45.00% | ~49,753 |
+| Frostbite | 45.00% | ~49,753 |
+| Night Owl | 44.00% | ~48,648 |
+| Strength in Numbers | 44.00% | ~48,648 |
+| Fog of War | 41.00% | ~45,331 |
+| Stronghold Denied | 39.00% | ~43,120 |
+| Anyone Else? | 38.00% | ~42,014 |
+| Rasputin | 38.00% | ~42,014 |
+| This Belongs to Us Now | 36.00% | ~39,803 |
+| Hydra | 35.00% | ~38,697 |
+| Stronghold | 34.00% | ~37,591 |
+| Leeroy | 33.00% | ~36,486 |
+| Lost Batallion | 33.00% | ~36,486 |
+| This is MY Machine Gun! | 31.00% | ~34,275 |
+| Together As One | 31.00% | ~34,275 |
+| Gavrilo Princip | 27.00% | ~29,852 |
+| Lead Harvest | 25.00% | ~27,641 |
+| Kesselschlacht | 23.00% | ~25,429 |
+| Skynet Confirmed | 23.00% | ~25,429 |
+| Democracy Works! | 20.00% | ~22,113 |
+| Switch, Please! | 19.00% | ~21,007 |
+| I've Seen It All | 18.00% | ~19,901 |
+| Tourist | 18.00% | ~19,901 |
+| At Least This Way I Can Win... | 17.00% | ~18,796 |
+| Oops! | 17.00% | ~18,796 |
+| Developers, Developers, Developers, Developers! | 16.00% | ~17,690 |
+| Butcher | 12.00% | ~13,268 |
+| Before the Leaves Fall | 10.00% | ~11,056 |
+| Close Call | 10.00% | ~11,056 |
+| Pinpoint | 10.00% | ~11,056 |
+| Tannenberg | 9.00% | ~9,951 |
+| For the Emperor | 8.00% | ~8,845 |
+| Hawk Eye | 8.00% | ~8,845 |
+| Hötzendorf | 7.00% | ~7,739 |
+| Equality For All | 6.00% | ~6,634 |
+| Crack Shot | 5.00% | ~5,528 |
+| From Russia with Love | 5.00% | ~5,528 |
+| Overachiever | 5.00% | ~5,528 |
+| Your Family Will Be Proud... | 5.00% | ~5,528 |
+| Gott Mit Uns | 4.00% | ~4,423 |
+| Indivisibiliter ac Inseparabiliter | 4.00% | ~4,423 |
+| Living on the Edge | 4.00% | ~4,423 |
+| Chivalrous | 3.00% | ~3,317 |
+| S nami Bog! | 3.00% | ~3,317 |
 | Cheeki Breeki | 2.00% | ~2,211 |
 | Na Nozh! | 2.00% | ~2,211 |
 | Pe aici nu se trece | 2.00% | ~2,211 |
@@ -67,14 +67,14 @@ Number of Ratings: 13,393  (23.09.2022)
 | Pulcējaties zem latviešu karogiem! | 2.00% | ~2,211 |
 | Pure Krupp Steel | 2.00% | ~2,211 |
 | Za veru, Tsarya i otechestvo | 2.00% | ~2,211 |
-| From Russia with Hate | 1.00% | ~1,105 |
-| Talk Much? | 1.00% | ~1,105 |
-| To Arms! To Arms! | 1.00% | ~1,105 |
+| From Russia with Hate | 1.00% | ~1,106 |
+| Talk Much? | 1.00% | ~1,106 |
+| To Arms! To Arms! | 1.00% | ~1,106 |
 | Express to Petrograd | 0.90% | ~995 |
 | Seeing is Believing | 0.90% | ~995 |
 | Road to Berlin | 0.60% | ~663 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 110,546 (Ranked 57)  
+Progressed: 110,563 (Ranked 57)  
 Completed: 22 (0.02%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,10 +106,10 @@ Completed: 22 (0.02%) (Ranked 187)
 | 2023-05-19 | 109,970 | 22 |
 | 2023-05-20 | 110,256 | 22 |
 | 2023-05-21 | 110,538 | 22 |
-| 2023-05-22 | 110,546 | 22 |
+| 2023-05-22 | 110,563 | 22 |
 ## Awards
 Max (Competitive Players): 322  (Ranked 219)  
-Sum: 2,828 (Ranked 155)  
+Sum: 2,829 (Ranked 155)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
@@ -119,7 +119,7 @@ Diff (max vs sum): 64
 | This game has Diverse Characters | 303 |
 | This game is Extremely Fun | 302 |
 | This game has Challenging Combat | 274 |
-| This game is Highly Recommended | 271 |
+| This game is Highly Recommended | 272 |
 | This game has Amazing Characters | 268 |
 | This game has Realistic Visuals | 254 |
 | This game has a Competitive Community | 254 |
@@ -226,3 +226,4 @@ Diff (max vs sum): 64
 | 2023-05-14 | 4.39 | - | 322 | 2,826 |
 | 2023-05-17 | 4.39 | - | 322 | 2,827 |
 | 2023-05-20 | 4.39 | - | 322 | 2,828 |
+| 2023-05-22 | 4.39 | - | 322 | 2,829 |

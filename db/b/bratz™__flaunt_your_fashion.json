@@ -86,9 +86,9 @@
       "ID": "12",
       "SetID": "41h3j82",
       "Name": "Stilesville Hidden Style",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "13",
@@ -182,9 +182,9 @@
       "ID": "6",
       "SetID": "41h3j82",
       "Name": "Scooter Race",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "7",
@@ -223,8 +223,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2023-05-22T00:06:17.7883594+00:00",
+  "LastChanged_Achievements": "2023-05-22T02:11:37.0552982+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:21.7089696+00:00",
-  "LastUpdate_Ratings": "2023-05-21T23:59:29.1349496+00:00",
-  "LastUpdate_Achievements": "2023-05-22T00:06:17.788374+00:00"
+  "LastUpdate_Ratings": "2023-05-22T02:05:00.441837+00:00",
+  "LastUpdate_Achievements": "2023-05-22T02:11:37.0553145+00:00"
 }

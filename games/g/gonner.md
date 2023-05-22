@@ -1,7 +1,7 @@
 # GoNNER
 [Store](https://store.epicgames.com/en-US/p/gonner)  
 [View Rawdata](../../db/g/gonner.json)  
-Rating: 4.70 (Ranked 192)  
+Rating: 4.70 (Ranked 193)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -492,17 +492,17 @@
       "ID": "MQ03_3",
       "SetID": "bbing49",
       "Name": "History Check",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 40,
-      "UsersEstimate": 98
+      "UsersEstimate": 100
     },
     {
       "ID": "MQ03_4",
       "SetID": "bbing49",
       "Name": "Gaze Into The Abyss",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 92
     },
     {
       "ID": "MQ03_5",
@@ -516,9 +516,9 @@
       "ID": "MQ04_1",
       "SetID": "bbing49",
       "Name": "Going Once...",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 74
     },
     {
       "ID": "MQ04_2",
@@ -636,9 +636,9 @@
       "ID": "MQ08_3",
       "SetID": "bbing49",
       "Name": "Fhtagn!",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 74
     },
     {
       "ID": "PLTN",
@@ -661,8 +661,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-22T00:01:51.3135328+00:00",
+  "LastChanged_Achievements": "2023-05-22T02:06:45.3997777+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.473335+00:00",
-  "LastUpdate_Ratings": "2023-05-21T23:57:21.2972138+00:00",
-  "LastUpdate_Achievements": "2023-05-22T00:01:51.3135581+00:00"
+  "LastUpdate_Ratings": "2023-05-22T02:03:26.1361011+00:00",
+  "LastUpdate_Achievements": "2023-05-22T02:06:45.3998019+00:00"
 }

@@ -16,9 +16,9 @@
 | Mysterious footprints | 44.00% | ~64 |
 | Complicated padlock | 42.00% | ~61 |
 | Big metal ruler | 41.00% | ~60 |
-| Doll | 36.00% | ~53 |
+| Doll | 37.00% | ~54 |
 | Windmill | 36.00% | ~53 |
-| Cat | 32.00% | ~47 |
+| Cat | 33.00% | ~48 |
 | Mysterious paintings | 32.00% | ~47 |
 | Depths of the well | 23.00% | ~34 |
 | Children | 21.00% | ~31 |

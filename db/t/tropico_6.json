@@ -852,9 +852,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 3004,
+  "EOS_Progressed": 3005,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2537,6 +2537,11 @@
       "Time": "2023-05-22T00:06:40.8004432+00:00",
       "NumProgressed": 3004,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-22T02:11:55.3135084+00:00",
+      "NumProgressed": 3005,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2572,7 +2577,7 @@
       "Name": "Happy Ending?",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -2588,7 +2593,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -2692,7 +2697,7 @@
       "Name": "For Science!",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -2708,7 +2713,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2313
+      "UsersEstimate": 2314
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -2867,15 +2872,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3004,
+      "Progressed": 3005,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-15T17:00:44.7999652+00:00",
-  "LastChanged_Achievements": "2023-05-22T00:06:40.8004426+00:00",
+  "LastChanged_Achievements": "2023-05-22T02:11:55.3135075+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:57.2781106+00:00",
-  "LastUpdate_Ratings": "2023-05-22T00:00:48.2019779+00:00",
-  "LastUpdate_Achievements": "2023-05-22T00:06:40.8004837+00:00"
+  "LastUpdate_Ratings": "2023-05-22T02:05:58.2863676+00:00",
+  "LastUpdate_Achievements": "2023-05-22T02:11:55.3135502+00:00"
 }

@@ -9,13 +9,13 @@ Rating: 4.50 (Ranked 535)
 | Vanquisher of Robots | 73.00% | ~268 |
 | Party | 46.00% | ~169 |
 | Knowledge is Power | 44.00% | ~161 |
+| Impossible Cube | 43.00% | ~158 |
 | No Mercy | 42.00% | ~154 |
-| Impossible Cube | 42.00% | ~154 |
 | The Return of a Rat | 40.00% | ~147 |
 | Through the Darkness | 40.00% | ~147 |
 | Fat of the Earth | 33.00% | ~121 |
 | Last Man Standing | 32.00% | ~117 |
-| Catch Jonathan_tostar | 26.00% | ~95 |
+| Catch Jonathan_tostar | 27.00% | ~99 |
 | Great Hero | 25.00% | ~92 |
 | Campaigning | 24.00% | ~88 |
 | Assemble a Meganewbie | 24.00% | ~88 |

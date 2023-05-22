@@ -20,12 +20,12 @@
 | Lover of classics | 5.00% | ~6 |
 | Rest In Peace | 5.00% | ~6 |
 | Modern Player | 4.00% | ~5 |
+| Researcher | 4.00% | ~5 |
+| I Am The Gate Keeper! | 4.00% | ~5 |
 | The bus stop | 4.00% | ~5 |
 | The Curse Is Real | 4.00% | ~5 |
 | Trapped | 4.00% | ~5 |
 | What A Mansion | 4.00% | ~5 |
-| Researcher | 3.00% | ~4 |
-| I Am The Gate Keeper! | 3.00% | ~4 |
 | This Mansion Is Clean | 3.00% | ~4 |
 | Armed To The Teeth | 2.00% | ~2 |
 | Back In Time | 2.00% | ~2 |
@@ -46,7 +46,7 @@
 | Survival Hero | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 118 (Ranked 255)  
-Completed: 1 (0.85%) (Ranked 90)  
+Completed: 1 (0.85%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

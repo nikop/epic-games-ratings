@@ -2,9 +2,9 @@
   "ID": "f392e50e67304b868f54c3d8591947dc",
   "Name": "Wildmender",
   "ProductSlug": "wildmender-29ca3c",
-  "Ranking_EOS_Progress": 411,
+  "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": null,
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-19T19:14:32.6747216+00:00",
-  "LastUpdate_Ratings": "2023-05-22T00:01:05.8319113+00:00",
-  "LastUpdate_Achievements": "2023-05-22T00:01:31.7762315+00:00"
+  "LastUpdate_Ratings": "2023-05-22T02:06:10.5420571+00:00",
+  "LastUpdate_Achievements": "2023-05-22T02:06:30.3225284+00:00"
 }

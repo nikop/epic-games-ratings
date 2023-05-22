@@ -2,12 +2,12 @@
   "ID": "2ba34162e36a4caf860fd00f934c8af1",
   "Name": "Curious Expedition 2",
   "ProductSlug": "curious-expedition-2-8cb901",
-  "Ranking_Rating": 192,
+  "Ranking_Rating": 193,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -49,9 +49,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 295,
+  "EOS_Progressed": 296,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -88,6 +88,11 @@
     {
       "Time": "2023-05-21T09:06:33.6590447+00:00",
       "NumProgressed": 295,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-22T02:11:56.3626296+00:00",
+      "NumProgressed": 296,
       "NumCompleted": 1
     }
   ],
@@ -212,7 +217,7 @@
       "Name": "Adventurer",
       "Percentage": 12,
       "XP": 80,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ach-campaign-noDeath",
@@ -244,7 +249,7 @@
       "Name": "Lost \u0026 Found \u0026 Lost Again",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ach-campaign-story3",
@@ -276,7 +281,7 @@
       "Name": "Cartographer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ach-discover-locations-high",
@@ -298,9 +303,9 @@
       "ID": "ach-environmentKill",
       "SetID": "17ih7ma",
       "Name": "Fire and Flood",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 101
     },
     {
       "ID": "ach-find-treasure",
@@ -322,9 +327,9 @@
       "ID": "ach-firstExpedition",
       "SetID": "17ih7ma",
       "Name": "The Adventure Begins",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 169
     },
     {
       "ID": "ach-hardExpeditions",
@@ -386,9 +391,9 @@
       "ID": "ach-learn-traits",
       "SetID": "17ih7ma",
       "Name": "Shennong Herbalist",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 89
     },
     {
       "ID": "ach-maxClubLevel-american",
@@ -428,7 +433,7 @@
       "Name": "Spooky!",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ach-noEquipment",
@@ -548,7 +553,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ach-unlockAllLeaders",
@@ -556,7 +561,7 @@
       "Name": "Very Classy",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "ach-villageQuests",
@@ -579,7 +584,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 295,
+      "Progressed": 296,
       "Completed": 1
     }
   ],
@@ -587,8 +592,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-03-31T05:57:33.8410127+00:00",
-  "LastChanged_Achievements": "2023-05-22T00:06:42.280101+00:00",
+  "LastChanged_Achievements": "2023-05-22T02:11:56.3626286+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:15:00.3054339+00:00",
-  "LastUpdate_Ratings": "2023-05-22T00:01:18.2050019+00:00",
-  "LastUpdate_Achievements": "2023-05-22T00:06:42.280155+00:00"
+  "LastUpdate_Ratings": "2023-05-22T02:06:19.3859181+00:00",
+  "LastUpdate_Achievements": "2023-05-22T02:11:56.3626844+00:00"
 }

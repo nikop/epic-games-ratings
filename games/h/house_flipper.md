@@ -1,16 +1,16 @@
 # House Flipper
 [Store](https://store.epicgames.com/en-US/p/house-flipper)  
 [View Rawdata](../../db/h/house_flipper.json)  
-Rating: 4.70 (Ranked 192)  
+Rating: 4.70 (Ranked 193)  
 Number of Ratings: 1,023  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First money | 94.00% | ~17,753 |
+| First money | 94.00% | ~17,754 |
 | Strongman | 31.00% | ~5,855 |
-| Alpha Male | 19.00% | ~3,588 |
-| Just Enough | 18.00% | ~3,399 |
-| Pro-creative | 18.00% | ~3,399 |
+| Alpha Male | 19.00% | ~3,589 |
+| Just Enough | 18.00% | ~3,400 |
+| Pro-creative | 18.00% | ~3,400 |
 | Worth Every Penny | 15.00% | ~2,833 |
 | Family man | 12.00% | ~2,266 |
 | Junior Estate Agent | 12.00% | ~2,266 |
@@ -30,7 +30,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Nerd | 0.50% | ~94 |
 | Senior Estate Agent | 0.50% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,886 (Ranked 93)  
+Progressed: 18,887 (Ranked 93)  
 Completed: 19 (0.10%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,10 +62,10 @@ Completed: 19 (0.10%) (Ranked 158)
 | 2023-05-19 | 18,806 | 19 |
 | 2023-05-20 | 18,843 | 19 |
 | 2023-05-21 | 18,885 | 19 |
-| 2023-05-22 | 18,886 | 19 |
+| 2023-05-22 | 18,887 | 19 |
 ## Awards
 Max (Great for Beginners): 288  (Ranked 226)  
-Sum: 2,124 (Ranked 178)  
+Sum: 2,125 (Ranked 178)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
@@ -73,7 +73,7 @@ Diff (max vs sum): 48
 | This game is Educational | 233 |
 | This game is Extremely Fun | 219 |
 | This game is Relaxing | 217 |
-| This game has Quickly Understood Controls | 211 |
+| This game has Quickly Understood Controls | 212 |
 | This game is Highly Recommended | 208 |
 | This game has Amazing Storytelling | 204 |
 | This game has a Creative Community | 204 |
@@ -178,3 +178,4 @@ Diff (max vs sum): 48
 | 2023-05-18 | 4.70 | - | 286 | 2,117 |
 | 2023-05-19 | 4.70 | - | 287 | 2,120 |
 | 2023-05-21 | 4.70 | - | 288 | 2,124 |
+| 2023-05-22 | 4.70 | - | 288 | 2,125 |

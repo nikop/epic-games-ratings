@@ -4,7 +4,7 @@
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -146,33 +146,33 @@
       "ID": "off_his_meds",
       "SetID": "a3kkelb",
       "Name": "He\u0027s Off His Meds",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "on_your_bike",
       "SetID": "a3kkelb",
       "Name": "On Your Bike",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 53
+      "UsersEstimate": 55
     },
     {
       "ID": "pearce",
       "SetID": "a3kkelb",
       "Name": "Pearce",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "personal_life",
       "SetID": "a3kkelb",
       "Name": "Personal Life",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "save_dad",
@@ -194,9 +194,9 @@
       "ID": "unhelpful",
       "SetID": "a3kkelb",
       "Name": "Unhelpful",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "use_your_connections",
@@ -227,8 +227,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-05-22T00:05:57.5311583+00:00",
+  "LastChanged_Achievements": "2023-05-22T02:11:21.1849575+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:08.7260317+00:00",
-  "LastUpdate_Ratings": "2023-05-21T23:57:26.3598392+00:00",
-  "LastUpdate_Achievements": "2023-05-22T00:05:57.5311703+00:00"
+  "LastUpdate_Ratings": "2023-05-22T02:03:29.7219672+00:00",
+  "LastUpdate_Achievements": "2023-05-22T02:11:21.184972+00:00"
 }

@@ -427,9 +427,9 @@
       "ID": "apprentice_destructor",
       "SetID": "jig50d",
       "Name": "Apprentice Destructor",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "avaricerite",
@@ -499,9 +499,9 @@
       "ID": "die",
       "SetID": "jig50d",
       "Name": "You Have Been Deaded",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "easy_victory",
@@ -523,9 +523,9 @@
       "ID": "i_prefer_fusion_jazz",
       "SetID": "jig50d",
       "Name": "I Prefer Jazz Fusion",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ice_breaker",
@@ -684,8 +684,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-22T00:02:36.2421338+00:00",
+  "LastChanged_Achievements": "2023-05-22T02:09:21.2767017+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:10:10.466439+00:00",
-  "LastUpdate_Ratings": "2023-05-22T00:00:32.6011963+00:00",
-  "LastUpdate_Achievements": "2023-05-22T00:02:36.2421575+00:00"
+  "LastUpdate_Ratings": "2023-05-22T02:05:47.1564504+00:00",
+  "LastUpdate_Achievements": "2023-05-22T02:09:21.2767291+00:00"
 }

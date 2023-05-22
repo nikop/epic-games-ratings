@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 404,
+  "EOS_Progressed": 405,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -149,6 +149,11 @@
       "Time": "2023-05-21T22:06:05.7268422+00:00",
       "NumProgressed": 404,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-22T02:11:42.6204682+00:00",
+      "NumProgressed": 405,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -160,7 +165,7 @@
       "Name": "Grand Opening",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -208,7 +213,7 @@
       "Name": "Circus Electrique Proudly Presents...",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -224,7 +229,7 @@
       "Name": "Path of Learning",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -400,7 +405,7 @@
       "Name": "King of District 2",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -448,7 +453,7 @@
       "Name": "Flawless Presentation",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -559,7 +564,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 404,
+      "Progressed": 405,
       "Completed": 1
     }
   ],
@@ -567,8 +572,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-05-22T00:06:24.7776229+00:00",
+  "LastChanged_Achievements": "2023-05-22T02:11:42.6204677+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.3315704+00:00",
-  "LastUpdate_Ratings": "2023-05-21T23:59:20.1258466+00:00",
-  "LastUpdate_Achievements": "2023-05-22T00:06:24.7776698+00:00"
+  "LastUpdate_Ratings": "2023-05-22T02:04:54.9262688+00:00",
+  "LastUpdate_Achievements": "2023-05-22T02:11:42.6205142+00:00"
 }

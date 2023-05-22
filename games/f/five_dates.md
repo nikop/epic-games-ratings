@@ -18,10 +18,10 @@
 | Smooth Criminal | 8.00% | ~29 |
 | Sore Loser | 8.00% | ~29 |
 | Interrogation | 4.00% | ~15 |
-| Crash and Burn | 2.00% | ~7 |
+| Crash and Burn | 3.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 365 (Ranked 201)  
-Completed: 3 (0.82%) (Ranked 93)  
+Completed: 4 (1.10%) (Ranked 86)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -43,6 +43,7 @@ Completed: 3 (0.82%) (Ranked 93)
 | 2023-05-19 | 361 | 3 |
 | 2023-05-20 | 364 | 3 |
 | 2023-05-21 | 365 | 3 |
+| 2023-05-22 | 365 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

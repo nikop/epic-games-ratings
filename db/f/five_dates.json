@@ -3,9 +3,9 @@
   "Name": "Five Dates",
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 201,
-  "Ranking_EOS_Completed": 93,
+  "Ranking_EOS_Completed": 86,
   "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
     "PcReleaseDate": "2020-11-17T18:00:00+00:00",
@@ -28,10 +28,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 365,
-  "EOS_Completed": 3,
+  "EOS_Completed": 4,
   "EOS_NewPlayers": 10,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.82,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 1.1,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.144074+00:00",
@@ -197,6 +197,11 @@
       "Time": "2023-05-21T18:06:33.380883+00:00",
       "NumProgressed": 365,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-22T02:11:25.6421127+00:00",
+      "NumProgressed": 365,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 15,
@@ -222,9 +227,9 @@
       "ID": "crash_and_burn",
       "SetID": "c4ipj3h",
       "Name": "Crash and Burn",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 11
     },
     {
       "ID": "digital_casanova",
@@ -328,15 +333,15 @@
       "ID": "c4ipj3h",
       "IsBase": true,
       "Progressed": 365,
-      "Completed": 3
+      "Completed": 4
     }
   ],
   "FirstSeen": "2022-10-18T05:01:58.3974344+00:00",
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-05-22T00:06:03.3945801+00:00",
+  "LastChanged_Achievements": "2023-05-22T02:11:25.642112+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:42.8167872+00:00",
-  "LastUpdate_Ratings": "2023-05-21T23:58:22.5817006+00:00",
-  "LastUpdate_Achievements": "2023-05-22T00:06:03.3945919+00:00"
+  "LastUpdate_Ratings": "2023-05-22T02:04:11.5969306+00:00",
+  "LastUpdate_Achievements": "2023-05-22T02:11:25.6421268+00:00"
 }

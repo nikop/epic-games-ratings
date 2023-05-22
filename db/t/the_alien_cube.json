@@ -2,9 +2,9 @@
   "ID": "ea4755484f8641a4a540c227bb62f02d",
   "Name": "The Alien Cube",
   "ProductSlug": "the-alien-cube-789431",
-  "Ranking_EOS_Progress": 411,
+  "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-10-14T17:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:11.1924715+00:00",
   "LastChanged": "2023-03-31T05:57:11.1924716+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:05.4238914+00:00",
-  "LastUpdate_Ratings": "2023-05-21T23:58:48.8469226+00:00",
-  "LastUpdate_Achievements": "2023-05-22T00:02:38.59458+00:00"
+  "LastUpdate_Ratings": "2023-05-22T02:04:31.9551256+00:00",
+  "LastUpdate_Achievements": "2023-05-22T02:09:23.0355321+00:00"
 }

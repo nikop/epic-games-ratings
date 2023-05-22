@@ -28,14 +28,14 @@ Number of Ratings: 45  (23.09.2022)
 | A Story of Heroes | 6.00% | ~72 |
 | Let Me Get My Chisel | 5.00% | ~60 |
 | Plague Doctor | 5.00% | ~60 |
+| Wingknight's Prowess | 5.00% | ~60 |
 | All My Birds, Safely Home | 5.00% | ~60 |
+| Worldwalker | 4.00% | ~48 |
 | Legends Never Die | 4.00% | ~48 |
 | In Soil, In Smoke | 4.00% | ~48 |
 | A Hunger, Sated | 4.00% | ~48 |
-| Wingknight's Prowess | 4.00% | ~48 |
 | Turncoat | 4.00% | ~48 |
 | We Emerge Changed | 3.00% | ~36 |
-| Worldwalker | 3.00% | ~36 |
 | No More Nightmares | 3.00% | ~36 |
 | Bears are Scary | 3.00% | ~36 |
 | Grillmaster | 3.00% | ~36 |

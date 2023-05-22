@@ -4152,9 +4152,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 704415,
+  "EOS_Progressed": 704432,
   "EOS_Completed": 12733,
-  "EOS_NewPlayers": 1481,
+  "EOS_NewPlayers": 1494,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -6672,6 +6672,11 @@
       "Time": "2023-05-22T00:06:28.151996+00:00",
       "NumProgressed": 704415,
       "NumCompleted": 12733
+    },
+    {
+      "Time": "2023-05-22T02:11:44.9983449+00:00",
+      "NumProgressed": 704432,
+      "NumCompleted": 12733
     }
   ],
   "TotalAchievements": 50,
@@ -6771,7 +6776,7 @@
       "Name": "Scareless",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4226
+      "UsersEstimate": 4227
     },
     {
       "ID": "13_LowAge",
@@ -6913,9 +6918,9 @@
       "ID": "30_ComboMid",
       "SetID": "adcm20g",
       "Name": "I know Kung-Fu",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2818
+      "UsersEstimate": 3522
     },
     {
       "ID": "31_ComboHigh",
@@ -6931,7 +6936,7 @@
       "Name": "Old Child",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4226
+      "UsersEstimate": 4227
     },
     {
       "ID": "33_BladeOneShot",
@@ -6955,7 +6960,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4226
+      "UsersEstimate": 4227
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -7019,7 +7024,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -7067,7 +7072,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -7082,21 +7087,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 13716,
+      "Progressed": 13733,
       "Completed": 10142
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 704415,
+      "Progressed": 704432,
       "Completed": 12733
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-21T21:59:10.8120001+00:00",
-  "LastChanged_Achievements": "2023-05-22T00:06:28.1519955+00:00",
+  "LastChanged_Achievements": "2023-05-22T02:11:44.9983444+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.7579865+00:00",
-  "LastUpdate_Ratings": "2023-05-21T23:59:24.5900513+00:00",
-  "LastUpdate_Achievements": "2023-05-22T00:06:28.1520579+00:00"
+  "LastUpdate_Ratings": "2023-05-22T02:04:58.1296596+00:00",
+  "LastUpdate_Achievements": "2023-05-22T02:11:44.998406+00:00"
 }

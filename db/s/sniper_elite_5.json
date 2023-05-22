@@ -5,7 +5,7 @@
   "Ranking_Rating": 674,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 161,
+  "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 143,
   "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 79,
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1131,
+  "EOS_Progressed": 1140,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 413,
+  "EOS_NewPlayers": 422,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -962,6 +962,11 @@
       "Time": "2023-05-22T00:06:06.8265424+00:00",
       "NumProgressed": 1131,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-22T02:11:28.3863807+00:00",
+      "NumProgressed": 1140,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1019,9 +1024,9 @@
       "ID": "REWARD_16_FIELDS_OF_GLORY",
       "SetID": "bm6el81",
       "Name": "Fields of Glory",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -1051,9 +1056,9 @@
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 137
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1131,9 +1136,9 @@
       "ID": "REWARD_29_PRECISION_IS_KEY",
       "SetID": "bm6el81",
       "Name": "Precision Is Key",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -1141,7 +1146,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1221,7 +1226,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -1283,9 +1288,9 @@
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
       "SetID": "bm6el81",
       "Name": "It\u0027s Starting to Crack",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 34
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -1540,13 +1545,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1082,
+      "Progressed": 1091,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1131,
+      "Progressed": 1140,
       "Completed": 2
     }
   ],
@@ -1554,8 +1559,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-21T20:01:20.196422+00:00",
-  "LastChanged_Achievements": "2023-05-22T00:06:06.8265414+00:00",
+  "LastChanged_Achievements": "2023-05-22T02:11:28.3863801+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-22T00:01:12.6104515+00:00",
-  "LastUpdate_Achievements": "2023-05-22T00:06:06.8266132+00:00"
+  "LastUpdate_Ratings": "2023-05-22T02:06:15.444748+00:00",
+  "LastUpdate_Achievements": "2023-05-22T02:11:28.3864548+00:00"
 }

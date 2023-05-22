@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -366,9 +366,9 @@
       "ID": "Tell_me_your_story",
       "SetID": "gl7plp",
       "Name": "Tell me your story",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 451
+      "UsersEstimate": 458
     },
     {
       "ID": "Thats_gotta_hurt",
@@ -495,8 +495,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-03-31T05:57:44.802254+00:00",
-  "LastChanged_Achievements": "2023-05-22T00:02:25.8690876+00:00",
+  "LastChanged_Achievements": "2023-05-22T02:09:13.4491464+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:07.9754258+00:00",
-  "LastUpdate_Ratings": "2023-05-21T23:57:46.2216936+00:00",
-  "LastUpdate_Achievements": "2023-05-22T00:02:25.8691169+00:00"
+  "LastUpdate_Ratings": "2023-05-22T02:03:43.7969089+00:00",
+  "LastUpdate_Achievements": "2023-05-22T02:09:13.449177+00:00"
 }

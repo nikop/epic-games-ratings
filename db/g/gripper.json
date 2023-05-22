@@ -4,7 +4,7 @@
   "ProductSlug": "gripper-a6534b",
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-03-29T13:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28,
+  "EOS_Progressed": 29,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -73,6 +73,11 @@
       "Time": "2023-05-21T18:06:29.7356067+00:00",
       "NumProgressed": 28,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T02:11:22.9783631+00:00",
+      "NumProgressed": 29,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -82,7 +87,7 @@
       "ID": "ach_coins_tunnelrun_100",
       "SetID": "7flpkel",
       "Name": "Bronze Tunnel Collector",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -90,7 +95,7 @@
       "ID": "ach_coins_tunnelrun_250",
       "SetID": "7flpkel",
       "Name": "Silver Tunnel Collector",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -98,7 +103,7 @@
       "ID": "ach_coins_tunnelrun_500",
       "SetID": "7flpkel",
       "Name": "Golden Tunnel Collector",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -106,7 +111,7 @@
       "ID": "ach_collect_coins",
       "SetID": "7flpkel",
       "Name": "Platinum Tunnel Collector",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -130,7 +135,7 @@
       "ID": "ach_energy_upgrades",
       "SetID": "7flpkel",
       "Name": "Monster Energy",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -154,7 +159,7 @@
       "ID": "ach_quests_anger",
       "SetID": "7flpkel",
       "Name": "Total Anger",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -186,7 +191,7 @@
       "ID": "ach_rip_parts_shock",
       "SetID": "7flpkel",
       "Name": "Robolimb Ripper",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -210,7 +215,7 @@
       "ID": "ach_skin_changer",
       "SetID": "7flpkel",
       "Name": "Skinner",
-      "Percentage": 54,
+      "Percentage": 52,
       "XP": 10,
       "UsersEstimate": 15
     },
@@ -242,7 +247,7 @@
       "ID": "ach_tunnel_shock_nodamage",
       "SetID": "7flpkel",
       "Name": "No Shock Race",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -274,7 +279,7 @@
       "ID": "ach_win_anger",
       "SetID": "7flpkel",
       "Name": "Deal with Anger",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -282,7 +287,7 @@
       "ID": "ach_win_bossrush",
       "SetID": "7flpkel",
       "Name": "Boss Rusher",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -290,7 +295,7 @@
       "ID": "ach_win_bossrush_nodamage",
       "SetID": "7flpkel",
       "Name": "Flawless Boss Rusher",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 150,
       "UsersEstimate": 1
     },
@@ -298,7 +303,7 @@
       "ID": "ach_win_bossrush_time_10",
       "SetID": "7flpkel",
       "Name": "The Fastest Boss Rusher",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -306,7 +311,7 @@
       "ID": "ach_win_bossrush_time_12",
       "SetID": "7flpkel",
       "Name": "Faster Boss Rusher",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -314,7 +319,7 @@
       "ID": "ach_win_bossrush_time_15",
       "SetID": "7flpkel",
       "Name": "Fast Boss Rusher",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -330,15 +335,15 @@
       "ID": "ach_win_shock",
       "SetID": "7flpkel",
       "Name": "Deal with Shock",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ach_win_tunnelrun",
       "SetID": "7flpkel",
       "Name": "Tunnel Runner",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -363,7 +368,7 @@
     {
       "ID": "7flpkel",
       "IsBase": true,
-      "Progressed": 28,
+      "Progressed": 29,
       "Completed": 0
     }
   ],
@@ -371,8 +376,8 @@
   "FirstSeenRating": "2023-04-12T09:57:52.0824797+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.9769729+00:00",
   "LastChanged": "2023-04-12T09:57:52.0824798+00:00",
-  "LastChanged_Achievements": "2023-05-22T00:06:00.1167797+00:00",
+  "LastChanged_Achievements": "2023-05-22T02:11:22.9783621+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:42.5401332+00:00",
-  "LastUpdate_Ratings": "2023-05-21T23:58:21.6992755+00:00",
-  "LastUpdate_Achievements": "2023-05-22T00:06:00.1168166+00:00"
+  "LastUpdate_Ratings": "2023-05-22T02:04:11.0356986+00:00",
+  "LastUpdate_Achievements": "2023-05-22T02:11:22.9783917+00:00"
 }

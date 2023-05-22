@@ -4,7 +4,7 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 360,
+  "EOS_Progressed": 361,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -97,6 +97,11 @@
       "Time": "2023-05-21T22:05:49.6671514+00:00",
       "NumProgressed": 360,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-22T02:11:29.7921199+00:00",
+      "NumProgressed": 361,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -148,7 +153,7 @@
       "Name": "Clean Sweep",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -156,7 +161,7 @@
       "Name": "Death from Above",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "Award_DemolitionDerby",
@@ -220,7 +225,7 @@
       "Name": "Gunner",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "Award_HalfwayThere",
@@ -284,7 +289,7 @@
       "Name": "Line of Duty",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "Award_MilitaryIntelligence",
@@ -356,7 +361,7 @@
       "Name": "Scavenger",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "Award_ShellShock",
@@ -394,9 +399,9 @@
       "ID": "Award_SplashDamage",
       "SetID": "9ojec6n",
       "Name": "Splash Damage",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 61
     },
     {
       "ID": "Award_Stunning",
@@ -450,16 +455,16 @@
       "ID": "Award_WhatAShot",
       "SetID": "9ojec6n",
       "Name": "What-A-Shot",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 158
+      "UsersEstimate": 155
     }
   ],
   "AchievementSets": [
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 360,
+      "Progressed": 361,
       "Completed": 1
     }
   ],
@@ -467,8 +472,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-05-22T00:06:08.6229305+00:00",
+  "LastChanged_Achievements": "2023-05-22T02:11:29.7921194+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:49.6437871+00:00",
-  "LastUpdate_Ratings": "2023-05-21T23:58:31.4969344+00:00",
-  "LastUpdate_Achievements": "2023-05-22T00:06:08.6229688+00:00"
+  "LastUpdate_Ratings": "2023-05-22T02:04:18.1299759+00:00",
+  "LastUpdate_Achievements": "2023-05-22T02:11:29.7921566+00:00"
 }
