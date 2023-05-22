@@ -48,12 +48,12 @@ Rating: 4.40 (Ranked 674)
 | My Little Friend | 0.20% | ~2 |
 | From Paris with Love | 0.20% | ~2 |
 | Souvenir hunter | 0.20% | ~2 |
+| Locomotion Commotion | 0.20% | ~2 |
 | Siegebreaker | 0.20% | ~2 |
 | Ghost of Falaise | 0.20% | ~2 |
 | Burn after reading | 0.10% | ~1 |
 | Eagle Eyed | 0.10% | ~1 |
 | Tinkerer | 0.10% | ~1 |
-| Locomotion Commotion | 0.10% | ~1 |
 | Up close and personal | 0.10% | ~1 |
 | Führerious Repetition | 0.10% | ~1 |
 | Reich To The Point | 0.10% | ~1 |
@@ -77,7 +77,7 @@ Rating: 4.40 (Ranked 674)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,151 (Ranked 160)  
+Progressed: 1,152 (Ranked 159)  
 Completed: 2 (0.17%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 2 (0.17%) (Ranked 144)
 | 2023-05-19 | 833 | 2 |
 | 2023-05-20 | 984 | 2 |
 | 2023-05-21 | 1,126 | 2 |
-| 2023-05-22 | 1,151 | 2 |
+| 2023-05-22 | 1,152 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,20 +6,20 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 68.00% | ~28,812 |
-| Say goodbye, creep! | 65.00% | ~27,541 |
-| Blood splattered | 65.00% | ~27,541 |
-| Choo choo! | 62.00% | ~26,270 |
-| Groovy | 61.00% | ~25,846 |
+| Shoot it, man! Shoot it in the head! | 68.00% | ~28,813 |
+| Say goodbye, creep! | 65.00% | ~27,542 |
+| Blood splattered | 65.00% | ~27,542 |
+| Choo choo! | 62.00% | ~26,271 |
+| Groovy | 61.00% | ~25,847 |
 | Cleanup on aisle 4! | 56.00% | ~23,728 |
 | Gold | 50.00% | ~21,186 |
-| The boat can leave now...tell the crew | 48.00% | ~20,338 |
+| The boat can leave now...tell the crew | 48.00% | ~20,339 |
 | Give me something to shoot! | 46.00% | ~19,491 |
 | Stand back boy! | 46.00% | ~19,491 |
-| Weird science | 44.00% | ~18,643 |
-| Chain reaction | 44.00% | ~18,643 |
-| Look mummy! A shark! | 41.00% | ~17,372 |
-| What did you say, Blain? | 41.00% | ~17,372 |
+| Weird science | 44.00% | ~18,644 |
+| Chain reaction | 44.00% | ~18,644 |
+| Look mummy! A shark! | 41.00% | ~17,373 |
+| What did you say, Blain? | 41.00% | ~17,373 |
 | In the dark dark woods... | 38.00% | ~16,101 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,101 |
 | Double tap | 36.00% | ~15,254 |
@@ -28,11 +28,11 @@ Number of Ratings: 743  (23.09.2022)
 | Every bullet counts | 36.00% | ~15,254 |
 | All of this has happened before… | 35.00% | ~14,830 |
 | You've got red on you | 34.00% | ~14,406 |
-| All roads lead to Rome | 33.00% | ~13,982 |
+| All roads lead to Rome | 33.00% | ~13,983 |
 | You're all going to die down here | 31.00% | ~13,135 |
 | He did Nazi that coming | 31.00% | ~13,135 |
 | Kill of the week | 31.00% | ~13,135 |
-| I never liked them anyway | 30.00% | ~12,711 |
+| I never liked them anyway | 30.00% | ~12,712 |
 | Is it over? | 28.00% | ~11,864 |
 | Got your back | 27.00% | ~11,440 |
 | Gore soaked | 24.00% | ~10,169 |
@@ -41,7 +41,7 @@ Number of Ratings: 743  (23.09.2022)
 | Everyone's a mad scientist, life is the lab | 18.00% | ~7,627 |
 | Take them down screaming | 18.00% | ~7,627 |
 | Weapons expert | 17.00% | ~7,203 |
-| Bad Blood | 16.00% | ~6,779 |
+| Bad Blood | 16.00% | ~6,780 |
 | The bigger they are... | 15.00% | ~6,356 |
 | I'm going deeper underground | 14.00% | ~5,932 |
 | Well equipped | 12.00% | ~5,085 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~424 |
 | None more hard | 0.50% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,371 (Ranked 79)  
+Progressed: 42,372 (Ranked 79)  
 Completed: 24 (0.06%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,6 +105,7 @@ Completed: 24 (0.06%) (Ranked 170)
 | 2023-05-19 | 42,312 | 24 |
 | 2023-05-20 | 42,351 | 24 |
 | 2023-05-21 | 42,371 | 24 |
+| 2023-05-22 | 42,372 | 24 |
 ## Awards
 Max (Great Boss Battles): 774  (Ranked 147)  
 Sum: 2,370 (Ranked 169)  

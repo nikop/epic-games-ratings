@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 422,
+  "EOS_Progressed": 423,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.18,
   "EosHistory": [
@@ -184,6 +184,11 @@
       "Time": "2023-05-22T00:06:38.3024438+00:00",
       "NumProgressed": 422,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-22T06:06:07.8303473+00:00",
+      "NumProgressed": 423,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -283,7 +288,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "Hitman",
@@ -291,7 +296,7 @@
       "Name": "Short Circuit",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Illustrator",
@@ -315,7 +320,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "Leisurely_Strol",
@@ -411,7 +416,7 @@
       "Name": "Beat the Heat",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "Unforeseen_Consequences",
@@ -426,7 +431,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 422,
+      "Progressed": 423,
       "Completed": 5
     }
   ],
@@ -434,8 +439,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-05-18T03:00:40.7703689+00:00",
-  "LastChanged_Achievements": "2023-05-22T05:05:54.6825715+00:00",
+  "LastChanged_Achievements": "2023-05-22T06:06:07.8303468+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:53.1846024+00:00",
-  "LastUpdate_Ratings": "2023-05-22T05:00:19.8908094+00:00",
-  "LastUpdate_Achievements": "2023-05-22T05:05:54.6825883+00:00"
+  "LastUpdate_Ratings": "2023-05-22T06:00:34.4157627+00:00",
+  "LastUpdate_Achievements": "2023-05-22T06:06:07.8303688+00:00"
 }

@@ -16,12 +16,12 @@
 | Alone In The Dark | 9.00% | ~11 |
 | Parasite Exterminated | 9.00% | ~11 |
 | The Cultists | 9.00% | ~11 |
-| The Forgotten Tower | 7.00% | ~8 |
+| The Forgotten Tower | 8.00% | ~9 |
 | Lover of classics | 5.00% | ~6 |
+| Researcher | 5.00% | ~6 |
 | Rest In Peace | 5.00% | ~6 |
+| I Am The Gate Keeper! | 5.00% | ~6 |
 | Modern Player | 4.00% | ~5 |
-| Researcher | 4.00% | ~5 |
-| I Am The Gate Keeper! | 4.00% | ~5 |
 | The bus stop | 4.00% | ~5 |
 | The Curse Is Real | 4.00% | ~5 |
 | Trapped | 4.00% | ~5 |

@@ -2480,9 +2480,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 9050,
+  "EOS_Progressed": 9053,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4165,6 +4165,11 @@
       "Time": "2023-05-22T05:05:56.1031721+00:00",
       "NumProgressed": 9050,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T06:06:09.7067789+00:00",
+      "NumProgressed": 9053,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -4184,7 +4189,7 @@
       "Name": "Burning City",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -4200,7 +4205,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -4238,9 +4243,9 @@
       "ID": "09_PathOfDemon",
       "SetID": "989of5o",
       "Name": "Path of the Demon",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 81
     },
     {
       "ID": "10_PathOfAzata",
@@ -4256,7 +4261,7 @@
       "Name": "Path of the Aeon",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "12_PathOfTrickster",
@@ -4264,7 +4269,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "13_PathOfLich",
@@ -4272,7 +4277,7 @@
       "Name": "Path of the Lich",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "14_PathOfSwarm",
@@ -4400,7 +4405,7 @@
       "Name": "Heroic Victory",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "31_DivideAndRule",
@@ -4432,7 +4437,7 @@
       "Name": "Capitulation Is Now Moot",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "35_AbyssalConspiracy",
@@ -4576,7 +4581,7 @@
       "Name": "Truly Important Deed",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "53_TrulyProfaneGift",
@@ -5103,21 +5108,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7832,
+      "Progressed": 7835,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9050,
+      "Progressed": 9053,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-22T02:04:20.9087258+00:00",
-  "LastChanged_Achievements": "2023-05-22T05:05:56.1031713+00:00",
+  "LastChanged_Achievements": "2023-05-22T06:06:09.7067786+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3010226+00:00",
-  "LastUpdate_Ratings": "2023-05-22T04:58:17.8752712+00:00",
-  "LastUpdate_Achievements": "2023-05-22T05:05:56.1033099+00:00"
+  "LastUpdate_Ratings": "2023-05-22T05:58:10.6862772+00:00",
+  "LastUpdate_Achievements": "2023-05-22T06:06:09.7069334+00:00"
 }

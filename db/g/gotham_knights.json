@@ -1166,9 +1166,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61616,
+  "EOS_Progressed": 61628,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 727,
+  "EOS_NewPlayers": 739,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3271,6 +3271,11 @@
       "Time": "2023-05-22T05:05:56.8441309+00:00",
       "NumProgressed": 61616,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-22T06:06:10.542231+00:00",
+      "NumProgressed": 61628,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3362,7 +3367,7 @@
       "Name": "End of an Era",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "APPLY_STATUS",
@@ -3370,7 +3375,7 @@
       "Name": "In Your Element",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "CHALLENGES_1",
@@ -3442,7 +3447,7 @@
       "Name": "Not On My Watch",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -3458,7 +3463,7 @@
       "Name": "Bulldozed",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -3466,7 +3471,7 @@
       "Name": "Out of Their League",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -3498,7 +3503,7 @@
       "Name": "Drone You Out",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "FREEZE_1",
@@ -3769,13 +3774,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61616,
+      "Progressed": 61628,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31896,
+      "Progressed": 31908,
       "Completed": 2640
     }
   ],
@@ -3783,8 +3788,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-22T02:05:36.438864+00:00",
-  "LastChanged_Achievements": "2023-05-22T05:05:56.8441304+00:00",
+  "LastChanged_Achievements": "2023-05-22T06:06:10.5422305+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-22T04:59:33.8479132+00:00",
-  "LastUpdate_Achievements": "2023-05-22T05:05:56.8441873+00:00"
+  "LastUpdate_Ratings": "2023-05-22T05:59:40.7263815+00:00",
+  "LastUpdate_Achievements": "2023-05-22T06:06:10.5423004+00:00"
 }

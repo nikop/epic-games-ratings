@@ -9,18 +9,20 @@
 | Welcome To The Kabaret | 40.00% | ~4 |
 | Congkak Hero | 30.00% | ~3 |
 | Congkak Champion | 30.00% | ~3 |
+| Goodbye Dear Friend | 30.00% | ~3 |
 | An Unheard Song | 30.00% | ~3 |
+| By My Own Hands | 30.00% | ~3 |
+| Let There Be Light | 30.00% | ~3 |
 | All Alone With A Curse | 30.00% | ~3 |
 | Strangers You Meet | 20.00% | ~2 |
 | I'll Become... A Beast | 20.00% | ~2 |
 | Equality | 20.00% | ~2 |
-| Goodbye Dear Friend | 20.00% | ~2 |
-| By My Own Hands | 20.00% | ~2 |
 | Squashed Bug | 20.00% | ~2 |
+| Till Death Do We... | 20.00% | ~2 |
+| Eating A Dead Flower | 20.00% | ~2 |
 | Bookworm | 20.00% | ~2 |
 | Behold, The Nagarimau | 20.00% | ~2 |
 | Clipped Wings | 20.00% | ~2 |
-| Let There Be Light | 20.00% | ~2 |
 | Lady In The Book | 20.00% | ~2 |
 | Losing A Small, Good Thing | 10.00% | ~1 |
 | Rebel To God | 10.00% | ~1 |
@@ -43,10 +45,8 @@
 | Self-indulgent | 10.00% | ~1 |
 | Breaking In The Horse | 10.00% | ~1 |
 | Power Of Friendship | 10.00% | ~1 |
-| Till Death Do We... | 10.00% | ~1 |
 | Be Cruel To Be Kind | 10.00% | ~1 |
 | An End To History | 10.00% | ~1 |
-| Eating A Dead Flower | 10.00% | ~1 |
 | For The Greater Good | 10.00% | ~1 |
 | I Am Vengeance | 10.00% | ~1 |
 | Sowing The Seeds of Destruction | 10.00% | ~1 |

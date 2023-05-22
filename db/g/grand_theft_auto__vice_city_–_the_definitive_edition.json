@@ -322,7 +322,7 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 6572,
+  "EOS_Progressed": 6574,
   "EOS_Completed": 22,
   "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 2,
@@ -1952,6 +1952,11 @@
       "Time": "2023-05-22T05:05:27.6352004+00:00",
       "NumProgressed": 6572,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-22T06:05:36.5013453+00:00",
+      "NumProgressed": 6574,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 34,
@@ -1979,7 +1984,7 @@
       "Name": "Iron-y",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ACH04",
@@ -2043,7 +2048,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "ACH12",
@@ -2067,7 +2072,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2563
+      "UsersEstimate": 2564
     },
     {
       "ID": "ACH15",
@@ -2123,7 +2128,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2826
+      "UsersEstimate": 2827
     },
     {
       "ID": "ACH22",
@@ -2131,7 +2136,7 @@
       "Name": "Life of the Party",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1117
+      "UsersEstimate": 1118
     },
     {
       "ID": "ACH23",
@@ -2145,9 +2150,9 @@
       "ID": "ACH24",
       "SetID": "9llo822",
       "Name": "Big Heat from Little Havana",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 789
+      "UsersEstimate": 855
     },
     {
       "ID": "ACH25",
@@ -2163,7 +2168,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "ACH27",
@@ -2234,7 +2239,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6572,
+      "Progressed": 6574,
       "Completed": 22
     }
   ],
@@ -2242,8 +2247,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-21T16:57:57.9549739+00:00",
-  "LastChanged_Achievements": "2023-05-22T05:05:27.6351995+00:00",
+  "LastChanged_Achievements": "2023-05-22T06:05:36.5013448+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:49.9519997+00:00",
-  "LastUpdate_Ratings": "2023-05-22T04:58:16.8214043+00:00",
-  "LastUpdate_Achievements": "2023-05-22T05:05:27.6352267+00:00"
+  "LastUpdate_Ratings": "2023-05-22T05:58:09.3108079+00:00",
+  "LastUpdate_Achievements": "2023-05-22T06:05:36.5013803+00:00"
 }

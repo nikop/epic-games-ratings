@@ -4,7 +4,7 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 162,
+  "EOS_Progressed": 163,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.23,
   "EosHistory": [
@@ -62,6 +62,11 @@
       "Time": "2023-05-21T11:00:59.3322878+00:00",
       "NumProgressed": 162,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-22T06:02:17.5557327+00:00",
+      "NumProgressed": 163,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 21,
@@ -81,7 +86,7 @@
       "Name": "Book \u0027em Danny",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "bullseye",
@@ -113,7 +118,7 @@
       "Name": "Hashtag Winning",
       "Percentage": 36,
       "XP": 90,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "heavy_rayne",
@@ -129,7 +134,7 @@
       "Name": "Highlander",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "look_mum_im_a_detective",
@@ -161,7 +166,7 @@
       "Name": "Play It Again Sam",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "play_me_by_the_hour",
@@ -169,7 +174,7 @@
       "Name": "Play Me By The Hour",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "poetent",
@@ -177,7 +182,7 @@
       "Name": "Poetent",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "put_a_ring_on_it",
@@ -201,7 +206,7 @@
       "Name": "Strong Silent Type",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "the_big_sleep",
@@ -209,7 +214,7 @@
       "Name": "The Big Sleep",
       "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "video_saved_the_radio_star",
@@ -231,16 +236,16 @@
       "ID": "you_had_one_job",
       "SetID": "2db2j74",
       "Name": "You Had One Job",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     }
   ],
   "AchievementSets": [
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 162,
+      "Progressed": 163,
       "Completed": 2
     }
   ],
@@ -248,8 +253,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-05-22T05:02:15.5498487+00:00",
+  "LastChanged_Achievements": "2023-05-22T06:02:17.5557323+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:20.2992909+00:00",
-  "LastUpdate_Ratings": "2023-05-22T04:58:39.294523+00:00",
-  "LastUpdate_Achievements": "2023-05-22T05:02:15.5498595+00:00"
+  "LastUpdate_Ratings": "2023-05-22T05:58:34.9716517+00:00",
+  "LastUpdate_Achievements": "2023-05-22T06:02:17.5557467+00:00"
 }

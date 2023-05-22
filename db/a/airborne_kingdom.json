@@ -2,12 +2,12 @@
   "ID": "e1809e1742cb498080d8849b11a99c5a",
   "Name": "Airborne Kingdom",
   "ProductSlug": "airborne-kingdom",
-  "Ranking_Rating": 294,
+  "Ranking_Rating": 293,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 96,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6405,
+  "EOS_Progressed": 6406,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -1048,6 +1048,11 @@
       "Time": "2023-05-22T05:05:33.84328+00:00",
       "NumProgressed": 6405,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-22T06:05:43.3774652+00:00",
+      "NumProgressed": 6406,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 27,
@@ -1067,7 +1072,7 @@
       "Name": "Daylight Found",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1602
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -1115,7 +1120,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1602
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -1123,7 +1128,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1602
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -1155,7 +1160,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1793
+      "UsersEstimate": 1794
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -1274,15 +1279,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6405,
+      "Progressed": 6406,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-05-22T05:05:33.8432794+00:00",
+  "LastChanged_Achievements": "2023-05-22T06:05:43.3774646+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:58.1571519+00:00",
-  "LastUpdate_Ratings": "2023-05-22T04:57:31.1892132+00:00",
-  "LastUpdate_Achievements": "2023-05-22T05:05:33.8432981+00:00"
+  "LastUpdate_Ratings": "2023-05-22T05:57:13.1880322+00:00",
+  "LastUpdate_Achievements": "2023-05-22T06:05:43.3774862+00:00"
 }

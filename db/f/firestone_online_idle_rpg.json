@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -82,7 +82,7 @@
   "Tags": [],
   "EOS_Progressed": 1135,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2229,9 +2229,9 @@
       "ID": "frostfireliberator",
       "SetID": "3nl4bcg",
       "Name": "Frostfire Liberator",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 57
     },
     {
       "ID": "fullparty",
@@ -2638,8 +2638,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-18T22:58:45.6795503+00:00",
-  "LastChanged_Achievements": "2023-05-22T05:05:39.5377664+00:00",
+  "LastChanged_Achievements": "2023-05-22T06:05:49.9981193+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:34.8363446+00:00",
-  "LastUpdate_Ratings": "2023-05-22T04:58:01.6343601+00:00",
-  "LastUpdate_Achievements": "2023-05-22T05:05:39.5378366+00:00"
+  "LastUpdate_Ratings": "2023-05-22T05:57:47.6798815+00:00",
+  "LastUpdate_Achievements": "2023-05-22T06:05:49.9982088+00:00"
 }

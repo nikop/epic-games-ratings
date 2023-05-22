@@ -13,13 +13,13 @@
 | Vibing | 61.00% | ~480 |
 | Fun Guy | 61.00% | ~480 |
 | Tragic Brave | 52.00% | ~409 |
+| Little Shop | 49.00% | ~386 |
 | Awakened Spirits | 49.00% | ~386 |
-| Little Shop | 48.00% | ~378 |
 | An Actor! | 44.00% | ~346 |
 | Surprise! | 43.00% | ~338 |
 | Curtain Call | 42.00% | ~331 |
+| Piece of Cake | 40.00% | ~315 |
 | Well Rested | 40.00% | ~315 |
-| Piece of Cake | 39.00% | ~307 |
 | Gooey Delight! | 39.00% | ~307 |
 | Glimmer of Hope | 39.00% | ~307 |
 | Teacups for Toppy | 39.00% | ~307 |

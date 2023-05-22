@@ -6,8 +6,8 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~18,608 |
-| Wallbanger | 5.00% | ~18,608 |
+| Point Shooting | 5.00% | ~18,609 |
+| Wallbanger | 5.00% | ~18,609 |
 | Exploitative | 4.00% | ~14,887 |
 | High Speed Low Drag | 4.00% | ~14,887 |
 | Wet Feet | 4.00% | ~14,887 |
@@ -15,11 +15,11 @@ Number of Ratings: 1,316  (23.09.2022)
 | Lucky | 3.00% | ~11,165 |
 | Stylin' | 3.00% | ~11,165 |
 | Turf War | 3.00% | ~11,165 |
-| Banged | 2.00% | ~7,443 |
-| First Blood | 2.00% | ~7,443 |
-| Flaccid Paralysis | 2.00% | ~7,443 |
-| Push Victory | 2.00% | ~7,443 |
-| Self-destructive | 2.00% | ~7,443 |
+| Banged | 2.00% | ~7,444 |
+| First Blood | 2.00% | ~7,444 |
+| Flaccid Paralysis | 2.00% | ~7,444 |
+| Push Victory | 2.00% | ~7,444 |
+| Self-destructive | 2.00% | ~7,444 |
 | Blindfire | 1.00% | ~3,722 |
 | Efficient | 1.00% | ~3,722 |
 | Ruthless | 1.00% | ~3,722 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~372 |
 | Road Hazard | 0.10% | ~372 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 372,167 (Ranked 35)  
+Progressed: 372,183 (Ranked 35)  
 Completed: 2 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,10 +74,10 @@ Completed: 2 (0.00%) (Ranked 201)
 | 2023-05-19 | 370,759 | 2 |
 | 2023-05-20 | 371,382 | 2 |
 | 2023-05-21 | 372,019 | 2 |
-| 2023-05-22 | 372,167 | 2 |
+| 2023-05-22 | 372,183 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 351  (Ranked 211)  
-Sum: 2,664 (Ranked 162)  
+Sum: 2,666 (Ranked 162)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -87,7 +87,7 @@ Diff (max vs sum): 49
 | This game has Competitive Players | 311 |
 | This game has Realistic Visuals | 286 |
 | This game has Amazing Storytelling | 285 |
-| This game is Highly Recommended | 283 |
+| This game is Highly Recommended | 285 |
 | This game has Amazing Characters | 278 |
 | This game has a Competitive Community | 235 |
 | This game has Obsessive Gameplay | 156 |
@@ -225,4 +225,4 @@ Diff (max vs sum): 49
 | 2023-05-19 | 4.62 | - | 351 | 2,659 |
 | 2023-05-20 | 4.62 | - | 351 | 2,661 |
 | 2023-05-21 | 4.61 | - | 351 | 2,663 |
-| 2023-05-22 | 4.61 | - | 351 | 2,664 |
+| 2023-05-22 | 4.61 | - | 351 | 2,666 |

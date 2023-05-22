@@ -31,9 +31,9 @@ Rating: 3.75 (Ranked 919)
 | Challenger | 6.00% | ~68 |
 | Daily Quest Completionist | 6.00% | ~68 |
 | The power of Awakening | 6.00% | ~68 |
+| Frostfire Liberator | 5.00% | ~57 |
 | Hunter | 5.00% | ~57 |
 | Scroll Master | 5.00% | ~57 |
-| Frostfire Liberator | 4.00% | ~45 |
 | Mastery | 4.00% | ~45 |
 | Moving Up The Ladder | 4.00% | ~45 |
 | The Expeditioner | 4.00% | ~45 |

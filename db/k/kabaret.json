@@ -243,9 +243,9 @@
       "ID": "3",
       "SetID": "37jn7be",
       "Name": "Goodbye Dear Friend",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "30",
@@ -331,9 +331,9 @@
       "ID": "4",
       "SetID": "37jn7be",
       "Name": "By My Own Hands",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "40",
@@ -403,9 +403,9 @@
       "ID": "48",
       "SetID": "37jn7be",
       "Name": "Till Death Do We...",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "49",
@@ -451,9 +451,9 @@
       "ID": "53",
       "SetID": "37jn7be",
       "Name": "Eating A Dead Flower",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "54",
@@ -555,9 +555,9 @@
       "ID": "65",
       "SetID": "37jn7be",
       "Name": "Let There Be Light",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "66",
@@ -612,8 +612,8 @@
   "FirstSeenRating": "2023-04-29T22:57:51.702813+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:15.0612299+00:00",
   "LastChanged": "2023-04-29T22:57:51.7028131+00:00",
-  "LastChanged_Achievements": "2023-05-22T05:05:25.755196+00:00",
+  "LastChanged_Achievements": "2023-05-22T06:05:34.8227991+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.1178962+00:00",
-  "LastUpdate_Ratings": "2023-05-22T04:58:03.536877+00:00",
-  "LastUpdate_Achievements": "2023-05-22T05:05:25.7552504+00:00"
+  "LastUpdate_Ratings": "2023-05-22T05:57:50.1463157+00:00",
+  "LastUpdate_Achievements": "2023-05-22T06:05:34.8228662+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "966985c3df584749946cdae64509bb85",
   "Name": "Indoor Kickball",
   "ProductSlug": "indoor-kickball-843529",
-  "Ranking_EOS_Progress": 387,
+  "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-05-26T00:00:00+00:00",
@@ -19,15 +19,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-05-17T14:05:39.8463576+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T06:05:39.6389873+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -38,7 +43,7 @@
       "ID": "1",
       "SetID": "39djiaj",
       "Name": "First Win",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -70,7 +75,7 @@
       "ID": "13",
       "SetID": "39djiaj",
       "Name": "Kickball Unlocked",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -110,7 +115,7 @@
       "ID": "18",
       "SetID": "39djiaj",
       "Name": "Bedroom Secret Spot",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -126,7 +131,7 @@
       "ID": "2",
       "SetID": "39djiaj",
       "Name": "Homer",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -262,7 +267,7 @@
       "ID": "35",
       "SetID": "39djiaj",
       "Name": "Butter Fingers",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -278,7 +283,7 @@
       "ID": "38",
       "SetID": "39djiaj",
       "Name": "Have a good trip!",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -359,13 +364,13 @@
     {
       "ID": "39djiaj",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-05-22T05:05:30.4417615+00:00",
+  "LastChanged_Achievements": "2023-05-22T06:05:39.638987+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:27.0012057+00:00",
-  "LastUpdate_Ratings": "2023-05-22T04:59:04.7460758+00:00",
-  "LastUpdate_Achievements": "2023-05-22T05:05:30.4417855+00:00"
+  "LastUpdate_Ratings": "2023-05-22T05:59:05.9913451+00:00",
+  "LastUpdate_Achievements": "2023-05-22T06:05:39.6390156+00:00"
 }

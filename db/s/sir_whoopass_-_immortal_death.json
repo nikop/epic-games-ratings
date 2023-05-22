@@ -4,7 +4,7 @@
   "ProductSlug": "sir-whoopass-757c5c",
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
@@ -206,17 +206,17 @@
       "ID": "BILLY_BOB_1",
       "SetID": "9gfkh7c",
       "Name": "You are no match for me, Billy!",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "BILLY_GOAT_1",
       "SetID": "9gfkh7c",
       "Name": "Meatballs, coming up!",
-      "Percentage": 26,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "CHEESE_1",
@@ -406,9 +406,9 @@
       "ID": "DODGE_2",
       "SetID": "9gfkh7c",
       "Name": "I\u0027m going to get a concussion",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "DODGE_3",
@@ -446,9 +446,9 @@
       "ID": "ENEMIES_1",
       "SetID": "9gfkh7c",
       "Name": "Butcher",
-      "Percentage": 36,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ENEMIES_2",
@@ -574,9 +574,9 @@
       "ID": "IMMORTAL_1",
       "SetID": "9gfkh7c",
       "Name": "Grumpy Immortal",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 190,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "IRS_1",
@@ -590,9 +590,9 @@
       "ID": "ITEM_1",
       "SetID": "9gfkh7c",
       "Name": "Ripe Meat Off The Bone!",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ITEM_2",
@@ -606,9 +606,9 @@
       "ID": "ITEM_3",
       "SetID": "9gfkh7c",
       "Name": "Surprise!!",
-      "Percentage": 29,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "JOLLY_1",
@@ -654,9 +654,9 @@
       "ID": "KNIGHT_1",
       "SetID": "9gfkh7c",
       "Name": "You can\u0027t stop me, bro!",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "LEVELUP_1",
@@ -814,9 +814,9 @@
       "ID": "WEAPON_1",
       "SetID": "9gfkh7c",
       "Name": "Cockadoodledoo!",
-      "Percentage": 33,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "WEAPON_2",
@@ -853,8 +853,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-05-22T05:05:31.4355426+00:00",
+  "LastChanged_Achievements": "2023-05-22T06:05:40.8077017+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:56:59.9162402+00:00",
-  "LastUpdate_Ratings": "2023-05-22T04:57:18.5799866+00:00",
-  "LastUpdate_Achievements": "2023-05-22T05:05:31.435611+00:00"
+  "LastUpdate_Ratings": "2023-05-22T05:56:55.8691756+00:00",
+  "LastUpdate_Achievements": "2023-05-22T06:05:40.8077948+00:00"
 }

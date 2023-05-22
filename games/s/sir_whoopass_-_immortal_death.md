@@ -20,30 +20,30 @@
 | Make Love not War-Craft a Mistlefoe | 52.00% | ~22 |
 | You're not going to blow me up! | 43.00% | ~18 |
 | Meat grinder | 43.00% | ~18 |
+| Butcher | 38.00% | ~16 |
 | Mushroom soup of the day | 38.00% | ~16 |
 | My pants squeak when I walk | 38.00% | ~16 |
 | Spare Ribs | 38.00% | ~16 |
-| Butcher | 36.00% | ~15 |
+| Cockadoodledoo! | 36.00% | ~15 |
 | Honk honk! | 33.00% | ~14 |
 | Self assessed tax return | 33.00% | ~14 |
+| Surprise!! | 33.00% | ~14 |
 | Thats disgusting! | 33.00% | ~14 |
-| Cockadoodledoo! | 33.00% | ~14 |
 | Haemochromatosis | 31.00% | ~13 |
+| Meatballs, coming up! | 29.00% | ~12 |
 | Make America Grate Again | 29.00% | ~12 |
-| Surprise!! | 29.00% | ~12 |
-| Meatballs, coming up! | 26.00% | ~11 |
+| You are no match for me, Billy! | 26.00% | ~11 |
 | Karaoke king | 26.00% | ~11 |
 | Pasta Bolognese | 26.00% | ~11 |
-| You are no match for me, Billy! | 24.00% | ~10 |
 | Catch the bus with me! | 24.00% | ~10 |
-| You can't stop me, bro! | 21.00% | ~9 |
+| You can't stop me, bro! | 24.00% | ~10 |
 | Another one bites the iron | 19.00% | ~8 |
+| I'm going to get a concussion | 17.00% | ~7 |
 | A Megapint...? | 17.00% | ~7 |
 | Hovering around | 17.00% | ~7 |
-| I'm going to get a concussion | 14.00% | ~6 |
 | Just wing it! | 14.00% | ~6 |
+| Ripe Meat Off The Bone! | 12.00% | ~5 |
 | I drink, but I'm not a drunk! | 10.00% | ~4 |
-| Ripe Meat Off The Bone! | 10.00% | ~4 |
 | Slimy... yet satisfying | 10.00% | ~4 |
 | Yeehaw!!! | 7.00% | ~3 |
 | Kleptomaniac | 7.00% | ~3 |
@@ -62,6 +62,7 @@
 | Timber! | 2.00% | ~1 |
 | Deal with it | 2.00% | ~1 |
 | Consider it dealt with | 2.00% | ~1 |
+| Grumpy Immortal | 2.00% | ~1 |
 | European karaoke king | 2.00% | ~1 |
 | I cant stand still! | 2.00% | ~1 |
 | Free Of Chains | 2.00% | ~1 |
@@ -80,7 +81,6 @@
 | I'm getting full... | 0.00% | ~0 |
 | Bloody Knuckles | 0.00% | ~0 |
 | No...No...No...that was not meant for you...yet! | 0.00% | ~0 |
-| Grumpy Immortal | 0.00% | ~0 |
 | Scrambled Eggs | 0.00% | ~0 |
 | I've got the power | 0.00% | ~0 |
 | Catch me if you can | 0.00% | ~0 |

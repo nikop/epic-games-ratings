@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Win | 200.00% | ~2 |
-| Kickball Unlocked | 100.00% | ~1 |
-| Bedroom Secret Spot | 100.00% | ~1 |
-| Homer | 100.00% | ~1 |
-| Butter Fingers | 100.00% | ~1 |
-| Have a good trip! | 100.00% | ~1 |
+| First Win | 100.00% | ~2 |
+| Kickball Unlocked | 50.00% | ~1 |
+| Bedroom Secret Spot | 50.00% | ~1 |
+| Homer | 50.00% | ~1 |
+| Butter Fingers | 50.00% | ~1 |
+| Have a good trip! | 50.00% | ~1 |
 | Character Unlocked | 0.00% | ~0 |
 | Hat Unlocked | 0.00% | ~0 |
 | Accessory Unlocked | 0.00% | ~0 |
@@ -45,9 +45,10 @@
 | Stay Hydrated | 0.00% | ~0 |
 | Just how we drew it up | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 387)  
+Progressed: 2 (Ranked 369)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-17 | 1 | 0 |
+| 2023-05-22 | 2 | 0 |

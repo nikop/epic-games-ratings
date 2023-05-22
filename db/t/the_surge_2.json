@@ -225,9 +225,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1584,
+  "EOS_Progressed": 1585,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -460,6 +460,11 @@
       "Time": "2023-05-21T19:07:13.8597937+00:00",
       "NumProgressed": 1584,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-22T06:06:12.2906527+00:00",
+      "NumProgressed": 1585,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -479,7 +484,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "ACHV_03",
@@ -495,15 +500,15 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "ACHV_05",
       "SetID": "8p5mlmc",
       "Name": "Studied The Blade",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 380
+      "UsersEstimate": 396
     },
     {
       "ID": "ACHV_06",
@@ -511,7 +516,7 @@
       "Name": "Home Invasion",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "ACHV_07",
@@ -671,7 +676,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1268
     },
     {
       "ID": "ACHV_27",
@@ -679,7 +684,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "ACHV_28",
@@ -743,7 +748,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "ACHV_36",
@@ -751,7 +756,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACHV_37",
@@ -759,7 +764,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "ACHV_38",
@@ -823,7 +828,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "ACHV_46",
@@ -926,7 +931,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1584,
+      "Progressed": 1585,
       "Completed": 10
     }
   ],
@@ -934,8 +939,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-05-22T05:05:58.5368359+00:00",
+  "LastChanged_Achievements": "2023-05-22T06:06:12.2906521+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:42.7008662+00:00",
-  "LastUpdate_Ratings": "2023-05-22T05:00:15.0635302+00:00",
-  "LastUpdate_Achievements": "2023-05-22T05:05:58.5368783+00:00"
+  "LastUpdate_Ratings": "2023-05-22T06:00:28.9517981+00:00",
+  "LastUpdate_Achievements": "2023-05-22T06:06:12.2907066+00:00"
 }

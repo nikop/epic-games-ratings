@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -539,9 +539,9 @@
       "ID": "DEFEAT_WHISPERERS",
       "SetID": "ccc0dlh",
       "Name": "Silenced Whispers",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 55
+      "UsersEstimate": 61
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -603,9 +603,9 @@
       "ID": "MISC_PULLANENEMY",
       "SetID": "ccc0dlh",
       "Name": "Yank",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 61
     },
     {
       "ID": "MISC_REACHHIGHLEVEL",
@@ -697,8 +697,8 @@
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-05-18T00:00:29.519029+00:00",
-  "LastChanged_Achievements": "2023-05-22T05:05:55.3108777+00:00",
+  "LastChanged_Achievements": "2023-05-22T06:06:08.8591018+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:40.5662436+00:00",
-  "LastUpdate_Ratings": "2023-05-22T05:00:14.0307662+00:00",
-  "LastUpdate_Achievements": "2023-05-22T05:05:55.3109028+00:00"
+  "LastUpdate_Ratings": "2023-05-22T06:00:27.7453942+00:00",
+  "LastUpdate_Achievements": "2023-05-22T06:06:08.8591371+00:00"
 }

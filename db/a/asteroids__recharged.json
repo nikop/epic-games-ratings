@@ -2,9 +2,9 @@
   "ID": "16c882e1ebdc4212b75b9d59c30b08f0",
   "Name": "Asteroids: Recharged",
   "ProductSlug": "asteroids-recharged",
-  "Ranking_EOS_Progress": 282,
-  "Ranking_EOS_Completed": 70,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_Progress": 281,
+  "Ranking_EOS_Completed": 71,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2021-12-14T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64,
+  "EOS_Progressed": 65,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.56,
+  "EOS_Completed_Percentage": 1.54,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:37.0797761+00:00",
@@ -55,6 +55,11 @@
     {
       "Time": "2023-05-20T12:05:46.614051+00:00",
       "NumProgressed": 64,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-22T06:05:38.6737449+00:00",
+      "NumProgressed": 65,
       "NumCompleted": 1
     }
   ],
@@ -99,7 +104,7 @@
       "Name": "Keep Yourself Alive",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_KILLER_QUEEN",
@@ -129,7 +134,7 @@
       "ID": "ACH_NOW_IM_HERE",
       "SetID": "ca3jj1k",
       "Name": "Now I\u0027m Here",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 50,
       "UsersEstimate": 45
     },
@@ -153,9 +158,9 @@
       "ID": "ACH_THE_HERO",
       "SetID": "ca3jj1k",
       "Name": "The Hero",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_THE_HITMAN",
@@ -163,13 +168,13 @@
       "Name": "The Hitman",
       "Percentage": 58,
       "XP": 75,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_THE_INVISIBLE",
       "SetID": "ca3jj1k",
       "Name": "The Invisible Man",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 100,
       "UsersEstimate": 23
     },
@@ -177,7 +182,7 @@
       "ID": "ACH_THE_MIRACLE",
       "SetID": "ca3jj1k",
       "Name": "The Miracle",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 20,
       "UsersEstimate": 26
     },
@@ -194,7 +199,7 @@
     {
       "ID": "ca3jj1k",
       "IsBase": true,
-      "Progressed": 64,
+      "Progressed": 65,
       "Completed": 1
     }
   ],
@@ -202,8 +207,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2023-05-22T05:05:29.5997206+00:00",
+  "LastChanged_Achievements": "2023-05-22T06:05:38.6737444+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:26.7208899+00:00",
-  "LastUpdate_Ratings": "2023-05-22T04:58:43.5178674+00:00",
-  "LastUpdate_Achievements": "2023-05-22T05:05:29.5997313+00:00"
+  "LastUpdate_Ratings": "2023-05-22T05:58:40.2273703+00:00",
+  "LastUpdate_Achievements": "2023-05-22T06:05:38.6737579+00:00"
 }

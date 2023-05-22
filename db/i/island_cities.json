@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 136,
+  "EOS_Progressed": 137,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 16.91,
+  "EOS_Completed_Percentage": 16.79,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -603,6 +603,11 @@
       "Time": "2023-05-21T22:05:40.3146589+00:00",
       "NumProgressed": 136,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-22T06:05:32.3061799+00:00",
+      "NumProgressed": 137,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 22,
@@ -614,7 +619,7 @@
       "Name": "Welcome!",
       "Percentage": 99,
       "XP": 35,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "LEVEL_002",
@@ -622,7 +627,7 @@
       "Name": "A tiny town",
       "Percentage": 83,
       "XP": 35,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "LEVEL_003",
@@ -638,7 +643,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 54,
       "XP": 35,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "LEVEL_005",
@@ -668,9 +673,9 @@
       "ID": "LEVEL_008",
       "SetID": "3khpmem",
       "Name": "Passion for sports",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "LEVEL_009",
@@ -702,7 +707,7 @@
       "Name": "Calm neighborhood",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "LEVEL_013",
@@ -718,31 +723,31 @@
       "Name": "Not lonely anymore",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "LEVEL_015",
       "SetID": "3khpmem",
       "Name": "Monumental tribute",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "LEVEL_016",
       "SetID": "3khpmem",
       "Name": "The beach is right there",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "LEVEL_017",
       "SetID": "3khpmem",
       "Name": "Commuting",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 27
     },
     {
       "ID": "LEVEL_018",
@@ -750,7 +755,7 @@
       "Name": "Le jardin magnifique",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "LEVEL_019",
@@ -789,7 +794,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 136,
+      "Progressed": 137,
       "Completed": 23
     }
   ],
@@ -797,8 +802,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-22T05:05:23.4189755+00:00",
+  "LastChanged_Achievements": "2023-05-22T06:05:32.3061795+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:36.8517809+00:00",
-  "LastUpdate_Ratings": "2023-05-22T04:58:03.3141479+00:00",
-  "LastUpdate_Achievements": "2023-05-22T05:05:23.4189919+00:00"
+  "LastUpdate_Ratings": "2023-05-22T05:57:49.7516236+00:00",
+  "LastUpdate_Achievements": "2023-05-22T06:05:32.3062007+00:00"
 }
