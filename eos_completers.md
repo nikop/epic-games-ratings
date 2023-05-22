@@ -18,17 +18,17 @@
 | 16 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.12% |
 | 18 | [Time Loader](games/t/time_loader.md) | 8.08% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.86% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.76% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.84% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.75% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
 | 22 | [Scorn](games/s/scorn.md) | 6.95% |
 | 23 | [Ravenlok](games/r/ravenlok.md) | 6.74% |
-| 24 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.67% |
-| 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
+| 24 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
+| 24 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.45% |
 | 26 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
-| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.51% |
-| 29 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.47% |
+| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.47% |
+| 28 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.47% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.90% |
 | 31 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.88% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
@@ -104,9 +104,9 @@
 | 102 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.65% |
 | 103 | [The Surge 2](games/t/the_surge_2.md) | 0.63% |
 | 104 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.59% |
-| 105 | [Ghostrunner](games/g/ghostrunner.md) | 0.51% |
 | 105 | [Grindstone](games/g/grindstone.md) | 0.51% |
-| 107 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.50% |
+| 106 | [Ghostrunner](games/g/ghostrunner.md) | 0.50% |
+| 106 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.50% |
 | 108 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.48% |
 | 109 | [Aragami 2](games/a/aragami_2.md) | 0.47% |
 | 110 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
@@ -143,17 +143,17 @@
 | 139 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.21% |
 | 142 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
 | 143 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.18% |
-| 143 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.18% |
-| 145 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.17% |
+| 144 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.17% |
+| 144 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.17% |
 | 146 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 146 | [RAILGRADE](games/r/railgrade.md) | 0.16% |
 | 146 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.16% |
 | 149 | [Gotham Knights](games/g/gotham_knights.md) | 0.15% |
 | 149 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
+| 151 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.14% |
 | 151 | [Isonzo](games/i/isonzo.md) | 0.14% |
 | 151 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
-| 153 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.13% |
-| 153 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.13% |
+| 154 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.13% |
 | 155 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 156 | [Partisans 1941](games/p/partisans_1941.md) | 0.11% |
 | 156 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
