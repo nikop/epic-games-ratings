@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 20,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -2364,9 +2364,9 @@
       "Count": 1029
     }
   ],
-  "EOS_Progressed": 32892,
+  "EOS_Progressed": 32907,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 5044,
+  "EOS_NewPlayers": 5049,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5464,6 +5464,11 @@
       "Time": "2023-05-22T04:01:10.7365+00:00",
       "NumProgressed": 32892,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-05-22T05:00:25.2384011+00:00",
+      "NumProgressed": 32907,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 53,
@@ -5545,9 +5550,9 @@
       "ID": "complete_all_side_hustles",
       "SetID": "3ib2d0i",
       "Name": "Always Be Hustling",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 132
+      "UsersEstimate": 165
     },
     {
       "ID": "complete_challenge_packs",
@@ -5587,7 +5592,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 3618
+      "UsersEstimate": 3620
     },
     {
       "ID": "customize_a_vehicle",
@@ -5603,7 +5608,7 @@
       "Name": "Optimized",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2302
+      "UsersEstimate": 2303
     },
     {
       "ID": "cutting_edge_materials",
@@ -5689,9 +5694,9 @@
       "ID": "fully_complete_a_building",
       "SetID": "3ib2d0i",
       "Name": "Work Ethic",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 987
+      "UsersEstimate": 1316
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -5723,7 +5728,7 @@
       "Name": "Performance Review",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2302
+      "UsersEstimate": 2303
     },
     {
       "ID": "hit_max_level",
@@ -5753,9 +5758,9 @@
       "ID": "kill_enemy_with_tetherd_object",
       "SetID": "3ib2d0i",
       "Name": "Wrecking Ball",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1645
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -5859,7 +5864,7 @@
       "Name": "To The Nines",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2960
+      "UsersEstimate": 2962
     },
     {
       "ID": "whole_map_purple",
@@ -5898,22 +5903,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 32892,
+      "Progressed": 32907,
       "Completed": 20
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 4529,
-      "Completed": 673
+      "Progressed": 4544,
+      "Completed": 675
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-05-21T15:59:13.5972334+00:00",
-  "LastChanged_Achievements": "2023-05-22T04:01:10.7364993+00:00",
+  "LastChanged_Achievements": "2023-05-22T05:00:25.2384007+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:12.3332393+00:00",
-  "LastUpdate_Ratings": "2023-05-22T03:59:55.3435349+00:00",
-  "LastUpdate_Achievements": "2023-05-22T04:01:10.7365707+00:00"
+  "LastUpdate_Ratings": "2023-05-22T04:59:25.9232326+00:00",
+  "LastUpdate_Achievements": "2023-05-22T05:00:25.2384556+00:00"
 }

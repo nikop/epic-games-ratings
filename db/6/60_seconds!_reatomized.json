@@ -914,9 +914,9 @@
       "ID": "ACH_BE_PREPARED",
       "SetID": "5nj1ea3",
       "Name": "Be Prepared",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1417
     },
     {
       "ID": "ACH_BLUE_HARVEST",
@@ -1347,8 +1347,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-05-15T11:00:28.5619005+00:00",
-  "LastChanged_Achievements": "2023-05-22T04:06:19.4282095+00:00",
+  "LastChanged_Achievements": "2023-05-22T05:05:58.1416574+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:27.3855463+00:00",
-  "LastUpdate_Ratings": "2023-05-22T04:00:48.7450035+00:00",
-  "LastUpdate_Achievements": "2023-05-22T04:06:19.428277+00:00"
+  "LastUpdate_Ratings": "2023-05-22T05:00:07.9450845+00:00",
+  "LastUpdate_Achievements": "2023-05-22T05:05:58.1417044+00:00"
 }

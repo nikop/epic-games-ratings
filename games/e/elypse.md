@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A path of no return | 103.00% | ~33 |
-| Pigeon | 84.00% | ~27 |
-| A bottomless pit | 84.00% | ~27 |
-| Baited | 75.00% | ~24 |
-| Splash! | 69.00% | ~22 |
-| "Swoosh" | 63.00% | ~20 |
-| The light at the end of the tunnel | 63.00% | ~20 |
-| Masochistic | 53.00% | ~17 |
-| Soft skin | 50.00% | ~16 |
-| Sensitive soul | 41.00% | ~13 |
-| Squid game | 31.00% | ~10 |
-| Hard Rock | 31.00% | ~10 |
-| Rock Solid | 25.00% | ~8 |
-| The beast within | 25.00% | ~8 |
-| It's getting dark | 25.00% | ~8 |
-| Rooftop | 19.00% | ~6 |
-| Homeless | 19.00% | ~6 |
-| Big badaboom! | 16.00% | ~5 |
-| Nokron tower | 13.00% | ~4 |
-| MayDay! MayDay! | 13.00% | ~4 |
-| Magnitude 5 | 13.00% | ~4 |
-| Bookworm | 13.00% | ~4 |
-| Payback | 13.00% | ~4 |
+| A path of no return | 103.00% | ~34 |
+| Pigeon | 82.00% | ~27 |
+| A bottomless pit | 82.00% | ~27 |
+| Baited | 73.00% | ~24 |
+| Splash! | 67.00% | ~22 |
+| "Swoosh" | 61.00% | ~20 |
+| The light at the end of the tunnel | 61.00% | ~20 |
+| Masochistic | 52.00% | ~17 |
+| Soft skin | 48.00% | ~16 |
+| Sensitive soul | 39.00% | ~13 |
+| Squid game | 30.00% | ~10 |
+| Hard Rock | 30.00% | ~10 |
+| Rock Solid | 24.00% | ~8 |
+| The beast within | 24.00% | ~8 |
+| It's getting dark | 24.00% | ~8 |
+| Rooftop | 18.00% | ~6 |
+| Homeless | 18.00% | ~6 |
+| Big badaboom! | 15.00% | ~5 |
+| Nokron tower | 12.00% | ~4 |
+| MayDay! MayDay! | 12.00% | ~4 |
+| Magnitude 5 | 12.00% | ~4 |
+| Bookworm | 12.00% | ~4 |
+| Payback | 12.00% | ~4 |
 | Full power | 9.00% | ~3 |
 | "Ah sh*t... Here we go again!" | 9.00% | ~3 |
 | Compulsive hoarder | 9.00% | ~3 |
@@ -39,7 +39,7 @@
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32 (Ranked 300)  
+Progressed: 33 (Ranked 297)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -49,3 +49,4 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-19 | 22 | 0 |
 | 2023-05-20 | 30 | 0 |
 | 2023-05-21 | 32 | 0 |
+| 2023-05-22 | 33 | 0 |

@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 787,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 6.73,
   "EosHistory": [
@@ -1604,9 +1604,9 @@
       "ID": "15",
       "SetID": "d0g98p",
       "Name": "Pull the Plug",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 228
+      "UsersEstimate": 236
     },
     {
       "ID": "16",
@@ -1668,25 +1668,25 @@
       "ID": "22",
       "SetID": "d0g98p",
       "Name": "Heartbreaker",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 244
+      "UsersEstimate": 252
     },
     {
       "ID": "23",
       "SetID": "d0g98p",
       "Name": "All Heart",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 228
+      "UsersEstimate": 236
     },
     {
       "ID": "24",
       "SetID": "d0g98p",
       "Name": "Kidnapped!",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 252
     },
     {
       "ID": "25",
@@ -1780,9 +1780,9 @@
       "ID": "35",
       "SetID": "d0g98p",
       "Name": "Teacups for Toppy",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 299
+      "UsersEstimate": 307
     },
     {
       "ID": "36",
@@ -1908,9 +1908,9 @@
       "ID": "5",
       "SetID": "d0g98p",
       "Name": "Well Rested",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 307
+      "UsersEstimate": 315
     },
     {
       "ID": "50",
@@ -1965,8 +1965,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-22T04:05:37.7682909+00:00",
+  "LastChanged_Achievements": "2023-05-22T05:05:23.0835375+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:59.9943101+00:00",
-  "LastUpdate_Ratings": "2023-05-22T03:57:26.7179754+00:00",
-  "LastUpdate_Achievements": "2023-05-22T04:05:37.7683432+00:00"
+  "LastUpdate_Ratings": "2023-05-22T04:57:32.7843903+00:00",
+  "LastUpdate_Achievements": "2023-05-22T05:05:23.0835777+00:00"
 }

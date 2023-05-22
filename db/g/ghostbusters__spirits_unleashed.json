@@ -2,7 +2,7 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 557,
+  "Ranking_Rating": 558,
   "Ranking_Popularity": 246,
   "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 90,
@@ -1050,9 +1050,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 22110,
+  "EOS_Progressed": 22111,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 304,
+  "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3340,6 +3340,11 @@
       "Time": "2023-05-22T04:06:02.9894737+00:00",
       "NumProgressed": 22110,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-05-22T05:05:44.5187925+00:00",
+      "NumProgressed": 22111,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -3351,7 +3356,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 16140
+      "UsersEstimate": 16141
     },
     {
       "ID": "Animated",
@@ -3391,7 +3396,7 @@
       "Name": "Clutch Capture",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 9065
+      "UsersEstimate": 9066
     },
     {
       "ID": "Collect_Spores",
@@ -3399,7 +3404,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 11497
+      "UsersEstimate": 11498
     },
     {
       "ID": "Collector",
@@ -3407,7 +3412,7 @@
       "Name": "Collector",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5306
+      "UsersEstimate": 5307
     },
     {
       "ID": "Cultured",
@@ -3415,7 +3420,7 @@
       "Name": "Cultured",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 11718
+      "UsersEstimate": 11719
     },
     {
       "ID": "Daily_Dose",
@@ -3423,7 +3428,7 @@
       "Name": "Daily Dose",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 7738
+      "UsersEstimate": 7739
     },
     {
       "ID": "Diabolical",
@@ -3439,7 +3444,7 @@
       "Name": "Discovery",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 13708
+      "UsersEstimate": 13709
     },
     {
       "ID": "Dont_Need_These",
@@ -3455,7 +3460,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5306
+      "UsersEstimate": 5307
     },
     {
       "ID": "Efficient",
@@ -3463,7 +3468,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 14150
+      "UsersEstimate": 14151
     },
     {
       "ID": "Escape_Artist",
@@ -3639,7 +3644,7 @@
       "Name": "Solo Capture",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 7075
+      "UsersEstimate": 7076
     },
     {
       "ID": "Stunner",
@@ -3711,7 +3716,7 @@
       "Name": "There you are!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 9728
+      "UsersEstimate": 9729
     },
     {
       "ID": "Tobins_Prodigy",
@@ -3743,7 +3748,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 7296
+      "UsersEstimate": 7297
     },
     {
       "ID": "Whoopsie",
@@ -3758,7 +3763,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 22110,
+      "Progressed": 22111,
       "Completed": 40
     }
   ],
@@ -3766,8 +3771,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-05-21T04:58:44.2883808+00:00",
-  "LastChanged_Achievements": "2023-05-22T04:06:02.9894729+00:00",
+  "LastChanged_Achievements": "2023-05-22T05:05:44.518792+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:13.3107598+00:00",
-  "LastUpdate_Ratings": "2023-05-22T03:59:08.2994403+00:00",
-  "LastUpdate_Achievements": "2023-05-22T04:06:02.9895304+00:00"
+  "LastUpdate_Ratings": "2023-05-22T04:58:51.1131514+00:00",
+  "LastUpdate_Achievements": "2023-05-22T05:05:44.518838+00:00"
 }

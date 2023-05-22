@@ -823,9 +823,9 @@
       "ID": "Miner",
       "SetID": "85nb4h3",
       "Name": "Bomberman",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 165
     },
     {
       "ID": "MoskitoBite",
@@ -887,8 +887,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-05-22T04:06:04.8616978+00:00",
+  "LastChanged_Achievements": "2023-05-22T05:05:45.9111307+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:35.4826245+00:00",
-  "LastUpdate_Ratings": "2023-05-22T03:59:33.0711036+00:00",
-  "LastUpdate_Achievements": "2023-05-22T04:06:04.8617293+00:00"
+  "LastUpdate_Ratings": "2023-05-22T04:59:09.556103+00:00",
+  "LastUpdate_Achievements": "2023-05-22T05:05:45.9111491+00:00"
 }

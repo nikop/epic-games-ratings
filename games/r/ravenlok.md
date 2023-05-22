@@ -18,11 +18,11 @@
 | An Actor! | 44.00% | ~346 |
 | Surprise! | 43.00% | ~338 |
 | Curtain Call | 42.00% | ~331 |
+| Well Rested | 40.00% | ~315 |
 | Piece of Cake | 39.00% | ~307 |
 | Gooey Delight! | 39.00% | ~307 |
 | Glimmer of Hope | 39.00% | ~307 |
-| Well Rested | 39.00% | ~307 |
-| Teacups for Toppy | 38.00% | ~299 |
+| Teacups for Toppy | 39.00% | ~307 |
 | Nightmare Fuel | 37.00% | ~291 |
 | Take Heart | 37.00% | ~291 |
 | The Guardian | 37.00% | ~291 |
@@ -36,13 +36,13 @@
 | Extinct Again! | 32.00% | ~252 |
 | Bird of Prey | 32.00% | ~252 |
 | Stardust | 32.00% | ~252 |
-| Heartbreaker | 31.00% | ~244 |
-| Kidnapped! | 31.00% | ~244 |
+| Heartbreaker | 32.00% | ~252 |
+| Kidnapped! | 32.00% | ~252 |
+| Pull the Plug | 30.00% | ~236 |
+| All Heart | 30.00% | ~236 |
 | Trick Question! | 30.00% | ~236 |
-| Pull the Plug | 29.00% | ~228 |
 | Soul Slayer | 29.00% | ~228 |
 | The Downfall | 29.00% | ~228 |
-| All Heart | 29.00% | ~228 |
 | Extraordinary! | 29.00% | ~228 |
 | Final Showdown | 29.00% | ~228 |
 | Spot of Tea? | 29.00% | ~228 |

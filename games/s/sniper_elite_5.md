@@ -6,26 +6,26 @@ Rating: 4.40 (Ranked 674)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 12.00% | ~138 |
-| Confirming Suspicions | 7.00% | ~80 |
+| Confirming Suspicions | 7.00% | ~81 |
 | The Kraken Wakes | 4.00% | ~46 |
-| Enemy at the Gates | 3.00% | ~34 |
-| Lord of War | 3.00% | ~34 |
-| Resourceful | 3.00% | ~34 |
-| It's Starting to Crack | 3.00% | ~34 |
+| Enemy at the Gates | 3.00% | ~35 |
+| Lord of War | 3.00% | ~35 |
+| Resourceful | 3.00% | ~35 |
+| It's Starting to Crack | 3.00% | ~35 |
 | Just a Flesh Wound | 2.00% | ~23 |
 | Organ Grinder | 2.00% | ~23 |
 | Explosive Efficiency | 2.00% | ~23 |
 | As Quiet as a Mouse | 2.00% | ~23 |
 | Change the Channel | 2.00% | ~23 |
-| Opposing Force | 1.00% | ~11 |
-| Die Nussknacker Sweet! | 1.00% | ~11 |
-| Close Quarters | 1.00% | ~11 |
-| Taking it back | 1.00% | ~11 |
-| Target America | 1.00% | ~11 |
-| The Kraken Sleeps | 1.00% | ~11 |
-| Gunslinger | 0.90% | ~10 |
+| Opposing Force | 1.00% | ~12 |
+| Gunslinger | 1.00% | ~12 |
+| Die Nussknacker Sweet! | 1.00% | ~12 |
+| Close Quarters | 1.00% | ~12 |
+| Snake in the Grass | 1.00% | ~12 |
+| Taking it back | 1.00% | ~12 |
+| Target America | 1.00% | ~12 |
+| The Kraken Sleeps | 1.00% | ~12 |
 | Precision Is Key | 0.90% | ~10 |
-| Snake in the Grass | 0.90% | ~10 |
 | Liberté | 0.80% | ~9 |
 | Sharpshooter | 0.80% | ~9 |
 | The Long Game | 0.80% | ~9 |
@@ -77,7 +77,7 @@ Rating: 4.40 (Ranked 674)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,148 (Ranked 160)  
+Progressed: 1,151 (Ranked 160)  
 Completed: 2 (0.17%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 2 (0.17%) (Ranked 144)
 | 2023-05-19 | 833 | 2 |
 | 2023-05-20 | 984 | 2 |
 | 2023-05-21 | 1,126 | 2 |
-| 2023-05-22 | 1,148 | 2 |
+| 2023-05-22 | 1,151 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

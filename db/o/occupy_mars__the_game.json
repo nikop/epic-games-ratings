@@ -657,9 +657,9 @@
       "ID": "NEW_ACHIEVEMENT_DETECTIVE",
       "SetID": "l546gc",
       "Name": "Detective",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 61
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -841,9 +841,9 @@
       "ID": "NEW_ACHIEVEMENT_SPACE_FOREST",
       "SetID": "l546gc",
       "Name": "Space Forest",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 15
     },
     {
       "ID": "NEW_ACHIEVEMENT_SPOTTY_FRIEND",
@@ -898,8 +898,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-05-20T21:57:18.8563123+00:00",
-  "LastChanged_Achievements": "2023-05-22T04:03:28.3327905+00:00",
+  "LastChanged_Achievements": "2023-05-22T05:03:32.3672491+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:55.9692167+00:00",
-  "LastUpdate_Ratings": "2023-05-22T03:57:22.8370089+00:00",
-  "LastUpdate_Achievements": "2023-05-22T04:03:28.3328653+00:00"
+  "LastUpdate_Ratings": "2023-05-22T04:57:29.7644422+00:00",
+  "LastUpdate_Achievements": "2023-05-22T05:03:32.3672834+00:00"
 }

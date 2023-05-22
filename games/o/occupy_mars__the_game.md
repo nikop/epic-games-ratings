@@ -15,13 +15,13 @@ Rating: 3.72 (Ranked 922)
 | Occupy Mars! | 14.00% | ~107 |
 | Miner | 13.00% | ~100 |
 | Gardener | 11.00% | ~84 |
-| Detective | 7.00% | ~54 |
+| Detective | 8.00% | ~61 |
 | Get your hands dirty | 5.00% | ~38 |
 | The Collector | 4.00% | ~31 |
 | All Wheel Trouble | 4.00% | ~31 |
 | ITS crash site | 2.00% | ~15 |
+| Space Forest | 2.00% | ~15 |
 | “Aliens” | 1.00% | ~8 |
-| Space Forest | 1.00% | ~8 |
 | DeDust | 0.70% | ~5 |
 | Caveman | 0.40% | ~3 |
 | Plumber | 0.40% | ~3 |

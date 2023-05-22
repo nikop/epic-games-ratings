@@ -15,10 +15,10 @@ Number of Ratings: 177  (23.09.2022)
 | The Brahdyssey | 0.50% | ~25 |
 | Drunk and Disorderly: Stephanie | 0.50% | ~25 |
 | Caught in the Act | 0.40% | ~20 |
+| IRL Let's Player | 0.30% | ~15 |
 | Amy | 0.20% | ~10 |
 | I'll Be Back | 0.20% | ~10 |
 | Drunk and Disorderly: Ashley | 0.20% | ~10 |
-| IRL Let's Player | 0.20% | ~10 |
 | Inspector | 0.20% | ~10 |
 | Newcomer: Vickie | 0.20% | ~10 |
 | Smooth Operator: Ashley | 0.20% | ~10 |

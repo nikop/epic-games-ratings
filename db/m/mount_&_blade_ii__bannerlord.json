@@ -4197,9 +4197,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 50584,
+  "EOS_Progressed": 50585,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 710,
+  "EOS_NewPlayers": 708,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7152,6 +7152,11 @@
       "Time": "2023-05-22T04:06:17.2911888+00:00",
       "NumProgressed": 50584,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T05:05:56.2122668+00:00",
+      "NumProgressed": 50585,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -7387,7 +7392,7 @@
       "Name": "Landlord",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 15175
+      "UsersEstimate": 15176
     },
     {
       "ID": "Lawbringer",
@@ -7395,7 +7400,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 17704
+      "UsersEstimate": 17705
     },
     {
       "ID": "Lawmaker",
@@ -7515,7 +7520,7 @@
       "Name": "The king is pleased",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 8093
+      "UsersEstimate": 8094
     },
     {
       "ID": "This Is Our Land",
@@ -7570,15 +7575,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 50584,
+      "Progressed": 50585,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-05-22T02:05:35.2599751+00:00",
-  "LastChanged_Achievements": "2023-05-22T04:06:17.2911879+00:00",
+  "LastChanged_Achievements": "2023-05-22T05:05:56.2122659+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:05:00.2672545+00:00",
-  "LastUpdate_Ratings": "2023-05-22T04:00:04.6392487+00:00",
-  "LastUpdate_Achievements": "2023-05-22T04:06:17.2912517+00:00"
+  "LastUpdate_Ratings": "2023-05-22T04:59:32.1415403+00:00",
+  "LastUpdate_Achievements": "2023-05-22T05:05:56.2123147+00:00"
 }

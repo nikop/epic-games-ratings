@@ -6,21 +6,21 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 11.00% | ~3,618 |
-| To The Nines | 9.00% | ~2,960 |
-| Optimized | 7.00% | ~2,302 |
-| Performance Review | 7.00% | ~2,302 |
+| First F#@!ing Day | 11.00% | ~3,620 |
+| To The Nines | 9.00% | ~2,962 |
+| Optimized | 7.00% | ~2,303 |
+| Performance Review | 7.00% | ~2,303 |
 | The Side Job | 6.00% | ~1,974 |
 | Wet Work | 6.00% | ~1,974 |
 | Tune Up | 6.00% | ~1,974 |
 | Making a Name | 6.00% | ~1,974 |
 | Landlord | 5.00% | ~1,645 |
+| Wrecking Ball | 5.00% | ~1,645 |
 | Food for Thought | 5.00% | ~1,645 |
 | Finders Keepers | 4.00% | ~1,316 |
 | A Young Empire | 4.00% | ~1,316 |
-| Wrecking Ball | 4.00% | ~1,316 |
+| Work Ethic | 4.00% | ~1,316 |
 | Power Players | 3.00% | ~987 |
-| Work Ethic | 3.00% | ~987 |
 | Picking Fights | 3.00% | ~987 |
 | Quality Time | 2.00% | ~658 |
 | Hijacked | 2.00% | ~658 |
@@ -46,8 +46,8 @@ Number of Ratings: 22,103  (23.09.2022)
 | Chaos Tamer | 0.60% | ~197 |
 | Neighborly | 0.60% | ~197 |
 | Tourist | 0.60% | ~197 |
+| Always Be Hustling | 0.50% | ~165 |
 | Shopping Spree | 0.40% | ~132 |
-| Always Be Hustling | 0.40% | ~132 |
 | Community Outreach | 0.40% | ~132 |
 | Bonus Round | 0.30% | ~99 |
 | It's a Bird! | 0.20% | ~66 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Heard You Like Wheels | 0.10% | ~33 |
 | Fiesta Time | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,892 (Ranked 83)  
+Progressed: 32,907 (Ranked 83)  
 Completed: 20 (0.06%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 20 (0.06%) (Ranked 170)
 | 2023-05-19 | 30,583 | 19 |
 | 2023-05-20 | 31,752 | 19 |
 | 2023-05-21 | 32,742 | 20 |
-| 2023-05-22 | 32,892 | 20 |
+| 2023-05-22 | 32,907 | 20 |
 ## Awards
 Max (Extremely Fun): 1,029  (Ranked 133)  
 Sum: 8,351 (Ranked 88)  
