@@ -1,19 +1,19 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.49 (Ranked 558)  
+Rating: 4.49 (Ranked 557)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~19,015 |
-| Advancement | 73.00% | ~16,141 |
-| Meticulously Efficient | 64.00% | ~14,151 |
+| Stylish | 86.00% | ~19,016 |
+| Advancement | 73.00% | ~16,142 |
+| Meticulously Efficient | 64.00% | ~14,152 |
 | Discovery | 62.00% | ~13,709 |
-| Swift Rift Removers | 56.00% | ~12,382 |
-| Fully Upgraded | 55.00% | ~12,161 |
+| Swift Rift Removers | 56.00% | ~12,383 |
+| Fully Upgraded | 55.00% | ~12,162 |
 | Cultured | 53.00% | ~11,719 |
 | I collect Spores, Molds, and Fungi | 52.00% | ~11,498 |
-| Vaporous Expansion | 49.00% | ~10,834 |
+| Vaporous Expansion | 49.00% | ~10,835 |
 | Teamwork | 45.00% | ~9,950 |
 | There you are! | 44.00% | ~9,729 |
 | Clutch Capture | 41.00% | ~9,066 |
@@ -21,8 +21,8 @@ Rating: 4.49 (Ranked 558)
 | Daily Dose | 35.00% | ~7,739 |
 | Welcome to the Crew | 33.00% | ~7,297 |
 | Solo Capture | 32.00% | ~7,076 |
-| Ghostbuster In Training | 31.00% | ~6,854 |
-| Icing on the Cake | 30.00% | ~6,633 |
+| Ghostbuster In Training | 31.00% | ~6,855 |
+| Icing on the Cake | 30.00% | ~6,634 |
 | Side Hustle | 28.00% | ~6,191 |
 | We have the best insurance | 27.00% | ~5,970 |
 | Legions | 27.00% | ~5,970 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 558)
 | I don't need these | 1.00% | ~221 |
 | Mycophile | 1.00% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,111 (Ranked 90)  
+Progressed: 22,112 (Ranked 90)  
 Completed: 40 (0.18%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,14 +89,14 @@ Completed: 40 (0.18%) (Ranked 143)
 | 2023-05-19 | 22,003 | 40 |
 | 2023-05-20 | 22,053 | 40 |
 | 2023-05-21 | 22,107 | 40 |
-| 2023-05-22 | 22,111 | 40 |
+| 2023-05-22 | 22,112 | 40 |
 ## Awards
-Max (Great for Quick Sessions): 229  (Ranked 246)  
-Sum: 2,079 (Ranked 183)  
+Max (Great for Quick Sessions): 231  (Ranked 246)  
+Sum: 2,081 (Ranked 183)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 229 |
+| This game is Great for Quick Sessions | 231 |
 | This game is Great for Beginners | 221 |
 | This game has Competitive Players | 213 |
 | This game has Diverse Characters | 210 |
@@ -178,3 +178,4 @@ Diff (max vs sum): 63
 | 2023-05-19 | 4.49 | 229 | 2,075 |
 | 2023-05-20 | 4.49 | 229 | 2,078 |
 | 2023-05-21 | 4.49 | 229 | 2,079 |
+| 2023-05-22 | 4.49 | 231 | 2,081 |

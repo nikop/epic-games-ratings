@@ -1,21 +1,21 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.67 (Ranked 258)  
+Rating: 4.67 (Ranked 257)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 77.00% | ~2,315 |
-| Un-Lonely Island | 49.00% | ~1,473 |
-| The Beginning of a Servantship | 46.00% | ~1,383 |
-| Trade Is My Trait | 38.00% | ~1,143 |
-| Number 18 | 26.00% | ~782 |
-| We Don't Have Time For That | 20.00% | ~601 |
-| The Governator | 19.00% | ~571 |
-| Caribbean Comrade | 17.00% | ~511 |
-| The Legend of Langostino | 17.00% | ~511 |
-| The Dreamer of Dreams | 16.00% | ~481 |
+| Just One...More...Term... | 77.00% | ~2,319 |
+| Un-Lonely Island | 49.00% | ~1,476 |
+| The Beginning of a Servantship | 46.00% | ~1,386 |
+| Trade Is My Trait | 38.00% | ~1,145 |
+| Number 18 | 26.00% | ~783 |
+| We Don't Have Time For That | 20.00% | ~602 |
+| The Governator | 19.00% | ~572 |
+| Caribbean Comrade | 17.00% | ~512 |
+| The Legend of Langostino | 17.00% | ~512 |
+| The Dreamer of Dreams | 16.00% | ~482 |
 | Go Sovereigns! | 12.00% | ~361 |
 | For Science! | 12.00% | ~361 |
 | Happy Ending? | 11.00% | ~331 |
@@ -25,13 +25,13 @@ Number of Ratings: 398  (23.09.2022)
 | Firestarter | 9.00% | ~271 |
 | Make Tropico Great Again! | 9.00% | ~271 |
 | French Connection | 8.00% | ~241 |
-| Don't Panic! | 7.00% | ~210 |
-| I Owe You Nothing | 7.00% | ~210 |
-| Computer Says "No" | 6.00% | ~180 |
-| Beware The Betman | 6.00% | ~180 |
-| Watch The World Burn | 6.00% | ~180 |
-| Fairy Tale Come True | 6.00% | ~180 |
-| Viva Tropico! | 5.00% | ~150 |
+| Don't Panic! | 7.00% | ~211 |
+| I Owe You Nothing | 7.00% | ~211 |
+| Computer Says "No" | 6.00% | ~181 |
+| Beware The Betman | 6.00% | ~181 |
+| Watch The World Burn | 6.00% | ~181 |
+| Fairy Tale Come True | 6.00% | ~181 |
+| Viva Tropico! | 5.00% | ~151 |
 | Apocalypso | 4.00% | ~120 |
 | The Time For Wonders | 4.00% | ~120 |
 | Been there, Done That | 3.00% | ~90 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~30 |
 | My Ways | 0.30% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,007 (Ranked 133)  
+Progressed: 3,012 (Ranked 133)  
 Completed: 1 (0.03%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 1 (0.03%) (Ranked 182)
 | 2023-05-19 | 2,924 | 1 |
 | 2023-05-20 | 2,959 | 1 |
 | 2023-05-21 | 3,002 | 1 |
-| 2023-05-22 | 3,007 | 1 |
+| 2023-05-22 | 3,012 | 1 |
 ## Awards
 Max (Great for Beginners): 104  (Ranked 319)  
 Sum: 750 (Ranked 254)  

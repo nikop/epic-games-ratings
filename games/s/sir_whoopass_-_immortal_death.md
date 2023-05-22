@@ -14,27 +14,27 @@
 | Not so hip anymore! | 74.00% | ~31 |
 | Up and down | 69.00% | ~29 |
 | Blurry depth perception | 69.00% | ~29 |
-| Rolling, Rolling, Rolling | 62.00% | ~26 |
+| Rolling, Rolling, Rolling | 64.00% | ~27 |
 | Oh, you're up to no gouda! | 55.00% | ~23 |
 | Fire-fighter! | 52.00% | ~22 |
 | Make Love not War-Craft a Mistlefoe | 52.00% | ~22 |
+| Meat grinder | 45.00% | ~19 |
 | You're not going to blow me up! | 43.00% | ~18 |
-| Meat grinder | 43.00% | ~18 |
-| Butcher | 38.00% | ~16 |
-| Mushroom soup of the day | 38.00% | ~16 |
+| Butcher | 40.00% | ~17 |
+| Mushroom soup of the day | 40.00% | ~17 |
 | My pants squeak when I walk | 38.00% | ~16 |
 | Spare Ribs | 38.00% | ~16 |
+| Honk honk! | 36.00% | ~15 |
 | Cockadoodledoo! | 36.00% | ~15 |
-| Honk honk! | 33.00% | ~14 |
 | Self assessed tax return | 33.00% | ~14 |
 | Surprise!! | 33.00% | ~14 |
 | Thats disgusting! | 33.00% | ~14 |
 | Haemochromatosis | 31.00% | ~13 |
 | Meatballs, coming up! | 29.00% | ~12 |
 | Make America Grate Again | 29.00% | ~12 |
+| Pasta Bolognese | 29.00% | ~12 |
 | You are no match for me, Billy! | 26.00% | ~11 |
 | Karaoke king | 26.00% | ~11 |
-| Pasta Bolognese | 26.00% | ~11 |
 | Catch the bus with me! | 24.00% | ~10 |
 | You can't stop me, bro! | 24.00% | ~10 |
 | Another one bites the iron | 19.00% | ~8 |
@@ -42,16 +42,17 @@
 | A Megapint...? | 17.00% | ~7 |
 | Hovering around | 17.00% | ~7 |
 | Just wing it! | 14.00% | ~6 |
-| Ripe Meat Off The Bone! | 12.00% | ~5 |
+| Ripe Meat Off The Bone! | 14.00% | ~6 |
 | I drink, but I'm not a drunk! | 10.00% | ~4 |
+| Kleptomaniac | 10.00% | ~4 |
 | Slimy... yet satisfying | 10.00% | ~4 |
+| Ancient Ruins of Dirty Feet | 7.00% | ~3 |
 | Yeehaw!!! | 7.00% | ~3 |
-| Kleptomaniac | 7.00% | ~3 |
+| Your daily dose of Vitamin C. | 7.00% | ~3 |
 | Spoiler alert! | 5.00% | ~2 |
 | You're not so Big anymore, Boi! | 5.00% | ~2 |
-| Ancient Ruins of Dirty Feet | 5.00% | ~2 |
 | Okay... Maybe I'm a bit drunk... | 5.00% | ~2 |
-| Your daily dose of Vitamin C. | 5.00% | ~2 |
+| I cant stand still! | 5.00% | ~2 |
 | You're looking mozzare-hella good! | 2.00% | ~1 |
 | Ancient Ruins of Moist Overhangs | 2.00% | ~1 |
 | Ancient Ruins of Misplaced Belongings | 2.00% | ~1 |
@@ -64,7 +65,6 @@
 | Consider it dealt with | 2.00% | ~1 |
 | Grumpy Immortal | 2.00% | ~1 |
 | European karaoke king | 2.00% | ~1 |
-| I cant stand still! | 2.00% | ~1 |
 | Free Of Chains | 2.00% | ~1 |
 | Out of bounds | 2.00% | ~1 |
 | Fifty Shades of Gruyere | 0.00% | ~0 |

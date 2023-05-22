@@ -5,28 +5,28 @@ Rating: 4.65 (Ranked 293)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~3,836 |
-| Tomorrow Never Dyes | 47.00% | ~2,817 |
-| Mainframe Hacker | 44.00% | ~2,637 |
-| The Spy who eliminated me | 44.00% | ~2,637 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~3,837 |
+| Tomorrow Never Dyes | 47.00% | ~2,818 |
+| Mainframe Hacker | 44.00% | ~2,638 |
+| The Spy who eliminated me | 44.00% | ~2,638 |
 | Never Say Loser Again | 41.00% | ~2,458 |
 | For your Eyes only | 39.00% | ~2,338 |
 | Tailor-Made | 38.00% | ~2,278 |
-| Fully Decked Out | 37.00% | ~2,218 |
 | From the Vault with Love | 36.00% | ~2,158 |
+| Fully Decked Out | 36.00% | ~2,158 |
 | You Only Live Twice | 30.00% | ~1,798 |
-| A view to Win | 29.00% | ~1,738 |
-| Smells Like Trouble | 26.00% | ~1,558 |
-| Assistant Accountant | 25.00% | ~1,498 |
-| The Living Portrait | 25.00% | ~1,498 |
-| Private Collection | 25.00% | ~1,498 |
-| Killer Looks | 25.00% | ~1,498 |
-| Hostile Takeover | 25.00% | ~1,498 |
+| A view to Win | 29.00% | ~1,739 |
+| Smells Like Trouble | 26.00% | ~1,559 |
+| Assistant Accountant | 25.00% | ~1,499 |
+| The Living Portrait | 25.00% | ~1,499 |
+| Private Collection | 25.00% | ~1,499 |
+| Killer Looks | 25.00% | ~1,499 |
+| Hostile Takeover | 25.00% | ~1,499 |
 | Keycards Royale | 24.00% | ~1,439 |
 | In It to Win It | 24.00% | ~1,439 |
 | Dr. No Kill | 24.00% | ~1,439 |
 | My Motto, My Creed | 24.00% | ~1,439 |
-| Security Supervisor | 10.00% | ~599 |
+| Security Supervisor | 10.00% | ~600 |
 | License to Thrill | 8.00% | ~480 |
 | Social of Solace | 8.00% | ~480 |
 | Safe Withdrawal | 6.00% | ~360 |
@@ -42,7 +42,7 @@ Rating: 4.65 (Ranked 293)
 | Extraction Confusion | 0.30% | ~18 |
 | Spyfall | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,994 (Ranked 116)  
+Progressed: 5,995 (Ranked 116)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-19 | 5,901 | 0 |
 | 2023-05-20 | 5,950 | 0 |
 | 2023-05-21 | 5,989 | 0 |
-| 2023-05-22 | 5,994 | 0 |
+| 2023-05-22 | 5,995 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

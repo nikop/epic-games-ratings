@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -1497,9 +1497,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42372,
+  "EOS_Progressed": 42373,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2342,6 +2342,11 @@
       "Time": "2023-05-22T06:06:12.3082761+00:00",
       "NumProgressed": 42372,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-05-22T07:05:42.3474214+00:00",
+      "NumProgressed": 42373,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 66,
@@ -2353,7 +2358,7 @@
       "Name": "Groovy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 25847
+      "UsersEstimate": 25848
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -2433,7 +2438,7 @@
       "Name": "Damnedbusters",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3813
+      "UsersEstimate": 3814
     },
     {
       "ID": "SE_COMPLETE_DEAD_ZEPPELIN",
@@ -2457,7 +2462,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 16101
+      "UsersEstimate": 16102
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -2473,7 +2478,7 @@
       "Name": "You\u0027re all going to die down here",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 13135
+      "UsersEstimate": 13136
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_CAGED_FEAR",
@@ -2577,7 +2582,7 @@
       "Name": "He did Nazi that coming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 13135
+      "UsersEstimate": 13136
     },
     {
       "ID": "SE_COMPLETE_TERMINAL_ERROR",
@@ -2609,7 +2614,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 14830
+      "UsersEstimate": 14831
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -2617,7 +2622,7 @@
       "Name": "Kill of the week",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13135
+      "UsersEstimate": 13136
     },
     {
       "ID": "SE_ELECTROCUTE_X_ZOMBIES_WITH_ONE_SPECIAL_MELEE",
@@ -2665,7 +2670,7 @@
       "Name": "Come and get it! It\u0027s a running buffet!",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 16101
+      "UsersEstimate": 16102
     },
     {
       "ID": "SE_GET_X_HEADSHOT_STREAK",
@@ -2681,7 +2686,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 28813
+      "UsersEstimate": 28814
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -2705,7 +2710,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 19491
+      "UsersEstimate": 19492
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -2713,7 +2718,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 23728
+      "UsersEstimate": 23729
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -2721,7 +2726,7 @@
       "Name": "Stand back boy!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 19491
+      "UsersEstimate": 19492
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -2737,7 +2742,7 @@
       "Name": "Got your back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 11440
+      "UsersEstimate": 11441
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_WITHOUT_MISS",
@@ -2793,7 +2798,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14406
+      "UsersEstimate": 14407
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -2817,7 +2822,7 @@
       "Name": "Gore soaked",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 10169
+      "UsersEstimate": 10170
     },
     {
       "ID": "SE_REACH_WAVE_X",
@@ -2880,15 +2885,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42372,
+      "Progressed": 42373,
       "Completed": 24
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-05-21T10:59:55.1500252+00:00",
-  "LastChanged_Achievements": "2023-05-22T06:06:12.3082758+00:00",
+  "LastChanged_Achievements": "2023-05-22T07:05:42.3474208+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.8149711+00:00",
-  "LastUpdate_Ratings": "2023-05-22T05:59:46.6872389+00:00",
-  "LastUpdate_Achievements": "2023-05-22T06:06:12.3083402+00:00"
+  "LastUpdate_Ratings": "2023-05-22T06:59:24.2653219+00:00",
+  "LastUpdate_Achievements": "2023-05-22T07:05:42.3474866+00:00"
 }

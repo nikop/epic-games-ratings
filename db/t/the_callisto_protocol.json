@@ -410,9 +410,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 13257,
+  "EOS_Progressed": 13267,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 693,
+  "EOS_NewPlayers": 703,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1140,6 +1140,11 @@
       "Time": "2023-05-22T05:02:20.5371613+00:00",
       "NumProgressed": 13257,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-05-22T07:02:20.0422886+00:00",
+      "NumProgressed": 13267,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 40,
@@ -1167,7 +1172,7 @@
       "Name": "Giving Back",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -1183,7 +1188,7 @@
       "Name": "Flesh Wound",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -1247,7 +1252,7 @@
       "Name": "Parole Denied",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -1279,7 +1284,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "KILL_ROBOT",
@@ -1423,7 +1428,7 @@
       "Name": "Instigator",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -1431,7 +1436,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -1439,7 +1444,7 @@
       "Name": "Bear Trap",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -1447,7 +1452,7 @@
       "Name": "Hoard Mode",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "RIOT_10_POWERUPS",
@@ -1470,13 +1475,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13257,
+      "Progressed": 13267,
       "Completed": 52
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1183,
+      "Progressed": 1193,
       "Completed": 29
     }
   ],
@@ -1484,8 +1489,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-16T17:57:38.030273+00:00",
-  "LastChanged_Achievements": "2023-05-22T06:02:23.6678147+00:00",
+  "LastChanged_Achievements": "2023-05-22T07:02:20.042288+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-22T05:57:39.6085901+00:00",
-  "LastUpdate_Achievements": "2023-05-22T06:02:23.6678529+00:00"
+  "LastUpdate_Ratings": "2023-05-22T06:57:38.2204085+00:00",
+  "LastUpdate_Achievements": "2023-05-22T07:02:20.0423244+00:00"
 }

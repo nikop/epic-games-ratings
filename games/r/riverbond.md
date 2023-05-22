@@ -1,19 +1,19 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.47 (Ranked 584)  
+Rating: 4.47 (Ranked 583)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~361,973 |
-| Now You're Talking | 62.00% | ~320,604 |
-| Steel Yourself | 62.00% | ~320,604 |
-| Window Dressing | 50.00% | ~258,552 |
-| Trigger Happy | 46.00% | ~237,868 |
-| Riverborn | 45.00% | ~232,697 |
-| Starry Eyed | 34.00% | ~175,815 |
-| Poking Around | 34.00% | ~175,815 |
+| First Step | 70.00% | ~361,974 |
+| Now You're Talking | 62.00% | ~320,606 |
+| Steel Yourself | 62.00% | ~320,606 |
+| Window Dressing | 50.00% | ~258,553 |
+| Trigger Happy | 46.00% | ~237,869 |
+| Riverborn | 45.00% | ~232,698 |
+| Starry Eyed | 34.00% | ~175,816 |
+| Poking Around | 34.00% | ~175,816 |
 | Talk of the Town | 24.00% | ~124,105 |
 | AAARR! | 23.00% | ~118,934 |
 | Hello Darkness | 23.00% | ~118,934 |
@@ -24,12 +24,12 @@ Number of Ratings: 617  (23.09.2022)
 | Sunday Best | 15.00% | ~77,566 |
 | Two of a Kind | 14.00% | ~72,395 |
 | Keep On Trucking | 13.00% | ~67,224 |
-| Going on an Adventure | 11.00% | ~56,881 |
-| Make Peace, Not War | 11.00% | ~56,881 |
-| Walking The Line | 10.00% | ~51,710 |
-| Not So Cute Anymore | 10.00% | ~51,710 |
-| Road Less Travelled | 9.00% | ~46,539 |
-| Lost and Found | 9.00% | ~46,539 |
+| Going on an Adventure | 11.00% | ~56,882 |
+| Make Peace, Not War | 11.00% | ~56,882 |
+| Walking The Line | 10.00% | ~51,711 |
+| Not So Cute Anymore | 10.00% | ~51,711 |
+| Road Less Travelled | 9.00% | ~46,540 |
+| Lost and Found | 9.00% | ~46,540 |
 | Partner in Crime | 7.00% | ~36,197 |
 | Hard to Hear | 7.00% | ~36,197 |
 | Under the Radar | 7.00% | ~36,197 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,551 |
 | Point Taken | 0.10% | ~517 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 517,104 (Ranked 25)  
+Progressed: 517,106 (Ranked 25)  
 Completed: 409 (0.08%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 409 (0.08%) (Ranked 166)
 | 2023-05-19 | 516,860 | 407 |
 | 2023-05-20 | 516,957 | 409 |
 | 2023-05-21 | 517,086 | 409 |
-| 2023-05-22 | 517,104 | 409 |
+| 2023-05-22 | 517,106 | 409 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

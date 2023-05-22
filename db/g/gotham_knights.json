@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1166,9 +1166,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61628,
+  "EOS_Progressed": 61633,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 739,
+  "EOS_NewPlayers": 744,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3276,6 +3276,11 @@
       "Time": "2023-05-22T06:06:10.542231+00:00",
       "NumProgressed": 61628,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-22T07:05:40.577038+00:00",
+      "NumProgressed": 61633,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3653,9 +3658,9 @@
       "ID": "HERO_PROGRESSION_4",
       "SetID": "4eo5ebm",
       "Name": "Unstoppable Force",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 370
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -3749,9 +3754,9 @@
       "ID": "SECRET_IDENTITY",
       "SetID": "4eo5ebm",
       "Name": "Solid Alibi",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 185
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -3774,13 +3779,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61628,
+      "Progressed": 61633,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31908,
+      "Progressed": 31913,
       "Completed": 2640
     }
   ],
@@ -3788,8 +3793,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-22T02:05:36.438864+00:00",
-  "LastChanged_Achievements": "2023-05-22T06:06:10.5422305+00:00",
+  "LastChanged_Achievements": "2023-05-22T07:05:40.5770373+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-22T05:59:40.7263815+00:00",
-  "LastUpdate_Achievements": "2023-05-22T06:06:10.5423004+00:00"
+  "LastUpdate_Ratings": "2023-05-22T06:59:19.2070542+00:00",
+  "LastUpdate_Achievements": "2023-05-22T07:05:40.5771083+00:00"
 }

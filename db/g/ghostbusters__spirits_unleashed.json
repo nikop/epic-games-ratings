@@ -2,7 +2,7 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 558,
+  "Ranking_Rating": 557,
   "Ranking_Popularity": 246,
   "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 90,
@@ -970,11 +970,17 @@
       "Rating": 4.49,
       "NumberOfAwards": 2079,
       "NumberOfAwardsMax": 229
+    },
+    {
+      "Time": "2023-05-22T06:58:33.6226053+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 2081,
+      "NumberOfAwardsMax": 231
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2079,
-  "NumberOfAwardsMax": 229,
+  "NumberOfAwards": 2081,
+  "NumberOfAwardsMax": 231,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -999,7 +1005,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 229
+      "Count": 231
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1050,9 +1056,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 22111,
+  "EOS_Progressed": 22112,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 305,
+  "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3345,6 +3351,11 @@
       "Time": "2023-05-22T05:05:44.5187925+00:00",
       "NumProgressed": 22111,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-05-22T07:05:28.522052+00:00",
+      "NumProgressed": 22112,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -3356,7 +3367,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 16141
+      "UsersEstimate": 16142
     },
     {
       "ID": "Animated",
@@ -3468,7 +3479,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 14151
+      "UsersEstimate": 14152
     },
     {
       "ID": "Escape_Artist",
@@ -3492,7 +3503,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 12161
+      "UsersEstimate": 12162
     },
     {
       "ID": "GB_In_Training",
@@ -3500,7 +3511,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6854
+      "UsersEstimate": 6855
     },
     {
       "ID": "Ghost_Expert",
@@ -3516,7 +3527,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 6633
+      "UsersEstimate": 6634
     },
     {
       "ID": "Legions",
@@ -3660,7 +3671,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 19015
+      "UsersEstimate": 19016
     },
     {
       "ID": "Summoner",
@@ -3684,7 +3695,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 12382
+      "UsersEstimate": 12383
     },
     {
       "ID": "Teamwork",
@@ -3740,7 +3751,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 10834
+      "UsersEstimate": 10835
     },
     {
       "ID": "Welcome_Crew",
@@ -3763,16 +3774,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 22111,
+      "Progressed": 22112,
       "Completed": 40
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-05-21T04:58:44.2883808+00:00",
-  "LastChanged_Achievements": "2023-05-22T06:05:55.7623516+00:00",
+  "LastChanged": "2023-05-22T06:58:33.6226052+00:00",
+  "LastChanged_Achievements": "2023-05-22T07:05:28.5220516+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:13.3107598+00:00",
-  "LastUpdate_Ratings": "2023-05-22T05:58:49.5914188+00:00",
-  "LastUpdate_Achievements": "2023-05-22T06:05:55.7624106+00:00"
+  "LastUpdate_Ratings": "2023-05-22T06:58:33.6226057+00:00",
+  "LastUpdate_Achievements": "2023-05-22T07:05:28.52211+00:00"
 }

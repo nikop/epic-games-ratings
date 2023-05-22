@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -1422,9 +1422,9 @@
       "ID": "ACH_BASE_52",
       "SetID": "92iocjf",
       "Name": "BRAWL!",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_BASE_53",
@@ -1446,9 +1446,9 @@
       "ID": "ACH_BASE_57",
       "SetID": "92iocjf",
       "Name": "Pedal to the Metal",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_BASE_58",
@@ -1557,8 +1557,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-05-13T22:58:30.2604361+00:00",
-  "LastChanged_Achievements": "2023-05-22T06:05:37.3746529+00:00",
+  "LastChanged_Achievements": "2023-05-22T07:05:12.6888772+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.7103468+00:00",
-  "LastUpdate_Ratings": "2023-05-22T05:58:18.6464492+00:00",
-  "LastUpdate_Achievements": "2023-05-22T06:05:37.3747066+00:00"
+  "LastUpdate_Ratings": "2023-05-22T06:58:10.0261512+00:00",
+  "LastUpdate_Achievements": "2023-05-22T07:05:12.688938+00:00"
 }

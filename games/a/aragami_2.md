@@ -6,22 +6,22 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 92.00% | ~30,278 |
-| First Steps | 81.00% | ~26,658 |
-| Control the Shadows | 68.00% | ~22,379 |
-| Tools of the Trade | 63.00% | ~20,734 |
+| Awakening | 92.00% | ~30,279 |
+| First Steps | 81.00% | ~26,659 |
+| Control the Shadows | 68.00% | ~22,380 |
+| Tools of the Trade | 63.00% | ~20,735 |
 | Apprentice | 60.00% | ~19,747 |
-| Secret Seeker | 57.00% | ~18,759 |
-| Forge of Assassins | 56.00% | ~18,430 |
+| Secret Seeker | 57.00% | ~18,760 |
+| Forge of Assassins | 56.00% | ~18,431 |
 | Revenant | 51.00% | ~16,785 |
 | I don’t Care! | 45.00% | ~14,810 |
 | Bird of Prey | 37.00% | ~12,177 |
 | Engraved with Power | 32.00% | ~10,532 |
-| Lady | 30.00% | ~9,873 |
+| Lady | 30.00% | ~9,874 |
 | Fashionable Assassin | 27.00% | ~8,886 |
 | Apex Predator | 24.00% | ~7,899 |
-| Soul Reaver | 22.00% | ~7,240 |
-| Embers | 21.00% | ~6,911 |
+| Soul Reaver | 22.00% | ~7,241 |
+| Embers | 21.00% | ~6,912 |
 | Wall Lizard | 20.00% | ~6,582 |
 | Clinging to Life | 18.00% | ~5,924 |
 | Burning | 17.00% | ~5,595 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Hot Potato | 1.00% | ~329 |
 | Anger Management | 1.00% | ~329 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,911 (Ranked 83)  
+Progressed: 32,912 (Ranked 83)  
 Completed: 156 (0.47%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 156 (0.47%) (Ranked 109)
 | 2023-05-19 | 32,723 | 156 |
 | 2023-05-20 | 32,802 | 156 |
 | 2023-05-21 | 32,889 | 156 |
-| 2023-05-22 | 32,911 | 156 |
+| 2023-05-22 | 32,912 | 156 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

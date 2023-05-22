@@ -414,9 +414,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 18569,
+  "EOS_Progressed": 18570,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1614,6 +1614,11 @@
       "Time": "2023-05-22T05:05:39.8036857+00:00",
       "NumProgressed": 18569,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-05-22T07:05:23.8823189+00:00",
+      "NumProgressed": 18570,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 37,
@@ -1655,9 +1660,9 @@
       "ID": "ach.050.builder",
       "SetID": "384aaja",
       "Name": "Builder",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 15412
+      "UsersEstimate": 15227
     },
     {
       "ID": "ach.060.goingdistance",
@@ -1665,7 +1670,7 @@
       "Name": "Going the Distance",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 10027
+      "UsersEstimate": 10028
     },
     {
       "ID": "ach.070.8kenough",
@@ -1681,7 +1686,7 @@
       "Name": "Eraser",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 12998
+      "UsersEstimate": 12999
     },
     {
       "ID": "ach.090.perfectionist",
@@ -1721,7 +1726,7 @@
       "Name": "Minimalist",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 16712
+      "UsersEstimate": 16713
     },
     {
       "ID": "ach.140.legacy",
@@ -1729,7 +1734,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 98,
       "XP": 60,
-      "UsersEstimate": 18198
+      "UsersEstimate": 18199
     },
     {
       "ID": "ach.150.pocket",
@@ -1817,7 +1822,7 @@
       "Name": "Before the Downfall",
       "Percentage": 93,
       "XP": 60,
-      "UsersEstimate": 17269
+      "UsersEstimate": 17270
     },
     {
       "ID": "ach.260.investor",
@@ -1881,7 +1886,7 @@
       "Name": "Money like Water",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 16898
+      "UsersEstimate": 16899
     },
     {
       "ID": "ach.340.steel",
@@ -1920,7 +1925,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 18569,
+      "Progressed": 18570,
       "Completed": 29
     }
   ],
@@ -1928,8 +1933,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-05-18T15:59:55.9963774+00:00",
-  "LastChanged_Achievements": "2023-05-22T06:05:50.3053397+00:00",
+  "LastChanged_Achievements": "2023-05-22T07:05:23.8823182+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:39.9088278+00:00",
-  "LastUpdate_Ratings": "2023-05-22T05:59:15.1242614+00:00",
-  "LastUpdate_Achievements": "2023-05-22T06:05:50.3053711+00:00"
+  "LastUpdate_Ratings": "2023-05-22T06:58:57.5899459+00:00",
+  "LastUpdate_Achievements": "2023-05-22T07:05:23.8823548+00:00"
 }

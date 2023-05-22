@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 878,
+  "EOS_Progressed": 879,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -328,6 +328,11 @@
       "Time": "2023-05-22T06:05:56.5376566+00:00",
       "NumProgressed": 878,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T07:05:29.2161087+00:00",
+      "NumProgressed": 879,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -371,15 +376,15 @@
       "Name": "The First Step",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "06",
       "SetID": "73ikgfc",
       "Name": "First Blood",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 562
+      "UsersEstimate": 571
     },
     {
       "ID": "07",
@@ -387,7 +392,7 @@
       "Name": "Monster Hunter",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 465
+      "UsersEstimate": 466
     },
     {
       "ID": "08",
@@ -467,7 +472,7 @@
       "Name": "Ready to Learn",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "18",
@@ -475,7 +480,7 @@
       "Name": "Earning Trust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "19",
@@ -522,7 +527,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 878,
+      "Progressed": 879,
       "Completed": 0
     }
   ],
@@ -530,8 +535,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-05-22T06:05:56.5376557+00:00",
+  "LastChanged_Achievements": "2023-05-22T07:05:29.2161083+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:05:01.1887177+00:00",
-  "LastUpdate_Ratings": "2023-05-22T05:59:39.5289043+00:00",
-  "LastUpdate_Achievements": "2023-05-22T06:05:56.5376736+00:00"
+  "LastUpdate_Ratings": "2023-05-22T06:59:18.2140783+00:00",
+  "LastUpdate_Achievements": "2023-05-22T07:05:29.2161243+00:00"
 }

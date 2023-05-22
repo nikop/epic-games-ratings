@@ -30,19 +30,19 @@ Rating: 4.55 (Ranked 468)
 | Sightseeing | 0.70% | ~14 |
 | Man's Best Friend | 0.60% | ~12 |
 | In Dolos We Trust | 0.60% | ~12 |
+| BRAWL! | 0.60% | ~12 |
 | All in Good Health | 0.60% | ~12 |
 | Oats | 0.50% | ~10 |
 | ...  in a finite world | 0.50% | ~10 |
 | Delivery! | 0.50% | ~10 |
-| BRAWL! | 0.50% | ~10 |
 | What They Hide From Us | 0.40% | ~8 |
 | Sustainable Energy | 0.40% | ~8 |
 | Praise the Hull! | 0.40% | ~8 |
 | You Had One Job... | 0.40% | ~8 |
+| Pedal to the Metal | 0.40% | ~8 |
 | What the Ruins Teach Us | 0.40% | ~8 |
 | Pulsar Disciple | 0.40% | ~8 |
 | Space Greenhouse | 0.30% | ~6 |
-| Pedal to the Metal | 0.30% | ~6 |
 | Mutual Loyalty | 0.20% | ~4 |
 | Tiqqun Unchained | 0.20% | ~4 |
 | Help of the Forgotten Member | 0.20% | ~4 |

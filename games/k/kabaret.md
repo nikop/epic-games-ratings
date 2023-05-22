@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Journey Begins | 80.00% | ~8 |
-| The Boy That Came With The Rain | 50.00% | ~5 |
-| Welcome To The Kabaret | 40.00% | ~4 |
+| Your Journey Begins | 90.00% | ~9 |
+| The Boy That Came With The Rain | 60.00% | ~6 |
+| Welcome To The Kabaret | 50.00% | ~5 |
 | Congkak Hero | 30.00% | ~3 |
 | Congkak Champion | 30.00% | ~3 |
 | Goodbye Dear Friend | 30.00% | ~3 |

@@ -5,15 +5,15 @@ Rating: 4.54 (Ranked 481)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~18,198 |
-| Before the Downfall | 93.00% | ~17,269 |
-| Money like Water | 91.00% | ~16,898 |
-| Minimalist | 90.00% | ~16,712 |
-| Builder | 83.00% | ~15,412 |
-| Eraser | 70.00% | ~12,998 |
+| Trevithick's Legacy | 98.00% | ~18,199 |
+| Before the Downfall | 93.00% | ~17,270 |
+| Money like Water | 91.00% | ~16,899 |
+| Minimalist | 90.00% | ~16,713 |
+| Builder | 82.00% | ~15,227 |
+| Eraser | 70.00% | ~12,999 |
 | Pocket of Trains | 65.00% | ~12,070 |
 | Inspector | 59.00% | ~10,956 |
-| Going the Distance | 54.00% | ~10,027 |
+| Going the Distance | 54.00% | ~10,028 |
 | Oil Baron | 42.00% | ~7,799 |
 | Loads-a-Money | 42.00% | ~7,799 |
 | Helper of the People | 39.00% | ~7,242 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 481)
 | Overdeer | 0.40% | ~74 |
 | Cloud Services | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,569 (Ranked 95)  
+Progressed: 18,570 (Ranked 95)  
 Completed: 29 (0.16%) (Ranked 146)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 29 (0.16%) (Ranked 146)
 | 2023-05-19 | 18,478 | 28 |
 | 2023-05-20 | 18,539 | 28 |
 | 2023-05-21 | 18,566 | 29 |
-| 2023-05-22 | 18,569 | 29 |
+| 2023-05-22 | 18,570 | 29 |
 ## Awards
 Max (Highly Recommended): 87  (Ranked 342)  
 Sum: 646 (Ranked 273)  
