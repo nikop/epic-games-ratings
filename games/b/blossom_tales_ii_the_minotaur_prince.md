@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shiny New Weapons | 50.00% | ~5 |
-| Completely Hooked | 20.00% | ~2 |
-| Money Bags | 20.00% | ~2 |
-| The Lawnmower Lady | 20.00% | ~2 |
-| Lily: Warrior Princess | 20.00% | ~2 |
-| Key Piece I | 10.00% | ~1 |
-| Fruitful Offerings | 10.00% | ~1 |
-| Nice Display | 10.00% | ~1 |
-| Key Piece II | 10.00% | ~1 |
-| The Hero | 10.00% | ~1 |
+| Shiny New Weapons | 45.00% | ~5 |
+| Completely Hooked | 18.00% | ~2 |
+| Money Bags | 18.00% | ~2 |
+| The Lawnmower Lady | 18.00% | ~2 |
+| Lily: Warrior Princess | 18.00% | ~2 |
+| Key Piece I | 9.00% | ~1 |
+| Fruitful Offerings | 9.00% | ~1 |
+| Nice Display | 9.00% | ~1 |
+| Key Piece II | 9.00% | ~1 |
+| The Hero | 9.00% | ~1 |
 | Not All Who Wander | 0.00% | ~0 |
 | Walking Cookbook | 0.00% | ~0 |
 | The Musician | 0.00% | ~0 |
@@ -25,13 +25,14 @@
 | Postmaster | 0.00% | ~0 |
 | Combat Queen | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10 (Ranked 329)  
+Progressed: 11 (Ranked 328)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 9 | 0 |
 | 2023-05-05 | 10 | 0 |
+| 2023-05-22 | 11 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

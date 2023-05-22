@@ -7,20 +7,20 @@ Number of Ratings: 546  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Legend Begins | 93.00% | ~6,796 |
-| What should I buy? | 83.00% | ~6,065 |
-| Focus! | 62.00% | ~4,530 |
-| Rescued Elder Ent | 62.00% | ~4,530 |
-| The End of the Gold Mane Knights | 46.00% | ~3,361 |
+| What should I buy? | 83.00% | ~6,066 |
+| Focus! | 62.00% | ~4,531 |
+| Rescued Elder Ent | 62.00% | ~4,531 |
+| The End of the Gold Mane Knights | 46.00% | ~3,362 |
 | Rules of Etiquette | 39.00% | ~2,850 |
 | False Goddess, Disappear | 38.00% | ~2,777 |
-| Quick Movements | 33.00% | ~2,411 |
-| Inventory Management | 33.00% | ~2,411 |
+| Quick Movements | 33.00% | ~2,412 |
+| Inventory Management | 33.00% | ~2,412 |
 | The Fall of the Leonia Order | 28.00% | ~2,046 |
 | The Hero Killer | 27.00% | ~1,973 |
 | The Final Battle of the First Hero | 25.00% | ~1,827 |
 | Go Home... | 25.00% | ~1,827 |
 | Brain at Full Throttle | 22.00% | ~1,608 |
-| Rookies Welcome | 20.00% | ~1,461 |
+| Rookies Welcome | 20.00% | ~1,462 |
 | Deadly Power | 15.00% | ~1,096 |
 | Castle Restoration Plans | 14.00% | ~1,023 |
 | The Dwarven Chandelier | 12.00% | ~877 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 2.00% | ~146 |
 | Cold-Blooded | 0.80% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,307 (Ranked 111)  
+Progressed: 7,308 (Ranked 111)  
 Completed: 11 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,10 +59,10 @@ Completed: 11 (0.15%) (Ranked 149)
 | 2023-05-19 | 7,225 | 11 |
 | 2023-05-20 | 7,270 | 11 |
 | 2023-05-21 | 7,299 | 11 |
-| 2023-05-22 | 7,307 | 11 |
+| 2023-05-22 | 7,308 | 11 |
 ## Awards
 Max (Diverse Characters): 112  (Ranked 313)  
-Sum: 748 (Ranked 255)  
+Sum: 749 (Ranked 255)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -73,7 +73,7 @@ Diff (max vs sum): 58
 | This game is Highly Recommended | 104 |
 | This game has Quickly Understood Controls | 98 |
 | This game has Amazing Storytelling | 87 |
-| This game has Amazing Characters | 78 |
+| This game has Amazing Characters | 79 |
 | This game has a Creative Community | 58 |
 | This game has Challenging Combat | 51 |
 | This game has Playful Visuals | 45 |
@@ -170,3 +170,4 @@ Diff (max vs sum): 58
 | 2023-05-16 | 4.71 | - | 111 | 746 |
 | 2023-05-18 | 4.71 | - | 111 | 747 |
 | 2023-05-19 | 4.71 | - | 112 | 748 |
+| 2023-05-22 | 4.71 | - | 112 | 749 |

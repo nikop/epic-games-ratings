@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -375,9 +375,9 @@
       "ID": "CAREERCLASSS",
       "SetID": "3dh70f3",
       "Name": "All Power to Engines!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 39
     },
     {
       "ID": "CAREERTRIALSA",
@@ -632,8 +632,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-05-22T09:06:35.2476308+00:00",
+  "LastChanged_Achievements": "2023-05-22T10:06:11.8931569+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:42.1539132+00:00",
-  "LastUpdate_Ratings": "2023-05-22T08:58:23.7271727+00:00",
-  "LastUpdate_Achievements": "2023-05-22T09:06:35.2476772+00:00"
+  "LastUpdate_Ratings": "2023-05-22T09:58:23.966278+00:00",
+  "LastUpdate_Achievements": "2023-05-22T10:06:11.8931944+00:00"
 }

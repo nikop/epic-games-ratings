@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -690,10 +690,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 748,
       "NumberOfAwardsMax": 112
+    },
+    {
+      "Time": "2023-05-22T09:59:21.5443519+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 749,
+      "NumberOfAwardsMax": 112
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 748,
+  "NumberOfAwards": 749,
   "NumberOfAwardsMax": 112,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -737,7 +743,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 78
+      "Count": 79
     },
     {
       "Text": "This game is Relaxing",
@@ -764,9 +770,9 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 7307,
+  "EOS_Progressed": 7308,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1224,6 +1230,11 @@
       "Time": "2023-05-22T09:06:13.7944541+00:00",
       "NumProgressed": 7307,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-22T10:05:41.6391901+00:00",
+      "NumProgressed": 7308,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -1259,7 +1270,7 @@
       "Name": "Focus!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4530
+      "UsersEstimate": 4531
     },
     {
       "ID": "DemonCastleRestoration",
@@ -1355,7 +1366,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "SavedElderEnt",
@@ -1363,7 +1374,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4530
+      "UsersEstimate": 4531
     },
     {
       "ID": "SavedElderEnt_2",
@@ -1371,7 +1382,7 @@
       "Name": "Quick Movements",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 2411
+      "UsersEstimate": 2412
     },
     {
       "ID": "SkeletonKing",
@@ -1387,7 +1398,7 @@
       "Name": "Inventory Management",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2411
+      "UsersEstimate": 2412
     },
     {
       "ID": "TheLegendBegins",
@@ -1403,7 +1414,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 3361
+      "UsersEstimate": 3362
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -1419,22 +1430,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6065
+      "UsersEstimate": 6066
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7307,
+      "Progressed": 7308,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
-  "LastChanged": "2023-05-19T06:59:30.4131127+00:00",
-  "LastChanged_Achievements": "2023-05-22T09:06:13.7944531+00:00",
+  "LastChanged": "2023-05-22T09:59:21.5443518+00:00",
+  "LastChanged_Achievements": "2023-05-22T10:05:41.6391896+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.259325+00:00",
-  "LastUpdate_Ratings": "2023-05-22T08:59:20.4116681+00:00",
-  "LastUpdate_Achievements": "2023-05-22T09:06:13.7944849+00:00"
+  "LastUpdate_Ratings": "2023-05-22T09:59:21.5443522+00:00",
+  "LastUpdate_Achievements": "2023-05-22T10:05:41.6392094+00:00"
 }

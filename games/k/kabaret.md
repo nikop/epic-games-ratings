@@ -15,25 +15,27 @@
 | Equality | 30.00% | ~3 |
 | Goodbye Dear Friend | 30.00% | ~3 |
 | By My Own Hands | 30.00% | ~3 |
+| Clipped Wings | 30.00% | ~3 |
+| Lady In The Book | 30.00% | ~3 |
 | Strangers You Meet | 20.00% | ~2 |
+| Losing A Small, Good Thing | 20.00% | ~2 |
 | I'll Become... A Beast | 20.00% | ~2 |
 | True Potential Unlocked | 20.00% | ~2 |
 | Guli Novice | 20.00% | ~2 |
 | Guli Pro | 20.00% | ~2 |
 | Guli Master | 20.00% | ~2 |
 | Congkak Legend | 20.00% | ~2 |
+| In Service Of Others | 20.00% | ~2 |
 | Deep Thinker | 20.00% | ~2 |
+| Power Of Friendship | 20.00% | ~2 |
 | Squashed Bug | 20.00% | ~2 |
 | Till Death Do We... | 20.00% | ~2 |
+| An End To History | 20.00% | ~2 |
 | Eating A Dead Flower | 20.00% | ~2 |
 | Bookworm | 20.00% | ~2 |
 | Behold, The Nagarimau | 20.00% | ~2 |
-| Clipped Wings | 20.00% | ~2 |
-| Lady In The Book | 20.00% | ~2 |
-| Losing A Small, Good Thing | 10.00% | ~1 |
 | Faithful Follower | 10.00% | ~1 |
 | Rebel To God | 10.00% | ~1 |
-| In Service Of Others | 10.00% | ~1 |
 | Expert Service | 10.00% | ~1 |
 | Human Supremacy | 10.00% | ~1 |
 | Face Value | 10.00% | ~1 |
@@ -41,13 +43,14 @@
 | Thou Art Naive | 10.00% | ~1 |
 | Philosopher | 10.00% | ~1 |
 | I Like Salty Seawater | 10.00% | ~1 |
+| There's Something About You... | 10.00% | ~1 |
 | Under The Sea | 10.00% | ~1 |
 | I Sit On The Beach, Watching The Tide Leave | 10.00% | ~1 |
+| A Foot In Reality | 10.00% | ~1 |
 | Self-indulgent | 10.00% | ~1 |
 | Breaking In The Horse | 10.00% | ~1 |
-| Power Of Friendship | 10.00% | ~1 |
+| To Live And Die Free | 10.00% | ~1 |
 | Be Cruel To Be Kind | 10.00% | ~1 |
-| An End To History | 10.00% | ~1 |
 | A New Hope | 10.00% | ~1 |
 | For The Greater Good | 10.00% | ~1 |
 | I Am Vengeance | 10.00% | ~1 |
@@ -57,10 +60,7 @@
 | I See The Truth | 0.00% | ~0 |
 | True Devourer | 0.00% | ~0 |
 | Unbiased | 0.00% | ~0 |
-| There's Something About You... | 0.00% | ~0 |
 | Mayang's Song | 0.00% | ~0 |
-| A Foot In Reality | 0.00% | ~0 |
-| To Live And Die Free | 0.00% | ~0 |
 | Sweetheart | 0.00% | ~0 |
 | I Enjoy Death | 0.00% | ~0 |
 | I Don't Want To Dirty My Hands | 0.00% | ~0 |
@@ -72,7 +72,7 @@
 | I Need Batteries | 0.00% | ~0 |
 | I Am A Beast | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10 (Ranked 329)  
+Progressed: 10 (Ranked 330)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |

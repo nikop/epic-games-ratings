@@ -2288,9 +2288,9 @@
       "Count": 304
     }
   ],
-  "EOS_Progressed": 14946,
+  "EOS_Progressed": 14947,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -3948,6 +3948,11 @@
       "Time": "2023-05-22T09:06:55.3223448+00:00",
       "NumProgressed": 14946,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-05-22T10:06:31.0180006+00:00",
+      "NumProgressed": 14947,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 50,
@@ -4149,9 +4154,9 @@
       "ID": "WinNearLevitating",
       "SetID": "cfbk359",
       "Name": "Levitating Monument",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 120
     },
     {
       "ID": "WinNearMines",
@@ -4358,15 +4363,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 14946,
+      "Progressed": 14947,
       "Completed": 32
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-19T11:59:18.6406919+00:00",
-  "LastChanged_Achievements": "2023-05-22T09:06:55.3223439+00:00",
+  "LastChanged_Achievements": "2023-05-22T10:06:31.0179998+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:57.8342165+00:00",
-  "LastUpdate_Ratings": "2023-05-22T09:00:36.1176164+00:00",
-  "LastUpdate_Achievements": "2023-05-22T09:06:55.3224339+00:00"
+  "LastUpdate_Ratings": "2023-05-22T10:00:37.4199353+00:00",
+  "LastUpdate_Achievements": "2023-05-22T10:06:31.0180422+00:00"
 }

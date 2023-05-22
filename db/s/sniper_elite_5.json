@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 144,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1159,
+  "EOS_Progressed": 1164,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 440,
+  "EOS_NewPlayers": 445,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1002,6 +1002,11 @@
       "Time": "2023-05-22T09:06:23.0865122+00:00",
       "NumProgressed": 1159,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-22T10:05:50.408685+00:00",
+      "NumProgressed": 1164,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1059,9 +1064,9 @@
       "ID": "REWARD_16_FIELDS_OF_GLORY",
       "SetID": "bm6el81",
       "Name": "Fields of Glory",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -1093,7 +1098,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1261,7 +1266,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -1580,13 +1585,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1110,
+      "Progressed": 1115,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1159,
+      "Progressed": 1164,
       "Completed": 2
     }
   ],
@@ -1594,8 +1599,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-21T20:01:20.196422+00:00",
-  "LastChanged_Achievements": "2023-05-22T09:06:23.0865114+00:00",
+  "LastChanged_Achievements": "2023-05-22T10:05:50.4086845+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-22T09:01:10.3126041+00:00",
-  "LastUpdate_Achievements": "2023-05-22T09:06:23.0866393+00:00"
+  "LastUpdate_Ratings": "2023-05-22T10:01:10.7838777+00:00",
+  "LastUpdate_Achievements": "2023-05-22T10:05:50.4087409+00:00"
 }

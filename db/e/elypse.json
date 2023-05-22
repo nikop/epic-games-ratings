@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
     "PcReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 33,
+  "EOS_Progressed": 34,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -161,6 +161,11 @@
       "Time": "2023-05-22T05:05:24.0548491+00:00",
       "NumProgressed": 33,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T10:05:44.1828284+00:00",
+      "NumProgressed": 34,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 34,
@@ -186,7 +191,7 @@
       "ID": "Ach_BossDarkPoulpe",
       "SetID": "4o5gjp0",
       "Name": "Squid game",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -202,7 +207,7 @@
       "ID": "Ach_BossGolem",
       "SetID": "4o5gjp0",
       "Name": "Rock Solid",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -210,7 +215,7 @@
       "ID": "Ach_BossSlug",
       "SetID": "4o5gjp0",
       "Name": "\u0022Swoosh\u0022",
-      "Percentage": 61,
+      "Percentage": 59,
       "XP": 20,
       "UsersEstimate": 20
     },
@@ -234,7 +239,7 @@
       "ID": "Ach_BuyHut",
       "SetID": "4o5gjp0",
       "Name": "Pigeon",
-      "Percentage": 82,
+      "Percentage": 79,
       "XP": 10,
       "UsersEstimate": 27
     },
@@ -250,15 +255,15 @@
       "ID": "Ach_DarkPoulpeConstellation",
       "SetID": "4o5gjp0",
       "Name": "The beast within",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Ach_DeathXTime",
       "SetID": "4o5gjp0",
       "Name": "Masochistic",
-      "Percentage": 52,
+      "Percentage": 50,
       "XP": 30,
       "UsersEstimate": 17
     },
@@ -266,7 +271,7 @@
       "ID": "Ach_DiscoveryCatacombes",
       "SetID": "4o5gjp0",
       "Name": "A bottomless pit",
-      "Percentage": 82,
+      "Percentage": 79,
       "XP": 10,
       "UsersEstimate": 27
     },
@@ -274,7 +279,7 @@
       "ID": "Ach_DiscoveryCaverns",
       "SetID": "4o5gjp0",
       "Name": "The light at the end of the tunnel",
-      "Percentage": 61,
+      "Percentage": 59,
       "XP": 10,
       "UsersEstimate": 20
     },
@@ -282,9 +287,9 @@
       "ID": "Ach_DiscoveryCelestialIsland",
       "SetID": "4o5gjp0",
       "Name": "Rooftop",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Ach_DiscoveryFinalTower",
@@ -298,7 +303,7 @@
       "ID": "Ach_DiscoveryTemple",
       "SetID": "4o5gjp0",
       "Name": "It\u0027s getting dark",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -308,7 +313,7 @@
       "Name": "A path of no return",
       "Percentage": 103,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "Ach_DiveDeath",
@@ -330,7 +335,7 @@
       "ID": "Ach_EnnemyDeathByEnnemy",
       "SetID": "4o5gjp0",
       "Name": "Baited",
-      "Percentage": 73,
+      "Percentage": 71,
       "XP": 30,
       "UsersEstimate": 24
     },
@@ -354,7 +359,7 @@
       "ID": "Ach_FirstGolem",
       "SetID": "4o5gjp0",
       "Name": "Soft skin",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -362,23 +367,23 @@
       "ID": "Ach_HutLay",
       "SetID": "4o5gjp0",
       "Name": "Homeless",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Ach_IslandExplo",
       "SetID": "4o5gjp0",
       "Name": "Big badaboom!",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Ach_LavaDeath",
       "SetID": "4o5gjp0",
       "Name": "Splash!",
-      "Percentage": 67,
+      "Percentage": 65,
       "XP": 30,
       "UsersEstimate": 22
     },
@@ -426,7 +431,7 @@
       "ID": "Ach_StunGolemFly",
       "SetID": "4o5gjp0",
       "Name": "Hard Rock",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
       "UsersEstimate": 10
     },
@@ -434,7 +439,7 @@
       "ID": "Ach_TalkToLostSoul",
       "SetID": "4o5gjp0",
       "Name": "Sensitive soul",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 30,
       "UsersEstimate": 13
     }
@@ -443,14 +448,14 @@
     {
       "ID": "4o5gjp0",
       "IsBase": true,
-      "Progressed": 33,
+      "Progressed": 34,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-05-22T09:06:16.5695714+00:00",
+  "LastChanged_Achievements": "2023-05-22T10:05:44.1828279+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.0525193+00:00",
-  "LastUpdate_Ratings": "2023-05-22T08:58:09.8718349+00:00",
-  "LastUpdate_Achievements": "2023-05-22T09:06:16.5696164+00:00"
+  "LastUpdate_Ratings": "2023-05-22T09:58:13.3259364+00:00",
+  "LastUpdate_Achievements": "2023-05-22T10:05:44.1828527+00:00"
 }

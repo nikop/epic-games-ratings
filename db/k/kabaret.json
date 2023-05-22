@@ -2,10 +2,10 @@
   "ID": "2b94ba4a1f1f4d8aa5b85ecdeef1f33e",
   "Name": "Kabaret",
   "ProductSlug": "kabaret-4810f9",
-  "Ranking_EOS_Progress": 329,
+  "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-04-05T16:00:00+00:00",
     "PcReleaseDate": "2023-04-05T16:00:00+00:00",
@@ -83,9 +83,9 @@
       "ID": "11",
       "SetID": "37jn7be",
       "Name": "Losing A Small, Good Thing",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "12",
@@ -187,9 +187,9 @@
       "ID": "23",
       "SetID": "37jn7be",
       "Name": "In Service Of Others",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "24",
@@ -291,9 +291,9 @@
       "ID": "35",
       "SetID": "37jn7be",
       "Name": "There\u0027s Something About You...",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "36",
@@ -339,9 +339,9 @@
       "ID": "40",
       "SetID": "37jn7be",
       "Name": "A Foot In Reality",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "41",
@@ -363,9 +363,9 @@
       "ID": "43",
       "SetID": "37jn7be",
       "Name": "To Live And Die Free",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "44",
@@ -379,9 +379,9 @@
       "ID": "45",
       "SetID": "37jn7be",
       "Name": "Power Of Friendship",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "46",
@@ -419,9 +419,9 @@
       "ID": "5",
       "SetID": "37jn7be",
       "Name": "An End To History",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "50",
@@ -507,9 +507,9 @@
       "ID": "6",
       "SetID": "37jn7be",
       "Name": "Clipped Wings",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "60",
@@ -579,9 +579,9 @@
       "ID": "7",
       "SetID": "37jn7be",
       "Name": "Lady In The Book",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "8",
@@ -612,8 +612,8 @@
   "FirstSeenRating": "2023-04-29T22:57:51.702813+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:15.0612299+00:00",
   "LastChanged": "2023-04-29T22:57:51.7028131+00:00",
-  "LastChanged_Achievements": "2023-05-22T09:06:18.5080121+00:00",
+  "LastChanged_Achievements": "2023-05-22T10:05:46.1956434+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.1178962+00:00",
-  "LastUpdate_Ratings": "2023-05-22T08:58:17.2810389+00:00",
-  "LastUpdate_Achievements": "2023-05-22T09:06:18.508131+00:00"
+  "LastUpdate_Ratings": "2023-05-22T09:58:17.9117536+00:00",
+  "LastUpdate_Achievements": "2023-05-22T10:05:46.2072183+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -4779,7 +4779,7 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 42747,
+  "EOS_Progressed": 42748,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 375,
   "EOS_NewCompleters": 0,
@@ -7254,6 +7254,11 @@
       "Time": "2023-05-22T08:06:32.1254373+00:00",
       "NumProgressed": 42747,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-22T10:06:17.8538482+00:00",
+      "NumProgressed": 42748,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 43,
@@ -7345,7 +7350,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 27358
+      "UsersEstimate": 27359
     },
     {
       "ID": "CutTree",
@@ -7449,7 +7454,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 20091
+      "UsersEstimate": 20092
     },
     {
       "ID": "Mission",
@@ -7521,7 +7526,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 24793
+      "UsersEstimate": 24794
     },
     {
       "ID": "PetDog",
@@ -7569,7 +7574,7 @@
       "Name": "Field Trip",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 18381
+      "UsersEstimate": 18382
     },
     {
       "ID": "TruckDriving",
@@ -7608,15 +7613,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 42747,
+      "Progressed": 42748,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-05-22T08:00:15.6068693+00:00",
-  "LastChanged_Achievements": "2023-05-22T09:06:41.5600868+00:00",
+  "LastChanged_Achievements": "2023-05-22T10:06:17.8538478+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:04:56.3875149+00:00",
-  "LastUpdate_Ratings": "2023-05-22T09:00:09.6657357+00:00",
-  "LastUpdate_Achievements": "2023-05-22T09:06:41.5601544+00:00"
+  "LastUpdate_Ratings": "2023-05-22T10:00:11.263258+00:00",
+  "LastUpdate_Achievements": "2023-05-22T10:06:17.8538849+00:00"
 }

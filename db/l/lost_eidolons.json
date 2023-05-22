@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 879,
+  "EOS_Progressed": 880,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -333,6 +333,11 @@
       "Time": "2023-05-22T07:05:29.2161087+00:00",
       "NumProgressed": 879,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T10:06:17.6113804+00:00",
+      "NumProgressed": 880,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -382,9 +387,9 @@
       "ID": "06",
       "SetID": "73ikgfc",
       "Name": "First Blood",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 571
+      "UsersEstimate": 563
     },
     {
       "ID": "07",
@@ -414,9 +419,9 @@
       "ID": "10",
       "SetID": "73ikgfc",
       "Name": "Huntmaster",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 193
+      "UsersEstimate": 185
     },
     {
       "ID": "11",
@@ -472,7 +477,7 @@
       "Name": "Ready to Learn",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "18",
@@ -520,14 +525,14 @@
       "Name": "Complete the sidequest \u0027Malice and Greed\u0027",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     }
   ],
   "AchievementSets": [
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 879,
+      "Progressed": 880,
       "Completed": 0
     }
   ],
@@ -535,8 +540,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-05-22T09:06:41.346712+00:00",
+  "LastChanged_Achievements": "2023-05-22T10:06:17.6113799+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:05:01.1887177+00:00",
-  "LastUpdate_Ratings": "2023-05-22T09:00:14.3693276+00:00",
-  "LastUpdate_Achievements": "2023-05-22T09:06:41.3467371+00:00"
+  "LastUpdate_Ratings": "2023-05-22T10:00:16.1737906+00:00",
+  "LastUpdate_Achievements": "2023-05-22T10:06:17.6113922+00:00"
 }

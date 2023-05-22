@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 62,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3862,10 +3862,10 @@
       "Count": 3238
     }
   ],
-  "EOS_Progressed": 88285,
-  "EOS_Completed": 1861,
+  "EOS_Progressed": 88288,
+  "EOS_Completed": 1862,
   "EOS_NewPlayers": 718,
-  "EOS_NewCompleters": 18,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
     {
@@ -6907,6 +6907,11 @@
       "Time": "2023-05-22T09:07:01.0122563+00:00",
       "NumProgressed": 88285,
       "NumCompleted": 1861
+    },
+    {
+      "Time": "2023-05-22T10:06:36.4215064+00:00",
+      "NumProgressed": 88288,
+      "NumCompleted": 1862
     }
   ],
   "TotalAchievements": 493,
@@ -7284,9 +7289,9 @@
       "ID": "objective_completed_11",
       "SetID": "cc37lbc",
       "Name": "Beast Intentions",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 265
     },
     {
       "ID": "objective_completed_110",
@@ -10861,21 +10866,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54559,
-      "Completed": 2656
+      "Progressed": 54562,
+      "Completed": 2657
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88285,
-      "Completed": 1861
+      "Progressed": 88288,
+      "Completed": 1862
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-22T06:57:50.0096303+00:00",
-  "LastChanged_Achievements": "2023-05-22T09:07:01.0122555+00:00",
+  "LastChanged_Achievements": "2023-05-22T10:06:36.421506+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-22T08:58:19.043914+00:00",
-  "LastUpdate_Achievements": "2023-05-22T09:07:01.0152218+00:00"
+  "LastUpdate_Ratings": "2023-05-22T09:58:19.6914224+00:00",
+  "LastUpdate_Achievements": "2023-05-22T10:06:36.4236757+00:00"
 }

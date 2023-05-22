@@ -23,9 +23,11 @@
 | 15K | 2.00% | ~1 |
 | Skin Of Your Teeth | 2.00% | ~1 |
 | Pro Pyromancer | 2.00% | ~1 |
+| Eggtraordinary | 2.00% | ~1 |
 | No Asperascope | 2.00% | ~1 |
 | 10K | 2.00% | ~1 |
 | Triple Kill | 2.00% | ~1 |
+| Cornivore | 2.00% | ~1 |
 | King of the Crow | 2.00% | ~0 |
 | Berry Loved | 2.00% | ~0 |
 | Carrocket From Above | 2.00% | ~0 |
@@ -67,12 +69,10 @@
 | Pro Digger | 0.00% | ~0 |
 | Pro Sniperagus | 0.00% | ~0 |
 | Pork Chop Express | 0.00% | ~0 |
-| Eggtraordinary | 0.00% | ~0 |
 | Gnome Thief | 0.00% | ~0 |
 | Unstoppable | 0.00% | ~0 |
 | Pum-King | 0.00% | ~0 |
 | Carrocketeer | 0.00% | ~0 |
-| Cornivore | 0.00% | ~0 |
 | First Place | 0.00% | ~0 |
 | Prestige 2 - Country Bumpkin | 0.00% | ~0 |
 | Prestige 3 - Planter | 0.00% | ~0 |

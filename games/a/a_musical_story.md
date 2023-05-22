@@ -19,20 +19,20 @@
 | Love at First Sight | 41.00% | ~23 |
 | First Kiss | 38.00% | ~21 |
 | A Bigger Band | 34.00% | ~19 |
-| Symbiosis | 32.00% | ~18 |
+| Symbiosis | 34.00% | ~19 |
 | Fuel | 30.00% | ~17 |
 | Alone Together | 29.00% | ~16 |
 | Threatening Nature | 27.00% | ~15 |
-| TV Dreams | 25.00% | ~14 |
+| TV Dreams | 27.00% | ~15 |
 | Flat Tire | 23.00% | ~13 |
 | The Clash | 21.00% | ~12 |
 | Dreamers | 20.00% | ~11 |
 | The Fix | 16.00% | ~9 |
 | Regrets | 14.00% | ~8 |
 | The Accident | 14.00% | ~8 |
+| Time | 13.00% | ~7 |
 | The Awakening | 13.00% | ~7 |
 | The Mountains, The Valleys | 13.00% | ~7 |
-| Time | 11.00% | ~6 |
 | Bad Trip | 11.00% | ~6 |
 | Love | 11.00% | ~6 |
 | Here we go again! | 11.00% | ~6 |

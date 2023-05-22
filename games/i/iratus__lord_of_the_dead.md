@@ -7,18 +7,18 @@ Number of Ratings: 10,109  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Improvement | 85.00% | ~25,010 |
-| Blood Moon | 73.00% | ~21,479 |
-| Path of the Necromancer | 65.00% | ~19,125 |
+| Blood Moon | 73.00% | ~21,480 |
+| Path of the Necromancer | 65.00% | ~19,126 |
 | Chainbreaker - I | 60.00% | ~17,654 |
-| Cursed Creature | 57.00% | ~16,771 |
-| Extraction | 57.00% | ~16,771 |
+| Cursed Creature | 57.00% | ~16,772 |
+| Extraction | 57.00% | ~16,772 |
 | Chainbreaker - II | 55.00% | ~16,183 |
 | Necromancer's Apprentice | 51.00% | ~15,006 |
 | Keeper of Keys | 47.00% | ~13,829 |
 | Distillation | 43.00% | ~12,652 |
 | Mountain King - I | 42.00% | ~12,358 |
 | Transmutation | 42.00% | ~12,358 |
-| Prepared Necromancer | 40.00% | ~11,769 |
+| Prepared Necromancer | 40.00% | ~11,770 |
 | Mountain King - II | 39.00% | ~11,475 |
 | Blind Rage | 38.00% | ~11,181 |
 | Mad Genius | 35.00% | ~10,298 |
@@ -28,13 +28,13 @@ Number of Ratings: 10,109  (23.09.2022)
 | Bane of Mercenaries - II | 31.00% | ~9,121 |
 | Cannon Fodder - II | 29.00% | ~8,533 |
 | Shadow Between Worlds | 29.00% | ~8,533 |
-| Bane of Monsters | 28.00% | ~8,238 |
+| Bane of Monsters | 28.00% | ~8,239 |
 | Chainbreaker - III | 27.00% | ~7,944 |
 | Revealed Secrets - I | 27.00% | ~7,944 |
 | Revealed Secrets - II | 26.00% | ~7,650 |
 | Blood Elemental | 24.00% | ~7,062 |
-| Unholy Bones | 23.00% | ~6,767 |
-| Lord of Fire | 23.00% | ~6,767 |
+| Unholy Bones | 23.00% | ~6,768 |
+| Lord of Fire | 23.00% | ~6,768 |
 | Cannon Fodder - III | 22.00% | ~6,473 |
 | Spiritual Attraction | 22.00% | ~6,473 |
 | Uncommon Warrior | 22.00% | ~6,473 |
@@ -47,8 +47,8 @@ Number of Ratings: 10,109  (23.09.2022)
 | Blood Mage | 17.00% | ~5,002 |
 | Wild Hunger | 16.00% | ~4,708 |
 | Rage Concentrated | 16.00% | ~4,708 |
-| Mountain King - III | 15.00% | ~4,413 |
-| Rare Warrior | 15.00% | ~4,413 |
+| Mountain King - III | 15.00% | ~4,414 |
+| Rare Warrior | 15.00% | ~4,414 |
 | Grand Arena | 14.00% | ~4,119 |
 | Blood Madness | 13.00% | ~3,825 |
 | First Sacrifice | 13.00% | ~3,825 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.60% | ~177 |
 | Renowned Researcher | 0.10% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,423 (Ranked 86)  
+Progressed: 29,424 (Ranked 86)  
 Completed: 15 (0.05%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 15 (0.05%) (Ranked 174)
 | 2023-05-19 | 29,051 | 14 |
 | 2023-05-20 | 29,230 | 14 |
 | 2023-05-21 | 29,386 | 14 |
-| 2023-05-22 | 29,423 | 15 |
+| 2023-05-22 | 29,424 | 15 |
 ## Awards
 Max (Character Customization): 2,134  (Ranked 101)  
 Sum: 4,135 (Ranked 131)  

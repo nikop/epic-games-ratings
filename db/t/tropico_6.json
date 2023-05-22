@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -852,9 +852,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 3013,
+  "EOS_Progressed": 3014,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2562,6 +2562,11 @@
       "Time": "2023-05-22T08:06:45.6860661+00:00",
       "NumProgressed": 3013,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-22T10:06:30.7207464+00:00",
+      "NumProgressed": 3014,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2597,7 +2602,7 @@
       "Name": "Happy Ending?",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -2693,7 +2698,7 @@
       "Name": "Number 18",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -2725,7 +2730,7 @@
       "Name": "The Governator",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -2733,7 +2738,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2320
+      "UsersEstimate": 2321
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -2829,7 +2834,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 1476
+      "UsersEstimate": 1477
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -2892,15 +2897,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3013,
+      "Progressed": 3014,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-15T17:00:44.7999652+00:00",
-  "LastChanged_Achievements": "2023-05-22T09:06:55.0279212+00:00",
+  "LastChanged_Achievements": "2023-05-22T10:06:30.7207459+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:57.2781106+00:00",
-  "LastUpdate_Ratings": "2023-05-22T09:00:47.1961907+00:00",
-  "LastUpdate_Achievements": "2023-05-22T09:06:55.0279896+00:00"
+  "LastUpdate_Ratings": "2023-05-22T10:00:47.3693616+00:00",
+  "LastUpdate_Achievements": "2023-05-22T10:06:30.72078+00:00"
 }

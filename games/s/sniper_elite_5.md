@@ -5,9 +5,9 @@ Rating: 4.40 (Ranked 674)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 12.00% | ~139 |
+| Meeting Resistance | 12.00% | ~140 |
 | Confirming Suspicions | 7.00% | ~81 |
-| The Kraken Wakes | 4.00% | ~46 |
+| The Kraken Wakes | 4.00% | ~47 |
 | Enemy at the Gates | 3.00% | ~35 |
 | Lord of War | 3.00% | ~35 |
 | Resourceful | 3.00% | ~35 |
@@ -29,10 +29,10 @@ Rating: 4.40 (Ranked 674)
 | Liberté | 0.80% | ~9 |
 | Sharpshooter | 0.80% | ~9 |
 | The Long Game | 0.80% | ~9 |
+| Fields of Glory | 0.70% | ~8 |
 | Skirmisher | 0.70% | ~8 |
 | Der Geist | 0.70% | ~8 |
 | Climbing the Ladder | 0.60% | ~7 |
-| Fields of Glory | 0.60% | ~7 |
 | Set Europe Ablaze | 0.60% | ~7 |
 | Rigged to Blow | 0.40% | ~5 |
 | It'll Buff Right Out | 0.40% | ~5 |
@@ -77,7 +77,7 @@ Rating: 4.40 (Ranked 674)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,159 (Ranked 159)  
+Progressed: 1,164 (Ranked 159)  
 Completed: 2 (0.17%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 2 (0.17%) (Ranked 144)
 | 2023-05-19 | 833 | 2 |
 | 2023-05-20 | 984 | 2 |
 | 2023-05-21 | 1,126 | 2 |
-| 2023-05-22 | 1,159 | 2 |
+| 2023-05-22 | 1,164 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

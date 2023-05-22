@@ -20,11 +20,11 @@
 | Isn't It Beautiful? | 15.00% | ~5 |
 | A Generous Leader | 15.00% | ~5 |
 | A Terrible Way to Go | 15.00% | ~5 |
+| My Precious Gems! | 12.00% | ~4 |
 | Final Announcement | 12.00% | ~4 |
 | How Do You Like Them Apples? | 12.00% | ~4 |
 | Gotta Collect Them All | 9.00% | ~3 |
 | Keeping Things Tidy | 9.00% | ~3 |
-| My Precious Gems! | 9.00% | ~3 |
 | Scheming Away | 9.00% | ~3 |
 | Dr. Dreinstein III | 9.00% | ~3 |
 | Eremagu Trial Extraordinaire | 9.00% | ~3 |
@@ -56,7 +56,7 @@
 | With a Little Help from My Friends | 9.00% | ~3 |
 | The More the Merrier | 9.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33 (Ranked 297)  
+Progressed: 33 (Ranked 298)  
 Completed: 3 (9.09%) (Ranked 14)  
 ## EOS Players History
 | Date | Progressed | Completed |
