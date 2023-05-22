@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
     "PcReleaseDate": "2019-04-15T00:00:00+00:00",
@@ -267,7 +267,7 @@
   ],
   "EOS_Progressed": 712,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -396,9 +396,9 @@
       "ID": "AchievementAstronomer",
       "SetID": "76o014g",
       "Name": "Astronomer",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "AchievementAstrophysicist",
@@ -978,8 +978,8 @@
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-05-04T07:57:22.9551284+00:00",
-  "LastChanged_Achievements": "2023-05-22T08:06:28.6887763+00:00",
+  "LastChanged_Achievements": "2023-05-22T09:06:38.0530836+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:00.6806293+00:00",
-  "LastUpdate_Ratings": "2023-05-22T07:57:37.9861473+00:00",
-  "LastUpdate_Achievements": "2023-05-22T08:06:28.6888715+00:00"
+  "LastUpdate_Ratings": "2023-05-22T08:57:38.9060219+00:00",
+  "LastUpdate_Achievements": "2023-05-22T09:06:38.0531654+00:00"
 }

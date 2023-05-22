@@ -51,11 +51,11 @@ Number of Ratings: 87  (23.09.2022)
 | Squander | 1.00% | ~7 |
 | Stargazer | 1.00% | ~7 |
 | Vandal | 1.00% | ~7 |
+| Astronomer | 0.80% | ~6 |
 | Atomic Age | 0.80% | ~0 |
 | Information Age | 0.80% | ~0 |
 | Innovator | 0.80% | ~6 |
 | Prick of conscience | 0.80% | ~6 |
-| Astronomer | 0.70% | ~5 |
 | At the last moment! | 0.70% | ~5 |
 | Digital Age | 0.70% | ~0 |
 | Railroad tycoon | 0.70% | ~5 |

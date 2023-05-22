@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -643,9 +643,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 29674,
+  "EOS_Progressed": 29676,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 572,
+  "EOS_NewPlayers": 574,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3598,6 +3598,11 @@
       "Time": "2023-05-22T08:01:33.883339+00:00",
       "NumProgressed": 29674,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-22T09:01:27.3970182+00:00",
+      "NumProgressed": 29676,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -3769,7 +3774,7 @@
       "Name": "Roaring Rise",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "ach_hunterskeep",
@@ -3785,7 +3790,7 @@
       "Name": "I am the Captain of my Soul",
       "Percentage": 2,
       "XP": 70,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "ach_ladylilac",
@@ -3817,7 +3822,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 4154
+      "UsersEstimate": 4155
     },
     {
       "ID": "ach_legacysalvager",
@@ -3961,7 +3966,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5341
+      "UsersEstimate": 5342
     },
     {
       "ID": "ach_terror100",
@@ -4040,15 +4045,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 29674,
+      "Progressed": 29676,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-05-16T03:00:31.6712899+00:00",
-  "LastChanged_Achievements": "2023-05-22T08:01:33.8833382+00:00",
+  "LastChanged_Achievements": "2023-05-22T09:01:27.397017+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:16.1571391+00:00",
-  "LastUpdate_Ratings": "2023-05-22T08:00:14.7616597+00:00",
-  "LastUpdate_Achievements": "2023-05-22T08:01:33.8834374+00:00"
+  "LastUpdate_Ratings": "2023-05-22T09:00:08.2619421+00:00",
+  "LastUpdate_Achievements": "2023-05-22T09:01:27.3971074+00:00"
 }

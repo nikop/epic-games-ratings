@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46711,
+  "EOS_Progressed": 46715,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 533,
+  "EOS_NewPlayers": 537,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2181,6 +2181,11 @@
       "Time": "2023-05-22T08:06:18.8817517+00:00",
       "NumProgressed": 46711,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-05-22T09:06:27.95289+00:00",
+      "NumProgressed": 46715,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 67,
@@ -2192,7 +2197,7 @@
       "Name": "Follow the Light",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9342
+      "UsersEstimate": 9343
     },
     {
       "ID": "02",
@@ -2200,7 +2205,7 @@
       "Name": "Nordic Walking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6072
+      "UsersEstimate": 6073
     },
     {
       "ID": "03",
@@ -2208,7 +2213,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6072
+      "UsersEstimate": 6073
     },
     {
       "ID": "04",
@@ -2224,7 +2229,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5138
+      "UsersEstimate": 5139
     },
     {
       "ID": "06",
@@ -2320,7 +2325,7 @@
       "Name": "Departure",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1868
+      "UsersEstimate": 1869
     },
     {
       "ID": "18",
@@ -2464,7 +2469,7 @@
       "Name": "Let There Be Light",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7941
+      "UsersEstimate": 7942
     },
     {
       "ID": "36",
@@ -2528,7 +2533,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 4671
+      "UsersEstimate": 4672
     },
     {
       "ID": "44",
@@ -2592,7 +2597,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "52",
@@ -2727,21 +2732,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46711,
+      "Progressed": 46715,
       "Completed": 45
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 10179,
+      "Progressed": 10183,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-22T08:06:18.8817493+00:00",
+  "LastChanged_Achievements": "2023-05-22T09:06:27.9528891+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:07.5579983+00:00",
-  "LastUpdate_Ratings": "2023-05-22T07:57:49.1338092+00:00",
-  "LastUpdate_Achievements": "2023-05-22T08:06:18.881843+00:00"
+  "LastUpdate_Ratings": "2023-05-22T08:57:47.3491469+00:00",
+  "LastUpdate_Achievements": "2023-05-22T09:06:27.9530228+00:00"
 }

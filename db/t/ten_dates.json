@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 74,
   "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
     "PcReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -236,9 +236,9 @@
       "ID": "success_jake",
       "SetID": "6h5h9ho",
       "Name": "The nice guy",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "success_kathleen",
@@ -293,8 +293,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2023-05-22T08:06:01.9093615+00:00",
+  "LastChanged_Achievements": "2023-05-22T09:06:10.5022058+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:57.7443793+00:00",
-  "LastUpdate_Ratings": "2023-05-22T07:57:31.6354198+00:00",
-  "LastUpdate_Achievements": "2023-05-22T08:06:01.9093778+00:00"
+  "LastUpdate_Ratings": "2023-05-22T08:57:32.757976+00:00",
+  "LastUpdate_Achievements": "2023-05-22T09:06:10.5022302+00:00"
 }

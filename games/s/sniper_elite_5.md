@@ -5,7 +5,7 @@ Rating: 4.40 (Ranked 674)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 12.00% | ~138 |
+| Meeting Resistance | 12.00% | ~139 |
 | Confirming Suspicions | 7.00% | ~81 |
 | The Kraken Wakes | 4.00% | ~46 |
 | Enemy at the Gates | 3.00% | ~35 |
@@ -18,14 +18,14 @@ Rating: 4.40 (Ranked 674)
 | As Quiet as a Mouse | 2.00% | ~23 |
 | Change the Channel | 2.00% | ~23 |
 | Opposing Force | 1.00% | ~12 |
-| Gunslinger | 1.00% | ~12 |
 | Die Nussknacker Sweet! | 1.00% | ~12 |
 | Close Quarters | 1.00% | ~12 |
 | Snake in the Grass | 1.00% | ~12 |
-| Taking it back | 1.00% | ~12 |
 | Target America | 1.00% | ~12 |
-| The Kraken Sleeps | 1.00% | ~12 |
+| Gunslinger | 0.90% | ~10 |
 | Precision Is Key | 0.90% | ~10 |
+| Taking it back | 0.90% | ~10 |
+| The Kraken Sleeps | 0.90% | ~10 |
 | Liberté | 0.80% | ~9 |
 | Sharpshooter | 0.80% | ~9 |
 | The Long Game | 0.80% | ~9 |
@@ -77,7 +77,7 @@ Rating: 4.40 (Ranked 674)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,154 (Ranked 159)  
+Progressed: 1,159 (Ranked 159)  
 Completed: 2 (0.17%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 2 (0.17%) (Ranked 144)
 | 2023-05-19 | 833 | 2 |
 | 2023-05-20 | 984 | 2 |
 | 2023-05-21 | 1,126 | 2 |
-| 2023-05-22 | 1,154 | 2 |
+| 2023-05-22 | 1,159 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 106,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5175,
+  "EOS_Progressed": 5176,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -1548,6 +1548,11 @@
       "Time": "2023-05-22T08:01:55.6789798+00:00",
       "NumProgressed": 5175,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-22T09:01:49.0743527+00:00",
+      "NumProgressed": 5176,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -1559,7 +1564,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4295
+      "UsersEstimate": 4296
     },
     {
       "ID": "ACH02",
@@ -1631,7 +1636,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1398
     },
     {
       "ID": "ACH11",
@@ -1703,7 +1708,7 @@
       "Name": "A Gift from the King",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "ACH20",
@@ -1790,7 +1795,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 5175,
+      "Progressed": 5176,
       "Completed": 26
     }
   ],
@@ -1798,8 +1803,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-12T16:57:58.7220785+00:00",
-  "LastChanged_Achievements": "2023-05-22T08:01:55.6789791+00:00",
+  "LastChanged_Achievements": "2023-05-22T09:01:49.0743514+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:31.8748782+00:00",
-  "LastUpdate_Ratings": "2023-05-22T07:58:09.4285034+00:00",
-  "LastUpdate_Achievements": "2023-05-22T08:01:55.6790149+00:00"
+  "LastUpdate_Ratings": "2023-05-22T08:58:07.1517314+00:00",
+  "LastUpdate_Achievements": "2023-05-22T09:01:49.0744011+00:00"
 }

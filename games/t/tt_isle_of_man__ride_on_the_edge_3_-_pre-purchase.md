@@ -14,6 +14,7 @@
 | Serial Winner | 7.00% | ~3 |
 | No Room for Improvement | 7.00% | ~3 |
 | Upgradeaholic | 7.00% | ~3 |
+| Tailor-Made for Two | 7.00% | ~3 |
 | Playing God | 7.00% | ~3 |
 | Say My Name | 5.00% | ~2 |
 | Nerd | 5.00% | ~2 |
@@ -21,7 +22,6 @@
 | First and Foremost | 5.00% | ~2 |
 | Made Mother Proud | 5.00% | ~2 |
 | Winner Winner Chicken Dinner | 5.00% | ~2 |
-| Tailor-Made for Two | 5.00% | ~2 |
 | Lone Wolf | 5.00% | ~2 |
 | Déjà-Vu | 2.00% | ~1 |
 | Golden Ratio | 2.00% | ~1 |

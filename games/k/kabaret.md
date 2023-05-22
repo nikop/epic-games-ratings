@@ -9,17 +9,20 @@
 | Welcome To The Kabaret | 50.00% | ~5 |
 | Congkak Hero | 40.00% | ~4 |
 | Congkak Champion | 40.00% | ~4 |
+| An Unheard Song | 40.00% | ~4 |
 | Let There Be Light | 40.00% | ~4 |
+| All Alone With A Curse | 40.00% | ~4 |
 | Equality | 30.00% | ~3 |
 | Goodbye Dear Friend | 30.00% | ~3 |
-| An Unheard Song | 30.00% | ~3 |
 | By My Own Hands | 30.00% | ~3 |
-| All Alone With A Curse | 30.00% | ~3 |
 | Strangers You Meet | 20.00% | ~2 |
 | I'll Become... A Beast | 20.00% | ~2 |
 | True Potential Unlocked | 20.00% | ~2 |
 | Guli Novice | 20.00% | ~2 |
 | Guli Pro | 20.00% | ~2 |
+| Guli Master | 20.00% | ~2 |
+| Congkak Legend | 20.00% | ~2 |
+| Deep Thinker | 20.00% | ~2 |
 | Squashed Bug | 20.00% | ~2 |
 | Till Death Do We... | 20.00% | ~2 |
 | Eating A Dead Flower | 20.00% | ~2 |
@@ -30,12 +33,9 @@
 | Losing A Small, Good Thing | 10.00% | ~1 |
 | Faithful Follower | 10.00% | ~1 |
 | Rebel To God | 10.00% | ~1 |
-| Guli Master | 10.00% | ~1 |
-| Congkak Legend | 10.00% | ~1 |
 | In Service Of Others | 10.00% | ~1 |
 | Expert Service | 10.00% | ~1 |
 | Human Supremacy | 10.00% | ~1 |
-| Deep Thinker | 10.00% | ~1 |
 | Face Value | 10.00% | ~1 |
 | Uncommitted | 10.00% | ~1 |
 | Thou Art Naive | 10.00% | ~1 |

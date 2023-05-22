@@ -5,11 +5,11 @@ Rating: 4.24 (Ranked 790)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,268 |
-| Don't I Know You...? | 77.00% | ~1,220 |
-| Jailbreak | 66.00% | ~1,046 |
-| Suited and Booted | 38.00% | ~602 |
-| HEADSHOT! | 37.00% | ~586 |
+| Rigged And Ready | 80.00% | ~1,269 |
+| Don't I Know You...? | 77.00% | ~1,221 |
+| Jailbreak | 66.00% | ~1,047 |
+| Suited and Booted | 38.00% | ~603 |
+| HEADSHOT! | 37.00% | ~587 |
 | Sleeping With The Fishes | 35.00% | ~555 |
 | Overheated | 30.00% | ~476 |
 | High Performance | 30.00% | ~476 |
@@ -25,7 +25,7 @@ Rating: 4.24 (Ranked 790)
 | Unforeseeable Consequences | 19.00% | ~301 |
 | Dead Again | 18.00% | ~285 |
 | Clean Cut | 18.00% | ~285 |
-| Full Arsenal | 17.00% | ~269 |
+| Full Arsenal | 17.00% | ~270 |
 | Can't Trust Banks | 16.00% | ~254 |
 | Mommy Dearest | 13.00% | ~206 |
 | Bad Dog | 13.00% | ~206 |
@@ -35,7 +35,7 @@ Rating: 4.24 (Ranked 790)
 | Marked For Success | 12.00% | ~190 |
 | Sorry, Didn't See You There | 12.00% | ~190 |
 | Corrupted Beauty | 11.00% | ~174 |
-| Triplets | 10.00% | ~158 |
+| Triplets | 10.00% | ~159 |
 | Denying Prophecy | 9.00% | ~143 |
 | Stimulating The Local Economy | 9.00% | ~143 |
 | A Little Banged Up | 8.00% | ~127 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 790)
 | Swiss Army Drone | 1.00% | ~16 |
 | Three Birds With One Stone | 1.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,585 (Ranked 151)  
+Progressed: 1,586 (Ranked 151)  
 Completed: 10 (0.63%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 10 (0.63%) (Ranked 103)
 | 2023-05-19 | 1,566 | 10 |
 | 2023-05-20 | 1,575 | 10 |
 | 2023-05-21 | 1,584 | 10 |
-| 2023-05-22 | 1,585 | 10 |
+| 2023-05-22 | 1,586 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

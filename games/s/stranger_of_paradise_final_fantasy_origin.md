@@ -6,39 +6,39 @@ Number of Ratings: 1,919  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Manifestation of the Soul | 97.00% | ~75,903 |
-| No Escape | 86.00% | ~67,296 |
-| Seeker of Power | 85.00% | ~66,513 |
-| Hopes and Dreams | 82.00% | ~64,166 |
-| Lantern Smasher | 78.00% | ~61,036 |
-| The Pirate's Way | 73.00% | ~57,123 |
-| Dark Crystal, Warrior's Heart | 71.00% | ~55,558 |
+| Manifestation of the Soul | 97.00% | ~75,904 |
+| No Escape | 86.00% | ~67,297 |
+| Seeker of Power | 85.00% | ~66,514 |
+| Hopes and Dreams | 82.00% | ~64,167 |
+| Lantern Smasher | 78.00% | ~61,037 |
+| The Pirate's Way | 73.00% | ~57,124 |
+| Dark Crystal, Warrior's Heart | 71.00% | ~55,559 |
 | The King of the Dark Elves | 68.00% | ~53,211 |
 | Memories of the Distant Past | 66.00% | ~51,646 |
-| Distortion's Progeny | 63.00% | ~49,298 |
+| Distortion's Progeny | 63.00% | ~49,299 |
 | Savant | 62.00% | ~48,516 |
 | A Landscape of Memory | 58.00% | ~45,386 |
 | The Wind's Light | 54.00% | ~42,256 |
 | Vague Remembrances | 49.00% | ~38,343 |
 | The Fire's Light | 47.00% | ~36,778 |
-| Phantom Memories | 46.00% | ~35,995 |
-| Imbued Memories | 46.00% | ~35,995 |
+| Phantom Memories | 46.00% | ~35,996 |
+| Imbued Memories | 46.00% | ~35,996 |
 | The Earth's Light | 45.00% | ~35,213 |
 | Shared Recollections | 41.00% | ~32,083 |
-| Path of the Sage | 40.00% | ~31,300 |
+| Path of the Sage | 40.00% | ~31,301 |
 | The Water's Light | 39.00% | ~30,518 |
 | Malice Takes Root | 37.00% | ~28,953 |
 | Path of the Dark Knight | 37.00% | ~28,953 |
 | Path of the Breaker | 37.00% | ~28,953 |
-| Path of the Paladin | 36.00% | ~28,170 |
+| Path of the Paladin | 36.00% | ~28,171 |
 | Duty's Course | 35.00% | ~27,388 |
 | Path of the Liberator | 35.00% | ~27,388 |
-| Led by the Nose | 34.00% | ~26,605 |
-| Path of the Void Knight | 34.00% | ~26,605 |
-| Path of the Tyrant | 34.00% | ~26,605 |
+| Led by the Nose | 34.00% | ~26,606 |
+| Path of the Void Knight | 34.00% | ~26,606 |
+| Path of the Tyrant | 34.00% | ~26,606 |
 | Path of the Ninja | 33.00% | ~25,823 |
-| Terminus of Fate | 32.00% | ~25,040 |
-| His Name Is Garland | 32.00% | ~25,040 |
+| Terminus of Fate | 32.00% | ~25,041 |
+| His Name Is Garland | 32.00% | ~25,041 |
 | Path of the Assassin | 31.00% | ~24,258 |
 | Seeker of Ultimate Power | 23.00% | ~17,998 |
 | Artifact Collector | 22.00% | ~17,215 |
@@ -53,7 +53,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | Strangers' Memories | 3.00% | ~2,348 |
 | A Tale of Origins and Endings | 2.00% | ~1,565 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,251 (Ranked 62)  
+Progressed: 78,252 (Ranked 62)  
 Completed: 2,130 (2.72%) (Ranked 53)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 2,130 (2.72%) (Ranked 53)
 | 2023-05-19 | 78,186 | 2,129 |
 | 2023-05-20 | 78,212 | 2,129 |
 | 2023-05-21 | 78,238 | 2,130 |
-| 2023-05-22 | 78,251 | 2,130 |
+| 2023-05-22 | 78,252 | 2,130 |
 ## Awards
 Max (Great Boss Battles): 753  (Ranked 151)  
 Sum: 1,551 (Ranked 204)  

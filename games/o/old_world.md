@@ -23,7 +23,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just | 55.00% | ~6,211 |
 | Keystone | 55.00% | ~6,211 |
 | Glorious | 53.00% | ~5,985 |
-| Trade Caravan | 52.00% | ~5,872 |
+| Trade Caravan | 53.00% | ~5,985 |
 | Naming Landmarks | 51.00% | ~5,759 |
 | Zoroastrianism | 50.00% | ~5,646 |
 | Learned | 49.00% | ~5,534 |

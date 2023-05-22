@@ -4,8 +4,8 @@
   "ProductSlug": "kabaret-4810f9",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 288,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-05T16:00:00+00:00",
     "PcReleaseDate": "2023-04-05T16:00:00+00:00",
@@ -147,9 +147,9 @@
       "ID": "19",
       "SetID": "37jn7be",
       "Name": "Guli Master",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "2",
@@ -179,9 +179,9 @@
       "ID": "22",
       "SetID": "37jn7be",
       "Name": "Congkak Legend",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "23",
@@ -227,9 +227,9 @@
       "ID": "28",
       "SetID": "37jn7be",
       "Name": "Deep Thinker",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "29",
@@ -323,9 +323,9 @@
       "ID": "39",
       "SetID": "37jn7be",
       "Name": "An Unheard Song",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "4",
@@ -595,9 +595,9 @@
       "ID": "9",
       "SetID": "37jn7be",
       "Name": "All Alone With A Curse",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
@@ -612,8 +612,8 @@
   "FirstSeenRating": "2023-04-29T22:57:51.702813+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:15.0612299+00:00",
   "LastChanged": "2023-04-29T22:57:51.7028131+00:00",
-  "LastChanged_Achievements": "2023-05-22T08:06:09.7502175+00:00",
+  "LastChanged_Achievements": "2023-05-22T09:06:18.5080121+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.1178962+00:00",
-  "LastUpdate_Ratings": "2023-05-22T07:58:16.9039251+00:00",
-  "LastUpdate_Achievements": "2023-05-22T08:06:09.7503013+00:00"
+  "LastUpdate_Ratings": "2023-05-22T08:58:17.2810389+00:00",
+  "LastUpdate_Achievements": "2023-05-22T09:06:18.508131+00:00"
 }

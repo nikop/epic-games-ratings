@@ -48,7 +48,7 @@ Rating: 4.52 (Ranked 503)
 | I'll Fight You All | 0.90% | ~29 |
 | The Grey Wizard | 0.30% | ~10 |
 | Returning Circle | 0.30% | ~10 |
-| Master of Evilness | 0.10% | ~3 |
+| Master of Evilness | 0.20% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,199 (Ranked 132)  
 Completed: 0 (0.00%) (Ranked 201)  

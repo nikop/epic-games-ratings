@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -100,9 +100,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1598,
+  "EOS_Progressed": 1599,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1440,6 +1440,11 @@
       "Time": "2023-05-22T03:05:16.9181333+00:00",
       "NumProgressed": 1598,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T09:06:29.8125782+00:00",
+      "NumProgressed": 1599,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1475,7 +1480,7 @@
       "Name": "Enter of Your Own Free Will",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "Achievement_006",
@@ -1499,7 +1504,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "Achievement_009",
@@ -1515,7 +1520,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "Achievement_011",
@@ -1587,7 +1592,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 1262
+      "UsersEstimate": 1263
     },
     {
       "ID": "Achievement_020",
@@ -1643,7 +1648,7 @@
       "Name": "Fly Fisher",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "Achievement_027",
@@ -1651,7 +1656,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "Achievement_028",
@@ -1667,7 +1672,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "Achievement_030",
@@ -1675,7 +1680,7 @@
       "Name": "ICU",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "Achievement_031",
@@ -1683,7 +1688,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "Achievement_032",
@@ -1707,7 +1712,7 @@
       "Name": "Catch and Release",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "Achievement_035",
@@ -1755,7 +1760,7 @@
       "Name": "Heart Attack",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "Achievement_041",
@@ -1787,7 +1792,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "Achievement_046",
@@ -1978,7 +1983,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1598,
+      "Progressed": 1599,
       "Completed": 0
     }
   ],
@@ -1986,8 +1991,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-21T03:57:51.8415336+00:00",
-  "LastChanged_Achievements": "2023-05-22T08:06:20.628593+00:00",
+  "LastChanged_Achievements": "2023-05-22T09:06:29.8125773+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:23.3271568+00:00",
-  "LastUpdate_Ratings": "2023-05-22T07:58:02.3872038+00:00",
-  "LastUpdate_Achievements": "2023-05-22T08:06:20.6286882+00:00"
+  "LastUpdate_Ratings": "2023-05-22T08:57:59.5824034+00:00",
+  "LastUpdate_Achievements": "2023-05-22T09:06:29.8127192+00:00"
 }
