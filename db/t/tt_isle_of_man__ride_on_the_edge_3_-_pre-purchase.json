@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 60,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -492,9 +492,9 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "gagif7",
       "Name": "You\u0027re Going Down!",
-      "Percentage": 95,
+      "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -547,8 +547,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-05-22T03:00:29.8281003+00:00",
+  "LastChanged_Achievements": "2023-05-22T04:01:43.6415199+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:05.2189133+00:00",
-  "LastUpdate_Ratings": "2023-05-22T02:57:24.6550889+00:00",
-  "LastUpdate_Achievements": "2023-05-22T03:00:29.8281579+00:00"
+  "LastUpdate_Ratings": "2023-05-22T03:57:35.5109216+00:00",
+  "LastUpdate_Achievements": "2023-05-22T04:01:43.6415556+00:00"
 }

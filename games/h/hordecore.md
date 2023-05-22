@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just Went Shopping | 98.00% | ~323 |
-| Decision Maker | 80.00% | ~264 |
-| Sneaky Sneak | 78.00% | ~257 |
-| DIY | 78.00% | ~257 |
-| Master Chef | 65.00% | ~214 |
+| Just Went Shopping | 98.00% | ~324 |
+| Decision Maker | 80.00% | ~265 |
+| Sneaky Sneak | 78.00% | ~258 |
+| DIY | 78.00% | ~258 |
+| Master Chef | 66.00% | ~218 |
 | Master of Cards | 59.00% | ~195 |
-| Over Nine Thousaaand | 57.00% | ~188 |
-| Getting the Hang Of This | 47.00% | ~155 |
+| Over Nine Thousaaand | 56.00% | ~185 |
+| Getting the Hang Of This | 47.00% | ~156 |
 | Collector | 29.00% | ~96 |
-| Poker-Man | 21.00% | ~69 |
-| Blow ‘Em Up | 21.00% | ~69 |
-| That’s What Friends Are For | 20.00% | ~66 |
+| That’s What Friends Are For | 21.00% | ~70 |
+| Poker-Man | 21.00% | ~70 |
+| Blow ‘Em Up | 21.00% | ~70 |
 | FOR THE GAUNTLET! | 19.00% | ~63 |
 | Untapped Potential | 17.00% | ~56 |
 | Played by Gramps | 14.00% | ~46 |
@@ -33,8 +33,8 @@
 | Lord of the Wastes | 3.00% | ~10 |
 | Through Hell and Back | 3.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 330 (Ranked 208)  
-Completed: 10 (3.03%) (Ranked 46)  
+Progressed: 331 (Ranked 208)  
+Completed: 10 (3.02%) (Ranked 46)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -44,6 +44,7 @@ Completed: 10 (3.03%) (Ranked 46)
 | 2023-05-03 | 328 | 10 |
 | 2023-05-07 | 329 | 10 |
 | 2023-05-11 | 330 | 10 |
+| 2023-05-22 | 331 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

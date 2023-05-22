@@ -2,10 +2,10 @@
   "ID": "62c5dc16e57d4850916f5de42635625d",
   "Name": "Riftbound",
   "ProductSlug": "riftbound-db891d",
-  "Ranking_EOS_Progress": 320,
+  "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-05-18T23:00:00+00:00",
     "PcReleaseDate": "2022-05-12T13:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 16,
+  "EOS_Progressed": 17,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -79,6 +79,11 @@
       "Time": "2023-05-21T11:03:51.4893822+00:00",
       "NumProgressed": 16,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T04:03:54.646473+00:00",
+      "NumProgressed": 17,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -98,7 +103,7 @@
       "Name": "Adventure Time",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_ApprenticeSummoner",
@@ -136,7 +141,7 @@
       "ID": "ACH_CloseCall",
       "SetID": "1od64h3",
       "Name": "Close Call",
-      "Percentage": 31,
+      "Percentage": 29,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -224,9 +229,9 @@
       "ID": "ACH_MasterOfTheArts",
       "SetID": "1od64h3",
       "Name": "Master Of The Arts",
-      "Percentage": 50,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_OneHandTied",
@@ -305,13 +310,13 @@
     {
       "ID": "1od64h3",
       "IsBase": true,
-      "Progressed": 16,
+      "Progressed": 17,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:45:02.2220313+00:00",
-  "LastChanged_Achievements": "2023-05-22T03:03:34.6463663+00:00",
+  "LastChanged_Achievements": "2023-05-22T04:03:54.6464725+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.217347+00:00",
-  "LastUpdate_Ratings": "2023-05-22T02:57:07.0302858+00:00",
-  "LastUpdate_Achievements": "2023-05-22T03:03:34.6463851+00:00"
+  "LastUpdate_Ratings": "2023-05-22T03:57:13.1603507+00:00",
+  "LastUpdate_Achievements": "2023-05-22T04:03:54.6464933+00:00"
 }

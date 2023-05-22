@@ -17,6 +17,7 @@ Rating: 4.17 (Ranked 836)
 | Working Hard or Harley Working? | 0.60% | ~370 |
 | Whispered Words | 0.60% | ~370 |
 | Lock and Key | 0.60% | ~370 |
+| Bad Apples in Every Orchard | 0.60% | ~370 |
 | Protector of Gotham | 0.50% | ~308 |
 | The Show Mud Go On | 0.50% | ~308 |
 | Rock and a Hard Place | 0.50% | ~308 |
@@ -25,7 +26,6 @@ Rating: 4.17 (Ranked 836)
 | Cooldown | 0.50% | ~308 |
 | Universal Health Scare | 0.50% | ~308 |
 | Unstoppable Force | 0.50% | ~308 |
-| Bad Apples in Every Orchard | 0.50% | ~308 |
 | From Inside Gotham's Walls | 0.50% | ~308 |
 | Voiceless | 0.50% | ~308 |
 | Seeking Asylum | 0.50% | ~308 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 836)
 | Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,607 (Ranked 68)  
+Progressed: 61,612 (Ranked 68)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-19 | 61,198 | 91 |
 | 2023-05-20 | 61,416 | 91 |
 | 2023-05-21 | 61,589 | 91 |
-| 2023-05-22 | 61,607 | 91 |
+| 2023-05-22 | 61,612 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,229  (Ranked 98)  
 Sum: 3,692 (Ranked 137)  

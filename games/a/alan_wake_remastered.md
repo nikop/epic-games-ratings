@@ -6,8 +6,8 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 20.00% | ~9,339 |
-| Let There Be Light | 17.00% | ~7,938 |
+| Follow the Light | 20.00% | ~9,340 |
+| Let There Be Light | 17.00% | ~7,939 |
 | Float Like a Butterfly | 16.00% | ~7,472 |
 | Nordic Walking | 13.00% | ~6,071 |
 | Bright Falls' Finest | 13.00% | ~6,071 |
@@ -61,8 +61,8 @@ Number of Ratings: 524  (23.09.2022)
 | Creative Space | 0.50% | ~51 |
 | License Revoked | 0.40% | ~41 |
 | Whirlwind | 0.40% | ~41 |
-| Run-On Sentence | 0.30% | ~30 |
-| Tick Tock | 0.30% | ~30 |
+| Run-On Sentence | 0.30% | ~31 |
+| Tick Tock | 0.30% | ~31 |
 | Alan, Wake Up | 0.20% | ~93 |
 | Meet the Deadline | 0.20% | ~93 |
 | Picking Up After Yourself | 0.20% | ~93 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~47 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,697 (Ranked 76)  
+Progressed: 46,699 (Ranked 76)  
 Completed: 45 (0.10%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 45 (0.10%) (Ranked 158)
 | 2023-05-19 | 46,386 | 45 |
 | 2023-05-20 | 46,523 | 45 |
 | 2023-05-21 | 46,674 | 45 |
-| 2023-05-22 | 46,697 | 45 |
+| 2023-05-22 | 46,699 | 45 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

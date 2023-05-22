@@ -2,10 +2,10 @@
   "ID": "a89f29e731fa404a97efdccf127385a0",
   "Name": "Monster Outbreak",
   "ProductSlug": "monster-outbreak-2e8c08",
-  "Ranking_EOS_Progress": 343,
+  "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-10-03T16:00:00+00:00",
     "PcReleaseDate": "2022-10-03T16:00:00+00:00",
@@ -54,8 +54,8 @@
   "FirstSeenRating": "2023-03-31T05:58:19.1476938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:17.3277147+00:00",
   "LastChanged": "2023-03-31T05:58:19.1476939+00:00",
-  "LastChanged_Achievements": "2023-05-22T03:00:16.535512+00:00",
+  "LastChanged_Achievements": "2023-05-22T04:01:26.3473756+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:05.3056949+00:00",
-  "LastUpdate_Ratings": "2023-05-22T02:58:29.8748866+00:00",
-  "LastUpdate_Achievements": "2023-05-22T03:00:16.5355205+00:00"
+  "LastUpdate_Ratings": "2023-05-22T03:59:01.9985298+00:00",
+  "LastUpdate_Achievements": "2023-05-22T04:01:26.3474022+00:00"
 }

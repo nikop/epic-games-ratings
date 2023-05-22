@@ -6,20 +6,20 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 35.00% | ~21,419 |
-| Just The Two of Us | 33.00% | ~20,195 |
-| Up On High | 26.00% | ~15,911 |
-| Under The Hood | 25.00% | ~15,299 |
-| The Gift of Gab | 25.00% | ~15,299 |
-| Got Your Nose | 24.00% | ~14,687 |
-| Wrapping Up | 22.00% | ~13,463 |
-| Badge Hobbyist | 18.00% | ~11,015 |
-| More Than A Box Of Sand | 18.00% | ~11,015 |
-| Chum Novice | 17.00% | ~10,403 |
-| The Dunboyne | 17.00% | ~10,403 |
-| Silver-Tongued Sable | 17.00% | ~10,403 |
-| Sticky Paws | 17.00% | ~10,403 |
-| Bubble Up | 17.00% | ~10,403 |
+| Simoon | 35.00% | ~21,420 |
+| Just The Two of Us | 33.00% | ~20,196 |
+| Up On High | 26.00% | ~15,912 |
+| Under The Hood | 25.00% | ~15,300 |
+| The Gift of Gab | 25.00% | ~15,300 |
+| Got Your Nose | 24.00% | ~14,688 |
+| Wrapping Up | 22.00% | ~13,464 |
+| Badge Hobbyist | 18.00% | ~11,016 |
+| More Than A Box Of Sand | 18.00% | ~11,016 |
+| Chum Novice | 17.00% | ~10,404 |
+| The Dunboyne | 17.00% | ~10,404 |
+| Silver-Tongued Sable | 17.00% | ~10,404 |
+| Sticky Paws | 17.00% | ~10,404 |
+| Bubble Up | 17.00% | ~10,404 |
 | Thread The Needle | 16.00% | ~9,792 |
 | Power to the People | 15.00% | ~9,180 |
 | Take That! | 13.00% | ~7,956 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~1,836 |
 | Vivacious Vivarium | 2.00% | ~1,224 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,197 (Ranked 69)  
+Progressed: 61,200 (Ranked 69)  
 Completed: 577 (0.94%) (Ranked 87)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 577 (0.94%) (Ranked 87)
 | 2023-05-19 | 60,398 | 560 |
 | 2023-05-20 | 60,796 | 569 |
 | 2023-05-21 | 61,156 | 577 |
-| 2023-05-22 | 61,197 | 577 |
+| 2023-05-22 | 61,200 | 577 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

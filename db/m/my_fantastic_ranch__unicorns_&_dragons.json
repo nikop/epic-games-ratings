@@ -2,10 +2,10 @@
   "ID": "62dde68a8e2a400da4f259d970803658",
   "Name": "My Fantastic Ranch: Unicorns \u0026 Dragons",
   "ProductSlug": "my-fantastic-ranch",
-  "Ranking_EOS_Progress": 343,
+  "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-11-17T09:00:00+00:00",
     "PcReleaseDate": "2022-11-17T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -59,6 +59,11 @@
       "Time": "2023-05-21T16:05:16.7149059+00:00",
       "NumProgressed": 6,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T04:05:44.7415285+00:00",
+      "NumProgressed": 7,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -68,7 +73,7 @@
       "ID": "1",
       "SetID": "6ljhbe4",
       "Name": "Let the Adventure Begin!",
-      "Percentage": 83,
+      "Percentage": 71,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -76,15 +81,15 @@
       "ID": "10",
       "SetID": "6ljhbe4",
       "Name": "Creature Evolution",
-      "Percentage": 17,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "11",
       "SetID": "6ljhbe4",
       "Name": "Think Positive",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -148,17 +153,17 @@
       "ID": "19",
       "SetID": "6ljhbe4",
       "Name": "Landscaper",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "2",
       "SetID": "6ljhbe4",
       "Name": "Spirit of competition",
-      "Percentage": 17,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "20",
@@ -172,9 +177,9 @@
       "ID": "21",
       "SetID": "6ljhbe4",
       "Name": "Dream Big",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "22",
@@ -212,7 +217,7 @@
       "ID": "3",
       "SetID": "6ljhbe4",
       "Name": "Kingdom Party Time",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -244,7 +249,7 @@
       "ID": "7",
       "SetID": "6ljhbe4",
       "Name": "Lecturer",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -252,24 +257,24 @@
       "ID": "8",
       "SetID": "6ljhbe4",
       "Name": "Kindred Spirits",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "9",
       "SetID": "6ljhbe4",
       "Name": "Prized Possession",
-      "Percentage": 33,
+      "Percentage": 43,
       "XP": 60,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ljhbe4",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 7,
       "Completed": 0
     }
   ],
@@ -277,8 +282,8 @@
   "FirstSeenRating": "2023-03-31T05:58:20.5434938+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.8838282+00:00",
   "LastChanged": "2023-03-31T05:58:20.5434939+00:00",
-  "LastChanged_Achievements": "2023-05-22T03:05:10.915374+00:00",
+  "LastChanged_Achievements": "2023-05-22T04:05:44.7415278+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:15.2172649+00:00",
-  "LastUpdate_Ratings": "2023-05-22T02:58:20.8987024+00:00",
-  "LastUpdate_Achievements": "2023-05-22T03:05:10.9153906+00:00"
+  "LastUpdate_Ratings": "2023-05-22T03:58:49.5319277+00:00",
+  "LastUpdate_Achievements": "2023-05-22T04:05:44.7415458+00:00"
 }

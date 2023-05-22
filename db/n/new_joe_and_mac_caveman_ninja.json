@@ -2,10 +2,10 @@
   "ID": "4e9703c510444252886ee033a7c01ad6",
   "Name": "NEW Joe and Mac Caveman Ninja",
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
-  "Ranking_EOS_Progress": 244,
+  "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 77,
-  "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
     "PcReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 157,
+  "EOS_Progressed": 158,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.27,
   "EosHistory": [
@@ -47,6 +47,11 @@
     {
       "Time": "2023-05-21T02:11:42.1090953+00:00",
       "NumProgressed": 157,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-22T04:05:45.4832515+00:00",
+      "NumProgressed": 158,
       "NumCompleted": 2
     }
   ],
@@ -105,9 +110,9 @@
       "ID": "07",
       "SetID": "6glb5g1",
       "Name": "Swimming on a dino\u0027s back.",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "08",
@@ -145,9 +150,9 @@
       "ID": "12",
       "SetID": "6glb5g1",
       "Name": "Dinosaur graveyard.",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 80,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "13",
@@ -178,7 +183,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 157,
+      "Progressed": 158,
       "Completed": 2
     }
   ],
@@ -186,8 +191,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2023-05-22T03:05:11.5871728+00:00",
+  "LastChanged_Achievements": "2023-05-22T04:05:45.4832508+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:04.1004714+00:00",
-  "LastUpdate_Ratings": "2023-05-22T02:57:23.3408504+00:00",
-  "LastUpdate_Achievements": "2023-05-22T03:05:11.5871834+00:00"
+  "LastUpdate_Ratings": "2023-05-22T03:57:33.7734061+00:00",
+  "LastUpdate_Achievements": "2023-05-22T04:05:45.4832648+00:00"
 }

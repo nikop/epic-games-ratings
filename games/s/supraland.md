@@ -6,17 +6,17 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~699,321 |
-| The Blues | 85.00% | ~600,427 |
-| Fast | 66.00% | ~466,214 |
+| Out of bed | 99.00% | ~699,322 |
+| The Blues | 85.00% | ~600,428 |
+| Fast | 66.00% | ~466,215 |
 | Healthbar | 55.00% | ~388,512 |
-| Force Cube | 52.00% | ~367,320 |
+| Force Cube | 52.00% | ~367,321 |
 | Double Jump | 48.00% | ~339,065 |
 | Regeneration | 47.00% | ~332,001 |
 | Climb the hill | 42.00% | ~296,682 |
 | Triple Jump | 42.00% | ~296,682 |
-| Through the fire pipe | 38.00% | ~268,426 |
-| MacGuffin | 37.00% | ~261,362 |
+| Through the fire pipe | 38.00% | ~268,427 |
+| MacGuffin | 37.00% | ~261,363 |
 | Just once | 36.00% | ~254,299 |
 | Armor | 30.00% | ~211,916 |
 | True holy spirit | 27.00% | ~190,724 |
@@ -27,8 +27,8 @@ Number of Ratings: 25,175  (23.09.2022)
 | Freed from prison | 21.00% | ~148,341 |
 | Stomp | 21.00% | ~148,341 |
 | Double Health | 18.00% | ~127,149 |
-| Buckle | 17.00% | ~120,085 |
-| Green Keycard | 17.00% | ~120,085 |
+| Buckle | 17.00% | ~120,086 |
+| Green Keycard | 17.00% | ~120,086 |
 | Rattle Hag | 15.00% | ~105,958 |
 | All Shells | 14.00% | ~98,894 |
 | Beam | 14.00% | ~98,894 |
@@ -41,14 +41,14 @@ Number of Ratings: 25,175  (23.09.2022)
 | Blue King's lair | 11.00% | ~77,702 |
 | Infiltrated | 11.00% | ~77,702 |
 | Robbed | 11.00% | ~77,702 |
-| Payback | 10.00% | ~70,638 |
-| Got the coins back | 10.00% | ~70,638 |
-| Cave Flies | 10.00% | ~70,638 |
-| Gold Scam | 10.00% | ~70,638 |
-| Gold Scam Uncovered | 10.00% | ~70,638 |
-| Got the gun back | 10.00% | ~70,638 |
-| Translocator | 10.00% | ~70,638 |
-| Yellow Shot Button | 10.00% | ~70,638 |
+| Payback | 10.00% | ~70,639 |
+| Got the coins back | 10.00% | ~70,639 |
+| Cave Flies | 10.00% | ~70,639 |
+| Gold Scam | 10.00% | ~70,639 |
+| Gold Scam Uncovered | 10.00% | ~70,639 |
+| Got the gun back | 10.00% | ~70,639 |
+| Translocator | 10.00% | ~70,639 |
+| Yellow Shot Button | 10.00% | ~70,639 |
 | Fire Flies | 9.00% | ~63,575 |
 | Moon Door | 9.00% | ~63,575 |
 | Momentum | 9.00% | ~63,575 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~706 |
 | DLC: Top of the world | 0.10% | ~706 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706,385 (Ranked 14)  
+Progressed: 706,386 (Ranked 14)  
 Completed: 684 (0.10%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 684 (0.10%) (Ranked 158)
 | 2023-05-19 | 705,829 | 683 |
 | 2023-05-20 | 706,106 | 683 |
 | 2023-05-21 | 706,362 | 684 |
-| 2023-05-22 | 706,385 | 684 |
+| 2023-05-22 | 706,386 | 684 |
 ## Awards
 Max (Challenging Puzzles): 7,611  (Ranked 40)  
 Sum: 9,904 (Ranked 79)  

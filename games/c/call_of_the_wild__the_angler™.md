@@ -6,25 +6,25 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 72.00% | ~2,628 |
-| Hey Good Hookin | 62.00% | ~2,263 |
-| I'm on a Boat! | 52.00% | ~1,898 |
+| Fish Just Got Reel | 72.00% | ~2,629 |
+| Hey Good Hookin | 62.00% | ~2,264 |
+| I'm on a Boat! | 52.00% | ~1,899 |
 | Scaling up | 46.00% | ~1,679 |
-| Can you smell what the Rod is Hooking | 45.00% | ~1,642 |
-| Ready to Rod and Roll | 37.00% | ~1,350 |
-| More Fish in the Sea | 37.00% | ~1,350 |
+| Can you smell what the Rod is Hooking | 45.00% | ~1,643 |
+| Ready to Rod and Roll | 37.00% | ~1,351 |
+| More Fish in the Sea | 37.00% | ~1,351 |
 | License to Gill | 31.00% | ~1,132 |
 | Fish Out of Water | 30.00% | ~1,095 |
-| Things that go Splash in the Night | 25.00% | ~912 |
-| Goldfish? | 25.00% | ~912 |
+| Things that go Splash in the Night | 25.00% | ~913 |
+| Goldfish? | 25.00% | ~913 |
 | Going for Gold | 23.00% | ~840 |
-| I'm Hooked! | 17.00% | ~620 |
+| I'm Hooked! | 17.00% | ~621 |
 | More than a Tourist | 12.00% | ~438 |
 | Diamond in the Rough | 12.00% | ~438 |
 | Marathon | 8.00% | ~292 |
 | Hook, Line and Sinker | 7.00% | ~256 |
 | Big Fish Small Pond | 6.00% | ~219 |
-| I'm the Captain Now | 5.00% | ~182 |
+| I'm the Captain Now | 5.00% | ~183 |
 | School's Out for Summer | 4.00% | ~146 |
 | Gonna Need a Bigger Boat | 3.00% | ~110 |
 | The Beetles | 2.00% | ~73 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,650 (Ranked 129)  
+Progressed: 3,651 (Ranked 129)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-19 | 3,576 | 0 |
 | 2023-05-20 | 3,607 | 0 |
 | 2023-05-21 | 3,649 | 0 |
-| 2023-05-22 | 3,650 | 0 |
+| 2023-05-22 | 3,651 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 436)  
 Sum: 158 (Ranked 376)  
