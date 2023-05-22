@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 78,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -711,9 +711,9 @@
       "ID": "MissionLiberateEnclave",
       "SetID": "a6c395p",
       "Name": "Safe Home",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 598
+      "UsersEstimate": 607
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -823,9 +823,9 @@
       "ID": "RiteOfTheHunt",
       "SetID": "a6c395p",
       "Name": "Huntress",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 466
+      "UsersEstimate": 475
     },
     {
       "ID": "RiteOfTheStar",
@@ -879,8 +879,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-05-22T17:05:38.9242206+00:00",
+  "LastChanged_Achievements": "2023-05-22T18:05:43.8009928+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:40.2648469+00:00",
-  "LastUpdate_Ratings": "2023-05-22T16:59:45.6917492+00:00",
-  "LastUpdate_Achievements": "2023-05-22T17:05:38.9242548+00:00"
+  "LastUpdate_Ratings": "2023-05-22T17:59:48.1924972+00:00",
+  "LastUpdate_Achievements": "2023-05-22T18:05:43.801022+00:00"
 }

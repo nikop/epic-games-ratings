@@ -6,23 +6,23 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~63,570 |
-| Powergamer | 27.00% | ~61,300 |
-| Barely scratched the surface | 25.00% | ~56,759 |
-| Write that down | 24.00% | ~54,489 |
-| Guns, lots of guns | 12.00% | ~27,244 |
-| Collector | 11.00% | ~24,974 |
+| I will finish what you started | 28.00% | ~63,572 |
+| Powergamer | 27.00% | ~61,302 |
+| Barely scratched the surface | 25.00% | ~56,761 |
+| Write that down | 24.00% | ~54,490 |
+| Guns, lots of guns | 12.00% | ~27,245 |
+| Collector | 11.00% | ~24,975 |
 | Elementary! | 8.00% | ~18,163 |
 | Pumpkin Jack | 8.00% | ~18,163 |
 | Wake up! | 8.00% | ~18,163 |
 | It's honest work | 7.00% | ~15,893 |
 | Griever | 7.00% | ~15,893 |
-| Me smart | 6.00% | ~13,622 |
+| Me smart | 6.00% | ~13,623 |
 | Good listener | 5.00% | ~11,352 |
 | Trash compactor | 5.00% | ~11,352 |
 | Valedictorian | 5.00% | ~11,352 |
-| BOY! | 4.00% | ~9,081 |
-| Ka-ching! | 4.00% | ~9,081 |
+| BOY! | 4.00% | ~9,082 |
+| Ka-ching! | 4.00% | ~9,082 |
 | I like to sniff around | 3.00% | ~6,811 |
 | Mind reader | 3.00% | ~6,811 |
 | So you like to read? | 3.00% | ~6,811 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~454 |
 | Memory 5 | 0.10% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,037 (Ranked 42)  
+Progressed: 227,043 (Ranked 42)  
 Completed: 5 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,11 +91,11 @@ Completed: 5 (0.00%) (Ranked 201)
 | 2023-05-19 | 226,334 | 5 |
 | 2023-05-20 | 226,607 | 5 |
 | 2023-05-21 | 226,894 | 5 |
-| 2023-05-22 | 227,037 | 5 |
+| 2023-05-22 | 227,043 | 5 |
 ## Awards
-Max (Character Customization): 73  (Ranked 357)  
+Max (Character Customization): 73  (Ranked 358)  
 Sum: 73 (Ranked 416)  
-Diff (max vs sum): -59  
+Diff (max vs sum): -58  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 73 |

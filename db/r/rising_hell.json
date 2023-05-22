@@ -3,12 +3,12 @@
   "Name": "Rising Hell",
   "ProductSlug": "rising-hell-253707",
   "Ranking_Rating": 659,
-  "Ranking_Popularity": 357,
-  "Ranking_PopularitySum": 267,
+  "Ranking_Popularity": 355,
+  "Ranking_PopularitySum": 266,
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-02-11T00:00:00+00:00",
     "PcReleaseDate": "2021-05-19T00:00:00+00:00",
@@ -246,11 +246,17 @@
       "Rating": 4.41,
       "NumberOfAwards": 660,
       "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2023-05-22T17:57:42.8100879+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 661,
+      "NumberOfAwardsMax": 74
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 660,
-  "NumberOfAwardsMax": 73,
+  "NumberOfAwards": 661,
+  "NumberOfAwardsMax": 74,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
@@ -263,7 +269,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 73
+      "Count": 74
     },
     {
       "Text": "This game has Diverse Characters",
@@ -344,8 +350,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:41.1401015+00:00",
   "FirstSeenRating": "2022-10-07T17:01:28.5689964+00:00",
-  "LastChanged": "2023-05-21T23:57:54.0659087+00:00",
+  "LastChanged": "2023-05-22T17:57:42.8100877+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:15.9872234+00:00",
-  "LastUpdate_Ratings": "2023-05-22T16:57:41.9243372+00:00",
-  "LastUpdate_Achievements": "2023-05-22T17:03:56.8029155+00:00"
+  "LastUpdate_Ratings": "2023-05-22T17:57:42.8100883+00:00",
+  "LastUpdate_Achievements": "2023-05-22T18:04:12.9205988+00:00"
 }

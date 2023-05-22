@@ -589,9 +589,9 @@
       "ID": "MQ05_4",
       "SetID": "bbing49",
       "Name": "Knives Out",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 91
+      "UsersEstimate": 93
     },
     {
       "ID": "MQ06_1",
@@ -653,9 +653,9 @@
       "ID": "MQ08_2",
       "SetID": "bbing49",
       "Name": "Up In Flames",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 75
+      "UsersEstimate": 77
     },
     {
       "ID": "MQ08_3",
@@ -686,8 +686,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-22T17:00:34.1809496+00:00",
+  "LastChanged_Achievements": "2023-05-22T18:00:37.9963961+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.473335+00:00",
-  "LastUpdate_Ratings": "2023-05-22T16:57:14.9494373+00:00",
-  "LastUpdate_Achievements": "2023-05-22T17:00:34.1809761+00:00"
+  "LastUpdate_Ratings": "2023-05-22T17:57:13.7119602+00:00",
+  "LastUpdate_Achievements": "2023-05-22T18:00:37.996424+00:00"
 }

@@ -5,28 +5,28 @@ Rating: 4.68 (Ranked 237)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 11.00% | ~44,742 |
-| 50 HEADSHOTS | 10.00% | ~40,674 |
-| FINISHED CHAPTER 1 | 8.00% | ~32,540 |
-| SCIENCE AND INDUSTRY | 8.00% | ~32,540 |
-| 200 HEADSHOTS | 6.00% | ~24,405 |
-| FINISHED CHAPTER 2 | 6.00% | ~24,405 |
-| FINISHED CHAPTER 3 | 5.00% | ~20,337 |
-| FINISHED CHAPTER 4 | 4.00% | ~16,270 |
-| FINISH CHAPTER 5 | 4.00% | ~16,270 |
-| 1000 KILLS | 3.00% | ~12,202 |
-| FINISH CHAPTER 6 | 3.00% | ~12,202 |
-| CATHARTIC ESCAPISM | 3.00% | ~12,202 |
-| FIREFIGHT LEVEL 10 | 1.00% | ~4,067 |
-| FIREFIGHT LEVEL 20 | 0.60% | ~2,440 |
+| 100 KILLS | 11.00% | ~44,744 |
+| 50 HEADSHOTS | 10.00% | ~40,676 |
+| FINISHED CHAPTER 1 | 8.00% | ~32,541 |
+| SCIENCE AND INDUSTRY | 8.00% | ~32,541 |
+| 200 HEADSHOTS | 6.00% | ~24,406 |
+| FINISHED CHAPTER 2 | 6.00% | ~24,406 |
+| FINISHED CHAPTER 3 | 5.00% | ~20,338 |
+| FINISHED CHAPTER 4 | 4.00% | ~16,271 |
+| FINISH CHAPTER 5 | 4.00% | ~16,271 |
+| 1000 KILLS | 3.00% | ~12,203 |
+| FINISH CHAPTER 6 | 3.00% | ~12,203 |
+| CATHARTIC ESCAPISM | 3.00% | ~12,203 |
+| FIREFIGHT LEVEL 10 | 1.00% | ~4,068 |
+| FIREFIGHT LEVEL 20 | 0.60% | ~2,441 |
 | FIRST BLOOD | 0.50% | ~2,034 |
 | PACEMAKER | 0.40% | ~1,627 |
 | TIME PARADOX | 0.40% | ~1,627 |
 | FIREFIGHT LEVEL 30 | 0.30% | ~1,220 |
-| FIREFIGHT LEVEL 40 | 0.20% | ~813 |
-| NEW GAME PLUS | 0.20% | ~813 |
-| OUT OF ORDER | 0.20% | ~813 |
-| PARTYHARD | 0.20% | ~813 |
+| FIREFIGHT LEVEL 40 | 0.20% | ~814 |
+| NEW GAME PLUS | 0.20% | ~814 |
+| OUT OF ORDER | 0.20% | ~814 |
+| PARTYHARD | 0.20% | ~814 |
 | HEY THATS CHEATING | 0.10% | ~407 |
 | COMPLIMENTS TO THE CHEF | 0.10% | ~407 |
 | BUT WHY? | 0.10% | ~407 |
@@ -58,7 +58,7 @@ Rating: 4.68 (Ranked 237)
 | THE GAMBLER | 0.10% | ~407 |
 | WARRIOR IN A GARDEN | 0.10% | ~407 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 406,745 (Ranked 34)  
+Progressed: 406,763 (Ranked 34)  
 Completed: 30 (0.01%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 30 (0.01%) (Ranked 193)
 | 2023-05-19 | 405,574 | 30 |
 | 2023-05-20 | 406,075 | 30 |
 | 2023-05-21 | 406,495 | 30 |
-| 2023-05-22 | 406,745 | 30 |
+| 2023-05-22 | 406,763 | 30 |
 ## Awards
 Max (Great Boss Battles): 169  (Ranked 277)  
 Sum: 169 (Ranked 368)  

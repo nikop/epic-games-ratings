@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5958,
+  "EOS_Progressed": 5959,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1972,6 +1972,11 @@
       "Time": "2023-05-22T17:05:06.5556655+00:00",
       "NumProgressed": 5958,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-22T18:05:11.7580931+00:00",
+      "NumProgressed": 5959,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 21,
@@ -2023,7 +2028,7 @@
       "Name": "Clay Pigeon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "ENERGY_SAVER",
@@ -2127,7 +2132,7 @@
       "Name": "Soul-Canon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -2150,7 +2155,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5958,
+      "Progressed": 5959,
       "Completed": 22
     }
   ],
@@ -2158,8 +2163,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-22T16:57:53.1033555+00:00",
-  "LastChanged_Achievements": "2023-05-22T17:05:06.555665+00:00",
+  "LastChanged_Achievements": "2023-05-22T18:05:11.7580925+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.822955+00:00",
-  "LastUpdate_Ratings": "2023-05-22T16:57:53.1033564+00:00",
-  "LastUpdate_Achievements": "2023-05-22T17:05:06.5556913+00:00"
+  "LastUpdate_Ratings": "2023-05-22T17:57:55.8770245+00:00",
+  "LastUpdate_Achievements": "2023-05-22T18:05:11.7581192+00:00"
 }

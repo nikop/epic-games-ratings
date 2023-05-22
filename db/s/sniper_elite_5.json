@@ -5,10 +5,10 @@
   "Ranking_Rating": 729,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 159,
+  "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 144,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1198,
+  "EOS_Progressed": 1203,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 478,
+  "EOS_NewPlayers": 482,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1048,6 +1048,11 @@
       "Time": "2023-05-22T17:05:14.158224+00:00",
       "NumProgressed": 1198,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-22T18:05:19.3792829+00:00",
+      "NumProgressed": 1203,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1081,9 +1086,9 @@
       "ID": "REWARD_13_OPTIONAL_TASK",
       "SetID": "bm6el81",
       "Name": "No Stone Unturned",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -1113,9 +1118,9 @@
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
       "SetID": "bm6el81",
       "Name": "Just a Flesh Wound",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 24
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -1137,9 +1142,9 @@
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 156
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1201,9 +1206,9 @@
       "ID": "REWARD_27_THE_LONG_GAME",
       "SetID": "bm6el81",
       "Name": "The Long Game",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -1417,9 +1422,9 @@
       "ID": "REWARD_67_NO_ASSISTANCE",
       "SetID": "bm6el81",
       "Name": "Don\u0027t hold your breath",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "REWARD_6_BIG_GAME_HUNTER",
@@ -1545,9 +1550,9 @@
       "ID": "REWARD_DLC01_09_LAST_RESORT",
       "SetID": "83mdf7p",
       "Name": "Last Resort",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 2
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -1626,13 +1631,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1149,
+      "Progressed": 1154,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1198,
+      "Progressed": 1203,
       "Completed": 2
     }
   ],
@@ -1640,8 +1645,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-22T16:01:02.9174493+00:00",
-  "LastChanged_Achievements": "2023-05-22T17:05:14.1582235+00:00",
+  "LastChanged_Achievements": "2023-05-22T18:05:19.3792824+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-22T17:00:14.519405+00:00",
-  "LastUpdate_Achievements": "2023-05-22T17:05:14.158299+00:00"
+  "LastUpdate_Ratings": "2023-05-22T18:00:16.8968654+00:00",
+  "LastUpdate_Achievements": "2023-05-22T18:05:19.3793527+00:00"
 }

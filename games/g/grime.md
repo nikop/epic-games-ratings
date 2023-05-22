@@ -6,10 +6,10 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Imprint | 22.00% | ~122 |
 | Taste | 21.00% | ~117 |
-| Imprint | 21.00% | ~117 |
+| The Hunt | 19.00% | ~105 |
 | Ravenous | 19.00% | ~105 |
-| The Hunt | 18.00% | ~100 |
 | Weeper | 17.00% | ~94 |
 | Devourer | 12.00% | ~67 |
 | Harmless | 11.00% | ~61 |

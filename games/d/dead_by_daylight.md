@@ -6,212 +6,212 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 79.00% | ~361,817 |
-| Zealous | 74.00% | ~338,917 |
-| Skillful | 73.00% | ~334,337 |
-| Not half bad | 66.00% | ~302,277 |
-| Apt Survivor | 61.00% | ~279,378 |
-| Survival Treasures | 61.00% | ~279,378 |
-| Handyman | 58.00% | ~265,638 |
-| Resurgence | 56.00% | ~256,478 |
-| Sorted | 55.00% | ~251,898 |
-| Healthy Obsession | 54.00% | ~247,318 |
-| No one left behind | 53.00% | ~242,738 |
-| Nerves of steel | 53.00% | ~242,738 |
-| Bloody Millionaire | 53.00% | ~242,738 |
-| I | 53.00% | ~242,738 |
-| Medic | 52.00% | ~238,158 |
-| Preemptive Strike | 51.00% | ~233,578 |
-| Humanitarian | 51.00% | ~233,578 |
-| The Grand Sacrifice | 49.00% | ~224,418 |
-| Engineer | 49.00% | ~224,418 |
-| Backdoor Escape | 48.00% | ~219,838 |
-| Perfect Escape | 48.00% | ~219,838 |
-| Close Shave | 48.00% | ~219,838 |
-| Agonizing Escape | 45.00% | ~206,098 |
-| I've got your back | 45.00% | ~206,098 |
-| Perfect Killing | 42.00% | ~192,358 |
-| Wounded Healer | 42.00% | ~192,358 |
-| Risk it all | 40.00% | ~183,198 |
-| II | 40.00% | ~183,198 |
-| Apt Killer | 38.00% | ~174,038 |
-| With Scars to Show | 38.00% | ~174,038 |
-| Vulture | 37.00% | ~169,459 |
-| Every Last Drop | 36.00% | ~164,879 |
-| III | 35.00% | ~160,299 |
-| First to the Punch | 35.00% | ~160,299 |
-| Unforgettable Getaway | 33.00% | ~151,139 |
-| Old West Oasis | 33.00% | ~151,139 |
-| Flight to Freedom | 33.00% | ~151,139 |
-| Cherish your Life | 32.00% | ~146,559 |
-| Operation: Survival | 32.00% | ~146,559 |
-| Made it out alive! | 31.00% | ~141,979 |
-| Cutting Out | 31.00% | ~141,979 |
-| Classy Act | 31.00% | ~141,979 |
-| Raccoon City Recruit | 31.00% | ~141,979 |
-| Near-Death Experience | 30.00% | ~137,399 |
-| Blood on your hands | 28.00% | ~128,239 |
-| All Aboard | 28.00% | ~128,239 |
-| III-50 | 27.00% | ~123,659 |
-| Shock Therapy | 27.00% | ~123,659 |
-| Item of Obsession | 27.00% | ~123,659 |
-| Holiday Get-Together | 27.00% | ~123,659 |
-| Campbell's Chapel Legacy | 27.00% | ~123,659 |
-| Ancestor's Rite | 27.00% | ~123,659 |
-| Cottage Owner | 26.00% | ~119,079 |
-| Escaping the Nightmare | 26.00% | ~119,079 |
-| Outrun Evil | 26.00% | ~119,079 |
-| Grim Pilgrimage | 26.00% | ~119,079 |
-| Leapfrog | 25.00% | ~114,499 |
-| Escape Artist | 24.00% | ~109,919 |
-| Gifts for the Fog | 24.00% | ~109,919 |
-| House of Pain | 23.00% | ~105,339 |
-| Shrine Apparatus | 23.00% | ~105,339 |
-| Selfless Survival | 23.00% | ~105,339 |
-| End of Days | 23.00% | ~105,339 |
-| A bite for the Entity | 22.00% | ~100,759 |
-| Hemophobia | 22.00% | ~100,759 |
-| Insult and Injury | 22.00% | ~100,759 |
-| Outrun the Overlap | 22.00% | ~100,759 |
-| Blood on your face | 21.00% | ~96,179 |
-| Serial Killer | 21.00% | ~96,179 |
-| Devoted Gatekeeping | 21.00% | ~96,179 |
-| A Fast Death | 21.00% | ~96,179 |
-| Deep Cleansing | 20.00% | ~91,599 |
-| Game Over | 20.00% | ~91,599 |
-| Lifting The Fog | 20.00% | ~91,599 |
-| Broken Bodies | 19.00% | ~87,019 |
-| Jump Scares | 18.00% | ~82,439 |
-| Texas BBQ | 18.00% | ~82,439 |
-| Happy Holidays | 18.00% | ~82,439 |
-| I See You | 17.00% | ~77,859 |
-| Party Crasher | 16.00% | ~73,279 |
-| Whiffing to Success | 16.00% | ~73,279 |
-| Outrage | 16.00% | ~73,279 |
-| Heavy Burden | 16.00% | ~73,279 |
-| Looter | 15.00% | ~68,699 |
-| Prowler | 15.00% | ~68,699 |
-| Chorus of Chaos | 15.00% | ~68,699 |
-| Triage | 14.00% | ~64,119 |
-| High Speed Pursuit | 14.00% | ~64,119 |
-| Rebuilding The Borgo | 14.00% | ~64,119 |
-| Punch Drunk | 13.00% | ~59,539 |
-| Blood in your mouth | 12.00% | ~54,960 |
-| Power Moves | 11.00% | ~50,380 |
-| Dismantle | 10.00% | ~45,800 |
-| Denied! | 10.00% | ~45,800 |
-| Death of Ignorance | 10.00% | ~45,800 |
-| Milk 'n' Cookies | 9.00% | ~41,220 |
-| Bodyguard | 9.00% | ~41,220 |
-| A feast for the Entity | 8.00% | ~36,640 |
-| In the void she walks | 8.00% | ~36,640 |
-| Mad House | 8.00% | ~36,640 |
-| Deranged Pursuit | 8.00% | ~36,640 |
-| Ghost in the Machine | 8.00% | ~36,640 |
-| From the Deep | 8.00% | ~36,640 |
-| Rescue Mission | 7.00% | ~32,060 |
-| Hack the Mainframe | 7.00% | ~32,060 |
-| Silent Approach | 6.00% | ~27,480 |
-| Left For Dead | 6.00% | ~27,480 |
-| Speed Kills | 6.00% | ~27,480 |
-| One Thousand Cuts | 6.00% | ~27,480 |
-| Multi-tasker | 6.00% | ~27,480 |
-| Bound and Downed | 5.00% | ~22,900 |
-| Cripple them all | 4.00% | ~18,320 |
-| The Key to Escape | 4.00% | ~18,320 |
-| Adept Meg | 4.00% | ~18,320 |
-| Even Punishment | 4.00% | ~18,320 |
-| Terminal Illness | 4.00% | ~18,320 |
-| Totally Vulnerable | 4.00% | ~18,320 |
-| Tear Their Soul Apart | 4.00% | ~18,320 |
-| Viral Video | 4.00% | ~18,320 |
-| The Grind | 3.00% | ~13,740 |
-| Adept Claudette | 3.00% | ~13,740 |
-| Triggered | 3.00% | ~13,740 |
-| Swirling Death | 3.00% | ~13,740 |
-| Butcherin' | 3.00% | ~13,740 |
-| Conniption | 3.00% | ~13,740 |
-| Biological Weaponry | 3.00% | ~13,740 |
-| Adept Dwight | 2.00% | ~9,160 |
-| The man behind the bush | 2.00% | ~9,160 |
-| Evil Incarnate | 2.00% | ~9,160 |
-| Dream Demon | 2.00% | ~9,160 |
-| Taking One For The Team | 2.00% | ~9,160 |
-| Adept Bill | 2.00% | ~9,160 |
-| Bloodbath | 2.00% | ~9,160 |
-| Quick Draw | 2.00% | ~9,160 |
-| Cleansed in Agony | 2.00% | ~9,160 |
-| Fleet of Foot | 2.00% | ~9,160 |
-| Bump in the Night | 2.00% | ~9,160 |
-| Adept Jake | 1.00% | ~4,580 |
-| Adept Nea | 1.00% | ~4,580 |
-| Shocking Treatment | 1.00% | ~4,580 |
-| Adept David | 1.00% | ~4,580 |
-| Smoked | 1.00% | ~4,580 |
-| Not Today | 1.00% | ~4,580 |
-| Tag Team | 1.00% | ~4,580 |
-| Bless You | 1.00% | ~4,580 |
-| Adept Mikaela | 1.00% | ~4,580 |
-| Collision Course | 1.00% | ~4,580 |
-| Thrill of the Chase | 1.00% | ~4,580 |
-| Adept Min | 0.90% | ~4,122 |
-| Adept Kate | 0.90% | ~4,122 |
-| Caws of Death | 0.90% | ~4,122 |
-| Cruelty Loves Company | 0.90% | ~4,122 |
-| Adept Wraith | 0.80% | ~3,664 |
-| Adept Huntress | 0.80% | ~3,664 |
-| Hiding Seeker | 0.80% | ~3,664 |
-| Adept Trapper | 0.70% | ~3,206 |
-| Adept Hillbilly | 0.70% | ~3,206 |
-| Adept Leon | 0.70% | ~3,206 |
-| Adept Nurse | 0.60% | ~2,748 |
-| Adept Yui | 0.60% | ~2,748 |
-| Adept Jill | 0.60% | ~2,748 |
-| Adept Laurie | 0.50% | ~2,290 |
-| I Want to Play a Game | 0.50% | ~2,290 |
-| Adept Tapp | 0.50% | ~2,290 |
-| Adept Legion | 0.50% | ~2,290 |
-| Adept Ghost Face | 0.50% | ~2,290 |
-| Adept Cheryl | 0.50% | ~2,290 |
-| Adept Trickster | 0.50% | ~2,290 |
-| Adept Nemesis | 0.50% | ~2,290 |
-| Outbreak Breakout | 0.50% | ~2,290 |
-| Adept Doctor | 0.40% | ~1,832 |
-| Adept Shape | 0.40% | ~1,832 |
-| Adept Spirit | 0.40% | ~1,832 |
-| Adept Adam | 0.40% | ~1,832 |
-| Adept Jane | 0.40% | ~1,832 |
-| Adept Zarina | 0.40% | ~1,832 |
-| Adept Blight | 0.40% | ~1,832 |
-| Adept Felix | 0.40% | ~1,832 |
-| Adept Yun-Jin | 0.40% | ~1,832 |
-| Adept Cenobite | 0.40% | ~1,832 |
-| Adept Artist | 0.40% | ~1,832 |
-| Adept Jonah | 0.40% | ~1,832 |
-| Adept Onryō | 0.40% | ~1,832 |
-| Adept Haddie | 0.40% | ~1,832 |
-| Adept Mastermind | 0.40% | ~1,832 |
-| Adept Ada | 0.40% | ~1,832 |
-| Adept Rebecca | 0.40% | ~1,832 |
-| Adept Vittorio | 0.40% | ~1,832 |
-| From the void she kills | 0.30% | ~1,374 |
-| Adept Hag | 0.30% | ~1,374 |
-| Adept Ace | 0.30% | ~1,374 |
-| Adept Cannibal | 0.30% | ~1,374 |
-| Adept Nightmare | 0.30% | ~1,374 |
-| Adept Quentin | 0.30% | ~1,374 |
-| Adept Pig | 0.30% | ~1,374 |
-| Adept Clown | 0.30% | ~1,374 |
-| Adept Jeff | 0.30% | ~1,374 |
-| Adept Plague | 0.30% | ~1,374 |
-| Adept Ash | 0.30% | ~1,374 |
-| Adept Deathslinger | 0.30% | ~1,374 |
-| Adept Executioner | 0.30% | ~1,374 |
-| Adept Élodie | 0.30% | ~1,374 |
-| Adept Yoichi | 0.30% | ~1,374 |
-| Adept Dredge | 0.30% | ~1,374 |
-| Adept Knight | 0.30% | ~1,374 |
-| Adept Skull Merchant | 0.30% | ~1,374 |
+| It wakes | 79.00% | ~361,978 |
+| Zealous | 74.00% | ~339,068 |
+| Skillful | 73.00% | ~334,486 |
+| Not half bad | 66.00% | ~302,412 |
+| Apt Survivor | 61.00% | ~279,502 |
+| Survival Treasures | 61.00% | ~279,502 |
+| Handyman | 58.00% | ~265,756 |
+| Resurgence | 56.00% | ~256,592 |
+| Sorted | 55.00% | ~252,010 |
+| Healthy Obsession | 54.00% | ~247,428 |
+| No one left behind | 53.00% | ~242,846 |
+| Nerves of steel | 53.00% | ~242,846 |
+| Bloody Millionaire | 53.00% | ~242,846 |
+| I | 53.00% | ~242,846 |
+| Medic | 52.00% | ~238,264 |
+| Preemptive Strike | 51.00% | ~233,682 |
+| Humanitarian | 51.00% | ~233,682 |
+| The Grand Sacrifice | 49.00% | ~224,518 |
+| Backdoor Escape | 48.00% | ~219,936 |
+| Perfect Escape | 48.00% | ~219,936 |
+| Engineer | 48.00% | ~219,936 |
+| Close Shave | 48.00% | ~219,936 |
+| Agonizing Escape | 45.00% | ~206,190 |
+| I've got your back | 45.00% | ~206,190 |
+| Perfect Killing | 42.00% | ~192,444 |
+| Wounded Healer | 42.00% | ~192,444 |
+| Risk it all | 40.00% | ~183,280 |
+| II | 40.00% | ~183,280 |
+| Apt Killer | 38.00% | ~174,116 |
+| With Scars to Show | 38.00% | ~174,116 |
+| Vulture | 37.00% | ~169,534 |
+| Every Last Drop | 36.00% | ~164,952 |
+| III | 35.00% | ~160,370 |
+| First to the Punch | 35.00% | ~160,370 |
+| Unforgettable Getaway | 33.00% | ~151,206 |
+| Old West Oasis | 33.00% | ~151,206 |
+| Flight to Freedom | 33.00% | ~151,206 |
+| Cherish your Life | 32.00% | ~146,624 |
+| Operation: Survival | 32.00% | ~146,624 |
+| Made it out alive! | 31.00% | ~142,042 |
+| Cutting Out | 31.00% | ~142,042 |
+| Classy Act | 31.00% | ~142,042 |
+| Raccoon City Recruit | 31.00% | ~142,042 |
+| Near-Death Experience | 30.00% | ~137,460 |
+| Blood on your hands | 28.00% | ~128,296 |
+| All Aboard | 28.00% | ~128,296 |
+| III-50 | 27.00% | ~123,714 |
+| Shock Therapy | 27.00% | ~123,714 |
+| Item of Obsession | 27.00% | ~123,714 |
+| Holiday Get-Together | 27.00% | ~123,714 |
+| Campbell's Chapel Legacy | 27.00% | ~123,714 |
+| Ancestor's Rite | 27.00% | ~123,714 |
+| Cottage Owner | 26.00% | ~119,132 |
+| Escaping the Nightmare | 26.00% | ~119,132 |
+| Outrun Evil | 26.00% | ~119,132 |
+| Grim Pilgrimage | 26.00% | ~119,132 |
+| Leapfrog | 25.00% | ~114,550 |
+| Escape Artist | 24.00% | ~109,968 |
+| Gifts for the Fog | 24.00% | ~109,968 |
+| House of Pain | 23.00% | ~105,386 |
+| Shrine Apparatus | 23.00% | ~105,386 |
+| Selfless Survival | 23.00% | ~105,386 |
+| End of Days | 23.00% | ~105,386 |
+| A bite for the Entity | 22.00% | ~100,804 |
+| Hemophobia | 22.00% | ~100,804 |
+| Insult and Injury | 22.00% | ~100,804 |
+| Outrun the Overlap | 22.00% | ~100,804 |
+| Blood on your face | 21.00% | ~96,222 |
+| Serial Killer | 21.00% | ~96,222 |
+| Devoted Gatekeeping | 21.00% | ~96,222 |
+| A Fast Death | 21.00% | ~96,222 |
+| Deep Cleansing | 20.00% | ~91,640 |
+| Game Over | 20.00% | ~91,640 |
+| Lifting The Fog | 20.00% | ~91,640 |
+| Broken Bodies | 19.00% | ~87,058 |
+| Jump Scares | 18.00% | ~82,476 |
+| Texas BBQ | 18.00% | ~82,476 |
+| Happy Holidays | 18.00% | ~82,476 |
+| I See You | 17.00% | ~77,894 |
+| Party Crasher | 16.00% | ~73,312 |
+| Whiffing to Success | 16.00% | ~73,312 |
+| Outrage | 16.00% | ~73,312 |
+| Heavy Burden | 16.00% | ~73,312 |
+| Looter | 15.00% | ~68,730 |
+| Prowler | 15.00% | ~68,730 |
+| Chorus of Chaos | 15.00% | ~68,730 |
+| Triage | 14.00% | ~64,148 |
+| High Speed Pursuit | 14.00% | ~64,148 |
+| Rebuilding The Borgo | 14.00% | ~64,148 |
+| Punch Drunk | 13.00% | ~59,566 |
+| Blood in your mouth | 12.00% | ~54,984 |
+| Power Moves | 11.00% | ~50,402 |
+| Dismantle | 10.00% | ~45,820 |
+| Denied! | 10.00% | ~45,820 |
+| Death of Ignorance | 10.00% | ~45,820 |
+| Milk 'n' Cookies | 9.00% | ~41,238 |
+| Bodyguard | 9.00% | ~41,238 |
+| A feast for the Entity | 8.00% | ~36,656 |
+| In the void she walks | 8.00% | ~36,656 |
+| Mad House | 8.00% | ~36,656 |
+| Deranged Pursuit | 8.00% | ~36,656 |
+| Ghost in the Machine | 8.00% | ~36,656 |
+| From the Deep | 8.00% | ~36,656 |
+| Rescue Mission | 7.00% | ~32,074 |
+| Hack the Mainframe | 7.00% | ~32,074 |
+| Silent Approach | 6.00% | ~27,492 |
+| Left For Dead | 6.00% | ~27,492 |
+| Speed Kills | 6.00% | ~27,492 |
+| One Thousand Cuts | 6.00% | ~27,492 |
+| Multi-tasker | 6.00% | ~27,492 |
+| Bound and Downed | 5.00% | ~22,910 |
+| Cripple them all | 4.00% | ~18,328 |
+| The Key to Escape | 4.00% | ~18,328 |
+| Adept Meg | 4.00% | ~18,328 |
+| Even Punishment | 4.00% | ~18,328 |
+| Terminal Illness | 4.00% | ~18,328 |
+| Totally Vulnerable | 4.00% | ~18,328 |
+| Tear Their Soul Apart | 4.00% | ~18,328 |
+| Viral Video | 4.00% | ~18,328 |
+| The Grind | 3.00% | ~13,746 |
+| Adept Claudette | 3.00% | ~13,746 |
+| Triggered | 3.00% | ~13,746 |
+| Swirling Death | 3.00% | ~13,746 |
+| Butcherin' | 3.00% | ~13,746 |
+| Conniption | 3.00% | ~13,746 |
+| Biological Weaponry | 3.00% | ~13,746 |
+| Adept Dwight | 2.00% | ~9,164 |
+| The man behind the bush | 2.00% | ~9,164 |
+| Evil Incarnate | 2.00% | ~9,164 |
+| Dream Demon | 2.00% | ~9,164 |
+| Taking One For The Team | 2.00% | ~9,164 |
+| Adept Bill | 2.00% | ~9,164 |
+| Bloodbath | 2.00% | ~9,164 |
+| Quick Draw | 2.00% | ~9,164 |
+| Cleansed in Agony | 2.00% | ~9,164 |
+| Fleet of Foot | 2.00% | ~9,164 |
+| Bump in the Night | 2.00% | ~9,164 |
+| Adept Jake | 1.00% | ~4,582 |
+| Adept Nea | 1.00% | ~4,582 |
+| Shocking Treatment | 1.00% | ~4,582 |
+| Adept David | 1.00% | ~4,582 |
+| Smoked | 1.00% | ~4,582 |
+| Not Today | 1.00% | ~4,582 |
+| Tag Team | 1.00% | ~4,582 |
+| Bless You | 1.00% | ~4,582 |
+| Adept Mikaela | 1.00% | ~4,582 |
+| Collision Course | 1.00% | ~4,582 |
+| Thrill of the Chase | 1.00% | ~4,582 |
+| Adept Min | 0.90% | ~4,124 |
+| Adept Kate | 0.90% | ~4,124 |
+| Caws of Death | 0.90% | ~4,124 |
+| Cruelty Loves Company | 0.90% | ~4,124 |
+| Adept Wraith | 0.80% | ~3,666 |
+| Adept Huntress | 0.80% | ~3,666 |
+| Hiding Seeker | 0.80% | ~3,666 |
+| Adept Trapper | 0.70% | ~3,207 |
+| Adept Hillbilly | 0.70% | ~3,207 |
+| Adept Leon | 0.70% | ~3,207 |
+| Adept Nurse | 0.60% | ~2,749 |
+| Adept Yui | 0.60% | ~2,749 |
+| Adept Jill | 0.60% | ~2,749 |
+| Adept Laurie | 0.50% | ~2,291 |
+| I Want to Play a Game | 0.50% | ~2,291 |
+| Adept Tapp | 0.50% | ~2,291 |
+| Adept Legion | 0.50% | ~2,291 |
+| Adept Ghost Face | 0.50% | ~2,291 |
+| Adept Cheryl | 0.50% | ~2,291 |
+| Adept Trickster | 0.50% | ~2,291 |
+| Adept Nemesis | 0.50% | ~2,291 |
+| Outbreak Breakout | 0.50% | ~2,291 |
+| Adept Doctor | 0.40% | ~1,833 |
+| Adept Shape | 0.40% | ~1,833 |
+| Adept Spirit | 0.40% | ~1,833 |
+| Adept Adam | 0.40% | ~1,833 |
+| Adept Jane | 0.40% | ~1,833 |
+| Adept Zarina | 0.40% | ~1,833 |
+| Adept Blight | 0.40% | ~1,833 |
+| Adept Felix | 0.40% | ~1,833 |
+| Adept Yun-Jin | 0.40% | ~1,833 |
+| Adept Cenobite | 0.40% | ~1,833 |
+| Adept Artist | 0.40% | ~1,833 |
+| Adept Jonah | 0.40% | ~1,833 |
+| Adept Onryō | 0.40% | ~1,833 |
+| Adept Haddie | 0.40% | ~1,833 |
+| Adept Mastermind | 0.40% | ~1,833 |
+| Adept Ada | 0.40% | ~1,833 |
+| Adept Rebecca | 0.40% | ~1,833 |
+| Adept Vittorio | 0.40% | ~1,833 |
+| From the void she kills | 0.30% | ~1,375 |
+| Adept Hag | 0.30% | ~1,375 |
+| Adept Ace | 0.30% | ~1,375 |
+| Adept Cannibal | 0.30% | ~1,375 |
+| Adept Nightmare | 0.30% | ~1,375 |
+| Adept Quentin | 0.30% | ~1,375 |
+| Adept Pig | 0.30% | ~1,375 |
+| Adept Clown | 0.30% | ~1,375 |
+| Adept Jeff | 0.30% | ~1,375 |
+| Adept Plague | 0.30% | ~1,375 |
+| Adept Ash | 0.30% | ~1,375 |
+| Adept Deathslinger | 0.30% | ~1,375 |
+| Adept Executioner | 0.30% | ~1,375 |
+| Adept Élodie | 0.30% | ~1,375 |
+| Adept Yoichi | 0.30% | ~1,375 |
+| Adept Dredge | 0.30% | ~1,375 |
+| Adept Knight | 0.30% | ~1,375 |
+| Adept Skull Merchant | 0.30% | ~1,375 |
 | Skilled Generalist | 0.20% | ~916 |
 | Adept Oni | 0.20% | ~916 |
 | Adept Twins | 0.20% | ~916 |
@@ -221,7 +221,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Tools of the Trade | 0.10% | ~458 |
 | Expert Generalist | 0.10% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 457,996 (Ranked 31)  
+Progressed: 458,200 (Ranked 31)  
 Completed: 39 (0.01%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,15 +253,15 @@ Completed: 39 (0.01%) (Ranked 193)
 | 2023-05-19 | 446,624 | 38 |
 | 2023-05-20 | 451,204 | 39 |
 | 2023-05-21 | 455,765 | 39 |
-| 2023-05-22 | 457,996 | 39 |
+| 2023-05-22 | 458,200 | 39 |
 ## Awards
 Max (Diverse Characters): 27,559  (Ranked 16)  
-Sum: 221,594 (Ranked 12)  
+Sum: 221,609 (Ranked 12)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 27,559 |
-| This game has Competitive Players | 25,579 |
+| This game has Competitive Players | 25,594 |
 | This game is Highly Recommended | 25,242 |
 | This game is Extremely Fun | 25,094 |
 | This game has Amazing Characters | 25,030 |
@@ -392,4 +392,4 @@ Diff (max vs sum): 4
 | 2023-05-19 | 4.52 | - | 27,476 | 221,025 |
 | 2023-05-20 | 4.52 | - | 27,514 | 221,224 |
 | 2023-05-21 | 4.52 | - | 27,559 | 221,473 |
-| 2023-05-22 | 4.52 | - | 27,559 | 221,594 |
+| 2023-05-22 | 4.52 | - | 27,559 | 221,609 |

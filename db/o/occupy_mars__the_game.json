@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -52,9 +52,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 792,
+  "EOS_Progressed": 795,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 784,
+  "EOS_NewPlayers": 787,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -552,6 +552,11 @@
       "Time": "2023-05-22T17:00:27.5887039+00:00",
       "NumProgressed": 792,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T18:00:31.3435056+00:00",
+      "NumProgressed": 795,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -633,9 +638,9 @@
       "ID": "ACHIEVEMENT_THE_COLLECTOR",
       "SetID": "l546gc",
       "Name": "The Collector",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 40
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -643,7 +648,7 @@
       "Name": "Zero Waste",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -683,7 +688,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -715,15 +720,15 @@
       "Name": "Detective",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
       "SetID": "l546gc",
       "Name": "DeDust",
-      "Percentage": 0.6,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "NEW_ACHIEVEMENT_DUMB_WAYS",
@@ -739,7 +744,7 @@
       "Name": "Electrician",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -779,7 +784,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -819,7 +824,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -923,7 +928,7 @@
       "Name": "Bob The Builder",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -946,7 +951,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 792,
+      "Progressed": 795,
       "Completed": 0
     }
   ],
@@ -954,8 +959,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-05-22T10:57:22.9515554+00:00",
-  "LastChanged_Achievements": "2023-05-22T17:00:27.5887034+00:00",
+  "LastChanged_Achievements": "2023-05-22T18:00:31.3435051+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:55.9692167+00:00",
-  "LastUpdate_Ratings": "2023-05-22T16:57:23.042081+00:00",
-  "LastUpdate_Achievements": "2023-05-22T17:00:27.5887442+00:00"
+  "LastUpdate_Ratings": "2023-05-22T17:57:21.952964+00:00",
+  "LastUpdate_Achievements": "2023-05-22T18:00:31.3435525+00:00"
 }

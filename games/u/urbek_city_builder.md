@@ -12,11 +12,11 @@
 | The woodcutter | 24.00% | ~41 |
 | I like books | 19.00% | ~32 |
 | I like my life | 17.00% | ~29 |
-| Clean energy | 16.00% | ~27 |
+| Clean energy | 17.00% | ~29 |
 | Soviet town | 16.00% | ~27 |
 | Bucolic city | 12.00% | ~20 |
+| I love parks | 11.00% | ~19 |
 | King of fish | 10.00% | ~17 |
-| I love parks | 10.00% | ~17 |
 | I love books! | 9.00% | ~15 |
 | What would we do if we can't go out with friends? | 8.00% | ~14 |
 | Food producer | 6.00% | ~10 |

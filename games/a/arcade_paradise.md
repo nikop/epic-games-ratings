@@ -10,7 +10,7 @@ Rating: 4.57 (Ranked 436)
 | I can't wait! | 83.00% | ~493 |
 | Swish | 56.00% | ~333 |
 | Clean up on Aisle 9 | 40.00% | ~238 |
-| Machine Maxed | 30.00% | ~178 |
+| Machine Maxed | 31.00% | ~184 |
 | Bug Fixer | 25.00% | ~148 |
 | Gerald of Riviera | 25.00% | ~148 |
 | Existential dread | 24.00% | ~143 |
@@ -24,8 +24,8 @@ Rating: 4.57 (Ranked 436)
 | Jimmy Goldman Would be Proud | 6.00% | ~36 |
 | Bombscare | 5.00% | ~30 |
 | Rhythm is a dancer | 5.00% | ~30 |
+| Your Bloody Valentine | 5.00% | ~30 |
 | You Spin Me Round | 5.00% | ~30 |
-| Your Bloody Valentine | 4.00% | ~24 |
 | GoldGuy Jr | 4.00% | ~24 |
 | Nose to the Grindstone | 4.00% | ~24 |
 | Waking nightmare | 4.00% | ~24 |

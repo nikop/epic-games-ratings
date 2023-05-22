@@ -4,8 +4,8 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2724,
+  "EOS_Progressed": 2725,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1139,6 +1139,11 @@
       "Time": "2023-05-22T17:05:37.4481171+00:00",
       "NumProgressed": 2724,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-22T18:05:42.3815345+00:00",
+      "NumProgressed": 2725,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1286,7 +1291,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2179
+      "UsersEstimate": 2180
     },
     {
       "ID": "campaign20",
@@ -1350,7 +1355,7 @@
       "Name": "Boulder Clash",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "scenario1",
@@ -1382,7 +1387,7 @@
       "Name": "A Secret Recipe",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "scenario5",
@@ -1413,7 +1418,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2724,
+      "Progressed": 2725,
       "Completed": 9
     }
   ],
@@ -1421,8 +1426,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-22T17:05:37.4481165+00:00",
+  "LastChanged_Achievements": "2023-05-22T18:05:42.3815339+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:08.6918917+00:00",
-  "LastUpdate_Ratings": "2023-05-22T16:59:57.8165489+00:00",
-  "LastUpdate_Achievements": "2023-05-22T17:05:37.4481482+00:00"
+  "LastUpdate_Ratings": "2023-05-22T18:00:02.4645817+00:00",
+  "LastUpdate_Achievements": "2023-05-22T18:05:42.3815613+00:00"
 }

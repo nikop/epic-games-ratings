@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 262,
+  "EOS_Progressed": 263,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 261,
+  "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 14,
-  "EOS_Completed_Percentage": 5.34,
+  "EOS_Completed_Percentage": 5.32,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -436,6 +436,11 @@
       "Time": "2023-05-22T17:00:45.5034236+00:00",
       "NumProgressed": 262,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-22T18:00:50.2426942+00:00",
+      "NumProgressed": 263,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 30,
@@ -447,15 +452,15 @@
       "Name": "A fresh start",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "LEVEL_002",
       "SetID": "212bg48",
       "Name": "Promising crop",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 210
     },
     {
       "ID": "LEVEL_003",
@@ -463,7 +468,7 @@
       "Name": "A horse in the country",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "LEVEL_004",
@@ -479,7 +484,7 @@
       "Name": "Small village",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "LEVEL_006",
@@ -493,9 +498,9 @@
       "ID": "LEVEL_007",
       "SetID": "212bg48",
       "Name": "Animals in the farm",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 87
     },
     {
       "ID": "LEVEL_008",
@@ -517,9 +522,9 @@
       "ID": "LEVEL_010",
       "SetID": "212bg48",
       "Name": "Rocks around the island",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 58
     },
     {
       "ID": "LEVEL_011",
@@ -551,7 +556,7 @@
       "Name": "Cross-country",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "LEVEL_015",
@@ -686,14 +691,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 262,
+      "Progressed": 263,
       "Completed": 14
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-22T17:00:45.5034231+00:00",
+  "LastChanged_Achievements": "2023-05-22T18:00:50.2426935+00:00",
   "LastUpdate_AppInfo": "2023-05-22T13:02:13.5547551+00:00",
-  "LastUpdate_Ratings": "2023-05-22T16:57:05.1031645+00:00",
-  "LastUpdate_Achievements": "2023-05-22T17:00:45.5034483+00:00"
+  "LastUpdate_Ratings": "2023-05-22T17:57:02.4902268+00:00",
+  "LastUpdate_Achievements": "2023-05-22T18:00:50.2427314+00:00"
 }

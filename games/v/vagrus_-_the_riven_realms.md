@@ -17,6 +17,7 @@
 | The More the Merrier | 2.00% | ~1 |
 | Breached | 2.00% | ~1 |
 | Fight Another Day | 2.00% | ~1 |
+| Pilgrimage's End | 2.00% | ~1 |
 | Liberator | 0.00% | ~0 |
 | Making Contact | 0.00% | ~0 |
 | For the Cause! | 0.00% | ~0 |
@@ -90,7 +91,6 @@
 | Taskmaster | 0.00% | ~0 |
 | Tax Evasion | 0.00% | ~0 |
 | Theory to Practice | 0.00% | ~0 |
-| Pilgrimage's End | 0.00% | ~0 |
 | Wyrmslayer | 0.00% | ~0 |
 | Inquisitions of Discord | 0.00% | ~0 |
 | Defiant | 0.00% | ~0 |
@@ -104,7 +104,7 @@
 | Enterpreneur | 0.00% | ~0 |
 | Insectoid Propagator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65 (Ranked 282)  
+Progressed: 65 (Ranked 283)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |

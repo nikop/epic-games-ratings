@@ -410,9 +410,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 13308,
+  "EOS_Progressed": 13312,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 744,
+  "EOS_NewPlayers": 748,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1190,6 +1190,11 @@
       "Time": "2023-05-22T17:02:14.9610502+00:00",
       "NumProgressed": 13308,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-05-22T18:02:28.2006564+00:00",
+      "NumProgressed": 13312,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 40,
@@ -1233,7 +1238,7 @@
       "Name": "Flesh Wound",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -1481,7 +1486,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -1520,13 +1525,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13308,
+      "Progressed": 13312,
       "Completed": 52
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1234,
+      "Progressed": 1238,
       "Completed": 29
     }
   ],
@@ -1534,8 +1539,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-16T17:57:38.030273+00:00",
-  "LastChanged_Achievements": "2023-05-22T17:02:14.9610496+00:00",
+  "LastChanged_Achievements": "2023-05-22T18:02:28.2006558+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-22T16:57:48.116711+00:00",
-  "LastUpdate_Achievements": "2023-05-22T17:02:14.9610897+00:00"
+  "LastUpdate_Ratings": "2023-05-22T17:57:48.4964438+00:00",
+  "LastUpdate_Achievements": "2023-05-22T18:02:28.2006905+00:00"
 }

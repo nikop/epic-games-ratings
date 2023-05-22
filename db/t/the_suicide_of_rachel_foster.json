@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1043,
+  "EOS_Progressed": 1044,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.89,
   "EosHistory": [
@@ -587,6 +587,11 @@
       "Time": "2023-05-22T10:06:18.2793576+00:00",
       "NumProgressed": 1043,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-22T18:05:34.1617685+00:00",
+      "NumProgressed": 1044,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 11,
@@ -606,7 +611,7 @@
       "Name": "Freeze to death",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "ACH_Cacciavite",
@@ -662,7 +667,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 77,
       "XP": 100,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -685,15 +690,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1043,
+      "Progressed": 1044,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-05-22T17:05:29.1337668+00:00",
+  "LastChanged_Achievements": "2023-05-22T18:05:34.161768+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:12:14.3771027+00:00",
-  "LastUpdate_Ratings": "2023-05-22T16:59:51.109256+00:00",
-  "LastUpdate_Achievements": "2023-05-22T17:05:29.1337787+00:00"
+  "LastUpdate_Ratings": "2023-05-22T17:59:53.3118809+00:00",
+  "LastUpdate_Achievements": "2023-05-22T18:05:34.1617782+00:00"
 }

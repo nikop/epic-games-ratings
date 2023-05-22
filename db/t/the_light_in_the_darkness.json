@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1373,
+  "EOS_Progressed": 1375,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 7.79,
+  "EOS_Completed_Percentage": 7.78,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -1518,6 +1518,11 @@
       "Time": "2023-05-22T15:06:10.8692601+00:00",
       "NumProgressed": 1373,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-05-22T18:05:27.9604451+00:00",
+      "NumProgressed": 1375,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 12,
@@ -1529,7 +1534,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "Bernard",
@@ -1545,7 +1550,7 @@
       "Name": "Building the Fox",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "Green Ticket Roundup",
@@ -1553,7 +1558,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "Jacques a Dit",
@@ -1561,7 +1566,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "Jakob",
@@ -1569,7 +1574,7 @@
       "Name": "Jakob",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "Jude",
@@ -1593,7 +1598,7 @@
       "Name": "Little Helper",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -1624,7 +1629,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1373,
+      "Progressed": 1375,
       "Completed": 107
     }
   ],
@@ -1632,8 +1637,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-22T17:05:22.8871033+00:00",
+  "LastChanged_Achievements": "2023-05-22T18:05:27.9604445+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:11.427731+00:00",
-  "LastUpdate_Ratings": "2023-05-22T16:59:26.0930268+00:00",
-  "LastUpdate_Achievements": "2023-05-22T17:05:22.8871225+00:00"
+  "LastUpdate_Ratings": "2023-05-22T17:59:26.8043829+00:00",
+  "LastUpdate_Achievements": "2023-05-22T18:05:27.9604634+00:00"
 }

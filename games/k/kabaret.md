@@ -8,12 +8,13 @@
 | The Boy That Came With The Rain | 60.00% | ~6 |
 | Welcome To The Kabaret | 50.00% | ~5 |
 | Congkak Hero | 50.00% | ~5 |
-| Congkak Champion | 40.00% | ~4 |
+| Congkak Champion | 50.00% | ~5 |
+| All Alone With A Curse | 50.00% | ~5 |
 | Equality | 40.00% | ~4 |
 | An Unheard Song | 40.00% | ~4 |
 | Let There Be Light | 40.00% | ~4 |
-| All Alone With A Curse | 40.00% | ~4 |
 | I'll Become... A Beast | 30.00% | ~3 |
+| In Service Of Others | 30.00% | ~3 |
 | Goodbye Dear Friend | 30.00% | ~3 |
 | By My Own Hands | 30.00% | ~3 |
 | Bookworm | 30.00% | ~3 |
@@ -27,8 +28,9 @@
 | Guli Pro | 20.00% | ~2 |
 | Guli Master | 20.00% | ~2 |
 | Congkak Legend | 20.00% | ~2 |
-| In Service Of Others | 20.00% | ~2 |
 | Deep Thinker | 20.00% | ~2 |
+| Face Value | 20.00% | ~2 |
+| I Like Salty Seawater | 20.00% | ~2 |
 | I Sit On The Beach, Watching The Tide Leave | 20.00% | ~2 |
 | Power Of Friendship | 20.00% | ~2 |
 | Squashed Bug | 20.00% | ~2 |
@@ -44,12 +46,10 @@
 | Rebel To God | 10.00% | ~1 |
 | Expert Service | 10.00% | ~1 |
 | Human Supremacy | 10.00% | ~1 |
-| Face Value | 10.00% | ~1 |
 | Uncommitted | 10.00% | ~1 |
 | Thou Art Naive | 10.00% | ~1 |
 | Philosopher | 10.00% | ~1 |
 | Unbiased | 10.00% | ~1 |
-| I Like Salty Seawater | 10.00% | ~1 |
 | There's Something About You... | 10.00% | ~1 |
 | Under The Sea | 10.00% | ~1 |
 | A Foot In Reality | 10.00% | ~1 |

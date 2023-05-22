@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -4129,10 +4129,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 13120,
       "NumberOfAwardsMax": 6564
+    },
+    {
+      "Time": "2023-05-22T17:59:34.2970036+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13121,
+      "NumberOfAwardsMax": 6564
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13120,
+  "NumberOfAwards": 13121,
   "NumberOfAwardsMax": 6564,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4182,7 +4188,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 725
+      "Count": 726
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4209,9 +4215,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 50636,
+  "EOS_Progressed": 50638,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 704,
+  "EOS_NewPlayers": 700,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7229,6 +7235,11 @@
       "Time": "2023-05-22T17:05:39.8809795+00:00",
       "NumProgressed": 50636,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T18:05:44.9082033+00:00",
+      "NumProgressed": 50638,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -7256,7 +7267,7 @@
       "Name": "Bannerlord",
       "Percentage": 20,
       "XP": 65,
-      "UsersEstimate": 10127
+      "UsersEstimate": 10128
     },
     {
       "ID": "Best served cold",
@@ -7296,7 +7307,7 @@
       "Name": "Crowdfunded",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2025
+      "UsersEstimate": 2026
     },
     {
       "ID": "Crackshot",
@@ -7312,7 +7323,7 @@
       "Name": "Crush your enemies",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2025
+      "UsersEstimate": 2026
     },
     {
       "ID": "Duelist",
@@ -7368,7 +7379,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6076
+      "UsersEstimate": 6077
     },
     {
       "ID": "Great Granny",
@@ -7400,7 +7411,7 @@
       "Name": "Horde breaker",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 10127
+      "UsersEstimate": 10128
     },
     {
       "ID": "I can do it",
@@ -7432,7 +7443,7 @@
       "Name": "King Solomon",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 7595
+      "UsersEstimate": 7596
     },
     {
       "ID": "Kingslayer",
@@ -7520,7 +7531,7 @@
       "Name": "My way",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2025
+      "UsersEstimate": 2026
     },
     {
       "ID": "Real Estate",
@@ -7616,7 +7627,7 @@
       "Name": "Trained",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 10127
+      "UsersEstimate": 10128
     },
     {
       "ID": "Undercover",
@@ -7632,7 +7643,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2025
+      "UsersEstimate": 2026
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -7647,15 +7658,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 50636,
+      "Progressed": 50638,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-05-22T16:59:32.5492506+00:00",
-  "LastChanged_Achievements": "2023-05-22T17:05:39.8809792+00:00",
+  "LastChanged": "2023-05-22T17:59:34.2970034+00:00",
+  "LastChanged_Achievements": "2023-05-22T18:05:44.9082027+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:05:00.2672545+00:00",
-  "LastUpdate_Ratings": "2023-05-22T16:59:32.5492514+00:00",
-  "LastUpdate_Achievements": "2023-05-22T17:05:39.8810313+00:00"
+  "LastUpdate_Ratings": "2023-05-22T17:59:34.2970041+00:00",
+  "LastUpdate_Achievements": "2023-05-22T18:05:44.9082617+00:00"
 }

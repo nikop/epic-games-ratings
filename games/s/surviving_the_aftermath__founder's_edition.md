@@ -6,18 +6,18 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~3,925 |
-| Leader | 60.00% | ~3,364 |
+| First Step | 70.00% | ~3,926 |
+| Leader | 60.00% | ~3,365 |
 | Explorer | 53.00% | ~2,972 |
 | Healer | 53.00% | ~2,972 |
-| Aspiring Inventor | 44.00% | ~2,467 |
+| Aspiring Inventor | 44.00% | ~2,468 |
 | Adventurer | 41.00% | ~2,299 |
 | Famous Healer | 38.00% | ~2,131 |
-| Local Leader | 35.00% | ~1,962 |
-| New Opportunities | 34.00% | ~1,906 |
-| Famous Explorer | 33.00% | ~1,850 |
-| Energized | 33.00% | ~1,850 |
-| The Long Haul | 33.00% | ~1,850 |
+| Local Leader | 35.00% | ~1,963 |
+| New Opportunities | 34.00% | ~1,907 |
+| Famous Explorer | 33.00% | ~1,851 |
+| Energized | 33.00% | ~1,851 |
+| The Long Haul | 33.00% | ~1,851 |
 | Survivor | 31.00% | ~1,738 |
 | The Great Healer | 30.00% | ~1,682 |
 | Catastrofan | 28.00% | ~1,570 |
@@ -28,10 +28,10 @@ Number of Ratings: 836  (23.09.2022)
 | Great Leader | 22.00% | ~1,234 |
 | Ice Lakes | 22.00% | ~1,234 |
 | Mentor | 22.00% | ~1,234 |
-| Merchant | 21.00% | ~1,177 |
-| Real Survivor | 21.00% | ~1,177 |
-| War Never Changes | 19.00% | ~1,065 |
-| Rocket Surgeon | 19.00% | ~1,065 |
+| Merchant | 21.00% | ~1,178 |
+| Real Survivor | 21.00% | ~1,178 |
+| War Never Changes | 19.00% | ~1,066 |
+| Rocket Surgeon | 19.00% | ~1,066 |
 | Friendly | 16.00% | ~897 |
 | Big Game Hunter | 16.00% | ~897 |
 | Spreading Influence | 16.00% | ~897 |
@@ -43,8 +43,8 @@ Number of Ratings: 836  (23.09.2022)
 | It's a Finnish Thing | 10.00% | ~561 |
 | Sky Burial | 9.00% | ~505 |
 | Trader | 8.00% | ~449 |
-| Bread and Circuses | 7.00% | ~392 |
-| Tailored to fit | 7.00% | ~392 |
+| Bread and Circuses | 7.00% | ~393 |
+| Tailored to fit | 7.00% | ~393 |
 | Really Friendly | 6.00% | ~336 |
 | New Eden | 6.00% | ~336 |
 | Amped Up | 5.00% | ~280 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Finnished | 0.20% | ~11 |
 | Customized calamities | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,607 (Ranked 120)  
+Progressed: 5,608 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-19 | 5,457 | 0 |
 | 2023-05-20 | 5,518 | 0 |
 | 2023-05-21 | 5,581 | 0 |
-| 2023-05-22 | 5,607 | 0 |
+| 2023-05-22 | 5,608 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 325)  
 Sum: 652 (Ranked 270)  
