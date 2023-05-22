@@ -21,13 +21,13 @@
 | 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.79% |
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.76% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
-| 22 | [Scorn](games/s/scorn.md) | 6.92% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 6.82% |
+| 22 | [Scorn](games/s/scorn.md) | 6.91% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 6.81% |
 | 24 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 25 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 26 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.88% |
-| 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
-| 28 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.74% |
+| 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
+| 27 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.74% |
+| 28 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.71% |
 | 29 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.49% |
 | 30 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.24% |
 | 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.89% |
