@@ -17,23 +17,23 @@
 | BumBum | 41.00% | ~67 |
 | Blunga 10 | 38.00% | ~62 |
 | Onk Boga V | 38.00% | ~62 |
+| 1978 | 34.00% | ~56 |
 | Onk Boga VI | 34.00% | ~56 |
+| Onk Boga VII | 34.00% | ~56 |
 | IQ62 | 34.00% | ~56 |
-| 1978 | 33.00% | ~54 |
-| Onk Boga VII | 33.00% | ~54 |
-| Onk Boga VIII | 31.00% | ~51 |
-| Blubb | 31.00% | ~51 |
+| Onk Boga VIII | 32.00% | ~52 |
+| Blubb | 32.00% | ~52 |
+| ParaPara! | 31.00% | ~51 |
+| Onk Boga IX | 31.00% | ~51 |
 | Blunga 15 | 30.00% | ~49 |
-| ParaPara! | 30.00% | ~49 |
 | Kokakoka | 30.00% | ~49 |
-| Onk Boga IX | 30.00% | ~49 |
 | AKRE! | 30.00% | ~49 |
-| Blunga 20 | 10.00% | ~16 |
-| Blunga 25 | 5.00% | ~8 |
+| Blunga 20 | 11.00% | ~18 |
+| Blunga 25 | 6.00% | ~10 |
 | Blunga 30 | 5.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 164 (Ranked 239)  
-Completed: 8 (4.88%) (Ranked 31)  
+Progressed: 164 (Ranked 240)  
+Completed: 9 (5.49%) (Ranked 29)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -46,7 +46,7 @@ Completed: 8 (4.88%) (Ranked 31)
 | 2023-05-18 | 159 | 8 |
 | 2023-05-19 | 161 | 8 |
 | 2023-05-21 | 163 | 8 |
-| 2023-05-22 | 164 | 8 |
+| 2023-05-22 | 164 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -4221,9 +4221,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 50648,
+  "EOS_Progressed": 50652,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 703,
+  "EOS_NewPlayers": 704,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7256,6 +7256,11 @@
       "Time": "2023-05-22T20:06:01.215016+00:00",
       "NumProgressed": 50648,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T21:06:50.2299794+00:00",
+      "NumProgressed": 50652,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -7275,7 +7280,7 @@
       "Name": "Apple of my eye",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 6584
+      "UsersEstimate": 6585
     },
     {
       "ID": "Bannerlord",
@@ -7307,7 +7312,7 @@
       "Name": "Butterlord",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 3545
+      "UsersEstimate": 3546
     },
     {
       "ID": "Catch",
@@ -7387,7 +7392,7 @@
       "Name": "Freedom!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1519
+      "UsersEstimate": 1520
     },
     {
       "ID": "God of the Arena",
@@ -7459,7 +7464,7 @@
       "Name": "King Solomon",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 7597
+      "UsersEstimate": 7598
     },
     {
       "ID": "Kingslayer",
@@ -7475,7 +7480,7 @@
       "Name": "Know your enemy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2532
+      "UsersEstimate": 2533
     },
     {
       "ID": "Lance-a-lot",
@@ -7491,7 +7496,7 @@
       "Name": "Landlord",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 15194
+      "UsersEstimate": 15196
     },
     {
       "ID": "Lawbringer",
@@ -7499,7 +7504,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 17727
+      "UsersEstimate": 17728
     },
     {
       "ID": "Lawmaker",
@@ -7507,7 +7512,7 @@
       "Name": "Lawmaker",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 10636
+      "UsersEstimate": 10637
     },
     {
       "ID": "Long live the Empire",
@@ -7603,7 +7608,7 @@
       "Name": "Supreme Emperor",
       "Percentage": 1,
       "XP": 200,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "Swordbearer",
@@ -7611,7 +7616,7 @@
       "Name": "Swordbearer",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4558
+      "UsersEstimate": 4559
     },
     {
       "ID": "The king is pleased",
@@ -7674,15 +7679,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 50648,
+      "Progressed": 50652,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-05-22T19:59:44.1167455+00:00",
-  "LastChanged_Achievements": "2023-05-22T20:06:01.2150156+00:00",
+  "LastChanged_Achievements": "2023-05-22T21:06:50.229979+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:05:00.2672545+00:00",
-  "LastUpdate_Ratings": "2023-05-22T19:59:44.116746+00:00",
-  "LastUpdate_Achievements": "2023-05-22T20:06:01.215065+00:00"
+  "LastUpdate_Ratings": "2023-05-22T21:00:23.3164161+00:00",
+  "LastUpdate_Achievements": "2023-05-22T21:06:50.2300391+00:00"
 }

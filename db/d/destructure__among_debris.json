@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 85,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
     "PcReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -520,9 +520,9 @@
       "ID": "graduation",
       "SetID": "jig50d",
       "Name": "Graduation",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "i_prefer_fusion_jazz",
@@ -600,9 +600,9 @@
       "ID": "rookie",
       "SetID": "jig50d",
       "Name": "Rookie",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "scrap_collector",
@@ -689,8 +689,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-22T20:03:21.5495074+00:00",
+  "LastChanged_Achievements": "2023-05-22T21:03:19.5979174+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:10:10.466439+00:00",
-  "LastUpdate_Ratings": "2023-05-22T20:00:04.5200171+00:00",
-  "LastUpdate_Achievements": "2023-05-22T20:03:21.549527+00:00"
+  "LastUpdate_Ratings": "2023-05-22T21:00:40.9454071+00:00",
+  "LastUpdate_Achievements": "2023-05-22T21:03:19.5979427+00:00"
 }

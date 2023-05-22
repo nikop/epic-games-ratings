@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Graduation | 73.00% | ~67 |
+| Graduation | 74.00% | ~68 |
 | You Have Been Deaded | 66.00% | ~61 |
-| Rookie | 63.00% | ~58 |
+| Rookie | 64.00% | ~59 |
 | Apprentice Destructor | 23.00% | ~21 |
 | I Prefer Jazz Fusion | 10.00% | ~9 |
 | You Are Actually Supposed To Use Those | 8.00% | ~7 |

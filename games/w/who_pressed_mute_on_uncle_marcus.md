@@ -22,7 +22,7 @@
 | Making a murderer | 16.00% | ~26 |
 | The whole truth | 12.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 160 (Ranked 242)  
+Progressed: 160 (Ranked 243)  
 Completed: 13 (8.12%) (Ranked 17)  
 ## EOS Players History
 | Date | Progressed | Completed |

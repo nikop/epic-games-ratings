@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 218,
-  "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_Completed": 49,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
     "PcReleaseDate": "2021-08-28T00:00:00+00:00",
@@ -63,11 +63,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 276,
+  "EOS_Progressed": 277,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.9,
+  "EOS_Completed_Percentage": 2.89,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.4947976+00:00",
@@ -127,6 +127,11 @@
     {
       "Time": "2023-05-21T19:03:52.2902859+00:00",
       "NumProgressed": 276,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-22T21:03:40.3287401+00:00",
+      "NumProgressed": 277,
       "NumCompleted": 8
     }
   ],
@@ -193,9 +198,9 @@
       "ID": "achievement_07",
       "SetID": "7881h0d",
       "Name": "True magic doesn\u0027t exist",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 17
     },
     {
       "ID": "achievement_08",
@@ -211,7 +216,7 @@
       "Name": "Grau Hill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "achievement_10",
@@ -219,7 +224,7 @@
       "Name": "The creature",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "achievement_11",
@@ -227,7 +232,7 @@
       "Name": "A forgotten language",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "achievement_12",
@@ -243,7 +248,7 @@
       "Name": "One step down",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "achievement_14",
@@ -267,7 +272,7 @@
       "Name": "The other side of the mirror",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "achievement_17",
@@ -290,7 +295,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 276,
+      "Progressed": 277,
       "Completed": 8
     }
   ],
@@ -298,8 +303,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-05-22T20:03:38.2846388+00:00",
+  "LastChanged_Achievements": "2023-05-22T21:03:40.3287396+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:18.0777045+00:00",
-  "LastUpdate_Ratings": "2023-05-22T19:57:39.2801434+00:00",
-  "LastUpdate_Achievements": "2023-05-22T20:03:38.2846508+00:00"
+  "LastUpdate_Ratings": "2023-05-22T20:57:49.1117541+00:00",
+  "LastUpdate_Achievements": "2023-05-22T21:03:40.3287597+00:00"
 }

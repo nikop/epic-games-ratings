@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
     "PcReleaseDate": "2019-04-15T00:00:00+00:00",
@@ -265,9 +265,9 @@
       "Count": 71
     }
   ],
-  "EOS_Progressed": 712,
+  "EOS_Progressed": 713,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -354,6 +354,11 @@
     {
       "Time": "2023-05-21T12:07:16.3289651+00:00",
       "NumProgressed": 712,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-22T21:06:34.529599+00:00",
+      "NumProgressed": 713,
       "NumCompleted": 1
     }
   ],
@@ -478,7 +483,7 @@
       "Name": "Common cause",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "AchievementCriticalCare",
@@ -534,7 +539,7 @@
       "Name": "Forgot something",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "AchievementForgotten",
@@ -686,7 +691,7 @@
       "Name": "Mega-railroad",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "AchievementMetroBuilder",
@@ -796,9 +801,9 @@
       "ID": "AchievementRelocation",
       "SetID": "76o014g",
       "Name": "Relocation",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 14
     },
     {
       "ID": "AchievementSabotage",
@@ -902,7 +907,7 @@
       "Name": "Upgrade complete",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "AchievementUrbanizationAge",
@@ -965,21 +970,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 53,
+      "Progressed": 54,
       "Completed": 6
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 712,
+      "Progressed": 713,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-05-04T07:57:22.9551284+00:00",
-  "LastChanged_Achievements": "2023-05-22T20:05:47.8412793+00:00",
+  "LastChanged_Achievements": "2023-05-22T21:06:34.5295986+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:00.6806293+00:00",
-  "LastUpdate_Ratings": "2023-05-22T19:57:21.932095+00:00",
-  "LastUpdate_Achievements": "2023-05-22T20:05:47.8413409+00:00"
+  "LastUpdate_Ratings": "2023-05-22T20:57:29.5184929+00:00",
+  "LastUpdate_Achievements": "2023-05-22T21:06:34.5296689+00:00"
 }

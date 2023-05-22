@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -768,9 +768,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5749,
+  "EOS_Progressed": 5750,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2398,6 +2398,11 @@
       "Time": "2023-05-22T20:00:52.8476963+00:00",
       "NumProgressed": 5749,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T21:01:40.479685+00:00",
+      "NumProgressed": 5750,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -2457,7 +2462,7 @@
       "Name": "Relic Hoarder",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Destroy_8_Pirate_Bases",
@@ -2473,7 +2478,7 @@
       "Name": "Xenocide",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -2487,9 +2492,9 @@
       "ID": "First_Civ_Designed",
       "SetID": "4h07amh",
       "Name": "Design a Civilization",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1840
+      "UsersEstimate": 1782
     },
     {
       "ID": "First_Major_Ally",
@@ -2521,7 +2526,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4197
+      "UsersEstimate": 4198
     },
     {
       "ID": "First_Ship_Designed",
@@ -2545,7 +2550,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4484
+      "UsersEstimate": 4485
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -2601,7 +2606,7 @@
       "Name": "Trading Partner",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "Level_5_Ship",
@@ -2697,7 +2702,7 @@
       "Name": "Commodity Seller, Level 2",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Sell_30_Resource",
@@ -2729,7 +2734,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3564
+      "UsersEstimate": 3565
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -2753,7 +2758,7 @@
       "Name": "War with the Unknown",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "Win_As_Altarian",
@@ -2769,7 +2774,7 @@
       "Name": "Win as Arceans",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Win_As_Baratak",
@@ -2777,7 +2782,7 @@
       "Name": "Win as the Baratak",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Win_As_Drath",
@@ -2801,7 +2806,7 @@
       "Name": "Win as Festron",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Win_As_Iconian",
@@ -2841,7 +2846,7 @@
       "Name": "Win as the Mimot",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Win_As_Navigators",
@@ -2865,7 +2870,7 @@
       "Name": "Win as Terrans",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "Win_As_Torian",
@@ -2897,7 +2902,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 3852
+      "UsersEstimate": 3853
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -2984,15 +2989,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 5749,
+      "Progressed": 5750,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-05-22T02:57:12.0040707+00:00",
-  "LastChanged_Achievements": "2023-05-22T20:00:52.8476957+00:00",
+  "LastChanged_Achievements": "2023-05-22T21:01:40.4796846+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:07.7367569+00:00",
-  "LastUpdate_Ratings": "2023-05-22T19:57:14.8696566+00:00",
-  "LastUpdate_Achievements": "2023-05-22T20:00:52.8477643+00:00"
+  "LastUpdate_Ratings": "2023-05-22T20:57:21.5438921+00:00",
+  "LastUpdate_Achievements": "2023-05-22T21:01:40.4797613+00:00"
 }

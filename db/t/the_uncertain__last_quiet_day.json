@@ -4,8 +4,8 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -184,9 +184,9 @@
       "ID": "BUCKLE_UP",
       "SetID": "2iigf77",
       "Name": "Buckle up",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 264
+      "UsersEstimate": 268
     },
     {
       "ID": "CONCRETE_PAINTING",
@@ -216,9 +216,9 @@
       "ID": "EVERY_LITTLE_HELPS",
       "SetID": "2iigf77",
       "Name": "Every little helps",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 85
+      "UsersEstimate": 89
     },
     {
       "ID": "FOUND_IT",
@@ -320,9 +320,9 @@
       "ID": "NOW_YOU_KNOW",
       "SetID": "2iigf77",
       "Name": "Now you know",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 237
+      "UsersEstimate": 241
     },
     {
       "ID": "PERFECT_HEARING",
@@ -425,8 +425,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-05-22T20:05:40.7780725+00:00",
+  "LastChanged_Achievements": "2023-05-22T21:06:25.7160446+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:21.9827734+00:00",
-  "LastUpdate_Ratings": "2023-05-22T19:58:39.5501031+00:00",
-  "LastUpdate_Achievements": "2023-05-22T20:05:40.7780917+00:00"
+  "LastUpdate_Ratings": "2023-05-22T20:59:05.0160162+00:00",
+  "LastUpdate_Achievements": "2023-05-22T21:06:25.7160676+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 15,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-12-06T05:00:00+00:00",
     "PcReleaseDate": "2017-12-21T00:00:00+00:00",
@@ -1526,10 +1526,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 8247,
       "NumberOfAwardsMax": 1978
+    },
+    {
+      "Time": "2023-05-22T20:58:55.3944268+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 8259,
+      "NumberOfAwardsMax": 1978
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8247,
+  "NumberOfAwards": 8259,
   "NumberOfAwardsMax": 1978,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -1537,7 +1543,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1579
+      "Count": 1591
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1588,9 +1594,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 370416,
+  "EOS_Progressed": 370417,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 8411,
+  "EOS_NewPlayers": 8357,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4783,6 +4789,11 @@
       "Time": "2023-05-22T20:05:38.6090385+00:00",
       "NumProgressed": 370416,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-22T21:06:23.4185161+00:00",
+      "NumProgressed": 370417,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 37,
@@ -4810,7 +4821,7 @@
       "Name": "Marksman Expert",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 33337
+      "UsersEstimate": 33338
     },
     {
       "ID": "12",
@@ -4874,7 +4885,7 @@
       "Name": "Blood on My Hands",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 274108
+      "UsersEstimate": 274109
     },
     {
       "ID": "2",
@@ -4986,7 +4997,7 @@
       "Name": "Guardian Angel",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 144462
+      "UsersEstimate": 144463
     },
     {
       "ID": "32",
@@ -5034,7 +5045,7 @@
       "Name": "Health Junkie",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 166687
+      "UsersEstimate": 166688
     },
     {
       "ID": "4",
@@ -5042,7 +5053,7 @@
       "Name": "Fantastic Four",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 77787
+      "UsersEstimate": 77788
     },
     {
       "ID": "5",
@@ -5089,16 +5100,16 @@
     {
       "ID": "7ko8h8f",
       "IsBase": true,
-      "Progressed": 370416,
+      "Progressed": 370417,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-12-06T17:57:24.6501738+00:00",
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
-  "LastChanged": "2023-05-22T18:59:03.357507+00:00",
-  "LastChanged_Achievements": "2023-05-22T20:05:38.6090381+00:00",
+  "LastChanged": "2023-05-22T20:58:55.3944267+00:00",
+  "LastChanged_Achievements": "2023-05-22T21:06:23.4185157+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:09.6403812+00:00",
-  "LastUpdate_Ratings": "2023-05-22T19:58:29.073477+00:00",
-  "LastUpdate_Achievements": "2023-05-22T20:05:38.6090754+00:00"
+  "LastUpdate_Ratings": "2023-05-22T20:58:55.3944279+00:00",
+  "LastUpdate_Achievements": "2023-05-22T21:06:23.4185575+00:00"
 }

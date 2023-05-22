@@ -11,10 +11,10 @@ Number of Ratings: 87  (23.09.2022)
 | Individual delivery | 5.00% | ~36 |
 | Juggler | 5.00% | ~36 |
 | To the eyeballs! | 5.00% | ~36 |
-| Common cause | 4.00% | ~28 |
-| Forgot something | 4.00% | ~28 |
-| Mega-railroad | 4.00% | ~28 |
-| Upgrade complete | 4.00% | ~28 |
+| Common cause | 4.00% | ~29 |
+| Forgot something | 4.00% | ~29 |
+| Mega-railroad | 4.00% | ~29 |
+| Upgrade complete | 4.00% | ~29 |
 | Builder | 3.00% | ~21 |
 | Close call! | 3.00% | ~21 |
 | Get out my way | 3.00% | ~21 |
@@ -33,6 +33,7 @@ Number of Ratings: 87  (23.09.2022)
 | Jewelry accuracy | 2.00% | ~14 |
 | One way | 2.00% | ~14 |
 | Overseer | 2.00% | ~14 |
+| Relocation | 2.00% | ~14 |
 | The Tortoise | 2.00% | ~14 |
 | Without a lunch break | 2.00% | ~14 |
 | Bridge builder | 1.00% | ~7 |
@@ -47,7 +48,6 @@ Number of Ratings: 87  (23.09.2022)
 | Missed it! | 1.00% | ~7 |
 | Ouroboros | 1.00% | ~7 |
 | Prick of conscience | 1.00% | ~7 |
-| Relocation | 1.00% | ~7 |
 | Sabotage | 1.00% | ~7 |
 | Squander | 1.00% | ~7 |
 | Stargazer | 1.00% | ~7 |
@@ -82,7 +82,7 @@ Number of Ratings: 87  (23.09.2022)
 | Gemologist | 0.00% | ~0 |
 | Jeweller | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 712 (Ranked 180)  
+Progressed: 713 (Ranked 180)  
 Completed: 1 (0.14%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,6 +95,7 @@ Completed: 1 (0.14%) (Ranked 151)
 | 2023-05-19 | 706 | 1 |
 | 2023-05-20 | 711 | 1 |
 | 2023-05-21 | 712 | 1 |
+| 2023-05-22 | 713 | 1 |
 ## Awards
 Max (Challenging Puzzles): 71  (Ranked 362)  
 Sum: 71 (Ranked 418)  

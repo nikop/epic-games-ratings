@@ -5,18 +5,18 @@ Rating: 3.99 (Ranked 889)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 74.00% | ~274,108 |
-| Health Junkie | 45.00% | ~166,687 |
+| Blood on My Hands | 74.00% | ~274,109 |
+| Health Junkie | 45.00% | ~166,688 |
 | You Complete Me | 41.00% | ~151,871 |
-| Guardian Angel | 39.00% | ~144,462 |
+| Guardian Angel | 39.00% | ~144,463 |
 | Devil Inside Me | 31.00% | ~114,829 |
 | Killing Spree | 22.00% | ~81,492 |
-| Fantastic Four | 21.00% | ~77,787 |
+| Fantastic Four | 21.00% | ~77,788 |
 | Marksman Novice | 20.00% | ~74,083 |
 | First Blood | 13.00% | ~48,154 |
 | Top 10 | 13.00% | ~48,154 |
 | Now You See Me, Now You Don't | 12.00% | ~44,450 |
-| Marksman Expert | 9.00% | ~33,337 |
+| Marksman Expert | 9.00% | ~33,338 |
 | CQB Novice | 8.00% | ~29,633 |
 | Collateral Damage | 7.00% | ~25,929 |
 | Airborne | 6.00% | ~22,225 |
@@ -43,7 +43,7 @@ Rating: 3.99 (Ranked 889)
 | The First Rule Is… | 0.10% | ~370 |
 | Shoot the Knee | 0.10% | ~370 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 370,416 (Ranked 36)  
+Progressed: 370,417 (Ranked 36)  
 Completed: 8 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,17 +75,17 @@ Completed: 8 (0.00%) (Ranked 201)
 | 2023-05-19 | 366,187 | 8 |
 | 2023-05-20 | 367,762 | 8 |
 | 2023-05-21 | 369,462 | 8 |
-| 2023-05-22 | 370,416 | 8 |
+| 2023-05-22 | 370,417 | 8 |
 ## Awards
 Max (Competitive Players): 1,978  (Ranked 103)  
-Sum: 8,247 (Ranked 90)  
+Sum: 8,259 (Ranked 90)  
 Diff (max vs sum): 13  
 | Award | Count |
 | ----- | ----- |
 | This game has Competitive Players | 1,978 |
 | This game has Quickly Understood Controls | 1,828 |
 | This game has Challenging Combat | 1,730 |
-| This game is Highly Recommended | 1,579 |
+| This game is Highly Recommended | 1,591 |
 | This game has a Competitive Community | 1,132 |
 | This game is Extremely Fun | 122 |
 | This game has Diverse Characters | 76 |
@@ -177,4 +177,4 @@ Diff (max vs sum): 13
 | 2023-05-19 | 3.99 | 1,929 | 8,093 |
 | 2023-05-20 | 3.99 | 1,948 | 8,159 |
 | 2023-05-21 | 3.98 | 1,964 | 8,205 |
-| 2023-05-22 | 3.99 | 1,978 | 8,247 |
+| 2023-05-22 | 3.99 | 1,978 | 8,259 |

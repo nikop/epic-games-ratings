@@ -1,21 +1,21 @@
 # Occupy Mars: The Game
 [Store](https://store.epicgames.com/en-US/p/occupy-mars)  
 [View Rawdata](../../db/o/occupy_mars__the_game.json)  
-Rating: 3.76 (Ranked 919)  
+Rating: 3.76 (Ranked 920)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 38.00% | ~305 |
-| Electrician | 28.00% | ~225 |
-| Fear my botany powers, Mars | 25.00% | ~201 |
-| Zero Waste | 21.00% | ~169 |
-| Bob The Builder | 21.00% | ~169 |
-| I am the greatest botanist on this planet. | 19.00% | ~153 |
-| Houston we have a problem | 16.00% | ~128 |
-| Occupy Mars! | 15.00% | ~120 |
-| Gardener | 13.00% | ~104 |
-| Miner | 13.00% | ~104 |
-| Detective | 9.00% | ~72 |
+| I don't feel so good | 38.00% | ~307 |
+| Electrician | 28.00% | ~226 |
+| Fear my botany powers, Mars | 25.00% | ~202 |
+| Zero Waste | 21.00% | ~170 |
+| Bob The Builder | 21.00% | ~170 |
+| I am the greatest botanist on this planet. | 20.00% | ~162 |
+| Houston we have a problem | 16.00% | ~129 |
+| Occupy Mars! | 15.00% | ~121 |
+| Gardener | 13.00% | ~105 |
+| Miner | 13.00% | ~105 |
+| Detective | 9.00% | ~73 |
 | Get your hands dirty | 6.00% | ~48 |
 | The Collector | 5.00% | ~40 |
 | All Wheel Trouble | 4.00% | ~32 |
@@ -23,10 +23,10 @@ Rating: 3.76 (Ranked 919)
 | Space Forest | 2.00% | ~16 |
 | “Aliens” | 1.00% | ~8 |
 | DeDust | 0.90% | ~7 |
+| Hard Landing | 0.40% | ~3 |
 | Caveman | 0.40% | ~3 |
 | Plumber | 0.40% | ~3 |
 | Driver's License | 0.20% | ~2 |
-| Hard Landing | 0.20% | ~2 |
 | Bull’s eye | 0.20% | ~2 |
 | Rocket Jump | 0.20% | ~2 |
 | Rover Mechanic | 0.20% | ~2 |
@@ -54,7 +54,7 @@ Rating: 3.76 (Ranked 919)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 803 (Ranked 174)  
+Progressed: 808 (Ranked 173)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-19 | 540 | 0 |
 | 2023-05-20 | 675 | 0 |
 | 2023-05-21 | 760 | 0 |
-| 2023-05-22 | 803 | 0 |
+| 2023-05-22 | 808 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

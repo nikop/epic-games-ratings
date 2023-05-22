@@ -416,9 +416,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 13324,
+  "EOS_Progressed": 13335,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 760,
+  "EOS_NewPlayers": 771,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1211,6 +1211,11 @@
       "Time": "2023-05-22T20:03:11.1465143+00:00",
       "NumProgressed": 13324,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-05-22T21:02:36.8941529+00:00",
+      "NumProgressed": 13335,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 40,
@@ -1254,7 +1259,7 @@
       "Name": "Flesh Wound",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -1348,9 +1353,9 @@
       "ID": "KILL_MANY_WITH_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Chew \u0027Em Up",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 666
+      "UsersEstimate": 533
     },
     {
       "ID": "KILL_ROBOT",
@@ -1382,7 +1387,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -1541,13 +1546,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13324,
+      "Progressed": 13335,
       "Completed": 52
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1250,
+      "Progressed": 1261,
       "Completed": 29
     }
   ],
@@ -1555,8 +1560,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-22T19:57:44.0247925+00:00",
-  "LastChanged_Achievements": "2023-05-22T20:03:11.1465139+00:00",
+  "LastChanged_Achievements": "2023-05-22T21:02:36.8941527+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-22T19:57:44.024793+00:00",
-  "LastUpdate_Achievements": "2023-05-22T20:03:11.1465431+00:00"
+  "LastUpdate_Ratings": "2023-05-22T20:57:55.1339593+00:00",
+  "LastUpdate_Achievements": "2023-05-22T21:02:36.8941831+00:00"
 }

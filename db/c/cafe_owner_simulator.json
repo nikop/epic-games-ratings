@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
     "PcReleaseDate": "2022-12-05T12:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 346,
+  "EOS_Progressed": 347,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -503,6 +503,11 @@
       "Time": "2023-05-22T20:05:41.2887057+00:00",
       "NumProgressed": 346,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T21:06:26.3549241+00:00",
+      "NumProgressed": 347,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -522,7 +527,7 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "CHIEF",
@@ -530,7 +535,7 @@
       "Name": "CHIEF",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "CLEANER",
@@ -538,7 +543,7 @@
       "Name": "CLEANER",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "DEBTOR",
@@ -625,7 +630,7 @@
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 346,
+      "Progressed": 347,
       "Completed": 0
     }
   ],
@@ -633,8 +638,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-05-22T20:05:41.2887051+00:00",
+  "LastChanged_Achievements": "2023-05-22T21:06:26.3549237+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:57.2732477+00:00",
-  "LastUpdate_Ratings": "2023-05-22T19:59:27.0143821+00:00",
-  "LastUpdate_Achievements": "2023-05-22T20:05:41.2887171+00:00"
+  "LastUpdate_Ratings": "2023-05-22T21:00:03.9882485+00:00",
+  "LastUpdate_Achievements": "2023-05-22T21:06:26.3549403+00:00"
 }

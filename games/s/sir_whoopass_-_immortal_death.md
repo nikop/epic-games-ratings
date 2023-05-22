@@ -8,9 +8,9 @@
 | MLG 360 no scope kill! | 94.00% | ~44 |
 | Are you ready to rumble? | 94.00% | ~44 |
 | That's what cheese said! | 81.00% | ~38 |
+| I like you...but I have to kill you... | 81.00% | ~38 |
 | Nerd | 81.00% | ~38 |
-| I like you...but I have to kill you... | 79.00% | ~37 |
-| AHHHHHH.....I'M ON FIRE!!! | 77.00% | ~36 |
+| AHHHHHH.....I'M ON FIRE!!! | 79.00% | ~37 |
 | Not so hip anymore! | 77.00% | ~36 |
 | Blurry depth perception | 72.00% | ~34 |
 | Rolling, Rolling, Rolling | 70.00% | ~33 |
@@ -31,12 +31,12 @@
 | Self assessed tax return | 36.00% | ~17 |
 | Make America Grate Again | 34.00% | ~16 |
 | You are no match for me, Billy! | 32.00% | ~15 |
+| Karaoke king | 32.00% | ~15 |
 | Haemochromatosis | 32.00% | ~15 |
 | You can't stop me, bro! | 30.00% | ~14 |
 | Pasta Bolognese | 30.00% | ~14 |
 | Meatballs, coming up! | 28.00% | ~13 |
 | Catch the bus with me! | 28.00% | ~13 |
-| Karaoke king | 28.00% | ~13 |
 | I'm going to get a concussion | 26.00% | ~12 |
 | Another one bites the iron | 23.00% | ~11 |
 | Hovering around | 17.00% | ~8 |

@@ -2,10 +2,10 @@
   "ID": "094d313bbeb84db69dd7bee1bd885c4d",
   "Name": "Fire: Ungh\u2019s Quest",
   "ProductSlug": "fire-44c606",
-  "Ranking_EOS_Progress": 239,
-  "Ranking_EOS_Completed": 31,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_Progress": 240,
+  "Ranking_EOS_Completed": 29,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
     "PcReleaseDate": "2015-04-09T16:00:00+00:00",
@@ -29,10 +29,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 164,
-  "EOS_Completed": 8,
+  "EOS_Completed": 9,
   "EOS_NewPlayers": 7,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.88,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 5.49,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:26.5588507+00:00",
@@ -103,6 +103,11 @@
       "Time": "2023-05-22T02:11:43.086398+00:00",
       "NumProgressed": 164,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-22T21:06:35.6927196+00:00",
+      "NumProgressed": 164,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 27,
@@ -144,17 +149,17 @@
       "ID": "20_Coins",
       "SetID": "6od1ndi",
       "Name": "Blunga 20",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 35,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "25_Coins",
       "SetID": "6od1ndi",
       "Name": "Blunga 25",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "30_Coins",
@@ -184,9 +189,9 @@
       "ID": "Butterfly_eats_Caterpillar_in_007",
       "SetID": "6od1ndi",
       "Name": "ParaPara!",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "Eliminated_3_Mask_Men_in_009",
@@ -208,9 +213,9 @@
       "ID": "Hit_the_UFO_in_Space_Invaders_in_006",
       "SetID": "6od1ndi",
       "Name": "1978",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "Level_completed_001_002",
@@ -264,25 +269,25 @@
       "ID": "Level_completed_007_006",
       "SetID": "6od1ndi",
       "Name": "Onk Boga VII",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "Level_completed_008_005",
       "SetID": "6od1ndi",
       "Name": "Onk Boga VIII",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Level_completed_009_007",
       "SetID": "6od1ndi",
       "Name": "Onk Boga IX",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "Level_completed_010_010",
@@ -320,9 +325,9 @@
       "ID": "Won_over_Octoboss_in_005",
       "SetID": "6od1ndi",
       "Name": "Blubb",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     }
   ],
   "AchievementSets": [
@@ -330,15 +335,15 @@
       "ID": "6od1ndi",
       "IsBase": true,
       "Progressed": 164,
-      "Completed": 8
+      "Completed": 9
     }
   ],
   "FirstSeen": "2022-12-16T21:58:34.8167877+00:00",
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-05-22T20:05:48.9415884+00:00",
+  "LastChanged_Achievements": "2023-05-22T21:06:35.6927191+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:25.4163927+00:00",
-  "LastUpdate_Ratings": "2023-05-22T19:59:56.0232877+00:00",
-  "LastUpdate_Achievements": "2023-05-22T20:05:48.9416035+00:00"
+  "LastUpdate_Ratings": "2023-05-22T21:00:32.9234784+00:00",
+  "LastUpdate_Achievements": "2023-05-22T21:06:35.6927376+00:00"
 }

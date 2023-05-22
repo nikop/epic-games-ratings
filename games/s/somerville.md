@@ -6,7 +6,7 @@ Rating: 4.20 (Ranked 813)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | “Occupied!“ | 13.00% | ~203 |
-| Worlds best dad. | 12.00% | ~187 |
+| Worlds best dad. | 12.00% | ~188 |
 | Resignation Reprise. | 8.00% | ~125 |
 | War of the worlds. | 6.00% | ~94 |
 | Resignation. | 5.00% | ~78 |
@@ -17,7 +17,7 @@ Rating: 4.20 (Ranked 813)
 | “Here boy…" | 2.00% | ~31 |
 | First contact. | 0.50% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,562 (Ranked 153)  
+Progressed: 1,563 (Ranked 153)  
 Completed: 25 (1.60%) (Ranked 69)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -38,6 +38,7 @@ Completed: 25 (1.60%) (Ranked 69)
 | 2023-05-19 | 1,557 | 25 |
 | 2023-05-20 | 1,560 | 25 |
 | 2023-05-21 | 1,562 | 25 |
+| 2023-05-22 | 1,563 | 25 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

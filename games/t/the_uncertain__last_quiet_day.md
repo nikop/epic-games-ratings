@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I can do a thing or two | 61.00% | ~273 |
+| Buckle up | 60.00% | ~268 |
 | Quick charge | 60.00% | ~268 |
-| Buckle up | 59.00% | ~264 |
+| Now you know | 54.00% | ~241 |
 | Hands up! | 53.00% | ~237 |
-| Now you know | 53.00% | ~237 |
 | Short circuit | 53.00% | ~237 |
 | Curious | 41.00% | ~183 |
 | Everybody lies | 36.00% | ~161 |
@@ -16,9 +16,9 @@
 | Sysadmin | 22.00% | ~98 |
 | There is another way | 22.00% | ~98 |
 | Annoying | 20.00% | ~89 |
+| Every little helps | 20.00% | ~89 |
 | Uncertain | 20.00% | ~89 |
 | The Walking Robot Among Us | 20.00% | ~89 |
-| Every little helps | 19.00% | ~85 |
 | Hacker | 19.00% | ~85 |
 | He is just a child | 19.00% | ~85 |
 | Goody | 17.00% | ~76 |

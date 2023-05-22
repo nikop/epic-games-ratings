@@ -7,25 +7,25 @@ Number of Ratings: 429  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Colonize a Planet | 79.00% | ~4,542 |
-| Worker Specialization | 78.00% | ~4,484 |
-| First Contact | 73.00% | ~4,197 |
-| Win a Battle | 67.00% | ~3,852 |
+| Worker Specialization | 78.00% | ~4,485 |
+| First Contact | 73.00% | ~4,198 |
+| Win a Battle | 67.00% | ~3,853 |
 | Anomaly Researcher | 63.00% | ~3,622 |
-| Unleash My Power | 62.00% | ~3,564 |
+| Unleash My Power | 62.00% | ~3,565 |
 | Own 30 Planets | 35.00% | ~2,012 |
-| Xenocide | 33.00% | ~1,897 |
+| Xenocide | 33.00% | ~1,898 |
 | Commodity Trader | 32.00% | ~1,840 |
-| Design a Civilization | 32.00% | ~1,840 |
+| Design a Civilization | 31.00% | ~1,782 |
 | Design a Ship | 29.00% | ~1,667 |
 | Commodity Seller | 26.00% | ~1,495 |
 | Prestige Victory! | 14.00% | ~805 |
 | Galactic War | 11.00% | ~632 |
-| Trading Partner | 9.00% | ~517 |
+| Trading Partner | 9.00% | ~518 |
 | Fleet Victory | 8.00% | ~460 |
-| Win as Terrans | 7.00% | ~402 |
+| Win as Terrans | 7.00% | ~403 |
 | Gain an Ally | 6.00% | ~345 |
 | Win with a Custom Faction | 6.00% | ~345 |
-| War with the Unknown | 5.00% | ~287 |
+| War with the Unknown | 5.00% | ~288 |
 | Conquest Victory! | 4.00% | ~230 |
 | Win Quickly | 4.00% | ~230 |
 | Pirate Cleansing | 3.00% | ~172 |
@@ -34,10 +34,10 @@ Number of Ratings: 429  (23.09.2022)
 | Win as Altarians | 2.00% | ~115 |
 | Win as the Yor | 2.00% | ~115 |
 | Influence Victory! | 2.00% | ~115 |
-| Win as Arceans | 1.00% | ~57 |
-| Win as the Baratak | 1.00% | ~57 |
-| Win as Festron | 1.00% | ~57 |
-| Win as the Mimot | 1.00% | ~57 |
+| Win as Arceans | 1.00% | ~58 |
+| Win as the Baratak | 1.00% | ~58 |
+| Win as Festron | 1.00% | ~58 |
+| Win as the Mimot | 1.00% | ~58 |
 | Win as the Navigators | 0.90% | ~52 |
 | Win as Torians | 0.90% | ~52 |
 | Win as Xeloxi | 0.80% | ~46 |
@@ -50,8 +50,8 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Iridium | 0.60% | ~34 |
 | Win as the Onyx | 0.60% | ~34 |
 | Iconia Reclaimed! | 0.30% | ~17 |
-| Relic Hoarder | 0.20% | ~11 |
-| Commodity Seller, Level 2 | 0.20% | ~11 |
+| Relic Hoarder | 0.20% | ~12 |
+| Commodity Seller, Level 2 | 0.20% | ~12 |
 | Commodity Trader - Level 2 | 0.10% | ~6 |
 | Discover a Nebula | 0.10% | ~6 |
 | Play for 1000 Hours | 0.10% | ~6 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Selling Guru | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,749 (Ranked 119)  
+Progressed: 5,750 (Ranked 119)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-19 | 5,714 | 0 |
 | 2023-05-20 | 5,729 | 0 |
 | 2023-05-21 | 5,739 | 0 |
-| 2023-05-22 | 5,749 | 0 |
+| 2023-05-22 | 5,750 | 0 |
 ## Awards
 Max (Diverse Characters): 92  (Ranked 333)  
 Sum: 659 (Ranked 268)  

@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 875)  
+Rating: 4.06 (Ranked 876)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.10% | ~88 |
 | Rescue in the Jungle | 0.10% | ~88 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,325 (Ranked 60)  
-Completed: 1,862 (2.11%) (Ranked 62)  
+Progressed: 88,329 (Ranked 60)  
+Completed: 1,863 (2.11%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -532,7 +532,7 @@ Completed: 1,862 (2.11%) (Ranked 62)
 | 2023-05-19 | 88,008 | 1,851 |
 | 2023-05-20 | 88,132 | 1,854 |
 | 2023-05-21 | 88,251 | 1,860 |
-| 2023-05-22 | 88,325 | 1,862 |
+| 2023-05-22 | 88,329 | 1,863 |
 ## Awards
 Max (Diverse Characters): 4,896  (Ranked 64)  
 Sum: 29,950 (Ranked 37)  

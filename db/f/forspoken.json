@@ -2,13 +2,13 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 852,
+  "Ranking_Rating": 845,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "SA"
     }
   },
-  "Rating": 4.14,
+  "Rating": 4.15,
   "RatingHistory": [
     {
       "Time": "2023-01-28T02:09:06.4755934+00:00",
@@ -230,15 +230,21 @@
       "Rating": 4.14,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-22T20:58:51.2673154+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38171,
+  "EOS_Progressed": 38172,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2321,6 +2327,11 @@
       "Time": "2023-05-22T18:05:31.3926282+00:00",
       "NumProgressed": 38171,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-22T21:06:33.99107+00:00",
+      "NumProgressed": 38172,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2755,22 +2766,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 38171,
+      "Progressed": 38172,
       "Completed": 1
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 3008,
-      "Completed": 3008
+      "Progressed": 3009,
+      "Completed": 3009
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
-  "LastChanged": "2023-05-19T13:58:09.5173669+00:00",
-  "LastChanged_Achievements": "2023-05-22T20:05:47.5130021+00:00",
+  "LastChanged": "2023-05-22T20:58:51.2673153+00:00",
+  "LastChanged_Achievements": "2023-05-22T21:06:33.9910696+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:06.8378338+00:00",
-  "LastUpdate_Ratings": "2023-05-22T19:58:26.2645983+00:00",
-  "LastUpdate_Achievements": "2023-05-22T20:05:47.5130484+00:00"
+  "LastUpdate_Ratings": "2023-05-22T20:58:51.2673159+00:00",
+  "LastUpdate_Achievements": "2023-05-22T21:06:33.9911286+00:00"
 }

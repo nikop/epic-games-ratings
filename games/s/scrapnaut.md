@@ -6,22 +6,22 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Scrap Gatherer | 57.00% | ~109 |
-| My New Home | 57.00% | ~109 |
-| Mushroom Picker | 55.00% | ~105 |
-| Scrapper | 48.00% | ~92 |
-| Cook | 41.00% | ~78 |
-| Scrap Master | 37.00% | ~71 |
-| Teleport | 37.00% | ~71 |
-| Digger | 34.00% | ~65 |
-| Smelter | 34.00% | ~65 |
-| Electro-Scrap Gatherer | 31.00% | ~59 |
-| Robot Destroyer | 29.00% | ~55 |
-| Survivor | 29.00% | ~55 |
+| Scrap Gatherer | 56.00% | ~108 |
+| My New Home | 56.00% | ~108 |
+| Mushroom Picker | 55.00% | ~106 |
+| Scrapper | 47.00% | ~90 |
+| Cook | 41.00% | ~79 |
+| Scrap Master | 36.00% | ~69 |
+| Teleport | 36.00% | ~69 |
+| Digger | 33.00% | ~63 |
+| Smelter | 33.00% | ~63 |
+| Electro-Scrap Gatherer | 31.00% | ~60 |
+| Robot Destroyer | 29.00% | ~56 |
+| Survivor | 29.00% | ~56 |
 | Herbalist | 26.00% | ~50 |
 | Lumberjack | 24.00% | ~46 |
-| Prepper | 24.00% | ~46 |
 | Electro-Scrap Master | 23.00% | ~44 |
+| Prepper | 23.00% | ~44 |
 | Robot Hunter | 19.00% | ~36 |
 | Advanced Survivalist | 19.00% | ~36 |
 | Master Of Technology | 16.00% | ~31 |
@@ -38,7 +38,7 @@ Number of Ratings: 38  (23.09.2022)
 | Forest Killer | 1.00% | ~2 |
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 191 (Ranked 230)  
+Progressed: 192 (Ranked 230)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,7 +58,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-19 | 179 | 0 |
 | 2023-05-20 | 183 | 0 |
 | 2023-05-21 | 188 | 0 |
-| 2023-05-22 | 191 | 0 |
+| 2023-05-22 | 192 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

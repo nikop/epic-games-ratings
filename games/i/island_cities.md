@@ -22,13 +22,13 @@
 | The beach is right there | 22.00% | ~30 |
 | Commuting | 22.00% | ~30 |
 | Le jardin magnifique | 20.00% | ~28 |
-| Aiming for a living and human city | 17.00% | ~23 |
+| Aiming for a living and human city | 18.00% | ~25 |
 | City of dreams | 17.00% | ~23 |
 | Happy Christmas night! | 17.00% | ~23 |
 | Night walk along the beach | 17.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 138 (Ranked 251)  
-Completed: 23 (16.67%) (Ranked 8)  
+Completed: 24 (17.39%) (Ranked 8)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -57,7 +57,7 @@ Completed: 23 (16.67%) (Ranked 8)
 | 2023-05-19 | 102 | 17 |
 | 2023-05-20 | 118 | 19 |
 | 2023-05-21 | 136 | 23 |
-| 2023-05-22 | 138 | 23 |
+| 2023-05-22 | 138 | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

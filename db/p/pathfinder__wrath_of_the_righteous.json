@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2486,9 +2486,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 9084,
+  "EOS_Progressed": 9089,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4241,6 +4241,11 @@
       "Time": "2023-05-22T20:06:01.9357739+00:00",
       "NumProgressed": 9084,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T21:06:50.9367546+00:00",
+      "NumProgressed": 9089,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -4620,7 +4625,7 @@
       "Name": "A Spark",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "49_Flame",
@@ -5179,21 +5184,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7866,
+      "Progressed": 7871,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9084,
+      "Progressed": 9089,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-22T15:58:32.2761795+00:00",
-  "LastChanged_Achievements": "2023-05-22T20:06:01.9357734+00:00",
+  "LastChanged_Achievements": "2023-05-22T21:06:50.936754+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3010226+00:00",
-  "LastUpdate_Ratings": "2023-05-22T19:58:14.1022639+00:00",
-  "LastUpdate_Achievements": "2023-05-22T20:06:01.9359081+00:00"
+  "LastUpdate_Ratings": "2023-05-22T20:58:37.3991515+00:00",
+  "LastUpdate_Achievements": "2023-05-22T21:06:50.9369235+00:00"
 }

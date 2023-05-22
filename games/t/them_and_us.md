@@ -17,9 +17,9 @@
 | The Cultists | 10.00% | ~12 |
 | Alone In The Dark | 9.00% | ~11 |
 | The Forgotten Tower | 8.00% | ~9 |
+| Lover of classics | 6.00% | ~7 |
 | Rest In Peace | 6.00% | ~7 |
 | The Curse Is Real | 6.00% | ~7 |
-| Lover of classics | 5.00% | ~6 |
 | Researcher | 5.00% | ~6 |
 | I Am The Gate Keeper! | 5.00% | ~6 |
 | What A Mansion | 5.00% | ~6 |

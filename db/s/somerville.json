@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-11-15T00:00:00+00:00",
     "PcReleaseDate": "2022-11-15T00:00:00+00:00",
@@ -84,9 +84,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1562,
+  "EOS_Progressed": 1563,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.6,
   "EosHistory": [
@@ -214,6 +214,11 @@
       "Time": "2023-05-21T20:03:32.1937309+00:00",
       "NumProgressed": 1562,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-22T21:03:32.1866883+00:00",
+      "NumProgressed": 1563,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 11,
@@ -305,14 +310,14 @@
       "Name": "Worlds best dad.",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     }
   ],
   "AchievementSets": [
     {
       "ID": "3mk3nll",
       "IsBase": true,
-      "Progressed": 1562,
+      "Progressed": 1563,
       "Completed": 25
     }
   ],
@@ -320,8 +325,8 @@
   "FirstSeenRating": "2022-11-25T17:58:18.0029626+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.8533708+00:00",
   "LastChanged": "2023-03-31T05:58:16.104552+00:00",
-  "LastChanged_Achievements": "2023-05-22T20:03:31.3976684+00:00",
+  "LastChanged_Achievements": "2023-05-22T21:03:32.1866878+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:14.9054362+00:00",
-  "LastUpdate_Ratings": "2023-05-22T19:57:36.4407167+00:00",
-  "LastUpdate_Achievements": "2023-05-22T20:03:31.3976771+00:00"
+  "LastUpdate_Ratings": "2023-05-22T20:57:45.5067786+00:00",
+  "LastUpdate_Achievements": "2023-05-22T21:03:32.1867007+00:00"
 }

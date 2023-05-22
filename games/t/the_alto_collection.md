@@ -6,23 +6,23 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 27.00% | ~6,057 |
-| Rookie | 24.00% | ~5,384 |
-| Nomad | 19.00% | ~4,262 |
-| Picking Up Speed | 17.00% | ~3,814 |
-| Welcome Maya | 16.00% | ~3,589 |
-| Sightseer | 12.00% | ~2,692 |
-| Scout | 10.00% | ~2,243 |
-| Enter Paz | 9.00% | ~2,019 |
-| Wanderer | 9.00% | ~2,019 |
+| Finding Your Footing | 27.00% | ~6,059 |
+| Rookie | 24.00% | ~5,385 |
+| Nomad | 19.00% | ~4,263 |
+| Picking Up Speed | 17.00% | ~3,815 |
+| Welcome Maya | 16.00% | ~3,590 |
+| Sightseer | 12.00% | ~2,693 |
+| Scout | 10.00% | ~2,244 |
+| Enter Paz | 9.00% | ~2,020 |
+| Wanderer | 9.00% | ~2,020 |
 | Amateur | 8.00% | ~1,795 |
-| Unlock Maya | 7.00% | ~1,570 |
+| Unlock Maya | 7.00% | ~1,571 |
 | Aviator | 6.00% | ~1,346 |
 | One With The Board | 6.00% | ~1,346 |
 | Voyager | 6.00% | ~1,346 |
 | My Little Friend | 5.00% | ~1,122 |
-| Sandboarder | 4.00% | ~897 |
-| Izel Has Arrived | 4.00% | ~897 |
+| Sandboarder | 4.00% | ~898 |
+| Izel Has Arrived | 4.00% | ~898 |
 | Junkie | 3.00% | ~673 |
 | Traveler | 3.00% | ~673 |
 | Journeyer | 3.00% | ~673 |
@@ -35,7 +35,7 @@ Number of Ratings: 332  (23.09.2022)
 | Unlock Izel | 1.00% | ~224 |
 | Introducing Sumara | 1.00% | ~224 |
 | Vandal | 1.00% | ~224 |
-| Daredevil | 0.80% | ~179 |
+| Daredevil | 0.80% | ~180 |
 | Unlock Felipe | 0.70% | ~157 |
 | Adventurer | 0.60% | ~135 |
 | Unlock Tupa | 0.40% | ~90 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~22 |
 | Windswept | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,433 (Ranked 89)  
+Progressed: 22,439 (Ranked 89)  
 Completed: 3 (0.01%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 3 (0.01%) (Ranked 193)
 | 2023-05-19 | 21,920 | 3 |
 | 2023-05-20 | 22,122 | 3 |
 | 2023-05-21 | 22,315 | 3 |
-| 2023-05-22 | 22,433 | 3 |
+| 2023-05-22 | 22,439 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 44  (Ranked 404)  
 Sum: 344 (Ranked 316)  
