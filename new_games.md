@@ -1,5 +1,6 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
+| [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 2023-05-22 | 2019-05-21 |
 | [Backbeat](games/b/backbeat.md) | 2023-05-22 | 2023-03-16 |
 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 2023-05-22 | 2023-05-19 |
 | [The Temple of Archimagus Hatabus](games/3/3b5b3310fcb74963b8d4ec489cd74291.md) | 2023-05-21 | 2023-03-20 |
@@ -158,4 +159,3 @@
 | [Duck Life 8 - Adventure](games/d/duck_life_8_-_adventure.md) | 2023-04-25 | 2020-06-22 |
 | [Grim Nights](games/g/grim_nights.md) | 2023-04-24 | 2018-10-11 |
 | [Frogurai](games/f/frogurai.md) | 2023-04-23 | 2023-03-10 |
-| [Tesla's Best Friend](games/t/tesla's_best_friend.md) | 2023-04-22 | 2023-04-22 |

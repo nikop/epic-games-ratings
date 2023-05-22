@@ -1,7 +1,7 @@
 | # | Game | Completed |
 | - | ---- | --------- |
 | 1 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 50.00% |
-| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 40.00% |
+| 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 37.50% |
 | 3 | [Overloop](games/o/overloop.md) | 25.00% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 24.32% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 21.21% |
@@ -19,27 +19,27 @@
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.12% |
 | 18 | [Time Loader](games/t/time_loader.md) | 8.08% |
 | 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.81% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.80% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.79% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
-| 22 | [Scorn](games/s/scorn.md) | 6.94% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 6.93% |
+| 22 | [Ravenlok](games/r/ravenlok.md) | 6.93% |
+| 22 | [Scorn](games/s/scorn.md) | 6.93% |
 | 24 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 25 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 26 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.88% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
-| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.43% |
-| 29 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.37% |
+| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.41% |
+| 29 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.34% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.89% |
 | 31 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.88% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 33 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.44% |
 | 34 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.43% |
-| 35 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.98% |
+| 35 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.97% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
 | 37 | [Doodle God](games/d/doodle_god.md) | 3.90% |
 | 38 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 39 | [The Complex](games/t/the_complex.md) | 3.50% |
-| 40 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.37% |
+| 40 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.36% |
 | 41 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.33% |
 | 42 | [The Bunker](games/t/the_bunker.md) | 3.26% |
 | 43 | [ZZT!](games/z/zzt!.md) | 3.18% |
@@ -59,7 +59,7 @@
 | 56 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [JARS](games/j/jars.md) | 2.38% |
 | 59 | [Iron Danger](games/i/iron_danger.md) | 2.34% |
-| 60 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.33% |
+| 60 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.27% |
 | 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.15% |
 | 62 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.11% |
 | 63 | [Bloodshore](games/b/bloodshore.md) | 2.03% |
@@ -78,17 +78,17 @@
 | 76 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.31% |
 | 77 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.27% |
 | 78 | [Chorus](games/c/chorus.md) | 1.25% |
-| 79 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.23% |
-| 80 | [Trifox](games/t/trifox.md) | 1.22% |
+| 79 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.22% |
+| 79 | [Trifox](games/t/trifox.md) | 1.22% |
 | 81 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.18% |
 | 82 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.14% |
-| 82 | [Late Shift](games/l/late_shift.md) | 1.14% |
 | 82 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.14% |
+| 84 | [Late Shift](games/l/late_shift.md) | 1.13% |
 | 85 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.11% |
 | 86 | [Five Dates](games/f/five_dates.md) | 1.09% |
 | 87 | [Sable](games/s/sable.md) | 0.94% |
-| 88 | [Dungeons 3](games/d/dungeons_3.md) | 0.89% |
-| 88 | [Hades](games/h/hades.md) | 0.89% |
+| 88 | [Dungeons 3](games/d/dungeons_3.md) | 0.90% |
+| 89 | [Hades](games/h/hades.md) | 0.89% |
 | 90 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
 | 91 | [Them and Us](games/t/them_and_us.md) | 0.85% |
 | 92 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.83% |
@@ -123,11 +123,11 @@
 | 120 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.33% |
 | 120 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
 | 123 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
-| 124 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.31% |
 | 124 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
 | 124 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 124 | [The Surge](games/t/the_surge.md) | 0.31% |
-| 128 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.30% |
+| 127 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.30% |
+| 127 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.30% |
 | 129 | [Aegis Descent](games/a/aegis_descent.md) | 0.28% |
 | 130 | [Dead Island 2](games/d/dead_island_2.md) | 0.27% |
 | 130 | [Despot's Game](games/d/despot's_game.md) | 0.27% |
