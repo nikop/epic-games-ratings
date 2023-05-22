@@ -157,6 +157,7 @@
 | [Hero Flood Rescue](games/h/hero_flood_rescue.md) | 2023-12-31 | 2023-12-31 |
 | [House In The Hollow](games/h/house_in_the_hollow.md) | 2023-12-31 | 2023-12-31 |
 | [Howl](games/h/howl.md) | 2023-12-31 | 2023-12-31 |
+| [Hyper Drill](games/1/1e40029294a44b7591ee6a14d9bed25a.md) | 2023-12-31 | 2023-12-31 |
 | [Inn Keeper](games/i/inn_keeper.md) | 2023-12-31 | 2023-12-31 |
 | [Jawbreaker](games/j/jawbreaker.md) | 2023-12-31 | 2023-12-31 |
 | [Last Remains](games/2/24751e36dcb44420a4f88b7c644b7a67.md) | 2023-12-31 | 2023-12-31 |
