@@ -7,12 +7,12 @@
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 21.21% |
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.55% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 8 | [Island Cities](games/i/island_cities.md) | 16.79% |
+| 8 | [Island Cities](games/i/island_cities.md) | 16.67% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 10 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
 | 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.50% |
 | 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.04% |
-| 13 | [Remains](games/r/remains.md) | 9.68% |
+| 13 | [Remains](games/r/remains.md) | 9.38% |
 | 14 | [Smelter](games/s/smelter.md) | 9.09% |
 | 15 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.57% |
 | 16 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
@@ -21,11 +21,11 @@
 | 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.81% |
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.80% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
-| 22 | [Ravenlok](games/r/ravenlok.md) | 6.94% |
 | 22 | [Scorn](games/s/scorn.md) | 6.94% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 6.93% |
 | 24 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 25 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 26 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.06% |
+| 26 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.88% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
 | 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.43% |
 | 29 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.37% |
@@ -51,8 +51,8 @@
 | 48 | [Lamentum](games/l/lamentum.md) | 2.90% |
 | 50 | [Destiny 2](games/d/destiny_2.md) | 2.89% |
 | 51 | [Bunny Park](games/b/bunny_park.md) | 2.85% |
-| 52 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.74% |
-| 53 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
+| 52 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
+| 53 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.70% |
 | 54 | [FORECLOSED](games/f/foreclosed.md) | 2.60% |
 | 55 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.56% |
 | 56 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.50% |
@@ -65,7 +65,7 @@
 | 63 | [Bloodshore](games/b/bloodshore.md) | 2.03% |
 | 64 | [Sifu](games/s/sifu.md) | 1.81% |
 | 65 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
-| 66 | [A Musical Story](games/a/a_musical_story.md) | 1.79% |
+| 66 | [A Musical Story](games/a/a_musical_story.md) | 1.75% |
 | 67 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.68% |
 | 68 | [Night Book](games/n/night_book.md) | 1.63% |
 | 69 | [Somerville](games/s/somerville.md) | 1.60% |
@@ -91,8 +91,8 @@
 | 88 | [Hades](games/h/hades.md) | 0.89% |
 | 90 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
 | 91 | [Them and Us](games/t/them_and_us.md) | 0.85% |
-| 92 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.84% |
-| 93 | [Lemon Cake](games/l/lemon_cake.md) | 0.83% |
+| 92 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.83% |
+| 92 | [Lemon Cake](games/l/lemon_cake.md) | 0.83% |
 | 94 | [Adios](games/a/adios.md) | 0.82% |
 | 95 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.81% |
 | 96 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
