@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 110,
-  "Ranking_EOS_Completed": 139,
+  "Ranking_EOS_Completed": 138,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -290,9 +290,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8122,
+  "EOS_Progressed": 8125,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 490,
+  "EOS_NewPlayers": 492,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -2050,6 +2050,11 @@
       "Time": "2023-05-22T18:05:44.0092572+00:00",
       "NumProgressed": 8122,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-05-22T19:06:42.572227+00:00",
+      "NumProgressed": 8125,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 35,
@@ -2061,7 +2066,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6498
+      "UsersEstimate": 6500
     },
     {
       "ID": "ACH02",
@@ -2069,7 +2074,7 @@
       "Name": "With Extra Dip",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "ACH03",
@@ -2077,7 +2082,7 @@
       "Name": "The End of the Line",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "ACH04",
@@ -2117,7 +2122,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3899
+      "UsersEstimate": 3900
     },
     {
       "ID": "ACH09",
@@ -2157,7 +2162,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "ACH14",
@@ -2181,7 +2186,7 @@
       "Name": "Smooth Moves",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "ACH17",
@@ -2237,7 +2242,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1787
+      "UsersEstimate": 1788
     },
     {
       "ID": "ACH24",
@@ -2277,7 +2282,7 @@
       "Name": "Original Gangster",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "ACH29",
@@ -2340,7 +2345,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 8122,
+      "Progressed": 8125,
       "Completed": 17
     }
   ],
@@ -2348,8 +2353,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-05-21T03:01:02.6768255+00:00",
-  "LastChanged_Achievements": "2023-05-22T18:05:44.0092564+00:00",
+  "LastChanged_Achievements": "2023-05-22T19:06:42.5722266+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:19.5303152+00:00",
-  "LastUpdate_Ratings": "2023-05-22T18:00:04.4818027+00:00",
-  "LastUpdate_Achievements": "2023-05-22T18:05:44.0092885+00:00"
+  "LastUpdate_Ratings": "2023-05-22T19:00:54.9017614+00:00",
+  "LastUpdate_Achievements": "2023-05-22T19:06:42.5722566+00:00"
 }

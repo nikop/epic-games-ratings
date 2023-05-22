@@ -6,8 +6,8 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 158,
-  "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_Completed": 145,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -188,11 +188,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1203,
+  "EOS_Progressed": 1213,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 482,
+  "EOS_NewPlayers": 492,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.17,
+  "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:23.1376838+00:00",
@@ -1053,6 +1053,11 @@
       "Time": "2023-05-22T18:05:19.3792829+00:00",
       "NumProgressed": 1203,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-22T19:06:13.7997552+00:00",
+      "NumProgressed": 1213,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1094,17 +1099,17 @@
       "ID": "REWARD_14_OPPOSING_FORCE",
       "SetID": "bm6el81",
       "Name": "Opposing Force",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 24
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
       "SetID": "bm6el81",
       "Name": "Enemy at the Gates",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 49
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -1144,7 +1149,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 158
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1198,9 +1203,9 @@
       "ID": "REWARD_26_SHARPSHOOTER",
       "SetID": "bm6el81",
       "Name": "Sharpshooter",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -1214,9 +1219,9 @@
       "ID": "REWARD_28_AMBUSH_KING",
       "SetID": "bm6el81",
       "Name": "Set Europe Ablaze",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -1232,7 +1237,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1272,7 +1277,7 @@
       "Name": "Lord of War",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -1312,7 +1317,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -1374,9 +1379,9 @@
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
       "SetID": "bm6el81",
       "Name": "It\u0027s Starting to Crack",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 49
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -1534,9 +1539,9 @@
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
       "SetID": "83mdf7p",
       "Name": "Operation Foxley",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -1550,9 +1555,9 @@
       "ID": "REWARD_DLC01_09_LAST_RESORT",
       "SetID": "83mdf7p",
       "Name": "Last Resort",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -1631,13 +1636,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1154,
+      "Progressed": 1164,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1203,
+      "Progressed": 1213,
       "Completed": 2
     }
   ],
@@ -1645,8 +1650,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-22T16:01:02.9174493+00:00",
-  "LastChanged_Achievements": "2023-05-22T18:05:19.3792824+00:00",
+  "LastChanged_Achievements": "2023-05-22T19:06:13.7997547+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-22T18:00:16.8968654+00:00",
-  "LastUpdate_Achievements": "2023-05-22T18:05:19.3793527+00:00"
+  "LastUpdate_Ratings": "2023-05-22T19:01:12.6762522+00:00",
+  "LastUpdate_Achievements": "2023-05-22T19:06:13.7998289+00:00"
 }

@@ -15,8 +15,8 @@
 | Nanonic II | 36.00% | ~28 |
 | Challenge Mastered | 30.00% | ~23 |
 | The City | 26.00% | ~20 |
+| Supply Run | 25.00% | ~19 |
 | Up Close And Personal | 25.00% | ~19 |
-| Supply Run | 23.00% | ~18 |
 | The Bigger They Are | 17.00% | ~13 |
 | Nanonic III | 17.00% | ~13 |
 | Starship Docks | 16.00% | ~12 |

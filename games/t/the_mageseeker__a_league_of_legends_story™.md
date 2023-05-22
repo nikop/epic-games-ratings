@@ -1,15 +1,15 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.76 (Ranked 116)  
+Rating: 4.77 (Ranked 105)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,003 |
-| No more cages! | 92.00% | ~1,939 |
-| Everfrost | 77.00% | ~1,623 |
-| Pentakill | 76.00% | ~1,602 |
-| Dark Forest | 76.00% | ~1,602 |
+| For Demacia | 95.00% | ~2,004 |
+| No more cages! | 92.00% | ~1,940 |
+| Everfrost | 77.00% | ~1,624 |
+| Pentakill | 76.00% | ~1,603 |
+| Dark Forest | 76.00% | ~1,603 |
 | The use of petricite | 72.00% | ~1,518 |
 | You can pet the dog | 60.00% | ~1,265 |
 | Big Helmet Bro | 34.00% | ~717 |
@@ -17,8 +17,8 @@ Rating: 4.76 (Ranked 116)
 | Past trauma | 32.00% | ~675 |
 | Thornbarrow | 32.00% | ~675 |
 | Ternmoat Headquarters | 32.00% | ~675 |
-| Elemental master | 31.00% | ~653 |
-| Cypress Glen Headquarters | 31.00% | ~653 |
+| Elemental master | 31.00% | ~654 |
+| Cypress Glen Headquarters | 31.00% | ~654 |
 | Petricite Burst | 27.00% | ~569 |
 | Old friend | 26.00% | ~548 |
 | Whispers in the Woods I | 25.00% | ~527 |
@@ -29,9 +29,9 @@ Rating: 4.76 (Ranked 116)
 | Sacred Woods | 21.00% | ~443 |
 | Little light | 19.00% | ~401 |
 | Capelworth | 19.00% | ~401 |
-| Glyndemere | 18.00% | ~379 |
-| Iffighain Headquarters | 18.00% | ~379 |
-| Full equipped | 17.00% | ~358 |
+| Glyndemere | 18.00% | ~380 |
+| Iffighain Headquarters | 18.00% | ~380 |
+| Full equipped | 17.00% | ~359 |
 | Whispers in the Woods II | 15.00% | ~316 |
 | Quickmoore Headquarters | 15.00% | ~316 |
 | No more holding back | 14.00% | ~295 |
@@ -59,7 +59,7 @@ Rating: 4.76 (Ranked 116)
 | Silverwing nest | 2.00% | ~42 |
 | The Unshackled | 0.60% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,108 (Ranked 142)  
+Progressed: 2,109 (Ranked 142)  
 Completed: 1 (0.05%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 1 (0.05%) (Ranked 174)
 | 2023-05-19 | 2,048 | 1 |
 | 2023-05-20 | 2,067 | 1 |
 | 2023-05-21 | 2,090 | 1 |
-| 2023-05-22 | 2,108 | 1 |
+| 2023-05-22 | 2,109 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -107,3 +107,4 @@ Completed: 1 (0.05%) (Ranked 174)
 | 2023-05-15 | 4.74 | 0 | 0 |
 | 2023-05-16 | 4.75 | 0 | 0 |
 | 2023-05-17 | 4.76 | 0 | 0 |
+| 2023-05-22 | 4.77 | 0 | 0 |

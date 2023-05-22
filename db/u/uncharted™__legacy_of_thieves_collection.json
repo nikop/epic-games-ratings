@@ -4,7 +4,7 @@
   "ProductSlug": "uncharted-legacy-of-thieves-collection",
   "Ranking_Rating": 141,
   "Ranking_Popularity": 168,
-  "Ranking_PopularitySum": 241,
+  "Ranking_PopularitySum": 242,
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 313,
@@ -528,6 +528,6 @@
   "FirstSeenRating": "2022-10-20T19:02:12.9087244+00:00",
   "LastChanged": "2023-05-20T22:57:42.1845748+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:32.4654929+00:00",
-  "LastUpdate_Ratings": "2023-05-22T17:57:53.6380866+00:00",
-  "LastUpdate_Achievements": "2023-05-22T18:04:11.8115628+00:00"
+  "LastUpdate_Ratings": "2023-05-22T18:58:16.5611472+00:00",
+  "LastUpdate_Achievements": "2023-05-22T19:04:48.6028264+00:00"
 }

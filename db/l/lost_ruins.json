@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 309,
+  "EOS_Progressed": 310,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -161,6 +161,11 @@
       "Time": "2023-05-22T12:05:24.1403513+00:00",
       "NumProgressed": 309,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T19:06:36.6023772+00:00",
+      "NumProgressed": 310,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -186,9 +191,9 @@
       "ID": "ArtifactsCollector",
       "SetID": "82505mn",
       "Name": "Artifact Collector",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 56
+      "UsersEstimate": 59
     },
     {
       "ID": "Assassin",
@@ -202,9 +207,9 @@
       "ID": "BossKiller",
       "SetID": "82505mn",
       "Name": "Boss Killer",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 68
+      "UsersEstimate": 71
     },
     {
       "ID": "BugHunter",
@@ -226,9 +231,9 @@
       "ID": "Explorer",
       "SetID": "82505mn",
       "Name": "Explorer",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 19
+      "UsersEstimate": 16
     },
     {
       "ID": "GhostBuster",
@@ -236,7 +241,7 @@
       "Name": "Ghost Buster",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Gladiator",
@@ -290,9 +295,9 @@
       "ID": "Inquisitor",
       "SetID": "82505mn",
       "Name": "Inquisitor",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 115
     },
     {
       "ID": "Librarian",
@@ -364,7 +369,7 @@
       "Name": "Pyromancer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Reincarnation",
@@ -372,7 +377,7 @@
       "Name": "Reincarnation",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Roughneck",
@@ -426,9 +431,9 @@
       "ID": "TheEnd",
       "SetID": "82505mn",
       "Name": "The End",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 40
     },
     {
       "ID": "TheFallen",
@@ -442,9 +447,9 @@
       "ID": "TheTrio",
       "SetID": "82505mn",
       "Name": "Trio",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 16
     },
     {
       "ID": "TrapMaster",
@@ -491,7 +496,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 309,
+      "Progressed": 310,
       "Completed": 0
     }
   ],
@@ -499,8 +504,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-05-22T18:05:38.9040459+00:00",
+  "LastChanged_Achievements": "2023-05-22T19:06:36.6023764+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:07.6550194+00:00",
-  "LastUpdate_Ratings": "2023-05-22T17:59:24.9906021+00:00",
-  "LastUpdate_Achievements": "2023-05-22T18:05:38.9040784+00:00"
+  "LastUpdate_Ratings": "2023-05-22T19:00:07.6854038+00:00",
+  "LastUpdate_Achievements": "2023-05-22T19:06:36.6024073+00:00"
 }

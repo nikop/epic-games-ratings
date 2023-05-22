@@ -274,9 +274,9 @@
       "ID": "completeact3",
       "SetID": "40n95i5",
       "Name": "On the Road",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "findalltapes",
@@ -346,9 +346,9 @@
       "ID": "scoreminrankrp2",
       "SetID": "40n95i5",
       "Name": "Attack on Tyran",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "scoreminrankrp3",
@@ -387,8 +387,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-05-22T18:05:21.2754407+00:00",
+  "LastChanged_Achievements": "2023-05-22T19:06:15.7547724+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:05.0477946+00:00",
-  "LastUpdate_Ratings": "2023-05-22T17:58:43.4941282+00:00",
-  "LastUpdate_Achievements": "2023-05-22T18:05:21.2754542+00:00"
+  "LastUpdate_Ratings": "2023-05-22T18:59:17.2877642+00:00",
+  "LastUpdate_Achievements": "2023-05-22T19:06:15.7547865+00:00"
 }

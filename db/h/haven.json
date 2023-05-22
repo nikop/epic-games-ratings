@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -631,9 +631,9 @@
       "ID": "32",
       "SetID": "n50no0",
       "Name": "Spring cleaning",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 58
+      "UsersEstimate": 69
     },
     {
       "ID": "4",
@@ -695,8 +695,8 @@
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-05-22T18:05:35.761703+00:00",
+  "LastChanged_Achievements": "2023-05-22T19:06:33.0197552+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:06.355513+00:00",
-  "LastUpdate_Ratings": "2023-05-22T17:59:24.8440441+00:00",
-  "LastUpdate_Achievements": "2023-05-22T18:05:35.7617246+00:00"
+  "LastUpdate_Ratings": "2023-05-22T19:00:07.0213693+00:00",
+  "LastUpdate_Achievements": "2023-05-22T19:06:33.0197739+00:00"
 }

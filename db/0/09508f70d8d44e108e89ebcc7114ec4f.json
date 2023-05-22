@@ -4,7 +4,7 @@
   "ProductSlug": "match-village-5f41dd",
   "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
@@ -157,9 +157,9 @@
       "ID": "match_3",
       "SetID": "ap7g2g4",
       "Name": "Match 3",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "match_6",
@@ -189,9 +189,9 @@
       "ID": "sawmill",
       "SetID": "ap7g2g4",
       "Name": "Sawmill",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "seaweed_farm",
@@ -251,8 +251,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2023-05-22T18:02:34.9698752+00:00",
+  "LastChanged_Achievements": "2023-05-22T19:03:43.7253704+00:00",
   "LastUpdate_AppInfo": "2023-05-18T10:56:57.7570035+00:00",
-  "LastUpdate_Ratings": "2023-05-22T17:57:00.3556722+00:00",
-  "LastUpdate_Achievements": "2023-05-22T18:02:34.9698909+00:00"
+  "LastUpdate_Ratings": "2023-05-22T18:57:17.7690669+00:00",
+  "LastUpdate_Achievements": "2023-05-22T19:03:43.7253835+00:00"
 }

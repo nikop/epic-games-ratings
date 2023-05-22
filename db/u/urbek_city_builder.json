@@ -2,7 +2,7 @@
   "ID": "5d2e14c5f6ac427b8a8466508cf81f6d",
   "Name": "Urbek City Builder",
   "ProductSlug": "urbek-city-builder-17cf7d",
-  "Ranking_EOS_Progress": 237,
+  "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 82,
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 170,
+  "EOS_Progressed": 171,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -246,6 +246,11 @@
     {
       "Time": "2023-05-22T10:06:18.3130666+00:00",
       "NumProgressed": 170,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T19:06:31.8293101+00:00",
+      "NumProgressed": 171,
       "NumCompleted": 0
     }
   ],
@@ -538,7 +543,7 @@
       "Name": "I am very happy!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "FELIZ_3",
@@ -608,9 +613,9 @@
       "ID": "MADERA_0",
       "SetID": "44dlcg0",
       "Name": "The woodcutter",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "MILLS",
@@ -642,7 +647,7 @@
       "Name": "It is nice to share with friends in the city",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -690,7 +695,7 @@
       "Name": "Small town",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "POPULATION_2",
@@ -778,7 +783,7 @@
       "Name": "Sport is good for you",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "SPORTS_2",
@@ -866,7 +871,7 @@
       "Name": "Bucolic city",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "WELFARE_1",
@@ -889,7 +894,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 170,
+      "Progressed": 171,
       "Completed": 0
     }
   ],
@@ -897,8 +902,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-05-22T18:05:34.6162267+00:00",
+  "LastChanged_Achievements": "2023-05-22T19:06:31.8293097+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:08.225759+00:00",
-  "LastUpdate_Ratings": "2023-05-22T17:58:45.0901021+00:00",
-  "LastUpdate_Achievements": "2023-05-22T18:05:34.6163115+00:00"
+  "LastUpdate_Ratings": "2023-05-22T18:59:19.8346119+00:00",
+  "LastUpdate_Achievements": "2023-05-22T19:06:31.8293833+00:00"
 }

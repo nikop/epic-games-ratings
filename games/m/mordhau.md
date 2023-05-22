@@ -1,50 +1,50 @@
 # MORDHAU
 [Store](https://store.epicgames.com/en-US/p/mordhau)  
 [View Rawdata](../../db/m/mordhau.json)  
-Rating: 4.41 (Ranked 659)  
+Rating: 4.42 (Ranked 647)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 50.00% | ~684,564 |
-| The ABCs | 43.00% | ~588,725 |
-| Home Run | 42.00% | ~575,033 |
-| Keeps Coming Off | 40.00% | ~547,651 |
-| Guts | 20.00% | ~273,825 |
-| Meat Grinder | 20.00% | ~273,825 |
-| Burning Man | 16.00% | ~219,060 |
-| Lived to Tell the Tale | 12.00% | ~164,295 |
-| Highlander | 10.00% | ~136,913 |
-| Unstoppable | 10.00% | ~136,913 |
-| Just a Scratch | 9.00% | ~123,221 |
-| Tough Nut to Crack | 6.00% | ~82,148 |
-| Yoink | 5.00% | ~68,456 |
-| Long List of Names | 4.00% | ~54,765 |
-| Pyromaniac | 4.00% | ~54,765 |
-| The Queen of Weapons | 4.00% | ~54,765 |
-| Eagle Eye | 2.00% | ~27,383 |
-| This isn’t Sparta | 2.00% | ~27,383 |
-| Poacher | 2.00% | ~27,383 |
-| Put That Away | 2.00% | ~27,383 |
-| You’re Welcome | 2.00% | ~27,383 |
-| Crybaby | 1.00% | ~13,691 |
-| I Know Kung Fu | 1.00% | ~13,691 |
-| Coming Through | 0.80% | ~10,953 |
-| Chambermaid | 0.70% | ~9,584 |
-| Training Accident | 0.60% | ~8,215 |
-| Virtuoso | 0.60% | ~8,215 |
+| Justice from the Grave | 50.00% | ~684,642 |
+| The ABCs | 43.00% | ~588,792 |
+| Home Run | 42.00% | ~575,099 |
+| Keeps Coming Off | 40.00% | ~547,714 |
+| Guts | 20.00% | ~273,857 |
+| Meat Grinder | 20.00% | ~273,857 |
+| Burning Man | 16.00% | ~219,085 |
+| Lived to Tell the Tale | 12.00% | ~164,314 |
+| Highlander | 10.00% | ~136,928 |
+| Unstoppable | 10.00% | ~136,928 |
+| Just a Scratch | 9.00% | ~123,236 |
+| Tough Nut to Crack | 6.00% | ~82,157 |
+| Yoink | 5.00% | ~68,464 |
+| Long List of Names | 4.00% | ~54,771 |
+| Pyromaniac | 4.00% | ~54,771 |
+| The Queen of Weapons | 4.00% | ~54,771 |
+| Eagle Eye | 2.00% | ~27,386 |
+| This isn’t Sparta | 2.00% | ~27,386 |
+| Poacher | 2.00% | ~27,386 |
+| Put That Away | 2.00% | ~27,386 |
+| You’re Welcome | 2.00% | ~27,386 |
+| Crybaby | 1.00% | ~13,693 |
+| I Know Kung Fu | 1.00% | ~13,693 |
+| Coming Through | 0.80% | ~10,954 |
+| Chambermaid | 0.70% | ~9,585 |
+| Training Accident | 0.60% | ~8,216 |
+| Virtuoso | 0.60% | ~8,216 |
 | Boxer | 0.50% | ~6,846 |
 | Rock’n’Roll | 0.50% | ~6,846 |
 | Flyswatter | 0.40% | ~5,477 |
-| Friend Indeed | 0.30% | ~4,107 |
-| Vlad the Impaler | 0.30% | ~4,107 |
-| Whack-A-Mole | 0.30% | ~4,107 |
+| Friend Indeed | 0.30% | ~4,108 |
+| Vlad the Impaler | 0.30% | ~4,108 |
+| Whack-A-Mole | 0.30% | ~4,108 |
 | Clobbered | 0.10% | ~1,369 |
 | Ended Rightly | 0.10% | ~1,369 |
 | Living Sculpture | 0.10% | ~1,369 |
 | That’s No Ordinary Cold | 0.10% | ~1,369 |
 | Stairway to Hell | 0.10% | ~1,369 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,369,127 (Ranked 7)  
+Progressed: 1,369,284 (Ranked 7)  
 Completed: 17 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,11 +76,11 @@ Completed: 17 (0.00%) (Ranked 201)
 | 2023-05-19 | 1,359,334 | 16 |
 | 2023-05-20 | 1,363,394 | 16 |
 | 2023-05-21 | 1,367,181 | 17 |
-| 2023-05-22 | 1,369,127 | 17 |
+| 2023-05-22 | 1,369,284 | 17 |
 ## Awards
 Max (Highly Recommended): 152  (Ranked 284)  
-Sum: 777 (Ranked 252)  
-Diff (max vs sum): 32  
+Sum: 884 (Ranked 240)  
+Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 152 |
@@ -89,8 +89,8 @@ Diff (max vs sum): 32
 | This game has Amazing Characters | 124 |
 | This game has Competitive Players | 114 |
 | This game is Extremely Fun | 113 |
+| This game has Quickly Understood Controls | 107 |
 | This game has Amazing Storytelling | 95 |
-| This game has Quickly Understood Controls | 82 |
 | This game is Great for Quick Sessions | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -132,4 +132,4 @@ Diff (max vs sum): 32
 | 2023-05-19 | 4.42 | 138 | 792 |
 | 2023-05-20 | 4.41 | 145 | 725 |
 | 2023-05-21 | 4.41 | 149 | 859 |
-| 2023-05-22 | 4.42 | 152 | 862 |
+| 2023-05-22 | 4.42 | 152 | 884 |

@@ -471,9 +471,9 @@
       "ID": "ACH_MAKE_CANNED_FOOD",
       "SetID": "7c4cldc",
       "Name": "Prepper",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_MAKE_FUEL",
@@ -487,9 +487,9 @@
       "ID": "ACH_METEORITE_SMELTER",
       "SetID": "7c4cldc",
       "Name": "Smelting Master",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_MYTHRIL_SMELTER",
@@ -543,9 +543,9 @@
       "ID": "ACH_TELEPORT",
       "SetID": "7c4cldc",
       "Name": "Teleport",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     }
   ],
   "AchievementSets": [
@@ -560,8 +560,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-03-31T05:58:41.9972886+00:00",
-  "LastChanged_Achievements": "2023-05-22T18:05:12.7017016+00:00",
+  "LastChanged_Achievements": "2023-05-22T19:06:05.9023518+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:01.8031827+00:00",
-  "LastUpdate_Ratings": "2023-05-22T17:58:22.0595388+00:00",
-  "LastUpdate_Achievements": "2023-05-22T18:05:12.7017239+00:00"
+  "LastUpdate_Ratings": "2023-05-22T18:58:56.1324004+00:00",
+  "LastUpdate_Achievements": "2023-05-22T19:06:05.9023706+00:00"
 }

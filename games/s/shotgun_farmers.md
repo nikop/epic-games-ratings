@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Aspairagus | 17.00% | ~1 |
+| Aspairagus | 19.00% | ~1 |
 | Survivor | 15.00% | ~1 |
 | Bouncemato | 11.00% | ~0 |
 | Early Survivor | 11.00% | ~0 |

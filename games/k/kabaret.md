@@ -32,6 +32,8 @@
 | Face Value | 20.00% | ~2 |
 | I Like Salty Seawater | 20.00% | ~2 |
 | I Sit On The Beach, Watching The Tide Leave | 20.00% | ~2 |
+| Self-indulgent | 20.00% | ~2 |
+| Breaking In The Horse | 20.00% | ~2 |
 | Power Of Friendship | 20.00% | ~2 |
 | Squashed Bug | 20.00% | ~2 |
 | Till Death Do We... | 20.00% | ~2 |
@@ -53,8 +55,6 @@
 | There's Something About You... | 10.00% | ~1 |
 | Under The Sea | 10.00% | ~1 |
 | A Foot In Reality | 10.00% | ~1 |
-| Self-indulgent | 10.00% | ~1 |
-| Breaking In The Horse | 10.00% | ~1 |
 | To Live And Die Free | 10.00% | ~1 |
 | I Enjoy Death | 10.00% | ~1 |
 | Be Cruel To Be Kind | 10.00% | ~1 |

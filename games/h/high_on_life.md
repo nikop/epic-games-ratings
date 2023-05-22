@@ -1,36 +1,36 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.67 (Ranked 257)  
+Rating: 4.67 (Ranked 256)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~18,837 |
-| Mods Please Ban | 77.00% | ~17,475 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,248 |
-| Fallout Doesn't Let You Do This | 73.00% | ~16,567 |
-| First Bounty Down | 59.00% | ~13,390 |
-| We're All Very Impressed, Trust Me | 57.00% | ~12,936 |
-| Luglox Genocide | 43.00% | ~9,759 |
-| Playing Card To Get | 33.00% | ~7,489 |
-| Don't Knife The Hand That Feeds | 33.00% | ~7,489 |
+| Eye Scream, You Scream | 83.00% | ~18,839 |
+| Mods Please Ban | 77.00% | ~17,477 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,250 |
+| Fallout Doesn't Let You Do This | 73.00% | ~16,570 |
+| First Bounty Down | 59.00% | ~13,392 |
+| We're All Very Impressed, Trust Me | 57.00% | ~12,938 |
+| Luglox Genocide | 43.00% | ~9,760 |
+| Playing Card To Get | 33.00% | ~7,490 |
+| Don't Knife The Hand That Feeds | 33.00% | ~7,490 |
 | Creature Feature | 29.00% | ~6,582 |
 | Satisfied Gus-tomer | 28.00% | ~6,355 |
 | Cold-Blooded Driller | 28.00% | ~6,355 |
 | Are You Packin'? | 25.00% | ~5,674 |
 | G3 Graduation | 25.00% | ~5,674 |
-| RIP Davey Glutes | 24.00% | ~5,447 |
-| Sweezy Like Sunday Morning | 24.00% | ~5,447 |
-| Hardest Battle In The Game | 22.00% | ~4,993 |
-| Series Wrap on Suit-O | 22.00% | ~4,993 |
-| Lezduit! | 20.00% | ~4,539 |
-| Who's The Boss? | 20.00% | ~4,539 |
-| Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,539 |
-| Self-Actualization | 19.00% | ~4,312 |
-| Legendary Bounty Hunter | 18.00% | ~4,085 |
-| Seeing All The Sights | 16.00% | ~3,631 |
-| Carried Stan's Load To Completion | 13.00% | ~2,950 |
-| We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,723 |
+| RIP Davey Glutes | 24.00% | ~5,448 |
+| Sweezy Like Sunday Morning | 24.00% | ~5,448 |
+| Hardest Battle In The Game | 22.00% | ~4,994 |
+| Series Wrap on Suit-O | 22.00% | ~4,994 |
+| Lezduit! | 20.00% | ~4,540 |
+| Who's The Boss? | 20.00% | ~4,540 |
+| Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,540 |
+| Self-Actualization | 19.00% | ~4,313 |
+| Legendary Bounty Hunter | 18.00% | ~4,086 |
+| Seeing All The Sights | 16.00% | ~3,632 |
+| Carried Stan's Load To Completion | 13.00% | ~2,951 |
+| We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,724 |
 | Eatin' Good in the Neighborhood | 9.00% | ~2,043 |
 | Sequel-Bait | 8.00% | ~1,816 |
 | Gunning For Your Job | 7.00% | ~1,589 |
@@ -38,7 +38,7 @@ Rating: 4.67 (Ranked 257)
 | Epic Legendary Prize | 1.00% | ~227 |
 | A Starfish Is Born | 1.00% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,695 (Ranked 88)  
+Progressed: 22,698 (Ranked 88)  
 Completed: 8 (0.04%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 8 (0.04%) (Ranked 177)
 | 2023-05-19 | 22,671 | 8 |
 | 2023-05-20 | 22,679 | 8 |
 | 2023-05-21 | 22,690 | 8 |
-| 2023-05-22 | 22,695 | 8 |
+| 2023-05-22 | 22,698 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

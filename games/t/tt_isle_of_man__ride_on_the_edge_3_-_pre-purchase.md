@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 98.00% | ~43 |
-| To Each Their Own | 45.00% | ~20 |
+| You're Going Down! | 98.00% | ~44 |
+| To Each Their Own | 47.00% | ~21 |
 | You Get An Upgrade, You Get An Upgrade! | 20.00% | ~9 |
 | Onwards and Upwards | 20.00% | ~9 |
 | Like Phileas Fogg | 18.00% | ~8 |
@@ -16,13 +16,13 @@
 | Upgradeaholic | 7.00% | ~3 |
 | Tailor-Made for Two | 7.00% | ~3 |
 | Playing God | 7.00% | ~3 |
-| Say My Name | 5.00% | ~2 |
-| Nerd | 5.00% | ~2 |
-| Highly Qualified | 5.00% | ~2 |
-| First and Foremost | 5.00% | ~2 |
-| Made Mother Proud | 5.00% | ~2 |
-| Winner Winner Chicken Dinner | 5.00% | ~2 |
-| Lone Wolf | 5.00% | ~2 |
+| Say My Name | 4.00% | ~2 |
+| Nerd | 4.00% | ~2 |
+| Highly Qualified | 4.00% | ~2 |
+| First and Foremost | 4.00% | ~2 |
+| Made Mother Proud | 4.00% | ~2 |
+| Winner Winner Chicken Dinner | 4.00% | ~2 |
+| Lone Wolf | 4.00% | ~2 |
 | Déjà-Vu | 2.00% | ~1 |
 | Golden Ratio | 2.00% | ~1 |
 | POI Hunter | 2.00% | ~1 |
@@ -44,8 +44,8 @@
 | Tailor-Made | 2.00% | ~1 |
 | Tempus Fugit | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44 (Ranked 291)  
-Completed: 1 (2.27%) (Ranked 60)  
+Progressed: 45 (Ranked 290)  
+Completed: 1 (2.22%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -61,4 +61,4 @@ Completed: 1 (2.27%) (Ranked 60)
 | 2023-05-19 | 36 | 1 |
 | 2023-05-20 | 39 | 1 |
 | 2023-05-21 | 43 | 1 |
-| 2023-05-22 | 44 | 1 |
+| 2023-05-22 | 45 | 1 |

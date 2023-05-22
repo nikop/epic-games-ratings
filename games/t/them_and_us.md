@@ -17,11 +17,11 @@
 | The Cultists | 10.00% | ~12 |
 | Alone In The Dark | 9.00% | ~11 |
 | The Forgotten Tower | 8.00% | ~9 |
+| The Curse Is Real | 6.00% | ~7 |
 | Lover of classics | 5.00% | ~6 |
 | Researcher | 5.00% | ~6 |
 | Rest In Peace | 5.00% | ~6 |
 | I Am The Gate Keeper! | 5.00% | ~6 |
-| The Curse Is Real | 5.00% | ~6 |
 | Modern Player | 4.00% | ~5 |
 | The bus stop | 4.00% | ~5 |
 | Trapped | 4.00% | ~5 |
@@ -45,7 +45,7 @@
 | Survival Horror | 0.80% | ~1 |
 | Survival Hero | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 118 (Ranked 255)  
+Progressed: 118 (Ranked 256)  
 Completed: 1 (0.85%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |

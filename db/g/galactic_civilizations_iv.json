@@ -768,9 +768,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5747,
+  "EOS_Progressed": 5748,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2388,6 +2388,11 @@
       "Time": "2023-05-22T18:00:27.9387755+00:00",
       "NumProgressed": 5747,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T19:01:28.4948405+00:00",
+      "NumProgressed": 5748,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -2477,9 +2482,9 @@
       "ID": "First_Civ_Designed",
       "SetID": "4h07amh",
       "Name": "Design a Civilization",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1782
+      "UsersEstimate": 1839
     },
     {
       "ID": "First_Major_Ally",
@@ -2503,7 +2508,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4540
+      "UsersEstimate": 4541
     },
     {
       "ID": "First_Race_Met",
@@ -2511,7 +2516,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4195
+      "UsersEstimate": 4196
     },
     {
       "ID": "First_Ship_Designed",
@@ -2615,7 +2620,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2011
+      "UsersEstimate": 2012
     },
     {
       "ID": "Play_1000_Hours",
@@ -2719,7 +2724,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3563
+      "UsersEstimate": 3564
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -2887,7 +2892,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 3850
+      "UsersEstimate": 3851
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -2974,15 +2979,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 5747,
+      "Progressed": 5748,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-05-22T02:57:12.0040707+00:00",
-  "LastChanged_Achievements": "2023-05-22T18:00:27.9387749+00:00",
+  "LastChanged_Achievements": "2023-05-22T19:01:28.4948397+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:07.7367569+00:00",
-  "LastUpdate_Ratings": "2023-05-22T17:57:21.5326805+00:00",
-  "LastUpdate_Achievements": "2023-05-22T18:00:27.9388738+00:00"
+  "LastUpdate_Ratings": "2023-05-22T18:57:40.9420466+00:00",
+  "LastUpdate_Achievements": "2023-05-22T19:01:28.4949128+00:00"
 }

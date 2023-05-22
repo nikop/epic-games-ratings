@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Hell In A Handcart | 69.00% | ~143 |
-| Read Between The Lines | 65.00% | ~135 |
-| High Profile | 61.00% | ~126 |
-| Whispers In The Dark | 57.00% | ~118 |
+| To Hell In A Handcart | 68.00% | ~141 |
+| Read Between The Lines | 64.00% | ~133 |
+| High Profile | 61.00% | ~127 |
+| Whispers In The Dark | 57.00% | ~119 |
 | Fond Memories | 51.00% | ~106 |
-| History Check | 49.00% | ~101 |
-| A Method To His Madness | 49.00% | ~101 |
-| The New World | 47.00% | ~97 |
-| Sticky Fingers | 46.00% | ~95 |
-| Lock, Stock, And Barrel | 45.00% | ~93 |
-| Gaze Into The Abyss | 45.00% | ~93 |
-| Open Sesame | 45.00% | ~93 |
-| Knives Out | 45.00% | ~93 |
-| Back In The Saddle | 44.00% | ~91 |
-| Land, Ho! | 44.00% | ~91 |
+| A Method To His Madness | 50.00% | ~104 |
+| History Check | 49.00% | ~102 |
+| The New World | 47.00% | ~98 |
+| Sticky Fingers | 46.00% | ~96 |
+| Lock, Stock, And Barrel | 45.00% | ~94 |
+| Gaze Into The Abyss | 45.00% | ~94 |
+| Open Sesame | 45.00% | ~94 |
+| Knives Out | 45.00% | ~94 |
+| Back In The Saddle | 44.00% | ~92 |
+| Land, Ho! | 44.00% | ~92 |
 | No Man Is An Island | 43.00% | ~89 |
 | At Wits' End | 40.00% | ~83 |
 | Bookworm | 39.00% | ~81 |
 | Up In Flames | 37.00% | ~77 |
 | Fhtagn! | 37.00% | ~77 |
 | Going Once... | 36.00% | ~75 |
-| Brain Food | 35.00% | ~72 |
-| Let Me Be Frank | 34.00% | ~70 |
+| Brain Food | 35.00% | ~73 |
+| Let Me Be Frank | 34.00% | ~71 |
 | No Stone Unturned | 31.00% | ~64 |
-| Curiosity Killed The Cat | 21.00% | ~43 |
-| Big Breakthrough | 20.00% | ~41 |
-| Read It And Weep | 20.00% | ~41 |
-| Reawakened | 8.00% | ~17 |
+| Curiosity Killed The Cat | 22.00% | ~46 |
+| Big Breakthrough | 20.00% | ~42 |
+| Read It And Weep | 20.00% | ~42 |
+| Reawakened | 9.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 207 (Ranked 226)  
-Completed: 11 (5.31%) (Ranked 29)  
+Progressed: 208 (Ranked 226)  
+Completed: 12 (5.77%) (Ranked 28)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -62,7 +62,7 @@ Completed: 11 (5.31%) (Ranked 29)
 | 2023-05-19 | 170 | 10 |
 | 2023-05-20 | 190 | 10 |
 | 2023-05-21 | 201 | 11 |
-| 2023-05-22 | 207 | 11 |
+| 2023-05-22 | 208 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

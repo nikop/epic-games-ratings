@@ -11,33 +11,33 @@
 | I like you...but I have to kill you... | 80.00% | ~37 |
 | Nerd | 80.00% | ~37 |
 | AHHHHHH.....I'M ON FIRE!!! | 78.00% | ~36 |
-| Not so hip anymore! | 76.00% | ~35 |
+| Not so hip anymore! | 78.00% | ~36 |
+| Blurry depth perception | 74.00% | ~34 |
 | Rolling, Rolling, Rolling | 72.00% | ~33 |
-| Up and down | 70.00% | ~32 |
-| Blurry depth perception | 70.00% | ~32 |
-| Oh, you're up to no gouda! | 59.00% | ~27 |
-| Make Love not War-Craft a Mistlefoe | 59.00% | ~27 |
+| Up and down | 72.00% | ~33 |
+| Oh, you're up to no gouda! | 63.00% | ~29 |
+| Make Love not War-Craft a Mistlefoe | 61.00% | ~28 |
 | Fire-fighter! | 57.00% | ~26 |
-| Meat grinder | 48.00% | ~22 |
+| Meat grinder | 52.00% | ~24 |
+| You're not going to blow me up! | 48.00% | ~22 |
 | Butcher | 43.00% | ~20 |
 | Mushroom soup of the day | 43.00% | ~20 |
-| You're not going to blow me up! | 43.00% | ~20 |
+| Surprise!! | 43.00% | ~20 |
 | My pants squeak when I walk | 43.00% | ~20 |
-| Surprise!! | 41.00% | ~19 |
-| Thats disgusting! | 41.00% | ~19 |
+| Thats disgusting! | 43.00% | ~20 |
 | Spare Ribs | 41.00% | ~19 |
 | Honk honk! | 39.00% | ~18 |
-| Cockadoodledoo! | 37.00% | ~17 |
-| Self assessed tax return | 35.00% | ~16 |
-| Make America Grate Again | 33.00% | ~15 |
+| Cockadoodledoo! | 39.00% | ~18 |
+| Self assessed tax return | 37.00% | ~17 |
+| Make America Grate Again | 35.00% | ~16 |
 | Haemochromatosis | 33.00% | ~15 |
+| You are no match for me, Billy! | 30.00% | ~14 |
 | Pasta Bolognese | 30.00% | ~14 |
-| You are no match for me, Billy! | 28.00% | ~13 |
 | Meatballs, coming up! | 28.00% | ~13 |
+| Catch the bus with me! | 28.00% | ~13 |
 | Karaoke king | 28.00% | ~13 |
-| You can't stop me, bro! | 26.00% | ~12 |
-| Catch the bus with me! | 24.00% | ~11 |
-| I'm going to get a concussion | 24.00% | ~11 |
+| You can't stop me, bro! | 28.00% | ~13 |
+| I'm going to get a concussion | 26.00% | ~12 |
 | Another one bites the iron | 24.00% | ~11 |
 | Hovering around | 17.00% | ~8 |
 | A Megapint...? | 15.00% | ~7 |

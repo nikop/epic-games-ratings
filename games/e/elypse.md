@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A path of no return | 103.00% | ~37 |
-| Pigeon | 83.00% | ~30 |
-| A bottomless pit | 83.00% | ~30 |
-| Baited | 69.00% | ~25 |
-| Splash! | 64.00% | ~23 |
-| "Swoosh" | 58.00% | ~21 |
-| The light at the end of the tunnel | 58.00% | ~21 |
-| Masochistic | 50.00% | ~18 |
-| Soft skin | 47.00% | ~17 |
-| Sensitive soul | 39.00% | ~14 |
-| Squid game | 31.00% | ~11 |
-| Hard Rock | 31.00% | ~11 |
-| Rock Solid | 28.00% | ~10 |
-| The beast within | 28.00% | ~10 |
-| It's getting dark | 28.00% | ~10 |
+| A path of no return | 103.00% | ~38 |
+| Pigeon | 81.00% | ~30 |
+| A bottomless pit | 81.00% | ~30 |
+| Baited | 68.00% | ~25 |
+| Splash! | 62.00% | ~23 |
+| "Swoosh" | 57.00% | ~21 |
+| The light at the end of the tunnel | 57.00% | ~21 |
+| Masochistic | 49.00% | ~18 |
+| Soft skin | 46.00% | ~17 |
+| Sensitive soul | 38.00% | ~14 |
+| Squid game | 30.00% | ~11 |
+| Hard Rock | 30.00% | ~11 |
+| Rock Solid | 27.00% | ~10 |
+| The beast within | 27.00% | ~10 |
+| It's getting dark | 27.00% | ~10 |
 | Rooftop | 22.00% | ~8 |
 | Homeless | 22.00% | ~8 |
 | Big badaboom! | 19.00% | ~7 |
-| Payback | 17.00% | ~6 |
-| Nokron tower | 14.00% | ~5 |
+| Nokron tower | 16.00% | ~6 |
+| Payback | 16.00% | ~6 |
 | Magnitude 5 | 14.00% | ~5 |
 | Bookworm | 14.00% | ~5 |
 | Full power | 11.00% | ~4 |
 | "Ah sh*t... Here we go again!" | 11.00% | ~4 |
 | Compulsive hoarder | 11.00% | ~4 |
 | MayDay! MayDay! | 11.00% | ~4 |
-| GG EZ | 6.00% | ~2 |
-| Comeback | 6.00% | ~2 |
+| GG EZ | 5.00% | ~2 |
+| Comeback | 5.00% | ~2 |
 | Gooooooaaaaal!!! | 3.00% | ~1 |
 | Abyssal God | 0.00% | ~0 |
 | What do you want? | 0.00% | ~0 |
@@ -39,7 +39,7 @@
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36 (Ranked 297)  
+Progressed: 37 (Ranked 296)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -49,4 +49,4 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-19 | 22 | 0 |
 | 2023-05-20 | 30 | 0 |
 | 2023-05-21 | 32 | 0 |
-| 2023-05-22 | 36 | 0 |
+| 2023-05-22 | 37 | 0 |

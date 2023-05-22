@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 978,
+  "EOS_Progressed": 979,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -197,6 +197,11 @@
     {
       "Time": "2023-05-21T18:06:50.6670587+00:00",
       "NumProgressed": 978,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T19:06:25.3967238+00:00",
+      "NumProgressed": 979,
       "NumCompleted": 0
     }
   ],
@@ -337,7 +342,7 @@
       "Name": "Rookie No More",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "CAREERADVANCED",
@@ -393,7 +398,7 @@
       "Name": "EZ game EZ life",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "CAREERTRIALSMASTERS",
@@ -489,7 +494,7 @@
       "Name": "First step into a larger world",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "LOSEONEONLINE",
@@ -513,7 +518,7 @@
       "Name": "Suit up",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ONEMODULE",
@@ -521,7 +526,7 @@
       "Name": "Increasing your Power Level",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "ONEPAINT",
@@ -624,7 +629,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 978,
+      "Progressed": 979,
       "Completed": 0
     }
   ],
@@ -632,8 +637,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-05-22T18:05:29.1111222+00:00",
+  "LastChanged_Achievements": "2023-05-22T19:06:25.3967234+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:42.1539132+00:00",
-  "LastUpdate_Ratings": "2023-05-22T17:58:04.9717652+00:00",
-  "LastUpdate_Achievements": "2023-05-22T18:05:29.1111621+00:00"
+  "LastUpdate_Ratings": "2023-05-22T18:58:32.4360318+00:00",
+  "LastUpdate_Achievements": "2023-05-22T19:06:25.3967602+00:00"
 }

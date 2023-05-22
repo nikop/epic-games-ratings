@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2725,
+  "EOS_Progressed": 2726,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1144,6 +1144,11 @@
       "Time": "2023-05-22T18:05:42.3815345+00:00",
       "NumProgressed": 2725,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-22T19:06:40.7614016+00:00",
+      "NumProgressed": 2726,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1203,7 +1208,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2452
+      "UsersEstimate": 2453
     },
     {
       "ID": "campaign10",
@@ -1251,7 +1256,7 @@
       "Name": "Almost Like Winning",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "campaign16",
@@ -1291,7 +1296,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2180
+      "UsersEstimate": 2181
     },
     {
       "ID": "campaign20",
@@ -1307,7 +1312,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1771
+      "UsersEstimate": 1772
     },
     {
       "ID": "campaign4",
@@ -1323,7 +1328,7 @@
       "Name": "Clay Fighter",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "campaign6",
@@ -1363,7 +1368,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1117
+      "UsersEstimate": 1118
     },
     {
       "ID": "scenario2",
@@ -1418,7 +1423,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2725,
+      "Progressed": 2726,
       "Completed": 9
     }
   ],
@@ -1426,8 +1431,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-22T18:05:42.3815339+00:00",
+  "LastChanged_Achievements": "2023-05-22T19:06:40.7614011+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:08.6918917+00:00",
-  "LastUpdate_Ratings": "2023-05-22T18:00:02.4645817+00:00",
-  "LastUpdate_Achievements": "2023-05-22T18:05:42.3815613+00:00"
+  "LastUpdate_Ratings": "2023-05-22T19:00:53.3070833+00:00",
+  "LastUpdate_Achievements": "2023-05-22T19:06:40.7614264+00:00"
 }

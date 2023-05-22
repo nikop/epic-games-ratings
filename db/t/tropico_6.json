@@ -2,12 +2,12 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 257,
+  "Ranking_Rating": 256,
   "Ranking_Popularity": 319,
   "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -852,7 +852,7 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 3022,
+  "EOS_Progressed": 3023,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
@@ -2597,6 +2597,11 @@
       "Time": "2023-05-22T18:05:44.7089143+00:00",
       "NumProgressed": 3022,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-22T19:06:43.363081+00:00",
+      "NumProgressed": 3023,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2632,7 +2637,7 @@
       "Name": "Happy Ending?",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -2704,7 +2709,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1390
+      "UsersEstimate": 1391
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -2768,7 +2773,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2327
+      "UsersEstimate": 2328
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -2792,7 +2797,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -2880,7 +2885,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1149
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -2927,15 +2932,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3022,
+      "Progressed": 3023,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-15T17:00:44.7999652+00:00",
-  "LastChanged_Achievements": "2023-05-22T18:05:44.7089137+00:00",
+  "LastChanged_Achievements": "2023-05-22T19:06:43.3630803+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:57.2781106+00:00",
-  "LastUpdate_Ratings": "2023-05-22T17:59:57.9869141+00:00",
-  "LastUpdate_Achievements": "2023-05-22T18:05:44.7089556+00:00"
+  "LastUpdate_Ratings": "2023-05-22T19:00:49.4635032+00:00",
+  "LastUpdate_Achievements": "2023-05-22T19:06:43.3631158+00:00"
 }

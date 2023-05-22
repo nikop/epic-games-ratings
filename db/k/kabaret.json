@@ -4,7 +4,7 @@
   "ProductSlug": "kabaret-4810f9",
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 293,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-04-05T16:00:00+00:00",
@@ -347,17 +347,17 @@
       "ID": "41",
       "SetID": "37jn7be",
       "Name": "Self-indulgent",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "42",
       "SetID": "37jn7be",
       "Name": "Breaking In The Horse",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "43",
@@ -612,8 +612,8 @@
   "FirstSeenRating": "2023-04-29T22:57:51.702813+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:15.0612299+00:00",
   "LastChanged": "2023-04-29T22:57:51.7028131+00:00",
-  "LastChanged_Achievements": "2023-05-22T18:05:15.7962001+00:00",
+  "LastChanged_Achievements": "2023-05-22T19:06:09.5709258+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.1178962+00:00",
-  "LastUpdate_Ratings": "2023-05-22T17:57:59.8422167+00:00",
-  "LastUpdate_Achievements": "2023-05-22T18:05:15.7962651+00:00"
+  "LastUpdate_Ratings": "2023-05-22T18:58:22.0076526+00:00",
+  "LastUpdate_Achievements": "2023-05-22T19:06:09.5709819+00:00"
 }
