@@ -726,17 +726,17 @@
       "ID": "ETUA_TheForgottenTower",
       "SetID": "65jc0ap",
       "Name": "The Forgotten Tower",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ETUA_ThisCoffin",
       "SetID": "65jc0ap",
       "Name": "This Coffin Has Your Name On It!",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ETUA_ThisMansionIsClean",
@@ -791,8 +791,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-05-21T23:01:41.4480888+00:00",
+  "LastChanged_Achievements": "2023-05-22T00:01:55.062205+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:00.9346953+00:00",
-  "LastUpdate_Ratings": "2023-05-21T22:57:02.5197878+00:00",
-  "LastUpdate_Achievements": "2023-05-21T23:01:41.4481142+00:00"
+  "LastUpdate_Ratings": "2023-05-21T23:57:15.3320145+00:00",
+  "LastUpdate_Achievements": "2023-05-22T00:01:55.0622604+00:00"
 }

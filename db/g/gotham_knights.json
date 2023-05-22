@@ -1160,9 +1160,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61589,
+  "EOS_Progressed": 61594,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 706,
+  "EOS_NewPlayers": 711,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3240,6 +3240,11 @@
       "Time": "2023-05-21T23:06:37.8094557+00:00",
       "NumProgressed": 61589,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-22T00:06:41.1817502+00:00",
+      "NumProgressed": 61594,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3433,9 +3438,9 @@
       "ID": "DEFEAT_LOS_1",
       "SetID": "4eo5ebm",
       "Name": "Out of Their League",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 246
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -3657,9 +3662,9 @@
       "ID": "MYSTERY_03",
       "SetID": "4eo5ebm",
       "Name": "Lock and Key",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 370
     },
     {
       "ID": "MYSTERY_04",
@@ -3738,13 +3743,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61589,
+      "Progressed": 61594,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 31869,
+      "Progressed": 31874,
       "Completed": 2640
     }
   ],
@@ -3752,8 +3757,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-21T20:59:39.1766882+00:00",
-  "LastChanged_Achievements": "2023-05-21T23:06:37.8094552+00:00",
+  "LastChanged_Achievements": "2023-05-22T00:06:41.1817492+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-21T23:00:05.2239768+00:00",
-  "LastUpdate_Achievements": "2023-05-21T23:06:37.8095081+00:00"
+  "LastUpdate_Ratings": "2023-05-22T00:00:17.6655033+00:00",
+  "LastUpdate_Achievements": "2023-05-22T00:06:41.1818199+00:00"
 }

@@ -140,7 +140,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14382,
+  "EOS_Progressed": 14383,
   "EOS_Completed": 45,
   "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 0,
@@ -2535,6 +2535,11 @@
       "Time": "2023-05-21T23:06:29.8625628+00:00",
       "NumProgressed": 14382,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-05-22T00:06:33.030316+00:00",
+      "NumProgressed": 14383,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 14,
@@ -2546,7 +2551,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 11362
+      "UsersEstimate": 11363
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -2578,7 +2583,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 2876
+      "UsersEstimate": 2877
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -2602,7 +2607,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 7622
+      "UsersEstimate": 7623
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -2650,22 +2655,22 @@
       "Name": "Wild West Hero",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 2013
+      "UsersEstimate": 2014
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 14382,
+      "Progressed": 14383,
       "Completed": 45
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-05-10T21:00:12.78292+00:00",
-  "LastChanged_Achievements": "2023-05-21T23:06:29.8625622+00:00",
+  "LastChanged_Achievements": "2023-05-22T00:06:33.0303155+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:34.6083984+00:00",
-  "LastUpdate_Ratings": "2023-05-21T23:00:51.6252359+00:00",
-  "LastUpdate_Achievements": "2023-05-21T23:06:29.8625817+00:00"
+  "LastUpdate_Ratings": "2023-05-22T00:01:05.2719745+00:00",
+  "LastUpdate_Achievements": "2023-05-22T00:06:33.0303409+00:00"
 }

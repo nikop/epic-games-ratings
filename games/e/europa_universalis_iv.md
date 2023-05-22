@@ -6,29 +6,29 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,737 |
-| That's a Grand Army | 8.00% | ~3,322 |
-| That is mine! | 8.00% | ~3,322 |
-| Victorious! | 8.00% | ~3,322 |
+| Until death do us apart | 9.00% | ~3,738 |
+| That's a Grand Army | 8.00% | ~3,323 |
+| That is mine! | 8.00% | ~3,323 |
+| Victorious! | 8.00% | ~3,323 |
 | Brothers in Arms | 6.00% | ~2,492 |
 | That's a Grand Navy | 6.00% | ~2,492 |
 | Seriously?! | 6.00% | ~2,492 |
-| For the Glory | 5.00% | ~2,076 |
-| Cold War | 4.00% | ~1,661 |
-| True Catholic | 4.00% | ~1,661 |
+| For the Glory | 5.00% | ~2,077 |
+| Cold War | 4.00% | ~1,662 |
+| True Catholic | 4.00% | ~1,662 |
 | Defender of the Faith | 3.00% | ~1,246 |
 | It's all about the money | 3.00% | ~1,246 |
 | Respected | 3.00% | ~1,246 |
 | Truly Divine Ruler | 3.00% | ~1,246 |
-| Blockader | 2.00% | ~830 |
-| Combined Arms | 2.00% | ~830 |
-| Double the Love | 2.00% | ~830 |
-| Gentle Persuasion | 2.00% | ~830 |
-| It's all about luck | 2.00% | ~830 |
-| Queen of Conquest | 2.00% | ~830 |
-| Royal Authority | 2.00% | ~830 |
-| The Princess is in this Castle | 2.00% | ~830 |
-| Total Control | 2.00% | ~830 |
+| Blockader | 2.00% | ~831 |
+| Combined Arms | 2.00% | ~831 |
+| Double the Love | 2.00% | ~831 |
+| Gentle Persuasion | 2.00% | ~831 |
+| It's all about luck | 2.00% | ~831 |
+| Queen of Conquest | 2.00% | ~831 |
+| Royal Authority | 2.00% | ~831 |
+| The Princess is in this Castle | 2.00% | ~831 |
+| Total Control | 2.00% | ~831 |
 | Agressive Expander | 1.00% | ~415 |
 | All That's Thine Shall Be Mine | 1.00% | ~415 |
 | Azur semé de lis or | 1.00% | ~415 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,525 (Ranked 80)  
+Progressed: 41,538 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -393,6 +393,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-19 | 39,979 | 0 |
 | 2023-05-20 | 40,736 | 0 |
 | 2023-05-21 | 41,525 | 0 |
+| 2023-05-22 | 41,538 | 0 |
 ## Awards
 Max (Educational): 5,264  (Ranked 60)  
 Sum: 43,591 (Ranked 27)  

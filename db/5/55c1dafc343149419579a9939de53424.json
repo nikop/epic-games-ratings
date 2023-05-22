@@ -2,9 +2,9 @@
   "ID": "55c1dafc343149419579a9939de53424",
   "Name": "Croc\u0027s World Construction Kit 2",
   "ProductSlug": "crocs-world-construction-kit-2-378153",
-  "Ranking_EOS_Progress": 323,
-  "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_Progress": 321,
+  "Ranking_EOS_Completed": 24,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-05-19T05:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13,
+  "EOS_Progressed": 15,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 7.69,
+  "EOS_Completed_Percentage": 6.67,
   "EosHistory": [
     {
       "Time": "2023-05-12T15:00:39.343778+00:00",
@@ -81,6 +81,11 @@
       "Time": "2023-05-21T18:01:57.4416367+00:00",
       "NumProgressed": 13,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-22T00:01:33.9929998+00:00",
+      "NumProgressed": 15,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 10,
@@ -90,7 +95,7 @@
       "ID": "1",
       "SetID": "3nb2n2l",
       "Name": "Play online levels for at least 45 mins!",
-      "Percentage": 54,
+      "Percentage": 47,
       "XP": 100,
       "UsersEstimate": 7
     },
@@ -98,7 +103,7 @@
       "ID": "10",
       "SetID": "3nb2n2l",
       "Name": "Create a level with more than 100 enemies!",
-      "Percentage": 15,
+      "Percentage": 13,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -106,7 +111,7 @@
       "ID": "2",
       "SetID": "3nb2n2l",
       "Name": "1 level rated!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -114,7 +119,7 @@
       "ID": "3",
       "SetID": "3nb2n2l",
       "Name": "Create more than 3 levels!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -122,7 +127,7 @@
       "ID": "4",
       "SetID": "3nb2n2l",
       "Name": "Rate at least 5 levels!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -130,7 +135,7 @@
       "ID": "5",
       "SetID": "3nb2n2l",
       "Name": "Create a level!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -138,7 +143,7 @@
       "ID": "6",
       "SetID": "3nb2n2l",
       "Name": "Big creator",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -146,7 +151,7 @@
       "ID": "7",
       "SetID": "3nb2n2l",
       "Name": "Play an onlinelevel!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -154,7 +159,7 @@
       "ID": "8",
       "SetID": "3nb2n2l",
       "Name": "Giant rater!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -162,7 +167,7 @@
       "ID": "9",
       "SetID": "3nb2n2l",
       "Name": "Create a level with more than 20 enemies!",
-      "Percentage": 38,
+      "Percentage": 33,
       "XP": 100,
       "UsersEstimate": 5
     }
@@ -171,14 +176,14 @@
     {
       "ID": "3nb2n2l",
       "IsBase": true,
-      "Progressed": 13,
+      "Progressed": 15,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-21T03:57:06.5022404+00:00",
   "FirstSeenAchievements": "2023-05-12T15:00:39.345223+00:00",
-  "LastChanged_Achievements": "2023-05-21T23:01:20.3674307+00:00",
+  "LastChanged_Achievements": "2023-05-22T00:01:33.992999+00:00",
   "LastUpdate_AppInfo": "2023-05-19T14:57:13.8717204+00:00",
-  "LastUpdate_Ratings": "2023-05-21T22:56:55.2706866+00:00",
-  "LastUpdate_Achievements": "2023-05-21T23:01:20.3674423+00:00"
+  "LastUpdate_Ratings": "2023-05-21T23:57:08.7342456+00:00",
+  "LastUpdate_Achievements": "2023-05-22T00:01:33.9930179+00:00"
 }

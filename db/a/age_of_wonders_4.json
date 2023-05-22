@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewPlayers": 63,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -142,9 +142,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3178,
+  "EOS_Progressed": 3180,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 770,
+  "EOS_NewPlayers": 768,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1537,6 +1537,11 @@
       "Time": "2023-05-21T23:03:37.2464026+00:00",
       "NumProgressed": 3178,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T00:03:40.2556859+00:00",
+      "NumProgressed": 3180,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -1548,7 +1553,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "10",
@@ -1564,7 +1569,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1494
+      "UsersEstimate": 1495
     },
     {
       "ID": "12",
@@ -1588,7 +1593,7 @@
       "Name": "Full Ascension",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "15",
@@ -1596,7 +1601,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "16",
@@ -1604,7 +1609,7 @@
       "Name": "God Emperor",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "17",
@@ -1612,15 +1617,15 @@
       "Name": "Lord of Chaos",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "18",
       "SetID": "3aa2279",
       "Name": "Arch Mage",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 540
+      "UsersEstimate": 572
     },
     {
       "ID": "19",
@@ -1636,15 +1641,15 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "20",
       "SetID": "3aa2279",
       "Name": "The Goddess of Nature",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 382
     },
     {
       "ID": "21",
@@ -1660,7 +1665,7 @@
       "Name": "Realm Estate",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2479
+      "UsersEstimate": 2480
     },
     {
       "ID": "23",
@@ -1668,7 +1673,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2574
+      "UsersEstimate": 2576
     },
     {
       "ID": "24",
@@ -1676,7 +1681,7 @@
       "Name": "Secret Technique",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2447
+      "UsersEstimate": 2449
     },
     {
       "ID": "25",
@@ -1684,7 +1689,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2352
+      "UsersEstimate": 2353
     },
     {
       "ID": "26",
@@ -1692,7 +1697,7 @@
       "Name": "Bone Peddler",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1970
+      "UsersEstimate": 1972
     },
     {
       "ID": "27",
@@ -1700,7 +1705,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "28",
@@ -1708,7 +1713,7 @@
       "Name": "From Friends to Family",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 2225
+      "UsersEstimate": 2226
     },
     {
       "ID": "29",
@@ -1716,7 +1721,7 @@
       "Name": "Stronger Together",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1780
+      "UsersEstimate": 1781
     },
     {
       "ID": "3",
@@ -1740,7 +1745,7 @@
       "Name": "Magical Synergy",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 2066
+      "UsersEstimate": 2067
     },
     {
       "ID": "32",
@@ -1756,7 +1761,7 @@
       "Name": "Seat of Power",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1463
     },
     {
       "ID": "34",
@@ -1764,7 +1769,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "35",
@@ -1788,7 +1793,7 @@
       "Name": "Against the Odds",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "38",
@@ -1804,7 +1809,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "4",
@@ -1812,7 +1817,7 @@
       "Name": "The Eternal Court",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "40",
@@ -1828,7 +1833,7 @@
       "Name": "Jack of All Tomes",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "42",
@@ -1899,13 +1904,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 3178,
-      "Completed": 3178
+      "Progressed": 3180,
+      "Completed": 3180
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 3178,
+      "Progressed": 3180,
       "Completed": 0
     }
   ],
@@ -1913,8 +1918,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-21T13:01:53.2055411+00:00",
-  "LastChanged_Achievements": "2023-05-21T23:03:37.2464021+00:00",
+  "LastChanged_Achievements": "2023-05-22T00:03:40.2556855+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:46.682938+00:00",
-  "LastUpdate_Ratings": "2023-05-21T22:59:42.508883+00:00",
-  "LastUpdate_Achievements": "2023-05-21T23:03:37.2464368+00:00"
+  "LastUpdate_Ratings": "2023-05-21T23:59:53.9293966+00:00",
+  "LastUpdate_Achievements": "2023-05-22T00:03:40.2557311+00:00"
 }

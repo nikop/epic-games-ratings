@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46674,
+  "EOS_Progressed": 46678,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 503,
+  "EOS_NewPlayers": 507,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2146,6 +2146,11 @@
       "Time": "2023-05-21T23:06:09.2731725+00:00",
       "NumProgressed": 46674,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-05-22T00:06:11.7652965+00:00",
+      "NumProgressed": 46678,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 67,
@@ -2157,7 +2162,7 @@
       "Name": "Follow the Light",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 9335
+      "UsersEstimate": 9336
     },
     {
       "ID": "02",
@@ -2181,7 +2186,7 @@
       "Name": "Boob Tube",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "05",
@@ -2189,7 +2194,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5134
+      "UsersEstimate": 5135
     },
     {
       "ID": "06",
@@ -2261,7 +2266,7 @@
       "Name": "Gatekeeper",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2800
+      "UsersEstimate": 2801
     },
     {
       "ID": "15",
@@ -2269,7 +2274,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2800
+      "UsersEstimate": 2801
     },
     {
       "ID": "16",
@@ -2389,7 +2394,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2800
+      "UsersEstimate": 2801
     },
     {
       "ID": "31",
@@ -2421,7 +2426,7 @@
       "Name": "Energized!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2800
+      "UsersEstimate": 2801
     },
     {
       "ID": "35",
@@ -2437,7 +2442,7 @@
       "Name": "Carny",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "37",
@@ -2493,7 +2498,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 4667
+      "UsersEstimate": 4668
     },
     {
       "ID": "44",
@@ -2557,7 +2562,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "52",
@@ -2692,21 +2697,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46674,
+      "Progressed": 46678,
       "Completed": 45
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 10142,
+      "Progressed": 10146,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-21T23:06:09.2731717+00:00",
+  "LastChanged_Achievements": "2023-05-22T00:06:11.7652959+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:07.5579983+00:00",
-  "LastUpdate_Ratings": "2023-05-21T22:57:37.8657204+00:00",
-  "LastUpdate_Achievements": "2023-05-21T23:06:09.2732302+00:00"
+  "LastUpdate_Ratings": "2023-05-21T23:57:46.753117+00:00",
+  "LastUpdate_Achievements": "2023-05-22T00:06:11.7653738+00:00"
 }

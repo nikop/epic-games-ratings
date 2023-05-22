@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 166,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -883,9 +883,9 @@
       "ID": "RecipeDifferent10",
       "SetID": "d1bm05f",
       "Name": "Home Cook",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "RecipeDifferent30",
@@ -1012,8 +1012,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-21T23:06:11.3431435+00:00",
+  "LastChanged_Achievements": "2023-05-22T00:06:13.6874315+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.318416+00:00",
-  "LastUpdate_Ratings": "2023-05-21T22:58:33.1049121+00:00",
-  "LastUpdate_Achievements": "2023-05-21T23:06:11.3431707+00:00"
+  "LastUpdate_Ratings": "2023-05-21T23:58:42.299639+00:00",
+  "LastUpdate_Achievements": "2023-05-22T00:06:13.6874635+00:00"
 }

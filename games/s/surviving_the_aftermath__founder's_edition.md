@@ -7,31 +7,31 @@ Number of Ratings: 836  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 70.00% | ~3,907 |
-| Leader | 61.00% | ~3,404 |
+| Leader | 61.00% | ~3,405 |
 | Explorer | 53.00% | ~2,958 |
 | Healer | 53.00% | ~2,958 |
 | Aspiring Inventor | 44.00% | ~2,456 |
-| Adventurer | 41.00% | ~2,288 |
+| Adventurer | 41.00% | ~2,289 |
 | Famous Healer | 38.00% | ~2,121 |
-| Local Leader | 35.00% | ~1,953 |
+| Local Leader | 35.00% | ~1,954 |
 | New Opportunities | 34.00% | ~1,898 |
 | Famous Explorer | 33.00% | ~1,842 |
 | Energized | 33.00% | ~1,842 |
 | The Long Haul | 33.00% | ~1,842 |
 | Survivor | 31.00% | ~1,730 |
-| The Great Healer | 30.00% | ~1,674 |
+| The Great Healer | 30.00% | ~1,675 |
 | Catastrofan | 28.00% | ~1,563 |
 | Legendary Explorer | 27.00% | ~1,507 |
 | Cleaner | 27.00% | ~1,507 |
-| Finders, Keepers | 25.00% | ~1,395 |
-| Top Notch | 24.00% | ~1,339 |
+| Finders, Keepers | 25.00% | ~1,396 |
+| Top Notch | 24.00% | ~1,340 |
 | Great Leader | 22.00% | ~1,228 |
 | Ice Lakes | 22.00% | ~1,228 |
 | Mentor | 22.00% | ~1,228 |
 | Merchant | 21.00% | ~1,172 |
 | Real Survivor | 21.00% | ~1,172 |
-| War Never Changes | 19.00% | ~1,060 |
-| Rocket Surgeon | 19.00% | ~1,060 |
+| War Never Changes | 19.00% | ~1,061 |
+| Rocket Surgeon | 19.00% | ~1,061 |
 | Friendly | 16.00% | ~893 |
 | Big Game Hunter | 16.00% | ~893 |
 | Spreading Influence | 16.00% | ~893 |
@@ -42,7 +42,7 @@ Number of Ratings: 836  (23.09.2022)
 | Big Catastrofan | 12.00% | ~670 |
 | It's a Finnish Thing | 10.00% | ~558 |
 | Sky Burial | 9.00% | ~502 |
-| Trader | 8.00% | ~446 |
+| Trader | 8.00% | ~447 |
 | Bread and Circuses | 7.00% | ~391 |
 | Tailored to fit | 7.00% | ~391 |
 | Really Friendly | 6.00% | ~335 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Finnished | 0.20% | ~11 |
 | Customized calamities | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,581 (Ranked 120)  
+Progressed: 5,582 (Ranked 120)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,6 +98,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-19 | 5,457 | 0 |
 | 2023-05-20 | 5,518 | 0 |
 | 2023-05-21 | 5,581 | 0 |
+| 2023-05-22 | 5,582 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 325)  
 Sum: 652 (Ranked 270)  

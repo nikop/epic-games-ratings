@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2718,
+  "EOS_Progressed": 2719,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1119,6 +1119,11 @@
       "Time": "2023-05-21T23:06:33.702726+00:00",
       "NumProgressed": 2718,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-22T00:06:36.865572+00:00",
+      "NumProgressed": 2719,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1178,7 +1183,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2446
+      "UsersEstimate": 2447
     },
     {
       "ID": "campaign10",
@@ -1210,7 +1215,7 @@
       "Name": "Damage Control",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "campaign14",
@@ -1234,7 +1239,7 @@
       "Name": "Master of the Brawl",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "campaign17",
@@ -1266,7 +1271,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2174
+      "UsersEstimate": 2175
     },
     {
       "ID": "campaign20",
@@ -1290,7 +1295,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "campaign5",
@@ -1338,7 +1343,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "scenario2",
@@ -1346,7 +1351,7 @@
       "Name": "Full Employment",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     },
     {
       "ID": "scenario3",
@@ -1393,7 +1398,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2718,
+      "Progressed": 2719,
       "Completed": 9
     }
   ],
@@ -1401,8 +1406,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-21T23:06:33.7027257+00:00",
+  "LastChanged_Achievements": "2023-05-22T00:06:36.8655712+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:08.6918917+00:00",
-  "LastUpdate_Ratings": "2023-05-21T23:00:39.8035003+00:00",
-  "LastUpdate_Achievements": "2023-05-21T23:06:33.7027478+00:00"
+  "LastUpdate_Ratings": "2023-05-22T00:00:52.9702106+00:00",
+  "LastUpdate_Achievements": "2023-05-22T00:06:36.8656038+00:00"
 }
