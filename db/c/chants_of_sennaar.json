@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-09-05T16:30:00+00:00",
@@ -23,9 +23,210 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "TotalAchievements": 25,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "END_BAD",
+      "SetID": "2gma9an",
+      "Name": "I did it",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "END_GOOD",
+      "SetID": "2gma9an",
+      "Name": "In this together",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "META_ALL_LINK",
+      "SetID": "2gma9an",
+      "Name": "Peace walker",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "META_ALL_TERMINAL",
+      "SetID": "2gma9an",
+      "Name": "Cable guy",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "META_FIRST_LINK",
+      "SetID": "2gma9an",
+      "Name": "A good beginning",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "META_HALF_LINK",
+      "SetID": "2gma9an",
+      "Name": "Half the way",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "META_RESULT_1-2",
+      "SetID": "2gma9an",
+      "Name": "Open door",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "META_RESULT_1-3",
+      "SetID": "2gma9an",
+      "Name": "Free at last",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "META_RESULT_1-4",
+      "SetID": "2gma9an",
+      "Name": "Feels like springtime",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "META_RESULT_2-3",
+      "SetID": "2gma9an",
+      "Name": "A great audience",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "META_RESULT_2-4",
+      "SetID": "2gma9an",
+      "Name": "For its own good",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "META_RESULT_3-4",
+      "SetID": "2gma9an",
+      "Name": "A Link to the Past",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "OPTIONNAL_AIRLINES",
+      "SetID": "2gma9an",
+      "Name": "Alchemists Express",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "OPTIONNAL_BELL",
+      "SetID": "2gma9an",
+      "Name": "Rascal",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "OPTIONNAL_GAMES",
+      "SetID": "2gma9an",
+      "Name": "True G4M3R",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "OPTIONNAL_PREACHER",
+      "SetID": "2gma9an",
+      "Name": "The Preacher\u0027s fate",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "OPTIONNAL_WEAPONS",
+      "SetID": "2gma9an",
+      "Name": "Fashion victim",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PROGRESS_ALL_RUNES",
+      "SetID": "2gma9an",
+      "Name": "Champollion",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PROGRESS_FIRST_PAGE",
+      "SetID": "2gma9an",
+      "Name": "That\u0027s the spirit",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PROGRESS_HALF_RUNES",
+      "SetID": "2gma9an",
+      "Name": "Scholar",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PROGRESS_N1",
+      "SetID": "2gma9an",
+      "Name": "Welcome to the Tower",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PROGRESS_N2",
+      "SetID": "2gma9an",
+      "Name": "The great escape",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PROGRESS_N3",
+      "SetID": "2gma9an",
+      "Name": "A new dawn",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PROGRESS_N4",
+      "SetID": "2gma9an",
+      "Name": "The darkness",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PROGRESS_N5",
+      "SetID": "2gma9an",
+      "Name": "One last step",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
@@ -35,8 +236,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-05-22T13:10:19.3960355+00:00",
+  "LastChanged_Achievements": "2023-05-22T14:05:40.8698375+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:19.0543655+00:00",
-  "LastUpdate_Ratings": "2023-05-22T13:03:57.1804081+00:00",
-  "LastUpdate_Achievements": "2023-05-22T13:10:19.3960391+00:00"
+  "LastUpdate_Ratings": "2023-05-22T13:59:17.9656576+00:00",
+  "LastUpdate_Achievements": "2023-05-22T14:05:40.8698562+00:00"
 }

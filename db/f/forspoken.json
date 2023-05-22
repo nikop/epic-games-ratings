@@ -236,9 +236,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38165,
+  "EOS_Progressed": 38168,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2306,6 +2306,11 @@
       "Time": "2023-05-22T13:10:45.0557963+00:00",
       "NumProgressed": 38165,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-22T14:06:12.579435+00:00",
+      "NumProgressed": 38168,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2325,7 +2330,7 @@
       "Name": "Archivist",
       "Percentage": 0.3,
       "XP": 105,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "CAMP",
@@ -2445,7 +2450,7 @@
       "Name": "Forspoken",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "CHAPTER_12_CLEAR",
@@ -2461,7 +2466,7 @@
       "Name": "Craftsperson",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "CRAFT_FIRST",
@@ -2501,7 +2506,7 @@
       "Name": "Tit for Tat",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "LEAPFROG",
@@ -2740,22 +2745,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 38165,
+      "Progressed": 38168,
       "Completed": 1
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 3002,
-      "Completed": 3002
+      "Progressed": 3005,
+      "Completed": 3005
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-19T13:58:09.5173669+00:00",
-  "LastChanged_Achievements": "2023-05-22T13:10:45.0557959+00:00",
+  "LastChanged_Achievements": "2023-05-22T14:06:12.5794344+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:06.8378338+00:00",
-  "LastUpdate_Ratings": "2023-05-22T13:03:31.6507486+00:00",
-  "LastUpdate_Achievements": "2023-05-22T13:10:45.0558548+00:00"
+  "LastUpdate_Ratings": "2023-05-22T13:58:45.3468563+00:00",
+  "LastUpdate_Achievements": "2023-05-22T14:06:12.57951+00:00"
 }

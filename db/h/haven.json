@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1152,
+  "EOS_Progressed": 1153,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -433,6 +433,11 @@
       "Time": "2023-05-21T18:06:59.7625856+00:00",
       "NumProgressed": 1152,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-22T14:06:17.6360986+00:00",
+      "NumProgressed": 1153,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -460,7 +465,7 @@
       "Name": "Strike!",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "12",
@@ -508,7 +513,7 @@
       "Name": "Balding bloot!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "18",
@@ -572,7 +577,7 @@
       "Name": "In my shoes",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "25",
@@ -652,7 +657,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "7",
@@ -683,15 +688,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1152,
+      "Progressed": 1153,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-05-22T13:10:49.3529061+00:00",
+  "LastChanged_Achievements": "2023-05-22T14:06:17.6360974+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:06.355513+00:00",
-  "LastUpdate_Ratings": "2023-05-22T13:04:25.0915294+00:00",
-  "LastUpdate_Achievements": "2023-05-22T13:10:49.3529291+00:00"
+  "LastUpdate_Ratings": "2023-05-22T13:59:53.3101976+00:00",
+  "LastUpdate_Achievements": "2023-05-22T14:06:17.6361206+00:00"
 }

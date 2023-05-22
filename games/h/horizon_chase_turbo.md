@@ -6,45 +6,45 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 89.00% | ~839,358 |
-| I Need a Bigger Garage | 62.00% | ~584,721 |
-| Pump my Ride | 45.00% | ~424,395 |
-| Ghostbuster | 31.00% | ~292,361 |
-| That Was Close | 17.00% | ~160,327 |
-| Call Roadside Assistance | 16.00% | ~150,896 |
-| Quickie | 10.00% | ~94,310 |
-| California Dreamer | 7.00% | ~66,017 |
-| Can't Touch This | 4.00% | ~37,724 |
-| Carménère Taster | 3.00% | ~28,293 |
-| Comeback | 3.00% | ~28,293 |
-| Marathonist | 3.00% | ~28,293 |
-| Living Legend | 3.00% | ~28,293 |
-| Driver from Ipanema | 2.00% | ~18,862 |
-| Pathfinder | 2.00% | ~18,862 |
-| Go-Kart Champion | 2.00% | ~18,862 |
-| Completionist | 2.00% | ~18,862 |
-| Supersonic | 2.00% | ~18,862 |
-| Harder, Better, Faster, Stronger | 2.00% | ~18,862 |
-| God of Roads | 1.00% | ~9,431 |
-| The Iceman | 1.00% | ~9,431 |
-| Oil Tycoon | 1.00% | ~9,431 |
-| Round the Globe | 1.00% | ~9,431 |
-| Golden Passport | 1.00% | ~9,431 |
-| Brave and Bold | 0.90% | ~8,488 |
-| Crocodile Hunter | 0.80% | ~7,545 |
-| Old Master | 0.80% | ~7,545 |
-| Bollywood Star | 0.80% | ~7,545 |
+| The First of Many | 89.00% | ~839,442 |
+| I Need a Bigger Garage | 62.00% | ~584,780 |
+| Pump my Ride | 45.00% | ~424,437 |
+| Ghostbuster | 31.00% | ~292,390 |
+| That Was Close | 17.00% | ~160,343 |
+| Call Roadside Assistance | 16.00% | ~150,911 |
+| Quickie | 10.00% | ~94,319 |
+| California Dreamer | 7.00% | ~66,024 |
+| Can't Touch This | 4.00% | ~37,728 |
+| Carménère Taster | 3.00% | ~28,296 |
+| Comeback | 3.00% | ~28,296 |
+| Marathonist | 3.00% | ~28,296 |
+| Living Legend | 3.00% | ~28,296 |
+| Driver from Ipanema | 2.00% | ~18,864 |
+| Pathfinder | 2.00% | ~18,864 |
+| Go-Kart Champion | 2.00% | ~18,864 |
+| Completionist | 2.00% | ~18,864 |
+| Supersonic | 2.00% | ~18,864 |
+| Harder, Better, Faster, Stronger | 2.00% | ~18,864 |
+| God of Roads | 1.00% | ~9,432 |
+| The Iceman | 1.00% | ~9,432 |
+| Oil Tycoon | 1.00% | ~9,432 |
+| Round the Globe | 1.00% | ~9,432 |
+| Golden Passport | 1.00% | ~9,432 |
+| Brave and Bold | 0.90% | ~8,489 |
+| Crocodile Hunter | 0.80% | ~7,546 |
+| Old Master | 0.80% | ~7,546 |
+| Bollywood Star | 0.80% | ~7,546 |
 | Volcano Surfer | 0.70% | ~6,602 |
 | Otaku | 0.70% | ~6,602 |
-| Survivor | 0.50% | ~4,715 |
-| King of the World | 0.50% | ~4,715 |
-| Getting Famous | 0.40% | ~3,772 |
+| Survivor | 0.50% | ~4,716 |
+| King of the World | 0.50% | ~4,716 |
+| Getting Famous | 0.40% | ~3,773 |
 | Master of the Racetrack | 0.20% | ~1,886 |
 | Now Go Play Outside | 0.20% | ~1,886 |
 | Transporter | 0.10% | ~943 |
 | Look Mom, No Hands! | 0.10% | ~943 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 943,099 (Ranked 10)  
+Progressed: 943,193 (Ranked 10)  
 Completed: 263 (0.03%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 263 (0.03%) (Ranked 182)
 | 2023-05-19 | 936,785 | 256 |
 | 2023-05-20 | 939,727 | 259 |
 | 2023-05-21 | 942,269 | 261 |
-| 2023-05-22 | 943,099 | 263 |
+| 2023-05-22 | 943,193 | 263 |
 ## Awards
 Max (Great for Beginners): 135  (Ranked 292)  
 Sum: 1,107 (Ranked 226)  

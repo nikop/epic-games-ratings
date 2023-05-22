@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just Went Shopping | 97.00% | ~322 |
+| Just Went Shopping | 98.00% | ~325 |
 | Decision Maker | 80.00% | ~266 |
+| Sneaky Sneak | 78.00% | ~259 |
 | DIY | 78.00% | ~259 |
-| Sneaky Sneak | 77.00% | ~256 |
-| Master Chef | 65.00% | ~216 |
+| Master Chef | 66.00% | ~219 |
 | Master of Cards | 59.00% | ~196 |
 | Over Nine Thousaaand | 56.00% | ~186 |
 | Getting the Hang Of This | 47.00% | ~156 |

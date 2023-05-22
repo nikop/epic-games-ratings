@@ -9,12 +9,12 @@
 | A bottomless pit | 86.00% | ~30 |
 | Baited | 71.00% | ~25 |
 | Splash! | 66.00% | ~23 |
-| "Swoosh" | 57.00% | ~20 |
-| The light at the end of the tunnel | 57.00% | ~20 |
+| "Swoosh" | 60.00% | ~21 |
+| The light at the end of the tunnel | 60.00% | ~21 |
 | Masochistic | 49.00% | ~17 |
-| Soft skin | 46.00% | ~16 |
-| Sensitive soul | 37.00% | ~13 |
-| Squid game | 29.00% | ~10 |
+| Soft skin | 49.00% | ~17 |
+| Sensitive soul | 40.00% | ~14 |
+| Squid game | 31.00% | ~11 |
 | Hard Rock | 29.00% | ~10 |
 | Rock Solid | 26.00% | ~9 |
 | The beast within | 26.00% | ~9 |
@@ -22,9 +22,9 @@
 | Rooftop | 20.00% | ~7 |
 | Homeless | 20.00% | ~7 |
 | Big badaboom! | 17.00% | ~6 |
+| Magnitude 5 | 14.00% | ~5 |
 | Nokron tower | 11.00% | ~4 |
 | MayDay! MayDay! | 11.00% | ~4 |
-| Magnitude 5 | 11.00% | ~4 |
 | Bookworm | 11.00% | ~4 |
 | Payback | 11.00% | ~4 |
 | Full power | 9.00% | ~3 |

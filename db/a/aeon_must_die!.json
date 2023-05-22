@@ -4,7 +4,7 @@
   "ProductSlug": "aeon-must-die",
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 2642,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3471,
+  "EOS_Progressed": 3472,
   "EOS_Completed": -29,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": -0.84,
   "EosHistory": [
@@ -95,6 +95,11 @@
     {
       "Time": "2023-05-21T15:05:50.8575218+00:00",
       "NumProgressed": 3471,
+      "NumCompleted": -29
+    },
+    {
+      "Time": "2023-05-22T14:05:49.1122928+00:00",
+      "NumProgressed": 3472,
       "NumCompleted": -29
     }
   ],
@@ -243,7 +248,7 @@
       "Name": "Like Swatting Flies",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "26",
@@ -315,7 +320,7 @@
       "Name": "Cheap Tricks",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "34",
@@ -386,7 +391,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3471,
+      "Progressed": 3472,
       "Completed": -29
     }
   ],
@@ -394,8 +399,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2023-05-22T13:10:26.0316213+00:00",
+  "LastChanged_Achievements": "2023-05-22T14:05:49.1122913+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:02.3025092+00:00",
-  "LastUpdate_Ratings": "2023-05-22T13:02:22.464988+00:00",
-  "LastUpdate_Achievements": "2023-05-22T13:10:26.0316477+00:00"
+  "LastUpdate_Ratings": "2023-05-22T13:57:13.1506703+00:00",
+  "LastUpdate_Achievements": "2023-05-22T14:05:49.1123174+00:00"
 }

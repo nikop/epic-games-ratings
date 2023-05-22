@@ -4,13 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 70.00% | ~7 |
-| Killing Spree | 40.00% | ~4 |
-| 5Gb HDD | 20.00% | ~2 |
-| The Vette | 10.00% | ~1 |
-| Food Poisoning | 10.00% | ~1 |
-| Dominating | 10.00% | ~1 |
-| Merchant Prince I | 10.00% | ~1 |
+| First Blood | 64.00% | ~7 |
+| Killing Spree | 36.00% | ~4 |
+| 5Gb HDD | 27.00% | ~3 |
+| Dominating | 18.00% | ~2 |
+| Merchant Prince I | 18.00% | ~2 |
+| The Vette | 9.00% | ~1 |
+| Food Poisoning | 9.00% | ~1 |
+| Fighting Fit I | 9.00% | ~1 |
 | Providence | 0.00% | ~0 |
 | Revenge | 0.00% | ~0 |
 | Bronze Tovarish | 0.00% | ~0 |
@@ -134,10 +135,9 @@
 | Almost There IV | 0.00% | ~0 |
 | Fighting Fit IV | 0.00% | ~0 |
 | Fighting Fit II | 0.00% | ~0 |
-| Fighting Fit I | 0.00% | ~0 |
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10 (Ranked 330)  
+Progressed: 11 (Ranked 328)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,4 +146,4 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-18 | 3 | 0 |
 | 2023-05-19 | 7 | 0 |
 | 2023-05-20 | 8 | 0 |
-| 2023-05-22 | 10 | 0 |
+| 2023-05-22 | 11 | 0 |

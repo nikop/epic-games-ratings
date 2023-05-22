@@ -7,18 +7,18 @@ Number of Ratings: 1,845  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | No Deaths | 2.00% | ~299 |
-| First Real Expedition | 1.00% | ~149 |
-| Overcoming Difficulty | 1.00% | ~149 |
-| Bandit Camp | 1.00% | ~149 |
-| Barren Lands | 1.00% | ~149 |
-| Fertile Meadows | 1.00% | ~149 |
-| Lost Colonies | 1.00% | ~149 |
-| Coral Forest | 1.00% | ~149 |
-| The Marshlands | 1.00% | ~149 |
-| The Scarlet Orchard | 1.00% | ~149 |
-| Taking Action | 1.00% | ~149 |
-| Like a Machine | 1.00% | ~149 |
-| Trade Baron | 1.00% | ~149 |
+| First Real Expedition | 1.00% | ~150 |
+| Overcoming Difficulty | 1.00% | ~150 |
+| Bandit Camp | 1.00% | ~150 |
+| Barren Lands | 1.00% | ~150 |
+| Fertile Meadows | 1.00% | ~150 |
+| Lost Colonies | 1.00% | ~150 |
+| Coral Forest | 1.00% | ~150 |
+| The Marshlands | 1.00% | ~150 |
+| The Scarlet Orchard | 1.00% | ~150 |
+| Taking Action | 1.00% | ~150 |
+| Like a Machine | 1.00% | ~150 |
+| Trade Baron | 1.00% | ~150 |
 | Homesick | 0.90% | ~135 |
 | Ancient Battleground | 0.90% | ~135 |
 | Cursed Lands | 0.90% | ~135 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,949 (Ranked 98)  
+Progressed: 14,950 (Ranked 98)  
 Completed: 33 (0.22%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 33 (0.22%) (Ranked 135)
 | 2023-05-19 | 14,897 | 30 |
 | 2023-05-20 | 14,925 | 30 |
 | 2023-05-21 | 14,940 | 32 |
-| 2023-05-22 | 14,949 | 33 |
+| 2023-05-22 | 14,950 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 196)  
 Sum: 3,028 (Ranked 151)  

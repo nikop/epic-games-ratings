@@ -1,3 +1,42 @@
 # The Lord of the Rings - Gollum™
 [Store](https://store.epicgames.com/en-US/p/the-lord-of-the-rings-gollum-436d4f)  
 [View Rawdata](../../db/t/the_lord_of_the_rings_-_gollum™.json)  
+## Achievements
+| Name | Percentage | Users |
+| ---- | ---------- | ----- |
+| He's so Annoying | 0.00% | ~0 |
+| Break a Leg! | 0.00% | ~0 |
+| And now we wish... | 0.00% | ~0 |
+| The Wraith | 0.00% | ~0 |
+| The Friend | 0.00% | ~0 |
+| The Maggot | 0.00% | ~0 |
+| The Breeder | 0.00% | ~0 |
+| The Veteran | 0.00% | ~0 |
+| The Traitor | 0.00% | ~0 |
+| The Spider | 0.00% | ~0 |
+| Good as Fish | 0.00% | ~0 |
+| Her Eyes | 0.00% | ~0 |
+| Gollum/Sméagol | 0.00% | ~0 |
+| Collectibles Part 1 | 0.00% | ~0 |
+| Collectibles Part 2 | 0.00% | ~0 |
+| Rule them all! | 0.00% | ~0 |
+| Sweet Darkness | 0.00% | ~0 |
+| Elf-Friend | 0.00% | ~0 |
+| We Hates Them! | 0.00% | ~0 |
+| Like Flying... | 0.00% | ~0 |
+| We wants it! We needs it | 0.00% | ~0 |
+| Wait! Wait! Not yet! | 0.00% | ~0 |
+| Memories | 0.00% | ~0 |
+| Murderer | 0.00% | ~0 |
+| Nervous Hands | 0.00% | ~0 |
+| How Did You Do That? | 0.00% | ~0 |
+| Master of the Old Game | 0.00% | ~0 |
+| River Hobbit | 0.00% | ~0 |
+| So Silly! | 0.00% | ~0 |
+| Scout | 0.00% | ~0 |
+| Good Sméagol! | 0.00% | ~0 |
+| Made a Song | 0.00% | ~0 |
+| Ss ss ss... | 0.00% | ~0 |
+| So Tasty! | 0.00% | ~0 |
+| Trigger-Happy | 0.00% | ~0 |
+| Welcome to Mordor! | 0.00% | ~0 |

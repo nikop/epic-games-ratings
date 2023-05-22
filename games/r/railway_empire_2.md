@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Poor Devil | 60.00% | ~6 |
+| Mystery Tour | 60.00% | ~6 |
 | Departure | 50.00% | ~5 |
 | A new Journey | 50.00% | ~5 |
 | Country Bumpkin | 50.00% | ~5 |
 | We brake for nobody | 50.00% | ~5 |
 | Way of Iron | 50.00% | ~5 |
 | All around the World | 50.00% | ~5 |
-| Mystery Tour | 50.00% | ~5 |
 | Travel Company | 50.00% | ~5 |
 | Apprentice | 40.00% | ~4 |
 | From X to Y | 40.00% | ~4 |
@@ -60,7 +60,7 @@
 | Call of Duty | 0.00% | ~0 |
 | Together we stand | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10 (Ranked 330)  
+Progressed: 10 (Ranked 331)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |

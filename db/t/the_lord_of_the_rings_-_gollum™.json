@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -24,9 +24,298 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "TotalAchievements": 36,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Annoying",
+      "SetID": "70l3651",
+      "Name": "He\u0027s so Annoying",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BreakLegs",
+      "SetID": "70l3651",
+      "Name": "Break a Leg!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CatchAFish",
+      "SetID": "70l3651",
+      "Name": "And now we wish...",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapter1",
+      "SetID": "70l3651",
+      "Name": "The Wraith",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapter10",
+      "SetID": "70l3651",
+      "Name": "The Friend",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapter2",
+      "SetID": "70l3651",
+      "Name": "The Maggot",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapter3",
+      "SetID": "70l3651",
+      "Name": "The Breeder",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapter4",
+      "SetID": "70l3651",
+      "Name": "The Veteran",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapter5",
+      "SetID": "70l3651",
+      "Name": "The Traitor",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapter6",
+      "SetID": "70l3651",
+      "Name": "The Spider",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapter7",
+      "SetID": "70l3651",
+      "Name": "Good as Fish",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapter8",
+      "SetID": "70l3651",
+      "Name": "Her Eyes",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Chapter9",
+      "SetID": "70l3651",
+      "Name": "Gollum/Sm\u00E9agol",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Collectibles1",
+      "SetID": "70l3651",
+      "Name": "Collectibles Part 1",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Collectibles2",
+      "SetID": "70l3651",
+      "Name": "Collectibles Part 2",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Collectibles3",
+      "SetID": "70l3651",
+      "Name": "Rule them all!",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Darkness",
+      "SetID": "70l3651",
+      "Name": "Sweet Darkness",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ElfFriend",
+      "SetID": "70l3651",
+      "Name": "Elf-Friend",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ElfHater",
+      "SetID": "70l3651",
+      "Name": "We Hates Them!",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Flying",
+      "SetID": "70l3651",
+      "Name": "Like Flying...",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GollumChoices",
+      "SetID": "70l3651",
+      "Name": "We wants it! We needs it",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Lava",
+      "SetID": "70l3651",
+      "Name": "Wait! Wait! Not yet!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Memories",
+      "SetID": "70l3651",
+      "Name": "Memories",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Murderer",
+      "SetID": "70l3651",
+      "Name": "Murderer",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NoDamage",
+      "SetID": "70l3651",
+      "Name": "Nervous Hands",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NoDeath",
+      "SetID": "70l3651",
+      "Name": "How Did You Do That?",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "OldGame",
+      "SetID": "70l3651",
+      "Name": "Master of the Old Game",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RiverHobbit",
+      "SetID": "70l3651",
+      "Name": "River Hobbit",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SIlly",
+      "SetID": "70l3651",
+      "Name": "So Silly!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Scout",
+      "SetID": "70l3651",
+      "Name": "Scout",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SmeagolChoices",
+      "SetID": "70l3651",
+      "Name": "Good Sm\u00E9agol!",
+      "Percentage": 0,
+      "XP": 90,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Song",
+      "SetID": "70l3651",
+      "Name": "Made a Song",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "StealFood",
+      "SetID": "70l3651",
+      "Name": "Ss ss ss...",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Tasty",
+      "SetID": "70l3651",
+      "Name": "So Tasty!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TriggerHappy",
+      "SetID": "70l3651",
+      "Name": "Trigger-Happy",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "WelcomeToMordor",
+      "SetID": "70l3651",
+      "Name": "Welcome to Mordor!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "70l3651",
@@ -36,8 +325,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-22T13:10:20.0028699+00:00",
+  "LastChanged_Achievements": "2023-05-22T14:05:41.6445449+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:17.5264569+00:00",
-  "LastUpdate_Ratings": "2023-05-22T13:02:51.0079919+00:00",
-  "LastUpdate_Achievements": "2023-05-22T13:10:20.00288+00:00"
+  "LastUpdate_Ratings": "2023-05-22T13:57:51.424124+00:00",
+  "LastUpdate_Achievements": "2023-05-22T14:05:41.6445693+00:00"
 }

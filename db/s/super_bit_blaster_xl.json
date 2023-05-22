@@ -4,7 +4,7 @@
   "ProductSlug": "super-bit-blaster-xl-35d206",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-05-08T16:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 33,
+  "EOS_Progressed": 34,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.06,
+  "EOS_Completed_Percentage": 5.88,
   "EosHistory": [
     {
       "Time": "2023-05-04T22:06:12.5880447+00:00",
@@ -186,6 +186,11 @@
       "Time": "2023-05-22T12:04:55.9091514+00:00",
       "NumProgressed": 33,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-22T14:05:47.7165256+00:00",
+      "NumProgressed": 34,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 17,
@@ -195,7 +200,7 @@
       "ID": "1.5 Million",
       "SetID": "1f269fc",
       "Name": "1.5 Million",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 100,
       "UsersEstimate": 9
     },
@@ -203,7 +208,7 @@
       "ID": "10K",
       "SetID": "1f269fc",
       "Name": "10K",
-      "Percentage": 76,
+      "Percentage": 74,
       "XP": 40,
       "UsersEstimate": 25
     },
@@ -211,7 +216,7 @@
       "ID": "15K",
       "SetID": "1f269fc",
       "Name": "15K",
-      "Percentage": 67,
+      "Percentage": 65,
       "XP": 50,
       "UsersEstimate": 22
     },
@@ -219,7 +224,7 @@
       "ID": "1K",
       "SetID": "1f269fc",
       "Name": "1K",
-      "Percentage": 91,
+      "Percentage": 88,
       "XP": 10,
       "UsersEstimate": 30
     },
@@ -227,7 +232,7 @@
       "ID": "2.5K",
       "SetID": "1f269fc",
       "Name": "2.5K",
-      "Percentage": 94,
+      "Percentage": 91,
       "XP": 20,
       "UsersEstimate": 31
     },
@@ -235,7 +240,7 @@
       "ID": "25K",
       "SetID": "1f269fc",
       "Name": "25K",
-      "Percentage": 58,
+      "Percentage": 56,
       "XP": 75,
       "UsersEstimate": 19
     },
@@ -243,7 +248,7 @@
       "ID": "500K",
       "SetID": "1f269fc",
       "Name": "500K",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 75,
       "UsersEstimate": 10
     },
@@ -251,7 +256,7 @@
       "ID": "50K",
       "SetID": "1f269fc",
       "Name": "50K",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 100,
       "UsersEstimate": 16
     },
@@ -259,7 +264,7 @@
       "ID": "5K",
       "SetID": "1f269fc",
       "Name": "5K",
-      "Percentage": 67,
+      "Percentage": 65,
       "XP": 30,
       "UsersEstimate": 22
     },
@@ -267,7 +272,7 @@
       "ID": "75K",
       "SetID": "1f269fc",
       "Name": "75K",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 150,
       "UsersEstimate": 14
     },
@@ -275,7 +280,7 @@
       "ID": "Bit Blaster V2",
       "SetID": "1f269fc",
       "Name": "Bit Blaster V2",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 20,
       "UsersEstimate": 12
     },
@@ -332,14 +337,14 @@
     {
       "ID": "1f269fc",
       "IsBase": true,
-      "Progressed": 33,
+      "Progressed": 34,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-05-20T01:55:13.7731097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:16.9581391+00:00",
-  "LastChanged_Achievements": "2023-05-22T13:10:24.9047577+00:00",
+  "LastChanged_Achievements": "2023-05-22T14:05:47.7165243+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:15.3020968+00:00",
-  "LastUpdate_Ratings": "2023-05-22T13:02:49.179882+00:00",
-  "LastUpdate_Achievements": "2023-05-22T13:10:24.9047692+00:00"
+  "LastUpdate_Ratings": "2023-05-22T13:57:49.4227697+00:00",
+  "LastUpdate_Achievements": "2023-05-22T14:05:47.7165395+00:00"
 }

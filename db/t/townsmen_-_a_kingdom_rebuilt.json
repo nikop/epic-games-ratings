@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -211,7 +211,7 @@
   "Tags": [],
   "EOS_Progressed": 4153,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -935,9 +935,9 @@
       "ID": "ACHIEVEMENT_QUESTS3",
       "SetID": "9eacipp",
       "Name": "Completionist III",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_REBUILTIT",
@@ -1303,9 +1303,9 @@
       "ID": "ACHIEVEMENT_TAXES5",
       "SetID": "9eacipp",
       "Name": "Tax-man V",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 37
+      "UsersEstimate": 42
     },
     {
       "ID": "ACHIEVEMENT_TIME1",
@@ -1439,8 +1439,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-05-18T04:58:08.3119533+00:00",
-  "LastChanged_Achievements": "2023-05-22T13:10:50.0659336+00:00",
+  "LastChanged_Achievements": "2023-05-22T14:06:18.5170972+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:38.1590673+00:00",
-  "LastUpdate_Ratings": "2023-05-22T13:03:05.8282421+00:00",
-  "LastUpdate_Achievements": "2023-05-22T13:10:50.0660583+00:00"
+  "LastUpdate_Ratings": "2023-05-22T13:58:11.639788+00:00",
+  "LastUpdate_Achievements": "2023-05-22T14:06:18.5172325+00:00"
 }

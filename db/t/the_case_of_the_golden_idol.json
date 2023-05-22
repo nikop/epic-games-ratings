@@ -2,9 +2,9 @@
   "ID": "a5c7f255d82b45c29d9ae3e3d2e5563a",
   "Name": "The Case of the Golden Idol",
   "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
-  "Ranking_EOS_Progress": 272,
-  "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_Progress": 271,
+  "Ranking_EOS_Completed": 53,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73,
+  "EOS_Progressed": 74,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.74,
+  "EOS_Completed_Percentage": 2.7,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.7250837+00:00",
@@ -153,6 +153,11 @@
       "Time": "2023-05-21T14:00:21.1051644+00:00",
       "NumProgressed": 73,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-22T14:02:21.5295718+00:00",
+      "NumProgressed": 74,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 11,
@@ -162,7 +167,7 @@
       "ID": "0",
       "SetID": "acl54ke",
       "Name": "Solved first case",
-      "Percentage": 84,
+      "Percentage": 82,
       "XP": 10,
       "UsersEstimate": 61
     },
@@ -170,7 +175,7 @@
       "ID": "1",
       "SetID": "acl54ke",
       "Name": "Solved second case",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 90,
       "UsersEstimate": 59
     },
@@ -194,7 +199,7 @@
       "ID": "3",
       "SetID": "acl54ke",
       "Name": "Solved fourth case",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 100,
       "UsersEstimate": 32
     },
@@ -251,22 +256,22 @@
     {
       "ID": "acl54ke",
       "IsBase": true,
-      "Progressed": 73,
+      "Progressed": 74,
       "Completed": 2
     },
     {
       "ID": "a3epimb",
       "IsBase": false,
-      "Progressed": 20,
-      "Completed": 20
+      "Progressed": 21,
+      "Completed": 21
     }
   ],
   "FirstSeen": "2023-03-24T17:57:36.1252473+00:00",
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-05-22T13:08:13.8106418+00:00",
+  "LastChanged_Achievements": "2023-05-22T14:02:21.5295712+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:22.8180475+00:00",
-  "LastUpdate_Ratings": "2023-05-22T13:03:41.6208106+00:00",
-  "LastUpdate_Achievements": "2023-05-22T13:08:13.8106545+00:00"
+  "LastUpdate_Ratings": "2023-05-22T13:58:58.2506823+00:00",
+  "LastUpdate_Achievements": "2023-05-22T14:02:21.5295835+00:00"
 }

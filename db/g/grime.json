@@ -5,9 +5,9 @@
   "Ranking_Rating": 385,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 191,
+  "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 554,
+  "EOS_Progressed": 555,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -343,6 +343,11 @@
       "Time": "2023-05-22T11:06:14.0068633+00:00",
       "NumProgressed": 554,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T14:06:27.6001461+00:00",
+      "NumProgressed": 555,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -418,15 +423,15 @@
       "Name": "Taste",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "DEFEAT_AMAL1",
       "SetID": "ccc0dlh",
       "Name": "Weeper",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 89
+      "UsersEstimate": 94
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -554,7 +559,7 @@
       "Name": "Devourer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -570,7 +575,7 @@
       "Name": "Imprint",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -618,7 +623,7 @@
       "Name": "Sharpened Vessel",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "MISC_REACHMAXARDOR",
@@ -656,9 +661,9 @@
       "ID": "QUEST_CODA",
       "SetID": "ccc0dlh",
       "Name": "Generous",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 11
     },
     {
       "ID": "QUEST_KIN",
@@ -689,21 +694,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 137,
+      "Progressed": 138,
       "Completed": 17
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 554,
+      "Progressed": 555,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-05-18T00:00:29.519029+00:00",
-  "LastChanged_Achievements": "2023-05-22T13:10:57.3853335+00:00",
+  "LastChanged_Achievements": "2023-05-22T14:06:27.6001449+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:40.5662436+00:00",
-  "LastUpdate_Ratings": "2023-05-22T13:05:11.6102878+00:00",
-  "LastUpdate_Achievements": "2023-05-22T13:10:57.3853673+00:00"
+  "LastUpdate_Ratings": "2023-05-22T14:00:54.0614185+00:00",
+  "LastUpdate_Achievements": "2023-05-22T14:06:27.6001795+00:00"
 }

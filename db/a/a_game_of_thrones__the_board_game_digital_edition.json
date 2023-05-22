@@ -1239,9 +1239,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13011,
+  "EOS_Progressed": 13016,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 783,
+  "EOS_NewPlayers": 788,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -4284,6 +4284,11 @@
       "Time": "2023-05-22T13:10:48.8655766+00:00",
       "NumProgressed": 13011,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-05-22T14:06:16.9834012+00:00",
+      "NumProgressed": 13016,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 22,
@@ -4365,9 +4370,9 @@
       "ID": "1024",
       "SetID": "9l3d3cl",
       "Name": "Daggers in the Dark",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1041
     },
     {
       "ID": "1025",
@@ -4391,7 +4396,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1301
+      "UsersEstimate": 1302
     },
     {
       "ID": "1028",
@@ -4399,7 +4404,7 @@
       "Name": "The Kingsroad",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2472
+      "UsersEstimate": 2473
     },
     {
       "ID": "1029",
@@ -4415,7 +4420,7 @@
       "Name": "Battering Crew",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2732
+      "UsersEstimate": 2733
     },
     {
       "ID": "1031",
@@ -4431,7 +4436,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 5204
+      "UsersEstimate": 5206
     },
     {
       "ID": "1033",
@@ -4470,15 +4475,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 13011,
+      "Progressed": 13016,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-05-07T09:02:24.8496722+00:00",
-  "LastChanged_Achievements": "2023-05-22T13:10:48.8655761+00:00",
+  "LastChanged_Achievements": "2023-05-22T14:06:16.9834+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:02.1359414+00:00",
-  "LastUpdate_Ratings": "2023-05-22T13:04:58.6850739+00:00",
-  "LastUpdate_Achievements": "2023-05-22T13:10:48.8656095+00:00"
+  "LastUpdate_Ratings": "2023-05-22T14:00:37.9057503+00:00",
+  "LastUpdate_Achievements": "2023-05-22T14:06:16.983433+00:00"
 }

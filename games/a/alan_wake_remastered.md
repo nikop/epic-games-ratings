@@ -6,16 +6,16 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 20.00% | ~9,345 |
+| Follow the Light | 20.00% | ~9,346 |
 | Let There Be Light | 17.00% | ~7,944 |
-| Float Like a Butterfly | 16.00% | ~7,476 |
+| Float Like a Butterfly | 16.00% | ~7,477 |
 | Nordic Walking | 13.00% | ~6,075 |
 | Bright Falls' Finest | 13.00% | ~6,075 |
 | Under a Thin Layer of Skin | 11.00% | ~5,140 |
 | Paging Mr. Wake | 10.00% | ~4,673 |
-| Park Ranger | 9.00% | ~4,205 |
-| Back! Back, I Say! | 9.00% | ~4,205 |
-| Finders Keepers | 9.00% | ~4,205 |
+| Park Ranger | 9.00% | ~4,206 |
+| Back! Back, I Say! | 9.00% | ~4,206 |
+| Finders Keepers | 9.00% | ~4,206 |
 | Wheels Within Wheels | 8.00% | ~3,738 |
 | They're Heeeeeere! | 8.00% | ~3,738 |
 | The Six-Gun Scribe | 8.00% | ~3,738 |
@@ -35,9 +35,9 @@ Number of Ratings: 524  (23.09.2022)
 | Two For the Price of One | 6.00% | ~2,804 |
 | Energized! | 6.00% | ~2,804 |
 | A Friend Indeed | 6.00% | ~612 |
-| Tornado Wrangler | 5.00% | ~2,336 |
-| What Light Through Yonder Window | 5.00% | ~2,336 |
-| Right of Way | 5.00% | ~2,336 |
+| Tornado Wrangler | 5.00% | ~2,337 |
+| What Light Through Yonder Window | 5.00% | ~2,337 |
+| Right of Way | 5.00% | ~2,337 |
 | Ding! | 5.00% | ~510 |
 | Departure | 4.00% | ~1,869 |
 | Children of the Elder God | 3.00% | ~1,402 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~47 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,727 (Ranked 76)  
+Progressed: 46,731 (Ranked 76)  
 Completed: 45 (0.10%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 45 (0.10%) (Ranked 158)
 | 2023-05-19 | 46,386 | 45 |
 | 2023-05-20 | 46,523 | 45 |
 | 2023-05-21 | 46,674 | 45 |
-| 2023-05-22 | 46,727 | 45 |
+| 2023-05-22 | 46,731 | 45 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

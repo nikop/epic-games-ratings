@@ -1,16 +1,16 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.58 (Ranked 416)  
+Rating: 4.58 (Ranked 417)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~10,688 |
+| Sink Beneath the Waves | 36.00% | ~10,689 |
 | Sweet Sorrow | 18.00% | ~5,344 |
 | Rules the Waves | 17.00% | ~5,047 |
-| Thou, All-Shaking Thunder | 16.00% | ~4,750 |
-| Rival | 14.00% | ~4,156 |
+| Thou, All-Shaking Thunder | 16.00% | ~4,751 |
+| Rival | 14.00% | ~4,157 |
 | Correspondent | 12.00% | ~3,563 |
 | Lose Your Mind | 12.00% | ~3,563 |
 | Sound Mind? | 12.00% | ~3,563 |
@@ -23,8 +23,8 @@ Number of Ratings: 401  (23.09.2022)
 | Salvager | 7.00% | ~2,078 |
 | Open Your Ears | 7.00% | ~2,078 |
 | The Ascent of Man | 7.00% | ~2,078 |
-| Sink Beneath the Waves. Again. | 5.00% | ~1,484 |
-| Zee Fever | 5.00% | ~1,484 |
+| Sink Beneath the Waves. Again. | 5.00% | ~1,485 |
+| Zee Fever | 5.00% | ~1,485 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,188 |
 | Storm's Curse | 3.00% | ~891 |
 | We're Gonna Need a Bigger Boat | 3.00% | ~891 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~30 |
 | Ten Years at Zee | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,688 (Ranked 85)  
+Progressed: 29,691 (Ranked 85)  
 Completed: 3 (0.01%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 3 (0.01%) (Ranked 193)
 | 2023-05-19 | 29,456 | 3 |
 | 2023-05-20 | 29,550 | 3 |
 | 2023-05-21 | 29,654 | 3 |
-| 2023-05-22 | 29,688 | 3 |
+| 2023-05-22 | 29,691 | 3 |
 ## Awards
 Max (Character Customization): 208  (Ranked 256)  
 Sum: 277 (Ranked 329)  

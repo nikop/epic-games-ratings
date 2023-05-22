@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome! | 99.00% | ~136 |
-| A tiny town | 83.00% | ~114 |
-| Buildings, roads, cars, ...and people | 66.00% | ~90 |
-| Great view from the beach and from the hill | 54.00% | ~74 |
-| Bridges to come and go | 47.00% | ~64 |
-| Found an oasis | 39.00% | ~53 |
+| Welcome! | 99.00% | ~137 |
+| A tiny town | 83.00% | ~115 |
+| Buildings, roads, cars, ...and people | 65.00% | ~90 |
+| Great view from the beach and from the hill | 54.00% | ~75 |
+| Bridges to come and go | 46.00% | ~63 |
+| Found an oasis | 38.00% | ~52 |
 | Burger or pizza? | 35.00% | ~48 |
-| Passion for sports | 31.00% | ~42 |
-| Who loves trains? | 28.00% | ~38 |
-| Easy and steady climb | 28.00% | ~38 |
+| Passion for sports | 31.00% | ~43 |
+| Who loves trains? | 28.00% | ~39 |
+| Easy and steady climb | 28.00% | ~39 |
 | At the heart of the city | 27.00% | ~37 |
-| Calm neighborhood | 26.00% | ~36 |
+| Calm neighborhood | 25.00% | ~34 |
 | Elevated ring | 25.00% | ~34 |
-| Not lonely anymore | 23.00% | ~32 |
-| Monumental tribute | 20.00% | ~27 |
-| The beach is right there | 20.00% | ~27 |
-| Commuting | 20.00% | ~27 |
+| Not lonely anymore | 22.00% | ~30 |
+| Monumental tribute | 21.00% | ~29 |
+| The beach is right there | 20.00% | ~28 |
+| Commuting | 20.00% | ~28 |
 | Le jardin magnifique | 18.00% | ~25 |
 | Aiming for a living and human city | 17.00% | ~23 |
 | City of dreams | 17.00% | ~23 |
 | Happy Christmas night! | 17.00% | ~23 |
 | Night walk along the beach | 17.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137 (Ranked 250)  
-Completed: 23 (16.79%) (Ranked 8)  
+Progressed: 138 (Ranked 250)  
+Completed: 23 (16.67%) (Ranked 8)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -57,7 +57,7 @@ Completed: 23 (16.79%) (Ranked 8)
 | 2023-05-19 | 102 | 17 |
 | 2023-05-20 | 118 | 19 |
 | 2023-05-21 | 136 | 23 |
-| 2023-05-22 | 137 | 23 |
+| 2023-05-22 | 138 | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

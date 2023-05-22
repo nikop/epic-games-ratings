@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~554 |
+| Diligence as a goal | 4.00% | ~555 |
 | Project Arena | 3.00% | ~416 |
 | Bloody Sport | 1.00% | ~139 |
 | The Hateful Pole Fighter | 0.90% | ~6,341 |
@@ -14,16 +14,16 @@ Number of Ratings: 9,492  (23.09.2022)
 | State of constant learning | 0.90% | ~6,341 |
 | Qi Gong: Breath | 0.90% | ~6,341 |
 | The best strikes are the ones we avoid | 0.90% | ~125 |
-| The Old Grandmaster | 0.80% | ~5,636 |
-| The Assault | 0.80% | ~5,636 |
-| Lady Wing Chun | 0.80% | ~5,636 |
-| Furious Fists | 0.80% | ~5,636 |
-| Kill Nil | 0.80% | ~5,636 |
-| Life is your teacher | 0.80% | ~5,636 |
-| Qi Gong: Essence | 0.80% | ~5,636 |
-| Lightning Hands | 0.80% | ~5,636 |
-| Path of the Prospect | 0.80% | ~5,636 |
-| Rumble in the Hangar | 0.80% | ~5,636 |
+| The Old Grandmaster | 0.80% | ~5,637 |
+| The Assault | 0.80% | ~5,637 |
+| Lady Wing Chun | 0.80% | ~5,637 |
+| Furious Fists | 0.80% | ~5,637 |
+| Kill Nil | 0.80% | ~5,637 |
+| Life is your teacher | 0.80% | ~5,637 |
+| Qi Gong: Essence | 0.80% | ~5,637 |
+| Lightning Hands | 0.80% | ~5,637 |
+| Path of the Prospect | 0.80% | ~5,637 |
+| Rumble in the Hangar | 0.80% | ~5,637 |
 | Stuntmaster | 0.70% | ~4,932 |
 | Street Fighting | 0.70% | ~4,932 |
 | Take damage to save time | 0.70% | ~4,932 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~705 |
 | Warriors from the Mountain | 0.10% | ~705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,561 (Ranked 15)  
+Progressed: 704,574 (Ranked 15)  
 Completed: 12,733 (1.81%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 12,733 (1.81%) (Ranked 64)
 | 2023-05-19 | 703,575 | 12,731 |
 | 2023-05-20 | 704,036 | 12,732 |
 | 2023-05-21 | 704,407 | 12,733 |
-| 2023-05-22 | 704,561 | 12,733 |
+| 2023-05-22 | 704,574 | 12,733 |
 ## Awards
 Max (Great Boss Battles): 6,082  (Ranked 53)  
 Sum: 10,351 (Ranked 77)  

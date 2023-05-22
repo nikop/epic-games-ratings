@@ -14,6 +14,7 @@ Rating: 4.17 (Ranked 836)
 | The Batman Family | 0.60% | ~370 |
 | Something in the Clay | 0.60% | ~370 |
 | Quartzer Life Crisis | 0.60% | ~370 |
+| Snow Problem | 0.60% | ~370 |
 | Working Hard or Harley Working? | 0.60% | ~370 |
 | Unstoppable Force | 0.60% | ~370 |
 | Whispered Words | 0.60% | ~370 |
@@ -24,7 +25,6 @@ Rating: 4.17 (Ranked 836)
 | The Show Mud Go On | 0.50% | ~308 |
 | Rock and a Hard Place | 0.50% | ~308 |
 | Shock Til They Drop | 0.50% | ~308 |
-| Snow Problem | 0.50% | ~308 |
 | Cooldown | 0.50% | ~308 |
 | Universal Health Scare | 0.50% | ~308 |
 | From Inside Gotham's Walls | 0.50% | ~308 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 836)
 | Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,651 (Ranked 68)  
+Progressed: 61,658 (Ranked 68)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-19 | 61,198 | 91 |
 | 2023-05-20 | 61,416 | 91 |
 | 2023-05-21 | 61,589 | 91 |
-| 2023-05-22 | 61,651 | 91 |
+| 2023-05-22 | 61,658 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,229  (Ranked 98)  
 Sum: 3,695 (Ranked 137)  

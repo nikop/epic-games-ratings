@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -410,9 +410,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 13284,
+  "EOS_Progressed": 13289,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 720,
+  "EOS_NewPlayers": 725,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1170,6 +1170,11 @@
       "Time": "2023-05-22T12:02:11.5240748+00:00",
       "NumProgressed": 13284,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-05-22T14:02:18.1932547+00:00",
+      "NumProgressed": 13289,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 40,
@@ -1197,7 +1202,7 @@
       "Name": "Giving Back",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -1261,7 +1266,7 @@
       "Name": "Recidivist",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "FINISH_GAME_HARDCORE_PLUS",
@@ -1269,15 +1274,15 @@
       "Name": "Lifer",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "FINISH_NEW_GAME_PLUS",
       "SetID": "6j5ggkc",
       "Name": "Parole Denied",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -1309,7 +1314,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "KILL_ROBOT",
@@ -1461,7 +1466,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -1475,9 +1480,9 @@
       "ID": "NOSPEND_2ROUNDS",
       "SetID": "6j5ggkc",
       "Name": "Hoard Mode",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "RIOT_10_POWERUPS",
@@ -1500,13 +1505,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13284,
+      "Progressed": 13289,
       "Completed": 52
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1210,
+      "Progressed": 1215,
       "Completed": 29
     }
   ],
@@ -1514,8 +1519,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-16T17:57:38.030273+00:00",
-  "LastChanged_Achievements": "2023-05-22T13:08:11.327454+00:00",
+  "LastChanged_Achievements": "2023-05-22T14:02:18.193254+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-22T13:02:55.2601439+00:00",
-  "LastUpdate_Achievements": "2023-05-22T13:08:11.3274903+00:00"
+  "LastUpdate_Ratings": "2023-05-22T13:57:59.3315835+00:00",
+  "LastUpdate_Achievements": "2023-05-22T14:02:18.1932933+00:00"
 }
