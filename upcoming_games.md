@@ -3,6 +3,7 @@
 | [Backbeat](games/b/backbeat.md) | 2023-05-22 | 2023-03-16 |
 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 2023-05-22 | 2019-05-21 |
 | [Amnesia: The Bunker](games/a/amnesia__the_bunker.md) | 2023-05-23 | 2023-05-23 |
+| [Knights of Cathena](games/8/8cc5b4b56c84428999f03f3e6ac49481.md) | 2023-05-23 | 2022-09-07 |
 | [Cubzh](games/c/cubzh.md) | 2023-05-23 | 2021-10-24 |
 | [FutureGrind](games/8/80a76982ecc941dd864a8792a03a5ddc.md) | 2023-05-23 | 2019-01-22 |
 | [Planet of Lana](games/p/planet_of_lana.md) | 2023-05-23 | 2023-05-23 |
@@ -261,7 +262,6 @@
 | [Japanese Drift Master](games/j/japanese_drift_master.md) | 2099-01-01 | 2099-01-01 |
 | [Journey Into Darkness](games/j/journey_into_darkness.md) | 2099-01-01 | 2099-01-01 |
 | [KarmaZoo](games/k/karmazoo.md) | 2099-01-01 | 2099-01-01 |
-| [Knights of Cathena](games/8/8cc5b4b56c84428999f03f3e6ac49481.md) | 2099-01-01 | 2022-09-07 |
 | [Last Words](games/l/last_words.md) | 2099-01-01 | 2099-01-01 |
 | [Legendary Hoplite](games/a/ac45259a6001412d8e57aa5d5ad1811a.md) | 2099-01-01 | 2099-01-01 |
 | [Legends of Bezogia](games/l/legends_of_bezogia.md) | 2099-01-01 | 2099-01-01 |
