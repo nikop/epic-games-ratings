@@ -4,7 +4,7 @@
   "ProductSlug": "bioshock-2-remastered",
   "Ranking_Rating": 518,
   "Ranking_Popularity": 72,
-  "Ranking_PopularitySum": 121,
+  "Ranking_PopularitySum": 122,
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 315,
@@ -2131,6 +2131,6 @@
   "FirstSeen": "2022-07-22T20:29:15.5533471+00:00",
   "LastChanged": "2023-05-22T17:59:04.0360389+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:27.3624256+00:00",
-  "LastUpdate_Ratings": "2023-05-22T20:59:41.3884621+00:00",
-  "LastUpdate_Achievements": "2023-05-22T21:03:47.4086029+00:00"
+  "LastUpdate_Ratings": "2023-05-22T21:58:40.0008154+00:00",
+  "LastUpdate_Achievements": "2023-05-22T22:03:35.1934473+00:00"
 }

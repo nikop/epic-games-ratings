@@ -2,13 +2,13 @@
   "ID": "f3720f53cccb4a20841a392a8ea0457f",
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
-  "Ranking_Rating": 607,
+  "Ranking_Rating": 608,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 61,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10090,
+  "EOS_Progressed": 10094,
   "EOS_Completed": 217,
-  "EOS_NewPlayers": 664,
+  "EOS_NewPlayers": 660,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 2.15,
   "EosHistory": [
@@ -3403,6 +3403,11 @@
       "Time": "2023-05-22T21:06:40.9343926+00:00",
       "NumProgressed": 10090,
       "NumCompleted": 217
+    },
+    {
+      "Time": "2023-05-22T22:05:29.4096927+00:00",
+      "NumProgressed": 10094,
+      "NumCompleted": 217
     }
   ],
   "TotalAchievements": 20,
@@ -3414,7 +3419,7 @@
       "Name": "Cartographer",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1816
+      "UsersEstimate": 1817
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -3422,7 +3427,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "EAST_FINISHED",
@@ -3462,7 +3467,7 @@
       "Name": "An uninvited guest",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -3486,7 +3491,7 @@
       "Name": "Hide and Seek",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -3494,7 +3499,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "FOUND_MAMBA",
@@ -3502,7 +3507,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -3518,7 +3523,7 @@
       "Name": "Written in stone",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "GAME_FINISHED",
@@ -3534,7 +3539,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 7668
+      "UsersEstimate": 7671
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -3542,7 +3547,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 2825
+      "UsersEstimate": 2826
     },
     {
       "ID": "NORTH_FINISHED",
@@ -3558,7 +3563,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 706
+      "UsersEstimate": 707
     },
     {
       "ID": "WEST_FINISHED",
@@ -3566,22 +3571,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1917
+      "UsersEstimate": 1918
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 10090,
+      "Progressed": 10094,
       "Completed": 217
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-04T21:00:08.7329241+00:00",
-  "LastChanged_Achievements": "2023-05-22T21:06:40.9343922+00:00",
+  "LastChanged_Achievements": "2023-05-22T22:05:29.4096924+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:55.3860901+00:00",
-  "LastUpdate_Ratings": "2023-05-22T21:00:54.5400248+00:00",
-  "LastUpdate_Achievements": "2023-05-22T21:06:40.9344217+00:00"
+  "LastUpdate_Ratings": "2023-05-22T21:59:30.0254873+00:00",
+  "LastUpdate_Achievements": "2023-05-22T22:05:29.4097232+00:00"
 }

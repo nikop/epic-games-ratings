@@ -2492,9 +2492,9 @@
       "ID": "First_Civ_Designed",
       "SetID": "4h07amh",
       "Name": "Design a Civilization",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1782
+      "UsersEstimate": 1840
     },
     {
       "ID": "First_Major_Ally",
@@ -2996,8 +2996,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-05-22T02:57:12.0040707+00:00",
-  "LastChanged_Achievements": "2023-05-22T21:01:40.4796846+00:00",
+  "LastChanged_Achievements": "2023-05-22T22:00:07.6134978+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:07.7367569+00:00",
-  "LastUpdate_Ratings": "2023-05-22T20:57:21.5438921+00:00",
-  "LastUpdate_Achievements": "2023-05-22T21:01:40.4797613+00:00"
+  "LastUpdate_Ratings": "2023-05-22T21:57:06.8693129+00:00",
+  "LastUpdate_Achievements": "2023-05-22T22:00:07.6135856+00:00"
 }

@@ -15,7 +15,7 @@ Number of Ratings: 429  (23.09.2022)
 | Own 30 Planets | 35.00% | ~2,012 |
 | Xenocide | 33.00% | ~1,898 |
 | Commodity Trader | 32.00% | ~1,840 |
-| Design a Civilization | 31.00% | ~1,782 |
+| Design a Civilization | 32.00% | ~1,840 |
 | Design a Ship | 29.00% | ~1,667 |
 | Commodity Seller | 26.00% | ~1,495 |
 | Prestige Victory! | 14.00% | ~805 |

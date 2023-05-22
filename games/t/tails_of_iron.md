@@ -5,19 +5,19 @@ Rating: 4.50 (Ranked 535)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 76.00% | ~1,091 |
-| Become King | 70.00% | ~1,005 |
-| Ranged Weapon | 59.00% | ~847 |
-| Defeat 25 Frogs | 59.00% | ~847 |
+| Complete Guard Faction | 76.00% | ~1,092 |
+| Become King | 70.00% | ~1,006 |
+| Ranged Weapon | 59.00% | ~848 |
+| Defeat 25 Frogs | 59.00% | ~848 |
 | Collect Monster Parts | 55.00% | ~790 |
-| Two Handed Weapon | 54.00% | ~775 |
+| Two Handed Weapon | 54.00% | ~776 |
 | Defeat 25 Grubs | 50.00% | ~718 |
 | Rescue Redgi's Brothers | 50.00% | ~718 |
-| Collect Iron Ore | 45.00% | ~646 |
+| Collect Iron Ore | 45.00% | ~647 |
 | Kitchen Ready To Cook | 44.00% | ~632 |
-| Collect Gold | 43.00% | ~617 |
-| Defeat 25 Mozis | 43.00% | ~617 |
-| Smithy Ready to Craft | 43.00% | ~617 |
+| Collect Gold | 43.00% | ~618 |
+| Defeat 25 Mozis | 43.00% | ~618 |
+| Smithy Ready to Craft | 43.00% | ~618 |
 | Fix the Travellers Wagon | 41.00% | ~589 |
 | Complete Elder Faction | 38.00% | ~546 |
 | End of the Mozis | 35.00% | ~503 |
@@ -30,13 +30,13 @@ Rating: 4.50 (Ranked 535)
 | Complete the Chefs Book | 22.00% | ~316 |
 | Complete Ranger Faction | 20.00% | ~287 |
 | Defeat Avor Warden of the Northern Wastes | 19.00% | ~273 |
-| Discover the mystery of the Kings Chambers | 18.00% | ~258 |
+| Discover the mystery of the Kings Chambers | 18.00% | ~259 |
 | Complete Arena Faction | 14.00% | ~201 |
 | Complete Redgi's Armory | 7.00% | ~101 |
 | King of Kings | 7.00% | ~101 |
 | A new Warchief rises | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,436 (Ranked 155)  
+Progressed: 1,437 (Ranked 155)  
 Completed: 6 (0.42%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,7 +62,7 @@ Completed: 6 (0.42%) (Ranked 111)
 | 2023-05-19 | 1,394 | 6 |
 | 2023-05-20 | 1,403 | 6 |
 | 2023-05-21 | 1,425 | 6 |
-| 2023-05-22 | 1,436 | 6 |
+| 2023-05-22 | 1,437 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

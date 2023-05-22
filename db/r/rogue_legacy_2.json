@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1089,9 +1089,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 21711,
+  "EOS_Progressed": 21712,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2549,6 +2549,11 @@
       "Time": "2023-05-22T21:06:33.7054673+00:00",
       "NumProgressed": 21711,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-05-22T22:05:23.3670643+00:00",
+      "NumProgressed": 21712,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -2718,9 +2723,9 @@
       "ID": "BossStudyDefeated",
       "SetID": "3ojhj46",
       "Name": "Poise and Poisons",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 109
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -2871,21 +2876,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 21711,
+      "Progressed": 21712,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 641,
+      "Progressed": 642,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-05-18T23:00:19.112775+00:00",
-  "LastChanged_Achievements": "2023-05-22T21:06:33.7054662+00:00",
+  "LastChanged_Achievements": "2023-05-22T22:05:23.3670634+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:25.8639734+00:00",
-  "LastUpdate_Ratings": "2023-05-22T20:59:38.8446527+00:00",
-  "LastUpdate_Achievements": "2023-05-22T21:06:33.7055068+00:00"
+  "LastUpdate_Ratings": "2023-05-22T21:58:38.7248349+00:00",
+  "LastUpdate_Achievements": "2023-05-22T22:05:23.3671012+00:00"
 }

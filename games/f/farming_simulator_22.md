@@ -6,25 +6,25 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 76.00% | ~32,516 |
+| Own use | 76.00% | ~32,517 |
 | I read Shakespeare and stuff | 64.00% | ~27,382 |
-| Just a sprinkle | 63.00% | ~26,954 |
-| I'm stumped | 61.00% | ~26,098 |
-| Plant get enough | 61.00% | ~26,098 |
+| Just a sprinkle | 63.00% | ~26,955 |
+| I'm stumped | 61.00% | ~26,099 |
+| Plant get enough | 61.00% | ~26,099 |
 | It's just the beginning | 59.00% | ~25,243 |
 | This is just my weekend vehicle | 58.00% | ~24,815 |
 | Hard work pays off | 53.00% | ~22,676 |
-| It's never too late to farm | 47.00% | ~20,108 |
+| It's never too late to farm | 47.00% | ~20,109 |
 | All out of Land | 44.00% | ~18,825 |
-| Field Trip | 43.00% | ~18,397 |
+| Field Trip | 43.00% | ~18,398 |
 | I like to switch it up | 40.00% | ~17,114 |
 | Help me to help you | 38.00% | ~16,258 |
 | Ultimutt Pawesomeness | 28.00% | ~11,980 |
 | Van Gogh | 26.00% | ~11,124 |
 | You wood not believe it | 21.00% | ~8,985 |
 | Vehicle fleet | 21.00% | ~8,985 |
-| The plot thickens | 16.00% | ~6,845 |
-| Long haul | 16.00% | ~6,845 |
+| The plot thickens | 16.00% | ~6,846 |
+| Long haul | 16.00% | ~6,846 |
 | Clucky Streak | 15.00% | ~6,418 |
 | Large-scale supplier | 15.00% | ~6,418 |
 | Well-Oiled Machine | 15.00% | ~6,418 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~171 |
 | Raisin the stakes | 0.30% | ~128 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,784 (Ranked 78)  
+Progressed: 42,785 (Ranked 78)  
 Completed: 5 (0.01%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 5 (0.01%) (Ranked 193)
 | 2023-05-19 | 42,595 | 5 |
 | 2023-05-20 | 42,672 | 5 |
 | 2023-05-21 | 42,729 | 5 |
-| 2023-05-22 | 42,784 | 5 |
+| 2023-05-22 | 42,785 | 5 |
 ## Awards
 Max (Great for Beginners): 4,242  (Ranked 70)  
 Sum: 36,563 (Ranked 31)  

@@ -2,7 +2,7 @@
   "ID": "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
   "Name": "Godfall Ultimate Edition",
   "ProductSlug": "godfall",
-  "Ranking_Rating": 872,
+  "Ranking_Rating": 869,
   "Ranking_Popularity": 183,
   "Ranking_PopularitySum": 248,
   "Ranking_EOS_Progress": 413,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.07,
+  "Rating": 4.08,
   "NumberOfRatings": 818,
   "RatingHistory": [
     {
@@ -901,6 +901,12 @@
       "Rating": 4.07,
       "NumberOfAwards": 816,
       "NumberOfAwardsMax": 507
+    },
+    {
+      "Time": "2023-05-22T21:59:43.4368487+00:00",
+      "Rating": 4.08,
+      "NumberOfAwards": 816,
+      "NumberOfAwardsMax": 507
     }
   ],
   "ReviewsDisabled": true,
@@ -980,8 +986,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:29.0337311+00:00",
-  "LastChanged": "2023-05-18T22:01:10.8834545+00:00",
+  "LastChanged": "2023-05-22T21:59:43.4368468+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:31.2818999+00:00",
-  "LastUpdate_Ratings": "2023-05-22T21:01:11.7756451+00:00",
-  "LastUpdate_Achievements": "2023-05-22T21:05:39.4706046+00:00"
+  "LastUpdate_Ratings": "2023-05-22T21:59:43.4368491+00:00",
+  "LastUpdate_Achievements": "2023-05-22T22:04:47.2969862+00:00"
 }

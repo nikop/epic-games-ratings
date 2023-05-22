@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1226,
+  "EOS_Progressed": 1230,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 505,
+  "EOS_NewPlayers": 509,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1068,6 +1068,11 @@
       "Time": "2023-05-22T21:06:19.0384477+00:00",
       "NumProgressed": 1226,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-22T22:05:10.9590321+00:00",
+      "NumProgressed": 1230,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1213,9 +1218,9 @@
       "ID": "REWARD_26_SHARPSHOOTER",
       "SetID": "bm6el81",
       "Name": "Sharpshooter",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -1327,7 +1332,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -1646,13 +1651,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1177,
+      "Progressed": 1181,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1226,
+      "Progressed": 1230,
       "Completed": 2
     }
   ],
@@ -1660,8 +1665,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-22T16:01:02.9174493+00:00",
-  "LastChanged_Achievements": "2023-05-22T21:06:19.0384473+00:00",
+  "LastChanged_Achievements": "2023-05-22T22:05:10.9590315+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-22T21:01:20.2078683+00:00",
-  "LastUpdate_Achievements": "2023-05-22T21:06:19.0385215+00:00"
+  "LastUpdate_Ratings": "2023-05-22T21:59:50.3467886+00:00",
+  "LastUpdate_Achievements": "2023-05-22T22:05:10.9591097+00:00"
 }

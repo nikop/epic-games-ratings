@@ -6,11 +6,11 @@ Number of Ratings: 36  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 72.00% | ~456 |
-| It’s Heating up! | 68.00% | ~431 |
-| Let’s patch things up | 65.00% | ~412 |
+| Breathe In… Breathe Out… | 72.00% | ~457 |
+| It’s Heating up! | 68.00% | ~432 |
+| Let’s patch things up | 65.00% | ~413 |
 | I can fix it! | 61.00% | ~387 |
-| Post No Bills | 54.00% | ~342 |
+| Post No Bills | 54.00% | ~343 |
 | Truly Shocking! | 46.00% | ~292 |
 | Critical Thinker | 34.00% | ~216 |
 | Always Finding Your Mark | 28.00% | ~178 |
@@ -19,12 +19,12 @@ Number of Ratings: 36  (23.09.2022)
 | Act I Complete | 26.00% | ~165 |
 | A drop in the Ocean | 26.00% | ~165 |
 | I ain’t afraid of no Ghost | 23.00% | ~146 |
-| Act II Complete | 19.00% | ~120 |
+| Act II Complete | 19.00% | ~121 |
 | A successful procedure! | 18.00% | ~114 |
 | Bing Bang BOOM | 18.00% | ~114 |
-| Breaking the Ice | 16.00% | ~101 |
+| Breaking the Ice | 16.00% | ~102 |
 | Solidarity Forever | 12.00% | ~76 |
-| A Tucked Tale | 10.00% | ~63 |
+| A Tucked Tale | 10.00% | ~64 |
 | The best thing money can buy | 9.00% | ~57 |
 | Act III Complete | 6.00% | ~38 |
 | Fire and Brimstone | 5.00% | ~32 |
@@ -34,7 +34,7 @@ Number of Ratings: 36  (23.09.2022)
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 634 (Ranked 185)  
+Progressed: 635 (Ranked 185)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -51,7 +51,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-19 | 614 | 0 |
 | 2023-05-20 | 622 | 0 |
 | 2023-05-21 | 630 | 0 |
-| 2023-05-22 | 634 | 0 |
+| 2023-05-22 | 635 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

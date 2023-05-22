@@ -6,9 +6,9 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 74.00% | ~1,862 |
-| Ready for Winter | 63.00% | ~1,585 |
-| Ready for Summer | 51.00% | ~1,283 |
+| Venture Outward | 74.00% | ~1,863 |
+| Ready for Winter | 63.00% | ~1,586 |
+| Ready for Summer | 51.00% | ~1,284 |
 | Cordon Bleu | 43.00% | ~1,082 |
 | Tapped! | 35.00% | ~881 |
 | Eureka | 31.00% | ~780 |
@@ -18,11 +18,11 @@ Number of Ratings: 266  (23.09.2022)
 | Home Sweet Home | 22.00% | ~554 |
 | Encyclopedic! | 20.00% | ~503 |
 | A Fortress Toppled! | 16.00% | ~403 |
-| Apex Predator | 15.00% | ~377 |
-| The Power of Family | 15.00% | ~377 |
+| Apex Predator | 15.00% | ~378 |
+| The Power of Family | 15.00% | ~378 |
 | Strange amalgams | 12.00% | ~302 |
 | The Power of Faith | 12.00% | ~302 |
-| The Power of Freedom | 9.00% | ~226 |
+| The Power of Freedom | 9.00% | ~227 |
 | Ace Detective | 8.00% | ~201 |
 | Gift from the Ancestors | 8.00% | ~201 |
 | Magic is a science | 8.00% | ~201 |
@@ -35,8 +35,8 @@ Number of Ratings: 266  (23.09.2022)
 | Ancestor's Pride | 4.00% | ~101 |
 | For All Aurai | 4.00% | ~101 |
 | Memory of a legend | 4.00% | ~101 |
-| Light of Levant | 3.00% | ~75 |
-| This was a mistake... | 3.00% | ~75 |
+| Light of Levant | 3.00% | ~76 |
+| This was a mistake... | 3.00% | ~76 |
 | Crowd Pleaser. | 2.00% | ~50 |
 | Perfect Defense | 2.00% | ~50 |
 | Power! To! The People! | 2.00% | ~50 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.40% | ~10 |
 | The Absolute Pinnacle. | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,516 (Ranked 140)  
+Progressed: 2,517 (Ranked 139)  
 Completed: 1 (0.04%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 1 (0.04%) (Ranked 177)
 | 2023-05-19 | 2,424 | 1 |
 | 2023-05-20 | 2,454 | 1 |
 | 2023-05-21 | 2,488 | 1 |
-| 2023-05-22 | 2,516 | 1 |
+| 2023-05-22 | 2,517 | 1 |
 ## Awards
 Max (Amazing Characters): 31  (Ranked 441)  
 Sum: 238 (Ranked 342)  

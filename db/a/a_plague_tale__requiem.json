@@ -2,7 +2,7 @@
   "ID": "64ae027afbd145d9b6e62bd96967fe66",
   "Name": "A Plague Tale: Requiem",
   "ProductSlug": "a-plague-tale-requiem",
-  "Ranking_Rating": 155,
+  "Ranking_Rating": 156,
   "Ranking_Popularity": 200,
   "Ranking_PopularitySum": 285,
   "Ranking_EOS_Progress": 105,
@@ -272,9 +272,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 10504,
+  "EOS_Progressed": 10505,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1447,6 +1447,11 @@
       "Time": "2023-05-22T21:06:38.217309+00:00",
       "NumProgressed": 10504,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-05-22T22:05:27.0892561+00:00",
+      "NumProgressed": 10505,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 35,
@@ -1458,7 +1463,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 9664
+      "UsersEstimate": 9665
     },
     {
       "ID": "ACH_02",
@@ -1466,7 +1471,7 @@
       "Name": "Newcomers",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 8193
+      "UsersEstimate": 8194
     },
     {
       "ID": "ACH_03",
@@ -1474,7 +1479,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 7668
+      "UsersEstimate": 7669
     },
     {
       "ID": "ACH_04",
@@ -1506,7 +1511,7 @@
       "Name": "Felons",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 6407
+      "UsersEstimate": 6408
     },
     {
       "ID": "ACH_08",
@@ -1514,7 +1519,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 6197
+      "UsersEstimate": 6198
     },
     {
       "ID": "ACH_09",
@@ -1522,7 +1527,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 5882
+      "UsersEstimate": 5883
     },
     {
       "ID": "ACH_10",
@@ -1530,7 +1535,7 @@
       "Name": "Bloodline",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 5357
+      "UsersEstimate": 5358
     },
     {
       "ID": "ACH_11",
@@ -1562,7 +1567,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 3781
+      "UsersEstimate": 3782
     },
     {
       "ID": "ACH_15",
@@ -1570,7 +1575,7 @@
       "Name": "Dying Sun",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 3361
+      "UsersEstimate": 3362
     },
     {
       "ID": "ACH_16",
@@ -1626,7 +1631,7 @@
       "Name": "Not a toy anymore",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 1155
+      "UsersEstimate": 1156
     },
     {
       "ID": "ACH_23",
@@ -1658,7 +1663,7 @@
       "Name": "Pocket laboratory",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 1155
+      "UsersEstimate": 1156
     },
     {
       "ID": "ACH_27",
@@ -1737,7 +1742,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 10504,
+      "Progressed": 10505,
       "Completed": 32
     }
   ],
@@ -1745,8 +1750,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-05-20T22:59:09.5997761+00:00",
-  "LastChanged_Achievements": "2023-05-22T21:06:38.2173086+00:00",
+  "LastChanged_Achievements": "2023-05-22T22:05:27.0892555+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:44.7734011+00:00",
-  "LastUpdate_Ratings": "2023-05-22T20:59:56.9932717+00:00",
-  "LastUpdate_Achievements": "2023-05-22T21:06:38.2173424+00:00"
+  "LastUpdate_Ratings": "2023-05-22T21:58:49.6706758+00:00",
+  "LastUpdate_Achievements": "2023-05-22T22:05:27.0892879+00:00"
 }

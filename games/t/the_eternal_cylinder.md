@@ -1,7 +1,7 @@
 # The Eternal Cylinder
 [Store](https://store.epicgames.com/en-US/p/the-eternal-cylinder)  
 [View Rawdata](../../db/t/the_eternal_cylinder.json)  
-Rating: 4.73 (Ranked 155)  
+Rating: 4.73 (Ranked 156)  
 Number of Ratings: 149  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |

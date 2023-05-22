@@ -1328,9 +1328,9 @@
       "ID": "campaign4",
       "SetID": "2h56gn1",
       "Name": "Get Rich Quick",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1283
+      "UsersEstimate": 1310
     },
     {
       "ID": "campaign5",
@@ -1441,8 +1441,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-22T21:06:47.0608923+00:00",
+  "LastChanged_Achievements": "2023-05-22T22:05:34.5651282+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:08.6918917+00:00",
-  "LastUpdate_Ratings": "2023-05-22T21:01:00.8559889+00:00",
-  "LastUpdate_Achievements": "2023-05-22T21:06:47.0609247+00:00"
+  "LastUpdate_Ratings": "2023-05-22T21:59:35.83904+00:00",
+  "LastUpdate_Achievements": "2023-05-22T22:05:34.565158+00:00"
 }

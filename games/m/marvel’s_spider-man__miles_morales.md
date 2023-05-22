@@ -3,12 +3,12 @@
 [View Rawdata](../../db/m/marvel’s_spider-man__miles_morales.json)  
 Rating: 4.79 (Ranked 90)  
 ## Awards
-Max (Great Boss Battles): 1,019  (Ranked 135)  
-Sum: 1,356 (Ranked 215)  
-Diff (max vs sum): -80  
+Max (Great Boss Battles): 1,022  (Ranked 134)  
+Sum: 1,359 (Ranked 215)  
+Diff (max vs sum): -81  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 1,019 |
+| This game has Great Boss Battles | 1,022 |
 | This game has Diverse Characters | 45 |
 | This game has Amazing Storytelling | 44 |
 | This game is Great for Beginners | 36 |
@@ -75,3 +75,4 @@ Diff (max vs sum): -80
 | 2023-05-18 | 4.79 | 1,016 | 1,351 |
 | 2023-05-20 | 4.79 | 1,017 | 1,352 |
 | 2023-05-21 | 4.79 | 1,019 | 1,356 |
+| 2023-05-22 | 4.79 | 1,022 | 1,359 |
