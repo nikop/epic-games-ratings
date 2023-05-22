@@ -2,6 +2,7 @@
 | ---- | ------------ | --------------- |
 | [Superior](games/s/superior.md) | 2099-12-13 | 2099-12-13 |
 | [ANIMO Stars Arena](games/a/animo_stars_arena.md) | 2099-01-01 | 2099-01-01 |
+| [Defimons](games/8/82b2eb4986c94409baca6597ce30c0cb.md) | 2099-01-01 | 2099-01-01 |
 | [Delysium](games/d/delysium.md) | 2099-01-01 | 2099-01-01 |
 | [Knights of Cathena](games/8/8cc5b4b56c84428999f03f3e6ac49481.md) | 2099-01-01 | 2022-09-07 |
 | [Legends of Bezogia](games/l/legends_of_bezogia.md) | 2099-01-01 | 2099-01-01 |

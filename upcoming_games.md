@@ -1,9 +1,9 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
 | [Backbeat](games/b/backbeat.md) | 2023-05-22 | 2023-03-16 |
+| [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 2023-05-22 | 2019-05-21 |
 | [Amnesia: The Bunker](games/a/amnesia__the_bunker.md) | 2023-05-23 | 2023-05-23 |
 | [Cubzh](games/c/cubzh.md) | 2023-05-23 | 2021-10-24 |
-| [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 2023-05-23 | 2019-05-21 |
 | [FutureGrind](games/8/80a76982ecc941dd864a8792a03a5ddc.md) | 2023-05-23 | 2019-01-22 |
 | [Planet of Lana](games/p/planet_of_lana.md) | 2023-05-23 | 2023-05-23 |
 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 2023-05-23 | 2023-05-23 |
@@ -221,6 +221,7 @@
 | [Critter Crops](games/c/critter_crops.md) | 2099-01-01 | 2099-01-01 |
 | [Cryptmaster](games/c/cryptmaster.md) | 2099-01-01 | 2099-01-01 |
 | [Cygnus Enterprises](games/9/98af68f0b09e47a5af2dccfd5b6e35f0.md) | 2099-01-01 | 2022-12-16 |
+| [Defimons](games/8/82b2eb4986c94409baca6597ce30c0cb.md) | 2099-01-01 | 2099-01-01 |
 | [Delivery from the Pain](games/d/delivery_from_the_pain.md) | 2099-01-01 | 2019-06-11 |
 | [Delysium](games/d/delysium.md) | 2099-01-01 | 2099-01-01 |
 | [Derelicts](games/d/derelicts.md) | 2099-01-01 | 2099-01-01 |
