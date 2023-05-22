@@ -89,7 +89,7 @@
 | 87 | [Sable](games/s/sable.md) | 0.94% |
 | 88 | [Dungeons 3](games/d/dungeons_3.md) | 0.90% |
 | 88 | [Hades](games/h/hades.md) | 0.90% |
-| 90 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.88% |
+| 90 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
 | 91 | [Them and Us](games/t/them_and_us.md) | 0.85% |
 | 92 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.84% |
 | 93 | [Lemon Cake](games/l/lemon_cake.md) | 0.83% |
@@ -137,10 +137,10 @@
 | 135 | [Blanc](games/b/blanc.md) | 0.22% |
 | 135 | [Filament](games/f/filament.md) | 0.22% |
 | 135 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
-| 135 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.22% |
-| 139 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
-| 139 | [Against the Storm](games/a/against_the_storm.md) | 0.21% |
-| 139 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.21% |
+| 138 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
+| 138 | [Against the Storm](games/a/against_the_storm.md) | 0.21% |
+| 138 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.21% |
+| 138 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.21% |
 | 142 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
 | 143 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.18% |
 | 144 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.17% |
