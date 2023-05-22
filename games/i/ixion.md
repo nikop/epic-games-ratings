@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.55 (Ranked 468)  
+Rating: 4.55 (Ranked 467)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -28,12 +28,12 @@ Rating: 4.55 (Ranked 468)
 | Necessary Enhancement | 0.90% | ~19 |
 | Sightseeing | 0.80% | ~17 |
 | From the Past | 0.80% | ~17 |
-| Man's Best Friend | 0.70% | ~14 |
-| BRAWL! | 0.70% | ~14 |
+| Man's Best Friend | 0.70% | ~15 |
+| BRAWL! | 0.70% | ~15 |
+| Oats | 0.60% | ~12 |
 | In Dolos We Trust | 0.60% | ~12 |
 | All in Good Health | 0.60% | ~12 |
 | Pulsar Disciple | 0.60% | ~12 |
-| Oats | 0.50% | ~10 |
 | ...  in a finite world | 0.50% | ~10 |
 | Delivery! | 0.50% | ~10 |
 | What They Hide From Us | 0.40% | ~8 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 468)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,070 (Ranked 143)  
+Progressed: 2,072 (Ranked 143)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-19 | 1,969 | 0 |
 | 2023-05-20 | 2,021 | 0 |
 | 2023-05-21 | 2,063 | 0 |
-| 2023-05-22 | 2,070 | 0 |
+| 2023-05-22 | 2,072 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

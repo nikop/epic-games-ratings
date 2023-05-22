@@ -203,9 +203,9 @@
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_5",
       "SetID": "ak6pfjk",
       "Name": "The Coreland",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_6",
@@ -524,8 +524,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-05-22T12:00:01.6861625+00:00",
+  "LastChanged_Achievements": "2023-05-22T13:05:23.9400831+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:11.9155795+00:00",
-  "LastUpdate_Ratings": "2023-05-22T11:58:17.7305785+00:00",
-  "LastUpdate_Achievements": "2023-05-22T12:00:01.6862129+00:00"
+  "LastUpdate_Ratings": "2023-05-22T13:03:35.9739792+00:00",
+  "LastUpdate_Achievements": "2023-05-22T13:05:23.9401447+00:00"
 }

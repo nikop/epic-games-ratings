@@ -2,7 +2,7 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 256,
+  "Ranking_Rating": 257,
   "Ranking_Popularity": 319,
   "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 133,
@@ -852,9 +852,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 3016,
+  "EOS_Progressed": 3017,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2577,6 +2577,11 @@
       "Time": "2023-05-22T12:05:30.0691685+00:00",
       "NumProgressed": 3016,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-22T13:10:58.3192167+00:00",
+      "NumProgressed": 3017,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2604,7 +2609,7 @@
       "Name": "Double Trouble",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -2620,7 +2625,7 @@
       "Name": "Been there, Done That",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ACH_EP_BALLGAME",
@@ -2684,7 +2689,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1387
+      "UsersEstimate": 1388
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -2716,7 +2721,7 @@
       "Name": "Firestarter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -2748,7 +2753,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2322
+      "UsersEstimate": 2323
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -2796,7 +2801,7 @@
       "Name": "Narcissist",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ACH_PROMISINGENDEAVORS",
@@ -2804,7 +2809,7 @@
       "Name": "Promising Endeavors",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ACH_SUBLIMESUBLIMINALSUPREME",
@@ -2836,7 +2841,7 @@
       "Name": "Terraformer",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "ACH_THOUSANDPOPULATION",
@@ -2868,7 +2873,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -2907,15 +2912,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3016,
+      "Progressed": 3017,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-15T17:00:44.7999652+00:00",
-  "LastChanged_Achievements": "2023-05-22T12:05:30.0691681+00:00",
+  "LastChanged_Achievements": "2023-05-22T13:10:58.3192159+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:57.2781106+00:00",
-  "LastUpdate_Ratings": "2023-05-22T11:59:36.7374285+00:00",
-  "LastUpdate_Achievements": "2023-05-22T12:05:30.0692053+00:00"
+  "LastUpdate_Ratings": "2023-05-22T13:04:56.134815+00:00",
+  "LastUpdate_Achievements": "2023-05-22T13:10:58.3192574+00:00"
 }

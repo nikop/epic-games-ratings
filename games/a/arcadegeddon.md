@@ -7,7 +7,7 @@ Number of Ratings: 801  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Let's Get This Party Started | 91.00% | ~6,003 |
-| Photogenic | 87.00% | ~5,739 |
+| Photogenic | 88.00% | ~5,805 |
 | Surge Gauntlet Jockey | 85.00% | ~5,607 |
 | Plug It In | 84.00% | ~5,541 |
 | Adventure Time | 80.00% | ~5,278 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.50% | ~33 |
 | Pyrotechnical | 0.20% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,597 (Ranked 113)  
+Progressed: 6,597 (Ranked 114)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |

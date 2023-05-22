@@ -1,14 +1,14 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.67 (Ranked 256)  
+Rating: 4.67 (Ranked 257)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 77.00% | ~2,322 |
+| Just One...More...Term... | 77.00% | ~2,323 |
 | Un-Lonely Island | 49.00% | ~1,478 |
-| The Beginning of a Servantship | 46.00% | ~1,387 |
+| The Beginning of a Servantship | 46.00% | ~1,388 |
 | Trade Is My Trait | 38.00% | ~1,146 |
 | Number 18 | 26.00% | ~784 |
 | We Don't Have Time For That | 20.00% | ~603 |
@@ -21,9 +21,9 @@ Number of Ratings: 398  (23.09.2022)
 | Happy Ending? | 11.00% | ~332 |
 | Of Seals And Men | 10.00% | ~302 |
 | Shackadelic | 10.00% | ~302 |
-| Double Trouble | 9.00% | ~271 |
-| Firestarter | 9.00% | ~271 |
-| Make Tropico Great Again! | 9.00% | ~271 |
+| Double Trouble | 9.00% | ~272 |
+| Firestarter | 9.00% | ~272 |
+| Make Tropico Great Again! | 9.00% | ~272 |
 | French Connection | 8.00% | ~241 |
 | Don't Panic! | 7.00% | ~211 |
 | I Owe You Nothing | 7.00% | ~211 |
@@ -34,10 +34,10 @@ Number of Ratings: 398  (23.09.2022)
 | Viva Tropico! | 5.00% | ~151 |
 | Apocalypso | 4.00% | ~121 |
 | The Time For Wonders | 4.00% | ~121 |
-| Been there, Done That | 3.00% | ~90 |
-| Narcissist | 3.00% | ~90 |
-| Promising Endeavors | 3.00% | ~90 |
-| Terraformer | 3.00% | ~90 |
+| Been there, Done That | 3.00% | ~91 |
+| Narcissist | 3.00% | ~91 |
+| Promising Endeavors | 3.00% | ~91 |
+| Terraformer | 3.00% | ~91 |
 | Chain Gang | 2.00% | ~60 |
 | From Knight to Little Duck | 2.00% | ~60 |
 | One Does Not Simply Stage A Coup | 2.00% | ~60 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~30 |
 | My Ways | 0.30% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,016 (Ranked 133)  
+Progressed: 3,017 (Ranked 133)  
 Completed: 1 (0.03%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 1 (0.03%) (Ranked 182)
 | 2023-05-19 | 2,924 | 1 |
 | 2023-05-20 | 2,959 | 1 |
 | 2023-05-21 | 3,002 | 1 |
-| 2023-05-22 | 3,016 | 1 |
+| 2023-05-22 | 3,017 | 1 |
 ## Awards
 Max (Great for Beginners): 104  (Ranked 319)  
 Sum: 750 (Ranked 254)  

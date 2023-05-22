@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4811,
+  "EOS_Progressed": 4812,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -849,6 +849,11 @@
       "Time": "2023-05-22T08:06:36.250954+00:00",
       "NumProgressed": 4811,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-22T13:10:50.983846+00:00",
+      "NumProgressed": 4812,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -916,7 +921,7 @@
       "Name": "Level: Charlie\u0027s Circuits",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "ach_campaign_progress10",
@@ -972,7 +977,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2357
+      "UsersEstimate": 2358
     },
     {
       "ID": "ach_campaign_progress6",
@@ -1467,15 +1472,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4811,
+      "Progressed": 4812,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-05-22T12:05:22.4958833+00:00",
+  "LastChanged_Achievements": "2023-05-22T13:10:50.9838455+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:17.17846+00:00",
-  "LastUpdate_Ratings": "2023-05-22T11:58:35.9480104+00:00",
-  "LastUpdate_Achievements": "2023-05-22T12:05:22.4959679+00:00"
+  "LastUpdate_Ratings": "2023-05-22T13:03:54.8644072+00:00",
+  "LastUpdate_Achievements": "2023-05-22T13:10:50.9839307+00:00"
 }

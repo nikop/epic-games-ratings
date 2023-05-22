@@ -11,13 +11,13 @@
 | Wannabe | 8.00% | ~6 |
 | First taste | 7.00% | ~5 |
 | Amateur hitchhiker | 7.00% | ~5 |
+| Tutorial master | 3.00% | ~2 |
 | Loyalty | 1.00% | ~1 |
 | Hero | 1.00% | ~1 |
 | Drama queen | 1.00% | ~1 |
 | Mr. Whiting | 1.00% | ~1 |
 | Shepherd | 1.00% | ~1 |
 | Hattrick | 1.00% | ~1 |
-| Tutorial master | 1.00% | ~1 |
 | Weatherman | 1.00% | ~1 |
 | Pro photo shoot | 0.00% | ~0 |
 | Standing tall Pro | 0.00% | ~0 |

@@ -44,11 +44,11 @@ Rating: 3.75 (Ranked 920)
 | How Do You Turn This On? | 3.00% | ~34 |
 | Missions Dedication | 3.00% | ~34 |
 | The father of Dragons | 3.00% | ~34 |
+| Trader | 3.00% | ~34 |
 | Dragon Slayer | 2.00% | ~23 |
 | Engineer Mastery | 2.00% | ~23 |
 | Master Enchanter | 2.00% | ~23 |
 | Relic Of The Past | 2.00% | ~23 |
-| Trader | 2.00% | ~23 |
 | Weekly Quest Completionist | 2.00% | ~23 |
 | What lies behind the bush | 2.00% | ~23 |
 | Blueprint Upgrades | 1.00% | ~11 |

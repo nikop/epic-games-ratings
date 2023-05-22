@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -73,9 +73,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 288,
+  "EOS_Progressed": 289,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -218,6 +218,11 @@
       "Time": "2023-05-22T12:00:23.0375973+00:00",
       "NumProgressed": 288,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-22T13:05:45.2379447+00:00",
+      "NumProgressed": 289,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 28,
@@ -237,7 +242,7 @@
       "Name": "CELEBRITY",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "GB_CORRUPTIONIST",
@@ -253,7 +258,7 @@
       "Name": "CRIMINAL",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "GB_DEBTOR",
@@ -293,7 +298,7 @@
       "Name": "GRANDMA WOULD BE PROUD",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "GB_GRATITUDE",
@@ -309,7 +314,7 @@
       "Name": "HELL\u0027S KITCHEN",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "GB_HIGH_TECHNOLOGIES",
@@ -325,7 +330,7 @@
       "Name": "HONORS STUDENT",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "GB_INDIVIDUAL_APPROACH",
@@ -333,7 +338,7 @@
       "Name": "INDIVIDUAL APPROACH",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "GB_IVE_SEEN_SOME",
@@ -349,7 +354,7 @@
       "Name": "JACK OF ALL TRADES",
       "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "GB_KEVIN",
@@ -363,17 +368,17 @@
       "ID": "GB_LAW_ABIDING_CITIZEN",
       "SetID": "8ga3kd9",
       "Name": "LAW-ABIDING CITIZEN",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 38
     },
     {
       "ID": "GB_MARTYR",
       "SetID": "8ga3kd9",
       "Name": "MARTYR",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 64
     },
     {
       "ID": "GB_MASTER_CHEF",
@@ -381,7 +386,7 @@
       "Name": "MASTER CHEF",
       "Percentage": 83,
       "XP": 25,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "GB_MISTER_ALL_THUMBS",
@@ -452,7 +457,7 @@
     {
       "ID": "8ga3kd9",
       "IsBase": true,
-      "Progressed": 288,
+      "Progressed": 289,
       "Completed": 1
     }
   ],
@@ -460,8 +465,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-05-18T03:58:25.9913255+00:00",
-  "LastChanged_Achievements": "2023-05-22T12:00:23.0375969+00:00",
+  "LastChanged_Achievements": "2023-05-22T13:05:45.2379437+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:53.2828983+00:00",
-  "LastUpdate_Ratings": "2023-05-22T11:58:02.8887528+00:00",
-  "LastUpdate_Achievements": "2023-05-22T12:00:23.0376206+00:00"
+  "LastUpdate_Ratings": "2023-05-22T13:03:20.4739561+00:00",
+  "LastUpdate_Achievements": "2023-05-22T13:05:45.2379667+00:00"
 }

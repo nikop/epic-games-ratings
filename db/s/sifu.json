@@ -4158,9 +4158,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 704539,
+  "EOS_Progressed": 704561,
   "EOS_Completed": 12733,
-  "EOS_NewPlayers": 1594,
+  "EOS_NewPlayers": 1612,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -6733,6 +6733,11 @@
       "Time": "2023-05-22T12:05:20.609737+00:00",
       "NumProgressed": 704539,
       "NumCompleted": 12733
+    },
+    {
+      "Time": "2023-05-22T13:10:49.1372767+00:00",
+      "NumProgressed": 704561,
+      "NumCompleted": 12733
     }
   ],
   "TotalAchievements": 50,
@@ -6782,9 +6787,9 @@
       "ID": "06_Vengeance_H5",
       "SetID": "adcm20g",
       "Name": "Furious Fists",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 75,
-      "UsersEstimate": 4932
+      "UsersEstimate": 5636
     },
     {
       "ID": "07_Wude_H1",
@@ -7080,7 +7085,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -7096,7 +7101,7 @@
       "Name": "Bloody Sport",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -7143,21 +7148,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 13840,
+      "Progressed": 13862,
       "Completed": 10143
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 704539,
+      "Progressed": 704561,
       "Completed": 12733
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-22T07:59:27.2600137+00:00",
-  "LastChanged_Achievements": "2023-05-22T12:05:20.6097367+00:00",
+  "LastChanged_Achievements": "2023-05-22T13:10:49.1372762+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.7579865+00:00",
-  "LastUpdate_Ratings": "2023-05-22T11:58:38.6175044+00:00",
-  "LastUpdate_Achievements": "2023-05-22T12:05:20.6097851+00:00"
+  "LastUpdate_Ratings": "2023-05-22T13:03:57.1063055+00:00",
+  "LastUpdate_Achievements": "2023-05-22T13:10:49.1373348+00:00"
 }

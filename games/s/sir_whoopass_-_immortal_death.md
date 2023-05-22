@@ -13,11 +13,11 @@
 | Nerd | 79.00% | ~34 |
 | Not so hip anymore! | 77.00% | ~33 |
 | Up and down | 72.00% | ~31 |
+| Rolling, Rolling, Rolling | 70.00% | ~30 |
 | Blurry depth perception | 70.00% | ~30 |
-| Rolling, Rolling, Rolling | 67.00% | ~29 |
-| Oh, you're up to no gouda! | 53.00% | ~23 |
+| Oh, you're up to no gouda! | 56.00% | ~24 |
+| Make Love not War-Craft a Mistlefoe | 53.00% | ~23 |
 | Fire-fighter! | 51.00% | ~22 |
-| Make Love not War-Craft a Mistlefoe | 51.00% | ~22 |
 | Meat grinder | 44.00% | ~19 |
 | You're not going to blow me up! | 42.00% | ~18 |
 | Butcher | 40.00% | ~17 |
@@ -26,18 +26,18 @@
 | Spare Ribs | 37.00% | ~16 |
 | Honk honk! | 35.00% | ~15 |
 | Surprise!! | 35.00% | ~15 |
+| Thats disgusting! | 35.00% | ~15 |
 | Cockadoodledoo! | 35.00% | ~15 |
 | Self assessed tax return | 33.00% | ~14 |
-| Thats disgusting! | 33.00% | ~14 |
 | Haemochromatosis | 30.00% | ~13 |
 | Meatballs, coming up! | 28.00% | ~12 |
 | Make America Grate Again | 28.00% | ~12 |
+| Karaoke king | 28.00% | ~12 |
 | Pasta Bolognese | 28.00% | ~12 |
 | You are no match for me, Billy! | 26.00% | ~11 |
-| Karaoke king | 26.00% | ~11 |
 | Catch the bus with me! | 23.00% | ~10 |
 | You can't stop me, bro! | 23.00% | ~10 |
-| Another one bites the iron | 19.00% | ~8 |
+| Another one bites the iron | 21.00% | ~9 |
 | I'm going to get a concussion | 16.00% | ~7 |
 | A Megapint...? | 16.00% | ~7 |
 | Hovering around | 16.00% | ~7 |

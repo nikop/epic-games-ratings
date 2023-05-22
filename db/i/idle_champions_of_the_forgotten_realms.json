@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewPlayers": 69,
   "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3868,9 +3868,9 @@
       "Count": 3238
     }
   ],
-  "EOS_Progressed": 88295,
+  "EOS_Progressed": 88299,
   "EOS_Completed": 1862,
-  "EOS_NewPlayers": 720,
+  "EOS_NewPlayers": 719,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
@@ -6928,6 +6928,11 @@
       "Time": "2023-05-22T12:05:35.6694193+00:00",
       "NumProgressed": 88295,
       "NumCompleted": 1862
+    },
+    {
+      "Time": "2023-05-22T13:11:04.0970606+00:00",
+      "NumProgressed": 88299,
+      "NumCompleted": 1862
     }
   ],
   "TotalAchievements": 493,
@@ -7825,9 +7830,9 @@
       "ID": "objective_completed_1208",
       "SetID": "415jc5c",
       "Name": "Vecna Out!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 109
     },
     {
       "ID": "objective_completed_1209",
@@ -10849,9 +10854,9 @@
       "ID": "objective_completed_1355",
       "SetID": "415jc5c",
       "Name": "The Court of Storms",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 273
+      "UsersEstimate": 327
     },
     {
       "ID": "objective_completed_1356",
@@ -10882,21 +10887,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54569,
-      "Completed": 2658
+      "Progressed": 54573,
+      "Completed": 2659
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88295,
+      "Progressed": 88299,
       "Completed": 1862
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-22T11:57:48.4900538+00:00",
-  "LastChanged_Achievements": "2023-05-22T12:05:35.6694188+00:00",
+  "LastChanged_Achievements": "2023-05-22T13:11:04.0970602+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-22T11:57:48.4900545+00:00",
-  "LastUpdate_Achievements": "2023-05-22T12:05:35.671948+00:00"
+  "LastUpdate_Ratings": "2023-05-22T13:03:06.3798107+00:00",
+  "LastUpdate_Achievements": "2023-05-22T13:11:04.0993862+00:00"
 }

@@ -8,8 +8,8 @@ Rating: 4.18 (Ranked 831)
 | Flesh Wound | 5.00% | ~664 |
 | Giving Back | 4.00% | ~531 |
 | Chew 'Em Up | 4.00% | ~531 |
+| Big Game Hunter | 4.00% | ~48 |
 | Instigator | 3.00% | ~36 |
-| Big Game Hunter | 3.00% | ~36 |
 | Bear Trap | 3.00% | ~36 |
 | Float Like A Butterfly | 2.00% | ~266 |
 | Big Spender | 2.00% | ~24 |
@@ -18,13 +18,13 @@ Rating: 4.18 (Ranked 831)
 | Get a Grip | 0.90% | ~120 |
 | Parole Denied | 0.80% | ~10 |
 | Hoard Mode | 0.80% | ~10 |
+| Recidivist | 0.70% | ~8 |
 | Lifer | 0.70% | ~8 |
-| Recidivist | 0.60% | ~7 |
 | Reforged | 0.50% | ~66 |
 | In Striking Distance | 0.40% | ~53 |
+| Workplace Hazard | 0.40% | ~53 |
 | Two Heads Are Better Than One | 0.30% | ~40 |
 | Terminated | 0.30% | ~40 |
-| Workplace Hazard | 0.30% | ~40 |
 | Grim Reaper | 0.20% | ~27 |
 | I Do Belong Here | 0.20% | ~27 |
 | Paper Jams | 0.20% | ~27 |

@@ -2,12 +2,12 @@
   "ID": "1efd3d783b814b8b8548fb60c5983825",
   "Name": "IXION",
   "ProductSlug": "ixion-88cda4",
-  "Ranking_Rating": 468,
+  "Ranking_Rating": 467,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2070,
+  "EOS_Progressed": 2072,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1087,6 +1087,11 @@
       "Time": "2023-05-22T12:05:02.2116939+00:00",
       "NumProgressed": 2070,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T13:10:31.0624344+00:00",
+      "NumProgressed": 2072,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -1106,7 +1111,7 @@
       "Name": "Man\u0027s Best Friend",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_BASE_11",
@@ -1128,9 +1133,9 @@
       "ID": "ACH_BASE_14",
       "SetID": "92iocjf",
       "Name": "Oats",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_BASE_15",
@@ -1434,7 +1439,7 @@
       "Name": "BRAWL!",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_BASE_53",
@@ -1553,13 +1558,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 251,
+      "Progressed": 253,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2070,
+      "Progressed": 2072,
       "Completed": 0
     }
   ],
@@ -1567,8 +1572,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-05-13T22:58:30.2604361+00:00",
-  "LastChanged_Achievements": "2023-05-22T12:05:02.2116936+00:00",
+  "LastChanged_Achievements": "2023-05-22T13:10:31.0624339+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.7103468+00:00",
-  "LastUpdate_Ratings": "2023-05-22T11:58:07.9731822+00:00",
-  "LastUpdate_Achievements": "2023-05-22T12:05:02.2117549+00:00"
+  "LastUpdate_Ratings": "2023-05-22T13:03:25.3550671+00:00",
+  "LastUpdate_Achievements": "2023-05-22T13:10:31.0624964+00:00"
 }

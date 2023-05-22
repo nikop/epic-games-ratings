@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1198,
+  "EOS_Progressed": 1199,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -550,6 +550,11 @@
       "Time": "2023-05-22T03:05:13.5232846+00:00",
       "NumProgressed": 1198,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-22T13:10:34.634404+00:00",
+      "NumProgressed": 1199,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -577,7 +582,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -631,9 +636,9 @@
       "ID": "achievement_endTurnInGrayplane5Times",
       "SetID": "95dc8p",
       "Name": "Passing Shadow",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 288
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -735,9 +740,9 @@
       "ID": "achievement_maimedHero",
       "SetID": "95dc8p",
       "Name": "The Cost of Heroism",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 371
+      "UsersEstimate": 384
     },
     {
       "ID": "achievement_mythwalker",
@@ -1008,15 +1013,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1198,
+      "Progressed": 1199,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-22T12:05:05.9706248+00:00",
+  "LastChanged_Achievements": "2023-05-22T13:10:34.6344032+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:59.9959604+00:00",
-  "LastUpdate_Ratings": "2023-05-22T11:59:57.6235603+00:00",
-  "LastUpdate_Achievements": "2023-05-22T12:05:05.9706688+00:00"
+  "LastUpdate_Ratings": "2023-05-22T13:05:18.4111361+00:00",
+  "LastUpdate_Achievements": "2023-05-22T13:10:34.6344548+00:00"
 }

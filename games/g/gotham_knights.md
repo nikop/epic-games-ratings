@@ -5,7 +5,7 @@ Rating: 4.17 (Ranked 836)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 1.00% | ~616 |
+| First Step Into the Knight | 1.00% | ~617 |
 | Har, Har, Har, Very Funny | 0.80% | ~493 |
 | Loose Ends | 0.80% | ~493 |
 | To the Victor Go the Spoils | 0.70% | ~432 |
@@ -19,6 +19,7 @@ Rating: 4.17 (Ranked 836)
 | Whispered Words | 0.60% | ~370 |
 | Lock and Key | 0.60% | ~370 |
 | Bad Apples in Every Orchard | 0.60% | ~370 |
+| End of an Era | 0.50% | ~308 |
 | Protector of Gotham | 0.50% | ~308 |
 | The Show Mud Go On | 0.50% | ~308 |
 | Rock and a Hard Place | 0.50% | ~308 |
@@ -30,7 +31,6 @@ Rating: 4.17 (Ranked 836)
 | Voiceless | 0.50% | ~308 |
 | Seeking Asylum | 0.50% | ~308 |
 | Gotham Knight | 0.50% | ~308 |
-| End of an Era | 0.40% | ~247 |
 | In Your Element | 0.40% | ~247 |
 | Not On My Watch | 0.40% | ~247 |
 | Bulldozed | 0.40% | ~247 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 836)
 | Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,648 (Ranked 68)  
+Progressed: 61,651 (Ranked 68)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,17 +99,17 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-19 | 61,198 | 91 |
 | 2023-05-20 | 61,416 | 91 |
 | 2023-05-21 | 61,589 | 91 |
-| 2023-05-22 | 61,648 | 91 |
+| 2023-05-22 | 61,651 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,229  (Ranked 98)  
-Sum: 3,692 (Ranked 137)  
+Sum: 3,695 (Ranked 137)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,229 |
-| This game is Extremely Fun | 191 |
+| This game is Extremely Fun | 192 |
+| This game is Relaxing | 191 |
 | This game has Quickly Understood Controls | 189 |
-| This game is Relaxing | 189 |
 | This game has Amazing Characters | 183 |
 | This game has Diverse Characters | 181 |
 | This game is Highly Recommended | 180 |
@@ -209,4 +209,4 @@ Diff (max vs sum): -39
 | 2023-05-19 | 4.17 | 2,222 | 3,684 |
 | 2023-05-20 | 4.17 | 2,227 | 3,689 |
 | 2023-05-21 | 4.17 | 2,227 | 3,690 |
-| 2023-05-22 | 4.17 | 2,229 | 3,692 |
+| 2023-05-22 | 4.17 | 2,229 | 3,695 |

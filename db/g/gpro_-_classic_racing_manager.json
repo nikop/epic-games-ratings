@@ -1141,9 +1141,9 @@
       "ID": "ACHIEVEMENT_352",
       "SetID": "76k7b7p",
       "Name": "Tutorial master",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_353",
@@ -1508,8 +1508,8 @@
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-05-22T12:03:22.5529895+00:00",
+  "LastChanged_Achievements": "2023-05-22T13:08:52.3822817+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:56:59.6758358+00:00",
-  "LastUpdate_Ratings": "2023-05-22T11:57:03.0585265+00:00",
-  "LastUpdate_Achievements": "2023-05-22T12:03:22.5533381+00:00"
+  "LastUpdate_Ratings": "2023-05-22T13:02:20.967194+00:00",
+  "LastUpdate_Achievements": "2023-05-22T13:08:52.3827076+00:00"
 }
