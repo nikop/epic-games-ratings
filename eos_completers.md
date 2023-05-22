@@ -21,8 +21,8 @@
 | 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.83% |
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.82% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
-| 22 | [Scorn](games/s/scorn.md) | 6.95% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 6.72% |
+| 22 | [Ravenlok](games/r/ravenlok.md) | 6.97% |
+| 23 | [Scorn](games/s/scorn.md) | 6.95% |
 | 24 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 24 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.45% |
 | 26 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -41,7 +41,7 @@
 | 39 | [The Complex](games/t/the_complex.md) | 3.50% |
 | 40 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.37% |
 | 41 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.33% |
-| 42 | [The Bunker](games/t/the_bunker.md) | 3.30% |
+| 42 | [The Bunker](games/t/the_bunker.md) | 3.26% |
 | 43 | [ZZT!](games/z/zzt!.md) | 3.18% |
 | 44 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
 | 45 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.09% |
@@ -57,7 +57,7 @@
 | 55 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.56% |
 | 56 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.50% |
 | 56 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 58 | [JARS](games/j/jars.md) | 2.44% |
+| 58 | [JARS](games/j/jars.md) | 2.38% |
 | 59 | [Iron Danger](games/i/iron_danger.md) | 2.34% |
 | 60 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.33% |
 | 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.15% |
@@ -81,9 +81,9 @@
 | 79 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.23% |
 | 80 | [Trifox](games/t/trifox.md) | 1.22% |
 | 81 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.18% |
-| 82 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.15% |
-| 83 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.14% |
-| 83 | [Late Shift](games/l/late_shift.md) | 1.14% |
+| 82 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.14% |
+| 82 | [Late Shift](games/l/late_shift.md) | 1.14% |
+| 82 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.14% |
 | 85 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.11% |
 | 86 | [Five Dates](games/f/five_dates.md) | 1.10% |
 | 87 | [Sable](games/s/sable.md) | 0.94% |
@@ -134,13 +134,13 @@
 | 130 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
 | 133 | [Circus Electrique](games/c/circus_electrique.md) | 0.25% |
 | 133 | [Wildermyth](games/w/wildermyth.md) | 0.25% |
+| 135 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.22% |
 | 135 | [Blanc](games/b/blanc.md) | 0.22% |
 | 135 | [Filament](games/f/filament.md) | 0.22% |
 | 135 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
-| 138 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.21% |
-| 138 | [Against the Storm](games/a/against_the_storm.md) | 0.21% |
-| 138 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.21% |
-| 138 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.21% |
+| 139 | [Against the Storm](games/a/against_the_storm.md) | 0.21% |
+| 139 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.21% |
+| 139 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.21% |
 | 142 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
 | 143 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.18% |
 | 144 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.17% |

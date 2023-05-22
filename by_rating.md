@@ -191,29 +191,29 @@
 | 177 | [shapez](games/s/shapez.md) | 4.71 | 162 | 280 |
 | 177 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.71 | 112 | 313 |
 | 177 | [Strange Horticulture](games/s/strange_horticulture.md) | 4.71 | 0 | 491 |
-| 177 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.71 | 0 | 491 |
-| 193 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,526 | 67 |
-| 193 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 0 | 491 |
-| 193 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 347 | 212 |
-| 193 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,232 | 70 |
-| 193 | [For The King](games/f/for_the_king.md) | 4.70 | 364 | 209 |
-| 193 | [GoNNER](games/g/gonner.md) | 4.70 | 0 | 491 |
-| 193 | [House Flipper](games/h/house_flipper.md) | 4.70 | 288 | 226 |
-| 193 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 50 | 387 |
-| 193 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.70 | 0 | 491 |
-| 193 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,296 | 119 |
-| 193 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 0 | 491 |
-| 193 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 1,174 | 124 |
-| 193 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,824 | 106 |
-| 193 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.70 | 0 | 491 |
-| 193 | [Northgard](games/n/northgard.md) | 4.70 | 29 | 449 |
-| 193 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 0 | 491 |
-| 193 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.70 | 78 | 350 |
-| 193 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 0 | 491 |
-| 193 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 491 |
-| 193 | [The Witness](games/t/the_witness.md) | 4.70 | 170 | 275 |
-| 193 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,298 | 69 |
-| 193 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 491 |
+| 192 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,526 | 67 |
+| 192 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 0 | 491 |
+| 192 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 347 | 212 |
+| 192 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,242 | 70 |
+| 192 | [For The King](games/f/for_the_king.md) | 4.70 | 364 | 209 |
+| 192 | [GoNNER](games/g/gonner.md) | 4.70 | 0 | 491 |
+| 192 | [House Flipper](games/h/house_flipper.md) | 4.70 | 288 | 226 |
+| 192 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 4.70 | 50 | 387 |
+| 192 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.70 | 0 | 491 |
+| 192 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,296 | 119 |
+| 192 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.70 | 0 | 491 |
+| 192 | [Metro 2033 Redux](games/m/metro_2033_redux.md) | 4.70 | 1,174 | 124 |
+| 192 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,824 | 106 |
+| 192 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.70 | 0 | 491 |
+| 192 | [Northgard](games/n/northgard.md) | 4.70 | 29 | 449 |
+| 192 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 0 | 491 |
+| 192 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.70 | 78 | 350 |
+| 192 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 0 | 491 |
+| 192 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.70 | 0 | 491 |
+| 192 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 491 |
+| 192 | [The Witness](games/t/the_witness.md) | 4.70 | 170 | 275 |
+| 192 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,298 | 69 |
+| 192 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 491 |
 | 215 | [Bad North](games/b/bad_north.md) | 4.69 | 0 | 491 |
 | 215 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 109,610 | 8 |
 | 215 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 491 |
@@ -553,22 +553,22 @@
 | 535 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.50 | 0 | 491 |
 | 535 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 4.50 | 662 | 160 |
 | 535 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.50 | 0 | 491 |
+| 535 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.50 | 0 | 491 |
 | 535 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 753 | 151 |
 | 535 | [Tails of Iron](games/t/tails_of_iron.md) | 4.50 | 0 | 491 |
 | 535 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 30 | 445 |
-| 557 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 62 | 374 |
-| 557 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 396 | 202 |
-| 557 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,975 | 103 |
-| 557 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 105 | 316 |
-| 557 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 0 | 491 |
-| 557 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 0 | 491 |
-| 557 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 271 | 233 |
-| 557 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 231 | 246 |
-| 557 | [Maneater](games/m/maneater.md) | 4.49 | 13,464 | 24 |
-| 557 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 613 | 164 |
-| 557 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 347 |
-| 557 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 491 |
-| 557 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 4.49 | 0 | 491 |
+| 558 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 62 | 374 |
+| 558 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 396 | 202 |
+| 558 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,975 | 103 |
+| 558 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 105 | 316 |
+| 558 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 0 | 491 |
+| 558 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.49 | 0 | 491 |
+| 558 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 271 | 233 |
+| 558 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 231 | 246 |
+| 558 | [Maneater](games/m/maneater.md) | 4.49 | 13,464 | 24 |
+| 558 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 613 | 164 |
+| 558 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 347 |
+| 558 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 491 |
 | 570 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.48 | 0 | 491 |
 | 570 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.48 | 0 | 491 |
 | 570 | [Diplomacy is Not an Option](games/d/diplomacy_is_not_an_option.md) | 4.48 | 0 | 491 |
