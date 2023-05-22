@@ -91,9 +91,9 @@
       "ID": "12",
       "SetID": "37jn7be",
       "Name": "I\u0027ll Become... A Beast",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "13",
@@ -275,9 +275,9 @@
       "ID": "33",
       "SetID": "37jn7be",
       "Name": "Unbiased",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "34",
@@ -315,9 +315,9 @@
       "ID": "38",
       "SetID": "37jn7be",
       "Name": "I Sit On The Beach, Watching The Tide Leave",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "39",
@@ -459,9 +459,9 @@
       "ID": "54",
       "SetID": "37jn7be",
       "Name": "Bookworm",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "55",
@@ -491,17 +491,17 @@
       "ID": "58",
       "SetID": "37jn7be",
       "Name": "Behold, The Nagarimau",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "59",
       "SetID": "37jn7be",
       "Name": "I Take The Tiger Upon Myself",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "6",
@@ -515,25 +515,25 @@
       "ID": "60",
       "SetID": "37jn7be",
       "Name": "For The Greater Good",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "61",
       "SetID": "37jn7be",
       "Name": "I Am Vengeance",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "62",
       "SetID": "37jn7be",
       "Name": "Sowing The Seeds of Destruction",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "63",
@@ -612,8 +612,8 @@
   "FirstSeenRating": "2023-04-29T22:57:51.702813+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:15.0612299+00:00",
   "LastChanged": "2023-04-29T22:57:51.7028131+00:00",
-  "LastChanged_Achievements": "2023-05-22T10:05:46.1956434+00:00",
+  "LastChanged_Achievements": "2023-05-22T11:05:40.7340244+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.1178962+00:00",
-  "LastUpdate_Ratings": "2023-05-22T09:58:17.9117536+00:00",
-  "LastUpdate_Achievements": "2023-05-22T10:05:46.2072183+00:00"
+  "LastUpdate_Ratings": "2023-05-22T10:58:02.5058344+00:00",
+  "LastUpdate_Achievements": "2023-05-22T11:05:40.7340891+00:00"
 }

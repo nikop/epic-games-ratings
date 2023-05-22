@@ -12,14 +12,16 @@
 | An Unheard Song | 40.00% | ~4 |
 | Let There Be Light | 40.00% | ~4 |
 | All Alone With A Curse | 40.00% | ~4 |
+| I'll Become... A Beast | 30.00% | ~3 |
 | Equality | 30.00% | ~3 |
 | Goodbye Dear Friend | 30.00% | ~3 |
 | By My Own Hands | 30.00% | ~3 |
+| Bookworm | 30.00% | ~3 |
+| Behold, The Nagarimau | 30.00% | ~3 |
 | Clipped Wings | 30.00% | ~3 |
 | Lady In The Book | 30.00% | ~3 |
 | Strangers You Meet | 20.00% | ~2 |
 | Losing A Small, Good Thing | 20.00% | ~2 |
-| I'll Become... A Beast | 20.00% | ~2 |
 | True Potential Unlocked | 20.00% | ~2 |
 | Guli Novice | 20.00% | ~2 |
 | Guli Pro | 20.00% | ~2 |
@@ -27,13 +29,15 @@
 | Congkak Legend | 20.00% | ~2 |
 | In Service Of Others | 20.00% | ~2 |
 | Deep Thinker | 20.00% | ~2 |
+| I Sit On The Beach, Watching The Tide Leave | 20.00% | ~2 |
 | Power Of Friendship | 20.00% | ~2 |
 | Squashed Bug | 20.00% | ~2 |
 | Till Death Do We... | 20.00% | ~2 |
 | An End To History | 20.00% | ~2 |
 | Eating A Dead Flower | 20.00% | ~2 |
-| Bookworm | 20.00% | ~2 |
-| Behold, The Nagarimau | 20.00% | ~2 |
+| For The Greater Good | 20.00% | ~2 |
+| I Am Vengeance | 20.00% | ~2 |
+| Sowing The Seeds of Destruction | 20.00% | ~2 |
 | Faithful Follower | 10.00% | ~1 |
 | Rebel To God | 10.00% | ~1 |
 | Expert Service | 10.00% | ~1 |
@@ -42,24 +46,21 @@
 | Uncommitted | 10.00% | ~1 |
 | Thou Art Naive | 10.00% | ~1 |
 | Philosopher | 10.00% | ~1 |
+| Unbiased | 10.00% | ~1 |
 | I Like Salty Seawater | 10.00% | ~1 |
 | There's Something About You... | 10.00% | ~1 |
 | Under The Sea | 10.00% | ~1 |
-| I Sit On The Beach, Watching The Tide Leave | 10.00% | ~1 |
 | A Foot In Reality | 10.00% | ~1 |
 | Self-indulgent | 10.00% | ~1 |
 | Breaking In The Horse | 10.00% | ~1 |
 | To Live And Die Free | 10.00% | ~1 |
 | Be Cruel To Be Kind | 10.00% | ~1 |
 | A New Hope | 10.00% | ~1 |
-| For The Greater Good | 10.00% | ~1 |
-| I Am Vengeance | 10.00% | ~1 |
-| Sowing The Seeds of Destruction | 10.00% | ~1 |
+| I Take The Tiger Upon Myself | 10.00% | ~1 |
 | At The End of The World, It's Just Two of Us | 10.00% | ~1 |
 | The World Is Mine, And I Don't Want It | 10.00% | ~1 |
 | I See The Truth | 0.00% | ~0 |
 | True Devourer | 0.00% | ~0 |
-| Unbiased | 0.00% | ~0 |
 | Mayang's Song | 0.00% | ~0 |
 | Sweetheart | 0.00% | ~0 |
 | I Enjoy Death | 0.00% | ~0 |
@@ -68,7 +69,6 @@
 | King Blood Chaser | 0.00% | ~0 |
 | Top Of The Food Chain | 0.00% | ~0 |
 | Indulging In The Flesh | 0.00% | ~0 |
-| I Take The Tiger Upon Myself | 0.00% | ~0 |
 | I Need Batteries | 0.00% | ~0 |
 | I Am A Beast | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

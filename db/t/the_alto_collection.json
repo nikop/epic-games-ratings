@@ -655,9 +655,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 22359,
+  "EOS_Progressed": 22361,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1128,
+  "EOS_NewPlayers": 1125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3750,6 +3750,11 @@
       "Time": "2023-05-22T10:05:58.579164+00:00",
       "NumProgressed": 22359,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-22T11:05:52.9838498+00:00",
+      "NumProgressed": 22361,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 39,
@@ -3801,7 +3806,7 @@
       "Name": "Rookie",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5366
+      "UsersEstimate": 5367
     },
     {
       "ID": "goals180",
@@ -3881,7 +3886,7 @@
       "Name": "Nomad",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4248
+      "UsersEstimate": 4249
     },
     {
       "ID": "novice",
@@ -4025,7 +4030,7 @@
       "Name": "Welcome Maya",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3577
+      "UsersEstimate": 3578
     },
     {
       "ID": "unlockpaz",
@@ -4072,15 +4077,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 22359,
+      "Progressed": 22361,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-05-21T02:05:22.6886845+00:00",
-  "LastChanged_Achievements": "2023-05-22T10:05:58.5791636+00:00",
+  "LastChanged_Achievements": "2023-05-22T11:05:52.9838493+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:34.6693979+00:00",
-  "LastUpdate_Ratings": "2023-05-22T09:59:43.8477589+00:00",
-  "LastUpdate_Achievements": "2023-05-22T10:05:58.5792025+00:00"
+  "LastUpdate_Ratings": "2023-05-22T10:59:18.8674199+00:00",
+  "LastUpdate_Achievements": "2023-05-22T11:05:52.9839014+00:00"
 }

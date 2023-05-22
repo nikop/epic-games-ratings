@@ -3862,9 +3862,9 @@
       "Count": 3238
     }
   ],
-  "EOS_Progressed": 88288,
+  "EOS_Progressed": 88291,
   "EOS_Completed": 1862,
-  "EOS_NewPlayers": 718,
+  "EOS_NewPlayers": 720,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
@@ -6912,6 +6912,11 @@
       "Time": "2023-05-22T10:06:36.4215064+00:00",
       "NumProgressed": 88288,
       "NumCompleted": 1862
+    },
+    {
+      "Time": "2023-05-22T11:06:21.0690815+00:00",
+      "NumProgressed": 88291,
+      "NumCompleted": 1862
     }
   ],
   "TotalAchievements": 493,
@@ -9057,9 +9062,9 @@
       "ID": "objective_completed_5",
       "SetID": "cc37lbc",
       "Name": "Mad Cow Disease",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_54",
@@ -10866,21 +10871,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54562,
+      "Progressed": 54565,
       "Completed": 2657
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88288,
+      "Progressed": 88291,
       "Completed": 1862
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-22T06:57:50.0096303+00:00",
-  "LastChanged_Achievements": "2023-05-22T10:06:36.421506+00:00",
+  "LastChanged_Achievements": "2023-05-22T11:06:21.0690809+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-22T09:58:19.6914224+00:00",
-  "LastUpdate_Achievements": "2023-05-22T10:06:36.4236757+00:00"
+  "LastUpdate_Ratings": "2023-05-22T10:58:04.2227898+00:00",
+  "LastUpdate_Achievements": "2023-05-22T11:06:21.071803+00:00"
 }

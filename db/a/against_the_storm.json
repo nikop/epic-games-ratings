@@ -2288,7 +2288,7 @@
       "Count": 304
     }
   ],
-  "EOS_Progressed": 14947,
+  "EOS_Progressed": 14948,
   "EOS_Completed": 32,
   "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 2,
@@ -3953,6 +3953,11 @@
       "Time": "2023-05-22T10:06:31.0180006+00:00",
       "NumProgressed": 14947,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-05-22T11:06:15.3864656+00:00",
+      "NumProgressed": 14948,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 50,
@@ -4090,9 +4095,9 @@
       "ID": "WinNearBarren",
       "SetID": "cfbk359",
       "Name": "Barren Lands",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 135
     },
     {
       "ID": "WinNearBattleground",
@@ -4363,15 +4368,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 14947,
+      "Progressed": 14948,
       "Completed": 32
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-19T11:59:18.6406919+00:00",
-  "LastChanged_Achievements": "2023-05-22T10:06:31.0179998+00:00",
+  "LastChanged_Achievements": "2023-05-22T11:06:15.386465+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:57.8342165+00:00",
-  "LastUpdate_Ratings": "2023-05-22T10:00:37.4199353+00:00",
-  "LastUpdate_Achievements": "2023-05-22T10:06:31.0180422+00:00"
+  "LastUpdate_Ratings": "2023-05-22T11:00:06.1601436+00:00",
+  "LastUpdate_Achievements": "2023-05-22T11:06:15.3865172+00:00"
 }

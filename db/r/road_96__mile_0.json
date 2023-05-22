@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 175,
+  "EOS_Progressed": 176,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.14,
   "EosHistory": [
@@ -244,6 +244,11 @@
       "Time": "2023-05-22T08:06:16.7352084+00:00",
       "NumProgressed": 175,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-22T11:05:47.1626993+00:00",
+      "NumProgressed": 176,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -269,9 +274,9 @@
       "ID": "completeact3",
       "SetID": "40n95i5",
       "Name": "On the Road",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 80
+      "UsersEstimate": 79
     },
     {
       "ID": "findalltapes",
@@ -293,9 +298,9 @@
       "ID": "scoreminrankrb1",
       "SetID": "40n95i5",
       "Name": "Truthseeker",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "scoreminrankrb2",
@@ -325,9 +330,9 @@
       "ID": "scoreminrankrh1",
       "SetID": "40n95i5",
       "Name": "Souvenirs",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "scoreminrankrp1",
@@ -374,7 +379,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 175,
+      "Progressed": 176,
       "Completed": 2
     }
   ],
@@ -382,8 +387,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-05-22T10:05:52.7597262+00:00",
+  "LastChanged_Achievements": "2023-05-22T11:05:47.162699+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:05.0477946+00:00",
-  "LastUpdate_Ratings": "2023-05-22T09:59:12.3870809+00:00",
-  "LastUpdate_Achievements": "2023-05-22T10:05:52.7597358+00:00"
+  "LastUpdate_Ratings": "2023-05-22T10:58:49.6674348+00:00",
+  "LastUpdate_Achievements": "2023-05-22T11:05:47.1627098+00:00"
 }

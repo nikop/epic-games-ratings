@@ -19,7 +19,7 @@ Number of Ratings: 36  (23.09.2022)
 | A drop in the Ocean | 26.00% | ~164 |
 | No Niños | 26.00% | ~164 |
 | I ain’t afraid of no Ghost | 23.00% | ~145 |
-| Act II Complete | 19.00% | ~120 |
+| Act II Complete | 20.00% | ~126 |
 | A successful procedure! | 18.00% | ~113 |
 | Bing Bang BOOM | 18.00% | ~113 |
 | Breaking the Ice | 16.00% | ~101 |

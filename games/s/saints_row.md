@@ -6,24 +6,24 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 11.00% | ~3,630 |
-| To The Nines | 9.00% | ~2,970 |
-| Optimized | 7.00% | ~2,310 |
-| Performance Review | 7.00% | ~2,310 |
-| The Side Job | 6.00% | ~1,980 |
-| Wet Work | 6.00% | ~1,980 |
-| Tune Up | 6.00% | ~1,980 |
-| Making a Name | 6.00% | ~1,980 |
-| Landlord | 5.00% | ~1,650 |
-| Wrecking Ball | 5.00% | ~1,650 |
-| Food for Thought | 5.00% | ~1,650 |
-| Finders Keepers | 4.00% | ~1,320 |
-| A Young Empire | 4.00% | ~1,320 |
-| Work Ethic | 4.00% | ~1,320 |
-| Quality Time | 3.00% | ~990 |
-| Power Players | 3.00% | ~990 |
-| Took It to The Limit | 3.00% | ~990 |
-| Picking Fights | 3.00% | ~990 |
+| First F#@!ing Day | 11.00% | ~3,632 |
+| To The Nines | 9.00% | ~2,972 |
+| Optimized | 7.00% | ~2,311 |
+| Performance Review | 7.00% | ~2,311 |
+| The Side Job | 6.00% | ~1,981 |
+| Wet Work | 6.00% | ~1,981 |
+| Tune Up | 6.00% | ~1,981 |
+| Making a Name | 6.00% | ~1,981 |
+| Landlord | 5.00% | ~1,651 |
+| Wrecking Ball | 5.00% | ~1,651 |
+| Food for Thought | 5.00% | ~1,651 |
+| Finders Keepers | 4.00% | ~1,321 |
+| A Young Empire | 4.00% | ~1,321 |
+| Work Ethic | 4.00% | ~1,321 |
+| Quality Time | 3.00% | ~991 |
+| Power Players | 3.00% | ~991 |
+| Took It to The Limit | 3.00% | ~991 |
+| Picking Fights | 3.00% | ~991 |
 | Hijacked | 2.00% | ~660 |
 | Showdown | 2.00% | ~660 |
 | Masters of Santo Ileso | 2.00% | ~660 |
@@ -36,13 +36,13 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Golden Age | 1.00% | ~330 |
 | The Mechanic | 1.00% | ~330 |
 | Closet Space | 1.00% | ~330 |
-| Face Off | 1.00% | ~46 |
-| Hazardous Heist | 1.00% | ~46 |
+| Face Off | 1.00% | ~47 |
+| Hazardous Heist | 1.00% | ~47 |
 | Untouchable | 0.90% | ~297 |
+| Smooth Moves | 0.90% | ~297 |
+| The Professional | 0.80% | ~264 |
 | Free Refills | 0.80% | ~264 |
 | Prankster | 0.80% | ~264 |
-| Smooth Moves | 0.80% | ~264 |
-| The Professional | 0.70% | ~231 |
 | Chaos Tamer | 0.60% | ~198 |
 | Neighborly | 0.60% | ~198 |
 | Tourist | 0.60% | ~198 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Heard You Like Wheels | 0.10% | ~33 |
 | Fiesta Time | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32,998 (Ranked 82)  
+Progressed: 33,021 (Ranked 82)  
 Completed: 20 (0.06%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 20 (0.06%) (Ranked 170)
 | 2023-05-19 | 30,583 | 19 |
 | 2023-05-20 | 31,752 | 19 |
 | 2023-05-21 | 32,742 | 20 |
-| 2023-05-22 | 32,998 | 20 |
+| 2023-05-22 | 33,021 | 20 |
 ## Awards
 Max (Extremely Fun): 1,029  (Ranked 133)  
 Sum: 8,351 (Ranked 88)  

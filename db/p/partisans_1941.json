@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -697,9 +697,9 @@
       "ID": "Death_to_the_dictator",
       "SetID": "85nb4h3",
       "Name": "Death to the Oppressor!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 120
     },
     {
       "ID": "Defense_Common",
@@ -897,8 +897,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-05-22T10:06:18.5173586+00:00",
+  "LastChanged_Achievements": "2023-05-22T11:06:03.1944722+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:35.4826245+00:00",
-  "LastUpdate_Ratings": "2023-05-22T09:59:44.0200414+00:00",
-  "LastUpdate_Achievements": "2023-05-22T10:06:18.5173783+00:00"
+  "LastUpdate_Ratings": "2023-05-22T10:59:19.0348539+00:00",
+  "LastUpdate_Achievements": "2023-05-22T11:06:03.1944936+00:00"
 }

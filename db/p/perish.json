@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2866,
+  "EOS_Progressed": 2867,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -933,6 +933,11 @@
       "Time": "2023-05-22T09:06:49.9933337+00:00",
       "NumProgressed": 2866,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T11:06:10.3851428+00:00",
+      "NumProgressed": 2867,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -958,9 +963,9 @@
       "ID": "ACH_B_FS",
       "SetID": "b3fep3o",
       "Name": "Wayward Son of Hephaestus",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_B_K",
@@ -1358,9 +1363,9 @@
       "ID": "ACH_TF",
       "SetID": "b3fep3o",
       "Name": "Baby Crabs They Ain\u0027t",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_TOTN",
@@ -1447,7 +1452,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 2866,
+      "Progressed": 2867,
       "Completed": 0
     }
   ],
@@ -1455,8 +1460,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-05-22T10:06:25.9072448+00:00",
+  "LastChanged_Achievements": "2023-05-22T11:06:10.3851424+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:05:00.7857859+00:00",
-  "LastUpdate_Ratings": "2023-05-22T10:00:15.8418314+00:00",
-  "LastUpdate_Achievements": "2023-05-22T10:06:25.9072964+00:00"
+  "LastUpdate_Ratings": "2023-05-22T10:59:46.8656907+00:00",
+  "LastUpdate_Achievements": "2023-05-22T11:06:10.385207+00:00"
 }

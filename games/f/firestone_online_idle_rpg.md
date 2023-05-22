@@ -1,11 +1,11 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 3.75 (Ranked 919)  
+Rating: 3.75 (Ranked 920)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,069 |
+| Victor | 94.00% | ~1,070 |
 | World Map | 80.00% | ~910 |
 | Temple of Eternals | 56.00% | ~637 |
 | Prestigious | 53.00% | ~603 |
@@ -34,9 +34,9 @@ Rating: 3.75 (Ranked 919)
 | Frostfire Liberator | 5.00% | ~57 |
 | Hunter | 5.00% | ~57 |
 | Scroll Master | 5.00% | ~57 |
-| Mastery | 4.00% | ~45 |
-| Moving Up The Ladder | 4.00% | ~45 |
-| The Expeditioner | 4.00% | ~45 |
+| Mastery | 4.00% | ~46 |
+| Moving Up The Ladder | 4.00% | ~46 |
+| The Expeditioner | 4.00% | ~46 |
 | Ancient Knowledge | 3.00% | ~34 |
 | Background Story | 3.00% | ~34 |
 | Doing My Part | 3.00% | ~34 |
@@ -81,7 +81,7 @@ Rating: 3.75 (Ranked 919)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,137 (Ranked 161)  
+Progressed: 1,138 (Ranked 161)  
 Completed: 1 (0.09%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 1 (0.09%) (Ranked 163)
 | 2023-05-19 | 1,090 | 1 |
 | 2023-05-20 | 1,114 | 1 |
 | 2023-05-21 | 1,133 | 1 |
-| 2023-05-22 | 1,137 | 1 |
+| 2023-05-22 | 1,138 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

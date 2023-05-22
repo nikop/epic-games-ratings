@@ -174,9 +174,9 @@
       "ID": "BUCKLE_UP",
       "SetID": "2iigf77",
       "Name": "Buckle up",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 263
+      "UsersEstimate": 267
     },
     {
       "ID": "CONCRETE_PAINTING",
@@ -415,8 +415,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-05-22T10:05:57.2360804+00:00",
+  "LastChanged_Achievements": "2023-05-22T11:05:51.7205938+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:21.9827734+00:00",
-  "LastUpdate_Ratings": "2023-05-22T09:59:05.7055259+00:00",
-  "LastUpdate_Achievements": "2023-05-22T10:05:57.2360996+00:00"
+  "LastUpdate_Ratings": "2023-05-22T10:58:43.4298161+00:00",
+  "LastUpdate_Achievements": "2023-05-22T11:05:51.7206152+00:00"
 }

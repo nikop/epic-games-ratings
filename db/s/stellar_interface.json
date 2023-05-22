@@ -2,9 +2,9 @@
   "ID": "d3c246767bfc4056af80742e75319d79",
   "Name": "Stellar Interface",
   "ProductSlug": "stellar-interface-d14cc4",
-  "Ranking_EOS_Progress": 337,
+  "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 8,
+  "EOS_Progressed": 9,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -58,6 +58,11 @@
     {
       "Time": "2023-05-20T04:06:24.4346094+00:00",
       "NumProgressed": 8,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T11:06:18.9779834+00:00",
+      "NumProgressed": 9,
       "NumCompleted": 0
     }
   ],
@@ -436,7 +441,7 @@
       "ID": "CorvetteSpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "The Vette",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -476,7 +481,7 @@
       "ID": "FlamethrowerDiarrheaAchievement",
       "SetID": "a8djcgh",
       "Name": "Food Poisoning",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -676,7 +681,7 @@
       "ID": "Killed100EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Killing Spree",
-      "Percentage": 38,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -692,7 +697,7 @@
       "ID": "Killed10EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "First Blood",
-      "Percentage": 75,
+      "Percentage": 67,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -732,7 +737,7 @@
       "ID": "Killed500EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Dominating",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -796,7 +801,7 @@
       "ID": "PerksUnlocked5Achievement",
       "SetID": "a8djcgh",
       "Name": "5Gb HDD",
-      "Percentage": 25,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1052,7 +1057,7 @@
       "ID": "VisitMerchant1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Merchant Prince I",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1125,13 +1130,13 @@
     {
       "ID": "a8djcgh",
       "IsBase": true,
-      "Progressed": 8,
+      "Progressed": 9,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-05-22T10:06:34.3989251+00:00",
+  "LastChanged_Achievements": "2023-05-22T11:06:18.9779828+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:23.5441273+00:00",
-  "LastUpdate_Ratings": "2023-05-22T09:59:08.9884324+00:00",
-  "LastUpdate_Achievements": "2023-05-22T10:06:34.39908+00:00"
+  "LastUpdate_Ratings": "2023-05-22T10:58:46.4875761+00:00",
+  "LastUpdate_Achievements": "2023-05-22T11:06:18.978181+00:00"
 }

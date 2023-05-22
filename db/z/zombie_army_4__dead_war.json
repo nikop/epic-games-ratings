@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1497,9 +1497,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42374,
+  "EOS_Progressed": 42375,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2357,6 +2357,11 @@
       "Time": "2023-05-22T10:06:33.2353529+00:00",
       "NumProgressed": 42374,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-22T11:06:17.4632306+00:00",
+      "NumProgressed": 42375,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -2368,7 +2373,7 @@
       "Name": "Groovy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 25848
+      "UsersEstimate": 25849
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -2384,7 +2389,7 @@
       "Name": "That\u0027s a lot of them, and only 4 of us",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "SE_COMPLETE_ALPINE_BLITZ",
@@ -2440,7 +2445,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 17373
+      "UsersEstimate": 17374
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -2464,7 +2469,7 @@
       "Name": "I\u0027m going deeper underground",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 5932
+      "UsersEstimate": 5933
     },
     {
       "ID": "SE_COMPLETE_GENOA",
@@ -2576,7 +2581,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 13983
+      "UsersEstimate": 13984
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -2608,7 +2613,7 @@
       "Name": "Everyone\u0027s a mad scientist, life is the lab",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7627
+      "UsersEstimate": 7628
     },
     {
       "ID": "SE_COMPLETE_VENICE",
@@ -2664,7 +2669,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 17373
+      "UsersEstimate": 17374
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -2672,7 +2677,7 @@
       "Name": "Gold",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 21187
+      "UsersEstimate": 21188
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -2696,7 +2701,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 28814
+      "UsersEstimate": 28815
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -2728,7 +2733,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 23729
+      "UsersEstimate": 23730
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -2768,7 +2773,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27543
+      "UsersEstimate": 27544
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -2808,7 +2813,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14407
+      "UsersEstimate": 14408
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -2824,7 +2829,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27543
+      "UsersEstimate": 27544
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -2880,7 +2885,7 @@
       "Name": "Take them down screaming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 7627
+      "UsersEstimate": 7628
     },
     {
       "ID": "SE_X_HEADSHOTS_WITH_ONE_BULLET",
@@ -2895,15 +2900,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42374,
+      "Progressed": 42375,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-05-21T10:59:55.1500252+00:00",
-  "LastChanged_Achievements": "2023-05-22T10:06:33.2353525+00:00",
+  "LastChanged_Achievements": "2023-05-22T11:06:17.4632303+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.8149711+00:00",
-  "LastUpdate_Ratings": "2023-05-22T10:00:26.3733896+00:00",
-  "LastUpdate_Achievements": "2023-05-22T10:06:33.2354055+00:00"
+  "LastUpdate_Ratings": "2023-05-22T10:59:55.2002101+00:00",
+  "LastUpdate_Achievements": "2023-05-22T11:06:17.4632936+00:00"
 }

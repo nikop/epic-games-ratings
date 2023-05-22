@@ -2,7 +2,7 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 919,
+  "Ranking_Rating": 920,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 161,
@@ -80,7 +80,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1137,
+  "EOS_Progressed": 1138,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
@@ -2030,6 +2030,11 @@
       "Time": "2023-05-22T10:06:11.2297591+00:00",
       "NumProgressed": 1137,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-22T11:05:55.5638401+00:00",
+      "NumProgressed": 1138,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2361,7 +2366,7 @@
       "Name": "Mastery",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "milestonecollector",
@@ -2393,7 +2398,7 @@
       "Name": "Moving Up The Ladder",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "mysteriousrock",
@@ -2513,7 +2518,7 @@
       "Name": "The Expeditioner",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "thefatherofdragons",
@@ -2601,7 +2606,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "warmachinesarmy",
@@ -2640,7 +2645,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1137,
+      "Progressed": 1138,
       "Completed": 1
     }
   ],
@@ -2648,8 +2653,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-18T22:58:45.6795503+00:00",
-  "LastChanged_Achievements": "2023-05-22T10:06:11.2297583+00:00",
+  "LastChanged_Achievements": "2023-05-22T11:05:55.5638396+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:34.8363446+00:00",
-  "LastUpdate_Ratings": "2023-05-22T09:58:15.4573073+00:00",
-  "LastUpdate_Achievements": "2023-05-22T10:06:11.2298285+00:00"
+  "LastUpdate_Ratings": "2023-05-22T10:57:59.762962+00:00",
+  "LastUpdate_Achievements": "2023-05-22T11:05:55.5639274+00:00"
 }

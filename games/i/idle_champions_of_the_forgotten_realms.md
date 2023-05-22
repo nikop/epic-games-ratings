@@ -19,6 +19,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Ring of Regeneration | 0.20% | ~177 |
 | Seeking Allies | 0.20% | ~177 |
 | Are Ya Chicken? | 0.20% | ~177 |
+| Mad Cow Disease | 0.20% | ~177 |
 | Friendly Imps | 0.20% | ~177 |
 | Maddening | 0.10% | ~88 |
 | Pros and CONs | 0.10% | ~88 |
@@ -279,7 +280,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Abyssal Situation | 0.10% | ~88 |
 | Dino Nightmare | 0.10% | ~88 |
 | A Familiar Friend | 0.10% | ~55 |
-| Mad Cow Disease | 0.10% | ~88 |
 | Exploring Port Nyanzaru | 0.10% | ~88 |
 | A Tale of Two Cities | 0.10% | ~88 |
 | A Tale of Two Fiends | 0.10% | ~88 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.10% | ~88 |
 | Rescue in the Jungle | 0.10% | ~88 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,288 (Ranked 60)  
+Progressed: 88,291 (Ranked 60)  
 Completed: 1,862 (2.11%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -532,7 +532,7 @@ Completed: 1,862 (2.11%) (Ranked 62)
 | 2023-05-19 | 88,008 | 1,851 |
 | 2023-05-20 | 88,132 | 1,854 |
 | 2023-05-21 | 88,251 | 1,860 |
-| 2023-05-22 | 88,288 | 1,862 |
+| 2023-05-22 | 88,291 | 1,862 |
 ## Awards
 Max (Diverse Characters): 4,892  (Ranked 64)  
 Sum: 29,943 (Ranked 37)  

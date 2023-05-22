@@ -770,9 +770,9 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 7308,
+  "EOS_Progressed": 7309,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1235,6 +1235,11 @@
       "Time": "2023-05-22T10:05:41.6391901+00:00",
       "NumProgressed": 7308,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-22T11:05:36.1626784+00:00",
+      "NumProgressed": 7309,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -1270,7 +1275,7 @@
       "Name": "Focus!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4531
+      "UsersEstimate": 4532
     },
     {
       "ID": "DemonCastleRestoration",
@@ -1342,7 +1347,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 2046
+      "UsersEstimate": 2047
     },
     {
       "ID": "LeoniasFall_2",
@@ -1350,7 +1355,7 @@
       "Name": "The Levitator",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "Manners",
@@ -1358,7 +1363,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 2850
+      "UsersEstimate": 2851
     },
     {
       "ID": "RookieWelcome",
@@ -1374,7 +1379,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4531
+      "UsersEstimate": 4532
     },
     {
       "ID": "SavedElderEnt_2",
@@ -1406,7 +1411,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 6796
+      "UsersEstimate": 6797
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -1437,15 +1442,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7308,
+      "Progressed": 7309,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-05-22T09:59:21.5443518+00:00",
-  "LastChanged_Achievements": "2023-05-22T10:05:41.6391896+00:00",
+  "LastChanged_Achievements": "2023-05-22T11:05:36.162678+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.259325+00:00",
-  "LastUpdate_Ratings": "2023-05-22T09:59:21.5443522+00:00",
-  "LastUpdate_Achievements": "2023-05-22T10:05:41.6392094+00:00"
+  "LastUpdate_Ratings": "2023-05-22T10:58:58.0442984+00:00",
+  "LastUpdate_Achievements": "2023-05-22T11:05:36.1626946+00:00"
 }

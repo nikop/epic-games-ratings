@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -162,9 +162,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3400,
+  "EOS_Progressed": 3401,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -377,6 +377,11 @@
       "Time": "2023-05-22T05:05:43.9072843+00:00",
       "NumProgressed": 3400,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T11:06:00.2099448+00:00",
+      "NumProgressed": 3401,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -442,9 +447,9 @@
       "ID": "FINISH_EPISODE_2",
       "SetID": "kakdpn",
       "Name": "Shard Snatchers",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 816
+      "UsersEstimate": 782
     },
     {
       "ID": "FINISH_EPISODE_3",
@@ -595,7 +600,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3400,
+      "Progressed": 3401,
       "Completed": 0
     }
   ],
@@ -603,8 +608,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-11T21:59:43.2932555+00:00",
-  "LastChanged_Achievements": "2023-05-22T10:06:16.0145332+00:00",
+  "LastChanged_Achievements": "2023-05-22T11:06:00.2099442+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:00.613564+00:00",
-  "LastUpdate_Ratings": "2023-05-22T10:00:00.2310954+00:00",
-  "LastUpdate_Achievements": "2023-05-22T10:06:16.0145471+00:00"
+  "LastUpdate_Ratings": "2023-05-22T10:59:32.5442696+00:00",
+  "LastUpdate_Achievements": "2023-05-22T11:06:00.2099814+00:00"
 }
