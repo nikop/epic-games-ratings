@@ -28,15 +28,15 @@
 | 26 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.06% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
 | 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.43% |
-| 29 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.39% |
+| 29 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.37% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.89% |
 | 31 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.88% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 33 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.44% |
 | 34 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.43% |
 | 35 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.98% |
-| 36 | [Doodle God](games/d/doodle_god.md) | 3.90% |
-| 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.88% |
+| 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
+| 37 | [Doodle God](games/d/doodle_god.md) | 3.90% |
 | 38 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 39 | [The Complex](games/t/the_complex.md) | 3.50% |
 | 40 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.37% |
@@ -135,12 +135,12 @@
 | 133 | [Circus Electrique](games/c/circus_electrique.md) | 0.25% |
 | 133 | [Wildermyth](games/w/wildermyth.md) | 0.25% |
 | 135 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.22% |
+| 135 | [Against the Storm](games/a/against_the_storm.md) | 0.22% |
 | 135 | [Blanc](games/b/blanc.md) | 0.22% |
 | 135 | [Filament](games/f/filament.md) | 0.22% |
 | 135 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
-| 139 | [Against the Storm](games/a/against_the_storm.md) | 0.21% |
-| 139 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.21% |
-| 139 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.21% |
+| 140 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.21% |
+| 140 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.21% |
 | 142 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
 | 143 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.18% |
 | 144 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.17% |

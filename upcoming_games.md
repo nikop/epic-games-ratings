@@ -1,6 +1,5 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [Backbeat](games/b/backbeat.md) | 2023-05-22 | 2023-03-16 |
 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 2023-05-22 | 2019-05-21 |
 | [Amnesia: The Bunker](games/a/amnesia__the_bunker.md) | 2023-05-23 | 2023-05-23 |
 | [Knights of Cathena](games/8/8cc5b4b56c84428999f03f3e6ac49481.md) | 2023-05-23 | 2022-09-07 |
@@ -27,10 +26,10 @@
 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 2023-05-26 | 2023-05-26 |
 | [Tracks of Triumph: Summertime](games/c/cd2b2654ac2c42be8cd9e51ea4e2df47.md) | 2023-05-27 | 2023-05-27 |
 | [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 2023-05-28 | 2023-05-28 |
-| [Everdream Valley](games/e/everdream_valley.md) | 2023-05-29 | 2023-05-29 |
 | [Shame Legacy](games/s/shame_legacy.md) | 2023-05-30 | 2023-05-30 |
 | [Return to Grace](games/c/c4061518e37f40119b54ce93456a8ecb.md) | 2023-05-30 | 2023-05-30 |
 | [System Shock](games/s/system_shock.md) | 2023-05-30 | 2023-05-30 |
+| [Everdream Valley](games/e/everdream_valley.md) | 2023-05-30 | 2023-05-29 |
 | [Beach Invasion 1944](games/b/beach_invasion_1944.md) | 2023-05-31 | 2022-12-02 |
 | [Bob A thousand lives](games/b/bob_a_thousand_lives.md) | 2023-05-31 | 2022-09-06 |
 | [Death or Treat](games/d/death_or_treat.md) | 2023-05-31 | 2023-05-31 |
