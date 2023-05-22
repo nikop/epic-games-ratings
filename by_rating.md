@@ -212,7 +212,7 @@
 | 193 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.70 | 0 | 491 |
 | 193 | [The Red Lantern](games/t/the_red_lantern.md) | 4.70 | 0 | 491 |
 | 193 | [The Witness](games/t/the_witness.md) | 4.70 | 170 | 275 |
-| 193 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,292 | 69 |
+| 193 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,298 | 69 |
 | 193 | [Trials Rising Standard Edition](games/t/trials_rising_standard_edition.md) | 4.70 | 0 | 491 |
 | 215 | [Bad North](games/b/bad_north.md) | 4.69 | 0 | 491 |
 | 215 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 109,610 | 8 |
@@ -421,7 +421,6 @@
 | 416 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 7,148 | 44 |
 | 416 | [Everything](games/e/everything.md) | 4.58 | 0 | 491 |
 | 416 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 243 | 241 |
-| 416 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.58 | 0 | 491 |
 | 416 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 36 | 420 |
 | 416 | [LEGO® Batman™ 3: Beyond Gotham](games/l/lego®_batman™_3__beyond_gotham.md) | 4.58 | 216 | 250 |
 | 416 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.58 | 0 | 491 |
@@ -436,17 +435,18 @@
 | 416 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.58 | 0 | 491 |
 | 416 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 209 | 254 |
 | 416 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,355 | 22 |
-| 437 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 0 | 491 |
-| 437 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 0 | 491 |
-| 437 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 154 | 283 |
-| 437 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.57 | 46 | 397 |
-| 437 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 27 | 455 |
-| 437 | [Hob](games/h/hob.md) | 4.57 | 0 | 491 |
-| 437 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,336 | 42 |
-| 437 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,078 | 86 |
-| 437 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 117 | 307 |
-| 437 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,367 | 19 |
-| 437 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 0 | 491 |
+| 436 | [Aragami 2](games/a/aragami_2.md) | 4.57 | 0 | 491 |
+| 436 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.57 | 0 | 491 |
+| 436 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.57 | 154 | 283 |
+| 436 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.57 | 46 | 397 |
+| 436 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.57 | 27 | 455 |
+| 436 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.57 | 0 | 491 |
+| 436 | [Hob](games/h/hob.md) | 4.57 | 0 | 491 |
+| 436 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,336 | 42 |
+| 436 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,078 | 86 |
+| 436 | [Sonic Origins](games/s/sonic_origins.md) | 4.57 | 117 | 307 |
+| 436 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,367 | 19 |
+| 436 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 0 | 491 |
 | 448 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 0 | 491 |
 | 448 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 0 | 491 |
 | 448 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 0 | 491 |
@@ -466,7 +466,7 @@
 | 448 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.56 | 0 | 491 |
 | 448 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.56 | 76 | 353 |
 | 448 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.56 | 49 | 391 |
-| 448 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 3,904 | 75 |
+| 448 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 3,913 | 75 |
 | 468 | [ANNO Mutationem](games/a/anno_mutationem.md) | 4.55 | 0 | 491 |
 | 468 | [Conan Exiles](games/c/conan_exiles.md) | 4.55 | 1,189 | 123 |
 | 468 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.55 | 34 | 430 |
@@ -565,7 +565,7 @@
 | 557 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 4.49 | 271 | 233 |
 | 557 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.49 | 229 | 246 |
 | 557 | [Maneater](games/m/maneater.md) | 4.49 | 13,464 | 24 |
-| 557 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 611 | 164 |
+| 557 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 4.49 | 613 | 164 |
 | 557 | [Prehistoric Kingdom](games/p/prehistoric_kingdom.md) | 4.49 | 0 | 491 |
 | 557 | [Solitairica](games/s/solitairica.md) | 4.49 | 83 | 347 |
 | 557 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.49 | 0 | 491 |
@@ -716,21 +716,21 @@
 | 711 | [Disciples: Liberation](games/d/disciples__liberation.md) | 4.36 | 0 | 491 |
 | 711 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,406 | 27 |
 | 711 | [Fishing - North Atlantic](games/f/fishing_-_north_atlantic.md) | 4.36 | 0 | 491 |
+| 711 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.36 | 0 | 491 |
 | 711 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 491 |
 | 711 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 25 | 464 |
 | 711 | [ZOMBI](games/z/zombi.md) | 4.36 | 0 | 491 |
-| 720 | [Beyond Blue](games/b/beyond_blue.md) | 4.35 | 0 | 491 |
-| 720 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 491 |
-| 720 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 91 | 336 |
-| 720 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.35 | 51 | 384 |
-| 720 | [Encased](games/e/encased.md) | 4.35 | 126 | 299 |
-| 720 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 201 | 259 |
-| 720 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.35 | 0 | 491 |
-| 720 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 0 | 491 |
-| 720 | [Paladins](games/p/paladins.md) | 4.35 | 3,237 | 83 |
-| 720 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.35 | 0 | 491 |
-| 720 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.35 | 71 | 362 |
-| 720 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.35 | 38 | 415 |
+| 721 | [Beyond Blue](games/b/beyond_blue.md) | 4.35 | 0 | 491 |
+| 721 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.35 | 0 | 491 |
+| 721 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.35 | 91 | 336 |
+| 721 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.35 | 51 | 384 |
+| 721 | [Encased](games/e/encased.md) | 4.35 | 126 | 299 |
+| 721 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 201 | 259 |
+| 721 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.35 | 0 | 491 |
+| 721 | [Paladins](games/p/paladins.md) | 4.35 | 3,237 | 83 |
+| 721 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.35 | 0 | 491 |
+| 721 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.35 | 71 | 362 |
+| 721 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 4.35 | 38 | 415 |
 | 732 | [Ashen](games/a/ashen.md) | 4.34 | 0 | 491 |
 | 732 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 455 |
 | 732 | [Bassmaster® Fishing](games/b/bassmaster®_fishing.md) | 4.34 | 0 | 491 |

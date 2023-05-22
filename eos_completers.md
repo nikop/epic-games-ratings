@@ -18,17 +18,17 @@
 | 16 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.12% |
 | 18 | [Time Loader](games/t/time_loader.md) | 8.08% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.84% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.75% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.83% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.83% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
 | 22 | [Scorn](games/s/scorn.md) | 6.95% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 6.74% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 6.73% |
 | 24 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 24 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.45% |
 | 26 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
-| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.47% |
 | 28 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.47% |
+| 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.45% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.90% |
 | 31 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.88% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
@@ -45,7 +45,7 @@
 | 43 | [ZZT!](games/z/zzt!.md) | 3.18% |
 | 44 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
 | 45 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.09% |
-| 46 | [HordeCore](games/h/hordecore.md) | 3.03% |
+| 46 | [HordeCore](games/h/hordecore.md) | 3.02% |
 | 47 | [MultiVersus](games/m/multiversus.md) | 2.95% |
 | 48 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.90% |
 | 48 | [Lamentum](games/l/lamentum.md) | 2.90% |
@@ -58,7 +58,7 @@
 | 56 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.50% |
 | 56 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [JARS](games/j/jars.md) | 2.44% |
-| 59 | [Iron Danger](games/i/iron_danger.md) | 2.35% |
+| 59 | [Iron Danger](games/i/iron_danger.md) | 2.34% |
 | 60 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.33% |
 | 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.16% |
 | 62 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.11% |
@@ -116,12 +116,12 @@
 | 112 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.39% |
 | 115 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 115 | [Tchia](games/t/tchia.md) | 0.37% |
-| 117 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
-| 118 | [Godlike Burger](games/g/godlike_burger.md) | 0.35% |
+| 117 | [Godlike Burger](games/g/godlike_burger.md) | 0.35% |
+| 117 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.35% |
 | 119 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.34% |
-| 119 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.34% |
-| 121 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
-| 121 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
+| 120 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
+| 120 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.33% |
+| 120 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
 | 123 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
 | 124 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.31% |
 | 124 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
