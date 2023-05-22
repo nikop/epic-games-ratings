@@ -2,7 +2,7 @@
   "ID": "8c32c11719374c049cac0b07d2a338a0",
   "Name": "Ravenlok",
   "ProductSlug": "ravenlok-bcabbc",
-  "Ranking_EOS_Progress": 173,
+  "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 23,
   "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 16,
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 808,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 6.81,
   "EosHistory": [
@@ -1813,9 +1813,9 @@
       "ID": "31",
       "SetID": "d0g98p",
       "Name": "Little Shop",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 396
     },
     {
       "ID": "32",
@@ -1877,9 +1877,9 @@
       "ID": "39",
       "SetID": "d0g98p",
       "Name": "All Skilled Up!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 275
     },
     {
       "ID": "4",
@@ -1909,9 +1909,9 @@
       "ID": "42",
       "SetID": "d0g98p",
       "Name": "Shopping Spree!",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 170
+      "UsersEstimate": 178
     },
     {
       "ID": "43",
@@ -2030,8 +2030,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-22T22:05:04.7528418+00:00",
+  "LastChanged_Achievements": "2023-05-22T23:05:05.2818252+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:59.9943101+00:00",
-  "LastUpdate_Ratings": "2023-05-22T21:57:10.1096552+00:00",
-  "LastUpdate_Achievements": "2023-05-22T22:05:04.7528974+00:00"
+  "LastUpdate_Ratings": "2023-05-22T22:57:25.3065959+00:00",
+  "LastUpdate_Achievements": "2023-05-22T23:05:05.2818778+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "6c79fa8a8e2849e58b605f233c20a889",
   "Name": "Feud",
   "ProductSlug": "feud-19b141",
-  "Ranking_EOS_Progress": 230,
+  "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 83,
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 192,
+  "EOS_Progressed": 204,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -74,6 +74,11 @@
       "Time": "2023-05-22T22:02:30.9255952+00:00",
       "NumProgressed": 192,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T23:02:28.9091126+00:00",
+      "NumProgressed": 204,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -91,9 +96,9 @@
       "ID": "AI_DRAW",
       "SetID": "8lhbnh7",
       "Name": "Puppetmaster",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "BOT_DESTROYER",
@@ -109,7 +114,7 @@
       "Name": "Whoops",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "CONQUEROR",
@@ -117,7 +122,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 41
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -163,9 +168,9 @@
       "ID": "FEUD_NOVICE",
       "SetID": "8lhbnh7",
       "Name": "Novice",
-      "Percentage": 21,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 67
     },
     {
       "ID": "GLOVE_SLAP",
@@ -187,9 +192,9 @@
       "ID": "GRASSHOPPER",
       "SetID": "8lhbnh7",
       "Name": "Grasshopper",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 114
     },
     {
       "ID": "GUARD_MAKER",
@@ -211,17 +216,17 @@
       "ID": "KING_MASTERY",
       "SetID": "8lhbnh7",
       "Name": "Clash of Kings",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "KNIGHT_MASTERY",
       "SetID": "8lhbnh7",
       "Name": "Knight Commander",
-      "Percentage": 0.5,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MEDIC_MASTERY",
@@ -260,13 +265,13 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 192,
+      "Progressed": 204,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-05-22T22:02:30.925595+00:00",
+  "LastChanged_Achievements": "2023-05-22T23:02:28.9091122+00:00",
   "LastUpdate_AppInfo": "2023-05-16T13:56:59.1730865+00:00",
-  "LastUpdate_Ratings": "2023-05-22T21:56:48.775019+00:00",
-  "LastUpdate_Achievements": "2023-05-22T22:02:30.9256103+00:00"
+  "LastUpdate_Ratings": "2023-05-22T22:57:06.8942029+00:00",
+  "LastUpdate_Achievements": "2023-05-22T23:02:28.9091276+00:00"
 }

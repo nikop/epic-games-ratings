@@ -6,7 +6,7 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 6.00% | ~43 |
+| Dealmaker | 7.00% | ~50 |
 | Full garage | 6.00% | ~43 |
 | Individual delivery | 5.00% | ~36 |
 | Juggler | 5.00% | ~36 |

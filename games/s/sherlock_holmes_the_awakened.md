@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 68.00% | ~142 |
-| Read Between The Lines | 64.00% | ~134 |
-| High Profile | 60.00% | ~125 |
-| Whispers In The Dark | 57.00% | ~119 |
-| Fond Memories | 51.00% | ~107 |
+| Read Between The Lines | 65.00% | ~136 |
+| High Profile | 61.00% | ~127 |
+| Whispers In The Dark | 58.00% | ~121 |
+| Fond Memories | 52.00% | ~109 |
 | History Check | 49.00% | ~102 |
 | A Method To His Madness | 49.00% | ~102 |
 | The New World | 46.00% | ~96 |
@@ -22,8 +22,8 @@
 | No Man Is An Island | 43.00% | ~90 |
 | At Wits' End | 40.00% | ~84 |
 | Bookworm | 39.00% | ~82 |
+| Up In Flames | 37.00% | ~77 |
 | Fhtagn! | 37.00% | ~77 |
-| Up In Flames | 36.00% | ~75 |
 | Going Once... | 35.00% | ~73 |
 | Brain Food | 35.00% | ~73 |
 | Let Me Be Frank | 33.00% | ~69 |

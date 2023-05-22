@@ -13,8 +13,8 @@
 | Vibing | 61.00% | ~493 |
 | Fun Guy | 61.00% | ~493 |
 | Tragic Brave | 52.00% | ~420 |
+| Little Shop | 49.00% | ~396 |
 | Awakened Spirits | 49.00% | ~396 |
-| Little Shop | 48.00% | ~388 |
 | An Actor! | 44.00% | ~356 |
 | Surprise! | 43.00% | ~347 |
 | Curtain Call | 42.00% | ~339 |
@@ -31,8 +31,8 @@
 | Frog Facts! | 35.00% | ~283 |
 | All That Glistens | 35.00% | ~283 |
 | It's Pointy! | 35.00% | ~283 |
+| All Skilled Up! | 34.00% | ~275 |
 | Spellbound | 33.00% | ~267 |
-| All Skilled Up! | 33.00% | ~267 |
 | Extinct Again! | 32.00% | ~259 |
 | Bird of Prey | 32.00% | ~259 |
 | Stardust | 32.00% | ~259 |
@@ -49,13 +49,13 @@
 | Going Home | 29.00% | ~234 |
 | Mirror, Mirror | 27.00% | ~218 |
 | Flower Power | 25.00% | ~202 |
-| Shopping Spree! | 21.00% | ~170 |
+| Shopping Spree! | 22.00% | ~178 |
 | Crowned | 21.00% | ~170 |
 | Max Level! | 13.00% | ~105 |
 | Dance Master | 8.00% | ~65 |
 | Bombs Away! | 8.00% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 808 (Ranked 173)  
+Progressed: 808 (Ranked 174)  
 Completed: 55 (6.81%) (Ranked 23)  
 ## EOS Players History
 | Date | Progressed | Completed |

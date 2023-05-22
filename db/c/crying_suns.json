@@ -538,9 +538,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 458747,
+  "EOS_Progressed": 458751,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 650,
+  "EOS_NewPlayers": 652,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3523,6 +3523,11 @@
       "Time": "2023-05-22T22:05:30.2615008+00:00",
       "NumProgressed": 458747,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-22T23:05:31.3138288+00:00",
+      "NumProgressed": 458751,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 79,
@@ -4108,9 +4113,9 @@
       "ID": "achievement_win_all_chapers_with_all_bs_dlc_included_hard",
       "SetID": "7plcbc4",
       "Name": "The God of War",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_win_all_chapers_with_phalanx_easy_normal",
@@ -4165,21 +4170,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 2681,
+      "Progressed": 2685,
       "Completed": 2346
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 458747,
+      "Progressed": 458751,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-22T22:05:30.2615004+00:00",
+  "LastChanged_Achievements": "2023-05-22T23:05:31.3138285+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:33.0666845+00:00",
-  "LastUpdate_Ratings": "2023-05-22T21:58:42.6891461+00:00",
-  "LastUpdate_Achievements": "2023-05-22T22:05:30.261622+00:00"
+  "LastUpdate_Ratings": "2023-05-22T22:58:55.0238868+00:00",
+  "LastUpdate_Achievements": "2023-05-22T23:05:31.3139194+00:00"
 }

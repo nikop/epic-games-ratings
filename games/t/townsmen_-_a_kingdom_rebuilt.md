@@ -25,6 +25,7 @@ Number of Ratings: 37  (23.09.2022)
 | A time consuming game II | 5.00% | ~208 |
 | Knee deep in snow | 5.00% | ~208 |
 | Not a small trader anymore | 4.00% | ~166 |
+| I like to build stuff... III | 4.00% | ~166 |
 | The King's new clothes I | 4.00% | ~166 |
 | Builder II | 4.00% | ~166 |
 | Tax-man III | 4.00% | ~166 |
@@ -32,25 +33,24 @@ Number of Ratings: 37  (23.09.2022)
 | Conflicting parties | 4.00% | ~166 |
 | Another one bites the dust | 3.00% | ~125 |
 | Bread for the people II | 3.00% | ~125 |
-| I like to build stuff... III | 3.00% | ~125 |
 | I like to build stuff... IV | 3.00% | ~125 |
 | Experienced decorator | 3.00% | ~125 |
+| My precious... I | 3.00% | ~125 |
 | An honorable Governor II | 3.00% | ~125 |
 | Full-time job III | 3.00% | ~125 |
 | Tax-man IV | 3.00% | ~125 |
 | A time consuming game III | 3.00% | ~125 |
+| Tools of the trade II | 3.00% | ~125 |
 | Bread for the people III | 2.00% | ~83 |
 | Five brews are a schnitzel | 2.00% | ~83 |
 | I like to build stuff... V | 2.00% | ~83 |
 | The King's new clothes II | 2.00% | ~83 |
 | Saint Florian | 2.00% | ~83 |
-| My precious... I | 2.00% | ~83 |
 | My precious... II | 2.00% | ~83 |
 | Cosmas and Damian | 2.00% | ~83 |
 | Builder III | 2.00% | ~83 |
 | Genius | 2.00% | ~83 |
 | A time consuming game IV | 2.00% | ~83 |
-| Tools of the trade II | 2.00% | ~83 |
 | Tools of the trade III | 2.00% | ~83 |
 | Out of the frying pan | 2.00% | ~83 |
 | The Art of War | 1.00% | ~42 |

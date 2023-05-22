@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 341,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -416,9 +416,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 13340,
+  "EOS_Progressed": 13347,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 776,
+  "EOS_NewPlayers": 783,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1221,6 +1221,11 @@
       "Time": "2023-05-22T22:02:33.8361235+00:00",
       "NumProgressed": 13340,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-05-22T23:02:31.7558844+00:00",
+      "NumProgressed": 13347,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 40,
@@ -1246,9 +1251,9 @@
       "ID": "BACKSTAB_BLIND",
       "SetID": "4hj6d86",
       "Name": "Giving Back",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 534
+      "UsersEstimate": 667
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -1270,9 +1275,9 @@
       "ID": "FIND_ALL_BIOS",
       "SetID": "4hj6d86",
       "Name": "Grim Reaper",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 27
+      "UsersEstimate": 40
     },
     {
       "ID": "FINISH_CONTAGION",
@@ -1326,9 +1331,9 @@
       "ID": "FINISH_NEW_GAME_PLUS",
       "SetID": "6j5ggkc",
       "Name": "Parole Denied",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -1342,9 +1347,9 @@
       "ID": "GRP_MELEE_KILL",
       "SetID": "4hj6d86",
       "Name": "In Striking Distance",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 67
     },
     {
       "ID": "KILL_2HEAD",
@@ -1358,9 +1363,9 @@
       "ID": "KILL_MANY_WITH_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Chew \u0027Em Up",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 534
+      "UsersEstimate": 667
     },
     {
       "ID": "KILL_ROBOT",
@@ -1374,9 +1379,9 @@
       "ID": "KILL_WITH_GRP_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Workplace Hazard",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 67
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -1398,9 +1403,9 @@
       "ID": "PRINT_UPGRADE",
       "SetID": "4hj6d86",
       "Name": "Reforged",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 80
     },
     {
       "ID": "PRINT_WEAPON",
@@ -1414,9 +1419,9 @@
       "ID": "SHARE_PHOTO",
       "SetID": "4hj6d86",
       "Name": "Mugshot",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 267
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -1551,13 +1556,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13340,
+      "Progressed": 13347,
       "Completed": 52
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1266,
+      "Progressed": 1273,
       "Completed": 29
     }
   ],
@@ -1565,8 +1570,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-22T19:57:44.0247925+00:00",
-  "LastChanged_Achievements": "2023-05-22T22:02:33.8361231+00:00",
+  "LastChanged_Achievements": "2023-05-22T23:02:31.7558839+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-22T21:57:30.3927493+00:00",
-  "LastUpdate_Achievements": "2023-05-22T22:02:33.8361609+00:00"
+  "LastUpdate_Ratings": "2023-05-22T22:57:44.2933099+00:00",
+  "LastUpdate_Achievements": "2023-05-22T23:02:31.7559163+00:00"
 }

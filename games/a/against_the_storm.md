@@ -21,8 +21,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Trade Baron | 1.00% | ~150 |
 | Homesick | 0.90% | ~135 |
 | Ancient Battleground | 0.90% | ~135 |
+| Sparkdew Crystals | 0.90% | ~135 |
 | Cursed Lands | 0.90% | ~135 |
-| Sparkdew Crystals | 0.80% | ~120 |
 | Levitating Monument | 0.80% | ~120 |
 | Flooded Mines | 0.80% | ~120 |
 | Monastery of the Holy Flame | 0.80% | ~120 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,955 (Ranked 98)  
+Progressed: 14,956 (Ranked 98)  
 Completed: 33 (0.22%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 33 (0.22%) (Ranked 135)
 | 2023-05-19 | 14,897 | 30 |
 | 2023-05-20 | 14,925 | 30 |
 | 2023-05-21 | 14,940 | 32 |
-| 2023-05-22 | 14,955 | 33 |
+| 2023-05-22 | 14,956 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 196)  
 Sum: 3,028 (Ranked 151)  

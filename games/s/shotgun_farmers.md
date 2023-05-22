@@ -16,6 +16,7 @@
 | Grave Digger | 6.00% | ~0 |
 | Quadsparagus | 6.00% | ~0 |
 | First Blood | 4.00% | ~2 |
+| Cornivore | 4.00% | ~2 |
 | Amateur Survivor | 4.00% | ~0 |
 | Pyromaniac | 4.00% | ~0 |
 | Summers Here | 4.00% | ~0 |
@@ -27,7 +28,6 @@
 | No Asperascope | 2.00% | ~1 |
 | 10K | 2.00% | ~1 |
 | Triple Kill | 2.00% | ~1 |
-| Cornivore | 2.00% | ~1 |
 | King of the Crow | 2.00% | ~0 |
 | Berry Loved | 2.00% | ~0 |
 | Carrocket From Above | 2.00% | ~0 |

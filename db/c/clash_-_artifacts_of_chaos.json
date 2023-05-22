@@ -2,9 +2,9 @@
   "ID": "a4b249bd941143158a5f428d2b98d2e9",
   "Name": "Clash - Artifacts of Chaos",
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
-  "Ranking_EOS_Progress": 280,
-  "Ranking_EOS_Completed": 73,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_Progress": 278,
+  "Ranking_EOS_Completed": 75,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 68,
+  "EOS_Progressed": 69,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.47,
+  "EOS_Completed_Percentage": 1.45,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:21.1984631+00:00",
@@ -88,6 +88,11 @@
       "Time": "2023-05-21T15:06:26.9597424+00:00",
       "NumProgressed": 68,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-22T23:05:34.1744736+00:00",
+      "NumProgressed": 69,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -97,7 +102,7 @@
       "ID": "Achievement1",
       "SetID": "jf6ho5",
       "Name": "Freedom",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 35,
       "UsersEstimate": 16
     },
@@ -105,7 +110,7 @@
       "ID": "Achievement10",
       "SetID": "jf6ho5",
       "Name": "The Pride of Moozhaw",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 12
     },
@@ -145,9 +150,9 @@
       "ID": "Achievement15",
       "SetID": "jf6ho5",
       "Name": "Target Practice",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Achievement16",
@@ -161,7 +166,7 @@
       "ID": "Achievement17",
       "SetID": "jf6ho5",
       "Name": "Declawing",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 35,
       "UsersEstimate": 43
     },
@@ -185,7 +190,7 @@
       "ID": "Achievement2",
       "SetID": "jf6ho5",
       "Name": "Winner",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 35,
       "UsersEstimate": 14
     },
@@ -201,7 +206,7 @@
       "ID": "Achievement21",
       "SetID": "jf6ho5",
       "Name": "Stilt House",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -266,7 +271,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 68,
+      "Progressed": 69,
       "Completed": 1
     }
   ],
@@ -274,8 +279,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2023-05-22T22:05:33.3896008+00:00",
+  "LastChanged_Achievements": "2023-05-22T23:05:34.1744732+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:08.2343317+00:00",
-  "LastUpdate_Ratings": "2023-05-22T21:59:35.0994189+00:00",
-  "LastUpdate_Achievements": "2023-05-22T22:05:33.3896164+00:00"
+  "LastUpdate_Ratings": "2023-05-22T22:59:43.3294554+00:00",
+  "LastUpdate_Achievements": "2023-05-22T23:05:34.1744879+00:00"
 }

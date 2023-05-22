@@ -19,7 +19,7 @@ Rating: 4.50 (Ranked 535)
 | Moving up | 41.00% | ~310 |
 | Fine, I'll do it myself | 39.00% | ~294 |
 | No need to call anyone | 38.00% | ~287 |
-| Big fortune | 31.00% | ~234 |
+| Big fortune | 32.00% | ~242 |
 | Still more work ahead | 28.00% | ~211 |
 | Hotel sleuthing | 27.00% | ~204 |
 | Aesop's fable | 26.00% | ~196 |
@@ -34,7 +34,7 @@ Rating: 4.50 (Ranked 535)
 | Top spot in town | 3.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 755 (Ranked 178)  
-Completed: 11 (1.46%) (Ranked 74)  
+Completed: 11 (1.46%) (Ranked 73)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

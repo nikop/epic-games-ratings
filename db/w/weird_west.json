@@ -3,11 +3,11 @@
   "Name": "Weird West: Definitive Edition",
   "ProductSlug": "weird-west-906661",
   "Ranking_Rating": 608,
-  "Ranking_Popularity": 469,
-  "Ranking_PopularitySum": 471,
+  "Ranking_Popularity": 465,
+  "Ranking_PopularitySum": 469,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -299,11 +299,17 @@
       "Rating": 4.45,
       "NumberOfAwards": 23,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2023-05-22T22:58:15.9283452+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 24,
+      "NumberOfAwardsMax": 24
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 23,
-  "NumberOfAwardsMax": 23,
+  "NumberOfAwards": 24,
+  "NumberOfAwardsMax": 24,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
     {
@@ -316,12 +322,12 @@
       "Text": "In this game, your choices Impact the Story",
       "Prefix": "In this game, your choices",
       "Type": "Impact the Story",
-      "Count": 23
+      "Count": 24
     }
   ],
-  "EOS_Progressed": 1533,
+  "EOS_Progressed": 1534,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -579,6 +585,11 @@
       "Time": "2023-05-22T18:05:20.8326003+00:00",
       "NumProgressed": 1533,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-22T23:05:13.1890417+00:00",
+      "NumProgressed": 1534,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -598,7 +609,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -614,7 +625,7 @@
       "Name": "Dishonored",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "ACH_DOG_DAYS",
@@ -670,7 +681,7 @@
       "Name": "Full House",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -734,7 +745,7 @@
       "Name": "Justice Served",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "ACH_LETS_RIDE",
@@ -788,9 +799,9 @@
       "ID": "ACH_MONSTER_HUNTER",
       "SetID": "8j30i9k",
       "Name": "Monster Hunter",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 107
     },
     {
       "ID": "ACH_MOONDRUNK",
@@ -822,7 +833,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -862,7 +873,7 @@
       "Name": "Rain of Death",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "ACH_REVENANT",
@@ -878,7 +889,7 @@
       "Name": "Scholar",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "ACH_SELF_IMPROVEMENT",
@@ -950,7 +961,7 @@
       "Name": "Through Their Eyes",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "ACH_TURNING_THE_TABLES",
@@ -964,9 +975,9 @@
       "ID": "ACH_UNFORGIVEN",
       "SetID": "8j30i9k",
       "Name": "Unforgiven",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 1318
+      "UsersEstimate": 1335
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -974,7 +985,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -1013,15 +1024,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1533,
+      "Progressed": 1534,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
-  "LastChanged": "2023-04-18T11:59:25.595754+00:00",
-  "LastChanged_Achievements": "2023-05-22T22:05:12.3371249+00:00",
+  "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
+  "LastChanged_Achievements": "2023-05-22T23:05:13.1890413+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:00.9656203+00:00",
-  "LastUpdate_Ratings": "2023-05-22T21:58:00.7531997+00:00",
-  "LastUpdate_Achievements": "2023-05-22T22:05:12.3371721+00:00"
+  "LastUpdate_Ratings": "2023-05-22T22:58:15.9283456+00:00",
+  "LastUpdate_Achievements": "2023-05-22T23:05:13.1890878+00:00"
 }

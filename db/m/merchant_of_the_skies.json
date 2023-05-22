@@ -4,7 +4,7 @@
   "ProductSlug": "merchant-of-the-skies",
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 72,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-04-13T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 927,
+  "EOS_Progressed": 928,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.51,
   "EosHistory": [
@@ -49,6 +49,11 @@
       "Time": "2023-05-14T22:04:51.9197791+00:00",
       "NumProgressed": 927,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-22T23:05:04.9776641+00:00",
+      "NumProgressed": 928,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 12,
@@ -60,7 +65,7 @@
       "Name": "Thrifty",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "achievement_botanical",
@@ -76,7 +81,7 @@
       "Name": "Fish Appreciation",
       "Percentage": 9,
       "XP": 150,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "achievement_giants_found",
@@ -84,7 +89,7 @@
       "Name": "Giants",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_got_rich",
@@ -108,7 +113,7 @@
       "Name": "Real Estate",
       "Percentage": 64,
       "XP": 35,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "achievement_lighthouse",
@@ -124,7 +129,7 @@
       "Name": "A man of his word",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 890
+      "UsersEstimate": 891
     },
     {
       "ID": "achievement_ship_bought",
@@ -140,7 +145,7 @@
       "Name": "Energizer",
       "Percentage": 99,
       "XP": 10,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "achievement_too_big_to_fail",
@@ -148,14 +153,14 @@
       "Name": "Too big to fail",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     }
   ],
   "AchievementSets": [
     {
       "ID": "7171fo0",
       "IsBase": true,
-      "Progressed": 927,
+      "Progressed": 928,
       "Completed": 14
     }
   ],
@@ -163,8 +168,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.9474468+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.0879809+00:00",
   "LastChanged": "2023-03-31T05:58:14.9474469+00:00",
-  "LastChanged_Achievements": "2023-05-22T22:05:04.2870871+00:00",
+  "LastChanged_Achievements": "2023-05-22T23:05:04.9776637+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:13.6597981+00:00",
-  "LastUpdate_Ratings": "2023-05-22T21:57:23.2338375+00:00",
-  "LastUpdate_Achievements": "2023-05-22T22:05:04.2870997+00:00"
+  "LastUpdate_Ratings": "2023-05-22T22:57:37.1609924+00:00",
+  "LastUpdate_Achievements": "2023-05-22T23:05:04.9776755+00:00"
 }

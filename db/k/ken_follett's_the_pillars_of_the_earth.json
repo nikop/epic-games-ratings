@@ -471,9 +471,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12625,
+  "EOS_Progressed": 12626,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -2416,6 +2416,11 @@
       "Time": "2023-05-22T22:05:02.453904+00:00",
       "NumProgressed": 12625,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-05-22T23:05:03.0455973+00:00",
+      "NumProgressed": 12626,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 41,
@@ -2523,7 +2528,7 @@
       "Name": "Boy of mystery",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "tpote_achievement_21",
@@ -2595,7 +2600,7 @@
       "Name": "Skilled merchant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1262
+      "UsersEstimate": 1263
     },
     {
       "ID": "tpote_achievement_3",
@@ -2603,7 +2608,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4166
+      "UsersEstimate": 4167
     },
     {
       "ID": "tpote_achievement_30",
@@ -2611,7 +2616,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1262
+      "UsersEstimate": 1263
     },
     {
       "ID": "tpote_achievement_31",
@@ -2619,7 +2624,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2272
+      "UsersEstimate": 2273
     },
     {
       "ID": "tpote_achievement_32",
@@ -2691,7 +2696,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5302
+      "UsersEstimate": 5303
     },
     {
       "ID": "tpote_achievement_40",
@@ -2754,15 +2759,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12625,
+      "Progressed": 12626,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-22T02:59:28.1884217+00:00",
-  "LastChanged_Achievements": "2023-05-22T22:05:02.4539037+00:00",
+  "LastChanged_Achievements": "2023-05-22T23:05:03.0455968+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:09:49.1992061+00:00",
-  "LastUpdate_Ratings": "2023-05-22T21:59:18.395653+00:00",
-  "LastUpdate_Achievements": "2023-05-22T22:05:02.4539428+00:00"
+  "LastUpdate_Ratings": "2023-05-22T22:59:29.8824796+00:00",
+  "LastUpdate_Achievements": "2023-05-22T23:05:03.0456417+00:00"
 }

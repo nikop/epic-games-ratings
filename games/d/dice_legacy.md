@@ -5,7 +5,7 @@ Rating: 4.29 (Ranked 766)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| We made it | 27.00% | ~210 |
+| We made it | 28.00% | ~218 |
 | Manipulating Fate | 6.00% | ~47 |
 | The City | 6.00% | ~47 |
 | Burn and Pillage | 4.00% | ~31 |

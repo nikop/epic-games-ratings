@@ -72,6 +72,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Soldiers of Fortune | 0.10% | ~3 |
 | Hand of the Emperor | 0.10% | ~3 |
 | Savior | 0.10% | ~3 |
+| The God of War | 0.10% | ~3 |
 | Horus Mastery | 0.10% | ~3 |
 | Horus Supremacy | 0.10% | ~3 |
 | Geno Supremacy | 0.00% | ~0 |
@@ -80,13 +81,12 @@ Number of Ratings: 1,003  (23.09.2022)
 | Void Mastery | 0.00% | ~0 |
 | Kaos Mastery | 0.00% | ~0 |
 | Kaos Supremacy | 0.00% | ~0 |
-| The God of War | 0.00% | ~0 |
 | Kronos Mastery | 0.00% | ~0 |
 | Kronos Supremacy | 0.00% | ~0 |
 | Horus Rule | 0.00% | ~0 |
 | Kronos Rule | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458,747 (Ranked 31)  
+Progressed: 458,751 (Ranked 31)  
 Completed: 14 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 14 (0.00%) (Ranked 201)
 | 2023-05-19 | 458,480 | 14 |
 | 2023-05-20 | 458,583 | 14 |
 | 2023-05-21 | 458,680 | 14 |
-| 2023-05-22 | 458,747 | 14 |
+| 2023-05-22 | 458,751 | 14 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 209 (Ranked 349)  

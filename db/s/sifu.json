@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 64,
   "Ranking_EOS_NewPlayers": 40,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4170,9 +4170,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 704642,
+  "EOS_Progressed": 704647,
   "EOS_Completed": 12733,
-  "EOS_NewPlayers": 1686,
+  "EOS_NewPlayers": 1690,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -6795,6 +6795,11 @@
       "Time": "2023-05-22T22:05:27.5349154+00:00",
       "NumProgressed": 704642,
       "NumCompleted": 12733
+    },
+    {
+      "Time": "2023-05-22T23:05:28.5791523+00:00",
+      "NumProgressed": 704647,
+      "NumCompleted": 12733
     }
   ],
   "TotalAchievements": 50,
@@ -6958,7 +6963,7 @@
       "Name": "Stuntmaster",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 4932
+      "UsersEstimate": 4933
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -6974,7 +6979,7 @@
       "Name": "Street Fighting",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 4932
+      "UsersEstimate": 4933
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -7118,7 +7123,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4932
+      "UsersEstimate": 4933
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -7190,7 +7195,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -7205,21 +7210,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 13943,
-      "Completed": 10146
+      "Progressed": 13948,
+      "Completed": 10150
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 704642,
+      "Progressed": 704647,
       "Completed": 12733
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-22T21:58:30.6561942+00:00",
-  "LastChanged_Achievements": "2023-05-22T22:05:27.5349151+00:00",
+  "LastChanged_Achievements": "2023-05-22T23:05:28.5791519+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.7579865+00:00",
-  "LastUpdate_Ratings": "2023-05-22T21:58:30.6561954+00:00",
-  "LastUpdate_Achievements": "2023-05-22T22:05:27.5349717+00:00"
+  "LastUpdate_Ratings": "2023-05-22T22:58:44.1584174+00:00",
+  "LastUpdate_Achievements": "2023-05-22T23:05:28.5792086+00:00"
 }
