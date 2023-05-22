@@ -1,5 +1,6 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
+| [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 2023-05-22 | 2023-05-19 |
 | [Backbeat](games/b/backbeat.md) | 2023-05-22 | 2023-03-16 |
 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 2023-05-22 | 2019-05-21 |
 | [Amnesia: The Bunker](games/a/amnesia__the_bunker.md) | 2023-05-23 | 2023-05-23 |
@@ -19,7 +20,6 @@
 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 2023-05-25 | 2023-05-25 |
 | [Railway Empire 2](games/r/railway_empire_2.md) | 2023-05-25 | 2023-05-25 |
 | [Indoor Kickball](games/i/indoor_kickball.md) | 2023-05-26 | 2023-05-31 |
-| [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 2023-05-26 | 2023-05-19 |
 | [The Shape of Things](games/6/610757afe5b8478f89000d9779c205ef.md) | 2023-05-26 | 2023-05-26 |
 | [Doors - Paradox](games/8/88c17fed155e43068c338d33d1bcd481.md) | 2023-05-26 | 2022-11-03 |
 | [Gardenia](games/g/gardenia.md) | 2023-05-26 | 2023-05-26 |
@@ -100,6 +100,7 @@
 | [Bloxs](games/b/bloxs.md) | 2023-09-30 | 2023-09-30 |
 | [Bucket Knight](games/b/bucket_knight.md) | 2023-09-30 | 2019-09-20 |
 | [Cats Hidden in Italy](games/c/cats_hidden_in_italy.md) | 2023-09-30 | 2023-09-30 |
+| [Dealer's Life 2](games/f/f8764fc7177a4015ad68bcbf0f66297f.md) | 2023-09-30 | 2022-02-15 |
 | [DEVOUR](games/d/devour.md) | 2023-09-30 | 2021-01-29 |
 | [Dolphin Spirit - Ocean Mission](games/d/dolphin_spirit_-_ocean_mission.md) | 2023-09-30 | 2023-09-30 |
 | [Doomsday Paradise](games/d/doomsday_paradise.md) | 2023-09-30 | 2023-09-30 |

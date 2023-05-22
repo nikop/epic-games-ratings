@@ -354,7 +354,7 @@
 | 342 | [NORCO](games/n/norco.md) | 4.62 | 0 | 491 |
 | 342 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 491 |
 | 342 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.62 | 104 | 319 |
-| 342 | [Prey](games/p/prey.md) | 4.62 | 5,549 | 57 |
+| 342 | [Prey](games/p/prey.md) | 4.62 | 5,550 | 57 |
 | 342 | [Road 96](games/r/road_96.md) | 4.62 | 0 | 491 |
 | 342 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 72 | 359 |
 | 358 | [20XX](games/2/20xx.md) | 4.61 | 36 | 421 |
@@ -418,7 +418,7 @@
 | 416 | [Among Us](games/a/among_us.md) | 4.58 | 2,425 | 93 |
 | 416 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.58 | 0 | 491 |
 | 416 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.58 | 0 | 491 |
-| 416 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 7,148 | 44 |
+| 416 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 7,162 | 44 |
 | 416 | [Everything](games/e/everything.md) | 4.58 | 0 | 491 |
 | 416 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 243 | 241 |
 | 416 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 36 | 421 |
@@ -483,7 +483,7 @@
 | 481 | [Aztez](games/a/aztez.md) | 4.54 | 0 | 491 |
 | 481 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 3,706 | 78 |
 | 481 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 33 | 432 |
-| 481 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,068 | 130 |
+| 481 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.54 | 1,072 | 129 |
 | 481 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 33 | 432 |
 | 481 | [RAILGRADE](games/r/railgrade.md) | 4.54 | 87 | 342 |
 | 481 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 89 | 338 |
@@ -657,7 +657,7 @@
 | 647 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 128 | 297 |
 | 647 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.42 | 852 | 144 |
 | 647 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 536 | 179 |
-| 647 | [World of Warships](games/w/world_of_warships.md) | 4.42 | 1,069 | 129 |
+| 647 | [World of Warships](games/w/world_of_warships.md) | 4.42 | 1,069 | 130 |
 | 659 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 0 | 491 |
 | 659 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 0 | 491 |
 | 659 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.41 | 0 | 491 |
