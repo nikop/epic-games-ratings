@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 308,
+  "EOS_Progressed": 309,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -156,6 +156,11 @@
       "Time": "2023-05-22T10:06:23.587228+00:00",
       "NumProgressed": 308,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T12:05:24.1403513+00:00",
+      "NumProgressed": 309,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -181,9 +186,9 @@
       "ID": "ArtifactsCollector",
       "SetID": "82505mn",
       "Name": "Artifact Collector",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 59
+      "UsersEstimate": 56
     },
     {
       "ID": "Assassin",
@@ -223,7 +228,7 @@
       "Name": "Explorer",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "GhostBuster",
@@ -245,9 +250,9 @@
       "ID": "GoblinTales",
       "SetID": "82505mn",
       "Name": "Goblin Tales",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 92
+      "UsersEstimate": 90
     },
     {
       "ID": "Hardboiled",
@@ -343,7 +348,7 @@
       "Name": "Oops",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "OrcMustDie",
@@ -439,7 +444,7 @@
       "Name": "Trio",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "TrapMaster",
@@ -455,7 +460,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Troubleshooter",
@@ -486,7 +491,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 308,
+      "Progressed": 309,
       "Completed": 0
     }
   ],
@@ -494,8 +499,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-05-22T11:06:08.2280125+00:00",
+  "LastChanged_Achievements": "2023-05-22T12:05:24.1403509+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:07.6550194+00:00",
-  "LastUpdate_Ratings": "2023-05-22T10:59:37.1397419+00:00",
-  "LastUpdate_Achievements": "2023-05-22T11:06:08.228042+00:00"
+  "LastUpdate_Ratings": "2023-05-22T11:59:05.5847635+00:00",
+  "LastUpdate_Achievements": "2023-05-22T12:05:24.1403825+00:00"
 }

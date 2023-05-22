@@ -1677,9 +1677,9 @@
       "ID": "10",
       "SetID": "9p3jgda",
       "Name": "EXTRA BOOST",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1039
     },
     {
       "ID": "11",
@@ -1867,8 +1867,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-22T11:01:03.5142737+00:00",
+  "LastChanged_Achievements": "2023-05-22T12:00:16.5054198+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.9291954+00:00",
-  "LastUpdate_Ratings": "2023-05-22T10:58:59.5895259+00:00",
-  "LastUpdate_Achievements": "2023-05-22T11:01:03.5143076+00:00"
+  "LastUpdate_Ratings": "2023-05-22T11:58:35.8257386+00:00",
+  "LastUpdate_Achievements": "2023-05-22T12:00:16.505451+00:00"
 }

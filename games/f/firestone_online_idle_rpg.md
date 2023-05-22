@@ -7,7 +7,7 @@ Rating: 3.75 (Ranked 920)
 | ---- | ---------- | ----- |
 | Victor | 94.00% | ~1,070 |
 | World Map | 80.00% | ~910 |
-| Temple of Eternals | 56.00% | ~637 |
+| Temple of Eternals | 57.00% | ~649 |
 | Prestigious | 53.00% | ~603 |
 | Fellowship Power | 40.00% | ~455 |
 | Guild Power | 24.00% | ~273 |
@@ -20,8 +20,8 @@ Rating: 3.75 (Ranked 920)
 | Full Party | 13.00% | ~148 |
 | Hero inspection | 13.00% | ~148 |
 | Dragon Master | 11.00% | ~125 |
+| Lieutenant | 11.00% | ~125 |
 | Enlightenment | 10.00% | ~114 |
-| Lieutenant | 10.00% | ~114 |
 | Milestone collector | 9.00% | ~102 |
 | Mysterious Rock | 9.00% | ~102 |
 | Natural Talent | 9.00% | ~102 |
@@ -52,11 +52,11 @@ Rating: 3.75 (Ranked 920)
 | Weekly Quest Completionist | 2.00% | ~23 |
 | What lies behind the bush | 2.00% | ~23 |
 | Blueprint Upgrades | 1.00% | ~11 |
+| Four Leaf Clover | 1.00% | ~11 |
 | Lock And Load | 1.00% | ~11 |
 | Sailor | 1.00% | ~11 |
 | Active Member | 0.90% | ~10 |
 | Enchanting skill | 0.90% | ~10 |
-| Four Leaf Clover | 0.90% | ~10 |
 | Crystal Mining | 0.80% | ~9 |
 | The Alchemist | 0.80% | ~9 |
 | Ebony Jungle Liberator | 0.60% | ~7 |

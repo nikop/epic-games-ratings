@@ -2,9 +2,9 @@
   "ID": "weaver",
   "Name": "Rebel Galaxy",
   "ProductSlug": "rebel-galaxy",
-  "Ranking_Rating": 659,
-  "Ranking_Popularity": 440,
-  "Ranking_PopularitySum": 362,
+  "Ranking_Rating": 660,
+  "Ranking_Popularity": 436,
+  "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 312,
@@ -711,18 +711,24 @@
       "Rating": 4.41,
       "NumberOfAwards": 179,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2023-05-22T11:58:13.7166497+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 180,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 179,
-  "NumberOfAwardsMax": 31,
+  "NumberOfAwards": 180,
+  "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 31
+      "Count": 32
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -772,8 +778,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:15.7165478+00:00",
-  "LastChanged": "2023-05-18T18:58:24.922341+00:00",
+  "LastChanged": "2023-05-22T11:58:13.7166495+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:06.240602+00:00",
-  "LastUpdate_Ratings": "2023-05-22T10:58:34.1343468+00:00",
-  "LastUpdate_Achievements": "2023-05-22T11:04:22.1341878+00:00"
+  "LastUpdate_Ratings": "2023-05-22T11:58:13.7166501+00:00",
+  "LastUpdate_Achievements": "2023-05-22T12:03:44.9717997+00:00"
 }

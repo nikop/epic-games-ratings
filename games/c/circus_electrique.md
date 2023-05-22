@@ -17,12 +17,12 @@ Number of Ratings: 22  (23.09.2022)
 | Dirty Dozen | 17.00% | ~69 |
 | Fan Service | 16.00% | ~65 |
 | Lion Tamer | 15.00% | ~61 |
+| King of District 1 | 14.00% | ~57 |
 | Amazing! | 14.00% | ~57 |
 | One More Thing... | 13.00% | ~53 |
 | Lucky Day | 13.00% | ~53 |
 | Bar Brawler | 13.00% | ~53 |
-| King of District 1 | 13.00% | ~53 |
-| Flawless Presentation | 12.00% | ~49 |
+| Flawless Presentation | 13.00% | ~53 |
 | King of District 2 | 11.00% | ~45 |
 | Time Travel! | 10.00% | ~40 |
 | Marketing Manager | 10.00% | ~40 |

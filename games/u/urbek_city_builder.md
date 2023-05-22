@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Small town | 59.00% | ~100 |
+| Small town | 60.00% | ~102 |
 | I like parks | 47.00% | ~80 |
-| The spiritual world... | 25.00% | ~42 |
+| The spiritual world... | 26.00% | ~44 |
+| It is nice to share with friends in the city | 25.00% | ~42 |
 | Sport is good for you | 25.00% | ~42 |
 | The woodcutter | 24.00% | ~41 |
-| It is nice to share with friends in the city | 24.00% | ~41 |
-| I like books | 18.00% | ~31 |
+| I like books | 19.00% | ~32 |
 | I like my life | 17.00% | ~29 |
 | Clean energy | 16.00% | ~27 |
 | Soviet town | 15.00% | ~26 |
 | Bucolic city | 12.00% | ~20 |
 | King of fish | 10.00% | ~17 |
+| I love parks | 10.00% | ~17 |
 | I love books! | 9.00% | ~15 |
-| I love parks | 9.00% | ~15 |
 | What would we do if we can't go out with friends? | 8.00% | ~14 |
 | Food producer | 6.00% | ~10 |
 | Metropolurbek | 6.00% | ~10 |

@@ -1,15 +1,15 @@
 # Rebel Galaxy
 [Store](https://store.epicgames.com/en-US/p/rebel-galaxy)  
 [View Rawdata](../../db/r/rebel_galaxy.json)  
-Rating: 4.41 (Ranked 659)  
+Rating: 4.41 (Ranked 660)  
 Number of Ratings: 774  (23.09.2022)  
 ## Awards
-Max (Extremely Fun): 31  (Ranked 440)  
-Sum: 179 (Ranked 362)  
-Diff (max vs sum): 78  
+Max (Extremely Fun): 32  (Ranked 436)  
+Sum: 180 (Ranked 360)  
+Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
-| This game is Extremely Fun | 31 |
+| This game is Extremely Fun | 32 |
 | This game is Great for Beginners | 27 |
 | This game is Relaxing | 27 |
 | This game has Quickly Understood Controls | 25 |
@@ -102,3 +102,4 @@ Diff (max vs sum): 78
 | 2023-05-07 | 4.41 | - | 30 | 154 |
 | 2023-05-11 | 4.41 | - | 30 | 178 |
 | 2023-05-18 | 4.41 | - | 31 | 179 |
+| 2023-05-22 | 4.41 | - | 32 | 180 |

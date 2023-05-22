@@ -4,7 +4,7 @@
   "ProductSlug": "stellar-interface-d14cc4",
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
@@ -681,9 +681,9 @@
       "ID": "Killed100EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Killing Spree",
-      "Percentage": 33,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Killed10BossesAchievement",
@@ -697,9 +697,9 @@
       "ID": "Killed10EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "First Blood",
-      "Percentage": 67,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Killed20BossesAchievement",
@@ -1135,8 +1135,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-05-22T11:06:18.9779828+00:00",
+  "LastChanged_Achievements": "2023-05-22T12:05:33.6022879+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:23.5441273+00:00",
-  "LastUpdate_Ratings": "2023-05-22T10:58:46.4875761+00:00",
-  "LastUpdate_Achievements": "2023-05-22T11:06:18.978181+00:00"
+  "LastUpdate_Ratings": "2023-05-22T11:58:24.2660343+00:00",
+  "LastUpdate_Achievements": "2023-05-22T12:05:33.6024482+00:00"
 }

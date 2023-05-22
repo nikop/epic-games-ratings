@@ -8,7 +8,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 14.00% | ~1,269 |
 | A Spark | 10.00% | ~906 |
-| Burning City | 9.00% | ~815 |
+| Burning City | 9.00% | ~816 |
 | Mythic Choices | 8.00% | ~725 |
 | Defender's Heart | 8.00% | ~725 |
 | Banner over the Citadel | 7.00% | ~634 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Stay Underground | 1.00% | ~78 |
 | Sarkoris Will Be Green | 1.00% | ~78 |
 | Path of the Demon | 0.90% | ~82 |
-| Abyssal Conspiracy | 0.80% | ~72 |
+| Abyssal Conspiracy | 0.80% | ~73 |
 | The Final Threshold | 0.70% | ~63 |
 | End of Eternal Guard | 0.70% | ~63 |
 | This Wall Won't Fall | 0.70% | ~55 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,061 (Ranked 109)  
+Progressed: 9,063 (Ranked 109)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-19 | 8,921 | 0 |
 | 2023-05-20 | 8,990 | 0 |
 | 2023-05-21 | 9,045 | 0 |
-| 2023-05-22 | 9,061 | 0 |
+| 2023-05-22 | 9,063 | 0 |
 ## Awards
 Max (Character Customization): 1,636  (Ranked 111)  
 Sum: 6,638 (Ranked 110)  

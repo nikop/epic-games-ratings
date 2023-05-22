@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -395,9 +395,9 @@
       "ID": "ACHIEVEMENT_30",
       "SetID": "631ndc2",
       "Name": "King of District 1",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 57
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -451,9 +451,9 @@
       "ID": "ACHIEVEMENT_37",
       "SetID": "631ndc2",
       "Name": "Flawless Presentation",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 53
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -572,8 +572,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-05-22T11:06:00.849737+00:00",
+  "LastChanged_Achievements": "2023-05-22T12:05:18.0674582+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.3315704+00:00",
-  "LastUpdate_Ratings": "2023-05-22T10:58:58.6036507+00:00",
-  "LastUpdate_Achievements": "2023-05-22T11:06:00.8497828+00:00"
+  "LastUpdate_Ratings": "2023-05-22T11:58:35.002846+00:00",
+  "LastUpdate_Achievements": "2023-05-22T12:05:18.0674969+00:00"
 }

@@ -6,25 +6,25 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~16,976 |
-| Thorough | 9.00% | ~15,278 |
-| A thief's beginning | 7.00% | ~11,883 |
-| Tanuki Time | 7.00% | ~11,883 |
-| Disguised | 6.00% | ~10,185 |
-| Jonin | 6.00% | ~10,185 |
-| Rescue Takuma | 6.00% | ~10,185 |
-| Rollin' | 6.00% | ~10,185 |
+| Genin | 10.00% | ~16,977 |
+| Thorough | 9.00% | ~15,279 |
+| A thief's beginning | 7.00% | ~11,884 |
+| Tanuki Time | 7.00% | ~11,884 |
+| Disguised | 6.00% | ~10,186 |
+| Jonin | 6.00% | ~10,186 |
+| Rescue Takuma | 6.00% | ~10,186 |
+| Rollin' | 6.00% | ~10,186 |
 | Chunin | 5.00% | ~8,488 |
 | Happy Planning | 5.00% | ~8,488 |
 | Ice Ice Yuki | 5.00% | ~8,488 |
 | Mugen Unchained | 5.00% | ~8,488 |
 | Stoned Ox | 5.00% | ~8,488 |
 | Yabu | 5.00% | ~8,488 |
-| Flying Rocks | 4.00% | ~6,790 |
-| Okkoto | 4.00% | ~6,790 |
-| Prisoners | 4.00% | ~6,790 |
-| Too Early | 4.00% | ~6,790 |
-| Warzone | 4.00% | ~6,790 |
+| Flying Rocks | 4.00% | ~6,791 |
+| Okkoto | 4.00% | ~6,791 |
+| Prisoners | 4.00% | ~6,791 |
+| Too Early | 4.00% | ~6,791 |
+| Warzone | 4.00% | ~6,791 |
 | Gear up | 3.00% | ~5,093 |
 | Happy little accidents | 3.00% | ~5,093 |
 | Noboru | 3.00% | ~5,093 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~170 |
 | Release the Kraken | 0.10% | ~170 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 169,755 (Ranked 50)  
+Progressed: 169,766 (Ranked 50)  
 Completed: 44 (0.03%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,15 +83,15 @@ Completed: 44 (0.03%) (Ranked 182)
 | 2023-05-19 | 168,927 | 44 |
 | 2023-05-20 | 169,305 | 44 |
 | 2023-05-21 | 169,628 | 44 |
-| 2023-05-22 | 169,755 | 44 |
+| 2023-05-22 | 169,766 | 44 |
 ## Awards
 Max (Great for Beginners): 550  (Ranked 175)  
-Sum: 4,667 (Ranked 126)  
+Sum: 4,668 (Ranked 126)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 550 |
-| This game has Diverse Characters | 519 |
+| This game has Diverse Characters | 520 |
 | This game is Extremely Fun | 515 |
 | This game has Amazing Storytelling | 498 |
 | This game has Amazing Characters | 481 |
@@ -217,3 +217,4 @@ Diff (max vs sum): 49
 | 2023-05-19 | 4.66 | - | 548 | 4,663 |
 | 2023-05-20 | 4.66 | - | 548 | 4,665 |
 | 2023-05-21 | 4.66 | - | 550 | 4,667 |
+| 2023-05-22 | 4.66 | - | 550 | 4,668 |

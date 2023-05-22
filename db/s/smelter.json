@@ -105,9 +105,9 @@
       "ID": "SMELTER_DREINSTEIN",
       "SetID": "1g58k92",
       "Name": "Dr. Dreinstein III",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SMELTER_ELEMENTAL_TOWER",
@@ -361,9 +361,9 @@
       "ID": "SMELTER_ROOPUTER",
       "SetID": "1g58k92",
       "Name": "Final Announcement",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SMELTER_RUINS",
@@ -482,8 +482,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.0584882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:46.9022214+00:00",
   "LastChanged": "2023-03-31T05:58:06.0584883+00:00",
-  "LastChanged_Achievements": "2023-05-22T11:06:00.0019949+00:00",
+  "LastChanged_Achievements": "2023-05-22T12:05:17.4059676+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:13.1695395+00:00",
-  "LastUpdate_Ratings": "2023-05-22T10:58:56.1164837+00:00",
-  "LastUpdate_Achievements": "2023-05-22T11:06:00.0020377+00:00"
+  "LastUpdate_Ratings": "2023-05-22T11:58:33.2641458+00:00",
+  "LastUpdate_Achievements": "2023-05-22T12:05:17.406011+00:00"
 }

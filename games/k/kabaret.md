@@ -38,6 +38,8 @@
 | For The Greater Good | 20.00% | ~2 |
 | I Am Vengeance | 20.00% | ~2 |
 | Sowing The Seeds of Destruction | 20.00% | ~2 |
+| At The End of The World, It's Just Two of Us | 20.00% | ~2 |
+| The World Is Mine, And I Don't Want It | 20.00% | ~2 |
 | Faithful Follower | 10.00% | ~1 |
 | Rebel To God | 10.00% | ~1 |
 | Expert Service | 10.00% | ~1 |
@@ -57,8 +59,6 @@
 | Be Cruel To Be Kind | 10.00% | ~1 |
 | A New Hope | 10.00% | ~1 |
 | I Take The Tiger Upon Myself | 10.00% | ~1 |
-| At The End of The World, It's Just Two of Us | 10.00% | ~1 |
-| The World Is Mine, And I Don't Want It | 10.00% | ~1 |
 | I See The Truth | 0.00% | ~0 |
 | True Devourer | 0.00% | ~0 |
 | Mayang's Song | 0.00% | ~0 |

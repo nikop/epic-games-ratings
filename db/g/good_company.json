@@ -1146,9 +1146,9 @@
       "ID": "ach_campaign_special9",
       "SetID": "8cb3id7",
       "Name": "Bet On Bots: Inspector\u0027s Favorite",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 29
     },
     {
       "ID": "ach_challenge_special1",
@@ -1474,8 +1474,8 @@
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-05-22T11:06:06.3036121+00:00",
+  "LastChanged_Achievements": "2023-05-22T12:05:22.4958833+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:17.17846+00:00",
-  "LastUpdate_Ratings": "2023-05-22T10:58:59.7418301+00:00",
-  "LastUpdate_Achievements": "2023-05-22T11:06:06.3036976+00:00"
+  "LastUpdate_Ratings": "2023-05-22T11:58:35.9480104+00:00",
+  "LastUpdate_Achievements": "2023-05-22T12:05:22.4959679+00:00"
 }

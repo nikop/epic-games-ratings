@@ -400,9 +400,9 @@
       "ID": "CULTURE_1",
       "SetID": "44dlcg0",
       "Name": "I like books",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "CULTURE_2",
@@ -472,9 +472,9 @@
       "ID": "FAITH_1",
       "SetID": "44dlcg0",
       "Name": "The spiritual world...",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "FAITH_2",
@@ -592,9 +592,9 @@
       "ID": "GREEN_AREAS_2",
       "SetID": "44dlcg0",
       "Name": "I love parks",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "GREEN_AREAS_3",
@@ -640,9 +640,9 @@
       "ID": "NIGHT_LIFE_1",
       "SetID": "44dlcg0",
       "Name": "It is nice to share with friends in the city",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -688,9 +688,9 @@
       "ID": "POPULATION_1",
       "SetID": "44dlcg0",
       "Name": "Small town",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 102
     },
     {
       "ID": "POPULATION_2",
@@ -897,8 +897,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-05-22T11:06:03.0910727+00:00",
+  "LastChanged_Achievements": "2023-05-22T12:05:19.6824527+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:08.225759+00:00",
-  "LastUpdate_Ratings": "2023-05-22T10:58:52.0508044+00:00",
-  "LastUpdate_Achievements": "2023-05-22T11:06:03.0911599+00:00"
+  "LastUpdate_Ratings": "2023-05-22T11:58:28.2747846+00:00",
+  "LastUpdate_Achievements": "2023-05-22T12:05:19.6825266+00:00"
 }

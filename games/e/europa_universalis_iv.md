@@ -1,25 +1,25 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.68 (Ranked 238)  
+Rating: 4.68 (Ranked 237)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,751 |
-| That's a Grand Army | 8.00% | ~3,334 |
-| That is mine! | 8.00% | ~3,334 |
-| Victorious! | 8.00% | ~3,334 |
-| Brothers in Arms | 6.00% | ~2,501 |
-| That's a Grand Navy | 6.00% | ~2,501 |
-| Seriously?! | 6.00% | ~2,501 |
-| For the Glory | 5.00% | ~2,084 |
-| Cold War | 4.00% | ~1,667 |
-| True Catholic | 4.00% | ~1,667 |
-| Defender of the Faith | 3.00% | ~1,250 |
-| It's all about the money | 3.00% | ~1,250 |
-| Respected | 3.00% | ~1,250 |
-| Truly Divine Ruler | 3.00% | ~1,250 |
+| Until death do us apart | 9.00% | ~3,753 |
+| That's a Grand Army | 8.00% | ~3,336 |
+| That is mine! | 8.00% | ~3,336 |
+| Victorious! | 8.00% | ~3,336 |
+| Brothers in Arms | 6.00% | ~2,502 |
+| That's a Grand Navy | 6.00% | ~2,502 |
+| Seriously?! | 6.00% | ~2,502 |
+| For the Glory | 5.00% | ~2,085 |
+| Cold War | 4.00% | ~1,668 |
+| True Catholic | 4.00% | ~1,668 |
+| Defender of the Faith | 3.00% | ~1,251 |
+| It's all about the money | 3.00% | ~1,251 |
+| Respected | 3.00% | ~1,251 |
+| Truly Divine Ruler | 3.00% | ~1,251 |
 | Blockader | 2.00% | ~834 |
 | Combined Arms | 2.00% | ~834 |
 | Double the Love | 2.00% | ~834 |
@@ -38,10 +38,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~417 |
 | My armies are invincible! | 1.00% | ~417 |
 | The Five Colonies | 0.90% | ~375 |
-| The Emperors new clothes | 0.80% | ~333 |
-| Isn't this the way to India? | 0.80% | ~333 |
-| Market Control | 0.80% | ~333 |
-| This navy can take it all | 0.80% | ~333 |
+| The Emperors new clothes | 0.80% | ~334 |
+| Isn't this the way to India? | 0.80% | ~334 |
+| Market Control | 0.80% | ~334 |
+| This navy can take it all | 0.80% | ~334 |
 | Down Under | 0.70% | ~292 |
 | Electable! | 0.60% | ~250 |
 | Time Bandit | 0.60% | ~250 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 41,676 (Ranked 80)  
+Progressed: 41,700 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -393,10 +393,10 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-19 | 39,979 | 0 |
 | 2023-05-20 | 40,736 | 0 |
 | 2023-05-21 | 41,525 | 0 |
-| 2023-05-22 | 41,676 | 0 |
+| 2023-05-22 | 41,700 | 0 |
 ## Awards
 Max (Educational): 5,264  (Ranked 60)  
-Sum: 43,604 (Ranked 27)  
+Sum: 43,610 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -407,7 +407,7 @@ Diff (max vs sum): 33
 | This game has Diverse Characters | 4,963 |
 | This game is Relaxing | 4,904 |
 | This game has Competitive Players | 4,735 |
-| This game has Amazing Storytelling | 4,492 |
+| This game has Amazing Storytelling | 4,498 |
 | This game has Amazing Characters | 4,155 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -538,4 +538,4 @@ Diff (max vs sum): 33
 | 2023-05-19 | 4.68 | - | 5,242 | 43,472 |
 | 2023-05-20 | 4.68 | - | 5,255 | 43,550 |
 | 2023-05-21 | 4.68 | - | 5,264 | 43,591 |
-| 2023-05-22 | 4.68 | - | 5,264 | 43,604 |
+| 2023-05-22 | 4.68 | - | 5,264 | 43,610 |

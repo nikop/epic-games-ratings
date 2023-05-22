@@ -19,14 +19,14 @@
 | A New Strategy | 18.00% | ~6 |
 | Isn't It Beautiful? | 15.00% | ~5 |
 | A Generous Leader | 15.00% | ~5 |
+| Final Announcement | 15.00% | ~5 |
 | A Terrible Way to Go | 15.00% | ~5 |
 | My Precious Gems! | 12.00% | ~4 |
-| Final Announcement | 12.00% | ~4 |
+| Dr. Dreinstein III | 12.00% | ~4 |
 | How Do You Like Them Apples? | 12.00% | ~4 |
 | Gotta Collect Them All | 9.00% | ~3 |
 | Keeping Things Tidy | 9.00% | ~3 |
 | Scheming Away | 9.00% | ~3 |
-| Dr. Dreinstein III | 9.00% | ~3 |
 | Eremagu Trial Extraordinaire | 9.00% | ~3 |
 | Scour the Eremagu Domain | 9.00% | ~3 |
 | An Electrifying Personality | 9.00% | ~3 |

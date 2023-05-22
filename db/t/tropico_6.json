@@ -2,12 +2,12 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 257,
+  "Ranking_Rating": 256,
   "Ranking_Popularity": 319,
   "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -852,9 +852,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 3015,
+  "EOS_Progressed": 3016,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2572,6 +2572,11 @@
       "Time": "2023-05-22T11:06:15.1115473+00:00",
       "NumProgressed": 3015,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-22T12:05:30.0691685+00:00",
+      "NumProgressed": 3016,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2655,7 +2660,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -2839,7 +2844,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 1477
+      "UsersEstimate": 1478
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -2902,15 +2907,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3015,
+      "Progressed": 3016,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-15T17:00:44.7999652+00:00",
-  "LastChanged_Achievements": "2023-05-22T11:06:15.1115467+00:00",
+  "LastChanged_Achievements": "2023-05-22T12:05:30.0691681+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:57.2781106+00:00",
-  "LastUpdate_Ratings": "2023-05-22T11:00:15.8159594+00:00",
-  "LastUpdate_Achievements": "2023-05-22T11:06:15.1115903+00:00"
+  "LastUpdate_Ratings": "2023-05-22T11:59:36.7374285+00:00",
+  "LastUpdate_Achievements": "2023-05-22T12:05:30.0692053+00:00"
 }

@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 118,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
@@ -774,9 +774,9 @@
       "ID": "ETUA_WhatHaveIDone",
       "SetID": "65jc0ap",
       "Name": "What have I done!?",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     }
   ],
   "AchievementSets": [
@@ -791,8 +791,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-05-22T11:02:26.8083181+00:00",
+  "LastChanged_Achievements": "2023-05-22T12:00:35.6551194+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:00.9346953+00:00",
-  "LastUpdate_Ratings": "2023-05-22T10:57:10.5276002+00:00",
-  "LastUpdate_Achievements": "2023-05-22T11:02:26.8083514+00:00"
+  "LastUpdate_Ratings": "2023-05-22T11:57:04.5234216+00:00",
+  "LastUpdate_Achievements": "2023-05-22T12:00:35.6551666+00:00"
 }

@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 67.00% | ~6 |
-| Killing Spree | 33.00% | ~3 |
+| First Blood | 78.00% | ~7 |
+| Killing Spree | 44.00% | ~4 |
 | 5Gb HDD | 22.00% | ~2 |
 | The Vette | 11.00% | ~1 |
 | Food Poisoning | 11.00% | ~1 |

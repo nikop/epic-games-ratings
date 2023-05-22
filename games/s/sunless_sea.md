@@ -26,9 +26,9 @@ Number of Ratings: 401  (23.09.2022)
 | Sink Beneath the Waves. Again. | 5.00% | ~1,484 |
 | Zee Fever | 5.00% | ~1,484 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,187 |
-| Storm's Curse | 3.00% | ~890 |
-| We're Gonna Need a Bigger Boat | 3.00% | ~890 |
-| Come Closer | 3.00% | ~890 |
+| Storm's Curse | 3.00% | ~891 |
+| We're Gonna Need a Bigger Boat | 3.00% | ~891 |
+| Come Closer | 3.00% | ~891 |
 | Roaring Rise | 2.00% | ~594 |
 | I am the Captain of my Soul | 2.00% | ~594 |
 | A buoyant escape | 1.00% | ~297 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~30 |
 | Ten Years at Zee | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,683 (Ranked 85)  
+Progressed: 29,684 (Ranked 85)  
 Completed: 3 (0.01%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 3 (0.01%) (Ranked 193)
 | 2023-05-19 | 29,456 | 3 |
 | 2023-05-20 | 29,550 | 3 |
 | 2023-05-21 | 29,654 | 3 |
-| 2023-05-22 | 29,683 | 3 |
+| 2023-05-22 | 29,684 | 3 |
 ## Awards
 Max (Character Customization): 208  (Ranked 256)  
 Sum: 277 (Ranked 329)  
