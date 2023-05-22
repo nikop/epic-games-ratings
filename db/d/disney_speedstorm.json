@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2530,
+  "EOS_Progressed": 2531,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1645,6 +1645,11 @@
       "Time": "2023-05-21T23:01:08.0776209+00:00",
       "NumProgressed": 2530,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T03:00:08.3140385+00:00",
+      "NumProgressed": 2531,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1696,7 +1701,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "15",
@@ -1776,7 +1781,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "24",
@@ -1784,7 +1789,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "3",
@@ -1792,7 +1797,7 @@
       "Name": "FRIENDLY",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "4",
@@ -1800,7 +1805,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "5",
@@ -1816,7 +1821,7 @@
       "Name": "PRO",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "7",
@@ -1847,13 +1852,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2530,
+      "Progressed": 2531,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-22T02:06:22.7126433+00:00",
+  "LastChanged_Achievements": "2023-05-22T03:00:08.3140372+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.9291954+00:00",
-  "LastUpdate_Ratings": "2023-05-22T02:04:55.8007372+00:00",
-  "LastUpdate_Achievements": "2023-05-22T02:06:22.7127273+00:00"
+  "LastUpdate_Ratings": "2023-05-22T02:58:37.1125658+00:00",
+  "LastUpdate_Achievements": "2023-05-22T03:00:08.3140982+00:00"
 }

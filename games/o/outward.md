@@ -6,30 +6,30 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 74.00% | ~1,844 |
-| Ready for Winter | 63.00% | ~1,570 |
-| Ready for Summer | 51.00% | ~1,271 |
-| Cordon Bleu | 43.00% | ~1,072 |
-| Tapped! | 35.00% | ~872 |
-| Eureka | 31.00% | ~773 |
-| Scourge Slayer | 25.00% | ~623 |
-| Science, Troglodyte! | 23.00% | ~573 |
-| Exceptional Skill | 22.00% | ~548 |
-| Home Sweet Home | 22.00% | ~548 |
-| Encyclopedic! | 20.00% | ~498 |
-| A Fortress Toppled! | 16.00% | ~399 |
-| Apex Predator | 15.00% | ~374 |
-| The Power of Family | 15.00% | ~374 |
-| Strange amalgams | 12.00% | ~299 |
-| The Power of Faith | 12.00% | ~299 |
-| The Power of Freedom | 9.00% | ~224 |
-| Ace Detective | 8.00% | ~199 |
-| Gift from the Ancestors | 8.00% | ~199 |
-| Magic is a science | 8.00% | ~199 |
-| House of Cards | 7.00% | ~174 |
-| Let ‘em eat magma! | 7.00% | ~174 |
-| The power of ambition | 7.00% | ~174 |
-| The stuff of legends. | 7.00% | ~174 |
+| Venture Outward | 74.00% | ~1,848 |
+| Ready for Winter | 63.00% | ~1,573 |
+| Ready for Summer | 51.00% | ~1,273 |
+| Cordon Bleu | 43.00% | ~1,074 |
+| Tapped! | 35.00% | ~874 |
+| Eureka | 31.00% | ~774 |
+| Scourge Slayer | 25.00% | ~624 |
+| Science, Troglodyte! | 23.00% | ~574 |
+| Exceptional Skill | 22.00% | ~549 |
+| Home Sweet Home | 22.00% | ~549 |
+| Encyclopedic! | 20.00% | ~499 |
+| A Fortress Toppled! | 16.00% | ~400 |
+| Apex Predator | 15.00% | ~375 |
+| The Power of Family | 15.00% | ~375 |
+| Strange amalgams | 12.00% | ~300 |
+| The Power of Faith | 12.00% | ~300 |
+| The Power of Freedom | 9.00% | ~225 |
+| Ace Detective | 8.00% | ~200 |
+| Gift from the Ancestors | 8.00% | ~200 |
+| Magic is a science | 8.00% | ~200 |
+| House of Cards | 7.00% | ~175 |
+| Let ‘em eat magma! | 7.00% | ~175 |
+| The power of ambition | 7.00% | ~175 |
+| The stuff of legends. | 7.00% | ~175 |
 | Blood and justice | 6.00% | ~150 |
 | Hold my Mead and Watch This | 6.00% | ~150 |
 | Ancestor's Pride | 5.00% | ~125 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.40% | ~10 |
 | The Absolute Pinnacle. | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,492 (Ranked 140)  
+Progressed: 2,497 (Ranked 140)  
 Completed: 1 (0.04%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 1 (0.04%) (Ranked 177)
 | 2023-05-19 | 2,424 | 1 |
 | 2023-05-20 | 2,454 | 1 |
 | 2023-05-21 | 2,488 | 1 |
-| 2023-05-22 | 2,492 | 1 |
+| 2023-05-22 | 2,497 | 1 |
 ## Awards
 Max (Amazing Characters): 31  (Ranked 440)  
 Sum: 238 (Ranked 342)  

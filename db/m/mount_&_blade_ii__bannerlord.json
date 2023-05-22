@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -4197,9 +4197,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 50579,
+  "EOS_Progressed": 50582,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 709,
+  "EOS_NewPlayers": 712,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7142,6 +7142,11 @@
       "Time": "2023-05-22T02:11:54.911087+00:00",
       "NumProgressed": 50579,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T03:05:37.6598247+00:00",
+      "NumProgressed": 50582,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -7161,7 +7166,7 @@
       "Name": "Apple of my eye",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 6575
+      "UsersEstimate": 6576
     },
     {
       "ID": "Bannerlord",
@@ -7233,7 +7238,7 @@
       "Name": "Duelist",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4046
+      "UsersEstimate": 4047
     },
     {
       "ID": "Dynasty",
@@ -7241,7 +7246,7 @@
       "Name": "Dynasty",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 4046
+      "UsersEstimate": 4047
     },
     {
       "ID": "Entrepreneur",
@@ -7281,7 +7286,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6069
+      "UsersEstimate": 6070
     },
     {
       "ID": "Great Granny",
@@ -7329,7 +7334,7 @@
       "Name": "I spit on your grave",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4046
+      "UsersEstimate": 4047
     },
     {
       "ID": "Jack of All Trades",
@@ -7377,7 +7382,7 @@
       "Name": "Landlord",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 15174
+      "UsersEstimate": 15175
     },
     {
       "ID": "Lawbringer",
@@ -7385,7 +7390,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 17703
+      "UsersEstimate": 17704
     },
     {
       "ID": "Lawmaker",
@@ -7553,22 +7558,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 4046
+      "UsersEstimate": 4047
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 50579,
+      "Progressed": 50582,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-05-22T02:05:35.2599751+00:00",
-  "LastChanged_Achievements": "2023-05-22T02:11:54.911086+00:00",
+  "LastChanged_Achievements": "2023-05-22T03:05:37.6598242+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:05:00.2672545+00:00",
-  "LastUpdate_Ratings": "2023-05-22T02:05:35.2599761+00:00",
-  "LastUpdate_Achievements": "2023-05-22T02:11:54.9111496+00:00"
+  "LastUpdate_Ratings": "2023-05-22T02:59:16.5638533+00:00",
+  "LastUpdate_Achievements": "2023-05-22T03:05:37.659882+00:00"
 }

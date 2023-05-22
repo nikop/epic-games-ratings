@@ -25,22 +25,22 @@ Rating: 4.40 (Ranked 674)
 | The Kraken Sleeps | 1.00% | ~11 |
 | Gunslinger | 0.90% | ~10 |
 | Precision Is Key | 0.90% | ~10 |
+| Snake in the Grass | 0.90% | ~10 |
 | Liberté | 0.80% | ~9 |
 | Sharpshooter | 0.80% | ~9 |
 | The Long Game | 0.80% | ~9 |
-| Snake in the Grass | 0.80% | ~9 |
 | Skirmisher | 0.70% | ~8 |
 | Der Geist | 0.70% | ~8 |
 | Climbing the Ladder | 0.60% | ~7 |
+| Fields of Glory | 0.60% | ~7 |
 | Set Europe Ablaze | 0.60% | ~7 |
-| Fields of Glory | 0.50% | ~6 |
-| Strategist | 0.40% | ~5 |
 | Rigged to Blow | 0.40% | ~5 |
 | It'll Buff Right Out | 0.40% | ~5 |
 | Brains of the Operation | 0.40% | ~5 |
-| Shoot for the Moon | 0.40% | ~5 |
 | No Stone Unturned | 0.30% | ~3 |
+| Strategist | 0.30% | ~3 |
 | Don't hold your breath | 0.30% | ~3 |
+| Shoot for the Moon | 0.30% | ~3 |
 | Herr Today, Gone Tomorrow | 0.30% | ~3 |
 | Operation Foxley | 0.30% | ~3 |
 | Last Resort | 0.30% | ~3 |
@@ -77,8 +77,8 @@ Rating: 4.40 (Ranked 674)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,140 (Ranked 160)  
-Completed: 2 (0.18%) (Ranked 143)  
+Progressed: 1,145 (Ranked 160)  
+Completed: 2 (0.17%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -108,7 +108,7 @@ Completed: 2 (0.18%) (Ranked 143)
 | 2023-05-19 | 833 | 2 |
 | 2023-05-20 | 984 | 2 |
 | 2023-05-21 | 1,126 | 2 |
-| 2023-05-22 | 1,140 | 2 |
+| 2023-05-22 | 1,145 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

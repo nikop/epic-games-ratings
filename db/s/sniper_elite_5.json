@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 160,
-  "Ranking_EOS_Completed": 143,
+  "Ranking_EOS_Completed": 144,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -182,11 +182,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1140,
+  "EOS_Progressed": 1145,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 422,
+  "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.18,
+  "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:23.1376838+00:00",
@@ -967,6 +967,11 @@
       "Time": "2023-05-22T02:11:28.3863807+00:00",
       "NumProgressed": 1140,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-22T03:05:11.3786044+00:00",
+      "NumProgressed": 1145,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1024,9 +1029,9 @@
       "ID": "REWARD_16_FIELDS_OF_GLORY",
       "SetID": "bm6el81",
       "Name": "Fields of Glory",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -1048,9 +1053,9 @@
       "ID": "REWARD_19_STRATEGIST",
       "SetID": "bm6el81",
       "Name": "Strategist",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_1_MEETING_RESISTANCE",
@@ -1240,9 +1245,9 @@
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
       "SetID": "bm6el81",
       "Name": "Snake in the Grass",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -1376,9 +1381,9 @@
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
       "SetID": "bm6el81",
       "Name": "Shoot for the Moon",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
@@ -1545,13 +1550,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1091,
+      "Progressed": 1096,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1140,
+      "Progressed": 1145,
       "Completed": 2
     }
   ],
@@ -1559,8 +1564,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-21T20:01:20.196422+00:00",
-  "LastChanged_Achievements": "2023-05-22T02:11:28.3863801+00:00",
+  "LastChanged_Achievements": "2023-05-22T03:05:11.378604+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-22T02:06:15.444748+00:00",
-  "LastUpdate_Achievements": "2023-05-22T02:11:28.3864548+00:00"
+  "LastUpdate_Ratings": "2023-05-22T02:59:58.4045566+00:00",
+  "LastUpdate_Achievements": "2023-05-22T03:05:11.3786811+00:00"
 }

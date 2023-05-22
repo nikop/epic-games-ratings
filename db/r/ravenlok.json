@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 786,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 6.74,
   "EosHistory": [
@@ -1591,17 +1591,17 @@
       "ID": "14",
       "SetID": "d0g98p",
       "Name": "Bird of Prey",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 244
+      "UsersEstimate": 252
     },
     {
       "ID": "15",
       "SetID": "d0g98p",
       "Name": "Pull the Plug",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 228
+      "UsersEstimate": 236
     },
     {
       "ID": "16",
@@ -1647,9 +1647,9 @@
       "ID": "20",
       "SetID": "d0g98p",
       "Name": "Stardust",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 244
+      "UsersEstimate": 252
     },
     {
       "ID": "21",
@@ -1671,9 +1671,9 @@
       "ID": "23",
       "SetID": "d0g98p",
       "Name": "All Heart",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 228
+      "UsersEstimate": 236
     },
     {
       "ID": "24",
@@ -1791,9 +1791,9 @@
       "ID": "37",
       "SetID": "d0g98p",
       "Name": "Stronger!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 275
+      "UsersEstimate": 283
     },
     {
       "ID": "38",
@@ -1855,9 +1855,9 @@
       "ID": "44",
       "SetID": "d0g98p",
       "Name": "It\u0027s Pointy!",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 275
     },
     {
       "ID": "45",
@@ -1960,8 +1960,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-22T02:11:21.7781349+00:00",
+  "LastChanged_Achievements": "2023-05-22T03:04:54.9388759+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:59.9943101+00:00",
-  "LastUpdate_Ratings": "2023-05-22T02:03:35.3998916+00:00",
-  "LastUpdate_Achievements": "2023-05-22T02:11:21.778191+00:00"
+  "LastUpdate_Ratings": "2023-05-22T02:57:17.637232+00:00",
+  "LastUpdate_Achievements": "2023-05-22T03:04:54.9389273+00:00"
 }

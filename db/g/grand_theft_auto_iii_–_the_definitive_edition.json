@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 122,
-  "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_Completed": 106,
+  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5162,
+  "EOS_Progressed": 5167,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 254,
+  "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -1523,6 +1523,11 @@
       "Time": "2023-05-22T02:06:35.4018568+00:00",
       "NumProgressed": 5162,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-22T03:00:20.8990332+00:00",
+      "NumProgressed": 5167,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -1534,7 +1539,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4284
+      "UsersEstimate": 4289
     },
     {
       "ID": "ACH02",
@@ -1542,7 +1547,7 @@
       "Name": "Without a Scratch",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 1652
+      "UsersEstimate": 1653
     },
     {
       "ID": "ACH03",
@@ -1558,7 +1563,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 1858
+      "UsersEstimate": 1860
     },
     {
       "ID": "ACH05",
@@ -1590,7 +1595,7 @@
       "Name": "Got This Figured Out",
       "Percentage": 0.9,
       "XP": 45,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH09",
@@ -1606,7 +1611,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1394
+      "UsersEstimate": 1395
     },
     {
       "ID": "ACH11",
@@ -1638,7 +1643,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 826
+      "UsersEstimate": 827
     },
     {
       "ID": "ACH15",
@@ -1646,7 +1651,7 @@
       "Name": "Full Artillery",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACH16",
@@ -1654,7 +1659,7 @@
       "Name": "A Marked Man",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1239
+      "UsersEstimate": 1240
     },
     {
       "ID": "ACH17",
@@ -1662,7 +1667,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "ACH18",
@@ -1686,7 +1691,7 @@
       "Name": "Man Toyz",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH21",
@@ -1765,7 +1770,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 5162,
+      "Progressed": 5167,
       "Completed": 26
     }
   ],
@@ -1773,8 +1778,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-12T16:57:58.7220785+00:00",
-  "LastChanged_Achievements": "2023-05-22T02:06:35.4018562+00:00",
+  "LastChanged_Achievements": "2023-05-22T03:00:20.8990325+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:31.8748782+00:00",
-  "LastUpdate_Ratings": "2023-05-22T02:04:00.7007155+00:00",
-  "LastUpdate_Achievements": "2023-05-22T02:06:35.4018998+00:00"
+  "LastUpdate_Ratings": "2023-05-22T02:57:44.0277423+00:00",
+  "LastUpdate_Achievements": "2023-05-22T03:00:20.8990661+00:00"
 }

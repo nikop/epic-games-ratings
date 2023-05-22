@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -100,7 +100,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1597,
+  "EOS_Progressed": 1598,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
@@ -1435,6 +1435,11 @@
       "Time": "2023-05-22T02:11:33.7088011+00:00",
       "NumProgressed": 1597,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T03:05:16.9181333+00:00",
+      "NumProgressed": 1598,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1462,7 +1467,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 990
+      "UsersEstimate": 991
     },
     {
       "ID": "Achievement_004",
@@ -1494,7 +1499,7 @@
       "Name": "Blood Will Have Blood",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "Achievement_009",
@@ -1502,7 +1507,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "Achievement_010",
@@ -1566,7 +1571,7 @@
       "Name": "Bad Wiring",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "Achievement_018",
@@ -1630,15 +1635,15 @@
       "Name": "Grounded",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "Achievement_026",
       "SetID": "6b34g18",
       "Name": "Fly Fisher",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 575
+      "UsersEstimate": 559
     },
     {
       "ID": "Achievement_027",
@@ -1694,7 +1699,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "Achievement_034",
@@ -1966,14 +1971,14 @@
       "Name": "I Spit On Your Grave",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     }
   ],
   "AchievementSets": [
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1597,
+      "Progressed": 1598,
       "Completed": 0
     }
   ],
@@ -1981,8 +1986,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-21T03:57:51.8415336+00:00",
-  "LastChanged_Achievements": "2023-05-22T02:11:33.7088+00:00",
+  "LastChanged_Achievements": "2023-05-22T03:05:16.918133+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:23.3271568+00:00",
-  "LastUpdate_Ratings": "2023-05-22T02:03:55.2227644+00:00",
-  "LastUpdate_Achievements": "2023-05-22T02:11:33.7088822+00:00"
+  "LastUpdate_Ratings": "2023-05-22T02:57:38.6280362+00:00",
+  "LastUpdate_Achievements": "2023-05-22T03:05:16.9182122+00:00"
 }

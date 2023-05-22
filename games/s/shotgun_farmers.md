@@ -8,9 +8,9 @@
 | Survivor | 15.00% | ~1 |
 | Bouncemato | 11.00% | ~0 |
 | Early Survivor | 11.00% | ~0 |
+| Seeds of War | 9.00% | ~5 |
 | Quick-Draw Pod | 9.00% | ~0 |
 | No Diggity | 9.00% | ~0 |
-| Seeds of War | 7.00% | ~4 |
 | Oh My Gourd | 6.00% | ~0 |
 | Perfect | 6.00% | ~0 |
 | Grave Digger | 6.00% | ~0 |

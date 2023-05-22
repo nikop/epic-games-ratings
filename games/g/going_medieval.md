@@ -6,30 +6,30 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 68.00% | ~1,824 |
+| Get A Room | 68.00% | ~1,825 |
 | Having A Field Day | 66.00% | ~1,771 |
-| Reap What You Sow | 64.00% | ~1,717 |
-| Green Thumb | 63.00% | ~1,690 |
+| Reap What You Sow | 64.00% | ~1,718 |
+| Green Thumb | 63.00% | ~1,691 |
 | The First Day | 60.00% | ~1,610 |
-| Novice Researcher | 56.00% | ~1,502 |
+| Novice Researcher | 56.00% | ~1,503 |
 | Putting Food on the Table | 55.00% | ~1,476 |
 | Onward | 50.00% | ~1,342 |
 | The First Week | 47.00% | ~1,261 |
 | Studious Researcher | 47.00% | ~1,261 |
-| Feast or Famine | 46.00% | ~1,234 |
-| Adept Researcher | 45.00% | ~1,207 |
+| Feast or Famine | 46.00% | ~1,235 |
+| Adept Researcher | 45.00% | ~1,208 |
 | Beam Me Up | 44.00% | ~1,181 |
 | Home Cooked Meal | 43.00% | ~1,154 |
 | Luminary Researcher | 41.00% | ~1,100 |
 | Retribution | 35.00% | ~939 |
 | ...And Don’t Come Back! | 35.00% | ~939 |
-| Fit For A King | 34.00% | ~912 |
+| Fit For A King | 34.00% | ~913 |
 | Heating Up | 23.00% | ~617 |
 | Winter Is Coming | 20.00% | ~537 |
 | Winter Is Here | 18.00% | ~483 |
 | Oh Deer! | 16.00% | ~429 |
 | All Year Round | 16.00% | ~429 |
-| A Party Now | 15.00% | ~402 |
+| A Party Now | 15.00% | ~403 |
 | Disassembled | 13.00% | ~349 |
 | Deerly Departed | 11.00% | ~295 |
 | Nothing Wasted | 10.00% | ~268 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~54 |
 | Wabbit Season | 0.90% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,683 (Ranked 136)  
+Progressed: 2,684 (Ranked 136)  
 Completed: 6 (0.22%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -49,6 +49,7 @@ Completed: 6 (0.22%) (Ranked 135)
 | 2023-05-19 | 2,665 | 6 |
 | 2023-05-20 | 2,674 | 6 |
 | 2023-05-21 | 2,683 | 6 |
+| 2023-05-22 | 2,684 | 6 |
 ## Awards
 Max (Relaxing): 118  (Ranked 306)  
 Sum: 928 (Ranked 235)  

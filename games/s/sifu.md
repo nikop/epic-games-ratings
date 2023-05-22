@@ -6,23 +6,23 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~549 |
+| Diligence as a goal | 4.00% | ~550 |
 | Project Arena | 3.00% | ~412 |
 | Bloody Sport | 1.00% | ~137 |
 | The Hateful Pole Fighter | 0.90% | ~6,340 |
 | Qi Gong: Breath | 0.90% | ~6,340 |
 | The best strikes are the ones we avoid | 0.90% | ~124 |
-| The Old Grandmaster | 0.80% | ~5,635 |
-| The Assault | 0.80% | ~5,635 |
-| A Lady's Blood in the Snow | 0.80% | ~5,635 |
-| Lady Wing Chun | 0.80% | ~5,635 |
-| Kill Nil | 0.80% | ~5,635 |
-| Life is your teacher | 0.80% | ~5,635 |
-| State of constant learning | 0.80% | ~5,635 |
-| Qi Gong: Essence | 0.80% | ~5,635 |
-| Lightning Hands | 0.80% | ~5,635 |
-| Path of the Prospect | 0.80% | ~5,635 |
-| Rumble in the Hangar | 0.80% | ~5,635 |
+| The Old Grandmaster | 0.80% | ~5,636 |
+| The Assault | 0.80% | ~5,636 |
+| A Lady's Blood in the Snow | 0.80% | ~5,636 |
+| Lady Wing Chun | 0.80% | ~5,636 |
+| Kill Nil | 0.80% | ~5,636 |
+| Life is your teacher | 0.80% | ~5,636 |
+| State of constant learning | 0.80% | ~5,636 |
+| Qi Gong: Essence | 0.80% | ~5,636 |
+| Lightning Hands | 0.80% | ~5,636 |
+| Path of the Prospect | 0.80% | ~5,636 |
+| Rumble in the Hangar | 0.80% | ~5,636 |
 | Furious Fists | 0.70% | ~4,931 |
 | Stuntmaster | 0.70% | ~4,931 |
 | Street Fighting | 0.70% | ~4,931 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~704 |
 | Warriors from the Mountain | 0.10% | ~704 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,432 (Ranked 15)  
+Progressed: 704,446 (Ranked 15)  
 Completed: 12,733 (1.81%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 12,733 (1.81%) (Ranked 64)
 | 2023-05-19 | 703,575 | 12,731 |
 | 2023-05-20 | 704,036 | 12,732 |
 | 2023-05-21 | 704,407 | 12,733 |
-| 2023-05-22 | 704,432 | 12,733 |
+| 2023-05-22 | 704,446 | 12,733 |
 ## Awards
 Max (Great Boss Battles): 6,082  (Ranked 53)  
 Sum: 10,350 (Ranked 77)  

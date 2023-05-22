@@ -5,9 +5,9 @@ Rating: 4.18 (Ranked 831)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Giving Back | 4.00% | ~529 |
-| Flesh Wound | 4.00% | ~529 |
-| Chew 'Em Up | 4.00% | ~529 |
+| Giving Back | 4.00% | ~530 |
+| Flesh Wound | 4.00% | ~530 |
+| Chew 'Em Up | 4.00% | ~530 |
 | Instigator | 3.00% | ~35 |
 | Big Game Hunter | 3.00% | ~35 |
 | Float Like A Butterfly | 2.00% | ~265 |
@@ -15,18 +15,18 @@ Rating: 4.18 (Ranked 831)
 | Big Spender | 2.00% | ~23 |
 | The Commonality | 1.00% | ~132 |
 | Mugshot | 1.00% | ~132 |
+| Get a Grip | 0.90% | ~119 |
 | Parole Denied | 0.80% | ~9 |
-| Get a Grip | 0.80% | ~106 |
 | Hoard Mode | 0.80% | ~9 |
 | Recidivist | 0.60% | ~7 |
 | Lifer | 0.60% | ~7 |
 | In Striking Distance | 0.40% | ~53 |
 | Reforged | 0.40% | ~53 |
+| Two Heads Are Better Than One | 0.30% | ~40 |
 | Terminated | 0.30% | ~40 |
 | Workplace Hazard | 0.30% | ~40 |
 | Grim Reaper | 0.20% | ~26 |
 | I Do Belong Here | 0.20% | ~26 |
-| Two Heads Are Better Than One | 0.20% | ~26 |
 | Paper Jams | 0.20% | ~26 |
 | It's over, Jacob! | 0.10% | ~13 |
 | Armed to the Teeth | 0.10% | ~1 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 831)
 | I am the Danger | 0.00% | ~0 |
 | Subject Alpha | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,237 (Ranked 101)  
+Progressed: 13,244 (Ranked 101)  
 Completed: 52 (0.39%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 52 (0.39%) (Ranked 112)
 | 2023-05-19 | 12,841 | 51 |
 | 2023-05-20 | 13,057 | 51 |
 | 2023-05-21 | 13,223 | 52 |
-| 2023-05-22 | 13,237 | 52 |
+| 2023-05-22 | 13,244 | 52 |
 ## Awards
 Max (Amazing Storytelling): 46  (Ranked 397)  
 Sum: 246 (Ranked 341)  

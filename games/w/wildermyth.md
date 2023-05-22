@@ -1,19 +1,19 @@
 # Wildermyth
 [Store](https://store.epicgames.com/en-US/p/wildermyth-593344)  
 [View Rawdata](../../db/w/wildermyth.json)  
-Rating: 4.77 (Ranked 105)  
+Rating: 4.77 (Ranked 106)  
 Number of Ratings: 45  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Cost of Heroism | 31.00% | ~371 |
 | Me and My Familiar | 29.00% | ~347 |
-| This Too Shall Pass | 25.00% | ~299 |
-| Cutthroat Competitors | 24.00% | ~287 |
-| Passing Shadow | 23.00% | ~275 |
-| How Romantic! | 22.00% | ~263 |
-| Daybreak | 22.00% | ~263 |
-| Gotta Ca... Must Collect All of Them | 20.00% | ~239 |
+| This Too Shall Pass | 25.00% | ~300 |
+| Cutthroat Competitors | 24.00% | ~288 |
+| Passing Shadow | 23.00% | ~276 |
+| How Romantic! | 22.00% | ~264 |
+| Daybreak | 22.00% | ~264 |
+| Gotta Ca... Must Collect All of Them | 20.00% | ~240 |
 | A Mythic Menagerie | 11.00% | ~132 |
 | Completing the Look | 11.00% | ~132 |
 | Who's Counting? | 11.00% | ~132 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Overwhelming Monstrosity | 0.40% | ~5 |
 | Peacemaker | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,197 (Ranked 158)  
+Progressed: 1,198 (Ranked 158)  
 Completed: 3 (0.25%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,6 +92,7 @@ Completed: 3 (0.25%) (Ranked 133)
 | 2023-05-19 | 1,185 | 3 |
 | 2023-05-20 | 1,193 | 3 |
 | 2023-05-21 | 1,197 | 3 |
+| 2023-05-22 | 1,198 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 455)  
 Sum: 27 (Ranked 462)  

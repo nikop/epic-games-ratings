@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1366,
+  "EOS_Progressed": 1367,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 7.76,
+  "EOS_Completed_Percentage": 7.75,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -1483,6 +1483,11 @@
       "Time": "2023-05-22T02:11:38.0017463+00:00",
       "NumProgressed": 1366,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2023-05-22T03:05:21.1474467+00:00",
+      "NumProgressed": 1367,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 12,
@@ -1508,9 +1513,9 @@
       "ID": "Building the Fox",
       "SetID": "b40dflc",
       "Name": "Building the Fox",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 273
+      "UsersEstimate": 287
     },
     {
       "ID": "Green Ticket Roundup",
@@ -1524,9 +1529,9 @@
       "ID": "Jacques a Dit",
       "SetID": "b40dflc",
       "Name": "Jacques a Dit",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 492
+      "UsersEstimate": 506
     },
     {
       "ID": "Jakob",
@@ -1589,7 +1594,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1366,
+      "Progressed": 1367,
       "Completed": 106
     }
   ],
@@ -1597,8 +1602,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-22T02:11:38.0017459+00:00",
+  "LastChanged_Achievements": "2023-05-22T03:05:21.1474462+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:11.427731+00:00",
-  "LastUpdate_Ratings": "2023-05-22T02:05:28.7720613+00:00",
-  "LastUpdate_Achievements": "2023-05-22T02:11:38.0017647+00:00"
+  "LastUpdate_Ratings": "2023-05-22T02:59:10.380874+00:00",
+  "LastUpdate_Achievements": "2023-05-22T03:05:21.1474648+00:00"
 }

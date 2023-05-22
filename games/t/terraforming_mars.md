@@ -6,12 +6,12 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 39.00% | ~22,834 |
-| Final touch | 38.00% | ~22,249 |
-| Prop-M Rover | 34.00% | ~19,907 |
-| Changing the Planet | 30.00% | ~17,565 |
+| It's a steal! | 39.00% | ~22,835 |
+| Final touch | 38.00% | ~22,250 |
+| Prop-M Rover | 34.00% | ~19,908 |
+| Changing the Planet | 30.00% | ~17,566 |
 | Sojourner | 29.00% | ~16,980 |
-| Beagle 2 | 26.00% | ~15,223 |
+| Beagle 2 | 26.00% | ~15,224 |
 | New Home | 25.00% | ~14,638 |
 | Winner Winner Terraformer | 24.00% | ~14,052 |
 | Project Manager | 21.00% | ~12,296 |
@@ -21,23 +21,23 @@ Number of Ratings: 2,731  (23.09.2022)
 | No Longer Red | 20.00% | ~11,710 |
 | Self-sufficient | 20.00% | ~11,710 |
 | Money money | 17.00% | ~9,954 |
-| Biggest Reward | 15.00% | ~8,782 |
+| Biggest Reward | 15.00% | ~8,783 |
 | Acquired knowledge | 14.00% | ~8,197 |
 | Most Achievements | 13.00% | ~7,612 |
 | Hellenic Elysium | 13.00% | ~7,612 |
 | First Journey | 12.00% | ~7,026 |
 | Landlord | 12.00% | ~7,026 |
 | Grand champion | 12.00% | ~7,026 |
-| Spirit | 11.00% | ~6,440 |
-| Ultimate success | 11.00% | ~6,440 |
+| Spirit | 11.00% | ~6,441 |
+| Ultimate success | 11.00% | ~6,441 |
 | Variety Expert | 10.00% | ~5,855 |
 | Frequent tester | 9.00% | ~5,270 |
 | Determined | 8.00% | ~4,684 |
 | Terraformer | 5.00% | ~2,928 |
-| Team Effort | 3.00% | ~1,756 |
-| Opportunity | 3.00% | ~1,756 |
+| Team Effort | 3.00% | ~1,757 |
+| Opportunity | 3.00% | ~1,757 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,550 (Ranked 70)  
+Progressed: 58,552 (Ranked 70)  
 Completed: 63 (0.11%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -69,7 +69,7 @@ Completed: 63 (0.11%) (Ranked 156)
 | 2023-05-19 | 58,077 | 63 |
 | 2023-05-20 | 58,322 | 63 |
 | 2023-05-21 | 58,530 | 63 |
-| 2023-05-22 | 58,550 | 63 |
+| 2023-05-22 | 58,552 | 63 |
 ## Awards
 Max (Relaxing): 497  (Ranked 186)  
 Sum: 3,061 (Ranked 147)  

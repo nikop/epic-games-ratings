@@ -6,18 +6,18 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~63,537 |
-| Powergamer | 27.00% | ~61,268 |
-| Barely scratched the surface | 25.00% | ~56,729 |
-| Write that down | 24.00% | ~54,460 |
-| Guns, lots of guns | 12.00% | ~27,230 |
-| Collector | 11.00% | ~24,961 |
-| Elementary! | 8.00% | ~18,153 |
-| Pumpkin Jack | 8.00% | ~18,153 |
-| Wake up! | 8.00% | ~18,153 |
-| It's honest work | 7.00% | ~15,884 |
-| Griever | 7.00% | ~15,884 |
-| Me smart | 6.00% | ~13,615 |
+| I will finish what you started | 28.00% | ~63,539 |
+| Powergamer | 27.00% | ~61,270 |
+| Barely scratched the surface | 25.00% | ~56,732 |
+| Write that down | 24.00% | ~54,462 |
+| Guns, lots of guns | 12.00% | ~27,231 |
+| Collector | 11.00% | ~24,962 |
+| Elementary! | 8.00% | ~18,154 |
+| Pumpkin Jack | 8.00% | ~18,154 |
+| Wake up! | 8.00% | ~18,154 |
+| It's honest work | 7.00% | ~15,885 |
+| Griever | 7.00% | ~15,885 |
+| Me smart | 6.00% | ~13,616 |
 | Good listener | 5.00% | ~11,346 |
 | Trash compactor | 5.00% | ~11,346 |
 | Valedictorian | 5.00% | ~11,346 |
@@ -26,14 +26,14 @@ Number of Ratings: 33  (23.09.2022)
 | I like to sniff around | 3.00% | ~6,808 |
 | Mind reader | 3.00% | ~6,808 |
 | So you like to read? | 3.00% | ~6,808 |
-| Gentleman's classic | 2.00% | ~4,538 |
-| Hoarder | 2.00% | ~4,538 |
-| Is that a rift? | 2.00% | ~4,538 |
-| It's alive! | 2.00% | ~4,538 |
-| Enjoy the beach | 2.00% | ~4,538 |
-| Rinse and repeat | 2.00% | ~4,538 |
-| Mama, I'm a criminal | 2.00% | ~4,538 |
-| Never gonna give you up | 2.00% | ~4,538 |
+| Gentleman's classic | 2.00% | ~4,539 |
+| Hoarder | 2.00% | ~4,539 |
+| Is that a rift? | 2.00% | ~4,539 |
+| It's alive! | 2.00% | ~4,539 |
+| Enjoy the beach | 2.00% | ~4,539 |
+| Rinse and repeat | 2.00% | ~4,539 |
+| Mama, I'm a criminal | 2.00% | ~4,539 |
+| Never gonna give you up | 2.00% | ~4,539 |
 | A muscle to rely on | 1.00% | ~2,269 |
 | Catnip | 1.00% | ~2,269 |
 | I am in great pain, please help me | 1.00% | ~2,269 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~454 |
 | Memory 5 | 0.10% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,917 (Ranked 42)  
+Progressed: 226,926 (Ranked 42)  
 Completed: 5 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 5 (0.00%) (Ranked 201)
 | 2023-05-19 | 226,334 | 5 |
 | 2023-05-20 | 226,607 | 5 |
 | 2023-05-21 | 226,894 | 5 |
-| 2023-05-22 | 226,917 | 5 |
+| 2023-05-22 | 226,926 | 5 |
 ## Awards
 Max (Character Customization): 73  (Ranked 357)  
 Sum: 73 (Ranked 416)  
