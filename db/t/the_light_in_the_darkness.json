@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1371,
+  "EOS_Progressed": 1373,
   "EOS_Completed": 107,
   "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 7.8,
+  "EOS_Completed_Percentage": 7.79,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -1513,6 +1513,11 @@
       "Time": "2023-05-22T12:05:13.284083+00:00",
       "NumProgressed": 1371,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2023-05-22T15:06:10.8692601+00:00",
+      "NumProgressed": 1373,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 12,
@@ -1540,7 +1545,7 @@
       "Name": "Building the Fox",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "Green Ticket Roundup",
@@ -1604,7 +1609,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "Nuremberg Laws",
@@ -1619,7 +1624,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1371,
+      "Progressed": 1373,
       "Completed": 107
     }
   ],
@@ -1627,8 +1632,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-22T14:06:08.5515343+00:00",
+  "LastChanged_Achievements": "2023-05-22T15:06:10.8692596+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:11.427731+00:00",
-  "LastUpdate_Ratings": "2023-05-22T13:59:55.4646066+00:00",
-  "LastUpdate_Achievements": "2023-05-22T14:06:08.5515521+00:00"
+  "LastUpdate_Ratings": "2023-05-22T14:59:54.1273675+00:00",
+  "LastUpdate_Achievements": "2023-05-22T15:06:10.8692729+00:00"
 }

@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Solved first case | 82.00% | ~61 |
-| Solved second case | 80.00% | ~59 |
+| Solved first case | 84.00% | ~62 |
+| Solved second case | 81.00% | ~60 |
 | Solved third case | 64.00% | ~47 |
 | Solved fourth case | 43.00% | ~32 |
 | Solved seventh case | 23.00% | ~17 |

@@ -6,17 +6,17 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~5,206 |
-| Battering Crew | 21.00% | ~2,733 |
-| The Kingsroad | 19.00% | ~2,473 |
-| Well Stocked | 14.00% | ~1,822 |
-| Royal Fleet | 14.00% | ~1,822 |
+| Conqueror | 40.00% | ~5,208 |
+| Battering Crew | 21.00% | ~2,734 |
+| The Kingsroad | 19.00% | ~2,474 |
+| Well Stocked | 14.00% | ~1,823 |
+| Royal Fleet | 14.00% | ~1,823 |
 | The Kraken’s Grasp | 10.00% | ~1,302 |
-| Alliance | 9.00% | ~1,171 |
-| Daggers in the Dark | 8.00% | ~1,041 |
-| Oathkeeper | 8.00% | ~1,041 |
-| Influential | 8.00% | ~1,041 |
-| A Long Journey | 8.00% | ~1,041 |
+| Alliance | 9.00% | ~1,172 |
+| Daggers in the Dark | 8.00% | ~1,042 |
+| Oathkeeper | 8.00% | ~1,042 |
+| Influential | 8.00% | ~1,042 |
+| A Long Journey | 8.00% | ~1,042 |
 | Ours is the Fury | 7.00% | ~911 |
 | We Do Not Sow | 7.00% | ~911 |
 | Winter is Coming | 7.00% | ~911 |
@@ -24,12 +24,12 @@ Number of Ratings: 2,500  (23.09.2022)
 | Hear me Roar! | 6.00% | ~781 |
 | Defender of the Wall | 6.00% | ~781 |
 | Growing Strong | 5.00% | ~651 |
-| What is Dead may Never Die | 3.00% | ~390 |
-| The Swift | 3.00% | ~390 |
+| What is Dead may Never Die | 3.00% | ~391 |
+| The Swift | 3.00% | ~391 |
 | King in the North | 2.00% | ~260 |
 | War of the Five Kings | 1.00% | ~130 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,016 (Ranked 102)  
+Progressed: 13,021 (Ranked 102)  
 Completed: 28 (0.22%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,11 +61,11 @@ Completed: 28 (0.22%) (Ranked 135)
 | 2023-05-19 | 12,676 | 25 |
 | 2023-05-20 | 12,834 | 26 |
 | 2023-05-21 | 12,965 | 27 |
-| 2023-05-22 | 13,016 | 28 |
+| 2023-05-22 | 13,021 | 28 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 301)  
-Sum: 779 (Ranked 252)  
-Diff (max vs sum): 49  
+Sum: 779 (Ranked 251)  
+Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 123 |

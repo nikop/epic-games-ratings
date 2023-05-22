@@ -20,8 +20,8 @@ Rating: 3.75 (Ranked 920)
 | Full Party | 13.00% | ~148 |
 | Hero inspection | 13.00% | ~148 |
 | Dragon Master | 11.00% | ~125 |
+| Enlightenment | 11.00% | ~125 |
 | Lieutenant | 11.00% | ~125 |
-| Enlightenment | 10.00% | ~114 |
 | Milestone collector | 9.00% | ~102 |
 | Mysterious Rock | 9.00% | ~102 |
 | Natural Talent | 9.00% | ~102 |

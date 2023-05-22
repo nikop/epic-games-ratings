@@ -1,22 +1,22 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.65 (Ranked 293)  
+Rating: 4.65 (Ranked 292)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | On Deceive Inc.'s Secret Service | 64.00% | ~3,841 |
-| Tomorrow Never Dyes | 47.00% | ~2,820 |
-| Mainframe Hacker | 44.00% | ~2,640 |
-| The Spy who eliminated me | 44.00% | ~2,640 |
-| Never Say Loser Again | 41.00% | ~2,460 |
-| For your Eyes only | 39.00% | ~2,340 |
-| Tailor-Made | 38.00% | ~2,280 |
-| From the Vault with Love | 36.00% | ~2,160 |
-| Fully Decked Out | 36.00% | ~2,160 |
-| You Only Live Twice | 30.00% | ~1,800 |
-| A view to Win | 29.00% | ~1,740 |
-| Smells Like Trouble | 26.00% | ~1,560 |
+| Tomorrow Never Dyes | 47.00% | ~2,821 |
+| Mainframe Hacker | 44.00% | ~2,641 |
+| The Spy who eliminated me | 44.00% | ~2,641 |
+| Never Say Loser Again | 41.00% | ~2,461 |
+| For your Eyes only | 39.00% | ~2,341 |
+| Tailor-Made | 38.00% | ~2,281 |
+| From the Vault with Love | 36.00% | ~2,161 |
+| Fully Decked Out | 36.00% | ~2,161 |
+| You Only Live Twice | 30.00% | ~1,801 |
+| A view to Win | 29.00% | ~1,741 |
+| Smells Like Trouble | 26.00% | ~1,561 |
 | Assistant Accountant | 25.00% | ~1,500 |
 | The Living Portrait | 25.00% | ~1,500 |
 | Private Collection | 25.00% | ~1,500 |
@@ -42,7 +42,7 @@ Rating: 4.65 (Ranked 293)
 | Extraction Confusion | 0.30% | ~18 |
 | Spyfall | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,001 (Ranked 116)  
+Progressed: 6,002 (Ranked 116)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-19 | 5,901 | 0 |
 | 2023-05-20 | 5,950 | 0 |
 | 2023-05-21 | 5,989 | 0 |
-| 2023-05-22 | 6,001 | 0 |
+| 2023-05-22 | 6,002 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -20,7 +20,7 @@ Number of Ratings: 34  (23.09.2022)
 | Heroism | 32.00% | ~87 |
 | King of Knives | 32.00% | ~87 |
 | Collectibles of Chapter I | 31.00% | ~84 |
-| Consequences | 28.00% | ~76 |
+| Consequences | 29.00% | ~79 |
 | Opportunities | 27.00% | ~73 |
 | The Horror | 26.00% | ~71 |
 | Collectibles of Chapter II | 24.00% | ~65 |

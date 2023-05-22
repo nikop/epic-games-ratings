@@ -471,9 +471,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12612,
+  "EOS_Progressed": 12613,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -2381,6 +2381,11 @@
       "Time": "2023-05-22T14:05:47.0375096+00:00",
       "NumProgressed": 12612,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-05-22T15:05:48.7919218+00:00",
+      "NumProgressed": 12613,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 41,
@@ -2432,7 +2437,7 @@
       "Name": "Friends of sorts",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4414
+      "UsersEstimate": 4415
     },
     {
       "ID": "tpote_achievement_15",
@@ -2480,7 +2485,7 @@
       "Name": "Yet another secret",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 4414
+      "UsersEstimate": 4415
     },
     {
       "ID": "tpote_achievement_20",
@@ -2504,7 +2509,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2522
+      "UsersEstimate": 2523
     },
     {
       "ID": "tpote_achievement_23",
@@ -2528,7 +2533,7 @@
       "Name": "Revenge",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "tpote_achievement_26",
@@ -2616,7 +2621,7 @@
       "Name": "Self-defense",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "tpote_achievement_36",
@@ -2640,7 +2645,7 @@
       "Name": "Countess Aliena",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "tpote_achievement_39",
@@ -2712,22 +2717,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4540
+      "UsersEstimate": 4541
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12612,
+      "Progressed": 12613,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-22T02:59:28.1884217+00:00",
-  "LastChanged_Achievements": "2023-05-22T14:05:47.0375089+00:00",
+  "LastChanged_Achievements": "2023-05-22T15:05:48.7919099+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:09:49.1992061+00:00",
-  "LastUpdate_Ratings": "2023-05-22T14:00:19.8927562+00:00",
-  "LastUpdate_Achievements": "2023-05-22T14:05:47.0375475+00:00"
+  "LastUpdate_Ratings": "2023-05-22T15:00:22.9851431+00:00",
+  "LastUpdate_Achievements": "2023-05-22T15:05:48.7919557+00:00"
 }

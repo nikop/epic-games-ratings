@@ -1,30 +1,30 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.66 (Ranked 273)  
+Rating: 4.66 (Ranked 272)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~16,980 |
-| Thorough | 9.00% | ~15,282 |
-| A thief's beginning | 7.00% | ~11,886 |
-| Tanuki Time | 7.00% | ~11,886 |
-| Disguised | 6.00% | ~10,188 |
-| Jonin | 6.00% | ~10,188 |
-| Rescue Takuma | 6.00% | ~10,188 |
-| Rollin' | 6.00% | ~10,188 |
-| Chunin | 5.00% | ~8,490 |
-| Happy Planning | 5.00% | ~8,490 |
-| Ice Ice Yuki | 5.00% | ~8,490 |
-| Mugen Unchained | 5.00% | ~8,490 |
-| Stoned Ox | 5.00% | ~8,490 |
-| Yabu | 5.00% | ~8,490 |
-| Flying Rocks | 4.00% | ~6,792 |
-| Okkoto | 4.00% | ~6,792 |
-| Prisoners | 4.00% | ~6,792 |
-| Too Early | 4.00% | ~6,792 |
-| Warzone | 4.00% | ~6,792 |
+| Genin | 10.00% | ~16,982 |
+| Thorough | 9.00% | ~15,283 |
+| A thief's beginning | 7.00% | ~11,887 |
+| Tanuki Time | 7.00% | ~11,887 |
+| Disguised | 6.00% | ~10,189 |
+| Jonin | 6.00% | ~10,189 |
+| Rescue Takuma | 6.00% | ~10,189 |
+| Rollin' | 6.00% | ~10,189 |
+| Chunin | 5.00% | ~8,491 |
+| Happy Planning | 5.00% | ~8,491 |
+| Ice Ice Yuki | 5.00% | ~8,491 |
+| Mugen Unchained | 5.00% | ~8,491 |
+| Stoned Ox | 5.00% | ~8,491 |
+| Yabu | 5.00% | ~8,491 |
+| Flying Rocks | 4.00% | ~6,793 |
+| Okkoto | 4.00% | ~6,793 |
+| Prisoners | 4.00% | ~6,793 |
+| Too Early | 4.00% | ~6,793 |
+| Warzone | 4.00% | ~6,793 |
 | Gear up | 3.00% | ~5,094 |
 | Happy little accidents | 3.00% | ~5,094 |
 | Noboru | 3.00% | ~5,094 |
@@ -38,7 +38,7 @@ Number of Ratings: 495  (23.09.2022)
 | No Gimmicks | 1.00% | ~1,698 |
 | Old Man | 1.00% | ~1,698 |
 | The End | 1.00% | ~1,698 |
-| Undeserved Honor | 0.80% | ~1,358 |
+| Undeserved Honor | 0.80% | ~1,359 |
 | When Cut Across the Neck | 0.70% | ~1,189 |
 | High Five the Moon | 0.60% | ~1,019 |
 | The Cave | 0.60% | ~1,019 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~170 |
 | Release the Kraken | 0.10% | ~170 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 169,798 (Ranked 50)  
+Progressed: 169,816 (Ranked 50)  
 Completed: 44 (0.03%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 44 (0.03%) (Ranked 182)
 | 2023-05-19 | 168,927 | 44 |
 | 2023-05-20 | 169,305 | 44 |
 | 2023-05-21 | 169,628 | 44 |
-| 2023-05-22 | 169,798 | 44 |
+| 2023-05-22 | 169,816 | 44 |
 ## Awards
 Max (Great for Beginners): 550  (Ranked 175)  
 Sum: 4,668 (Ranked 126)  

@@ -1,29 +1,29 @@
 # PC Building Simulator
 [Store](https://store.epicgames.com/en-US/p/pc-building-simulator)  
 [View Rawdata](../../db/p/pc_building_simulator.json)  
-Rating: 4.66 (Ranked 273)  
+Rating: 4.66 (Ranked 272)  
 Number of Ratings: 12,155  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 48.00% | ~1,681,191 |
-| Easy to forget | 46.00% | ~1,611,141 |
-| Back in the black | 38.00% | ~1,330,943 |
-| That's what I'm talking about | 28.00% | ~980,695 |
-| The Best of Both Worlds | 24.00% | ~840,595 |
-| Get your wings | 20.00% | ~700,496 |
-| Double trouble | 15.00% | ~525,372 |
-| Smashing it | 10.00% | ~350,248 |
-| But can it run Crysis? | 9.00% | ~315,223 |
-| My favourite feature... | 9.00% | ~315,223 |
-| From humble beginnings... | 7.00% | ~245,174 |
-| Customer satisfaction | 7.00% | ~245,174 |
-| Keeping things neat | 4.00% | ~140,099 |
-| Seems you're pretty good at this | 4.00% | ~140,099 |
-| Triple threat | 3.00% | ~105,074 |
-| You rock at this! | 3.00% | ~105,074 |
-| Your music sucks | 3.00% | ~105,074 |
-| Bending over backwards | 3.00% | ~105,074 |
+| You need to plug it in... | 48.00% | ~1,681,208 |
+| Easy to forget | 46.00% | ~1,611,158 |
+| Back in the black | 38.00% | ~1,330,956 |
+| That's what I'm talking about | 28.00% | ~980,705 |
+| The Best of Both Worlds | 24.00% | ~840,604 |
+| Get your wings | 20.00% | ~700,503 |
+| Double trouble | 15.00% | ~525,378 |
+| Smashing it | 10.00% | ~350,252 |
+| But can it run Crysis? | 9.00% | ~315,227 |
+| My favourite feature... | 9.00% | ~315,227 |
+| From humble beginnings... | 7.00% | ~245,176 |
+| Customer satisfaction | 7.00% | ~245,176 |
+| Keeping things neat | 4.00% | ~140,101 |
+| Seems you're pretty good at this | 4.00% | ~140,101 |
+| Triple threat | 3.00% | ~105,076 |
+| You rock at this! | 3.00% | ~105,076 |
+| Your music sucks | 3.00% | ~105,076 |
+| Bending over backwards | 3.00% | ~105,076 |
 | I'm broke, Uncle! | 2.00% | ~70,050 |
 | Maybe you should try something else? | 2.00% | ~70,050 |
 | Taking care of business | 2.00% | ~70,050 |
@@ -37,29 +37,29 @@ Number of Ratings: 12,155  (23.09.2022)
 | Building isn't cheap! | 1.00% | ~35,025 |
 | Majority Shareholder | 1.00% | ~35,025 |
 | Owner | 1.00% | ~35,025 |
-| Show off | 0.90% | ~31,522 |
+| Show off | 0.90% | ~31,523 |
 | Work ethic 101 | 0.60% | ~21,015 |
-| Building momentum | 0.50% | ~17,512 |
-| Lead by example | 0.50% | ~17,512 |
-| Treat yourself - RAM | 0.50% | ~17,512 |
-| So you're the reason why the prices are so high? | 0.30% | ~10,507 |
-| Mr big business | 0.30% | ~10,507 |
-| Getting your feet wet | 0.30% | ~10,507 |
-| Customer's ALWAYS right. | 0.30% | ~10,507 |
-| Treat yourself - CPU | 0.30% | ~10,507 |
+| Building momentum | 0.50% | ~17,513 |
+| Lead by example | 0.50% | ~17,513 |
+| Treat yourself - RAM | 0.50% | ~17,513 |
+| So you're the reason why the prices are so high? | 0.30% | ~10,508 |
+| Mr big business | 0.30% | ~10,508 |
+| Getting your feet wet | 0.30% | ~10,508 |
+| Customer's ALWAYS right. | 0.30% | ~10,508 |
+| Treat yourself - CPU | 0.30% | ~10,508 |
 | 1920x1080 | 0.20% | ~7,005 |
 | Mister Big | 0.20% | ~7,005 |
 | Blow 'em away | 0.20% | ~7,005 |
-| Hasta La Vista, Baby. | 0.10% | ~3,502 |
-| Wow to build a PC! | 0.10% | ~3,502 |
-| Hoarder | 0.10% | ~3,502 |
-| Sitting on a fortune | 0.10% | ~3,502 |
-| Wow, you really like PCs | 0.10% | ~3,502 |
-| Going loopy | 0.10% | ~3,502 |
-| Stop it | 0.10% | ~3,502 |
-| Treat yourself - GPU | 0.10% | ~3,502 |
+| Hasta La Vista, Baby. | 0.10% | ~3,503 |
+| Wow to build a PC! | 0.10% | ~3,503 |
+| Hoarder | 0.10% | ~3,503 |
+| Sitting on a fortune | 0.10% | ~3,503 |
+| Wow, you really like PCs | 0.10% | ~3,503 |
+| Going loopy | 0.10% | ~3,503 |
+| Stop it | 0.10% | ~3,503 |
+| Treat yourself - GPU | 0.10% | ~3,503 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,502,481 (Ranked 4)  
+Progressed: 3,502,517 (Ranked 4)  
 Completed: 22 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 22 (0.00%) (Ranked 201)
 | 2023-05-19 | 3,500,602 | 22 |
 | 2023-05-20 | 3,501,424 | 22 |
 | 2023-05-21 | 3,502,159 | 22 |
-| 2023-05-22 | 3,502,481 | 22 |
+| 2023-05-22 | 3,502,517 | 22 |
 ## Awards
 Max (Great for Beginners): 1,042  (Ranked 132)  
 Sum: 7,768 (Ranked 95)  

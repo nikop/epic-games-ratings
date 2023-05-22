@@ -8,8 +8,8 @@
 | Waff! | 94.00% | ~746 |
 | Into the Barn | 87.00% | ~691 |
 | A Prophecy | 85.00% | ~675 |
-| Sword, Shield, Fight! | 75.00% | ~596 |
-| A Grand Visit | 71.00% | ~564 |
+| Sword, Shield, Fight! | 76.00% | ~603 |
+| A Grand Visit | 72.00% | ~572 |
 | Vibing | 61.00% | ~484 |
 | Fun Guy | 61.00% | ~484 |
 | Tragic Brave | 52.00% | ~413 |
@@ -48,7 +48,7 @@
 | Spot of Tea? | 29.00% | ~230 |
 | Going Home | 29.00% | ~230 |
 | Mirror, Mirror | 27.00% | ~214 |
-| Flower Power | 24.00% | ~191 |
+| Flower Power | 25.00% | ~198 |
 | Shopping Spree! | 21.00% | ~167 |
 | Crowned | 21.00% | ~167 |
 | Max Level! | 13.00% | ~103 |
@@ -56,7 +56,7 @@
 | Bombs Away! | 8.00% | ~64 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 794 (Ranked 174)  
-Completed: 55 (6.93%) (Ranked 23)  
+Completed: 55 (6.93%) (Ranked 22)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

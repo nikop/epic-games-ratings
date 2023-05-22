@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1179,
+  "EOS_Progressed": 1180,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 459,
+  "EOS_NewPlayers": 460,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -1027,6 +1027,11 @@
       "Time": "2023-05-22T14:05:57.5619695+00:00",
       "NumProgressed": 1179,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-22T15:05:59.594946+00:00",
+      "NumProgressed": 1180,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1084,9 +1089,9 @@
       "ID": "REWARD_16_FIELDS_OF_GLORY",
       "SetID": "bm6el81",
       "Name": "Fields of Glory",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -1118,7 +1123,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1164,9 +1169,9 @@
       "ID": "REWARD_25_SKIRMISHER",
       "SetID": "bm6el81",
       "Name": "Skirmisher",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -1605,13 +1610,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1130,
+      "Progressed": 1131,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1179,
+      "Progressed": 1180,
       "Completed": 2
     }
   ],
@@ -1619,8 +1624,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-21T20:01:20.196422+00:00",
-  "LastChanged_Achievements": "2023-05-22T14:05:57.5619689+00:00",
+  "LastChanged_Achievements": "2023-05-22T15:05:59.5949456+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-22T14:00:57.1748206+00:00",
-  "LastUpdate_Achievements": "2023-05-22T14:05:57.5620518+00:00"
+  "LastUpdate_Ratings": "2023-05-22T15:01:03.9157223+00:00",
+  "LastUpdate_Achievements": "2023-05-22T15:05:59.5950013+00:00"
 }

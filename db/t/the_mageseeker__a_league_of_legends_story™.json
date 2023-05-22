@@ -2039,9 +2039,9 @@
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
       "SetID": "3pe2bac",
       "Name": "The use of petricite",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 1513
+      "UsersEstimate": 1534
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -2096,8 +2096,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-17T18:57:40.491639+00:00",
-  "LastChanged_Achievements": "2023-05-22T14:06:00.277537+00:00",
+  "LastChanged_Achievements": "2023-05-22T15:06:02.4517124+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:08.2361804+00:00",
-  "LastUpdate_Ratings": "2023-05-22T13:57:42.5850296+00:00",
-  "LastUpdate_Achievements": "2023-05-22T14:06:00.2775879+00:00"
+  "LastUpdate_Ratings": "2023-05-22T14:57:33.8016279+00:00",
+  "LastUpdate_Achievements": "2023-05-22T15:06:02.4517542+00:00"
 }

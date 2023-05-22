@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 64,
   "Ranking_EOS_NewPlayers": 41,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4078,10 +4078,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10351,
       "NumberOfAwardsMax": 6082
+    },
+    {
+      "Time": "2023-05-22T14:59:13.5765467+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10353,
+      "NumberOfAwardsMax": 6082
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10351,
+  "NumberOfAwards": 10353,
   "NumberOfAwardsMax": 6082,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4107,7 +4113,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 490
+      "Count": 492
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4158,9 +4164,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 704574,
+  "EOS_Progressed": 704596,
   "EOS_Completed": 12733,
-  "EOS_NewPlayers": 1625,
+  "EOS_NewPlayers": 1646,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -6743,6 +6749,11 @@
       "Time": "2023-05-22T14:06:17.3813347+00:00",
       "NumProgressed": 704574,
       "NumCompleted": 12733
+    },
+    {
+      "Time": "2023-05-22T15:06:20.3612061+00:00",
+      "NumProgressed": 704596,
+      "NumCompleted": 12733
     }
   ],
   "TotalAchievements": 50,
@@ -6842,7 +6853,7 @@
       "Name": "Scareless",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4227
+      "UsersEstimate": 4228
     },
     {
       "ID": "13_LowAge",
@@ -7002,7 +7013,7 @@
       "Name": "Old Child",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4227
+      "UsersEstimate": 4228
     },
     {
       "ID": "33_BladeOneShot",
@@ -7026,7 +7037,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4227
+      "UsersEstimate": 4228
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -7090,7 +7101,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -7098,7 +7109,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 555
+      "UsersEstimate": 556
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -7153,21 +7164,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 13875,
+      "Progressed": 13897,
       "Completed": 10143
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 704574,
+      "Progressed": 704596,
       "Completed": 12733
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-05-22T07:59:27.2600137+00:00",
-  "LastChanged_Achievements": "2023-05-22T14:06:17.3813337+00:00",
+  "LastChanged": "2023-05-22T14:59:13.5765465+00:00",
+  "LastChanged_Achievements": "2023-05-22T15:06:20.3612056+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.7579865+00:00",
-  "LastUpdate_Ratings": "2023-05-22T13:59:17.9655794+00:00",
-  "LastUpdate_Achievements": "2023-05-22T14:06:17.3813861+00:00"
+  "LastUpdate_Ratings": "2023-05-22T14:59:13.576547+00:00",
+  "LastUpdate_Achievements": "2023-05-22T15:06:20.3612505+00:00"
 }

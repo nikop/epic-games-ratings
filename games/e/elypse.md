@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A path of no return | 103.00% | ~36 |
-| Pigeon | 86.00% | ~30 |
-| A bottomless pit | 86.00% | ~30 |
-| Baited | 71.00% | ~25 |
-| Splash! | 66.00% | ~23 |
-| "Swoosh" | 60.00% | ~21 |
-| The light at the end of the tunnel | 60.00% | ~21 |
-| Masochistic | 49.00% | ~17 |
-| Soft skin | 49.00% | ~17 |
-| Sensitive soul | 40.00% | ~14 |
+| A path of no return | 103.00% | ~37 |
+| Pigeon | 83.00% | ~30 |
+| A bottomless pit | 83.00% | ~30 |
+| Baited | 69.00% | ~25 |
+| Splash! | 64.00% | ~23 |
+| "Swoosh" | 58.00% | ~21 |
+| The light at the end of the tunnel | 58.00% | ~21 |
+| Masochistic | 50.00% | ~18 |
+| Soft skin | 47.00% | ~17 |
+| Sensitive soul | 39.00% | ~14 |
 | Squid game | 31.00% | ~11 |
-| Hard Rock | 29.00% | ~10 |
-| Rock Solid | 26.00% | ~9 |
-| The beast within | 26.00% | ~9 |
-| It's getting dark | 26.00% | ~9 |
-| Rooftop | 20.00% | ~7 |
-| Homeless | 20.00% | ~7 |
-| Big badaboom! | 17.00% | ~6 |
+| Hard Rock | 31.00% | ~11 |
+| Rock Solid | 28.00% | ~10 |
+| The beast within | 28.00% | ~10 |
+| It's getting dark | 28.00% | ~10 |
+| Rooftop | 22.00% | ~8 |
+| Homeless | 22.00% | ~8 |
+| Big badaboom! | 19.00% | ~7 |
 | Magnitude 5 | 14.00% | ~5 |
 | Nokron tower | 11.00% | ~4 |
 | MayDay! MayDay! | 11.00% | ~4 |
 | Bookworm | 11.00% | ~4 |
 | Payback | 11.00% | ~4 |
-| Full power | 9.00% | ~3 |
-| "Ah sh*t... Here we go again!" | 9.00% | ~3 |
-| Compulsive hoarder | 9.00% | ~3 |
+| Full power | 8.00% | ~3 |
+| "Ah sh*t... Here we go again!" | 8.00% | ~3 |
+| Compulsive hoarder | 8.00% | ~3 |
 | GG EZ | 3.00% | ~1 |
 | Comeback | 3.00% | ~1 |
 | Gooooooaaaaal!!! | 3.00% | ~1 |
@@ -39,7 +39,7 @@
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35 (Ranked 296)  
+Progressed: 36 (Ranked 296)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -49,4 +49,4 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-19 | 22 | 0 |
 | 2023-05-20 | 30 | 0 |
 | 2023-05-21 | 32 | 0 |
-| 2023-05-22 | 35 | 0 |
+| 2023-05-22 | 36 | 0 |

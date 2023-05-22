@@ -6,30 +6,30 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 20.00% | ~9,346 |
-| Let There Be Light | 17.00% | ~7,944 |
-| Float Like a Butterfly | 16.00% | ~7,477 |
-| Nordic Walking | 13.00% | ~6,075 |
-| Bright Falls' Finest | 13.00% | ~6,075 |
-| Under a Thin Layer of Skin | 11.00% | ~5,140 |
-| Paging Mr. Wake | 10.00% | ~4,673 |
+| Follow the Light | 20.00% | ~9,347 |
+| Let There Be Light | 17.00% | ~7,945 |
+| Float Like a Butterfly | 16.00% | ~7,478 |
+| Nordic Walking | 13.00% | ~6,076 |
+| Bright Falls' Finest | 13.00% | ~6,076 |
+| Under a Thin Layer of Skin | 11.00% | ~5,141 |
+| Paging Mr. Wake | 10.00% | ~4,674 |
 | Park Ranger | 9.00% | ~4,206 |
 | Back! Back, I Say! | 9.00% | ~4,206 |
 | Finders Keepers | 9.00% | ~4,206 |
-| Wheels Within Wheels | 8.00% | ~3,738 |
-| They're Heeeeeere! | 8.00% | ~3,738 |
-| The Six-Gun Scribe | 8.00% | ~3,738 |
-| Sound and Fury | 8.00% | ~3,738 |
-| Missed by a Mile | 8.00% | ~3,738 |
-| Damn Good Cup of Coffee | 8.00% | ~3,738 |
+| Wheels Within Wheels | 8.00% | ~3,739 |
+| They're Heeeeeere! | 8.00% | ~3,739 |
+| The Six-Gun Scribe | 8.00% | ~3,739 |
+| Sound and Fury | 8.00% | ~3,739 |
+| Missed by a Mile | 8.00% | ~3,739 |
+| Damn Good Cup of Coffee | 8.00% | ~3,739 |
 | A Friend in Need | 8.00% | ~816 |
-| Heavy Metal | 7.00% | ~3,271 |
-| Iron Horse | 7.00% | ~3,271 |
-| Perchance to Dream | 7.00% | ~3,271 |
-| It's Not Just a Typewriter Brand | 7.00% | ~3,271 |
-| Thunder and Lightning | 7.00% | ~3,271 |
-| Collateral Carnage | 7.00% | ~3,271 |
-| Come One, Come All | 7.00% | ~3,271 |
+| Heavy Metal | 7.00% | ~3,272 |
+| Iron Horse | 7.00% | ~3,272 |
+| Perchance to Dream | 7.00% | ~3,272 |
+| It's Not Just a Typewriter Brand | 7.00% | ~3,272 |
+| Thunder and Lightning | 7.00% | ~3,272 |
+| Collateral Carnage | 7.00% | ~3,272 |
+| Come One, Come All | 7.00% | ~3,272 |
 | Gatekeeper | 6.00% | ~2,804 |
 | The Lady of the Light | 6.00% | ~2,804 |
 | Two For the Price of One | 6.00% | ~2,804 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~47 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,731 (Ranked 76)  
+Progressed: 46,736 (Ranked 76)  
 Completed: 45 (0.10%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 45 (0.10%) (Ranked 158)
 | 2023-05-19 | 46,386 | 45 |
 | 2023-05-20 | 46,523 | 45 |
 | 2023-05-21 | 46,674 | 45 |
-| 2023-05-22 | 46,731 | 45 |
+| 2023-05-22 | 46,736 | 45 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

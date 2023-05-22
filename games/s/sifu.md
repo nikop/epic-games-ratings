@@ -6,8 +6,8 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~555 |
-| Project Arena | 3.00% | ~416 |
+| Diligence as a goal | 4.00% | ~556 |
+| Project Arena | 3.00% | ~417 |
 | Bloody Sport | 1.00% | ~139 |
 | The Hateful Pole Fighter | 0.90% | ~6,341 |
 | A Lady's Blood in the Snow | 0.90% | ~6,341 |
@@ -27,9 +27,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Stuntmaster | 0.70% | ~4,932 |
 | Street Fighting | 0.70% | ~4,932 |
 | Take damage to save time | 0.70% | ~4,932 |
-| Scareless | 0.60% | ~4,227 |
-| Old Child | 0.60% | ~4,227 |
-| Kung-Fu Tussle | 0.60% | ~4,227 |
+| Scareless | 0.60% | ~4,228 |
+| Old Child | 0.60% | ~4,228 |
+| Kung-Fu Tussle | 0.60% | ~4,228 |
 | Deadly Venom | 0.60% | ~83 |
 | Dance of the Praying Mantis | 0.50% | ~3,523 |
 | Qi Gong: Mind | 0.50% | ~3,523 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~705 |
 | Warriors from the Mountain | 0.10% | ~705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,574 (Ranked 15)  
+Progressed: 704,596 (Ranked 15)  
 Completed: 12,733 (1.81%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,10 +89,10 @@ Completed: 12,733 (1.81%) (Ranked 64)
 | 2023-05-19 | 703,575 | 12,731 |
 | 2023-05-20 | 704,036 | 12,732 |
 | 2023-05-21 | 704,407 | 12,733 |
-| 2023-05-22 | 704,574 | 12,733 |
+| 2023-05-22 | 704,596 | 12,733 |
 ## Awards
 Max (Great Boss Battles): 6,082  (Ranked 53)  
-Sum: 10,351 (Ranked 77)  
+Sum: 10,353 (Ranked 77)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
@@ -101,7 +101,7 @@ Diff (max vs sum): -24
 | This game has Challenging Combat | 510 |
 | This game has Quickly Understood Controls | 502 |
 | This game is Extremely Fun | 499 |
-| This game has Amazing Storytelling | 490 |
+| This game has Amazing Storytelling | 492 |
 | This game is Highly Recommended | 477 |
 | This game has Amazing Characters | 476 |
 | This game has Unique Visuals | 455 |
@@ -237,4 +237,4 @@ Diff (max vs sum): -24
 | 2023-05-19 | 4.82 | - | 6,075 | 10,335 |
 | 2023-05-20 | 4.82 | - | 6,078 | 10,342 |
 | 2023-05-21 | 4.82 | - | 6,082 | 10,350 |
-| 2023-05-22 | 4.82 | - | 6,082 | 10,351 |
+| 2023-05-22 | 4.82 | - | 6,082 | 10,353 |

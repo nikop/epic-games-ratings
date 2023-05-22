@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2534,
+  "EOS_Progressed": 2535,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1665,6 +1665,11 @@
       "Time": "2023-05-22T14:01:30.5846684+00:00",
       "NumProgressed": 2534,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-22T15:01:41.1348263+00:00",
+      "NumProgressed": 2535,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1676,7 +1681,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "10",
@@ -1756,7 +1761,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 10,
       "XP": 85,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "2",
@@ -1867,13 +1872,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2534,
+      "Progressed": 2535,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-22T14:01:30.5846678+00:00",
+  "LastChanged_Achievements": "2023-05-22T15:01:41.1348258+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.9291954+00:00",
-  "LastUpdate_Ratings": "2023-05-22T13:59:14.846506+00:00",
-  "LastUpdate_Achievements": "2023-05-22T14:01:30.5846958+00:00"
+  "LastUpdate_Ratings": "2023-05-22T14:59:10.1828+00:00",
+  "LastUpdate_Achievements": "2023-05-22T15:01:41.1348466+00:00"
 }

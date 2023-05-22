@@ -5,20 +5,20 @@ Rating: 4.13 (Ranked 854)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~4,304 |
-| Disposing of the Evidence | 36.00% | ~1,867 |
-| Without a Scratch | 32.00% | ~1,660 |
-| Wreckless Driving | 27.00% | ~1,400 |
-| A Marked Man | 24.00% | ~1,245 |
+| First Day on the Job | 83.00% | ~4,308 |
+| Disposing of the Evidence | 36.00% | ~1,868 |
+| Without a Scratch | 32.00% | ~1,661 |
+| Wreckless Driving | 27.00% | ~1,401 |
+| A Marked Man | 24.00% | ~1,246 |
 | Street Sweeper | 17.00% | ~882 |
 | Liberty City Minute | 16.00% | ~830 |
-| Offshore Delivery | 12.00% | ~622 |
-| Dirty Money | 11.00% | ~570 |
+| Offshore Delivery | 12.00% | ~623 |
+| Dirty Money | 11.00% | ~571 |
 | By a Mile | 9.00% | ~467 |
 | Right-hand Man | 9.00% | ~467 |
 | Not So Fast | 8.00% | ~415 |
 | A Gift from the King | 6.00% | ~311 |
-| Full Artillery | 4.00% | ~207 |
+| Full Artillery | 4.00% | ~208 |
 | Mob Boss | 2.00% | ~104 |
 | Splish Splash | 2.00% | ~104 |
 | Liberty City Secrets | 2.00% | ~104 |
@@ -28,14 +28,14 @@ Rating: 4.13 (Ranked 854)
 | Playing Doctor | 1.00% | ~52 |
 | Got This Figured Out | 0.90% | ~47 |
 | Man Toyz | 0.90% | ~47 |
-| Planned Ahead | 0.80% | ~41 |
-| Wheels Up | 0.80% | ~41 |
-| Going Rogue | 0.80% | ~41 |
-| Furious First Responder | 0.80% | ~41 |
+| Planned Ahead | 0.80% | ~42 |
+| Wheels Up | 0.80% | ~42 |
+| Going Rogue | 0.80% | ~42 |
+| Furious First Responder | 0.80% | ~42 |
 | Is That All You've Got? | 0.70% | ~36 |
 | King of Liberty City | 0.50% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,186 (Ranked 122)  
+Progressed: 5,190 (Ranked 122)  
 Completed: 26 (0.50%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 26 (0.50%) (Ranked 106)
 | 2023-05-19 | 5,012 | 26 |
 | 2023-05-20 | 5,098 | 26 |
 | 2023-05-21 | 5,159 | 26 |
-| 2023-05-22 | 5,186 | 26 |
+| 2023-05-22 | 5,190 | 26 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

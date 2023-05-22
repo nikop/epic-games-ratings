@@ -82,7 +82,7 @@
   "Tags": [],
   "EOS_Progressed": 1138,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2212,9 +2212,9 @@
       "ID": "enlightenment",
       "SetID": "3nl4bcg",
       "Name": "Enlightenment",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 125
     },
     {
       "ID": "exoticmerchant",
@@ -2653,8 +2653,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-18T22:58:45.6795503+00:00",
-  "LastChanged_Achievements": "2023-05-22T14:06:09.0106411+00:00",
+  "LastChanged_Achievements": "2023-05-22T15:06:11.5445836+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:34.8363446+00:00",
-  "LastUpdate_Ratings": "2023-05-22T13:58:07.8647207+00:00",
-  "LastUpdate_Achievements": "2023-05-22T14:06:09.0107216+00:00"
+  "LastUpdate_Ratings": "2023-05-22T14:57:58.8107367+00:00",
+  "LastUpdate_Achievements": "2023-05-22T15:06:11.5446615+00:00"
 }

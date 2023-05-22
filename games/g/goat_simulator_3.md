@@ -5,47 +5,47 @@ Rating: 4.85 (Ranked 39)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~199,057 |
-| Private Club | 74.00% | ~161,871 |
-| Rogue Guild | 66.00% | ~144,371 |
-| I Watched the Intro | 57.00% | ~124,684 |
-| Covert Consortium | 55.00% | ~120,309 |
-| Goat Queen | 53.00% | ~115,934 |
-| Reach the Stratosphere | 49.00% | ~107,185 |
-| Synchronization Complete | 47.00% | ~102,810 |
-| Secret Society | 45.00% | ~98,435 |
-| Shadow Syndicate | 37.00% | ~80,935 |
-| What a Waste of Money | 33.00% | ~72,186 |
-| New Goat Order | 30.00% | ~65,623 |
-| Don't touch the servers | 28.00% | ~61,248 |
-| San Angora: Become Human | 26.00% | ~56,873 |
-| Raider of the Lost Parking Garage | 26.00% | ~56,873 |
-| Real Buoy | 26.00% | ~56,873 |
-| Welcome to Earth | 25.00% | ~54,686 |
-| Into the Matrix | 19.00% | ~41,561 |
-| Where is It? | 17.00% | ~37,186 |
-| Egg Simulator | 15.00% | ~32,812 |
-| Beauty, Mindfulness and Meditation | 15.00% | ~32,812 |
-| Black Market | 14.00% | ~30,624 |
-| 401(K.O.) | 14.00% | ~30,624 |
-| Car Cave | 12.00% | ~26,249 |
+| Forgotten Sorority | 91.00% | ~199,066 |
+| Private Club | 74.00% | ~161,878 |
+| Rogue Guild | 66.00% | ~144,378 |
+| I Watched the Intro | 57.00% | ~124,690 |
+| Covert Consortium | 55.00% | ~120,315 |
+| Goat Queen | 53.00% | ~115,940 |
+| Reach the Stratosphere | 49.00% | ~107,189 |
+| Synchronization Complete | 47.00% | ~102,814 |
+| Secret Society | 45.00% | ~98,439 |
+| Shadow Syndicate | 37.00% | ~80,939 |
+| What a Waste of Money | 33.00% | ~72,189 |
+| New Goat Order | 30.00% | ~65,626 |
+| Don't touch the servers | 28.00% | ~61,251 |
+| San Angora: Become Human | 26.00% | ~56,876 |
+| Raider of the Lost Parking Garage | 26.00% | ~56,876 |
+| Real Buoy | 26.00% | ~56,876 |
+| Welcome to Earth | 25.00% | ~54,688 |
+| Into the Matrix | 19.00% | ~41,563 |
+| Where is It? | 17.00% | ~37,188 |
+| Egg Simulator | 15.00% | ~32,813 |
+| Beauty, Mindfulness and Meditation | 15.00% | ~32,813 |
+| Black Market | 14.00% | ~30,626 |
+| 401(K.O.) | 14.00% | ~30,626 |
+| Car Cave | 12.00% | ~26,250 |
 | Club Mohair | 8.00% | ~17,500 |
 | A Center for Ants? | 8.00% | ~17,500 |
-| French Fika | 7.00% | ~15,312 |
+| French Fika | 7.00% | ~15,313 |
 | Nasty! | 4.00% | ~8,750 |
 | [REDACTED] | 4.00% | ~8,750 |
-| Who Baywatches the Baywatch? | 3.00% | ~6,562 |
+| Who Baywatches the Baywatch? | 3.00% | ~6,563 |
 | Cannibanana | 2.00% | ~4,375 |
 | Daredevil | 2.00% | ~4,375 |
-| Certified Fresh | 1.00% | ~2,187 |
-| Streaking | 1.00% | ~2,187 |
-| Try Hard 2 | 1.00% | ~2,187 |
+| Certified Fresh | 1.00% | ~2,188 |
+| Streaking | 1.00% | ~2,188 |
+| Try Hard 2 | 1.00% | ~2,188 |
 | Crocsquatch | 0.90% | ~1,969 |
 | You Trusted Your Instincts | 0.90% | ~1,969 |
-| Move! That! Bus! | 0.60% | ~1,312 |
+| Move! That! Bus! | 0.60% | ~1,313 |
 | G.O.A.T | 0.30% | ~656 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,744 (Ranked 46)  
+Progressed: 218,754 (Ranked 46)  
 Completed: 702 (0.32%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,10 +77,10 @@ Completed: 702 (0.32%) (Ranked 123)
 | 2023-05-19 | 217,745 | 700 |
 | 2023-05-20 | 218,185 | 701 |
 | 2023-05-21 | 218,593 | 701 |
-| 2023-05-22 | 218,744 | 702 |
+| 2023-05-22 | 218,754 | 702 |
 ## Awards
 Max (Great for Beginners): 323  (Ranked 218)  
-Sum: 2,727 (Ranked 161)  
+Sum: 2,728 (Ranked 161)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
@@ -91,7 +91,7 @@ Diff (max vs sum): 57
 | This game is Relaxing | 268 |
 | This game is Extremely Fun | 265 |
 | This game has Quickly Understood Controls | 262 |
-| This game has Amazing Storytelling | 261 |
+| This game has Amazing Storytelling | 262 |
 | This game has a Silly Community | 241 |
 | This game has Easy Combat | 228 |
 | This game is Educational | 158 |
@@ -159,4 +159,4 @@ Diff (max vs sum): 57
 | 2023-05-19 | 4.85 | 322 | 2,716 |
 | 2023-05-20 | 4.85 | 322 | 2,721 |
 | 2023-05-21 | 4.85 | 323 | 2,724 |
-| 2023-05-22 | 4.85 | 323 | 2,727 |
+| 2023-05-22 | 4.85 | 323 | 2,728 |

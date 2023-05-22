@@ -3,7 +3,7 @@
   "Name": "Ravenlok",
   "ProductSlug": "ravenlok-bcabbc",
   "Ranking_EOS_Progress": 174,
-  "Ranking_EOS_Completed": 23,
+  "Ranking_EOS_Completed": 22,
   "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
@@ -1671,9 +1671,9 @@
       "ID": "19",
       "SetID": "d0g98p",
       "Name": "A Grand Visit",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 564
+      "UsersEstimate": 572
     },
     {
       "ID": "2",
@@ -1751,9 +1751,9 @@
       "ID": "28",
       "SetID": "d0g98p",
       "Name": "Sword, Shield, Fight!",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 596
+      "UsersEstimate": 603
     },
     {
       "ID": "29",
@@ -1911,9 +1911,9 @@
       "ID": "46",
       "SetID": "d0g98p",
       "Name": "Flower Power",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 198
     },
     {
       "ID": "47",
@@ -2000,8 +2000,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-22T14:05:50.0080214+00:00",
+  "LastChanged_Achievements": "2023-05-22T15:05:51.9787114+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:59.9943101+00:00",
-  "LastUpdate_Ratings": "2023-05-22T13:57:30.2139145+00:00",
-  "LastUpdate_Achievements": "2023-05-22T14:05:50.0080771+00:00"
+  "LastUpdate_Ratings": "2023-05-22T14:57:21.8153173+00:00",
+  "LastUpdate_Achievements": "2023-05-22T15:05:51.9787534+00:00"
 }

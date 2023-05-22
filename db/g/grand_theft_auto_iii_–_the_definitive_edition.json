@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -238,9 +238,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5186,
+  "EOS_Progressed": 5190,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 277,
+  "EOS_NewPlayers": 280,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -1573,6 +1573,11 @@
       "Time": "2023-05-22T14:01:11.2625886+00:00",
       "NumProgressed": 5186,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-22T15:01:20.3342901+00:00",
+      "NumProgressed": 5190,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -1584,7 +1589,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4304
+      "UsersEstimate": 4308
     },
     {
       "ID": "ACH02",
@@ -1592,7 +1597,7 @@
       "Name": "Without a Scratch",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 1660
+      "UsersEstimate": 1661
     },
     {
       "ID": "ACH03",
@@ -1608,7 +1613,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 1867
+      "UsersEstimate": 1868
     },
     {
       "ID": "ACH05",
@@ -1632,7 +1637,7 @@
       "Name": "Planned Ahead",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH08",
@@ -1656,7 +1661,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "ACH11",
@@ -1664,7 +1669,7 @@
       "Name": "Wheels Up",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH12",
@@ -1696,7 +1701,7 @@
       "Name": "Full Artillery",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH16",
@@ -1704,7 +1709,7 @@
       "Name": "A Marked Man",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1245
+      "UsersEstimate": 1246
     },
     {
       "ID": "ACH17",
@@ -1712,7 +1717,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "ACH18",
@@ -1760,7 +1765,7 @@
       "Name": "Going Rogue",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH24",
@@ -1768,7 +1773,7 @@
       "Name": "Dirty Money",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "ACH25",
@@ -1784,7 +1789,7 @@
       "Name": "Furious First Responder",
       "Percentage": 0.8,
       "XP": 55,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH27",
@@ -1815,7 +1820,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 5186,
+      "Progressed": 5190,
       "Completed": 26
     }
   ],
@@ -1823,8 +1828,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-12T16:57:58.7220785+00:00",
-  "LastChanged_Achievements": "2023-05-22T14:01:11.2625872+00:00",
+  "LastChanged_Achievements": "2023-05-22T15:01:20.3342894+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:31.8748782+00:00",
-  "LastUpdate_Ratings": "2023-05-22T13:58:04.5117798+00:00",
-  "LastUpdate_Achievements": "2023-05-22T14:01:11.2626224+00:00"
+  "LastUpdate_Ratings": "2023-05-22T14:57:55.1204239+00:00",
+  "LastUpdate_Achievements": "2023-05-22T15:01:20.3343164+00:00"
 }

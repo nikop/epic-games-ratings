@@ -43,8 +43,8 @@
 | Starry: Arcania | 43.00% | ~65 |
 | Sing, My Angel | 40.00% | ~61 |
 | The Coreland | 39.00% | ~59 |
+| Starry: The Coreland | 37.00% | ~56 |
 | Feed the Fishes | 36.00% | ~55 |
-| Starry: The Coreland | 36.00% | ~55 |
 | Brilliant: Wasteland | 32.00% | ~49 |
 | Father of Nation | 30.00% | ~46 |
 | Dwarven Countdown | 28.00% | ~43 |
