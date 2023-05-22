@@ -10,7 +10,6 @@
 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 2023-05-19 | 2023-05-19 |
 | [Volley Pals](games/v/volley_pals.md) | 2023-05-19 | 2023-05-19 |
 | [Backbeat](games/b/backbeat.md) | 2023-05-19 | 2023-03-16 |
-| [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 2023-05-19 | 2019-05-21 |
 | [Minimal Move](games/m/minimal_move.md) | 2023-05-19 | 2021-03-30 |
 | [Riftbound](games/r/riftbound.md) | 2023-05-18 | 2022-05-12 |
 | [Without Escape](games/w/without_escape.md) | 2023-05-18 | 2018-04-23 |

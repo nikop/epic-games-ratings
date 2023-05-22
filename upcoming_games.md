@@ -1,8 +1,8 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 2023-05-22 | 2023-05-19 |
 | [Amnesia: The Bunker](games/a/amnesia__the_bunker.md) | 2023-05-23 | 2023-05-23 |
 | [Cubzh](games/c/cubzh.md) | 2023-05-23 | 2021-10-24 |
+| [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 2023-05-23 | 2019-05-21 |
 | [FutureGrind](games/8/80a76982ecc941dd864a8792a03a5ddc.md) | 2023-05-23 | 2019-01-22 |
 | [Planet of Lana](games/p/planet_of_lana.md) | 2023-05-23 | 2023-05-23 |
 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 2023-05-23 | 2023-05-23 |
@@ -17,6 +17,7 @@
 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 2023-05-25 | 2023-05-25 |
 | [Railway Empire 2](games/r/railway_empire_2.md) | 2023-05-25 | 2023-05-25 |
 | [Indoor Kickball](games/i/indoor_kickball.md) | 2023-05-26 | 2023-05-31 |
+| [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 2023-05-26 | 2023-05-19 |
 | [The Shape of Things](games/6/610757afe5b8478f89000d9779c205ef.md) | 2023-05-26 | 2023-05-26 |
 | [Doors - Paradox](games/8/88c17fed155e43068c338d33d1bcd481.md) | 2023-05-26 | 2022-11-03 |
 | [Gardenia](games/g/gardenia.md) | 2023-05-26 | 2023-05-26 |
