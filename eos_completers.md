@@ -7,7 +7,7 @@
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 21.21% |
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.55% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 8 | [Island Cities](games/i/island_cities.md) | 16.91% |
+| 8 | [Island Cities](games/i/island_cities.md) | 16.79% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 10 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
 | 10 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 12.50% |
@@ -19,7 +19,7 @@
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.12% |
 | 18 | [Time Loader](games/t/time_loader.md) | 8.08% |
 | 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.83% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.83% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.82% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
 | 22 | [Scorn](games/s/scorn.md) | 6.95% |
 | 23 | [Ravenlok](games/r/ravenlok.md) | 6.73% |
@@ -32,9 +32,9 @@
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.90% |
 | 31 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 4.88% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 33 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.55% |
+| 33 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.44% |
 | 34 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.43% |
-| 35 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.00% |
+| 35 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.99% |
 | 36 | [Doodle God](games/d/doodle_god.md) | 3.90% |
 | 37 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.88% |
 | 38 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
@@ -69,8 +69,8 @@
 | 67 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.68% |
 | 68 | [Night Book](games/n/night_book.md) | 1.63% |
 | 69 | [Somerville](games/s/somerville.md) | 1.60% |
-| 70 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.56% |
-| 71 | [Frogun](games/f/frogun.md) | 1.55% |
+| 70 | [Frogun](games/f/frogun.md) | 1.55% |
+| 71 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.54% |
 | 72 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 73 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.47% |
 | 74 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.46% |
@@ -93,8 +93,8 @@
 | 91 | [Them and Us](games/t/them_and_us.md) | 0.85% |
 | 92 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.84% |
 | 93 | [Lemon Cake](games/l/lemon_cake.md) | 0.83% |
-| 94 | [Adios](games/a/adios.md) | 0.82% |
-| 95 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.81% |
+| 94 | [Adios](games/a/adios.md) | 0.81% |
+| 94 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.81% |
 | 96 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.80% |
 | 97 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.75% |
 | 98 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.73% |
