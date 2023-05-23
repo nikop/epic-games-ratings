@@ -9,8 +9,8 @@
 | Solved third case | 63.00% | ~48 |
 | Solved fourth case | 43.00% | ~33 |
 | Solved seventh case | 22.00% | ~17 |
+| Solved eighth case | 22.00% | ~17 |
 | Solved sixth case | 21.00% | ~16 |
-| Solved eighth case | 21.00% | ~16 |
 | Solved ninth case | 21.00% | ~16 |
 | Solved fifth case | 17.00% | ~13 |
 | Solved tenth case | 17.00% | ~13 |

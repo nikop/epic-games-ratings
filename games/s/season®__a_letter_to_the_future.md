@@ -14,14 +14,14 @@
 | Emotional Baggage Handler | 17.00% | ~138 |
 | Dream Listener | 15.00% | ~122 |
 | Artist Assistant | 14.00% | ~114 |
-| Tour de Tieng | 13.00% | ~105 |
+| Tour de Tieng | 14.00% | ~114 |
 | Shrine Arriver | 12.00% | ~97 |
 | Goodbye Tieng Valley | 11.00% | ~89 |
 | The End | 11.00% | ~89 |
 | Love Uncoverer | 9.00% | ~73 |
 | Graffiti Artist | 8.00% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 811 (Ranked 172)  
+Progressed: 811 (Ranked 173)  
 Completed: 32 (3.95%) (Ranked 35)  
 ## EOS Players History
 | Date | Progressed | Completed |

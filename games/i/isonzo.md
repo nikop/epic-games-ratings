@@ -6,7 +6,7 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 54.00% | ~3,124 |
+| Peak Performance | 54.00% | ~3,125 |
 | Tutti Eroi! | 53.00% | ~3,067 |
 | You Shall Not Pass | 52.00% | ~3,009 |
 | Avanti Savoia! | 46.00% | ~2,662 |
@@ -18,9 +18,9 @@ Number of Ratings: 98  (23.09.2022)
 | Veni Vidi Vici | 21.00% | ~1,215 |
 | Decimation | 20.00% | ~1,157 |
 | Donatello | 20.00% | ~1,157 |
-| The Italian Job | 19.00% | ~1,099 |
-| Insubordination | 18.00% | ~1,041 |
-| The Lion of the Isonzo | 18.00% | ~1,041 |
+| The Italian Job | 19.00% | ~1,100 |
+| Insubordination | 18.00% | ~1,042 |
+| The Lion of the Isonzo | 18.00% | ~1,042 |
 | Ragazzi del '99 | 17.00% | ~984 |
 | Thus With A Kiss | 15.00% | ~868 |
 | Dirty Dozen | 13.00% | ~752 |
@@ -28,9 +28,9 @@ Number of Ratings: 98  (23.09.2022)
 | Uomo Universale | 13.00% | ~752 |
 | Machiavelli | 12.00% | ~694 |
 | Shaken, Not Stirred | 12.00% | ~694 |
-| Dante's Inferno | 11.00% | ~636 |
-| Die Bosniaken Kommen! | 11.00% | ~636 |
-| The Devil's Paintbrush | 11.00% | ~636 |
+| Dante's Inferno | 11.00% | ~637 |
+| Die Bosniaken Kommen! | 11.00% | ~637 |
+| The Devil's Paintbrush | 11.00% | ~637 |
 | I Have the High Ground | 9.00% | ~521 |
 | Millenial | 9.00% | ~521 |
 | The Show Must Go On | 8.00% | ~463 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~23 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,786 (Ranked 118)  
+Progressed: 5,787 (Ranked 118)  
 Completed: 8 (0.14%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 8 (0.14%) (Ranked 151)
 | 2023-05-20 | 5,718 | 8 |
 | 2023-05-21 | 5,764 | 8 |
 | 2023-05-22 | 5,784 | 8 |
-| 2023-05-23 | 5,786 | 8 |
+| 2023-05-23 | 5,787 | 8 |
 ## Awards
 Max (Highly Recommended): 30  (Ranked 445)  
 Sum: 237 (Ranked 343)  

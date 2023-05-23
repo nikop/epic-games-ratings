@@ -17,6 +17,7 @@ Number of Ratings: 177  (23.09.2022)
 | Caught in the Act | 0.40% | ~20 |
 | IRL Let's Player | 0.30% | ~15 |
 | Amy | 0.20% | ~10 |
+| Amy: Scavenger Hunt | 0.20% | ~10 |
 | I'll Be Back | 0.20% | ~10 |
 | Drunk and Disorderly: Ashley | 0.20% | ~10 |
 | Inspector | 0.20% | ~10 |
@@ -29,7 +30,6 @@ Number of Ratings: 177  (23.09.2022)
 | The Magic Number | 0.20% | ~10 |
 | Vickie | 0.20% | ~10 |
 | Against All Odds | 0.10% | ~5 |
-| Amy: Scavenger Hunt | 0.10% | ~5 |
 | Ashley | 0.10% | ~5 |
 | Benedict Brahrnold | 0.10% | ~5 |
 | Beyond the Call of Dude-y | 0.10% | ~5 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 | Derezzed | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,084 (Ranked 123)  
+Progressed: 5,086 (Ranked 123)  
 Completed: 2 (0.04%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,6 +108,7 @@ Completed: 2 (0.04%) (Ranked 177)
 | 2023-05-20 | 5,039 | 2 |
 | 2023-05-21 | 5,068 | 2 |
 | 2023-05-22 | 5,084 | 2 |
+| 2023-05-23 | 5,086 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

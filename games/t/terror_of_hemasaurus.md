@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Terror Rising | 67.00% | ~30 |
-| Jalopy Poppy | 64.00% | ~29 |
-| Green-Bodied Monster | 51.00% | ~23 |
-| Chopper Stopper | 44.00% | ~20 |
-| Test of Faith | 40.00% | ~18 |
-| Aerosolized | 38.00% | ~17 |
-| Reign of Terror | 31.00% | ~14 |
-| Monstrosity Atrocity | 31.00% | ~14 |
-| Crushing All Cars | 22.00% | ~10 |
-| Horror Show | 18.00% | ~8 |
-| Brain Chopper | 16.00% | ~7 |
+| Terror Rising | 67.00% | ~31 |
+| Jalopy Poppy | 65.00% | ~30 |
+| Green-Bodied Monster | 52.00% | ~24 |
+| Chopper Stopper | 46.00% | ~21 |
+| Test of Faith | 39.00% | ~18 |
+| Aerosolized | 39.00% | ~18 |
+| Reign of Terror | 33.00% | ~15 |
+| Monstrosity Atrocity | 33.00% | ~15 |
+| Crushing All Cars | 24.00% | ~11 |
+| Horror Show | 20.00% | ~9 |
+| Brain Chopper | 17.00% | ~8 |
+| Demolition Ambition | 13.00% | ~6 |
 | Night Bird | 13.00% | ~6 |
-| Demolition Ambition | 11.00% | ~5 |
 | Hindenburgerer | 7.00% | ~3 |
 | Punchy Wagon | 7.00% | ~3 |
 | Kill All Humans! | 7.00% | ~3 |
@@ -35,8 +35,8 @@
 | Trash the Planet. | 4.00% | ~2 |
 | Simulation 8e7d28c1 | 4.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45 (Ranked 290)  
-Completed: 2 (4.44%) (Ranked 33)  
+Progressed: 46 (Ranked 290)  
+Completed: 2 (4.35%) (Ranked 34)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -50,6 +50,7 @@ Completed: 2 (4.44%) (Ranked 33)
 | 2023-05-19 | 43 | 2 |
 | 2023-05-20 | 44 | 2 |
 | 2023-05-22 | 45 | 2 |
+| 2023-05-23 | 46 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

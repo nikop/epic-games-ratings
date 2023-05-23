@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 808,
+  "EOS_Progressed": 809,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 6.81,
+  "EOS_Completed_Percentage": 6.8,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -1612,6 +1612,11 @@
       "Time": "2023-05-22T22:05:04.7528422+00:00",
       "NumProgressed": 808,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-05-23T02:06:45.8923926+00:00",
+      "NumProgressed": 809,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 50,
@@ -1623,7 +1628,7 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "10",
@@ -1631,7 +1636,7 @@
       "Name": "Piece of Cake",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "11",
@@ -1653,9 +1658,9 @@
       "ID": "13",
       "SetID": "d0g98p",
       "Name": "Extinct Again!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 259
+      "UsersEstimate": 267
     },
     {
       "ID": "14",
@@ -1671,15 +1676,15 @@
       "Name": "Pull the Plug",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "16",
       "SetID": "d0g98p",
       "Name": "Soul Slayer",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 234
+      "UsersEstimate": 243
     },
     {
       "ID": "17",
@@ -1687,7 +1692,7 @@
       "Name": "The Downfall",
       "Percentage": 29,
       "XP": 40,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "18",
@@ -1695,7 +1700,7 @@
       "Name": "Surprise!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "19",
@@ -1743,7 +1748,7 @@
       "Name": "All Heart",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "24",
@@ -1759,7 +1764,7 @@
       "Name": "Trick Question!",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "26",
@@ -1783,7 +1788,7 @@
       "Name": "Sword, Shield, Fight!",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "29",
@@ -1807,15 +1812,15 @@
       "Name": "Gooey Delight!",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "31",
       "SetID": "d0g98p",
       "Name": "Little Shop",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 396
+      "UsersEstimate": 388
     },
     {
       "ID": "32",
@@ -1839,7 +1844,7 @@
       "Name": "Glimmer of Hope",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "35",
@@ -1847,7 +1852,7 @@
       "Name": "Teacups for Toppy",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "36",
@@ -1887,7 +1892,7 @@
       "Name": "A Prophecy",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "40",
@@ -1933,9 +1938,9 @@
       "ID": "45",
       "SetID": "d0g98p",
       "Name": "Extraordinary!",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 243
     },
     {
       "ID": "46",
@@ -1949,9 +1954,9 @@
       "ID": "47",
       "SetID": "d0g98p",
       "Name": "Crowned",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 170
+      "UsersEstimate": 178
     },
     {
       "ID": "48",
@@ -1959,15 +1964,15 @@
       "Name": "Into the Barn",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "49",
       "SetID": "d0g98p",
       "Name": "Final Showdown",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 243
     },
     {
       "ID": "5",
@@ -1975,7 +1980,7 @@
       "Name": "Well Rested",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "50",
@@ -1983,7 +1988,7 @@
       "Name": "Spot of Tea?",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "6",
@@ -1991,7 +1996,7 @@
       "Name": "Going Home",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "7",
@@ -2007,7 +2012,7 @@
       "Name": "Tragic Brave",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "9",
@@ -2015,14 +2020,14 @@
       "Name": "Curtain Call",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     }
   ],
   "AchievementSets": [
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 808,
+      "Progressed": 809,
       "Completed": 55
     }
   ],
@@ -2030,8 +2035,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-23T00:06:18.262715+00:00",
+  "LastChanged_Achievements": "2023-05-23T02:06:45.8923918+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:59.9943101+00:00",
-  "LastUpdate_Ratings": "2023-05-22T23:57:38.0723053+00:00",
-  "LastUpdate_Achievements": "2023-05-23T00:06:18.2627726+00:00"
+  "LastUpdate_Ratings": "2023-05-23T01:58:19.9888357+00:00",
+  "LastUpdate_Achievements": "2023-05-23T02:06:45.8924586+00:00"
 }

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finish Him | 89.00% | ~42 |
+| Finish Him | 91.00% | ~43 |
 | Just a Taste | 81.00% | ~38 |
 | Strange Skulls | 57.00% | ~27 |
 | Treasure Hunter | 55.00% | ~26 |

@@ -13,21 +13,21 @@ Rating: 4.55 (Ranked 467)
 | A Thousand Strong | 3.00% | ~63 |
 | Ready for a New World | 3.00% | ~63 |
 | Breaking Protocol | 3.00% | ~63 |
+| Hope Seeker | 3.00% | ~63 |
 | Guy de Borderlands | 2.00% | ~42 |
 | A Hunk of Junk | 2.00% | ~42 |
 | Fully Recycled | 2.00% | ~42 |
 | Permanent Redesigns | 2.00% | ~42 |
 | Ain't Nobody Got Time for That | 2.00% | ~42 |
 | The Ship of Theseus | 2.00% | ~42 |
-| Hope Seeker | 2.00% | ~42 |
 | Exceeding Capacity | 1.00% | ~21 |
 | Power Outage | 1.00% | ~21 |
 | Access Granted | 1.00% | ~21 |
 | Convenient Transport | 1.00% | ~21 |
 | Please Make it Stop! | 1.00% | ~21 |
+| From the Past | 1.00% | ~21 |
 | Sightseeing | 0.90% | ~19 |
 | Necessary Enhancement | 0.90% | ~19 |
-| From the Past | 0.90% | ~19 |
 | Man's Best Friend | 0.70% | ~15 |
 | In Dolos We Trust | 0.70% | ~15 |
 | BRAWL! | 0.70% | ~15 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 467)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,084 (Ranked 143)  
+Progressed: 2,086 (Ranked 143)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-20 | 2,021 | 0 |
 | 2023-05-21 | 2,063 | 0 |
 | 2023-05-22 | 2,083 | 0 |
-| 2023-05-23 | 2,084 | 0 |
+| 2023-05-23 | 2,086 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

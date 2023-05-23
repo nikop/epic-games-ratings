@@ -115,9 +115,9 @@
       "ID": "BADGE_BOSS_3_KILL",
       "SetID": "ak6pfjk",
       "Name": "Clean Forests",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "BADGE_BOSS_4_KILL",
@@ -379,9 +379,9 @@
       "ID": "BADGE_FORESTS_CUT",
       "SetID": "ak6pfjk",
       "Name": "Woodcutter",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 105
     },
     {
       "ID": "BADGE_GOLD_COINS_COLLECT",
@@ -451,9 +451,9 @@
       "ID": "BADGE_PLAYER_RANK_2",
       "SetID": "ak6pfjk",
       "Name": "Lieutenant of the Evil",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "BADGE_POLYMORPH_COUNT",
@@ -524,8 +524,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-05-23T00:02:02.7398184+00:00",
+  "LastChanged_Achievements": "2023-05-23T02:02:02.8716983+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:11.9155795+00:00",
-  "LastUpdate_Ratings": "2023-05-22T23:59:03.2307065+00:00",
-  "LastUpdate_Achievements": "2023-05-23T00:02:02.7398808+00:00"
+  "LastUpdate_Ratings": "2023-05-23T01:59:30.758775+00:00",
+  "LastUpdate_Achievements": "2023-05-23T02:02:02.8717612+00:00"
 }

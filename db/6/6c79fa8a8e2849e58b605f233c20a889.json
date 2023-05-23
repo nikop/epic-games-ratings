@@ -2,9 +2,9 @@
   "ID": "6c79fa8a8e2849e58b605f233c20a889",
   "Name": "Feud",
   "ProductSlug": "feud-19b141",
-  "Ranking_EOS_Progress": 226,
+  "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 220,
+  "EOS_Progressed": 251,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 219,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -84,6 +84,11 @@
       "Time": "2023-05-23T00:02:38.8124963+00:00",
       "NumProgressed": 220,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-23T02:04:13.5459483+00:00",
+      "NumProgressed": 251,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -95,7 +100,7 @@
       "Name": "Aggressor",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "AI_DRAW",
@@ -103,7 +108,7 @@
       "Name": "Puppetmaster",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "BOT_DESTROYER",
@@ -111,23 +116,23 @@
       "Name": "Bot Destroyer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "CLUMSY",
       "SetID": "8lhbnh7",
       "Name": "Whoops",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "CONQUEROR",
       "SetID": "8lhbnh7",
       "Name": "Harold Rex Interfectus Est",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 55
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -135,15 +140,15 @@
       "Name": "Express Yourself",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "FACE_FACE",
       "SetID": "8lhbnh7",
       "Name": "Face-To-Face",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "FACE_SCREEN_FACE",
@@ -151,15 +156,15 @@
       "Name": "Face-To-Screen-To-Face",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "FEUD_APPRENTICE",
       "SetID": "8lhbnh7",
       "Name": "Apprentice",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FEUD_GRANDMASTER",
@@ -173,33 +178,33 @@
       "ID": "FEUD_NOVICE",
       "SetID": "8lhbnh7",
       "Name": "Novice",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 88
     },
     {
       "ID": "GLOVE_SLAP",
       "SetID": "8lhbnh7",
       "Name": "Glove Slap!",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "GONNA_FLY_NOW",
       "SetID": "8lhbnh7",
       "Name": "Gonna Fly Now",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "GRASSHOPPER",
       "SetID": "8lhbnh7",
       "Name": "Grasshopper",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 123
+      "UsersEstimate": 143
     },
     {
       "ID": "GUARD_MAKER",
@@ -223,15 +228,15 @@
       "Name": "Clash of Kings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "KNIGHT_MASTERY",
       "SetID": "8lhbnh7",
       "Name": "Knight Commander",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MEDIC_MASTERY",
@@ -253,7 +258,7 @@
       "ID": "SMARTER_THAN_A_BEAR",
       "SetID": "8lhbnh7",
       "Name": "Smarter than a Bear",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -270,13 +275,13 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 220,
+      "Progressed": 251,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-05-23T00:02:38.8124955+00:00",
+  "LastChanged_Achievements": "2023-05-23T02:04:13.5459476+00:00",
   "LastUpdate_AppInfo": "2023-05-16T13:56:59.1730865+00:00",
-  "LastUpdate_Ratings": "2023-05-22T23:57:09.1216407+00:00",
-  "LastUpdate_Achievements": "2023-05-23T00:02:38.8125137+00:00"
+  "LastUpdate_Ratings": "2023-05-23T01:57:55.4888517+00:00",
+  "LastUpdate_Achievements": "2023-05-23T02:04:13.545964+00:00"
 }

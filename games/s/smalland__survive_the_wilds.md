@@ -9,7 +9,7 @@ Rating: 4.51 (Ranked 518)
 | Getting some shuteye | 3.00% | ~563 |
 | Insect hunter | 3.00% | ~563 |
 | Stone Age | 3.00% | ~563 |
-| Safe! | 2.00% | ~375 |
+| Safe! | 2.00% | ~376 |
 | Forming bonds | 1.00% | ~188 |
 | Vertebrate hunter | 1.00% | ~188 |
 | Smooth as silk | 1.00% | ~188 |
@@ -19,7 +19,7 @@ Rating: 4.51 (Ranked 518)
 | Something Wicked | 0.30% | ~56 |
 | The Key | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,771 (Ranked 94)  
+Progressed: 18,776 (Ranked 94)  
 Completed: 18 (0.10%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,7 +52,7 @@ Completed: 18 (0.10%) (Ranked 158)
 | 2023-05-20 | 18,713 | 18 |
 | 2023-05-21 | 18,744 | 18 |
 | 2023-05-22 | 18,769 | 18 |
-| 2023-05-23 | 18,771 | 18 |
+| 2023-05-23 | 18,776 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

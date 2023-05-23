@@ -19,8 +19,8 @@
 | Drunken Master | 72.00% | ~109 |
 | Sergeant of the Evil | 72.00% | ~109 |
 | V.I.P. Cemetery | 70.00% | ~106 |
+| Woodcutter | 69.00% | ~105 |
 | Takeover | 68.00% | ~103 |
-| Woodcutter | 68.00% | ~103 |
 | Sharpshooter | 68.00% | ~103 |
 | Architect of Darkness | 68.00% | ~103 |
 | Top of the World | 67.00% | ~102 |
@@ -30,9 +30,9 @@
 | Combo Breaker | 61.00% | ~93 |
 | Thunderstorm | 61.00% | ~93 |
 | Brilliant: Holy Mountain | 59.00% | ~90 |
-| Clean Forests | 57.00% | ~87 |
+| Clean Forests | 58.00% | ~88 |
 | Starry: Meadowshire | 55.00% | ~84 |
-| Lieutenant of the Evil | 53.00% | ~81 |
+| Lieutenant of the Evil | 54.00% | ~82 |
 | Avada Kedavra | 52.00% | ~79 |
 | Brilliant: Tanglewood | 51.00% | ~78 |
 | Starry: Holy Mountain | 51.00% | ~78 |

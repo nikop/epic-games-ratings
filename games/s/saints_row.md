@@ -6,46 +6,46 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 12.00% | ~4,014 |
-| To The Nines | 10.00% | ~3,345 |
-| Optimized | 8.00% | ~2,676 |
-| The Side Job | 7.00% | ~2,341 |
-| Wet Work | 7.00% | ~2,341 |
-| Tune Up | 7.00% | ~2,341 |
-| Performance Review | 7.00% | ~2,341 |
-| Making a Name | 7.00% | ~2,341 |
-| Landlord | 6.00% | ~2,007 |
-| Food for Thought | 6.00% | ~2,007 |
-| Wrecking Ball | 5.00% | ~1,672 |
-| Finders Keepers | 4.00% | ~1,338 |
-| A Young Empire | 4.00% | ~1,338 |
-| Work Ethic | 4.00% | ~1,338 |
-| Quality Time | 3.00% | ~1,003 |
-| Power Players | 3.00% | ~1,003 |
-| Took It to The Limit | 3.00% | ~1,003 |
-| Picking Fights | 3.00% | ~1,003 |
-| Hijacked | 2.00% | ~669 |
-| Showdown | 2.00% | ~669 |
-| The Spins | 2.00% | ~669 |
-| Masters of Santo Ileso | 2.00% | ~669 |
-| The Mechanic | 2.00% | ~669 |
-| Kitted Out | 2.00% | ~669 |
-| Et tu? | 2.00% | ~669 |
-| Producer Credit | 2.00% | ~102 |
-| We could go home, or… | 1.00% | ~334 |
-| Challenge Accepted | 1.00% | ~334 |
-| Untouchable | 1.00% | ~334 |
-| A Golden Age | 1.00% | ~334 |
-| Closet Space | 1.00% | ~334 |
+| First F#@!ing Day | 12.00% | ~4,019 |
+| To The Nines | 10.00% | ~3,349 |
+| Optimized | 8.00% | ~2,679 |
+| Performance Review | 8.00% | ~2,679 |
+| The Side Job | 7.00% | ~2,345 |
+| Wet Work | 7.00% | ~2,345 |
+| Tune Up | 7.00% | ~2,345 |
+| Making a Name | 7.00% | ~2,345 |
+| Landlord | 6.00% | ~2,010 |
+| Food for Thought | 6.00% | ~2,010 |
+| Wrecking Ball | 5.00% | ~1,675 |
+| Finders Keepers | 4.00% | ~1,340 |
+| A Young Empire | 4.00% | ~1,340 |
+| Work Ethic | 4.00% | ~1,340 |
+| Quality Time | 3.00% | ~1,005 |
+| Power Players | 3.00% | ~1,005 |
+| Et tu? | 3.00% | ~1,005 |
+| Took It to The Limit | 3.00% | ~1,005 |
+| Picking Fights | 3.00% | ~1,005 |
+| Hijacked | 2.00% | ~670 |
+| Showdown | 2.00% | ~670 |
+| The Spins | 2.00% | ~670 |
+| Masters of Santo Ileso | 2.00% | ~670 |
+| The Mechanic | 2.00% | ~670 |
+| Kitted Out | 2.00% | ~670 |
+| Producer Credit | 2.00% | ~103 |
+| We could go home, or… | 1.00% | ~335 |
+| Challenge Accepted | 1.00% | ~335 |
+| Untouchable | 1.00% | ~335 |
+| A Golden Age | 1.00% | ~335 |
+| Closet Space | 1.00% | ~335 |
+| Smooth Moves | 1.00% | ~335 |
 | Face Off | 1.00% | ~51 |
 | Hazardous Heist | 1.00% | ~51 |
 | Free Refills | 0.90% | ~301 |
-| Smooth Moves | 0.90% | ~301 |
+| Prankster | 0.90% | ~301 |
 | The Professional | 0.80% | ~268 |
-| Prankster | 0.80% | ~268 |
+| Chaos Tamer | 0.70% | ~234 |
 | Neighborly | 0.70% | ~234 |
-| Chaos Tamer | 0.60% | ~201 |
-| Tourist | 0.60% | ~201 |
+| Tourist | 0.70% | ~234 |
 | Shopping Spree | 0.50% | ~167 |
 | Always Be Hustling | 0.50% | ~167 |
 | Bonus Round | 0.40% | ~134 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Heard You Like Wheels | 0.10% | ~33 |
 | Fiesta Time | 0.10% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,446 (Ranked 82)  
+Progressed: 33,493 (Ranked 82)  
 Completed: 20 (0.06%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,17 +93,17 @@ Completed: 20 (0.06%) (Ranked 170)
 | 2023-05-20 | 31,752 | 19 |
 | 2023-05-21 | 32,742 | 20 |
 | 2023-05-22 | 33,412 | 20 |
-| 2023-05-23 | 33,446 | 20 |
+| 2023-05-23 | 33,493 | 20 |
 ## Awards
 Max (Extremely Fun): 1,029  (Ranked 133)  
-Sum: 8,351 (Ranked 88)  
+Sum: 8,352 (Ranked 88)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 1,029 |
 | This game has Quickly Understood Controls | 1,000 |
 | This game is Highly Recommended | 973 |
-| This game has Amazing Characters | 958 |
+| This game has Amazing Characters | 959 |
 | This game is Great for Beginners | 955 |
 | This game has Diverse Characters | 954 |
 | This game is Relaxing | 954 |
@@ -189,3 +189,4 @@ Diff (max vs sum): 45
 | 2023-05-19 | 3.78 | - | 1,029 | 8,339 |
 | 2023-05-20 | 3.78 | - | 1,029 | 8,346 |
 | 2023-05-21 | 3.78 | - | 1,029 | 8,351 |
+| 2023-05-23 | 3.78 | - | 1,029 | 8,352 |

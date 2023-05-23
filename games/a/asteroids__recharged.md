@@ -8,10 +8,10 @@
 | The Hero | 70.00% | ~46 |
 | The Hitman | 58.00% | ~38 |
 | Keep Yourself Alive | 55.00% | ~36 |
-| Misfire | 44.00% | ~29 |
+| Misfire | 45.00% | ~30 |
 | All Dead, All Dead | 41.00% | ~27 |
-| The Miracle | 39.00% | ~26 |
-| The Invisible Man | 35.00% | ~23 |
+| The Miracle | 41.00% | ~27 |
+| The Invisible Man | 36.00% | ~24 |
 | We Will Rock You | 30.00% | ~20 |
 | Rock It | 27.00% | ~18 |
 | Friends Will Be Friends | 11.00% | ~7 |

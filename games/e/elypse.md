@@ -18,17 +18,17 @@
 | Hard Rock | 30.00% | ~11 |
 | Rock Solid | 27.00% | ~10 |
 | The beast within | 27.00% | ~10 |
+| Rooftop | 27.00% | ~10 |
 | It's getting dark | 27.00% | ~10 |
-| Rooftop | 24.00% | ~9 |
-| Homeless | 22.00% | ~8 |
+| Homeless | 24.00% | ~9 |
+| Big badaboom! | 22.00% | ~8 |
+| Compulsive hoarder | 19.00% | ~7 |
+| Nokron tower | 19.00% | ~7 |
 | Magnitude 5 | 19.00% | ~7 |
-| Big badaboom! | 19.00% | ~7 |
-| Compulsive hoarder | 16.00% | ~6 |
-| Nokron tower | 16.00% | ~6 |
-| Payback | 16.00% | ~6 |
-| Full power | 14.00% | ~5 |
-| "Ah sh*t... Here we go again!" | 14.00% | ~5 |
-| Bookworm | 14.00% | ~5 |
+| Payback | 19.00% | ~7 |
+| Full power | 16.00% | ~6 |
+| "Ah sh*t... Here we go again!" | 16.00% | ~6 |
+| Bookworm | 16.00% | ~6 |
 | MayDay! MayDay! | 11.00% | ~4 |
 | GG EZ | 5.00% | ~2 |
 | Comeback | 5.00% | ~2 |

@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 21915,
+  "EOS_Progressed": 21927,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 1155,
+  "EOS_NewPlayers": 1156,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3376,6 +3376,11 @@
       "Time": "2023-05-23T00:06:43.7210018+00:00",
       "NumProgressed": 21915,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-23T02:07:08.3123098+00:00",
+      "NumProgressed": 21927,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 29,
@@ -3387,7 +3392,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3506
+      "UsersEstimate": 3508
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -3395,7 +3400,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4383
+      "UsersEstimate": 4385
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -3403,7 +3408,7 @@
       "Name": "Start As You Mean To Go On",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_05_DEFEATED_THORN_BEAST",
@@ -3427,7 +3432,7 @@
       "Name": "Down Boy!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
@@ -3499,7 +3504,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -3539,7 +3544,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -3547,7 +3552,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -3563,7 +3568,7 @@
       "Name": "Hail the Great Horned Metal God!",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_25_TALISMAN_COMPLETE",
@@ -3618,7 +3623,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 21915,
+      "Progressed": 21927,
       "Completed": 18
     }
   ],
@@ -3626,8 +3631,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-05-23T00:06:43.7210013+00:00",
+  "LastChanged_Achievements": "2023-05-23T02:07:08.3123091+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:39.6610119+00:00",
-  "LastUpdate_Ratings": "2023-05-23T00:00:43.733122+00:00",
-  "LastUpdate_Achievements": "2023-05-23T00:06:43.7210805+00:00"
+  "LastUpdate_Ratings": "2023-05-23T02:00:55.5362396+00:00",
+  "LastUpdate_Achievements": "2023-05-23T02:07:08.3123496+00:00"
 }

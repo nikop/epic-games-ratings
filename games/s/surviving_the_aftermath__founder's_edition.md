@@ -6,19 +6,19 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~3,932 |
-| Leader | 60.00% | ~3,370 |
-| Explorer | 53.00% | ~2,977 |
-| Healer | 53.00% | ~2,977 |
-| Aspiring Inventor | 44.00% | ~2,471 |
+| First Step | 70.00% | ~3,933 |
+| Leader | 60.00% | ~3,371 |
+| Explorer | 53.00% | ~2,978 |
+| Healer | 53.00% | ~2,978 |
+| Aspiring Inventor | 44.00% | ~2,472 |
 | Adventurer | 41.00% | ~2,303 |
-| Famous Healer | 38.00% | ~2,134 |
+| Famous Healer | 38.00% | ~2,135 |
 | Local Leader | 35.00% | ~1,966 |
 | New Opportunities | 34.00% | ~1,910 |
 | Famous Explorer | 33.00% | ~1,854 |
 | Energized | 33.00% | ~1,854 |
 | The Long Haul | 33.00% | ~1,854 |
-| Survivor | 31.00% | ~1,741 |
+| Survivor | 31.00% | ~1,742 |
 | The Great Healer | 30.00% | ~1,685 |
 | Catastrofan | 28.00% | ~1,573 |
 | Legendary Explorer | 27.00% | ~1,517 |
@@ -36,7 +36,7 @@ Number of Ratings: 836  (23.09.2022)
 | Big Game Hunter | 16.00% | ~899 |
 | Spreading Influence | 16.00% | ~899 |
 | Around the World | 15.00% | ~843 |
-| Bookworm | 14.00% | ~786 |
+| Bookworm | 14.00% | ~787 |
 | Famous Adventurer | 13.00% | ~730 |
 | Prepared for Anything | 13.00% | ~730 |
 | Big Catastrofan | 12.00% | ~674 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Finnished | 0.20% | ~11 |
 | Customized calamities | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,617 (Ranked 121)  
+Progressed: 5,618 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,6 +99,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-20 | 5,518 | 0 |
 | 2023-05-21 | 5,581 | 0 |
 | 2023-05-22 | 5,617 | 0 |
+| 2023-05-23 | 5,618 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 325)  
 Sum: 652 (Ranked 270)  

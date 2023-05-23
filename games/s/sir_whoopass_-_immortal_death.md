@@ -19,53 +19,54 @@
 | Make Love not War-Craft a Mistlefoe | 59.00% | ~29 |
 | Fire-fighter! | 57.00% | ~28 |
 | Meat grinder | 55.00% | ~27 |
+| You're not going to blow me up! | 47.00% | ~23 |
 | Butcher | 45.00% | ~22 |
-| You're not going to blow me up! | 45.00% | ~22 |
-| Mushroom soup of the day | 43.00% | ~21 |
+| Mushroom soup of the day | 45.00% | ~22 |
+| My pants squeak when I walk | 45.00% | ~22 |
+| Honk honk! | 43.00% | ~21 |
 | Surprise!! | 43.00% | ~21 |
-| My pants squeak when I walk | 43.00% | ~21 |
 | Thats disgusting! | 43.00% | ~21 |
 | Spare Ribs | 43.00% | ~21 |
-| Honk honk! | 41.00% | ~20 |
 | Cockadoodledoo! | 39.00% | ~19 |
+| Make America Grate Again | 37.00% | ~18 |
 | Self assessed tax return | 37.00% | ~18 |
-| Make America Grate Again | 35.00% | ~17 |
-| Karaoke king | 33.00% | ~16 |
-| You are no match for me, Billy! | 31.00% | ~15 |
+| Karaoke king | 35.00% | ~17 |
+| You are no match for me, Billy! | 33.00% | ~16 |
+| Pasta Bolognese | 33.00% | ~16 |
+| You can't stop me, bro! | 31.00% | ~15 |
 | Haemochromatosis | 31.00% | ~15 |
-| Pasta Bolognese | 31.00% | ~15 |
+| Meatballs, coming up! | 29.00% | ~14 |
 | Catch the bus with me! | 29.00% | ~14 |
-| You can't stop me, bro! | 29.00% | ~14 |
-| Meatballs, coming up! | 27.00% | ~13 |
-| I'm going to get a concussion | 24.00% | ~12 |
-| Another one bites the iron | 22.00% | ~11 |
-| A Megapint...? | 18.00% | ~9 |
-| Hovering around | 16.00% | ~8 |
-| Ripe Meat Off The Bone! | 14.00% | ~7 |
+| I'm going to get a concussion | 29.00% | ~14 |
+| Another one bites the iron | 24.00% | ~12 |
+| A Megapint...? | 20.00% | ~10 |
+| Hovering around | 18.00% | ~9 |
+| Ripe Meat Off The Bone! | 16.00% | ~8 |
 | Just wing it! | 12.00% | ~6 |
 | Your daily dose of Vitamin C. | 12.00% | ~6 |
 | I cant stand still! | 12.00% | ~6 |
 | Kleptomaniac | 12.00% | ~6 |
+| Slimy... yet satisfying | 12.00% | ~6 |
 | You're not so Big anymore, Boi! | 10.00% | ~5 |
 | I drink, but I'm not a drunk! | 10.00% | ~5 |
-| Slimy... yet satisfying | 10.00% | ~5 |
+| Spoiler alert! | 8.00% | ~4 |
 | Yeehaw!!! | 8.00% | ~4 |
 | Master Butcher | 8.00% | ~4 |
-| Spoiler alert! | 6.00% | ~3 |
 | Ancient Ruins of Dirty Feet | 6.00% | ~3 |
 | Deal with it | 6.00% | ~3 |
 | You're looking mozzare-hella good! | 4.00% | ~2 |
 | Okay... Maybe I'm a bit drunk... | 4.00% | ~2 |
+| Scrambled Eggs | 4.00% | ~2 |
 | Ancient Ruins of Moist Overhangs | 2.00% | ~1 |
 | Ancient Ruins of Misplaced Belongings | 2.00% | ~1 |
 | Ancient Ruins of Imperfectly Designed Walls | 2.00% | ~1 |
+| Ancient Ruins of Inadequate Opportunities | 2.00% | ~1 |
 | Ancient Ruins of Stuffed Pantrys | 2.00% | ~1 |
 | I want to throw up! | 2.00% | ~1 |
 | My name is Whoopass, SIR Whoopass! | 2.00% | ~1 |
 | Timber! | 2.00% | ~1 |
 | Consider it dealt with | 2.00% | ~1 |
 | Grumpy Immortal | 2.00% | ~1 |
-| Scrambled Eggs | 2.00% | ~1 |
 | European karaoke king | 2.00% | ~1 |
 | Free Of Chains | 2.00% | ~1 |
 | Out of bounds | 2.00% | ~1 |
@@ -75,7 +76,6 @@
 | Ancient Ruins of Moldy Ceiling | 0.00% | ~0 |
 | Ancient Ruins of Poor Intrusion Prevention | 0.00% | ~0 |
 | Ancient Ruins of Peekaboo | 0.00% | ~0 |
-| Ancient Ruins of Inadequate Opportunities | 0.00% | ~0 |
 | Ancient Ruins of Stubbed Toes | 0.00% | ~0 |
 | Ancient Ruins of Leaky Roof | 0.00% | ~0 |
 | Ancient Ruins of Chilly Winds | 0.00% | ~0 |

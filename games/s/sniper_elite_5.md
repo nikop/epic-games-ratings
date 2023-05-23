@@ -8,9 +8,9 @@ Rating: 4.34 (Ranked 729)
 | Meeting Resistance | 14.00% | ~173 |
 | Confirming Suspicions | 9.00% | ~111 |
 | The Kraken Wakes | 6.00% | ~74 |
-| Enemy at the Gates | 4.00% | ~49 |
-| Lord of War | 4.00% | ~49 |
-| It's Starting to Crack | 4.00% | ~49 |
+| Enemy at the Gates | 4.00% | ~50 |
+| Lord of War | 4.00% | ~50 |
+| It's Starting to Crack | 4.00% | ~50 |
 | Just a Flesh Wound | 3.00% | ~37 |
 | Explosive Efficiency | 3.00% | ~37 |
 | Resourceful | 3.00% | ~37 |
@@ -31,7 +31,7 @@ Rating: 4.34 (Ranked 729)
 | Skirmisher | 0.90% | ~11 |
 | The Long Game | 0.90% | ~11 |
 | Precision Is Key | 0.90% | ~11 |
-| Der Geist | 0.70% | ~9 |
+| Der Geist | 0.80% | ~10 |
 | Climbing the Ladder | 0.60% | ~7 |
 | Set Europe Ablaze | 0.60% | ~7 |
 | Rigged to Blow | 0.60% | ~7 |
@@ -77,7 +77,7 @@ Rating: 4.34 (Ranked 729)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,234 (Ranked 158)  
+Progressed: 1,238 (Ranked 158)  
 Completed: 2 (0.16%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 2 (0.16%) (Ranked 145)
 | 2023-05-20 | 984 | 2 |
 | 2023-05-21 | 1,126 | 2 |
 | 2023-05-22 | 1,233 | 2 |
-| 2023-05-23 | 1,234 | 2 |
+| 2023-05-23 | 1,238 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

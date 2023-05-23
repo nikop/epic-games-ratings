@@ -5,24 +5,24 @@ Rating: 4.68 (Ranked 237)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 11.00% | ~44,751 |
-| 50 HEADSHOTS | 10.00% | ~40,683 |
-| FINISHED CHAPTER 1 | 8.00% | ~32,546 |
-| SCIENCE AND INDUSTRY | 8.00% | ~32,546 |
-| 200 HEADSHOTS | 6.00% | ~24,410 |
-| FINISHED CHAPTER 2 | 6.00% | ~24,410 |
-| FINISHED CHAPTER 3 | 5.00% | ~20,342 |
-| FINISHED CHAPTER 4 | 4.00% | ~16,273 |
-| FINISH CHAPTER 5 | 4.00% | ~16,273 |
-| CATHARTIC ESCAPISM | 4.00% | ~16,273 |
-| 1000 KILLS | 3.00% | ~12,205 |
-| FINISH CHAPTER 6 | 3.00% | ~12,205 |
-| FIREFIGHT LEVEL 10 | 1.00% | ~4,068 |
+| 100 KILLS | 11.00% | ~44,754 |
+| 50 HEADSHOTS | 10.00% | ~40,685 |
+| FINISHED CHAPTER 1 | 8.00% | ~32,548 |
+| SCIENCE AND INDUSTRY | 8.00% | ~32,548 |
+| 200 HEADSHOTS | 6.00% | ~24,411 |
+| FINISHED CHAPTER 2 | 6.00% | ~24,411 |
+| FINISHED CHAPTER 3 | 5.00% | ~20,343 |
+| FINISHED CHAPTER 4 | 4.00% | ~16,274 |
+| FINISH CHAPTER 5 | 4.00% | ~16,274 |
+| CATHARTIC ESCAPISM | 4.00% | ~16,274 |
+| 1000 KILLS | 3.00% | ~12,206 |
+| FINISH CHAPTER 6 | 3.00% | ~12,206 |
+| FIREFIGHT LEVEL 10 | 1.00% | ~4,069 |
 | FIREFIGHT LEVEL 20 | 0.60% | ~2,441 |
 | FIRST BLOOD | 0.50% | ~2,034 |
 | PACEMAKER | 0.40% | ~1,627 |
 | TIME PARADOX | 0.40% | ~1,627 |
-| FIREFIGHT LEVEL 30 | 0.30% | ~1,220 |
+| FIREFIGHT LEVEL 30 | 0.30% | ~1,221 |
 | FIREFIGHT LEVEL 40 | 0.20% | ~814 |
 | NEW GAME PLUS | 0.20% | ~814 |
 | OUT OF ORDER | 0.20% | ~814 |
@@ -58,7 +58,7 @@ Rating: 4.68 (Ranked 237)
 | THE GAMBLER | 0.10% | ~407 |
 | WARRIOR IN A GARDEN | 0.10% | ~407 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 406,830 (Ranked 34)  
+Progressed: 406,851 (Ranked 34)  
 Completed: 30 (0.01%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 30 (0.01%) (Ranked 193)
 | 2023-05-20 | 406,075 | 30 |
 | 2023-05-21 | 406,495 | 30 |
 | 2023-05-22 | 406,823 | 30 |
-| 2023-05-23 | 406,830 | 30 |
+| 2023-05-23 | 406,851 | 30 |
 ## Awards
 Max (Great Boss Battles): 170  (Ranked 275)  
 Sum: 170 (Ranked 366)  

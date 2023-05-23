@@ -6,21 +6,21 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 77.00% | ~2,329 |
-| Un-Lonely Island | 49.00% | ~1,482 |
+| Just One...More...Term... | 77.00% | ~2,331 |
+| Un-Lonely Island | 49.00% | ~1,483 |
 | The Beginning of a Servantship | 46.00% | ~1,392 |
 | Trade Is My Trait | 38.00% | ~1,150 |
-| Number 18 | 26.00% | ~786 |
+| Number 18 | 26.00% | ~787 |
 | We Don't Have Time For That | 20.00% | ~605 |
 | The Governator | 19.00% | ~575 |
-| The Legend of Langostino | 18.00% | ~544 |
-| Caribbean Comrade | 17.00% | ~514 |
+| The Legend of Langostino | 18.00% | ~545 |
+| Caribbean Comrade | 17.00% | ~515 |
 | The Dreamer of Dreams | 16.00% | ~484 |
 | Go Sovereigns! | 12.00% | ~363 |
 | For Science! | 12.00% | ~363 |
 | Happy Ending? | 11.00% | ~333 |
-| Of Seals And Men | 10.00% | ~302 |
-| Shackadelic | 10.00% | ~302 |
+| Of Seals And Men | 10.00% | ~303 |
+| Shackadelic | 10.00% | ~303 |
 | Double Trouble | 9.00% | ~272 |
 | Firestarter | 9.00% | ~272 |
 | Make Tropico Great Again! | 9.00% | ~272 |
@@ -38,16 +38,16 @@ Number of Ratings: 398  (23.09.2022)
 | Narcissist | 3.00% | ~91 |
 | Promising Endeavors | 3.00% | ~91 |
 | Terraformer | 3.00% | ~91 |
-| Chain Gang | 2.00% | ~60 |
-| From Knight to Little Duck | 2.00% | ~60 |
-| One Does Not Simply Stage A Coup | 2.00% | ~60 |
-| Sublime Subliminal Supreme | 2.00% | ~60 |
-| Teamplayer | 2.00% | ~60 |
-| Curse of the Mummy | 2.00% | ~60 |
+| Chain Gang | 2.00% | ~61 |
+| From Knight to Little Duck | 2.00% | ~61 |
+| One Does Not Simply Stage A Coup | 2.00% | ~61 |
+| Sublime Subliminal Supreme | 2.00% | ~61 |
+| Teamplayer | 2.00% | ~61 |
+| Curse of the Mummy | 2.00% | ~61 |
 | Survivor | 1.00% | ~30 |
 | My Ways | 0.30% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,025 (Ranked 133)  
+Progressed: 3,027 (Ranked 133)  
 Completed: 1 (0.03%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,6 +80,7 @@ Completed: 1 (0.03%) (Ranked 182)
 | 2023-05-20 | 2,959 | 1 |
 | 2023-05-21 | 3,002 | 1 |
 | 2023-05-22 | 3,025 | 1 |
+| 2023-05-23 | 3,027 | 1 |
 ## Awards
 Max (Great for Beginners): 104  (Ranked 319)  
 Sum: 750 (Ranked 254)  
