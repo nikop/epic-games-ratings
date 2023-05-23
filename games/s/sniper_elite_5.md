@@ -1,13 +1,13 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.35 (Ranked 719)  
+Rating: 4.35 (Ranked 720)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 15.00% | ~191 |
+| Meeting Resistance | 15.00% | ~192 |
 | Confirming Suspicions | 10.00% | ~128 |
-| The Kraken Wakes | 7.00% | ~89 |
+| The Kraken Wakes | 7.00% | ~90 |
 | It's Starting to Crack | 5.00% | ~64 |
 | Enemy at the Gates | 4.00% | ~51 |
 | Lord of War | 4.00% | ~51 |
@@ -20,21 +20,21 @@ Rating: 4.35 (Ranked 719)
 | Gunslinger | 2.00% | ~26 |
 | Die Nussknacker Sweet! | 2.00% | ~26 |
 | As Quiet as a Mouse | 2.00% | ~26 |
+| Close Quarters | 2.00% | ~26 |
 | Taking it back | 2.00% | ~26 |
 | Target America | 2.00% | ~26 |
+| Liberté | 1.00% | ~13 |
 | Fields of Glory | 1.00% | ~13 |
 | Skirmisher | 1.00% | ~13 |
 | Sharpshooter | 1.00% | ~13 |
 | Der Geist | 1.00% | ~13 |
-| Close Quarters | 1.00% | ~13 |
 | Snake in the Grass | 1.00% | ~13 |
 | The Kraken Sleeps | 1.00% | ~13 |
-| Liberté | 0.90% | ~11 |
-| The Long Game | 0.90% | ~11 |
-| Set Europe Ablaze | 0.90% | ~11 |
-| Precision Is Key | 0.90% | ~11 |
-| Climbing the Ladder | 0.70% | ~9 |
-| Rigged to Blow | 0.70% | ~9 |
+| The Long Game | 0.90% | ~12 |
+| Set Europe Ablaze | 0.90% | ~12 |
+| Precision Is Key | 0.90% | ~12 |
+| Climbing the Ladder | 0.80% | ~10 |
+| Rigged to Blow | 0.80% | ~10 |
 | No Stone Unturned | 0.50% | ~6 |
 | It'll Buff Right Out | 0.50% | ~6 |
 | Locomotion Commotion | 0.50% | ~6 |
@@ -77,8 +77,8 @@ Rating: 4.35 (Ranked 719)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,276 (Ranked 157)  
-Completed: 2 (0.16%) (Ranked 145)  
+Progressed: 1,282 (Ranked 157)  
+Completed: 2 (0.16%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -109,7 +109,7 @@ Completed: 2 (0.16%) (Ranked 145)
 | 2023-05-20 | 984 | 2 |
 | 2023-05-21 | 1,126 | 2 |
 | 2023-05-22 | 1,233 | 2 |
-| 2023-05-23 | 1,276 | 2 |
+| 2023-05-23 | 1,282 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

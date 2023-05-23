@@ -2,10 +2,10 @@
   "ID": "632b8c18774d480d978cb116518cd06b",
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
-  "Ranking_EOS_Progress": 265,
+  "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 81,
+  "EOS_Progressed": 92,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -45,6 +45,11 @@
       "Time": "2023-05-23T18:05:35.337762+00:00",
       "NumProgressed": 81,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-23T19:05:59.2859666+00:00",
+      "NumProgressed": 92,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -70,9 +75,9 @@
       "ID": "ASPIRING_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Aspiring Editor",
-      "Percentage": 0,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 14
     },
     {
       "ID": "ATTENBOROUGH",
@@ -238,9 +243,9 @@
       "ID": "FIRST_BLOOD",
       "SetID": "9a4jnji",
       "Name": "First Blood",
-      "Percentage": 20,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 69
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -286,9 +291,9 @@
       "ID": "GUN_FOR_HIRE",
       "SetID": "9a4jnji",
       "Name": "Gun for Hire",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 9
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -358,9 +363,9 @@
       "ID": "RANIDAPHOBIA",
       "SetID": "9a4jnji",
       "Name": "Ranidaphobia",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 18
     },
     {
       "ID": "RECYCLER",
@@ -422,9 +427,9 @@
       "ID": "TECHNOPHOBE",
       "SetID": "9a4jnji",
       "Name": "Technophobe",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -446,9 +451,9 @@
       "ID": "THE_WATCHERS",
       "SetID": "9a4jnji",
       "Name": "The Watchers",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "WIPE_OUT",
@@ -463,13 +468,13 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 81,
+      "Progressed": 92,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
-  "LastChanged_Achievements": "2023-05-23T18:05:35.3377612+00:00",
+  "LastChanged_Achievements": "2023-05-23T19:05:59.2859663+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:53.8503835+00:00",
-  "LastUpdate_Ratings": "2023-05-23T17:58:16.6724577+00:00",
-  "LastUpdate_Achievements": "2023-05-23T18:05:35.3378248+00:00"
+  "LastUpdate_Ratings": "2023-05-23T18:58:44.9643828+00:00",
+  "LastUpdate_Achievements": "2023-05-23T19:05:59.2860049+00:00"
 }

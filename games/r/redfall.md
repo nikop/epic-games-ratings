@@ -5,24 +5,24 @@ Rating: 3.40 (Ranked 925)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 78.00% | ~1,253 |
-| Home Is Where the Heart Is | 61.00% | ~980 |
-| Ne Plus Ultra | 61.00% | ~980 |
-| Wounded Whispers | 61.00% | ~980 |
+| I Like My Stakes Rare! | 78.00% | ~1,254 |
+| Home Is Where the Heart Is | 61.00% | ~981 |
+| Ne Plus Ultra | 61.00% | ~981 |
+| Wounded Whispers | 61.00% | ~981 |
 | Blood Will Have Blood | 50.00% | ~804 |
-| ICU | 46.00% | ~739 |
-| Catch and Release | 45.00% | ~723 |
-| Peek-a-boo | 44.00% | ~707 |
+| ICU | 46.00% | ~740 |
+| Catch and Release | 45.00% | ~724 |
+| Peek-a-boo | 44.00% | ~708 |
 | Sucks To Be You | 43.00% | ~691 |
 | Welcome to the Neighborhood | 38.00% | ~611 |
-| Fly Fisher | 35.00% | ~562 |
-| Throw The First Stone | 34.00% | ~546 |
-| Enter of Your Own Free Will | 32.00% | ~514 |
-| Heart Attack | 32.00% | ~514 |
-| Skin of Their Teeth | 32.00% | ~514 |
+| Fly Fisher | 35.00% | ~563 |
+| Throw The First Stone | 34.00% | ~547 |
+| Enter of Your Own Free Will | 32.00% | ~515 |
+| Heart Attack | 32.00% | ~515 |
+| Skin of Their Teeth | 32.00% | ~515 |
 | Grounded | 24.00% | ~386 |
-| Bad Wiring | 21.00% | ~337 |
-| I Spit On Your Grave | 20.00% | ~321 |
+| Bad Wiring | 21.00% | ~338 |
+| I Spit On Your Grave | 20.00% | ~322 |
 | Neighborhood Revitalization | 15.00% | ~241 |
 | Radio Silence | 15.00% | ~241 |
 | Helping Hand | 12.00% | ~193 |
@@ -47,12 +47,12 @@ Rating: 3.40 (Ranked 925)
 | Harvest’s End | 2.00% | ~32 |
 | Dexterity Save | 2.00% | ~32 |
 | Curious Finch | 2.00% | ~32 |
+| Friends 'Til The End | 2.00% | ~32 |
 | Neighborhood Watch | 1.00% | ~16 |
 | Monster Hunters Club | 1.00% | ~16 |
 | Friendgineering | 1.00% | ~16 |
 | Bloody Initiate | 1.00% | ~16 |
 | Under a Bushel | 1.00% | ~16 |
-| Friends 'Til The End | 1.00% | ~16 |
 | Ask Not For Whom The Horns Blow | 0.90% | ~14 |
 | Sisterhood | 0.70% | ~11 |
 | What Lies Below | 0.70% | ~11 |
@@ -72,7 +72,7 @@ Rating: 3.40 (Ranked 925)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,607 (Ranked 151)  
+Progressed: 1,608 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-20 | 1,586 | 0 |
 | 2023-05-21 | 1,596 | 0 |
 | 2023-05-22 | 1,600 | 0 |
-| 2023-05-23 | 1,607 | 0 |
+| 2023-05-23 | 1,608 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

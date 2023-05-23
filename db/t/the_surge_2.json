@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 103,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -225,9 +225,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1600,
+  "EOS_Progressed": 1601,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -525,6 +525,11 @@
       "Time": "2023-05-23T16:06:10.6589444+00:00",
       "NumProgressed": 1600,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-23T19:06:43.5482968+00:00",
+      "NumProgressed": 1601,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -544,7 +549,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1056
+      "UsersEstimate": 1057
     },
     {
       "ID": "ACHV_03",
@@ -646,25 +651,25 @@
       "ID": "ACHV_15",
       "SetID": "8p5mlmc",
       "Name": "Hello Darkness My Old Friend",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 64
     },
     {
       "ID": "ACHV_16",
       "SetID": "8p5mlmc",
       "Name": "It Lives! It Sniffs! It Conquers!",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 48
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHV_17",
       "SetID": "8p5mlmc",
       "Name": "Following In Their Footsteps",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 112
     },
     {
       "ID": "ACHV_18",
@@ -736,7 +741,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "ACHV_27",
@@ -840,7 +845,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1233
     },
     {
       "ID": "ACHV_40",
@@ -942,9 +947,9 @@
       "ID": "ACHV_52",
       "SetID": "8p5mlmc",
       "Name": "Juiced Up",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHV_53",
@@ -991,7 +996,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1600,
+      "Progressed": 1601,
       "Completed": 10
     }
   ],
@@ -999,8 +1004,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-05-23T18:06:20.1242593+00:00",
+  "LastChanged_Achievements": "2023-05-23T19:06:43.5482965+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:42.7008662+00:00",
-  "LastUpdate_Ratings": "2023-05-23T18:00:27.5723259+00:00",
-  "LastUpdate_Achievements": "2023-05-23T18:06:20.1243334+00:00"
+  "LastUpdate_Ratings": "2023-05-23T19:00:57.1284061+00:00",
+  "LastUpdate_Achievements": "2023-05-23T19:06:43.5483374+00:00"
 }

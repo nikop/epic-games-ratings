@@ -29,8 +29,8 @@
 | Bee Squat | 0.00% | ~0 |
 | The Germophobes | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 163 (Ranked 242)  
-Completed: 5 (3.07%) (Ranked 45)  
+Progressed: 164 (Ranked 241)  
+Completed: 5 (3.05%) (Ranked 45)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -40,7 +40,7 @@ Completed: 5 (3.07%) (Ranked 45)
 | 2023-05-05 | 158 | 5 |
 | 2023-05-20 | 160 | 5 |
 | 2023-05-21 | 162 | 5 |
-| 2023-05-23 | 163 | 5 |
+| 2023-05-23 | 164 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

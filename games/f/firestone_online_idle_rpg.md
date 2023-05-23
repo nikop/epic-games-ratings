@@ -5,36 +5,36 @@ Rating: 3.79 (Ranked 912)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,080 |
-| World Map | 80.00% | ~919 |
-| Temple of Eternals | 57.00% | ~655 |
-| Prestigious | 53.00% | ~609 |
+| Victor | 94.00% | ~1,081 |
+| World Map | 80.00% | ~920 |
+| Temple of Eternals | 57.00% | ~656 |
+| Prestigious | 53.00% | ~610 |
 | Fellowship Power | 40.00% | ~460 |
 | Guild Power | 24.00% | ~276 |
-| Prestigious x10 | 21.00% | ~241 |
+| Prestigious x10 | 21.00% | ~242 |
 | The game is on | 18.00% | ~207 |
 | Dragon Clicker | 16.00% | ~184 |
 | Exotic Merchant | 16.00% | ~184 |
 | Miner Clicker | 15.00% | ~172 |
 | Inspection | 14.00% | ~161 |
-| Full Party | 13.00% | ~149 |
-| Hero inspection | 13.00% | ~149 |
+| Full Party | 13.00% | ~150 |
+| Hero inspection | 13.00% | ~150 |
 | Dragon Master | 11.00% | ~126 |
 | Enlightenment | 11.00% | ~126 |
 | Lieutenant | 11.00% | ~126 |
 | Milestone collector | 10.00% | ~115 |
-| Mysterious Rock | 9.00% | ~103 |
-| Natural Talent | 9.00% | ~103 |
-| Superior | 9.00% | ~103 |
-| The Unstoppable | 9.00% | ~103 |
+| Mysterious Rock | 9.00% | ~104 |
+| Natural Talent | 9.00% | ~104 |
+| Superior | 9.00% | ~104 |
+| The Unstoppable | 9.00% | ~104 |
 | Scientist | 8.00% | ~92 |
-| Daily Quest Completionist | 7.00% | ~80 |
+| Daily Quest Completionist | 7.00% | ~81 |
 | Challenger | 6.00% | ~69 |
 | The power of Awakening | 6.00% | ~69 |
-| Frostfire Liberator | 5.00% | ~57 |
-| Hunter | 5.00% | ~57 |
-| Mastery | 5.00% | ~57 |
-| Scroll Master | 5.00% | ~57 |
+| Frostfire Liberator | 5.00% | ~58 |
+| Hunter | 5.00% | ~58 |
+| Mastery | 5.00% | ~58 |
+| Scroll Master | 5.00% | ~58 |
 | Moving Up The Ladder | 4.00% | ~46 |
 | The Expeditioner | 4.00% | ~46 |
 | Ancient Knowledge | 3.00% | ~34 |
@@ -51,11 +51,11 @@ Rating: 3.79 (Ranked 912)
 | Engineer Mastery | 2.00% | ~23 |
 | Master Enchanter | 2.00% | ~23 |
 | What lies behind the bush | 2.00% | ~23 |
-| Blueprint Upgrades | 1.00% | ~11 |
-| Enchanting skill | 1.00% | ~11 |
-| Four Leaf Clover | 1.00% | ~11 |
-| Lock And Load | 1.00% | ~11 |
-| Sailor | 1.00% | ~11 |
+| Blueprint Upgrades | 1.00% | ~12 |
+| Enchanting skill | 1.00% | ~12 |
+| Four Leaf Clover | 1.00% | ~12 |
+| Lock And Load | 1.00% | ~12 |
+| Sailor | 1.00% | ~12 |
 | Active Member | 0.90% | ~10 |
 | Crystal Mining | 0.80% | ~9 |
 | Ebony Jungle Liberator | 0.80% | ~9 |
@@ -81,7 +81,7 @@ Rating: 3.79 (Ranked 912)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,149 (Ranked 161)  
+Progressed: 1,150 (Ranked 161)  
 Completed: 1 (0.09%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 1 (0.09%) (Ranked 163)
 | 2023-05-20 | 1,114 | 1 |
 | 2023-05-21 | 1,133 | 1 |
 | 2023-05-22 | 1,141 | 1 |
-| 2023-05-23 | 1,149 | 1 |
+| 2023-05-23 | 1,150 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -212,9 +212,9 @@
       "ID": "BossKiller",
       "SetID": "82505mn",
       "Name": "Boss Killer",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 75
     },
     {
       "ID": "BugHunter",
@@ -340,9 +340,9 @@
       "ID": "MoneySwag",
       "SetID": "82505mn",
       "Name": "Money Swag",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "Necromancer",
@@ -509,8 +509,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-05-23T18:06:11.3655155+00:00",
+  "LastChanged_Achievements": "2023-05-23T19:06:34.5365214+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:07.6550194+00:00",
-  "LastUpdate_Ratings": "2023-05-23T17:59:29.7620564+00:00",
-  "LastUpdate_Achievements": "2023-05-23T18:06:11.3655688+00:00"
+  "LastUpdate_Ratings": "2023-05-23T18:59:59.369206+00:00",
+  "LastUpdate_Achievements": "2023-05-23T19:06:34.536547+00:00"
 }

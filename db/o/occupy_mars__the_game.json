@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -733,17 +733,17 @@
       "ID": "ACHIEVEMENT_THE_COLLECTOR",
       "SetID": "l546gc",
       "Name": "The Collector",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
       "SetID": "l546gc",
       "Name": "Zero Waste",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 186
+      "UsersEstimate": 194
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -853,9 +853,9 @@
       "ID": "NEW_ACHIEVEMENT_GARDENER",
       "SetID": "l546gc",
       "Name": "Gardener",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 127
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -1054,8 +1054,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-05-22T10:57:22.9515554+00:00",
-  "LastChanged_Achievements": "2023-05-23T18:01:00.5926419+00:00",
+  "LastChanged_Achievements": "2023-05-23T19:01:31.6828189+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:55.9692167+00:00",
-  "LastUpdate_Ratings": "2023-05-23T17:57:18.6980521+00:00",
-  "LastUpdate_Achievements": "2023-05-23T18:01:00.5926883+00:00"
+  "LastUpdate_Ratings": "2023-05-23T18:57:47.0942811+00:00",
+  "LastUpdate_Achievements": "2023-05-23T19:01:31.6828711+00:00"
 }

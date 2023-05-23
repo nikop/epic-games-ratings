@@ -4,8 +4,8 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2018-09-17T22:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 606,
+  "EOS_Progressed": 607,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.17,
+  "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:25.9080713+00:00",
@@ -168,6 +168,11 @@
       "Time": "2023-05-23T13:12:19.8893884+00:00",
       "NumProgressed": 606,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-23T19:06:12.6170419+00:00",
+      "NumProgressed": 607,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -251,15 +256,15 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "Achievement_DustToDust",
       "SetID": "c01p6e5",
       "Name": "Dust to Dust",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 346
     },
     {
       "ID": "Achievement_EcoShuttle",
@@ -313,9 +318,9 @@
       "ID": "Achievement_ForScience",
       "SetID": "c01p6e5",
       "Name": "For Science!",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 188
     },
     {
       "ID": "Achievement_Friendzone",
@@ -323,7 +328,7 @@
       "Name": "Friendzone",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -355,7 +360,7 @@
       "Name": "Hello World",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "Achievement_Improvinator",
@@ -411,7 +416,7 @@
       "Name": "Mutiny in making",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "Achievement_Muttnik",
@@ -467,7 +472,7 @@
       "Name": "Space Colonization",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "Achievement_SpaceEngineer",
@@ -481,9 +486,9 @@
       "ID": "Achievement_SpaceExplorer",
       "SetID": "c01p6e5",
       "Name": "Space Explorer",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 85
     },
     {
       "ID": "Achievement_SpaceSelfie",
@@ -530,7 +535,7 @@
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 606,
+      "Progressed": 607,
       "Completed": 1
     }
   ],
@@ -538,8 +543,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-05-23T18:05:48.9879789+00:00",
+  "LastChanged_Achievements": "2023-05-23T19:06:12.6170414+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:12.4303975+00:00",
-  "LastUpdate_Ratings": "2023-05-23T17:58:50.6231319+00:00",
-  "LastUpdate_Achievements": "2023-05-23T18:05:48.9880163+00:00"
+  "LastUpdate_Ratings": "2023-05-23T18:59:18.1264527+00:00",
+  "LastUpdate_Achievements": "2023-05-23T19:06:12.6170712+00:00"
 }

@@ -12,7 +12,7 @@
 | Solved eighth case | 22.00% | ~17 |
 | Solved sixth case | 21.00% | ~16 |
 | Solved ninth case | 21.00% | ~16 |
-| Solved fifth case | 17.00% | ~13 |
+| Solved fifth case | 18.00% | ~14 |
 | Solved tenth case | 17.00% | ~13 |
 | Solved eleventh case | 16.00% | ~12 |
 ## Popularity (Based on EOS Achievements)

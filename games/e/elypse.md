@@ -22,13 +22,13 @@
 | It's getting dark | 28.00% | ~11 |
 | Homeless | 26.00% | ~10 |
 | Big badaboom! | 23.00% | ~9 |
+| Nokron tower | 21.00% | ~8 |
+| Payback | 21.00% | ~8 |
 | Compulsive hoarder | 18.00% | ~7 |
-| Nokron tower | 18.00% | ~7 |
 | Magnitude 5 | 18.00% | ~7 |
-| Payback | 18.00% | ~7 |
+| Bookworm | 18.00% | ~7 |
 | Full power | 15.00% | ~6 |
 | "Ah sh*t... Here we go again!" | 15.00% | ~6 |
-| Bookworm | 15.00% | ~6 |
 | MayDay! MayDay! | 13.00% | ~5 |
 | GG EZ | 5.00% | ~2 |
 | Comeback | 5.00% | ~2 |
@@ -39,7 +39,7 @@
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39 (Ranked 297)  
+Progressed: 39 (Ranked 298)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |

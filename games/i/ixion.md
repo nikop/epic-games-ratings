@@ -43,11 +43,11 @@ Rating: 4.55 (Ranked 466)
 | Praise the Hull! | 0.40% | ~8 |
 | What the Ruins Teach Us | 0.40% | ~8 |
 | Space Greenhouse | 0.30% | ~6 |
+| Help of the Forgotten Member | 0.30% | ~6 |
 | Mutual Loyalty | 0.20% | ~4 |
 | Better Him Than Me | 0.20% | ~4 |
 | Tiqqun Unchained | 0.20% | ~4 |
 | Scientifically Accurate | 0.20% | ~4 |
-| Help of the Forgotten Member | 0.20% | ~4 |
 | Tiqqun Contender | 0.10% | ~2 |
 | Remember the Dead | 0.10% | ~2 |
 | Catastrophe Avoided | 0.10% | ~2 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 466)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,104 (Ranked 143)  
+Progressed: 2,106 (Ranked 143)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-20 | 2,021 | 0 |
 | 2023-05-21 | 2,063 | 0 |
 | 2023-05-22 | 2,083 | 0 |
-| 2023-05-23 | 2,104 | 0 |
+| 2023-05-23 | 2,106 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

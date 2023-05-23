@@ -6,44 +6,44 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 68.00% | ~28,825 |
-| Say goodbye, creep! | 65.00% | ~27,553 |
-| Blood splattered | 65.00% | ~27,553 |
-| Choo choo! | 62.00% | ~26,281 |
-| Groovy | 61.00% | ~25,857 |
-| Cleanup on aisle 4! | 56.00% | ~23,738 |
-| Gold | 50.00% | ~21,194 |
-| The boat can leave now...tell the crew | 48.00% | ~20,347 |
-| Give me something to shoot! | 46.00% | ~19,499 |
-| Stand back boy! | 46.00% | ~19,499 |
-| Weird science | 44.00% | ~18,651 |
-| Chain reaction | 44.00% | ~18,651 |
-| Look mummy! A shark! | 41.00% | ~17,379 |
-| What did you say, Blain? | 41.00% | ~17,379 |
-| In the dark dark woods... | 38.00% | ~16,108 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,108 |
-| Double tap | 36.00% | ~15,260 |
-| Cranial blowout! | 36.00% | ~15,260 |
-| Zombie killin' machine | 36.00% | ~15,260 |
-| Every bullet counts | 36.00% | ~15,260 |
-| All of this has happened before… | 35.00% | ~14,836 |
-| You've got red on you | 34.00% | ~14,412 |
-| All roads lead to Rome | 33.00% | ~13,988 |
+| Shoot it, man! Shoot it in the head! | 68.00% | ~28,826 |
+| Say goodbye, creep! | 65.00% | ~27,554 |
+| Blood splattered | 65.00% | ~27,554 |
+| Choo choo! | 62.00% | ~26,282 |
+| Groovy | 61.00% | ~25,859 |
+| Cleanup on aisle 4! | 56.00% | ~23,739 |
+| Gold | 50.00% | ~21,196 |
+| The boat can leave now...tell the crew | 48.00% | ~20,348 |
+| Give me something to shoot! | 46.00% | ~19,500 |
+| Stand back boy! | 46.00% | ~19,500 |
+| Weird science | 44.00% | ~18,652 |
+| Chain reaction | 44.00% | ~18,652 |
+| Look mummy! A shark! | 41.00% | ~17,380 |
+| What did you say, Blain? | 41.00% | ~17,380 |
+| In the dark dark woods... | 38.00% | ~16,109 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,109 |
+| Double tap | 36.00% | ~15,261 |
+| Cranial blowout! | 36.00% | ~15,261 |
+| Zombie killin' machine | 36.00% | ~15,261 |
+| Every bullet counts | 36.00% | ~15,261 |
+| All of this has happened before… | 35.00% | ~14,837 |
+| You've got red on you | 34.00% | ~14,413 |
+| All roads lead to Rome | 33.00% | ~13,989 |
 | You're all going to die down here | 31.00% | ~13,141 |
 | He did Nazi that coming | 31.00% | ~13,141 |
 | Kill of the week | 31.00% | ~13,141 |
 | I never liked them anyway | 30.00% | ~12,717 |
 | Is it over? | 28.00% | ~11,869 |
-| Got your back | 27.00% | ~11,445 |
-| Gore soaked | 24.00% | ~10,173 |
+| Got your back | 27.00% | ~11,446 |
+| Gore soaked | 24.00% | ~10,174 |
 | Shock therapy | 22.00% | ~9,326 |
 | Leave the limbs you've lost | 22.00% | ~9,326 |
 | Everyone's a mad scientist, life is the lab | 18.00% | ~7,630 |
 | Take them down screaming | 18.00% | ~7,630 |
 | Weapons expert | 17.00% | ~7,206 |
-| Bad Blood | 16.00% | ~6,782 |
-| The bigger they are... | 15.00% | ~6,358 |
-| I'm going deeper underground | 14.00% | ~5,934 |
+| Bad Blood | 16.00% | ~6,783 |
+| The bigger they are... | 15.00% | ~6,359 |
+| I'm going deeper underground | 14.00% | ~5,935 |
 | Well equipped | 12.00% | ~5,087 |
 | Into the deep | 12.00% | ~5,087 |
 | Damnedbusters | 9.00% | ~3,815 |
@@ -60,9 +60,9 @@ Number of Ratings: 743  (23.09.2022)
 | Take a little bit of Italy with you | 6.00% | ~2,543 |
 | Staring at Shadows | 6.00% | ~2,543 |
 | Hoarder | 6.00% | ~2,543 |
-| Kali Ma | 5.00% | ~2,119 |
-| I told you we should have gone to the beach | 5.00% | ~2,119 |
-| Have you tried turning it off and on again? | 5.00% | ~2,119 |
+| Kali Ma | 5.00% | ~2,120 |
+| I told you we should have gone to the beach | 5.00% | ~2,120 |
+| Have you tried turning it off and on again? | 5.00% | ~2,120 |
 | They're coming to get you Barbara | 4.00% | ~1,696 |
 | Total protonic reversal | 4.00% | ~1,696 |
 | A friend in need | 4.00% | ~1,696 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~424 |
 | None more hard | 0.50% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,389 (Ranked 80)  
+Progressed: 42,391 (Ranked 80)  
 Completed: 25 (0.06%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 25 (0.06%) (Ranked 170)
 | 2023-05-20 | 42,351 | 24 |
 | 2023-05-21 | 42,371 | 24 |
 | 2023-05-22 | 42,382 | 25 |
-| 2023-05-23 | 42,389 | 25 |
+| 2023-05-23 | 42,391 | 25 |
 ## Awards
 Max (Great Boss Battles): 774  (Ranked 147)  
 Sum: 2,372 (Ranked 169)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 70,
   "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-08-02T14:00:00+00:00",
     "PcReleaseDate": "2022-08-02T14:00:00+00:00",
@@ -83,9 +83,9 @@
       "ID": "Achievement_Kicky",
       "SetID": "cn6a29l",
       "Name": "Calory burner",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "Achievement_NoDeaths",
@@ -308,8 +308,8 @@
   "FirstSeenRating": "2023-03-31T05:57:36.5225978+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.6396069+00:00",
   "LastChanged": "2023-03-31T05:57:36.5225979+00:00",
-  "LastChanged_Achievements": "2023-05-23T18:03:41.7562285+00:00",
+  "LastChanged_Achievements": "2023-05-23T19:03:59.3550276+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:06:54.8217588+00:00",
-  "LastUpdate_Ratings": "2023-05-23T17:59:43.5181588+00:00",
-  "LastUpdate_Achievements": "2023-05-23T18:03:41.7562511+00:00"
+  "LastUpdate_Ratings": "2023-05-23T19:00:14.289396+00:00",
+  "LastUpdate_Achievements": "2023-05-23T19:03:59.3550497+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "96f4ce259e1b4845848399fc29c718fe",
   "Name": "Serial Cleaners",
   "ProductSlug": "serial-cleaners",
-  "Ranking_EOS_Progress": 242,
+  "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 163,
+  "EOS_Progressed": 164,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.07,
+  "EOS_Completed_Percentage": 3.05,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -85,6 +85,11 @@
     {
       "Time": "2023-05-23T02:07:05.7362561+00:00",
       "NumProgressed": 163,
+      "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-23T19:06:22.9126175+00:00",
+      "NumProgressed": 164,
       "NumCompleted": 5
     }
   ],
@@ -288,13 +293,13 @@
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 26,
+      "Progressed": 27,
       "Completed": 15
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 163,
+      "Progressed": 164,
       "Completed": 5
     }
   ],
@@ -302,8 +307,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-05-23T18:05:59.6305999+00:00",
+  "LastChanged_Achievements": "2023-05-23T19:06:22.9126172+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:32.2683704+00:00",
-  "LastUpdate_Ratings": "2023-05-23T17:59:10.2478499+00:00",
-  "LastUpdate_Achievements": "2023-05-23T18:05:59.6306258+00:00"
+  "LastUpdate_Ratings": "2023-05-23T18:59:39.1184586+00:00",
+  "LastUpdate_Achievements": "2023-05-23T19:06:22.9126317+00:00"
 }

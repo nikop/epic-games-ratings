@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 187,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4818,
+  "EOS_Progressed": 4819,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -879,6 +879,11 @@
       "Time": "2023-05-23T15:06:51.736643+00:00",
       "NumProgressed": 4818,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-23T19:06:32.1771+00:00",
+      "NumProgressed": 4819,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -1042,7 +1047,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1205
     },
     {
       "ID": "ach_campaign_special10",
@@ -1274,7 +1279,7 @@
       "Name": "Peddler",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ach_frp_many_products2",
@@ -1497,15 +1502,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4818,
+      "Progressed": 4819,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-05-23T18:06:08.9320861+00:00",
+  "LastChanged_Achievements": "2023-05-23T19:06:32.1770996+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:17.17846+00:00",
-  "LastUpdate_Ratings": "2023-05-23T17:58:54.4272606+00:00",
-  "LastUpdate_Achievements": "2023-05-23T18:06:08.9321728+00:00"
+  "LastUpdate_Ratings": "2023-05-23T18:59:21.8553639+00:00",
+  "LastUpdate_Achievements": "2023-05-23T19:06:32.1771666+00:00"
 }

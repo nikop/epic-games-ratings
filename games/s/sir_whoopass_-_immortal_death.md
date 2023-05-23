@@ -19,13 +19,13 @@
 | Make Love not War-Craft a Mistlefoe | 58.00% | ~32 |
 | Fire-fighter! | 56.00% | ~31 |
 | Meat grinder | 53.00% | ~29 |
+| Butcher | 47.00% | ~26 |
 | You're not going to blow me up! | 47.00% | ~26 |
 | Mushroom soup of the day | 45.00% | ~25 |
 | Honk honk! | 44.00% | ~24 |
-| Butcher | 44.00% | ~24 |
+| My pants squeak when I walk | 44.00% | ~24 |
 | Spare Ribs | 44.00% | ~24 |
 | Surprise!! | 42.00% | ~23 |
-| My pants squeak when I walk | 42.00% | ~23 |
 | Thats disgusting! | 40.00% | ~22 |
 | Cockadoodledoo! | 38.00% | ~21 |
 | Self assessed tax return | 36.00% | ~20 |
@@ -37,11 +37,11 @@
 | Catch the bus with me! | 29.00% | ~16 |
 | You can't stop me, bro! | 29.00% | ~16 |
 | Meatballs, coming up! | 27.00% | ~15 |
-| I'm going to get a concussion | 25.00% | ~14 |
+| I'm going to get a concussion | 27.00% | ~15 |
 | Another one bites the iron | 24.00% | ~13 |
+| A Megapint...? | 20.00% | ~11 |
 | Ripe Meat Off The Bone! | 20.00% | ~11 |
 | Hovering around | 20.00% | ~11 |
-| A Megapint...? | 18.00% | ~10 |
 | Just wing it! | 15.00% | ~8 |
 | Your daily dose of Vitamin C. | 15.00% | ~8 |
 | Kleptomaniac | 15.00% | ~8 |

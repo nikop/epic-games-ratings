@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 380,
+  "EOS_Progressed": 381,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -444,6 +444,11 @@
       "Time": "2023-05-23T14:05:16.2520253+00:00",
       "NumProgressed": 380,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-23T19:06:15.7144736+00:00",
+      "NumProgressed": 381,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -485,9 +490,9 @@
       "ID": "DevilDetail",
       "SetID": "2aagp3d",
       "Name": "Devil\u0027s in the details",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 50
     },
     {
       "ID": "Devoted",
@@ -541,9 +546,9 @@
       "ID": "GoldRush",
       "SetID": "2aagp3d",
       "Name": "Gold rush",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 23
+      "UsersEstimate": 27
     },
     {
       "ID": "GossipGirl",
@@ -605,9 +610,9 @@
       "ID": "NoMoreWards",
       "SetID": "2aagp3d",
       "Name": "Awards unwarded",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Queen",
@@ -629,9 +634,9 @@
       "ID": "SlavicSquatter",
       "SetID": "2aagp3d",
       "Name": "Slavic squatter",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 38
     },
     {
       "ID": "Specialist",
@@ -710,7 +715,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 380,
+      "Progressed": 381,
       "Completed": 0
     }
   ],
@@ -718,8 +723,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-05-23T18:05:52.318192+00:00",
+  "LastChanged_Achievements": "2023-05-23T19:06:15.7144733+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:28.25189+00:00",
-  "LastUpdate_Ratings": "2023-05-23T17:57:48.4949099+00:00",
-  "LastUpdate_Achievements": "2023-05-23T18:05:52.3182251+00:00"
+  "LastUpdate_Ratings": "2023-05-23T18:58:16.4097408+00:00",
+  "LastUpdate_Achievements": "2023-05-23T19:06:15.7144928+00:00"
 }

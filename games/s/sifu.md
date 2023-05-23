@@ -13,6 +13,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | A Lady's Blood in the Snow | 0.90% | ~6,344 |
 | State of constant learning | 0.90% | ~6,344 |
 | Qi Gong: Breath | 0.90% | ~6,344 |
+| Rumble in the Hangar | 0.90% | ~6,344 |
 | The best strikes are the ones we avoid | 0.90% | ~127 |
 | The Old Grandmaster | 0.80% | ~5,639 |
 | The Assault | 0.80% | ~5,639 |
@@ -24,7 +25,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Essence | 0.80% | ~5,639 |
 | Lightning Hands | 0.80% | ~5,639 |
 | Path of the Prospect | 0.80% | ~5,639 |
-| Rumble in the Hangar | 0.80% | ~5,639 |
 | Stuntmaster | 0.70% | ~4,934 |
 | Take damage to save time | 0.70% | ~4,934 |
 | Scareless | 0.60% | ~4,229 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~705 |
 | Warriors from the Mountain | 0.10% | ~705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,840 (Ranked 15)  
+Progressed: 704,845 (Ranked 15)  
 Completed: 12,733 (1.81%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 12,733 (1.81%) (Ranked 64)
 | 2023-05-20 | 704,036 | 12,732 |
 | 2023-05-21 | 704,407 | 12,733 |
 | 2023-05-22 | 704,647 | 12,733 |
-| 2023-05-23 | 704,840 | 12,733 |
+| 2023-05-23 | 704,845 | 12,733 |
 ## Awards
 Max (Great Boss Battles): 6,084  (Ranked 53)  
 Sum: 10,355 (Ranked 77)  

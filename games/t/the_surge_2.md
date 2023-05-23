@@ -5,9 +5,9 @@ Rating: 4.24 (Ranked 790)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 81.00% | ~1,296 |
-| Don't I Know You...? | 77.00% | ~1,232 |
-| Jailbreak | 66.00% | ~1,056 |
+| Rigged And Ready | 81.00% | ~1,297 |
+| Don't I Know You...? | 77.00% | ~1,233 |
+| Jailbreak | 66.00% | ~1,057 |
 | Suited and Booted | 38.00% | ~608 |
 | HEADSHOT! | 37.00% | ~592 |
 | Sleeping With The Fishes | 35.00% | ~560 |
@@ -39,22 +39,22 @@ Rating: 4.24 (Ranked 790)
 | Stimulating The Local Economy | 9.00% | ~144 |
 | A Little Banged Up | 8.00% | ~128 |
 | Denying Prophecy | 8.00% | ~128 |
-| Following In Their Footsteps | 8.00% | ~128 |
 | Defense in Depth | 8.00% | ~128 |
 | Reverse Engineering | 7.00% | ~112 |
+| Following In Their Footsteps | 7.00% | ~112 |
 | Turbo Booster | 6.00% | ~96 |
-| Juiced Up | 6.00% | ~96 |
 | Squid Pro Quo | 6.00% | ~96 |
 | Reborn | 5.00% | ~80 |
-| Hello Darkness My Old Friend | 5.00% | ~80 |
 | Remote Surgery | 5.00% | ~80 |
 | Counter-Sniper | 5.00% | ~80 |
 | Shrimp Cocktail | 5.00% | ~80 |
+| Juiced Up | 5.00% | ~80 |
+| Hello Darkness My Old Friend | 4.00% | ~64 |
 | Geronimo! | 4.00% | ~64 |
 | Plank of Wood | 4.00% | ~64 |
-| It Lives! It Sniffs! It Conquers! | 3.00% | ~48 |
 | Gotta Craft 'em All | 3.00% | ~48 |
 | Homewrecker | 3.00% | ~48 |
+| It Lives! It Sniffs! It Conquers! | 2.00% | ~32 |
 | Box Office Smash | 2.00% | ~32 |
 | Going Postal | 2.00% | ~32 |
 | The Easy Way Out | 2.00% | ~32 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 790)
 | Swiss Army Drone | 1.00% | ~16 |
 | Three Birds With One Stone | 1.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,600 (Ranked 152)  
+Progressed: 1,601 (Ranked 152)  
 Completed: 10 (0.62%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 10 (0.62%) (Ranked 103)
 | 2023-05-20 | 1,575 | 10 |
 | 2023-05-21 | 1,584 | 10 |
 | 2023-05-22 | 1,593 | 10 |
-| 2023-05-23 | 1,600 | 10 |
+| 2023-05-23 | 1,601 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

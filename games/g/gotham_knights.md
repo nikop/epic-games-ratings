@@ -9,10 +9,10 @@ Rating: 4.17 (Ranked 836)
 | First Step Into the Knight | 1.00% | ~618 |
 | Loose Ends | 0.90% | ~556 |
 | To the Victor Go the Spoils | 0.80% | ~494 |
+| Get ReQ'd | 0.80% | ~494 |
 | Knighthood | 0.80% | ~494 |
 | The Batman Family | 0.70% | ~433 |
 | Quartzer Life Crisis | 0.70% | ~433 |
-| Get ReQ'd | 0.70% | ~433 |
 | Working Hard or Harley Working? | 0.70% | ~433 |
 | Whispered Words | 0.70% | ~433 |
 | Protector of Gotham | 0.60% | ~371 |
@@ -27,12 +27,12 @@ Rating: 4.17 (Ranked 836)
 | End of an Era | 0.50% | ~309 |
 | In Your Element | 0.50% | ~309 |
 | Rock and a Hard Place | 0.50% | ~309 |
+| Not On My Watch | 0.50% | ~309 |
 | Shock Til They Drop | 0.50% | ~309 |
 | Cooldown | 0.50% | ~309 |
 | Voiceless | 0.50% | ~309 |
 | Seeking Asylum | 0.50% | ~309 |
 | Gotham Knight | 0.50% | ~309 |
-| Not On My Watch | 0.40% | ~247 |
 | Bulldozed | 0.40% | ~247 |
 | Out of Their League | 0.40% | ~247 |
 | Drone You Out | 0.40% | ~247 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 836)
 | Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,803 (Ranked 68)  
+Progressed: 61,812 (Ranked 68)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-20 | 61,416 | 91 |
 | 2023-05-21 | 61,589 | 91 |
 | 2023-05-22 | 61,724 | 91 |
-| 2023-05-23 | 61,803 | 91 |
+| 2023-05-23 | 61,812 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,231  (Ranked 98)  
 Sum: 3,704 (Ranked 137)  
