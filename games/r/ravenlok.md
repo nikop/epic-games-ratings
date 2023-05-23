@@ -31,8 +31,8 @@
 | Frog Facts! | 35.00% | ~286 |
 | All That Glistens | 35.00% | ~286 |
 | It's Pointy! | 35.00% | ~286 |
+| All Skilled Up! | 34.00% | ~278 |
 | Spellbound | 33.00% | ~270 |
-| All Skilled Up! | 33.00% | ~270 |
 | Extinct Again! | 32.00% | ~262 |
 | Bird of Prey | 32.00% | ~262 |
 | Stardust | 32.00% | ~262 |
@@ -49,7 +49,7 @@
 | Going Home | 29.00% | ~237 |
 | Mirror, Mirror | 27.00% | ~221 |
 | Flower Power | 24.00% | ~196 |
-| Shopping Spree! | 21.00% | ~172 |
+| Shopping Spree! | 22.00% | ~180 |
 | Crowned | 21.00% | ~172 |
 | Max Level! | 13.00% | ~106 |
 | Dance Master | 8.00% | ~65 |

@@ -23,6 +23,7 @@
 | A Terrible Way to Go | 15.00% | ~5 |
 | My Precious Gems! | 12.00% | ~4 |
 | Dr. Dreinstein III | 12.00% | ~4 |
+| Orcharion Boost | 12.00% | ~4 |
 | How Do You Like Them Apples? | 12.00% | ~4 |
 | Gotta Collect Them All | 9.00% | ~3 |
 | Keeping Things Tidy | 9.00% | ~3 |
@@ -30,7 +31,6 @@
 | Eremagu Trial Extraordinaire | 9.00% | ~3 |
 | Scour the Eremagu Domain | 9.00% | ~3 |
 | An Electrifying Personality | 9.00% | ~3 |
-| Orcharion Boost | 9.00% | ~3 |
 | Back for More? | 9.00% | ~3 |
 | Fishing for Fissures | 9.00% | ~3 |
 | You did it? You did it! | 9.00% | ~3 |

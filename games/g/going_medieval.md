@@ -1,7 +1,7 @@
 # Going Medieval
 [Store](https://store.epicgames.com/en-US/p/going-medieval)  
 [View Rawdata](../../db/g/going_medieval.json)  
-Rating: 4.60 (Ranked 385)  
+Rating: 4.60 (Ranked 384)  
 Number of Ratings: 706  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -20,7 +20,7 @@ Number of Ratings: 706  (23.09.2022)
 | Adept Researcher | 45.00% | ~1,210 |
 | Beam Me Up | 44.00% | ~1,183 |
 | Home Cooked Meal | 43.00% | ~1,156 |
-| Luminary Researcher | 41.00% | ~1,102 |
+| Luminary Researcher | 42.00% | ~1,129 |
 | Retribution | 35.00% | ~941 |
 | ...And Don’t Come Back! | 35.00% | ~941 |
 | Fit For A King | 34.00% | ~914 |

@@ -10,7 +10,7 @@ Number of Ratings: 836  (23.09.2022)
 | Leader | 61.00% | ~3,431 |
 | Explorer | 53.00% | ~2,981 |
 | Healer | 53.00% | ~2,981 |
-| Aspiring Inventor | 44.00% | ~2,475 |
+| Aspiring Inventor | 45.00% | ~2,531 |
 | Adventurer | 41.00% | ~2,306 |
 | Famous Healer | 38.00% | ~2,137 |
 | Local Leader | 35.00% | ~1,968 |
@@ -47,9 +47,9 @@ Number of Ratings: 836  (23.09.2022)
 | Tailored to fit | 7.00% | ~394 |
 | Really Friendly | 6.00% | ~337 |
 | New Eden | 6.00% | ~337 |
+| Look, no Hands! | 5.00% | ~281 |
 | Amped Up | 5.00% | ~281 |
 | Luxurious Living | 4.00% | ~225 |
-| Look, no Hands! | 4.00% | ~225 |
 | Mogul | 3.00% | ~169 |
 | Ranch Hand | 3.00% | ~169 |
 | Diplomat | 2.00% | ~112 |

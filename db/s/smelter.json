@@ -153,9 +153,9 @@
       "ID": "SMELTER_FARM_BONUS",
       "SetID": "1g58k92",
       "Name": "Orcharion Boost",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SMELTER_FELZAPPER",
@@ -482,8 +482,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.0584882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:46.9022214+00:00",
   "LastChanged": "2023-03-31T05:58:06.0584883+00:00",
-  "LastChanged_Achievements": "2023-05-23T07:05:24.1213395+00:00",
+  "LastChanged_Achievements": "2023-05-23T08:06:50.0185689+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:13.1695395+00:00",
-  "LastUpdate_Ratings": "2023-05-23T06:58:34.5137111+00:00",
-  "LastUpdate_Achievements": "2023-05-23T07:05:24.1213721+00:00"
+  "LastUpdate_Ratings": "2023-05-23T07:59:20.1003969+00:00",
+  "LastUpdate_Achievements": "2023-05-23T08:06:50.0186098+00:00"
 }

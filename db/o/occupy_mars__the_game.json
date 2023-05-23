@@ -731,9 +731,9 @@
       "ID": "NEW_ACHIEVEMENT_BOTANY_POWERS",
       "SetID": "l546gc",
       "Name": "Fear my botany powers, Mars",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 204
+      "UsersEstimate": 212
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -859,9 +859,9 @@
       "ID": "NEW_ACHIEVEMENT_MINER",
       "SetID": "l546gc",
       "Name": "Miner",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 114
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -1004,8 +1004,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-05-22T10:57:22.9515554+00:00",
-  "LastChanged_Achievements": "2023-05-23T07:00:05.1959247+00:00",
+  "LastChanged_Achievements": "2023-05-23T08:01:36.6695942+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:55.9692167+00:00",
-  "LastUpdate_Ratings": "2023-05-23T06:57:18.3630809+00:00",
-  "LastUpdate_Achievements": "2023-05-23T07:00:05.195982+00:00"
+  "LastUpdate_Ratings": "2023-05-23T07:57:26.882996+00:00",
+  "LastUpdate_Achievements": "2023-05-23T08:01:36.6696409+00:00"
 }

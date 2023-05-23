@@ -17,8 +17,8 @@
 | Delegate Maintenance | 31.00% | ~52 |
 | Destination Destiny | 27.00% | ~46 |
 | Happy Tenants | 24.00% | ~41 |
+| Smooth Service | 24.00% | ~41 |
 | Potent Potables | 23.00% | ~39 |
-| Smooth Service | 23.00% | ~39 |
 | Your Prestige is Rising | 22.00% | ~37 |
 | Lux Living | 21.00% | ~35 |
 | People Mover | 21.00% | ~35 |
@@ -28,8 +28,8 @@
 | Don't Feel a Loan | 20.00% | ~34 |
 | Emporium Empire | 20.00% | ~34 |
 | Get Electrified | 20.00% | ~34 |
+| Rehab Expert | 19.00% | ~32 |
 | Tasty Profits | 19.00% | ~32 |
-| Rehab Expert | 18.00% | ~30 |
 | We Don't Need No Education | 18.00% | ~30 |
 | Established Fame | 17.00% | ~29 |
 | Cashflow Chief | 17.00% | ~29 |

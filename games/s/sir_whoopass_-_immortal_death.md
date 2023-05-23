@@ -43,8 +43,8 @@
 | Hovering around | 21.00% | ~11 |
 | A Megapint...? | 19.00% | ~10 |
 | Your daily dose of Vitamin C. | 15.00% | ~8 |
+| Kleptomaniac | 15.00% | ~8 |
 | Just wing it! | 13.00% | ~7 |
-| Kleptomaniac | 13.00% | ~7 |
 | You're not so Big anymore, Boi! | 12.00% | ~6 |
 | I drink, but I'm not a drunk! | 12.00% | ~6 |
 | I cant stand still! | 12.00% | ~6 |

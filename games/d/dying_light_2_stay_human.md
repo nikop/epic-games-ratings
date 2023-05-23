@@ -1,43 +1,43 @@
 # Dying Light 2 Stay Human
 [Store](https://store.epicgames.com/en-US/p/dying-light-2-stay-human)  
 [View Rawdata](../../db/d/dying_light_2_stay_human.json)  
-Rating: 4.58 (Ranked 417)  
+Rating: 4.58 (Ranked 416)  
 Number of Ratings: 7,305  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 9.00% | ~49,905 |
-| Into the Unknown | 8.00% | ~44,360 |
-| First Shot | 8.00% | ~44,360 |
-| Herzlich Wilkommen! | 8.00% | ~44,360 |
-| Sancho Panza | 7.00% | ~38,815 |
-| Good Night & Good Luck | 7.00% | ~38,815 |
-| Under Pressure | 6.00% | ~33,270 |
-| On the Trail of the Enemy | 6.00% | ~33,270 |
-| Flag Burning | 6.00% | ~33,270 |
-| Oh, So This Is How It Works! | 6.00% | ~33,270 |
-| Night Hunter | 6.00% | ~33,270 |
-| Light in the Darkness | 5.00% | ~27,725 |
-| Get Outta My House! | 5.00% | ~27,725 |
-| It Wasn't That Hard, Was It? | 5.00% | ~27,725 |
-| Being All Social | 5.00% | ~27,725 |
-| Debris and Ashes | 4.00% | ~22,180 |
-| We Will Be Heard! | 4.00% | ~22,180 |
-| Known Associate | 4.00% | ~22,180 |
-| Brush with Death | 4.00% | ~22,180 |
-| Going Down | 4.00% | ~22,180 |
-| Family First | 4.00% | ~22,180 |
-| Your World, Your Rules | 4.00% | ~22,180 |
-| Tunnel Entrance | 4.00% | ~22,180 |
-| After the Fall | 4.00% | ~22,180 |
-| Can't Touch This! | 4.00% | ~22,180 |
-| Death From Afar | 4.00% | ~22,180 |
-| Terminal Headache | 3.00% | ~16,635 |
-| Slowpoke! | 3.00% | ~16,635 |
-| Tickets, Please! | 2.00% | ~11,090 |
-| Parkour Master | 2.00% | ~11,090 |
-| Combat Master | 2.00% | ~11,090 |
-| You're Going Down! | 2.00% | ~11,090 |
+| You Never Forget Your First... | 9.00% | ~49,908 |
+| Into the Unknown | 8.00% | ~44,363 |
+| First Shot | 8.00% | ~44,363 |
+| Herzlich Wilkommen! | 8.00% | ~44,363 |
+| Sancho Panza | 7.00% | ~38,817 |
+| Good Night & Good Luck | 7.00% | ~38,817 |
+| Under Pressure | 6.00% | ~33,272 |
+| On the Trail of the Enemy | 6.00% | ~33,272 |
+| Flag Burning | 6.00% | ~33,272 |
+| Oh, So This Is How It Works! | 6.00% | ~33,272 |
+| Night Hunter | 6.00% | ~33,272 |
+| Light in the Darkness | 5.00% | ~27,727 |
+| Get Outta My House! | 5.00% | ~27,727 |
+| It Wasn't That Hard, Was It? | 5.00% | ~27,727 |
+| Being All Social | 5.00% | ~27,727 |
+| Debris and Ashes | 4.00% | ~22,181 |
+| We Will Be Heard! | 4.00% | ~22,181 |
+| Known Associate | 4.00% | ~22,181 |
+| Brush with Death | 4.00% | ~22,181 |
+| Going Down | 4.00% | ~22,181 |
+| Family First | 4.00% | ~22,181 |
+| Your World, Your Rules | 4.00% | ~22,181 |
+| Tunnel Entrance | 4.00% | ~22,181 |
+| After the Fall | 4.00% | ~22,181 |
+| Can't Touch This! | 4.00% | ~22,181 |
+| Death From Afar | 4.00% | ~22,181 |
+| Terminal Headache | 3.00% | ~16,636 |
+| Slowpoke! | 3.00% | ~16,636 |
+| Tickets, Please! | 2.00% | ~11,091 |
+| Parkour Master | 2.00% | ~11,091 |
+| Combat Master | 2.00% | ~11,091 |
+| You're Going Down! | 2.00% | ~11,091 |
 | Municipal Services | 1.00% | ~5,545 |
 | Tube Map | 1.00% | ~5,545 |
 | Don Quixote | 1.00% | ~5,545 |
@@ -45,7 +45,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | Ban Hammer | 1.00% | ~5,545 |
 | Modder | 1.00% | ~5,545 |
 | Ironheart | 1.00% | ~5,545 |
-| Nemesis | 1.00% | ~1,999 |
+| Nemesis | 1.00% | ~2,000 |
 | That's Teamwork! | 0.90% | ~4,991 |
 | Fit as a Fiddle | 0.90% | ~4,991 |
 | Enter the Hall | 0.90% | ~1,800 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~200 |
 | Connoisseur | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 554,503 (Ranked 22)  
+Progressed: 554,533 (Ranked 22)  
 Completed: 49 (0.01%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 49 (0.01%) (Ranked 193)
 | 2023-05-20 | 551,878 | 49 |
 | 2023-05-21 | 553,306 | 49 |
 | 2023-05-22 | 554,295 | 49 |
-| 2023-05-23 | 554,503 | 49 |
+| 2023-05-23 | 554,533 | 49 |
 ## Awards
 Max (Character Customization): 7,162  (Ranked 44)  
 Sum: 16,198 (Ranked 59)  

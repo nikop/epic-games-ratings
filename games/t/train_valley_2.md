@@ -14,6 +14,7 @@ Number of Ratings: 87  (23.09.2022)
 | Common cause | 4.00% | ~29 |
 | Forgot something | 4.00% | ~29 |
 | Mega-railroad | 4.00% | ~29 |
+| Non-Stop | 4.00% | ~29 |
 | Upgrade complete | 4.00% | ~29 |
 | Builder | 3.00% | ~21 |
 | Close call! | 3.00% | ~21 |
@@ -22,7 +23,6 @@ Number of Ratings: 87  (23.09.2022)
 | Miner | 3.00% | ~2 |
 | Multilevel road | 3.00% | ~21 |
 | Need to think | 3.00% | ~21 |
-| Non-Stop | 3.00% | ~21 |
 | Pink Ruby | 3.00% | ~2 |
 | Star Sapphire | 3.00% | ~2 |
 | Steam Age | 3.00% | ~21 |
@@ -53,10 +53,10 @@ Number of Ratings: 87  (23.09.2022)
 | Stargazer | 1.00% | ~7 |
 | Vandal | 1.00% | ~7 |
 | Astronomer | 0.80% | ~6 |
+| At the last moment! | 0.80% | ~6 |
 | Atomic Age | 0.80% | ~0 |
 | Information Age | 0.80% | ~0 |
 | Innovator | 0.80% | ~6 |
-| At the last moment! | 0.70% | ~5 |
 | Digital Age | 0.70% | ~0 |
 | Railroad tycoon | 0.70% | ~5 |
 | Vostok | 0.70% | ~0 |
@@ -82,7 +82,7 @@ Number of Ratings: 87  (23.09.2022)
 | Gemologist | 0.00% | ~0 |
 | Jeweller | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713 (Ranked 180)  
+Progressed: 714 (Ranked 180)  
 Completed: 1 (0.14%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,6 +96,7 @@ Completed: 1 (0.14%) (Ranked 151)
 | 2023-05-20 | 711 | 1 |
 | 2023-05-21 | 712 | 1 |
 | 2023-05-22 | 713 | 1 |
+| 2023-05-23 | 714 | 1 |
 ## Awards
 Max (Challenging Puzzles): 71  (Ranked 362)  
 Sum: 71 (Ranked 418)  

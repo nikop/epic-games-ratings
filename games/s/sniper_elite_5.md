@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.34 (Ranked 729)  
+Rating: 4.34 (Ranked 730)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -14,11 +14,11 @@ Rating: 4.34 (Ranked 729)
 | It's Starting to Crack | 4.00% | ~50 |
 | Just a Flesh Wound | 3.00% | ~37 |
 | Explosive Efficiency | 3.00% | ~37 |
+| Change the Channel | 3.00% | ~37 |
 | Opposing Force | 2.00% | ~25 |
 | Organ Grinder | 2.00% | ~25 |
 | Die Nussknacker Sweet! | 2.00% | ~25 |
 | As Quiet as a Mouse | 2.00% | ~25 |
-| Change the Channel | 2.00% | ~25 |
 | Fields of Glory | 1.00% | ~12 |
 | Gunslinger | 1.00% | ~12 |
 | Sharpshooter | 1.00% | ~12 |
@@ -77,7 +77,7 @@ Rating: 4.34 (Ranked 729)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,247 (Ranked 158)  
+Progressed: 1,248 (Ranked 158)  
 Completed: 2 (0.16%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 2 (0.16%) (Ranked 145)
 | 2023-05-20 | 984 | 2 |
 | 2023-05-21 | 1,126 | 2 |
 | 2023-05-22 | 1,233 | 2 |
-| 2023-05-23 | 1,247 | 2 |
+| 2023-05-23 | 1,248 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

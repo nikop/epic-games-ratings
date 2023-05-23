@@ -3874,10 +3874,10 @@
       "Count": 3238
     }
   ],
-  "EOS_Progressed": 88364,
-  "EOS_Completed": 1864,
-  "EOS_NewPlayers": 733,
-  "EOS_NewCompleters": 21,
+  "EOS_Progressed": 88365,
+  "EOS_Completed": 1865,
+  "EOS_NewPlayers": 732,
+  "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
     {
@@ -7024,6 +7024,11 @@
       "Time": "2023-05-23T07:05:42.5708856+00:00",
       "NumProgressed": 88364,
       "NumCompleted": 1864
+    },
+    {
+      "Time": "2023-05-23T08:07:12.6147968+00:00",
+      "NumProgressed": 88365,
+      "NumCompleted": 1865
     }
   ],
   "TotalAchievements": 493,
@@ -8009,9 +8014,9 @@
       "ID": "objective_completed_13",
       "SetID": "cc37lbc",
       "Name": "A Persistent Buzzing",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_130",
@@ -10961,9 +10966,9 @@
       "ID": "objective_completed_1360",
       "SetID": "415jc5c",
       "Name": "Beware the Jabberwock",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 273
     },
     {
       "ID": "objective_completed_1361",
@@ -10978,21 +10983,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54638,
-      "Completed": 2673
+      "Progressed": 54639,
+      "Completed": 2674
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88364,
-      "Completed": 1864
+      "Progressed": 88365,
+      "Completed": 1865
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-22T16:57:57.9886051+00:00",
-  "LastChanged_Achievements": "2023-05-23T07:05:42.5708851+00:00",
+  "LastChanged_Achievements": "2023-05-23T08:07:12.6147964+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-23T06:57:51.5465732+00:00",
-  "LastUpdate_Achievements": "2023-05-23T07:05:42.5730094+00:00"
+  "LastUpdate_Ratings": "2023-05-23T07:58:16.2880735+00:00",
+  "LastUpdate_Achievements": "2023-05-23T08:07:12.6187545+00:00"
 }

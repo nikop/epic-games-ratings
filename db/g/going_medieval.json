@@ -2,7 +2,7 @@
   "ID": "d469e82d91fe4516a00d6566c3d2f8f7",
   "Name": "Going Medieval",
   "ProductSlug": "going-medieval",
-  "Ranking_Rating": 385,
+  "Ranking_Rating": 384,
   "Ranking_Popularity": 306,
   "Ranking_PopularitySum": 235,
   "Ranking_EOS_Progress": 136,
@@ -1444,9 +1444,9 @@
       "ID": "UNLOCK_RESEARCH_25",
       "SetID": "5349c2e",
       "Name": "Luminary Researcher",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1129
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -1476,8 +1476,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-05-20T17:59:42.2266886+00:00",
-  "LastChanged_Achievements": "2023-05-23T07:05:24.9512834+00:00",
+  "LastChanged_Achievements": "2023-05-23T08:06:51.1636406+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:15.8703194+00:00",
-  "LastUpdate_Ratings": "2023-05-23T06:59:20.8125422+00:00",
-  "LastUpdate_Achievements": "2023-05-23T07:05:24.9513017+00:00"
+  "LastUpdate_Ratings": "2023-05-23T08:00:29.1192358+00:00",
+  "LastUpdate_Achievements": "2023-05-23T08:06:51.1636645+00:00"
 }
