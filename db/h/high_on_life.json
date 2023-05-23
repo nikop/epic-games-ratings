@@ -208,9 +208,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22702,
+  "EOS_Progressed": 22703,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -833,6 +833,11 @@
       "Time": "2023-05-23T17:04:34.5388273+00:00",
       "NumProgressed": 22702,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-23T20:04:13.3131789+00:00",
+      "NumProgressed": 22703,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -916,7 +921,7 @@
       "Name": "Lezduit!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4540
+      "UsersEstimate": 4541
     },
     {
       "ID": "ACH_GET_MAGBOOTS",
@@ -924,7 +929,7 @@
       "Name": "RIP Davey Glutes",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5448
+      "UsersEstimate": 5449
     },
     {
       "ID": "ACH_GET_SWEEZY",
@@ -932,7 +937,7 @@
       "Name": "Sweezy Like Sunday Morning",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 5448
+      "UsersEstimate": 5449
     },
     {
       "ID": "ACH_GLOBO_STAR",
@@ -964,7 +969,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 12940
+      "UsersEstimate": 12941
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -972,7 +977,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 13394
+      "UsersEstimate": 13395
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -988,7 +993,7 @@
       "Name": "Legendary Bounty Hunter",
       "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 4086
+      "UsersEstimate": 4087
     },
     {
       "ID": "ACH_KILL_GIBLETS",
@@ -996,7 +1001,7 @@
       "Name": "Hardest Battle In The Game",
       "Percentage": 22,
       "XP": 45,
-      "UsersEstimate": 4994
+      "UsersEstimate": 4995
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -1012,7 +1017,7 @@
       "Name": "Self-Actualization",
       "Percentage": 19,
       "XP": 45,
-      "UsersEstimate": 4313
+      "UsersEstimate": 4314
     },
     {
       "ID": "ACH_KILL_SKRENDELS",
@@ -1020,7 +1025,7 @@
       "Name": "Who\u0027s The Boss?",
       "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 4540
+      "UsersEstimate": 4541
     },
     {
       "ID": "ACH_KILL_SLUMSLEY",
@@ -1028,7 +1033,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16572
+      "UsersEstimate": 16573
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -1068,7 +1073,7 @@
       "Name": "Spent 15 Hours At The Alien Strip Club",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 4540
+      "UsersEstimate": 4541
     },
     {
       "ID": "ACH_NOT_KENNY",
@@ -1092,14 +1097,14 @@
       "Name": "Series Wrap on Suit-O",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 4994
+      "UsersEstimate": 4995
     }
   ],
   "AchievementSets": [
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22702,
+      "Progressed": 22703,
       "Completed": 8
     }
   ],
@@ -1107,8 +1112,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-05-18T06:57:32.9581513+00:00",
-  "LastChanged_Achievements": "2023-05-23T19:04:20.5668605+00:00",
+  "LastChanged_Achievements": "2023-05-23T20:04:13.313178+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:35.4420325+00:00",
-  "LastUpdate_Ratings": "2023-05-23T18:58:22.8396953+00:00",
-  "LastUpdate_Achievements": "2023-05-23T19:04:20.5668829+00:00"
+  "LastUpdate_Ratings": "2023-05-23T19:58:10.5433703+00:00",
+  "LastUpdate_Achievements": "2023-05-23T20:04:13.3132095+00:00"
 }

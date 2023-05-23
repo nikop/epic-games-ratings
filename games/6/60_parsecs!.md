@@ -14,11 +14,11 @@
 | Across The Stars | 46.00% | ~279 |
 | Crafty | 44.00% | ~267 |
 | All Seats Taken | 35.00% | ~212 |
-| For Science! | 31.00% | ~188 |
+| For Science! | 32.00% | ~194 |
 | Meet the Petersons | 31.00% | ~188 |
 | Stay Cool | 28.00% | ~170 |
 | KIA | 25.00% | ~152 |
-| Mutiny in making | 22.00% | ~134 |
+| Mutiny in making | 23.00% | ~140 |
 | Et tu, Astrocitizen? | 19.00% | ~115 |
 | Eco-Shuttle | 18.00% | ~109 |
 | Space Explorer | 14.00% | ~85 |

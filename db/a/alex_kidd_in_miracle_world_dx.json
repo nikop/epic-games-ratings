@@ -4,7 +4,7 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 76,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 230,
+  "EOS_Progressed": 231,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.3,
   "EosHistory": [
@@ -55,6 +55,11 @@
     {
       "Time": "2023-05-23T19:06:00.0458909+00:00",
       "NumProgressed": 230,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-23T20:06:09.7532588+00:00",
+      "NumProgressed": 231,
       "NumCompleted": 3
     }
   ],
@@ -137,9 +142,9 @@
       "ID": "LEVEL_04",
       "SetID": "7im05fi",
       "Name": "Adventurer",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 42
     },
     {
       "ID": "LEVEL_06_NO_SHOT",
@@ -194,7 +199,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 230,
+      "Progressed": 231,
       "Completed": 3
     }
   ],
@@ -202,8 +207,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-05-23T19:06:00.0458904+00:00",
+  "LastChanged_Achievements": "2023-05-23T20:06:09.7532583+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:43.5401318+00:00",
-  "LastUpdate_Ratings": "2023-05-23T18:58:33.0857222+00:00",
-  "LastUpdate_Achievements": "2023-05-23T19:06:00.0459064+00:00"
+  "LastUpdate_Ratings": "2023-05-23T19:58:21.7926982+00:00",
+  "LastUpdate_Achievements": "2023-05-23T20:06:09.7532722+00:00"
 }

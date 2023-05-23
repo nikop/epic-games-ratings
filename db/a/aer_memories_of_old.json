@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 61,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -368,9 +368,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10151,
+  "EOS_Progressed": 10154,
   "EOS_Completed": 217,
-  "EOS_NewPlayers": 667,
+  "EOS_NewPlayers": 666,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 2.14,
   "EosHistory": [
@@ -3503,6 +3503,11 @@
       "Time": "2023-05-23T19:06:30.9946052+00:00",
       "NumProgressed": 10151,
       "NumCompleted": 217
+    },
+    {
+      "Time": "2023-05-23T20:06:44.6250434+00:00",
+      "NumProgressed": 10154,
+      "NumCompleted": 217
     }
   ],
   "TotalAchievements": 20,
@@ -3514,7 +3519,7 @@
       "Name": "Cartographer",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1827
+      "UsersEstimate": 1828
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -3610,7 +3615,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1421
+      "UsersEstimate": 1422
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -3634,7 +3639,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 7715
+      "UsersEstimate": 7717
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -3642,7 +3647,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 2842
+      "UsersEstimate": 2843
     },
     {
       "ID": "NORTH_FINISHED",
@@ -3650,7 +3655,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1421
+      "UsersEstimate": 1422
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -3673,15 +3678,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 10151,
+      "Progressed": 10154,
       "Completed": 217
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-04T21:00:08.7329241+00:00",
-  "LastChanged_Achievements": "2023-05-23T19:06:30.9946048+00:00",
+  "LastChanged_Achievements": "2023-05-23T20:06:44.6250431+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:55.3860901+00:00",
-  "LastUpdate_Ratings": "2023-05-23T19:00:36.1385542+00:00",
-  "LastUpdate_Achievements": "2023-05-23T19:06:30.9946296+00:00"
+  "LastUpdate_Ratings": "2023-05-23T20:00:45.0970601+00:00",
+  "LastUpdate_Achievements": "2023-05-23T20:06:44.6250792+00:00"
 }

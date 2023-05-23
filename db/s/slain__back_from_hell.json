@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 22008,
+  "EOS_Progressed": 22013,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 1150,
+  "EOS_NewPlayers": 1152,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3466,6 +3466,11 @@
       "Time": "2023-05-23T19:06:25.5475166+00:00",
       "NumProgressed": 22008,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-23T20:06:38.6270972+00:00",
+      "NumProgressed": 22013,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 29,
@@ -3477,7 +3482,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3521
+      "UsersEstimate": 3522
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -3485,7 +3490,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4402
+      "UsersEstimate": 4403
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -3549,7 +3554,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1100
+      "UsersEstimate": 1101
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -3579,9 +3584,9 @@
       "ID": "ACH_15_MOTHER_BEHOLDER_QUICK_KILL",
       "SetID": "443p4o4",
       "Name": "Death Becomes Her",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 154
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_16_RETURNED_ICE_METEORS",
@@ -3621,7 +3626,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -3629,7 +3634,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -3637,7 +3642,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1320
+      "UsersEstimate": 1321
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -3708,7 +3713,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 22008,
+      "Progressed": 22013,
       "Completed": 18
     }
   ],
@@ -3716,8 +3721,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-05-23T19:06:25.5475162+00:00",
+  "LastChanged_Achievements": "2023-05-23T20:06:38.6270966+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:39.6610119+00:00",
-  "LastUpdate_Ratings": "2023-05-23T19:00:26.4620189+00:00",
-  "LastUpdate_Achievements": "2023-05-23T19:06:25.5475467+00:00"
+  "LastUpdate_Ratings": "2023-05-23T20:00:33.6669783+00:00",
+  "LastUpdate_Achievements": "2023-05-23T20:06:38.6271421+00:00"
 }

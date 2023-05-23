@@ -10,26 +10,26 @@ Rating: 4.18 (Ranked 831)
 | Chew 'Em Up | 5.00% | ~671 |
 | Instigator | 4.00% | ~54 |
 | Big Game Hunter | 4.00% | ~54 |
-| Bear Trap | 3.00% | ~40 |
-| The Commonality | 2.00% | ~268 |
-| Float Like A Butterfly | 2.00% | ~268 |
-| Mugshot | 2.00% | ~268 |
+| Bear Trap | 3.00% | ~41 |
+| The Commonality | 2.00% | ~269 |
+| Float Like A Butterfly | 2.00% | ~269 |
+| Mugshot | 2.00% | ~269 |
+| The Outer Way | 2.00% | ~269 |
 | Big Spender | 2.00% | ~27 |
-| Parole Denied | 1.00% | ~13 |
+| Parole Denied | 1.00% | ~14 |
 | Get a Grip | 1.00% | ~134 |
 | Workplace Hazard | 1.00% | ~134 |
 | Reforged | 1.00% | ~134 |
 | Paper Jams | 1.00% | ~134 |
-| The Outer Way | 1.00% | ~134 |
 | Desperate Times | 1.00% | ~134 |
-| Hoard Mode | 1.00% | ~13 |
+| Hoard Mode | 1.00% | ~14 |
+| If the SHU Fits... | 0.90% | ~121 |
 | Lifer | 0.80% | ~11 |
 | Terminated | 0.80% | ~107 |
-| If the SHU Fits... | 0.80% | ~107 |
 | Recidivist | 0.70% | ~9 |
 | In Striking Distance | 0.60% | ~81 |
+| Without A Paddle | 0.60% | ~81 |
 | Two Heads Are Better Than One | 0.50% | ~67 |
-| Without A Paddle | 0.50% | ~67 |
 | Grim Reaper | 0.30% | ~40 |
 | I Do Belong Here | 0.30% | ~40 |
 | In the Pipe, Five by Five | 0.30% | ~40 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 831)
 | I am the Danger | 0.00% | ~0 |
 | Subject Alpha | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,418 (Ranked 101)  
+Progressed: 13,427 (Ranked 101)  
 Completed: 52 (0.39%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,11 +78,11 @@ Completed: 52 (0.39%) (Ranked 112)
 | 2023-05-20 | 13,057 | 51 |
 | 2023-05-21 | 13,223 | 52 |
 | 2023-05-22 | 13,347 | 52 |
-| 2023-05-23 | 13,418 | 52 |
+| 2023-05-23 | 13,427 | 52 |
 ## Awards
-Max (Amazing Storytelling): 46  (Ranked 397)  
-Sum: 247 (Ranked 341)  
-Diff (max vs sum): 56  
+Max (Highly Recommended): 46  (Ranked 397)  
+Sum: 267 (Ranked 335)  
+Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 46 |
@@ -91,6 +91,7 @@ Diff (max vs sum): 56
 | This game is Extremely Fun | 41 |
 | This game has Quickly Understood Controls | 40 |
 | This game has Challenging Combat | 30 |
+| This game has a Creative Community | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -141,3 +142,4 @@ Diff (max vs sum): 56
 | 2023-05-05 | 4.18 | 46 | 245 |
 | 2023-05-16 | 4.18 | 46 | 246 |
 | 2023-05-22 | 4.18 | 46 | 247 |
+| 2023-05-23 | 4.18 | 46 | 267 |

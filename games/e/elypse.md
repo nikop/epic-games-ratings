@@ -23,12 +23,12 @@
 | Homeless | 26.00% | ~10 |
 | Big badaboom! | 23.00% | ~9 |
 | Nokron tower | 21.00% | ~8 |
+| Magnitude 5 | 21.00% | ~8 |
 | Payback | 21.00% | ~8 |
+| Full power | 18.00% | ~7 |
+| "Ah sh*t... Here we go again!" | 18.00% | ~7 |
 | Compulsive hoarder | 18.00% | ~7 |
-| Magnitude 5 | 18.00% | ~7 |
 | Bookworm | 18.00% | ~7 |
-| Full power | 15.00% | ~6 |
-| "Ah sh*t... Here we go again!" | 15.00% | ~6 |
 | MayDay! MayDay! | 13.00% | ~5 |
 | GG EZ | 5.00% | ~2 |
 | Comeback | 5.00% | ~2 |

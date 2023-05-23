@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5068,
+  "EOS_Progressed": 5069,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -340,6 +340,11 @@
       "Time": "2023-05-23T19:06:41.9755498+00:00",
       "NumProgressed": 5068,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-23T20:06:56.488475+00:00",
+      "NumProgressed": 5069,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 49,
@@ -351,7 +356,7 @@
       "Name": "Employee of the Month",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 1875
+      "UsersEstimate": 1876
     },
     {
       "ID": "ACHIEVE_3_OFFSHOOTS_COMPLETE",
@@ -367,7 +372,7 @@
       "Name": "I Believe I Can Fly",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1875
+      "UsersEstimate": 1876
     },
     {
       "ID": "ACHIEVE_50_BONES",
@@ -391,7 +396,7 @@
       "Name": "Ghost Facers!",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1369
     },
     {
       "ID": "ACHIEVE_50_GOLD",
@@ -405,9 +410,9 @@
       "ID": "ACHIEVE_50_GUTS",
       "SetID": "b8l3p0g",
       "Name": "Jerk-Slayer",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 2179
+      "UsersEstimate": 2129
     },
     {
       "ID": "ACHIEVE_50_ICE",
@@ -479,7 +484,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 4967
+      "UsersEstimate": 4968
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -487,7 +492,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 3142
+      "UsersEstimate": 3143
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -527,7 +532,7 @@
       "Name": "Fortunate Soul",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2483
+      "UsersEstimate": 2484
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -559,7 +564,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 3953
+      "UsersEstimate": 3954
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -575,7 +580,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 2686
+      "UsersEstimate": 2687
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -591,7 +596,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3142
+      "UsersEstimate": 3143
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -623,7 +628,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 2990
+      "UsersEstimate": 2991
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -639,7 +644,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 4967
+      "UsersEstimate": 4968
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -695,7 +700,7 @@
       "Name": "Death Defied",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2686
+      "UsersEstimate": 2687
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -735,22 +740,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3598
+      "UsersEstimate": 3599
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5068,
+      "Progressed": 5069,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-05-23T19:06:41.9755496+00:00",
+  "LastChanged_Achievements": "2023-05-23T20:06:56.488474+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:57.7416925+00:00",
-  "LastUpdate_Ratings": "2023-05-23T19:00:29.7426594+00:00",
-  "LastUpdate_Achievements": "2023-05-23T19:06:41.9755796+00:00"
+  "LastUpdate_Ratings": "2023-05-23T20:00:37.7045123+00:00",
+  "LastUpdate_Achievements": "2023-05-23T20:06:56.4885155+00:00"
 }

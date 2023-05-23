@@ -5,29 +5,29 @@ Rating: 4.54 (Ranked 481)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~18,224 |
-| Before the Downfall | 93.00% | ~17,294 |
-| Money like Water | 91.00% | ~16,922 |
-| Minimalist | 90.00% | ~16,736 |
-| Builder | 83.00% | ~15,435 |
-| Eraser | 70.00% | ~13,017 |
-| Pocket of Trains | 65.00% | ~12,087 |
-| Inspector | 59.00% | ~10,972 |
-| Going the Distance | 54.00% | ~10,042 |
-| Oil Baron | 42.00% | ~7,810 |
-| Loads-a-Money | 42.00% | ~7,810 |
-| Helper of the People | 39.00% | ~7,252 |
+| Trevithick's Legacy | 98.00% | ~18,226 |
+| Before the Downfall | 93.00% | ~17,296 |
+| Money like Water | 91.00% | ~16,924 |
+| Minimalist | 90.00% | ~16,738 |
+| Builder | 83.00% | ~15,436 |
+| Eraser | 70.00% | ~13,019 |
+| Pocket of Trains | 65.00% | ~12,089 |
+| Inspector | 59.00% | ~10,973 |
+| Going the Distance | 54.00% | ~10,043 |
+| Oil Baron | 42.00% | ~7,811 |
+| Loads-a-Money | 42.00% | ~7,811 |
+| Helper of the People | 39.00% | ~7,253 |
 | Simplification | 33.00% | ~6,137 |
 | Box of Trains | 33.00% | ~6,137 |
 | Let There be Light | 32.00% | ~5,951 |
 | Hot Water | 30.00% | ~5,579 |
 | Indecisive | 29.00% | ~5,393 |
 | The scenic route | 27.00% | ~5,021 |
-| Industrialist | 25.00% | ~4,649 |
-| Perfectionist | 23.00% | ~4,277 |
-| Trains over Pipes | 23.00% | ~4,277 |
-| 8K is Enough for Everyone | 22.00% | ~4,091 |
-| Man of Steel | 16.00% | ~2,975 |
+| Industrialist | 25.00% | ~4,650 |
+| Perfectionist | 23.00% | ~4,278 |
+| Trains over Pipes | 23.00% | ~4,278 |
+| 8K is Enough for Everyone | 22.00% | ~4,092 |
+| Man of Steel | 16.00% | ~2,976 |
 | Room Full of Trains | 12.00% | ~2,232 |
 | Investor | 9.00% | ~1,674 |
 | Multiverse | 7.00% | ~1,302 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 481)
 | Overdeer | 0.40% | ~74 |
 | Cloud Services | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,596 (Ranked 95)  
+Progressed: 18,598 (Ranked 95)  
 Completed: 29 (0.16%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 29 (0.16%) (Ranked 144)
 | 2023-05-20 | 18,539 | 28 |
 | 2023-05-21 | 18,566 | 29 |
 | 2023-05-22 | 18,583 | 29 |
-| 2023-05-23 | 18,596 | 29 |
+| 2023-05-23 | 18,598 | 29 |
 ## Awards
 Max (Highly Recommended): 87  (Ranked 342)  
 Sum: 646 (Ranked 273)  

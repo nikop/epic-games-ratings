@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2543,
+  "EOS_Progressed": 2544,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1710,6 +1710,11 @@
       "Time": "2023-05-23T16:00:49.5745388+00:00",
       "NumProgressed": 2543,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-23T20:01:48.440427+00:00",
+      "NumProgressed": 2544,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1729,7 +1734,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "11",
@@ -1745,7 +1750,7 @@
       "Name": "TRAINING HARD",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "13",
@@ -1793,7 +1798,7 @@
       "Name": "ACE BRAWLER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "19",
@@ -1817,7 +1822,7 @@
       "Name": "PROTECTED",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "21",
@@ -1825,7 +1830,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "22",
@@ -1873,7 +1878,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "6",
@@ -1881,7 +1886,7 @@
       "Name": "PRO",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "7",
@@ -1889,7 +1894,7 @@
       "Name": "MASTER",
       "Percentage": 8,
       "XP": 65,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "8",
@@ -1905,20 +1910,20 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2543,
+      "Progressed": 2544,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-23T19:01:27.7232981+00:00",
+  "LastChanged_Achievements": "2023-05-23T20:01:48.4404265+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.9291954+00:00",
-  "LastUpdate_Ratings": "2023-05-23T18:59:21.527421+00:00",
-  "LastUpdate_Achievements": "2023-05-23T19:01:27.7233207+00:00"
+  "LastUpdate_Ratings": "2023-05-23T19:59:19.1646008+00:00",
+  "LastUpdate_Achievements": "2023-05-23T20:01:48.4404573+00:00"
 }

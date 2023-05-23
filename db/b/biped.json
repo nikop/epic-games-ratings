@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1736,
+  "EOS_Progressed": 1738,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 559,
+  "EOS_NewPlayers": 561,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1906,6 +1906,11 @@
       "Time": "2023-05-23T19:06:00.2708569+00:00",
       "NumProgressed": 1736,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-23T20:06:09.9945203+00:00",
+      "NumProgressed": 1738,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -1917,7 +1922,7 @@
       "Name": "First Step",
       "Percentage": 45,
       "XP": 45,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "10",
@@ -1981,7 +1986,7 @@
       "Name": "Cactus Vally",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "4",
@@ -2021,7 +2026,7 @@
       "Name": "Sunset Ridge",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "9",
@@ -2036,7 +2041,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 1736,
+      "Progressed": 1738,
       "Completed": 0
     }
   ],
@@ -2044,8 +2049,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-05-23T19:06:00.2708565+00:00",
+  "LastChanged_Achievements": "2023-05-23T20:06:09.9945197+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:36.8488775+00:00",
-  "LastUpdate_Ratings": "2023-05-23T18:58:24.061683+00:00",
-  "LastUpdate_Achievements": "2023-05-23T19:06:00.2708751+00:00"
+  "LastUpdate_Ratings": "2023-05-23T19:58:11.8502586+00:00",
+  "LastUpdate_Achievements": "2023-05-23T20:06:09.9945443+00:00"
 }

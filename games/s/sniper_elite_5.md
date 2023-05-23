@@ -5,17 +5,17 @@ Rating: 4.35 (Ranked 720)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 15.00% | ~192 |
-| Confirming Suspicions | 10.00% | ~128 |
+| Meeting Resistance | 15.00% | ~193 |
+| Confirming Suspicions | 10.00% | ~129 |
 | The Kraken Wakes | 7.00% | ~90 |
+| Lord of War | 5.00% | ~64 |
 | It's Starting to Crack | 5.00% | ~64 |
 | Enemy at the Gates | 4.00% | ~51 |
-| Lord of War | 4.00% | ~51 |
 | Resourceful | 4.00% | ~51 |
-| Just a Flesh Wound | 3.00% | ~38 |
-| Organ Grinder | 3.00% | ~38 |
-| Explosive Efficiency | 3.00% | ~38 |
-| Change the Channel | 3.00% | ~38 |
+| Just a Flesh Wound | 3.00% | ~39 |
+| Organ Grinder | 3.00% | ~39 |
+| Explosive Efficiency | 3.00% | ~39 |
+| Change the Channel | 3.00% | ~39 |
 | Opposing Force | 2.00% | ~26 |
 | Gunslinger | 2.00% | ~26 |
 | Die Nussknacker Sweet! | 2.00% | ~26 |
@@ -50,6 +50,7 @@ Rating: 4.35 (Ranked 720)
 | From Paris with Love | 0.20% | ~3 |
 | Souvenir hunter | 0.20% | ~3 |
 | Up close and personal | 0.20% | ~3 |
+| Road Rage | 0.20% | ~3 |
 | Don't hold your breath | 0.20% | ~3 |
 | Reich To The Point | 0.20% | ~2 |
 | Covert Elimination | 0.20% | ~2 |
@@ -58,7 +59,6 @@ Rating: 4.35 (Ranked 720)
 | Burn after reading | 0.10% | ~1 |
 | Eagle Eyed | 0.10% | ~1 |
 | Tinkerer | 0.10% | ~1 |
-| Road Rage | 0.10% | ~1 |
 | Führerious Repetition | 0.10% | ~1 |
 | Operation Overlord | 0.10% | ~1 |
 | If You Go Down To The Woods Today | 0.10% | ~1 |
@@ -77,7 +77,7 @@ Rating: 4.35 (Ranked 720)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,282 (Ranked 157)  
+Progressed: 1,286 (Ranked 157)  
 Completed: 2 (0.16%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 2 (0.16%) (Ranked 144)
 | 2023-05-20 | 984 | 2 |
 | 2023-05-21 | 1,126 | 2 |
 | 2023-05-22 | 1,233 | 2 |
-| 2023-05-23 | 1,282 | 2 |
+| 2023-05-23 | 1,286 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

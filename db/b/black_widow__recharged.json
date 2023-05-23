@@ -140,9 +140,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14427,
+  "EOS_Progressed": 14429,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 254,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -2685,6 +2685,11 @@
       "Time": "2023-05-23T19:06:32.3853337+00:00",
       "NumProgressed": 14427,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-05-23T20:06:46.137819+00:00",
+      "NumProgressed": 14429,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 14,
@@ -2696,7 +2701,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 11397
+      "UsersEstimate": 11399
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -2728,7 +2733,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 20,
       "XP": 90,
-      "UsersEstimate": 2885
+      "UsersEstimate": 2886
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -2736,7 +2741,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 2308
+      "UsersEstimate": 2309
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -2752,7 +2757,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 7646
+      "UsersEstimate": 7647
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -2807,15 +2812,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 14427,
+      "Progressed": 14429,
       "Completed": 45
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-05-10T21:00:12.78292+00:00",
-  "LastChanged_Achievements": "2023-05-23T19:06:32.3853333+00:00",
+  "LastChanged_Achievements": "2023-05-23T20:06:46.1378186+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:34.6083984+00:00",
-  "LastUpdate_Ratings": "2023-05-23T19:00:51.9250088+00:00",
-  "LastUpdate_Achievements": "2023-05-23T19:06:32.3853529+00:00"
+  "LastUpdate_Ratings": "2023-05-23T20:01:04.2355014+00:00",
+  "LastUpdate_Achievements": "2023-05-23T20:06:46.137847+00:00"
 }

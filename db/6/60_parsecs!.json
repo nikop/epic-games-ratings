@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -318,9 +318,9 @@
       "ID": "Achievement_ForScience",
       "SetID": "c01p6e5",
       "Name": "For Science!",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 194
     },
     {
       "ID": "Achievement_Friendzone",
@@ -414,9 +414,9 @@
       "ID": "Achievement_MutinyInMaking",
       "SetID": "c01p6e5",
       "Name": "Mutiny in making",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 140
     },
     {
       "ID": "Achievement_Muttnik",
@@ -543,8 +543,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-05-23T19:06:12.6170414+00:00",
+  "LastChanged_Achievements": "2023-05-23T20:06:23.882089+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:12.4303975+00:00",
-  "LastUpdate_Ratings": "2023-05-23T18:59:18.1264527+00:00",
-  "LastUpdate_Achievements": "2023-05-23T19:06:12.6170712+00:00"
+  "LastUpdate_Ratings": "2023-05-23T19:59:14.9651457+00:00",
+  "LastUpdate_Achievements": "2023-05-23T20:06:23.8821261+00:00"
 }

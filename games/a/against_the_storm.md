@@ -8,6 +8,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Marshlands | 2.00% | ~299 |
 | No Deaths | 2.00% | ~299 |
+| Homesick | 1.00% | ~150 |
 | First Real Expedition | 1.00% | ~150 |
 | Overcoming Difficulty | 1.00% | ~150 |
 | Bandit Camp | 1.00% | ~150 |
@@ -19,7 +20,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 1.00% | ~150 |
 | Like a Machine | 1.00% | ~150 |
 | Trade Baron | 1.00% | ~150 |
-| Homesick | 0.90% | ~135 |
 | Ancient Battleground | 0.90% | ~135 |
 | Sparkdew Crystals | 0.90% | ~135 |
 | Cursed Lands | 0.90% | ~135 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,973 (Ranked 98)  
+Progressed: 14,974 (Ranked 98)  
 Completed: 33 (0.22%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 33 (0.22%) (Ranked 135)
 | 2023-05-20 | 14,925 | 30 |
 | 2023-05-21 | 14,940 | 32 |
 | 2023-05-22 | 14,956 | 33 |
-| 2023-05-23 | 14,973 | 33 |
+| 2023-05-23 | 14,974 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 196)  
 Sum: 3,028 (Ranked 151)  

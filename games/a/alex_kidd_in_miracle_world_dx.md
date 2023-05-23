@@ -9,7 +9,7 @@
 | Assailants | 26.00% | ~60 |
 | Prisoner | 23.00% | ~53 |
 | First Commander | 19.00% | ~44 |
-| Adventurer | 17.00% | ~39 |
+| Adventurer | 18.00% | ~42 |
 | Second Commander | 16.00% | ~37 |
 | Third Commander | 14.00% | ~32 |
 | Janken The Great | 10.00% | ~23 |
@@ -21,7 +21,7 @@
 | Collector | 1.00% | ~2 |
 | Champion | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 230 (Ranked 224)  
+Progressed: 231 (Ranked 224)  
 Completed: 3 (1.30%) (Ranked 76)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -30,7 +30,7 @@ Completed: 3 (1.30%) (Ranked 76)
 | 2023-05-07 | 227 | 3 |
 | 2023-05-15 | 228 | 3 |
 | 2023-05-19 | 229 | 3 |
-| 2023-05-23 | 230 | 3 |
+| 2023-05-23 | 231 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1282,
+  "EOS_Progressed": 1286,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 559,
+  "EOS_NewPlayers": 563,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1169,6 +1169,11 @@
       "Time": "2023-05-23T19:06:11.957194+00:00",
       "NumProgressed": 1282,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-23T20:06:23.1512514+00:00",
+      "NumProgressed": 1286,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1236,7 +1241,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -1244,7 +1249,7 @@
       "Name": "Organ Grinder",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -1260,7 +1265,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1348,7 +1353,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1380,15 +1385,15 @@
       "Name": "Explosive Efficiency",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
       "SetID": "bm6el81",
       "Name": "Lord of War",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 64
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -1516,7 +1521,7 @@
       "Name": "Change the Channel",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -1530,9 +1535,9 @@
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
       "SetID": "bm6el81",
       "Name": "Road Rage",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_67_NO_ASSISTANCE",
@@ -1747,13 +1752,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1233,
+      "Progressed": 1237,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1282,
+      "Progressed": 1286,
       "Completed": 2
     }
   ],
@@ -1761,8 +1766,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-23T13:59:59.0486682+00:00",
-  "LastChanged_Achievements": "2023-05-23T19:06:11.9571937+00:00",
+  "LastChanged_Achievements": "2023-05-23T20:06:23.1512507+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-23T19:00:58.8185183+00:00",
-  "LastUpdate_Achievements": "2023-05-23T19:06:11.9572503+00:00"
+  "LastUpdate_Ratings": "2023-05-23T20:01:12.2683888+00:00",
+  "LastUpdate_Achievements": "2023-05-23T20:06:23.1513413+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -244,11 +244,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5252,
+  "EOS_Progressed": 5255,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 341,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.5,
+  "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:24.6451257+00:00",
@@ -1694,6 +1694,11 @@
       "Time": "2023-05-23T19:01:17.4828152+00:00",
       "NumProgressed": 5252,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-23T20:01:36.8402484+00:00",
+      "NumProgressed": 5255,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -1705,7 +1710,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4359
+      "UsersEstimate": 4362
     },
     {
       "ID": "ACH02",
@@ -1713,7 +1718,7 @@
       "Name": "Without a Scratch",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 1681
+      "UsersEstimate": 1682
     },
     {
       "ID": "ACH03",
@@ -1729,7 +1734,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 1891
+      "UsersEstimate": 1892
     },
     {
       "ID": "ACH05",
@@ -1777,7 +1782,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1418
+      "UsersEstimate": 1419
     },
     {
       "ID": "ACH11",
@@ -1809,7 +1814,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "ACH15",
@@ -1825,7 +1830,7 @@
       "Name": "A Marked Man",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "ACH17",
@@ -1833,7 +1838,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "ACH18",
@@ -1936,7 +1941,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 5252,
+      "Progressed": 5255,
       "Completed": 26
     }
   ],
@@ -1944,8 +1949,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-22T16:57:51.9969585+00:00",
-  "LastChanged_Achievements": "2023-05-23T19:01:17.4828148+00:00",
+  "LastChanged_Achievements": "2023-05-23T20:01:36.8402479+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:31.8748782+00:00",
-  "LastUpdate_Ratings": "2023-05-23T18:58:18.7001622+00:00",
-  "LastUpdate_Achievements": "2023-05-23T19:01:17.4828435+00:00"
+  "LastUpdate_Ratings": "2023-05-23T19:58:05.6577761+00:00",
+  "LastUpdate_Achievements": "2023-05-23T20:01:36.8402837+00:00"
 }

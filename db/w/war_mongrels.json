@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -861,9 +861,9 @@
       "ID": "ACH_KILL_ENV",
       "SetID": "1j25agn",
       "Name": "It\u0027s Just an Accident",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_KILL_FRAG",
@@ -949,8 +949,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-05-09T23:57:28.9754418+00:00",
-  "LastChanged_Achievements": "2023-05-23T19:01:26.57372+00:00",
+  "LastChanged_Achievements": "2023-05-23T20:01:47.140404+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:01.9016759+00:00",
-  "LastUpdate_Ratings": "2023-05-23T18:57:52.9670428+00:00",
-  "LastUpdate_Achievements": "2023-05-23T19:01:26.5737658+00:00"
+  "LastUpdate_Ratings": "2023-05-23T19:57:35.7122413+00:00",
+  "LastUpdate_Achievements": "2023-05-23T20:01:47.14046+00:00"
 }

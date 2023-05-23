@@ -6,26 +6,26 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~4,967 |
-| The Journey Begins | 98.00% | ~4,967 |
-| Slaughterhouse 5 (200 times) | 78.00% | ~3,953 |
-| There is No Escape | 71.00% | ~3,598 |
-| Fun, Flirty, and Thirty | 62.00% | ~3,142 |
-| Royal Flush | 62.00% | ~3,142 |
+| Quinceañera Time | 98.00% | ~4,968 |
+| The Journey Begins | 98.00% | ~4,968 |
+| Slaughterhouse 5 (200 times) | 78.00% | ~3,954 |
+| There is No Escape | 71.00% | ~3,599 |
+| Fun, Flirty, and Thirty | 62.00% | ~3,143 |
+| Royal Flush | 62.00% | ~3,143 |
 | Timber! | 60.00% | ~3,041 |
-| Survive the Bombsequences | 59.00% | ~2,990 |
-| Killed 20 Jerks | 53.00% | ~2,686 |
-| Death Defied | 53.00% | ~2,686 |
-| Fortunate Soul | 49.00% | ~2,483 |
-| Jerk-Slayer | 43.00% | ~2,179 |
-| Employee of the Month | 37.00% | ~1,875 |
-| I Believe I Can Fly | 37.00% | ~1,875 |
+| Survive the Bombsequences | 59.00% | ~2,991 |
+| Killed 20 Jerks | 53.00% | ~2,687 |
+| Death Defied | 53.00% | ~2,687 |
+| Fortunate Soul | 49.00% | ~2,484 |
+| Jerk-Slayer | 42.00% | ~2,129 |
+| Employee of the Month | 37.00% | ~1,876 |
+| I Believe I Can Fly | 37.00% | ~1,876 |
 | Bone Collector | 35.00% | ~1,774 |
 | Fe-Festival | 35.00% | ~1,774 |
 | Top of the Food Chain | 32.00% | ~1,622 |
 | Pardon my Slob | 32.00% | ~1,622 |
 | Humerus Achievement | 31.00% | ~1,571 |
-| Ghost Facers! | 27.00% | ~1,368 |
+| Ghost Facers! | 27.00% | ~1,369 |
 | If It Bleeds, You Can Kill It | 21.00% | ~1,064 |
 | Royal Flush, Again | 19.00% | ~963 |
 | Trying To Get Into That 1%, Huh? | 18.00% | ~912 |
@@ -56,7 +56,7 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.60% | ~30 |
 | Completionist | 0.50% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,068 (Ranked 124)  
+Progressed: 5,069 (Ranked 124)  
 Completed: 26 (0.51%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 26 (0.51%) (Ranked 105)
 | 2023-05-19 | 5,060 | 26 |
 | 2023-05-20 | 5,064 | 26 |
 | 2023-05-21 | 5,066 | 26 |
-| 2023-05-23 | 5,068 | 26 |
+| 2023-05-23 | 5,069 | 26 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
