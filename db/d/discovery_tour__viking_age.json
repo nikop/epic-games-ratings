@@ -2,9 +2,9 @@
   "ID": "e5e398f1f7ca42aaa6cb7b6c7b4d1029",
   "Name": "Discovery Tour: Viking Age",
   "ProductSlug": "discovery-tour-viking-age",
-  "Ranking_EOS_Progress": 413,
+  "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-10-19T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:14.7987738+00:00",
   "LastChanged": "2023-03-31T05:57:14.7987739+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:20.2646685+00:00",
-  "LastUpdate_Ratings": "2023-05-23T09:59:13.9743609+00:00",
-  "LastUpdate_Achievements": "2023-05-23T10:04:21.3391651+00:00"
+  "LastUpdate_Ratings": "2023-05-23T10:58:57.1471686+00:00",
+  "LastUpdate_Achievements": "2023-05-23T11:04:13.3591047+00:00"
 }

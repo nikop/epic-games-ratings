@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,798 |
-| That's a Grand Army | 8.00% | ~3,376 |
-| That is mine! | 8.00% | ~3,376 |
-| Victorious! | 8.00% | ~3,376 |
-| Brothers in Arms | 6.00% | ~2,532 |
-| That's a Grand Navy | 6.00% | ~2,532 |
-| Seriously?! | 6.00% | ~2,532 |
-| For the Glory | 5.00% | ~2,110 |
-| Cold War | 4.00% | ~1,688 |
-| True Catholic | 4.00% | ~1,688 |
-| Defender of the Faith | 3.00% | ~1,266 |
-| It's all about the money | 3.00% | ~1,266 |
-| Respected | 3.00% | ~1,266 |
-| Truly Divine Ruler | 3.00% | ~1,266 |
+| Until death do us apart | 9.00% | ~3,800 |
+| That's a Grand Army | 8.00% | ~3,378 |
+| That is mine! | 8.00% | ~3,378 |
+| Victorious! | 8.00% | ~3,378 |
+| Brothers in Arms | 6.00% | ~2,534 |
+| That's a Grand Navy | 6.00% | ~2,534 |
+| Seriously?! | 6.00% | ~2,534 |
+| For the Glory | 5.00% | ~2,111 |
+| Cold War | 4.00% | ~1,689 |
+| True Catholic | 4.00% | ~1,689 |
+| Defender of the Faith | 3.00% | ~1,267 |
+| It's all about the money | 3.00% | ~1,267 |
+| Respected | 3.00% | ~1,267 |
+| Truly Divine Ruler | 3.00% | ~1,267 |
 | Blockader | 2.00% | ~844 |
 | Combined Arms | 2.00% | ~844 |
 | Double the Love | 2.00% | ~844 |
@@ -42,8 +42,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Isn't this the way to India? | 0.80% | ~338 |
 | Market Control | 0.80% | ~338 |
 | This navy can take it all | 0.80% | ~338 |
-| Down Under | 0.70% | ~295 |
-| Trustworthy | 0.70% | ~295 |
+| Down Under | 0.70% | ~296 |
+| Trustworthy | 0.70% | ~296 |
 | Electable! | 0.60% | ~253 |
 | Time Bandit | 0.60% | ~253 |
 | All belongs to Mother Russia | 0.50% | ~211 |
@@ -210,6 +210,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | My True Friend | 0.10% | ~42 |
 | Napoleon’s Ambition | 0.10% | ~42 |
 | Narcissism | 0.10% | ~42 |
+| Neither Holy, Nor German | 0.10% | ~42 |
 | Networking | 0.10% | ~42 |
 | New, New Deli | 0.10% | ~42 |
 | No Country for Old Tercios | 0.10% | ~42 |
@@ -329,7 +330,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Levant Turnabout | 0.00% | ~0 |
 | Mass Production | 0.00% | ~0 |
 | Meissner Porcelain | 0.00% | ~0 |
-| Neither Holy, Nor German | 0.00% | ~0 |
 | Never say Nevers | 0.00% | ~0 |
 | No Trail of Tears | 0.00% | ~0 |
 | Norwegian Wood | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,202 (Ranked 80)  
+Progressed: 42,225 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -394,10 +394,10 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-20 | 40,736 | 0 |
 | 2023-05-21 | 41,525 | 0 |
 | 2023-05-22 | 42,079 | 0 |
-| 2023-05-23 | 42,202 | 0 |
+| 2023-05-23 | 42,225 | 0 |
 ## Awards
 Max (Educational): 5,271  (Ranked 60)  
-Sum: 43,645 (Ranked 27)  
+Sum: 43,650 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -405,7 +405,7 @@ Diff (max vs sum): 33
 | This game is Highly Recommended | 5,062 |
 | This game has Challenging Combat | 5,033 |
 | This game is Extremely Fun | 5,010 |
-| This game has Diverse Characters | 4,963 |
+| This game has Diverse Characters | 4,968 |
 | This game is Relaxing | 4,909 |
 | This game has Competitive Players | 4,741 |
 | This game has Amazing Storytelling | 4,498 |
@@ -540,4 +540,4 @@ Diff (max vs sum): 33
 | 2023-05-20 | 4.68 | - | 5,255 | 43,550 |
 | 2023-05-21 | 4.68 | - | 5,264 | 43,591 |
 | 2023-05-22 | 4.68 | - | 5,271 | 43,642 |
-| 2023-05-23 | 4.68 | - | 5,271 | 43,645 |
+| 2023-05-23 | 4.68 | - | 5,271 | 43,650 |

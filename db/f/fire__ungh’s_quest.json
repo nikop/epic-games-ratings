@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 28,
   "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
     "PcReleaseDate": "2015-04-09T16:00:00+00:00",
@@ -210,9 +210,9 @@
       "ID": "Hit_Leatherbat_with_Coke_Bottle_in_010",
       "SetID": "6od1ndi",
       "Name": "Kokakoka",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "Hit_the_UFO_in_Space_Invaders_in_006",
@@ -298,9 +298,9 @@
       "ID": "Level_completed_010_010",
       "SetID": "6od1ndi",
       "Name": "AKRE!",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 60,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "Monkey_IQ_test_passed_in_004",
@@ -347,8 +347,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-05-23T10:06:18.3912531+00:00",
+  "LastChanged_Achievements": "2023-05-23T11:05:50.9810973+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:25.4163927+00:00",
-  "LastUpdate_Ratings": "2023-05-23T10:00:02.9059779+00:00",
-  "LastUpdate_Achievements": "2023-05-23T10:06:18.3912723+00:00"
+  "LastUpdate_Ratings": "2023-05-23T10:59:35.9949482+00:00",
+  "LastUpdate_Achievements": "2023-05-23T11:05:50.9811129+00:00"
 }

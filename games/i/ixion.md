@@ -5,8 +5,8 @@ Rating: 4.55 (Ranked 467)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 6.00% | ~125 |
-| Sputnik 2049 | 6.00% | ~125 |
+| Wakey Wakey | 6.00% | ~126 |
+| Sputnik 2049 | 6.00% | ~126 |
 | Without Breaking Some Eggs... | 5.00% | ~105 |
 | Infinite Growth... | 5.00% | ~105 |
 | Guy de Borderlands | 3.00% | ~63 |
@@ -28,7 +28,7 @@ Rating: 4.55 (Ranked 467)
 | Convenient Transport | 1.00% | ~21 |
 | Please Make it Stop! | 1.00% | ~21 |
 | From the Past | 1.00% | ~21 |
-| Man's Best Friend | 0.80% | ~17 |
+| Man's Best Friend | 0.90% | ~19 |
 | In Dolos We Trust | 0.70% | ~15 |
 | BRAWL! | 0.70% | ~15 |
 | All in Good Health | 0.70% | ~15 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 467)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,091 (Ranked 143)  
+Progressed: 2,093 (Ranked 143)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-20 | 2,021 | 0 |
 | 2023-05-21 | 2,063 | 0 |
 | 2023-05-22 | 2,083 | 0 |
-| 2023-05-23 | 2,091 | 0 |
+| 2023-05-23 | 2,093 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

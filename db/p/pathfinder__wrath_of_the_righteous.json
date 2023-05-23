@@ -2486,7 +2486,7 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 9107,
+  "EOS_Progressed": 9108,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 0,
@@ -4286,6 +4286,11 @@
       "Time": "2023-05-23T08:07:07.7721724+00:00",
       "NumProgressed": 9107,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-23T11:06:04.5457992+00:00",
+      "NumProgressed": 9108,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -4313,7 +4318,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "04_FithCrusade",
@@ -4497,7 +4502,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "28_GreatUpstart",
@@ -4703,9 +4708,9 @@
       "ID": "53_TrulyProfaneGift",
       "SetID": "989of5o",
       "Name": "Truly Profane Gift",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 46
     },
     {
       "ID": "54_DeathByColumn",
@@ -5224,21 +5229,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7889,
+      "Progressed": 7890,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9107,
+      "Progressed": 9108,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-22T15:58:32.2761795+00:00",
-  "LastChanged_Achievements": "2023-05-23T10:06:33.8189787+00:00",
+  "LastChanged_Achievements": "2023-05-23T11:06:04.5457988+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3010226+00:00",
-  "LastUpdate_Ratings": "2023-05-23T09:58:26.6099758+00:00",
-  "LastUpdate_Achievements": "2023-05-23T10:06:33.8191509+00:00"
+  "LastUpdate_Ratings": "2023-05-23T10:58:18.2279152+00:00",
+  "LastUpdate_Achievements": "2023-05-23T11:06:04.5459413+00:00"
 }

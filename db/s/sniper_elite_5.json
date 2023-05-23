@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1253,
+  "EOS_Progressed": 1256,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 531,
+  "EOS_NewPlayers": 534,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1123,6 +1123,11 @@
       "Time": "2023-05-23T10:06:03.275236+00:00",
       "NumProgressed": 1253,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-23T11:05:37.9803551+00:00",
+      "NumProgressed": 1256,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1212,9 +1217,9 @@
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 188
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1452,17 +1457,17 @@
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
       "SetID": "bm6el81",
       "Name": "It\u0027ll Buff Right Out",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_56_SMOOTH_OPERATOR",
       "SetID": "bm6el81",
       "Name": "Locomotion Commotion",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "REWARD_5_BUNKER_BUSTER",
@@ -1524,9 +1529,9 @@
       "ID": "REWARD_7_TARGET_AMERICA",
       "SetID": "bm6el81",
       "Name": "Target America",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 25
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -1701,13 +1706,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1204,
+      "Progressed": 1207,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1253,
+      "Progressed": 1256,
       "Completed": 2
     }
   ],
@@ -1715,8 +1720,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-22T16:01:02.9174493+00:00",
-  "LastChanged_Achievements": "2023-05-23T10:06:03.2752357+00:00",
+  "LastChanged_Achievements": "2023-05-23T11:05:37.9803547+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-23T10:00:48.3692941+00:00",
-  "LastUpdate_Achievements": "2023-05-23T10:06:03.2752968+00:00"
+  "LastUpdate_Ratings": "2023-05-23T11:00:10.3311865+00:00",
+  "LastUpdate_Achievements": "2023-05-23T11:05:37.9804133+00:00"
 }

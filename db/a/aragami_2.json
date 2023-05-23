@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 108,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 32987,
+  "EOS_Progressed": 32988,
   "EOS_Completed": 157,
-  "EOS_NewPlayers": 484,
+  "EOS_NewPlayers": 482,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -2997,6 +2997,11 @@
       "Time": "2023-05-23T10:05:56.5459695+00:00",
       "NumProgressed": 32987,
       "NumCompleted": 157
+    },
+    {
+      "Time": "2023-05-23T11:05:32.002912+00:00",
+      "NumProgressed": 32988,
+      "NumCompleted": 157
     }
   ],
   "TotalAchievements": 44,
@@ -3096,7 +3101,7 @@
       "Name": "Left Behind",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1320
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -3104,7 +3109,7 @@
       "Name": "Secrets of the Earth",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1320
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -3128,7 +3133,7 @@
       "Name": "First Steps",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 26719
+      "UsersEstimate": 26720
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -3200,7 +3205,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 12205
+      "UsersEstimate": 12206
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -3216,7 +3221,7 @@
       "Name": "Wall Lizard",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 6597
+      "UsersEstimate": 6598
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -3256,7 +3261,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 8906
+      "UsersEstimate": 8907
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -3272,7 +3277,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 19792
+      "UsersEstimate": 19793
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -3280,7 +3285,7 @@
       "Name": "Control the Shadows",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 22431
+      "UsersEstimate": 22432
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -3312,7 +3317,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 14844
+      "UsersEstimate": 14845
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -3320,7 +3325,7 @@
       "Name": "Hollow",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1320
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -3344,7 +3349,7 @@
       "Name": "Awakening",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 30348
+      "UsersEstimate": 30349
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -3352,14 +3357,14 @@
       "Name": "Revenant",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 16823
+      "UsersEstimate": 16824
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 32987,
+      "Progressed": 32988,
       "Completed": 157
     }
   ],
@@ -3367,8 +3372,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-03-31T05:58:07.8538504+00:00",
-  "LastChanged_Achievements": "2023-05-23T10:05:56.545969+00:00",
+  "LastChanged_Achievements": "2023-05-23T11:05:32.0029116+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:57.7696392+00:00",
-  "LastUpdate_Ratings": "2023-05-23T09:58:31.6563882+00:00",
-  "LastUpdate_Achievements": "2023-05-23T10:05:56.5460182+00:00"
+  "LastUpdate_Ratings": "2023-05-23T10:58:22.2391495+00:00",
+  "LastUpdate_Achievements": "2023-05-23T11:05:32.0029554+00:00"
 }

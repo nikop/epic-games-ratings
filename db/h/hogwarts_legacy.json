@@ -2724,9 +2724,9 @@
       "Count": 485
     }
   ],
-  "EOS_Progressed": 271230,
+  "EOS_Progressed": 271247,
   "EOS_Completed": 370,
-  "EOS_NewPlayers": 3919,
+  "EOS_NewPlayers": 3935,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5879,6 +5879,11 @@
       "Time": "2023-05-23T10:04:19.3139544+00:00",
       "NumProgressed": 271230,
       "NumCompleted": 370
+    },
+    {
+      "Time": "2023-05-23T11:04:11.8366896+00:00",
+      "NumProgressed": 271247,
+      "NumCompleted": 370
     }
   ],
   "TotalAchievements": 45,
@@ -5890,7 +5895,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16274
+      "UsersEstimate": 16275
     },
     {
       "ID": "PFA_10",
@@ -5898,7 +5903,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16274
+      "UsersEstimate": 16275
     },
     {
       "ID": "PFA_11",
@@ -5906,7 +5911,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 16274
+      "UsersEstimate": 16275
     },
     {
       "ID": "PFA_12",
@@ -5914,7 +5919,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 16274
+      "UsersEstimate": 16275
     },
     {
       "ID": "PFA_13",
@@ -5922,7 +5927,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 16274
+      "UsersEstimate": 16275
     },
     {
       "ID": "PFA_14",
@@ -5930,7 +5935,7 @@
       "Name": "The Seeker of Knowledge",
       "Percentage": 4,
       "XP": 70,
-      "UsersEstimate": 10849
+      "UsersEstimate": 10850
     },
     {
       "ID": "PFA_15",
@@ -5946,7 +5951,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16274
+      "UsersEstimate": 16275
     },
     {
       "ID": "PFA_17",
@@ -5954,7 +5959,7 @@
       "Name": "Beast Friends",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10849
+      "UsersEstimate": 10850
     },
     {
       "ID": "PFA_18",
@@ -5970,7 +5975,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 10849
+      "UsersEstimate": 10850
     },
     {
       "ID": "PFA_2",
@@ -6114,7 +6119,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10849
+      "UsersEstimate": 10850
     },
     {
       "ID": "PFA_36",
@@ -6146,7 +6151,7 @@
       "Name": "Coasting Along",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16274
+      "UsersEstimate": 16275
     },
     {
       "ID": "PFA_4",
@@ -6218,7 +6223,7 @@
       "Name": "First Class Student",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16274
+      "UsersEstimate": 16275
     },
     {
       "ID": "PFA_7",
@@ -6249,7 +6254,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 271230,
+      "Progressed": 271247,
       "Completed": 370
     }
   ],
@@ -6257,8 +6262,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-05-23T07:57:20.7828865+00:00",
-  "LastChanged_Achievements": "2023-05-23T10:04:19.3139538+00:00",
+  "LastChanged_Achievements": "2023-05-23T11:04:11.8366889+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:06.7022297+00:00",
-  "LastUpdate_Ratings": "2023-05-23T09:57:24.2897085+00:00",
-  "LastUpdate_Achievements": "2023-05-23T10:04:19.3140077+00:00"
+  "LastUpdate_Ratings": "2023-05-23T10:57:28.8925753+00:00",
+  "LastUpdate_Achievements": "2023-05-23T11:04:11.8367343+00:00"
 }

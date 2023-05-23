@@ -30,15 +30,15 @@
 | Godlike Power | 27.00% | ~33 |
 | You Shall Not Pass | 26.00% | ~31 |
 | Supremacy | 26.00% | ~31 |
+| Mommy's Very Angry | 25.00% | ~30 |
 | Undying Skin | 25.00% | ~30 |
-| Mommy's Very Angry | 24.00% | ~29 |
+| Fight Me! | 25.00% | ~30 |
 | Animal Lover | 24.00% | ~29 |
-| Fight Me! | 24.00% | ~29 |
 | Immortal Skin | 21.00% | ~25 |
 | Loyal Companion | 20.00% | ~24 |
 | Back To The Future | 19.00% | ~23 |
+| Lunch Before The Lunch | 18.00% | ~22 |
 | Fire Beacon | 18.00% | ~22 |
-| Lunch Before The Lunch | 17.00% | ~21 |
 | Building Blocks | 16.00% | ~19 |
 | From Here To Eternity | 14.00% | ~17 |
 | Boss Hunter | 14.00% | ~17 |

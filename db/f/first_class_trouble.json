@@ -3,11 +3,11 @@
   "Name": "First Class Trouble",
   "ProductSlug": "first-class-trouble",
   "Ranking_Rating": 518,
-  "Ranking_Popularity": 340,
-  "Ranking_PopularitySum": 287,
-  "Ranking_EOS_Progress": 413,
+  "Ranking_Popularity": 338,
+  "Ranking_PopularitySum": 285,
+  "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -796,12 +796,18 @@
       "Rating": 4.51,
       "NumberOfAwards": 575,
       "NumberOfAwardsMax": 88
+    },
+    {
+      "Time": "2023-05-23T10:57:35.6884028+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 578,
+      "NumberOfAwardsMax": 89
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 575,
-  "NumberOfAwardsMax": 88,
-  "MaxAwardTitle": "Great for Beginners",
+  "NumberOfAwards": 578,
+  "NumberOfAwardsMax": 89,
+  "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
@@ -819,7 +825,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 86
+      "Count": 89
     },
     {
       "Text": "This game is Great for Beginners",
@@ -876,8 +882,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-22T22:01:01.54229+00:00",
   "FirstSeenRating": "2023-01-13T07:56:45.2170746+00:00",
-  "LastChanged": "2023-05-20T23:57:28.32553+00:00",
+  "LastChanged": "2023-05-23T10:57:35.6884027+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:59.2328799+00:00",
-  "LastUpdate_Ratings": "2023-05-23T09:57:33.0515691+00:00",
-  "LastUpdate_Achievements": "2023-05-23T10:01:06.655166+00:00"
+  "LastUpdate_Ratings": "2023-05-23T10:57:35.6884032+00:00",
+  "LastUpdate_Achievements": "2023-05-23T11:00:27.912802+00:00"
 }

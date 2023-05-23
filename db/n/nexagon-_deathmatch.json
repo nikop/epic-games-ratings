@@ -2,9 +2,9 @@
   "ID": "64725778396e495b8970fdace83ccacb",
   "Name": "Nexagon- Deathmatch",
   "ProductSlug": "negaxon-deathmatch-85b992",
-  "Ranking_EOS_Progress": 413,
+  "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-07-15T04:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:56.3229726+00:00",
   "LastChanged": "2023-03-31T05:57:56.3229727+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:14.387769+00:00",
-  "LastUpdate_Ratings": "2023-05-23T09:59:58.3186036+00:00",
-  "LastUpdate_Achievements": "2023-05-23T10:01:38.185373+00:00"
+  "LastUpdate_Ratings": "2023-05-23T10:59:33.0361807+00:00",
+  "LastUpdate_Achievements": "2023-05-23T11:03:13.3744091+00:00"
 }

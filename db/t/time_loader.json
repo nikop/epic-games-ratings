@@ -4,7 +4,7 @@
   "ProductSlug": "time-loader",
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 18,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 99,
+  "EOS_Progressed": 100,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 8.08,
+  "EOS_Completed_Percentage": 8,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:23.4088376+00:00",
@@ -61,6 +61,11 @@
       "Time": "2023-05-21T04:05:47.7077355+00:00",
       "NumProgressed": 99,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-23T11:05:40.7709196+00:00",
+      "NumProgressed": 100,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 29,
@@ -70,9 +75,9 @@
       "ID": "01_WRENCH",
       "SetID": "681m9fa",
       "Name": "Wrench",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "02_Soap",
@@ -158,9 +163,9 @@
       "ID": "12_Purrfect",
       "SetID": "681m9fa",
       "Name": "Purr-fect",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "13_DrAntivirus",
@@ -184,7 +189,7 @@
       "Name": "Screwdriver",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "16_Springs",
@@ -192,7 +197,7 @@
       "Name": "Springs",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "17_Capacitors",
@@ -303,7 +308,7 @@
     {
       "ID": "681m9fa",
       "IsBase": true,
-      "Progressed": 99,
+      "Progressed": 100,
       "Completed": 8
     }
   ],
@@ -311,8 +316,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2023-05-23T10:06:06.5939007+00:00",
+  "LastChanged_Achievements": "2023-05-23T11:05:40.7709191+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:28.656157+00:00",
-  "LastUpdate_Ratings": "2023-05-23T09:58:00.8093443+00:00",
-  "LastUpdate_Achievements": "2023-05-23T10:06:06.5939375+00:00"
+  "LastUpdate_Ratings": "2023-05-23T10:57:57.3818656+00:00",
+  "LastUpdate_Achievements": "2023-05-23T11:05:40.7709364+00:00"
 }

@@ -26,10 +26,10 @@
 | Researcher | 5.00% | ~6 |
 | I Am The Gate Keeper! | 5.00% | ~6 |
 | The bus stop | 4.00% | ~5 |
+| Run and Gun | 3.00% | ~4 |
 | This Mansion Is Clean | 3.00% | ~4 |
 | Armed To The Teeth | 2.00% | ~2 |
 | Back In Time | 2.00% | ~2 |
-| Run and Gun | 2.00% | ~2 |
 | The 5th Element | 2.00% | ~2 |
 | Before The Eclipse | 0.80% | ~1 |
 | Box Of Ploutus | 0.80% | ~1 |

@@ -4,6 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Wait! Wait! Not yet! | 25.00% | ~1 |
 | He's so Annoying | 0.00% | ~0 |
 | Break a Leg! | 0.00% | ~0 |
 | And now we wish... | 0.00% | ~0 |
@@ -25,7 +26,6 @@
 | We Hates Them! | 0.00% | ~0 |
 | Like Flying... | 0.00% | ~0 |
 | We wants it! We needs it | 0.00% | ~0 |
-| Wait! Wait! Not yet! | 0.00% | ~0 |
 | Memories | 0.00% | ~0 |
 | Murderer | 0.00% | ~0 |
 | Nervous Hands | 0.00% | ~0 |
@@ -41,10 +41,10 @@
 | Trigger-Happy | 0.00% | ~0 |
 | Welcome to Mordor! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 364)  
+Progressed: 4 (Ranked 360)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-22 | 2 | 0 |
-| 2023-05-23 | 3 | 0 |
+| 2023-05-23 | 4 | 0 |

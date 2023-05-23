@@ -5,7 +5,7 @@ Rating: 4.34 (Ranked 730)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 14.00% | ~175 |
+| Meeting Resistance | 15.00% | ~188 |
 | Confirming Suspicions | 9.00% | ~113 |
 | The Kraken Wakes | 6.00% | ~75 |
 | Enemy at the Gates | 4.00% | ~50 |
@@ -20,6 +20,7 @@ Rating: 4.34 (Ranked 730)
 | Die Nussknacker Sweet! | 2.00% | ~25 |
 | As Quiet as a Mouse | 2.00% | ~25 |
 | Taking it back | 2.00% | ~25 |
+| Target America | 2.00% | ~25 |
 | Fields of Glory | 1.00% | ~13 |
 | Gunslinger | 1.00% | ~13 |
 | Skirmisher | 1.00% | ~13 |
@@ -27,7 +28,6 @@ Rating: 4.34 (Ranked 730)
 | Der Geist | 1.00% | ~13 |
 | Close Quarters | 1.00% | ~13 |
 | Snake in the Grass | 1.00% | ~13 |
-| Target America | 1.00% | ~13 |
 | The Kraken Sleeps | 1.00% | ~13 |
 | Liberté | 0.90% | ~11 |
 | The Long Game | 0.90% | ~11 |
@@ -35,12 +35,13 @@ Rating: 4.34 (Ranked 730)
 | Set Europe Ablaze | 0.80% | ~10 |
 | Climbing the Ladder | 0.60% | ~8 |
 | Rigged to Blow | 0.60% | ~8 |
+| It'll Buff Right Out | 0.50% | ~6 |
 | Brains of the Operation | 0.50% | ~6 |
 | My Little Friend | 0.40% | ~5 |
-| It'll Buff Right Out | 0.40% | ~5 |
 | Operation Foxley | 0.40% | ~5 |
 | No Stone Unturned | 0.30% | ~4 |
 | Strategist | 0.30% | ~4 |
+| Locomotion Commotion | 0.30% | ~4 |
 | Shoot for the Moon | 0.30% | ~4 |
 | Herr Today, Gone Tomorrow | 0.30% | ~4 |
 | Last Resort | 0.30% | ~4 |
@@ -48,7 +49,6 @@ Rating: 4.34 (Ranked 730)
 | Sink or Swim | 0.30% | ~2 |
 | From Paris with Love | 0.20% | ~3 |
 | Souvenir hunter | 0.20% | ~3 |
-| Locomotion Commotion | 0.20% | ~3 |
 | Don't hold your breath | 0.20% | ~3 |
 | Siegebreaker | 0.20% | ~2 |
 | Burn after reading | 0.10% | ~1 |
@@ -77,7 +77,7 @@ Rating: 4.34 (Ranked 730)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,253 (Ranked 158)  
+Progressed: 1,256 (Ranked 158)  
 Completed: 2 (0.16%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 2 (0.16%) (Ranked 145)
 | 2023-05-20 | 984 | 2 |
 | 2023-05-21 | 1,126 | 2 |
 | 2023-05-22 | 1,233 | 2 |
-| 2023-05-23 | 1,253 | 2 |
+| 2023-05-23 | 1,256 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

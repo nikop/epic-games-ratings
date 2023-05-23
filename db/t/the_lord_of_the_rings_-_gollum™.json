@@ -2,9 +2,9 @@
   "ID": "22068a5c6e3649599c02ba4ec6be1a03",
   "Name": "The Lord of the Rings - Gollum\u2122",
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
-  "Ranking_EOS_Progress": 364,
+  "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37,6 +37,11 @@
     {
       "Time": "2023-05-23T09:05:18.7865594+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-23T11:05:24.7193703+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 0
     }
   ],
@@ -215,9 +220,9 @@
       "ID": "Lava",
       "SetID": "70l3651",
       "Name": "Wait! Wait! Not yet!",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Memories",
@@ -336,13 +341,13 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-23T10:05:47.8710163+00:00",
+  "LastChanged_Achievements": "2023-05-23T11:05:24.7193697+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:17.5264569+00:00",
-  "LastUpdate_Ratings": "2023-05-23T09:57:51.9196256+00:00",
-  "LastUpdate_Achievements": "2023-05-23T10:05:47.871044+00:00"
+  "LastUpdate_Ratings": "2023-05-23T10:57:51.1300495+00:00",
+  "LastUpdate_Achievements": "2023-05-23T11:05:24.7193938+00:00"
 }
