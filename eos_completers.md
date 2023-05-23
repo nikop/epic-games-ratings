@@ -18,11 +18,11 @@
 | 16 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.12% |
 | 18 | [Time Loader](games/t/time_loader.md) | 8.00% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.86% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.85% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
 | 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.68% |
 | 22 | [Scorn](games/s/scorn.md) | 6.90% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 6.80% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 6.77% |
 | 24 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 25 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
@@ -30,7 +30,7 @@
 | 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.45% |
 | 29 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.13% |
 | 30 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.00% |
-| 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.88% |
+| 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.87% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.43% |
 | 34 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.26% |
@@ -49,7 +49,7 @@
 | 47 | [MultiVersus](games/m/multiversus.md) | 2.95% |
 | 48 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.90% |
 | 49 | [Destiny 2](games/d/destiny_2.md) | 2.88% |
-| 49 | [Lamentum](games/l/lamentum.md) | 2.88% |
+| 50 | [Lamentum](games/l/lamentum.md) | 2.87% |
 | 51 | [Bunny Park](games/b/bunny_park.md) | 2.85% |
 | 52 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 53 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.63% |
@@ -72,9 +72,9 @@
 | 70 | [Frogun](games/f/frogun.md) | 1.55% |
 | 71 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 72 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.49% |
-| 73 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.46% |
 | 73 | [Ten Dates](games/t/ten_dates.md) | 1.46% |
-| 75 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.45% |
+| 74 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.45% |
+| 74 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.45% |
 | 76 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.31% |
 | 77 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.26% |
 | 78 | [Chorus](games/c/chorus.md) | 1.25% |
@@ -334,6 +334,7 @@
 | 201 | [Poi](games/p/poi.md) | 0.00% |
 | 201 | [Poker Club](games/p/poker_club.md) | 0.00% |
 | 201 | [Poosh XL](games/p/poosh_xl.md) | 0.00% |
+| 201 | [Pop. Love. Panic! The OFK Story](games/w/we_are_ofk.md) | 0.00% |
 | 201 | [Port Royale 4](games/p/port_royale_4.md) | 0.00% |
 | 201 | [Prison Architect](games/p/prison_architect.md) | 0.00% |
 | 201 | [Project Highrise](games/p/project_highrise.md) | 0.00% |
@@ -406,7 +407,6 @@
 | 201 | [War Mongrels](games/w/war_mongrels.md) | 0.00% |
 | 201 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 0.00% |
 | 201 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 0.00% |
-| 201 | [We Are OFK](games/w/we_are_ofk.md) | 0.00% |
 | 201 | [Wild Animal Sports Day](games/w/wild_animal_sports_day.md) | 0.00% |
 | 201 | [Without Escape](games/w/without_escape.md) | 0.00% |
 | 201 | [World of Contraptions](games/w/world_of_contraptions.md) | 0.00% |

@@ -282,6 +282,7 @@
 | [Poi](../games/p/poi.md) | 25 | 1,000 |
 | [Poker Club](../games/p/poker_club.md) | 45 | 1,000 |
 | [Poosh XL](../games/p/poosh_xl.md) | 20 | 1,000 |
+| [Pop. Love. Panic! The OFK Story](../games/w/we_are_ofk.md) | 28 | 1,000 |
 | [Port Royale 4](../games/p/port_royale_4.md) | 50 | 1,000 |
 | [Potion Permit](../games/p/potion_permit.md) | 38 | 1,000 |
 | [Prehistoric Kingdom](../games/p/prehistoric_kingdom.md) | 22 | 1,000 |
@@ -424,7 +425,6 @@
 | [Voltaire: The Vegan Vampire](../games/v/voltaire__the_vegan_vampire.md) | 31 | 1,000 |
 | [War Mongrels](../games/w/war_mongrels.md) | 59 | 1,000 |
 | [Warhammer 40,000: Mechanicus - Standard Edition](../games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 34 | 1,000 |
-| [We Are OFK](../games/w/we_are_ofk.md) | 28 | 1,000 |
 | [Weird West: Definitive Edition](../games/w/weird_west.md) | 53 | 1,000 |
 | [while True: learn()](../games/w/while_true__learn().md) | 28 | 1,000 |
 | [Who Pressed Mute on Uncle Marcus?](../games/w/who_pressed_mute_on_uncle_marcus.md) | 17 | 1,000 |

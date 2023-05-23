@@ -263,10 +263,10 @@
 | [HordeCore](../games/h/hordecore.md) | 28 | 1,000 |
 | [MultiVersus](../games/m/multiversus.md) | 28 | 1,000 |
 | [One Hand Clapping](../games/o/one_hand_clapping.md) | 28 | 1,000 |
+| [Pop. Love. Panic! The OFK Story](../games/w/we_are_ofk.md) | 28 | 1,000 |
 | [Sherlock Holmes The Awakened](../games/s/sherlock_holmes_the_awakened.md) | 28 | 1,000 |
 | [The Bunker](../games/t/the_bunker.md) | 28 | 1,000 |
 | [Them's Fightin' Herds](../games/t/them's_fightin'_herds.md) | 28 | 1,000 |
-| [We Are OFK](../games/w/we_are_ofk.md) | 28 | 1,000 |
 | [while True: learn()](../games/w/while_true__learn().md) | 28 | 1,000 |
 | [Airborne Kingdom](../games/a/airborne_kingdom.md) | 27 | 1,000 |
 | [Fire: Ungh’s Quest](../games/f/fire__ungh’s_quest.md) | 27 | 1,000 |
