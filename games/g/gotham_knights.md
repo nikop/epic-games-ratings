@@ -9,10 +9,11 @@ Rating: 4.17 (Ranked 836)
 | Har, Har, Har, Very Funny | 0.90% | ~556 |
 | Loose Ends | 0.90% | ~556 |
 | Knighthood | 0.80% | ~494 |
+| The Batman Family | 0.70% | ~432 |
 | To the Victor Go the Spoils | 0.70% | ~432 |
 | Get ReQ'd | 0.70% | ~432 |
-| The Batman Family | 0.60% | ~370 |
 | Something in the Clay | 0.60% | ~370 |
+| The Show Mud Go On | 0.60% | ~370 |
 | Quartzer Life Crisis | 0.60% | ~370 |
 | Snow Problem | 0.60% | ~370 |
 | Working Hard or Harley Working? | 0.60% | ~370 |
@@ -22,7 +23,6 @@ Rating: 4.17 (Ranked 836)
 | Bad Apples in Every Orchard | 0.60% | ~370 |
 | End of an Era | 0.50% | ~309 |
 | Protector of Gotham | 0.50% | ~309 |
-| The Show Mud Go On | 0.50% | ~309 |
 | Rock and a Hard Place | 0.50% | ~309 |
 | Shock Til They Drop | 0.50% | ~309 |
 | Cooldown | 0.50% | ~309 |
@@ -36,12 +36,12 @@ Rating: 4.17 (Ranked 836)
 | Bulldozed | 0.40% | ~247 |
 | Out of Their League | 0.40% | ~247 |
 | Drone You Out | 0.40% | ~247 |
+| Fusion Expert | 0.30% | ~185 |
 | Family Meeting | 0.30% | ~185 |
 | Gotham City Confidential | 0.30% | ~185 |
 | Solid Alibi | 0.30% | ~185 |
 | Hammer and Icicle | 0.20% | ~64 |
 | Dressed to Impress | 0.20% | ~123 |
-| Fusion Expert | 0.20% | ~123 |
 | Expert Crime Fighter | 0.20% | ~123 |
 | A Momentum Occasion | 0.20% | ~123 |
 | A Worthy Successor | 0.20% | ~123 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 836)
 | Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,724 (Ranked 68)  
+Progressed: 61,733 (Ranked 68)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,6 +100,7 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-20 | 61,416 | 91 |
 | 2023-05-21 | 61,589 | 91 |
 | 2023-05-22 | 61,724 | 91 |
+| 2023-05-23 | 61,733 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,229  (Ranked 98)  
 Sum: 3,696 (Ranked 137)  

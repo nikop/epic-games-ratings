@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,787 |
-| That's a Grand Army | 8.00% | ~3,366 |
-| That is mine! | 8.00% | ~3,366 |
-| Victorious! | 8.00% | ~3,366 |
-| Brothers in Arms | 6.00% | ~2,525 |
-| That's a Grand Navy | 6.00% | ~2,525 |
-| Seriously?! | 6.00% | ~2,525 |
-| For the Glory | 5.00% | ~2,104 |
-| Cold War | 4.00% | ~1,683 |
-| True Catholic | 4.00% | ~1,683 |
-| Defender of the Faith | 3.00% | ~1,262 |
-| It's all about the money | 3.00% | ~1,262 |
-| Respected | 3.00% | ~1,262 |
-| Truly Divine Ruler | 3.00% | ~1,262 |
+| Until death do us apart | 9.00% | ~3,788 |
+| That's a Grand Army | 8.00% | ~3,367 |
+| That is mine! | 8.00% | ~3,367 |
+| Victorious! | 8.00% | ~3,367 |
+| Brothers in Arms | 6.00% | ~2,526 |
+| That's a Grand Navy | 6.00% | ~2,526 |
+| Seriously?! | 6.00% | ~2,526 |
+| For the Glory | 5.00% | ~2,105 |
+| Cold War | 4.00% | ~1,684 |
+| True Catholic | 4.00% | ~1,684 |
+| Defender of the Faith | 3.00% | ~1,263 |
+| It's all about the money | 3.00% | ~1,263 |
+| Respected | 3.00% | ~1,263 |
+| Truly Divine Ruler | 3.00% | ~1,263 |
 | Blockader | 2.00% | ~842 |
 | Combined Arms | 2.00% | ~842 |
 | Double the Love | 2.00% | ~842 |
@@ -44,8 +44,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | This navy can take it all | 0.80% | ~337 |
 | Down Under | 0.70% | ~295 |
 | Trustworthy | 0.70% | ~295 |
-| Electable! | 0.60% | ~252 |
-| Time Bandit | 0.60% | ~252 |
+| Electable! | 0.60% | ~253 |
+| Time Bandit | 0.60% | ~253 |
 | All belongs to Mother Russia | 0.50% | ~210 |
 | At every continent | 0.50% | ~210 |
 | Early-Modern Warfare | 0.50% | ~210 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,079 (Ranked 80)  
+Progressed: 42,093 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -394,6 +394,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-20 | 40,736 | 0 |
 | 2023-05-21 | 41,525 | 0 |
 | 2023-05-22 | 42,079 | 0 |
+| 2023-05-23 | 42,093 | 0 |
 ## Awards
 Max (Educational): 5,271  (Ranked 60)  
 Sum: 43,642 (Ranked 27)  

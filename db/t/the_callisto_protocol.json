@@ -416,9 +416,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 13347,
+  "EOS_Progressed": 13349,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 783,
+  "EOS_NewPlayers": 785,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1226,6 +1226,11 @@
       "Time": "2023-05-22T23:02:31.7558844+00:00",
       "NumProgressed": 13347,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-05-23T00:03:12.763283+00:00",
+      "NumProgressed": 13349,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 40,
@@ -1549,20 +1554,20 @@
       "Name": "Big Spender",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     }
   ],
   "AchievementSets": [
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13347,
+      "Progressed": 13349,
       "Completed": 52
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1273,
+      "Progressed": 1275,
       "Completed": 29
     }
   ],
@@ -1570,8 +1575,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-22T19:57:44.0247925+00:00",
-  "LastChanged_Achievements": "2023-05-22T23:02:31.7558839+00:00",
+  "LastChanged_Achievements": "2023-05-23T00:03:12.7632825+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-22T22:57:44.2933099+00:00",
-  "LastUpdate_Achievements": "2023-05-22T23:02:31.7559163+00:00"
+  "LastUpdate_Ratings": "2023-05-22T23:58:06.0767272+00:00",
+  "LastUpdate_Achievements": "2023-05-23T00:03:12.7633237+00:00"
 }

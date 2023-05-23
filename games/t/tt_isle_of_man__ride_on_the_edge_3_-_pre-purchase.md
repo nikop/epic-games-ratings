@@ -15,6 +15,7 @@
 | No Room for Improvement | 7.00% | ~3 |
 | Upgradeaholic | 7.00% | ~3 |
 | Tailor-Made for Two | 7.00% | ~3 |
+| Lone Wolf | 7.00% | ~3 |
 | Playing God | 7.00% | ~3 |
 | Say My Name | 4.00% | ~2 |
 | Nerd | 4.00% | ~2 |
@@ -22,7 +23,6 @@
 | First and Foremost | 4.00% | ~2 |
 | Made Mother Proud | 4.00% | ~2 |
 | Winner Winner Chicken Dinner | 4.00% | ~2 |
-| Lone Wolf | 4.00% | ~2 |
 | Déjà-Vu | 2.00% | ~1 |
 | Golden Ratio | 2.00% | ~1 |
 | POI Hunter | 2.00% | ~1 |

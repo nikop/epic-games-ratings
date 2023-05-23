@@ -9,10 +9,10 @@ Rating: 4.55 (Ranked 467)
 | Without Breaking Some Eggs... | 5.00% | ~104 |
 | Infinite Growth... | 5.00% | ~104 |
 | Sputnik 2049 | 5.00% | ~104 |
-| Space Society | 3.00% | ~62 |
-| A Thousand Strong | 3.00% | ~62 |
-| Ready for a New World | 3.00% | ~62 |
-| Breaking Protocol | 3.00% | ~62 |
+| Space Society | 3.00% | ~63 |
+| A Thousand Strong | 3.00% | ~63 |
+| Ready for a New World | 3.00% | ~63 |
+| Breaking Protocol | 3.00% | ~63 |
 | Guy de Borderlands | 2.00% | ~42 |
 | A Hunk of Junk | 2.00% | ~42 |
 | Fully Recycled | 2.00% | ~42 |
@@ -32,9 +32,9 @@ Rating: 4.55 (Ranked 467)
 | In Dolos We Trust | 0.70% | ~15 |
 | BRAWL! | 0.70% | ~15 |
 | All in Good Health | 0.70% | ~15 |
-| Oats | 0.60% | ~12 |
-| ...  in a finite world | 0.60% | ~12 |
-| Pulsar Disciple | 0.60% | ~12 |
+| Oats | 0.60% | ~13 |
+| ...  in a finite world | 0.60% | ~13 |
+| Pulsar Disciple | 0.60% | ~13 |
 | You Had One Job... | 0.50% | ~10 |
 | Delivery! | 0.50% | ~10 |
 | Pedal to the Metal | 0.50% | ~10 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 467)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,083 (Ranked 143)  
+Progressed: 2,084 (Ranked 143)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,6 +96,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-20 | 2,021 | 0 |
 | 2023-05-21 | 2,063 | 0 |
 | 2023-05-22 | 2,083 | 0 |
+| 2023-05-23 | 2,084 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

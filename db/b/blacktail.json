@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 377,
+  "EOS_Progressed": 378,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -429,6 +429,11 @@
       "Time": "2023-05-22T16:05:59.5082617+00:00",
       "NumProgressed": 377,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-23T00:06:32.3888748+00:00",
+      "NumProgressed": 378,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -566,9 +571,9 @@
       "ID": "LittleHelper",
       "SetID": "2aagp3d",
       "Name": "A friend in need...",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 19
+      "UsersEstimate": 15
     },
     {
       "ID": "LostAndFound",
@@ -632,7 +637,7 @@
       "Name": "Uprooting",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "TheGuardian",
@@ -680,7 +685,7 @@
       "Name": "Forbidden techniques",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "YagaProfessional",
@@ -695,7 +700,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 377,
+      "Progressed": 378,
       "Completed": 0
     }
   ],
@@ -703,8 +708,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-05-22T23:05:16.2649504+00:00",
+  "LastChanged_Achievements": "2023-05-23T00:06:32.3888743+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:28.25189+00:00",
-  "LastUpdate_Ratings": "2023-05-22T22:57:46.5130456+00:00",
-  "LastUpdate_Achievements": "2023-05-22T23:05:16.264975+00:00"
+  "LastUpdate_Ratings": "2023-05-22T23:58:09.0650496+00:00",
+  "LastUpdate_Achievements": "2023-05-23T00:06:32.388906+00:00"
 }

@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 138,
+  "EOS_Progressed": 139,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 17.39,
+  "EOS_Completed_Percentage": 17.27,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -618,6 +618,11 @@
       "Time": "2023-05-22T21:06:11.3095068+00:00",
       "NumProgressed": 138,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-05-23T00:06:18.0526274+00:00",
+      "NumProgressed": 139,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 22,
@@ -629,7 +634,7 @@
       "Name": "Welcome!",
       "Percentage": 99,
       "XP": 35,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "LEVEL_002",
@@ -651,9 +656,9 @@
       "ID": "LEVEL_004",
       "SetID": "3khpmem",
       "Name": "Great view from the beach and from the hill",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 35,
-      "UsersEstimate": 75
+      "UsersEstimate": 74
     },
     {
       "ID": "LEVEL_005",
@@ -675,9 +680,9 @@
       "ID": "LEVEL_007",
       "SetID": "3khpmem",
       "Name": "Burger or pizza?",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 35,
-      "UsersEstimate": 50
+      "UsersEstimate": 49
     },
     {
       "ID": "LEVEL_008",
@@ -707,9 +712,9 @@
       "ID": "LEVEL_011",
       "SetID": "3khpmem",
       "Name": "At the heart of the city",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 38
     },
     {
       "ID": "LEVEL_012",
@@ -741,7 +746,7 @@
       "Name": "Monumental tribute",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "LEVEL_016",
@@ -749,7 +754,7 @@
       "Name": "The beach is right there",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "LEVEL_017",
@@ -757,15 +762,15 @@
       "Name": "Commuting",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "LEVEL_018",
       "SetID": "3khpmem",
       "Name": "Le jardin magnifique",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "LEVEL_019",
@@ -781,7 +786,7 @@
       "Name": "City of dreams",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "LEVEL_021",
@@ -789,7 +794,7 @@
       "Name": "Happy Christmas night!",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "LEVEL_022",
@@ -797,14 +802,14 @@
       "Name": "Night walk along the beach",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     }
   ],
   "AchievementSets": [
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 138,
+      "Progressed": 139,
       "Completed": 24
     }
   ],
@@ -812,8 +817,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-22T23:05:05.2235903+00:00",
+  "LastChanged_Achievements": "2023-05-23T00:06:18.0526269+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:36.8517809+00:00",
-  "LastUpdate_Ratings": "2023-05-22T22:57:54.0332919+00:00",
-  "LastUpdate_Achievements": "2023-05-22T23:05:05.2236101+00:00"
+  "LastUpdate_Ratings": "2023-05-22T23:58:20.4179921+00:00",
+  "LastUpdate_Achievements": "2023-05-23T00:06:18.0526486+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 89,
   "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 50,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -655,9 +655,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 22451,
+  "EOS_Progressed": 22454,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1127,
+  "EOS_NewPlayers": 1124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3815,6 +3815,11 @@
       "Time": "2023-05-22T23:05:19.5370663+00:00",
       "NumProgressed": 22451,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-23T00:06:36.7420535+00:00",
+      "NumProgressed": 22454,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 39,
@@ -3866,7 +3871,7 @@
       "Name": "Rookie",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5388
+      "UsersEstimate": 5389
     },
     {
       "ID": "goals180",
@@ -4034,7 +4039,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6062
+      "UsersEstimate": 6063
     },
     {
       "ID": "sandboarder",
@@ -4090,7 +4095,7 @@
       "Name": "Welcome Maya",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3592
+      "UsersEstimate": 3593
     },
     {
       "ID": "unlockpaz",
@@ -4137,15 +4142,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 22451,
+      "Progressed": 22454,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-05-21T02:05:22.6886845+00:00",
-  "LastChanged_Achievements": "2023-05-22T23:05:19.5370659+00:00",
+  "LastChanged_Achievements": "2023-05-23T00:06:36.742053+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:34.6693979+00:00",
-  "LastUpdate_Ratings": "2023-05-22T22:58:56.427679+00:00",
-  "LastUpdate_Achievements": "2023-05-22T23:05:19.5371157+00:00"
+  "LastUpdate_Ratings": "2023-05-22T23:59:51.6599326+00:00",
+  "LastUpdate_Achievements": "2023-05-23T00:06:36.7421122+00:00"
 }

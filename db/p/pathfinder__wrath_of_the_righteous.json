@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2486,9 +2486,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 9090,
+  "EOS_Progressed": 9093,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 263,
+  "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4251,6 +4251,11 @@
       "Time": "2023-05-22T22:05:37.7598982+00:00",
       "NumProgressed": 9090,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-23T00:07:01.7034948+00:00",
+      "NumProgressed": 9093,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -4278,7 +4283,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "04_FithCrusade",
@@ -4286,7 +4291,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -4380,9 +4385,9 @@
       "ID": "16_PathOfLegend",
       "SetID": "989of5o",
       "Name": "Path of the Legend",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 45
     },
     {
       "ID": "17_Transformation",
@@ -4462,7 +4467,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "28_GreatUpstart",
@@ -4572,9 +4577,9 @@
       "ID": "41_PlayfulMood",
       "SetID": "989of5o",
       "Name": "Playful Mood",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 45
     },
     {
       "ID": "42_JustPathetic",
@@ -5142,7 +5147,7 @@
       "Name": "Hanged Man\u0027s Notes",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "DLC4_25_Sarkoris Will Be Green",
@@ -5174,7 +5179,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -5182,28 +5187,28 @@
       "Name": "Beware Still Water",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7872,
+      "Progressed": 7875,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9090,
+      "Progressed": 9093,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-22T15:58:32.2761795+00:00",
-  "LastChanged_Achievements": "2023-05-22T23:05:38.9689706+00:00",
+  "LastChanged_Achievements": "2023-05-23T00:07:01.703494+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3010226+00:00",
-  "LastUpdate_Ratings": "2023-05-22T22:58:08.398447+00:00",
-  "LastUpdate_Achievements": "2023-05-22T23:05:38.9691435+00:00"
+  "LastUpdate_Ratings": "2023-05-22T23:58:40.0156512+00:00",
+  "LastUpdate_Achievements": "2023-05-23T00:07:01.7036709+00:00"
 }

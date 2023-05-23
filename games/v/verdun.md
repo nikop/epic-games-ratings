@@ -6,22 +6,22 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~34,431 |
-| Worth it | 63.00% | ~28,171 |
-| Eagle Eye | 55.00% | ~24,594 |
-| Corpseman I | 40.00% | ~17,886 |
-| Blast fishing | 38.00% | ~16,992 |
-| Not alone | 32.00% | ~14,309 |
-| Headhunter I | 27.00% | ~12,073 |
-| Manual Labour I | 25.00% | ~11,179 |
+| Setting an example | 77.00% | ~34,433 |
+| Worth it | 63.00% | ~28,172 |
+| Eagle Eye | 55.00% | ~24,595 |
+| Corpseman I | 40.00% | ~17,887 |
+| Blast fishing | 38.00% | ~16,993 |
+| Not alone | 32.00% | ~14,310 |
+| Headhunter I | 27.00% | ~12,074 |
+| Manual Labour I | 25.00% | ~11,180 |
 | Developers, Developers, Developers | 24.00% | ~10,732 |
 | Basic Training | 24.00% | ~10,732 |
 | Furchtlos und Treu | 13.00% | ~5,813 |
 | Gott Mit Uns | 12.00% | ~5,366 |
-| This We'll Defend! | 9.00% | ~4,024 |
-| Anker wirf! | 9.00% | ~4,024 |
-| Providentiea Memor | 9.00% | ~4,024 |
-| For King and Country | 9.00% | ~4,024 |
+| This We'll Defend! | 9.00% | ~4,025 |
+| Anker wirf! | 9.00% | ~4,025 |
+| Providentiea Memor | 9.00% | ~4,025 |
+| For King and Country | 9.00% | ~4,025 |
 | Battle hardened | 8.00% | ~3,577 |
 | Semper Fidelis! | 7.00% | ~3,130 |
 | Honneur et Patrie | 7.00% | ~3,130 |
@@ -35,12 +35,12 @@ Number of Ratings: 1,999  (23.09.2022)
 | Let them, come to us | 4.00% | ~1,789 |
 | Corpseman II | 4.00% | ~1,789 |
 | Manual Labour II | 4.00% | ~1,789 |
-| Offense is the best defence | 3.00% | ~1,341 |
-| There is no I in team | 3.00% | ~1,341 |
-| Veteran | 3.00% | ~1,341 |
-| In My Defens God Me Defend | 3.00% | ~1,341 |
-| Silver x100 | 3.00% | ~1,341 |
-| Impavidum Ferient Bella! | 3.00% | ~1,341 |
+| Offense is the best defence | 3.00% | ~1,342 |
+| There is no I in team | 3.00% | ~1,342 |
+| Veteran | 3.00% | ~1,342 |
+| In My Defens God Me Defend | 3.00% | ~1,342 |
+| Silver x100 | 3.00% | ~1,342 |
+| Impavidum Ferient Bella! | 3.00% | ~1,342 |
 | Bronze x100 | 2.00% | ~894 |
 | Shoot, Cover, Reload, Repeat | 2.00% | ~894 |
 | Gold x100 | 1.00% | ~447 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~45 |
 | Blood Brother | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,716 (Ranked 77)  
+Progressed: 44,718 (Ranked 77)  
 Completed: 2 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,6 +99,7 @@ Completed: 2 (0.00%) (Ranked 201)
 | 2023-05-20 | 44,407 | 2 |
 | 2023-05-21 | 44,588 | 2 |
 | 2023-05-22 | 44,716 | 2 |
+| 2023-05-23 | 44,718 | 2 |
 ## Awards
 Max (Highly Recommended): 93  (Ranked 332)  
 Sum: 736 (Ranked 257)  

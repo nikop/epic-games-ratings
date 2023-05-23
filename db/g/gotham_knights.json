@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1178,9 +1178,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61724,
+  "EOS_Progressed": 61733,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 822,
+  "EOS_NewPlayers": 831,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3373,6 +3373,11 @@
       "Time": "2023-05-22T23:05:38.9718593+00:00",
       "NumProgressed": 61724,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-23T00:07:01.9451357+00:00",
+      "NumProgressed": 61733,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3430,9 +3435,9 @@
       "ID": "ALL_HEROES_PLAYED",
       "SetID": "4eo5ebm",
       "Name": "The Batman Family",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 370
+      "UsersEstimate": 432
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -3494,9 +3499,9 @@
       "ID": "CLAYFACE_2",
       "SetID": "4eo5ebm",
       "Name": "The Show Mud Go On",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 370
     },
     {
       "ID": "CLAYFACE_3",
@@ -3526,9 +3531,9 @@
       "ID": "CRAFTING_MOD_CHIPS",
       "SetID": "4eo5ebm",
       "Name": "Fusion Expert",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 185
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -3871,13 +3876,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61724,
+      "Progressed": 61733,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32004,
+      "Progressed": 32013,
       "Completed": 2640
     }
   ],
@@ -3885,8 +3890,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-22T21:00:24.3139571+00:00",
-  "LastChanged_Achievements": "2023-05-22T23:05:38.9718587+00:00",
+  "LastChanged_Achievements": "2023-05-23T00:07:01.9451353+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-22T22:59:20.1746442+00:00",
-  "LastUpdate_Achievements": "2023-05-22T23:05:38.9719212+00:00"
+  "LastUpdate_Ratings": "2023-05-23T00:00:26.5422675+00:00",
+  "LastUpdate_Achievements": "2023-05-23T00:07:01.9452077+00:00"
 }

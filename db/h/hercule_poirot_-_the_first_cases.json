@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 83,
   "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
     "PcReleaseDate": "2021-09-27T00:00:00+00:00",
@@ -168,9 +168,9 @@
       "ID": "ACH_012",
       "SetID": "72imik0",
       "Name": "Well-acquainted",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 152
     },
     {
       "ID": "ACH_013",
@@ -352,17 +352,17 @@
       "ID": "ACH_033",
       "SetID": "72imik0",
       "Name": "Cassandra Van den Bosch",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 134
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_034",
       "SetID": "72imik0",
       "Name": "Comtesse Margaux de Vos",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 162
+      "UsersEstimate": 166
     },
     {
       "ID": "ACH_035",
@@ -521,8 +521,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-04-23T20:59:05.6364727+00:00",
-  "LastChanged_Achievements": "2023-05-22T23:05:20.4873018+00:00",
+  "LastChanged_Achievements": "2023-05-23T00:06:37.9050039+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:21.1677619+00:00",
-  "LastUpdate_Ratings": "2023-05-22T22:57:42.1781361+00:00",
-  "LastUpdate_Achievements": "2023-05-22T23:05:20.4873402+00:00"
+  "LastUpdate_Ratings": "2023-05-22T23:58:02.8690935+00:00",
+  "LastUpdate_Achievements": "2023-05-23T00:06:37.9050443+00:00"
 }

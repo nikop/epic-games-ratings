@@ -11,9 +11,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Burning City | 9.00% | ~818 |
 | Mythic Choices | 8.00% | ~727 |
 | Defender's Heart | 8.00% | ~727 |
-| Banner over the Citadel | 7.00% | ~636 |
-| Queen's Gratitude | 7.00% | ~636 |
-| Fifth Crusade | 5.00% | ~454 |
+| Banner over the Citadel | 7.00% | ~637 |
+| Queen's Gratitude | 7.00% | ~637 |
+| Fifth Crusade | 5.00% | ~455 |
 | Embrace of the Abyss | 3.00% | ~273 |
 | Path of the Angel | 3.00% | ~273 |
 | Path of the Azata | 3.00% | ~273 |
@@ -32,9 +32,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | A Flame | 2.00% | ~182 |
 | Hey, I Know You! | 2.00% | ~182 |
 | Get the Toad | 2.00% | ~182 |
-| Hanged Man's Notes | 2.00% | ~157 |
-| The Lady of the Forest | 2.00% | ~157 |
-| Beware Still Water | 2.00% | ~157 |
+| Hanged Man's Notes | 2.00% | ~158 |
+| The Lady of the Forest | 2.00% | ~158 |
+| Beware Still Water | 2.00% | ~158 |
 | Path of the Demon | 1.00% | ~91 |
 | Path of the Aeon | 1.00% | ~91 |
 | Path of the Trickster | 1.00% | ~91 |
@@ -50,9 +50,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Not the Last Sarkorian | 0.70% | ~55 |
 | The Final Threshold | 0.60% | ~55 |
 | Path of the Dragon | 0.60% | ~55 |
-| Path of the Legend | 0.60% | ~55 |
 | Strategic Victory | 0.60% | ~55 |
-| Playful Mood | 0.60% | ~55 |
+| Path of the Legend | 0.50% | ~45 |
+| Playful Mood | 0.50% | ~45 |
 | Dreadful Dragon | 0.50% | ~45 |
 | Truly Profane Gift | 0.40% | ~36 |
 | Masterful Charge | 0.30% | ~27 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,090 (Ranked 109)  
+Progressed: 9,093 (Ranked 109)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,6 +156,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-20 | 8,990 | 0 |
 | 2023-05-21 | 9,045 | 0 |
 | 2023-05-22 | 9,090 | 0 |
+| 2023-05-23 | 9,093 | 0 |
 ## Awards
 Max (Character Customization): 1,636  (Ranked 111)  
 Sum: 6,639 (Ranked 110)  

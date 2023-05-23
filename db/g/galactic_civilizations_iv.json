@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -768,9 +768,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5752,
+  "EOS_Progressed": 5753,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2408,6 +2408,11 @@
       "Time": "2023-05-22T23:00:16.9918884+00:00",
       "NumProgressed": 5752,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-23T00:01:54.5172805+00:00",
+      "NumProgressed": 5753,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -2497,9 +2502,9 @@
       "ID": "First_Civ_Designed",
       "SetID": "4h07amh",
       "Name": "Design a Civilization",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1841
+      "UsersEstimate": 1783
     },
     {
       "ID": "First_Major_Ally",
@@ -2523,7 +2528,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4544
+      "UsersEstimate": 4545
     },
     {
       "ID": "First_Race_Met",
@@ -2531,7 +2536,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4199
+      "UsersEstimate": 4200
     },
     {
       "ID": "First_Ship_Designed",
@@ -2635,7 +2640,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2013
+      "UsersEstimate": 2014
     },
     {
       "ID": "Play_1000_Hours",
@@ -2739,7 +2744,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3566
+      "UsersEstimate": 3567
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -2907,7 +2912,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 3854
+      "UsersEstimate": 3855
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -2994,15 +2999,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 5752,
+      "Progressed": 5753,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-05-22T02:57:12.0040707+00:00",
-  "LastChanged_Achievements": "2023-05-22T23:00:16.991888+00:00",
+  "LastChanged_Achievements": "2023-05-23T00:01:54.5172798+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:07.7367569+00:00",
-  "LastUpdate_Ratings": "2023-05-22T22:57:22.1335502+00:00",
-  "LastUpdate_Achievements": "2023-05-22T23:00:16.9920106+00:00"
+  "LastUpdate_Ratings": "2023-05-22T23:57:32.4261657+00:00",
+  "LastUpdate_Achievements": "2023-05-23T00:01:54.5173688+00:00"
 }

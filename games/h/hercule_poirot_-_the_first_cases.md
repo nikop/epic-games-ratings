@@ -19,14 +19,14 @@ Rating: 4.33 (Ranked 739)
 | The Altercation | 52.00% | ~184 |
 | Truth from Within | 51.00% | ~180 |
 | The Major | 49.00% | ~173 |
-| Comtesse Margaux de Vos | 46.00% | ~162 |
+| Comtesse Margaux de Vos | 47.00% | ~166 |
 | Curious and Beautiful | 45.00% | ~159 |
 | Jacqueline “Jackie” Conrad | 45.00% | ~159 |
 | The Interrogations | 45.00% | ~159 |
-| Well-acquainted | 42.00% | ~148 |
+| Well-acquainted | 43.00% | ~152 |
 | Zakariya Demir | 42.00% | ~148 |
 | Well-read | 40.00% | ~141 |
-| Cassandra Van den Bosch | 38.00% | ~134 |
+| Cassandra Van den Bosch | 39.00% | ~138 |
 | The Secret | 38.00% | ~134 |
 | Gedeon Demir | 36.00% | ~127 |
 | Rehana Piette | 35.00% | ~124 |

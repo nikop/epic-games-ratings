@@ -4,8 +4,8 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 308,
+  "EOS_Progressed": 309,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -105,6 +105,11 @@
     {
       "Time": "2023-05-21T10:01:38.1300819+00:00",
       "NumProgressed": 308,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-23T00:01:37.1567211+00:00",
+      "NumProgressed": 309,
       "NumCompleted": 2
     }
   ],
@@ -285,7 +290,7 @@
       "Name": "C-C-C-Combo!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "HIT_10_PLAYERS",
@@ -403,9 +408,9 @@
       "ID": "MAX_MULTIPLIER",
       "SetID": "20koof9",
       "Name": "Multiply that!",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 93
     },
     {
       "ID": "ONE_MILLION_CASH",
@@ -445,7 +450,7 @@
       "Name": "Out of this League",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "TAGGED_25_OBJECTS",
@@ -485,7 +490,7 @@
       "Name": "Event Master",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "WIN_10_EVENTS",
@@ -556,7 +561,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 308,
+      "Progressed": 309,
       "Completed": 2
     }
   ],
@@ -564,8 +569,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-05-22T23:00:04.8634785+00:00",
+  "LastChanged_Achievements": "2023-05-23T00:01:37.1567206+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:24.363984+00:00",
-  "LastUpdate_Ratings": "2023-05-22T22:58:31.355911+00:00",
-  "LastUpdate_Achievements": "2023-05-22T23:00:04.8635341+00:00"
+  "LastUpdate_Ratings": "2023-05-22T23:59:13.9588119+00:00",
+  "LastUpdate_Achievements": "2023-05-23T00:01:37.1567775+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
     "PcReleaseDate": "2022-09-15T07:00:00+00:00",
@@ -449,9 +449,9 @@
       "ID": "Achi_35",
       "SetID": "51a97k7",
       "Name": "Stop Right There",
-      "Percentage": 26,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Achi_36",
@@ -586,8 +586,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-05-22T23:05:35.1495656+00:00",
+  "LastChanged_Achievements": "2023-05-23T00:06:57.2239182+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:09:24.1067719+00:00",
-  "LastUpdate_Ratings": "2023-05-22T22:59:28.8950191+00:00",
-  "LastUpdate_Achievements": "2023-05-22T23:05:35.1496045+00:00"
+  "LastUpdate_Ratings": "2023-05-23T00:00:39.6370945+00:00",
+  "LastUpdate_Achievements": "2023-05-23T00:06:57.2239656+00:00"
 }

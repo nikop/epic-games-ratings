@@ -2,10 +2,10 @@
   "ID": "6c79fa8a8e2849e58b605f233c20a889",
   "Name": "Feud",
   "ProductSlug": "feud-19b141",
-  "Ranking_EOS_Progress": 229,
+  "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 204,
+  "EOS_Progressed": 220,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -79,6 +79,11 @@
       "Time": "2023-05-22T23:02:28.9091126+00:00",
       "NumProgressed": 204,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-23T00:02:38.8124963+00:00",
+      "NumProgressed": 220,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -98,7 +103,7 @@
       "Name": "Puppetmaster",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "BOT_DESTROYER",
@@ -106,7 +111,7 @@
       "Name": "Bot Destroyer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "CLUMSY",
@@ -114,7 +119,7 @@
       "Name": "Whoops",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "CONQUEROR",
@@ -122,7 +127,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 44
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -130,7 +135,7 @@
       "Name": "Express Yourself",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "FACE_FACE",
@@ -138,7 +143,7 @@
       "Name": "Face-To-Face",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "FACE_SCREEN_FACE",
@@ -146,7 +151,7 @@
       "Name": "Face-To-Screen-To-Face",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "FEUD_APPRENTICE",
@@ -170,7 +175,7 @@
       "Name": "Novice",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 73
     },
     {
       "ID": "GLOVE_SLAP",
@@ -178,7 +183,7 @@
       "Name": "Glove Slap!",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "GONNA_FLY_NOW",
@@ -194,7 +199,7 @@
       "Name": "Grasshopper",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 123
     },
     {
       "ID": "GUARD_MAKER",
@@ -218,13 +223,13 @@
       "Name": "Clash of Kings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "KNIGHT_MASTERY",
       "SetID": "8lhbnh7",
       "Name": "Knight Commander",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -248,7 +253,7 @@
       "ID": "SMARTER_THAN_A_BEAR",
       "SetID": "8lhbnh7",
       "Name": "Smarter than a Bear",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -265,13 +270,13 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 204,
+      "Progressed": 220,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-05-22T23:02:28.9091122+00:00",
+  "LastChanged_Achievements": "2023-05-23T00:02:38.8124955+00:00",
   "LastUpdate_AppInfo": "2023-05-16T13:56:59.1730865+00:00",
-  "LastUpdate_Ratings": "2023-05-22T22:57:06.8942029+00:00",
-  "LastUpdate_Achievements": "2023-05-22T23:02:28.9091276+00:00"
+  "LastUpdate_Ratings": "2023-05-22T23:57:09.1216407+00:00",
+  "LastUpdate_Achievements": "2023-05-23T00:02:38.8125137+00:00"
 }

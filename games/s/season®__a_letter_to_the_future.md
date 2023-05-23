@@ -6,14 +6,14 @@
 | ---- | ---------- | ----- |
 | Home Leaver | 83.00% | ~673 |
 | Journal Beautifier | 83.00% | ~673 |
-| Outside World Seer | 64.00% | ~519 |
+| Outside World Seer | 65.00% | ~527 |
 | Stranger Encounterer | 38.00% | ~308 |
 | Grey Hands Praxis 101 | 29.00% | ~235 |
 | Deep Listener | 27.00% | ~219 |
 | Music for Cows | 19.00% | ~154 |
 | Emotional Baggage Handler | 17.00% | ~138 |
+| Dream Listener | 15.00% | ~122 |
 | Artist Assistant | 14.00% | ~114 |
-| Dream Listener | 14.00% | ~114 |
 | Tour de Tieng | 13.00% | ~105 |
 | Shrine Arriver | 12.00% | ~97 |
 | Goodbye Tieng Valley | 11.00% | ~89 |

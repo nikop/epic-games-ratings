@@ -9,12 +9,12 @@
 | Fashionista | 47.00% | ~37 |
 | Irrigation not irritation | 41.00% | ~32 |
 | Graduated | 39.00% | ~31 |
-| Night Shift | 25.00% | ~20 |
+| Night Shift | 27.00% | ~21 |
 | It's about the journey | 15.00% | ~12 |
-| C'who? | 11.00% | ~9 |
+| C'who? | 13.00% | ~10 |
 | Shine bright | 11.00% | ~9 |
+| There be sand in me shorts | 10.00% | ~8 |
 | Holy Crops! | 9.00% | ~7 |
-| There be sand in me shorts | 9.00% | ~7 |
 | It gets everywhere | 9.00% | ~7 |
 | Make it rain | 8.00% | ~6 |
 | Do you wanna build a snowboiii? | 6.00% | ~5 |
