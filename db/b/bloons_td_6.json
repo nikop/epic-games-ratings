@@ -2926,11 +2926,17 @@
       "Rating": 4.77,
       "NumberOfAwards": 16804,
       "NumberOfAwardsMax": 2864
+    },
+    {
+      "Time": "2023-05-23T18:00:08.9072631+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 16817,
+      "NumberOfAwardsMax": 2877
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16804,
-  "NumberOfAwardsMax": 2864,
+  "NumberOfAwards": 16817,
+  "NumberOfAwardsMax": 2877,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -2973,7 +2979,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 2864
+      "Count": 2877
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -3024,8 +3030,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-23T14:00:48.5667099+00:00",
   "FirstSeenRating": "2022-08-21T19:00:52.0889932+00:00",
-  "LastChanged": "2023-05-23T09:00:04.862057+00:00",
+  "LastChanged": "2023-05-23T18:00:08.907263+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:57.4555979+00:00",
-  "LastUpdate_Ratings": "2023-05-23T17:01:16.1480851+00:00",
-  "LastUpdate_Achievements": "2023-05-23T17:05:58.5865071+00:00"
+  "LastUpdate_Ratings": "2023-05-23T18:00:08.9072637+00:00",
+  "LastUpdate_Achievements": "2023-05-23T18:05:05.9551691+00:00"
 }

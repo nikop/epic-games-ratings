@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 449,
+  "EOS_Progressed": 454,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 448,
+  "EOS_NewPlayers": 453,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -159,6 +159,11 @@
       "Time": "2023-05-23T17:01:59.1863973+00:00",
       "NumProgressed": 449,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-23T18:00:44.8471937+00:00",
+      "NumProgressed": 454,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -170,7 +175,7 @@
       "Name": "Aggressor",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "AI_DRAW",
@@ -186,7 +191,7 @@
       "Name": "Bot Destroyer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "CLUMSY",
@@ -202,7 +207,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -218,7 +223,7 @@
       "Name": "Face-To-Face",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "FACE_SCREEN_FACE",
@@ -248,9 +253,9 @@
       "ID": "FEUD_NOVICE",
       "SetID": "8lhbnh7",
       "Name": "Novice",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 153
+      "UsersEstimate": 150
     },
     {
       "ID": "GLOVE_SLAP",
@@ -258,7 +263,7 @@
       "Name": "Glove Slap!",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "GONNA_FLY_NOW",
@@ -266,15 +271,15 @@
       "Name": "Gonna Fly Now",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "GRASSHOPPER",
       "SetID": "8lhbnh7",
       "Name": "Grasshopper",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 251
+      "UsersEstimate": 259
     },
     {
       "ID": "GUARD_MAKER",
@@ -306,7 +311,7 @@
       "Name": "Knight Commander",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "MEDIC_MASTERY",
@@ -345,13 +350,13 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 449,
+      "Progressed": 454,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-05-23T17:01:59.1863969+00:00",
+  "LastChanged_Achievements": "2023-05-23T18:00:44.8471932+00:00",
   "LastUpdate_AppInfo": "2023-05-23T13:57:02.9194307+00:00",
-  "LastUpdate_Ratings": "2023-05-23T16:57:28.9578316+00:00",
-  "LastUpdate_Achievements": "2023-05-23T17:01:59.1864161+00:00"
+  "LastUpdate_Ratings": "2023-05-23T17:56:57.8815738+00:00",
+  "LastUpdate_Achievements": "2023-05-23T18:00:44.8472149+00:00"
 }

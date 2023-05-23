@@ -5,20 +5,20 @@ Rating: 3.98 (Ranked 891)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 74.00% | ~274,672 |
-| Health Junkie | 45.00% | ~167,030 |
-| You Complete Me | 41.00% | ~152,183 |
-| Guardian Angel | 39.00% | ~144,759 |
-| Devil Inside Me | 31.00% | ~115,065 |
-| Killing Spree | 22.00% | ~81,659 |
-| Fantastic Four | 21.00% | ~77,947 |
-| Marksman Novice | 20.00% | ~74,236 |
-| First Blood | 13.00% | ~48,253 |
-| Top 10 | 13.00% | ~48,253 |
-| Now You See Me, Now You Don't | 12.00% | ~44,541 |
+| Blood on My Hands | 74.00% | ~274,675 |
+| Health Junkie | 45.00% | ~167,032 |
+| You Complete Me | 41.00% | ~152,185 |
+| Guardian Angel | 39.00% | ~144,761 |
+| Devil Inside Me | 31.00% | ~115,067 |
+| Killing Spree | 22.00% | ~81,660 |
+| Fantastic Four | 21.00% | ~77,948 |
+| Marksman Novice | 20.00% | ~74,237 |
+| First Blood | 13.00% | ~48,254 |
+| Top 10 | 13.00% | ~48,254 |
+| Now You See Me, Now You Don't | 12.00% | ~44,542 |
 | Marksman Expert | 9.00% | ~33,406 |
-| CQB Novice | 8.00% | ~29,694 |
-| Collateral Damage | 7.00% | ~25,982 |
+| CQB Novice | 8.00% | ~29,695 |
+| Collateral Damage | 7.00% | ~25,983 |
 | Airborne | 6.00% | ~22,271 |
 | Pacifist | 6.00% | ~22,271 |
 | Last Survivor | 4.00% | ~14,847 |
@@ -43,7 +43,7 @@ Rating: 3.98 (Ranked 891)
 | The First Rule Is… | 0.10% | ~371 |
 | Shoot the Knee | 0.10% | ~371 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 371,178 (Ranked 36)  
+Progressed: 371,183 (Ranked 36)  
 Completed: 8 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 8 (0.00%) (Ranked 201)
 | 2023-05-20 | 367,762 | 8 |
 | 2023-05-21 | 369,462 | 8 |
 | 2023-05-22 | 370,530 | 8 |
-| 2023-05-23 | 371,178 | 8 |
+| 2023-05-23 | 371,183 | 8 |
 ## Awards
 Max (Competitive Players): 1,978  (Ranked 103)  
 Sum: 8,288 (Ranked 90)  

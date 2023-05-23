@@ -2,7 +2,7 @@
   "ID": "d14dcbe6b15b4fe191ff00880b9927f2",
   "Name": "F1\u00AE Manager 2022",
   "ProductSlug": "f1-manager-2022",
-  "Ranking_Rating": 417,
+  "Ranking_Rating": 402,
   "Ranking_Popularity": 241,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 415,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.58,
+  "Rating": 4.59,
   "NumberOfRatings": 810,
   "RatingHistory": [
     {
@@ -1262,6 +1262,12 @@
       "Rating": 4.58,
       "NumberOfAwards": 1924,
       "NumberOfAwardsMax": 243
+    },
+    {
+      "Time": "2023-05-23T17:58:16.5094233+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1924,
+      "NumberOfAwardsMax": 243
     }
   ],
   "ReviewsDisabled": false,
@@ -1356,9 +1362,9 @@
   "FirstSeen": "2022-08-30T14:01:37.4479981+00:00",
   "FirstSeenRating": "2022-08-30T21:30:24.1805179+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.9629777+00:00",
-  "LastChanged": "2023-05-22T16:58:13.8771134+00:00",
-  "LastChanged_Achievements": "2023-05-23T17:01:52.6089169+00:00",
+  "LastChanged": "2023-05-23T17:58:16.5094231+00:00",
+  "LastChanged_Achievements": "2023-05-23T18:00:39.6421247+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:54.0999766+00:00",
-  "LastUpdate_Ratings": "2023-05-23T16:59:00.2913711+00:00",
-  "LastUpdate_Achievements": "2023-05-23T17:01:52.6089253+00:00"
+  "LastUpdate_Ratings": "2023-05-23T17:58:16.5094239+00:00",
+  "LastUpdate_Achievements": "2023-05-23T18:00:39.6421325+00:00"
 }

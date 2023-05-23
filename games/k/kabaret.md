@@ -17,6 +17,7 @@
 | In Service Of Others | 30.00% | ~3 |
 | Goodbye Dear Friend | 30.00% | ~3 |
 | By My Own Hands | 30.00% | ~3 |
+| Squashed Bug | 30.00% | ~3 |
 | Bookworm | 30.00% | ~3 |
 | Behold, The Nagarimau | 30.00% | ~3 |
 | Clipped Wings | 30.00% | ~3 |
@@ -36,7 +37,6 @@
 | Self-indulgent | 20.00% | ~2 |
 | Breaking In The Horse | 20.00% | ~2 |
 | Power Of Friendship | 20.00% | ~2 |
-| Squashed Bug | 20.00% | ~2 |
 | Till Death Do We... | 20.00% | ~2 |
 | An End To History | 20.00% | ~2 |
 | Eating A Dead Flower | 20.00% | ~2 |

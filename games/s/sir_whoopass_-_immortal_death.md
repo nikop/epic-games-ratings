@@ -23,9 +23,9 @@
 | Mushroom soup of the day | 45.00% | ~25 |
 | Honk honk! | 44.00% | ~24 |
 | Butcher | 44.00% | ~24 |
+| Spare Ribs | 44.00% | ~24 |
 | Surprise!! | 42.00% | ~23 |
 | My pants squeak when I walk | 42.00% | ~23 |
-| Spare Ribs | 42.00% | ~23 |
 | Thats disgusting! | 40.00% | ~22 |
 | Cockadoodledoo! | 38.00% | ~21 |
 | Self assessed tax return | 36.00% | ~20 |
@@ -34,9 +34,9 @@
 | Karaoke king | 33.00% | ~18 |
 | Haemochromatosis | 31.00% | ~17 |
 | Pasta Bolognese | 31.00% | ~17 |
+| Catch the bus with me! | 29.00% | ~16 |
 | You can't stop me, bro! | 29.00% | ~16 |
 | Meatballs, coming up! | 27.00% | ~15 |
-| Catch the bus with me! | 27.00% | ~15 |
 | I'm going to get a concussion | 25.00% | ~14 |
 | Another one bites the iron | 24.00% | ~13 |
 | Ripe Meat Off The Bone! | 20.00% | ~11 |
@@ -87,7 +87,7 @@
 | I'm feeling lucky! | 0.00% | ~0 |
 | Better safe than sorry - use protection | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55 (Ranked 285)  
+Progressed: 55 (Ranked 286)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |

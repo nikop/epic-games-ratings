@@ -5,46 +5,46 @@ Rating: 4.42 (Ranked 648)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 50.00% | ~685,711 |
-| The ABCs | 43.00% | ~589,711 |
-| Home Run | 42.00% | ~575,997 |
-| Keeps Coming Off | 40.00% | ~548,569 |
-| Guts | 20.00% | ~274,284 |
-| Meat Grinder | 20.00% | ~274,284 |
-| Burning Man | 16.00% | ~219,428 |
-| Lived to Tell the Tale | 12.00% | ~164,571 |
-| Highlander | 10.00% | ~137,142 |
-| Unstoppable | 10.00% | ~137,142 |
-| Just a Scratch | 9.00% | ~123,428 |
-| Tough Nut to Crack | 6.00% | ~82,285 |
-| Yoink | 5.00% | ~68,571 |
-| Long List of Names | 4.00% | ~54,857 |
-| Pyromaniac | 4.00% | ~54,857 |
-| The Queen of Weapons | 4.00% | ~54,857 |
-| Eagle Eye | 2.00% | ~27,428 |
-| This isn’t Sparta | 2.00% | ~27,428 |
-| Poacher | 2.00% | ~27,428 |
-| Put That Away | 2.00% | ~27,428 |
-| You’re Welcome | 2.00% | ~27,428 |
-| Crybaby | 1.00% | ~13,714 |
-| I Know Kung Fu | 1.00% | ~13,714 |
-| Coming Through | 0.80% | ~10,971 |
-| Chambermaid | 0.70% | ~9,600 |
-| Training Accident | 0.60% | ~8,229 |
-| Virtuoso | 0.60% | ~8,229 |
-| Boxer | 0.50% | ~6,857 |
-| Rock’n’Roll | 0.50% | ~6,857 |
+| Justice from the Grave | 50.00% | ~685,796 |
+| The ABCs | 43.00% | ~589,784 |
+| Home Run | 42.00% | ~576,068 |
+| Keeps Coming Off | 40.00% | ~548,636 |
+| Guts | 20.00% | ~274,318 |
+| Meat Grinder | 20.00% | ~274,318 |
+| Burning Man | 16.00% | ~219,455 |
+| Lived to Tell the Tale | 12.00% | ~164,591 |
+| Highlander | 10.00% | ~137,159 |
+| Unstoppable | 10.00% | ~137,159 |
+| Just a Scratch | 9.00% | ~123,443 |
+| Tough Nut to Crack | 6.00% | ~82,295 |
+| Yoink | 5.00% | ~68,580 |
+| Long List of Names | 4.00% | ~54,864 |
+| Pyromaniac | 4.00% | ~54,864 |
+| The Queen of Weapons | 4.00% | ~54,864 |
+| Eagle Eye | 2.00% | ~27,432 |
+| This isn’t Sparta | 2.00% | ~27,432 |
+| Poacher | 2.00% | ~27,432 |
+| Put That Away | 2.00% | ~27,432 |
+| You’re Welcome | 2.00% | ~27,432 |
+| Crybaby | 1.00% | ~13,716 |
+| I Know Kung Fu | 1.00% | ~13,716 |
+| Coming Through | 0.80% | ~10,973 |
+| Chambermaid | 0.70% | ~9,601 |
+| Training Accident | 0.60% | ~8,230 |
+| Virtuoso | 0.60% | ~8,230 |
+| Boxer | 0.50% | ~6,858 |
+| Rock’n’Roll | 0.50% | ~6,858 |
 | Flyswatter | 0.40% | ~5,486 |
-| Friend Indeed | 0.30% | ~4,114 |
-| Vlad the Impaler | 0.30% | ~4,114 |
-| Whack-A-Mole | 0.30% | ~4,114 |
-| Clobbered | 0.10% | ~1,371 |
-| Ended Rightly | 0.10% | ~1,371 |
-| Living Sculpture | 0.10% | ~1,371 |
-| That’s No Ordinary Cold | 0.10% | ~1,371 |
-| Stairway to Hell | 0.10% | ~1,371 |
+| Friend Indeed | 0.30% | ~4,115 |
+| Vlad the Impaler | 0.30% | ~4,115 |
+| Whack-A-Mole | 0.30% | ~4,115 |
+| Clobbered | 0.10% | ~1,372 |
+| Ended Rightly | 0.10% | ~1,372 |
+| Living Sculpture | 0.10% | ~1,372 |
+| That’s No Ordinary Cold | 0.10% | ~1,372 |
+| Stairway to Hell | 0.10% | ~1,372 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,371,422 (Ranked 7)  
+Progressed: 1,371,591 (Ranked 7)  
 Completed: 18 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,19 +77,19 @@ Completed: 18 (0.00%) (Ranked 201)
 | 2023-05-20 | 1,363,394 | 16 |
 | 2023-05-21 | 1,367,181 | 17 |
 | 2023-05-22 | 1,369,751 | 17 |
-| 2023-05-23 | 1,371,422 | 18 |
+| 2023-05-23 | 1,371,591 | 18 |
 ## Awards
 Max (Highly Recommended): 152  (Ranked 285)  
-Sum: 897 (Ranked 238)  
-Diff (max vs sum): 47  
+Sum: 906 (Ranked 237)  
+Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 152 |
-| This game has Diverse Characters | 140 |
+| This game has Diverse Characters | 145 |
 | This game has Challenging Combat | 138 |
 | This game has Amazing Characters | 126 |
 | This game is Extremely Fun | 120 |
-| This game has Competitive Players | 114 |
+| This game has Competitive Players | 118 |
 | This game has Quickly Understood Controls | 107 |
 | This game has Amazing Storytelling | 95 |
 | This game is Great for Quick Sessions | 28 |
@@ -134,4 +134,4 @@ Diff (max vs sum): 47
 | 2023-05-20 | 4.41 | 145 | 725 |
 | 2023-05-21 | 4.41 | 149 | 859 |
 | 2023-05-22 | 4.42 | 152 | 886 |
-| 2023-05-23 | 4.42 | 152 | 897 |
+| 2023-05-23 | 4.42 | 152 | 906 |

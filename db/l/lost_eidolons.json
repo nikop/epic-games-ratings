@@ -158,7 +158,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 886,
+  "EOS_Progressed": 887,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
@@ -368,6 +368,11 @@
       "Time": "2023-05-23T17:07:04.4585704+00:00",
       "NumProgressed": 886,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-23T18:06:04.6803828+00:00",
+      "NumProgressed": 887,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -411,15 +416,15 @@
       "Name": "The First Step",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "06",
       "SetID": "73ikgfc",
       "Name": "First Blood",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 576
+      "UsersEstimate": 568
     },
     {
       "ID": "07",
@@ -507,7 +512,7 @@
       "Name": "Ready to Learn",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "18",
@@ -515,7 +520,7 @@
       "Name": "Earning Trust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "19",
@@ -562,7 +567,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 886,
+      "Progressed": 887,
       "Completed": 0
     }
   ],
@@ -570,8 +575,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-05-23T17:07:04.45857+00:00",
+  "LastChanged_Achievements": "2023-05-23T18:06:04.6803821+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:05:01.1887177+00:00",
-  "LastUpdate_Ratings": "2023-05-23T17:00:40.9825459+00:00",
-  "LastUpdate_Achievements": "2023-05-23T17:07:04.4586032+00:00"
+  "LastUpdate_Ratings": "2023-05-23T17:59:39.6588965+00:00",
+  "LastUpdate_Achievements": "2023-05-23T18:06:04.6804094+00:00"
 }

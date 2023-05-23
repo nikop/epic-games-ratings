@@ -387,9 +387,9 @@
       "ID": "46",
       "SetID": "37jn7be",
       "Name": "Squashed Bug",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "47",
@@ -612,8 +612,8 @@
   "FirstSeenRating": "2023-04-29T22:57:51.702813+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:15.0612299+00:00",
   "LastChanged": "2023-04-29T22:57:51.7028131+00:00",
-  "LastChanged_Achievements": "2023-05-23T17:06:40.6398515+00:00",
+  "LastChanged_Achievements": "2023-05-23T18:05:43.2506471+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.1178962+00:00",
-  "LastUpdate_Ratings": "2023-05-23T16:58:37.7541215+00:00",
-  "LastUpdate_Achievements": "2023-05-23T17:06:40.639916+00:00"
+  "LastUpdate_Ratings": "2023-05-23T17:57:57.2221035+00:00",
+  "LastUpdate_Achievements": "2023-05-23T18:05:43.2507152+00:00"
 }

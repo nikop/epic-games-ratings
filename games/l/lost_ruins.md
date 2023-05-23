@@ -8,9 +8,9 @@
 | Goblin Tales | 31.00% | ~96 |
 | Bug Hunter | 24.00% | ~75 |
 | Boss Killer | 23.00% | ~72 |
-| The Fallen | 20.00% | ~62 |
+| The Fallen | 21.00% | ~65 |
+| Artifact Collector | 20.00% | ~62 |
 | Trap Master | 20.00% | ~62 |
-| Artifact Collector | 19.00% | ~59 |
 | Reincarnation | 17.00% | ~53 |
 | Ghost Buster | 16.00% | ~50 |
 | Iconoclasm | 14.00% | ~44 |

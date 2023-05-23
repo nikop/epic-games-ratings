@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46867,
+  "EOS_Progressed": 46868,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 673,
+  "EOS_NewPlayers": 674,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2341,6 +2341,11 @@
       "Time": "2023-05-23T17:06:50.33486+00:00",
       "NumProgressed": 46867,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-05-23T18:05:52.0785894+00:00",
+      "NumProgressed": 46868,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 67,
@@ -2624,7 +2629,7 @@
       "Name": "Let There Be Light",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7967
+      "UsersEstimate": 7968
     },
     {
       "ID": "36",
@@ -2887,21 +2892,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46867,
+      "Progressed": 46868,
       "Completed": 45
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 10335,
-      "Completed": 28
+      "Progressed": 10336,
+      "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-23T17:06:50.3348596+00:00",
+  "LastChanged_Achievements": "2023-05-23T18:05:52.0785888+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:07.5579983+00:00",
-  "LastUpdate_Ratings": "2023-05-23T16:58:09.0976938+00:00",
-  "LastUpdate_Achievements": "2023-05-23T17:06:50.3349473+00:00"
+  "LastUpdate_Ratings": "2023-05-23T17:57:32.7277954+00:00",
+  "LastUpdate_Achievements": "2023-05-23T18:05:52.0786608+00:00"
 }

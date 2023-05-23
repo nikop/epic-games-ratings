@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 50.00% | ~33 |
-| Press-ganged | 41.00% | ~27 |
+| A Second Chance | 49.00% | ~33 |
+| Press-ganged | 40.00% | ~27 |
 | The Package | 21.00% | ~14 |
 | Randomized | 9.00% | ~6 |
 | Conquered | 9.00% | ~6 |
-| Bounty Hunter | 2.00% | ~1 |
-| Conciliator | 2.00% | ~1 |
-| Scribe | 2.00% | ~1 |
-| Scholar | 2.00% | ~1 |
-| Loremaster | 2.00% | ~1 |
-| The More the Merrier | 2.00% | ~1 |
-| Breached | 2.00% | ~1 |
-| Fight Another Day | 2.00% | ~1 |
-| Pilgrimage's End | 2.00% | ~1 |
+| Bounty Hunter | 1.00% | ~1 |
+| Conciliator | 1.00% | ~1 |
+| Scribe | 1.00% | ~1 |
+| Scholar | 1.00% | ~1 |
+| Loremaster | 1.00% | ~1 |
+| The More the Merrier | 1.00% | ~1 |
+| Breached | 1.00% | ~1 |
+| Fight Another Day | 1.00% | ~1 |
+| Pilgrimage's End | 1.00% | ~1 |
 | Liberator | 0.00% | ~0 |
 | Making Contact | 0.00% | ~0 |
 | For the Cause! | 0.00% | ~0 |
@@ -104,7 +104,7 @@
 | Enterpreneur | 0.00% | ~0 |
 | Insectoid Propagator | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66 (Ranked 283)  
+Progressed: 67 (Ranked 282)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,6 +119,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-19 | 61 | 0 |
 | 2023-05-21 | 63 | 0 |
 | 2023-05-22 | 66 | 0 |
+| 2023-05-23 | 67 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

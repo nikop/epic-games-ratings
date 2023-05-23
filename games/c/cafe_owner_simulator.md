@@ -14,8 +14,8 @@
 | DEBTOR | 8.00% | ~29 |
 | SUCCESSFUL | 3.00% | ~11 |
 | THINGS ARE GOING WELL | 3.00% | ~11 |
+| YETTI | 3.00% | ~11 |
 | FIRST $100K | 2.00% | ~7 |
-| YETTI | 2.00% | ~7 |
 | 500K$. | 0.80% | ~3 |
 | INTRODUCTION | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

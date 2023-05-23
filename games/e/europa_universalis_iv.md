@@ -6,29 +6,29 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,816 |
-| That's a Grand Army | 8.00% | ~3,392 |
-| That is mine! | 8.00% | ~3,392 |
-| Victorious! | 8.00% | ~3,392 |
-| Brothers in Arms | 6.00% | ~2,544 |
-| That's a Grand Navy | 6.00% | ~2,544 |
-| Seriously?! | 6.00% | ~2,544 |
-| For the Glory | 5.00% | ~2,120 |
-| Cold War | 4.00% | ~1,696 |
-| True Catholic | 4.00% | ~1,696 |
-| Defender of the Faith | 3.00% | ~1,272 |
-| It's all about the money | 3.00% | ~1,272 |
-| Respected | 3.00% | ~1,272 |
-| Truly Divine Ruler | 3.00% | ~1,272 |
-| Blockader | 2.00% | ~848 |
-| Combined Arms | 2.00% | ~848 |
-| Double the Love | 2.00% | ~848 |
-| Gentle Persuasion | 2.00% | ~848 |
-| It's all about luck | 2.00% | ~848 |
-| Queen of Conquest | 2.00% | ~848 |
-| Royal Authority | 2.00% | ~848 |
-| The Princess is in this Castle | 2.00% | ~848 |
-| Total Control | 2.00% | ~848 |
+| Until death do us apart | 9.00% | ~3,820 |
+| That's a Grand Army | 8.00% | ~3,395 |
+| That is mine! | 8.00% | ~3,395 |
+| Victorious! | 8.00% | ~3,395 |
+| Brothers in Arms | 6.00% | ~2,547 |
+| That's a Grand Navy | 6.00% | ~2,547 |
+| Seriously?! | 6.00% | ~2,547 |
+| For the Glory | 5.00% | ~2,122 |
+| Cold War | 4.00% | ~1,698 |
+| True Catholic | 4.00% | ~1,698 |
+| Defender of the Faith | 3.00% | ~1,273 |
+| It's all about the money | 3.00% | ~1,273 |
+| Respected | 3.00% | ~1,273 |
+| Truly Divine Ruler | 3.00% | ~1,273 |
+| Blockader | 2.00% | ~849 |
+| Combined Arms | 2.00% | ~849 |
+| Double the Love | 2.00% | ~849 |
+| Gentle Persuasion | 2.00% | ~849 |
+| It's all about luck | 2.00% | ~849 |
+| Queen of Conquest | 2.00% | ~849 |
+| Royal Authority | 2.00% | ~849 |
+| The Princess is in this Castle | 2.00% | ~849 |
+| Total Control | 2.00% | ~849 |
 | Agressive Expander | 1.00% | ~424 |
 | All That's Thine Shall Be Mine | 1.00% | ~424 |
 | Azur semé de lis or | 1.00% | ~424 |
@@ -38,14 +38,14 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~424 |
 | My armies are invincible! | 1.00% | ~424 |
 | The Five Colonies | 0.90% | ~382 |
-| The Emperors new clothes | 0.80% | ~339 |
-| Isn't this the way to India? | 0.80% | ~339 |
-| Market Control | 0.80% | ~339 |
-| This navy can take it all | 0.80% | ~339 |
+| The Emperors new clothes | 0.80% | ~340 |
+| Isn't this the way to India? | 0.80% | ~340 |
+| Market Control | 0.80% | ~340 |
+| This navy can take it all | 0.80% | ~340 |
 | Down Under | 0.70% | ~297 |
 | Trustworthy | 0.70% | ~297 |
-| Electable! | 0.60% | ~254 |
-| Time Bandit | 0.60% | ~254 |
+| Electable! | 0.60% | ~255 |
+| Time Bandit | 0.60% | ~255 |
 | All belongs to Mother Russia | 0.50% | ~212 |
 | At every continent | 0.50% | ~212 |
 | Early-Modern Warfare | 0.50% | ~212 |
@@ -275,6 +275,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Coin is Stronger than the Sword | 0.10% | ~42 |
 | The Grand Armada | 0.10% | ~42 |
 | The Great Khan | 0.10% | ~42 |
+| The League of Mayapan | 0.10% | ~42 |
 | The Navigator | 0.10% | ~42 |
 | The Ostenders | 0.10% | ~42 |
 | The Power of Three | 0.10% | ~42 |
@@ -347,7 +348,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Stern des Südens | 0.00% | ~0 |
 | Sworn Fealty | 0.00% | ~0 |
 | The Freest Man in the World | 0.00% | ~0 |
-| The League of Mayapan | 0.00% | ~0 |
 | The Pheasant Strut | 0.00% | ~0 |
 | Tiger of Mysore | 0.00% | ~0 |
 | To the Bone | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,403 (Ranked 79)  
+Progressed: 42,442 (Ranked 79)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -394,7 +394,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-20 | 40,736 | 0 |
 | 2023-05-21 | 41,525 | 0 |
 | 2023-05-22 | 42,079 | 0 |
-| 2023-05-23 | 42,403 | 0 |
+| 2023-05-23 | 42,442 | 0 |
 ## Awards
 Max (Educational): 5,271  (Ranked 60)  
 Sum: 43,666 (Ranked 27)  

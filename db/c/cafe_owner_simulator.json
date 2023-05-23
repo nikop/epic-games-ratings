@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 359,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -661,9 +661,9 @@
       "ID": "YETTI",
       "SetID": "64e5lgf",
       "Name": "YETTI",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 7
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
@@ -678,8 +678,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-05-23T17:06:53.1169377+00:00",
+  "LastChanged_Achievements": "2023-05-23T18:05:54.4224822+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:57.2732477+00:00",
-  "LastUpdate_Ratings": "2023-05-23T17:00:21.0263315+00:00",
-  "LastUpdate_Achievements": "2023-05-23T17:06:53.1169522+00:00"
+  "LastUpdate_Ratings": "2023-05-23T17:59:23.7585124+00:00",
+  "LastUpdate_Achievements": "2023-05-23T18:05:54.4225037+00:00"
 }

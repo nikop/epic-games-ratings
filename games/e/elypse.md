@@ -21,7 +21,7 @@
 | Rooftop | 28.00% | ~11 |
 | It's getting dark | 28.00% | ~11 |
 | Homeless | 26.00% | ~10 |
-| Big badaboom! | 21.00% | ~8 |
+| Big badaboom! | 23.00% | ~9 |
 | Compulsive hoarder | 18.00% | ~7 |
 | Nokron tower | 18.00% | ~7 |
 | Magnitude 5 | 18.00% | ~7 |

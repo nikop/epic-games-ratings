@@ -4,6 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Collectibles Part 1 | 50.00% | ~2 |
 | Wait! Wait! Not yet! | 25.00% | ~1 |
 | He's so Annoying | 0.00% | ~0 |
 | Break a Leg! | 0.00% | ~0 |
@@ -18,7 +19,6 @@
 | Good as Fish | 0.00% | ~0 |
 | Her Eyes | 0.00% | ~0 |
 | Gollum/Sméagol | 0.00% | ~0 |
-| Collectibles Part 1 | 0.00% | ~0 |
 | Collectibles Part 2 | 0.00% | ~0 |
 | Rule them all! | 0.00% | ~0 |
 | Sweet Darkness | 0.00% | ~0 |

@@ -4,7 +4,7 @@
   "ProductSlug": "detroit-become-human",
   "Ranking_Rating": 25,
   "Ranking_Popularity": 117,
-  "Ranking_PopularitySum": 209,
+  "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 316,
@@ -1126,6 +1126,6 @@
   "FirstSeen": "2022-07-22T20:18:06.5181893+00:00",
   "LastChanged": "2023-05-22T00:01:15.3436279+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:51.1337836+00:00",
-  "LastUpdate_Ratings": "2023-05-23T17:01:44.5206533+00:00",
-  "LastUpdate_Achievements": "2023-05-23T17:05:02.6641621+00:00"
+  "LastUpdate_Ratings": "2023-05-23T18:00:31.3573082+00:00",
+  "LastUpdate_Achievements": "2023-05-23T18:04:18.2364479+00:00"
 }

@@ -14,7 +14,7 @@ Rating: 4.18 (Ranked 831)
 | The Commonality | 2.00% | ~268 |
 | Float Like A Butterfly | 2.00% | ~268 |
 | Mugshot | 2.00% | ~268 |
-| Big Spender | 2.00% | ~26 |
+| Big Spender | 2.00% | ~27 |
 | Parole Denied | 1.00% | ~13 |
 | Get a Grip | 1.00% | ~134 |
 | Reforged | 1.00% | ~134 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 831)
 | I am the Danger | 0.00% | ~0 |
 | Subject Alpha | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,398 (Ranked 101)  
+Progressed: 13,404 (Ranked 101)  
 Completed: 52 (0.39%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 52 (0.39%) (Ranked 112)
 | 2023-05-20 | 13,057 | 51 |
 | 2023-05-21 | 13,223 | 52 |
 | 2023-05-22 | 13,347 | 52 |
-| 2023-05-23 | 13,398 | 52 |
+| 2023-05-23 | 13,404 | 52 |
 ## Awards
 Max (Amazing Storytelling): 46  (Ranked 397)  
 Sum: 247 (Ranked 341)  

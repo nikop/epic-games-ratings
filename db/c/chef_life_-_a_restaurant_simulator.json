@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 184,
+  "EOS_Progressed": 186,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -759,6 +759,11 @@
       "Time": "2023-05-23T17:06:52.1054399+00:00",
       "NumProgressed": 184,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-23T18:05:53.6442658+00:00",
+      "NumProgressed": 186,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -826,7 +831,7 @@
       "Name": "So Clean You Can Eat Off the Floor",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "Clothes10",
@@ -944,9 +949,9 @@
       "ID": "OpenRestaurant",
       "SetID": "d1bm05f",
       "Name": "The Big Day",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 128
     },
     {
       "ID": "Packing20",
@@ -968,9 +973,9 @@
       "ID": "RecipeDifferent10",
       "SetID": "d1bm05f",
       "Name": "Home Cook",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 61
     },
     {
       "ID": "RecipeDifferent30",
@@ -1024,9 +1029,9 @@
       "ID": "StaffMemberSpecialityDishes10",
       "SetID": "d1bm05f",
       "Name": "You\u0027re the Expert!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "TrattoriaSet",
@@ -1034,7 +1039,7 @@
       "Name": "Italian Style",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "UnlockAssiette",
@@ -1089,7 +1094,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 184,
+      "Progressed": 186,
       "Completed": 0
     }
   ],
@@ -1097,8 +1102,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-23T17:06:52.1054394+00:00",
+  "LastChanged_Achievements": "2023-05-23T18:05:53.6442652+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.318416+00:00",
-  "LastUpdate_Ratings": "2023-05-23T16:59:05.9097175+00:00",
-  "LastUpdate_Achievements": "2023-05-23T17:06:52.1054755+00:00"
+  "LastUpdate_Ratings": "2023-05-23T17:58:21.2589809+00:00",
+  "LastUpdate_Achievements": "2023-05-23T18:05:53.6443237+00:00"
 }

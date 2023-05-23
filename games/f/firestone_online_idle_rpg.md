@@ -22,7 +22,7 @@ Rating: 3.79 (Ranked 912)
 | Dragon Master | 11.00% | ~126 |
 | Enlightenment | 11.00% | ~126 |
 | Lieutenant | 11.00% | ~126 |
-| Milestone collector | 9.00% | ~103 |
+| Milestone collector | 10.00% | ~115 |
 | Mysterious Rock | 9.00% | ~103 |
 | Natural Talent | 9.00% | ~103 |
 | Superior | 9.00% | ~103 |

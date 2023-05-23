@@ -3234,10 +3234,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 8012,
       "NumberOfAwardsMax": 875
+    },
+    {
+      "Time": "2023-05-23T17:57:36.5326385+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 8013,
+      "NumberOfAwardsMax": 875
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8012,
+  "NumberOfAwards": 8013,
   "NumberOfAwardsMax": 875,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3251,7 +3257,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 839
+      "Count": 840
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3325,8 +3331,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:18.8189699+00:00",
-  "LastChanged": "2023-05-23T09:57:47.200515+00:00",
+  "LastChanged": "2023-05-23T17:57:36.5326383+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:11.888146+00:00",
-  "LastUpdate_Ratings": "2023-05-23T16:58:12.8990914+00:00",
-  "LastUpdate_Achievements": "2023-05-23T17:04:35.0479238+00:00"
+  "LastUpdate_Ratings": "2023-05-23T17:57:36.532639+00:00",
+  "LastUpdate_Achievements": "2023-05-23T18:03:53.9967151+00:00"
 }

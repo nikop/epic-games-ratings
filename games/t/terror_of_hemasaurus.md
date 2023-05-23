@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Terror Rising | 66.00% | ~31 |
-| Jalopy Poppy | 64.00% | ~30 |
-| Green-Bodied Monster | 51.00% | ~24 |
-| Chopper Stopper | 45.00% | ~21 |
-| Test of Faith | 38.00% | ~18 |
-| Aerosolized | 38.00% | ~18 |
-| Reign of Terror | 32.00% | ~15 |
-| Monstrosity Atrocity | 32.00% | ~15 |
+| Terror Rising | 68.00% | ~32 |
+| Jalopy Poppy | 66.00% | ~31 |
+| Green-Bodied Monster | 53.00% | ~25 |
+| Chopper Stopper | 47.00% | ~22 |
+| Test of Faith | 40.00% | ~19 |
+| Aerosolized | 40.00% | ~19 |
+| Reign of Terror | 34.00% | ~16 |
+| Monstrosity Atrocity | 34.00% | ~16 |
 | Crushing All Cars | 23.00% | ~11 |
 | Horror Show | 19.00% | ~9 |
 | Brain Chopper | 17.00% | ~8 |
 | Demolition Ambition | 13.00% | ~6 |
 | Night Bird | 13.00% | ~6 |
+| Midair Affair | 6.00% | ~3 |
 | Hindenburgerer | 6.00% | ~3 |
 | Punchy Wagon | 6.00% | ~3 |
 | Kill All Humans! | 6.00% | ~3 |
 | Demolition Exhibition | 4.00% | ~2 |
 | Rocket Science | 4.00% | ~2 |
 | Holy Terror | 4.00% | ~2 |
-| Midair Affair | 4.00% | ~2 |
 | Meat Catcher | 4.00% | ~2 |
 | Demolition Tactician | 4.00% | ~2 |
 | Hot Potato | 4.00% | ~2 |

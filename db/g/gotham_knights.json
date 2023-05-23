@@ -1196,9 +1196,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61798,
+  "EOS_Progressed": 61803,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 882,
+  "EOS_NewPlayers": 887,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3476,6 +3476,11 @@
       "Time": "2023-05-23T17:07:20.2098074+00:00",
       "NumProgressed": 61798,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-23T18:06:18.7577742+00:00",
+      "NumProgressed": 61803,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3717,9 +3722,9 @@
       "ID": "FREEZE_1_5",
       "SetID": "4eo5ebm",
       "Name": "Quartzer Life Crisis",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 433
     },
     {
       "ID": "FREEZE_2",
@@ -3974,13 +3979,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61798,
+      "Progressed": 61803,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32078,
+      "Progressed": 32083,
       "Completed": 2640
     }
   ],
@@ -3988,8 +3993,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-23T13:59:19.7620862+00:00",
-  "LastChanged_Achievements": "2023-05-23T17:07:20.209807+00:00",
+  "LastChanged_Achievements": "2023-05-23T18:06:18.7577735+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-23T17:00:42.4636873+00:00",
-  "LastUpdate_Achievements": "2023-05-23T17:07:20.209861+00:00"
+  "LastUpdate_Ratings": "2023-05-23T17:59:40.8140261+00:00",
+  "LastUpdate_Achievements": "2023-05-23T18:06:18.7579092+00:00"
 }

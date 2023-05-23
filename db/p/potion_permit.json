@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 422,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -304,9 +304,9 @@
       "Count": 66
     }
   ],
-  "EOS_Progressed": 1275,
+  "EOS_Progressed": 1276,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -564,6 +564,11 @@
       "Time": "2023-05-23T15:06:59.1954384+00:00",
       "NumProgressed": 1275,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-23T18:06:15.4130289+00:00",
+      "NumProgressed": 1276,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 38,
@@ -631,7 +636,7 @@
       "Name": "The First Step",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -687,7 +692,7 @@
       "Name": "Friendly",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 586
+      "UsersEstimate": 587
     },
     {
       "ID": "ACHIEVEMENTS_16",
@@ -703,7 +708,7 @@
       "Name": "Kind-hearted",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ACHIEVEMENTS_18",
@@ -711,15 +716,15 @@
       "Name": "Dog Whisperer",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "ACHIEVEMENTS_19",
       "SetID": "d4o538a",
       "Name": "Spark of Love",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 179
     },
     {
       "ID": "ACHIEVEMENTS_20",
@@ -727,7 +732,7 @@
       "Name": "Decorative Mind",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "ACHIEVEMENTS_21",
@@ -823,7 +828,7 @@
       "Name": "Adolescent Love",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACHIEVEMENTS_33",
@@ -839,7 +844,7 @@
       "Name": "Moonbury Traveller",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "ACHIEVEMENTS_35",
@@ -878,7 +883,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1275,
+      "Progressed": 1276,
       "Completed": 5
     }
   ],
@@ -886,8 +891,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-05-03T21:59:55.8094288+00:00",
-  "LastChanged_Achievements": "2023-05-23T17:07:16.51362+00:00",
+  "LastChanged_Achievements": "2023-05-23T18:06:15.4130283+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:30.0956385+00:00",
-  "LastUpdate_Ratings": "2023-05-23T17:01:32.4856331+00:00",
-  "LastUpdate_Achievements": "2023-05-23T17:07:16.5136516+00:00"
+  "LastUpdate_Ratings": "2023-05-23T18:00:21.1882172+00:00",
+  "LastUpdate_Achievements": "2023-05-23T18:06:15.4130717+00:00"
 }

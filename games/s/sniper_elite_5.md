@@ -6,7 +6,7 @@ Rating: 4.35 (Ranked 719)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 15.00% | ~191 |
-| Confirming Suspicions | 9.00% | ~114 |
+| Confirming Suspicions | 10.00% | ~128 |
 | The Kraken Wakes | 7.00% | ~89 |
 | It's Starting to Crack | 5.00% | ~64 |
 | Enemy at the Gates | 4.00% | ~51 |
@@ -16,13 +16,13 @@ Rating: 4.35 (Ranked 719)
 | Organ Grinder | 3.00% | ~38 |
 | Explosive Efficiency | 3.00% | ~38 |
 | Change the Channel | 3.00% | ~38 |
-| Opposing Force | 2.00% | ~25 |
-| Die Nussknacker Sweet! | 2.00% | ~25 |
-| As Quiet as a Mouse | 2.00% | ~25 |
-| Taking it back | 2.00% | ~25 |
-| Target America | 2.00% | ~25 |
+| Opposing Force | 2.00% | ~26 |
+| Gunslinger | 2.00% | ~26 |
+| Die Nussknacker Sweet! | 2.00% | ~26 |
+| As Quiet as a Mouse | 2.00% | ~26 |
+| Taking it back | 2.00% | ~26 |
+| Target America | 2.00% | ~26 |
 | Fields of Glory | 1.00% | ~13 |
-| Gunslinger | 1.00% | ~13 |
 | Skirmisher | 1.00% | ~13 |
 | Sharpshooter | 1.00% | ~13 |
 | Der Geist | 1.00% | ~13 |
@@ -35,10 +35,10 @@ Rating: 4.35 (Ranked 719)
 | Precision Is Key | 0.90% | ~11 |
 | Climbing the Ladder | 0.70% | ~9 |
 | Rigged to Blow | 0.70% | ~9 |
+| No Stone Unturned | 0.50% | ~6 |
 | It'll Buff Right Out | 0.50% | ~6 |
 | Locomotion Commotion | 0.50% | ~6 |
 | Brains of the Operation | 0.50% | ~6 |
-| No Stone Unturned | 0.40% | ~5 |
 | My Little Friend | 0.40% | ~5 |
 | Operation Foxley | 0.40% | ~5 |
 | Strategist | 0.30% | ~4 |
@@ -77,7 +77,7 @@ Rating: 4.35 (Ranked 719)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,271 (Ranked 158)  
+Progressed: 1,276 (Ranked 157)  
 Completed: 2 (0.16%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 2 (0.16%) (Ranked 145)
 | 2023-05-20 | 984 | 2 |
 | 2023-05-21 | 1,126 | 2 |
 | 2023-05-22 | 1,233 | 2 |
-| 2023-05-23 | 1,271 | 2 |
+| 2023-05-23 | 1,276 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 33.00% | ~16 |
-| Dr Jones | 2.00% | ~1 |
-| Giant Killer | 2.00% | ~1 |
-| Lumberjack | 2.00% | ~1 |
-| Newtonian Knockout | 2.00% | ~1 |
-| Recycler | 2.00% | ~1 |
-| Sensei | 2.00% | ~1 |
+| First Blood | 20.00% | ~16 |
+| Dr Jones | 1.00% | ~1 |
+| Giant Killer | 1.00% | ~1 |
+| Lumberjack | 1.00% | ~1 |
+| Newtonian Knockout | 1.00% | ~1 |
+| Recycler | 1.00% | ~1 |
+| Sensei | 1.00% | ~1 |
 | Alpha Editor | 0.00% | ~0 |
 | Are you not entertained? | 0.00% | ~0 |
 | Aspiring Editor | 0.00% | ~0 |
@@ -56,9 +56,9 @@
 | The Watchers | 0.00% | ~0 |
 | Wipe Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49 (Ranked 288)  
+Progressed: 81 (Ranked 265)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-05-23 | 49 | 0 |
+| 2023-05-23 | 81 | 0 |

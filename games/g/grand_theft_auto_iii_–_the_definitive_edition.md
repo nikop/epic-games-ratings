@@ -14,18 +14,18 @@ Rating: 4.15 (Ranked 845)
 | Liberty City Minute | 16.00% | ~840 |
 | Offshore Delivery | 12.00% | ~630 |
 | Dirty Money | 11.00% | ~578 |
-| By a Mile | 9.00% | ~472 |
-| Right-hand Man | 9.00% | ~472 |
+| By a Mile | 9.00% | ~473 |
+| Right-hand Man | 9.00% | ~473 |
 | Not So Fast | 8.00% | ~420 |
 | A Gift from the King | 6.00% | ~315 |
 | Full Artillery | 4.00% | ~210 |
 | Mob Boss | 2.00% | ~105 |
 | Splish Splash | 2.00% | ~105 |
 | Liberty City Secrets | 2.00% | ~105 |
-| Escape Artist | 1.00% | ~52 |
-| Come Out to Play-y-y-y | 1.00% | ~52 |
-| Where To? | 1.00% | ~52 |
-| Playing Doctor | 1.00% | ~52 |
+| Escape Artist | 1.00% | ~53 |
+| Come Out to Play-y-y-y | 1.00% | ~53 |
+| Where To? | 1.00% | ~53 |
+| Playing Doctor | 1.00% | ~53 |
 | Got This Figured Out | 0.90% | ~47 |
 | Man Toyz | 0.90% | ~47 |
 | Planned Ahead | 0.80% | ~42 |
@@ -35,7 +35,7 @@ Rating: 4.15 (Ranked 845)
 | Is That All You've Got? | 0.70% | ~37 |
 | King of Liberty City | 0.50% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,250 (Ranked 122)  
+Progressed: 5,251 (Ranked 122)  
 Completed: 26 (0.50%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 26 (0.50%) (Ranked 106)
 | 2023-05-20 | 5,098 | 26 |
 | 2023-05-21 | 5,159 | 26 |
 | 2023-05-22 | 5,204 | 26 |
-| 2023-05-23 | 5,250 | 26 |
+| 2023-05-23 | 5,251 | 26 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
