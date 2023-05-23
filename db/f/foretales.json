@@ -4,7 +4,7 @@
   "ProductSlug": "foretales-d6c5bd",
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-09-15T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 256,
+  "EOS_Progressed": 257,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -67,6 +67,11 @@
       "Time": "2023-05-21T16:05:42.8038274+00:00",
       "NumProgressed": 256,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-23T23:06:52.5014203+00:00",
+      "NumProgressed": 257,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 41,
@@ -100,9 +105,9 @@
       "ID": "chapter1",
       "SetID": "5bkacmp",
       "Name": "Isenburg\u0027s fall",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 121
     },
     {
       "ID": "chapter2",
@@ -118,15 +123,15 @@
       "Name": "Is this the end?",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "darkAndStinky",
       "SetID": "5bkacmp",
       "Name": "Dark and stinky",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 74
+      "UsersEstimate": 72
     },
     {
       "ID": "darkVolepain",
@@ -276,9 +281,9 @@
       "ID": "sneakInSneakOut",
       "SetID": "5bkacmp",
       "Name": "Sneak in, sneak out",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 67
     },
     {
       "ID": "stronk",
@@ -286,7 +291,7 @@
       "Name": "Stronk",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "superMothBoy",
@@ -364,9 +369,9 @@
       "ID": "theRanger",
       "SetID": "5bkacmp",
       "Name": "Caged tiger",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 157
     },
     {
       "ID": "theUnionLeader",
@@ -398,14 +403,14 @@
       "Name": "You sssaved me",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     }
   ],
   "AchievementSets": [
     {
       "ID": "5bkacmp",
       "IsBase": true,
-      "Progressed": 256,
+      "Progressed": 257,
       "Completed": 0
     }
   ],
@@ -413,8 +418,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2023-05-23T22:06:36.7286903+00:00",
+  "LastChanged_Achievements": "2023-05-23T23:06:52.5014196+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:46.489951+00:00",
-  "LastUpdate_Ratings": "2023-05-23T22:01:16.458695+00:00",
-  "LastUpdate_Achievements": "2023-05-23T22:06:36.7287282+00:00"
+  "LastUpdate_Ratings": "2023-05-23T23:01:22.1935634+00:00",
+  "LastUpdate_Achievements": "2023-05-23T23:06:52.501451+00:00"
 }

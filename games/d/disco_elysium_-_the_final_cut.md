@@ -9,10 +9,10 @@ Number of Ratings: 1,611  (23.09.2022)
 | Goodest Of The Good Cops | 28.00% | ~33,271 |
 | Biggest Communism Builder | 24.00% | ~28,518 |
 | The World's Most Laughable Centrist | 20.00% | ~23,765 |
-| Il Coppo Del'Arte! | 18.00% | ~21,388 |
+| Il Coppo Del'Arte! | 18.00% | ~21,389 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,012 |
 | Hyperstellar Law Official | 15.00% | ~17,824 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~16,635 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~16,636 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~15,447 |
 | Gurdi-Ball Is Lit | 13.00% | ~15,447 |
 | Truly Rabid *Traditionalist* | 11.00% | ~13,071 |
@@ -24,10 +24,10 @@ Number of Ratings: 1,611  (23.09.2022)
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~4,753 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,565 |
 | Bother Kim After Hours | 3.00% | ~3,565 |
-| Baddest Of the Bad Cops | 2.00% | ~2,376 |
-| Expert Advanced Remote Viewer | 2.00% | ~2,376 |
-| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,376 |
-| Wheel of Pleasure and Light | 2.00% | ~2,376 |
+| Baddest Of the Bad Cops | 2.00% | ~2,377 |
+| Expert Advanced Remote Viewer | 2.00% | ~2,377 |
+| Recruit Detective Kuuno de Ruyter | 2.00% | ~2,377 |
+| Wheel of Pleasure and Light | 2.00% | ~2,377 |
 | Massive Torque Dork | 1.00% | ~1,188 |
 | Avowed Inframaterialist | 0.90% | ~1,069 |
 | Real Musor | 0.90% | ~1,069 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~119 |
 | What body? | 0.10% | ~119 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 118,824 (Ranked 56)  
+Progressed: 118,826 (Ranked 56)  
 Completed: 25 (0.02%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 25 (0.02%) (Ranked 187)
 | 2023-05-20 | 118,654 | 25 |
 | 2023-05-21 | 118,718 | 25 |
 | 2023-05-22 | 118,758 | 25 |
-| 2023-05-23 | 118,824 | 25 |
+| 2023-05-23 | 118,826 | 25 |
 ## Awards
 Max (Character Customization): 690  (Ranked 157)  
 Sum: 1,046 (Ranked 229)  

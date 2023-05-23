@@ -20,7 +20,7 @@
 | You monster! | 0.00% | ~0 |
 | Are you still here? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19 (Ranked 316)  
+Progressed: 19 (Ranked 317)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |

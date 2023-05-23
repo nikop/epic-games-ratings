@@ -32,24 +32,24 @@
 | Self assessed tax return | 36.00% | ~20 |
 | You are no match for me, Billy! | 33.00% | ~18 |
 | Karaoke king | 33.00% | ~18 |
+| You can't stop me, bro! | 33.00% | ~18 |
 | Haemochromatosis | 33.00% | ~18 |
 | Pasta Bolognese | 33.00% | ~18 |
-| You can't stop me, bro! | 31.00% | ~17 |
 | Meatballs, coming up! | 29.00% | ~16 |
 | Catch the bus with me! | 29.00% | ~16 |
-| I'm going to get a concussion | 27.00% | ~15 |
+| I'm going to get a concussion | 29.00% | ~16 |
 | Another one bites the iron | 25.00% | ~14 |
-| A Megapint...? | 20.00% | ~11 |
+| A Megapint...? | 22.00% | ~12 |
+| Hovering around | 22.00% | ~12 |
 | Ripe Meat Off The Bone! | 20.00% | ~11 |
-| Hovering around | 20.00% | ~11 |
 | Just wing it! | 15.00% | ~8 |
 | Your daily dose of Vitamin C. | 15.00% | ~8 |
 | Kleptomaniac | 15.00% | ~8 |
 | I cant stand still! | 13.00% | ~7 |
+| Slimy... yet satisfying | 13.00% | ~7 |
 | You're not so Big anymore, Boi! | 11.00% | ~6 |
 | Ancient Ruins of Dirty Feet | 11.00% | ~6 |
 | I drink, but I'm not a drunk! | 11.00% | ~6 |
-| Slimy... yet satisfying | 11.00% | ~6 |
 | Spoiler alert! | 9.00% | ~5 |
 | Yeehaw!!! | 9.00% | ~5 |
 | Master Butcher | 9.00% | ~5 |

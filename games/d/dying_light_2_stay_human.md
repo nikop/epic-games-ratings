@@ -6,38 +6,38 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 9.00% | ~49,965 |
-| Into the Unknown | 8.00% | ~44,413 |
-| First Shot | 8.00% | ~44,413 |
-| Herzlich Wilkommen! | 8.00% | ~44,413 |
-| Sancho Panza | 7.00% | ~38,861 |
-| Good Night & Good Luck | 7.00% | ~38,861 |
-| Under Pressure | 6.00% | ~33,310 |
-| On the Trail of the Enemy | 6.00% | ~33,310 |
-| Flag Burning | 6.00% | ~33,310 |
-| Oh, So This Is How It Works! | 6.00% | ~33,310 |
-| Night Hunter | 6.00% | ~33,310 |
-| Light in the Darkness | 5.00% | ~27,758 |
-| Get Outta My House! | 5.00% | ~27,758 |
-| It Wasn't That Hard, Was It? | 5.00% | ~27,758 |
-| Being All Social | 5.00% | ~27,758 |
-| Debris and Ashes | 4.00% | ~22,207 |
-| We Will Be Heard! | 4.00% | ~22,207 |
-| Known Associate | 4.00% | ~22,207 |
-| Brush with Death | 4.00% | ~22,207 |
-| Going Down | 4.00% | ~22,207 |
-| Family First | 4.00% | ~22,207 |
-| Your World, Your Rules | 4.00% | ~22,207 |
-| Tunnel Entrance | 4.00% | ~22,207 |
-| After the Fall | 4.00% | ~22,207 |
-| Can't Touch This! | 4.00% | ~22,207 |
-| Death From Afar | 4.00% | ~22,207 |
-| Terminal Headache | 3.00% | ~16,655 |
-| Slowpoke! | 3.00% | ~16,655 |
-| Tickets, Please! | 2.00% | ~11,103 |
-| Parkour Master | 2.00% | ~11,103 |
-| Combat Master | 2.00% | ~11,103 |
-| You're Going Down! | 2.00% | ~11,103 |
+| You Never Forget Your First... | 9.00% | ~49,967 |
+| Into the Unknown | 8.00% | ~44,415 |
+| First Shot | 8.00% | ~44,415 |
+| Herzlich Wilkommen! | 8.00% | ~44,415 |
+| Sancho Panza | 7.00% | ~38,863 |
+| Good Night & Good Luck | 7.00% | ~38,863 |
+| Under Pressure | 6.00% | ~33,311 |
+| On the Trail of the Enemy | 6.00% | ~33,311 |
+| Flag Burning | 6.00% | ~33,311 |
+| Oh, So This Is How It Works! | 6.00% | ~33,311 |
+| Night Hunter | 6.00% | ~33,311 |
+| Light in the Darkness | 5.00% | ~27,759 |
+| Get Outta My House! | 5.00% | ~27,759 |
+| It Wasn't That Hard, Was It? | 5.00% | ~27,759 |
+| Being All Social | 5.00% | ~27,759 |
+| Debris and Ashes | 4.00% | ~22,208 |
+| We Will Be Heard! | 4.00% | ~22,208 |
+| Known Associate | 4.00% | ~22,208 |
+| Brush with Death | 4.00% | ~22,208 |
+| Going Down | 4.00% | ~22,208 |
+| Family First | 4.00% | ~22,208 |
+| Your World, Your Rules | 4.00% | ~22,208 |
+| Tunnel Entrance | 4.00% | ~22,208 |
+| After the Fall | 4.00% | ~22,208 |
+| Can't Touch This! | 4.00% | ~22,208 |
+| Death From Afar | 4.00% | ~22,208 |
+| Terminal Headache | 3.00% | ~16,656 |
+| Slowpoke! | 3.00% | ~16,656 |
+| Tickets, Please! | 2.00% | ~11,104 |
+| Parkour Master | 2.00% | ~11,104 |
+| Combat Master | 2.00% | ~11,104 |
+| You're Going Down! | 2.00% | ~11,104 |
 | Municipal Services | 1.00% | ~5,552 |
 | Tube Map | 1.00% | ~5,552 |
 | Don Quixote | 1.00% | ~5,552 |
@@ -46,9 +46,9 @@ Number of Ratings: 7,305  (23.09.2022)
 | Modder | 1.00% | ~5,552 |
 | Ironheart | 1.00% | ~5,552 |
 | Nemesis | 1.00% | ~2,006 |
-| That's Teamwork! | 0.90% | ~4,996 |
-| Fit as a Fiddle | 0.90% | ~4,996 |
-| Enter the Hall | 0.90% | ~1,805 |
+| That's Teamwork! | 0.90% | ~4,997 |
+| Fit as a Fiddle | 0.90% | ~4,997 |
+| Enter the Hall | 0.90% | ~1,806 |
 | Night of Terrors | 0.80% | ~1,605 |
 | Find Anything Interesting? | 0.70% | ~3,886 |
 | Boot Licker | 0.70% | ~3,886 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~201 |
 | Connoisseur | 0.10% | ~201 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 555,164 (Ranked 22)  
+Progressed: 555,188 (Ranked 22)  
 Completed: 49 (0.01%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,17 +105,17 @@ Completed: 49 (0.01%) (Ranked 193)
 | 2023-05-20 | 551,878 | 49 |
 | 2023-05-21 | 553,306 | 49 |
 | 2023-05-22 | 554,295 | 49 |
-| 2023-05-23 | 555,164 | 49 |
+| 2023-05-23 | 555,188 | 49 |
 ## Awards
 Max (Character Customization): 7,172  (Ranked 44)  
-Sum: 16,218 (Ranked 59)  
+Sum: 16,222 (Ranked 59)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,172 |
 | This game has Great Boss Battles | 4,207 |
 | This game is Great for Beginners | 649 |
-| This game is Highly Recommended | 622 |
+| This game is Highly Recommended | 626 |
 | This game has Amazing Characters | 612 |
 | This game is Extremely Fun | 610 |
 | This game has Diverse Characters | 604 |
@@ -258,4 +258,4 @@ Diff (max vs sum): -15
 | 2023-05-20 | 4.58 | - | 7,135 | 16,576 |
 | 2023-05-21 | 4.58 | - | 7,148 | 16,618 |
 | 2023-05-22 | 4.58 | - | 7,162 | 16,658 |
-| 2023-05-23 | 4.58 | - | 7,172 | 16,218 |
+| 2023-05-23 | 4.58 | - | 7,172 | 16,222 |

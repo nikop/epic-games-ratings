@@ -2,7 +2,7 @@
   "ID": "be0b0131d4ba482b99007bdd5f705d9a",
   "Name": "Ikaruga",
   "ProductSlug": "ikaruga-a200be",
-  "Ranking_EOS_Progress": 415,
+  "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 82,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:47.162835+00:00",
   "LastChanged": "2023-03-31T05:57:47.1628351+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:09:42.8513278+00:00",
-  "LastUpdate_Ratings": "2023-05-23T22:00:33.9245165+00:00",
-  "LastUpdate_Achievements": "2023-05-23T22:05:15.6910439+00:00"
+  "LastUpdate_Ratings": "2023-05-23T23:00:39.8009753+00:00",
+  "LastUpdate_Achievements": "2023-05-23T23:05:31.9096548+00:00"
 }

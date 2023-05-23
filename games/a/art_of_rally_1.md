@@ -6,19 +6,19 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,621 |
-| keep it tidy | 77.00% | ~7,717 |
-| podium | 72.00% | ~7,216 |
-| medium attack | 59.00% | ~5,913 |
-| brail | 56.00% | ~5,612 |
+| light attack | 96.00% | ~9,622 |
+| keep it tidy | 77.00% | ~7,718 |
+| podium | 72.00% | ~7,217 |
+| medium attack | 59.00% | ~5,914 |
+| brail | 56.00% | ~5,613 |
 | grocery-getter | 39.00% | ~3,909 |
 | good drivers have dead flies on the side windows | 39.00% | ~3,909 |
 | rwd only | 26.00% | ~2,606 |
 | food tour: pasta | 26.00% | ~2,606 |
 | to finish first, first you must finish | 21.00% | ~2,105 |
 | you can't treat a car like a human being. a car requires love | 21.00% | ~2,105 |
-| autopilot | 20.00% | ~2,004 |
-| turbo | 20.00% | ~2,004 |
+| autopilot | 20.00% | ~2,005 |
+| turbo | 20.00% | ~2,005 |
 | food tour: pretzel | 19.00% | ~1,904 |
 | bicycle race | 15.00% | ~1,503 |
 | monster | 14.00% | ~1,403 |
@@ -27,8 +27,8 @@ Number of Ratings: 56  (23.09.2022)
 | night ride | 12.00% | ~1,203 |
 | the artist | 12.00% | ~1,203 |
 | snorkel | 12.00% | ~1,203 |
-| where is the stage? | 11.00% | ~1,102 |
-| maximum attack | 11.00% | ~1,102 |
+| where is the stage? | 11.00% | ~1,103 |
+| maximum attack | 11.00% | ~1,103 |
 | espresso | 10.00% | ~1,002 |
 | parallel universe | 9.00% | ~902 |
 | samir | 8.00% | ~802 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~40 |
 | barely keeping it together | 0.30% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,022 (Ranked 107)  
+Progressed: 10,023 (Ranked 107)  
 Completed: 9 (0.09%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 9 (0.09%) (Ranked 163)
 | 2023-05-19 | 10,008 | 9 |
 | 2023-05-20 | 10,012 | 9 |
 | 2023-05-21 | 10,021 | 9 |
-| 2023-05-23 | 10,022 | 9 |
+| 2023-05-23 | 10,023 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

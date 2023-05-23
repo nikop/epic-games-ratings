@@ -2,7 +2,7 @@
   "ID": "aa102e1c575d42868a11ac8e79af2126",
   "Name": "Partisans 1941",
   "ProductSlug": "partisans-1941",
-  "Ranking_Rating": 357,
+  "Ranking_Rating": 358,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 169,
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 925,
+  "EOS_Progressed": 926,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -660,6 +660,11 @@
       "Time": "2023-05-23T18:06:06.3685571+00:00",
       "NumProgressed": 925,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-23T23:06:42.430297+00:00",
+      "NumProgressed": 926,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -671,7 +676,7 @@
       "Name": "Agent 47",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "Auditor",
@@ -703,7 +708,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "Commandos",
@@ -855,7 +860,7 @@
       "Name": "Bomberman",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "MoskitoBite",
@@ -879,7 +884,7 @@
       "Name": "Strategist",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "War_never_changes",
@@ -903,22 +908,22 @@
       "Name": "Your Answer",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     }
   ],
   "AchievementSets": [
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 925,
+      "Progressed": 926,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-05-23T22:06:26.7643784+00:00",
+  "LastChanged_Achievements": "2023-05-23T23:06:42.4302961+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:35.4826245+00:00",
-  "LastUpdate_Ratings": "2023-05-23T21:59:46.2007897+00:00",
-  "LastUpdate_Achievements": "2023-05-23T22:06:26.7644011+00:00"
+  "LastUpdate_Ratings": "2023-05-23T22:59:49.1828666+00:00",
+  "LastUpdate_Achievements": "2023-05-23T23:06:42.4303361+00:00"
 }

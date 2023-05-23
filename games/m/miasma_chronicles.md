@@ -4,17 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 79.00% | ~111 |
-| Ranidaphobia | 31.00% | ~44 |
-| Aspiring Editor | 18.00% | ~25 |
-| Gun for Hire | 13.00% | ~18 |
-| I am the law! | 1.00% | ~1 |
-| Newtonian Knockout | 1.00% | ~1 |
+| First Blood | 81.00% | ~122 |
+| Ranidaphobia | 36.00% | ~54 |
+| Aspiring Editor | 23.00% | ~35 |
+| Gun for Hire | 15.00% | ~23 |
+| I am the law! | 3.00% | ~5 |
+| Newtonian Knockout | 1.00% | ~2 |
 | Are you not entertained? | 0.70% | ~1 |
 | Commando | 0.70% | ~1 |
+| Curveball | 0.70% | ~1 |
 | Ganglord | 0.70% | ~1 |
 | Jarhead | 0.70% | ~1 |
 | Dr Jones | 0.70% | ~1 |
+| Firestarter | 0.70% | ~1 |
 | Giant Killer | 0.70% | ~1 |
 | Infiltrator | 0.70% | ~1 |
 | Lumberjack | 0.70% | ~1 |
@@ -33,14 +35,12 @@
 | Chaos Theory | 0.00% | ~0 |
 | Croaked | 0.00% | ~0 |
 | Cruelty | 0.00% | ~0 |
-| Curveball | 0.00% | ~0 |
 | Limp Richard | 0.00% | ~0 |
 | Dressed To Kill | 0.00% | ~0 |
 | Editor Adept | 0.00% | ~0 |
 | Endgame | 0.00% | ~0 |
 | Exorcist | 0.00% | ~0 |
 | Experienced | 0.00% | ~0 |
-| Firestarter | 0.00% | ~0 |
 | Five Finger Deathcount | 0.00% | ~0 |
 | Fratricide | 0.00% | ~0 |
 | From Darkness to Light | 0.00% | ~0 |
@@ -56,9 +56,9 @@
 | The meaning of Kain | 0.00% | ~0 |
 | Wipe Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141 (Ranked 252)  
+Progressed: 151 (Ranked 248)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-05-23 | 141 | 0 |
+| 2023-05-23 | 151 | 0 |

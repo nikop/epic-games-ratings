@@ -258,9 +258,9 @@
       "ID": "Level_completed_005_003",
       "SetID": "6od1ndi",
       "Name": "Onk Boga V",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "Level_completed_006_004",
@@ -322,9 +322,9 @@
       "ID": "Toad_exploded_in_003",
       "SetID": "6od1ndi",
       "Name": "BumBum",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 35,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "Won_over_Octoboss_in_005",
@@ -347,8 +347,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-05-23T22:06:22.8437501+00:00",
+  "LastChanged_Achievements": "2023-05-23T23:06:38.5198788+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:25.4163927+00:00",
-  "LastUpdate_Ratings": "2023-05-23T22:00:27.4803063+00:00",
-  "LastUpdate_Achievements": "2023-05-23T22:06:22.8437677+00:00"
+  "LastUpdate_Ratings": "2023-05-23T23:00:33.33768+00:00",
+  "LastUpdate_Achievements": "2023-05-23T23:06:38.5198973+00:00"
 }

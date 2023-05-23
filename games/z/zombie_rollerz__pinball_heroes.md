@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 93.00% | ~66 |
-| Bullseye! | 87.00% | ~62 |
-| Villfir Forest | 82.00% | ~58 |
-| Graduation! | 77.00% | ~55 |
-| Right in the kisser! | 66.00% | ~47 |
+| Level Up! | 93.00% | ~67 |
+| Bullseye! | 88.00% | ~63 |
+| Villfir Forest | 81.00% | ~58 |
+| Graduation! | 79.00% | ~57 |
+| Right in the kisser! | 65.00% | ~47 |
 | The Shaman | 56.00% | ~40 |
 | Duscot Steamcity | 56.00% | ~40 |
-| The Penguin | 52.00% | ~37 |
+| The Penguin | 51.00% | ~37 |
 | The Magician | 49.00% | ~35 |
-| The Thrower | 45.00% | ~32 |
-| The Tunneler | 45.00% | ~32 |
-| Level Up!! | 41.00% | ~29 |
-| The Shield | 41.00% | ~29 |
+| The Thrower | 44.00% | ~32 |
+| The Tunneler | 44.00% | ~32 |
+| Level Up!! | 40.00% | ~29 |
+| The Shield | 40.00% | ~29 |
 | Kill-streak | 38.00% | ~27 |
 | The Bird | 32.00% | ~23 |
-| The Idol | 30.00% | ~21 |
-| Inferno Ruins | 30.00% | ~21 |
+| The Idol | 29.00% | ~21 |
+| Inferno Ruins | 29.00% | ~21 |
 | Topped up | 28.00% | ~20 |
-| The Ninja | 27.00% | ~19 |
+| The Ninja | 26.00% | ~19 |
 | I'm Rich | 25.00% | ~18 |
 | Untouchable | 24.00% | ~17 |
 | 1 is all I need | 21.00% | ~15 |
@@ -78,7 +78,7 @@
 | Satellite | 0.00% | ~0 |
 | Zombie Slayer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 71 (Ranked 277)  
+Progressed: 72 (Ranked 277)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-19 | 64 | 0 |
 | 2023-05-20 | 66 | 0 |
 | 2023-05-21 | 70 | 0 |
-| 2023-05-23 | 71 | 0 |
+| 2023-05-23 | 72 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

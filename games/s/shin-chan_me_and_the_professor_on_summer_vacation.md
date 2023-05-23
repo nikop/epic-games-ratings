@@ -51,7 +51,7 @@
 | Gumdum Robot, I Choose You! | 0.00% | ~0 |
 | Dinosaur Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24 (Ranked 313)  
+Progressed: 24 (Ranked 314)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |

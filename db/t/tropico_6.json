@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -852,9 +852,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 3043,
+  "EOS_Progressed": 3044,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2667,6 +2667,11 @@
       "Time": "2023-05-23T22:06:38.5054742+00:00",
       "NumProgressed": 3043,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-23T23:06:54.2976475+00:00",
+      "NumProgressed": 3044,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2838,7 +2843,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2343
+      "UsersEstimate": 2344
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -2934,7 +2939,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 1491
+      "UsersEstimate": 1492
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -2950,7 +2955,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -2982,7 +2987,7 @@
       "Name": "French Connection",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -2997,15 +3002,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3043,
+      "Progressed": 3044,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-15T17:00:44.7999652+00:00",
-  "LastChanged_Achievements": "2023-05-23T22:06:38.5054737+00:00",
+  "LastChanged_Achievements": "2023-05-23T23:06:54.2976469+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:57.2781106+00:00",
-  "LastUpdate_Ratings": "2023-05-23T22:00:50.4687889+00:00",
-  "LastUpdate_Achievements": "2023-05-23T22:06:38.505524+00:00"
+  "LastUpdate_Ratings": "2023-05-23T23:00:56.1502319+00:00",
+  "LastUpdate_Achievements": "2023-05-23T23:06:54.2976915+00:00"
 }

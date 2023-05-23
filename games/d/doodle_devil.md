@@ -12,7 +12,7 @@
 | Warm and Fuzzy | 45.00% | ~33 |
 | Master of Warfare | 34.00% | ~25 |
 | Vicious Delicious | 27.00% | ~20 |
-| Hellfire | 23.00% | ~17 |
+| Hellfire | 25.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 73 (Ranked 275)  
 Completed: 15 (20.55%) (Ranked 6)  

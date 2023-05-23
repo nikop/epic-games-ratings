@@ -1,12 +1,12 @@
 # Ticket to Ride
 [Store](https://store.epicgames.com/en-US/p/ticket-to-ride)  
 [View Rawdata](../../db/t/ticket_to_ride.json)  
-Rating: 4.61 (Ranked 357)  
+Rating: 4.62 (Ranked 341)  
 Number of Ratings: 167  (23.09.2022)  
 ## Awards
 Max (Great for Quick Sessions): 63  (Ranked 372)  
-Sum: 353 (Ranked 315)  
-Diff (max vs sum): 57  
+Sum: 373 (Ranked 311)  
+Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 63 |
@@ -20,6 +20,7 @@ Diff (max vs sum): 57
 | This game has Playful Visuals | 30 |
 | This game has Amazing Characters | 24 |
 | This game has Amazing Storytelling | 21 |
+| This game has a Competitive Community | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -101,3 +102,4 @@ Diff (max vs sum): 57
 | 2023-04-30 | 4.61 | - | 63 | 351 |
 | 2023-05-06 | 4.61 | - | 63 | 352 |
 | 2023-05-14 | 4.61 | - | 63 | 353 |
+| 2023-05-23 | 4.62 | - | 63 | 373 |

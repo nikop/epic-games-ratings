@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 188,
+  "EOS_Progressed": 189,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -774,6 +774,11 @@
       "Time": "2023-05-23T21:05:34.5804504+00:00",
       "NumProgressed": 188,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-23T23:06:28.2578616+00:00",
+      "NumProgressed": 189,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -833,7 +838,7 @@
       "Name": "French Flair",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -841,7 +846,7 @@
       "Name": "So Clean You Can Eat Off the Floor",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "Clothes10",
@@ -969,7 +974,7 @@
       "Name": "Next Level Cuisine",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "PerfectGrade25",
@@ -1039,9 +1044,9 @@
       "ID": "StaffMemberSpecialityDishes10",
       "SetID": "d1bm05f",
       "Name": "You\u0027re the Expert!",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 62
     },
     {
       "ID": "TrattoriaSet",
@@ -1104,7 +1109,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 188,
+      "Progressed": 189,
       "Completed": 0
     }
   ],
@@ -1112,8 +1117,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-23T22:06:12.3500384+00:00",
+  "LastChanged_Achievements": "2023-05-23T23:06:28.2578606+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.318416+00:00",
-  "LastUpdate_Ratings": "2023-05-23T21:58:43.7175778+00:00",
-  "LastUpdate_Achievements": "2023-05-23T22:06:12.350093+00:00"
+  "LastUpdate_Ratings": "2023-05-23T22:58:46.3454401+00:00",
+  "LastUpdate_Achievements": "2023-05-23T23:06:28.2579193+00:00"
 }

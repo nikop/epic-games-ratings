@@ -18,7 +18,7 @@
 | Saw Speedrun | 0.00% | ~0 |
 | Snowy Shortcut | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 366)  
+Progressed: 3 (Ranked 367)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |

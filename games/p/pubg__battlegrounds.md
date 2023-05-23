@@ -1,26 +1,26 @@
 # PUBG: BATTLEGROUNDS
 [Store](https://store.epicgames.com/en-US/p/pubg-59c1d9)  
 [View Rawdata](../../db/p/pubg__battlegrounds.json)  
-Rating: 3.98 (Ranked 891)  
+Rating: 3.98 (Ranked 892)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 74.00% | ~274,827 |
-| Health Junkie | 45.00% | ~167,125 |
-| You Complete Me | 41.00% | ~152,269 |
-| Guardian Angel | 39.00% | ~144,841 |
-| Devil Inside Me | 31.00% | ~115,130 |
-| Killing Spree | 22.00% | ~81,705 |
-| Fantastic Four | 21.00% | ~77,991 |
-| Marksman Novice | 20.00% | ~74,278 |
-| First Blood | 13.00% | ~48,280 |
-| Top 10 | 13.00% | ~48,280 |
-| Now You See Me, Now You Don't | 12.00% | ~44,567 |
-| Marksman Expert | 9.00% | ~33,425 |
-| CQB Novice | 8.00% | ~29,711 |
-| Collateral Damage | 7.00% | ~25,997 |
-| Airborne | 6.00% | ~22,283 |
-| Pacifist | 6.00% | ~22,283 |
+| Blood on My Hands | 74.00% | ~274,843 |
+| Health Junkie | 45.00% | ~167,134 |
+| You Complete Me | 41.00% | ~152,278 |
+| Guardian Angel | 39.00% | ~144,850 |
+| Devil Inside Me | 31.00% | ~115,137 |
+| Killing Spree | 22.00% | ~81,710 |
+| Fantastic Four | 21.00% | ~77,996 |
+| Marksman Novice | 20.00% | ~74,282 |
+| First Blood | 13.00% | ~48,283 |
+| Top 10 | 13.00% | ~48,283 |
+| Now You See Me, Now You Don't | 12.00% | ~44,569 |
+| Marksman Expert | 9.00% | ~33,427 |
+| CQB Novice | 8.00% | ~29,713 |
+| Collateral Damage | 7.00% | ~25,999 |
+| Airborne | 6.00% | ~22,285 |
+| Pacifist | 6.00% | ~22,285 |
 | Last Survivor | 4.00% | ~14,856 |
 | Marksman Master | 4.00% | ~14,856 |
 | Trigonometry Novice | 4.00% | ~14,856 |
@@ -43,7 +43,7 @@ Rating: 3.98 (Ranked 891)
 | The First Rule Is… | 0.10% | ~371 |
 | Shoot the Knee | 0.10% | ~371 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 371,388 (Ranked 36)  
+Progressed: 371,409 (Ranked 36)  
 Completed: 8 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 8 (0.00%) (Ranked 202)
 | 2023-05-20 | 367,762 | 8 |
 | 2023-05-21 | 369,462 | 8 |
 | 2023-05-22 | 370,530 | 8 |
-| 2023-05-23 | 371,388 | 8 |
+| 2023-05-23 | 371,409 | 8 |
 ## Awards
 Max (Competitive Players): 1,992  (Ranked 103)  
 Sum: 8,305 (Ranked 90)  

@@ -14,7 +14,7 @@
 | Blue's drawing | 53.00% | ~77 |
 | Glass shards | 45.00% | ~66 |
 | Mysterious footprints | 44.00% | ~64 |
-| Complicated padlock | 42.00% | ~61 |
+| Complicated padlock | 43.00% | ~63 |
 | Big metal ruler | 41.00% | ~60 |
 | Doll | 37.00% | ~54 |
 | Windmill | 36.00% | ~53 |
@@ -31,7 +31,7 @@
 | Hope | 5.00% | ~7 |
 | Hairball | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 146 (Ranked 251)  
+Progressed: 146 (Ranked 252)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |

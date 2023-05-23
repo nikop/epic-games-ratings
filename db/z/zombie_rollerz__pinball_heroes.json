@@ -4,7 +4,7 @@
   "ProductSlug": "zombie-rollerz-7aa027",
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 71,
+  "EOS_Progressed": 72,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -136,6 +136,11 @@
       "Time": "2023-05-23T13:12:44.4930153+00:00",
       "NumProgressed": 71,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-23T23:06:49.6090408+00:00",
+      "NumProgressed": 72,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 73,
@@ -161,7 +166,7 @@
       "ID": "CLG_LEVEL_BALLISTASHOT",
       "SetID": "89cjc9l",
       "Name": "Right in the kisser!",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 10,
       "UsersEstimate": 47
     },
@@ -169,9 +174,9 @@
       "ID": "CLG_LEVEL_BULLSEYE",
       "SetID": "89cjc9l",
       "Name": "Bullseye!",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "CLG_LEVEL_COMBO",
@@ -195,13 +200,13 @@
       "Name": "Level Up!",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "CLG_RUN_LEVELUP_2",
       "SetID": "89cjc9l",
       "Name": "Level Up!!",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 29
     },
@@ -225,7 +230,7 @@
       "ID": "CLG_UNLOCK_10002",
       "SetID": "89cjc9l",
       "Name": "The Penguin",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 15,
       "UsersEstimate": 37
     },
@@ -233,7 +238,7 @@
       "ID": "CLG_UNLOCK_10003",
       "SetID": "89cjc9l",
       "Name": "The Idol",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
       "UsersEstimate": 21
     },
@@ -369,7 +374,7 @@
       "ID": "PRG_BOSS_NINJA",
       "SetID": "89cjc9l",
       "Name": "The Ninja",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
       "UsersEstimate": 19
     },
@@ -385,7 +390,7 @@
       "ID": "PRG_BOSS_SHIELD",
       "SetID": "89cjc9l",
       "Name": "The Shield",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 29
     },
@@ -401,7 +406,7 @@
       "ID": "PRG_BOSS_THROWER",
       "SetID": "89cjc9l",
       "Name": "The Thrower",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
       "UsersEstimate": 32
     },
@@ -409,7 +414,7 @@
       "ID": "PRG_BOSS_TUNNELER",
       "SetID": "89cjc9l",
       "Name": "The Tunneler",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
       "UsersEstimate": 32
     },
@@ -417,7 +422,7 @@
       "ID": "PRG_CHAPTER_1",
       "SetID": "89cjc9l",
       "Name": "Villfir Forest",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 10,
       "UsersEstimate": 58
     },
@@ -433,7 +438,7 @@
       "ID": "PRG_CHAPTER_3",
       "SetID": "89cjc9l",
       "Name": "Inferno Ruins",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 21
     },
@@ -721,16 +726,16 @@
       "ID": "PRG_SP_arcadeFTUX",
       "SetID": "89cjc9l",
       "Name": "Graduation!",
-      "Percentage": 77,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 57
     }
   ],
   "AchievementSets": [
     {
       "ID": "89cjc9l",
       "IsBase": true,
-      "Progressed": 71,
+      "Progressed": 72,
       "Completed": 0
     }
   ],
@@ -738,8 +743,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-05-23T22:06:34.0804728+00:00",
+  "LastChanged_Achievements": "2023-05-23T23:06:49.6090398+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:01.3689294+00:00",
-  "LastUpdate_Ratings": "2023-05-23T21:57:36.2941043+00:00",
-  "LastUpdate_Achievements": "2023-05-23T22:06:34.0805836+00:00"
+  "LastUpdate_Ratings": "2023-05-23T22:57:39.6033235+00:00",
+  "LastUpdate_Achievements": "2023-05-23T23:06:49.609172+00:00"
 }

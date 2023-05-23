@@ -2,7 +2,7 @@
   "ID": "9cfcd514aebc476dbf35e2b9bd6ea89d",
   "Name": "Vernal Edge",
   "ProductSlug": "vernal-edge-fdfa3e",
-  "Ranking_EOS_Progress": 415,
+  "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 82,
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:58:12.3279907+00:00",
   "LastChanged": "2023-03-31T05:58:12.3279908+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:19.3046574+00:00",
-  "LastUpdate_Ratings": "2023-05-23T21:57:56.8979885+00:00",
-  "LastUpdate_Achievements": "2023-05-23T22:01:28.6473532+00:00"
+  "LastUpdate_Ratings": "2023-05-23T22:57:59.6508522+00:00",
+  "LastUpdate_Achievements": "2023-05-23T23:01:34.5727006+00:00"
 }

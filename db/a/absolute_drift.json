@@ -430,9 +430,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1518165,
+  "EOS_Progressed": 1518172,
   "EOS_Completed": 610,
-  "EOS_NewPlayers": 1440,
+  "EOS_NewPlayers": 1445,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -3720,6 +3720,11 @@
       "Time": "2023-05-23T22:02:18.3881976+00:00",
       "NumProgressed": 1518165,
       "NumCompleted": 610
+    },
+    {
+      "Time": "2023-05-23T23:02:23.3794279+00:00",
+      "NumProgressed": 1518172,
+      "NumCompleted": 610
     }
   ],
   "TotalAchievements": 20,
@@ -3827,7 +3832,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 151816
+      "UsersEstimate": 151817
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -3843,7 +3848,7 @@
       "Name": "Multiplier Master",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 121453
+      "UsersEstimate": 121454
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -3851,7 +3856,7 @@
       "Name": "Sake Bombs",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 13663
+      "UsersEstimate": 13664
     },
     {
       "ID": "ACH_SPIN_DOCTOR",
@@ -3875,7 +3880,7 @@
       "Name": "The Long Drift",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 75908
+      "UsersEstimate": 75909
     },
     {
       "ID": "ACH_WASHING_MACHINE",
@@ -3883,22 +3888,22 @@
       "Name": "Washing Machine",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 4554
+      "UsersEstimate": 4555
     }
   ],
   "AchievementSets": [
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1518165,
+      "Progressed": 1518172,
       "Completed": 610
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-05-11T20:59:51.5036091+00:00",
-  "LastChanged_Achievements": "2023-05-23T22:02:18.3881969+00:00",
+  "LastChanged_Achievements": "2023-05-23T23:02:23.3794273+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:12:08.1362711+00:00",
-  "LastUpdate_Ratings": "2023-05-23T22:00:44.2246555+00:00",
-  "LastUpdate_Achievements": "2023-05-23T22:02:18.3882323+00:00"
+  "LastUpdate_Ratings": "2023-05-23T23:00:49.826343+00:00",
+  "LastUpdate_Achievements": "2023-05-23T23:02:23.3794749+00:00"
 }
