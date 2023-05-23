@@ -6,16 +6,16 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~34,446 |
-| Worth it | 63.00% | ~28,183 |
-| Eagle Eye | 55.00% | ~24,604 |
-| Corpseman I | 40.00% | ~17,894 |
-| Blast fishing | 38.00% | ~16,999 |
-| Not alone | 32.00% | ~14,315 |
-| Headhunter I | 27.00% | ~12,078 |
+| Setting an example | 77.00% | ~34,447 |
+| Worth it | 63.00% | ~28,184 |
+| Eagle Eye | 55.00% | ~24,605 |
+| Corpseman I | 40.00% | ~17,895 |
+| Blast fishing | 38.00% | ~17,000 |
+| Not alone | 32.00% | ~14,316 |
+| Headhunter I | 27.00% | ~12,079 |
 | Manual Labour I | 25.00% | ~11,184 |
-| Developers, Developers, Developers | 24.00% | ~10,736 |
-| Basic Training | 24.00% | ~10,736 |
+| Developers, Developers, Developers | 24.00% | ~10,737 |
+| Basic Training | 24.00% | ~10,737 |
 | Furchtlos und Treu | 13.00% | ~5,816 |
 | Gott Mit Uns | 12.00% | ~5,368 |
 | This We'll Defend! | 9.00% | ~4,026 |
@@ -23,8 +23,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | Providentiea Memor | 9.00% | ~4,026 |
 | For King and Country | 9.00% | ~4,026 |
 | Battle hardened | 8.00% | ~3,579 |
-| Semper Fidelis! | 7.00% | ~3,131 |
-| Honneur et Patrie | 7.00% | ~3,131 |
+| Semper Fidelis! | 7.00% | ~3,132 |
+| Honneur et Patrie | 7.00% | ~3,132 |
 | In Treue Fest | 5.00% | ~2,237 |
 | Voor De Koning | 5.00% | ~2,237 |
 | Extreme Headhunter | 5.00% | ~2,237 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~45 |
 | Blood Brother | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,735 (Ranked 77)  
+Progressed: 44,737 (Ranked 77)  
 Completed: 2 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 2 (0.00%) (Ranked 201)
 | 2023-05-20 | 44,407 | 2 |
 | 2023-05-21 | 44,588 | 2 |
 | 2023-05-22 | 44,716 | 2 |
-| 2023-05-23 | 44,735 | 2 |
+| 2023-05-23 | 44,737 | 2 |
 ## Awards
 Max (Highly Recommended): 93  (Ranked 332)  
 Sum: 736 (Ranked 257)  

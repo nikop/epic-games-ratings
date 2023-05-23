@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -770,9 +770,9 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 7325,
+  "EOS_Progressed": 7326,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1275,6 +1275,11 @@
       "Time": "2023-05-23T05:05:49.8794887+00:00",
       "NumProgressed": 7325,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-23T07:05:03.2583151+00:00",
+      "NumProgressed": 7326,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -1294,7 +1299,7 @@
       "Name": "Too Much of a Talker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "ColdBlood",
@@ -1350,7 +1355,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1831
+      "UsersEstimate": 1832
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -1366,7 +1371,7 @@
       "Name": "Go Home...",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1831
+      "UsersEstimate": 1832
     },
     {
       "ID": "HeroSlayer",
@@ -1422,7 +1427,7 @@
       "Name": "Quick Movements",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 2417
+      "UsersEstimate": 2418
     },
     {
       "ID": "SkeletonKing",
@@ -1430,7 +1435,7 @@
       "Name": "The Skeleton King",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "StockManagement",
@@ -1438,7 +1443,7 @@
       "Name": "Inventory Management",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2417
+      "UsersEstimate": 2418
     },
     {
       "ID": "TheLegendBegins",
@@ -1446,7 +1451,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 6812
+      "UsersEstimate": 6813
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -1470,22 +1475,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6080
+      "UsersEstimate": 6081
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7325,
+      "Progressed": 7326,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-05-22T09:59:21.5443518+00:00",
-  "LastChanged_Achievements": "2023-05-23T06:05:53.9281748+00:00",
+  "LastChanged_Achievements": "2023-05-23T07:05:03.2583146+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.259325+00:00",
-  "LastUpdate_Ratings": "2023-05-23T05:59:08.8787264+00:00",
-  "LastUpdate_Achievements": "2023-05-23T06:05:53.9282053+00:00"
+  "LastUpdate_Ratings": "2023-05-23T06:58:35.7923128+00:00",
+  "LastUpdate_Achievements": "2023-05-23T07:05:03.2583296+00:00"
 }

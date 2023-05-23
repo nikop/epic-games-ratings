@@ -31,9 +31,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Old Child | 0.60% | ~4,228 |
 | Kung-Fu Tussle | 0.60% | ~4,228 |
 | Deadly Venom | 0.60% | ~84 |
-| Dance of the Praying Mantis | 0.50% | ~3,523 |
-| Qi Gong: Mind | 0.50% | ~3,523 |
-| I know Kung-Fu | 0.50% | ~3,523 |
+| Dance of the Praying Mantis | 0.50% | ~3,524 |
+| Qi Gong: Mind | 0.50% | ~3,524 |
+| I know Kung-Fu | 0.50% | ~3,524 |
 | A Touch of Acumen | 0.50% | ~70 |
 | Muk Yan Master | 0.40% | ~2,819 |
 | Tiger on Fire | 0.40% | ~2,819 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~705 |
 | Warriors from the Mountain | 0.10% | ~705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,699 (Ranked 15)  
+Progressed: 704,704 (Ranked 15)  
 Completed: 12,733 (1.81%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 12,733 (1.81%) (Ranked 64)
 | 2023-05-20 | 704,036 | 12,732 |
 | 2023-05-21 | 704,407 | 12,733 |
 | 2023-05-22 | 704,647 | 12,733 |
-| 2023-05-23 | 704,699 | 12,733 |
+| 2023-05-23 | 704,704 | 12,733 |
 ## Awards
 Max (Great Boss Battles): 6,084  (Ranked 53)  
 Sum: 10,355 (Ranked 77)  

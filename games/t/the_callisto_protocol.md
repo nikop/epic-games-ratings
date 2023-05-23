@@ -23,10 +23,10 @@ Rating: 4.18 (Ranked 831)
 | Reforged | 0.60% | ~80 |
 | In Striking Distance | 0.50% | ~67 |
 | Workplace Hazard | 0.50% | ~67 |
+| Two Heads Are Better Than One | 0.40% | ~53 |
 | Terminated | 0.40% | ~53 |
 | Grim Reaper | 0.30% | ~40 |
 | I Do Belong Here | 0.30% | ~40 |
-| Two Heads Are Better Than One | 0.30% | ~40 |
 | Paper Jams | 0.20% | ~27 |
 | It's over, Jacob! | 0.10% | ~13 |
 | Armed to the Teeth | 0.10% | ~1 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 831)
 | I am the Danger | 0.00% | ~0 |
 | Subject Alpha | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,362 (Ranked 101)  
+Progressed: 13,365 (Ranked 101)  
 Completed: 52 (0.39%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 52 (0.39%) (Ranked 112)
 | 2023-05-20 | 13,057 | 51 |
 | 2023-05-21 | 13,223 | 52 |
 | 2023-05-22 | 13,347 | 52 |
-| 2023-05-23 | 13,362 | 52 |
+| 2023-05-23 | 13,365 | 52 |
 ## Awards
 Max (Amazing Storytelling): 46  (Ranked 397)  
 Sum: 247 (Ranked 341)  

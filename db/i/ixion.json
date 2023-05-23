@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -1207,9 +1207,9 @@
       "ID": "ACH_BASE_17",
       "SetID": "92iocjf",
       "Name": "What They Hide From Us",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_BASE_18",
@@ -1622,8 +1622,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-05-13T22:58:30.2604361+00:00",
-  "LastChanged_Achievements": "2023-05-23T06:06:01.245279+00:00",
+  "LastChanged_Achievements": "2023-05-23T07:05:09.6069923+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.7103468+00:00",
-  "LastUpdate_Ratings": "2023-05-23T05:58:37.0958674+00:00",
-  "LastUpdate_Achievements": "2023-05-23T06:06:01.2453431+00:00"
+  "LastUpdate_Ratings": "2023-05-23T06:58:09.5865485+00:00",
+  "LastUpdate_Achievements": "2023-05-23T07:05:09.6070408+00:00"
 }

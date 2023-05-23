@@ -11,7 +11,7 @@ Number of Ratings: 524  (23.09.2022)
 | Float Like a Butterfly | 16.00% | ~7,492 |
 | Nordic Walking | 13.00% | ~6,087 |
 | Bright Falls' Finest | 13.00% | ~6,087 |
-| Under a Thin Layer of Skin | 11.00% | ~5,150 |
+| Under a Thin Layer of Skin | 11.00% | ~5,151 |
 | Paging Mr. Wake | 10.00% | ~4,682 |
 | Park Ranger | 9.00% | ~4,214 |
 | Back! Back, I Say! | 9.00% | ~4,214 |
@@ -30,15 +30,15 @@ Number of Ratings: 524  (23.09.2022)
 | Thunder and Lightning | 7.00% | ~3,278 |
 | Collateral Carnage | 7.00% | ~3,278 |
 | Come One, Come All | 7.00% | ~3,278 |
-| Gatekeeper | 6.00% | ~2,809 |
-| The Lady of the Light | 6.00% | ~2,809 |
-| Two For the Price of One | 6.00% | ~2,809 |
-| Energized! | 6.00% | ~2,809 |
-| A Friend Indeed | 6.00% | ~617 |
+| Gatekeeper | 6.00% | ~2,810 |
+| The Lady of the Light | 6.00% | ~2,810 |
+| Two For the Price of One | 6.00% | ~2,810 |
+| Energized! | 6.00% | ~2,810 |
+| A Friend Indeed | 6.00% | ~618 |
 | Tornado Wrangler | 5.00% | ~2,341 |
 | What Light Through Yonder Window | 5.00% | ~2,341 |
 | Right of Way | 5.00% | ~2,341 |
-| Ding! | 5.00% | ~514 |
+| Ding! | 5.00% | ~515 |
 | Departure | 4.00% | ~1,873 |
 | Boob Tube | 3.00% | ~1,405 |
 | Children of the Elder God | 3.00% | ~1,405 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~47 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,822 (Ranked 76)  
+Progressed: 46,825 (Ranked 76)  
 Completed: 45 (0.10%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 45 (0.10%) (Ranked 158)
 | 2023-05-20 | 46,523 | 45 |
 | 2023-05-21 | 46,674 | 45 |
 | 2023-05-22 | 46,794 | 45 |
-| 2023-05-23 | 46,822 | 45 |
+| 2023-05-23 | 46,825 | 45 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

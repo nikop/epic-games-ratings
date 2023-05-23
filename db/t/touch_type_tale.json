@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2735,
+  "EOS_Progressed": 2736,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1174,6 +1174,11 @@
       "Time": "2023-05-23T04:06:10.5133949+00:00",
       "NumProgressed": 2735,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-23T07:05:34.3448187+00:00",
+      "NumProgressed": 2736,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1193,7 +1198,7 @@
       "Name": "Sniped",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "bonus3",
@@ -1241,7 +1246,7 @@
       "Name": "Leave Them no Cake",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "campaign11",
@@ -1257,7 +1262,7 @@
       "Name": "Would be a Shame if Someone Would Waste Those Units",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "campaign13",
@@ -1321,7 +1326,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2188
+      "UsersEstimate": 2189
     },
     {
       "ID": "campaign20",
@@ -1393,7 +1398,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "scenario2",
@@ -1448,7 +1453,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2735,
+      "Progressed": 2736,
       "Completed": 9
     }
   ],
@@ -1456,8 +1461,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-23T06:06:29.7786685+00:00",
+  "LastChanged_Achievements": "2023-05-23T07:05:34.3448181+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:08.6918917+00:00",
-  "LastUpdate_Ratings": "2023-05-23T06:00:33.4635343+00:00",
-  "LastUpdate_Achievements": "2023-05-23T06:06:29.778703+00:00"
+  "LastUpdate_Ratings": "2023-05-23T06:59:40.8078445+00:00",
+  "LastUpdate_Achievements": "2023-05-23T07:05:34.3448427+00:00"
 }

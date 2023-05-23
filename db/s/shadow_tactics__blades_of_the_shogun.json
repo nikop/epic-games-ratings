@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 37,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -1129,10 +1129,10 @@
       "Count": 242
     }
   ],
-  "EOS_Progressed": 169962,
-  "EOS_Completed": 44,
-  "EOS_NewPlayers": 2096,
-  "EOS_NewCompleters": 0,
+  "EOS_Progressed": 169970,
+  "EOS_Completed": 45,
+  "EOS_NewPlayers": 2095,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
     {
@@ -4369,6 +4369,11 @@
       "Time": "2023-05-23T06:06:16.534315+00:00",
       "NumProgressed": 169962,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2023-05-23T07:05:22.7486496+00:00",
+      "NumProgressed": 169970,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 44,
@@ -4380,7 +4385,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 11897
+      "UsersEstimate": 11898
     },
     {
       "ID": "AtheistOx",
@@ -4436,7 +4441,7 @@
       "Name": "Flying Rocks",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 6798
+      "UsersEstimate": 6799
     },
     {
       "ID": "GearUp",
@@ -4452,7 +4457,7 @@
       "Name": "Genin",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 16996
+      "UsersEstimate": 16997
     },
     {
       "ID": "HappyLittleAccidents",
@@ -4556,7 +4561,7 @@
       "Name": "Okkoto",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 6798
+      "UsersEstimate": 6799
     },
     {
       "ID": "OldMan",
@@ -4580,7 +4585,7 @@
       "Name": "Prisoners",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 6798
+      "UsersEstimate": 6799
     },
     {
       "ID": "ReleaseTheKraken",
@@ -4636,7 +4641,7 @@
       "Name": "Tanuki Time",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 11897
+      "UsersEstimate": 11898
     },
     {
       "ID": "TheCave",
@@ -4692,7 +4697,7 @@
       "Name": "Too Early",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 6798
+      "UsersEstimate": 6799
     },
     {
       "ID": "Warzone",
@@ -4700,7 +4705,7 @@
       "Name": "Warzone",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 6798
+      "UsersEstimate": 6799
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -4731,15 +4736,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 169962,
-      "Completed": 44
+      "Progressed": 169970,
+      "Completed": 45
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-05-22T11:58:35.5633479+00:00",
-  "LastChanged_Achievements": "2023-05-23T06:06:16.5343144+00:00",
+  "LastChanged_Achievements": "2023-05-23T07:05:22.748649+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:16.147513+00:00",
-  "LastUpdate_Ratings": "2023-05-23T05:59:09.9944989+00:00",
-  "LastUpdate_Achievements": "2023-05-23T06:06:16.5344079+00:00"
+  "LastUpdate_Ratings": "2023-05-23T06:58:36.7008313+00:00",
+  "LastUpdate_Achievements": "2023-05-23T07:05:22.7486919+00:00"
 }

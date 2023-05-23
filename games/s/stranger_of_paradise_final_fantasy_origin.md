@@ -29,8 +29,8 @@ Number of Ratings: 1,919  (23.09.2022)
 | The Water's Light | 39.00% | ~30,528 |
 | Malice Takes Root | 37.00% | ~28,962 |
 | Path of the Dark Knight | 37.00% | ~28,962 |
+| Path of the Breaker | 37.00% | ~28,962 |
 | Path of the Paladin | 36.00% | ~28,180 |
-| Path of the Breaker | 36.00% | ~28,180 |
 | Duty's Course | 35.00% | ~27,397 |
 | Path of the Liberator | 35.00% | ~27,397 |
 | Led by the Nose | 34.00% | ~26,614 |

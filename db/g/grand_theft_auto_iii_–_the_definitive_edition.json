@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -244,9 +244,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5211,
+  "EOS_Progressed": 5213,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 300,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -1634,6 +1634,11 @@
       "Time": "2023-05-23T06:01:28.3391944+00:00",
       "NumProgressed": 5211,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-23T07:00:29.6919673+00:00",
+      "NumProgressed": 5213,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -1645,7 +1650,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4325
+      "UsersEstimate": 4327
     },
     {
       "ID": "ACH02",
@@ -1669,7 +1674,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 1876
+      "UsersEstimate": 1877
     },
     {
       "ID": "ACH05",
@@ -1717,7 +1722,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 1407
+      "UsersEstimate": 1408
     },
     {
       "ID": "ACH11",
@@ -1757,7 +1762,7 @@
       "Name": "Full Artillery",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH16",
@@ -1773,7 +1778,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "ACH18",
@@ -1876,7 +1881,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 5211,
+      "Progressed": 5213,
       "Completed": 26
     }
   ],
@@ -1884,8 +1889,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-22T16:57:51.9969585+00:00",
-  "LastChanged_Achievements": "2023-05-23T06:01:28.3391938+00:00",
+  "LastChanged_Achievements": "2023-05-23T07:00:29.6919667+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:31.8748782+00:00",
-  "LastUpdate_Ratings": "2023-05-23T05:58:06.6382678+00:00",
-  "LastUpdate_Achievements": "2023-05-23T06:01:28.3392443+00:00"
+  "LastUpdate_Ratings": "2023-05-23T06:57:44.8821723+00:00",
+  "LastUpdate_Achievements": "2023-05-23T07:00:29.6919899+00:00"
 }

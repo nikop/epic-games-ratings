@@ -35,10 +35,10 @@ Rating: 4.55 (Ranked 467)
 | Oats | 0.60% | ~13 |
 | ...  in a finite world | 0.60% | ~13 |
 | Pulsar Disciple | 0.60% | ~13 |
+| What They Hide From Us | 0.50% | ~10 |
 | You Had One Job... | 0.50% | ~10 |
 | Delivery! | 0.50% | ~10 |
 | Pedal to the Metal | 0.50% | ~10 |
-| What They Hide From Us | 0.40% | ~8 |
 | Sustainable Energy | 0.40% | ~8 |
 | Praise the Hull! | 0.40% | ~8 |
 | What the Ruins Teach Us | 0.40% | ~8 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 243447,
+  "EOS_Progressed": 243448,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 369,
   "EOS_NewCompleters": 0,
@@ -2984,6 +2984,11 @@
       "Time": "2023-05-23T06:06:13.3197013+00:00",
       "NumProgressed": 243447,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-23T07:05:20.0548013+00:00",
+      "NumProgressed": 243448,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 46,
@@ -3019,7 +3024,7 @@
       "Name": "Be Aggressive",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 48689
+      "UsersEstimate": 48690
     },
     {
       "ID": "blotbuster",
@@ -3091,7 +3096,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 43820
+      "UsersEstimate": 43821
     },
     {
       "ID": "curator",
@@ -3099,7 +3104,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 48689
+      "UsersEstimate": 48690
     },
     {
       "ID": "didYourTime",
@@ -3362,7 +3367,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 243447,
+      "Progressed": 243448,
       "Completed": 2
     }
   ],
@@ -3370,8 +3375,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-05-23T06:06:13.3197007+00:00",
+  "LastChanged_Achievements": "2023-05-23T07:05:20.0548008+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:26.6901793+00:00",
-  "LastUpdate_Ratings": "2023-05-23T05:59:23.4483503+00:00",
-  "LastUpdate_Achievements": "2023-05-23T06:06:13.3197655+00:00"
+  "LastUpdate_Ratings": "2023-05-23T06:58:47.944219+00:00",
+  "LastUpdate_Achievements": "2023-05-23T07:05:20.0548418+00:00"
 }

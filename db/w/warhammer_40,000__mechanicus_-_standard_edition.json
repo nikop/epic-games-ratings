@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -393,9 +393,9 @@
       "Count": 96
     }
   ],
-  "EOS_Progressed": 210849,
+  "EOS_Progressed": 210850,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 884,
+  "EOS_NewPlayers": 883,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3583,6 +3583,11 @@
       "Time": "2023-05-23T06:03:34.6895579+00:00",
       "NumProgressed": 210849,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-23T07:02:28.1477547+00:00",
+      "NumProgressed": 210850,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 34,
@@ -3594,7 +3599,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 40061
+      "UsersEstimate": 40062
     },
     {
       "ID": "ACH_BASE_10",
@@ -3682,7 +3687,7 @@
       "Name": "Legio Cybernetica",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 6325
+      "UsersEstimate": 6326
     },
     {
       "ID": "ACH_BASE_21",
@@ -3818,7 +3823,7 @@
       "Name": "Fleshy Disposal",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 6325
+      "UsersEstimate": 6326
     },
     {
       "ID": "ACH_BASE_5",
@@ -3865,7 +3870,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 210849,
+      "Progressed": 210850,
       "Completed": 2
     }
   ],
@@ -3873,8 +3878,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-05-20T14:58:43.6837508+00:00",
-  "LastChanged_Achievements": "2023-05-23T06:03:34.6895574+00:00",
+  "LastChanged_Achievements": "2023-05-23T07:02:28.1477542+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:04.1848298+00:00",
-  "LastUpdate_Ratings": "2023-05-23T05:58:41.2574798+00:00",
-  "LastUpdate_Achievements": "2023-05-23T06:03:34.6896099+00:00"
+  "LastUpdate_Ratings": "2023-05-23T06:58:12.8488172+00:00",
+  "LastUpdate_Achievements": "2023-05-23T07:02:28.1477899+00:00"
 }

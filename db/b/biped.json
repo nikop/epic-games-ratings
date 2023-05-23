@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1668,
+  "EOS_Progressed": 1669,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 499,
   "EOS_NewCompleters": 0,
@@ -1846,6 +1846,11 @@
       "Time": "2023-05-23T06:05:52.1589586+00:00",
       "NumProgressed": 1668,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-23T07:05:01.700847+00:00",
+      "NumProgressed": 1669,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -1873,7 +1878,7 @@
       "Name": "Telepathic",
       "Percentage": 11,
       "XP": 70,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "12",
@@ -1945,7 +1950,7 @@
       "Name": "High Treetops",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "7",
@@ -1976,7 +1981,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 1668,
+      "Progressed": 1669,
       "Completed": 0
     }
   ],
@@ -1984,8 +1989,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-05-23T06:05:52.1589582+00:00",
+  "LastChanged_Achievements": "2023-05-23T07:05:01.7008464+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:36.8488775+00:00",
-  "LastUpdate_Ratings": "2023-05-23T05:58:12.2236096+00:00",
-  "LastUpdate_Achievements": "2023-05-23T06:05:52.158981+00:00"
+  "LastUpdate_Ratings": "2023-05-23T06:57:49.3979115+00:00",
+  "LastUpdate_Achievements": "2023-05-23T07:05:01.7008686+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -852,9 +852,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 3028,
+  "EOS_Progressed": 3029,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2622,6 +2622,11 @@
       "Time": "2023-05-23T04:06:12.7406555+00:00",
       "NumProgressed": 3028,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-23T07:05:36.6280704+00:00",
+      "NumProgressed": 3029,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2705,7 +2710,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -2753,7 +2758,7 @@
       "Name": "Number 18",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -2785,7 +2790,7 @@
       "Name": "The Governator",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -2952,15 +2957,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3028,
+      "Progressed": 3029,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-15T17:00:44.7999652+00:00",
-  "LastChanged_Achievements": "2023-05-23T06:06:32.4069419+00:00",
+  "LastChanged_Achievements": "2023-05-23T07:05:36.6280693+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:57.2781106+00:00",
-  "LastUpdate_Ratings": "2023-05-23T06:00:29.5835412+00:00",
-  "LastUpdate_Achievements": "2023-05-23T06:06:32.4069847+00:00"
+  "LastUpdate_Ratings": "2023-05-23T06:59:37.796835+00:00",
+  "LastUpdate_Achievements": "2023-05-23T07:05:36.6281025+00:00"
 }
