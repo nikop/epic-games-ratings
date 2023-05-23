@@ -51,6 +51,7 @@
 | [The Movie Trivia Challenge](games/5/50f0b849556a4e22acb18bbfc04a8c62.md) | 2023-06-02 | 2018-06-29 |
 | [Amnesia: The Bunker](games/a/amnesia__the_bunker.md) | 2023-06-06 | 2023-05-23 |
 | [Starlight X-2 Galactic Puzzles](games/s/starlight_x-2_galactic_puzzles.md) | 2023-06-07 | 2021-04-15 |
+| [Bleak Sword DX](games/b/bleak_sword_dx.md) | 2023-06-08 | 2023-06-08 |
 | [Rise of Jericho](games/r/rise_of_jericho.md) | 2023-06-09 | 2023-06-09 |
 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 2023-06-09 | 2022-09-19 |
 | [Suicide Guy](games/7/7d9cb4fa8c4b488d86c7e9dec37318d5.md) | 2023-06-14 | 2017-06-14 |
@@ -214,7 +215,6 @@
 | [Beyond Enemy Lines - Remastered Edition](games/b/beyond_enemy_lines_-_remastered_edition.md) | 2099-01-01 | 2021-09-23 |
 | [Beyond Enemy Lines 2 Enhanced Edition](games/b/beyond_enemy_lines_2_enhanced_edition.md) | 2099-01-01 | 2019-08-08 |
 | [Bionic Bay](games/b/bionic_bay.md) | 2099-01-01 | 2099-01-01 |
-| [Bleak Sword DX](games/b/bleak_sword_dx.md) | 2099-01-01 | 2099-01-01 |
 | [Bloody Hell Hotel](games/b/bloody_hell_hotel.md) | 2099-01-01 | 2099-01-01 |
 | [BurnOut](games/b/burnout.md) | 2099-01-01 | 2099-01-01 |
 | [Cat Souls](games/c/cat_souls.md) | 2099-01-01 | 2099-01-01 |
