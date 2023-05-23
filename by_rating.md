@@ -246,7 +246,7 @@
 | 236 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | 0 | 491 |
 | 236 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 411 | 197 |
 | 236 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 559 | 172 |
-| 236 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 665 | 159 |
+| 236 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 666 | 159 |
 | 236 | [Revita](games/r/revita.md) | 4.68 | 0 | 491 |
 | 236 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 170 | 275 |
 | 236 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 31 | 441 |
@@ -452,7 +452,7 @@
 | 448 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.56 | 0 | 491 |
 | 448 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 50 | 387 |
 | 448 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.56 | 0 | 491 |
-| 448 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 754 | 150 |
+| 448 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 755 | 150 |
 | 448 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 35 | 427 |
 | 448 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 0 | 491 |
 | 448 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 138 | 291 |
@@ -523,7 +523,7 @@
 | 518 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,090 | 72 |
 | 518 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.51 | 21 | 480 |
 | 518 | [Far Cry](games/f/far_cry.md) | 4.51 | 0 | 491 |
-| 518 | [First Class Trouble](games/f/first_class_trouble.md) | 4.51 | 88 | 340 |
+| 518 | [First Class Trouble](games/f/first_class_trouble.md) | 4.51 | 89 | 338 |
 | 518 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 104 | 319 |
 | 518 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 4.51 | 183 | 267 |
 | 518 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.51 | 0 | 491 |
@@ -537,7 +537,7 @@
 | 534 | [Crying Suns](games/c/crying_suns.md) | 4.50 | 209 | 254 |
 | 534 | [CryoFall](games/c/cryofall.md) | 4.50 | 0 | 491 |
 | 534 | [Darksiders Genesis](games/d/darksiders_genesis.md) | 4.50 | 39 | 412 |
-| 534 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 88 | 340 |
+| 534 | [Darksiders III](games/d/darksiders_iii.md) | 4.50 | 88 | 341 |
 | 534 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 491 |
 | 534 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 34,023 | 13 |
 | 534 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 0 | 491 |
@@ -837,7 +837,7 @@
 | 831 | [Windbound](games/w/windbound.md) | 4.18 | 0 | 491 |
 | 836 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 26 | 459 |
 | 836 | [Gone Home](games/g/gone_home.md) | 4.17 | 0 | 491 |
-| 836 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 2,229 | 98 |
+| 836 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 2,231 | 98 |
 | 836 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 0 | 491 |
 | 840 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 491 |
 | 840 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 606 | 165 |

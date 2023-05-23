@@ -1,5 +1,6 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
+| [The Lost Village](games/1/1c84e433f7ee4f21bce4c8f8600472f2.md) | 2023-05-23 | 2023-01-14 |
 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 2023-05-22 | 2019-05-21 |
 | [Backbeat](games/b/backbeat.md) | 2023-05-22 | 2023-03-16 |
 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 2023-05-22 | 2023-05-19 |
@@ -34,7 +35,6 @@
 | [Tin Hearts](games/5/5d1128dd0a214b64ad9356749b140e3d.md) | 2023-05-16 | 2023-05-16 |
 | [Light of Alariya](games/l/light_of_alariya.md) | 2023-05-15 | 2023-03-01 |
 | [Mage Math](games/5/5438c8546c6a4230851cc614af4bda6a.md) | 2023-05-15 | 2023-05-15 |
-| [The Lost Village](games/1/1c84e433f7ee4f21bce4c8f8600472f2.md) | 2023-05-15 | 2023-01-14 |
 | [Solargene](games/b/b5cf25c05580437a86a74319dac4f182.md) | 2023-05-14 | 2022-01-30 |
 | [Georifters](games/g/georifters.md) | 2023-05-14 | 2020-05-28 |
 | [Fusion Paradox](games/f/fusion_paradox.md) | 2023-05-12 | 2023-04-10 |

@@ -274,6 +274,7 @@
 | [Lightracer Spark](games/l/lightracer_spark.md) | 2099-01-01 | 2023-04-12 |
 | [Lightyear Frontier](games/l/lightyear_frontier.md) | 2099-01-01 | 2099-01-01 |
 | [Loop](games/l/loop.md) | 2099-01-01 | 2022-07-04 |
+| [Lost Station](games/c/c008c76e4c4946c7b9ad466bd02ad96c.md) | 2099-01-01 | 2099-01-01 |
 | [Luna Abyss](games/l/luna_abyss.md) | 2099-01-01 | 2099-01-01 |
 | [LunarLux](games/l/lunarlux.md) | 2099-01-01 | 2099-01-01 |
 | [Macabre](games/m/macabre.md) | 2099-01-01 | 2099-01-01 |

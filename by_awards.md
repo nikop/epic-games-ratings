@@ -97,7 +97,7 @@
 | 95 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,353 | 4.50 | 534 |
 | 96 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,307 | 4.10 | 861 |
 | 97 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,274 | 4.78 | 100 |
-| 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,229 | 4.17 | 836 |
+| 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,231 | 4.17 | 836 |
 | 99 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,219 | 4.67 | 256 |
 | 100 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,163 | 4.41 | 661 |
 | 101 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,134 | 4.37 | 703 |
@@ -149,7 +149,7 @@
 | 147 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 774 | 4.69 | 214 |
 | 148 | [Frostpunk](games/f/frostpunk.md) | 771 | 4.74 | 141 |
 | 149 | [The Long Dark](games/t/the_long_dark.md) | 757 | 4.74 | 141 |
-| 150 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 754 | 4.56 | 448 |
+| 150 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 755 | 4.56 | 448 |
 | 151 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 753 | 4.50 | 534 |
 | 152 | [Auto Chess](games/a/auto_chess.md) | 738 | 4.52 | 503 |
 | 153 | [Core](games/c/core.md) | 732 | 4.37 | 703 |
@@ -158,7 +158,7 @@
 | 156 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 693 | 4.59 | 401 |
 | 157 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 690 | 4.86 | 30 |
 | 158 | [Neverwinter](games/n/neverwinter.md) | 682 | 4.29 | 766 |
-| 159 | [Neon Abyss](games/n/neon_abyss.md) | 665 | 4.68 | 236 |
+| 159 | [Neon Abyss](games/n/neon_abyss.md) | 666 | 4.68 | 236 |
 | 160 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 663 | 4.50 | 534 |
 | 161 | [Subnautica](games/s/subnautica.md) | 660 | 4.84 | 49 |
 | 162 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 645 | 4.67 | 256 |
@@ -337,10 +337,10 @@
 | 333 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 92 | 4.19 | 823 |
 | 333 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 92 | 4.53 | 492 |
 | 337 | [Predecessor](games/p/predecessor.md) | 91 | 4.44 | 627 |
+| 338 | [First Class Trouble](games/f/first_class_trouble.md) | 89 | 4.51 | 518 |
 | 338 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 89 | 4.54 | 481 |
 | 338 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 89 | 4.37 | 703 |
-| 340 | [Darksiders III](games/d/darksiders_iii.md) | 88 | 4.50 | 534 |
-| 340 | [First Class Trouble](games/f/first_class_trouble.md) | 88 | 4.51 | 518 |
+| 341 | [Darksiders III](games/d/darksiders_iii.md) | 88 | 4.50 | 534 |
 | 342 | [RAILGRADE](games/r/railgrade.md) | 87 | 4.54 | 481 |
 | 343 | [Cave Story+](games/c/cave_story+.md) | 85 | 4.76 | 117 |
 | 343 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 85 | 4.68 | 236 |
