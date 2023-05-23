@@ -357,7 +357,7 @@
 | 341 | [Road 96](games/r/road_96.md) | 4.62 | 0 | 491 |
 | 341 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.62 | 72 | 359 |
 | 357 | [20XX](games/2/20xx.md) | 4.61 | 36 | 421 |
-| 357 | [Alien: Isolation](games/a/alien__isolation.md) | 4.61 | 128 | 297 |
+| 357 | [Alien: Isolation](games/a/alien__isolation.md) | 4.61 | 128 | 298 |
 | 357 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.61 | 0 | 491 |
 | 357 | [Chivalry 2](games/c/chivalry_2.md) | 4.61 | 4,118 | 71 |
 | 357 | [Colt Canyon](games/c/colt_canyon.md) | 4.61 | 0 | 491 |
@@ -372,7 +372,7 @@
 | 357 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 491 |
 | 357 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,494 | 91 |
 | 357 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 614 | 163 |
-| 357 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 422 | 194 |
+| 357 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 423 | 194 |
 | 357 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,122 | 36 |
 | 357 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,061 | 131 |
 | 357 | [Roguebook](games/r/roguebook.md) | 4.61 | 0 | 491 |
@@ -656,7 +656,7 @@
 | 647 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,118 | 127 |
 | 647 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 48 |
 | 647 | [Sheltered](games/s/sheltered.md) | 4.42 | 267 | 235 |
-| 647 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 128 | 297 |
+| 647 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 129 | 297 |
 | 647 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.42 | 898 | 142 |
 | 647 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 536 | 179 |
 | 647 | [World of Warships](games/w/world_of_warships.md) | 4.42 | 1,069 | 130 |

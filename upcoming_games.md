@@ -78,6 +78,7 @@
 | [My Demon Wife](games/m/my_demon_wife.md) | 2023-06-30 | 2023-12-31 |
 | [Probo Rush](games/p/probo_rush.md) | 2023-06-30 | 2023-06-30 |
 | [SHAFTED](games/s/shafted.md) | 2023-06-30 | 2022-10-13 |
+| [Spiritle](games/f/fb7fec81b0e24770b17b83666e47dddf.md) | 2023-06-30 | 2023-06-28 |
 | [Stillborn Slayer](games/s/stillborn_slayer.md) | 2023-06-30 | 2023-06-30 |
 | [Tabletop Playground](games/9/95f3bd44c8394061aca3eb1ce4b1f0fb.md) | 2023-06-30 | 2020-05-15 |
 | [The Riflemen](games/t/the_riflemen.md) | 2023-06-30 | 2023-06-27 |

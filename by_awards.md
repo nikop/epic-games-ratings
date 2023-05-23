@@ -193,7 +193,7 @@
 | 191 | [Football Manager 2023](games/f/football_manager_2023.md) | 444 | 4.76 | 117 |
 | 191 | [Surviving Mars](games/s/surviving_mars.md) | 444 | 4.60 | 384 |
 | 193 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 433 | 4.66 | 272 |
-| 194 | [Prison Architect](games/p/prison_architect.md) | 422 | 4.61 | 357 |
+| 194 | [Prison Architect](games/p/prison_architect.md) | 423 | 4.61 | 357 |
 | 195 | [Second Extinction™](games/s/second_extinction™.md) | 418 | 4.04 | 880 |
 | 196 | [Against the Storm](games/a/against_the_storm.md) | 417 | 4.81 | 71 |
 | 197 | [Loop Hero](games/l/loop_hero.md) | 411 | 4.68 | 236 |
@@ -296,8 +296,8 @@
 | 294 | [while True: learn()](games/w/while_true__learn().md) | 132 | 4.51 | 518 |
 | 295 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 131 | 4.79 | 90 |
 | 296 | [Atomicrops](games/a/atomicrops.md) | 130 | 4.88 | 19 |
-| 297 | [Alien: Isolation](games/a/alien__isolation.md) | 128 | 4.61 | 357 |
-| 297 | [Star Stable Online](games/s/star_stable_online.md) | 128 | 4.42 | 647 |
+| 297 | [Star Stable Online](games/s/star_stable_online.md) | 129 | 4.42 | 647 |
+| 298 | [Alien: Isolation](games/a/alien__isolation.md) | 128 | 4.61 | 357 |
 | 299 | [Encased](games/e/encased.md) | 126 | 4.35 | 719 |
 | 300 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 125 | 4.28 | 772 |
 | 301 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 123 | 4.20 | 813 |
