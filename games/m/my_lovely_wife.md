@@ -13,9 +13,9 @@ Number of Ratings: 25  (23.09.2022)
 | Devout | 89.00% | ~495 |
 | The Love Martyr | 87.00% | ~484 |
 | Frugal | 85.00% | ~473 |
-| Dilligent | 82.00% | ~456 |
+| Dilligent | 83.00% | ~461 |
 | I... I did it? | 80.00% | ~445 |
-| Adored | 75.00% | ~417 |
+| Adored | 76.00% | ~423 |
 | The Hobbyist | 65.00% | ~361 |
 | A Forked Tongue | 54.00% | ~300 |
 | Between Two Fires | 51.00% | ~284 |
@@ -41,7 +41,7 @@ Number of Ratings: 25  (23.09.2022)
 | Lady Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 556 (Ranked 190)  
-Completed: 0 (0.00%) (Ranked 201)  
+Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 135,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -4209,9 +4209,9 @@
       "ID": "WinNearDangerous",
       "SetID": "cfbk359",
       "Name": "Dangerous Lands",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 120
     },
     {
       "ID": "WinNearFertile",
@@ -4465,8 +4465,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-19T11:59:18.6406919+00:00",
-  "LastChanged_Achievements": "2023-05-23T21:05:58.4391317+00:00",
+  "LastChanged_Achievements": "2023-05-23T22:06:39.604891+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:57.8342165+00:00",
-  "LastUpdate_Ratings": "2023-05-23T20:59:57.6847706+00:00",
-  "LastUpdate_Achievements": "2023-05-23T21:05:58.4391851+00:00"
+  "LastUpdate_Ratings": "2023-05-23T22:00:38.9729082+00:00",
+  "LastUpdate_Achievements": "2023-05-23T22:06:39.6049444+00:00"
 }

@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 79.00% | ~102 |
-| Ranidaphobia | 29.00% | ~37 |
-| Aspiring Editor | 18.00% | ~23 |
-| Gun for Hire | 12.00% | ~15 |
-| Are you not entertained? | 0.80% | ~1 |
-| Commando | 0.80% | ~1 |
-| Ganglord | 0.80% | ~1 |
-| Jarhead | 0.80% | ~1 |
-| Dr Jones | 0.80% | ~1 |
-| Giant Killer | 0.80% | ~1 |
-| I am the law! | 0.80% | ~1 |
-| Infiltrator | 0.80% | ~1 |
-| Lumberjack | 0.80% | ~1 |
-| Newtonian Knockout | 0.80% | ~1 |
-| Pushing Daisy | 0.80% | ~1 |
-| Recycler | 0.80% | ~1 |
-| Sensei | 0.80% | ~1 |
-| Side Order | 0.80% | ~1 |
-| Technophobe | 0.80% | ~1 |
-| The Watchers | 0.80% | ~1 |
+| First Blood | 79.00% | ~111 |
+| Ranidaphobia | 31.00% | ~44 |
+| Aspiring Editor | 18.00% | ~25 |
+| Gun for Hire | 13.00% | ~18 |
+| I am the law! | 1.00% | ~1 |
+| Newtonian Knockout | 1.00% | ~1 |
+| Are you not entertained? | 0.70% | ~1 |
+| Commando | 0.70% | ~1 |
+| Ganglord | 0.70% | ~1 |
+| Jarhead | 0.70% | ~1 |
+| Dr Jones | 0.70% | ~1 |
+| Giant Killer | 0.70% | ~1 |
+| Infiltrator | 0.70% | ~1 |
+| Lumberjack | 0.70% | ~1 |
+| Pushing Daisy | 0.70% | ~1 |
+| Recycler | 0.70% | ~1 |
+| Sensei | 0.70% | ~1 |
+| Side Order | 0.70% | ~1 |
+| Technophobe | 0.70% | ~1 |
+| The Watchers | 0.70% | ~1 |
 | Alpha Editor | 0.00% | ~0 |
 | Attenborough | 0.00% | ~0 |
 | Bookworm | 0.00% | ~0 |
@@ -56,9 +56,9 @@
 | The meaning of Kain | 0.00% | ~0 |
 | Wipe Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129 (Ranked 253)  
-Completed: 0 (0.00%) (Ranked 201)  
+Progressed: 141 (Ranked 252)  
+Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-05-23 | 129 | 0 |
+| 2023-05-23 | 141 | 0 |

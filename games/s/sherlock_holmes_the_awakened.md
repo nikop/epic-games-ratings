@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Hell In A Handcart | 69.00% | ~150 |
+| To Hell In A Handcart | 70.00% | ~152 |
 | Read Between The Lines | 65.00% | ~141 |
 | High Profile | 61.00% | ~132 |
 | Whispers In The Dark | 57.00% | ~124 |
@@ -28,7 +28,7 @@
 | Brain Food | 34.00% | ~74 |
 | Let Me Be Frank | 33.00% | ~72 |
 | No Stone Unturned | 30.00% | ~65 |
-| Curiosity Killed The Cat | 21.00% | ~46 |
+| Curiosity Killed The Cat | 22.00% | ~48 |
 | Big Breakthrough | 19.00% | ~41 |
 | Read It And Weep | 19.00% | ~41 |
 | Reawakened | 8.00% | ~17 |

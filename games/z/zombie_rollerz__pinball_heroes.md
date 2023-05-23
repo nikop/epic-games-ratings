@@ -8,33 +8,33 @@
 | Bullseye! | 87.00% | ~62 |
 | Villfir Forest | 82.00% | ~58 |
 | Graduation! | 77.00% | ~55 |
-| Right in the kisser! | 65.00% | ~46 |
+| Right in the kisser! | 66.00% | ~47 |
 | The Shaman | 56.00% | ~40 |
 | Duscot Steamcity | 56.00% | ~40 |
-| The Penguin | 51.00% | ~36 |
+| The Penguin | 52.00% | ~37 |
 | The Magician | 49.00% | ~35 |
 | The Thrower | 45.00% | ~32 |
 | The Tunneler | 45.00% | ~32 |
 | Level Up!! | 41.00% | ~29 |
-| The Shield | 39.00% | ~28 |
+| The Shield | 41.00% | ~29 |
 | Kill-streak | 38.00% | ~27 |
 | The Bird | 32.00% | ~23 |
 | The Idol | 30.00% | ~21 |
+| Inferno Ruins | 30.00% | ~21 |
 | Topped up | 28.00% | ~20 |
-| Inferno Ruins | 28.00% | ~20 |
 | The Ninja | 27.00% | ~19 |
 | I'm Rich | 25.00% | ~18 |
 | Untouchable | 24.00% | ~17 |
 | 1 is all I need | 21.00% | ~15 |
 | The Giant | 21.00% | ~15 |
-| The Slime | 20.00% | ~14 |
+| The Slime | 21.00% | ~15 |
+| The Flower | 18.00% | ~13 |
 | Out of the Frying Pan... | 18.00% | ~13 |
-| The Flower | 17.00% | ~12 |
 | The Blacksmith | 15.00% | ~11 |
+| Ember | 14.00% | ~10 |
 | Turquoise | 14.00% | ~10 |
 | The Assistant | 13.00% | ~9 |
 | The Ooze | 13.00% | ~9 |
-| Ember | 13.00% | ~9 |
 | The Droid | 11.00% | ~8 |
 | The Steampunk | 10.00% | ~7 |
 | Verse | 10.00% | ~7 |
@@ -79,7 +79,7 @@
 | Zombie Slayer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 71 (Ranked 277)  
-Completed: 0 (0.00%) (Ranked 201)  
+Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

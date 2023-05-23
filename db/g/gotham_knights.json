@@ -6,9 +6,9 @@
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 68,
-  "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_Completed": 148,
+  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1196,9 +1196,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61828,
+  "EOS_Progressed": 61836,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 910,
+  "EOS_NewPlayers": 915,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3496,6 +3496,11 @@
       "Time": "2023-05-23T21:05:58.9813293+00:00",
       "NumProgressed": 61828,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-23T22:06:40.2768479+00:00",
+      "NumProgressed": 61836,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3651,7 +3656,7 @@
       "Name": "Fusion Expert",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -3707,7 +3712,7 @@
       "Name": "Family Meeting",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -3899,7 +3904,7 @@
       "Name": "Loose Ends",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "MYSTERY_02",
@@ -3971,7 +3976,7 @@
       "Name": "Solid Alibi",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -3994,13 +3999,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61828,
+      "Progressed": 61836,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32108,
+      "Progressed": 32116,
       "Completed": 2640
     }
   ],
@@ -4008,8 +4013,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-23T13:59:19.7620862+00:00",
-  "LastChanged_Achievements": "2023-05-23T21:05:58.9813289+00:00",
+  "LastChanged_Achievements": "2023-05-23T22:06:40.2768474+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-23T20:59:41.5983108+00:00",
-  "LastUpdate_Achievements": "2023-05-23T21:05:58.9814018+00:00"
+  "LastUpdate_Ratings": "2023-05-23T22:00:19.9225813+00:00",
+  "LastUpdate_Achievements": "2023-05-23T22:06:40.2769137+00:00"
 }

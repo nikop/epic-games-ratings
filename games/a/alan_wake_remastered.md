@@ -6,14 +6,14 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 21.00% | ~9,846 |
-| Let There Be Light | 17.00% | ~7,970 |
+| Follow the Light | 21.00% | ~9,847 |
+| Let There Be Light | 17.00% | ~7,971 |
 | Float Like a Butterfly | 16.00% | ~7,502 |
-| Nordic Walking | 13.00% | ~6,095 |
-| Bright Falls' Finest | 13.00% | ~6,095 |
-| Under a Thin Layer of Skin | 12.00% | ~5,626 |
-| Park Ranger | 10.00% | ~4,688 |
-| Paging Mr. Wake | 10.00% | ~4,688 |
+| Nordic Walking | 13.00% | ~6,096 |
+| Bright Falls' Finest | 13.00% | ~6,096 |
+| Under a Thin Layer of Skin | 12.00% | ~5,627 |
+| Park Ranger | 10.00% | ~4,689 |
+| Paging Mr. Wake | 10.00% | ~4,689 |
 | Back! Back, I Say! | 9.00% | ~4,220 |
 | Finders Keepers | 9.00% | ~4,220 |
 | Wheels Within Wheels | 8.00% | ~3,751 |
@@ -22,7 +22,7 @@ Number of Ratings: 524  (23.09.2022)
 | Sound and Fury | 8.00% | ~3,751 |
 | Missed by a Mile | 8.00% | ~3,751 |
 | Damn Good Cup of Coffee | 8.00% | ~3,751 |
-| A Friend in Need | 8.00% | ~828 |
+| A Friend in Need | 8.00% | ~829 |
 | Heavy Metal | 7.00% | ~3,282 |
 | Iron Horse | 7.00% | ~3,282 |
 | Perchance to Dream | 7.00% | ~3,282 |
@@ -39,7 +39,7 @@ Number of Ratings: 524  (23.09.2022)
 | Tornado Wrangler | 5.00% | ~2,344 |
 | What Light Through Yonder Window | 5.00% | ~2,344 |
 | Ding! | 5.00% | ~518 |
-| Departure | 4.00% | ~1,875 |
+| Departure | 4.00% | ~1,876 |
 | Boob Tube | 3.00% | ~1,407 |
 | Children of the Elder God | 3.00% | ~1,407 |
 | Drink 'Em Both Up | 3.00% | ~1,407 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~47 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,885 (Ranked 76)  
+Progressed: 46,889 (Ranked 76)  
 Completed: 45 (0.10%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 45 (0.10%) (Ranked 158)
 | 2023-05-20 | 46,523 | 45 |
 | 2023-05-21 | 46,674 | 45 |
 | 2023-05-22 | 46,794 | 45 |
-| 2023-05-23 | 46,885 | 45 |
+| 2023-05-23 | 46,889 | 45 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -8,10 +8,10 @@
 | So it goes | 4.00% | ~7 |
 | Clean Conscience | 4.00% | ~7 |
 | Business as usual | 3.00% | ~5 |
+| A New Broom Sweeps Clean | 3.00% | ~5 |
 | Off to a Good Start | 2.00% | ~3 |
 | Pride and Joy | 2.00% | ~3 |
 | Eyes Yet To Open | 2.00% | ~3 |
-| A New Broom Sweeps Clean | 2.00% | ~3 |
 | Mr. Hygeni | 1.00% | ~2 |
 | The Wing and the Thigh | 1.00% | ~2 |
 | Hackathon | 1.00% | ~2 |

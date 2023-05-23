@@ -28,10 +28,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 838,
-  "EOS_Completed": 56,
-  "EOS_NewPlayers": 188,
+  "EOS_Completed": 57,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 6.68,
+  "EOS_Completed_Percentage": 6.8,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -1682,6 +1682,11 @@
       "Time": "2023-05-23T21:05:21.2354511+00:00",
       "NumProgressed": 838,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-05-23T22:05:56.9556673+00:00",
+      "NumProgressed": 838,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 50,
@@ -1947,9 +1952,9 @@
       "ID": "39",
       "SetID": "d0g98p",
       "Name": "All Skilled Up!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 285
     },
     {
       "ID": "4",
@@ -2093,15 +2098,15 @@
       "ID": "d0g98p",
       "IsBase": true,
       "Progressed": 838,
-      "Completed": 56
+      "Completed": 57
     }
   ],
   "FirstSeen": "2023-05-04T05:57:24.2490249+00:00",
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-23T21:05:21.2354508+00:00",
+  "LastChanged_Achievements": "2023-05-23T22:05:56.9556667+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:59.9943101+00:00",
-  "LastUpdate_Ratings": "2023-05-23T20:57:22.541103+00:00",
-  "LastUpdate_Achievements": "2023-05-23T21:05:21.2355041+00:00"
+  "LastUpdate_Ratings": "2023-05-23T21:57:33.8409643+00:00",
+  "LastUpdate_Achievements": "2023-05-23T22:05:56.9557134+00:00"
 }

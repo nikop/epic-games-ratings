@@ -7,7 +7,7 @@ Rating: 4.17 (Ranked 836)
 | ---- | ---------- | ----- |
 | Har, Har, Har, Very Funny | 1.00% | ~618 |
 | First Step Into the Knight | 1.00% | ~618 |
-| Loose Ends | 0.90% | ~556 |
+| Loose Ends | 0.90% | ~557 |
 | To the Victor Go the Spoils | 0.80% | ~495 |
 | Get ReQ'd | 0.80% | ~495 |
 | Knighthood | 0.80% | ~495 |
@@ -37,9 +37,9 @@ Rating: 4.17 (Ranked 836)
 | Out of Their League | 0.40% | ~247 |
 | Drone You Out | 0.40% | ~247 |
 | Gotham City Confidential | 0.40% | ~247 |
-| Fusion Expert | 0.30% | ~185 |
-| Family Meeting | 0.30% | ~185 |
-| Solid Alibi | 0.30% | ~185 |
+| Fusion Expert | 0.30% | ~186 |
+| Family Meeting | 0.30% | ~186 |
+| Solid Alibi | 0.30% | ~186 |
 | Hammer and Icicle | 0.20% | ~64 |
 | Dressed to Impress | 0.20% | ~124 |
 | Expert Crime Fighter | 0.20% | ~124 |
@@ -67,8 +67,8 @@ Rating: 4.17 (Ranked 836)
 | Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,828 (Ranked 68)  
-Completed: 91 (0.15%) (Ranked 149)  
+Progressed: 61,836 (Ranked 68)  
+Completed: 91 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -100,7 +100,7 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-20 | 61,416 | 91 |
 | 2023-05-21 | 61,589 | 91 |
 | 2023-05-22 | 61,724 | 91 |
-| 2023-05-23 | 61,828 | 91 |
+| 2023-05-23 | 61,836 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,231  (Ranked 98)  
 Sum: 3,704 (Ranked 137)  

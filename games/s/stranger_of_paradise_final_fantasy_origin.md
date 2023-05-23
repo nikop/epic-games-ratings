@@ -1,7 +1,7 @@
 # STRANGER OF PARADISE FINAL FANTASY ORIGIN
 [Store](https://store.epicgames.com/en-US/p/stranger-of-paradise-final-fantasy-origin)  
 [View Rawdata](../../db/s/stranger_of_paradise_final_fantasy_origin.json)  
-Rating: 4.50 (Ranked 533)  
+Rating: 4.50 (Ranked 534)  
 Number of Ratings: 1,919  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -30,8 +30,8 @@ Number of Ratings: 1,919  (23.09.2022)
 | Malice Takes Root | 37.00% | ~28,966 |
 | Path of the Dark Knight | 37.00% | ~28,966 |
 | Path of the Breaker | 37.00% | ~28,966 |
+| Duty's Course | 36.00% | ~28,183 |
 | Path of the Paladin | 36.00% | ~28,183 |
-| Duty's Course | 35.00% | ~27,400 |
 | Path of the Liberator | 35.00% | ~27,400 |
 | Led by the Nose | 34.00% | ~26,617 |
 | Path of the Void Knight | 34.00% | ~26,617 |

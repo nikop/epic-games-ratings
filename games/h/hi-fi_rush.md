@@ -13,7 +13,7 @@ Rating: 4.87 (Ranked 25)
 | Thanks for the free chip, Peppermint! | 65.00% | ~1,301 |
 | You got this, Peppermint? | 61.00% | ~1,221 |
 | Perfect Parry | 58.00% | ~1,161 |
-| Alright, that felt AWESOME! | 57.00% | ~1,141 |
+| Alright, that felt AWESOME! | 58.00% | ~1,161 |
 | I play my own way! | 54.00% | ~1,081 |
 | This will cost you big time | 51.00% | ~1,021 |
 | Uh, they were broken when I got here | 50.00% | ~1,001 |

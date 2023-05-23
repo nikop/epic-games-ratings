@@ -24,6 +24,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Sparkdew Crystals | 0.90% | ~135 |
 | Cursed Lands | 0.90% | ~135 |
 | A Real Challenge | 0.90% | ~135 |
+| Dangerous Lands | 0.80% | ~120 |
 | Levitating Monument | 0.80% | ~120 |
 | Flooded Mines | 0.80% | ~120 |
 | Monastery of the Holy Flame | 0.80% | ~120 |
@@ -32,7 +33,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Watchtower | 0.80% | ~120 |
 | Refinery | 0.70% | ~105 |
 | Against All Odds | 0.70% | ~105 |
-| Dangerous Lands | 0.70% | ~105 |
 | Haunted Forest | 0.70% | ~105 |
 | Forsaken Gods Temple | 0.70% | ~105 |
 | Serving Ale | 0.60% | ~90 |

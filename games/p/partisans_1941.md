@@ -18,8 +18,8 @@ Number of Ratings: 98  (23.09.2022)
 | Death to the Oppressor! | 13.00% | ~120 |
 | The Gang's All Here | 11.00% | ~102 |
 | Your Answer | 10.00% | ~92 |
+| The Big Bertha | 9.00% | ~83 |
 | One by One | 9.00% | ~83 |
-| The Big Bertha | 8.00% | ~74 |
 | Game Over | 7.00% | ~65 |
 | Lock, Stock | 6.00% | ~56 |
 | Payback Time | 5.00% | ~46 |

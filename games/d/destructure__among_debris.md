@@ -12,8 +12,8 @@
 | You Are Actually Supposed To Use Those | 7.00% | ~7 |
 | Avaricerite | 5.00% | ~5 |
 | Ball Galore | 5.00% | ~5 |
+| Easy Victory | 5.00% | ~5 |
 | Master Destructor | 5.00% | ~5 |
-| Easy Victory | 4.00% | ~4 |
 | Back From The Dead | 3.00% | ~3 |
 | Legendary Destructor | 3.00% | ~3 |
 | Ball Protector | 2.00% | ~2 |

@@ -6,39 +6,39 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~125,023 |
-| Titan's First Steps | 96.00% | ~123,734 |
-| Basic in Bulk | 91.00% | ~117,290 |
-| Tinkle of Coins | 87.00% | ~112,134 |
-| Disintermediation | 76.00% | ~97,956 |
+| Sponsored by Argon | 97.00% | ~125,024 |
+| Titan's First Steps | 96.00% | ~123,735 |
+| Basic in Bulk | 91.00% | ~117,291 |
+| Tinkle of Coins | 87.00% | ~112,135 |
+| Disintermediation | 76.00% | ~97,957 |
 | Capitalism Ho! | 75.00% | ~96,668 |
-| It's Free Real Estate | 70.00% | ~90,223 |
-| Budding Merchant | 66.00% | ~85,067 |
-| Another Satisfied Customer | 61.00% | ~78,623 |
-| One Easy Payment | 60.00% | ~77,334 |
-| Own the Means of Production | 60.00% | ~77,334 |
-| Some Assembly Required | 59.00% | ~76,045 |
-| Pretty Penny | 57.00% | ~73,467 |
-| One-Armed Bandit | 50.00% | ~64,445 |
-| Through Repetition, Perfection | 46.00% | ~59,289 |
-| The Daily Grind | 45.00% | ~58,000 |
+| It's Free Real Estate | 70.00% | ~90,224 |
+| Budding Merchant | 66.00% | ~85,068 |
+| Another Satisfied Customer | 61.00% | ~78,624 |
+| One Easy Payment | 60.00% | ~77,335 |
+| Own the Means of Production | 60.00% | ~77,335 |
+| Some Assembly Required | 59.00% | ~76,046 |
+| Pretty Penny | 57.00% | ~73,468 |
+| One-Armed Bandit | 50.00% | ~64,446 |
+| Through Repetition, Perfection | 46.00% | ~59,290 |
+| The Daily Grind | 45.00% | ~58,001 |
 | Bounty Hunters | 44.00% | ~56,712 |
 | Where it Hurts | 43.00% | ~55,423 |
 | Dungeon Imports | 43.00% | ~55,423 |
 | Flooding the Market | 41.00% | ~52,845 |
 | Demand for Supplies | 39.00% | ~50,267 |
-| Gild-Gotten Goods | 37.00% | ~47,689 |
+| Gild-Gotten Goods | 37.00% | ~47,690 |
 | Did we pack lunch? | 35.00% | ~45,112 |
 | Arcane Industries | 34.00% | ~43,823 |
 | Accomplished Merchant | 31.00% | ~39,956 |
 | Ascended | 28.00% | ~36,089 |
 | Gem Expert | 28.00% | ~36,089 |
 | Helping Hand | 28.00% | ~36,089 |
-| On the Path to Greatness | 27.00% | ~34,800 |
-| Blank Page Syndrome | 27.00% | ~34,800 |
-| Efficient Floor Space | 27.00% | ~34,800 |
-| Vanity, Verily | 26.00% | ~33,511 |
-| Research & Development | 25.00% | ~32,222 |
+| On the Path to Greatness | 27.00% | ~34,801 |
+| Blank Page Syndrome | 27.00% | ~34,801 |
+| Efficient Floor Space | 27.00% | ~34,801 |
+| Vanity, Verily | 26.00% | ~33,512 |
+| Research & Development | 25.00% | ~32,223 |
 | Flawless Fusion | 24.00% | ~30,934 |
 | Power of Love | 23.00% | ~29,645 |
 | Natural 20 | 23.00% | ~29,645 |
@@ -83,9 +83,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Thirst for Knowledge | 6.00% | ~7,733 |
 | Treasure Trove | 6.00% | ~7,733 |
 | All Accounted For | 6.00% | ~7,733 |
-| Archivist | 5.00% | ~6,444 |
-| Bountiful Harvest | 5.00% | ~6,444 |
-| Precision Engineering | 5.00% | ~6,444 |
+| Archivist | 5.00% | ~6,445 |
+| Bountiful Harvest | 5.00% | ~6,445 |
+| Precision Engineering | 5.00% | ~6,445 |
 | Proud Paladin | 4.00% | ~5,156 |
 | Industrial Evolution | 4.00% | ~5,156 |
 | Fit for a King | 4.00% | ~5,156 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.40% | ~516 |
 | Capitalist Camaraderie | 0.20% | ~258 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,890 (Ranked 54)  
-Completed: 81 (0.06%) (Ranked 170)  
+Progressed: 128,891 (Ranked 54)  
+Completed: 82 (0.06%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -152,7 +152,7 @@ Completed: 81 (0.06%) (Ranked 170)
 | 2023-05-20 | 128,675 | 80 |
 | 2023-05-21 | 128,776 | 80 |
 | 2023-05-22 | 128,838 | 80 |
-| 2023-05-23 | 128,890 | 81 |
+| 2023-05-23 | 128,891 | 82 |
 ## Awards
 Max (Great for Beginners): 4,587  (Ranked 66)  
 Sum: 26,613 (Ranked 44)  

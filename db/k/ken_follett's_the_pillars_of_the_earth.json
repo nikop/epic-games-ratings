@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 97,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -471,9 +471,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12649,
+  "EOS_Progressed": 12650,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -2491,6 +2491,11 @@
       "Time": "2023-05-23T21:05:18.8402622+00:00",
       "NumProgressed": 12649,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-05-23T22:05:54.0581266+00:00",
+      "NumProgressed": 12650,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 41,
@@ -2502,7 +2507,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "tpote_achievement_10",
@@ -2540,9 +2545,9 @@
       "ID": "tpote_achievement_14",
       "SetID": "3jcf6c3",
       "Name": "Friends of sorts",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4427
+      "UsersEstimate": 4301
     },
     {
       "ID": "tpote_achievement_15",
@@ -2550,7 +2555,7 @@
       "Name": "Care, like a brother cares",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "tpote_achievement_16",
@@ -2574,7 +2579,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "tpote_achievement_19",
@@ -2582,7 +2587,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2403
+      "UsersEstimate": 2404
     },
     {
       "ID": "tpote_achievement_2",
@@ -2590,7 +2595,7 @@
       "Name": "Yet another secret",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 4427
+      "UsersEstimate": 4428
     },
     {
       "ID": "tpote_achievement_20",
@@ -2606,7 +2611,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3921
+      "UsersEstimate": 3922
     },
     {
       "ID": "tpote_achievement_22",
@@ -2622,7 +2627,7 @@
       "Name": "A brush with death",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "tpote_achievement_24",
@@ -2630,7 +2635,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "tpote_achievement_25",
@@ -2654,7 +2659,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2403
+      "UsersEstimate": 2404
     },
     {
       "ID": "tpote_achievement_28",
@@ -2702,7 +2707,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1897
+      "UsersEstimate": 1898
     },
     {
       "ID": "tpote_achievement_33",
@@ -2806,7 +2811,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "tpote_achievement_8",
@@ -2829,15 +2834,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12649,
+      "Progressed": 12650,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-22T02:59:28.1884217+00:00",
-  "LastChanged_Achievements": "2023-05-23T21:05:18.8402618+00:00",
+  "LastChanged_Achievements": "2023-05-23T22:05:54.0581256+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:09:49.1992061+00:00",
-  "LastUpdate_Ratings": "2023-05-23T20:59:53.736681+00:00",
-  "LastUpdate_Achievements": "2023-05-23T21:05:18.8403076+00:00"
+  "LastUpdate_Ratings": "2023-05-23T22:00:34.1099252+00:00",
+  "LastUpdate_Achievements": "2023-05-23T22:05:54.0581722+00:00"
 }

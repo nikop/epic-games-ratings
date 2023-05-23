@@ -5,27 +5,27 @@ Rating: 4.65 (Ranked 292)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~3,889 |
-| Tomorrow Never Dyes | 47.00% | ~2,856 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~3,890 |
+| Tomorrow Never Dyes | 47.00% | ~2,857 |
 | Mainframe Hacker | 45.00% | ~2,735 |
 | The Spy who eliminated me | 45.00% | ~2,735 |
 | Never Say Loser Again | 41.00% | ~2,492 |
 | For your Eyes only | 39.00% | ~2,370 |
-| Tailor-Made | 38.00% | ~2,309 |
+| Tailor-Made | 38.00% | ~2,310 |
 | From the Vault with Love | 36.00% | ~2,188 |
 | Fully Decked Out | 36.00% | ~2,188 |
-| You Only Live Twice | 30.00% | ~1,823 |
+| You Only Live Twice | 31.00% | ~1,884 |
 | A view to Win | 28.00% | ~1,702 |
 | Smells Like Trouble | 26.00% | ~1,580 |
-| Assistant Accountant | 25.00% | ~1,519 |
-| Private Collection | 25.00% | ~1,519 |
-| Killer Looks | 25.00% | ~1,519 |
-| Hostile Takeover | 25.00% | ~1,519 |
-| Keycards Royale | 24.00% | ~1,458 |
-| In It to Win It | 24.00% | ~1,458 |
-| Dr. No Kill | 24.00% | ~1,458 |
-| The Living Portrait | 24.00% | ~1,458 |
-| My Motto, My Creed | 24.00% | ~1,458 |
+| Assistant Accountant | 25.00% | ~1,520 |
+| Private Collection | 25.00% | ~1,520 |
+| Killer Looks | 25.00% | ~1,520 |
+| Hostile Takeover | 25.00% | ~1,520 |
+| Keycards Royale | 24.00% | ~1,459 |
+| In It to Win It | 24.00% | ~1,459 |
+| Dr. No Kill | 24.00% | ~1,459 |
+| The Living Portrait | 24.00% | ~1,459 |
+| My Motto, My Creed | 24.00% | ~1,459 |
 | Security Supervisor | 10.00% | ~608 |
 | License to Thrill | 8.00% | ~486 |
 | Social of Solace | 8.00% | ~486 |
@@ -42,8 +42,8 @@ Rating: 4.65 (Ranked 292)
 | Extraction Confusion | 0.30% | ~18 |
 | Spyfall | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,077 (Ranked 116)  
-Completed: 0 (0.00%) (Ranked 201)  
+Progressed: 6,078 (Ranked 116)  
+Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -75,7 +75,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-20 | 5,950 | 0 |
 | 2023-05-21 | 5,989 | 0 |
 | 2023-05-22 | 6,028 | 0 |
-| 2023-05-23 | 6,077 | 0 |
+| 2023-05-23 | 6,078 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

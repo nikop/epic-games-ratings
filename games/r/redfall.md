@@ -5,17 +5,17 @@ Rating: 3.40 (Ranked 925)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 78.00% | ~1,255 |
-| Home Is Where the Heart Is | 61.00% | ~981 |
-| Wounded Whispers | 61.00% | ~981 |
-| Ne Plus Ultra | 60.00% | ~965 |
-| Blood Will Have Blood | 50.00% | ~804 |
-| ICU | 46.00% | ~740 |
+| I Like My Stakes Rare! | 78.00% | ~1,256 |
+| Home Is Where the Heart Is | 61.00% | ~982 |
+| Wounded Whispers | 61.00% | ~982 |
+| Ne Plus Ultra | 60.00% | ~966 |
+| Blood Will Have Blood | 50.00% | ~805 |
+| ICU | 46.00% | ~741 |
 | Catch and Release | 45.00% | ~724 |
 | Peek-a-boo | 44.00% | ~708 |
 | Sucks To Be You | 43.00% | ~692 |
-| Welcome to the Neighborhood | 38.00% | ~611 |
-| Fly Fisher | 35.00% | ~563 |
+| Welcome to the Neighborhood | 38.00% | ~612 |
+| Fly Fisher | 35.00% | ~564 |
 | Throw The First Stone | 34.00% | ~547 |
 | Enter of Your Own Free Will | 32.00% | ~515 |
 | Heart Attack | 32.00% | ~515 |
@@ -23,8 +23,8 @@ Rating: 3.40 (Ranked 925)
 | Grounded | 24.00% | ~386 |
 | Bad Wiring | 21.00% | ~338 |
 | I Spit On Your Grave | 20.00% | ~322 |
-| Neighborhood Revitalization | 15.00% | ~241 |
-| Radio Silence | 15.00% | ~241 |
+| Neighborhood Revitalization | 15.00% | ~242 |
+| Radio Silence | 15.00% | ~242 |
 | Helping Hand | 12.00% | ~193 |
 | You Clean It Up | 11.00% | ~177 |
 | Starve the Beast | 9.00% | ~145 |
@@ -72,8 +72,8 @@ Rating: 3.40 (Ranked 925)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,609 (Ranked 151)  
-Completed: 0 (0.00%) (Ranked 201)  
+Progressed: 1,610 (Ranked 151)  
+Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -98,7 +98,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-20 | 1,586 | 0 |
 | 2023-05-21 | 1,596 | 0 |
 | 2023-05-22 | 1,600 | 0 |
-| 2023-05-23 | 1,609 | 0 |
+| 2023-05-23 | 1,610 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

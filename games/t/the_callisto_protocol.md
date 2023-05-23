@@ -8,11 +8,12 @@ Rating: 4.18 (Ranked 831)
 | Flesh Wound | 6.00% | ~806 |
 | Giving Back | 5.00% | ~672 |
 | Chew 'Em Up | 5.00% | ~672 |
-| Instigator | 4.00% | ~54 |
-| Big Game Hunter | 4.00% | ~54 |
+| Instigator | 4.00% | ~55 |
+| Big Game Hunter | 4.00% | ~55 |
 | Bear Trap | 3.00% | ~41 |
 | The Commonality | 2.00% | ~269 |
 | Float Like A Butterfly | 2.00% | ~269 |
+| Reforged | 2.00% | ~269 |
 | Mugshot | 2.00% | ~269 |
 | The Outer Way | 2.00% | ~269 |
 | Desperate Times | 2.00% | ~269 |
@@ -20,22 +21,21 @@ Rating: 4.18 (Ranked 831)
 | Parole Denied | 1.00% | ~14 |
 | Get a Grip | 1.00% | ~134 |
 | Workplace Hazard | 1.00% | ~134 |
-| Reforged | 1.00% | ~134 |
 | Paper Jams | 1.00% | ~134 |
 | If the SHU Fits... | 1.00% | ~134 |
 | Hoard Mode | 1.00% | ~14 |
 | Terminated | 0.90% | ~121 |
 | Lifer | 0.80% | ~11 |
 | Recidivist | 0.70% | ~10 |
+| Without A Paddle | 0.70% | ~94 |
 | In Striking Distance | 0.60% | ~81 |
-| Without A Paddle | 0.60% | ~81 |
 | Two Heads Are Better Than One | 0.50% | ~67 |
+| In the Pipe, Five by Five | 0.40% | ~54 |
 | Crash Site | 0.40% | ~54 |
 | Grim Reaper | 0.30% | ~40 |
 | I Do Belong Here | 0.30% | ~40 |
-| In the Pipe, Five by Five | 0.30% | ~40 |
+| Power Up | 0.30% | ~40 |
 | You Need a Gun | 0.20% | ~27 |
-| Power Up | 0.20% | ~27 |
 | It's over, Jacob! | 0.10% | ~13 |
 | Armed to the Teeth | 0.10% | ~1 |
 | Glutton for Punishment | 0.10% | ~1 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 831)
 | Subject Alpha | 0.10% | ~1 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,434 (Ranked 101)  
+Progressed: 13,440 (Ranked 101)  
 Completed: 52 (0.39%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 52 (0.39%) (Ranked 112)
 | 2023-05-20 | 13,057 | 51 |
 | 2023-05-21 | 13,223 | 52 |
 | 2023-05-22 | 13,347 | 52 |
-| 2023-05-23 | 13,434 | 52 |
+| 2023-05-23 | 13,440 | 52 |
 ## Awards
 Max (Highly Recommended): 46  (Ranked 397)  
 Sum: 267 (Ranked 335)  

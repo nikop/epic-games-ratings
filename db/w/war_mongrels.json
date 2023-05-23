@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 221,
-  "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_Completed": 202,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 273,
+  "EOS_Progressed": 274,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -459,6 +459,11 @@
     {
       "Time": "2023-05-22T16:01:44.0888341+00:00",
       "NumProgressed": 273,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-23T22:01:52.7913204+00:00",
+      "NumProgressed": 274,
       "NumCompleted": 0
     }
   ],
@@ -719,7 +724,7 @@
       "Name": "Heroism",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_FIN_CH05",
@@ -735,7 +740,7 @@
       "Name": "Opportunities",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_FIN_CH07",
@@ -831,7 +836,7 @@
       "Name": "Without a Second Thought",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_KILL_BRAWL",
@@ -839,7 +844,7 @@
       "Name": "Here Comes the Boom",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_KILL_DOOR",
@@ -853,9 +858,9 @@
       "ID": "ACH_KILL_ENEMY",
       "SetID": "1j25agn",
       "Name": "NO LIFE IS WORTH SAVING...",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 139
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -903,7 +908,7 @@
       "Name": "King of Knives",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_NEST1",
@@ -942,15 +947,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 273,
+      "Progressed": 274,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-05-09T23:57:28.9754418+00:00",
-  "LastChanged_Achievements": "2023-05-23T21:00:58.7956699+00:00",
+  "LastChanged_Achievements": "2023-05-23T22:01:52.7913196+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:01.9016759+00:00",
-  "LastUpdate_Ratings": "2023-05-23T20:57:25.3726575+00:00",
-  "LastUpdate_Achievements": "2023-05-23T21:00:58.7957241+00:00"
+  "LastUpdate_Ratings": "2023-05-23T21:57:37.1660589+00:00",
+  "LastUpdate_Achievements": "2023-05-23T22:01:52.791383+00:00"
 }

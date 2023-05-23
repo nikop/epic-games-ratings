@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -838,9 +838,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 656650,
+  "EOS_Progressed": 656653,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 395,
+  "EOS_NewPlayers": 396,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3713,6 +3713,11 @@
       "Time": "2023-05-23T21:05:27.3313866+00:00",
       "NumProgressed": 656650,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-05-23T22:06:03.8817433+00:00",
+      "NumProgressed": 656653,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -3724,7 +3729,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 472788
+      "UsersEstimate": 472790
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -3732,7 +3737,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 380857
+      "UsersEstimate": 380859
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -3756,7 +3761,7 @@
       "Name": "Protector of the Realm",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 6566
+      "UsersEstimate": 6567
     },
     {
       "ID": "Achievement_06_Knight",
@@ -3812,7 +3817,7 @@
       "Name": "Jack of all Trades",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 32832
+      "UsersEstimate": 32833
     },
     {
       "ID": "Achievement_13_Dice_Master",
@@ -3900,7 +3905,7 @@
       "Name": "Smithy",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 32832
+      "UsersEstimate": 32833
     },
     {
       "ID": "Achievement_24_Leap_of_Faith",
@@ -3916,7 +3921,7 @@
       "Name": "Purgatorium",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 6566
+      "UsersEstimate": 6567
     },
     {
       "ID": "Achievement_26_Gamester",
@@ -3988,7 +3993,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 164162
+      "UsersEstimate": 164163
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -3996,7 +4001,7 @@
       "Name": "Cursed Soul",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 6566
+      "UsersEstimate": 6567
     },
     {
       "ID": "Achievement_36_Swordsman",
@@ -4004,7 +4009,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 59098
+      "UsersEstimate": 59099
     },
     {
       "ID": "Achievement_37_Champion",
@@ -4012,7 +4017,7 @@
       "Name": "Champion",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 6566
+      "UsersEstimate": 6567
     },
     {
       "ID": "Achievement_38_Flurry_of_Fury",
@@ -4060,7 +4065,7 @@
       "Name": "Final Death",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 6566
+      "UsersEstimate": 6567
     },
     {
       "ID": "Achievement_44_Miracle",
@@ -4107,15 +4112,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 656650,
+      "Progressed": 656653,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-05-18T14:57:37.1411686+00:00",
-  "LastChanged_Achievements": "2023-05-23T21:05:27.331386+00:00",
+  "LastChanged_Achievements": "2023-05-23T22:06:03.8817427+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:07.1745323+00:00",
-  "LastUpdate_Ratings": "2023-05-23T20:57:32.2520984+00:00",
-  "LastUpdate_Achievements": "2023-05-23T21:05:27.331443+00:00"
+  "LastUpdate_Ratings": "2023-05-23T21:57:45.1227671+00:00",
+  "LastUpdate_Achievements": "2023-05-23T22:06:03.8817902+00:00"
 }

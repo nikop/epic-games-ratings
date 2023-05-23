@@ -3,9 +3,9 @@
   "Name": "Gravitar Recharged",
   "ProductSlug": "gravitar-recharged-e606fe",
   "Ranking_EOS_Progress": 374,
-  "Ranking_EOS_Completed": 201,
+  "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 315,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-06-02T04:00:00+00:00",
     "PcReleaseDate": "2022-06-01T00:00:00+00:00",
@@ -207,8 +207,8 @@
   "FirstSeenRating": "2023-03-31T05:58:20.2079724+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.359936+00:00",
   "LastChanged": "2023-03-31T05:58:20.2079725+00:00",
-  "LastChanged_Achievements": "2023-05-23T21:05:15.8463073+00:00",
+  "LastChanged_Achievements": "2023-05-23T22:05:50.5801667+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.225864+00:00",
-  "LastUpdate_Ratings": "2023-05-23T20:58:19.0847136+00:00",
-  "LastUpdate_Achievements": "2023-05-23T21:05:15.8463204+00:00"
+  "LastUpdate_Ratings": "2023-05-23T21:58:39.4102158+00:00",
+  "LastUpdate_Achievements": "2023-05-23T22:05:50.5801784+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 86,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
     "PcReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -532,9 +532,9 @@
       "ID": "easy_victory",
       "SetID": "jig50d",
       "Name": "Easy Victory",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "graduation",
@@ -709,8 +709,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-23T21:01:06.861007+00:00",
+  "LastChanged_Achievements": "2023-05-23T22:02:02.4348935+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:10:10.466439+00:00",
-  "LastUpdate_Ratings": "2023-05-23T20:59:55.4680258+00:00",
-  "LastUpdate_Achievements": "2023-05-23T21:01:06.8610327+00:00"
+  "LastUpdate_Ratings": "2023-05-23T22:00:36.257903+00:00",
+  "LastUpdate_Achievements": "2023-05-23T22:02:02.4349222+00:00"
 }

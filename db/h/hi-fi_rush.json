@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 141,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -1397,9 +1397,9 @@
       "ID": "Ach048",
       "SetID": "12n4k20",
       "Name": "Alright, that felt AWESOME!",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 1141
+      "UsersEstimate": 1161
     },
     {
       "ID": "Ach049",
@@ -1524,8 +1524,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-05-21T21:58:39.6385879+00:00",
-  "LastChanged_Achievements": "2023-05-23T21:05:38.6412038+00:00",
+  "LastChanged_Achievements": "2023-05-23T22:06:17.1492131+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:08.8665109+00:00",
-  "LastUpdate_Ratings": "2023-05-23T20:58:31.6966935+00:00",
-  "LastUpdate_Achievements": "2023-05-23T21:05:38.641272+00:00"
+  "LastUpdate_Ratings": "2023-05-23T21:58:54.6054212+00:00",
+  "LastUpdate_Achievements": "2023-05-23T22:06:17.1492844+00:00"
 }

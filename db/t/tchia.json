@@ -2,20 +2,20 @@
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
   "ProductSlug": "tchia",
-  "Ranking_Rating": 117,
+  "Ranking_Rating": 130,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.76,
+  "Rating": 4.75,
   "RatingHistory": [
     {
       "Time": "2023-03-27T01:58:07.9260384+00:00",
@@ -146,15 +146,21 @@
       "Rating": 4.76,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-23T21:58:09.6167514+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5985,
+  "EOS_Progressed": 5986,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2047,6 +2053,11 @@
       "Time": "2023-05-23T20:06:11.9674693+00:00",
       "NumProgressed": 5985,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-23T22:05:55.0255634+00:00",
+      "NumProgressed": 5986,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 21,
@@ -2082,7 +2093,7 @@
       "Name": "Body and Soul",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -2225,16 +2236,16 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5985,
+      "Progressed": 5986,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-03-21T09:57:30.0588208+00:00",
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
-  "LastChanged": "2023-05-22T16:57:53.1033555+00:00",
-  "LastChanged_Achievements": "2023-05-23T21:05:19.6553973+00:00",
+  "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
+  "LastChanged_Achievements": "2023-05-23T22:05:55.0255629+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.822955+00:00",
-  "LastUpdate_Ratings": "2023-05-23T20:57:52.1637071+00:00",
-  "LastUpdate_Achievements": "2023-05-23T21:05:19.6554276+00:00"
+  "LastUpdate_Ratings": "2023-05-23T21:58:09.6167519+00:00",
+  "LastUpdate_Achievements": "2023-05-23T22:05:55.0255973+00:00"
 }
