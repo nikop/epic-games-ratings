@@ -54,7 +54,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Legend | 0.50% | ~46 |
 | Playful Mood | 0.50% | ~46 |
 | Dreadful Dragon | 0.50% | ~46 |
-| Truly Profane Gift | 0.40% | ~36 |
+| Truly Profane Gift | 0.50% | ~46 |
 | Masterful Charge | 0.30% | ~27 |
 | Masterful Dispel | 0.20% | ~18 |
 | Prelate's Nemesis | 0.20% | ~18 |
@@ -158,12 +158,12 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-22 | 9,090 | 0 |
 | 2023-05-23 | 9,115 | 0 |
 ## Awards
-Max (Character Customization): 1,636  (Ranked 111)  
-Sum: 6,639 (Ranked 110)  
+Max (Character Customization): 1,638  (Ranked 111)  
+Sum: 6,641 (Ranked 110)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 1,636 |
+| This game has Inclusive Character Customization | 1,638 |
 | This game is Extremely Fun | 621 |
 | This game has Amazing Characters | 606 |
 | This game is Highly Recommended | 606 |
@@ -293,3 +293,4 @@ Diff (max vs sum): 1
 | 2023-05-20 | 4.76 | - | 1,636 | 6,635 |
 | 2023-05-21 | 4.76 | - | 1,636 | 6,637 |
 | 2023-05-22 | 4.76 | - | 1,636 | 6,639 |
+| 2023-05-23 | 4.76 | - | 1,638 | 6,641 |

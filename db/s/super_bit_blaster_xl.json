@@ -4,7 +4,7 @@
   "ProductSlug": "super-bit-blaster-xl-35d206",
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-05-08T16:00:00+00:00",
@@ -220,25 +220,25 @@
       "ID": "1.5 Million",
       "SetID": "1f269fc",
       "Name": "1.5 Million",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "10K",
       "SetID": "1f269fc",
       "Name": "10K",
-      "Percentage": 72,
+      "Percentage": 74,
       "XP": 40,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "15K",
       "SetID": "1f269fc",
       "Name": "15K",
-      "Percentage": 64,
+      "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "1K",
@@ -260,57 +260,57 @@
       "ID": "25K",
       "SetID": "1f269fc",
       "Name": "25K",
-      "Percentage": 56,
+      "Percentage": 59,
       "XP": 75,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "500K",
       "SetID": "1f269fc",
       "Name": "500K",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 75,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "50K",
       "SetID": "1f269fc",
       "Name": "50K",
-      "Percentage": 51,
+      "Percentage": 54,
       "XP": 100,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "5K",
       "SetID": "1f269fc",
       "Name": "5K",
-      "Percentage": 64,
+      "Percentage": 67,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "75K",
       "SetID": "1f269fc",
       "Name": "75K",
-      "Percentage": 46,
+      "Percentage": 49,
       "XP": 150,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Bit Blaster V2",
       "SetID": "1f269fc",
       "Name": "Bit Blaster V2",
-      "Percentage": 38,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Bit Blaster V3",
       "SetID": "1f269fc",
       "Name": "Bit Blaster V3",
-      "Percentage": 23,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Bit Blaster V4",
@@ -363,8 +363,8 @@
   ],
   "FirstSeen": "2023-05-20T01:55:13.7731097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:16.9581391+00:00",
-  "LastChanged_Achievements": "2023-05-23T15:06:15.7178147+00:00",
+  "LastChanged_Achievements": "2023-05-23T16:05:28.5054917+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:15.3020968+00:00",
-  "LastUpdate_Ratings": "2023-05-23T14:57:53.0868656+00:00",
-  "LastUpdate_Achievements": "2023-05-23T15:06:15.7178293+00:00"
+  "LastUpdate_Ratings": "2023-05-23T15:57:36.6162074+00:00",
+  "LastUpdate_Achievements": "2023-05-23T16:05:28.5055018+00:00"
 }

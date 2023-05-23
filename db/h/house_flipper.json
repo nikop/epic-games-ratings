@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -1434,9 +1434,9 @@
       "Count": 204
     }
   ],
-  "EOS_Progressed": 18927,
+  "EOS_Progressed": 18931,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2599,6 +2599,11 @@
       "Time": "2023-05-23T15:06:38.0717882+00:00",
       "NumProgressed": 18927,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-23T16:05:47.4456067+00:00",
+      "NumProgressed": 18931,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -2610,7 +2615,7 @@
       "Name": "Family man",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2271
+      "UsersEstimate": 2272
     },
     {
       "ID": "CarMechanic",
@@ -2618,7 +2623,7 @@
       "Name": "Car Mechanic",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ChangChoi",
@@ -2642,7 +2647,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2839
+      "UsersEstimate": 2840
     },
     {
       "ID": "EstateAgent",
@@ -2650,7 +2655,7 @@
       "Name": "Estate Agent",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "FirstMoney",
@@ -2658,7 +2663,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 17791
+      "UsersEstimate": 17795
     },
     {
       "ID": "GameOver",
@@ -2698,7 +2703,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2271
+      "UsersEstimate": 2272
     },
     {
       "ID": "KnockKnock",
@@ -2714,15 +2719,15 @@
       "Name": "Millionaire",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "MrAndMrsJantart",
       "SetID": "d0jo315",
       "Name": "Just Enough",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3596
+      "UsersEstimate": 3408
     },
     {
       "ID": "Negotiator",
@@ -2738,7 +2743,7 @@
       "Name": "Perfectionist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "RafaelErko",
@@ -2746,7 +2751,7 @@
       "Name": "Alpha Male",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3596
+      "UsersEstimate": 3597
     },
     {
       "ID": "SeniorEstateAgent",
@@ -2762,7 +2767,7 @@
       "Name": "Pro-creative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3407
+      "UsersEstimate": 3408
     },
     {
       "ID": "Strongman",
@@ -2770,7 +2775,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5867
+      "UsersEstimate": 5869
     },
     {
       "ID": "VeronicaLiptson",
@@ -2778,7 +2783,7 @@
       "Name": "Artistic soul",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1703
+      "UsersEstimate": 1704
     },
     {
       "ID": "YouDoItWrong",
@@ -2793,15 +2798,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 18927,
+      "Progressed": 18931,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-05-22T02:05:20.3991515+00:00",
-  "LastChanged_Achievements": "2023-05-23T15:06:38.0717875+00:00",
+  "LastChanged_Achievements": "2023-05-23T16:05:47.4456062+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:56.8900842+00:00",
-  "LastUpdate_Ratings": "2023-05-23T15:00:00.6928096+00:00",
-  "LastUpdate_Achievements": "2023-05-23T15:06:38.0718117+00:00"
+  "LastUpdate_Ratings": "2023-05-23T15:59:20.013166+00:00",
+  "LastUpdate_Achievements": "2023-05-23T16:05:47.4456268+00:00"
 }

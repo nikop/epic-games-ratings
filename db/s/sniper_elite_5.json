@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1266,
+  "EOS_Progressed": 1270,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 543,
+  "EOS_NewPlayers": 547,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1149,6 +1149,11 @@
       "Time": "2023-05-23T15:06:28.343962+00:00",
       "NumProgressed": 1266,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-23T16:05:39.1506759+00:00",
+      "NumProgressed": 1270,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1472,7 +1477,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -1727,13 +1732,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1217,
+      "Progressed": 1221,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1266,
+      "Progressed": 1270,
       "Completed": 2
     }
   ],
@@ -1741,8 +1746,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-23T13:59:59.0486682+00:00",
-  "LastChanged_Achievements": "2023-05-23T15:06:28.3439614+00:00",
+  "LastChanged_Achievements": "2023-05-23T16:05:39.1506753+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-23T15:01:22.4075663+00:00",
-  "LastUpdate_Achievements": "2023-05-23T15:06:28.3440562+00:00"
+  "LastUpdate_Ratings": "2023-05-23T16:00:24.7625422+00:00",
+  "LastUpdate_Achievements": "2023-05-23T16:05:39.1507328+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -334,9 +334,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 6667,
+  "EOS_Progressed": 6676,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 502,
+  "EOS_NewPlayers": 510,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2114,6 +2114,11 @@
       "Time": "2023-05-23T15:06:23.276124+00:00",
       "NumProgressed": 6667,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-23T16:05:35.0523768+00:00",
+      "NumProgressed": 6676,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 34,
@@ -2133,7 +2138,7 @@
       "Name": "Running Rampant",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH03",
@@ -2141,7 +2146,7 @@
       "Name": "Iron-y",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "ACH04",
@@ -2165,7 +2170,7 @@
       "Name": "Point A to Point B",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH07",
@@ -2189,7 +2194,7 @@
       "Name": "Bull in a China Shop",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH10",
@@ -2197,7 +2202,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "ACH11",
@@ -2205,7 +2210,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "ACH12",
@@ -2213,7 +2218,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ACH13",
@@ -2221,7 +2226,7 @@
       "Name": "Somebody Call the Wambulance?",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH14",
@@ -2229,7 +2234,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2600
+      "UsersEstimate": 2604
     },
     {
       "ID": "ACH15",
@@ -2237,7 +2242,7 @@
       "Name": "Just Like the Real Thing",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH16",
@@ -2269,7 +2274,7 @@
       "Name": "Don\u0027t Need Roads",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH20",
@@ -2285,7 +2290,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2867
+      "UsersEstimate": 2871
     },
     {
       "ID": "ACH22",
@@ -2293,7 +2298,7 @@
       "Name": "Life of the Party",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1133
+      "UsersEstimate": 1135
     },
     {
       "ID": "ACH23",
@@ -2301,7 +2306,7 @@
       "Name": "South American Connection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1535
     },
     {
       "ID": "ACH24",
@@ -2309,7 +2314,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "ACH25",
@@ -2317,7 +2322,7 @@
       "Name": "Chauffeur",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "ACH26",
@@ -2325,7 +2330,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "ACH27",
@@ -2341,7 +2346,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ACH29",
@@ -2349,7 +2354,7 @@
       "Name": "Take the Cannoli",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH30",
@@ -2373,7 +2378,7 @@
       "Name": "City Sleuth",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH33",
@@ -2396,7 +2401,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6667,
+      "Progressed": 6676,
       "Completed": 22
     }
   ],
@@ -2404,8 +2409,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-23T13:58:08.4937843+00:00",
-  "LastChanged_Achievements": "2023-05-23T15:06:23.2761234+00:00",
+  "LastChanged_Achievements": "2023-05-23T16:05:35.0523763+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:49.9519997+00:00",
-  "LastUpdate_Ratings": "2023-05-23T14:58:34.8506687+00:00",
-  "LastUpdate_Achievements": "2023-05-23T15:06:23.2761996+00:00"
+  "LastUpdate_Ratings": "2023-05-23T15:58:10.9468161+00:00",
+  "LastUpdate_Achievements": "2023-05-23T16:05:35.0524015+00:00"
 }

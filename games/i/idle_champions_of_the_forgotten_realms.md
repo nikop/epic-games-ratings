@@ -15,11 +15,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Ring of Regeneration | 0.30% | ~265 |
 | The Mad Wizard | 0.30% | ~265 |
 | Quick or Quack | 0.30% | ~164 |
+| Owlbear Necessities | 0.20% | ~109 |
 | Best Thay Ever | 0.20% | ~109 |
 | Were-verpowered | 0.20% | ~177 |
 | Checkmate | 0.20% | ~109 |
 | Vecna Out! | 0.20% | ~109 |
 | A Persistent Buzzing | 0.20% | ~177 |
+| Terror in the Dark | 0.20% | ~177 |
 | Unearthed Evil | 0.20% | ~177 |
 | Seeking Allies | 0.20% | ~177 |
 | Are Ya Chicken? | 0.20% | ~177 |
@@ -104,7 +106,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Heavy Burden | 0.10% | ~88 |
 | Seeds of Destruction | 0.10% | ~55 |
 | Speeds of Destruction | 0.10% | ~55 |
-| Owlbear Necessities | 0.10% | ~55 |
 | The Evacuation of Waterdeep | 0.10% | ~55 |
 | Flapjacks and Waffles | 0.10% | ~55 |
 | On the Hunt | 0.10% | ~88 |
@@ -159,7 +160,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to the Band | 0.10% | ~55 |
 | Beast Mode | 0.10% | ~88 |
 | The Forbidden City | 0.10% | ~88 |
-| Terror in the Dark | 0.10% | ~88 |
 | Periodic Petrification | 0.10% | ~88 |
 | No Good at All | 0.10% | ~88 |
 | Fall From Grace | 0.10% | ~88 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.10% | ~88 |
 | Rescue in the Jungle | 0.10% | ~88 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,397 (Ranked 60)  
-Completed: 1,867 (2.11%) (Ranked 62)  
+Progressed: 88,405 (Ranked 60)  
+Completed: 1,868 (2.11%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -533,7 +533,7 @@ Completed: 1,867 (2.11%) (Ranked 62)
 | 2023-05-20 | 88,132 | 1,854 |
 | 2023-05-21 | 88,251 | 1,860 |
 | 2023-05-22 | 88,337 | 1,863 |
-| 2023-05-23 | 88,397 | 1,867 |
+| 2023-05-23 | 88,405 | 1,868 |
 ## Awards
 Max (Diverse Characters): 4,896  (Ranked 64)  
 Sum: 29,957 (Ranked 37)  

@@ -21,11 +21,11 @@
 | You're it | 26.00% | ~81 |
 | First Come, First Serve | 25.00% | ~78 |
 | To and Fro | 25.00% | ~78 |
+| Take that Frosty! | 25.00% | ~78 |
 | Beach Party! | 25.00% | ~78 |
 | In the Bag! | 25.00% | ~78 |
 | Disoriented | 24.00% | ~74 |
 | Anger Issues | 24.00% | ~74 |
-| Take that Frosty! | 24.00% | ~74 |
 | Goodbye cruel world | 24.00% | ~74 |
 | Car-Tapult | 23.00% | ~71 |
 | Your Highness | 23.00% | ~71 |

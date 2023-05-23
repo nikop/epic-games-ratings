@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1440,
+  "EOS_Progressed": 1441,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -605,6 +605,11 @@
       "Time": "2023-05-23T04:00:28.9006308+00:00",
       "NumProgressed": 1440,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-23T16:00:57.1687274+00:00",
+      "NumProgressed": 1441,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -616,7 +621,7 @@
       "Name": "Become King",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "Collect20Gold",
@@ -624,7 +629,7 @@
       "Name": "Collect Gold",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "Collect20Iron",
@@ -638,9 +643,9 @@
       "ID": "Collect50MonsterParts",
       "SetID": "9lj35g4",
       "Name": "Collect Monster Parts",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 792
+      "UsersEstimate": 807
     },
     {
       "ID": "CollectAllStatues",
@@ -688,7 +693,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "CompleteGuardFaction",
@@ -696,7 +701,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "CompleteHunterFaction",
@@ -752,7 +757,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "GetRangedWeapon",
@@ -800,7 +805,7 @@
       "Name": "Meet the Creatures from the Deep",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "MysteryKingsChamber",
@@ -824,7 +829,7 @@
       "Name": "Smithy Ready to Craft",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "RepairThroneRoom",
@@ -848,29 +853,29 @@
       "Name": "Return Power To The Depths",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1440,
+      "Progressed": 1441,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 81,
-      "Completed": 81
+      "Progressed": 82,
+      "Completed": 82
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-04-02T20:59:05.8070796+00:00",
-  "LastChanged_Achievements": "2023-05-23T15:01:59.352115+00:00",
+  "LastChanged_Achievements": "2023-05-23T16:00:57.1687269+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3670256+00:00",
-  "LastUpdate_Ratings": "2023-05-23T14:58:42.6971358+00:00",
-  "LastUpdate_Achievements": "2023-05-23T15:01:59.3521571+00:00"
+  "LastUpdate_Ratings": "2023-05-23T15:58:16.9237323+00:00",
+  "LastUpdate_Achievements": "2023-05-23T16:00:57.1687482+00:00"
 }

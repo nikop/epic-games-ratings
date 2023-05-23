@@ -272,9 +272,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 10537,
+  "EOS_Progressed": 10538,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 260,
+  "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1522,6 +1522,11 @@
       "Time": "2023-05-23T15:06:48.8274233+00:00",
       "NumProgressed": 10537,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-05-23T16:05:56.8002759+00:00",
+      "NumProgressed": 10538,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 35,
@@ -1533,7 +1538,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 9694
+      "UsersEstimate": 9695
     },
     {
       "ID": "ACH_02",
@@ -1541,7 +1546,7 @@
       "Name": "Newcomers",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 8219
+      "UsersEstimate": 8220
     },
     {
       "ID": "ACH_03",
@@ -1549,7 +1554,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 7692
+      "UsersEstimate": 7693
     },
     {
       "ID": "ACH_04",
@@ -1613,7 +1618,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 4952
+      "UsersEstimate": 4953
     },
     {
       "ID": "ACH_12",
@@ -1621,7 +1626,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 4636
+      "UsersEstimate": 4637
     },
     {
       "ID": "ACH_13",
@@ -1757,7 +1762,7 @@
       "Name": "Sneaky",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "ACH_30",
@@ -1812,7 +1817,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 10537,
+      "Progressed": 10538,
       "Completed": 32
     }
   ],
@@ -1820,8 +1825,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-05-20T22:59:09.5997761+00:00",
-  "LastChanged_Achievements": "2023-05-23T15:06:48.8274227+00:00",
+  "LastChanged_Achievements": "2023-05-23T16:05:56.8002754+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:44.7734011+00:00",
-  "LastUpdate_Ratings": "2023-05-23T14:59:55.9427729+00:00",
-  "LastUpdate_Achievements": "2023-05-23T15:06:48.8274775+00:00"
+  "LastUpdate_Ratings": "2023-05-23T15:59:16.1735094+00:00",
+  "LastUpdate_Achievements": "2023-05-23T16:05:56.8003016+00:00"
 }

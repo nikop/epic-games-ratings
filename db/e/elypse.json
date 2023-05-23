@@ -216,9 +216,9 @@
       "ID": "Ach_BossDarkPoulpe",
       "SetID": "4o5gjp0",
       "Name": "Squid game",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Ach_BossFinal",
@@ -232,9 +232,9 @@
       "ID": "Ach_BossGolem",
       "SetID": "4o5gjp0",
       "Name": "Rock Solid",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Ach_BossSlug",
@@ -288,9 +288,9 @@
       "ID": "Ach_DeathXTime",
       "SetID": "4o5gjp0",
       "Name": "Masochistic",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "Ach_DiscoveryCatacombes",
@@ -479,8 +479,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-05-23T15:06:18.697712+00:00",
+  "LastChanged_Achievements": "2023-05-23T16:05:31.054266+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.0525193+00:00",
-  "LastUpdate_Ratings": "2023-05-23T14:58:09.227779+00:00",
-  "LastUpdate_Achievements": "2023-05-23T15:06:18.697742+00:00"
+  "LastUpdate_Ratings": "2023-05-23T15:57:50.0349169+00:00",
+  "LastUpdate_Achievements": "2023-05-23T16:05:31.0542868+00:00"
 }

@@ -6,23 +6,23 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 27.00% | ~6,082 |
-| Rookie | 24.00% | ~5,406 |
-| Nomad | 19.00% | ~4,280 |
-| Picking Up Speed | 17.00% | ~3,830 |
-| Welcome Maya | 16.00% | ~3,604 |
-| Sightseer | 12.00% | ~2,703 |
-| Scout | 10.00% | ~2,253 |
-| Amateur | 9.00% | ~2,027 |
-| Enter Paz | 9.00% | ~2,027 |
-| Wanderer | 9.00% | ~2,027 |
-| Unlock Maya | 7.00% | ~1,577 |
-| Aviator | 6.00% | ~1,352 |
-| One With The Board | 6.00% | ~1,352 |
-| Voyager | 6.00% | ~1,352 |
-| My Little Friend | 5.00% | ~1,126 |
-| Sandboarder | 4.00% | ~901 |
-| Izel Has Arrived | 4.00% | ~901 |
+| Finding Your Footing | 27.00% | ~6,086 |
+| Rookie | 24.00% | ~5,410 |
+| Nomad | 19.00% | ~4,283 |
+| Picking Up Speed | 17.00% | ~3,832 |
+| Welcome Maya | 16.00% | ~3,607 |
+| Sightseer | 12.00% | ~2,705 |
+| Scout | 10.00% | ~2,254 |
+| Amateur | 9.00% | ~2,029 |
+| Enter Paz | 9.00% | ~2,029 |
+| Wanderer | 9.00% | ~2,029 |
+| Unlock Maya | 7.00% | ~1,578 |
+| Aviator | 6.00% | ~1,353 |
+| One With The Board | 6.00% | ~1,353 |
+| Voyager | 6.00% | ~1,353 |
+| My Little Friend | 5.00% | ~1,127 |
+| Sandboarder | 4.00% | ~902 |
+| Izel Has Arrived | 4.00% | ~902 |
 | Junkie | 3.00% | ~676 |
 | Traveler | 3.00% | ~676 |
 | Journeyer | 3.00% | ~676 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~23 |
 | Windswept | 0.10% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,527 (Ranked 89)  
+Progressed: 22,542 (Ranked 89)  
 Completed: 3 (0.01%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,11 +79,11 @@ Completed: 3 (0.01%) (Ranked 193)
 | 2023-05-20 | 22,122 | 3 |
 | 2023-05-21 | 22,315 | 3 |
 | 2023-05-22 | 22,451 | 3 |
-| 2023-05-23 | 22,527 | 3 |
+| 2023-05-23 | 22,542 | 3 |
 ## Awards
-Max (Great for Quick Sessions): 44  (Ranked 404)  
+Max (Great for Quick Sessions): 44  (Ranked 405)  
 Sum: 344 (Ranked 316)  
-Diff (max vs sum): 88  
+Diff (max vs sum): 89  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 44 |

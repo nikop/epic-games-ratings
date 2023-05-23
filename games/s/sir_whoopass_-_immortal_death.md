@@ -7,14 +7,14 @@
 | Tastes just like chicken! | 95.00% | ~52 |
 | MLG 360 no scope kill! | 93.00% | ~51 |
 | Are you ready to rumble? | 93.00% | ~51 |
-| That's what cheese said! | 84.00% | ~46 |
-| I like you...but I have to kill you... | 80.00% | ~44 |
-| Nerd | 80.00% | ~44 |
-| AHHHHHH.....I'M ON FIRE!!! | 78.00% | ~43 |
-| Not so hip anymore! | 76.00% | ~42 |
-| Up and down | 73.00% | ~40 |
-| Blurry depth perception | 71.00% | ~39 |
-| Rolling, Rolling, Rolling | 67.00% | ~37 |
+| That's what cheese said! | 85.00% | ~47 |
+| I like you...but I have to kill you... | 82.00% | ~45 |
+| Nerd | 82.00% | ~45 |
+| AHHHHHH.....I'M ON FIRE!!! | 80.00% | ~44 |
+| Not so hip anymore! | 78.00% | ~43 |
+| Up and down | 75.00% | ~41 |
+| Blurry depth perception | 73.00% | ~40 |
+| Rolling, Rolling, Rolling | 69.00% | ~38 |
 | Oh, you're up to no gouda! | 60.00% | ~33 |
 | Make Love not War-Craft a Mistlefoe | 56.00% | ~31 |
 | Fire-fighter! | 55.00% | ~30 |
@@ -31,7 +31,7 @@
 | Self assessed tax return | 36.00% | ~20 |
 | Make America Grate Again | 35.00% | ~19 |
 | You are no match for me, Billy! | 33.00% | ~18 |
-| Karaoke king | 31.00% | ~17 |
+| Karaoke king | 33.00% | ~18 |
 | Haemochromatosis | 31.00% | ~17 |
 | Pasta Bolognese | 31.00% | ~17 |
 | You can't stop me, bro! | 29.00% | ~16 |

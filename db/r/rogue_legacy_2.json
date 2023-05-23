@@ -1095,9 +1095,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 21726,
+  "EOS_Progressed": 21728,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2615,6 +2615,11 @@
       "Time": "2023-05-23T15:06:44.2283375+00:00",
       "NumProgressed": 21726,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-05-23T16:05:52.7767595+00:00",
+      "NumProgressed": 21728,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -2768,9 +2773,9 @@
       "ID": "BossGardenDefeated",
       "SetID": "3ojhj46",
       "Name": "Progenitor and Prot\u00E9g\u00E9",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 65
     },
     {
       "ID": "BossStudyAdvancedDefeated",
@@ -2937,21 +2942,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 21726,
+      "Progressed": 21728,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 656,
+      "Progressed": 658,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-05-23T14:59:39.9807049+00:00",
-  "LastChanged_Achievements": "2023-05-23T15:06:44.2283367+00:00",
+  "LastChanged_Achievements": "2023-05-23T16:05:52.7767588+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:25.8639734+00:00",
-  "LastUpdate_Ratings": "2023-05-23T14:59:39.9807055+00:00",
-  "LastUpdate_Achievements": "2023-05-23T15:06:44.2283938+00:00"
+  "LastUpdate_Ratings": "2023-05-23T15:59:03.3246226+00:00",
+  "LastUpdate_Achievements": "2023-05-23T16:05:52.7767883+00:00"
 }

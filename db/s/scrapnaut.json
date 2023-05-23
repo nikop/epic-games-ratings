@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -313,9 +313,9 @@
       "ID": "ACH_10_DIG",
       "SetID": "7c4cldc",
       "Name": "Digger",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_ALL_TELEPORTS",
@@ -345,9 +345,9 @@
       "ID": "ACH_COLLECT_100_SCRAP",
       "SetID": "7c4cldc",
       "Name": "Scrap Master",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "ACH_COLLECT_10_HERBS",
@@ -361,9 +361,9 @@
       "ID": "ACH_COLLECT_10_MUSHROOMS",
       "SetID": "7c4cldc",
       "Name": "Mushroom Picker",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 106
+      "UsersEstimate": 108
     },
     {
       "ID": "ACH_COLLECT_20_RED_BOOKS",
@@ -393,17 +393,17 @@
       "ID": "ACH_COLLECT_50_ELECTROSCRAP",
       "SetID": "7c4cldc",
       "Name": "Electro-Scrap Gatherer",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_COLLECT_50_SCRAP",
       "SetID": "7c4cldc",
       "Name": "Scrap Gatherer",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_COOK",
@@ -465,17 +465,17 @@
       "ID": "ACH_KILL_20",
       "SetID": "7c4cldc",
       "Name": "Scrapper",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_KILL_50",
       "SetID": "7c4cldc",
       "Name": "Robot Destroyer",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_MAKE_CANNED_FOOD",
@@ -521,17 +521,17 @@
       "ID": "ACH_SMELTER",
       "SetID": "7c4cldc",
       "Name": "Smelter",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_SURVIVE_10_DAYS",
       "SetID": "7c4cldc",
       "Name": "Survivor",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_SURVIVE_20_DAYS",
@@ -570,8 +570,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-03-31T05:58:41.9972886+00:00",
-  "LastChanged_Achievements": "2023-05-23T15:06:17.6376837+00:00",
+  "LastChanged_Achievements": "2023-05-23T16:05:30.0782+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:01.8031827+00:00",
-  "LastUpdate_Ratings": "2023-05-23T14:58:50.0128+00:00",
-  "LastUpdate_Achievements": "2023-05-23T15:06:17.6377082+00:00"
+  "LastUpdate_Ratings": "2023-05-23T15:58:22.9403459+00:00",
+  "LastUpdate_Achievements": "2023-05-23T16:05:30.0782227+00:00"
 }

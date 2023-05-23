@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -148,9 +148,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6051,
+  "EOS_Progressed": 6052,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 332,
+  "EOS_NewPlayers": 331,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2658,6 +2658,11 @@
       "Time": "2023-05-23T15:06:51.6882288+00:00",
       "NumProgressed": 6051,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-23T16:05:59.0796126+00:00",
+      "NumProgressed": 6052,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -2725,7 +2730,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 2178
+      "UsersEstimate": 2179
     },
     {
       "ID": "0009",
@@ -2757,7 +2762,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1815
+      "UsersEstimate": 1816
     },
     {
       "ID": "0013",
@@ -2773,7 +2778,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 2178
+      "UsersEstimate": 2179
     },
     {
       "ID": "0015",
@@ -2861,7 +2866,7 @@
       "Name": "Tailor-Made",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 2299
+      "UsersEstimate": 2300
     },
     {
       "ID": "0026",
@@ -2893,7 +2898,7 @@
       "Name": "A view to Win",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "0030",
@@ -2933,7 +2938,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1573
+      "UsersEstimate": 1574
     },
     {
       "ID": "0035",
@@ -2956,7 +2961,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 6051,
+      "Progressed": 6052,
       "Completed": 0
     }
   ],
@@ -2964,8 +2969,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-05-19T17:59:42.1652138+00:00",
-  "LastChanged_Achievements": "2023-05-23T15:06:51.6882282+00:00",
+  "LastChanged_Achievements": "2023-05-23T16:05:59.0796121+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:04:08.7969663+00:00",
-  "LastUpdate_Ratings": "2023-05-23T15:00:17.5449779+00:00",
-  "LastUpdate_Achievements": "2023-05-23T15:06:51.6882696+00:00"
+  "LastUpdate_Ratings": "2023-05-23T15:59:32.3036345+00:00",
+  "LastUpdate_Achievements": "2023-05-23T16:05:59.0796448+00:00"
 }

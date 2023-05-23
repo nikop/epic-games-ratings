@@ -3892,10 +3892,10 @@
       "Count": 3238
     }
   ],
-  "EOS_Progressed": 88397,
-  "EOS_Completed": 1867,
-  "EOS_NewPlayers": 735,
-  "EOS_NewCompleters": 24,
+  "EOS_Progressed": 88405,
+  "EOS_Completed": 1868,
+  "EOS_NewPlayers": 737,
+  "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
     {
@@ -7082,6 +7082,11 @@
       "Time": "2023-05-23T15:07:09.3989851+00:00",
       "NumProgressed": 88397,
       "NumCompleted": 1867
+    },
+    {
+      "Time": "2023-05-23T16:06:14.5562907+00:00",
+      "NumProgressed": 88405,
+      "NumCompleted": 1868
     }
   ],
   "TotalAchievements": 493,
@@ -7731,9 +7736,9 @@
       "ID": "objective_completed_1154",
       "SetID": "415jc5c",
       "Name": "Owlbear Necessities",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 109
     },
     {
       "ID": "objective_completed_1158",
@@ -8211,9 +8216,9 @@
       "ID": "objective_completed_15",
       "SetID": "cc37lbc",
       "Name": "Terror in the Dark",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_150",
@@ -11036,21 +11041,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54671,
-      "Completed": 2676
+      "Progressed": 54679,
+      "Completed": 2677
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88397,
-      "Completed": 1867
+      "Progressed": 88405,
+      "Completed": 1868
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-23T14:58:18.2031622+00:00",
-  "LastChanged_Achievements": "2023-05-23T15:07:09.3989845+00:00",
+  "LastChanged_Achievements": "2023-05-23T16:06:14.55629+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-23T14:58:18.2031632+00:00",
-  "LastUpdate_Achievements": "2023-05-23T15:07:09.4018199+00:00"
+  "LastUpdate_Ratings": "2023-05-23T15:57:56.8837768+00:00",
+  "LastUpdate_Achievements": "2023-05-23T16:06:14.5712714+00:00"
 }

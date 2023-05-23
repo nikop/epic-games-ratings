@@ -41,7 +41,7 @@
 | Trigger-Happy | 0.00% | ~0 |
 | Welcome to Mordor! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4 (Ranked 360)  
+Progressed: 4 (Ranked 361)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |

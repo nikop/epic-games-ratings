@@ -5,25 +5,25 @@ Rating: 4.50 (Ranked 533)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 76.00% | ~1,094 |
-| Become King | 70.00% | ~1,008 |
+| Complete Guard Faction | 76.00% | ~1,095 |
+| Become King | 70.00% | ~1,009 |
 | Ranged Weapon | 59.00% | ~850 |
 | Defeat 25 Frogs | 59.00% | ~850 |
-| Collect Monster Parts | 55.00% | ~792 |
+| Collect Monster Parts | 56.00% | ~807 |
 | Two Handed Weapon | 54.00% | ~778 |
 | Defeat 25 Grubs | 50.00% | ~720 |
 | Rescue Redgi's Brothers | 50.00% | ~720 |
 | Collect Iron Ore | 45.00% | ~648 |
 | Defeat 25 Mozis | 44.00% | ~634 |
 | Kitchen Ready To Cook | 44.00% | ~634 |
-| Collect Gold | 43.00% | ~619 |
-| Smithy Ready to Craft | 43.00% | ~619 |
-| Fix the Travellers Wagon | 41.00% | ~590 |
-| Complete Elder Faction | 38.00% | ~547 |
+| Collect Gold | 43.00% | ~620 |
+| Smithy Ready to Craft | 43.00% | ~620 |
+| Fix the Travellers Wagon | 41.00% | ~591 |
+| Complete Elder Faction | 38.00% | ~548 |
 | End of the Mozis | 35.00% | ~504 |
 | Throne Room Fit For A King | 35.00% | ~504 |
-| Meet the Creatures from the Deep | 33.00% | ~475 |
-| Return Power To The Depths | 33.00% | ~475 |
+| Meet the Creatures from the Deep | 33.00% | ~476 |
+| Return Power To The Depths | 33.00% | ~476 |
 | Defeat Ratnor Rodentson | 27.00% | ~389 |
 | Return the Statues | 24.00% | ~346 |
 | Defeat Rattus Augustail | 24.00% | ~346 |
@@ -36,7 +36,7 @@ Rating: 4.50 (Ranked 533)
 | King of Kings | 7.00% | ~101 |
 | A new Warchief rises | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,440 (Ranked 155)  
+Progressed: 1,441 (Ranked 155)  
 Completed: 6 (0.42%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,7 +63,7 @@ Completed: 6 (0.42%) (Ranked 111)
 | 2023-05-20 | 1,403 | 6 |
 | 2023-05-21 | 1,425 | 6 |
 | 2023-05-22 | 1,437 | 6 |
-| 2023-05-23 | 1,440 | 6 |
+| 2023-05-23 | 1,441 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

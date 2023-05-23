@@ -14,11 +14,11 @@ Rating: 4.55 (Ranked 467)
 | A Thousand Strong | 3.00% | ~63 |
 | Ready for a New World | 3.00% | ~63 |
 | Breaking Protocol | 3.00% | ~63 |
+| Permanent Redesigns | 3.00% | ~63 |
 | Ain't Nobody Got Time for That | 3.00% | ~63 |
 | Hope Seeker | 3.00% | ~63 |
 | A Hunk of Junk | 2.00% | ~42 |
 | Fully Recycled | 2.00% | ~42 |
-| Permanent Redesigns | 2.00% | ~42 |
 | The Ship of Theseus | 2.00% | ~42 |
 | Sightseeing | 1.00% | ~21 |
 | Exceeding Capacity | 1.00% | ~21 |
@@ -29,11 +29,11 @@ Rating: 4.55 (Ranked 467)
 | Please Make it Stop! | 1.00% | ~21 |
 | From the Past | 1.00% | ~21 |
 | Man's Best Friend | 0.90% | ~19 |
+| Oats | 0.70% | ~15 |
 | In Dolos We Trust | 0.70% | ~15 |
 | BRAWL! | 0.70% | ~15 |
 | All in Good Health | 0.70% | ~15 |
 | Pulsar Disciple | 0.70% | ~15 |
-| Oats | 0.60% | ~13 |
 | What They Hide From Us | 0.60% | ~13 |
 | ...  in a finite world | 0.60% | ~13 |
 | Delivery! | 0.60% | ~13 |
@@ -46,13 +46,13 @@ Rating: 4.55 (Ranked 467)
 | Mutual Loyalty | 0.20% | ~4 |
 | Better Him Than Me | 0.20% | ~4 |
 | Tiqqun Unchained | 0.20% | ~4 |
+| Scientifically Accurate | 0.20% | ~4 |
 | Help of the Forgotten Member | 0.20% | ~4 |
 | Tiqqun Contender | 0.10% | ~2 |
 | Remember the Dead | 0.10% | ~2 |
 | Catastrophe Avoided | 0.10% | ~2 |
 | Gregor Spinoza | 0.10% | ~2 |
 | Work Harder | 0.10% | ~2 |
-| Scientifically Accurate | 0.10% | ~2 |
 | Soylent Green | 0.10% | ~2 |
 | I Give You the Stars | 0.10% | ~0 |
 | Beyond Time and Space | 0.00% | ~0 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 467)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,099 (Ranked 143)  
+Progressed: 2,100 (Ranked 143)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-20 | 2,021 | 0 |
 | 2023-05-21 | 2,063 | 0 |
 | 2023-05-22 | 2,083 | 0 |
-| 2023-05-23 | 2,099 | 0 |
+| 2023-05-23 | 2,100 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
