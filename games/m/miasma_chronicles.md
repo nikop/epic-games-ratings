@@ -4,11 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 44.00% | ~11 |
-| Giant Killer | 4.00% | ~1 |
-| Newtonian Knockout | 4.00% | ~1 |
-| Recycler | 4.00% | ~1 |
-| Sensei | 4.00% | ~1 |
+| First Blood | 33.00% | ~16 |
+| Dr Jones | 2.00% | ~1 |
+| Giant Killer | 2.00% | ~1 |
+| Lumberjack | 2.00% | ~1 |
+| Newtonian Knockout | 2.00% | ~1 |
+| Recycler | 2.00% | ~1 |
+| Sensei | 2.00% | ~1 |
 | Alpha Editor | 0.00% | ~0 |
 | Are you not entertained? | 0.00% | ~0 |
 | Aspiring Editor | 0.00% | ~0 |
@@ -26,7 +28,6 @@
 | Limp Richard | 0.00% | ~0 |
 | Jarhead | 0.00% | ~0 |
 | Dressed To Kill | 0.00% | ~0 |
-| Dr Jones | 0.00% | ~0 |
 | Editor Adept | 0.00% | ~0 |
 | Endgame | 0.00% | ~0 |
 | Exorcist | 0.00% | ~0 |
@@ -40,7 +41,6 @@
 | Hold The Line | 0.00% | ~0 |
 | I am the law! | 0.00% | ~0 |
 | Infiltrator | 0.00% | ~0 |
-| Lumberjack | 0.00% | ~0 |
 | Master Editor | 0.00% | ~0 |
 | Pushing Daisy | 0.00% | ~0 |
 | QA Has Suffered! (Redux) | 0.00% | ~0 |
@@ -56,9 +56,9 @@
 | The Watchers | 0.00% | ~0 |
 | Wipe Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25 (Ranked 312)  
+Progressed: 49 (Ranked 288)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-05-23 | 25 | 0 |
+| 2023-05-23 | 49 | 0 |

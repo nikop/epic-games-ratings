@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1196,9 +1196,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61792,
+  "EOS_Progressed": 61798,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 877,
+  "EOS_NewPlayers": 882,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3471,6 +3471,11 @@
       "Time": "2023-05-23T16:06:09.146527+00:00",
       "NumProgressed": 61792,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-23T17:07:20.2098074+00:00",
+      "NumProgressed": 61798,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3808,9 +3813,9 @@
       "ID": "HARLEY_4",
       "SetID": "4eo5ebm",
       "Name": "Universal Health Scare",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 309
+      "UsersEstimate": 371
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -3969,13 +3974,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61792,
+      "Progressed": 61798,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32072,
+      "Progressed": 32078,
       "Completed": 2640
     }
   ],
@@ -3983,8 +3988,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-23T13:59:19.7620862+00:00",
-  "LastChanged_Achievements": "2023-05-23T16:06:09.1465265+00:00",
+  "LastChanged_Achievements": "2023-05-23T17:07:20.209807+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-23T15:59:37.3411607+00:00",
-  "LastUpdate_Achievements": "2023-05-23T16:06:09.1465833+00:00"
+  "LastUpdate_Ratings": "2023-05-23T17:00:42.4636873+00:00",
+  "LastUpdate_Achievements": "2023-05-23T17:07:20.209861+00:00"
 }

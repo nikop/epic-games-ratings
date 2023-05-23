@@ -2,13 +2,13 @@
   "ID": "d5cbd232ad304c91aacc20f31849435c",
   "Name": "House Flipper",
   "ProductSlug": "house-flipper",
-  "Ranking_Rating": 192,
+  "Ranking_Rating": 212,
   "Ranking_Popularity": 226,
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.7,
+  "Rating": 4.69,
   "NumberOfRatings": 1023,
   "RatingHistory": [
     {
@@ -1360,10 +1360,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 2125,
       "NumberOfAwardsMax": 288
+    },
+    {
+      "Time": "2023-05-23T17:00:20.2322092+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2126,
+      "NumberOfAwardsMax": 288
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2125,
+  "NumberOfAwards": 2126,
   "NumberOfAwardsMax": 288,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1419,7 +1425,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 183
+      "Count": 184
     },
     {
       "Text": "This game has Easy Combat",
@@ -1434,9 +1440,9 @@
       "Count": 204
     }
   ],
-  "EOS_Progressed": 18931,
+  "EOS_Progressed": 18933,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2604,6 +2610,11 @@
       "Time": "2023-05-23T16:05:47.4456067+00:00",
       "NumProgressed": 18931,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-23T17:06:55.5552013+00:00",
+      "NumProgressed": 18933,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -2663,7 +2674,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 17795
+      "UsersEstimate": 17797
     },
     {
       "ID": "GameOver",
@@ -2798,15 +2809,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 18931,
+      "Progressed": 18933,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
-  "LastChanged": "2023-05-22T02:05:20.3991515+00:00",
-  "LastChanged_Achievements": "2023-05-23T16:05:47.4456062+00:00",
+  "LastChanged": "2023-05-23T17:00:20.2322091+00:00",
+  "LastChanged_Achievements": "2023-05-23T17:06:55.5552008+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:56.8900842+00:00",
-  "LastUpdate_Ratings": "2023-05-23T15:59:20.013166+00:00",
-  "LastUpdate_Achievements": "2023-05-23T16:05:47.4456268+00:00"
+  "LastUpdate_Ratings": "2023-05-23T17:00:20.2322096+00:00",
+  "LastUpdate_Achievements": "2023-05-23T17:06:55.5552264+00:00"
 }

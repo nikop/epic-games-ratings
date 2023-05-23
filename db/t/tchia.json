@@ -2150,9 +2150,9 @@
       "ID": "IN_A_PINCH",
       "SetID": "3cck1g6",
       "Name": "In a Pinch",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1196
     },
     {
       "ID": "LIBERATOR",
@@ -2223,8 +2223,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-22T16:57:53.1033555+00:00",
-  "LastChanged_Achievements": "2023-05-23T16:05:29.2105985+00:00",
+  "LastChanged_Achievements": "2023-05-23T17:06:34.7474495+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.822955+00:00",
-  "LastUpdate_Ratings": "2023-05-23T15:57:50.1914584+00:00",
-  "LastUpdate_Achievements": "2023-05-23T16:05:29.2106154+00:00"
+  "LastUpdate_Ratings": "2023-05-23T16:58:32.0166948+00:00",
+  "LastUpdate_Achievements": "2023-05-23T17:06:34.7474773+00:00"
 }

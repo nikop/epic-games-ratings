@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -102,7 +102,7 @@
   "Tags": [],
   "EOS_Progressed": 2115,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1949,9 +1949,9 @@
       "ID": "STB_MISSION3_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Devineur",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 529
+      "UsersEstimate": 550
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -2142,8 +2142,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-22T18:57:55.6825714+00:00",
-  "LastChanged_Achievements": "2023-05-23T16:05:41.4420374+00:00",
+  "LastChanged_Achievements": "2023-05-23T17:06:48.8633598+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:08.2361804+00:00",
-  "LastUpdate_Ratings": "2023-05-23T15:57:31.2148131+00:00",
-  "LastUpdate_Achievements": "2023-05-23T16:05:41.442077+00:00"
+  "LastUpdate_Ratings": "2023-05-23T16:58:08.7160727+00:00",
+  "LastUpdate_Achievements": "2023-05-23T17:06:48.8634223+00:00"
 }

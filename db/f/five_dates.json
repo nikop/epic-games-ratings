@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -258,9 +258,9 @@
       "ID": "hold_my_beer",
       "SetID": "c4ipj3h",
       "Name": "Hold my Beer",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 25,
-      "UsersEstimate": 236
+      "UsersEstimate": 239
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -355,8 +355,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-05-23T16:05:34.4617581+00:00",
+  "LastChanged_Achievements": "2023-05-23T17:06:40.7799049+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:42.8167872+00:00",
-  "LastUpdate_Ratings": "2023-05-23T15:58:02.3729414+00:00",
-  "LastUpdate_Achievements": "2023-05-23T16:05:34.4617694+00:00"
+  "LastUpdate_Ratings": "2023-05-23T16:58:46.2629331+00:00",
+  "LastUpdate_Achievements": "2023-05-23T17:06:40.779917+00:00"
 }

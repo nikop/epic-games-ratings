@@ -6,12 +6,12 @@
 | ---- | ---------- | ----- |
 | Brute force | 89.00% | ~17 |
 | What's going on here? | 84.00% | ~16 |
+| Nimble fingers | 68.00% | ~13 |
 | Room 104 | 68.00% | ~13 |
 | Face to face | 68.00% | ~13 |
 | Let's play a game… | 63.00% | ~12 |
-| Nimble fingers | 63.00% | ~12 |
 | Now or never | 63.00% | ~12 |
-| First aid | 47.00% | ~9 |
+| First aid | 53.00% | ~10 |
 | Soundtrack | 47.00% | ~9 |
 | Antidote | 42.00% | ~8 |
 | Pick the right door | 26.00% | ~5 |
@@ -26,8 +26,8 @@
 | One-way | 21.00% | ~4 |
 | The third floor | 21.00% | ~4 |
 | Born again | 16.00% | ~3 |
+| He who seeks, finds! | 16.00% | ~3 |
 | 373 | 11.00% | ~2 |
-| He who seeks, finds! | 11.00% | ~2 |
 | The experiment | 5.00% | ~1 |
 | Eva's diary | 5.00% | ~1 |
 | Horror book | 5.00% | ~1 |

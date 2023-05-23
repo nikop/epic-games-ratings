@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 341,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 62,
+  "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -416,9 +416,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 13390,
+  "EOS_Progressed": 13398,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 825,
+  "EOS_NewPlayers": 833,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1301,6 +1301,11 @@
       "Time": "2023-05-23T16:02:47.1893563+00:00",
       "NumProgressed": 13390,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-05-23T17:03:27.6640844+00:00",
+      "NumProgressed": 13398,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 40,
@@ -1334,9 +1339,9 @@
       "ID": "BUY_ALL_WEAPONS",
       "SetID": "4hj6d86",
       "Name": "You Need a Gun",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 27
     },
     {
       "ID": "DISARM_ENEMY",
@@ -1486,9 +1491,9 @@
       "ID": "PRINT_WEAPON",
       "SetID": "4hj6d86",
       "Name": "Paper Jams",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 121
     },
     {
       "ID": "SHARE_PHOTO",
@@ -1518,9 +1523,9 @@
       "ID": "STORY_HABITAT",
       "SetID": "4hj6d86",
       "Name": "Without A Paddle",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 54
     },
     {
       "ID": "STORY_HANGAR",
@@ -1542,9 +1547,9 @@
       "ID": "STORY_OUTBREAK",
       "SetID": "4hj6d86",
       "Name": "Desperate Times",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 121
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -1566,9 +1571,9 @@
       "ID": "STORY_TUNNELS",
       "SetID": "4hj6d86",
       "Name": "Power Up",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 27
     },
     {
       "ID": "DISMEMBER_100",
@@ -1600,7 +1605,7 @@
       "Name": "Bear Trap",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -1631,13 +1636,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13390,
+      "Progressed": 13398,
       "Completed": 52
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1316,
+      "Progressed": 1324,
       "Completed": 29
     }
   ],
@@ -1645,8 +1650,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-22T19:57:44.0247925+00:00",
-  "LastChanged_Achievements": "2023-05-23T16:02:47.1893555+00:00",
+  "LastChanged_Achievements": "2023-05-23T17:03:27.6640841+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-23T15:57:43.8770263+00:00",
-  "LastUpdate_Achievements": "2023-05-23T16:02:47.1893855+00:00"
+  "LastUpdate_Ratings": "2023-05-23T16:58:24.152469+00:00",
+  "LastUpdate_Achievements": "2023-05-23T17:03:27.6641784+00:00"
 }

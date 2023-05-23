@@ -2,13 +2,13 @@
   "ID": "84c76746bce94effb8e1047fabfd7eb7",
   "Name": "World of Warships",
   "ProductSlug": "world-of-warships",
-  "Ranking_Rating": 647,
+  "Ranking_Rating": 641,
   "Ranking_Popularity": 130,
   "Ranking_PopularitySum": 80,
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-03-18T13:00:00+00:00",
     "PcReleaseDate": "2017-11-15T16:00:00+00:00",
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.43,
   "NumberOfRatings": 4733,
   "RatingHistory": [
     {
@@ -4666,10 +4666,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 9503,
       "NumberOfAwardsMax": 1069
+    },
+    {
+      "Time": "2023-05-23T16:59:33.3828994+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 9504,
+      "NumberOfAwardsMax": 1069
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9503,
+  "NumberOfAwards": 9504,
   "NumberOfAwardsMax": 1069,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -4683,7 +4689,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 1012
+      "Count": 1013
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4745,8 +4751,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:02.7521927+00:00",
-  "LastChanged": "2023-05-23T07:59:10.3831625+00:00",
+  "LastChanged": "2023-05-23T16:59:33.3828992+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:26.2825521+00:00",
-  "LastUpdate_Ratings": "2023-05-23T15:58:42.1355181+00:00",
-  "LastUpdate_Achievements": "2023-05-23T16:00:57.4824942+00:00"
+  "LastUpdate_Ratings": "2023-05-23T16:59:33.3829001+00:00",
+  "LastUpdate_Achievements": "2023-05-23T17:02:22.4995496+00:00"
 }

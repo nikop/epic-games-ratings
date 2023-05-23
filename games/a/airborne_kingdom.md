@@ -6,27 +6,27 @@ Number of Ratings: 74  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~3,595 |
-| A Grove Replanted | 53.00% | ~3,402 |
-| Fields Watered | 41.00% | ~2,632 |
-| Seekers Found | 41.00% | ~2,632 |
-| Settling the Skies | 41.00% | ~2,632 |
+| A Small Community | 56.00% | ~3,596 |
+| A Grove Replanted | 53.00% | ~3,403 |
+| Fields Watered | 41.00% | ~2,633 |
+| Seekers Found | 41.00% | ~2,633 |
+| Settling the Skies | 41.00% | ~2,633 |
 | Wind Powered | 40.00% | ~2,568 |
-| It Takes a Village | 34.00% | ~2,182 |
-| On the Town | 28.00% | ~1,797 |
+| It Takes a Village | 34.00% | ~2,183 |
+| On the Town | 28.00% | ~1,798 |
 | Daylight Found | 25.00% | ~1,605 |
 | Irons Scorched | 25.00% | ~1,605 |
 | Islands Connected | 25.00% | ~1,605 |
-| Harp Tuned | 23.00% | ~1,476 |
-| Pyre Ignited | 23.00% | ~1,476 |
-| Travelers Returned | 23.00% | ~1,476 |
-| Hopes Hoisted | 22.00% | ~1,412 |
+| Harp Tuned | 23.00% | ~1,477 |
+| Pyre Ignited | 23.00% | ~1,477 |
+| Travelers Returned | 23.00% | ~1,477 |
+| Hopes Hoisted | 22.00% | ~1,413 |
 | Knowledge Shared | 20.00% | ~1,284 |
 | Relic Finder | 20.00% | ~1,284 |
 | Worthy of the Title | 19.00% | ~1,220 |
 | A Peaceful Respite | 14.00% | ~899 |
-| Prophecy Fulfilled | 13.00% | ~834 |
-| A Learned Scholar | 12.00% | ~770 |
+| Prophecy Fulfilled | 13.00% | ~835 |
+| A Learned Scholar | 12.00% | ~771 |
 | A Wanderer’s Guide | 11.00% | ~706 |
 | Knowledge Seeker | 7.00% | ~449 |
 | The Cycle Continues | 3.00% | ~193 |
@@ -34,7 +34,7 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~128 |
 | A True Challenge | 2.00% | ~128 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,419 (Ranked 115)  
+Progressed: 6,421 (Ranked 115)  
 Completed: 51 (0.79%) (Ranked 96)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 51 (0.79%) (Ranked 96)
 | 2023-05-20 | 6,392 | 51 |
 | 2023-05-21 | 6,401 | 51 |
 | 2023-05-22 | 6,413 | 51 |
-| 2023-05-23 | 6,419 | 51 |
+| 2023-05-23 | 6,421 | 51 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

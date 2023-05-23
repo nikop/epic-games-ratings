@@ -5,15 +5,15 @@ Rating: 4.62 (Ranked 341)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~6,571 |
-| Pay 'n' Spray | 48.00% | ~3,943 |
-| All Dressed Up for San Fierro | 22.00% | ~1,807 |
-| The American Dream | 17.00% | ~1,396 |
-| School's Out | 15.00% | ~1,232 |
-| Smooth Moves | 15.00% | ~1,232 |
+| Getting Started | 80.00% | ~6,574 |
+| Pay 'n' Spray | 48.00% | ~3,945 |
+| All Dressed Up for San Fierro | 22.00% | ~1,808 |
+| The American Dream | 17.00% | ~1,397 |
+| School's Out | 15.00% | ~1,233 |
+| Smooth Moves | 15.00% | ~1,233 |
 | Today Was a Good Day | 13.00% | ~1,068 |
 | What happens in Las Venturas... | 12.00% | ~986 |
-| Horror of the Santa Maria | 9.00% | ~739 |
+| Horror of the Santa Maria | 9.00% | ~740 |
 | Liberty City State of Mind | 7.00% | ~575 |
 | With Extra Dip | 6.00% | ~493 |
 | The End of the Line | 6.00% | ~493 |
@@ -21,7 +21,7 @@ Rating: 4.62 (Ranked 341)
 | Saviour | 5.00% | ~411 |
 | They Can’t Stop All of Us | 4.00% | ~329 |
 | Rescue a Kitten Too? | 4.00% | ~329 |
-| What are the Odds | 3.00% | ~246 |
+| What are the Odds | 3.00% | ~247 |
 | I’ll Have Two Number 9s | 2.00% | ~164 |
 | Bike or Biker | 2.00% | ~164 |
 | What the City Needs | 2.00% | ~164 |
@@ -35,13 +35,13 @@ Rating: 4.62 (Ranked 341)
 | Ain’t Nothing But a G Thing | 1.00% | ~82 |
 | Chick Magnet | 0.90% | ~74 |
 | Lucky Spinner | 0.80% | ~66 |
-| Hoopin' it Up | 0.70% | ~57 |
+| Hoopin' it Up | 0.70% | ~58 |
 | Not a Player | 0.60% | ~49 |
 | Remastered | 0.50% | ~41 |
 | ...Here we go again | 0.30% | ~25 |
 | I Ain't No Buster | 0.20% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,214 (Ranked 110)  
+Progressed: 8,218 (Ranked 110)  
 Completed: 17 (0.21%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 17 (0.21%) (Ranked 139)
 | 2023-05-20 | 7,932 | 17 |
 | 2023-05-21 | 8,065 | 17 |
 | 2023-05-22 | 8,134 | 17 |
-| 2023-05-23 | 8,214 | 17 |
+| 2023-05-23 | 8,218 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

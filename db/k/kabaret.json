@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-04-05T16:00:00+00:00",
     "PcReleaseDate": "2023-04-05T16:00:00+00:00",
@@ -339,9 +339,9 @@
       "ID": "40",
       "SetID": "37jn7be",
       "Name": "A Foot In Reality",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "41",
@@ -612,8 +612,8 @@
   "FirstSeenRating": "2023-04-29T22:57:51.702813+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:15.0612299+00:00",
   "LastChanged": "2023-04-29T22:57:51.7028131+00:00",
-  "LastChanged_Achievements": "2023-05-23T16:05:34.3368143+00:00",
+  "LastChanged_Achievements": "2023-05-23T17:06:40.6398515+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.1178962+00:00",
-  "LastUpdate_Ratings": "2023-05-23T15:57:54.6325909+00:00",
-  "LastUpdate_Achievements": "2023-05-23T16:05:34.3368703+00:00"
+  "LastUpdate_Ratings": "2023-05-23T16:58:37.7541215+00:00",
+  "LastUpdate_Achievements": "2023-05-23T17:06:40.639916+00:00"
 }

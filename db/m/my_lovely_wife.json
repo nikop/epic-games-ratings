@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-06-07T16:00:00+00:00",
     "PcReleaseDate": "2022-06-07T16:00:00+00:00",
@@ -376,9 +376,9 @@
       "ID": "ACH_UNLOCK_SUCC_KIND_2",
       "SetID": "ajki3eh",
       "Name": "The Admirer",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 278
+      "UsersEstimate": 283
     },
     {
       "ID": "ACH_UNLOCK_SUCC_KIND_3",
@@ -400,8 +400,8 @@
   "FirstSeen": "2022-07-22T20:30:06.1147591+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.1712211+00:00",
   "LastChanged": "2023-03-31T05:57:36.3389853+00:00",
-  "LastChanged_Achievements": "2023-05-23T16:05:30.5537794+00:00",
+  "LastChanged_Achievements": "2023-05-23T17:06:36.4623086+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:40.9863737+00:00",
-  "LastUpdate_Ratings": "2023-05-23T15:58:00.2875825+00:00",
-  "LastUpdate_Achievements": "2023-05-23T16:05:30.5538165+00:00"
+  "LastUpdate_Ratings": "2023-05-23T16:58:43.8020542+00:00",
+  "LastUpdate_Achievements": "2023-05-23T17:06:36.4623664+00:00"
 }

@@ -19,6 +19,7 @@ Rating: 4.17 (Ranked 836)
 | The Show Mud Go On | 0.60% | ~371 |
 | Quartzer Life Crisis | 0.60% | ~371 |
 | Snow Problem | 0.60% | ~371 |
+| Universal Health Scare | 0.60% | ~371 |
 | Unstoppable Force | 0.60% | ~371 |
 | Lock and Key | 0.60% | ~371 |
 | Bad Apples in Every Orchard | 0.60% | ~371 |
@@ -28,7 +29,6 @@ Rating: 4.17 (Ranked 836)
 | Rock and a Hard Place | 0.50% | ~309 |
 | Shock Til They Drop | 0.50% | ~309 |
 | Cooldown | 0.50% | ~309 |
-| Universal Health Scare | 0.50% | ~309 |
 | Voiceless | 0.50% | ~309 |
 | Seeking Asylum | 0.50% | ~309 |
 | Gotham Knight | 0.50% | ~309 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 836)
 | Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,792 (Ranked 68)  
+Progressed: 61,798 (Ranked 68)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-20 | 61,416 | 91 |
 | 2023-05-21 | 61,589 | 91 |
 | 2023-05-22 | 61,724 | 91 |
-| 2023-05-23 | 61,792 | 91 |
+| 2023-05-23 | 61,798 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,231  (Ranked 98)  
 Sum: 3,704 (Ranked 137)  

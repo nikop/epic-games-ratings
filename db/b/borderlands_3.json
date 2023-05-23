@@ -2,13 +2,13 @@
   "ID": "catnip",
   "Name": "Borderlands 3",
   "ProductSlug": "borderlands-3",
-  "Ranking_Rating": 214,
+  "Ranking_Rating": 212,
   "Ranking_Popularity": 8,
   "Ranking_PopularitySum": 9,
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2019-09-13T15:00:00+00:00",
     "PcReleaseDate": "2019-09-13T15:00:00+00:00",
@@ -6050,10 +6050,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 343923,
       "NumberOfAwardsMax": 109736
+    },
+    {
+      "Time": "2023-05-23T17:00:33.8654166+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 343949,
+      "NumberOfAwardsMax": 109736
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 343923,
+  "NumberOfAwards": 343949,
   "NumberOfAwardsMax": 109736,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -6073,7 +6079,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 24683
+      "Count": 24698
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6097,7 +6103,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 23367
+      "Count": 23378
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6135,8 +6141,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:32.2549878+00:00",
-  "LastChanged": "2023-05-23T13:05:51.0922942+00:00",
+  "LastChanged": "2023-05-23T17:00:33.8654165+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:13.6491937+00:00",
-  "LastUpdate_Ratings": "2023-05-23T15:59:30.3108358+00:00",
-  "LastUpdate_Achievements": "2023-05-23T16:00:32.2071087+00:00"
+  "LastUpdate_Ratings": "2023-05-23T17:00:33.8654171+00:00",
+  "LastUpdate_Achievements": "2023-05-23T17:01:52.3964071+00:00"
 }

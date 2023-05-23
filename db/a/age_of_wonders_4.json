@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -154,9 +154,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3287,
+  "EOS_Progressed": 3290,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 728,
+  "EOS_NewPlayers": 727,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1724,6 +1724,11 @@
       "Time": "2023-05-23T16:03:39.523572+00:00",
       "NumProgressed": 3287,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-23T17:04:25.5572885+00:00",
+      "NumProgressed": 3290,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -1735,7 +1740,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1348
+      "UsersEstimate": 1349
     },
     {
       "ID": "10",
@@ -1751,7 +1756,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 1578
+      "UsersEstimate": 1579
     },
     {
       "ID": "12",
@@ -1775,7 +1780,7 @@
       "Name": "Full Ascension",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 1775
+      "UsersEstimate": 1777
     },
     {
       "ID": "15",
@@ -1783,7 +1788,7 @@
       "Name": "Return of the Wizard King",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "16",
@@ -1799,7 +1804,7 @@
       "Name": "Lord of Chaos",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "18",
@@ -1815,7 +1820,7 @@
       "Name": "The Creator",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "2",
@@ -1831,7 +1836,7 @@
       "Name": "The Goddess of Nature",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "21",
@@ -1847,7 +1852,7 @@
       "Name": "Realm Estate",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2564
+      "UsersEstimate": 2566
     },
     {
       "ID": "23",
@@ -1855,7 +1860,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2662
+      "UsersEstimate": 2665
     },
     {
       "ID": "24",
@@ -1863,7 +1868,7 @@
       "Name": "Secret Technique",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2531
+      "UsersEstimate": 2533
     },
     {
       "ID": "25",
@@ -1871,7 +1876,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2432
+      "UsersEstimate": 2435
     },
     {
       "ID": "26",
@@ -1879,7 +1884,7 @@
       "Name": "Bone Peddler",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 2038
+      "UsersEstimate": 2040
     },
     {
       "ID": "27",
@@ -1887,7 +1892,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "28",
@@ -1895,7 +1900,7 @@
       "Name": "From Friends to Family",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 2301
+      "UsersEstimate": 2303
     },
     {
       "ID": "29",
@@ -1903,7 +1908,7 @@
       "Name": "Stronger Together",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1841
+      "UsersEstimate": 1842
     },
     {
       "ID": "3",
@@ -1911,7 +1916,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "30",
@@ -1927,7 +1932,7 @@
       "Name": "Magical Synergy",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 2137
+      "UsersEstimate": 2138
     },
     {
       "ID": "32",
@@ -1935,7 +1940,7 @@
       "Name": "My Final Form",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 1413
+      "UsersEstimate": 1415
     },
     {
       "ID": "33",
@@ -1943,7 +1948,7 @@
       "Name": "Seat of Power",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 1512
+      "UsersEstimate": 1513
     },
     {
       "ID": "34",
@@ -1951,7 +1956,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "35",
@@ -1967,7 +1972,7 @@
       "Name": "Fiery Friend",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "37",
@@ -1975,7 +1980,7 @@
       "Name": "Against the Odds",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "38",
@@ -2007,7 +2012,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 1413
+      "UsersEstimate": 1415
     },
     {
       "ID": "41",
@@ -2086,13 +2091,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 3287,
-      "Completed": 3287
+      "Progressed": 3290,
+      "Completed": 3290
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 3287,
+      "Progressed": 3290,
       "Completed": 0
     }
   ],
@@ -2100,8 +2105,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-23T11:59:43.2383124+00:00",
-  "LastChanged_Achievements": "2023-05-23T16:03:39.5235715+00:00",
+  "LastChanged_Achievements": "2023-05-23T17:04:25.5572882+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:46.682938+00:00",
-  "LastUpdate_Ratings": "2023-05-23T15:59:18.9055187+00:00",
-  "LastUpdate_Achievements": "2023-05-23T16:03:39.5236089+00:00"
+  "LastUpdate_Ratings": "2023-05-23T17:00:18.871408+00:00",
+  "LastUpdate_Achievements": "2023-05-23T17:04:25.5573746+00:00"
 }

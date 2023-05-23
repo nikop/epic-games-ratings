@@ -9,10 +9,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Diligence as a goal | 4.00% | ~565 |
 | Project Arena | 3.00% | ~424 |
 | Bloody Sport | 1.00% | ~141 |
-| The Hateful Pole Fighter | 0.90% | ~6,343 |
-| A Lady's Blood in the Snow | 0.90% | ~6,343 |
-| State of constant learning | 0.90% | ~6,343 |
-| Qi Gong: Breath | 0.90% | ~6,343 |
+| The Hateful Pole Fighter | 0.90% | ~6,344 |
+| A Lady's Blood in the Snow | 0.90% | ~6,344 |
+| State of constant learning | 0.90% | ~6,344 |
+| Qi Gong: Breath | 0.90% | ~6,344 |
 | The best strikes are the ones we avoid | 0.90% | ~127 |
 | The Old Grandmaster | 0.80% | ~5,639 |
 | The Assault | 0.80% | ~5,639 |
@@ -40,10 +40,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Source of Flying Daggers | 0.40% | ~2,819 |
 | Iron Money | 0.40% | ~2,819 |
 | Detective Story | 0.40% | ~2,819 |
-| Legendary Talismans of Wuxing | 0.30% | ~2,114 |
-| Prodigal Child | 0.30% | ~2,114 |
-| The 36th Chamber of Kung-Fu | 0.30% | ~2,114 |
-| Sword Stained With Blood | 0.30% | ~2,114 |
+| Legendary Talismans of Wuxing | 0.30% | ~2,115 |
+| Prodigal Child | 0.30% | ~2,115 |
+| The 36th Chamber of Kung-Fu | 0.30% | ~2,115 |
+| Sword Stained With Blood | 0.30% | ~2,115 |
 | Martial Hub | 0.30% | ~42 |
 | Secure, Protect, Leave | 0.30% | ~42 |
 | Drunken Fighter | 0.20% | ~1,410 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~705 |
 | Warriors from the Mountain | 0.10% | ~705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,822 (Ranked 15)  
+Progressed: 704,834 (Ranked 15)  
 Completed: 12,733 (1.81%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 12,733 (1.81%) (Ranked 64)
 | 2023-05-20 | 704,036 | 12,732 |
 | 2023-05-21 | 704,407 | 12,733 |
 | 2023-05-22 | 704,647 | 12,733 |
-| 2023-05-23 | 704,822 | 12,733 |
+| 2023-05-23 | 704,834 | 12,733 |
 ## Awards
 Max (Great Boss Battles): 6,084  (Ranked 53)  
 Sum: 10,355 (Ranked 77)  
