@@ -51,7 +51,7 @@
 | 48 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 4.84 | 213 | 252 |
 | 48 | [Grindstone](games/g/grindstone.md) | 4.84 | 0 | 491 |
 | 48 | [Into the Breach](games/i/into_the_breach.md) | 4.84 | 405 | 199 |
-| 48 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 253 | 238 |
+| 48 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 4.84 | 254 | 238 |
 | 48 | [Subnautica](games/s/subnautica.md) | 4.84 | 660 | 161 |
 | 48 | [TUNIC](games/t/tunic.md) | 4.84 | 33 | 432 |
 | 48 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.84 | 0 | 491 |
@@ -79,7 +79,7 @@
 | 77 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 354 | 210 |
 | 77 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,278 | 51 |
 | 77 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 159 | 282 |
-| 77 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.80 | 561 | 171 |
+| 77 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.80 | 568 | 171 |
 | 77 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,363 | 94 |
 | 77 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 192 | 262 |
 | 77 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 323 |
@@ -277,7 +277,7 @@
 | 272 | [Crashlands](games/c/crashlands.md) | 4.66 | 188 | 263 |
 | 272 | [Death's Door](games/d/death's_door.md) | 4.66 | 0 | 491 |
 | 272 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,288 | 120 |
-| 272 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 520 | 182 |
+| 272 | [FAR CRY 4](games/f/far_cry_4.md) | 4.66 | 522 | 182 |
 | 272 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 0 | 491 |
 | 272 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.66 | 38 | 415 |
 | 272 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.66 | 0 | 491 |
@@ -526,7 +526,7 @@
 | 519 | [First Class Trouble](games/f/first_class_trouble.md) | 4.51 | 89 | 339 |
 | 519 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.51 | 104 | 319 |
 | 519 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 4.51 | 0 | 491 |
-| 519 | [Rocket League®](games/r/rocket_league®.md) | 4.51 | 417,324 | 2 |
+| 519 | [Rocket League®](games/r/rocket_league®.md) | 4.51 | 418,090 | 2 |
 | 519 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 4.51 | 0 | 491 |
 | 519 | [Stories Untold](games/s/stories_untold.md) | 4.51 | 0 | 491 |
 | 519 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.51 | 0 | 491 |
@@ -759,7 +759,7 @@
 | 756 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.31 | 0 | 491 |
 | 756 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 939 | 140 |
 | 759 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 4.30 | 0 | 491 |
-| 759 | [Fortnite](games/f/fortnite.md) | 4.30 | 1,342,696 | 1 |
+| 759 | [Fortnite](games/f/fortnite.md) | 4.30 | 1,345,253 | 1 |
 | 759 | [Hammerting](games/h/hammerting.md) | 4.30 | 0 | 491 |
 | 759 | [Hellpoint](games/h/hellpoint.md) | 4.30 | 0 | 491 |
 | 759 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 491 |

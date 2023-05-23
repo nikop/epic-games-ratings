@@ -1,7 +1,7 @@
 | # | Game | Awards | Rating | Rating Ranking |
 | - | ---- | ------ | ------ | -------------- |
-| 1 | [Fortnite](games/f/fortnite.md) | 1,342,696 | 4.30 | 759 |
-| 2 | [Rocket League®](games/r/rocket_league®.md) | 417,324 | 4.51 | 519 |
+| 1 | [Fortnite](games/f/fortnite.md) | 1,345,253 | 4.30 | 759 |
+| 2 | [Rocket League®](games/r/rocket_league®.md) | 418,090 | 4.51 | 519 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 296,123 | 4.68 | 236 |
 | 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 182,824 | 4.19 | 823 |
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 173,235 | 4.68 | 236 |
@@ -170,7 +170,7 @@
 | 168 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 592 | 4.74 | 141 |
 | 169 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 585 | 4.62 | 341 |
 | 170 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 570 | 4.61 | 357 |
-| 171 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 561 | 4.80 | 77 |
+| 171 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 568 | 4.80 | 77 |
 | 172 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 559 | 4.68 | 236 |
 | 173 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 552 | 4.74 | 141 |
 | 173 | [Filament](games/f/filament.md) | 552 | 4.32 | 746 |
@@ -181,7 +181,7 @@
 | 179 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 537 | 4.42 | 648 |
 | 180 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 536 | 4.62 | 341 |
 | 181 | [Star Trek Online](games/s/star_trek_online.md) | 532 | 4.45 | 606 |
-| 182 | [FAR CRY 4](games/f/far_cry_4.md) | 520 | 4.66 | 272 |
+| 182 | [FAR CRY 4](games/f/far_cry_4.md) | 522 | 4.66 | 272 |
 | 183 | [Godfall Ultimate Edition](games/g/godfall.md) | 507 | 4.08 | 869 |
 | 184 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 506 | 4.52 | 503 |
 | 185 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 500 | 4.82 | 62 |
@@ -237,7 +237,7 @@
 | 235 | [Diabotical](games/d/diabotical.md) | 267 | 4.75 | 131 |
 | 235 | [Sheltered](games/s/sheltered.md) | 267 | 4.42 | 648 |
 | 235 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 267 | 4.58 | 418 |
-| 238 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 253 | 4.84 | 48 |
+| 238 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 254 | 4.84 | 48 |
 | 239 | [Dead Cells](games/d/dead_cells.md) | 251 | 4.88 | 19 |
 | 240 | [Crysis Remastered](games/c/crysis_remastered.md) | 246 | 4.40 | 674 |
 | 241 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 243 | 4.59 | 402 |

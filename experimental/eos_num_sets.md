@@ -20,6 +20,7 @@
 | [IXION](../games/i/ixion.md) | 57 | 1,050 | 2 |
 | [Old World](../games/o/old_world.md) | 285 | 2,940 | 2 |
 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](../games/p/pathfinder__wrath_of_the_righteous.md) | 116 | 1,150 | 2 |
+| [RAGE 2](../games/r/rage_2.md) | 0 | 0 | 2 |
 | [Rogue Legacy 2](../games/r/rogue_legacy_2.md) | 39 | 1,240 | 2 |
 | [Saints Row](../games/s/saints_row.md) | 53 | 1,075 | 2 |
 | [Serial Cleaners](../games/s/serial_cleaners.md) | 24 | 1,300 | 2 |

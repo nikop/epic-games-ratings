@@ -22,7 +22,7 @@
 | 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.81% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
 | 22 | [Scorn](games/s/scorn.md) | 6.90% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 6.72% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 6.68% |
 | 24 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 25 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
@@ -44,7 +44,7 @@
 | 42 | [The Bunker](games/t/the_bunker.md) | 3.23% |
 | 43 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
 | 43 | [ZZT!](games/z/zzt!.md) | 3.17% |
-| 45 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.05% |
+| 45 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.03% |
 | 46 | [HordeCore](games/h/hordecore.md) | 3.01% |
 | 47 | [MultiVersus](games/m/multiversus.md) | 2.95% |
 | 48 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.90% |
@@ -61,7 +61,7 @@
 | 59 | [Iron Danger](games/i/iron_danger.md) | 2.33% |
 | 60 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.17% |
 | 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.14% |
-| 62 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.11% |
+| 62 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.12% |
 | 63 | [Bloodshore](games/b/bloodshore.md) | 2.03% |
 | 64 | [Sifu](games/s/sifu.md) | 1.81% |
 | 65 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
@@ -84,16 +84,16 @@
 | 82 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.13% |
 | 83 | [Late Shift](games/l/late_shift.md) | 1.12% |
 | 83 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.12% |
-| 85 | [Five Dates](games/f/five_dates.md) | 1.09% |
+| 85 | [Five Dates](games/f/five_dates.md) | 1.08% |
 | 86 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.04% |
 | 87 | [Sable](games/s/sable.md) | 0.94% |
 | 88 | [Dungeons 3](games/d/dungeons_3.md) | 0.90% |
 | 89 | [Hades](games/h/hades.md) | 0.89% |
 | 90 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
 | 91 | [Them and Us](games/t/them_and_us.md) | 0.84% |
-| 92 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.83% |
-| 93 | [Adios](games/a/adios.md) | 0.82% |
-| 93 | [Lemon Cake](games/l/lemon_cake.md) | 0.82% |
+| 92 | [Adios](games/a/adios.md) | 0.82% |
+| 92 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.82% |
+| 92 | [Lemon Cake](games/l/lemon_cake.md) | 0.82% |
 | 95 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.81% |
 | 96 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.79% |
 | 97 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
@@ -110,13 +110,13 @@
 | 108 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
 | 108 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.48% |
 | 110 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
-| 111 | [Tails of Iron](games/t/tails_of_iron.md) | 0.42% |
+| 111 | [Tails of Iron](games/t/tails_of_iron.md) | 0.41% |
 | 112 | [Potion Permit](games/p/potion_permit.md) | 0.39% |
 | 112 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.39% |
 | 112 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.39% |
 | 115 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 115 | [Tchia](games/t/tchia.md) | 0.37% |
-| 117 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.35% |
+| 117 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
 | 118 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.34% |
 | 118 | [Godlike Burger](games/g/godlike_burger.md) | 0.34% |
 | 120 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
@@ -127,7 +127,7 @@
 | 124 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 124 | [The Surge](games/t/the_surge.md) | 0.31% |
 | 127 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.30% |
-| 127 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.30% |
+| 128 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.29% |
 | 129 | [Aegis Descent](games/a/aegis_descent.md) | 0.28% |
 | 130 | [Dead Island 2](games/d/dead_island_2.md) | 0.27% |
 | 130 | [Despot's Game](games/d/despot's_game.md) | 0.27% |
