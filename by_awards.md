@@ -32,11 +32,11 @@
 | 30 | [NBA 2K21](games/n/nba_2k21.md) | 11,669 | 4.39 | 685 |
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 11,385 | 4.87 | 25 |
 | 32 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,221 | 4.69 | 214 |
-| 33 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 10,319 | 4.45 | 607 |
+| 33 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 10,333 | 4.45 | 607 |
 | 34 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 10,176 | 4.24 | 790 |
 | 35 | [Satisfactory](games/s/satisfactory.md) | 9,434 | 4.88 | 19 |
 | 36 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,122 | 4.61 | 358 |
-| 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,026 | 4.78 | 100 |
+| 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,042 | 4.78 | 100 |
 | 38 | [Control](games/c/control.md) | 8,297 | 4.60 | 385 |
 | 39 | [SnowRunner](games/s/snowrunner.md) | 8,138 | 4.76 | 117 |
 | 40 | [Supraland](games/s/supraland.md) | 7,612 | 4.61 | 358 |

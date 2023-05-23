@@ -100,7 +100,7 @@
 | 90 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 491 |
 | 90 | [Superliminal](games/s/superliminal.md) | 4.79 | 0 | 491 |
 | 100 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 4,984 | 62 |
-| 100 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,026 | 37 |
+| 100 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,042 | 37 |
 | 100 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,274 | 97 |
 | 100 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 36 | 421 |
 | 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 907 | 141 |
@@ -614,7 +614,7 @@
 | 607 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 709 | 155 |
 | 607 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 0 | 491 |
 | 607 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 0 | 491 |
-| 607 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 10,319 | 33 |
+| 607 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 4.45 | 10,333 | 33 |
 | 607 | [Mars Horizon](games/m/mars_horizon.md) | 4.45 | 0 | 491 |
 | 607 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 853 | 144 |
 | 607 | [Redout 2](games/r/redout_2.md) | 4.45 | 0 | 491 |
