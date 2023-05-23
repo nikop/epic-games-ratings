@@ -1,7 +1,5 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [Cubzh](games/c/cubzh.md) | 2023-05-23 | 2021-10-24 |
-| [FutureGrind](games/8/80a76982ecc941dd864a8792a03a5ddc.md) | 2023-05-23 | 2019-01-22 |
 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 2023-05-23 | 2023-05-23 |
 | [Planet of Lana](games/p/planet_of_lana.md) | 2023-05-23 | 2023-05-23 |
 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 2023-05-23 | 2023-05-23 |
@@ -391,6 +389,7 @@
 | [Broken Roads](games/b/broken_roads.md) | 2099-02-01 | - |
 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | - |
 | [Eville](games/e/eville.md) | 2099-02-01 | - |
+| [F1 Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 2099-02-01 | 2099-02-01 |
 | [Gangs of Sherwood](games/g/gangs_of_sherwood.md) | 2099-02-01 | - |
 | [Hades II](games/h/hades_ii.md) | 2099-02-01 | - |
 | [Judas](games/j/judas_1.md) | 2099-02-01 | 2099-02-01 |
