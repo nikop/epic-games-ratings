@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -100,9 +100,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2118,
+  "EOS_Progressed": 2119,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1710,6 +1710,11 @@
       "Time": "2023-05-23T20:06:25.8246118+00:00",
       "NumProgressed": 2118,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-23T21:05:31.7082267+00:00",
+      "NumProgressed": 2119,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1785,7 +1790,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2012
+      "UsersEstimate": 2013
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1801,7 +1806,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1631
+      "UsersEstimate": 1632
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -1849,7 +1854,7 @@
       "Name": "Little light",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -1889,7 +1894,7 @@
       "Name": "Chains master",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
@@ -1985,7 +1990,7 @@
       "Name": "Capelworth",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -2017,7 +2022,7 @@
       "Name": "Truth is a dark mirror",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "STB_PET_DOG",
@@ -2033,7 +2038,7 @@
       "Name": "You can pet the... horse",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "STB_PLATINUM",
@@ -2049,7 +2054,7 @@
       "Name": "Back to sleep, then...",
       "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_I",
@@ -2097,7 +2102,7 @@
       "Name": "The use of petricite",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1525
+      "UsersEstimate": 1526
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -2144,7 +2149,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2118,
+      "Progressed": 2119,
       "Completed": 1
     }
   ],
@@ -2152,8 +2157,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-22T18:57:55.6825714+00:00",
-  "LastChanged_Achievements": "2023-05-23T20:06:25.8246112+00:00",
+  "LastChanged_Achievements": "2023-05-23T21:05:31.7082263+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:08.2361804+00:00",
-  "LastUpdate_Ratings": "2023-05-23T19:57:44.4766478+00:00",
-  "LastUpdate_Achievements": "2023-05-23T20:06:25.8246738+00:00"
+  "LastUpdate_Ratings": "2023-05-23T20:57:32.9181419+00:00",
+  "LastUpdate_Achievements": "2023-05-23T21:05:31.7082851+00:00"
 }

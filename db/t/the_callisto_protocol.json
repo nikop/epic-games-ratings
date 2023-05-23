@@ -428,9 +428,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13427,
+  "EOS_Progressed": 13434,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 861,
+  "EOS_NewPlayers": 868,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1333,6 +1333,11 @@
       "Time": "2023-05-23T20:03:27.932325+00:00",
       "NumProgressed": 13427,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-05-23T21:02:30.7200169+00:00",
+      "NumProgressed": 13434,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 40,
@@ -1360,7 +1365,7 @@
       "Name": "Giving Back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -1374,9 +1379,9 @@
       "ID": "DISARM_ENEMY",
       "SetID": "4hj6d86",
       "Name": "Flesh Wound",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 671
+      "UsersEstimate": 806
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -1424,7 +1429,7 @@
       "Name": "Recidivist",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "FINISH_GAME_HARDCORE_PLUS",
@@ -1472,15 +1477,15 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "KILL_ROBOT",
       "SetID": "4hj6d86",
       "Name": "Terminated",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 121
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -1542,9 +1547,9 @@
       "ID": "STORY_ESCAPE",
       "SetID": "4hj6d86",
       "Name": "If the SHU Fits...",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 134
     },
     {
       "ID": "STORY_HABITAT",
@@ -1574,17 +1579,17 @@
       "ID": "STORY_OUTBREAK",
       "SetID": "4hj6d86",
       "Name": "Desperate Times",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 269
     },
     {
       "ID": "STORY_SNOWCAT",
       "SetID": "4hj6d86",
       "Name": "Crash Site",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 54
     },
     {
       "ID": "STORY_TOWER",
@@ -1646,9 +1651,9 @@
       "ID": "RIOT_10_POWERUPS",
       "SetID": "6j5ggkc",
       "Name": "Subject Alpha",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SPEND_20000",
@@ -1663,13 +1668,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13427,
+      "Progressed": 13434,
       "Completed": 52
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1353,
+      "Progressed": 1360,
       "Completed": 29
     }
   ],
@@ -1677,8 +1682,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-23T19:57:59.4143533+00:00",
-  "LastChanged_Achievements": "2023-05-23T20:03:27.9323245+00:00",
+  "LastChanged_Achievements": "2023-05-23T21:02:30.7200164+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-23T19:57:59.4143538+00:00",
-  "LastUpdate_Achievements": "2023-05-23T20:03:27.9323619+00:00"
+  "LastUpdate_Ratings": "2023-05-23T20:57:45.6605841+00:00",
+  "LastUpdate_Achievements": "2023-05-23T21:02:30.7200549+00:00"
 }

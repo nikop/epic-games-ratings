@@ -4,7 +4,7 @@
   "ProductSlug": "the-gardener-and-the-wild-vines-e834d7",
   "Ranking_EOS_Progress": 374,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-05-04T16:00:00+00:00",
@@ -220,8 +220,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:01.6662771+00:00",
-  "LastChanged_Achievements": "2023-05-23T20:06:25.1750442+00:00",
+  "LastChanged_Achievements": "2023-05-23T21:05:31.1602604+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:23.267224+00:00",
-  "LastUpdate_Ratings": "2023-05-23T19:59:28.9708615+00:00",
-  "LastUpdate_Achievements": "2023-05-23T20:06:25.175057+00:00"
+  "LastUpdate_Ratings": "2023-05-23T20:59:02.833356+00:00",
+  "LastUpdate_Achievements": "2023-05-23T21:05:31.1602785+00:00"
 }

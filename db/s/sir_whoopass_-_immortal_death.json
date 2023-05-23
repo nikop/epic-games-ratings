@@ -352,9 +352,9 @@
       "ID": "COMPLETE_DUNGEONRUINSSMALL_05",
       "SetID": "9gfkh7c",
       "Name": "Ancient Ruins of Dirty Feet",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "COMPLETE_DUNGEONRUINSSMALL_06",
@@ -704,9 +704,9 @@
       "ID": "KNIGHT_1",
       "SetID": "9gfkh7c",
       "Name": "You can\u0027t stop me, bro!",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "LEVELUP_1",
@@ -903,8 +903,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-05-23T20:06:25.1548445+00:00",
+  "LastChanged_Achievements": "2023-05-23T21:05:31.0429882+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:56:59.9162402+00:00",
-  "LastUpdate_Ratings": "2023-05-23T19:57:10.9101463+00:00",
-  "LastUpdate_Achievements": "2023-05-23T20:06:25.1549561+00:00"
+  "LastUpdate_Ratings": "2023-05-23T20:57:04.8787702+00:00",
+  "LastUpdate_Achievements": "2023-05-23T21:05:31.0430797+00:00"
 }

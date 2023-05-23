@@ -35,7 +35,7 @@ Number of Ratings: 180  (23.09.2022)
 | The future is now, old man | 31.00% | ~351 |
 | Crowd in a train | 30.00% | ~339 |
 | City | 29.00% | ~328 |
-| The king of the sea | 28.00% | ~317 |
+| The king of the sea | 29.00% | ~328 |
 | Transport tycoon | 24.00% | ~271 |
 | Climate change | 23.00% | ~260 |
 | Old timer | 22.00% | ~249 |

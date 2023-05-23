@@ -4408,9 +4408,9 @@
       "ID": "08_PathOfAngel",
       "SetID": "989of5o",
       "Name": "Path of the Angel",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 365
     },
     {
       "ID": "09_PathOfDemon",
@@ -5294,8 +5294,8 @@
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-23T19:58:32.5318283+00:00",
-  "LastChanged_Achievements": "2023-05-23T20:06:57.5002548+00:00",
+  "LastChanged_Achievements": "2023-05-23T21:05:59.6812838+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3010226+00:00",
-  "LastUpdate_Ratings": "2023-05-23T19:58:32.5318291+00:00",
-  "LastUpdate_Achievements": "2023-05-23T20:06:57.500424+00:00"
+  "LastUpdate_Ratings": "2023-05-23T20:58:15.5895544+00:00",
+  "LastUpdate_Achievements": "2023-05-23T21:05:59.6814562+00:00"
 }

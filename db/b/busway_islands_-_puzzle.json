@@ -4,7 +4,7 @@
   "ProductSlug": "busway-islands-puzzle-91287d",
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 5,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-04-29T13:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 33,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 21.21,
   "EosHistory": [
@@ -516,8 +516,8 @@
   "FirstSeenRating": "2023-04-30T05:57:09.5836645+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:09.4647411+00:00",
   "LastChanged": "2023-04-30T05:57:09.5836646+00:00",
-  "LastChanged_Achievements": "2023-05-23T20:06:17.0530634+00:00",
+  "LastChanged_Achievements": "2023-05-23T21:05:24.0394374+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:08.3753885+00:00",
-  "LastUpdate_Ratings": "2023-05-23T19:57:45.2333803+00:00",
-  "LastUpdate_Achievements": "2023-05-23T20:06:17.0530921+00:00"
+  "LastUpdate_Ratings": "2023-05-23T20:57:33.5316432+00:00",
+  "LastUpdate_Achievements": "2023-05-23T21:05:24.0394669+00:00"
 }

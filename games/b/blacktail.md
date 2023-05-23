@@ -13,7 +13,7 @@ Rating: 4.67 (Ranked 256)
 | Slavic squatter | 10.00% | ~38 |
 | Devoted | 8.00% | ~30 |
 | Gold rush | 7.00% | ~27 |
-| Spirit animal | 6.00% | ~23 |
+| Spirit animal | 7.00% | ~27 |
 | Liar Liar | 5.00% | ~19 |
 | Sneak peek | 4.00% | ~15 |
 | Favorite | 4.00% | ~15 |
@@ -24,11 +24,11 @@ Rating: 4.67 (Ranked 256)
 | Baba Yaga | 4.00% | ~15 |
 | Extensive retelling | 3.00% | ~11 |
 | Goal! | 3.00% | ~11 |
+| Both sides | 3.00% | ~11 |
 | Queen | 3.00% | ~11 |
 | Specialist | 3.00% | ~11 |
 | Witch's cookbook | 3.00% | ~11 |
 | Gnowlledgeable | 2.00% | ~8 |
-| Both sides | 2.00% | ~8 |
 | Always worth a try | 2.00% | ~8 |
 | Toxic | 2.00% | ~8 |
 | Bad apple | 1.00% | ~4 |

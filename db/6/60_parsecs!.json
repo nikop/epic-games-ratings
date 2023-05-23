@@ -198,9 +198,9 @@
       "ID": "Achievement_AirlockExit",
       "SetID": "c01p6e5",
       "Name": "No Ticket",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Achievement_AllSeatsTaken",
@@ -543,8 +543,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-05-23T20:06:23.882089+00:00",
+  "LastChanged_Achievements": "2023-05-23T21:05:29.9797356+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:12.4303975+00:00",
-  "LastUpdate_Ratings": "2023-05-23T19:59:14.9651457+00:00",
-  "LastUpdate_Achievements": "2023-05-23T20:06:23.8821261+00:00"
+  "LastUpdate_Ratings": "2023-05-23T20:58:51.0019366+00:00",
+  "LastUpdate_Achievements": "2023-05-23T21:05:29.9797728+00:00"
 }

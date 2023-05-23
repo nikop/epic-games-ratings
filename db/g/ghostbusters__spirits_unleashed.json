@@ -1056,9 +1056,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 22157,
+  "EOS_Progressed": 22158,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3461,6 +3461,11 @@
       "Time": "2023-05-23T19:06:28.5049792+00:00",
       "NumProgressed": 22157,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-05-23T21:05:45.9351422+00:00",
+      "NumProgressed": 22158,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -3480,7 +3485,7 @@
       "Name": "Animated",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 5539
+      "UsersEstimate": 5540
     },
     {
       "ID": "Back_Off",
@@ -3496,7 +3501,7 @@
       "Name": "We have the best insurance",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 5982
+      "UsersEstimate": 5983
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -3512,7 +3517,7 @@
       "Name": "Clutch Capture",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 9084
+      "UsersEstimate": 9085
     },
     {
       "ID": "Collect_Spores",
@@ -3536,7 +3541,7 @@
       "Name": "Cultured",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 11743
+      "UsersEstimate": 11744
     },
     {
       "ID": "Daily_Dose",
@@ -3560,7 +3565,7 @@
       "Name": "Discovery",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 13737
+      "UsersEstimate": 13738
     },
     {
       "ID": "Dont_Need_These",
@@ -3584,7 +3589,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 14180
+      "UsersEstimate": 14181
     },
     {
       "ID": "Escape_Artist",
@@ -3608,7 +3613,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 12186
+      "UsersEstimate": 12187
     },
     {
       "ID": "GB_In_Training",
@@ -3640,7 +3645,7 @@
       "Name": "Legions",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 5982
+      "UsersEstimate": 5983
     },
     {
       "ID": "Liability",
@@ -3704,7 +3709,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4431
+      "UsersEstimate": 4432
     },
     {
       "ID": "Rift_Seeker",
@@ -3720,7 +3725,7 @@
       "Name": "Right back at ya",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 5982
+      "UsersEstimate": 5983
     },
     {
       "ID": "Rivalry",
@@ -3752,7 +3757,7 @@
       "Name": "Skilled",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 5539
+      "UsersEstimate": 5540
     },
     {
       "ID": "Solo_Capture",
@@ -3760,7 +3765,7 @@
       "Name": "Solo Capture",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 7090
+      "UsersEstimate": 7091
     },
     {
       "ID": "Stunner",
@@ -3768,7 +3773,7 @@
       "Name": "Stunner",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 5982
+      "UsersEstimate": 5983
     },
     {
       "ID": "Stylish",
@@ -3776,7 +3781,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 19055
+      "UsersEstimate": 19056
     },
     {
       "ID": "Summoner",
@@ -3784,7 +3789,7 @@
       "Name": "Summoner",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 5982
+      "UsersEstimate": 5983
     },
     {
       "ID": "Surprise",
@@ -3832,7 +3837,7 @@
       "Name": "There you are!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 9749
+      "UsersEstimate": 9750
     },
     {
       "ID": "Tobins_Prodigy",
@@ -3879,7 +3884,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 22157,
+      "Progressed": 22158,
       "Completed": 40
     }
   ],
@@ -3887,8 +3892,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-05-22T06:58:33.6226052+00:00",
-  "LastChanged_Achievements": "2023-05-23T20:06:41.9379126+00:00",
+  "LastChanged_Achievements": "2023-05-23T21:05:45.9351418+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:13.3107598+00:00",
-  "LastUpdate_Ratings": "2023-05-23T19:59:15.507599+00:00",
-  "LastUpdate_Achievements": "2023-05-23T20:06:41.9379719+00:00"
+  "LastUpdate_Ratings": "2023-05-23T20:58:51.4590956+00:00",
+  "LastUpdate_Achievements": "2023-05-23T21:05:45.9352017+00:00"
 }

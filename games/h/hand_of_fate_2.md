@@ -6,12 +6,12 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~472,787 |
-| Apprentice | 58.00% | ~380,856 |
+| The Fool | 72.00% | ~472,788 |
+| Apprentice | 58.00% | ~380,857 |
 | Close Shave | 25.00% | ~164,162 |
-| Mercenary | 23.00% | ~151,029 |
-| Ninja | 23.00% | ~151,029 |
-| Northern Scourge | 17.00% | ~111,630 |
+| Mercenary | 23.00% | ~151,030 |
+| Ninja | 23.00% | ~151,030 |
+| Northern Scourge | 17.00% | ~111,631 |
 | Thief Bane | 14.00% | ~91,931 |
 | Master of Arms | 12.00% | ~78,798 |
 | Gambler | 10.00% | ~65,665 |
@@ -21,16 +21,16 @@ Number of Ratings: 780  (23.09.2022)
 | Cure for Corruption | 8.00% | ~52,532 |
 | Focused | 8.00% | ~52,532 |
 | Flurry of Fury | 8.00% | ~52,532 |
-| Long Shot | 7.00% | ~45,965 |
-| Devil Dice | 7.00% | ~45,965 |
+| Long Shot | 7.00% | ~45,966 |
+| Devil Dice | 7.00% | ~45,966 |
 | Adventurer | 6.00% | ~39,399 |
 | Empire's Bane | 6.00% | ~39,399 |
 | Broken Heart | 6.00% | ~39,399 |
 | Jack of all Trades | 5.00% | ~32,832 |
 | Smithy | 5.00% | ~32,832 |
-| Leap of Faith | 3.00% | ~19,699 |
-| Combat Ready | 3.00% | ~19,699 |
-| Stuffed Potato | 3.00% | ~19,699 |
+| Leap of Faith | 3.00% | ~19,700 |
+| Combat Ready | 3.00% | ~19,700 |
+| Stuffed Potato | 3.00% | ~19,700 |
 | Card Sharp | 2.00% | ~13,133 |
 | Magician | 2.00% | ~13,133 |
 | Draknar's Bane | 2.00% | ~13,133 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~657 |
 | Blood Pact | 0.10% | ~657 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 656,648 (Ranked 18)  
+Progressed: 656,650 (Ranked 18)  
 Completed: 165 (0.03%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 165 (0.03%) (Ranked 182)
 | 2023-05-20 | 656,495 | 165 |
 | 2023-05-21 | 656,570 | 165 |
 | 2023-05-22 | 656,616 | 165 |
-| 2023-05-23 | 656,648 | 165 |
+| 2023-05-23 | 656,650 | 165 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 427)  
 Sum: 180 (Ranked 360)  

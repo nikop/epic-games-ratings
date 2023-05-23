@@ -33,10 +33,10 @@
 | You are no match for me, Billy! | 33.00% | ~18 |
 | Karaoke king | 33.00% | ~18 |
 | Pasta Bolognese | 33.00% | ~18 |
+| You can't stop me, bro! | 31.00% | ~17 |
 | Haemochromatosis | 31.00% | ~17 |
 | Meatballs, coming up! | 29.00% | ~16 |
 | Catch the bus with me! | 29.00% | ~16 |
-| You can't stop me, bro! | 29.00% | ~16 |
 | I'm going to get a concussion | 27.00% | ~15 |
 | Another one bites the iron | 24.00% | ~13 |
 | A Megapint...? | 20.00% | ~11 |
@@ -47,10 +47,10 @@
 | Kleptomaniac | 15.00% | ~8 |
 | I cant stand still! | 13.00% | ~7 |
 | You're not so Big anymore, Boi! | 11.00% | ~6 |
+| Ancient Ruins of Dirty Feet | 11.00% | ~6 |
 | I drink, but I'm not a drunk! | 11.00% | ~6 |
 | Slimy... yet satisfying | 11.00% | ~6 |
 | Spoiler alert! | 9.00% | ~5 |
-| Ancient Ruins of Dirty Feet | 9.00% | ~5 |
 | Yeehaw!!! | 9.00% | ~5 |
 | Master Butcher | 9.00% | ~5 |
 | Deal with it | 9.00% | ~5 |

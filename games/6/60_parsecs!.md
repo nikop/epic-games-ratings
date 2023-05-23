@@ -39,9 +39,9 @@
 | 2018: A Soup Odyssey | 2.00% | ~12 |
 | That's No Moon! | 2.00% | ~12 |
 | AAARGH! | 1.00% | ~6 |
+| No Ticket | 1.00% | ~6 |
 | Feels like home | 1.00% | ~6 |
 | Space Selfie | 1.00% | ~6 |
-| No Ticket | 0.80% | ~5 |
 | Bingpot! | 0.80% | ~5 |
 | Small Step | 0.50% | ~3 |
 | Giant Leap | 0.30% | ~2 |

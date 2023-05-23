@@ -394,9 +394,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 249471,
+  "EOS_Progressed": 249477,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 608,
+  "EOS_NewPlayers": 610,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3574,6 +3574,11 @@
       "Time": "2023-05-23T20:06:55.8542556+00:00",
       "NumProgressed": 249471,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-23T21:05:58.1516847+00:00",
+      "NumProgressed": 249477,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -3625,7 +3630,7 @@
       "Name": "By a hair",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4989
+      "UsersEstimate": 4990
     },
     {
       "ID": "BackHomeFirstTime",
@@ -3633,7 +3638,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 77336
+      "UsersEstimate": 77338
     },
     {
       "ID": "BackHomeNTimes",
@@ -3689,7 +3694,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 24947
+      "UsersEstimate": 24948
     },
     {
       "ID": "CreditLevel2",
@@ -3697,7 +3702,7 @@
       "Name": "Fixer II",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4989
+      "UsersEstimate": 4990
     },
     {
       "ID": "CreditLevel3",
@@ -3785,7 +3790,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14968
+      "UsersEstimate": 14969
     },
     {
       "ID": "GrowPlants2",
@@ -3825,7 +3830,7 @@
       "Name": "It took a while",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4989
+      "UsersEstimate": 4990
     },
     {
       "ID": "KillHauntingThingsWithBaseballBat",
@@ -3849,7 +3854,7 @@
       "Name": "Samurai",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4989
+      "UsersEstimate": 4990
     },
     {
       "ID": "KillOtherWithLowHealth",
@@ -3865,7 +3870,7 @@
       "Name": "I Left You a Present",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4989
+      "UsersEstimate": 4990
     },
     {
       "ID": "KillOthers1",
@@ -3873,7 +3878,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54884
+      "UsersEstimate": 54885
     },
     {
       "ID": "KillOthers2",
@@ -3881,7 +3886,7 @@
       "Name": "Predator II",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4989
+      "UsersEstimate": 4990
     },
     {
       "ID": "KillOthers3",
@@ -3897,7 +3902,7 @@
       "Name": "Truffle Dog",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4989
+      "UsersEstimate": 4990
     },
     {
       "ID": "KillVengefulThingWithMeleeAndSurvive",
@@ -3977,7 +3982,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 24947
+      "UsersEstimate": 24948
     },
     {
       "ID": "ReachNDays2",
@@ -3985,7 +3990,7 @@
       "Name": "A month in Century City",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4989
+      "UsersEstimate": 4990
     },
     {
       "ID": "ReachNDays3",
@@ -4032,7 +4037,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 249471,
+      "Progressed": 249477,
       "Completed": 1
     }
   ],
@@ -4040,8 +4045,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-05-23T05:00:17.091362+00:00",
-  "LastChanged_Achievements": "2023-05-23T20:06:55.8542549+00:00",
+  "LastChanged_Achievements": "2023-05-23T21:05:58.1516843+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:18.7976266+00:00",
-  "LastUpdate_Ratings": "2023-05-23T20:00:53.9510075+00:00",
-  "LastUpdate_Achievements": "2023-05-23T20:06:55.8543241+00:00"
+  "LastUpdate_Ratings": "2023-05-23T21:00:14.4540118+00:00",
+  "LastUpdate_Achievements": "2023-05-23T21:05:58.151752+00:00"
 }

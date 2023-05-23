@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1286,
+  "EOS_Progressed": 1289,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 563,
+  "EOS_NewPlayers": 566,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1174,6 +1174,11 @@
       "Time": "2023-05-23T20:06:23.1512514+00:00",
       "NumProgressed": 1286,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-23T21:05:29.3564634+00:00",
+      "NumProgressed": 1289,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1225,7 +1230,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -1367,17 +1372,17 @@
       "ID": "REWARD_32_RIGGED_BLOW",
       "SetID": "bm6el81",
       "Name": "Rigged to Blow",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
       "SetID": "bm6el81",
       "Name": "My Little Friend",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -1391,9 +1396,9 @@
       "ID": "REWARD_35_LORD_OF_WAR",
       "SetID": "bm6el81",
       "Name": "Lord of War",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 52
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -1409,7 +1414,7 @@
       "Name": "Resourceful",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -1752,13 +1757,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1237,
+      "Progressed": 1240,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1286,
+      "Progressed": 1289,
       "Completed": 2
     }
   ],
@@ -1766,8 +1771,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-23T13:59:59.0486682+00:00",
-  "LastChanged_Achievements": "2023-05-23T20:06:23.1512507+00:00",
+  "LastChanged_Achievements": "2023-05-23T21:05:29.3564627+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-23T20:01:12.2683888+00:00",
-  "LastUpdate_Achievements": "2023-05-23T20:06:23.1513413+00:00"
+  "LastUpdate_Ratings": "2023-05-23T21:00:29.5557808+00:00",
+  "LastUpdate_Achievements": "2023-05-23T21:05:29.3565391+00:00"
 }

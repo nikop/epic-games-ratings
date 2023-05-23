@@ -1524,7 +1524,7 @@
   ],
   "EOS_Progressed": 78286,
   "EOS_Completed": 2130,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.72,
   "EosHistory": [
@@ -3569,9 +3569,9 @@
       "ID": "041_TROPHY_UNLOCKED_BREAKER",
       "SetID": "4ajkb4b",
       "Name": "Path of the Breaker",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 28183
+      "UsersEstimate": 28966
     },
     {
       "ID": "042_TROPHY_UNLOCKED_VOID_KNIGHT",
@@ -3617,8 +3617,8 @@
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
   "LastChanged": "2023-05-22T11:59:16.2659588+00:00",
-  "LastChanged_Achievements": "2023-05-23T20:06:50.2619406+00:00",
+  "LastChanged_Achievements": "2023-05-23T21:05:53.1323099+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:06:56.3994016+00:00",
-  "LastUpdate_Ratings": "2023-05-23T20:00:18.910821+00:00",
-  "LastUpdate_Achievements": "2023-05-23T20:06:50.2619896+00:00"
+  "LastUpdate_Ratings": "2023-05-23T20:59:43.6256945+00:00",
+  "LastUpdate_Achievements": "2023-05-23T21:05:53.1323566+00:00"
 }

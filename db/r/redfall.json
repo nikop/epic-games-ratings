@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -100,9 +100,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1608,
+  "EOS_Progressed": 1609,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1485,6 +1485,11 @@
       "Time": "2023-05-23T19:06:18.4088523+00:00",
       "NumProgressed": 1608,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-23T21:05:35.9424664+00:00",
+      "NumProgressed": 1609,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1550,9 +1555,9 @@
       "ID": "Achievement_009",
       "SetID": "6b34g18",
       "Name": "Ne Plus Ultra",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 981
+      "UsersEstimate": 965
     },
     {
       "ID": "Achievement_010",
@@ -1632,7 +1637,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "Achievement_020",
@@ -1728,7 +1733,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "Achievement_032",
@@ -2023,7 +2028,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1608,
+      "Progressed": 1609,
       "Completed": 0
     }
   ],
@@ -2031,8 +2036,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-21T03:57:51.8415336+00:00",
-  "LastChanged_Achievements": "2023-05-23T20:06:30.5744667+00:00",
+  "LastChanged_Achievements": "2023-05-23T21:05:35.9424661+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:23.3271568+00:00",
-  "LastUpdate_Ratings": "2023-05-23T19:57:58.8103715+00:00",
-  "LastUpdate_Achievements": "2023-05-23T20:06:30.5745475+00:00"
+  "LastUpdate_Ratings": "2023-05-23T20:57:45.1551061+00:00",
+  "LastUpdate_Achievements": "2023-05-23T21:05:35.9425534+00:00"
 }

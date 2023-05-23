@@ -8,7 +8,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 0.60% | ~531 |
 | The Court of Storms | 0.60% | ~328 |
-| Beware the Jabberwock | 0.50% | ~273 |
+| Beware the Jabberwock | 0.50% | ~274 |
 | The Cursed Farmer | 0.40% | ~354 |
 | Coasting to the Finish | 0.40% | ~219 |
 | Beast Intentions | 0.30% | ~265 |
@@ -26,6 +26,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.20% | ~177 |
 | Are Ya Chicken? | 0.20% | ~177 |
 | Mad Cow Disease | 0.20% | ~177 |
+| The Contagious Curse | 0.20% | ~177 |
 | Friendly Imps | 0.20% | ~177 |
 | Pure Energy | 0.20% | ~177 |
 | Maddening | 0.10% | ~88 |
@@ -331,7 +332,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Twilight Grove | 0.10% | ~88 |
 | The Nimble Grove | 0.10% | ~88 |
 | The Misty Grove | 0.10% | ~55 |
-| The Contagious Curse | 0.10% | ~88 |
 | Dinosaur Racing | 0.10% | ~88 |
 | Elturel Has Fallen | 0.10% | ~88 |
 | Everything is Awful | 0.10% | ~88 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.10% | ~88 |
 | Rescue in the Jungle | 0.10% | ~88 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,423 (Ranked 60)  
-Completed: 1,869 (2.11%) (Ranked 62)  
+Progressed: 88,430 (Ranked 60)  
+Completed: 1,871 (2.12%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -533,7 +533,7 @@ Completed: 1,869 (2.11%) (Ranked 62)
 | 2023-05-20 | 88,132 | 1,854 |
 | 2023-05-21 | 88,251 | 1,860 |
 | 2023-05-22 | 88,337 | 1,863 |
-| 2023-05-23 | 88,423 | 1,869 |
+| 2023-05-23 | 88,430 | 1,871 |
 ## Awards
 Max (Diverse Characters): 4,898  (Ranked 64)  
 Sum: 29,959 (Ranked 37)  

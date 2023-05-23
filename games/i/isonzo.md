@@ -18,8 +18,8 @@ Number of Ratings: 98  (23.09.2022)
 | Veni Vidi Vici | 21.00% | ~1,219 |
 | Decimation | 20.00% | ~1,161 |
 | Donatello | 20.00% | ~1,161 |
+| Insubordination | 19.00% | ~1,103 |
 | The Italian Job | 19.00% | ~1,103 |
-| Insubordination | 18.00% | ~1,045 |
 | The Lion of the Isonzo | 18.00% | ~1,045 |
 | Ragazzi del '99 | 17.00% | ~987 |
 | Thus With A Kiss | 15.00% | ~871 |

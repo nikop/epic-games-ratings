@@ -4,10 +4,10 @@
   "ProductSlug": "kerbal-space-program",
   "Ranking_Rating": 77,
   "Ranking_Popularity": 171,
-  "Ranking_PopularitySum": 139,
+  "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-01-05T16:00:00+00:00",
@@ -1840,11 +1840,17 @@
       "Rating": 4.8,
       "NumberOfAwards": 3691,
       "NumberOfAwardsMax": 561
+    },
+    {
+      "Time": "2023-05-23T20:57:12.6087109+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 3698,
+      "NumberOfAwardsMax": 568
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3691,
-  "NumberOfAwardsMax": 561,
+  "NumberOfAwards": 3698,
+  "NumberOfAwardsMax": 568,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -1869,7 +1875,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 561
+      "Count": 568
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1908,8 +1914,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-01-05T18:57:29.6336645+00:00",
   "FirstSeenRating": "2023-01-06T04:57:07.6192793+00:00",
-  "LastChanged": "2023-05-23T15:57:11.1797837+00:00",
+  "LastChanged": "2023-05-23T20:57:12.6087108+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:05.5070287+00:00",
-  "LastUpdate_Ratings": "2023-05-23T19:57:19.6544045+00:00",
-  "LastUpdate_Achievements": "2023-05-23T20:03:19.0096171+00:00"
+  "LastUpdate_Ratings": "2023-05-23T20:57:12.6087113+00:00",
+  "LastUpdate_Achievements": "2023-05-23T21:02:23.133471+00:00"
 }
