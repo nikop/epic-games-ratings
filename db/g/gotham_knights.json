@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewPlayers": 58,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1196,9 +1196,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61786,
+  "EOS_Progressed": 61788,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 873,
+  "EOS_NewPlayers": 874,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3461,6 +3461,11 @@
       "Time": "2023-05-23T14:05:38.5073988+00:00",
       "NumProgressed": 61786,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-23T15:07:02.8940116+00:00",
+      "NumProgressed": 61788,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3774,9 +3779,9 @@
       "ID": "HARLEY_1",
       "SetID": "4eo5ebm",
       "Name": "Har, Har, Har, Very Funny",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 556
+      "UsersEstimate": 618
     },
     {
       "ID": "HARLEY_2",
@@ -3959,13 +3964,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61786,
+      "Progressed": 61788,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32066,
+      "Progressed": 32068,
       "Completed": 2640
     }
   ],
@@ -3973,8 +3978,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-23T13:59:19.7620862+00:00",
-  "LastChanged_Achievements": "2023-05-23T14:05:38.5073982+00:00",
+  "LastChanged_Achievements": "2023-05-23T15:07:02.894011+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-23T13:59:19.7620869+00:00",
-  "LastUpdate_Achievements": "2023-05-23T14:05:38.5074725+00:00"
+  "LastUpdate_Ratings": "2023-05-23T15:00:23.8747188+00:00",
+  "LastUpdate_Achievements": "2023-05-23T15:07:02.8941188+00:00"
 }

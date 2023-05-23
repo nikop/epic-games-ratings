@@ -4,39 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 58.00% | ~98 |
+| In the Black | 58.00% | ~99 |
 | Starting Skyward | 52.00% | ~88 |
 | Grime is Not Good | 46.00% | ~78 |
 | Campaign Launch | 40.00% | ~68 |
-| Floor Galore | 38.00% | ~64 |
-| Dinner Dash | 38.00% | ~64 |
-| It's Technical | 36.00% | ~61 |
-| Need a Consult | 34.00% | ~57 |
-| Upgrade Unlock | 34.00% | ~57 |
-| Proper Walls | 31.00% | ~52 |
-| Delegate Maintenance | 31.00% | ~52 |
-| Destination Destiny | 27.00% | ~46 |
+| Floor Galore | 38.00% | ~65 |
+| Dinner Dash | 38.00% | ~65 |
+| It's Technical | 35.00% | ~59 |
+| Need a Consult | 34.00% | ~58 |
+| Upgrade Unlock | 34.00% | ~58 |
+| Proper Walls | 31.00% | ~53 |
+| Delegate Maintenance | 31.00% | ~53 |
+| Destination Destiny | 26.00% | ~44 |
 | Happy Tenants | 24.00% | ~41 |
 | Smooth Service | 24.00% | ~41 |
 | Potent Potables | 23.00% | ~39 |
 | Your Prestige is Rising | 22.00% | ~37 |
-| Lux Living | 21.00% | ~35 |
-| People Mover | 21.00% | ~35 |
-| Retail Revenue | 21.00% | ~35 |
-| Leveled Up Shops | 21.00% | ~35 |
+| Lux Living | 21.00% | ~36 |
+| People Mover | 21.00% | ~36 |
+| Retail Revenue | 21.00% | ~36 |
+| Leveled Up Shops | 21.00% | ~36 |
 | Artfully Done | 20.00% | ~34 |
 | Don't Feel a Loan | 20.00% | ~34 |
 | Emporium Empire | 20.00% | ~34 |
 | Get Electrified | 20.00% | ~34 |
 | Rehab Expert | 19.00% | ~32 |
 | Tasty Profits | 19.00% | ~32 |
-| We Don't Need No Education | 18.00% | ~30 |
+| We Don't Need No Education | 18.00% | ~31 |
 | Established Fame | 17.00% | ~29 |
 | Cashflow Chief | 17.00% | ~29 |
 | Under One Roof | 16.00% | ~27 |
 | Boutique Benefits | 16.00% | ~27 |
 | Terrifically Trashed | 16.00% | ~27 |
-| Thrilled Tenants | 15.00% | ~25 |
+| Thrilled Tenants | 15.00% | ~26 |
 | Swimming in Surplus | 14.00% | ~24 |
 | Starred Dining | 14.00% | ~24 |
 | Smooth Operator | 12.00% | ~20 |
@@ -52,15 +52,15 @@
 | Meet Me at HQ | 8.00% | ~14 |
 | Maximum Reuse | 8.00% | ~14 |
 | Phoning It In | 8.00% | ~14 |
-| Penthouse in the Sky | 7.00% | ~12 |
 | I'm Busy Ruling | 7.00% | ~12 |
-| Careful Constructor | 7.00% | ~12 |
 | Sky High Stature | 7.00% | ~12 |
-| Tuned In | 7.00% | ~12 |
-| It's a Gas | 7.00% | ~12 |
 | Meet ADA/360 | 6.00% | ~10 |
+| Penthouse in the Sky | 6.00% | ~10 |
 | Baron of Business | 6.00% | ~10 |
+| Careful Constructor | 6.00% | ~10 |
 | Water Features | 6.00% | ~10 |
+| Tuned In | 6.00% | ~10 |
+| It's a Gas | 6.00% | ~10 |
 | Office Bigwigs | 5.00% | ~8 |
 | Luxury Boutiques | 5.00% | ~8 |
 | Golden Opportunity | 5.00% | ~8 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 169 (Ranked 239)  
+Progressed: 170 (Ranked 239)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,6 +111,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-20 | 165 | 0 |
 | 2023-05-21 | 166 | 0 |
 | 2023-05-22 | 169 | 0 |
+| 2023-05-23 | 170 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

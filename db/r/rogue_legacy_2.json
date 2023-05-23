@@ -3,7 +3,7 @@
   "Name": "Rogue Legacy 2",
   "ProductSlug": "rogue-legacy-2",
   "Ranking_Rating": 38,
-  "Ranking_Popularity": 251,
+  "Ranking_Popularity": 250,
   "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 145,
@@ -1021,18 +1021,24 @@
       "Rating": 4.85,
       "NumberOfAwards": 1628,
       "NumberOfAwardsMax": 215
+    },
+    {
+      "Time": "2023-05-23T14:59:39.980705+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 1629,
+      "NumberOfAwardsMax": 216
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1628,
-  "NumberOfAwardsMax": 215,
+  "NumberOfAwards": 1629,
+  "NumberOfAwardsMax": 216,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 215
+      "Count": 216
     },
     {
       "Text": "This game is Relaxing",
@@ -1089,7 +1095,7 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 21725,
+  "EOS_Progressed": 21726,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 0,
@@ -2604,6 +2610,11 @@
       "Time": "2023-05-23T14:05:24.53301+00:00",
       "NumProgressed": 21725,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-05-23T15:06:44.2283375+00:00",
+      "NumProgressed": 21726,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -2926,21 +2937,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 21725,
+      "Progressed": 21726,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 655,
+      "Progressed": 656,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
-  "LastChanged": "2023-05-18T23:00:19.112775+00:00",
-  "LastChanged_Achievements": "2023-05-23T14:05:24.5330094+00:00",
+  "LastChanged": "2023-05-23T14:59:39.9807049+00:00",
+  "LastChanged_Achievements": "2023-05-23T15:06:44.2283367+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:25.8639734+00:00",
-  "LastUpdate_Ratings": "2023-05-23T13:58:51.5607313+00:00",
-  "LastUpdate_Achievements": "2023-05-23T14:05:24.5330469+00:00"
+  "LastUpdate_Ratings": "2023-05-23T14:59:39.9807055+00:00",
+  "LastUpdate_Achievements": "2023-05-23T15:06:44.2283938+00:00"
 }

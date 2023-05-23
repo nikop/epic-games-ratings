@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1260,
+  "EOS_Progressed": 1266,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 537,
+  "EOS_NewPlayers": 543,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1144,6 +1144,11 @@
       "Time": "2023-05-23T14:05:12.7912509+00:00",
       "NumProgressed": 1260,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-23T15:06:28.343962+00:00",
+      "NumProgressed": 1266,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1153,9 +1158,9 @@
       "ID": "REWARD_10_CLIMBING_THE_LADDER",
       "SetID": "bm6el81",
       "Name": "Climbing the Ladder",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -1195,7 +1200,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -1235,7 +1240,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1297,9 +1302,9 @@
       "ID": "REWARD_27_THE_LONG_GAME",
       "SetID": "bm6el81",
       "Name": "The Long Game",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -1313,9 +1318,9 @@
       "ID": "REWARD_29_PRECISION_IS_KEY",
       "SetID": "bm6el81",
       "Name": "Precision Is Key",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -1323,7 +1328,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1363,7 +1368,7 @@
       "Name": "Lord of War",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -1379,7 +1384,7 @@
       "Name": "Resourceful",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -1722,13 +1727,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1211,
+      "Progressed": 1217,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1260,
+      "Progressed": 1266,
       "Completed": 2
     }
   ],
@@ -1736,8 +1741,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-23T13:59:59.0486682+00:00",
-  "LastChanged_Achievements": "2023-05-23T14:05:12.7912503+00:00",
+  "LastChanged_Achievements": "2023-05-23T15:06:28.3439614+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-23T13:59:59.0486692+00:00",
-  "LastUpdate_Achievements": "2023-05-23T14:05:12.7913229+00:00"
+  "LastUpdate_Ratings": "2023-05-23T15:01:22.4075663+00:00",
+  "LastUpdate_Achievements": "2023-05-23T15:06:28.3440562+00:00"
 }

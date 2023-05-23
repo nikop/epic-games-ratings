@@ -2,7 +2,7 @@
   "ID": "5eb9d01d608e46a7ac42a673a27f7888",
   "Name": "Shotgun Farmers",
   "ProductSlug": "shotgun-farmers-d9f3f0",
-  "Ranking_EOS_Progress": 285,
+  "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 82,
@@ -656,9 +656,9 @@
       "ID": "ach_kill_pistol_with_pistol",
       "SetID": "bf10c8p",
       "Name": "Quick-Draw Pod",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_kill_self_with_pumpkin",
@@ -776,7 +776,7 @@
       "ID": "ach_x_farmers_same_sniper",
       "SetID": "bf10c8p",
       "Name": "Aspairagus",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -879,8 +879,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-05-23T14:03:58.7488851+00:00",
+  "LastChanged_Achievements": "2023-05-23T15:04:42.6859622+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:50.6291522+00:00",
-  "LastUpdate_Ratings": "2023-05-23T13:58:08.7441742+00:00",
-  "LastUpdate_Achievements": "2023-05-23T14:03:58.7489627+00:00"
+  "LastUpdate_Ratings": "2023-05-23T14:58:35.2257659+00:00",
+  "LastUpdate_Achievements": "2023-05-23T15:04:42.6860408+00:00"
 }

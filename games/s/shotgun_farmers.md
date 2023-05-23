@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Aspairagus | 20.00% | ~1 |
+| Aspairagus | 22.00% | ~1 |
 | Survivor | 15.00% | ~1 |
 | Bouncemato | 13.00% | ~1 |
-| Quick-Draw Pod | 11.00% | ~0 |
+| Quick-Draw Pod | 13.00% | ~1 |
 | Early Survivor | 11.00% | ~0 |
 | No Diggity | 11.00% | ~0 |
 | Seeds of War | 9.00% | ~5 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 54 (Ranked 285)  
+Progressed: 54 (Ranked 286)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |

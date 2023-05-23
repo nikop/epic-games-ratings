@@ -5,13 +5,13 @@ Rating: 4.35 (Ranked 719)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 15.00% | ~189 |
-| Confirming Suspicions | 9.00% | ~113 |
+| Meeting Resistance | 15.00% | ~190 |
+| Confirming Suspicions | 9.00% | ~114 |
 | The Kraken Wakes | 6.00% | ~76 |
 | It's Starting to Crack | 5.00% | ~63 |
-| Enemy at the Gates | 4.00% | ~50 |
-| Lord of War | 4.00% | ~50 |
-| Resourceful | 4.00% | ~50 |
+| Enemy at the Gates | 4.00% | ~51 |
+| Lord of War | 4.00% | ~51 |
+| Resourceful | 4.00% | ~51 |
 | Just a Flesh Wound | 3.00% | ~38 |
 | Organ Grinder | 3.00% | ~38 |
 | Explosive Efficiency | 3.00% | ~38 |
@@ -25,16 +25,16 @@ Rating: 4.35 (Ranked 719)
 | Gunslinger | 1.00% | ~13 |
 | Skirmisher | 1.00% | ~13 |
 | Sharpshooter | 1.00% | ~13 |
-| The Long Game | 1.00% | ~13 |
-| Precision Is Key | 1.00% | ~13 |
 | Der Geist | 1.00% | ~13 |
 | Close Quarters | 1.00% | ~13 |
 | Snake in the Grass | 1.00% | ~13 |
 | The Kraken Sleeps | 1.00% | ~13 |
 | Liberté | 0.90% | ~11 |
+| The Long Game | 0.90% | ~11 |
 | Set Europe Ablaze | 0.90% | ~11 |
+| Precision Is Key | 0.90% | ~11 |
+| Climbing the Ladder | 0.70% | ~9 |
 | Rigged to Blow | 0.70% | ~9 |
-| Climbing the Ladder | 0.60% | ~8 |
 | It'll Buff Right Out | 0.50% | ~6 |
 | Locomotion Commotion | 0.50% | ~6 |
 | Brains of the Operation | 0.50% | ~6 |
@@ -77,7 +77,7 @@ Rating: 4.35 (Ranked 719)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,260 (Ranked 158)  
+Progressed: 1,266 (Ranked 158)  
 Completed: 2 (0.16%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 2 (0.16%) (Ranked 145)
 | 2023-05-20 | 984 | 2 |
 | 2023-05-21 | 1,126 | 2 |
 | 2023-05-22 | 1,233 | 2 |
-| 2023-05-23 | 1,260 | 2 |
+| 2023-05-23 | 1,266 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

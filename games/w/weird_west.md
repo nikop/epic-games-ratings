@@ -6,26 +6,26 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 87.00% | ~1,335 |
-| Self-Improvement | 72.00% | ~1,105 |
-| Perky | 66.00% | ~1,013 |
-| Let’s Ride | 60.00% | ~921 |
-| Welcome to the Weird West | 58.00% | ~890 |
-| Dead or Alive | 56.00% | ~860 |
-| Full House | 37.00% | ~568 |
-| Off the Trail | 34.00% | ~522 |
+| Unforgiven | 87.00% | ~1,337 |
+| Self-Improvement | 72.00% | ~1,107 |
+| Perky | 66.00% | ~1,014 |
+| Let’s Ride | 60.00% | ~922 |
+| Welcome to the Weird West | 58.00% | ~891 |
+| Dead or Alive | 56.00% | ~861 |
+| Full House | 37.00% | ~569 |
+| Off the Trail | 34.00% | ~523 |
 | Justice Served | 28.00% | ~430 |
-| Chain Reaction | 27.00% | ~414 |
+| Chain Reaction | 27.00% | ~415 |
 | Dishonored | 25.00% | ~384 |
 | Rain of Death | 25.00% | ~384 |
 | Scholar | 25.00% | ~384 |
 | Through Their Eyes | 25.00% | ~384 |
 | The Great Escape | 22.00% | ~338 |
-| That’s All, Folks | 18.00% | ~276 |
+| That’s All, Folks | 18.00% | ~277 |
 | Fallen Star | 16.00% | ~246 |
 | Winds of War | 16.00% | ~246 |
-| For Balance | 15.00% | ~230 |
-| Here Comes Santa Claus | 15.00% | ~230 |
+| For Balance | 15.00% | ~231 |
+| Here Comes Santa Claus | 15.00% | ~231 |
 | Dog Days | 13.00% | ~200 |
 | Workers' Rights | 13.00% | ~200 |
 | Elusive Prey | 12.00% | ~184 |
@@ -34,15 +34,15 @@ Number of Ratings: 125  (23.09.2022)
 | Something Wicked This Way Comes… | 12.00% | ~184 |
 | There is Hope | 12.00% | ~184 |
 | Turning the Tables | 12.00% | ~184 |
-| The Philosopher’s Stone | 10.00% | ~154 |
 | Loyalty to the Pack | 9.00% | ~138 |
 | Eternity Can Wait | 9.00% | ~138 |
 | Mystery Machine | 9.00% | ~138 |
+| The Philosopher’s Stone | 9.00% | ~138 |
 | Gold Digger | 8.00% | ~123 |
 | Knuckle Sandwich | 8.00% | ~123 |
-| Do Not Pass Go… | 7.00% | ~107 |
-| Getting the Gang Back Together | 7.00% | ~107 |
-| Monster Hunter | 7.00% | ~107 |
+| Do Not Pass Go… | 7.00% | ~108 |
+| Getting the Gang Back Together | 7.00% | ~108 |
+| Monster Hunter | 7.00% | ~108 |
 | Who You Gonna Call? | 6.00% | ~92 |
 | Healing Old Wounds | 5.00% | ~77 |
 | This Is Sparta | 5.00% | ~77 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.30% | ~5 |
 | Revenant | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,535 (Ranked 154)  
+Progressed: 1,537 (Ranked 154)  
 Completed: 2 (0.13%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 2 (0.13%) (Ranked 154)
 | 2023-05-20 | 1,528 | 2 |
 | 2023-05-21 | 1,532 | 2 |
 | 2023-05-22 | 1,534 | 2 |
-| 2023-05-23 | 1,535 | 2 |
+| 2023-05-23 | 1,537 | 2 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 465)  
 Sum: 24 (Ranked 470)  

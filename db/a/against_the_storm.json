@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 151,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -2290,7 +2290,7 @@
   ],
   "EOS_Progressed": 14969,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -4277,9 +4277,9 @@
       "ID": "WinNearTemple",
       "SetID": "cfbk359",
       "Name": "Forsaken Gods Temple",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 105
     },
     {
       "ID": "WinNearTorrent",
@@ -4445,8 +4445,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-19T11:59:18.6406919+00:00",
-  "LastChanged_Achievements": "2023-05-23T14:05:38.0507828+00:00",
+  "LastChanged_Achievements": "2023-05-23T15:07:02.4941514+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:57.8342165+00:00",
-  "LastUpdate_Ratings": "2023-05-23T13:59:33.3320635+00:00",
-  "LastUpdate_Achievements": "2023-05-23T14:05:38.0508374+00:00"
+  "LastUpdate_Ratings": "2023-05-23T15:00:43.5690538+00:00",
+  "LastUpdate_Achievements": "2023-05-23T15:07:02.4942081+00:00"
 }

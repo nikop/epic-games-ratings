@@ -575,9 +575,9 @@
       "ID": "ToiletTrophy",
       "SetID": "32aeje8",
       "Name": "Smells like teen spirit",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TouristTrophy",
@@ -632,8 +632,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-03-31T05:57:16.243609+00:00",
-  "LastChanged_Achievements": "2023-05-23T14:05:20.7719334+00:00",
+  "LastChanged_Achievements": "2023-05-23T15:06:39.1508786+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:47.3233337+00:00",
-  "LastUpdate_Ratings": "2023-05-23T13:58:05.6988095+00:00",
-  "LastUpdate_Achievements": "2023-05-23T14:05:20.7719831+00:00"
+  "LastUpdate_Ratings": "2023-05-23T14:58:30.6262929+00:00",
+  "LastUpdate_Achievements": "2023-05-23T15:06:39.1509272+00:00"
 }

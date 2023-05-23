@@ -5,20 +5,20 @@ Rating: 4.49 (Ranked 557)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~19,051 |
-| Advancement | 73.00% | ~16,171 |
-| Meticulously Efficient | 64.00% | ~14,177 |
-| Discovery | 62.00% | ~13,734 |
-| Swift Rift Removers | 56.00% | ~12,405 |
+| Stylish | 86.00% | ~19,052 |
+| Advancement | 73.00% | ~16,172 |
+| Meticulously Efficient | 64.00% | ~14,178 |
+| Discovery | 62.00% | ~13,735 |
+| Swift Rift Removers | 56.00% | ~12,406 |
 | Fully Upgraded | 55.00% | ~12,184 |
 | Cultured | 53.00% | ~11,741 |
-| I collect Spores, Molds, and Fungi | 52.00% | ~11,519 |
-| Vaporous Expansion | 49.00% | ~10,854 |
-| Teamwork | 45.00% | ~9,968 |
+| I collect Spores, Molds, and Fungi | 52.00% | ~11,520 |
+| Vaporous Expansion | 49.00% | ~10,855 |
+| Teamwork | 45.00% | ~9,969 |
 | There you are! | 44.00% | ~9,747 |
-| Clutch Capture | 41.00% | ~9,082 |
+| Clutch Capture | 41.00% | ~9,083 |
 | Back Off | 36.00% | ~7,975 |
-| Daily Dose | 35.00% | ~7,753 |
+| Daily Dose | 35.00% | ~7,754 |
 | Welcome to the Crew | 33.00% | ~7,310 |
 | Solo Capture | 32.00% | ~7,089 |
 | Ghostbuster In Training | 31.00% | ~6,867 |
@@ -32,11 +32,11 @@ Rating: 4.49 (Ranked 557)
 | Pesky Jerks | 26.00% | ~5,760 |
 | Animated | 25.00% | ~5,538 |
 | Skilled | 25.00% | ~5,538 |
-| Collector | 24.00% | ~5,316 |
-| Ectoplasmic Entity | 24.00% | ~5,316 |
-| Rift Destroyer | 20.00% | ~4,430 |
+| Collector | 24.00% | ~5,317 |
+| Ectoplasmic Entity | 24.00% | ~5,317 |
+| Rift Destroyer | 20.00% | ~4,431 |
 | Tobin's Prodigy | 19.00% | ~4,209 |
-| Reckless | 18.00% | ~3,987 |
+| Reckless | 18.00% | ~3,988 |
 | Terrifying | 17.00% | ~3,766 |
 | Diabolical | 16.00% | ~3,544 |
 | Escape Artist | 16.00% | ~3,544 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 557)
 | I don't need these | 1.00% | ~222 |
 | Mycophile | 1.00% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,152 (Ranked 90)  
+Progressed: 22,153 (Ranked 90)  
 Completed: 40 (0.18%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 40 (0.18%) (Ranked 143)
 | 2023-05-20 | 22,053 | 40 |
 | 2023-05-21 | 22,107 | 40 |
 | 2023-05-22 | 22,138 | 40 |
-| 2023-05-23 | 22,152 | 40 |
+| 2023-05-23 | 22,153 | 40 |
 ## Awards
 Max (Great for Quick Sessions): 231  (Ranked 246)  
 Sum: 2,081 (Ranked 183)  

@@ -2,7 +2,7 @@
   "ID": "246d81dbb3bc4e0eb0fcfd9b85f4de77",
   "Name": "ELEGIES Aya",
   "ProductSlug": "elegies-aya-17c3f1",
-  "Ranking_EOS_Progress": 352,
+  "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 82,
@@ -21,7 +21,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
@@ -51,6 +51,11 @@
       "Time": "2023-05-21T15:05:58.5966682+00:00",
       "NumProgressed": 5,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-23T15:06:23.7893877+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 13,
@@ -60,7 +65,7 @@
       "ID": "ACH_CH0",
       "SetID": "1em00ld",
       "Name": "You\u0027ve met with a terrible fate haven\u0027t you?",
-      "Percentage": 80,
+      "Percentage": 67,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -68,7 +73,7 @@
       "ID": "ACH_CH1",
       "SetID": "1em00ld",
       "Name": "Nothing in life is to be feared",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -76,7 +81,7 @@
       "ID": "ACH_CH2",
       "SetID": "1em00ld",
       "Name": "Late night investigation",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -165,14 +170,14 @@
     {
       "ID": "1em00ld",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T07:59:25.1287927+00:00",
   "FirstSeenAchievements": "2023-05-02T21:04:14.2389634+00:00",
-  "LastChanged_Achievements": "2023-05-23T14:05:09.654397+00:00",
+  "LastChanged_Achievements": "2023-05-23T15:06:23.7893871+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.79126+00:00",
-  "LastUpdate_Ratings": "2023-05-23T13:58:42.9945262+00:00",
-  "LastUpdate_Achievements": "2023-05-23T14:05:09.6544062+00:00"
+  "LastUpdate_Ratings": "2023-05-23T14:59:26.5825458+00:00",
+  "LastUpdate_Achievements": "2023-05-23T15:06:23.7894034+00:00"
 }

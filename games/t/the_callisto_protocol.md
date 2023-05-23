@@ -19,16 +19,16 @@ Rating: 4.18 (Ranked 831)
 | Get a Grip | 1.00% | ~134 |
 | Reforged | 1.00% | ~134 |
 | Hoard Mode | 1.00% | ~13 |
+| Workplace Hazard | 0.90% | ~120 |
 | Lifer | 0.80% | ~10 |
-| Workplace Hazard | 0.80% | ~107 |
+| The Outer Way | 0.80% | ~107 |
 | Recidivist | 0.70% | ~9 |
+| Terminated | 0.70% | ~94 |
 | Paper Jams | 0.70% | ~94 |
-| The Outer Way | 0.70% | ~94 |
+| Desperate Times | 0.70% | ~94 |
 | In Striking Distance | 0.60% | ~80 |
-| Terminated | 0.60% | ~80 |
-| Desperate Times | 0.60% | ~80 |
+| If the SHU Fits... | 0.50% | ~67 |
 | Two Heads Are Better Than One | 0.40% | ~54 |
-| If the SHU Fits... | 0.40% | ~54 |
 | Grim Reaper | 0.30% | ~40 |
 | I Do Belong Here | 0.30% | ~40 |
 | Without A Paddle | 0.30% | ~40 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 831)
 | I am the Danger | 0.00% | ~0 |
 | Subject Alpha | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,381 (Ranked 101)  
+Progressed: 13,385 (Ranked 101)  
 Completed: 52 (0.39%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 52 (0.39%) (Ranked 112)
 | 2023-05-20 | 13,057 | 51 |
 | 2023-05-21 | 13,223 | 52 |
 | 2023-05-22 | 13,347 | 52 |
-| 2023-05-23 | 13,381 | 52 |
+| 2023-05-23 | 13,385 | 52 |
 ## Awards
 Max (Amazing Storytelling): 46  (Ranked 397)  
 Sum: 247 (Ranked 341)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -416,9 +416,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 13381,
+  "EOS_Progressed": 13385,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 816,
+  "EOS_NewPlayers": 820,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1291,6 +1291,11 @@
       "Time": "2023-05-23T14:02:37.2228105+00:00",
       "NumProgressed": 13381,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-05-23T15:03:27.5062085+00:00",
+      "NumProgressed": 13385,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 40,
@@ -1436,17 +1441,17 @@
       "ID": "KILL_ROBOT",
       "SetID": "4hj6d86",
       "Name": "Terminated",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 94
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Workplace Hazard",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 107
+      "UsersEstimate": 120
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -1492,17 +1497,17 @@
       "ID": "STORY_COLDOPEN",
       "SetID": "4hj6d86",
       "Name": "The Outer Way",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 107
     },
     {
       "ID": "STORY_ESCAPE",
       "SetID": "4hj6d86",
       "Name": "If the SHU Fits...",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 67
     },
     {
       "ID": "STORY_HABITAT",
@@ -1532,9 +1537,9 @@
       "ID": "STORY_OUTBREAK",
       "SetID": "4hj6d86",
       "Name": "Desperate Times",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 94
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -1621,13 +1626,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13381,
+      "Progressed": 13385,
       "Completed": 52
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1307,
+      "Progressed": 1311,
       "Completed": 29
     }
   ],
@@ -1635,8 +1640,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-22T19:57:44.0247925+00:00",
-  "LastChanged_Achievements": "2023-05-23T14:02:37.2228094+00:00",
+  "LastChanged_Achievements": "2023-05-23T15:03:27.5062075+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-23T13:57:45.6162422+00:00",
-  "LastUpdate_Achievements": "2023-05-23T14:02:37.2228536+00:00"
+  "LastUpdate_Ratings": "2023-05-23T14:58:01.3388015+00:00",
+  "LastUpdate_Achievements": "2023-05-23T15:03:27.5062795+00:00"
 }

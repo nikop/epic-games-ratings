@@ -3,8 +3,8 @@
   "Name": "Late Shift",
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 206,
-  "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_Completed": 83,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 355,
+  "EOS_Progressed": 356,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.13,
+  "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:43.1533073+00:00",
@@ -167,6 +167,11 @@
       "Time": "2023-05-23T03:04:37.7084793+00:00",
       "NumProgressed": 355,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-23T15:06:13.992344+00:00",
+      "NumProgressed": 356,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 20,
@@ -178,7 +183,7 @@
       "Name": "Cause and Effect",
       "Percentage": 96,
       "XP": 25,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "CHOICES_MATTER",
@@ -234,7 +239,7 @@
       "Name": "The Bribe",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "ENDING_7",
@@ -250,7 +255,7 @@
       "Name": "Even Tempered",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -266,7 +271,7 @@
       "Name": "Fair Share",
       "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "GOOD_KARMA",
@@ -337,7 +342,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 355,
+      "Progressed": 356,
       "Completed": 4
     }
   ],
@@ -345,8 +350,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-05-23T14:05:02.1220739+00:00",
+  "LastChanged_Achievements": "2023-05-23T15:06:13.9923435+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:15.4499974+00:00",
-  "LastUpdate_Ratings": "2023-05-23T13:57:40.1229367+00:00",
-  "LastUpdate_Achievements": "2023-05-23T14:05:02.1220893+00:00"
+  "LastUpdate_Ratings": "2023-05-23T14:57:53.8637271+00:00",
+  "LastUpdate_Achievements": "2023-05-23T15:06:13.9923594+00:00"
 }

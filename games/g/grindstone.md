@@ -1,7 +1,7 @@
 # Grindstone
 [Store](https://store.epicgames.com/en-US/p/grindstone)  
 [View Rawdata](../../db/g/grindstone.json)  
-Rating: 4.85 (Ranked 38)  
+Rating: 4.84 (Ranked 48)  
 Number of Ratings: 63  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -115,3 +115,4 @@ Completed: 26 (0.51%) (Ranked 105)
 | 2023-01-13 | 4.84 | - | - | - |
 | 2023-03-31 | 4.84 | - | 0 | 0 |
 | 2023-04-17 | 4.85 | - | 0 | 0 |
+| 2023-05-23 | 4.84 | - | 0 | 0 |
