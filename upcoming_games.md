@@ -5,6 +5,7 @@
 | [FutureGrind](games/8/80a76982ecc941dd864a8792a03a5ddc.md) | 2023-05-23 | 2019-01-22 |
 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 2023-05-23 | 2023-05-23 |
 | [Planet of Lana](games/p/planet_of_lana.md) | 2023-05-23 | 2023-05-23 |
+| [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 2023-05-23 | 2023-05-23 |
 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 2023-05-23 | 2023-05-23 |
 | [The Creepy Syndrome](games/f/f2ed44898a204bee866836b9b659bce4.md) | 2023-05-23 | 2023-04-27 |
 | [Skeletal Avengers](games/d/d2dcfb91f59d4880b8a5e6fe2aa64a7e.md) | 2023-05-24 | 2021-09-28 |
@@ -34,6 +35,7 @@
 | [Heroes of Shaola](games/h/heroes_of_shaola.md) | 2023-05-31 | 2019-08-01 |
 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 2023-05-31 | 2022-10-18 |
 | [Operation New Earth](games/o/operation_new_earth.md) | 2023-05-31 | 2016-12-14 |
+| [Song Of The Prairie](games/6/679f1dc6ccf2496fb76ce7ecd2324a09.md) | 2023-05-31 | 2023-05-31 |
 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 2023-05-31 | 2023-05-24 |
 | [The Cullfield Ritual](games/t/the_cullfield_ritual.md) | 2023-05-31 | 2023-01-05 |
 | [The Dark Tower](games/d/db076bd211d44eb6ae53d85f494af2b4.md) | 2023-05-31 | 2023-05-14 |
@@ -374,7 +376,6 @@
 | [Selfloss](games/s/selfloss.md) | 2099-01-02 | - |
 | [Song of Nunu: A League of Legends Story™](games/s/song_of_nunu__a_league_of_legends_story™.md) | 2099-01-02 | - |
 | [Spacelines from the Far Out](games/s/spacelines_from_the_far_out.md) | 2099-01-02 | - |
-| [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 2099-01-02 | - |
 | [Super Buckyball Tournament](games/s/super_buckyball_tournament.md) | 2099-01-02 | - |
 | [The Legend of Heroes: Trails into Reverie](games/t/the_legend_of_heroes__trails_into_reverie.md) | 2099-01-02 | - |
 | [The Legend of Nayuta: Boundless Trails](games/t/the_legend_of_nayuta__boundless_trails.md) | 2099-01-02 | - |
