@@ -18,8 +18,8 @@
 | 16 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.12% |
 | 18 | [Time Loader](games/t/time_loader.md) | 8.00% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.80% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.72% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.87% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.71% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
 | 22 | [Scorn](games/s/scorn.md) | 6.90% |
 | 23 | [Ravenlok](games/r/ravenlok.md) | 6.72% |
@@ -34,7 +34,7 @@
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.43% |
 | 34 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.35% |
-| 35 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.94% |
+| 35 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.93% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
 | 37 | [Doodle God](games/d/doodle_god.md) | 3.90% |
 | 38 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
@@ -85,7 +85,7 @@
 | 82 | [Late Shift](games/l/late_shift.md) | 1.13% |
 | 84 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.12% |
 | 85 | [Five Dates](games/f/five_dates.md) | 1.09% |
-| 86 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.08% |
+| 86 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.06% |
 | 87 | [Sable](games/s/sable.md) | 0.94% |
 | 88 | [Dungeons 3](games/d/dungeons_3.md) | 0.89% |
 | 88 | [Hades](games/h/hades.md) | 0.89% |
@@ -307,6 +307,7 @@
 | 201 | [Lost Ruins](games/l/lost_ruins.md) | 0.00% |
 | 201 | [Maid of Sker](games/m/maid_of_sker.md) | 0.00% |
 | 201 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 0.00% |
+| 201 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 0.00% |
 | 201 | [Model Builder](games/m/model_builder.md) | 0.00% |
 | 201 | [Monorail Stories](games/m/monorail_stories.md) | 0.00% |
 | 201 | [Monster Outbreak](games/m/monster_outbreak.md) | 0.00% |
@@ -412,4 +413,4 @@
 | 201 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 201 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 201 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,651 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,652 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

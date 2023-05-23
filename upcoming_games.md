@@ -1,6 +1,5 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [Knights of Cathena](games/8/8cc5b4b56c84428999f03f3e6ac49481.md) | 2023-05-23 | 2022-09-07 |
 | [Cubzh](games/c/cubzh.md) | 2023-05-23 | 2021-10-24 |
 | [FutureGrind](games/8/80a76982ecc941dd864a8792a03a5ddc.md) | 2023-05-23 | 2019-01-22 |
 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 2023-05-23 | 2023-05-23 |
@@ -127,6 +126,7 @@
 | [Tall Poppy 2](games/7/71f1ccd53d6a46c8a44b9e5425af0723.md) | 2023-10-13 | 2023-10-13 |
 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 2023-10-13 | 2023-10-13 |
 | [ENDLESS™ Dungeon](games/e/endless™_dungeon.md) | 2023-10-19 | 2023-10-19 |
+| [IHAS](games/3/306a3dc5437a43d29e58661fc6f391f2.md) | 2023-11-30 | 2023-11-30 |
 | [MetalCore](games/m/metalcore.md) | 2023-11-30 | 2023-11-30 |
 | [The Crust](games/t/the_crust.md) | 2023-11-30 | 2023-11-30 |
 | [1000xRESIST](games/1/1000xresist.md) | 2023-12-31 | 2023-12-31 |

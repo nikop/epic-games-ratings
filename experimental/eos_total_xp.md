@@ -243,6 +243,7 @@
 | [Merchant of the Skies](../games/m/merchant_of_the_skies.md) | 12 | 1,000 |
 | [MeteoHeroes Saving Planet Earth!](../games/m/meteoheroes_saving_planet_earth!.md) | 25 | 1,000 |
 | [Mia and the Dragon Princess](../games/m/mia_and_the_dragon_princess.md) | 18 | 1,000 |
+| [Miasma Chronicles](../games/m/miasma_chronicles.md) | 51 | 1,000 |
 | [Model Builder](../games/m/model_builder.md) | 70 | 1,000 |
 | [Mokoko X](../games/c/cace077f51674e66b937ba8d5646fff7.md) | 73 | 1,000 |
 | [Monster Harvest](../games/m/monster_harvest.md) | 10 | 1,000 |
