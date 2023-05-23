@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1245,
+  "EOS_Progressed": 1246,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 523,
+  "EOS_NewPlayers": 524,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1098,6 +1098,11 @@
       "Time": "2023-05-23T05:05:59.6608686+00:00",
       "NumProgressed": 1245,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-23T06:06:03.3889207+00:00",
+      "NumProgressed": 1246,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1323,9 +1328,9 @@
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
       "SetID": "bm6el81",
       "Name": "Die Nussknacker Sweet!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 25
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -1676,13 +1681,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1196,
+      "Progressed": 1197,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1245,
+      "Progressed": 1246,
       "Completed": 2
     }
   ],
@@ -1690,8 +1695,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-22T16:01:02.9174493+00:00",
-  "LastChanged_Achievements": "2023-05-23T05:05:59.6608681+00:00",
+  "LastChanged_Achievements": "2023-05-23T06:06:03.3889201+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-23T05:00:32.3038168+00:00",
-  "LastUpdate_Achievements": "2023-05-23T05:05:59.6609524+00:00"
+  "LastUpdate_Ratings": "2023-05-23T06:00:50.3654149+00:00",
+  "LastUpdate_Achievements": "2023-05-23T06:06:03.3890456+00:00"
 }

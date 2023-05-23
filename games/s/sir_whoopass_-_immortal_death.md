@@ -29,16 +29,16 @@
 | Spare Ribs | 43.00% | ~22 |
 | Cockadoodledoo! | 41.00% | ~21 |
 | Self assessed tax return | 39.00% | ~20 |
+| Make America Grate Again | 37.00% | ~19 |
 | You are no match for me, Billy! | 35.00% | ~18 |
-| Make America Grate Again | 35.00% | ~18 |
 | Karaoke king | 33.00% | ~17 |
 | Pasta Bolognese | 33.00% | ~17 |
 | You can't stop me, bro! | 31.00% | ~16 |
 | Haemochromatosis | 31.00% | ~16 |
+| Meatballs, coming up! | 29.00% | ~15 |
 | Catch the bus with me! | 29.00% | ~15 |
-| Meatballs, coming up! | 27.00% | ~14 |
 | I'm going to get a concussion | 27.00% | ~14 |
-| Another one bites the iron | 24.00% | ~12 |
+| Another one bites the iron | 25.00% | ~13 |
 | Ripe Meat Off The Bone! | 22.00% | ~11 |
 | Hovering around | 22.00% | ~11 |
 | A Megapint...? | 20.00% | ~10 |
@@ -49,11 +49,11 @@
 | I drink, but I'm not a drunk! | 12.00% | ~6 |
 | I cant stand still! | 12.00% | ~6 |
 | Slimy... yet satisfying | 12.00% | ~6 |
+| Ancient Ruins of Dirty Feet | 10.00% | ~5 |
 | Master Butcher | 10.00% | ~5 |
+| Deal with it | 10.00% | ~5 |
 | Spoiler alert! | 8.00% | ~4 |
-| Ancient Ruins of Dirty Feet | 8.00% | ~4 |
 | Yeehaw!!! | 8.00% | ~4 |
-| Deal with it | 8.00% | ~4 |
 | You're looking mozzare-hella good! | 6.00% | ~3 |
 | Okay... Maybe I'm a bit drunk... | 4.00% | ~2 |
 | Scrambled Eggs | 4.00% | ~2 |

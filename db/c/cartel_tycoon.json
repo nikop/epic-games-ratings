@@ -280,7 +280,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 336,
+  "EOS_Progressed": 337,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
@@ -575,6 +575,11 @@
       "Time": "2023-05-21T06:06:25.5951233+00:00",
       "NumProgressed": 336,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-23T06:06:24.5028617+00:00",
+      "NumProgressed": 337,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 19,
@@ -610,7 +615,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "female-conqueror",
@@ -634,7 +639,7 @@
       "Name": "Our Man",
       "Percentage": 84,
       "XP": 20,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "kill-lieutenants",
@@ -650,7 +655,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "play-at-night",
@@ -658,7 +663,7 @@
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "product-profit",
@@ -690,7 +695,7 @@
       "Name": "Bite the Blow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "sell-variety",
@@ -698,7 +703,7 @@
       "Name": "Spread",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "send-smuggling",
@@ -720,9 +725,9 @@
       "ID": "upgrade-building",
       "SetID": "bed33dd",
       "Name": "Take-Off",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 259
     },
     {
       "ID": "use-submarine",
@@ -737,15 +742,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 336,
+      "Progressed": 337,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-05-23T05:06:21.1480945+00:00",
+  "LastChanged_Achievements": "2023-05-23T06:06:24.5028609+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:45.257987+00:00",
-  "LastUpdate_Ratings": "2023-05-23T05:00:06.2275642+00:00",
-  "LastUpdate_Achievements": "2023-05-23T05:06:21.1481134+00:00"
+  "LastUpdate_Ratings": "2023-05-23T06:00:25.5895152+00:00",
+  "LastUpdate_Achievements": "2023-05-23T06:06:24.5028825+00:00"
 }

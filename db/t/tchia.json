@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5969,
+  "EOS_Progressed": 5971,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2002,6 +2002,11 @@
       "Time": "2023-05-23T02:06:44.3714558+00:00",
       "NumProgressed": 5969,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-23T06:05:53.760386+00:00",
+      "NumProgressed": 5971,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 21,
@@ -2101,7 +2106,7 @@
       "Name": "Historian",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ICONOCLAST",
@@ -2109,7 +2114,7 @@
       "Name": "Iconoclast",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "IN_A_PINCH",
@@ -2141,7 +2146,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "SNIP_SNIP",
@@ -2165,7 +2170,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "THING",
@@ -2180,7 +2185,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5969,
+      "Progressed": 5971,
       "Completed": 22
     }
   ],
@@ -2188,8 +2193,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-22T16:57:53.1033555+00:00",
-  "LastChanged_Achievements": "2023-05-23T05:05:49.8560666+00:00",
+  "LastChanged_Achievements": "2023-05-23T06:05:53.7603853+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.822955+00:00",
-  "LastUpdate_Ratings": "2023-05-23T04:57:52.8338721+00:00",
-  "LastUpdate_Achievements": "2023-05-23T05:05:49.8560952+00:00"
+  "LastUpdate_Ratings": "2023-05-23T05:58:08.0858102+00:00",
+  "LastUpdate_Achievements": "2023-05-23T06:05:53.76043+00:00"
 }

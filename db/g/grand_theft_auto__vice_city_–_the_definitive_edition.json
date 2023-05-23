@@ -328,9 +328,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 6639,
+  "EOS_Progressed": 6642,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 475,
+  "EOS_NewPlayers": 478,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2058,6 +2058,11 @@
       "Time": "2023-05-23T05:05:55.5385741+00:00",
       "NumProgressed": 6639,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-23T06:05:59.3610553+00:00",
+      "NumProgressed": 6642,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 34,
@@ -2141,7 +2146,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "ACH11",
@@ -2173,7 +2178,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2589
+      "UsersEstimate": 2590
     },
     {
       "ID": "ACH15",
@@ -2229,7 +2234,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2855
+      "UsersEstimate": 2856
     },
     {
       "ID": "ACH22",
@@ -2245,7 +2250,7 @@
       "Name": "South American Connection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1528
     },
     {
       "ID": "ACH24",
@@ -2340,7 +2345,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6639,
+      "Progressed": 6642,
       "Completed": 22
     }
   ],
@@ -2348,8 +2353,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-22T06:58:02.1273389+00:00",
-  "LastChanged_Achievements": "2023-05-23T05:05:55.5385736+00:00",
+  "LastChanged_Achievements": "2023-05-23T06:05:59.3610547+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:49.9519997+00:00",
-  "LastUpdate_Ratings": "2023-05-23T04:58:12.9807603+00:00",
-  "LastUpdate_Achievements": "2023-05-23T05:05:55.5386165+00:00"
+  "LastUpdate_Ratings": "2023-05-23T05:58:28.0376959+00:00",
+  "LastUpdate_Achievements": "2023-05-23T06:05:59.3611155+00:00"
 }

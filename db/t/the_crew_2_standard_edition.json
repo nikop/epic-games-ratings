@@ -4,7 +4,7 @@
   "ProductSlug": "the-crew-2",
   "Ranking_Rating": 272,
   "Ranking_Popularity": 193,
-  "Ranking_PopularitySum": 153,
+  "Ranking_PopularitySum": 152,
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 316,
@@ -3007,10 +3007,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 3009,
       "NumberOfAwardsMax": 433
+    },
+    {
+      "Time": "2023-05-23T06:00:09.1436988+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 3011,
+      "NumberOfAwardsMax": 433
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3009,
+  "NumberOfAwards": 3011,
   "NumberOfAwardsMax": 433,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3024,7 +3030,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 380
+      "Count": 382
     },
     {
       "Text": "This game has Competitive Players",
@@ -3086,8 +3092,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:02.2131047+00:00",
-  "LastChanged": "2023-05-23T04:59:51.8629739+00:00",
+  "LastChanged": "2023-05-23T06:00:09.1436986+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:09:23.9475849+00:00",
-  "LastUpdate_Ratings": "2023-05-23T04:59:51.8629746+00:00",
-  "LastUpdate_Achievements": "2023-05-23T05:05:10.1233323+00:00"
+  "LastUpdate_Ratings": "2023-05-23T06:00:09.1436992+00:00",
+  "LastUpdate_Achievements": "2023-05-23T06:05:15.1086424+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 424,
+  "EOS_Progressed": 425,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.18,
   "EosHistory": [
@@ -194,6 +194,11 @@
       "Time": "2023-05-23T02:07:21.5626452+00:00",
       "NumProgressed": 424,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-23T06:06:30.4473672+00:00",
+      "NumProgressed": 425,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -229,7 +234,7 @@
       "Name": "Bosom Buddies",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "Doors_Closing",
@@ -325,7 +330,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "Leisurely_Strol",
@@ -339,9 +344,9 @@
       "ID": "MISSING_DATA",
       "SetID": "ek310c",
       "Name": "Does Not Compute",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 51
     },
     {
       "ID": "Misanthrope",
@@ -397,7 +402,7 @@
       "Name": "Catch You Later",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Party",
@@ -429,14 +434,14 @@
       "Name": "Unexpected Consequences",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     }
   ],
   "AchievementSets": [
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 424,
+      "Progressed": 425,
       "Completed": 5
     }
   ],
@@ -444,8 +449,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-05-18T03:00:40.7703689+00:00",
-  "LastChanged_Achievements": "2023-05-23T05:06:27.0541868+00:00",
+  "LastChanged_Achievements": "2023-05-23T06:06:30.4473665+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:53.1846024+00:00",
-  "LastUpdate_Ratings": "2023-05-23T05:00:35.9340512+00:00",
-  "LastUpdate_Achievements": "2023-05-23T05:06:27.0542183+00:00"
+  "LastUpdate_Ratings": "2023-05-23T06:00:54.0183535+00:00",
+  "LastUpdate_Achievements": "2023-05-23T06:06:30.4473919+00:00"
 }

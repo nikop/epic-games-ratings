@@ -16,12 +16,12 @@ Rating: 4.34 (Ranked 729)
 | Explosive Efficiency | 3.00% | ~37 |
 | Opposing Force | 2.00% | ~25 |
 | Organ Grinder | 2.00% | ~25 |
+| Die Nussknacker Sweet! | 2.00% | ~25 |
 | As Quiet as a Mouse | 2.00% | ~25 |
 | Change the Channel | 2.00% | ~25 |
 | Fields of Glory | 1.00% | ~12 |
 | Gunslinger | 1.00% | ~12 |
 | Sharpshooter | 1.00% | ~12 |
-| Die Nussknacker Sweet! | 1.00% | ~12 |
 | Close Quarters | 1.00% | ~12 |
 | Snake in the Grass | 1.00% | ~12 |
 | Taking it back | 1.00% | ~12 |
@@ -77,7 +77,7 @@ Rating: 4.34 (Ranked 729)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,245 (Ranked 158)  
+Progressed: 1,246 (Ranked 158)  
 Completed: 2 (0.16%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 2 (0.16%) (Ranked 145)
 | 2023-05-20 | 984 | 2 |
 | 2023-05-21 | 1,126 | 2 |
 | 2023-05-22 | 1,233 | 2 |
-| 2023-05-23 | 1,245 | 2 |
+| 2023-05-23 | 1,246 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

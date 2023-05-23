@@ -6,13 +6,13 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 74.00% | ~1,868 |
-| Ready for Winter | 63.00% | ~1,591 |
-| Ready for Summer | 51.00% | ~1,288 |
-| Cordon Bleu | 43.00% | ~1,086 |
+| Venture Outward | 74.00% | ~1,870 |
+| Ready for Winter | 63.00% | ~1,592 |
+| Ready for Summer | 51.00% | ~1,289 |
+| Cordon Bleu | 43.00% | ~1,087 |
 | Tapped! | 35.00% | ~884 |
 | Eureka | 31.00% | ~783 |
-| Scourge Slayer | 25.00% | ~631 |
+| Scourge Slayer | 25.00% | ~632 |
 | Science, Troglodyte! | 23.00% | ~581 |
 | Exceptional Skill | 22.00% | ~556 |
 | Home Sweet Home | 22.00% | ~556 |
@@ -37,10 +37,10 @@ Number of Ratings: 266  (23.09.2022)
 | Memory of a legend | 4.00% | ~101 |
 | Light of Levant | 3.00% | ~76 |
 | This was a mistake... | 3.00% | ~76 |
-| Crowd Pleaser. | 2.00% | ~50 |
-| Perfect Defense | 2.00% | ~50 |
-| Power! To! The People! | 2.00% | ~50 |
-| Your actions define you | 2.00% | ~50 |
+| Crowd Pleaser. | 2.00% | ~51 |
+| Perfect Defense | 2.00% | ~51 |
+| Power! To! The People! | 2.00% | ~51 |
+| Your actions define you | 2.00% | ~51 |
 | The blood is life | 1.00% | ~25 |
 | They'll Tell Stories About This | 1.00% | ~25 |
 | Vanquisher of nightmares | 1.00% | ~25 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.40% | ~10 |
 | The Absolute Pinnacle. | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,525 (Ranked 139)  
+Progressed: 2,527 (Ranked 139)  
 Completed: 1 (0.04%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 1 (0.04%) (Ranked 177)
 | 2023-05-20 | 2,454 | 1 |
 | 2023-05-21 | 2,488 | 1 |
 | 2023-05-22 | 2,518 | 1 |
-| 2023-05-23 | 2,525 | 1 |
+| 2023-05-23 | 2,527 | 1 |
 ## Awards
 Max (Amazing Characters): 31  (Ranked 441)  
 Sum: 238 (Ranked 342)  

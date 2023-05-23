@@ -52,9 +52,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 814,
+  "EOS_Progressed": 816,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 805,
+  "EOS_NewPlayers": 807,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -592,6 +592,11 @@
       "Time": "2023-05-23T05:00:39.8987539+00:00",
       "NumProgressed": 814,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-23T06:01:00.0238204+00:00",
+      "NumProgressed": 816,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -827,7 +832,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -859,7 +864,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -969,24 +974,24 @@
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
       "SetID": "l546gc",
       "Name": "Thunderstruck",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_TO_INFINITY_AND_BEYOND",
       "SetID": "l546gc",
       "Name": "To infinity and beyond!",
-      "Percentage": 0.2,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 814,
+      "Progressed": 816,
       "Completed": 0
     }
   ],
@@ -994,8 +999,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-05-22T10:57:22.9515554+00:00",
-  "LastChanged_Achievements": "2023-05-23T05:00:39.89873+00:00",
+  "LastChanged_Achievements": "2023-05-23T06:01:00.023819+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:55.9692167+00:00",
-  "LastUpdate_Ratings": "2023-05-23T04:57:19.2617904+00:00",
-  "LastUpdate_Achievements": "2023-05-23T05:00:39.901212+00:00"
+  "LastUpdate_Ratings": "2023-05-23T05:57:34.336289+00:00",
+  "LastUpdate_Achievements": "2023-05-23T06:01:00.0239132+00:00"
 }

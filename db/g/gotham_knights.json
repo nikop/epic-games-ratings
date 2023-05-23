@@ -1184,9 +1184,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61757,
+  "EOS_Progressed": 61762,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 850,
+  "EOS_NewPlayers": 854,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3404,6 +3404,11 @@
       "Time": "2023-05-23T05:06:30.1581488+00:00",
       "NumProgressed": 61757,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-23T06:06:33.4274342+00:00",
+      "NumProgressed": 61762,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3837,9 +3842,9 @@
       "ID": "MYSTERY_05",
       "SetID": "4eo5ebm",
       "Name": "From Inside Gotham\u0027s Walls",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 371
     },
     {
       "ID": "MYSTERY_06",
@@ -3902,13 +3907,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61757,
+      "Progressed": 61762,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32037,
+      "Progressed": 32042,
       "Completed": 2640
     }
   ],
@@ -3916,8 +3921,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-23T04:59:43.0195832+00:00",
-  "LastChanged_Achievements": "2023-05-23T05:06:30.1581482+00:00",
+  "LastChanged_Achievements": "2023-05-23T06:06:33.4274336+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-23T04:59:43.0195838+00:00",
-  "LastUpdate_Achievements": "2023-05-23T05:06:30.1582305+00:00"
+  "LastUpdate_Ratings": "2023-05-23T05:59:59.0706103+00:00",
+  "LastUpdate_Achievements": "2023-05-23T06:06:33.4275569+00:00"
 }

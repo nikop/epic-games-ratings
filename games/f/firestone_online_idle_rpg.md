@@ -5,15 +5,15 @@ Rating: 3.79 (Ranked 912)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,075 |
-| World Map | 80.00% | ~915 |
-| Temple of Eternals | 57.00% | ~652 |
-| Prestigious | 53.00% | ~606 |
+| Victor | 94.00% | ~1,076 |
+| World Map | 80.00% | ~916 |
+| Temple of Eternals | 57.00% | ~653 |
+| Prestigious | 53.00% | ~607 |
 | Fellowship Power | 40.00% | ~458 |
 | Guild Power | 24.00% | ~275 |
 | Prestigious x10 | 21.00% | ~240 |
 | The game is on | 18.00% | ~206 |
-| Exotic Merchant | 17.00% | ~194 |
+| Exotic Merchant | 17.00% | ~195 |
 | Dragon Clicker | 16.00% | ~183 |
 | Miner Clicker | 15.00% | ~172 |
 | Inspection | 14.00% | ~160 |
@@ -58,8 +58,8 @@ Rating: 3.79 (Ranked 912)
 | Sailor | 1.00% | ~11 |
 | Active Member | 0.90% | ~10 |
 | Crystal Mining | 0.80% | ~9 |
+| Ebony Jungle Liberator | 0.80% | ~9 |
 | The Alchemist | 0.80% | ~9 |
-| Ebony Jungle Liberator | 0.70% | ~8 |
 | Legendary | 0.60% | ~7 |
 | Transmute | 0.60% | ~7 |
 | Tree of Life | 0.60% | ~7 |
@@ -81,7 +81,7 @@ Rating: 3.79 (Ranked 912)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,144 (Ranked 161)  
+Progressed: 1,145 (Ranked 161)  
 Completed: 1 (0.09%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 1 (0.09%) (Ranked 163)
 | 2023-05-20 | 1,114 | 1 |
 | 2023-05-21 | 1,133 | 1 |
 | 2023-05-22 | 1,141 | 1 |
-| 2023-05-23 | 1,144 | 1 |
+| 2023-05-23 | 1,145 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

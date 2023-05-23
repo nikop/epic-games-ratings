@@ -18,10 +18,10 @@ Number of Ratings: 46  (23.09.2022)
 | Scion | 10.00% | ~14 |
 | Glare | 10.00% | ~14 |
 | Sharpened Vessel | 10.00% | ~56 |
+| Jawcrab | 9.00% | ~50 |
 | Feast | 9.00% | ~50 |
 | Shapely | 8.00% | ~44 |
 | Host | 8.00% | ~11 |
-| Jawcrab | 8.00% | ~44 |
 | Jawstag | 8.00% | ~44 |
 | Celebration | 7.00% | ~39 |
 | Inevitable | 7.00% | ~39 |

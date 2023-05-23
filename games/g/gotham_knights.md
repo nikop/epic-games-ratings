@@ -21,6 +21,7 @@ Rating: 4.17 (Ranked 836)
 | Unstoppable Force | 0.60% | ~371 |
 | Lock and Key | 0.60% | ~371 |
 | Bad Apples in Every Orchard | 0.60% | ~371 |
+| From Inside Gotham's Walls | 0.60% | ~371 |
 | End of an Era | 0.50% | ~309 |
 | In Your Element | 0.50% | ~309 |
 | Protector of Gotham | 0.50% | ~309 |
@@ -28,7 +29,6 @@ Rating: 4.17 (Ranked 836)
 | Shock Til They Drop | 0.50% | ~309 |
 | Cooldown | 0.50% | ~309 |
 | Universal Health Scare | 0.50% | ~309 |
-| From Inside Gotham's Walls | 0.50% | ~309 |
 | Voiceless | 0.50% | ~309 |
 | Seeking Asylum | 0.50% | ~309 |
 | Gotham Knight | 0.50% | ~309 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 836)
 | Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,757 (Ranked 68)  
+Progressed: 61,762 (Ranked 68)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-20 | 61,416 | 91 |
 | 2023-05-21 | 61,589 | 91 |
 | 2023-05-22 | 61,724 | 91 |
-| 2023-05-23 | 61,757 | 91 |
+| 2023-05-23 | 61,762 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,229  (Ranked 98)  
 Sum: 3,698 (Ranked 137)  

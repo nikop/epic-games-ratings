@@ -6,52 +6,52 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 67.00% | ~544,689 |
-| Right Back At Ya | 37.00% | ~300,798 |
-| The Lovers | 32.00% | ~260,150 |
-| Stanislavski's Method | 27.00% | ~219,501 |
-| The Wheel of Fortune | 25.00% | ~203,242 |
-| The Hermit | 23.00% | ~186,983 |
-| True Soldier | 22.00% | ~178,853 |
-| Christmas Tree Attack | 21.00% | ~170,723 |
-| The High Priestess | 20.00% | ~162,594 |
-| Legend of The Afterlife | 20.00% | ~162,594 |
-| Life of the Road | 19.00% | ~154,464 |
-| Full Body Conversion | 17.00% | ~138,205 |
-| The World | 16.00% | ~130,075 |
-| Bushido and Chill | 15.00% | ~121,945 |
-| Gun Fu | 14.00% | ~113,816 |
-| True Warrior | 14.00% | ~113,816 |
-| To Protect and Serve | 13.00% | ~105,686 |
-| Master Crafter | 13.00% | ~105,686 |
-| I Am The Law | 13.00% | ~105,686 |
-| Judy vs Night City | 13.00% | ~105,686 |
-| Two Heads, One Bullet | 11.00% | ~89,426 |
-| The Wandering Fool | 9.00% | ~73,167 |
-| The Quick and the Dead | 9.00% | ~73,167 |
-| Ten out of Ten | 8.00% | ~65,037 |
-| Breathtaking | 7.00% | ~56,908 |
-| To Bad Decisions! | 6.00% | ~48,778 |
-| The Star | 6.00% | ~48,778 |
-| The Sun | 6.00% | ~48,778 |
-| Must Be Rats | 4.00% | ~32,519 |
-| Temperance | 4.00% | ~32,519 |
-| City Lights | 3.00% | ~24,389 |
-| Mean Streets | 3.00% | ~24,389 |
-| Little Tokyo | 3.00% | ~24,389 |
-| Greetings from Pacifica! | 3.00% | ~24,389 |
-| The Jungle | 3.00% | ~24,389 |
-| V for Vendetta | 3.00% | ~24,389 |
-| It's Elementary | 3.00% | ~24,389 |
-| Autojock | 2.00% | ~16,259 |
-| Frequent Flyer | 2.00% | ~16,259 |
-| The Wasteland | 2.00% | ~16,259 |
-| Daemon In The Shell | 2.00% | ~16,259 |
-| The Devil | 2.00% | ~16,259 |
+| The Fool | 67.00% | ~544,735 |
+| Right Back At Ya | 37.00% | ~300,824 |
+| The Lovers | 32.00% | ~260,172 |
+| Stanislavski's Method | 27.00% | ~219,520 |
+| The Wheel of Fortune | 25.00% | ~203,260 |
+| The Hermit | 23.00% | ~186,999 |
+| True Soldier | 22.00% | ~178,868 |
+| Christmas Tree Attack | 21.00% | ~170,738 |
+| The High Priestess | 20.00% | ~162,608 |
+| Legend of The Afterlife | 20.00% | ~162,608 |
+| Life of the Road | 19.00% | ~154,477 |
+| Full Body Conversion | 17.00% | ~138,216 |
+| The World | 16.00% | ~130,086 |
+| Bushido and Chill | 15.00% | ~121,956 |
+| Gun Fu | 14.00% | ~113,825 |
+| True Warrior | 14.00% | ~113,825 |
+| To Protect and Serve | 13.00% | ~105,695 |
+| Master Crafter | 13.00% | ~105,695 |
+| I Am The Law | 13.00% | ~105,695 |
+| Judy vs Night City | 13.00% | ~105,695 |
+| Two Heads, One Bullet | 11.00% | ~89,434 |
+| The Wandering Fool | 9.00% | ~73,173 |
+| The Quick and the Dead | 9.00% | ~73,173 |
+| Ten out of Ten | 8.00% | ~65,043 |
+| Breathtaking | 7.00% | ~56,913 |
+| To Bad Decisions! | 6.00% | ~48,782 |
+| The Star | 6.00% | ~48,782 |
+| The Sun | 6.00% | ~48,782 |
+| Must Be Rats | 4.00% | ~32,522 |
+| Temperance | 4.00% | ~32,522 |
+| City Lights | 3.00% | ~24,391 |
+| Mean Streets | 3.00% | ~24,391 |
+| Little Tokyo | 3.00% | ~24,391 |
+| Greetings from Pacifica! | 3.00% | ~24,391 |
+| The Jungle | 3.00% | ~24,391 |
+| V for Vendetta | 3.00% | ~24,391 |
+| It's Elementary | 3.00% | ~24,391 |
+| Autojock | 2.00% | ~16,261 |
+| Frequent Flyer | 2.00% | ~16,261 |
+| The Wasteland | 2.00% | ~16,261 |
+| Daemon In The Shell | 2.00% | ~16,261 |
+| The Devil | 2.00% | ~16,261 |
 | Gunslinger | 1.00% | ~8,130 |
 | Rough Landing | 0.40% | ~3,252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 812,968 (Ranked 11)  
+Progressed: 813,038 (Ranked 11)  
 Completed: 1,629 (0.20%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 1,629 (0.20%) (Ranked 142)
 | 2023-05-20 | 807,434 | 1,610 |
 | 2023-05-21 | 810,561 | 1,620 |
 | 2023-05-22 | 812,605 | 1,627 |
-| 2023-05-23 | 812,968 | 1,629 |
+| 2023-05-23 | 813,038 | 1,629 |
 ## Awards
 Max (Character Customization): 64,831  (Ranked 9)  
 Sum: 170,323 (Ranked 13)  
