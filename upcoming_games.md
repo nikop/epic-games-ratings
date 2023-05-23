@@ -346,6 +346,7 @@
 | [Truck World Australia](games/t/truck_world_australia.md) | 2099-01-01 | 2099-01-01 |
 | [Twinsen's Little Big Adventure 2 Remastered](games/t/twinsen's_little_big_adventure_2_remastered.md) | 2099-01-01 | 2099-01-01 |
 | [Twinsen's Little Big Adventure Remastered](games/t/twinsen's_little_big_adventure_remastered.md) | 2099-01-01 | 2099-01-01 |
+| [Ultimate Fishing Simulator](games/c/ccef09bb805048a88de4be4a592da1b3.md) | 2099-01-01 | 2018-08-30 |
 | [Uncle Chop's Rocket Shop](games/u/uncle_chop's_rocket_shop.md) | 2099-01-01 | 2099-01-01 |
 | [Until the Last Plane](games/u/until_the_last_plane.md) | 2099-01-01 | 2021-03-04 |
 | [Velo](games/v/velo.md) | 2099-01-01 | 2099-01-01 |
