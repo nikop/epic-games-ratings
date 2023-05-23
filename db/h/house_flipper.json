@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1434,9 +1434,9 @@
       "Count": 204
     }
   ],
-  "EOS_Progressed": 18925,
+  "EOS_Progressed": 18926,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2589,6 +2589,11 @@
       "Time": "2023-05-23T13:12:27.6738014+00:00",
       "NumProgressed": 18925,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-23T14:05:19.9691927+00:00",
+      "NumProgressed": 18926,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -2664,7 +2669,7 @@
       "Name": "I\u0027m Belieber",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "JackTarinton",
@@ -2680,7 +2685,7 @@
       "Name": "Mystery",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1892
+      "UsersEstimate": 1893
     },
     {
       "ID": "JuniorEstateAgent",
@@ -2752,7 +2757,7 @@
       "Name": "Pro-creative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3406
+      "UsersEstimate": 3407
     },
     {
       "ID": "Strongman",
@@ -2783,15 +2788,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 18925,
+      "Progressed": 18926,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-05-22T02:05:20.3991515+00:00",
-  "LastChanged_Achievements": "2023-05-23T13:12:27.6738005+00:00",
+  "LastChanged_Achievements": "2023-05-23T14:05:19.9691917+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:56.8900842+00:00",
-  "LastUpdate_Ratings": "2023-05-23T13:05:40.1035388+00:00",
-  "LastUpdate_Achievements": "2023-05-23T13:12:27.6738291+00:00"
+  "LastUpdate_Ratings": "2023-05-23T13:59:05.3480812+00:00",
+  "LastUpdate_Achievements": "2023-05-23T14:05:19.9692168+00:00"
 }

@@ -9,8 +9,8 @@
 | Hold my Beer | 64.00% | ~236 |
 | Nueva Beginnings | 35.00% | ~129 |
 | Only Thyme Will Tell | 33.00% | ~121 |
+| We Go Again | 31.00% | ~114 |
 | Not Alone | 30.00% | ~110 |
-| We Go Again | 30.00% | ~110 |
 | In Contempt of Duvet | 29.00% | ~107 |
 | Booty Call | 27.00% | ~99 |
 | Planting the Seed | 21.00% | ~77 |

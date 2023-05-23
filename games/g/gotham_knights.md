@@ -9,11 +9,11 @@ Rating: 4.17 (Ranked 836)
 | Har, Har, Har, Very Funny | 0.90% | ~556 |
 | Loose Ends | 0.90% | ~556 |
 | Knighthood | 0.80% | ~494 |
-| The Batman Family | 0.70% | ~432 |
-| To the Victor Go the Spoils | 0.70% | ~432 |
-| Get ReQ'd | 0.70% | ~432 |
-| Working Hard or Harley Working? | 0.70% | ~432 |
-| Whispered Words | 0.70% | ~432 |
+| The Batman Family | 0.70% | ~433 |
+| To the Victor Go the Spoils | 0.70% | ~433 |
+| Get ReQ'd | 0.70% | ~433 |
+| Working Hard or Harley Working? | 0.70% | ~433 |
+| Whispered Words | 0.70% | ~433 |
 | Protector of Gotham | 0.60% | ~371 |
 | Something in the Clay | 0.60% | ~371 |
 | The Show Mud Go On | 0.60% | ~371 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 836)
 | Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,784 (Ranked 68)  
+Progressed: 61,786 (Ranked 68)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,17 +100,17 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-20 | 61,416 | 91 |
 | 2023-05-21 | 61,589 | 91 |
 | 2023-05-22 | 61,724 | 91 |
-| 2023-05-23 | 61,784 | 91 |
+| 2023-05-23 | 61,786 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,231  (Ranked 98)  
-Sum: 3,701 (Ranked 137)  
+Sum: 3,704 (Ranked 137)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,231 |
+| This game is Relaxing | 193 |
 | This game is Extremely Fun | 192 |
-| This game is Relaxing | 191 |
-| This game has Quickly Understood Controls | 189 |
+| This game has Quickly Understood Controls | 190 |
 | This game has Amazing Characters | 184 |
 | This game has Diverse Characters | 182 |
 | This game is Highly Recommended | 181 |
@@ -211,4 +211,4 @@ Diff (max vs sum): -39
 | 2023-05-20 | 4.17 | 2,227 | 3,689 |
 | 2023-05-21 | 4.17 | 2,227 | 3,690 |
 | 2023-05-22 | 4.17 | 2,229 | 3,696 |
-| 2023-05-23 | 4.17 | 2,231 | 3,701 |
+| 2023-05-23 | 4.17 | 2,231 | 3,704 |

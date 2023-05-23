@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -1358,9 +1358,9 @@
       "ID": "campaign4",
       "SetID": "2h56gn1",
       "Name": "Get Rich Quick",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1287
+      "UsersEstimate": 1314
     },
     {
       "ID": "campaign5",
@@ -1471,8 +1471,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-23T13:12:46.1198536+00:00",
+  "LastChanged_Achievements": "2023-05-23T14:05:35.3555967+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:08.6918917+00:00",
-  "LastUpdate_Ratings": "2023-05-23T13:06:30.1727092+00:00",
-  "LastUpdate_Achievements": "2023-05-23T13:12:46.1198916+00:00"
+  "LastUpdate_Ratings": "2023-05-23T13:59:44.5407574+00:00",
+  "LastUpdate_Achievements": "2023-05-23T14:05:35.3556243+00:00"
 }

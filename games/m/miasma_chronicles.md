@@ -13,6 +13,8 @@
 | Dr Jones | 50.00% | ~1 |
 | Editor Adept | 50.00% | ~1 |
 | Exorcist | 50.00% | ~1 |
+| From Darkness to Light | 50.00% | ~1 |
+| Goaaaaal! | 50.00% | ~1 |
 | Gun for Hire | 50.00% | ~1 |
 | I am the law! | 50.00% | ~1 |
 | Lumberjack | 50.00% | ~1 |
@@ -36,9 +38,7 @@
 | Firestarter | 0.00% | ~0 |
 | Five Finger Deathcount | 0.00% | ~0 |
 | Fratricide | 0.00% | ~0 |
-| From Darkness to Light | 0.00% | ~0 |
 | Giant Killer | 0.00% | ~0 |
-| Goaaaaal! | 0.00% | ~0 |
 | Hold The Line | 0.00% | ~0 |
 | Infiltrator | 0.00% | ~0 |
 | Master Editor | 0.00% | ~0 |

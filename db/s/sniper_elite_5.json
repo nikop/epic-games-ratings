@@ -2,20 +2,20 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 730,
+  "Ranking_Rating": 719,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.34,
+  "Rating": 4.35,
   "RatingHistory": [
     {
       "Time": "2023-03-27T02:57:24.3255682+00:00",
@@ -182,15 +182,21 @@
       "Rating": 4.34,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-23T13:59:59.0486685+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1258,
+  "EOS_Progressed": 1260,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 535,
+  "EOS_NewPlayers": 537,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1133,6 +1139,11 @@
       "Time": "2023-05-23T12:05:47.3400307+00:00",
       "NumProgressed": 1258,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-23T14:05:12.7912509+00:00",
+      "NumProgressed": 1260,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1392,7 +1403,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -1711,22 +1722,22 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1209,
+      "Progressed": 1211,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1258,
+      "Progressed": 1260,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-03-07T14:57:33.0234716+00:00",
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
-  "LastChanged": "2023-05-22T16:01:02.9174493+00:00",
-  "LastChanged_Achievements": "2023-05-23T13:12:19.1838502+00:00",
+  "LastChanged": "2023-05-23T13:59:59.0486682+00:00",
+  "LastChanged_Achievements": "2023-05-23T14:05:12.7912503+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-23T13:06:49.5343553+00:00",
-  "LastUpdate_Achievements": "2023-05-23T13:12:19.1839256+00:00"
+  "LastUpdate_Ratings": "2023-05-23T13:59:59.0486692+00:00",
+  "LastUpdate_Achievements": "2023-05-23T14:05:12.7913229+00:00"
 }

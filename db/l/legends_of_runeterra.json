@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 315,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
     "PcReleaseDate": "2020-04-29T18:06:30+00:00",
@@ -1167,18 +1167,24 @@
       "Rating": 4.65,
       "NumberOfAwards": 1315,
       "NumberOfAwardsMax": 152
+    },
+    {
+      "Time": "2023-05-23T13:59:35.4388152+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1316,
+      "NumberOfAwardsMax": 153
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1315,
-  "NumberOfAwardsMax": 152,
+  "NumberOfAwards": 1316,
+  "NumberOfAwardsMax": 153,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 152
+      "Count": 153
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1252,8 +1258,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:06.6748123+00:00",
-  "LastChanged": "2023-05-21T20:00:43.6672939+00:00",
+  "LastChanged": "2023-05-23T13:59:35.438815+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:12:05.3883112+00:00",
-  "LastUpdate_Ratings": "2023-05-23T13:06:17.9646844+00:00",
-  "LastUpdate_Achievements": "2023-05-23T13:07:21.7545855+00:00"
+  "LastUpdate_Ratings": "2023-05-23T13:59:35.4388156+00:00",
+  "LastUpdate_Achievements": "2023-05-23T14:00:27.8252834+00:00"
 }

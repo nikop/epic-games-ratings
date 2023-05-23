@@ -4170,9 +4170,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 704776,
+  "EOS_Progressed": 704788,
   "EOS_Completed": 12733,
-  "EOS_NewPlayers": 1807,
+  "EOS_NewPlayers": 1818,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -6865,6 +6865,11 @@
       "Time": "2023-05-23T13:12:38.3198612+00:00",
       "NumProgressed": 704776,
       "NumCompleted": 12733
+    },
+    {
+      "Time": "2023-05-23T14:05:28.881206+00:00",
+      "NumProgressed": 704788,
+      "NumCompleted": 12733
     }
   ],
   "TotalAchievements": 50,
@@ -7028,7 +7033,7 @@
       "Name": "Stuntmaster",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 4933
+      "UsersEstimate": 4934
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -7188,7 +7193,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4933
+      "UsersEstimate": 4934
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -7212,7 +7217,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -7220,7 +7225,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -7244,7 +7249,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -7275,21 +7280,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 14077,
+      "Progressed": 14089,
       "Completed": 10151
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 704776,
+      "Progressed": 704788,
       "Completed": 12733
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-22T21:58:30.6561942+00:00",
-  "LastChanged_Achievements": "2023-05-23T13:12:38.3198607+00:00",
+  "LastChanged_Achievements": "2023-05-23T14:05:28.8812052+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.7579865+00:00",
-  "LastUpdate_Ratings": "2023-05-23T13:05:12.8674024+00:00",
-  "LastUpdate_Achievements": "2023-05-23T13:12:38.3199303+00:00"
+  "LastUpdate_Ratings": "2023-05-23T13:58:44.7438974+00:00",
+  "LastUpdate_Achievements": "2023-05-23T14:05:28.8812638+00:00"
 }

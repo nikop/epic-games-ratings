@@ -7,7 +7,7 @@
 | You and what Army? | 90.00% | ~2,464 |
 | Flanked! | 80.00% | ~2,190 |
 | Economics 101 | 65.00% | ~1,780 |
-| Get Rich Quick | 47.00% | ~1,287 |
+| Get Rich Quick | 48.00% | ~1,314 |
 | Do the Splits | 41.00% | ~1,123 |
 | Maestro | 28.00% | ~767 |
 | Full Employment | 19.00% | ~520 |

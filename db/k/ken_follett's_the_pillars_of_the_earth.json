@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 97,
   "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -471,9 +471,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12636,
+  "EOS_Progressed": 12637,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -2461,6 +2461,11 @@
       "Time": "2023-05-23T13:12:07.9412183+00:00",
       "NumProgressed": 12636,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-05-23T14:05:03.2008192+00:00",
+      "NumProgressed": 12637,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 41,
@@ -2664,7 +2669,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2274
+      "UsersEstimate": 2275
     },
     {
       "ID": "tpote_achievement_32",
@@ -2672,7 +2677,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1895
+      "UsersEstimate": 1896
     },
     {
       "ID": "tpote_achievement_33",
@@ -2736,7 +2741,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5307
+      "UsersEstimate": 5308
     },
     {
       "ID": "tpote_achievement_40",
@@ -2799,15 +2804,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12636,
+      "Progressed": 12637,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-22T02:59:28.1884217+00:00",
-  "LastChanged_Achievements": "2023-05-23T13:12:07.9412178+00:00",
+  "LastChanged_Achievements": "2023-05-23T14:05:03.2008187+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:09:49.1992061+00:00",
-  "LastUpdate_Ratings": "2023-05-23T13:06:10.8954701+00:00",
-  "LastUpdate_Achievements": "2023-05-23T13:12:07.9412696+00:00"
+  "LastUpdate_Ratings": "2023-05-23T13:59:30.0606004+00:00",
+  "LastUpdate_Achievements": "2023-05-23T14:05:03.2008633+00:00"
 }

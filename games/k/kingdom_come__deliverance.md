@@ -6,35 +6,35 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~242,647 |
-| Cavalier | 25.00% | ~195,683 |
-| Fatso | 23.00% | ~180,028 |
-| Awakening | 20.00% | ~156,546 |
-| Ranger | 20.00% | ~156,546 |
-| Scrooge | 20.00% | ~156,546 |
-| Anorectic | 16.00% | ~125,237 |
-| Firestarter | 15.00% | ~117,410 |
-| Bookworm | 14.00% | ~109,582 |
-| Insomniac | 13.00% | ~101,755 |
-| Buddy | 11.00% | ~86,101 |
-| Sinner | 11.00% | ~86,101 |
-| Thief | 11.00% | ~86,101 |
-| Convict | 10.00% | ~78,273 |
-| Traveller | 10.00% | ~78,273 |
-| Haggler | 9.00% | ~70,446 |
-| Runt | 7.00% | ~54,791 |
-| Casanova | 6.00% | ~46,964 |
-| McLovin | 6.00% | ~46,964 |
-| Bad Trip | 5.00% | ~39,137 |
-| Monk | 5.00% | ~39,137 |
-| Serial Killer | 5.00% | ~39,137 |
-| Bastard | 4.00% | ~31,309 |
-| Hunter | 4.00% | ~31,309 |
-| Plague Doctor | 4.00% | ~31,309 |
-| Bard | 3.00% | ~23,482 |
-| Conqueror | 3.00% | ~23,482 |
-| Ginger in a Pickle | 3.00% | ~23,482 |
-| Kingdom did not come | 3.00% | ~23,482 |
+| Blacksmith's Son | 31.00% | ~242,653 |
+| Cavalier | 25.00% | ~195,688 |
+| Fatso | 23.00% | ~180,033 |
+| Awakening | 20.00% | ~156,550 |
+| Ranger | 20.00% | ~156,550 |
+| Scrooge | 20.00% | ~156,550 |
+| Anorectic | 16.00% | ~125,240 |
+| Firestarter | 15.00% | ~117,413 |
+| Bookworm | 14.00% | ~109,585 |
+| Insomniac | 13.00% | ~101,758 |
+| Buddy | 11.00% | ~86,103 |
+| Sinner | 11.00% | ~86,103 |
+| Thief | 11.00% | ~86,103 |
+| Convict | 10.00% | ~78,275 |
+| Traveller | 10.00% | ~78,275 |
+| Haggler | 9.00% | ~70,448 |
+| Runt | 7.00% | ~54,793 |
+| Casanova | 6.00% | ~46,965 |
+| McLovin | 6.00% | ~46,965 |
+| Bad Trip | 5.00% | ~39,138 |
+| Monk | 5.00% | ~39,138 |
+| Serial Killer | 5.00% | ~39,138 |
+| Bastard | 4.00% | ~31,310 |
+| Hunter | 4.00% | ~31,310 |
+| Plague Doctor | 4.00% | ~31,310 |
+| Bard | 3.00% | ~23,483 |
+| Conqueror | 3.00% | ~23,483 |
+| Ginger in a Pickle | 3.00% | ~23,483 |
+| Kingdom did not come | 3.00% | ~23,483 |
 | Completionist | 2.00% | ~15,655 |
 | Death by splinter | 2.00% | ~15,655 |
 | King Charming | 2.00% | ~15,655 |
@@ -44,30 +44,30 @@ Number of Ratings: 9,133  (23.09.2022)
 | Robber Baron | 2.00% | ~15,655 |
 | Talmberger | 2.00% | ~15,655 |
 | The End | 2.00% | ~15,655 |
-| Woman's Lot | 1.00% | ~7,827 |
-| Chivalrous Soul | 1.00% | ~7,827 |
-| Freud | 1.00% | ~7,827 |
-| Gambler | 1.00% | ~7,827 |
-| Master Huntsman | 1.00% | ~7,827 |
-| Stealth Killer | 1.00% | ~7,827 |
+| Woman's Lot | 1.00% | ~7,828 |
+| Chivalrous Soul | 1.00% | ~7,828 |
+| Freud | 1.00% | ~7,828 |
+| Gambler | 1.00% | ~7,828 |
+| Master Huntsman | 1.00% | ~7,828 |
+| Stealth Killer | 1.00% | ~7,828 |
 | Spoilsport | 0.90% | ~7,045 |
 | Bailiff | 0.80% | ~6,262 |
 | Tracker | 0.80% | ~6,262 |
 | David Horak | 0.70% | ~5,479 |
 | Mercenary's Honour | 0.70% | ~5,479 |
 | Saviour | 0.70% | ~5,479 |
-| Edward Kelly | 0.60% | ~4,696 |
-| Fighter | 0.60% | ~4,696 |
+| Edward Kelly | 0.60% | ~4,697 |
+| Fighter | 0.60% | ~4,697 |
 | I Can Quit Anytime | 0.50% | ~3,914 |
 | Perfectionist | 0.40% | ~3,131 |
 | Alcoholic | 0.30% | ~2,348 |
 | Sniper | 0.30% | ~2,348 |
-| Angel of Mercy | 0.20% | ~1,565 |
-| Christian Burial | 0.20% | ~1,565 |
-| Friends without benefits | 0.20% | ~1,565 |
-| Game Over | 0.20% | ~1,565 |
-| Not-so-Christian Burial | 0.20% | ~1,565 |
-| True Friend | 0.20% | ~1,565 |
+| Angel of Mercy | 0.20% | ~1,566 |
+| Christian Burial | 0.20% | ~1,566 |
+| Friends without benefits | 0.20% | ~1,566 |
+| Game Over | 0.20% | ~1,566 |
+| Not-so-Christian Burial | 0.20% | ~1,566 |
+| True Friend | 0.20% | ~1,566 |
 | Bad Girl | 0.10% | ~783 |
 | Cleric's pet | 0.10% | ~783 |
 | Full House Sinner | 0.10% | ~783 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~783 |
 | Wingman | 0.10% | ~783 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 782,732 (Ranked 12)  
+Progressed: 782,752 (Ranked 12)  
 Completed: 39 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 39 (0.00%) (Ranked 201)
 | 2023-05-20 | 782,156 | 39 |
 | 2023-05-21 | 782,426 | 39 |
 | 2023-05-22 | 782,642 | 39 |
-| 2023-05-23 | 782,732 | 39 |
+| 2023-05-23 | 782,752 | 39 |
 ## Awards
 Max (Character Customization): 7,188  (Ranked 43)  
 Sum: 26,878 (Ranked 42)  

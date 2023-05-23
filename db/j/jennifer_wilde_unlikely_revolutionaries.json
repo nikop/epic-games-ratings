@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 315,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-05-31T00:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -38,9 +38,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "1ejicho",
       "Name": "Clothes Hunter",
-      "Percentage": 200,
+      "Percentage": 300,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -124,8 +124,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:12.1227021+00:00",
-  "LastChanged_Achievements": "2023-05-23T13:07:00.5682336+00:00",
+  "LastChanged_Achievements": "2023-05-23T14:00:10.1819175+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:24.9027487+00:00",
-  "LastUpdate_Ratings": "2023-05-23T13:05:20.4277872+00:00",
-  "LastUpdate_Achievements": "2023-05-23T13:07:00.5682499+00:00"
+  "LastUpdate_Ratings": "2023-05-23T13:58:50.4266239+00:00",
+  "LastUpdate_Achievements": "2023-05-23T14:00:10.1819396+00:00"
 }

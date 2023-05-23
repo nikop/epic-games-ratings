@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -1225,9 +1225,9 @@
       "ID": "MissionVictory_Justicars",
       "SetID": "3jha1np",
       "Name": "Phalanx",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "MissionVictory_NoAmmo",
@@ -1391,8 +1391,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-17T16:59:29.0694874+00:00",
-  "LastChanged_Achievements": "2023-05-23T13:12:38.8523638+00:00",
+  "LastChanged_Achievements": "2023-05-23T14:05:29.340791+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:13.6314729+00:00",
-  "LastUpdate_Ratings": "2023-05-23T13:04:49.9726564+00:00",
-  "LastUpdate_Achievements": "2023-05-23T13:12:38.8524308+00:00"
+  "LastUpdate_Ratings": "2023-05-23T13:58:26.1576989+00:00",
+  "LastUpdate_Achievements": "2023-05-23T14:05:29.3408478+00:00"
 }

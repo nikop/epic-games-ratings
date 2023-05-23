@@ -55,13 +55,13 @@ Number of Ratings: 371  (23.09.2022)
 | Crisis Management | 0.20% | ~5 |
 | Grand Master | 0.20% | ~5 |
 | Brothers in Arms | 0.20% | ~5 |
+| Phalanx | 0.20% | ~5 |
 | Arsenal of Destruction | 0.10% | ~3 |
 | Dominus | 0.10% | ~3 |
 | Drone Army | 0.10% | ~3 |
 | Mass Extinction | 0.10% | ~3 |
 | Master of the Forge | 0.10% | ~3 |
 | Field Apothecarion | 0.10% | ~3 |
-| Phalanx | 0.10% | ~3 |
 | Not a Mote of Corruption | 0.10% | ~3 |
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |

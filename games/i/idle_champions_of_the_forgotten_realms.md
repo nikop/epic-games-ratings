@@ -12,6 +12,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Cursed Farmer | 0.40% | ~354 |
 | Coasting to the Finish | 0.40% | ~219 |
 | Beast Intentions | 0.30% | ~265 |
+| The Ring of Regeneration | 0.30% | ~265 |
 | The Mad Wizard | 0.30% | ~265 |
 | Quick or Quack | 0.30% | ~164 |
 | Best Thay Ever | 0.20% | ~109 |
@@ -19,7 +20,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Checkmate | 0.20% | ~109 |
 | Vecna Out! | 0.20% | ~109 |
 | A Persistent Buzzing | 0.20% | ~177 |
-| The Ring of Regeneration | 0.20% | ~177 |
+| Unearthed Evil | 0.20% | ~177 |
 | Seeking Allies | 0.20% | ~177 |
 | Are Ya Chicken? | 0.20% | ~177 |
 | Mad Cow Disease | 0.20% | ~177 |
@@ -184,7 +185,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Soulmonger Calls | 0.10% | ~88 |
 | Azaka's Procession - Part 2 | 0.10% | ~88 |
 | Acererak's Puzzle | 0.10% | ~55 |
-| Unearthed Evil | 0.10% | ~88 |
 | No Time To Rest | 0.10% | ~88 |
 | The Mists of Ravenloft | 0.10% | ~88 |
 | The Hunt for Owl-y | 0.10% | ~88 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.10% | ~88 |
 | Rescue in the Jungle | 0.10% | ~88 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,386 (Ranked 60)  
+Progressed: 88,390 (Ranked 60)  
 Completed: 1,867 (2.11%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -533,7 +533,7 @@ Completed: 1,867 (2.11%) (Ranked 62)
 | 2023-05-20 | 88,132 | 1,854 |
 | 2023-05-21 | 88,251 | 1,860 |
 | 2023-05-22 | 88,337 | 1,863 |
-| 2023-05-23 | 88,386 | 1,867 |
+| 2023-05-23 | 88,390 | 1,867 |
 ## Awards
 Max (Diverse Characters): 4,896  (Ranked 64)  
 Sum: 29,955 (Ranked 37)  

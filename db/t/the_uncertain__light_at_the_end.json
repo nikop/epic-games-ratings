@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -304,9 +304,9 @@
       "ID": "Hitman",
       "SetID": "ek310c",
       "Name": "Short Circuit",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 51
     },
     {
       "ID": "Illustrator",
@@ -449,8 +449,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-05-18T03:00:40.7703689+00:00",
-  "LastChanged_Achievements": "2023-05-23T13:12:46.7148743+00:00",
+  "LastChanged_Achievements": "2023-05-23T14:05:35.8100384+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:53.1846024+00:00",
-  "LastUpdate_Ratings": "2023-05-23T13:06:52.6681505+00:00",
-  "LastUpdate_Achievements": "2023-05-23T13:12:46.7148992+00:00"
+  "LastUpdate_Ratings": "2023-05-23T14:00:01.5171386+00:00",
+  "LastUpdate_Achievements": "2023-05-23T14:05:35.8100589+00:00"
 }

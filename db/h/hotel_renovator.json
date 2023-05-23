@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 73,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -532,9 +532,9 @@
       "ID": "ACH_NEWSPAPER_ARTICLE",
       "SetID": "7k95e4n",
       "Name": "Big fortune",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH_POSTCARD",
@@ -637,8 +637,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-05-05T13:04:29.3480635+00:00",
-  "LastChanged_Achievements": "2023-05-23T13:12:38.4645363+00:00",
+  "LastChanged_Achievements": "2023-05-23T14:05:28.8607014+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:56:53.9528089+00:00",
-  "LastUpdate_Ratings": "2023-05-23T13:03:16.0454929+00:00",
-  "LastUpdate_Achievements": "2023-05-23T13:12:38.4645611+00:00"
+  "LastUpdate_Ratings": "2023-05-23T13:57:09.4529208+00:00",
+  "LastUpdate_Achievements": "2023-05-23T14:05:28.8607231+00:00"
 }

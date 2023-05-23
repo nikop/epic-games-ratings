@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3886,9 +3886,9 @@
       "Count": 3238
     }
   ],
-  "EOS_Progressed": 88386,
+  "EOS_Progressed": 88390,
   "EOS_Completed": 1867,
-  "EOS_NewPlayers": 732,
+  "EOS_NewPlayers": 731,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 2.11,
   "EosHistory": [
@@ -7066,6 +7066,11 @@
       "Time": "2023-05-23T13:12:55.0744098+00:00",
       "NumProgressed": 88386,
       "NumCompleted": 1867
+    },
+    {
+      "Time": "2023-05-23T14:05:43.0947046+00:00",
+      "NumProgressed": 88390,
+      "NumCompleted": 1867
     }
   ],
   "TotalAchievements": 493,
@@ -8403,9 +8408,9 @@
       "ID": "objective_completed_19",
       "SetID": "cc37lbc",
       "Name": "Unearthed Evil",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_20",
@@ -8755,9 +8760,9 @@
       "ID": "objective_completed_34",
       "SetID": "cc37lbc",
       "Name": "The Ring of Regeneration",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 265
     },
     {
       "ID": "objective_completed_35",
@@ -11020,21 +11025,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54660,
+      "Progressed": 54664,
       "Completed": 2676
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88386,
+      "Progressed": 88390,
       "Completed": 1867
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-23T11:58:18.3989807+00:00",
-  "LastChanged_Achievements": "2023-05-23T13:12:55.0744092+00:00",
+  "LastChanged_Achievements": "2023-05-23T14:05:43.0947041+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-23T13:04:14.350874+00:00",
-  "LastUpdate_Achievements": "2023-05-23T13:12:55.0777787+00:00"
+  "LastUpdate_Ratings": "2023-05-23T13:57:57.3661177+00:00",
+  "LastUpdate_Achievements": "2023-05-23T14:05:43.0973377+00:00"
 }

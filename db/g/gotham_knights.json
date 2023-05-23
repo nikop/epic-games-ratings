@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1122,10 +1122,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 3701,
       "NumberOfAwardsMax": 2231
+    },
+    {
+      "Time": "2023-05-23T13:59:19.7620864+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 3704,
+      "NumberOfAwardsMax": 2231
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3701,
+  "NumberOfAwards": 3704,
   "NumberOfAwardsMax": 2231,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1139,7 +1145,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 189
+      "Count": 190
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1169,7 +1175,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 191
+      "Count": 193
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1190,9 +1196,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61784,
+  "EOS_Progressed": 61786,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 872,
+  "EOS_NewPlayers": 873,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3450,6 +3456,11 @@
       "Time": "2023-05-23T13:12:49.8613418+00:00",
       "NumProgressed": 61784,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-23T14:05:38.5073988+00:00",
+      "NumProgressed": 61786,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3509,7 +3520,7 @@
       "Name": "The Batman Family",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -3685,7 +3696,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "FREEZE_1_5",
@@ -3773,7 +3784,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "HARLEY_3",
@@ -3781,7 +3792,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "HARLEY_4",
@@ -3861,7 +3872,7 @@
       "Name": "Whispered Words",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "MYSTERY_03",
@@ -3948,22 +3959,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61784,
+      "Progressed": 61786,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32064,
+      "Progressed": 32066,
       "Completed": 2640
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-05-23T10:59:30.5532103+00:00",
-  "LastChanged_Achievements": "2023-05-23T13:12:49.8613412+00:00",
+  "LastChanged": "2023-05-23T13:59:19.7620862+00:00",
+  "LastChanged_Achievements": "2023-05-23T14:05:38.5073982+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-23T13:05:58.6234766+00:00",
-  "LastUpdate_Achievements": "2023-05-23T13:12:49.8614268+00:00"
+  "LastUpdate_Ratings": "2023-05-23T13:59:19.7620869+00:00",
+  "LastUpdate_Achievements": "2023-05-23T14:05:38.5074725+00:00"
 }
