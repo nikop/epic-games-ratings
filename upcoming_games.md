@@ -304,6 +304,7 @@
 | [R-Type Tactics I - II Cosmos](games/r/r-type_tactics_i_-_ii_cosmos.md) | 2099-01-01 | 2099-01-01 |
 | [Ravenswatch](games/r/ravenswatch.md) | 2099-01-01 | 2099-01-01 |
 | [Relic Space](games/r/relic_space.md) | 2099-01-01 | 2023-03-09 |
+| [Rising Mist](games/1/18b76f5ff8004856a2d1e2e206b01445.md) | 2099-01-01 | 2022-02-24 |
 | [Robobeat](games/r/robobeat.md) | 2099-01-01 | 2099-01-01 |
 | [Runa and the Chaikuru Legacy](games/r/runa_and_the_chaikuru_legacy.md) | 2099-01-01 | 2099-01-01 |
 | [Saviorless](games/s/saviorless.md) | 2099-01-01 | 2099-01-01 |

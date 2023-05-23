@@ -18,7 +18,7 @@
 | 16 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.12% |
 | 18 | [Time Loader](games/t/time_loader.md) | 8.00% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.81% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.80% |
 | 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.72% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
 | 22 | [Scorn](games/s/scorn.md) | 6.90% |
@@ -40,7 +40,7 @@
 | 38 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 39 | [The Complex](games/t/the_complex.md) | 3.50% |
 | 40 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.35% |
-| 41 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.33% |
+| 41 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.31% |
 | 42 | [The Bunker](games/t/the_bunker.md) | 3.23% |
 | 43 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
 | 43 | [ZZT!](games/z/zzt!.md) | 3.17% |
@@ -412,4 +412,4 @@
 | 201 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 201 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 201 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,650 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,651 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
