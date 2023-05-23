@@ -181,7 +181,7 @@
 | 178 | [Barony](games/b/barony.md) | 4.71 | 70 | 364 |
 | 178 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 325 | 216 |
 | 178 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 491 |
-| 178 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,318 | 50 |
+| 178 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,325 | 50 |
 | 178 | [Fez](games/f/fez.md) | 4.71 | 23 | 470 |
 | 178 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 427 |
 | 178 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,188 | 43 |
@@ -281,10 +281,10 @@
 | 272 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.66 | 0 | 491 |
 | 272 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 4.66 | 37 | 419 |
 | 272 | [Hardspace: Shipbreaker](games/h/hardspace__shipbreaker.md) | 4.66 | 0 | 491 |
-| 272 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.66 | 48 | 392 |
+| 272 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.66 | 49 | 391 |
 | 272 | [Operation: Tango](games/o/operation__tango.md) | 4.66 | 0 | 491 |
 | 272 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.66 | 1,042 | 132 |
-| 272 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.66 | 48 | 392 |
+| 272 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.66 | 48 | 393 |
 | 272 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.66 | 550 | 176 |
 | 272 | [Solar Ash](games/s/solar_ash.md) | 4.66 | 24 | 465 |
 | 272 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.66 | 433 | 193 |
@@ -445,7 +445,7 @@
 | 437 | [Hob](games/h/hob.md) | 4.57 | 0 | 491 |
 | 437 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,340 | 42 |
 | 437 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,078 | 86 |
-| 437 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,367 | 19 |
+| 437 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,377 | 19 |
 | 437 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 0 | 491 |
 | 448 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 0 | 491 |
 | 448 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 0 | 491 |
@@ -594,7 +594,7 @@
 | 583 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 4.47 | 6,913 | 46 |
 | 583 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 491 |
 | 583 | [WRC Generations](games/w/wrc_generations.md) | 4.47 | 0 | 491 |
-| 595 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,293 | 82 |
+| 595 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,295 | 82 |
 | 595 | [Figment](games/f/figment.md) | 4.46 | 20 | 486 |
 | 595 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 106 | 315 |
 | 595 | [Hell is Others](games/h/hell_is_others.md) | 4.46 | 23 | 470 |
@@ -618,7 +618,7 @@
 | 607 | [Mars Horizon](games/m/mars_horizon.md) | 4.45 | 0 | 491 |
 | 607 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 4.45 | 853 | 144 |
 | 607 | [Redout 2](games/r/redout_2.md) | 4.45 | 0 | 491 |
-| 607 | [SMITE](games/s/smite.md) | 4.45 | 3,796 | 76 |
+| 607 | [SMITE](games/s/smite.md) | 4.45 | 3,805 | 76 |
 | 607 | [SpellForce 3: Soul Harvest](games/s/spellforce_3__soul_harvest.md) | 4.45 | 0 | 491 |
 | 607 | [Star Trek Online](games/s/star_trek_online.md) | 4.45 | 532 | 181 |
 | 607 | [The Surge](games/t/the_surge.md) | 4.45 | 26 | 459 |
@@ -863,7 +863,7 @@
 | 861 | [Chronos: Before the Ashes](games/c/chronos__before_the_ashes.md) | 4.10 | 0 | 491 |
 | 861 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.10 | 0 | 491 |
 | 861 | [Obduction](games/o/obduction.md) | 4.10 | 52 | 383 |
-| 861 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,306 | 96 |
+| 861 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 4.10 | 2,307 | 96 |
 | 861 | [Wolcen: Lords of Mayhem](games/w/wolcen__lords_of_mayhem.md) | 4.10 | 0 | 491 |
 | 866 | [Fangs](games/f/fangs.md) | 4.09 | 0 | 491 |
 | 866 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 491 |
