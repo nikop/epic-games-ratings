@@ -32,8 +32,8 @@ Rating: 4.34 (Ranked 729)
 | The Long Game | 0.90% | ~11 |
 | Precision Is Key | 0.90% | ~11 |
 | Der Geist | 0.80% | ~10 |
+| Set Europe Ablaze | 0.70% | ~9 |
 | Climbing the Ladder | 0.60% | ~7 |
-| Set Europe Ablaze | 0.60% | ~7 |
 | Rigged to Blow | 0.60% | ~7 |
 | Brains of the Operation | 0.50% | ~6 |
 | It'll Buff Right Out | 0.40% | ~5 |

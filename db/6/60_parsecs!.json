@@ -4,7 +4,7 @@
   "ProductSlug": "60-parsecs-0481c5",
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 605,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -308,9 +308,9 @@
       "ID": "Achievement_ForScience",
       "SetID": "c01p6e5",
       "Name": "For Science!",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 194
     },
     {
       "ID": "Achievement_Friendzone",
@@ -533,8 +533,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-05-23T03:04:48.459476+00:00",
+  "LastChanged_Achievements": "2023-05-23T04:05:47.8043427+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:12.4303975+00:00",
-  "LastUpdate_Ratings": "2023-05-23T02:58:22.5391428+00:00",
-  "LastUpdate_Achievements": "2023-05-23T03:04:48.4595145+00:00"
+  "LastUpdate_Ratings": "2023-05-23T03:58:58.4012411+00:00",
+  "LastUpdate_Achievements": "2023-05-23T04:05:47.8043693+00:00"
 }

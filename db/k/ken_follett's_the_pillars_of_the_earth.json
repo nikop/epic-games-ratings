@@ -471,9 +471,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12629,
+  "EOS_Progressed": 12630,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -2431,6 +2431,11 @@
       "Time": "2023-05-23T03:04:38.9493728+00:00",
       "NumProgressed": 12629,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-05-23T04:05:38.2248042+00:00",
+      "NumProgressed": 12630,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 41,
@@ -2458,7 +2463,7 @@
       "Name": "Wannabe knight",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 3157
+      "UsersEstimate": 3158
     },
     {
       "ID": "tpote_achievement_12",
@@ -2466,7 +2471,7 @@
       "Name": "Staring contest champion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "tpote_achievement_13",
@@ -2474,7 +2479,7 @@
       "Name": "Lone wolf",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "tpote_achievement_14",
@@ -2682,7 +2687,7 @@
       "Name": "Vox Populi",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "tpote_achievement_38",
@@ -2706,7 +2711,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5304
+      "UsersEstimate": 5305
     },
     {
       "ID": "tpote_achievement_40",
@@ -2730,7 +2735,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3157
+      "UsersEstimate": 3158
     },
     {
       "ID": "tpote_achievement_6",
@@ -2738,7 +2743,7 @@
       "Name": "Full house",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 3157
+      "UsersEstimate": 3158
     },
     {
       "ID": "tpote_achievement_7",
@@ -2754,7 +2759,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2778
+      "UsersEstimate": 2779
     },
     {
       "ID": "tpote_achievement_9",
@@ -2762,22 +2767,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4546
+      "UsersEstimate": 4547
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12629,
+      "Progressed": 12630,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-22T02:59:28.1884217+00:00",
-  "LastChanged_Achievements": "2023-05-23T03:04:38.9493721+00:00",
+  "LastChanged_Achievements": "2023-05-23T04:05:38.2248038+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:09:49.1992061+00:00",
-  "LastUpdate_Ratings": "2023-05-23T02:59:11.1461307+00:00",
-  "LastUpdate_Achievements": "2023-05-23T03:04:38.9494161+00:00"
+  "LastUpdate_Ratings": "2023-05-23T03:59:51.134019+00:00",
+  "LastUpdate_Achievements": "2023-05-23T04:05:38.2248382+00:00"
 }

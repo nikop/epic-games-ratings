@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2486,7 +2486,7 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 9099,
+  "EOS_Progressed": 9100,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 0,
@@ -4266,6 +4266,11 @@
       "Time": "2023-05-23T03:05:14.0845916+00:00",
       "NumProgressed": 9099,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-23T04:06:13.870474+00:00",
+      "NumProgressed": 9100,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -4397,7 +4402,7 @@
       "Name": "Path of the Legend",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "17_Transformation",
@@ -4589,7 +4594,7 @@
       "Name": "Playful Mood",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "42_JustPathetic",
@@ -4605,7 +4610,7 @@
       "Name": "Dreadful Dragon",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "44_AshesToAshes",
@@ -5204,21 +5209,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7881,
+      "Progressed": 7882,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9099,
+      "Progressed": 9100,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-22T15:58:32.2761795+00:00",
-  "LastChanged_Achievements": "2023-05-23T03:05:14.0845912+00:00",
+  "LastChanged_Achievements": "2023-05-23T04:06:13.8704735+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3010226+00:00",
-  "LastUpdate_Ratings": "2023-05-23T02:57:53.1858874+00:00",
-  "LastUpdate_Achievements": "2023-05-23T03:05:14.0847668+00:00"
+  "LastUpdate_Ratings": "2023-05-23T03:58:28.4080207+00:00",
+  "LastUpdate_Achievements": "2023-05-23T04:06:13.870608+00:00"
 }

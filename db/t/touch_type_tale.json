@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2734,
+  "EOS_Progressed": 2735,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1169,6 +1169,11 @@
       "Time": "2023-05-23T02:07:20.9424219+00:00",
       "NumProgressed": 2734,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-23T04:06:10.5133949+00:00",
+      "NumProgressed": 2735,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1180,7 +1185,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "bonus2",
@@ -1228,7 +1233,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2461
+      "UsersEstimate": 2462
     },
     {
       "ID": "campaign10",
@@ -1316,7 +1321,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2187
+      "UsersEstimate": 2188
     },
     {
       "ID": "campaign20",
@@ -1332,7 +1337,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1777
+      "UsersEstimate": 1778
     },
     {
       "ID": "campaign4",
@@ -1396,7 +1401,7 @@
       "Name": "Full Employment",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "scenario3",
@@ -1443,7 +1448,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2734,
+      "Progressed": 2735,
       "Completed": 9
     }
   ],
@@ -1451,8 +1456,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-23T03:05:10.851571+00:00",
+  "LastChanged_Achievements": "2023-05-23T04:06:10.5133944+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:08.6918917+00:00",
-  "LastUpdate_Ratings": "2023-05-23T02:59:25.0914687+00:00",
-  "LastUpdate_Achievements": "2023-05-23T03:05:10.8516035+00:00"
+  "LastUpdate_Ratings": "2023-05-23T04:00:07.2245387+00:00",
+  "LastUpdate_Achievements": "2023-05-23T04:06:10.5134186+00:00"
 }

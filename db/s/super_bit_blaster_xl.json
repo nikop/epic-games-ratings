@@ -223,41 +223,41 @@
       "ID": "10K",
       "SetID": "1f269fc",
       "Name": "10K",
-      "Percentage": 71,
+      "Percentage": 74,
       "XP": 40,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "15K",
       "SetID": "1f269fc",
       "Name": "15K",
-      "Percentage": 63,
+      "Percentage": 66,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "1K",
       "SetID": "1f269fc",
       "Name": "1K",
-      "Percentage": 87,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "2.5K",
       "SetID": "1f269fc",
       "Name": "2.5K",
-      "Percentage": 87,
+      "Percentage": 89,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "25K",
       "SetID": "1f269fc",
       "Name": "25K",
-      "Percentage": 55,
+      "Percentage": 58,
       "XP": 75,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "500K",
@@ -271,33 +271,33 @@
       "ID": "50K",
       "SetID": "1f269fc",
       "Name": "50K",
-      "Percentage": 50,
+      "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "5K",
       "SetID": "1f269fc",
       "Name": "5K",
-      "Percentage": 63,
+      "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "75K",
       "SetID": "1f269fc",
       "Name": "75K",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 150,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Bit Blaster V2",
       "SetID": "1f269fc",
       "Name": "Bit Blaster V2",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Bit Blaster V3",
@@ -358,8 +358,8 @@
   ],
   "FirstSeen": "2023-05-20T01:55:13.7731097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:16.9581391+00:00",
-  "LastChanged_Achievements": "2023-05-23T03:04:39.3625642+00:00",
+  "LastChanged_Achievements": "2023-05-23T04:05:38.4240116+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:15.3020968+00:00",
-  "LastUpdate_Ratings": "2023-05-23T02:57:25.3767312+00:00",
-  "LastUpdate_Achievements": "2023-05-23T03:04:39.3625788+00:00"
+  "LastUpdate_Ratings": "2023-05-23T03:57:58.2905338+00:00",
+  "LastUpdate_Achievements": "2023-05-23T04:05:38.4240209+00:00"
 }

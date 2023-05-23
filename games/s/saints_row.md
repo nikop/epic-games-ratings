@@ -6,17 +6,17 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 12.00% | ~4,023 |
-| To The Nines | 10.00% | ~3,352 |
-| Optimized | 8.00% | ~2,682 |
-| Performance Review | 8.00% | ~2,682 |
-| The Side Job | 7.00% | ~2,347 |
-| Wet Work | 7.00% | ~2,347 |
-| Tune Up | 7.00% | ~2,347 |
-| Making a Name | 7.00% | ~2,347 |
-| Landlord | 6.00% | ~2,011 |
-| Food for Thought | 6.00% | ~2,011 |
-| Wrecking Ball | 5.00% | ~1,676 |
+| First F#@!ing Day | 12.00% | ~4,024 |
+| To The Nines | 10.00% | ~3,354 |
+| Optimized | 8.00% | ~2,683 |
+| Performance Review | 8.00% | ~2,683 |
+| The Side Job | 7.00% | ~2,348 |
+| Wet Work | 7.00% | ~2,348 |
+| Tune Up | 7.00% | ~2,348 |
+| Making a Name | 7.00% | ~2,348 |
+| Landlord | 6.00% | ~2,012 |
+| Food for Thought | 6.00% | ~2,012 |
+| Wrecking Ball | 5.00% | ~1,677 |
 | Finders Keepers | 4.00% | ~1,341 |
 | A Young Empire | 4.00% | ~1,341 |
 | Work Ethic | 4.00% | ~1,341 |
@@ -25,12 +25,12 @@ Number of Ratings: 22,103  (23.09.2022)
 | Et tu? | 3.00% | ~1,006 |
 | Took It to The Limit | 3.00% | ~1,006 |
 | Picking Fights | 3.00% | ~1,006 |
-| Hijacked | 2.00% | ~670 |
-| Showdown | 2.00% | ~670 |
-| The Spins | 2.00% | ~670 |
-| Masters of Santo Ileso | 2.00% | ~670 |
-| The Mechanic | 2.00% | ~670 |
-| Kitted Out | 2.00% | ~670 |
+| Hijacked | 2.00% | ~671 |
+| Showdown | 2.00% | ~671 |
+| The Spins | 2.00% | ~671 |
+| Masters of Santo Ileso | 2.00% | ~671 |
+| The Mechanic | 2.00% | ~671 |
+| Kitted Out | 2.00% | ~671 |
 | Producer Credit | 2.00% | ~103 |
 | We could go home, or… | 1.00% | ~335 |
 | Challenge Accepted | 1.00% | ~335 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Heard You Like Wheels | 0.10% | ~34 |
 | Fiesta Time | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,524 (Ranked 82)  
+Progressed: 33,537 (Ranked 82)  
 Completed: 20 (0.06%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 20 (0.06%) (Ranked 170)
 | 2023-05-20 | 31,752 | 19 |
 | 2023-05-21 | 32,742 | 20 |
 | 2023-05-22 | 33,412 | 20 |
-| 2023-05-23 | 33,524 | 20 |
+| 2023-05-23 | 33,537 | 20 |
 ## Awards
 Max (Extremely Fun): 1,029  (Ranked 133)  
 Sum: 8,352 (Ranked 88)  

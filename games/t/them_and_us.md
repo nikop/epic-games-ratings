@@ -16,7 +16,7 @@
 | This Coffin Has Your Name On It! | 11.00% | ~13 |
 | Alone In The Dark | 10.00% | ~12 |
 | Parasite Exterminated | 10.00% | ~12 |
-| The Forgotten Tower | 8.00% | ~9 |
+| The Forgotten Tower | 8.00% | ~10 |
 | Rest In Peace | 7.00% | ~8 |
 | The Curse Is Real | 7.00% | ~8 |
 | Lover of classics | 6.00% | ~7 |
@@ -45,8 +45,8 @@
 | Survival Horror | 0.80% | ~1 |
 | Survival Hero | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 118 (Ranked 256)  
-Completed: 1 (0.85%) (Ranked 91)  
+Progressed: 119 (Ranked 256)  
+Completed: 1 (0.84%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -62,6 +62,7 @@ Completed: 1 (0.85%) (Ranked 91)
 | 2023-05-19 | 109 | 1 |
 | 2023-05-20 | 112 | 1 |
 | 2023-05-21 | 118 | 1 |
+| 2023-05-23 | 119 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

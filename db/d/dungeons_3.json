@@ -2050,9 +2050,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 17187,
+  "EOS_Progressed": 17188,
   "EOS_Completed": 154,
-  "EOS_NewPlayers": 978,
+  "EOS_NewPlayers": 977,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -5165,6 +5165,11 @@
       "Time": "2023-05-23T03:03:13.2257768+00:00",
       "NumProgressed": 17187,
       "NumCompleted": 154
+    },
+    {
+      "Time": "2023-05-23T04:04:09.6895522+00:00",
+      "NumProgressed": 17188,
+      "NumCompleted": 154
     }
   ],
   "TotalAchievements": 60,
@@ -5176,7 +5181,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 10312
+      "UsersEstimate": 10313
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -5192,7 +5197,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 10140
+      "UsersEstimate": 10141
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -5264,7 +5269,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 6187
+      "UsersEstimate": 6188
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -5288,7 +5293,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 8765
+      "UsersEstimate": 8766
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -5376,7 +5381,7 @@
       "Name": "Night of the Living Dead (on Speed)",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "ACH_D3_Campaign_Graves_Completed",
@@ -5384,7 +5389,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 7734
+      "UsersEstimate": 7735
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -5408,7 +5413,7 @@
       "Name": "Rusty Steel",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 7390
+      "UsersEstimate": 7391
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -5416,7 +5421,7 @@
       "Name": "Thirst quencher",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 4984
+      "UsersEstimate": 4985
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_2",
@@ -5432,7 +5437,7 @@
       "Name": "Ogre Solo!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 4984
+      "UsersEstimate": 4985
     },
     {
       "ID": "ACH_D3_Campaign_Infested_1",
@@ -5448,7 +5453,7 @@
       "Name": "Chorus of damnation",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 3437
+      "UsersEstimate": 3438
     },
     {
       "ID": "ACH_D3_Campaign_Infested_Completed",
@@ -5456,7 +5461,7 @@
       "Name": "Destroy the thing",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 4812
+      "UsersEstimate": 4813
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -5464,7 +5469,7 @@
       "Name": "I need a hero!",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "ACH_D3_Campaign_Pain_2",
@@ -5552,7 +5557,7 @@
       "Name": "Damned good",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 6015
+      "UsersEstimate": 6016
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -5568,7 +5573,7 @@
       "Name": "Shadow hunter",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 4984
+      "UsersEstimate": 4985
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -5576,7 +5581,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 12031
+      "UsersEstimate": 12032
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -5648,22 +5653,22 @@
       "Name": "Tide Master",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 4812
+      "UsersEstimate": 4813
     }
   ],
   "AchievementSets": [
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 17187,
+      "Progressed": 17188,
       "Completed": 154
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-05-22T13:59:25.393866+00:00",
-  "LastChanged_Achievements": "2023-05-23T03:03:13.2257763+00:00",
+  "LastChanged_Achievements": "2023-05-23T04:04:09.6895517+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:24.9884893+00:00",
-  "LastUpdate_Ratings": "2023-05-23T02:58:34.1993422+00:00",
-  "LastUpdate_Achievements": "2023-05-23T03:03:13.225849+00:00"
+  "LastUpdate_Ratings": "2023-05-23T03:59:09.9575402+00:00",
+  "LastUpdate_Achievements": "2023-05-23T04:04:09.6896074+00:00"
 }

@@ -8,9 +8,9 @@ Number of Ratings: 20  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Adventure Begins | 57.00% | ~169 |
 | Cartographer | 51.00% | ~151 |
-| A Strange Artefact | 47.00% | ~139 |
-| Insomnia | 43.00% | ~127 |
-| From Whence we Came | 39.00% | ~115 |
+| A Strange Artefact | 46.00% | ~137 |
+| Insomnia | 43.00% | ~128 |
+| From Whence we Came | 38.00% | ~113 |
 | Lost & Found & Lost Again | 37.00% | ~110 |
 | Fire and Flood | 34.00% | ~101 |
 | Spooky! | 33.00% | ~98 |
@@ -26,17 +26,17 @@ Number of Ratings: 20  (23.09.2022)
 | Roll to Save | 20.00% | ~59 |
 | Red Flag Pirate | 17.00% | ~50 |
 | Veteran Explorer | 17.00% | ~50 |
-| For the Club! | 15.00% | ~44 |
-| A Gentle Beast | 15.00% | ~44 |
-| Practical Palaeontology | 15.00% | ~44 |
-| Dapper | 15.00% | ~44 |
-| Iron Man | 14.00% | ~41 |
-| Shortening of the Way | 14.00% | ~41 |
-| The New Director | 13.00% | ~38 |
-| The Director is Dead | 13.00% | ~38 |
-| Discovery | 13.00% | ~38 |
-| Plays Well With Others | 13.00% | ~38 |
+| For the Club! | 15.00% | ~45 |
+| Iron Man | 14.00% | ~42 |
+| Shortening of the Way | 14.00% | ~42 |
+| A Gentle Beast | 14.00% | ~42 |
+| Practical Palaeontology | 14.00% | ~42 |
+| Dapper | 14.00% | ~42 |
+| The New Director | 13.00% | ~39 |
+| The Director is Dead | 13.00% | ~39 |
+| Plays Well With Others | 13.00% | ~39 |
 | Adventurer | 12.00% | ~36 |
+| Discovery | 12.00% | ~36 |
 | Very Classy | 11.00% | ~33 |
 | And Here Is Your Statue | 9.00% | ~27 |
 | Under the Table | 9.00% | ~27 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.70% | ~2 |
 | Now I've Seen It All | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296 (Ranked 212)  
+Progressed: 297 (Ranked 212)  
 Completed: 1 (0.34%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,6 +80,7 @@ Completed: 1 (0.34%) (Ranked 118)
 | 2023-05-20 | 293 | 1 |
 | 2023-05-21 | 295 | 1 |
 | 2023-05-22 | 296 | 1 |
+| 2023-05-23 | 297 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

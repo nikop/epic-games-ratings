@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46813,
+  "EOS_Progressed": 46817,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 625,
+  "EOS_NewPlayers": 629,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2271,6 +2271,11 @@
       "Time": "2023-05-23T03:04:51.566962+00:00",
       "NumProgressed": 46813,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-05-23T04:05:50.6575098+00:00",
+      "NumProgressed": 46817,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 67,
@@ -2282,7 +2287,7 @@
       "Name": "Follow the Light",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 9831
+      "UsersEstimate": 9832
     },
     {
       "ID": "02",
@@ -2314,7 +2319,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5149
+      "UsersEstimate": 5150
     },
     {
       "ID": "06",
@@ -2322,7 +2327,7 @@
       "Name": "Park Ranger",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4213
+      "UsersEstimate": 4214
     },
     {
       "ID": "07",
@@ -2362,7 +2367,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1404
+      "UsersEstimate": 1405
     },
     {
       "ID": "12",
@@ -2378,7 +2383,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1404
+      "UsersEstimate": 1405
     },
     {
       "ID": "14",
@@ -2418,7 +2423,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1404
+      "UsersEstimate": 1405
     },
     {
       "ID": "19",
@@ -2434,7 +2439,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1404
+      "UsersEstimate": 1405
     },
     {
       "ID": "21",
@@ -2522,7 +2527,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4213
+      "UsersEstimate": 4214
     },
     {
       "ID": "32",
@@ -2530,7 +2535,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7490
+      "UsersEstimate": 7491
     },
     {
       "ID": "33",
@@ -2554,7 +2559,7 @@
       "Name": "Let There Be Light",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7958
+      "UsersEstimate": 7959
     },
     {
       "ID": "36",
@@ -2602,7 +2607,7 @@
       "Name": "Finders Keepers",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4213
+      "UsersEstimate": 4214
     },
     {
       "ID": "42",
@@ -2618,7 +2623,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 4681
+      "UsersEstimate": 4682
     },
     {
       "ID": "44",
@@ -2658,7 +2663,7 @@
       "Name": "KBF-FM",
       "Percentage": 3,
       "XP": 110,
-      "UsersEstimate": 1404
+      "UsersEstimate": 1405
     },
     {
       "ID": "49",
@@ -2682,7 +2687,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "52",
@@ -2754,7 +2759,7 @@
       "Name": "Kill Your Darlings",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "61",
@@ -2810,28 +2815,28 @@
       "Name": "Heartbreaker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     }
   ],
   "AchievementSets": [
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46813,
+      "Progressed": 46817,
       "Completed": 45
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 10281,
+      "Progressed": 10285,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-23T03:04:51.5669614+00:00",
+  "LastChanged_Achievements": "2023-05-23T04:05:50.6575091+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:07.5579983+00:00",
-  "LastUpdate_Ratings": "2023-05-23T02:57:21.0271316+00:00",
-  "LastUpdate_Achievements": "2023-05-23T03:04:51.5670409+00:00"
+  "LastUpdate_Ratings": "2023-05-23T03:57:53.7432897+00:00",
+  "LastUpdate_Achievements": "2023-05-23T04:05:50.6575713+00:00"
 }

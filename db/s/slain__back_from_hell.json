@@ -181,9 +181,9 @@
       "Count": 125
     }
   ],
-  "EOS_Progressed": 21931,
+  "EOS_Progressed": 21938,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 1153,
+  "EOS_NewPlayers": 1154,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3386,6 +3386,11 @@
       "Time": "2023-05-23T03:05:00.3092619+00:00",
       "NumProgressed": 21931,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-23T04:05:59.8465545+00:00",
+      "NumProgressed": 21938,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 29,
@@ -3397,7 +3402,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3509
+      "UsersEstimate": 3510
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -3405,7 +3410,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4386
+      "UsersEstimate": 4388
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -3421,7 +3426,7 @@
       "Name": "Thorn in My Herbicide",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_06_BLOODTOWER_NO_PIT_DEATH",
@@ -3445,7 +3450,7 @@
       "Name": "Backdoor Man",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -3541,7 +3546,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -3565,7 +3570,7 @@
       "Name": "Schadenfreude",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_24_HEAD_BANGED_TO_ALL_BOSSES",
@@ -3628,7 +3633,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 21931,
+      "Progressed": 21938,
       "Completed": 18
     }
   ],
@@ -3636,8 +3641,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-05-10T14:01:53.3204371+00:00",
-  "LastChanged_Achievements": "2023-05-23T03:05:00.3092615+00:00",
+  "LastChanged_Achievements": "2023-05-23T04:05:59.8465534+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:39.6610119+00:00",
-  "LastUpdate_Ratings": "2023-05-23T02:59:12.821483+00:00",
-  "LastUpdate_Achievements": "2023-05-23T03:05:00.3092972+00:00"
+  "LastUpdate_Ratings": "2023-05-23T03:59:52.5905943+00:00",
+  "LastUpdate_Achievements": "2023-05-23T04:05:59.8465845+00:00"
 }

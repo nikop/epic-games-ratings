@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 811,
+  "EOS_Progressed": 812,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 6.78,
+  "EOS_Completed_Percentage": 6.77,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -1622,6 +1622,11 @@
       "Time": "2023-05-23T03:04:41.183244+00:00",
       "NumProgressed": 811,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-05-23T04:05:40.4905922+00:00",
+      "NumProgressed": 812,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 50,
@@ -1633,7 +1638,7 @@
       "Name": "Once Upon a Time",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "10",
@@ -1641,7 +1646,7 @@
       "Name": "Piece of Cake",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "11",
@@ -1681,7 +1686,7 @@
       "Name": "Pull the Plug",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "16",
@@ -1713,7 +1718,7 @@
       "Name": "A Grand Visit",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "2",
@@ -1721,7 +1726,7 @@
       "Name": "Waff!",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "20",
@@ -1753,7 +1758,7 @@
       "Name": "All Heart",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "24",
@@ -1769,7 +1774,7 @@
       "Name": "Trick Question!",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "26",
@@ -1793,7 +1798,7 @@
       "Name": "Sword, Shield, Fight!",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "29",
@@ -1817,7 +1822,7 @@
       "Name": "Gooey Delight!",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "31",
@@ -1825,7 +1830,7 @@
       "Name": "Little Shop",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "32",
@@ -1841,7 +1846,7 @@
       "Name": "Awakened Spirits",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "34",
@@ -1849,7 +1854,7 @@
       "Name": "Glimmer of Hope",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "35",
@@ -1857,7 +1862,7 @@
       "Name": "Teacups for Toppy",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "36",
@@ -1881,7 +1886,7 @@
       "Name": "Max Level!",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "39",
@@ -1897,7 +1902,7 @@
       "Name": "A Prophecy",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "40",
@@ -1921,15 +1926,15 @@
       "Name": "Shopping Spree!",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "43",
       "SetID": "d0g98p",
       "Name": "An Actor!",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 357
+      "UsersEstimate": 349
     },
     {
       "ID": "44",
@@ -1961,7 +1966,7 @@
       "Name": "Crowned",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "48",
@@ -1969,7 +1974,7 @@
       "Name": "Into the Barn",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "49",
@@ -1985,7 +1990,7 @@
       "Name": "Well Rested",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "50",
@@ -2032,7 +2037,7 @@
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 811,
+      "Progressed": 812,
       "Completed": 55
     }
   ],
@@ -2040,8 +2045,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-23T03:04:41.1832433+00:00",
+  "LastChanged_Achievements": "2023-05-23T04:05:40.4905916+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:59.9943101+00:00",
-  "LastUpdate_Ratings": "2023-05-23T02:57:12.4994479+00:00",
-  "LastUpdate_Achievements": "2023-05-23T03:04:41.1832957+00:00"
+  "LastUpdate_Ratings": "2023-05-23T03:57:44.853603+00:00",
+  "LastUpdate_Achievements": "2023-05-23T04:05:40.4906331+00:00"
 }

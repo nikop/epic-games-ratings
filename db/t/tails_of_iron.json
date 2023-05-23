@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1439,
+  "EOS_Progressed": 1440,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -600,6 +600,11 @@
       "Time": "2023-05-23T02:04:52.195398+00:00",
       "NumProgressed": 1439,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-23T04:00:28.9006308+00:00",
+      "NumProgressed": 1440,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -611,7 +616,7 @@
       "Name": "Become King",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 1007
+      "UsersEstimate": 1008
     },
     {
       "ID": "Collect20Gold",
@@ -635,7 +640,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     },
     {
       "ID": "CollectAllStatues",
@@ -643,7 +648,7 @@
       "Name": "Return the Statues",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "CollectAllWeaponsAndGear",
@@ -667,7 +672,7 @@
       "Name": "Complete Arena Faction",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "CompleteChefsBook",
@@ -715,7 +720,7 @@
       "Name": "Defeat Avor Warden of the Northern Wastes",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "DefeatMoziQueen",
@@ -739,7 +744,7 @@
       "Name": "Defeat Rattus Augustail",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "FixTheTravellersWagon",
@@ -755,7 +760,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "GetTHWeapon",
@@ -763,7 +768,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "Kill25Bugs",
@@ -779,15 +784,15 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "Kill25Mozi",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Mozis",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 633
+      "UsersEstimate": 619
     },
     {
       "ID": "MeetTheMoles",
@@ -811,7 +816,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "RepairSmith",
@@ -850,22 +855,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1439,
+      "Progressed": 1440,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 80,
-      "Completed": 80
+      "Progressed": 81,
+      "Completed": 81
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-04-02T20:59:05.8070796+00:00",
-  "LastChanged_Achievements": "2023-05-23T02:04:52.1953972+00:00",
+  "LastChanged_Achievements": "2023-05-23T04:00:28.9006305+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3670256+00:00",
-  "LastUpdate_Ratings": "2023-05-23T02:57:57.4753531+00:00",
-  "LastUpdate_Achievements": "2023-05-23T02:04:52.1954363+00:00"
+  "LastUpdate_Ratings": "2023-05-23T03:58:32.2088029+00:00",
+  "LastUpdate_Achievements": "2023-05-23T04:00:28.9006655+00:00"
 }
