@@ -6,15 +6,15 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My New Home | 57.00% | ~109 |
-| Mushroom Picker | 56.00% | ~108 |
 | Scrap Gatherer | 56.00% | ~108 |
-| Scrapper | 47.00% | ~90 |
-| Cook | 41.00% | ~79 |
+| My New Home | 56.00% | ~108 |
+| Mushroom Picker | 55.00% | ~106 |
+| Scrapper | 47.00% | ~91 |
+| Cook | 40.00% | ~77 |
 | Teleport | 37.00% | ~71 |
 | Scrap Master | 36.00% | ~69 |
-| Digger | 33.00% | ~63 |
-| Smelter | 33.00% | ~63 |
+| Digger | 33.00% | ~64 |
+| Smelter | 33.00% | ~64 |
 | Electro-Scrap Gatherer | 31.00% | ~60 |
 | Robot Destroyer | 29.00% | ~56 |
 | Survivor | 29.00% | ~56 |
@@ -22,8 +22,8 @@ Number of Ratings: 38  (23.09.2022)
 | Lumberjack | 24.00% | ~46 |
 | Electro-Scrap Master | 23.00% | ~44 |
 | Prepper | 23.00% | ~44 |
-| Robot Hunter | 19.00% | ~36 |
-| Advanced Survivalist | 19.00% | ~36 |
+| Robot Hunter | 19.00% | ~37 |
+| Advanced Survivalist | 19.00% | ~37 |
 | Master Of Technology | 16.00% | ~31 |
 | Treasure Hunter | 15.00% | ~29 |
 | Blacksmith | 10.00% | ~19 |
@@ -32,13 +32,13 @@ Number of Ratings: 38  (23.09.2022)
 | Fuel | 9.00% | ~17 |
 | Smelting Master | 9.00% | ~17 |
 | Master Of Management | 8.00% | ~15 |
-| Black Gold | 7.00% | ~13 |
+| Black Gold | 7.00% | ~14 |
 | Survival Master | 4.00% | ~8 |
 | Traveler | 3.00% | ~6 |
 | Forest Killer | 1.00% | ~2 |
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 192 (Ranked 231)  
+Progressed: 193 (Ranked 230)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,6 +59,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-20 | 183 | 0 |
 | 2023-05-21 | 188 | 0 |
 | 2023-05-22 | 192 | 0 |
+| 2023-05-23 | 193 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -140,9 +140,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14420,
+  "EOS_Progressed": 14421,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 261,
+  "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -2655,6 +2655,11 @@
       "Time": "2023-05-23T08:06:57.6751953+00:00",
       "NumProgressed": 14420,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-05-23T10:06:24.5284971+00:00",
+      "NumProgressed": 14421,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 14,
@@ -2666,7 +2671,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 11392
+      "UsersEstimate": 11393
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -2682,7 +2687,7 @@
       "Name": "Caught in a Trap",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1730
+      "UsersEstimate": 1731
     },
     {
       "ID": "ACH_DANGER_AHEAD",
@@ -2730,7 +2735,7 @@
       "Name": "In For The Kill",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1730
+      "UsersEstimate": 1731
     },
     {
       "ID": "ACH_IN_MY_OWN_TIME",
@@ -2777,15 +2782,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 14420,
+      "Progressed": 14421,
       "Completed": 45
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-05-10T21:00:12.78292+00:00",
-  "LastChanged_Achievements": "2023-05-23T09:05:49.6055643+00:00",
+  "LastChanged_Achievements": "2023-05-23T10:06:24.5284967+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:34.6083984+00:00",
-  "LastUpdate_Ratings": "2023-05-23T09:00:15.2843729+00:00",
-  "LastUpdate_Achievements": "2023-05-23T09:05:49.6056183+00:00"
+  "LastUpdate_Ratings": "2023-05-23T10:00:41.0361608+00:00",
+  "LastUpdate_Achievements": "2023-05-23T10:06:24.5285206+00:00"
 }

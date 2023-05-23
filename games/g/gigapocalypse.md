@@ -27,14 +27,14 @@
 | Happy Little Home | 29.00% | ~35 |
 | Final Evolution | 28.00% | ~34 |
 | The Emperor's New Clothes | 27.00% | ~33 |
+| Godlike Power | 27.00% | ~33 |
 | You Shall Not Pass | 26.00% | ~31 |
-| Godlike Power | 26.00% | ~31 |
 | Supremacy | 26.00% | ~31 |
+| Undying Skin | 25.00% | ~30 |
 | Mommy's Very Angry | 24.00% | ~29 |
 | Animal Lover | 24.00% | ~29 |
-| Undying Skin | 24.00% | ~29 |
 | Fight Me! | 24.00% | ~29 |
-| Immortal Skin | 20.00% | ~24 |
+| Immortal Skin | 21.00% | ~25 |
 | Loyal Companion | 20.00% | ~24 |
 | Back To The Future | 19.00% | ~23 |
 | Fire Beacon | 18.00% | ~22 |

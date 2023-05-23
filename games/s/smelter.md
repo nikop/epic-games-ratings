@@ -24,6 +24,7 @@
 | My Precious Gems! | 12.00% | ~4 |
 | Dr. Dreinstein III | 12.00% | ~4 |
 | Orcharion Boost | 12.00% | ~4 |
+| An Unexpected Visitor | 12.00% | ~4 |
 | How Do You Like Them Apples? | 12.00% | ~4 |
 | Gotta Collect Them All | 9.00% | ~3 |
 | Keeping Things Tidy | 9.00% | ~3 |
@@ -46,7 +47,6 @@
 | Nutoro Trial Extraordinaire | 9.00% | ~3 |
 | Scour the Nutoro Domain | 9.00% | ~3 |
 | Let the Undershell Flow | 9.00% | ~3 |
-| An Unexpected Visitor | 9.00% | ~3 |
 | We're Breaking Up | 9.00% | ~3 |
 | Remains of the Rumbly Lands | 9.00% | ~3 |
 | He Who Smelt It Dealt It | 9.00% | ~3 |

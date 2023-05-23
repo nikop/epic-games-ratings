@@ -5,12 +5,12 @@ Rating: 4.65 (Ranked 292)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~3,865 |
-| Tomorrow Never Dyes | 47.00% | ~2,838 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~3,866 |
+| Tomorrow Never Dyes | 47.00% | ~2,839 |
 | Mainframe Hacker | 45.00% | ~2,718 |
 | The Spy who eliminated me | 45.00% | ~2,718 |
 | Never Say Loser Again | 41.00% | ~2,476 |
-| For your Eyes only | 39.00% | ~2,355 |
+| For your Eyes only | 39.00% | ~2,356 |
 | Tailor-Made | 38.00% | ~2,295 |
 | From the Vault with Love | 36.00% | ~2,174 |
 | Fully Decked Out | 36.00% | ~2,174 |
@@ -22,10 +22,10 @@ Rating: 4.65 (Ranked 292)
 | Private Collection | 25.00% | ~1,510 |
 | Killer Looks | 25.00% | ~1,510 |
 | Hostile Takeover | 25.00% | ~1,510 |
-| Keycards Royale | 24.00% | ~1,449 |
-| In It to Win It | 24.00% | ~1,449 |
-| Dr. No Kill | 24.00% | ~1,449 |
-| My Motto, My Creed | 24.00% | ~1,449 |
+| Keycards Royale | 24.00% | ~1,450 |
+| In It to Win It | 24.00% | ~1,450 |
+| Dr. No Kill | 24.00% | ~1,450 |
+| My Motto, My Creed | 24.00% | ~1,450 |
 | Security Supervisor | 10.00% | ~604 |
 | License to Thrill | 8.00% | ~483 |
 | Social of Solace | 8.00% | ~483 |
@@ -42,7 +42,7 @@ Rating: 4.65 (Ranked 292)
 | Extraction Confusion | 0.30% | ~18 |
 | Spyfall | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,039 (Ranked 116)  
+Progressed: 6,040 (Ranked 116)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-20 | 5,950 | 0 |
 | 2023-05-21 | 5,989 | 0 |
 | 2023-05-22 | 6,028 | 0 |
-| 2023-05-23 | 6,039 | 0 |
+| 2023-05-23 | 6,040 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

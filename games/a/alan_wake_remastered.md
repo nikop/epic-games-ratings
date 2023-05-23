@@ -6,22 +6,22 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 21.00% | ~9,834 |
-| Let There Be Light | 17.00% | ~7,961 |
+| Follow the Light | 21.00% | ~9,835 |
+| Let There Be Light | 17.00% | ~7,962 |
 | Float Like a Butterfly | 16.00% | ~7,493 |
 | Nordic Walking | 13.00% | ~6,088 |
 | Bright Falls' Finest | 13.00% | ~6,088 |
-| Under a Thin Layer of Skin | 11.00% | ~5,151 |
+| Under a Thin Layer of Skin | 11.00% | ~5,152 |
 | Paging Mr. Wake | 10.00% | ~4,683 |
 | Park Ranger | 9.00% | ~4,215 |
 | Back! Back, I Say! | 9.00% | ~4,215 |
 | Finders Keepers | 9.00% | ~4,215 |
-| Wheels Within Wheels | 8.00% | ~3,746 |
-| They're Heeeeeere! | 8.00% | ~3,746 |
-| The Six-Gun Scribe | 8.00% | ~3,746 |
-| Sound and Fury | 8.00% | ~3,746 |
-| Missed by a Mile | 8.00% | ~3,746 |
-| Damn Good Cup of Coffee | 8.00% | ~3,746 |
+| Wheels Within Wheels | 8.00% | ~3,747 |
+| They're Heeeeeere! | 8.00% | ~3,747 |
+| The Six-Gun Scribe | 8.00% | ~3,747 |
+| Sound and Fury | 8.00% | ~3,747 |
+| Missed by a Mile | 8.00% | ~3,747 |
+| Damn Good Cup of Coffee | 8.00% | ~3,747 |
 | A Friend in Need | 8.00% | ~824 |
 | Heavy Metal | 7.00% | ~3,278 |
 | Iron Horse | 7.00% | ~3,278 |
@@ -35,9 +35,9 @@ Number of Ratings: 524  (23.09.2022)
 | Two For the Price of One | 6.00% | ~2,810 |
 | Energized! | 6.00% | ~2,810 |
 | A Friend Indeed | 6.00% | ~618 |
-| Tornado Wrangler | 5.00% | ~2,341 |
-| What Light Through Yonder Window | 5.00% | ~2,341 |
-| Right of Way | 5.00% | ~2,341 |
+| Tornado Wrangler | 5.00% | ~2,342 |
+| What Light Through Yonder Window | 5.00% | ~2,342 |
+| Right of Way | 5.00% | ~2,342 |
 | Ding! | 5.00% | ~515 |
 | Departure | 4.00% | ~1,873 |
 | Boob Tube | 3.00% | ~1,405 |
@@ -57,8 +57,8 @@ Number of Ratings: 524  (23.09.2022)
 | Go Gentle Into That Good Light | 1.00% | ~103 |
 | Words Will Never Harm You | 0.60% | ~62 |
 | Cardboard Companions | 0.60% | ~62 |
-| Fast and Furious | 0.50% | ~51 |
-| Creative Space | 0.50% | ~51 |
+| Fast and Furious | 0.50% | ~52 |
+| Creative Space | 0.50% | ~52 |
 | License Revoked | 0.40% | ~41 |
 | Whirlwind | 0.40% | ~41 |
 | Run-On Sentence | 0.30% | ~31 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~47 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,829 (Ranked 76)  
+Progressed: 46,834 (Ranked 76)  
 Completed: 45 (0.10%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,7 +107,7 @@ Completed: 45 (0.10%) (Ranked 158)
 | 2023-05-20 | 46,523 | 45 |
 | 2023-05-21 | 46,674 | 45 |
 | 2023-05-22 | 46,794 | 45 |
-| 2023-05-23 | 46,829 | 45 |
+| 2023-05-23 | 46,834 | 45 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -195,9 +195,9 @@
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_4",
       "SetID": "ak6pfjk",
       "Name": "Brilliant: Arcania",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 71
+      "UsersEstimate": 73
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_5",
@@ -524,8 +524,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-05-23T09:00:56.3898844+00:00",
+  "LastChanged_Achievements": "2023-05-23T10:01:34.5804357+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:11.9155795+00:00",
-  "LastUpdate_Ratings": "2023-05-23T08:58:47.1871743+00:00",
-  "LastUpdate_Achievements": "2023-05-23T09:00:56.3899314+00:00"
+  "LastUpdate_Ratings": "2023-05-23T09:58:46.585509+00:00",
+  "LastUpdate_Achievements": "2023-05-23T10:01:34.5804805+00:00"
 }

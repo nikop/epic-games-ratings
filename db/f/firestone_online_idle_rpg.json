@@ -2274,9 +2274,9 @@
       "ID": "fellowshippower",
       "SetID": "3nl4bcg",
       "Name": "Fellowship Power",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 458
+      "UsersEstimate": 470
     },
     {
       "ID": "fourleafclover",
@@ -2410,9 +2410,9 @@
       "ID": "mastery",
       "SetID": "3nl4bcg",
       "Name": "Mastery",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 57
     },
     {
       "ID": "milestonecollector",
@@ -2699,8 +2699,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-22T20:58:10.5460951+00:00",
-  "LastChanged_Achievements": "2023-05-23T09:05:40.4201124+00:00",
+  "LastChanged_Achievements": "2023-05-23T10:06:13.846076+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:34.8363446+00:00",
-  "LastUpdate_Ratings": "2023-05-23T08:58:15.8108478+00:00",
-  "LastUpdate_Achievements": "2023-05-23T09:05:40.420245+00:00"
+  "LastUpdate_Ratings": "2023-05-23T09:58:06.8246378+00:00",
+  "LastUpdate_Achievements": "2023-05-23T10:06:13.8461639+00:00"
 }

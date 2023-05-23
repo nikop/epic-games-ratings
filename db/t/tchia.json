@@ -154,7 +154,7 @@
   "Tags": [],
   "EOS_Progressed": 5974,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2114,9 +2114,9 @@
       "ID": "HISTORIAN",
       "SetID": "3cck1g6",
       "Name": "Historian",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 299
+      "UsersEstimate": 358
     },
     {
       "ID": "ICONOCLAST",
@@ -2203,8 +2203,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-22T16:57:53.1033555+00:00",
-  "LastChanged_Achievements": "2023-05-23T09:05:23.4160076+00:00",
+  "LastChanged_Achievements": "2023-05-23T10:05:53.5556+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.822955+00:00",
-  "LastUpdate_Ratings": "2023-05-23T08:58:14.1890079+00:00",
-  "LastUpdate_Achievements": "2023-05-23T09:05:23.4160367+00:00"
+  "LastUpdate_Ratings": "2023-05-23T09:58:04.565179+00:00",
+  "LastUpdate_Achievements": "2023-05-23T10:05:53.5556209+00:00"
 }

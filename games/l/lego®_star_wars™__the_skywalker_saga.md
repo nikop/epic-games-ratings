@@ -6,25 +6,25 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~45,517 |
-| ''I don't like you either!'' | 79.00% | ~37,071 |
-| ''You think you're some kind of Jedi?'' | 72.00% | ~33,786 |
-| ''Impressive, most impressive'' | 71.00% | ~33,317 |
-| The Phantom Menace | 59.00% | ~27,686 |
-| ''Aggressive Negotiations'' | 58.00% | ~27,216 |
-| ''I can fly anything'' | 57.00% | ~26,747 |
-| ''And who gave you permission...?'' | 53.00% | ~24,870 |
-| A New Hope | 47.00% | ~22,055 |
-| Attack of the Clones | 46.00% | ~21,586 |
-| Revenge of the Sith | 39.00% | ~18,301 |
-| ''A fine addition to my collection'' | 37.00% | ~17,362 |
-| The Empire Strikes Back | 36.00% | ~16,893 |
-| Return of the Jedi | 31.00% | ~14,547 |
-| The Force Awakens | 26.00% | ~12,200 |
+| ''You guys got yourself a ship!'' | 97.00% | ~45,520 |
+| ''I don't like you either!'' | 79.00% | ~37,073 |
+| ''You think you're some kind of Jedi?'' | 72.00% | ~33,788 |
+| ''Impressive, most impressive'' | 71.00% | ~33,319 |
+| The Phantom Menace | 59.00% | ~27,688 |
+| ''Aggressive Negotiations'' | 58.00% | ~27,218 |
+| ''I can fly anything'' | 57.00% | ~26,749 |
+| ''And who gave you permission...?'' | 53.00% | ~24,872 |
+| A New Hope | 47.00% | ~22,056 |
+| Attack of the Clones | 46.00% | ~21,587 |
+| Revenge of the Sith | 39.00% | ~18,302 |
+| ''A fine addition to my collection'' | 37.00% | ~17,363 |
+| The Empire Strikes Back | 36.00% | ~16,894 |
+| Return of the Jedi | 31.00% | ~14,548 |
+| The Force Awakens | 26.00% | ~12,201 |
 | The Last Jedi | 22.00% | ~10,324 |
 | The Rise of Skywalker | 19.00% | ~8,916 |
-| ''It's true... all of it'' | 18.00% | ~8,446 |
-| ''Get the crews to their fighters'' | 18.00% | ~8,446 |
+| ''It's true... all of it'' | 18.00% | ~8,447 |
+| ''Get the crews to their fighters'' | 18.00% | ~8,447 |
 | ''Raw, untamed power'' | 8.00% | ~3,754 |
 | Rishi Maze | 4.00% | ~1,877 |
 | ''Only one business in the Galaxy...'' | 4.00% | ~1,877 |
@@ -33,26 +33,26 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''GONK!'' | 3.00% | ~1,408 |
 | ''Hey, what are you trying to push on us?'' | 3.00% | ~1,408 |
 | The Slice | 3.00% | ~1,408 |
-| ''Hello there!'' | 2.00% | ~938 |
-| Unknown Regions | 2.00% | ~938 |
-| ''Do or do not. There is no try'' | 2.00% | ~938 |
-| ''See you around, kid'' | 2.00% | ~938 |
-| ''The fastest hunk of junk in the galaxy'' | 2.00% | ~938 |
-| Greater Javin | 2.00% | ~938 |
-| New Territories | 2.00% | ~938 |
-| The Interior | 2.00% | ~938 |
-| Western Reaches | 2.00% | ~938 |
-| Trailing Sectors | 2.00% | ~938 |
-| The Arkanis Sector | 2.00% | ~938 |
-| ''Power! Unlimited power!'' | 2.00% | ~938 |
-| ''Now I am the Master'' | 2.00% | ~938 |
+| ''Hello there!'' | 2.00% | ~939 |
+| Unknown Regions | 2.00% | ~939 |
+| ''Do or do not. There is no try'' | 2.00% | ~939 |
+| ''See you around, kid'' | 2.00% | ~939 |
+| ''The fastest hunk of junk in the galaxy'' | 2.00% | ~939 |
+| Greater Javin | 2.00% | ~939 |
+| New Territories | 2.00% | ~939 |
+| The Interior | 2.00% | ~939 |
+| Western Reaches | 2.00% | ~939 |
+| Trailing Sectors | 2.00% | ~939 |
+| The Arkanis Sector | 2.00% | ~939 |
+| ''Power! Unlimited power!'' | 2.00% | ~939 |
+| ''Now I am the Master'' | 2.00% | ~939 |
 | ''A little short for a Stormtrooper...'' | 1.00% | ~469 |
 | ''Jedi Business'' | 1.00% | ~469 |
 | ''No more training, do you require'' | 1.00% | ~469 |
 | ''You needn't worry about your reward'' | 1.00% | ~469 |
 | ''I've never seen a real one!'' | 0.80% | ~375 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,925 (Ranked 75)  
+Progressed: 46,928 (Ranked 75)  
 Completed: 166 (0.35%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 166 (0.35%) (Ranked 117)
 | 2023-05-20 | 46,536 | 166 |
 | 2023-05-21 | 46,733 | 166 |
 | 2023-05-22 | 46,879 | 166 |
-| 2023-05-23 | 46,925 | 166 |
+| 2023-05-23 | 46,928 | 166 |
 ## Awards
 Max (Great Boss Battles): 2,274  (Ranked 97)  
 Sum: 6,339 (Ranked 112)  

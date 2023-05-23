@@ -301,9 +301,9 @@
       "ID": "A29",
       "SetID": "9b7p7eo",
       "Name": "Going once, going twice, sold",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "A30",
@@ -341,9 +341,9 @@
       "ID": "A34",
       "SetID": "9b7p7eo",
       "Name": "Producer",
-      "Percentage": 40,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "A35",
@@ -381,9 +381,9 @@
       "ID": "A39",
       "SetID": "9b7p7eo",
       "Name": "Bold and beautiful",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "A40",
@@ -485,9 +485,9 @@
       "ID": "A52",
       "SetID": "9b7p7eo",
       "Name": "Socializer",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "A53",
@@ -515,8 +515,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged_Achievements": "2023-05-23T09:05:42.2217919+00:00",
+  "LastChanged_Achievements": "2023-05-23T10:06:16.1216808+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:39.7708852+00:00",
-  "LastUpdate_Ratings": "2023-05-23T08:58:21.762444+00:00",
-  "LastUpdate_Achievements": "2023-05-23T09:05:42.2218553+00:00"
+  "LastUpdate_Ratings": "2023-05-23T09:58:12.896884+00:00",
+  "LastUpdate_Achievements": "2023-05-23T10:06:16.1217293+00:00"
 }

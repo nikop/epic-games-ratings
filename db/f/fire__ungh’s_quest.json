@@ -138,9 +138,9 @@
       "ID": "10_Coins",
       "SetID": "6od1ndi",
       "Name": "Blunga 10",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "15_Coins",
@@ -194,9 +194,9 @@
       "ID": "Butterfly_eats_Caterpillar_in_007",
       "SetID": "6od1ndi",
       "Name": "ParaPara!",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "Eliminated_3_Mask_Men_in_009",
@@ -218,9 +218,9 @@
       "ID": "Hit_the_UFO_in_Space_Invaders_in_006",
       "SetID": "6od1ndi",
       "Name": "1978",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "Level_completed_001_002",
@@ -266,17 +266,17 @@
       "ID": "Level_completed_006_004",
       "SetID": "6od1ndi",
       "Name": "Onk Boga VI",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 35,
-      "UsersEstimate": 56
+      "UsersEstimate": 58
     },
     {
       "ID": "Level_completed_007_006",
       "SetID": "6od1ndi",
       "Name": "Onk Boga VII",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "Level_completed_008_005",
@@ -290,9 +290,9 @@
       "ID": "Level_completed_009_007",
       "SetID": "6od1ndi",
       "Name": "Onk Boga IX",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "Level_completed_010_010",
@@ -347,8 +347,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-05-23T09:05:44.2716481+00:00",
+  "LastChanged_Achievements": "2023-05-23T10:06:18.3912531+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:25.4163927+00:00",
-  "LastUpdate_Ratings": "2023-05-23T08:59:47.2939058+00:00",
-  "LastUpdate_Achievements": "2023-05-23T09:05:44.2716685+00:00"
+  "LastUpdate_Ratings": "2023-05-23T10:00:02.9059779+00:00",
+  "LastUpdate_Achievements": "2023-05-23T10:06:18.3912723+00:00"
 }

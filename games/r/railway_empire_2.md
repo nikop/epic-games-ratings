@@ -10,6 +10,7 @@
 | A new Journey | 50.00% | ~5 |
 | Country Bumpkin | 50.00% | ~5 |
 | We brake for nobody | 50.00% | ~5 |
+| Producer | 50.00% | ~5 |
 | Way of Iron | 50.00% | ~5 |
 | All around the World | 50.00% | ~5 |
 | Travel Company | 50.00% | ~5 |
@@ -19,17 +20,17 @@
 | Facility Manager | 40.00% | ~4 |
 | Brainstorm | 40.00% | ~4 |
 | Access granted | 40.00% | ~4 |
-| Producer | 40.00% | ~4 |
+| Bold and beautiful | 40.00% | ~4 |
 | Mind the Gap | 40.00% | ~4 |
+| Socializer | 40.00% | ~4 |
 | Seven at one stroke | 30.00% | ~3 |
 | Country Life | 30.00% | ~3 |
-| Bold and beautiful | 30.00% | ~3 |
 | Right through the middle | 30.00% | ~3 |
 | Bridge Builder | 30.00% | ~3 |
 | Breaking Ground | 30.00% | ~3 |
-| Socializer | 30.00% | ~3 |
 | Stoker | 20.00% | ~2 |
 | General Manager | 20.00% | ~2 |
+| Going once, going twice, sold | 20.00% | ~2 |
 | Bull and bear | 20.00% | ~2 |
 | Financial Shark | 20.00% | ~2 |
 | Trailblazer | 10.00% | ~1 |
@@ -39,7 +40,6 @@
 | Unstoppable | 10.00% | ~1 |
 | Track to the Future | 10.00% | ~1 |
 | Traffic Jam | 10.00% | ~1 |
-| Going once, going twice, sold | 10.00% | ~1 |
 | Hostile Takeover | 10.00% | ~1 |
 | Assimilated | 10.00% | ~1 |
 | Locusts | 10.00% | ~1 |

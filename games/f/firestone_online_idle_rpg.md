@@ -9,7 +9,7 @@ Rating: 3.79 (Ranked 912)
 | World Map | 80.00% | ~917 |
 | Temple of Eternals | 57.00% | ~653 |
 | Prestigious | 53.00% | ~607 |
-| Fellowship Power | 40.00% | ~458 |
+| Fellowship Power | 41.00% | ~470 |
 | Guild Power | 24.00% | ~275 |
 | Prestigious x10 | 21.00% | ~241 |
 | The game is on | 18.00% | ~206 |
@@ -33,8 +33,8 @@ Rating: 3.79 (Ranked 912)
 | The power of Awakening | 6.00% | ~69 |
 | Frostfire Liberator | 5.00% | ~57 |
 | Hunter | 5.00% | ~57 |
+| Mastery | 5.00% | ~57 |
 | Scroll Master | 5.00% | ~57 |
-| Mastery | 4.00% | ~46 |
 | Moving Up The Ladder | 4.00% | ~46 |
 | The Expeditioner | 4.00% | ~46 |
 | Ancient Knowledge | 3.00% | ~34 |

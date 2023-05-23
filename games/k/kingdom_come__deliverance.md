@@ -6,8 +6,8 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~242,636 |
-| Cavalier | 25.00% | ~195,674 |
+| Blacksmith's Son | 31.00% | ~242,637 |
+| Cavalier | 25.00% | ~195,675 |
 | Fatso | 23.00% | ~180,021 |
 | Awakening | 20.00% | ~156,540 |
 | Ranger | 20.00% | ~156,540 |
@@ -58,7 +58,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Saviour | 0.70% | ~5,479 |
 | Edward Kelly | 0.60% | ~4,696 |
 | Fighter | 0.60% | ~4,696 |
-| I Can Quit Anytime | 0.50% | ~3,913 |
+| I Can Quit Anytime | 0.50% | ~3,914 |
 | Perfectionist | 0.40% | ~3,131 |
 | Alcoholic | 0.30% | ~2,348 |
 | Sniper | 0.30% | ~2,348 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~783 |
 | Wingman | 0.10% | ~783 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 782,698 (Ranked 12)  
+Progressed: 782,701 (Ranked 12)  
 Completed: 39 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 39 (0.00%) (Ranked 201)
 | 2023-05-20 | 782,156 | 39 |
 | 2023-05-21 | 782,426 | 39 |
 | 2023-05-22 | 782,642 | 39 |
-| 2023-05-23 | 782,698 | 39 |
+| 2023-05-23 | 782,701 | 39 |
 ## Awards
 Max (Character Customization): 7,188  (Ranked 43)  
 Sum: 26,878 (Ranked 42)  
