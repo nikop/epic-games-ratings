@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Now I'm Here | 70.00% | ~46 |
-| The Hero | 70.00% | ~46 |
-| The Hitman | 58.00% | ~38 |
+| Now I'm Here | 71.00% | ~47 |
+| The Hero | 71.00% | ~47 |
+| The Hitman | 59.00% | ~39 |
 | Keep Yourself Alive | 55.00% | ~36 |
 | Misfire | 45.00% | ~30 |
 | All Dead, All Dead | 41.00% | ~27 |

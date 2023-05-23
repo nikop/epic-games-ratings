@@ -70,6 +70,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Italian Ambition | 0.30% | ~126 |
 | Just a Little Patience | 0.30% | ~126 |
 | No Pirates in my Caribbean | 0.30% | ~126 |
+| Not so sad a state... | 0.30% | ~126 |
 | One Night in Paris | 0.30% | ~126 |
 | Tear Down This Wall | 0.30% | ~126 |
 | The Chrysanthemum Throne | 0.30% | ~126 |
@@ -86,7 +87,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Industrial Powerhouse | 0.20% | ~84 |
 | Magellan’s Voyage | 0.20% | ~84 |
 | Multiculturalism | 0.20% | ~84 |
-| Not so sad a state... | 0.20% | ~84 |
 | Vasa or Wettin? | 0.20% | ~84 |
 | We bled for this | 0.20% | ~84 |
 | World Discoverer | 0.20% | ~84 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,119 (Ranked 80)  
+Progressed: 42,124 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -394,10 +394,10 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-20 | 40,736 | 0 |
 | 2023-05-21 | 41,525 | 0 |
 | 2023-05-22 | 42,079 | 0 |
-| 2023-05-23 | 42,119 | 0 |
+| 2023-05-23 | 42,124 | 0 |
 ## Awards
 Max (Educational): 5,271  (Ranked 60)  
-Sum: 43,642 (Ranked 27)  
+Sum: 43,645 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -409,7 +409,7 @@ Diff (max vs sum): 33
 | This game is Relaxing | 4,909 |
 | This game has Competitive Players | 4,741 |
 | This game has Amazing Storytelling | 4,498 |
-| This game has Amazing Characters | 4,155 |
+| This game has Amazing Characters | 4,158 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -540,3 +540,4 @@ Diff (max vs sum): 33
 | 2023-05-20 | 4.68 | - | 5,255 | 43,550 |
 | 2023-05-21 | 4.68 | - | 5,264 | 43,591 |
 | 2023-05-22 | 4.68 | - | 5,271 | 43,642 |
+| 2023-05-23 | 4.68 | - | 5,271 | 43,645 |

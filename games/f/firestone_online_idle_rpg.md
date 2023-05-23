@@ -5,10 +5,10 @@ Rating: 3.79 (Ranked 912)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,073 |
+| Victor | 94.00% | ~1,074 |
 | World Map | 80.00% | ~914 |
-| Temple of Eternals | 57.00% | ~651 |
-| Prestigious | 53.00% | ~605 |
+| Temple of Eternals | 57.00% | ~652 |
+| Prestigious | 53.00% | ~606 |
 | Fellowship Power | 40.00% | ~457 |
 | Guild Power | 24.00% | ~274 |
 | Prestigious x10 | 21.00% | ~240 |
@@ -17,8 +17,8 @@ Rating: 3.79 (Ranked 912)
 | Dragon Clicker | 16.00% | ~183 |
 | Miner Clicker | 15.00% | ~171 |
 | Inspection | 14.00% | ~160 |
-| Full Party | 13.00% | ~148 |
-| Hero inspection | 13.00% | ~148 |
+| Full Party | 13.00% | ~149 |
+| Hero inspection | 13.00% | ~149 |
 | Dragon Master | 11.00% | ~126 |
 | Enlightenment | 11.00% | ~126 |
 | Lieutenant | 11.00% | ~126 |
@@ -64,11 +64,11 @@ Rating: 3.79 (Ranked 912)
 | Transmute | 0.60% | ~7 |
 | Tree of Life | 0.60% | ~7 |
 | Training makes a Pro player | 0.50% | ~6 |
-| Cauldron Liberator | 0.40% | ~5 |
 | Gear Enchanting | 0.40% | ~5 |
 | Mythic Power | 0.40% | ~5 |
-| Pokerface | 0.40% | ~5 |
+| Cauldron Liberator | 0.30% | ~3 |
 | Guardian Master | 0.30% | ~3 |
+| Pokerface | 0.30% | ~3 |
 | Arena Challenger | 0.20% | ~2 |
 | Beast War Machines | 0.20% | ~2 |
 | Conqueror | 0.20% | ~2 |
@@ -81,7 +81,7 @@ Rating: 3.79 (Ranked 912)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,142 (Ranked 161)  
+Progressed: 1,143 (Ranked 161)  
 Completed: 1 (0.09%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 1 (0.09%) (Ranked 163)
 | 2023-05-20 | 1,114 | 1 |
 | 2023-05-21 | 1,133 | 1 |
 | 2023-05-22 | 1,141 | 1 |
-| 2023-05-23 | 1,142 | 1 |
+| 2023-05-23 | 1,143 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

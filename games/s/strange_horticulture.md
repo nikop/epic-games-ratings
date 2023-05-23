@@ -1,7 +1,7 @@
 # Strange Horticulture
 [Store](https://store.epicgames.com/en-US/p/strange-horticulture-360e80)  
 [View Rawdata](../../db/s/strange_horticulture.json)  
-Rating: 4.71 (Ranked 177)  
+Rating: 4.72 (Ranked 164)  
 Number of Ratings: 34  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -27,3 +27,4 @@ Number of Ratings: 34  (23.09.2022)
 | 2022-11-11 | 4.70 | - | - | - |
 | 2022-12-04 | 4.71 | - | - | - |
 | 2023-03-31 | 4.71 | - | 0 | 0 |
+| 2023-05-23 | 4.72 | - | 0 | 0 |

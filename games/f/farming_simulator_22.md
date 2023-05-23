@@ -7,16 +7,16 @@ Number of Ratings: 7,683  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Own use | 76.00% | ~32,520 |
-| I read Shakespeare and stuff | 64.00% | ~27,385 |
-| Just a sprinkle | 63.00% | ~26,957 |
-| I'm stumped | 61.00% | ~26,101 |
-| Plant get enough | 61.00% | ~26,101 |
+| I read Shakespeare and stuff | 64.00% | ~27,386 |
+| Just a sprinkle | 63.00% | ~26,958 |
+| I'm stumped | 61.00% | ~26,102 |
+| Plant get enough | 61.00% | ~26,102 |
 | It's just the beginning | 59.00% | ~25,246 |
 | This is just my weekend vehicle | 58.00% | ~24,818 |
-| Hard work pays off | 53.00% | ~22,678 |
+| Hard work pays off | 53.00% | ~22,679 |
 | It's never too late to farm | 47.00% | ~20,111 |
-| All out of Land | 44.00% | ~18,827 |
-| Field Trip | 43.00% | ~18,399 |
+| All out of Land | 44.00% | ~18,828 |
+| Field Trip | 43.00% | ~18,400 |
 | I like to switch it up | 40.00% | ~17,116 |
 | Help me to help you | 38.00% | ~16,260 |
 | Ultimutt Pawesomeness | 28.00% | ~11,981 |
@@ -37,8 +37,8 @@ Number of Ratings: 7,683  (23.09.2022)
 | Cowherd | 7.00% | ~2,995 |
 | Fluffyness | 6.00% | ~2,567 |
 | Helper A does not stop … ever | 6.00% | ~2,567 |
-| Road Trip | 5.00% | ~2,139 |
-| Bringing in the Honey | 5.00% | ~2,139 |
+| Road Trip | 5.00% | ~2,140 |
+| Bringing in the Honey | 5.00% | ~2,140 |
 | Three little piggies… | 4.00% | ~1,712 |
 | Game on | 4.00% | ~1,712 |
 | Pretty colourful | 0.90% | ~385 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~171 |
 | Raisin the stakes | 0.30% | ~128 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,789 (Ranked 78)  
+Progressed: 42,790 (Ranked 78)  
 Completed: 5 (0.01%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 5 (0.01%) (Ranked 193)
 | 2023-05-20 | 42,672 | 5 |
 | 2023-05-21 | 42,729 | 5 |
 | 2023-05-22 | 42,787 | 5 |
-| 2023-05-23 | 42,789 | 5 |
+| 2023-05-23 | 42,790 | 5 |
 ## Awards
 Max (Great for Beginners): 4,242  (Ranked 70)  
 Sum: 36,568 (Ranked 31)  

@@ -572,9 +572,9 @@
       "ID": "MQ04_3",
       "SetID": "bbing49",
       "Name": "The New World",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 97
+      "UsersEstimate": 99
     },
     {
       "ID": "MQ05_1",
@@ -701,8 +701,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-23T02:02:08.022649+00:00",
+  "LastChanged_Achievements": "2023-05-23T03:00:11.1124707+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.473335+00:00",
-  "LastUpdate_Ratings": "2023-05-23T01:58:07.6542216+00:00",
-  "LastUpdate_Achievements": "2023-05-23T02:02:08.0226723+00:00"
+  "LastUpdate_Ratings": "2023-05-23T02:57:03.593496+00:00",
+  "LastUpdate_Achievements": "2023-05-23T03:00:11.1125125+00:00"
 }

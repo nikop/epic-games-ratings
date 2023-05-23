@@ -28,7 +28,7 @@ Rating: 4.55 (Ranked 467)
 | From the Past | 1.00% | ~21 |
 | Sightseeing | 0.90% | ~19 |
 | Necessary Enhancement | 0.90% | ~19 |
-| Man's Best Friend | 0.70% | ~15 |
+| Man's Best Friend | 0.80% | ~17 |
 | In Dolos We Trust | 0.70% | ~15 |
 | BRAWL! | 0.70% | ~15 |
 | All in Good Health | 0.70% | ~15 |

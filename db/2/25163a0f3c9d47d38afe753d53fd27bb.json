@@ -611,9 +611,9 @@
       "ID": "LEVEL_018",
       "SetID": "212bg48",
       "Name": "Isle rock city",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     },
     {
       "ID": "LEVEL_019",
@@ -722,8 +722,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-23T02:03:17.2303431+00:00",
+  "LastChanged_Achievements": "2023-05-23T03:00:17.403292+00:00",
   "LastUpdate_AppInfo": "2023-05-22T13:02:13.5547551+00:00",
-  "LastUpdate_Ratings": "2023-05-23T01:57:56.135102+00:00",
-  "LastUpdate_Achievements": "2023-05-23T02:03:17.2303686+00:00"
+  "LastUpdate_Ratings": "2023-05-23T02:56:54.3697603+00:00",
+  "LastUpdate_Achievements": "2023-05-23T03:00:17.4033175+00:00"
 }
