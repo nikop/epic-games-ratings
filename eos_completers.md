@@ -22,18 +22,18 @@
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
 | 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.68% |
 | 22 | [Scorn](games/s/scorn.md) | 6.90% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 6.81% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 6.80% |
 | 24 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 25 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
-| 27 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.58% |
+| 27 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.56% |
 | 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.45% |
 | 29 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 5.13% |
 | 30 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.00% |
 | 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.88% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.43% |
-| 34 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.35% |
+| 34 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.26% |
 | 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
 | 35 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.92% |
 | 37 | [Doodle God](games/d/doodle_god.md) | 3.90% |

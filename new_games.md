@@ -1,5 +1,7 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
+| [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 2023-05-23 | 2023-05-23 |
+| [The Creepy Syndrome](games/f/f2ed44898a204bee866836b9b659bce4.md) | 2023-05-23 | 2023-04-27 |
 | [Miasma Chronicles](games/m/miasma_chronicles.md) | 2023-05-23 | 2023-05-23 |
 | [Planet of Lana](games/p/planet_of_lana.md) | 2023-05-23 | 2023-05-23 |
 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 2023-05-23 | 2023-05-23 |
