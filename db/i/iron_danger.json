@@ -4,7 +4,7 @@
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 171,
+  "EOS_Progressed": 172,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.34,
+  "EOS_Completed_Percentage": 2.33,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.5378411+00:00",
@@ -86,6 +86,11 @@
       "Time": "2023-05-22T04:06:10.549753+00:00",
       "NumProgressed": 171,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-23T09:05:50.6225477+00:00",
+      "NumProgressed": 172,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 23,
@@ -135,9 +140,9 @@
       "ID": "ACH_GREEN_THUMB",
       "SetID": "ao59f0i",
       "Name": "Green Thumb",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_GROUSE_HEALED",
@@ -161,7 +166,7 @@
       "Name": "Found the Healer",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_KEYU_EXTERMINATOR",
@@ -280,7 +285,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 171,
+      "Progressed": 172,
       "Completed": 4
     }
   ],
@@ -288,8 +293,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-05-23T08:06:58.8848544+00:00",
+  "LastChanged_Achievements": "2023-05-23T09:05:50.6225473+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:59.7353215+00:00",
-  "LastUpdate_Ratings": "2023-05-23T08:00:45.0864492+00:00",
-  "LastUpdate_Achievements": "2023-05-23T08:06:58.8848933+00:00"
+  "LastUpdate_Ratings": "2023-05-23T08:59:57.2439045+00:00",
+  "LastUpdate_Achievements": "2023-05-23T09:05:50.6225652+00:00"
 }

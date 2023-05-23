@@ -4,7 +4,7 @@
   "ProductSlug": "replaced",
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2099-01-02T03:00:00+00:00",
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-19T19:02:29.3666042+00:00",
-  "LastUpdate_Ratings": "2023-05-23T07:59:42.9379857+00:00",
-  "LastUpdate_Achievements": "2023-05-23T08:05:13.8686611+00:00"
+  "LastUpdate_Ratings": "2023-05-23T08:59:16.2597887+00:00",
+  "LastUpdate_Achievements": "2023-05-23T09:04:36.1065475+00:00"
 }

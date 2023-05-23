@@ -1,25 +1,25 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.68 (Ranked 237)  
+Rating: 4.68 (Ranked 236)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,796 |
-| That's a Grand Army | 8.00% | ~3,374 |
-| That is mine! | 8.00% | ~3,374 |
-| Victorious! | 8.00% | ~3,374 |
-| Brothers in Arms | 6.00% | ~2,530 |
-| That's a Grand Navy | 6.00% | ~2,530 |
-| Seriously?! | 6.00% | ~2,530 |
+| Until death do us apart | 9.00% | ~3,797 |
+| That's a Grand Army | 8.00% | ~3,375 |
+| That is mine! | 8.00% | ~3,375 |
+| Victorious! | 8.00% | ~3,375 |
+| Brothers in Arms | 6.00% | ~2,531 |
+| That's a Grand Navy | 6.00% | ~2,531 |
+| Seriously?! | 6.00% | ~2,531 |
 | For the Glory | 5.00% | ~2,109 |
 | Cold War | 4.00% | ~1,687 |
 | True Catholic | 4.00% | ~1,687 |
-| Defender of the Faith | 3.00% | ~1,265 |
-| It's all about the money | 3.00% | ~1,265 |
-| Respected | 3.00% | ~1,265 |
-| Truly Divine Ruler | 3.00% | ~1,265 |
+| Defender of the Faith | 3.00% | ~1,266 |
+| It's all about the money | 3.00% | ~1,266 |
+| Respected | 3.00% | ~1,266 |
+| Truly Divine Ruler | 3.00% | ~1,266 |
 | Blockader | 2.00% | ~844 |
 | Combined Arms | 2.00% | ~844 |
 | Double the Love | 2.00% | ~844 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,175 (Ranked 80)  
+Progressed: 42,185 (Ranked 80)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -394,7 +394,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-20 | 40,736 | 0 |
 | 2023-05-21 | 41,525 | 0 |
 | 2023-05-22 | 42,079 | 0 |
-| 2023-05-23 | 42,175 | 0 |
+| 2023-05-23 | 42,185 | 0 |
 ## Awards
 Max (Educational): 5,271  (Ranked 60)  
 Sum: 43,645 (Ranked 27)  

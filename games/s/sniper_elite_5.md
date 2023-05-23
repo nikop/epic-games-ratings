@@ -12,29 +12,29 @@ Rating: 4.34 (Ranked 730)
 | Lord of War | 4.00% | ~50 |
 | Resourceful | 4.00% | ~50 |
 | It's Starting to Crack | 4.00% | ~50 |
-| Just a Flesh Wound | 3.00% | ~37 |
-| Explosive Efficiency | 3.00% | ~37 |
-| Change the Channel | 3.00% | ~37 |
+| Just a Flesh Wound | 3.00% | ~38 |
+| Organ Grinder | 3.00% | ~38 |
+| Explosive Efficiency | 3.00% | ~38 |
+| Change the Channel | 3.00% | ~38 |
 | Opposing Force | 2.00% | ~25 |
-| Organ Grinder | 2.00% | ~25 |
 | Die Nussknacker Sweet! | 2.00% | ~25 |
 | As Quiet as a Mouse | 2.00% | ~25 |
+| Taking it back | 2.00% | ~25 |
 | Fields of Glory | 1.00% | ~12 |
 | Gunslinger | 1.00% | ~12 |
+| Skirmisher | 1.00% | ~12 |
 | Sharpshooter | 1.00% | ~12 |
 | Close Quarters | 1.00% | ~12 |
 | Snake in the Grass | 1.00% | ~12 |
-| Taking it back | 1.00% | ~12 |
 | Target America | 1.00% | ~12 |
 | The Kraken Sleeps | 1.00% | ~12 |
 | Liberté | 0.90% | ~11 |
-| Skirmisher | 0.90% | ~11 |
 | The Long Game | 0.90% | ~11 |
 | Precision Is Key | 0.90% | ~11 |
 | Der Geist | 0.90% | ~11 |
 | Set Europe Ablaze | 0.80% | ~10 |
-| Climbing the Ladder | 0.60% | ~7 |
-| Rigged to Blow | 0.60% | ~7 |
+| Climbing the Ladder | 0.60% | ~8 |
+| Rigged to Blow | 0.60% | ~8 |
 | Brains of the Operation | 0.50% | ~6 |
 | It'll Buff Right Out | 0.40% | ~5 |
 | Operation Foxley | 0.40% | ~5 |
@@ -77,7 +77,7 @@ Rating: 4.34 (Ranked 730)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,248 (Ranked 158)  
+Progressed: 1,250 (Ranked 158)  
 Completed: 2 (0.16%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 2 (0.16%) (Ranked 145)
 | 2023-05-20 | 984 | 2 |
 | 2023-05-21 | 1,126 | 2 |
 | 2023-05-22 | 1,233 | 2 |
-| 2023-05-23 | 1,248 | 2 |
+| 2023-05-23 | 1,250 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

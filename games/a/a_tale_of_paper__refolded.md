@@ -34,7 +34,7 @@
 | So Close | 0.00% | ~0 |
 | The Journey Begins | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 372)  
+Progressed: 2 (Ranked 373)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |

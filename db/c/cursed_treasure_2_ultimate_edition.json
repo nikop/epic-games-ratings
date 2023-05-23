@@ -4,7 +4,7 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 10,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 152,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 12.5,
   "EosHistory": [
@@ -524,8 +524,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-05-23T08:02:21.0404321+00:00",
+  "LastChanged_Achievements": "2023-05-23T09:00:56.3898844+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:11.9155795+00:00",
-  "LastUpdate_Ratings": "2023-05-23T07:58:56.7104498+00:00",
-  "LastUpdate_Achievements": "2023-05-23T08:02:21.0404982+00:00"
+  "LastUpdate_Ratings": "2023-05-23T08:58:47.1871743+00:00",
+  "LastUpdate_Achievements": "2023-05-23T09:00:56.3899314+00:00"
 }

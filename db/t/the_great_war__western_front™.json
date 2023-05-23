@@ -4,7 +4,7 @@
   "ProductSlug": "the-great-war-western-front",
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 153,
+  "EOS_Progressed": 154,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -644,6 +644,11 @@
       "Time": "2023-05-23T05:05:58.0643796+00:00",
       "NumProgressed": 153,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-23T09:05:30.1127333+00:00",
+      "NumProgressed": 154,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -661,7 +666,7 @@
       "ID": "COMPLETE_ALL_HISTORIC BATTLES",
       "SetID": "6kcl14p",
       "Name": "A Student of History",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 80,
       "UsersEstimate": 1
     },
@@ -693,7 +698,7 @@
       "ID": "DESTROY_100_EMPLACEMENTS_WITH_BOMBERS",
       "SetID": "6kcl14p",
       "Name": "Bombs Away!",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 60,
       "UsersEstimate": 1
     },
@@ -709,7 +714,7 @@
       "ID": "REACH_DECEMBER_1919",
       "SetID": "6kcl14p",
       "Name": "That\u0027s Not What Happened",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 70,
       "UsersEstimate": 1
     },
@@ -719,7 +724,7 @@
       "Name": "Earth Shattering",
       "Percentage": 50,
       "XP": 90,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -741,7 +746,7 @@
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
       "SetID": "6kcl14p",
       "Name": "Nothing Can Stop Us!",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 60,
       "UsersEstimate": 1
     }
@@ -750,7 +755,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 153,
+      "Progressed": 154,
       "Completed": 0
     }
   ],
@@ -758,8 +763,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-05-23T08:06:31.7181195+00:00",
+  "LastChanged_Achievements": "2023-05-23T09:05:30.112733+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:01.4945715+00:00",
-  "LastUpdate_Ratings": "2023-05-23T07:58:45.8127543+00:00",
-  "LastUpdate_Achievements": "2023-05-23T08:06:31.7181348+00:00"
+  "LastUpdate_Ratings": "2023-05-23T08:58:39.9070587+00:00",
+  "LastUpdate_Achievements": "2023-05-23T09:05:30.1127477+00:00"
 }

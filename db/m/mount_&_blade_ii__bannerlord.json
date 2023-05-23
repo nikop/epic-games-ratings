@@ -4147,10 +4147,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 13127,
       "NumberOfAwardsMax": 6568
+    },
+    {
+      "Time": "2023-05-23T08:59:40.9205902+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13128,
+      "NumberOfAwardsMax": 6568
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13127,
+  "NumberOfAwards": 13128,
   "NumberOfAwardsMax": 6568,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4164,7 +4170,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 778
+      "Count": 779
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4227,9 +4233,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 50675,
+  "EOS_Progressed": 50679,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 701,
+  "EOS_NewPlayers": 702,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7307,6 +7313,11 @@
       "Time": "2023-05-23T07:05:37.1157738+00:00",
       "NumProgressed": 50675,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-23T09:05:56.7358371+00:00",
+      "NumProgressed": 50679,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -7334,7 +7345,7 @@
       "Name": "Bannerlord",
       "Percentage": 20,
       "XP": 65,
-      "UsersEstimate": 10135
+      "UsersEstimate": 10136
     },
     {
       "ID": "Best served cold",
@@ -7358,7 +7369,7 @@
       "Name": "Butterlord",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 3547
+      "UsersEstimate": 3548
     },
     {
       "ID": "Catch",
@@ -7478,7 +7489,7 @@
       "Name": "Horde breaker",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 10135
+      "UsersEstimate": 10136
     },
     {
       "ID": "I can do it",
@@ -7510,7 +7521,7 @@
       "Name": "King Solomon",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 7601
+      "UsersEstimate": 7602
     },
     {
       "ID": "Kingslayer",
@@ -7542,7 +7553,7 @@
       "Name": "Landlord",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 15202
+      "UsersEstimate": 15204
     },
     {
       "ID": "Lawbringer",
@@ -7550,7 +7561,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 17736
+      "UsersEstimate": 17738
     },
     {
       "ID": "Lawmaker",
@@ -7558,7 +7569,7 @@
       "Name": "Lawmaker",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 10642
+      "UsersEstimate": 10643
     },
     {
       "ID": "Long live the Empire",
@@ -7574,7 +7585,7 @@
       "Name": "Mastery",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 3040
+      "UsersEstimate": 3041
     },
     {
       "ID": "Minor Clan",
@@ -7670,7 +7681,7 @@
       "Name": "The king is pleased",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 8108
+      "UsersEstimate": 8109
     },
     {
       "ID": "This Is Our Land",
@@ -7678,7 +7689,7 @@
       "Name": "This Is Our Land",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 3040
+      "UsersEstimate": 3041
     },
     {
       "ID": "This is Sparta",
@@ -7694,7 +7705,7 @@
       "Name": "Trained",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 10135
+      "UsersEstimate": 10136
     },
     {
       "ID": "Undercover",
@@ -7725,15 +7736,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 50675,
+      "Progressed": 50679,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-05-23T06:59:14.8641318+00:00",
-  "LastChanged_Achievements": "2023-05-23T08:07:06.8504229+00:00",
+  "LastChanged": "2023-05-23T08:59:40.92059+00:00",
+  "LastChanged_Achievements": "2023-05-23T09:05:56.7358366+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:05:00.2672545+00:00",
-  "LastUpdate_Ratings": "2023-05-23T08:00:21.2551794+00:00",
-  "LastUpdate_Achievements": "2023-05-23T08:07:06.8505013+00:00"
+  "LastUpdate_Ratings": "2023-05-23T08:59:40.9205908+00:00",
+  "LastUpdate_Achievements": "2023-05-23T09:05:56.7359109+00:00"
 }

@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2089,
+  "EOS_Progressed": 2090,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1147,6 +1147,11 @@
       "Time": "2023-05-23T08:06:31.0183532+00:00",
       "NumProgressed": 2089,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-23T09:05:29.5903336+00:00",
+      "NumProgressed": 2090,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -1236,9 +1241,9 @@
       "ID": "ACH_BASE_2",
       "SetID": "92iocjf",
       "Name": "Guy de Borderlands",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_BASE_21",
@@ -1516,9 +1521,9 @@
       "ID": "ACH_BASE_57",
       "SetID": "92iocjf",
       "Name": "Pedal to the Metal",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_BASE_58",
@@ -1613,13 +1618,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 270,
+      "Progressed": 271,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2089,
+      "Progressed": 2090,
       "Completed": 0
     }
   ],
@@ -1627,8 +1632,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-05-13T22:58:30.2604361+00:00",
-  "LastChanged_Achievements": "2023-05-23T08:06:31.0183527+00:00",
+  "LastChanged_Achievements": "2023-05-23T09:05:29.5903332+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.7103468+00:00",
-  "LastUpdate_Ratings": "2023-05-23T07:58:43.5423793+00:00",
-  "LastUpdate_Achievements": "2023-05-23T08:06:31.0184174+00:00"
+  "LastUpdate_Ratings": "2023-05-23T08:58:38.3429764+00:00",
+  "LastUpdate_Achievements": "2023-05-23T09:05:29.5904241+00:00"
 }
