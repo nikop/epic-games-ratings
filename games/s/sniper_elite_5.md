@@ -26,20 +26,20 @@ Rating: 4.34 (Ranked 730)
 | Skirmisher | 1.00% | ~13 |
 | Sharpshooter | 1.00% | ~13 |
 | The Long Game | 1.00% | ~13 |
+| Precision Is Key | 1.00% | ~13 |
 | Der Geist | 1.00% | ~13 |
 | Close Quarters | 1.00% | ~13 |
 | Snake in the Grass | 1.00% | ~13 |
 | The Kraken Sleeps | 1.00% | ~13 |
 | Liberté | 0.90% | ~11 |
-| Precision Is Key | 0.90% | ~11 |
-| Set Europe Ablaze | 0.80% | ~10 |
+| Set Europe Ablaze | 0.90% | ~11 |
+| Rigged to Blow | 0.70% | ~9 |
 | Climbing the Ladder | 0.60% | ~8 |
-| Rigged to Blow | 0.60% | ~8 |
 | It'll Buff Right Out | 0.50% | ~6 |
+| Locomotion Commotion | 0.50% | ~6 |
 | Brains of the Operation | 0.50% | ~6 |
 | No Stone Unturned | 0.40% | ~5 |
 | My Little Friend | 0.40% | ~5 |
-| Locomotion Commotion | 0.40% | ~5 |
 | Operation Foxley | 0.40% | ~5 |
 | Strategist | 0.30% | ~4 |
 | Shoot for the Moon | 0.30% | ~4 |
@@ -52,13 +52,14 @@ Rating: 4.34 (Ranked 730)
 | Up close and personal | 0.20% | ~3 |
 | Don't hold your breath | 0.20% | ~3 |
 | Reich To The Point | 0.20% | ~2 |
+| Covert Elimination | 0.20% | ~2 |
 | Siegebreaker | 0.20% | ~2 |
+| Out of Scope | 0.10% | ~1 |
 | Burn after reading | 0.10% | ~1 |
 | Eagle Eyed | 0.10% | ~1 |
 | Tinkerer | 0.10% | ~1 |
 | Road Rage | 0.10% | ~1 |
 | Führerious Repetition | 0.10% | ~1 |
-| Covert Elimination | 0.10% | ~1 |
 | Operation Overlord | 0.10% | ~1 |
 | If You Go Down To The Woods Today | 0.10% | ~1 |
 | Best of the Best | 0.00% | ~0 |
@@ -66,7 +67,6 @@ Rating: 4.34 (Ranked 730)
 | Master of Secondaries | 0.00% | ~0 |
 | Master of Rifles | 0.00% | ~0 |
 | Master-at-arms | 0.00% | ~0 |
-| Out of Scope | 0.00% | ~0 |
 | Sight Beyond Sights | 0.00% | ~0 |
 | Can't Outrun A Bullet | 0.00% | ~0 |
 | From Führer Away | 0.00% | ~0 |

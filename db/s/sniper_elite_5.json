@@ -190,7 +190,7 @@
   "Tags": [],
   "EOS_Progressed": 1258,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 536,
+  "EOS_NewPlayers": 535,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1294,17 +1294,17 @@
       "ID": "REWARD_28_AMBUSH_KING",
       "SetID": "bm6el81",
       "Name": "Set Europe Ablaze",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
       "SetID": "bm6el81",
       "Name": "Precision Is Key",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -1318,17 +1318,17 @@
       "ID": "REWARD_30_OUT_OF_SCOPE",
       "SetID": "bm6el81",
       "Name": "Out of Scope",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "REWARD_32_RIGGED_BLOW",
       "SetID": "bm6el81",
       "Name": "Rigged to Blow",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -1470,9 +1470,9 @@
       "ID": "REWARD_56_SMOOTH_OPERATOR",
       "SetID": "bm6el81",
       "Name": "Locomotion Commotion",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_5_BUNKER_BUSTER",
@@ -1590,9 +1590,9 @@
       "ID": "REWARD_DLC01_04_COVERT_ELIMINATION",
       "SetID": "83mdf7p",
       "Name": "Covert Elimination",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "REWARD_DLC01_05_ALPHA",
@@ -1725,8 +1725,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-22T16:01:02.9174493+00:00",
-  "LastChanged_Achievements": "2023-05-23T12:05:47.3400299+00:00",
+  "LastChanged_Achievements": "2023-05-23T13:12:19.1838502+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-23T12:00:52.3265664+00:00",
-  "LastUpdate_Achievements": "2023-05-23T12:05:47.3400992+00:00"
+  "LastUpdate_Ratings": "2023-05-23T13:06:49.5343553+00:00",
+  "LastUpdate_Achievements": "2023-05-23T13:12:19.1839256+00:00"
 }

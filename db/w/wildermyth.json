@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1200,
+  "EOS_Progressed": 1201,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -560,6 +560,11 @@
       "Time": "2023-05-23T04:05:48.2574778+00:00",
       "NumProgressed": 1200,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-23T13:12:20.0535984+00:00",
+      "NumProgressed": 1201,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -641,9 +646,9 @@
       "ID": "achievement_endTurnInGrayplane5Times",
       "SetID": "95dc8p",
       "Name": "Passing Shadow",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 288
+      "UsersEstimate": 276
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -705,9 +710,9 @@
       "ID": "achievement_kill1000Thrixl",
       "SetID": "95dc8p",
       "Name": "No More Nightmares",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 24
     },
     {
       "ID": "achievement_kill100Monsters",
@@ -769,9 +774,9 @@
       "ID": "achievement_twoDifferentThemeLimbs",
       "SetID": "95dc8p",
       "Name": "Thematic Divergence",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 84
     },
     {
       "ID": "achievement_use3ReactionStrikesInOneTurn",
@@ -825,9 +830,9 @@
       "ID": "completedStory_monarchs",
       "SetID": "95dc8p",
       "Name": "Echoes Die",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 84
     },
     {
       "ID": "completedStory_procedural",
@@ -857,17 +862,17 @@
       "ID": "cvawn_allDrauvenSurvivedMission",
       "SetID": "95dc8p",
       "Name": "Wingknight\u0027s Prowess",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 48
     },
     {
       "ID": "ecthis_all5PlotCharacters",
       "SetID": "95dc8p",
       "Name": "All My Birds, Safely Home",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 48
     },
     {
       "ID": "enduringWar_destroyCores",
@@ -1018,15 +1023,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1200,
+      "Progressed": 1201,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-23T12:05:48.065785+00:00",
+  "LastChanged_Achievements": "2023-05-23T13:12:20.0535978+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:59.9959604+00:00",
-  "LastUpdate_Ratings": "2023-05-23T12:00:56.616433+00:00",
-  "LastUpdate_Achievements": "2023-05-23T12:05:48.0658298+00:00"
+  "LastUpdate_Ratings": "2023-05-23T13:06:53.7790084+00:00",
+  "LastUpdate_Achievements": "2023-05-23T13:12:20.0536606+00:00"
 }

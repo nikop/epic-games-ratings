@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Overpowered | 82.00% | ~99 |
-| Side Job | 77.00% | ~93 |
+| Side Job | 78.00% | ~94 |
 | Bloodlust | 56.00% | ~68 |
 | Gettin' It Done | 54.00% | ~65 |
 | Feast | 42.00% | ~51 |
 | Attuned | 37.00% | ~45 |
+| Opulent | 33.00% | ~40 |
 | Specialist | 33.00% | ~40 |
-| Opulent | 32.00% | ~39 |
 | Sparkly | 30.00% | ~36 |
 | Teamwork | 23.00% | ~28 |
 | Ready to Rock | 22.00% | ~27 |

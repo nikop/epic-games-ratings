@@ -2,7 +2,7 @@
   "ID": "785719d6f46649018bf83b6832f6f65a",
   "Name": "Mail Time",
   "ProductSlug": "mail-time-ed1aea",
-  "Ranking_EOS_Progress": 414,
+  "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 83,
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4596731+00:00",
   "LastChanged": "2023-03-31T05:58:06.4596732+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:06:55.8022831+00:00",
-  "LastUpdate_Ratings": "2023-05-23T12:00:04.6453785+00:00",
-  "LastUpdate_Achievements": "2023-05-23T12:04:56.4970064+00:00"
+  "LastUpdate_Ratings": "2023-05-23T13:05:59.513814+00:00",
+  "LastUpdate_Achievements": "2023-05-23T13:11:27.5110179+00:00"
 }

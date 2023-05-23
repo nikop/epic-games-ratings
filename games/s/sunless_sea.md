@@ -14,21 +14,21 @@ Number of Ratings: 401  (23.09.2022)
 | Correspondent | 12.00% | ~3,570 |
 | Lose Your Mind | 12.00% | ~3,570 |
 | Sound Mind? | 12.00% | ~3,570 |
-| Salt's Curse | 11.00% | ~3,272 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~3,272 |
-| The Fall of the House | 11.00% | ~3,272 |
-| Shipmate | 11.00% | ~3,272 |
+| Salt's Curse | 11.00% | ~3,273 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~3,273 |
+| The Fall of the House | 11.00% | ~3,273 |
+| Shipmate | 11.00% | ~3,273 |
 | One Year at Zee | 8.00% | ~2,380 |
-| Pupil | 7.00% | ~2,082 |
-| Salvager | 7.00% | ~2,082 |
-| Open Your Ears | 7.00% | ~2,082 |
-| The Ascent of Man | 7.00% | ~2,082 |
+| Pupil | 7.00% | ~2,083 |
+| Salvager | 7.00% | ~2,083 |
+| Open Your Ears | 7.00% | ~2,083 |
+| The Ascent of Man | 7.00% | ~2,083 |
 | Sink Beneath the Waves. Again. | 5.00% | ~1,488 |
 | Zee Fever | 5.00% | ~1,488 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,190 |
-| Storm's Curse | 3.00% | ~892 |
-| We're Gonna Need a Bigger Boat | 3.00% | ~892 |
-| Come Closer | 3.00% | ~892 |
+| Storm's Curse | 3.00% | ~893 |
+| We're Gonna Need a Bigger Boat | 3.00% | ~893 |
+| Come Closer | 3.00% | ~893 |
 | Roaring Rise | 2.00% | ~595 |
 | I am the Captain of my Soul | 2.00% | ~595 |
 | A buoyant escape | 1.00% | ~298 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~30 |
 | Ten Years at Zee | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,750 (Ranked 85)  
+Progressed: 29,751 (Ranked 85)  
 Completed: 3 (0.01%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 3 (0.01%) (Ranked 193)
 | 2023-05-20 | 29,550 | 3 |
 | 2023-05-21 | 29,654 | 3 |
 | 2023-05-22 | 29,726 | 3 |
-| 2023-05-23 | 29,750 | 3 |
+| 2023-05-23 | 29,751 | 3 |
 ## Awards
 Max (Character Customization): 208  (Ranked 256)  
 Sum: 277 (Ranked 329)  

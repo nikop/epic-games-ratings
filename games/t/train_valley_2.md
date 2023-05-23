@@ -70,12 +70,12 @@ Number of Ratings: 87  (23.09.2022)
 | Space Age | 0.40% | ~3 |
 | Alchemist | 0.30% | ~2 |
 | Astrophysicist | 0.30% | ~2 |
+| It's no coincidence | 0.30% | ~2 |
 | Tourism Age | 0.30% | ~2 |
 | Urbanization Age | 0.30% | ~2 |
 | Voyager | 0.30% | ~2 |
 | Arcturus | 0.10% | ~0 |
 | Highlander | 0.10% | ~1 |
-| It's no coincidence | 0.10% | ~1 |
 | The Hare | 0.10% | ~1 |
 | The Hare with an espresso | 0.10% | ~1 |
 | Forgotten | 0.00% | ~0 |

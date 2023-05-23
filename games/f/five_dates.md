@@ -8,7 +8,7 @@
 | Digital Casanova | 96.00% | ~353 |
 | Hold my Beer | 64.00% | ~236 |
 | Nueva Beginnings | 35.00% | ~129 |
-| Only Thyme Will Tell | 32.00% | ~118 |
+| Only Thyme Will Tell | 33.00% | ~121 |
 | Not Alone | 30.00% | ~110 |
 | We Go Again | 30.00% | ~110 |
 | In Contempt of Duvet | 29.00% | ~107 |
@@ -20,7 +20,7 @@
 | Interrogation | 4.00% | ~15 |
 | Crash and Burn | 3.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 368 (Ranked 199)  
+Progressed: 368 (Ranked 200)  
 Completed: 4 (1.09%) (Ranked 85)  
 ## EOS Players History
 | Date | Progressed | Completed |

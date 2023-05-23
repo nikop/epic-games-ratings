@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tastes just like chicken! | 93.00% | ~50 |
-| MLG 360 no scope kill! | 91.00% | ~49 |
-| Are you ready to rumble? | 91.00% | ~49 |
-| That's what cheese said! | 83.00% | ~45 |
+| Tastes just like chicken! | 94.00% | ~51 |
+| MLG 360 no scope kill! | 93.00% | ~50 |
+| Are you ready to rumble? | 93.00% | ~50 |
+| That's what cheese said! | 85.00% | ~46 |
 | I like you...but I have to kill you... | 81.00% | ~44 |
-| Nerd | 80.00% | ~43 |
-| AHHHHHH.....I'M ON FIRE!!! | 78.00% | ~42 |
+| Nerd | 81.00% | ~44 |
+| AHHHHHH.....I'M ON FIRE!!! | 80.00% | ~43 |
 | Not so hip anymore! | 78.00% | ~42 |
 | Up and down | 74.00% | ~40 |
 | Blurry depth perception | 72.00% | ~39 |
@@ -42,12 +42,12 @@
 | Ripe Meat Off The Bone! | 20.00% | ~11 |
 | Hovering around | 20.00% | ~11 |
 | A Megapint...? | 19.00% | ~10 |
+| Just wing it! | 15.00% | ~8 |
 | Your daily dose of Vitamin C. | 15.00% | ~8 |
 | Kleptomaniac | 15.00% | ~8 |
-| Just wing it! | 13.00% | ~7 |
+| I cant stand still! | 13.00% | ~7 |
 | You're not so Big anymore, Boi! | 11.00% | ~6 |
 | I drink, but I'm not a drunk! | 11.00% | ~6 |
-| I cant stand still! | 11.00% | ~6 |
 | Slimy... yet satisfying | 11.00% | ~6 |
 | Spoiler alert! | 9.00% | ~5 |
 | Ancient Ruins of Dirty Feet | 9.00% | ~5 |

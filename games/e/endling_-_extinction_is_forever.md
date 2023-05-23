@@ -15,9 +15,9 @@
 | Hard Fox Life | 24.00% | ~99 |
 | Never Let Down | 23.00% | ~95 |
 | Chicken Dinner | 22.00% | ~91 |
-| A Barking Fox Doesn't Bite | 20.00% | ~83 |
+| A Barking Fox Doesn't Bite | 21.00% | ~87 |
 | Peaceful Instinct | 18.00% | ~74 |
-| Maternity | 15.00% | ~62 |
+| Maternity | 16.00% | ~66 |
 | Family Reunion | 15.00% | ~62 |
 | Beyond Words | 15.00% | ~62 |
 | Barking in The Rain | 15.00% | ~62 |

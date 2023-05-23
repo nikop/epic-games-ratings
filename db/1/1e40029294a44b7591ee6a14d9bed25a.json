@@ -2,7 +2,7 @@
   "ID": "1e40029294a44b7591ee6a14d9bed25a",
   "Name": "Hyper Drill",
   "ProductSlug": "hyper-drill-bfcd14",
-  "Ranking_EOS_Progress": 414,
+  "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 83,
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-22T17:56:59.6624451+00:00",
-  "LastUpdate_Ratings": "2023-05-23T11:57:13.426406+00:00",
+  "LastUpdate_Ratings": "2023-05-23T13:03:08.8815566+00:00",
   "LastUpdate_Achievements": "2023-05-23T12:01:31.828643+00:00"
 }

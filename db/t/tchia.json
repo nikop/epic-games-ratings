@@ -152,9 +152,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5974,
+  "EOS_Progressed": 5975,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2017,6 +2017,11 @@
       "Time": "2023-05-23T09:05:23.4160079+00:00",
       "NumProgressed": 5974,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-23T13:12:08.826426+00:00",
+      "NumProgressed": 5975,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 21,
@@ -2036,7 +2041,7 @@
       "Name": "Arrr!",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "AUDIOPHILE",
@@ -2052,7 +2057,7 @@
       "Name": "Body and Soul",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -2092,7 +2097,7 @@
       "Name": "Fashion Victim",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "GLOBE_TROTTER",
@@ -2164,7 +2169,7 @@
       "Name": "Snip Snip",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "SOUL_CANON",
@@ -2195,7 +2200,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 5974,
+      "Progressed": 5975,
       "Completed": 22
     }
   ],
@@ -2203,8 +2208,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-22T16:57:53.1033555+00:00",
-  "LastChanged_Achievements": "2023-05-23T12:05:37.3476911+00:00",
+  "LastChanged_Achievements": "2023-05-23T13:12:08.8264255+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.822955+00:00",
-  "LastUpdate_Ratings": "2023-05-23T11:58:11.2100877+00:00",
-  "LastUpdate_Achievements": "2023-05-23T12:05:37.3477161+00:00"
+  "LastUpdate_Ratings": "2023-05-23T13:04:07.2121263+00:00",
+  "LastUpdate_Achievements": "2023-05-23T13:12:08.8264602+00:00"
 }

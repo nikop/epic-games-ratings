@@ -1239,7 +1239,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13104,
+  "EOS_Progressed": 13107,
   "EOS_Completed": 29,
   "EOS_NewPlayers": 805,
   "EOS_NewCompleters": 4,
@@ -4394,6 +4394,11 @@
       "Time": "2023-05-23T12:06:04.9014085+00:00",
       "NumProgressed": 13104,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-05-23T13:12:36.9741791+00:00",
+      "NumProgressed": 13107,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 22,
@@ -4477,7 +4482,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1180
     },
     {
       "ID": "1025",
@@ -4493,7 +4498,7 @@
       "Name": "Oathkeeper",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "1027",
@@ -4501,7 +4506,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "1028",
@@ -4517,15 +4522,15 @@
       "Name": "Alliance",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1180
     },
     {
       "ID": "1030",
       "SetID": "9l3d3cl",
       "Name": "Battering Crew",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 2621
+      "UsersEstimate": 2752
     },
     {
       "ID": "1031",
@@ -4541,7 +4546,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 5242
+      "UsersEstimate": 5243
     },
     {
       "ID": "1033",
@@ -4557,7 +4562,7 @@
       "Name": "Influential",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "1035",
@@ -4573,22 +4578,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 13104,
+      "Progressed": 13107,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-05-07T09:02:24.8496722+00:00",
-  "LastChanged_Achievements": "2023-05-23T12:06:04.9014078+00:00",
+  "LastChanged_Achievements": "2023-05-23T13:12:36.974178+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:02.1359414+00:00",
-  "LastUpdate_Ratings": "2023-05-23T12:00:33.2118131+00:00",
-  "LastUpdate_Achievements": "2023-05-23T12:06:04.9014429+00:00"
+  "LastUpdate_Ratings": "2023-05-23T13:06:29.6967585+00:00",
+  "LastUpdate_Achievements": "2023-05-23T13:12:36.9742226+00:00"
 }

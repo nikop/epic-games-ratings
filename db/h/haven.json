@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -531,9 +531,9 @@
       "ID": "17",
       "SetID": "n50no0",
       "Name": "Balding bloot!",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 914
+      "UsersEstimate": 926
     },
     {
       "ID": "18",
@@ -715,8 +715,8 @@
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-05-23T12:06:05.6199974+00:00",
+  "LastChanged_Achievements": "2023-05-23T13:12:37.6885601+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:06.355513+00:00",
-  "LastUpdate_Ratings": "2023-05-23T11:59:51.3468568+00:00",
-  "LastUpdate_Achievements": "2023-05-23T12:06:05.6200233+00:00"
+  "LastUpdate_Ratings": "2023-05-23T13:05:47.2248348+00:00",
+  "LastUpdate_Achievements": "2023-05-23T13:12:37.6885866+00:00"
 }

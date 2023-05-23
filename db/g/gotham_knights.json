@@ -1190,9 +1190,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61780,
+  "EOS_Progressed": 61784,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 869,
+  "EOS_NewPlayers": 872,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3445,6 +3445,11 @@
       "Time": "2023-05-23T12:06:17.5715724+00:00",
       "NumProgressed": 61780,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-23T13:12:49.8613418+00:00",
+      "NumProgressed": 61784,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3550,9 +3555,9 @@
       "ID": "CHALLENGES_1",
       "SetID": "4eo5ebm",
       "Name": "Protector of Gotham",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 371
     },
     {
       "ID": "CLAYFACE_1",
@@ -3943,13 +3948,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61780,
+      "Progressed": 61784,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32060,
+      "Progressed": 32064,
       "Completed": 2640
     }
   ],
@@ -3957,8 +3962,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-23T10:59:30.5532103+00:00",
-  "LastChanged_Achievements": "2023-05-23T12:06:17.5715719+00:00",
+  "LastChanged_Achievements": "2023-05-23T13:12:49.8613412+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-23T12:00:03.3179714+00:00",
-  "LastUpdate_Achievements": "2023-05-23T12:06:17.5716485+00:00"
+  "LastUpdate_Ratings": "2023-05-23T13:05:58.6234766+00:00",
+  "LastUpdate_Achievements": "2023-05-23T13:12:49.8614268+00:00"
 }

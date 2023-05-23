@@ -23,20 +23,20 @@ Rating: 3.40 (Ranked 925)
 | Grounded | 24.00% | ~385 |
 | Bad Wiring | 21.00% | ~337 |
 | I Spit On Your Grave | 20.00% | ~321 |
+| Radio Silence | 16.00% | ~257 |
 | Neighborhood Revitalization | 15.00% | ~241 |
-| Radio Silence | 15.00% | ~241 |
 | Helping Hand | 12.00% | ~192 |
 | You Clean It Up | 11.00% | ~176 |
 | Starve the Beast | 9.00% | ~144 |
 | Block Party | 8.00% | ~128 |
 | From the Shadows | 5.00% | ~80 |
+| Right This Way | 4.00% | ~64 |
 | Nice Try | 4.00% | ~64 |
 | Enemy of My Enemy | 4.00% | ~64 |
 | Revelations | 3.00% | ~48 |
 | Bell-ringer | 3.00% | ~48 |
 | Silence Is Golden | 3.00% | ~48 |
 | Check, Please! | 3.00% | ~48 |
-| Right This Way | 3.00% | ~48 |
 | Blacklight Down | 3.00% | ~48 |
 | Contingency Plans | 2.00% | ~32 |
 | Scream Team | 2.00% | ~32 |
@@ -57,8 +57,8 @@ Rating: 3.40 (Ranked 925)
 | Sisterhood | 0.70% | ~11 |
 | What Lies Below | 0.70% | ~11 |
 | So Anyway I Started Blasting | 0.70% | ~11 |
+| Someplace to Be | 0.40% | ~6 |
 | Good Samaritan | 0.40% | ~6 |
-| Someplace to Be | 0.30% | ~5 |
 | Rum Runner | 0.20% | ~3 |
 | Bob’s Final Hour | 0.20% | ~3 |
 | A Cry in the Dark | 0.10% | ~2 |

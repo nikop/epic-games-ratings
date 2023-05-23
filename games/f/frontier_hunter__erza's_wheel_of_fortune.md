@@ -2,7 +2,7 @@
 [Store](https://store.epicgames.com/en-US/p/frontier-hunter-erzas-wheel-of-fortune)  
 [View Rawdata](../../db/f/frontier_hunter__erza's_wheel_of_fortune.json)  
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 391)  
+Progressed: 1 (Ranked 392)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |

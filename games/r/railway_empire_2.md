@@ -39,13 +39,13 @@
 | A new Hope | 10.00% | ~1 |
 | Unstoppable | 10.00% | ~1 |
 | Track to the Future | 10.00% | ~1 |
+| Conductor | 10.00% | ~1 |
 | Traffic Jam | 10.00% | ~1 |
 | Hostile Takeover | 10.00% | ~1 |
 | Assimilated | 10.00% | ~1 |
 | Locusts | 10.00% | ~1 |
 | Mole | 10.00% | ~1 |
 | Networker | 10.00% | ~1 |
-| Conductor | 0.00% | ~0 |
 | Engineer | 0.00% | ~0 |
 | European Union | 0.00% | ~0 |
 | Tycoon | 0.00% | ~0 |

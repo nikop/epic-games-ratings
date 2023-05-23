@@ -159,9 +159,9 @@
       "ID": "Opulent",
       "SetID": "4nce15l",
       "Name": "Opulent",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Overpowered",
@@ -191,9 +191,9 @@
       "ID": "SideJob",
       "SetID": "4nce15l",
       "Name": "Side Job",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "Sparkly",
@@ -232,8 +232,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-05-23T12:05:49.1744815+00:00",
+  "LastChanged_Achievements": "2023-05-23T13:12:21.1078401+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:17.5684094+00:00",
-  "LastUpdate_Ratings": "2023-05-23T11:59:16.2834434+00:00",
-  "LastUpdate_Achievements": "2023-05-23T12:05:49.1744976+00:00"
+  "LastUpdate_Ratings": "2023-05-23T13:05:11.7557704+00:00",
+  "LastUpdate_Achievements": "2023-05-23T13:12:21.1078575+00:00"
 }

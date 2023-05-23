@@ -29,9 +29,9 @@
 | Trio | 5.00% | ~16 |
 | Spell Master | 4.00% | ~12 |
 | Arrive Home | 3.00% | ~9 |
+| Holy Knight | 3.00% | ~9 |
 | Hoarder | 3.00% | ~9 |
 | Meat Lover | 3.00% | ~9 |
-| Holy Knight | 2.00% | ~6 |
 | Marksman | 2.00% | ~6 |
 | Sling of David | 2.00% | ~6 |
 | Sword Master | 2.00% | ~6 |
