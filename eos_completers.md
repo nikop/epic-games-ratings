@@ -19,16 +19,16 @@
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.12% |
 | 18 | [Time Loader](games/t/time_loader.md) | 8.00% |
 | 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.90% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.80% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.78% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
-| 22 | [Scorn](games/s/scorn.md) | 6.90% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 6.80% |
+| 22 | [Scorn](games/s/scorn.md) | 6.89% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 6.79% |
 | 24 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 25 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
 | 27 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.53% |
 | 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.45% |
-| 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 4.96% |
+| 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 4.95% |
 | 30 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.88% |
 | 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.87% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
@@ -48,7 +48,7 @@
 | 46 | [HordeCore](games/h/hordecore.md) | 3.01% |
 | 47 | [MultiVersus](games/m/multiversus.md) | 2.95% |
 | 48 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.90% |
-| 49 | [Destiny 2](games/d/destiny_2.md) | 2.89% |
+| 48 | [Destiny 2](games/d/destiny_2.md) | 2.90% |
 | 50 | [Lamentum](games/l/lamentum.md) | 2.87% |
 | 51 | [Bunny Park](games/b/bunny_park.md) | 2.85% |
 | 52 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
@@ -60,7 +60,7 @@
 | 58 | [JARS](games/j/jars.md) | 2.38% |
 | 59 | [Iron Danger](games/i/iron_danger.md) | 2.33% |
 | 60 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.17% |
-| 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.14% |
+| 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.13% |
 | 62 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.12% |
 | 63 | [Bloodshore](games/b/bloodshore.md) | 2.03% |
 | 64 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -239,6 +239,7 @@
 | 202 | [Cities: Skylines](games/c/cities__skylines.md) | 0.00% |
 | 202 | [City of Gangsters](games/c/city_of_gangsters.md) | 0.00% |
 | 202 | [Colossal Cave](games/c/colossal_cave.md) | 0.00% |
+| 202 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.00% |
 | 202 | [Crayta](games/c/crayta.md) | 0.00% |
 | 202 | [Crimson Spires](games/c/crimson_spires.md) | 0.00% |
 | 202 | [Crying Suns](games/c/crying_suns.md) | 0.00% |
