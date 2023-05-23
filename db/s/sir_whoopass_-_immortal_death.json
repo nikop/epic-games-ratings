@@ -4,7 +4,7 @@
   "ProductSlug": "sir-whoopass-757c5c",
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
@@ -236,9 +236,9 @@
       "ID": "BILLY_BOB_1",
       "SetID": "9gfkh7c",
       "Name": "You are no match for me, Billy!",
-      "Percentage": 31,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "BILLY_GOAT_1",
@@ -260,9 +260,9 @@
       "ID": "CHEESE_2",
       "SetID": "9gfkh7c",
       "Name": "Oh, you\u0027re up to no gouda!",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "CHEESE_3",
@@ -292,9 +292,9 @@
       "ID": "CLOWN_1",
       "SetID": "9gfkh7c",
       "Name": "Honk honk!",
-      "Percentage": 43,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "COMPLETE_DUNGEONRUINSSMALL_01",
@@ -388,9 +388,9 @@
       "ID": "COMPLETE_DUNGEONRUINS_01",
       "SetID": "9gfkh7c",
       "Name": "Ancient Ruins of Stubbed Toes",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "COMPLETE_DUNGEONRUINS_02",
@@ -476,9 +476,9 @@
       "ID": "ENEMIES_1",
       "SetID": "9gfkh7c",
       "Name": "Butcher",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ENEMIES_2",
@@ -540,9 +540,9 @@
       "ID": "GLASSES_1",
       "SetID": "9gfkh7c",
       "Name": "Deal with it",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "GLASSES_2",
@@ -564,9 +564,9 @@
       "ID": "GNOME_2",
       "SetID": "9gfkh7c",
       "Name": "Your daily dose of Vitamin C.",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "GNOME_3",
@@ -620,9 +620,9 @@
       "ID": "ITEM_1",
       "SetID": "9gfkh7c",
       "Name": "Ripe Meat Off The Bone!",
-      "Percentage": 18,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "ITEM_2",
@@ -684,9 +684,9 @@
       "ID": "KNIGHT_1",
       "SetID": "9gfkh7c",
       "Name": "You can\u0027t stop me, bro!",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "LEVELUP_1",
@@ -740,9 +740,9 @@
       "ID": "MOUNT_1",
       "SetID": "9gfkh7c",
       "Name": "Hovering around",
-      "Percentage": 20,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ORC_HIPSTER_1",
@@ -860,9 +860,9 @@
       "ID": "WHOOPASS_1",
       "SetID": "9gfkh7c",
       "Name": "Pasta Bolognese",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "WORM_1",
@@ -883,8 +883,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-05-23T04:05:48.3309088+00:00",
+  "LastChanged_Achievements": "2023-05-23T05:06:01.1029982+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:56:59.9162402+00:00",
-  "LastUpdate_Ratings": "2023-05-23T03:57:30.3218172+00:00",
-  "LastUpdate_Achievements": "2023-05-23T04:05:48.3309811+00:00"
+  "LastUpdate_Ratings": "2023-05-23T04:57:05.2865177+00:00",
+  "LastUpdate_Achievements": "2023-05-23T05:06:01.1031156+00:00"
 }

@@ -1110,10 +1110,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 3696,
       "NumberOfAwardsMax": 2229
+    },
+    {
+      "Time": "2023-05-23T04:59:43.0195834+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 3698,
+      "NumberOfAwardsMax": 2229
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3696,
+  "NumberOfAwards": 3698,
   "NumberOfAwardsMax": 2229,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1133,7 +1139,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 183
+      "Count": 184
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1151,7 +1157,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 180
+      "Count": 181
     },
     {
       "Text": "This game is Relaxing",
@@ -1178,9 +1184,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61752,
+  "EOS_Progressed": 61757,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 846,
+  "EOS_NewPlayers": 850,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3393,6 +3399,11 @@
       "Time": "2023-05-23T04:06:13.7740671+00:00",
       "NumProgressed": 61752,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-23T05:06:30.1581488+00:00",
+      "NumProgressed": 61757,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3490,9 +3501,9 @@
       "ID": "APPLY_STATUS",
       "SetID": "4eo5ebm",
       "Name": "In Your Element",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 309
     },
     {
       "ID": "CHALLENGES_1",
@@ -3858,9 +3869,9 @@
       "ID": "SECRET_CACHE",
       "SetID": "4eo5ebm",
       "Name": "Gotham City Confidential",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 247
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -3891,22 +3902,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61752,
+      "Progressed": 61757,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32032,
+      "Progressed": 32037,
       "Completed": 2640
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-05-22T21:00:24.3139571+00:00",
-  "LastChanged_Achievements": "2023-05-23T04:06:13.7740667+00:00",
+  "LastChanged": "2023-05-23T04:59:43.0195832+00:00",
+  "LastChanged_Achievements": "2023-05-23T05:06:30.1581482+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-23T03:59:41.3112642+00:00",
-  "LastUpdate_Achievements": "2023-05-23T04:06:13.7741243+00:00"
+  "LastUpdate_Ratings": "2023-05-23T04:59:43.0195838+00:00",
+  "LastUpdate_Achievements": "2023-05-23T05:06:30.1582305+00:00"
 }

@@ -315,7 +315,7 @@
   "Tags": [],
   "EOS_Progressed": 6414,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -1238,9 +1238,9 @@
       "ID": "AK_SEEKERS_FOUND",
       "SetID": "dfmb89",
       "Name": "Seekers Found",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 2566
+      "UsersEstimate": 2630
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -1326,8 +1326,8 @@
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-05-23T04:05:49.87246+00:00",
+  "LastChanged_Achievements": "2023-05-23T05:06:02.999617+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:58.1571519+00:00",
-  "LastUpdate_Ratings": "2023-05-23T03:57:43.371732+00:00",
-  "LastUpdate_Achievements": "2023-05-23T04:05:49.8724781+00:00"
+  "LastUpdate_Ratings": "2023-05-23T04:57:20.9054322+00:00",
+  "LastUpdate_Achievements": "2023-05-23T05:06:02.9996454+00:00"
 }

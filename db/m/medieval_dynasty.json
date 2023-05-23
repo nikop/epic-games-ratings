@@ -3,7 +3,7 @@
   "Name": "Medieval Dynasty",
   "ProductSlug": "medieval-dynasty",
   "Ranking_Rating": 272,
-  "Ranking_Popularity": 392,
+  "Ranking_Popularity": 391,
   "Ranking_PopularitySum": 307,
   "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 201,
@@ -867,11 +867,17 @@
       "Rating": 4.66,
       "NumberOfAwards": 386,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-05-23T04:57:21.7276311+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 387,
+      "NumberOfAwardsMax": 49
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 386,
-  "NumberOfAwardsMax": 48,
+  "NumberOfAwards": 387,
+  "NumberOfAwardsMax": 49,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
     {
@@ -884,7 +890,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 48
+      "Count": 49
     },
     {
       "Text": "This game is Relaxing",
@@ -964,8 +970,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:29.0491506+00:00",
-  "LastChanged": "2023-05-20T02:57:10.3820758+00:00",
+  "LastChanged": "2023-05-23T04:57:21.7276309+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:58.5836569+00:00",
-  "LastUpdate_Ratings": "2023-05-23T03:57:43.9967283+00:00",
-  "LastUpdate_Achievements": "2023-05-23T04:04:39.7717465+00:00"
+  "LastUpdate_Ratings": "2023-05-23T04:57:21.7276316+00:00",
+  "LastUpdate_Achievements": "2023-05-23T05:04:36.3761977+00:00"
 }

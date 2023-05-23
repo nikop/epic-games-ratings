@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -270,9 +270,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 635,
+  "EOS_Progressed": 636,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -450,6 +450,11 @@
       "Time": "2023-05-22T22:00:05.9409271+00:00",
       "NumProgressed": 635,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-23T05:02:13.3237697+00:00",
+      "NumProgressed": 636,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -515,9 +520,9 @@
       "ID": "ACH_BEST_THING_MONEY_CAN_BUY",
       "SetID": "108h92c",
       "Name": "The best thing money can buy",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_BING_BANG_BOOM",
@@ -539,9 +544,9 @@
       "ID": "ACH_BREATHE_IN_BREATHE_OUT",
       "SetID": "108h92c",
       "Name": "Breathe In\u2026 Breathe Out\u2026",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 458
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -613,7 +618,7 @@
       "Name": "I can fix it!",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -629,7 +634,7 @@
       "Name": "No Ni\u00F1os",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_POST_NO_BILLS",
@@ -669,14 +674,14 @@
       "Name": "Truly Shocking!",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 635,
+      "Progressed": 636,
       "Completed": 0
     }
   ],
@@ -684,8 +689,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-05-13T23:57:28.1464548+00:00",
-  "LastChanged_Achievements": "2023-05-23T04:00:45.4349082+00:00",
+  "LastChanged_Achievements": "2023-05-23T05:02:13.3237693+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:01.7624708+00:00",
-  "LastUpdate_Ratings": "2023-05-23T03:57:46.7151748+00:00",
-  "LastUpdate_Achievements": "2023-05-23T04:00:45.4349291+00:00"
+  "LastUpdate_Ratings": "2023-05-23T04:57:25.2661014+00:00",
+  "LastUpdate_Achievements": "2023-05-23T05:02:13.3237882+00:00"
 }

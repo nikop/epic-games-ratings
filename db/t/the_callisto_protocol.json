@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 341,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 65,
+  "Ranking_EOS_NewPlayers": 64,
   "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -416,9 +416,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 13360,
+  "EOS_Progressed": 13362,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 796,
+  "EOS_NewPlayers": 798,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1246,6 +1246,11 @@
       "Time": "2023-05-23T04:03:38.750981+00:00",
       "NumProgressed": 13360,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-05-23T05:03:22.4502137+00:00",
+      "NumProgressed": 13362,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 40,
@@ -1529,7 +1534,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -1537,7 +1542,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -1576,13 +1581,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13360,
+      "Progressed": 13362,
       "Completed": 52
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1286,
+      "Progressed": 1288,
       "Completed": 29
     }
   ],
@@ -1590,8 +1595,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-22T19:57:44.0247925+00:00",
-  "LastChanged_Achievements": "2023-05-23T04:03:38.7509804+00:00",
+  "LastChanged_Achievements": "2023-05-23T05:03:22.4502131+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-23T03:58:03.8230272+00:00",
-  "LastUpdate_Achievements": "2023-05-23T04:03:38.7510095+00:00"
+  "LastUpdate_Ratings": "2023-05-23T04:57:46.0752149+00:00",
+  "LastUpdate_Achievements": "2023-05-23T05:03:22.4502526+00:00"
 }

@@ -162,9 +162,9 @@
       "ID": "DD_complete",
       "SetID": "3b8n56h",
       "Name": "The Bodyguard",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "GL_complete",
@@ -290,9 +290,9 @@
       "ID": "MasterTravelerQuestlineThird",
       "SetID": "3b8n56h",
       "Name": "Traveler Mastery",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MasterWardenQuestlineFirst",
@@ -491,8 +491,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-05-23T04:05:46.4217833+00:00",
+  "LastChanged_Achievements": "2023-05-23T05:05:58.8416601+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.9763289+00:00",
-  "LastUpdate_Ratings": "2023-05-23T03:57:35.4974397+00:00",
-  "LastUpdate_Achievements": "2023-05-23T04:05:46.4218242+00:00"
+  "LastUpdate_Ratings": "2023-05-23T04:57:11.2225354+00:00",
+  "LastUpdate_Achievements": "2023-05-23T05:05:58.8416957+00:00"
 }

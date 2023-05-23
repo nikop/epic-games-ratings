@@ -249,9 +249,9 @@
       "ID": "ACH_MasterOfTheArts",
       "SetID": "1od64h3",
       "Name": "Master Of The Arts",
-      "Percentage": 57,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_OneHandTied",
@@ -335,8 +335,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:45:02.2220313+00:00",
-  "LastChanged_Achievements": "2023-05-23T04:04:22.0560141+00:00",
+  "LastChanged_Achievements": "2023-05-23T05:04:14.5338439+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.217347+00:00",
-  "LastUpdate_Ratings": "2023-05-23T03:57:34.9683762+00:00",
-  "LastUpdate_Achievements": "2023-05-23T04:04:22.0560294+00:00"
+  "LastUpdate_Ratings": "2023-05-23T04:57:10.6721675+00:00",
+  "LastUpdate_Achievements": "2023-05-23T05:04:14.5338655+00:00"
 }

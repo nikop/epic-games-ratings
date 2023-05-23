@@ -537,9 +537,9 @@
       "ID": "MQ03_3",
       "SetID": "bbing49",
       "Name": "History Check",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 101
+      "UsersEstimate": 103
     },
     {
       "ID": "MQ03_4",
@@ -706,8 +706,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-23T04:03:16.841385+00:00",
+  "LastChanged_Achievements": "2023-05-23T05:02:25.5833182+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.473335+00:00",
-  "LastUpdate_Ratings": "2023-05-23T03:57:35.7575568+00:00",
-  "LastUpdate_Achievements": "2023-05-23T04:03:16.8414031+00:00"
+  "LastUpdate_Ratings": "2023-05-23T04:57:11.5337589+00:00",
+  "LastUpdate_Achievements": "2023-05-23T05:02:25.5833449+00:00"
 }

@@ -2208,9 +2208,9 @@
       "ID": "ebonyjungleliberator",
       "SetID": "3nl4bcg",
       "Name": "Ebony Jungle Liberator",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "enchantingskill",
@@ -2689,8 +2689,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-22T20:58:10.5460951+00:00",
-  "LastChanged_Achievements": "2023-05-23T04:05:56.667761+00:00",
+  "LastChanged_Achievements": "2023-05-23T05:06:10.4392085+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:34.8363446+00:00",
-  "LastUpdate_Ratings": "2023-05-23T03:58:10.9523656+00:00",
-  "LastUpdate_Achievements": "2023-05-23T04:05:56.667864+00:00"
+  "LastUpdate_Ratings": "2023-05-23T04:57:54.7389262+00:00",
+  "LastUpdate_Achievements": "2023-05-23T05:06:10.4393048+00:00"
 }

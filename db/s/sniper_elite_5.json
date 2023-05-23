@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1241,
+  "EOS_Progressed": 1245,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 519,
+  "EOS_NewPlayers": 523,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1093,6 +1093,11 @@
       "Time": "2023-05-23T03:04:47.7999018+00:00",
       "NumProgressed": 1241,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-23T05:05:59.6608686+00:00",
+      "NumProgressed": 1245,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1254,9 +1259,9 @@
       "ID": "REWARD_28_AMBUSH_KING",
       "SetID": "bm6el81",
       "Name": "Set Europe Ablaze",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -1302,9 +1307,9 @@
       "ID": "REWARD_34_TRIPLE_KILL",
       "SetID": "bm6el81",
       "Name": "Explosive Efficiency",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 37
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -1326,17 +1331,17 @@
       "ID": "REWARD_37_RESOURCEFUL",
       "SetID": "bm6el81",
       "Name": "Resourceful",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 50
     },
     {
       "ID": "REWARD_38_DER_GEIST",
       "SetID": "bm6el81",
       "Name": "Der Geist",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -1352,7 +1357,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -1671,13 +1676,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1192,
+      "Progressed": 1196,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1241,
+      "Progressed": 1245,
       "Completed": 2
     }
   ],
@@ -1685,8 +1690,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-22T16:01:02.9174493+00:00",
-  "LastChanged_Achievements": "2023-05-23T04:05:47.1343745+00:00",
+  "LastChanged_Achievements": "2023-05-23T05:05:59.6608681+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-23T04:00:21.4790841+00:00",
-  "LastUpdate_Achievements": "2023-05-23T04:05:47.1344303+00:00"
+  "LastUpdate_Ratings": "2023-05-23T05:00:32.3038168+00:00",
+  "LastUpdate_Achievements": "2023-05-23T05:05:59.6609524+00:00"
 }

@@ -159,9 +159,9 @@
       "ID": "COLLECT_20_EVIDENCE",
       "SetID": "2lk004m",
       "Name": "Small-time Finder",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "DIE_1_TIME",
@@ -302,8 +302,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-05-23T04:05:57.6515077+00:00",
+  "LastChanged_Achievements": "2023-05-23T05:06:11.652414+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:32.2683704+00:00",
-  "LastUpdate_Ratings": "2023-05-23T03:59:14.3906772+00:00",
-  "LastUpdate_Achievements": "2023-05-23T04:05:57.6515208+00:00"
+  "LastUpdate_Ratings": "2023-05-23T04:59:11.8587666+00:00",
+  "LastUpdate_Achievements": "2023-05-23T05:06:11.6524354+00:00"
 }

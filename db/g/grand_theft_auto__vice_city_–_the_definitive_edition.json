@@ -4,7 +4,7 @@
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 272,
   "Ranking_Popularity": 419,
-  "Ranking_PopularitySum": 446,
+  "Ranking_PopularitySum": 447,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 120,
   "Ranking_EOS_NewPlayers": 86,
@@ -328,9 +328,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 6636,
+  "EOS_Progressed": 6639,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 473,
+  "EOS_NewPlayers": 475,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2053,6 +2053,11 @@
       "Time": "2023-05-23T04:05:43.6925406+00:00",
       "NumProgressed": 6636,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-23T05:05:55.5385741+00:00",
+      "NumProgressed": 6639,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 34,
@@ -2080,7 +2085,7 @@
       "Name": "Iron-y",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "ACH04",
@@ -2088,7 +2093,7 @@
       "Name": "Not my First Time",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACH05",
@@ -2144,7 +2149,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "ACH12",
@@ -2168,7 +2173,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2588
+      "UsersEstimate": 2589
     },
     {
       "ID": "ACH15",
@@ -2224,7 +2229,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2853
+      "UsersEstimate": 2855
     },
     {
       "ID": "ACH22",
@@ -2232,7 +2237,7 @@
       "Name": "Life of the Party",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1129
     },
     {
       "ID": "ACH23",
@@ -2240,7 +2245,7 @@
       "Name": "South American Connection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1526
+      "UsersEstimate": 1527
     },
     {
       "ID": "ACH24",
@@ -2248,7 +2253,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "ACH25",
@@ -2256,7 +2261,7 @@
       "Name": "Chauffeur",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "ACH26",
@@ -2272,7 +2277,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACH28",
@@ -2335,7 +2340,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6636,
+      "Progressed": 6639,
       "Completed": 22
     }
   ],
@@ -2343,8 +2348,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-22T06:58:02.1273389+00:00",
-  "LastChanged_Achievements": "2023-05-23T04:05:43.6925402+00:00",
+  "LastChanged_Achievements": "2023-05-23T05:05:55.5385736+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:49.9519997+00:00",
-  "LastUpdate_Ratings": "2023-05-23T03:58:27.3534445+00:00",
-  "LastUpdate_Achievements": "2023-05-23T04:05:43.6925719+00:00"
+  "LastUpdate_Ratings": "2023-05-23T04:58:12.9807603+00:00",
+  "LastUpdate_Achievements": "2023-05-23T05:05:55.5386165+00:00"
 }

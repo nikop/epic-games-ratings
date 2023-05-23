@@ -790,9 +790,9 @@
       "ID": "Kill25Mozi",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Mozis",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 619
+      "UsersEstimate": 634
     },
     {
       "ID": "MeetTheMoles",
@@ -869,8 +869,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-04-02T20:59:05.8070796+00:00",
-  "LastChanged_Achievements": "2023-05-23T04:00:28.9006305+00:00",
+  "LastChanged_Achievements": "2023-05-23T05:00:43.7413826+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3670256+00:00",
-  "LastUpdate_Ratings": "2023-05-23T03:58:32.2088029+00:00",
-  "LastUpdate_Achievements": "2023-05-23T04:00:28.9006655+00:00"
+  "LastUpdate_Ratings": "2023-05-23T04:58:19.3276931+00:00",
+  "LastUpdate_Achievements": "2023-05-23T05:00:43.7414179+00:00"
 }

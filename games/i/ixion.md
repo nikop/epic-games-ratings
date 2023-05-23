@@ -23,11 +23,11 @@ Rating: 4.55 (Ranked 467)
 | Exceeding Capacity | 1.00% | ~21 |
 | Power Outage | 1.00% | ~21 |
 | Access Granted | 1.00% | ~21 |
+| Necessary Enhancement | 1.00% | ~21 |
 | Convenient Transport | 1.00% | ~21 |
 | Please Make it Stop! | 1.00% | ~21 |
 | From the Past | 1.00% | ~21 |
 | Sightseeing | 0.90% | ~19 |
-| Necessary Enhancement | 0.90% | ~19 |
 | Man's Best Friend | 0.80% | ~17 |
 | In Dolos We Trust | 0.70% | ~15 |
 | BRAWL! | 0.70% | ~15 |

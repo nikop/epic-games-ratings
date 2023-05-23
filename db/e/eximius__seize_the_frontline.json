@@ -234,9 +234,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 185914,
+  "EOS_Progressed": 185919,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1093,
+  "EOS_NewPlayers": 1095,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3404,6 +3404,11 @@
       "Time": "2023-05-23T04:05:55.2664587+00:00",
       "NumProgressed": 185914,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-23T05:06:08.784549+00:00",
+      "NumProgressed": 185919,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -3415,7 +3420,7 @@
       "Name": "Battlesuit Victory",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 14873
+      "UsersEstimate": 14874
     },
     {
       "ID": "ACH_COMPLETE_TUTORIAL",
@@ -3423,7 +3428,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 131999
+      "UsersEstimate": 132002
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -3439,7 +3444,7 @@
       "Name": "Gated Community",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 5577
+      "UsersEstimate": 5578
     },
     {
       "ID": "ACH_INITIATION",
@@ -3542,7 +3547,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 185914,
+      "Progressed": 185919,
       "Completed": 4
     }
   ],
@@ -3550,8 +3555,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-05-15T19:58:59.1456321+00:00",
-  "LastChanged_Achievements": "2023-05-23T04:05:55.2664579+00:00",
+  "LastChanged_Achievements": "2023-05-23T05:06:08.7845485+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:05:12.9175208+00:00",
-  "LastUpdate_Ratings": "2023-05-23T03:59:40.792825+00:00",
-  "LastUpdate_Achievements": "2023-05-23T04:05:55.2664835+00:00"
+  "LastUpdate_Ratings": "2023-05-23T04:59:42.3386289+00:00",
+  "LastUpdate_Achievements": "2023-05-23T05:06:08.7845907+00:00"
 }

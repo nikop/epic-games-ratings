@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adventure Time | 90.00% | ~19 |
-| Master Of The Arts | 57.00% | ~12 |
+| Master Of The Arts | 62.00% | ~13 |
 | Close Call | 24.00% | ~5 |
 | Adept Summoner | 0.00% | ~0 |
 | Apprentice Summoner | 0.00% | ~0 |

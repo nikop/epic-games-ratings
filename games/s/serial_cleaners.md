@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Small-time Finder | 4.00% | ~7 |
 | So it goes | 4.00% | ~7 |
-| Small-time Finder | 3.00% | ~5 |
 | Business as usual | 3.00% | ~5 |
 | Clean Conscience | 3.00% | ~5 |
 | Off to a Good Start | 2.00% | ~3 |

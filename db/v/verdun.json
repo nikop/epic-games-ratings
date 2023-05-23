@@ -1508,9 +1508,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 44732,
+  "EOS_Progressed": 44733,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 911,
+  "EOS_NewPlayers": 909,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4653,6 +4653,11 @@
       "Time": "2023-05-23T04:05:49.7908138+00:00",
       "NumProgressed": 44732,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-23T05:06:02.8094819+00:00",
+      "NumProgressed": 44733,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 59,
@@ -4920,7 +4925,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 14314
+      "UsersEstimate": 14315
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -4952,7 +4957,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 28181
+      "UsersEstimate": 28182
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -5128,22 +5133,22 @@
       "Name": "Blast fishing",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 16998
+      "UsersEstimate": 16999
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 44732,
+      "Progressed": 44733,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-05-21T07:58:11.4562192+00:00",
-  "LastChanged_Achievements": "2023-05-23T04:05:49.7908134+00:00",
+  "LastChanged_Achievements": "2023-05-23T05:06:02.8094815+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:55.5070902+00:00",
-  "LastUpdate_Ratings": "2023-05-23T03:58:30.588808+00:00",
-  "LastUpdate_Achievements": "2023-05-23T04:05:49.7908691+00:00"
+  "LastUpdate_Ratings": "2023-05-23T04:58:17.3304302+00:00",
+  "LastUpdate_Achievements": "2023-05-23T05:06:02.8095637+00:00"
 }

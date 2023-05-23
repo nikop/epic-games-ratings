@@ -59,7 +59,7 @@ Rating: 3.79 (Ranked 912)
 | Active Member | 0.90% | ~10 |
 | Crystal Mining | 0.80% | ~9 |
 | The Alchemist | 0.80% | ~9 |
-| Ebony Jungle Liberator | 0.60% | ~7 |
+| Ebony Jungle Liberator | 0.70% | ~8 |
 | Legendary | 0.60% | ~7 |
 | Transmute | 0.60% | ~7 |
 | Tree of Life | 0.60% | ~7 |

@@ -22,6 +22,7 @@ Rating: 4.17 (Ranked 836)
 | Lock and Key | 0.60% | ~371 |
 | Bad Apples in Every Orchard | 0.60% | ~371 |
 | End of an Era | 0.50% | ~309 |
+| In Your Element | 0.50% | ~309 |
 | Protector of Gotham | 0.50% | ~309 |
 | Rock and a Hard Place | 0.50% | ~309 |
 | Shock Til They Drop | 0.50% | ~309 |
@@ -31,14 +32,13 @@ Rating: 4.17 (Ranked 836)
 | Voiceless | 0.50% | ~309 |
 | Seeking Asylum | 0.50% | ~309 |
 | Gotham Knight | 0.50% | ~309 |
-| In Your Element | 0.40% | ~247 |
 | Not On My Watch | 0.40% | ~247 |
 | Bulldozed | 0.40% | ~247 |
 | Out of Their League | 0.40% | ~247 |
 | Drone You Out | 0.40% | ~247 |
+| Gotham City Confidential | 0.40% | ~247 |
 | Fusion Expert | 0.30% | ~185 |
 | Family Meeting | 0.30% | ~185 |
-| Gotham City Confidential | 0.30% | ~185 |
 | Solid Alibi | 0.30% | ~185 |
 | Hammer and Icicle | 0.20% | ~64 |
 | Dressed to Impress | 0.20% | ~124 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 836)
 | Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,752 (Ranked 68)  
+Progressed: 61,757 (Ranked 68)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,10 +100,10 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-20 | 61,416 | 91 |
 | 2023-05-21 | 61,589 | 91 |
 | 2023-05-22 | 61,724 | 91 |
-| 2023-05-23 | 61,752 | 91 |
+| 2023-05-23 | 61,757 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,229  (Ranked 98)  
-Sum: 3,696 (Ranked 137)  
+Sum: 3,698 (Ranked 137)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
@@ -111,9 +111,9 @@ Diff (max vs sum): -39
 | This game is Extremely Fun | 192 |
 | This game is Relaxing | 191 |
 | This game has Quickly Understood Controls | 189 |
-| This game has Amazing Characters | 183 |
+| This game has Amazing Characters | 184 |
+| This game is Highly Recommended | 181 |
 | This game has Diverse Characters | 181 |
-| This game is Highly Recommended | 180 |
 | This game has Amazing Storytelling | 177 |
 | This game is Great for Beginners | 174 |
 | This game is Great for Quick Sessions | 60 |
@@ -211,3 +211,4 @@ Diff (max vs sum): -39
 | 2023-05-20 | 4.17 | 2,227 | 3,689 |
 | 2023-05-21 | 4.17 | 2,227 | 3,690 |
 | 2023-05-22 | 4.17 | 2,229 | 3,696 |
+| 2023-05-23 | 4.17 | 2,229 | 3,698 |

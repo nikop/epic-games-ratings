@@ -6,38 +6,38 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 12.00% | ~4,024 |
-| To The Nines | 10.00% | ~3,354 |
-| Optimized | 8.00% | ~2,683 |
-| Performance Review | 8.00% | ~2,683 |
-| The Side Job | 7.00% | ~2,348 |
-| Wet Work | 7.00% | ~2,348 |
-| Tune Up | 7.00% | ~2,348 |
-| Making a Name | 7.00% | ~2,348 |
-| Landlord | 6.00% | ~2,012 |
-| Food for Thought | 6.00% | ~2,012 |
-| Wrecking Ball | 5.00% | ~1,677 |
-| Finders Keepers | 4.00% | ~1,341 |
-| A Young Empire | 4.00% | ~1,341 |
-| Work Ethic | 4.00% | ~1,341 |
-| Quality Time | 3.00% | ~1,006 |
-| Power Players | 3.00% | ~1,006 |
-| Et tu? | 3.00% | ~1,006 |
-| Took It to The Limit | 3.00% | ~1,006 |
-| Picking Fights | 3.00% | ~1,006 |
+| First F#@!ing Day | 12.00% | ~4,027 |
+| To The Nines | 10.00% | ~3,356 |
+| Optimized | 8.00% | ~2,685 |
+| Performance Review | 8.00% | ~2,685 |
+| The Side Job | 7.00% | ~2,349 |
+| Wet Work | 7.00% | ~2,349 |
+| Tune Up | 7.00% | ~2,349 |
+| Making a Name | 7.00% | ~2,349 |
+| Landlord | 6.00% | ~2,014 |
+| Food for Thought | 6.00% | ~2,014 |
+| Wrecking Ball | 5.00% | ~1,678 |
+| Finders Keepers | 4.00% | ~1,342 |
+| A Young Empire | 4.00% | ~1,342 |
+| Work Ethic | 4.00% | ~1,342 |
+| Quality Time | 3.00% | ~1,007 |
+| Showdown | 3.00% | ~1,007 |
+| Power Players | 3.00% | ~1,007 |
+| Et tu? | 3.00% | ~1,007 |
+| Took It to The Limit | 3.00% | ~1,007 |
+| Picking Fights | 3.00% | ~1,007 |
 | Hijacked | 2.00% | ~671 |
-| Showdown | 2.00% | ~671 |
 | The Spins | 2.00% | ~671 |
 | Masters of Santo Ileso | 2.00% | ~671 |
 | The Mechanic | 2.00% | ~671 |
 | Kitted Out | 2.00% | ~671 |
-| Producer Credit | 2.00% | ~103 |
-| We could go home, or… | 1.00% | ~335 |
-| Challenge Accepted | 1.00% | ~335 |
-| Untouchable | 1.00% | ~335 |
-| A Golden Age | 1.00% | ~335 |
-| Closet Space | 1.00% | ~335 |
-| Smooth Moves | 1.00% | ~335 |
+| Producer Credit | 2.00% | ~104 |
+| We could go home, or… | 1.00% | ~336 |
+| Challenge Accepted | 1.00% | ~336 |
+| Untouchable | 1.00% | ~336 |
+| A Golden Age | 1.00% | ~336 |
+| Closet Space | 1.00% | ~336 |
+| Smooth Moves | 1.00% | ~336 |
 | Face Off | 1.00% | ~52 |
 | Hazardous Heist | 1.00% | ~52 |
 | Free Refills | 0.90% | ~302 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Heard You Like Wheels | 0.10% | ~34 |
 | Fiesta Time | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,537 (Ranked 82)  
+Progressed: 33,560 (Ranked 82)  
 Completed: 20 (0.06%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 20 (0.06%) (Ranked 170)
 | 2023-05-20 | 31,752 | 19 |
 | 2023-05-21 | 32,742 | 20 |
 | 2023-05-22 | 33,412 | 20 |
-| 2023-05-23 | 33,537 | 20 |
+| 2023-05-23 | 33,560 | 20 |
 ## Awards
 Max (Extremely Fun): 1,029  (Ranked 133)  
 Sum: 8,352 (Ranked 88)  
