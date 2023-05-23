@@ -1,5 +1,8 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
+| [Miasma Chronicles](games/m/miasma_chronicles.md) | 2023-05-23 | 2023-05-23 |
+| [Planet of Lana](games/p/planet_of_lana.md) | 2023-05-23 | 2023-05-23 |
+| [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 2023-05-23 | 2023-05-23 |
 | [Cubzh](games/c/cubzh.md) | 2023-05-23 | 2021-10-24 |
 | [FutureGrind](games/8/80a76982ecc941dd864a8792a03a5ddc.md) | 2023-05-23 | 2019-01-22 |
 | [Knights of Cathena](games/8/8cc5b4b56c84428999f03f3e6ac49481.md) | 2023-05-23 | 2022-09-07 |
