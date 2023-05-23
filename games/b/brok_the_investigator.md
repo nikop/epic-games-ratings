@@ -9,13 +9,13 @@
 | Chapter 2 | 40.00% | ~4 |
 | Chapter 3 | 40.00% | ~4 |
 | Chapter 4 | 40.00% | ~4 |
+| Chapter 5 | 40.00% | ~4 |
 | All Materials | 40.00% | ~4 |
-| Chapter 5 | 30.00% | ~3 |
 | Your Days Are Numbered | 30.00% | ~3 |
 | It's In My Nature | 30.00% | ~3 |
+| Best Student | 20.00% | ~2 |
 | Chapter 6 | 20.00% | ~2 |
 | Ads Fan | 10.00% | ~1 |
-| Best Student | 10.00% | ~1 |
 | Highway Survival | 10.00% | ~1 |
 | Hard To Wake Up | 10.00% | ~1 |
 | Bear Cop | 0.00% | ~0 |

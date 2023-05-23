@@ -4,7 +4,7 @@
   "ProductSlug": "spaceman-defender-757ebf",
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-04-07T23:00:00+00:00",
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-04-26T20:59:28.1199817+00:00",
   "LastChanged": "2023-04-26T20:59:28.1199818+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:39.6411009+00:00",
-  "LastUpdate_Ratings": "2023-05-23T10:59:10.2474209+00:00",
-  "LastUpdate_Achievements": "2023-05-23T11:04:42.4025031+00:00"
+  "LastUpdate_Ratings": "2023-05-23T11:59:36.7399068+00:00",
+  "LastUpdate_Achievements": "2023-05-23T12:04:40.1386495+00:00"
 }

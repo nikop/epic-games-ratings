@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1256,
+  "EOS_Progressed": 1258,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 534,
+  "EOS_NewPlayers": 536,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1128,6 +1128,11 @@
       "Time": "2023-05-23T11:05:37.9803551+00:00",
       "NumProgressed": 1256,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-23T12:05:47.3400307+00:00",
+      "NumProgressed": 1258,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1161,9 +1166,9 @@
       "ID": "REWARD_13_OPTIONAL_TASK",
       "SetID": "bm6el81",
       "Name": "No Stone Unturned",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -1219,7 +1224,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1281,9 +1286,9 @@
       "ID": "REWARD_27_THE_LONG_GAME",
       "SetID": "bm6el81",
       "Name": "The Long Game",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -1449,9 +1454,9 @@
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
       "SetID": "bm6el81",
       "Name": "It\u0027s Starting to Crack",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 63
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -1465,9 +1470,9 @@
       "ID": "REWARD_56_SMOOTH_OPERATOR",
       "SetID": "bm6el81",
       "Name": "Locomotion Commotion",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "REWARD_5_BUNKER_BUSTER",
@@ -1481,9 +1486,9 @@
       "ID": "REWARD_64_KNIFE_ELITE",
       "SetID": "bm6el81",
       "Name": "Up close and personal",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
@@ -1569,9 +1574,9 @@
       "ID": "REWARD_DLC01_02_REICH_TO_THE_POINT",
       "SetID": "83mdf7p",
       "Name": "Reich To The Point",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "REWARD_DLC01_03_FROM_FUHRER_AWAY",
@@ -1706,13 +1711,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1207,
+      "Progressed": 1209,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1256,
+      "Progressed": 1258,
       "Completed": 2
     }
   ],
@@ -1720,8 +1725,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-22T16:01:02.9174493+00:00",
-  "LastChanged_Achievements": "2023-05-23T11:05:37.9803547+00:00",
+  "LastChanged_Achievements": "2023-05-23T12:05:47.3400299+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-23T11:00:10.3311865+00:00",
-  "LastUpdate_Achievements": "2023-05-23T11:05:37.9804133+00:00"
+  "LastUpdate_Ratings": "2023-05-23T12:00:52.3265664+00:00",
+  "LastUpdate_Achievements": "2023-05-23T12:05:47.3400992+00:00"
 }

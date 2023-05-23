@@ -11,9 +11,9 @@ Rating: 4.18 (Ranked 831)
 | Instigator | 4.00% | ~52 |
 | Big Game Hunter | 4.00% | ~52 |
 | Bear Trap | 3.00% | ~39 |
-| The Commonality | 2.00% | ~267 |
-| Float Like A Butterfly | 2.00% | ~267 |
-| Mugshot | 2.00% | ~267 |
+| The Commonality | 2.00% | ~268 |
+| Float Like A Butterfly | 2.00% | ~268 |
+| Mugshot | 2.00% | ~268 |
 | Big Spender | 2.00% | ~26 |
 | Parole Denied | 1.00% | ~13 |
 | Get a Grip | 1.00% | ~134 |
@@ -21,16 +21,16 @@ Rating: 4.18 (Ranked 831)
 | Lifer | 0.80% | ~10 |
 | Reforged | 0.80% | ~107 |
 | Recidivist | 0.70% | ~9 |
-| Workplace Hazard | 0.60% | ~80 |
+| Workplace Hazard | 0.70% | ~94 |
+| Terminated | 0.60% | ~80 |
 | In Striking Distance | 0.50% | ~67 |
-| Terminated | 0.50% | ~67 |
-| Two Heads Are Better Than One | 0.40% | ~53 |
-| Paper Jams | 0.40% | ~53 |
-| The Outer Way | 0.40% | ~53 |
+| Paper Jams | 0.50% | ~67 |
+| The Outer Way | 0.50% | ~67 |
+| Two Heads Are Better Than One | 0.40% | ~54 |
+| Desperate Times | 0.40% | ~54 |
 | Grim Reaper | 0.30% | ~40 |
 | I Do Belong Here | 0.30% | ~40 |
-| Desperate Times | 0.30% | ~40 |
-| If the SHU Fits... | 0.20% | ~27 |
+| If the SHU Fits... | 0.30% | ~40 |
 | Without A Paddle | 0.20% | ~27 |
 | It's over, Jacob! | 0.10% | ~13 |
 | Armed to the Teeth | 0.10% | ~1 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 831)
 | I am the Danger | 0.00% | ~0 |
 | Subject Alpha | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,373 (Ranked 101)  
+Progressed: 13,376 (Ranked 101)  
 Completed: 52 (0.39%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 52 (0.39%) (Ranked 112)
 | 2023-05-20 | 13,057 | 51 |
 | 2023-05-21 | 13,223 | 52 |
 | 2023-05-22 | 13,347 | 52 |
-| 2023-05-23 | 13,373 | 52 |
+| 2023-05-23 | 13,376 | 52 |
 ## Awards
 Max (Amazing Storytelling): 46  (Ranked 397)  
 Sum: 247 (Ranked 341)  

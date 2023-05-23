@@ -6,20 +6,20 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 12.00% | ~4,039 |
-| To The Nines | 10.00% | ~3,366 |
-| Optimized | 8.00% | ~2,693 |
-| Performance Review | 8.00% | ~2,693 |
-| The Side Job | 7.00% | ~2,356 |
-| Wet Work | 7.00% | ~2,356 |
-| Tune Up | 7.00% | ~2,356 |
-| Making a Name | 7.00% | ~2,356 |
-| Landlord | 6.00% | ~2,019 |
-| Food for Thought | 6.00% | ~2,019 |
-| Finders Keepers | 5.00% | ~1,683 |
-| A Young Empire | 5.00% | ~1,683 |
-| Wrecking Ball | 5.00% | ~1,683 |
-| Work Ethic | 4.00% | ~1,346 |
+| First F#@!ing Day | 12.00% | ~4,041 |
+| To The Nines | 10.00% | ~3,367 |
+| Optimized | 8.00% | ~2,694 |
+| Performance Review | 8.00% | ~2,694 |
+| The Side Job | 7.00% | ~2,357 |
+| Wet Work | 7.00% | ~2,357 |
+| Tune Up | 7.00% | ~2,357 |
+| Making a Name | 7.00% | ~2,357 |
+| Landlord | 6.00% | ~2,020 |
+| Food for Thought | 6.00% | ~2,020 |
+| Finders Keepers | 5.00% | ~1,684 |
+| A Young Empire | 5.00% | ~1,684 |
+| Wrecking Ball | 5.00% | ~1,684 |
+| Work Ethic | 4.00% | ~1,347 |
 | Quality Time | 3.00% | ~1,010 |
 | Showdown | 3.00% | ~1,010 |
 | Power Players | 3.00% | ~1,010 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Heard You Like Wheels | 0.10% | ~34 |
 | Fiesta Time | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,657 (Ranked 82)  
+Progressed: 33,674 (Ranked 82)  
 Completed: 20 (0.06%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 20 (0.06%) (Ranked 170)
 | 2023-05-20 | 31,752 | 19 |
 | 2023-05-21 | 32,742 | 20 |
 | 2023-05-22 | 33,412 | 20 |
-| 2023-05-23 | 33,657 | 20 |
+| 2023-05-23 | 33,674 | 20 |
 ## Awards
 Max (Extremely Fun): 1,029  (Ranked 133)  
 Sum: 8,352 (Ranked 88)  

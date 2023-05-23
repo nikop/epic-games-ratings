@@ -25,7 +25,7 @@ Number of Ratings: 706  (23.09.2022)
 | ...And Don’t Come Back! | 35.00% | ~941 |
 | Fit For A King | 34.00% | ~914 |
 | Heating Up | 23.00% | ~618 |
-| Winter Is Coming | 20.00% | ~538 |
+| Winter Is Coming | 21.00% | ~565 |
 | Winter Is Here | 18.00% | ~484 |
 | A Party Now | 16.00% | ~430 |
 | Oh Deer! | 16.00% | ~430 |

@@ -53,6 +53,7 @@ Number of Ratings: 177  (23.09.2022)
 | Notice Me, Sensei | 0.10% | ~5 |
 | Now It's a Party! | 0.10% | ~5 |
 | Rule 34 | 0.10% | ~5 |
+| Party Pooper | 0.10% | ~5 |
 | Rachael | 0.10% | ~5 |
 | Ronin | 0.10% | ~5 |
 | Do You Smell Blood? | 0.10% | ~5 |
@@ -70,13 +71,12 @@ Number of Ratings: 177  (23.09.2022)
 | D-Club Certified | 0.00% | ~0 |
 | Deck the Balls | 0.00% | ~0 |
 | Hungry Hungry Hot Tubs | 0.00% | ~0 |
-| Party Pooper | 0.00% | ~0 |
 | Sucker Punch | 0.00% | ~0 |
 | That's a Nice Bush! | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 | Derezzed | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,089 (Ranked 123)  
+Progressed: 5,091 (Ranked 123)  
 Completed: 2 (0.04%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 2 (0.04%) (Ranked 177)
 | 2023-05-20 | 5,039 | 2 |
 | 2023-05-21 | 5,068 | 2 |
 | 2023-05-22 | 5,084 | 2 |
-| 2023-05-23 | 5,089 | 2 |
+| 2023-05-23 | 5,091 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

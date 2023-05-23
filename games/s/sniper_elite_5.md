@@ -5,13 +5,13 @@ Rating: 4.34 (Ranked 730)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 15.00% | ~188 |
+| Meeting Resistance | 15.00% | ~189 |
 | Confirming Suspicions | 9.00% | ~113 |
 | The Kraken Wakes | 6.00% | ~75 |
+| It's Starting to Crack | 5.00% | ~63 |
 | Enemy at the Gates | 4.00% | ~50 |
 | Lord of War | 4.00% | ~50 |
 | Resourceful | 4.00% | ~50 |
-| It's Starting to Crack | 4.00% | ~50 |
 | Just a Flesh Wound | 3.00% | ~38 |
 | Organ Grinder | 3.00% | ~38 |
 | Explosive Efficiency | 3.00% | ~38 |
@@ -25,23 +25,23 @@ Rating: 4.34 (Ranked 730)
 | Gunslinger | 1.00% | ~13 |
 | Skirmisher | 1.00% | ~13 |
 | Sharpshooter | 1.00% | ~13 |
+| The Long Game | 1.00% | ~13 |
 | Der Geist | 1.00% | ~13 |
 | Close Quarters | 1.00% | ~13 |
 | Snake in the Grass | 1.00% | ~13 |
 | The Kraken Sleeps | 1.00% | ~13 |
 | Liberté | 0.90% | ~11 |
-| The Long Game | 0.90% | ~11 |
 | Precision Is Key | 0.90% | ~11 |
 | Set Europe Ablaze | 0.80% | ~10 |
 | Climbing the Ladder | 0.60% | ~8 |
 | Rigged to Blow | 0.60% | ~8 |
 | It'll Buff Right Out | 0.50% | ~6 |
 | Brains of the Operation | 0.50% | ~6 |
+| No Stone Unturned | 0.40% | ~5 |
 | My Little Friend | 0.40% | ~5 |
+| Locomotion Commotion | 0.40% | ~5 |
 | Operation Foxley | 0.40% | ~5 |
-| No Stone Unturned | 0.30% | ~4 |
 | Strategist | 0.30% | ~4 |
-| Locomotion Commotion | 0.30% | ~4 |
 | Shoot for the Moon | 0.30% | ~4 |
 | Herr Today, Gone Tomorrow | 0.30% | ~4 |
 | Last Resort | 0.30% | ~4 |
@@ -49,15 +49,15 @@ Rating: 4.34 (Ranked 730)
 | Sink or Swim | 0.30% | ~2 |
 | From Paris with Love | 0.20% | ~3 |
 | Souvenir hunter | 0.20% | ~3 |
+| Up close and personal | 0.20% | ~3 |
 | Don't hold your breath | 0.20% | ~3 |
+| Reich To The Point | 0.20% | ~2 |
 | Siegebreaker | 0.20% | ~2 |
 | Burn after reading | 0.10% | ~1 |
 | Eagle Eyed | 0.10% | ~1 |
 | Tinkerer | 0.10% | ~1 |
-| Up close and personal | 0.10% | ~1 |
 | Road Rage | 0.10% | ~1 |
 | Führerious Repetition | 0.10% | ~1 |
-| Reich To The Point | 0.10% | ~1 |
 | Covert Elimination | 0.10% | ~1 |
 | Operation Overlord | 0.10% | ~1 |
 | If You Go Down To The Woods Today | 0.10% | ~1 |
@@ -77,7 +77,7 @@ Rating: 4.34 (Ranked 730)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,256 (Ranked 158)  
+Progressed: 1,258 (Ranked 158)  
 Completed: 2 (0.16%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 2 (0.16%) (Ranked 145)
 | 2023-05-20 | 984 | 2 |
 | 2023-05-21 | 1,126 | 2 |
 | 2023-05-22 | 1,233 | 2 |
-| 2023-05-23 | 1,256 | 2 |
+| 2023-05-23 | 1,258 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

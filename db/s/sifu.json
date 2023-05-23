@@ -4170,9 +4170,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 704744,
+  "EOS_Progressed": 704762,
   "EOS_Completed": 12733,
-  "EOS_NewPlayers": 1779,
+  "EOS_NewPlayers": 1795,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -6855,6 +6855,11 @@
       "Time": "2023-05-23T11:05:54.3083589+00:00",
       "NumProgressed": 704744,
       "NumCompleted": 12733
+    },
+    {
+      "Time": "2023-05-23T12:06:06.2742221+00:00",
+      "NumProgressed": 704762,
+      "NumCompleted": 12733
     }
   ],
   "TotalAchievements": 50,
@@ -6954,7 +6959,7 @@
       "Name": "Scareless",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4228
+      "UsersEstimate": 4229
     },
     {
       "ID": "13_LowAge",
@@ -6986,7 +6991,7 @@
       "Name": "Drunken Fighter",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "17_Detective_H3",
@@ -6994,7 +6999,7 @@
       "Name": "Martial Artist",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "18_Detective_H4",
@@ -7002,7 +7007,7 @@
       "Name": "Knowledge Greed",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "19_Detective_H5",
@@ -7010,7 +7015,7 @@
       "Name": "Healing Memory",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "20_Traversal_Trophy",
@@ -7090,7 +7095,7 @@
       "Name": "Master of the Phoenix Eye Fist",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "30_ComboMid",
@@ -7114,7 +7119,7 @@
       "Name": "Old Child",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4228
+      "UsersEstimate": 4229
     },
     {
       "ID": "33_BladeOneShot",
@@ -7138,7 +7143,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4228
+      "UsersEstimate": 4229
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -7162,7 +7167,7 @@
       "Name": "The Pit Protector",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "39_CustomTrophy_H3",
@@ -7170,7 +7175,7 @@
       "Name": "Be like water my friend",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "40_CustomTrophy_H4",
@@ -7194,7 +7199,7 @@
       "Name": "Come Snap With Me",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "43_Arena_UnlockPack",
@@ -7202,7 +7207,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -7210,7 +7215,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -7218,7 +7223,7 @@
       "Name": "Bloody Sport",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -7250,7 +7255,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -7265,21 +7270,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 14045,
+      "Progressed": 14063,
       "Completed": 10151
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 704744,
+      "Progressed": 704762,
       "Completed": 12733
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-22T21:58:30.6561942+00:00",
-  "LastChanged_Achievements": "2023-05-23T11:05:54.3083583+00:00",
+  "LastChanged_Achievements": "2023-05-23T12:06:06.2742214+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.7579865+00:00",
-  "LastUpdate_Ratings": "2023-05-23T10:58:54.6795689+00:00",
-  "LastUpdate_Achievements": "2023-05-23T11:05:54.308405+00:00"
+  "LastUpdate_Ratings": "2023-05-23T11:59:17.2925105+00:00",
+  "LastUpdate_Achievements": "2023-05-23T12:06:06.2742773+00:00"
 }

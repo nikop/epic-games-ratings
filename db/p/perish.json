@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2874,
+  "EOS_Progressed": 2875,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -958,6 +958,11 @@
       "Time": "2023-05-23T10:06:27.9428275+00:00",
       "NumProgressed": 2874,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-23T12:06:11.9617117+00:00",
+      "NumProgressed": 2875,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -977,7 +982,7 @@
       "Name": "Comedy and Tragedy",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_B_FS",
@@ -1025,7 +1030,7 @@
       "Name": "Forged in Fire",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_GE",
@@ -1121,7 +1126,7 @@
       "Name": "Chthonic Investor",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_M_D4",
@@ -1193,7 +1198,7 @@
       "Name": "First Fragment",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_OB_CA",
@@ -1201,7 +1206,7 @@
       "Name": "Hapax Legomenon",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_OB_CC",
@@ -1233,7 +1238,7 @@
       "Name": "Labour of Apollo",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_OB_FB",
@@ -1289,7 +1294,7 @@
       "Name": "Vandili",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_OB_RE",
@@ -1313,7 +1318,7 @@
       "Name": "Cloaca Maxima",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_OB_TDS",
@@ -1361,7 +1366,7 @@
       "Name": "Debauchery",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_R_P",
@@ -1369,7 +1374,7 @@
       "Name": "Blessing of Spring",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_TAR",
@@ -1401,7 +1406,7 @@
       "Name": "Halls of Marble",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "KA",
@@ -1409,7 +1414,7 @@
       "Name": "Mors Omnibus",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "KA2",
@@ -1425,7 +1430,7 @@
       "Name": "Interrupt the Interloper",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "KC",
@@ -1441,7 +1446,7 @@
       "Name": "Blot Out the Sky",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "KK",
@@ -1465,14 +1470,14 @@
       "Name": "Serpentine",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     }
   ],
   "AchievementSets": [
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 2874,
+      "Progressed": 2875,
       "Completed": 0
     }
   ],
@@ -1480,8 +1485,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-05-23T11:05:59.2637695+00:00",
+  "LastChanged_Achievements": "2023-05-23T12:06:11.9617095+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:05:00.7857859+00:00",
-  "LastUpdate_Ratings": "2023-05-23T10:59:29.3048754+00:00",
-  "LastUpdate_Achievements": "2023-05-23T11:05:59.2638213+00:00"
+  "LastUpdate_Ratings": "2023-05-23T12:00:01.086368+00:00",
+  "LastUpdate_Achievements": "2023-05-23T12:06:11.9617701+00:00"
 }

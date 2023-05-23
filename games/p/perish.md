@@ -25,18 +25,18 @@
 | Eidola | 3.00% | ~86 |
 | Divine Assemblage | 3.00% | ~86 |
 | Ophiolatreia | 3.00% | ~86 |
-| Comedy and Tragedy | 2.00% | ~57 |
-| Forged in Fire | 2.00% | ~57 |
-| Chthonic Investor | 2.00% | ~57 |
-| First Fragment | 2.00% | ~57 |
-| Hapax Legomenon | 2.00% | ~57 |
-| Labour of Apollo | 2.00% | ~57 |
-| Vandili | 2.00% | ~57 |
-| Cloaca Maxima | 2.00% | ~57 |
-| Halls of Marble | 2.00% | ~57 |
-| Mors Omnibus | 2.00% | ~57 |
-| Blot Out the Sky | 2.00% | ~57 |
-| Serpentine | 2.00% | ~57 |
+| Comedy and Tragedy | 2.00% | ~58 |
+| Forged in Fire | 2.00% | ~58 |
+| Chthonic Investor | 2.00% | ~58 |
+| First Fragment | 2.00% | ~58 |
+| Hapax Legomenon | 2.00% | ~58 |
+| Labour of Apollo | 2.00% | ~58 |
+| Vandili | 2.00% | ~58 |
+| Cloaca Maxima | 2.00% | ~58 |
+| Halls of Marble | 2.00% | ~58 |
+| Mors Omnibus | 2.00% | ~58 |
+| Blot Out the Sky | 2.00% | ~58 |
+| Serpentine | 2.00% | ~58 |
 | The Nameless One | 1.00% | ~29 |
 | Wayward Son of Hephaestus | 1.00% | ~29 |
 | Lament of the Constellations | 1.00% | ~29 |
@@ -57,9 +57,9 @@
 | Athenian Treasury | 0.70% | ~20 |
 | Hipparchia's Labour | 0.50% | ~14 |
 | Olympian | 0.50% | ~14 |
-| Debauchery | 0.40% | ~11 |
-| Blessing of Spring | 0.40% | ~11 |
-| Interrupt the Interloper | 0.40% | ~11 |
+| Debauchery | 0.40% | ~12 |
+| Blessing of Spring | 0.40% | ~12 |
+| Interrupt the Interloper | 0.40% | ~12 |
 | Window Shopping | 0.30% | ~9 |
 | Elephantine | 0.30% | ~9 |
 | Buyer's Remorse | 0.20% | ~6 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,874 (Ranked 134)  
+Progressed: 2,875 (Ranked 134)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-20 | 2,855 | 0 |
 | 2023-05-21 | 2,864 | 0 |
 | 2023-05-22 | 2,873 | 0 |
-| 2023-05-23 | 2,874 | 0 |
+| 2023-05-23 | 2,875 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

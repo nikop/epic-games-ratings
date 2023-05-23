@@ -416,9 +416,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 13373,
+  "EOS_Progressed": 13376,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 809,
+  "EOS_NewPlayers": 812,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1276,6 +1276,11 @@
       "Time": "2023-05-23T11:03:29.6500844+00:00",
       "NumProgressed": 13373,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-05-23T12:03:12.9497095+00:00",
+      "NumProgressed": 13376,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 40,
@@ -1407,7 +1412,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -1421,17 +1426,17 @@
       "ID": "KILL_ROBOT",
       "SetID": "4hj6d86",
       "Name": "Terminated",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 67
+      "UsersEstimate": 80
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
       "SetID": "4hj6d86",
       "Name": "Workplace Hazard",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 94
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -1439,7 +1444,7 @@
       "Name": "The Commonality",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -1447,7 +1452,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -1461,9 +1466,9 @@
       "ID": "PRINT_WEAPON",
       "SetID": "4hj6d86",
       "Name": "Paper Jams",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 67
     },
     {
       "ID": "SHARE_PHOTO",
@@ -1471,23 +1476,23 @@
       "Name": "Mugshot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "STORY_COLDOPEN",
       "SetID": "4hj6d86",
       "Name": "The Outer Way",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 67
     },
     {
       "ID": "STORY_ESCAPE",
       "SetID": "4hj6d86",
       "Name": "If the SHU Fits...",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 40
     },
     {
       "ID": "STORY_HABITAT",
@@ -1517,9 +1522,9 @@
       "ID": "STORY_OUTBREAK",
       "SetID": "4hj6d86",
       "Name": "Desperate Times",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 54
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -1606,13 +1611,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13373,
+      "Progressed": 13376,
       "Completed": 52
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1299,
+      "Progressed": 1302,
       "Completed": 29
     }
   ],
@@ -1620,8 +1625,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-22T19:57:44.0247925+00:00",
-  "LastChanged_Achievements": "2023-05-23T11:03:29.650084+00:00",
+  "LastChanged_Achievements": "2023-05-23T12:03:12.9497088+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-23T10:57:55.1832938+00:00",
-  "LastUpdate_Achievements": "2023-05-23T11:03:29.650116+00:00"
+  "LastUpdate_Ratings": "2023-05-23T11:58:04.603098+00:00",
+  "LastUpdate_Achievements": "2023-05-23T12:03:12.9497518+00:00"
 }

@@ -6,19 +6,19 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 35.00% | ~17,743 |
-| Landlord | 30.00% | ~15,208 |
-| Lawmaker | 21.00% | ~10,646 |
-| Bannerlord | 20.00% | ~10,139 |
-| Horde breaker | 20.00% | ~10,139 |
-| Trained | 20.00% | ~10,139 |
-| The king is pleased | 16.00% | ~8,111 |
-| King Solomon | 15.00% | ~7,604 |
-| I can do it | 14.00% | ~7,097 |
-| Apple of my eye | 13.00% | ~6,590 |
-| God of the Arena | 12.00% | ~6,083 |
-| Against all odds | 10.00% | ~5,069 |
-| Swordbearer | 9.00% | ~4,562 |
+| Lawbringer | 35.00% | ~17,745 |
+| Landlord | 30.00% | ~15,210 |
+| Lawmaker | 21.00% | ~10,647 |
+| Bannerlord | 20.00% | ~10,140 |
+| Horde breaker | 20.00% | ~10,140 |
+| Trained | 20.00% | ~10,140 |
+| The king is pleased | 16.00% | ~8,112 |
+| King Solomon | 15.00% | ~7,605 |
+| I can do it | 14.00% | ~7,098 |
+| Apple of my eye | 13.00% | ~6,591 |
+| God of the Arena | 12.00% | ~6,084 |
+| Against all odds | 10.00% | ~5,070 |
+| Swordbearer | 9.00% | ~4,563 |
 | Duelist | 8.00% | ~4,056 |
 | Dynasty | 8.00% | ~4,056 |
 | I spit on your grave | 8.00% | ~4,056 |
@@ -39,7 +39,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Undercover | 0.80% | ~406 |
 | Crackshot | 0.70% | ~355 |
 | Fat Cat | 0.60% | ~304 |
-| Catch | 0.50% | ~253 |
+| Catch | 0.50% | ~254 |
 | Slice 'n dice | 0.40% | ~203 |
 | Mounted Archery | 0.30% | ~152 |
 | Ride it like you stole it | 0.30% | ~152 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,694 (Ranked 74)  
+Progressed: 50,701 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 0 (0.00%) (Ranked 201)
 | 2023-05-20 | 50,469 | 0 |
 | 2023-05-21 | 50,571 | 0 |
 | 2023-05-22 | 50,655 | 0 |
-| 2023-05-23 | 50,694 | 0 |
+| 2023-05-23 | 50,701 | 0 |
 ## Awards
 Max (Character Customization): 6,568  (Ranked 49)  
 Sum: 13,128 (Ranked 68)  

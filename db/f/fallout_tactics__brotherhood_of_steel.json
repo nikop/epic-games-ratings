@@ -2,12 +2,12 @@
   "ID": "b90be973f6e74975ac1a6ff15dbfd0b3",
   "Name": "Fallout Tactics: Brotherhood of Steel",
   "ProductSlug": "fallout-tactics-brotherhood-of-steel",
-  "Ranking_Rating": 534,
+  "Ranking_Rating": 533,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -329,6 +329,6 @@
   "FirstSeenRating": "2022-12-23T20:57:41.5501633+00:00",
   "LastChanged": "2023-05-21T10:00:34.1239257+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:24.7669191+00:00",
-  "LastUpdate_Ratings": "2023-05-23T11:00:00.0723509+00:00",
-  "LastUpdate_Achievements": "2023-05-23T11:05:10.5290718+00:00"
+  "LastUpdate_Ratings": "2023-05-23T12:00:40.0014372+00:00",
+  "LastUpdate_Achievements": "2023-05-23T12:05:13.9296864+00:00"
 }

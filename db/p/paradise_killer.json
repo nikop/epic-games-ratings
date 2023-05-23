@@ -4,7 +4,7 @@
   "ProductSlug": "paradise-killer-c3ea1c",
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-03-16T19:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:23.3080567+00:00",
   "LastChanged": "2023-03-31T05:57:23.3080568+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:12:13.8281943+00:00",
-  "LastUpdate_Ratings": "2023-05-23T10:59:46.9980075+00:00",
-  "LastUpdate_Achievements": "2023-05-23T11:05:06.7831456+00:00"
+  "LastUpdate_Ratings": "2023-05-23T12:00:24.0453328+00:00",
+  "LastUpdate_Achievements": "2023-05-23T12:05:09.3075797+00:00"
 }
