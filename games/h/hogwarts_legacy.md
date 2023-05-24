@@ -5,15 +5,15 @@ Rating: 4.77 (Ranked 105)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 6.00% | ~16,299 |
-| Grappling with a Graphorn | 6.00% | ~16,299 |
-| The One Who Mastered Memories | 6.00% | ~16,299 |
-| The Hallowed Hero | 6.00% | ~16,299 |
-| The Hero of Hogwarts | 6.00% | ~16,299 |
-| The Defender of Dragons | 6.00% | ~16,299 |
-| Coasting Along | 6.00% | ~16,299 |
-| First Class Student | 6.00% | ~16,299 |
-| Troll with the Punches | 6.00% | ~16,299 |
+| The Sort Who Makes an Entrance | 6.00% | ~16,300 |
+| Grappling with a Graphorn | 6.00% | ~16,300 |
+| The One Who Mastered Memories | 6.00% | ~16,300 |
+| The Hallowed Hero | 6.00% | ~16,300 |
+| The Hero of Hogwarts | 6.00% | ~16,300 |
+| The Defender of Dragons | 6.00% | ~16,300 |
+| Coasting Along | 6.00% | ~16,300 |
+| First Class Student | 6.00% | ~16,300 |
+| Troll with the Punches | 6.00% | ~16,300 |
 | The Avenging Gazelle | 5.00% | ~13,583 |
 | A Sallow Grave | 5.00% | ~13,583 |
 | Challenge Accepted | 5.00% | ~13,583 |
@@ -23,10 +23,10 @@ Rating: 4.77 (Ranked 105)
 | The Spell Master | 5.00% | ~13,583 |
 | That's a Keeper | 5.00% | ~13,583 |
 | Rising From the Ashes | 5.00% | ~13,583 |
-| The Seeker of Knowledge | 4.00% | ~10,866 |
-| Beast Friends | 4.00% | ~10,866 |
-| Flight the Good Flight | 4.00% | ~10,866 |
-| Followed the Butterflies | 4.00% | ~10,866 |
+| The Seeker of Knowledge | 4.00% | ~10,867 |
+| Beast Friends | 4.00% | ~10,867 |
+| Flight the Good Flight | 4.00% | ~10,867 |
+| Followed the Butterflies | 4.00% | ~10,867 |
 | The Root of the Problem | 3.00% | ~8,150 |
 | Third Time's a Charm | 3.00% | ~8,150 |
 | Room with a View | 3.00% | ~8,150 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 105)
 | The Nature of the Beast | 0.40% | ~1,087 |
 | Collector's Edition | 0.20% | ~543 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 271,652 (Ranked 38)  
+Progressed: 271,664 (Ranked 38)  
 Completed: 370 (0.14%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 370 (0.14%) (Ranked 151)
 | 2023-05-21 | 270,427 | 365 |
 | 2023-05-22 | 271,035 | 369 |
 | 2023-05-23 | 271,519 | 370 |
-| 2023-05-24 | 271,652 | 370 |
+| 2023-05-24 | 271,664 | 370 |
 ## Awards
 Max (Character Customization): 19,054  (Ranked 18)  
 Sum: 35,113 (Ranked 33)  

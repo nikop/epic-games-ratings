@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6426,
+  "EOS_Progressed": 6427,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -1138,6 +1138,11 @@
       "Time": "2023-05-24T06:05:14.5609888+00:00",
       "NumProgressed": 6426,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-24T07:05:26.9473967+00:00",
+      "NumProgressed": 6427,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 27,
@@ -1157,7 +1162,7 @@
       "Name": "Daylight Found",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1606
+      "UsersEstimate": 1607
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -1205,7 +1210,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1606
+      "UsersEstimate": 1607
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -1213,7 +1218,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1606
+      "UsersEstimate": 1607
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -1245,7 +1250,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1799
+      "UsersEstimate": 1800
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -1261,7 +1266,7 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "AK_PYRE_IGNITED",
@@ -1349,7 +1354,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2570
+      "UsersEstimate": 2571
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -1364,15 +1369,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6426,
+      "Progressed": 6427,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-05-24T06:05:14.5609883+00:00",
+  "LastChanged_Achievements": "2023-05-24T07:05:26.9473964+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:58.1571519+00:00",
-  "LastUpdate_Ratings": "2023-05-24T05:57:09.1397072+00:00",
-  "LastUpdate_Achievements": "2023-05-24T06:05:14.561013+00:00"
+  "LastUpdate_Ratings": "2023-05-24T06:57:22.2786238+00:00",
+  "LastUpdate_Achievements": "2023-05-24T07:05:26.9474203+00:00"
 }

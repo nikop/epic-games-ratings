@@ -1440,7 +1440,7 @@
       "Count": 204
     }
   ],
-  "EOS_Progressed": 18945,
+  "EOS_Progressed": 18946,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
@@ -2655,6 +2655,11 @@
       "Time": "2023-05-24T06:05:19.1276347+00:00",
       "NumProgressed": 18945,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-24T07:05:31.2896181+00:00",
+      "NumProgressed": 18946,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -2666,7 +2671,7 @@
       "Name": "Family man",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2273
+      "UsersEstimate": 2274
     },
     {
       "ID": "CarMechanic",
@@ -2714,7 +2719,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 17808
+      "UsersEstimate": 17809
     },
     {
       "ID": "GameOver",
@@ -2746,7 +2751,7 @@
       "Name": "Mystery",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1894
+      "UsersEstimate": 1895
     },
     {
       "ID": "JuniorEstateAgent",
@@ -2754,7 +2759,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2273
+      "UsersEstimate": 2274
     },
     {
       "ID": "KnockKnock",
@@ -2849,15 +2854,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 18945,
+      "Progressed": 18946,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-05-23T17:00:20.2322091+00:00",
-  "LastChanged_Achievements": "2023-05-24T06:05:19.1276341+00:00",
+  "LastChanged_Achievements": "2023-05-24T07:05:31.2896177+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:56.8900842+00:00",
-  "LastUpdate_Ratings": "2023-05-24T05:58:50.84106+00:00",
-  "LastUpdate_Achievements": "2023-05-24T06:05:19.1276579+00:00"
+  "LastUpdate_Ratings": "2023-05-24T06:59:04.2444834+00:00",
+  "LastUpdate_Achievements": "2023-05-24T07:05:31.2896418+00:00"
 }

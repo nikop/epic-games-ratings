@@ -6,16 +6,16 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,839 |
-| That's a Grand Army | 8.00% | ~3,412 |
-| That is mine! | 8.00% | ~3,412 |
-| Victorious! | 8.00% | ~3,412 |
-| Brothers in Arms | 6.00% | ~2,559 |
-| That's a Grand Navy | 6.00% | ~2,559 |
-| Seriously?! | 6.00% | ~2,559 |
+| Until death do us apart | 9.00% | ~3,840 |
+| That's a Grand Army | 8.00% | ~3,414 |
+| That is mine! | 8.00% | ~3,414 |
+| Victorious! | 8.00% | ~3,414 |
+| Brothers in Arms | 6.00% | ~2,560 |
+| That's a Grand Navy | 6.00% | ~2,560 |
+| Seriously?! | 6.00% | ~2,560 |
 | For the Glory | 5.00% | ~2,133 |
-| Cold War | 4.00% | ~1,706 |
-| True Catholic | 4.00% | ~1,706 |
+| Cold War | 4.00% | ~1,707 |
+| True Catholic | 4.00% | ~1,707 |
 | Defender of the Faith | 3.00% | ~1,280 |
 | It's all about the money | 3.00% | ~1,280 |
 | Respected | 3.00% | ~1,280 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,654 (Ranked 79)  
+Progressed: 42,669 (Ranked 79)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -395,10 +395,10 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-21 | 41,525 | 0 |
 | 2023-05-22 | 42,079 | 0 |
 | 2023-05-23 | 42,594 | 0 |
-| 2023-05-24 | 42,654 | 0 |
+| 2023-05-24 | 42,669 | 0 |
 ## Awards
 Max (Educational): 5,271  (Ranked 60)  
-Sum: 43,683 (Ranked 27)  
+Sum: 43,687 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -407,10 +407,10 @@ Diff (max vs sum): 33
 | This game has Challenging Combat | 5,040 |
 | This game is Extremely Fun | 5,019 |
 | This game has Diverse Characters | 4,968 |
-| This game is Relaxing | 4,909 |
+| This game is Relaxing | 4,911 |
 | This game has Competitive Players | 4,748 |
 | This game has Amazing Storytelling | 4,502 |
-| This game has Amazing Characters | 4,158 |
+| This game has Amazing Characters | 4,160 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -542,3 +542,4 @@ Diff (max vs sum): 33
 | 2023-05-21 | 4.68 | - | 5,264 | 43,591 |
 | 2023-05-22 | 4.68 | - | 5,271 | 43,642 |
 | 2023-05-23 | 4.68 | - | 5,271 | 43,683 |
+| 2023-05-24 | 4.68 | - | 5,271 | 43,687 |

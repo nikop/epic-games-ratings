@@ -400,7 +400,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 249486,
+  "EOS_Progressed": 249488,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 602,
   "EOS_NewCompleters": 0,
@@ -3610,6 +3610,11 @@
       "Time": "2023-05-24T03:05:34.8224935+00:00",
       "NumProgressed": 249486,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-24T07:05:49.767609+00:00",
+      "NumProgressed": 249488,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -3629,7 +3634,7 @@
       "Name": "The Ascent",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9979
+      "UsersEstimate": 9980
     },
     {
       "ID": "Act3",
@@ -3685,7 +3690,7 @@
       "Name": "Pacifist",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9979
+      "UsersEstimate": 9980
     },
     {
       "ID": "BreakNWindows",
@@ -3693,7 +3698,7 @@
       "Name": "Vandalism",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9979
+      "UsersEstimate": 9980
     },
     {
       "ID": "BuyHighValueFurniture",
@@ -3989,7 +3994,7 @@
       "Name": "Capitalist I",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9979
+      "UsersEstimate": 9980
     },
     {
       "ID": "Patrimony2",
@@ -4068,7 +4073,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 249486,
+      "Progressed": 249488,
       "Completed": 1
     }
   ],
@@ -4076,8 +4081,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-05-24T02:04:38.3501962+00:00",
-  "LastChanged_Achievements": "2023-05-24T06:05:37.584724+00:00",
+  "LastChanged_Achievements": "2023-05-24T07:05:49.7676086+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:18.7976266+00:00",
-  "LastUpdate_Ratings": "2023-05-24T05:59:32.2867298+00:00",
-  "LastUpdate_Achievements": "2023-05-24T06:05:37.5847805+00:00"
+  "LastUpdate_Ratings": "2023-05-24T06:59:46.4940575+00:00",
+  "LastUpdate_Achievements": "2023-05-24T07:05:49.7676761+00:00"
 }

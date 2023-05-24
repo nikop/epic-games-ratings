@@ -5,23 +5,23 @@ Rating: 4.76 (Ranked 117)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 78.00% | ~51,630 |
-| The Player Whisperer | 76.00% | ~50,306 |
-| One of Us, One of Us! | 73.00% | ~48,320 |
+| Motivational Speaker | 78.00% | ~51,631 |
+| The Player Whisperer | 76.00% | ~50,307 |
+| One of Us, One of Us! | 73.00% | ~48,321 |
 | Clean Sheet | 68.00% | ~45,011 |
 | First Victory | 68.00% | ~45,011 |
 | #DoneDeal | 67.00% | ~44,349 |
 | Off the Books | 65.00% | ~43,025 |
 | Super-Sub | 65.00% | ~43,025 |
-| Hat-trick | 59.00% | ~39,053 |
-| "I Would Love It If We Beat Them" | 57.00% | ~37,729 |
-| Planned Signing | 57.00% | ~37,729 |
+| Hat-trick | 59.00% | ~39,054 |
+| "I Would Love It If We Beat Them" | 57.00% | ~37,730 |
+| Planned Signing | 57.00% | ~37,730 |
 | Scoring Streak | 53.00% | ~35,082 |
 | Thumping | 52.00% | ~34,420 |
 | People Pleaser | 51.00% | ~33,758 |
 | Wheeler Dealer | 51.00% | ~33,758 |
 | Unbeatable! | 50.00% | ~33,096 |
-| One Of Our Own | 47.00% | ~31,110 |
+| One Of Our Own | 47.00% | ~31,111 |
 | They're a Natural | 43.00% | ~28,463 |
 | Record Signing | 43.00% | ~28,463 |
 | The Only Stat That Matters | 43.00% | ~28,463 |
@@ -34,13 +34,13 @@ Rating: 4.76 (Ranked 117)
 | Goal Rush | 38.00% | ~25,153 |
 | Parked The Bus | 37.00% | ~24,491 |
 | Flavour Of The Month | 36.00% | ~23,829 |
-| What A Goal! | 35.00% | ~23,167 |
-| Tremendous Trio | 34.00% | ~22,505 |
-| Unstoppable Force | 34.00% | ~22,505 |
-| Record Sale | 34.00% | ~22,505 |
-| Shots For Days | 34.00% | ~22,505 |
-| You're on Fire | 33.00% | ~21,843 |
-| The Special One | 33.00% | ~21,843 |
+| What A Goal! | 35.00% | ~23,168 |
+| Tremendous Trio | 34.00% | ~22,506 |
+| Unstoppable Force | 34.00% | ~22,506 |
+| Record Sale | 34.00% | ~22,506 |
+| Shots For Days | 34.00% | ~22,506 |
+| You're on Fire | 33.00% | ~21,844 |
+| The Special One | 33.00% | ~21,844 |
 | On a Roll | 31.00% | ~20,520 |
 | Splashing the Cash | 31.00% | ~20,520 |
 | Drilling Down | 30.00% | ~19,858 |
@@ -50,7 +50,7 @@ Rating: 4.76 (Ranked 117)
 | Cash to Burn | 26.00% | ~17,210 |
 | Irresistible Force | 25.00% | ~16,548 |
 | Do The Double | 22.00% | ~14,562 |
-| A Game of Two Halves | 20.00% | ~13,238 |
+| A Game of Two Halves | 20.00% | ~13,239 |
 | Top Form | 18.00% | ~11,915 |
 | You're Up! | 18.00% | ~11,915 |
 | First Goal Network | 17.00% | ~11,253 |
@@ -106,7 +106,7 @@ Rating: 4.76 (Ranked 117)
 | Versus Anyone | 0.10% | ~66 |
 | 200 Club | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,192 (Ranked 64)  
+Progressed: 66,193 (Ranked 64)  
 Completed: 14 (0.02%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,16 +140,16 @@ Completed: 14 (0.02%) (Ranked 187)
 | 2023-05-21 | 65,665 | 14 |
 | 2023-05-22 | 65,986 | 14 |
 | 2023-05-23 | 66,174 | 14 |
-| 2023-05-24 | 66,192 | 14 |
+| 2023-05-24 | 66,193 | 14 |
 ## Awards
 Max (Diverse Characters): 444  (Ranked 192)  
-Sum: 3,193 (Ranked 146)  
+Sum: 3,198 (Ranked 146)  
 Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 444 |
 | This game is Highly Recommended | 384 |
-| This game is Extremely Fun | 378 |
+| This game is Extremely Fun | 383 |
 | This game is Educational | 376 |
 | This game is Relaxing | 354 |
 | This game has Competitive Players | 325 |
@@ -247,4 +247,4 @@ Diff (max vs sum): 46
 | 2023-05-21 | 4.76 | 439 | 3,166 |
 | 2023-05-22 | 4.76 | 444 | 3,178 |
 | 2023-05-23 | 4.76 | 444 | 3,190 |
-| 2023-05-24 | 4.76 | 444 | 3,193 |
+| 2023-05-24 | 4.76 | 444 | 3,198 |

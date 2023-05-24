@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 96,
+  "EOS_Progressed": 97,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.04,
+  "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:27.5419142+00:00",
@@ -443,6 +443,11 @@
       "Time": "2023-05-23T19:01:34.851501+00:00",
       "NumProgressed": 96,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-24T07:02:30.9154637+00:00",
+      "NumProgressed": 97,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -526,7 +531,7 @@
       "Name": "You Have Been Deaded",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "easy_victory",
@@ -542,7 +547,7 @@
       "Name": "Graduation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "i_prefer_fusion_jazz",
@@ -622,7 +627,7 @@
       "Name": "Rookie",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "scrap_collector",
@@ -701,7 +706,7 @@
     {
       "ID": "jig50d",
       "IsBase": true,
-      "Progressed": 96,
+      "Progressed": 97,
       "Completed": 1
     }
   ],
@@ -709,8 +714,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-24T06:00:26.3112154+00:00",
+  "LastChanged_Achievements": "2023-05-24T07:02:30.915463+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:10:10.466439+00:00",
-  "LastUpdate_Ratings": "2023-05-24T05:59:17.1501719+00:00",
-  "LastUpdate_Achievements": "2023-05-24T06:00:26.3112407+00:00"
+  "LastUpdate_Ratings": "2023-05-24T06:59:31.0818878+00:00",
+  "LastUpdate_Achievements": "2023-05-24T07:02:30.9155212+00:00"
 }

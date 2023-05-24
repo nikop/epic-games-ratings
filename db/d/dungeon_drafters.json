@@ -178,9 +178,9 @@
       "ID": "InnkeeperQuestlineFirst",
       "SetID": "3b8n56h",
       "Name": "Treasure Hunting",
-      "Percentage": 43,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "InnkeeperQuestlineLast",
@@ -354,9 +354,9 @@
       "ID": "any_curio",
       "SetID": "3b8n56h",
       "Name": "Might be useful\u2026",
-      "Percentage": 43,
+      "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "bad_ending",
@@ -386,9 +386,9 @@
       "ID": "cards_discovered_half",
       "SetID": "3b8n56h",
       "Name": "Card Collector",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "demiurge_defeated",
@@ -402,9 +402,9 @@
       "ID": "foil_card",
       "SetID": "3b8n56h",
       "Name": "Shine!",
-      "Percentage": 33,
+      "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "git_gud?",
@@ -491,8 +491,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-05-24T06:05:11.5534273+00:00",
+  "LastChanged_Achievements": "2023-05-24T07:05:23.9854206+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.9763289+00:00",
-  "LastUpdate_Ratings": "2023-05-24T05:57:01.5115256+00:00",
-  "LastUpdate_Achievements": "2023-05-24T06:05:11.553459+00:00"
+  "LastUpdate_Ratings": "2023-05-24T06:57:14.6777937+00:00",
+  "LastUpdate_Achievements": "2023-05-24T07:05:23.9854511+00:00"
 }

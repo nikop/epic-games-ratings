@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 784,
+  "EOS_Progressed": 785,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -383,6 +383,11 @@
       "Time": "2023-05-23T21:05:24.1760387+00:00",
       "NumProgressed": 784,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T07:05:20.2233722+00:00",
+      "NumProgressed": 785,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -512,9 +517,9 @@
       "ID": "DIE_FORGE_CUSTOM",
       "SetID": "6ohhfoc",
       "Name": "Manipulating Fate",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 47
     },
     {
       "ID": "DIE_MAX_POWER",
@@ -656,9 +661,9 @@
       "ID": "UNLOCK_RULERS_BASEGAME",
       "SetID": "6ohhfoc",
       "Name": "The Council",
-      "Percentage": 0.6,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "WINMATCHWITH_CAPTAIN",
@@ -753,7 +758,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 784,
+      "Progressed": 785,
       "Completed": 0
     }
   ],
@@ -761,8 +766,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-03-31T05:57:30.891724+00:00",
-  "LastChanged_Achievements": "2023-05-24T06:05:07.6506455+00:00",
+  "LastChanged_Achievements": "2023-05-24T07:05:20.2233718+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:12.8802824+00:00",
-  "LastUpdate_Ratings": "2023-05-24T05:57:22.7494368+00:00",
-  "LastUpdate_Achievements": "2023-05-24T06:05:07.6506814+00:00"
+  "LastUpdate_Ratings": "2023-05-24T06:57:36.8891692+00:00",
+  "LastUpdate_Achievements": "2023-05-24T07:05:20.2234085+00:00"
 }

@@ -669,9 +669,9 @@
       "ID": "LEVEL_019",
       "SetID": "212bg48",
       "Name": "Calling Mr. Joe",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "LEVEL_020",
@@ -772,8 +772,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-24T06:02:19.7915394+00:00",
+  "LastChanged_Achievements": "2023-05-24T07:03:12.9417637+00:00",
   "LastUpdate_AppInfo": "2023-05-22T13:02:13.5547551+00:00",
-  "LastUpdate_Ratings": "2023-05-24T05:56:51.7975237+00:00",
-  "LastUpdate_Achievements": "2023-05-24T06:02:19.7915652+00:00"
+  "LastUpdate_Ratings": "2023-05-24T06:57:05.1481633+00:00",
+  "LastUpdate_Achievements": "2023-05-24T07:03:12.9417879+00:00"
 }

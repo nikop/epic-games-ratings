@@ -25,8 +25,8 @@
 | Oops | 6.00% | ~19 |
 | Treasure Hunter | 6.00% | ~19 |
 | Explorer | 5.00% | ~16 |
+| Pyromancer | 5.00% | ~16 |
 | Trio | 5.00% | ~16 |
-| Pyromancer | 4.00% | ~13 |
 | Spell Master | 4.00% | ~13 |
 | Arrive Home | 3.00% | ~9 |
 | Holy Knight | 3.00% | ~9 |

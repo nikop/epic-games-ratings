@@ -382,9 +382,9 @@
       "ID": "Pyromancer",
       "SetID": "82505mn",
       "Name": "Pyromancer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 16
     },
     {
       "ID": "Reincarnation",
@@ -519,8 +519,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-05-24T06:05:31.7428903+00:00",
+  "LastChanged_Achievements": "2023-05-24T07:05:43.919371+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:07.6550194+00:00",
-  "LastUpdate_Ratings": "2023-05-24T05:58:56.2842189+00:00",
-  "LastUpdate_Achievements": "2023-05-24T06:05:31.7429212+00:00"
+  "LastUpdate_Ratings": "2023-05-24T06:59:09.8082416+00:00",
+  "LastUpdate_Achievements": "2023-05-24T07:05:43.9194032+00:00"
 }

@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1157,
+  "EOS_Progressed": 1158,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -458,6 +458,11 @@
       "Time": "2023-05-23T10:06:21.7079425+00:00",
       "NumProgressed": 1157,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-24T07:05:39.9324513+00:00",
+      "NumProgressed": 1158,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -469,7 +474,7 @@
       "Name": "Lovebirds",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "10",
@@ -485,7 +490,7 @@
       "Name": "Strike!",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "12",
@@ -517,7 +522,7 @@
       "Name": "Back to rust",
       "Percentage": 13,
       "XP": 70,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "16",
@@ -565,7 +570,7 @@
       "Name": "Don\u0027t look back",
       "Percentage": 13,
       "XP": 70,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "21",
@@ -629,7 +634,7 @@
       "Name": "Hug therapy",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "30",
@@ -708,15 +713,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1157,
+      "Progressed": 1158,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-05-24T06:05:27.668469+00:00",
+  "LastChanged_Achievements": "2023-05-24T07:05:39.932451+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:06.355513+00:00",
-  "LastUpdate_Ratings": "2023-05-24T05:58:56.2882363+00:00",
-  "LastUpdate_Achievements": "2023-05-24T06:05:27.668493+00:00"
+  "LastUpdate_Ratings": "2023-05-24T06:59:09.8700897+00:00",
+  "LastUpdate_Achievements": "2023-05-24T07:05:39.932473+00:00"
 }

@@ -6,30 +6,30 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 78.00% | ~4,487 |
-| Sword Runner | 63.00% | ~3,624 |
+| Longrunner | 78.00% | ~4,488 |
+| Sword Runner | 63.00% | ~3,625 |
 | Wallrunner | 58.00% | ~3,337 |
 | Running out of breath | 56.00% | ~3,222 |
 | Homerunner | 47.00% | ~2,704 |
 | Out of order | 47.00% | ~2,704 |
-| I call it luck | 46.00% | ~2,646 |
-| Where are my Keys? | 44.00% | ~2,531 |
+| I call it luck | 46.00% | ~2,647 |
+| Where are my Keys? | 44.00% | ~2,532 |
 | Back to hell | 39.00% | ~2,244 |
 | Perfection | 34.00% | ~1,956 |
 | Why not both | 32.00% | ~1,841 |
-| Sword to a gunfight | 31.00% | ~1,783 |
+| Sword to a gunfight | 31.00% | ~1,784 |
 | Control freak | 30.00% | ~1,726 |
 | Running Wild | 30.00% | ~1,726 |
 | Upgrades not mandatory | 30.00% | ~1,726 |
-| Artificial selection | 29.00% | ~1,668 |
+| Artificial selection | 29.00% | ~1,669 |
 | Finish line | 28.00% | ~1,611 |
 | Unstoppable force | 24.00% | ~1,381 |
 | Wave of mutilation | 23.00% | ~1,323 |
 | Can't Run Can't Hide | 19.00% | ~1,093 |
 | R is for Running | 19.00% | ~1,093 |
-| Dead in the air | 16.00% | ~920 |
+| Dead in the air | 16.00% | ~921 |
 | Pre-empative strike | 15.00% | ~863 |
-| Improvise, adapt, overrun | 14.00% | ~805 |
+| Improvise, adapt, overrun | 14.00% | ~806 |
 | More than human | 13.00% | ~748 |
 | Strike | 13.00% | ~748 |
 | Triple A | 10.00% | ~575 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Legacy Drivers | 0.50% | ~29 |
 | Up Close And Personal | 0.50% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,753 (Ranked 120)  
+Progressed: 5,754 (Ranked 120)  
 Completed: 28 (0.49%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 28 (0.49%) (Ranked 106)
 | 2023-05-21 | 5,533 | 28 |
 | 2023-05-22 | 5,625 | 28 |
 | 2023-05-23 | 5,737 | 28 |
-| 2023-05-24 | 5,753 | 28 |
+| 2023-05-24 | 5,754 | 28 |
 ## Awards
 Max (Great Boss Battles): 459  (Ranked 188)  
 Sum: 614 (Ranked 278)  

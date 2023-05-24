@@ -8,7 +8,7 @@ Rating: 4.50 (Ranked 535)
 | A Wonderful Discovery | 81.00% | ~2,690 |
 | Realm Estate | 78.00% | ~2,590 |
 | Secret Technique | 77.00% | ~2,557 |
-| Walls Cannot Stop Us | 74.00% | ~2,458 |
+| Walls Cannot Stop Us | 75.00% | ~2,491 |
 | From Friends to Family | 70.00% | ~2,325 |
 | Magical Synergy | 65.00% | ~2,159 |
 | Bone Peddler | 62.00% | ~2,059 |
@@ -21,8 +21,8 @@ Rating: 4.50 (Ranked 535)
 | Valley of Wonders | 42.00% | ~1,395 |
 | In a Liege of Your Own | 37.00% | ~1,229 |
 | Digging for Treasure | 31.00% | ~1,030 |
+| Against the Odds | 31.00% | ~1,030 |
 | Return of the Wizard King | 30.00% | ~996 |
-| Against the Odds | 30.00% | ~996 |
 | Enchanted Archipelago | 26.00% | ~863 |
 | Impenetrable Fortress | 25.00% | ~830 |
 | The Magic That Empowers Me! | 19.00% | ~631 |

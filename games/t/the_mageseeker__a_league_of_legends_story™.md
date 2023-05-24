@@ -48,11 +48,11 @@ Rating: 4.77 (Ranked 105)
 | I smell fear | 10.00% | ~212 |
 | The end of the experiments | 9.00% | ~191 |
 | The Great City of Demacia | 9.00% | ~191 |
+| Back to sleep, then... | 9.00% | ~191 |
 | Call it 'redistribution of magic | 9.00% | ~191 |
 | Chains master | 8.00% | ~170 |
 | Truth is a dark mirror | 8.00% | ~170 |
 | You can pet the... horse | 8.00% | ~170 |
-| Back to sleep, then... | 8.00% | ~170 |
 | Do you trust me? | 7.00% | ~148 |
 | The great mage rebellion starts now | 7.00% | ~148 |
 | Spellcrafting | 7.00% | ~148 |

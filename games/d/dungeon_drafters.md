@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Treasure Hunting | 43.00% | ~13 |
-| Might be useful… | 43.00% | ~13 |
+| Treasure Hunting | 47.00% | ~14 |
+| Might be useful… | 47.00% | ~14 |
 | Friend! | 40.00% | ~12 |
 | Setting Off | 40.00% | ~12 |
 | Uncut Gem | 37.00% | ~11 |
-| Shine! | 33.00% | ~10 |
+| Shine! | 37.00% | ~11 |
 | Clear as Water | 30.00% | ~9 |
 | Riddlesolver | 27.00% | ~8 |
 | Dungeon Mastery | 23.00% | ~7 |
+| Card Collector | 20.00% | ~6 |
 | The Steed | 17.00% | ~5 |
 | A Strange Proposition | 17.00% | ~5 |
-| Card Collector | 17.00% | ~5 |
 | The Bodyguard | 13.00% | ~4 |
 | The Apprentice | 13.00% | ~4 |
 | The Familiar | 13.00% | ~4 |

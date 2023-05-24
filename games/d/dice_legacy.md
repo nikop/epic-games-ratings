@@ -6,8 +6,8 @@ Rating: 4.29 (Ranked 766)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | We made it | 28.00% | ~220 |
+| Manipulating Fate | 6.00% | ~47 |
 | The City | 6.00% | ~47 |
-| Manipulating Fate | 5.00% | ~39 |
 | Burn and Pillage | 4.00% | ~31 |
 | Hear me out | 4.00% | ~31 |
 | Listening to the crowd | 4.00% | ~31 |
@@ -25,7 +25,7 @@ Rating: 4.29 (Ranked 766)
 | The Greedy Ones | 1.00% | ~8 |
 | The great fire | 0.90% | ~7 |
 | The Unruly Ones | 0.80% | ~6 |
-| The Council | 0.60% | ~5 |
+| The Council | 0.80% | ~6 |
 | The Mad | 0.50% | ~4 |
 | Like the dream | 0.50% | ~4 |
 | Knowledge is Power | 0.30% | ~2 |
@@ -51,7 +51,7 @@ Rating: 4.29 (Ranked 766)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 784 (Ranked 177)  
+Progressed: 785 (Ranked 177)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,6 +80,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-21 | 776 | 0 |
 | 2023-05-22 | 779 | 0 |
 | 2023-05-23 | 784 | 0 |
+| 2023-05-24 | 785 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

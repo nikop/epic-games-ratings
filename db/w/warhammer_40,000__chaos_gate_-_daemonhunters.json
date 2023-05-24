@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -516,9 +516,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2622,
+  "EOS_Progressed": 2623,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -901,6 +901,11 @@
       "Time": "2023-05-23T20:06:44.9636549+00:00",
       "NumProgressed": 2622,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T07:05:41.4330655+00:00",
+      "NumProgressed": 2623,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1000,7 +1005,7 @@
       "Name": "Honoured Battle-Brother",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "ExtractorSkullUses",
@@ -1176,7 +1181,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -1334,9 +1339,9 @@
       "ID": "ReaperDefeated_Poxus",
       "SetID": "3jha1np",
       "Name": "A Gift Spurned",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 105
     },
     {
       "ID": "ReaperDefeated_Tentarus",
@@ -1383,21 +1388,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2622,
+      "Progressed": 2623,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2622,
+      "Progressed": 2623,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-17T16:59:29.0694874+00:00",
-  "LastChanged_Achievements": "2023-05-24T06:05:29.1956818+00:00",
+  "LastChanged_Achievements": "2023-05-24T07:05:41.4330652+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:13.6314729+00:00",
-  "LastUpdate_Ratings": "2023-05-24T05:58:10.2111532+00:00",
-  "LastUpdate_Achievements": "2023-05-24T06:05:29.1957371+00:00"
+  "LastUpdate_Ratings": "2023-05-24T06:58:23.0235132+00:00",
+  "LastUpdate_Achievements": "2023-05-24T07:05:41.4331254+00:00"
 }

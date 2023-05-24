@@ -7,10 +7,10 @@ Rating: 4.35 (Ranked 720)
 | ---- | ---------- | ----- |
 | Meeting Resistance | 15.00% | ~196 |
 | Confirming Suspicions | 10.00% | ~131 |
-| The Kraken Wakes | 7.00% | ~91 |
+| The Kraken Wakes | 7.00% | ~92 |
+| Enemy at the Gates | 5.00% | ~65 |
 | Lord of War | 5.00% | ~65 |
 | It's Starting to Crack | 5.00% | ~65 |
-| Enemy at the Gates | 4.00% | ~52 |
 | Resourceful | 4.00% | ~52 |
 | Just a Flesh Wound | 3.00% | ~39 |
 | Organ Grinder | 3.00% | ~39 |
@@ -40,8 +40,8 @@ Rating: 4.35 (Ranked 720)
 | It'll Buff Right Out | 0.50% | ~7 |
 | Locomotion Commotion | 0.50% | ~7 |
 | Brains of the Operation | 0.50% | ~7 |
+| Strategist | 0.40% | ~5 |
 | Operation Foxley | 0.40% | ~5 |
-| Strategist | 0.30% | ~4 |
 | Shoot for the Moon | 0.30% | ~4 |
 | Herr Today, Gone Tomorrow | 0.30% | ~4 |
 | Last Resort | 0.30% | ~4 |
@@ -77,7 +77,7 @@ Rating: 4.35 (Ranked 720)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,306 (Ranked 157)  
+Progressed: 1,309 (Ranked 157)  
 Completed: 2 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 2 (0.15%) (Ranked 148)
 | 2023-05-21 | 1,126 | 2 |
 | 2023-05-22 | 1,233 | 2 |
 | 2023-05-23 | 1,294 | 2 |
-| 2023-05-24 | 1,306 | 2 |
+| 2023-05-24 | 1,309 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 2749,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1393,9 +1393,9 @@
       "ID": "campaign4",
       "SetID": "2h56gn1",
       "Name": "Get Rich Quick",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1292
+      "UsersEstimate": 1320
     },
     {
       "ID": "campaign5",
@@ -1506,8 +1506,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-24T06:05:34.9112604+00:00",
+  "LastChanged_Achievements": "2023-05-24T07:05:46.9817895+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:08.6918917+00:00",
-  "LastUpdate_Ratings": "2023-05-24T05:59:30.3582957+00:00",
-  "LastUpdate_Achievements": "2023-05-24T06:05:34.9112919+00:00"
+  "LastUpdate_Ratings": "2023-05-24T06:59:44.4605503+00:00",
+  "LastUpdate_Achievements": "2023-05-24T07:05:46.9818208+00:00"
 }

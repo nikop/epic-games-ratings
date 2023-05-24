@@ -8,10 +8,10 @@
 | MLG 360 no scope kill! | 93.00% | ~52 |
 | Are you ready to rumble? | 93.00% | ~52 |
 | That's what cheese said! | 86.00% | ~48 |
-| I like you...but I have to kill you... | 82.00% | ~46 |
+| I like you...but I have to kill you... | 84.00% | ~47 |
 | Nerd | 82.00% | ~46 |
 | AHHHHHH.....I'M ON FIRE!!! | 80.00% | ~45 |
-| Not so hip anymore! | 79.00% | ~44 |
+| Not so hip anymore! | 80.00% | ~45 |
 | Blurry depth perception | 77.00% | ~43 |
 | Up and down | 75.00% | ~42 |
 | Rolling, Rolling, Rolling | 70.00% | ~39 |
@@ -45,9 +45,9 @@
 | Just wing it! | 14.00% | ~8 |
 | Your daily dose of Vitamin C. | 14.00% | ~8 |
 | Kleptomaniac | 14.00% | ~8 |
+| You're not so Big anymore, Boi! | 13.00% | ~7 |
 | I cant stand still! | 13.00% | ~7 |
 | Slimy... yet satisfying | 13.00% | ~7 |
-| You're not so Big anymore, Boi! | 11.00% | ~6 |
 | Ancient Ruins of Dirty Feet | 11.00% | ~6 |
 | I drink, but I'm not a drunk! | 11.00% | ~6 |
 | Spoiler alert! | 9.00% | ~5 |

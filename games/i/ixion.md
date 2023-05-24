@@ -21,6 +21,7 @@ Rating: 4.55 (Ranked 466)
 | Exceeding Capacity | 2.00% | ~42 |
 | Fully Recycled | 2.00% | ~42 |
 | The Ship of Theseus | 2.00% | ~42 |
+| Man's Best Friend | 1.00% | ~21 |
 | Sightseeing | 1.00% | ~21 |
 | Power Outage | 1.00% | ~21 |
 | Access Granted | 1.00% | ~21 |
@@ -28,7 +29,6 @@ Rating: 4.55 (Ranked 466)
 | Convenient Transport | 1.00% | ~21 |
 | Please Make it Stop! | 1.00% | ~21 |
 | From the Past | 1.00% | ~21 |
-| Man's Best Friend | 0.90% | ~19 |
 | In Dolos We Trust | 0.80% | ~17 |
 | BRAWL! | 0.80% | ~17 |
 | All in Good Health | 0.80% | ~17 |

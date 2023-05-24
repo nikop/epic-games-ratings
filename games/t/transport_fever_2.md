@@ -27,13 +27,13 @@ Number of Ratings: 180  (23.09.2022)
 | Now what? | 45.00% | ~509 |
 | High speed | 43.00% | ~487 |
 | Transport shark | 41.00% | ~464 |
-| First aircraft arrived | 40.00% | ~453 |
+| First aircraft arrived | 41.00% | ~464 |
 | Exemplary student | 40.00% | ~453 |
 | Mass production | 35.00% | ~396 |
 | Aircraft entrepreneur | 33.00% | ~374 |
+| Crowd in a train | 31.00% | ~351 |
 | Not in my backyard | 31.00% | ~351 |
 | The future is now, old man | 31.00% | ~351 |
-| Crowd in a train | 30.00% | ~340 |
 | City | 29.00% | ~328 |
 | The king of the sea | 29.00% | ~328 |
 | Transport tycoon | 24.00% | ~272 |
@@ -41,7 +41,7 @@ Number of Ratings: 180  (23.09.2022)
 | Old timer | 22.00% | ~249 |
 | The ugly smell of success | 22.00% | ~249 |
 | Heavily loaded | 20.00% | ~226 |
-| Bob Ross | 16.00% | ~181 |
+| Bob Ross | 17.00% | ~192 |
 | Campaign expert | 11.00% | ~125 |
 | No free seats | 11.00% | ~125 |
 | Penny pincher | 10.00% | ~113 |
