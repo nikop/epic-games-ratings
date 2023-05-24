@@ -530,7 +530,7 @@
 | [Dead Age](games/d/dead_age.md) | - | - | 0 | - |
 | [Dead Age 2](games/d/dead_age_2.md) | 4.16 | 840 | 0 | 491 |
 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 504 | 27,629 | 16 |
-| [Dead Cells](games/d/dead_cells.md) | 4.88 | 19 | 251 | 239 |
+| [Dead Cells](games/d/dead_cells.md) | 4.88 | 19 | 252 | 239 |
 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 481 | 3,792 | 77 |
 | [Dead Space](games/d/dead_space.md) | 4.75 | 130 | 46 | 397 |
 | [Deadly Flight](games/d/deadly_flight.md) | - | - | - | - |
@@ -985,7 +985,7 @@
 | [Hit and Boom](games/h/hit_and_boom.md) | - | - | - | - |
 | [Hitchhiker - A Mystery Game](games/h/hitchhiker_-_a_mystery_game.md) | - | - | 0 | - |
 | [HITMAN](games/h/hitman.md) | 4.64 | 312 | 197 | 260 |
-| [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 100 | 9,042 | 37 |
+| [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 100 | 9,054 | 37 |
 | [Hob](games/h/hob.md) | 4.57 | 437 | 0 | 491 |
 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 4.77 | 105 | 19,054 | 18 |
 | [Hold On](games/h/hold_on.md) | - | - | - | - |
@@ -1858,7 +1858,7 @@
 | [Shrine's Legacy](games/s/shrine's_legacy.md) | - | - | - | - |
 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 141 | 31,755 | 14 |
 | [Siege Survival - Gloria Victis](games/s/siege_survival_-_gloria_victis.md) | 4.05 | 877 | 0 | 491 |
-| [Sifu](games/s/sifu.md) | 4.82 | 62 | 6,084 | 53 |
+| [Sifu](games/s/sifu.md) | 4.82 | 62 | 6,089 | 53 |
 | [Silence](games/s/silence.md) | - | - | 0 | - |
 | [Silt](games/s/silt.md) | - | - | 0 | - |
 | [SIMULACRA 3](games/s/simulacra_3.md) | - | - | 0 | - |
@@ -2330,7 +2330,7 @@
 | [Tiny Lands](games/t/tiny_lands.md) | - | - | 0 | - |
 | [Tiny Thor](games/t/tiny_thor.md) | - | - | - | - |
 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 595 | 276 | 231 |
-| [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 437 | 18,377 | 19 |
+| [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 437 | 18,389 | 19 |
 | [Tiny Troopers Global Ops](games/t/tiny_troopers_global_ops.md) | - | - | - | - |
 | [Tiny Troopers Joint Ops XL](games/t/tiny_troopers_joint_ops_xl.md) | - | - | 0 | - |
 | [Tinykin](games/t/tinykin.md) | - | - | 0 | - |
@@ -2369,14 +2369,14 @@
 | [Totally Reliable Delivery Service Standard Edition](games/t/totally_reliable_delivery_service_standard_edition.md) | 4.45 | 605 | 0 | 491 |
 | [Touch Type Tale](games/t/touch_type_tale.md) | - | - | 0 | - |
 | [Tour de France 2022](games/t/tour_de_france_2022.md) | - | - | - | - |
-| [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | - | - | - | - |
 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.38 | 692 | 0 | 491 |
+| [Tower of Fantasy](games/t/tower_of_fantasy_1.md) | - | - | - | - |
 | [Tower of Guns](games/t/tower_of_guns.md) | - | - | 0 | - |
 | [Tower Princess](games/t/tower_princess.md) | - | - | 0 | - |
 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 255 | 0 | 491 |
 | [Townscaper](games/t/townscaper.md) | 4.72 | 164 | 0 | 491 |
 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.20 | 814 | 0 | 491 |
-| [Trackmania](games/t/trackmania.md) | 4.67 | 255 | 2,644 | 90 |
+| [Trackmania](games/t/trackmania.md) | 4.67 | 255 | 2,652 | 90 |
 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.82 | 62 | 0 | 491 |
 | [Tracks of Thought](games/t/tracks_of_thought.md) | - | - | - | - |
 | [Tracks of Triumph](games/9/974517e397b144c6a5b58a81b5bc1e73.md) | - | - | - | - |
@@ -2507,7 +2507,7 @@
 | [War Mongrels](games/w/war_mongrels.md) | 4.32 | 746 | 0 | 491 |
 | [Warface](games/w/warface.md) | 3.91 | 904 | 391 | 204 |
 | [WarForwards](games/w/warforwards.md) | - | - | 0 | - |
-| [Warframe](games/w/warframe.md) | 4.61 | 360 | 14,967 | 21 |
+| [Warframe](games/w/warframe.md) | 4.61 | 360 | 14,974 | 21 |
 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 211 | 876 | 143 |
 | [Warhammer 40,000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.60 | 385 | 0 | 491 |
 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 419 | 209 | 254 |

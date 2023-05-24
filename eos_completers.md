@@ -19,7 +19,7 @@
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.12% |
 | 18 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.90% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.85% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.84% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
 | 22 | [Scorn](games/s/scorn.md) | 6.88% |
 | 23 | [Ravenlok](games/r/ravenlok.md) | 6.78% |
@@ -116,7 +116,7 @@
 | 112 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.39% |
 | 115 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 115 | [Tchia](games/t/tchia.md) | 0.37% |
-| 117 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
+| 117 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.35% |
 | 118 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.34% |
 | 118 | [Godlike Burger](games/g/godlike_burger.md) | 0.34% |
 | 120 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |

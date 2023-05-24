@@ -19,7 +19,7 @@
 | 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 408 | 198 |
 | 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 15,346 | 20 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 130 | 296 |
-| 19 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 251 | 239 |
+| 19 | [Dead Cells](games/d/dead_cells.md) | 4.88 | 252 | 239 |
 | 19 | [God of War](games/g/god_of_war.md) | 4.88 | 4,002 | 74 |
 | 19 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 9,443 | 35 |
 | 19 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.88 | 22 | 473 |
@@ -68,7 +68,7 @@
 | 62 | [Cozy Grove](games/c/cozy_grove.md) | 4.82 | 0 | 491 |
 | 62 | [King's Bounty: Armored Princess](games/k/king's_bounty__armored_princess.md) | 4.82 | 0 | 491 |
 | 62 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 4.82 | 501 | 185 |
-| 62 | [Sifu](games/s/sifu.md) | 4.82 | 6,084 | 53 |
+| 62 | [Sifu](games/s/sifu.md) | 4.82 | 6,089 | 53 |
 | 62 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.82 | 0 | 491 |
 | 71 | [A Short Hike](games/a/a_short_hike.md) | 4.81 | 0 | 491 |
 | 71 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 417 | 196 |
@@ -100,7 +100,7 @@
 | 90 | [Sailing Era](games/s/sailing_era.md) | 4.79 | 0 | 491 |
 | 90 | [Superliminal](games/s/superliminal.md) | 4.79 | 0 | 491 |
 | 100 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 5,019 | 61 |
-| 100 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,042 | 37 |
+| 100 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 9,054 | 37 |
 | 100 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,276 | 97 |
 | 100 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.78 | 36 | 421 |
 | 100 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 907 | 142 |
@@ -268,7 +268,7 @@
 | 255 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.67 | 0 | 491 |
 | 255 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.67 | 0 | 491 |
 | 255 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.67 | 0 | 491 |
-| 255 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,644 | 90 |
+| 255 | [Trackmania](games/t/trackmania.md) | 4.67 | 2,652 | 90 |
 | 255 | [Tropico 6](games/t/tropico_6.md) | 4.67 | 104 | 319 |
 | 271 | [APE OUT](games/a/ape_out.md) | 4.66 | 0 | 491 |
 | 271 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 72 | 359 |
@@ -383,7 +383,7 @@
 | 360 | [Supraland](games/s/supraland.md) | 4.61 | 7,613 | 40 |
 | 360 | [The Colonists](games/t/the_colonists.md) | 4.61 | 0 | 491 |
 | 360 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.61 | 242 | 242 |
-| 360 | [Warframe](games/w/warframe.md) | 4.61 | 14,967 | 21 |
+| 360 | [Warframe](games/w/warframe.md) | 4.61 | 14,974 | 21 |
 | 385 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 11,930 | 29 |
 | 385 | [Control](games/c/control.md) | 4.60 | 8,297 | 38 |
 | 385 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 213 | 252 |
@@ -445,7 +445,7 @@
 | 437 | [Hob](games/h/hob.md) | 4.57 | 0 | 491 |
 | 437 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 4.57 | 7,340 | 42 |
 | 437 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,084 | 86 |
-| 437 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,377 | 19 |
+| 437 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 18,389 | 19 |
 | 437 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 0 | 491 |
 | 448 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.56 | 0 | 491 |
 | 448 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.56 | 0 | 491 |

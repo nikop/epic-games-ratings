@@ -18,9 +18,9 @@
 | 16 | [Dead by Daylight](games/d/dead_by_daylight.md) | 27,629 | 4.52 | 504 |
 | 17 | [Dauntless](games/d/dauntless.md) | 19,941 | 4.53 | 492 |
 | 18 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 19,054 | 4.77 | 105 |
-| 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,377 | 4.57 | 437 |
+| 19 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 18,389 | 4.57 | 437 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 15,346 | 4.89 | 13 |
-| 21 | [Warframe](games/w/warframe.md) | 14,967 | 4.61 | 360 |
+| 21 | [Warframe](games/w/warframe.md) | 14,974 | 4.61 | 360 |
 | 22 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,360 | 4.58 | 419 |
 | 23 | [Borderlands 2](games/b/borderlands_2.md) | 14,275 | 4.76 | 116 |
 | 24 | [Maneater](games/m/maneater.md) | 13,467 | 4.49 | 557 |
@@ -36,7 +36,7 @@
 | 34 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 10,218 | 4.24 | 790 |
 | 35 | [Satisfactory](games/s/satisfactory.md) | 9,443 | 4.88 | 19 |
 | 36 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,126 | 4.61 | 360 |
-| 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,042 | 4.78 | 100 |
+| 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,054 | 4.78 | 100 |
 | 38 | [Control](games/c/control.md) | 8,297 | 4.60 | 385 |
 | 39 | [SnowRunner](games/s/snowrunner.md) | 8,154 | 4.76 | 116 |
 | 40 | [Supraland](games/s/supraland.md) | 7,613 | 4.61 | 360 |
@@ -52,7 +52,7 @@
 | 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,325 | 4.71 | 178 |
 | 51 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,278 | 4.80 | 77 |
 | 52 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,108 | 4.58 | 419 |
-| 53 | [Sifu](games/s/sifu.md) | 6,084 | 4.82 | 62 |
+| 53 | [Sifu](games/s/sifu.md) | 6,089 | 4.82 | 62 |
 | 54 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,928 | 4.64 | 312 |
 | 55 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,851 | 4.79 | 90 |
 | 56 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,773 | 4.66 | 271 |
@@ -89,7 +89,7 @@
 | 87 | [Hades](games/h/hades.md) | 3,070 | 4.92 | 3 |
 | 88 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,064 | 4.68 | 235 |
 | 89 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,877 | 4.77 | 105 |
-| 90 | [Trackmania](games/t/trackmania.md) | 2,644 | 4.67 | 255 |
+| 90 | [Trackmania](games/t/trackmania.md) | 2,652 | 4.67 | 255 |
 | 91 | [Path of Exile](games/p/path_of_exile.md) | 2,496 | 4.61 | 360 |
 | 92 | [RAGE 2](games/r/rage_2.md) | 2,450 | 4.28 | 772 |
 | 93 | [Among Us](games/a/among_us.md) | 2,428 | 4.58 | 419 |
@@ -238,7 +238,7 @@
 | 235 | [Sheltered](games/s/sheltered.md) | 267 | 4.42 | 648 |
 | 235 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 267 | 4.58 | 419 |
 | 238 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 254 | 4.84 | 48 |
-| 239 | [Dead Cells](games/d/dead_cells.md) | 251 | 4.88 | 19 |
+| 239 | [Dead Cells](games/d/dead_cells.md) | 252 | 4.88 | 19 |
 | 240 | [Crysis Remastered](games/c/crysis_remastered.md) | 246 | 4.40 | 674 |
 | 241 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 243 | 4.59 | 402 |
 | 242 | [Roller Champions™](games/r/roller_champions™.md) | 242 | 4.34 | 731 |
