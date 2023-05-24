@@ -16,7 +16,7 @@
 | Creating New Trends | 21.00% | ~7 |
 | Best Gala Ever | 21.00% | ~7 |
 | Welcome to the The Stylin' Soiree | 21.00% | ~7 |
-| Barcelona Hidden Style | 15.00% | ~5 |
+| Barcelona Hidden Style | 18.00% | ~6 |
 | Seoul Hidden Style | 15.00% | ~5 |
 | Hoverboard Race | 9.00% | ~3 |
 | Trendy Selfies | 6.00% | ~2 |

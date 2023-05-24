@@ -1,7 +1,7 @@
 # Galactic Civilizations IV
 [Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iv)  
 [View Rawdata](../../db/g/galactic_civilizations_iv.json)  
-Rating: 4.19 (Ranked 823)  
+Rating: 4.18 (Ranked 830)  
 Number of Ratings: 429  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -221,3 +221,4 @@ Diff (max vs sum): 65
 | 2023-05-19 | 4.18 | - | 91 | 658 |
 | 2023-05-21 | 4.19 | - | 91 | 658 |
 | 2023-05-22 | 4.19 | - | 92 | 659 |
+| 2023-05-24 | 4.18 | - | 92 | 659 |

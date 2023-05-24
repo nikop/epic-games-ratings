@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 84.00% | ~140 |
-| Ranidaphobia | 37.00% | ~62 |
-| Aspiring Editor | 26.00% | ~43 |
+| First Blood | 84.00% | ~144 |
+| Ranidaphobia | 39.00% | ~67 |
+| Aspiring Editor | 27.00% | ~46 |
 | Gun for Hire | 19.00% | ~32 |
 | I am the law! | 6.00% | ~10 |
 | Firestarter | 2.00% | ~3 |
@@ -20,6 +20,8 @@
 | Limp Richard | 0.60% | ~1 |
 | Jarhead | 0.60% | ~1 |
 | Dr Jones | 0.60% | ~1 |
+| Exorcist | 0.60% | ~1 |
+| From Darkness to Light | 0.60% | ~1 |
 | Giant Killer | 0.60% | ~1 |
 | Infiltrator | 0.60% | ~1 |
 | Pushing Daisy | 0.60% | ~1 |
@@ -27,6 +29,7 @@
 | Sensei | 0.60% | ~1 |
 | Side Order | 0.60% | ~1 |
 | Technophobe | 0.60% | ~1 |
+| There Can Be Only One! | 0.60% | ~1 |
 | The meaning of Kain | 0.60% | ~1 |
 | The Watchers | 0.60% | ~1 |
 | Alpha Editor | 0.00% | ~0 |
@@ -40,11 +43,9 @@
 | Dressed To Kill | 0.00% | ~0 |
 | Editor Adept | 0.00% | ~0 |
 | Endgame | 0.00% | ~0 |
-| Exorcist | 0.00% | ~0 |
 | Experienced | 0.00% | ~0 |
 | Five Finger Deathcount | 0.00% | ~0 |
 | Fratricide | 0.00% | ~0 |
-| From Darkness to Light | 0.00% | ~0 |
 | Goaaaaal! | 0.00% | ~0 |
 | Hold The Line | 0.00% | ~0 |
 | Master Editor | 0.00% | ~0 |
@@ -53,13 +54,12 @@
 | Savior | 0.00% | ~0 |
 | Shadow Boxin' | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
-| There Can Be Only One! | 0.00% | ~0 |
 | Wipe Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 167 (Ranked 240)  
+Progressed: 171 (Ranked 239)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-23 | 151 | 0 |
-| 2023-05-24 | 167 | 0 |
+| 2023-05-24 | 171 | 0 |

@@ -2,7 +2,7 @@
   "ID": "d354bf1a92ac4546aa20c74c8e7f70e1",
   "Name": "Project Highrise",
   "ProductSlug": "project-highrise-a567e8",
-  "Ranking_EOS_Progress": 239,
+  "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 81,
@@ -141,9 +141,9 @@
       "ID": "ach_100days",
       "SetID": "b8gh1fi",
       "Name": "First 100 Days",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "ach_ada",
@@ -165,9 +165,9 @@
       "ID": "ach_apartments_2",
       "SetID": "b8gh1fi",
       "Name": "Penthouse in the Sky",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_area",
@@ -205,9 +205,9 @@
       "ID": "ach_art_medium",
       "SetID": "b8gh1fi",
       "Name": "Curated Class",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_art_outside",
@@ -453,9 +453,9 @@
       "ID": "ach_floors_1",
       "SetID": "b8gh1fi",
       "Name": "Careful Constructor",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_floors_2",
@@ -573,9 +573,9 @@
       "ID": "ach_pop_2",
       "SetID": "b8gh1fi",
       "Name": "Master of Puppets",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "ach_prestige_1",
@@ -589,17 +589,17 @@
       "ID": "ach_prestige_2",
       "SetID": "b8gh1fi",
       "Name": "Established Fame",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "ach_prestige_3",
       "SetID": "b8gh1fi",
       "Name": "Sky High Stature",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ach_profit_0",
@@ -613,9 +613,9 @@
       "ID": "ach_profit_1",
       "SetID": "b8gh1fi",
       "Name": "Swimming in Surplus",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_profit_2",
@@ -637,9 +637,9 @@
       "ID": "ach_renters",
       "SetID": "b8gh1fi",
       "Name": "Lofty Landlord",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_restaurants_1",
@@ -677,25 +677,25 @@
       "ID": "ach_restaurants_5",
       "SetID": "b8gh1fi",
       "Name": "Starred Dining",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_retail_1",
       "SetID": "b8gh1fi",
       "Name": "Retail Revenue",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_retail_2",
       "SetID": "b8gh1fi",
       "Name": "Emporium Empire",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "ach_retail_3",
@@ -717,25 +717,25 @@
       "ID": "ach_revs_1",
       "SetID": "b8gh1fi",
       "Name": "Cashflow Chief",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "ach_revs_2",
       "SetID": "b8gh1fi",
       "Name": "Revenue Royalty",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "ach_revs_3",
       "SetID": "b8gh1fi",
       "Name": "It is Payday",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_scenarios_1",
@@ -789,33 +789,33 @@
       "ID": "ach_util_cable",
       "SetID": "b8gh1fi",
       "Name": "Tuned In",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_util_gas",
       "SetID": "b8gh1fi",
       "Name": "It\u0027s a Gas",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_util_phone",
       "SetID": "b8gh1fi",
       "Name": "Phoning It In",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "ach_util_power",
       "SetID": "b8gh1fi",
       "Name": "Get Electrified",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "ach_util_water",
@@ -829,17 +829,17 @@
       "ID": "ach_veryhappy",
       "SetID": "b8gh1fi",
       "Name": "Thrilled Tenants",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ach_visitors_1",
       "SetID": "b8gh1fi",
       "Name": "Destination Destiny",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     }
   ],
   "AchievementSets": [
@@ -854,8 +854,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-05-24T02:10:35.6784835+00:00",
+  "LastChanged_Achievements": "2023-05-24T03:05:34.0825464+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:39.3542327+00:00",
-  "LastUpdate_Ratings": "2023-05-24T02:02:51.226908+00:00",
-  "LastUpdate_Achievements": "2023-05-24T02:10:35.6785869+00:00"
+  "LastUpdate_Ratings": "2023-05-24T02:57:50.9783251+00:00",
+  "LastUpdate_Achievements": "2023-05-24T03:05:34.0826585+00:00"
 }

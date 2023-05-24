@@ -2,7 +2,7 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 831,
+  "Ranking_Rating": 830,
   "Ranking_Popularity": 397,
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 101,
@@ -428,9 +428,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13452,
+  "EOS_Progressed": 13454,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 886,
+  "EOS_NewPlayers": 888,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1358,6 +1358,11 @@
       "Time": "2023-05-24T02:07:37.6838079+00:00",
       "NumProgressed": 13452,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-05-24T03:03:10.4977696+00:00",
+      "NumProgressed": 13454,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 40,
@@ -1575,25 +1580,25 @@
       "ID": "STORY_HABITAT",
       "SetID": "4hj6d86",
       "Name": "Without A Paddle",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 108
     },
     {
       "ID": "STORY_HANGAR",
       "SetID": "4hj6d86",
       "Name": "In the Pipe, Five by Five",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 67
     },
     {
       "ID": "STORY_MINETOWN",
       "SetID": "4hj6d86",
       "Name": "What Lies Beneath",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 27
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -1607,9 +1612,9 @@
       "ID": "STORY_SNOWCAT",
       "SetID": "4hj6d86",
       "Name": "Crash Site",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 67
     },
     {
       "ID": "STORY_TOWER",
@@ -1688,13 +1693,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13452,
+      "Progressed": 13454,
       "Completed": 52
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1378,
+      "Progressed": 1380,
       "Completed": 29
     }
   ],
@@ -1702,8 +1707,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-23T19:57:59.4143533+00:00",
-  "LastChanged_Achievements": "2023-05-24T02:07:37.6838067+00:00",
+  "LastChanged_Achievements": "2023-05-24T03:03:10.4977691+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-24T02:02:37.8827167+00:00",
-  "LastUpdate_Achievements": "2023-05-24T02:07:37.683857+00:00"
+  "LastUpdate_Ratings": "2023-05-24T02:57:38.5106541+00:00",
+  "LastUpdate_Achievements": "2023-05-24T03:03:10.4978069+00:00"
 }

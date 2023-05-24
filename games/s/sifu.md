@@ -9,13 +9,13 @@ Number of Ratings: 9,492  (23.09.2022)
 | Diligence as a goal | 4.00% | ~567 |
 | Project Arena | 3.00% | ~425 |
 | Bloody Sport | 1.00% | ~142 |
+| The best strikes are the ones we avoid | 1.00% | ~142 |
 | The Hateful Pole Fighter | 0.90% | ~6,344 |
 | A Lady's Blood in the Snow | 0.90% | ~6,344 |
 | State of constant learning | 0.90% | ~6,344 |
 | Qi Gong: Breath | 0.90% | ~6,344 |
 | Path of the Prospect | 0.90% | ~6,344 |
 | Rumble in the Hangar | 0.90% | ~6,344 |
-| The best strikes are the ones we avoid | 0.90% | ~128 |
 | The Old Grandmaster | 0.80% | ~5,639 |
 | The Assault | 0.80% | ~5,639 |
 | Lady Wing Chun | 0.80% | ~5,639 |
@@ -35,11 +35,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Mind | 0.50% | ~3,524 |
 | I know Kung-Fu | 0.50% | ~3,524 |
 | A Touch of Acumen | 0.50% | ~71 |
-| Muk Yan Master | 0.40% | ~2,819 |
-| Tiger on Fire | 0.40% | ~2,819 |
-| Source of Flying Daggers | 0.40% | ~2,819 |
-| Iron Money | 0.40% | ~2,819 |
-| Detective Story | 0.40% | ~2,819 |
+| Muk Yan Master | 0.40% | ~2,820 |
+| Tiger on Fire | 0.40% | ~2,820 |
+| Source of Flying Daggers | 0.40% | ~2,820 |
+| Iron Money | 0.40% | ~2,820 |
+| Detective Story | 0.40% | ~2,820 |
 | Legendary Talismans of Wuxing | 0.30% | ~2,115 |
 | Prodigal Child | 0.30% | ~2,115 |
 | The 36th Chamber of Kung-Fu | 0.30% | ~2,115 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~705 |
 | Warriors from the Mountain | 0.10% | ~705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,874 (Ranked 15)  
+Progressed: 704,877 (Ranked 15)  
 Completed: 12,733 (1.81%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 12,733 (1.81%) (Ranked 64)
 | 2023-05-21 | 704,407 | 12,733 |
 | 2023-05-22 | 704,647 | 12,733 |
 | 2023-05-23 | 704,864 | 12,733 |
-| 2023-05-24 | 704,874 | 12,733 |
+| 2023-05-24 | 704,877 | 12,733 |
 ## Awards
 Max (Great Boss Battles): 6,084  (Ranked 53)  
 Sum: 10,355 (Ranked 77)  

@@ -983,7 +983,7 @@
   ],
   "EOS_Progressed": 5658,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 299,
+  "EOS_NewPlayers": 298,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3834,9 +3834,9 @@
       "ID": "26",
       "SetID": "8idi9ml",
       "Name": "Big Game Hunter",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 905
+      "UsersEstimate": 962
     },
     {
       "ID": "27",
@@ -4170,8 +4170,8 @@
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-05-13T10:01:00.1135595+00:00",
-  "LastChanged_Achievements": "2023-05-24T02:10:34.7217058+00:00",
+  "LastChanged_Achievements": "2023-05-24T03:05:33.0358424+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:33.4626364+00:00",
-  "LastUpdate_Ratings": "2023-05-24T02:04:23.2093278+00:00",
-  "LastUpdate_Achievements": "2023-05-24T02:10:34.7217787+00:00"
+  "LastUpdate_Ratings": "2023-05-24T02:59:24.1563625+00:00",
+  "LastUpdate_Achievements": "2023-05-24T03:05:33.0359139+00:00"
 }

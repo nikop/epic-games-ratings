@@ -23,10 +23,10 @@ Rating: 3.87 (Ranked 906)
 | Enlightenment | 11.00% | ~126 |
 | Lieutenant | 11.00% | ~126 |
 | Milestone collector | 10.00% | ~115 |
+| The Unstoppable | 10.00% | ~115 |
 | Mysterious Rock | 9.00% | ~104 |
 | Natural Talent | 9.00% | ~104 |
 | Superior | 9.00% | ~104 |
-| The Unstoppable | 9.00% | ~104 |
 | Scientist | 8.00% | ~92 |
 | Daily Quest Completionist | 7.00% | ~81 |
 | Challenger | 6.00% | ~69 |

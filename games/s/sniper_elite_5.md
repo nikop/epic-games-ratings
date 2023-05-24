@@ -32,14 +32,14 @@ Rating: 4.35 (Ranked 720)
 | Snake in the Grass | 1.00% | ~13 |
 | The Kraken Sleeps | 1.00% | ~13 |
 | The Long Game | 0.90% | ~12 |
+| Set Europe Ablaze | 0.90% | ~12 |
 | Rigged to Blow | 0.90% | ~12 |
 | Climbing the Ladder | 0.80% | ~10 |
-| Set Europe Ablaze | 0.80% | ~10 |
-| No Stone Unturned | 0.50% | ~6 |
-| My Little Friend | 0.50% | ~6 |
-| It'll Buff Right Out | 0.50% | ~6 |
-| Locomotion Commotion | 0.50% | ~6 |
-| Brains of the Operation | 0.50% | ~6 |
+| No Stone Unturned | 0.50% | ~7 |
+| My Little Friend | 0.50% | ~7 |
+| It'll Buff Right Out | 0.50% | ~7 |
+| Locomotion Commotion | 0.50% | ~7 |
+| Brains of the Operation | 0.50% | ~7 |
 | Operation Foxley | 0.40% | ~5 |
 | Strategist | 0.30% | ~4 |
 | Shoot for the Moon | 0.30% | ~4 |
@@ -77,7 +77,7 @@ Rating: 4.35 (Ranked 720)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,300 (Ranked 157)  
+Progressed: 1,302 (Ranked 157)  
 Completed: 2 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 2 (0.15%) (Ranked 148)
 | 2023-05-21 | 1,126 | 2 |
 | 2023-05-22 | 1,233 | 2 |
 | 2023-05-23 | 1,294 | 2 |
-| 2023-05-24 | 1,300 | 2 |
+| 2023-05-24 | 1,302 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

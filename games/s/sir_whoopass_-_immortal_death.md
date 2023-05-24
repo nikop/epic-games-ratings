@@ -30,8 +30,8 @@
 | Cockadoodledoo! | 38.00% | ~21 |
 | Make America Grate Again | 36.00% | ~20 |
 | Self assessed tax return | 36.00% | ~20 |
+| Karaoke king | 35.00% | ~19 |
 | You are no match for me, Billy! | 33.00% | ~18 |
-| Karaoke king | 33.00% | ~18 |
 | You can't stop me, bro! | 33.00% | ~18 |
 | Haemochromatosis | 33.00% | ~18 |
 | Pasta Bolognese | 33.00% | ~18 |

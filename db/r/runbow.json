@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 243478,
+  "EOS_Progressed": 243479,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3064,6 +3064,11 @@
       "Time": "2023-05-24T02:10:19.8231866+00:00",
       "NumProgressed": 243478,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-24T03:05:18.354097+00:00",
+      "NumProgressed": 243479,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 46,
@@ -3251,7 +3256,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 129043
+      "UsersEstimate": 129044
     },
     {
       "ID": "indegestible",
@@ -3267,7 +3272,7 @@
       "Name": "Into The Drift",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17043
+      "UsersEstimate": 17044
     },
     {
       "ID": "itsTheFall",
@@ -3275,7 +3280,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 63304
+      "UsersEstimate": 63305
     },
     {
       "ID": "justABit",
@@ -3347,7 +3352,7 @@
       "Name": "Ready? Fight!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17043
+      "UsersEstimate": 17044
     },
     {
       "ID": "rideTheWave",
@@ -3379,7 +3384,7 @@
       "Name": "The Stunner",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51130
+      "UsersEstimate": 51131
     },
     {
       "ID": "thunderstruck",
@@ -3435,14 +3440,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 38956
+      "UsersEstimate": 38957
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 243478,
+      "Progressed": 243479,
       "Completed": 2
     }
   ],
@@ -3450,8 +3455,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-05-24T02:10:19.8231859+00:00",
+  "LastChanged_Achievements": "2023-05-24T03:05:18.3540964+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:26.6901793+00:00",
-  "LastUpdate_Ratings": "2023-05-24T02:03:43.9674586+00:00",
-  "LastUpdate_Achievements": "2023-05-24T02:10:19.8232456+00:00"
+  "LastUpdate_Ratings": "2023-05-24T02:58:44.3387217+00:00",
+  "LastUpdate_Achievements": "2023-05-24T03:05:18.3541509+00:00"
 }

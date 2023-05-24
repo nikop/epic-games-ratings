@@ -2,8 +2,8 @@
   "ID": "3d7d73d0611849969f568da28ae10530",
   "Name": "TT Isle of Man: Ride on the Edge 3 - Pre-Purchase",
   "ProductSlug": "tt-isle-of-man-ride-on-the-edge-3",
-  "Ranking_EOS_Progress": 293,
-  "Ranking_EOS_Completed": 60,
+  "Ranking_EOS_Progress": 291,
+  "Ranking_EOS_Completed": 61,
   "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 46,
+  "EOS_Progressed": 47,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.17,
+  "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
       "Time": "2023-05-09T11:06:33.5022357+00:00",
@@ -234,6 +234,11 @@
       "Time": "2023-05-23T20:02:12.158037+00:00",
       "NumProgressed": 46,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-24T02:59:56.0869691+00:00",
+      "NumProgressed": 47,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 39,
@@ -259,7 +264,7 @@
       "ID": "ACHIEVEMENT_03",
       "SetID": "gagif7",
       "Name": "To Each Their Own",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 5,
       "UsersEstimate": 21
     },
@@ -291,7 +296,7 @@
       "ID": "ACHIEVEMENT_07",
       "SetID": "gagif7",
       "Name": "Seven-League Boots",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -387,7 +392,7 @@
       "ID": "ACHIEVEMENT_19",
       "SetID": "gagif7",
       "Name": "Serial Winner",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -467,7 +472,7 @@
       "ID": "ACHIEVEMENT_29",
       "SetID": "gagif7",
       "Name": "You Get An Upgrade, You Get An Upgrade!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -475,7 +480,7 @@
       "ID": "ACHIEVEMENT_30",
       "SetID": "gagif7",
       "Name": "Onwards and Upwards",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -483,7 +488,7 @@
       "ID": "ACHIEVEMENT_31",
       "SetID": "gagif7",
       "Name": "No Room for Improvement",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -491,7 +496,7 @@
       "ID": "ACHIEVEMENT_32",
       "SetID": "gagif7",
       "Name": "Upgradeaholic",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -507,7 +512,7 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "gagif7",
       "Name": "You\u0027re Going Down!",
-      "Percentage": 98,
+      "Percentage": 96,
       "XP": 5,
       "UsersEstimate": 45
     },
@@ -515,15 +520,15 @@
       "ID": "ACHIEVEMENT_35",
       "SetID": "gagif7",
       "Name": "Tailor-Made",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_36",
       "SetID": "gagif7",
       "Name": "Tailor-Made for Two",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -539,7 +544,7 @@
       "ID": "ACHIEVEMENT_38",
       "SetID": "gagif7",
       "Name": "Lone Wolf",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -547,7 +552,7 @@
       "ID": "ACHIEVEMENT_39",
       "SetID": "gagif7",
       "Name": "Playing God",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 3
     }
@@ -556,14 +561,14 @@
     {
       "ID": "gagif7",
       "IsBase": true,
-      "Progressed": 46,
+      "Progressed": 47,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-05-24T00:02:11.5222789+00:00",
+  "LastChanged_Achievements": "2023-05-24T02:59:56.0869465+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:05.2189133+00:00",
-  "LastUpdate_Ratings": "2023-05-24T02:02:24.0738917+00:00",
-  "LastUpdate_Achievements": "2023-05-24T00:02:11.5223033+00:00"
+  "LastUpdate_Ratings": "2023-05-24T02:57:25.8991012+00:00",
+  "LastUpdate_Achievements": "2023-05-24T02:59:56.0892236+00:00"
 }

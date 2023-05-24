@@ -40,8 +40,8 @@ Rating: 4.55 (Ranked 466)
 | Pedal to the Metal | 0.60% | ~13 |
 | Sustainable Energy | 0.50% | ~11 |
 | You Had One Job... | 0.50% | ~11 |
+| What the Ruins Teach Us | 0.50% | ~11 |
 | Praise the Hull! | 0.40% | ~8 |
-| What the Ruins Teach Us | 0.40% | ~8 |
 | Space Greenhouse | 0.30% | ~6 |
 | Help of the Forgotten Member | 0.30% | ~6 |
 | Mutual Loyalty | 0.20% | ~4 |

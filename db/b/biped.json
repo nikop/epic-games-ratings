@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1742,
+  "EOS_Progressed": 1744,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 564,
+  "EOS_NewPlayers": 566,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1921,6 +1921,11 @@
       "Time": "2023-05-24T02:10:01.2596644+00:00",
       "NumProgressed": 1742,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T03:04:59.9332897+00:00",
+      "NumProgressed": 1744,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -1932,7 +1937,7 @@
       "Name": "First Step",
       "Percentage": 45,
       "XP": 45,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "10",
@@ -1988,7 +1993,7 @@
       "Name": "Dense Forest",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "3",
@@ -1996,7 +2001,7 @@
       "Name": "Cactus Vally",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "4",
@@ -2020,7 +2025,7 @@
       "Name": "High Treetops",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "7",
@@ -2051,7 +2056,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 1742,
+      "Progressed": 1744,
       "Completed": 0
     }
   ],
@@ -2059,8 +2064,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-05-24T02:10:01.2596631+00:00",
+  "LastChanged_Achievements": "2023-05-24T03:04:59.9332891+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:36.8488775+00:00",
-  "LastUpdate_Ratings": "2023-05-24T02:02:47.1135867+00:00",
-  "LastUpdate_Achievements": "2023-05-24T02:10:01.2596897+00:00"
+  "LastUpdate_Ratings": "2023-05-24T02:57:46.8219399+00:00",
+  "LastUpdate_Achievements": "2023-05-24T03:04:59.9333132+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "632b8c18774d480d978cb116518cd06b",
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
-  "Ranking_EOS_Progress": 240,
+  "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 81,
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 167,
+  "EOS_Progressed": 171,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -82,6 +82,11 @@
       "Time": "2023-05-24T02:10:00.6864534+00:00",
       "NumProgressed": 167,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T03:04:59.423128+00:00",
+      "NumProgressed": 171,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -107,9 +112,9 @@
       "ID": "ASPIRING_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Aspiring Editor",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 46
     },
     {
       "ID": "ATTENBOROUGH",
@@ -251,9 +256,9 @@
       "ID": "EXORCIST",
       "SetID": "9a4jnji",
       "Name": "Exorcist",
-      "Percentage": 0,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "EXPERIENCED",
@@ -277,7 +282,7 @@
       "Name": "First Blood",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 144
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -299,9 +304,9 @@
       "ID": "FROM_DARKNESS",
       "SetID": "9a4jnji",
       "Name": "From Darkness to Light",
-      "Percentage": 0,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GIANT_KILLER",
@@ -395,9 +400,9 @@
       "ID": "RANIDAPHOBIA",
       "SetID": "9a4jnji",
       "Name": "Ranidaphobia",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 67
     },
     {
       "ID": "RECYCLER",
@@ -467,9 +472,9 @@
       "ID": "THERE_CAN_BE_ONLY_ONE",
       "SetID": "9a4jnji",
       "Name": "There Can Be Only One!",
-      "Percentage": 0,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "THE_MEANING_OF_KAIN",
@@ -500,14 +505,14 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 167,
+      "Progressed": 171,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T20:58:17.8341975+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
-  "LastChanged_Achievements": "2023-05-24T02:10:00.6864522+00:00",
+  "LastChanged_Achievements": "2023-05-24T03:04:59.4231274+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:53.8503835+00:00",
-  "LastUpdate_Ratings": "2023-05-24T02:03:03.6164689+00:00",
-  "LastUpdate_Achievements": "2023-05-24T02:10:00.6864975+00:00"
+  "LastUpdate_Ratings": "2023-05-24T02:58:03.4701317+00:00",
+  "LastUpdate_Achievements": "2023-05-24T03:04:59.4231725+00:00"
 }

@@ -13,8 +13,8 @@ Rating: 4.75 (Ranked 130)
 | Ahem Ahem | 9.00% | ~539 |
 | Audiophile | 7.00% | ~419 |
 | Clay Pigeon | 6.00% | ~360 |
+| Historian | 6.00% | ~360 |
 | Soul-Canon | 6.00% | ~360 |
-| Historian | 5.00% | ~300 |
 | Iconoclast | 5.00% | ~300 |
 | Shredder | 5.00% | ~300 |
 | Happy Camper | 4.00% | ~240 |
