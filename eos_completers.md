@@ -18,23 +18,23 @@
 | 16 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.12% |
 | 18 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.86% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.79% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.85% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.78% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
 | 22 | [Scorn](games/s/scorn.md) | 6.88% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 6.76% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 6.75% |
 | 24 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 25 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.71% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.45% |
-| 28 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.41% |
-| 29 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.85% |
-| 30 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 4.79% |
+| 28 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.36% |
+| 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.14% |
+| 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.85% |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
-| 32 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.44% |
-| 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.43% |
+| 32 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.43% |
+| 33 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.35% |
 | 34 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.26% |
-| 35 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.98% |
+| 35 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.97% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
 | 37 | [Doodle God](games/d/doodle_god.md) | 3.90% |
 | 38 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
@@ -43,7 +43,7 @@
 | 41 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.28% |
 | 42 | [The Bunker](games/t/the_bunker.md) | 3.23% |
 | 43 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
-| 44 | [ZZT!](games/z/zzt!.md) | 3.16% |
+| 44 | [ZZT!](games/z/zzt!.md) | 3.15% |
 | 45 | [HordeCore](games/h/hordecore.md) | 3.00% |
 | 46 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.99% |
 | 47 | [MultiVersus](games/m/multiversus.md) | 2.95% |
@@ -139,8 +139,8 @@
 | 135 | [Filament](games/f/filament.md) | 0.22% |
 | 135 | [Going Medieval](games/g/going_medieval.md) | 0.22% |
 | 139 | [Blanc](games/b/blanc.md) | 0.21% |
-| 139 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.21% |
-| 141 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
+| 140 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.20% |
+| 140 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.20% |
 | 142 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
 | 143 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.18% |
 | 144 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.16% |
