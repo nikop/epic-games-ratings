@@ -1,33 +1,33 @@
 # AER Memories of Old
 [Store](https://store.epicgames.com/en-US/p/aer-memories-of-old)  
 [View Rawdata](../../db/a/aer_memories_of_old.json)  
-Rating: 4.45 (Ranked 606)  
+Rating: 4.45 (Ranked 605)  
 Number of Ratings: 170  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~7,727 |
-| Mama? | 28.00% | ~2,847 |
-| People's Haven | 19.00% | ~1,932 |
-| Cartographer | 18.00% | ~1,830 |
-| Knowledge for Power | 15.00% | ~1,525 |
-| Antlers of Stone | 15.00% | ~1,525 |
-| Gaze into the abyss | 14.00% | ~1,423 |
-| Mausoleum of Ice | 14.00% | ~1,423 |
-| Equilibrium | 13.00% | ~1,322 |
-| In the belly of the beast | 12.00% | ~1,220 |
-| Wings of Stone | 12.00% | ~1,220 |
+| Light at the end of the tunnel | 76.00% | ~7,732 |
+| Mama? | 28.00% | ~2,849 |
+| People's Haven | 19.00% | ~1,933 |
+| Cartographer | 18.00% | ~1,831 |
+| Knowledge for Power | 15.00% | ~1,526 |
+| Antlers of Stone | 15.00% | ~1,526 |
+| Gaze into the abyss | 14.00% | ~1,424 |
+| Mausoleum of Ice | 14.00% | ~1,424 |
+| Equilibrium | 13.00% | ~1,323 |
+| In the belly of the beast | 12.00% | ~1,221 |
+| Wings of Stone | 12.00% | ~1,221 |
 | Condor condo | 10.00% | ~1,017 |
-| Memorial | 9.00% | ~915 |
-| An uninvited guest | 8.00% | ~813 |
+| Memorial | 9.00% | ~916 |
+| An uninvited guest | 8.00% | ~814 |
 | Written in stone | 7.00% | ~712 |
 | Talk to all the spirit animals | 7.00% | ~712 |
 | Ripples on the surface | 6.00% | ~610 |
 | Tails of Stone | 6.00% | ~610 |
 | Baa from the past | 6.00% | ~610 |
-| Hide and Seek | 5.00% | ~508 |
+| Hide and Seek | 5.00% | ~509 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,167 (Ranked 106)  
+Progressed: 10,174 (Ranked 106)  
 Completed: 217 (2.13%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,6 +61,7 @@ Completed: 217 (2.13%) (Ranked 61)
 | 2023-05-21 | 10,001 | 216 |
 | 2023-05-22 | 10,097 | 217 |
 | 2023-05-23 | 10,167 | 217 |
+| 2023-05-24 | 10,174 | 217 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

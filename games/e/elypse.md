@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A path of no return | 102.00% | ~41 |
-| Pigeon | 83.00% | ~33 |
-| A bottomless pit | 83.00% | ~33 |
-| Baited | 70.00% | ~28 |
-| Splash! | 63.00% | ~25 |
-| "Swoosh" | 60.00% | ~24 |
-| The light at the end of the tunnel | 60.00% | ~24 |
-| Masochistic | 53.00% | ~21 |
-| Soft skin | 48.00% | ~19 |
-| Sensitive soul | 38.00% | ~15 |
-| Squid game | 33.00% | ~13 |
-| Hard Rock | 30.00% | ~12 |
-| Rock Solid | 28.00% | ~11 |
-| The beast within | 28.00% | ~11 |
-| Rooftop | 28.00% | ~11 |
-| It's getting dark | 28.00% | ~11 |
-| Homeless | 25.00% | ~10 |
-| Magnitude 5 | 23.00% | ~9 |
-| Big badaboom! | 23.00% | ~9 |
+| A path of no return | 102.00% | ~42 |
+| A bottomless pit | 83.00% | ~34 |
+| Pigeon | 80.00% | ~33 |
+| Baited | 68.00% | ~28 |
+| Splash! | 61.00% | ~25 |
+| "Swoosh" | 59.00% | ~24 |
+| The light at the end of the tunnel | 59.00% | ~24 |
+| Masochistic | 51.00% | ~21 |
+| Soft skin | 46.00% | ~19 |
+| Sensitive soul | 37.00% | ~15 |
+| Squid game | 32.00% | ~13 |
+| Hard Rock | 29.00% | ~12 |
+| Rock Solid | 27.00% | ~11 |
+| The beast within | 27.00% | ~11 |
+| Rooftop | 27.00% | ~11 |
+| It's getting dark | 27.00% | ~11 |
+| Homeless | 24.00% | ~10 |
+| Magnitude 5 | 22.00% | ~9 |
+| Big badaboom! | 22.00% | ~9 |
 | Nokron tower | 20.00% | ~8 |
 | Payback | 20.00% | ~8 |
-| Full power | 18.00% | ~7 |
-| "Ah sh*t... Here we go again!" | 18.00% | ~7 |
-| Compulsive hoarder | 18.00% | ~7 |
-| Bookworm | 18.00% | ~7 |
+| Full power | 17.00% | ~7 |
+| "Ah sh*t... Here we go again!" | 17.00% | ~7 |
+| Compulsive hoarder | 17.00% | ~7 |
+| Bookworm | 17.00% | ~7 |
 | MayDay! MayDay! | 15.00% | ~6 |
 | GG EZ | 5.00% | ~2 |
 | Comeback | 5.00% | ~2 |
@@ -39,7 +39,7 @@
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 297)  
+Progressed: 41 (Ranked 296)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -51,3 +51,4 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-21 | 32 | 0 |
 | 2023-05-22 | 37 | 0 |
 | 2023-05-23 | 40 | 0 |
+| 2023-05-24 | 41 | 0 |

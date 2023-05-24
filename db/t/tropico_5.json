@@ -2,13 +2,13 @@
   "ID": "7015c51a49be4592b5ba3ae2577723c5",
   "Name": "Tropico 5",
   "ProductSlug": "tropico-5",
-  "Ranking_Rating": 606,
+  "Ranking_Rating": 605,
   "Ranking_Popularity": 311,
-  "Ranking_PopularitySum": 241,
+  "Ranking_PopularitySum": 240,
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1665,10 +1665,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 890,
       "NumberOfAwardsMax": 114
+    },
+    {
+      "Time": "2023-05-24T02:03:41.5661396+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 891,
+      "NumberOfAwardsMax": 114
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 890,
+  "NumberOfAwards": 891,
   "NumberOfAwardsMax": 114,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1700,7 +1706,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 98
+      "Count": 99
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1750,8 +1756,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:35.4138302+00:00",
-  "LastChanged": "2023-05-13T05:59:01.5157136+00:00",
+  "LastChanged": "2023-05-24T02:03:41.5661395+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:24.4649372+00:00",
-  "LastUpdate_Ratings": "2023-05-23T23:59:15.1676736+00:00",
-  "LastUpdate_Achievements": "2023-05-24T00:03:23.5403109+00:00"
+  "LastUpdate_Ratings": "2023-05-24T02:03:41.5661401+00:00",
+  "LastUpdate_Achievements": "2023-05-24T02:08:15.3172139+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2498,9 +2498,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 9125,
+  "EOS_Progressed": 9127,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 284,
+  "EOS_NewPlayers": 286,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4348,6 +4348,11 @@
       "Time": "2023-05-24T00:06:30.1774208+00:00",
       "NumProgressed": 9125,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T02:10:37.9504759+00:00",
+      "NumProgressed": 9127,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -4399,7 +4404,7 @@
       "Name": "Heart of the Fallen Land",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "07_FinalThreshold",
@@ -4543,7 +4548,7 @@
       "Name": "The Legacy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "25_MasterfulDispell",
@@ -4591,7 +4596,7 @@
       "Name": "Divide and Rule",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "32_MythicReinforcements",
@@ -4599,7 +4604,7 @@
       "Name": "Mythic Reinforcements",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "33_DefendersHeart",
@@ -4631,7 +4636,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -4639,7 +4644,7 @@
       "Name": "Your First Big Enemy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "38_PrelatesNemesis",
@@ -4727,7 +4732,7 @@
       "Name": "A Spark",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "49_Flame",
@@ -4735,7 +4740,7 @@
       "Name": "A Flame",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "50_HeyIKnowYou",
@@ -4743,7 +4748,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -4791,7 +4796,7 @@
       "Name": "Get the Toad",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "57_PathOfDevil",
@@ -5286,21 +5291,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7907,
+      "Progressed": 7909,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9125,
+      "Progressed": 9127,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-23T19:58:32.5318283+00:00",
-  "LastChanged_Achievements": "2023-05-24T00:06:30.1774203+00:00",
+  "LastChanged_Achievements": "2023-05-24T02:10:37.9504752+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3010226+00:00",
-  "LastUpdate_Ratings": "2023-05-23T23:58:19.2063657+00:00",
-  "LastUpdate_Achievements": "2023-05-24T00:06:30.177566+00:00"
+  "LastUpdate_Ratings": "2023-05-24T02:03:01.8782766+00:00",
+  "LastUpdate_Achievements": "2023-05-24T02:10:37.9506506+00:00"
 }

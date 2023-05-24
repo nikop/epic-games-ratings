@@ -11,13 +11,13 @@
 | I like you...but I have to kill you... | 82.00% | ~45 |
 | Nerd | 82.00% | ~45 |
 | AHHHHHH.....I'M ON FIRE!!! | 80.00% | ~44 |
-| Not so hip anymore! | 78.00% | ~43 |
+| Not so hip anymore! | 80.00% | ~44 |
+| Blurry depth perception | 76.00% | ~42 |
 | Up and down | 75.00% | ~41 |
-| Blurry depth perception | 73.00% | ~40 |
 | Rolling, Rolling, Rolling | 69.00% | ~38 |
 | Oh, you're up to no gouda! | 60.00% | ~33 |
+| Fire-fighter! | 60.00% | ~33 |
 | Make Love not War-Craft a Mistlefoe | 58.00% | ~32 |
-| Fire-fighter! | 56.00% | ~31 |
 | Meat grinder | 53.00% | ~29 |
 | Butcher | 47.00% | ~26 |
 | You're not going to blow me up! | 47.00% | ~26 |

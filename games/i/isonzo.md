@@ -9,17 +9,17 @@ Number of Ratings: 98  (23.09.2022)
 | Peak Performance | 54.00% | ~3,136 |
 | Tutti Eroi! | 53.00% | ~3,078 |
 | You Shall Not Pass | 52.00% | ~3,020 |
-| Avanti Savoia! | 46.00% | ~2,671 |
-| Conrad von Hotzensocks | 35.00% | ~2,032 |
-| Mamma Mia! | 35.00% | ~2,032 |
-| Gabriele D'Annunzio | 32.00% | ~1,858 |
+| Avanti Savoia! | 46.00% | ~2,672 |
+| Conrad von Hotzensocks | 35.00% | ~2,033 |
+| Mamma Mia! | 35.00% | ~2,033 |
+| Gabriele D'Annunzio | 32.00% | ~1,859 |
 | Silver Lining | 28.00% | ~1,626 |
 | Aurelio Baruzzi | 22.00% | ~1,278 |
-| Veni Vidi Vici | 21.00% | ~1,219 |
-| Decimation | 20.00% | ~1,161 |
-| Donatello | 20.00% | ~1,161 |
-| Insubordination | 19.00% | ~1,103 |
-| The Italian Job | 19.00% | ~1,103 |
+| Veni Vidi Vici | 21.00% | ~1,220 |
+| Decimation | 20.00% | ~1,162 |
+| Donatello | 20.00% | ~1,162 |
+| Insubordination | 19.00% | ~1,104 |
+| The Italian Job | 19.00% | ~1,104 |
 | The Lion of the Isonzo | 18.00% | ~1,045 |
 | Ragazzi del '99 | 17.00% | ~987 |
 | Thus With A Kiss | 15.00% | ~871 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~23 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,807 (Ranked 118)  
+Progressed: 5,808 (Ranked 118)  
 Completed: 8 (0.14%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,10 +83,11 @@ Completed: 8 (0.14%) (Ranked 151)
 | 2023-05-21 | 5,764 | 8 |
 | 2023-05-22 | 5,784 | 8 |
 | 2023-05-23 | 5,807 | 8 |
+| 2023-05-24 | 5,808 | 8 |
 ## Awards
 Max (Highly Recommended): 30  (Ranked 445)  
-Sum: 237 (Ranked 343)  
-Diff (max vs sum): 102  
+Sum: 238 (Ranked 342)  
+Diff (max vs sum): 103  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 30 |
@@ -94,9 +95,9 @@ Diff (max vs sum): 102
 | This game has Quickly Understood Controls | 27 |
 | This game is Educational | 27 |
 | This game has Challenging Combat | 26 |
+| This game has Amazing Characters | 26 |
 | This game has Realistic Visuals | 26 |
 | This game has Diverse Characters | 25 |
-| This game has Amazing Characters | 25 |
 | This game has Competitive Players | 23 |
 | This game has a Kind Community | 20 |
 ## Ratings History
@@ -170,3 +171,4 @@ Diff (max vs sum): 102
 | 2023-05-18 | 4.56 | - | 30 | 234 |
 | 2023-05-19 | 4.56 | - | 30 | 235 |
 | 2023-05-21 | 4.56 | - | 30 | 237 |
+| 2023-05-24 | 4.56 | - | 30 | 238 |

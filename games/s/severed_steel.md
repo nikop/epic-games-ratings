@@ -5,19 +5,19 @@ Rating: 4.68 (Ranked 235)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 11.00% | ~44,784 |
-| 50 HEADSHOTS | 10.00% | ~40,713 |
-| FINISHED CHAPTER 1 | 8.00% | ~32,570 |
-| SCIENCE AND INDUSTRY | 8.00% | ~32,570 |
-| 200 HEADSHOTS | 6.00% | ~24,428 |
-| FINISHED CHAPTER 2 | 6.00% | ~24,428 |
-| FINISHED CHAPTER 3 | 5.00% | ~20,356 |
-| FINISHED CHAPTER 4 | 4.00% | ~16,285 |
-| FINISH CHAPTER 5 | 4.00% | ~16,285 |
-| CATHARTIC ESCAPISM | 4.00% | ~16,285 |
-| 1000 KILLS | 3.00% | ~12,214 |
-| FINISH CHAPTER 6 | 3.00% | ~12,214 |
-| FIREFIGHT LEVEL 10 | 1.00% | ~4,071 |
+| 100 KILLS | 11.00% | ~44,787 |
+| 50 HEADSHOTS | 10.00% | ~40,715 |
+| FINISHED CHAPTER 1 | 8.00% | ~32,572 |
+| SCIENCE AND INDUSTRY | 8.00% | ~32,572 |
+| 200 HEADSHOTS | 6.00% | ~24,429 |
+| FINISHED CHAPTER 2 | 6.00% | ~24,429 |
+| FINISHED CHAPTER 3 | 5.00% | ~20,358 |
+| FINISHED CHAPTER 4 | 4.00% | ~16,286 |
+| FINISH CHAPTER 5 | 4.00% | ~16,286 |
+| CATHARTIC ESCAPISM | 4.00% | ~16,286 |
+| 1000 KILLS | 3.00% | ~12,215 |
+| FINISH CHAPTER 6 | 3.00% | ~12,215 |
+| FIREFIGHT LEVEL 10 | 1.00% | ~4,072 |
 | FIREFIGHT LEVEL 20 | 0.60% | ~2,443 |
 | FIRST BLOOD | 0.60% | ~2,443 |
 | PACEMAKER | 0.40% | ~1,629 |
@@ -58,7 +58,7 @@ Rating: 4.68 (Ranked 235)
 | THE GAMBLER | 0.10% | ~407 |
 | WARRIOR IN A GARDEN | 0.10% | ~407 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 407,126 (Ranked 34)  
+Progressed: 407,154 (Ranked 34)  
 Completed: 30 (0.01%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,14 +92,14 @@ Completed: 30 (0.01%) (Ranked 193)
 | 2023-05-21 | 406,495 | 30 |
 | 2023-05-22 | 406,823 | 30 |
 | 2023-05-23 | 407,119 | 30 |
-| 2023-05-24 | 407,126 | 30 |
+| 2023-05-24 | 407,154 | 30 |
 ## Awards
-Max (Great Boss Battles): 170  (Ranked 275)  
-Sum: 170 (Ranked 366)  
+Max (Great Boss Battles): 171  (Ranked 274)  
+Sum: 171 (Ranked 365)  
 Diff (max vs sum): -91  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 170 |
+| This game has Great Boss Battles | 171 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -135,3 +135,4 @@ Diff (max vs sum): -91
 | 2023-05-07 | 4.68 | 168 | 168 |
 | 2023-05-12 | 4.68 | 169 | 169 |
 | 2023-05-22 | 4.68 | 170 | 170 |
+| 2023-05-24 | 4.68 | 171 | 171 |

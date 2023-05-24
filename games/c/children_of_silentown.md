@@ -12,7 +12,7 @@
 | Puppy | 61.00% | ~90 |
 | Coal's fur | 58.00% | ~85 |
 | Blue's drawing | 54.00% | ~79 |
-| Glass shards | 44.00% | ~65 |
+| Glass shards | 45.00% | ~66 |
 | Mysterious footprints | 44.00% | ~65 |
 | Complicated padlock | 43.00% | ~63 |
 | Big metal ruler | 41.00% | ~60 |
@@ -22,16 +22,16 @@
 | Mysterious paintings | 31.00% | ~46 |
 | Depths of the well | 22.00% | ~32 |
 | Children | 21.00% | ~31 |
-| Huge Snail | 15.00% | ~22 |
+| Huge Snail | 16.00% | ~24 |
 | Flower of hope | 14.00% | ~21 |
 | Back Home | 12.00% | ~18 |
+| Friend | 11.00% | ~16 |
 | Forest Howl | 10.00% | ~15 |
-| Friend | 10.00% | ~15 |
 | Old kettle | 9.00% | ~13 |
 | Hope | 5.00% | ~7 |
 | Hairball | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147 (Ranked 251)  
+Progressed: 147 (Ranked 252)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |

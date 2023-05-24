@@ -2,10 +2,10 @@
   "ID": "cc0a46b0f9844d79a343e2d394ac0598",
   "Name": "Rise of the Third Power",
   "ProductSlug": "rise-of-the-third-power-682886",
-  "Ranking_EOS_Progress": 256,
+  "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 294,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
     "PcReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 121,
+  "EOS_Progressed": 122,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.31,
+  "EOS_Completed_Percentage": 3.28,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:37.958758+00:00",
@@ -45,6 +45,11 @@
     {
       "Time": "2023-05-23T12:05:49.1744824+00:00",
       "NumProgressed": 121,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-24T02:10:12.5005046+00:00",
+      "NumProgressed": 122,
       "NumCompleted": 4
     }
   ],
@@ -87,9 +92,9 @@
       "ID": "Determined",
       "SetID": "4nce15l",
       "Name": "Determined",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 24
     },
     {
       "ID": "EmpyreanChampion",
@@ -119,15 +124,15 @@
       "ID": "Geared",
       "SetID": "4nce15l",
       "Name": "Geared",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 21
+      "UsersEstimate": 20
     },
     {
       "ID": "GettingItDone",
       "SetID": "4nce15l",
       "Name": "Gettin\u0027 It Done",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 40,
       "UsersEstimate": 65
     },
@@ -167,7 +172,7 @@
       "ID": "Overpowered",
       "SetID": "4nce15l",
       "Name": "Overpowered",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 10,
       "UsersEstimate": 99
     },
@@ -191,7 +196,7 @@
       "ID": "SideJob",
       "SetID": "4nce15l",
       "Name": "Side Job",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 10,
       "UsersEstimate": 94
     },
@@ -201,7 +206,7 @@
       "Name": "Sparkly",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Specialist",
@@ -224,7 +229,7 @@
     {
       "ID": "4nce15l",
       "IsBase": true,
-      "Progressed": 121,
+      "Progressed": 122,
       "Completed": 4
     }
   ],
@@ -232,8 +237,8 @@
   "FirstSeenRating": "2023-03-31T05:58:42.3919584+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.9587587+00:00",
   "LastChanged": "2023-03-31T05:58:42.3919585+00:00",
-  "LastChanged_Achievements": "2023-05-24T00:05:59.014187+00:00",
+  "LastChanged_Achievements": "2023-05-24T02:10:12.5005039+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:17.5684094+00:00",
-  "LastUpdate_Ratings": "2023-05-23T23:59:06.7393318+00:00",
-  "LastUpdate_Achievements": "2023-05-24T00:05:59.0141972+00:00"
+  "LastUpdate_Ratings": "2023-05-24T02:03:35.5556341+00:00",
+  "LastUpdate_Achievements": "2023-05-24T02:10:12.5005191+00:00"
 }

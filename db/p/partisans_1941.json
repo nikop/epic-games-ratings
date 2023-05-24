@@ -5,10 +5,10 @@
   "Ranking_Rating": 359,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 169,
+  "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 926,
+  "EOS_Progressed": 929,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -665,6 +665,11 @@
       "Time": "2023-05-23T23:06:42.430297+00:00",
       "NumProgressed": 926,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-24T02:10:26.5288505+00:00",
+      "NumProgressed": 929,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -700,7 +705,7 @@
       "Name": "The Big Bertha",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "Boy",
@@ -724,7 +729,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "Defense_Common",
@@ -756,7 +761,7 @@
       "Name": "E1M1",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "Everyone_is_here",
@@ -788,7 +793,7 @@
       "Name": "Grenadier",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "Hard_Serpent",
@@ -804,7 +809,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "High_noon",
@@ -828,7 +833,7 @@
       "Name": "Spice It Up",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "KillAllM2",
@@ -852,7 +857,7 @@
       "Name": "One by One",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "Miner",
@@ -868,7 +873,7 @@
       "Name": "Mosquito bite",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "Scout",
@@ -892,7 +897,7 @@
       "Name": "War Never Changes",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "We_were_not_here",
@@ -915,15 +920,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 926,
+      "Progressed": 929,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-05-24T00:06:16.5644635+00:00",
+  "LastChanged_Achievements": "2023-05-24T02:10:26.5288492+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:35.4826245+00:00",
-  "LastUpdate_Ratings": "2023-05-23T23:59:25.3786032+00:00",
-  "LastUpdate_Achievements": "2023-05-24T00:06:16.5644827+00:00"
+  "LastUpdate_Ratings": "2023-05-24T02:03:49.2590501+00:00",
+  "LastUpdate_Achievements": "2023-05-24T02:10:26.528873+00:00"
 }

@@ -15,7 +15,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Breath | 0.90% | ~6,344 |
 | Path of the Prospect | 0.90% | ~6,344 |
 | Rumble in the Hangar | 0.90% | ~6,344 |
-| The best strikes are the ones we avoid | 0.90% | ~127 |
+| The best strikes are the ones we avoid | 0.90% | ~128 |
 | The Old Grandmaster | 0.80% | ~5,639 |
 | The Assault | 0.80% | ~5,639 |
 | Lady Wing Chun | 0.80% | ~5,639 |
@@ -44,8 +44,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Prodigal Child | 0.30% | ~2,115 |
 | The 36th Chamber of Kung-Fu | 0.30% | ~2,115 |
 | Sword Stained With Blood | 0.30% | ~2,115 |
-| Martial Hub | 0.30% | ~42 |
-| Secure, Protect, Leave | 0.30% | ~42 |
+| Martial Hub | 0.30% | ~43 |
+| Secure, Protect, Leave | 0.30% | ~43 |
 | Drunken Fighter | 0.20% | ~1,410 |
 | Martial Artist | 0.20% | ~1,410 |
 | Knowledge Greed | 0.20% | ~1,410 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~705 |
 | Warriors from the Mountain | 0.10% | ~705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,865 (Ranked 15)  
+Progressed: 704,874 (Ranked 15)  
 Completed: 12,733 (1.81%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 12,733 (1.81%) (Ranked 64)
 | 2023-05-21 | 704,407 | 12,733 |
 | 2023-05-22 | 704,647 | 12,733 |
 | 2023-05-23 | 704,864 | 12,733 |
-| 2023-05-24 | 704,865 | 12,733 |
+| 2023-05-24 | 704,874 | 12,733 |
 ## Awards
 Max (Great Boss Battles): 6,084  (Ranked 53)  
 Sum: 10,355 (Ranked 77)  

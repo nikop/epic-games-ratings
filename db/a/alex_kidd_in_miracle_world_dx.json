@@ -4,8 +4,8 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 76,
-  "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
     "PcReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 231,
+  "EOS_Progressed": 232,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.3,
+  "EOS_Completed_Percentage": 1.29,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:09.0192053+00:00",
@@ -60,6 +60,11 @@
     {
       "Time": "2023-05-23T20:06:09.7532588+00:00",
       "NumProgressed": 231,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-24T02:10:00.9503167+00:00",
+      "NumProgressed": 232,
       "NumCompleted": 3
     }
   ],
@@ -112,7 +117,7 @@
       "Name": "Prisoner",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "GOOSEKA_DEFEATED",
@@ -192,14 +197,14 @@
       "Name": "Magic Ball",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     }
   ],
   "AchievementSets": [
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 231,
+      "Progressed": 232,
       "Completed": 3
     }
   ],
@@ -207,8 +212,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2023-05-24T00:05:44.5998014+00:00",
+  "LastChanged_Achievements": "2023-05-24T02:10:00.9503156+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:43.5401318+00:00",
-  "LastUpdate_Ratings": "2023-05-23T23:58:08.56902+00:00",
-  "LastUpdate_Achievements": "2023-05-24T00:05:44.5998118+00:00"
+  "LastUpdate_Ratings": "2023-05-24T02:02:54.0020873+00:00",
+  "LastUpdate_Achievements": "2023-05-24T02:10:00.9503305+00:00"
 }

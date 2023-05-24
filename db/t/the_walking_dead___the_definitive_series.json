@@ -4,11 +4,11 @@
   "ProductSlug": "walking-dead-definitive-series",
   "Ranking_Rating": 30,
   "Ranking_Popularity": 187,
-  "Ranking_PopularitySum": 272,
+  "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2019-09-10T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -769,10 +769,16 @@
       "Rating": 4.86,
       "NumberOfAwards": 651,
       "NumberOfAwardsMax": 466
+    },
+    {
+      "Time": "2023-05-24T02:04:08.7699495+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 652,
+      "NumberOfAwardsMax": 466
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 651,
+  "NumberOfAwards": 652,
   "NumberOfAwardsMax": 466,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -804,7 +810,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 32
+      "Count": 33
     },
     {
       "Text": "This game is Great for Beginners",
@@ -836,8 +842,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:07.806679+00:00",
-  "LastChanged": "2023-05-23T05:59:54.6816839+00:00",
+  "LastChanged": "2023-05-24T02:04:08.7699494+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:16.0097153+00:00",
-  "LastUpdate_Ratings": "2023-05-23T23:59:51.4805838+00:00",
-  "LastUpdate_Achievements": "2023-05-24T00:04:56.2621544+00:00"
+  "LastUpdate_Ratings": "2023-05-24T02:04:08.7699499+00:00",
+  "LastUpdate_Achievements": "2023-05-24T02:09:24.7084258+00:00"
 }

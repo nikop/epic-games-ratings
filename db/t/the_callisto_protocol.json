@@ -428,9 +428,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13448,
+  "EOS_Progressed": 13452,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 882,
+  "EOS_NewPlayers": 886,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1353,6 +1353,11 @@
       "Time": "2023-05-24T00:03:13.0391848+00:00",
       "NumProgressed": 13448,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-05-24T02:07:37.6838079+00:00",
+      "NumProgressed": 13452,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 40,
@@ -1380,15 +1385,15 @@
       "Name": "Giving Back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "BUY_ALL_WEAPONS",
       "SetID": "4hj6d86",
       "Name": "You Need a Gun",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 27
+      "UsersEstimate": 40
     },
     {
       "ID": "DISARM_ENEMY",
@@ -1468,15 +1473,15 @@
       "Name": "Get a Grip",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "GRP_MELEE_KILL",
       "SetID": "4hj6d86",
       "Name": "In Striking Distance",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 94
     },
     {
       "ID": "KILL_2HEAD",
@@ -1492,15 +1497,15 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "KILL_ROBOT",
       "SetID": "4hj6d86",
       "Name": "Terminated",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 121
+      "UsersEstimate": 135
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -1508,7 +1513,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -1538,9 +1543,9 @@
       "ID": "PRINT_WEAPON",
       "SetID": "4hj6d86",
       "Name": "Paper Jams",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 269
     },
     {
       "ID": "SHARE_PHOTO",
@@ -1564,7 +1569,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "STORY_HABITAT",
@@ -1676,20 +1681,20 @@
       "Name": "Big Spender",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     }
   ],
   "AchievementSets": [
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13448,
+      "Progressed": 13452,
       "Completed": 52
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1374,
+      "Progressed": 1378,
       "Completed": 29
     }
   ],
@@ -1697,8 +1702,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-23T19:57:59.4143533+00:00",
-  "LastChanged_Achievements": "2023-05-24T00:03:13.0391842+00:00",
+  "LastChanged_Achievements": "2023-05-24T02:07:37.6838067+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-23T23:57:47.2749836+00:00",
-  "LastUpdate_Achievements": "2023-05-24T00:03:13.0392147+00:00"
+  "LastUpdate_Ratings": "2023-05-24T02:02:37.8827167+00:00",
+  "LastUpdate_Achievements": "2023-05-24T02:07:37.683857+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 529,
+  "EOS_Progressed": 547,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 528,
+  "EOS_NewPlayers": 545,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -194,6 +194,11 @@
       "Time": "2023-05-24T00:01:15.3241091+00:00",
       "NumProgressed": 529,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T02:05:10.5248316+00:00",
+      "NumProgressed": 547,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -213,7 +218,7 @@
       "Name": "Puppetmaster",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "BOT_DESTROYER",
@@ -227,17 +232,17 @@
       "ID": "CLUMSY",
       "SetID": "8lhbnh7",
       "Name": "Whoops",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 44
     },
     {
       "ID": "CONQUEROR",
       "SetID": "8lhbnh7",
       "Name": "Harold Rex Interfectus Est",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 111
+      "UsersEstimate": 120
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -261,7 +266,7 @@
       "Name": "Face-To-Screen-To-Face",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "FEUD_APPRENTICE",
@@ -285,7 +290,7 @@
       "Name": "Novice",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 191
     },
     {
       "ID": "GLOVE_SLAP",
@@ -309,7 +314,7 @@
       "Name": "Grasshopper",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 302
+      "UsersEstimate": 312
     },
     {
       "ID": "GUARD_MAKER",
@@ -339,7 +344,7 @@
       "ID": "KNIGHT_MASTERY",
       "SetID": "8lhbnh7",
       "Name": "Knight Commander",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -380,13 +385,13 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 529,
+      "Progressed": 547,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-05-24T00:01:15.3241085+00:00",
+  "LastChanged_Achievements": "2023-05-24T02:05:10.5248305+00:00",
   "LastUpdate_AppInfo": "2023-05-23T13:57:02.9194307+00:00",
-  "LastUpdate_Ratings": "2023-05-23T23:56:55.6732075+00:00",
-  "LastUpdate_Achievements": "2023-05-24T00:01:15.3241478+00:00"
+  "LastUpdate_Ratings": "2023-05-24T02:01:58.6383274+00:00",
+  "LastUpdate_Achievements": "2023-05-24T02:05:10.5248537+00:00"
 }

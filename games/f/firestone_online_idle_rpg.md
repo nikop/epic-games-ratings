@@ -35,12 +35,12 @@ Rating: 3.87 (Ranked 906)
 | Hunter | 5.00% | ~58 |
 | Mastery | 5.00% | ~58 |
 | Scroll Master | 5.00% | ~58 |
+| Here We Go Again | 4.00% | ~46 |
 | Moving Up The Ladder | 4.00% | ~46 |
 | The Expeditioner | 4.00% | ~46 |
 | Ancient Knowledge | 3.00% | ~34 |
 | Background Story | 3.00% | ~34 |
 | Doing My Part | 3.00% | ~34 |
-| Here We Go Again | 3.00% | ~34 |
 | How Do You Turn This On? | 3.00% | ~34 |
 | Missions Dedication | 3.00% | ~34 |
 | Relic Of The Past | 3.00% | ~34 |

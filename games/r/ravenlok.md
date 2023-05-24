@@ -48,7 +48,7 @@
 | Spot of Tea? | 29.00% | ~243 |
 | Going Home | 29.00% | ~243 |
 | Mirror, Mirror | 27.00% | ~227 |
-| Flower Power | 24.00% | ~201 |
+| Flower Power | 25.00% | ~210 |
 | Shopping Spree! | 22.00% | ~185 |
 | Crowned | 21.00% | ~176 |
 | Max Level! | 13.00% | ~109 |

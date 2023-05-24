@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Screwdriver | 65.00% | ~65 |
-| Springs | 61.00% | ~61 |
+| Screwdriver | 64.00% | ~65 |
+| Springs | 61.00% | ~62 |
 | Soap | 40.00% | ~40 |
 | Wrench | 33.00% | ~33 |
 | Capacitors | 33.00% | ~33 |
@@ -34,8 +34,8 @@
 | Leave me alone | 9.00% | ~9 |
 | Secret ending | 9.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100 (Ranked 258)  
-Completed: 8 (8.00%) (Ranked 18)  
+Progressed: 101 (Ranked 258)  
+Completed: 8 (7.92%) (Ranked 18)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -44,6 +44,7 @@ Completed: 8 (8.00%) (Ranked 18)
 | 2023-05-20 | 98 | 8 |
 | 2023-05-21 | 99 | 8 |
 | 2023-05-23 | 100 | 8 |
+| 2023-05-24 | 101 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

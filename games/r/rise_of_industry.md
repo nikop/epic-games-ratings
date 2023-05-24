@@ -5,24 +5,24 @@ Rating: 4.23 (Ranked 800)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 47.00% | ~316,830 |
-| Well educated | 37.00% | ~249,420 |
-| City Planner | 19.00% | ~128,080 |
-| Deforester | 16.00% | ~107,857 |
-| Big Hauling | 15.00% | ~101,116 |
-| Exporter | 13.00% | ~87,634 |
-| I would drive 500 tiles... | 12.00% | ~80,893 |
-| Apprentice Manufacturer | 12.00% | ~80,893 |
-| Landscaper | 11.00% | ~74,152 |
-| Railwayman | 7.00% | ~47,187 |
-| Penniless | 6.00% | ~40,446 |
-| Massive Gains | 6.00% | ~40,446 |
-| Engineer | 2.00% | ~13,482 |
-| Salesman | 2.00% | ~13,482 |
-| High Flyer | 2.00% | ~13,482 |
+| Entrepreneur | 47.00% | ~316,848 |
+| Well educated | 37.00% | ~249,434 |
+| City Planner | 19.00% | ~128,088 |
+| Deforester | 16.00% | ~107,863 |
+| Big Hauling | 15.00% | ~101,122 |
+| Exporter | 13.00% | ~87,639 |
+| I would drive 500 tiles... | 12.00% | ~80,897 |
+| Apprentice Manufacturer | 12.00% | ~80,897 |
+| Landscaper | 11.00% | ~74,156 |
+| Railwayman | 7.00% | ~47,190 |
+| Penniless | 6.00% | ~40,449 |
+| Massive Gains | 6.00% | ~40,449 |
+| Engineer | 2.00% | ~13,483 |
+| Salesman | 2.00% | ~13,483 |
+| High Flyer | 2.00% | ~13,483 |
 | Captain | 0.70% | ~4,719 |
 | Billionaire | 0.60% | ~4,045 |
-| Vroom Vroom | 0.40% | ~2,696 |
+| Vroom Vroom | 0.40% | ~2,697 |
 | Excavator | 0.30% | ~2,022 |
 | Loan Ranger | 0.30% | ~2,022 |
 | [2130] Nature Lover | 0.10% | ~674 |
@@ -33,7 +33,7 @@ Rating: 4.23 (Ranked 800)
 | Master Builder | 0.10% | ~674 |
 | Hard working | 0.10% | ~674 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 674,107 (Ranked 17)  
+Progressed: 674,145 (Ranked 17)  
 Completed: 1 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 1 (0.00%) (Ranked 202)
 | 2023-05-21 | 672,816 | 1 |
 | 2023-05-22 | 673,459 | 1 |
 | 2023-05-23 | 674,091 | 1 |
-| 2023-05-24 | 674,107 | 1 |
+| 2023-05-24 | 674,145 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

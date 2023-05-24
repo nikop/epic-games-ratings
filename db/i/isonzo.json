@@ -4,11 +4,11 @@
   "ProductSlug": "isonzo",
   "Ranking_Rating": 448,
   "Ranking_Popularity": 445,
-  "Ranking_PopularitySum": 343,
+  "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -482,10 +482,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 237,
       "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2023-05-24T02:02:14.3354552+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 238,
+      "NumberOfAwardsMax": 30
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 237,
+  "NumberOfAwards": 238,
   "NumberOfAwardsMax": 30,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -523,7 +529,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game is Educational",
@@ -550,9 +556,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5807,
+  "EOS_Progressed": 5808,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1330,6 +1336,11 @@
       "Time": "2023-05-23T23:06:24.5826407+00:00",
       "NumProgressed": 5807,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-24T02:10:12.8450775+00:00",
+      "NumProgressed": 5808,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -1357,7 +1368,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 2671
+      "UsersEstimate": 2672
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -1389,7 +1400,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 2032
+      "UsersEstimate": 2033
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -1405,7 +1416,7 @@
       "Name": "Decimation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -1429,7 +1440,7 @@
       "Name": "Donatello",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -1453,7 +1464,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 1858
+      "UsersEstimate": 1859
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -1469,7 +1480,7 @@
       "Name": "Insubordination",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -1509,7 +1520,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 2032
+      "UsersEstimate": 2033
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -1629,7 +1640,7 @@
       "Name": "The Italian Job",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -1685,7 +1696,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -1700,16 +1711,16 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5807,
+      "Progressed": 5808,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-09-13T17:01:45.3760457+00:00",
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
-  "LastChanged": "2023-05-21T19:57:24.0719198+00:00",
-  "LastChanged_Achievements": "2023-05-24T00:05:59.5250066+00:00",
+  "LastChanged": "2023-05-24T02:02:14.3354549+00:00",
+  "LastChanged_Achievements": "2023-05-24T02:10:12.8450766+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:10.2290416+00:00",
-  "LastUpdate_Ratings": "2023-05-23T23:57:15.5909918+00:00",
-  "LastUpdate_Achievements": "2023-05-24T00:05:59.5250376+00:00"
+  "LastUpdate_Ratings": "2023-05-24T02:02:14.3354556+00:00",
+  "LastUpdate_Achievements": "2023-05-24T02:10:12.8451214+00:00"
 }

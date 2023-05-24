@@ -22,6 +22,7 @@
 | Braving Miasma | 10.00% | ~3 |
 | Ancient Nemesis | 10.00% | ~3 |
 | Traveler Mastery | 10.00% | ~3 |
+| The Plot Thickens | 10.00% | ~3 |
 | No Stone Unturned | 10.00% | ~3 |
 | Best Pupil | 7.00% | ~2 |
 | Oracle Mastery | 7.00% | ~2 |
@@ -31,7 +32,6 @@
 | Masterpiece | 7.00% | ~2 |
 | Warden Mastery | 7.00% | ~2 |
 | Towards the Future | 7.00% | ~2 |
-| The Plot Thickens | 7.00% | ~2 |
 | Trinket Enthusiast | 7.00% | ~2 |
 | Card Completionist | 7.00% | ~2 |
 | The Usurper | 7.00% | ~2 |

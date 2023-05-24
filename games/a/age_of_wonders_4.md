@@ -8,7 +8,7 @@ Rating: 4.50 (Ranked 534)
 | A Wonderful Discovery | 81.00% | ~2,684 |
 | Realm Estate | 78.00% | ~2,585 |
 | Secret Technique | 77.00% | ~2,552 |
-| Walls Cannot Stop Us | 74.00% | ~2,452 |
+| Walls Cannot Stop Us | 75.00% | ~2,486 |
 | From Friends to Family | 70.00% | ~2,320 |
 | Magical Synergy | 65.00% | ~2,154 |
 | Bone Peddler | 62.00% | ~2,055 |
@@ -16,10 +16,10 @@ Rating: 4.50 (Ranked 534)
 | Full Ascension | 54.00% | ~1,790 |
 | There Can Only Be One! | 48.00% | ~1,591 |
 | Seat of Power | 46.00% | ~1,524 |
+| Intimidation Tactics | 44.00% | ~1,458 |
 | My Final Form | 43.00% | ~1,425 |
-| Intimidation Tactics | 43.00% | ~1,425 |
 | Valley of Wonders | 42.00% | ~1,392 |
-| In a Liege of Your Own | 36.00% | ~1,193 |
+| In a Liege of Your Own | 37.00% | ~1,226 |
 | Digging for Treasure | 31.00% | ~1,027 |
 | Return of the Wizard King | 30.00% | ~994 |
 | Against the Odds | 30.00% | ~994 |

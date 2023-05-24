@@ -6,8 +6,8 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Marshlands | 2.00% | ~299 |
-| No Deaths | 2.00% | ~299 |
+| The Marshlands | 2.00% | ~300 |
+| No Deaths | 2.00% | ~300 |
 | Homesick | 1.00% | ~150 |
 | First Real Expedition | 1.00% | ~150 |
 | Overcoming Difficulty | 1.00% | ~150 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,974 (Ranked 98)  
+Progressed: 14,975 (Ranked 98)  
 Completed: 33 (0.22%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,6 +91,7 @@ Completed: 33 (0.22%) (Ranked 135)
 | 2023-05-21 | 14,940 | 32 |
 | 2023-05-22 | 14,956 | 33 |
 | 2023-05-23 | 14,974 | 33 |
+| 2023-05-24 | 14,975 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 196)  
 Sum: 3,028 (Ranked 151)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
     "PcReleaseDate": "2019-02-26T00:00:00+00:00",
@@ -209,9 +209,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4153,
+  "EOS_Progressed": 4154,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -614,6 +614,11 @@
       "Time": "2023-05-22T02:11:46.5967654+00:00",
       "NumProgressed": 4153,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-24T02:10:29.4163336+00:00",
+      "NumProgressed": 4154,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 101,
@@ -775,9 +780,9 @@
       "ID": "ACHIEVEMENT_FIRE1",
       "SetID": "9eacipp",
       "Name": "When there\u0027s fire...",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_FIREPROTECTOR",
@@ -1432,15 +1437,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4153,
+      "Progressed": 4154,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-05-18T04:58:08.3119533+00:00",
-  "LastChanged_Achievements": "2023-05-24T00:06:19.8526962+00:00",
+  "LastChanged_Achievements": "2023-05-24T02:10:29.416333+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:38.1590673+00:00",
-  "LastUpdate_Ratings": "2023-05-23T23:58:00.7830305+00:00",
-  "LastUpdate_Achievements": "2023-05-24T00:06:19.8527922+00:00"
+  "LastUpdate_Ratings": "2023-05-24T02:02:48.4913891+00:00",
+  "LastUpdate_Achievements": "2023-05-24T02:10:29.4164646+00:00"
 }
