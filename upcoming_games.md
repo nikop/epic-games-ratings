@@ -176,6 +176,7 @@
 | [Supergalactix](games/s/supergalactix.md) | 2023-12-31 | 2023-12-31 |
 | [The Artifact Hunter](games/t/the_artifact_hunter.md) | 2023-12-31 | 2023-12-31 |
 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 2023-12-31 | 2023-12-31 |
+| [The Sisters 2 - Road to Fame](games/4/4bef38b70f4a4b6ea0d9ebbfe3e517dd.md) | 2023-12-31 | 2023-12-31 |
 | [The Way of Wrath](games/t/the_way_of_wrath.md) | 2023-12-31 | 2023-12-31 |
 | [Tintin Reporter - Cigars of the Pharaoh](games/t/tintin_reporter_-_cigars_of_the_pharaoh.md) | 2023-12-31 | 2023-12-31 |
 | [Train World](games/t/train_world.md) | 2023-12-31 | 2023-12-31 |
@@ -280,6 +281,7 @@
 | [Moon Mystery](games/m/moon_mystery.md) | 2099-01-01 | 2099-01-01 |
 | [Morbid The Lords of Ire](games/m/morbid_the_lords_of_ire.md) | 2099-01-01 | 2099-01-01 |
 | [Mr. Run and Jump](games/4/499acd70c5dd4e7d9d6af210338e2ae6.md) | 2099-01-01 | 2099-01-01 |
+| [Nick Quest](games/4/4fa4796b3d9842a79980112c9dc17562.md) | 2099-01-01 | 2019-07-15 |
 | [Night Loops](games/n/night_loops.md) | 2099-01-01 | 2099-01-01 |
 | [No More Room in Hell 2](games/n/no_more_room_in_hell_2.md) | 2099-01-01 | 2099-01-01 |
 | [NOOB - The Factionless](games/n/noob_-_the_factionless.md) | 2099-01-01 | 2099-01-01 |
