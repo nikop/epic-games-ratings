@@ -428,9 +428,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13471,
+  "EOS_Progressed": 13473,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 904,
+  "EOS_NewPlayers": 906,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1403,6 +1403,11 @@
       "Time": "2023-05-24T11:02:27.8898739+00:00",
       "NumProgressed": 13471,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-05-24T12:02:45.9546637+00:00",
+      "NumProgressed": 13473,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 40,
@@ -1620,9 +1625,9 @@
       "ID": "STORY_HABITAT",
       "SetID": "4hj6d86",
       "Name": "Without A Paddle",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 121
     },
     {
       "ID": "STORY_HANGAR",
@@ -1733,13 +1738,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13471,
+      "Progressed": 13473,
       "Completed": 52
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1397,
+      "Progressed": 1399,
       "Completed": 29
     }
   ],
@@ -1747,8 +1752,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-23T19:57:59.4143533+00:00",
-  "LastChanged_Achievements": "2023-05-24T11:02:27.8898734+00:00",
+  "LastChanged_Achievements": "2023-05-24T12:02:45.9546632+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-24T10:57:45.831521+00:00",
-  "LastUpdate_Achievements": "2023-05-24T11:02:27.8899049+00:00"
+  "LastUpdate_Ratings": "2023-05-24T11:57:37.8151692+00:00",
+  "LastUpdate_Achievements": "2023-05-24T12:02:45.9546993+00:00"
 }

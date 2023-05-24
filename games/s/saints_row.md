@@ -6,32 +6,32 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 13.00% | ~4,453 |
-| To The Nines | 12.00% | ~4,110 |
-| Optimized | 9.00% | ~3,083 |
-| Performance Review | 9.00% | ~3,083 |
-| The Side Job | 8.00% | ~2,740 |
-| Wet Work | 8.00% | ~2,740 |
-| Tune Up | 8.00% | ~2,740 |
-| Making a Name | 8.00% | ~2,740 |
-| Landlord | 7.00% | ~2,398 |
-| Food for Thought | 7.00% | ~2,398 |
-| Wrecking Ball | 6.00% | ~2,055 |
-| Finders Keepers | 5.00% | ~1,713 |
-| A Young Empire | 5.00% | ~1,713 |
-| Work Ethic | 5.00% | ~1,713 |
-| Power Players | 4.00% | ~1,370 |
-| Picking Fights | 4.00% | ~1,370 |
+| First F#@!ing Day | 14.00% | ~4,799 |
+| To The Nines | 12.00% | ~4,113 |
+| Optimized | 10.00% | ~3,428 |
+| Performance Review | 9.00% | ~3,085 |
+| The Side Job | 8.00% | ~2,742 |
+| Wet Work | 8.00% | ~2,742 |
+| Tune Up | 8.00% | ~2,742 |
+| Making a Name | 8.00% | ~2,742 |
+| Landlord | 7.00% | ~2,399 |
+| Food for Thought | 7.00% | ~2,399 |
+| Wrecking Ball | 6.00% | ~2,057 |
+| Finders Keepers | 5.00% | ~1,714 |
+| A Young Empire | 5.00% | ~1,714 |
+| Work Ethic | 5.00% | ~1,714 |
+| Power Players | 4.00% | ~1,371 |
+| Picking Fights | 4.00% | ~1,371 |
 | Quality Time | 3.00% | ~1,028 |
 | Showdown | 3.00% | ~1,028 |
 | Kitted Out | 3.00% | ~1,028 |
 | Et tu? | 3.00% | ~1,028 |
 | Took It to The Limit | 3.00% | ~1,028 |
-| Hijacked | 2.00% | ~685 |
-| The Spins | 2.00% | ~685 |
-| Masters of Santo Ileso | 2.00% | ~685 |
-| The Mechanic | 2.00% | ~685 |
-| Closet Space | 2.00% | ~685 |
+| Hijacked | 2.00% | ~686 |
+| The Spins | 2.00% | ~686 |
+| Masters of Santo Ileso | 2.00% | ~686 |
+| The Mechanic | 2.00% | ~686 |
+| Closet Space | 2.00% | ~686 |
 | Producer Credit | 2.00% | ~118 |
 | Face Off | 2.00% | ~118 |
 | We could go home, or… | 1.00% | ~343 |
@@ -42,10 +42,10 @@ Number of Ratings: 22,103  (23.09.2022)
 | Prankster | 1.00% | ~343 |
 | Smooth Moves | 1.00% | ~343 |
 | Hazardous Heist | 1.00% | ~59 |
-| The Professional | 0.90% | ~308 |
+| The Professional | 0.90% | ~309 |
 | Neighborly | 0.80% | ~274 |
-| Tourist | 0.80% | ~274 |
 | Chaos Tamer | 0.70% | ~240 |
+| Tourist | 0.70% | ~240 |
 | Always Be Hustling | 0.60% | ~206 |
 | Shopping Spree | 0.50% | ~171 |
 | Community Outreach | 0.50% | ~171 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Heard You Like Wheels | 0.10% | ~34 |
 | Fiesta Time | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,251 (Ranked 82)  
+Progressed: 34,278 (Ranked 82)  
 Completed: 20 (0.06%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,10 +94,10 @@ Completed: 20 (0.06%) (Ranked 170)
 | 2023-05-21 | 32,742 | 20 |
 | 2023-05-22 | 33,412 | 20 |
 | 2023-05-23 | 33,987 | 20 |
-| 2023-05-24 | 34,251 | 20 |
+| 2023-05-24 | 34,278 | 20 |
 ## Awards
 Max (Extremely Fun): 1,029  (Ranked 133)  
-Sum: 8,354 (Ranked 88)  
+Sum: 8,357 (Ranked 88)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
@@ -105,8 +105,8 @@ Diff (max vs sum): 45
 | This game has Quickly Understood Controls | 1,000 |
 | This game is Highly Recommended | 973 |
 | This game has Amazing Characters | 959 |
+| This game has Diverse Characters | 957 |
 | This game is Great for Beginners | 956 |
-| This game has Diverse Characters | 954 |
 | This game is Relaxing | 954 |
 | This game has Amazing Storytelling | 948 |
 | This game has Playful Visuals | 777 |
@@ -191,4 +191,4 @@ Diff (max vs sum): 45
 | 2023-05-20 | 3.78 | - | 1,029 | 8,346 |
 | 2023-05-21 | 3.78 | - | 1,029 | 8,351 |
 | 2023-05-23 | 3.78 | - | 1,029 | 8,353 |
-| 2023-05-24 | 3.78 | - | 1,029 | 8,354 |
+| 2023-05-24 | 3.78 | - | 1,029 | 8,357 |

@@ -193,9 +193,9 @@
       "ID": "SMELTER_GRAVITUDE",
       "SetID": "1g58k92",
       "Name": "Case Closed",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SMELTER_GURABI_CHALLENGES",
@@ -233,9 +233,9 @@
       "ID": "SMELTER_GURABI_UPGRADES",
       "SetID": "1g58k92",
       "Name": "All Beefed Up",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "SMELTER_HEART_LEVEL_2",
@@ -482,8 +482,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.0584882+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:46.9022214+00:00",
   "LastChanged": "2023-03-31T05:58:06.0584883+00:00",
-  "LastChanged_Achievements": "2023-05-24T11:05:22.9270791+00:00",
+  "LastChanged_Achievements": "2023-05-24T12:05:45.7657226+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:13.1695395+00:00",
-  "LastUpdate_Ratings": "2023-05-24T10:58:40.408463+00:00",
-  "LastUpdate_Achievements": "2023-05-24T11:05:22.9271146+00:00"
+  "LastUpdate_Ratings": "2023-05-24T11:58:46.0302098+00:00",
+  "LastUpdate_Achievements": "2023-05-24T12:05:45.7657549+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -556,9 +556,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5811,
+  "EOS_Progressed": 5812,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1351,6 +1351,11 @@
       "Time": "2023-05-24T05:06:19.9284673+00:00",
       "NumProgressed": 5811,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-24T12:05:32.3054426+00:00",
+      "NumProgressed": 5812,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -1370,7 +1375,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -1378,7 +1383,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 2673
+      "UsersEstimate": 2674
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -1442,7 +1447,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -1506,7 +1511,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -1698,7 +1703,7 @@
       "Name": "Uomo Universale",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -1706,7 +1711,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -1721,7 +1726,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5811,
+      "Progressed": 5812,
       "Completed": 8
     }
   ],
@@ -1729,8 +1734,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-24T02:02:14.3354549+00:00",
-  "LastChanged_Achievements": "2023-05-24T11:05:11.3653288+00:00",
+  "LastChanged_Achievements": "2023-05-24T12:05:32.3054418+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:10.2290416+00:00",
-  "LastUpdate_Ratings": "2023-05-24T10:57:22.8205442+00:00",
-  "LastUpdate_Achievements": "2023-05-24T11:05:11.3653603+00:00"
+  "LastUpdate_Ratings": "2023-05-24T11:57:08.6047563+00:00",
+  "LastUpdate_Achievements": "2023-05-24T12:05:32.3054743+00:00"
 }

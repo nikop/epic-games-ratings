@@ -22,7 +22,7 @@ Rating: 4.50 (Ranked 535)
 | Death of the Author | 1.00% | ~10 |
 | Memoirs of a Nibbler | 0.80% | ~8 |
 | Sixth Sense | 0.80% | ~8 |
-| KGB Bunker | 0.60% | ~6 |
+| KGB Bunker | 0.70% | ~7 |
 | Rising Star | 0.60% | ~6 |
 | Baby Eater | 0.50% | ~5 |
 | Admiral | 0.30% | ~3 |

@@ -5,8 +5,8 @@ Rating: 4.35 (Ranked 721)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 15.00% | ~198 |
-| Confirming Suspicions | 10.00% | ~132 |
+| Meeting Resistance | 15.00% | ~199 |
+| Confirming Suspicions | 10.00% | ~133 |
 | The Kraken Wakes | 7.00% | ~93 |
 | Enemy at the Gates | 5.00% | ~66 |
 | Lord of War | 5.00% | ~66 |
@@ -16,17 +16,17 @@ Rating: 4.35 (Ranked 721)
 | Just a Flesh Wound | 3.00% | ~40 |
 | Organ Grinder | 3.00% | ~40 |
 | Explosive Efficiency | 3.00% | ~40 |
-| Opposing Force | 2.00% | ~26 |
-| Gunslinger | 2.00% | ~26 |
-| Die Nussknacker Sweet! | 2.00% | ~26 |
-| As Quiet as a Mouse | 2.00% | ~26 |
-| Close Quarters | 2.00% | ~26 |
-| Taking it back | 2.00% | ~26 |
-| Target America | 2.00% | ~26 |
+| Opposing Force | 2.00% | ~27 |
+| Gunslinger | 2.00% | ~27 |
+| Sharpshooter | 2.00% | ~27 |
+| Die Nussknacker Sweet! | 2.00% | ~27 |
+| As Quiet as a Mouse | 2.00% | ~27 |
+| Close Quarters | 2.00% | ~27 |
+| Taking it back | 2.00% | ~27 |
+| Target America | 2.00% | ~27 |
 | Liberté | 1.00% | ~13 |
 | Fields of Glory | 1.00% | ~13 |
 | Skirmisher | 1.00% | ~13 |
-| Sharpshooter | 1.00% | ~13 |
 | Precision Is Key | 1.00% | ~13 |
 | Der Geist | 1.00% | ~13 |
 | Snake in the Grass | 1.00% | ~13 |
@@ -77,7 +77,7 @@ Rating: 4.35 (Ranked 721)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,322 (Ranked 157)  
+Progressed: 1,326 (Ranked 157)  
 Completed: 2 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 2 (0.15%) (Ranked 148)
 | 2023-05-21 | 1,126 | 2 |
 | 2023-05-22 | 1,233 | 2 |
 | 2023-05-23 | 1,294 | 2 |
-| 2023-05-24 | 1,322 | 2 |
+| 2023-05-24 | 1,326 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

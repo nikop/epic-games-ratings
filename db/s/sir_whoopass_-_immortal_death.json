@@ -253,9 +253,9 @@
       "ID": "BIGBOI_1",
       "SetID": "9gfkh7c",
       "Name": "You\u0027re not so Big anymore, Boi!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "BILLY_BOB_1",
@@ -908,8 +908,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-05-24T11:05:11.3868685+00:00",
+  "LastChanged_Achievements": "2023-05-24T12:05:32.5294305+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:56:59.9162402+00:00",
-  "LastUpdate_Ratings": "2023-05-24T10:57:12.223312+00:00",
-  "LastUpdate_Achievements": "2023-05-24T11:05:11.3869387+00:00"
+  "LastUpdate_Ratings": "2023-05-24T11:56:56.0888182+00:00",
+  "LastUpdate_Achievements": "2023-05-24T12:05:32.5294983+00:00"
 }

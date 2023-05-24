@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -597,9 +597,9 @@
       "ID": "KGB_BUNKER",
       "SetID": "62d2oh4",
       "Name": "KGB Bunker",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "LOT_49",
@@ -742,8 +742,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2023-04-29T21:56:53.0228715+00:00",
-  "LastChanged_Achievements": "2023-05-24T11:05:04.9846647+00:00",
+  "LastChanged_Achievements": "2023-05-24T12:05:25.3161804+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:06.2395841+00:00",
-  "LastUpdate_Ratings": "2023-05-24T10:57:18.8577081+00:00",
-  "LastUpdate_Achievements": "2023-05-24T11:05:04.9846851+00:00"
+  "LastUpdate_Ratings": "2023-05-24T11:57:04.1304213+00:00",
+  "LastUpdate_Achievements": "2023-05-24T12:05:25.3161995+00:00"
 }

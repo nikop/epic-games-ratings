@@ -6,7 +6,7 @@ Number of Ratings: 1,331  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spells and Swords | 0.80% | ~174 |
+| Spells and Swords | 0.90% | ~196 |
 | Captain and Crew | 0.70% | ~152 |
 | Harvest and Home | 0.50% | ~109 |
 | Poise and Poisons | 0.50% | ~109 |
@@ -14,14 +14,14 @@ Number of Ratings: 1,331  (23.09.2022)
 | Progenitor and Protégé | 0.30% | ~65 |
 | Suns and Soldiers | 0.30% | ~65 |
 | No Harm in Looking | 0.30% | ~65 |
-| Truly Blessed | 0.20% | ~43 |
-| Looks Familiar | 0.20% | ~43 |
-| For Glory | 0.20% | ~43 |
-| King and Kin | 0.20% | ~43 |
-| Prequel to the Sequel | 0.20% | ~43 |
+| Truly Blessed | 0.20% | ~44 |
+| Pillow Investments | 0.20% | ~44 |
+| Looks Familiar | 0.20% | ~44 |
+| For Glory | 0.20% | ~44 |
+| King and Kin | 0.20% | ~44 |
+| Prequel to the Sequel | 0.20% | ~44 |
 | Black-shoppe | 0.10% | ~22 |
 | Full House | 0.10% | ~22 |
-| Pillow Investments | 0.10% | ~22 |
 | Erebus Purified | 0.10% | ~22 |
 | For Justice | 0.10% | ~22 |
 | For Wrath | 0.10% | ~22 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,749 (Ranked 92)  
+Progressed: 21,751 (Ranked 92)  
 Completed: 35 (0.16%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 35 (0.16%) (Ranked 144)
 | 2023-05-21 | 21,689 | 35 |
 | 2023-05-22 | 21,713 | 35 |
 | 2023-05-23 | 21,733 | 35 |
-| 2023-05-24 | 21,749 | 35 |
+| 2023-05-24 | 21,751 | 35 |
 ## Awards
 Max (Extremely Fun): 216  (Ranked 250)  
 Sum: 1,629 (Ranked 201)  

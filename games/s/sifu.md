@@ -7,17 +7,17 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 4.00% | ~570 |
-| Project Arena | 3.00% | ~427 |
-| Bloody Sport | 1.00% | ~142 |
-| The best strikes are the ones we avoid | 1.00% | ~142 |
-| The Assault | 0.90% | ~6,344 |
-| The Hateful Pole Fighter | 0.90% | ~6,344 |
-| A Lady's Blood in the Snow | 0.90% | ~6,344 |
-| Life is your teacher | 0.90% | ~6,344 |
-| State of constant learning | 0.90% | ~6,344 |
-| Qi Gong: Breath | 0.90% | ~6,344 |
-| Path of the Prospect | 0.90% | ~6,344 |
-| Rumble in the Hangar | 0.90% | ~6,344 |
+| Project Arena | 3.00% | ~428 |
+| Bloody Sport | 1.00% | ~143 |
+| The best strikes are the ones we avoid | 1.00% | ~143 |
+| The Assault | 0.90% | ~6,345 |
+| The Hateful Pole Fighter | 0.90% | ~6,345 |
+| A Lady's Blood in the Snow | 0.90% | ~6,345 |
+| Life is your teacher | 0.90% | ~6,345 |
+| State of constant learning | 0.90% | ~6,345 |
+| Qi Gong: Breath | 0.90% | ~6,345 |
+| Path of the Prospect | 0.90% | ~6,345 |
+| Rumble in the Hangar | 0.90% | ~6,345 |
 | The Old Grandmaster | 0.80% | ~5,640 |
 | Lady Wing Chun | 0.80% | ~5,640 |
 | Furious Fists | 0.80% | ~5,640 |
@@ -30,7 +30,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Take damage to save time | 0.70% | ~4,935 |
 | Scareless | 0.60% | ~4,230 |
 | Kung-Fu Tussle | 0.60% | ~4,230 |
-| Deadly Venom | 0.60% | ~85 |
+| Deadly Venom | 0.60% | ~86 |
 | Dance of the Praying Mantis | 0.50% | ~3,525 |
 | Qi Gong: Mind | 0.50% | ~3,525 |
 | I know Kung-Fu | 0.50% | ~3,525 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~705 |
 | Warriors from the Mountain | 0.10% | ~705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,942 (Ranked 15)  
+Progressed: 704,954 (Ranked 15)  
 Completed: 12,734 (1.81%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,17 +91,17 @@ Completed: 12,734 (1.81%) (Ranked 64)
 | 2023-05-21 | 704,407 | 12,733 |
 | 2023-05-22 | 704,647 | 12,733 |
 | 2023-05-23 | 704,864 | 12,733 |
-| 2023-05-24 | 704,942 | 12,734 |
+| 2023-05-24 | 704,954 | 12,734 |
 ## Awards
 Max (Great Boss Battles): 6,089  (Ranked 53)  
-Sum: 10,362 (Ranked 77)  
+Sum: 10,366 (Ranked 77)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,089 |
 | This game has Diverse Characters | 513 |
-| This game has Challenging Combat | 510 |
-| This game has Quickly Understood Controls | 502 |
+| This game has Challenging Combat | 512 |
+| This game has Quickly Understood Controls | 504 |
 | This game is Extremely Fun | 500 |
 | This game has Amazing Storytelling | 492 |
 | This game is Highly Recommended | 477 |
@@ -240,4 +240,4 @@ Diff (max vs sum): -24
 | 2023-05-20 | 4.82 | - | 6,078 | 10,342 |
 | 2023-05-21 | 4.82 | - | 6,082 | 10,350 |
 | 2023-05-22 | 4.82 | - | 6,084 | 10,355 |
-| 2023-05-24 | 4.82 | - | 6,089 | 10,362 |
+| 2023-05-24 | 4.82 | - | 6,089 | 10,366 |

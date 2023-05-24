@@ -5,8 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Collectibles Part 1 | 60.00% | ~3 |
+| Wait! Wait! Not yet! | 40.00% | ~2 |
 | The Wraith | 20.00% | ~1 |
-| Wait! Wait! Not yet! | 20.00% | ~1 |
+| Like Flying... | 20.00% | ~1 |
 | Welcome to Mordor! | 20.00% | ~1 |
 | He's so Annoying | 0.00% | ~0 |
 | Break a Leg! | 0.00% | ~0 |
@@ -25,7 +26,6 @@
 | Sweet Darkness | 0.00% | ~0 |
 | Elf-Friend | 0.00% | ~0 |
 | We Hates Them! | 0.00% | ~0 |
-| Like Flying... | 0.00% | ~0 |
 | We wants it! We needs it | 0.00% | ~0 |
 | Memories | 0.00% | ~0 |
 | Murderer | 0.00% | ~0 |

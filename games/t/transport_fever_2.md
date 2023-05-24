@@ -10,8 +10,8 @@ Number of Ratings: 180  (23.09.2022)
 | First cargo item on board | 71.00% | ~804 |
 | First cargo item waiting | 71.00% | ~804 |
 | First bus stop | 70.00% | ~792 |
+| First passenger waiting | 67.00% | ~758 |
 | First passenger on board | 66.00% | ~747 |
-| First passenger waiting | 66.00% | ~747 |
 | First bus arrived | 65.00% | ~736 |
 | First train station | 64.00% | ~724 |
 | First steam train arrived | 59.00% | ~668 |
@@ -20,7 +20,7 @@ Number of Ratings: 180  (23.09.2022)
 | Cargo hub | 54.00% | ~611 |
 | Transport master | 52.00% | ~589 |
 | Cadet | 52.00% | ~589 |
-| Sculpturer | 50.00% | ~566 |
+| Sculpturer | 51.00% | ~577 |
 | First electric train arrived | 48.00% | ~543 |
 | Settled down | 48.00% | ~543 |
 | First ship arrived | 46.00% | ~521 |

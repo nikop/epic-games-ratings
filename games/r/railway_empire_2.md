@@ -4,6 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Poor Devil | 64.00% | ~7 |
 | Mystery Tour | 64.00% | ~7 |
 | Apprentice | 55.00% | ~6 |
 | Departure | 55.00% | ~6 |
@@ -13,7 +14,6 @@
 | We brake for nobody | 55.00% | ~6 |
 | Way of Iron | 55.00% | ~6 |
 | All around the World | 55.00% | ~6 |
-| Poor Devil | 55.00% | ~6 |
 | Travel Company | 55.00% | ~6 |
 | From X to Y | 45.00% | ~5 |
 | Brainstorm | 45.00% | ~5 |

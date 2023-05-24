@@ -2,12 +2,12 @@
   "ID": "95b4d5a753d042678f775d5e1eb5ab25",
   "Name": "Surviving the Aftermath",
   "ProductSlug": "surviving-the-aftermath",
-  "Ranking_Rating": 583,
+  "Ranking_Rating": 584,
   "Ranking_Popularity": 325,
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -981,7 +981,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 5663,
+  "EOS_Progressed": 5664,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 0,
@@ -3701,6 +3701,11 @@
       "Time": "2023-05-24T11:05:33.3662524+00:00",
       "NumProgressed": 5663,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T12:05:57.5677734+00:00",
+      "NumProgressed": 5664,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -3712,7 +3717,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 3454
+      "UsersEstimate": 3455
     },
     {
       "ID": "10",
@@ -3744,7 +3749,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3001
+      "UsersEstimate": 3002
     },
     {
       "ID": "14",
@@ -3792,7 +3797,7 @@
       "Name": "Healer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3001
+      "UsersEstimate": 3002
     },
     {
       "ID": "2",
@@ -3824,7 +3829,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 3964
+      "UsersEstimate": 3965
     },
     {
       "ID": "23",
@@ -3832,7 +3837,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1925
+      "UsersEstimate": 1926
     },
     {
       "ID": "24",
@@ -3920,7 +3925,7 @@
       "Name": "Around the World",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "34",
@@ -3960,7 +3965,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 2548
+      "UsersEstimate": 2549
     },
     {
       "ID": "39",
@@ -4183,15 +4188,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 5663,
+      "Progressed": 5664,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-05-13T10:01:00.1135595+00:00",
-  "LastChanged_Achievements": "2023-05-24T11:05:33.3662518+00:00",
+  "LastChanged_Achievements": "2023-05-24T12:05:57.5677729+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:33.4626364+00:00",
-  "LastUpdate_Ratings": "2023-05-24T10:59:33.2411137+00:00",
-  "LastUpdate_Achievements": "2023-05-24T11:05:33.3663089+00:00"
+  "LastUpdate_Ratings": "2023-05-24T11:59:53.0656411+00:00",
+  "LastUpdate_Achievements": "2023-05-24T12:05:57.5678291+00:00"
 }

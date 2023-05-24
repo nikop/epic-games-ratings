@@ -20,10 +20,10 @@ Number of Ratings: 38  (23.09.2022)
 | Heartstrings | 14.00% | ~162 |
 | Head in the clouds | 14.00% | ~162 |
 | Back to rust | 13.00% | ~151 |
+| Flower Powered | 13.00% | ~151 |
 | Don't look back | 13.00% | ~151 |
-| Flower Powered | 12.00% | ~139 |
+| Unstoppable | 11.00% | ~127 |
 | Perfect timing | 10.00% | ~116 |
-| Unstoppable | 10.00% | ~116 |
 | Ain't no mountain high enough | 9.00% | ~104 |
 | Self-sustainability | 8.00% | ~93 |
 | Spring cleaning | 6.00% | ~69 |

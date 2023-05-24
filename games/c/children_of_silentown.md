@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lucky charm | 90.00% | ~132 |
-| Trumpet | 88.00% | ~129 |
-| Spyglass | 82.00% | ~121 |
+| Lucky charm | 91.00% | ~134 |
+| Trumpet | 89.00% | ~131 |
+| Spyglass | 83.00% | ~122 |
+| Broken toy | 77.00% | ~113 |
 | Egghead Lucy | 76.00% | ~112 |
-| Broken toy | 76.00% | ~112 |
 | Puppy | 61.00% | ~90 |
 | Coal's fur | 58.00% | ~85 |
 | Blue's drawing | 54.00% | ~79 |
@@ -31,7 +31,7 @@
 | Hope | 5.00% | ~7 |
 | Hairball | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147 (Ranked 252)  
+Progressed: 147 (Ranked 253)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |

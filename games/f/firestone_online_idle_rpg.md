@@ -30,11 +30,11 @@ Rating: 3.87 (Ranked 906)
 | Scientist | 8.00% | ~92 |
 | Daily Quest Completionist | 7.00% | ~81 |
 | Challenger | 6.00% | ~69 |
+| Hunter | 6.00% | ~69 |
+| Scroll Master | 6.00% | ~69 |
 | The power of Awakening | 6.00% | ~69 |
 | Frostfire Liberator | 5.00% | ~58 |
-| Hunter | 5.00% | ~58 |
 | Mastery | 5.00% | ~58 |
-| Scroll Master | 5.00% | ~58 |
 | Here We Go Again | 4.00% | ~46 |
 | Moving Up The Ladder | 4.00% | ~46 |
 | The Expeditioner | 4.00% | ~46 |

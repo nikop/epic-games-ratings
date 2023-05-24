@@ -1095,9 +1095,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 21749,
+  "EOS_Progressed": 21751,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -2675,6 +2675,11 @@
       "Time": "2023-05-24T09:05:15.8619801+00:00",
       "NumProgressed": 21749,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-05-24T12:05:44.2383523+00:00",
+      "NumProgressed": 21751,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -2694,7 +2699,7 @@
       "Name": "Truly Blessed",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "AllEquipment",
@@ -2716,9 +2721,9 @@
       "ID": "AllRunes",
       "SetID": "3ojhj46",
       "Name": "Pillow Investments",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 44
     },
     {
       "ID": "AllScarsBronze",
@@ -2734,7 +2739,7 @@
       "Name": "Looks Familiar",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "BossBridgeAdvancedDefeated",
@@ -2758,15 +2763,15 @@
       "Name": "For Glory",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "BossCastleDefeated",
       "SetID": "3ojhj46",
       "Name": "Spells and Swords",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 196
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -2798,7 +2803,7 @@
       "Name": "King and Kin",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "BossForestAdvancedDefeated",
@@ -2942,7 +2947,7 @@
       "Name": "Prequel to the Sequel",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "RogueMode",
@@ -2997,21 +3002,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 21749,
+      "Progressed": 21751,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 679,
+      "Progressed": 681,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-05-23T14:59:39.9807049+00:00",
-  "LastChanged_Achievements": "2023-05-24T11:05:21.6444714+00:00",
+  "LastChanged_Achievements": "2023-05-24T12:05:44.2383518+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:25.8639734+00:00",
-  "LastUpdate_Ratings": "2023-05-24T10:58:53.0598549+00:00",
-  "LastUpdate_Achievements": "2023-05-24T11:05:21.6445019+00:00"
+  "LastUpdate_Ratings": "2023-05-24T11:59:02.4997484+00:00",
+  "LastUpdate_Achievements": "2023-05-24T12:05:44.2383823+00:00"
 }

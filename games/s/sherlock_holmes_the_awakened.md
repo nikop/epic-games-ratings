@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 69.00% | ~151 |
-| Read Between The Lines | 64.00% | ~140 |
+| Read Between The Lines | 65.00% | ~142 |
 | High Profile | 60.00% | ~131 |
 | Whispers In The Dark | 57.00% | ~125 |
 | Fond Memories | 50.00% | ~110 |
@@ -33,7 +33,7 @@
 | Read It And Weep | 19.00% | ~42 |
 | Reawakened | 8.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219 (Ranked 227)  
+Progressed: 219 (Ranked 228)  
 Completed: 12 (5.48%) (Ranked 27)  
 ## EOS Players History
 | Date | Progressed | Completed |

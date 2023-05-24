@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -2380,9 +2380,9 @@
       "ID": "hunter",
       "SetID": "3nl4bcg",
       "Name": "Hunter",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 69
     },
     {
       "ID": "inspection",
@@ -2548,9 +2548,9 @@
       "ID": "scrollmaster",
       "SetID": "3nl4bcg",
       "Name": "Scroll Master",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 58
+      "UsersEstimate": 69
     },
     {
       "ID": "silverwoodliberator",
@@ -2725,8 +2725,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-23T21:58:11.918076+00:00",
-  "LastChanged_Achievements": "2023-05-24T11:05:19.3300067+00:00",
+  "LastChanged_Achievements": "2023-05-24T12:05:41.689491+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:34.8363446+00:00",
-  "LastUpdate_Ratings": "2023-05-24T10:57:53.4322813+00:00",
-  "LastUpdate_Achievements": "2023-05-24T11:05:19.3300776+00:00"
+  "LastUpdate_Ratings": "2023-05-24T11:57:47.9924345+00:00",
+  "LastUpdate_Achievements": "2023-05-24T12:05:41.6895591+00:00"
 }

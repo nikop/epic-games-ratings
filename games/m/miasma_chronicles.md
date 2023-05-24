@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 85.00% | ~181 |
-| Ranidaphobia | 45.00% | ~96 |
-| Aspiring Editor | 33.00% | ~70 |
-| Gun for Hire | 25.00% | ~53 |
-| I am the law! | 9.00% | ~19 |
+| First Blood | 84.00% | ~185 |
+| Ranidaphobia | 48.00% | ~106 |
+| Aspiring Editor | 35.00% | ~77 |
+| Gun for Hire | 26.00% | ~57 |
+| I am the law! | 13.00% | ~29 |
 | Firestarter | 4.00% | ~9 |
-| Limp Richard | 1.00% | ~2 |
+| Limp Richard | 2.00% | ~4 |
 | Lumberjack | 1.00% | ~2 |
+| Newtonian Knockout | 1.00% | ~2 |
 | Giant Killer | 0.90% | ~2 |
-| Newtonian Knockout | 0.90% | ~2 |
 | Recycler | 0.90% | ~2 |
 | Are you not entertained? | 0.50% | ~1 |
 | Commando | 0.50% | ~1 |
@@ -56,10 +56,10 @@
 | Silent but Violent | 0.00% | ~0 |
 | Wipe Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213 (Ranked 228)  
+Progressed: 220 (Ranked 227)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-23 | 151 | 0 |
-| 2023-05-24 | 213 | 0 |
+| 2023-05-24 | 220 | 0 |

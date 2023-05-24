@@ -139,9 +139,9 @@
       "ID": "ACH_UNLOCK_BIKE_LEFTCOAST",
       "SetID": "a8m7fpb",
       "Name": "Use the Left Coast bike",
-      "Percentage": 150,
+      "Percentage": 200,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_UNLOCK_BIKE_SLICE",
@@ -193,8 +193,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-08T15:02:14.232544+00:00",
-  "LastChanged_Achievements": "2023-05-24T11:00:10.6641016+00:00",
+  "LastChanged_Achievements": "2023-05-24T12:00:39.0644532+00:00",
   "LastUpdate_AppInfo": "2023-05-22T15:57:05.6566424+00:00",
-  "LastUpdate_Ratings": "2023-05-24T10:57:11.0918465+00:00",
-  "LastUpdate_Achievements": "2023-05-24T11:00:10.6641178+00:00"
+  "LastUpdate_Ratings": "2023-05-24T11:56:54.7548551+00:00",
+  "LastUpdate_Achievements": "2023-05-24T12:00:39.0644712+00:00"
 }

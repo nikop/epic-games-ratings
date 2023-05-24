@@ -1,20 +1,20 @@
 # Surviving the Aftermath
 [Store](https://store.epicgames.com/en-US/p/surviving-the-aftermath)  
 [View Rawdata](../../db/s/surviving_the_aftermath__founder's_edition.json)  
-Rating: 4.47 (Ranked 583)  
+Rating: 4.47 (Ranked 584)  
 Number of Ratings: 836  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~3,964 |
-| Leader | 61.00% | ~3,454 |
-| Explorer | 53.00% | ~3,001 |
-| Healer | 53.00% | ~3,001 |
-| Aspiring Inventor | 45.00% | ~2,548 |
+| First Step | 70.00% | ~3,965 |
+| Leader | 61.00% | ~3,455 |
+| Explorer | 53.00% | ~3,002 |
+| Healer | 53.00% | ~3,002 |
+| Aspiring Inventor | 45.00% | ~2,549 |
 | Adventurer | 41.00% | ~2,322 |
 | Famous Healer | 38.00% | ~2,152 |
 | Local Leader | 35.00% | ~1,982 |
-| New Opportunities | 34.00% | ~1,925 |
+| New Opportunities | 34.00% | ~1,926 |
 | Famous Explorer | 33.00% | ~1,869 |
 | Energized | 33.00% | ~1,869 |
 | The Long Haul | 33.00% | ~1,869 |
@@ -35,7 +35,7 @@ Number of Ratings: 836  (23.09.2022)
 | Big Game Hunter | 17.00% | ~963 |
 | Friendly | 16.00% | ~906 |
 | Spreading Influence | 16.00% | ~906 |
-| Around the World | 15.00% | ~849 |
+| Around the World | 15.00% | ~850 |
 | Bookworm | 14.00% | ~793 |
 | Famous Adventurer | 13.00% | ~736 |
 | Prepared for Anything | 13.00% | ~736 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Finnished | 0.20% | ~11 |
 | Customized calamities | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,663 (Ranked 121)  
+Progressed: 5,664 (Ranked 121)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-21 | 5,581 | 0 |
 | 2023-05-22 | 5,617 | 0 |
 | 2023-05-23 | 5,653 | 0 |
-| 2023-05-24 | 5,663 | 0 |
+| 2023-05-24 | 5,664 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 325)  
 Sum: 652 (Ranked 270)  

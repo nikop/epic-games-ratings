@@ -21,8 +21,8 @@
 | Rooftop | 26.00% | ~11 |
 | It's getting dark | 26.00% | ~11 |
 | Homeless | 24.00% | ~10 |
+| Big badaboom! | 24.00% | ~10 |
 | Magnitude 5 | 21.00% | ~9 |
-| Big badaboom! | 21.00% | ~9 |
 | Nokron tower | 19.00% | ~8 |
 | Payback | 19.00% | ~8 |
 | Full power | 17.00% | ~7 |
@@ -30,8 +30,8 @@
 | Compulsive hoarder | 17.00% | ~7 |
 | Bookworm | 17.00% | ~7 |
 | MayDay! MayDay! | 14.00% | ~6 |
-| GG EZ | 5.00% | ~2 |
-| Comeback | 5.00% | ~2 |
+| GG EZ | 7.00% | ~3 |
+| Comeback | 7.00% | ~3 |
 | Gooooooaaaaal!!! | 5.00% | ~2 |
 | Abyssal God | 0.00% | ~0 |
 | What do you want? | 0.00% | ~0 |

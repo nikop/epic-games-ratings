@@ -24,6 +24,8 @@
 | My Precious Gems! | 12.00% | ~4 |
 | Dr. Dreinstein III | 12.00% | ~4 |
 | Orcharion Boost | 12.00% | ~4 |
+| Case Closed | 12.00% | ~4 |
+| All Beefed Up | 12.00% | ~4 |
 | An Unexpected Visitor | 12.00% | ~4 |
 | How Do You Like Them Apples? | 12.00% | ~4 |
 | Gotta Collect Them All | 9.00% | ~3 |
@@ -35,10 +37,8 @@
 | Back for More? | 9.00% | ~3 |
 | Fishing for Fissures | 9.00% | ~3 |
 | You did it? You did it! | 9.00% | ~3 |
-| Case Closed | 9.00% | ~3 |
 | Gurabi Trial Extraordinaire | 9.00% | ~3 |
 | Scour the Gurabi Domain | 9.00% | ~3 |
-| All Beefed Up | 9.00% | ~3 |
 | Isn't It Grand? | 9.00% | ~3 |
 | I am the Trial! | 9.00% | ~3 |
 | The Smelter | 9.00% | ~3 |
