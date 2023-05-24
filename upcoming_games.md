@@ -1,7 +1,6 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
 | [Observation Particle Life 1](games/c/cf7613b267a042e9b06d5d527e8a5eb1.md) | 2023-05-24 | 2023-05-24 |
-| [Yodanji](games/c/cc91867fe9ed4055b45b10fe161771bb.md) | 2023-05-25 | 2017-12-06 |
 | [Tuk Tuk Race](games/t/tuk_tuk_race.md) | 2023-05-25 | 2023-05-25 |
 | [World of Contraptions](games/w/world_of_contraptions.md) | 2023-05-25 | 2022-03-24 |
 | [Puzzle Compound](games/d/dc0f95061f7746e3b4ad939bee60f1a3.md) | 2023-05-25 | 2023-05-25 |
@@ -18,6 +17,7 @@
 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 2023-05-26 | 2023-05-26 |
 | [Tracks of Triumph: Summertime](games/c/cd2b2654ac2c42be8cd9e51ea4e2df47.md) | 2023-05-27 | 2023-05-27 |
 | [Celestia Ultimate](games/3/36af29f8b8b44e0ca129c4e9b4d3f969.md) | 2023-05-28 | 2023-05-28 |
+| [Yodanji](games/c/cc91867fe9ed4055b45b10fe161771bb.md) | 2023-05-29 | 2017-12-06 |
 | [Shame Legacy](games/s/shame_legacy.md) | 2023-05-30 | 2023-05-30 |
 | [Return to Grace](games/c/c4061518e37f40119b54ce93456a8ecb.md) | 2023-05-30 | 2023-05-30 |
 | [System Shock](games/s/system_shock.md) | 2023-05-30 | 2023-05-30 |
