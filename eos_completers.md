@@ -31,12 +31,12 @@
 | 29 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.85% |
 | 30 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 4.79% |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
-| 32 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.55% |
+| 32 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.44% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.43% |
 | 34 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.26% |
-| 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
-| 36 | [Doodle God](games/d/doodle_god.md) | 3.90% |
-| 37 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.86% |
+| 35 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.98% |
+| 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
+| 37 | [Doodle God](games/d/doodle_god.md) | 3.90% |
 | 38 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 39 | [The Complex](games/t/the_complex.md) | 3.50% |
 | 40 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.34% |
@@ -44,7 +44,7 @@
 | 42 | [The Bunker](games/t/the_bunker.md) | 3.23% |
 | 43 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
 | 44 | [ZZT!](games/z/zzt!.md) | 3.16% |
-| 45 | [HordeCore](games/h/hordecore.md) | 3.01% |
+| 45 | [HordeCore](games/h/hordecore.md) | 3.00% |
 | 46 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.99% |
 | 47 | [MultiVersus](games/m/multiversus.md) | 2.95% |
 | 48 | [Destiny 2](games/d/destiny_2.md) | 2.91% |
@@ -52,13 +52,13 @@
 | 50 | [Lamentum](games/l/lamentum.md) | 2.87% |
 | 51 | [Bunny Park](games/b/bunny_park.md) | 2.85% |
 | 52 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
-| 53 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.63% |
-| 54 | [FORECLOSED](games/f/foreclosed.md) | 2.60% |
+| 53 | [FORECLOSED](games/f/foreclosed.md) | 2.60% |
+| 53 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.60% |
 | 55 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.53% |
 | 56 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.50% |
 | 56 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [JARS](games/j/jars.md) | 2.38% |
-| 59 | [Iron Danger](games/i/iron_danger.md) | 2.31% |
+| 59 | [Iron Danger](games/i/iron_danger.md) | 2.30% |
 | 60 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.14% |
 | 61 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.13% |
 | 62 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.12% |
@@ -74,7 +74,7 @@
 | 72 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.47% |
 | 73 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.45% |
 | 73 | [Ten Dates](games/t/ten_dates.md) | 1.45% |
-| 75 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.43% |
+| 75 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.41% |
 | 76 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.29% |
 | 77 | [Chorus](games/c/chorus.md) | 1.25% |
 | 77 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.25% |
@@ -119,21 +119,21 @@
 | 117 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.35% |
 | 118 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.34% |
 | 118 | [Godlike Burger](games/g/godlike_burger.md) | 0.34% |
-| 120 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.33% |
-| 120 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
+| 118 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.34% |
+| 121 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
 | 122 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.32% |
 | 122 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
 | 124 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
 | 124 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 124 | [The Surge](games/t/the_surge.md) | 0.31% |
-| 127 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.30% |
+| 126 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.30% |
+| 126 | [The Surge](games/t/the_surge.md) | 0.30% |
 | 128 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.29% |
 | 129 | [Aegis Descent](games/a/aegis_descent.md) | 0.28% |
 | 130 | [Dead Island 2](games/d/dead_island_2.md) | 0.27% |
 | 130 | [Despot's Game](games/d/despot's_game.md) | 0.27% |
 | 130 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
-| 133 | [Circus Electrique](games/c/circus_electrique.md) | 0.25% |
 | 133 | [Wildermyth](games/w/wildermyth.md) | 0.25% |
+| 134 | [Circus Electrique](games/c/circus_electrique.md) | 0.24% |
 | 135 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.22% |
 | 135 | [Against the Storm](games/a/against_the_storm.md) | 0.22% |
 | 135 | [Filament](games/f/filament.md) | 0.22% |
