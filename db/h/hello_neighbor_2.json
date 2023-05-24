@@ -1000,9 +1000,9 @@
       "ID": "ACH_MAD_SCIENTIST",
       "SetID": "4kfb9pd",
       "Name": "Mad Scientist",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 523
+      "UsersEstimate": 547
     },
     {
       "ID": "ACH_REUNION",
@@ -1049,8 +1049,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-05-23T22:01:02.7899752+00:00",
-  "LastChanged_Achievements": "2023-05-24T09:05:23.0617687+00:00",
+  "LastChanged_Achievements": "2023-05-24T10:06:56.1405238+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:26.5471231+00:00",
-  "LastUpdate_Ratings": "2023-05-24T08:59:36.5093094+00:00",
-  "LastUpdate_Achievements": "2023-05-24T09:05:23.0617802+00:00"
+  "LastUpdate_Ratings": "2023-05-24T10:01:03.9650001+00:00",
+  "LastUpdate_Achievements": "2023-05-24T10:06:56.14054+00:00"
 }

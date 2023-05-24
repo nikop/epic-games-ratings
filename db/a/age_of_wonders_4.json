@@ -154,9 +154,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3325,
+  "EOS_Progressed": 3326,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 711,
+  "EOS_NewPlayers": 706,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1789,6 +1789,11 @@
       "Time": "2023-05-24T09:03:26.0050253+00:00",
       "NumProgressed": 3325,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T10:04:10.9323253+00:00",
+      "NumProgressed": 3326,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -1800,7 +1805,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1396
+      "UsersEstimate": 1397
     },
     {
       "ID": "10",
@@ -1808,7 +1813,7 @@
       "Name": "Snap Out of It!",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "11",
@@ -1872,7 +1877,7 @@
       "Name": "Arch Mage",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "19",
@@ -1888,7 +1893,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "20",
@@ -1920,7 +1925,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2693
+      "UsersEstimate": 2694
     },
     {
       "ID": "24",
@@ -1928,7 +1933,7 @@
       "Name": "Secret Technique",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2560
+      "UsersEstimate": 2561
     },
     {
       "ID": "25",
@@ -1968,7 +1973,7 @@
       "Name": "Stronger Together",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "3",
@@ -1984,7 +1989,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "31",
@@ -1992,7 +1997,7 @@
       "Name": "Magical Synergy",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 2194
+      "UsersEstimate": 2195
     },
     {
       "ID": "32",
@@ -2016,7 +2021,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1230
+      "UsersEstimate": 1231
     },
     {
       "ID": "35",
@@ -2024,7 +2029,7 @@
       "Name": "I Want to Break Free",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "36",
@@ -2056,7 +2061,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "4",
@@ -2151,13 +2156,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 3325,
-      "Completed": 3325
+      "Progressed": 3326,
+      "Completed": 3326
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 3325,
+      "Progressed": 3326,
       "Completed": 0
     }
   ],
@@ -2165,8 +2170,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-23T11:59:43.2383124+00:00",
-  "LastChanged_Achievements": "2023-05-24T09:03:26.0050118+00:00",
+  "LastChanged_Achievements": "2023-05-24T10:04:10.9323245+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:46.682938+00:00",
-  "LastUpdate_Ratings": "2023-05-24T08:58:51.4672219+00:00",
-  "LastUpdate_Achievements": "2023-05-24T09:03:26.0050616+00:00"
+  "LastUpdate_Ratings": "2023-05-24T09:59:56.8342065+00:00",
+  "LastUpdate_Achievements": "2023-05-24T10:04:10.9323938+00:00"
 }

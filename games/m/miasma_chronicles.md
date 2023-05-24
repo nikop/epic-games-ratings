@@ -4,15 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 84.00% | ~168 |
-| Ranidaphobia | 44.00% | ~88 |
-| Aspiring Editor | 32.00% | ~64 |
-| Gun for Hire | 24.00% | ~48 |
+| First Blood | 85.00% | ~174 |
+| Ranidaphobia | 45.00% | ~92 |
+| Aspiring Editor | 33.00% | ~68 |
+| Gun for Hire | 25.00% | ~51 |
 | I am the law! | 8.00% | ~16 |
 | Firestarter | 3.00% | ~6 |
 | Limp Richard | 1.00% | ~2 |
+| Giant Killer | 1.00% | ~2 |
 | Lumberjack | 1.00% | ~2 |
 | Newtonian Knockout | 1.00% | ~2 |
+| Recycler | 1.00% | ~2 |
 | Are you not entertained? | 0.50% | ~1 |
 | Commando | 0.50% | ~1 |
 | Croaked | 0.50% | ~1 |
@@ -22,10 +24,8 @@
 | Dr Jones | 0.50% | ~1 |
 | Exorcist | 0.50% | ~1 |
 | From Darkness to Light | 0.50% | ~1 |
-| Giant Killer | 0.50% | ~1 |
 | Infiltrator | 0.50% | ~1 |
 | Pushing Daisy | 0.50% | ~1 |
-| Recycler | 0.50% | ~1 |
 | Sensei | 0.50% | ~1 |
 | Side Order | 0.50% | ~1 |
 | Technophobe | 0.50% | ~1 |
@@ -56,10 +56,10 @@
 | Silent but Violent | 0.00% | ~0 |
 | Wipe Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 200 (Ranked 230)  
+Progressed: 205 (Ranked 229)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-23 | 151 | 0 |
-| 2023-05-24 | 200 | 0 |
+| 2023-05-24 | 205 | 0 |

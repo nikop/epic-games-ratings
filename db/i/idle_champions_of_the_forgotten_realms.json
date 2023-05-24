@@ -3898,9 +3898,9 @@
       "Count": 3238
     }
   ],
-  "EOS_Progressed": 88460,
+  "EOS_Progressed": 88464,
   "EOS_Completed": 1873,
-  "EOS_NewPlayers": 715,
+  "EOS_NewPlayers": 714,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 2.12,
   "EosHistory": [
@@ -7168,6 +7168,11 @@
       "Time": "2023-05-24T08:07:26.665711+00:00",
       "NumProgressed": 88460,
       "NumCompleted": 1873
+    },
+    {
+      "Time": "2023-05-24T10:07:10.4260153+00:00",
+      "NumProgressed": 88464,
+      "NumCompleted": 1873
     }
   ],
   "TotalAchievements": 493,
@@ -8249,9 +8254,9 @@
       "ID": "objective_completed_1345",
       "SetID": "415jc5c",
       "Name": "No One Can Hear You Scream",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 109
     },
     {
       "ID": "objective_completed_1346",
@@ -11122,21 +11127,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54734,
+      "Progressed": 54738,
       "Completed": 2684
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88460,
+      "Progressed": 88464,
       "Completed": 1873
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-23T16:58:40.8239248+00:00",
-  "LastChanged_Achievements": "2023-05-24T09:05:34.7313152+00:00",
+  "LastChanged_Achievements": "2023-05-24T10:07:10.4260149+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-24T08:57:42.0362264+00:00",
-  "LastUpdate_Achievements": "2023-05-24T09:05:34.7334684+00:00"
+  "LastUpdate_Ratings": "2023-05-24T09:58:13.840716+00:00",
+  "LastUpdate_Achievements": "2023-05-24T10:07:10.4291014+00:00"
 }

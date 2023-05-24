@@ -6,28 +6,28 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 77.00% | ~34,531 |
-| Worth it | 63.00% | ~28,253 |
-| Eagle Eye | 55.00% | ~24,665 |
-| Corpseman I | 40.00% | ~17,938 |
-| Blast fishing | 38.00% | ~17,041 |
-| Not alone | 32.00% | ~14,351 |
-| Headhunter I | 27.00% | ~12,108 |
-| Manual Labour I | 25.00% | ~11,212 |
-| Developers, Developers, Developers | 24.00% | ~10,763 |
-| Basic Training | 24.00% | ~10,763 |
-| Furchtlos und Treu | 13.00% | ~5,830 |
+| Setting an example | 77.00% | ~34,535 |
+| Worth it | 63.00% | ~28,256 |
+| Eagle Eye | 55.00% | ~24,668 |
+| Corpseman I | 40.00% | ~17,940 |
+| Blast fishing | 38.00% | ~17,043 |
+| Not alone | 32.00% | ~14,352 |
+| Headhunter I | 27.00% | ~12,110 |
+| Manual Labour I | 25.00% | ~11,213 |
+| Developers, Developers, Developers | 24.00% | ~10,764 |
+| Basic Training | 24.00% | ~10,764 |
+| Furchtlos und Treu | 13.00% | ~5,831 |
 | Gott Mit Uns | 12.00% | ~5,382 |
-| This We'll Defend! | 9.00% | ~4,036 |
-| Anker wirf! | 9.00% | ~4,036 |
-| Providentiea Memor | 9.00% | ~4,036 |
-| For King and Country | 9.00% | ~4,036 |
+| This We'll Defend! | 9.00% | ~4,037 |
+| Anker wirf! | 9.00% | ~4,037 |
+| Providentiea Memor | 9.00% | ~4,037 |
+| For King and Country | 9.00% | ~4,037 |
 | Battle hardened | 8.00% | ~3,588 |
-| Semper Fidelis! | 7.00% | ~3,139 |
-| Honneur et Patrie | 7.00% | ~3,139 |
-| In Treue Fest | 5.00% | ~2,242 |
-| Voor De Koning | 5.00% | ~2,242 |
-| Extreme Headhunter | 5.00% | ~2,242 |
+| Semper Fidelis! | 7.00% | ~3,140 |
+| Honneur et Patrie | 7.00% | ~3,140 |
+| In Treue Fest | 5.00% | ~2,243 |
+| Voor De Koning | 5.00% | ~2,243 |
+| Extreme Headhunter | 5.00% | ~2,243 |
 | Advance Australia | 4.00% | ~1,794 |
 | We Stand on Guard | 4.00% | ~1,794 |
 | Sidi Brahim | 4.00% | ~1,794 |
@@ -35,22 +35,22 @@ Number of Ratings: 1,999  (23.09.2022)
 | Let them, come to us | 4.00% | ~1,794 |
 | Corpseman II | 4.00% | ~1,794 |
 | Manual Labour II | 4.00% | ~1,794 |
-| Offense is the best defence | 3.00% | ~1,345 |
-| There is no I in team | 3.00% | ~1,345 |
-| Veteran | 3.00% | ~1,345 |
-| In My Defens God Me Defend | 3.00% | ~1,345 |
-| Silver x100 | 3.00% | ~1,345 |
-| Impavidum Ferient Bella! | 3.00% | ~1,345 |
+| Offense is the best defence | 3.00% | ~1,346 |
+| There is no I in team | 3.00% | ~1,346 |
+| Veteran | 3.00% | ~1,346 |
+| In My Defens God Me Defend | 3.00% | ~1,346 |
+| Silver x100 | 3.00% | ~1,346 |
+| Impavidum Ferient Bella! | 3.00% | ~1,346 |
 | Bronze x100 | 2.00% | ~897 |
 | Shoot, Cover, Reload, Repeat | 2.00% | ~897 |
-| Gold x100 | 1.00% | ~448 |
-| Hunting the Hun | 1.00% | ~448 |
-| #1 | 1.00% | ~448 |
-| Golden Headhunter | 1.00% | ~448 |
-| That's another one down! | 1.00% | ~448 |
-| Do you even die? | 1.00% | ~448 |
-| Headhunter II | 1.00% | ~448 |
-| Corpseman III | 1.00% | ~448 |
+| Gold x100 | 1.00% | ~449 |
+| Hunting the Hun | 1.00% | ~449 |
+| #1 | 1.00% | ~449 |
+| Golden Headhunter | 1.00% | ~449 |
+| That's another one down! | 1.00% | ~449 |
+| Do you even die? | 1.00% | ~449 |
+| Headhunter II | 1.00% | ~449 |
+| Corpseman III | 1.00% | ~449 |
 | Elite Player | 0.80% | ~359 |
 | Manual Labour III | 0.40% | ~179 |
 | Buddy | 0.30% | ~135 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~45 |
 | Blood Brother | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,846 (Ranked 77)  
+Progressed: 44,851 (Ranked 77)  
 Completed: 2 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,18 +100,18 @@ Completed: 2 (0.00%) (Ranked 202)
 | 2023-05-21 | 44,588 | 2 |
 | 2023-05-22 | 44,716 | 2 |
 | 2023-05-23 | 44,814 | 2 |
-| 2023-05-24 | 44,846 | 2 |
+| 2023-05-24 | 44,851 | 2 |
 ## Awards
 Max (Highly Recommended): 93  (Ranked 332)  
-Sum: 736 (Ranked 257)  
-Diff (max vs sum): 75  
+Sum: 737 (Ranked 256)  
+Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 93 |
 | This game is Great for Beginners | 88 |
 | This game is Extremely Fun | 87 |
 | This game has Quickly Understood Controls | 82 |
-| This game has Diverse Characters | 81 |
+| This game has Diverse Characters | 82 |
 | This game is Educational | 76 |
 | This game is Relaxing | 73 |
 | This game has Competitive Players | 69 |
@@ -225,3 +225,4 @@ Diff (max vs sum): 75
 | 2023-05-18 | 4.53 | - | 93 | 732 |
 | 2023-05-20 | 4.53 | - | 93 | 733 |
 | 2023-05-21 | 4.53 | - | 93 | 736 |
+| 2023-05-24 | 4.53 | - | 93 | 737 |

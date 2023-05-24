@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1313,
+  "EOS_Progressed": 1317,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 589,
+  "EOS_NewPlayers": 592,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1224,6 +1224,11 @@
       "Time": "2023-05-24T09:05:04.0370909+00:00",
       "NumProgressed": 1313,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-24T10:06:28.7717589+00:00",
+      "NumProgressed": 1317,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1257,9 +1262,9 @@
       "ID": "REWARD_13_OPTIONAL_TASK",
       "SetID": "bm6el81",
       "Name": "No Stone Unturned",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -1291,7 +1296,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -1299,7 +1304,7 @@
       "Name": "Organ Grinder",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -1315,7 +1320,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1403,7 +1408,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1435,7 +1440,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -1475,7 +1480,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -1569,9 +1574,9 @@
       "ID": "REWARD_5_BUNKER_BUSTER",
       "SetID": "bm6el81",
       "Name": "Change the Channel",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 40
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -1802,13 +1807,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1264,
+      "Progressed": 1268,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1313,
+      "Progressed": 1317,
       "Completed": 2
     }
   ],
@@ -1816,8 +1821,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-23T13:59:59.0486682+00:00",
-  "LastChanged_Achievements": "2023-05-24T09:05:04.0370904+00:00",
+  "LastChanged_Achievements": "2023-05-24T10:06:28.7717585+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-24T08:59:46.537515+00:00",
-  "LastUpdate_Achievements": "2023-05-24T09:05:04.0371462+00:00"
+  "LastUpdate_Ratings": "2023-05-24T10:01:16.8975958+00:00",
+  "LastUpdate_Achievements": "2023-05-24T10:06:28.7718339+00:00"
 }

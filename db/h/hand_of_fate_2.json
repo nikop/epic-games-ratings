@@ -838,9 +838,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 656677,
+  "EOS_Progressed": 656682,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 409,
+  "EOS_NewPlayers": 412,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3758,6 +3758,11 @@
       "Time": "2023-05-24T09:05:02.2933428+00:00",
       "NumProgressed": 656677,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-05-24T10:06:26.6499886+00:00",
+      "NumProgressed": 656682,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -3769,7 +3774,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 472807
+      "UsersEstimate": 472811
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -3777,7 +3782,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 380873
+      "UsersEstimate": 380876
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -3785,7 +3790,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 151036
+      "UsersEstimate": 151037
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -3809,7 +3814,7 @@
       "Name": "Knight",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 52534
+      "UsersEstimate": 52535
     },
     {
       "ID": "Achievement_07_Dungeon_Master",
@@ -3841,7 +3846,7 @@
       "Name": "Long Shot",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 45967
+      "UsersEstimate": 45968
     },
     {
       "ID": "Achievement_11_Grifter",
@@ -3905,7 +3910,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 151036
+      "UsersEstimate": 151037
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -3921,7 +3926,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 111635
+      "UsersEstimate": 111636
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -3937,7 +3942,7 @@
       "Name": "Cure for Corruption",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 52534
+      "UsersEstimate": 52535
     },
     {
       "ID": "Achievement_23_Smithy",
@@ -3993,7 +3998,7 @@
       "Name": "Focused",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 52534
+      "UsersEstimate": 52535
     },
     {
       "ID": "Achievement_30_Devil_Dice",
@@ -4001,7 +4006,7 @@
       "Name": "Devil Dice",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 45967
+      "UsersEstimate": 45968
     },
     {
       "ID": "Achievement_31_Master_of_Arms",
@@ -4009,7 +4014,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 78801
+      "UsersEstimate": 78802
     },
     {
       "ID": "Achievement_32_Karma",
@@ -4033,7 +4038,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 164169
+      "UsersEstimate": 164170
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -4065,7 +4070,7 @@
       "Name": "Flurry of Fury",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 52534
+      "UsersEstimate": 52535
     },
     {
       "ID": "Achievement_39_Stuffed_Potato",
@@ -4152,15 +4157,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 656677,
+      "Progressed": 656682,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-05-18T14:57:37.1411686+00:00",
-  "LastChanged_Achievements": "2023-05-24T09:05:02.2933422+00:00",
+  "LastChanged_Achievements": "2023-05-24T10:06:26.6499882+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:07.1745323+00:00",
-  "LastUpdate_Ratings": "2023-05-24T08:57:18.4888423+00:00",
-  "LastUpdate_Achievements": "2023-05-24T09:05:02.2933895+00:00"
+  "LastUpdate_Ratings": "2023-05-24T09:57:41.534704+00:00",
+  "LastUpdate_Achievements": "2023-05-24T10:06:26.6501437+00:00"
 }

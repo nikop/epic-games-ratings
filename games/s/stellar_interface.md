@@ -4,15 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 67.00% | ~8 |
-| Killing Spree | 33.00% | ~4 |
-| 5Gb HDD | 25.00% | ~3 |
-| Dominating | 17.00% | ~2 |
-| Merchant Prince I | 17.00% | ~2 |
-| The Vette | 8.00% | ~1 |
+| First Blood | 69.00% | ~9 |
+| Killing Spree | 38.00% | ~5 |
+| 5Gb HDD | 31.00% | ~4 |
+| Dominating | 23.00% | ~3 |
+| Merchant Prince I | 23.00% | ~3 |
+| The Vette | 15.00% | ~2 |
+| Fighting Fit I | 15.00% | ~2 |
+| Rambo I | 8.00% | ~1 |
 | Food Poisoning | 8.00% | ~1 |
+| Mega Kill | 8.00% | ~1 |
+| 10Gb HDD | 8.00% | ~1 |
 | Almost There I | 8.00% | ~1 |
-| Fighting Fit I | 8.00% | ~1 |
 | Providence | 0.00% | ~0 |
 | Revenge | 0.00% | ~0 |
 | Bronze Tovarish | 0.00% | ~0 |
@@ -30,7 +33,6 @@
 | Cartridge Hoarder | 0.00% | ~0 |
 | Rambo VI | 0.00% | ~0 |
 | Rambo III | 0.00% | ~0 |
-| Rambo I | 0.00% | ~0 |
 | Space Odyssey | 0.00% | ~0 |
 | Rambo IV | 0.00% | ~0 |
 | Curious | 0.00% | ~0 |
@@ -85,7 +87,6 @@
 | Godlike | 0.00% | ~0 |
 | Wicked Sick | 0.00% | ~0 |
 | Usurper VI | 0.00% | ~0 |
-| Mega Kill | 0.00% | ~0 |
 | Usurper IV | 0.00% | ~0 |
 | Usurper I | 0.00% | ~0 |
 | Usurper II | 0.00% | ~0 |
@@ -96,7 +97,6 @@
 | Flower Power | 0.00% | ~0 |
 | Five-O | 0.00% | ~0 |
 | Stoic | 0.00% | ~0 |
-| 10Gb HDD | 0.00% | ~0 |
 | 25Gb HDD | 0.00% | ~0 |
 | 50Gb HDD | 0.00% | ~0 |
 | 80Gb HDD | 0.00% | ~0 |
@@ -137,7 +137,7 @@
 | Fighting Fit II | 0.00% | ~0 |
 | Fighting Fit V | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12 (Ranked 328)  
+Progressed: 13 (Ranked 327)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -148,3 +148,4 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-20 | 8 | 0 |
 | 2023-05-22 | 11 | 0 |
 | 2023-05-23 | 12 | 0 |
+| 2023-05-24 | 13 | 0 |

@@ -4,7 +4,7 @@
   "ProductSlug": "nioh-the-complete-edition",
   "Ranking_Rating": 437,
   "Ranking_Popularity": 42,
-  "Ranking_PopularitySum": 56,
+  "Ranking_PopularitySum": 55,
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 316,
@@ -4466,10 +4466,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 17043,
       "NumberOfAwardsMax": 7340
+    },
+    {
+      "Time": "2023-05-24T10:01:22.0010935+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 17701,
+      "NumberOfAwardsMax": 7340
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 17043,
+  "NumberOfAwards": 17701,
   "NumberOfAwardsMax": 7340,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4531,7 +4537,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 652
+      "Count": 658
     }
   ],
   "EOS_Progressed": 0,
@@ -4545,8 +4551,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:37.2904323+00:00",
-  "LastChanged": "2023-05-24T04:00:00.2221097+00:00",
+  "LastChanged": "2023-05-24T10:01:22.0010933+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:53.6445729+00:00",
-  "LastUpdate_Ratings": "2023-05-24T08:59:51.6288986+00:00",
-  "LastUpdate_Achievements": "2023-05-24T09:04:45.310397+00:00"
+  "LastUpdate_Ratings": "2023-05-24T10:01:22.0010941+00:00",
+  "LastUpdate_Achievements": "2023-05-24T10:06:03.7765982+00:00"
 }

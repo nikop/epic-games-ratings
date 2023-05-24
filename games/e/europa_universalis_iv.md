@@ -6,14 +6,14 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,842 |
-| That's a Grand Army | 8.00% | ~3,416 |
-| That is mine! | 8.00% | ~3,416 |
-| Victorious! | 8.00% | ~3,416 |
-| Brothers in Arms | 6.00% | ~2,562 |
-| That's a Grand Navy | 6.00% | ~2,562 |
-| Seriously?! | 6.00% | ~2,562 |
-| For the Glory | 5.00% | ~2,135 |
+| Until death do us apart | 9.00% | ~3,844 |
+| That's a Grand Army | 8.00% | ~3,417 |
+| That is mine! | 8.00% | ~3,417 |
+| Victorious! | 8.00% | ~3,417 |
+| Brothers in Arms | 6.00% | ~2,563 |
+| That's a Grand Navy | 6.00% | ~2,563 |
+| Seriously?! | 6.00% | ~2,563 |
+| For the Glory | 5.00% | ~2,136 |
 | Cold War | 4.00% | ~1,708 |
 | True Catholic | 4.00% | ~1,708 |
 | Defender of the Faith | 3.00% | ~1,281 |
@@ -46,13 +46,13 @@ Number of Ratings: 8,414  (23.09.2022)
 | Trustworthy | 0.70% | ~299 |
 | Electable! | 0.60% | ~256 |
 | Time Bandit | 0.60% | ~256 |
-| All belongs to Mother Russia | 0.50% | ~213 |
-| At every continent | 0.50% | ~213 |
-| Early-Modern Warfare | 0.50% | ~213 |
-| One Family to Rule them All | 0.50% | ~213 |
-| The pen is mightier than the sword | 0.50% | ~213 |
-| This is My Faith | 0.50% | ~213 |
-| Trophy Hunter | 0.50% | ~213 |
+| All belongs to Mother Russia | 0.50% | ~214 |
+| At every continent | 0.50% | ~214 |
+| Early-Modern Warfare | 0.50% | ~214 |
+| One Family to Rule them All | 0.50% | ~214 |
+| The pen is mightier than the sword | 0.50% | ~214 |
+| This is My Faith | 0.50% | ~214 |
+| Trophy Hunter | 0.50% | ~214 |
 | Absolutely | 0.40% | ~171 |
 | Dude, Where's my Boat? | 0.40% | ~171 |
 | In the Name of the Father | 0.40% | ~171 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,694 (Ranked 79)  
+Progressed: 42,710 (Ranked 79)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -395,7 +395,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-21 | 41,525 | 0 |
 | 2023-05-22 | 42,079 | 0 |
 | 2023-05-23 | 42,594 | 0 |
-| 2023-05-24 | 42,694 | 0 |
+| 2023-05-24 | 42,710 | 0 |
 ## Awards
 Max (Educational): 5,277  (Ranked 60)  
 Sum: 43,693 (Ranked 27)  

@@ -782,9 +782,9 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 7352,
+  "EOS_Progressed": 7355,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1362,6 +1362,11 @@
       "Time": "2023-05-24T09:04:55.3413515+00:00",
       "NumProgressed": 7352,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-24T10:06:17.5863535+00:00",
+      "NumProgressed": 7355,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -1373,7 +1378,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1617
+      "UsersEstimate": 1618
     },
     {
       "ID": "Chatterbox",
@@ -1397,7 +1402,7 @@
       "Name": "Focus!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4558
+      "UsersEstimate": 4560
     },
     {
       "ID": "DemonCastleRestoration",
@@ -1405,7 +1410,7 @@
       "Name": "Castle Restoration Plans",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "DwarfChandelier",
@@ -1413,7 +1418,7 @@
       "Name": "The Dwarven Chandelier",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "FakeGoddessGone",
@@ -1421,7 +1426,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 2794
+      "UsersEstimate": 2795
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -1437,7 +1442,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1838
+      "UsersEstimate": 1839
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -1453,7 +1458,7 @@
       "Name": "Go Home...",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1838
+      "UsersEstimate": 1839
     },
     {
       "ID": "HeroSlayer",
@@ -1461,7 +1466,7 @@
       "Name": "The Hero Killer",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 1985
+      "UsersEstimate": 1986
     },
     {
       "ID": "LeoniasFall",
@@ -1485,7 +1490,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 2867
+      "UsersEstimate": 2868
     },
     {
       "ID": "RookieWelcome",
@@ -1493,7 +1498,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1470
+      "UsersEstimate": 1471
     },
     {
       "ID": "SavedElderEnt",
@@ -1501,7 +1506,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4558
+      "UsersEstimate": 4560
     },
     {
       "ID": "SavedElderEnt_2",
@@ -1509,7 +1514,7 @@
       "Name": "Quick Movements",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 2426
+      "UsersEstimate": 2427
     },
     {
       "ID": "SkeletonKing",
@@ -1525,7 +1530,7 @@
       "Name": "Inventory Management",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2426
+      "UsersEstimate": 2427
     },
     {
       "ID": "TheLegendBegins",
@@ -1533,7 +1538,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 6837
+      "UsersEstimate": 6840
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -1541,7 +1546,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 3382
+      "UsersEstimate": 3383
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -1557,22 +1562,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6102
+      "UsersEstimate": 6105
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7352,
+      "Progressed": 7355,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-05-24T02:03:32.7923758+00:00",
-  "LastChanged_Achievements": "2023-05-24T09:04:55.3413509+00:00",
+  "LastChanged_Achievements": "2023-05-24T10:06:17.5863525+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.259325+00:00",
-  "LastUpdate_Ratings": "2023-05-24T08:58:25.7409606+00:00",
-  "LastUpdate_Achievements": "2023-05-24T09:04:55.3413674+00:00"
+  "LastUpdate_Ratings": "2023-05-24T09:59:20.4071016+00:00",
+  "LastUpdate_Achievements": "2023-05-24T10:06:17.5863873+00:00"
 }

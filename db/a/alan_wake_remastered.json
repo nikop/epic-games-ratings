@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46939,
+  "EOS_Progressed": 46941,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 739,
+  "EOS_NewPlayers": 741,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2416,6 +2416,11 @@
       "Time": "2023-05-24T09:05:06.8186207+00:00",
       "NumProgressed": 46939,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-05-24T10:06:32.415548+00:00",
+      "NumProgressed": 46941,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 67,
@@ -2427,7 +2432,7 @@
       "Name": "Follow the Light",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 9857
+      "UsersEstimate": 9858
     },
     {
       "ID": "02",
@@ -2675,7 +2680,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7510
+      "UsersEstimate": 7511
     },
     {
       "ID": "33",
@@ -2737,9 +2742,9 @@
       "ID": "40",
       "SetID": "212770e",
       "Name": "Right of Way",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2347
+      "UsersEstimate": 2816
     },
     {
       "ID": "41",
@@ -2835,7 +2840,7 @@
       "Name": "A Friend Indeed",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "53",
@@ -2962,21 +2967,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46939,
+      "Progressed": 46941,
       "Completed": 45
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 10407,
+      "Progressed": 10409,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-24T09:05:06.8186201+00:00",
+  "LastChanged_Achievements": "2023-05-24T10:06:32.4155475+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:07.5579983+00:00",
-  "LastUpdate_Ratings": "2023-05-24T08:57:19.3139551+00:00",
-  "LastUpdate_Achievements": "2023-05-24T09:05:06.8186798+00:00"
+  "LastUpdate_Ratings": "2023-05-24T09:57:42.7652761+00:00",
+  "LastUpdate_Achievements": "2023-05-24T10:06:32.4156288+00:00"
 }

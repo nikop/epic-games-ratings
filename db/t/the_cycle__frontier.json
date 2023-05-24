@@ -4676,10 +4676,16 @@
       "Rating": 4.1,
       "NumberOfAwards": 15231,
       "NumberOfAwardsMax": 2308
+    },
+    {
+      "Time": "2023-05-24T09:58:30.0552444+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 15233,
+      "NumberOfAwardsMax": 2308
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15231,
+  "NumberOfAwards": 15233,
   "NumberOfAwardsMax": 2308,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -4717,7 +4723,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 1865
+      "Count": 1867
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4737,8 +4743,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00",
-  "LastChanged": "2023-05-24T02:03:00.3269629+00:00",
+  "LastChanged": "2023-05-24T09:58:30.0552441+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:49.392889+00:00",
-  "LastUpdate_Ratings": "2023-05-24T08:57:52.6369655+00:00",
-  "LastUpdate_Achievements": "2023-05-24T09:02:26.0553693+00:00"
+  "LastUpdate_Ratings": "2023-05-24T09:58:30.0552448+00:00",
+  "LastUpdate_Achievements": "2023-05-24T10:03:28.9975682+00:00"
 }

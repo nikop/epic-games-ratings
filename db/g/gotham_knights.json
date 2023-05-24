@@ -1202,9 +1202,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61883,
+  "EOS_Progressed": 61886,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 951,
+  "EOS_NewPlayers": 953,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3557,6 +3557,11 @@
       "Time": "2023-05-24T09:05:30.3489632+00:00",
       "NumProgressed": 61883,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-24T10:07:05.2879725+00:00",
+      "NumProgressed": 61886,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3718,9 +3723,9 @@
       "ID": "CRIME_FIGHTER_1",
       "SetID": "4eo5ebm",
       "Name": "Expert Crime Fighter",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 124
+      "UsersEstimate": 186
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -3982,9 +3987,9 @@
       "ID": "MYSTERY_04",
       "SetID": "4eo5ebm",
       "Name": "Bad Apples in Every Orchard",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 433
     },
     {
       "ID": "MYSTERY_05",
@@ -4055,13 +4060,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61883,
+      "Progressed": 61886,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32163,
+      "Progressed": 32166,
       "Completed": 2640
     }
   ],
@@ -4069,8 +4074,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-24T05:59:05.6681791+00:00",
-  "LastChanged_Achievements": "2023-05-24T09:05:30.3489627+00:00",
+  "LastChanged_Achievements": "2023-05-24T10:07:05.287972+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-24T08:59:07.3697077+00:00",
-  "LastUpdate_Achievements": "2023-05-24T09:05:30.3490369+00:00"
+  "LastUpdate_Ratings": "2023-05-24T10:00:20.6834457+00:00",
+  "LastUpdate_Achievements": "2023-05-24T10:07:05.2880456+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,622 |
+| light attack | 96.00% | ~9,623 |
 | keep it tidy | 77.00% | ~7,718 |
 | podium | 72.00% | ~7,217 |
 | medium attack | 59.00% | ~5,914 |
@@ -19,8 +19,8 @@ Number of Ratings: 56  (23.09.2022)
 | you can't treat a car like a human being. a car requires love | 21.00% | ~2,105 |
 | autopilot | 20.00% | ~2,005 |
 | turbo | 20.00% | ~2,005 |
-| food tour: pretzel | 19.00% | ~1,904 |
-| bicycle race | 15.00% | ~1,503 |
+| food tour: pretzel | 19.00% | ~1,905 |
+| bicycle race | 15.00% | ~1,504 |
 | monster | 14.00% | ~1,403 |
 | car wash | 13.00% | ~1,303 |
 | perkele | 13.00% | ~1,303 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~40 |
 | barely keeping it together | 0.30% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,023 (Ranked 107)  
+Progressed: 10,024 (Ranked 107)  
 Completed: 9 (0.09%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,6 +78,7 @@ Completed: 9 (0.09%) (Ranked 163)
 | 2023-05-20 | 10,012 | 9 |
 | 2023-05-21 | 10,021 | 9 |
 | 2023-05-23 | 10,023 | 9 |
+| 2023-05-24 | 10,024 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
