@@ -1,16 +1,16 @@
 # Severed Steel
 [Store](https://store.epicgames.com/en-US/p/severed-steel)  
 [View Rawdata](../../db/s/severed_steel.json)  
-Rating: 4.68 (Ranked 236)  
+Rating: 4.68 (Ranked 235)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 11.00% | ~44,783 |
-| 50 HEADSHOTS | 10.00% | ~40,712 |
+| 100 KILLS | 11.00% | ~44,784 |
+| 50 HEADSHOTS | 10.00% | ~40,713 |
 | FINISHED CHAPTER 1 | 8.00% | ~32,570 |
 | SCIENCE AND INDUSTRY | 8.00% | ~32,570 |
-| 200 HEADSHOTS | 6.00% | ~24,427 |
-| FINISHED CHAPTER 2 | 6.00% | ~24,427 |
+| 200 HEADSHOTS | 6.00% | ~24,428 |
+| FINISHED CHAPTER 2 | 6.00% | ~24,428 |
 | FINISHED CHAPTER 3 | 5.00% | ~20,356 |
 | FINISHED CHAPTER 4 | 4.00% | ~16,285 |
 | FINISH CHAPTER 5 | 4.00% | ~16,285 |
@@ -20,8 +20,8 @@ Rating: 4.68 (Ranked 236)
 | FIREFIGHT LEVEL 10 | 1.00% | ~4,071 |
 | FIREFIGHT LEVEL 20 | 0.60% | ~2,443 |
 | FIRST BLOOD | 0.60% | ~2,443 |
-| PACEMAKER | 0.40% | ~1,628 |
-| TIME PARADOX | 0.40% | ~1,628 |
+| PACEMAKER | 0.40% | ~1,629 |
+| TIME PARADOX | 0.40% | ~1,629 |
 | FIREFIGHT LEVEL 30 | 0.30% | ~1,221 |
 | FIREFIGHT LEVEL 40 | 0.20% | ~814 |
 | NEW GAME PLUS | 0.20% | ~814 |
@@ -58,7 +58,7 @@ Rating: 4.68 (Ranked 236)
 | THE GAMBLER | 0.10% | ~407 |
 | WARRIOR IN A GARDEN | 0.10% | ~407 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 407,119 (Ranked 34)  
+Progressed: 407,126 (Ranked 34)  
 Completed: 30 (0.01%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,6 +92,7 @@ Completed: 30 (0.01%) (Ranked 193)
 | 2023-05-21 | 406,495 | 30 |
 | 2023-05-22 | 406,823 | 30 |
 | 2023-05-23 | 407,119 | 30 |
+| 2023-05-24 | 407,126 | 30 |
 ## Awards
 Max (Great Boss Battles): 170  (Ranked 275)  
 Sum: 170 (Ranked 366)  

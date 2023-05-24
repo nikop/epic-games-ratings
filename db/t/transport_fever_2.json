@@ -2,12 +2,12 @@
   "ID": "1760fff3738043f2870594d94487fa4b",
   "Name": "Transport Fever 2",
   "ProductSlug": "transport-fever-2",
-  "Ranking_Rating": 212,
+  "Ranking_Rating": 211,
   "Ranking_Popularity": 415,
   "Ranking_PopularitySum": 340,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -438,9 +438,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 1131,
+  "EOS_Progressed": 1132,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1198,6 +1198,11 @@
       "Time": "2023-05-23T18:06:19.7693172+00:00",
       "NumProgressed": 1131,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T00:06:30.2743075+00:00",
+      "NumProgressed": 1132,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 61,
@@ -1225,7 +1230,7 @@
       "Name": "Transport master",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "achAccumulate1B",
@@ -1233,7 +1238,7 @@
       "Name": "Transport tycoon",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "achAccumulate1BHard",
@@ -1249,7 +1254,7 @@
       "Name": "Transport millionaire",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "achAircraftEarnings",
@@ -1257,7 +1262,7 @@
       "Name": "Aircraft entrepreneur",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "achAllClimates",
@@ -1311,9 +1316,9 @@
       "ID": "achBuildTrainStation",
       "SetID": "dgl390n",
       "Name": "First train station",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 713
+      "UsersEstimate": 724
     },
     {
       "ID": "achCannotGetEnough",
@@ -1353,7 +1358,7 @@
       "Name": "Campaign expert",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "achCompleteCampaignC",
@@ -1369,7 +1374,7 @@
       "Name": "Cadet",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "achCreateLine",
@@ -1377,7 +1382,7 @@
       "Name": "First line",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "achCrowdInATrain",
@@ -1385,7 +1390,7 @@
       "Name": "Crowd in a train",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "achEmissionLevel",
@@ -1409,7 +1414,7 @@
       "Name": "First aircraft arrived",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "achFirstBusArrived",
@@ -1417,7 +1422,7 @@
       "Name": "First bus arrived",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "achFirstCargoTransported",
@@ -1425,7 +1430,7 @@
       "Name": "First cargo item on board",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "achFirstCargoWaiting",
@@ -1433,7 +1438,7 @@
       "Name": "First cargo item waiting",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "achFirstElectricTrainArrived",
@@ -1449,7 +1454,7 @@
       "Name": "First industry upgraded",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "achFirstPassengerTransported",
@@ -1457,7 +1462,7 @@
       "Name": "First passenger on board",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "achFirstPassengerWaiting",
@@ -1465,7 +1470,7 @@
       "Name": "First passenger waiting",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "achFirstShipArrived",
@@ -1473,7 +1478,7 @@
       "Name": "First ship arrived",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "achFirstSteamTrainArrived",
@@ -1481,7 +1486,7 @@
       "Name": "First steam train arrived",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "achGlacierExpress",
@@ -1569,7 +1574,7 @@
       "Name": "Exemplary student",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "achMuseumLine",
@@ -1585,7 +1590,7 @@
       "Name": "No free seats",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "achPaint",
@@ -1641,7 +1646,7 @@
       "Name": "High speed",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "achTopSpeed300",
@@ -1696,15 +1701,15 @@
     {
       "ID": "dgl390n",
       "IsBase": true,
-      "Progressed": 1131,
+      "Progressed": 1132,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-05-15T19:58:54.3106025+00:00",
-  "LastChanged_Achievements": "2023-05-23T23:06:56.9181536+00:00",
+  "LastChanged_Achievements": "2023-05-24T00:06:30.274307+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:14.7095355+00:00",
-  "LastUpdate_Ratings": "2023-05-23T23:00:16.4125949+00:00",
-  "LastUpdate_Achievements": "2023-05-23T23:06:56.9182275+00:00"
+  "LastUpdate_Ratings": "2023-05-23T23:59:48.9424071+00:00",
+  "LastUpdate_Achievements": "2023-05-24T00:06:30.2743526+00:00"
 }

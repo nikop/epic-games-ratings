@@ -49,12 +49,12 @@ Rating: 3.87 (Ranked 906)
 | Weekly Quest Completionist | 3.00% | ~34 |
 | Dragon Slayer | 2.00% | ~23 |
 | Engineer Mastery | 2.00% | ~23 |
+| Lock And Load | 2.00% | ~23 |
 | Master Enchanter | 2.00% | ~23 |
 | What lies behind the bush | 2.00% | ~23 |
 | Blueprint Upgrades | 1.00% | ~12 |
 | Enchanting skill | 1.00% | ~12 |
 | Four Leaf Clover | 1.00% | ~12 |
-| Lock And Load | 1.00% | ~12 |
 | Sailor | 1.00% | ~12 |
 | Active Member | 0.90% | ~10 |
 | Crystal Mining | 0.80% | ~9 |

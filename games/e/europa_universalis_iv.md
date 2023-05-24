@@ -1,12 +1,12 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.68 (Ranked 236)  
+Rating: 4.68 (Ranked 235)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,833 |
+| Until death do us apart | 9.00% | ~3,834 |
 | That's a Grand Army | 8.00% | ~3,408 |
 | That is mine! | 8.00% | ~3,408 |
 | Victorious! | 8.00% | ~3,408 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,594 (Ranked 79)  
+Progressed: 42,604 (Ranked 79)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -395,6 +395,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-21 | 41,525 | 0 |
 | 2023-05-22 | 42,079 | 0 |
 | 2023-05-23 | 42,594 | 0 |
+| 2023-05-24 | 42,604 | 0 |
 ## Awards
 Max (Educational): 5,271  (Ranked 60)  
 Sum: 43,683 (Ranked 27)  

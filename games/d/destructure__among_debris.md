@@ -19,6 +19,7 @@
 | Ball Protector | 2.00% | ~2 |
 | Monster of Fashion | 2.00% | ~2 |
 | Single Person On Earth | 2.00% | ~2 |
+| Ticking Clock | 2.00% | ~2 |
 | Untouchable | 2.00% | ~2 |
 | Ball Collector | 1.00% | ~1 |
 | Bullet Hell | 1.00% | ~1 |
@@ -30,7 +31,6 @@
 | Mushroom Man | 1.00% | ~1 |
 | Nomad | 1.00% | ~1 |
 | Scrap Collector | 1.00% | ~1 |
-| Ticking Clock | 1.00% | ~1 |
 | Total Walrus | 1.00% | ~1 |
 | True Victory | 1.00% | ~1 |
 | Victory That Is Even More True | 1.00% | ~1 |

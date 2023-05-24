@@ -29,10 +29,10 @@ Rating: 4.55 (Ranked 466)
 | Please Make it Stop! | 1.00% | ~21 |
 | From the Past | 1.00% | ~21 |
 | Man's Best Friend | 0.90% | ~19 |
+| BRAWL! | 0.80% | ~17 |
+| All in Good Health | 0.80% | ~17 |
 | Oats | 0.70% | ~15 |
 | In Dolos We Trust | 0.70% | ~15 |
-| BRAWL! | 0.70% | ~15 |
-| All in Good Health | 0.70% | ~15 |
 | Pulsar Disciple | 0.70% | ~15 |
 | What They Hide From Us | 0.60% | ~13 |
 | ...  in a finite world | 0.60% | ~13 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 466)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,115 (Ranked 143)  
+Progressed: 2,116 (Ranked 143)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,6 +97,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-21 | 2,063 | 0 |
 | 2023-05-22 | 2,083 | 0 |
 | 2023-05-23 | 2,115 | 0 |
+| 2023-05-24 | 2,116 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

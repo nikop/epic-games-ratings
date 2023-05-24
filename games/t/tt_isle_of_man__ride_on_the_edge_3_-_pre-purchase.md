@@ -44,7 +44,7 @@
 | Tailor-Made | 2.00% | ~1 |
 | Tempus Fugit | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46 (Ranked 292)  
+Progressed: 46 (Ranked 293)  
 Completed: 1 (2.17%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |

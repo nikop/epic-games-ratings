@@ -6,21 +6,21 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 9.00% | ~49,967 |
-| Into the Unknown | 8.00% | ~44,415 |
-| First Shot | 8.00% | ~44,415 |
-| Herzlich Wilkommen! | 8.00% | ~44,415 |
-| Sancho Panza | 7.00% | ~38,863 |
-| Good Night & Good Luck | 7.00% | ~38,863 |
-| Under Pressure | 6.00% | ~33,311 |
-| On the Trail of the Enemy | 6.00% | ~33,311 |
-| Flag Burning | 6.00% | ~33,311 |
-| Oh, So This Is How It Works! | 6.00% | ~33,311 |
-| Night Hunter | 6.00% | ~33,311 |
-| Light in the Darkness | 5.00% | ~27,759 |
-| Get Outta My House! | 5.00% | ~27,759 |
-| It Wasn't That Hard, Was It? | 5.00% | ~27,759 |
-| Being All Social | 5.00% | ~27,759 |
+| You Never Forget Your First... | 9.00% | ~49,969 |
+| Into the Unknown | 8.00% | ~44,416 |
+| First Shot | 8.00% | ~44,416 |
+| Herzlich Wilkommen! | 8.00% | ~44,416 |
+| Sancho Panza | 7.00% | ~38,864 |
+| Good Night & Good Luck | 7.00% | ~38,864 |
+| Under Pressure | 6.00% | ~33,312 |
+| On the Trail of the Enemy | 6.00% | ~33,312 |
+| Flag Burning | 6.00% | ~33,312 |
+| Oh, So This Is How It Works! | 6.00% | ~33,312 |
+| Night Hunter | 6.00% | ~33,312 |
+| Light in the Darkness | 5.00% | ~27,760 |
+| Get Outta My House! | 5.00% | ~27,760 |
+| It Wasn't That Hard, Was It? | 5.00% | ~27,760 |
+| Being All Social | 5.00% | ~27,760 |
 | Debris and Ashes | 4.00% | ~22,208 |
 | We Will Be Heard! | 4.00% | ~22,208 |
 | Known Associate | 4.00% | ~22,208 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~201 |
 | Connoisseur | 0.10% | ~201 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 555,188 (Ranked 22)  
+Progressed: 555,206 (Ranked 22)  
 Completed: 49 (0.01%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,15 +106,16 @@ Completed: 49 (0.01%) (Ranked 193)
 | 2023-05-21 | 553,306 | 49 |
 | 2023-05-22 | 554,295 | 49 |
 | 2023-05-23 | 555,188 | 49 |
+| 2023-05-24 | 555,206 | 49 |
 ## Awards
 Max (Character Customization): 7,172  (Ranked 44)  
-Sum: 16,222 (Ranked 59)  
+Sum: 16,226 (Ranked 59)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,172 |
 | This game has Great Boss Battles | 4,207 |
-| This game is Great for Beginners | 649 |
+| This game is Great for Beginners | 653 |
 | This game is Highly Recommended | 626 |
 | This game has Amazing Characters | 612 |
 | This game is Extremely Fun | 610 |
@@ -259,3 +260,4 @@ Diff (max vs sum): -15
 | 2023-05-21 | 4.58 | - | 7,148 | 16,618 |
 | 2023-05-22 | 4.58 | - | 7,162 | 16,658 |
 | 2023-05-23 | 4.58 | - | 7,172 | 16,222 |
+| 2023-05-24 | 4.58 | - | 7,172 | 16,226 |

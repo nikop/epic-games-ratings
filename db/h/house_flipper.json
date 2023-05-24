@@ -2,7 +2,7 @@
   "ID": "d5cbd232ad304c91aacc20f31849435c",
   "Name": "House Flipper",
   "ProductSlug": "house-flipper",
-  "Ranking_Rating": 212,
+  "Ranking_Rating": 211,
   "Ranking_Popularity": 226,
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 93,
@@ -1440,9 +1440,9 @@
       "Count": 204
     }
   ],
-  "EOS_Progressed": 18941,
+  "EOS_Progressed": 18942,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2635,6 +2635,11 @@
       "Time": "2023-05-23T22:06:15.7302987+00:00",
       "NumProgressed": 18941,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-24T00:06:06.190683+00:00",
+      "NumProgressed": 18942,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -2758,7 +2763,7 @@
       "Name": "Just Enough",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3409
+      "UsersEstimate": 3410
     },
     {
       "ID": "Negotiator",
@@ -2798,7 +2803,7 @@
       "Name": "Pro-creative",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3409
+      "UsersEstimate": 3410
     },
     {
       "ID": "Strongman",
@@ -2829,15 +2834,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 18941,
+      "Progressed": 18942,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-05-23T17:00:20.2322091+00:00",
-  "LastChanged_Achievements": "2023-05-23T23:06:31.3363693+00:00",
+  "LastChanged_Achievements": "2023-05-24T00:06:06.1906823+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:56.8900842+00:00",
-  "LastUpdate_Ratings": "2023-05-23T23:00:02.1408762+00:00",
-  "LastUpdate_Achievements": "2023-05-23T23:06:31.3364096+00:00"
+  "LastUpdate_Ratings": "2023-05-23T23:59:36.4179951+00:00",
+  "LastUpdate_Achievements": "2023-05-24T00:06:06.1907005+00:00"
 }

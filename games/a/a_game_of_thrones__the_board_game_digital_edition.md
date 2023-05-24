@@ -1,35 +1,35 @@
 # A Game Of Thrones: The Board Game Digital Edition
 [Store](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)  
 [View Rawdata](../../db/a/a_game_of_thrones__the_board_game_digital_edition.json)  
-Rating: 4.20 (Ranked 813)  
+Rating: 4.20 (Ranked 814)  
 Number of Ratings: 2,500  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~5,262 |
-| Battering Crew | 20.00% | ~2,631 |
-| The Kingsroad | 19.00% | ~2,499 |
+| Conqueror | 40.00% | ~5,264 |
+| Battering Crew | 20.00% | ~2,632 |
+| The Kingsroad | 19.00% | ~2,500 |
 | Well Stocked | 14.00% | ~1,842 |
 | Royal Fleet | 14.00% | ~1,842 |
-| The Kraken’s Grasp | 10.00% | ~1,315 |
+| The Kraken’s Grasp | 10.00% | ~1,316 |
+| Daggers in the Dark | 9.00% | ~1,184 |
 | Alliance | 9.00% | ~1,184 |
-| Daggers in the Dark | 8.00% | ~1,052 |
-| Oathkeeper | 8.00% | ~1,052 |
-| Influential | 8.00% | ~1,052 |
-| A Long Journey | 8.00% | ~1,052 |
+| Oathkeeper | 8.00% | ~1,053 |
+| Influential | 8.00% | ~1,053 |
+| A Long Journey | 8.00% | ~1,053 |
 | Ours is the Fury | 7.00% | ~921 |
 | We Do Not Sow | 7.00% | ~921 |
 | Winter is Coming | 7.00% | ~921 |
-| Unbowed, Unbent, Unbroken | 6.00% | ~789 |
-| Hear me Roar! | 6.00% | ~789 |
-| Defender of the Wall | 6.00% | ~789 |
+| Unbowed, Unbent, Unbroken | 6.00% | ~790 |
+| Hear me Roar! | 6.00% | ~790 |
+| Defender of the Wall | 6.00% | ~790 |
 | Growing Strong | 5.00% | ~658 |
 | What is Dead may Never Die | 3.00% | ~395 |
 | The Swift | 3.00% | ~395 |
 | King in the North | 2.00% | ~263 |
 | War of the Five Kings | 1.00% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,154 (Ranked 102)  
+Progressed: 13,160 (Ranked 102)  
 Completed: 29 (0.22%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,6 +63,7 @@ Completed: 29 (0.22%) (Ranked 135)
 | 2023-05-21 | 12,965 | 27 |
 | 2023-05-22 | 13,074 | 28 |
 | 2023-05-23 | 13,154 | 29 |
+| 2023-05-24 | 13,160 | 29 |
 ## Awards
 Max (Quickly Understood Controls): 123  (Ranked 301)  
 Sum: 779 (Ranked 252)  

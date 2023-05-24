@@ -6,14 +6,14 @@
 | ---- | ---------- | ----- |
 | Level Up! | 93.00% | ~67 |
 | Bullseye! | 88.00% | ~63 |
-| Villfir Forest | 81.00% | ~58 |
+| Villfir Forest | 82.00% | ~59 |
 | Graduation! | 79.00% | ~57 |
 | Right in the kisser! | 65.00% | ~47 |
 | The Shaman | 56.00% | ~40 |
 | Duscot Steamcity | 56.00% | ~40 |
 | The Penguin | 51.00% | ~37 |
 | The Magician | 49.00% | ~35 |
-| The Thrower | 44.00% | ~32 |
+| The Thrower | 46.00% | ~33 |
 | The Tunneler | 44.00% | ~32 |
 | Level Up!! | 40.00% | ~29 |
 | The Shield | 40.00% | ~29 |
@@ -30,7 +30,7 @@
 | The Slime | 21.00% | ~15 |
 | The Flower | 18.00% | ~13 |
 | Out of the Frying Pan... | 18.00% | ~13 |
-| The Blacksmith | 15.00% | ~11 |
+| The Blacksmith | 17.00% | ~12 |
 | Ember | 14.00% | ~10 |
 | Turquoise | 14.00% | ~10 |
 | The Assistant | 13.00% | ~9 |

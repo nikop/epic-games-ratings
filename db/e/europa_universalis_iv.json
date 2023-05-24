@@ -2,7 +2,7 @@
   "ID": "80d3aeb1d7c3434981e0bcbc47700a83",
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
-  "Ranking_Rating": 236,
+  "Ranking_Rating": 235,
   "Ranking_Popularity": 60,
   "Ranking_PopularitySum": 27,
   "Ranking_EOS_Progress": 79,
@@ -5142,9 +5142,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 42594,
+  "EOS_Progressed": 42604,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4558,
+  "EOS_NewPlayers": 4554,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8462,6 +8462,11 @@
       "Time": "2023-05-23T23:07:00.7900466+00:00",
       "NumProgressed": 42594,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T00:06:34.0075661+00:00",
+      "NumProgressed": 42604,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -11137,7 +11142,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3833
+      "UsersEstimate": 3834
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -11304,21 +11309,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 42594,
+      "Progressed": 42604,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 42594,
+      "Progressed": 42604,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-05-23T21:57:21.9622016+00:00",
-  "LastChanged_Achievements": "2023-05-23T23:07:00.7900458+00:00",
+  "LastChanged_Achievements": "2023-05-24T00:06:34.0075656+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:06.3042546+00:00",
-  "LastUpdate_Ratings": "2023-05-23T22:57:24.8792892+00:00",
-  "LastUpdate_Achievements": "2023-05-23T23:07:00.7913454+00:00"
+  "LastUpdate_Ratings": "2023-05-23T23:57:10.1022957+00:00",
+  "LastUpdate_Achievements": "2023-05-24T00:06:34.0085101+00:00"
 }

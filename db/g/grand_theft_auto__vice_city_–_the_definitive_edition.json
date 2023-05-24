@@ -2,12 +2,12 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 272,
+  "Ranking_Rating": 271,
   "Ranking_Popularity": 415,
   "Ranking_PopularitySum": 447,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 120,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -334,9 +334,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 6697,
+  "EOS_Progressed": 6698,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 526,
+  "EOS_NewPlayers": 527,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2144,6 +2144,11 @@
       "Time": "2023-05-23T22:06:01.6399345+00:00",
       "NumProgressed": 6697,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-24T00:05:53.0764699+00:00",
+      "NumProgressed": 6698,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 34,
@@ -2323,7 +2328,7 @@
       "Name": "Life of the Party",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "ACH23",
@@ -2331,7 +2336,7 @@
       "Name": "South American Connection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1540
+      "UsersEstimate": 1541
     },
     {
       "ID": "ACH24",
@@ -2426,7 +2431,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6697,
+      "Progressed": 6698,
       "Completed": 22
     }
   ],
@@ -2434,8 +2439,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-23T13:58:08.4937843+00:00",
-  "LastChanged_Achievements": "2023-05-23T23:06:17.806715+00:00",
+  "LastChanged_Achievements": "2023-05-24T00:05:53.0764692+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:49.9519997+00:00",
-  "LastUpdate_Ratings": "2023-05-23T22:58:36.2853012+00:00",
-  "LastUpdate_Achievements": "2023-05-23T23:06:17.8067765+00:00"
+  "LastUpdate_Ratings": "2023-05-23T23:58:17.2672096+00:00",
+  "LastUpdate_Achievements": "2023-05-24T00:05:53.0764969+00:00"
 }

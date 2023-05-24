@@ -4,7 +4,7 @@
   "ProductSlug": "dungeon-drafters-82c40a",
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -458,9 +458,9 @@
       "ID": "scavanger_curios",
       "SetID": "3b8n56h",
       "Name": "No Stone Unturned",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "thanks_but_why?",
@@ -491,8 +491,8 @@
   "FirstSeenRating": "2023-04-29T19:56:51.5139216+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.5617554+00:00",
   "LastChanged": "2023-04-29T19:56:51.5139217+00:00",
-  "LastChanged_Achievements": "2023-05-23T23:06:21.5918663+00:00",
+  "LastChanged_Achievements": "2023-05-24T00:05:56.6443401+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.9763289+00:00",
-  "LastUpdate_Ratings": "2023-05-23T22:57:23.5058097+00:00",
-  "LastUpdate_Achievements": "2023-05-23T23:06:21.5919147+00:00"
+  "LastUpdate_Ratings": "2023-05-23T23:57:08.843285+00:00",
+  "LastUpdate_Achievements": "2023-05-24T00:05:56.6443733+00:00"
 }

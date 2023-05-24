@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -313,9 +313,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4258,
+  "EOS_Progressed": 4259,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -633,6 +633,11 @@
       "Time": "2023-05-23T20:06:22.6683844+00:00",
       "NumProgressed": 4258,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-05-24T00:05:56.9746365+00:00",
+      "NumProgressed": 4259,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 67,
@@ -644,7 +649,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -692,7 +697,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 3577
+      "UsersEstimate": 3578
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -772,7 +777,7 @@
       "Name": "Sunglasses at Night",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ID_ACHIEV_18",
@@ -860,7 +865,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3236
+      "UsersEstimate": 3237
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -916,7 +921,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 979
+      "UsersEstimate": 980
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -988,7 +993,7 @@
       "Name": "OPERATOR",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1490
+      "UsersEstimate": 1491
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -1028,7 +1033,7 @@
       "Name": "Carbon Cat",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ID_ACHIEV_51",
@@ -1179,15 +1184,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4258,
+      "Progressed": 4259,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-05-23T01:58:51.2287865+00:00",
-  "LastChanged_Achievements": "2023-05-23T23:06:21.8847676+00:00",
+  "LastChanged_Achievements": "2023-05-24T00:05:56.9746358+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.3215176+00:00",
-  "LastUpdate_Ratings": "2023-05-23T22:58:13.3058711+00:00",
-  "LastUpdate_Achievements": "2023-05-23T23:06:21.8848621+00:00"
+  "LastUpdate_Ratings": "2023-05-23T23:57:55.3783066+00:00",
+  "LastUpdate_Achievements": "2023-05-24T00:05:56.9747929+00:00"
 }

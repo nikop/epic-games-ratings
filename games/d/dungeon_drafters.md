@@ -22,6 +22,7 @@
 | Braving Miasma | 10.00% | ~3 |
 | Ancient Nemesis | 10.00% | ~3 |
 | Traveler Mastery | 10.00% | ~3 |
+| No Stone Unturned | 10.00% | ~3 |
 | Best Pupil | 7.00% | ~2 |
 | Oracle Mastery | 7.00% | ~2 |
 | FOR JUSTICE! | 7.00% | ~2 |
@@ -40,7 +41,6 @@
 | Sealed Once Again | 7.00% | ~2 |
 | A New Tomorrow | 7.00% | ~2 |
 | ACHOO! | 7.00% | ~2 |
-| No Stone Unturned | 7.00% | ~2 |
 | The New Demon Lord | 3.00% | ~1 |
 | Gladiator | 3.00% | ~1 |
 | True Drafter | 0.00% | ~0 |

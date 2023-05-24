@@ -2,9 +2,9 @@
   "ID": "632b8c18774d480d978cb116518cd06b",
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
-  "Ranking_EOS_Progress": 248,
+  "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 151,
+  "EOS_Progressed": 156,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -72,6 +72,11 @@
       "Time": "2023-05-23T23:06:08.4564685+00:00",
       "NumProgressed": 151,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T00:05:44.2651216+00:00",
+      "NumProgressed": 156,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -89,7 +94,7 @@
       "ID": "ARE_YOU_NOT_ENTERTAINED",
       "SetID": "9a4jnji",
       "Name": "Are you not entertained?",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -97,9 +102,9 @@
       "ID": "ASPIRING_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Aspiring Editor",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "ATTENBOROUGH",
@@ -153,7 +158,7 @@
       "ID": "COMMANDO",
       "SetID": "9a4jnji",
       "Name": "Commando",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -177,7 +182,7 @@
       "ID": "CURVEBALL",
       "SetID": "9a4jnji",
       "Name": "Curveball",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -185,7 +190,7 @@
       "ID": "DEAD_DD",
       "SetID": "9a4jnji",
       "Name": "Ganglord",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -193,15 +198,15 @@
       "ID": "DEAD_DICK",
       "SetID": "9a4jnji",
       "Name": "Limp Richard",
-      "Percentage": 0,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DIFFERENTLY_ABLED",
       "SetID": "9a4jnji",
       "Name": "Jarhead",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -217,7 +222,7 @@
       "ID": "DR_JONES",
       "SetID": "9a4jnji",
       "Name": "Dr Jones",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -257,7 +262,7 @@
       "ID": "FIRESTARTER",
       "SetID": "9a4jnji",
       "Name": "Firestarter",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -265,9 +270,9 @@
       "ID": "FIRST_BLOOD",
       "SetID": "9a4jnji",
       "Name": "First Blood",
-      "Percentage": 81,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 129
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -297,7 +302,7 @@
       "ID": "GIANT_KILLER",
       "SetID": "9a4jnji",
       "Name": "Giant Killer",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -313,9 +318,9 @@
       "ID": "GUN_FOR_HIRE",
       "SetID": "9a4jnji",
       "Name": "Gun for Hire",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 27
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -329,15 +334,15 @@
       "ID": "IM_THE_LAW",
       "SetID": "9a4jnji",
       "Name": "I am the law!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "INFILTRATOR",
       "SetID": "9a4jnji",
       "Name": "Infiltrator",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -345,7 +350,7 @@
       "ID": "LUMBERJACK",
       "SetID": "9a4jnji",
       "Name": "Lumberjack",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -369,7 +374,7 @@
       "ID": "PUSHING_DAISY",
       "SetID": "9a4jnji",
       "Name": "Pushing Daisy",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -387,13 +392,13 @@
       "Name": "Ranidaphobia",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "RECYCLER",
       "SetID": "9a4jnji",
       "Name": "Recycler",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -417,7 +422,7 @@
       "ID": "SENSEI",
       "SetID": "9a4jnji",
       "Name": "Sensei",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -433,7 +438,7 @@
       "ID": "SIDE_ORDER",
       "SetID": "9a4jnji",
       "Name": "Side Order",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -449,7 +454,7 @@
       "ID": "TECHNOPHOBE",
       "SetID": "9a4jnji",
       "Name": "Technophobe",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -473,7 +478,7 @@
       "ID": "THE_WATCHERS",
       "SetID": "9a4jnji",
       "Name": "The Watchers",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -490,14 +495,14 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 151,
+      "Progressed": 156,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T20:58:17.8341975+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
-  "LastChanged_Achievements": "2023-05-23T23:06:08.4564679+00:00",
+  "LastChanged_Achievements": "2023-05-24T00:05:44.2651211+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:53.8503835+00:00",
-  "LastUpdate_Ratings": "2023-05-23T22:58:40.6810025+00:00",
-  "LastUpdate_Achievements": "2023-05-23T23:06:08.4565149+00:00"
+  "LastUpdate_Ratings": "2023-05-23T23:58:21.5642651+00:00",
+  "LastUpdate_Achievements": "2023-05-24T00:05:44.2651572+00:00"
 }
