@@ -6,17 +6,17 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 13.00% | ~4,445 |
-| To The Nines | 11.00% | ~3,761 |
-| Optimized | 9.00% | ~3,078 |
-| Performance Review | 9.00% | ~3,078 |
-| The Side Job | 8.00% | ~2,736 |
-| Wet Work | 8.00% | ~2,736 |
-| Tune Up | 8.00% | ~2,736 |
-| Making a Name | 8.00% | ~2,736 |
-| Landlord | 7.00% | ~2,394 |
-| Food for Thought | 7.00% | ~2,394 |
-| Wrecking Ball | 6.00% | ~2,052 |
+| First F#@!ing Day | 13.00% | ~4,447 |
+| To The Nines | 11.00% | ~3,763 |
+| Optimized | 9.00% | ~3,079 |
+| Performance Review | 9.00% | ~3,079 |
+| The Side Job | 8.00% | ~2,737 |
+| Wet Work | 8.00% | ~2,737 |
+| Tune Up | 8.00% | ~2,737 |
+| Making a Name | 8.00% | ~2,737 |
+| Landlord | 7.00% | ~2,395 |
+| Food for Thought | 7.00% | ~2,395 |
+| Wrecking Ball | 6.00% | ~2,053 |
 | Finders Keepers | 5.00% | ~1,710 |
 | A Young Empire | 5.00% | ~1,710 |
 | Work Ethic | 5.00% | ~1,710 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Heard You Like Wheels | 0.10% | ~34 |
 | Fiesta Time | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,195 (Ranked 82)  
+Progressed: 34,210 (Ranked 82)  
 Completed: 20 (0.06%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 20 (0.06%) (Ranked 170)
 | 2023-05-21 | 32,742 | 20 |
 | 2023-05-22 | 33,412 | 20 |
 | 2023-05-23 | 33,987 | 20 |
-| 2023-05-24 | 34,195 | 20 |
+| 2023-05-24 | 34,210 | 20 |
 ## Awards
 Max (Extremely Fun): 1,029  (Ranked 133)  
 Sum: 8,354 (Ranked 88)  

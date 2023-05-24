@@ -5,8 +5,8 @@ Rating: 4.66 (Ranked 271)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 43.00% | ~2,890 |
-| Greasy Palms | 39.00% | ~2,621 |
+| Legal Counsel | 43.00% | ~2,891 |
+| Greasy Palms | 39.00% | ~2,622 |
 | South American Connection | 23.00% | ~1,546 |
 | Life of the Party | 17.00% | ~1,143 |
 | Tommy Two-Wheels | 13.00% | ~874 |
@@ -14,8 +14,8 @@ Rating: 4.66 (Ranked 271)
 | Chauffeur | 12.00% | ~807 |
 | Iron-y | 9.00% | ~605 |
 | Salutations My Little Friend | 9.00% | ~605 |
-| Gun for Hire | 7.00% | ~470 |
-| Mischief Managed | 7.00% | ~470 |
+| Gun for Hire | 7.00% | ~471 |
+| Mischief Managed | 7.00% | ~471 |
 | Vice City Mogul | 6.00% | ~403 |
 | Catch Me if You Can | 5.00% | ~336 |
 | Bloodstained Hands | 5.00% | ~336 |
@@ -33,14 +33,14 @@ Rating: 4.66 (Ranked 271)
 | City Sleuth | 2.00% | ~134 |
 | One is Better Than Two | 1.00% | ~67 |
 | Chopper’d Up | 1.00% | ~67 |
-| Daredevil | 0.90% | ~60 |
+| Daredevil | 0.90% | ~61 |
 | Born in the 80’s | 0.70% | ~47 |
 | Keepie-Uppy Okie Dokie | 0.70% | ~47 |
 | I'm Famous! | 0.70% | ~47 |
 | Done it All | 0.70% | ~47 |
 | Kingpin | 0.30% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,721 (Ranked 113)  
+Progressed: 6,723 (Ranked 113)  
 Completed: 22 (0.33%) (Ranked 120)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 22 (0.33%) (Ranked 120)
 | 2023-05-21 | 6,560 | 22 |
 | 2023-05-22 | 6,627 | 22 |
 | 2023-05-23 | 6,697 | 22 |
-| 2023-05-24 | 6,721 | 22 |
+| 2023-05-24 | 6,723 | 22 |
 ## Awards
 Max (Great Boss Battles): 38  (Ranked 415)  
 Sum: 38 (Ranked 447)  

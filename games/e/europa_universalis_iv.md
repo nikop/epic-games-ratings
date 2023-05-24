@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,841 |
-| That's a Grand Army | 8.00% | ~3,415 |
-| That is mine! | 8.00% | ~3,415 |
-| Victorious! | 8.00% | ~3,415 |
-| Brothers in Arms | 6.00% | ~2,561 |
-| That's a Grand Navy | 6.00% | ~2,561 |
-| Seriously?! | 6.00% | ~2,561 |
-| For the Glory | 5.00% | ~2,134 |
-| Cold War | 4.00% | ~1,707 |
-| True Catholic | 4.00% | ~1,707 |
-| Defender of the Faith | 3.00% | ~1,280 |
-| It's all about the money | 3.00% | ~1,280 |
-| Respected | 3.00% | ~1,280 |
-| Truly Divine Ruler | 3.00% | ~1,280 |
+| Until death do us apart | 9.00% | ~3,842 |
+| That's a Grand Army | 8.00% | ~3,416 |
+| That is mine! | 8.00% | ~3,416 |
+| Victorious! | 8.00% | ~3,416 |
+| Brothers in Arms | 6.00% | ~2,562 |
+| That's a Grand Navy | 6.00% | ~2,562 |
+| Seriously?! | 6.00% | ~2,562 |
+| For the Glory | 5.00% | ~2,135 |
+| Cold War | 4.00% | ~1,708 |
+| True Catholic | 4.00% | ~1,708 |
+| Defender of the Faith | 3.00% | ~1,281 |
+| It's all about the money | 3.00% | ~1,281 |
+| Respected | 3.00% | ~1,281 |
+| Truly Divine Ruler | 3.00% | ~1,281 |
 | Blockader | 2.00% | ~854 |
 | Combined Arms | 2.00% | ~854 |
 | Double the Love | 2.00% | ~854 |
@@ -38,10 +38,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~427 |
 | My armies are invincible! | 1.00% | ~427 |
 | The Five Colonies | 0.90% | ~384 |
-| The Emperors new clothes | 0.80% | ~341 |
-| Isn't this the way to India? | 0.80% | ~341 |
-| Market Control | 0.80% | ~341 |
-| This navy can take it all | 0.80% | ~341 |
+| The Emperors new clothes | 0.80% | ~342 |
+| Isn't this the way to India? | 0.80% | ~342 |
+| Market Control | 0.80% | ~342 |
+| This navy can take it all | 0.80% | ~342 |
 | Down Under | 0.70% | ~299 |
 | Trustworthy | 0.70% | ~299 |
 | Electable! | 0.60% | ~256 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,682 (Ranked 79)  
+Progressed: 42,694 (Ranked 79)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -395,14 +395,14 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-21 | 41,525 | 0 |
 | 2023-05-22 | 42,079 | 0 |
 | 2023-05-23 | 42,594 | 0 |
-| 2023-05-24 | 42,682 | 0 |
+| 2023-05-24 | 42,694 | 0 |
 ## Awards
-Max (Educational): 5,271  (Ranked 60)  
-Sum: 43,687 (Ranked 27)  
+Max (Educational): 5,277  (Ranked 60)  
+Sum: 43,693 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 5,271 |
+| This game is Educational | 5,277 |
 | This game is Highly Recommended | 5,068 |
 | This game has Challenging Combat | 5,040 |
 | This game is Extremely Fun | 5,019 |
@@ -542,4 +542,4 @@ Diff (max vs sum): 33
 | 2023-05-21 | 4.68 | - | 5,264 | 43,591 |
 | 2023-05-22 | 4.68 | - | 5,271 | 43,642 |
 | 2023-05-23 | 4.68 | - | 5,271 | 43,683 |
-| 2023-05-24 | 4.68 | - | 5,271 | 43,687 |
+| 2023-05-24 | 4.68 | - | 5,277 | 43,693 |

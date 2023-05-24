@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -206,9 +206,9 @@
       "ID": "ArtifactsCollector",
       "SetID": "82505mn",
       "Name": "Artifact Collector",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 59
+      "UsersEstimate": 63
     },
     {
       "ID": "Assassin",
@@ -454,9 +454,9 @@
       "ID": "TheFallen",
       "SetID": "82505mn",
       "Name": "The Fallen",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 63
+      "UsersEstimate": 66
     },
     {
       "ID": "TheTrio",
@@ -519,8 +519,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-05-24T08:07:12.073447+00:00",
+  "LastChanged_Achievements": "2023-05-24T09:05:23.6677716+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:07.6550194+00:00",
-  "LastUpdate_Ratings": "2023-05-24T08:00:12.3236048+00:00",
-  "LastUpdate_Achievements": "2023-05-24T08:07:12.0734817+00:00"
+  "LastUpdate_Ratings": "2023-05-24T08:58:58.0037035+00:00",
+  "LastUpdate_Achievements": "2023-05-24T09:05:23.667797+00:00"
 }

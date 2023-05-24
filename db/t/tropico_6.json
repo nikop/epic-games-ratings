@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -852,9 +852,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 3050,
+  "EOS_Progressed": 3052,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2687,6 +2687,11 @@
       "Time": "2023-05-24T08:07:19.3549251+00:00",
       "NumProgressed": 3050,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-24T09:05:29.1367786+00:00",
+      "NumProgressed": 3052,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2714,7 +2719,7 @@
       "Name": "Double Trouble",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -2746,7 +2751,7 @@
       "Name": "Viva Tropico!",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_EP_BETTERREDTHANDEAD",
@@ -2754,7 +2759,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -2794,7 +2799,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1403
+      "UsersEstimate": 1404
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -2818,7 +2823,7 @@
       "Name": "Number 18",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 793
+      "UsersEstimate": 794
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -2826,7 +2831,7 @@
       "Name": "Firestarter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACH_EP_THEREFERENDUM",
@@ -2858,7 +2863,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2348
+      "UsersEstimate": 2350
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -2930,7 +2935,7 @@
       "Name": "Survivor",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_TEAMPLAYER",
@@ -2954,7 +2959,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 1494
+      "UsersEstimate": 1495
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -2970,7 +2975,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -2978,7 +2983,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -3017,15 +3022,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3050,
+      "Progressed": 3052,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-15T17:00:44.7999652+00:00",
-  "LastChanged_Achievements": "2023-05-24T08:07:19.3549244+00:00",
+  "LastChanged_Achievements": "2023-05-24T09:05:29.136778+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:57.2781106+00:00",
-  "LastUpdate_Ratings": "2023-05-24T08:00:58.3689258+00:00",
-  "LastUpdate_Achievements": "2023-05-24T08:07:19.3549806+00:00"
+  "LastUpdate_Ratings": "2023-05-24T08:59:28.3137113+00:00",
+  "LastUpdate_Achievements": "2023-05-24T09:05:29.1368101+00:00"
 }

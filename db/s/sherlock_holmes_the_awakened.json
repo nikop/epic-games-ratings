@@ -639,17 +639,17 @@
       "ID": "MQ05_4",
       "SetID": "bbing49",
       "Name": "Knives Out",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 94
+      "UsersEstimate": 96
     },
     {
       "ID": "MQ06_1",
       "SetID": "bbing49",
       "Name": "Brain Food",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 72
+      "UsersEstimate": 74
     },
     {
       "ID": "MQ06_2",
@@ -736,8 +736,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-24T08:03:12.134564+00:00",
+  "LastChanged_Achievements": "2023-05-24T09:02:22.154955+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.473335+00:00",
-  "LastUpdate_Ratings": "2023-05-24T07:57:20.4196374+00:00",
-  "LastUpdate_Achievements": "2023-05-24T08:03:12.1345918+00:00"
+  "LastUpdate_Ratings": "2023-05-24T08:57:00.3218929+00:00",
+  "LastUpdate_Achievements": "2023-05-24T09:02:22.1549735+00:00"
 }

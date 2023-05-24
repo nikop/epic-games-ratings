@@ -81,9 +81,9 @@
       "ID": "Chapter1",
       "SetID": "70l3651",
       "Name": "The Wraith",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Chapter10",
@@ -161,9 +161,9 @@
       "ID": "Collectibles1",
       "SetID": "70l3651",
       "Name": "Collectibles Part 1",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Collectibles2",
@@ -337,9 +337,9 @@
       "ID": "WelcomeToMordor",
       "SetID": "70l3651",
       "Name": "Welcome to Mordor!",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -351,8 +351,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-24T08:06:25.7068682+00:00",
+  "LastChanged_Achievements": "2023-05-24T09:04:50.9569898+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:17.5264569+00:00",
-  "LastUpdate_Ratings": "2023-05-24T07:57:57.2053568+00:00",
-  "LastUpdate_Achievements": "2023-05-24T08:06:25.7068932+00:00"
+  "LastUpdate_Ratings": "2023-05-24T08:57:26.0919968+00:00",
+  "LastUpdate_Achievements": "2023-05-24T09:04:50.957034+00:00"
 }

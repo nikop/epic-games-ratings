@@ -4553,9 +4553,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 461107,
+  "EOS_Progressed": 461108,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 802,
+  "EOS_NewPlayers": 799,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7723,6 +7723,11 @@
       "Time": "2023-05-24T08:07:23.857871+00:00",
       "NumProgressed": 461107,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-05-24T09:05:32.6817691+00:00",
+      "NumProgressed": 461108,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 98,
@@ -7734,7 +7739,7 @@
       "Name": "Best In The Business",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 32277
+      "UsersEstimate": 32278
     },
     {
       "ID": "achievement_10_manager_of_the_year_awards",
@@ -7894,7 +7899,7 @@
       "Name": "Splashing The Cash",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 96832
+      "UsersEstimate": 96833
     },
     {
       "ID": "achievement_childhood_dream",
@@ -7910,7 +7915,7 @@
       "Name": "Clean Bill of Health",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 96832
+      "UsersEstimate": 96833
     },
     {
       "ID": "achievement_clean_sheet",
@@ -7918,7 +7923,7 @@
       "Name": "Clean Sheet",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 225942
+      "UsersEstimate": 225943
     },
     {
       "ID": "achievement_club_world_cup",
@@ -8006,7 +8011,7 @@
       "Name": "What A Goal!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 96832
+      "UsersEstimate": 96833
     },
     {
       "ID": "achievement_goal_of_the_season",
@@ -8030,7 +8035,7 @@
       "Name": "Irresistible Force",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 87610
+      "UsersEstimate": 87611
     },
     {
       "ID": "achievement_golden_boot_award",
@@ -8158,7 +8163,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 156776
+      "UsersEstimate": 156777
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -8166,7 +8171,7 @@
       "Name": "Total Support",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 147554
+      "UsersEstimate": 147555
     },
     {
       "ID": "achievement_perfect_match_cohesion",
@@ -8174,7 +8179,7 @@
       "Name": "Excellent Match Cohesion",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 87610
+      "UsersEstimate": 87611
     },
     {
       "ID": "achievement_pick_feeder",
@@ -8278,7 +8283,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 216720
+      "UsersEstimate": 216721
     },
     {
       "ID": "achievement_signed_a_player",
@@ -8374,7 +8379,7 @@
       "Name": "Cup Glory!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 96832
+      "UsersEstimate": 96833
     },
     {
       "ID": "achievement_won_international_championship",
@@ -8517,15 +8522,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 461107,
+      "Progressed": 461108,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-05-24T05:00:20.1162192+00:00",
-  "LastChanged_Achievements": "2023-05-24T08:07:23.8578704+00:00",
+  "LastChanged_Achievements": "2023-05-24T09:05:32.6817686+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:47.0009291+00:00",
-  "LastUpdate_Ratings": "2023-05-24T08:00:55.9517572+00:00",
-  "LastUpdate_Achievements": "2023-05-24T08:07:23.8580212+00:00"
+  "LastUpdate_Ratings": "2023-05-24T08:59:26.5490087+00:00",
+  "LastUpdate_Achievements": "2023-05-24T09:05:32.681871+00:00"
 }

@@ -12,7 +12,7 @@ Number of Ratings: 332  (23.09.2022)
 | Picking Up Speed | 17.00% | ~3,846 |
 | Welcome Maya | 16.00% | ~3,620 |
 | Sightseer | 12.00% | ~2,715 |
-| Scout | 10.00% | ~2,262 |
+| Scout | 10.00% | ~2,263 |
 | Amateur | 9.00% | ~2,036 |
 | Enter Paz | 9.00% | ~2,036 |
 | Wanderer | 9.00% | ~2,036 |
@@ -26,10 +26,10 @@ Number of Ratings: 332  (23.09.2022)
 | Junkie | 3.00% | ~679 |
 | Traveler | 3.00% | ~679 |
 | Journeyer | 3.00% | ~679 |
+| Unlock Paz | 3.00% | ~679 |
 | Here Comes Felipe | 3.00% | ~679 |
-| Pro | 2.00% | ~452 |
-| Unlock Paz | 2.00% | ~452 |
-| Human Flight | 2.00% | ~452 |
+| Pro | 2.00% | ~453 |
+| Human Flight | 2.00% | ~453 |
 | Explorer | 1.00% | ~226 |
 | Hoist the Mainsail | 1.00% | ~226 |
 | Unlock Izel | 1.00% | ~226 |
@@ -38,7 +38,7 @@ Number of Ratings: 332  (23.09.2022)
 | Daredevil | 0.80% | ~181 |
 | Unlock Felipe | 0.70% | ~158 |
 | Adventurer | 0.60% | ~136 |
-| Unlock Tupa | 0.40% | ~90 |
+| Unlock Tupa | 0.40% | ~91 |
 | Master Of The Sands | 0.30% | ~68 |
 | Master | 0.10% | ~23 |
 | Life Aquatic | 0.10% | ~23 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~23 |
 | Windswept | 0.10% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,625 (Ranked 89)  
+Progressed: 22,626 (Ranked 89)  
 Completed: 3 (0.01%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 3 (0.01%) (Ranked 193)
 | 2023-05-21 | 22,315 | 3 |
 | 2023-05-22 | 22,451 | 3 |
 | 2023-05-23 | 22,586 | 3 |
-| 2023-05-24 | 22,625 | 3 |
+| 2023-05-24 | 22,626 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 44  (Ranked 405)  
 Sum: 344 (Ranked 316)  

@@ -838,9 +838,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 656675,
+  "EOS_Progressed": 656677,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 410,
+  "EOS_NewPlayers": 409,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3753,6 +3753,11 @@
       "Time": "2023-05-24T07:05:23.052789+00:00",
       "NumProgressed": 656675,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-05-24T09:05:02.2933428+00:00",
+      "NumProgressed": 656677,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -3764,7 +3769,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 472806
+      "UsersEstimate": 472807
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -3772,7 +3777,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 380872
+      "UsersEstimate": 380873
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -3780,7 +3785,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 151035
+      "UsersEstimate": 151036
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -3788,7 +3793,7 @@
       "Name": "Adventurer",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39400
+      "UsersEstimate": 39401
     },
     {
       "ID": "Achievement_05_Protector_of_the_Realm",
@@ -3900,7 +3905,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 151035
+      "UsersEstimate": 151036
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -3924,7 +3929,7 @@
       "Name": "Empire\u0027s Bane",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39400
+      "UsersEstimate": 39401
     },
     {
       "ID": "Achievement_22_Cure_for_Corruption",
@@ -4076,7 +4081,7 @@
       "Name": "Broken Heart",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39400
+      "UsersEstimate": 39401
     },
     {
       "ID": "Achievement_41_Draknars_Bane",
@@ -4147,15 +4152,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 656675,
+      "Progressed": 656677,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-05-18T14:57:37.1411686+00:00",
-  "LastChanged_Achievements": "2023-05-24T08:06:42.9952329+00:00",
+  "LastChanged_Achievements": "2023-05-24T09:05:02.2933422+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:07.1745323+00:00",
-  "LastUpdate_Ratings": "2023-05-24T07:57:46.0755841+00:00",
-  "LastUpdate_Achievements": "2023-05-24T08:06:42.9952897+00:00"
+  "LastUpdate_Ratings": "2023-05-24T08:57:18.4888423+00:00",
+  "LastUpdate_Achievements": "2023-05-24T09:05:02.2933895+00:00"
 }

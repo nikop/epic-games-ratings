@@ -18,18 +18,18 @@
 | RELEASE THE KRAKEN | 9.00% | ~229 |
 | TRAINING HARD | 8.00% | ~204 |
 | ACE BRAWLER | 8.00% | ~204 |
+| ACE DEFENDER | 8.00% | ~204 |
 | MASTER | 8.00% | ~204 |
 | LEGENDARY HERO | 8.00% | ~204 |
-| ACE DEFENDER | 7.00% | ~178 |
 | THE EYE OF THE HUNTER | 7.00% | ~178 |
 | FRIENDLY | 5.00% | ~127 |
 | BE OUR GUEST | 4.00% | ~102 |
-| ACE TRICKSTER | 3.00% | ~76 |
+| ACE TRICKSTER | 4.00% | ~102 |
 | EXPERIENCED CREW | 2.00% | ~51 |
 | FRAMED! | 1.00% | ~25 |
 | PERFECTLY POISED | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,547 (Ranked 138)  
+Progressed: 2,547 (Ranked 139)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |

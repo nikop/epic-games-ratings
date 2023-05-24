@@ -8,11 +8,11 @@ Rating: 4.35 (Ranked 721)
 | Meeting Resistance | 15.00% | ~197 |
 | Confirming Suspicions | 10.00% | ~131 |
 | The Kraken Wakes | 7.00% | ~92 |
-| Enemy at the Gates | 5.00% | ~66 |
 | Lord of War | 5.00% | ~66 |
 | It's Starting to Crack | 5.00% | ~66 |
-| Resourceful | 4.00% | ~52 |
-| Change the Channel | 4.00% | ~52 |
+| Enemy at the Gates | 4.00% | ~53 |
+| Resourceful | 4.00% | ~53 |
+| Change the Channel | 4.00% | ~53 |
 | Just a Flesh Wound | 3.00% | ~39 |
 | Organ Grinder | 3.00% | ~39 |
 | Explosive Efficiency | 3.00% | ~39 |
@@ -34,7 +34,7 @@ Rating: 4.35 (Ranked 721)
 | The Long Game | 0.90% | ~12 |
 | Set Europe Ablaze | 0.90% | ~12 |
 | Rigged to Blow | 0.90% | ~12 |
-| Climbing the Ladder | 0.80% | ~10 |
+| Climbing the Ladder | 0.80% | ~11 |
 | No Stone Unturned | 0.50% | ~7 |
 | My Little Friend | 0.50% | ~7 |
 | It'll Buff Right Out | 0.50% | ~7 |
@@ -77,7 +77,7 @@ Rating: 4.35 (Ranked 721)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,311 (Ranked 157)  
+Progressed: 1,313 (Ranked 157)  
 Completed: 2 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 2 (0.15%) (Ranked 148)
 | 2023-05-21 | 1,126 | 2 |
 | 2023-05-22 | 1,233 | 2 |
 | 2023-05-23 | 1,294 | 2 |
-| 2023-05-24 | 1,311 | 2 |
+| 2023-05-24 | 1,313 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

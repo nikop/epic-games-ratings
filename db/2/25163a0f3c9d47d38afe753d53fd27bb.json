@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 287,
+  "EOS_Progressed": 288,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 284,
+  "EOS_NewPlayers": 285,
   "EOS_NewCompleters": 14,
-  "EOS_Completed_Percentage": 4.88,
+  "EOS_Completed_Percentage": 4.86,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -516,6 +516,11 @@
       "Time": "2023-05-24T04:02:11.3575332+00:00",
       "NumProgressed": 287,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-24T09:02:22.6146119+00:00",
+      "NumProgressed": 288,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 30,
@@ -527,7 +532,7 @@
       "Name": "A fresh start",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "LEVEL_002",
@@ -535,7 +540,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "LEVEL_003",
@@ -543,7 +548,7 @@
       "Name": "A horse in the country",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "LEVEL_004",
@@ -551,15 +556,15 @@
       "Name": "Life is better at the lake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "LEVEL_005",
       "SetID": "212bg48",
       "Name": "Small village",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 121
     },
     {
       "ID": "LEVEL_006",
@@ -567,7 +572,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "LEVEL_007",
@@ -766,14 +771,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 287,
+      "Progressed": 288,
       "Completed": 14
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-24T08:03:12.8208011+00:00",
+  "LastChanged_Achievements": "2023-05-24T09:02:22.6146114+00:00",
   "LastUpdate_AppInfo": "2023-05-22T13:02:13.5547551+00:00",
-  "LastUpdate_Ratings": "2023-05-24T07:57:06.6799773+00:00",
-  "LastUpdate_Achievements": "2023-05-24T08:03:12.8208314+00:00"
+  "LastUpdate_Ratings": "2023-05-24T08:56:51.2023708+00:00",
+  "LastUpdate_Achievements": "2023-05-24T09:02:22.6146316+00:00"
 }

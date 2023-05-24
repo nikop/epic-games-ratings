@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Never around when you need them | 17.00% | ~1 |
 | You got all endings! | 0.00% | ~0 |
-| Never around when you need them | 0.00% | ~0 |
 | Became the new Maker | 0.00% | ~0 |
 | Jumped into the void | 0.00% | ~0 |
 | Did you think you would make it? | 0.00% | ~0 |

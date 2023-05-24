@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1311,
+  "EOS_Progressed": 1313,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 587,
+  "EOS_NewPlayers": 589,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1219,6 +1219,11 @@
       "Time": "2023-05-24T08:06:45.4500199+00:00",
       "NumProgressed": 1311,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-24T09:05:04.0370909+00:00",
+      "NumProgressed": 1313,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1230,7 +1235,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -1268,9 +1273,9 @@
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
       "SetID": "bm6el81",
       "Name": "Enemy at the Gates",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 53
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -1454,7 +1459,7 @@
       "Name": "Resourceful",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -1566,7 +1571,7 @@
       "Name": "Change the Channel",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -1797,13 +1802,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1262,
+      "Progressed": 1264,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1311,
+      "Progressed": 1313,
       "Completed": 2
     }
   ],
@@ -1811,8 +1816,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-23T13:59:59.0486682+00:00",
-  "LastChanged_Achievements": "2023-05-24T08:06:45.4500188+00:00",
+  "LastChanged_Achievements": "2023-05-24T09:05:04.0370904+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-24T08:01:23.9434952+00:00",
-  "LastUpdate_Achievements": "2023-05-24T08:06:45.4500856+00:00"
+  "LastUpdate_Ratings": "2023-05-24T08:59:46.537515+00:00",
+  "LastUpdate_Achievements": "2023-05-24T09:05:04.0371462+00:00"
 }

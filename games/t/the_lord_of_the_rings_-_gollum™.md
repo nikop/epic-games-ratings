@@ -4,12 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Collectibles Part 1 | 40.00% | ~2 |
+| Collectibles Part 1 | 60.00% | ~3 |
+| The Wraith | 20.00% | ~1 |
 | Wait! Wait! Not yet! | 20.00% | ~1 |
+| Welcome to Mordor! | 20.00% | ~1 |
 | He's so Annoying | 0.00% | ~0 |
 | Break a Leg! | 0.00% | ~0 |
 | And now we wish... | 0.00% | ~0 |
-| The Wraith | 0.00% | ~0 |
 | The Friend | 0.00% | ~0 |
 | The Maggot | 0.00% | ~0 |
 | The Breeder | 0.00% | ~0 |
@@ -39,7 +40,6 @@
 | Ss ss ss... | 0.00% | ~0 |
 | So Tasty! | 0.00% | ~0 |
 | Trigger-Happy | 0.00% | ~0 |
-| Welcome to Mordor! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5 (Ranked 356)  
 Completed: 0 (0.00%) (Ranked 202)  
