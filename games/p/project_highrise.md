@@ -65,13 +65,13 @@
 | Luxury Boutiques | 5.00% | ~8 |
 | Golden Opportunity | 5.00% | ~8 |
 | Decorator's Touch | 4.00% | ~7 |
+| Loft Life | 4.00% | ~7 |
 | Plebs Are Needed | 4.00% | ~7 |
 | Three of a Kind | 4.00% | ~7 |
 | Four of a Kind | 4.00% | ~7 |
 | Sandbagger | 4.00% | ~7 |
 | In the Money | 4.00% | ~7 |
 | Curated Class | 3.00% | ~5 |
-| Loft Life | 3.00% | ~5 |
 | Glut of Gastronomy | 3.00% | ~5 |
 | Royal Flush | 3.00% | ~5 |
 | The King of Cool | 3.00% | ~5 |

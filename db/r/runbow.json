@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 243479,
+  "EOS_Progressed": 243482,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3069,6 +3069,11 @@
       "Time": "2023-05-24T03:05:18.354097+00:00",
       "NumProgressed": 243479,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-24T04:05:23.7061508+00:00",
+      "NumProgressed": 243482,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 46,
@@ -3136,7 +3141,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 41391
+      "UsersEstimate": 41392
     },
     {
       "ID": "cantBeKeptDown",
@@ -3176,7 +3181,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 43826
+      "UsersEstimate": 43827
     },
     {
       "ID": "curator",
@@ -3256,7 +3261,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 129044
+      "UsersEstimate": 129045
     },
     {
       "ID": "indegestible",
@@ -3296,7 +3301,7 @@
       "Name": "Lazy Laser",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 19478
+      "UsersEstimate": 19479
     },
     {
       "ID": "lockupLockdown",
@@ -3320,7 +3325,7 @@
       "Name": "My First Runbow",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 124174
+      "UsersEstimate": 124176
     },
     {
       "ID": "notScared",
@@ -3400,7 +3405,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 31652
+      "UsersEstimate": 31653
     },
     {
       "ID": "treeMedalist",
@@ -3447,7 +3452,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 243479,
+      "Progressed": 243482,
       "Completed": 2
     }
   ],
@@ -3455,8 +3460,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-05-24T03:05:18.3540964+00:00",
+  "LastChanged_Achievements": "2023-05-24T04:05:23.7061503+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:26.6901793+00:00",
-  "LastUpdate_Ratings": "2023-05-24T02:58:44.3387217+00:00",
-  "LastUpdate_Achievements": "2023-05-24T03:05:18.3541509+00:00"
+  "LastUpdate_Ratings": "2023-05-24T03:58:48.6897355+00:00",
+  "LastUpdate_Achievements": "2023-05-24T04:05:23.7062096+00:00"
 }

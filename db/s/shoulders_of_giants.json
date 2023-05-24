@@ -66,9 +66,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2048,
+  "EOS_Progressed": 2049,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -766,6 +766,11 @@
       "Time": "2023-05-23T03:05:07.1741517+00:00",
       "NumProgressed": 2048,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-24T04:05:33.8508456+00:00",
+      "NumProgressed": 2049,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -793,7 +798,7 @@
       "Name": "The First Law of Thermodynamics",
       "Percentage": 28,
       "XP": 150,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "complete_act_three",
@@ -817,7 +822,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1802
+      "UsersEstimate": 1803
     },
     {
       "ID": "deal_damage",
@@ -833,7 +838,7 @@
       "Name": "A Ribbiting Performance",
       "Percentage": 78,
       "XP": 30,
-      "UsersEstimate": 1597
+      "UsersEstimate": 1598
     },
     {
       "ID": "defeat_tree_dummy",
@@ -849,7 +854,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1556
+      "UsersEstimate": 1557
     },
     {
       "ID": "piercing_beam",
@@ -865,7 +870,7 @@
       "Name": "Turn Up The HEAT",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "reach_high_heat",
@@ -881,7 +886,7 @@
       "Name": "Frogbot",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 1495
+      "UsersEstimate": 1496
     },
     {
       "ID": "save_planet_bestfriend",
@@ -913,7 +918,7 @@
       "Name": "Fun in the Stun",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1127
     },
     {
       "ID": "trash_truck",
@@ -928,7 +933,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2048,
+      "Progressed": 2049,
       "Completed": 8
     }
   ],
@@ -936,8 +941,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-05-21T23:00:43.2756611+00:00",
-  "LastChanged_Achievements": "2023-05-24T03:05:28.4172732+00:00",
+  "LastChanged_Achievements": "2023-05-24T04:05:33.8508451+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:21.4953983+00:00",
-  "LastUpdate_Ratings": "2023-05-24T02:59:38.7586441+00:00",
-  "LastUpdate_Achievements": "2023-05-24T03:05:28.4172922+00:00"
+  "LastUpdate_Ratings": "2023-05-24T03:59:44.7435545+00:00",
+  "LastUpdate_Achievements": "2023-05-24T04:05:33.8508646+00:00"
 }

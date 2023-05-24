@@ -11,8 +11,8 @@
 | Born to Win | 26.00% | ~9 |
 | Welcome to Seoul | 26.00% | ~9 |
 | We will need a bigger wardrobe | 26.00% | ~9 |
+| Roller Race | 26.00% | ~9 |
 | Scooter Race | 24.00% | ~8 |
-| Roller Race | 24.00% | ~8 |
 | Creating New Trends | 21.00% | ~7 |
 | Best Gala Ever | 21.00% | ~7 |
 | Welcome to the The Stylin' Soiree | 21.00% | ~7 |

@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 33044,
+  "EOS_Progressed": 33045,
   "EOS_Completed": 157,
-  "EOS_NewPlayers": 488,
+  "EOS_NewPlayers": 486,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -3067,6 +3067,11 @@
       "Time": "2023-05-24T03:05:04.1101606+00:00",
       "NumProgressed": 33044,
       "NumCompleted": 157
+    },
+    {
+      "Time": "2023-05-24T04:04:59.1782414+00:00",
+      "NumProgressed": 33045,
+      "NumCompleted": 157
     }
   ],
   "TotalAchievements": 44,
@@ -3078,7 +3083,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 18835
+      "UsersEstimate": 18836
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -3086,7 +3091,7 @@
       "Name": "Lady",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 9913
+      "UsersEstimate": 9914
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -3102,7 +3107,7 @@
       "Name": "Burning",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5617
+      "UsersEstimate": 5618
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -3270,7 +3275,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 12226
+      "UsersEstimate": 12227
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -3342,7 +3347,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 19826
+      "UsersEstimate": 19827
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -3350,7 +3355,7 @@
       "Name": "Control the Shadows",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 22470
+      "UsersEstimate": 22471
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -3414,7 +3419,7 @@
       "Name": "Awakening",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 30400
+      "UsersEstimate": 30401
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -3422,14 +3427,14 @@
       "Name": "Revenant",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 16852
+      "UsersEstimate": 16853
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 33044,
+      "Progressed": 33045,
       "Completed": 157
     }
   ],
@@ -3437,8 +3442,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-03-31T05:58:07.8538504+00:00",
-  "LastChanged_Achievements": "2023-05-24T03:05:04.1101599+00:00",
+  "LastChanged_Achievements": "2023-05-24T04:04:59.1782409+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:57.7696392+00:00",
-  "LastUpdate_Ratings": "2023-05-24T02:58:05.5455154+00:00",
-  "LastUpdate_Achievements": "2023-05-24T03:05:04.110218+00:00"
+  "LastUpdate_Ratings": "2023-05-24T03:58:10.5892694+00:00",
+  "LastUpdate_Achievements": "2023-05-24T04:04:59.1783013+00:00"
 }

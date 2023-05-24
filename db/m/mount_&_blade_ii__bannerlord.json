@@ -4165,10 +4165,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 13130,
       "NumberOfAwardsMax": 6568
+    },
+    {
+      "Time": "2023-05-24T03:59:16.0271422+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13132,
+      "NumberOfAwardsMax": 6568
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13130,
+  "NumberOfAwards": 13132,
   "NumberOfAwardsMax": 6568,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4200,7 +4206,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 824
+      "Count": 826
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4245,9 +4251,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 50769,
+  "EOS_Progressed": 50770,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 726,
+  "EOS_NewPlayers": 725,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7415,6 +7421,11 @@
       "Time": "2023-05-24T03:05:34.8475594+00:00",
       "NumProgressed": 50769,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T04:05:40.2291523+00:00",
+      "NumProgressed": 50770,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -7618,7 +7629,7 @@
       "Name": "King Solomon",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 7615
+      "UsersEstimate": 7616
     },
     {
       "ID": "Kingslayer",
@@ -7658,7 +7669,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 17769
+      "UsersEstimate": 17770
     },
     {
       "ID": "Lawmaker",
@@ -7666,7 +7677,7 @@
       "Name": "Lawmaker",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 10661
+      "UsersEstimate": 10662
     },
     {
       "ID": "Long live the Empire",
@@ -7833,15 +7844,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 50769,
+      "Progressed": 50770,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-05-23T17:59:39.8221239+00:00",
-  "LastChanged_Achievements": "2023-05-24T03:05:34.8475588+00:00",
+  "LastChanged": "2023-05-24T03:59:16.027142+00:00",
+  "LastChanged_Achievements": "2023-05-24T04:05:40.2291513+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:05:00.2672545+00:00",
-  "LastUpdate_Ratings": "2023-05-24T02:59:11.5487587+00:00",
-  "LastUpdate_Achievements": "2023-05-24T03:05:34.84762+00:00"
+  "LastUpdate_Ratings": "2023-05-24T03:59:16.0271426+00:00",
+  "LastUpdate_Achievements": "2023-05-24T04:05:40.2292201+00:00"
 }

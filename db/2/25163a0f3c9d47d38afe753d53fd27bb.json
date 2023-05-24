@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 286,
+  "EOS_Progressed": 287,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 283,
+  "EOS_NewPlayers": 284,
   "EOS_NewCompleters": 14,
-  "EOS_Completed_Percentage": 4.9,
+  "EOS_Completed_Percentage": 4.88,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -511,6 +511,11 @@
       "Time": "2023-05-24T00:02:29.3198026+00:00",
       "NumProgressed": 286,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-24T04:02:11.3575332+00:00",
+      "NumProgressed": 287,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 30,
@@ -522,7 +527,7 @@
       "Name": "A fresh start",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "LEVEL_002",
@@ -530,7 +535,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "LEVEL_003",
@@ -546,15 +551,15 @@
       "Name": "Life is better at the lake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "LEVEL_005",
       "SetID": "212bg48",
       "Name": "Small village",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 123
     },
     {
       "ID": "LEVEL_006",
@@ -570,7 +575,7 @@
       "Name": "Animals in the farm",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "LEVEL_008",
@@ -600,9 +605,9 @@
       "ID": "LEVEL_011",
       "SetID": "212bg48",
       "Name": "This island of mine",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 52
     },
     {
       "ID": "LEVEL_012",
@@ -642,7 +647,7 @@
       "Name": "Where\u0027s the toilet, sir?",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "LEVEL_017",
@@ -650,7 +655,7 @@
       "Name": "Windmill on a rocky cliff",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "LEVEL_018",
@@ -761,14 +766,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 286,
+      "Progressed": 287,
       "Completed": 14
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-24T03:02:30.997235+00:00",
+  "LastChanged_Achievements": "2023-05-24T04:02:11.3575327+00:00",
   "LastUpdate_AppInfo": "2023-05-22T13:02:13.5547551+00:00",
-  "LastUpdate_Ratings": "2023-05-24T02:57:01.0119721+00:00",
-  "LastUpdate_Achievements": "2023-05-24T03:02:30.9972593+00:00"
+  "LastUpdate_Ratings": "2023-05-24T03:57:03.6939722+00:00",
+  "LastUpdate_Achievements": "2023-05-24T04:02:11.357564+00:00"
 }

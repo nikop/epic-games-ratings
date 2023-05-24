@@ -9,23 +9,23 @@ Number of Ratings: 706  (23.09.2022)
 | Get A Room | 68.00% | ~1,831 |
 | Having A Field Day | 66.00% | ~1,777 |
 | Reap What You Sow | 65.00% | ~1,750 |
-| Green Thumb | 63.00% | ~1,696 |
-| The First Day | 60.00% | ~1,615 |
+| Green Thumb | 63.00% | ~1,697 |
+| The First Day | 60.00% | ~1,616 |
 | Novice Researcher | 56.00% | ~1,508 |
 | Putting Food on the Table | 55.00% | ~1,481 |
 | Onward | 50.00% | ~1,346 |
-| The First Week | 47.00% | ~1,265 |
-| Studious Researcher | 47.00% | ~1,265 |
-| Feast or Famine | 46.00% | ~1,238 |
-| Adept Researcher | 45.00% | ~1,211 |
-| Beam Me Up | 44.00% | ~1,184 |
+| The First Week | 47.00% | ~1,266 |
+| Studious Researcher | 47.00% | ~1,266 |
+| Feast or Famine | 46.00% | ~1,239 |
+| Adept Researcher | 45.00% | ~1,212 |
+| Beam Me Up | 44.00% | ~1,185 |
 | Home Cooked Meal | 43.00% | ~1,158 |
 | Luminary Researcher | 42.00% | ~1,131 |
-| Retribution | 35.00% | ~942 |
-| ...And Don’t Come Back! | 35.00% | ~942 |
-| Fit For A King | 34.00% | ~915 |
+| Retribution | 35.00% | ~943 |
+| ...And Don’t Come Back! | 35.00% | ~943 |
+| Fit For A King | 34.00% | ~916 |
 | Heating Up | 23.00% | ~619 |
-| Winter Is Coming | 21.00% | ~565 |
+| Winter Is Coming | 20.00% | ~539 |
 | Winter Is Here | 18.00% | ~485 |
 | A Party Now | 16.00% | ~431 |
 | Oh Deer! | 16.00% | ~431 |
@@ -34,11 +34,11 @@ Number of Ratings: 706  (23.09.2022)
 | Deerly Departed | 11.00% | ~296 |
 | Don't Cry Wolf | 11.00% | ~296 |
 | Nothing Wasted | 10.00% | ~269 |
-| Where Wolf? | 7.00% | ~188 |
+| Where Wolf? | 7.00% | ~189 |
 | Food Chain | 2.00% | ~54 |
 | Wabbit Season | 0.90% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,692 (Ranked 136)  
+Progressed: 2,693 (Ranked 136)  
 Completed: 6 (0.22%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -51,6 +51,7 @@ Completed: 6 (0.22%) (Ranked 135)
 | 2023-05-21 | 2,683 | 6 |
 | 2023-05-22 | 2,687 | 6 |
 | 2023-05-23 | 2,692 | 6 |
+| 2023-05-24 | 2,693 | 6 |
 ## Awards
 Max (Relaxing): 118  (Ranked 306)  
 Sum: 928 (Ranked 235)  

@@ -1196,9 +1196,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61867,
+  "EOS_Progressed": 61872,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 938,
+  "EOS_NewPlayers": 941,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3521,6 +3521,11 @@
       "Time": "2023-05-24T03:05:35.5911545+00:00",
       "NumProgressed": 61867,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-24T04:05:40.9868595+00:00",
+      "NumProgressed": 61872,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3554,9 +3559,9 @@
       "ID": "AC1_HA_DEFEAT_VARIANTS",
       "SetID": "18c818l",
       "Name": "Renewable Enemy Source",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 64
     },
     {
       "ID": "AC1_HA_RESERVOIR",
@@ -3978,9 +3983,9 @@
       "ID": "MYSTERY_08",
       "SetID": "4eo5ebm",
       "Name": "Gotham Knight",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 371
     },
     {
       "ID": "SECRET_CACHE",
@@ -4019,13 +4024,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61867,
+      "Progressed": 61872,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32147,
+      "Progressed": 32152,
       "Completed": 2640
     }
   ],
@@ -4033,8 +4038,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-23T13:59:19.7620862+00:00",
-  "LastChanged_Achievements": "2023-05-24T03:05:35.5911539+00:00",
+  "LastChanged_Achievements": "2023-05-24T04:05:40.9868591+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-24T02:59:12.9767111+00:00",
-  "LastUpdate_Achievements": "2023-05-24T03:05:35.5912244+00:00"
+  "LastUpdate_Ratings": "2023-05-24T03:59:17.2303276+00:00",
+  "LastUpdate_Achievements": "2023-05-24T04:05:40.9869371+00:00"
 }

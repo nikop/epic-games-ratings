@@ -290,9 +290,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8245,
+  "EOS_Progressed": 8247,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 602,
+  "EOS_NewPlayers": 604,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -2200,6 +2200,11 @@
       "Time": "2023-05-24T02:10:35.0868547+00:00",
       "NumProgressed": 8245,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-05-24T04:05:38.9126033+00:00",
+      "NumProgressed": 8247,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 35,
@@ -2211,7 +2216,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6596
+      "UsersEstimate": 6598
     },
     {
       "ID": "ACH02",
@@ -2267,7 +2272,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3958
+      "UsersEstimate": 3959
     },
     {
       "ID": "ACH09",
@@ -2305,9 +2310,9 @@
       "ID": "ACH13",
       "SetID": "4ck5mbe",
       "Name": "School\u0027s Out",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1237
     },
     {
       "ID": "ACH14",
@@ -2379,7 +2384,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "ACH23",
@@ -2490,7 +2495,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 8245,
+      "Progressed": 8247,
       "Completed": 17
     }
   ],
@@ -2498,8 +2503,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-05-21T03:01:02.6768255+00:00",
-  "LastChanged_Achievements": "2023-05-24T03:05:33.3841953+00:00",
+  "LastChanged_Achievements": "2023-05-24T04:05:38.9126028+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:19.5303152+00:00",
-  "LastUpdate_Ratings": "2023-05-24T02:59:38.2583522+00:00",
-  "LastUpdate_Achievements": "2023-05-24T03:05:33.3842334+00:00"
+  "LastUpdate_Ratings": "2023-05-24T03:59:44.2122409+00:00",
+  "LastUpdate_Achievements": "2023-05-24T04:05:38.9126438+00:00"
 }

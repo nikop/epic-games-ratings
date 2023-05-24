@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 189,
+  "EOS_Progressed": 190,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -779,6 +779,11 @@
       "Time": "2023-05-23T23:06:28.2578616+00:00",
       "NumProgressed": 189,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T04:05:19.4698046+00:00",
+      "NumProgressed": 190,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -862,7 +867,7 @@
       "Name": "Perfectionist",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "DilemasResponsibility10",
@@ -964,9 +969,9 @@
       "ID": "OpenRestaurant",
       "SetID": "d1bm05f",
       "Name": "The Big Day",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 129
     },
     {
       "ID": "Packing20",
@@ -990,7 +995,7 @@
       "Name": "Home Cook",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "RecipeDifferent30",
@@ -1012,9 +1017,9 @@
       "ID": "SDishes50",
       "SetID": "d1bm05f",
       "Name": "S is for Scrumptious",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "ServiceMaxClient",
@@ -1046,7 +1051,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "TrattoriaSet",
@@ -1109,7 +1114,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 189,
+      "Progressed": 190,
       "Completed": 0
     }
   ],
@@ -1117,8 +1122,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-24T03:05:14.2783372+00:00",
+  "LastChanged_Achievements": "2023-05-24T04:05:19.4698043+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.318416+00:00",
-  "LastUpdate_Ratings": "2023-05-24T02:58:07.025795+00:00",
-  "LastUpdate_Achievements": "2023-05-24T03:05:14.2783729+00:00"
+  "LastUpdate_Ratings": "2023-05-24T03:58:11.993959+00:00",
+  "LastUpdate_Achievements": "2023-05-24T04:05:19.4698398+00:00"
 }

@@ -25,6 +25,7 @@ Rating: 4.17 (Ranked 836)
 | Lock and Key | 0.60% | ~371 |
 | Bad Apples in Every Orchard | 0.60% | ~371 |
 | From Inside Gotham's Walls | 0.60% | ~371 |
+| Gotham Knight | 0.60% | ~371 |
 | End of an Era | 0.50% | ~309 |
 | In Your Element | 0.50% | ~309 |
 | Not On My Watch | 0.50% | ~309 |
@@ -33,7 +34,6 @@ Rating: 4.17 (Ranked 836)
 | Cooldown | 0.50% | ~309 |
 | Voiceless | 0.50% | ~309 |
 | Seeking Asylum | 0.50% | ~309 |
-| Gotham Knight | 0.50% | ~309 |
 | Out of Their League | 0.40% | ~247 |
 | Drone You Out | 0.40% | ~247 |
 | Gotham City Confidential | 0.40% | ~247 |
@@ -41,13 +41,13 @@ Rating: 4.17 (Ranked 836)
 | Family Meeting | 0.30% | ~186 |
 | Solid Alibi | 0.30% | ~186 |
 | Hammer and Icicle | 0.20% | ~64 |
+| Renewable Enemy Source | 0.20% | ~64 |
 | Dressed to Impress | 0.20% | ~124 |
 | Expert Crime Fighter | 0.20% | ~124 |
 | A Momentum Occasion | 0.20% | ~124 |
 | A Worthy Successor | 0.20% | ~124 |
 | Element of Surprise | 0.10% | ~32 |
 | It's Nice to Be Wanted | 0.10% | ~32 |
-| Renewable Enemy Source | 0.10% | ~32 |
 | Crime Is a Terrible Thing to Waste | 0.10% | ~32 |
 | The Cold, the Bad and the Ugly | 0.10% | ~32 |
 | Gotham's Greatest Depths | 0.10% | ~32 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 836)
 | Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,867 (Ranked 68)  
+Progressed: 61,872 (Ranked 68)  
 Completed: 91 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 91 (0.15%) (Ranked 148)
 | 2023-05-21 | 61,589 | 91 |
 | 2023-05-22 | 61,724 | 91 |
 | 2023-05-23 | 61,842 | 91 |
-| 2023-05-24 | 61,867 | 91 |
+| 2023-05-24 | 61,872 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,231  (Ranked 98)  
 Sum: 3,704 (Ranked 137)  

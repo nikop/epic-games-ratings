@@ -488,9 +488,9 @@
       "ID": "ETUA_AlonewithThem",
       "SetID": "65jc0ap",
       "Name": "Alone with Them",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -568,9 +568,9 @@
       "ID": "ETUA_ForcedtoKill",
       "SetID": "65jc0ap",
       "Name": "Forced to Kill",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -736,9 +736,9 @@
       "ID": "ETUA_TheForgottenTower",
       "SetID": "65jc0ap",
       "Name": "The Forgotten Tower",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ETUA_ThisCoffin",
@@ -801,8 +801,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-05-24T03:02:18.8074682+00:00",
+  "LastChanged_Achievements": "2023-05-24T04:00:39.0706795+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:00.9346953+00:00",
-  "LastUpdate_Ratings": "2023-05-24T02:57:08.3854991+00:00",
-  "LastUpdate_Achievements": "2023-05-24T03:02:18.8075019+00:00"
+  "LastUpdate_Ratings": "2023-05-24T03:57:10.0030265+00:00",
+  "LastUpdate_Achievements": "2023-05-24T04:00:39.0707153+00:00"
 }

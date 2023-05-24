@@ -15,6 +15,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Suns and Soldiers | 0.30% | ~65 |
 | No Harm in Looking | 0.30% | ~65 |
 | Truly Blessed | 0.20% | ~43 |
+| Looks Familiar | 0.20% | ~43 |
 | For Glory | 0.20% | ~43 |
 | King and Kin | 0.20% | ~43 |
 | Prequel to the Sequel | 0.20% | ~43 |
@@ -22,7 +23,6 @@ Number of Ratings: 1,331  (23.09.2022)
 | Full House | 0.10% | ~22 |
 | Pillow Investments | 0.10% | ~22 |
 | Erebus Purified | 0.10% | ~22 |
-| Looks Familiar | 0.10% | ~22 |
 | For Justice | 0.10% | ~22 |
 | For Wrath | 0.10% | ~22 |
 | For Greed | 0.10% | ~22 |

@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 64.00% | ~77 |
-| Forced to Kill | 64.00% | ~77 |
+| Alone with Them | 65.00% | ~78 |
+| Forced to Kill | 65.00% | ~78 |
 | A Night To Remember | 31.00% | ~37 |
 | Safe...For now? | 25.00% | ~30 |
 | Open Sesame | 21.00% | ~25 |
@@ -16,9 +16,9 @@
 | This Coffin Has Your Name On It! | 11.00% | ~13 |
 | Alone In The Dark | 10.00% | ~12 |
 | Parasite Exterminated | 10.00% | ~12 |
+| The Forgotten Tower | 9.00% | ~11 |
 | Rest In Peace | 8.00% | ~10 |
 | The Curse Is Real | 8.00% | ~10 |
-| The Forgotten Tower | 8.00% | ~10 |
 | What A Mansion | 7.00% | ~8 |
 | Lover of classics | 6.00% | ~7 |
 | Modern Player | 6.00% | ~7 |

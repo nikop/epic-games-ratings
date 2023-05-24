@@ -1239,9 +1239,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13164,
+  "EOS_Progressed": 13165,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 804,
+  "EOS_NewPlayers": 803,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -4464,6 +4464,11 @@
       "Time": "2023-05-24T03:05:24.3418863+00:00",
       "NumProgressed": 13164,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-05-24T04:05:29.771067+00:00",
+      "NumProgressed": 13165,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 22,
@@ -4483,7 +4488,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "1017",
@@ -4491,7 +4496,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "1018",
@@ -4507,7 +4512,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "1020",
@@ -4545,9 +4550,9 @@
       "ID": "1024",
       "SetID": "9l3d3cl",
       "Name": "Daggers in the Dark",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1053
     },
     {
       "ID": "1025",
@@ -4650,15 +4655,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 13164,
+      "Progressed": 13165,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-05-07T09:02:24.8496722+00:00",
-  "LastChanged_Achievements": "2023-05-24T03:05:24.3418857+00:00",
+  "LastChanged_Achievements": "2023-05-24T04:05:29.7710664+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:02.1359414+00:00",
-  "LastUpdate_Ratings": "2023-05-24T02:59:35.9996089+00:00",
-  "LastUpdate_Achievements": "2023-05-24T03:05:24.3419218+00:00"
+  "LastUpdate_Ratings": "2023-05-24T03:59:42.0354918+00:00",
+  "LastUpdate_Achievements": "2023-05-24T04:05:29.7711039+00:00"
 }

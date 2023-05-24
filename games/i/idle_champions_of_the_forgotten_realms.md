@@ -21,12 +21,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Checkmate | 0.20% | ~109 |
 | Vecna Out! | 0.20% | ~109 |
 | A Persistent Buzzing | 0.20% | ~177 |
+| Beast Mode | 0.20% | ~177 |
 | Terror in the Dark | 0.20% | ~177 |
 | Unearthed Evil | 0.20% | ~177 |
 | The Crumbling Temple | 0.20% | ~177 |
 | Seeking Allies | 0.20% | ~177 |
 | Are Ya Chicken? | 0.20% | ~177 |
 | Mad Cow Disease | 0.20% | ~177 |
+| Exploring Port Nyanzaru | 0.20% | ~177 |
 | The Contagious Curse | 0.20% | ~177 |
 | Friendly Imps | 0.20% | ~177 |
 | Pure Energy | 0.20% | ~177 |
@@ -160,7 +162,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Anchors Aweigh | 0.10% | ~55 |
 | Welcome to the Rock | 0.10% | ~55 |
 | Welcome to the Band | 0.10% | ~55 |
-| Beast Mode | 0.10% | ~88 |
 | The Forbidden City | 0.10% | ~88 |
 | Periodic Petrification | 0.10% | ~88 |
 | No Good at All | 0.10% | ~88 |
@@ -282,7 +283,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | An Abyssal Situation | 0.10% | ~88 |
 | Dino Nightmare | 0.10% | ~88 |
 | A Familiar Friend | 0.10% | ~55 |
-| Exploring Port Nyanzaru | 0.10% | ~88 |
 | A Tale of Two Cities | 0.10% | ~88 |
 | A Tale of Two Fiends | 0.10% | ~88 |
 | A Tale of Two Champions | 0.10% | ~88 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.10% | ~88 |
 | Rescue in the Jungle | 0.10% | ~88 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,448 (Ranked 60)  
+Progressed: 88,452 (Ranked 60)  
 Completed: 1,872 (2.12%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -534,7 +534,7 @@ Completed: 1,872 (2.12%) (Ranked 62)
 | 2023-05-21 | 88,251 | 1,860 |
 | 2023-05-22 | 88,337 | 1,863 |
 | 2023-05-23 | 88,435 | 1,872 |
-| 2023-05-24 | 88,448 | 1,872 |
+| 2023-05-24 | 88,452 | 1,872 |
 ## Awards
 Max (Diverse Characters): 4,898  (Ranked 64)  
 Sum: 29,959 (Ranked 37)  

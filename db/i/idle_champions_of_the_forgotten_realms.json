@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3898,9 +3898,9 @@
       "Count": 3238
     }
   ],
-  "EOS_Progressed": 88448,
+  "EOS_Progressed": 88452,
   "EOS_Completed": 1872,
-  "EOS_NewPlayers": 722,
+  "EOS_NewPlayers": 725,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 2.12,
   "EosHistory": [
@@ -7143,6 +7143,11 @@
       "Time": "2023-05-24T03:05:40.2046758+00:00",
       "NumProgressed": 88448,
       "NumCompleted": 1872
+    },
+    {
+      "Time": "2023-05-24T04:05:45.4493193+00:00",
+      "NumProgressed": 88452,
+      "NumCompleted": 1872
     }
   ],
   "TotalAchievements": 493,
@@ -8256,9 +8261,9 @@
       "ID": "objective_completed_14",
       "SetID": "cc37lbc",
       "Name": "Beast Mode",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_149",
@@ -9296,9 +9301,9 @@
       "ID": "objective_completed_54",
       "SetID": "cc37lbc",
       "Name": "Exploring Port Nyanzaru",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_540",
@@ -11097,21 +11102,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54722,
+      "Progressed": 54726,
       "Completed": 2682
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88448,
+      "Progressed": 88452,
       "Completed": 1872
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-23T16:58:40.8239248+00:00",
-  "LastChanged_Achievements": "2023-05-24T03:05:40.2046751+00:00",
+  "LastChanged_Achievements": "2023-05-24T04:05:45.4493188+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-24T02:57:49.2224644+00:00",
-  "LastUpdate_Achievements": "2023-05-24T03:05:40.2070924+00:00"
+  "LastUpdate_Ratings": "2023-05-24T03:57:54.2071992+00:00",
+  "LastUpdate_Achievements": "2023-05-24T04:05:45.4517299+00:00"
 }
