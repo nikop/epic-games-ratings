@@ -19,7 +19,7 @@
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.12% |
 | 18 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.90% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.75% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.88% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
 | 22 | [Scorn](games/s/scorn.md) | 6.89% |
 | 23 | [Ravenlok](games/r/ravenlok.md) | 6.78% |
@@ -65,7 +65,7 @@
 | 63 | [Bloodshore](games/b/bloodshore.md) | 2.03% |
 | 64 | [Sifu](games/s/sifu.md) | 1.81% |
 | 65 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
-| 66 | [A Musical Story](games/a/a_musical_story.md) | 1.72% |
+| 66 | [A Musical Story](games/a/a_musical_story.md) | 1.69% |
 | 67 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.68% |
 | 68 | [Night Book](games/n/night_book.md) | 1.63% |
 | 69 | [Somerville](games/s/somerville.md) | 1.60% |
