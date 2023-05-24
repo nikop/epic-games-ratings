@@ -19,7 +19,7 @@
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.12% |
 | 18 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.90% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.86% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.85% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
 | 22 | [Scorn](games/s/scorn.md) | 6.88% |
 | 23 | [Ravenlok](games/r/ravenlok.md) | 6.78% |
@@ -30,7 +30,7 @@
 | 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.45% |
 | 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 4.88% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.85% |
-| 31 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.76% |
+| 31 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.65% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.43% |
 | 34 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.26% |
@@ -62,7 +62,7 @@
 | 60 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.14% |
 | 61 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.13% |
 | 62 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.12% |
-| 63 | [Bloodshore](games/b/bloodshore.md) | 2.03% |
+| 63 | [Bloodshore](games/b/bloodshore.md) | 2.01% |
 | 64 | [Sifu](games/s/sifu.md) | 1.81% |
 | 65 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
 | 66 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.68% |
@@ -72,8 +72,8 @@
 | 70 | [Frogun](games/f/frogun.md) | 1.55% |
 | 71 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 72 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.47% |
-| 73 | [Ten Dates](games/t/ten_dates.md) | 1.46% |
-| 74 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.45% |
+| 73 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.45% |
+| 73 | [Ten Dates](games/t/ten_dates.md) | 1.45% |
 | 75 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.43% |
 | 76 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.29% |
 | 77 | [Chorus](games/c/chorus.md) | 1.25% |
@@ -414,4 +414,4 @@
 | 202 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 202 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 202 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,655 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,656 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

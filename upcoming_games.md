@@ -1,6 +1,5 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [Lost Station](games/c/c008c76e4c4946c7b9ad466bd02ad96c.md) | 2023-05-24 | 2023-05-24 |
 | [Skeletal Avengers](games/d/d2dcfb91f59d4880b8a5e6fe2aa64a7e.md) | 2023-05-24 | 2021-09-28 |
 | [Observation Particle Life 1](games/c/cf7613b267a042e9b06d5d527e8a5eb1.md) | 2023-05-24 | 2023-05-24 |
 | [Yodanji](games/c/cc91867fe9ed4055b45b10fe161771bb.md) | 2023-05-25 | 2017-12-06 |
@@ -278,6 +277,7 @@
 | [Mega City Police](games/m/mega_city_police.md) | 2099-01-01 | 2099-01-01 |
 | [Meta Nemesis](games/m/meta_nemesis.md) | 2099-01-01 | 2099-01-01 |
 | [MeteoHeroes Saving Planet Earth!](games/m/meteoheroes_saving_planet_earth!.md) | 2099-01-01 | 2099-01-01 |
+| [Midnight Pufferfish Show](games/4/4019249f7e6b41f8b063d7a3b36840dd.md) | 2099-01-01 | 2099-01-01 |
 | [Moon Mystery](games/m/moon_mystery.md) | 2099-01-01 | 2099-01-01 |
 | [Morbid The Lords of Ire](games/m/morbid_the_lords_of_ire.md) | 2099-01-01 | 2099-01-01 |
 | [Mr. Run and Jump](games/4/499acd70c5dd4e7d9d6af210338e2ae6.md) | 2099-01-01 | 2099-01-01 |
