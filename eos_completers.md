@@ -26,12 +26,12 @@
 | 24 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 25 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
-| 27 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.53% |
+| 27 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.50% |
 | 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.45% |
-| 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 4.95% |
+| 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 4.90% |
 | 30 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.88% |
-| 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.87% |
-| 32 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
+| 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.86% |
+| 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.43% |
 | 34 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.26% |
 | 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
@@ -83,7 +83,7 @@
 | 81 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.18% |
 | 82 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.13% |
 | 83 | [Late Shift](games/l/late_shift.md) | 1.12% |
-| 83 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.12% |
+| 84 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.11% |
 | 85 | [Five Dates](games/f/five_dates.md) | 1.08% |
 | 86 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.04% |
 | 87 | [Sable](games/s/sable.md) | 0.94% |
