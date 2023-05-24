@@ -10,7 +10,7 @@
 | 8 | [Island Cities](games/i/island_cities.md) | 16.34% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 10 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
-| 11 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.01% |
+| 11 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.00% |
 | 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.54% |
 | 13 | [Remains](games/r/remains.md) | 9.09% |
 | 13 | [Smelter](games/s/smelter.md) | 9.09% |
@@ -72,8 +72,8 @@
 | 70 | [Frogun](games/f/frogun.md) | 1.55% |
 | 71 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 72 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.45% |
-| 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.45% |
 | 72 | [Ten Dates](games/t/ten_dates.md) | 1.45% |
+| 74 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.44% |
 | 75 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.41% |
 | 76 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.29% |
 | 77 | [Chorus](games/c/chorus.md) | 1.25% |
@@ -98,7 +98,7 @@
 | 96 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.79% |
 | 97 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
 | 98 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.73% |
-| 98 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.73% |
+| 99 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.72% |
 | 100 | [Train Valley](games/t/train_valley.md) | 0.71% |
 | 101 | [Haven](games/h/haven.md) | 0.69% |
 | 102 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.65% |
@@ -414,4 +414,4 @@
 | 202 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 202 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 202 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,665 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,667 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
