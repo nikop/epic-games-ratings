@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 86.00% | ~236 |
-| Ranidaphobia | 50.00% | ~137 |
-| Aspiring Editor | 43.00% | ~118 |
-| Gun for Hire | 35.00% | ~96 |
-| I am the law! | 17.00% | ~47 |
+| First Blood | 87.00% | ~244 |
+| Ranidaphobia | 53.00% | ~148 |
+| Aspiring Editor | 44.00% | ~123 |
+| Gun for Hire | 37.00% | ~104 |
+| I am the law! | 18.00% | ~50 |
 | Firestarter | 5.00% | ~14 |
 | Lumberjack | 5.00% | ~14 |
 | Croaked | 4.00% | ~11 |
 | Limp Richard | 4.00% | ~11 |
 | Newtonian Knockout | 3.00% | ~8 |
-| Exorcist | 2.00% | ~5 |
-| Giant Killer | 2.00% | ~5 |
-| Hold The Line | 2.00% | ~5 |
+| Exorcist | 2.00% | ~6 |
+| From Darkness to Light | 2.00% | ~6 |
+| Giant Killer | 2.00% | ~6 |
+| Hold The Line | 2.00% | ~6 |
 | Commando | 1.00% | ~3 |
 | Editor Adept | 1.00% | ~3 |
-| From Darkness to Light | 1.00% | ~3 |
 | Recycler | 1.00% | ~3 |
 | The meaning of Kain | 1.00% | ~3 |
 | Chain Killer | 0.70% | ~2 |
+| Curveball | 0.70% | ~2 |
 | Sensei | 0.70% | ~2 |
 | Technophobe | 0.70% | ~2 |
 | There Can Be Only One! | 0.70% | ~2 |
 | Are you not entertained? | 0.40% | ~1 |
 | Chain Reaction | 0.40% | ~1 |
-| Curveball | 0.40% | ~1 |
 | Ganglord | 0.40% | ~1 |
 | Jarhead | 0.40% | ~1 |
 | Dr Jones | 0.40% | ~1 |
@@ -56,10 +56,10 @@
 | Silent but Violent | 0.00% | ~0 |
 | Wipe Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 274 (Ranked 221)  
+Progressed: 280 (Ranked 218)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-23 | 151 | 0 |
-| 2023-05-24 | 274 | 0 |
+| 2023-05-24 | 280 | 0 |

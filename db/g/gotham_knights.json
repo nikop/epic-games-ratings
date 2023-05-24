@@ -1208,9 +1208,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61911,
+  "EOS_Progressed": 61918,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 973,
+  "EOS_NewPlayers": 980,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3608,6 +3608,11 @@
       "Time": "2023-05-24T18:05:38.6181454+00:00",
       "NumProgressed": 61911,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-24T19:06:19.7901008+00:00",
+      "NumProgressed": 61918,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3715,7 +3720,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "CLAYFACE_1",
@@ -3731,7 +3736,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "CLAYFACE_3",
@@ -3739,7 +3744,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -3947,7 +3952,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -4043,7 +4048,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "MYSTERY_06",
@@ -4051,7 +4056,7 @@
       "Name": "Voiceless",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "MYSTERY_07",
@@ -4067,7 +4072,7 @@
       "Name": "Gotham Knight",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "SECRET_CACHE",
@@ -4106,13 +4111,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61911,
+      "Progressed": 61918,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32191,
+      "Progressed": 32198,
       "Completed": 2640
     }
   ],
@@ -4120,8 +4125,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-24T15:59:07.5402547+00:00",
-  "LastChanged_Achievements": "2023-05-24T18:05:38.618145+00:00",
+  "LastChanged_Achievements": "2023-05-24T19:06:19.7901+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-24T17:59:07.0131882+00:00",
-  "LastUpdate_Achievements": "2023-05-24T18:05:38.6182194+00:00"
+  "LastUpdate_Ratings": "2023-05-24T18:59:48.0655398+00:00",
+  "LastUpdate_Achievements": "2023-05-24T19:06:19.7902266+00:00"
 }

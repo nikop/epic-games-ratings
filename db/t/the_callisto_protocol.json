@@ -6,8 +6,8 @@
   "Ranking_Popularity": 397,
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 101,
-  "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 56,
+  "Ranking_EOS_Completed": 114,
+  "Ranking_EOS_NewPlayers": 55,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -428,11 +428,11 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13504,
+  "EOS_Progressed": 13511,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 937,
+  "EOS_NewPlayers": 944,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.39,
+  "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.0112544+00:00",
@@ -1438,6 +1438,11 @@
       "Time": "2023-05-24T18:03:13.3660561+00:00",
       "NumProgressed": 13504,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-05-24T19:03:10.5568154+00:00",
+      "NumProgressed": 13511,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 40,
@@ -1465,7 +1470,7 @@
       "Name": "Giving Back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -1481,7 +1486,7 @@
       "Name": "Flesh Wound",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -1577,7 +1582,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "KILL_ROBOT",
@@ -1768,13 +1773,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13504,
+      "Progressed": 13511,
       "Completed": 52
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1430,
+      "Progressed": 1437,
       "Completed": 29
     }
   ],
@@ -1782,8 +1787,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-23T19:57:59.4143533+00:00",
-  "LastChanged_Achievements": "2023-05-24T18:03:13.3660556+00:00",
+  "LastChanged_Achievements": "2023-05-24T19:03:10.5568146+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-24T17:57:32.472048+00:00",
-  "LastUpdate_Achievements": "2023-05-24T18:03:13.366094+00:00"
+  "LastUpdate_Ratings": "2023-05-24T18:57:47.078905+00:00",
+  "LastUpdate_Achievements": "2023-05-24T19:03:10.5568796+00:00"
 }

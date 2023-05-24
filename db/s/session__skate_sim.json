@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 300,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -652,9 +652,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2058,
+  "EOS_Progressed": 2061,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1282,6 +1282,11 @@
       "Time": "2023-05-24T17:05:22.3269166+00:00",
       "NumProgressed": 2058,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T19:05:45.6193653+00:00",
+      "NumProgressed": 2061,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1357,7 +1362,7 @@
       "Name": "Fashionista",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_FINALLY-HE-SHUTS-UP",
@@ -1365,7 +1370,7 @@
       "Name": "Finally he zips it",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_FULFILLED-THE-DREAM",
@@ -1381,7 +1386,7 @@
       "Name": "G\u0027Day Mate!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_GLOBETROTTER",
@@ -1445,7 +1450,7 @@
       "Name": "Keeping it classy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -1573,7 +1578,7 @@
       "Name": "That pinch!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_THAT-WAS-WHEELIE-FUN",
@@ -1621,7 +1626,7 @@
       "Name": "Tight lipslides",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_TRICK-SHOT-MARKSMAN",
@@ -1661,7 +1666,7 @@
       "Name": "Welcome to the family",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "ACH_YOURE-FREE-NOW",
@@ -1669,22 +1674,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2058,
+      "Progressed": 2061,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-05-19T07:58:43.4333069+00:00",
-  "LastChanged_Achievements": "2023-05-24T18:05:09.6690905+00:00",
+  "LastChanged_Achievements": "2023-05-24T19:05:45.6193648+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:21.8061522+00:00",
-  "LastUpdate_Ratings": "2023-05-24T17:58:33.8474484+00:00",
-  "LastUpdate_Achievements": "2023-05-24T18:05:09.6691911+00:00"
+  "LastUpdate_Ratings": "2023-05-24T18:59:06.0930646+00:00",
+  "LastUpdate_Achievements": "2023-05-24T19:05:45.6194146+00:00"
 }

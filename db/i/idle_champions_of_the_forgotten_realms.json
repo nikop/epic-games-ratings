@@ -3848,10 +3848,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 29959,
       "NumberOfAwardsMax": 4898
+    },
+    {
+      "Time": "2023-05-24T18:58:00.249227+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29960,
+      "NumberOfAwardsMax": 4898
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29959,
+  "NumberOfAwards": 29960,
   "NumberOfAwardsMax": 4898,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3877,7 +3883,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4495
+      "Count": 4496
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3898,9 +3904,9 @@
       "Count": 3238
     }
   ],
-  "EOS_Progressed": 88504,
+  "EOS_Progressed": 88513,
   "EOS_Completed": 1873,
-  "EOS_NewPlayers": 719,
+  "EOS_NewPlayers": 725,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 2.12,
   "EosHistory": [
@@ -7212,6 +7218,11 @@
     {
       "Time": "2023-05-24T18:05:43.4834657+00:00",
       "NumProgressed": 88504,
+      "NumCompleted": 1873
+    },
+    {
+      "Time": "2023-05-24T19:06:24.9741564+00:00",
+      "NumProgressed": 88513,
       "NumCompleted": 1873
     }
   ],
@@ -11136,7 +11147,7 @@
       "Name": "The Court of Storms",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "objective_completed_1356",
@@ -11167,21 +11178,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54778,
-      "Completed": 2691
+      "Progressed": 54787,
+      "Completed": 2692
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88504,
+      "Progressed": 88513,
       "Completed": 1873
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-05-23T16:58:40.8239248+00:00",
-  "LastChanged_Achievements": "2023-05-24T18:05:43.4834652+00:00",
+  "LastChanged": "2023-05-24T18:58:00.2492269+00:00",
+  "LastChanged_Achievements": "2023-05-24T19:06:24.9741557+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-24T17:57:43.3668816+00:00",
-  "LastUpdate_Achievements": "2023-05-24T18:05:43.4858473+00:00"
+  "LastUpdate_Ratings": "2023-05-24T18:58:00.2492275+00:00",
+  "LastUpdate_Achievements": "2023-05-24T19:06:24.9776028+00:00"
 }

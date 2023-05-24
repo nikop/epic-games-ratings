@@ -4,7 +4,7 @@
   "ProductSlug": "cafe-owner-simulator-749e0f",
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
@@ -657,9 +657,9 @@
       "ID": "FIREFIGHTER",
       "SetID": "64e5lgf",
       "Name": "FIREFIGHTER",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 193
+      "UsersEstimate": 197
     },
     {
       "ID": "FIRST_100K",
@@ -738,8 +738,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-05-24T18:05:16.9652191+00:00",
+  "LastChanged_Achievements": "2023-05-24T19:05:54.2737682+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:57.2732477+00:00",
-  "LastUpdate_Ratings": "2023-05-24T17:58:52.9975311+00:00",
-  "LastUpdate_Achievements": "2023-05-24T18:05:16.9652354+00:00"
+  "LastUpdate_Ratings": "2023-05-24T18:59:29.8618852+00:00",
+  "LastUpdate_Achievements": "2023-05-24T19:05:54.2737843+00:00"
 }

@@ -11,12 +11,12 @@
 | Right in the kisser! | 66.00% | ~49 |
 | The Shaman | 57.00% | ~42 |
 | Duscot Steamcity | 57.00% | ~42 |
-| The Penguin | 51.00% | ~38 |
+| The Penguin | 53.00% | ~39 |
 | The Magician | 50.00% | ~37 |
 | The Thrower | 46.00% | ~34 |
 | The Tunneler | 45.00% | ~33 |
+| The Shield | 42.00% | ~31 |
 | Level Up!! | 41.00% | ~30 |
-| The Shield | 41.00% | ~30 |
 | Kill-streak | 39.00% | ~29 |
 | The Bird | 32.00% | ~24 |
 | The Idol | 30.00% | ~22 |

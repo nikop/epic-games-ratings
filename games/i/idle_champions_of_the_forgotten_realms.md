@@ -7,7 +7,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 0.70% | ~620 |
-| The Court of Storms | 0.70% | ~383 |
+| The Court of Storms | 0.70% | ~384 |
 | The Cursed Farmer | 0.50% | ~443 |
 | Beware the Jabberwock | 0.50% | ~274 |
 | Beast Intentions | 0.40% | ~354 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.10% | ~89 |
 | Rescue in the Jungle | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,504 (Ranked 60)  
+Progressed: 88,513 (Ranked 60)  
 Completed: 1,873 (2.12%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -534,17 +534,17 @@ Completed: 1,873 (2.12%) (Ranked 62)
 | 2023-05-21 | 88,251 | 1,860 |
 | 2023-05-22 | 88,337 | 1,863 |
 | 2023-05-23 | 88,435 | 1,872 |
-| 2023-05-24 | 88,504 | 1,873 |
+| 2023-05-24 | 88,513 | 1,873 |
 ## Awards
 Max (Diverse Characters): 4,898  (Ranked 64)  
-Sum: 29,959 (Ranked 37)  
+Sum: 29,960 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,898 |
 | This game is Great for Beginners | 4,839 |
 | This game has Quickly Understood Controls | 4,600 |
-| This game is Relaxing | 4,495 |
+| This game is Relaxing | 4,496 |
 | This game is Highly Recommended | 3,946 |
 | This game has Amazing Characters | 3,943 |
 | This game has Playful Visuals | 3,238 |
@@ -669,3 +669,4 @@ Diff (max vs sum): 27
 | 2023-05-21 | 4.06 | - | 4,892 | 29,941 |
 | 2023-05-22 | 4.06 | - | 4,896 | 29,950 |
 | 2023-05-23 | 4.06 | - | 4,898 | 29,959 |
+| 2023-05-24 | 4.06 | - | 4,898 | 29,960 |

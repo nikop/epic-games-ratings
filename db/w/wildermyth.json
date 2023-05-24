@@ -2,12 +2,12 @@
   "ID": "466bb53962c14a6e80f3e3d919f123eb",
   "Name": "Wildermyth",
   "ProductSlug": "wildermyth-593344",
-  "Ranking_Rating": 105,
+  "Ranking_Rating": 106,
   "Ranking_Popularity": 455,
   "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -145,7 +145,7 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1201,
+  "EOS_Progressed": 1202,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
@@ -565,6 +565,11 @@
       "Time": "2023-05-23T13:12:20.0535984+00:00",
       "NumProgressed": 1201,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-24T19:05:49.7254049+00:00",
+      "NumProgressed": 1202,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -592,7 +597,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -752,7 +757,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "achievement_mythwalker",
@@ -1023,15 +1028,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1201,
+      "Progressed": 1202,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-24T18:05:13.1266605+00:00",
+  "LastChanged_Achievements": "2023-05-24T19:05:49.7254045+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:59.9959604+00:00",
-  "LastUpdate_Ratings": "2023-05-24T17:59:49.6845711+00:00",
-  "LastUpdate_Achievements": "2023-05-24T18:05:13.1267122+00:00"
+  "LastUpdate_Ratings": "2023-05-24T19:00:42.1576947+00:00",
+  "LastUpdate_Achievements": "2023-05-24T19:05:49.7254566+00:00"
 }

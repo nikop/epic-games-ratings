@@ -36,7 +36,7 @@ Rating: 4.37 (Ranked 705)
 | Der Geist | 1.00% | ~13 |
 | The Long Game | 0.90% | ~12 |
 | No Stone Unturned | 0.80% | ~11 |
-| Brains of the Operation | 0.70% | ~9 |
+| Brains of the Operation | 0.80% | ~11 |
 | My Little Friend | 0.60% | ~8 |
 | It'll Buff Right Out | 0.50% | ~7 |
 | Operation Foxley | 0.50% | ~6 |

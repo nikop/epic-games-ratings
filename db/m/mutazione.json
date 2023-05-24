@@ -2,12 +2,12 @@
   "ID": "5645a537b6a44f6f82d122729f3253ed",
   "Name": "Mutazione",
   "ProductSlug": "mutazione",
-  "Ranking_Rating": 313,
+  "Ranking_Rating": 314,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2020-03-04T16:00:00+00:00",
@@ -267,6 +267,6 @@
   "FirstSeen": "2022-07-22T20:26:44.0004019+00:00",
   "LastChanged": "2023-04-01T13:58:55.2047144+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:13.684549+00:00",
-  "LastUpdate_Ratings": "2023-05-24T17:57:21.8676972+00:00",
-  "LastUpdate_Achievements": "2023-05-24T18:04:03.7486393+00:00"
+  "LastUpdate_Ratings": "2023-05-24T18:57:35.4057574+00:00",
+  "LastUpdate_Achievements": "2023-05-24T19:04:13.4072445+00:00"
 }

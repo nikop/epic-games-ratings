@@ -22,16 +22,16 @@ Number of Ratings: 1,845  (23.09.2022)
 | Trade Baron | 1.00% | ~150 |
 | Ancient Battleground | 0.90% | ~135 |
 | Sparkdew Crystals | 0.90% | ~135 |
+| Flooded Mines | 0.90% | ~135 |
 | Cursed Lands | 0.90% | ~135 |
 | A Real Challenge | 0.90% | ~135 |
+| Refinery | 0.80% | ~120 |
 | Dangerous Lands | 0.80% | ~120 |
 | Levitating Monument | 0.80% | ~120 |
-| Flooded Mines | 0.80% | ~120 |
 | Monastery of the Holy Flame | 0.80% | ~120 |
 | Royal Outpost | 0.80% | ~120 |
 | Corrosive Torrent | 0.80% | ~120 |
 | Watchtower | 0.80% | ~120 |
-| Refinery | 0.70% | ~105 |
 | Against All Odds | 0.70% | ~105 |
 | Haunted Forest | 0.70% | ~105 |
 | Statue of the Forefathers | 0.70% | ~105 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,982 (Ranked 98)  
+Progressed: 14,984 (Ranked 98)  
 Completed: 33 (0.22%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 33 (0.22%) (Ranked 135)
 | 2023-05-21 | 14,940 | 32 |
 | 2023-05-22 | 14,956 | 33 |
 | 2023-05-23 | 14,974 | 33 |
-| 2023-05-24 | 14,982 | 33 |
+| 2023-05-24 | 14,984 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 196)  
 Sum: 3,029 (Ranked 151)  

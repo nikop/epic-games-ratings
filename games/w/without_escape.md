@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Never around when you need them | 14.00% | ~1 |
+| Never around when you need them | 13.00% | ~1 |
 | You got all endings! | 0.00% | ~0 |
 | Became the new Maker | 0.00% | ~0 |
 | Jumped into the void | 0.00% | ~0 |
@@ -14,7 +14,7 @@
 | So nineties it hurts... | 0.00% | ~0 |
 | Still trying to escape? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7 (Ranked 346)  
+Progressed: 8 (Ranked 341)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -23,4 +23,4 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-15 | 2 | 0 |
 | 2023-05-20 | 4 | 0 |
 | 2023-05-21 | 5 | 0 |
-| 2023-05-24 | 7 | 0 |
+| 2023-05-24 | 8 | 0 |

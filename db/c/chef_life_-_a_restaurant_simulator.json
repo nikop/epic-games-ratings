@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 196,
+  "EOS_Progressed": 199,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -804,6 +804,11 @@
       "Time": "2023-05-24T15:06:48.1169068+00:00",
       "NumProgressed": 196,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T19:05:54.6020435+00:00",
+      "NumProgressed": 199,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -863,7 +868,7 @@
       "Name": "French Flair",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -871,7 +876,7 @@
       "Name": "So Clean You Can Eat Off the Floor",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "Clothes10",
@@ -989,7 +994,7 @@
       "ID": "OpenRestaurant",
       "SetID": "d1bm05f",
       "Name": "The Big Day",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 15,
       "UsersEstimate": 135
     },
@@ -1015,7 +1020,7 @@
       "Name": "Home Cook",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "RecipeDifferent30",
@@ -1039,7 +1044,7 @@
       "Name": "S is for Scrumptious",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ServiceMaxClient",
@@ -1069,9 +1074,9 @@
       "ID": "StaffMemberSpecialityDishes10",
       "SetID": "d1bm05f",
       "Name": "You\u0027re the Expert!",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 64
     },
     {
       "ID": "TrattoriaSet",
@@ -1109,9 +1114,9 @@
       "ID": "VerticalCustomDressing",
       "SetID": "d1bm05f",
       "Name": "Leaning Tower of Pizza",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "WholeBeefDishesMenu",
@@ -1134,7 +1139,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 196,
+      "Progressed": 199,
       "Completed": 0
     }
   ],
@@ -1142,8 +1147,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-24T18:05:17.2233218+00:00",
+  "LastChanged_Achievements": "2023-05-24T19:05:54.6020428+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.318416+00:00",
-  "LastUpdate_Ratings": "2023-05-24T17:58:00.7226466+00:00",
-  "LastUpdate_Achievements": "2023-05-24T18:05:17.2233583+00:00"
+  "LastUpdate_Ratings": "2023-05-24T18:58:24.5699689+00:00",
+  "LastUpdate_Achievements": "2023-05-24T19:05:54.6020822+00:00"
 }

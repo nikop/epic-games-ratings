@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -240,9 +240,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63816,
+  "EOS_Progressed": 63817,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -2730,6 +2730,11 @@
       "Time": "2023-05-24T18:02:15.0717301+00:00",
       "NumProgressed": 63816,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-24T19:01:26.5511077+00:00",
+      "NumProgressed": 63817,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 20,
@@ -2749,7 +2754,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 1914
+      "UsersEstimate": 1915
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -2893,14 +2898,14 @@
       "Name": "Survival Expert",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 1914
+      "UsersEstimate": 1915
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 63816,
+      "Progressed": 63817,
       "Completed": 11
     }
   ],
@@ -2908,8 +2913,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-05-14T20:57:12.1011944+00:00",
-  "LastChanged_Achievements": "2023-05-24T18:02:15.0717297+00:00",
+  "LastChanged_Achievements": "2023-05-24T19:01:26.5511067+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:02.4871773+00:00",
-  "LastUpdate_Ratings": "2023-05-24T17:57:14.614492+00:00",
-  "LastUpdate_Achievements": "2023-05-24T18:02:15.0717603+00:00"
+  "LastUpdate_Ratings": "2023-05-24T18:57:25.9903948+00:00",
+  "LastUpdate_Achievements": "2023-05-24T19:01:26.5511593+00:00"
 }

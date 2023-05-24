@@ -4,7 +4,7 @@
   "ProductSlug": "sir-whoopass-757c5c",
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
@@ -781,9 +781,9 @@
       "ID": "ORC_LOOT",
       "SetID": "9gfkh7c",
       "Name": "Kleptomaniac",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ORC_NOOB_1",
@@ -908,8 +908,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-05-24T18:05:14.2314516+00:00",
+  "LastChanged_Achievements": "2023-05-24T19:05:51.1282482+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:56:59.9162402+00:00",
-  "LastUpdate_Ratings": "2023-05-24T17:56:57.5775334+00:00",
-  "LastUpdate_Achievements": "2023-05-24T18:05:14.2315439+00:00"
+  "LastUpdate_Ratings": "2023-05-24T18:57:05.5521426+00:00",
+  "LastUpdate_Achievements": "2023-05-24T19:05:51.1284062+00:00"
 }

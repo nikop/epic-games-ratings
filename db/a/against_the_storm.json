@@ -2294,9 +2294,9 @@
       "Count": 304
     }
   ],
-  "EOS_Progressed": 14982,
+  "EOS_Progressed": 14984,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -4094,6 +4094,11 @@
       "Time": "2023-05-24T17:05:51.5717878+00:00",
       "NumProgressed": 14982,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-05-24T19:06:19.2242273+00:00",
+      "NumProgressed": 14984,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 50,
@@ -4175,9 +4180,9 @@
       "ID": "MetalChain",
       "SetID": "cfbk359",
       "Name": "Refinery",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 120
     },
     {
       "ID": "Win5Years",
@@ -4303,9 +4308,9 @@
       "ID": "WinNearMines",
       "SetID": "cfbk359",
       "Name": "Flooded Mines",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 135
     },
     {
       "ID": "WinNearMonastery",
@@ -4504,15 +4509,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 14982,
+      "Progressed": 14984,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-24T08:00:46.3796939+00:00",
-  "LastChanged_Achievements": "2023-05-24T18:05:38.0709138+00:00",
+  "LastChanged_Achievements": "2023-05-24T19:06:19.2242267+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:57.8342165+00:00",
-  "LastUpdate_Ratings": "2023-05-24T17:59:20.1113832+00:00",
-  "LastUpdate_Achievements": "2023-05-24T18:05:38.0709703+00:00"
+  "LastUpdate_Ratings": "2023-05-24T19:00:05.3049513+00:00",
+  "LastUpdate_Achievements": "2023-05-24T19:06:19.2242846+00:00"
 }

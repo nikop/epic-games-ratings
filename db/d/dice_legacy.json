@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 786,
+  "EOS_Progressed": 787,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -393,6 +393,11 @@
       "Time": "2023-05-24T13:11:45.266583+00:00",
       "NumProgressed": 786,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T19:05:43.9037273+00:00",
+      "NumProgressed": 787,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -402,9 +407,9 @@
       "ID": "ACTIVATE_ALL_TYPEGROUPS",
       "SetID": "6ohhfoc",
       "Name": "Full house",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 31
     },
     {
       "ID": "CHALLENGE_ALPHA",
@@ -434,41 +439,41 @@
       "ID": "CHALLENGE_GREATWINTER",
       "SetID": "6ohhfoc",
       "Name": "The Great Winter",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CHALLENGE_ITALY",
       "SetID": "6ohhfoc",
       "Name": "Red Tape",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CHALLENGE_MEGARANDOM",
       "SetID": "6ohhfoc",
       "Name": "Mad Engineers",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CHALLENGE_RANDOMPOPULATION",
       "SetID": "6ohhfoc",
       "Name": "Charismatic Leader",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CHALLENGE_SCORTCHINGSUMMER",
       "SetID": "6ohhfoc",
       "Name": "Metropolis",
-      "Percentage": 0.1,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CONTAINERS_FIVE_ONFIRE",
@@ -562,9 +567,9 @@
       "ID": "EXILED_MERCHANT_FRIEND",
       "SetID": "6ohhfoc",
       "Name": "The Greedy Ones",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 16
     },
     {
       "ID": "EXILED_PRIEST_FRIEND",
@@ -578,17 +583,17 @@
       "ID": "EXILED_SOLDIER_FRIEND",
       "SetID": "6ohhfoc",
       "Name": "The Unruly Ones",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "FIND_ATTACKS_SOURCE",
       "SetID": "6ohhfoc",
       "Name": "The City",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 55
     },
     {
       "ID": "GOLDMASTER",
@@ -714,9 +719,9 @@
       "ID": "WINMATCHWITH_SCIENTIST",
       "SetID": "6ohhfoc",
       "Name": "The Mad",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "WINMATCH_DIFF_EXTREME",
@@ -746,24 +751,24 @@
       "ID": "WINMATCH_DIFF_PACIFIST",
       "SetID": "6ohhfoc",
       "Name": "Accepting the Prophecy",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 31
     },
     {
       "ID": "WINMATCH_DIFF_STANDARD",
       "SetID": "6ohhfoc",
       "Name": "Prophecy Fulfilled",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 24
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 786,
+      "Progressed": 787,
       "Completed": 0
     }
   ],
@@ -771,8 +776,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-03-31T05:57:30.891724+00:00",
-  "LastChanged_Achievements": "2023-05-24T18:05:08.2109402+00:00",
+  "LastChanged_Achievements": "2023-05-24T19:05:43.9037268+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:12.8802824+00:00",
-  "LastUpdate_Ratings": "2023-05-24T17:57:23.8250275+00:00",
-  "LastUpdate_Achievements": "2023-05-24T18:05:08.2109787+00:00"
+  "LastUpdate_Ratings": "2023-05-24T18:57:37.770859+00:00",
+  "LastUpdate_Achievements": "2023-05-24T19:05:43.9037691+00:00"
 }

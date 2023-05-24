@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 29,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 292,
+  "EOS_Progressed": 293,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 289,
+  "EOS_NewPlayers": 290,
   "EOS_NewCompleters": 15,
-  "EOS_Completed_Percentage": 5.14,
+  "EOS_Completed_Percentage": 5.12,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -536,6 +536,11 @@
       "Time": "2023-05-24T18:02:34.1402021+00:00",
       "NumProgressed": 292,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-05-24T19:02:29.7741256+00:00",
+      "NumProgressed": 293,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 30,
@@ -547,15 +552,15 @@
       "Name": "A fresh start",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "LEVEL_002",
       "SetID": "212bg48",
       "Name": "Promising crop",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 234
     },
     {
       "ID": "LEVEL_003",
@@ -595,7 +600,7 @@
       "Name": "Animals in the farm",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "LEVEL_008",
@@ -619,7 +624,7 @@
       "Name": "Rocks around the island",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "LEVEL_011",
@@ -715,7 +720,7 @@
       "Name": "Who likes bridges?",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "LEVEL_023",
@@ -723,7 +728,7 @@
       "Name": "Flowing from high ground",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "LEVEL_024",
@@ -786,14 +791,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 292,
+      "Progressed": 293,
       "Completed": 15
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-24T18:02:34.1402017+00:00",
+  "LastChanged_Achievements": "2023-05-24T19:02:29.7741251+00:00",
   "LastUpdate_AppInfo": "2023-05-22T13:02:13.5547551+00:00",
-  "LastUpdate_Ratings": "2023-05-24T17:56:52.7568242+00:00",
-  "LastUpdate_Achievements": "2023-05-24T18:02:34.1402291+00:00"
+  "LastUpdate_Ratings": "2023-05-24T18:56:59.0482565+00:00",
+  "LastUpdate_Achievements": "2023-05-24T19:02:29.7741517+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "1e1d639f7fa045f08a1378885ec7080c",
   "Name": "The Mageseeker: A League of Legends Story\u2122",
   "ProductSlug": "the-mageseeker-a-league-of-legends-story",
-  "Ranking_Rating": 105,
+  "Ranking_Rating": 100,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 143,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.77,
+  "Rating": 4.78,
   "RatingHistory": [
     {
       "Time": "2023-04-18T18:57:53.9681459+00:00",
@@ -94,13 +94,19 @@
       "Rating": 4.77,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-24T18:57:33.1729648+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2126,
+  "EOS_Progressed": 2127,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
@@ -1735,6 +1741,11 @@
       "Time": "2023-05-24T18:05:15.1484816+00:00",
       "NumProgressed": 2126,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-24T19:05:52.1680156+00:00",
+      "NumProgressed": 2127,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1778,7 +1789,7 @@
       "Name": "Whispers in the Woods III",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "STB_COPY_ABILITIES",
@@ -1810,7 +1821,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2020
+      "UsersEstimate": 2021
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1826,7 +1837,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1637
+      "UsersEstimate": 1638
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -1842,7 +1853,7 @@
       "Name": "Friendly fire",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "STB_DEFEAT_MAGICSHIFTER",
@@ -1890,7 +1901,7 @@
       "Name": "True power",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_III",
@@ -1920,9 +1931,9 @@
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
       "SetID": "3pe2bac",
       "Name": "Pentakill",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1594
+      "UsersEstimate": 1617
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -1930,7 +1941,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1956
+      "UsersEstimate": 1957
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1938,7 +1949,7 @@
       "Name": "Meltridge",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "STB_MISSION11_COMPLETED",
@@ -1962,7 +1973,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1616
+      "UsersEstimate": 1617
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -1970,7 +1981,7 @@
       "Name": "Thornbarrow",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -1994,7 +2005,7 @@
       "Name": "Sacred Woods",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -2026,7 +2037,7 @@
       "Name": "The Central Headquarters",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "STB_MISSION8_COMPLETED",
@@ -2082,7 +2093,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -2138,7 +2149,7 @@
       "Name": "Full equipped",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -2169,16 +2180,16 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2126,
+      "Progressed": 2127,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-04-18T18:57:53.9681419+00:00",
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
-  "LastChanged": "2023-05-22T18:57:55.6825714+00:00",
-  "LastChanged_Achievements": "2023-05-24T18:05:15.1484812+00:00",
+  "LastChanged": "2023-05-24T18:57:33.1729645+00:00",
+  "LastChanged_Achievements": "2023-05-24T19:05:52.1680149+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:08.2361804+00:00",
-  "LastUpdate_Ratings": "2023-05-24T17:57:20.3826648+00:00",
-  "LastUpdate_Achievements": "2023-05-24T18:05:15.1485463+00:00"
+  "LastUpdate_Ratings": "2023-05-24T18:57:33.1729655+00:00",
+  "LastUpdate_Achievements": "2023-05-24T19:05:52.168079+00:00"
 }

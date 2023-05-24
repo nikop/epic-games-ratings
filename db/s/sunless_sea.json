@@ -643,9 +643,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 29825,
+  "EOS_Progressed": 29826,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 558,
+  "EOS_NewPlayers": 551,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -3848,6 +3848,11 @@
       "Time": "2023-05-24T18:00:18.7870548+00:00",
       "NumProgressed": 29825,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-24T19:01:20.1861536+00:00",
+      "NumProgressed": 29826,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 54,
@@ -4019,7 +4024,7 @@
       "Name": "Roaring Rise",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "ach_hunterskeep",
@@ -4035,7 +4040,7 @@
       "Name": "I am the Captain of my Soul",
       "Percentage": 2,
       "XP": 70,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "ach_ladylilac",
@@ -4211,7 +4216,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5368
+      "UsersEstimate": 5369
     },
     {
       "ID": "ach_terror100",
@@ -4290,15 +4295,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 29825,
+      "Progressed": 29826,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-05-16T03:00:31.6712899+00:00",
-  "LastChanged_Achievements": "2023-05-24T18:00:18.7870544+00:00",
+  "LastChanged_Achievements": "2023-05-24T19:01:20.1861524+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:16.1571391+00:00",
-  "LastUpdate_Ratings": "2023-05-24T17:59:01.1154639+00:00",
-  "LastUpdate_Achievements": "2023-05-24T18:00:18.7871352+00:00"
+  "LastUpdate_Ratings": "2023-05-24T18:59:40.2191354+00:00",
+  "LastUpdate_Achievements": "2023-05-24T19:01:20.1862731+00:00"
 }
