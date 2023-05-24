@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 243492,
+  "EOS_Progressed": 243493,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 358,
+  "EOS_NewPlayers": 356,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3104,6 +3104,11 @@
       "Time": "2023-05-24T13:12:00.7740961+00:00",
       "NumProgressed": 243492,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-24T14:05:53.0854028+00:00",
+      "NumProgressed": 243493,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 46,
@@ -3139,7 +3144,7 @@
       "Name": "Be Aggressive",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 48698
+      "UsersEstimate": 48699
     },
     {
       "ID": "blotbuster",
@@ -3219,7 +3224,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 48698
+      "UsersEstimate": 48699
     },
     {
       "ID": "didYourTime",
@@ -3307,7 +3312,7 @@
       "Name": "Into The Drift",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17044
+      "UsersEstimate": 17045
     },
     {
       "ID": "itsTheFall",
@@ -3387,7 +3392,7 @@
       "Name": "Ready? Fight!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17044
+      "UsersEstimate": 17045
     },
     {
       "ID": "rideTheWave",
@@ -3419,7 +3424,7 @@
       "Name": "The Stunner",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 51133
+      "UsersEstimate": 51134
     },
     {
       "ID": "thunderstruck",
@@ -3482,7 +3487,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 243492,
+      "Progressed": 243493,
       "Completed": 2
     }
   ],
@@ -3490,8 +3495,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-05-24T13:12:00.7740956+00:00",
+  "LastChanged_Achievements": "2023-05-24T14:05:53.0854023+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:26.6901793+00:00",
-  "LastUpdate_Ratings": "2023-05-24T13:05:18.0728944+00:00",
-  "LastUpdate_Achievements": "2023-05-24T13:12:00.77415+00:00"
+  "LastUpdate_Ratings": "2023-05-24T13:59:08.2304551+00:00",
+  "LastUpdate_Achievements": "2023-05-24T14:05:53.0854601+00:00"
 }

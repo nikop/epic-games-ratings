@@ -3898,9 +3898,9 @@
       "Count": 3238
     }
   ],
-  "EOS_Progressed": 88476,
+  "EOS_Progressed": 88481,
   "EOS_Completed": 1873,
-  "EOS_NewPlayers": 711,
+  "EOS_NewPlayers": 713,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 2.12,
   "EosHistory": [
@@ -7187,6 +7187,11 @@
     {
       "Time": "2023-05-24T13:12:26.1461182+00:00",
       "NumProgressed": 88476,
+      "NumCompleted": 1873
+    },
+    {
+      "Time": "2023-05-24T14:06:15.5307799+00:00",
+      "NumProgressed": 88481,
       "NumCompleted": 1873
     }
   ],
@@ -11111,7 +11116,7 @@
       "Name": "The Court of Storms",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "objective_completed_1356",
@@ -11142,21 +11147,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54750,
-      "Completed": 2688
+      "Progressed": 54755,
+      "Completed": 2689
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88476,
+      "Progressed": 88481,
       "Completed": 1873
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-23T16:58:40.8239248+00:00",
-  "LastChanged_Achievements": "2023-05-24T13:12:26.1461177+00:00",
+  "LastChanged_Achievements": "2023-05-24T14:06:15.5307796+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-24T13:04:10.228813+00:00",
-  "LastUpdate_Achievements": "2023-05-24T13:12:26.1484994+00:00"
+  "LastUpdate_Ratings": "2023-05-24T13:58:12.4552068+00:00",
+  "LastUpdate_Achievements": "2023-05-24T14:06:15.5331631+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "railway-empire-2-46840c",
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 12,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -495,9 +495,9 @@
       "ID": "A52",
       "SetID": "9b7p7eo",
       "Name": "Socializer",
-      "Percentage": 42,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "A53",
@@ -525,8 +525,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged_Achievements": "2023-05-24T13:12:03.4659708+00:00",
+  "LastChanged_Achievements": "2023-05-24T14:05:55.9952047+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:39.7708852+00:00",
-  "LastUpdate_Ratings": "2023-05-24T13:04:11.5290861+00:00",
-  "LastUpdate_Achievements": "2023-05-24T13:12:03.466019+00:00"
+  "LastUpdate_Ratings": "2023-05-24T13:58:13.4668153+00:00",
+  "LastUpdate_Achievements": "2023-05-24T14:05:55.995255+00:00"
 }

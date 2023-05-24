@@ -7,21 +7,21 @@ Number of Ratings: 368  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 42.00% | ~5,316 |
-| Man of politics | 36.00% | ~4,556 |
+| Man of politics | 36.00% | ~4,557 |
+| Friends of sorts | 35.00% | ~4,430 |
 | Yet another secret | 35.00% | ~4,430 |
-| Friends of sorts | 34.00% | ~4,303 |
-| Let there be darkness | 33.00% | ~4,176 |
-| End of Book One | 31.00% | ~3,923 |
+| Let there be darkness | 33.00% | ~4,177 |
+| End of Book One | 31.00% | ~3,924 |
 | Wannabe knight | 25.00% | ~3,164 |
 | Garden of Eden | 25.00% | ~3,164 |
 | Full house | 25.00% | ~3,164 |
-| Help an old friend | 22.00% | ~2,784 |
+| Help an old friend | 22.00% | ~2,785 |
 | Two of us | 20.00% | ~2,531 |
 | Negotiation skills | 19.00% | ~2,405 |
 | Workers' union | 19.00% | ~2,405 |
 | End of Book Two | 18.00% | ~2,278 |
 | Everything's in order | 17.00% | ~2,152 |
-| Jack was here! | 15.00% | ~1,898 |
+| Jack was here! | 15.00% | ~1,899 |
 | Twist of Fate | 14.00% | ~1,772 |
 | Exterminator | 14.00% | ~1,772 |
 | Whodunnit | 13.00% | ~1,645 |
@@ -35,7 +35,7 @@ Number of Ratings: 368  (23.09.2022)
 | The oath | 9.00% | ~1,139 |
 | The truth revealed | 9.00% | ~1,139 |
 | The End. | 9.00% | ~1,139 |
-| A cry for help | 8.00% | ~1,012 |
+| A cry for help | 8.00% | ~1,013 |
 | Silentium est aureum | 7.00% | ~886 |
 | Rebel without a cause | 6.00% | ~759 |
 | Staring contest champion | 5.00% | ~633 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~380 |
 | Boy of mystery | 2.00% | ~253 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,656 (Ranked 103)  
+Progressed: 12,657 (Ranked 103)  
 Completed: 94 (0.74%) (Ranked 97)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 94 (0.74%) (Ranked 97)
 | 2023-05-21 | 12,600 | 94 |
 | 2023-05-22 | 12,626 | 94 |
 | 2023-05-23 | 12,650 | 94 |
-| 2023-05-24 | 12,656 | 94 |
+| 2023-05-24 | 12,657 | 94 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 287)  
 Sum: 187 (Ranked 355)  

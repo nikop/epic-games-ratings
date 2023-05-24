@@ -428,9 +428,9 @@
       "ID": "Ach_LavaDeath",
       "SetID": "4o5gjp0",
       "Name": "Splash!",
-      "Percentage": 58,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Ach_OptionalDialogRead",
@@ -499,8 +499,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-05-24T13:11:42.3996142+00:00",
+  "LastChanged_Achievements": "2023-05-24T14:05:37.0557905+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.0525193+00:00",
-  "LastUpdate_Ratings": "2023-05-24T13:04:03.2055932+00:00",
-  "LastUpdate_Achievements": "2023-05-24T13:11:42.3996399+00:00"
+  "LastUpdate_Ratings": "2023-05-24T13:58:06.6362735+00:00",
+  "LastUpdate_Achievements": "2023-05-24T14:05:37.0558167+00:00"
 }

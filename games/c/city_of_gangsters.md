@@ -5,42 +5,42 @@ Rating: 4.25 (Ranked 784)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~145,077 |
-| Copacetic Coordination | 16.00% | ~50,461 |
-| Fronting the Money | 14.00% | ~44,154 |
-| The Dawn of Automation | 14.00% | ~44,154 |
-| Extraordinary Logistics | 14.00% | ~44,154 |
-| Dirty Money | 13.00% | ~41,000 |
-| Family First | 13.00% | ~41,000 |
-| Cleaning House | 12.00% | ~37,846 |
-| Room in the Back | 12.00% | ~37,846 |
-| Booze Baron | 11.00% | ~34,692 |
-| Beating the Heat | 10.00% | ~31,538 |
-| Friends on the Force | 10.00% | ~31,538 |
-| Neighborhood Watch | 10.00% | ~31,538 |
-| Core Corps | 8.00% | ~25,231 |
-| Sizeable Stash | 7.00% | ~22,077 |
-| Street Fighter | 7.00% | ~22,077 |
-| Friendly Gestures | 7.00% | ~22,077 |
-| People Person | 7.00% | ~22,077 |
-| Liquor Lord | 6.00% | ~18,923 |
-| Show ‘em the Sugar | 6.00% | ~18,923 |
-| Street Knowledge | 5.00% | ~15,769 |
-| Oh Captain | 5.00% | ~15,769 |
-| Branching Out | 5.00% | ~15,769 |
-| Improvement Missions | 5.00% | ~15,769 |
-| Opportunity Knocked | 5.00% | ~15,769 |
-| City of Big Shoulders | 5.00% | ~15,769 |
-| Safety in Numbers | 5.00% | ~15,769 |
-| Moving Experiences | 5.00% | ~15,769 |
-| Mission Mastery | 5.00% | ~15,769 |
-| Wise Head | 5.00% | ~15,769 |
-| Killing Them Softly | 5.00% | ~15,769 |
-| Considerable Clams | 4.00% | ~12,615 |
-| Gin Joint | 4.00% | ~12,615 |
-| An Affront to the Enemy | 4.00% | ~12,615 |
-| Friends from Back Home | 4.00% | ~12,615 |
-| Half Century Mark | 4.00% | ~12,615 |
+| Corner Clout | 46.00% | ~145,084 |
+| Copacetic Coordination | 16.00% | ~50,464 |
+| Fronting the Money | 14.00% | ~44,156 |
+| The Dawn of Automation | 14.00% | ~44,156 |
+| Extraordinary Logistics | 14.00% | ~44,156 |
+| Dirty Money | 13.00% | ~41,002 |
+| Family First | 13.00% | ~41,002 |
+| Cleaning House | 12.00% | ~37,848 |
+| Room in the Back | 12.00% | ~37,848 |
+| Booze Baron | 11.00% | ~34,694 |
+| Beating the Heat | 10.00% | ~31,540 |
+| Friends on the Force | 10.00% | ~31,540 |
+| Neighborhood Watch | 10.00% | ~31,540 |
+| Core Corps | 8.00% | ~25,232 |
+| Sizeable Stash | 7.00% | ~22,078 |
+| Street Fighter | 7.00% | ~22,078 |
+| Friendly Gestures | 7.00% | ~22,078 |
+| People Person | 7.00% | ~22,078 |
+| Liquor Lord | 6.00% | ~18,924 |
+| Show ‘em the Sugar | 6.00% | ~18,924 |
+| Street Knowledge | 5.00% | ~15,770 |
+| Oh Captain | 5.00% | ~15,770 |
+| Branching Out | 5.00% | ~15,770 |
+| Improvement Missions | 5.00% | ~15,770 |
+| Opportunity Knocked | 5.00% | ~15,770 |
+| City of Big Shoulders | 5.00% | ~15,770 |
+| Safety in Numbers | 5.00% | ~15,770 |
+| Moving Experiences | 5.00% | ~15,770 |
+| Mission Mastery | 5.00% | ~15,770 |
+| Wise Head | 5.00% | ~15,770 |
+| Killing Them Softly | 5.00% | ~15,770 |
+| Considerable Clams | 4.00% | ~12,616 |
+| Gin Joint | 4.00% | ~12,616 |
+| An Affront to the Enemy | 4.00% | ~12,616 |
+| Friends from Back Home | 4.00% | ~12,616 |
+| Half Century Mark | 4.00% | ~12,616 |
 | Corner Opportunities | 3.00% | ~9,462 |
 | 2122 North Clark Street | 3.00% | ~9,462 |
 | Copious Cabbage | 3.00% | ~9,462 |
@@ -59,8 +59,8 @@ Rating: 4.25 (Ranked 784)
 | Full House | 1.00% | ~3,154 |
 | The Rubber Meets the Road | 1.00% | ~3,154 |
 | Cat’s Meow Clubs | 1.00% | ~3,154 |
-| Determined Deliveries | 0.90% | ~2,838 |
-| Stepping It Up | 0.90% | ~2,838 |
+| Determined Deliveries | 0.90% | ~2,839 |
+| Stepping It Up | 0.90% | ~2,839 |
 | Crossing Over | 0.80% | ~2,523 |
 | Boots in the Ground | 0.70% | ~2,208 |
 | Getting Fancy | 0.70% | ~2,208 |
@@ -86,7 +86,7 @@ Rating: 4.25 (Ranked 784)
 | High Pillow | 0.10% | ~315 |
 | Station Master | 0.10% | ~315 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 315,384 (Ranked 37)  
+Progressed: 315,401 (Ranked 37)  
 Completed: 3 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 3 (0.00%) (Ranked 202)
 | 2023-05-21 | 314,686 | 3 |
 | 2023-05-22 | 314,987 | 3 |
 | 2023-05-23 | 315,245 | 3 |
-| 2023-05-24 | 315,384 | 3 |
+| 2023-05-24 | 315,401 | 3 |
 ## Awards
 Max (Highly Recommended): 24  (Ranked 465)  
 Sum: 87 (Ranked 406)  

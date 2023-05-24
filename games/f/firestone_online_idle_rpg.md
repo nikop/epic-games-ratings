@@ -35,8 +35,8 @@ Rating: 3.87 (Ranked 906)
 | The power of Awakening | 6.00% | ~69 |
 | Frostfire Liberator | 5.00% | ~58 |
 | Mastery | 5.00% | ~58 |
+| Moving Up The Ladder | 5.00% | ~58 |
 | Here We Go Again | 4.00% | ~46 |
-| Moving Up The Ladder | 4.00% | ~46 |
 | The Expeditioner | 4.00% | ~46 |
 | Ancient Knowledge | 3.00% | ~35 |
 | Background Story | 3.00% | ~35 |

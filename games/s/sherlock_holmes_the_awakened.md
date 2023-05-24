@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 69.00% | ~152 |
 | Read Between The Lines | 65.00% | ~143 |
-| High Profile | 60.00% | ~132 |
+| High Profile | 61.00% | ~134 |
 | Whispers In The Dark | 57.00% | ~125 |
 | Fond Memories | 50.00% | ~110 |
 | History Check | 48.00% | ~106 |
@@ -19,9 +19,9 @@
 | Knives Out | 44.00% | ~97 |
 | Back In The Saddle | 43.00% | ~95 |
 | Land, Ho! | 43.00% | ~95 |
-| No Man Is An Island | 41.00% | ~90 |
+| No Man Is An Island | 42.00% | ~92 |
 | At Wits' End | 39.00% | ~86 |
-| Bookworm | 37.00% | ~81 |
+| Bookworm | 38.00% | ~84 |
 | Fhtagn! | 36.00% | ~79 |
 | Up In Flames | 35.00% | ~77 |
 | Going Once... | 34.00% | ~75 |

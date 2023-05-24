@@ -586,9 +586,9 @@
       "ID": "MISC_DISCOVERALLPREY",
       "SetID": "ccc0dlh",
       "Name": "Predator",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 39
     },
     {
       "ID": "MISC_ENDING_PROPER",
@@ -712,8 +712,8 @@
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-05-18T00:00:29.519029+00:00",
-  "LastChanged_Achievements": "2023-05-24T13:12:18.9213528+00:00",
+  "LastChanged_Achievements": "2023-05-24T14:06:09.2901725+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:40.5662436+00:00",
-  "LastUpdate_Ratings": "2023-05-24T13:06:37.3084304+00:00",
-  "LastUpdate_Achievements": "2023-05-24T13:12:18.9213878+00:00"
+  "LastUpdate_Ratings": "2023-05-24T14:00:13.9830476+00:00",
+  "LastUpdate_Achievements": "2023-05-24T14:06:09.2902065+00:00"
 }

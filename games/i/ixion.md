@@ -42,8 +42,8 @@ Rating: 4.55 (Ranked 466)
 | You Had One Job... | 0.50% | ~11 |
 | What the Ruins Teach Us | 0.50% | ~11 |
 | Praise the Hull! | 0.40% | ~8 |
+| Space Greenhouse | 0.40% | ~8 |
 | Mutual Loyalty | 0.30% | ~6 |
-| Space Greenhouse | 0.30% | ~6 |
 | Help of the Forgotten Member | 0.30% | ~6 |
 | Better Him Than Me | 0.20% | ~4 |
 | Catastrophe Avoided | 0.20% | ~4 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 466)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,122 (Ranked 142)  
+Progressed: 2,122 (Ranked 143)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |

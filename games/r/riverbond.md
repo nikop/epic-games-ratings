@@ -6,28 +6,28 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~362,100 |
-| Now You're Talking | 62.00% | ~320,717 |
-| Steel Yourself | 62.00% | ~320,717 |
-| Window Dressing | 50.00% | ~258,642 |
-| Trigger Happy | 46.00% | ~237,951 |
-| Riverborn | 45.00% | ~232,778 |
-| Starry Eyed | 34.00% | ~175,877 |
-| Poking Around | 34.00% | ~175,877 |
-| Talk of the Town | 24.00% | ~124,148 |
+| First Step | 70.00% | ~362,101 |
+| Now You're Talking | 62.00% | ~320,718 |
+| Steel Yourself | 62.00% | ~320,718 |
+| Window Dressing | 50.00% | ~258,644 |
+| Trigger Happy | 46.00% | ~237,952 |
+| Riverborn | 45.00% | ~232,779 |
+| Starry Eyed | 34.00% | ~175,878 |
+| Poking Around | 34.00% | ~175,878 |
+| Talk of the Town | 24.00% | ~124,149 |
 | AAARR! | 23.00% | ~118,976 |
 | Hello Darkness | 23.00% | ~118,976 |
 | Wind At Our Backs | 22.00% | ~113,803 |
 | To the Beat | 20.00% | ~103,457 |
-| Sunny Shores | 17.00% | ~87,938 |
+| Sunny Shores | 17.00% | ~87,939 |
 | To Victory! | 15.00% | ~77,593 |
 | Sunday Best | 15.00% | ~77,593 |
 | Two of a Kind | 14.00% | ~72,420 |
 | Keep On Trucking | 13.00% | ~67,247 |
-| Going on an Adventure | 11.00% | ~56,901 |
-| Make Peace, Not War | 11.00% | ~56,901 |
-| Walking The Line | 10.00% | ~51,728 |
-| Not So Cute Anymore | 10.00% | ~51,728 |
+| Going on an Adventure | 11.00% | ~56,902 |
+| Make Peace, Not War | 11.00% | ~56,902 |
+| Walking The Line | 10.00% | ~51,729 |
+| Not So Cute Anymore | 10.00% | ~51,729 |
 | Road Less Travelled | 9.00% | ~46,556 |
 | Lost and Found | 9.00% | ~46,556 |
 | Partner in Crime | 7.00% | ~36,210 |
@@ -64,8 +64,8 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,552 |
 | Point Taken | 0.10% | ~517 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 517,285 (Ranked 25)  
-Completed: 409 (0.08%) (Ranked 166)  
+Progressed: 517,287 (Ranked 25)  
+Completed: 410 (0.08%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -98,7 +98,7 @@ Completed: 409 (0.08%) (Ranked 166)
 | 2023-05-21 | 517,086 | 409 |
 | 2023-05-22 | 517,164 | 409 |
 | 2023-05-23 | 517,245 | 409 |
-| 2023-05-24 | 517,285 | 409 |
+| 2023-05-24 | 517,287 | 410 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

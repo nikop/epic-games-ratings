@@ -15,11 +15,11 @@
 | Way of Iron | 50.00% | ~6 |
 | All around the World | 50.00% | ~6 |
 | Travel Company | 50.00% | ~6 |
+| Socializer | 50.00% | ~6 |
 | From X to Y | 42.00% | ~5 |
 | Brainstorm | 42.00% | ~5 |
 | Producer | 42.00% | ~5 |
 | Mind the Gap | 42.00% | ~5 |
-| Socializer | 42.00% | ~5 |
 | Full Steam ahead | 33.00% | ~4 |
 | Facility Manager | 33.00% | ~4 |
 | Bold and beautiful | 33.00% | ~4 |

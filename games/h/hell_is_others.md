@@ -38,9 +38,9 @@ Rating: 4.45 (Ranked 605)
 | Committed Relationship | 0.80% | ~1,996 |
 | Number 1 | 0.70% | ~1,746 |
 | Interior designer | 0.60% | ~1,497 |
-| The Gamble | 0.50% | ~1,247 |
-| The Descent | 0.50% | ~1,247 |
-| A major purchase | 0.50% | ~1,247 |
+| The Gamble | 0.50% | ~1,248 |
+| The Descent | 0.50% | ~1,248 |
+| A major purchase | 0.50% | ~1,248 |
 | Expert Hunter | 0.40% | ~998 |
 | Fungi hunter | 0.40% | ~998 |
 | Arms dealer | 0.30% | ~748 |
@@ -50,19 +50,19 @@ Rating: 4.45 (Ranked 605)
 | Heartbreaker | 0.30% | ~748 |
 | Homerun | 0.20% | ~499 |
 | A season in Century City | 0.20% | ~499 |
-| Saver III | 0.10% | ~249 |
-| Collector | 0.10% | ~249 |
-| Mansion | 0.10% | ~249 |
-| Workhorse | 0.10% | ~249 |
-| Green thumb III | 0.10% | ~249 |
-| Plantation | 0.10% | ~249 |
-| Reminescence | 0.10% | ~249 |
-| Beloved | 0.10% | ~249 |
-| Capitalist II | 0.10% | ~249 |
-| Capitalist III | 0.10% | ~249 |
-| Hell Is You | 0.10% | ~249 |
+| Saver III | 0.10% | ~250 |
+| Collector | 0.10% | ~250 |
+| Mansion | 0.10% | ~250 |
+| Workhorse | 0.10% | ~250 |
+| Green thumb III | 0.10% | ~250 |
+| Plantation | 0.10% | ~250 |
+| Reminescence | 0.10% | ~250 |
+| Beloved | 0.10% | ~250 |
+| Capitalist II | 0.10% | ~250 |
+| Capitalist III | 0.10% | ~250 |
+| Hell Is You | 0.10% | ~250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,499 (Ranked 39)  
+Progressed: 249,500 (Ranked 39)  
 Completed: 1 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 1 (0.00%) (Ranked 202)
 | 2023-05-21 | 249,345 | 1 |
 | 2023-05-22 | 249,421 | 1 |
 | 2023-05-23 | 249,481 | 1 |
-| 2023-05-24 | 249,499 | 1 |
+| 2023-05-24 | 249,500 | 1 |
 ## Awards
 Max (Great for Quick Sessions): 23  (Ranked 470)  
 Sum: 43 (Ranked 441)  

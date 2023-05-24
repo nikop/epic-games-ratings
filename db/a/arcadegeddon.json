@@ -721,9 +721,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 6665,
+  "EOS_Progressed": 6666,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2551,6 +2551,11 @@
       "Time": "2023-05-24T13:09:30.3646773+00:00",
       "NumProgressed": 6665,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T14:03:41.599611+00:00",
+      "NumProgressed": 6666,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -2562,7 +2567,7 @@
       "Name": "Adventure Time",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 5332
+      "UsersEstimate": 5333
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -2658,7 +2663,7 @@
       "Name": "Guardian Angel",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2199
+      "UsersEstimate": 2200
     },
     {
       "ID": "ACH_GUNPLAY_AND_COSPLAY",
@@ -2674,7 +2679,7 @@
       "Name": "Hacks In Stacks",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3599
+      "UsersEstimate": 3600
     },
     {
       "ID": "ACH_HERE_COMES_A_NEW_CHALLENGER",
@@ -2706,7 +2711,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 6065
+      "UsersEstimate": 6066
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -2730,7 +2735,7 @@
       "Name": "Meching Enemies",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 3199
+      "UsersEstimate": 3200
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -2762,7 +2767,7 @@
       "Name": "Photogenic",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 5865
+      "UsersEstimate": 5866
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -2770,7 +2775,7 @@
       "Name": "Playing With Power",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 5132
+      "UsersEstimate": 5133
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -2802,7 +2807,7 @@
       "Name": "Rapid Response",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2199
+      "UsersEstimate": 2200
     },
     {
       "ID": "ACH_RESCUE_RANGER",
@@ -2818,7 +2823,7 @@
       "Name": "Seasoned Adventurer",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "ACH_SHIELD_AND_SHRED",
@@ -2856,9 +2861,9 @@
       "ID": "ACH_SURGE_AHEAD",
       "SetID": "97mcd7i",
       "Name": "Surge Ahead",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 2066
+      "UsersEstimate": 2000
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_JOCKEY",
@@ -2866,7 +2871,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 5665
+      "UsersEstimate": 5666
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -2961,15 +2966,15 @@
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 6665,
+      "Progressed": 6666,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-05-16T22:57:55.9778153+00:00",
-  "LastChanged_Achievements": "2023-05-24T13:09:30.3646768+00:00",
+  "LastChanged_Achievements": "2023-05-24T14:03:41.5996105+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:52.1541187+00:00",
-  "LastUpdate_Ratings": "2023-05-24T13:04:25.8502727+00:00",
-  "LastUpdate_Achievements": "2023-05-24T13:09:30.3647305+00:00"
+  "LastUpdate_Ratings": "2023-05-24T13:58:25.3897635+00:00",
+  "LastUpdate_Achievements": "2023-05-24T14:03:41.5996753+00:00"
 }

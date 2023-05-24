@@ -6,22 +6,22 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 21.00% | ~9,861 |
+| Follow the Light | 21.00% | ~9,862 |
 | Let There Be Light | 17.00% | ~7,983 |
-| Float Like a Butterfly | 16.00% | ~7,513 |
-| Nordic Walking | 13.00% | ~6,104 |
-| Bright Falls' Finest | 13.00% | ~6,104 |
+| Float Like a Butterfly | 16.00% | ~7,514 |
+| Nordic Walking | 13.00% | ~6,105 |
+| Bright Falls' Finest | 13.00% | ~6,105 |
 | Under a Thin Layer of Skin | 12.00% | ~5,635 |
 | Park Ranger | 10.00% | ~4,696 |
 | Paging Mr. Wake | 10.00% | ~4,696 |
 | Back! Back, I Say! | 9.00% | ~4,226 |
 | Finders Keepers | 9.00% | ~4,226 |
-| Wheels Within Wheels | 8.00% | ~3,756 |
-| They're Heeeeeere! | 8.00% | ~3,756 |
-| The Six-Gun Scribe | 8.00% | ~3,756 |
-| Sound and Fury | 8.00% | ~3,756 |
-| Missed by a Mile | 8.00% | ~3,756 |
-| Damn Good Cup of Coffee | 8.00% | ~3,756 |
+| Wheels Within Wheels | 8.00% | ~3,757 |
+| They're Heeeeeere! | 8.00% | ~3,757 |
+| The Six-Gun Scribe | 8.00% | ~3,757 |
+| Sound and Fury | 8.00% | ~3,757 |
+| Missed by a Mile | 8.00% | ~3,757 |
+| Damn Good Cup of Coffee | 8.00% | ~3,757 |
 | A Friend in Need | 8.00% | ~834 |
 | Heavy Metal | 7.00% | ~3,287 |
 | Iron Horse | 7.00% | ~3,287 |
@@ -30,12 +30,12 @@ Number of Ratings: 524  (23.09.2022)
 | Thunder and Lightning | 7.00% | ~3,287 |
 | Collateral Carnage | 7.00% | ~3,287 |
 | Come One, Come All | 7.00% | ~3,287 |
-| Gatekeeper | 6.00% | ~2,817 |
-| The Lady of the Light | 6.00% | ~2,817 |
-| Two For the Price of One | 6.00% | ~2,817 |
-| Energized! | 6.00% | ~2,817 |
-| Right of Way | 6.00% | ~2,817 |
-| A Friend Indeed | 6.00% | ~625 |
+| Gatekeeper | 6.00% | ~2,818 |
+| The Lady of the Light | 6.00% | ~2,818 |
+| Two For the Price of One | 6.00% | ~2,818 |
+| Energized! | 6.00% | ~2,818 |
+| Right of Way | 6.00% | ~2,818 |
+| A Friend Indeed | 6.00% | ~626 |
 | Tornado Wrangler | 5.00% | ~2,348 |
 | What Light Through Yonder Window | 5.00% | ~2,348 |
 | Ding! | 5.00% | ~521 |
@@ -49,7 +49,7 @@ Number of Ratings: 524  (23.09.2022)
 | Kill Your Darlings | 3.00% | ~313 |
 | Heartbreaker | 3.00% | ~313 |
 | Carny | 2.00% | ~939 |
-| Iron Will | 2.00% | ~208 |
+| Iron Will | 2.00% | ~209 |
 | Medical Opinions | 1.00% | ~470 |
 | Taken Season | 1.00% | ~470 |
 | An Idyllic Small Town | 1.00% | ~470 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~47 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,956 (Ranked 76)  
+Progressed: 46,960 (Ranked 76)  
 Completed: 46 (0.10%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 46 (0.10%) (Ranked 158)
 | 2023-05-21 | 46,674 | 45 |
 | 2023-05-22 | 46,794 | 45 |
 | 2023-05-23 | 46,896 | 45 |
-| 2023-05-24 | 46,956 | 46 |
+| 2023-05-24 | 46,960 | 46 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

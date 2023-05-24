@@ -6,8 +6,8 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~571 |
-| Project Arena | 3.00% | ~428 |
+| Diligence as a goal | 4.00% | ~572 |
+| Project Arena | 3.00% | ~429 |
 | Bloody Sport | 1.00% | ~143 |
 | The best strikes are the ones we avoid | 1.00% | ~143 |
 | The Assault | 0.90% | ~6,345 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~705 |
 | Warriors from the Mountain | 0.10% | ~705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,966 (Ranked 15)  
+Progressed: 704,989 (Ranked 15)  
 Completed: 12,734 (1.81%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,10 +91,10 @@ Completed: 12,734 (1.81%) (Ranked 64)
 | 2023-05-21 | 704,407 | 12,733 |
 | 2023-05-22 | 704,647 | 12,733 |
 | 2023-05-23 | 704,864 | 12,733 |
-| 2023-05-24 | 704,966 | 12,734 |
+| 2023-05-24 | 704,989 | 12,734 |
 ## Awards
 Max (Great Boss Battles): 6,089  (Ranked 53)  
-Sum: 10,366 (Ranked 77)  
+Sum: 10,368 (Ranked 77)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
@@ -104,8 +104,8 @@ Diff (max vs sum): -24
 | This game has Quickly Understood Controls | 504 |
 | This game is Extremely Fun | 500 |
 | This game has Amazing Storytelling | 492 |
+| This game has Amazing Characters | 478 |
 | This game is Highly Recommended | 477 |
-| This game has Amazing Characters | 476 |
 | This game has Unique Visuals | 455 |
 | This game is Relaxing | 401 |
 | This game has a Creative Community | 348 |
@@ -240,4 +240,4 @@ Diff (max vs sum): -24
 | 2023-05-20 | 4.82 | - | 6,078 | 10,342 |
 | 2023-05-21 | 4.82 | - | 6,082 | 10,350 |
 | 2023-05-22 | 4.82 | - | 6,084 | 10,355 |
-| 2023-05-24 | 4.82 | - | 6,089 | 10,366 |
+| 2023-05-24 | 4.82 | - | 6,089 | 10,368 |

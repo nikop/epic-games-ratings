@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,850 |
-| That's a Grand Army | 8.00% | ~3,423 |
-| That is mine! | 8.00% | ~3,423 |
-| Victorious! | 8.00% | ~3,423 |
-| Brothers in Arms | 6.00% | ~2,567 |
-| That's a Grand Navy | 6.00% | ~2,567 |
-| Seriously?! | 6.00% | ~2,567 |
-| For the Glory | 5.00% | ~2,139 |
-| Cold War | 4.00% | ~1,711 |
-| True Catholic | 4.00% | ~1,711 |
-| Defender of the Faith | 3.00% | ~1,283 |
-| It's all about the money | 3.00% | ~1,283 |
-| Respected | 3.00% | ~1,283 |
-| Truly Divine Ruler | 3.00% | ~1,283 |
+| Until death do us apart | 9.00% | ~3,854 |
+| That's a Grand Army | 8.00% | ~3,426 |
+| That is mine! | 8.00% | ~3,426 |
+| Victorious! | 8.00% | ~3,426 |
+| Brothers in Arms | 6.00% | ~2,569 |
+| That's a Grand Navy | 6.00% | ~2,569 |
+| Seriously?! | 6.00% | ~2,569 |
+| For the Glory | 5.00% | ~2,141 |
+| Cold War | 4.00% | ~1,713 |
+| True Catholic | 4.00% | ~1,713 |
+| Defender of the Faith | 3.00% | ~1,285 |
+| It's all about the money | 3.00% | ~1,285 |
+| Respected | 3.00% | ~1,285 |
+| Truly Divine Ruler | 3.00% | ~1,285 |
 | Blockader | 2.00% | ~856 |
 | Combined Arms | 2.00% | ~856 |
 | Double the Love | 2.00% | ~856 |
@@ -38,12 +38,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 1.00% | ~428 |
 | My armies are invincible! | 1.00% | ~428 |
 | The Five Colonies | 0.90% | ~385 |
-| The Emperors new clothes | 0.80% | ~342 |
-| Isn't this the way to India? | 0.80% | ~342 |
-| Market Control | 0.80% | ~342 |
-| This navy can take it all | 0.80% | ~342 |
-| Down Under | 0.70% | ~299 |
-| Trustworthy | 0.70% | ~299 |
+| The Emperors new clothes | 0.80% | ~343 |
+| Isn't this the way to India? | 0.80% | ~343 |
+| Market Control | 0.80% | ~343 |
+| This navy can take it all | 0.80% | ~343 |
+| Down Under | 0.70% | ~300 |
+| Trustworthy | 0.70% | ~300 |
 | Electable! | 0.60% | ~257 |
 | Time Bandit | 0.60% | ~257 |
 | All belongs to Mother Russia | 0.50% | ~214 |
@@ -72,7 +72,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Just a Little Patience | 0.30% | ~128 |
 | Multiculturalism | 0.30% | ~128 |
 | No Pirates in my Caribbean | 0.30% | ~128 |
-| Not so sad a state... | 0.30% | ~128 |
 | One Night in Paris | 0.30% | ~128 |
 | Tear Down This Wall | 0.30% | ~128 |
 | The Chrysanthemum Throne | 0.30% | ~128 |
@@ -87,6 +86,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Imperio español | 0.20% | ~86 |
 | Industrial Powerhouse | 0.20% | ~86 |
 | Magellan’s Voyage | 0.20% | ~86 |
+| Not so sad a state... | 0.20% | ~86 |
 | Vasa or Wettin? | 0.20% | ~86 |
 | We bled for this | 0.20% | ~86 |
 | World Discoverer | 0.20% | ~86 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,783 (Ranked 79)  
+Progressed: 42,821 (Ranked 79)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -395,7 +395,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-21 | 41,525 | 0 |
 | 2023-05-22 | 42,079 | 0 |
 | 2023-05-23 | 42,594 | 0 |
-| 2023-05-24 | 42,783 | 0 |
+| 2023-05-24 | 42,821 | 0 |
 ## Awards
 Max (Educational): 5,277  (Ranked 60)  
 Sum: 43,701 (Ranked 27)  

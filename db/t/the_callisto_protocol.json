@@ -428,9 +428,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13479,
+  "EOS_Progressed": 13485,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 912,
+  "EOS_NewPlayers": 918,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1413,6 +1413,11 @@
       "Time": "2023-05-24T13:09:20.5559742+00:00",
       "NumProgressed": 13479,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-05-24T14:03:33.3146649+00:00",
+      "NumProgressed": 13485,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 40,
@@ -1638,9 +1643,9 @@
       "ID": "STORY_HANGAR",
       "SetID": "4hj6d86",
       "Name": "In the Pipe, Five by Five",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 81
     },
     {
       "ID": "STORY_MINETOWN",
@@ -1662,9 +1667,9 @@
       "ID": "STORY_SNOWCAT",
       "SetID": "4hj6d86",
       "Name": "Crash Site",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 81
     },
     {
       "ID": "STORY_TOWER",
@@ -1743,13 +1748,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13479,
+      "Progressed": 13485,
       "Completed": 52
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1405,
+      "Progressed": 1411,
       "Completed": 29
     }
   ],
@@ -1757,8 +1762,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-23T19:57:59.4143533+00:00",
-  "LastChanged_Achievements": "2023-05-24T13:09:20.5559737+00:00",
+  "LastChanged_Achievements": "2023-05-24T14:03:33.3146638+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-24T13:03:56.7346065+00:00",
-  "LastUpdate_Achievements": "2023-05-24T13:09:20.5560117+00:00"
+  "LastUpdate_Ratings": "2023-05-24T13:58:01.2894257+00:00",
+  "LastUpdate_Achievements": "2023-05-24T14:03:33.3147059+00:00"
 }

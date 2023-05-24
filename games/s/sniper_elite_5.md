@@ -1,21 +1,22 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.35 (Ranked 721)  
+Rating: 4.37 (Ranked 704)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 16.00% | ~212 |
-| Confirming Suspicions | 10.00% | ~133 |
+| Meeting Resistance | 16.00% | ~213 |
+| Confirming Suspicions | 11.00% | ~146 |
 | The Kraken Wakes | 7.00% | ~93 |
 | Enemy at the Gates | 5.00% | ~66 |
 | Lord of War | 5.00% | ~66 |
+| Resourceful | 5.00% | ~66 |
 | It's Starting to Crack | 5.00% | ~66 |
-| Resourceful | 4.00% | ~53 |
 | Change the Channel | 4.00% | ~53 |
 | Just a Flesh Wound | 3.00% | ~40 |
 | Organ Grinder | 3.00% | ~40 |
 | Explosive Efficiency | 3.00% | ~40 |
+| Taking it back | 3.00% | ~40 |
 | Opposing Force | 2.00% | ~27 |
 | Gunslinger | 2.00% | ~27 |
 | Sharpshooter | 2.00% | ~27 |
@@ -23,7 +24,6 @@ Rating: 4.35 (Ranked 721)
 | As Quiet as a Mouse | 2.00% | ~27 |
 | Close Quarters | 2.00% | ~27 |
 | Snake in the Grass | 2.00% | ~27 |
-| Taking it back | 2.00% | ~27 |
 | Target America | 2.00% | ~27 |
 | Liberté | 1.00% | ~13 |
 | Fields of Glory | 1.00% | ~13 |
@@ -40,11 +40,11 @@ Rating: 4.35 (Ranked 721)
 | My Little Friend | 0.50% | ~7 |
 | It'll Buff Right Out | 0.50% | ~7 |
 | Locomotion Commotion | 0.50% | ~7 |
+| Operation Foxley | 0.50% | ~6 |
 | Strategist | 0.40% | ~5 |
-| Operation Foxley | 0.40% | ~5 |
+| Herr Today, Gone Tomorrow | 0.40% | ~5 |
 | Ghost of Falaise | 0.40% | ~5 |
 | Shoot for the Moon | 0.30% | ~4 |
-| Herr Today, Gone Tomorrow | 0.30% | ~4 |
 | Last Resort | 0.30% | ~4 |
 | Siegebreaker | 0.30% | ~4 |
 | Sink or Swim | 0.30% | ~2 |
@@ -77,7 +77,7 @@ Rating: 4.35 (Ranked 721)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,328 (Ranked 157)  
+Progressed: 1,329 (Ranked 157)  
 Completed: 2 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 2 (0.15%) (Ranked 148)
 | 2023-05-21 | 1,126 | 2 |
 | 2023-05-22 | 1,233 | 2 |
 | 2023-05-23 | 1,294 | 2 |
-| 2023-05-24 | 1,328 | 2 |
+| 2023-05-24 | 1,329 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -142,3 +142,4 @@ Completed: 2 (0.15%) (Ranked 148)
 | 2023-05-21 | 4.40 | 0 | 0 |
 | 2023-05-22 | 4.34 | 0 | 0 |
 | 2023-05-23 | 4.35 | 0 | 0 |
+| 2023-05-24 | 4.37 | 0 | 0 |
