@@ -3,6 +3,7 @@
 | [Lost Station](games/c/c008c76e4c4946c7b9ad466bd02ad96c.md) | 2023-05-24 | 2023-05-24 |
 | [Skeletal Avengers](games/d/d2dcfb91f59d4880b8a5e6fe2aa64a7e.md) | 2023-05-24 | 2021-09-28 |
 | [Observation Particle Life 1](games/c/cf7613b267a042e9b06d5d527e8a5eb1.md) | 2023-05-24 | 2023-05-24 |
+| [Yodanji](games/c/cc91867fe9ed4055b45b10fe161771bb.md) | 2023-05-25 | 2017-12-06 |
 | [Tuk Tuk Race](games/t/tuk_tuk_race.md) | 2023-05-25 | 2023-05-25 |
 | [World of Contraptions](games/w/world_of_contraptions.md) | 2023-05-25 | 2022-03-24 |
 | [Puzzle Compound](games/d/dc0f95061f7746e3b4ad939bee60f1a3.md) | 2023-05-25 | 2023-05-25 |
@@ -35,7 +36,6 @@
 | [The Dark Tower](games/d/db076bd211d44eb6ae53d85f494af2b4.md) | 2023-05-31 | 2023-05-14 |
 | [To Hell With The Ugly](games/e/ee141714887d486a873a9a5a55fa4dfe.md) | 2023-05-31 | 2023-05-31 |
 | [Worlds War 1](games/w/worlds_war_1.md) | 2023-05-31 | 2023-05-31 |
-| [Yodanji](games/c/cc91867fe9ed4055b45b10fe161771bb.md) | 2023-05-31 | 2017-12-06 |
 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 2023-05-31 | 2023-05-31 |
 | [Barrett Foster - Chapter One](games/8/866ee32c061b4765b9c0ea3a72d2d17f.md) | 2023-06-01 | 2023-06-01 |
 | [The Unbeatable Path](games/t/the_unbeatable_path.md) | 2023-06-01 | 2023-04-06 |
