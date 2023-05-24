@@ -1,33 +1,33 @@
 # AER Memories of Old
 [Store](https://store.epicgames.com/en-US/p/aer-memories-of-old)  
 [View Rawdata](../../db/a/aer_memories_of_old.json)  
-Rating: 4.45 (Ranked 605)  
+Rating: 4.46 (Ranked 596)  
 Number of Ratings: 170  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~7,774 |
-| Mama? | 28.00% | ~2,864 |
+| Light at the end of the tunnel | 76.00% | ~7,776 |
+| Mama? | 28.00% | ~2,865 |
 | People's Haven | 19.00% | ~1,944 |
-| Cartographer | 18.00% | ~1,841 |
-| Knowledge for Power | 15.00% | ~1,534 |
-| Antlers of Stone | 15.00% | ~1,534 |
+| Cartographer | 18.00% | ~1,842 |
+| Knowledge for Power | 15.00% | ~1,535 |
+| Antlers of Stone | 15.00% | ~1,535 |
 | Gaze into the abyss | 14.00% | ~1,432 |
 | Mausoleum of Ice | 14.00% | ~1,432 |
 | Equilibrium | 13.00% | ~1,330 |
-| In the belly of the beast | 12.00% | ~1,227 |
-| Wings of Stone | 12.00% | ~1,227 |
+| In the belly of the beast | 12.00% | ~1,228 |
+| Wings of Stone | 12.00% | ~1,228 |
 | Condor condo | 11.00% | ~1,125 |
 | Memorial | 9.00% | ~921 |
 | An uninvited guest | 8.00% | ~818 |
-| Tails of Stone | 7.00% | ~716 |
 | Written in stone | 7.00% | ~716 |
 | Talk to all the spirit animals | 7.00% | ~716 |
 | Ripples on the surface | 6.00% | ~614 |
+| Tails of Stone | 6.00% | ~614 |
 | Baa from the past | 6.00% | ~614 |
-| Hide and Seek | 5.00% | ~511 |
+| Hide and Seek | 5.00% | ~512 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,229 (Ranked 106)  
+Progressed: 10,231 (Ranked 106)  
 Completed: 219 (2.14%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,7 +61,7 @@ Completed: 219 (2.14%) (Ranked 60)
 | 2023-05-21 | 10,001 | 216 |
 | 2023-05-22 | 10,097 | 217 |
 | 2023-05-23 | 10,167 | 217 |
-| 2023-05-24 | 10,229 | 219 |
+| 2023-05-24 | 10,231 | 219 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -133,3 +133,4 @@ Completed: 219 (2.14%) (Ranked 60)
 | 2023-04-01 | 4.47 | - | 0 | 0 |
 | 2023-04-06 | 4.46 | - | 0 | 0 |
 | 2023-05-04 | 4.45 | - | 0 | 0 |
+| 2023-05-24 | 4.46 | - | 0 | 0 |

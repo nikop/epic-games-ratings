@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabbage in the Baggage | 33.00% | ~8 |
-| Seven Days of Endless Adventure | 29.00% | ~7 |
-| Greengrocer | 29.00% | ~7 |
-| Masu-ter Angler | 17.00% | ~4 |
-| Go-Getter | 17.00% | ~4 |
-| Seven Days of Endless Adventure - Déjà Vu | 13.00% | ~3 |
-| Just Hoverin' Along | 13.00% | ~3 |
-| That Was a Snap! | 13.00% | ~3 |
-| It's Alive! | 13.00% | ~3 |
-| Farm Life! | 13.00% | ~3 |
-| Handyman Extraordinaire | 13.00% | ~3 |
-| River Cleaner | 13.00% | ~3 |
+| Cabbage in the Baggage | 32.00% | ~8 |
+| Seven Days of Endless Adventure | 28.00% | ~7 |
+| Greengrocer | 28.00% | ~7 |
+| Masu-ter Angler | 16.00% | ~4 |
+| Go-Getter | 16.00% | ~4 |
+| Seven Days of Endless Adventure - Déjà Vu | 12.00% | ~3 |
+| Just Hoverin' Along | 12.00% | ~3 |
+| That Was a Snap! | 12.00% | ~3 |
+| It's Alive! | 12.00% | ~3 |
+| Farm Life! | 12.00% | ~3 |
+| Handyman Extraordinaire | 12.00% | ~3 |
+| River Cleaner | 12.00% | ~3 |
 | A New Time | 8.00% | ~2 |
 | Beetle Savant | 8.00% | ~2 |
 | Cicada Connoisseur | 8.00% | ~2 |
@@ -51,7 +51,7 @@
 | Gumdum Robot, I Choose You! | 0.00% | ~0 |
 | Dinosaur Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24 (Ranked 314)  
+Progressed: 25 (Ranked 314)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,6 +59,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-04-25 | 22 | 0 |
 | 2023-05-07 | 23 | 0 |
 | 2023-05-19 | 24 | 0 |
+| 2023-05-24 | 25 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -16,6 +16,7 @@ Number of Ratings: 177  (23.09.2022)
 | Drunk and Disorderly: Stephanie | 0.50% | ~26 |
 | Caught in the Act | 0.40% | ~20 |
 | IRL Let's Player | 0.30% | ~15 |
+| Stephanie | 0.30% | ~15 |
 | Amy | 0.20% | ~10 |
 | Amy: Scavenger Hunt | 0.20% | ~10 |
 | I'll Be Back | 0.20% | ~10 |
@@ -26,11 +27,11 @@ Number of Ratings: 177  (23.09.2022)
 | Rachael | 0.20% | ~10 |
 | Smooth Operator: Ashley | 0.20% | ~10 |
 | Social Butterfly | 0.20% | ~10 |
-| Stephanie | 0.20% | ~10 |
 | The Muse: Madison | 0.20% | ~10 |
 | The Crush | 0.20% | ~10 |
 | The Magic Number | 0.20% | ~10 |
 | Vickie | 0.20% | ~10 |
+| Te Amo Lety | 0.20% | ~10 |
 | Against All Odds | 0.10% | ~5 |
 | Ashley | 0.10% | ~5 |
 | Benedict Brahrnold | 0.10% | ~5 |
@@ -62,11 +63,11 @@ Number of Ratings: 177  (23.09.2022)
 | Howz It Goin Dood | 0.10% | ~5 |
 | The Crush(es) | 0.10% | ~5 |
 | La Coochadora | 0.10% | ~5 |
+| Derezzed | 0.10% | ~5 |
 | The Elder Brahs | 0.10% | ~5 |
 | Simple Geometry | 0.10% | ~5 |
 | Good Ol' Days | 0.10% | ~5 |
 | Snapped | 0.10% | ~5 |
-| Te Amo Lety | 0.10% | ~5 |
 | Congrats, A Celebrity Hates You | 0.00% | ~0 |
 | D-Club Certified | 0.00% | ~0 |
 | Deck the Balls | 0.00% | ~0 |
@@ -74,9 +75,8 @@ Number of Ratings: 177  (23.09.2022)
 | Sucker Punch | 0.00% | ~0 |
 | That's a Nice Bush! | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
-| Derezzed | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,122 (Ranked 123)  
+Progressed: 5,123 (Ranked 123)  
 Completed: 2 (0.04%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 2 (0.04%) (Ranked 177)
 | 2023-05-21 | 5,068 | 2 |
 | 2023-05-22 | 5,084 | 2 |
 | 2023-05-23 | 5,104 | 2 |
-| 2023-05-24 | 5,122 | 2 |
+| 2023-05-24 | 5,123 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

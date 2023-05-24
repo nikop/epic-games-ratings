@@ -1055,11 +1055,17 @@
       "Rating": 4.66,
       "NumberOfAwards": 4668,
       "NumberOfAwardsMax": 550
+    },
+    {
+      "Time": "2023-05-24T21:58:47.4826612+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4669,
+      "NumberOfAwardsMax": 551
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4668,
-  "NumberOfAwardsMax": 550,
+  "NumberOfAwards": 4669,
+  "NumberOfAwardsMax": 551,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1096,7 +1102,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 550
+      "Count": 551
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1129,7 +1135,7 @@
       "Count": 242
     }
   ],
-  "EOS_Progressed": 170423,
+  "EOS_Progressed": 170429,
   "EOS_Completed": 45,
   "EOS_NewPlayers": 2121,
   "EOS_NewCompleters": 1,
@@ -4559,6 +4565,11 @@
       "Time": "2023-05-24T21:06:09.1546006+00:00",
       "NumProgressed": 170423,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-05-24T22:05:49.3853902+00:00",
+      "NumProgressed": 170429,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 44,
@@ -4610,7 +4621,7 @@
       "Name": "Disguised",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 10225
+      "UsersEstimate": 10226
     },
     {
       "ID": "FiveShadows",
@@ -4642,7 +4653,7 @@
       "Name": "Genin",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 17042
+      "UsersEstimate": 17043
     },
     {
       "ID": "HappyLittleAccidents",
@@ -4682,7 +4693,7 @@
       "Name": "It\u0027s raining men",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3408
+      "UsersEstimate": 3409
     },
     {
       "ID": "Jonin",
@@ -4690,7 +4701,7 @@
       "Name": "Jonin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 10225
+      "UsersEstimate": 10226
     },
     {
       "ID": "Mercyful",
@@ -4786,7 +4797,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 10225
+      "UsersEstimate": 10226
     },
     {
       "ID": "Rollin",
@@ -4794,7 +4805,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 10225
+      "UsersEstimate": 10226
     },
     {
       "ID": "StillRollin",
@@ -4850,7 +4861,7 @@
       "Name": "The Old Way",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3408
+      "UsersEstimate": 3409
     },
     {
       "ID": "Thorough",
@@ -4858,7 +4869,7 @@
       "Name": "Thorough",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 15338
+      "UsersEstimate": 15339
     },
     {
       "ID": "TimeParadox",
@@ -4906,7 +4917,7 @@
       "Name": "Winner Winner",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3408
+      "UsersEstimate": 3409
     },
     {
       "ID": "Yabu",
@@ -4921,15 +4932,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 170423,
+      "Progressed": 170429,
       "Completed": 45
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2023-05-22T11:58:35.5633479+00:00",
-  "LastChanged_Achievements": "2023-05-24T21:06:09.1545999+00:00",
+  "LastChanged": "2023-05-24T21:58:47.4826611+00:00",
+  "LastChanged_Achievements": "2023-05-24T22:05:49.3853895+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:16.147513+00:00",
-  "LastUpdate_Ratings": "2023-05-24T20:59:00.9637031+00:00",
-  "LastUpdate_Achievements": "2023-05-24T21:06:09.1546945+00:00"
+  "LastUpdate_Ratings": "2023-05-24T21:58:47.4826615+00:00",
+  "LastUpdate_Achievements": "2023-05-24T22:05:49.3854329+00:00"
 }

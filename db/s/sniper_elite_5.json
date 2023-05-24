@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1357,
+  "EOS_Progressed": 1360,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 629,
+  "EOS_NewPlayers": 632,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1285,6 +1285,11 @@
       "Time": "2023-05-24T21:05:56.4925241+00:00",
       "NumProgressed": 1357,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-24T22:05:37.2556854+00:00",
+      "NumProgressed": 1360,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1302,9 +1307,9 @@
       "ID": "REWARD_11_GAME_SUBTITLE",
       "SetID": "bm6el81",
       "Name": "Libert\u00E9",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 27
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -1376,7 +1381,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1464,7 +1469,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1504,7 +1509,7 @@
       "Name": "Lord of War",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -1566,9 +1571,9 @@
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
       "SetID": "bm6el81",
       "Name": "From Paris with Love",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "REWARD_43_X_FILES",
@@ -1582,9 +1587,9 @@
       "ID": "REWARD_44_FRIEND_OR_FOE",
       "SetID": "bm6el81",
       "Name": "Souvenir hunter",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_45_STONE_CARVING",
@@ -1598,9 +1603,9 @@
       "ID": "REWARD_48_WORKBENCH_USER",
       "SetID": "bm6el81",
       "Name": "Tinkerer",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
@@ -1608,7 +1613,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -1670,9 +1675,9 @@
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
       "SetID": "bm6el81",
       "Name": "Brains of the Operation",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -1863,13 +1868,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1308,
+      "Progressed": 1311,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1357,
+      "Progressed": 1360,
       "Completed": 2
     }
   ],
@@ -1877,8 +1882,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-24T14:00:16.736359+00:00",
-  "LastChanged_Achievements": "2023-05-24T21:05:56.4925233+00:00",
+  "LastChanged_Achievements": "2023-05-24T22:05:37.2556849+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-24T21:00:40.5779739+00:00",
-  "LastUpdate_Achievements": "2023-05-24T21:05:56.4926458+00:00"
+  "LastUpdate_Ratings": "2023-05-24T22:00:23.6384828+00:00",
+  "LastUpdate_Achievements": "2023-05-24T22:05:37.2557457+00:00"
 }

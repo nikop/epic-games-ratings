@@ -2,12 +2,12 @@
   "ID": "a334241ad093462d94f2ff8c84dc392a",
   "Name": "Prehistoric Kingdom",
   "ProductSlug": "prehistoric-kingdom",
-  "Ranking_Rating": 536,
+  "Ranking_Rating": 535,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-04-27T17:00:00+00:00",
@@ -368,8 +368,8 @@
   "FirstSeen": "2022-07-22T20:30:08.8557624+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:29.9430282+00:00",
   "LastChanged": "2023-05-22T04:58:18.5217366+00:00",
-  "LastChanged_Achievements": "2023-05-24T21:05:43.9838649+00:00",
+  "LastChanged_Achievements": "2023-05-24T22:05:24.4031346+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:52.5886614+00:00",
-  "LastUpdate_Ratings": "2023-05-24T20:58:21.4839968+00:00",
-  "LastUpdate_Achievements": "2023-05-24T21:05:43.9838891+00:00"
+  "LastUpdate_Ratings": "2023-05-24T21:58:07.3126604+00:00",
+  "LastUpdate_Achievements": "2023-05-24T22:05:24.4031534+00:00"
 }

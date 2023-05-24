@@ -4,7 +4,7 @@
   "ProductSlug": "zorro-the-chronicles",
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-06-16T08:00:00+00:00",
@@ -38,6 +38,6 @@
   "FirstSeenRating": "2023-03-31T05:58:45.4311679+00:00",
   "LastChanged": "2023-03-31T05:58:45.431168+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:04.9480124+00:00",
-  "LastUpdate_Ratings": "2023-05-24T20:57:33.7238805+00:00",
-  "LastUpdate_Achievements": "2023-05-24T21:04:35.5293498+00:00"
+  "LastUpdate_Ratings": "2023-05-24T21:57:25.0687628+00:00",
+  "LastUpdate_Achievements": "2023-05-24T22:04:19.6519901+00:00"
 }

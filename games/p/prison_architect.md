@@ -6,9 +6,9 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~32,576 |
-| Get Busy Living | 17.00% | ~21,300 |
-| Samuel Norton | 10.00% | ~12,529 |
+| Stone Walls | 26.00% | ~32,580 |
+| Get Busy Living | 17.00% | ~21,302 |
+| Samuel Norton | 10.00% | ~12,531 |
 | Spare The Rod | 5.00% | ~6,265 |
 | Wait and Hope | 4.00% | ~5,012 |
 | I May Have Found A Way Out Of Here | 4.00% | ~5,012 |
@@ -17,13 +17,13 @@ Number of Ratings: 4,491  (23.09.2022)
 | Throw The Book At Them | 2.00% | ~2,506 |
 | D.B. Cooper | 1.00% | ~1,253 |
 | Reformation | 0.60% | ~752 |
-| Crowd Control | 0.50% | ~626 |
+| Crowd Control | 0.50% | ~627 |
 | Freedom | 0.40% | ~501 |
 | Confined | 0.40% | ~501 |
 | It's Not What You Know... | 0.10% | ~125 |
 | ... It's What You Can Prove | 0.10% | ~125 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125,294 (Ranked 55)  
+Progressed: 125,308 (Ranked 55)  
 Completed: 4 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,10 +57,10 @@ Completed: 4 (0.00%) (Ranked 202)
 | 2023-05-21 | 124,001 | 4 |
 | 2023-05-22 | 124,451 | 4 |
 | 2023-05-23 | 124,880 | 4 |
-| 2023-05-24 | 125,294 | 4 |
+| 2023-05-24 | 125,308 | 4 |
 ## Awards
 Max (Extremely Fun): 424  (Ranked 194)  
-Sum: 3,320 (Ranked 144)  
+Sum: 3,322 (Ranked 144)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -69,7 +69,7 @@ Diff (max vs sum): 50
 | This game is Great for Beginners | 408 |
 | This game has Quickly Understood Controls | 394 |
 | This game is Relaxing | 369 |
-| This game has Diverse Characters | 364 |
+| This game has Diverse Characters | 366 |
 | This game has Amazing Storytelling | 356 |
 | This game has Amazing Characters | 332 |
 | This game has a Creative Community | 263 |
@@ -202,4 +202,4 @@ Diff (max vs sum): 50
 | 2023-05-21 | 4.61 | - | 422 | 3,306 |
 | 2023-05-22 | 4.61 | - | 422 | 3,310 |
 | 2023-05-23 | 4.61 | - | 423 | 3,319 |
-| 2023-05-24 | 4.61 | - | 424 | 3,320 |
+| 2023-05-24 | 4.61 | - | 424 | 3,322 |

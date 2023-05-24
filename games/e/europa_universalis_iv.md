@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,879 |
-| That's a Grand Army | 8.00% | ~3,448 |
-| That is mine! | 8.00% | ~3,448 |
-| Victorious! | 8.00% | ~3,448 |
-| Brothers in Arms | 6.00% | ~2,586 |
-| That's a Grand Navy | 6.00% | ~2,586 |
-| Seriously?! | 6.00% | ~2,586 |
-| For the Glory | 5.00% | ~2,155 |
-| Cold War | 4.00% | ~1,724 |
-| True Catholic | 4.00% | ~1,724 |
-| Defender of the Faith | 3.00% | ~1,293 |
-| It's all about the money | 3.00% | ~1,293 |
-| Respected | 3.00% | ~1,293 |
-| Truly Divine Ruler | 3.00% | ~1,293 |
+| Until death do us apart | 9.00% | ~3,881 |
+| That's a Grand Army | 8.00% | ~3,450 |
+| That is mine! | 8.00% | ~3,450 |
+| Victorious! | 8.00% | ~3,450 |
+| Brothers in Arms | 6.00% | ~2,587 |
+| That's a Grand Navy | 6.00% | ~2,587 |
+| Seriously?! | 6.00% | ~2,587 |
+| For the Glory | 5.00% | ~2,156 |
+| Cold War | 4.00% | ~1,725 |
+| True Catholic | 4.00% | ~1,725 |
+| Defender of the Faith | 3.00% | ~1,294 |
+| It's all about the money | 3.00% | ~1,294 |
+| Respected | 3.00% | ~1,294 |
+| Truly Divine Ruler | 3.00% | ~1,294 |
 | Blockader | 2.00% | ~862 |
 | Combined Arms | 2.00% | ~862 |
 | Double the Love | 2.00% | ~862 |
@@ -50,7 +50,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | At every continent | 0.50% | ~216 |
 | Early-Modern Warfare | 0.50% | ~216 |
 | One Family to Rule them All | 0.50% | ~216 |
-| Populists in Government | 0.50% | ~216 |
 | The pen is mightier than the sword | 0.50% | ~216 |
 | This is My Faith | 0.50% | ~216 |
 | Trophy Hunter | 0.50% | ~216 |
@@ -58,6 +57,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Dude, Where's my Boat? | 0.40% | ~172 |
 | In the Name of the Father | 0.40% | ~172 |
 | Live Long and Prosper | 0.40% | ~172 |
+| Populists in Government | 0.40% | ~172 |
 | Ruina Imperii | 0.40% | ~172 |
 | The Continuation of Diplomacy | 0.40% | ~172 |
 | Voting Streak | 0.40% | ~172 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,102 (Ranked 78)  
+Progressed: 43,122 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -395,10 +395,10 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-21 | 41,525 | 0 |
 | 2023-05-22 | 42,079 | 0 |
 | 2023-05-23 | 42,594 | 0 |
-| 2023-05-24 | 43,102 | 0 |
+| 2023-05-24 | 43,122 | 0 |
 ## Awards
 Max (Educational): 5,277  (Ranked 60)  
-Sum: 43,718 (Ranked 27)  
+Sum: 43,722 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -409,7 +409,7 @@ Diff (max vs sum): 33
 | This game has Diverse Characters | 4,976 |
 | This game is Relaxing | 4,911 |
 | This game has Competitive Players | 4,755 |
-| This game has Amazing Storytelling | 4,502 |
+| This game has Amazing Storytelling | 4,506 |
 | This game has Amazing Characters | 4,160 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -542,4 +542,4 @@ Diff (max vs sum): 33
 | 2023-05-21 | 4.68 | - | 5,264 | 43,591 |
 | 2023-05-22 | 4.68 | - | 5,271 | 43,642 |
 | 2023-05-23 | 4.68 | - | 5,271 | 43,683 |
-| 2023-05-24 | 4.68 | - | 5,277 | 43,718 |
+| 2023-05-24 | 4.68 | - | 5,277 | 43,722 |

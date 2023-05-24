@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adventure Time | 91.00% | ~21 |
-| Master Of The Arts | 65.00% | ~15 |
-| Close Call | 26.00% | ~6 |
+| Adventure Time | 92.00% | ~22 |
+| Master Of The Arts | 67.00% | ~16 |
+| Close Call | 25.00% | ~6 |
 | Getting Good At This | 4.00% | ~1 |
 | Hold The Line | 4.00% | ~1 |
 | Adept Summoner | 0.00% | ~0 |
@@ -32,7 +32,7 @@
 | Who's The Boss? | 0.00% | ~0 |
 | Worker Wisp | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23 (Ranked 315)  
+Progressed: 24 (Ranked 315)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -45,4 +45,4 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-21 | 16 | 0 |
 | 2023-05-22 | 20 | 0 |
 | 2023-05-23 | 22 | 0 |
-| 2023-05-24 | 23 | 0 |
+| 2023-05-24 | 24 | 0 |

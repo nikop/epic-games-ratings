@@ -24,7 +24,7 @@
 | Bookworm | 37.00% | ~83 |
 | Up In Flames | 36.00% | ~81 |
 | Fhtagn! | 36.00% | ~81 |
-| Going Once... | 34.00% | ~76 |
+| Going Once... | 35.00% | ~79 |
 | Brain Food | 33.00% | ~74 |
 | Let Me Be Frank | 32.00% | ~72 |
 | No Stone Unturned | 30.00% | ~68 |
@@ -34,7 +34,7 @@
 | Reawakened | 8.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 225 (Ranked 228)  
-Completed: 12 (5.33%) (Ranked 28)  
+Completed: 12 (5.33%) (Ranked 29)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

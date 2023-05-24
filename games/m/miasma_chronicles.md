@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 88.00% | ~257 |
-| Ranidaphobia | 54.00% | ~158 |
-| Aspiring Editor | 48.00% | ~140 |
-| Gun for Hire | 40.00% | ~117 |
-| I am the law! | 20.00% | ~58 |
-| Firestarter | 7.00% | ~20 |
+| First Blood | 88.00% | ~260 |
+| Ranidaphobia | 55.00% | ~162 |
+| Aspiring Editor | 49.00% | ~145 |
+| Gun for Hire | 42.00% | ~124 |
+| I am the law! | 22.00% | ~65 |
+| Firestarter | 8.00% | ~24 |
 | Lumberjack | 6.00% | ~18 |
 | Limp Richard | 5.00% | ~15 |
-| Croaked | 3.00% | ~9 |
+| Croaked | 4.00% | ~12 |
+| Exorcist | 3.00% | ~9 |
 | Hold The Line | 3.00% | ~9 |
 | Newtonian Knockout | 3.00% | ~9 |
 | Editor Adept | 2.00% | ~6 |
-| Exorcist | 2.00% | ~6 |
 | From Darkness to Light | 2.00% | ~6 |
 | Giant Killer | 2.00% | ~6 |
+| The meaning of Kain | 2.00% | ~6 |
 | Chain Killer | 1.00% | ~3 |
 | Commando | 1.00% | ~3 |
 | Recycler | 1.00% | ~3 |
 | Sensei | 1.00% | ~3 |
-| The meaning of Kain | 1.00% | ~3 |
 | Curveball | 0.70% | ~2 |
 | Technophobe | 0.70% | ~2 |
 | There Can Be Only One! | 0.70% | ~2 |
@@ -56,10 +56,10 @@
 | Shadow Boxin' | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 292 (Ranked 215)  
+Progressed: 295 (Ranked 214)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-23 | 151 | 0 |
-| 2023-05-24 | 292 | 0 |
+| 2023-05-24 | 295 | 0 |

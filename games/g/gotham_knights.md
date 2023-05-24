@@ -23,6 +23,7 @@ Rating: 4.17 (Ranked 836)
 | Protector of Gotham | 0.60% | ~372 |
 | The Show Mud Go On | 0.60% | ~372 |
 | Rock and a Hard Place | 0.60% | ~372 |
+| Cooldown | 0.60% | ~372 |
 | Universal Health Scare | 0.60% | ~372 |
 | From Inside Gotham's Walls | 0.60% | ~372 |
 | Voiceless | 0.60% | ~372 |
@@ -33,7 +34,6 @@ Rating: 4.17 (Ranked 836)
 | Not On My Watch | 0.50% | ~310 |
 | Bulldozed | 0.50% | ~310 |
 | Shock Til They Drop | 0.50% | ~310 |
-| Cooldown | 0.50% | ~310 |
 | Out of Their League | 0.40% | ~248 |
 | Drone You Out | 0.40% | ~248 |
 | Gotham City Confidential | 0.40% | ~248 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 836)
 | Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,931 (Ranked 69)  
+Progressed: 61,933 (Ranked 69)  
 Completed: 91 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,10 +101,10 @@ Completed: 91 (0.15%) (Ranked 148)
 | 2023-05-21 | 61,589 | 91 |
 | 2023-05-22 | 61,724 | 91 |
 | 2023-05-23 | 61,842 | 91 |
-| 2023-05-24 | 61,931 | 91 |
+| 2023-05-24 | 61,933 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,234  (Ranked 98)  
-Sum: 3,708 (Ranked 138)  
+Sum: 3,709 (Ranked 138)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
@@ -112,7 +112,7 @@ Diff (max vs sum): -40
 | This game is Relaxing | 193 |
 | This game is Extremely Fun | 192 |
 | This game has Quickly Understood Controls | 190 |
-| This game has Amazing Characters | 184 |
+| This game has Amazing Characters | 185 |
 | This game has Diverse Characters | 182 |
 | This game is Highly Recommended | 181 |
 | This game has Amazing Storytelling | 178 |
@@ -213,4 +213,4 @@ Diff (max vs sum): -40
 | 2023-05-21 | 4.17 | 2,227 | 3,690 |
 | 2023-05-22 | 4.17 | 2,229 | 3,696 |
 | 2023-05-23 | 4.17 | 2,231 | 3,704 |
-| 2023-05-24 | 4.17 | 2,234 | 3,708 |
+| 2023-05-24 | 4.17 | 2,234 | 3,709 |

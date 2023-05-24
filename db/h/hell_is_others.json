@@ -2,12 +2,12 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 605,
+  "Ranking_Rating": 606,
   "Ranking_Popularity": 470,
   "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -400,9 +400,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 249529,
+  "EOS_Progressed": 249533,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 579,
+  "EOS_NewPlayers": 582,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3680,6 +3680,11 @@
       "Time": "2023-05-24T21:06:25.3442521+00:00",
       "NumProgressed": 249529,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-24T22:06:04.4513108+00:00",
+      "NumProgressed": 249533,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -3739,7 +3744,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 77354
+      "UsersEstimate": 77355
     },
     {
       "ID": "BackHomeNTimes",
@@ -3747,7 +3752,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12476
+      "UsersEstimate": 12477
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -3819,7 +3824,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12476
+      "UsersEstimate": 12477
     },
     {
       "ID": "CreedsInBank2",
@@ -3947,7 +3952,7 @@
       "Name": "Cleaning Company",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12476
+      "UsersEstimate": 12477
     },
     {
       "ID": "KillOtherWithKatana",
@@ -3979,7 +3984,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54896
+      "UsersEstimate": 54897
     },
     {
       "ID": "KillOthers2",
@@ -4138,7 +4143,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 249529,
+      "Progressed": 249533,
       "Completed": 1
     }
   ],
@@ -4146,8 +4151,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-05-24T02:04:38.3501962+00:00",
-  "LastChanged_Achievements": "2023-05-24T21:06:25.3442512+00:00",
+  "LastChanged_Achievements": "2023-05-24T22:06:04.4513103+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:18.7976266+00:00",
-  "LastUpdate_Ratings": "2023-05-24T21:00:22.923413+00:00",
-  "LastUpdate_Achievements": "2023-05-24T21:06:25.3443643+00:00"
+  "LastUpdate_Ratings": "2023-05-24T22:00:07.2949879+00:00",
+  "LastUpdate_Achievements": "2023-05-24T22:06:04.451364+00:00"
 }

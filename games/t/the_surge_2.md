@@ -5,16 +5,16 @@ Rating: 4.24 (Ranked 790)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,288 |
+| Rigged And Ready | 80.00% | ~1,289 |
 | Don't I Know You...? | 77.00% | ~1,240 |
-| Jailbreak | 66.00% | ~1,063 |
+| Jailbreak | 65.00% | ~1,047 |
 | Suited and Booted | 38.00% | ~612 |
 | HEADSHOT! | 37.00% | ~596 |
 | Sleeping With The Fishes | 35.00% | ~564 |
 | Overheated | 30.00% | ~483 |
 | High Performance | 30.00% | ~483 |
 | Powered Up | 28.00% | ~451 |
-| Studied The Blade | 24.00% | ~386 |
+| Studied The Blade | 24.00% | ~387 |
 | Home Invasion | 22.00% | ~354 |
 | Luminary | 22.00% | ~354 |
 | It's a Trap | 22.00% | ~354 |
@@ -44,11 +44,11 @@ Rating: 4.24 (Ranked 790)
 | Following In Their Footsteps | 7.00% | ~113 |
 | Turbo Booster | 6.00% | ~97 |
 | Squid Pro Quo | 6.00% | ~97 |
-| Reborn | 5.00% | ~80 |
-| Remote Surgery | 5.00% | ~80 |
-| Counter-Sniper | 5.00% | ~80 |
-| Shrimp Cocktail | 5.00% | ~80 |
-| Juiced Up | 5.00% | ~80 |
+| Reborn | 5.00% | ~81 |
+| Remote Surgery | 5.00% | ~81 |
+| Counter-Sniper | 5.00% | ~81 |
+| Shrimp Cocktail | 5.00% | ~81 |
+| Juiced Up | 5.00% | ~81 |
 | Hello Darkness My Old Friend | 4.00% | ~64 |
 | Geronimo! | 4.00% | ~64 |
 | Plank of Wood | 4.00% | ~64 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 790)
 | Swiss Army Drone | 1.00% | ~16 |
 | Three Birds With One Stone | 1.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,610 (Ranked 152)  
+Progressed: 1,611 (Ranked 152)  
 Completed: 10 (0.62%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 10 (0.62%) (Ranked 103)
 | 2023-05-21 | 1,584 | 10 |
 | 2023-05-22 | 1,593 | 10 |
 | 2023-05-23 | 1,603 | 10 |
-| 2023-05-24 | 1,610 | 10 |
+| 2023-05-24 | 1,611 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

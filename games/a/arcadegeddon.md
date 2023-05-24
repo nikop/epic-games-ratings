@@ -24,8 +24,8 @@ Number of Ratings: 801  (23.09.2022)
 | Here Comes a New Challenger | 37.00% | ~2,470 |
 | Rapid Response | 33.00% | ~2,203 |
 | Guardian Angel | 32.00% | ~2,136 |
+| Surge Ahead | 31.00% | ~2,069 |
 | The Full Monty | 31.00% | ~2,069 |
-| Surge Ahead | 30.00% | ~2,002 |
 | Poppin Noggins | 25.00% | ~1,669 |
 | Clips and Crits | 23.00% | ~1,535 |
 | Grey Goo | 20.00% | ~1,335 |

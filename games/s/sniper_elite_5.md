@@ -5,11 +5,11 @@ Rating: 4.37 (Ranked 705)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 16.00% | ~217 |
-| Confirming Suspicions | 11.00% | ~149 |
+| Meeting Resistance | 16.00% | ~218 |
+| Confirming Suspicions | 11.00% | ~150 |
 | The Kraken Wakes | 8.00% | ~109 |
-| Lord of War | 6.00% | ~81 |
-| It's Starting to Crack | 6.00% | ~81 |
+| Lord of War | 6.00% | ~82 |
+| It's Starting to Crack | 6.00% | ~82 |
 | Resourceful | 5.00% | ~68 |
 | Enemy at the Gates | 4.00% | ~54 |
 | Explosive Efficiency | 4.00% | ~54 |
@@ -18,6 +18,7 @@ Rating: 4.37 (Ranked 705)
 | Organ Grinder | 3.00% | ~41 |
 | As Quiet as a Mouse | 3.00% | ~41 |
 | Taking it back | 3.00% | ~41 |
+| Liberté | 2.00% | ~27 |
 | Opposing Force | 2.00% | ~27 |
 | Fields of Glory | 2.00% | ~27 |
 | Gunslinger | 2.00% | ~27 |
@@ -30,13 +31,12 @@ Rating: 4.37 (Ranked 705)
 | Target America | 2.00% | ~27 |
 | The Kraken Sleeps | 2.00% | ~27 |
 | Climbing the Ladder | 1.00% | ~14 |
-| Liberté | 1.00% | ~14 |
 | Skirmisher | 1.00% | ~14 |
 | Set Europe Ablaze | 1.00% | ~14 |
 | Rigged to Blow | 1.00% | ~14 |
 | No Stone Unturned | 0.90% | ~12 |
 | The Long Game | 0.90% | ~12 |
-| Brains of the Operation | 0.80% | ~11 |
+| Brains of the Operation | 0.90% | ~12 |
 | My Little Friend | 0.60% | ~8 |
 | It'll Buff Right Out | 0.50% | ~7 |
 | Operation Foxley | 0.50% | ~7 |
@@ -45,16 +45,16 @@ Rating: 4.37 (Ranked 705)
 | Herr Today, Gone Tomorrow | 0.40% | ~5 |
 | Last Resort | 0.40% | ~5 |
 | Ghost of Falaise | 0.40% | ~5 |
+| From Paris with Love | 0.30% | ~4 |
 | Don't hold your breath | 0.30% | ~4 |
 | Shoot for the Moon | 0.30% | ~4 |
 | Siegebreaker | 0.30% | ~4 |
 | Sink or Swim | 0.30% | ~2 |
-| From Paris with Love | 0.20% | ~3 |
+| Souvenir hunter | 0.20% | ~3 |
+| Tinkerer | 0.20% | ~3 |
 | Out of Scope | 0.10% | ~1 |
 | Burn after reading | 0.10% | ~1 |
-| Souvenir hunter | 0.10% | ~1 |
 | Eagle Eyed | 0.10% | ~1 |
-| Tinkerer | 0.10% | ~1 |
 | Up close and personal | 0.10% | ~1 |
 | Road Rage | 0.10% | ~1 |
 | Führerious Repetition | 0.10% | ~1 |
@@ -77,7 +77,7 @@ Rating: 4.37 (Ranked 705)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,357 (Ranked 157)  
+Progressed: 1,360 (Ranked 157)  
 Completed: 2 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 2 (0.15%) (Ranked 148)
 | 2023-05-21 | 1,126 | 2 |
 | 2023-05-22 | 1,233 | 2 |
 | 2023-05-23 | 1,294 | 2 |
-| 2023-05-24 | 1,357 | 2 |
+| 2023-05-24 | 1,360 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

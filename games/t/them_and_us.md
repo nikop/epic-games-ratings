@@ -10,8 +10,8 @@
 | Safe...For now? | 26.00% | ~31 |
 | Open Sesame | 21.00% | ~25 |
 | Them and Us | 13.00% | ~16 |
+| OUTRAGE | 13.00% | ~16 |
 | What have I done!? | 13.00% | ~16 |
-| OUTRAGE | 12.00% | ~15 |
 | The Cultists | 11.00% | ~13 |
 | This Coffin Has Your Name On It! | 11.00% | ~13 |
 | Alone In The Dark | 10.00% | ~12 |
@@ -19,10 +19,10 @@
 | The Forgotten Tower | 9.00% | ~11 |
 | Rest In Peace | 8.00% | ~10 |
 | The Curse Is Real | 7.00% | ~8 |
+| Trapped | 7.00% | ~8 |
 | What A Mansion | 7.00% | ~8 |
 | Lover of classics | 6.00% | ~7 |
 | Modern Player | 6.00% | ~7 |
-| Trapped | 6.00% | ~7 |
 | Researcher | 5.00% | ~6 |
 | I Am The Gate Keeper! | 5.00% | ~6 |
 | The bus stop | 4.00% | ~5 |

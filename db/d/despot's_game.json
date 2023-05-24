@@ -2,7 +2,7 @@
   "ID": "7a0f0e0bef6a45249e9d476d08bc9739",
   "Name": "Despot\u0027s Game",
   "ProductSlug": "despots-game-f61a0a",
-  "Ranking_Rating": 536,
+  "Ranking_Rating": 535,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 202,
@@ -301,9 +301,9 @@
       "ID": "finished-quest-sword",
       "SetID": "799afm0",
       "Name": "Holy Vengeance",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 56
     },
     {
       "ID": "get-all",
@@ -317,9 +317,9 @@
       "ID": "highlevel-warrior",
       "SetID": "799afm0",
       "Name": "He\u0027s Seen It All",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 92
     },
     {
       "ID": "last-hero",
@@ -438,8 +438,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-05-24T21:06:06.7555543+00:00",
+  "LastChanged_Achievements": "2023-05-24T22:05:47.0153424+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:20.0092319+00:00",
-  "LastUpdate_Ratings": "2023-05-24T20:58:44.7996745+00:00",
-  "LastUpdate_Achievements": "2023-05-24T21:06:06.7555846+00:00"
+  "LastUpdate_Ratings": "2023-05-24T21:58:30.5872748+00:00",
+  "LastUpdate_Achievements": "2023-05-24T22:05:47.0153647+00:00"
 }

@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 199,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -994,9 +994,9 @@
       "ID": "OpenRestaurant",
       "SetID": "d1bm05f",
       "Name": "The Big Day",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 137
     },
     {
       "ID": "Packing20",
@@ -1147,8 +1147,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-24T21:06:01.465382+00:00",
+  "LastChanged_Achievements": "2023-05-24T22:05:41.9847717+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.318416+00:00",
-  "LastUpdate_Ratings": "2023-05-24T20:58:27.5539075+00:00",
-  "LastUpdate_Achievements": "2023-05-24T21:06:01.4654284+00:00"
+  "LastUpdate_Ratings": "2023-05-24T21:58:13.8187138+00:00",
+  "LastUpdate_Achievements": "2023-05-24T22:05:41.9847994+00:00"
 }

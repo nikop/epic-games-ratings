@@ -6,27 +6,27 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 35.00% | ~17,789 |
-| Landlord | 30.00% | ~15,248 |
-| Lawmaker | 21.00% | ~10,674 |
-| Bannerlord | 20.00% | ~10,165 |
-| Horde breaker | 20.00% | ~10,165 |
-| Trained | 20.00% | ~10,165 |
-| The king is pleased | 16.00% | ~8,132 |
-| King Solomon | 15.00% | ~7,624 |
-| I can do it | 14.00% | ~7,116 |
+| Lawbringer | 35.00% | ~17,792 |
+| Landlord | 30.00% | ~15,250 |
+| Lawmaker | 21.00% | ~10,675 |
+| Bannerlord | 20.00% | ~10,167 |
+| Horde breaker | 20.00% | ~10,167 |
+| Trained | 20.00% | ~10,167 |
+| The king is pleased | 16.00% | ~8,133 |
+| King Solomon | 15.00% | ~7,625 |
+| I can do it | 14.00% | ~7,117 |
 | Apple of my eye | 13.00% | ~6,608 |
-| God of the Arena | 12.00% | ~6,099 |
+| God of the Arena | 12.00% | ~6,100 |
 | Against all odds | 10.00% | ~5,083 |
-| Swordbearer | 9.00% | ~4,574 |
-| Duelist | 8.00% | ~4,066 |
-| Dynasty | 8.00% | ~4,066 |
-| I spit on your grave | 8.00% | ~4,066 |
-| What have the Romans ever done for us? | 8.00% | ~4,066 |
+| Swordbearer | 9.00% | ~4,575 |
+| Duelist | 8.00% | ~4,067 |
+| Dynasty | 8.00% | ~4,067 |
+| I spit on your grave | 8.00% | ~4,067 |
+| What have the Romans ever done for us? | 8.00% | ~4,067 |
 | Butterlord | 7.00% | ~3,558 |
 | Mastery | 6.00% | ~3,050 |
 | This Is Our Land | 6.00% | ~3,050 |
-| Know your enemy | 5.00% | ~2,541 |
+| Know your enemy | 5.00% | ~2,542 |
 | Crowdfunded | 4.00% | ~2,033 |
 | Crush your enemies | 4.00% | ~2,033 |
 | My way | 4.00% | ~2,033 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,827 (Ranked 74)  
+Progressed: 50,833 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-21 | 50,571 | 0 |
 | 2023-05-22 | 50,655 | 0 |
 | 2023-05-23 | 50,759 | 0 |
-| 2023-05-24 | 50,827 | 0 |
+| 2023-05-24 | 50,833 | 0 |
 ## Awards
 Max (Character Customization): 6,570  (Ranked 49)  
 Sum: 13,138 (Ranked 68)  
