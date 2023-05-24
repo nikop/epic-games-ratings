@@ -582,9 +582,9 @@
       "ID": "LEVEL_005",
       "SetID": "212bg48",
       "Name": "Small village",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 126
     },
     {
       "ID": "LEVEL_006",
@@ -630,33 +630,33 @@
       "ID": "LEVEL_011",
       "SetID": "212bg48",
       "Name": "This island of mine",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "LEVEL_012",
       "SetID": "212bg48",
       "Name": "Vegetables on rails",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 50
     },
     {
       "ID": "LEVEL_013",
       "SetID": "212bg48",
       "Name": "Higher ground",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 47
     },
     {
       "ID": "LEVEL_014",
       "SetID": "212bg48",
       "Name": "Cross-country",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 44
     },
     {
       "ID": "LEVEL_015",
@@ -670,25 +670,25 @@
       "ID": "LEVEL_016",
       "SetID": "212bg48",
       "Name": "Where\u0027s the toilet, sir?",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 38
     },
     {
       "ID": "LEVEL_017",
       "SetID": "212bg48",
       "Name": "Windmill on a rocky cliff",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 38
     },
     {
       "ID": "LEVEL_018",
       "SetID": "212bg48",
       "Name": "Isle rock city",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "LEVEL_019",
@@ -758,25 +758,25 @@
       "ID": "LEVEL_027",
       "SetID": "212bg48",
       "Name": "A farm island lost in time...",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "LEVEL_028",
       "SetID": "212bg48",
       "Name": "What is the country?",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "LEVEL_029",
       "SetID": "212bg48",
       "Name": "Bridges connect us",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 15
+      "UsersEstimate": 18
     },
     {
       "ID": "LEVEL_030",
@@ -797,8 +797,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-24T20:03:31.2318103+00:00",
+  "LastChanged_Achievements": "2023-05-24T21:03:12.5543322+00:00",
   "LastUpdate_AppInfo": "2023-05-22T13:02:13.5547551+00:00",
-  "LastUpdate_Ratings": "2023-05-24T19:57:21.9666026+00:00",
-  "LastUpdate_Achievements": "2023-05-24T20:03:31.231841+00:00"
+  "LastUpdate_Ratings": "2023-05-24T20:57:00.8204223+00:00",
+  "LastUpdate_Achievements": "2023-05-24T21:03:12.5543648+00:00"
 }

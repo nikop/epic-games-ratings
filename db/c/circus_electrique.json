@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 409,
+  "EOS_Progressed": 410,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -174,6 +174,11 @@
       "Time": "2023-05-24T17:05:40.7611511+00:00",
       "NumProgressed": 409,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-24T21:06:12.8981825+00:00",
+      "NumProgressed": 410,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -185,7 +190,7 @@
       "Name": "Grand Opening",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -201,7 +206,7 @@
       "Name": "Lion Tamer",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -233,7 +238,7 @@
       "Name": "Circus Electrique Proudly Presents...",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -249,7 +254,7 @@
       "Name": "Path of Learning",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -273,7 +278,7 @@
       "Name": "Fan Service",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -313,7 +318,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -584,7 +589,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 409,
+      "Progressed": 410,
       "Completed": 1
     }
   ],
@@ -592,8 +597,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-05-24T20:06:38.0889075+00:00",
+  "LastChanged_Achievements": "2023-05-24T21:06:12.8981818+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.3315704+00:00",
-  "LastUpdate_Ratings": "2023-05-24T19:59:25.5559013+00:00",
-  "LastUpdate_Achievements": "2023-05-24T20:06:38.0889572+00:00"
+  "LastUpdate_Ratings": "2023-05-24T20:59:00.4451016+00:00",
+  "LastUpdate_Achievements": "2023-05-24T21:06:12.8982598+00:00"
 }

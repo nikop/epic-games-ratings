@@ -12,20 +12,21 @@ Rating: 4.17 (Ranked 836)
 | To the Victor Go the Spoils | 0.80% | ~495 |
 | Get ReQ'd | 0.80% | ~495 |
 | Whispered Words | 0.80% | ~495 |
-| The Batman Family | 0.70% | ~433 |
-| Something in the Clay | 0.70% | ~433 |
-| Quartzer Life Crisis | 0.70% | ~433 |
-| Snow Problem | 0.70% | ~433 |
-| Working Hard or Harley Working? | 0.70% | ~433 |
-| Unstoppable Force | 0.70% | ~433 |
-| Lock and Key | 0.70% | ~433 |
-| Bad Apples in Every Orchard | 0.70% | ~433 |
+| The Batman Family | 0.70% | ~434 |
+| Something in the Clay | 0.70% | ~434 |
+| Quartzer Life Crisis | 0.70% | ~434 |
+| Snow Problem | 0.70% | ~434 |
+| Working Hard or Harley Working? | 0.70% | ~434 |
+| Unstoppable Force | 0.70% | ~434 |
+| Lock and Key | 0.70% | ~434 |
+| Bad Apples in Every Orchard | 0.70% | ~434 |
 | Protector of Gotham | 0.60% | ~372 |
 | The Show Mud Go On | 0.60% | ~372 |
 | Rock and a Hard Place | 0.60% | ~372 |
 | Universal Health Scare | 0.60% | ~372 |
 | From Inside Gotham's Walls | 0.60% | ~372 |
 | Voiceless | 0.60% | ~372 |
+| Seeking Asylum | 0.60% | ~372 |
 | Gotham Knight | 0.60% | ~372 |
 | End of an Era | 0.50% | ~310 |
 | In Your Element | 0.50% | ~310 |
@@ -33,7 +34,6 @@ Rating: 4.17 (Ranked 836)
 | Bulldozed | 0.50% | ~310 |
 | Shock Til They Drop | 0.50% | ~310 |
 | Cooldown | 0.50% | ~310 |
-| Seeking Asylum | 0.50% | ~310 |
 | Out of Their League | 0.40% | ~248 |
 | Drone You Out | 0.40% | ~248 |
 | Gotham City Confidential | 0.40% | ~248 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 836)
 | Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,926 (Ranked 69)  
+Progressed: 61,931 (Ranked 69)  
 Completed: 91 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 91 (0.15%) (Ranked 148)
 | 2023-05-21 | 61,589 | 91 |
 | 2023-05-22 | 61,724 | 91 |
 | 2023-05-23 | 61,842 | 91 |
-| 2023-05-24 | 61,926 | 91 |
+| 2023-05-24 | 61,931 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,234  (Ranked 98)  
 Sum: 3,708 (Ranked 138)  

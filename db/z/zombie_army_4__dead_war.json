@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -1515,9 +1515,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42403,
+  "EOS_Progressed": 42404,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2485,6 +2485,11 @@
       "Time": "2023-05-24T18:05:39.9531188+00:00",
       "NumProgressed": 42403,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-24T21:06:27.6574662+00:00",
+      "NumProgressed": 42404,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -2536,7 +2541,7 @@
       "Name": "Bad Blood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 6784
+      "UsersEstimate": 6785
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_NIGHTMARE",
@@ -2568,7 +2573,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 17385
+      "UsersEstimate": 17386
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -2592,7 +2597,7 @@
       "Name": "I\u0027m going deeper underground",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 5936
+      "UsersEstimate": 5937
     },
     {
       "ID": "SE_COMPLETE_GENOA",
@@ -2600,7 +2605,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 16113
+      "UsersEstimate": 16114
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -2712,7 +2717,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 18657
+      "UsersEstimate": 18658
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -2744,7 +2749,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 20353
+      "UsersEstimate": 20354
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -2792,7 +2797,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 17385
+      "UsersEstimate": 17386
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -2808,7 +2813,7 @@
       "Name": "Come and get it! It\u0027s a running buffet!",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 16113
+      "UsersEstimate": 16114
     },
     {
       "ID": "SE_GET_X_HEADSHOT_STREAK",
@@ -2824,7 +2829,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 28834
+      "UsersEstimate": 28835
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -2848,7 +2853,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 19505
+      "UsersEstimate": 19506
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -2864,7 +2869,7 @@
       "Name": "Stand back boy!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 19505
+      "UsersEstimate": 19506
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -2888,7 +2893,7 @@
       "Name": "Chain reaction",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 18657
+      "UsersEstimate": 18658
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -2896,7 +2901,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27562
+      "UsersEstimate": 27563
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -2952,7 +2957,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27562
+      "UsersEstimate": 27563
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -3000,7 +3005,7 @@
       "Name": "The bigger they are...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 6360
+      "UsersEstimate": 6361
     },
     {
       "ID": "SE_TAKEDOWN_A_BLIND_SCREAMER",
@@ -3023,15 +3028,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42403,
+      "Progressed": 42404,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-05-24T17:59:11.6320476+00:00",
-  "LastChanged_Achievements": "2023-05-24T20:06:53.1764436+00:00",
+  "LastChanged_Achievements": "2023-05-24T21:06:27.6574655+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.8149711+00:00",
-  "LastUpdate_Ratings": "2023-05-24T20:00:25.4387061+00:00",
-  "LastUpdate_Achievements": "2023-05-24T20:06:53.1765161+00:00"
+  "LastUpdate_Ratings": "2023-05-24T20:59:54.5556315+00:00",
+  "LastUpdate_Achievements": "2023-05-24T21:06:27.6575348+00:00"
 }

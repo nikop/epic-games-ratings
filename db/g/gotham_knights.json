@@ -1208,9 +1208,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61926,
+  "EOS_Progressed": 61931,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 987,
+  "EOS_NewPlayers": 992,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3618,6 +3618,11 @@
       "Time": "2023-05-24T20:06:51.2651705+00:00",
       "NumProgressed": 61926,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-24T21:06:26.2432082+00:00",
+      "NumProgressed": 61931,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3677,7 +3682,7 @@
       "Name": "The Batman Family",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -3733,7 +3738,7 @@
       "Name": "Something in the Clay",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "CLAYFACE_2",
@@ -3861,7 +3866,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "FREEZE_2",
@@ -3869,7 +3874,7 @@
       "Name": "Snow Problem",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "FREEZE_3",
@@ -3949,7 +3954,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "HARLEY_4",
@@ -3997,7 +4002,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -4037,7 +4042,7 @@
       "Name": "Lock and Key",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "MYSTERY_04",
@@ -4045,7 +4050,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "MYSTERY_05",
@@ -4067,9 +4072,9 @@
       "ID": "MYSTERY_07",
       "SetID": "4eo5ebm",
       "Name": "Seeking Asylum",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 372
     },
     {
       "ID": "MYSTERY_08",
@@ -4116,13 +4121,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61926,
+      "Progressed": 61931,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32206,
+      "Progressed": 32211,
       "Completed": 2640
     }
   ],
@@ -4130,8 +4135,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-24T15:59:07.5402547+00:00",
-  "LastChanged_Achievements": "2023-05-24T20:06:51.2651699+00:00",
+  "LastChanged_Achievements": "2023-05-24T21:06:26.2432073+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-24T20:00:19.6053476+00:00",
-  "LastUpdate_Achievements": "2023-05-24T20:06:51.2652564+00:00"
+  "LastUpdate_Ratings": "2023-05-24T20:59:48.9601015+00:00",
+  "LastUpdate_Achievements": "2023-05-24T21:06:26.2433054+00:00"
 }

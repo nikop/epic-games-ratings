@@ -1483,9 +1483,9 @@
       "ID": "achFirstPassengerWaiting",
       "SetID": "dgl390n",
       "Name": "First passenger waiting",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 749
+      "UsersEstimate": 760
     },
     {
       "ID": "achFirstShipArrived",
@@ -1723,8 +1723,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-05-15T19:58:54.3106025+00:00",
-  "LastChanged_Achievements": "2023-05-24T20:06:51.7920053+00:00",
+  "LastChanged_Achievements": "2023-05-24T21:06:26.5368468+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:14.7095355+00:00",
-  "LastUpdate_Ratings": "2023-05-24T20:00:12.5899933+00:00",
-  "LastUpdate_Achievements": "2023-05-24T20:06:51.7920817+00:00"
+  "LastUpdate_Ratings": "2023-05-24T20:59:42.5027171+00:00",
+  "LastUpdate_Achievements": "2023-05-24T21:06:26.5369503+00:00"
 }

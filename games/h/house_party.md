@@ -23,6 +23,7 @@ Number of Ratings: 177  (23.09.2022)
 | Inspector | 0.20% | ~10 |
 | Love Conquers All | 0.20% | ~10 |
 | Newcomer: Vickie | 0.20% | ~10 |
+| Rachael | 0.20% | ~10 |
 | Smooth Operator: Ashley | 0.20% | ~10 |
 | Social Butterfly | 0.20% | ~10 |
 | Stephanie | 0.20% | ~10 |
@@ -54,7 +55,6 @@ Number of Ratings: 177  (23.09.2022)
 | Now It's a Party! | 0.10% | ~5 |
 | Rule 34 | 0.10% | ~5 |
 | Party Pooper | 0.10% | ~5 |
-| Rachael | 0.10% | ~5 |
 | Ronin | 0.10% | ~5 |
 | Do You Smell Blood? | 0.10% | ~5 |
 | A Striking Resemblance | 0.10% | ~5 |

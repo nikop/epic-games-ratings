@@ -1,27 +1,27 @@
 # RAILGRADE
 [Store](https://store.epicgames.com/en-US/p/railgrade)  
 [View Rawdata](../../db/r/railgrade.json)  
-Rating: 4.54 (Ranked 481)  
+Rating: 4.54 (Ranked 480)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 98.00% | ~18,252 |
-| Before the Downfall | 93.00% | ~17,321 |
-| Money like Water | 91.00% | ~16,949 |
-| Minimalist | 90.00% | ~16,762 |
-| Builder | 83.00% | ~15,459 |
+| Trevithick's Legacy | 98.00% | ~18,253 |
+| Before the Downfall | 93.00% | ~17,322 |
+| Money like Water | 91.00% | ~16,950 |
+| Minimalist | 90.00% | ~16,763 |
+| Builder | 83.00% | ~15,460 |
 | Eraser | 70.00% | ~13,038 |
-| Pocket of Trains | 65.00% | ~12,106 |
+| Pocket of Trains | 65.00% | ~12,107 |
 | Inspector | 59.00% | ~10,989 |
 | Going the Distance | 54.00% | ~10,058 |
-| Oil Baron | 42.00% | ~7,822 |
-| Loads-a-Money | 42.00% | ~7,822 |
+| Oil Baron | 42.00% | ~7,823 |
+| Loads-a-Money | 42.00% | ~7,823 |
 | Helper of the People | 39.00% | ~7,264 |
-| Simplification | 33.00% | ~6,146 |
-| Box of Trains | 33.00% | ~6,146 |
+| Simplification | 33.00% | ~6,147 |
+| Box of Trains | 33.00% | ~6,147 |
 | Let There be Light | 32.00% | ~5,960 |
 | Hot Water | 30.00% | ~5,588 |
-| Indecisive | 29.00% | ~5,401 |
+| Indecisive | 29.00% | ~5,402 |
 | The scenic route | 27.00% | ~5,029 |
 | Industrialist | 25.00% | ~4,656 |
 | Perfectionist | 23.00% | ~4,284 |
@@ -35,7 +35,7 @@ Rating: 4.54 (Ranked 481)
 | Metropolis | 7.00% | ~1,304 |
 | High Flier | 3.00% | ~559 |
 | To infinity, and beyond! | 3.00% | ~559 |
-| Space industrialization | 2.00% | ~372 |
+| Space industrialization | 2.00% | ~373 |
 | Deertastic | 1.00% | ~186 |
 | High tech | 1.00% | ~186 |
 | Cleanup crew | 1.00% | ~186 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 481)
 | Overdeer | 0.50% | ~93 |
 | Cloud Services | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,625 (Ranked 95)  
+Progressed: 18,626 (Ranked 95)  
 Completed: 29 (0.16%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 29 (0.16%) (Ranked 144)
 | 2023-05-21 | 18,566 | 29 |
 | 2023-05-22 | 18,583 | 29 |
 | 2023-05-23 | 18,606 | 29 |
-| 2023-05-24 | 18,625 | 29 |
+| 2023-05-24 | 18,626 | 29 |
 ## Awards
 Max (Highly Recommended): 87  (Ranked 342)  
 Sum: 646 (Ranked 273)  

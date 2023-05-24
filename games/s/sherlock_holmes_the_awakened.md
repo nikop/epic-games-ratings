@@ -9,13 +9,13 @@
 | High Profile | 60.00% | ~135 |
 | Whispers In The Dark | 58.00% | ~130 |
 | Fond Memories | 50.00% | ~112 |
+| History Check | 48.00% | ~108 |
 | A Method To His Madness | 48.00% | ~108 |
-| History Check | 47.00% | ~106 |
 | The New World | 46.00% | ~104 |
 | Lock, Stock, And Barrel | 44.00% | ~99 |
+| Gaze Into The Abyss | 44.00% | ~99 |
 | Open Sesame | 44.00% | ~99 |
 | Sticky Fingers | 44.00% | ~99 |
-| Gaze Into The Abyss | 43.00% | ~97 |
 | Back In The Saddle | 43.00% | ~97 |
 | Knives Out | 43.00% | ~97 |
 | Land, Ho! | 42.00% | ~94 |
@@ -33,7 +33,7 @@
 | Read It And Weep | 18.00% | ~40 |
 | Reawakened | 8.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225 (Ranked 227)  
+Progressed: 225 (Ranked 228)  
 Completed: 12 (5.33%) (Ranked 28)  
 ## EOS Players History
 | Date | Progressed | Completed |

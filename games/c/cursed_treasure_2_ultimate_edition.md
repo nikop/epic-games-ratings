@@ -29,8 +29,8 @@
 | Tastes Like Chicken | 62.00% | ~94 |
 | Combo Breaker | 61.00% | ~93 |
 | Thunderstorm | 61.00% | ~93 |
+| Clean Forests | 59.00% | ~90 |
 | Brilliant: Holy Mountain | 59.00% | ~90 |
-| Clean Forests | 58.00% | ~88 |
 | Starry: Meadowshire | 56.00% | ~85 |
 | Lieutenant of the Evil | 55.00% | ~84 |
 | Avada Kedavra | 52.00% | ~79 |
@@ -58,7 +58,7 @@
 | Loveless | 17.00% | ~26 |
 | Hostile Waters | 15.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152 (Ranked 249)  
+Progressed: 152 (Ranked 250)  
 Completed: 19 (12.50%) (Ranked 10)  
 ## EOS Players History
 | Date | Progressed | Completed |

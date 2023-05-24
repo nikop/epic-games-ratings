@@ -197,9 +197,9 @@
       "ID": "collect-sacrifices",
       "SetID": "799afm0",
       "Name": "No Mercy",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 155
     },
     {
       "ID": "different-items1",
@@ -381,9 +381,9 @@
       "ID": "win-koth-fights1",
       "SetID": "799afm0",
       "Name": "Rookie",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 92
     },
     {
       "ID": "win-koth-fights2",
@@ -438,8 +438,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-05-24T20:06:31.6920334+00:00",
+  "LastChanged_Achievements": "2023-05-24T21:06:06.7555543+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:20.0092319+00:00",
-  "LastUpdate_Ratings": "2023-05-24T19:59:09.0740823+00:00",
-  "LastUpdate_Achievements": "2023-05-24T20:06:31.6920656+00:00"
+  "LastUpdate_Ratings": "2023-05-24T20:58:44.7996745+00:00",
+  "LastUpdate_Achievements": "2023-05-24T21:06:06.7555846+00:00"
 }

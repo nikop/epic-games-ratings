@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 447,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 83,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -340,9 +340,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 6757,
+  "EOS_Progressed": 6758,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 579,
+  "EOS_NewPlayers": 580,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -2245,6 +2245,11 @@
       "Time": "2023-05-24T20:06:16.8463401+00:00",
       "NumProgressed": 6757,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-24T21:05:52.0497925+00:00",
+      "NumProgressed": 6758,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 34,
@@ -2360,7 +2365,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2635
+      "UsersEstimate": 2636
     },
     {
       "ID": "ACH15",
@@ -2456,7 +2461,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "ACH27",
@@ -2527,7 +2532,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6757,
+      "Progressed": 6758,
       "Completed": 23
     }
   ],
@@ -2535,8 +2540,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-24T16:57:57.2497435+00:00",
-  "LastChanged_Achievements": "2023-05-24T20:06:16.8463395+00:00",
+  "LastChanged_Achievements": "2023-05-24T21:05:52.0497916+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:49.9519997+00:00",
-  "LastUpdate_Ratings": "2023-05-24T19:58:41.3125939+00:00",
-  "LastUpdate_Achievements": "2023-05-24T20:06:16.8463845+00:00"
+  "LastUpdate_Ratings": "2023-05-24T20:58:18.4396061+00:00",
+  "LastUpdate_Achievements": "2023-05-24T21:05:52.0498468+00:00"
 }

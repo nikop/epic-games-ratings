@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 845,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 6.75,
   "EosHistory": [
@@ -1902,9 +1902,9 @@
       "ID": "3",
       "SetID": "d0g98p",
       "Name": "Vibing",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 515
     },
     {
       "ID": "30",
@@ -2135,8 +2135,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-24T20:06:12.149937+00:00",
+  "LastChanged_Achievements": "2023-05-24T21:05:47.651332+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:59.9943101+00:00",
-  "LastUpdate_Ratings": "2023-05-24T19:57:48.1554328+00:00",
-  "LastUpdate_Achievements": "2023-05-24T20:06:12.149992+00:00"
+  "LastUpdate_Ratings": "2023-05-24T20:57:24.8338909+00:00",
+  "LastUpdate_Achievements": "2023-05-24T21:05:47.6514193+00:00"
 }

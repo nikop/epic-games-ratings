@@ -18,9 +18,9 @@
 | Fifth Shard | 6.00% | ~10 |
 | Big Fish | 5.00% | ~9 |
 | Good Stew | 4.00% | ~7 |
+| Green Thumb | 4.00% | ~7 |
 | Avian Veterinarian | 4.00% | ~7 |
 | Finished Iron Danger | 4.00% | ~7 |
-| Green Thumb | 3.00% | ~5 |
 | Bird Butcherer | 3.00% | ~5 |
 | Natural Selection | 3.00% | ~5 |
 | Mushroom Forager | 2.00% | ~3 |

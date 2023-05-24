@@ -19,7 +19,9 @@
 | Night Bird | 13.00% | ~6 |
 | Midair Affair | 6.00% | ~3 |
 | Hindenburgerer | 6.00% | ~3 |
+| Plight of the Valkyrie | 6.00% | ~3 |
 | Punchy Wagon | 6.00% | ~3 |
+| Trash the Planet. | 6.00% | ~3 |
 | Kill All Humans! | 6.00% | ~3 |
 | Demolition Exhibition | 4.00% | ~2 |
 | Rocket Science | 4.00% | ~2 |
@@ -28,14 +30,12 @@
 | Demolition Tactician | 4.00% | ~2 |
 | Hot Potato | 4.00% | ~2 |
 | Oblideration Nation | 4.00% | ~2 |
-| Plight of the Valkyrie | 4.00% | ~2 |
 | SWATing Flies | 4.00% | ~2 |
 | Shakedown Breakdown | 4.00% | ~2 |
 | Juggle the People | 4.00% | ~2 |
-| Trash the Planet. | 4.00% | ~2 |
 | Simulation 8e7d28c1 | 4.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47 (Ranked 291)  
+Progressed: 47 (Ranked 292)  
 Completed: 2 (4.26%) (Ranked 33)  
 ## EOS Players History
 | Date | Progressed | Completed |

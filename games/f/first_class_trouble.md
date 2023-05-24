@@ -3,16 +3,16 @@
 [View Rawdata](../../db/f/first_class_trouble.json)  
 Rating: 4.51 (Ranked 520)  
 ## Awards
-Max (Great for Beginners): 89  (Ranked 339)  
-Sum: 580 (Ranked 285)  
-Diff (max vs sum): 54  
+Max (Great for Beginners): 91  (Ranked 337)  
+Sum: 583 (Ranked 284)  
+Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
+| This game is Great for Beginners | 91 |
 | This game is Great for Quick Sessions | 89 |
-| This game is Great for Beginners | 89 |
 | This game is Highly Recommended | 75 |
+| This game has Diverse Characters | 72 |
 | This game is Extremely Fun | 71 |
-| This game has Diverse Characters | 71 |
 | This game has Amazing Storytelling | 67 |
 | This game has Playful Visuals | 66 |
 | This game has Quickly Understood Controls | 63 |
@@ -90,3 +90,4 @@ Diff (max vs sum): 54
 | 2023-05-19 | 4.51 | 88 | 572 |
 | 2023-05-20 | 4.51 | 88 | 575 |
 | 2023-05-23 | 4.51 | 89 | 580 |
+| 2023-05-24 | 4.51 | 91 | 583 |

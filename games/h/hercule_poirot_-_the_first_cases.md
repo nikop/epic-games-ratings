@@ -1,7 +1,7 @@
 # Hercule Poirot - The First Cases
 [Store](https://store.epicgames.com/en-US/p/hercule-poirot-the-first-cases-584238)  
 [View Rawdata](../../db/h/hercule_poirot_-_the_first_cases.json)  
-Rating: 4.33 (Ranked 740)  
+Rating: 4.33 (Ranked 741)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,7 +11,7 @@ Rating: 4.33 (Ranked 740)
 | Elizabeth Padget | 72.00% | ~256 |
 | Little Grey Cells | 71.00% | ~253 |
 | The Bracelet | 67.00% | ~239 |
-| The Blackmail | 57.00% | ~203 |
+| The Blackmail | 58.00% | ~206 |
 | Florette Duval | 57.00% | ~203 |
 | Major Felix Hagen | 57.00% | ~203 |
 | Fine-toothed Comb | 55.00% | ~196 |

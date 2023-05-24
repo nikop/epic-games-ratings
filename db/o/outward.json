@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2554,
+  "EOS_Progressed": 2555,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1459,6 +1459,11 @@
       "Time": "2023-05-24T19:05:51.8638899+00:00",
       "NumProgressed": 2554,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-24T21:05:58.6906083+00:00",
+      "NumProgressed": 2555,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1510,7 +1515,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1099
     },
     {
       "ID": "CrowdPleaser",
@@ -1654,7 +1659,7 @@
       "Name": "Ready for Summer",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1277
+      "UsersEstimate": 1278
     },
     {
       "ID": "ReadyforWinter_42",
@@ -1662,7 +1667,7 @@
       "Name": "Ready for Winter",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1610
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -1670,7 +1675,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -1678,7 +1683,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -1686,7 +1691,7 @@
       "Name": "Strange amalgams",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "Tapped_22",
@@ -1726,7 +1731,7 @@
       "Name": "The Power of Faith",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -1790,7 +1795,7 @@
       "Name": "Venture Outward",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1890
+      "UsersEstimate": 1891
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -1805,15 +1810,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2554,
+      "Progressed": 2555,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-05-24T20:06:23.6074097+00:00",
+  "LastChanged_Achievements": "2023-05-24T21:05:58.6906076+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:14.085288+00:00",
-  "LastUpdate_Ratings": "2023-05-24T19:58:05.3480473+00:00",
-  "LastUpdate_Achievements": "2023-05-24T20:06:23.6074579+00:00"
+  "LastUpdate_Ratings": "2023-05-24T20:57:40.7569469+00:00",
+  "LastUpdate_Achievements": "2023-05-24T21:05:58.6906605+00:00"
 }

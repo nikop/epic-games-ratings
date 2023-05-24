@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 152,
+  "EOS_Progressed": 153,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 16.45,
+  "EOS_Completed_Percentage": 16.34,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -683,6 +683,11 @@
       "Time": "2023-05-24T14:05:36.3914945+00:00",
       "NumProgressed": 152,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-24T21:05:47.3517064+00:00",
+      "NumProgressed": 153,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 22,
@@ -694,7 +699,7 @@
       "Name": "Welcome!",
       "Percentage": 99,
       "XP": 35,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "LEVEL_002",
@@ -702,7 +707,7 @@
       "Name": "A tiny town",
       "Percentage": 83,
       "XP": 35,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "LEVEL_003",
@@ -710,15 +715,15 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 64,
       "XP": 35,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "LEVEL_004",
       "SetID": "3khpmem",
       "Name": "Great view from the beach and from the hill",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 35,
-      "UsersEstimate": 81
+      "UsersEstimate": 80
     },
     {
       "ID": "LEVEL_005",
@@ -742,31 +747,31 @@
       "Name": "Burger or pizza?",
       "Percentage": 35,
       "XP": 35,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "LEVEL_008",
       "SetID": "3khpmem",
       "Name": "Passion for sports",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 49
+      "UsersEstimate": 47
     },
     {
       "ID": "LEVEL_009",
       "SetID": "3khpmem",
       "Name": "Who loves trains?",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "LEVEL_010",
       "SetID": "3khpmem",
       "Name": "Easy and steady climb",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "LEVEL_011",
@@ -806,7 +811,7 @@
       "Name": "Monumental tribute",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "LEVEL_016",
@@ -830,7 +835,7 @@
       "Name": "Le jardin magnifique",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "LEVEL_019",
@@ -869,7 +874,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 152,
+      "Progressed": 153,
       "Completed": 25
     }
   ],
@@ -877,8 +882,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-24T20:06:11.8624348+00:00",
+  "LastChanged_Achievements": "2023-05-24T21:05:47.3517055+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:36.8517809+00:00",
-  "LastUpdate_Ratings": "2023-05-24T19:58:26.3628892+00:00",
-  "LastUpdate_Achievements": "2023-05-24T20:06:11.8624557+00:00"
+  "LastUpdate_Ratings": "2023-05-24T20:58:03.0056795+00:00",
+  "LastUpdate_Achievements": "2023-05-24T21:05:47.3517318+00:00"
 }

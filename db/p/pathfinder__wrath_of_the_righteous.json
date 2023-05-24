@@ -2430,10 +2430,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6645,
       "NumberOfAwardsMax": 1640
+    },
+    {
+      "Time": "2023-05-24T20:58:21.0915191+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6646,
+      "NumberOfAwardsMax": 1640
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6645,
+  "NumberOfAwards": 6646,
   "NumberOfAwardsMax": 1640,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2453,7 +2459,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 623
+      "Count": 624
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2504,9 +2510,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 9156,
+  "EOS_Progressed": 9157,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 306,
+  "EOS_NewPlayers": 307,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4424,6 +4430,11 @@
       "Time": "2023-05-24T20:06:53.3893343+00:00",
       "NumProgressed": 9156,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T21:06:27.7915934+00:00",
+      "NumProgressed": 9157,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -4571,7 +4582,7 @@
       "Name": "Mythic Choices",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "19_EqualToAroden",
@@ -4683,7 +4694,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -5362,21 +5373,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7938,
+      "Progressed": 7939,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9156,
+      "Progressed": 9157,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-05-24T17:57:55.0972878+00:00",
-  "LastChanged_Achievements": "2023-05-24T20:06:53.3893336+00:00",
+  "LastChanged": "2023-05-24T20:58:21.0915189+00:00",
+  "LastChanged_Achievements": "2023-05-24T21:06:27.7915925+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3010226+00:00",
-  "LastUpdate_Ratings": "2023-05-24T19:58:42.422572+00:00",
-  "LastUpdate_Achievements": "2023-05-24T20:06:53.3895108+00:00"
+  "LastUpdate_Ratings": "2023-05-24T20:58:21.0915195+00:00",
+  "LastUpdate_Achievements": "2023-05-24T21:06:27.7917693+00:00"
 }
