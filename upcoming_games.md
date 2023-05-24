@@ -85,6 +85,7 @@
 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 2023-07-20 | 2023-07-20 |
 | [Arcade Fishing](games/a/arcade_fishing.md) | 2023-07-31 | 2023-06-30 |
 | [Snowbreak Containment Zone](games/7/752b276b9bff4070be17669b1519eeb1.md) | 2023-07-31 | 2023-07-31 |
+| [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 2023-08-08 | 2023-08-08 |
 | [Paw Paw Destiny](games/p/paw_paw_destiny.md) | 2023-08-16 | 2023-08-16 |
 | [RIDE 5](games/r/ride_5.md) | 2023-08-24 | 2023-08-24 |
 | [Interceptor](games/i/interceptor.md) | 2023-08-31 | 2023-08-31 |

@@ -29,8 +29,8 @@
 | 27 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.50% |
 | 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.45% |
 | 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 4.88% |
-| 29 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.88% |
-| 31 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.86% |
+| 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.86% |
+| 31 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.76% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.43% |
 | 34 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.26% |
@@ -73,16 +73,16 @@
 | 71 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 72 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.47% |
 | 73 | [Ten Dates](games/t/ten_dates.md) | 1.46% |
-| 74 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.45% |
 | 74 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.45% |
+| 75 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.43% |
 | 76 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.29% |
 | 77 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.26% |
 | 78 | [Chorus](games/c/chorus.md) | 1.25% |
 | 79 | [Trifox](games/t/trifox.md) | 1.22% |
 | 80 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.21% |
 | 81 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.18% |
-| 82 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.13% |
-| 83 | [Late Shift](games/l/late_shift.md) | 1.12% |
+| 82 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.12% |
+| 82 | [Late Shift](games/l/late_shift.md) | 1.12% |
 | 84 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.11% |
 | 85 | [Five Dates](games/f/five_dates.md) | 1.08% |
 | 86 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.04% |
@@ -414,4 +414,4 @@
 | 202 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 202 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 202 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,654 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,655 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
