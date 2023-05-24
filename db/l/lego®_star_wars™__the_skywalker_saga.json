@@ -2198,9 +2198,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 47032,
+  "EOS_Progressed": 47033,
   "EOS_Completed": 167,
-  "EOS_NewPlayers": 985,
+  "EOS_NewPlayers": 983,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -4613,6 +4613,11 @@
       "Time": "2023-05-24T05:06:46.558083+00:00",
       "NumProgressed": 47032,
       "NumCompleted": 167
+    },
+    {
+      "Time": "2023-05-24T06:05:37.334786+00:00",
+      "NumProgressed": 47033,
+      "NumCompleted": 167
     }
   ],
   "TotalAchievements": 45,
@@ -4648,7 +4653,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 37155
+      "UsersEstimate": 37156
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -4752,7 +4757,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 18342
+      "UsersEstimate": 18343
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -4760,7 +4765,7 @@
       "Name": "A New Hope",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 22105
+      "UsersEstimate": 22106
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -4784,7 +4789,7 @@
       "Name": "The Force Awakens",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 12228
+      "UsersEstimate": 12229
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -4816,7 +4821,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 26808
+      "UsersEstimate": 26809
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -4888,7 +4893,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 45621
+      "UsersEstimate": 45622
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -4976,22 +4981,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 33863
+      "UsersEstimate": 33864
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 47032,
+      "Progressed": 47033,
       "Completed": 167
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-05-23T23:01:25.1919593+00:00",
-  "LastChanged_Achievements": "2023-05-24T05:06:46.5580825+00:00",
+  "LastChanged_Achievements": "2023-05-24T06:05:37.3347855+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:50.9828107+00:00",
-  "LastUpdate_Ratings": "2023-05-24T05:00:49.485267+00:00",
-  "LastUpdate_Achievements": "2023-05-24T05:06:46.5582507+00:00"
+  "LastUpdate_Ratings": "2023-05-24T05:59:49.5547076+00:00",
+  "LastUpdate_Achievements": "2023-05-24T06:05:37.3348379+00:00"
 }

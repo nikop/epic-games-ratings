@@ -10,25 +10,25 @@ Rating: 3.40 (Ranked 925)
 | Wounded Whispers | 61.00% | ~983 |
 | Ne Plus Ultra | 60.00% | ~967 |
 | Blood Will Have Blood | 50.00% | ~806 |
-| ICU | 46.00% | ~741 |
-| Catch and Release | 45.00% | ~725 |
+| ICU | 46.00% | ~742 |
 | Peek-a-boo | 44.00% | ~709 |
+| Catch and Release | 44.00% | ~709 |
 | Sucks To Be You | 43.00% | ~693 |
-| Welcome to the Neighborhood | 38.00% | ~612 |
+| Welcome to the Neighborhood | 38.00% | ~613 |
 | Fly Fisher | 35.00% | ~564 |
 | Throw The First Stone | 34.00% | ~548 |
 | Enter of Your Own Free Will | 32.00% | ~516 |
 | Heart Attack | 32.00% | ~516 |
 | Skin of Their Teeth | 32.00% | ~516 |
 | Grounded | 24.00% | ~387 |
-| Bad Wiring | 21.00% | ~338 |
+| Bad Wiring | 21.00% | ~339 |
 | I Spit On Your Grave | 20.00% | ~322 |
 | Neighborhood Revitalization | 15.00% | ~242 |
 | Radio Silence | 15.00% | ~242 |
 | Helping Hand | 12.00% | ~193 |
 | You Clean It Up | 11.00% | ~177 |
-| Starve the Beast | 9.00% | ~145 |
 | Block Party | 8.00% | ~129 |
+| Starve the Beast | 8.00% | ~129 |
 | From the Shadows | 5.00% | ~81 |
 | Bell-ringer | 4.00% | ~64 |
 | Right This Way | 4.00% | ~64 |
@@ -53,7 +53,7 @@ Rating: 3.40 (Ranked 925)
 | Friendgineering | 1.00% | ~16 |
 | Bloody Initiate | 1.00% | ~16 |
 | Under a Bushel | 1.00% | ~16 |
-| Ask Not For Whom The Horns Blow | 0.90% | ~14 |
+| Ask Not For Whom The Horns Blow | 0.90% | ~15 |
 | Sisterhood | 0.70% | ~11 |
 | What Lies Below | 0.70% | ~11 |
 | So Anyway I Started Blasting | 0.70% | ~11 |
@@ -72,7 +72,7 @@ Rating: 3.40 (Ranked 925)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,611 (Ranked 151)  
+Progressed: 1,612 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,6 +99,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-21 | 1,596 | 0 |
 | 2023-05-22 | 1,600 | 0 |
 | 2023-05-23 | 1,611 | 0 |
+| 2023-05-24 | 1,612 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

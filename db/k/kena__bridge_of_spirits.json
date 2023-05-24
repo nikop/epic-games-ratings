@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 32,
   "Ranking_EOS_Completed": 155,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1136,9 +1136,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 425388,
+  "EOS_Progressed": 425389,
   "EOS_Completed": 501,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3391,6 +3391,11 @@
       "Time": "2023-05-24T05:06:18.5177582+00:00",
       "NumProgressed": 425388,
       "NumCompleted": 501
+    },
+    {
+      "Time": "2023-05-24T06:05:12.4820158+00:00",
+      "NumProgressed": 425389,
+      "NumCompleted": 501
     }
   ],
   "TotalAchievements": 41,
@@ -3410,7 +3415,7 @@
       "Name": "Harness Your Power",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 161647
+      "UsersEstimate": 161648
     },
     {
       "ID": "ACH_ABILITY_BOW",
@@ -3458,7 +3463,7 @@
       "Name": "A Heavy Hammer",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 127616
+      "UsersEstimate": 127617
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -3466,7 +3471,7 @@
       "Name": "Piercing Blow",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 55300
+      "UsersEstimate": 55301
     },
     {
       "ID": "ACH_CHALLENGE_BOMB",
@@ -3482,7 +3487,7 @@
       "Name": "Rot Commander",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 250979
+      "UsersEstimate": 250980
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -3514,7 +3519,7 @@
       "Name": "Weigh Them Down",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 131870
+      "UsersEstimate": 131871
     },
     {
       "ID": "ACH_CHALLENGE_MULTISHOT",
@@ -3530,7 +3535,7 @@
       "Name": "Triple Threat",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3828
+      "UsersEstimate": 3829
     },
     {
       "ID": "ACH_CHALLENGE_SHIELD_STICKS",
@@ -3538,7 +3543,7 @@
       "Name": "Between the Eyes",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 195678
+      "UsersEstimate": 195679
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -3570,7 +3575,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 404119
+      "UsersEstimate": 404120
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -3586,7 +3591,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 306279
+      "UsersEstimate": 306280
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -3618,7 +3623,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 340310
+      "UsersEstimate": 340311
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -3682,7 +3687,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 233963
+      "UsersEstimate": 233964
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -3714,7 +3719,7 @@
       "Name": "Adira\u0027s Regret",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 131870
+      "UsersEstimate": 131871
     },
     {
       "ID": "ACH_ROT_ALL",
@@ -3729,15 +3734,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 425388,
+      "Progressed": 425389,
       "Completed": 501
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-05-23T15:58:10.904898+00:00",
-  "LastChanged_Achievements": "2023-05-24T05:06:18.5177576+00:00",
+  "LastChanged_Achievements": "2023-05-24T06:05:12.4820152+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:49.1218266+00:00",
-  "LastUpdate_Ratings": "2023-05-24T04:58:23.4769586+00:00",
-  "LastUpdate_Achievements": "2023-05-24T05:06:18.5178029+00:00"
+  "LastUpdate_Ratings": "2023-05-24T05:57:51.6856214+00:00",
+  "LastUpdate_Achievements": "2023-05-24T06:05:12.482059+00:00"
 }

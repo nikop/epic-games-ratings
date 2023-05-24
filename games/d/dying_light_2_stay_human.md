@@ -6,38 +6,38 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 9.00% | ~49,979 |
-| Into the Unknown | 8.00% | ~44,426 |
-| First Shot | 8.00% | ~44,426 |
-| Herzlich Wilkommen! | 8.00% | ~44,426 |
-| Sancho Panza | 7.00% | ~38,873 |
-| Good Night & Good Luck | 7.00% | ~38,873 |
-| Under Pressure | 6.00% | ~33,319 |
-| On the Trail of the Enemy | 6.00% | ~33,319 |
-| Flag Burning | 6.00% | ~33,319 |
-| Oh, So This Is How It Works! | 6.00% | ~33,319 |
-| Night Hunter | 6.00% | ~33,319 |
-| Light in the Darkness | 5.00% | ~27,766 |
-| Get Outta My House! | 5.00% | ~27,766 |
-| It Wasn't That Hard, Was It? | 5.00% | ~27,766 |
-| Being All Social | 5.00% | ~27,766 |
-| Debris and Ashes | 4.00% | ~22,213 |
-| We Will Be Heard! | 4.00% | ~22,213 |
-| Known Associate | 4.00% | ~22,213 |
-| Brush with Death | 4.00% | ~22,213 |
-| Going Down | 4.00% | ~22,213 |
-| Family First | 4.00% | ~22,213 |
-| Your World, Your Rules | 4.00% | ~22,213 |
-| Tunnel Entrance | 4.00% | ~22,213 |
-| After the Fall | 4.00% | ~22,213 |
-| Can't Touch This! | 4.00% | ~22,213 |
-| Death From Afar | 4.00% | ~22,213 |
+| You Never Forget Your First... | 9.00% | ~49,981 |
+| Into the Unknown | 8.00% | ~44,428 |
+| First Shot | 8.00% | ~44,428 |
+| Herzlich Wilkommen! | 8.00% | ~44,428 |
+| Sancho Panza | 7.00% | ~38,874 |
+| Good Night & Good Luck | 7.00% | ~38,874 |
+| Under Pressure | 6.00% | ~33,321 |
+| On the Trail of the Enemy | 6.00% | ~33,321 |
+| Flag Burning | 6.00% | ~33,321 |
+| Oh, So This Is How It Works! | 6.00% | ~33,321 |
+| Night Hunter | 6.00% | ~33,321 |
+| Light in the Darkness | 5.00% | ~27,767 |
+| Get Outta My House! | 5.00% | ~27,767 |
+| It Wasn't That Hard, Was It? | 5.00% | ~27,767 |
+| Being All Social | 5.00% | ~27,767 |
+| Debris and Ashes | 4.00% | ~22,214 |
+| We Will Be Heard! | 4.00% | ~22,214 |
+| Known Associate | 4.00% | ~22,214 |
+| Brush with Death | 4.00% | ~22,214 |
+| Going Down | 4.00% | ~22,214 |
+| Family First | 4.00% | ~22,214 |
+| Your World, Your Rules | 4.00% | ~22,214 |
+| Tunnel Entrance | 4.00% | ~22,214 |
+| After the Fall | 4.00% | ~22,214 |
+| Can't Touch This! | 4.00% | ~22,214 |
+| Death From Afar | 4.00% | ~22,214 |
 | Terminal Headache | 3.00% | ~16,660 |
 | Slowpoke! | 3.00% | ~16,660 |
-| Tickets, Please! | 2.00% | ~11,106 |
-| Parkour Master | 2.00% | ~11,106 |
-| Combat Master | 2.00% | ~11,106 |
-| You're Going Down! | 2.00% | ~11,106 |
+| Tickets, Please! | 2.00% | ~11,107 |
+| Parkour Master | 2.00% | ~11,107 |
+| Combat Master | 2.00% | ~11,107 |
+| You're Going Down! | 2.00% | ~11,107 |
 | Municipal Services | 1.00% | ~5,553 |
 | Tube Map | 1.00% | ~5,553 |
 | Don Quixote | 1.00% | ~5,553 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~201 |
 | Connoisseur | 0.10% | ~201 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 555,323 (Ranked 22)  
+Progressed: 555,347 (Ranked 22)  
 Completed: 49 (0.01%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 49 (0.01%) (Ranked 193)
 | 2023-05-21 | 553,306 | 49 |
 | 2023-05-22 | 554,295 | 49 |
 | 2023-05-23 | 555,188 | 49 |
-| 2023-05-24 | 555,323 | 49 |
+| 2023-05-24 | 555,347 | 49 |
 ## Awards
 Max (Character Customization): 7,172  (Ranked 44)  
 Sum: 16,235 (Ranked 59)  

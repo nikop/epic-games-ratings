@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 84.00% | ~97 |
-| Rail Rat | 60.00% | ~69 |
-| The Mysterious Stranger | 57.00% | ~66 |
-| Right On Time | 40.00% | ~46 |
-| Immaculate Aim | 40.00% | ~46 |
+| Time Heals All Wounds | 87.00% | ~102 |
+| Rail Rat | 62.00% | ~73 |
+| The Mysterious Stranger | 59.00% | ~69 |
+| Right On Time | 41.00% | ~48 |
+| Immaculate Aim | 40.00% | ~47 |
+| Honest Mistake | 27.00% | ~32 |
+| Time Flies | 26.00% | ~30 |
 | The Brass Boss | 26.00% | ~30 |
-| Time Flies | 25.00% | ~29 |
-| Honest Mistake | 25.00% | ~29 |
-| Fast Learner | 22.00% | ~25 |
-| No, Thanks! | 21.00% | ~24 |
+| Fast Learner | 22.00% | ~26 |
+| No, Thanks! | 21.00% | ~25 |
 | The Harder They Fall | 20.00% | ~23 |
-| The Prince in Heels | 19.00% | ~22 |
-| Family Memories | 17.00% | ~20 |
+| The Prince in Heels | 20.00% | ~23 |
+| Family Memories | 18.00% | ~21 |
 | Breaking Down Barriers | 17.00% | ~20 |
+| Make Up For Lost Time | 14.00% | ~16 |
 | Immaculate Aim | 14.00% | ~16 |
-| Make Up For Lost Time | 13.00% | ~15 |
-| Good Neighbor | 11.00% | ~13 |
+| Good Neighbor | 12.00% | ~14 |
 | Golem Chaser | 10.00% | ~12 |
-| The Steel Shadow | 9.00% | ~10 |
+| The Steel Shadow | 9.00% | ~11 |
 | The Wicked Twins | 7.00% | ~8 |
 | The Betrayer | 5.00% | ~6 |
 | Syron for Hope | 5.00% | ~6 |
 | Like Clockwork | 4.00% | ~5 |
 | Whiz Kid | 4.00% | ~5 |
-| Clovemary for Remembering | 3.00% | ~3 |
-| Street Style | 3.00% | ~3 |
-| Factorywood Explorer | 3.00% | ~3 |
-| Hexlock for Protection | 3.00% | ~3 |
-| Sump Explorer | 3.00% | ~3 |
-| Check Your Pulse | 3.00% | ~3 |
-| Ask Questions Later | 3.00% | ~3 |
+| Clovemary for Remembering | 3.00% | ~4 |
+| Street Style | 3.00% | ~4 |
+| Factorywood Explorer | 3.00% | ~4 |
+| Hexlock for Protection | 3.00% | ~4 |
+| Sump Explorer | 3.00% | ~4 |
+| Check Your Pulse | 3.00% | ~4 |
+| Ask Questions Later | 3.00% | ~4 |
 | Chaincrawler Explorer | 2.00% | ~2 |
 | Wunderkind | 2.00% | ~2 |
 | Golem Hunter | 2.00% | ~2 |
@@ -42,6 +42,7 @@
 | No Time to Waste | 2.00% | ~2 |
 | Cultivair Explorer | 0.90% | ~1 |
 | The Loose Cannon | 0.90% | ~1 |
+| Theater Explorer | 0.90% | ~1 |
 | Thinking Two Steps Ahead | 0.00% | ~0 |
 | Treasure Trove | 0.00% | ~0 |
 | Corin Goes Home | 0.00% | ~0 |
@@ -55,13 +56,12 @@
 | Going to Live Forever | 0.00% | ~0 |
 | Raw Talent | 0.00% | ~0 |
 | A Lesson in Precision | 0.00% | ~0 |
-| Theater Explorer | 0.00% | ~0 |
 | The Family Fortune | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 115 (Ranked 258)  
+Progressed: 117 (Ranked 258)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-23 | 34 | 0 |
-| 2023-05-24 | 115 | 0 |
+| 2023-05-24 | 117 | 0 |

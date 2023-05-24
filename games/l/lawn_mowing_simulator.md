@@ -6,16 +6,16 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 82.00% | ~506,292 |
-| Every story has a beginning | 37.00% | ~228,449 |
-| The first of many | 32.00% | ~197,577 |
-| Positive word of mouth | 18.00% | ~111,137 |
-| Lawn in the U.S.A. | 15.00% | ~92,614 |
-| Blade Runner | 9.00% | ~55,569 |
-| Credible | 7.00% | ~43,220 |
-| Teamwork makes the dream work | 6.00% | ~37,046 |
-| Bigger and better | 4.00% | ~24,697 |
-| Aggressive expansion | 4.00% | ~24,697 |
+| The dream begins | 82.00% | ~506,302 |
+| Every story has a beginning | 37.00% | ~228,454 |
+| The first of many | 32.00% | ~197,581 |
+| Positive word of mouth | 18.00% | ~111,140 |
+| Lawn in the U.S.A. | 15.00% | ~92,616 |
+| Blade Runner | 9.00% | ~55,570 |
+| Credible | 7.00% | ~43,221 |
+| Teamwork makes the dream work | 6.00% | ~37,047 |
+| Bigger and better | 4.00% | ~24,698 |
+| Aggressive expansion | 4.00% | ~24,698 |
 | Where there's muck there's brass | 3.00% | ~18,523 |
 | Size isn't everything | 3.00% | ~18,523 |
 | Established | 3.00% | ~18,523 |
@@ -31,7 +31,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn & Order | 0.90% | ~5,557 |
 | Jack of all trades | 0.90% | ~5,557 |
 | Professional | 0.90% | ~5,557 |
-| All hands on deck | 0.80% | ~4,939 |
+| All hands on deck | 0.80% | ~4,940 |
 | The grass is always greener | 0.70% | ~4,322 |
 | Worked your grass off | 0.70% | ~4,322 |
 | Phoenix rises | 0.40% | ~2,470 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~617 |
 | Mo mowers, mo problems | 0.10% | ~617 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 617,429 (Ranked 19)  
+Progressed: 617,442 (Ranked 19)  
 Completed: 10 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 10 (0.00%) (Ranked 202)
 | 2023-05-21 | 616,627 | 9 |
 | 2023-05-22 | 617,004 | 9 |
 | 2023-05-23 | 617,354 | 10 |
-| 2023-05-24 | 617,429 | 10 |
+| 2023-05-24 | 617,442 | 10 |
 ## Awards
 Max (Quickly Understood Controls): 179  (Ranked 270)  
 Sum: 959 (Ranked 231)  

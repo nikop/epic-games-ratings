@@ -6,6 +6,7 @@
 | ---- | ---------- | ----- |
 | Poor Devil | 55.00% | ~6 |
 | Mystery Tour | 55.00% | ~6 |
+| Apprentice | 45.00% | ~5 |
 | Departure | 45.00% | ~5 |
 | A new Journey | 45.00% | ~5 |
 | Country Bumpkin | 45.00% | ~5 |
@@ -15,7 +16,6 @@
 | Way of Iron | 45.00% | ~5 |
 | All around the World | 45.00% | ~5 |
 | Travel Company | 45.00% | ~5 |
-| Apprentice | 36.00% | ~4 |
 | From X to Y | 36.00% | ~4 |
 | Full Steam ahead | 36.00% | ~4 |
 | Facility Manager | 36.00% | ~4 |

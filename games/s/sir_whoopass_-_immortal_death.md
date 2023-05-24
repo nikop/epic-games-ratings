@@ -10,20 +10,20 @@
 | That's what cheese said! | 86.00% | ~48 |
 | I like you...but I have to kill you... | 82.00% | ~46 |
 | Nerd | 82.00% | ~46 |
-| AHHHHHH.....I'M ON FIRE!!! | 79.00% | ~44 |
+| AHHHHHH.....I'M ON FIRE!!! | 80.00% | ~45 |
 | Not so hip anymore! | 79.00% | ~44 |
+| Blurry depth perception | 77.00% | ~43 |
 | Up and down | 75.00% | ~42 |
-| Blurry depth perception | 75.00% | ~42 |
 | Rolling, Rolling, Rolling | 70.00% | ~39 |
-| Oh, you're up to no gouda! | 59.00% | ~33 |
-| Fire-fighter! | 59.00% | ~33 |
+| Oh, you're up to no gouda! | 61.00% | ~34 |
+| Fire-fighter! | 61.00% | ~34 |
 | Make Love not War-Craft a Mistlefoe | 57.00% | ~32 |
-| Meat grinder | 52.00% | ~29 |
+| Meat grinder | 54.00% | ~30 |
 | Butcher | 46.00% | ~26 |
+| Mushroom soup of the day | 46.00% | ~26 |
 | You're not going to blow me up! | 46.00% | ~26 |
-| Mushroom soup of the day | 45.00% | ~25 |
-| Honk honk! | 43.00% | ~24 |
-| My pants squeak when I walk | 43.00% | ~24 |
+| Honk honk! | 45.00% | ~25 |
+| My pants squeak when I walk | 45.00% | ~25 |
 | Spare Ribs | 43.00% | ~24 |
 | Surprise!! | 41.00% | ~23 |
 | Thats disgusting! | 39.00% | ~22 |

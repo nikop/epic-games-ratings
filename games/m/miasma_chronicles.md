@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 83.00% | ~150 |
-| Ranidaphobia | 43.00% | ~78 |
-| Aspiring Editor | 29.00% | ~52 |
-| Gun for Hire | 20.00% | ~36 |
+| First Blood | 84.00% | ~155 |
+| Ranidaphobia | 42.00% | ~77 |
+| Aspiring Editor | 29.00% | ~53 |
+| Gun for Hire | 20.00% | ~37 |
 | I am the law! | 7.00% | ~13 |
-| Firestarter | 2.00% | ~4 |
+| Firestarter | 3.00% | ~6 |
 | Limp Richard | 1.00% | ~2 |
 | Lumberjack | 1.00% | ~2 |
 | Newtonian Knockout | 1.00% | ~2 |
-| Are you not entertained? | 0.60% | ~1 |
-| Commando | 0.60% | ~1 |
-| Croaked | 0.60% | ~1 |
-| Curveball | 0.60% | ~1 |
-| Ganglord | 0.60% | ~1 |
-| Jarhead | 0.60% | ~1 |
-| Dr Jones | 0.60% | ~1 |
-| Exorcist | 0.60% | ~1 |
-| From Darkness to Light | 0.60% | ~1 |
-| Giant Killer | 0.60% | ~1 |
-| Infiltrator | 0.60% | ~1 |
-| Pushing Daisy | 0.60% | ~1 |
-| Recycler | 0.60% | ~1 |
-| Sensei | 0.60% | ~1 |
-| Side Order | 0.60% | ~1 |
-| Technophobe | 0.60% | ~1 |
-| There Can Be Only One! | 0.60% | ~1 |
-| The meaning of Kain | 0.60% | ~1 |
-| The Watchers | 0.60% | ~1 |
+| Are you not entertained? | 0.50% | ~1 |
+| Commando | 0.50% | ~1 |
+| Croaked | 0.50% | ~1 |
+| Curveball | 0.50% | ~1 |
+| Ganglord | 0.50% | ~1 |
+| Jarhead | 0.50% | ~1 |
+| Dr Jones | 0.50% | ~1 |
+| Exorcist | 0.50% | ~1 |
+| From Darkness to Light | 0.50% | ~1 |
+| Giant Killer | 0.50% | ~1 |
+| Infiltrator | 0.50% | ~1 |
+| Pushing Daisy | 0.50% | ~1 |
+| Recycler | 0.50% | ~1 |
+| Sensei | 0.50% | ~1 |
+| Side Order | 0.50% | ~1 |
+| Technophobe | 0.50% | ~1 |
+| There Can Be Only One! | 0.50% | ~1 |
+| The meaning of Kain | 0.50% | ~1 |
+| The Watchers | 0.50% | ~1 |
 | Alpha Editor | 0.00% | ~0 |
 | Attenborough | 0.00% | ~0 |
 | Bookworm | 0.00% | ~0 |
@@ -56,10 +56,10 @@
 | Silent but Violent | 0.00% | ~0 |
 | Wipe Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 181 (Ranked 235)  
+Progressed: 184 (Ranked 234)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-23 | 151 | 0 |
-| 2023-05-24 | 181 | 0 |
+| 2023-05-24 | 184 | 0 |

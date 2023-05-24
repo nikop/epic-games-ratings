@@ -6,26 +6,26 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 74.00% | ~1,881 |
-| Ready for Winter | 63.00% | ~1,601 |
-| Ready for Summer | 51.00% | ~1,296 |
-| Cordon Bleu | 43.00% | ~1,093 |
+| Venture Outward | 74.00% | ~1,883 |
+| Ready for Winter | 63.00% | ~1,603 |
+| Ready for Summer | 51.00% | ~1,297 |
+| Cordon Bleu | 43.00% | ~1,094 |
 | Tapped! | 35.00% | ~890 |
-| Eureka | 31.00% | ~788 |
+| Eureka | 31.00% | ~789 |
 | Scourge Slayer | 25.00% | ~636 |
 | Science, Troglodyte! | 23.00% | ~585 |
-| Exceptional Skill | 22.00% | ~559 |
-| Home Sweet Home | 22.00% | ~559 |
+| Exceptional Skill | 22.00% | ~560 |
+| Home Sweet Home | 22.00% | ~560 |
 | Encyclopedic! | 19.00% | ~483 |
 | A Fortress Toppled! | 16.00% | ~407 |
-| Apex Predator | 15.00% | ~381 |
-| The Power of Family | 15.00% | ~381 |
+| Apex Predator | 15.00% | ~382 |
+| The Power of Family | 15.00% | ~382 |
 | Strange amalgams | 12.00% | ~305 |
 | The Power of Faith | 12.00% | ~305 |
 | The Power of Freedom | 9.00% | ~229 |
-| Ace Detective | 8.00% | ~203 |
-| Gift from the Ancestors | 8.00% | ~203 |
-| Magic is a science | 8.00% | ~203 |
+| Ace Detective | 8.00% | ~204 |
+| Gift from the Ancestors | 8.00% | ~204 |
+| Magic is a science | 8.00% | ~204 |
 | House of Cards | 7.00% | ~178 |
 | Let ‘em eat magma! | 7.00% | ~178 |
 | The power of ambition | 7.00% | ~178 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.40% | ~10 |
 | The Absolute Pinnacle. | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,542 (Ranked 139)  
+Progressed: 2,544 (Ranked 139)  
 Completed: 1 (0.04%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 1 (0.04%) (Ranked 177)
 | 2023-05-21 | 2,488 | 1 |
 | 2023-05-22 | 2,518 | 1 |
 | 2023-05-23 | 2,537 | 1 |
-| 2023-05-24 | 2,542 | 1 |
+| 2023-05-24 | 2,544 | 1 |
 ## Awards
 Max (Amazing Characters): 31  (Ranked 441)  
 Sum: 238 (Ranked 342)  

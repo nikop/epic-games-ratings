@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -100,9 +100,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1611,
+  "EOS_Progressed": 1612,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1500,6 +1500,11 @@
       "Time": "2023-05-23T23:06:29.8287001+00:00",
       "NumProgressed": 1611,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T06:05:18.4659773+00:00",
+      "NumProgressed": 1612,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1575,7 +1580,7 @@
       "Name": "Welcome to the Neighborhood",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "Achievement_011",
@@ -1631,7 +1636,7 @@
       "Name": "Bad Wiring",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "Achievement_018",
@@ -1735,7 +1740,7 @@
       "Name": "ICU",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "Achievement_031",
@@ -1765,9 +1770,9 @@
       "ID": "Achievement_034",
       "SetID": "6b34g18",
       "Name": "Catch and Release",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 725
+      "UsersEstimate": 709
     },
     {
       "ID": "Achievement_035",
@@ -1829,9 +1834,9 @@
       "ID": "Achievement_043",
       "SetID": "6b34g18",
       "Name": "Starve the Beast",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 129
     },
     {
       "ID": "Achievement_044",
@@ -1855,7 +1860,7 @@
       "Name": "Ask Not For Whom The Horns Blow",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Achievement_048",
@@ -2038,7 +2043,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1611,
+      "Progressed": 1612,
       "Completed": 0
     }
   ],
@@ -2046,8 +2051,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-21T03:57:51.8415336+00:00",
-  "LastChanged_Achievements": "2023-05-24T05:06:25.1974769+00:00",
+  "LastChanged_Achievements": "2023-05-24T06:05:18.4659765+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:23.3271568+00:00",
-  "LastUpdate_Ratings": "2023-05-24T04:57:56.3108895+00:00",
-  "LastUpdate_Achievements": "2023-05-24T05:06:25.1976246+00:00"
+  "LastUpdate_Ratings": "2023-05-24T05:57:29.4458787+00:00",
+  "LastUpdate_Achievements": "2023-05-24T06:05:18.4660537+00:00"
 }

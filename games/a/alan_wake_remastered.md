@@ -6,14 +6,14 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 21.00% | ~9,854 |
-| Let There Be Light | 17.00% | ~7,977 |
+| Follow the Light | 21.00% | ~9,855 |
+| Let There Be Light | 17.00% | ~7,978 |
 | Float Like a Butterfly | 16.00% | ~7,508 |
-| Nordic Walking | 13.00% | ~6,100 |
-| Bright Falls' Finest | 13.00% | ~6,100 |
+| Nordic Walking | 13.00% | ~6,101 |
+| Bright Falls' Finest | 13.00% | ~6,101 |
 | Under a Thin Layer of Skin | 12.00% | ~5,631 |
-| Park Ranger | 10.00% | ~4,692 |
-| Paging Mr. Wake | 10.00% | ~4,692 |
+| Park Ranger | 10.00% | ~4,693 |
+| Paging Mr. Wake | 10.00% | ~4,693 |
 | Back! Back, I Say! | 9.00% | ~4,223 |
 | Finders Keepers | 9.00% | ~4,223 |
 | Wheels Within Wheels | 8.00% | ~3,754 |
@@ -22,7 +22,7 @@ Number of Ratings: 524  (23.09.2022)
 | Sound and Fury | 8.00% | ~3,754 |
 | Missed by a Mile | 8.00% | ~3,754 |
 | Damn Good Cup of Coffee | 8.00% | ~3,754 |
-| A Friend in Need | 8.00% | ~831 |
+| A Friend in Need | 8.00% | ~832 |
 | Heavy Metal | 7.00% | ~3,285 |
 | Iron Horse | 7.00% | ~3,285 |
 | Perchance to Dream | 7.00% | ~3,285 |
@@ -48,7 +48,7 @@ Number of Ratings: 524  (23.09.2022)
 | KBF-FM | 3.00% | ~1,408 |
 | Kill Your Darlings | 3.00% | ~312 |
 | Heartbreaker | 3.00% | ~312 |
-| Carny | 2.00% | ~938 |
+| Carny | 2.00% | ~939 |
 | Iron Will | 2.00% | ~208 |
 | Medical Opinions | 1.00% | ~469 |
 | Taken Season | 1.00% | ~469 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~47 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,925 (Ranked 76)  
+Progressed: 46,927 (Ranked 76)  
 Completed: 45 (0.10%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 45 (0.10%) (Ranked 158)
 | 2023-05-21 | 46,674 | 45 |
 | 2023-05-22 | 46,794 | 45 |
 | 2023-05-23 | 46,896 | 45 |
-| 2023-05-24 | 46,925 | 45 |
+| 2023-05-24 | 46,927 | 45 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

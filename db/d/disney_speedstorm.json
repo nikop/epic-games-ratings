@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2545,
+  "EOS_Progressed": 2546,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1720,6 +1720,11 @@
       "Time": "2023-05-23T23:01:59.4829957+00:00",
       "NumProgressed": 2545,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T05:59:56.9649191+00:00",
+      "NumProgressed": 2546,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1771,7 +1776,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "15",
@@ -1811,7 +1816,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 10,
       "XP": 85,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "2",
@@ -1883,7 +1888,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1324
     },
     {
       "ID": "6",
@@ -1922,13 +1927,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2545,
+      "Progressed": 2546,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-24T05:00:56.2926932+00:00",
+  "LastChanged_Achievements": "2023-05-24T05:59:56.9649186+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.9291954+00:00",
-  "LastUpdate_Ratings": "2023-05-24T04:59:06.4112042+00:00",
-  "LastUpdate_Achievements": "2023-05-24T05:00:56.2927391+00:00"
+  "LastUpdate_Ratings": "2023-05-24T05:58:27.458186+00:00",
+  "LastUpdate_Achievements": "2023-05-24T05:59:56.9649471+00:00"
 }

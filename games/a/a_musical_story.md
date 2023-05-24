@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ECG | 97.00% | ~56 |
-| Rehearsal | 95.00% | ~55 |
-| Daily Life | 91.00% | ~53 |
-| Assembly Line Work | 86.00% | ~50 |
-| Solitude | 84.00% | ~49 |
-| Pinewood, Here we come! | 76.00% | ~44 |
-| The Van | 67.00% | ~39 |
-| Road-Trip | 59.00% | ~34 |
-| A Musical Pause | 57.00% | ~33 |
-| Sound of Noise | 48.00% | ~28 |
-| Briget's | 47.00% | ~27 |
+| ECG | 97.00% | ~57 |
+| Rehearsal | 95.00% | ~56 |
+| Daily Life | 92.00% | ~54 |
+| Assembly Line Work | 86.00% | ~51 |
+| Solitude | 83.00% | ~49 |
+| Pinewood, Here we come! | 75.00% | ~44 |
+| The Van | 66.00% | ~39 |
+| Road-Trip | 58.00% | ~34 |
+| A Musical Pause | 56.00% | ~33 |
+| Sound of Noise | 47.00% | ~28 |
+| Briget's | 46.00% | ~27 |
 | Big City Music | 41.00% | ~24 |
 | Love at First Sight | 41.00% | ~24 |
 | First Kiss | 36.00% | ~21 |
-| A Bigger Band | 33.00% | ~19 |
-| Symbiosis | 33.00% | ~19 |
+| A Bigger Band | 32.00% | ~19 |
+| Symbiosis | 32.00% | ~19 |
 | Fuel | 29.00% | ~17 |
-| Alone Together | 28.00% | ~16 |
-| Threatening Nature | 26.00% | ~15 |
-| TV Dreams | 26.00% | ~15 |
+| Alone Together | 27.00% | ~16 |
+| Threatening Nature | 25.00% | ~15 |
+| TV Dreams | 25.00% | ~15 |
 | Flat Tire | 22.00% | ~13 |
-| The Clash | 21.00% | ~12 |
+| The Clash | 20.00% | ~12 |
 | Dreamers | 19.00% | ~11 |
-| The Fix | 16.00% | ~9 |
+| The Fix | 15.00% | ~9 |
 | Regrets | 14.00% | ~8 |
 | The Accident | 14.00% | ~8 |
 | Time | 12.00% | ~7 |
@@ -59,8 +59,8 @@
 | Pinewood | 2.00% | ~1 |
 | Love is All | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58 (Ranked 286)  
-Completed: 1 (1.72%) (Ranked 66)  
+Progressed: 59 (Ranked 286)  
+Completed: 1 (1.69%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -71,6 +71,7 @@ Completed: 1 (1.72%) (Ranked 66)
 | 2023-05-20 | 55 | 1 |
 | 2023-05-21 | 56 | 1 |
 | 2023-05-22 | 58 | 1 |
+| 2023-05-24 | 59 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

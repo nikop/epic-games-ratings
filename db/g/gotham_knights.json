@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 54,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1128,10 +1128,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 3704,
       "NumberOfAwardsMax": 2231
+    },
+    {
+      "Time": "2023-05-24T05:59:05.6681792+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 3705,
+      "NumberOfAwardsMax": 2231
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3704,
+  "NumberOfAwards": 3705,
   "NumberOfAwardsMax": 2231,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1163,7 +1169,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 177
+      "Count": 178
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1196,9 +1202,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61874,
+  "EOS_Progressed": 61877,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 942,
+  "EOS_NewPlayers": 945,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3531,6 +3537,11 @@
       "Time": "2023-05-24T05:06:47.6840295+00:00",
       "NumProgressed": 61874,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-24T06:05:38.3656324+00:00",
+      "NumProgressed": 61877,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3726,7 +3737,7 @@
       "Name": "Out of Their League",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -3758,7 +3769,7 @@
       "Name": "Drone You Out",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "FREEZE_1",
@@ -3886,7 +3897,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -3998,7 +4009,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -4029,22 +4040,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61874,
+      "Progressed": 61877,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32154,
+      "Progressed": 32157,
       "Completed": 2640
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-05-23T13:59:19.7620862+00:00",
-  "LastChanged_Achievements": "2023-05-24T05:06:47.684029+00:00",
+  "LastChanged": "2023-05-24T05:59:05.6681791+00:00",
+  "LastChanged_Achievements": "2023-05-24T06:05:38.3656318+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-24T04:59:55.3591229+00:00",
-  "LastUpdate_Achievements": "2023-05-24T05:06:47.6841057+00:00"
+  "LastUpdate_Ratings": "2023-05-24T05:59:05.6681797+00:00",
+  "LastUpdate_Achievements": "2023-05-24T06:05:38.365704+00:00"
 }

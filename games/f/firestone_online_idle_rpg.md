@@ -5,11 +5,11 @@ Rating: 3.87 (Ranked 906)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,081 |
-| World Map | 80.00% | ~920 |
+| Victor | 94.00% | ~1,082 |
+| World Map | 80.00% | ~921 |
 | Temple of Eternals | 57.00% | ~656 |
 | Prestigious | 53.00% | ~610 |
-| Fellowship Power | 41.00% | ~472 |
+| Fellowship Power | 40.00% | ~460 |
 | Guild Power | 24.00% | ~276 |
 | Prestigious x10 | 21.00% | ~242 |
 | The game is on | 18.00% | ~207 |
@@ -19,9 +19,9 @@ Rating: 3.87 (Ranked 906)
 | Inspection | 14.00% | ~161 |
 | Full Party | 13.00% | ~150 |
 | Hero inspection | 13.00% | ~150 |
-| Dragon Master | 11.00% | ~126 |
-| Enlightenment | 11.00% | ~126 |
-| Lieutenant | 11.00% | ~126 |
+| Dragon Master | 11.00% | ~127 |
+| Enlightenment | 11.00% | ~127 |
+| Lieutenant | 11.00% | ~127 |
 | Milestone collector | 10.00% | ~115 |
 | The Unstoppable | 10.00% | ~115 |
 | Mysterious Rock | 9.00% | ~104 |
@@ -38,15 +38,15 @@ Rating: 3.87 (Ranked 906)
 | Here We Go Again | 4.00% | ~46 |
 | Moving Up The Ladder | 4.00% | ~46 |
 | The Expeditioner | 4.00% | ~46 |
-| Ancient Knowledge | 3.00% | ~34 |
-| Background Story | 3.00% | ~34 |
-| Doing My Part | 3.00% | ~34 |
-| How Do You Turn This On? | 3.00% | ~34 |
-| Missions Dedication | 3.00% | ~34 |
-| Relic Of The Past | 3.00% | ~34 |
-| The father of Dragons | 3.00% | ~34 |
-| Trader | 3.00% | ~34 |
-| Weekly Quest Completionist | 3.00% | ~34 |
+| Ancient Knowledge | 3.00% | ~35 |
+| Background Story | 3.00% | ~35 |
+| Doing My Part | 3.00% | ~35 |
+| How Do You Turn This On? | 3.00% | ~35 |
+| Missions Dedication | 3.00% | ~35 |
+| Relic Of The Past | 3.00% | ~35 |
+| The father of Dragons | 3.00% | ~35 |
+| Trader | 3.00% | ~35 |
+| Weekly Quest Completionist | 3.00% | ~35 |
 | Dragon Slayer | 2.00% | ~23 |
 | Engineer Mastery | 2.00% | ~23 |
 | Lock And Load | 2.00% | ~23 |
@@ -81,7 +81,7 @@ Rating: 3.87 (Ranked 906)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,150 (Ranked 161)  
+Progressed: 1,151 (Ranked 161)  
 Completed: 1 (0.09%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,6 +115,7 @@ Completed: 1 (0.09%) (Ranked 163)
 | 2023-05-21 | 1,133 | 1 |
 | 2023-05-22 | 1,141 | 1 |
 | 2023-05-23 | 1,150 | 1 |
+| 2023-05-24 | 1,151 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

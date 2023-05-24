@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 163,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -92,9 +92,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1150,
+  "EOS_Progressed": 1151,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2102,6 +2102,11 @@
       "Time": "2023-05-23T19:06:22.2704313+00:00",
       "NumProgressed": 1150,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-24T06:05:21.4836438+00:00",
+      "NumProgressed": 1151,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2121,7 +2126,7 @@
       "Name": "Ancient Knowledge",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "angelpower",
@@ -2145,7 +2150,7 @@
       "Name": "Background Story",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "beastwarmachines",
@@ -2209,7 +2214,7 @@
       "Name": "Doing My Part",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "dragonclicker",
@@ -2225,7 +2230,7 @@
       "Name": "Dragon Master",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "dragonslayer",
@@ -2281,7 +2286,7 @@
       "Name": "Enlightenment",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "exoticmerchant",
@@ -2295,9 +2300,9 @@
       "ID": "fellowshippower",
       "SetID": "3nl4bcg",
       "Name": "Fellowship Power",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 472
+      "UsersEstimate": 460
     },
     {
       "ID": "fourleafclover",
@@ -2369,7 +2374,7 @@
       "Name": "How Do You Turn This On?",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "hunter",
@@ -2409,7 +2414,7 @@
       "Name": "Lieutenant",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "lockandload",
@@ -2457,7 +2462,7 @@
       "Name": "Missions Dedication",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "movinguptheladder",
@@ -2521,7 +2526,7 @@
       "Name": "Relic Of The Past",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "sailor",
@@ -2593,7 +2598,7 @@
       "Name": "The father of Dragons",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "thegameison",
@@ -2633,7 +2638,7 @@
       "Name": "Trader",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -2673,7 +2678,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "warmachinesarmy",
@@ -2689,7 +2694,7 @@
       "Name": "Weekly Quest Completionist",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "whatliesbehindthebush",
@@ -2705,14 +2710,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1150,
+      "Progressed": 1151,
       "Completed": 1
     }
   ],
@@ -2720,8 +2725,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-23T21:58:11.918076+00:00",
-  "LastChanged_Achievements": "2023-05-24T05:06:28.9133237+00:00",
+  "LastChanged_Achievements": "2023-05-24T06:05:21.4836433+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:34.8363446+00:00",
-  "LastUpdate_Ratings": "2023-05-24T04:58:05.7589881+00:00",
-  "LastUpdate_Achievements": "2023-05-24T05:06:28.9134378+00:00"
+  "LastUpdate_Ratings": "2023-05-24T05:57:36.9985169+00:00",
+  "LastUpdate_Achievements": "2023-05-24T06:05:21.4837212+00:00"
 }
