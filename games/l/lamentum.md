@@ -11,7 +11,7 @@ Rating: 4.37 (Ranked 705)
 | Lord Wesley | 34.00% | ~95 |
 | One step down | 28.00% | ~78 |
 | My dear Magda | 27.00% | ~75 |
-| Lord Clayton | 22.00% | ~61 |
+| Lord Clayton | 23.00% | ~64 |
 | The other side of the mirror | 15.00% | ~42 |
 | Little Mary | 14.00% | ~39 |
 | There is freedom in awakening | 11.00% | ~31 |

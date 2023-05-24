@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -428,9 +428,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13490,
+  "EOS_Progressed": 13497,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 923,
+  "EOS_NewPlayers": 930,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1423,6 +1423,11 @@
       "Time": "2023-05-24T15:03:32.9312091+00:00",
       "NumProgressed": 13490,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-05-24T16:02:32.0572827+00:00",
+      "NumProgressed": 13497,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 40,
@@ -1450,7 +1455,7 @@
       "Name": "Giving Back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -1466,7 +1471,7 @@
       "Name": "Flesh Wound",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -1562,7 +1567,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "KILL_ROBOT",
@@ -1624,9 +1629,9 @@
       "ID": "STORY_COLDOPEN",
       "SetID": "4hj6d86",
       "Name": "The Outer Way",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 405
     },
     {
       "ID": "STORY_ESCAPE",
@@ -1722,7 +1727,7 @@
       "Name": "Bear Trap",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -1753,13 +1758,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13490,
+      "Progressed": 13497,
       "Completed": 52
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1416,
+      "Progressed": 1423,
       "Completed": 29
     }
   ],
@@ -1767,8 +1772,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-23T19:57:59.4143533+00:00",
-  "LastChanged_Achievements": "2023-05-24T15:03:32.9312083+00:00",
+  "LastChanged_Achievements": "2023-05-24T16:02:32.0572823+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-24T14:58:09.3426341+00:00",
-  "LastUpdate_Achievements": "2023-05-24T15:03:32.9312594+00:00"
+  "LastUpdate_Ratings": "2023-05-24T15:57:34.197005+00:00",
+  "LastUpdate_Achievements": "2023-05-24T16:02:32.0573187+00:00"
 }

@@ -7,8 +7,8 @@ Rating: 4.55 (Ranked 466)
 | ---- | ---------- | ----- |
 | Wakey Wakey | 8.00% | ~170 |
 | Sputnik 2049 | 7.00% | ~149 |
-| Without Breaking Some Eggs... | 6.00% | ~127 |
-| Infinite Growth... | 6.00% | ~127 |
+| Without Breaking Some Eggs... | 6.00% | ~128 |
+| Infinite Growth... | 6.00% | ~128 |
 | Guy de Borderlands | 3.00% | ~64 |
 | Space Society | 3.00% | ~64 |
 | A Thousand Strong | 3.00% | ~64 |
@@ -17,11 +17,11 @@ Rating: 4.55 (Ranked 466)
 | Permanent Redesigns | 3.00% | ~64 |
 | Ain't Nobody Got Time for That | 3.00% | ~64 |
 | Hope Seeker | 3.00% | ~64 |
-| A Hunk of Junk | 2.00% | ~42 |
-| Exceeding Capacity | 2.00% | ~42 |
-| Fully Recycled | 2.00% | ~42 |
-| Please Make it Stop! | 2.00% | ~42 |
-| The Ship of Theseus | 2.00% | ~42 |
+| A Hunk of Junk | 2.00% | ~43 |
+| Exceeding Capacity | 2.00% | ~43 |
+| Fully Recycled | 2.00% | ~43 |
+| Please Make it Stop! | 2.00% | ~43 |
+| The Ship of Theseus | 2.00% | ~43 |
 | Man's Best Friend | 1.00% | ~21 |
 | Sightseeing | 1.00% | ~21 |
 | Power Outage | 1.00% | ~21 |
@@ -41,8 +41,8 @@ Rating: 4.55 (Ranked 466)
 | Sustainable Energy | 0.50% | ~11 |
 | You Had One Job... | 0.50% | ~11 |
 | What the Ruins Teach Us | 0.50% | ~11 |
-| Praise the Hull! | 0.40% | ~8 |
-| Space Greenhouse | 0.40% | ~8 |
+| Praise the Hull! | 0.40% | ~9 |
+| Space Greenhouse | 0.40% | ~9 |
 | Mutual Loyalty | 0.30% | ~6 |
 | Help of the Forgotten Member | 0.30% | ~6 |
 | Better Him Than Me | 0.20% | ~4 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 466)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,124 (Ranked 143)  
+Progressed: 2,127 (Ranked 142)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-21 | 2,063 | 0 |
 | 2023-05-22 | 2,083 | 0 |
 | 2023-05-23 | 2,115 | 0 |
-| 2023-05-24 | 2,124 | 0 |
+| 2023-05-24 | 2,127 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

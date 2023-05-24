@@ -3,8 +3,8 @@
   "Name": "Serial Cleaners",
   "ProductSlug": "serial-cleaners",
   "Ranking_EOS_Progress": 242,
-  "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_Completed": 46,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 166,
+  "EOS_Progressed": 167,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.01,
+  "EOS_Completed_Percentage": 2.99,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -100,6 +100,11 @@
     {
       "Time": "2023-05-24T03:05:19.1501345+00:00",
       "NumProgressed": 166,
+      "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-24T16:05:07.1747769+00:00",
+      "NumProgressed": 167,
       "NumCompleted": 5
     }
   ],
@@ -303,13 +308,13 @@
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 29,
+      "Progressed": 30,
       "Completed": 15
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 166,
+      "Progressed": 167,
       "Completed": 5
     }
   ],
@@ -317,8 +322,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-05-24T15:06:54.209339+00:00",
+  "LastChanged_Achievements": "2023-05-24T16:05:07.1747766+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:32.2683704+00:00",
-  "LastUpdate_Ratings": "2023-05-24T14:59:54.1789748+00:00",
-  "LastUpdate_Achievements": "2023-05-24T15:06:54.2093582+00:00"
+  "LastUpdate_Ratings": "2023-05-24T15:58:42.0751169+00:00",
+  "LastUpdate_Achievements": "2023-05-24T16:05:07.1747933+00:00"
 }

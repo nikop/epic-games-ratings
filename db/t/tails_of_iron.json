@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1454,
+  "EOS_Progressed": 1455,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -660,6 +660,11 @@
       "Time": "2023-05-24T15:02:37.6793048+00:00",
       "NumProgressed": 1454,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-24T16:02:15.0087723+00:00",
+      "NumProgressed": 1455,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -679,7 +684,7 @@
       "Name": "Collect Gold",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "Collect20Iron",
@@ -687,7 +692,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "Collect50MonsterParts",
@@ -807,7 +812,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "GetRangedWeapon",
@@ -823,7 +828,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "Kill25Bugs",
@@ -831,7 +836,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "Kill25Frogs",
@@ -845,9 +850,9 @@
       "ID": "Kill25Mozi",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Mozis",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 625
+      "UsersEstimate": 640
     },
     {
       "ID": "MeetTheMoles",
@@ -879,7 +884,7 @@
       "Name": "Smithy Ready to Craft",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "RepairThroneRoom",
@@ -895,7 +900,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "ReturnPowerInMines",
@@ -910,22 +915,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1454,
+      "Progressed": 1455,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 95,
-      "Completed": 95
+      "Progressed": 96,
+      "Completed": 96
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-04-02T20:59:05.8070796+00:00",
-  "LastChanged_Achievements": "2023-05-24T15:02:37.6793035+00:00",
+  "LastChanged_Achievements": "2023-05-24T16:02:15.0087718+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3670256+00:00",
-  "LastUpdate_Ratings": "2023-05-24T14:58:50.4527003+00:00",
-  "LastUpdate_Achievements": "2023-05-24T15:02:37.6793892+00:00"
+  "LastUpdate_Ratings": "2023-05-24T15:58:00.5523577+00:00",
+  "LastUpdate_Achievements": "2023-05-24T16:02:15.0087976+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "mechwarrior-5",
   "Ranking_Rating": 360,
   "Ranking_Popularity": 128,
-  "Ranking_PopularitySum": 99,
+  "Ranking_PopularitySum": 98,
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 316,
@@ -3235,6 +3235,6 @@
   "FirstSeen": "2022-07-22T20:19:39.9366975+00:00",
   "LastChanged": "2023-05-23T14:57:28.6877938+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:10.686148+00:00",
-  "LastUpdate_Ratings": "2023-05-24T14:57:36.9094565+00:00",
-  "LastUpdate_Achievements": "2023-05-24T15:05:01.1398977+00:00"
+  "LastUpdate_Ratings": "2023-05-24T15:57:10.4202066+00:00",
+  "LastUpdate_Achievements": "2023-05-24T16:03:48.4727735+00:00"
 }

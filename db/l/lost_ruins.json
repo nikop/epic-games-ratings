@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 313,
+  "EOS_Progressed": 314,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -181,6 +181,11 @@
       "Time": "2023-05-24T05:06:40.396485+00:00",
       "NumProgressed": 313,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T16:05:17.200596+00:00",
+      "NumProgressed": 314,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -310,9 +315,9 @@
       "ID": "Inquisitor",
       "SetID": "82505mn",
       "Name": "Inquisitor",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 122
     },
     {
       "ID": "Librarian",
@@ -511,7 +516,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 313,
+      "Progressed": 314,
       "Completed": 0
     }
   ],
@@ -519,8 +524,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-05-24T15:07:07.4893749+00:00",
+  "LastChanged_Achievements": "2023-05-24T16:05:17.2005956+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:07.6550194+00:00",
-  "LastUpdate_Ratings": "2023-05-24T15:00:19.2222365+00:00",
-  "LastUpdate_Achievements": "2023-05-24T15:07:07.4894094+00:00"
+  "LastUpdate_Ratings": "2023-05-24T15:58:58.0633492+00:00",
+  "LastUpdate_Achievements": "2023-05-24T16:05:17.200627+00:00"
 }

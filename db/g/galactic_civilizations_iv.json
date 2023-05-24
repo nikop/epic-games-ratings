@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -774,9 +774,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 5763,
+  "EOS_Progressed": 5765,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2459,6 +2459,11 @@
       "Time": "2023-05-24T15:03:15.2021557+00:00",
       "NumProgressed": 5763,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T16:02:20.0128923+00:00",
+      "NumProgressed": 5765,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -2502,7 +2507,7 @@
       "Name": "Commodity Trader",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1844
+      "UsersEstimate": 1845
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -2510,7 +2515,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 3631
+      "UsersEstimate": 3632
     },
     {
       "ID": "Control_All_Relics",
@@ -2550,7 +2555,7 @@
       "Name": "Design a Civilization",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1844
+      "UsersEstimate": 1845
     },
     {
       "ID": "First_Major_Ally",
@@ -2574,7 +2579,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 4553
+      "UsersEstimate": 4554
     },
     {
       "ID": "First_Race_Met",
@@ -2582,7 +2587,7 @@
       "Name": "First Contact",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4207
+      "UsersEstimate": 4208
     },
     {
       "ID": "First_Ship_Designed",
@@ -2590,7 +2595,7 @@
       "Name": "Design a Ship",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "First_Stream_Travel",
@@ -2606,7 +2611,7 @@
       "Name": "Worker Specialization",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 4495
+      "UsersEstimate": 4497
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -2686,7 +2691,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2017
+      "UsersEstimate": 2018
     },
     {
       "ID": "Play_1000_Hours",
@@ -2774,7 +2779,7 @@
       "Name": "Commodity Seller",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1498
+      "UsersEstimate": 1499
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -2790,7 +2795,7 @@
       "Name": "Unleash My Power",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3573
+      "UsersEstimate": 3574
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -2926,7 +2931,7 @@
       "Name": "Win as Terrans",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "Win_As_Torian",
@@ -2958,7 +2963,7 @@
       "Name": "Win a Battle",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 3861
+      "UsersEstimate": 3863
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -3045,15 +3050,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 5763,
+      "Progressed": 5765,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-05-24T02:57:17.2647785+00:00",
-  "LastChanged_Achievements": "2023-05-24T15:03:15.2021553+00:00",
+  "LastChanged_Achievements": "2023-05-24T16:02:20.012892+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:07.7367569+00:00",
-  "LastUpdate_Ratings": "2023-05-24T14:57:37.2940572+00:00",
-  "LastUpdate_Achievements": "2023-05-24T15:03:15.2022368+00:00"
+  "LastUpdate_Ratings": "2023-05-24T15:57:10.7025548+00:00",
+  "LastUpdate_Achievements": "2023-05-24T16:02:20.0129738+00:00"
 }

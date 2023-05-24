@@ -10,7 +10,9 @@
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
     "isBlockchainUsed": false,
-    "CustomAttributes": {}
+    "CustomAttributes": {
+      "isPrepurchase": "true"
+    }
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
@@ -26,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-19T19:02:25.994332+00:00",
-  "LastUpdate_Ratings": "2023-05-24T14:59:49.5776017+00:00",
-  "LastUpdate_Achievements": "2023-05-24T15:04:48.6942288+00:00"
+  "LastUpdate_Ratings": "2023-05-24T15:58:38.9086505+00:00",
+  "LastUpdate_Achievements": "2023-05-24T16:03:39.9547284+00:00"
 }

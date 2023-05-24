@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -450,9 +450,9 @@
       "ID": "CHALLENGE_MEGARANDOM",
       "SetID": "6ohhfoc",
       "Name": "Mad Engineers",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CHALLENGE_RANDOMPOPULATION",
@@ -771,8 +771,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-03-31T05:57:30.891724+00:00",
-  "LastChanged_Achievements": "2023-05-24T15:06:36.1841955+00:00",
+  "LastChanged_Achievements": "2023-05-24T16:04:53.5824577+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:12.8802824+00:00",
-  "LastUpdate_Ratings": "2023-05-24T14:57:59.2035098+00:00",
-  "LastUpdate_Achievements": "2023-05-24T15:06:36.1842364+00:00"
+  "LastUpdate_Ratings": "2023-05-24T15:57:27.2852073+00:00",
+  "LastUpdate_Achievements": "2023-05-24T16:04:53.5824936+00:00"
 }

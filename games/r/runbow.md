@@ -5,18 +5,18 @@ Rating: 4.46 (Ranked 595)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~129,052 |
-| My First Runbow | 51.00% | ~124,182 |
-| It's The Fall | 26.00% | ~63,309 |
-| The Stunner | 21.00% | ~51,134 |
-| Be Aggressive | 20.00% | ~48,699 |
-| Curator | 20.00% | ~48,699 |
-| Crowning Around | 18.00% | ~43,829 |
-| Can You Dig It? | 17.00% | ~41,394 |
-| You Juan-A-Go? | 16.00% | ~38,959 |
-| Chan-tastic | 15.00% | ~36,524 |
-| Muddy Waters | 14.00% | ~34,089 |
-| Toasty! | 13.00% | ~31,654 |
+| In The Zone | 53.00% | ~129,055 |
+| My First Runbow | 51.00% | ~124,185 |
+| It's The Fall | 26.00% | ~63,310 |
+| The Stunner | 21.00% | ~51,135 |
+| Be Aggressive | 20.00% | ~48,700 |
+| Curator | 20.00% | ~48,700 |
+| Crowning Around | 18.00% | ~43,830 |
+| Can You Dig It? | 17.00% | ~41,395 |
+| You Juan-A-Go? | 16.00% | ~38,960 |
+| Chan-tastic | 15.00% | ~36,525 |
+| Muddy Waters | 14.00% | ~34,090 |
+| Toasty! | 13.00% | ~31,655 |
 | Lazy Laser | 8.00% | ~19,480 |
 | Into The Drift | 7.00% | ~17,045 |
 | Ready? Fight! | 7.00% | ~17,045 |
@@ -28,11 +28,11 @@ Rating: 4.46 (Ranked 595)
 | Blotbuster | 2.00% | ~4,870 |
 | Just A Bit | 1.00% | ~2,435 |
 | Thunderstruck | 1.00% | ~2,435 |
-| Tubular, Dude | 0.90% | ~2,191 |
-| What A Trip | 0.90% | ~2,191 |
+| Tubular, Dude | 0.90% | ~2,192 |
+| What A Trip | 0.90% | ~2,192 |
 | Please The King | 0.80% | ~1,948 |
 | Here We Go! | 0.70% | ~1,704 |
-| Clear-Cut | 0.50% | ~1,217 |
+| Clear-Cut | 0.50% | ~1,218 |
 | Breaking Out | 0.40% | ~974 |
 | Disposable | 0.30% | ~730 |
 | A Winner Is You | 0.20% | ~487 |
@@ -40,19 +40,19 @@ Rating: 4.46 (Ranked 595)
 | I'm Here All Night | 0.20% | ~487 |
 | Ride The Wave | 0.20% | ~487 |
 | Tree Medalist | 0.20% | ~487 |
-| Can't Be Kept Down | 0.10% | ~243 |
-| Completionist | 0.10% | ~243 |
-| Did Your Time | 0.10% | ~243 |
-| Hanging 10 | 0.10% | ~243 |
-| Hard To Stomach | 0.10% | ~243 |
-| Indegestible | 0.10% | ~243 |
-| Lockup Lockdown | 0.10% | ~243 |
-| Not Scared | 0.10% | ~243 |
-| Perfect Darkness | 0.10% | ~243 |
-| Talent Scout | 0.10% | ~243 |
-| True Completionist | 0.10% | ~243 |
+| Can't Be Kept Down | 0.10% | ~244 |
+| Completionist | 0.10% | ~244 |
+| Did Your Time | 0.10% | ~244 |
+| Hanging 10 | 0.10% | ~244 |
+| Hard To Stomach | 0.10% | ~244 |
+| Indegestible | 0.10% | ~244 |
+| Lockup Lockdown | 0.10% | ~244 |
+| Not Scared | 0.10% | ~244 |
+| Perfect Darkness | 0.10% | ~244 |
+| Talent Scout | 0.10% | ~244 |
+| True Completionist | 0.10% | ~244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,495 (Ranked 40)  
+Progressed: 243,500 (Ranked 40)  
 Completed: 2 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 2 (0.00%) (Ranked 202)
 | 2023-05-21 | 243,401 | 2 |
 | 2023-05-22 | 243,440 | 2 |
 | 2023-05-23 | 243,475 | 2 |
-| 2023-05-24 | 243,495 | 2 |
+| 2023-05-24 | 243,500 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

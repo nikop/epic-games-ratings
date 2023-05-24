@@ -4,22 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 85.00% | ~209 |
-| Ranidaphobia | 50.00% | ~123 |
-| Aspiring Editor | 39.00% | ~96 |
-| Gun for Hire | 33.00% | ~81 |
-| I am the law! | 15.00% | ~37 |
-| Firestarter | 5.00% | ~12 |
-| Lumberjack | 4.00% | ~10 |
-| Croaked | 2.00% | ~5 |
-| Limp Richard | 2.00% | ~5 |
+| First Blood | 86.00% | ~220 |
+| Ranidaphobia | 50.00% | ~128 |
+| Aspiring Editor | 40.00% | ~102 |
+| Gun for Hire | 33.00% | ~84 |
+| I am the law! | 16.00% | ~41 |
+| Firestarter | 5.00% | ~13 |
+| Lumberjack | 5.00% | ~13 |
+| Croaked | 3.00% | ~8 |
+| Limp Richard | 3.00% | ~8 |
+| Giant Killer | 2.00% | ~5 |
 | Hold The Line | 2.00% | ~5 |
 | Newtonian Knockout | 2.00% | ~5 |
-| Giant Killer | 1.00% | ~2 |
-| The meaning of Kain | 1.00% | ~2 |
-| Exorcist | 0.80% | ~2 |
+| Exorcist | 1.00% | ~3 |
+| The meaning of Kain | 1.00% | ~3 |
 | From Darkness to Light | 0.80% | ~2 |
 | Recycler | 0.80% | ~2 |
+| Sensei | 0.80% | ~2 |
 | There Can Be Only One! | 0.80% | ~2 |
 | Are you not entertained? | 0.40% | ~1 |
 | Chain Killer | 0.40% | ~1 |
@@ -34,7 +35,6 @@
 | Infiltrator | 0.40% | ~1 |
 | Pushing Daisy | 0.40% | ~1 |
 | Ruthless | 0.40% | ~1 |
-| Sensei | 0.40% | ~1 |
 | Side Order | 0.40% | ~1 |
 | Technophobe | 0.40% | ~1 |
 | The Watchers | 0.40% | ~1 |
@@ -56,10 +56,10 @@
 | Silent but Violent | 0.00% | ~0 |
 | Wipe Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246 (Ranked 224)  
+Progressed: 256 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-23 | 151 | 0 |
-| 2023-05-24 | 246 | 0 |
+| 2023-05-24 | 256 | 0 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 22,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-10-14T10:00:00+00:00",
     "PcReleaseDate": "2022-10-14T10:00:00+00:00",
@@ -679,9 +679,9 @@
       "ID": "005",
       "SetID": "94k0mj8",
       "Name": "005",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 39
+      "UsersEstimate": 58
     },
     {
       "ID": "006",
@@ -752,8 +752,8 @@
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-05-05T21:59:14.505449+00:00",
-  "LastChanged_Achievements": "2023-05-24T15:06:25.4766676+00:00",
+  "LastChanged_Achievements": "2023-05-24T16:04:45.9506483+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:35.3193403+00:00",
-  "LastUpdate_Ratings": "2023-05-24T14:58:21.2308597+00:00",
-  "LastUpdate_Achievements": "2023-05-24T15:06:25.4766783+00:00"
+  "LastUpdate_Ratings": "2023-05-24T15:57:42.1181846+00:00",
+  "LastUpdate_Achievements": "2023-05-24T16:04:45.9506591+00:00"
 }

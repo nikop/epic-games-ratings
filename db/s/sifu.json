@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 64,
   "Ranking_EOS_NewPlayers": 40,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4200,10 +4200,10 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 705006,
+  "EOS_Progressed": 705020,
   "EOS_Completed": 12734,
-  "EOS_NewPlayers": 2002,
-  "EOS_NewCompleters": 6,
+  "EOS_NewPlayers": 2013,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
     {
@@ -7020,6 +7020,11 @@
       "Time": "2023-05-24T15:07:03.9285032+00:00",
       "NumProgressed": 705006,
       "NumCompleted": 12734
+    },
+    {
+      "Time": "2023-05-24T16:05:14.3983316+00:00",
+      "NumProgressed": 705020,
+      "NumCompleted": 12734
     }
   ],
   "TotalAchievements": 50,
@@ -7189,9 +7194,9 @@
       "ID": "21_ThrowAI_Trophy",
       "SetID": "adcm20g",
       "Name": "Dance of the Praying Mantis",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 3525
+      "UsersEstimate": 4230
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -7367,7 +7372,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -7375,7 +7380,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -7430,21 +7435,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 14307,
+      "Progressed": 14321,
       "Completed": 10158
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 705006,
+      "Progressed": 705020,
       "Completed": 12734
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-24T13:59:00.3612885+00:00",
-  "LastChanged_Achievements": "2023-05-24T15:07:03.9285024+00:00",
+  "LastChanged_Achievements": "2023-05-24T16:05:14.3983312+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.7579865+00:00",
-  "LastUpdate_Ratings": "2023-05-24T14:59:36.5953626+00:00",
-  "LastUpdate_Achievements": "2023-05-24T15:07:03.9286069+00:00"
+  "LastUpdate_Ratings": "2023-05-24T15:58:31.4989656+00:00",
+  "LastUpdate_Achievements": "2023-05-24T16:05:14.3983922+00:00"
 }

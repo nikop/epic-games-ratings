@@ -2498,7 +2498,7 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 9146,
+  "EOS_Progressed": 9147,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 0,
@@ -4393,6 +4393,11 @@
       "Time": "2023-05-24T14:06:12.3335778+00:00",
       "NumProgressed": 9146,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T16:05:25.1710186+00:00",
+      "NumProgressed": 9147,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -4404,7 +4409,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1280
+      "UsersEstimate": 1281
     },
     {
       "ID": "02_BurningCity",
@@ -5300,7 +5305,7 @@
       "Name": "This Wall Won\u0027t Fall",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "DLC4_27_Not the Last Sarkorian",
@@ -5308,7 +5313,7 @@
       "Name": "Not the Last Sarkorian",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "DLC4_29_The Lady of the Forest",
@@ -5331,21 +5336,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7928,
+      "Progressed": 7929,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9146,
+      "Progressed": 9147,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-23T19:58:32.5318283+00:00",
-  "LastChanged_Achievements": "2023-05-24T15:07:17.2537541+00:00",
+  "LastChanged_Achievements": "2023-05-24T16:05:25.1710182+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3010226+00:00",
-  "LastUpdate_Ratings": "2023-05-24T14:58:44.5293231+00:00",
-  "LastUpdate_Achievements": "2023-05-24T15:07:17.2541004+00:00"
+  "LastUpdate_Ratings": "2023-05-24T15:57:56.9268468+00:00",
+  "LastUpdate_Achievements": "2023-05-24T16:05:25.1711946+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "iron-danger-b4320c",
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 59,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-01-18T18:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 172,
+  "EOS_Progressed": 173,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.33,
+  "EOS_Completed_Percentage": 2.31,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.5378411+00:00",
@@ -90,6 +90,11 @@
     {
       "Time": "2023-05-23T09:05:50.6225477+00:00",
       "NumProgressed": 172,
+      "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-24T16:05:16.8608582+00:00",
+      "NumProgressed": 173,
       "NumCompleted": 4
     }
   ],
@@ -206,7 +211,7 @@
       "Name": "Ring of Fire!",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_ROOSTEREAT",
@@ -220,9 +225,9 @@
       "ID": "ACH_SHARD_1",
       "SetID": "ao59f0i",
       "Name": "First Shard",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 40,
-      "UsersEstimate": 139
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_SHARD_2",
@@ -230,7 +235,7 @@
       "Name": "Second Shard",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_SHARD_3",
@@ -285,7 +290,7 @@
     {
       "ID": "ao59f0i",
       "IsBase": true,
-      "Progressed": 172,
+      "Progressed": 173,
       "Completed": 4
     }
   ],
@@ -293,8 +298,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5649613+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.5378421+00:00",
   "LastChanged": "2023-03-31T05:58:48.5649614+00:00",
-  "LastChanged_Achievements": "2023-05-24T15:07:06.9807571+00:00",
+  "LastChanged_Achievements": "2023-05-24T16:05:16.8608578+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:59.7353215+00:00",
-  "LastUpdate_Ratings": "2023-05-24T15:00:55.0602782+00:00",
-  "LastUpdate_Achievements": "2023-05-24T15:07:06.9807725+00:00"
+  "LastUpdate_Ratings": "2023-05-24T15:59:22.9498825+00:00",
+  "LastUpdate_Achievements": "2023-05-24T16:05:16.860873+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "children-of-silentown-52cc21",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -216,9 +216,9 @@
       "ID": "SchoolRuler",
       "SetID": "9kk0gal",
       "Name": "Big metal ruler",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "Secret",
@@ -289,8 +289,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-05-24T15:07:08.6078135+00:00",
+  "LastChanged_Achievements": "2023-05-24T16:05:18.0532303+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:12:13.9596608+00:00",
-  "LastUpdate_Ratings": "2023-05-24T15:00:57.6876847+00:00",
-  "LastUpdate_Achievements": "2023-05-24T15:07:08.6078348+00:00"
+  "LastUpdate_Ratings": "2023-05-24T15:59:24.6925558+00:00",
+  "LastUpdate_Achievements": "2023-05-24T16:05:18.0532481+00:00"
 }

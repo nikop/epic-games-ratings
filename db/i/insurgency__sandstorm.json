@@ -2047,9 +2047,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 373286,
+  "EOS_Progressed": 373303,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3661,
+  "EOS_NewPlayers": 3659,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5422,6 +5422,11 @@
       "Time": "2023-05-24T15:03:38.2355469+00:00",
       "NumProgressed": 373286,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-24T16:02:35.7548113+00:00",
+      "NumProgressed": 373303,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -5465,7 +5470,7 @@
       "Name": "Cinematic",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1866
+      "UsersEstimate": 1867
     },
     {
       "ID": "ACH_DESIGNATED_DRIVER",
@@ -5489,7 +5494,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14931
+      "UsersEstimate": 14932
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -5537,7 +5542,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14931
+      "UsersEstimate": 14932
     },
     {
       "ID": "ACH_JR_50",
@@ -5601,7 +5606,7 @@
       "Name": "Point Shooting",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 18664
+      "UsersEstimate": 18665
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -5697,7 +5702,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 18664
+      "UsersEstimate": 18665
     },
     {
       "ID": "ACH_WET_FEET",
@@ -5705,22 +5710,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14931
+      "UsersEstimate": 14932
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 373286,
+      "Progressed": 373303,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-05-22T21:57:29.2139731+00:00",
-  "LastChanged_Achievements": "2023-05-24T15:03:38.235546+00:00",
+  "LastChanged_Achievements": "2023-05-24T16:02:35.7548109+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:23.1688337+00:00",
-  "LastUpdate_Ratings": "2023-05-24T14:58:07.6167662+00:00",
-  "LastUpdate_Achievements": "2023-05-24T15:03:38.2356272+00:00"
+  "LastUpdate_Ratings": "2023-05-24T15:57:33.0505798+00:00",
+  "LastUpdate_Achievements": "2023-05-24T16:02:35.7548557+00:00"
 }

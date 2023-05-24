@@ -477,9 +477,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12659,
+  "EOS_Progressed": 12660,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -2527,6 +2527,11 @@
       "Time": "2023-05-24T15:06:29.8314924+00:00",
       "NumProgressed": 12659,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-05-24T16:04:49.0111477+00:00",
+      "NumProgressed": 12660,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 41,
@@ -2538,7 +2543,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1392
+      "UsersEstimate": 1393
     },
     {
       "ID": "tpote_achievement_10",
@@ -2610,7 +2615,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1392
+      "UsersEstimate": 1393
     },
     {
       "ID": "tpote_achievement_19",
@@ -2642,7 +2647,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3924
+      "UsersEstimate": 3925
     },
     {
       "ID": "tpote_achievement_22",
@@ -2666,7 +2671,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1392
+      "UsersEstimate": 1393
     },
     {
       "ID": "tpote_achievement_25",
@@ -2714,7 +2719,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4177
+      "UsersEstimate": 4178
     },
     {
       "ID": "tpote_achievement_30",
@@ -2858,22 +2863,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4557
+      "UsersEstimate": 4558
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12659,
+      "Progressed": 12660,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-24T02:59:22.8736944+00:00",
-  "LastChanged_Achievements": "2023-05-24T15:06:29.8314917+00:00",
+  "LastChanged_Achievements": "2023-05-24T16:04:49.0111472+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:09:49.1992061+00:00",
-  "LastUpdate_Ratings": "2023-05-24T15:00:47.7251093+00:00",
-  "LastUpdate_Achievements": "2023-05-24T15:06:29.8315426+00:00"
+  "LastUpdate_Ratings": "2023-05-24T15:59:17.4149269+00:00",
+  "LastUpdate_Achievements": "2023-05-24T16:04:49.0111906+00:00"
 }

@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1336,
+  "EOS_Progressed": 1344,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 610,
+  "EOS_NewPlayers": 618,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1260,6 +1260,11 @@
       "Time": "2023-05-24T15:06:42.2949909+00:00",
       "NumProgressed": 1336,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-24T16:04:58.21876+00:00",
+      "NumProgressed": 1344,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1269,9 +1274,9 @@
       "ID": "REWARD_10_CLIMBING_THE_LADDER",
       "SetID": "bm6el81",
       "Name": "Climbing the Ladder",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -1311,7 +1316,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -1351,7 +1356,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1439,7 +1444,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1461,9 +1466,9 @@
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
       "SetID": "bm6el81",
       "Name": "My Little Friend",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -1509,17 +1514,17 @@
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
       "SetID": "bm6el81",
       "Name": "As Quiet as a Mouse",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 40
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
       "SetID": "bm6el81",
       "Name": "The Kraken Wakes",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 108
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -1607,7 +1612,7 @@
       "Name": "Change the Channel",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -1838,13 +1843,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1287,
+      "Progressed": 1295,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1336,
+      "Progressed": 1344,
       "Completed": 2
     }
   ],
@@ -1852,8 +1857,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-24T14:00:16.736359+00:00",
-  "LastChanged_Achievements": "2023-05-24T15:06:42.2949903+00:00",
+  "LastChanged_Achievements": "2023-05-24T16:04:58.2187597+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-24T15:01:29.6337473+00:00",
-  "LastUpdate_Achievements": "2023-05-24T15:06:42.295084+00:00"
+  "LastUpdate_Ratings": "2023-05-24T15:59:47.3058341+00:00",
+  "LastUpdate_Achievements": "2023-05-24T16:04:58.2188304+00:00"
 }

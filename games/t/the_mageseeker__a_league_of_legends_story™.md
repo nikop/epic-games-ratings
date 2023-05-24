@@ -6,10 +6,10 @@ Rating: 4.77 (Ranked 105)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | For Demacia | 95.00% | ~2,019 |
-| No more cages! | 91.00% | ~1,934 |
+| No more cages! | 92.00% | ~1,955 |
 | Everfrost | 77.00% | ~1,636 |
+| Pentakill | 76.00% | ~1,615 |
 | Dark Forest | 76.00% | ~1,615 |
-| Pentakill | 75.00% | ~1,594 |
 | The use of petricite | 72.00% | ~1,530 |
 | You can pet the dog | 60.00% | ~1,275 |
 | Big Helmet Bro | 34.00% | ~722 |
@@ -59,7 +59,7 @@ Rating: 4.77 (Ranked 105)
 | Silverwing nest | 2.00% | ~42 |
 | The Unshackled | 0.60% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,125 (Ranked 142)  
+Progressed: 2,125 (Ranked 143)  
 Completed: 1 (0.05%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |

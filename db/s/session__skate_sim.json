@@ -652,9 +652,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2056,
+  "EOS_Progressed": 2057,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1272,6 +1272,11 @@
       "Time": "2023-05-24T14:05:41.1104119+00:00",
       "NumProgressed": 2056,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T16:04:55.1391858+00:00",
+      "NumProgressed": 2057,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1427,7 +1432,7 @@
       "Name": "Keep the dream alive",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_KEEPING-IT-CLASSY",
@@ -1603,7 +1608,7 @@
       "Name": "The hard way",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_TIGHT-LIPSLIDES",
@@ -1635,7 +1640,7 @@
       "Name": "Upfront shredder",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_WE-GET-IT-YOURE-GOOD",
@@ -1666,15 +1671,15 @@
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2056,
+      "Progressed": 2057,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-05-19T07:58:43.4333069+00:00",
-  "LastChanged_Achievements": "2023-05-24T15:06:38.1228572+00:00",
+  "LastChanged_Achievements": "2023-05-24T16:04:55.1391854+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:21.8061522+00:00",
-  "LastUpdate_Ratings": "2023-05-24T14:59:41.2228305+00:00",
-  "LastUpdate_Achievements": "2023-05-24T15:06:38.1229168+00:00"
+  "LastUpdate_Ratings": "2023-05-24T15:58:34.6523193+00:00",
+  "LastUpdate_Achievements": "2023-05-24T16:04:55.1392261+00:00"
 }

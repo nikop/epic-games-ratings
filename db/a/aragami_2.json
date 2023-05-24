@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 109,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 33066,
+  "EOS_Progressed": 33067,
   "EOS_Completed": 157,
-  "EOS_NewPlayers": 498,
+  "EOS_NewPlayers": 495,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -3112,6 +3112,11 @@
       "Time": "2023-05-24T15:06:34.7917536+00:00",
       "NumProgressed": 33066,
       "NumCompleted": 157
+    },
+    {
+      "Time": "2023-05-24T16:04:52.5402111+00:00",
+      "NumProgressed": 33067,
+      "NumCompleted": 157
     }
   ],
   "TotalAchievements": 44,
@@ -3243,7 +3248,7 @@
       "Name": "First Steps",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 26783
+      "UsersEstimate": 26784
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -3315,7 +3320,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 12234
+      "UsersEstimate": 12235
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -3347,7 +3352,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 18517
+      "UsersEstimate": 18518
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -3395,7 +3400,7 @@
       "Name": "Control the Shadows",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 22485
+      "UsersEstimate": 22486
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -3459,7 +3464,7 @@
       "Name": "Awakening",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 30421
+      "UsersEstimate": 30422
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -3474,7 +3479,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 33066,
+      "Progressed": 33067,
       "Completed": 157
     }
   ],
@@ -3482,8 +3487,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-03-31T05:58:07.8538504+00:00",
-  "LastChanged_Achievements": "2023-05-24T15:06:34.7917529+00:00",
+  "LastChanged_Achievements": "2023-05-24T16:04:52.5402108+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:57.7696392+00:00",
-  "LastUpdate_Ratings": "2023-05-24T14:58:51.0506707+00:00",
-  "LastUpdate_Achievements": "2023-05-24T15:06:34.791831+00:00"
+  "LastUpdate_Ratings": "2023-05-24T15:58:01.0800906+00:00",
+  "LastUpdate_Achievements": "2023-05-24T16:04:52.5402625+00:00"
 }

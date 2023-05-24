@@ -20,7 +20,7 @@
 | All endings | 1.00% | ~2 |
 | Interpret | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247 (Ranked 223)  
+Progressed: 247 (Ranked 224)  
 Completed: 2 (0.81%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
