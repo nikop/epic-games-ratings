@@ -1,5 +1,6 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
+| [Secret Doctrine](games/7/730bfc3a1b124ec39120bd2dc73143e1.md) | 2023-05-25 | 2023-05-25 |
 | [Tuk Tuk Race](games/t/tuk_tuk_race.md) | 2023-05-25 | 2023-05-25 |
 | [Puzzle Compound](games/d/dc0f95061f7746e3b4ad939bee60f1a3.md) | 2023-05-25 | 2023-05-25 |
 | [Tennis Manager 2023](games/t/tennis_manager_2023.md) | 2023-05-25 | 2023-05-25 |
@@ -114,6 +115,7 @@
 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 2023-09-30 | 2023-04-17 |
 | [Smurfs Kart](games/0/017ffe3b2bdc41e5a7a4dca5eec73fc4.md) | 2023-09-30 | 2023-09-30 |
 | [The Devil's Face](games/t/the_devil's_face.md) | 2023-09-30 | 2023-09-30 |
+| [The Future Project](games/1/1846202a6db1495189ceefd84672b545.md) | 2023-09-30 | 2023-09-30 |
 | [Total Reload](games/t/total_reload.md) | 2023-09-30 | 2023-09-30 |
 | [UNFOLLOW](games/u/unfollow.md) | 2023-09-30 | 2023-09-30 |
 | [Game Dev Masters](games/g/game_dev_masters.md) | 2023-10-03 | 2022-06-03 |

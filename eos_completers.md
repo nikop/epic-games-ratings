@@ -27,8 +27,8 @@
 | 25 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.71% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.45% |
-| 28 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.36% |
-| 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.14% |
+| 28 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.33% |
+| 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.12% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.85% |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 32 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.43% |
@@ -71,9 +71,9 @@
 | 69 | [Somerville](games/s/somerville.md) | 1.60% |
 | 70 | [Frogun](games/f/frogun.md) | 1.55% |
 | 71 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
-| 72 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.47% |
-| 73 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.45% |
-| 73 | [Ten Dates](games/t/ten_dates.md) | 1.45% |
+| 72 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.45% |
+| 72 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.45% |
+| 72 | [Ten Dates](games/t/ten_dates.md) | 1.45% |
 | 75 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.41% |
 | 76 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.29% |
 | 77 | [Chorus](games/c/chorus.md) | 1.25% |
@@ -92,9 +92,9 @@
 | 90 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
 | 91 | [Them and Us](games/t/them_and_us.md) | 0.83% |
 | 92 | [Adios](games/a/adios.md) | 0.82% |
-| 92 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.82% |
 | 92 | [Lemon Cake](games/l/lemon_cake.md) | 0.82% |
-| 95 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.81% |
+| 94 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.81% |
+| 94 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.81% |
 | 96 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.79% |
 | 97 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.74% |
 | 98 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.73% |
@@ -113,10 +113,10 @@
 | 111 | [Tails of Iron](games/t/tails_of_iron.md) | 0.41% |
 | 112 | [Potion Permit](games/p/potion_permit.md) | 0.39% |
 | 112 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.39% |
-| 112 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.39% |
+| 114 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.38% |
 | 115 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 115 | [Tchia](games/t/tchia.md) | 0.37% |
-| 117 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.35% |
+| 117 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
 | 118 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.34% |
 | 118 | [Godlike Burger](games/g/godlike_burger.md) | 0.34% |
 | 118 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.34% |
@@ -414,4 +414,4 @@
 | 202 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 202 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 202 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,660 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,662 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
