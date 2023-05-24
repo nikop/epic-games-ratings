@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2548,
+  "EOS_Progressed": 2549,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1439,6 +1439,11 @@
       "Time": "2023-05-24T09:05:06.3371014+00:00",
       "NumProgressed": 2548,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-24T15:06:45.0491297+00:00",
+      "NumProgressed": 2549,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1504,9 +1509,9 @@
       "ID": "Encyclopedic_30",
       "SetID": "c4hee28",
       "Name": "Encyclopedic!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 510
+      "UsersEstimate": 484
     },
     {
       "ID": "Eureka_23",
@@ -1642,7 +1647,7 @@
       "Name": "Ready for Winter",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 1605
+      "UsersEstimate": 1606
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -1785,15 +1790,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2548,
+      "Progressed": 2549,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-05-24T14:05:46.9725166+00:00",
+  "LastChanged_Achievements": "2023-05-24T15:06:45.0491292+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:14.085288+00:00",
-  "LastUpdate_Ratings": "2023-05-24T13:57:55.1197559+00:00",
-  "LastUpdate_Achievements": "2023-05-24T14:05:46.9725577+00:00"
+  "LastUpdate_Ratings": "2023-05-24T14:58:00.6947273+00:00",
+  "LastUpdate_Achievements": "2023-05-24T15:06:45.0491691+00:00"
 }

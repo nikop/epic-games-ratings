@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 931,
+  "EOS_Progressed": 933,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -680,6 +680,11 @@
       "Time": "2023-05-24T14:06:00.3806872+00:00",
       "NumProgressed": 931,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-24T15:07:01.9066224+00:00",
+      "NumProgressed": 933,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -715,7 +720,7 @@
       "Name": "The Big Bertha",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "Boy",
@@ -779,7 +784,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "Experienced_strategist",
@@ -803,7 +808,7 @@
       "Name": "Grenadier",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "Hard_Serpent",
@@ -819,7 +824,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "High_noon",
@@ -883,7 +888,7 @@
       "Name": "Mosquito bite",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "Scout",
@@ -907,7 +912,7 @@
       "Name": "War Never Changes",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "We_were_not_here",
@@ -930,15 +935,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 931,
+      "Progressed": 933,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-05-24T14:06:00.3806868+00:00",
+  "LastChanged_Achievements": "2023-05-24T15:07:01.9066217+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:35.4826245+00:00",
-  "LastUpdate_Ratings": "2023-05-24T13:59:13.2639684+00:00",
-  "LastUpdate_Achievements": "2023-05-24T14:06:00.380713+00:00"
+  "LastUpdate_Ratings": "2023-05-24T14:59:57.1397324+00:00",
+  "LastUpdate_Achievements": "2023-05-24T15:07:01.9066542+00:00"
 }

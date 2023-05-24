@@ -10,11 +10,11 @@
 | Broken toy | 77.00% | ~113 |
 | Egghead Lucy | 76.00% | ~112 |
 | Puppy | 61.00% | ~90 |
-| Coal's fur | 58.00% | ~85 |
+| Coal's fur | 59.00% | ~87 |
 | Blue's drawing | 54.00% | ~79 |
 | Glass shards | 45.00% | ~66 |
 | Mysterious footprints | 44.00% | ~65 |
-| Complicated padlock | 43.00% | ~63 |
+| Complicated padlock | 44.00% | ~65 |
 | Big metal ruler | 41.00% | ~60 |
 | Doll | 37.00% | ~54 |
 | Windmill | 37.00% | ~54 |

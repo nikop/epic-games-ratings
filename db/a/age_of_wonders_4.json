@@ -2,7 +2,7 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 535,
+  "Ranking_Rating": 520,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 132,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.5,
+  "Rating": 4.51,
   "RatingHistory": [
     {
       "Time": "2023-05-02T18:59:30.6410122+00:00",
@@ -148,6 +148,12 @@
       "Rating": 4.5,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-24T15:00:10.7602096+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -156,7 +162,7 @@
   "Tags": [],
   "EOS_Progressed": 3330,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 703,
+  "EOS_NewPlayers": 700,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1901,9 +1907,9 @@
       "ID": "2",
       "SetID": "3aa2279",
       "Name": "Enchanted Archipelago",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 866
+      "UsersEstimate": 899
     },
     {
       "ID": "20",
@@ -2179,9 +2185,9 @@
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2023-05-23T11:59:43.2383124+00:00",
-  "LastChanged_Achievements": "2023-05-24T14:03:56.4830032+00:00",
+  "LastChanged": "2023-05-24T15:00:10.7602094+00:00",
+  "LastChanged_Achievements": "2023-05-24T15:04:25.3110384+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:46.682938+00:00",
-  "LastUpdate_Ratings": "2023-05-24T13:59:20.8511189+00:00",
-  "LastUpdate_Achievements": "2023-05-24T14:03:56.4830533+00:00"
+  "LastUpdate_Ratings": "2023-05-24T15:00:10.76021+00:00",
+  "LastUpdate_Achievements": "2023-05-24T15:04:25.3111185+00:00"
 }

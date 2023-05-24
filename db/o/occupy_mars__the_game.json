@@ -58,9 +58,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 869,
+  "EOS_Progressed": 870,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 859,
+  "EOS_NewPlayers": 860,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -723,6 +723,11 @@
       "Time": "2023-05-24T14:03:12.7211468+00:00",
       "NumProgressed": 869,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T15:02:34.4252454+00:00",
+      "NumProgressed": 870,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -884,9 +889,9 @@
       "ID": "NEW_ACHIEVEMENT_DETECTIVE",
       "SetID": "l546gc",
       "Name": "Detective",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 96
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -908,9 +913,9 @@
       "ID": "NEW_ACHIEVEMENT_ELECTRICIAN",
       "SetID": "l546gc",
       "Name": "Electrician",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 261
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -924,9 +929,9 @@
       "ID": "NEW_ACHIEVEMENT_GARDENER",
       "SetID": "l546gc",
       "Name": "Gardener",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 139
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -1117,7 +1122,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 869,
+      "Progressed": 870,
       "Completed": 0
     }
   ],
@@ -1125,8 +1130,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-05-23T23:57:18.1001673+00:00",
-  "LastChanged_Achievements": "2023-05-24T14:03:12.7211458+00:00",
+  "LastChanged_Achievements": "2023-05-24T15:02:34.4252447+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:55.9692167+00:00",
-  "LastUpdate_Ratings": "2023-05-24T13:57:39.4013473+00:00",
-  "LastUpdate_Achievements": "2023-05-24T14:03:12.7211908+00:00"
+  "LastUpdate_Ratings": "2023-05-24T14:57:38.9143008+00:00",
+  "LastUpdate_Achievements": "2023-05-24T15:02:34.4253546+00:00"
 }

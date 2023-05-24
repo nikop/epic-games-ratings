@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.50 (Ranked 535)  
+Rating: 4.51 (Ranked 520)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -23,7 +23,7 @@ Rating: 4.50 (Ranked 535)
 | Digging for Treasure | 31.00% | ~1,032 |
 | Against the Odds | 31.00% | ~1,032 |
 | Return of the Wizard King | 30.00% | ~999 |
-| Enchanted Archipelago | 26.00% | ~866 |
+| Enchanted Archipelago | 27.00% | ~899 |
 | Impenetrable Fortress | 25.00% | ~832 |
 | The Magic That Empowers Me! | 19.00% | ~633 |
 | Preparation Is Everything | 19.00% | ~633 |
@@ -91,3 +91,4 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-21 | 4.52 | 0 | 0 |
 | 2023-05-22 | 4.51 | 0 | 0 |
 | 2023-05-23 | 4.50 | 0 | 0 |
+| 2023-05-24 | 4.51 | 0 | 0 |

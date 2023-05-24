@@ -20,6 +20,7 @@ Rating: 4.55 (Ranked 466)
 | A Hunk of Junk | 2.00% | ~42 |
 | Exceeding Capacity | 2.00% | ~42 |
 | Fully Recycled | 2.00% | ~42 |
+| Please Make it Stop! | 2.00% | ~42 |
 | The Ship of Theseus | 2.00% | ~42 |
 | Man's Best Friend | 1.00% | ~21 |
 | Sightseeing | 1.00% | ~21 |
@@ -27,7 +28,6 @@ Rating: 4.55 (Ranked 466)
 | Access Granted | 1.00% | ~21 |
 | Necessary Enhancement | 1.00% | ~21 |
 | Convenient Transport | 1.00% | ~21 |
-| Please Make it Stop! | 1.00% | ~21 |
 | From the Past | 1.00% | ~21 |
 | In Dolos We Trust | 0.80% | ~17 |
 | BRAWL! | 0.80% | ~17 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 466)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,122 (Ranked 143)  
+Progressed: 2,124 (Ranked 143)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-21 | 2,063 | 0 |
 | 2023-05-22 | 2,083 | 0 |
 | 2023-05-23 | 2,115 | 0 |
-| 2023-05-24 | 2,122 | 0 |
+| 2023-05-24 | 2,124 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

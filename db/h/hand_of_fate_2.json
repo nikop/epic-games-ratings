@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -838,9 +838,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 656687,
+  "EOS_Progressed": 656692,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 407,
+  "EOS_NewPlayers": 408,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3778,6 +3778,11 @@
       "Time": "2023-05-24T14:05:42.8245009+00:00",
       "NumProgressed": 656687,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-05-24T15:06:40.4056816+00:00",
+      "NumProgressed": 656692,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -3789,7 +3794,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 472815
+      "UsersEstimate": 472818
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -3797,7 +3802,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 380878
+      "UsersEstimate": 380881
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -3805,7 +3810,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 151038
+      "UsersEstimate": 151039
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -3813,7 +3818,7 @@
       "Name": "Adventurer",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39401
+      "UsersEstimate": 39402
     },
     {
       "ID": "Achievement_05_Protector_of_the_Realm",
@@ -3877,7 +3882,7 @@
       "Name": "Jack of all Trades",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 32834
+      "UsersEstimate": 32835
     },
     {
       "ID": "Achievement_13_Dice_Master",
@@ -3909,7 +3914,7 @@
       "Name": "Ally",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 5253
+      "UsersEstimate": 5254
     },
     {
       "ID": "Achievement_17_Rebel",
@@ -3925,7 +3930,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 151038
+      "UsersEstimate": 151039
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -3933,7 +3938,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 91936
+      "UsersEstimate": 91937
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -3941,7 +3946,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 111637
+      "UsersEstimate": 111638
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -3949,7 +3954,7 @@
       "Name": "Empire\u0027s Bane",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39401
+      "UsersEstimate": 39402
     },
     {
       "ID": "Achievement_22_Cure_for_Corruption",
@@ -3965,7 +3970,7 @@
       "Name": "Smithy",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 32834
+      "UsersEstimate": 32835
     },
     {
       "ID": "Achievement_24_Leap_of_Faith",
@@ -4029,7 +4034,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 78802
+      "UsersEstimate": 78803
     },
     {
       "ID": "Achievement_32_Karma",
@@ -4053,7 +4058,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 164172
+      "UsersEstimate": 164173
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -4101,7 +4106,7 @@
       "Name": "Broken Heart",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39401
+      "UsersEstimate": 39402
     },
     {
       "ID": "Achievement_41_Draknars_Bane",
@@ -4117,7 +4122,7 @@
       "Name": "Thomas\u0027 Bane",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 5253
+      "UsersEstimate": 5254
     },
     {
       "ID": "Achievement_43_Final_Death",
@@ -4172,15 +4177,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 656687,
+      "Progressed": 656692,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-05-18T14:57:37.1411686+00:00",
-  "LastChanged_Achievements": "2023-05-24T14:05:42.8245004+00:00",
+  "LastChanged_Achievements": "2023-05-24T15:06:40.405681+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:07.1745323+00:00",
-  "LastUpdate_Ratings": "2023-05-24T13:57:49.5075998+00:00",
-  "LastUpdate_Achievements": "2023-05-24T14:05:42.8245601+00:00"
+  "LastUpdate_Ratings": "2023-05-24T14:57:53.4038205+00:00",
+  "LastUpdate_Achievements": "2023-05-24T15:06:40.4057569+00:00"
 }

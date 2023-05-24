@@ -16,11 +16,11 @@
 | Sensitive soul | 35.00% | ~15 |
 | Squid game | 30.00% | ~13 |
 | Rock Solid | 28.00% | ~12 |
+| It's getting dark | 28.00% | ~12 |
 | Hard Rock | 28.00% | ~12 |
 | The beast within | 26.00% | ~11 |
 | Rooftop | 26.00% | ~11 |
-| It's getting dark | 26.00% | ~11 |
-| Homeless | 23.00% | ~10 |
+| Homeless | 26.00% | ~11 |
 | Big badaboom! | 23.00% | ~10 |
 | Magnitude 5 | 21.00% | ~9 |
 | Nokron tower | 19.00% | ~8 |
@@ -39,7 +39,7 @@
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43 (Ranked 294)  
+Progressed: 43 (Ranked 295)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |

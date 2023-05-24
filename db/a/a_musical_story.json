@@ -156,9 +156,9 @@
       "ID": "L11_FINISH",
       "SetID": "6finf64",
       "Name": "Alone Together",
-      "Percentage": 26,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "L11_PERFECT",
@@ -172,9 +172,9 @@
       "ID": "L12_FINISH",
       "SetID": "6finf64",
       "Name": "Threatening Nature",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "L12_PERFECT",
@@ -188,9 +188,9 @@
       "ID": "L13_FINISH",
       "SetID": "6finf64",
       "Name": "Flat Tire",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "L13_PERFECT",
@@ -541,8 +541,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.0267676+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.5327196+00:00",
   "LastChanged": "2023-03-31T05:57:21.0267677+00:00",
-  "LastChanged_Achievements": "2023-05-24T14:00:36.3766985+00:00",
+  "LastChanged_Achievements": "2023-05-24T15:01:59.3480244+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:45.8712062+00:00",
-  "LastUpdate_Ratings": "2023-05-24T13:58:18.7087174+00:00",
-  "LastUpdate_Achievements": "2023-05-24T14:00:36.3767566+00:00"
+  "LastUpdate_Ratings": "2023-05-24T14:58:35.5011991+00:00",
+  "LastUpdate_Achievements": "2023-05-24T15:01:59.3480863+00:00"
 }

@@ -4,31 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 87.00% | ~209 |
-| Ranidaphobia | 50.00% | ~120 |
-| Aspiring Editor | 39.00% | ~94 |
-| Gun for Hire | 31.00% | ~74 |
-| I am the law! | 14.00% | ~34 |
+| First Blood | 85.00% | ~209 |
+| Ranidaphobia | 50.00% | ~123 |
+| Aspiring Editor | 39.00% | ~96 |
+| Gun for Hire | 33.00% | ~81 |
+| I am the law! | 15.00% | ~37 |
 | Firestarter | 5.00% | ~12 |
-| Croaked | 3.00% | ~7 |
-| Lumberjack | 3.00% | ~7 |
+| Lumberjack | 4.00% | ~10 |
+| Croaked | 2.00% | ~5 |
 | Limp Richard | 2.00% | ~5 |
 | Hold The Line | 2.00% | ~5 |
 | Newtonian Knockout | 2.00% | ~5 |
 | Giant Killer | 1.00% | ~2 |
+| The meaning of Kain | 1.00% | ~2 |
 | Exorcist | 0.80% | ~2 |
 | From Darkness to Light | 0.80% | ~2 |
 | Recycler | 0.80% | ~2 |
 | There Can Be Only One! | 0.80% | ~2 |
-| The meaning of Kain | 0.80% | ~2 |
 | Are you not entertained? | 0.40% | ~1 |
 | Chain Killer | 0.40% | ~1 |
+| Chain Reaction | 0.40% | ~1 |
 | Commando | 0.40% | ~1 |
 | Curveball | 0.40% | ~1 |
 | Ganglord | 0.40% | ~1 |
 | Jarhead | 0.40% | ~1 |
 | Dr Jones | 0.40% | ~1 |
 | Editor Adept | 0.40% | ~1 |
+| Experienced | 0.40% | ~1 |
 | Infiltrator | 0.40% | ~1 |
 | Pushing Daisy | 0.40% | ~1 |
 | Ruthless | 0.40% | ~1 |
@@ -40,12 +42,10 @@
 | Attenborough | 0.00% | ~0 |
 | Bookworm | 0.00% | ~0 |
 | Bot Whisperer | 0.00% | ~0 |
-| Chain Reaction | 0.00% | ~0 |
 | Chaos Theory | 0.00% | ~0 |
 | Cruelty | 0.00% | ~0 |
 | Dressed To Kill | 0.00% | ~0 |
 | Endgame | 0.00% | ~0 |
-| Experienced | 0.00% | ~0 |
 | Five Finger Deathcount | 0.00% | ~0 |
 | Fratricide | 0.00% | ~0 |
 | Goaaaaal! | 0.00% | ~0 |
@@ -56,10 +56,10 @@
 | Silent but Violent | 0.00% | ~0 |
 | Wipe Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240 (Ranked 224)  
+Progressed: 246 (Ranked 224)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-23 | 151 | 0 |
-| 2023-05-24 | 240 | 0 |
+| 2023-05-24 | 246 | 0 |

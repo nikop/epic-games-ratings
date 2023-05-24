@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -516,9 +516,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2623,
+  "EOS_Progressed": 2624,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -906,6 +906,11 @@
       "Time": "2023-05-24T07:05:41.4330655+00:00",
       "NumProgressed": 2623,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T15:07:04.7868925+00:00",
+      "NumProgressed": 2624,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -933,7 +938,7 @@
       "Name": "Look Over There!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "BloodAndIron",
@@ -1013,7 +1018,7 @@
       "Name": "Surgical Excision",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -1388,21 +1393,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2623,
+      "Progressed": 2624,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2623,
+      "Progressed": 2624,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-17T16:59:29.0694874+00:00",
-  "LastChanged_Achievements": "2023-05-24T14:06:02.5096615+00:00",
+  "LastChanged_Achievements": "2023-05-24T15:07:04.7868919+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:13.6314729+00:00",
-  "LastUpdate_Ratings": "2023-05-24T13:58:41.7113769+00:00",
-  "LastUpdate_Achievements": "2023-05-24T14:06:02.5097134+00:00"
+  "LastUpdate_Ratings": "2023-05-24T14:59:10.0820376+00:00",
+  "LastUpdate_Achievements": "2023-05-24T15:07:04.7869526+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewPlayers": 69,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3898,9 +3898,9 @@
       "Count": 3238
     }
   ],
-  "EOS_Progressed": 88481,
+  "EOS_Progressed": 88487,
   "EOS_Completed": 1873,
-  "EOS_NewPlayers": 713,
+  "EOS_NewPlayers": 718,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 2.12,
   "EosHistory": [
@@ -7193,6 +7193,11 @@
       "Time": "2023-05-24T14:06:15.5307799+00:00",
       "NumProgressed": 88481,
       "NumCompleted": 1873
+    },
+    {
+      "Time": "2023-05-24T15:07:21.498003+00:00",
+      "NumProgressed": 88487,
+      "NumCompleted": 1873
     }
   ],
   "TotalAchievements": 493,
@@ -7570,9 +7575,9 @@
       "ID": "objective_completed_11",
       "SetID": "cc37lbc",
       "Name": "Beast Intentions",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 354
     },
     {
       "ID": "objective_completed_110",
@@ -11147,21 +11152,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54755,
+      "Progressed": 54761,
       "Completed": 2689
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88481,
+      "Progressed": 88487,
       "Completed": 1873
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-23T16:58:40.8239248+00:00",
-  "LastChanged_Achievements": "2023-05-24T14:06:15.5307796+00:00",
+  "LastChanged_Achievements": "2023-05-24T15:07:21.4980023+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-24T13:58:12.4552068+00:00",
-  "LastUpdate_Achievements": "2023-05-24T14:06:15.5331631+00:00"
+  "LastUpdate_Ratings": "2023-05-24T14:58:25.5332244+00:00",
+  "LastUpdate_Achievements": "2023-05-24T15:07:21.5009982+00:00"
 }

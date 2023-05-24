@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 195,
+  "EOS_Progressed": 196,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -799,6 +799,11 @@
       "Time": "2023-05-24T14:05:49.2505298+00:00",
       "NumProgressed": 195,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T15:06:48.1169068+00:00",
+      "NumProgressed": 196,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -984,9 +989,9 @@
       "ID": "OpenRestaurant",
       "SetID": "d1bm05f",
       "Name": "The Big Day",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 135
     },
     {
       "ID": "Packing20",
@@ -994,7 +999,7 @@
       "Name": "Next Level Cuisine",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "PerfectGrade25",
@@ -1010,7 +1015,7 @@
       "Name": "Home Cook",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "RecipeDifferent30",
@@ -1066,7 +1071,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "TrattoriaSet",
@@ -1129,7 +1134,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 195,
+      "Progressed": 196,
       "Completed": 0
     }
   ],
@@ -1137,8 +1142,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-24T14:05:49.2505293+00:00",
+  "LastChanged_Achievements": "2023-05-24T15:06:48.116906+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.318416+00:00",
-  "LastUpdate_Ratings": "2023-05-24T13:58:30.1898923+00:00",
-  "LastUpdate_Achievements": "2023-05-24T14:05:49.2505696+00:00"
+  "LastUpdate_Ratings": "2023-05-24T14:58:53.0973892+00:00",
+  "LastUpdate_Achievements": "2023-05-24T15:06:48.1169446+00:00"
 }

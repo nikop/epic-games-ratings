@@ -5,12 +5,12 @@ Rating: 4.45 (Ranked 605)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~77,345 |
-| Predator I | 22.00% | ~54,890 |
-| Fixer I | 10.00% | ~24,950 |
-| A week in Century City | 10.00% | ~24,950 |
-| The Wait | 7.00% | ~17,465 |
-| Green thumb I | 6.00% | ~14,970 |
+| Survivor | 31.00% | ~77,348 |
+| Predator I | 22.00% | ~54,892 |
+| Fixer I | 10.00% | ~24,951 |
+| A week in Century City | 10.00% | ~24,951 |
+| The Wait | 7.00% | ~17,466 |
+| Green thumb I | 6.00% | ~14,971 |
 | Well-oiled machine | 5.00% | ~12,475 |
 | Saver I | 5.00% | ~12,475 |
 | Cleaning Company | 5.00% | ~12,475 |
@@ -36,18 +36,18 @@ Rating: 4.45 (Ranked 605)
 | Bricklayer | 1.00% | ~2,495 |
 | Run the Economy | 1.00% | ~2,495 |
 | Committed Relationship | 0.80% | ~1,996 |
-| Number 1 | 0.70% | ~1,746 |
+| Number 1 | 0.70% | ~1,747 |
 | Interior designer | 0.60% | ~1,497 |
 | The Gamble | 0.50% | ~1,248 |
 | The Descent | 0.50% | ~1,248 |
 | A major purchase | 0.50% | ~1,248 |
 | Expert Hunter | 0.40% | ~998 |
 | Fungi hunter | 0.40% | ~998 |
-| Arms dealer | 0.30% | ~748 |
-| Fixer III | 0.30% | ~748 |
-| Predator III | 0.30% | ~748 |
-| AML questionnaire | 0.30% | ~748 |
-| Heartbreaker | 0.30% | ~748 |
+| Arms dealer | 0.30% | ~749 |
+| Fixer III | 0.30% | ~749 |
+| Predator III | 0.30% | ~749 |
+| AML questionnaire | 0.30% | ~749 |
+| Heartbreaker | 0.30% | ~749 |
 | Homerun | 0.20% | ~499 |
 | A season in Century City | 0.20% | ~499 |
 | Saver III | 0.10% | ~250 |
@@ -62,7 +62,7 @@ Rating: 4.45 (Ranked 605)
 | Capitalist III | 0.10% | ~250 |
 | Hell Is You | 0.10% | ~250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,500 (Ranked 39)  
+Progressed: 249,509 (Ranked 39)  
 Completed: 1 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 1 (0.00%) (Ranked 202)
 | 2023-05-21 | 249,345 | 1 |
 | 2023-05-22 | 249,421 | 1 |
 | 2023-05-23 | 249,481 | 1 |
-| 2023-05-24 | 249,500 | 1 |
+| 2023-05-24 | 249,509 | 1 |
 ## Awards
 Max (Great for Quick Sessions): 23  (Ranked 470)  
 Sum: 43 (Ranked 441)  

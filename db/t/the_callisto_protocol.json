@@ -428,9 +428,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13485,
+  "EOS_Progressed": 13490,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 918,
+  "EOS_NewPlayers": 923,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1418,6 +1418,11 @@
       "Time": "2023-05-24T14:03:33.3146649+00:00",
       "NumProgressed": 13485,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-05-24T15:03:32.9312091+00:00",
+      "NumProgressed": 13490,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 40,
@@ -1683,9 +1688,9 @@
       "ID": "STORY_TUNNELS",
       "SetID": "4hj6d86",
       "Name": "Power Up",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 54
     },
     {
       "ID": "DISMEMBER_100",
@@ -1701,7 +1706,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -1709,7 +1714,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -1748,13 +1753,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13485,
+      "Progressed": 13490,
       "Completed": 52
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1411,
+      "Progressed": 1416,
       "Completed": 29
     }
   ],
@@ -1762,8 +1767,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-23T19:57:59.4143533+00:00",
-  "LastChanged_Achievements": "2023-05-24T14:03:33.3146638+00:00",
+  "LastChanged_Achievements": "2023-05-24T15:03:32.9312083+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-24T13:58:01.2894257+00:00",
-  "LastUpdate_Achievements": "2023-05-24T14:03:33.3147059+00:00"
+  "LastUpdate_Ratings": "2023-05-24T14:58:09.3426341+00:00",
+  "LastUpdate_Achievements": "2023-05-24T15:03:32.9312594+00:00"
 }

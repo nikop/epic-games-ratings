@@ -553,17 +553,17 @@
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 40,
-      "UsersEstimate": 125
+      "UsersEstimate": 128
     },
     {
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 112
     },
     {
       "ID": "MQ03_2",
@@ -713,9 +713,9 @@
       "ID": "MQ08_2",
       "SetID": "bbing49",
       "Name": "Up In Flames",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 77
+      "UsersEstimate": 79
     },
     {
       "ID": "MQ08_3",
@@ -746,8 +746,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-24T14:03:23.2461261+00:00",
+  "LastChanged_Achievements": "2023-05-24T15:03:19.2045719+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.473335+00:00",
-  "LastUpdate_Ratings": "2023-05-24T13:57:32.0144914+00:00",
-  "LastUpdate_Achievements": "2023-05-24T14:03:23.2461546+00:00"
+  "LastUpdate_Ratings": "2023-05-24T14:57:27.1085015+00:00",
+  "LastUpdate_Achievements": "2023-05-24T15:03:19.2046093+00:00"
 }

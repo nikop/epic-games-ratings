@@ -215,9 +215,9 @@
       "ID": "A17",
       "SetID": "9b7p7eo",
       "Name": "Facility Manager",
-      "Percentage": 33,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "A18",
@@ -525,8 +525,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged_Achievements": "2023-05-24T14:05:55.9952047+00:00",
+  "LastChanged_Achievements": "2023-05-24T15:06:56.4062562+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:39.7708852+00:00",
-  "LastUpdate_Ratings": "2023-05-24T13:58:13.4668153+00:00",
-  "LastUpdate_Achievements": "2023-05-24T14:05:55.995255+00:00"
+  "LastUpdate_Ratings": "2023-05-24T14:58:27.4687337+00:00",
+  "LastUpdate_Achievements": "2023-05-24T15:06:56.406307+00:00"
 }

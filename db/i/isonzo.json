@@ -562,9 +562,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5814,
+  "EOS_Progressed": 5815,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1367,6 +1367,11 @@
       "Time": "2023-05-24T14:05:45.6414217+00:00",
       "NumProgressed": 5814,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-24T15:06:44.004096+00:00",
+      "NumProgressed": 5815,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -1394,7 +1399,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 2674
+      "UsersEstimate": 2675
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -1490,7 +1495,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 1860
+      "UsersEstimate": 1861
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -1586,7 +1591,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -1706,7 +1711,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3081
+      "UsersEstimate": 3082
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -1730,14 +1735,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 3023
+      "UsersEstimate": 3024
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5814,
+      "Progressed": 5815,
       "Completed": 8
     }
   ],
@@ -1745,8 +1750,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-24T13:03:28.3990064+00:00",
-  "LastChanged_Achievements": "2023-05-24T14:05:45.6414212+00:00",
+  "LastChanged_Achievements": "2023-05-24T15:06:44.0040952+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:10.2290416+00:00",
-  "LastUpdate_Ratings": "2023-05-24T13:57:37.5446079+00:00",
-  "LastUpdate_Achievements": "2023-05-24T14:05:45.6414619+00:00"
+  "LastUpdate_Ratings": "2023-05-24T14:57:35.3120225+00:00",
+  "LastUpdate_Achievements": "2023-05-24T15:06:44.0041371+00:00"
 }
