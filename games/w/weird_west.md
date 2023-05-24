@@ -6,21 +6,21 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 87.00% | ~1,338 |
-| Self-Improvement | 72.00% | ~1,107 |
-| Perky | 66.00% | ~1,015 |
+| Unforgiven | 87.00% | ~1,339 |
+| Self-Improvement | 72.00% | ~1,108 |
+| Perky | 66.00% | ~1,016 |
 | Let’s Ride | 60.00% | ~923 |
-| Welcome to the Weird West | 58.00% | ~892 |
-| Dead or Alive | 56.00% | ~861 |
+| Welcome to the Weird West | 58.00% | ~893 |
+| Dead or Alive | 56.00% | ~862 |
 | Full House | 37.00% | ~569 |
 | Off the Trail | 34.00% | ~523 |
 | Justice Served | 28.00% | ~431 |
-| Chain Reaction | 27.00% | ~415 |
-| Dishonored | 25.00% | ~384 |
-| Rain of Death | 25.00% | ~384 |
-| Scholar | 25.00% | ~384 |
-| Through Their Eyes | 25.00% | ~384 |
-| The Great Escape | 22.00% | ~338 |
+| Chain Reaction | 27.00% | ~416 |
+| Rain of Death | 25.00% | ~385 |
+| Scholar | 25.00% | ~385 |
+| Through Their Eyes | 25.00% | ~385 |
+| Dishonored | 24.00% | ~369 |
+| The Great Escape | 22.00% | ~339 |
 | That’s All, Folks | 18.00% | ~277 |
 | Fallen Star | 16.00% | ~246 |
 | Winds of War | 16.00% | ~246 |
@@ -34,10 +34,10 @@ Number of Ratings: 125  (23.09.2022)
 | Something Wicked This Way Comes… | 12.00% | ~185 |
 | There is Hope | 12.00% | ~185 |
 | Turning the Tables | 12.00% | ~185 |
-| Loyalty to the Pack | 9.00% | ~138 |
-| Eternity Can Wait | 9.00% | ~138 |
-| Mystery Machine | 9.00% | ~138 |
-| The Philosopher’s Stone | 9.00% | ~138 |
+| Loyalty to the Pack | 9.00% | ~139 |
+| Eternity Can Wait | 9.00% | ~139 |
+| Mystery Machine | 9.00% | ~139 |
+| The Philosopher’s Stone | 9.00% | ~139 |
 | Gold Digger | 8.00% | ~123 |
 | Knuckle Sandwich | 8.00% | ~123 |
 | Do Not Pass Go… | 7.00% | ~108 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.30% | ~5 |
 | Revenant | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,538 (Ranked 154)  
+Progressed: 1,539 (Ranked 154)  
 Completed: 2 (0.13%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 2 (0.13%) (Ranked 154)
 | 2023-05-21 | 1,532 | 2 |
 | 2023-05-22 | 1,534 | 2 |
 | 2023-05-23 | 1,537 | 2 |
-| 2023-05-24 | 1,538 | 2 |
+| 2023-05-24 | 1,539 | 2 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 465)  
 Sum: 24 (Ranked 470)  

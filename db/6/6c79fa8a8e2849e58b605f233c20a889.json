@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 678,
+  "EOS_Progressed": 687,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 676,
+  "EOS_NewPlayers": 685,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -274,6 +274,11 @@
       "Time": "2023-05-24T17:02:26.9326387+00:00",
       "NumProgressed": 678,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T18:02:18.3115208+00:00",
+      "NumProgressed": 687,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -285,7 +290,7 @@
       "Name": "Aggressor",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "AI_DRAW",
@@ -293,7 +298,7 @@
       "Name": "Puppetmaster",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "BOT_DESTROYER",
@@ -301,7 +306,7 @@
       "Name": "Bot Destroyer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "CLUMSY",
@@ -309,15 +314,15 @@
       "Name": "Whoops",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "CONQUEROR",
       "SetID": "8lhbnh7",
       "Name": "Harold Rex Interfectus Est",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 156
+      "UsersEstimate": 165
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -333,7 +338,7 @@
       "Name": "Face-To-Face",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "FACE_SCREEN_FACE",
@@ -347,9 +352,9 @@
       "ID": "FEUD_APPRENTICE",
       "SetID": "8lhbnh7",
       "Name": "Apprentice",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "FEUD_GRANDMASTER",
@@ -365,7 +370,7 @@
       "Name": "Novice",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 244
+      "UsersEstimate": 247
     },
     {
       "ID": "GLOVE_SLAP",
@@ -373,7 +378,7 @@
       "Name": "Glove Slap!",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "GONNA_FLY_NOW",
@@ -389,7 +394,7 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 400
+      "UsersEstimate": 405
     },
     {
       "ID": "GUARD_MAKER",
@@ -460,13 +465,13 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 678,
+      "Progressed": 687,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-05-24T17:02:26.932638+00:00",
+  "LastChanged_Achievements": "2023-05-24T18:02:18.3115204+00:00",
   "LastUpdate_AppInfo": "2023-05-23T13:57:02.9194307+00:00",
-  "LastUpdate_Ratings": "2023-05-24T16:56:55.0497994+00:00",
-  "LastUpdate_Achievements": "2023-05-24T17:02:26.9326582+00:00"
+  "LastUpdate_Ratings": "2023-05-24T17:56:52.7558706+00:00",
+  "LastUpdate_Achievements": "2023-05-24T18:02:18.3115398+00:00"
 }

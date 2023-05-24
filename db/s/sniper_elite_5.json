@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1348,
+  "EOS_Progressed": 1349,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 621,
+  "EOS_NewPlayers": 622,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1270,6 +1270,11 @@
       "Time": "2023-05-24T17:05:25.6334552+00:00",
       "NumProgressed": 1348,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-24T18:05:12.7442732+00:00",
+      "NumProgressed": 1349,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1487,9 +1492,9 @@
       "ID": "REWARD_35_LORD_OF_WAR",
       "SetID": "bm6el81",
       "Name": "Lord of War",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 81
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -1599,9 +1604,9 @@
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
       "SetID": "bm6el81",
       "Name": "It\u0027ll Buff Right Out",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_56_SMOOTH_OPERATOR",
@@ -1687,9 +1692,9 @@
       "ID": "REWARD_8_THE_KRAKEN_SLEEPS",
       "SetID": "bm6el81",
       "Name": "The Kraken Sleeps",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 27
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -1751,9 +1756,9 @@
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
       "SetID": "83mdf7p",
       "Name": "Operation Foxley",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -1848,13 +1853,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1299,
+      "Progressed": 1300,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1348,
+      "Progressed": 1349,
       "Completed": 2
     }
   ],
@@ -1862,8 +1867,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-24T14:00:16.736359+00:00",
-  "LastChanged_Achievements": "2023-05-24T17:05:25.6334547+00:00",
+  "LastChanged_Achievements": "2023-05-24T18:05:12.7442728+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-24T16:59:54.828069+00:00",
-  "LastUpdate_Achievements": "2023-05-24T17:05:25.6335201+00:00"
+  "LastUpdate_Ratings": "2023-05-24T17:59:45.949743+00:00",
+  "LastUpdate_Achievements": "2023-05-24T18:05:12.7443443+00:00"
 }

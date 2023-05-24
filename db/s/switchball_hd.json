@@ -361,9 +361,9 @@
       "ID": "ACHIEVEMENT_METALBALL_BADGE_ID",
       "SetID": "2h9pc72",
       "Name": "Metalball Badge",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACHIEVEMENT_POWERBALL_BADGE_ID",
@@ -424,8 +424,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:34.7709022+00:00",
   "FirstSeenAchievements": "2023-05-02T12:00:27.1068616+00:00",
-  "LastChanged_Achievements": "2023-05-24T17:02:15.0995511+00:00",
+  "LastChanged_Achievements": "2023-05-24T18:00:17.6224241+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:05.042816+00:00",
-  "LastUpdate_Ratings": "2023-05-24T16:57:05.1203765+00:00",
-  "LastUpdate_Achievements": "2023-05-24T17:02:15.0995628+00:00"
+  "LastUpdate_Ratings": "2023-05-24T17:57:02.631493+00:00",
+  "LastUpdate_Achievements": "2023-05-24T18:00:17.6224468+00:00"
 }

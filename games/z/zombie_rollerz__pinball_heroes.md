@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 93.00% | ~68 |
-| Bullseye! | 88.00% | ~64 |
-| Villfir Forest | 82.00% | ~60 |
-| Graduation! | 79.00% | ~58 |
-| Right in the kisser! | 66.00% | ~48 |
-| The Shaman | 56.00% | ~41 |
-| Duscot Steamcity | 56.00% | ~41 |
-| The Penguin | 52.00% | ~38 |
-| The Magician | 49.00% | ~36 |
-| The Thrower | 47.00% | ~34 |
+| Level Up! | 93.00% | ~69 |
+| Bullseye! | 88.00% | ~65 |
+| Villfir Forest | 82.00% | ~61 |
+| Graduation! | 80.00% | ~59 |
+| Right in the kisser! | 66.00% | ~49 |
+| The Shaman | 57.00% | ~42 |
+| Duscot Steamcity | 57.00% | ~42 |
+| The Penguin | 51.00% | ~38 |
+| The Magician | 50.00% | ~37 |
+| The Thrower | 46.00% | ~34 |
 | The Tunneler | 45.00% | ~33 |
 | Level Up!! | 41.00% | ~30 |
 | The Shield | 41.00% | ~30 |
-| Kill-streak | 38.00% | ~28 |
-| The Bird | 33.00% | ~24 |
+| Kill-streak | 39.00% | ~29 |
+| The Bird | 32.00% | ~24 |
 | The Idol | 30.00% | ~22 |
 | Inferno Ruins | 30.00% | ~22 |
-| Topped up | 29.00% | ~21 |
+| Topped up | 28.00% | ~21 |
 | The Ninja | 27.00% | ~20 |
 | I'm Rich | 26.00% | ~19 |
-| Untouchable | 25.00% | ~18 |
+| Untouchable | 24.00% | ~18 |
 | 1 is all I need | 22.00% | ~16 |
 | The Giant | 22.00% | ~16 |
 | The Slime | 22.00% | ~16 |
@@ -38,9 +38,9 @@
 | The Droid | 12.00% | ~9 |
 | The Steampunk | 11.00% | ~8 |
 | Verse | 11.00% | ~8 |
-| The Bomber | 10.00% | ~7 |
-| Iron | 10.00% | ~7 |
-| Tested | 10.00% | ~7 |
+| The Bomber | 9.00% | ~7 |
+| Iron | 9.00% | ~7 |
+| Tested | 9.00% | ~7 |
 | The Astronaut | 5.00% | ~4 |
 | Power Overwhelming | 4.00% | ~3 |
 | The Exorcist | 4.00% | ~3 |
@@ -78,7 +78,7 @@
 | Satellite | 0.00% | ~0 |
 | Zombie Slayer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 73 (Ranked 277)  
+Progressed: 74 (Ranked 276)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-20 | 66 | 0 |
 | 2023-05-21 | 70 | 0 |
 | 2023-05-23 | 72 | 0 |
-| 2023-05-24 | 73 | 0 |
+| 2023-05-24 | 74 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

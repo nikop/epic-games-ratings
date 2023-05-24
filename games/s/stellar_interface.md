@@ -7,10 +7,10 @@
 | First Blood | 71.00% | ~10 |
 | Killing Spree | 43.00% | ~6 |
 | 5Gb HDD | 36.00% | ~5 |
-| Dominating | 21.00% | ~3 |
-| Merchant Prince I | 21.00% | ~3 |
+| Dominating | 29.00% | ~4 |
+| Merchant Prince I | 29.00% | ~4 |
+| Fighting Fit I | 21.00% | ~3 |
 | The Vette | 14.00% | ~2 |
-| Fighting Fit I | 14.00% | ~2 |
 | Rambo I | 7.00% | ~1 |
 | Food Poisoning | 7.00% | ~1 |
 | Mega Kill | 7.00% | ~1 |

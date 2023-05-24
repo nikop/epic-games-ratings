@@ -4,7 +4,7 @@
   "ProductSlug": "stellar-interface-d14cc4",
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
@@ -762,9 +762,9 @@
       "ID": "Killed500EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Dominating",
-      "Percentage": 21,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Killed50BossesAchievement",
@@ -1082,9 +1082,9 @@
       "ID": "VisitMerchant1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Merchant Prince I",
-      "Percentage": 21,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "VisitOverlord100TimeAchievement",
@@ -1138,9 +1138,9 @@
       "ID": "VisitRegular10TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Fighting Fit I",
-      "Percentage": 14,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "VisitRegular2000TimeAchievement",
@@ -1160,8 +1160,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-05-24T17:05:54.3968619+00:00",
+  "LastChanged_Achievements": "2023-05-24T18:05:40.9336161+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:23.5441273+00:00",
-  "LastUpdate_Ratings": "2023-05-24T16:58:22.207568+00:00",
-  "LastUpdate_Achievements": "2023-05-24T17:05:54.3970659+00:00"
+  "LastUpdate_Ratings": "2023-05-24T17:58:18.0148602+00:00",
+  "LastUpdate_Achievements": "2023-05-24T18:05:40.9338131+00:00"
 }

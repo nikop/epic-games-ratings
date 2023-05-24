@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -247,9 +247,9 @@
       "ID": "ACHIEVEMENT_09",
       "SetID": "631ndc2",
       "Name": "Path of Learning",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 143
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -592,8 +592,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-05-24T17:05:40.7611504+00:00",
+  "LastChanged_Achievements": "2023-05-24T18:05:27.3684811+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.3315704+00:00",
-  "LastUpdate_Ratings": "2023-05-24T16:58:32.5053397+00:00",
-  "LastUpdate_Achievements": "2023-05-24T17:05:40.7612615+00:00"
+  "LastUpdate_Ratings": "2023-05-24T17:58:27.2862003+00:00",
+  "LastUpdate_Achievements": "2023-05-24T18:05:27.3685262+00:00"
 }

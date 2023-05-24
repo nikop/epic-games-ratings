@@ -33,7 +33,7 @@ Number of Ratings: 2,205  (23.09.2022)
 | The Treeheart | 40.00% | ~25,672 |
 | Shroud Alliance | 39.00% | ~25,031 |
 | The Two Monks | 37.00% | ~23,747 |
-| The Neuromancer | 34.00% | ~21,822 |
+| The Neuromancer | 35.00% | ~22,463 |
 | Oathbound Watchers | 33.00% | ~21,180 |
 | The Chronomancer | 32.00% | ~20,538 |
 | The Mechanomancer | 32.00% | ~20,538 |
@@ -96,9 +96,9 @@ Completed: 1,157 (1.80%) (Ranked 65)
 | 2023-05-23 | 64,166 | 1,157 |
 | 2023-05-24 | 64,181 | 1,157 |
 ## Awards
-Max (Character Customization): 939  (Ranked 140)  
+Max (Character Customization): 939  (Ranked 141)  
 Sum: 1,876 (Ranked 191)  
-Diff (max vs sum): -51  
+Diff (max vs sum): -50  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 939 |

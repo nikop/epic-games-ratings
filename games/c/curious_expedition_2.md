@@ -16,10 +16,10 @@ Number of Ratings: 20  (23.09.2022)
 | Spooky! | 33.00% | ~98 |
 | Shennong Herbalist | 30.00% | ~89 |
 | Treasure Hunt | 30.00% | ~89 |
-| Good Mama | 28.00% | ~83 |
+| Good Mama | 29.00% | ~86 |
 | O Captain My Captain | 27.00% | ~80 |
+| Taxonomist | 25.00% | ~74 |
 | Plunderer | 25.00% | ~74 |
-| Taxonomist | 24.00% | ~71 |
 | Nahua Seeker | 22.00% | ~65 |
 | Uncertain Loyalties | 22.00% | ~65 |
 | Traveller | 21.00% | ~62 |
@@ -27,10 +27,10 @@ Number of Ratings: 20  (23.09.2022)
 | Red Flag Pirate | 17.00% | ~50 |
 | Veteran Explorer | 17.00% | ~50 |
 | For the Club! | 15.00% | ~45 |
+| Practical Palaeontology | 15.00% | ~45 |
 | Iron Man | 14.00% | ~42 |
 | Shortening of the Way | 14.00% | ~42 |
 | A Gentle Beast | 14.00% | ~42 |
-| Practical Palaeontology | 14.00% | ~42 |
 | Dapper | 14.00% | ~42 |
 | The New Director | 13.00% | ~39 |
 | The Director is Dead | 13.00% | ~39 |

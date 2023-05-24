@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewPlayers": 56,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -428,9 +428,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13500,
+  "EOS_Progressed": 13504,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 933,
+  "EOS_NewPlayers": 937,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1433,6 +1433,11 @@
       "Time": "2023-05-24T17:03:23.3216437+00:00",
       "NumProgressed": 13500,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-05-24T18:03:13.3660561+00:00",
+      "NumProgressed": 13504,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 40,
@@ -1466,9 +1471,9 @@
       "ID": "BUY_ALL_WEAPONS",
       "SetID": "4hj6d86",
       "Name": "You Need a Gun",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 54
     },
     {
       "ID": "DISARM_ENEMY",
@@ -1484,7 +1489,7 @@
       "Name": "Grim Reaper",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "FINISH_CONTAGION",
@@ -1508,7 +1513,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -1556,7 +1561,7 @@
       "Name": "In Striking Distance",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "KILL_2HEAD",
@@ -1564,7 +1569,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -1650,41 +1655,41 @@
       "ID": "STORY_HABITAT",
       "SetID": "4hj6d86",
       "Name": "Without A Paddle",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 135
     },
     {
       "ID": "STORY_HANGAR",
       "SetID": "4hj6d86",
       "Name": "In the Pipe, Five by Five",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 95
     },
     {
       "ID": "STORY_MINETOWN",
       "SetID": "4hj6d86",
       "Name": "What Lies Beneath",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 27
+      "UsersEstimate": 41
     },
     {
       "ID": "STORY_OUTBREAK",
       "SetID": "4hj6d86",
       "Name": "Desperate Times",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 405
     },
     {
       "ID": "STORY_SNOWCAT",
       "SetID": "4hj6d86",
       "Name": "Crash Site",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 95
     },
     {
       "ID": "STORY_TOWER",
@@ -1698,9 +1703,9 @@
       "ID": "STORY_TUNNELS",
       "SetID": "4hj6d86",
       "Name": "Power Up",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 68
     },
     {
       "ID": "DISMEMBER_100",
@@ -1763,13 +1768,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13500,
+      "Progressed": 13504,
       "Completed": 52
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1426,
+      "Progressed": 1430,
       "Completed": 29
     }
   ],
@@ -1777,8 +1782,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-23T19:57:59.4143533+00:00",
-  "LastChanged_Achievements": "2023-05-24T17:03:23.3216432+00:00",
+  "LastChanged_Achievements": "2023-05-24T18:03:13.3660556+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-24T16:57:33.8791426+00:00",
-  "LastUpdate_Achievements": "2023-05-24T17:03:23.3216812+00:00"
+  "LastUpdate_Ratings": "2023-05-24T17:57:32.472048+00:00",
+  "LastUpdate_Achievements": "2023-05-24T18:03:13.366094+00:00"
 }

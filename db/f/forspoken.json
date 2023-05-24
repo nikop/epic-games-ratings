@@ -242,7 +242,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38197,
+  "EOS_Progressed": 38198,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
@@ -2427,6 +2427,11 @@
       "Time": "2023-05-24T16:05:10.4739664+00:00",
       "NumProgressed": 38197,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-24T18:05:25.3954517+00:00",
+      "NumProgressed": 38198,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2836,9 +2841,9 @@
       "ID": "SUBQUEST_CINTA",
       "SetID": "6d0g7k8",
       "Name": "Promises",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 115
     },
     {
       "ID": "SUBQUEST_CIPAL",
@@ -2861,22 +2866,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 38197,
+      "Progressed": 38198,
       "Completed": 1
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 3034,
-      "Completed": 3034
+      "Progressed": 3035,
+      "Completed": 3035
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-22T20:58:51.2673153+00:00",
-  "LastChanged_Achievements": "2023-05-24T17:05:38.6914234+00:00",
+  "LastChanged_Achievements": "2023-05-24T18:05:25.3954511+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:06.8378338+00:00",
-  "LastUpdate_Ratings": "2023-05-24T16:58:09.4342917+00:00",
-  "LastUpdate_Achievements": "2023-05-24T17:05:38.6914843+00:00"
+  "LastUpdate_Ratings": "2023-05-24T17:58:05.8584179+00:00",
+  "LastUpdate_Achievements": "2023-05-24T18:05:25.3955126+00:00"
 }

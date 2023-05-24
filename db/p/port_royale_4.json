@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -234,9 +234,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 563,
+  "EOS_Progressed": 565,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -564,6 +564,11 @@
       "Time": "2023-05-24T10:06:39.3299884+00:00",
       "NumProgressed": 563,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T18:05:19.290329+00:00",
+      "NumProgressed": 565,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -575,7 +580,7 @@
       "Name": "Cabin boy",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 450
+      "UsersEstimate": 452
     },
     {
       "ID": "ACH001",
@@ -583,7 +588,7 @@
       "Name": "Seafarer",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ACH002",
@@ -631,7 +636,7 @@
       "Name": "My little farm",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ACH008",
@@ -655,7 +660,7 @@
       "Name": "Conglomerate",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH011",
@@ -663,7 +668,7 @@
       "Name": "Intangible",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ACH012",
@@ -671,15 +676,15 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ACH013",
       "SetID": "69nfp41",
       "Name": "In a mint condition",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH014",
@@ -687,7 +692,7 @@
       "Name": "Christening",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH015",
@@ -717,9 +722,9 @@
       "ID": "ACH018",
       "SetID": "69nfp41",
       "Name": "The Grande Bouffe",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH019",
@@ -759,7 +764,7 @@
       "Name": "Gofer",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "ACH024",
@@ -775,7 +780,7 @@
       "Name": "My precious!",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH026",
@@ -791,7 +796,7 @@
       "Name": "I\u0027m out of here for a while",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ACH028",
@@ -807,7 +812,7 @@
       "Name": "Licence to Kill",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH030",
@@ -831,7 +836,7 @@
       "Name": "Pirates!",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH033",
@@ -863,7 +868,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "ACH037",
@@ -879,7 +884,7 @@
       "Name": "O Captain! My Captain!",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ACH039",
@@ -927,7 +932,7 @@
       "Name": "Greed for gold",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ACH045",
@@ -974,15 +979,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 563,
+      "Progressed": 565,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
-  "LastChanged_Achievements": "2023-05-24T17:05:32.580834+00:00",
+  "LastChanged_Achievements": "2023-05-24T18:05:19.2903287+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:02.5497371+00:00",
-  "LastUpdate_Ratings": "2023-05-24T16:58:06.9650321+00:00",
-  "LastUpdate_Achievements": "2023-05-24T17:05:32.5808783+00:00"
+  "LastUpdate_Ratings": "2023-05-24T17:58:03.4525291+00:00",
+  "LastUpdate_Achievements": "2023-05-24T18:05:19.2903684+00:00"
 }

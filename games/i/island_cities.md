@@ -11,7 +11,7 @@
 | Bridges to come and go | 46.00% | ~70 |
 | Found an oasis | 38.00% | ~58 |
 | Burger or pizza? | 35.00% | ~53 |
-| Passion for sports | 31.00% | ~47 |
+| Passion for sports | 32.00% | ~49 |
 | Who loves trains? | 28.00% | ~43 |
 | Easy and steady climb | 28.00% | ~43 |
 | At the heart of the city | 27.00% | ~41 |

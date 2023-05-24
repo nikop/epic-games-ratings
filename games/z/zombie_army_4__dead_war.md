@@ -6,41 +6,41 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 68.00% | ~28,833 |
-| Say goodbye, creep! | 65.00% | ~27,561 |
-| Blood splattered | 65.00% | ~27,561 |
-| Choo choo! | 62.00% | ~26,289 |
-| Groovy | 61.00% | ~25,865 |
-| Cleanup on aisle 4! | 56.00% | ~23,745 |
-| Gold | 50.00% | ~21,200 |
-| The boat can leave now...tell the crew | 48.00% | ~20,352 |
-| Give me something to shoot! | 46.00% | ~19,504 |
-| Stand back boy! | 46.00% | ~19,504 |
-| Weird science | 44.00% | ~18,656 |
-| Chain reaction | 44.00% | ~18,656 |
-| Look mummy! A shark! | 41.00% | ~17,384 |
-| What did you say, Blain? | 41.00% | ~17,384 |
-| In the dark dark woods... | 38.00% | ~16,112 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,112 |
-| Double tap | 36.00% | ~15,264 |
-| Cranial blowout! | 36.00% | ~15,264 |
-| Zombie killin' machine | 36.00% | ~15,264 |
-| Every bullet counts | 36.00% | ~15,264 |
-| All of this has happened before… | 35.00% | ~14,840 |
-| You've got red on you | 34.00% | ~14,416 |
-| All roads lead to Rome | 33.00% | ~13,992 |
-| You're all going to die down here | 31.00% | ~13,144 |
-| He did Nazi that coming | 31.00% | ~13,144 |
-| Kill of the week | 31.00% | ~13,144 |
-| I never liked them anyway | 30.00% | ~12,720 |
-| Is it over? | 28.00% | ~11,872 |
-| Got your back | 27.00% | ~11,448 |
-| Gore soaked | 24.00% | ~10,176 |
-| Shock therapy | 22.00% | ~9,328 |
-| Leave the limbs you've lost | 22.00% | ~9,328 |
-| Everyone's a mad scientist, life is the lab | 18.00% | ~7,632 |
-| Take them down screaming | 18.00% | ~7,632 |
-| Weapons expert | 17.00% | ~7,208 |
+| Shoot it, man! Shoot it in the head! | 68.00% | ~28,834 |
+| Say goodbye, creep! | 65.00% | ~27,562 |
+| Blood splattered | 65.00% | ~27,562 |
+| Choo choo! | 62.00% | ~26,290 |
+| Groovy | 61.00% | ~25,866 |
+| Cleanup on aisle 4! | 56.00% | ~23,746 |
+| Gold | 50.00% | ~21,202 |
+| The boat can leave now...tell the crew | 48.00% | ~20,353 |
+| Give me something to shoot! | 46.00% | ~19,505 |
+| Stand back boy! | 46.00% | ~19,505 |
+| Weird science | 44.00% | ~18,657 |
+| Chain reaction | 44.00% | ~18,657 |
+| Look mummy! A shark! | 41.00% | ~17,385 |
+| What did you say, Blain? | 41.00% | ~17,385 |
+| In the dark dark woods... | 38.00% | ~16,113 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,113 |
+| Double tap | 36.00% | ~15,265 |
+| Cranial blowout! | 36.00% | ~15,265 |
+| Zombie killin' machine | 36.00% | ~15,265 |
+| Every bullet counts | 36.00% | ~15,265 |
+| All of this has happened before… | 35.00% | ~14,841 |
+| You've got red on you | 34.00% | ~14,417 |
+| All roads lead to Rome | 33.00% | ~13,993 |
+| You're all going to die down here | 31.00% | ~13,145 |
+| He did Nazi that coming | 31.00% | ~13,145 |
+| Kill of the week | 31.00% | ~13,145 |
+| I never liked them anyway | 30.00% | ~12,721 |
+| Is it over? | 28.00% | ~11,873 |
+| Got your back | 27.00% | ~11,449 |
+| Gore soaked | 24.00% | ~10,177 |
+| Shock therapy | 22.00% | ~9,329 |
+| Leave the limbs you've lost | 22.00% | ~9,329 |
+| Everyone's a mad scientist, life is the lab | 18.00% | ~7,633 |
+| Take them down screaming | 18.00% | ~7,633 |
+| Weapons expert | 17.00% | ~7,209 |
 | Bad Blood | 16.00% | ~6,784 |
 | The bigger they are... | 15.00% | ~6,360 |
 | I'm going deeper underground | 14.00% | ~5,936 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~424 |
 | None more hard | 0.50% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,401 (Ranked 80)  
+Progressed: 42,403 (Ranked 80)  
 Completed: 25 (0.06%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,19 +107,19 @@ Completed: 25 (0.06%) (Ranked 170)
 | 2023-05-21 | 42,371 | 24 |
 | 2023-05-22 | 42,382 | 25 |
 | 2023-05-23 | 42,394 | 25 |
-| 2023-05-24 | 42,401 | 25 |
+| 2023-05-24 | 42,403 | 25 |
 ## Awards
-Max (Great Boss Battles): 774  (Ranked 147)  
-Sum: 2,372 (Ranked 169)  
+Max (Great Boss Battles): 775  (Ranked 147)  
+Sum: 2,374 (Ranked 169)  
 Diff (max vs sum): -22  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 774 |
+| This game has Great Boss Battles | 775 |
 | This game is Great for Beginners | 240 |
 | This game has Amazing Storytelling | 204 |
 | This game is Extremely Fun | 203 |
 | This game is Highly Recommended | 203 |
-| This game has Diverse Characters | 199 |
+| This game has Diverse Characters | 200 |
 | This game has Quickly Understood Controls | 193 |
 | This game is Relaxing | 181 |
 | This game has Amazing Characters | 175 |
@@ -245,3 +245,4 @@ Diff (max vs sum): -22
 | 2023-05-20 | 4.69 | - | 774 | 2,369 |
 | 2023-05-21 | 4.69 | - | 774 | 2,370 |
 | 2023-05-23 | 4.69 | - | 774 | 2,372 |
+| 2023-05-24 | 4.69 | - | 775 | 2,374 |

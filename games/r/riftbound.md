@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adventure Time | 91.00% | ~20 |
-| Master Of The Arts | 64.00% | ~14 |
-| Close Call | 27.00% | ~6 |
-| Getting Good At This | 5.00% | ~1 |
-| Hold The Line | 5.00% | ~1 |
+| Adventure Time | 91.00% | ~21 |
+| Master Of The Arts | 61.00% | ~14 |
+| Close Call | 26.00% | ~6 |
+| Getting Good At This | 4.00% | ~1 |
+| Hold The Line | 4.00% | ~1 |
 | Adept Summoner | 0.00% | ~0 |
 | Apprentice Summoner | 0.00% | ~0 |
 | Brave Younglings | 0.00% | ~0 |
@@ -32,7 +32,7 @@
 | Who's The Boss? | 0.00% | ~0 |
 | Worker Wisp | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22 (Ranked 315)  
+Progressed: 23 (Ranked 315)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -45,3 +45,4 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-21 | 16 | 0 |
 | 2023-05-22 | 20 | 0 |
 | 2023-05-23 | 22 | 0 |
+| 2023-05-24 | 23 | 0 |

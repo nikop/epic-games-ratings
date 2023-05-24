@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 198,
   "Ranking_EOS_Progress": 32,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1136,9 +1136,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 425403,
+  "EOS_Progressed": 425404,
   "EOS_Completed": 503,
-  "EOS_NewPlayers": 205,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3441,6 +3441,11 @@
       "Time": "2023-05-24T16:04:58.0982844+00:00",
       "NumProgressed": 425403,
       "NumCompleted": 503
+    },
+    {
+      "Time": "2023-05-24T18:05:12.6269422+00:00",
+      "NumProgressed": 425404,
+      "NumCompleted": 503
     }
   ],
   "TotalAchievements": 41,
@@ -3452,7 +3457,7 @@
       "Name": "Skillful Spirit Guide",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 63810
+      "UsersEstimate": 63811
     },
     {
       "ID": "ACH_ABILITY_BOMB",
@@ -3460,7 +3465,7 @@
       "Name": "Harness Your Power",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 161653
+      "UsersEstimate": 161654
     },
     {
       "ID": "ACH_ABILITY_BOW",
@@ -3492,7 +3497,7 @@
       "Name": "Spirit Guide",
       "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 178669
+      "UsersEstimate": 178670
     },
     {
       "ID": "ACH_BOSS_TOSHI",
@@ -3516,7 +3521,7 @@
       "Name": "Piercing Blow",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 55302
+      "UsersEstimate": 55303
     },
     {
       "ID": "ACH_CHALLENGE_BOMB",
@@ -3588,7 +3593,7 @@
       "Name": "Between the Eyes",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 195685
+      "UsersEstimate": 195686
     },
     {
       "ID": "ACH_CHESTS_ALL",
@@ -3620,7 +3625,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 404133
+      "UsersEstimate": 404134
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -3636,7 +3641,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 306290
+      "UsersEstimate": 306291
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -3652,7 +3657,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 293528
+      "UsersEstimate": 293529
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -3668,7 +3673,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 340322
+      "UsersEstimate": 340323
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -3692,7 +3697,7 @@
       "Name": "Say Cheese",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 68064
+      "UsersEstimate": 68065
     },
     {
       "ID": "ACH_RELIC_FOOD_OFFERING",
@@ -3700,7 +3705,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 191431
+      "UsersEstimate": 191432
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -3740,7 +3745,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 182923
+      "UsersEstimate": 182924
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -3779,15 +3784,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 425403,
+      "Progressed": 425404,
       "Completed": 503
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-05-23T15:58:10.904898+00:00",
-  "LastChanged_Achievements": "2023-05-24T17:05:25.524682+00:00",
+  "LastChanged_Achievements": "2023-05-24T18:05:12.6269418+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:49.1218266+00:00",
-  "LastUpdate_Ratings": "2023-05-24T16:57:57.5078913+00:00",
-  "LastUpdate_Achievements": "2023-05-24T17:05:25.5247493+00:00"
+  "LastUpdate_Ratings": "2023-05-24T17:57:54.4541052+00:00",
+  "LastUpdate_Achievements": "2023-05-24T18:05:12.6269895+00:00"
 }

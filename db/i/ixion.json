@@ -182,7 +182,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2128,
+  "EOS_Progressed": 2130,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 0,
@@ -1252,6 +1252,11 @@
       "Time": "2023-05-24T17:05:23.2656497+00:00",
       "NumProgressed": 2128,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T18:05:10.4735681+00:00",
+      "NumProgressed": 2130,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -1437,9 +1442,9 @@
       "ID": "ACH_BASE_31",
       "SetID": "92iocjf",
       "Name": "Power Outage",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_BASE_32",
@@ -1461,9 +1466,9 @@
       "ID": "ACH_BASE_34",
       "SetID": "92iocjf",
       "Name": "Ready for a New World",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_BASE_35",
@@ -1718,13 +1723,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 309,
+      "Progressed": 311,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2128,
+      "Progressed": 2130,
       "Completed": 0
     }
   ],
@@ -1732,8 +1737,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-05-13T22:58:30.2604361+00:00",
-  "LastChanged_Achievements": "2023-05-24T17:05:23.2656491+00:00",
+  "LastChanged_Achievements": "2023-05-24T18:05:10.4735678+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.7103468+00:00",
-  "LastUpdate_Ratings": "2023-05-24T16:58:05.2473112+00:00",
-  "LastUpdate_Achievements": "2023-05-24T17:05:23.2657153+00:00"
+  "LastUpdate_Ratings": "2023-05-24T17:58:01.797265+00:00",
+  "LastUpdate_Achievements": "2023-05-24T18:05:10.4736313+00:00"
 }

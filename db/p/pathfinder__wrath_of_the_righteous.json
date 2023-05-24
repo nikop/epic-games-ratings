@@ -2424,18 +2424,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 6643,
       "NumberOfAwardsMax": 1638
+    },
+    {
+      "Time": "2023-05-24T17:57:55.0972879+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6645,
+      "NumberOfAwardsMax": 1640
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6643,
-  "NumberOfAwardsMax": 1638,
+  "NumberOfAwards": 6645,
+  "NumberOfAwardsMax": 1640,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1638
+      "Count": 1640
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2498,9 +2504,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 9149,
+  "EOS_Progressed": 9150,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 303,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4403,6 +4409,11 @@
       "Time": "2023-05-24T17:05:53.2633347+00:00",
       "NumProgressed": 9149,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T18:05:39.977052+00:00",
+      "NumProgressed": 9150,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -4422,7 +4433,7 @@
       "Name": "Burning City",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -4430,7 +4441,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "04_FithCrusade",
@@ -4438,7 +4449,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -4478,7 +4489,7 @@
       "Name": "Path of the Demon",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "10_PathOfAzata",
@@ -4494,7 +4505,7 @@
       "Name": "Path of the Aeon",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "12_PathOfTrickster",
@@ -4502,7 +4513,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "13_PathOfLich",
@@ -4510,7 +4521,7 @@
       "Name": "Path of the Lich",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "14_PathOfSwarm",
@@ -4614,7 +4625,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 640
+      "UsersEstimate": 641
     },
     {
       "ID": "28_GreatUpstart",
@@ -4638,7 +4649,7 @@
       "Name": "Heroic Victory",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "31_DivideAndRule",
@@ -4670,7 +4681,7 @@
       "Name": "Capitulation Is Now Moot",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "35_AbyssalConspiracy",
@@ -4814,7 +4825,7 @@
       "Name": "Truly Important Deed",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "53_TrulyProfaneGift",
@@ -5341,21 +5352,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7931,
+      "Progressed": 7932,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9149,
+      "Progressed": 9150,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-05-23T19:58:32.5318283+00:00",
-  "LastChanged_Achievements": "2023-05-24T17:05:53.2633342+00:00",
+  "LastChanged": "2023-05-24T17:57:55.0972878+00:00",
+  "LastChanged_Achievements": "2023-05-24T18:05:39.9770516+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3010226+00:00",
-  "LastUpdate_Ratings": "2023-05-24T16:57:58.1787325+00:00",
-  "LastUpdate_Achievements": "2023-05-24T17:05:53.2635103+00:00"
+  "LastUpdate_Ratings": "2023-05-24T17:57:55.0972887+00:00",
+  "LastUpdate_Achievements": "2023-05-24T18:05:39.9772243+00:00"
 }

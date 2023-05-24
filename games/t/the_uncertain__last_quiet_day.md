@@ -17,9 +17,9 @@
 | There is another way | 22.00% | ~99 |
 | Annoying | 20.00% | ~90 |
 | Every little helps | 20.00% | ~90 |
+| Hacker | 20.00% | ~90 |
 | Uncertain | 20.00% | ~90 |
 | The Walking Robot Among Us | 20.00% | ~90 |
-| Hacker | 19.00% | ~85 |
 | He is just a child | 19.00% | ~85 |
 | Goody | 17.00% | ~76 |
 | Please oh pleeease! | 17.00% | ~76 |
