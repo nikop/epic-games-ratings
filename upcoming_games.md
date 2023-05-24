@@ -328,6 +328,7 @@
 | [Tavernacle](games/t/tavernacle.md) | 2099-01-01 | 2099-01-01 |
 | [Terrordrome - Reign of the Legends](games/t/terrordrome_-_reign_of_the_legends.md) | 2099-01-01 | 2020-07-24 |
 | [The Alters](games/t/the_alters.md) | 2099-01-01 | 2099-01-01 |
+| [The Bookwalker: Thief of Tales](games/a/a6ec40c07ed2404687698a3ea8de36ce.md) | 2099-01-01 | 2099-01-01 |
 | [The Captain is Dead](games/t/the_captain_is_dead.md) | 2099-01-01 | 2021-02-01 |
 | [The Cecil The Journey Begins](games/t/the_cecil_the_journey_begins.md) | 2099-01-01 | 2099-01-01 |
 | [The Crown of Wu](games/t/the_crown_of_wu.md) | 2099-01-01 | 2099-01-01 |

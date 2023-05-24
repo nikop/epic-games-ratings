@@ -28,7 +28,7 @@
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.71% |
 | 27 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.50% |
 | 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.45% |
-| 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 4.88% |
+| 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 4.86% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.85% |
 | 31 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.65% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
@@ -36,7 +36,7 @@
 | 34 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.26% |
 | 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
 | 36 | [Doodle God](games/d/doodle_god.md) | 3.90% |
-| 36 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.90% |
+| 37 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.89% |
 | 38 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 39 | [The Complex](games/t/the_complex.md) | 3.50% |
 | 40 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.35% |
@@ -414,4 +414,4 @@
 | 202 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 202 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 202 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,656 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,657 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |

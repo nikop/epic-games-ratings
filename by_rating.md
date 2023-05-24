@@ -116,7 +116,7 @@
 | 105 | [WHAT THE GOLF?](games/w/what_the_golf.md) | 4.77 | 0 | 491 |
 | 105 | [Wildermyth](games/w/wildermyth.md) | 4.77 | 27 | 455 |
 | 116 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.76 | 0 | 491 |
-| 116 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,271 | 23 |
+| 116 | [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 14,275 | 23 |
 | 116 | [Cave Story+](games/c/cave_story+.md) | 4.76 | 85 | 343 |
 | 116 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 4.76 | 850 | 145 |
 | 116 | [Empires of the Undergrowth](games/e/empires_of_the_undergrowth.md) | 4.76 | 41 | 408 |
@@ -193,7 +193,7 @@
 | 178 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.71 | 112 | 313 |
 | 192 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,526 | 68 |
 | 192 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 0 | 491 |
-| 192 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 349 | 212 |
+| 192 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 350 | 212 |
 | 192 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.70 | 4,245 | 70 |
 | 192 | [For The King](games/f/for_the_king.md) | 4.70 | 364 | 209 |
 | 192 | [GoNNER](games/g/gonner.md) | 4.70 | 0 | 491 |
@@ -239,7 +239,7 @@
 | 235 | [Bad North](games/b/bad_north.md) | 4.68 | 0 | 491 |
 | 235 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 69 | 367 |
 | 235 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 491 |
-| 235 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,271 | 60 |
+| 235 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,277 | 60 |
 | 235 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 296,291 | 3 |
 | 235 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 173,540 | 5 |
 | 235 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | 0 | 491 |
@@ -372,7 +372,7 @@
 | 360 | [Limbo](games/l/limbo.md) | 4.61 | 0 | 491 |
 | 360 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,096 | 128 |
 | 360 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 0 | 491 |
-| 360 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,494 | 91 |
+| 360 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,496 | 91 |
 | 360 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.61 | 616 | 163 |
 | 360 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 423 | 194 |
 | 360 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 9,126 | 36 |
@@ -500,7 +500,7 @@
 | 492 | [RUINER](games/r/ruiner.md) | 4.53 | 23 | 470 |
 | 492 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.53 | 92 | 333 |
 | 492 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 491 |
-| 492 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 282 | 227 |
+| 492 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 282 | 228 |
 | 492 | [Verdun](games/v/verdun.md) | 4.53 | 93 | 332 |
 | 492 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.53 | 0 | 491 |
 | 504 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 738 | 152 |
@@ -557,7 +557,7 @@
 | 535 | [Tails of Iron](games/t/tails_of_iron.md) | 4.50 | 0 | 491 |
 | 535 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 30 | 445 |
 | 557 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 62 | 374 |
-| 557 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 396 | 202 |
+| 557 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 397 | 202 |
 | 557 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,975 | 104 |
 | 557 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 4.49 | 105 | 316 |
 | 557 | [Dark Deception](games/d/dark_deception.md) | 4.49 | 0 | 491 |
@@ -869,7 +869,7 @@
 | 866 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 0 | 491 |
 | 866 | [Submerged](games/s/submerged.md) | 4.09 | 0 | 491 |
 | 869 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 137 | 292 |
-| 869 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.08 | 507 | 183 |
+| 869 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.08 | 509 | 183 |
 | 869 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.08 | 0 | 491 |
 | 869 | [The World Next Door](games/t/the_world_next_door.md) | 4.08 | 0 | 491 |
 | 873 | [Gravewood High](games/g/gravewood_high.md) | 4.07 | 0 | 491 |
@@ -899,7 +899,7 @@
 | 897 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 402 |
 | 898 | [Patron](games/p/patron.md) | 3.94 | 0 | 491 |
 | 899 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 29 | 449 |
-| 899 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 282 | 227 |
+| 899 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 284 | 227 |
 | 899 | [Ironcast](games/i/ironcast.md) | 3.93 | 0 | 491 |
 | 899 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 0 | 491 |
 | 903 | [Conarium](games/c/conarium.md) | 3.92 | 0 | 491 |

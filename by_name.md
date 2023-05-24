@@ -303,10 +303,10 @@
 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | - | - | 0 | - |
 | [Boom Blaster](games/b/boom_blaster.md) | - | - | 0 | - |
 | [Boomerang X](games/b/boomerang_x.md) | - | - | 0 | - |
-| [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 116 | 14,271 | 23 |
+| [Borderlands 2](games/b/borderlands_2.md) | 4.76 | 116 | 14,275 | 23 |
 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 211 | 109,736 | 8 |
 | [Borderlands: The Handsome Collection](games/b/borderlands__the_handsome_collection.md) | - | - | - | - |
-| [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 557 | 396 | 202 |
+| [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 557 | 397 | 202 |
 | [Bosorka](games/b/bosorka.md) | - | - | 0 | - |
 | [BoxR](games/b/boxr.md) | - | - | - | - |
 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | - | - | 0 | - |
@@ -459,7 +459,7 @@
 | [Crashlands](games/c/crashlands.md) | 4.66 | 271 | 188 | 263 |
 | [Crayta](games/c/crayta.md) | 4.19 | 823 | 50 | 387 |
 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.25 | 784 | 22 | 473 |
-| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 899 | 282 | 227 |
+| [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 899 | 284 | 227 |
 | [Crimson Dawn](games/c/crimson_dawn.md) | - | - | 0 | - |
 | [Crimson Spires](games/c/crimson_spires.md) | - | - | - | - |
 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 710 | 170 | 276 |
@@ -709,7 +709,7 @@
 | [Eternights](games/e/eternights.md) | - | - | - | - |
 | [Eternity Convergence](games/e/eternity_convergence.md) | - | - | - | - |
 | [Etherborn](games/e/etherborn.md) | - | - | 0 | - |
-| [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 235 | 5,271 | 60 |
+| [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 235 | 5,277 | 60 |
 | [Evan's Remains](games/e/evan's_remains.md) | - | - | 0 | - |
 | [EVE Online](games/e/eve_online.md) | 4.25 | 784 | 1,020 | 135 |
 | [Everdream Valley](games/e/everdream_valley.md) | - | - | - | - |
@@ -763,7 +763,7 @@
 | [Far Cry New Dawn - Ultimate](games/f/far_cry_new_dawn_-_ultimate.md) | - | - | - | - |
 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 648 | 185 | 265 |
 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 178 | 325 | 216 |
-| [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 192 | 349 | 212 |
+| [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 4.70 | 192 | 350 | 212 |
 | [FAR: Changing Tides](games/f/far__changing_tides.md) | 4.69 | 211 | 0 | 491 |
 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 178 | 0 | 491 |
 | [Faraday Protocol](games/f/faraday_protocol.md) | - | - | 0 | - |
@@ -894,7 +894,7 @@
 | [Goblins of Elderstone](games/g/goblins_of_elderstone.md) | - | - | 0 | - |
 | [God of War](games/g/god_of_war.md) | 4.88 | 19 | 4,002 | 74 |
 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 836 | 26 | 459 |
-| [Godfall Ultimate Edition](games/g/godfall.md) | 4.08 | 869 | 507 | 183 |
+| [Godfall Ultimate Edition](games/g/godfall.md) | 4.08 | 869 | 509 | 183 |
 | [Godlike Burger](games/g/godlike_burger.md) | 4.25 | 784 | 0 | 491 |
 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 895 | 0 | 491 |
 | [Godstrike](games/g/godstrike.md) | - | - | 0 | - |
@@ -1250,7 +1250,7 @@
 | [LOVE 3](games/l/love_3.md) | - | - | 0 | - |
 | [Lovecraft's Untold Stories](games/l/lovecraft's_untold_stories.md) | - | - | 0 | - |
 | [Lovecraft's Untold Stories 2](games/l/lovecraft's_untold_stories_2.md) | - | - | 0 | - |
-| [Lua Zombies](games/l/lua_zombies.md) | - | - | - | - |
+| [Lua Zombies](games/l/lua_zombies.md) | - | - | 0 | - |
 | [LumbearJack](games/l/lumbearjack.md) | - | - | 0 | - |
 | [Lumberjack's Dynasty](games/l/lumberjack's_dynasty.md) | 4.09 | 866 | 0 | 491 |
 | [Lumencraft](games/l/lumencraft.md) | - | - | 0 | - |
@@ -1547,7 +1547,7 @@
 | [Parkour Legends](games/p/parkour_legends.md) | - | - | - | - |
 | [Partisans 1941](games/p/partisans_1941.md) | 4.61 | 360 | 0 | 491 |
 | [Pascal's Wager: Definitive Edition](games/p/pascal's_wager__definitive_edition.md) | 4.33 | 740 | 0 | 491 |
-| [Path of Exile](games/p/path_of_exile.md) | 4.61 | 360 | 2,494 | 91 |
+| [Path of Exile](games/p/path_of_exile.md) | 4.61 | 360 | 2,496 | 91 |
 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 437 | 3,084 | 86 |
 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 116 | 1,638 | 111 |
 | [Pathway](games/p/pathway.md) | 4.44 | 627 | 0 | 491 |
@@ -1837,8 +1837,8 @@
 | [shapez](games/s/shapez.md) | 4.71 | 178 | 169 | 278 |
 | [Shattered Steel](games/s/shattered_steel.md) | - | - | 0 | - |
 | [Shattered: Tale of the Forgotten King](games/s/shattered__tale_of_the_forgotten_king.md) | - | - | 0 | - |
-| [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
 | [shaveta12 Production](games/s/shaveta12_production.md) | - | - | - | - |
+| [shaveta12 Production](games/s/shaveta12_production_1.md) | - | - | - | - |
 | [shaveta32internal Production](games/s/shaveta32internal_production.md) | - | - | - | - |
 | [Sheepo](games/s/sheepo.md) | - | - | 0 | - |
 | [Sheltered](games/s/sheltered.md) | 4.42 | 648 | 267 | 235 |
@@ -2126,6 +2126,7 @@
 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.64 | 312 | 0 | 491 |
 | [The Big Con](games/t/the_big_con.md) | - | - | 0 | - |
 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 7 | 1,803 | 107 |
+| [The Bookwalker: Thief of Tales](games/a/a6ec40c07ed2404687698a3ea8de36ce.md) | - | - | - | - |
 | [The Bridge](games/t/the_bridge.md) | 4.20 | 814 | 0 | 491 |
 | [The Bunker](games/t/the_bunker.md) | - | - | 0 | - |
 | [The Bunny Graveyard](games/t/the_bunny_graveyard.md) | - | - | 0 | - |
@@ -2383,7 +2384,7 @@
 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 886 | 0 | 491 |
 | [Train Sim World](games/t/train_sim_world.md) | - | - | - | - |
 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 648 | 537 | 179 |
-| [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 492 | 282 | 227 |
+| [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.53 | 492 | 282 | 228 |
 | [Train Valley](games/t/train_valley.md) | 4.47 | 583 | 0 | 491 |
 | [Train Valley 2](games/t/train_valley_2.md) | 4.15 | 845 | 71 | 362 |
 | [Train World](games/t/train_world.md) | - | - | - | - |
@@ -2482,7 +2483,7 @@
 | [Vernal Edge](games/v/vernal_edge.md) | - | - | 0 | - |
 | [Vertical Third Tech Demo](games/v/vertical_third_tech_demo.md) | - | - | 0 | - |
 | [Very Very Valet](games/v/very_very_valet.md) | - | - | - | - |
-| [Victorian Admirals](games/v/victorian_admirals.md) | - | - | - | - |
+| [Victorian Admirals](games/v/victorian_admirals.md) | - | - | 0 | - |
 | [Video Horror Society](games/v/video_horror_society.md) | 4.26 | 780 | 297 | 225 |
 | [Vigil: The Longest Night](games/v/vigil__the_longest_night.md) | - | - | 0 | - |
 | [ViruZ](games/v/viruz.md) | - | - | 0 | - |
