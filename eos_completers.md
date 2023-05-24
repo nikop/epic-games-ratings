@@ -19,10 +19,10 @@
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.12% |
 | 18 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.90% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.78% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.75% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
 | 22 | [Scorn](games/s/scorn.md) | 6.89% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 6.79% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 6.78% |
 | 24 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 25 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.80% |
@@ -34,8 +34,8 @@
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.43% |
 | 34 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.26% |
-| 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.92% |
-| 36 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.91% |
+| 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
+| 35 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.91% |
 | 37 | [Doodle God](games/d/doodle_god.md) | 3.90% |
 | 38 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 39 | [The Complex](games/t/the_complex.md) | 3.50% |
@@ -44,8 +44,8 @@
 | 42 | [The Bunker](games/t/the_bunker.md) | 3.23% |
 | 43 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
 | 44 | [ZZT!](games/z/zzt!.md) | 3.16% |
-| 45 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.03% |
-| 46 | [HordeCore](games/h/hordecore.md) | 3.01% |
+| 45 | [HordeCore](games/h/hordecore.md) | 3.01% |
+| 45 | [Serial Cleaners](games/s/serial_cleaners.md) | 3.01% |
 | 47 | [MultiVersus](games/m/multiversus.md) | 2.95% |
 | 48 | [Destiny 2](games/d/destiny_2.md) | 2.91% |
 | 49 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.90% |
@@ -59,8 +59,8 @@
 | 56 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 58 | [JARS](games/j/jars.md) | 2.38% |
 | 59 | [Iron Danger](games/i/iron_danger.md) | 2.33% |
-| 60 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.17% |
-| 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.13% |
+| 60 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.14% |
+| 61 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 2.13% |
 | 62 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.12% |
 | 63 | [Bloodshore](games/b/bloodshore.md) | 2.03% |
 | 64 | [Sifu](games/s/sifu.md) | 1.81% |
@@ -78,8 +78,8 @@
 | 76 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.29% |
 | 77 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.26% |
 | 78 | [Chorus](games/c/chorus.md) | 1.25% |
-| 79 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.22% |
 | 79 | [Trifox](games/t/trifox.md) | 1.22% |
+| 80 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.21% |
 | 81 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.18% |
 | 82 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.13% |
 | 83 | [Late Shift](games/l/late_shift.md) | 1.12% |
@@ -90,7 +90,7 @@
 | 88 | [Dungeons 3](games/d/dungeons_3.md) | 0.90% |
 | 89 | [Hades](games/h/hades.md) | 0.89% |
 | 90 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
-| 91 | [Them and Us](games/t/them_and_us.md) | 0.84% |
+| 91 | [Them and Us](games/t/them_and_us.md) | 0.83% |
 | 92 | [Adios](games/a/adios.md) | 0.82% |
 | 92 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.82% |
 | 92 | [Lemon Cake](games/l/lemon_cake.md) | 0.82% |
