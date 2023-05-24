@@ -121,6 +121,7 @@
 | [Game Dev Masters](games/g/game_dev_masters.md) | 2023-10-03 | 2022-06-03 |
 | [Tall Poppy 2](games/7/71f1ccd53d6a46c8a44b9e5425af0723.md) | 2023-10-13 | 2023-10-13 |
 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 2023-10-13 | 2023-10-13 |
+| [Alan Wake 2](games/a/alan_wake_2.md) | 2023-10-17 | 2023-10-17 |
 | [ENDLESS™ Dungeon](games/e/endless™_dungeon.md) | 2023-10-19 | 2023-10-19 |
 | [Total War: PHARAOH](games/3/3928d2045d28460b96db76dc1b9ca146.md) | 2023-10-31 | 2023-10-31 |
 | [IHAS](games/3/306a3dc5437a43d29e58661fc6f391f2.md) | 2023-11-30 | 2023-11-30 |
@@ -205,7 +206,6 @@
 | [AI Roguelite](games/a/ai_roguelite.md) | 2099-01-01 | 2022-03-02 |
 | [Airhead](games/a/airhead.md) | 2099-01-01 | 2099-01-01 |
 | [Airship Kingdoms Adrift](games/a/airship_kingdoms_adrift.md) | 2099-01-01 | 2099-01-01 |
-| [Alan Wake 2](games/a/alan_wake_2.md) | 2099-01-01 | - |
 | [ANIMO Stars Arena](games/a/animo_stars_arena.md) | 2099-01-01 | 2099-01-01 |
 | [Arto](games/a/arto.md) | 2099-01-01 | 2099-01-01 |
 | [Asterogues](games/a/asterogues.md) | 2099-01-01 | 2099-01-01 |
@@ -404,6 +404,7 @@
 | [SYNCED](games/s/synced.md) | 2099-02-01 | - |
 | [The Anacrusis](games/t/the_anacrusis.md) | 2099-02-01 | - |
 | [The Crew Motorfest](games/t/the_crew_motorfest.md) | 2099-02-01 | - |
+| [Ultros](games/c/c6422f963ff84bcbb3b77539e77b6ef7.md) | 2099-02-01 | 2099-02-01 |
 | [Under The Waves](games/u/under_the_waves.md) | 2099-02-01 | - |
 | [The Lamplighters League](games/t/the_lamplighters_league.md) | 2099-02-01 | - |
 | [SKULL AND BONES™](games/s/skull_and_bones™.md) | 2099-03-09 | - |
