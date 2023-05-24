@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
@@ -351,9 +351,9 @@
       "ID": "ACH_031",
       "SetID": "72imik0",
       "Name": "Angeline Van den Bosch",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 267
     },
     {
       "ID": "ACH_032",
@@ -383,9 +383,9 @@
       "ID": "ACH_035",
       "SetID": "72imik0",
       "Name": "Elizabeth Padget",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 256
     },
     {
       "ID": "ACH_036",
@@ -536,8 +536,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-04-23T20:59:05.6364727+00:00",
-  "LastChanged_Achievements": "2023-05-24T19:05:58.8153642+00:00",
+  "LastChanged_Achievements": "2023-05-24T20:06:30.3388232+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:21.1677619+00:00",
-  "LastUpdate_Ratings": "2023-05-24T18:57:44.4441522+00:00",
-  "LastUpdate_Achievements": "2023-05-24T19:05:58.8154322+00:00"
+  "LastUpdate_Ratings": "2023-05-24T19:58:09.9006083+00:00",
+  "LastUpdate_Achievements": "2023-05-24T20:06:30.338863+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 980,
+  "EOS_Progressed": 981,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -207,6 +207,11 @@
     {
       "Time": "2023-05-23T02:07:04.8179464+00:00",
       "NumProgressed": 980,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T20:06:32.4515088+00:00",
+      "NumProgressed": 981,
       "NumCompleted": 0
     }
   ],
@@ -539,7 +544,7 @@
       "Name": "It\u0027s like an haircut",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ONEPLATINUM",
@@ -555,7 +560,7 @@
       "Name": "Put it on a shelf",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "OVERTAKE100HUMANS",
@@ -634,7 +639,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 980,
+      "Progressed": 981,
       "Completed": 0
     }
   ],
@@ -642,8 +647,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-05-24T19:06:01.0700375+00:00",
+  "LastChanged_Achievements": "2023-05-24T20:06:32.451508+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:42.1539132+00:00",
-  "LastUpdate_Ratings": "2023-05-24T18:58:04.4950275+00:00",
-  "LastUpdate_Achievements": "2023-05-24T19:06:01.0701153+00:00"
+  "LastUpdate_Ratings": "2023-05-24T19:58:31.504553+00:00",
+  "LastUpdate_Achievements": "2023-05-24T20:06:32.4515635+00:00"
 }

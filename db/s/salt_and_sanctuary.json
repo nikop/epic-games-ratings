@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 66,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
@@ -2217,9 +2217,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 522000,
+  "EOS_Progressed": 522001,
   "EOS_Completed": 1420,
-  "EOS_NewPlayers": 795,
+  "EOS_NewPlayers": 794,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -5562,6 +5562,11 @@
       "Time": "2023-05-24T19:05:55.6963417+00:00",
       "NumProgressed": 522000,
       "NumCompleted": 1420
+    },
+    {
+      "Time": "2023-05-24T20:06:27.2209784+00:00",
+      "NumProgressed": 522001,
+      "NumCompleted": 1420
     }
   ],
   "TotalAchievements": 37,
@@ -5629,7 +5634,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 433260
+      "UsersEstimate": 433261
     },
     {
       "ID": "HONED",
@@ -5829,7 +5834,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 334080
+      "UsersEstimate": 334081
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -5868,15 +5873,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 522000,
+      "Progressed": 522001,
       "Completed": 1420
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-05-24T18:59:21.9385682+00:00",
-  "LastChanged_Achievements": "2023-05-24T19:05:55.696341+00:00",
+  "LastChanged_Achievements": "2023-05-24T20:06:27.2209777+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:40.8426425+00:00",
-  "LastUpdate_Ratings": "2023-05-24T18:59:21.9385687+00:00",
-  "LastUpdate_Achievements": "2023-05-24T19:05:55.6963984+00:00"
+  "LastUpdate_Ratings": "2023-05-24T19:59:52.8568881+00:00",
+  "LastUpdate_Achievements": "2023-05-24T20:06:27.2210306+00:00"
 }

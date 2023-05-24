@@ -4,7 +4,7 @@
   "ProductSlug": "rescue-party-live",
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-01-13T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 158,
+  "EOS_Progressed": 159,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.43,
+  "EOS_Completed_Percentage": 4.4,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:37.3014297+00:00",
@@ -71,6 +71,11 @@
       "Time": "2023-05-21T20:06:08.1279577+00:00",
       "NumProgressed": 158,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-05-24T20:06:14.1232918+00:00",
+      "NumProgressed": 159,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 18,
@@ -88,9 +93,9 @@
       "ID": "ACH_DAWN_OF_VICTORY",
       "SetID": "1p69hf1",
       "Name": "Dawn of Victory",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_FOREIGN_FRIENDS",
@@ -98,7 +103,7 @@
       "Name": "Gloable operation",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_HERT_COLLECTOR",
@@ -106,7 +111,7 @@
       "Name": "Medal of honor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_IT_IS_IN_CONTROL",
@@ -130,7 +135,7 @@
       "Name": "Life matters",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_LIGHT",
@@ -178,7 +183,7 @@
       "Name": "Professional team!",
       "Percentage": 23,
       "XP": 35,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_RESCUE_TEAM_ASSEMBLE",
@@ -218,14 +223,14 @@
       "Name": "ASAP",
       "Percentage": 93,
       "XP": 50,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     }
   ],
   "AchievementSets": [
     {
       "ID": "1p69hf1",
       "IsBase": true,
-      "Progressed": 158,
+      "Progressed": 159,
       "Completed": 7
     }
   ],
@@ -233,8 +238,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.1285386+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.3014308+00:00",
   "LastChanged": "2023-03-31T05:58:01.1285387+00:00",
-  "LastChanged_Achievements": "2023-05-24T19:05:42.3764685+00:00",
+  "LastChanged_Achievements": "2023-05-24T20:06:14.1232912+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:54.6384952+00:00",
-  "LastUpdate_Ratings": "2023-05-24T18:59:26.9369217+00:00",
-  "LastUpdate_Achievements": "2023-05-24T19:05:42.3764842+00:00"
+  "LastUpdate_Ratings": "2023-05-24T19:59:57.7344432+00:00",
+  "LastUpdate_Achievements": "2023-05-24T20:06:14.1233078+00:00"
 }

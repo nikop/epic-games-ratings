@@ -4,10 +4,10 @@
   "ProductSlug": "tyranny",
   "Ranking_Rating": 402,
   "Ranking_Popularity": 156,
-  "Ranking_PopularitySum": 215,
+  "Ranking_PopularitySum": 214,
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
@@ -1184,10 +1184,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 1360,
       "NumberOfAwardsMax": 693
+    },
+    {
+      "Time": "2023-05-24T20:01:02.096707+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1361,
+      "NumberOfAwardsMax": 693
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1360,
+  "NumberOfAwards": 1361,
   "NumberOfAwardsMax": 693,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1225,7 +1231,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1269,8 +1275,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:28:41.6168651+00:00",
-  "LastChanged": "2023-05-21T21:00:24.1210137+00:00",
+  "LastChanged": "2023-05-24T20:01:02.0967065+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:33.0981496+00:00",
-  "LastUpdate_Ratings": "2023-05-24T19:00:31.2621648+00:00",
-  "LastUpdate_Achievements": "2023-05-24T19:03:20.9471612+00:00"
+  "LastUpdate_Ratings": "2023-05-24T20:01:02.0967075+00:00",
+  "LastUpdate_Achievements": "2023-05-24T20:03:52.0182778+00:00"
 }

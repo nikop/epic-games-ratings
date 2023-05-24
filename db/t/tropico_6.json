@@ -2845,9 +2845,9 @@
       "ID": "ACH_EP_PIRATEKING",
       "SetID": "1p8ab95",
       "Name": "The Legend of Langostino",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 521
+      "UsersEstimate": 552
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -3069,8 +3069,8 @@
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-15T17:00:44.7999652+00:00",
-  "LastChanged_Achievements": "2023-05-24T19:06:18.2808871+00:00",
+  "LastChanged_Achievements": "2023-05-24T20:06:49.7290278+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:57.2781106+00:00",
-  "LastUpdate_Ratings": "2023-05-24T19:00:16.0106549+00:00",
-  "LastUpdate_Achievements": "2023-05-24T19:06:18.2809392+00:00"
+  "LastUpdate_Ratings": "2023-05-24T20:00:45.8743517+00:00",
+  "LastUpdate_Achievements": "2023-05-24T20:06:49.7290719+00:00"
 }

@@ -6,27 +6,27 @@ Rating: 4.54 (Ranked 481)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Trevithick's Legacy | 98.00% | ~18,252 |
-| Before the Downfall | 93.00% | ~17,320 |
-| Money like Water | 91.00% | ~16,948 |
+| Before the Downfall | 93.00% | ~17,321 |
+| Money like Water | 91.00% | ~16,949 |
 | Minimalist | 90.00% | ~16,762 |
-| Builder | 83.00% | ~15,458 |
-| Eraser | 70.00% | ~13,037 |
+| Builder | 83.00% | ~15,459 |
+| Eraser | 70.00% | ~13,038 |
 | Pocket of Trains | 65.00% | ~12,106 |
-| Inspector | 59.00% | ~10,988 |
-| Going the Distance | 54.00% | ~10,057 |
+| Inspector | 59.00% | ~10,989 |
+| Going the Distance | 54.00% | ~10,058 |
 | Oil Baron | 42.00% | ~7,822 |
 | Loads-a-Money | 42.00% | ~7,822 |
-| Helper of the People | 39.00% | ~7,263 |
+| Helper of the People | 39.00% | ~7,264 |
 | Simplification | 33.00% | ~6,146 |
 | Box of Trains | 33.00% | ~6,146 |
 | Let There be Light | 32.00% | ~5,960 |
-| Hot Water | 30.00% | ~5,587 |
+| Hot Water | 30.00% | ~5,588 |
 | Indecisive | 29.00% | ~5,401 |
-| The scenic route | 27.00% | ~5,028 |
+| The scenic route | 27.00% | ~5,029 |
 | Industrialist | 25.00% | ~4,656 |
 | Perfectionist | 23.00% | ~4,284 |
 | Trains over Pipes | 23.00% | ~4,284 |
-| 8K is Enough for Everyone | 22.00% | ~4,097 |
+| 8K is Enough for Everyone | 22.00% | ~4,098 |
 | Man of Steel | 16.00% | ~2,980 |
 | Room Full of Trains | 12.00% | ~2,235 |
 | Investor | 9.00% | ~1,676 |
@@ -43,7 +43,7 @@ Rating: 4.54 (Ranked 481)
 | Overdeer | 0.50% | ~93 |
 | Cloud Services | 0.20% | ~37 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,624 (Ranked 95)  
+Progressed: 18,625 (Ranked 95)  
 Completed: 29 (0.16%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 29 (0.16%) (Ranked 144)
 | 2023-05-21 | 18,566 | 29 |
 | 2023-05-22 | 18,583 | 29 |
 | 2023-05-23 | 18,606 | 29 |
-| 2023-05-24 | 18,624 | 29 |
+| 2023-05-24 | 18,625 | 29 |
 ## Awards
 Max (Highly Recommended): 87  (Ranked 342)  
 Sum: 646 (Ranked 273)  

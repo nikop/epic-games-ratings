@@ -8,8 +8,8 @@ Rating: 4.18 (Ranked 830)
 | Flesh Wound | 6.00% | ~811 |
 | Giving Back | 5.00% | ~676 |
 | Chew 'Em Up | 5.00% | ~676 |
-| Instigator | 4.00% | ~57 |
-| Big Game Hunter | 4.00% | ~57 |
+| Instigator | 4.00% | ~58 |
+| Big Game Hunter | 4.00% | ~58 |
 | The Outer Way | 3.00% | ~405 |
 | Desperate Times | 3.00% | ~405 |
 | Bear Trap | 3.00% | ~43 |
@@ -20,13 +20,13 @@ Rating: 4.18 (Ranked 830)
 | Reforged | 2.00% | ~270 |
 | Paper Jams | 2.00% | ~270 |
 | Mugshot | 2.00% | ~270 |
+| If the SHU Fits... | 2.00% | ~270 |
 | Big Spender | 2.00% | ~29 |
 | Parole Denied | 1.00% | ~14 |
 | Terminated | 1.00% | ~135 |
-| If the SHU Fits... | 1.00% | ~135 |
 | Without A Paddle | 1.00% | ~135 |
 | Hoard Mode | 1.00% | ~14 |
-| Lifer | 0.80% | ~11 |
+| Lifer | 0.80% | ~12 |
 | Recidivist | 0.70% | ~10 |
 | In Striking Distance | 0.70% | ~95 |
 | Two Heads Are Better Than One | 0.70% | ~95 |
@@ -37,7 +37,7 @@ Rating: 4.18 (Ranked 830)
 | Grim Reaper | 0.30% | ~41 |
 | I Do Belong Here | 0.30% | ~41 |
 | What Lies Beneath | 0.30% | ~41 |
-| Full Circle | 0.20% | ~27 |
+| Full Circle | 0.30% | ~41 |
 | It's over, Jacob! | 0.10% | ~14 |
 | Armed to the Teeth | 0.10% | ~1 |
 | Glutton for Punishment | 0.10% | ~1 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 830)
 | Subject Alpha | 0.10% | ~1 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,511 (Ranked 101)  
+Progressed: 13,513 (Ranked 101)  
 Completed: 52 (0.38%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 52 (0.38%) (Ranked 114)
 | 2023-05-21 | 13,223 | 52 |
 | 2023-05-22 | 13,347 | 52 |
 | 2023-05-23 | 13,444 | 52 |
-| 2023-05-24 | 13,511 | 52 |
+| 2023-05-24 | 13,513 | 52 |
 ## Awards
 Max (Highly Recommended): 46  (Ranked 397)  
 Sum: 267 (Ranked 335)  

@@ -76,10 +76,10 @@ Number of Ratings: 37  (23.09.2022)
 | Builder V | 0.60% | ~25 |
 | Ten-Hut! | 0.60% | ~25 |
 | I've been everywhere VI | 0.60% | ~25 |
+| The wood shortage | 0.60% | ~25 |
 | Buried | 0.50% | ~21 |
 | Craftsmen challenge | 0.50% | ~21 |
 | Penny pincher | 0.50% | ~21 |
-| The wood shortage | 0.50% | ~21 |
 | I've been everywhere IV | 0.40% | ~17 |
 | Little place in the country | 0.40% | ~17 |
 | Made my choice | 0.40% | ~17 |

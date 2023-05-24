@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1349,
+  "EOS_Progressed": 1353,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 622,
+  "EOS_NewPlayers": 625,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1275,6 +1275,11 @@
       "Time": "2023-05-24T18:05:12.7442732+00:00",
       "NumProgressed": 1349,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-24T20:06:21.0636097+00:00",
+      "NumProgressed": 1353,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1286,7 +1291,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -1294,7 +1299,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -1308,9 +1313,9 @@
       "ID": "REWARD_13_OPTIONAL_TASK",
       "SetID": "bm6el81",
       "Name": "No Stone Unturned",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -1332,9 +1337,9 @@
       "ID": "REWARD_16_FIELDS_OF_GLORY",
       "SetID": "bm6el81",
       "Name": "Fields of Glory",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 27
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -1342,7 +1347,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -1350,7 +1355,7 @@
       "Name": "Organ Grinder",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -1414,7 +1419,7 @@
       "Name": "Skirmisher",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -1438,15 +1443,15 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
       "SetID": "bm6el81",
       "Name": "Precision Is Key",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 27
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -1454,7 +1459,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1470,7 +1475,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -1486,7 +1491,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -1510,15 +1515,15 @@
       "Name": "Resourceful",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "REWARD_38_DER_GEIST",
       "SetID": "bm6el81",
       "Name": "Der Geist",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 27
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -1526,7 +1531,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -1644,9 +1649,9 @@
       "ID": "REWARD_67_NO_ASSISTANCE",
       "SetID": "bm6el81",
       "Name": "Don\u0027t hold your breath",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "REWARD_6_BIG_GAME_HUNTER",
@@ -1654,7 +1659,7 @@
       "Name": "Taking it back",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -1758,7 +1763,7 @@
       "Name": "Operation Foxley",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -1772,9 +1777,9 @@
       "ID": "REWARD_DLC01_09_LAST_RESORT",
       "SetID": "83mdf7p",
       "Name": "Last Resort",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -1853,13 +1858,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1300,
+      "Progressed": 1304,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1349,
+      "Progressed": 1353,
       "Completed": 2
     }
   ],
@@ -1867,8 +1872,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-24T14:00:16.736359+00:00",
-  "LastChanged_Achievements": "2023-05-24T19:05:49.2645001+00:00",
+  "LastChanged_Achievements": "2023-05-24T20:06:21.063609+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-24T19:00:37.7001985+00:00",
-  "LastUpdate_Achievements": "2023-05-24T19:05:49.2645788+00:00"
+  "LastUpdate_Ratings": "2023-05-24T20:01:08.5443853+00:00",
+  "LastUpdate_Achievements": "2023-05-24T20:06:21.0637062+00:00"
 }

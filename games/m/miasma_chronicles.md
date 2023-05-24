@@ -4,42 +4,42 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 87.00% | ~244 |
-| Ranidaphobia | 53.00% | ~148 |
-| Aspiring Editor | 44.00% | ~123 |
-| Gun for Hire | 37.00% | ~104 |
-| I am the law! | 18.00% | ~50 |
-| Firestarter | 5.00% | ~14 |
-| Lumberjack | 5.00% | ~14 |
-| Croaked | 4.00% | ~11 |
-| Limp Richard | 4.00% | ~11 |
-| Newtonian Knockout | 3.00% | ~8 |
+| First Blood | 87.00% | ~249 |
+| Ranidaphobia | 53.00% | ~152 |
+| Aspiring Editor | 47.00% | ~134 |
+| Gun for Hire | 39.00% | ~112 |
+| I am the law! | 19.00% | ~54 |
+| Firestarter | 6.00% | ~17 |
+| Lumberjack | 6.00% | ~17 |
+| Limp Richard | 5.00% | ~14 |
+| Croaked | 3.00% | ~9 |
+| Newtonian Knockout | 3.00% | ~9 |
+| Editor Adept | 2.00% | ~6 |
 | Exorcist | 2.00% | ~6 |
 | From Darkness to Light | 2.00% | ~6 |
 | Giant Killer | 2.00% | ~6 |
 | Hold The Line | 2.00% | ~6 |
 | Commando | 1.00% | ~3 |
-| Editor Adept | 1.00% | ~3 |
 | Recycler | 1.00% | ~3 |
+| Sensei | 1.00% | ~3 |
 | The meaning of Kain | 1.00% | ~3 |
 | Chain Killer | 0.70% | ~2 |
 | Curveball | 0.70% | ~2 |
-| Sensei | 0.70% | ~2 |
 | Technophobe | 0.70% | ~2 |
 | There Can Be Only One! | 0.70% | ~2 |
-| Are you not entertained? | 0.40% | ~1 |
-| Chain Reaction | 0.40% | ~1 |
-| Ganglord | 0.40% | ~1 |
-| Jarhead | 0.40% | ~1 |
-| Dr Jones | 0.40% | ~1 |
-| Endgame | 0.40% | ~1 |
-| Experienced | 0.40% | ~1 |
-| Infiltrator | 0.40% | ~1 |
-| Pushing Daisy | 0.40% | ~1 |
-| Ruthless | 0.40% | ~1 |
-| Savior | 0.40% | ~1 |
-| Side Order | 0.40% | ~1 |
-| The Watchers | 0.40% | ~1 |
+| Are you not entertained? | 0.30% | ~1 |
+| Chain Reaction | 0.30% | ~1 |
+| Ganglord | 0.30% | ~1 |
+| Jarhead | 0.30% | ~1 |
+| Dr Jones | 0.30% | ~1 |
+| Endgame | 0.30% | ~1 |
+| Experienced | 0.30% | ~1 |
+| Infiltrator | 0.30% | ~1 |
+| Pushing Daisy | 0.30% | ~1 |
+| Ruthless | 0.30% | ~1 |
+| Savior | 0.30% | ~1 |
+| Side Order | 0.30% | ~1 |
+| The Watchers | 0.30% | ~1 |
 | Alpha Editor | 0.00% | ~0 |
 | Attenborough | 0.00% | ~0 |
 | Bookworm | 0.00% | ~0 |
@@ -56,10 +56,10 @@
 | Silent but Violent | 0.00% | ~0 |
 | Wipe Out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 280 (Ranked 218)  
+Progressed: 286 (Ranked 216)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-23 | 151 | 0 |
-| 2023-05-24 | 280 | 0 |
+| 2023-05-24 | 286 | 0 |

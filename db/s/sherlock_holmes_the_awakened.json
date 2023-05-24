@@ -568,9 +568,9 @@
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 40,
-      "UsersEstimate": 128
+      "UsersEstimate": 130
     },
     {
       "ID": "MQ03_1",
@@ -584,9 +584,9 @@
       "ID": "MQ03_2",
       "SetID": "bbing49",
       "Name": "Lock, Stock, And Barrel",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 99
     },
     {
       "ID": "MQ03_3",
@@ -728,9 +728,9 @@
       "ID": "MQ08_2",
       "SetID": "bbing49",
       "Name": "Up In Flames",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "MQ08_3",
@@ -761,8 +761,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-24T19:02:29.171969+00:00",
+  "LastChanged_Achievements": "2023-05-24T20:03:30.6711088+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.473335+00:00",
-  "LastUpdate_Ratings": "2023-05-24T18:57:11.3338933+00:00",
-  "LastUpdate_Achievements": "2023-05-24T19:02:29.1720073+00:00"
+  "LastUpdate_Ratings": "2023-05-24T19:57:35.9942454+00:00",
+  "LastUpdate_Achievements": "2023-05-24T20:03:30.6711307+00:00"
 }

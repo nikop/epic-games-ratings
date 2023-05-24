@@ -384,9 +384,9 @@
       "ID": "PRG_BOSS_NINJA",
       "SetID": "89cjc9l",
       "Name": "The Ninja",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "PRG_BOSS_OOZE",
@@ -753,8 +753,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-05-24T19:06:14.4421385+00:00",
+  "LastChanged_Achievements": "2023-05-24T20:06:46.0164665+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:01.3689294+00:00",
-  "LastUpdate_Ratings": "2023-05-24T18:57:25.0683115+00:00",
-  "LastUpdate_Achievements": "2023-05-24T19:06:14.4422167+00:00"
+  "LastUpdate_Ratings": "2023-05-24T19:57:50.3964086+00:00",
+  "LastUpdate_Achievements": "2023-05-24T20:06:46.0165512+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "no-longer-home",
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-07-30T12:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:13.5829267+00:00",
   "LastChanged": "2023-03-31T05:57:13.5829268+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:23.1699769+00:00",
-  "LastUpdate_Ratings": "2023-05-24T19:00:24.666077+00:00",
-  "LastUpdate_Achievements": "2023-05-24T19:05:16.389816+00:00"
+  "LastUpdate_Ratings": "2023-05-24T20:00:55.9750273+00:00",
+  "LastUpdate_Achievements": "2023-05-24T20:05:47.7756002+00:00"
 }

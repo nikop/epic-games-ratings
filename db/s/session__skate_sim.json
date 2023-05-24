@@ -5,9 +5,9 @@
   "Ranking_Rating": 271,
   "Ranking_Popularity": 393,
   "Ranking_PopularitySum": 300,
-  "Ranking_EOS_Progress": 145,
+  "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 132,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-02-17T09:00:00+00:00",
@@ -652,9 +652,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2061,
+  "EOS_Progressed": 2063,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1287,6 +1287,11 @@
       "Time": "2023-05-24T19:05:45.6193653+00:00",
       "NumProgressed": 2061,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T20:06:17.3112689+00:00",
+      "NumProgressed": 2063,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1298,7 +1303,7 @@
       "Name": "Backpacker",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ACH_BING-BONG",
@@ -1322,7 +1327,7 @@
       "Name": "Commence the Hijinx!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_COPS-CALLED",
@@ -1330,7 +1335,7 @@
       "Name": "Cops called!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_CROSS-LOCK-COUNTRY",
@@ -1354,7 +1359,7 @@
       "Name": "DIY Boss",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_FASHIONISTA",
@@ -1402,7 +1407,7 @@
       "Name": "Go with the Flow",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "ACH_GOAT-STATUS",
@@ -1450,7 +1455,7 @@
       "Name": "Keeping it classy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "ACH_LAID-BACK",
@@ -1458,7 +1463,7 @@
       "Name": "Laid back",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_LINES-FOR-DAYS",
@@ -1466,7 +1471,7 @@
       "Name": "Lines for days",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_LOVES-YOU-BACK",
@@ -1482,7 +1487,7 @@
       "Name": "Manny Destroys All",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_MANY-PLYS-LATER",
@@ -1514,7 +1519,7 @@
       "Name": "Plastic Surgeon",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_PRINCE-OF-PHILLY",
@@ -1522,7 +1527,7 @@
       "Name": "Prince of Philly",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_PURPLE-PASSION",
@@ -1538,15 +1543,15 @@
       "Name": "Renaissance man",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_SKATEPARK-HERO",
       "SetID": "72olkc5",
       "Name": "Skatepark hero",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_SQUAD-GOALS",
@@ -1570,7 +1575,7 @@
       "Name": "Tank commander",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_THAT-PINCH",
@@ -1602,7 +1607,7 @@
       "Name": "The finer things in life",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "ACH_THE-FLIP-TRICK-CROWN-JEWEL",
@@ -1610,7 +1615,7 @@
       "Name": "The flip trick crown jewel",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_THE-HARD-WAY",
@@ -1634,7 +1639,7 @@
       "Name": "Trick shot marksman",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ACH_ULTIMATE-SKATE-NERD",
@@ -1674,22 +1679,22 @@
       "Name": "You\u0027re free now!",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1052
     }
   ],
   "AchievementSets": [
     {
       "ID": "72olkc5",
       "IsBase": true,
-      "Progressed": 2061,
+      "Progressed": 2063,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-05-19T07:58:43.4333069+00:00",
-  "LastChanged_Achievements": "2023-05-24T19:05:45.6193648+00:00",
+  "LastChanged_Achievements": "2023-05-24T20:06:17.3112682+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:21.8061522+00:00",
-  "LastUpdate_Ratings": "2023-05-24T18:59:06.0930646+00:00",
-  "LastUpdate_Achievements": "2023-05-24T19:05:45.6194146+00:00"
+  "LastUpdate_Ratings": "2023-05-24T19:59:33.9219858+00:00",
+  "LastUpdate_Achievements": "2023-05-24T20:06:17.3113219+00:00"
 }

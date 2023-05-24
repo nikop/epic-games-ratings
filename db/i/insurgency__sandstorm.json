@@ -1973,10 +1973,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 2668,
       "NumberOfAwardsMax": 351
+    },
+    {
+      "Time": "2023-05-24T19:58:11.1378063+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 2669,
+      "NumberOfAwardsMax": 351
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2668,
+  "NumberOfAwards": 2669,
   "NumberOfAwardsMax": 351,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -2008,7 +2014,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 319
+      "Count": 320
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2047,9 +2053,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 373394,
+  "EOS_Progressed": 373422,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3690,
+  "EOS_NewPlayers": 3686,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5442,6 +5448,11 @@
       "Time": "2023-05-24T19:03:15.207622+00:00",
       "NumProgressed": 373394,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-24T20:03:46.409822+00:00",
+      "NumProgressed": 373422,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -5477,7 +5488,7 @@
       "Name": "Checkpoint Victory",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 11202
+      "UsersEstimate": 11203
     },
     {
       "ID": "ACH_CINEMATIC",
@@ -5509,7 +5520,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14936
+      "UsersEstimate": 14937
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -5517,7 +5528,7 @@
       "Name": "Firefight Victory",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 2240
+      "UsersEstimate": 2241
     },
     {
       "ID": "ACH_FIRST_BLOOD",
@@ -5557,7 +5568,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14936
+      "UsersEstimate": 14937
     },
     {
       "ID": "ACH_JR_50",
@@ -5581,7 +5592,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 11202
+      "UsersEstimate": 11203
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -5621,7 +5632,7 @@
       "Name": "Point Shooting",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 18670
+      "UsersEstimate": 18671
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -5685,7 +5696,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 11202
+      "UsersEstimate": 11203
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -5709,7 +5720,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 11202
+      "UsersEstimate": 11203
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -5717,7 +5728,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 18670
+      "UsersEstimate": 18671
     },
     {
       "ID": "ACH_WET_FEET",
@@ -5725,22 +5736,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14936
+      "UsersEstimate": 14937
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 373394,
+      "Progressed": 373422,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2023-05-22T21:57:29.2139731+00:00",
-  "LastChanged_Achievements": "2023-05-24T19:03:15.2076213+00:00",
+  "LastChanged": "2023-05-24T19:58:11.1378061+00:00",
+  "LastChanged_Achievements": "2023-05-24T20:03:46.4098213+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:23.1688337+00:00",
-  "LastUpdate_Ratings": "2023-05-24T18:57:45.7102388+00:00",
-  "LastUpdate_Achievements": "2023-05-24T19:03:15.207695+00:00"
+  "LastUpdate_Ratings": "2023-05-24T19:58:11.1378069+00:00",
+  "LastUpdate_Achievements": "2023-05-24T20:03:46.4098811+00:00"
 }

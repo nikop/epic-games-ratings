@@ -29,6 +29,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.20% | ~177 |
 | The Crumbling Temple | 0.20% | ~177 |
 | Seeking Allies | 0.20% | ~177 |
+| Useless Allies | 0.20% | ~177 |
 | Mad Cow Disease | 0.20% | ~177 |
 | Exploring Port Nyanzaru | 0.20% | ~177 |
 | The Contagious Curse | 0.20% | ~177 |
@@ -250,7 +251,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Shadowfell Stalwarts | 0.10% | ~55 |
 | Nimble Escape | 0.10% | ~89 |
 | Nimblest Escape | 0.10% | ~89 |
-| Useless Allies | 0.10% | ~89 |
 | Stumbling Escape | 0.10% | ~89 |
 | Distracted Escape | 0.10% | ~55 |
 | Fugitives | 0.10% | ~89 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.10% | ~89 |
 | Rescue in the Jungle | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,513 (Ranked 60)  
-Completed: 1,873 (2.12%) (Ranked 62)  
+Progressed: 88,520 (Ranked 60)  
+Completed: 1,874 (2.12%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -534,14 +534,14 @@ Completed: 1,873 (2.12%) (Ranked 62)
 | 2023-05-21 | 88,251 | 1,860 |
 | 2023-05-22 | 88,337 | 1,863 |
 | 2023-05-23 | 88,435 | 1,872 |
-| 2023-05-24 | 88,513 | 1,873 |
+| 2023-05-24 | 88,520 | 1,874 |
 ## Awards
-Max (Diverse Characters): 4,898  (Ranked 64)  
-Sum: 29,960 (Ranked 37)  
+Max (Diverse Characters): 4,902  (Ranked 64)  
+Sum: 29,964 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 4,898 |
+| This game has Diverse Characters | 4,902 |
 | This game is Great for Beginners | 4,839 |
 | This game has Quickly Understood Controls | 4,600 |
 | This game is Relaxing | 4,496 |
@@ -669,4 +669,4 @@ Diff (max vs sum): 27
 | 2023-05-21 | 4.06 | - | 4,892 | 29,941 |
 | 2023-05-22 | 4.06 | - | 4,896 | 29,950 |
 | 2023-05-23 | 4.06 | - | 4,898 | 29,959 |
-| 2023-05-24 | 4.06 | - | 4,898 | 29,960 |
+| 2023-05-24 | 4.06 | - | 4,902 | 29,964 |

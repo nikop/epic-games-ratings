@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -796,9 +796,9 @@
       "ID": "achChest",
       "SetID": "72gjli4",
       "Name": "Chest \u2714",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 98
+      "UsersEstimate": 100
     },
     {
       "ID": "achCity",
@@ -1141,8 +1141,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-24T19:06:19.4993154+00:00",
+  "LastChanged_Achievements": "2023-05-24T20:06:50.854898+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:11.586606+00:00",
-  "LastUpdate_Ratings": "2023-05-24T19:00:21.7597514+00:00",
-  "LastUpdate_Achievements": "2023-05-24T19:06:19.499364+00:00"
+  "LastUpdate_Ratings": "2023-05-24T20:00:51.3164633+00:00",
+  "LastUpdate_Achievements": "2023-05-24T20:06:50.8549562+00:00"
 }

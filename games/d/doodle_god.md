@@ -9,7 +9,7 @@
 | Creator of Life | 82.00% | ~168 |
 | Creator of Diversity | 70.00% | ~144 |
 | Similar to Similar | 68.00% | ~139 |
-| Creator of Humanity | 62.00% | ~127 |
+| Creator of Humanity | 63.00% | ~129 |
 | Creator of Civilization | 36.00% | ~74 |
 | Honorable Santa | 24.00% | ~49 |
 | Creator of Technology | 23.00% | ~47 |

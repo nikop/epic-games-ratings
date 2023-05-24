@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dash Crash | 70.00% | ~196 |
+| Dash Crash | 71.00% | ~199 |
 | Be water, my friend | 66.00% | ~185 |
 | Snake Eyes | 60.00% | ~168 |
-| Fireball | 54.00% | ~151 |
+| Fireball | 55.00% | ~154 |
 | The King of Flat | 48.00% | ~134 |
 | Air Slash | 40.00% | ~112 |
 | Hit That Ball | 38.00% | ~106 |
@@ -49,7 +49,7 @@
 | Warrior Trials | 0.00% | ~0 |
 | Colorful | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 280 (Ranked 218)  
+Progressed: 280 (Ranked 219)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |

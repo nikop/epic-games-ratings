@@ -7,18 +7,18 @@
 | A path of no return | 102.00% | ~45 |
 | A bottomless pit | 84.00% | ~37 |
 | Pigeon | 82.00% | ~36 |
-| Baited | 66.00% | ~29 |
+| Baited | 68.00% | ~30 |
 | Splash! | 59.00% | ~26 |
-| "Swoosh" | 55.00% | ~24 |
-| The light at the end of the tunnel | 55.00% | ~24 |
-| Masochistic | 48.00% | ~21 |
-| Soft skin | 43.00% | ~19 |
+| "Swoosh" | 57.00% | ~25 |
+| The light at the end of the tunnel | 57.00% | ~25 |
+| Masochistic | 50.00% | ~22 |
+| Soft skin | 45.00% | ~20 |
 | Sensitive soul | 34.00% | ~15 |
-| Squid game | 30.00% | ~13 |
+| Squid game | 32.00% | ~14 |
 | Rock Solid | 27.00% | ~12 |
+| The beast within | 27.00% | ~12 |
 | It's getting dark | 27.00% | ~12 |
 | Hard Rock | 27.00% | ~12 |
-| The beast within | 25.00% | ~11 |
 | Rooftop | 25.00% | ~11 |
 | Homeless | 25.00% | ~11 |
 | Big badaboom! | 23.00% | ~10 |
@@ -32,7 +32,7 @@
 | MayDay! MayDay! | 14.00% | ~6 |
 | GG EZ | 7.00% | ~3 |
 | Comeback | 7.00% | ~3 |
-| Gooooooaaaaal!!! | 5.00% | ~2 |
+| Gooooooaaaaal!!! | 7.00% | ~3 |
 | Abyssal God | 0.00% | ~0 |
 | What do you want? | 0.00% | ~0 |
 | Sadistic | 0.00% | ~0 |

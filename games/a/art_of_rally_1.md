@@ -6,24 +6,24 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,625 |
-| keep it tidy | 77.00% | ~7,720 |
+| light attack | 96.00% | ~9,626 |
+| keep it tidy | 77.00% | ~7,721 |
 | podium | 72.00% | ~7,219 |
-| medium attack | 59.00% | ~5,915 |
+| medium attack | 59.00% | ~5,916 |
 | brail | 56.00% | ~5,615 |
-| grocery-getter | 39.00% | ~3,910 |
-| good drivers have dead flies on the side windows | 39.00% | ~3,910 |
+| grocery-getter | 39.00% | ~3,911 |
+| good drivers have dead flies on the side windows | 39.00% | ~3,911 |
 | rwd only | 26.00% | ~2,607 |
 | food tour: pasta | 26.00% | ~2,607 |
-| to finish first, first you must finish | 21.00% | ~2,105 |
-| you can't treat a car like a human being. a car requires love | 21.00% | ~2,105 |
+| to finish first, first you must finish | 21.00% | ~2,106 |
+| you can't treat a car like a human being. a car requires love | 21.00% | ~2,106 |
 | autopilot | 20.00% | ~2,005 |
 | turbo | 20.00% | ~2,005 |
 | food tour: pretzel | 19.00% | ~1,905 |
 | bicycle race | 15.00% | ~1,504 |
 | monster | 14.00% | ~1,404 |
-| car wash | 13.00% | ~1,303 |
-| perkele | 13.00% | ~1,303 |
+| car wash | 13.00% | ~1,304 |
+| perkele | 13.00% | ~1,304 |
 | night ride | 12.00% | ~1,203 |
 | the artist | 12.00% | ~1,203 |
 | snorkel | 12.00% | ~1,203 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~40 |
 | barely keeping it together | 0.30% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,026 (Ranked 107)  
+Progressed: 10,027 (Ranked 107)  
 Completed: 9 (0.09%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,7 +78,7 @@ Completed: 9 (0.09%) (Ranked 163)
 | 2023-05-20 | 10,012 | 9 |
 | 2023-05-21 | 10,021 | 9 |
 | 2023-05-23 | 10,023 | 9 |
-| 2023-05-24 | 10,026 | 9 |
+| 2023-05-24 | 10,027 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

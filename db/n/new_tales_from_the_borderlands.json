@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -162,9 +162,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3403,
+  "EOS_Progressed": 3404,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -392,6 +392,11 @@
       "Time": "2023-05-24T17:05:37.7850452+00:00",
       "NumProgressed": 3403,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T20:06:34.7200309+00:00",
+      "NumProgressed": 3404,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -435,7 +440,7 @@
       "Name": "Totally Intentional",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1464
     },
     {
       "ID": "FIND_FIRST_VAULTLANDER",
@@ -523,7 +528,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 1633
+      "UsersEstimate": 1634
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -579,7 +584,7 @@
       "Name": "And Still Champion...",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "WIN_FIRST_VAULTLANDER_BATTLE",
@@ -610,7 +615,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3403,
+      "Progressed": 3404,
       "Completed": 0
     }
   ],
@@ -618,8 +623,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-11T21:59:43.2932555+00:00",
-  "LastChanged_Achievements": "2023-05-24T19:06:03.2837273+00:00",
+  "LastChanged_Achievements": "2023-05-24T20:06:34.7200301+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:00.613564+00:00",
-  "LastUpdate_Ratings": "2023-05-24T18:59:32.6602256+00:00",
-  "LastUpdate_Achievements": "2023-05-24T19:06:03.283759+00:00"
+  "LastUpdate_Ratings": "2023-05-24T20:00:03.7540145+00:00",
+  "LastUpdate_Achievements": "2023-05-24T20:06:34.7200502+00:00"
 }

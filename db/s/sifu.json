@@ -2,7 +2,7 @@
   "ID": "b7b42e2078524ab386a8b2a9856ef557",
   "Name": "Sifu",
   "ProductSlug": "sifu",
-  "Ranking_Rating": 62,
+  "Ranking_Rating": 61,
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 77,
   "Ranking_EOS_Progress": 15,
@@ -4200,9 +4200,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 705035,
+  "EOS_Progressed": 705037,
   "EOS_Completed": 12734,
-  "EOS_NewPlayers": 2027,
+  "EOS_NewPlayers": 2029,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -7040,6 +7040,11 @@
       "Time": "2023-05-24T19:06:09.1770214+00:00",
       "NumProgressed": 705035,
       "NumCompleted": 12734
+    },
+    {
+      "Time": "2023-05-24T20:06:40.6469559+00:00",
+      "NumProgressed": 705037,
+      "NumCompleted": 12734
     }
   ],
   "TotalAchievements": 50,
@@ -7249,9 +7254,9 @@
       "ID": "26_ShrineSpirit",
       "SetID": "adcm20g",
       "Name": "Qi Gong: Breath",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6345
+      "UsersEstimate": 7050
     },
     {
       "ID": "27_ShrineBody",
@@ -7395,7 +7400,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -7450,21 +7455,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 14336,
-      "Completed": 10160
+      "Progressed": 14338,
+      "Completed": 10161
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 705035,
+      "Progressed": 705037,
       "Completed": 12734
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-24T13:59:00.3612885+00:00",
-  "LastChanged_Achievements": "2023-05-24T19:06:09.1770204+00:00",
+  "LastChanged_Achievements": "2023-05-24T20:06:40.6469552+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.7579865+00:00",
-  "LastUpdate_Ratings": "2023-05-24T18:59:02.0568967+00:00",
-  "LastUpdate_Achievements": "2023-05-24T19:06:09.1771276+00:00"
+  "LastUpdate_Ratings": "2023-05-24T19:59:29.4344138+00:00",
+  "LastUpdate_Achievements": "2023-05-24T20:06:40.6470276+00:00"
 }

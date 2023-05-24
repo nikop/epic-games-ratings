@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 934,
+  "EOS_Progressed": 935,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -690,6 +690,11 @@
       "Time": "2023-05-24T17:05:41.2132925+00:00",
       "NumProgressed": 934,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-24T20:06:38.8463471+00:00",
+      "NumProgressed": 935,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -749,7 +754,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "Defense_Common",
@@ -933,22 +938,22 @@
       "Name": "Your Answer",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     }
   ],
   "AchievementSets": [
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 934,
+      "Progressed": 935,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-05-24T19:06:07.3661496+00:00",
+  "LastChanged_Achievements": "2023-05-24T20:06:38.8463464+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:35.4826245+00:00",
-  "LastUpdate_Ratings": "2023-05-24T18:59:18.1179399+00:00",
-  "LastUpdate_Achievements": "2023-05-24T19:06:07.3661757+00:00"
+  "LastUpdate_Ratings": "2023-05-24T19:59:48.3248883+00:00",
+  "LastUpdate_Achievements": "2023-05-24T20:06:38.8463741+00:00"
 }

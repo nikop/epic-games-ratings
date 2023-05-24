@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1402,
+  "EOS_Progressed": 1403,
   "EOS_Completed": 110,
   "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 7.85,
+  "EOS_Completed_Percentage": 7.84,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -1628,6 +1628,11 @@
       "Time": "2023-05-24T19:05:57.3454374+00:00",
       "NumProgressed": 1402,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-05-24T20:06:28.9515285+00:00",
+      "NumProgressed": 1403,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 12,
@@ -1655,7 +1660,7 @@
       "Name": "Building the Fox",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "Green Ticket Roundup",
@@ -1663,7 +1668,7 @@
       "Name": "Green Ticket Roundup",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "Jacques a Dit",
@@ -1719,7 +1724,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "Nuremberg Laws",
@@ -1734,7 +1739,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1402,
+      "Progressed": 1403,
       "Completed": 110
     }
   ],
@@ -1742,8 +1747,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-24T19:05:57.3454366+00:00",
+  "LastChanged_Achievements": "2023-05-24T20:06:28.9515279+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:11.427731+00:00",
-  "LastUpdate_Ratings": "2023-05-24T18:59:37.8659622+00:00",
-  "LastUpdate_Achievements": "2023-05-24T19:05:57.3454725+00:00"
+  "LastUpdate_Ratings": "2023-05-24T20:00:09.6289649+00:00",
+  "LastUpdate_Achievements": "2023-05-24T20:06:28.95155+00:00"
 }

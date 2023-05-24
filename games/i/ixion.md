@@ -29,10 +29,10 @@ Rating: 4.55 (Ranked 466)
 | Necessary Enhancement | 1.00% | ~21 |
 | Convenient Transport | 1.00% | ~21 |
 | From the Past | 1.00% | ~21 |
+| Oats | 0.80% | ~17 |
 | In Dolos We Trust | 0.80% | ~17 |
 | BRAWL! | 0.80% | ~17 |
 | All in Good Health | 0.80% | ~17 |
-| Oats | 0.70% | ~15 |
 | Pulsar Disciple | 0.70% | ~15 |
 | What They Hide From Us | 0.60% | ~13 |
 | ...  in a finite world | 0.60% | ~13 |
