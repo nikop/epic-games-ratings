@@ -4,68 +4,68 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 93.00% | ~67 |
-| Bullseye! | 88.00% | ~63 |
-| Villfir Forest | 82.00% | ~59 |
-| Graduation! | 79.00% | ~57 |
-| Right in the kisser! | 65.00% | ~47 |
-| The Shaman | 56.00% | ~40 |
-| Duscot Steamcity | 56.00% | ~40 |
-| The Penguin | 51.00% | ~37 |
-| The Magician | 49.00% | ~35 |
-| The Thrower | 46.00% | ~33 |
-| The Tunneler | 44.00% | ~32 |
-| Level Up!! | 40.00% | ~29 |
-| The Shield | 40.00% | ~29 |
-| Kill-streak | 38.00% | ~27 |
-| The Bird | 32.00% | ~23 |
-| The Idol | 29.00% | ~21 |
-| Inferno Ruins | 29.00% | ~21 |
-| Topped up | 28.00% | ~20 |
-| The Ninja | 26.00% | ~19 |
-| I'm Rich | 25.00% | ~18 |
-| Untouchable | 24.00% | ~17 |
-| 1 is all I need | 21.00% | ~15 |
-| The Giant | 21.00% | ~15 |
-| The Slime | 21.00% | ~15 |
-| The Flower | 18.00% | ~13 |
-| Out of the Frying Pan... | 18.00% | ~13 |
-| The Blacksmith | 17.00% | ~12 |
-| Ember | 14.00% | ~10 |
-| Turquoise | 14.00% | ~10 |
-| The Assistant | 13.00% | ~9 |
-| The Ooze | 13.00% | ~9 |
-| The Droid | 11.00% | ~8 |
-| The Steampunk | 10.00% | ~7 |
-| Verse | 10.00% | ~7 |
+| Level Up! | 93.00% | ~68 |
+| Bullseye! | 88.00% | ~64 |
+| Villfir Forest | 82.00% | ~60 |
+| Graduation! | 79.00% | ~58 |
+| Right in the kisser! | 66.00% | ~48 |
+| The Shaman | 56.00% | ~41 |
+| Duscot Steamcity | 56.00% | ~41 |
+| The Penguin | 52.00% | ~38 |
+| The Magician | 49.00% | ~36 |
+| The Thrower | 47.00% | ~34 |
+| The Tunneler | 45.00% | ~33 |
+| Level Up!! | 41.00% | ~30 |
+| The Shield | 41.00% | ~30 |
+| Kill-streak | 38.00% | ~28 |
+| The Bird | 33.00% | ~24 |
+| The Idol | 30.00% | ~22 |
+| Inferno Ruins | 30.00% | ~22 |
+| Topped up | 29.00% | ~21 |
+| The Ninja | 27.00% | ~20 |
+| I'm Rich | 26.00% | ~19 |
+| Untouchable | 25.00% | ~18 |
+| 1 is all I need | 22.00% | ~16 |
+| The Giant | 22.00% | ~16 |
+| The Slime | 22.00% | ~16 |
+| The Flower | 19.00% | ~14 |
+| Out of the Frying Pan... | 19.00% | ~14 |
+| The Blacksmith | 18.00% | ~13 |
+| Ember | 15.00% | ~11 |
+| Turquoise | 15.00% | ~11 |
+| The Assistant | 14.00% | ~10 |
+| The Ooze | 14.00% | ~10 |
+| The Droid | 12.00% | ~9 |
+| The Steampunk | 11.00% | ~8 |
+| Verse | 11.00% | ~8 |
+| The Bomber | 10.00% | ~7 |
 | Iron | 10.00% | ~7 |
 | Tested | 10.00% | ~7 |
-| The Bomber | 8.00% | ~6 |
+| The Astronaut | 5.00% | ~4 |
 | Power Overwhelming | 4.00% | ~3 |
-| The Astronaut | 4.00% | ~3 |
+| The Exorcist | 4.00% | ~3 |
+| Analyzed | 4.00% | ~3 |
+| Highway to Hell | 4.00% | ~3 |
+| Aluminum | 4.00% | ~3 |
 | Anvil | 4.00% | ~3 |
-| The Exorcist | 3.00% | ~2 |
-| Analyzed | 3.00% | ~2 |
-| Highway to Hell | 3.00% | ~2 |
-| Aluminum | 3.00% | ~2 |
+| Mithril | 3.00% | ~2 |
 | Combo Master | 1.00% | ~1 |
 | Really Bad Luck | 1.00% | ~1 |
 | It's a Trap! | 1.00% | ~1 |
 | Blaze | 1.00% | ~1 |
 | Topaz | 1.00% | ~1 |
 | Chorus | 1.00% | ~1 |
-| Mithril | 1.00% | ~1 |
+| TNT | 1.00% | ~1 |
+| Immortality | 1.00% | ~1 |
 | Tongs | 1.00% | ~1 |
+| Rocket | 1.00% | ~1 |
 | Nuclear Bomb | 1.00% | ~1 |
 | Concluded | 1.00% | ~1 |
 | Divinity | 1.00% | ~1 |
 | Platinum | 1.00% | ~1 |
 | Gunpowder | 1.00% | ~1 |
 | Divinity | 0.00% | ~0 |
-| TNT | 0.00% | ~0 |
-| Immortality | 0.00% | ~0 |
 | Titanium | 0.00% | ~0 |
-| Rocket | 0.00% | ~0 |
 | Zombie Hunter | 0.00% | ~0 |
 | Inferno | 0.00% | ~0 |
 | Sapphire | 0.00% | ~0 |
@@ -78,7 +78,7 @@
 | Satellite | 0.00% | ~0 |
 | Zombie Slayer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 72 (Ranked 278)  
+Progressed: 73 (Ranked 276)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,6 +96,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-20 | 66 | 0 |
 | 2023-05-21 | 70 | 0 |
 | 2023-05-23 | 72 | 0 |
+| 2023-05-24 | 73 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

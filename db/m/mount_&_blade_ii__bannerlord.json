@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewPlayers": 69,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -4251,9 +4251,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 50770,
+  "EOS_Progressed": 50771,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 725,
+  "EOS_NewPlayers": 723,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7426,6 +7426,11 @@
       "Time": "2023-05-24T04:05:40.2291523+00:00",
       "NumProgressed": 50770,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T05:06:46.826174+00:00",
+      "NumProgressed": 50771,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -7565,7 +7570,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6092
+      "UsersEstimate": 6093
     },
     {
       "ID": "Great Granny",
@@ -7645,7 +7650,7 @@
       "Name": "Know your enemy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2538
+      "UsersEstimate": 2539
     },
     {
       "ID": "Lance-a-lot",
@@ -7844,15 +7849,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 50770,
+      "Progressed": 50771,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-05-24T03:59:16.027142+00:00",
-  "LastChanged_Achievements": "2023-05-24T04:05:40.2291513+00:00",
+  "LastChanged_Achievements": "2023-05-24T05:06:46.8261734+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:05:00.2672545+00:00",
-  "LastUpdate_Ratings": "2023-05-24T03:59:16.0271426+00:00",
-  "LastUpdate_Achievements": "2023-05-24T04:05:40.2292201+00:00"
+  "LastUpdate_Ratings": "2023-05-24T04:59:53.6861819+00:00",
+  "LastUpdate_Achievements": "2023-05-24T05:06:46.8262614+00:00"
 }

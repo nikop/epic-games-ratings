@@ -18,13 +18,13 @@ Rating: 4.65 (Ranked 291)
 | A view to Win | 28.00% | ~1,704 |
 | Smells Like Trouble | 26.00% | ~1,583 |
 | Assistant Accountant | 25.00% | ~1,522 |
+| The Living Portrait | 25.00% | ~1,522 |
 | Private Collection | 25.00% | ~1,522 |
 | Killer Looks | 25.00% | ~1,522 |
 | Hostile Takeover | 25.00% | ~1,522 |
 | Keycards Royale | 24.00% | ~1,461 |
 | In It to Win It | 24.00% | ~1,461 |
 | Dr. No Kill | 24.00% | ~1,461 |
-| The Living Portrait | 24.00% | ~1,461 |
 | My Motto, My Creed | 24.00% | ~1,461 |
 | Security Supervisor | 10.00% | ~609 |
 | License to Thrill | 8.00% | ~487 |

@@ -6,23 +6,23 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 54.00% | ~3,137 |
-| Tutti Eroi! | 53.00% | ~3,079 |
-| You Shall Not Pass | 52.00% | ~3,021 |
-| Avanti Savoia! | 46.00% | ~2,672 |
-| Conrad von Hotzensocks | 35.00% | ~2,033 |
-| Mamma Mia! | 35.00% | ~2,033 |
-| Gabriele D'Annunzio | 32.00% | ~1,859 |
+| Peak Performance | 54.00% | ~3,138 |
+| Tutti Eroi! | 53.00% | ~3,080 |
+| You Shall Not Pass | 52.00% | ~3,022 |
+| Avanti Savoia! | 46.00% | ~2,673 |
+| Conrad von Hotzensocks | 35.00% | ~2,034 |
+| Mamma Mia! | 35.00% | ~2,034 |
+| Gabriele D'Annunzio | 32.00% | ~1,860 |
 | Silver Lining | 28.00% | ~1,627 |
 | Aurelio Baruzzi | 22.00% | ~1,278 |
 | Veni Vidi Vici | 21.00% | ~1,220 |
 | Decimation | 20.00% | ~1,162 |
 | Donatello | 20.00% | ~1,162 |
-| Insubordination | 19.00% | ~1,104 |
 | The Italian Job | 19.00% | ~1,104 |
+| Insubordination | 18.00% | ~1,046 |
 | The Lion of the Isonzo | 18.00% | ~1,046 |
 | Ragazzi del '99 | 17.00% | ~988 |
-| Thus With A Kiss | 15.00% | ~871 |
+| Thus With A Kiss | 15.00% | ~872 |
 | Dirty Dozen | 13.00% | ~755 |
 | Luigi Cadorna | 13.00% | ~755 |
 | Uomo Universale | 13.00% | ~755 |
@@ -37,8 +37,8 @@ Number of Ratings: 98  (23.09.2022)
 | Tosca | 8.00% | ~465 |
 | Generalissimo | 6.00% | ~349 |
 | The Enlightment | 6.00% | ~349 |
-| 12th Bottle of the Isonzo | 5.00% | ~290 |
-| Cercatore d'Oro | 5.00% | ~290 |
+| 12th Bottle of the Isonzo | 5.00% | ~291 |
+| Cercatore d'Oro | 5.00% | ~291 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~232 |
 | Ponte of No Return | 3.00% | ~174 |
 | Seeing Red | 3.00% | ~174 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~23 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,809 (Ranked 118)  
+Progressed: 5,811 (Ranked 118)  
 Completed: 8 (0.14%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 8 (0.14%) (Ranked 151)
 | 2023-05-21 | 5,764 | 8 |
 | 2023-05-22 | 5,784 | 8 |
 | 2023-05-23 | 5,807 | 8 |
-| 2023-05-24 | 5,809 | 8 |
+| 2023-05-24 | 5,811 | 8 |
 ## Awards
 Max (Highly Recommended): 30  (Ranked 445)  
 Sum: 238 (Ranked 342)  

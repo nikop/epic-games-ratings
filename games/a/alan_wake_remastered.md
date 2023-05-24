@@ -6,12 +6,12 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 21.00% | ~9,853 |
-| Let There Be Light | 17.00% | ~7,976 |
-| Float Like a Butterfly | 16.00% | ~7,507 |
+| Follow the Light | 21.00% | ~9,854 |
+| Let There Be Light | 17.00% | ~7,977 |
+| Float Like a Butterfly | 16.00% | ~7,508 |
 | Nordic Walking | 13.00% | ~6,100 |
 | Bright Falls' Finest | 13.00% | ~6,100 |
-| Under a Thin Layer of Skin | 12.00% | ~5,630 |
+| Under a Thin Layer of Skin | 12.00% | ~5,631 |
 | Park Ranger | 10.00% | ~4,692 |
 | Paging Mr. Wake | 10.00% | ~4,692 |
 | Back! Back, I Say! | 9.00% | ~4,223 |
@@ -23,22 +23,22 @@ Number of Ratings: 524  (23.09.2022)
 | Missed by a Mile | 8.00% | ~3,754 |
 | Damn Good Cup of Coffee | 8.00% | ~3,754 |
 | A Friend in Need | 8.00% | ~831 |
-| Heavy Metal | 7.00% | ~3,284 |
-| Iron Horse | 7.00% | ~3,284 |
-| Perchance to Dream | 7.00% | ~3,284 |
-| It's Not Just a Typewriter Brand | 7.00% | ~3,284 |
-| Thunder and Lightning | 7.00% | ~3,284 |
-| Collateral Carnage | 7.00% | ~3,284 |
-| Come One, Come All | 7.00% | ~3,284 |
-| Gatekeeper | 6.00% | ~2,815 |
-| The Lady of the Light | 6.00% | ~2,815 |
-| Two For the Price of One | 6.00% | ~2,815 |
-| Energized! | 6.00% | ~2,815 |
-| A Friend Indeed | 6.00% | ~623 |
+| Heavy Metal | 7.00% | ~3,285 |
+| Iron Horse | 7.00% | ~3,285 |
+| Perchance to Dream | 7.00% | ~3,285 |
+| It's Not Just a Typewriter Brand | 7.00% | ~3,285 |
+| Thunder and Lightning | 7.00% | ~3,285 |
+| Collateral Carnage | 7.00% | ~3,285 |
+| Come One, Come All | 7.00% | ~3,285 |
+| Gatekeeper | 6.00% | ~2,816 |
+| The Lady of the Light | 6.00% | ~2,816 |
+| Two For the Price of One | 6.00% | ~2,816 |
+| Energized! | 6.00% | ~2,816 |
+| Right of Way | 6.00% | ~2,816 |
+| A Friend Indeed | 6.00% | ~624 |
 | Tornado Wrangler | 5.00% | ~2,346 |
 | What Light Through Yonder Window | 5.00% | ~2,346 |
-| Right of Way | 5.00% | ~2,346 |
-| Ding! | 5.00% | ~519 |
+| Ding! | 5.00% | ~520 |
 | Departure | 4.00% | ~1,877 |
 | Boob Tube | 3.00% | ~1,408 |
 | Children of the Elder God | 3.00% | ~1,408 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~47 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,920 (Ranked 76)  
+Progressed: 46,925 (Ranked 76)  
 Completed: 45 (0.10%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 45 (0.10%) (Ranked 158)
 | 2023-05-21 | 46,674 | 45 |
 | 2023-05-22 | 46,794 | 45 |
 | 2023-05-23 | 46,896 | 45 |
-| 2023-05-24 | 46,920 | 45 |
+| 2023-05-24 | 46,925 | 45 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

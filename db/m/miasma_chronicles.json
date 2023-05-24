@@ -2,9 +2,9 @@
   "ID": "632b8c18774d480d978cb116518cd06b",
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
-  "Ranking_EOS_Progress": 237,
+  "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 176,
+  "EOS_Progressed": 181,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -92,6 +92,11 @@
       "Time": "2023-05-24T04:04:54.503364+00:00",
       "NumProgressed": 176,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T05:06:05.9779949+00:00",
+      "NumProgressed": 181,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -117,9 +122,9 @@
       "ID": "ASPIRING_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Aspiring Editor",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 52
     },
     {
       "ID": "ATTENBOROUGH",
@@ -213,9 +218,9 @@
       "ID": "DEAD_DICK",
       "SetID": "9a4jnji",
       "Name": "Limp Richard",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -285,7 +290,7 @@
       "ID": "FIRST_BLOOD",
       "SetID": "9a4jnji",
       "Name": "First Blood",
-      "Percentage": 85,
+      "Percentage": 83,
       "XP": 10,
       "UsersEstimate": 150
     },
@@ -333,9 +338,9 @@
       "ID": "GUN_FOR_HIRE",
       "SetID": "9a4jnji",
       "Name": "Gun for Hire",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -349,9 +354,9 @@
       "ID": "IM_THE_LAW",
       "SetID": "9a4jnji",
       "Name": "I am the law!",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "INFILTRATOR",
@@ -405,9 +410,9 @@
       "ID": "RANIDAPHOBIA",
       "SetID": "9a4jnji",
       "Name": "Ranidaphobia",
-      "Percentage": 40,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 78
     },
     {
       "ID": "RECYCLER",
@@ -510,14 +515,14 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 176,
+      "Progressed": 181,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T20:58:17.8341975+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
-  "LastChanged_Achievements": "2023-05-24T04:04:54.5033636+00:00",
+  "LastChanged_Achievements": "2023-05-24T05:06:05.9779945+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:53.8503835+00:00",
-  "LastUpdate_Ratings": "2023-05-24T03:58:08.3258937+00:00",
-  "LastUpdate_Achievements": "2023-05-24T04:04:54.5034083+00:00"
+  "LastUpdate_Ratings": "2023-05-24T04:58:27.5909427+00:00",
+  "LastUpdate_Achievements": "2023-05-24T05:06:05.9780432+00:00"
 }

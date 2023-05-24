@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 312,
+  "EOS_Progressed": 313,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -176,6 +176,11 @@
       "Time": "2023-05-23T22:06:31.9958342+00:00",
       "NumProgressed": 312,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T05:06:40.396485+00:00",
+      "NumProgressed": 313,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -201,9 +206,9 @@
       "ID": "ArtifactsCollector",
       "SetID": "82505mn",
       "Name": "Artifact Collector",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 62
+      "UsersEstimate": 59
     },
     {
       "ID": "Assassin",
@@ -259,7 +264,7 @@
       "Name": "Gladiator",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "GoblinTales",
@@ -323,7 +328,7 @@
       "Name": "Lumberjack",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Marksman",
@@ -369,9 +374,9 @@
       "ID": "OrcMustDie",
       "SetID": "82505mn",
       "Name": "Orcs Must Die!",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 38
     },
     {
       "ID": "Pyromancer",
@@ -379,7 +384,7 @@
       "Name": "Pyromancer",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Reincarnation",
@@ -427,7 +432,7 @@
       "Name": "Spell Master",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SwordMaster",
@@ -449,9 +454,9 @@
       "ID": "TheFallen",
       "SetID": "82505mn",
       "Name": "The Fallen",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 66
+      "UsersEstimate": 63
     },
     {
       "ID": "TheTrio",
@@ -467,7 +472,7 @@
       "Name": "Trap Master",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "TreasureHunter",
@@ -483,7 +488,7 @@
       "Name": "Troubleshooter",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "WeaponMaster",
@@ -506,7 +511,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 312,
+      "Progressed": 313,
       "Completed": 0
     }
   ],
@@ -514,8 +519,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-05-24T04:05:34.7025385+00:00",
+  "LastChanged_Achievements": "2023-05-24T05:06:40.3964844+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:07.6550194+00:00",
-  "LastUpdate_Ratings": "2023-05-24T03:59:07.8662693+00:00",
-  "LastUpdate_Achievements": "2023-05-24T04:05:34.7025723+00:00"
+  "LastUpdate_Ratings": "2023-05-24T04:59:43.7186335+00:00",
+  "LastUpdate_Achievements": "2023-05-24T05:06:40.3965274+00:00"
 }

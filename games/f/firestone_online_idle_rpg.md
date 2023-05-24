@@ -61,9 +61,9 @@ Rating: 3.87 (Ranked 906)
 | Ebony Jungle Liberator | 0.80% | ~9 |
 | The Alchemist | 0.80% | ~9 |
 | Legendary | 0.60% | ~7 |
+| Training makes a Pro player | 0.60% | ~7 |
 | Transmute | 0.60% | ~7 |
 | Tree of Life | 0.60% | ~7 |
-| Training makes a Pro player | 0.50% | ~6 |
 | Gear Enchanting | 0.40% | ~5 |
 | Mythic Power | 0.40% | ~5 |
 | Cauldron Liberator | 0.30% | ~3 |

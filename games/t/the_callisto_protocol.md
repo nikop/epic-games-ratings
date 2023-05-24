@@ -10,7 +10,7 @@ Rating: 4.18 (Ranked 830)
 | Chew 'Em Up | 5.00% | ~673 |
 | Instigator | 4.00% | ~55 |
 | Big Game Hunter | 4.00% | ~55 |
-| Bear Trap | 3.00% | ~41 |
+| Bear Trap | 3.00% | ~42 |
 | The Commonality | 2.00% | ~269 |
 | Float Like A Butterfly | 2.00% | ~269 |
 | Reforged | 2.00% | ~269 |
@@ -37,16 +37,16 @@ Rating: 4.18 (Ranked 830)
 | I Do Belong Here | 0.30% | ~40 |
 | Power Up | 0.30% | ~40 |
 | What Lies Beneath | 0.20% | ~27 |
+| Full Circle | 0.20% | ~27 |
 | It's over, Jacob! | 0.10% | ~13 |
 | Armed to the Teeth | 0.10% | ~1 |
 | Glutton for Punishment | 0.10% | ~1 |
 | You Belong Here | 0.10% | ~1 |
 | The Protocol is About Life | 0.10% | ~13 |
-| Full Circle | 0.10% | ~13 |
 | Subject Alpha | 0.10% | ~1 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,455 (Ranked 101)  
+Progressed: 13,458 (Ranked 101)  
 Completed: 52 (0.39%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 52 (0.39%) (Ranked 112)
 | 2023-05-21 | 13,223 | 52 |
 | 2023-05-22 | 13,347 | 52 |
 | 2023-05-23 | 13,444 | 52 |
-| 2023-05-24 | 13,455 | 52 |
+| 2023-05-24 | 13,458 | 52 |
 ## Awards
 Max (Highly Recommended): 46  (Ranked 397)  
 Sum: 267 (Ranked 335)  

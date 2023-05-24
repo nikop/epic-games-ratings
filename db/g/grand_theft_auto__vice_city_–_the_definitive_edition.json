@@ -334,9 +334,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 6711,
+  "EOS_Progressed": 6714,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 539,
+  "EOS_NewPlayers": 541,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2164,6 +2164,11 @@
       "Time": "2023-05-24T04:05:11.4637127+00:00",
       "NumProgressed": 6711,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-24T05:06:14.1947959+00:00",
+      "NumProgressed": 6714,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 34,
@@ -2199,7 +2204,7 @@
       "Name": "Not my First Time",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ACH05",
@@ -2279,7 +2284,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2617
+      "UsersEstimate": 2618
     },
     {
       "ID": "ACH15",
@@ -2335,7 +2340,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2886
+      "UsersEstimate": 2887
     },
     {
       "ID": "ACH22",
@@ -2359,7 +2364,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "ACH25",
@@ -2367,7 +2372,7 @@
       "Name": "Chauffeur",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "ACH26",
@@ -2375,7 +2380,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "ACH27",
@@ -2383,7 +2388,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ACH28",
@@ -2446,7 +2451,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6711,
+      "Progressed": 6714,
       "Completed": 22
     }
   ],
@@ -2454,8 +2459,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-23T13:58:08.4937843+00:00",
-  "LastChanged_Achievements": "2023-05-24T04:05:11.4637122+00:00",
+  "LastChanged_Achievements": "2023-05-24T05:06:14.1947955+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:49.9519997+00:00",
-  "LastUpdate_Ratings": "2023-05-24T03:58:05.3464663+00:00",
-  "LastUpdate_Achievements": "2023-05-24T04:05:11.4637537+00:00"
+  "LastUpdate_Ratings": "2023-05-24T04:58:23.3160444+00:00",
+  "LastUpdate_Achievements": "2023-05-24T05:06:14.1948421+00:00"
 }

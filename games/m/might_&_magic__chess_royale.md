@@ -1,16 +1,16 @@
 # Might & Magic: Chess Royale
 [Store](https://store.epicgames.com/en-US/p/might-and-magic-chess-royale)  
 [View Rawdata](../../db/m/might_&_magic__chess_royale.json)  
-Rating: 4.50 (Ranked 534)  
+Rating: 4.50 (Ranked 535)  
 Number of Ratings: 238  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 97  (Ranked 326)  
-Sum: 787 (Ranked 250)  
+Sum: 788 (Ranked 250)  
 Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 97 |
-| This game is Relaxing | 88 |
+| This game is Relaxing | 89 |
 | This game has Quickly Understood Controls | 87 |
 | This game has Easy Combat | 87 |
 | This game has Competitive Players | 86 |
@@ -132,3 +132,4 @@ Diff (max vs sum): 76
 | 2023-05-14 | 4.50 | - | 97 | 784 |
 | 2023-05-16 | 4.50 | - | 97 | 785 |
 | 2023-05-19 | 4.50 | - | 97 | 787 |
+| 2023-05-24 | 4.50 | - | 97 | 788 |

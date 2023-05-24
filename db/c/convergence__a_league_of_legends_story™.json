@@ -4,7 +4,7 @@
   "ProductSlug": "convergence-a-league-of-legends-story",
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 105,
+  "EOS_Progressed": 115,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -49,6 +49,11 @@
       "Time": "2023-05-24T04:04:13.131024+00:00",
       "NumProgressed": 105,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T05:05:16.3903334+00:00",
+      "NumProgressed": 115,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 53,
@@ -66,7 +71,7 @@
       "ID": "CamilleDefeated",
       "SetID": "a9e499d",
       "Name": "The Steel Shadow",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
       "UsersEstimate": 10
     },
@@ -90,9 +95,9 @@
       "ID": "ChronobreakMultiKill1",
       "SetID": "a9e499d",
       "Name": "Right On Time",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 46
     },
     {
       "ID": "ClockworkCompletion1",
@@ -106,7 +111,7 @@
       "ID": "ClockworkProgress1",
       "SetID": "a9e499d",
       "Name": "Like Clockwork",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -114,9 +119,9 @@
       "ID": "ClovemaryGift",
       "SetID": "a9e499d",
       "Name": "Clovemary for Remembering",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 3
     },
     {
       "ID": "CosmeticCompletion1",
@@ -138,7 +143,7 @@
       "ID": "CultivairChests1",
       "SetID": "a9e499d",
       "Name": "Cultivair Explorer",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -154,9 +159,9 @@
       "ID": "ExamineFamilyPortrait",
       "SetID": "a9e499d",
       "Name": "Family Memories",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "FactorywoodChests1",
@@ -178,15 +183,15 @@
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 60,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 66
     },
     {
       "ID": "FutureEkko2Defeated",
       "SetID": "a9e499d",
       "Name": "The Betrayer",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -210,7 +215,7 @@
       "ID": "GadgetProgress1",
       "SetID": "a9e499d",
       "Name": "Whiz Kid",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -220,15 +225,15 @@
       "Name": "Rail Rat",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 69
     },
     {
       "ID": "HexlockGift",
       "SetID": "a9e499d",
       "Name": "Hexlock for Protection",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 3
     },
     {
       "ID": "InxChromaInTheatre",
@@ -242,17 +247,17 @@
       "ID": "JinxDefeated",
       "SetID": "a9e499d",
       "Name": "The Loose Cannon",
-      "Percentage": 0,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "MapCompletion1",
@@ -298,7 +303,7 @@
       "ID": "ParallelConvergenceMultiHit1",
       "SetID": "a9e499d",
       "Name": "Time Flies",
-      "Percentage": 28,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 29
     },
@@ -306,9 +311,9 @@
       "ID": "ParryBoss",
       "SetID": "a9e499d",
       "Name": "The Harder They Fall",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ParryRepeated1",
@@ -316,15 +321,15 @@
       "Name": "No, Thanks!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "PhaseDiveCounter",
       "SetID": "a9e499d",
       "Name": "Breaking Down Barriers",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -332,7 +337,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "PidgeDefeated",
@@ -340,23 +345,23 @@
       "Name": "The Prince in Heels",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "RewindDamage1",
       "SetID": "a9e499d",
       "Name": "Time Heals All Wounds",
-      "Percentage": 86,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 97
     },
     {
       "ID": "RewindParry",
       "SetID": "a9e499d",
       "Name": "Honest Mistake",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "ScrambotCompletion1",
@@ -372,7 +377,7 @@
       "Name": "Golem Chaser",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "SkillCompletion1",
@@ -386,7 +391,7 @@
       "ID": "SkillProgress1",
       "SetID": "a9e499d",
       "Name": "Fast Learner",
-      "Percentage": 24,
+      "Percentage": 22,
       "XP": 5,
       "UsersEstimate": 25
     },
@@ -402,17 +407,17 @@
       "ID": "SumpChests1",
       "SetID": "a9e499d",
       "Name": "Sump Explorer",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 3
     },
     {
       "ID": "SyronGift",
       "SetID": "a9e499d",
       "Name": "Syron for Hope",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "TemporalPulseKills1",
@@ -434,39 +439,39 @@
       "ID": "TimewinderMultiKill1",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 43,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "WarwickDefeated",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "WatcherFought",
       "SetID": "a9e499d",
       "Name": "Ask Questions Later",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 3
     },
     {
       "ID": "WatcherSpared",
       "SetID": "a9e499d",
       "Name": "Good Neighbor",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "Zarkon1Defeated",
       "SetID": "a9e499d",
       "Name": "The Brass Boss",
-      "Percentage": 29,
+      "Percentage": 26,
       "XP": 5,
       "UsersEstimate": 30
     },
@@ -483,14 +488,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 105,
+      "Progressed": 115,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-05-24T04:04:13.1310234+00:00",
+  "LastChanged_Achievements": "2023-05-24T05:05:16.3903329+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:56.3426004+00:00",
-  "LastUpdate_Ratings": "2023-05-24T03:59:02.2714882+00:00",
-  "LastUpdate_Achievements": "2023-05-24T04:04:13.1310781+00:00"
+  "LastUpdate_Ratings": "2023-05-24T04:59:36.0677579+00:00",
+  "LastUpdate_Achievements": "2023-05-24T05:05:16.3903925+00:00"
 }

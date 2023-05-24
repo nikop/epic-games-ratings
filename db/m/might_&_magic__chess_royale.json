@@ -2,7 +2,7 @@
   "ID": "82225e5cb4714006b335a50d840208c6",
   "Name": "Might \u0026 Magic: Chess Royale",
   "ProductSlug": "might-and-magic-chess-royale",
-  "Ranking_Rating": 534,
+  "Ranking_Rating": 535,
   "Ranking_Popularity": 326,
   "Ranking_PopularitySum": 250,
   "Ranking_EOS_Progress": 416,
@@ -767,10 +767,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 787,
       "NumberOfAwardsMax": 97
+    },
+    {
+      "Time": "2023-05-24T04:59:46.5789669+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 788,
+      "NumberOfAwardsMax": 97
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 787,
+  "NumberOfAwards": 788,
   "NumberOfAwardsMax": 97,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -796,7 +802,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 88
+      "Count": 89
     },
     {
       "Text": "This game has Diverse Characters",
@@ -852,8 +858,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:16.1959446+00:00",
-  "LastChanged": "2023-05-19T13:03:17.8476317+00:00",
+  "LastChanged": "2023-05-24T04:59:46.5789667+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:11.0144079+00:00",
-  "LastUpdate_Ratings": "2023-05-24T03:59:10.1746346+00:00",
-  "LastUpdate_Achievements": "2023-05-24T04:04:17.971601+00:00"
+  "LastUpdate_Ratings": "2023-05-24T04:59:46.5789675+00:00",
+  "LastUpdate_Achievements": "2023-05-24T05:05:22.1180929+00:00"
 }
