@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 70,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -4171,10 +4171,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 13132,
       "NumberOfAwardsMax": 6568
+    },
+    {
+      "Time": "2023-05-24T10:59:20.407171+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 13134,
+      "NumberOfAwardsMax": 6568
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13132,
+  "NumberOfAwards": 13134,
   "NumberOfAwardsMax": 6568,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4230,7 +4236,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 802
+      "Count": 804
     },
     {
       "Text": "This game is Relaxing",
@@ -4251,9 +4257,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 50778,
+  "EOS_Progressed": 50781,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 719,
+  "EOS_NewPlayers": 715,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7451,6 +7457,11 @@
       "Time": "2023-05-24T10:07:04.3744389+00:00",
       "NumProgressed": 50778,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T11:05:35.0678147+00:00",
+      "NumProgressed": 50781,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -7470,7 +7481,7 @@
       "Name": "Apple of my eye",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 6601
+      "UsersEstimate": 6602
     },
     {
       "ID": "Bannerlord",
@@ -7502,7 +7513,7 @@
       "Name": "Butterlord",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 3554
+      "UsersEstimate": 3555
     },
     {
       "ID": "Catch",
@@ -7590,7 +7601,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6093
+      "UsersEstimate": 6094
     },
     {
       "ID": "Great Granny",
@@ -7686,7 +7697,7 @@
       "Name": "Landlord",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 15233
+      "UsersEstimate": 15234
     },
     {
       "ID": "Lawbringer",
@@ -7694,7 +7705,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 17772
+      "UsersEstimate": 17773
     },
     {
       "ID": "Lawmaker",
@@ -7702,7 +7713,7 @@
       "Name": "Lawmaker",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 10663
+      "UsersEstimate": 10664
     },
     {
       "ID": "Long live the Empire",
@@ -7814,7 +7825,7 @@
       "Name": "The king is pleased",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 8124
+      "UsersEstimate": 8125
     },
     {
       "ID": "This Is Our Land",
@@ -7869,15 +7880,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 50778,
+      "Progressed": 50781,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-05-24T03:59:16.027142+00:00",
-  "LastChanged_Achievements": "2023-05-24T10:07:04.3744383+00:00",
+  "LastChanged": "2023-05-24T10:59:20.4071707+00:00",
+  "LastChanged_Achievements": "2023-05-24T11:05:35.0678138+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:05:00.2672545+00:00",
-  "LastUpdate_Ratings": "2023-05-24T10:00:18.9427994+00:00",
-  "LastUpdate_Achievements": "2023-05-24T10:07:04.3745254+00:00"
+  "LastUpdate_Ratings": "2023-05-24T10:59:20.4071716+00:00",
+  "LastUpdate_Achievements": "2023-05-24T11:05:35.0679491+00:00"
 }

@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 88.00% | ~121 |
-| Rail Rat | 64.00% | ~88 |
-| The Mysterious Stranger | 62.00% | ~86 |
-| Immaculate Aim | 44.00% | ~61 |
-| Right On Time | 38.00% | ~52 |
-| Honest Mistake | 31.00% | ~43 |
-| The Brass Boss | 29.00% | ~40 |
-| No, Thanks! | 27.00% | ~37 |
-| Time Flies | 26.00% | ~36 |
-| Fast Learner | 23.00% | ~32 |
-| The Prince in Heels | 22.00% | ~30 |
-| Family Memories | 20.00% | ~28 |
-| The Harder They Fall | 20.00% | ~28 |
-| Breaking Down Barriers | 19.00% | ~26 |
-| Immaculate Aim | 16.00% | ~22 |
-| Make Up For Lost Time | 14.00% | ~19 |
+| Time Heals All Wounds | 89.00% | ~129 |
+| Rail Rat | 64.00% | ~93 |
+| The Mysterious Stranger | 61.00% | ~88 |
+| Immaculate Aim | 44.00% | ~64 |
+| Right On Time | 37.00% | ~54 |
+| Honest Mistake | 32.00% | ~46 |
+| The Brass Boss | 30.00% | ~44 |
+| Time Flies | 28.00% | ~41 |
+| No, Thanks! | 27.00% | ~39 |
+| Fast Learner | 23.00% | ~33 |
+| The Prince in Heels | 22.00% | ~32 |
+| The Harder They Fall | 21.00% | ~30 |
+| Family Memories | 19.00% | ~28 |
+| Breaking Down Barriers | 19.00% | ~28 |
+| Make Up For Lost Time | 15.00% | ~22 |
+| Immaculate Aim | 15.00% | ~22 |
 | Golem Chaser | 12.00% | ~17 |
-| Good Neighbor | 11.00% | ~15 |
+| Good Neighbor | 12.00% | ~17 |
 | The Steel Shadow | 10.00% | ~14 |
 | Like Clockwork | 7.00% | ~10 |
-| The Betrayer | 7.00% | ~10 |
 | The Wicked Twins | 7.00% | ~10 |
-| Syron for Hope | 5.00% | ~7 |
+| The Betrayer | 6.00% | ~9 |
+| Syron for Hope | 6.00% | ~9 |
 | Check Your Pulse | 5.00% | ~7 |
 | Ask Questions Later | 5.00% | ~7 |
 | Street Style | 4.00% | ~6 |
-| Factorywood Explorer | 4.00% | ~6 |
 | Whiz Kid | 4.00% | ~6 |
 | Hexlock for Protection | 4.00% | ~6 |
 | Sump Explorer | 4.00% | ~6 |
 | Clovemary for Remembering | 3.00% | ~4 |
+| Factorywood Explorer | 3.00% | ~4 |
 | Chaincrawler Explorer | 2.00% | ~3 |
 | Wunderkind | 1.00% | ~1 |
 | Golem Hunter | 1.00% | ~1 |
@@ -58,10 +58,10 @@
 | Raw Talent | 0.00% | ~0 |
 | A Lesson in Precision | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138 (Ranked 254)  
+Progressed: 145 (Ranked 253)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-23 | 34 | 0 |
-| 2023-05-24 | 138 | 0 |
+| 2023-05-24 | 145 | 0 |

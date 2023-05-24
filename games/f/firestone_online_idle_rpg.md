@@ -23,9 +23,9 @@ Rating: 3.87 (Ranked 906)
 | Enlightenment | 11.00% | ~127 |
 | Lieutenant | 11.00% | ~127 |
 | Milestone collector | 10.00% | ~115 |
+| Natural Talent | 10.00% | ~115 |
 | The Unstoppable | 10.00% | ~115 |
 | Mysterious Rock | 9.00% | ~104 |
-| Natural Talent | 9.00% | ~104 |
 | Superior | 9.00% | ~104 |
 | Scientist | 8.00% | ~92 |
 | Daily Quest Completionist | 7.00% | ~81 |
@@ -57,7 +57,7 @@ Rating: 3.87 (Ranked 906)
 | Four Leaf Clover | 1.00% | ~12 |
 | Sailor | 1.00% | ~12 |
 | Active Member | 0.90% | ~10 |
-| Crystal Mining | 0.80% | ~9 |
+| Crystal Mining | 0.90% | ~10 |
 | Ebony Jungle Liberator | 0.80% | ~9 |
 | The Alchemist | 0.80% | ~9 |
 | Legendary | 0.60% | ~7 |

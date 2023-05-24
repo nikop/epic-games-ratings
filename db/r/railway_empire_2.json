@@ -362,17 +362,17 @@
       "ID": "A36",
       "SetID": "9b7p7eo",
       "Name": "Way of Iron",
-      "Percentage": 45,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "A37",
       "SetID": "9b7p7eo",
       "Name": "All around the World",
-      "Percentage": 45,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "A38",
@@ -394,9 +394,9 @@
       "ID": "A40",
       "SetID": "9b7p7eo",
       "Name": "Mind the Gap",
-      "Percentage": 36,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "A41",
@@ -520,8 +520,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged_Achievements": "2023-05-24T10:06:46.0819796+00:00",
+  "LastChanged_Achievements": "2023-05-24T11:05:20.9048912+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:39.7708852+00:00",
-  "LastUpdate_Ratings": "2023-05-24T09:58:15.1601174+00:00",
-  "LastUpdate_Achievements": "2023-05-24T10:06:46.0820336+00:00"
+  "LastUpdate_Ratings": "2023-05-24T10:57:58.1787301+00:00",
+  "LastUpdate_Achievements": "2023-05-24T11:05:20.9049288+00:00"
 }

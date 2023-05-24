@@ -782,9 +782,9 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 7355,
+  "EOS_Progressed": 7356,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1367,6 +1367,11 @@
       "Time": "2023-05-24T10:06:17.5863535+00:00",
       "NumProgressed": 7355,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-24T11:05:01.0273535+00:00",
+      "NumProgressed": 7356,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -1402,7 +1407,7 @@
       "Name": "Focus!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4560
+      "UsersEstimate": 4561
     },
     {
       "ID": "DemonCastleRestoration",
@@ -1456,9 +1461,9 @@
       "ID": "GoHome",
       "SetID": "97dk767",
       "Name": "Go Home...",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1913
     },
     {
       "ID": "HeroSlayer",
@@ -1472,9 +1477,9 @@
       "ID": "LeoniasFall",
       "SetID": "97dk767",
       "Name": "The Fall of the Leonia Order",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 2059
+      "UsersEstimate": 2133
     },
     {
       "ID": "LeoniasFall_2",
@@ -1490,7 +1495,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 2868
+      "UsersEstimate": 2869
     },
     {
       "ID": "RookieWelcome",
@@ -1506,7 +1511,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4560
+      "UsersEstimate": 4561
     },
     {
       "ID": "SavedElderEnt_2",
@@ -1538,7 +1543,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 6840
+      "UsersEstimate": 6841
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -1546,7 +1551,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 3383
+      "UsersEstimate": 3384
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -1569,15 +1574,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7355,
+      "Progressed": 7356,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-05-24T02:03:32.7923758+00:00",
-  "LastChanged_Achievements": "2023-05-24T10:06:17.5863525+00:00",
+  "LastChanged_Achievements": "2023-05-24T11:05:01.0273529+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.259325+00:00",
-  "LastUpdate_Ratings": "2023-05-24T09:59:20.4071016+00:00",
-  "LastUpdate_Achievements": "2023-05-24T10:06:17.5863873+00:00"
+  "LastUpdate_Ratings": "2023-05-24T10:58:41.6440637+00:00",
+  "LastUpdate_Achievements": "2023-05-24T11:05:01.0273697+00:00"
 }

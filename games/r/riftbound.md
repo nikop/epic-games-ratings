@@ -7,6 +7,7 @@
 | Adventure Time | 91.00% | ~20 |
 | Master Of The Arts | 64.00% | ~14 |
 | Close Call | 27.00% | ~6 |
+| Getting Good At This | 5.00% | ~1 |
 | Hold The Line | 5.00% | ~1 |
 | Adept Summoner | 0.00% | ~0 |
 | Apprentice Summoner | 0.00% | ~0 |
@@ -20,7 +21,6 @@
 | Five Of A Kind | 0.00% | ~0 |
 | Fries With That? | 0.00% | ~0 |
 | Full House | 0.00% | ~0 |
-| Getting Good At This | 0.00% | ~0 |
 | I'm A Wizard | 0.00% | ~0 |
 | One Hand Tied | 0.00% | ~0 |
 | Over 9000 | 0.00% | ~0 |

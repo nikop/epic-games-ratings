@@ -1392,9 +1392,9 @@
       "ID": "SURVIVE_FIRST_AUTUMN",
       "SetID": "5349c2e",
       "Name": "Winter Is Coming",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 566
     },
     {
       "ID": "SURVIVE_FIRST_DAY",
@@ -1496,8 +1496,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-05-20T17:59:42.2266886+00:00",
-  "LastChanged_Achievements": "2023-05-24T10:06:48.2258172+00:00",
+  "LastChanged_Achievements": "2023-05-24T11:05:22.7009651+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:15.8703194+00:00",
-  "LastUpdate_Ratings": "2023-05-24T10:00:26.9923671+00:00",
-  "LastUpdate_Achievements": "2023-05-24T10:06:48.2258427+00:00"
+  "LastUpdate_Ratings": "2023-05-24T10:59:25.9017563+00:00",
+  "LastUpdate_Achievements": "2023-05-24T11:05:22.7009839+00:00"
 }

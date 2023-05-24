@@ -6,24 +6,24 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 35.00% | ~17,772 |
-| Landlord | 30.00% | ~15,233 |
-| Lawmaker | 21.00% | ~10,663 |
+| Lawbringer | 35.00% | ~17,773 |
+| Landlord | 30.00% | ~15,234 |
+| Lawmaker | 21.00% | ~10,664 |
 | Bannerlord | 20.00% | ~10,156 |
 | Horde breaker | 20.00% | ~10,156 |
 | Trained | 20.00% | ~10,156 |
-| The king is pleased | 16.00% | ~8,124 |
+| The king is pleased | 16.00% | ~8,125 |
 | King Solomon | 15.00% | ~7,617 |
 | I can do it | 14.00% | ~7,109 |
-| Apple of my eye | 13.00% | ~6,601 |
-| God of the Arena | 12.00% | ~6,093 |
+| Apple of my eye | 13.00% | ~6,602 |
+| God of the Arena | 12.00% | ~6,094 |
 | Against all odds | 10.00% | ~5,078 |
 | Swordbearer | 9.00% | ~4,570 |
 | Duelist | 8.00% | ~4,062 |
 | Dynasty | 8.00% | ~4,062 |
 | I spit on your grave | 8.00% | ~4,062 |
 | What have the Romans ever done for us? | 8.00% | ~4,062 |
-| Butterlord | 7.00% | ~3,554 |
+| Butterlord | 7.00% | ~3,555 |
 | Mastery | 6.00% | ~3,047 |
 | This Is Our Land | 6.00% | ~3,047 |
 | Know your enemy | 5.00% | ~2,539 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,778 (Ranked 74)  
+Progressed: 50,781 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,16 +92,16 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-21 | 50,571 | 0 |
 | 2023-05-22 | 50,655 | 0 |
 | 2023-05-23 | 50,759 | 0 |
-| 2023-05-24 | 50,778 | 0 |
+| 2023-05-24 | 50,781 | 0 |
 ## Awards
 Max (Character Customization): 6,568  (Ranked 49)  
-Sum: 13,132 (Ranked 68)  
+Sum: 13,134 (Ranked 68)  
 Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 6,568 |
 | This game is Great for Beginners | 826 |
-| This game has Diverse Characters | 802 |
+| This game has Diverse Characters | 804 |
 | This game is Highly Recommended | 779 |
 | This game is Extremely Fun | 744 |
 | This game has Amazing Storytelling | 731 |
@@ -243,4 +243,4 @@ Diff (max vs sum): -19
 | 2023-05-21 | 4.74 | - | 6,564 | 13,114 |
 | 2023-05-22 | 4.74 | - | 6,564 | 13,123 |
 | 2023-05-23 | 4.74 | - | 6,568 | 13,130 |
-| 2023-05-24 | 4.74 | - | 6,568 | 13,132 |
+| 2023-05-24 | 4.74 | - | 6,568 | 13,134 |

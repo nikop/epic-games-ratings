@@ -16,7 +16,7 @@ Number of Ratings: 266  (23.09.2022)
 | Science, Troglodyte! | 23.00% | ~586 |
 | Exceptional Skill | 22.00% | ~561 |
 | Home Sweet Home | 22.00% | ~561 |
-| Encyclopedic! | 19.00% | ~484 |
+| Encyclopedic! | 20.00% | ~510 |
 | A Fortress Toppled! | 16.00% | ~408 |
 | Apex Predator | 15.00% | ~382 |
 | The Power of Family | 15.00% | ~382 |

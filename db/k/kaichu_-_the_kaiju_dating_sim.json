@@ -4,7 +4,7 @@
   "ProductSlug": "kaichu-the-kaiju-dating-sim-531fb7",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 12,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-09-07T14:00:00+00:00",
@@ -95,9 +95,9 @@
       "ID": "FRIENDZONED",
       "SetID": "dhjj31a",
       "Name": "Friendzoned",
-      "Percentage": 35,
+      "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "LONG_DISTANCE_RELATIONSHIP",
@@ -119,9 +119,9 @@
       "ID": "LOVE_IS_IN_BLOOM",
       "SetID": "dhjj31a",
       "Name": "Love is in Bloom",
-      "Percentage": 38,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "LOVE_IS_IN_THE_AIR",
@@ -200,8 +200,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.7586093+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.8187697+00:00",
   "LastChanged": "2023-03-31T05:58:12.7586094+00:00",
-  "LastChanged_Achievements": "2023-05-24T10:06:17.1768046+00:00",
+  "LastChanged_Achievements": "2023-05-24T11:05:00.7557778+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:14.9625829+00:00",
-  "LastUpdate_Ratings": "2023-05-24T09:57:49.7870411+00:00",
-  "LastUpdate_Achievements": "2023-05-24T10:06:17.1768193+00:00"
+  "LastUpdate_Ratings": "2023-05-24T10:57:40.445195+00:00",
+  "LastUpdate_Achievements": "2023-05-24T11:05:00.7557864+00:00"
 }
