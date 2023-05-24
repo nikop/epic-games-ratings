@@ -146,7 +146,7 @@
 | 141 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.74 | 62 | 374 |
 | 141 | [Frostpunk](games/f/frostpunk.md) | 4.74 | 771 | 148 |
 | 141 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 601 | 167 |
-| 141 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,568 | 49 |
+| 141 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 6,570 | 49 |
 | 141 | [Outlast](games/o/outlast.md) | 4.74 | 0 | 491 |
 | 141 | [Overcooked! 2](games/o/overcooked!_2.md) | 4.74 | 222 | 248 |
 | 141 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 31,796 | 14 |
@@ -181,7 +181,7 @@
 | 178 | [Barony](games/b/barony.md) | 4.71 | 71 | 362 |
 | 178 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.71 | 325 | 216 |
 | 178 | [FAR: Lone Sails](games/f/far__lone_sails.md) | 4.71 | 0 | 491 |
-| 178 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,325 | 50 |
+| 178 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.71 | 6,332 | 50 |
 | 178 | [Fez](games/f/fez.md) | 4.71 | 23 | 470 |
 | 178 | [FUSER™](games/f/fuser™.md) | 4.71 | 35 | 427 |
 | 178 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 4.71 | 7,190 | 43 |
@@ -413,7 +413,7 @@
 | 402 | [RiME](games/r/rime.md) | 4.59 | 0 | 491 |
 | 402 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.59 | 74 | 355 |
 | 402 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.59 | 3,197 | 84 |
-| 402 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 30 | 445 |
+| 402 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.59 | 30 | 446 |
 | 402 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.59 | 188 | 263 |
 | 402 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 4.59 | 693 | 156 |
 | 402 | [Wall World](games/w/wall_world.md) | 4.59 | 0 | 491 |
@@ -456,7 +456,7 @@
 | 448 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 4.56 | 35 | 427 |
 | 448 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.56 | 0 | 491 |
 | 448 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 4.56 | 138 | 291 |
-| 448 | [Isonzo](games/i/isonzo.md) | 4.56 | 30 | 445 |
+| 448 | [Isonzo](games/i/isonzo.md) | 4.56 | 31 | 441 |
 | 448 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.56 | 0 | 491 |
 | 448 | [Minit](games/m/minit.md) | 4.56 | 0 | 491 |
 | 448 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,740 | 65 |
@@ -555,7 +555,7 @@
 | 535 | [Stick It To The Man!](games/s/stick_it_to_the_man!.md) | 4.50 | 0 | 491 |
 | 535 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 4.50 | 753 | 151 |
 | 535 | [Tails of Iron](games/t/tails_of_iron.md) | 4.50 | 0 | 491 |
-| 535 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 30 | 445 |
+| 535 | [Voidtrain](games/v/voidtrain.md) | 4.50 | 30 | 446 |
 | 557 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 62 | 374 |
 | 557 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.49 | 397 | 202 |
 | 557 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 1,975 | 104 |
@@ -791,7 +791,7 @@
 | 784 | [The Vanishing of Ethan Carter](games/t/the_vanishing_of_ethan_carter.md) | 4.25 | 0 | 491 |
 | 790 | [2064: Read Only Memories](games/2/2064__read_only_memories.md) | 4.24 | 0 | 491 |
 | 790 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 4.24 | 31 | 441 |
-| 790 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 10,218 | 34 |
+| 790 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.24 | 10,284 | 34 |
 | 790 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.24 | 0 | 491 |
 | 790 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 4.24 | 394 | 203 |
 | 790 | [Starsand](games/s/starsand.md) | 4.24 | 0 | 491 |
@@ -806,7 +806,7 @@
 | 800 | [Yooka-Laylee](games/y/yooka-laylee.md) | 4.23 | 22 | 473 |
 | 805 | [Stranded Deep](games/s/stranded_deep.md) | 4.22 | 203 | 257 |
 | 805 | [Trek to Yomi](games/t/trek_to_yomi.md) | 4.22 | 0 | 491 |
-| 807 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 30 | 445 |
+| 807 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 30 | 446 |
 | 807 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.21 | 0 | 491 |
 | 807 | [Flatout](games/f/flatout.md) | 4.21 | 0 | 491 |
 | 807 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 175 | 271 |
@@ -826,7 +826,7 @@
 | 823 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.19 | 0 | 491 |
 | 823 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.19 | 33 | 432 |
 | 823 | [Layers of Fear 2](games/l/layers_of_fear_2.md) | 4.19 | 0 | 491 |
-| 823 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 182,824 | 4 |
+| 823 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.19 | 182,875 | 4 |
 | 823 | [Not Tonight 2](games/n/not_tonight_2.md) | 4.19 | 0 | 491 |
 | 823 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.19 | 26 | 459 |
 | 830 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.18 | 92 | 333 |

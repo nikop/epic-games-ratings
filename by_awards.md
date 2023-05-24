@@ -3,7 +3,7 @@
 | 1 | [Fortnite](games/f/fortnite.md) | 1,345,253 | 4.30 | 759 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 418,090 | 4.51 | 520 |
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 296,291 | 4.68 | 235 |
-| 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 182,824 | 4.19 | 823 |
+| 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 182,875 | 4.19 | 823 |
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 173,540 | 4.68 | 235 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 142,687 | 4.89 | 13 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 139,215 | 4.53 | 492 |
@@ -33,7 +33,7 @@
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 11,391 | 4.87 | 25 |
 | 32 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,225 | 4.69 | 211 |
 | 33 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 10,347 | 4.45 | 605 |
-| 34 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 10,218 | 4.24 | 790 |
+| 34 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 10,284 | 4.24 | 790 |
 | 35 | [Satisfactory](games/s/satisfactory.md) | 9,443 | 4.88 | 19 |
 | 36 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,126 | 4.61 | 360 |
 | 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,054 | 4.78 | 100 |
@@ -48,8 +48,8 @@
 | 46 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 6,928 | 4.47 | 584 |
 | 47 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 6,911 | 4.67 | 255 |
 | 48 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 648 |
-| 49 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,568 | 4.74 | 141 |
-| 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,325 | 4.71 | 178 |
+| 49 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 6,570 | 4.74 | 141 |
+| 50 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 6,332 | 4.71 | 178 |
 | 51 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,278 | 4.80 | 77 |
 | 52 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,108 | 4.58 | 419 |
 | 53 | [Sifu](games/s/sifu.md) | 6,089 | 4.82 | 62 |
@@ -441,13 +441,13 @@
 | 436 | [MythForce](games/m/mythforce.md) | 32 | 4.50 | 535 |
 | 436 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 32 | 4.41 | 662 |
 | 441 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 31 | 4.24 | 790 |
+| 441 | [Isonzo](games/i/isonzo.md) | 31 | 4.56 | 448 |
 | 441 | [Outward Definitive Edition](games/o/outward.md) | 31 | 4.55 | 466 |
 | 441 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 31 | 4.68 | 235 |
 | 441 | [Yooka-Laylee and the Impossible Lair](games/y/yooka-laylee_and_the_impossible_lair.md) | 31 | 4.38 | 692 |
-| 445 | [Blankos Block Party](games/b/blankos_block_party.md) | 30 | 4.21 | 807 |
-| 445 | [Isonzo](games/i/isonzo.md) | 30 | 4.56 | 448 |
-| 445 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 30 | 4.59 | 402 |
-| 445 | [Voidtrain](games/v/voidtrain.md) | 30 | 4.50 | 535 |
+| 446 | [Blankos Block Party](games/b/blankos_block_party.md) | 30 | 4.21 | 807 |
+| 446 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 30 | 4.59 | 402 |
+| 446 | [Voidtrain](games/v/voidtrain.md) | 30 | 4.50 | 535 |
 | 449 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 29 | 3.93 | 899 |
 | 449 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 29 | 4.43 | 641 |
 | 449 | [Northgard](games/n/northgard.md) | 29 | 4.70 | 192 |

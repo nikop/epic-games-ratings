@@ -18,25 +18,25 @@
 | 16 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.12% |
 | 18 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.88% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.84% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.86% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.82% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
 | 22 | [Scorn](games/s/scorn.md) | 6.88% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 6.78% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 6.77% |
 | 24 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 25 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.71% |
-| 27 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.48% |
-| 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.45% |
-| 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 4.86% |
-| 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.85% |
+| 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.45% |
+| 27 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.45% |
+| 29 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.85% |
+| 30 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 4.83% |
 | 31 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.65% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.43% |
 | 34 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.26% |
 | 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
 | 36 | [Doodle God](games/d/doodle_god.md) | 3.90% |
-| 37 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.89% |
+| 37 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.87% |
 | 38 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 39 | [The Complex](games/t/the_complex.md) | 3.50% |
 | 40 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.34% |
@@ -119,10 +119,10 @@
 | 117 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.35% |
 | 118 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.34% |
 | 118 | [Godlike Burger](games/g/godlike_burger.md) | 0.34% |
-| 120 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.33% |
 | 120 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.33% |
 | 120 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.33% |
-| 123 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
+| 122 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.32% |
+| 122 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
 | 124 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.31% |
 | 124 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
 | 124 | [The Surge](games/t/the_surge.md) | 0.31% |
