@@ -7,7 +7,7 @@
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 21.21% |
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.27% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 8 | [Island Cities](games/i/island_cities.md) | 16.56% |
+| 8 | [Island Cities](games/i/island_cities.md) | 16.45% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
 | 10 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
 | 11 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.01% |
@@ -19,7 +19,7 @@
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.12% |
 | 18 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.86% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.82% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.81% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
 | 22 | [Scorn](games/s/scorn.md) | 6.88% |
 | 23 | [Ravenlok](games/r/ravenlok.md) | 6.77% |
@@ -66,7 +66,7 @@
 | 64 | [Sifu](games/s/sifu.md) | 1.81% |
 | 65 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.80% |
 | 66 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.68% |
-| 67 | [A Musical Story](games/a/a_musical_story.md) | 1.67% |
+| 67 | [A Musical Story](games/a/a_musical_story.md) | 1.64% |
 | 68 | [Night Book](games/n/night_book.md) | 1.63% |
 | 69 | [Somerville](games/s/somerville.md) | 1.60% |
 | 70 | [Frogun](games/f/frogun.md) | 1.55% |
