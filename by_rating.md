@@ -380,7 +380,7 @@
 | 360 | [Roguebook](games/r/roguebook.md) | 4.61 | 0 | 491 |
 | 360 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 268 | 234 |
 | 360 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.61 | 0 | 491 |
-| 360 | [Supraland](games/s/supraland.md) | 4.61 | 7,612 | 40 |
+| 360 | [Supraland](games/s/supraland.md) | 4.61 | 7,613 | 40 |
 | 360 | [The Colonists](games/t/the_colonists.md) | 4.61 | 0 | 491 |
 | 360 | [The Sims™ 4](games/t/the_sims™_4.md) | 4.61 | 239 | 243 |
 | 360 | [Warframe](games/w/warframe.md) | 4.61 | 14,967 | 21 |
@@ -678,7 +678,7 @@
 | 674 | [Iron Harvest](games/i/iron_harvest.md) | 4.40 | 0 | 491 |
 | 674 | [Necrosmith](games/n/necrosmith.md) | 4.40 | 0 | 491 |
 | 674 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 4.40 | 0 | 491 |
-| 674 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 398 | 201 |
+| 674 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 4.40 | 400 | 201 |
 | 674 | [Sonic Colors: Ultimate](games/s/sonic_colors__ultimate.md) | 4.40 | 72 | 359 |
 | 674 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.40 | 0 | 491 |
 | 674 | [Star Renegades](games/s/star_renegades.md) | 4.40 | 0 | 491 |
@@ -890,10 +890,10 @@
 | 886 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 4.00 | 0 | 491 |
 | 889 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 368 | 207 |
 | 889 | [Martha Is Dead](games/m/martha_is_dead.md) | 3.99 | 0 | 491 |
+| 889 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.99 | 1,992 | 103 |
 | 889 | [The First Tree](games/t/the_first_tree.md) | 3.99 | 0 | 491 |
-| 892 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 491 |
-| 892 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 3.98 | 1,992 | 103 |
-| 892 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,587 | 66 |
+| 893 | [Close To The Sun](games/c/close_to_the_sun.md) | 3.98 | 0 | 491 |
+| 893 | [Shop Titans](games/s/shop_titans.md) | 3.98 | 4,587 | 66 |
 | 895 | [Gods Will Fall](games/g/gods_will_fall.md) | 3.97 | 0 | 491 |
 | 896 | [Chimeraland](games/c/chimeraland.md) | 3.96 | 22 | 473 |
 | 897 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 402 |
