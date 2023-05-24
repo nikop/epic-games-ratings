@@ -11,11 +11,11 @@ Rating: 4.37 (Ranked 705)
 | Lord of War | 6.00% | ~82 |
 | It's Starting to Crack | 6.00% | ~82 |
 | Resourceful | 5.00% | ~68 |
-| Enemy at the Gates | 4.00% | ~54 |
-| Explosive Efficiency | 4.00% | ~54 |
-| Change the Channel | 4.00% | ~54 |
+| Enemy at the Gates | 4.00% | ~55 |
+| Organ Grinder | 4.00% | ~55 |
+| Explosive Efficiency | 4.00% | ~55 |
+| Change the Channel | 4.00% | ~55 |
 | Just a Flesh Wound | 3.00% | ~41 |
-| Organ Grinder | 3.00% | ~41 |
 | As Quiet as a Mouse | 3.00% | ~41 |
 | Taking it back | 3.00% | ~41 |
 | Liberté | 2.00% | ~27 |
@@ -37,7 +37,7 @@ Rating: 4.37 (Ranked 705)
 | No Stone Unturned | 0.90% | ~12 |
 | The Long Game | 0.90% | ~12 |
 | Brains of the Operation | 0.90% | ~12 |
-| My Little Friend | 0.60% | ~8 |
+| My Little Friend | 0.70% | ~10 |
 | It'll Buff Right Out | 0.50% | ~7 |
 | Operation Foxley | 0.50% | ~7 |
 | Strategist | 0.40% | ~5 |
@@ -77,7 +77,7 @@ Rating: 4.37 (Ranked 705)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,360 (Ranked 157)  
+Progressed: 1,365 (Ranked 157)  
 Completed: 2 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 2 (0.15%) (Ranked 148)
 | 2023-05-21 | 1,126 | 2 |
 | 2023-05-22 | 1,233 | 2 |
 | 2023-05-23 | 1,294 | 2 |
-| 2023-05-24 | 1,360 | 2 |
+| 2023-05-24 | 1,365 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "stellar-interface-d14cc4",
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-03-30T00:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 14,
+  "EOS_Progressed": 15,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -88,6 +88,11 @@
     {
       "Time": "2023-05-24T17:05:54.3968623+00:00",
       "NumProgressed": 14,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T23:06:53.1743438+00:00",
+      "NumProgressed": 15,
       "NumCompleted": 0
     }
   ],
@@ -466,7 +471,7 @@
       "ID": "CorvetteSpacecraftUnlockAchievement",
       "SetID": "a8djcgh",
       "Name": "The Vette",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -706,9 +711,9 @@
       "ID": "Killed100EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Killing Spree",
-      "Percentage": 43,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Killed10BossesAchievement",
@@ -722,9 +727,9 @@
       "ID": "Killed10EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "First Blood",
-      "Percentage": 71,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Killed20BossesAchievement",
@@ -762,7 +767,7 @@
       "ID": "Killed500EnemiesAchievement",
       "SetID": "a8djcgh",
       "Name": "Dominating",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -826,7 +831,7 @@
       "ID": "PerksUnlocked5Achievement",
       "SetID": "a8djcgh",
       "Name": "5Gb HDD",
-      "Percentage": 36,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -1082,7 +1087,7 @@
       "ID": "VisitMerchant1TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Merchant Prince I",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -1138,7 +1143,7 @@
       "ID": "VisitRegular10TimeAchievement",
       "SetID": "a8djcgh",
       "Name": "Fighting Fit I",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -1155,13 +1160,13 @@
     {
       "ID": "a8djcgh",
       "IsBase": true,
-      "Progressed": 14,
+      "Progressed": 15,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:03.1138071+00:00",
-  "LastChanged_Achievements": "2023-05-24T22:06:07.7319831+00:00",
+  "LastChanged_Achievements": "2023-05-24T23:06:53.1743432+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:23.5441273+00:00",
-  "LastUpdate_Ratings": "2023-05-24T21:58:33.8634823+00:00",
-  "LastUpdate_Achievements": "2023-05-24T22:06:07.7321421+00:00"
+  "LastUpdate_Ratings": "2023-05-24T22:59:07.990729+00:00",
+  "LastUpdate_Achievements": "2023-05-24T23:06:53.1744936+00:00"
 }

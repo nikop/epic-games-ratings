@@ -428,9 +428,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13521,
+  "EOS_Progressed": 13523,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 954,
+  "EOS_NewPlayers": 956,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1458,6 +1458,11 @@
       "Time": "2023-05-24T22:03:20.5537931+00:00",
       "NumProgressed": 13521,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-05-24T23:03:30.3403313+00:00",
+      "NumProgressed": 13523,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 40,
@@ -1491,9 +1496,9 @@
       "ID": "BUY_ALL_WEAPONS",
       "SetID": "4hj6d86",
       "Name": "You Need a Gun",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 54
+      "UsersEstimate": 68
     },
     {
       "ID": "DISARM_ENEMY",
@@ -1531,9 +1536,9 @@
       "ID": "FINISH_GAME",
       "SetID": "4hj6d86",
       "Name": "I Do Belong Here",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 41
+      "UsersEstimate": 54
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -1707,9 +1712,9 @@
       "ID": "STORY_SNOWCAT",
       "SetID": "4hj6d86",
       "Name": "Crash Site",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 108
     },
     {
       "ID": "STORY_TOWER",
@@ -1788,13 +1793,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13521,
+      "Progressed": 13523,
       "Completed": 52
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1447,
+      "Progressed": 1449,
       "Completed": 29
     }
   ],
@@ -1802,8 +1807,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-23T19:57:59.4143533+00:00",
-  "LastChanged_Achievements": "2023-05-24T22:03:20.5537922+00:00",
+  "LastChanged_Achievements": "2023-05-24T23:03:30.3403307+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-24T21:57:39.1016516+00:00",
-  "LastUpdate_Achievements": "2023-05-24T22:03:20.5538227+00:00"
+  "LastUpdate_Ratings": "2023-05-24T22:58:02.8280439+00:00",
+  "LastUpdate_Achievements": "2023-05-24T23:03:30.3403613+00:00"
 }

@@ -5,36 +5,36 @@ Rating: 3.77 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~351,597 |
-| Handy | 39.00% | ~180,425 |
-| Cold Caller | 38.00% | ~175,799 |
-| A Bit On The Side | 25.00% | ~115,657 |
-| Backdoor | 24.00% | ~111,031 |
-| Rank Amateur | 20.00% | ~92,526 |
-| Three Way | 17.00% | ~78,647 |
-| Deadly Assassin | 15.00% | ~69,394 |
-| Gutshot | 13.00% | ~60,142 |
-| Risk It For A Biscuit | 12.00% | ~55,515 |
-| Showoff | 12.00% | ~55,515 |
-| W.H.I.P. | 10.00% | ~46,263 |
-| Bet Bet Bet | 8.00% | ~37,010 |
-| Blindman's Bluff | 8.00% | ~37,010 |
-| Poker Joker | 8.00% | ~37,010 |
-| Never Give Up | 7.00% | ~32,384 |
-| Total Knock Out | 7.00% | ~32,384 |
-| Dog Eat Dog | 6.00% | ~27,758 |
-| Quack Quack | 6.00% | ~27,758 |
-| Give Your Regards To Broadway | 5.00% | ~23,131 |
-| The Bigger They Are | 5.00% | ~23,131 |
-| Check Yourself | 4.00% | ~18,505 |
-| In The Gang | 3.00% | ~13,879 |
-| Moneymaker | 3.00% | ~13,879 |
-| On The Button | 3.00% | ~13,879 |
+| Pro Creation | 76.00% | ~351,625 |
+| Handy | 39.00% | ~180,439 |
+| Cold Caller | 38.00% | ~175,813 |
+| A Bit On The Side | 25.00% | ~115,666 |
+| Backdoor | 24.00% | ~111,040 |
+| Rank Amateur | 20.00% | ~92,533 |
+| Three Way | 17.00% | ~78,653 |
+| Deadly Assassin | 15.00% | ~69,400 |
+| Gutshot | 13.00% | ~60,146 |
+| Risk It For A Biscuit | 12.00% | ~55,520 |
+| Showoff | 12.00% | ~55,520 |
+| W.H.I.P. | 10.00% | ~46,266 |
+| Bet Bet Bet | 8.00% | ~37,013 |
+| Blindman's Bluff | 8.00% | ~37,013 |
+| Poker Joker | 8.00% | ~37,013 |
+| Never Give Up | 7.00% | ~32,387 |
+| Total Knock Out | 7.00% | ~32,387 |
+| Dog Eat Dog | 6.00% | ~27,760 |
+| Quack Quack | 6.00% | ~27,760 |
+| Give Your Regards To Broadway | 5.00% | ~23,133 |
+| The Bigger They Are | 5.00% | ~23,133 |
+| Check Yourself | 4.00% | ~18,507 |
+| In The Gang | 3.00% | ~13,880 |
+| Moneymaker | 3.00% | ~13,880 |
+| On The Button | 3.00% | ~13,880 |
 | Before You Wreck Yourself | 2.00% | ~9,253 |
 | Keep Your Heads Up | 2.00% | ~9,253 |
 | Bluffing Eh? | 0.90% | ~4,164 |
 | Holding Your Own | 0.90% | ~4,164 |
-| Go For It | 0.70% | ~3,238 |
+| Go For It | 0.70% | ~3,239 |
 | Regular Punter | 0.60% | ~2,776 |
 | How I Roll | 0.40% | ~1,851 |
 | Club Legend | 0.30% | ~1,388 |
@@ -51,7 +51,7 @@ Rating: 3.77 (Ranked 917)
 | Top Dog | 0.10% | ~463 |
 | Poker Ace | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 462,628 (Ranked 29)  
+Progressed: 462,665 (Ranked 29)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-21 | 459,032 | 0 |
 | 2023-05-22 | 460,298 | 0 |
 | 2023-05-23 | 461,512 | 0 |
-| 2023-05-24 | 462,628 | 0 |
+| 2023-05-24 | 462,665 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

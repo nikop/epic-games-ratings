@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1360,
+  "EOS_Progressed": 1365,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 632,
+  "EOS_NewPlayers": 637,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1290,6 +1290,11 @@
       "Time": "2023-05-24T22:05:37.2556854+00:00",
       "NumProgressed": 1360,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-24T23:06:18.8433411+00:00",
+      "NumProgressed": 1365,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1341,7 +1346,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -1363,9 +1368,9 @@
       "ID": "REWARD_18_ORGAN_GRINDER",
       "SetID": "bm6el81",
       "Name": "Organ Grinder",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 55
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -1491,9 +1496,9 @@
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
       "SetID": "bm6el81",
       "Name": "My Little Friend",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -1501,7 +1506,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -1637,7 +1642,7 @@
       "Name": "Change the Channel",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -1868,13 +1873,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1311,
+      "Progressed": 1316,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1360,
+      "Progressed": 1365,
       "Completed": 2
     }
   ],
@@ -1882,8 +1887,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-24T14:00:16.736359+00:00",
-  "LastChanged_Achievements": "2023-05-24T22:05:37.2556849+00:00",
+  "LastChanged_Achievements": "2023-05-24T23:06:18.8433406+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-24T22:00:23.6384828+00:00",
-  "LastUpdate_Achievements": "2023-05-24T22:05:37.2557457+00:00"
+  "LastUpdate_Ratings": "2023-05-24T23:01:09.8484926+00:00",
+  "LastUpdate_Achievements": "2023-05-24T23:06:18.8434027+00:00"
 }

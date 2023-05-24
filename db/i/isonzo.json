@@ -562,9 +562,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5827,
+  "EOS_Progressed": 5828,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1392,6 +1392,11 @@
       "Time": "2023-05-24T20:06:22.6303945+00:00",
       "NumProgressed": 5827,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-24T23:06:20.4327455+00:00",
+      "NumProgressed": 5828,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -1419,7 +1424,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 2680
+      "UsersEstimate": 2681
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -1451,7 +1456,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 2039
+      "UsersEstimate": 2040
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -1467,7 +1472,7 @@
       "Name": "Decimation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -1491,7 +1496,7 @@
       "Name": "Donatello",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1165
+      "UsersEstimate": 1166
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -1539,7 +1544,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -1579,7 +1584,7 @@
       "Name": "Millenial",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -1731,7 +1736,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3088
+      "UsersEstimate": 3089
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -1755,14 +1760,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 3030
+      "UsersEstimate": 3031
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5827,
+      "Progressed": 5828,
       "Completed": 8
     }
   ],
@@ -1770,8 +1775,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-24T13:03:28.3990064+00:00",
-  "LastChanged_Achievements": "2023-05-24T22:05:38.647422+00:00",
+  "LastChanged_Achievements": "2023-05-24T23:06:20.432745+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:10.2290416+00:00",
-  "LastUpdate_Ratings": "2023-05-24T21:57:10.2506224+00:00",
-  "LastUpdate_Achievements": "2023-05-24T22:05:38.6474542+00:00"
+  "LastUpdate_Ratings": "2023-05-24T22:57:29.6959534+00:00",
+  "LastUpdate_Achievements": "2023-05-24T23:06:20.4327824+00:00"
 }

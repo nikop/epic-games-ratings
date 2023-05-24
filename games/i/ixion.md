@@ -16,23 +16,23 @@ Rating: 4.55 (Ranked 467)
 | Breaking Protocol | 3.00% | ~64 |
 | Permanent Redesigns | 3.00% | ~64 |
 | Ain't Nobody Got Time for That | 3.00% | ~64 |
+| The Ship of Theseus | 3.00% | ~64 |
 | Hope Seeker | 3.00% | ~64 |
 | A Hunk of Junk | 2.00% | ~43 |
 | Exceeding Capacity | 2.00% | ~43 |
-| Power Outage | 2.00% | ~43 |
 | Fully Recycled | 2.00% | ~43 |
 | Please Make it Stop! | 2.00% | ~43 |
-| The Ship of Theseus | 2.00% | ~43 |
 | Man's Best Friend | 1.00% | ~21 |
 | Sightseeing | 1.00% | ~21 |
+| Power Outage | 1.00% | ~21 |
 | Access Granted | 1.00% | ~21 |
 | Necessary Enhancement | 1.00% | ~21 |
 | Convenient Transport | 1.00% | ~21 |
 | From the Past | 1.00% | ~21 |
 | Oats | 0.80% | ~17 |
-| In Dolos We Trust | 0.80% | ~17 |
-| BRAWL! | 0.80% | ~17 |
-| All in Good Health | 0.80% | ~17 |
+| In Dolos We Trust | 0.70% | ~15 |
+| BRAWL! | 0.70% | ~15 |
+| All in Good Health | 0.70% | ~15 |
 | Pulsar Disciple | 0.70% | ~15 |
 | What They Hide From Us | 0.60% | ~13 |
 | ...  in a finite world | 0.60% | ~13 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 467)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,133 (Ranked 142)  
+Progressed: 2,134 (Ranked 142)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-21 | 2,063 | 0 |
 | 2023-05-22 | 2,083 | 0 |
 | 2023-05-23 | 2,115 | 0 |
-| 2023-05-24 | 2,133 | 0 |
+| 2023-05-24 | 2,134 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

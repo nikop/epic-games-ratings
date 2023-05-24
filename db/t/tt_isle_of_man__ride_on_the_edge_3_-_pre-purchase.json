@@ -328,9 +328,9 @@
       "ID": "ACHIEVEMENT_11",
       "SetID": "gagif7",
       "Name": "Geek",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -567,8 +567,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-05-24T22:02:23.3373965+00:00",
+  "LastChanged_Achievements": "2023-05-24T23:01:58.3002398+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:05.2189133+00:00",
-  "LastUpdate_Ratings": "2023-05-24T21:57:22.6774253+00:00",
-  "LastUpdate_Achievements": "2023-05-24T22:02:23.3374218+00:00"
+  "LastUpdate_Ratings": "2023-05-24T22:57:44.6893786+00:00",
+  "LastUpdate_Achievements": "2023-05-24T23:01:58.3002657+00:00"
 }

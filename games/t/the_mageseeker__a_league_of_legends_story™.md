@@ -5,21 +5,21 @@ Rating: 4.78 (Ranked 100)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,024 |
+| For Demacia | 95.00% | ~2,025 |
 | No more cages! | 92.00% | ~1,961 |
-| Everfrost | 77.00% | ~1,641 |
-| Pentakill | 76.00% | ~1,620 |
+| Everfrost | 77.00% | ~1,642 |
 | Dark Forest | 76.00% | ~1,620 |
-| The use of petricite | 72.00% | ~1,534 |
+| Pentakill | 75.00% | ~1,599 |
+| The use of petricite | 72.00% | ~1,535 |
 | You can pet the dog | 60.00% | ~1,279 |
 | Big Helmet Bro | 34.00% | ~725 |
 | Clarion Cove | 34.00% | ~725 |
-| Past trauma | 33.00% | ~703 |
+| Past trauma | 33.00% | ~704 |
 | Thornbarrow | 32.00% | ~682 |
 | Ternmoat Headquarters | 32.00% | ~682 |
 | Elemental master | 31.00% | ~661 |
 | Cypress Glen Headquarters | 31.00% | ~661 |
-| Petricite Burst | 27.00% | ~575 |
+| Petricite Burst | 27.00% | ~576 |
 | Old friend | 26.00% | ~554 |
 | Devineur | 26.00% | ~554 |
 | Whispers in the Woods I | 25.00% | ~533 |
@@ -43,23 +43,23 @@ Rating: 4.78 (Ranked 100)
 | The Central Headquarters | 13.00% | ~277 |
 | My heart and sword always for Demacia | 12.00% | ~256 |
 | Cloven Dell Headquarters | 12.00% | ~256 |
-| Whispers in the Woods IV | 11.00% | ~234 |
+| Whispers in the Woods IV | 11.00% | ~235 |
 | Embrace the darkness | 10.00% | ~213 |
 | I smell fear | 10.00% | ~213 |
 | The end of the experiments | 9.00% | ~192 |
 | The Great City of Demacia | 9.00% | ~192 |
 | Back to sleep, then... | 9.00% | ~192 |
 | Call it 'redistribution of magic | 9.00% | ~192 |
-| Do you trust me? | 8.00% | ~170 |
-| Chains master | 8.00% | ~170 |
-| Truth is a dark mirror | 8.00% | ~170 |
-| You can pet the... horse | 8.00% | ~170 |
+| Do you trust me? | 8.00% | ~171 |
+| Chains master | 8.00% | ~171 |
+| Truth is a dark mirror | 8.00% | ~171 |
+| You can pet the... horse | 8.00% | ~171 |
 | The great mage rebellion starts now | 7.00% | ~149 |
 | Spellcrafting | 7.00% | ~149 |
 | Silverwing nest | 2.00% | ~43 |
 | The Unshackled | 0.60% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,131 (Ranked 143)  
+Progressed: 2,132 (Ranked 143)  
 Completed: 1 (0.05%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 1 (0.05%) (Ranked 174)
 | 2023-05-21 | 2,090 | 1 |
 | 2023-05-22 | 2,111 | 1 |
 | 2023-05-23 | 2,119 | 1 |
-| 2023-05-24 | 2,131 | 1 |
+| 2023-05-24 | 2,132 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -20,8 +20,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 58.00% | ~6,598 |
 | Good | 57.00% | ~6,484 |
 | Just | 55.00% | ~6,257 |
+| Keystone | 55.00% | ~6,257 |
 | Judaism | 55.00% | ~6,257 |
-| Keystone | 54.00% | ~6,143 |
 | Glorious | 53.00% | ~6,029 |
 | Trade Caravan | 52.00% | ~5,916 |
 | Zoroastrianism | 50.00% | ~5,688 |

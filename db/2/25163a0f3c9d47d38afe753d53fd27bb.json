@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -667,9 +667,9 @@
       "ID": "LEVEL_015",
       "SetID": "212bg48",
       "Name": "Flatland",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 41
     },
     {
       "ID": "LEVEL_016",
@@ -802,8 +802,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-24T22:03:10.9286311+00:00",
+  "LastChanged_Achievements": "2023-05-24T23:03:19.2303595+00:00",
   "LastUpdate_AppInfo": "2023-05-22T13:02:13.5547551+00:00",
-  "LastUpdate_Ratings": "2023-05-24T21:56:54.063562+00:00",
-  "LastUpdate_Achievements": "2023-05-24T22:03:10.9286501+00:00"
+  "LastUpdate_Ratings": "2023-05-24T22:57:08.6081303+00:00",
+  "LastUpdate_Achievements": "2023-05-24T23:03:19.2303801+00:00"
 }

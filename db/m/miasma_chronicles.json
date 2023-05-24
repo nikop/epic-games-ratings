@@ -2,9 +2,9 @@
   "ID": "632b8c18774d480d978cb116518cd06b",
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
-  "Ranking_EOS_Progress": 214,
+  "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 295,
+  "EOS_Progressed": 299,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 293,
+  "EOS_NewPlayers": 297,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -182,6 +182,11 @@
       "Time": "2023-05-24T22:05:25.1257312+00:00",
       "NumProgressed": 295,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T23:06:05.9705997+00:00",
+      "NumProgressed": 299,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -207,9 +212,9 @@
       "ID": "ASPIRING_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Aspiring Editor",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 150
     },
     {
       "ID": "ATTENBOROUGH",
@@ -247,9 +252,9 @@
       "ID": "CHAIN_REACTION",
       "SetID": "9a4jnji",
       "Name": "Chain Reaction",
-      "Percentage": 0.3,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CHAOS_THEORY",
@@ -335,9 +340,9 @@
       "ID": "EDITOR_ADEPT",
       "SetID": "9a4jnji",
       "Name": "Editor Adept",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "ENDGAME",
@@ -367,9 +372,9 @@
       "ID": "FIRESTARTER",
       "SetID": "9a4jnji",
       "Name": "Firestarter",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     },
     {
       "ID": "FIRST_BLOOD",
@@ -377,7 +382,7 @@
       "Name": "First Blood",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 263
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -399,9 +404,9 @@
       "ID": "FROM_DARKNESS",
       "SetID": "9a4jnji",
       "Name": "From Darkness to Light",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "GIANT_KILLER",
@@ -425,7 +430,7 @@
       "Name": "Gun for Hire",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 126
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -441,7 +446,7 @@
       "Name": "I am the law!",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "INFILTRATOR",
@@ -455,9 +460,9 @@
       "ID": "LUMBERJACK",
       "SetID": "9a4jnji",
       "Name": "Lumberjack",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -495,9 +500,9 @@
       "ID": "RANIDAPHOBIA",
       "SetID": "9a4jnji",
       "Name": "Ranidaphobia",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 167
     },
     {
       "ID": "RECYCLER",
@@ -600,14 +605,14 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 295,
+      "Progressed": 299,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T20:58:17.8341975+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
-  "LastChanged_Achievements": "2023-05-24T22:05:25.1257307+00:00",
+  "LastChanged_Achievements": "2023-05-24T23:06:05.9705992+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:53.8503835+00:00",
-  "LastUpdate_Ratings": "2023-05-24T21:58:08.4949982+00:00",
-  "LastUpdate_Achievements": "2023-05-24T22:05:25.1257896+00:00"
+  "LastUpdate_Ratings": "2023-05-24T22:58:38.8312002+00:00",
+  "LastUpdate_Achievements": "2023-05-24T23:06:05.9706338+00:00"
 }

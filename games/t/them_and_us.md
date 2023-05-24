@@ -18,11 +18,11 @@
 | Parasite Exterminated | 10.00% | ~12 |
 | The Forgotten Tower | 9.00% | ~11 |
 | Rest In Peace | 8.00% | ~10 |
+| Modern Player | 7.00% | ~8 |
 | The Curse Is Real | 7.00% | ~8 |
 | Trapped | 7.00% | ~8 |
 | What A Mansion | 7.00% | ~8 |
 | Lover of classics | 6.00% | ~7 |
-| Modern Player | 6.00% | ~7 |
 | Researcher | 5.00% | ~6 |
 | I Am The Gate Keeper! | 5.00% | ~6 |
 | The bus stop | 4.00% | ~5 |

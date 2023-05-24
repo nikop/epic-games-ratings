@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 199,
+  "EOS_Progressed": 201,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -809,6 +809,11 @@
       "Time": "2023-05-24T19:05:54.6020435+00:00",
       "NumProgressed": 199,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T23:06:24.2540455+00:00",
+      "NumProgressed": 201,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -874,9 +879,9 @@
       "ID": "CleanRestaurantDays10",
       "SetID": "d1bm05f",
       "Name": "So Clean You Can Eat Off the Floor",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "Clothes10",
@@ -890,9 +895,9 @@
       "ID": "CustomDressing20",
       "SetID": "d1bm05f",
       "Name": "Perfectionist",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "DilemasResponsibility10",
@@ -978,17 +983,17 @@
       "ID": "MenuGastronomic",
       "SetID": "d1bm05f",
       "Name": "Haute Cuisine",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "Money10000",
       "SetID": "d1bm05f",
       "Name": "Rolling in Dough",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 6
     },
     {
       "ID": "OpenRestaurant",
@@ -996,7 +1001,7 @@
       "Name": "The Big Day",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 139
     },
     {
       "ID": "Packing20",
@@ -1042,9 +1047,9 @@
       "ID": "SDishes50",
       "SetID": "d1bm05f",
       "Name": "S is for Scrumptious",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "ServiceMaxClient",
@@ -1082,9 +1087,9 @@
       "ID": "TrattoriaSet",
       "SetID": "d1bm05f",
       "Name": "Italian Style",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "UnlockAssiette",
@@ -1114,9 +1119,9 @@
       "ID": "VerticalCustomDressing",
       "SetID": "d1bm05f",
       "Name": "Leaning Tower of Pizza",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "WholeBeefDishesMenu",
@@ -1130,16 +1135,16 @@
       "ID": "WorkStation10",
       "SetID": "d1bm05f",
       "Name": "Well-Stocked Kitchen",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     }
   ],
   "AchievementSets": [
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 199,
+      "Progressed": 201,
       "Completed": 0
     }
   ],
@@ -1147,8 +1152,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-24T22:05:41.9847717+00:00",
+  "LastChanged_Achievements": "2023-05-24T23:06:24.2540449+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.318416+00:00",
-  "LastUpdate_Ratings": "2023-05-24T21:58:13.8187138+00:00",
-  "LastUpdate_Achievements": "2023-05-24T22:05:41.9847994+00:00"
+  "LastUpdate_Ratings": "2023-05-24T22:58:43.7924119+00:00",
+  "LastUpdate_Achievements": "2023-05-24T23:06:24.254074+00:00"
 }
