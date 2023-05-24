@@ -18,7 +18,7 @@
 | 16 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.12% |
 | 18 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.85% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.84% |
 | 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.78% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
 | 22 | [Scorn](games/s/scorn.md) | 6.88% |
@@ -31,9 +31,9 @@
 | 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.12% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.85% |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
-| 32 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.43% |
-| 33 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.35% |
-| 34 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.26% |
+| 32 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.40% |
+| 33 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.26% |
+| 33 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.26% |
 | 35 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.97% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
 | 37 | [Doodle God](games/d/doodle_god.md) | 3.90% |
@@ -53,7 +53,7 @@
 | 51 | [Bunny Park](games/b/bunny_park.md) | 2.85% |
 | 52 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 53 | [FORECLOSED](games/f/foreclosed.md) | 2.60% |
-| 53 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.60% |
+| 54 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.56% |
 | 55 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.53% |
 | 56 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.50% |
 | 56 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
