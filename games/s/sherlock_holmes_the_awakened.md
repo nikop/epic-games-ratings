@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Hell In A Handcart | 68.00% | ~151 |
+| To Hell In A Handcart | 69.00% | ~153 |
 | Read Between The Lines | 64.00% | ~142 |
-| High Profile | 60.00% | ~133 |
+| High Profile | 61.00% | ~135 |
 | Whispers In The Dark | 58.00% | ~129 |
 | Fond Memories | 50.00% | ~111 |
 | History Check | 48.00% | ~107 |
@@ -24,7 +24,7 @@
 | Bookworm | 37.00% | ~82 |
 | Up In Flames | 36.00% | ~80 |
 | Fhtagn! | 36.00% | ~80 |
-| Going Once... | 34.00% | ~75 |
+| Going Once... | 35.00% | ~78 |
 | Brain Food | 33.00% | ~73 |
 | Let Me Be Frank | 32.00% | ~71 |
 | No Stone Unturned | 30.00% | ~67 |

@@ -34,9 +34,9 @@ Rating: 4.77 (Ranked 105)
 | Full equipped | 17.00% | ~361 |
 | Whispers in the Woods II | 15.00% | ~319 |
 | Quickmoore Headquarters | 15.00% | ~319 |
+| Whispers in the Woods III | 14.00% | ~298 |
 | No more holding back | 14.00% | ~298 |
 | Terbisia | 14.00% | ~298 |
-| Whispers in the Woods III | 13.00% | ~276 |
 | Friendly fire | 13.00% | ~276 |
 | True power | 13.00% | ~276 |
 | Meltridge | 13.00% | ~276 |

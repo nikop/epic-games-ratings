@@ -1,13 +1,13 @@
 # Runbow
 [Store](https://store.epicgames.com/en-US/p/runbow-fc9fa4)  
 [View Rawdata](../../db/r/runbow.json)  
-Rating: 4.46 (Ranked 595)  
+Rating: 4.46 (Ranked 596)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~129,055 |
-| My First Runbow | 51.00% | ~124,185 |
-| It's The Fall | 26.00% | ~63,310 |
+| In The Zone | 53.00% | ~129,056 |
+| My First Runbow | 51.00% | ~124,186 |
+| It's The Fall | 26.00% | ~63,311 |
 | The Stunner | 21.00% | ~51,135 |
 | Be Aggressive | 20.00% | ~48,700 |
 | Curator | 20.00% | ~48,700 |
@@ -31,10 +31,10 @@ Rating: 4.46 (Ranked 595)
 | Tubular, Dude | 0.90% | ~2,192 |
 | What A Trip | 0.90% | ~2,192 |
 | Please The King | 0.80% | ~1,948 |
-| Here We Go! | 0.70% | ~1,704 |
+| Here We Go! | 0.70% | ~1,705 |
 | Clear-Cut | 0.50% | ~1,218 |
 | Breaking Out | 0.40% | ~974 |
-| Disposable | 0.30% | ~730 |
+| Disposable | 0.30% | ~731 |
 | A Winner Is You | 0.20% | ~487 |
 | Final Nightmare | 0.20% | ~487 |
 | I'm Here All Night | 0.20% | ~487 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 595)
 | Talent Scout | 0.10% | ~244 |
 | True Completionist | 0.10% | ~244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,500 (Ranked 40)  
+Progressed: 243,502 (Ranked 40)  
 Completed: 2 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 2 (0.00%) (Ranked 202)
 | 2023-05-21 | 243,401 | 2 |
 | 2023-05-22 | 243,440 | 2 |
 | 2023-05-23 | 243,475 | 2 |
-| 2023-05-24 | 243,500 | 2 |
+| 2023-05-24 | 243,502 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

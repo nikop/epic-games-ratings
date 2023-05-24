@@ -428,9 +428,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13497,
+  "EOS_Progressed": 13500,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 930,
+  "EOS_NewPlayers": 933,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1428,6 +1428,11 @@
       "Time": "2023-05-24T16:02:32.0572827+00:00",
       "NumProgressed": 13497,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-05-24T17:03:23.3216437+00:00",
+      "NumProgressed": 13500,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 40,
@@ -1439,7 +1444,7 @@
       "Name": "It\u0027s over, Jacob!",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ALL_WEAPONS_AND_UPGRADES",
@@ -1511,7 +1516,7 @@
       "Name": "The Protocol is About Life",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "FINISH_GAME_HARDCORE",
@@ -1557,9 +1562,9 @@
       "ID": "KILL_2HEAD",
       "SetID": "4hj6d86",
       "Name": "Two Heads Are Better Than One",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 81
+      "UsersEstimate": 94
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -1647,7 +1652,7 @@
       "Name": "Without A Paddle",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "STORY_HANGAR",
@@ -1751,20 +1756,20 @@
       "Name": "Big Spender",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     }
   ],
   "AchievementSets": [
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13497,
+      "Progressed": 13500,
       "Completed": 52
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1423,
+      "Progressed": 1426,
       "Completed": 29
     }
   ],
@@ -1772,8 +1777,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-23T19:57:59.4143533+00:00",
-  "LastChanged_Achievements": "2023-05-24T16:02:32.0572823+00:00",
+  "LastChanged_Achievements": "2023-05-24T17:03:23.3216432+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-24T15:57:34.197005+00:00",
-  "LastUpdate_Achievements": "2023-05-24T16:02:32.0573187+00:00"
+  "LastUpdate_Ratings": "2023-05-24T16:57:33.8791426+00:00",
+  "LastUpdate_Achievements": "2023-05-24T17:03:23.3216812+00:00"
 }

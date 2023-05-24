@@ -6,7 +6,7 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 51.00% | ~1,049 |
+| You're free now! | 51.00% | ~1,050 |
 | Keeping it classy | 25.00% | ~514 |
 | Welcome to the family | 18.00% | ~370 |
 | The finer things in life | 17.00% | ~350 |
@@ -33,7 +33,6 @@ Number of Ratings: 111  (23.09.2022)
 | Commence the Hijinx! | 4.00% | ~82 |
 | Cops called! | 4.00% | ~82 |
 | DIY Boss | 4.00% | ~82 |
-| G.O.A.T. status | 4.00% | ~82 |
 | Laid back | 4.00% | ~82 |
 | Lines for days | 4.00% | ~82 |
 | Manny Destroys All | 4.00% | ~82 |
@@ -41,6 +40,7 @@ Number of Ratings: 111  (23.09.2022)
 | Renaissance man | 4.00% | ~82 |
 | Tank commander | 4.00% | ~82 |
 | Trick shot marksman | 4.00% | ~82 |
+| G.O.A.T. status | 3.00% | ~62 |
 | Hoarder | 3.00% | ~62 |
 | We get it, you're good | 3.00% | ~62 |
 | Cross lock country | 2.00% | ~41 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,057 (Ranked 145)  
+Progressed: 2,058 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-21 | 2,024 | 0 |
 | 2023-05-22 | 2,040 | 0 |
 | 2023-05-23 | 2,052 | 0 |
-| 2023-05-24 | 2,057 | 0 |
+| 2023-05-24 | 2,058 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 393)  
 Sum: 414 (Ranked 300)  

@@ -6,7 +6,7 @@ Number of Ratings: 75  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 49.00% | ~2,364 |
+| Level: Returning Home | 49.00% | ~2,365 |
 | Returning Home: Quick Learner | 25.00% | ~1,206 |
 | Level: Charlie's Circuits | 22.00% | ~1,062 |
 | Level: Rising Markets | 9.00% | ~434 |
@@ -24,17 +24,17 @@ Number of Ratings: 75  (23.09.2022)
 | Campaign: Lesson Learned | 3.00% | ~145 |
 | Level: Bet On Bots | 3.00% | ~145 |
 | Modular Performance | 3.00% | ~145 |
-| Level: Merry-Go-Around | 2.00% | ~96 |
-| Charlies's Circuits: Artist | 2.00% | ~96 |
-| Modular Peak | 2.00% | ~96 |
-| Accountant | 2.00% | ~96 |
-| Data Churn Type III | 2.00% | ~96 |
-| Multi-Millionaire | 2.00% | ~96 |
-| Contender | 2.00% | ~96 |
-| Trophy Collector | 2.00% | ~96 |
-| Module Maniac | 2.00% | ~96 |
-| Overproducer | 2.00% | ~96 |
-| Natural Talent | 2.00% | ~96 |
+| Level: Merry-Go-Around | 2.00% | ~97 |
+| Charlies's Circuits: Artist | 2.00% | ~97 |
+| Modular Peak | 2.00% | ~97 |
+| Accountant | 2.00% | ~97 |
+| Data Churn Type III | 2.00% | ~97 |
+| Multi-Millionaire | 2.00% | ~97 |
+| Contender | 2.00% | ~97 |
+| Trophy Collector | 2.00% | ~97 |
+| Module Maniac | 2.00% | ~97 |
+| Overproducer | 2.00% | ~97 |
+| Natural Talent | 2.00% | ~97 |
 | Level: A Happy Taskforce | 1.00% | ~48 |
 | Level: The Machinery | 1.00% | ~48 |
 | Extra Life: Knowledge Cap | 1.00% | ~48 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,825 (Ranked 125)  
+Progressed: 4,826 (Ranked 125)  
 Completed: 1 (0.02%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 1 (0.02%) (Ranked 187)
 | 2023-05-21 | 4,807 | 1 |
 | 2023-05-22 | 4,812 | 1 |
 | 2023-05-23 | 4,821 | 1 |
-| 2023-05-24 | 4,825 | 1 |
+| 2023-05-24 | 4,826 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

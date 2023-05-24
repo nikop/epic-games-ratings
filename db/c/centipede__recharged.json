@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 104,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -290,7 +290,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13875,
+  "EOS_Progressed": 13876,
   "EOS_Completed": 83,
   "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 1,
@@ -2840,6 +2840,11 @@
       "Time": "2023-05-24T16:00:20.4634975+00:00",
       "NumProgressed": 13875,
       "NumCompleted": 83
+    },
+    {
+      "Time": "2023-05-24T17:02:20.6662738+00:00",
+      "NumProgressed": 13876,
+      "NumCompleted": 83
     }
   ],
   "TotalAchievements": 16,
@@ -2923,7 +2928,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 5966
+      "UsersEstimate": 5967
     },
     {
       "ID": "Mirrors",
@@ -2947,7 +2952,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 7076
+      "UsersEstimate": 7077
     },
     {
       "ID": "Sole_Survivor",
@@ -2978,15 +2983,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 13875,
+      "Progressed": 13876,
       "Completed": 83
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-10T20:58:58.4288263+00:00",
-  "LastChanged_Achievements": "2023-05-24T16:00:20.463497+00:00",
+  "LastChanged_Achievements": "2023-05-24T17:02:20.6662731+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:20.131205+00:00",
-  "LastUpdate_Ratings": "2023-05-24T15:58:32.4386933+00:00",
-  "LastUpdate_Achievements": "2023-05-24T16:00:20.4635243+00:00"
+  "LastUpdate_Ratings": "2023-05-24T16:58:36.5314761+00:00",
+  "LastUpdate_Achievements": "2023-05-24T17:02:20.6663026+00:00"
 }

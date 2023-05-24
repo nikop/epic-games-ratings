@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1344,
+  "EOS_Progressed": 1348,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 618,
+  "EOS_NewPlayers": 621,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1265,6 +1265,11 @@
       "Time": "2023-05-24T16:04:58.21876+00:00",
       "NumProgressed": 1344,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-24T17:05:25.6334552+00:00",
+      "NumProgressed": 1348,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1274,9 +1279,9 @@
       "ID": "REWARD_10_CLIMBING_THE_LADDER",
       "SetID": "bm6el81",
       "Name": "Climbing the Ladder",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -1298,9 +1303,9 @@
       "ID": "REWARD_13_OPTIONAL_TASK",
       "SetID": "bm6el81",
       "Name": "No Stone Unturned",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -1356,7 +1361,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1458,9 +1463,9 @@
       "ID": "REWARD_32_RIGGED_BLOW",
       "SetID": "bm6el81",
       "Name": "Rigged to Blow",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -1586,9 +1591,9 @@
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
       "SetID": "bm6el81",
       "Name": "It\u0027s Starting to Crack",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 81
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -1843,13 +1848,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1295,
+      "Progressed": 1299,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1344,
+      "Progressed": 1348,
       "Completed": 2
     }
   ],
@@ -1857,8 +1862,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-24T14:00:16.736359+00:00",
-  "LastChanged_Achievements": "2023-05-24T16:04:58.2187597+00:00",
+  "LastChanged_Achievements": "2023-05-24T17:05:25.6334547+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-24T15:59:47.3058341+00:00",
-  "LastUpdate_Achievements": "2023-05-24T16:04:58.2188304+00:00"
+  "LastUpdate_Ratings": "2023-05-24T16:59:54.828069+00:00",
+  "LastUpdate_Achievements": "2023-05-24T17:05:25.6335201+00:00"
 }

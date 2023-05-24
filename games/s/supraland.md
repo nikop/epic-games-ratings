@@ -6,56 +6,56 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~699,758 |
-| The Blues | 85.00% | ~600,802 |
-| Fast | 66.00% | ~466,505 |
-| Healthbar | 55.00% | ~388,754 |
-| Force Cube | 52.00% | ~367,550 |
-| Double Jump | 48.00% | ~339,276 |
-| Regeneration | 47.00% | ~332,208 |
-| Climb the hill | 42.00% | ~296,867 |
-| Triple Jump | 42.00% | ~296,867 |
-| Through the fire pipe | 38.00% | ~268,594 |
-| MacGuffin | 37.00% | ~261,526 |
-| Just once | 36.00% | ~254,457 |
-| Armor | 30.00% | ~212,048 |
-| True holy spirit | 27.00% | ~190,843 |
-| That's how electronics work obviously | 26.00% | ~183,775 |
-| Force Cube Catapult | 25.00% | ~176,706 |
-| Holy Sword | 23.00% | ~162,570 |
-| Telefrag | 22.00% | ~155,502 |
-| Freed from prison | 21.00% | ~148,433 |
-| Stomp | 21.00% | ~148,433 |
-| Double Health | 18.00% | ~127,229 |
-| Buckle | 17.00% | ~120,160 |
-| Green Keycard | 17.00% | ~120,160 |
-| Rattle Hag | 15.00% | ~106,024 |
-| All Shells | 14.00% | ~98,956 |
-| Beam | 14.00% | ~98,956 |
-| 9 | 13.00% | ~91,887 |
-| Purple Cube | 13.00% | ~91,887 |
-| Supraball Noob | 13.00% | ~91,887 |
-| Health Drink | 12.00% | ~84,819 |
-| Helped a star | 12.00% | ~84,819 |
-| Strong | 12.00% | ~84,819 |
-| Blue King's lair | 11.00% | ~77,751 |
-| Infiltrated | 11.00% | ~77,751 |
-| Robbed | 11.00% | ~77,751 |
-| Payback | 10.00% | ~70,683 |
-| Got the coins back | 10.00% | ~70,683 |
-| Cave Flies | 10.00% | ~70,683 |
-| Gold Scam | 10.00% | ~70,683 |
-| Gold Scam Uncovered | 10.00% | ~70,683 |
-| Got the gun back | 10.00% | ~70,683 |
-| Translocator | 10.00% | ~70,683 |
-| Yellow Shot Button | 10.00% | ~70,683 |
-| Fire Flies | 9.00% | ~63,614 |
-| Moon Door | 9.00% | ~63,614 |
-| Momentum | 9.00% | ~63,614 |
-| Panic Lights | 9.00% | ~63,614 |
-| Through the tiny pipe | 8.00% | ~56,546 |
-| Win! | 8.00% | ~56,546 |
-| The real real teleported man | 7.00% | ~49,478 |
+| Out of bed | 99.00% | ~699,773 |
+| The Blues | 85.00% | ~600,815 |
+| Fast | 66.00% | ~466,515 |
+| Healthbar | 55.00% | ~388,763 |
+| Force Cube | 52.00% | ~367,557 |
+| Double Jump | 48.00% | ~339,284 |
+| Regeneration | 47.00% | ~332,215 |
+| Climb the hill | 42.00% | ~296,873 |
+| Triple Jump | 42.00% | ~296,873 |
+| Through the fire pipe | 38.00% | ~268,600 |
+| MacGuffin | 37.00% | ~261,531 |
+| Just once | 36.00% | ~254,463 |
+| Armor | 30.00% | ~212,052 |
+| True holy spirit | 27.00% | ~190,847 |
+| That's how electronics work obviously | 26.00% | ~183,779 |
+| Force Cube Catapult | 25.00% | ~176,710 |
+| Holy Sword | 23.00% | ~162,573 |
+| Telefrag | 22.00% | ~155,505 |
+| Freed from prison | 21.00% | ~148,437 |
+| Stomp | 21.00% | ~148,437 |
+| Double Health | 18.00% | ~127,231 |
+| Buckle | 17.00% | ~120,163 |
+| Green Keycard | 17.00% | ~120,163 |
+| Rattle Hag | 15.00% | ~106,026 |
+| All Shells | 14.00% | ~98,958 |
+| Beam | 14.00% | ~98,958 |
+| 9 | 13.00% | ~91,889 |
+| Purple Cube | 13.00% | ~91,889 |
+| Supraball Noob | 13.00% | ~91,889 |
+| Health Drink | 12.00% | ~84,821 |
+| Helped a star | 12.00% | ~84,821 |
+| Strong | 12.00% | ~84,821 |
+| Blue King's lair | 11.00% | ~77,753 |
+| Infiltrated | 11.00% | ~77,753 |
+| Robbed | 11.00% | ~77,753 |
+| Payback | 10.00% | ~70,684 |
+| Got the coins back | 10.00% | ~70,684 |
+| Cave Flies | 10.00% | ~70,684 |
+| Gold Scam | 10.00% | ~70,684 |
+| Gold Scam Uncovered | 10.00% | ~70,684 |
+| Got the gun back | 10.00% | ~70,684 |
+| Translocator | 10.00% | ~70,684 |
+| Yellow Shot Button | 10.00% | ~70,684 |
+| Fire Flies | 9.00% | ~63,616 |
+| Moon Door | 9.00% | ~63,616 |
+| Momentum | 9.00% | ~63,616 |
+| Panic Lights | 9.00% | ~63,616 |
+| Through the tiny pipe | 8.00% | ~56,547 |
+| Win! | 8.00% | ~56,547 |
+| The real real teleported man | 7.00% | ~49,479 |
 | Well deserved | 6.00% | ~42,410 |
 | Happiness | 3.00% | ~21,205 |
 | Super Sword | 3.00% | ~21,205 |
@@ -92,12 +92,12 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: Welcome to Orangeburg | 0.40% | ~2,827 |
 | DLC: A Wrinkle in Spacetime | 0.40% | ~2,827 |
 | DLC: Knock, Knock, Knockin' on Wooden Doors | 0.40% | ~2,827 |
-| DLC: Birds | 0.30% | ~2,120 |
-| DLC: Horticultural | 0.30% | ~2,120 |
-| DLC: Tough Guy, Eh? | 0.30% | ~2,120 |
-| DLC: Non-NPC | 0.30% | ~2,120 |
-| DLC: Thrown | 0.30% | ~2,120 |
-| DLC: To the House | 0.30% | ~2,120 |
+| DLC: Birds | 0.30% | ~2,121 |
+| DLC: Horticultural | 0.30% | ~2,121 |
+| DLC: Tough Guy, Eh? | 0.30% | ~2,121 |
+| DLC: Non-NPC | 0.30% | ~2,121 |
+| DLC: Thrown | 0.30% | ~2,121 |
+| DLC: To the House | 0.30% | ~2,121 |
 | DLC: The Giant's Workshop | 0.20% | ~1,414 |
 | DLC: A good cause! | 0.20% | ~1,414 |
 | DLC: Shady stick | 0.20% | ~1,414 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~707 |
 | DLC: Top of the world | 0.10% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706,826 (Ranked 14)  
+Progressed: 706,841 (Ranked 14)  
 Completed: 684 (0.10%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,7 +139,7 @@ Completed: 684 (0.10%) (Ranked 158)
 | 2023-05-21 | 706,362 | 684 |
 | 2023-05-22 | 706,539 | 684 |
 | 2023-05-23 | 706,701 | 684 |
-| 2023-05-24 | 706,826 | 684 |
+| 2023-05-24 | 706,841 | 684 |
 ## Awards
 Max (Challenging Puzzles): 7,613  (Ranked 40)  
 Sum: 9,906 (Ranked 79)  

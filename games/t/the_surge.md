@@ -6,33 +6,33 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,004 |
-| I'll Be Back | 84.00% | ~3,578 |
-| Sorry, I Dropped This | 77.00% | ~3,280 |
-| First Day on the Job | 76.00% | ~3,238 |
-| Butcher's Bill | 55.00% | ~2,343 |
-| P.A.X | 37.00% | ~1,576 |
-| Hey Listen | 36.00% | ~1,534 |
-| OPERATOR | 35.00% | ~1,491 |
-| It's Blue Light | 33.00% | ~1,406 |
+| On My Own Two Feet | 94.00% | ~4,007 |
+| I'll Be Back | 84.00% | ~3,581 |
+| Sorry, I Dropped This | 77.00% | ~3,283 |
+| First Day on the Job | 76.00% | ~3,240 |
+| Butcher's Bill | 54.00% | ~2,302 |
+| P.A.X | 37.00% | ~1,577 |
+| Hey Listen | 36.00% | ~1,535 |
+| OPERATOR | 35.00% | ~1,492 |
+| It's Blue Light | 33.00% | ~1,407 |
 | Most Wanted | 26.00% | ~1,108 |
 | Infidel | 23.00% | ~980 |
 | GOLIATH | 21.00% | ~895 |
-| Firebug | 20.00% | ~852 |
-| I Choose You | 17.00% | ~724 |
-| Nothing to Lose | 17.00% | ~724 |
+| Firebug | 20.00% | ~853 |
+| I Choose You | 17.00% | ~725 |
+| Nothing to Lose | 17.00% | ~725 |
 | Big Sister | 15.00% | ~639 |
 | Gear Up | 15.00% | ~639 |
 | SENTINEL | 15.00% | ~639 |
-| The Black Cerberus | 12.00% | ~511 |
-| Watchman | 12.00% | ~511 |
-| Core Power | 12.00% | ~511 |
+| The Black Cerberus | 12.00% | ~512 |
+| Watchman | 12.00% | ~512 |
+| Core Power | 12.00% | ~512 |
 | CREO Killed the Video Star | 11.00% | ~469 |
 | Who's in Charge Here? | 11.00% | ~469 |
 | Shall Not Pass | 11.00% | ~469 |
 | Right Tool for the Job | 10.00% | ~426 |
-| Raging Drones | 9.00% | ~383 |
-| Overconfident | 9.00% | ~383 |
+| Raging Drones | 9.00% | ~384 |
+| Overconfident | 9.00% | ~384 |
 | Pusher Man | 8.00% | ~341 |
 | Melting Down | 8.00% | ~341 |
 | Squad Chief Helvig | 8.00% | ~341 |
@@ -48,8 +48,8 @@ Number of Ratings: 62  (23.09.2022)
 | Man of Steel | 5.00% | ~213 |
 | Jack of All Trades | 5.00% | ~213 |
 | 3-2-1 | 5.00% | ~213 |
-| Rusty Rat | 4.00% | ~170 |
-| Desecration | 4.00% | ~170 |
+| Rusty Rat | 4.00% | ~171 |
+| Desecration | 4.00% | ~171 |
 | For the Good of Mankind | 3.00% | ~128 |
 | Turing Test | 3.00% | ~128 |
 | Repeat Customer | 3.00% | ~128 |
@@ -74,8 +74,8 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.50% | ~21 |
 | The Surge | 0.40% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,260 (Ranked 126)  
-Completed: 13 (0.31%) (Ranked 124)  
+Progressed: 4,263 (Ranked 126)  
+Completed: 13 (0.30%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -101,7 +101,7 @@ Completed: 13 (0.31%) (Ranked 124)
 | 2023-05-21 | 4,249 | 13 |
 | 2023-05-22 | 4,252 | 13 |
 | 2023-05-23 | 4,258 | 13 |
-| 2023-05-24 | 4,260 | 13 |
+| 2023-05-24 | 4,263 | 13 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 459)  
 Sum: 26 (Ranked 465)  

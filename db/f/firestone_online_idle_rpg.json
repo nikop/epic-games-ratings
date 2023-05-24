@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 163,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -92,7 +92,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1151,
+  "EOS_Progressed": 1152,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
@@ -2107,6 +2107,11 @@
       "Time": "2023-05-24T06:05:21.4836438+00:00",
       "NumProgressed": 1151,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-24T17:05:35.2961457+00:00",
+      "NumProgressed": 1152,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2302,7 +2307,7 @@
       "Name": "Fellowship Power",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "fourleafclover",
@@ -2510,7 +2515,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "prestigiousx10",
@@ -2574,7 +2579,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "thealchemist",
@@ -2604,9 +2609,9 @@
       "ID": "thegameison",
       "SetID": "3nl4bcg",
       "Name": "The game is on",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 207
     },
     {
       "ID": "thepowerofawakening",
@@ -2678,7 +2683,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1083
     },
     {
       "ID": "warmachinesarmy",
@@ -2710,14 +2715,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1151,
+      "Progressed": 1152,
       "Completed": 1
     }
   ],
@@ -2725,8 +2730,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-23T21:58:11.918076+00:00",
-  "LastChanged_Achievements": "2023-05-24T16:05:07.3632584+00:00",
+  "LastChanged_Achievements": "2023-05-24T17:05:35.2961453+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:34.8363446+00:00",
-  "LastUpdate_Ratings": "2023-05-24T15:57:41.2791768+00:00",
-  "LastUpdate_Achievements": "2023-05-24T16:05:07.3633448+00:00"
+  "LastUpdate_Ratings": "2023-05-24T16:57:41.5681209+00:00",
+  "LastUpdate_Achievements": "2023-05-24T17:05:35.2962338+00:00"
 }

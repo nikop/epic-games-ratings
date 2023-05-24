@@ -58,11 +58,11 @@ Number of Ratings: 87  (23.09.2022)
 | Information Age | 0.80% | ~0 |
 | Innovator | 0.80% | ~6 |
 | Digital Age | 0.70% | ~0 |
+| Miscalculation | 0.70% | ~5 |
 | Railroad tycoon | 0.70% | ~5 |
 | Vostok | 0.70% | ~0 |
 | Woodcutter | 0.70% | ~5 |
 | Achiever | 0.60% | ~4 |
-| Miscalculation | 0.60% | ~4 |
 | Will work | 0.60% | ~4 |
 | Astrochemist | 0.40% | ~0 |
 | BBQ | 0.40% | ~3 |

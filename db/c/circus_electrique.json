@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 197,
-  "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_Completed": 134,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -74,11 +74,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 408,
+  "EOS_Progressed": 409,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.25,
+  "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.1721869+00:00",
@@ -169,6 +169,11 @@
       "Time": "2023-05-24T16:05:12.3416784+00:00",
       "NumProgressed": 408,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-24T17:05:40.7611511+00:00",
+      "NumProgressed": 409,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -202,9 +207,9 @@
       "ID": "ACHIEVEMENT_04",
       "SetID": "631ndc2",
       "Name": "One More Thing...",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 53
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -236,15 +241,15 @@
       "Name": "Built in a Day",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "ACHIEVEMENT_09",
       "SetID": "631ndc2",
       "Name": "Path of Learning",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 139
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -258,9 +263,9 @@
       "ID": "ACHIEVEMENT_11",
       "SetID": "631ndc2",
       "Name": "Lucky Day",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -340,7 +345,7 @@
       "Name": "Hundred Percent Second",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -418,9 +423,9 @@
       "ID": "ACHIEVEMENT_31",
       "SetID": "631ndc2",
       "Name": "King of District 2",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -436,7 +441,7 @@
       "Name": "King of District 4",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -466,9 +471,9 @@
       "ID": "ACHIEVEMENT_37",
       "SetID": "631ndc2",
       "Name": "Flawless Presentation",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -498,9 +503,9 @@
       "ID": "ACHIEVEMENT_41",
       "SetID": "631ndc2",
       "Name": "Self Defense",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 164
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -579,7 +584,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 408,
+      "Progressed": 409,
       "Completed": 1
     }
   ],
@@ -587,8 +592,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-05-24T16:05:12.3416779+00:00",
+  "LastChanged_Achievements": "2023-05-24T17:05:40.7611504+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.3315704+00:00",
-  "LastUpdate_Ratings": "2023-05-24T15:58:28.6728968+00:00",
-  "LastUpdate_Achievements": "2023-05-24T16:05:12.3417261+00:00"
+  "LastUpdate_Ratings": "2023-05-24T16:58:32.5053397+00:00",
+  "LastUpdate_Achievements": "2023-05-24T17:05:40.7612615+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "hordecore",
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 295,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-03-02T17:00:00+00:00",
     "PcReleaseDate": "2022-03-02T17:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 332,
+  "EOS_Progressed": 333,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.01,
+  "EOS_Completed_Percentage": 3,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.4754336+00:00",
@@ -71,6 +71,11 @@
       "Time": "2023-05-22T09:06:48.5971046+00:00",
       "NumProgressed": 332,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-24T17:05:45.5087751+00:00",
+      "NumProgressed": 333,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 28,
@@ -82,7 +87,7 @@
       "Name": "Just Went Shopping",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "10",
@@ -96,9 +101,9 @@
       "ID": "11",
       "SetID": "1530e6b",
       "Name": "Getting the Hang Of This",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 159
+      "UsersEstimate": 157
     },
     {
       "ID": "12",
@@ -106,7 +111,7 @@
       "Name": "Untapped Potential",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "13",
@@ -162,7 +167,7 @@
       "Name": "That\u2019s What Friends Are For",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "2",
@@ -202,15 +207,15 @@
       "Name": "Collector",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "24",
       "SetID": "1530e6b",
       "Name": "Over Nine Thousaaand",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 189
+      "UsersEstimate": 186
     },
     {
       "ID": "25",
@@ -248,9 +253,9 @@
       "ID": "3",
       "SetID": "1530e6b",
       "Name": "Sneaky Sneak",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 259
+      "UsersEstimate": 256
     },
     {
       "ID": "4",
@@ -266,7 +271,7 @@
       "Name": "DIY",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "6",
@@ -282,15 +287,15 @@
       "Name": "Blow \u2018Em Up",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "8",
       "SetID": "1530e6b",
       "Name": "Master Chef",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 216
     },
     {
       "ID": "9",
@@ -298,14 +303,14 @@
       "Name": "Played by Gramps",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     }
   ],
   "AchievementSets": [
     {
       "ID": "1530e6b",
       "IsBase": true,
-      "Progressed": 332,
+      "Progressed": 333,
       "Completed": 10
     }
   ],
@@ -313,8 +318,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.7013302+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.4754344+00:00",
   "LastChanged": "2023-03-31T05:57:38.7013303+00:00",
-  "LastChanged_Achievements": "2023-05-24T16:05:17.0540323+00:00",
+  "LastChanged_Achievements": "2023-05-24T17:05:45.5087746+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:09:25.4313904+00:00",
-  "LastUpdate_Ratings": "2023-05-24T15:59:15.697108+00:00",
-  "LastUpdate_Achievements": "2023-05-24T16:05:17.0540513+00:00"
+  "LastUpdate_Ratings": "2023-05-24T16:59:23.4062687+00:00",
+  "LastUpdate_Achievements": "2023-05-24T17:05:45.5087976+00:00"
 }

@@ -506,9 +506,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46974,
+  "EOS_Progressed": 46978,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 770,
+  "EOS_NewPlayers": 773,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2451,6 +2451,11 @@
       "Time": "2023-05-24T16:05:00.954954+00:00",
       "NumProgressed": 46974,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-05-24T17:05:28.7268123+00:00",
+      "NumProgressed": 46978,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 67,
@@ -2502,7 +2507,7 @@
       "Name": "Park Ranger",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4697
+      "UsersEstimate": 4698
     },
     {
       "ID": "07",
@@ -2566,7 +2571,7 @@
       "Name": "Gatekeeper",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2818
+      "UsersEstimate": 2819
     },
     {
       "ID": "15",
@@ -2574,7 +2579,7 @@
       "Name": "The Lady of the Light",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2818
+      "UsersEstimate": 2819
     },
     {
       "ID": "16",
@@ -2694,7 +2699,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2818
+      "UsersEstimate": 2819
     },
     {
       "ID": "31",
@@ -2726,7 +2731,7 @@
       "Name": "Energized!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2818
+      "UsersEstimate": 2819
     },
     {
       "ID": "35",
@@ -2742,7 +2747,7 @@
       "Name": "Carny",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "37",
@@ -2774,7 +2779,7 @@
       "Name": "Right of Way",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2818
+      "UsersEstimate": 2819
     },
     {
       "ID": "41",
@@ -2798,7 +2803,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 4697
+      "UsersEstimate": 4698
     },
     {
       "ID": "44",
@@ -2862,7 +2867,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "52",
@@ -2997,21 +3002,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46974,
+      "Progressed": 46978,
       "Completed": 46
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 10442,
+      "Progressed": 10446,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-24T16:05:00.9549534+00:00",
+  "LastChanged_Achievements": "2023-05-24T17:05:28.7268118+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:07.5579983+00:00",
-  "LastUpdate_Ratings": "2023-05-24T15:57:22.1731751+00:00",
-  "LastUpdate_Achievements": "2023-05-24T16:05:00.9551401+00:00"
+  "LastUpdate_Ratings": "2023-05-24T16:57:23.5776875+00:00",
+  "LastUpdate_Achievements": "2023-05-24T17:05:28.7268953+00:00"
 }

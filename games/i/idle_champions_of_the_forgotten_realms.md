@@ -7,14 +7,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 0.70% | ~619 |
-| The Court of Storms | 0.60% | ~329 |
+| The Court of Storms | 0.70% | ~383 |
 | The Cursed Farmer | 0.50% | ~442 |
 | Beware the Jabberwock | 0.50% | ~274 |
 | Beast Intentions | 0.40% | ~354 |
 | The Mad Wizard | 0.40% | ~354 |
 | Coasting to the Finish | 0.40% | ~219 |
-| The Ring of Regeneration | 0.30% | ~265 |
-| Are Ya Chicken? | 0.30% | ~265 |
+| The Ring of Regeneration | 0.30% | ~266 |
+| Are Ya Chicken? | 0.30% | ~266 |
 | Quick or Quack | 0.30% | ~164 |
 | Owlbear Necessities | 0.20% | ~110 |
 | Best Thay Ever | 0.20% | ~110 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.10% | ~88 |
 | Rescue in the Jungle | 0.10% | ~88 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,493 (Ranked 60)  
+Progressed: 88,500 (Ranked 60)  
 Completed: 1,873 (2.12%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -534,7 +534,7 @@ Completed: 1,873 (2.12%) (Ranked 62)
 | 2023-05-21 | 88,251 | 1,860 |
 | 2023-05-22 | 88,337 | 1,863 |
 | 2023-05-23 | 88,435 | 1,872 |
-| 2023-05-24 | 88,493 | 1,873 |
+| 2023-05-24 | 88,500 | 1,873 |
 ## Awards
 Max (Diverse Characters): 4,898  (Ranked 64)  
 Sum: 29,959 (Ranked 37)  

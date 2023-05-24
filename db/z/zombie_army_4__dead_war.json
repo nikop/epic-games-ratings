@@ -2,13 +2,13 @@
   "ID": "dfd2530e80e4425d801913b0879be444",
   "Name": "Zombie Army 4: Dead War",
   "ProductSlug": "zombie-army-4-dead-war",
-  "Ranking_Rating": 211,
+  "Ranking_Rating": 212,
   "Ranking_Popularity": 147,
   "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1509,7 +1509,7 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42400,
+  "EOS_Progressed": 42401,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 1,
@@ -2469,6 +2469,11 @@
       "Time": "2023-05-24T16:05:25.2354233+00:00",
       "NumProgressed": 42400,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-24T17:05:53.4513098+00:00",
+      "NumProgressed": 42401,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -2480,7 +2485,7 @@
       "Name": "Groovy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 25864
+      "UsersEstimate": 25865
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -2672,7 +2677,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26288
+      "UsersEstimate": 26289
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -2808,7 +2813,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 28832
+      "UsersEstimate": 28833
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -2840,7 +2845,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 23744
+      "UsersEstimate": 23745
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -2880,7 +2885,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27560
+      "UsersEstimate": 27561
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -2936,7 +2941,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27560
+      "UsersEstimate": 27561
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -3007,15 +3012,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42400,
+      "Progressed": 42401,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-05-23T17:00:50.1556319+00:00",
-  "LastChanged_Achievements": "2023-05-24T16:05:25.2354231+00:00",
+  "LastChanged_Achievements": "2023-05-24T17:05:53.4513093+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.8149711+00:00",
-  "LastUpdate_Ratings": "2023-05-24T15:59:12.0647561+00:00",
-  "LastUpdate_Achievements": "2023-05-24T16:05:25.235486+00:00"
+  "LastUpdate_Ratings": "2023-05-24T16:59:19.6039551+00:00",
+  "LastUpdate_Achievements": "2023-05-24T17:05:53.4513824+00:00"
 }

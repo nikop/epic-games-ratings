@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Deal with Shock | 63.00% | ~20 |
-| Skinner | 53.00% | ~16 |
-| Deal with Anger | 30.00% | ~9 |
-| Robolimb Ripper | 17.00% | ~5 |
+| Deal with Shock | 61.00% | ~19 |
+| Skinner | 52.00% | ~16 |
+| Deal with Anger | 29.00% | ~9 |
+| Robolimb Ripper | 16.00% | ~5 |
 | Deal with Depression | 13.00% | ~4 |
 | No Shock Race | 10.00% | ~3 |
-| Max Health | 7.00% | ~2 |
-| Total Shock | 7.00% | ~2 |
-| No Anger Race | 7.00% | ~2 |
-| No Depression Race | 7.00% | ~2 |
-| Deal with Acceptance | 7.00% | ~2 |
-| Zero to Hero | 7.00% | ~2 |
+| Max Health | 6.00% | ~2 |
+| Total Shock | 6.00% | ~2 |
+| No Anger Race | 6.00% | ~2 |
+| No Depression Race | 6.00% | ~2 |
+| Deal with Acceptance | 6.00% | ~2 |
+| Zero to Hero | 6.00% | ~2 |
 | Bronze Tunnel Collector | 3.00% | ~1 |
 | Silver Tunnel Collector | 3.00% | ~1 |
 | Golden Tunnel Collector | 3.00% | ~1 |

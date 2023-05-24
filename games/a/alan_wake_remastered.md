@@ -12,8 +12,8 @@ Number of Ratings: 524  (23.09.2022)
 | Nordic Walking | 13.00% | ~6,107 |
 | Bright Falls' Finest | 13.00% | ~6,107 |
 | Under a Thin Layer of Skin | 12.00% | ~5,637 |
-| Park Ranger | 10.00% | ~4,697 |
-| Paging Mr. Wake | 10.00% | ~4,697 |
+| Park Ranger | 10.00% | ~4,698 |
+| Paging Mr. Wake | 10.00% | ~4,698 |
 | Back! Back, I Say! | 9.00% | ~4,228 |
 | Finders Keepers | 9.00% | ~4,228 |
 | Wheels Within Wheels | 8.00% | ~3,758 |
@@ -22,7 +22,7 @@ Number of Ratings: 524  (23.09.2022)
 | Sound and Fury | 8.00% | ~3,758 |
 | Missed by a Mile | 8.00% | ~3,758 |
 | Damn Good Cup of Coffee | 8.00% | ~3,758 |
-| A Friend in Need | 8.00% | ~835 |
+| A Friend in Need | 8.00% | ~836 |
 | Heavy Metal | 7.00% | ~3,288 |
 | Iron Horse | 7.00% | ~3,288 |
 | Perchance to Dream | 7.00% | ~3,288 |
@@ -30,11 +30,11 @@ Number of Ratings: 524  (23.09.2022)
 | Thunder and Lightning | 7.00% | ~3,288 |
 | Collateral Carnage | 7.00% | ~3,288 |
 | Come One, Come All | 7.00% | ~3,288 |
-| Gatekeeper | 6.00% | ~2,818 |
-| The Lady of the Light | 6.00% | ~2,818 |
-| Two For the Price of One | 6.00% | ~2,818 |
-| Energized! | 6.00% | ~2,818 |
-| Right of Way | 6.00% | ~2,818 |
+| Gatekeeper | 6.00% | ~2,819 |
+| The Lady of the Light | 6.00% | ~2,819 |
+| Two For the Price of One | 6.00% | ~2,819 |
+| Energized! | 6.00% | ~2,819 |
+| Right of Way | 6.00% | ~2,819 |
 | A Friend Indeed | 6.00% | ~627 |
 | Tornado Wrangler | 5.00% | ~2,349 |
 | What Light Through Yonder Window | 5.00% | ~2,349 |
@@ -48,7 +48,7 @@ Number of Ratings: 524  (23.09.2022)
 | KBF-FM | 3.00% | ~1,409 |
 | Kill Your Darlings | 3.00% | ~313 |
 | Heartbreaker | 3.00% | ~313 |
-| Carny | 2.00% | ~939 |
+| Carny | 2.00% | ~940 |
 | Iron Will | 2.00% | ~209 |
 | Medical Opinions | 1.00% | ~470 |
 | Taken Season | 1.00% | ~470 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~47 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,974 (Ranked 76)  
+Progressed: 46,978 (Ranked 76)  
 Completed: 46 (0.10%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 46 (0.10%) (Ranked 158)
 | 2023-05-21 | 46,674 | 45 |
 | 2023-05-22 | 46,794 | 45 |
 | 2023-05-23 | 46,896 | 45 |
-| 2023-05-24 | 46,974 | 46 |
+| 2023-05-24 | 46,978 | 46 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

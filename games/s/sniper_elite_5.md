@@ -5,12 +5,12 @@ Rating: 4.37 (Ranked 705)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 16.00% | ~215 |
+| Meeting Resistance | 16.00% | ~216 |
 | Confirming Suspicions | 11.00% | ~148 |
 | The Kraken Wakes | 8.00% | ~108 |
+| It's Starting to Crack | 6.00% | ~81 |
 | Lord of War | 5.00% | ~67 |
 | Resourceful | 5.00% | ~67 |
-| It's Starting to Crack | 5.00% | ~67 |
 | Enemy at the Gates | 4.00% | ~54 |
 | Change the Channel | 4.00% | ~54 |
 | Just a Flesh Wound | 3.00% | ~40 |
@@ -25,17 +25,17 @@ Rating: 4.37 (Ranked 705)
 | Close Quarters | 2.00% | ~27 |
 | Snake in the Grass | 2.00% | ~27 |
 | Target America | 2.00% | ~27 |
+| Climbing the Ladder | 1.00% | ~13 |
 | Liberté | 1.00% | ~13 |
 | Fields of Glory | 1.00% | ~13 |
 | Skirmisher | 1.00% | ~13 |
 | Set Europe Ablaze | 1.00% | ~13 |
 | Precision Is Key | 1.00% | ~13 |
+| Rigged to Blow | 1.00% | ~13 |
 | Der Geist | 1.00% | ~13 |
 | The Kraken Sleeps | 1.00% | ~13 |
-| Climbing the Ladder | 0.90% | ~12 |
 | The Long Game | 0.90% | ~12 |
-| Rigged to Blow | 0.90% | ~12 |
-| No Stone Unturned | 0.70% | ~9 |
+| No Stone Unturned | 0.80% | ~11 |
 | Brains of the Operation | 0.70% | ~9 |
 | My Little Friend | 0.60% | ~8 |
 | Strategist | 0.40% | ~5 |
@@ -77,7 +77,7 @@ Rating: 4.37 (Ranked 705)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,344 (Ranked 157)  
+Progressed: 1,348 (Ranked 157)  
 Completed: 2 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 2 (0.15%) (Ranked 148)
 | 2023-05-21 | 1,126 | 2 |
 | 2023-05-22 | 1,233 | 2 |
 | 2023-05-23 | 1,294 | 2 |
-| 2023-05-24 | 1,344 | 2 |
+| 2023-05-24 | 1,348 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

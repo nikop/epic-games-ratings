@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 316,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-11-15T19:00:00+00:00",
     "PcReleaseDate": "2021-08-06T12:00:00+00:00",
@@ -135,9 +135,9 @@
       "ID": "COLLECT_MATTER_10000",
       "SetID": "b6f796g",
       "Name": "Tangibility",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 63
+      "UsersEstimate": 67
     },
     {
       "ID": "END_REACHED",
@@ -255,9 +255,9 @@
       "ID": "SPRING_HIDDEN",
       "SetID": "b6f796g",
       "Name": "Spring Air",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 41
     },
     {
       "ID": "SURVIVOR",
@@ -312,8 +312,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.7063169+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.5274456+00:00",
   "LastChanged": "2023-03-31T05:57:26.706317+00:00",
-  "LastChanged_Achievements": "2023-05-24T16:04:51.7649262+00:00",
+  "LastChanged_Achievements": "2023-05-24T17:05:18.9781698+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:46.8169935+00:00",
-  "LastUpdate_Ratings": "2023-05-24T15:57:52.7510929+00:00",
-  "LastUpdate_Achievements": "2023-05-24T16:04:51.7649469+00:00"
+  "LastUpdate_Ratings": "2023-05-24T16:57:53.7398061+00:00",
+  "LastUpdate_Achievements": "2023-05-24T17:05:18.978194+00:00"
 }

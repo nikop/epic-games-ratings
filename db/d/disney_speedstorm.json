@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2551,
+  "EOS_Progressed": 2552,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1745,6 +1745,11 @@
       "Time": "2023-05-24T15:02:04.7447005+00:00",
       "NumProgressed": 2551,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T17:02:12.1079877+00:00",
+      "NumProgressed": 2552,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1764,7 +1769,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "11",
@@ -1876,7 +1881,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "24",
@@ -1884,7 +1889,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "3",
@@ -1900,7 +1905,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "5",
@@ -1947,13 +1952,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2551,
+      "Progressed": 2552,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-24T16:00:12.3386635+00:00",
+  "LastChanged_Achievements": "2023-05-24T17:02:12.1079867+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.9291954+00:00",
-  "LastUpdate_Ratings": "2023-05-24T15:58:29.0302827+00:00",
-  "LastUpdate_Achievements": "2023-05-24T16:00:12.3386961+00:00"
+  "LastUpdate_Ratings": "2023-05-24T16:58:32.9987567+00:00",
+  "LastUpdate_Achievements": "2023-05-24T17:02:12.108023+00:00"
 }

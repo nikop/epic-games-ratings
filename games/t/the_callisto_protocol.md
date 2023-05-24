@@ -20,16 +20,16 @@ Rating: 4.18 (Ranked 830)
 | Paper Jams | 2.00% | ~270 |
 | Mugshot | 2.00% | ~270 |
 | Desperate Times | 2.00% | ~270 |
-| Big Spender | 2.00% | ~28 |
+| Big Spender | 2.00% | ~29 |
 | Parole Denied | 1.00% | ~14 |
 | Terminated | 1.00% | ~135 |
 | If the SHU Fits... | 1.00% | ~135 |
 | Hoard Mode | 1.00% | ~14 |
-| Without A Paddle | 0.90% | ~121 |
+| Without A Paddle | 0.90% | ~122 |
 | Lifer | 0.80% | ~11 |
 | Recidivist | 0.70% | ~10 |
 | In Striking Distance | 0.70% | ~94 |
-| Two Heads Are Better Than One | 0.60% | ~81 |
+| Two Heads Are Better Than One | 0.70% | ~94 |
 | In the Pipe, Five by Five | 0.60% | ~81 |
 | Crash Site | 0.60% | ~81 |
 | Power Up | 0.40% | ~54 |
@@ -38,15 +38,15 @@ Rating: 4.18 (Ranked 830)
 | I Do Belong Here | 0.30% | ~40 |
 | What Lies Beneath | 0.20% | ~27 |
 | Full Circle | 0.20% | ~27 |
-| It's over, Jacob! | 0.10% | ~13 |
+| It's over, Jacob! | 0.10% | ~14 |
 | Armed to the Teeth | 0.10% | ~1 |
 | Glutton for Punishment | 0.10% | ~1 |
 | You Belong Here | 0.10% | ~1 |
-| The Protocol is About Life | 0.10% | ~13 |
+| The Protocol is About Life | 0.10% | ~14 |
 | Subject Alpha | 0.10% | ~1 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,497 (Ranked 101)  
+Progressed: 13,500 (Ranked 101)  
 Completed: 52 (0.39%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 52 (0.39%) (Ranked 112)
 | 2023-05-21 | 13,223 | 52 |
 | 2023-05-22 | 13,347 | 52 |
 | 2023-05-23 | 13,444 | 52 |
-| 2023-05-24 | 13,497 | 52 |
+| 2023-05-24 | 13,500 | 52 |
 ## Awards
 Max (Highly Recommended): 46  (Ranked 397)  
 Sum: 267 (Ranked 335)  

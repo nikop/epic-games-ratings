@@ -9,8 +9,8 @@ Rating: 4.55 (Ranked 466)
 | Sputnik 2049 | 7.00% | ~149 |
 | Without Breaking Some Eggs... | 6.00% | ~128 |
 | Infinite Growth... | 6.00% | ~128 |
+| Space Society | 4.00% | ~85 |
 | Guy de Borderlands | 3.00% | ~64 |
-| Space Society | 3.00% | ~64 |
 | A Thousand Strong | 3.00% | ~64 |
 | Ready for a New World | 3.00% | ~64 |
 | Breaking Protocol | 3.00% | ~64 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 466)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,127 (Ranked 142)  
+Progressed: 2,128 (Ranked 142)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-21 | 2,063 | 0 |
 | 2023-05-22 | 2,083 | 0 |
 | 2023-05-23 | 2,115 | 0 |
-| 2023-05-24 | 2,127 | 0 |
+| 2023-05-24 | 2,128 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

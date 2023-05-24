@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 222716,
+  "EOS_Progressed": 222720,
   "EOS_Completed": 43,
-  "EOS_NewPlayers": 642,
+  "EOS_NewPlayers": 643,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -3518,6 +3518,11 @@
       "Time": "2023-05-24T16:04:48.7117625+00:00",
       "NumProgressed": 222716,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-05-24T17:05:15.6337464+00:00",
+      "NumProgressed": 222720,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 34,
@@ -3545,7 +3550,7 @@
       "Name": "CALLING HOUSTON",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 62360
+      "UsersEstimate": 62362
     },
     {
       "ID": "CENTAUR",
@@ -3553,7 +3558,7 @@
       "Name": "CENTAUR",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 17817
+      "UsersEstimate": 17818
     },
     {
       "ID": "CHALLENGER",
@@ -3593,7 +3598,7 @@
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 17817
+      "UsersEstimate": 17818
     },
     {
       "ID": "FLAWLESS",
@@ -3609,7 +3614,7 @@
       "Name": "GILA",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 6681
+      "UsersEstimate": 6682
     },
     {
       "ID": "GT9STRADALE",
@@ -3617,7 +3622,7 @@
       "Name": "GT9STRADALE",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 44543
+      "UsersEstimate": 44544
     },
     {
       "ID": "GTXCOMPETIZIONE",
@@ -3665,7 +3670,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 71269
+      "UsersEstimate": 71270
     },
     {
       "ID": "NOBUNAGA",
@@ -3689,7 +3694,7 @@
       "Name": "ON A ROLL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20044
+      "UsersEstimate": 20045
     },
     {
       "ID": "PHOTOFINISH",
@@ -3793,22 +3798,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 91314
+      "UsersEstimate": 91315
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 222716,
+      "Progressed": 222720,
       "Completed": 43
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-04-22T20:57:26.0161522+00:00",
-  "LastChanged_Achievements": "2023-05-24T16:04:48.7117619+00:00",
+  "LastChanged_Achievements": "2023-05-24T17:05:15.6337459+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:48.43963+00:00",
-  "LastUpdate_Ratings": "2023-05-24T15:57:55.1205629+00:00",
-  "LastUpdate_Achievements": "2023-05-24T16:04:48.7118632+00:00"
+  "LastUpdate_Ratings": "2023-05-24T16:57:56.3911443+00:00",
+  "LastUpdate_Achievements": "2023-05-24T17:05:15.6337908+00:00"
 }

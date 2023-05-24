@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
     "PcReleaseDate": "2021-07-08T21:30:00+00:00",
@@ -721,9 +721,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 6667,
+  "EOS_Progressed": 6668,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 251,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2561,6 +2561,11 @@
       "Time": "2023-05-24T15:03:44.4499948+00:00",
       "NumProgressed": 6667,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T17:00:01.8558461+00:00",
+      "NumProgressed": 6668,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -2596,7 +2601,7 @@
       "Name": "Clips and Crits",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "ACH_COUP_DETAT",
@@ -2652,7 +2657,7 @@
       "Name": "Grey Goo",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "ACH_GROUND_CONTROL",
@@ -2684,7 +2689,7 @@
       "Name": "Hacks In Stacks",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3600
+      "UsersEstimate": 3601
     },
     {
       "ID": "ACH_HERE_COMES_A_NEW_CHALLENGER",
@@ -2716,7 +2721,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 6067
+      "UsersEstimate": 6068
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -2740,7 +2745,7 @@
       "Name": "Meching Enemies",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 3200
+      "UsersEstimate": 3201
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -2772,7 +2777,7 @@
       "Name": "Photogenic",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 5867
+      "UsersEstimate": 5868
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -2788,7 +2793,7 @@
       "Name": "Plug It In",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 5600
+      "UsersEstimate": 5601
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -2866,9 +2871,9 @@
       "ID": "ACH_SURGE_AHEAD",
       "SetID": "97mcd7i",
       "Name": "Surge Ahead",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 2000
+      "UsersEstimate": 2067
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_JOCKEY",
@@ -2876,7 +2881,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 5667
+      "UsersEstimate": 5668
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -2940,7 +2945,7 @@
       "Name": "Ticket Toddler",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 3133
+      "UsersEstimate": 3134
     },
     {
       "ID": "ACH_TO_BE_CONTINUED",
@@ -2971,15 +2976,15 @@
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 6667,
+      "Progressed": 6668,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-05-16T22:57:55.9778153+00:00",
-  "LastChanged_Achievements": "2023-05-24T15:03:44.449994+00:00",
+  "LastChanged_Achievements": "2023-05-24T17:00:01.8558444+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:52.1541187+00:00",
-  "LastUpdate_Ratings": "2023-05-24T15:57:57.9269144+00:00",
-  "LastUpdate_Achievements": "2023-05-24T15:03:44.4500817+00:00"
+  "LastUpdate_Ratings": "2023-05-24T16:57:59.1776307+00:00",
+  "LastUpdate_Achievements": "2023-05-24T17:00:01.8560129+00:00"
 }

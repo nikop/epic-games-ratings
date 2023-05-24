@@ -1,22 +1,22 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.66 (Ranked 271)  
+Rating: 4.65 (Ranked 290)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 43.00% | ~2,898 |
-| Greasy Palms | 39.00% | ~2,629 |
-| South American Connection | 23.00% | ~1,550 |
-| Life of the Party | 17.00% | ~1,146 |
-| Tommy Two-Wheels | 13.00% | ~876 |
-| Big Heat from Little Havana | 12.00% | ~809 |
-| Chauffeur | 12.00% | ~809 |
+| Legal Counsel | 43.00% | ~2,901 |
+| Greasy Palms | 39.00% | ~2,631 |
+| South American Connection | 23.00% | ~1,552 |
+| Life of the Party | 17.00% | ~1,147 |
+| Tommy Two-Wheels | 13.00% | ~877 |
+| Big Heat from Little Havana | 12.00% | ~810 |
+| Chauffeur | 12.00% | ~810 |
 | Iron-y | 9.00% | ~607 |
 | Salutations My Little Friend | 9.00% | ~607 |
 | Gun for Hire | 7.00% | ~472 |
 | Mischief Managed | 7.00% | ~472 |
-| Vice City Mogul | 6.00% | ~404 |
+| Vice City Mogul | 6.00% | ~405 |
 | Catch Me if You Can | 5.00% | ~337 |
 | Bloodstained Hands | 5.00% | ~337 |
 | Not my First Time | 4.00% | ~270 |
@@ -40,8 +40,8 @@ Rating: 4.66 (Ranked 271)
 | Done it All | 0.70% | ~47 |
 | Kingpin | 0.30% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,740 (Ranked 113)  
-Completed: 22 (0.33%) (Ranked 120)  
+Progressed: 6,746 (Ranked 112)  
+Completed: 23 (0.34%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -74,7 +74,7 @@ Completed: 22 (0.33%) (Ranked 120)
 | 2023-05-21 | 6,560 | 22 |
 | 2023-05-22 | 6,627 | 22 |
 | 2023-05-23 | 6,697 | 22 |
-| 2023-05-24 | 6,740 | 22 |
+| 2023-05-24 | 6,746 | 23 |
 ## Awards
 Max (Great Boss Battles): 38  (Ranked 415)  
 Sum: 38 (Ranked 447)  
@@ -139,3 +139,4 @@ Diff (max vs sum): -32
 | 2023-05-21 | 4.66 | 35 | 35 |
 | 2023-05-22 | 4.66 | 37 | 37 |
 | 2023-05-23 | 4.66 | 38 | 38 |
+| 2023-05-24 | 4.65 | 38 | 38 |

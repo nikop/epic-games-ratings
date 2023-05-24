@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 843,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 6.76,
   "EosHistory": [
@@ -1740,9 +1740,9 @@
       "ID": "12",
       "SetID": "d0g98p",
       "Name": "Spellbound",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 278
+      "UsersEstimate": 287
     },
     {
       "ID": "13",
@@ -1900,9 +1900,9 @@
       "ID": "30",
       "SetID": "d0g98p",
       "Name": "Gooey Delight!",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 320
+      "UsersEstimate": 329
     },
     {
       "ID": "31",
@@ -1916,9 +1916,9 @@
       "ID": "32",
       "SetID": "d0g98p",
       "Name": "The Guardian",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 303
+      "UsersEstimate": 312
     },
     {
       "ID": "33",
@@ -2125,8 +2125,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-24T16:04:50.9978428+00:00",
+  "LastChanged_Achievements": "2023-05-24T17:05:17.9912714+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:59.9943101+00:00",
-  "LastUpdate_Ratings": "2023-05-24T15:57:13.8920163+00:00",
-  "LastUpdate_Achievements": "2023-05-24T16:04:50.9978933+00:00"
+  "LastUpdate_Ratings": "2023-05-24T16:57:14.2378407+00:00",
+  "LastUpdate_Achievements": "2023-05-24T17:05:17.9913245+00:00"
 }

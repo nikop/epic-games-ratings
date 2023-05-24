@@ -6,17 +6,17 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 72.00% | ~2,676 |
-| Hey Good Hookin | 62.00% | ~2,304 |
-| I'm on a Boat! | 53.00% | ~1,969 |
-| Scaling up | 46.00% | ~1,709 |
-| Can you smell what the Rod is Hooking | 45.00% | ~1,672 |
-| Ready to Rod and Roll | 37.00% | ~1,375 |
-| More Fish in the Sea | 37.00% | ~1,375 |
-| License to Gill | 31.00% | ~1,152 |
+| Fish Just Got Reel | 72.00% | ~2,677 |
+| Hey Good Hookin | 62.00% | ~2,305 |
+| I'm on a Boat! | 53.00% | ~1,971 |
+| Scaling up | 46.00% | ~1,710 |
+| Can you smell what the Rod is Hooking | 45.00% | ~1,673 |
+| Ready to Rod and Roll | 37.00% | ~1,376 |
+| More Fish in the Sea | 37.00% | ~1,376 |
+| License to Gill | 31.00% | ~1,153 |
 | Fish Out of Water | 29.00% | ~1,078 |
-| Things that go Splash in the Night | 25.00% | ~929 |
-| Goldfish? | 25.00% | ~929 |
+| Things that go Splash in the Night | 25.00% | ~930 |
+| Goldfish? | 25.00% | ~930 |
 | Going for Gold | 23.00% | ~855 |
 | I'm Hooked! | 17.00% | ~632 |
 | More than a Tourist | 12.00% | ~446 |
@@ -26,7 +26,7 @@ Number of Ratings: 281  (23.09.2022)
 | Big Fish Small Pond | 6.00% | ~223 |
 | I'm the Captain Now | 5.00% | ~186 |
 | School's Out for Summer | 4.00% | ~149 |
-| Gonna Need a Bigger Boat | 3.00% | ~111 |
+| Gonna Need a Bigger Boat | 3.00% | ~112 |
 | The Beetles | 2.00% | ~74 |
 | Taylor Made | 2.00% | ~74 |
 | Rod and Troll | 2.00% | ~62 |
@@ -42,7 +42,7 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,716 (Ranked 129)  
+Progressed: 3,718 (Ranked 129)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-21 | 3,649 | 0 |
 | 2023-05-22 | 3,669 | 0 |
 | 2023-05-23 | 3,701 | 0 |
-| 2023-05-24 | 3,716 | 0 |
+| 2023-05-24 | 3,718 | 0 |
 ## Awards
 Max (Relaxing): 32  (Ranked 436)  
 Sum: 158 (Ranked 376)  

@@ -13,12 +13,12 @@
 | Turbulence | 38.00% | ~120 |
 | Endless Possibilities | 37.00% | ~117 |
 | Finding The Way | 24.00% | ~76 |
-| Tangibility | 20.00% | ~63 |
+| Tangibility | 21.00% | ~67 |
 | On The Right Path | 19.00% | ~60 |
 | Around The World | 18.00% | ~57 |
 | Bigger Picture | 16.00% | ~51 |
 | Sunset | 13.00% | ~41 |
-| Spring Air | 12.00% | ~38 |
+| Spring Air | 13.00% | ~41 |
 | Alive | 9.00% | ~29 |
 | Cut The Air | 9.00% | ~29 |
 | What Are The Chances? | 9.00% | ~29 |
