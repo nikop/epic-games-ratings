@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
@@ -79,9 +79,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 610,
+  "EOS_Progressed": 611,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -189,6 +189,11 @@
       "Time": "2023-05-22T00:02:25.8690883+00:00",
       "NumProgressed": 610,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T13:09:23.6511468+00:00",
+      "NumProgressed": 611,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -240,7 +245,7 @@
       "Name": "Club Star",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "Combine",
@@ -286,9 +291,9 @@
       "ID": "I_just_love_stuff",
       "SetID": "gl7plp",
       "Name": "I just love stuff!",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 238
     },
     {
       "ID": "I_think_its_broke",
@@ -296,15 +301,15 @@
       "Name": "I think it\u0027s broke",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "In the smacker...I think",
       "SetID": "gl7plp",
       "Name": "In the smacker...I think",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 61
+      "UsersEstimate": 55
     },
     {
       "ID": "Keep_em_coming",
@@ -376,7 +381,7 @@
       "Name": "That\u0027s gotta hurt",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "The Traveler",
@@ -400,15 +405,15 @@
       "Name": "The Ann Flores Combo Experience",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "The_Warlord",
       "SetID": "gl7plp",
       "Name": "The Warlord",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 122
+      "UsersEstimate": 116
     },
     {
       "ID": "The_things_they_print_nowadays",
@@ -424,7 +429,7 @@
       "Name": "The truth is out there",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "This_cant_be_right",
@@ -464,7 +469,7 @@
       "Name": "Don\u0027t judge a manhole by its cover",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "posters",
@@ -487,7 +492,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 610,
+      "Progressed": 611,
       "Completed": 0
     }
   ],
@@ -495,8 +500,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-03-31T05:57:44.802254+00:00",
-  "LastChanged_Achievements": "2023-05-24T12:02:48.9628431+00:00",
+  "LastChanged_Achievements": "2023-05-24T13:09:23.651146+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:07.9754258+00:00",
-  "LastUpdate_Ratings": "2023-05-24T11:57:25.4952111+00:00",
-  "LastUpdate_Achievements": "2023-05-24T12:02:48.962868+00:00"
+  "LastUpdate_Ratings": "2023-05-24T13:03:44.3875685+00:00",
+  "LastUpdate_Achievements": "2023-05-24T13:09:23.6511734+00:00"
 }

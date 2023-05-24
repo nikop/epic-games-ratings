@@ -85,12 +85,12 @@ Completed: 8 (0.14%) (Ranked 151)
 | 2023-05-23 | 5,807 | 8 |
 | 2023-05-24 | 5,812 | 8 |
 ## Awards
-Max (Highly Recommended): 30  (Ranked 445)  
-Sum: 238 (Ranked 342)  
-Diff (max vs sum): 103  
+Max (Highly Recommended): 31  (Ranked 441)  
+Sum: 239 (Ranked 342)  
+Diff (max vs sum): 99  
 | Award | Count |
 | ----- | ----- |
-| This game is Highly Recommended | 30 |
+| This game is Highly Recommended | 31 |
 | This game is Extremely Fun | 28 |
 | This game has Quickly Understood Controls | 27 |
 | This game is Educational | 27 |
@@ -171,4 +171,4 @@ Diff (max vs sum): 103
 | 2023-05-18 | 4.56 | - | 30 | 234 |
 | 2023-05-19 | 4.56 | - | 30 | 235 |
 | 2023-05-21 | 4.56 | - | 30 | 237 |
-| 2023-05-24 | 4.56 | - | 30 | 238 |
+| 2023-05-24 | 4.56 | - | 31 | 239 |

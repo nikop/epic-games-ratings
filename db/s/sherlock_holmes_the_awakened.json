@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 219,
+  "EOS_Progressed": 220,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 5.48,
+  "EOS_Completed_Percentage": 5.45,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -499,6 +499,11 @@
       "Time": "2023-05-24T11:02:17.7552912+00:00",
       "NumProgressed": 219,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-05-24T13:08:38.265412+00:00",
+      "NumProgressed": 220,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 28,
@@ -510,7 +515,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "MQ01_2",
@@ -518,7 +523,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 69,
       "XP": 40,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "MQ02_1",
@@ -526,7 +531,7 @@
       "Name": "High Profile",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "MQ02_2",
@@ -566,7 +571,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "MQ03_3",
@@ -574,7 +579,7 @@
       "Name": "History Check",
       "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "MQ03_4",
@@ -582,7 +587,7 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "MQ03_5",
@@ -590,7 +595,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "MQ04_1",
@@ -598,7 +603,7 @@
       "Name": "Going Once...",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "MQ04_2",
@@ -630,23 +635,23 @@
       "Name": "Back In The Saddle",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "MQ05_3",
       "SetID": "bbing49",
       "Name": "Sticky Fingers",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 96
+      "UsersEstimate": 99
     },
     {
       "ID": "MQ05_4",
       "SetID": "bbing49",
       "Name": "Knives Out",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 94
+      "UsersEstimate": 97
     },
     {
       "ID": "MQ06_1",
@@ -654,7 +659,7 @@
       "Name": "Brain Food",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "MQ06_2",
@@ -670,7 +675,7 @@
       "Name": "Land, Ho!",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "MQ06_4",
@@ -694,7 +699,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "MQ08_1",
@@ -708,9 +713,9 @@
       "ID": "MQ08_2",
       "SetID": "bbing49",
       "Name": "Up In Flames",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 79
+      "UsersEstimate": 77
     },
     {
       "ID": "MQ08_3",
@@ -733,7 +738,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 219,
+      "Progressed": 220,
       "Completed": 12
     }
   ],
@@ -741,8 +746,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-24T12:02:33.5538075+00:00",
+  "LastChanged_Achievements": "2023-05-24T13:08:38.2654115+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.473335+00:00",
-  "LastUpdate_Ratings": "2023-05-24T11:57:02.0810378+00:00",
-  "LastUpdate_Achievements": "2023-05-24T12:02:33.5538251+00:00"
+  "LastUpdate_Ratings": "2023-05-24T13:03:22.2064454+00:00",
+  "LastUpdate_Achievements": "2023-05-24T13:08:38.2654393+00:00"
 }

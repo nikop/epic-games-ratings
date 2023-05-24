@@ -5,38 +5,38 @@ Rating: 4.87 (Ranked 25)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 83.00% | ~1,694 |
-| Feeling the beat! | 83.00% | ~1,694 |
-| You can pet the cat! | 77.00% | ~1,572 |
-| Who put gears in there? | 71.00% | ~1,449 |
-| Cream of the Crop | 66.00% | ~1,347 |
-| Thanks for the free chip, Peppermint! | 65.00% | ~1,327 |
-| You got this, Peppermint? | 60.00% | ~1,225 |
-| Perfect Parry | 58.00% | ~1,184 |
-| Alright, that felt AWESOME! | 57.00% | ~1,163 |
-| I play my own way! | 53.00% | ~1,082 |
-| This will cost you big time | 51.00% | ~1,041 |
-| Uh, they were broken when I got here | 50.00% | ~1,020 |
-| Z-shielding's got nothing on us! | 48.00% | ~980 |
-| Kissing the sky! | 47.00% | ~959 |
-| Does that say weakpoint? | 45.00% | ~918 |
-| Whoa! There's ANOTHER health bar!? | 44.00% | ~898 |
-| The Negotiator | 41.00% | ~837 |
-| You must like calling me in, Chai | 37.00% | ~755 |
-| Out in a puff of smoke | 37.00% | ~755 |
-| Headliner | 35.00% | ~714 |
+| Start with a bang! | 83.00% | ~1,696 |
+| Feeling the beat! | 83.00% | ~1,696 |
+| You can pet the cat! | 77.00% | ~1,573 |
+| Who put gears in there? | 71.00% | ~1,451 |
+| Cream of the Crop | 66.00% | ~1,348 |
+| Thanks for the free chip, Peppermint! | 65.00% | ~1,328 |
+| You got this, Peppermint? | 60.00% | ~1,226 |
+| Perfect Parry | 58.00% | ~1,185 |
+| Alright, that felt AWESOME! | 57.00% | ~1,165 |
+| I play my own way! | 53.00% | ~1,083 |
+| This will cost you big time | 51.00% | ~1,042 |
+| Uh, they were broken when I got here | 50.00% | ~1,022 |
+| Z-shielding's got nothing on us! | 49.00% | ~1,001 |
+| Kissing the sky! | 47.00% | ~960 |
+| Does that say weakpoint? | 45.00% | ~919 |
+| Whoa! There's ANOTHER health bar!? | 44.00% | ~899 |
+| The Negotiator | 41.00% | ~838 |
+| You must like calling me in, Chai | 37.00% | ~756 |
+| Out in a puff of smoke | 37.00% | ~756 |
+| Headliner | 35.00% | ~715 |
 | Time to pay up! | 33.00% | ~674 |
 | Perfecter Parry-er! | 33.00% | ~674 |
 | Who's the boss now? | 31.00% | ~633 |
-| I have to read these things? | 30.00% | ~612 |
-| I look cool. But I can look COOLER. | 30.00% | ~612 |
-| There's such a thing as TOO helpful | 23.00% | ~469 |
-| That's a lot of junk metal… | 22.00% | ~449 |
+| I have to read these things? | 30.00% | ~613 |
+| I look cool. But I can look COOLER. | 30.00% | ~613 |
+| That's a lot of junk metal… | 23.00% | ~470 |
+| There's such a thing as TOO helpful | 23.00% | ~470 |
 | Beat-hit mania | 21.00% | ~429 |
-| I told you I'd be fine, Peppermint! | 20.00% | ~408 |
+| I told you I'd be fine, Peppermint! | 20.00% | ~409 |
 | Well that was a rush! | 19.00% | ~388 |
 | Check out my moves! | 14.00% | ~286 |
-| Wanna hear my playlist? | 13.00% | ~265 |
+| Wanna hear my playlist? | 13.00% | ~266 |
 | Chip-tuned | 12.00% | ~245 |
 | We're Jammin' | 10.00% | ~204 |
 | I think I found your calling, Macaron | 9.00% | ~184 |
@@ -44,8 +44,8 @@ Rating: 4.87 (Ranked 25)
 | I hit things with a guitar really well. | 9.00% | ~184 |
 | First we parry, then we counter | 8.00% | ~163 |
 | I think I deserve some praise, here! | 7.00% | ~143 |
-| This is a breeze! | 6.00% | ~122 |
-| You ever parry a volcano? | 6.00% | ~122 |
+| This is a breeze! | 6.00% | ~123 |
+| You ever parry a volcano? | 6.00% | ~123 |
 | OK, well THEY came after ME! | 4.00% | ~82 |
 | Easy Listening | 3.00% | ~61 |
 | Problem solved... wait, what? | 3.00% | ~61 |
@@ -67,7 +67,7 @@ Rating: 4.87 (Ranked 25)
 | Didn't skip a beat! | 0.30% | ~6 |
 | What a journey it was... | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,041 (Ranked 146)  
+Progressed: 2,043 (Ranked 146)  
 Completed: 4 (0.20%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 4 (0.20%) (Ranked 141)
 | 2023-05-21 | 1,841 | 4 |
 | 2023-05-22 | 1,920 | 4 |
 | 2023-05-23 | 2,003 | 4 |
-| 2023-05-24 | 2,041 | 4 |
+| 2023-05-24 | 2,043 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

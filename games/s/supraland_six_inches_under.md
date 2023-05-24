@@ -32,7 +32,7 @@ Number of Ratings: 209  (23.09.2022)
 | Mission Unlikely | 85.00% | ~1,720 |
 | Don't draw dicks pls | 84.00% | ~1,700 |
 | Ripped | 84.00% | ~1,700 |
-| Beat the big arena | 82.00% | ~1,660 |
+| Beat the big arena | 83.00% | ~1,680 |
 | Force Cube | 82.00% | ~1,660 |
 | Got Battery | 80.00% | ~1,619 |
 | Guard Distracted | 80.00% | ~1,619 |

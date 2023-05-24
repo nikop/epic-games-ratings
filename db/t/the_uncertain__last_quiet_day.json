@@ -194,9 +194,9 @@
       "ID": "BUCKLE_UP",
       "SetID": "2iigf77",
       "Name": "Buckle up",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 265
+      "UsersEstimate": 269
     },
     {
       "ID": "CONCRETE_PAINTING",
@@ -330,9 +330,9 @@
       "ID": "NOW_YOU_KNOW",
       "SetID": "2iigf77",
       "Name": "Now you know",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 238
+      "UsersEstimate": 242
     },
     {
       "ID": "PERFECT_HEARING",
@@ -435,8 +435,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-05-24T12:05:35.7701641+00:00",
+  "LastChanged_Achievements": "2023-05-24T13:11:55.7543393+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:21.9827734+00:00",
-  "LastUpdate_Ratings": "2023-05-24T11:58:33.9132777+00:00",
-  "LastUpdate_Achievements": "2023-05-24T12:05:35.7701826+00:00"
+  "LastUpdate_Ratings": "2023-05-24T13:04:50.3271811+00:00",
+  "LastUpdate_Achievements": "2023-05-24T13:11:55.7543602+00:00"
 }

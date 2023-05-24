@@ -5,21 +5,21 @@ Rating: 4.18 (Ranked 830)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 6.00% | ~808 |
+| Flesh Wound | 6.00% | ~809 |
 | Giving Back | 5.00% | ~674 |
 | Chew 'Em Up | 5.00% | ~674 |
 | Instigator | 4.00% | ~56 |
 | Big Game Hunter | 4.00% | ~56 |
 | Bear Trap | 3.00% | ~42 |
-| Get a Grip | 2.00% | ~269 |
-| Workplace Hazard | 2.00% | ~269 |
-| The Commonality | 2.00% | ~269 |
-| Float Like A Butterfly | 2.00% | ~269 |
-| Reforged | 2.00% | ~269 |
-| Paper Jams | 2.00% | ~269 |
-| Mugshot | 2.00% | ~269 |
-| The Outer Way | 2.00% | ~269 |
-| Desperate Times | 2.00% | ~269 |
+| Get a Grip | 2.00% | ~270 |
+| Workplace Hazard | 2.00% | ~270 |
+| The Commonality | 2.00% | ~270 |
+| Float Like A Butterfly | 2.00% | ~270 |
+| Reforged | 2.00% | ~270 |
+| Paper Jams | 2.00% | ~270 |
+| Mugshot | 2.00% | ~270 |
+| The Outer Way | 2.00% | ~270 |
+| Desperate Times | 2.00% | ~270 |
 | Big Spender | 2.00% | ~28 |
 | Parole Denied | 1.00% | ~14 |
 | Terminated | 1.00% | ~135 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 830)
 | Subject Alpha | 0.10% | ~1 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,473 (Ranked 101)  
+Progressed: 13,479 (Ranked 101)  
 Completed: 52 (0.39%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 52 (0.39%) (Ranked 112)
 | 2023-05-21 | 13,223 | 52 |
 | 2023-05-22 | 13,347 | 52 |
 | 2023-05-23 | 13,444 | 52 |
-| 2023-05-24 | 13,473 | 52 |
+| 2023-05-24 | 13,479 | 52 |
 ## Awards
 Max (Highly Recommended): 46  (Ranked 397)  
 Sum: 267 (Ranked 335)  

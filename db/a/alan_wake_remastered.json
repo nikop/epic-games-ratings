@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2021-10-05T04:00:00+00:00",
     "PcReleaseDate": "2021-10-05T04:00:00+00:00",
@@ -506,10 +506,10 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 46950,
-  "EOS_Completed": 45,
-  "EOS_NewPlayers": 750,
-  "EOS_NewCompleters": 1,
+  "EOS_Progressed": 46956,
+  "EOS_Completed": 46,
+  "EOS_NewPlayers": 752,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
     {
@@ -2431,6 +2431,11 @@
       "Time": "2023-05-24T12:05:34.0077424+00:00",
       "NumProgressed": 46950,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-05-24T13:11:54.0089427+00:00",
+      "NumProgressed": 46956,
+      "NumCompleted": 46
     }
   ],
   "TotalAchievements": 67,
@@ -2442,7 +2447,7 @@
       "Name": "Follow the Light",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 9860
+      "UsersEstimate": 9861
     },
     {
       "ID": "02",
@@ -2466,7 +2471,7 @@
       "Name": "Boob Tube",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "05",
@@ -2474,7 +2479,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5634
+      "UsersEstimate": 5635
     },
     {
       "ID": "06",
@@ -2482,7 +2487,7 @@
       "Name": "Park Ranger",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4695
+      "UsersEstimate": 4696
     },
     {
       "ID": "07",
@@ -2522,7 +2527,7 @@
       "Name": "Children of the Elder God",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "12",
@@ -2538,7 +2543,7 @@
       "Name": "Drink \u0027Em Both Up",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "14",
@@ -2578,7 +2583,7 @@
       "Name": "Hardboiled Writer",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "19",
@@ -2594,7 +2599,7 @@
       "Name": "If It Flies, It Burns",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "21",
@@ -2690,7 +2695,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7512
+      "UsersEstimate": 7513
     },
     {
       "ID": "33",
@@ -2714,7 +2719,7 @@
       "Name": "Let There Be Light",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7982
+      "UsersEstimate": 7983
     },
     {
       "ID": "36",
@@ -2778,7 +2783,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 4695
+      "UsersEstimate": 4696
     },
     {
       "ID": "44",
@@ -2818,7 +2823,7 @@
       "Name": "KBF-FM",
       "Percentage": 3,
       "XP": 110,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "49",
@@ -2842,7 +2847,7 @@
       "Name": "A Friend in Need",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "52",
@@ -2977,21 +2982,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 46950,
-      "Completed": 45
+      "Progressed": 46956,
+      "Completed": 46
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 10418,
+      "Progressed": 10424,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-04-09T06:57:34.0412693+00:00",
-  "LastChanged_Achievements": "2023-05-24T12:05:34.0077419+00:00",
+  "LastChanged_Achievements": "2023-05-24T13:11:54.0089422+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:07.5579983+00:00",
-  "LastUpdate_Ratings": "2023-05-24T11:57:25.3222476+00:00",
-  "LastUpdate_Achievements": "2023-05-24T12:05:34.0078005+00:00"
+  "LastUpdate_Ratings": "2023-05-24T13:03:44.2184622+00:00",
+  "LastUpdate_Achievements": "2023-05-24T13:11:54.0090178+00:00"
 }

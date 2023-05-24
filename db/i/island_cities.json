@@ -759,17 +759,17 @@
       "ID": "LEVEL_010",
       "SetID": "3khpmem",
       "Name": "Easy and steady climb",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "LEVEL_011",
       "SetID": "3khpmem",
       "Name": "At the heart of the city",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "LEVEL_012",
@@ -872,8 +872,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-24T12:05:21.6458261+00:00",
+  "LastChanged_Achievements": "2023-05-24T13:11:41.7244323+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:36.8517809+00:00",
-  "LastUpdate_Ratings": "2023-05-24T11:57:50.6460337+00:00",
-  "LastUpdate_Achievements": "2023-05-24T12:05:21.6458413+00:00"
+  "LastUpdate_Ratings": "2023-05-24T13:04:08.5868651+00:00",
+  "LastUpdate_Achievements": "2023-05-24T13:11:41.7244528+00:00"
 }

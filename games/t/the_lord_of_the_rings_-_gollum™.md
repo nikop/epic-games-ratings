@@ -7,13 +7,13 @@
 | Collectibles Part 1 | 60.00% | ~3 |
 | Wait! Wait! Not yet! | 40.00% | ~2 |
 | The Wraith | 20.00% | ~1 |
+| The Maggot | 20.00% | ~1 |
 | Like Flying... | 20.00% | ~1 |
 | Welcome to Mordor! | 20.00% | ~1 |
 | He's so Annoying | 0.00% | ~0 |
 | Break a Leg! | 0.00% | ~0 |
 | And now we wish... | 0.00% | ~0 |
 | The Friend | 0.00% | ~0 |
-| The Maggot | 0.00% | ~0 |
 | The Breeder | 0.00% | ~0 |
 | The Veteran | 0.00% | ~0 |
 | The Traitor | 0.00% | ~0 |

@@ -1440,9 +1440,9 @@
       "Count": 204
     }
   ],
-  "EOS_Progressed": 18948,
+  "EOS_Progressed": 18952,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2670,6 +2670,11 @@
       "Time": "2023-05-24T11:05:16.5630304+00:00",
       "NumProgressed": 18948,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-24T13:11:58.4128341+00:00",
+      "NumProgressed": 18952,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -2713,7 +2718,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2842
+      "UsersEstimate": 2843
     },
     {
       "ID": "EstateAgent",
@@ -2721,7 +2726,7 @@
       "Name": "Estate Agent",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "FirstMoney",
@@ -2729,7 +2734,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 17811
+      "UsersEstimate": 17815
     },
     {
       "ID": "GameOver",
@@ -2785,7 +2790,7 @@
       "Name": "Millionaire",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "MrAndMrsJantart",
@@ -2809,7 +2814,7 @@
       "Name": "Perfectionist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "RafaelErko",
@@ -2817,7 +2822,7 @@
       "Name": "Alpha Male",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3600
+      "UsersEstimate": 3601
     },
     {
       "ID": "SeniorEstateAgent",
@@ -2841,7 +2846,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5874
+      "UsersEstimate": 5875
     },
     {
       "ID": "VeronicaLiptson",
@@ -2849,7 +2854,7 @@
       "Name": "Artistic soul",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1705
+      "UsersEstimate": 1706
     },
     {
       "ID": "YouDoItWrong",
@@ -2857,22 +2862,22 @@
       "Name": "You do it wrong",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     }
   ],
   "AchievementSets": [
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 18948,
+      "Progressed": 18952,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-05-23T17:00:20.2322091+00:00",
-  "LastChanged_Achievements": "2023-05-24T12:05:38.2711158+00:00",
+  "LastChanged_Achievements": "2023-05-24T13:11:58.4128336+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:56.8900842+00:00",
-  "LastUpdate_Ratings": "2023-05-24T11:59:20.0341517+00:00",
-  "LastUpdate_Achievements": "2023-05-24T12:05:38.2711389+00:00"
+  "LastUpdate_Ratings": "2023-05-24T13:05:34.0833913+00:00",
+  "LastUpdate_Achievements": "2023-05-24T13:11:58.412857+00:00"
 }

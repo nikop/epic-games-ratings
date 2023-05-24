@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1326,
+  "EOS_Progressed": 1328,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 601,
+  "EOS_NewPlayers": 602,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1239,6 +1239,11 @@
       "Time": "2023-05-24T12:05:30.8875928+00:00",
       "NumProgressed": 1326,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-24T13:11:50.7759182+00:00",
+      "NumProgressed": 1328,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1328,9 +1333,9 @@
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 212
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1512,9 +1517,9 @@
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
       "SetID": "bm6el81",
       "Name": "Snake in the Grass",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 27
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -1624,9 +1629,9 @@
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
       "SetID": "bm6el81",
       "Name": "Brains of the Operation",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -1817,13 +1822,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1277,
+      "Progressed": 1279,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1326,
+      "Progressed": 1328,
       "Completed": 2
     }
   ],
@@ -1831,8 +1836,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-23T13:59:59.0486682+00:00",
-  "LastChanged_Achievements": "2023-05-24T12:05:30.8875923+00:00",
+  "LastChanged_Achievements": "2023-05-24T13:11:50.7759177+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-24T12:00:27.7395694+00:00",
-  "LastUpdate_Achievements": "2023-05-24T12:05:30.8876479+00:00"
+  "LastUpdate_Ratings": "2023-05-24T13:06:40.7714668+00:00",
+  "LastUpdate_Achievements": "2023-05-24T13:11:50.7760004+00:00"
 }

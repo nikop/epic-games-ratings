@@ -6,18 +6,18 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,003 |
+| On My Own Two Feet | 94.00% | ~4,004 |
 | I'll Be Back | 84.00% | ~3,578 |
-| Sorry, I Dropped This | 77.00% | ~3,279 |
-| First Day on the Job | 76.00% | ~3,237 |
-| Butcher's Bill | 55.00% | ~2,342 |
+| Sorry, I Dropped This | 77.00% | ~3,280 |
+| First Day on the Job | 76.00% | ~3,238 |
+| Butcher's Bill | 55.00% | ~2,343 |
 | P.A.X | 37.00% | ~1,576 |
-| Hey Listen | 36.00% | ~1,533 |
+| Hey Listen | 36.00% | ~1,534 |
 | OPERATOR | 35.00% | ~1,491 |
-| It's Blue Light | 33.00% | ~1,405 |
-| Most Wanted | 26.00% | ~1,107 |
+| It's Blue Light | 33.00% | ~1,406 |
+| Most Wanted | 26.00% | ~1,108 |
 | Infidel | 23.00% | ~980 |
-| GOLIATH | 21.00% | ~894 |
+| GOLIATH | 21.00% | ~895 |
 | Firebug | 20.00% | ~852 |
 | I Choose You | 17.00% | ~724 |
 | Nothing to Lose | 17.00% | ~724 |
@@ -27,9 +27,9 @@ Number of Ratings: 62  (23.09.2022)
 | The Black Cerberus | 12.00% | ~511 |
 | Watchman | 12.00% | ~511 |
 | Core Power | 12.00% | ~511 |
-| CREO Killed the Video Star | 11.00% | ~468 |
-| Who's in Charge Here? | 11.00% | ~468 |
-| Shall Not Pass | 11.00% | ~468 |
+| CREO Killed the Video Star | 11.00% | ~469 |
+| Who's in Charge Here? | 11.00% | ~469 |
+| Shall Not Pass | 11.00% | ~469 |
 | Right Tool for the Job | 10.00% | ~426 |
 | Raging Drones | 9.00% | ~383 |
 | Overconfident | 9.00% | ~383 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.50% | ~21 |
 | The Surge | 0.40% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,259 (Ranked 126)  
+Progressed: 4,260 (Ranked 126)  
 Completed: 13 (0.31%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 13 (0.31%) (Ranked 124)
 | 2023-05-21 | 4,249 | 13 |
 | 2023-05-22 | 4,252 | 13 |
 | 2023-05-23 | 4,258 | 13 |
-| 2023-05-24 | 4,259 | 13 |
+| 2023-05-24 | 4,260 | 13 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 459)  
 Sum: 26 (Ranked 465)  
