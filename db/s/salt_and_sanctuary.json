@@ -2211,9 +2211,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 521953,
+  "EOS_Progressed": 521957,
   "EOS_Completed": 1419,
-  "EOS_NewPlayers": 804,
+  "EOS_NewPlayers": 806,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -5496,6 +5496,11 @@
       "Time": "2023-05-24T07:05:29.9126312+00:00",
       "NumProgressed": 521953,
       "NumCompleted": 1419
+    },
+    {
+      "Time": "2023-05-24T08:06:52.69739+00:00",
+      "NumProgressed": 521957,
+      "NumCompleted": 1419
     }
   ],
   "TotalAchievements": 37,
@@ -5523,7 +5528,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 156586
+      "UsersEstimate": 156587
     },
     {
       "ID": "DEVOTED",
@@ -5563,7 +5568,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 433221
+      "UsersEstimate": 433224
     },
     {
       "ID": "HONED",
@@ -5619,7 +5624,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 208781
+      "UsersEstimate": 208783
     },
     {
       "ID": "THE_CASTLE",
@@ -5667,7 +5672,7 @@
       "Name": "The Forest",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 73073
+      "UsersEstimate": 73074
     },
     {
       "ID": "THE_IMPOSTER",
@@ -5747,7 +5752,7 @@
       "Name": "The Sacrifice",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 41756
+      "UsersEstimate": 41757
     },
     {
       "ID": "THE_STONE_ROOTS",
@@ -5763,7 +5768,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 334050
+      "UsersEstimate": 334052
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -5779,7 +5784,7 @@
       "Name": "The Village",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 83512
+      "UsersEstimate": 83513
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -5802,15 +5807,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 521953,
+      "Progressed": 521957,
       "Completed": 1419
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-05-23T06:58:55.8573377+00:00",
-  "LastChanged_Achievements": "2023-05-24T07:05:29.9126309+00:00",
+  "LastChanged_Achievements": "2023-05-24T08:06:52.6973895+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:40.8426425+00:00",
-  "LastUpdate_Ratings": "2023-05-24T06:58:58.6510638+00:00",
-  "LastUpdate_Achievements": "2023-05-24T07:05:29.9126769+00:00"
+  "LastUpdate_Ratings": "2023-05-24T07:59:54.2803481+00:00",
+  "LastUpdate_Achievements": "2023-05-24T08:06:52.6974553+00:00"
 }

@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Apprentice | 55.00% | ~6 |
 | Poor Devil | 55.00% | ~6 |
 | Mystery Tour | 55.00% | ~6 |
-| Apprentice | 45.00% | ~5 |
 | Departure | 45.00% | ~5 |
 | A new Journey | 45.00% | ~5 |
 | Country Bumpkin | 45.00% | ~5 |

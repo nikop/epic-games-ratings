@@ -35,7 +35,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | MASS-O-BOT | 25.00% | ~4,335 |
 | Where there is Light, there is Shadow | 25.00% | ~4,335 |
 | At the foot of Mount Destiny | 24.00% | ~4,161 |
-| The Force disturbed | 22.00% | ~3,815 |
+| The Force disturbed | 23.00% | ~3,988 |
 | The Victorious Evil | 21.00% | ~3,641 |
 | Chorus of damnation | 20.00% | ~3,468 |
 | We don’t have time! | 20.00% | ~3,468 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-03-25T23:00:00+00:00",
     "PcReleaseDate": "2021-03-25T23:00:00+00:00",
@@ -791,17 +791,17 @@
       "ID": "ACH_MILLIONAIRE",
       "SetID": "13614nd",
       "Name": "Millionaire",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_MR_CLEAN",
       "SetID": "13614nd",
       "Name": "Mr Clean",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_NO_RETIREMENT_FOR_YOU",
@@ -903,9 +903,9 @@
       "ID": "ACH_RENOVATOR",
       "SetID": "13614nd",
       "Name": "Renovator",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_RENOVATOR_EXPERT",
@@ -1109,8 +1109,8 @@
   "FirstSeen": "2022-07-22T20:28:48.0535215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:11.1531533+00:00",
   "LastChanged": "2023-03-31T05:58:15.6657628+00:00",
-  "LastChanged_Achievements": "2023-05-24T07:02:16.5253934+00:00",
+  "LastChanged_Achievements": "2023-05-24T08:02:04.2092927+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:05.5930248+00:00",
-  "LastUpdate_Ratings": "2023-05-24T06:58:32.2775961+00:00",
-  "LastUpdate_Achievements": "2023-05-24T07:02:16.5254958+00:00"
+  "LastUpdate_Ratings": "2023-05-24T07:59:16.0253628+00:00",
+  "LastUpdate_Achievements": "2023-05-24T08:02:04.2093967+00:00"
 }

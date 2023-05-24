@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 135,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1376,9 +1376,9 @@
       "ID": "STORE_NUTRITION_20000",
       "SetID": "5349c2e",
       "Name": "Fit For A King",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 916
+      "UsersEstimate": 943
     },
     {
       "ID": "STORE_NUTRITION_5000",
@@ -1496,8 +1496,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-05-20T17:59:42.2266886+00:00",
-  "LastChanged_Achievements": "2023-05-24T07:05:37.1239327+00:00",
+  "LastChanged_Achievements": "2023-05-24T08:07:02.7160215+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:15.8703194+00:00",
-  "LastUpdate_Ratings": "2023-05-24T06:59:23.8829338+00:00",
-  "LastUpdate_Achievements": "2023-05-24T07:05:37.1239566+00:00"
+  "LastUpdate_Ratings": "2023-05-24T08:00:33.3267238+00:00",
+  "LastUpdate_Achievements": "2023-05-24T08:07:02.716043+00:00"
 }

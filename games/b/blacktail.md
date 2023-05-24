@@ -9,7 +9,7 @@ Rating: 4.67 (Ranked 255)
 | Dental maturity | 19.00% | ~73 |
 | Devil's in the details | 13.00% | ~50 |
 | Uprooting | 12.00% | ~46 |
-| Forbidden techniques | 11.00% | ~42 |
+| Forbidden techniques | 12.00% | ~46 |
 | Slavic squatter | 10.00% | ~38 |
 | Devoted | 8.00% | ~31 |
 | Gold rush | 7.00% | ~27 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 70,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3898,7 +3898,7 @@
       "Count": 3238
     }
   ],
-  "EOS_Progressed": 88455,
+  "EOS_Progressed": 88460,
   "EOS_Completed": 1873,
   "EOS_NewPlayers": 718,
   "EOS_NewCompleters": 26,
@@ -7163,6 +7163,11 @@
       "Time": "2023-05-24T07:05:54.9824306+00:00",
       "NumProgressed": 88455,
       "NumCompleted": 1873
+    },
+    {
+      "Time": "2023-05-24T08:07:26.665711+00:00",
+      "NumProgressed": 88460,
+      "NumCompleted": 1873
     }
   ],
   "TotalAchievements": 493,
@@ -9036,9 +9041,9 @@
       "ID": "objective_completed_4",
       "SetID": "cc37lbc",
       "Name": "Are Ya Chicken?",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 265
     },
     {
       "ID": "objective_completed_40",
@@ -11117,21 +11122,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54729,
+      "Progressed": 54734,
       "Completed": 2684
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88455,
+      "Progressed": 88460,
       "Completed": 1873
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-23T16:58:40.8239248+00:00",
-  "LastChanged_Achievements": "2023-05-24T07:05:54.9824302+00:00",
+  "LastChanged_Achievements": "2023-05-24T08:07:26.6657103+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-24T06:57:54.8755331+00:00",
-  "LastUpdate_Achievements": "2023-05-24T07:05:54.9851594+00:00"
+  "LastUpdate_Ratings": "2023-05-24T07:58:19.4134376+00:00",
+  "LastUpdate_Achievements": "2023-05-24T08:07:26.6683819+00:00"
 }

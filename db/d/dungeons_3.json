@@ -2064,7 +2064,7 @@
   ],
   "EOS_Progressed": 17339,
   "EOS_Completed": 156,
-  "EOS_NewPlayers": 1024,
+  "EOS_NewPlayers": 1019,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -5673,9 +5673,9 @@
       "ID": "ACH_D3_Campaign_Ritual_Completed",
       "SetID": "cda475f",
       "Name": "The Force disturbed",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 3815
+      "UsersEstimate": 3988
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_1",
@@ -5809,8 +5809,8 @@
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-05-23T17:59:04.6642769+00:00",
-  "LastChanged_Achievements": "2023-05-24T07:03:49.0691633+00:00",
+  "LastChanged_Achievements": "2023-05-24T08:04:18.5538613+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:24.9884893+00:00",
-  "LastUpdate_Ratings": "2023-05-24T06:58:49.0816711+00:00",
-  "LastUpdate_Achievements": "2023-05-24T07:03:49.0692371+00:00"
+  "LastUpdate_Ratings": "2023-05-24T07:59:39.8305105+00:00",
+  "LastUpdate_Achievements": "2023-05-24T08:04:18.5539425+00:00"
 }

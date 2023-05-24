@@ -22,8 +22,8 @@ Number of Ratings: 706  (23.09.2022)
 | Home Cooked Meal | 43.00% | ~1,158 |
 | Luminary Researcher | 42.00% | ~1,131 |
 | Retribution | 35.00% | ~943 |
+| Fit For A King | 35.00% | ~943 |
 | ...And Don’t Come Back! | 35.00% | ~943 |
-| Fit For A King | 34.00% | ~916 |
 | Heating Up | 23.00% | ~619 |
 | Winter Is Coming | 20.00% | ~539 |
 | Winter Is Here | 18.00% | ~485 |

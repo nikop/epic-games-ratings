@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 578,
+  "EOS_Progressed": 587,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 576,
+  "EOS_NewPlayers": 585,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -224,6 +224,11 @@
       "Time": "2023-05-24T07:02:18.2034454+00:00",
       "NumProgressed": 578,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-24T08:02:06.5523807+00:00",
+      "NumProgressed": 587,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -235,7 +240,7 @@
       "Name": "Aggressor",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "AI_DRAW",
@@ -251,7 +256,7 @@
       "Name": "Bot Destroyer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "CLUMSY",
@@ -259,7 +264,7 @@
       "Name": "Whoops",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "CONQUEROR",
@@ -267,7 +272,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 127
+      "UsersEstimate": 129
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -283,7 +288,7 @@
       "Name": "Face-To-Face",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "FACE_SCREEN_FACE",
@@ -315,7 +320,7 @@
       "Name": "Novice",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 202
+      "UsersEstimate": 205
     },
     {
       "ID": "GLOVE_SLAP",
@@ -323,7 +328,7 @@
       "Name": "Glove Slap!",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "GONNA_FLY_NOW",
@@ -331,15 +336,15 @@
       "Name": "Gonna Fly Now",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "GRASSHOPPER",
       "SetID": "8lhbnh7",
       "Name": "Grasshopper",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 329
+      "UsersEstimate": 340
     },
     {
       "ID": "GUARD_MAKER",
@@ -410,13 +415,13 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 578,
+      "Progressed": 587,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-05-24T07:02:18.2034451+00:00",
+  "LastChanged_Achievements": "2023-05-24T08:02:06.5523799+00:00",
   "LastUpdate_AppInfo": "2023-05-23T13:57:02.9194307+00:00",
-  "LastUpdate_Ratings": "2023-05-24T06:57:05.0057233+00:00",
-  "LastUpdate_Achievements": "2023-05-24T07:02:18.203464+00:00"
+  "LastUpdate_Ratings": "2023-05-24T07:57:06.4935208+00:00",
+  "LastUpdate_Achievements": "2023-05-24T08:02:06.5523986+00:00"
 }

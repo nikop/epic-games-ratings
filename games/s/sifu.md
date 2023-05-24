@@ -6,10 +6,11 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~568 |
+| Diligence as a goal | 4.00% | ~569 |
 | Project Arena | 3.00% | ~426 |
 | Bloody Sport | 1.00% | ~142 |
 | The best strikes are the ones we avoid | 1.00% | ~142 |
+| The Assault | 0.90% | ~6,344 |
 | The Hateful Pole Fighter | 0.90% | ~6,344 |
 | A Lady's Blood in the Snow | 0.90% | ~6,344 |
 | State of constant learning | 0.90% | ~6,344 |
@@ -17,7 +18,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 0.90% | ~6,344 |
 | Rumble in the Hangar | 0.90% | ~6,344 |
 | The Old Grandmaster | 0.80% | ~5,639 |
-| The Assault | 0.80% | ~5,639 |
 | Lady Wing Chun | 0.80% | ~5,639 |
 | Furious Fists | 0.80% | ~5,639 |
 | Kill Nil | 0.80% | ~5,639 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~705 |
 | Warriors from the Mountain | 0.10% | ~705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 704,906 (Ranked 15)  
+Progressed: 704,915 (Ranked 15)  
 Completed: 12,734 (1.81%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 12,734 (1.81%) (Ranked 64)
 | 2023-05-21 | 704,407 | 12,733 |
 | 2023-05-22 | 704,647 | 12,733 |
 | 2023-05-23 | 704,864 | 12,733 |
-| 2023-05-24 | 704,906 | 12,734 |
+| 2023-05-24 | 704,915 | 12,734 |
 ## Awards
 Max (Great Boss Battles): 6,084  (Ranked 53)  
 Sum: 10,357 (Ranked 77)  

@@ -6,10 +6,10 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~63,651 |
-| Powergamer | 27.00% | ~61,378 |
-| Barely scratched the surface | 25.00% | ~56,831 |
-| Write that down | 24.00% | ~54,558 |
+| I will finish what you started | 28.00% | ~63,652 |
+| Powergamer | 27.00% | ~61,379 |
+| Barely scratched the surface | 25.00% | ~56,832 |
+| Write that down | 24.00% | ~54,559 |
 | Guns, lots of guns | 12.00% | ~27,279 |
 | Collector | 11.00% | ~25,006 |
 | Elementary! | 8.00% | ~18,186 |
@@ -26,14 +26,14 @@ Number of Ratings: 33  (23.09.2022)
 | I like to sniff around | 3.00% | ~6,820 |
 | Mind reader | 3.00% | ~6,820 |
 | So you like to read? | 3.00% | ~6,820 |
-| Gentleman's classic | 2.00% | ~4,546 |
-| Hoarder | 2.00% | ~4,546 |
-| Is that a rift? | 2.00% | ~4,546 |
-| It's alive! | 2.00% | ~4,546 |
-| Enjoy the beach | 2.00% | ~4,546 |
-| Rinse and repeat | 2.00% | ~4,546 |
-| Mama, I'm a criminal | 2.00% | ~4,546 |
-| Never gonna give you up | 2.00% | ~4,546 |
+| Gentleman's classic | 2.00% | ~4,547 |
+| Hoarder | 2.00% | ~4,547 |
+| Is that a rift? | 2.00% | ~4,547 |
+| It's alive! | 2.00% | ~4,547 |
+| Enjoy the beach | 2.00% | ~4,547 |
+| Rinse and repeat | 2.00% | ~4,547 |
+| Mama, I'm a criminal | 2.00% | ~4,547 |
+| Never gonna give you up | 2.00% | ~4,547 |
 | A muscle to rely on | 1.00% | ~2,273 |
 | Catnip | 1.00% | ~2,273 |
 | I am in great pain, please help me | 1.00% | ~2,273 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~455 |
 | Memory 5 | 0.10% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,325 (Ranked 42)  
+Progressed: 227,329 (Ranked 42)  
 Completed: 5 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 5 (0.00%) (Ranked 202)
 | 2023-05-21 | 226,894 | 5 |
 | 2023-05-22 | 227,100 | 5 |
 | 2023-05-23 | 227,294 | 5 |
-| 2023-05-24 | 227,325 | 5 |
+| 2023-05-24 | 227,329 | 5 |
 ## Awards
 Max (Character Customization): 73  (Ranked 358)  
 Sum: 73 (Ranked 416)  

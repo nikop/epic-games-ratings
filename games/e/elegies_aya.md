@@ -7,9 +7,9 @@
 | You've met with a terrible fate haven't you? | 50.00% | ~4 |
 | Nothing in life is to be feared | 25.00% | ~2 |
 | Late night investigation | 13.00% | ~1 |
+| It's a trap! | 13.00% | ~1 |
+| Like a ninja! | 13.00% | ~1 |
 | Knock knock | 0.00% | ~0 |
-| It's a trap! | 0.00% | ~0 |
-| Like a ninja! | 0.00% | ~0 |
 | Lights out | 0.00% | ~0 |
 | Payback | 0.00% | ~0 |
 | The end... or is it? | 0.00% | ~0 |

@@ -38,6 +38,7 @@
 | Archipelago urban planner | 1.00% | ~2 |
 | City crisis | 1.00% | ~2 |
 | Perfect city | 1.00% | ~2 |
+| Oh, I am sad | 1.00% | ~2 |
 | Town planner | 1.00% | ~2 |
 | Anarchist paradise | 0.60% | ~1 |
 | I can't see the sky | 0.60% | ~1 |
@@ -45,7 +46,6 @@
 | Urban style | 0.60% | ~1 |
 | Desert builder | 0.60% | ~1 |
 | Desert urban planner | 0.60% | ~1 |
-| Oh, I am sad | 0.60% | ~1 |
 | Oh, life is too awesome! Thank you! | 0.60% | ~1 |
 | Farming Frenzy | 0.60% | ~1 |
 | I don't feel well, I have to drink a coffe | 0.60% | ~1 |

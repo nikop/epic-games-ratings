@@ -4,8 +4,8 @@
   "ProductSlug": "railway-empire-2-46840c",
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -74,9 +74,9 @@
       "ID": "A00",
       "SetID": "9b7p7eo",
       "Name": "Apprentice",
-      "Percentage": 45,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "A01",
@@ -520,8 +520,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
-  "LastChanged_Achievements": "2023-05-24T07:05:35.3732515+00:00",
+  "LastChanged_Achievements": "2023-05-24T08:07:00.2699399+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:39.7708852+00:00",
-  "LastUpdate_Ratings": "2023-05-24T06:57:55.8073483+00:00",
-  "LastUpdate_Achievements": "2023-05-24T07:05:35.3733005+00:00"
+  "LastUpdate_Ratings": "2023-05-24T07:58:20.8063096+00:00",
+  "LastUpdate_Achievements": "2023-05-24T08:07:00.2699802+00:00"
 }

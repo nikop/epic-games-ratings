@@ -503,9 +503,9 @@
       "ID": "MQ01_1",
       "SetID": "bbing49",
       "Name": "Read Between The Lines",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 142
     },
     {
       "ID": "MQ01_2",
@@ -703,9 +703,9 @@
       "ID": "MQ08_2",
       "SetID": "bbing49",
       "Name": "Up In Flames",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "MQ08_3",
@@ -736,8 +736,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-24T07:03:12.4203874+00:00",
+  "LastChanged_Achievements": "2023-05-24T08:03:12.134564+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.473335+00:00",
-  "LastUpdate_Ratings": "2023-05-24T06:57:14.552572+00:00",
-  "LastUpdate_Achievements": "2023-05-24T07:03:12.4204106+00:00"
+  "LastUpdate_Ratings": "2023-05-24T07:57:20.4196374+00:00",
+  "LastUpdate_Achievements": "2023-05-24T08:03:12.1345918+00:00"
 }

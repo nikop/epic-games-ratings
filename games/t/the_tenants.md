@@ -7,6 +7,7 @@ Number of Ratings: 82  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | And So It Begins | 0.30% | ~29 |
+| Renovator | 0.30% | ~29 |
 | Still Kind Of Poor | 0.30% | ~29 |
 | Well Off | 0.30% | ~29 |
 | Agent | 0.20% | ~19 |
@@ -19,7 +20,8 @@ Number of Ratings: 82  (23.09.2022)
 | Kill It With Gas | 0.20% | ~19 |
 | Loaded | 0.20% | ~19 |
 | Lured In | 0.20% | ~19 |
-| Renovator | 0.20% | ~19 |
+| Millionaire | 0.20% | ~19 |
+| Mr Clean | 0.20% | ~19 |
 | Expert Renovator | 0.20% | ~19 |
 | Master Renovator | 0.20% | ~19 |
 | Treasure Hunter | 0.20% | ~19 |
@@ -39,8 +41,6 @@ Number of Ratings: 82  (23.09.2022)
 | Kitchen Hell | 0.10% | ~10 |
 | Landlord’s Dream | 0.10% | ~10 |
 | Matchmaker | 0.10% | ~10 |
-| Millionaire | 0.10% | ~10 |
-| Mr Clean | 0.10% | ~10 |
 | Passive Income | 0.10% | ~10 |
 | Petty Bickering | 0.10% | ~10 |
 | Privileged | 0.10% | ~10 |

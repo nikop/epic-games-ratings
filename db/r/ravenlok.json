@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 23,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -1962,9 +1962,9 @@
       "ID": "39",
       "SetID": "d0g98p",
       "Name": "All Skilled Up!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 278
+      "UsersEstimate": 286
     },
     {
       "ID": "4",
@@ -2115,8 +2115,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-24T07:05:17.6457246+00:00",
+  "LastChanged_Achievements": "2023-05-24T08:06:33.9774756+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:59.9943101+00:00",
-  "LastUpdate_Ratings": "2023-05-24T06:57:23.8177048+00:00",
-  "LastUpdate_Achievements": "2023-05-24T07:05:17.645779+00:00"
+  "LastUpdate_Ratings": "2023-05-24T07:57:34.3460624+00:00",
+  "LastUpdate_Achievements": "2023-05-24T08:06:33.9775284+00:00"
 }

@@ -2748,9 +2748,9 @@
       "Count": 485
     }
   ],
-  "EOS_Progressed": 271664,
+  "EOS_Progressed": 271673,
   "EOS_Completed": 370,
-  "EOS_NewPlayers": 4240,
+  "EOS_NewPlayers": 4245,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -6003,6 +6003,11 @@
       "Time": "2023-05-24T07:04:00.0437197+00:00",
       "NumProgressed": 271664,
       "NumCompleted": 370
+    },
+    {
+      "Time": "2023-05-24T08:04:35.5116692+00:00",
+      "NumProgressed": 271673,
+      "NumCompleted": 370
     }
   ],
   "TotalAchievements": 45,
@@ -6012,9 +6017,9 @@
       "ID": "PFA_1",
       "SetID": "1hf4dep",
       "Name": "The Sort Who Makes an Entrance",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 16300
+      "UsersEstimate": 19017
     },
     {
       "ID": "PFA_10",
@@ -6062,7 +6067,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13583
+      "UsersEstimate": 13584
     },
     {
       "ID": "PFA_16",
@@ -6086,7 +6091,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13583
+      "UsersEstimate": 13584
     },
     {
       "ID": "PFA_19",
@@ -6118,7 +6123,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13583
+      "UsersEstimate": 13584
     },
     {
       "ID": "PFA_22",
@@ -6134,7 +6139,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13583
+      "UsersEstimate": 13584
     },
     {
       "ID": "PFA_24",
@@ -6142,7 +6147,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13583
+      "UsersEstimate": 13584
     },
     {
       "ID": "PFA_25",
@@ -6198,7 +6203,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13583
+      "UsersEstimate": 13584
     },
     {
       "ID": "PFA_31",
@@ -6318,7 +6323,7 @@
       "Name": "The Spell Master",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 13583
+      "UsersEstimate": 13584
     },
     {
       "ID": "PFA_45",
@@ -6358,7 +6363,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13583
+      "UsersEstimate": 13584
     },
     {
       "ID": "PFA_9",
@@ -6366,14 +6371,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 13583
+      "UsersEstimate": 13584
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 271664,
+      "Progressed": 271673,
       "Completed": 370
     }
   ],
@@ -6381,8 +6386,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-05-24T03:57:16.3130503+00:00",
-  "LastChanged_Achievements": "2023-05-24T07:04:00.0437193+00:00",
+  "LastChanged_Achievements": "2023-05-24T08:04:35.5116682+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:06.7022297+00:00",
-  "LastUpdate_Ratings": "2023-05-24T06:57:16.9926888+00:00",
-  "LastUpdate_Achievements": "2023-05-24T07:04:00.0437808+00:00"
+  "LastUpdate_Ratings": "2023-05-24T07:57:24.1684581+00:00",
+  "LastUpdate_Achievements": "2023-05-24T08:04:35.5117265+00:00"
 }

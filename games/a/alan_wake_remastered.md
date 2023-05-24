@@ -6,14 +6,14 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 21.00% | ~9,856 |
+| Follow the Light | 21.00% | ~9,857 |
 | Let There Be Light | 17.00% | ~7,979 |
-| Float Like a Butterfly | 16.00% | ~7,509 |
-| Nordic Walking | 13.00% | ~6,101 |
-| Bright Falls' Finest | 13.00% | ~6,101 |
+| Float Like a Butterfly | 16.00% | ~7,510 |
+| Nordic Walking | 13.00% | ~6,102 |
+| Bright Falls' Finest | 13.00% | ~6,102 |
 | Under a Thin Layer of Skin | 12.00% | ~5,632 |
-| Park Ranger | 10.00% | ~4,693 |
-| Paging Mr. Wake | 10.00% | ~4,693 |
+| Park Ranger | 10.00% | ~4,694 |
+| Paging Mr. Wake | 10.00% | ~4,694 |
 | Back! Back, I Say! | 9.00% | ~4,224 |
 | Finders Keepers | 9.00% | ~4,224 |
 | Wheels Within Wheels | 8.00% | ~3,755 |
@@ -23,13 +23,13 @@ Number of Ratings: 524  (23.09.2022)
 | Missed by a Mile | 8.00% | ~3,755 |
 | Damn Good Cup of Coffee | 8.00% | ~3,755 |
 | A Friend in Need | 8.00% | ~832 |
-| Heavy Metal | 7.00% | ~3,285 |
-| Iron Horse | 7.00% | ~3,285 |
-| Perchance to Dream | 7.00% | ~3,285 |
-| It's Not Just a Typewriter Brand | 7.00% | ~3,285 |
-| Thunder and Lightning | 7.00% | ~3,285 |
-| Collateral Carnage | 7.00% | ~3,285 |
-| Come One, Come All | 7.00% | ~3,285 |
+| Heavy Metal | 7.00% | ~3,286 |
+| Iron Horse | 7.00% | ~3,286 |
+| Perchance to Dream | 7.00% | ~3,286 |
+| It's Not Just a Typewriter Brand | 7.00% | ~3,286 |
+| Thunder and Lightning | 7.00% | ~3,286 |
+| Collateral Carnage | 7.00% | ~3,286 |
+| Come One, Come All | 7.00% | ~3,286 |
 | Gatekeeper | 6.00% | ~2,816 |
 | The Lady of the Light | 6.00% | ~2,816 |
 | Two For the Price of One | 6.00% | ~2,816 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Hypercaffeinated | 0.10% | ~47 |
 | No Punctuation | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 46,933 (Ranked 76)  
+Progressed: 46,936 (Ranked 76)  
 Completed: 45 (0.10%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 45 (0.10%) (Ranked 158)
 | 2023-05-21 | 46,674 | 45 |
 | 2023-05-22 | 46,794 | 45 |
 | 2023-05-23 | 46,896 | 45 |
-| 2023-05-24 | 46,933 | 45 |
+| 2023-05-24 | 46,936 | 45 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

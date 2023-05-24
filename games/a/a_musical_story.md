@@ -12,9 +12,9 @@
 | Pinewood, Here we come! | 75.00% | ~45 |
 | The Van | 67.00% | ~40 |
 | Road-Trip | 58.00% | ~35 |
-| A Musical Pause | 55.00% | ~33 |
+| A Musical Pause | 57.00% | ~34 |
 | Sound of Noise | 47.00% | ~28 |
-| Briget's | 45.00% | ~27 |
+| Briget's | 47.00% | ~28 |
 | Big City Music | 42.00% | ~25 |
 | Love at First Sight | 40.00% | ~24 |
 | First Kiss | 35.00% | ~21 |
