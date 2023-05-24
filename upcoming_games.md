@@ -1,8 +1,6 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [Observation Particle Life 1](games/c/cf7613b267a042e9b06d5d527e8a5eb1.md) | 2023-05-24 | 2023-05-24 |
 | [Tuk Tuk Race](games/t/tuk_tuk_race.md) | 2023-05-25 | 2023-05-25 |
-| [World of Contraptions](games/w/world_of_contraptions.md) | 2023-05-25 | 2022-03-24 |
 | [Puzzle Compound](games/d/dc0f95061f7746e3b4ad939bee60f1a3.md) | 2023-05-25 | 2023-05-25 |
 | [Tennis Manager 2023](games/t/tennis_manager_2023.md) | 2023-05-25 | 2023-05-25 |
 | [Hello Goodboy](games/h/hello_goodboy.md) | 2023-05-25 | 2023-05-25 |
@@ -10,6 +8,7 @@
 | [Railway Empire 2](games/r/railway_empire_2.md) | 2023-05-25 | 2023-05-25 |
 | [Indoor Kickball](games/i/indoor_kickball.md) | 2023-05-26 | 2023-05-31 |
 | [The Shape of Things](games/6/610757afe5b8478f89000d9779c205ef.md) | 2023-05-26 | 2023-05-26 |
+| [World of Contraptions](games/w/world_of_contraptions.md) | 2023-05-26 | 2022-03-24 |
 | [Astronite](games/a/a6f0804f960a472c95e3bae2e0543bb0.md) | 2023-05-26 | 2022-11-30 |
 | [Doors - Paradox](games/8/88c17fed155e43068c338d33d1bcd481.md) | 2023-05-26 | 2022-11-03 |
 | [Gardenia](games/g/gardenia.md) | 2023-05-26 | 2023-05-26 |
@@ -177,6 +176,7 @@
 | [The Artifact Hunter](games/t/the_artifact_hunter.md) | 2023-12-31 | 2023-12-31 |
 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 2023-12-31 | 2023-12-31 |
 | [The Sisters 2 - Road to Fame](games/4/4bef38b70f4a4b6ea0d9ebbfe3e517dd.md) | 2023-12-31 | 2023-12-31 |
+| [The Smurfs 2 - The Prisoner of the Green Stone](games/7/76939a6fe2b54f9299254c99a9aebd35.md) | 2023-12-31 | 2023-12-31 |
 | [The Way of Wrath](games/t/the_way_of_wrath.md) | 2023-12-31 | 2023-12-31 |
 | [Tintin Reporter - Cigars of the Pharaoh](games/t/tintin_reporter_-_cigars_of_the_pharaoh.md) | 2023-12-31 | 2023-12-31 |
 | [Train World](games/t/train_world.md) | 2023-12-31 | 2023-12-31 |

@@ -10,7 +10,7 @@
 | 7 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 0 | 491 |
 | 7 | [Mago](games/m/mago.md) | 4.90 | 0 | 491 |
 | 7 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 491 |
-| 7 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,803 | 107 |
+| 7 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,805 | 107 |
 | 7 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 491 |
 | 13 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 7,063 | 45 |
 | 13 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.89 | 0 | 491 |
@@ -308,25 +308,25 @@
 | 291 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 51 | 384 |
 | 291 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 0 | 491 |
 | 291 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,486 | 15 |
+| 291 | [SOMA](games/s/soma.md) | 4.65 | 0 | 491 |
 | 291 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.65 | 0 | 491 |
 | 291 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.65 | 0 | 491 |
 | 291 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.65 | 0 | 491 |
-| 312 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.64 | 0 | 491 |
-| 312 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 0 | 491 |
-| 312 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,929 | 54 |
-| 312 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 114 | 311 |
-| 312 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 0 | 491 |
-| 312 | [HITMAN](games/h/hitman.md) | 4.64 | 197 | 260 |
-| 312 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 180 | 269 |
-| 312 | [Mutazione](games/m/mutazione.md) | 4.64 | 0 | 491 |
-| 312 | [Rogue Lords](games/r/rogue_lords.md) | 4.64 | 0 | 491 |
-| 312 | [SOMA](games/s/soma.md) | 4.64 | 0 | 491 |
-| 312 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.64 | 0 | 491 |
-| 312 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 66 | 368 |
-| 312 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.64 | 0 | 491 |
-| 312 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.64 | 0 | 491 |
-| 312 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.64 | 0 | 491 |
-| 312 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 185 | 265 |
+| 313 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 4.64 | 0 | 491 |
+| 313 | [Battle Chasers: Nightwar](games/b/battle_chasers__nightwar.md) | 4.64 | 0 | 491 |
+| 313 | [BioShock Remastered](games/b/bioshock_remastered.md) | 4.64 | 5,929 | 54 |
+| 313 | [Curse of the Dead Gods](games/c/curse_of_the_dead_gods.md) | 4.64 | 114 | 311 |
+| 313 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.64 | 0 | 491 |
+| 313 | [HITMAN](games/h/hitman.md) | 4.64 | 197 | 260 |
+| 313 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.64 | 180 | 269 |
+| 313 | [Mutazione](games/m/mutazione.md) | 4.64 | 0 | 491 |
+| 313 | [Rogue Lords](games/r/rogue_lords.md) | 4.64 | 0 | 491 |
+| 313 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.64 | 0 | 491 |
+| 313 | [Symphony of War](games/s/symphony_of_war.md) | 4.64 | 66 | 368 |
+| 313 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.64 | 0 | 491 |
+| 313 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.64 | 0 | 491 |
+| 313 | [Universe Sandbox](games/u/universe_sandbox.md) | 4.64 | 0 | 491 |
+| 313 | [Unrailed!](games/u/unrailed!.md) | 4.64 | 185 | 265 |
 | 328 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 4.63 | 20 | 486 |
 | 328 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.63 | 0 | 491 |
 | 328 | [Before We Leave](games/b/before_we_leave.md) | 4.63 | 0 | 491 |
@@ -543,7 +543,7 @@
 | 536 | [Despot's Game](games/d/despot's_game.md) | 4.50 | 0 | 491 |
 | 536 | [Destiny 2](games/d/destiny_2.md) | 4.50 | 34,090 | 13 |
 | 536 | [Fallout Tactics: Brotherhood of Steel](games/f/fallout_tactics__brotherhood_of_steel.md) | 4.50 | 0 | 491 |
-| 536 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,357 | 95 |
+| 536 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 2,360 | 95 |
 | 536 | [Horace](games/h/horace.md) | 4.50 | 0 | 491 |
 | 536 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 0 | 491 |
 | 536 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.50 | 0 | 491 |
@@ -655,7 +655,7 @@
 | 648 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.42 | 0 | 491 |
 | 648 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 491 |
 | 648 | [MORDHAU](games/m/mordhau.md) | 4.42 | 156 | 283 |
-| 648 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,118 | 127 |
+| 648 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,120 | 127 |
 | 648 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 48 |
 | 648 | [Sheltered](games/s/sheltered.md) | 4.42 | 267 | 235 |
 | 648 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 129 | 297 |
@@ -837,7 +837,7 @@
 | 830 | [Windbound](games/w/windbound.md) | 4.18 | 0 | 491 |
 | 836 | [God's Trigger](games/g/god's_trigger.md) | 4.17 | 26 | 459 |
 | 836 | [Gone Home](games/g/gone_home.md) | 4.17 | 0 | 491 |
-| 836 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 2,231 | 98 |
+| 836 | [Gotham Knights](games/g/gotham_knights.md) | 4.17 | 2,234 | 98 |
 | 836 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.17 | 0 | 491 |
 | 840 | [Circus Electrique](games/c/circus_electrique.md) | 4.16 | 0 | 491 |
 | 840 | [Dark Deity](games/d/dark_deity.md) | 4.16 | 606 | 165 |
