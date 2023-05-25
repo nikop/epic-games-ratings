@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 893,
+  "EOS_Progressed": 894,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -398,6 +398,11 @@
       "Time": "2023-05-25T05:06:20.5518351+00:00",
       "NumProgressed": 893,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T06:05:35.4119697+00:00",
+      "NumProgressed": 894,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 23,
@@ -439,9 +444,9 @@
       "ID": "05",
       "SetID": "73ikgfc",
       "Name": "The First Step",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 607
+      "UsersEstimate": 599
     },
     {
       "ID": "06",
@@ -457,7 +462,7 @@
       "Name": "Monster Hunter",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "08",
@@ -471,9 +476,9 @@
       "ID": "09",
       "SetID": "73ikgfc",
       "Name": "Awakening",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 197
     },
     {
       "ID": "10",
@@ -545,7 +550,7 @@
       "Name": "Earning Trust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "19",
@@ -553,7 +558,7 @@
       "Name": "Broken Oath",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "20",
@@ -592,7 +597,7 @@
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 893,
+      "Progressed": 894,
       "Completed": 0
     }
   ],
@@ -600,8 +605,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-05-01T21:00:11.982048+00:00",
-  "LastChanged_Achievements": "2023-05-25T05:06:20.5518343+00:00",
+  "LastChanged_Achievements": "2023-05-25T06:05:35.4119691+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:05:01.1887177+00:00",
-  "LastUpdate_Ratings": "2023-05-25T04:59:59.5370747+00:00",
-  "LastUpdate_Achievements": "2023-05-25T05:06:20.5518483+00:00"
+  "LastUpdate_Ratings": "2023-05-25T05:59:12.4742409+00:00",
+  "LastUpdate_Achievements": "2023-05-25T06:05:35.4119867+00:00"
 }

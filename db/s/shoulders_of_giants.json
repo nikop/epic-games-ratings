@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -66,9 +66,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2053,
+  "EOS_Progressed": 2054,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -791,6 +791,11 @@
       "Time": "2023-05-25T03:05:42.1424602+00:00",
       "NumProgressed": 2053,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-25T06:05:40.0881094+00:00",
+      "NumProgressed": 2054,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -810,7 +815,7 @@
       "Name": "Nothing to Wear",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "complete_act_one",
@@ -842,7 +847,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1807
+      "UsersEstimate": 1808
     },
     {
       "ID": "deal_damage",
@@ -858,7 +863,7 @@
       "Name": "A Ribbiting Performance",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "defeat_tree_dummy",
@@ -866,7 +871,7 @@
       "Name": "Do you feel like a tough guy?",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "fail_planet",
@@ -874,7 +879,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1560
+      "UsersEstimate": 1561
     },
     {
       "ID": "piercing_beam",
@@ -890,7 +895,7 @@
       "Name": "Turn Up The HEAT",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "reach_high_heat",
@@ -922,7 +927,7 @@
       "Name": "The Interdimensional Power of Friendship",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "stick_decoy",
@@ -938,7 +943,7 @@
       "Name": "Fun in the Stun",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "trash_truck",
@@ -953,7 +958,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2053,
+      "Progressed": 2054,
       "Completed": 8
     }
   ],
@@ -961,8 +966,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-05-21T23:00:43.2756611+00:00",
-  "LastChanged_Achievements": "2023-05-25T05:06:26.3830509+00:00",
+  "LastChanged_Achievements": "2023-05-25T06:05:40.0881088+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:21.4953983+00:00",
-  "LastUpdate_Ratings": "2023-05-25T05:00:40.1695645+00:00",
-  "LastUpdate_Achievements": "2023-05-25T05:06:26.3830648+00:00"
+  "LastUpdate_Ratings": "2023-05-25T05:59:40.5361755+00:00",
+  "LastUpdate_Achievements": "2023-05-25T06:05:40.0881271+00:00"
 }

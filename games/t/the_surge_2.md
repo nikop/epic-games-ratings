@@ -5,9 +5,9 @@ Rating: 4.24 (Ranked 790)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,290 |
-| Don't I Know You...? | 77.00% | ~1,242 |
-| Jailbreak | 66.00% | ~1,065 |
+| Rigged And Ready | 80.00% | ~1,291 |
+| Don't I Know You...? | 77.00% | ~1,243 |
+| Jailbreak | 65.00% | ~1,049 |
 | Suited and Booted | 38.00% | ~613 |
 | HEADSHOT! | 37.00% | ~597 |
 | Sleeping With The Fishes | 35.00% | ~565 |
@@ -20,11 +20,11 @@ Rating: 4.24 (Ranked 790)
 | It's a Trap | 22.00% | ~355 |
 | True Survivor | 21.00% | ~339 |
 | Shocking | 20.00% | ~323 |
-| Court Martial | 19.00% | ~306 |
-| Offensive Defense | 19.00% | ~306 |
-| Unforeseeable Consequences | 19.00% | ~306 |
-| Dead Again | 18.00% | ~290 |
-| Clean Cut | 18.00% | ~290 |
+| Court Martial | 19.00% | ~307 |
+| Offensive Defense | 19.00% | ~307 |
+| Unforeseeable Consequences | 19.00% | ~307 |
+| Dead Again | 18.00% | ~291 |
+| Clean Cut | 18.00% | ~291 |
 | Full Arsenal | 16.00% | ~258 |
 | Can't Trust Banks | 15.00% | ~242 |
 | Mommy Dearest | 13.00% | ~210 |
@@ -34,7 +34,7 @@ Rating: 4.24 (Ranked 790)
 | What A Catchy Song | 13.00% | ~210 |
 | Marked For Success | 12.00% | ~194 |
 | Sorry, Didn't See You There | 12.00% | ~194 |
-| Corrupted Beauty | 11.00% | ~177 |
+| Corrupted Beauty | 11.00% | ~178 |
 | Triplets | 10.00% | ~161 |
 | Stimulating The Local Economy | 9.00% | ~145 |
 | A Little Banged Up | 8.00% | ~129 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 790)
 | Swiss Army Drone | 1.00% | ~16 |
 | Three Birds With One Stone | 1.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,613 (Ranked 152)  
+Progressed: 1,614 (Ranked 152)  
 Completed: 10 (0.62%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 10 (0.62%) (Ranked 103)
 | 2023-05-22 | 1,593 | 10 |
 | 2023-05-23 | 1,603 | 10 |
 | 2023-05-24 | 1,611 | 10 |
-| 2023-05-25 | 1,613 | 10 |
+| 2023-05-25 | 1,614 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

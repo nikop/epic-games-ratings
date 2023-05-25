@@ -42,9 +42,9 @@
 | Pull the Plug | 30.00% | ~254 |
 | Soul Slayer | 30.00% | ~254 |
 | All Heart | 30.00% | ~254 |
+| Final Showdown | 30.00% | ~254 |
 | The Downfall | 29.00% | ~246 |
 | Extraordinary! | 29.00% | ~246 |
-| Final Showdown | 29.00% | ~246 |
 | Spot of Tea? | 29.00% | ~246 |
 | Going Home | 29.00% | ~246 |
 | Mirror, Mirror | 27.00% | ~229 |
@@ -56,7 +56,7 @@
 | Bombs Away! | 8.00% | ~68 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 848 (Ranked 173)  
-Completed: 57 (6.72%) (Ranked 23)  
+Completed: 58 (6.84%) (Ranked 23)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -88,7 +88,7 @@ Completed: 57 (6.72%) (Ranked 23)
 | 2023-05-22 | 808 | 55 |
 | 2023-05-23 | 839 | 57 |
 | 2023-05-24 | 846 | 57 |
-| 2023-05-25 | 848 | 57 |
+| 2023-05-25 | 848 | 58 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

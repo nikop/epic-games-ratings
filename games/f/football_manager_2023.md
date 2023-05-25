@@ -5,54 +5,54 @@ Rating: 4.76 (Ranked 116)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 78.00% | ~51,763 |
-| The Player Whisperer | 76.00% | ~50,436 |
-| One of Us, One of Us! | 73.00% | ~48,445 |
-| Clean Sheet | 68.00% | ~45,127 |
-| First Victory | 68.00% | ~45,127 |
-| #DoneDeal | 67.00% | ~44,463 |
-| Off the Books | 65.00% | ~43,136 |
-| Super-Sub | 65.00% | ~43,136 |
-| Hat-trick | 60.00% | ~39,818 |
-| "I Would Love It If We Beat Them" | 57.00% | ~37,827 |
-| Planned Signing | 57.00% | ~37,827 |
-| Scoring Streak | 53.00% | ~35,172 |
-| Thumping | 52.00% | ~34,509 |
-| People Pleaser | 51.00% | ~33,845 |
-| Wheeler Dealer | 51.00% | ~33,845 |
+| Motivational Speaker | 78.00% | ~51,765 |
+| The Player Whisperer | 76.00% | ~50,437 |
+| One of Us, One of Us! | 73.00% | ~48,446 |
+| Clean Sheet | 68.00% | ~45,128 |
+| First Victory | 68.00% | ~45,128 |
+| #DoneDeal | 67.00% | ~44,465 |
+| Off the Books | 65.00% | ~43,137 |
+| Super-Sub | 65.00% | ~43,137 |
+| Hat-trick | 60.00% | ~39,819 |
+| "I Would Love It If We Beat Them" | 57.00% | ~37,828 |
+| Planned Signing | 57.00% | ~37,828 |
+| Scoring Streak | 53.00% | ~35,173 |
+| Thumping | 52.00% | ~34,510 |
+| People Pleaser | 51.00% | ~33,846 |
+| Wheeler Dealer | 51.00% | ~33,846 |
 | Unbeatable! | 50.00% | ~33,182 |
-| One Of Our Own | 47.00% | ~31,191 |
-| They're a Natural | 43.00% | ~28,536 |
-| Record Signing | 43.00% | ~28,536 |
-| The Only Stat That Matters | 43.00% | ~28,536 |
-| Team Performance | 42.00% | ~27,872 |
-| Star Player | 40.00% | ~26,545 |
+| One Of Our Own | 47.00% | ~31,192 |
+| They're a Natural | 43.00% | ~28,537 |
+| Record Signing | 43.00% | ~28,537 |
+| The Only Stat That Matters | 43.00% | ~28,537 |
+| Team Performance | 42.00% | ~27,873 |
+| Star Player | 40.00% | ~26,546 |
 | Full Faith | 39.00% | ~25,882 |
 | Squad Goals | 39.00% | ~25,882 |
 | The People's Champion | 39.00% | ~25,882 |
-| Beating Expectations | 38.00% | ~25,218 |
-| Goal Rush | 38.00% | ~25,218 |
-| Parked The Bus | 37.00% | ~24,554 |
+| Beating Expectations | 38.00% | ~25,219 |
+| Goal Rush | 38.00% | ~25,219 |
+| Parked The Bus | 37.00% | ~24,555 |
 | Flavour Of The Month | 36.00% | ~23,891 |
-| What A Goal! | 35.00% | ~23,227 |
-| Tremendous Trio | 34.00% | ~22,563 |
-| Unstoppable Force | 34.00% | ~22,563 |
-| Record Sale | 34.00% | ~22,563 |
-| Shots For Days | 34.00% | ~22,563 |
+| What A Goal! | 35.00% | ~23,228 |
+| Tremendous Trio | 34.00% | ~22,564 |
+| Unstoppable Force | 34.00% | ~22,564 |
+| Record Sale | 34.00% | ~22,564 |
+| Shots For Days | 34.00% | ~22,564 |
 | You're on Fire | 33.00% | ~21,900 |
 | The Special One | 33.00% | ~21,900 |
 | On a Roll | 31.00% | ~20,573 |
 | Splashing the Cash | 31.00% | ~20,573 |
-| Drilling Down | 30.00% | ~19,909 |
-| Goal Machine | 29.00% | ~19,245 |
-| Immovable Object | 27.00% | ~17,918 |
-| Cup Glory! | 27.00% | ~17,918 |
-| Cash to Burn | 26.00% | ~17,254 |
+| Drilling Down | 30.00% | ~19,910 |
+| Goal Machine | 29.00% | ~19,246 |
+| Immovable Object | 27.00% | ~17,919 |
+| Cup Glory! | 27.00% | ~17,919 |
+| Cash to Burn | 26.00% | ~17,255 |
 | Irresistible Force | 25.00% | ~16,591 |
 | Do The Double | 22.00% | ~14,600 |
 | A Game of Two Halves | 20.00% | ~13,273 |
-| Top Form | 18.00% | ~11,945 |
-| You're Up! | 18.00% | ~11,945 |
+| Top Form | 18.00% | ~11,946 |
+| You're Up! | 18.00% | ~11,946 |
 | First Goal Network | 17.00% | ~11,282 |
 | First Win Network | 17.00% | ~11,282 |
 | Window Shopping | 17.00% | ~11,282 |
@@ -106,7 +106,7 @@ Rating: 4.76 (Ranked 116)
 | Versus Anyone | 0.10% | ~66 |
 | 200 Club | 0.10% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,363 (Ranked 64)  
+Progressed: 66,365 (Ranked 64)  
 Completed: 14 (0.02%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 14 (0.02%) (Ranked 187)
 | 2023-05-22 | 65,986 | 14 |
 | 2023-05-23 | 66,174 | 14 |
 | 2023-05-24 | 66,344 | 14 |
-| 2023-05-25 | 66,363 | 14 |
+| 2023-05-25 | 66,365 | 14 |
 ## Awards
 Max (Diverse Characters): 444  (Ranked 192)  
 Sum: 3,203 (Ranked 146)  

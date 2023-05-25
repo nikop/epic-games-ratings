@@ -272,9 +272,9 @@
       "ID": "achievement_15",
       "SetID": "7881h0d",
       "Name": "My dear Magda",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 78
     },
     {
       "ID": "achievement_16",
@@ -313,8 +313,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-05-25T05:03:41.5486229+00:00",
+  "LastChanged_Achievements": "2023-05-25T06:03:45.6621496+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:18.0777045+00:00",
-  "LastUpdate_Ratings": "2023-05-25T04:57:47.3656976+00:00",
-  "LastUpdate_Achievements": "2023-05-25T05:03:41.5486575+00:00"
+  "LastUpdate_Ratings": "2023-05-25T05:57:33.7401433+00:00",
+  "LastUpdate_Achievements": "2023-05-25T06:03:45.6621636+00:00"
 }

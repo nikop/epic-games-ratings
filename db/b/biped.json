@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1818,
+  "EOS_Progressed": 1821,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 630,
+  "EOS_NewPlayers": 633,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2011,6 +2011,11 @@
       "Time": "2023-05-25T05:05:41.517662+00:00",
       "NumProgressed": 1818,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T06:05:12.9265196+00:00",
+      "NumProgressed": 1821,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -2022,7 +2027,7 @@
       "Name": "First Step",
       "Percentage": 46,
       "XP": 45,
-      "UsersEstimate": 836
+      "UsersEstimate": 838
     },
     {
       "ID": "10",
@@ -2078,7 +2083,7 @@
       "Name": "Dense Forest",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "3",
@@ -2086,7 +2091,7 @@
       "Name": "Cactus Vally",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "4",
@@ -2094,7 +2099,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "5",
@@ -2110,7 +2115,7 @@
       "Name": "High Treetops",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "7",
@@ -2141,7 +2146,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 1818,
+      "Progressed": 1821,
       "Completed": 0
     }
   ],
@@ -2149,8 +2154,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-05-25T05:05:41.5176612+00:00",
+  "LastChanged_Achievements": "2023-05-25T06:05:12.9265189+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:36.8488775+00:00",
-  "LastUpdate_Ratings": "2023-05-25T04:58:03.2356593+00:00",
-  "LastUpdate_Achievements": "2023-05-25T05:05:41.5176794+00:00"
+  "LastUpdate_Ratings": "2023-05-25T05:57:46.3244904+00:00",
+  "LastUpdate_Achievements": "2023-05-25T06:05:12.9265422+00:00"
 }

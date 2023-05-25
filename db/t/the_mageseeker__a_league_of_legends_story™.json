@@ -2,12 +2,12 @@
   "ID": "1e1d639f7fa045f08a1378885ec7080c",
   "Name": "The Mageseeker: A League of Legends Story\u2122",
   "ProductSlug": "the-mageseeker-a-league-of-legends-story",
-  "Ranking_Rating": 100,
+  "Ranking_Rating": 99,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -106,9 +106,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2133,
+  "EOS_Progressed": 2134,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1766,6 +1766,11 @@
       "Time": "2023-05-25T02:05:44.897569+00:00",
       "NumProgressed": 2133,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-25T06:05:25.1479328+00:00",
+      "NumProgressed": 2134,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1785,7 +1790,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -1817,7 +1822,7 @@
       "Name": "Hijack",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -1825,7 +1830,7 @@
       "Name": "Elemental master",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -1841,7 +1846,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2026
+      "UsersEstimate": 2027
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1857,7 +1862,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1642
+      "UsersEstimate": 1643
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -1881,7 +1886,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -1961,7 +1966,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1962
+      "UsersEstimate": 1963
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1993,7 +1998,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1621
+      "UsersEstimate": 1622
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -2009,7 +2014,7 @@
       "Name": "Clarion Cove",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -2121,7 +2126,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -2200,7 +2205,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2133,
+      "Progressed": 2134,
       "Completed": 1
     }
   ],
@@ -2208,8 +2213,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-24T18:57:33.1729645+00:00",
-  "LastChanged_Achievements": "2023-05-25T05:05:57.3913013+00:00",
+  "LastChanged_Achievements": "2023-05-25T06:05:25.1479319+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:08.2361804+00:00",
-  "LastUpdate_Ratings": "2023-05-25T04:57:37.5834157+00:00",
-  "LastUpdate_Achievements": "2023-05-25T05:05:57.3913434+00:00"
+  "LastUpdate_Ratings": "2023-05-25T05:57:26.5241216+00:00",
+  "LastUpdate_Achievements": "2023-05-25T06:05:25.1479877+00:00"
 }

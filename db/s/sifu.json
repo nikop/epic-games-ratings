@@ -4206,9 +4206,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 705070,
+  "EOS_Progressed": 705077,
   "EOS_Completed": 12734,
-  "EOS_NewPlayers": 2053,
+  "EOS_NewPlayers": 2059,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -7091,6 +7091,11 @@
       "Time": "2023-05-25T05:06:25.3045271+00:00",
       "NumProgressed": 705070,
       "NumCompleted": 12734
+    },
+    {
+      "Time": "2023-05-25T06:05:39.2229868+00:00",
+      "NumProgressed": 705077,
+      "NumCompleted": 12734
     }
   ],
   "TotalAchievements": 50,
@@ -7254,7 +7259,7 @@
       "Name": "Stuntmaster",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 4935
+      "UsersEstimate": 4936
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -7350,7 +7355,7 @@
       "Name": "Old Child",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4935
+      "UsersEstimate": 4936
     },
     {
       "ID": "33_BladeOneShot",
@@ -7414,7 +7419,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4935
+      "UsersEstimate": 4936
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -7501,21 +7506,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 14371,
+      "Progressed": 14378,
       "Completed": 10163
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 705070,
+      "Progressed": 705077,
       "Completed": 12734
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-25T01:59:06.1438448+00:00",
-  "LastChanged_Achievements": "2023-05-25T05:06:25.3045267+00:00",
+  "LastChanged_Achievements": "2023-05-25T06:05:39.2229864+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.7579865+00:00",
-  "LastUpdate_Ratings": "2023-05-25T04:59:09.3742103+00:00",
-  "LastUpdate_Achievements": "2023-05-25T05:06:25.3045745+00:00"
+  "LastUpdate_Ratings": "2023-05-25T05:58:37.1235044+00:00",
+  "LastUpdate_Achievements": "2023-05-25T06:05:39.223047+00:00"
 }

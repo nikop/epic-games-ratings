@@ -30,8 +30,8 @@ Number of Ratings: 1,919  (23.09.2022)
 | Malice Takes Root | 37.00% | ~28,971 |
 | Path of the Dark Knight | 37.00% | ~28,971 |
 | Path of the Breaker | 37.00% | ~28,971 |
+| Duty's Course | 36.00% | ~28,188 |
 | Path of the Paladin | 36.00% | ~28,188 |
-| Duty's Course | 35.00% | ~27,405 |
 | Path of the Liberator | 35.00% | ~27,405 |
 | Led by the Nose | 34.00% | ~26,622 |
 | Path of the Void Knight | 34.00% | ~26,622 |

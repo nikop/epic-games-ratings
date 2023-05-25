@@ -1514,9 +1514,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 44947,
+  "EOS_Progressed": 44948,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 903,
+  "EOS_NewPlayers": 901,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4889,6 +4889,11 @@
       "Time": "2023-05-25T05:05:57.9417421+00:00",
       "NumProgressed": 44947,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-25T06:05:25.5979412+00:00",
+      "NumProgressed": 44948,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 59,
@@ -5020,7 +5025,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 10787
+      "UsersEstimate": 10788
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -5212,7 +5217,7 @@
       "Name": "Basic Training",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 10787
+      "UsersEstimate": 10788
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -5268,7 +5273,7 @@
       "Name": "Setting an example",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 34609
+      "UsersEstimate": 34610
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -5371,15 +5376,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 44947,
+      "Progressed": 44948,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-05-24T09:58:35.9301955+00:00",
-  "LastChanged_Achievements": "2023-05-25T05:05:57.9417417+00:00",
+  "LastChanged_Achievements": "2023-05-25T06:05:25.5979404+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:55.5070902+00:00",
-  "LastUpdate_Ratings": "2023-05-25T04:58:25.1850897+00:00",
-  "LastUpdate_Achievements": "2023-05-25T05:05:57.9417977+00:00"
+  "LastUpdate_Ratings": "2023-05-25T05:58:02.9558577+00:00",
+  "LastUpdate_Achievements": "2023-05-25T06:05:25.5980133+00:00"
 }

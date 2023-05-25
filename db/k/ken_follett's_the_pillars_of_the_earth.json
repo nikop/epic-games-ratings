@@ -477,9 +477,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12671,
+  "EOS_Progressed": 12672,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -2567,6 +2567,11 @@
       "Time": "2023-05-25T05:05:42.3317182+00:00",
       "NumProgressed": 12671,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-05-25T06:05:13.7110887+00:00",
+      "NumProgressed": 12672,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 41,
@@ -2658,7 +2663,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2407
+      "UsersEstimate": 2408
     },
     {
       "ID": "tpote_achievement_2",
@@ -2730,7 +2735,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2407
+      "UsersEstimate": 2408
     },
     {
       "ID": "tpote_achievement_28",
@@ -2754,7 +2759,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4181
+      "UsersEstimate": 4182
     },
     {
       "ID": "tpote_achievement_30",
@@ -2905,15 +2910,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12671,
+      "Progressed": 12672,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-24T02:59:22.8736944+00:00",
-  "LastChanged_Achievements": "2023-05-25T05:05:42.3317178+00:00",
+  "LastChanged_Achievements": "2023-05-25T06:05:13.7110878+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:09:49.1992061+00:00",
-  "LastUpdate_Ratings": "2023-05-25T05:00:16.4821666+00:00",
-  "LastUpdate_Achievements": "2023-05-25T05:05:42.3317627+00:00"
+  "LastUpdate_Ratings": "2023-05-25T05:59:24.1839969+00:00",
+  "LastUpdate_Achievements": "2023-05-25T06:05:13.7111325+00:00"
 }

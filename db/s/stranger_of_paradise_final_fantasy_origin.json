@@ -1524,7 +1524,7 @@
   ],
   "EOS_Progressed": 78301,
   "EOS_Completed": 2130,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.72,
   "EosHistory": [
@@ -3408,9 +3408,9 @@
       "ID": "014_TROPHY_MISSION_REMEMBERING_HOME",
       "SetID": "4ajkb4b",
       "Name": "Duty\u0027s Course",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 27405
+      "UsersEstimate": 28188
     },
     {
       "ID": "015_TROPHY_MISSION_SUFFERING_OF_FOOL",
@@ -3672,8 +3672,8 @@
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
   "LastChanged": "2023-05-22T11:59:16.2659588+00:00",
-  "LastChanged_Achievements": "2023-05-25T05:06:29.8765149+00:00",
+  "LastChanged_Achievements": "2023-05-25T06:05:42.9826914+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:06:56.3994016+00:00",
-  "LastUpdate_Ratings": "2023-05-25T05:00:04.3453569+00:00",
-  "LastUpdate_Achievements": "2023-05-25T05:06:29.876552+00:00"
+  "LastUpdate_Ratings": "2023-05-25T05:59:15.3934483+00:00",
+  "LastUpdate_Achievements": "2023-05-25T06:05:42.9827378+00:00"
 }

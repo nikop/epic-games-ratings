@@ -1,29 +1,29 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.78 (Ranked 100)  
+Rating: 4.78 (Ranked 99)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,026 |
-| No more cages! | 92.00% | ~1,962 |
-| Everfrost | 77.00% | ~1,642 |
-| Dark Forest | 76.00% | ~1,621 |
+| For Demacia | 95.00% | ~2,027 |
+| No more cages! | 92.00% | ~1,963 |
+| Everfrost | 77.00% | ~1,643 |
+| Dark Forest | 76.00% | ~1,622 |
 | Pentakill | 75.00% | ~1,600 |
 | The use of petricite | 72.00% | ~1,536 |
 | You can pet the dog | 60.00% | ~1,280 |
-| Big Helmet Bro | 34.00% | ~725 |
-| Clarion Cove | 34.00% | ~725 |
+| Big Helmet Bro | 34.00% | ~726 |
+| Clarion Cove | 34.00% | ~726 |
 | Past trauma | 33.00% | ~704 |
 | Thornbarrow | 32.00% | ~683 |
 | Ternmoat Headquarters | 32.00% | ~683 |
-| Elemental master | 31.00% | ~661 |
-| Cypress Glen Headquarters | 31.00% | ~661 |
+| Elemental master | 31.00% | ~662 |
+| Cypress Glen Headquarters | 31.00% | ~662 |
 | Petricite Burst | 27.00% | ~576 |
 | Old friend | 26.00% | ~555 |
 | Devineur | 26.00% | ~555 |
-| Whispers in the Woods I | 25.00% | ~533 |
-| Hijack | 25.00% | ~533 |
+| Whispers in the Woods I | 25.00% | ~534 |
+| Hijack | 25.00% | ~534 |
 | Ancient power | 23.00% | ~491 |
 | I chose my shackles | 22.00% | ~469 |
 | Sacred Woods | 21.00% | ~448 |
@@ -59,7 +59,7 @@ Rating: 4.78 (Ranked 100)
 | Silverwing nest | 2.00% | ~43 |
 | The Unshackled | 0.60% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,133 (Ranked 143)  
+Progressed: 2,134 (Ranked 143)  
 Completed: 1 (0.05%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 1 (0.05%) (Ranked 174)
 | 2023-05-22 | 2,111 | 1 |
 | 2023-05-23 | 2,119 | 1 |
 | 2023-05-24 | 2,132 | 1 |
-| 2023-05-25 | 2,133 | 1 |
+| 2023-05-25 | 2,134 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

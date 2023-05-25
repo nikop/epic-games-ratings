@@ -1,43 +1,43 @@
 # HITMAN World of Assassination
 [Store](https://store.epicgames.com/en-US/p/hitman-3)  
 [View Rawdata](../../db/h/hitman_3.json)  
-Rating: 4.78 (Ranked 100)  
+Rating: 4.78 (Ranked 99)  
 Number of Ratings: 21,082  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Death From Above | 47.00% | ~601,598 |
-| Unseen Assassin | 46.00% | ~588,798 |
-| Master of the Household | 39.00% | ~499,198 |
-| Death of the Party | 37.00% | ~473,599 |
-| NEXUS-47 | 33.00% | ~422,399 |
-| The Last Tango | 32.00% | ~409,599 |
-| Nightmare Fuel | 31.00% | ~396,799 |
-| The Result of Previous Training | 28.00% | ~358,399 |
-| Tools of the Trade | 28.00% | ~358,399 |
-| Cleared for Field Duty | 27.00% | ~345,599 |
-| Seizing the Opportunity | 25.00% | ~319,999 |
-| Bullet Train | 22.00% | ~281,599 |
-| Stylish Assassin | 19.00% | ~243,199 |
-| Silent Assassin | 14.00% | ~179,199 |
-| Rise Up | 13.00% | ~166,399 |
-| Evil Wine Club | 12.00% | ~153,600 |
-| Console Cowboy | 10.00% | ~128,000 |
-| Last Stop | 10.00% | ~128,000 |
-| A New Profile | 9.00% | ~115,200 |
-| Full House | 9.00% | ~115,200 |
-| Dune Raider | 8.00% | ~102,400 |
-| No Stone Unturned | 8.00% | ~102,400 |
-| Train Surfing | 8.00% | ~102,400 |
-| Family Feud | 7.00% | ~89,600 |
-| Icebreaker | 7.00% | ~89,600 |
-| Rich Harvest | 6.00% | ~76,800 |
-| Count Down From 47 | 6.00% | ~76,800 |
-| Shortcut Killer | 5.00% | ~64,000 |
-| Treacherous Architecture | 5.00% | ~64,000 |
-| Stair Master | 5.00% | ~64,000 |
-| Followed the Trails | 5.00% | ~64,000 |
-| Last Call | 5.00% | ~64,000 |
+| Death From Above | 47.00% | ~601,606 |
+| Unseen Assassin | 46.00% | ~588,806 |
+| Master of the Household | 39.00% | ~499,205 |
+| Death of the Party | 37.00% | ~473,604 |
+| NEXUS-47 | 33.00% | ~422,404 |
+| The Last Tango | 32.00% | ~409,604 |
+| Nightmare Fuel | 31.00% | ~396,804 |
+| The Result of Previous Training | 28.00% | ~358,403 |
+| Tools of the Trade | 28.00% | ~358,403 |
+| Cleared for Field Duty | 27.00% | ~345,603 |
+| Seizing the Opportunity | 25.00% | ~320,003 |
+| Bullet Train | 22.00% | ~281,603 |
+| Stylish Assassin | 19.00% | ~243,202 |
+| Silent Assassin | 14.00% | ~179,202 |
+| Rise Up | 13.00% | ~166,402 |
+| Evil Wine Club | 12.00% | ~153,601 |
+| Console Cowboy | 10.00% | ~128,001 |
+| Last Stop | 10.00% | ~128,001 |
+| A New Profile | 9.00% | ~115,201 |
+| Full House | 9.00% | ~115,201 |
+| Dune Raider | 8.00% | ~102,401 |
+| No Stone Unturned | 8.00% | ~102,401 |
+| Train Surfing | 8.00% | ~102,401 |
+| Family Feud | 7.00% | ~89,601 |
+| Icebreaker | 7.00% | ~89,601 |
+| Rich Harvest | 6.00% | ~76,801 |
+| Count Down From 47 | 6.00% | ~76,801 |
+| Shortcut Killer | 5.00% | ~64,001 |
+| Treacherous Architecture | 5.00% | ~64,001 |
+| Stair Master | 5.00% | ~64,001 |
+| Followed the Trails | 5.00% | ~64,001 |
+| Last Call | 5.00% | ~64,001 |
 | Upstairs, Downstairs | 4.00% | ~51,200 |
 | The Great Outdoors | 4.00% | ~51,200 |
 | Partied Out | 4.00% | ~51,200 |
@@ -54,7 +54,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | Ripe for the Picking | 1.00% | ~12,800 |
 | The Creative Assassin | 0.70% | ~8,960 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,279,996 (Ranked 8)  
+Progressed: 1,280,012 (Ranked 8)  
 Completed: 2,069 (0.16%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,16 +89,16 @@ Completed: 2,069 (0.16%) (Ranked 144)
 | 2023-05-22 | 1,278,897 | 2,068 |
 | 2023-05-23 | 1,279,384 | 2,068 |
 | 2023-05-24 | 1,279,910 | 2,069 |
-| 2023-05-25 | 1,279,996 | 2,069 |
+| 2023-05-25 | 1,280,012 | 2,069 |
 ## Awards
 Max (Diverse Characters): 9,054  (Ranked 37)  
-Sum: 66,328 (Ranked 18)  
+Sum: 66,331 (Ranked 18)  
 Diff (max vs sum): 19  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 9,054 |
 | This game is Highly Recommended | 8,699 |
-| This game is Extremely Fun | 8,598 |
+| This game is Extremely Fun | 8,601 |
 | This game is Great for Beginners | 8,394 |
 | This game has Amazing Storytelling | 8,391 |
 | This game has Amazing Characters | 8,182 |
@@ -256,4 +256,4 @@ Diff (max vs sum): 19
 | 2023-05-22 | 4.78 | - | 9,026 | 66,239 |
 | 2023-05-23 | 4.78 | - | 9,042 | 66,288 |
 | 2023-05-24 | 4.78 | - | 9,054 | 66,319 |
-| 2023-05-25 | 4.78 | - | 9,054 | 66,328 |
+| 2023-05-25 | 4.78 | - | 9,054 | 66,331 |

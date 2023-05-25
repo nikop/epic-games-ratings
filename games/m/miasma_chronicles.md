@@ -4,40 +4,40 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 88.00% | ~283 |
-| Ranidaphobia | 57.00% | ~184 |
-| Aspiring Editor | 52.00% | ~167 |
-| Gun for Hire | 44.00% | ~142 |
-| I am the law! | 25.00% | ~80 |
+| First Blood | 88.00% | ~285 |
+| Ranidaphobia | 57.00% | ~185 |
+| Aspiring Editor | 52.00% | ~168 |
+| Gun for Hire | 44.00% | ~143 |
+| I am the law! | 25.00% | ~81 |
 | Firestarter | 9.00% | ~29 |
-| Lumberjack | 8.00% | ~26 |
+| Lumberjack | 9.00% | ~29 |
 | Croaked | 6.00% | ~19 |
 | Limp Richard | 6.00% | ~19 |
-| Editor Adept | 4.00% | ~13 |
-| Exorcist | 4.00% | ~13 |
-| From Darkness to Light | 4.00% | ~13 |
+| Editor Adept | 5.00% | ~16 |
+| Exorcist | 5.00% | ~16 |
+| From Darkness to Light | 5.00% | ~16 |
 | Giant Killer | 4.00% | ~13 |
+| The meaning of Kain | 4.00% | ~13 |
 | Newtonian Knockout | 3.00% | ~10 |
-| The meaning of Kain | 3.00% | ~10 |
 | Commando | 2.00% | ~6 |
 | Hold The Line | 2.00% | ~6 |
 | Recycler | 2.00% | ~6 |
 | Sensei | 2.00% | ~6 |
-| Chain Killer | 0.90% | ~3 |
+| Chain Killer | 1.00% | ~3 |
+| Chain Reaction | 0.90% | ~3 |
 | Curveball | 0.90% | ~3 |
 | Technophobe | 0.90% | ~3 |
 | There Can Be Only One! | 0.90% | ~3 |
 | Are you not entertained? | 0.60% | ~2 |
-| Chain Reaction | 0.60% | ~2 |
 | Ganglord | 0.60% | ~2 |
 | Jarhead | 0.60% | ~2 |
 | Experienced | 0.60% | ~2 |
 | Infiltrator | 0.60% | ~2 |
 | Pushing Daisy | 0.60% | ~2 |
+| Ruthless | 0.60% | ~2 |
 | Cruelty | 0.30% | ~1 |
 | Dr Jones | 0.30% | ~1 |
 | Endgame | 0.30% | ~1 |
-| Ruthless | 0.30% | ~1 |
 | Savior | 0.30% | ~1 |
 | Side Order | 0.30% | ~1 |
 | The Watchers | 0.30% | ~1 |
@@ -56,11 +56,11 @@
 | Shadow Boxin' | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 322 (Ranked 210)  
+Progressed: 324 (Ranked 210)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-23 | 151 | 0 |
 | 2023-05-24 | 299 | 0 |
-| 2023-05-25 | 322 | 0 |
+| 2023-05-25 | 324 | 0 |
