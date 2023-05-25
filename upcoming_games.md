@@ -266,6 +266,7 @@
 | [IncrediMarble](games/i/incredimarble.md) | 2099-01-01 | 2021-01-25 |
 | [Infinitesimals](games/i/infinitesimals.md) | 2099-01-01 | 2099-01-01 |
 | [Insomnis](games/i/insomnis.md) | 2099-01-01 | 2099-01-01 |
+| [International Basketball Manager 23](games/e/e9543b5d696d4129af27a26b22ceeaff.md) | 2099-01-01 | 2022-12-01 |
 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 2099-01-01 | 2099-01-01 |
 | [Japanese Drift Master](games/j/japanese_drift_master.md) | 2099-01-01 | 2099-01-01 |
 | [Journey Into Darkness](games/j/journey_into_darkness.md) | 2099-01-01 | 2099-01-01 |
