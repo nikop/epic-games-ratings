@@ -5,7 +5,7 @@ Rating: 4.65 (Ranked 289)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 64.00% | ~3,946 |
+| On Deceive Inc.'s Secret Service | 64.00% | ~3,947 |
 | Tomorrow Never Dyes | 47.00% | ~2,898 |
 | Mainframe Hacker | 45.00% | ~2,775 |
 | The Spy who eliminated me | 45.00% | ~2,775 |
@@ -14,8 +14,8 @@ Rating: 4.65 (Ranked 289)
 | Tailor-Made | 38.00% | ~2,343 |
 | From the Vault with Love | 36.00% | ~2,220 |
 | Fully Decked Out | 36.00% | ~2,220 |
-| You Only Live Twice | 31.00% | ~1,911 |
-| A view to Win | 28.00% | ~1,726 |
+| You Only Live Twice | 31.00% | ~1,912 |
+| A view to Win | 28.00% | ~1,727 |
 | Smells Like Trouble | 26.00% | ~1,603 |
 | Private Collection | 25.00% | ~1,542 |
 | Killer Looks | 25.00% | ~1,542 |
@@ -39,10 +39,10 @@ Rating: 4.65 (Ranked 289)
 | Chairman of Deceive Inc. | 2.00% | ~123 |
 | Chief Information Officer | 1.00% | ~62 |
 | Masteries Are Forever | 0.70% | ~43 |
-| Extraction Confusion | 0.30% | ~18 |
+| Extraction Confusion | 0.30% | ~19 |
 | Spyfall | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,166 (Ranked 116)  
+Progressed: 6,167 (Ranked 116)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-22 | 6,028 | 0 |
 | 2023-05-23 | 6,078 | 0 |
 | 2023-05-24 | 6,152 | 0 |
-| 2023-05-25 | 6,166 | 0 |
+| 2023-05-25 | 6,167 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

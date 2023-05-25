@@ -502,9 +502,9 @@
       "ID": "ball_protector",
       "SetID": "jig50d",
       "Name": "Ball Protector",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "bullet_hell",
@@ -719,8 +719,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-25T04:03:11.6693457+00:00",
+  "LastChanged_Achievements": "2023-05-25T05:02:27.8310165+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:10:10.466439+00:00",
-  "LastUpdate_Ratings": "2023-05-25T04:00:34.4846011+00:00",
-  "LastUpdate_Achievements": "2023-05-25T04:03:11.6693849+00:00"
+  "LastUpdate_Ratings": "2023-05-25T05:00:17.7183469+00:00",
+  "LastUpdate_Achievements": "2023-05-25T05:02:27.8310365+00:00"
 }

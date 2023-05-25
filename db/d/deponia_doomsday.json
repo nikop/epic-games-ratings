@@ -5,9 +5,9 @@
   "Ranking_Rating": 448,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 206,
+  "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 66,
-  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -65,11 +65,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 358,
+  "EOS_Progressed": 359,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.68,
+  "EOS_Completed_Percentage": 1.67,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.6449061+00:00",
@@ -95,6 +95,11 @@
       "Time": "2023-05-24T19:06:17.9032639+00:00",
       "NumProgressed": 358,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-25T05:06:34.0704394+00:00",
+      "NumProgressed": 359,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 36,
@@ -106,7 +111,7 @@
       "Name": "Huzza, he\u0027s back.",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "dep4_achievement_10",
@@ -122,7 +127,7 @@
       "Name": "Distraction",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "dep4_achievement_12",
@@ -144,9 +149,9 @@
       "ID": "dep4_achievement_14",
       "SetID": "5d32b60",
       "Name": "Shall we play a game?",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 168
+      "UsersEstimate": 172
     },
     {
       "ID": "dep4_achievement_15",
@@ -178,7 +183,7 @@
       "Name": "Chunky",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "dep4_achievement_19",
@@ -186,7 +191,7 @@
       "Name": "FunScore",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "dep4_achievement_2",
@@ -240,9 +245,9 @@
       "ID": "dep4_achievement_25",
       "SetID": "5d32b60",
       "Name": "Monstrous Harassment",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 50
     },
     {
       "ID": "dep4_achievement_26",
@@ -250,7 +255,7 @@
       "Name": "Scaffolding Expert",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "dep4_achievement_27",
@@ -274,7 +279,7 @@
       "Name": "Pacifist",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "dep4_achievement_3",
@@ -282,7 +287,7 @@
       "Name": "Burn, Elysium, burn!",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "dep4_achievement_30",
@@ -354,7 +359,7 @@
       "Name": "Boat of love, boat of love",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "dep4_achievement_6",
@@ -362,7 +367,7 @@
       "Name": "School\u0027s out",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "dep4_achievement_7",
@@ -370,7 +375,7 @@
       "Name": "Portals come in packs",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "dep4_achievement_8",
@@ -378,7 +383,7 @@
       "Name": "And everything comes full circle.",
       "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "dep4_achievement_9",
@@ -386,14 +391,14 @@
       "Name": "Against better judgement",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     }
   ],
   "AchievementSets": [
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 358,
+      "Progressed": 359,
       "Completed": 6
     }
   ],
@@ -401,8 +406,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-04-17T16:58:11.036869+00:00",
-  "LastChanged_Achievements": "2023-05-25T04:06:55.0243308+00:00",
+  "LastChanged_Achievements": "2023-05-25T05:06:34.070439+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:18.0017229+00:00",
-  "LastUpdate_Ratings": "2023-05-25T04:00:56.3010905+00:00",
-  "LastUpdate_Achievements": "2023-05-25T04:06:55.0243771+00:00"
+  "LastUpdate_Ratings": "2023-05-25T05:00:37.7257568+00:00",
+  "LastUpdate_Achievements": "2023-05-25T05:06:34.0704622+00:00"
 }

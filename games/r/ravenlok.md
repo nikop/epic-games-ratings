@@ -15,8 +15,8 @@
 | Tragic Brave | 52.00% | ~441 |
 | Awakened Spirits | 49.00% | ~416 |
 | Little Shop | 48.00% | ~407 |
+| Surprise! | 44.00% | ~373 |
 | An Actor! | 44.00% | ~373 |
-| Surprise! | 43.00% | ~365 |
 | Curtain Call | 42.00% | ~356 |
 | Piece of Cake | 40.00% | ~339 |
 | Gooey Delight! | 39.00% | ~331 |
@@ -40,8 +40,8 @@
 | Kidnapped! | 32.00% | ~271 |
 | Trick Question! | 31.00% | ~263 |
 | Pull the Plug | 30.00% | ~254 |
+| Soul Slayer | 30.00% | ~254 |
 | All Heart | 30.00% | ~254 |
-| Soul Slayer | 29.00% | ~246 |
 | The Downfall | 29.00% | ~246 |
 | Extraordinary! | 29.00% | ~246 |
 | Final Showdown | 29.00% | ~246 |

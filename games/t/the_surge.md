@@ -6,15 +6,15 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,009 |
+| On My Own Two Feet | 94.00% | ~4,010 |
 | I'll Be Back | 84.00% | ~3,583 |
-| Sorry, I Dropped This | 77.00% | ~3,284 |
-| First Day on the Job | 76.00% | ~3,241 |
-| Butcher's Bill | 54.00% | ~2,303 |
+| Sorry, I Dropped This | 77.00% | ~3,285 |
+| First Day on the Job | 76.00% | ~3,242 |
+| Butcher's Bill | 54.00% | ~2,304 |
 | P.A.X | 37.00% | ~1,578 |
-| Hey Listen | 36.00% | ~1,535 |
+| Hey Listen | 36.00% | ~1,536 |
 | OPERATOR | 35.00% | ~1,493 |
-| It's Blue Light | 33.00% | ~1,407 |
+| It's Blue Light | 33.00% | ~1,408 |
 | Most Wanted | 26.00% | ~1,109 |
 | Infidel | 23.00% | ~981 |
 | GOLIATH | 21.00% | ~896 |
@@ -30,7 +30,7 @@ Number of Ratings: 62  (23.09.2022)
 | CREO Killed the Video Star | 11.00% | ~469 |
 | Who's in Charge Here? | 11.00% | ~469 |
 | Shall Not Pass | 11.00% | ~469 |
-| Right Tool for the Job | 10.00% | ~426 |
+| Right Tool for the Job | 10.00% | ~427 |
 | Raging Drones | 9.00% | ~384 |
 | Overconfident | 9.00% | ~384 |
 | Pusher Man | 8.00% | ~341 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.50% | ~21 |
 | The Surge | 0.40% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,265 (Ranked 126)  
+Progressed: 4,266 (Ranked 126)  
 Completed: 13 (0.30%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 13 (0.30%) (Ranked 126)
 | 2023-05-22 | 4,252 | 13 |
 | 2023-05-23 | 4,258 | 13 |
 | 2023-05-24 | 4,263 | 13 |
-| 2023-05-25 | 4,265 | 13 |
+| 2023-05-25 | 4,266 | 13 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 459)  
 Sum: 26 (Ranked 465)  

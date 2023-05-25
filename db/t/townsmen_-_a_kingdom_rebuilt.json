@@ -1068,9 +1068,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_DIPLOMATICVISIT",
       "SetID": "9eacipp",
       "Name": "Negotiator",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_SCENARIO_DISEASE",
@@ -1444,8 +1444,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-05-18T04:58:08.3119533+00:00",
-  "LastChanged_Achievements": "2023-05-25T04:06:49.834457+00:00",
+  "LastChanged_Achievements": "2023-05-25T05:06:29.0540241+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:38.1590673+00:00",
-  "LastUpdate_Ratings": "2023-05-25T03:58:11.2586905+00:00",
-  "LastUpdate_Achievements": "2023-05-25T04:06:49.8346858+00:00"
+  "LastUpdate_Ratings": "2023-05-25T04:58:04.6836475+00:00",
+  "LastUpdate_Achievements": "2023-05-25T05:06:29.0541278+00:00"
 }

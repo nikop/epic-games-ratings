@@ -2510,9 +2510,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 9163,
+  "EOS_Progressed": 9167,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4455,6 +4455,11 @@
       "Time": "2023-05-25T04:06:58.8171363+00:00",
       "NumProgressed": 9163,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T05:06:37.5566806+00:00",
+      "NumProgressed": 9167,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -4474,7 +4479,7 @@
       "Name": "Burning City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -4482,7 +4487,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "04_FithCrusade",
@@ -4642,7 +4647,7 @@
       "Name": "Masterful Charge",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "24_Legacy",
@@ -4666,7 +4671,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "28_GreatUpstart",
@@ -4834,7 +4839,7 @@
       "Name": "A Spark",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "49_Flame",
@@ -5393,21 +5398,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7945,
+      "Progressed": 7949,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9163,
+      "Progressed": 9167,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-24T20:58:21.0915189+00:00",
-  "LastChanged_Achievements": "2023-05-25T04:06:58.8171354+00:00",
+  "LastChanged_Achievements": "2023-05-25T05:06:37.5566801+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3010226+00:00",
-  "LastUpdate_Ratings": "2023-05-25T03:58:30.9641439+00:00",
-  "LastUpdate_Achievements": "2023-05-25T04:06:58.8173924+00:00"
+  "LastUpdate_Ratings": "2023-05-25T04:58:22.7887815+00:00",
+  "LastUpdate_Achievements": "2023-05-25T05:06:37.5568227+00:00"
 }

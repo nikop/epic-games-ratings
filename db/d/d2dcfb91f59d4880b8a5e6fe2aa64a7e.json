@@ -2,7 +2,7 @@
   "ID": "d2dcfb91f59d4880b8a5e6fe2aa64a7e",
   "Name": "Skeletal Avengers",
   "ProductSlug": "skeletal-avengers-af85a4",
-  "Ranking_EOS_Progress": 416,
+  "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 82,
@@ -19,26 +19,201 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2023-05-25T05:03:33.9363265+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "TotalAchievements": 21,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "BABY_STEPS",
+      "SetID": "63n2m0e",
+      "Name": "Baby Steps",
+      "Percentage": 200,
+      "XP": 10,
+      "UsersEstimate": 2
+    },
+    {
+      "ID": "COINS",
+      "SetID": "63n2m0e",
+      "Name": "Coin Operator",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COLLECTOR_ITEMS",
+      "SetID": "63n2m0e",
+      "Name": "Arsenal",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COLLECTOR_TRINKETS",
+      "SetID": "63n2m0e",
+      "Name": "Jeweller",
+      "Percentage": 100,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "DASHER",
+      "SetID": "63n2m0e",
+      "Name": "Dasher",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DEATHBLOW",
+      "SetID": "63n2m0e",
+      "Name": "Deathblow",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DEFLECTOR",
+      "SetID": "63n2m0e",
+      "Name": "Deflector",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DOOMSKULL",
+      "SetID": "63n2m0e",
+      "Name": "Doom Skull",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DUNGEON_BOSS",
+      "SetID": "63n2m0e",
+      "Name": "Master of Dungeon",
+      "Percentage": 100,
+      "XP": 20,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "EVADER",
+      "SetID": "63n2m0e",
+      "Name": "Evader",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HEADWAY",
+      "SetID": "63n2m0e",
+      "Name": "Headway",
+      "Percentage": 0,
+      "XP": 60,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NG",
+      "SetID": "63n2m0e",
+      "Name": "New Game\u002B\u002B",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PALACE_BOSS",
+      "SetID": "63n2m0e",
+      "Name": "Deanimation",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PERK_TESTER",
+      "SetID": "63n2m0e",
+      "Name": "Perk Tester",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PERK_UP",
+      "SetID": "63n2m0e",
+      "Name": "Perk Up",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "QUESTS_COMPLETE",
+      "SetID": "63n2m0e",
+      "Name": "Fifty Quests",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "RAMPAGE",
+      "SetID": "63n2m0e",
+      "Name": "Rampage",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "SEWERS_BOSS",
+      "SetID": "63n2m0e",
+      "Name": "Sewage Treatement",
+      "Percentage": 100,
+      "XP": 30,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "SWIFT",
+      "SetID": "63n2m0e",
+      "Name": "Swift Justice",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TRAPPER",
+      "SetID": "63n2m0e",
+      "Name": "Trapper",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "UNDERDARK_BOSS",
+      "SetID": "63n2m0e",
+      "Name": "Pest Control",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "63n2m0e",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-16T19:59:50.0064107+00:00",
-  "LastChanged_Achievements": "2023-05-25T04:03:51.1503234+00:00",
+  "LastChanged_Achievements": "2023-05-25T05:03:33.936326+00:00",
   "LastUpdate_AppInfo": "2023-05-23T19:56:59.3974929+00:00",
-  "LastUpdate_Ratings": "2023-05-25T03:56:58.6897788+00:00",
-  "LastUpdate_Achievements": "2023-05-25T04:03:51.1503274+00:00"
+  "LastUpdate_Ratings": "2023-05-25T04:56:57.9997645+00:00",
+  "LastUpdate_Achievements": "2023-05-25T05:03:33.9363446+00:00"
 }

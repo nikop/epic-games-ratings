@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.10% | ~89 |
 | Rescue in the Jungle | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,554 (Ranked 60)  
+Progressed: 88,555 (Ranked 60)  
 Completed: 1,877 (2.12%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -535,16 +535,16 @@ Completed: 1,877 (2.12%) (Ranked 62)
 | 2023-05-22 | 88,337 | 1,863 |
 | 2023-05-23 | 88,435 | 1,872 |
 | 2023-05-24 | 88,533 | 1,875 |
-| 2023-05-25 | 88,554 | 1,877 |
+| 2023-05-25 | 88,555 | 1,877 |
 ## Awards
 Max (Diverse Characters): 4,902  (Ranked 64)  
-Sum: 29,965 (Ranked 37)  
+Sum: 29,967 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 4,902 |
 | This game is Great for Beginners | 4,839 |
-| This game has Quickly Understood Controls | 4,600 |
+| This game has Quickly Understood Controls | 4,602 |
 | This game is Relaxing | 4,496 |
 | This game is Highly Recommended | 3,946 |
 | This game has Amazing Characters | 3,943 |
@@ -671,3 +671,4 @@ Diff (max vs sum): 27
 | 2023-05-22 | 4.06 | - | 4,896 | 29,950 |
 | 2023-05-23 | 4.06 | - | 4,898 | 29,959 |
 | 2023-05-24 | 4.06 | - | 4,902 | 29,965 |
+| 2023-05-25 | 4.06 | - | 4,902 | 29,967 |

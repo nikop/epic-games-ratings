@@ -28,12 +28,12 @@ Number of Ratings: 1,845  (23.09.2022)
 | A Real Challenge | 0.90% | ~135 |
 | Refinery | 0.80% | ~120 |
 | Dangerous Lands | 0.80% | ~120 |
+| Haunted Forest | 0.80% | ~120 |
 | Levitating Monument | 0.80% | ~120 |
 | Monastery of the Holy Flame | 0.80% | ~120 |
 | Corrosive Torrent | 0.80% | ~120 |
 | Watchtower | 0.80% | ~120 |
 | Against All Odds | 0.70% | ~105 |
-| Haunted Forest | 0.70% | ~105 |
 | Statue of the Forefathers | 0.70% | ~105 |
 | Forsaken Gods Temple | 0.70% | ~105 |
 | Serving Ale | 0.60% | ~90 |

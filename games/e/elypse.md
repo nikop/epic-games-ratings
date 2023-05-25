@@ -30,8 +30,8 @@
 | Compulsive hoarder | 16.00% | ~7 |
 | Bookworm | 16.00% | ~7 |
 | MayDay! MayDay! | 14.00% | ~6 |
-| GG EZ | 7.00% | ~3 |
-| Comeback | 7.00% | ~3 |
+| GG EZ | 9.00% | ~4 |
+| Comeback | 9.00% | ~4 |
 | Gooooooaaaaal!!! | 7.00% | ~3 |
 | Abyssal God | 0.00% | ~0 |
 | What do you want? | 0.00% | ~0 |

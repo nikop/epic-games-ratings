@@ -15,8 +15,8 @@
 | Ball Galore | 5.00% | ~5 |
 | Easy Victory | 5.00% | ~5 |
 | Back From The Dead | 3.00% | ~3 |
+| Ball Protector | 3.00% | ~3 |
 | Legendary Destructor | 3.00% | ~3 |
-| Ball Protector | 2.00% | ~2 |
 | Monster of Fashion | 2.00% | ~2 |
 | Single Person On Earth | 2.00% | ~2 |
 | Ticking Clock | 2.00% | ~2 |

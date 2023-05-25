@@ -80,6 +80,7 @@ Number of Ratings: 37  (23.09.2022)
 | Buried | 0.50% | ~21 |
 | Craftsmen challenge | 0.50% | ~21 |
 | Penny pincher | 0.50% | ~21 |
+| Negotiator | 0.40% | ~17 |
 | I've been everywhere IV | 0.40% | ~17 |
 | Little place in the country | 0.40% | ~17 |
 | Made my choice | 0.40% | ~17 |
@@ -89,7 +90,6 @@ Number of Ratings: 37  (23.09.2022)
 | To serve and protect | 0.40% | ~17 |
 | It went unnoticed | 0.30% | ~12 |
 | Brew master | 0.30% | ~12 |
-| Negotiator | 0.30% | ~12 |
 | Panacea | 0.30% | ~12 |
 | I've been everywhere III | 0.30% | ~12 |
 | Governor-elect | 0.30% | ~12 |

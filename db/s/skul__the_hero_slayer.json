@@ -788,7 +788,7 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 7373,
+  "EOS_Progressed": 7374,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
@@ -1433,6 +1433,11 @@
       "Time": "2023-05-25T03:05:15.9133903+00:00",
       "NumProgressed": 7373,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-25T05:05:43.7099393+00:00",
+      "NumProgressed": 7374,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -1468,7 +1473,7 @@
       "Name": "Focus!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4571
+      "UsersEstimate": 4572
     },
     {
       "ID": "DemonCastleRestoration",
@@ -1508,7 +1513,7 @@
       "Name": "The Final Battle of the First Hero",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1843
+      "UsersEstimate": 1844
     },
     {
       "ID": "FirstHeroLastBattle_2",
@@ -1556,7 +1561,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 2875
+      "UsersEstimate": 2876
     },
     {
       "ID": "RookieWelcome",
@@ -1572,7 +1577,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4571
+      "UsersEstimate": 4572
     },
     {
       "ID": "SavedElderEnt_2",
@@ -1604,7 +1609,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 6857
+      "UsersEstimate": 6858
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -1635,15 +1640,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7373,
+      "Progressed": 7374,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-05-25T03:59:17.8359369+00:00",
-  "LastChanged_Achievements": "2023-05-25T04:06:11.8049163+00:00",
+  "LastChanged_Achievements": "2023-05-25T05:05:43.7099386+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.259325+00:00",
-  "LastUpdate_Ratings": "2023-05-25T03:59:17.8359373+00:00",
-  "LastUpdate_Achievements": "2023-05-25T04:06:11.8049434+00:00"
+  "LastUpdate_Ratings": "2023-05-25T04:59:04.3154884+00:00",
+  "LastUpdate_Achievements": "2023-05-25T05:05:43.7099573+00:00"
 }

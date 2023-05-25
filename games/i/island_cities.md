@@ -8,8 +8,8 @@
 | A tiny town | 83.00% | ~128 |
 | Buildings, roads, cars, ...and people | 64.00% | ~99 |
 | Great view from the beach and from the hill | 53.00% | ~82 |
-| Bridges to come and go | 46.00% | ~71 |
-| Found an oasis | 38.00% | ~59 |
+| Bridges to come and go | 47.00% | ~72 |
+| Found an oasis | 39.00% | ~60 |
 | Burger or pizza? | 35.00% | ~54 |
 | Passion for sports | 32.00% | ~49 |
 | Who loves trains? | 27.00% | ~42 |
@@ -18,7 +18,7 @@
 | Calm neighborhood | 25.00% | ~38 |
 | Elevated ring | 25.00% | ~38 |
 | Not lonely anymore | 23.00% | ~35 |
-| Monumental tribute | 21.00% | ~32 |
+| Monumental tribute | 22.00% | ~34 |
 | The beach is right there | 21.00% | ~32 |
 | Commuting | 21.00% | ~32 |
 | Le jardin magnifique | 18.00% | ~28 |

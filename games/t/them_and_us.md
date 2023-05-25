@@ -7,8 +7,8 @@
 | Alone with Them | 65.00% | ~79 |
 | Forced to Kill | 65.00% | ~79 |
 | A Night To Remember | 31.00% | ~38 |
-| Safe...For now? | 26.00% | ~31 |
-| Open Sesame | 21.00% | ~25 |
+| Safe...For now? | 27.00% | ~33 |
+| Open Sesame | 22.00% | ~27 |
 | Them and Us | 13.00% | ~16 |
 | OUTRAGE | 13.00% | ~16 |
 | What have I done!? | 13.00% | ~16 |
@@ -26,15 +26,16 @@
 | I Am The Gate Keeper! | 6.00% | ~7 |
 | Researcher | 5.00% | ~6 |
 | The bus stop | 4.00% | ~5 |
+| Run and Gun | 3.00% | ~4 |
 | This Mansion Is Clean | 3.00% | ~4 |
 | Armed To The Teeth | 2.00% | ~2 |
 | Back In Time | 2.00% | ~2 |
-| Run and Gun | 2.00% | ~2 |
+| Retro Player | 2.00% | ~2 |
+| Survival Hero | 2.00% | ~2 |
 | The 5th Element | 2.00% | ~2 |
 | Before The Eclipse | 0.80% | ~1 |
 | Box Of Ploutus | 0.80% | ~1 |
 | Chosen One | 0.80% | ~1 |
-| Retro Player | 0.80% | ~1 |
 | Die Another Day | 0.80% | ~1 |
 | Dressed to Kill | 0.80% | ~1 |
 | Spiritual essence well spent | 0.80% | ~1 |
@@ -43,7 +44,6 @@
 | No Time To Relax | 0.80% | ~1 |
 | Pet The Dog | 0.80% | ~1 |
 | Survival Horror | 0.80% | ~1 |
-| Survival Hero | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 121 (Ranked 258)  
 Completed: 1 (0.83%) (Ranked 91)  

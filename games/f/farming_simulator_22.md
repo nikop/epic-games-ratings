@@ -7,18 +7,18 @@ Number of Ratings: 7,683  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Own use | 76.00% | ~32,593 |
-| I read Shakespeare and stuff | 64.00% | ~27,446 |
+| I read Shakespeare and stuff | 64.00% | ~27,447 |
 | Just a sprinkle | 63.00% | ~27,018 |
 | I'm stumped | 61.00% | ~26,160 |
 | Plant get enough | 61.00% | ~26,160 |
-| It's just the beginning | 59.00% | ~25,302 |
-| This is just my weekend vehicle | 58.00% | ~24,873 |
-| Hard work pays off | 53.00% | ~22,729 |
+| It's just the beginning | 59.00% | ~25,303 |
+| This is just my weekend vehicle | 58.00% | ~24,874 |
+| Hard work pays off | 53.00% | ~22,730 |
 | It's never too late to farm | 47.00% | ~20,156 |
-| All out of Land | 44.00% | ~18,869 |
+| All out of Land | 44.00% | ~18,870 |
 | Field Trip | 43.00% | ~18,441 |
 | I like to switch it up | 40.00% | ~17,154 |
-| Help me to help you | 38.00% | ~16,296 |
+| Help me to help you | 38.00% | ~16,297 |
 | Ultimutt Pawesomeness | 28.00% | ~12,008 |
 | Van Gogh | 26.00% | ~11,150 |
 | You wood not believe it | 21.00% | ~9,006 |
@@ -33,7 +33,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Rock on | 12.00% | ~5,146 |
 | Highly cultivated | 11.00% | ~4,717 |
 | It's sow easy | 11.00% | ~4,717 |
-| Giddy-up! | 10.00% | ~4,288 |
+| Giddy-up! | 10.00% | ~4,289 |
 | Cowherd | 7.00% | ~3,002 |
 | Fluffyness | 6.00% | ~2,573 |
 | Helper A does not stop … ever | 6.00% | ~2,573 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~172 |
 | Raisin the stakes | 0.30% | ~129 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,885 (Ranked 79)  
+Progressed: 42,886 (Ranked 79)  
 Completed: 5 (0.01%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 5 (0.01%) (Ranked 193)
 | 2023-05-22 | 42,787 | 5 |
 | 2023-05-23 | 42,840 | 5 |
 | 2023-05-24 | 42,881 | 5 |
-| 2023-05-25 | 42,885 | 5 |
+| 2023-05-25 | 42,886 | 5 |
 ## Awards
 Max (Great for Beginners): 4,249  (Ranked 70)  
 Sum: 36,609 (Ranked 31)  

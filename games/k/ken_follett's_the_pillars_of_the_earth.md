@@ -6,22 +6,22 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 42.00% | ~5,321 |
-| Man of politics | 36.00% | ~4,561 |
-| Friends of sorts | 35.00% | ~4,434 |
-| Yet another secret | 35.00% | ~4,434 |
+| Tattletale | 42.00% | ~5,322 |
+| Man of politics | 36.00% | ~4,562 |
+| Friends of sorts | 35.00% | ~4,435 |
+| Yet another secret | 35.00% | ~4,435 |
 | Let there be darkness | 33.00% | ~4,181 |
-| End of Book One | 31.00% | ~3,927 |
-| Wannabe knight | 25.00% | ~3,167 |
-| Garden of Eden | 25.00% | ~3,167 |
-| Full house | 25.00% | ~3,167 |
-| Help an old friend | 22.00% | ~2,787 |
+| End of Book One | 31.00% | ~3,928 |
+| Wannabe knight | 25.00% | ~3,168 |
+| Garden of Eden | 25.00% | ~3,168 |
+| Full house | 25.00% | ~3,168 |
+| Help an old friend | 22.00% | ~2,788 |
 | Two of us | 20.00% | ~2,534 |
 | Negotiation skills | 19.00% | ~2,407 |
 | Workers' union | 19.00% | ~2,407 |
-| End of Book Two | 18.00% | ~2,280 |
+| End of Book Two | 18.00% | ~2,281 |
 | Everything's in order | 17.00% | ~2,154 |
-| Jack was here! | 15.00% | ~1,900 |
+| Jack was here! | 15.00% | ~1,901 |
 | Twist of Fate | 14.00% | ~1,774 |
 | Exterminator | 14.00% | ~1,774 |
 | Whodunnit | 13.00% | ~1,647 |
@@ -38,9 +38,9 @@ Number of Ratings: 368  (23.09.2022)
 | A cry for help | 8.00% | ~1,014 |
 | Silentium est aureum | 7.00% | ~887 |
 | Rebel without a cause | 6.00% | ~760 |
-| Staring contest champion | 5.00% | ~633 |
-| Lone wolf | 5.00% | ~633 |
-| Vox Populi | 5.00% | ~633 |
+| Staring contest champion | 5.00% | ~634 |
+| Lone wolf | 5.00% | ~634 |
+| Vox Populi | 5.00% | ~634 |
 | Revenge | 4.00% | ~507 |
 | Self-defense | 4.00% | ~507 |
 | Countess Aliena | 4.00% | ~507 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~380 |
 | Boy of mystery | 2.00% | ~253 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,669 (Ranked 103)  
+Progressed: 12,671 (Ranked 103)  
 Completed: 94 (0.74%) (Ranked 97)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 94 (0.74%) (Ranked 97)
 | 2023-05-22 | 12,626 | 94 |
 | 2023-05-23 | 12,650 | 94 |
 | 2023-05-24 | 12,667 | 94 |
-| 2023-05-25 | 12,669 | 94 |
+| 2023-05-25 | 12,671 | 94 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 287)  
 Sum: 187 (Ranked 355)  

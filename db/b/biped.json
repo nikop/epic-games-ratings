@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1815,
+  "EOS_Progressed": 1818,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 628,
+  "EOS_NewPlayers": 630,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2006,6 +2006,11 @@
       "Time": "2023-05-25T02:05:32.7083761+00:00",
       "NumProgressed": 1815,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T05:05:41.517662+00:00",
+      "NumProgressed": 1818,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -2017,7 +2022,7 @@
       "Name": "First Step",
       "Percentage": 46,
       "XP": 45,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "10",
@@ -2073,15 +2078,15 @@
       "Name": "Dense Forest",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "3",
       "SetID": "1dkhij4",
       "Name": "Cactus Vally",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 526
+      "UsersEstimate": 509
     },
     {
       "ID": "4",
@@ -2129,14 +2134,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 9,
       "XP": 65,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 1815,
+      "Progressed": 1818,
       "Completed": 0
     }
   ],
@@ -2144,8 +2149,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-05-25T04:06:09.5034748+00:00",
+  "LastChanged_Achievements": "2023-05-25T05:05:41.5176612+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:36.8488775+00:00",
-  "LastUpdate_Ratings": "2023-05-25T03:58:09.6828095+00:00",
-  "LastUpdate_Achievements": "2023-05-25T04:06:09.5035111+00:00"
+  "LastUpdate_Ratings": "2023-05-25T04:58:03.2356593+00:00",
+  "LastUpdate_Achievements": "2023-05-25T05:05:41.5176794+00:00"
 }

@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2755,
+  "EOS_Progressed": 2756,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
@@ -1249,6 +1249,11 @@
       "Time": "2023-05-25T02:06:04.7165599+00:00",
       "NumProgressed": 2755,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-25T05:06:32.1696654+00:00",
+      "NumProgressed": 2756,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1396,7 +1401,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2204
+      "UsersEstimate": 2205
     },
     {
       "ID": "campaign20",
@@ -1418,9 +1423,9 @@
       "ID": "campaign4",
       "SetID": "2h56gn1",
       "Name": "Get Rich Quick",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1295
     },
     {
       "ID": "campaign5",
@@ -1428,7 +1433,7 @@
       "Name": "Clay Fighter",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "campaign6",
@@ -1444,7 +1449,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "campaign8",
@@ -1468,7 +1473,7 @@
       "Name": "Do the Splits",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 1157
+      "UsersEstimate": 1158
     },
     {
       "ID": "scenario2",
@@ -1476,7 +1481,7 @@
       "Name": "Full Employment",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "scenario3",
@@ -1523,7 +1528,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2755,
+      "Progressed": 2756,
       "Completed": 9
     }
   ],
@@ -1531,8 +1536,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-25T04:06:53.0199385+00:00",
+  "LastChanged_Achievements": "2023-05-25T05:06:32.169665+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:08.6918917+00:00",
-  "LastUpdate_Ratings": "2023-05-25T04:00:53.955861+00:00",
-  "LastUpdate_Achievements": "2023-05-25T04:06:53.0199914+00:00"
+  "LastUpdate_Ratings": "2023-05-25T05:00:35.588129+00:00",
+  "LastUpdate_Achievements": "2023-05-25T05:06:32.169691+00:00"
 }

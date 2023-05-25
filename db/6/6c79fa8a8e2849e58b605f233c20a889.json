@@ -2,7 +2,7 @@
   "ID": "6c79fa8a8e2849e58b605f233c20a889",
   "Name": "Feud",
   "ProductSlug": "feud-19b141",
-  "Ranking_EOS_Progress": 178,
+  "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 69,
   "Ranking_EOS_NewCompleters": 82,
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 786,
+  "EOS_Progressed": 793,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 784,
+  "EOS_NewPlayers": 791,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -319,6 +319,11 @@
       "Time": "2023-05-25T04:01:37.9240487+00:00",
       "NumProgressed": 786,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T05:01:19.2566229+00:00",
+      "NumProgressed": 793,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -330,7 +335,7 @@
       "Name": "Aggressor",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "AI_DRAW",
@@ -338,7 +343,7 @@
       "Name": "Puppetmaster",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "BOT_DESTROYER",
@@ -360,9 +365,9 @@
       "ID": "CONQUEROR",
       "SetID": "8lhbnh7",
       "Name": "Harold Rex Interfectus Est",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 189
+      "UsersEstimate": 182
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -386,7 +391,7 @@
       "Name": "Face-To-Screen-To-Face",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "FEUD_APPRENTICE",
@@ -410,7 +415,7 @@
       "Name": "Novice",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 283
+      "UsersEstimate": 285
     },
     {
       "ID": "GLOVE_SLAP",
@@ -426,15 +431,15 @@
       "Name": "Gonna Fly Now",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "GRASSHOPPER",
       "SetID": "8lhbnh7",
       "Name": "Grasshopper",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 472
+      "UsersEstimate": 468
     },
     {
       "ID": "GUARD_MAKER",
@@ -505,13 +510,13 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 786,
+      "Progressed": 793,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-05-25T04:01:37.9240479+00:00",
+  "LastChanged_Achievements": "2023-05-25T05:01:19.2566223+00:00",
   "LastUpdate_AppInfo": "2023-05-23T13:57:02.9194307+00:00",
-  "LastUpdate_Ratings": "2023-05-25T03:57:01.139283+00:00",
-  "LastUpdate_Achievements": "2023-05-25T04:01:37.9240811+00:00"
+  "LastUpdate_Ratings": "2023-05-25T04:57:00.5598254+00:00",
+  "LastUpdate_Achievements": "2023-05-25T05:01:19.2566443+00:00"
 }

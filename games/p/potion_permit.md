@@ -5,24 +5,24 @@ Rating: 3.79 (Ranked 913)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,256 |
-| The First Step | 88.00% | ~1,128 |
+| Welcome to Moonbury | 98.00% | ~1,257 |
+| The First Step | 88.00% | ~1,129 |
 | Moonbury Traveller | 63.00% | ~808 |
 | Rookie Chemist | 62.00% | ~795 |
-| Great Doctor | 50.00% | ~641 |
+| Great Doctor | 50.00% | ~642 |
 | Dog Whisperer | 47.00% | ~603 |
 | Friendly | 46.00% | ~590 |
-| The Capitalist | 42.00% | ~538 |
+| The Capitalist | 42.00% | ~539 |
 | K.O.! | 41.00% | ~526 |
-| Intermediate Chemist | 38.00% | ~487 |
-| Decorative Mind | 31.00% | ~397 |
+| Intermediate Chemist | 37.00% | ~475 |
+| Decorative Mind | 31.00% | ~398 |
 | Lumber Specialist | 29.00% | ~372 |
 | Catch of the Day | 23.00% | ~295 |
 | Kind-hearted | 22.00% | ~282 |
-| Amateur Chef | 20.00% | ~256 |
+| Amateur Chef | 20.00% | ~257 |
 | Fishing Guru | 17.00% | ~218 |
 | Community Helper | 16.00% | ~205 |
-| Spark of Love | 14.00% | ~179 |
+| Spark of Love | 14.00% | ~180 |
 | Stone Specialist | 13.00% | ~167 |
 | Expert Chemist | 12.00% | ~154 |
 | Ablutomaniac | 12.00% | ~154 |
@@ -44,7 +44,7 @@ Rating: 3.79 (Ranked 913)
 | Moonbury Navigator | 0.80% | ~10 |
 | Being a donut... | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,282 (Ranked 158)  
+Progressed: 1,283 (Ranked 158)  
 Completed: 5 (0.39%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,7 +70,7 @@ Completed: 5 (0.39%) (Ranked 112)
 | 2023-05-22 | 1,268 | 5 |
 | 2023-05-23 | 1,277 | 5 |
 | 2023-05-24 | 1,281 | 5 |
-| 2023-05-25 | 1,282 | 5 |
+| 2023-05-25 | 1,283 | 5 |
 ## Awards
 Max (Character Customization): 66  (Ranked 368)  
 Sum: 66 (Ranked 422)  

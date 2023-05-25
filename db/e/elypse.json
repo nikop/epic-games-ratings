@@ -249,9 +249,9 @@
       "ID": "Ach_BossFinal",
       "SetID": "4o5gjp0",
       "Name": "GG EZ",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Ach_BossGolem",
@@ -401,9 +401,9 @@
       "ID": "Ach_FinishElypse",
       "SetID": "4o5gjp0",
       "Name": "Comeback",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Ach_FirstGolem",
@@ -504,8 +504,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-05-25T04:06:13.3586305+00:00",
+  "LastChanged_Achievements": "2023-05-25T05:05:45.2496029+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.0525193+00:00",
-  "LastUpdate_Ratings": "2023-05-25T03:58:04.2350534+00:00",
-  "LastUpdate_Achievements": "2023-05-25T04:06:13.3586727+00:00"
+  "LastUpdate_Ratings": "2023-05-25T04:57:58.5376043+00:00",
+  "LastUpdate_Achievements": "2023-05-25T05:05:45.2496442+00:00"
 }

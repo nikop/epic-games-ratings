@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 23,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -1792,9 +1792,9 @@
       "ID": "16",
       "SetID": "d0g98p",
       "Name": "Soul Slayer",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 246
+      "UsersEstimate": 254
     },
     {
       "ID": "17",
@@ -1808,9 +1808,9 @@
       "ID": "18",
       "SetID": "d0g98p",
       "Name": "Surprise!",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 365
+      "UsersEstimate": 373
     },
     {
       "ID": "19",
@@ -2145,8 +2145,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-25T04:06:13.3696595+00:00",
+  "LastChanged_Achievements": "2023-05-25T05:05:45.3289147+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:59.9943101+00:00",
-  "LastUpdate_Ratings": "2023-05-25T03:57:28.0755381+00:00",
-  "LastUpdate_Achievements": "2023-05-25T04:06:13.3697142+00:00"
+  "LastUpdate_Ratings": "2023-05-25T04:57:25.783655+00:00",
+  "LastUpdate_Achievements": "2023-05-25T05:05:45.3289585+00:00"
 }

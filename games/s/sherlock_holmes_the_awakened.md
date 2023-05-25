@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Hell In A Handcart | 68.00% | ~154 |
+| To Hell In A Handcart | 67.00% | ~152 |
 | Read Between The Lines | 64.00% | ~145 |
-| High Profile | 60.00% | ~136 |
-| Whispers In The Dark | 58.00% | ~131 |
-| Fond Memories | 51.00% | ~115 |
+| High Profile | 59.00% | ~134 |
+| Whispers In The Dark | 58.00% | ~132 |
+| Fond Memories | 51.00% | ~116 |
 | History Check | 49.00% | ~111 |
 | A Method To His Madness | 49.00% | ~111 |
 | The New World | 46.00% | ~104 |
-| Lock, Stock, And Barrel | 44.00% | ~99 |
-| Gaze Into The Abyss | 44.00% | ~99 |
-| Open Sesame | 44.00% | ~99 |
-| Sticky Fingers | 44.00% | ~99 |
-| Knives Out | 43.00% | ~97 |
-| Back In The Saddle | 42.00% | ~95 |
+| Lock, Stock, And Barrel | 44.00% | ~100 |
+| Gaze Into The Abyss | 44.00% | ~100 |
+| Open Sesame | 44.00% | ~100 |
+| Sticky Fingers | 44.00% | ~100 |
+| Back In The Saddle | 43.00% | ~98 |
+| Knives Out | 43.00% | ~98 |
 | Land, Ho! | 42.00% | ~95 |
 | No Man Is An Island | 41.00% | ~93 |
 | At Wits' End | 38.00% | ~86 |
 | Bookworm | 37.00% | ~84 |
-| Fhtagn! | 36.00% | ~81 |
+| Fhtagn! | 36.00% | ~82 |
 | Going Once... | 35.00% | ~79 |
 | Up In Flames | 35.00% | ~79 |
 | Brain Food | 33.00% | ~75 |
-| Let Me Be Frank | 32.00% | ~72 |
+| Let Me Be Frank | 32.00% | ~73 |
 | No Stone Unturned | 30.00% | ~68 |
 | Curiosity Killed The Cat | 22.00% | ~50 |
 | Big Breakthrough | 19.00% | ~43 |
 | Read It And Weep | 18.00% | ~41 |
 | Reawakened | 8.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226 (Ranked 228)  
-Completed: 12 (5.31%) (Ranked 29)  
+Progressed: 227 (Ranked 228)  
+Completed: 12 (5.29%) (Ranked 29)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -65,7 +65,7 @@ Completed: 12 (5.31%) (Ranked 29)
 | 2023-05-22 | 209 | 12 |
 | 2023-05-23 | 217 | 12 |
 | 2023-05-24 | 225 | 12 |
-| 2023-05-25 | 226 | 12 |
+| 2023-05-25 | 227 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

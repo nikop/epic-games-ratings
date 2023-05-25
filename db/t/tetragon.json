@@ -2,7 +2,7 @@
   "ID": "6e842eaed1ff4ba4bcf04aac8238e124",
   "Name": "Tetragon",
   "ProductSlug": "tetragon-edc5d5",
-  "Ranking_EOS_Progress": 416,
+  "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 82,
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-16T11:58:05.7407941+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:53.7103924+00:00",
-  "LastUpdate_Ratings": "2023-05-25T03:58:31.5197956+00:00",
-  "LastUpdate_Achievements": "2023-05-25T04:02:31.6241655+00:00"
+  "LastUpdate_Ratings": "2023-05-25T04:58:23.3306466+00:00",
+  "LastUpdate_Achievements": "2023-05-25T05:02:19.0426934+00:00"
 }
