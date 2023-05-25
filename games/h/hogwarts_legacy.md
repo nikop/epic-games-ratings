@@ -14,6 +14,7 @@ Rating: 4.77 (Ranked 106)
 | Coasting Along | 6.00% | ~16,327 |
 | First Class Student | 6.00% | ~16,327 |
 | Troll with the Punches | 6.00% | ~16,327 |
+| That's a Keeper | 6.00% | ~16,327 |
 | The Avenging Gazelle | 5.00% | ~13,606 |
 | A Sallow Grave | 5.00% | ~13,606 |
 | Challenge Accepted | 5.00% | ~13,606 |
@@ -21,17 +22,16 @@ Rating: 4.77 (Ranked 106)
 | Loom for Improvement | 5.00% | ~13,606 |
 | A Talent for Spending | 5.00% | ~13,606 |
 | The Spell Master | 5.00% | ~13,606 |
-| That's a Keeper | 5.00% | ~13,606 |
 | Rising From the Ashes | 5.00% | ~13,606 |
 | The Seeker of Knowledge | 4.00% | ~10,885 |
 | Beast Friends | 4.00% | ~10,885 |
 | Flight the Good Flight | 4.00% | ~10,885 |
 | Followed the Butterflies | 4.00% | ~10,885 |
-| The Root of the Problem | 3.00% | ~8,163 |
-| Third Time's a Charm | 3.00% | ~8,163 |
-| Room with a View | 3.00% | ~8,163 |
-| The Ends Petrify the Means | 3.00% | ~8,163 |
-| Raising Expectations | 3.00% | ~8,163 |
+| The Root of the Problem | 3.00% | ~8,164 |
+| Third Time's a Charm | 3.00% | ~8,164 |
+| Room with a View | 3.00% | ~8,164 |
+| The Ends Petrify the Means | 3.00% | ~8,164 |
+| Raising Expectations | 3.00% | ~8,164 |
 | The Toast of the Town | 2.00% | ~5,442 |
 | Going Through the Potions | 2.00% | ~5,442 |
 | Floo Around the World | 2.00% | ~5,442 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 106)
 | The Nature of the Beast | 0.40% | ~1,088 |
 | Collector's Edition | 0.20% | ~544 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 272,116 (Ranked 38)  
+Progressed: 272,120 (Ranked 38)  
 Completed: 372 (0.14%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 372 (0.14%) (Ranked 150)
 | 2023-05-22 | 271,035 | 369 |
 | 2023-05-23 | 271,519 | 370 |
 | 2023-05-24 | 271,975 | 372 |
-| 2023-05-25 | 272,116 | 372 |
+| 2023-05-25 | 272,120 | 372 |
 ## Awards
 Max (Character Customization): 19,098  (Ranked 18)  
 Sum: 35,198 (Ranked 33)  

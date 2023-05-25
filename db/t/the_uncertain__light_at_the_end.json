@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -74,11 +74,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 425,
+  "EOS_Progressed": 426,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.18,
+  "EOS_Completed_Percentage": 1.17,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:44.5175392+00:00",
@@ -199,6 +199,11 @@
       "Time": "2023-05-23T06:06:30.4473672+00:00",
       "NumProgressed": 425,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-25T09:06:40.9538093+00:00",
+      "NumProgressed": 426,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -226,7 +231,7 @@
       "Name": "The Butterfly Effect",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Caring_Soul",
@@ -250,7 +255,7 @@
       "Name": "Echoes of the Past",
       "Percentage": 2,
       "XP": 115,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Enjoyable_Read",
@@ -266,7 +271,7 @@
       "Name": "Casual Gamer",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Graffiti_Artist",
@@ -274,7 +279,7 @@
       "Name": "Urban Scrawl",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Hacker",
@@ -298,7 +303,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "Hitman",
@@ -322,7 +327,7 @@
       "Name": "Marvellous Toys",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Left_Behind",
@@ -441,7 +446,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 425,
+      "Progressed": 426,
       "Completed": 5
     }
   ],
@@ -449,8 +454,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-05-18T03:00:40.7703689+00:00",
-  "LastChanged_Achievements": "2023-05-25T08:06:37.0759509+00:00",
+  "LastChanged_Achievements": "2023-05-25T09:06:40.9538087+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:53.1846024+00:00",
-  "LastUpdate_Ratings": "2023-05-25T08:00:49.0589231+00:00",
-  "LastUpdate_Achievements": "2023-05-25T08:06:37.075972+00:00"
+  "LastUpdate_Ratings": "2023-05-25T09:00:58.4571778+00:00",
+  "LastUpdate_Achievements": "2023-05-25T09:06:40.9538279+00:00"
 }

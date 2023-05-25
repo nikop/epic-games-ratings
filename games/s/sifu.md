@@ -17,6 +17,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | A Lady's Blood in the Snow | 0.90% | ~6,346 |
 | Life is your teacher | 0.90% | ~6,346 |
 | State of constant learning | 0.90% | ~6,346 |
+| Lightning Hands | 0.90% | ~6,346 |
 | Path of the Prospect | 0.90% | ~6,346 |
 | Rumble in the Hangar | 0.90% | ~6,346 |
 | Lady Wing Chun | 0.80% | ~5,641 |
@@ -24,7 +25,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kill Nil | 0.80% | ~5,641 |
 | Street Fighting | 0.80% | ~5,641 |
 | Qi Gong: Essence | 0.80% | ~5,641 |
-| Lightning Hands | 0.80% | ~5,641 |
 | Stuntmaster | 0.70% | ~4,936 |
 | Old Child | 0.70% | ~4,936 |
 | Take damage to save time | 0.70% | ~4,936 |
@@ -32,8 +32,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Dance of the Praying Mantis | 0.60% | ~4,231 |
 | Kung-Fu Tussle | 0.60% | ~4,231 |
 | Deadly Venom | 0.60% | ~86 |
-| Qi Gong: Mind | 0.50% | ~3,525 |
-| I know Kung-Fu | 0.50% | ~3,525 |
+| Qi Gong: Mind | 0.50% | ~3,526 |
+| I know Kung-Fu | 0.50% | ~3,526 |
 | A Touch of Acumen | 0.50% | ~72 |
 | Muk Yan Master | 0.40% | ~2,820 |
 | Tiger on Fire | 0.40% | ~2,820 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~705 |
 | Warriors from the Mountain | 0.10% | ~705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705,090 (Ranked 15)  
+Progressed: 705,104 (Ranked 15)  
 Completed: 12,734 (1.81%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 12,734 (1.81%) (Ranked 64)
 | 2023-05-22 | 704,647 | 12,733 |
 | 2023-05-23 | 704,864 | 12,733 |
 | 2023-05-24 | 705,048 | 12,734 |
-| 2023-05-25 | 705,090 | 12,734 |
+| 2023-05-25 | 705,104 | 12,734 |
 ## Awards
 Max (Great Boss Battles): 6,089  (Ranked 53)  
 Sum: 10,369 (Ranked 77)  

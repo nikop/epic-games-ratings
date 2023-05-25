@@ -110,9 +110,9 @@
       "ID": "605732",
       "SetID": "4lpaifm",
       "Name": "Good Start",
-      "Percentage": 96,
+      "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 196
     },
     {
       "ID": "605742",
@@ -142,9 +142,9 @@
       "ID": "605772",
       "SetID": "4lpaifm",
       "Name": "Creator of Civilization",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 72
     },
     {
       "ID": "605782",
@@ -174,9 +174,9 @@
       "ID": "605812",
       "SetID": "4lpaifm",
       "Name": "God of Fun",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "605822",
@@ -206,17 +206,17 @@
       "ID": "605852",
       "SetID": "4lpaifm",
       "Name": "Doodle Bar",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "605862",
       "SetID": "4lpaifm",
       "Name": "Half the Kingdom",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "605872",
@@ -295,8 +295,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-05-25T08:06:23.5032464+00:00",
+  "LastChanged_Achievements": "2023-05-25T09:06:27.1376091+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:48.6526369+00:00",
-  "LastUpdate_Ratings": "2023-05-25T07:59:34.5240133+00:00",
-  "LastUpdate_Achievements": "2023-05-25T08:06:23.503262+00:00"
+  "LastUpdate_Ratings": "2023-05-25T08:59:41.9082731+00:00",
+  "LastUpdate_Achievements": "2023-05-25T09:06:27.1376299+00:00"
 }

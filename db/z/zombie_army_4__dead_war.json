@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1515,9 +1515,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 42410,
+  "EOS_Progressed": 42411,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2515,6 +2515,11 @@
       "Time": "2023-05-25T08:06:42.1073775+00:00",
       "NumProgressed": 42410,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-25T09:06:46.0306812+00:00",
+      "NumProgressed": 42411,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -2526,7 +2531,7 @@
       "Name": "Groovy",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 25870
+      "UsersEstimate": 25871
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -2534,7 +2539,7 @@
       "Name": "Kali Ma",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "SE_COMPLETE_ALL_CHAPTERS_WITH_A_FULL_TEAM",
@@ -2598,7 +2603,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 17388
+      "UsersEstimate": 17389
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -2622,7 +2627,7 @@
       "Name": "I\u0027m going deeper underground",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 5937
+      "UsersEstimate": 5938
     },
     {
       "ID": "SE_COMPLETE_GENOA",
@@ -2710,7 +2715,7 @@
       "Name": "I told you we should have gone to the beach",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "SE_COMPLETE_MILAN",
@@ -2718,7 +2723,7 @@
       "Name": "Choo choo!",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 26294
+      "UsersEstimate": 26295
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -2734,7 +2739,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 13995
+      "UsersEstimate": 13996
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -2742,7 +2747,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 18660
+      "UsersEstimate": 18661
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -2758,7 +2763,7 @@
       "Name": "Have you tried turning it off and on again?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "SE_COMPLETE_TERROR_LAB",
@@ -2782,7 +2787,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 14843
+      "UsersEstimate": 14844
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -2822,7 +2827,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 17388
+      "UsersEstimate": 17389
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -2830,7 +2835,7 @@
       "Name": "Gold",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 21205
+      "UsersEstimate": 21206
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -2918,7 +2923,7 @@
       "Name": "Chain reaction",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 18660
+      "UsersEstimate": 18661
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -2926,7 +2931,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27566
+      "UsersEstimate": 27567
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -2966,7 +2971,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 14419
+      "UsersEstimate": 14420
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -2982,7 +2987,7 @@
       "Name": "Blood splattered",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 27566
+      "UsersEstimate": 27567
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -2990,7 +2995,7 @@
       "Name": "Gore soaked",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 10178
+      "UsersEstimate": 10179
     },
     {
       "ID": "SE_REACH_WAVE_X",
@@ -3053,15 +3058,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 42410,
+      "Progressed": 42411,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-05-24T17:59:11.6320476+00:00",
-  "LastChanged_Achievements": "2023-05-25T08:06:42.107377+00:00",
+  "LastChanged_Achievements": "2023-05-25T09:06:46.0306805+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.8149711+00:00",
-  "LastUpdate_Ratings": "2023-05-25T08:00:01.186505+00:00",
-  "LastUpdate_Achievements": "2023-05-25T08:06:42.1074442+00:00"
+  "LastUpdate_Ratings": "2023-05-25T09:00:10.6150154+00:00",
+  "LastUpdate_Achievements": "2023-05-25T09:06:46.0307619+00:00"
 }

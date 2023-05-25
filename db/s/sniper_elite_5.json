@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1382,
+  "EOS_Progressed": 1384,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 652,
+  "EOS_NewPlayers": 654,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1325,6 +1325,11 @@
       "Time": "2023-05-25T08:06:11.1450797+00:00",
       "NumProgressed": 1382,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-25T09:06:14.3482903+00:00",
+      "NumProgressed": 1384,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1576,7 +1581,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -1584,7 +1589,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -1704,7 +1709,7 @@
       "Name": "Taking it back",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -1903,13 +1908,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1333,
+      "Progressed": 1335,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1382,
+      "Progressed": 1384,
       "Completed": 2
     }
   ],
@@ -1917,8 +1922,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-24T14:00:16.736359+00:00",
-  "LastChanged_Achievements": "2023-05-25T08:06:11.1450794+00:00",
+  "LastChanged_Achievements": "2023-05-25T09:06:14.3482898+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-25T08:00:45.6091994+00:00",
-  "LastUpdate_Achievements": "2023-05-25T08:06:11.1451541+00:00"
+  "LastUpdate_Ratings": "2023-05-25T09:00:55.0277832+00:00",
+  "LastUpdate_Achievements": "2023-05-25T09:06:14.3483698+00:00"
 }

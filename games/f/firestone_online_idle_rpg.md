@@ -38,13 +38,13 @@ Rating: 3.87 (Ranked 906)
 | Moving Up The Ladder | 5.00% | ~58 |
 | Doing My Part | 4.00% | ~46 |
 | Here We Go Again | 4.00% | ~46 |
+| Missions Dedication | 4.00% | ~46 |
 | Relic Of The Past | 4.00% | ~46 |
 | The Expeditioner | 4.00% | ~46 |
 | Ancient Knowledge | 3.00% | ~35 |
 | Background Story | 3.00% | ~35 |
 | How Do You Turn This On? | 3.00% | ~35 |
 | Master Enchanter | 3.00% | ~35 |
-| Missions Dedication | 3.00% | ~35 |
 | The father of Dragons | 3.00% | ~35 |
 | Trader | 3.00% | ~35 |
 | Weekly Quest Completionist | 3.00% | ~35 |
@@ -58,7 +58,7 @@ Rating: 3.87 (Ranked 906)
 | Sailor | 1.00% | ~12 |
 | Active Member | 0.90% | ~10 |
 | Crystal Mining | 0.90% | ~10 |
-| Ebony Jungle Liberator | 0.80% | ~9 |
+| Ebony Jungle Liberator | 0.90% | ~10 |
 | The Alchemist | 0.80% | ~9 |
 | Legendary | 0.60% | ~7 |
 | Training makes a Pro player | 0.60% | ~7 |

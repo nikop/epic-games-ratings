@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -981,9 +981,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 5693,
+  "EOS_Progressed": 5695,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3776,6 +3776,11 @@
       "Time": "2023-05-25T08:06:37.5821985+00:00",
       "NumProgressed": 5693,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T09:06:41.4685455+00:00",
+      "NumProgressed": 5695,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -3787,7 +3792,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 3473
+      "UsersEstimate": 3474
     },
     {
       "ID": "10",
@@ -3819,7 +3824,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3017
+      "UsersEstimate": 3018
     },
     {
       "ID": "14",
@@ -3835,7 +3840,7 @@
       "Name": "Legendary Explorer",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "16",
@@ -3843,7 +3848,7 @@
       "Name": "Adventurer",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 2334
+      "UsersEstimate": 2335
     },
     {
       "ID": "17",
@@ -3867,7 +3872,7 @@
       "Name": "Healer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 3017
+      "UsersEstimate": 3018
     },
     {
       "ID": "2",
@@ -3883,7 +3888,7 @@
       "Name": "Famous Healer",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 2163
+      "UsersEstimate": 2164
     },
     {
       "ID": "21",
@@ -3899,7 +3904,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 3985
+      "UsersEstimate": 3986
     },
     {
       "ID": "23",
@@ -3915,7 +3920,7 @@
       "Name": "It\u0027s a Finnish Thing",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "25",
@@ -3923,7 +3928,7 @@
       "Name": "Cleaner",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "26",
@@ -3955,7 +3960,7 @@
       "Name": "Trader",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "3",
@@ -3963,7 +3968,7 @@
       "Name": "Great Leader",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1253
     },
     {
       "ID": "30",
@@ -4001,9 +4006,9 @@
       "ID": "34",
       "SetID": "8idi9ml",
       "Name": "Ice Lakes",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1253
     },
     {
       "ID": "35",
@@ -4035,7 +4040,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 2562
+      "UsersEstimate": 2563
     },
     {
       "ID": "39",
@@ -4051,7 +4056,7 @@
       "Name": "Catastrofan",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1594
+      "UsersEstimate": 1595
     },
     {
       "ID": "40",
@@ -4107,7 +4112,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1481
     },
     {
       "ID": "47",
@@ -4131,7 +4136,7 @@
       "Name": "Mentor",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1253
     },
     {
       "ID": "5",
@@ -4155,7 +4160,7 @@
       "Name": "Sky Burial",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "52",
@@ -4179,7 +4184,7 @@
       "Name": "Top Notch",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1366
+      "UsersEstimate": 1367
     },
     {
       "ID": "55",
@@ -4258,15 +4263,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 5693,
+      "Progressed": 5695,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-05-13T10:01:00.1135595+00:00",
-  "LastChanged_Achievements": "2023-05-25T08:06:37.5821981+00:00",
+  "LastChanged_Achievements": "2023-05-25T09:06:41.4685452+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:33.4626364+00:00",
-  "LastUpdate_Ratings": "2023-05-25T08:00:10.7217703+00:00",
-  "LastUpdate_Achievements": "2023-05-25T08:06:37.5822686+00:00"
+  "LastUpdate_Ratings": "2023-05-25T09:00:19.3581989+00:00",
+  "LastUpdate_Achievements": "2023-05-25T09:06:41.468606+00:00"
 }

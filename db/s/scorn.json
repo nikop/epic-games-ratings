@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 22,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2022-10-14T10:00:00+00:00",
     "PcReleaseDate": "2022-10-14T10:00:00+00:00",
@@ -189,10 +189,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1950,
-  "EOS_Completed": 134,
+  "EOS_Completed": 135,
   "EOS_NewPlayers": 59,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 6.87,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 6.92,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.2661107+00:00",
@@ -648,6 +648,11 @@
       "Time": "2023-05-25T04:06:06.1320109+00:00",
       "NumProgressed": 1950,
       "NumCompleted": 134
+    },
+    {
+      "Time": "2023-05-25T09:05:58.3119571+00:00",
+      "NumProgressed": 1950,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 12,
@@ -745,9 +750,9 @@
       "ID": "012",
       "SetID": "94k0mj8",
       "Name": "012",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     }
   ],
   "AchievementSets": [
@@ -755,15 +760,15 @@
       "ID": "94k0mj8",
       "IsBase": true,
       "Progressed": 1950,
-      "Completed": 134
+      "Completed": 135
     }
   ],
   "FirstSeen": "2022-10-14T14:31:02.6493654+00:00",
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-05-05T21:59:14.505449+00:00",
-  "LastChanged_Achievements": "2023-05-25T08:05:55.248101+00:00",
+  "LastChanged_Achievements": "2023-05-25T09:05:58.3119567+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:35.3193403+00:00",
-  "LastUpdate_Ratings": "2023-05-25T07:57:59.7901241+00:00",
-  "LastUpdate_Achievements": "2023-05-25T08:05:55.248112+00:00"
+  "LastUpdate_Ratings": "2023-05-25T08:58:09.8460344+00:00",
+  "LastUpdate_Achievements": "2023-05-25T09:05:58.3119685+00:00"
 }

@@ -2264,9 +2264,9 @@
       "ID": "ebonyjungleliberator",
       "SetID": "3nl4bcg",
       "Name": "Ebony Jungle Liberator",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "enchantingskill",
@@ -2480,9 +2480,9 @@
       "ID": "missionsdedication",
       "SetID": "3nl4bcg",
       "Name": "Missions Dedication",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 46
     },
     {
       "ID": "movinguptheladder",
@@ -2745,8 +2745,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-23T21:58:11.918076+00:00",
-  "LastChanged_Achievements": "2023-05-25T08:06:21.5737672+00:00",
+  "LastChanged_Achievements": "2023-05-25T09:06:25.3409294+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:34.8363446+00:00",
-  "LastUpdate_Ratings": "2023-05-25T07:57:58.6310127+00:00",
-  "LastUpdate_Achievements": "2023-05-25T08:06:21.5738554+00:00"
+  "LastUpdate_Ratings": "2023-05-25T08:58:08.7235515+00:00",
+  "LastUpdate_Achievements": "2023-05-25T09:06:25.341017+00:00"
 }

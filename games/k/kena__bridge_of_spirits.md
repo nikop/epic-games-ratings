@@ -6,27 +6,27 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~404,149 |
-| Haikyo | 80.00% | ~340,336 |
-| Good as New | 72.00% | ~306,302 |
+| Found a Friend | 95.00% | ~404,150 |
+| Haikyo | 80.00% | ~340,337 |
+| Good as New | 72.00% | ~306,303 |
 | Into the Woods | 69.00% | ~293,540 |
-| Hunter in the Forest | 60.00% | ~255,252 |
+| Hunter in the Forest | 60.00% | ~255,253 |
 | Rot Commander | 59.00% | ~250,998 |
-| Taro's Fear | 55.00% | ~233,981 |
-| Between the Eyes | 46.00% | ~195,693 |
+| Taro's Fear | 55.00% | ~233,982 |
+| Between the Eyes | 46.00% | ~195,694 |
 | Taro's Love | 45.00% | ~191,439 |
 | Taro's Regret | 43.00% | ~182,931 |
-| Spirit Guide | 42.00% | ~178,676 |
+| Spirit Guide | 42.00% | ~178,677 |
 | Harness Your Power | 38.00% | ~161,660 |
-| The Open Range | 37.00% | ~157,405 |
+| The Open Range | 37.00% | ~157,406 |
 | Adira's Love | 33.00% | ~140,389 |
-| Adira's Fear | 32.00% | ~136,134 |
-| Weigh Them Down | 31.00% | ~131,880 |
-| Adira's Regret | 31.00% | ~131,880 |
+| Adira's Fear | 32.00% | ~136,135 |
+| Weigh Them Down | 31.00% | ~131,881 |
+| Adira's Regret | 31.00% | ~131,881 |
 | A Heavy Hammer | 30.00% | ~127,626 |
 | Crossing Over | 29.00% | ~123,372 |
 | Quick Draw | 29.00% | ~123,372 |
-| Toshi's Fear | 27.00% | ~114,863 |
+| Toshi's Fear | 27.00% | ~114,864 |
 | Bow Master | 26.00% | ~110,609 |
 | Toshi's Regret | 26.00% | ~110,609 |
 | Toshi's Love | 26.00% | ~110,609 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,829 |
 | Master Spirit Guide | 0.30% | ~1,276 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 425,420 (Ranked 32)  
+Progressed: 425,421 (Ranked 32)  
 Completed: 503 (0.12%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 503 (0.12%) (Ranked 155)
 | 2023-05-22 | 425,352 | 501 |
 | 2023-05-23 | 425,383 | 501 |
 | 2023-05-24 | 425,413 | 503 |
-| 2023-05-25 | 425,420 | 503 |
+| 2023-05-25 | 425,421 | 503 |
 ## Awards
 Max (Great Boss Battles): 1,297  (Ranked 119)  
 Sum: 1,668 (Ranked 198)  

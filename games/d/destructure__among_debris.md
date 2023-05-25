@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Graduation | 78.00% | ~76 |
+| Graduation | 77.00% | ~76 |
 | You Have Been Deaded | 68.00% | ~67 |
 | Rookie | 68.00% | ~67 |
 | Apprentice Destructor | 21.00% | ~21 |
@@ -36,8 +36,8 @@
 | Victory That Is Even More True | 1.00% | ~1 |
 | What Even Are You? | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98 (Ranked 261)  
-Completed: 1 (1.02%) (Ranked 86)  
+Progressed: 99 (Ranked 261)  
+Completed: 1 (1.01%) (Ranked 86)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -64,6 +64,7 @@ Completed: 1 (1.02%) (Ranked 86)
 | 2023-05-22 | 92 | 1 |
 | 2023-05-23 | 96 | 1 |
 | 2023-05-24 | 98 | 1 |
+| 2023-05-25 | 99 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

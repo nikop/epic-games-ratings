@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2757,
+  "EOS_Progressed": 2758,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -1259,6 +1259,11 @@
       "Time": "2023-05-25T08:06:36.8294666+00:00",
       "NumProgressed": 2757,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-25T09:06:40.7140135+00:00",
+      "NumProgressed": 2758,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1270,7 +1275,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "bonus2",
@@ -1318,7 +1323,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2481
+      "UsersEstimate": 2482
     },
     {
       "ID": "campaign10",
@@ -1422,15 +1427,15 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "campaign4",
       "SetID": "2h56gn1",
       "Name": "Get Rich Quick",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1323
+      "UsersEstimate": 1296
     },
     {
       "ID": "campaign5",
@@ -1478,7 +1483,7 @@
       "Name": "Do the Splits",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "scenario2",
@@ -1533,7 +1538,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2757,
+      "Progressed": 2758,
       "Completed": 9
     }
   ],
@@ -1541,8 +1546,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-25T08:06:36.8294662+00:00",
+  "LastChanged_Achievements": "2023-05-25T09:06:40.7140132+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:08.6918917+00:00",
-  "LastUpdate_Ratings": "2023-05-25T08:00:27.1757779+00:00",
-  "LastUpdate_Achievements": "2023-05-25T08:06:36.8294993+00:00"
+  "LastUpdate_Ratings": "2023-05-25T09:00:36.1544589+00:00",
+  "LastUpdate_Achievements": "2023-05-25T09:06:40.714042+00:00"
 }

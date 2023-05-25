@@ -220,17 +220,17 @@
       "ID": "ChronobreakMultiKill1",
       "SetID": "a9e499d",
       "Name": "Right On Time",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 103
     },
     {
       "ID": "ClockworkCompletion1",
       "SetID": "a9e499d",
       "Name": "Corin Goes Home",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "ClockworkProgress1",
@@ -292,17 +292,17 @@
       "ID": "FactorywoodChests1",
       "SetID": "a9e499d",
       "Name": "Factorywood Explorer",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "FairgroundsChests1",
       "SetID": "a9e499d",
       "Name": "Fairgrounds Explorer",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -324,9 +324,9 @@
       "ID": "FutureEkko3Defeated",
       "SetID": "a9e499d",
       "Name": "The Man Who Shattered Time",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "GadgetCompletion1",
@@ -436,41 +436,41 @@
       "ID": "ParryBoss",
       "SetID": "a9e499d",
       "Name": "The Harder They Fall",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 82
     },
     {
       "ID": "ParryRepeated1",
       "SetID": "a9e499d",
       "Name": "No, Thanks!",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 100
     },
     {
       "ID": "PhaseDiveCounter",
       "SetID": "a9e499d",
       "Name": "Breaking Down Barriers",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "PidgeAlluraDefeated",
       "SetID": "a9e499d",
       "Name": "The Wicked Twins",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "PidgeDefeated",
       "SetID": "a9e499d",
       "Name": "The Prince in Heels",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "RewindDamage1",
@@ -484,9 +484,9 @@
       "ID": "RewindParry",
       "SetID": "a9e499d",
       "Name": "Honest Mistake",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 97
     },
     {
       "ID": "ScrambotCompletion1",
@@ -516,9 +516,9 @@
       "ID": "SkillProgress1",
       "SetID": "a9e499d",
       "Name": "Fast Learner",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 82
     },
     {
       "ID": "SpeedRun",
@@ -532,9 +532,9 @@
       "ID": "SumpChests1",
       "SetID": "a9e499d",
       "Name": "Sump Explorer",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "SyronGift",
@@ -564,9 +564,9 @@
       "ID": "TimewinderMultiKill1",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 126
     },
     {
       "ID": "WarwickDefeated",
@@ -588,9 +588,9 @@
       "ID": "WatcherSpared",
       "SetID": "a9e499d",
       "Name": "Good Neighbor",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 53
     },
     {
       "ID": "Zarkon1Defeated",
@@ -619,8 +619,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-05-25T08:05:06.9955479+00:00",
+  "LastChanged_Achievements": "2023-05-25T09:05:09.0165301+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:56.3426004+00:00",
-  "LastUpdate_Ratings": "2023-05-25T07:59:35.8319289+00:00",
-  "LastUpdate_Achievements": "2023-05-25T08:05:06.9955941+00:00"
+  "LastUpdate_Ratings": "2023-05-25T08:59:43.2420176+00:00",
+  "LastUpdate_Achievements": "2023-05-25T09:05:09.0165732+00:00"
 }

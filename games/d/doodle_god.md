@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good Start | 96.00% | ~198 |
+| Good Start | 95.00% | ~196 |
 | Practice Makes Perfect | 83.00% | ~171 |
 | Creator of Life | 82.00% | ~169 |
 | Creator of Diversity | 70.00% | ~144 |
 | Similar to Similar | 68.00% | ~140 |
 | Creator of Humanity | 63.00% | ~130 |
-| Creator of Civilization | 36.00% | ~74 |
+| Creator of Civilization | 35.00% | ~72 |
 | Honorable Santa | 24.00% | ~49 |
 | Creator of Technology | 23.00% | ~47 |
-| God of Fun | 18.00% | ~37 |
-| Doodle Bar | 18.00% | ~37 |
-| Half the Kingdom | 18.00% | ~37 |
 | Creator of Modernity | 17.00% | ~35 |
+| God of Fun | 17.00% | ~35 |
+| Doodle Bar | 17.00% | ~35 |
+| Half the Kingdom | 17.00% | ~35 |
 | Creator of Magic | 16.00% | ~33 |
 | Deity of Darkness | 16.00% | ~33 |
 | Salvation! | 11.00% | ~23 |

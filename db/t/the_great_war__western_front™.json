@@ -2,9 +2,9 @@
   "ID": "d84e1be6c7764408b3d0f610c84cb8ea",
   "Name": "The Great War: Western Front\u2122",
   "ProductSlug": "the-great-war-western-front",
-  "Ranking_EOS_Progress": 248,
+  "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 158,
+  "EOS_Progressed": 160,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -669,6 +669,11 @@
       "Time": "2023-05-24T21:05:53.1841594+00:00",
       "NumProgressed": 158,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T09:06:10.2876075+00:00",
+      "NumProgressed": 160,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -710,9 +715,9 @@
       "ID": "COMPLETE_MULTIPLAYER_MATCH",
       "SetID": "6kcl14p",
       "Name": "War with Friends",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "DESTROY_100_EMPLACEMENTS_WITH_BOMBERS",
@@ -742,9 +747,9 @@
       "ID": "USE_UNDERMINE",
       "SetID": "6kcl14p",
       "Name": "Earth Shattering",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 79
+      "UsersEstimate": 82
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -752,7 +757,7 @@
       "Name": "La Der des Ders",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
@@ -760,7 +765,7 @@
       "Name": "Das Ist Endg\u00FCltig!",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -775,7 +780,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 158,
+      "Progressed": 160,
       "Completed": 0
     }
   ],
@@ -783,8 +788,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-05-25T08:06:07.1064568+00:00",
+  "LastChanged_Achievements": "2023-05-25T09:06:10.2876069+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:01.4945715+00:00",
-  "LastUpdate_Ratings": "2023-05-25T07:58:30.281981+00:00",
-  "LastUpdate_Achievements": "2023-05-25T08:06:07.1064771+00:00"
+  "LastUpdate_Ratings": "2023-05-25T08:58:41.0543315+00:00",
+  "LastUpdate_Achievements": "2023-05-25T09:06:10.2876198+00:00"
 }

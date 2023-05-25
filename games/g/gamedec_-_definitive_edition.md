@@ -6,12 +6,12 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~63,699 |
-| Powergamer | 27.00% | ~61,424 |
-| Barely scratched the surface | 25.00% | ~56,874 |
-| Write that down | 24.00% | ~54,600 |
-| Guns, lots of guns | 12.00% | ~27,300 |
-| Collector | 11.00% | ~25,025 |
+| I will finish what you started | 28.00% | ~63,701 |
+| Powergamer | 27.00% | ~61,426 |
+| Barely scratched the surface | 25.00% | ~56,876 |
+| Write that down | 24.00% | ~54,601 |
+| Guns, lots of guns | 12.00% | ~27,301 |
+| Collector | 11.00% | ~25,026 |
 | Elementary! | 8.00% | ~18,200 |
 | Pumpkin Jack | 8.00% | ~18,200 |
 | Wake up! | 8.00% | ~18,200 |
@@ -41,25 +41,25 @@ Number of Ratings: 33  (23.09.2022)
 | Random encounter | 1.00% | ~2,275 |
 | SysOp on duty | 1.00% | ~2,275 |
 | Take the blue pill | 1.00% | ~2,275 |
-| A true blacksmith | 0.90% | ~2,047 |
-| The power of three | 0.90% | ~2,047 |
+| A true blacksmith | 0.90% | ~2,048 |
+| The power of three | 0.90% | ~2,048 |
 | Let's try another | 0.80% | ~1,820 |
 | Home run | 0.80% | ~1,820 |
-| It's blue, always blue | 0.70% | ~1,592 |
+| It's blue, always blue | 0.70% | ~1,593 |
 | I have the high ground | 0.60% | ~1,365 |
-| Who wouldn't love a troll? | 0.50% | ~1,137 |
+| Who wouldn't love a troll? | 0.50% | ~1,138 |
 | Enjoy these little moments | 0.40% | ~910 |
 | Irondec | 0.40% | ~910 |
 | Un-bear-able | 0.40% | ~910 |
-| LET ME OUT! | 0.30% | ~682 |
-| Well-deserved reunion | 0.30% | ~682 |
+| LET ME OUT! | 0.30% | ~683 |
+| Well-deserved reunion | 0.30% | ~683 |
 | Breaking the chains | 0.20% | ~455 |
 | Aren't you overthinking? | 0.20% | ~455 |
 | Take the red pill | 0.20% | ~455 |
 | This is the way | 0.20% | ~455 |
-| Memory 5 | 0.10% | ~227 |
+| Memory 5 | 0.10% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,498 (Ranked 42)  
+Progressed: 227,505 (Ranked 42)  
 Completed: 5 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 5 (0.00%) (Ranked 202)
 | 2023-05-22 | 227,100 | 5 |
 | 2023-05-23 | 227,294 | 5 |
 | 2023-05-24 | 227,455 | 5 |
-| 2023-05-25 | 227,498 | 5 |
+| 2023-05-25 | 227,505 | 5 |
 ## Awards
 Max (Character Customization): 73  (Ranked 358)  
 Sum: 73 (Ranked 416)  

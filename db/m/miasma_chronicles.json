@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 326,
+  "EOS_Progressed": 327,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 324,
+  "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -217,6 +217,11 @@
       "Time": "2023-05-25T08:05:58.7141284+00:00",
       "NumProgressed": 326,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T09:06:01.934387+00:00",
+      "NumProgressed": 327,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -242,9 +247,9 @@
       "ID": "ASPIRING_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Aspiring Editor",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 173
     },
     {
       "ID": "ATTENBOROUGH",
@@ -282,7 +287,7 @@
       "ID": "CHAIN_REACTION",
       "SetID": "9a4jnji",
       "Name": "Chain Reaction",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -402,17 +407,17 @@
       "ID": "FIRESTARTER",
       "SetID": "9a4jnji",
       "Name": "Firestarter",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "FIRST_BLOOD",
       "SetID": "9a4jnji",
       "Name": "First Blood",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 284
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -466,9 +471,9 @@
       "ID": "HOLD_THE_LINE",
       "SetID": "9a4jnji",
       "Name": "Hold The Line",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "IM_THE_LAW",
@@ -490,9 +495,9 @@
       "ID": "LUMBERJACK",
       "SetID": "9a4jnji",
       "Name": "Lumberjack",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 33
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -635,14 +640,14 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 326,
+      "Progressed": 327,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T20:58:17.8341975+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
-  "LastChanged_Achievements": "2023-05-25T08:05:58.7141279+00:00",
+  "LastChanged_Achievements": "2023-05-25T09:06:01.9343864+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:53.8503835+00:00",
-  "LastUpdate_Ratings": "2023-05-25T07:58:21.1896982+00:00",
-  "LastUpdate_Achievements": "2023-05-25T08:05:58.7141717+00:00"
+  "LastUpdate_Ratings": "2023-05-25T08:58:33.074825+00:00",
+  "LastUpdate_Achievements": "2023-05-25T09:06:01.9344466+00:00"
 }

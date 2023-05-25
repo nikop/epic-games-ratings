@@ -6,12 +6,12 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| He's Signed! | 50.00% | ~230,598 |
-| First Victory | 50.00% | ~230,598 |
-| Clean Sheet | 49.00% | ~225,986 |
-| He's Sold! | 47.00% | ~216,762 |
-| I'm The Boss! | 41.00% | ~189,090 |
-| Hat-trick | 41.00% | ~189,090 |
+| He's Signed! | 50.00% | ~230,599 |
+| First Victory | 50.00% | ~230,599 |
+| Clean Sheet | 49.00% | ~225,987 |
+| He's Sold! | 47.00% | ~216,763 |
+| I'm The Boss! | 41.00% | ~189,091 |
+| Hat-trick | 41.00% | ~189,091 |
 | Scoring Streak | 37.00% | ~170,643 |
 | Unbeatable! | 36.00% | ~166,031 |
 | Thumping | 36.00% | ~166,031 |
@@ -28,30 +28,30 @@ Number of Ratings: 19,160  (23.09.2022)
 | You're On Fire | 26.00% | ~119,911 |
 | Tremendous Trio | 26.00% | ~119,911 |
 | Record Sale | 26.00% | ~119,911 |
-| On A Roll | 25.00% | ~115,299 |
-| Unstoppable Force | 25.00% | ~115,299 |
-| The Boss | 24.00% | ~110,687 |
-| Armchair Expert | 24.00% | ~110,687 |
-| Fantastic Five | 23.00% | ~106,075 |
-| Full Faith | 23.00% | ~106,075 |
-| Iron Curtain | 23.00% | ~106,075 |
-| Top Of The Class | 22.00% | ~101,463 |
-| Goal Machine | 22.00% | ~101,463 |
-| Splashing The Cash | 21.00% | ~96,851 |
-| Clean Bill of Health | 21.00% | ~96,851 |
-| What A Goal! | 21.00% | ~96,851 |
-| Cup Glory! | 21.00% | ~96,851 |
-| Irresistible Force | 19.00% | ~87,627 |
-| Excellent Match Cohesion | 19.00% | ~87,627 |
-| Do The Double | 18.00% | ~83,015 |
-| Top Form | 16.00% | ~73,791 |
-| Cash To Burn | 16.00% | ~73,791 |
-| Beating Expectations | 15.00% | ~69,179 |
-| Overachiever! | 15.00% | ~69,179 |
-| Rushed signing | 15.00% | ~69,179 |
-| Eyes and Ears | 14.00% | ~64,567 |
-| Window Shopping | 14.00% | ~64,567 |
-| Comeback King! | 13.00% | ~59,955 |
+| On A Roll | 25.00% | ~115,300 |
+| Unstoppable Force | 25.00% | ~115,300 |
+| The Boss | 24.00% | ~110,688 |
+| Armchair Expert | 24.00% | ~110,688 |
+| Fantastic Five | 23.00% | ~106,076 |
+| Full Faith | 23.00% | ~106,076 |
+| Iron Curtain | 23.00% | ~106,076 |
+| Top Of The Class | 22.00% | ~101,464 |
+| Goal Machine | 22.00% | ~101,464 |
+| Splashing The Cash | 21.00% | ~96,852 |
+| Clean Bill of Health | 21.00% | ~96,852 |
+| What A Goal! | 21.00% | ~96,852 |
+| Cup Glory! | 21.00% | ~96,852 |
+| Irresistible Force | 19.00% | ~87,628 |
+| Excellent Match Cohesion | 19.00% | ~87,628 |
+| Do The Double | 18.00% | ~83,016 |
+| Top Form | 16.00% | ~73,792 |
+| Cash To Burn | 16.00% | ~73,792 |
+| Beating Expectations | 15.00% | ~69,180 |
+| Overachiever! | 15.00% | ~69,180 |
+| Rushed signing | 15.00% | ~69,180 |
+| Eyes and Ears | 14.00% | ~64,568 |
+| Window Shopping | 14.00% | ~64,568 |
+| Comeback King! | 13.00% | ~59,956 |
 | You're Up! | 12.00% | ~55,344 |
 | Money, Money, Money | 11.00% | ~50,732 |
 | Invincible! | 10.00% | ~46,120 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~461 |
 | Shoestring Budget | 0.10% | ~461 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 461,196 (Ranked 30)  
+Progressed: 461,198 (Ranked 30)  
 Completed: 18 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,10 +140,10 @@ Completed: 18 (0.00%) (Ranked 202)
 | 2023-05-22 | 460,986 | 18 |
 | 2023-05-23 | 461,091 | 18 |
 | 2023-05-24 | 461,170 | 18 |
-| 2023-05-25 | 461,196 | 18 |
+| 2023-05-25 | 461,198 | 18 |
 ## Awards
 Max (Relaxing): 6,280  (Ranked 51)  
-Sum: 49,488 (Ranked 23)  
+Sum: 49,492 (Ranked 23)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -153,7 +153,7 @@ Diff (max vs sum): 28
 | This game has Quickly Understood Controls | 5,734 |
 | This game is Highly Recommended | 5,699 |
 | This game is Educational | 5,695 |
-| This game has Diverse Characters | 5,290 |
+| This game has Diverse Characters | 5,294 |
 | This game has Amazing Storytelling | 4,823 |
 | This game has Obsessive Gameplay | 4,416 |
 | This game has Amazing Characters | 4,296 |
@@ -280,4 +280,4 @@ Diff (max vs sum): 28
 | 2023-05-22 | 4.80 | - | 6,277 | 49,463 |
 | 2023-05-23 | 4.80 | - | 6,278 | 49,474 |
 | 2023-05-24 | 4.80 | - | 6,278 | 49,486 |
-| 2023-05-25 | 4.80 | - | 6,280 | 49,488 |
+| 2023-05-25 | 4.80 | - | 6,280 | 49,492 |

@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Adventure Time | 92.00% | ~23 |
 | Master Of The Arts | 72.00% | ~18 |
-| Close Call | 24.00% | ~6 |
+| Close Call | 28.00% | ~7 |
 | Getting Good At This | 4.00% | ~1 |
 | Hold The Line | 4.00% | ~1 |
 | Adept Summoner | 0.00% | ~0 |

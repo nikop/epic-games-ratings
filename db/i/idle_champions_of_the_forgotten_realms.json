@@ -6,7 +6,7 @@
   "Ranking_Popularity": 64,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 60,
-  "Ranking_EOS_Completed": 62,
+  "Ranking_EOS_Completed": 61,
   "Ranking_EOS_NewPlayers": 70,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
@@ -3922,9 +3922,9 @@
       "Count": 3239
     }
   ],
-  "EOS_Progressed": 88565,
+  "EOS_Progressed": 88569,
   "EOS_Completed": 1877,
-  "EOS_NewPlayers": 741,
+  "EOS_NewPlayers": 738,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 2.12,
   "EosHistory": [
@@ -7302,6 +7302,11 @@
       "Time": "2023-05-25T08:06:46.5104535+00:00",
       "NumProgressed": 88565,
       "NumCompleted": 1877
+    },
+    {
+      "Time": "2023-05-25T09:06:49.5910217+00:00",
+      "NumProgressed": 88569,
+      "NumCompleted": 1877
     }
   ],
   "TotalAchievements": 493,
@@ -8535,9 +8540,9 @@
       "ID": "objective_completed_169",
       "SetID": "cc37lbc",
       "Name": "Building Trust",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_17",
@@ -9103,9 +9108,9 @@
       "ID": "objective_completed_39",
       "SetID": "cc37lbc",
       "Name": "Seeking Allies",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 266
     },
     {
       "ID": "objective_completed_390",
@@ -11256,21 +11261,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54839,
+      "Progressed": 54843,
       "Completed": 2698
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88565,
+      "Progressed": 88569,
       "Completed": 1877
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-25T04:58:06.0839905+00:00",
-  "LastChanged_Achievements": "2023-05-25T08:06:46.510453+00:00",
+  "LastChanged_Achievements": "2023-05-25T09:06:49.591021+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-25T07:58:02.8937309+00:00",
-  "LastUpdate_Achievements": "2023-05-25T08:06:46.5131221+00:00"
+  "LastUpdate_Ratings": "2023-05-25T08:58:13.002389+00:00",
+  "LastUpdate_Achievements": "2023-05-25T09:06:49.5932787+00:00"
 }

@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 98.00% | ~46 |
-| To Each Their Own | 45.00% | ~21 |
+| You're Going Down! | 98.00% | ~47 |
+| To Each Their Own | 44.00% | ~21 |
 | Onwards and Upwards | 21.00% | ~10 |
 | You Get An Upgrade, You Get An Upgrade! | 19.00% | ~9 |
 | Like Phileas Fogg | 17.00% | ~8 |
-| Serial Winner | 9.00% | ~4 |
-| Start Your Engines | 9.00% | ~4 |
+| Serial Winner | 8.00% | ~4 |
+| Start Your Engines | 8.00% | ~4 |
 | Seven-League Boots | 6.00% | ~3 |
 | Highly Qualified | 6.00% | ~3 |
 | No Room for Improvement | 6.00% | ~3 |
@@ -44,8 +44,8 @@
 | Playing Favourites | 2.00% | ~1 |
 | Tempus Fugit | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47 (Ranked 292)  
-Completed: 1 (2.13%) (Ranked 60)  
+Progressed: 48 (Ranked 292)  
+Completed: 1 (2.08%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -64,3 +64,4 @@ Completed: 1 (2.13%) (Ranked 60)
 | 2023-05-22 | 45 | 1 |
 | 2023-05-23 | 46 | 1 |
 | 2023-05-24 | 47 | 1 |
+| 2023-05-25 | 48 | 1 |

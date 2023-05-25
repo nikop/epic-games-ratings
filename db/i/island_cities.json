@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 154,
+  "EOS_Progressed": 155,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 16.88,
+  "EOS_Completed_Percentage": 16.77,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -698,6 +698,11 @@
       "Time": "2023-05-25T04:06:12.7443455+00:00",
       "NumProgressed": 154,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-25T09:06:04.2796854+00:00",
+      "NumProgressed": 155,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 22,
@@ -709,7 +714,7 @@
       "Name": "Welcome!",
       "Percentage": 99,
       "XP": 35,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "LEVEL_002",
@@ -717,7 +722,7 @@
       "Name": "A tiny town",
       "Percentage": 83,
       "XP": 35,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "LEVEL_003",
@@ -739,9 +744,9 @@
       "ID": "LEVEL_005",
       "SetID": "3khpmem",
       "Name": "Bridges to come and go",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 35,
-      "UsersEstimate": 72
+      "UsersEstimate": 71
     },
     {
       "ID": "LEVEL_006",
@@ -765,7 +770,7 @@
       "Name": "Passion for sports",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "LEVEL_009",
@@ -795,25 +800,25 @@
       "ID": "LEVEL_012",
       "SetID": "3khpmem",
       "Name": "Calm neighborhood",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "LEVEL_013",
       "SetID": "3khpmem",
       "Name": "Elevated ring",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "LEVEL_014",
       "SetID": "3khpmem",
       "Name": "Not lonely anymore",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "LEVEL_015",
@@ -829,7 +834,7 @@
       "Name": "The beach is right there",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "LEVEL_017",
@@ -837,7 +842,7 @@
       "Name": "Commuting",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "LEVEL_018",
@@ -884,7 +889,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 154,
+      "Progressed": 155,
       "Completed": 26
     }
   ],
@@ -892,8 +897,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-25T08:06:01.0972064+00:00",
+  "LastChanged_Achievements": "2023-05-25T09:06:04.2796849+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:36.8517809+00:00",
-  "LastUpdate_Ratings": "2023-05-25T07:58:01.3431917+00:00",
-  "LastUpdate_Achievements": "2023-05-25T08:06:01.0972282+00:00"
+  "LastUpdate_Ratings": "2023-05-25T08:58:11.423736+00:00",
+  "LastUpdate_Achievements": "2023-05-25T09:06:04.2797025+00:00"
 }
