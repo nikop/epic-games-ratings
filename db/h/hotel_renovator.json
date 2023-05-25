@@ -5,9 +5,9 @@
   "Ranking_Rating": 504,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 178,
+  "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -541,9 +541,9 @@
       "ID": "ACH_GRANDPA_BOY_SUIT",
       "SetID": "7k95e4n",
       "Name": "Memento",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 458
+      "UsersEstimate": 465
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -605,9 +605,9 @@
       "ID": "ACH_STAR_1",
       "SetID": "7k95e4n",
       "Name": "Good start",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 572
+      "UsersEstimate": 580
     },
     {
       "ID": "ACH_STAR_2",
@@ -678,8 +678,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-05-24T04:57:14.4616222+00:00",
-  "LastChanged_Achievements": "2023-05-25T00:06:35.6387011+00:00",
+  "LastChanged_Achievements": "2023-05-25T02:05:57.7062441+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:56:53.9528089+00:00",
-  "LastUpdate_Ratings": "2023-05-24T23:57:16.2099793+00:00",
-  "LastUpdate_Achievements": "2023-05-25T00:06:35.6387165+00:00"
+  "LastUpdate_Ratings": "2023-05-25T01:57:32.9373073+00:00",
+  "LastUpdate_Achievements": "2023-05-25T02:05:57.7062669+00:00"
 }

@@ -17,12 +17,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Ring of Regeneration | 0.30% | ~266 |
 | Are Ya Chicken? | 0.30% | ~266 |
 | Quick or Quack | 0.30% | ~164 |
+| Maddening | 0.20% | ~177 |
 | Owlbear Necessities | 0.20% | ~110 |
 | Best Thay Ever | 0.20% | ~110 |
 | Checkmate | 0.20% | ~110 |
 | Vecna Out! | 0.20% | ~110 |
 | A Persistent Buzzing | 0.20% | ~177 |
 | No One Can Hear You Scream | 0.20% | ~110 |
+| Welcome to the Rock | 0.20% | ~110 |
 | Beast Mode | 0.20% | ~177 |
 | Terror in the Dark | 0.20% | ~177 |
 | A Mysterious Summons | 0.20% | ~177 |
@@ -35,7 +37,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.20% | ~177 |
 | Friendly Imps | 0.20% | ~177 |
 | Pure Energy | 0.20% | ~177 |
-| Maddening | 0.10% | ~89 |
 | Pros and CONs | 0.10% | ~89 |
 | Upholding the Law | 0.10% | ~89 |
 | Starving in the Jungle | 0.10% | ~89 |
@@ -162,7 +163,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Palace of Heart's Desire | 0.10% | ~55 |
 | The Egg of Nat's Desire | 0.10% | ~55 |
 | Anchors Aweigh | 0.10% | ~55 |
-| Welcome to the Rock | 0.10% | ~55 |
 | Welcome to the Band | 0.10% | ~55 |
 | The Forbidden City | 0.10% | ~89 |
 | Periodic Petrification | 0.10% | ~89 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.10% | ~89 |
 | Rescue in the Jungle | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,537 (Ranked 60)  
+Progressed: 88,546 (Ranked 60)  
 Completed: 1,876 (2.12%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -535,7 +535,7 @@ Completed: 1,876 (2.12%) (Ranked 62)
 | 2023-05-22 | 88,337 | 1,863 |
 | 2023-05-23 | 88,435 | 1,872 |
 | 2023-05-24 | 88,533 | 1,875 |
-| 2023-05-25 | 88,537 | 1,876 |
+| 2023-05-25 | 88,546 | 1,876 |
 ## Awards
 Max (Diverse Characters): 4,902  (Ranked 64)  
 Sum: 29,965 (Ranked 37)  

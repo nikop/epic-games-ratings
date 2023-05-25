@@ -6,35 +6,35 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~699,827 |
-| The Blues | 85.00% | ~600,862 |
-| Fast | 66.00% | ~466,551 |
-| Healthbar | 55.00% | ~388,793 |
-| Force Cube | 52.00% | ~367,586 |
-| Double Jump | 48.00% | ~339,310 |
-| Regeneration | 47.00% | ~332,241 |
-| Climb the hill | 42.00% | ~296,896 |
-| Triple Jump | 42.00% | ~296,896 |
-| Through the fire pipe | 38.00% | ~268,620 |
-| MacGuffin | 37.00% | ~261,552 |
-| Just once | 36.00% | ~254,483 |
-| Armor | 30.00% | ~212,069 |
-| True holy spirit | 27.00% | ~190,862 |
-| That's how electronics work obviously | 26.00% | ~183,793 |
-| Force Cube Catapult | 25.00% | ~176,724 |
-| Holy Sword | 23.00% | ~162,586 |
-| Telefrag | 22.00% | ~155,517 |
-| Freed from prison | 21.00% | ~148,448 |
-| Stomp | 21.00% | ~148,448 |
-| Double Health | 18.00% | ~127,241 |
-| Buckle | 17.00% | ~120,172 |
-| Green Keycard | 17.00% | ~120,172 |
-| Rattle Hag | 15.00% | ~106,034 |
-| All Shells | 14.00% | ~98,965 |
-| Beam | 14.00% | ~98,965 |
-| 9 | 13.00% | ~91,896 |
-| Purple Cube | 13.00% | ~91,896 |
-| Supraball Noob | 13.00% | ~91,896 |
+| Out of bed | 99.00% | ~699,835 |
+| The Blues | 85.00% | ~600,868 |
+| Fast | 66.00% | ~466,557 |
+| Healthbar | 55.00% | ~388,797 |
+| Force Cube | 52.00% | ~367,590 |
+| Double Jump | 48.00% | ~339,314 |
+| Regeneration | 47.00% | ~332,245 |
+| Climb the hill | 42.00% | ~296,900 |
+| Triple Jump | 42.00% | ~296,900 |
+| Through the fire pipe | 38.00% | ~268,624 |
+| MacGuffin | 37.00% | ~261,554 |
+| Just once | 36.00% | ~254,485 |
+| Armor | 30.00% | ~212,071 |
+| True holy spirit | 27.00% | ~190,864 |
+| That's how electronics work obviously | 26.00% | ~183,795 |
+| Force Cube Catapult | 25.00% | ~176,726 |
+| Holy Sword | 23.00% | ~162,588 |
+| Telefrag | 22.00% | ~155,519 |
+| Freed from prison | 21.00% | ~148,450 |
+| Stomp | 21.00% | ~148,450 |
+| Double Health | 18.00% | ~127,243 |
+| Buckle | 17.00% | ~120,174 |
+| Green Keycard | 17.00% | ~120,174 |
+| Rattle Hag | 15.00% | ~106,036 |
+| All Shells | 14.00% | ~98,967 |
+| Beam | 14.00% | ~98,967 |
+| 9 | 13.00% | ~91,898 |
+| Purple Cube | 13.00% | ~91,898 |
+| Supraball Noob | 13.00% | ~91,898 |
 | Health Drink | 12.00% | ~84,828 |
 | Helped a star | 12.00% | ~84,828 |
 | Strong | 12.00% | ~84,828 |
@@ -66,12 +66,12 @@ Number of Ratings: 25,175  (23.09.2022)
 | Groupies | 1.00% | ~7,069 |
 | Jesus Christ Suprastar | 1.00% | ~7,069 |
 | Redstone Pickaxe | 1.00% | ~7,069 |
-| DLC: Green Bird | 0.50% | ~3,534 |
-| DLC: Crashed | 0.50% | ~3,534 |
-| DLC: Discovering the Globe | 0.50% | ~3,534 |
-| DLC: Gotta Jump High | 0.50% | ~3,534 |
-| DLC: Gotta Run Fast | 0.50% | ~3,534 |
-| DLC: Monster Maker | 0.50% | ~3,534 |
+| DLC: Green Bird | 0.50% | ~3,535 |
+| DLC: Crashed | 0.50% | ~3,535 |
+| DLC: Discovering the Globe | 0.50% | ~3,535 |
+| DLC: Gotta Jump High | 0.50% | ~3,535 |
+| DLC: Gotta Run Fast | 0.50% | ~3,535 |
+| DLC: Monster Maker | 0.50% | ~3,535 |
 | DLC: Basement Robbery | 0.40% | ~2,828 |
 | DLC: Rooftop Chase | 0.40% | ~2,828 |
 | DLC: Home Invasion | 0.40% | ~2,828 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~707 |
 | DLC: Top of the world | 0.10% | ~707 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 706,896 (Ranked 14)  
+Progressed: 706,904 (Ranked 14)  
 Completed: 684 (0.10%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 684 (0.10%) (Ranked 158)
 | 2023-05-22 | 706,539 | 684 |
 | 2023-05-23 | 706,701 | 684 |
 | 2023-05-24 | 706,894 | 684 |
-| 2023-05-25 | 706,896 | 684 |
+| 2023-05-25 | 706,904 | 684 |
 ## Awards
 Max (Challenging Puzzles): 7,613  (Ranked 40)  
 Sum: 9,906 (Ranked 79)  

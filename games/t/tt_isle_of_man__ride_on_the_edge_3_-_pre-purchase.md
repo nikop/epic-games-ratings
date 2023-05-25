@@ -12,6 +12,7 @@
 | Serial Winner | 9.00% | ~4 |
 | Start Your Engines | 9.00% | ~4 |
 | Seven-League Boots | 6.00% | ~3 |
+| Highly Qualified | 6.00% | ~3 |
 | No Room for Improvement | 6.00% | ~3 |
 | Upgradeaholic | 6.00% | ~3 |
 | Tailor-Made for Two | 6.00% | ~3 |
@@ -20,7 +21,6 @@
 | Say My Name | 4.00% | ~2 |
 | Nerd | 4.00% | ~2 |
 | Geek | 4.00% | ~2 |
-| Highly Qualified | 4.00% | ~2 |
 | First and Foremost | 4.00% | ~2 |
 | Made Mother Proud | 4.00% | ~2 |
 | Winner Winner Chicken Dinner | 4.00% | ~2 |

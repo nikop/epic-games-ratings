@@ -2,7 +2,7 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 71,
+  "Ranking_Rating": 72,
   "Ranking_Popularity": 196,
   "Ranking_PopularitySum": 151,
   "Ranking_EOS_Progress": 98,
@@ -2300,9 +2300,9 @@
       "Count": 304
     }
   ],
-  "EOS_Progressed": 14986,
+  "EOS_Progressed": 14987,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -4115,6 +4115,11 @@
       "Time": "2023-05-24T22:06:04.7826792+00:00",
       "NumProgressed": 14986,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-05-25T02:06:07.4346975+00:00",
+      "NumProgressed": 14987,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 50,
@@ -4260,9 +4265,9 @@
       "ID": "WinNearBattleground",
       "SetID": "cfbk359",
       "Name": "Ancient Battleground",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 150
     },
     {
       "ID": "WinNearCrystals",
@@ -4340,9 +4345,9 @@
       "ID": "WinNearOutpost",
       "SetID": "cfbk359",
       "Name": "Royal Outpost",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 135
     },
     {
       "ID": "WinNearRuins",
@@ -4525,15 +4530,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 14986,
+      "Progressed": 14987,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-25T00:00:47.7000452+00:00",
-  "LastChanged_Achievements": "2023-05-25T00:06:48.0248545+00:00",
+  "LastChanged_Achievements": "2023-05-25T02:06:07.4346971+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:57.8342165+00:00",
-  "LastUpdate_Ratings": "2023-05-25T00:00:47.7000459+00:00",
-  "LastUpdate_Achievements": "2023-05-25T00:06:48.0248959+00:00"
+  "LastUpdate_Ratings": "2023-05-25T01:59:54.5865531+00:00",
+  "LastUpdate_Achievements": "2023-05-25T02:06:07.4347499+00:00"
 }

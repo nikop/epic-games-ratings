@@ -7,7 +7,7 @@ Rating: 3.87 (Ranked 906)
 | ---- | ---------- | ----- |
 | Victor | 94.00% | ~1,087 |
 | World Map | 80.00% | ~925 |
-| Temple of Eternals | 56.00% | ~647 |
+| Temple of Eternals | 57.00% | ~659 |
 | Prestigious | 53.00% | ~613 |
 | Fellowship Power | 40.00% | ~462 |
 | Guild Power | 24.00% | ~277 |
@@ -16,8 +16,8 @@ Rating: 3.87 (Ranked 906)
 | Exotic Merchant | 17.00% | ~197 |
 | Dragon Clicker | 16.00% | ~185 |
 | Miner Clicker | 16.00% | ~185 |
+| Full Party | 14.00% | ~162 |
 | Inspection | 14.00% | ~162 |
-| Full Party | 13.00% | ~150 |
 | Hero inspection | 13.00% | ~150 |
 | Lieutenant | 12.00% | ~139 |
 | Dragon Master | 11.00% | ~127 |
@@ -35,9 +35,9 @@ Rating: 3.87 (Ranked 906)
 | The power of Awakening | 6.00% | ~69 |
 | Frostfire Liberator | 5.00% | ~58 |
 | Mastery | 5.00% | ~58 |
+| Moving Up The Ladder | 5.00% | ~58 |
 | Doing My Part | 4.00% | ~46 |
 | Here We Go Again | 4.00% | ~46 |
-| Moving Up The Ladder | 4.00% | ~46 |
 | The Expeditioner | 4.00% | ~46 |
 | Ancient Knowledge | 3.00% | ~35 |
 | Background Story | 3.00% | ~35 |
@@ -64,12 +64,12 @@ Rating: 3.87 (Ranked 906)
 | Training makes a Pro player | 0.60% | ~7 |
 | Transmute | 0.60% | ~7 |
 | Tree of Life | 0.60% | ~7 |
+| Cauldron Liberator | 0.40% | ~5 |
 | Gear Enchanting | 0.40% | ~5 |
 | Mythic Power | 0.40% | ~5 |
-| Cauldron Liberator | 0.30% | ~3 |
+| Arena Challenger | 0.30% | ~3 |
 | Guardian Master | 0.30% | ~3 |
 | Pokerface | 0.30% | ~3 |
-| Arena Challenger | 0.20% | ~2 |
 | Beast War Machines | 0.20% | ~2 |
 | Conqueror | 0.20% | ~2 |
 | Enhanced War Machines | 0.20% | ~2 |

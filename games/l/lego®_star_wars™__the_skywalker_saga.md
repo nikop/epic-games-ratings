@@ -6,33 +6,33 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~45,693 |
-| ''I don't like you either!'' | 79.00% | ~37,214 |
-| ''You think you're some kind of Jedi?'' | 72.00% | ~33,916 |
-| ''Impressive, most impressive'' | 71.00% | ~33,445 |
-| The Phantom Menace | 59.00% | ~27,793 |
-| ''Aggressive Negotiations'' | 58.00% | ~27,321 |
-| ''I can fly anything'' | 57.00% | ~26,850 |
-| ''And who gave you permission...?'' | 53.00% | ~24,966 |
-| A New Hope | 47.00% | ~22,140 |
-| Attack of the Clones | 46.00% | ~21,669 |
-| Revenge of the Sith | 39.00% | ~18,371 |
-| ''A fine addition to my collection'' | 37.00% | ~17,429 |
-| The Empire Strikes Back | 36.00% | ~16,958 |
-| Return of the Jedi | 31.00% | ~14,603 |
-| The Force Awakens | 26.00% | ~12,248 |
-| The Last Jedi | 22.00% | ~10,363 |
-| The Rise of Skywalker | 19.00% | ~8,950 |
-| ''It's true... all of it'' | 18.00% | ~8,479 |
-| ''Get the crews to their fighters'' | 18.00% | ~8,479 |
-| ''Raw, untamed power'' | 8.00% | ~3,768 |
-| Rishi Maze | 4.00% | ~1,884 |
-| ''Only one business in the Galaxy...'' | 4.00% | ~1,884 |
-| ''You may fire when ready'' | 3.00% | ~1,413 |
-| ''What have you done with those plans?'' | 3.00% | ~1,413 |
-| ''GONK!'' | 3.00% | ~1,413 |
-| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,413 |
-| The Slice | 3.00% | ~1,413 |
+| ''You guys got yourself a ship!'' | 97.00% | ~45,704 |
+| ''I don't like you either!'' | 79.00% | ~37,223 |
+| ''You think you're some kind of Jedi?'' | 72.00% | ~33,925 |
+| ''Impressive, most impressive'' | 71.00% | ~33,454 |
+| The Phantom Menace | 59.00% | ~27,800 |
+| ''Aggressive Negotiations'' | 58.00% | ~27,328 |
+| ''I can fly anything'' | 57.00% | ~26,857 |
+| ''And who gave you permission...?'' | 53.00% | ~24,973 |
+| A New Hope | 47.00% | ~22,145 |
+| Attack of the Clones | 46.00% | ~21,674 |
+| Revenge of the Sith | 39.00% | ~18,376 |
+| ''A fine addition to my collection'' | 37.00% | ~17,434 |
+| The Empire Strikes Back | 36.00% | ~16,962 |
+| Return of the Jedi | 31.00% | ~14,607 |
+| The Force Awakens | 26.00% | ~12,251 |
+| The Last Jedi | 22.00% | ~10,366 |
+| The Rise of Skywalker | 19.00% | ~8,952 |
+| ''It's true... all of it'' | 18.00% | ~8,481 |
+| ''Get the crews to their fighters'' | 18.00% | ~8,481 |
+| ''Raw, untamed power'' | 8.00% | ~3,769 |
+| Rishi Maze | 4.00% | ~1,885 |
+| ''Only one business in the Galaxy...'' | 4.00% | ~1,885 |
+| ''You may fire when ready'' | 3.00% | ~1,414 |
+| ''What have you done with those plans?'' | 3.00% | ~1,414 |
+| ''GONK!'' | 3.00% | ~1,414 |
+| ''Hey, what are you trying to push on us?'' | 3.00% | ~1,414 |
+| The Slice | 3.00% | ~1,414 |
 | ''Hello there!'' | 2.00% | ~942 |
 | Unknown Regions | 2.00% | ~942 |
 | ''Do or do not. There is no try'' | 2.00% | ~942 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''You needn't worry about your reward'' | 1.00% | ~471 |
 | ''I've never seen a real one!'' | 0.80% | ~377 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,106 (Ranked 75)  
+Progressed: 47,118 (Ranked 75)  
 Completed: 169 (0.36%) (Ranked 117)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,13 +87,14 @@ Completed: 169 (0.36%) (Ranked 117)
 | 2023-05-22 | 46,879 | 166 |
 | 2023-05-23 | 47,001 | 167 |
 | 2023-05-24 | 47,106 | 169 |
+| 2023-05-25 | 47,118 | 169 |
 ## Awards
-Max (Great Boss Battles): 2,276  (Ranked 97)  
-Sum: 6,343 (Ranked 112)  
+Max (Great Boss Battles): 2,280  (Ranked 97)  
+Sum: 6,347 (Ranked 112)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,276 |
+| This game has Great Boss Battles | 2,280 |
 | This game has Diverse Characters | 478 |
 | This game is Great for Beginners | 472 |
 | This game has Amazing Characters | 468 |
@@ -220,3 +221,4 @@ Diff (max vs sum): -15
 | 2023-05-22 | 4.78 | - | 2,274 | 6,339 |
 | 2023-05-23 | 4.78 | - | 2,276 | 6,341 |
 | 2023-05-24 | 4.78 | - | 2,276 | 6,343 |
+| 2023-05-25 | 4.78 | - | 2,280 | 6,347 |

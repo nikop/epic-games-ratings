@@ -13,14 +13,14 @@ Rating: 4.56 (Ranked 448)
 | Funtime's over | 51.00% | ~183 |
 | Chunky | 49.00% | ~175 |
 | Shall we play a game? | 47.00% | ~168 |
-| Boat of love, boat of love | 46.00% | ~165 |
+| Boat of love, boat of love | 47.00% | ~168 |
 | School's out | 42.00% | ~150 |
+| Scaffolding Expert | 37.00% | ~132 |
 | Sole Music | 36.00% | ~129 |
-| Scaffolding Expert | 36.00% | ~129 |
 | Elysian Minigame-Master | 36.00% | ~129 |
 | No man left behind! | 29.00% | ~104 |
 | Portals come in packs | 28.00% | ~100 |
-| Photo Friend | 25.00% | ~90 |
+| Photo Friend | 26.00% | ~93 |
 | Brainfreeze | 21.00% | ~75 |
 | Masseltov | 19.00% | ~68 |
 | And everything comes full circle. | 18.00% | ~64 |

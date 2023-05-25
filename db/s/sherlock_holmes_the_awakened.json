@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 225,
+  "EOS_Progressed": 226,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 5.33,
+  "EOS_Completed_Percentage": 5.31,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -519,6 +519,11 @@
       "Time": "2023-05-24T19:02:29.1719698+00:00",
       "NumProgressed": 225,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-05-25T02:03:28.9518602+00:00",
+      "NumProgressed": 226,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 28,
@@ -530,7 +535,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "MQ01_2",
@@ -538,7 +543,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 68,
       "XP": 40,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "MQ02_1",
@@ -546,7 +551,7 @@
       "Name": "High Profile",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "MQ02_2",
@@ -570,7 +575,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 58,
       "XP": 40,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "MQ03_1",
@@ -578,7 +583,7 @@
       "Name": "Fond Memories",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "MQ03_2",
@@ -648,9 +653,9 @@
       "ID": "MQ05_2",
       "SetID": "bbing49",
       "Name": "Back In The Saddle",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 95
     },
     {
       "ID": "MQ05_3",
@@ -674,7 +679,7 @@
       "Name": "Brain Food",
       "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "MQ06_2",
@@ -682,7 +687,7 @@
       "Name": "Bookworm",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "MQ06_3",
@@ -690,7 +695,7 @@
       "Name": "Land, Ho!",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "MQ06_4",
@@ -698,7 +703,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "MQ07_1",
@@ -706,15 +711,15 @@
       "Name": "Read It And Weep",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "MQ07_2",
       "SetID": "bbing49",
       "Name": "At Wits\u0027 End",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 40,
-      "UsersEstimate": 88
+      "UsersEstimate": 86
     },
     {
       "ID": "MQ08_1",
@@ -728,9 +733,9 @@
       "ID": "MQ08_2",
       "SetID": "bbing49",
       "Name": "Up In Flames",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 81
+      "UsersEstimate": 79
     },
     {
       "ID": "MQ08_3",
@@ -753,7 +758,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 225,
+      "Progressed": 226,
       "Completed": 12
     }
   ],
@@ -761,8 +766,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-25T00:03:21.4879564+00:00",
+  "LastChanged_Achievements": "2023-05-25T02:03:28.9518596+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.473335+00:00",
-  "LastUpdate_Ratings": "2023-05-24T23:57:25.8350783+00:00",
-  "LastUpdate_Achievements": "2023-05-25T00:03:21.4879742+00:00"
+  "LastUpdate_Ratings": "2023-05-25T01:57:39.8255157+00:00",
+  "LastUpdate_Achievements": "2023-05-25T02:03:28.9518814+00:00"
 }

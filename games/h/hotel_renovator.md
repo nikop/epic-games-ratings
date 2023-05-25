@@ -5,10 +5,10 @@ Rating: 4.52 (Ranked 504)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 75.00% | ~572 |
+| Good start | 76.00% | ~580 |
 | And so it begins | 72.00% | ~549 |
 | No pressure | 69.00% | ~526 |
-| Memento | 60.00% | ~458 |
+| Memento | 61.00% | ~465 |
 | Let there be light | 58.00% | ~443 |
 | I think you dropped this | 54.00% | ~412 |
 | Soulmate? | 52.00% | ~397 |
@@ -33,7 +33,7 @@ Rating: 4.52 (Ranked 504)
 | King of hospitality | 11.00% | ~84 |
 | Top spot in town | 2.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 763 (Ranked 178)  
+Progressed: 763 (Ranked 179)  
 Completed: 11 (1.44%) (Ranked 74)  
 ## EOS Players History
 | Date | Progressed | Completed |

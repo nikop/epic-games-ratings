@@ -4,7 +4,7 @@
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 606,
   "Ranking_Popularity": 470,
-  "Ranking_PopularitySum": 441,
+  "Ranking_PopularitySum": 427,
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 84,
@@ -380,10 +380,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 43,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2023-05-25T02:00:07.8424825+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 63,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43,
+  "NumberOfAwards": 63,
   "NumberOfAwardsMax": 23,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -398,11 +404,17 @@
       "Prefix": "This game has",
       "Type": "Unique Visuals",
       "Count": 20
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 20
     }
   ],
-  "EOS_Progressed": 249537,
+  "EOS_Progressed": 249541,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 583,
+  "EOS_NewPlayers": 582,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3690,6 +3702,11 @@
       "Time": "2023-05-24T23:06:49.704587+00:00",
       "NumProgressed": 249537,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-25T02:06:06.880913+00:00",
+      "NumProgressed": 249541,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 56,
@@ -3709,7 +3726,7 @@
       "Name": "The Ascent",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9981
+      "UsersEstimate": 9982
     },
     {
       "ID": "Act3",
@@ -3749,7 +3766,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 77356
+      "UsersEstimate": 77358
     },
     {
       "ID": "BackHomeNTimes",
@@ -3765,7 +3782,7 @@
       "Name": "Pacifist",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9981
+      "UsersEstimate": 9982
     },
     {
       "ID": "BreakNWindows",
@@ -3773,7 +3790,7 @@
       "Name": "Vandalism",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9981
+      "UsersEstimate": 9982
     },
     {
       "ID": "BuyHighValueFurniture",
@@ -3989,7 +4006,7 @@
       "Name": "Predator I",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 54898
+      "UsersEstimate": 54899
     },
     {
       "ID": "KillOthers2",
@@ -4069,7 +4086,7 @@
       "Name": "Capitalist I",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9981
+      "UsersEstimate": 9982
     },
     {
       "ID": "Patrimony2",
@@ -4148,16 +4165,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 249537,
+      "Progressed": 249541,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-05-24T02:04:38.3501962+00:00",
-  "LastChanged_Achievements": "2023-05-25T00:06:47.3413665+00:00",
+  "LastChanged": "2023-05-25T02:00:07.8424822+00:00",
+  "LastChanged_Achievements": "2023-05-25T02:06:06.8809124+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:18.7976266+00:00",
-  "LastUpdate_Ratings": "2023-05-25T00:01:09.2986524+00:00",
-  "LastUpdate_Achievements": "2023-05-25T00:06:47.3414208+00:00"
+  "LastUpdate_Ratings": "2023-05-25T02:00:07.8424827+00:00",
+  "LastUpdate_Achievements": "2023-05-25T02:06:06.8809786+00:00"
 }

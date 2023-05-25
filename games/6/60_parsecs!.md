@@ -7,12 +7,12 @@
 | Don't Panic! | 97.00% | ~591 |
 | Friendzone | 79.00% | ~481 |
 | Space Colonization | 79.00% | ~481 |
-| Hello World | 73.00% | ~445 |
+| Hello World | 74.00% | ~451 |
 | Tinkerer | 63.00% | ~384 |
 | Space Engineer | 62.00% | ~378 |
 | Dust to Dust | 57.00% | ~347 |
 | Across The Stars | 46.00% | ~280 |
-| Crafty | 44.00% | ~268 |
+| Crafty | 45.00% | ~274 |
 | All Seats Taken | 35.00% | ~213 |
 | For Science! | 32.00% | ~195 |
 | Meet the Petersons | 31.00% | ~189 |

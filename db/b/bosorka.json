@@ -2,9 +2,9 @@
   "ID": "0e65d8e6338943e68169f928702c4706",
   "Name": "Bosorka",
   "ProductSlug": "bosorka-c0e6b6",
-  "Ranking_EOS_Progress": 278,
+  "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-04-14T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73,
+  "EOS_Progressed": 74,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -158,6 +158,11 @@
       "Time": "2023-05-21T18:06:32.1109194+00:00",
       "NumProgressed": 73,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T02:05:37.5805107+00:00",
+      "NumProgressed": 74,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -167,7 +172,7 @@
       "ID": "RUNE_ACCEL",
       "SetID": "9433p49",
       "Name": "A good start",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 55,
       "UsersEstimate": 40
     },
@@ -207,7 +212,7 @@
       "ID": "RUNE_CURSEDCOINS",
       "SetID": "9433p49",
       "Name": "Unstoppable Curiosity",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
       "UsersEstimate": 7
     },
@@ -215,7 +220,7 @@
       "ID": "RUNE_CURSEDCOMPANIONSHIELD",
       "SetID": "9433p49",
       "Name": "Runes collector",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 100,
       "UsersEstimate": 37
     },
@@ -239,7 +244,7 @@
       "ID": "RUNE_DROPFIRSTAIDKIT",
       "SetID": "9433p49",
       "Name": "Witch\u0027s duty",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 55,
       "UsersEstimate": 41
     },
@@ -271,7 +276,7 @@
       "ID": "RUNE_STORM",
       "SetID": "9433p49",
       "Name": "Path of purity",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 55,
       "UsersEstimate": 58
     },
@@ -288,7 +293,7 @@
     {
       "ID": "9433p49",
       "IsBase": true,
-      "Progressed": 73,
+      "Progressed": 74,
       "Completed": 0
     }
   ],
@@ -296,8 +301,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2023-05-25T00:06:09.037353+00:00",
+  "LastChanged_Achievements": "2023-05-25T02:05:37.58051+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:04.2331038+00:00",
-  "LastUpdate_Ratings": "2023-05-24T23:57:48.1909407+00:00",
-  "LastUpdate_Achievements": "2023-05-25T00:06:09.037363+00:00"
+  "LastUpdate_Ratings": "2023-05-25T01:57:56.0401009+00:00",
+  "LastUpdate_Achievements": "2023-05-25T02:05:37.580522+00:00"
 }

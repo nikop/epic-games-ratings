@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Rewind Time | 89.00% | ~89 |
-| Wake Up | 80.00% | ~80 |
-| Time Gates | 61.00% | ~61 |
+| It's Rewind Time | 89.00% | ~90 |
+| Wake Up | 80.00% | ~81 |
+| Time Gates | 61.00% | ~62 |
 | Command Centre | 48.00% | ~48 |
 | This is a Wall | 45.00% | ~45 |
 | 48 Attempts | 35.00% | ~35 |
@@ -32,7 +32,7 @@
 | Data Research | 0.00% | ~0 |
 | You Are Terminated | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 100 (Ranked 260)  
+Progressed: 101 (Ranked 259)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,6 +50,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-22 | 96 | 0 |
 | 2023-05-23 | 98 | 0 |
 | 2023-05-24 | 100 | 0 |
+| 2023-05-25 | 101 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1214,9 +1214,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61949,
+  "EOS_Progressed": 61954,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1006,
+  "EOS_NewPlayers": 1010,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3644,6 +3644,11 @@
       "Time": "2023-05-25T00:06:48.6362972+00:00",
       "NumProgressed": 61949,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-25T02:06:07.9131363+00:00",
+      "NumProgressed": 61954,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3701,9 +3706,9 @@
       "ID": "ALL_HEROES_PLAYED",
       "SetID": "4eo5ebm",
       "Name": "The Batman Family",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 434
+      "UsersEstimate": 496
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -3877,9 +3882,9 @@
       "ID": "FREEZE_1",
       "SetID": "4eo5ebm",
       "Name": "To the Victor Go the Spoils",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 496
+      "UsersEstimate": 558
     },
     {
       "ID": "FREEZE_1_5",
@@ -3959,7 +3964,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "HARLEY_2",
@@ -4047,7 +4052,7 @@
       "Name": "Loose Ends",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "MYSTERY_02",
@@ -4142,13 +4147,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61949,
+      "Progressed": 61954,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32229,
+      "Progressed": 32234,
       "Completed": 2641
     }
   ],
@@ -4156,8 +4161,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-24T21:59:34.5075954+00:00",
-  "LastChanged_Achievements": "2023-05-25T00:06:48.6362965+00:00",
+  "LastChanged_Achievements": "2023-05-25T02:06:07.9131357+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-25T00:00:28.065212+00:00",
-  "LastUpdate_Achievements": "2023-05-25T00:06:48.636354+00:00"
+  "LastUpdate_Ratings": "2023-05-25T01:59:41.4610825+00:00",
+  "LastUpdate_Achievements": "2023-05-25T02:06:07.9132076+00:00"
 }

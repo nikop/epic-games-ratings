@@ -23,7 +23,7 @@ Rating: 4.29 (Ranked 765)
 | The Greedy Ones | 2.00% | ~16 |
 | The Penitent Ones | 2.00% | ~16 |
 | The First King | 1.00% | ~8 |
-| The great fire | 0.90% | ~7 |
+| The great fire | 1.00% | ~8 |
 | The Unruly Ones | 0.90% | ~7 |
 | The Council | 0.80% | ~6 |
 | The Mad | 0.60% | ~5 |

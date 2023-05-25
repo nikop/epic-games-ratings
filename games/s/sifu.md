@@ -11,14 +11,14 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Breath | 1.00% | ~7,051 |
 | Bloody Sport | 1.00% | ~144 |
 | The best strikes are the ones we avoid | 1.00% | ~144 |
-| The Assault | 0.90% | ~6,345 |
-| The Hateful Pole Fighter | 0.90% | ~6,345 |
-| A Lady's Blood in the Snow | 0.90% | ~6,345 |
-| Life is your teacher | 0.90% | ~6,345 |
-| State of constant learning | 0.90% | ~6,345 |
-| Path of the Prospect | 0.90% | ~6,345 |
-| Rumble in the Hangar | 0.90% | ~6,345 |
-| The Old Grandmaster | 0.80% | ~5,640 |
+| The Old Grandmaster | 0.90% | ~6,346 |
+| The Assault | 0.90% | ~6,346 |
+| The Hateful Pole Fighter | 0.90% | ~6,346 |
+| A Lady's Blood in the Snow | 0.90% | ~6,346 |
+| Life is your teacher | 0.90% | ~6,346 |
+| State of constant learning | 0.90% | ~6,346 |
+| Path of the Prospect | 0.90% | ~6,346 |
+| Rumble in the Hangar | 0.90% | ~6,346 |
 | Lady Wing Chun | 0.80% | ~5,640 |
 | Furious Fists | 0.80% | ~5,640 |
 | Kill Nil | 0.80% | ~5,640 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~705 |
 | Warriors from the Mountain | 0.10% | ~705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705,051 (Ranked 15)  
+Progressed: 705,057 (Ranked 15)  
 Completed: 12,734 (1.81%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,10 +92,10 @@ Completed: 12,734 (1.81%) (Ranked 64)
 | 2023-05-22 | 704,647 | 12,733 |
 | 2023-05-23 | 704,864 | 12,733 |
 | 2023-05-24 | 705,048 | 12,734 |
-| 2023-05-25 | 705,051 | 12,734 |
+| 2023-05-25 | 705,057 | 12,734 |
 ## Awards
 Max (Great Boss Battles): 6,089  (Ranked 53)  
-Sum: 10,368 (Ranked 77)  
+Sum: 10,369 (Ranked 77)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
@@ -104,7 +104,7 @@ Diff (max vs sum): -24
 | This game has Challenging Combat | 512 |
 | This game has Quickly Understood Controls | 504 |
 | This game is Extremely Fun | 500 |
-| This game has Amazing Storytelling | 492 |
+| This game has Amazing Storytelling | 493 |
 | This game has Amazing Characters | 478 |
 | This game is Highly Recommended | 477 |
 | This game has Unique Visuals | 455 |
@@ -242,3 +242,4 @@ Diff (max vs sum): -24
 | 2023-05-21 | 4.82 | - | 6,082 | 10,350 |
 | 2023-05-22 | 4.82 | - | 6,084 | 10,355 |
 | 2023-05-24 | 4.82 | - | 6,089 | 10,368 |
+| 2023-05-25 | 4.82 | - | 6,089 | 10,369 |

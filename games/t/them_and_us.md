@@ -12,19 +12,19 @@
 | Them and Us | 13.00% | ~16 |
 | OUTRAGE | 13.00% | ~16 |
 | What have I done!? | 13.00% | ~16 |
+| Alone In The Dark | 11.00% | ~13 |
 | The Cultists | 11.00% | ~13 |
 | This Coffin Has Your Name On It! | 11.00% | ~13 |
-| Alone In The Dark | 10.00% | ~12 |
 | Parasite Exterminated | 10.00% | ~12 |
-| The Forgotten Tower | 9.00% | ~11 |
+| The Forgotten Tower | 10.00% | ~12 |
 | Rest In Peace | 8.00% | ~10 |
+| Lover of classics | 7.00% | ~8 |
 | Modern Player | 7.00% | ~8 |
 | The Curse Is Real | 7.00% | ~8 |
 | Trapped | 7.00% | ~8 |
 | What A Mansion | 7.00% | ~8 |
-| Lover of classics | 6.00% | ~7 |
+| I Am The Gate Keeper! | 6.00% | ~7 |
 | Researcher | 5.00% | ~6 |
-| I Am The Gate Keeper! | 5.00% | ~6 |
 | The bus stop | 4.00% | ~5 |
 | This Mansion Is Clean | 3.00% | ~4 |
 | Armed To The Teeth | 2.00% | ~2 |

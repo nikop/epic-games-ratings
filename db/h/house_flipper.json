@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 178,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
@@ -1446,7 +1446,7 @@
       "Count": 204
     }
   ],
-  "EOS_Progressed": 18966,
+  "EOS_Progressed": 18968,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
@@ -2716,6 +2716,11 @@
       "Time": "2023-05-24T21:06:03.2806865+00:00",
       "NumProgressed": 18966,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-25T02:05:48.4913442+00:00",
+      "NumProgressed": 18968,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -2775,7 +2780,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 17828
+      "UsersEstimate": 17830
     },
     {
       "ID": "GameOver",
@@ -2887,7 +2892,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5879
+      "UsersEstimate": 5880
     },
     {
       "ID": "VeronicaLiptson",
@@ -2910,15 +2915,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 18966,
+      "Progressed": 18968,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-05-24T13:59:21.3005598+00:00",
-  "LastChanged_Achievements": "2023-05-25T00:06:23.5184091+00:00",
+  "LastChanged_Achievements": "2023-05-25T02:05:48.4913435+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:56.8900842+00:00",
-  "LastUpdate_Ratings": "2023-05-25T00:00:06.7144899+00:00",
-  "LastUpdate_Achievements": "2023-05-25T00:06:23.5184294+00:00"
+  "LastUpdate_Ratings": "2023-05-25T01:59:26.2464411+00:00",
+  "LastUpdate_Achievements": "2023-05-25T02:05:48.491369+00:00"
 }

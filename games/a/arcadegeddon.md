@@ -24,8 +24,8 @@ Number of Ratings: 801  (23.09.2022)
 | Field Medic | 37.00% | ~2,472 |
 | Rapid Response | 33.00% | ~2,205 |
 | Guardian Angel | 32.00% | ~2,138 |
+| Surge Ahead | 31.00% | ~2,071 |
 | The Full Monty | 31.00% | ~2,071 |
-| Surge Ahead | 30.00% | ~2,004 |
 | Poppin Noggins | 25.00% | ~1,670 |
 | Clips and Crits | 23.00% | ~1,537 |
 | Grey Goo | 20.00% | ~1,336 |

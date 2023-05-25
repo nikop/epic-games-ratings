@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 19,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1403,
+  "EOS_Progressed": 1404,
   "EOS_Completed": 110,
   "EOS_NewPlayers": 101,
-  "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 7.84,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 7.83,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -1633,6 +1633,11 @@
       "Time": "2023-05-24T20:06:28.9515285+00:00",
       "NumProgressed": 1403,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-05-25T02:05:49.1157508+00:00",
+      "NumProgressed": 1404,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 12,
@@ -1644,7 +1649,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "Bernard",
@@ -1684,7 +1689,7 @@
       "Name": "Jakob",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "Jude",
@@ -1739,7 +1744,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1403,
+      "Progressed": 1404,
       "Completed": 110
     }
   ],
@@ -1747,8 +1752,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-25T00:06:24.3229726+00:00",
+  "LastChanged_Achievements": "2023-05-25T02:05:49.1157499+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:11.427731+00:00",
-  "LastUpdate_Ratings": "2023-05-25T00:00:16.1362665+00:00",
-  "LastUpdate_Achievements": "2023-05-25T00:06:24.3229895+00:00"
+  "LastUpdate_Ratings": "2023-05-25T01:59:33.3479157+00:00",
+  "LastUpdate_Achievements": "2023-05-25T02:05:49.1157696+00:00"
 }

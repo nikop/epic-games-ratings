@@ -256,9 +256,9 @@
       "ID": "Achievement_Crafty",
       "SetID": "c01p6e5",
       "Name": "Crafty",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 274
     },
     {
       "ID": "Achievement_DontPanic",
@@ -368,9 +368,9 @@
       "ID": "Achievement_HelloWorld",
       "SetID": "c01p6e5",
       "Name": "Hello World",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 445
+      "UsersEstimate": 451
     },
     {
       "ID": "Achievement_Improvinator",
@@ -553,8 +553,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2023-05-25T00:06:16.0629771+00:00",
+  "LastChanged_Achievements": "2023-05-25T02:05:42.7251345+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:12.4303975+00:00",
-  "LastUpdate_Ratings": "2023-05-24T23:59:28.5666945+00:00",
-  "LastUpdate_Achievements": "2023-05-25T00:06:16.0630273+00:00"
+  "LastUpdate_Ratings": "2023-05-25T01:59:01.0126497+00:00",
+  "LastUpdate_Achievements": "2023-05-25T02:05:42.7251716+00:00"
 }

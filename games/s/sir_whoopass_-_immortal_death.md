@@ -17,14 +17,14 @@
 | Rolling, Rolling, Rolling | 70.00% | ~40 |
 | Fire-fighter! | 61.00% | ~35 |
 | Oh, you're up to no gouda! | 60.00% | ~34 |
-| Make Love not War-Craft a Mistlefoe | 56.00% | ~32 |
+| Make Love not War-Craft a Mistlefoe | 58.00% | ~33 |
 | Meat grinder | 53.00% | ~30 |
+| Butcher | 47.00% | ~27 |
 | You're not going to blow me up! | 47.00% | ~27 |
-| Butcher | 46.00% | ~26 |
 | Mushroom soup of the day | 46.00% | ~26 |
 | Honk honk! | 44.00% | ~25 |
 | My pants squeak when I walk | 44.00% | ~25 |
-| Spare Ribs | 42.00% | ~24 |
+| Spare Ribs | 44.00% | ~25 |
 | Surprise!! | 40.00% | ~23 |
 | Thats disgusting! | 40.00% | ~23 |
 | Cockadoodledoo! | 39.00% | ~22 |
@@ -35,11 +35,11 @@
 | You can't stop me, bro! | 32.00% | ~18 |
 | Haemochromatosis | 32.00% | ~18 |
 | Pasta Bolognese | 32.00% | ~18 |
+| Catch the bus with me! | 30.00% | ~17 |
 | Meatballs, coming up! | 28.00% | ~16 |
-| Catch the bus with me! | 28.00% | ~16 |
 | I'm going to get a concussion | 28.00% | ~16 |
 | Another one bites the iron | 25.00% | ~14 |
-| A Megapint...? | 21.00% | ~12 |
+| A Megapint...? | 23.00% | ~13 |
 | Hovering around | 21.00% | ~12 |
 | Ripe Meat Off The Bone! | 19.00% | ~11 |
 | You're not so Big anymore, Boi! | 16.00% | ~9 |

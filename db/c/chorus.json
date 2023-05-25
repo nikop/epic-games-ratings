@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 457,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 77,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -268,9 +268,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 882,
+  "EOS_Progressed": 883,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.25,
   "EosHistory": [
@@ -533,6 +533,11 @@
       "Time": "2023-05-24T22:06:03.3522333+00:00",
       "NumProgressed": 882,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-25T02:06:06.1986641+00:00",
+      "NumProgressed": 883,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 43,
@@ -544,7 +549,7 @@
       "Name": "Demigod",
       "Percentage": 77,
       "XP": 150,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "DieInPermadeath",
@@ -560,7 +565,7 @@
       "Name": "Voices from the Past",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "Finish5SideMissions",
@@ -576,7 +581,7 @@
       "Name": "Paragon",
       "Percentage": 64,
       "XP": 70,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "GatlingVsArmor",
@@ -598,9 +603,9 @@
       "ID": "KillWhileDrifting",
       "SetID": "a6c395p",
       "Name": "Born to Drift",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 476
+      "UsersEstimate": 468
     },
     {
       "ID": "KillWithALargeShip",
@@ -608,7 +613,7 @@
       "Name": "The Great Destroyer",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "MasteryOfCombat",
@@ -624,7 +629,7 @@
       "Name": "Mastery of Rites",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "MasteryOfWeapons",
@@ -656,7 +661,7 @@
       "Name": "Power Chord",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "MissionBuriedInATomb",
@@ -672,7 +677,7 @@
       "Name": "Payback",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "MissionDreamsOfThePast",
@@ -680,7 +685,7 @@
       "Name": "Time to Spear",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "MissionEnclaveWarPreparation",
@@ -720,7 +725,7 @@
       "Name": "Cult Slayer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "MissionLiberateEnclave",
@@ -752,7 +757,7 @@
       "Name": "Ghosts",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "MissionSalvage",
@@ -760,7 +765,7 @@
       "Name": "Shields Down",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "MissionScavengingJob",
@@ -768,7 +773,7 @@
       "Name": "Another Life",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "MissionShipyard",
@@ -776,7 +781,7 @@
       "Name": "In the Eye of the Storm",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "MissionSlayingChimera",
@@ -832,7 +837,7 @@
       "Name": "Crash Test",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "RiteOfTheHunt",
@@ -840,7 +845,7 @@
       "Name": "Huntress",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "RiteOfTheStar",
@@ -848,7 +853,7 @@
       "Name": "Two Birds",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "RiteOfTheStorm",
@@ -880,22 +885,22 @@
       "Name": "Relentless",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     }
   ],
   "AchievementSets": [
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 882,
+      "Progressed": 883,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-05-25T00:06:46.5372894+00:00",
+  "LastChanged_Achievements": "2023-05-25T02:06:06.1986633+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:40.2648469+00:00",
-  "LastUpdate_Ratings": "2023-05-25T00:00:49.0020974+00:00",
-  "LastUpdate_Achievements": "2023-05-25T00:06:46.5373179+00:00"
+  "LastUpdate_Ratings": "2023-05-25T01:59:55.4656994+00:00",
+  "LastUpdate_Achievements": "2023-05-25T02:06:06.1986982+00:00"
 }

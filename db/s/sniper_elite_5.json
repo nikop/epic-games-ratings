@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1365,
+  "EOS_Progressed": 1372,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 636,
+  "EOS_NewPlayers": 643,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1295,6 +1295,11 @@
       "Time": "2023-05-24T23:06:18.8433411+00:00",
       "NumProgressed": 1365,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-25T02:05:42.833686+00:00",
+      "NumProgressed": 1372,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1344,9 +1349,9 @@
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
       "SetID": "bm6el81",
       "Name": "Enemy at the Gates",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 69
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -1386,7 +1391,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 220
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1474,7 +1479,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1504,9 +1509,9 @@
       "ID": "REWARD_34_TRIPLE_KILL",
       "SetID": "bm6el81",
       "Name": "Explosive Efficiency",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 41
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -1530,7 +1535,7 @@
       "Name": "Resourceful",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -1554,7 +1559,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -1873,13 +1878,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1316,
+      "Progressed": 1323,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1365,
+      "Progressed": 1372,
       "Completed": 2
     }
   ],
@@ -1887,8 +1892,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-24T14:00:16.736359+00:00",
-  "LastChanged_Achievements": "2023-05-25T00:06:16.0755346+00:00",
+  "LastChanged_Achievements": "2023-05-25T02:05:42.8336853+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-25T00:01:29.2559452+00:00",
-  "LastUpdate_Achievements": "2023-05-25T00:06:16.090584+00:00"
+  "LastUpdate_Ratings": "2023-05-25T02:00:20.365765+00:00",
+  "LastUpdate_Achievements": "2023-05-25T02:05:42.8337506+00:00"
 }

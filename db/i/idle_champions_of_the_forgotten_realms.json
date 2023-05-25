@@ -3916,9 +3916,9 @@
       "Count": 3239
     }
   ],
-  "EOS_Progressed": 88537,
+  "EOS_Progressed": 88546,
   "EOS_Completed": 1876,
-  "EOS_NewPlayers": 732,
+  "EOS_NewPlayers": 737,
   "EOS_NewCompleters": 27,
   "EOS_Completed_Percentage": 2.12,
   "EosHistory": [
@@ -7261,6 +7261,11 @@
       "Time": "2023-05-25T00:06:53.8711076+00:00",
       "NumProgressed": 88537,
       "NumCompleted": 1876
+    },
+    {
+      "Time": "2023-05-25T02:06:12.6034698+00:00",
+      "NumProgressed": 88546,
+      "NumCompleted": 1876
     }
   ],
   "TotalAchievements": 493,
@@ -7278,9 +7283,9 @@
       "ID": "objective_completed_10",
       "SetID": "cc37lbc",
       "Name": "Maddening",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_100",
@@ -8358,9 +8363,9 @@
       "ID": "objective_completed_1350",
       "SetID": "415jc5c",
       "Name": "Welcome to the Rock",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 110
     },
     {
       "ID": "objective_completed_1351",
@@ -11215,21 +11220,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54811,
+      "Progressed": 54820,
       "Completed": 2696
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88537,
+      "Progressed": 88546,
       "Completed": 1876
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-24T21:57:51.8439862+00:00",
-  "LastChanged_Achievements": "2023-05-25T00:06:53.8711071+00:00",
+  "LastChanged_Achievements": "2023-05-25T02:06:12.6034693+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-24T23:58:23.2813282+00:00",
-  "LastUpdate_Achievements": "2023-05-25T00:06:53.8732285+00:00"
+  "LastUpdate_Ratings": "2023-05-25T01:58:21.2975641+00:00",
+  "LastUpdate_Achievements": "2023-05-25T02:06:12.6058158+00:00"
 }
