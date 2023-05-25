@@ -2,10 +2,10 @@
   "ID": "22068a5c6e3649599c02ba4ec6be1a03",
   "Name": "The Lord of the Rings - Gollum\u2122",
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
-  "Ranking_EOS_Progress": 358,
+  "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 36,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -47,6 +47,11 @@
     {
       "Time": "2023-05-24T03:04:56.9043705+00:00",
       "NumProgressed": 5,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T17:05:16.3295993+00:00",
+      "NumProgressed": 36,
       "NumCompleted": 0
     }
   ],
@@ -81,9 +86,9 @@
       "ID": "Chapter1",
       "SetID": "70l3651",
       "Name": "The Wraith",
-      "Percentage": 20,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "Chapter10",
@@ -97,7 +102,7 @@
       "ID": "Chapter2",
       "SetID": "70l3651",
       "Name": "The Maggot",
-      "Percentage": 20,
+      "Percentage": 3,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -161,9 +166,9 @@
       "ID": "Collectibles1",
       "SetID": "70l3651",
       "Name": "Collectibles Part 1",
-      "Percentage": 60,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "Collectibles2",
@@ -209,7 +214,7 @@
       "ID": "Flying",
       "SetID": "70l3651",
       "Name": "Like Flying...",
-      "Percentage": 20,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -225,7 +230,7 @@
       "ID": "Lava",
       "SetID": "70l3651",
       "Name": "Wait! Wait! Not yet!",
-      "Percentage": 40,
+      "Percentage": 6,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -233,9 +238,9 @@
       "ID": "Memories",
       "SetID": "70l3651",
       "Name": "Memories",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "Murderer",
@@ -337,7 +342,7 @@
       "ID": "WelcomeToMordor",
       "SetID": "70l3651",
       "Name": "Welcome to Mordor!",
-      "Percentage": 20,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 1
     }
@@ -346,13 +351,13 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 36,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-25T16:06:22.0440821+00:00",
+  "LastChanged_Achievements": "2023-05-25T17:05:16.3295991+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:17.5264569+00:00",
-  "LastUpdate_Ratings": "2023-05-25T15:58:02.4393346+00:00",
-  "LastUpdate_Achievements": "2023-05-25T16:06:22.0441034+00:00"
+  "LastUpdate_Ratings": "2023-05-25T16:57:40.6327578+00:00",
+  "LastUpdate_Achievements": "2023-05-25T17:05:16.3296193+00:00"
 }

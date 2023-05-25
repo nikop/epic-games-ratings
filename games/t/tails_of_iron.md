@@ -5,25 +5,25 @@ Rating: 4.50 (Ranked 536)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 77.00% | ~1,126 |
-| Become King | 70.00% | ~1,023 |
+| Complete Guard Faction | 77.00% | ~1,127 |
+| Become King | 70.00% | ~1,024 |
 | Ranged Weapon | 59.00% | ~863 |
 | Defeat 25 Frogs | 59.00% | ~863 |
-| Collect Monster Parts | 55.00% | ~804 |
-| Two Handed Weapon | 54.00% | ~789 |
-| Defeat 25 Grubs | 50.00% | ~731 |
-| Rescue Redgi's Brothers | 50.00% | ~731 |
+| Collect Monster Parts | 55.00% | ~805 |
+| Two Handed Weapon | 54.00% | ~790 |
+| Defeat 25 Grubs | 50.00% | ~732 |
+| Rescue Redgi's Brothers | 49.00% | ~717 |
 | Collect Iron Ore | 45.00% | ~658 |
-| Kitchen Ready To Cook | 44.00% | ~643 |
+| Kitchen Ready To Cook | 44.00% | ~644 |
 | Collect Gold | 43.00% | ~629 |
 | Defeat 25 Mozis | 43.00% | ~629 |
 | Smithy Ready to Craft | 43.00% | ~629 |
-| Fix the Travellers Wagon | 41.00% | ~599 |
+| Fix the Travellers Wagon | 41.00% | ~600 |
 | Complete Elder Faction | 38.00% | ~556 |
 | End of the Mozis | 35.00% | ~512 |
 | Throne Room Fit For A King | 35.00% | ~512 |
-| Meet the Creatures from the Deep | 33.00% | ~482 |
-| Return Power To The Depths | 33.00% | ~482 |
+| Meet the Creatures from the Deep | 33.00% | ~483 |
+| Return Power To The Depths | 33.00% | ~483 |
 | Defeat Ratnor Rodentson | 27.00% | ~395 |
 | Return the Statues | 24.00% | ~351 |
 | Defeat Rattus Augustail | 24.00% | ~351 |
@@ -36,7 +36,7 @@ Rating: 4.50 (Ranked 536)
 | King of Kings | 6.00% | ~88 |
 | A new Warchief rises | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,462 (Ranked 156)  
+Progressed: 1,463 (Ranked 156)  
 Completed: 6 (0.41%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,7 +65,7 @@ Completed: 6 (0.41%) (Ranked 111)
 | 2023-05-22 | 1,437 | 6 |
 | 2023-05-23 | 1,447 | 6 |
 | 2023-05-24 | 1,457 | 6 |
-| 2023-05-25 | 1,462 | 6 |
+| 2023-05-25 | 1,463 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

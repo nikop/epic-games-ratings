@@ -4,12 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Collectibles Part 1 | 60.00% | ~3 |
-| Wait! Wait! Not yet! | 40.00% | ~2 |
-| The Wraith | 20.00% | ~1 |
-| The Maggot | 20.00% | ~1 |
-| Like Flying... | 20.00% | ~1 |
-| Welcome to Mordor! | 20.00% | ~1 |
+| Collectibles Part 1 | 20.00% | ~7 |
+| Memories | 14.00% | ~5 |
+| The Wraith | 9.00% | ~3 |
+| Wait! Wait! Not yet! | 6.00% | ~2 |
+| The Maggot | 3.00% | ~1 |
+| Like Flying... | 3.00% | ~1 |
+| Welcome to Mordor! | 3.00% | ~1 |
 | He's so Annoying | 0.00% | ~0 |
 | Break a Leg! | 0.00% | ~0 |
 | And now we wish... | 0.00% | ~0 |
@@ -27,7 +28,6 @@
 | Elf-Friend | 0.00% | ~0 |
 | We Hates Them! | 0.00% | ~0 |
 | We wants it! We needs it | 0.00% | ~0 |
-| Memories | 0.00% | ~0 |
 | Murderer | 0.00% | ~0 |
 | Nervous Hands | 0.00% | ~0 |
 | How Did You Do That? | 0.00% | ~0 |
@@ -41,7 +41,7 @@
 | So Tasty! | 0.00% | ~0 |
 | Trigger-Happy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5 (Ranked 358)  
+Progressed: 36 (Ranked 303)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -49,3 +49,4 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-22 | 2 | 0 |
 | 2023-05-23 | 4 | 0 |
 | 2023-05-24 | 5 | 0 |
+| 2023-05-25 | 36 | 0 |

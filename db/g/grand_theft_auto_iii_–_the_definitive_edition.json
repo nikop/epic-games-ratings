@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -244,7 +244,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5334,
+  "EOS_Progressed": 5335,
   "EOS_Completed": 26,
   "EOS_NewPlayers": 405,
   "EOS_NewCompleters": 0,
@@ -1889,6 +1889,11 @@
       "Time": "2023-05-25T16:03:20.3653712+00:00",
       "NumProgressed": 5334,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-25T17:02:29.8581966+00:00",
+      "NumProgressed": 5335,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -1900,7 +1905,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 4427
+      "UsersEstimate": 4428
     },
     {
       "ID": "ACH02",
@@ -1924,7 +1929,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 1920
+      "UsersEstimate": 1921
     },
     {
       "ID": "ACH05",
@@ -2004,7 +2009,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "ACH15",
@@ -2131,7 +2136,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 5334,
+      "Progressed": 5335,
       "Completed": 26
     }
   ],
@@ -2139,8 +2144,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-05-22T16:57:51.9969585+00:00",
-  "LastChanged_Achievements": "2023-05-25T16:03:20.3653708+00:00",
+  "LastChanged_Achievements": "2023-05-25T17:02:29.8581961+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:31.8748782+00:00",
-  "LastUpdate_Ratings": "2023-05-25T15:58:13.0858027+00:00",
-  "LastUpdate_Achievements": "2023-05-25T16:03:20.3653919+00:00"
+  "LastUpdate_Ratings": "2023-05-25T16:57:49.0947105+00:00",
+  "LastUpdate_Achievements": "2023-05-25T17:02:29.8582178+00:00"
 }

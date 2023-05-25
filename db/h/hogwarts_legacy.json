@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 21,
+  "Ranking_EOS_NewPlayers": 22,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -2802,9 +2802,9 @@
       "Count": 486
     }
   ],
-  "EOS_Progressed": 272238,
+  "EOS_Progressed": 272248,
   "EOS_Completed": 373,
-  "EOS_NewPlayers": 4666,
+  "EOS_NewPlayers": 4658,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -6217,6 +6217,11 @@
       "Time": "2023-05-25T16:04:41.7781766+00:00",
       "NumProgressed": 272238,
       "NumCompleted": 373
+    },
+    {
+      "Time": "2023-05-25T17:04:02.4741506+00:00",
+      "NumProgressed": 272248,
+      "NumCompleted": 373
     }
   ],
   "TotalAchievements": 45,
@@ -6236,7 +6241,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16334
+      "UsersEstimate": 16335
     },
     {
       "ID": "PFA_11",
@@ -6244,7 +6249,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 16334
+      "UsersEstimate": 16335
     },
     {
       "ID": "PFA_12",
@@ -6252,7 +6257,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 16334
+      "UsersEstimate": 16335
     },
     {
       "ID": "PFA_13",
@@ -6260,7 +6265,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 16334
+      "UsersEstimate": 16335
     },
     {
       "ID": "PFA_14",
@@ -6284,7 +6289,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16334
+      "UsersEstimate": 16335
     },
     {
       "ID": "PFA_17",
@@ -6484,7 +6489,7 @@
       "Name": "Coasting Along",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16334
+      "UsersEstimate": 16335
     },
     {
       "ID": "PFA_4",
@@ -6556,7 +6561,7 @@
       "Name": "First Class Student",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 16334
+      "UsersEstimate": 16335
     },
     {
       "ID": "PFA_7",
@@ -6564,7 +6569,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16334
+      "UsersEstimate": 16335
     },
     {
       "ID": "PFA_8",
@@ -6572,7 +6577,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16334
+      "UsersEstimate": 16335
     },
     {
       "ID": "PFA_9",
@@ -6587,7 +6592,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 272238,
+      "Progressed": 272248,
       "Completed": 373
     }
   ],
@@ -6595,8 +6600,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-05-25T13:57:21.0509064+00:00",
-  "LastChanged_Achievements": "2023-05-25T16:04:41.7781763+00:00",
+  "LastChanged_Achievements": "2023-05-25T17:04:02.4741498+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:06.7022297+00:00",
-  "LastUpdate_Ratings": "2023-05-25T15:57:29.4293434+00:00",
-  "LastUpdate_Achievements": "2023-05-25T16:04:41.7782213+00:00"
+  "LastUpdate_Ratings": "2023-05-25T16:57:16.6301079+00:00",
+  "LastUpdate_Achievements": "2023-05-25T17:04:02.4742793+00:00"
 }

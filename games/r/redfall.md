@@ -5,23 +5,23 @@ Rating: 3.40 (Ranked 926)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 78.00% | ~1,264 |
+| I Like My Stakes Rare! | 78.00% | ~1,265 |
 | Home Is Where the Heart Is | 61.00% | ~989 |
 | Ne Plus Ultra | 60.00% | ~973 |
 | Wounded Whispers | 60.00% | ~973 |
-| Blood Will Have Blood | 49.00% | ~794 |
-| ICU | 46.00% | ~746 |
-| Catch and Release | 44.00% | ~713 |
+| Blood Will Have Blood | 49.00% | ~795 |
+| ICU | 45.00% | ~730 |
+| Catch and Release | 44.00% | ~714 |
 | Peek-a-boo | 43.00% | ~697 |
 | Sucks To Be You | 43.00% | ~697 |
 | Welcome to the Neighborhood | 37.00% | ~600 |
-| Fly Fisher | 35.00% | ~567 |
+| Fly Fisher | 35.00% | ~568 |
 | Throw The First Stone | 34.00% | ~551 |
 | Enter of Your Own Free Will | 32.00% | ~519 |
 | Heart Attack | 32.00% | ~519 |
 | Skin of Their Teeth | 31.00% | ~503 |
 | Grounded | 23.00% | ~373 |
-| Bad Wiring | 21.00% | ~340 |
+| Bad Wiring | 21.00% | ~341 |
 | I Spit On Your Grave | 19.00% | ~308 |
 | Neighborhood Revitalization | 15.00% | ~243 |
 | Radio Silence | 15.00% | ~243 |
@@ -72,7 +72,7 @@ Rating: 3.40 (Ranked 926)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,621 (Ranked 152)  
+Progressed: 1,622 (Ranked 152)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,7 +100,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-22 | 1,600 | 0 |
 | 2023-05-23 | 1,611 | 0 |
 | 2023-05-24 | 1,615 | 0 |
-| 2023-05-25 | 1,621 | 0 |
+| 2023-05-25 | 1,622 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

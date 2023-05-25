@@ -26,7 +26,7 @@
 | Two Peas in a Pod | 11.00% | ~46 |
 | All For One | 11.00% | ~46 |
 | Extinction is Forever | 11.00% | ~46 |
-| We Are a Family | 9.00% | ~37 |
+| We Are a Family | 10.00% | ~41 |
 | For a Better Tomorrow | 4.00% | ~17 |
 | Mother Love | 4.00% | ~17 |
 | Omnivore | 2.00% | ~8 |

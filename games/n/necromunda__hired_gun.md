@@ -1,5 +1,5 @@
 # Necromunda: Hired Gun
-[Store](https://store.epicgames.com/en-US/p/necromunda-hired-gun)  
+[Store](https://store.epicgames.com/en-US/p/necromunda-hired-gun--bundle)  
 [View Rawdata](../../db/n/necromunda__hired_gun.json)  
 Rating: 4.10 (Ranked 862)  
 Number of Ratings: 112  (23.09.2022)  

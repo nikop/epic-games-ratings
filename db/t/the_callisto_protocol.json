@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 56,
+  "Ranking_EOS_NewPlayers": 57,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -428,9 +428,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13569,
+  "EOS_Progressed": 13574,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 999,
+  "EOS_NewPlayers": 1004,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1533,6 +1533,11 @@
       "Time": "2023-05-25T16:03:43.7729687+00:00",
       "NumProgressed": 13569,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-05-25T17:03:27.784307+00:00",
+      "NumProgressed": 13574,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 40,
@@ -1552,7 +1557,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BACKSTAB_BLIND",
@@ -1560,7 +1565,7 @@
       "Name": "Giving Back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -1592,7 +1597,7 @@
       "Name": "Glutton for Punishment",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "FINISH_CONTAGION_NO_DEATH",
@@ -1600,15 +1605,15 @@
       "Name": "You Belong Here",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "FINISH_GAME",
       "SetID": "4hj6d86",
       "Name": "I Do Belong Here",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 54
+      "UsersEstimate": 68
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -1672,7 +1677,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "KILL_ROBOT",
@@ -1848,7 +1853,7 @@
       "Name": "Subject Alpha",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SPEND_20000",
@@ -1863,13 +1868,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13569,
+      "Progressed": 13574,
       "Completed": 52
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1495,
+      "Progressed": 1500,
       "Completed": 29
     }
   ],
@@ -1877,8 +1882,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-23T19:57:59.4143533+00:00",
-  "LastChanged_Achievements": "2023-05-25T16:03:43.7729683+00:00",
+  "LastChanged_Achievements": "2023-05-25T17:03:27.7843066+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-25T15:58:07.4713482+00:00",
-  "LastUpdate_Achievements": "2023-05-25T16:03:43.7729977+00:00"
+  "LastUpdate_Ratings": "2023-05-25T16:57:45.0436724+00:00",
+  "LastUpdate_Achievements": "2023-05-25T17:03:27.7843437+00:00"
 }

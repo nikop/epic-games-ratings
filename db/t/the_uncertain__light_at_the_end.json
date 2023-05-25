@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 426,
+  "EOS_Progressed": 427,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.17,
   "EosHistory": [
@@ -204,6 +204,11 @@
       "Time": "2023-05-25T09:06:40.9538093+00:00",
       "NumProgressed": 426,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-05-25T17:05:52.4348966+00:00",
+      "NumProgressed": 427,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 29,
@@ -247,7 +252,7 @@
       "Name": "Mind the Gap",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Echoes",
@@ -293,9 +298,9 @@
       "ID": "Headshot",
       "SetID": "ek310c",
       "Name": "U Mad Bro?",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 47
     },
     {
       "ID": "Healthy_Child",
@@ -303,15 +308,15 @@
       "Name": "Bundle of Joy",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "Hitman",
       "SetID": "ek310c",
       "Name": "Short Circuit",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 47
     },
     {
       "ID": "Illustrator",
@@ -319,7 +324,7 @@
       "Name": "F is for Feline",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Investigative",
@@ -333,9 +338,9 @@
       "ID": "Left_Behind",
       "SetID": "ek310c",
       "Name": "A Friend in Need...",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 192
     },
     {
       "ID": "Leisurely_Strol",
@@ -446,7 +451,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 426,
+      "Progressed": 427,
       "Completed": 5
     }
   ],
@@ -454,8 +459,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-05-18T03:00:40.7703689+00:00",
-  "LastChanged_Achievements": "2023-05-25T16:07:06.3365114+00:00",
+  "LastChanged_Achievements": "2023-05-25T17:05:52.4348961+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:53.1846024+00:00",
-  "LastUpdate_Ratings": "2023-05-25T16:01:28.0445691+00:00",
-  "LastUpdate_Achievements": "2023-05-25T16:07:06.3365278+00:00"
+  "LastUpdate_Ratings": "2023-05-25T17:00:15.0575486+00:00",
+  "LastUpdate_Achievements": "2023-05-25T17:05:52.434914+00:00"
 }

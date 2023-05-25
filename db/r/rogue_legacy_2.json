@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1101,7 +1101,7 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 21779,
+  "EOS_Progressed": 21780,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 0,
@@ -2771,6 +2771,11 @@
       "Time": "2023-05-25T15:06:30.0840176+00:00",
       "NumProgressed": 21779,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-05-25T17:05:40.9742922+00:00",
+      "NumProgressed": 21780,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -2956,9 +2961,9 @@
       "ID": "BossTowerDefeated",
       "SetID": "3ojhj46",
       "Name": "Suns and Soldiers",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 87
     },
     {
       "ID": "BoxerBoss",
@@ -3093,21 +3098,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 21779,
+      "Progressed": 21780,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 709,
+      "Progressed": 710,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-05-25T03:59:33.6793252+00:00",
-  "LastChanged_Achievements": "2023-05-25T16:06:52.7948809+00:00",
+  "LastChanged_Achievements": "2023-05-25T17:05:40.9742919+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:25.8639734+00:00",
-  "LastUpdate_Ratings": "2023-05-25T15:59:44.5792424+00:00",
-  "LastUpdate_Achievements": "2023-05-25T16:06:52.7949122+00:00"
+  "LastUpdate_Ratings": "2023-05-25T16:58:57.3521994+00:00",
+  "LastUpdate_Achievements": "2023-05-25T17:05:40.974321+00:00"
 }

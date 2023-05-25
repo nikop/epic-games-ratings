@@ -5,19 +5,19 @@ Rating: 4.63 (Ranked 330)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 80.00% | ~6,686 |
-| Pay 'n' Spray | 48.00% | ~4,011 |
-| All Dressed Up for San Fierro | 22.00% | ~1,839 |
-| The American Dream | 17.00% | ~1,421 |
-| School's Out | 16.00% | ~1,337 |
+| Getting Started | 80.00% | ~6,690 |
+| Pay 'n' Spray | 48.00% | ~4,014 |
+| All Dressed Up for San Fierro | 22.00% | ~1,840 |
+| The American Dream | 17.00% | ~1,422 |
+| School's Out | 16.00% | ~1,338 |
 | Smooth Moves | 15.00% | ~1,254 |
-| Today Was a Good Day | 13.00% | ~1,086 |
+| Today Was a Good Day | 13.00% | ~1,087 |
 | What happens in Las Venturas... | 12.00% | ~1,003 |
-| Horror of the Santa Maria | 9.00% | ~752 |
+| Horror of the Santa Maria | 9.00% | ~753 |
 | Liberty City State of Mind | 7.00% | ~585 |
-| With Extra Dip | 6.00% | ~501 |
-| The End of the Line | 6.00% | ~501 |
-| Original Gangster | 6.00% | ~501 |
+| With Extra Dip | 6.00% | ~502 |
+| The End of the Line | 6.00% | ~502 |
+| Original Gangster | 6.00% | ~502 |
 | Saviour | 5.00% | ~418 |
 | They Can’t Stop All of Us | 4.00% | ~334 |
 | Rescue a Kitten Too? | 4.00% | ~334 |
@@ -35,13 +35,13 @@ Rating: 4.63 (Ranked 330)
 | Ain’t Nothing But a G Thing | 1.00% | ~84 |
 | Chick Magnet | 0.90% | ~75 |
 | Lucky Spinner | 0.80% | ~67 |
-| Hoopin' it Up | 0.70% | ~58 |
+| Hoopin' it Up | 0.70% | ~59 |
 | Not a Player | 0.60% | ~50 |
 | Remastered | 0.50% | ~42 |
 | ...Here we go again | 0.30% | ~25 |
 | I Ain't No Buster | 0.20% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,357 (Ranked 110)  
+Progressed: 8,362 (Ranked 111)  
 Completed: 17 (0.20%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 17 (0.20%) (Ranked 140)
 | 2023-05-22 | 8,134 | 17 |
 | 2023-05-23 | 8,236 | 17 |
 | 2023-05-24 | 8,309 | 17 |
-| 2023-05-25 | 8,357 | 17 |
+| 2023-05-25 | 8,362 | 17 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,19 +6,19 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 82.00% | ~506,745 |
-| Every story has a beginning | 37.00% | ~228,653 |
-| The first of many | 32.00% | ~197,754 |
-| Positive word of mouth | 18.00% | ~111,237 |
-| Lawn in the U.S.A. | 15.00% | ~92,697 |
-| Blade Runner | 9.00% | ~55,618 |
-| Credible | 7.00% | ~43,259 |
-| Teamwork makes the dream work | 6.00% | ~37,079 |
-| Bigger and better | 4.00% | ~24,719 |
-| Aggressive expansion | 4.00% | ~24,719 |
-| Where there's muck there's brass | 3.00% | ~18,539 |
-| Size isn't everything | 3.00% | ~18,539 |
-| Established | 3.00% | ~18,539 |
+| The dream begins | 82.00% | ~506,771 |
+| Every story has a beginning | 37.00% | ~228,665 |
+| The first of many | 32.00% | ~197,764 |
+| Positive word of mouth | 18.00% | ~111,243 |
+| Lawn in the U.S.A. | 15.00% | ~92,702 |
+| Blade Runner | 9.00% | ~55,621 |
+| Credible | 7.00% | ~43,261 |
+| Teamwork makes the dream work | 6.00% | ~37,081 |
+| Bigger and better | 4.00% | ~24,721 |
+| Aggressive expansion | 4.00% | ~24,721 |
+| Where there's muck there's brass | 3.00% | ~18,540 |
+| Size isn't everything | 3.00% | ~18,540 |
+| Established | 3.00% | ~18,540 |
 | Mighty Mowing Park Ranger | 2.00% | ~12,360 |
 | Close shave | 2.00% | ~12,360 |
 | Every good deed… | 2.00% | ~12,360 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~618 |
 | Mo mowers, mo problems | 0.10% | ~618 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 617,982 (Ranked 19)  
+Progressed: 618,014 (Ranked 19)  
 Completed: 11 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 11 (0.00%) (Ranked 202)
 | 2023-05-22 | 617,004 | 9 |
 | 2023-05-23 | 617,354 | 10 |
 | 2023-05-24 | 617,757 | 11 |
-| 2023-05-25 | 617,982 | 11 |
+| 2023-05-25 | 618,014 | 11 |
 ## Awards
 Max (Quickly Understood Controls): 180  (Ranked 269)  
 Sum: 960 (Ranked 231)  

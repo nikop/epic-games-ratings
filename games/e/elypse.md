@@ -17,11 +17,11 @@
 | Sensitive soul | 34.00% | ~15 |
 | Rock Solid | 30.00% | ~13 |
 | The beast within | 30.00% | ~13 |
+| Rooftop | 30.00% | ~13 |
 | It's getting dark | 30.00% | ~13 |
-| Rooftop | 27.00% | ~12 |
+| Homeless | 27.00% | ~12 |
+| Big badaboom! | 27.00% | ~12 |
 | Hard Rock | 27.00% | ~12 |
-| Homeless | 25.00% | ~11 |
-| Big badaboom! | 23.00% | ~10 |
 | Magnitude 5 | 20.00% | ~9 |
 | Nokron tower | 18.00% | ~8 |
 | Payback | 18.00% | ~8 |

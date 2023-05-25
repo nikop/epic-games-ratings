@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2018-01-23T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -3444,10 +3444,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 5262,
       "NumberOfAwardsMax": 661
+    },
+    {
+      "Time": "2023-05-25T16:58:54.8353989+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 5263,
+      "NumberOfAwardsMax": 661
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5262,
+  "NumberOfAwards": 5263,
   "NumberOfAwardsMax": 661,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -3509,7 +3515,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 419
+      "Count": 420
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -3529,8 +3535,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:19.8641148+00:00",
-  "LastChanged": "2023-05-25T13:07:10.8968681+00:00",
+  "LastChanged": "2023-05-25T16:58:54.8353987+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:23.1573581+00:00",
-  "LastUpdate_Ratings": "2023-05-25T15:59:40.4358517+00:00",
-  "LastUpdate_Achievements": "2023-05-25T16:05:15.1575908+00:00"
+  "LastUpdate_Ratings": "2023-05-25T16:58:54.8353992+00:00",
+  "LastUpdate_Achievements": "2023-05-25T17:04:27.3812142+00:00"
 }

@@ -15,8 +15,8 @@
 | Tragic Brave | 52.00% | ~444 |
 | Awakened Spirits | 49.00% | ~418 |
 | Little Shop | 48.00% | ~410 |
+| Surprise! | 44.00% | ~376 |
 | An Actor! | 44.00% | ~376 |
-| Surprise! | 43.00% | ~367 |
 | Curtain Call | 42.00% | ~359 |
 | Piece of Cake | 40.00% | ~342 |
 | Gooey Delight! | 39.00% | ~333 |

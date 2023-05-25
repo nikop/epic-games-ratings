@@ -6,56 +6,56 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~472,857 |
-| Apprentice | 58.00% | ~380,913 |
-| Close Shave | 25.00% | ~164,186 |
-| Mercenary | 23.00% | ~151,052 |
-| Ninja | 23.00% | ~151,052 |
-| Northern Scourge | 17.00% | ~111,647 |
-| Thief Bane | 14.00% | ~91,944 |
+| The Fool | 72.00% | ~472,861 |
+| Apprentice | 58.00% | ~380,916 |
+| Close Shave | 25.00% | ~164,188 |
+| Mercenary | 23.00% | ~151,053 |
+| Ninja | 23.00% | ~151,053 |
+| Northern Scourge | 17.00% | ~111,648 |
+| Thief Bane | 14.00% | ~91,945 |
 | Master of Arms | 12.00% | ~78,810 |
 | Gambler | 10.00% | ~65,675 |
 | Dice Master | 10.00% | ~65,675 |
-| Swordsman | 9.00% | ~59,107 |
+| Swordsman | 9.00% | ~59,108 |
 | Knight | 8.00% | ~52,540 |
 | Cure for Corruption | 8.00% | ~52,540 |
 | Focused | 8.00% | ~52,540 |
 | Flurry of Fury | 8.00% | ~52,540 |
-| Long Shot | 7.00% | ~45,972 |
-| Devil Dice | 7.00% | ~45,972 |
+| Long Shot | 7.00% | ~45,973 |
+| Devil Dice | 7.00% | ~45,973 |
 | Adventurer | 6.00% | ~39,405 |
 | Empire's Bane | 6.00% | ~39,405 |
 | Broken Heart | 6.00% | ~39,405 |
-| Jack of all Trades | 5.00% | ~32,837 |
-| Smithy | 5.00% | ~32,837 |
-| Leap of Faith | 3.00% | ~19,702 |
-| Combat Ready | 3.00% | ~19,702 |
-| Stuffed Potato | 3.00% | ~19,702 |
+| Jack of all Trades | 5.00% | ~32,838 |
+| Smithy | 5.00% | ~32,838 |
+| Leap of Faith | 3.00% | ~19,703 |
+| Combat Ready | 3.00% | ~19,703 |
+| Stuffed Potato | 3.00% | ~19,703 |
 | Card Sharp | 2.00% | ~13,135 |
 | Magician | 2.00% | ~13,135 |
 | Draknar's Bane | 2.00% | ~13,135 |
-| Protector of the Realm | 1.00% | ~6,567 |
-| Purgatorium | 1.00% | ~6,567 |
-| Cursed Soul | 1.00% | ~6,567 |
-| Champion | 1.00% | ~6,567 |
-| Final Death | 1.00% | ~6,567 |
+| Protector of the Realm | 1.00% | ~6,568 |
+| Purgatorium | 1.00% | ~6,568 |
+| Cursed Soul | 1.00% | ~6,568 |
+| Champion | 1.00% | ~6,568 |
+| Final Death | 1.00% | ~6,568 |
 | Ally | 0.80% | ~5,254 |
 | Thomas' Bane | 0.80% | ~5,254 |
 | Gamester | 0.70% | ~4,597 |
-| Hero | 0.60% | ~3,940 |
-| Rebel | 0.60% | ~3,940 |
+| Hero | 0.60% | ~3,941 |
+| Rebel | 0.60% | ~3,941 |
 | Dungeon Master | 0.50% | ~3,284 |
 | Pilgrim | 0.40% | ~2,627 |
 | Smiths Honour | 0.40% | ~2,627 |
 | Peaceful Coast | 0.30% | ~1,970 |
-| Money Bags | 0.20% | ~1,313 |
+| Money Bags | 0.20% | ~1,314 |
 | Grifter | 0.10% | ~657 |
 | Unburdened | 0.10% | ~657 |
 | Karma | 0.10% | ~657 |
 | Miracle | 0.10% | ~657 |
 | Blood Pact | 0.10% | ~657 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 656,746 (Ranked 18)  
+Progressed: 656,751 (Ranked 18)  
 Completed: 165 (0.03%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,7 +90,7 @@ Completed: 165 (0.03%) (Ranked 182)
 | 2023-05-22 | 656,616 | 165 |
 | 2023-05-23 | 656,655 | 165 |
 | 2023-05-24 | 656,711 | 165 |
-| 2023-05-25 | 656,746 | 165 |
+| 2023-05-25 | 656,751 | 165 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 427)  
 Sum: 180 (Ranked 360)  

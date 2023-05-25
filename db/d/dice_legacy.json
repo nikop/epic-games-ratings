@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -618,9 +618,9 @@
       "ID": "EXILED_SOLDIER_FRIEND",
       "SetID": "6ohhfoc",
       "Name": "The Unruly Ones",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "FIND_ATTACKS_SOURCE",
@@ -811,8 +811,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-03-31T05:57:30.891724+00:00",
-  "LastChanged_Achievements": "2023-05-25T16:06:32.8254524+00:00",
+  "LastChanged_Achievements": "2023-05-25T17:05:24.7462031+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:12.8802824+00:00",
-  "LastUpdate_Ratings": "2023-05-25T15:57:58.0741545+00:00",
-  "LastUpdate_Achievements": "2023-05-25T16:06:32.8254838+00:00"
+  "LastUpdate_Ratings": "2023-05-25T16:57:37.5947104+00:00",
+  "LastUpdate_Achievements": "2023-05-25T17:05:24.7462361+00:00"
 }

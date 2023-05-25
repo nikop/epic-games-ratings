@@ -2,13 +2,13 @@
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
   "ProductSlug": "tchia",
-  "Ranking_Rating": 131,
+  "Ranking_Rating": 130,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6025,
+  "EOS_Progressed": 6026,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 264,
+  "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2188,6 +2188,11 @@
       "Time": "2023-05-25T16:06:26.6536112+00:00",
       "NumProgressed": 6025,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-25T17:05:19.9392816+00:00",
+      "NumProgressed": 6026,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 21,
@@ -2207,7 +2212,7 @@
       "Name": "Arrr!",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "AUDIOPHILE",
@@ -2223,7 +2228,7 @@
       "Name": "Body and Soul",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -2263,7 +2268,7 @@
       "Name": "Fashion Victim",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "GLOBE_TROTTER",
@@ -2301,9 +2306,9 @@
       "ID": "IN_A_PINCH",
       "SetID": "3cck1g6",
       "Name": "In a Pinch",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1145
     },
     {
       "ID": "LIBERATOR",
@@ -2335,7 +2340,7 @@
       "Name": "Snip Snip",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "SOUL_CANON",
@@ -2366,7 +2371,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6025,
+      "Progressed": 6026,
       "Completed": 22
     }
   ],
@@ -2374,8 +2379,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-05-25T16:06:26.6536109+00:00",
+  "LastChanged_Achievements": "2023-05-25T17:05:19.9392811+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.822955+00:00",
-  "LastUpdate_Ratings": "2023-05-25T15:58:15.0397607+00:00",
-  "LastUpdate_Achievements": "2023-05-25T16:06:26.653632+00:00"
+  "LastUpdate_Ratings": "2023-05-25T16:57:50.5172726+00:00",
+  "LastUpdate_Achievements": "2023-05-25T17:05:19.939302+00:00"
 }

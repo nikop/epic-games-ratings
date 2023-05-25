@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
     "PcReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -66,9 +66,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2054,
+  "EOS_Progressed": 2055,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -796,6 +796,11 @@
       "Time": "2023-05-25T06:05:40.0881094+00:00",
       "NumProgressed": 2054,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-25T17:05:47.0187141+00:00",
+      "NumProgressed": 2055,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -821,9 +826,9 @@
       "ID": "complete_act_one",
       "SetID": "236b9eg",
       "Name": "The First Law of Thermodynamics",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 150,
-      "UsersEstimate": 575
+      "UsersEstimate": 555
     },
     {
       "ID": "complete_act_three",
@@ -853,9 +858,9 @@
       "ID": "deal_damage",
       "SetID": "236b9eg",
       "Name": "Ouch",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1130
     },
     {
       "ID": "defeat_enemies",
@@ -879,7 +884,7 @@
       "Name": "At Least We Have Each Other...",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1561
+      "UsersEstimate": 1562
     },
     {
       "ID": "piercing_beam",
@@ -911,7 +916,7 @@
       "Name": "Frogbot",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 1499
+      "UsersEstimate": 1500
     },
     {
       "ID": "save_planet_bestfriend",
@@ -958,7 +963,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2054,
+      "Progressed": 2055,
       "Completed": 8
     }
   ],
@@ -966,8 +971,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-05-21T23:00:43.2756611+00:00",
-  "LastChanged_Achievements": "2023-05-25T16:07:00.2520276+00:00",
+  "LastChanged_Achievements": "2023-05-25T17:05:47.0187137+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:21.4953983+00:00",
-  "LastUpdate_Ratings": "2023-05-25T16:01:08.7908538+00:00",
-  "LastUpdate_Achievements": "2023-05-25T16:07:00.2520429+00:00"
+  "LastUpdate_Ratings": "2023-05-25T17:00:00.3586211+00:00",
+  "LastUpdate_Achievements": "2023-05-25T17:05:47.0187282+00:00"
 }

@@ -6,8 +6,8 @@ Rating: 4.55 (Ranked 468)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 8.00% | ~172 |
-| Infinite Growth... | 7.00% | ~150 |
-| Sputnik 2049 | 7.00% | ~150 |
+| Infinite Growth... | 7.00% | ~151 |
+| Sputnik 2049 | 7.00% | ~151 |
 | Without Breaking Some Eggs... | 6.00% | ~129 |
 | Space Society | 4.00% | ~86 |
 | A Thousand Strong | 4.00% | ~86 |
@@ -23,12 +23,12 @@ Rating: 4.55 (Ranked 468)
 | Exceeding Capacity | 2.00% | ~43 |
 | Power Outage | 2.00% | ~43 |
 | Please Make it Stop! | 2.00% | ~43 |
-| Man's Best Friend | 1.00% | ~21 |
-| Sightseeing | 1.00% | ~21 |
-| Access Granted | 1.00% | ~21 |
-| Necessary Enhancement | 1.00% | ~21 |
-| Convenient Transport | 1.00% | ~21 |
-| From the Past | 1.00% | ~21 |
+| Man's Best Friend | 1.00% | ~22 |
+| Sightseeing | 1.00% | ~22 |
+| Access Granted | 1.00% | ~22 |
+| Necessary Enhancement | 1.00% | ~22 |
+| Convenient Transport | 1.00% | ~22 |
+| From the Past | 1.00% | ~22 |
 | Oats | 0.80% | ~17 |
 | In Dolos We Trust | 0.80% | ~17 |
 | BRAWL! | 0.80% | ~17 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 468)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,149 (Ranked 143)  
+Progressed: 2,150 (Ranked 143)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-22 | 2,083 | 0 |
 | 2023-05-23 | 2,115 | 0 |
 | 2023-05-24 | 2,134 | 0 |
-| 2023-05-25 | 2,149 | 0 |
+| 2023-05-25 | 2,150 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,11 +4,11 @@
   "ProductSlug": "century-age-of-ashes",
   "Ranking_Rating": 650,
   "Ranking_Popularity": 378,
-  "Ranking_PopularitySum": 284,
+  "Ranking_PopularitySum": 283,
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-02-23T16:00:00+00:00",
     "PcReleaseDate": "2021-12-02T16:00:00+00:00",
@@ -1195,10 +1195,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 583,
       "NumberOfAwardsMax": 60
+    },
+    {
+      "Time": "2023-05-25T16:57:28.561691+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 584,
+      "NumberOfAwardsMax": 60
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 583,
+  "NumberOfAwards": 584,
   "NumberOfAwardsMax": 60,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -1266,7 +1272,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 55
+      "Count": 56
     }
   ],
   "EOS_Progressed": 0,
@@ -1280,8 +1286,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:28.564577+00:00",
-  "LastChanged": "2023-05-22T02:03:38.5453539+00:00",
+  "LastChanged": "2023-05-25T16:57:28.5616906+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:02.1517829+00:00",
-  "LastUpdate_Ratings": "2023-05-25T15:57:44.1414461+00:00",
-  "LastUpdate_Achievements": "2023-05-25T16:04:39.3982278+00:00"
+  "LastUpdate_Ratings": "2023-05-25T16:57:28.5616913+00:00",
+  "LastUpdate_Achievements": "2023-05-25T17:04:00.6121006+00:00"
 }

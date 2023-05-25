@@ -7,7 +7,7 @@ Number of Ratings: 34  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Explorer | 61.00% | ~169 |
-| Cowardice | 53.00% | ~147 |
+| Cowardice | 54.00% | ~150 |
 | NO LIFE IS WORTH SAVING... | 51.00% | ~141 |
 | Eat Lead! | 49.00% | ~136 |
 | Prospector | 44.00% | ~122 |
@@ -38,8 +38,8 @@ Number of Ratings: 34  (23.09.2022)
 | Helping Hand | 12.00% | ~33 |
 | Collectibles of Chapter V | 8.00% | ~22 |
 | Such is War! | 8.00% | ~22 |
+| Tiptoe Around | 8.00% | ~22 |
 | Collectibles of Chapter VII | 7.00% | ~19 |
-| Tiptoe Around | 7.00% | ~19 |
 | Collectibles of Chapter XII | 6.00% | ~17 |
 | Piece of Cake | 6.00% | ~17 |
 | Collectibles of Chapter VIII | 5.00% | ~14 |

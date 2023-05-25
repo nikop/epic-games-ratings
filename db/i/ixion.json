@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2149,
+  "EOS_Progressed": 2150,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1322,6 +1322,11 @@
       "Time": "2023-05-25T16:06:35.2936755+00:00",
       "NumProgressed": 2149,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T17:05:26.7260703+00:00",
+      "NumProgressed": 2150,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -1341,7 +1346,7 @@
       "Name": "Man\u0027s Best Friend",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_BASE_11",
@@ -1397,7 +1402,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_BASE_19",
@@ -1445,7 +1450,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "ACH_BASE_25",
@@ -1461,7 +1466,7 @@
       "Name": "Sightseeing",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_BASE_27",
@@ -1549,7 +1554,7 @@
       "Name": "Access Granted",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_BASE_37",
@@ -1557,7 +1562,7 @@
       "Name": "Necessary Enhancement",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_BASE_38",
@@ -1661,7 +1666,7 @@
       "Name": "Convenient Transport",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_BASE_52",
@@ -1765,7 +1770,7 @@
       "Name": "From the Past",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_BASE_8",
@@ -1788,13 +1793,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 330,
+      "Progressed": 331,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2149,
+      "Progressed": 2150,
       "Completed": 0
     }
   ],
@@ -1802,8 +1807,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-05-13T22:58:30.2604361+00:00",
-  "LastChanged_Achievements": "2023-05-25T16:06:35.2936752+00:00",
+  "LastChanged_Achievements": "2023-05-25T17:05:26.7260697+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.7103468+00:00",
-  "LastUpdate_Ratings": "2023-05-25T15:58:51.0480874+00:00",
-  "LastUpdate_Achievements": "2023-05-25T16:06:35.293726+00:00"
+  "LastUpdate_Ratings": "2023-05-25T16:58:20.7912808+00:00",
+  "LastUpdate_Achievements": "2023-05-25T17:05:26.7261194+00:00"
 }

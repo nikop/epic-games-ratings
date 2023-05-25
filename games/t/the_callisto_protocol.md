@@ -6,8 +6,8 @@ Rating: 4.18 (Ranked 831)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Flesh Wound | 6.00% | ~814 |
-| Giving Back | 5.00% | ~678 |
-| Chew 'Em Up | 5.00% | ~678 |
+| Giving Back | 5.00% | ~679 |
+| Chew 'Em Up | 5.00% | ~679 |
 | Instigator | 4.00% | ~60 |
 | Big Game Hunter | 4.00% | ~60 |
 | Paper Jams | 3.00% | ~407 |
@@ -34,19 +34,19 @@ Rating: 4.18 (Ranked 831)
 | Recidivist | 0.70% | ~10 |
 | Power Up | 0.70% | ~95 |
 | You Need a Gun | 0.60% | ~81 |
+| I Do Belong Here | 0.50% | ~68 |
 | What Lies Beneath | 0.50% | ~68 |
 | Full Circle | 0.50% | ~68 |
-| I Do Belong Here | 0.40% | ~54 |
 | Grim Reaper | 0.30% | ~41 |
 | It's over, Jacob! | 0.10% | ~14 |
-| Armed to the Teeth | 0.10% | ~1 |
-| Glutton for Punishment | 0.10% | ~1 |
-| You Belong Here | 0.10% | ~1 |
+| Armed to the Teeth | 0.10% | ~2 |
+| Glutton for Punishment | 0.10% | ~2 |
+| You Belong Here | 0.10% | ~2 |
 | The Protocol is About Life | 0.10% | ~14 |
-| Subject Alpha | 0.10% | ~1 |
+| Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,569 (Ranked 101)  
+Progressed: 13,574 (Ranked 101)  
 Completed: 52 (0.38%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 52 (0.38%) (Ranked 114)
 | 2023-05-22 | 13,347 | 52 |
 | 2023-05-23 | 13,444 | 52 |
 | 2023-05-24 | 13,523 | 52 |
-| 2023-05-25 | 13,569 | 52 |
+| 2023-05-25 | 13,574 | 52 |
 ## Awards
 Max (Highly Recommended): 46  (Ranked 397)  
 Sum: 267 (Ranked 335)  

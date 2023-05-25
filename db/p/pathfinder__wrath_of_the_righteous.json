@@ -5,10 +5,10 @@
   "Ranking_Rating": 117,
   "Ranking_Popularity": 111,
   "Ranking_PopularitySum": 110,
-  "Ranking_EOS_Progress": 109,
+  "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2442,10 +2442,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6647,
       "NumberOfAwardsMax": 1640
+    },
+    {
+      "Time": "2023-05-25T16:58:13.359161+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6648,
+      "NumberOfAwardsMax": 1640
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6647,
+  "NumberOfAwards": 6648,
   "NumberOfAwardsMax": 1640,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2513,10 +2519,10 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 369
+      "Count": 370
     }
   ],
-  "EOS_Progressed": 9177,
+  "EOS_Progressed": 9179,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 0,
@@ -4491,6 +4497,11 @@
       "Time": "2023-05-25T16:07:11.6659748+00:00",
       "NumProgressed": 9177,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T17:05:56.9360358+00:00",
+      "NumProgressed": 9179,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -4518,7 +4529,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "04_FithCrusade",
@@ -4702,7 +4713,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "28_GreatUpstart",
@@ -5429,21 +5440,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7959,
+      "Progressed": 7961,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9177,
+      "Progressed": 9179,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-05-25T15:58:42.3315733+00:00",
-  "LastChanged_Achievements": "2023-05-25T16:07:11.6659743+00:00",
+  "LastChanged": "2023-05-25T16:58:13.3591609+00:00",
+  "LastChanged_Achievements": "2023-05-25T17:05:56.9360353+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3010226+00:00",
-  "LastUpdate_Ratings": "2023-05-25T15:58:42.3315738+00:00",
-  "LastUpdate_Achievements": "2023-05-25T16:07:11.6661072+00:00"
+  "LastUpdate_Ratings": "2023-05-25T16:58:13.3591613+00:00",
+  "LastUpdate_Achievements": "2023-05-25T17:05:56.9361687+00:00"
 }

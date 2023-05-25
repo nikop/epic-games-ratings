@@ -24,7 +24,7 @@ Rating: 4.29 (Ranked 766)
 | The Penitent Ones | 2.00% | ~16 |
 | The First King | 1.00% | ~8 |
 | The great fire | 1.00% | ~8 |
-| The Unruly Ones | 0.90% | ~7 |
+| The Unruly Ones | 1.00% | ~8 |
 | The Council | 0.80% | ~6 |
 | The Mad | 0.60% | ~5 |
 | Like the dream | 0.50% | ~4 |
