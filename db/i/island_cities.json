@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 153,
+  "EOS_Progressed": 154,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 16.99,
+  "EOS_Completed_Percentage": 16.88,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -693,6 +693,11 @@
       "Time": "2023-05-25T00:06:05.8177811+00:00",
       "NumProgressed": 153,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-25T04:06:12.7443455+00:00",
+      "NumProgressed": 154,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 22,
@@ -704,7 +709,7 @@
       "Name": "Welcome!",
       "Percentage": 99,
       "XP": 35,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "LEVEL_002",
@@ -712,7 +717,7 @@
       "Name": "A tiny town",
       "Percentage": 83,
       "XP": 35,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "LEVEL_003",
@@ -720,7 +725,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 64,
       "XP": 35,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "LEVEL_004",
@@ -728,7 +733,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 53,
       "XP": 35,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "LEVEL_005",
@@ -736,15 +741,15 @@
       "Name": "Bridges to come and go",
       "Percentage": 46,
       "XP": 35,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "LEVEL_006",
       "SetID": "3khpmem",
       "Name": "Found an oasis",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 35,
-      "UsersEstimate": 60
+      "UsersEstimate": 59
     },
     {
       "ID": "LEVEL_007",
@@ -768,7 +773,7 @@
       "Name": "Who loves trains?",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "LEVEL_010",
@@ -776,7 +781,7 @@
       "Name": "Easy and steady climb",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "LEVEL_011",
@@ -784,7 +789,7 @@
       "Name": "At the heart of the city",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "LEVEL_012",
@@ -814,9 +819,9 @@
       "ID": "LEVEL_015",
       "SetID": "3khpmem",
       "Name": "Monumental tribute",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 32
     },
     {
       "ID": "LEVEL_016",
@@ -879,7 +884,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 153,
+      "Progressed": 154,
       "Completed": 26
     }
   ],
@@ -887,8 +892,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-25T03:05:16.6068329+00:00",
+  "LastChanged_Achievements": "2023-05-25T04:06:12.7443449+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:36.8517809+00:00",
-  "LastUpdate_Ratings": "2023-05-25T02:57:58.0897208+00:00",
-  "LastUpdate_Achievements": "2023-05-25T03:05:16.6068471+00:00"
+  "LastUpdate_Ratings": "2023-05-25T03:58:10.7334257+00:00",
+  "LastUpdate_Achievements": "2023-05-25T04:06:12.7443665+00:00"
 }

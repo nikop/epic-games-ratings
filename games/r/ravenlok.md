@@ -33,7 +33,7 @@
 | It's Pointy! | 35.00% | ~297 |
 | Spellbound | 34.00% | ~288 |
 | All Skilled Up! | 34.00% | ~288 |
-| Extinct Again! | 32.00% | ~271 |
+| Extinct Again! | 33.00% | ~280 |
 | Bird of Prey | 32.00% | ~271 |
 | Stardust | 32.00% | ~271 |
 | Heartbreaker | 32.00% | ~271 |

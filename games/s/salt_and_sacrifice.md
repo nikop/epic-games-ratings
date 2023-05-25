@@ -15,8 +15,8 @@ Number of Ratings: 2,205  (23.09.2022)
 | The Hydromancer | 73.00% | ~46,862 |
 | The Matriarch | 70.00% | ~44,936 |
 | The Aeromancer | 66.00% | ~42,369 |
+| The Venomancer | 66.00% | ~42,369 |
 | The Huntsman | 65.00% | ~41,727 |
-| The Venomancer | 65.00% | ~41,727 |
 | Dawnlight Order | 64.00% | ~41,085 |
 | The Electromancer | 61.00% | ~39,159 |
 | The Terramancer | 59.00% | ~37,875 |

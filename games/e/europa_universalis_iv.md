@@ -10,10 +10,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Army | 8.00% | ~3,455 |
 | That is mine! | 8.00% | ~3,455 |
 | Victorious! | 8.00% | ~3,455 |
-| Brothers in Arms | 6.00% | ~2,591 |
-| That's a Grand Navy | 6.00% | ~2,591 |
-| Seriously?! | 6.00% | ~2,591 |
-| For the Glory | 5.00% | ~2,159 |
+| Brothers in Arms | 6.00% | ~2,592 |
+| That's a Grand Navy | 6.00% | ~2,592 |
+| Seriously?! | 6.00% | ~2,592 |
+| For the Glory | 5.00% | ~2,160 |
 | Cold War | 4.00% | ~1,728 |
 | True Catholic | 4.00% | ~1,728 |
 | Defender of the Faith | 3.00% | ~1,296 |
@@ -246,6 +246,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Sikh Pun | 0.10% | ~43 |
 | Sinaasappel! | 0.10% | ~43 |
 | The Six Nations | 0.10% | ~43 |
+| Sleepless in Seattle | 0.10% | ~43 |
 | Spaghetti Western | 0.10% | ~43 |
 | Spain is the Emperor | 0.10% | ~43 |
 | Spanish Fly | 0.10% | ~43 |
@@ -342,7 +343,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Rekindling the Flames | 0.00% | ~0 |
 | Sakoku Law | 0.00% | ~0 |
 | Shemot is Not | 0.00% | ~0 |
-| Sleepless in Seattle | 0.00% | ~0 |
 | Sons of Carthage | 0.00% | ~0 |
 | Stardust Crusaders | 0.00% | ~0 |
 | Stern des Südens | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,188 (Ranked 78)  
+Progressed: 43,193 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -396,7 +396,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-22 | 42,079 | 0 |
 | 2023-05-23 | 42,594 | 0 |
 | 2023-05-24 | 43,149 | 0 |
-| 2023-05-25 | 43,188 | 0 |
+| 2023-05-25 | 43,193 | 0 |
 ## Awards
 Max (Educational): 5,277  (Ranked 60)  
 Sum: 43,722 (Ranked 27)  

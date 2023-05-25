@@ -13,13 +13,13 @@ Rating: 4.45 (Ranked 606)
 | Put it on a shelf | 18.00% | ~177 |
 | It's like an haircut | 17.00% | ~167 |
 | Suit up | 16.00% | ~157 |
-| Walked like an Egyptian | 15.00% | ~147 |
-| Ride in the rising sun | 15.00% | ~147 |
+| Walked like an Egyptian | 15.00% | ~148 |
+| Ride in the rising sun | 15.00% | ~148 |
 | Rookie No-No More | 12.00% | ~118 |
 | Running at the speed of sound | 12.00% | ~118 |
 | Martian explorer | 11.00% | ~108 |
-| To the core | 9.00% | ~88 |
-| Blurred photofinish | 9.00% | ~88 |
+| To the core | 9.00% | ~89 |
+| Blurred photofinish | 9.00% | ~89 |
 | EZ game EZ life | 7.00% | ~69 |
 | First step into a larger world | 7.00% | ~69 |
 | Over the clouds | 6.00% | ~59 |
@@ -34,13 +34,13 @@ Rating: 4.45 (Ranked 606)
 | Better luck next time | 4.00% | ~39 |
 | Dev, this! | 4.00% | ~39 |
 | He who laughs last... | 4.00% | ~39 |
-| Try them all | 3.00% | ~29 |
-| A-mazing! | 3.00% | ~29 |
-| To infinity and gravity! | 3.00% | ~29 |
-| One giant drive for mankind | 3.00% | ~29 |
-| Had to sweat a bit | 3.00% | ~29 |
-| [Sweats profusely] | 3.00% | ~29 |
-| Healthy competition | 3.00% | ~29 |
+| Try them all | 3.00% | ~30 |
+| A-mazing! | 3.00% | ~30 |
+| To infinity and gravity! | 3.00% | ~30 |
+| One giant drive for mankind | 3.00% | ~30 |
+| Had to sweat a bit | 3.00% | ~30 |
+| [Sweats profusely] | 3.00% | ~30 |
+| Healthy competition | 3.00% | ~30 |
 | S-uper! | 2.00% | ~20 |
 | This is to go, even Further Beyond! | 2.00% | ~20 |
 | Gitting Gud | 2.00% | ~20 |
@@ -58,7 +58,7 @@ Rating: 4.45 (Ranked 606)
 | I, need, more, shelves! | 0.50% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 983 (Ranked 167)  
+Progressed: 984 (Ranked 167)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-22 | 979 | 0 |
 | 2023-05-23 | 980 | 0 |
 | 2023-05-24 | 981 | 0 |
-| 2023-05-25 | 983 | 0 |
+| 2023-05-25 | 984 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

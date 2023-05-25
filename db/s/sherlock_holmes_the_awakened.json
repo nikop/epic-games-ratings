@@ -581,9 +581,9 @@
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 115
     },
     {
       "ID": "MQ03_2",
@@ -597,9 +597,9 @@
       "ID": "MQ03_3",
       "SetID": "bbing49",
       "Name": "History Check",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 108
+      "UsersEstimate": 111
     },
     {
       "ID": "MQ03_4",
@@ -613,9 +613,9 @@
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 108
+      "UsersEstimate": 111
     },
     {
       "ID": "MQ04_1",
@@ -766,8 +766,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-25T03:02:36.6504428+00:00",
+  "LastChanged_Achievements": "2023-05-25T04:03:21.5814503+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.473335+00:00",
-  "LastUpdate_Ratings": "2023-05-25T02:57:18.5324231+00:00",
-  "LastUpdate_Achievements": "2023-05-25T03:02:36.6504592+00:00"
+  "LastUpdate_Ratings": "2023-05-25T03:57:14.2579261+00:00",
+  "LastUpdate_Achievements": "2023-05-25T04:03:21.581487+00:00"
 }

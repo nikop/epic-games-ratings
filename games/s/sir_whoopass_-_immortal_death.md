@@ -17,8 +17,8 @@
 | Rolling, Rolling, Rolling | 70.00% | ~40 |
 | Fire-fighter! | 61.00% | ~35 |
 | Oh, you're up to no gouda! | 60.00% | ~34 |
-| Make Love not War-Craft a Mistlefoe | 58.00% | ~33 |
-| Meat grinder | 53.00% | ~30 |
+| Make Love not War-Craft a Mistlefoe | 60.00% | ~34 |
+| Meat grinder | 54.00% | ~31 |
 | Butcher | 47.00% | ~27 |
 | You're not going to blow me up! | 47.00% | ~27 |
 | Mushroom soup of the day | 46.00% | ~26 |

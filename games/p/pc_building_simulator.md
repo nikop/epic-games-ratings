@@ -6,20 +6,20 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 48.00% | ~1,681,885 |
-| Easy to forget | 46.00% | ~1,611,807 |
-| Back in the black | 38.00% | ~1,331,493 |
-| That's what I'm talking about | 28.00% | ~981,100 |
-| The Best of Both Worlds | 24.00% | ~840,943 |
-| Get your wings | 20.00% | ~700,786 |
-| Double trouble | 15.00% | ~525,589 |
-| Smashing it | 10.00% | ~350,393 |
+| You need to plug it in... | 48.00% | ~1,681,890 |
+| Easy to forget | 46.00% | ~1,611,811 |
+| Back in the black | 38.00% | ~1,331,496 |
+| That's what I'm talking about | 28.00% | ~981,103 |
+| The Best of Both Worlds | 24.00% | ~840,945 |
+| Get your wings | 20.00% | ~700,788 |
+| Double trouble | 15.00% | ~525,591 |
+| Smashing it | 10.00% | ~350,394 |
 | But can it run Crysis? | 9.00% | ~315,354 |
 | My favourite feature... | 9.00% | ~315,354 |
-| From humble beginnings... | 7.00% | ~245,275 |
-| Customer satisfaction | 7.00% | ~245,275 |
-| Keeping things neat | 4.00% | ~140,157 |
-| Seems you're pretty good at this | 4.00% | ~140,157 |
+| From humble beginnings... | 7.00% | ~245,276 |
+| Customer satisfaction | 7.00% | ~245,276 |
+| Keeping things neat | 4.00% | ~140,158 |
+| Seems you're pretty good at this | 4.00% | ~140,158 |
 | Triple threat | 3.00% | ~105,118 |
 | You rock at this! | 3.00% | ~105,118 |
 | Your music sucks | 3.00% | ~105,118 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,504 |
 | Treat yourself - GPU | 0.10% | ~3,504 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,503,928 (Ranked 4)  
+Progressed: 3,503,938 (Ranked 4)  
 Completed: 23 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 23 (0.00%) (Ranked 202)
 | 2023-05-22 | 3,502,755 | 22 |
 | 2023-05-23 | 3,503,303 | 22 |
 | 2023-05-24 | 3,503,846 | 23 |
-| 2023-05-25 | 3,503,928 | 23 |
+| 2023-05-25 | 3,503,938 | 23 |
 ## Awards
 Max (Great for Beginners): 1,042  (Ranked 132)  
 Sum: 7,770 (Ranked 94)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 983,
+  "EOS_Progressed": 984,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -223,6 +223,11 @@
       "Time": "2023-05-25T03:05:34.0963599+00:00",
       "NumProgressed": 983,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T04:06:36.5916904+00:00",
+      "NumProgressed": 984,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -242,7 +247,7 @@
       "Name": "Try them all",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ALLMODULESA",
@@ -250,7 +255,7 @@
       "Name": "A-mazing!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ALLMODULESB",
@@ -282,7 +287,7 @@
       "Name": "To infinity and gravity!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ALLTRACKSCAIRO",
@@ -290,7 +295,7 @@
       "Name": "Walked like an Egyptian",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ALLTRACKSCLOUD",
@@ -306,7 +311,7 @@
       "Name": "Ride in the rising sun",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ALLTRACKSGENESIS",
@@ -314,7 +319,7 @@
       "Name": "One giant drive for mankind",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ALLTRACKSMARIANA",
@@ -338,7 +343,7 @@
       "Name": "To the core",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ALLTRACKSTOKYO",
@@ -410,7 +415,7 @@
       "Name": "Had to sweat a bit",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "CAREERTRIALSB",
@@ -434,7 +439,7 @@
       "Name": "[Sweats profusely]",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "CHAMPION",
@@ -458,7 +463,7 @@
       "Name": "Blurred photofinish",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "FINISHSOUND",
@@ -634,7 +639,7 @@
       "Name": "Healthy competition",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "WINPOLE",
@@ -649,7 +654,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 983,
+      "Progressed": 984,
       "Completed": 0
     }
   ],
@@ -657,8 +662,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-05-25T03:05:34.0963593+00:00",
+  "LastChanged_Achievements": "2023-05-25T04:06:36.5916896+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:42.1539132+00:00",
-  "LastUpdate_Ratings": "2023-05-25T02:58:02.3406523+00:00",
-  "LastUpdate_Achievements": "2023-05-25T03:05:34.0963955+00:00"
+  "LastUpdate_Ratings": "2023-05-25T03:58:16.8585666+00:00",
+  "LastUpdate_Achievements": "2023-05-25T04:06:36.5917672+00:00"
 }

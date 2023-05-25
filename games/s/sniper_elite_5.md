@@ -18,18 +18,18 @@ Rating: 4.37 (Ranked 705)
 | Just a Flesh Wound | 3.00% | ~41 |
 | As Quiet as a Mouse | 3.00% | ~41 |
 | Taking it back | 3.00% | ~41 |
-| Liberté | 2.00% | ~27 |
-| Opposing Force | 2.00% | ~27 |
-| Fields of Glory | 2.00% | ~27 |
-| Gunslinger | 2.00% | ~27 |
-| Sharpshooter | 2.00% | ~27 |
-| Precision Is Key | 2.00% | ~27 |
-| Die Nussknacker Sweet! | 2.00% | ~27 |
-| Der Geist | 2.00% | ~27 |
-| Close Quarters | 2.00% | ~27 |
-| Snake in the Grass | 2.00% | ~27 |
-| Target America | 2.00% | ~27 |
-| The Kraken Sleeps | 2.00% | ~27 |
+| Liberté | 2.00% | ~28 |
+| Opposing Force | 2.00% | ~28 |
+| Fields of Glory | 2.00% | ~28 |
+| Gunslinger | 2.00% | ~28 |
+| Sharpshooter | 2.00% | ~28 |
+| Precision Is Key | 2.00% | ~28 |
+| Die Nussknacker Sweet! | 2.00% | ~28 |
+| Der Geist | 2.00% | ~28 |
+| Close Quarters | 2.00% | ~28 |
+| Snake in the Grass | 2.00% | ~28 |
+| Target America | 2.00% | ~28 |
+| The Kraken Sleeps | 2.00% | ~28 |
 | Climbing the Ladder | 1.00% | ~14 |
 | Skirmisher | 1.00% | ~14 |
 | Set Europe Ablaze | 1.00% | ~14 |
@@ -40,8 +40,8 @@ Rating: 4.37 (Ranked 705)
 | My Little Friend | 0.70% | ~10 |
 | It'll Buff Right Out | 0.50% | ~7 |
 | Operation Foxley | 0.50% | ~7 |
-| Strategist | 0.40% | ~5 |
-| Locomotion Commotion | 0.40% | ~5 |
+| Strategist | 0.40% | ~6 |
+| Locomotion Commotion | 0.40% | ~6 |
 | Herr Today, Gone Tomorrow | 0.40% | ~5 |
 | Last Resort | 0.40% | ~5 |
 | Ghost of Falaise | 0.40% | ~5 |
@@ -77,7 +77,7 @@ Rating: 4.37 (Ranked 705)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,373 (Ranked 157)  
+Progressed: 1,375 (Ranked 157)  
 Completed: 2 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 2 (0.15%) (Ranked 148)
 | 2023-05-22 | 1,233 | 2 |
 | 2023-05-23 | 1,294 | 2 |
 | 2023-05-24 | 1,365 | 2 |
-| 2023-05-25 | 1,373 | 2 |
+| 2023-05-25 | 1,375 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,32 +1,32 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.65 (Ranked 290)  
+Rating: 4.65 (Ranked 289)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | On Deceive Inc.'s Secret Service | 64.00% | ~3,946 |
 | Tomorrow Never Dyes | 47.00% | ~2,898 |
-| Mainframe Hacker | 45.00% | ~2,774 |
-| The Spy who eliminated me | 45.00% | ~2,774 |
+| Mainframe Hacker | 45.00% | ~2,775 |
+| The Spy who eliminated me | 45.00% | ~2,775 |
 | Never Say Loser Again | 41.00% | ~2,528 |
-| For your Eyes only | 39.00% | ~2,404 |
+| For your Eyes only | 39.00% | ~2,405 |
 | Tailor-Made | 38.00% | ~2,343 |
-| From the Vault with Love | 36.00% | ~2,219 |
-| Fully Decked Out | 36.00% | ~2,219 |
+| From the Vault with Love | 36.00% | ~2,220 |
+| Fully Decked Out | 36.00% | ~2,220 |
 | You Only Live Twice | 31.00% | ~1,911 |
 | A view to Win | 28.00% | ~1,726 |
 | Smells Like Trouble | 26.00% | ~1,603 |
-| Private Collection | 25.00% | ~1,541 |
-| Killer Looks | 25.00% | ~1,541 |
-| Hostile Takeover | 25.00% | ~1,541 |
+| Private Collection | 25.00% | ~1,542 |
+| Killer Looks | 25.00% | ~1,542 |
+| Hostile Takeover | 25.00% | ~1,542 |
 | Assistant Accountant | 24.00% | ~1,480 |
 | In It to Win It | 24.00% | ~1,480 |
 | Dr. No Kill | 24.00% | ~1,480 |
 | The Living Portrait | 24.00% | ~1,480 |
 | My Motto, My Creed | 24.00% | ~1,480 |
 | Keycards Royale | 23.00% | ~1,418 |
-| Security Supervisor | 10.00% | ~616 |
+| Security Supervisor | 10.00% | ~617 |
 | License to Thrill | 8.00% | ~493 |
 | Social of Solace | 8.00% | ~493 |
 | Safe Withdrawal | 6.00% | ~370 |
@@ -42,7 +42,7 @@ Rating: 4.65 (Ranked 290)
 | Extraction Confusion | 0.30% | ~18 |
 | Spyfall | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,165 (Ranked 116)  
+Progressed: 6,166 (Ranked 116)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-22 | 6,028 | 0 |
 | 2023-05-23 | 6,078 | 0 |
 | 2023-05-24 | 6,152 | 0 |
-| 2023-05-25 | 6,165 | 0 |
+| 2023-05-25 | 6,166 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

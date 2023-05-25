@@ -8,9 +8,9 @@
 | Read Between The Lines | 64.00% | ~145 |
 | High Profile | 60.00% | ~136 |
 | Whispers In The Dark | 58.00% | ~131 |
-| Fond Memories | 50.00% | ~113 |
-| History Check | 48.00% | ~108 |
-| A Method To His Madness | 48.00% | ~108 |
+| Fond Memories | 51.00% | ~115 |
+| History Check | 49.00% | ~111 |
+| A Method To His Madness | 49.00% | ~111 |
 | The New World | 46.00% | ~104 |
 | Lock, Stock, And Barrel | 44.00% | ~99 |
 | Gaze Into The Abyss | 44.00% | ~99 |

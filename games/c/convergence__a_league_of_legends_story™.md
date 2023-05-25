@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 91.00% | ~234 |
-| Rail Rat | 69.00% | ~177 |
-| The Mysterious Stranger | 65.00% | ~167 |
-| Immaculate Aim | 46.00% | ~118 |
-| Right On Time | 37.00% | ~95 |
+| Time Heals All Wounds | 92.00% | ~237 |
+| Rail Rat | 71.00% | ~183 |
+| The Mysterious Stranger | 67.00% | ~173 |
+| Immaculate Aim | 47.00% | ~121 |
+| Right On Time | 38.00% | ~98 |
 | The Brass Boss | 37.00% | ~95 |
-| No, Thanks! | 35.00% | ~90 |
-| Honest Mistake | 34.00% | ~87 |
-| Time Flies | 30.00% | ~77 |
+| No, Thanks! | 36.00% | ~93 |
+| Honest Mistake | 35.00% | ~90 |
+| Time Flies | 31.00% | ~80 |
+| The Harder They Fall | 29.00% | ~75 |
 | Fast Learner | 29.00% | ~75 |
-| The Harder They Fall | 28.00% | ~72 |
-| The Prince in Heels | 26.00% | ~67 |
+| The Prince in Heels | 28.00% | ~72 |
+| Breaking Down Barriers | 26.00% | ~67 |
+| Immaculate Aim | 25.00% | ~64 |
 | Make Up For Lost Time | 24.00% | ~62 |
-| Breaking Down Barriers | 24.00% | ~62 |
-| Immaculate Aim | 24.00% | ~62 |
 | Family Memories | 21.00% | ~54 |
-| Good Neighbor | 18.00% | ~46 |
-| The Steel Shadow | 17.00% | ~44 |
+| Good Neighbor | 19.00% | ~49 |
+| The Steel Shadow | 18.00% | ~46 |
 | Golem Chaser | 17.00% | ~44 |
 | Like Clockwork | 15.00% | ~39 |
 | The Wicked Twins | 11.00% | ~28 |
@@ -38,12 +38,12 @@
 | The Family Fortune | 5.00% | ~13 |
 | Chaincrawler Explorer | 4.00% | ~10 |
 | Clovemary for Remembering | 4.00% | ~10 |
-| Fairgrounds Explorer | 4.00% | ~10 |
 | The Man Who Shattered Time | 4.00% | ~10 |
+| Sartorialist | 3.00% | ~8 |
+| Fairgrounds Explorer | 3.00% | ~8 |
 | Rungs Was Right | 3.00% | ~8 |
 | Theater Explorer | 3.00% | ~8 |
 | Corin Goes Home | 2.00% | ~5 |
-| Sartorialist | 2.00% | ~5 |
 | Cultivair Explorer | 2.00% | ~5 |
 | Entresol Explorer | 2.00% | ~5 |
 | Golem Hunter | 2.00% | ~5 |
@@ -58,11 +58,11 @@
 | Going to Live Forever | 0.00% | ~0 |
 | Raw Talent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 257 (Ranked 223)  
+Progressed: 258 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-23 | 34 | 0 |
 | 2023-05-24 | 238 | 0 |
-| 2023-05-25 | 257 | 0 |
+| 2023-05-25 | 258 | 0 |

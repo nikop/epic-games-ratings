@@ -2,7 +2,7 @@
   "ID": "213259527d2f41baa90cbe0ae5555271",
   "Name": "Dungeons 3",
   "ProductSlug": "dungeons-3",
-  "Ranking_Rating": 290,
+  "Ranking_Rating": 289,
   "Ranking_Popularity": 219,
   "Ranking_PopularitySum": 165,
   "Ranking_EOS_Progress": 96,
@@ -2062,9 +2062,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 17463,
+  "EOS_Progressed": 17464,
   "EOS_Completed": 156,
-  "EOS_NewPlayers": 1054,
+  "EOS_NewPlayers": 1052,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
@@ -5402,6 +5402,11 @@
       "Time": "2023-05-25T03:03:40.3513835+00:00",
       "NumProgressed": 17463,
       "NumCompleted": 156
+    },
+    {
+      "Time": "2023-05-25T04:04:09.2802189+00:00",
+      "NumProgressed": 17464,
+      "NumCompleted": 156
     }
   ],
   "TotalAchievements": 60,
@@ -5413,7 +5418,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 10303
+      "UsersEstimate": 10304
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -5429,7 +5434,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 10303
+      "UsersEstimate": 10304
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -5477,7 +5482,7 @@
       "Name": "Difficult family relationships",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 4540
+      "UsersEstimate": 4541
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_1",
@@ -5509,7 +5514,7 @@
       "Name": "The Stones\u2019 Power",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 3143
+      "UsersEstimate": 3144
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_2",
@@ -5525,7 +5530,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 8906
+      "UsersEstimate": 8907
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -5581,7 +5586,7 @@
       "Name": "Prepare the grave",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 4540
+      "UsersEstimate": 4541
     },
     {
       "ID": "ACH_D3_Campaign_Fire_2",
@@ -5597,7 +5602,7 @@
       "Name": "Angel of Fire",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 4540
+      "UsersEstimate": 4541
     },
     {
       "ID": "ACH_D3_Campaign_Graves_1",
@@ -5621,7 +5626,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 7858
+      "UsersEstimate": 7859
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -5629,7 +5634,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 7334
+      "UsersEstimate": 7335
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -5645,7 +5650,7 @@
       "Name": "Rusty Steel",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 7334
+      "UsersEstimate": 7335
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -5653,7 +5658,7 @@
       "Name": "Thirst quencher",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 5064
+      "UsersEstimate": 5065
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_2",
@@ -5669,7 +5674,7 @@
       "Name": "Ogre Solo!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 5064
+      "UsersEstimate": 5065
     },
     {
       "ID": "ACH_D3_Campaign_Infested_1",
@@ -5725,7 +5730,7 @@
       "Name": "Flat as a pancake",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 3143
+      "UsersEstimate": 3144
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_2",
@@ -5805,7 +5810,7 @@
       "Name": "Shadow hunter",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 5064
+      "UsersEstimate": 5065
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -5813,7 +5818,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 12224
+      "UsersEstimate": 12225
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -5892,15 +5897,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 17463,
+      "Progressed": 17464,
       "Completed": 156
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-05-23T17:59:04.6642769+00:00",
-  "LastChanged_Achievements": "2023-05-25T03:03:40.351383+00:00",
+  "LastChanged_Achievements": "2023-05-25T04:04:09.2802181+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:24.9884893+00:00",
-  "LastUpdate_Ratings": "2023-05-25T02:58:53.2617497+00:00",
-  "LastUpdate_Achievements": "2023-05-25T03:03:40.3514448+00:00"
+  "LastUpdate_Ratings": "2023-05-25T03:59:32.13684+00:00",
+  "LastUpdate_Achievements": "2023-05-25T04:04:09.2803493+00:00"
 }
