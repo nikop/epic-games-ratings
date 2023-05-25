@@ -5,7 +5,7 @@
 | [Old World](../games/o/old_world.md) | 285 | 2,940 |
 | [Cities: Skylines](../games/c/cities__skylines.md) | 119 | 2,580 |
 | [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 493 | 2,465 |
-| [](../games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 75 | 1,655 |
+| [Fallout: New Vegas](../games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 75 | 1,655 |
 | [Sniper Elite 5](../games/s/sniper_elite_5.md) | 68 | 1,550 |
 | [Alan Wake Remastered](../games/a/alan_wake_remastered.md) | 67 | 1,500 |
 | [The Callisto Protocol](../games/t/the_callisto_protocol.md) | 40 | 1,500 |
@@ -168,7 +168,6 @@
 | [Galactic Civilizations IV](../games/g/galactic_civilizations_iv.md) | 72 | 1,000 |
 | [Gamedec - Definitive Edition](../games/g/gamedec_-_definitive_edition.md) | 52 | 1,000 |
 | [Garden In](../games/g/garden_in.md) | 31 | 1,000 |
-| [GeoJelly](../games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 5 | 1,000 |
 | [Get Together: A Coop Adventure](../games/g/get_together__a_coop_adventure.md) | 10 | 1,000 |
 | [Ghostbusters: Spirits Unleashed](../games/g/ghostbusters__spirits_unleashed.md) | 51 | 1,000 |
 | [Gigapocalypse](../games/g/gigapocalypse.md) | 53 | 1,000 |
