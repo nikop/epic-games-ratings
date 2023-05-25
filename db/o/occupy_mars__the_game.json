@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -64,9 +64,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 899,
+  "EOS_Progressed": 900,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 680,
+  "EOS_NewPlayers": 653,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -799,6 +799,11 @@
       "Time": "2023-05-25T19:02:17.7797073+00:00",
       "NumProgressed": 899,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T20:02:19.3183427+00:00",
+      "NumProgressed": 900,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -984,9 +989,9 @@
       "ID": "NEW_ACHIEVEMENT_ELECTRICIAN",
       "SetID": "l546gc",
       "Name": "Electrician",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 279
+      "UsersEstimate": 288
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -1000,9 +1005,9 @@
       "ID": "NEW_ACHIEVEMENT_GARDENER",
       "SetID": "l546gc",
       "Name": "Gardener",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 162
     },
     {
       "ID": "NEW_ACHIEVEMENT_GET_HANDS_DIRTY",
@@ -1056,9 +1061,9 @@
       "ID": "NEW_ACHIEVEMENT_MINER",
       "SetID": "l546gc",
       "Name": "Miner",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 162
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -1168,9 +1173,9 @@
       "ID": "NEW_ACHIEVEMENT_THE_BUILDER",
       "SetID": "l546gc",
       "Name": "Bob The Builder",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 216
+      "UsersEstimate": 225
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -1193,7 +1198,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 899,
+      "Progressed": 900,
       "Completed": 0
     }
   ],
@@ -1201,8 +1206,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-05-24T23:57:37.6552922+00:00",
-  "LastChanged_Achievements": "2023-05-25T19:02:17.7797067+00:00",
+  "LastChanged_Achievements": "2023-05-25T20:02:19.3183423+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:55.9692167+00:00",
-  "LastUpdate_Ratings": "2023-05-25T18:57:35.0299678+00:00",
-  "LastUpdate_Achievements": "2023-05-25T19:02:17.7797528+00:00"
+  "LastUpdate_Ratings": "2023-05-25T19:57:24.4076892+00:00",
+  "LastUpdate_Achievements": "2023-05-25T20:02:19.3183774+00:00"
 }

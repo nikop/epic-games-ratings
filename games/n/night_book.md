@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | Will This Help? | 72.00% | ~133 |
 | No One Is Safe | 64.00% | ~118 |
-| Career Woman | 61.00% | ~113 |
+| Career Woman | 62.00% | ~115 |
 | He's Off His Meds | 54.00% | ~100 |
 | Personal Life | 49.00% | ~91 |
 | Deal Or No Deal | 48.00% | ~89 |
-| Impress Theron | 43.00% | ~80 |
+| Impress Theron | 44.00% | ~81 |
 | On Your Bike | 30.00% | ~56 |
 | Save Dad | 20.00% | ~37 |
 | A Little Extra | 14.00% | ~26 |

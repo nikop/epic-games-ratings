@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | Pooshed Past 2500 | 74.00% | ~70 |
 | Destroyed 25 Obstacles | 48.00% | ~46 |
+| Obtained 50 PowerUps | 48.00% | ~46 |
 | Pooshed over 250000 | 48.00% | ~46 |
-| Obtained 50 PowerUps | 47.00% | ~45 |
 | Pooshed Past 5000 | 24.00% | ~23 |
 | Terrible Start | 19.00% | ~18 |
 | Pooshed Past 7500 | 8.00% | ~8 |
@@ -25,7 +25,7 @@
 | Challenge 11 | 0.00% | ~0 |
 | Challenge 12 | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95 (Ranked 263)  
+Progressed: 95 (Ranked 264)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |

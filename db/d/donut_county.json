@@ -2,7 +2,7 @@
   "ID": "kestrel",
   "Name": "Donut County",
   "ProductSlug": "donut-county",
-  "Ranking_EOS_Progress": 419,
+  "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 84,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:19.9799364+00:00",
   "LastChanged": "2023-03-31T05:57:19.9799365+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:39.7182142+00:00",
-  "LastUpdate_Ratings": "2023-05-25T19:00:55.7874698+00:00",
-  "LastUpdate_Achievements": "2023-05-25T19:05:53.5173108+00:00"
+  "LastUpdate_Ratings": "2023-05-25T20:00:45.8208427+00:00",
+  "LastUpdate_Achievements": "2023-05-25T20:05:34.9727644+00:00"
 }

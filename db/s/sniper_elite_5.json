@@ -206,7 +206,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1422,
+  "EOS_Progressed": 1424,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 685,
   "EOS_NewCompleters": 0,
@@ -1386,6 +1386,11 @@
       "Time": "2023-05-25T19:06:22.1321618+00:00",
       "NumProgressed": 1422,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-25T20:06:02.4125607+00:00",
+      "NumProgressed": 1424,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1523,9 +1528,9 @@
       "ID": "REWARD_25_SKIRMISHER",
       "SetID": "bm6el81",
       "Name": "Skirmisher",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 28
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -1563,9 +1568,9 @@
       "ID": "REWARD_2_GATHERING_INTEL",
       "SetID": "bm6el81",
       "Name": "Confirming Suspicions",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 185
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1885,7 +1890,7 @@
       "Name": "Last Resort",
       "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -1893,7 +1898,7 @@
       "Name": "Siegebreaker",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -1964,13 +1969,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1373,
+      "Progressed": 1375,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1422,
+      "Progressed": 1424,
       "Completed": 2
     }
   ],
@@ -1978,8 +1983,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-25T14:00:05.6295104+00:00",
-  "LastChanged_Achievements": "2023-05-25T19:06:22.1321615+00:00",
+  "LastChanged_Achievements": "2023-05-25T20:06:02.4125602+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-25T19:00:59.6470586+00:00",
-  "LastUpdate_Achievements": "2023-05-25T19:06:22.1322536+00:00"
+  "LastUpdate_Ratings": "2023-05-25T20:00:49.7964779+00:00",
+  "LastUpdate_Achievements": "2023-05-25T20:06:02.4126194+00:00"
 }

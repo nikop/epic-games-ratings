@@ -6,26 +6,26 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 74.00% | ~1,900 |
-| Ready for Winter | 63.00% | ~1,618 |
-| Ready for Summer | 51.00% | ~1,310 |
-| Cordon Bleu | 43.00% | ~1,104 |
-| Tapped! | 35.00% | ~899 |
-| Eureka | 31.00% | ~796 |
-| Scourge Slayer | 25.00% | ~642 |
-| Science, Troglodyte! | 23.00% | ~591 |
-| Exceptional Skill | 22.00% | ~565 |
-| Home Sweet Home | 22.00% | ~565 |
-| Encyclopedic! | 19.00% | ~488 |
-| A Fortress Toppled! | 16.00% | ~411 |
-| Apex Predator | 15.00% | ~385 |
-| The Power of Family | 15.00% | ~385 |
-| Strange amalgams | 12.00% | ~308 |
-| The Power of Faith | 12.00% | ~308 |
-| The Power of Freedom | 9.00% | ~231 |
-| Ace Detective | 8.00% | ~205 |
-| Gift from the Ancestors | 8.00% | ~205 |
-| Magic is a science | 8.00% | ~205 |
+| Venture Outward | 74.00% | ~1,904 |
+| Ready for Winter | 63.00% | ~1,621 |
+| Ready for Summer | 50.00% | ~1,286 |
+| Cordon Bleu | 43.00% | ~1,106 |
+| Tapped! | 35.00% | ~901 |
+| Eureka | 31.00% | ~798 |
+| Scourge Slayer | 25.00% | ~643 |
+| Science, Troglodyte! | 23.00% | ~592 |
+| Exceptional Skill | 22.00% | ~566 |
+| Home Sweet Home | 21.00% | ~540 |
+| Encyclopedic! | 19.00% | ~489 |
+| A Fortress Toppled! | 16.00% | ~412 |
+| Apex Predator | 15.00% | ~386 |
+| The Power of Family | 15.00% | ~386 |
+| Strange amalgams | 12.00% | ~309 |
+| The Power of Faith | 12.00% | ~309 |
+| The Power of Freedom | 9.00% | ~232 |
+| Ace Detective | 8.00% | ~206 |
+| Gift from the Ancestors | 8.00% | ~206 |
+| Magic is a science | 8.00% | ~206 |
 | House of Cards | 7.00% | ~180 |
 | Let ‘em eat magma! | 7.00% | ~180 |
 | The power of ambition | 7.00% | ~180 |
@@ -45,11 +45,11 @@ Number of Ratings: 266  (23.09.2022)
 | They'll Tell Stories About This | 1.00% | ~26 |
 | Vanquisher of nightmares | 1.00% | ~26 |
 | Through fire and flame. | 0.70% | ~18 |
-| Legacy of a master hunter | 0.40% | ~10 |
-| Master of Aurai | 0.40% | ~10 |
+| Legacy of a master hunter | 0.30% | ~8 |
+| Master of Aurai | 0.30% | ~8 |
 | The Absolute Pinnacle. | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,568 (Ranked 139)  
+Progressed: 2,573 (Ranked 139)  
 Completed: 1 (0.04%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 1 (0.04%) (Ranked 177)
 | 2023-05-22 | 2,518 | 1 |
 | 2023-05-23 | 2,537 | 1 |
 | 2023-05-24 | 2,556 | 1 |
-| 2023-05-25 | 2,568 | 1 |
+| 2023-05-25 | 2,573 | 1 |
 ## Awards
 Max (Amazing Characters): 31  (Ranked 441)  
 Sum: 238 (Ranked 343)  

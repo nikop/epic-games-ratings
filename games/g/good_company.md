@@ -6,7 +6,7 @@ Number of Ratings: 75  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 49.00% | ~2,368 |
+| Level: Returning Home | 49.00% | ~2,369 |
 | Returning Home: Quick Learner | 25.00% | ~1,208 |
 | Level: Charlie's Circuits | 22.00% | ~1,063 |
 | Level: Rising Markets | 9.00% | ~435 |
@@ -42,7 +42,7 @@ Number of Ratings: 75  (23.09.2022)
 | Entrepreneur | 1.00% | ~48 |
 | Data Churn Type IV | 1.00% | ~48 |
 | Keen Eye | 1.00% | ~48 |
-| Level: Topple The Top | 0.90% | ~43 |
+| Level: Topple The Top | 0.90% | ~44 |
 | Bet On Bots: Safety First | 0.80% | ~39 |
 | Tycoon | 0.80% | ~39 |
 | Level: Eye In The Sky | 0.60% | ~29 |
@@ -53,11 +53,11 @@ Number of Ratings: 75  (23.09.2022)
 | CEO | 0.50% | ~24 |
 | Campaign: Man vs. Machine | 0.40% | ~19 |
 | Rockstar | 0.40% | ~19 |
-| A Happy Taskforce: Interior Designer | 0.30% | ~14 |
-| The Machinery: Goal Orientated | 0.30% | ~14 |
-| The Machinery: Energy Saver | 0.30% | ~14 |
-| Super Rich | 0.30% | ~14 |
-| Fully Packed | 0.30% | ~14 |
+| A Happy Taskforce: Interior Designer | 0.30% | ~15 |
+| The Machinery: Goal Orientated | 0.30% | ~15 |
+| The Machinery: Energy Saver | 0.30% | ~15 |
+| Super Rich | 0.30% | ~15 |
+| Fully Packed | 0.30% | ~15 |
 | Champion | 0.20% | ~10 |
 | Trophy Hoarder | 0.20% | ~10 |
 | Happy Hour | 0.20% | ~10 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,833 (Ranked 126)  
+Progressed: 4,834 (Ranked 126)  
 Completed: 1 (0.02%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 1 (0.02%) (Ranked 187)
 | 2023-05-22 | 4,812 | 1 |
 | 2023-05-23 | 4,821 | 1 |
 | 2023-05-24 | 4,828 | 1 |
-| 2023-05-25 | 4,833 | 1 |
+| 2023-05-25 | 4,834 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

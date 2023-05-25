@@ -2,7 +2,7 @@
   "ID": "b0558db0e2c741a69e83c0106b62ac85",
   "Name": "Expeditions: Viking",
   "ProductSlug": "expeditions-viking",
-  "Ranking_EOS_Progress": 419,
+  "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 84,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:28.7031259+00:00",
   "LastChanged": "2023-03-31T05:58:28.703126+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:04.3868686+00:00",
-  "LastUpdate_Ratings": "2023-05-25T18:57:44.2965618+00:00",
-  "LastUpdate_Achievements": "2023-05-25T19:01:11.2283398+00:00"
+  "LastUpdate_Ratings": "2023-05-25T19:57:35.0633457+00:00",
+  "LastUpdate_Achievements": "2023-05-25T20:01:03.5800191+00:00"
 }

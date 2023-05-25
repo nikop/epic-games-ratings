@@ -95,17 +95,17 @@
       "ID": "Cat",
       "SetID": "9kk0gal",
       "Name": "Cat",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 60,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "Cellar",
       "SetID": "9kk0gal",
       "Name": "Glass shards",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "DogHair",
@@ -279,9 +279,9 @@
       "ID": "Well",
       "SetID": "9kk0gal",
       "Name": "Depths of the well",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "Windmill",
@@ -304,8 +304,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-05-25T19:06:43.5624328+00:00",
+  "LastChanged_Achievements": "2023-05-25T20:06:23.7436792+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:12:13.9596608+00:00",
-  "LastUpdate_Ratings": "2023-05-25T19:00:32.384783+00:00",
-  "LastUpdate_Achievements": "2023-05-25T19:06:43.5624484+00:00"
+  "LastUpdate_Ratings": "2023-05-25T20:00:19.301258+00:00",
+  "LastUpdate_Achievements": "2023-05-25T20:06:23.7436947+00:00"
 }

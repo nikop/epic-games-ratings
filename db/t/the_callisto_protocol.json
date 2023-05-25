@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -428,10 +428,10 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13592,
+  "EOS_Progressed": 13596,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 1009,
-  "EOS_NewCompleters": 2,
+  "EOS_NewPlayers": 1003,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
     {
@@ -1548,6 +1548,11 @@
       "Time": "2023-05-25T19:03:58.181786+00:00",
       "NumProgressed": 13592,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-05-25T20:03:39.1080845+00:00",
+      "NumProgressed": 13596,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 40,
@@ -1581,9 +1586,9 @@
       "ID": "BUY_ALL_WEAPONS",
       "SetID": "4hj6d86",
       "Name": "You Need a Gun",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 82
+      "UsersEstimate": 95
     },
     {
       "ID": "DISARM_ENEMY",
@@ -1805,9 +1810,9 @@
       "ID": "STORY_TOWER",
       "SetID": "4hj6d86",
       "Name": "Full Circle",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 82
     },
     {
       "ID": "STORY_TUNNELS",
@@ -1878,13 +1883,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13592,
+      "Progressed": 13596,
       "Completed": 52
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1518,
+      "Progressed": 1522,
       "Completed": 29
     }
   ],
@@ -1892,8 +1897,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-23T19:57:59.4143533+00:00",
-  "LastChanged_Achievements": "2023-05-25T19:03:58.1817852+00:00",
+  "LastChanged_Achievements": "2023-05-25T20:03:39.1080839+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-25T18:58:01.9346615+00:00",
-  "LastUpdate_Achievements": "2023-05-25T19:03:58.1818173+00:00"
+  "LastUpdate_Ratings": "2023-05-25T19:57:52.3822445+00:00",
+  "LastUpdate_Achievements": "2023-05-25T20:03:39.1081137+00:00"
 }

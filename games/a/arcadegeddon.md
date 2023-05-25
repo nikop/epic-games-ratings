@@ -6,21 +6,21 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 91.00% | ~6,093 |
-| Photogenic | 88.00% | ~5,892 |
+| Let's Get This Party Started | 91.00% | ~6,094 |
+| Photogenic | 88.00% | ~5,893 |
 | Surge Gauntlet Jockey | 85.00% | ~5,692 |
 | Plug It In | 84.00% | ~5,625 |
-| Adventure Time | 80.00% | ~5,357 |
-| Playing With Power | 77.00% | ~5,156 |
+| Adventure Time | 80.00% | ~5,358 |
+| Playing With Power | 77.00% | ~5,157 |
 | Coup d'Etat | 58.00% | ~3,884 |
 | You're Fired | 58.00% | ~3,884 |
 | Get Furious | 55.00% | ~3,683 |
 | Gunplay And Cosplay | 55.00% | ~3,683 |
 | Hacks In Stacks | 54.00% | ~3,616 |
-| Meching Enemies | 48.00% | ~3,214 |
-| Ticket Toddler | 46.00% | ~3,080 |
-| Booty Bashing | 45.00% | ~3,013 |
-| Here Comes a New Challenger | 38.00% | ~2,544 |
+| Meching Enemies | 48.00% | ~3,215 |
+| Ticket Toddler | 46.00% | ~3,081 |
+| Booty Bashing | 45.00% | ~3,014 |
+| Here Comes a New Challenger | 38.00% | ~2,545 |
 | Field Medic | 37.00% | ~2,478 |
 | Rapid Response | 33.00% | ~2,210 |
 | Guardian Angel | 32.00% | ~2,143 |
@@ -29,10 +29,10 @@ Number of Ratings: 801  (23.09.2022)
 | Poppin Noggins | 25.00% | ~1,674 |
 | Clips and Crits | 22.00% | ~1,473 |
 | Grey Goo | 20.00% | ~1,339 |
-| Boss of Bosses | 15.00% | ~1,004 |
-| The Final Blow | 15.00% | ~1,004 |
-| Light My Fire | 13.00% | ~870 |
-| Seasoned Adventurer | 13.00% | ~870 |
+| Boss of Bosses | 15.00% | ~1,005 |
+| The Final Blow | 15.00% | ~1,005 |
+| Light My Fire | 13.00% | ~871 |
+| Seasoned Adventurer | 13.00% | ~871 |
 | 1.21 Gigawatts | 12.00% | ~804 |
 | To Be Continued | 12.00% | ~804 |
 | This Is My Boomstick! | 11.00% | ~737 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.50% | ~33 |
 | Pyrotechnical | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,696 (Ranked 115)  
+Progressed: 6,697 (Ranked 115)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-22 | 6,614 | 0 |
 | 2023-05-23 | 6,645 | 0 |
 | 2023-05-24 | 6,676 | 0 |
-| 2023-05-25 | 6,696 | 0 |
+| 2023-05-25 | 6,697 | 0 |
 ## Awards
 Max (Relaxing): 62  (Ranked 374)  
 Sum: 484 (Ranked 292)  

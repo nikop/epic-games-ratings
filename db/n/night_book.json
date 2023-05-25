@@ -95,9 +95,9 @@
       "ID": "career_woman",
       "SetID": "a3kkelb",
       "Name": "Career Woman",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 115
     },
     {
       "ID": "deal_or_no_deal",
@@ -127,9 +127,9 @@
       "ID": "impress_theron",
       "SetID": "a3kkelb",
       "Name": "Impress Theron",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "marriage_is_off",
@@ -232,8 +232,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-05-25T19:06:11.4252333+00:00",
+  "LastChanged_Achievements": "2023-05-25T20:05:52.3884522+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:08.7260317+00:00",
-  "LastUpdate_Ratings": "2023-05-25T18:57:31.742114+00:00",
-  "LastUpdate_Achievements": "2023-05-25T19:06:11.4252433+00:00"
+  "LastUpdate_Ratings": "2023-05-25T19:57:21.0690121+00:00",
+  "LastUpdate_Achievements": "2023-05-25T20:05:52.3884617+00:00"
 }

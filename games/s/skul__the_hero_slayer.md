@@ -6,32 +6,32 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~6,876 |
-| What should I buy? | 83.00% | ~6,137 |
-| Focus! | 62.00% | ~4,584 |
-| Rescued Elder Ent | 62.00% | ~4,584 |
-| The End of the Gold Mane Knights | 46.00% | ~3,401 |
+| The Legend Begins | 93.00% | ~6,877 |
+| What should I buy? | 83.00% | ~6,138 |
+| Focus! | 62.00% | ~4,585 |
+| Rescued Elder Ent | 62.00% | ~4,585 |
+| The End of the Gold Mane Knights | 46.00% | ~3,402 |
 | Rules of Etiquette | 39.00% | ~2,884 |
 | False Goddess, Disappear | 38.00% | ~2,810 |
 | Quick Movements | 33.00% | ~2,440 |
 | Inventory Management | 33.00% | ~2,440 |
-| The Fall of the Leonia Order | 29.00% | ~2,144 |
-| The Hero Killer | 27.00% | ~1,996 |
-| Go Home... | 26.00% | ~1,922 |
-| The Final Battle of the First Hero | 25.00% | ~1,848 |
+| The Fall of the Leonia Order | 29.00% | ~2,145 |
+| The Hero Killer | 27.00% | ~1,997 |
+| Go Home... | 26.00% | ~1,923 |
+| The Final Battle of the First Hero | 25.00% | ~1,849 |
 | Brain at Full Throttle | 22.00% | ~1,627 |
 | Rookies Welcome | 20.00% | ~1,479 |
 | Deadly Power | 15.00% | ~1,109 |
 | Castle Restoration Plans | 14.00% | ~1,035 |
 | The Dwarven Chandelier | 12.00% | ~887 |
-| Master of Speed | 9.00% | ~665 |
+| Master of Speed | 9.00% | ~666 |
 | The Levitator | 6.00% | ~444 |
 | The God of Battle | 3.00% | ~222 |
 | Too Much of a Talker | 2.00% | ~148 |
 | The Skeleton King | 2.00% | ~148 |
 | Cold-Blooded | 0.80% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,394 (Ranked 112)  
+Progressed: 7,395 (Ranked 112)  
 Completed: 11 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,7 +62,7 @@ Completed: 11 (0.15%) (Ranked 148)
 | 2023-05-22 | 7,322 | 11 |
 | 2023-05-23 | 7,347 | 11 |
 | 2023-05-24 | 7,371 | 11 |
-| 2023-05-25 | 7,394 | 11 |
+| 2023-05-25 | 7,395 | 11 |
 ## Awards
 Max (Diverse Characters): 113  (Ranked 313)  
 Sum: 753 (Ranked 254)  

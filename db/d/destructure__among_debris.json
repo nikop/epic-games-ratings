@@ -4,7 +4,7 @@
   "ProductSlug": "destructure-among-debris-b4aaf8",
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -493,9 +493,9 @@
       "ID": "back_from_the_dead",
       "SetID": "jig50d",
       "Name": "Back From The Dead",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ball_collector",
@@ -533,9 +533,9 @@
       "ID": "collector",
       "SetID": "jig50d",
       "Name": "Collector",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "detoxed",
@@ -734,8 +734,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-25T19:01:13.0985663+00:00",
+  "LastChanged_Achievements": "2023-05-25T20:01:05.4402641+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:10:10.466439+00:00",
-  "LastUpdate_Ratings": "2023-05-25T19:00:23.8858209+00:00",
-  "LastUpdate_Achievements": "2023-05-25T19:01:13.0986002+00:00"
+  "LastUpdate_Ratings": "2023-05-25T20:00:11.3347437+00:00",
+  "LastUpdate_Achievements": "2023-05-25T20:01:05.440288+00:00"
 }

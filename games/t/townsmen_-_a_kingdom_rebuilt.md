@@ -70,8 +70,8 @@ Number of Ratings: 37  (23.09.2022)
 | Reunification | 0.90% | ~37 |
 | A time consuming game V | 0.90% | ~37 |
 | Treat her well… | 0.80% | ~33 |
+| When there's fire... | 0.70% | ~29 |
 | I've been everywhere II | 0.70% | ~29 |
-| When there's fire... | 0.60% | ~25 |
 | Last man standing | 0.60% | ~25 |
 | Builder V | 0.60% | ~25 |
 | Ten-Hut! | 0.60% | ~25 |

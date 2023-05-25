@@ -6,39 +6,39 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mushroom Picker | 57.00% | ~114 |
-| Scrap Gatherer | 57.00% | ~114 |
-| My New Home | 56.00% | ~112 |
+| Scrap Gatherer | 58.00% | ~117 |
+| Mushroom Picker | 57.00% | ~115 |
+| My New Home | 56.00% | ~113 |
 | Scrapper | 50.00% | ~100 |
 | Cook | 41.00% | ~82 |
 | Teleport | 38.00% | ~76 |
 | Scrap Master | 37.00% | ~74 |
-| Smelter | 35.00% | ~70 |
+| Smelter | 34.00% | ~68 |
 | Digger | 33.00% | ~66 |
 | Electro-Scrap Gatherer | 32.00% | ~64 |
 | Robot Destroyer | 30.00% | ~60 |
 | Survivor | 30.00% | ~60 |
 | Herbalist | 27.00% | ~54 |
-| Prepper | 26.00% | ~52 |
+| Prepper | 25.00% | ~50 |
 | Lumberjack | 24.00% | ~48 |
 | Electro-Scrap Master | 23.00% | ~46 |
 | Robot Hunter | 20.00% | ~40 |
-| Advanced Survivalist | 19.00% | ~38 |
+| Advanced Survivalist | 18.00% | ~36 |
 | Master Of Technology | 16.00% | ~32 |
 | Treasure Hunter | 14.00% | ~28 |
-| Blacksmith | 10.00% | ~20 |
-| Mythical Smelter | 10.00% | ~20 |
+| Blacksmith | 9.00% | ~18 |
 | Forest Lord | 9.00% | ~18 |
-| Fuel | 9.00% | ~18 |
-| Smelting Master | 9.00% | ~18 |
-| Master Of Management | 8.00% | ~16 |
+| Mythical Smelter | 9.00% | ~18 |
+| Fuel | 8.00% | ~16 |
+| Smelting Master | 8.00% | ~16 |
 | Black Gold | 7.00% | ~14 |
-| Survival Master | 4.00% | ~8 |
+| Master Of Management | 7.00% | ~14 |
 | Traveler | 3.00% | ~6 |
-| Forest Killer | 2.00% | ~4 |
+| Survival Master | 3.00% | ~6 |
+| Forest Killer | 1.00% | ~2 |
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 200 (Ranked 234)  
+Progressed: 201 (Ranked 234)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -61,7 +61,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-22 | 192 | 0 |
 | 2023-05-23 | 194 | 0 |
 | 2023-05-24 | 196 | 0 |
-| 2023-05-25 | 200 | 0 |
+| 2023-05-25 | 201 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

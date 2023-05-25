@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~580 |
+| Diligence as a goal | 4.00% | ~581 |
 | Project Arena | 3.00% | ~435 |
 | The Hateful Pole Fighter | 1.00% | ~7,052 |
 | Qi Gong: Breath | 1.00% | ~7,052 |
@@ -25,9 +25,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kill Nil | 0.80% | ~5,642 |
 | Street Fighting | 0.80% | ~5,642 |
 | Qi Gong: Essence | 0.80% | ~5,642 |
-| Stuntmaster | 0.70% | ~4,936 |
-| Old Child | 0.70% | ~4,936 |
-| Take damage to save time | 0.70% | ~4,936 |
+| Stuntmaster | 0.70% | ~4,937 |
+| Old Child | 0.70% | ~4,937 |
+| Take damage to save time | 0.70% | ~4,937 |
 | Scareless | 0.60% | ~4,231 |
 | Dance of the Praying Mantis | 0.60% | ~4,231 |
 | Qi Gong: Mind | 0.60% | ~4,231 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~705 |
 | Warriors from the Mountain | 0.10% | ~705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705,203 (Ranked 15)  
+Progressed: 705,215 (Ranked 15)  
 Completed: 12,734 (1.81%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 12,734 (1.81%) (Ranked 64)
 | 2023-05-22 | 704,647 | 12,733 |
 | 2023-05-23 | 704,864 | 12,733 |
 | 2023-05-24 | 705,048 | 12,734 |
-| 2023-05-25 | 705,203 | 12,734 |
+| 2023-05-25 | 705,215 | 12,734 |
 ## Awards
 Max (Great Boss Battles): 6,091  (Ranked 53)  
 Sum: 10,371 (Ranked 77)  

@@ -2,7 +2,7 @@
   "ID": "nutmeg",
   "Name": "SuperMash",
   "ProductSlug": "supermash",
-  "Ranking_EOS_Progress": 419,
+  "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 84,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:11.6907331+00:00",
   "LastChanged": "2023-03-31T05:58:11.6907332+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:06.9561571+00:00",
-  "LastUpdate_Ratings": "2023-05-25T18:57:30.0305062+00:00",
-  "LastUpdate_Achievements": "2023-05-25T19:04:53.931957+00:00"
+  "LastUpdate_Ratings": "2023-05-25T19:57:19.4018969+00:00",
+  "LastUpdate_Achievements": "2023-05-25T20:04:34.5654409+00:00"
 }

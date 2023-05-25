@@ -6,27 +6,27 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,628 |
-| keep it tidy | 77.00% | ~7,722 |
-| podium | 72.00% | ~7,221 |
-| medium attack | 59.00% | ~5,917 |
-| brail | 56.00% | ~5,616 |
-| grocery-getter | 39.00% | ~3,911 |
-| good drivers have dead flies on the side windows | 39.00% | ~3,911 |
+| light attack | 96.00% | ~9,630 |
+| keep it tidy | 77.00% | ~7,724 |
+| podium | 72.00% | ~7,222 |
+| medium attack | 59.00% | ~5,918 |
+| brail | 56.00% | ~5,617 |
+| grocery-getter | 39.00% | ~3,912 |
+| good drivers have dead flies on the side windows | 39.00% | ~3,912 |
 | rwd only | 26.00% | ~2,608 |
 | food tour: pasta | 26.00% | ~2,608 |
-| to finish first, first you must finish | 21.00% | ~2,106 |
-| you can't treat a car like a human being. a car requires love | 21.00% | ~2,106 |
+| to finish first, first you must finish | 21.00% | ~2,107 |
+| you can't treat a car like a human being. a car requires love | 21.00% | ~2,107 |
 | autopilot | 20.00% | ~2,006 |
 | turbo | 20.00% | ~2,006 |
 | food tour: pretzel | 19.00% | ~1,906 |
-| bicycle race | 15.00% | ~1,504 |
+| bicycle race | 15.00% | ~1,505 |
 | monster | 14.00% | ~1,404 |
 | car wash | 13.00% | ~1,304 |
 | perkele | 13.00% | ~1,304 |
-| night ride | 12.00% | ~1,203 |
-| the artist | 12.00% | ~1,203 |
-| snorkel | 12.00% | ~1,203 |
+| night ride | 12.00% | ~1,204 |
+| the artist | 12.00% | ~1,204 |
+| snorkel | 12.00% | ~1,204 |
 | where is the stage? | 11.00% | ~1,103 |
 | maximum attack | 11.00% | ~1,103 |
 | espresso | 10.00% | ~1,003 |
@@ -39,9 +39,9 @@ Number of Ratings: 56  (23.09.2022)
 | parking lot | 6.00% | ~602 |
 | oktoberfest | 6.00% | ~602 |
 | viking | 6.00% | ~602 |
-| group b | 5.00% | ~501 |
-| in like a lamb, out like a lion | 5.00% | ~501 |
-| if in doubt, flat out! | 5.00% | ~501 |
+| group b | 5.00% | ~502 |
+| in like a lamb, out like a lion | 5.00% | ~502 |
+| if in doubt, flat out! | 5.00% | ~502 |
 | comfy seats | 3.00% | ~301 |
 | simulator | 3.00% | ~301 |
 | real roads, real fast | 2.00% | ~201 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~40 |
 | barely keeping it together | 0.30% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,029 (Ranked 108)  
+Progressed: 10,031 (Ranked 108)  
 Completed: 9 (0.09%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 9 (0.09%) (Ranked 163)
 | 2023-05-21 | 10,021 | 9 |
 | 2023-05-23 | 10,023 | 9 |
 | 2023-05-24 | 10,027 | 9 |
-| 2023-05-25 | 10,029 | 9 |
+| 2023-05-25 | 10,031 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

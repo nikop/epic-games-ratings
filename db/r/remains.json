@@ -4,7 +4,7 @@
   "ProductSlug": "remains-dcb937",
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 14,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-05-03T17:00:00+00:00",
@@ -245,9 +245,9 @@
       "ID": "Achievement_RepairMaster",
       "SetID": "436h0ek",
       "Name": "Repair master",
-      "Percentage": 62,
+      "Percentage": 65,
       "XP": 200,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Achievement_Welcome",
@@ -268,8 +268,8 @@
   ],
   "FirstSeen": "2023-05-07T09:59:54.1262097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:43.8172139+00:00",
-  "LastChanged_Achievements": "2023-05-25T19:06:05.4892946+00:00",
+  "LastChanged_Achievements": "2023-05-25T20:05:46.6503198+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:48.0322148+00:00",
-  "LastUpdate_Ratings": "2023-05-25T18:58:26.580792+00:00",
-  "LastUpdate_Achievements": "2023-05-25T19:06:05.4893063+00:00"
+  "LastUpdate_Ratings": "2023-05-25T19:58:18.5170824+00:00",
+  "LastUpdate_Achievements": "2023-05-25T20:05:46.6503272+00:00"
 }

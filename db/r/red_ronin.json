@@ -2,7 +2,7 @@
   "ID": "b9dc20c9c82142f39378eee96ab7aaf7",
   "Name": "Red Ronin",
   "ProductSlug": "red-ronin-d2678c",
-  "Ranking_EOS_Progress": 419,
+  "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 84,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:54.2317068+00:00",
   "LastChanged": "2023-03-31T05:57:54.2317069+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:59.7790265+00:00",
-  "LastUpdate_Ratings": "2023-05-25T18:59:47.560722+00:00",
-  "LastUpdate_Achievements": "2023-05-25T19:05:22.07662+00:00"
+  "LastUpdate_Ratings": "2023-05-25T19:59:38.3137348+00:00",
+  "LastUpdate_Achievements": "2023-05-25T20:05:02.5262095+00:00"
 }

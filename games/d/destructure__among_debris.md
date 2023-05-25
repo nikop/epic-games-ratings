@@ -14,16 +14,16 @@
 | Master Destructor | 6.00% | ~6 |
 | Ball Galore | 5.00% | ~5 |
 | Easy Victory | 5.00% | ~5 |
-| Back From The Dead | 3.00% | ~3 |
+| Back From The Dead | 4.00% | ~4 |
 | Ball Protector | 3.00% | ~3 |
 | Legendary Destructor | 3.00% | ~3 |
+| Collector | 2.00% | ~2 |
 | Monster of Fashion | 2.00% | ~2 |
 | Single Person On Earth | 2.00% | ~2 |
 | Ticking Clock | 2.00% | ~2 |
 | Untouchable | 2.00% | ~2 |
 | Ball Collector | 1.00% | ~1 |
 | Bullet Hell | 1.00% | ~1 |
-| Collector | 1.00% | ~1 |
 | Detoxed | 1.00% | ~1 |
 | Ice Breaker | 1.00% | ~1 |
 | Machine Man | 1.00% | ~1 |

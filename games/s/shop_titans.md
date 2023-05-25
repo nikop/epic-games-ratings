@@ -6,47 +6,47 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 97.00% | ~125,170 |
-| Titan's First Steps | 96.00% | ~123,879 |
-| Basic in Bulk | 91.00% | ~117,427 |
-| Tinkle of Coins | 87.00% | ~112,266 |
-| Disintermediation | 76.00% | ~98,071 |
-| Capitalism Ho! | 75.00% | ~96,781 |
+| Sponsored by Argon | 97.00% | ~125,171 |
+| Titan's First Steps | 96.00% | ~123,880 |
+| Basic in Bulk | 91.00% | ~117,428 |
+| Tinkle of Coins | 87.00% | ~112,267 |
+| Disintermediation | 76.00% | ~98,072 |
+| Capitalism Ho! | 75.00% | ~96,782 |
 | It's Free Real Estate | 70.00% | ~90,329 |
-| Budding Merchant | 66.00% | ~85,167 |
-| Another Satisfied Customer | 61.00% | ~78,715 |
+| Budding Merchant | 66.00% | ~85,168 |
+| Another Satisfied Customer | 61.00% | ~78,716 |
 | One Easy Payment | 60.00% | ~77,425 |
 | Own the Means of Production | 60.00% | ~77,425 |
-| Some Assembly Required | 59.00% | ~76,134 |
-| Pretty Penny | 57.00% | ~73,553 |
-| One-Armed Bandit | 50.00% | ~64,520 |
+| Some Assembly Required | 59.00% | ~76,135 |
+| Pretty Penny | 57.00% | ~73,554 |
+| One-Armed Bandit | 50.00% | ~64,521 |
 | Through Repetition, Perfection | 46.00% | ~59,359 |
-| The Daily Grind | 45.00% | ~58,068 |
+| The Daily Grind | 45.00% | ~58,069 |
 | Bounty Hunters | 44.00% | ~56,778 |
 | Where it Hurts | 43.00% | ~55,488 |
 | Dungeon Imports | 43.00% | ~55,488 |
 | Flooding the Market | 41.00% | ~52,907 |
 | Demand for Supplies | 39.00% | ~50,326 |
-| Gild-Gotten Goods | 37.00% | ~47,745 |
-| Did we pack lunch? | 35.00% | ~45,164 |
+| Gild-Gotten Goods | 37.00% | ~47,746 |
+| Did we pack lunch? | 35.00% | ~45,165 |
 | Arcane Industries | 34.00% | ~43,874 |
 | Accomplished Merchant | 31.00% | ~40,003 |
-| Ascended | 28.00% | ~36,131 |
-| Gem Expert | 28.00% | ~36,131 |
-| Helping Hand | 28.00% | ~36,131 |
+| Ascended | 28.00% | ~36,132 |
+| Gem Expert | 28.00% | ~36,132 |
+| Helping Hand | 28.00% | ~36,132 |
 | On the Path to Greatness | 27.00% | ~34,841 |
 | Blank Page Syndrome | 27.00% | ~34,841 |
 | Efficient Floor Space | 27.00% | ~34,841 |
 | Vanity, Verily | 26.00% | ~33,551 |
 | Research & Development | 25.00% | ~32,260 |
 | Flawless Fusion | 24.00% | ~30,970 |
-| Power of Love | 23.00% | ~29,679 |
-| Natural 20 | 23.00% | ~29,679 |
+| Power of Love | 23.00% | ~29,680 |
+| Natural 20 | 23.00% | ~29,680 |
 | Fated Encounters | 21.00% | ~27,099 |
 | Royal Ransom | 21.00% | ~27,099 |
 | Magical Harmony | 21.00% | ~27,099 |
 | Tax not Included | 20.00% | ~25,808 |
-| Trash to Treasure | 18.00% | ~23,227 |
+| Trash to Treasure | 18.00% | ~23,228 |
 | For the Hoard! | 17.00% | ~21,937 |
 | Special Ingredient | 17.00% | ~21,937 |
 | A Notch Above the Rest | 15.00% | ~19,356 |
@@ -80,9 +80,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Booty by the Boatload | 7.00% | ~9,033 |
 | A Legend is Born | 7.00% | ~9,033 |
 | Wealth Beyond Measure | 7.00% | ~9,033 |
-| Thirst for Knowledge | 6.00% | ~7,742 |
-| Treasure Trove | 6.00% | ~7,742 |
-| All Accounted For | 6.00% | ~7,742 |
+| Thirst for Knowledge | 6.00% | ~7,743 |
+| Treasure Trove | 6.00% | ~7,743 |
+| All Accounted For | 6.00% | ~7,743 |
 | Archivist | 5.00% | ~6,452 |
 | Bountiful Harvest | 5.00% | ~6,452 |
 | Precision Engineering | 5.00% | ~6,452 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.40% | ~516 |
 | Capitalist Camaraderie | 0.20% | ~258 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,041 (Ranked 54)  
+Progressed: 129,042 (Ranked 54)  
 Completed: 84 (0.07%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,15 +154,15 @@ Completed: 84 (0.07%) (Ranked 169)
 | 2023-05-22 | 128,838 | 80 |
 | 2023-05-23 | 128,895 | 82 |
 | 2023-05-24 | 128,968 | 83 |
-| 2023-05-25 | 129,041 | 84 |
+| 2023-05-25 | 129,042 | 84 |
 ## Awards
 Max (Great for Beginners): 4,588  (Ranked 66)  
-Sum: 26,623 (Ranked 44)  
+Sum: 26,624 (Ranked 44)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,588 |
-| This game is Relaxing | 3,950 |
+| This game is Relaxing | 3,951 |
 | This game has Quickly Understood Controls | 3,942 |
 | This game has Diverse Characters | 3,756 |
 | This game is Highly Recommended | 3,674 |
@@ -293,4 +293,4 @@ Diff (max vs sum): 22
 | 2023-05-22 | 3.98 | - | 4,584 | 26,606 |
 | 2023-05-23 | 3.98 | - | 4,587 | 26,613 |
 | 2023-05-24 | 3.98 | - | 4,587 | 26,617 |
-| 2023-05-25 | 3.98 | - | 4,588 | 26,623 |
+| 2023-05-25 | 3.98 | - | 4,588 | 26,624 |

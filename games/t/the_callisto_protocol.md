@@ -31,12 +31,12 @@ Rating: 4.18 (Ranked 831)
 | Crash Site | 0.90% | ~122 |
 | Lifer | 0.80% | ~12 |
 | In Striking Distance | 0.80% | ~109 |
+| You Need a Gun | 0.70% | ~95 |
 | Recidivist | 0.70% | ~11 |
 | Power Up | 0.70% | ~95 |
-| You Need a Gun | 0.60% | ~82 |
 | What Lies Beneath | 0.60% | ~82 |
+| Full Circle | 0.60% | ~82 |
 | I Do Belong Here | 0.50% | ~68 |
-| Full Circle | 0.50% | ~68 |
 | Grim Reaper | 0.30% | ~41 |
 | It's over, Jacob! | 0.10% | ~14 |
 | Armed to the Teeth | 0.10% | ~2 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 831)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,592 (Ranked 102)  
+Progressed: 13,596 (Ranked 102)  
 Completed: 52 (0.38%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 52 (0.38%) (Ranked 114)
 | 2023-05-22 | 13,347 | 52 |
 | 2023-05-23 | 13,444 | 52 |
 | 2023-05-24 | 13,523 | 52 |
-| 2023-05-25 | 13,592 | 52 |
+| 2023-05-25 | 13,596 | 52 |
 ## Awards
 Max (Highly Recommended): 46  (Ranked 398)  
 Sum: 267 (Ranked 335)  

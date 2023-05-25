@@ -16,16 +16,16 @@ Number of Ratings: 87  (23.09.2022)
 | Mega-railroad | 4.00% | ~29 |
 | Non-Stop | 4.00% | ~29 |
 | Upgrade complete | 4.00% | ~29 |
-| Builder | 3.00% | ~21 |
-| Close call! | 3.00% | ~21 |
-| Get out my way | 3.00% | ~21 |
-| Just in time! | 3.00% | ~21 |
+| Builder | 3.00% | ~22 |
+| Close call! | 3.00% | ~22 |
+| Get out my way | 3.00% | ~22 |
+| Just in time! | 3.00% | ~22 |
 | Miner | 3.00% | ~2 |
-| Multilevel road | 3.00% | ~21 |
-| Need to think | 3.00% | ~21 |
+| Multilevel road | 3.00% | ~22 |
+| Need to think | 3.00% | ~22 |
 | Pink Ruby | 3.00% | ~2 |
 | Star Sapphire | 3.00% | ~2 |
-| Steam Age | 3.00% | ~21 |
+| Steam Age | 3.00% | ~22 |
 | Trapiche Emerald | 3.00% | ~2 |
 | Beginner | 2.00% | ~14 |
 | Bridgemania | 2.00% | ~14 |
@@ -82,7 +82,7 @@ Number of Ratings: 87  (23.09.2022)
 | Gemologist | 0.00% | ~0 |
 | Jeweller | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716 (Ranked 182)  
+Progressed: 717 (Ranked 182)  
 Completed: 1 (0.14%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 1 (0.14%) (Ranked 150)
 | 2023-05-22 | 713 | 1 |
 | 2023-05-23 | 714 | 1 |
 | 2023-05-24 | 715 | 1 |
-| 2023-05-25 | 716 | 1 |
+| 2023-05-25 | 717 | 1 |
 ## Awards
 Max (Challenging Puzzles): 71  (Ranked 363)  
 Sum: 71 (Ranked 418)  

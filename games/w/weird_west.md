@@ -1,27 +1,27 @@
 # Weird West: Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/weird-west-906661)  
 [View Rawdata](../../db/w/weird_west.json)  
-Rating: 4.45 (Ranked 607)  
+Rating: 4.45 (Ranked 606)  
 Number of Ratings: 125  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 87.00% | ~1,341 |
+| Unforgiven | 87.00% | ~1,342 |
 | Self-Improvement | 72.00% | ~1,110 |
-| Perky | 66.00% | ~1,017 |
+| Perky | 66.00% | ~1,018 |
 | Let’s Ride | 60.00% | ~925 |
 | Welcome to the Weird West | 58.00% | ~894 |
-| Dead or Alive | 56.00% | ~863 |
-| Full House | 37.00% | ~570 |
+| Dead or Alive | 56.00% | ~864 |
+| Full House | 37.00% | ~571 |
 | Off the Trail | 34.00% | ~524 |
-| Justice Served | 28.00% | ~431 |
+| Justice Served | 28.00% | ~432 |
 | Chain Reaction | 27.00% | ~416 |
-| Rain of Death | 25.00% | ~385 |
-| Scholar | 25.00% | ~385 |
-| Through Their Eyes | 25.00% | ~385 |
+| Rain of Death | 25.00% | ~386 |
+| Scholar | 25.00% | ~386 |
+| Through Their Eyes | 25.00% | ~386 |
 | Dishonored | 24.00% | ~370 |
 | The Great Escape | 22.00% | ~339 |
-| That’s All, Folks | 18.00% | ~277 |
+| That’s All, Folks | 18.00% | ~278 |
 | Fallen Star | 16.00% | ~247 |
 | Winds of War | 16.00% | ~247 |
 | For Balance | 15.00% | ~231 |
@@ -43,7 +43,7 @@ Number of Ratings: 125  (23.09.2022)
 | Do Not Pass Go… | 7.00% | ~108 |
 | Getting the Gang Back Together | 7.00% | ~108 |
 | Monster Hunter | 7.00% | ~108 |
-| Who You Gonna Call? | 6.00% | ~92 |
+| Who You Gonna Call? | 6.00% | ~93 |
 | Healing Old Wounds | 5.00% | ~77 |
 | This Is Sparta | 5.00% | ~77 |
 | What’s in the Box? | 5.00% | ~77 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.30% | ~5 |
 | Revenant | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,541 (Ranked 155)  
+Progressed: 1,542 (Ranked 155)  
 Completed: 2 (0.13%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 2 (0.13%) (Ranked 154)
 | 2023-05-22 | 1,534 | 2 |
 | 2023-05-23 | 1,537 | 2 |
 | 2023-05-24 | 1,539 | 2 |
-| 2023-05-25 | 1,541 | 2 |
+| 2023-05-25 | 1,542 | 2 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 465)  
 Sum: 24 (Ranked 470)  
