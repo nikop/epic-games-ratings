@@ -477,9 +477,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12676,
+  "EOS_Progressed": 12677,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -2587,6 +2587,11 @@
       "Time": "2023-05-25T11:04:52.9442419+00:00",
       "NumProgressed": 12676,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-05-25T12:06:33.425206+00:00",
+      "NumProgressed": 12677,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 41,
@@ -2678,7 +2683,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2408
+      "UsersEstimate": 2409
     },
     {
       "ID": "tpote_achievement_2",
@@ -2750,7 +2755,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2408
+      "UsersEstimate": 2409
     },
     {
       "ID": "tpote_achievement_28",
@@ -2798,7 +2803,7 @@
       "Name": "Jack was here!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1901
+      "UsersEstimate": 1902
     },
     {
       "ID": "tpote_achievement_33",
@@ -2918,22 +2923,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4563
+      "UsersEstimate": 4564
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12676,
+      "Progressed": 12677,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-24T02:59:22.8736944+00:00",
-  "LastChanged_Achievements": "2023-05-25T11:04:52.9442414+00:00",
+  "LastChanged_Achievements": "2023-05-25T12:06:33.4252052+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:09:49.1992061+00:00",
-  "LastUpdate_Ratings": "2023-05-25T10:59:27.6360308+00:00",
-  "LastUpdate_Achievements": "2023-05-25T11:04:52.9442873+00:00"
+  "LastUpdate_Ratings": "2023-05-25T12:00:45.7971672+00:00",
+  "LastUpdate_Achievements": "2023-05-25T12:06:33.4252493+00:00"
 }

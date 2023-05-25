@@ -484,9 +484,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2563,
+  "EOS_Progressed": 2564,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1494,6 +1494,11 @@
       "Time": "2023-05-25T06:05:24.8667977+00:00",
       "NumProgressed": 2563,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-25T12:06:48.7191894+00:00",
+      "NumProgressed": 2564,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -1529,7 +1534,7 @@
       "Name": "Apex Predator",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "BloodAndJustice_50",
@@ -1545,7 +1550,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1103
     },
     {
       "ID": "CrowdPleaser",
@@ -1689,7 +1694,7 @@
       "Name": "Ready for Summer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "ReadyforWinter_42",
@@ -1705,7 +1710,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -1769,7 +1774,7 @@
       "Name": "The Power of Family",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -1840,15 +1845,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 2563,
+      "Progressed": 2564,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-05-25T11:05:14.8118919+00:00",
+  "LastChanged_Achievements": "2023-05-25T12:06:48.7191887+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:14.085288+00:00",
-  "LastUpdate_Ratings": "2023-05-25T10:57:35.6578532+00:00",
-  "LastUpdate_Achievements": "2023-05-25T11:05:14.8119299+00:00"
+  "LastUpdate_Ratings": "2023-05-25T11:57:53.3065978+00:00",
+  "LastUpdate_Achievements": "2023-05-25T12:06:48.7192747+00:00"
 }

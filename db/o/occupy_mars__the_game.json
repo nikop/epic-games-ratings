@@ -1004,9 +1004,9 @@
       "ID": "NEW_ACHIEVEMENT_GREATEST_BOTANIST",
       "SetID": "l546gc",
       "Name": "I am the greatest botanist on this planet.",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 195
+      "UsersEstimate": 204
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -1036,9 +1036,9 @@
       "ID": "NEW_ACHIEVEMENT_MINER",
       "SetID": "l546gc",
       "Name": "Miner",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 151
     },
     {
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
@@ -1181,8 +1181,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-05-24T23:57:37.6552922+00:00",
-  "LastChanged_Achievements": "2023-05-25T11:00:16.2214041+00:00",
+  "LastChanged_Achievements": "2023-05-25T12:02:01.0906565+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:55.9692167+00:00",
-  "LastUpdate_Ratings": "2023-05-25T10:57:20.2285122+00:00",
-  "LastUpdate_Achievements": "2023-05-25T11:00:16.221453+00:00"
+  "LastUpdate_Ratings": "2023-05-25T11:57:29.0882624+00:00",
+  "LastUpdate_Achievements": "2023-05-25T12:02:01.0907024+00:00"
 }

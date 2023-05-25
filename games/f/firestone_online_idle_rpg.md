@@ -22,7 +22,7 @@ Rating: 3.87 (Ranked 906)
 | Lieutenant | 12.00% | ~139 |
 | Dragon Master | 11.00% | ~127 |
 | Enlightenment | 11.00% | ~127 |
-| Milestone collector | 10.00% | ~116 |
+| Milestone collector | 11.00% | ~127 |
 | Mysterious Rock | 10.00% | ~116 |
 | Natural Talent | 10.00% | ~116 |
 | The Unstoppable | 10.00% | ~116 |

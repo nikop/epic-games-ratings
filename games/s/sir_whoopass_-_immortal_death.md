@@ -9,26 +9,26 @@
 | Are you ready to rumble? | 93.00% | ~54 |
 | That's what cheese said! | 86.00% | ~50 |
 | I like you...but I have to kill you... | 84.00% | ~49 |
+| AHHHHHH.....I'M ON FIRE!!! | 83.00% | ~48 |
 | Nerd | 83.00% | ~48 |
-| AHHHHHH.....I'M ON FIRE!!! | 81.00% | ~47 |
 | Not so hip anymore! | 81.00% | ~47 |
 | Blurry depth perception | 78.00% | ~45 |
 | Up and down | 76.00% | ~44 |
-| Rolling, Rolling, Rolling | 71.00% | ~41 |
-| Fire-fighter! | 60.00% | ~35 |
+| Rolling, Rolling, Rolling | 72.00% | ~42 |
+| Fire-fighter! | 62.00% | ~36 |
+| Make Love not War-Craft a Mistlefoe | 60.00% | ~35 |
 | Oh, you're up to no gouda! | 59.00% | ~34 |
-| Make Love not War-Craft a Mistlefoe | 59.00% | ~34 |
-| Meat grinder | 53.00% | ~31 |
-| Butcher | 47.00% | ~27 |
-| You're not going to blow me up! | 47.00% | ~27 |
+| Meat grinder | 55.00% | ~32 |
+| Butcher | 48.00% | ~28 |
+| You're not going to blow me up! | 48.00% | ~28 |
 | Mushroom soup of the day | 45.00% | ~26 |
+| Spare Ribs | 45.00% | ~26 |
 | Honk honk! | 43.00% | ~25 |
 | My pants squeak when I walk | 43.00% | ~25 |
-| Spare Ribs | 43.00% | ~25 |
 | Surprise!! | 40.00% | ~23 |
 | Thats disgusting! | 40.00% | ~23 |
-| Cockadoodledoo! | 38.00% | ~22 |
-| Make America Grate Again | 34.00% | ~20 |
+| Cockadoodledoo! | 40.00% | ~23 |
+| Make America Grate Again | 36.00% | ~21 |
 | Self assessed tax return | 34.00% | ~20 |
 | Karaoke king | 33.00% | ~19 |
 | You are no match for me, Billy! | 31.00% | ~18 |

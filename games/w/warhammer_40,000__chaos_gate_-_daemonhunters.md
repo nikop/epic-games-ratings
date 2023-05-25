@@ -18,9 +18,9 @@ Number of Ratings: 371  (23.09.2022)
 | Bloodless | 14.00% | ~368 |
 | Honoured Battle-Brother | 11.00% | ~289 |
 | The Emperor Protects | 11.00% | ~289 |
-| Nemesis Master | 10.00% | ~262 |
-| Gunmaster | 10.00% | ~262 |
-| A Foul Creche | 10.00% | ~262 |
+| Nemesis Master | 10.00% | ~263 |
+| Gunmaster | 10.00% | ~263 |
+| A Foul Creche | 10.00% | ~263 |
 | Opportunist | 7.00% | ~184 |
 | Efficient Killer | 7.00% | ~184 |
 | Just a Scratch | 7.00% | ~184 |
@@ -33,11 +33,11 @@ Number of Ratings: 371  (23.09.2022)
 | Harvest No More | 3.00% | ~79 |
 | Junk Banishment | 3.00% | ~79 |
 | Tactical Flexibility | 3.00% | ~79 |
-| Patron of Deimos | 2.00% | ~52 |
-| Exterminator | 2.00% | ~52 |
-| Preservationist | 2.00% | ~52 |
-| Engine Kill | 2.00% | ~52 |
-| Death Comes For All | 2.00% | ~52 |
+| Patron of Deimos | 2.00% | ~53 |
+| Exterminator | 2.00% | ~53 |
+| Preservationist | 2.00% | ~53 |
+| Engine Kill | 2.00% | ~53 |
+| Death Comes For All | 2.00% | ~53 |
 | Clean Slate | 1.00% | ~26 |
 | Fleetmaster | 1.00% | ~26 |
 | For the Machine God | 1.00% | ~26 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,625 (Ranked 137)  
+Progressed: 2,626 (Ranked 137)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-22 | 2,620 | 0 |
 | 2023-05-23 | 2,622 | 0 |
 | 2023-05-24 | 2,624 | 0 |
-| 2023-05-25 | 2,625 | 0 |
+| 2023-05-25 | 2,626 | 0 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 418 (Ranked 298)  

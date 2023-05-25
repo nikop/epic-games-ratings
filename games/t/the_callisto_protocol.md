@@ -6,12 +6,12 @@ Rating: 4.18 (Ranked 830)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Flesh Wound | 6.00% | ~813 |
-| Giving Back | 5.00% | ~677 |
-| Chew 'Em Up | 5.00% | ~677 |
+| Giving Back | 5.00% | ~678 |
+| Chew 'Em Up | 5.00% | ~678 |
 | Instigator | 4.00% | ~59 |
 | Big Game Hunter | 4.00% | ~59 |
-| The Outer Way | 3.00% | ~406 |
-| Desperate Times | 3.00% | ~406 |
+| The Outer Way | 3.00% | ~407 |
+| Desperate Times | 3.00% | ~407 |
 | Bear Trap | 3.00% | ~44 |
 | Get a Grip | 2.00% | ~271 |
 | Workplace Hazard | 2.00% | ~271 |
@@ -21,16 +21,16 @@ Rating: 4.18 (Ranked 830)
 | Paper Jams | 2.00% | ~271 |
 | Mugshot | 2.00% | ~271 |
 | If the SHU Fits... | 2.00% | ~271 |
-| Big Spender | 2.00% | ~29 |
+| Big Spender | 2.00% | ~30 |
 | Parole Denied | 1.00% | ~15 |
-| Terminated | 1.00% | ~135 |
-| Without A Paddle | 1.00% | ~135 |
+| Terminated | 1.00% | ~136 |
+| Without A Paddle | 1.00% | ~136 |
 | Hoard Mode | 1.00% | ~15 |
+| Two Heads Are Better Than One | 0.90% | ~122 |
 | In the Pipe, Five by Five | 0.90% | ~122 |
 | Crash Site | 0.90% | ~122 |
 | Lifer | 0.80% | ~12 |
 | In Striking Distance | 0.80% | ~108 |
-| Two Heads Are Better Than One | 0.80% | ~108 |
 | Recidivist | 0.70% | ~10 |
 | You Need a Gun | 0.60% | ~81 |
 | Power Up | 0.60% | ~81 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 830)
 | Subject Alpha | 0.10% | ~1 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,548 (Ranked 101)  
+Progressed: 13,555 (Ranked 101)  
 Completed: 52 (0.38%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 52 (0.38%) (Ranked 114)
 | 2023-05-22 | 13,347 | 52 |
 | 2023-05-23 | 13,444 | 52 |
 | 2023-05-24 | 13,523 | 52 |
-| 2023-05-25 | 13,548 | 52 |
+| 2023-05-25 | 13,555 | 52 |
 ## Awards
 Max (Highly Recommended): 46  (Ranked 397)  
 Sum: 267 (Ranked 335)  

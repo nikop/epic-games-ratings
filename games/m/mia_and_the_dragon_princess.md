@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Glass Act | 33.00% | ~13 |
-| Tour Guide Extraordinaire | 28.00% | ~11 |
-| Relight my Cannon | 25.00% | ~10 |
+| Glass Act | 34.00% | ~14 |
+| Tour Guide Extraordinaire | 27.00% | ~11 |
+| Relight my Cannon | 24.00% | ~10 |
 | Puzzle Prodigy | 20.00% | ~8 |
-| Bathroom Brawler | 18.00% | ~7 |
-| Codebreaker | 18.00% | ~7 |
-| Explosive End | 18.00% | ~7 |
-| Set Sail | 18.00% | ~7 |
-| Snitch | 18.00% | ~7 |
+| Bathroom Brawler | 17.00% | ~7 |
+| Codebreaker | 17.00% | ~7 |
+| Explosive End | 17.00% | ~7 |
+| Set Sail | 17.00% | ~7 |
+| Snitch | 17.00% | ~7 |
 | Backstory Buff | 15.00% | ~6 |
 | Finger-Lickin' Bad | 15.00% | ~6 |
-| A Box of Tricks | 13.00% | ~5 |
-| Breathless End | 13.00% | ~5 |
+| A Box of Tricks | 12.00% | ~5 |
+| Breathless End | 12.00% | ~5 |
 | Flying High | 10.00% | ~4 |
 | Fool's Gold | 5.00% | ~2 |
-| Escape Artist | 3.00% | ~1 |
-| Freedum Fighter | 3.00% | ~1 |
-| Key Keeper's Curse | 3.00% | ~1 |
+| Escape Artist | 2.00% | ~1 |
+| Freedum Fighter | 2.00% | ~1 |
+| Key Keeper's Curse | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40 (Ranked 298)  
-Completed: 1 (2.50%) (Ranked 56)  
+Progressed: 41 (Ranked 298)  
+Completed: 1 (2.44%) (Ranked 57)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -44,3 +44,4 @@ Completed: 1 (2.50%) (Ranked 56)
 | 2023-05-16 | 38 | 1 |
 | 2023-05-20 | 39 | 1 |
 | 2023-05-21 | 40 | 1 |
+| 2023-05-25 | 41 | 1 |

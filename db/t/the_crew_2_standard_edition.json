@@ -4,7 +4,7 @@
   "ProductSlug": "the-crew-2",
   "Ranking_Rating": 271,
   "Ranking_Popularity": 193,
-  "Ranking_PopularitySum": 152,
+  "Ranking_PopularitySum": 151,
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 318,
@@ -3061,18 +3061,24 @@
       "Rating": 4.66,
       "NumberOfAwards": 3029,
       "NumberOfAwardsMax": 436
+    },
+    {
+      "Time": "2023-05-25T12:00:40.8552793+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 3032,
+      "NumberOfAwardsMax": 439
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3029,
-  "NumberOfAwardsMax": 436,
+  "NumberOfAwards": 3032,
+  "NumberOfAwardsMax": 439,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 436
+      "Count": 439
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3140,8 +3146,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:02.2131047+00:00",
-  "LastChanged": "2023-05-25T05:59:20.8479152+00:00",
+  "LastChanged": "2023-05-25T12:00:40.8552792+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:09:23.9475849+00:00",
-  "LastUpdate_Ratings": "2023-05-25T10:59:24.4222993+00:00",
-  "LastUpdate_Achievements": "2023-05-25T11:04:22.3368556+00:00"
+  "LastUpdate_Ratings": "2023-05-25T12:00:40.8552799+00:00",
+  "LastUpdate_Achievements": "2023-05-25T12:05:47.494693+00:00"
 }

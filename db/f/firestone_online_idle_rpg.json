@@ -94,7 +94,7 @@
   "Tags": [],
   "EOS_Progressed": 1159,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2469,9 +2469,9 @@
       "ID": "milestonecollector",
       "SetID": "3nl4bcg",
       "Name": "Milestone collector",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 127
     },
     {
       "ID": "minerclicker",
@@ -2750,8 +2750,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-23T21:58:11.918076+00:00",
-  "LastChanged_Achievements": "2023-05-25T11:05:22.2581216+00:00",
+  "LastChanged_Achievements": "2023-05-25T12:06:58.9650212+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:34.8363446+00:00",
-  "LastUpdate_Ratings": "2023-05-25T10:57:49.7017743+00:00",
-  "LastUpdate_Achievements": "2023-05-25T11:05:22.2582114+00:00"
+  "LastUpdate_Ratings": "2023-05-25T11:58:14.1881048+00:00",
+  "LastUpdate_Achievements": "2023-05-25T12:06:58.9651797+00:00"
 }

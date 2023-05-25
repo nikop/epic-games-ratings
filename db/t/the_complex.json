@@ -4,7 +4,7 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 457,
+  "EOS_Progressed": 458,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.5,
+  "EOS_Completed_Percentage": 3.49,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -96,6 +96,11 @@
     {
       "Time": "2023-05-21T21:06:04.8605694+00:00",
       "NumProgressed": 457,
+      "NumCompleted": 16
+    },
+    {
+      "Time": "2023-05-25T12:07:15.5379045+00:00",
+      "NumProgressed": 458,
       "NumCompleted": 16
     }
   ],
@@ -172,7 +177,7 @@
       "Name": "Stalemate",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ending_7",
@@ -196,7 +201,7 @@
       "Name": "Falling For You",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "free_champagne",
@@ -260,14 +265,14 @@
       "Name": "Tough Decision",
       "Percentage": 95,
       "XP": 50,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 457,
+      "Progressed": 458,
       "Completed": 16
     }
   ],
@@ -275,8 +280,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-05-25T11:05:34.9142478+00:00",
+  "LastChanged_Achievements": "2023-05-25T12:07:15.5379038+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:01.9428381+00:00",
-  "LastUpdate_Ratings": "2023-05-25T10:57:10.7956907+00:00",
-  "LastUpdate_Achievements": "2023-05-25T11:05:34.9142604+00:00"
+  "LastUpdate_Ratings": "2023-05-25T11:57:14.4416746+00:00",
+  "LastUpdate_Achievements": "2023-05-25T12:07:15.5379191+00:00"
 }

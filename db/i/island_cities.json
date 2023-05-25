@@ -733,9 +733,9 @@
       "ID": "LEVEL_003",
       "SetID": "3khpmem",
       "Name": "Buildings, roads, cars, ...and people",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 35,
-      "UsersEstimate": 98
+      "UsersEstimate": 100
     },
     {
       "ID": "LEVEL_004",
@@ -757,9 +757,9 @@
       "ID": "LEVEL_006",
       "SetID": "3khpmem",
       "Name": "Found an oasis",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "LEVEL_007",
@@ -773,9 +773,9 @@
       "ID": "LEVEL_008",
       "SetID": "3khpmem",
       "Name": "Passion for sports",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "LEVEL_009",
@@ -845,9 +845,9 @@
       "ID": "LEVEL_017",
       "SetID": "3khpmem",
       "Name": "Commuting",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "LEVEL_018",
@@ -902,8 +902,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-25T11:04:54.5736307+00:00",
+  "LastChanged_Achievements": "2023-05-25T12:06:35.6931324+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:36.8517809+00:00",
-  "LastUpdate_Ratings": "2023-05-25T10:57:52.1760575+00:00",
-  "LastUpdate_Achievements": "2023-05-25T11:04:54.573649+00:00"
+  "LastUpdate_Ratings": "2023-05-25T11:58:17.7509951+00:00",
+  "LastUpdate_Achievements": "2023-05-25T12:06:35.6931881+00:00"
 }

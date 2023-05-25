@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -324,9 +324,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2378,
+  "EOS_Progressed": 2379,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.91,
   "EosHistory": [
@@ -924,6 +924,11 @@
       "Time": "2023-05-25T08:06:31.3633879+00:00",
       "NumProgressed": 2378,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-05-25T12:07:09.6328503+00:00",
+      "NumProgressed": 2379,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 14,
@@ -943,7 +948,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -951,7 +956,7 @@
       "Name": "Cat Person",
       "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH_CLIMBER",
@@ -1031,7 +1036,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -1046,7 +1051,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2378,
+      "Progressed": 2379,
       "Completed": 93
     }
   ],
@@ -1054,8 +1059,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-05-23T22:01:02.7899752+00:00",
-  "LastChanged_Achievements": "2023-05-25T11:05:30.5581492+00:00",
+  "LastChanged_Achievements": "2023-05-25T12:07:09.6328497+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:26.5471231+00:00",
-  "LastUpdate_Ratings": "2023-05-25T10:59:47.1714126+00:00",
-  "LastUpdate_Achievements": "2023-05-25T11:05:30.5581647+00:00"
+  "LastUpdate_Ratings": "2023-05-25T12:01:15.4016187+00:00",
+  "LastUpdate_Achievements": "2023-05-25T12:07:09.632905+00:00"
 }

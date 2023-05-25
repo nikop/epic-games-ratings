@@ -428,9 +428,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13548,
+  "EOS_Progressed": 13555,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 980,
+  "EOS_NewPlayers": 987,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1513,6 +1513,11 @@
       "Time": "2023-05-25T11:02:46.3884868+00:00",
       "NumProgressed": 13548,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-05-25T12:03:42.9229021+00:00",
+      "NumProgressed": 13555,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 40,
@@ -1540,7 +1545,7 @@
       "Name": "Giving Back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -1642,9 +1647,9 @@
       "ID": "KILL_2HEAD",
       "SetID": "4hj6d86",
       "Name": "Two Heads Are Better Than One",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 108
+      "UsersEstimate": 122
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -1652,7 +1657,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "KILL_ROBOT",
@@ -1660,7 +1665,7 @@
       "Name": "Terminated",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -1716,7 +1721,7 @@
       "Name": "The Outer Way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "STORY_ESCAPE",
@@ -1732,7 +1737,7 @@
       "Name": "Without A Paddle",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "STORY_HANGAR",
@@ -1756,7 +1761,7 @@
       "Name": "Desperate Times",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -1836,20 +1841,20 @@
       "Name": "Big Spender",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     }
   ],
   "AchievementSets": [
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13548,
+      "Progressed": 13555,
       "Completed": 52
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1474,
+      "Progressed": 1481,
       "Completed": 29
     }
   ],
@@ -1857,8 +1862,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-23T19:57:59.4143533+00:00",
-  "LastChanged_Achievements": "2023-05-25T11:02:46.3884864+00:00",
+  "LastChanged_Achievements": "2023-05-25T12:03:42.9229013+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-25T10:57:42.2081357+00:00",
-  "LastUpdate_Achievements": "2023-05-25T11:02:46.3885252+00:00"
+  "LastUpdate_Ratings": "2023-05-25T11:58:01.7838767+00:00",
+  "LastUpdate_Achievements": "2023-05-25T12:03:42.922953+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -160,9 +160,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3372,
+  "EOS_Progressed": 3373,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 685,
+  "EOS_NewPlayers": 682,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1895,6 +1895,11 @@
       "Time": "2023-05-25T11:03:28.0217776+00:00",
       "NumProgressed": 3372,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T12:04:14.4363751+00:00",
+      "NumProgressed": 3373,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -1906,7 +1911,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "10",
@@ -1994,7 +1999,7 @@
       "Name": "Enchanted Archipelago",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "20",
@@ -2018,7 +2023,7 @@
       "Name": "Realm Estate",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2596
+      "UsersEstimate": 2597
     },
     {
       "ID": "23",
@@ -2034,7 +2039,7 @@
       "Name": "Secret Technique",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2596
+      "UsersEstimate": 2597
     },
     {
       "ID": "25",
@@ -2042,7 +2047,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2529
+      "UsersEstimate": 2530
     },
     {
       "ID": "26",
@@ -2058,7 +2063,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "28",
@@ -2066,7 +2071,7 @@
       "Name": "From Friends to Family",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 2360
+      "UsersEstimate": 2361
     },
     {
       "ID": "29",
@@ -2074,7 +2079,7 @@
       "Name": "Stronger Together",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1889
     },
     {
       "ID": "3",
@@ -2146,7 +2151,7 @@
       "Name": "Against the Odds",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "38",
@@ -2210,7 +2215,7 @@
       "Name": "Pruning for Progress",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "5",
@@ -2257,13 +2262,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 3372,
-      "Completed": 3372
+      "Progressed": 3373,
+      "Completed": 3373
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 3372,
+      "Progressed": 3373,
       "Completed": 0
     }
   ],
@@ -2271,8 +2276,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-24T15:00:10.7602094+00:00",
-  "LastChanged_Achievements": "2023-05-25T11:03:28.0217772+00:00",
+  "LastChanged_Achievements": "2023-05-25T12:04:14.4363745+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:46.682938+00:00",
-  "LastUpdate_Ratings": "2023-05-25T10:59:02.3085936+00:00",
-  "LastUpdate_Achievements": "2023-05-25T11:03:28.0218251+00:00"
+  "LastUpdate_Ratings": "2023-05-25T12:00:06.3947242+00:00",
+  "LastUpdate_Achievements": "2023-05-25T12:04:14.4364209+00:00"
 }

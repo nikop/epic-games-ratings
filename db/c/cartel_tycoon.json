@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -280,9 +280,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 340,
+  "EOS_Progressed": 341,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -595,6 +595,11 @@
       "Time": "2023-05-25T07:06:29.5340706+00:00",
       "NumProgressed": 340,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-25T12:07:08.5871871+00:00",
+      "NumProgressed": 341,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 19,
@@ -604,9 +609,9 @@
       "ID": "complete-deals",
       "SetID": "bed33dd",
       "Name": "Safe Pair of Hands",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 119
     },
     {
       "ID": "cool-shirts",
@@ -644,17 +649,17 @@
       "ID": "finish-tutorial",
       "SetID": "bed33dd",
       "Name": "That was base",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 130
     },
     {
       "ID": "hire-lieutenant",
       "SetID": "bed33dd",
       "Name": "Our Man",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 286
+      "UsersEstimate": 283
     },
     {
       "ID": "kill-lieutenants",
@@ -670,7 +675,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "play-at-night",
@@ -726,7 +731,7 @@
       "Name": "Camellos",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "unlock-residences",
@@ -742,7 +747,7 @@
       "Name": "Take-Off",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "use-submarine",
@@ -757,15 +762,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 340,
+      "Progressed": 341,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-05-25T11:05:29.7100198+00:00",
+  "LastChanged_Achievements": "2023-05-25T12:07:08.5871862+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:45.257987+00:00",
-  "LastUpdate_Ratings": "2023-05-25T10:59:34.805811+00:00",
-  "LastUpdate_Achievements": "2023-05-25T11:05:29.7100363+00:00"
+  "LastUpdate_Ratings": "2023-05-25T12:00:57.6306625+00:00",
+  "LastUpdate_Achievements": "2023-05-25T12:07:08.587202+00:00"
 }

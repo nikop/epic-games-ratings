@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,895 |
-| That's a Grand Army | 8.00% | ~3,462 |
-| That is mine! | 8.00% | ~3,462 |
-| Victorious! | 8.00% | ~3,462 |
-| Brothers in Arms | 6.00% | ~2,597 |
-| That's a Grand Navy | 6.00% | ~2,597 |
-| Seriously?! | 6.00% | ~2,597 |
-| For the Glory | 5.00% | ~2,164 |
-| Cold War | 4.00% | ~1,731 |
-| True Catholic | 4.00% | ~1,731 |
-| Defender of the Faith | 3.00% | ~1,298 |
-| It's all about the money | 3.00% | ~1,298 |
-| Respected | 3.00% | ~1,298 |
-| Truly Divine Ruler | 3.00% | ~1,298 |
+| Until death do us apart | 9.00% | ~3,897 |
+| That's a Grand Army | 8.00% | ~3,464 |
+| That is mine! | 8.00% | ~3,464 |
+| Victorious! | 8.00% | ~3,464 |
+| Brothers in Arms | 6.00% | ~2,598 |
+| That's a Grand Navy | 6.00% | ~2,598 |
+| Seriously?! | 6.00% | ~2,598 |
+| For the Glory | 5.00% | ~2,165 |
+| Cold War | 4.00% | ~1,732 |
+| True Catholic | 4.00% | ~1,732 |
+| Defender of the Faith | 3.00% | ~1,299 |
+| It's all about the money | 3.00% | ~1,299 |
+| Respected | 3.00% | ~1,299 |
+| Truly Divine Ruler | 3.00% | ~1,299 |
 | Agressive Expander | 2.00% | ~866 |
 | Blockader | 2.00% | ~866 |
 | Combined Arms | 2.00% | ~866 |
@@ -37,8 +37,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Factionalism | 1.00% | ~433 |
 | A Golden Empire | 1.00% | ~433 |
 | My armies are invincible! | 1.00% | ~433 |
-| The Five Colonies | 0.90% | ~389 |
-| This navy can take it all | 0.90% | ~389 |
+| The Five Colonies | 0.90% | ~390 |
+| This navy can take it all | 0.90% | ~390 |
 | The Emperors new clothes | 0.80% | ~346 |
 | Isn't this the way to India? | 0.80% | ~346 |
 | Market Control | 0.80% | ~346 |
@@ -46,14 +46,14 @@ Number of Ratings: 8,414  (23.09.2022)
 | Trustworthy | 0.70% | ~303 |
 | Electable! | 0.60% | ~260 |
 | Time Bandit | 0.60% | ~260 |
-| All belongs to Mother Russia | 0.50% | ~216 |
-| At every continent | 0.50% | ~216 |
-| Early-Modern Warfare | 0.50% | ~216 |
-| One Family to Rule them All | 0.50% | ~216 |
-| Populists in Government | 0.50% | ~216 |
-| The pen is mightier than the sword | 0.50% | ~216 |
-| This is My Faith | 0.50% | ~216 |
-| Trophy Hunter | 0.50% | ~216 |
+| All belongs to Mother Russia | 0.50% | ~217 |
+| At every continent | 0.50% | ~217 |
+| Early-Modern Warfare | 0.50% | ~217 |
+| One Family to Rule them All | 0.50% | ~217 |
+| Populists in Government | 0.50% | ~217 |
+| The pen is mightier than the sword | 0.50% | ~217 |
+| This is My Faith | 0.50% | ~217 |
+| Trophy Hunter | 0.50% | ~217 |
 | Absolutely | 0.40% | ~173 |
 | Dude, Where's my Boat? | 0.40% | ~173 |
 | In the Name of the Father | 0.40% | ~173 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,277 (Ranked 78)  
+Progressed: 43,302 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -396,22 +396,22 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-22 | 42,079 | 0 |
 | 2023-05-23 | 42,594 | 0 |
 | 2023-05-24 | 43,149 | 0 |
-| 2023-05-25 | 43,277 | 0 |
+| 2023-05-25 | 43,302 | 0 |
 ## Awards
 Max (Educational): 5,281  (Ranked 60)  
-Sum: 43,726 (Ranked 27)  
+Sum: 43,734 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 5,281 |
 | This game is Highly Recommended | 5,070 |
-| This game has Challenging Combat | 5,040 |
+| This game has Challenging Combat | 5,043 |
 | This game is Extremely Fun | 5,027 |
 | This game has Diverse Characters | 4,976 |
 | This game is Relaxing | 4,911 |
 | This game has Competitive Players | 4,755 |
 | This game has Amazing Storytelling | 4,506 |
-| This game has Amazing Characters | 4,160 |
+| This game has Amazing Characters | 4,165 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -544,4 +544,4 @@ Diff (max vs sum): 33
 | 2023-05-22 | 4.68 | - | 5,271 | 43,642 |
 | 2023-05-23 | 4.68 | - | 5,271 | 43,683 |
 | 2023-05-24 | 4.68 | - | 5,277 | 43,722 |
-| 2023-05-25 | 4.68 | - | 5,281 | 43,726 |
+| 2023-05-25 | 4.68 | - | 5,281 | 43,734 |

@@ -3,8 +3,8 @@
   "Name": "Mia and the Dragon Princess",
   "ProductSlug": "mia-and-the-dragon-princess-f4e1d0",
   "Ranking_EOS_Progress": 298,
-  "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_Completed": 57,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-05-04T07:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40,
+  "EOS_Progressed": 41,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.5,
+  "EOS_Completed_Percentage": 2.44,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:47:18.2098376+00:00",
@@ -226,6 +226,11 @@
       "Time": "2023-05-21T17:00:26.7354042+00:00",
       "NumProgressed": 40,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-25T12:03:11.0594987+00:00",
+      "NumProgressed": 41,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 18,
@@ -235,7 +240,7 @@
       "ID": "a_box_of_tricks",
       "SetID": "5anb57n",
       "Name": "A Box of Tricks",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 90,
       "UsersEstimate": 5
     },
@@ -251,7 +256,7 @@
       "ID": "bathroom_brawler",
       "SetID": "5anb57n",
       "Name": "Bathroom Brawler",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 40,
       "UsersEstimate": 7
     },
@@ -259,7 +264,7 @@
       "ID": "breathless_end",
       "SetID": "5anb57n",
       "Name": "Breathless End",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 90,
       "UsersEstimate": 5
     },
@@ -267,7 +272,7 @@
       "ID": "codebreaker",
       "SetID": "5anb57n",
       "Name": "Codebreaker",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 40,
       "UsersEstimate": 7
     },
@@ -275,7 +280,7 @@
       "ID": "escape_artist",
       "SetID": "5anb57n",
       "Name": "Escape Artist",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -283,7 +288,7 @@
       "ID": "explosive_end",
       "SetID": "5anb57n",
       "Name": "Explosive End",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 90,
       "UsersEstimate": 7
     },
@@ -315,7 +320,7 @@
       "ID": "freedum_fighter",
       "SetID": "5anb57n",
       "Name": "Freedum Fighter",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -323,15 +328,15 @@
       "ID": "glass_act",
       "SetID": "5anb57n",
       "Name": "Glass Act",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "key_keepers_curse",
       "SetID": "5anb57n",
       "Name": "Key Keeper\u0027s Curse",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -347,7 +352,7 @@
       "ID": "relight_my_cannon",
       "SetID": "5anb57n",
       "Name": "Relight my Cannon",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 40,
       "UsersEstimate": 10
     },
@@ -355,7 +360,7 @@
       "ID": "set_sail",
       "SetID": "5anb57n",
       "Name": "Set Sail",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 90,
       "UsersEstimate": 7
     },
@@ -363,7 +368,7 @@
       "ID": "snitch",
       "SetID": "5anb57n",
       "Name": "Snitch",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -371,7 +376,7 @@
       "ID": "tour_guide_extraordinaire",
       "SetID": "5anb57n",
       "Name": "Tour Guide Extraordinaire",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 11
     }
@@ -380,14 +385,14 @@
     {
       "ID": "5anb57n",
       "IsBase": true,
-      "Progressed": 40,
+      "Progressed": 41,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-13T16:58:04.6283661+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:18.2098384+00:00",
-  "LastChanged_Achievements": "2023-05-25T11:02:24.7181354+00:00",
+  "LastChanged_Achievements": "2023-05-25T12:03:11.0594981+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:38.8444841+00:00",
-  "LastUpdate_Ratings": "2023-05-25T10:57:53.7197679+00:00",
-  "LastUpdate_Achievements": "2023-05-25T11:02:24.7181488+00:00"
+  "LastUpdate_Ratings": "2023-05-25T11:58:20.3201978+00:00",
+  "LastUpdate_Achievements": "2023-05-25T12:03:11.0595168+00:00"
 }

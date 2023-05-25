@@ -5,44 +5,44 @@ Rating: 4.77 (Ranked 106)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 7.00% | ~19,050 |
-| Grappling with a Graphorn | 6.00% | ~16,329 |
-| The One Who Mastered Memories | 6.00% | ~16,329 |
-| The Hallowed Hero | 6.00% | ~16,329 |
-| The Hero of Hogwarts | 6.00% | ~16,329 |
-| The Defender of Dragons | 6.00% | ~16,329 |
-| Coasting Along | 6.00% | ~16,329 |
-| First Class Student | 6.00% | ~16,329 |
-| Troll with the Punches | 6.00% | ~16,329 |
-| That's a Keeper | 6.00% | ~16,329 |
-| The Avenging Gazelle | 5.00% | ~13,607 |
-| A Sallow Grave | 5.00% | ~13,607 |
-| Challenge Accepted | 5.00% | ~13,607 |
-| A Keen Sense of Spell | 5.00% | ~13,607 |
-| Loom for Improvement | 5.00% | ~13,607 |
-| A Talent for Spending | 5.00% | ~13,607 |
-| The Spell Master | 5.00% | ~13,607 |
-| Rising From the Ashes | 5.00% | ~13,607 |
+| The Sort Who Makes an Entrance | 7.00% | ~19,051 |
+| Grappling with a Graphorn | 6.00% | ~16,330 |
+| The One Who Mastered Memories | 6.00% | ~16,330 |
+| The Hallowed Hero | 6.00% | ~16,330 |
+| The Hero of Hogwarts | 6.00% | ~16,330 |
+| The Defender of Dragons | 6.00% | ~16,330 |
+| Coasting Along | 6.00% | ~16,330 |
+| First Class Student | 6.00% | ~16,330 |
+| Troll with the Punches | 6.00% | ~16,330 |
+| That's a Keeper | 6.00% | ~16,330 |
+| The Avenging Gazelle | 5.00% | ~13,608 |
+| A Sallow Grave | 5.00% | ~13,608 |
+| Challenge Accepted | 5.00% | ~13,608 |
+| A Keen Sense of Spell | 5.00% | ~13,608 |
+| Loom for Improvement | 5.00% | ~13,608 |
+| A Talent for Spending | 5.00% | ~13,608 |
+| The Spell Master | 5.00% | ~13,608 |
+| Rising From the Ashes | 5.00% | ~13,608 |
 | The Seeker of Knowledge | 4.00% | ~10,886 |
 | Beast Friends | 4.00% | ~10,886 |
 | Flight the Good Flight | 4.00% | ~10,886 |
 | Followed the Butterflies | 4.00% | ~10,886 |
-| The Root of the Problem | 3.00% | ~8,164 |
-| Third Time's a Charm | 3.00% | ~8,164 |
-| Room with a View | 3.00% | ~8,164 |
-| The Ends Petrify the Means | 3.00% | ~8,164 |
-| Raising Expectations | 3.00% | ~8,164 |
+| The Root of the Problem | 3.00% | ~8,165 |
+| Third Time's a Charm | 3.00% | ~8,165 |
+| Room with a View | 3.00% | ~8,165 |
+| The Ends Petrify the Means | 3.00% | ~8,165 |
+| Raising Expectations | 3.00% | ~8,165 |
 | The Toast of the Town | 2.00% | ~5,443 |
 | Going Through the Potions | 2.00% | ~5,443 |
 | Floo Around the World | 2.00% | ~5,443 |
 | The Intrepid Explorer | 2.00% | ~5,443 |
 | The Gryffindor in the Graveyard | 2.00% | ~5,443 |
 | The Wise Owl | 2.00% | ~5,443 |
-| The Good Samaritan | 1.00% | ~2,721 |
-| Put Down Roots | 1.00% | ~2,721 |
-| The Auror's Apprentice | 1.00% | ~2,721 |
-| Rise to the Challenges | 1.00% | ~2,721 |
-| Finishing Touches | 1.00% | ~2,721 |
+| The Good Samaritan | 1.00% | ~2,722 |
+| Put Down Roots | 1.00% | ~2,722 |
+| The Auror's Apprentice | 1.00% | ~2,722 |
+| Rise to the Challenges | 1.00% | ~2,722 |
+| Finishing Touches | 1.00% | ~2,722 |
 | Savvy Spender | 0.80% | ~2,177 |
 | Demiguise Dread | 0.80% | ~2,177 |
 | A Forte for Achievement | 0.80% | ~2,177 |
@@ -51,7 +51,7 @@ Rating: 4.77 (Ranked 106)
 | The Nature of the Beast | 0.40% | ~1,089 |
 | Collector's Edition | 0.20% | ~544 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 272,148 (Ranked 38)  
+Progressed: 272,159 (Ranked 38)  
 Completed: 372 (0.14%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,15 +86,15 @@ Completed: 372 (0.14%) (Ranked 150)
 | 2023-05-22 | 271,035 | 369 |
 | 2023-05-23 | 271,519 | 370 |
 | 2023-05-24 | 271,975 | 372 |
-| 2023-05-25 | 272,148 | 372 |
+| 2023-05-25 | 272,159 | 372 |
 ## Awards
 Max (Character Customization): 19,098  (Ranked 18)  
-Sum: 35,198 (Ranked 33)  
+Sum: 35,218 (Ranked 33)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 19,098 |
-| This game has Great Boss Battles | 9,007 |
+| This game has Great Boss Battles | 9,027 |
 | This game is Extremely Fun | 784 |
 | This game is Great for Beginners | 777 |
 | This game is Relaxing | 775 |
@@ -170,3 +170,4 @@ Diff (max vs sum): -15
 | 2023-05-22 | 4.77 | 19,022 | 35,034 |
 | 2023-05-23 | 4.77 | 19,054 | 35,104 |
 | 2023-05-24 | 4.77 | 19,098 | 35,198 |
+| 2023-05-25 | 4.77 | 19,098 | 35,218 |
