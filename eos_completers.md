@@ -19,21 +19,21 @@
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.07% |
 | 18 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.79% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.79% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.78% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
 | 22 | [Scorn](games/s/scorn.md) | 6.95% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 6.78% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 6.77% |
 | 24 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 25 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.71% |
-| 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.39% |
-| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.19% |
-| 29 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.15% |
+| 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.36% |
+| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.18% |
+| 29 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.13% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.83% |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 32 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.35% |
 | 33 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.26% |
-| 34 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.08% |
+| 34 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.00% |
 | 35 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.92% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
 | 37 | [Doodle God](games/d/doodle_god.md) | 3.88% |
@@ -54,8 +54,8 @@
 | 52 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 53 | [FORECLOSED](games/f/foreclosed.md) | 2.60% |
 | 54 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.53% |
-| 55 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.50% |
 | 55 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 56 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.47% |
 | 57 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.44% |
 | 58 | [JARS](games/j/jars.md) | 2.33% |
 | 59 | [Iron Danger](games/i/iron_danger.md) | 2.30% |
@@ -115,8 +115,8 @@
 | 112 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.39% |
 | 114 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.38% |
 | 115 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
-| 115 | [Tchia](games/t/tchia.md) | 0.37% |
-| 117 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
+| 116 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
+| 116 | [Tchia](games/t/tchia.md) | 0.36% |
 | 118 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.34% |
 | 118 | [Godlike Burger](games/g/godlike_burger.md) | 0.34% |
 | 118 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.34% |
@@ -385,6 +385,7 @@
 | 202 | [Tales of the Orient: The Rising Sun](games/t/tales_of_the_orient__the_rising_sun.md) | 0.00% |
 | 202 | [Terminal Velocity™: Boosted Edition](games/t/terminal_velocity™__boosted_edition.md) | 0.00% |
 | 202 | [tERRORbane](games/t/terrorbane.md) | 0.00% |
+| 202 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 0.00% |
 | 202 | [The Entropy Centre](games/t/the_entropy_centre.md) | 0.00% |
 | 202 | [The Galactic Junkers](games/t/the_galactic_junkers.md) | 0.00% |
 | 202 | [The Gardener and the Wild Vines](games/t/the_gardener_and_the_wild_vines.md) | 0.00% |
@@ -417,4 +418,4 @@
 | 202 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 202 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 202 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,686 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,687 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |

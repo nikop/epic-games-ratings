@@ -20,5 +20,5 @@
 | [canVERSE](games/c/canverse.md) | 2023-03-31 | - |  | - | - |
 | [Chainmonsters](games/c/chainmonsters.md) | 2023-03-08 | - |  | 3.81 | 0 |
 | [Star Atlas](games/s/star_atlas.md) | 2022-12-31 | - |  | - | 0 |
-| [STG Football](games/s/stg_football.md) | 2022-10-26 | - |  | 4.46 | 39 |
+| [STG Football](games/s/stg_football.md) | 2022-10-26 | - |  | 4.45 | 39 |
 | [Blankos Block Party](games/b/blankos_block_party.md) | 2022-09-15 | - |  | 4.21 | 30 |
