@@ -184,46 +184,49 @@ var nameTable = new MarkdownTable<GameDbItem>()
     .AddColumn("Game", x => $"[{x.Name}]({GamesLink(x)})")
     .AddColumn("Rating", x => MarkdownHelpers.FormatRating(x.Rating))
     .AddColumn("Ranking", x => MarkdownHelpers.FormatRanking(x.Ranking_Rating))
-    .AddColumn("Awards", x => MarkdownHelpers.FormatVotes(x.NumberOfAwardsMax))
+    .AddColumn("Awards", x => MarkdownHelpers.FormatNumber(x.NumberOfAwardsMax))
     .AddColumn("Ranking", x => MarkdownHelpers.FormatRanking(x.Ranking_Popularity));
 
 var nameDateTable = new MarkdownTable<GameDbItem>()
     .AddColumn("Game", x => $"[{x.Name}]({GamesLink(x)})")
     .AddColumn("Release Date", x => MarkdownHelpers.FormatDate(x.Store.ReleaseDate))
-    .AddColumn("PC Release Date", x => MarkdownHelpers.FormatDate(x.Store.PcReleaseDate));
+    .AddColumn("Achievements", x => x.TotalAchievements > 0 ? $"{MarkdownHelpers.FormatNumber(x.TotalAchievements)} ({MarkdownHelpers.FormatNumber(x.TotalAchievementsXP)} XP)" : "-")
+    .AddColumn("Players", x => MarkdownHelpers.FormatNumber(x.EOS_Progressed))
+    .AddColumn("Rating", x => MarkdownHelpers.FormatRating(x.Rating))
+    .AddColumn("Awards", x => MarkdownHelpers.FormatNumber(x.NumberOfAwardsMax));
 
 var ratingTable = new MarkdownTable<GameDbItem>()
     .AddColumn("#", x => MarkdownHelpers.FormatRanking(x.Ranking_Rating))
     .AddColumn("Game", x => $"[{x.Name}]({GamesLink(x)})")
     .AddColumn("Rating", x => MarkdownHelpers.FormatRating(x.Rating))
-    .AddColumn("Awards", x => MarkdownHelpers.FormatVotes(x.NumberOfAwardsMax))
+    .AddColumn("Awards", x => MarkdownHelpers.FormatNumber(x.NumberOfAwardsMax))
     .AddColumn("Popularity Ranking", x => MarkdownHelpers.FormatRanking(x.Ranking_Popularity));
 
 var awardsTable = new MarkdownTable<GameDbItem>()
     .AddColumn("#", x => MarkdownHelpers.FormatRanking(x.Ranking_Popularity))
     .AddColumn("Game", x => $"[{x.Name}]({GamesLink(x)})")
-    .AddColumn("Awards", x => MarkdownHelpers.FormatVotes(x.NumberOfAwardsMax))
+    .AddColumn("Awards", x => MarkdownHelpers.FormatNumber(x.NumberOfAwardsMax))
     .AddColumn("Rating", x => MarkdownHelpers.FormatRating(x.Rating))
     .AddColumn("Rating Ranking", x => MarkdownHelpers.FormatRanking(x.Ranking_Rating));
 
 var awardsSumTable = new MarkdownTable<GameDbItem>()
     .AddColumn("#", x => MarkdownHelpers.FormatRanking(x.Ranking_PopularitySum))
     .AddColumn("Game", x => $"[{x.Name}]({GamesLink(x)})")
-    .AddColumn("Awards", x => MarkdownHelpers.FormatVotes(x.NumberOfAwards))
+    .AddColumn("Awards", x => MarkdownHelpers.FormatNumber(x.NumberOfAwards))
     .AddColumn("Rating", x => MarkdownHelpers.FormatRating(x.Rating))
     .AddColumn("Rating Ranking", x => MarkdownHelpers.FormatRanking(x.Ranking_Rating));
 
 var eosTable = new MarkdownTable<GameDbItem>()
     .AddColumn("#", x => MarkdownHelpers.FormatRanking(x.Ranking_EOS_Progress))
     .AddColumn("Game", x => $"[{x.Name}]({GamesLink(x)})")
-    .AddColumn("Progressed", x => MarkdownHelpers.FormatVotes(x.EOS_Progressed))
-    .AddColumn("Completed", x => MarkdownHelpers.FormatVotes(x.EOS_Completed));
+    .AddColumn("Progressed", x => MarkdownHelpers.FormatNumber(x.EOS_Progressed))
+    .AddColumn("Completed", x => MarkdownHelpers.FormatNumber(x.EOS_Completed));
 
 var eosNewPlayersTable = new MarkdownTable<GameDbItem>()
     .AddColumn("#", x => MarkdownHelpers.FormatRanking(x.Ranking_EOS_NewPlayers))
     .AddColumn("Game", x => $"[{x.Name}]({GamesLink(x)})")
-    .AddColumn("New Players", x => MarkdownHelpers.FormatVotes(x.EOS_NewPlayers))
-    .AddColumn("Total", x => MarkdownHelpers.FormatVotes(x.EOS_Progressed));
+    .AddColumn("New Players", x => MarkdownHelpers.FormatNumber(x.EOS_NewPlayers))
+    .AddColumn("Total", x => MarkdownHelpers.FormatNumber(x.EOS_Progressed));
 
 var eosCompletersTable = new MarkdownTable<GameDbItem>()
     .AddColumn("#", x => MarkdownHelpers.FormatRanking(x.Ranking_EOS_Completed))

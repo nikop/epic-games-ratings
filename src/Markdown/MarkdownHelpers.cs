@@ -38,7 +38,7 @@ namespace EpicRatingsUpdater.Markdown
             return rating.Value.ToString("F1", usCulture);
         }
 
-        public static string FormatVotes(int? votes)
+        public static string FormatNumber(int? votes)
         {
             if (votes == null)
                 return "-";
@@ -115,9 +115,9 @@ namespace EpicRatingsUpdater.Markdown
 
             sb.AppendLine($"# Stats");
 
-            sb.AppendLine($"Games: {FormatVotes(games.Count)}  ");
-            sb.AppendLine($"Games with rating: {FormatVotes(filteredList.Count)}  ");
-            sb.AppendLine($"Games without rating: {FormatVotes(games.Count - filteredList.Count)}  ");
+            sb.AppendLine($"Games: {FormatNumber(games.Count)}  ");
+            sb.AppendLine($"Games with rating: {FormatNumber(filteredList.Count)}  ");
+            sb.AppendLine($"Games without rating: {FormatNumber(games.Count - filteredList.Count)}  ");
             sb.AppendLine($"Average rating: {FormatRating(average)}  ");
 
             var minRating = decRatings.Keys.Min();
@@ -134,7 +134,7 @@ namespace EpicRatingsUpdater.Markdown
                     count = 0;
                 }
 
-                sb.AppendLine($"| {FormatRating1digit(i)} | {FormatVotes(count)} |");
+                sb.AppendLine($"| {FormatRating1digit(i)} | {FormatNumber(count)} |");
             }
 
             return sb.ToString();
@@ -160,7 +160,7 @@ namespace EpicRatingsUpdater.Markdown
 
             if (item.NumberOfRatings != null)
             {
-                sb.AppendLine($"Number of Ratings: {FormatVotes(item.NumberOfRatings)}  (23.09.2022)  ");
+                sb.AppendLine($"Number of Ratings: {FormatNumber(item.NumberOfRatings)}  (23.09.2022)  ");
             }
 
             if (item.Achievements.Count > 0)
@@ -170,7 +170,7 @@ namespace EpicRatingsUpdater.Markdown
                 var achTable = new MarkdownTable<AchievementItem>();
                 achTable.AddColumn("Name", x => x.Name);
                 achTable.AddColumn("Percentage", x => FormatRating(x.Percentage) + "%");
-                achTable.AddColumn("Users", x => "~" + FormatVotes(x.UsersEstimate));
+                achTable.AddColumn("Users", x => "~" + FormatNumber(x.UsersEstimate));
 
                 sb.Append(achTable.FormatTable(item.Achievements.OrderByDescending(x => x.Percentage)));
             }
@@ -179,16 +179,16 @@ namespace EpicRatingsUpdater.Markdown
             {
                 sb.AppendLine("## Popularity (Based on EOS Achievements)");
 
-                sb.AppendLine($"Progressed: {FormatVotes(item.EOS_Progressed)} (Ranked {FormatRanking(item.Ranking_EOS_Progress)})  ");
-                sb.AppendLine($"Completed: {FormatVotes(item.EOS_Completed)} ({FormatRating(item.EOS_Completed_Percentage)}%) (Ranked {FormatRanking(item.Ranking_EOS_Completed)})  ");
+                sb.AppendLine($"Progressed: {FormatNumber(item.EOS_Progressed)} (Ranked {FormatRanking(item.Ranking_EOS_Progress)})  ");
+                sb.AppendLine($"Completed: {FormatNumber(item.EOS_Completed)} ({FormatRating(item.EOS_Completed_Percentage)}%) (Ranked {FormatRanking(item.Ranking_EOS_Completed)})  ");
 
                 sb.AppendLine("## EOS Players History");
 
                 var eosHistoryTable = new MarkdownTable<GameDbItemEOSHistory>();
 
                 eosHistoryTable.AddColumn("Date", x => x.Time.ToString("yyyy-MM-dd"));
-                eosHistoryTable.AddColumn("Progressed", x => FormatVotes(x.NumProgressed));
-                eosHistoryTable.AddColumn("Completed", x => FormatVotes(x.NumCompleted));
+                eosHistoryTable.AddColumn("Progressed", x => FormatNumber(x.NumProgressed));
+                eosHistoryTable.AddColumn("Completed", x => FormatNumber(x.NumCompleted));
 
                 var itemsToShow = item.EosHistory.GroupBy(x => x.Time.Date).Select(x => new GameDbItemEOSHistory
                 {
@@ -206,8 +206,8 @@ namespace EpicRatingsUpdater.Markdown
 
                 if (item.NumberOfAwards != null && item.NumberOfAwards > 0)
                 {
-                    sb.AppendLine($"Max ({item.MaxAwardTitle}): {FormatVotes(item.NumberOfAwardsMax)}  (Ranked {FormatRanking(item.Ranking_Popularity)})  ");
-                    sb.AppendLine($"Sum: {FormatVotes(item.NumberOfAwards)} (Ranked {FormatRanking(item.Ranking_PopularitySum)})  ");
+                    sb.AppendLine($"Max ({item.MaxAwardTitle}): {FormatNumber(item.NumberOfAwardsMax)}  (Ranked {FormatRanking(item.Ranking_Popularity)})  ");
+                    sb.AppendLine($"Sum: {FormatNumber(item.NumberOfAwards)} (Ranked {FormatRanking(item.Ranking_PopularitySum)})  ");
                     sb.AppendLine($"Diff (max vs sum): {FormatRanking(item.Ranking_Popularity - item.Ranking_PopularitySum)}  ");
                 }
 
@@ -216,7 +216,7 @@ namespace EpicRatingsUpdater.Markdown
 
                 foreach (var tag in item.Tags.OrderByDescending(x => x.Count))
                 {
-                    sb.AppendLine($"| {tag.Text} | {FormatVotes(tag.Count)} |");
+                    sb.AppendLine($"| {tag.Text} | {FormatNumber(tag.Count)} |");
                 }
             }
 
@@ -231,11 +231,11 @@ namespace EpicRatingsUpdater.Markdown
 
                 if (item.RatingHistory.Any(x => x.NumberOfRatings != null))
                 {
-                    ratingsTable.AddColumn("Number of Ratings", x => FormatVotes(x?.NumberOfRatings));
+                    ratingsTable.AddColumn("Number of Ratings", x => FormatNumber(x?.NumberOfRatings));
                 }
 
-                ratingsTable.AddColumn("Number of Awards (Max)", x => FormatVotes(x?.NumberOfAwardsMax));
-                ratingsTable.AddColumn("Number of Awards (Sum)", x => FormatVotes(x?.NumberOfAwards));
+                ratingsTable.AddColumn("Number of Awards (Max)", x => FormatNumber(x?.NumberOfAwardsMax));
+                ratingsTable.AddColumn("Number of Awards (Sum)", x => FormatNumber(x?.NumberOfAwards));
 
                 var itemsToShow = item.RatingHistory.GroupBy(x => x.Time.Date).Select(x => new GameDbItemRatingHistory
                 {
