@@ -2,7 +2,7 @@
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [Hello Goodboy](games/h/hello_goodboy.md) | 2023-05-25 | - | 0 | - | - |
 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 2023-05-25 | 36 (1,000 XP) | 5 | - | - |
-| [Railway Empire 2](games/r/railway_empire_2.md) | 2023-05-25 | 55 (1,000 XP) | 12 | - | - |
+| [Railway Empire 2](games/r/railway_empire_2.md) | 2023-05-25 | 55 (1,000 XP) | 13 | - | - |
 | [Indoor Kickball](games/i/indoor_kickball.md) | 2023-05-26 | 40 (1,000 XP) | 2 | - | - |
 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 2023-05-26 | - | 0 | - | - |
 | [Operation New Earth](games/o/operation_new_earth.md) | 2023-05-26 | - | 0 | - | - |
@@ -38,7 +38,9 @@
 | [Conjury Revell](games/c/cb52331116614b88b7b72602cbb52691.md) | 2023-06-01 | - | 0 | - | - |
 | [Brick Breaker Premium 2](games/3/342e32c0b4c74b909ff99a6aa8f1f075.md) | 2023-06-02 | - | 0 | - | - |
 | [The Movie Trivia Challenge](games/5/50f0b849556a4e22acb18bbfc04a8c62.md) | 2023-06-02 | - | 0 | - | - |
+| [Insectipede](games/3/311f087b092342bc84393e9d1f9c3294.md) | 2023-06-03 | - | 0 | - | - |
 | [The Music Trivia Challenge](games/2/2ff17af973164d8b897f27050627f9b6.md) | 2023-06-03 | - | 0 | - | - |
+| [Martian Invaders](games/b/ba379411990446cc90d33093ac594c66.md) | 2023-06-04 | - | 0 | - | - |
 | [The Sports Trivia Challenge](games/a/a3dafcfbe71246d98d152c13b1040f27.md) | 2023-06-04 | - | 0 | - | - |
 | [Amnesia: The Bunker](games/a/amnesia__the_bunker.md) | 2023-06-06 | - | 0 | - | - |
 | [Starlight X-2 Galactic Puzzles](games/s/starlight_x-2_galactic_puzzles.md) | 2023-06-07 | 43 (1,000 XP) | 1 | - | - |
@@ -46,6 +48,7 @@
 | [Rise of Jericho](games/r/rise_of_jericho.md) | 2023-06-09 | - | 0 | - | - |
 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 2023-06-09 | - | 0 | - | - |
 | [Movie Actor Trivia](games/5/510e448ae26b474fadbc5e691c9c5750.md) | 2023-06-09 | - | 0 | - | - |
+| [Super Arcade Boy in Goodbye Greenies](games/f/f0ef89978ffb450cbeb974a01d8f7bbe.md) | 2023-06-10 | - | 0 | - | - |
 | [Television Trivia](games/4/47992822501440c2b8773895e0d7f100.md) | 2023-06-10 | - | 0 | - | - |
 | [Suicide Guy](games/7/7d9cb4fa8c4b488d86c7e9dec37318d5.md) | 2023-06-14 | 10 (1,000 XP) | 5 | - | - |
 | [F1® 23 Standard Edition](games/f/f1®_23_standard_edition.md) | 2023-06-16 | - | 0 | - | - |
@@ -394,7 +397,7 @@
 | [The Invincible](games/t/the_invincible.md) | 2099-01-28 | - | 0 | - | - |
 | [Ad Infinitum](games/a/ad_infinitum.md) | 2099-02-01 | - | 0 | - | - |
 | [Broken Roads](games/b/broken_roads.md) | 2099-02-01 | - | 0 | - | - |
-| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 2,558 | - | - |
+| [Disney Speedstorm](games/d/disney_speedstorm.md) | 2099-02-01 | 24 (1,000 XP) | 2,559 | - | - |
 | [Eville](games/e/eville.md) | 2099-02-01 | - | 0 | - | - |
 | [F1 Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 2099-02-01 | - | 0 | - | - |
 | [Gangs of Sherwood](games/g/gangs_of_sherwood.md) | 2099-02-01 | - | 0 | - | - |

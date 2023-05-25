@@ -13,16 +13,16 @@
 | [Observation Particle Life 1](games/c/cf7613b267a042e9b06d5d527e8a5eb1.md) | 2023-05-24 | - | 0 | - | - |
 | [Skeletal Avengers](games/d/d2dcfb91f59d4880b8a5e6fe2aa64a7e.md) | 2023-05-24 | 21 (1,000 XP) | 5 | - | - |
 | [Lost Station](games/c/c008c76e4c4946c7b9ad466bd02ad96c.md) | 2023-05-24 | - | 0 | - | - |
-| [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 2023-05-23 | 53 (1,000 XP) | 274 | - | 0 |
+| [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 2023-05-23 | 53 (1,000 XP) | 281 | - | 0 |
 | [The Creepy Syndrome](games/f/f2ed44898a204bee866836b9b659bce4.md) | 2023-05-23 | 12 (1,000 XP) | 0 | - | - |
-| [Miasma Chronicles](games/m/miasma_chronicles.md) | 2023-05-23 | 51 (1,000 XP) | 353 | - | 0 |
+| [Miasma Chronicles](games/m/miasma_chronicles.md) | 2023-05-23 | 51 (1,000 XP) | 358 | - | 0 |
 | [Planet of Lana](games/p/planet_of_lana.md) | 2023-05-23 | - | 0 | - | 0 |
 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 2023-05-23 | - | 0 | - | 0 |
 | [Cubzh](games/c/cubzh.md) | 2023-05-23 | - | 0 | - | 0 |
 | [FutureGrind](games/8/80a76982ecc941dd864a8792a03a5ddc.md) | 2023-05-23 | 18 (1,000 XP) | 2 | - | - |
 | [Knights of Cathena](games/8/8cc5b4b56c84428999f03f3e6ac49481.md) | 2023-05-23 | - | 0 | - | 0 |
 | [The Lost Village](games/1/1c84e433f7ee4f21bce4c8f8600472f2.md) | 2023-05-23 | - | 0 | - | 0 |
-| [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 2023-05-22 | 22 (1,000 XP) | 833 | - | - |
+| [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 2023-05-22 | 22 (1,000 XP) | 837 | - | - |
 | [Backbeat](games/b/backbeat.md) | 2023-05-22 | 24 (1,000 XP) | 0 | - | - |
 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 2023-05-22 | - | 0 | - | 0 |
 | [The Temple of Archimagus Hatabus](games/3/3b5b3310fcb74963b8d4ec489cd74291.md) | 2023-05-21 | - | 0 | - | - |
@@ -37,12 +37,12 @@
 | [Riftbound](games/r/riftbound.md) | 2023-05-18 | 27 (1,000 XP) | 25 | - | 0 |
 | [Without Escape](games/w/without_escape.md) | 2023-05-18 | 9 (1,000 XP) | 9 | - | - |
 | [The Empress of Mahjong](games/r/royal_defense.md) | 2023-05-18 | - | 0 | - | - |
-| [The Outlast Trials](games/t/the_outlast_trials.md) | 2023-05-18 | - | 0 | 4.63 | 0 |
+| [The Outlast Trials](games/t/the_outlast_trials.md) | 2023-05-18 | - | 0 | 4.64 | 0 |
 | [Return to Monkey Island](games/6/652423874791471c8ed723e94d43062b.md) | 2023-05-18 | - | 0 | - | 0 |
 | [The Inheritance of Crimson Manor](games/t/the_inheritance_of_crimson_manor.md) | 2023-05-18 | 12 (1,000 XP) | 2 | - | 0 |
 | [Flyto](games/f/flyto.md) | 2023-05-18 | - | 0 | - | - |
 | [Witchcrafty](games/w/witchcrafty.md) | 2023-05-18 | - | 0 | - | 0 |
-| [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 2023-05-18 | 30 (1,000 XP) | 304 | - | 0 |
+| [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 2023-05-18 | 30 (1,000 XP) | 305 | - | 0 |
 | [Mountaincore](games/m/mountaincore.md) | 2023-05-18 | - | 0 | - | 0 |
 | [Fantasy World TD](games/2/2891ebedb15b4a9e99cc600859de0a74.md) | 2023-05-17 | - | 0 | - | - |
 | [Elypse](games/e/elypse.md) | 2023-05-17 | 34 (1,000 XP) | 44 | - | 0 |
@@ -111,7 +111,7 @@
 | [NeuroNet: Mendax Proxy](games/n/neuronet__mendax_proxy.md) | 2023-05-04 | 48 (1,000 XP) | 18 | - | 0 |
 | [FUR Squadron](games/f/fur_squadron.md) | 2023-05-04 | 24 (1,000 XP) | 18 | - | - |
 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2023-05-04 | 18 (1,000 XP) | 41 | - | 0 |
-| [Ravenlok](games/r/ravenlok.md) | 2023-05-04 | 50 (1,000 XP) | 853 | - | 0 |
+| [Ravenlok](games/r/ravenlok.md) | 2023-05-04 | 50 (1,000 XP) | 854 | - | 0 |
 | [Heroes of Rome 3 - The Brotherhood](games/h/heroes_of_rome_3_-_the_brotherhood.md) | 2023-05-03 | - | 0 | - | - |
 | [Blipz](games/b/blipz.md) | 2023-05-03 | - | 0 | - | - |
 | [Remains](games/r/remains.md) | 2023-05-03 | 7 (1,000 XP) | 33 | - | 0 |
@@ -152,13 +152,13 @@
 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2023-04-28 | - | 0 | 4.43 | 973 |
 | [Dojoran](games/d/dojoran.md) | 2023-04-27 | - | 0 | - | - |
 | [Mail Time](games/m/mail_time.md) | 2023-04-27 | - | 0 | - | 0 |
-| [Poker Club](games/p/poker_club.md) | 2023-04-27 | 45 (1,000 XP) | 463,350 | 3.77 | 0 |
+| [Poker Club](games/p/poker_club.md) | 2023-04-27 | 45 (1,000 XP) | 463,423 | 3.78 | 0 |
 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 2023-04-27 | 77 (1,060 XP) | 998 | - | 0 |
 | [ArcRunner](games/a/arcrunner.md) | 2023-04-27 | 28 (1,000 XP) | 79 | - | 0 |
 | [Dungeon Drafters](games/d/dungeon_drafters.md) | 2023-04-27 | 40 (1,000 XP) | 30 | - | 0 |
 | [Shotgun Farmers](games/s/shotgun_farmers.md) | 2023-04-27 | 74 (1,150 XP) | 54 | - | 0 |
 | [Bramble The Mountain King](games/b/bramble_the_mountain_king.md) | 2023-04-27 | 30 (1,000 XP) | 2 | - | 0 |
-| [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 2023-04-27 | 31 (1,000 XP) | 99 | - | 0 |
+| [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 2023-04-27 | 31 (1,000 XP) | 100 | - | 0 |
 | [Kao the Kangaroo - 2000 re-release](games/k/kao_the_kangaroo_-_2000_re-release.md) | 2023-04-27 | - | 0 | - | 0 |
 | [Kao the Kangaroo - Mystery of the Volcano](games/k/kao_the_kangaroo_-_mystery_of_the_volcano.md) | 2023-04-27 | - | 0 | - | 0 |
 | [Ash of Gods: The Way](games/a/ash_of_gods__the_way.md) | 2023-04-27 | 49 (1,000 XP) | 1 | - | 0 |
@@ -167,9 +167,8 @@
 | [The Last Case of Benedict Fox](games/t/the_last_case_of_benedict_fox.md) | 2023-04-27 | - | 0 | - | - |
 | [Cards of Ethernity](games/c/cards_of_ethernity.md) | 2023-04-26 | - | 0 | - | 0 |
 | [EBOLA 3](games/e/ebola_3.md) | 2023-04-26 | 50 (1,000 XP) | 179 | - | 0 |
-| [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 2023-04-26 | 5 (1,000 XP) | 820 | - | 0 |
+| [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 2023-04-26 | 5 (1,000 XP) | 821 | - | 0 |
 | [Thomas' Tales](games/t/thomas'_tales.md) | 2023-04-26 | - | 0 | - | - |
 | [KITS](games/k/kits.md) | 2023-04-26 | - | 0 | - | 0 |
 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 2023-04-26 | - | 0 | 4.67 | 0 |
 | [Lonesome Village](games/l/lonesome_village.md) | 2023-04-25 | - | 0 | - | 0 |
-| [Morels: The Hunt](games/m/morels__the_hunt.md) | 2023-04-25 | - | 0 | - | 0 |

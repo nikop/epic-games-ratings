@@ -5,6 +5,7 @@
 | [Old World](../games/o/old_world.md) | 285 | 2,940 |
 | [Cities: Skylines](../games/c/cities__skylines.md) | 119 | 2,580 |
 | [Idle Champions of the Forgotten Realms](../games/i/idle_champions_of_the_forgotten_realms.md) | 493 | 2,465 |
+| [](../games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 75 | 1,655 |
 | [Sniper Elite 5](../games/s/sniper_elite_5.md) | 68 | 1,550 |
 | [Alan Wake Remastered](../games/a/alan_wake_remastered.md) | 67 | 1,500 |
 | [The Callisto Protocol](../games/t/the_callisto_protocol.md) | 40 | 1,500 |

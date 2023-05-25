@@ -1,6 +1,6 @@
 | Game | Total Achievements | Total XP | Sets |
 | ---- | ------------------ | -------- | ---- |
-| [](../games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0 | 0 | 2 |
+| [](../games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 75 | 1,655 | 2 |
 | [Age of Wonders 4](../games/a/age_of_wonders_4.md) | 44 | 1,000 | 2 |
 | [Alan Wake Remastered](../games/a/alan_wake_remastered.md) | 67 | 1,500 | 2 |
 | [Call of the Wild: The Angler™](../games/c/call_of_the_wild__the_angler™.md) | 35 | 1,200 | 2 |

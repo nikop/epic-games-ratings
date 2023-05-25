@@ -30,6 +30,7 @@
 | [Dying Light Enhanced Edition](../games/d/dying_light_enhanced_edition.md) | 78 | 1,000 |
 | [Galactic Civilizations IV: Supernova](../games/g/galactic_civilizations_iv__supernova.md) | 77 | 1,060 |
 | [Good Company](../games/g/good_company.md) | 76 | 1,000 |
+| [](../games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 75 | 1,655 |
 | [Firestone Online Idle RPG](../games/f/firestone_online_idle_rpg.md) | 75 | 1,000 |
 | [Iratus: Lord of the Dead](../games/i/iratus__lord_of_the_dead.md) | 75 | 1,000 |
 | [Train Valley 2](../games/t/train_valley_2.md) | 75 | 1,140 |
