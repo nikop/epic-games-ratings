@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -68,9 +68,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 981,
+  "EOS_Progressed": 982,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -212,6 +212,11 @@
     {
       "Time": "2023-05-24T20:06:32.4515088+00:00",
       "NumProgressed": 981,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T00:06:28.449139+00:00",
+      "NumProgressed": 982,
       "NumCompleted": 0
     }
   ],
@@ -376,7 +381,7 @@
       "Name": "Enter the Speed Gauntlet",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -520,7 +525,7 @@
       "Name": "I just can\u0027t choose",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "ONELIVERY",
@@ -576,7 +581,7 @@
       "Name": "A Cheese Grater to the Face",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "TENPLATINUM",
@@ -639,7 +644,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 981,
+      "Progressed": 982,
       "Completed": 0
     }
   ],
@@ -647,8 +652,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-04-30T22:57:45.7615692+00:00",
-  "LastChanged_Achievements": "2023-05-24T23:06:30.9234774+00:00",
+  "LastChanged_Achievements": "2023-05-25T00:06:28.4491381+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:42.1539132+00:00",
-  "LastUpdate_Ratings": "2023-05-24T22:58:23.7149948+00:00",
-  "LastUpdate_Achievements": "2023-05-24T23:06:30.923514+00:00"
+  "LastUpdate_Ratings": "2023-05-24T23:58:27.3692154+00:00",
+  "LastUpdate_Achievements": "2023-05-25T00:06:28.449178+00:00"
 }

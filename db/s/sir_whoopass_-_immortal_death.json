@@ -4,7 +4,7 @@
   "ProductSlug": "sir-whoopass-757c5c",
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
@@ -546,9 +546,9 @@
       "ID": "FIRE_2",
       "SetID": "9gfkh7c",
       "Name": "Fire-fighter!",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "FLAPPY_KNIGHT_1",
@@ -618,9 +618,9 @@
       "ID": "GRENADIER_2",
       "SetID": "9gfkh7c",
       "Name": "You\u0027re not going to blow me up!",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "HIDDEN_1",
@@ -690,9 +690,9 @@
       "ID": "JUMP_1",
       "SetID": "9gfkh7c",
       "Name": "Up and down",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "JUMP_2",
@@ -913,8 +913,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-05-24T23:06:20.7625699+00:00",
+  "LastChanged_Achievements": "2023-05-25T00:06:17.9305183+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:56:59.9162402+00:00",
-  "LastUpdate_Ratings": "2023-05-24T22:57:15.426635+00:00",
-  "LastUpdate_Achievements": "2023-05-24T23:06:20.7626405+00:00"
+  "LastUpdate_Ratings": "2023-05-24T23:57:18.1494979+00:00",
+  "LastUpdate_Achievements": "2023-05-25T00:06:17.9305951+00:00"
 }

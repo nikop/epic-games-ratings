@@ -562,9 +562,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5828,
+  "EOS_Progressed": 5829,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1397,6 +1397,11 @@
       "Time": "2023-05-24T23:06:20.4327455+00:00",
       "NumProgressed": 5828,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-25T00:06:17.6061569+00:00",
+      "NumProgressed": 5829,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -1536,7 +1541,7 @@
       "Name": "Insubordination",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -1600,7 +1605,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3147
+      "UsersEstimate": 3148
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -1696,7 +1701,7 @@
       "Name": "The Italian Job",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1108
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -1767,7 +1772,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5828,
+      "Progressed": 5829,
       "Completed": 8
     }
   ],
@@ -1775,8 +1780,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-24T13:03:28.3990064+00:00",
-  "LastChanged_Achievements": "2023-05-24T23:06:20.432745+00:00",
+  "LastChanged_Achievements": "2023-05-25T00:06:17.6061564+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:10.2290416+00:00",
-  "LastUpdate_Ratings": "2023-05-24T22:57:29.6959534+00:00",
-  "LastUpdate_Achievements": "2023-05-24T23:06:20.4327824+00:00"
+  "LastUpdate_Ratings": "2023-05-24T23:57:34.9801648+00:00",
+  "LastUpdate_Achievements": "2023-05-25T00:06:17.6061896+00:00"
 }

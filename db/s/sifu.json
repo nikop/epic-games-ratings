@@ -4200,9 +4200,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 705048,
+  "EOS_Progressed": 705051,
   "EOS_Completed": 12734,
-  "EOS_NewPlayers": 2039,
+  "EOS_NewPlayers": 2042,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -7060,6 +7060,11 @@
       "Time": "2023-05-24T23:06:39.4569936+00:00",
       "NumProgressed": 705048,
       "NumCompleted": 12734
+    },
+    {
+      "Time": "2023-05-25T00:06:37.3936675+00:00",
+      "NumProgressed": 705051,
+      "NumCompleted": 12734
     }
   ],
   "TotalAchievements": 50,
@@ -7271,7 +7276,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7050
+      "UsersEstimate": 7051
     },
     {
       "ID": "27_ShrineBody",
@@ -7407,7 +7412,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -7423,7 +7428,7 @@
       "Name": "Bloody Sport",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -7455,7 +7460,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -7470,21 +7475,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 14349,
+      "Progressed": 14352,
       "Completed": 10161
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 705048,
+      "Progressed": 705051,
       "Completed": 12734
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-24T13:59:00.3612885+00:00",
-  "LastChanged_Achievements": "2023-05-24T23:06:39.4569932+00:00",
+  "LastChanged_Achievements": "2023-05-25T00:06:37.3936669+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.7579865+00:00",
-  "LastUpdate_Ratings": "2023-05-24T22:59:25.6181504+00:00",
-  "LastUpdate_Achievements": "2023-05-24T23:06:39.4570355+00:00"
+  "LastUpdate_Ratings": "2023-05-24T23:59:36.0124974+00:00",
+  "LastUpdate_Achievements": "2023-05-25T00:06:37.3937149+00:00"
 }

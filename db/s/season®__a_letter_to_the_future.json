@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 35,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 832,
+  "EOS_Progressed": 833,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 3.97,
+  "EOS_Completed_Percentage": 3.96,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:27.3083538+00:00",
@@ -501,6 +501,11 @@
       "Time": "2023-05-24T23:06:14.460451+00:00",
       "NumProgressed": 832,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-05-25T00:06:11.4709533+00:00",
+      "NumProgressed": 833,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 16,
@@ -512,7 +517,7 @@
       "Name": "Artist Assistant",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_DEEPLISTENER",
@@ -536,7 +541,7 @@
       "Name": "Emotional Baggage Handler",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_GOODBYETIENGVALLEY",
@@ -560,7 +565,7 @@
       "Name": "Grey Hands Praxis 101",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -600,7 +605,7 @@
       "Name": "Outside World Seer",
       "Percentage": 64,
       "XP": 40,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -616,7 +621,7 @@
       "Name": "Stranger Encounterer",
       "Percentage": 38,
       "XP": 40,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "ACH_THEEND",
@@ -632,14 +637,14 @@
       "Name": "Tour de Tieng",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 832,
+      "Progressed": 833,
       "Completed": 33
     }
   ],
@@ -647,8 +652,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-05-24T23:06:14.4604504+00:00",
+  "LastChanged_Achievements": "2023-05-25T00:06:11.4709527+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:12.4580527+00:00",
-  "LastUpdate_Ratings": "2023-05-24T22:58:59.0562019+00:00",
-  "LastUpdate_Achievements": "2023-05-24T23:06:14.460462+00:00"
+  "LastUpdate_Ratings": "2023-05-24T23:59:07.1630222+00:00",
+  "LastUpdate_Achievements": "2023-05-25T00:06:11.4709697+00:00"
 }

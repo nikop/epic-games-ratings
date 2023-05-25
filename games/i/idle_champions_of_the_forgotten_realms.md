@@ -13,12 +13,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 0.40% | ~354 |
 | The Mad Wizard | 0.40% | ~354 |
 | Coasting to the Finish | 0.40% | ~219 |
+| Were-verpowered | 0.30% | ~266 |
 | The Ring of Regeneration | 0.30% | ~266 |
 | Are Ya Chicken? | 0.30% | ~266 |
 | Quick or Quack | 0.30% | ~164 |
 | Owlbear Necessities | 0.20% | ~110 |
 | Best Thay Ever | 0.20% | ~110 |
-| Were-verpowered | 0.20% | ~177 |
 | Checkmate | 0.20% | ~110 |
 | Vecna Out! | 0.20% | ~110 |
 | A Persistent Buzzing | 0.20% | ~177 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.10% | ~89 |
 | Rescue in the Jungle | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,533 (Ranked 60)  
-Completed: 1,875 (2.12%) (Ranked 62)  
+Progressed: 88,537 (Ranked 60)  
+Completed: 1,876 (2.12%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -535,6 +535,7 @@ Completed: 1,875 (2.12%) (Ranked 62)
 | 2023-05-22 | 88,337 | 1,863 |
 | 2023-05-23 | 88,435 | 1,872 |
 | 2023-05-24 | 88,533 | 1,875 |
+| 2023-05-25 | 88,537 | 1,876 |
 ## Awards
 Max (Diverse Characters): 4,902  (Ranked 64)  
 Sum: 29,965 (Ranked 37)  

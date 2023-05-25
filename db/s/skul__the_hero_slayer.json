@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -782,9 +782,9 @@
       "Count": 114
     }
   ],
-  "EOS_Progressed": 7371,
+  "EOS_Progressed": 7372,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -1417,6 +1417,11 @@
       "Time": "2023-05-24T22:05:26.9579758+00:00",
       "NumProgressed": 7371,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-25T00:06:04.8120211+00:00",
+      "NumProgressed": 7372,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 24,
@@ -1452,7 +1457,7 @@
       "Name": "Focus!",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4570
+      "UsersEstimate": 4571
     },
     {
       "ID": "DemonCastleRestoration",
@@ -1508,7 +1513,7 @@
       "Name": "Go Home...",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 1916
+      "UsersEstimate": 1917
     },
     {
       "ID": "HeroSlayer",
@@ -1556,7 +1561,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 4570
+      "UsersEstimate": 4571
     },
     {
       "ID": "SavedElderEnt_2",
@@ -1564,7 +1569,7 @@
       "Name": "Quick Movements",
       "Percentage": 33,
       "XP": 90,
-      "UsersEstimate": 2432
+      "UsersEstimate": 2433
     },
     {
       "ID": "SkeletonKing",
@@ -1580,7 +1585,7 @@
       "Name": "Inventory Management",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2432
+      "UsersEstimate": 2433
     },
     {
       "ID": "TheLegendBegins",
@@ -1588,7 +1593,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 6855
+      "UsersEstimate": 6856
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -1612,22 +1617,22 @@
       "Name": "What should I buy?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 6118
+      "UsersEstimate": 6119
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 7371,
+      "Progressed": 7372,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-05-24T02:03:32.7923758+00:00",
-  "LastChanged_Achievements": "2023-05-24T23:06:07.9035046+00:00",
+  "LastChanged_Achievements": "2023-05-25T00:06:04.8120205+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.259325+00:00",
-  "LastUpdate_Ratings": "2023-05-24T22:59:20.7608844+00:00",
-  "LastUpdate_Achievements": "2023-05-24T23:06:07.9035208+00:00"
+  "LastUpdate_Ratings": "2023-05-24T23:59:30.9779574+00:00",
+  "LastUpdate_Achievements": "2023-05-25T00:06:04.8120389+00:00"
 }

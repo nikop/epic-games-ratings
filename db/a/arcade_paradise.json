@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -72,9 +72,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 594,
+  "EOS_Progressed": 595,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -182,6 +182,11 @@
       "Time": "2023-05-22T11:05:54.6497609+00:00",
       "NumProgressed": 594,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T00:06:26.1325896+00:00",
+      "NumProgressed": 595,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -217,7 +222,7 @@
       "Name": "GOOOAAAL",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "3DigitGoalTrophy",
@@ -313,7 +318,7 @@
       "Name": "Bug Fixer",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "DreadTrophy",
@@ -337,7 +342,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "Ext4Trophy",
@@ -473,7 +478,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "MaxPriceTrophy",
@@ -601,7 +606,7 @@
       "Name": "Gerald of Riviera",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "YouthTrophy",
@@ -624,7 +629,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 594,
+      "Progressed": 595,
       "Completed": 0
     }
   ],
@@ -632,8 +637,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-03-31T05:57:16.243609+00:00",
-  "LastChanged_Achievements": "2023-05-24T23:06:28.7710192+00:00",
+  "LastChanged_Achievements": "2023-05-25T00:06:26.132589+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:47.3233337+00:00",
-  "LastUpdate_Ratings": "2023-05-24T22:58:31.1143865+00:00",
-  "LastUpdate_Achievements": "2023-05-24T23:06:28.7710568+00:00"
+  "LastUpdate_Ratings": "2023-05-24T23:58:34.6660221+00:00",
+  "LastUpdate_Achievements": "2023-05-25T00:06:26.132632+00:00"
 }

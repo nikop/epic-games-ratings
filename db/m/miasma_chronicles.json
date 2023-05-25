@@ -212,9 +212,9 @@
       "ID": "ASPIRING_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Aspiring Editor",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 152
     },
     {
       "ID": "ATTENBOROUGH",
@@ -276,9 +276,9 @@
       "ID": "CROAKED",
       "SetID": "9a4jnji",
       "Name": "Croaked",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "CRUELTY",
@@ -292,9 +292,9 @@
       "ID": "CURVEBALL",
       "SetID": "9a4jnji",
       "Name": "Curveball",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DEAD_DD",
@@ -412,9 +412,9 @@
       "ID": "GIANT_KILLER",
       "SetID": "9a4jnji",
       "Name": "Giant Killer",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "GOAL",
@@ -444,9 +444,9 @@
       "ID": "IM_THE_LAW",
       "SetID": "9a4jnji",
       "Name": "I am the law!",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 69
     },
     {
       "ID": "INFILTRATOR",
@@ -508,9 +508,9 @@
       "ID": "RECYCLER",
       "SetID": "9a4jnji",
       "Name": "Recycler",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "RUTHLESS",
@@ -611,8 +611,8 @@
   ],
   "FirstSeen": "2023-05-23T20:58:17.8341975+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
-  "LastChanged_Achievements": "2023-05-24T23:06:05.9705992+00:00",
+  "LastChanged_Achievements": "2023-05-25T00:06:02.7523841+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:53.8503835+00:00",
-  "LastUpdate_Ratings": "2023-05-24T22:58:38.8312002+00:00",
-  "LastUpdate_Achievements": "2023-05-24T23:06:05.9706338+00:00"
+  "LastUpdate_Ratings": "2023-05-24T23:58:42.3570452+00:00",
+  "LastUpdate_Achievements": "2023-05-25T00:06:02.7524194+00:00"
 }

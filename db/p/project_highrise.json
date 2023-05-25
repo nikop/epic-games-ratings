@@ -4,7 +4,7 @@
   "ProductSlug": "project-highrise-a567e8",
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 170,
+  "EOS_Progressed": 171,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -131,6 +131,11 @@
     {
       "Time": "2023-05-23T15:07:00.7176023+00:00",
       "NumProgressed": 170,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T00:06:47.7251508+00:00",
+      "NumProgressed": 171,
       "NumCompleted": 0
     }
   ],
@@ -277,17 +282,17 @@
       "ID": "ach_consultant",
       "SetID": "b8gh1fi",
       "Name": "Need a Consult",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 56
     },
     {
       "ID": "ach_consultant_1",
       "SetID": "b8gh1fi",
       "Name": "Upgrade Unlock",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 56
     },
     {
       "ID": "ach_consultants_a",
@@ -311,7 +316,7 @@
       "Name": "Smooth Operator",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ach_contracts_1",
@@ -319,7 +324,7 @@
       "Name": "Office Bigwigs",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_contracts_2",
@@ -343,15 +348,15 @@
       "Name": "Luxury Boutiques",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_deco",
       "SetID": "b8gh1fi",
       "Name": "Proper Walls",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 51
     },
     {
       "ID": "ach_drones",
@@ -447,7 +452,7 @@
       "Name": "Starting Skyward",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ach_floors_1",
@@ -479,7 +484,7 @@
       "Name": "Grime is Not Good",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ach_grime_1",
@@ -535,7 +540,7 @@
       "Name": "28 Days Later",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ach_office_1",
@@ -543,7 +548,7 @@
       "Name": "It\u0027s Technical",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ach_office_2",
@@ -583,7 +588,7 @@
       "Name": "Your Prestige is Rising",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ach_prestige_2",
@@ -605,9 +610,9 @@
       "ID": "ach_profit_0",
       "SetID": "b8gh1fi",
       "Name": "In the Black",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 97
     },
     {
       "ID": "ach_profit_1",
@@ -687,15 +692,15 @@
       "Name": "Retail Revenue",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ach_retail_2",
       "SetID": "b8gh1fi",
       "Name": "Emporium Empire",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "ach_retail_3",
@@ -743,7 +748,7 @@
       "Name": "Golden Opportunity",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ach_scenarios_2",
@@ -765,9 +770,9 @@
       "ID": "ach_support_1",
       "SetID": "b8gh1fi",
       "Name": "Smooth Service",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "ach_trash_1",
@@ -813,9 +818,9 @@
       "ID": "ach_util_power",
       "SetID": "b8gh1fi",
       "Name": "Get Electrified",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "ach_util_water",
@@ -846,7 +851,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 170,
+      "Progressed": 171,
       "Completed": 0
     }
   ],
@@ -854,8 +859,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-05-24T23:06:49.8929277+00:00",
+  "LastChanged_Achievements": "2023-05-25T00:06:47.7251503+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:39.3542327+00:00",
-  "LastUpdate_Ratings": "2023-05-24T22:58:21.094069+00:00",
-  "LastUpdate_Achievements": "2023-05-24T23:06:49.8930065+00:00"
+  "LastUpdate_Ratings": "2023-05-24T23:58:25.7736291+00:00",
+  "LastUpdate_Achievements": "2023-05-25T00:06:47.7252362+00:00"
 }

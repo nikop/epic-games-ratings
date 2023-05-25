@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 52,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2022-03-18T04:00:00+00:00",
     "PcReleaseDate": "2022-04-18T04:00:00+00:00",
@@ -3388,9 +3388,9 @@
       "ID": "014_TROPHY_MISSION_REMEMBERING_HOME",
       "SetID": "4ajkb4b",
       "Name": "Duty\u0027s Course",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 27403
+      "UsersEstimate": 28185
     },
     {
       "ID": "015_TROPHY_MISSION_SUFFERING_OF_FOOL",
@@ -3652,8 +3652,8 @@
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
   "LastChanged": "2023-05-22T11:59:16.2659588+00:00",
-  "LastChanged_Achievements": "2023-05-24T23:06:44.012801+00:00",
+  "LastChanged_Achievements": "2023-05-25T00:06:42.054781+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:06:56.3994016+00:00",
-  "LastUpdate_Ratings": "2023-05-24T23:00:18.1147915+00:00",
-  "LastUpdate_Achievements": "2023-05-24T23:06:44.0128371+00:00"
+  "LastUpdate_Ratings": "2023-05-25T00:00:30.2847616+00:00",
+  "LastUpdate_Achievements": "2023-05-25T00:06:42.0548147+00:00"
 }

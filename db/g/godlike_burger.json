@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-04-21T17:00:00+00:00",
@@ -73,9 +73,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 290,
+  "EOS_Progressed": 291,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -228,6 +228,11 @@
       "Time": "2023-05-22T18:00:26.1676889+00:00",
       "NumProgressed": 290,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-25T00:03:16.892073+00:00",
+      "NumProgressed": 291,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 28,
@@ -263,7 +268,7 @@
       "Name": "CRIMINAL",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "GB_DEBTOR",
@@ -285,9 +290,9 @@
       "ID": "GB_FIRST_BLOOD",
       "SetID": "8ga3kd9",
       "Name": "FIRST BLOOD",
-      "Percentage": 79,
+      "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 229
+      "UsersEstimate": 227
     },
     {
       "ID": "GB_GOURMET",
@@ -301,9 +306,9 @@
       "ID": "GB_GRANDMA_WOULD_BE_PROUD",
       "SetID": "8ga3kd9",
       "Name": "GRANDMA WOULD BE PROUD",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 139
+      "UsersEstimate": 137
     },
     {
       "ID": "GB_GRATITUDE",
@@ -365,9 +370,9 @@
       "ID": "GB_KEVIN",
       "SetID": "8ga3kd9",
       "Name": "KEVIN!",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 200
+      "UsersEstimate": 198
     },
     {
       "ID": "GB_LAW_ABIDING_CITIZEN",
@@ -391,7 +396,7 @@
       "Name": "MASTER CHEF",
       "Percentage": 83,
       "XP": 25,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "GB_MISTER_ALL_THUMBS",
@@ -439,7 +444,7 @@
       "Name": "TASTE UNTASTY",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "GB_TRAVELER",
@@ -462,7 +467,7 @@
     {
       "ID": "8ga3kd9",
       "IsBase": true,
-      "Progressed": 290,
+      "Progressed": 291,
       "Completed": 1
     }
   ],
@@ -470,8 +475,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-05-18T03:58:25.9913255+00:00",
-  "LastChanged_Achievements": "2023-05-24T23:03:14.0222827+00:00",
+  "LastChanged_Achievements": "2023-05-25T00:03:16.8920722+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:53.2828983+00:00",
-  "LastUpdate_Ratings": "2023-05-24T22:58:38.1414609+00:00",
-  "LastUpdate_Achievements": "2023-05-24T23:03:14.0222987+00:00"
+  "LastUpdate_Ratings": "2023-05-24T23:58:41.6406443+00:00",
+  "LastUpdate_Achievements": "2023-05-25T00:03:16.8920894+00:00"
 }

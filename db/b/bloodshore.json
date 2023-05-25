@@ -2,9 +2,9 @@
   "ID": "e1d9c285b5214c09b1bd096b63d2d28c",
   "Name": "Bloodshore",
   "ProductSlug": "bloodshore-939cb0",
-  "Ranking_EOS_Progress": 252,
+  "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 149,
+  "EOS_Progressed": 150,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.01,
+  "EOS_Completed_Percentage": 2,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:37.2601776+00:00",
@@ -97,6 +97,11 @@
       "Time": "2023-05-24T08:07:07.5984113+00:00",
       "NumProgressed": 149,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-25T00:06:35.7155982+00:00",
+      "NumProgressed": 150,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 17,
@@ -114,9 +119,9 @@
       "ID": "comedy_killer",
       "SetID": "84ad177",
       "Name": "Comedy Killer",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 51
+      "UsersEstimate": 50
     },
     {
       "ID": "congratulations_you_are_a_sadist",
@@ -124,7 +129,7 @@
       "Name": "Congratulations, you are a sadist",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "deathlooper",
@@ -138,9 +143,9 @@
       "ID": "good_job_nerd",
       "SetID": "84ad177",
       "Name": "Good job, nerd",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 44
     },
     {
       "ID": "leader_you_are_not",
@@ -164,7 +169,7 @@
       "Name": "Maybe you should give it another go",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "mikey_lizard",
@@ -178,9 +183,9 @@
       "ID": "mission_complete",
       "SetID": "84ad177",
       "Name": "Mission Complete",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 44
     },
     {
       "ID": "super_seducer",
@@ -212,7 +217,7 @@
       "Name": "This won\u0027t end well...",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "tried_to_warn_you",
@@ -236,14 +241,14 @@
       "Name": "I used to think I was indecisive...",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
     {
       "ID": "84ad177",
       "IsBase": true,
-      "Progressed": 149,
+      "Progressed": 150,
       "Completed": 3
     }
   ],
@@ -251,8 +256,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-05-24T23:06:37.8685919+00:00",
+  "LastChanged_Achievements": "2023-05-25T00:06:35.7155978+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:09:48.2887695+00:00",
-  "LastUpdate_Ratings": "2023-05-24T23:00:30.7600633+00:00",
-  "LastUpdate_Achievements": "2023-05-24T23:06:37.8686028+00:00"
+  "LastUpdate_Ratings": "2023-05-25T00:00:44.0248735+00:00",
+  "LastUpdate_Achievements": "2023-05-25T00:06:35.7156074+00:00"
 }

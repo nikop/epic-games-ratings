@@ -477,9 +477,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12667,
+  "EOS_Progressed": 12668,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -2552,6 +2552,11 @@
       "Time": "2023-05-24T21:05:45.3247994+00:00",
       "NumProgressed": 12667,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-05-25T00:06:03.4949889+00:00",
+      "NumProgressed": 12668,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 41,
@@ -2603,7 +2608,7 @@
       "Name": "Friends of sorts",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4433
+      "UsersEstimate": 4434
     },
     {
       "ID": "tpote_achievement_15",
@@ -2619,7 +2624,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1773
+      "UsersEstimate": 1774
     },
     {
       "ID": "tpote_achievement_17",
@@ -2627,7 +2632,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2153
+      "UsersEstimate": 2154
     },
     {
       "ID": "tpote_achievement_18",
@@ -2651,7 +2656,7 @@
       "Name": "Yet another secret",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 4433
+      "UsersEstimate": 4434
     },
     {
       "ID": "tpote_achievement_20",
@@ -2675,7 +2680,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2533
+      "UsersEstimate": 2534
     },
     {
       "ID": "tpote_achievement_23",
@@ -2707,7 +2712,7 @@
       "Name": "Exterminator",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1773
+      "UsersEstimate": 1774
     },
     {
       "ID": "tpote_achievement_27",
@@ -2827,7 +2832,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5320
+      "UsersEstimate": 5321
     },
     {
       "ID": "tpote_achievement_40",
@@ -2890,15 +2895,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12667,
+      "Progressed": 12668,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-24T02:59:22.8736944+00:00",
-  "LastChanged_Achievements": "2023-05-24T23:06:06.6746285+00:00",
+  "LastChanged_Achievements": "2023-05-25T00:06:03.4949885+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:09:49.1992061+00:00",
-  "LastUpdate_Ratings": "2023-05-24T23:00:30.5849335+00:00",
-  "LastUpdate_Achievements": "2023-05-24T23:06:06.6746631+00:00"
+  "LastUpdate_Ratings": "2023-05-25T00:00:43.8483298+00:00",
+  "LastUpdate_Achievements": "2023-05-25T00:06:03.4950243+00:00"
 }

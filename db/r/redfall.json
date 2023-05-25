@@ -100,9 +100,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1615,
+  "EOS_Progressed": 1617,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1520,6 +1520,11 @@
       "Time": "2023-05-24T22:05:44.2904984+00:00",
       "NumProgressed": 1615,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T00:06:24.0871064+00:00",
+      "NumProgressed": 1617,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1531,7 +1536,7 @@
       "Name": "Neighborhood Revitalization",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "Achievement_002",
@@ -1539,7 +1544,7 @@
       "Name": "Revelations",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Achievement_003",
@@ -1547,7 +1552,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "Achievement_004",
@@ -1587,7 +1592,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "Achievement_010",
@@ -1651,7 +1656,7 @@
       "Name": "Bad Wiring",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "Achievement_018",
@@ -1667,7 +1672,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "Achievement_020",
@@ -1675,7 +1680,7 @@
       "Name": "Sic Transit Umbra",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Achievement_021",
@@ -1683,7 +1688,7 @@
       "Name": "Radio Silence",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "Achievement_022",
@@ -1699,7 +1704,7 @@
       "Name": "Silence Is Golden",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Achievement_024",
@@ -1715,7 +1720,7 @@
       "Name": "Grounded",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "Achievement_026",
@@ -1723,7 +1728,7 @@
       "Name": "Fly Fisher",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "Achievement_027",
@@ -1747,7 +1752,7 @@
       "Name": "Throw The First Stone",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "Achievement_030",
@@ -1755,7 +1760,7 @@
       "Name": "ICU",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "Achievement_031",
@@ -1763,7 +1768,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "Achievement_032",
@@ -1779,7 +1784,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "Achievement_034",
@@ -1827,7 +1832,7 @@
       "Name": "Check, Please!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Achievement_040",
@@ -1931,7 +1936,7 @@
       "Name": "Blacklight Down",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Achievement_056",
@@ -2058,7 +2063,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1615,
+      "Progressed": 1617,
       "Completed": 0
     }
   ],
@@ -2066,8 +2071,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-21T03:57:51.8415336+00:00",
-  "LastChanged_Achievements": "2023-05-24T23:06:26.7972735+00:00",
+  "LastChanged_Achievements": "2023-05-25T00:06:24.087106+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:23.3271568+00:00",
-  "LastUpdate_Ratings": "2023-05-24T22:58:01.9082573+00:00",
-  "LastUpdate_Achievements": "2023-05-24T23:06:26.7973318+00:00"
+  "LastUpdate_Ratings": "2023-05-24T23:58:06.8861216+00:00",
+  "LastUpdate_Achievements": "2023-05-25T00:06:24.0871887+00:00"
 }

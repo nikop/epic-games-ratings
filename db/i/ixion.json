@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2134,
+  "EOS_Progressed": 2136,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 223,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1272,6 +1272,11 @@
       "Time": "2023-05-24T23:06:15.6882455+00:00",
       "NumProgressed": 2134,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T00:06:12.7023386+00:00",
+      "NumProgressed": 2136,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -1395,7 +1400,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_BASE_25",
@@ -1738,13 +1743,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 315,
+      "Progressed": 317,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2134,
+      "Progressed": 2136,
       "Completed": 0
     }
   ],
@@ -1752,8 +1757,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-05-13T22:58:30.2604361+00:00",
-  "LastChanged_Achievements": "2023-05-24T23:06:15.6882449+00:00",
+  "LastChanged_Achievements": "2023-05-25T00:06:12.7023381+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.7103468+00:00",
-  "LastUpdate_Ratings": "2023-05-24T22:58:45.2231613+00:00",
-  "LastUpdate_Achievements": "2023-05-24T23:06:15.6883027+00:00"
+  "LastUpdate_Ratings": "2023-05-24T23:58:50.4617005+00:00",
+  "LastUpdate_Achievements": "2023-05-25T00:06:12.7030214+00:00"
 }

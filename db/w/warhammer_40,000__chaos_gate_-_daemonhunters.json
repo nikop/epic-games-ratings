@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -516,9 +516,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2624,
+  "EOS_Progressed": 2625,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -911,6 +911,11 @@
       "Time": "2023-05-24T15:07:04.7868925+00:00",
       "NumProgressed": 2624,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T00:06:38.0254882+00:00",
+      "NumProgressed": 2625,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1082,7 +1087,7 @@
       "Name": "Hold Your Ground",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "Kills_Auto",
@@ -1090,7 +1095,7 @@
       "Name": "Not So Fast...",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "Kills_Bleed",
@@ -1114,7 +1119,7 @@
       "Name": "Executioner",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "Kills_Exterminator",
@@ -1146,7 +1151,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "Kills_Streak",
@@ -1258,7 +1263,7 @@
       "Name": "Bloodless",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -1393,21 +1398,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2624,
+      "Progressed": 2625,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2624,
+      "Progressed": 2625,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-17T16:59:29.0694874+00:00",
-  "LastChanged_Achievements": "2023-05-24T23:06:40.2185439+00:00",
+  "LastChanged_Achievements": "2023-05-25T00:06:38.0254877+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:13.6314729+00:00",
-  "LastUpdate_Ratings": "2023-05-24T22:58:59.9484466+00:00",
-  "LastUpdate_Achievements": "2023-05-24T23:06:40.218588+00:00"
+  "LastUpdate_Ratings": "2023-05-24T23:59:08.0607107+00:00",
+  "LastUpdate_Achievements": "2023-05-25T00:06:38.0255319+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 74,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 762,
+  "EOS_Progressed": 763,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.44,
   "EosHistory": [
@@ -439,6 +439,11 @@
       "Time": "2023-05-24T23:06:37.8451878+00:00",
       "NumProgressed": 762,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-25T00:06:35.6387016+00:00",
+      "NumProgressed": 763,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 27,
@@ -466,7 +471,7 @@
       "Name": "Soulmate?",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -482,7 +487,7 @@
       "Name": "Kaboom",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_ELEVATOR_FIXED",
@@ -490,7 +495,7 @@
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -504,9 +509,9 @@
       "ID": "ACH_ENGAGEMENT_RING",
       "SetID": "7k95e4n",
       "Name": "Broken heart",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 168
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_GHOST_BUSTED",
@@ -538,7 +543,7 @@
       "Name": "Memento",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -570,7 +575,7 @@
       "Name": "Big fortune",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "ACH_POSTCARD",
@@ -578,7 +583,7 @@
       "Name": "Island boy",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_POWER_OUTRAGE_FIXED",
@@ -586,7 +591,7 @@
       "Name": "Let there be light",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -600,17 +605,17 @@
       "ID": "ACH_STAR_1",
       "SetID": "7k95e4n",
       "Name": "Good start",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 579
+      "UsersEstimate": 572
     },
     {
       "ID": "ACH_STAR_2",
       "SetID": "7k95e4n",
       "Name": "Moving up",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 312
+      "UsersEstimate": 305
     },
     {
       "ID": "ACH_STAR_3",
@@ -618,7 +623,7 @@
       "Name": "Still more work ahead",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACH_STAR_4",
@@ -650,7 +655,7 @@
       "Name": "Excellent service",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ACH_WALLET_RETURNED",
@@ -658,14 +663,14 @@
       "Name": "I think you dropped this",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 762,
+      "Progressed": 763,
       "Completed": 11
     }
   ],
@@ -673,8 +678,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-05-24T04:57:14.4616222+00:00",
-  "LastChanged_Achievements": "2023-05-24T23:06:37.8451872+00:00",
+  "LastChanged_Achievements": "2023-05-25T00:06:35.6387011+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:56:53.9528089+00:00",
-  "LastUpdate_Ratings": "2023-05-24T22:57:13.4795584+00:00",
-  "LastUpdate_Achievements": "2023-05-24T23:06:37.8452042+00:00"
+  "LastUpdate_Ratings": "2023-05-24T23:57:16.2099793+00:00",
+  "LastUpdate_Achievements": "2023-05-25T00:06:35.6387165+00:00"
 }

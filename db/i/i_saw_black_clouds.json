@@ -4,7 +4,7 @@
   "ProductSlug": "i-saw-black-clouds-67008d",
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247,
+  "EOS_Progressed": 248,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -82,6 +82,11 @@
     {
       "Time": "2023-05-21T20:06:39.3296885+00:00",
       "NumProgressed": 247,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-25T00:06:34.8451851+00:00",
+      "NumProgressed": 248,
       "NumCompleted": 2
     }
   ],
@@ -174,7 +179,7 @@
       "Name": "Origin",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "realist",
@@ -188,9 +193,9 @@
       "ID": "tough",
       "SetID": "8b5dfcp",
       "Name": "Tough",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "unfinished",
@@ -213,7 +218,7 @@
     {
       "ID": "8b5dfcp",
       "IsBase": true,
-      "Progressed": 247,
+      "Progressed": 248,
       "Completed": 2
     }
   ],
@@ -221,8 +226,8 @@
   "FirstSeenRating": "2023-03-31T05:57:25.6585069+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.1686763+00:00",
   "LastChanged": "2023-03-31T05:57:25.658507+00:00",
-  "LastChanged_Achievements": "2023-05-24T23:06:37.0700228+00:00",
+  "LastChanged_Achievements": "2023-05-25T00:06:34.8451847+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:09:54.8379451+00:00",
-  "LastUpdate_Ratings": "2023-05-24T23:00:31.4743188+00:00",
-  "LastUpdate_Achievements": "2023-05-24T23:06:37.0700335+00:00"
+  "LastUpdate_Ratings": "2023-05-25T00:00:44.7472265+00:00",
+  "LastUpdate_Achievements": "2023-05-25T00:06:34.8451948+00:00"
 }

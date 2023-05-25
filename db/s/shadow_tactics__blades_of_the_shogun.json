@@ -1061,10 +1061,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 4669,
       "NumberOfAwardsMax": 551
+    },
+    {
+      "Time": "2023-05-24T23:59:32.4748311+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 4670,
+      "NumberOfAwardsMax": 551
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4669,
+  "NumberOfAwards": 4670,
   "NumberOfAwardsMax": 551,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1084,7 +1090,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 469
+      "Count": 470
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1135,9 +1141,9 @@
       "Count": 242
     }
   ],
-  "EOS_Progressed": 170440,
+  "EOS_Progressed": 170445,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 2124,
+  "EOS_NewPlayers": 2123,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -4575,6 +4581,11 @@
       "Time": "2023-05-24T23:06:32.5277429+00:00",
       "NumProgressed": 170440,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-05-25T00:06:30.09638+00:00",
+      "NumProgressed": 170445,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 44,
@@ -4626,7 +4637,7 @@
       "Name": "Disguised",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 10226
+      "UsersEstimate": 10227
     },
     {
       "ID": "FiveShadows",
@@ -4706,7 +4717,7 @@
       "Name": "Jonin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 10226
+      "UsersEstimate": 10227
     },
     {
       "ID": "Mercyful",
@@ -4802,7 +4813,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 10226
+      "UsersEstimate": 10227
     },
     {
       "ID": "Rollin",
@@ -4810,7 +4821,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 10226
+      "UsersEstimate": 10227
     },
     {
       "ID": "StillRollin",
@@ -4937,15 +4948,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 170440,
+      "Progressed": 170445,
       "Completed": 45
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2023-05-24T21:58:47.4826611+00:00",
-  "LastChanged_Achievements": "2023-05-24T23:06:32.5277423+00:00",
+  "LastChanged": "2023-05-24T23:59:32.4748309+00:00",
+  "LastChanged_Achievements": "2023-05-25T00:06:30.0963796+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:16.147513+00:00",
-  "LastUpdate_Ratings": "2023-05-24T22:59:22.0251953+00:00",
-  "LastUpdate_Achievements": "2023-05-24T23:06:32.5277854+00:00"
+  "LastUpdate_Ratings": "2023-05-24T23:59:32.4748316+00:00",
+  "LastUpdate_Achievements": "2023-05-25T00:06:30.096425+00:00"
 }

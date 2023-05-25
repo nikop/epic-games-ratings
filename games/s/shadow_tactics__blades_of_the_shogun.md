@@ -10,10 +10,10 @@ Number of Ratings: 495  (23.09.2022)
 | Thorough | 9.00% | ~15,340 |
 | A thief's beginning | 7.00% | ~11,931 |
 | Tanuki Time | 7.00% | ~11,931 |
-| Disguised | 6.00% | ~10,226 |
-| Jonin | 6.00% | ~10,226 |
-| Rescue Takuma | 6.00% | ~10,226 |
-| Rollin' | 6.00% | ~10,226 |
+| Disguised | 6.00% | ~10,227 |
+| Jonin | 6.00% | ~10,227 |
+| Rescue Takuma | 6.00% | ~10,227 |
+| Rollin' | 6.00% | ~10,227 |
 | Chunin | 5.00% | ~8,522 |
 | Happy Planning | 5.00% | ~8,522 |
 | Ice Ice Yuki | 5.00% | ~8,522 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~170 |
 | Release the Kraken | 0.10% | ~170 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 170,440 (Ranked 51)  
+Progressed: 170,445 (Ranked 51)  
 Completed: 45 (0.03%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,9 +86,10 @@ Completed: 45 (0.03%) (Ranked 182)
 | 2023-05-22 | 169,912 | 44 |
 | 2023-05-23 | 170,169 | 45 |
 | 2023-05-24 | 170,440 | 45 |
+| 2023-05-25 | 170,445 | 45 |
 ## Awards
 Max (Great for Beginners): 551  (Ranked 176)  
-Sum: 4,669 (Ranked 126)  
+Sum: 4,670 (Ranked 126)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -99,7 +100,7 @@ Diff (max vs sum): 50
 | This game has Amazing Characters | 481 |
 | This game is Highly Recommended | 477 |
 | This game has Challenging Combat | 473 |
-| This game is Relaxing | 469 |
+| This game is Relaxing | 470 |
 | This game has Quickly Understood Controls | 443 |
 | This game has a Creative Community | 242 |
 | This game has Unique Visuals | 20 |
@@ -220,4 +221,4 @@ Diff (max vs sum): 50
 | 2023-05-20 | 4.66 | - | 548 | 4,665 |
 | 2023-05-21 | 4.66 | - | 550 | 4,667 |
 | 2023-05-22 | 4.66 | - | 550 | 4,668 |
-| 2023-05-24 | 4.66 | - | 551 | 4,669 |
+| 2023-05-24 | 4.66 | - | 551 | 4,670 |

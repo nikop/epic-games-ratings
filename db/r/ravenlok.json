@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 846,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 6.74,
   "EosHistory": [
@@ -1755,9 +1755,9 @@
       "ID": "12",
       "SetID": "d0g98p",
       "Name": "Spellbound",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 279
+      "UsersEstimate": 288
     },
     {
       "ID": "13",
@@ -2140,8 +2140,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-24T23:06:09.1926146+00:00",
+  "LastChanged_Achievements": "2023-05-25T00:06:06.076288+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:59.9943101+00:00",
-  "LastUpdate_Ratings": "2023-05-24T22:57:35.8673698+00:00",
-  "LastUpdate_Achievements": "2023-05-24T23:06:09.1926565+00:00"
+  "LastUpdate_Ratings": "2023-05-24T23:57:41.0653737+00:00",
+  "LastUpdate_Achievements": "2023-05-25T00:06:06.0763295+00:00"
 }

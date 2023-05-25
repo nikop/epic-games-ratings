@@ -5,38 +5,38 @@ Rating: 4.18 (Ranked 830)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 6.00% | ~811 |
+| Flesh Wound | 6.00% | ~812 |
 | Giving Back | 5.00% | ~676 |
 | Chew 'Em Up | 5.00% | ~676 |
 | Instigator | 4.00% | ~58 |
 | Big Game Hunter | 4.00% | ~58 |
 | The Outer Way | 3.00% | ~406 |
 | Desperate Times | 3.00% | ~406 |
-| Bear Trap | 3.00% | ~43 |
-| Get a Grip | 2.00% | ~270 |
-| Workplace Hazard | 2.00% | ~270 |
-| The Commonality | 2.00% | ~270 |
-| Float Like A Butterfly | 2.00% | ~270 |
-| Reforged | 2.00% | ~270 |
-| Paper Jams | 2.00% | ~270 |
-| Mugshot | 2.00% | ~270 |
-| If the SHU Fits... | 2.00% | ~270 |
+| Bear Trap | 3.00% | ~44 |
+| Get a Grip | 2.00% | ~271 |
+| Workplace Hazard | 2.00% | ~271 |
+| The Commonality | 2.00% | ~271 |
+| Float Like A Butterfly | 2.00% | ~271 |
+| Reforged | 2.00% | ~271 |
+| Paper Jams | 2.00% | ~271 |
+| Mugshot | 2.00% | ~271 |
+| If the SHU Fits... | 2.00% | ~271 |
 | Big Spender | 2.00% | ~29 |
-| Parole Denied | 1.00% | ~14 |
+| Parole Denied | 1.00% | ~15 |
 | Terminated | 1.00% | ~135 |
 | Without A Paddle | 1.00% | ~135 |
-| Hoard Mode | 1.00% | ~14 |
+| Hoard Mode | 1.00% | ~15 |
 | Lifer | 0.80% | ~12 |
+| Two Heads Are Better Than One | 0.80% | ~108 |
+| In the Pipe, Five by Five | 0.80% | ~108 |
 | Crash Site | 0.80% | ~108 |
 | Recidivist | 0.70% | ~10 |
 | In Striking Distance | 0.70% | ~95 |
-| Two Heads Are Better Than One | 0.70% | ~95 |
-| In the Pipe, Five by Five | 0.70% | ~95 |
 | You Need a Gun | 0.50% | ~68 |
 | Power Up | 0.50% | ~68 |
 | I Do Belong Here | 0.40% | ~54 |
+| What Lies Beneath | 0.40% | ~54 |
 | Grim Reaper | 0.30% | ~41 |
-| What Lies Beneath | 0.30% | ~41 |
 | Full Circle | 0.30% | ~41 |
 | It's over, Jacob! | 0.10% | ~14 |
 | Armed to the Teeth | 0.10% | ~1 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 830)
 | Subject Alpha | 0.10% | ~1 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,523 (Ranked 101)  
+Progressed: 13,526 (Ranked 101)  
 Completed: 52 (0.38%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,6 +80,7 @@ Completed: 52 (0.38%) (Ranked 114)
 | 2023-05-22 | 13,347 | 52 |
 | 2023-05-23 | 13,444 | 52 |
 | 2023-05-24 | 13,523 | 52 |
+| 2023-05-25 | 13,526 | 52 |
 ## Awards
 Max (Highly Recommended): 46  (Ranked 397)  
 Sum: 267 (Ranked 335)  

@@ -6,26 +6,26 @@
 | ---- | ---------- | ----- |
 | First Blood | 88.00% | ~263 |
 | Ranidaphobia | 56.00% | ~167 |
-| Aspiring Editor | 50.00% | ~150 |
+| Aspiring Editor | 51.00% | ~152 |
 | Gun for Hire | 42.00% | ~126 |
-| I am the law! | 22.00% | ~66 |
+| I am the law! | 23.00% | ~69 |
 | Firestarter | 9.00% | ~27 |
 | Lumberjack | 7.00% | ~21 |
+| Croaked | 5.00% | ~15 |
 | Limp Richard | 5.00% | ~15 |
-| Croaked | 4.00% | ~12 |
 | Editor Adept | 3.00% | ~9 |
 | Exorcist | 3.00% | ~9 |
 | From Darkness to Light | 3.00% | ~9 |
+| Giant Killer | 3.00% | ~9 |
 | Hold The Line | 3.00% | ~9 |
 | Newtonian Knockout | 3.00% | ~9 |
-| Giant Killer | 2.00% | ~6 |
+| Recycler | 2.00% | ~6 |
 | The meaning of Kain | 2.00% | ~6 |
 | Chain Killer | 1.00% | ~3 |
 | Commando | 1.00% | ~3 |
-| Recycler | 1.00% | ~3 |
+| Curveball | 1.00% | ~3 |
 | Sensei | 1.00% | ~3 |
 | Chain Reaction | 0.70% | ~2 |
-| Curveball | 0.70% | ~2 |
 | Technophobe | 0.70% | ~2 |
 | There Can Be Only One! | 0.70% | ~2 |
 | Are you not entertained? | 0.30% | ~1 |

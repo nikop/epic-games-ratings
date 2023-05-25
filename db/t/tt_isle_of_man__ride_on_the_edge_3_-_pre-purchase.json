@@ -392,9 +392,9 @@
       "ID": "ACHIEVEMENT_19",
       "SetID": "gagif7",
       "Name": "Serial Winner",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -567,8 +567,8 @@
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-05-24T23:01:58.3002398+00:00",
+  "LastChanged_Achievements": "2023-05-25T00:02:21.4886405+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:05.2189133+00:00",
-  "LastUpdate_Ratings": "2023-05-24T22:57:44.6893786+00:00",
-  "LastUpdate_Achievements": "2023-05-24T23:01:58.3002657+00:00"
+  "LastUpdate_Ratings": "2023-05-24T23:57:49.4728596+00:00",
+  "LastUpdate_Achievements": "2023-05-25T00:02:21.4886657+00:00"
 }

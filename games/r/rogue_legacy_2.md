@@ -11,6 +11,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Harvest and Home | 0.50% | ~109 |
 | Poise and Poisons | 0.50% | ~109 |
 | Hands and Hammers | 0.30% | ~65 |
+| King and Kin | 0.30% | ~65 |
 | Progenitor and Protégé | 0.30% | ~65 |
 | Suns and Soldiers | 0.30% | ~65 |
 | No Harm in Looking | 0.30% | ~65 |
@@ -18,7 +19,6 @@ Number of Ratings: 1,331  (23.09.2022)
 | Pillow Investments | 0.20% | ~44 |
 | Looks Familiar | 0.20% | ~44 |
 | For Glory | 0.20% | ~44 |
-| King and Kin | 0.20% | ~44 |
 | Prequel to the Sequel | 0.20% | ~44 |
 | Black-shoppe | 0.10% | ~22 |
 | Full House | 0.10% | ~22 |

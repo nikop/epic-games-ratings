@@ -4,8 +4,8 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -29,10 +29,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 153,
-  "EOS_Completed": 25,
-  "EOS_NewPlayers": 79,
-  "EOS_NewCompleters": 11,
-  "EOS_Completed_Percentage": 16.34,
+  "EOS_Completed": 26,
+  "EOS_NewPlayers": 78,
+  "EOS_NewCompleters": 12,
+  "EOS_Completed_Percentage": 16.99,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -688,6 +688,11 @@
       "Time": "2023-05-24T21:05:47.3517064+00:00",
       "NumProgressed": 153,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-05-25T00:06:05.8177811+00:00",
+      "NumProgressed": 153,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 22,
@@ -849,25 +854,25 @@
       "ID": "LEVEL_020",
       "SetID": "3khpmem",
       "Name": "City of dreams",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "LEVEL_021",
       "SetID": "3khpmem",
       "Name": "Happy Christmas night!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "LEVEL_022",
       "SetID": "3khpmem",
       "Name": "Night walk along the beach",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     }
   ],
   "AchievementSets": [
@@ -875,15 +880,15 @@
       "ID": "3khpmem",
       "IsBase": true,
       "Progressed": 153,
-      "Completed": 25
+      "Completed": 26
     }
   ],
   "FirstSeen": "2023-04-28T06:58:06.5817191+00:00",
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-24T23:06:08.872817+00:00",
+  "LastChanged_Achievements": "2023-05-25T00:06:05.8177806+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:36.8517809+00:00",
-  "LastUpdate_Ratings": "2023-05-24T22:58:16.4769099+00:00",
-  "LastUpdate_Achievements": "2023-05-24T23:06:08.8728311+00:00"
+  "LastUpdate_Ratings": "2023-05-24T23:58:21.0664629+00:00",
+  "LastUpdate_Achievements": "2023-05-25T00:06:05.8177961+00:00"
 }

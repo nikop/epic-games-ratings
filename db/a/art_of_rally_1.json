@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10027,
+  "EOS_Progressed": 10028,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -516,6 +516,11 @@
       "Time": "2023-05-24T20:06:11.6333273+00:00",
       "NumProgressed": 10027,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-25T00:06:05.5811948+00:00",
+      "NumProgressed": 10028,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -551,7 +556,7 @@
       "Name": "autopilot",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2005
+      "UsersEstimate": 2006
     },
     {
       "ID": "ACH_ALL_BONUSES",
@@ -647,7 +652,7 @@
       "Name": "turbo",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2005
+      "UsersEstimate": 2006
     },
     {
       "ID": "ACH_COMPLETE_GROUPA",
@@ -671,7 +676,7 @@
       "Name": "parallel universe",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "ACH_COMPLETE_NEAR_TOTALLED",
@@ -687,7 +692,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7721
+      "UsersEstimate": 7722
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -735,7 +740,7 @@
       "Name": "brail",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5615
+      "UsersEstimate": 5616
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -751,7 +756,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9626
+      "UsersEstimate": 9627
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -767,7 +772,7 @@
       "Name": "medium attack",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 5916
+      "UsersEstimate": 5917
     },
     {
       "ID": "ACH_NIGHT",
@@ -863,22 +868,22 @@
       "Name": "podium",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 7219
+      "UsersEstimate": 7220
     }
   ],
   "AchievementSets": [
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10027,
+      "Progressed": 10028,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-05-24T23:06:08.6210736+00:00",
+  "LastChanged_Achievements": "2023-05-25T00:06:05.5811943+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:57.669657+00:00",
-  "LastUpdate_Ratings": "2023-05-24T22:57:33.2922112+00:00",
-  "LastUpdate_Achievements": "2023-05-24T23:06:08.6211019+00:00"
+  "LastUpdate_Ratings": "2023-05-24T23:57:38.4609351+00:00",
+  "LastUpdate_Achievements": "2023-05-25T00:06:05.5812227+00:00"
 }

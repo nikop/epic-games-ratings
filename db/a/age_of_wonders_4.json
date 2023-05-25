@@ -160,9 +160,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3354,
+  "EOS_Progressed": 3355,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 694,
+  "EOS_NewPlayers": 693,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1850,6 +1850,11 @@
       "Time": "2023-05-24T23:03:59.813757+00:00",
       "NumProgressed": 3354,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T00:04:03.9248003+00:00",
+      "NumProgressed": 3355,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -1901,7 +1906,7 @@
       "Name": "Full Ascension",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 1811
+      "UsersEstimate": 1812
     },
     {
       "ID": "15",
@@ -1957,7 +1962,7 @@
       "Name": "The Goddess of Nature",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "21",
@@ -1981,7 +1986,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2717
+      "UsersEstimate": 2718
     },
     {
       "ID": "24",
@@ -2005,7 +2010,7 @@
       "Name": "Bone Peddler",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 2079
+      "UsersEstimate": 2080
     },
     {
       "ID": "27",
@@ -2029,7 +2034,7 @@
       "Name": "Stronger Together",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 1878
+      "UsersEstimate": 1879
     },
     {
       "ID": "3",
@@ -2059,9 +2064,9 @@
       "ID": "32",
       "SetID": "3aa2279",
       "Name": "My Final Form",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 1476
+      "UsersEstimate": 1443
     },
     {
       "ID": "33",
@@ -2069,7 +2074,7 @@
       "Name": "Seat of Power",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 1576
+      "UsersEstimate": 1577
     },
     {
       "ID": "34",
@@ -2117,7 +2122,7 @@
       "Name": "Impenetrable Fortress",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "4",
@@ -2212,13 +2217,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 3354,
-      "Completed": 3354
+      "Progressed": 3355,
+      "Completed": 3355
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 3354,
+      "Progressed": 3355,
       "Completed": 0
     }
   ],
@@ -2226,8 +2231,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-24T15:00:10.7602094+00:00",
-  "LastChanged_Achievements": "2023-05-24T23:03:59.8137565+00:00",
+  "LastChanged_Achievements": "2023-05-25T00:04:03.9247998+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:46.682938+00:00",
-  "LastUpdate_Ratings": "2023-05-24T22:59:54.1978826+00:00",
-  "LastUpdate_Achievements": "2023-05-24T23:03:59.8137962+00:00"
+  "LastUpdate_Ratings": "2023-05-25T00:00:06.1627467+00:00",
+  "LastUpdate_Achievements": "2023-05-25T00:04:03.9248383+00:00"
 }

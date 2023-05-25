@@ -140,7 +140,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14460,
+  "EOS_Progressed": 14461,
   "EOS_Completed": 45,
   "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
@@ -2775,6 +2775,11 @@
       "Time": "2023-05-24T23:06:39.6343181+00:00",
       "NumProgressed": 14460,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2023-05-25T00:06:37.4323527+00:00",
+      "NumProgressed": 14461,
+      "NumCompleted": 45
     }
   ],
   "TotalAchievements": 14,
@@ -2786,7 +2791,7 @@
       "Name": "Across The Border",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 11423
+      "UsersEstimate": 11424
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -2890,22 +2895,22 @@
       "Name": "Wild West Hero",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 2024
+      "UsersEstimate": 2025
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 14460,
+      "Progressed": 14461,
       "Completed": 45
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-05-10T21:00:12.78292+00:00",
-  "LastChanged_Achievements": "2023-05-24T23:06:39.6343175+00:00",
+  "LastChanged_Achievements": "2023-05-25T00:06:37.4323522+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:34.6083984+00:00",
-  "LastUpdate_Ratings": "2023-05-24T23:01:01.9958871+00:00",
-  "LastUpdate_Achievements": "2023-05-24T23:06:39.6343388+00:00"
+  "LastUpdate_Ratings": "2023-05-25T00:01:21.0903536+00:00",
+  "LastUpdate_Achievements": "2023-05-25T00:06:37.4323733+00:00"
 }

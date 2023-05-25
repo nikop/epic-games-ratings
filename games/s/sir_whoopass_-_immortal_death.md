@@ -13,15 +13,15 @@
 | AHHHHHH.....I'M ON FIRE!!! | 81.00% | ~46 |
 | Not so hip anymore! | 81.00% | ~46 |
 | Blurry depth perception | 77.00% | ~44 |
-| Up and down | 74.00% | ~42 |
+| Up and down | 75.00% | ~43 |
 | Rolling, Rolling, Rolling | 70.00% | ~40 |
+| Fire-fighter! | 61.00% | ~35 |
 | Oh, you're up to no gouda! | 60.00% | ~34 |
-| Fire-fighter! | 60.00% | ~34 |
 | Make Love not War-Craft a Mistlefoe | 56.00% | ~32 |
 | Meat grinder | 53.00% | ~30 |
+| You're not going to blow me up! | 47.00% | ~27 |
 | Butcher | 46.00% | ~26 |
 | Mushroom soup of the day | 46.00% | ~26 |
-| You're not going to blow me up! | 46.00% | ~26 |
 | Honk honk! | 44.00% | ~25 |
 | My pants squeak when I walk | 44.00% | ~25 |
 | Spare Ribs | 42.00% | ~24 |
