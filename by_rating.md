@@ -79,7 +79,7 @@
 | 77 | [Dishonored 2](games/d/dishonored_2.md) | 4.80 | 355 | 210 |
 | 77 | [Football Manager 2022](games/f/football_manager_2022.md) | 4.80 | 6,280 | 51 |
 | 77 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.80 | 159 | 283 |
-| 77 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.80 | 568 | 171 |
+| 77 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.80 | 572 | 170 |
 | 77 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 4.80 | 2,363 | 94 |
 | 77 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 4.80 | 193 | 262 |
 | 77 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 323 |
@@ -365,7 +365,7 @@
 | 358 | [Darkwood](games/d/darkwood.md) | 4.61 | 319 | 221 |
 | 358 | [DOOM 3](games/d/doom_3.md) | 4.61 | 65 | 371 |
 | 358 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.61 | 0 | 491 |
-| 358 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 570 | 170 |
+| 358 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.61 | 570 | 171 |
 | 358 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.61 | 351 | 211 |
 | 358 | [Limbo](games/l/limbo.md) | 4.61 | 0 | 491 |
 | 358 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,096 | 128 |
@@ -489,7 +489,7 @@
 | 480 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 89 | 340 |
 | 480 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 491 |
 | 480 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 497 | 186 |
-| 480 | [VALORANT](games/v/valorant.md) | 4.54 | 53,726 | 11 |
+| 480 | [VALORANT](games/v/valorant.md) | 4.54 | 53,839 | 11 |
 | 480 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 28 | 453 |
 | 492 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 491 |
 | 492 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 491 |

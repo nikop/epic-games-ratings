@@ -10,7 +10,7 @@
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 109,783 | 4.69 | 212 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 65,029 | 4.62 | 342 |
 | 10 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 57,064 | 4.59 | 402 |
-| 11 | [VALORANT](games/v/valorant.md) | 53,726 | 4.54 | 480 |
+| 11 | [VALORANT](games/v/valorant.md) | 53,839 | 4.54 | 480 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 34,913 | 4.60 | 385 |
 | 13 | [Destiny 2](games/d/destiny_2.md) | 34,154 | 4.50 | 535 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 31,796 | 4.74 | 141 |
@@ -169,8 +169,8 @@
 | 167 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 601 | 4.74 | 141 |
 | 168 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 592 | 4.74 | 141 |
 | 169 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 585 | 4.62 | 342 |
-| 170 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 570 | 4.61 | 358 |
-| 171 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 568 | 4.80 | 77 |
+| 170 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 572 | 4.80 | 77 |
+| 171 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 570 | 4.61 | 358 |
 | 172 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 559 | 4.68 | 235 |
 | 173 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 554 | 4.74 | 141 |
 | 174 | [Marvel's Guardians of the Galaxy](games/m/marvel's_guardians_of_the_galaxy.md) | 553 | 4.72 | 164 |
