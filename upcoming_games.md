@@ -48,6 +48,7 @@
 | [Bleak Sword DX](games/b/bleak_sword_dx.md) | 2023-06-08 | 2023-06-08 |
 | [Rise of Jericho](games/r/rise_of_jericho.md) | 2023-06-09 | 2023-06-09 |
 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 2023-06-09 | 2022-09-19 |
+| [Television Trivia](games/4/47992822501440c2b8773895e0d7f100.md) | 2023-06-10 | 2020-11-07 |
 | [Suicide Guy](games/7/7d9cb4fa8c4b488d86c7e9dec37318d5.md) | 2023-06-14 | 2017-06-14 |
 | [F1® 23 Standard Edition](games/f/f1®_23_standard_edition.md) | 2023-06-16 | 2023-06-16 |
 | [Brick Breaker Premium 3](games/1/1421a0ed5cb14f0999cc115d2f0f7377.md) | 2023-06-16 | 2018-06-22 |

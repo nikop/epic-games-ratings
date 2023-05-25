@@ -8,18 +8,18 @@
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.27% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 8 | [Island Cities](games/i/island_cities.md) | 16.99% |
-| 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 14.29% |
+| 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 13.33% |
 | 10 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
 | 11 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.00% |
-| 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.54% |
+| 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 13 | [Remains](games/r/remains.md) | 9.09% |
 | 13 | [Smelter](games/s/smelter.md) | 9.09% |
 | 15 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.57% |
 | 16 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.12% |
 | 18 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.83% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.75% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.86% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.83% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
 | 22 | [Scorn](games/s/scorn.md) | 6.88% |
 | 23 | [Ravenlok](games/r/ravenlok.md) | 6.72% |
@@ -27,7 +27,7 @@
 | 25 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.71% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.42% |
-| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.39% |
+| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.32% |
 | 29 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.31% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.84% |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
@@ -40,7 +40,7 @@
 | 38 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
 | 39 | [The Complex](games/t/the_complex.md) | 3.50% |
 | 40 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.34% |
-| 41 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.28% |
+| 41 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.25% |
 | 42 | [The Bunker](games/t/the_bunker.md) | 3.23% |
 | 43 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
 | 44 | [ZZT!](games/z/zzt!.md) | 3.15% |
@@ -82,7 +82,7 @@
 | 80 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.20% |
 | 81 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.18% |
 | 82 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.12% |
-| 82 | [Late Shift](games/l/late_shift.md) | 1.12% |
+| 83 | [Late Shift](games/l/late_shift.md) | 1.11% |
 | 84 | [Five Dates](games/f/five_dates.md) | 1.08% |
 | 84 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.08% |
 | 86 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.02% |
@@ -414,4 +414,4 @@
 | 202 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 202 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 202 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,667 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
+| 2,668 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.84% |
