@@ -6,55 +6,55 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Death From Above | 47.00% | ~601,611 |
-| Unseen Assassin | 46.00% | ~588,811 |
-| Master of the Household | 39.00% | ~499,209 |
-| Death of the Party | 37.00% | ~473,609 |
-| NEXUS-47 | 33.00% | ~422,408 |
-| The Last Tango | 32.00% | ~409,608 |
-| Nightmare Fuel | 31.00% | ~396,807 |
-| The Result of Previous Training | 28.00% | ~358,407 |
-| Tools of the Trade | 28.00% | ~358,407 |
-| Cleared for Field Duty | 27.00% | ~345,606 |
-| Seizing the Opportunity | 25.00% | ~320,006 |
-| Bullet Train | 22.00% | ~281,605 |
-| Stylish Assassin | 19.00% | ~243,205 |
-| Silent Assassin | 14.00% | ~179,203 |
-| Rise Up | 13.00% | ~166,403 |
-| Evil Wine Club | 12.00% | ~153,603 |
-| Console Cowboy | 10.00% | ~128,002 |
-| Last Stop | 10.00% | ~128,002 |
-| A New Profile | 9.00% | ~115,202 |
-| Full House | 9.00% | ~115,202 |
-| Dune Raider | 8.00% | ~102,402 |
-| No Stone Unturned | 8.00% | ~102,402 |
-| Train Surfing | 8.00% | ~102,402 |
-| Family Feud | 7.00% | ~89,602 |
-| Icebreaker | 7.00% | ~89,602 |
-| Rich Harvest | 6.00% | ~76,801 |
-| Count Down From 47 | 6.00% | ~76,801 |
-| Shortcut Killer | 5.00% | ~64,001 |
-| Treacherous Architecture | 5.00% | ~64,001 |
-| Stair Master | 5.00% | ~64,001 |
-| Followed the Trails | 5.00% | ~64,001 |
-| Last Call | 5.00% | ~64,001 |
-| Upstairs, Downstairs | 4.00% | ~51,201 |
-| The Great Outdoors | 4.00% | ~51,201 |
-| Partied Out | 4.00% | ~51,201 |
-| Surveillance Master | 4.00% | ~51,201 |
-| Hack the Planet | 4.00% | ~51,201 |
+| Death From Above | 47.00% | ~601,619 |
+| Unseen Assassin | 46.00% | ~588,819 |
+| Master of the Household | 39.00% | ~499,216 |
+| Death of the Party | 37.00% | ~473,615 |
+| NEXUS-47 | 33.00% | ~422,414 |
+| The Last Tango | 32.00% | ~409,613 |
+| Nightmare Fuel | 31.00% | ~396,813 |
+| The Result of Previous Training | 28.00% | ~358,411 |
+| Tools of the Trade | 28.00% | ~358,411 |
+| Cleared for Field Duty | 27.00% | ~345,611 |
+| Seizing the Opportunity | 25.00% | ~320,010 |
+| Bullet Train | 22.00% | ~281,609 |
+| Stylish Assassin | 19.00% | ~243,208 |
+| Silent Assassin | 14.00% | ~179,206 |
+| Rise Up | 13.00% | ~166,405 |
+| Evil Wine Club | 12.00% | ~153,605 |
+| Console Cowboy | 10.00% | ~128,004 |
+| Last Stop | 10.00% | ~128,004 |
+| A New Profile | 9.00% | ~115,204 |
+| Full House | 9.00% | ~115,204 |
+| Dune Raider | 8.00% | ~102,403 |
+| No Stone Unturned | 8.00% | ~102,403 |
+| Train Surfing | 8.00% | ~102,403 |
+| Family Feud | 7.00% | ~89,603 |
+| Icebreaker | 7.00% | ~89,603 |
+| Rich Harvest | 6.00% | ~76,802 |
+| Count Down From 47 | 6.00% | ~76,802 |
+| Shortcut Killer | 5.00% | ~64,002 |
+| Treacherous Architecture | 5.00% | ~64,002 |
+| Stair Master | 5.00% | ~64,002 |
+| Followed the Trails | 5.00% | ~64,002 |
+| Last Call | 5.00% | ~64,002 |
+| Upstairs, Downstairs | 4.00% | ~51,202 |
+| The Great Outdoors | 4.00% | ~51,202 |
+| Partied Out | 4.00% | ~51,202 |
+| Surveillance Master | 4.00% | ~51,202 |
+| Hack the Planet | 4.00% | ~51,202 |
 | Training Escalated | 3.00% | ~38,401 |
 | Keep Your Eyes Peeled | 3.00% | ~38,401 |
 | Warehouse Veteran | 3.00% | ~38,401 |
 | Future Shock | 3.00% | ~38,401 |
 | Master the Terroir | 3.00% | ~38,401 |
 | Vineyard Virtuoso | 3.00% | ~38,401 |
-| Bird Art | 2.00% | ~25,600 |
+| Bird Art | 2.00% | ~25,601 |
 | Top of the Class | 1.00% | ~12,800 |
 | Ripe for the Picking | 1.00% | ~12,800 |
 | The Creative Assassin | 0.70% | ~8,960 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,280,024 (Ranked 8)  
+Progressed: 1,280,041 (Ranked 8)  
 Completed: 2,069 (0.16%) (Ranked 144)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 2,069 (0.16%) (Ranked 144)
 | 2023-05-22 | 1,278,897 | 2,068 |
 | 2023-05-23 | 1,279,384 | 2,068 |
 | 2023-05-24 | 1,279,910 | 2,069 |
-| 2023-05-25 | 1,280,024 | 2,069 |
+| 2023-05-25 | 1,280,041 | 2,069 |
 ## Awards
 Max (Diverse Characters): 9,054  (Ranked 37)  
 Sum: 66,343 (Ranked 18)  

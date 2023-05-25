@@ -340,9 +340,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 6775,
+  "EOS_Progressed": 6776,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 593,
+  "EOS_NewPlayers": 594,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -2285,6 +2285,11 @@
       "Time": "2023-05-25T07:06:05.0220744+00:00",
       "NumProgressed": 6775,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-25T08:06:06.3568015+00:00",
+      "NumProgressed": 6776,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 34,
@@ -2368,7 +2373,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "ACH11",
@@ -2400,7 +2405,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2642
+      "UsersEstimate": 2643
     },
     {
       "ID": "ACH15",
@@ -2456,7 +2461,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2913
+      "UsersEstimate": 2914
     },
     {
       "ID": "ACH22",
@@ -2567,7 +2572,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6775,
+      "Progressed": 6776,
       "Completed": 23
     }
   ],
@@ -2575,8 +2580,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-24T16:57:57.2497435+00:00",
-  "LastChanged_Achievements": "2023-05-25T07:06:05.0220737+00:00",
+  "LastChanged_Achievements": "2023-05-25T08:06:06.356801+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:49.9519997+00:00",
-  "LastUpdate_Ratings": "2023-05-25T06:58:29.507988+00:00",
-  "LastUpdate_Achievements": "2023-05-25T07:06:05.022105+00:00"
+  "LastUpdate_Ratings": "2023-05-25T07:58:17.5653006+00:00",
+  "LastUpdate_Achievements": "2023-05-25T08:06:06.3568425+00:00"
 }

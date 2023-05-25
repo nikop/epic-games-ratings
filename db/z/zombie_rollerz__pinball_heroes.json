@@ -181,9 +181,9 @@
       "ID": "CLG_LEVEL_BALLISTASHOT",
       "SetID": "89cjc9l",
       "Name": "Right in the kisser!",
-      "Percentage": 65,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "CLG_LEVEL_BULLSEYE",
@@ -758,8 +758,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-03-31T05:56:59.5373099+00:00",
-  "LastChanged_Achievements": "2023-05-25T07:06:34.7916034+00:00",
+  "LastChanged_Achievements": "2023-05-25T08:06:35.2634015+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:01.3689294+00:00",
-  "LastUpdate_Ratings": "2023-05-25T06:57:33.5723575+00:00",
-  "LastUpdate_Achievements": "2023-05-25T07:06:34.7916784+00:00"
+  "LastUpdate_Ratings": "2023-05-25T07:57:26.1596175+00:00",
+  "LastUpdate_Achievements": "2023-05-25T08:06:35.2634743+00:00"
 }

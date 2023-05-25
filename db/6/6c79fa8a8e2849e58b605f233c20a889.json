@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 800,
+  "EOS_Progressed": 802,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 798,
+  "EOS_NewPlayers": 800,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -334,6 +334,11 @@
       "Time": "2023-05-25T07:01:29.7351014+00:00",
       "NumProgressed": 800,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T08:01:12.1829133+00:00",
+      "NumProgressed": 802,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -375,9 +380,9 @@
       "ID": "CONQUEROR",
       "SetID": "8lhbnh7",
       "Name": "Harold Rex Interfectus Est",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 192
+      "UsersEstimate": 184
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -391,9 +396,9 @@
       "ID": "FACE_FACE",
       "SetID": "8lhbnh7",
       "Name": "Face-To-Face",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 16
     },
     {
       "ID": "FACE_SCREEN_FACE",
@@ -425,7 +430,7 @@
       "Name": "Novice",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "GLOVE_SLAP",
@@ -447,9 +452,9 @@
       "ID": "GRASSHOPPER",
       "SetID": "8lhbnh7",
       "Name": "Grasshopper",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 480
+      "UsersEstimate": 473
     },
     {
       "ID": "GUARD_MAKER",
@@ -503,7 +508,7 @@
       "ID": "SMARTER_THAN_A_BEAR",
       "SetID": "8lhbnh7",
       "Name": "Smarter than a Bear",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -520,13 +525,13 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 800,
+      "Progressed": 802,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-05-25T07:01:29.7351009+00:00",
+  "LastChanged_Achievements": "2023-05-25T08:01:12.1829127+00:00",
   "LastUpdate_AppInfo": "2023-05-23T13:57:02.9194307+00:00",
-  "LastUpdate_Ratings": "2023-05-25T06:57:05.2492626+00:00",
-  "LastUpdate_Achievements": "2023-05-25T07:01:29.7351236+00:00"
+  "LastUpdate_Ratings": "2023-05-25T07:56:58.6392389+00:00",
+  "LastUpdate_Achievements": "2023-05-25T08:01:12.182949+00:00"
 }

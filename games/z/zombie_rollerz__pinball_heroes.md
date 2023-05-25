@@ -8,7 +8,7 @@
 | Bullseye! | 87.00% | ~65 |
 | Villfir Forest | 81.00% | ~61 |
 | Graduation! | 79.00% | ~59 |
-| Right in the kisser! | 65.00% | ~49 |
+| Right in the kisser! | 67.00% | ~50 |
 | The Shaman | 56.00% | ~42 |
 | Duscot Steamcity | 56.00% | ~42 |
 | The Penguin | 52.00% | ~39 |

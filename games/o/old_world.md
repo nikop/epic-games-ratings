@@ -89,12 +89,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Dualism | 20.00% | ~2,276 |
 | Legionary | 20.00% | ~2,276 |
 | Victorious | 19.00% | ~2,163 |
+| Landowners | 19.00% | ~2,163 |
 | Riders | 19.00% | ~2,163 |
 | Pantheon | 19.00% | ~2,163 |
 | Cimmerian Archer | 19.00% | ~2,163 |
 | Ambition Victory | 19.00% | ~2,163 |
 | Conqueror | 18.00% | ~2,049 |
-| Landowners | 18.00% | ~2,049 |
 | Assyrian Paganism | 18.00% | ~2,049 |
 | Redemption | 18.00% | ~2,049 |
 | Double Victory | 18.00% | ~2,049 |

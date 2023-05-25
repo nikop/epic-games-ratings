@@ -272,9 +272,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 10583,
+  "EOS_Progressed": 10584,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 303,
+  "EOS_NewPlayers": 304,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -1652,6 +1652,11 @@
       "Time": "2023-05-25T07:06:27.4980345+00:00",
       "NumProgressed": 10583,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-05-25T08:06:28.335737+00:00",
+      "NumProgressed": 10584,
+      "NumCompleted": 32
     }
   ],
   "TotalAchievements": 35,
@@ -1663,7 +1668,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 9736
+      "UsersEstimate": 9737
     },
     {
       "ID": "ACH_02",
@@ -1671,7 +1676,7 @@
       "Name": "Newcomers",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 8255
+      "UsersEstimate": 8256
     },
     {
       "ID": "ACH_03",
@@ -1687,7 +1692,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 7302
+      "UsersEstimate": 7303
     },
     {
       "ID": "ACH_05",
@@ -1703,15 +1708,15 @@
       "Name": "Leaving all Behind",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 6667
+      "UsersEstimate": 6668
     },
     {
       "ID": "ACH_07",
       "SetID": "9d4cf4c",
       "Name": "Felons",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 6456
+      "UsersEstimate": 6350
     },
     {
       "ID": "ACH_08",
@@ -1719,7 +1724,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 6244
+      "UsersEstimate": 6245
     },
     {
       "ID": "ACH_09",
@@ -1727,7 +1732,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 5926
+      "UsersEstimate": 5927
     },
     {
       "ID": "ACH_10",
@@ -1735,7 +1740,7 @@
       "Name": "Bloodline",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 5397
+      "UsersEstimate": 5398
     },
     {
       "ID": "ACH_11",
@@ -1823,7 +1828,7 @@
       "Name": "Immortal memories",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "ACH_22",
@@ -1855,7 +1860,7 @@
       "Name": "Effective instruments",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 2222
+      "UsersEstimate": 2223
     },
     {
       "ID": "ACH_26",
@@ -1919,7 +1924,7 @@
       "Name": "Perfect throw",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 2222
+      "UsersEstimate": 2223
     },
     {
       "ID": "ACH_34",
@@ -1942,7 +1947,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 10583,
+      "Progressed": 10584,
       "Completed": 32
     }
   ],
@@ -1950,8 +1955,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-05-20T22:59:09.5997761+00:00",
-  "LastChanged_Achievements": "2023-05-25T07:06:27.4980342+00:00",
+  "LastChanged_Achievements": "2023-05-25T08:06:28.3357365+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:44.7734011+00:00",
-  "LastUpdate_Ratings": "2023-05-25T06:59:43.9068944+00:00",
-  "LastUpdate_Achievements": "2023-05-25T07:06:27.4980662+00:00"
+  "LastUpdate_Ratings": "2023-05-25T07:59:31.2030132+00:00",
+  "LastUpdate_Achievements": "2023-05-25T08:06:28.3357712+00:00"
 }

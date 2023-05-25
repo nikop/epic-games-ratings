@@ -41,7 +41,7 @@ Rating: 4.49 (Ranked 557)
 | Diabolical | 16.00% | ~3,551 |
 | Escape Artist | 16.00% | ~3,551 |
 | Seasoned | 16.00% | ~3,551 |
-| Liability | 10.00% | ~2,219 |
+| Liability | 11.00% | ~2,441 |
 | Rivalry | 10.00% | ~2,219 |
 | Whoopsie | 10.00% | ~2,219 |
 | Fragile Panes | 9.00% | ~1,997 |

@@ -11,7 +11,7 @@
 | Splash! | 59.00% | ~26 |
 | "Swoosh" | 57.00% | ~25 |
 | The light at the end of the tunnel | 57.00% | ~25 |
-| Masochistic | 50.00% | ~22 |
+| Masochistic | 52.00% | ~23 |
 | Soft skin | 45.00% | ~20 |
 | Squid game | 34.00% | ~15 |
 | Sensitive soul | 34.00% | ~15 |
@@ -28,8 +28,8 @@
 | Full power | 16.00% | ~7 |
 | "Ah sh*t... Here we go again!" | 16.00% | ~7 |
 | Compulsive hoarder | 16.00% | ~7 |
+| MayDay! MayDay! | 16.00% | ~7 |
 | Bookworm | 16.00% | ~7 |
-| MayDay! MayDay! | 14.00% | ~6 |
 | GG EZ | 9.00% | ~4 |
 | Comeback | 9.00% | ~4 |
 | Gooooooaaaaal!!! | 7.00% | ~3 |

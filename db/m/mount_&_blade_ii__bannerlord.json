@@ -4263,9 +4263,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 50847,
+  "EOS_Progressed": 50848,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 701,
+  "EOS_NewPlayers": 699,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7553,6 +7553,11 @@
       "Time": "2023-05-25T07:06:39.2749417+00:00",
       "NumProgressed": 50847,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T08:06:39.5233365+00:00",
+      "NumProgressed": 50848,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -7580,7 +7585,7 @@
       "Name": "Bannerlord",
       "Percentage": 20,
       "XP": 65,
-      "UsersEstimate": 10169
+      "UsersEstimate": 10170
     },
     {
       "ID": "Best served cold",
@@ -7724,7 +7729,7 @@
       "Name": "Horde breaker",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 10169
+      "UsersEstimate": 10170
     },
     {
       "ID": "I can do it",
@@ -7796,7 +7801,7 @@
       "Name": "Lawbringer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 17796
+      "UsersEstimate": 17797
     },
     {
       "ID": "Lawmaker",
@@ -7940,7 +7945,7 @@
       "Name": "Trained",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 10169
+      "UsersEstimate": 10170
     },
     {
       "ID": "Undercover",
@@ -7971,15 +7976,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 50847,
+      "Progressed": 50848,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-05-24T13:05:50.3981982+00:00",
-  "LastChanged_Achievements": "2023-05-25T07:06:39.2749412+00:00",
+  "LastChanged_Achievements": "2023-05-25T08:06:39.523336+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:05:00.2672545+00:00",
-  "LastUpdate_Ratings": "2023-05-25T07:00:07.8718733+00:00",
-  "LastUpdate_Achievements": "2023-05-25T07:06:39.275001+00:00"
+  "LastUpdate_Ratings": "2023-05-25T07:59:53.0541912+00:00",
+  "LastUpdate_Achievements": "2023-05-25T08:06:39.5233924+00:00"
 }

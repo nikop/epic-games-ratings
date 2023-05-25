@@ -4,7 +4,7 @@
   "ProductSlug": "blood-and-zombies-4273b6",
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-01-27T08:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:35.8315657+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315658+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:19.2816169+00:00",
-  "LastUpdate_Ratings": "2023-05-25T06:58:56.3369455+00:00",
-  "LastUpdate_Achievements": "2023-05-25T07:03:13.3622228+00:00"
+  "LastUpdate_Ratings": "2023-05-25T07:58:43.531878+00:00",
+  "LastUpdate_Achievements": "2023-05-25T08:03:32.4895949+00:00"
 }

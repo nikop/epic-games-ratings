@@ -6,14 +6,14 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 82.00% | ~506,630 |
-| Every story has a beginning | 37.00% | ~228,601 |
-| The first of many | 32.00% | ~197,709 |
-| Positive word of mouth | 18.00% | ~111,211 |
-| Lawn in the U.S.A. | 15.00% | ~92,676 |
+| The dream begins | 82.00% | ~506,635 |
+| Every story has a beginning | 37.00% | ~228,604 |
+| The first of many | 32.00% | ~197,711 |
+| Positive word of mouth | 18.00% | ~111,213 |
+| Lawn in the U.S.A. | 15.00% | ~92,677 |
 | Blade Runner | 9.00% | ~55,606 |
 | Credible | 7.00% | ~43,249 |
-| Teamwork makes the dream work | 6.00% | ~37,070 |
+| Teamwork makes the dream work | 6.00% | ~37,071 |
 | Bigger and better | 4.00% | ~24,714 |
 | Aggressive expansion | 4.00% | ~24,714 |
 | Where there's muck there's brass | 3.00% | ~18,535 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~618 |
 | Mo mowers, mo problems | 0.10% | ~618 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 617,841 (Ranked 19)  
+Progressed: 617,848 (Ranked 19)  
 Completed: 11 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,14 +96,14 @@ Completed: 11 (0.00%) (Ranked 202)
 | 2023-05-22 | 617,004 | 9 |
 | 2023-05-23 | 617,354 | 10 |
 | 2023-05-24 | 617,757 | 11 |
-| 2023-05-25 | 617,841 | 11 |
+| 2023-05-25 | 617,848 | 11 |
 ## Awards
-Max (Quickly Understood Controls): 179  (Ranked 270)  
-Sum: 959 (Ranked 231)  
-Diff (max vs sum): 39  
+Max (Quickly Understood Controls): 180  (Ranked 269)  
+Sum: 960 (Ranked 231)  
+Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 179 |
+| This game has Quickly Understood Controls | 180 |
 | This game is Extremely Fun | 167 |
 | This game is Relaxing | 162 |
 | This game is Great for Beginners | 159 |
@@ -181,3 +181,4 @@ Diff (max vs sum): 39
 | 2023-04-28 | 4.07 | - | 179 | 957 |
 | 2023-05-15 | 4.07 | - | 179 | 958 |
 | 2023-05-21 | 4.07 | - | 179 | 959 |
+| 2023-05-25 | 4.07 | - | 180 | 960 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -324,9 +324,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2377,
+  "EOS_Progressed": 2378,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.91,
   "EosHistory": [
@@ -919,6 +919,11 @@
       "Time": "2023-05-24T07:05:43.3831166+00:00",
       "NumProgressed": 2377,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2023-05-25T08:06:31.3633879+00:00",
+      "NumProgressed": 2378,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 14,
@@ -1010,7 +1015,7 @@
       "Name": "Reunion",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -1034,14 +1039,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 74,
       "XP": 35,
-      "UsersEstimate": 1759
+      "UsersEstimate": 1760
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 2377,
+      "Progressed": 2378,
       "Completed": 93
     }
   ],
@@ -1049,8 +1054,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-05-23T22:01:02.7899752+00:00",
-  "LastChanged_Achievements": "2023-05-25T07:06:30.5678716+00:00",
+  "LastChanged_Achievements": "2023-05-25T08:06:31.3633868+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:26.5471231+00:00",
-  "LastUpdate_Ratings": "2023-05-25T07:00:49.8246877+00:00",
-  "LastUpdate_Achievements": "2023-05-25T07:06:30.5678871+00:00"
+  "LastUpdate_Ratings": "2023-05-25T08:00:34.1025112+00:00",
+  "LastUpdate_Achievements": "2023-05-25T08:06:31.3634032+00:00"
 }
