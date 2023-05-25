@@ -7,7 +7,7 @@
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 21.21% |
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.27% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 8 | [Island Cities](games/i/island_cities.md) | 16.77% |
+| 8 | [Island Cities](games/i/island_cities.md) | 16.67% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 13.33% |
 | 10 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
 | 11 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.00% |
@@ -18,17 +18,17 @@
 | 16 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.12% |
 | 18 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.83% |
 | 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.83% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.82% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
 | 22 | [Scorn](games/s/scorn.md) | 6.92% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 6.83% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 6.82% |
 | 24 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 25 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.71% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.42% |
 | 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.26% |
-| 29 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.24% |
+| 29 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.22% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.84% |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 32 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.35% |
