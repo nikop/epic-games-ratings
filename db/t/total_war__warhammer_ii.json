@@ -4,7 +4,7 @@
   "ProductSlug": "total-war-warhammer-ii",
   "Ranking_Rating": 193,
   "Ranking_Popularity": 69,
-  "Ranking_PopularitySum": 67,
+  "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 319,
@@ -2843,10 +2843,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 13435,
       "NumberOfAwardsMax": 4303
+    },
+    {
+      "Time": "2023-05-25T14:57:24.7283112+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 13437,
+      "NumberOfAwardsMax": 4303
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13435,
+  "NumberOfAwards": 13437,
   "NumberOfAwardsMax": 4303,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2884,7 +2890,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 955
+      "Count": 957
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2940,8 +2946,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:56.1200636+00:00",
-  "LastChanged": "2023-05-24T19:57:51.4646232+00:00",
+  "LastChanged": "2023-05-25T14:57:24.7283111+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:02.0252233+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:57:30.1760929+00:00",
-  "LastUpdate_Achievements": "2023-05-25T14:03:27.3357952+00:00"
+  "LastUpdate_Ratings": "2023-05-25T14:57:24.7283115+00:00",
+  "LastUpdate_Achievements": "2023-05-25T15:03:31.1771896+00:00"
 }

@@ -6,9 +6,9 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 14.00% | ~1,284 |
-| Burning City | 10.00% | ~917 |
-| A Spark | 10.00% | ~917 |
+| Devoured by Darkness | 14.00% | ~1,285 |
+| Burning City | 10.00% | ~918 |
+| A Spark | 10.00% | ~918 |
 | Mythic Choices | 8.00% | ~734 |
 | Defender's Heart | 8.00% | ~734 |
 | Banner over the Citadel | 7.00% | ~642 |
@@ -23,15 +23,15 @@ Number of Ratings: 1,354  (23.09.2022)
 | Voice from Your Dreams | 3.00% | ~275 |
 | All Paths Open | 3.00% | ~275 |
 | Next-Door Play | 3.00% | ~275 |
-| Heart of the Fallen Land | 2.00% | ~183 |
-| The Legacy | 2.00% | ~183 |
-| Divide and Rule | 2.00% | ~183 |
-| Mythic Reinforcements | 2.00% | ~183 |
-| Core of the Riddle | 2.00% | ~183 |
-| Your First Big Enemy | 2.00% | ~183 |
-| A Flame | 2.00% | ~183 |
-| Hey, I Know You! | 2.00% | ~183 |
-| Get the Toad | 2.00% | ~183 |
+| Heart of the Fallen Land | 2.00% | ~184 |
+| The Legacy | 2.00% | ~184 |
+| Divide and Rule | 2.00% | ~184 |
+| Mythic Reinforcements | 2.00% | ~184 |
+| Core of the Riddle | 2.00% | ~184 |
+| Your First Big Enemy | 2.00% | ~184 |
+| A Flame | 2.00% | ~184 |
+| Hey, I Know You! | 2.00% | ~184 |
+| Get the Toad | 2.00% | ~184 |
 | Hanged Man's Notes | 2.00% | ~159 |
 | The Lady of the Forest | 2.00% | ~159 |
 | Beware Still Water | 2.00% | ~159 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,171 (Ranked 109)  
+Progressed: 9,175 (Ranked 109)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-22 | 9,090 | 0 |
 | 2023-05-23 | 9,123 | 0 |
 | 2023-05-24 | 9,159 | 0 |
-| 2023-05-25 | 9,171 | 0 |
+| 2023-05-25 | 9,175 | 0 |
 ## Awards
 Max (Character Customization): 1,640  (Ranked 111)  
 Sum: 6,646 (Ranked 110)  

@@ -6,28 +6,28 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 54.00% | ~3,151 |
-| Tutti Eroi! | 53.00% | ~3,093 |
-| You Shall Not Pass | 52.00% | ~3,035 |
+| Peak Performance | 54.00% | ~3,153 |
+| Tutti Eroi! | 53.00% | ~3,094 |
+| You Shall Not Pass | 52.00% | ~3,036 |
 | Avanti Savoia! | 46.00% | ~2,685 |
-| Mamma Mia! | 36.00% | ~2,101 |
+| Mamma Mia! | 36.00% | ~2,102 |
 | Conrad von Hotzensocks | 35.00% | ~2,043 |
 | Gabriele D'Annunzio | 32.00% | ~1,868 |
-| Silver Lining | 28.00% | ~1,634 |
+| Silver Lining | 28.00% | ~1,635 |
 | Aurelio Baruzzi | 22.00% | ~1,284 |
 | Veni Vidi Vici | 21.00% | ~1,226 |
-| Decimation | 20.00% | ~1,167 |
-| Donatello | 20.00% | ~1,167 |
+| Decimation | 20.00% | ~1,168 |
+| Donatello | 20.00% | ~1,168 |
 | Insubordination | 19.00% | ~1,109 |
 | The Italian Job | 19.00% | ~1,109 |
-| The Lion of the Isonzo | 18.00% | ~1,050 |
+| The Lion of the Isonzo | 18.00% | ~1,051 |
 | Ragazzi del '99 | 17.00% | ~992 |
-| Thus With A Kiss | 15.00% | ~875 |
+| Thus With A Kiss | 15.00% | ~876 |
 | Dirty Dozen | 13.00% | ~759 |
 | Luigi Cadorna | 13.00% | ~759 |
 | Uomo Universale | 13.00% | ~759 |
-| Machiavelli | 12.00% | ~700 |
-| Shaken, Not Stirred | 12.00% | ~700 |
+| Machiavelli | 12.00% | ~701 |
+| Shaken, Not Stirred | 12.00% | ~701 |
 | Dante's Inferno | 11.00% | ~642 |
 | Die Bosniaken Kommen! | 11.00% | ~642 |
 | The Devil's Paintbrush | 11.00% | ~642 |
@@ -39,7 +39,7 @@ Number of Ratings: 98  (23.09.2022)
 | The Enlightment | 6.00% | ~350 |
 | 12th Bottle of the Isonzo | 5.00% | ~292 |
 | Cercatore d'Oro | 5.00% | ~292 |
-| "O La Vittoria, O Tutti Accoppati" | 4.00% | ~233 |
+| "O La Vittoria, O Tutti Accoppati" | 4.00% | ~234 |
 | Ponte of No Return | 3.00% | ~175 |
 | Seeing Red | 3.00% | ~175 |
 | Farewell to Arms | 2.00% | ~117 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~23 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,836 (Ranked 119)  
+Progressed: 5,838 (Ranked 119)  
 Completed: 8 (0.14%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 8 (0.14%) (Ranked 150)
 | 2023-05-22 | 5,784 | 8 |
 | 2023-05-23 | 5,807 | 8 |
 | 2023-05-24 | 5,828 | 8 |
-| 2023-05-25 | 5,836 | 8 |
+| 2023-05-25 | 5,838 | 8 |
 ## Awards
 Max (Highly Recommended): 31  (Ranked 441)  
 Sum: 239 (Ranked 342)  

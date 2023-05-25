@@ -568,9 +568,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5836,
+  "EOS_Progressed": 5838,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1438,6 +1438,11 @@
       "Time": "2023-05-25T13:13:51.0509501+00:00",
       "NumProgressed": 5836,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-25T15:06:17.4988225+00:00",
+      "NumProgressed": 5838,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -1513,7 +1518,7 @@
       "Name": "Decimation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -1537,7 +1542,7 @@
       "Name": "Donatello",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -1601,7 +1606,7 @@
       "Name": "Machiavelli",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "ISONZO_ACH_MALPRACTICE",
@@ -1617,7 +1622,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2101
+      "UsersEstimate": 2102
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -1633,7 +1638,7 @@
       "Name": "\u0022O La Vittoria, O Tutti Accoppati\u0022",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ISONZO_ACH_PEAK_PERFORMANCE",
@@ -1641,7 +1646,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3151
+      "UsersEstimate": 3153
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -1689,7 +1694,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -1697,7 +1702,7 @@
       "Name": "Silver Lining",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 1634
+      "UsersEstimate": 1635
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -1745,7 +1750,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -1761,7 +1766,7 @@
       "Name": "Thus With A Kiss",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "ISONZO_ACH_TOSCA",
@@ -1777,7 +1782,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3093
+      "UsersEstimate": 3094
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -1801,14 +1806,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 3035
+      "UsersEstimate": 3036
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5836,
+      "Progressed": 5838,
       "Completed": 8
     }
   ],
@@ -1816,8 +1821,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-25T13:05:20.9759815+00:00",
-  "LastChanged_Achievements": "2023-05-25T14:05:32.9319283+00:00",
+  "LastChanged_Achievements": "2023-05-25T15:06:17.4988221+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:10.2290416+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:57:23.83494+00:00",
-  "LastUpdate_Achievements": "2023-05-25T14:05:32.9319686+00:00"
+  "LastUpdate_Ratings": "2023-05-25T14:57:15.9360548+00:00",
+  "LastUpdate_Achievements": "2023-05-25T15:06:17.4988548+00:00"
 }

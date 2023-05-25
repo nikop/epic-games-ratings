@@ -18,9 +18,12 @@
 | Tailor-Made for Two | 6.00% | ~3 |
 | Lone Wolf | 6.00% | ~3 |
 | Playing God | 6.00% | ~3 |
+| The Joy of Discovery | 4.00% | ~2 |
+| Gotta Go Fast! | 4.00% | ~2 |
 | Say My Name | 4.00% | ~2 |
 | Nerd | 4.00% | ~2 |
 | Geek | 4.00% | ~2 |
+| The Immortal One | 4.00% | ~2 |
 | First and Foremost | 4.00% | ~2 |
 | Made Mother Proud | 4.00% | ~2 |
 | Winner Winner Chicken Dinner | 4.00% | ~2 |
@@ -28,10 +31,7 @@
 | Déjà-Vu | 2.00% | ~1 |
 | Golden Ratio | 2.00% | ~1 |
 | POI Hunter | 2.00% | ~1 |
-| The Joy of Discovery | 2.00% | ~1 |
-| Gotta Go Fast! | 2.00% | ~1 |
 | Last One Standing | 2.00% | ~1 |
-| The Immortal One | 2.00% | ~1 |
 | Shopping List | 2.00% | ~1 |
 | Checklist | 2.00% | ~1 |
 | Time Lord | 2.00% | ~1 |

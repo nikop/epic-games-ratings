@@ -1,0 +1,46 @@
+{
+  "ID": "3428aaab2c674c98b3acb789dcfaa548",
+  "Name": null,
+  "ProductSlug": "fallout-new-vegas",
+  "Ranking_EOS_Progress": 417,
+  "Ranking_EOS_Completed": 202,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 83,
+  "Store": {
+    "ReleaseDate": null,
+    "PcReleaseDate": null,
+    "isBlockchainUsed": false,
+    "CustomAttributes": {}
+  },
+  "RatingHistory": [],
+  "ReviewsDisabled": false,
+  "Tags": [],
+  "EOS_Progressed": 0,
+  "EOS_Completed": 0,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
+  "EOS_Completed_Percentage": 0,
+  "EosHistory": [],
+  "TotalAchievements": 0,
+  "TotalAchievementsXP": 0,
+  "Achievements": [],
+  "AchievementSets": [
+    {
+      "ID": "6m5nldi",
+      "IsBase": false,
+      "Progressed": 0,
+      "Completed": 0
+    },
+    {
+      "ID": "a96a0j2",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
+  "LastChanged_Achievements": "2023-05-25T15:01:32.4569155+00:00",
+  "LastUpdate_AppInfo": "2023-05-25T14:56:49.2058869+00:00",
+  "LastUpdate_Ratings": "2023-05-25T14:56:49.4696333+00:00",
+  "LastUpdate_Achievements": "2023-05-25T15:01:32.458125+00:00"
+}

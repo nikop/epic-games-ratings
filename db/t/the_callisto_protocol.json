@@ -428,9 +428,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13558,
+  "EOS_Progressed": 13563,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 990,
+  "EOS_NewPlayers": 993,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1523,6 +1523,11 @@
       "Time": "2023-05-25T13:11:27.5777118+00:00",
       "NumProgressed": 13558,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-05-25T15:03:29.2198935+00:00",
+      "NumProgressed": 13563,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 40,
@@ -1566,7 +1571,7 @@
       "Name": "Flesh Wound",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -1646,7 +1651,7 @@
       "Name": "In Striking Distance",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "KILL_2HEAD",
@@ -1806,7 +1811,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -1814,7 +1819,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -1853,13 +1858,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13558,
+      "Progressed": 13563,
       "Completed": 52
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1484,
+      "Progressed": 1489,
       "Completed": 29
     }
   ],
@@ -1867,8 +1872,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-23T19:57:59.4143533+00:00",
-  "LastChanged_Achievements": "2023-05-25T14:03:25.9259832+00:00",
+  "LastChanged_Achievements": "2023-05-25T15:03:29.219893+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:57:46.3108692+00:00",
-  "LastUpdate_Achievements": "2023-05-25T14:03:25.9260273+00:00"
+  "LastUpdate_Ratings": "2023-05-25T14:57:47.6979213+00:00",
+  "LastUpdate_Achievements": "2023-05-25T15:03:29.2199231+00:00"
 }

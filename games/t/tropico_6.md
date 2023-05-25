@@ -6,14 +6,14 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 77.00% | ~2,372 |
-| Un-Lonely Island | 49.00% | ~1,509 |
-| The Beginning of a Servantship | 46.00% | ~1,417 |
-| Trade Is My Trait | 38.00% | ~1,170 |
+| Just One...More...Term... | 77.00% | ~2,373 |
+| Un-Lonely Island | 49.00% | ~1,510 |
+| The Beginning of a Servantship | 46.00% | ~1,418 |
+| Trade Is My Trait | 38.00% | ~1,171 |
 | Number 18 | 25.00% | ~770 |
 | We Don't Have Time For That | 20.00% | ~616 |
-| The Governator | 19.00% | ~585 |
-| The Legend of Langostino | 18.00% | ~554 |
+| The Governator | 19.00% | ~586 |
+| The Legend of Langostino | 18.00% | ~555 |
 | Caribbean Comrade | 17.00% | ~524 |
 | The Dreamer of Dreams | 16.00% | ~493 |
 | Go Sovereigns! | 12.00% | ~370 |
@@ -24,7 +24,7 @@ Number of Ratings: 398  (23.09.2022)
 | Double Trouble | 9.00% | ~277 |
 | Firestarter | 9.00% | ~277 |
 | Make Tropico Great Again! | 9.00% | ~277 |
-| French Connection | 8.00% | ~246 |
+| French Connection | 8.00% | ~247 |
 | Don't Panic! | 7.00% | ~216 |
 | I Owe You Nothing | 7.00% | ~216 |
 | Computer Says "No" | 6.00% | ~185 |
@@ -35,19 +35,19 @@ Number of Ratings: 398  (23.09.2022)
 | Apocalypso | 4.00% | ~123 |
 | The Time For Wonders | 4.00% | ~123 |
 | Been there, Done That | 3.00% | ~92 |
-| One Does Not Simply Stage A Coup | 3.00% | ~92 |
 | Narcissist | 3.00% | ~92 |
 | Promising Endeavors | 3.00% | ~92 |
 | Terraformer | 3.00% | ~92 |
 | Chain Gang | 2.00% | ~62 |
 | From Knight to Little Duck | 2.00% | ~62 |
+| One Does Not Simply Stage A Coup | 2.00% | ~62 |
 | Sublime Subliminal Supreme | 2.00% | ~62 |
 | Teamplayer | 2.00% | ~62 |
 | Curse of the Mummy | 2.00% | ~62 |
 | Survivor | 1.00% | ~31 |
 | My Ways | 0.30% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,080 (Ranked 133)  
+Progressed: 3,082 (Ranked 133)  
 Completed: 1 (0.03%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 1 (0.03%) (Ranked 182)
 | 2023-05-22 | 3,025 | 1 |
 | 2023-05-23 | 3,044 | 1 |
 | 2023-05-24 | 3,070 | 1 |
-| 2023-05-25 | 3,080 | 1 |
+| 2023-05-25 | 3,082 | 1 |
 ## Awards
 Max (Great for Beginners): 104  (Ranked 319)  
 Sum: 750 (Ranked 255)  

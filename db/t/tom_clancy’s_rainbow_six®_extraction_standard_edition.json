@@ -2,7 +2,7 @@
   "ID": "1093790870b043cdbae03d91d76d9ae6",
   "Name": "Tom Clancy\u0027s Rainbow Six Extraction",
   "ProductSlug": "rainbow-six-extraction",
-  "Ranking_Rating": 505,
+  "Ranking_Rating": 521,
   "Ranking_Popularity": 285,
   "Ranking_PopularitySum": 237,
   "Ranking_EOS_Progress": 417,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.52,
+  "Rating": 4.51,
   "NumberOfRatings": 635,
   "RatingHistory": [
     {
@@ -1414,6 +1414,12 @@
       "Rating": 4.52,
       "NumberOfAwards": 921,
       "NumberOfAwardsMax": 153
+    },
+    {
+      "Time": "2023-05-25T14:58:59.5626389+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 921,
+      "NumberOfAwardsMax": 153
     }
   ],
   "ReviewsDisabled": false,
@@ -1493,8 +1499,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:18.7941234+00:00",
-  "LastChanged": "2023-05-23T18:59:14.7235154+00:00",
+  "LastChanged": "2023-05-25T14:58:59.5626387+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:08.9634932+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:58:39.1182517+00:00",
-  "LastUpdate_Achievements": "2023-05-25T14:00:12.5335614+00:00"
+  "LastUpdate_Ratings": "2023-05-25T14:58:59.5626392+00:00",
+  "LastUpdate_Achievements": "2023-05-25T15:01:37.1412992+00:00"
 }

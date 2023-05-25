@@ -4,7 +4,7 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 40,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 449,
+  "EOS_Progressed": 450,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.34,
+  "EOS_Completed_Percentage": 3.33,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:50.241177+00:00",
@@ -161,6 +161,11 @@
       "Time": "2023-05-24T12:05:35.7701645+00:00",
       "NumProgressed": 449,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-05-25T15:06:21.1481005+00:00",
+      "NumProgressed": 450,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 32,
@@ -196,7 +201,7 @@
       "Name": "Buckle up",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "CONCRETE_PAINTING",
@@ -236,7 +241,7 @@
       "Name": "Found it!",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "GOODY",
@@ -268,7 +273,7 @@
       "Name": "Trick or Treat?",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "HE_IS_JUST_A_CHILD",
@@ -276,7 +281,7 @@
       "Name": "He is just a child",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "HIPSTER",
@@ -332,7 +337,7 @@
       "Name": "Now you know",
       "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "PERFECT_HEARING",
@@ -364,7 +369,7 @@
       "Name": "Quick charge",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "SHORT_CIRCUIT",
@@ -396,7 +401,7 @@
       "Name": "That\u0027s much better!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "THERE_IS_ANOTHER_WAY",
@@ -427,7 +432,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 449,
+      "Progressed": 450,
       "Completed": 15
     }
   ],
@@ -435,8 +440,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-05-25T14:05:35.8655386+00:00",
+  "LastChanged_Achievements": "2023-05-25T15:06:21.1481001+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:21.9827734+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:58:32.7731502+00:00",
-  "LastUpdate_Achievements": "2023-05-25T14:05:35.865561+00:00"
+  "LastUpdate_Ratings": "2023-05-25T14:58:51.173412+00:00",
+  "LastUpdate_Achievements": "2023-05-25T15:06:21.1481185+00:00"
 }

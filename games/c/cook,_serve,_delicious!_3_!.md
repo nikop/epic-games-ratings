@@ -5,8 +5,8 @@ Rating: 4.49 (Ranked 558)
 Number of Ratings: 2,006  (23.09.2022)  
 ## Awards
 Max (Great for Quick Sessions): 105  (Ranked 316)  
-Sum: 706 (Ranked 262)  
-Diff (max vs sum): 54  
+Sum: 707 (Ranked 261)  
+Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 105 |
@@ -16,7 +16,7 @@ Diff (max vs sum): 54
 | This game is Extremely Fun | 89 |
 | This game has Playful Visuals | 83 |
 | This game has Amazing Storytelling | 74 |
-| This game has Challenging Combat | 71 |
+| This game has Challenging Combat | 72 |
 | This game has Obsessive Gameplay | 64 |
 | This game is Great for Beginners | 59 |
 | This game is Relaxing | 34 |
@@ -81,3 +81,4 @@ Diff (max vs sum): 54
 | 2023-04-21 | 4.49 | - | 104 | 704 |
 | 2023-05-11 | 4.49 | - | 105 | 705 |
 | 2023-05-15 | 4.49 | - | 105 | 706 |
+| 2023-05-25 | 4.49 | - | 105 | 707 |

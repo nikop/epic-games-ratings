@@ -2325,9 +2325,9 @@
       "ID": "fellowshippower",
       "SetID": "3nl4bcg",
       "Name": "Fellowship Power",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 464
+      "UsersEstimate": 475
     },
     {
       "ID": "fourleafclover",
@@ -2629,9 +2629,9 @@
       "ID": "thegameison",
       "SetID": "3nl4bcg",
       "Name": "The game is on",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 220
     },
     {
       "ID": "thepowerofawakening",
@@ -2750,8 +2750,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-23T21:58:11.918076+00:00",
-  "LastChanged_Achievements": "2023-05-25T14:05:40.9816545+00:00",
+  "LastChanged_Achievements": "2023-05-25T15:06:27.6594605+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:34.8363446+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:57:53.3969938+00:00",
-  "LastUpdate_Achievements": "2023-05-25T14:05:40.9817408+00:00"
+  "LastUpdate_Ratings": "2023-05-25T14:57:58.9996244+00:00",
+  "LastUpdate_Achievements": "2023-05-25T15:06:27.6595335+00:00"
 }

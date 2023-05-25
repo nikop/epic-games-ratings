@@ -18,6 +18,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Ring of Regeneration | 0.30% | ~266 |
 | Seeking Allies | 0.30% | ~266 |
 | Are Ya Chicken? | 0.30% | ~266 |
+| Friendly Imps | 0.30% | ~266 |
 | Maddening | 0.20% | ~177 |
 | Owlbear Necessities | 0.20% | ~110 |
 | Best Thay Ever | 0.20% | ~110 |
@@ -39,7 +40,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.20% | ~177 |
 | The Contagious Curse | 0.20% | ~177 |
 | Escort to Waterdeep | 0.20% | ~177 |
-| Friendly Imps | 0.20% | ~177 |
+| Waterdeep Detours | 0.20% | ~177 |
 | Pure Energy | 0.20% | ~177 |
 | Pros and CONs | 0.10% | ~89 |
 | Upholding the Law | 0.10% | ~89 |
@@ -409,7 +410,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Close Escort | 0.10% | ~89 |
 | Constant Banditry | 0.10% | ~89 |
 | The Long Haul | 0.10% | ~89 |
-| Waterdeep Detours | 0.10% | ~89 |
 | Lost in the Deep | 0.10% | ~89 |
 | Easily Distracted | 0.10% | ~89 |
 | Rude Welcome | 0.10% | ~89 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.10% | ~89 |
 | Rescue in the Jungle | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,591 (Ranked 60)  
+Progressed: 88,598 (Ranked 60)  
 Completed: 1,878 (2.12%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -535,7 +535,7 @@ Completed: 1,878 (2.12%) (Ranked 61)
 | 2023-05-22 | 88,337 | 1,863 |
 | 2023-05-23 | 88,435 | 1,872 |
 | 2023-05-24 | 88,533 | 1,875 |
-| 2023-05-25 | 88,591 | 1,878 |
+| 2023-05-25 | 88,598 | 1,878 |
 ## Awards
 Max (Diverse Characters): 4,902  (Ranked 64)  
 Sum: 29,967 (Ranked 37)  

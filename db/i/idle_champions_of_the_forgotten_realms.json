@@ -3922,9 +3922,9 @@
       "Count": 3239
     }
   ],
-  "EOS_Progressed": 88591,
+  "EOS_Progressed": 88598,
   "EOS_Completed": 1878,
-  "EOS_NewPlayers": 728,
+  "EOS_NewPlayers": 729,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 2.12,
   "EosHistory": [
@@ -7332,6 +7332,11 @@
       "Time": "2023-05-25T14:06:01.212601+00:00",
       "NumProgressed": 88591,
       "NumCompleted": 1878
+    },
+    {
+      "Time": "2023-05-25T15:06:52.3630382+00:00",
+      "NumProgressed": 88598,
+      "NumCompleted": 1878
     }
   ],
   "TotalAchievements": 493,
@@ -10517,9 +10522,9 @@
       "ID": "objective_completed_74",
       "SetID": "cc37lbc",
       "Name": "Waterdeep Detours",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_75",
@@ -10557,9 +10562,9 @@
       "ID": "objective_completed_8",
       "SetID": "cc37lbc",
       "Name": "Friendly Imps",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 266
     },
     {
       "ID": "objective_completed_80",
@@ -11286,21 +11291,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54865,
-      "Completed": 2704
+      "Progressed": 54872,
+      "Completed": 2705
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88591,
+      "Progressed": 88598,
       "Completed": 1878
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-25T04:58:06.0839905+00:00",
-  "LastChanged_Achievements": "2023-05-25T14:06:01.2126003+00:00",
+  "LastChanged_Achievements": "2023-05-25T15:06:52.3630375+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:57:56.5733395+00:00",
-  "LastUpdate_Achievements": "2023-05-25T14:06:01.2149929+00:00"
+  "LastUpdate_Ratings": "2023-05-25T14:58:03.6100057+00:00",
+  "LastUpdate_Achievements": "2023-05-25T15:06:52.3652137+00:00"
 }

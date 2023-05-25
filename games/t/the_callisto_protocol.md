@@ -5,11 +5,11 @@ Rating: 4.18 (Ranked 831)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 6.00% | ~813 |
+| Flesh Wound | 6.00% | ~814 |
 | Giving Back | 5.00% | ~678 |
 | Chew 'Em Up | 5.00% | ~678 |
-| Instigator | 4.00% | ~59 |
-| Big Game Hunter | 4.00% | ~59 |
+| Instigator | 4.00% | ~60 |
+| Big Game Hunter | 4.00% | ~60 |
 | Paper Jams | 3.00% | ~407 |
 | The Outer Way | 3.00% | ~407 |
 | Desperate Times | 3.00% | ~407 |
@@ -30,7 +30,7 @@ Rating: 4.18 (Ranked 831)
 | In the Pipe, Five by Five | 0.90% | ~122 |
 | Crash Site | 0.90% | ~122 |
 | Lifer | 0.80% | ~12 |
-| In Striking Distance | 0.80% | ~108 |
+| In Striking Distance | 0.80% | ~109 |
 | Recidivist | 0.70% | ~10 |
 | Power Up | 0.70% | ~95 |
 | You Need a Gun | 0.60% | ~81 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 831)
 | Subject Alpha | 0.10% | ~1 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,558 (Ranked 101)  
+Progressed: 13,563 (Ranked 101)  
 Completed: 52 (0.38%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 52 (0.38%) (Ranked 114)
 | 2023-05-22 | 13,347 | 52 |
 | 2023-05-23 | 13,444 | 52 |
 | 2023-05-24 | 13,523 | 52 |
-| 2023-05-25 | 13,558 | 52 |
+| 2023-05-25 | 13,563 | 52 |
 ## Awards
 Max (Highly Recommended): 46  (Ranked 397)  
 Sum: 267 (Ranked 335)  

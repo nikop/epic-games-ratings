@@ -852,7 +852,7 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 3080,
+  "EOS_Progressed": 3082,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
@@ -2762,6 +2762,11 @@
       "Time": "2023-05-25T14:05:55.1356051+00:00",
       "NumProgressed": 3080,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-25T15:06:45.472605+00:00",
+      "NumProgressed": 3082,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2869,7 +2874,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -2877,7 +2882,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -2925,7 +2930,7 @@
       "Name": "The Governator",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -2933,7 +2938,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2372
+      "UsersEstimate": 2373
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -2947,9 +2952,9 @@
       "ID": "ACH_MILITARYCOUP",
       "SetID": "1p8ab95",
       "Name": "One Does Not Simply Stage A Coup",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH_MISSION_NOELECTION",
@@ -3029,7 +3034,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 1509
+      "UsersEstimate": 1510
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -3045,7 +3050,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 1170
+      "UsersEstimate": 1171
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -3077,7 +3082,7 @@
       "Name": "French Connection",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -3092,15 +3097,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3080,
+      "Progressed": 3082,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-15T17:00:44.7999652+00:00",
-  "LastChanged_Achievements": "2023-05-25T14:05:55.1356045+00:00",
+  "LastChanged_Achievements": "2023-05-25T15:06:45.4726046+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:57.2781106+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:59:47.0052457+00:00",
-  "LastUpdate_Achievements": "2023-05-25T14:05:55.135646+00:00"
+  "LastUpdate_Ratings": "2023-05-25T15:00:59.1544193+00:00",
+  "LastUpdate_Achievements": "2023-05-25T15:06:45.4726369+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "ranch-simulator",
   "Ranking_Rating": 629,
   "Ranking_Popularity": 394,
-  "Ranking_PopularitySum": 326,
+  "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 319,
@@ -637,10 +637,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 292,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2023-05-25T14:58:35.0660697+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 312,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 292,
+  "NumberOfAwards": 312,
   "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -703,6 +709,12 @@
       "Prefix": "This game is",
       "Type": "Extremely Fun",
       "Count": 27
+    },
+    {
+      "Text": "This game has a Creative Community",
+      "Prefix": "This game has a",
+      "Type": "Creative Community",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -716,8 +728,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:57.8144749+00:00",
-  "LastChanged": "2023-05-25T10:58:15.2943202+00:00",
+  "LastChanged": "2023-05-25T14:58:35.0660696+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:02.7096445+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:58:18.7492123+00:00",
-  "LastUpdate_Achievements": "2023-05-25T14:03:58.6644188+00:00"
+  "LastUpdate_Ratings": "2023-05-25T14:58:35.0660702+00:00",
+  "LastUpdate_Achievements": "2023-05-25T15:04:12.6994682+00:00"
 }

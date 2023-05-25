@@ -9,10 +9,10 @@ Rating: 3.87 (Ranked 907)
 | World Map | 80.00% | ~927 |
 | Temple of Eternals | 57.00% | ~661 |
 | Prestigious | 53.00% | ~614 |
-| Fellowship Power | 40.00% | ~464 |
+| Fellowship Power | 41.00% | ~475 |
 | Guild Power | 24.00% | ~278 |
 | Prestigious x10 | 21.00% | ~243 |
-| The game is on | 18.00% | ~209 |
+| The game is on | 19.00% | ~220 |
 | Exotic Merchant | 17.00% | ~197 |
 | Dragon Clicker | 16.00% | ~185 |
 | Miner Clicker | 16.00% | ~185 |
