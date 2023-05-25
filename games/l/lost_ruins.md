@@ -9,8 +9,8 @@
 | Bug Hunter | 25.00% | ~78 |
 | Boss Killer | 24.00% | ~75 |
 | The Fallen | 21.00% | ~66 |
+| Trap Master | 21.00% | ~66 |
 | Artifact Collector | 20.00% | ~63 |
-| Trap Master | 20.00% | ~63 |
 | Reincarnation | 17.00% | ~53 |
 | Ghost Buster | 16.00% | ~50 |
 | Iconoclasm | 14.00% | ~44 |
@@ -45,7 +45,7 @@
 | Cryomancer | 0.00% | ~0 |
 | Necromancer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 314 (Ranked 211)  
+Progressed: 314 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |

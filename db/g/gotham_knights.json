@@ -1214,9 +1214,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61954,
+  "EOS_Progressed": 61958,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1010,
+  "EOS_NewPlayers": 1013,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3649,6 +3649,11 @@
       "Time": "2023-05-25T02:06:07.9131363+00:00",
       "NumProgressed": 61954,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-25T03:05:50.3228626+00:00",
+      "NumProgressed": 61958,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3866,9 +3871,9 @@
       "ID": "DEFEAT_OC_2",
       "SetID": "4eo5ebm",
       "Name": "Shock Til They Drop",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 372
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -4042,9 +4047,9 @@
       "ID": "KNIGHTHOOD_2",
       "SetID": "4eo5ebm",
       "Name": "A Worthy Successor",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 186
     },
     {
       "ID": "MYSTERY_01",
@@ -4147,13 +4152,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61954,
+      "Progressed": 61958,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32234,
+      "Progressed": 32238,
       "Completed": 2641
     }
   ],
@@ -4161,8 +4166,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-24T21:59:34.5075954+00:00",
-  "LastChanged_Achievements": "2023-05-25T02:06:07.9131357+00:00",
+  "LastChanged_Achievements": "2023-05-25T03:05:50.322862+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-25T01:59:41.4610825+00:00",
-  "LastUpdate_Achievements": "2023-05-25T02:06:07.9132076+00:00"
+  "LastUpdate_Ratings": "2023-05-25T02:59:24.5006364+00:00",
+  "LastUpdate_Achievements": "2023-05-25T03:05:50.3229237+00:00"
 }

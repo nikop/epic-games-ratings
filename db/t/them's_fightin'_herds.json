@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 222043,
+  "EOS_Progressed": 222051,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 591,
+  "EOS_NewPlayers": 599,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3522,6 +3522,11 @@
       "Time": "2023-05-25T02:05:56.280722+00:00",
       "NumProgressed": 222043,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-25T03:05:38.1781861+00:00",
+      "NumProgressed": 222051,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -3595,9 +3600,9 @@
       "ID": "BEGIN_STORY_MODE",
       "SetID": "4dbk7kc",
       "Name": "Once upon a time...",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 79935
+      "UsersEstimate": 77718
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -3669,7 +3674,7 @@
       "Name": "Champ\u0027een of The Praire",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 2220
+      "UsersEstimate": 2221
     },
     {
       "ID": "COMPLETE_THE_STORY_MODE_PROLOGUE",
@@ -3677,7 +3682,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 75495
+      "UsersEstimate": 75497
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -3693,7 +3698,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 48849
+      "UsersEstimate": 48851
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -3701,7 +3706,7 @@
       "Name": "Tenderhoof",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6661
+      "UsersEstimate": 6662
     },
     {
       "ID": "STOMP_PAPRIKA_INTO_ORBIT",
@@ -3741,7 +3746,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 37747
+      "UsersEstimate": 37749
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -3749,14 +3754,14 @@
       "Name": "Come At Me!",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 2220
+      "UsersEstimate": 2221
     }
   ],
   "AchievementSets": [
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 222043,
+      "Progressed": 222051,
       "Completed": 3
     }
   ],
@@ -3764,8 +3769,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-05-11T22:00:06.9625296+00:00",
-  "LastChanged_Achievements": "2023-05-25T02:05:56.2807214+00:00",
+  "LastChanged_Achievements": "2023-05-25T03:05:38.1781855+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:35.8538905+00:00",
-  "LastUpdate_Ratings": "2023-05-25T01:59:47.1335725+00:00",
-  "LastUpdate_Achievements": "2023-05-25T02:05:56.280761+00:00"
+  "LastUpdate_Ratings": "2023-05-25T02:59:30.1917408+00:00",
+  "LastUpdate_Achievements": "2023-05-25T03:05:38.1782153+00:00"
 }

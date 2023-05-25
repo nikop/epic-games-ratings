@@ -5,12 +5,12 @@ Rating: 3.87 (Ranked 906)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,087 |
-| World Map | 80.00% | ~925 |
-| Temple of Eternals | 57.00% | ~659 |
-| Prestigious | 53.00% | ~613 |
-| Fellowship Power | 40.00% | ~462 |
-| Guild Power | 24.00% | ~277 |
+| Victor | 94.00% | ~1,089 |
+| World Map | 80.00% | ~926 |
+| Temple of Eternals | 57.00% | ~660 |
+| Prestigious | 53.00% | ~614 |
+| Fellowship Power | 41.00% | ~475 |
+| Guild Power | 24.00% | ~278 |
 | Prestigious x10 | 21.00% | ~243 |
 | The game is on | 18.00% | ~208 |
 | Exotic Merchant | 17.00% | ~197 |
@@ -18,16 +18,16 @@ Rating: 3.87 (Ranked 906)
 | Miner Clicker | 16.00% | ~185 |
 | Full Party | 14.00% | ~162 |
 | Inspection | 14.00% | ~162 |
-| Hero inspection | 13.00% | ~150 |
-| Lieutenant | 12.00% | ~139 |
+| Hero inspection | 13.00% | ~151 |
 | Dragon Master | 11.00% | ~127 |
 | Enlightenment | 11.00% | ~127 |
+| Lieutenant | 11.00% | ~127 |
 | Milestone collector | 10.00% | ~116 |
 | Natural Talent | 10.00% | ~116 |
 | The Unstoppable | 10.00% | ~116 |
 | Mysterious Rock | 9.00% | ~104 |
 | Superior | 9.00% | ~104 |
-| Scientist | 8.00% | ~92 |
+| Scientist | 8.00% | ~93 |
 | Daily Quest Completionist | 7.00% | ~81 |
 | Challenger | 6.00% | ~69 |
 | Hunter | 6.00% | ~69 |
@@ -38,19 +38,19 @@ Rating: 3.87 (Ranked 906)
 | Moving Up The Ladder | 5.00% | ~58 |
 | Doing My Part | 4.00% | ~46 |
 | Here We Go Again | 4.00% | ~46 |
+| Relic Of The Past | 4.00% | ~46 |
 | The Expeditioner | 4.00% | ~46 |
 | Ancient Knowledge | 3.00% | ~35 |
 | Background Story | 3.00% | ~35 |
 | How Do You Turn This On? | 3.00% | ~35 |
+| Master Enchanter | 3.00% | ~35 |
 | Missions Dedication | 3.00% | ~35 |
-| Relic Of The Past | 3.00% | ~35 |
 | The father of Dragons | 3.00% | ~35 |
 | Trader | 3.00% | ~35 |
 | Weekly Quest Completionist | 3.00% | ~35 |
 | Dragon Slayer | 2.00% | ~23 |
 | Engineer Mastery | 2.00% | ~23 |
 | Lock And Load | 2.00% | ~23 |
-| Master Enchanter | 2.00% | ~23 |
 | What lies behind the bush | 2.00% | ~23 |
 | Blueprint Upgrades | 1.00% | ~12 |
 | Enchanting skill | 1.00% | ~12 |
@@ -81,7 +81,7 @@ Rating: 3.87 (Ranked 906)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,156 (Ranked 161)  
+Progressed: 1,158 (Ranked 161)  
 Completed: 1 (0.09%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,6 +116,7 @@ Completed: 1 (0.09%) (Ranked 163)
 | 2023-05-22 | 1,141 | 1 |
 | 2023-05-23 | 1,150 | 1 |
 | 2023-05-24 | 1,156 | 1 |
+| 2023-05-25 | 1,158 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

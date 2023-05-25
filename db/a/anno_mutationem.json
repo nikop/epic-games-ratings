@@ -291,9 +291,9 @@
       "ID": "I_just_love_stuff",
       "SetID": "gl7plp",
       "Name": "I just love stuff!",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 244
     },
     {
       "ID": "I_think_its_broke",
@@ -411,9 +411,9 @@
       "ID": "The_Warlord",
       "SetID": "gl7plp",
       "Name": "The Warlord",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 116
+      "UsersEstimate": 122
     },
     {
       "ID": "The_things_they_print_nowadays",
@@ -500,8 +500,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-03-31T05:57:44.802254+00:00",
-  "LastChanged_Achievements": "2023-05-25T02:03:40.3696675+00:00",
+  "LastChanged_Achievements": "2023-05-25T03:03:18.1399957+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:07.9754258+00:00",
-  "LastUpdate_Ratings": "2023-05-25T01:57:59.2759085+00:00",
-  "LastUpdate_Achievements": "2023-05-25T02:03:40.369694+00:00"
+  "LastUpdate_Ratings": "2023-05-25T02:57:37.7258129+00:00",
+  "LastUpdate_Achievements": "2023-05-25T03:03:18.1400183+00:00"
 }

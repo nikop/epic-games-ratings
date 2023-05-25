@@ -39,6 +39,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Bride | 0.10% | ~5 |
 | Casabrova | 0.10% | ~5 |
 | Casanova | 0.10% | ~5 |
+| Deck the Balls | 0.10% | ~2 |
 | Drunk and Disorderly: Madison | 0.10% | ~5 |
 | Do Not Burn | 0.10% | ~5 |
 | Doja's Dope-Ass Dinolicious Danceapalooza | 0.10% | ~2 |
@@ -70,13 +71,12 @@ Number of Ratings: 177  (23.09.2022)
 | Snapped | 0.10% | ~5 |
 | Congrats, A Celebrity Hates You | 0.00% | ~0 |
 | D-Club Certified | 0.00% | ~0 |
-| Deck the Balls | 0.00% | ~0 |
 | Hungry Hungry Hot Tubs | 0.00% | ~0 |
 | Sucker Punch | 0.00% | ~0 |
 | That's a Nice Bush! | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,124 (Ranked 123)  
+Progressed: 5,125 (Ranked 123)  
 Completed: 2 (0.04%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,6 +110,7 @@ Completed: 2 (0.04%) (Ranked 177)
 | 2023-05-22 | 5,084 | 2 |
 | 2023-05-23 | 5,104 | 2 |
 | 2023-05-24 | 5,124 | 2 |
+| 2023-05-25 | 5,125 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

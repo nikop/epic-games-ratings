@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 376,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -568,9 +568,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3731,
+  "EOS_Progressed": 3732,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1758,6 +1758,11 @@
       "Time": "2023-05-25T02:00:49.6943604+00:00",
       "NumProgressed": 3731,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T03:00:38.8641466+00:00",
+      "NumProgressed": 3732,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -1769,7 +1774,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 2686
+      "UsersEstimate": 2687
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -1785,7 +1790,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 2313
+      "UsersEstimate": 2314
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -1793,7 +1798,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -1809,7 +1814,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1977
+      "UsersEstimate": 1978
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -1817,7 +1822,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1380
+      "UsersEstimate": 1381
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -1825,7 +1830,7 @@
       "Name": "Scaling up",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -1921,7 +1926,7 @@
       "Name": "Marathon",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ACHIEVEMENT_021",
@@ -2048,13 +2053,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 3731,
+      "Progressed": 3732,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3103,
+      "Progressed": 3104,
       "Completed": 112
     }
   ],
@@ -2062,8 +2067,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-05-14T03:00:04.4008144+00:00",
-  "LastChanged_Achievements": "2023-05-25T02:00:49.69436+00:00",
+  "LastChanged_Achievements": "2023-05-25T03:00:38.864146+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:23.9987618+00:00",
-  "LastUpdate_Ratings": "2023-05-25T01:59:45.4781121+00:00",
-  "LastUpdate_Achievements": "2023-05-25T02:00:49.6943946+00:00"
+  "LastUpdate_Ratings": "2023-05-25T02:59:28.8004988+00:00",
+  "LastUpdate_Achievements": "2023-05-25T03:00:38.8641742+00:00"
 }

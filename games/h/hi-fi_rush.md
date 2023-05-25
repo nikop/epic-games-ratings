@@ -5,29 +5,29 @@ Rating: 4.87 (Ranked 25)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 83.00% | ~1,717 |
-| Feeling the beat! | 83.00% | ~1,717 |
-| You can pet the cat! | 77.00% | ~1,593 |
-| Who put gears in there? | 71.00% | ~1,469 |
+| Start with a bang! | 83.00% | ~1,718 |
+| Feeling the beat! | 83.00% | ~1,718 |
+| You can pet the cat! | 77.00% | ~1,594 |
+| Who put gears in there? | 71.00% | ~1,470 |
 | Cream of the Crop | 66.00% | ~1,366 |
-| Thanks for the free chip, Peppermint! | 65.00% | ~1,345 |
-| You got this, Peppermint? | 60.00% | ~1,241 |
-| Perfect Parry | 58.00% | ~1,200 |
-| Alright, that felt AWESOME! | 57.00% | ~1,179 |
+| Thanks for the free chip, Peppermint! | 65.00% | ~1,346 |
+| You got this, Peppermint? | 60.00% | ~1,242 |
+| Perfect Parry | 58.00% | ~1,201 |
+| Alright, that felt AWESOME! | 57.00% | ~1,180 |
 | I play my own way! | 53.00% | ~1,097 |
-| This will cost you big time | 51.00% | ~1,055 |
-| Uh, they were broken when I got here | 50.00% | ~1,034 |
+| This will cost you big time | 51.00% | ~1,056 |
+| Uh, they were broken when I got here | 50.00% | ~1,035 |
 | Z-shielding's got nothing on us! | 49.00% | ~1,014 |
-| Kissing the sky! | 47.00% | ~972 |
-| Does that say weakpoint? | 45.00% | ~931 |
-| Whoa! There's ANOTHER health bar!? | 44.00% | ~910 |
-| The Negotiator | 41.00% | ~848 |
+| Kissing the sky! | 47.00% | ~973 |
+| Does that say weakpoint? | 45.00% | ~932 |
+| Whoa! There's ANOTHER health bar!? | 44.00% | ~911 |
+| The Negotiator | 41.00% | ~849 |
 | You must like calling me in, Chai | 36.00% | ~745 |
 | Out in a puff of smoke | 36.00% | ~745 |
 | Headliner | 35.00% | ~724 |
 | Time to pay up! | 33.00% | ~683 |
 | Perfecter Parry-er! | 33.00% | ~683 |
-| Who's the boss now? | 31.00% | ~641 |
+| Who's the boss now? | 31.00% | ~642 |
 | I have to read these things? | 30.00% | ~621 |
 | I look cool. But I can look COOLER. | 30.00% | ~621 |
 | There's such a thing as TOO helpful | 23.00% | ~476 |
@@ -67,7 +67,7 @@ Rating: 4.87 (Ranked 25)
 | Didn't skip a beat! | 0.30% | ~6 |
 | What a journey it was... | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,069 (Ranked 144)  
+Progressed: 2,070 (Ranked 144)  
 Completed: 4 (0.19%) (Ranked 142)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 4 (0.19%) (Ranked 142)
 | 2023-05-22 | 1,920 | 4 |
 | 2023-05-23 | 2,003 | 4 |
 | 2023-05-24 | 2,063 | 4 |
-| 2023-05-25 | 2,069 | 4 |
+| 2023-05-25 | 2,070 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

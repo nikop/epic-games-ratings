@@ -14,9 +14,9 @@ Number of Ratings: 111  (23.09.2022)
 | Go with the Flow | 12.00% | ~248 |
 | Plastic Surgeon | 9.00% | ~186 |
 | The flip trick crown jewel | 9.00% | ~186 |
-| Keep the dream alive | 8.00% | ~165 |
-| The hard way | 8.00% | ~165 |
-| Upfront shredder | 8.00% | ~165 |
+| Keep the dream alive | 8.00% | ~166 |
+| The hard way | 8.00% | ~166 |
+| Upfront shredder | 8.00% | ~166 |
 | Good vibes | 7.00% | ~145 |
 | Fashionista | 6.00% | ~124 |
 | Finally he zips it | 6.00% | ~124 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,068 (Ranked 145)  
+Progressed: 2,069 (Ranked 145)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-22 | 2,040 | 0 |
 | 2023-05-23 | 2,052 | 0 |
 | 2023-05-24 | 2,066 | 0 |
-| 2023-05-25 | 2,068 | 0 |
+| 2023-05-25 | 2,069 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 393)  
 Sum: 414 (Ranked 300)  

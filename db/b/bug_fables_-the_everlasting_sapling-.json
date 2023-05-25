@@ -4,7 +4,7 @@
   "ProductSlug": "bug-fables-the-everlasting-sapling-851aa9",
   "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-04-08T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 67,
+  "EOS_Progressed": 68,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -45,6 +45,11 @@
     {
       "Time": "2023-05-21T19:07:02.6093743+00:00",
       "NumProgressed": 67,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T03:05:41.5913113+00:00",
+      "NumProgressed": 68,
       "NumCompleted": 0
     }
   ],
@@ -71,7 +76,7 @@
       "ID": "BFT_CH1",
       "SetID": "7o7kd30",
       "Name": "Chapter 1 Complete",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 15,
       "UsersEstimate": 47
     },
@@ -79,7 +84,7 @@
       "ID": "BFT_CH1HB",
       "SetID": "7o7kd30",
       "Name": "Vicious Spider",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 30,
       "UsersEstimate": 30
     },
@@ -95,7 +100,7 @@
       "ID": "BFT_CH2HB",
       "SetID": "7o7kd30",
       "Name": "The Guardian",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
       "UsersEstimate": 20
     },
@@ -103,7 +108,7 @@
       "ID": "BFT_CH3",
       "SetID": "7o7kd30",
       "Name": "Chapter 3 Complete",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
       "UsersEstimate": 24
     },
@@ -296,7 +301,7 @@
     {
       "ID": "7o7kd30",
       "IsBase": true,
-      "Progressed": 67,
+      "Progressed": 68,
       "Completed": 0
     }
   ],
@@ -304,8 +309,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2023-05-25T02:05:59.6156628+00:00",
+  "LastChanged_Achievements": "2023-05-25T03:05:41.5913106+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:40.113504+00:00",
-  "LastUpdate_Ratings": "2023-05-25T01:59:54.4637139+00:00",
-  "LastUpdate_Achievements": "2023-05-25T02:05:59.6156855+00:00"
+  "LastUpdate_Ratings": "2023-05-25T02:59:38.4725567+00:00",
+  "LastUpdate_Achievements": "2023-05-25T03:05:41.5913291+00:00"
 }

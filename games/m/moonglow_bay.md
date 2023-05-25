@@ -8,10 +8,10 @@
 | Eternal Tempest | 1.00% | ~4 |
 | Flying Tackle | 1.00% | ~4 |
 | An Ancient Feud | 0.80% | ~3 |
+| The Art of Conversation | 0.80% | ~3 |
 | Selfish Shellfish | 0.80% | ~3 |
 | They Can Change | 0.50% | ~2 |
 | The Heart of Moonglow | 0.50% | ~2 |
-| The Art of Conversation | 0.50% | ~2 |
 | Aquatic Expansion | 0.50% | ~2 |
 | Wise and Floofy | 0.50% | ~2 |
 | Four-Legged Friends | 0.50% | ~2 |

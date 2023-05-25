@@ -14,7 +14,7 @@
 | Solved eighth case | 22.00% | ~17 |
 | Solved ninth case | 22.00% | ~17 |
 | Solved tenth case | 18.00% | ~14 |
-| Solved eleventh case | 15.00% | ~12 |
+| Solved eleventh case | 17.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 78 (Ranked 271)  
 Completed: 2 (2.56%) (Ranked 54)  

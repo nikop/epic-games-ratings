@@ -7,7 +7,7 @@ Rating: 4.55 (Ranked 467)
 | ---- | ---------- | ----- |
 | Tell me your story | 75.00% | ~458 |
 | Don't judge a manhole by its cover | 60.00% | ~367 |
-| I just love stuff! | 39.00% | ~238 |
+| I just love stuff! | 40.00% | ~244 |
 | Keep 'em coming! | 39.00% | ~238 |
 | Big Spender | 37.00% | ~226 |
 | The things they print nowadays | 36.00% | ~220 |
@@ -15,9 +15,9 @@ Rating: 4.55 (Ranked 467)
 | I think it's broke | 25.00% | ~153 |
 | The Ann Flores Combo Experience | 25.00% | ~153 |
 | Club Star | 23.00% | ~141 |
+| The Warlord | 20.00% | ~122 |
 | Fire in the hole! | 19.00% | ~116 |
 | Omnipotence | 19.00% | ~116 |
-| The Warlord | 19.00% | ~116 |
 | You are the One | 19.00% | ~116 |
 | Deadly Kombationem | 18.00% | ~110 |
 | The truth is out there | 14.00% | ~86 |

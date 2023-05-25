@@ -10,10 +10,10 @@
 | Apprentice Destructor | 21.00% | ~21 |
 | I Prefer Jazz Fusion | 10.00% | ~10 |
 | You Are Actually Supposed To Use Those | 7.00% | ~7 |
+| Master Destructor | 6.00% | ~6 |
 | Avaricerite | 5.00% | ~5 |
 | Ball Galore | 5.00% | ~5 |
 | Easy Victory | 5.00% | ~5 |
-| Master Destructor | 5.00% | ~5 |
 | Back From The Dead | 3.00% | ~3 |
 | Legendary Destructor | 3.00% | ~3 |
 | Ball Protector | 2.00% | ~2 |

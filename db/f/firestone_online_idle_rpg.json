@@ -92,9 +92,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1156,
+  "EOS_Progressed": 1158,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2122,6 +2122,11 @@
       "Time": "2023-05-24T20:06:31.9576669+00:00",
       "NumProgressed": 1156,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-25T03:05:33.556622+00:00",
+      "NumProgressed": 1158,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2315,9 +2320,9 @@
       "ID": "fellowshippower",
       "SetID": "3nl4bcg",
       "Name": "Fellowship Power",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 462
+      "UsersEstimate": 475
     },
     {
       "ID": "fourleafclover",
@@ -2365,7 +2370,7 @@
       "Name": "Guild Power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "herewegoagain",
@@ -2381,7 +2386,7 @@
       "Name": "Hero inspection",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "howdoyouturnthison",
@@ -2427,9 +2432,9 @@
       "ID": "lieutenant",
       "SetID": "3nl4bcg",
       "Name": "Lieutenant",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 127
     },
     {
       "ID": "lockandload",
@@ -2443,9 +2448,9 @@
       "ID": "masterenchanter",
       "SetID": "3nl4bcg",
       "Name": "Master Enchanter",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 35
     },
     {
       "ID": "mastery",
@@ -2525,7 +2530,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "prestigiousx10",
@@ -2539,9 +2544,9 @@
       "ID": "relicofthepast",
       "SetID": "3nl4bcg",
       "Name": "Relic Of The Past",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 46
     },
     {
       "ID": "sailor",
@@ -2557,7 +2562,7 @@
       "Name": "Scientist",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "scrollmaster",
@@ -2589,7 +2594,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "thealchemist",
@@ -2693,7 +2698,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1089
     },
     {
       "ID": "warmachinesarmy",
@@ -2725,14 +2730,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1156,
+      "Progressed": 1158,
       "Completed": 1
     }
   ],
@@ -2740,8 +2745,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-23T21:58:11.918076+00:00",
-  "LastChanged_Achievements": "2023-05-25T02:05:51.7408046+00:00",
+  "LastChanged_Achievements": "2023-05-25T03:05:33.5566214+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:34.8363446+00:00",
-  "LastUpdate_Ratings": "2023-05-25T01:58:18.0666689+00:00",
-  "LastUpdate_Achievements": "2023-05-25T02:05:51.740892+00:00"
+  "LastUpdate_Ratings": "2023-05-25T02:57:56.044884+00:00",
+  "LastUpdate_Achievements": "2023-05-25T03:05:33.556695+00:00"
 }

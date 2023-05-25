@@ -5,19 +5,19 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Aspairagus | 24.00% | ~1 |
-| Quick-Draw Pod | 15.00% | ~1 |
-| Survivor | 15.00% | ~1 |
+| Quick-Draw Pod | 17.00% | ~1 |
+| Survivor | 17.00% | ~1 |
+| No Diggity | 15.00% | ~1 |
 | Bouncemato | 13.00% | ~1 |
-| No Diggity | 13.00% | ~1 |
-| Early Survivor | 11.00% | ~0 |
+| Early Survivor | 13.00% | ~1 |
 | Seeds of War | 9.00% | ~5 |
 | Grave Digger | 7.00% | ~0 |
 | Quadsparagus | 7.00% | ~0 |
 | Oh My Gourd | 6.00% | ~0 |
 | Perfect | 6.00% | ~0 |
+| Amateur Survivor | 6.00% | ~0 |
 | First Blood | 4.00% | ~2 |
 | Cornivore | 4.00% | ~2 |
-| Amateur Survivor | 4.00% | ~0 |
 | Pyromaniac | 4.00% | ~0 |
 | Summers Here | 4.00% | ~0 |
 | Easy Peasy | 4.00% | ~0 |

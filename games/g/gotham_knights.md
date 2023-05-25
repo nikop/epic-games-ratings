@@ -23,6 +23,7 @@ Rating: 4.17 (Ranked 836)
 | Protector of Gotham | 0.60% | ~372 |
 | The Show Mud Go On | 0.60% | ~372 |
 | Rock and a Hard Place | 0.60% | ~372 |
+| Shock Til They Drop | 0.60% | ~372 |
 | Cooldown | 0.60% | ~372 |
 | Universal Health Scare | 0.60% | ~372 |
 | From Inside Gotham's Walls | 0.60% | ~372 |
@@ -33,19 +34,18 @@ Rating: 4.17 (Ranked 836)
 | In Your Element | 0.50% | ~310 |
 | Not On My Watch | 0.50% | ~310 |
 | Bulldozed | 0.50% | ~310 |
-| Shock Til They Drop | 0.50% | ~310 |
 | Out of Their League | 0.40% | ~248 |
 | Drone You Out | 0.40% | ~248 |
 | Gotham City Confidential | 0.40% | ~248 |
 | Fusion Expert | 0.30% | ~186 |
 | Expert Crime Fighter | 0.30% | ~186 |
 | Family Meeting | 0.30% | ~186 |
+| A Worthy Successor | 0.30% | ~186 |
 | Solid Alibi | 0.30% | ~186 |
 | Hammer and Icicle | 0.20% | ~64 |
 | Renewable Enemy Source | 0.20% | ~64 |
 | Dressed to Impress | 0.20% | ~124 |
 | A Momentum Occasion | 0.20% | ~124 |
-| A Worthy Successor | 0.20% | ~124 |
 | Element of Surprise | 0.10% | ~32 |
 | It's Nice to Be Wanted | 0.10% | ~32 |
 | Crime Is a Terrible Thing to Waste | 0.10% | ~32 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 836)
 | Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,954 (Ranked 69)  
+Progressed: 61,958 (Ranked 69)  
 Completed: 91 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 91 (0.15%) (Ranked 148)
 | 2023-05-22 | 61,724 | 91 |
 | 2023-05-23 | 61,842 | 91 |
 | 2023-05-24 | 61,945 | 91 |
-| 2023-05-25 | 61,954 | 91 |
+| 2023-05-25 | 61,958 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,234  (Ranked 98)  
 Sum: 3,709 (Ranked 138)  
