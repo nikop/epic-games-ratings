@@ -562,9 +562,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5833,
+  "EOS_Progressed": 5834,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 205,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1422,6 +1422,11 @@
       "Time": "2023-05-25T10:06:08.8213496+00:00",
       "NumProgressed": 5833,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-25T11:05:14.3940836+00:00",
+      "NumProgressed": 5834,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -1449,7 +1454,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 2683
+      "UsersEstimate": 2684
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -1681,7 +1686,7 @@
       "Name": "Silver Lining",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 1633
+      "UsersEstimate": 1634
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -1761,7 +1766,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3091
+      "UsersEstimate": 3092
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -1785,14 +1790,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 3033
+      "UsersEstimate": 3034
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5833,
+      "Progressed": 5834,
       "Completed": 8
     }
   ],
@@ -1800,8 +1805,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-24T13:03:28.3990064+00:00",
-  "LastChanged_Achievements": "2023-05-25T10:06:08.821349+00:00",
+  "LastChanged_Achievements": "2023-05-25T11:05:14.3940832+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:10.2290416+00:00",
-  "LastUpdate_Ratings": "2023-05-25T09:57:27.5859602+00:00",
-  "LastUpdate_Achievements": "2023-05-25T10:06:08.8214117+00:00"
+  "LastUpdate_Ratings": "2023-05-25T10:57:18.7019554+00:00",
+  "LastUpdate_Achievements": "2023-05-25T11:05:14.3941248+00:00"
 }

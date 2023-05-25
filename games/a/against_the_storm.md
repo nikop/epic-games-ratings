@@ -7,6 +7,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Marshlands | 2.00% | ~300 |
+| Taking Action | 2.00% | ~300 |
 | No Deaths | 2.00% | ~300 |
 | Homesick | 1.00% | ~150 |
 | First Real Expedition | 1.00% | ~150 |
@@ -18,7 +19,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Lost Colonies | 1.00% | ~150 |
 | Coral Forest | 1.00% | ~150 |
 | The Scarlet Orchard | 1.00% | ~150 |
-| Taking Action | 1.00% | ~150 |
 | Like a Machine | 1.00% | ~150 |
 | Trade Baron | 1.00% | ~150 |
 | Sparkdew Crystals | 0.90% | ~135 |

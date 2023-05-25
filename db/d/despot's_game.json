@@ -194,9 +194,9 @@
       "ID": "collect-discounted-items2",
       "SetID": "799afm0",
       "Name": "Shopaholic",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 11
     },
     {
       "ID": "collect-sacrifices",
@@ -298,9 +298,9 @@
       "ID": "finished-quest-secret",
       "SetID": "799afm0",
       "Name": "To the Moon and Back",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 74
     },
     {
       "ID": "finished-quest-sword",
@@ -443,8 +443,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-05-25T10:06:17.5549+00:00",
+  "LastChanged_Achievements": "2023-05-25T11:05:21.8408042+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:20.0092319+00:00",
-  "LastUpdate_Ratings": "2023-05-25T09:58:52.1187023+00:00",
-  "LastUpdate_Achievements": "2023-05-25T10:06:17.55493+00:00"
+  "LastUpdate_Ratings": "2023-05-25T10:58:25.4624853+00:00",
+  "LastUpdate_Achievements": "2023-05-25T11:05:21.8408287+00:00"
 }

@@ -50,10 +50,10 @@
 | I drink, but I'm not a drunk! | 12.00% | ~7 |
 | Slimy... yet satisfying | 12.00% | ~7 |
 | Ancient Ruins of Dirty Feet | 10.00% | ~6 |
+| Deal with it | 10.00% | ~6 |
 | Spoiler alert! | 9.00% | ~5 |
 | Yeehaw!!! | 9.00% | ~5 |
 | Master Butcher | 9.00% | ~5 |
-| Deal with it | 9.00% | ~5 |
 | You're looking mozzare-hella good! | 5.00% | ~3 |
 | Ancient Ruins of Moist Overhangs | 3.00% | ~2 |
 | Okay... Maybe I'm a bit drunk... | 3.00% | ~2 |

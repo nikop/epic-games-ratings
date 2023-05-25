@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 133,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1202,
+  "EOS_Progressed": 1203,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -570,6 +570,11 @@
       "Time": "2023-05-24T19:05:49.7254049+00:00",
       "NumProgressed": 1202,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-25T11:05:13.9441785+00:00",
+      "NumProgressed": 1203,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -645,7 +650,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -653,7 +658,7 @@
       "Name": "Passing Shadow",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -741,7 +746,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -749,7 +754,7 @@
       "Name": "How Romantic!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "achievement_maimedHero",
@@ -773,7 +778,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -853,7 +858,7 @@
       "Name": "Daybreak",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "completedStory_vultureLord",
@@ -1028,15 +1033,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1202,
+      "Progressed": 1203,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-25T10:06:08.3283378+00:00",
+  "LastChanged_Achievements": "2023-05-25T11:05:13.9441781+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:59.9959604+00:00",
-  "LastUpdate_Ratings": "2023-05-25T10:00:54.0290398+00:00",
-  "LastUpdate_Achievements": "2023-05-25T10:06:08.3284102+00:00"
+  "LastUpdate_Ratings": "2023-05-25T11:00:00.3283139+00:00",
+  "LastUpdate_Achievements": "2023-05-25T11:05:13.9442279+00:00"
 }

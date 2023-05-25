@@ -6,8 +6,8 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~576 |
-| Project Arena | 3.00% | ~432 |
+| Diligence as a goal | 4.00% | ~577 |
+| Project Arena | 3.00% | ~433 |
 | Qi Gong: Breath | 1.00% | ~7,051 |
 | Bloody Sport | 1.00% | ~144 |
 | The best strikes are the ones we avoid | 1.00% | ~144 |
@@ -31,7 +31,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Scareless | 0.60% | ~4,231 |
 | Dance of the Praying Mantis | 0.60% | ~4,231 |
 | Kung-Fu Tussle | 0.60% | ~4,231 |
-| Deadly Venom | 0.60% | ~86 |
+| Deadly Venom | 0.60% | ~87 |
 | Qi Gong: Mind | 0.50% | ~3,526 |
 | I know Kung-Fu | 0.50% | ~3,526 |
 | A Touch of Acumen | 0.50% | ~72 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~705 |
 | Warriors from the Mountain | 0.10% | ~705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705,108 (Ranked 15)  
+Progressed: 705,116 (Ranked 15)  
 Completed: 12,734 (1.81%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,14 +92,14 @@ Completed: 12,734 (1.81%) (Ranked 64)
 | 2023-05-22 | 704,647 | 12,733 |
 | 2023-05-23 | 704,864 | 12,733 |
 | 2023-05-24 | 705,048 | 12,734 |
-| 2023-05-25 | 705,108 | 12,734 |
+| 2023-05-25 | 705,116 | 12,734 |
 ## Awards
-Max (Great Boss Battles): 6,089  (Ranked 53)  
-Sum: 10,369 (Ranked 77)  
+Max (Great Boss Battles): 6,091  (Ranked 53)  
+Sum: 10,371 (Ranked 77)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,089 |
+| This game has Great Boss Battles | 6,091 |
 | This game has Diverse Characters | 513 |
 | This game has Challenging Combat | 512 |
 | This game has Quickly Understood Controls | 504 |
@@ -242,4 +242,4 @@ Diff (max vs sum): -24
 | 2023-05-21 | 4.82 | - | 6,082 | 10,350 |
 | 2023-05-22 | 4.82 | - | 6,084 | 10,355 |
 | 2023-05-24 | 4.82 | - | 6,089 | 10,368 |
-| 2023-05-25 | 4.82 | - | 6,089 | 10,369 |
+| 2023-05-25 | 4.82 | - | 6,091 | 10,371 |

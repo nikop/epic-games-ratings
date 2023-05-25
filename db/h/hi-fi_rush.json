@@ -82,9 +82,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2086,
+  "EOS_Progressed": 2088,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 586,
+  "EOS_NewPlayers": 588,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -1162,6 +1162,11 @@
       "Time": "2023-05-25T10:06:17.0986894+00:00",
       "NumProgressed": 2086,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-25T11:05:21.4958078+00:00",
+      "NumProgressed": 2088,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 61,
@@ -1173,7 +1178,7 @@
       "Name": "Start with a bang!",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1733
     },
     {
       "ID": "Ach002",
@@ -1181,7 +1186,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     },
     {
       "ID": "Ach003",
@@ -1189,7 +1194,7 @@
       "Name": "This will cost you big time",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1064
+      "UsersEstimate": 1065
     },
     {
       "ID": "Ach004",
@@ -1197,7 +1202,7 @@
       "Name": "The Negotiator",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "Ach005",
@@ -1205,7 +1210,7 @@
       "Name": "Headliner",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "Ach006",
@@ -1213,7 +1218,7 @@
       "Name": "Time to pay up!",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "Ach007",
@@ -1237,7 +1242,7 @@
       "Name": "Well that was a rush!",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "Ach010",
@@ -1285,7 +1290,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "Ach016",
@@ -1293,7 +1298,7 @@
       "Name": "Chip-tuned",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "Ach017",
@@ -1301,7 +1306,7 @@
       "Name": "I play my own way!",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 1106
+      "UsersEstimate": 1107
     },
     {
       "ID": "Ach018",
@@ -1309,7 +1314,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "Ach019",
@@ -1349,7 +1354,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1733
     },
     {
       "ID": "Ach024",
@@ -1357,7 +1362,7 @@
       "Name": "Beat-hit mania",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "Ach025",
@@ -1365,7 +1370,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1253
     },
     {
       "ID": "Ach026",
@@ -1373,7 +1378,7 @@
       "Name": "You must like calling me in, Chai",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "Ach027",
@@ -1381,7 +1386,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1002
     },
     {
       "ID": "Ach028",
@@ -1397,7 +1402,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "Ach030",
@@ -1413,7 +1418,7 @@
       "Name": "Perfect Parry",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 1210
+      "UsersEstimate": 1211
     },
     {
       "ID": "Ach032",
@@ -1421,7 +1426,7 @@
       "Name": "Perfecter Parry-er!",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "Ach033",
@@ -1429,7 +1434,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "Ach034",
@@ -1445,7 +1450,7 @@
       "Name": "OK, well THEY came after ME!",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "Ach036",
@@ -1453,7 +1458,7 @@
       "Name": "Kissing the sky!",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "Ach037",
@@ -1541,7 +1546,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1482
     },
     {
       "ID": "Ach048",
@@ -1549,7 +1554,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1189
+      "UsersEstimate": 1190
     },
     {
       "ID": "Ach049",
@@ -1573,7 +1578,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1606
+      "UsersEstimate": 1608
     },
     {
       "ID": "Ach052",
@@ -1587,9 +1592,9 @@
       "ID": "Ach053",
       "SetID": "12n4k20",
       "Name": "Does that say weakpoint?",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 939
+      "UsersEstimate": 919
     },
     {
       "ID": "Ach054",
@@ -1597,7 +1602,7 @@
       "Name": "I told you I\u0027d be fine, Peppermint!",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "Ach055",
@@ -1660,22 +1665,22 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 2086,
+      "Progressed": 2088,
       "Completed": 4
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 607,
-      "Completed": 607
+      "Progressed": 609,
+      "Completed": 609
     }
   ],
   "FirstSeen": "2023-01-26T02:08:08.7515496+00:00",
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-05-21T21:58:39.6385879+00:00",
-  "LastChanged_Achievements": "2023-05-25T10:06:17.0986892+00:00",
+  "LastChanged_Achievements": "2023-05-25T11:05:21.4958074+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:08.8665109+00:00",
-  "LastUpdate_Ratings": "2023-05-25T09:58:43.9075209+00:00",
-  "LastUpdate_Achievements": "2023-05-25T10:06:17.0987625+00:00"
+  "LastUpdate_Ratings": "2023-05-25T10:58:19.4546057+00:00",
+  "LastUpdate_Achievements": "2023-05-25T11:05:21.4958726+00:00"
 }

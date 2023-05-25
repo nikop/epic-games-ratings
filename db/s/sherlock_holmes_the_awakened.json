@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 229,
+  "EOS_Progressed": 230,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 5.24,
+  "EOS_Completed_Percentage": 5.22,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -539,6 +539,11 @@
       "Time": "2023-05-25T07:03:13.8101126+00:00",
       "NumProgressed": 229,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-05-25T11:02:38.1230663+00:00",
+      "NumProgressed": 230,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 28,
@@ -548,9 +553,9 @@
       "ID": "MQ01_1",
       "SetID": "bbing49",
       "Name": "Read Between The Lines",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 147
+      "UsersEstimate": 145
     },
     {
       "ID": "MQ01_2",
@@ -558,7 +563,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 67,
       "XP": 40,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "MQ02_1",
@@ -566,7 +571,7 @@
       "Name": "High Profile",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "MQ02_2",
@@ -598,7 +603,7 @@
       "Name": "Fond Memories",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "MQ03_2",
@@ -646,7 +651,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "MQ04_3",
@@ -654,7 +659,7 @@
       "Name": "The New World",
       "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "MQ05_1",
@@ -670,7 +675,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "MQ05_3",
@@ -686,15 +691,15 @@
       "Name": "Knives Out",
       "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "MQ06_1",
       "SetID": "bbing49",
       "Name": "Brain Food",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 73
+      "UsersEstimate": 76
     },
     {
       "ID": "MQ06_2",
@@ -702,15 +707,15 @@
       "Name": "Bookworm",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "MQ06_3",
       "SetID": "bbing49",
       "Name": "Land, Ho!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 97
     },
     {
       "ID": "MQ06_4",
@@ -742,7 +747,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "MQ08_2",
@@ -773,7 +778,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 229,
+      "Progressed": 230,
       "Completed": 12
     }
   ],
@@ -781,8 +786,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-25T10:03:25.5317364+00:00",
+  "LastChanged_Achievements": "2023-05-25T11:02:38.123066+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.473335+00:00",
-  "LastUpdate_Ratings": "2023-05-25T09:57:20.5283375+00:00",
-  "LastUpdate_Achievements": "2023-05-25T10:03:25.5317606+00:00"
+  "LastUpdate_Ratings": "2023-05-25T10:57:12.9579556+00:00",
+  "LastUpdate_Achievements": "2023-05-25T11:02:38.1230886+00:00"
 }

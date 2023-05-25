@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1385,
+  "EOS_Progressed": 1389,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 655,
+  "EOS_NewPlayers": 659,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1335,6 +1335,11 @@
       "Time": "2023-05-25T10:06:07.7691571+00:00",
       "NumProgressed": 1385,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-25T11:05:13.5113454+00:00",
+      "NumProgressed": 1389,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1370,7 +1375,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -1402,7 +1407,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -1410,7 +1415,7 @@
       "Name": "Organ Grinder",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -1490,7 +1495,7 @@
       "Name": "The Long Game",
       "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -1514,7 +1519,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1546,7 +1551,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -1682,7 +1687,7 @@
       "Name": "Change the Channel",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -1720,9 +1725,9 @@
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
       "SetID": "bm6el81",
       "Name": "Brains of the Operation",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "REWARD_74_NO_SCOPE_REQUIRED",
@@ -1913,13 +1918,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1336,
+      "Progressed": 1340,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1385,
+      "Progressed": 1389,
       "Completed": 2
     }
   ],
@@ -1927,8 +1932,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-24T14:00:16.736359+00:00",
-  "LastChanged_Achievements": "2023-05-25T10:06:07.7691562+00:00",
+  "LastChanged_Achievements": "2023-05-25T11:05:13.511345+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-25T10:00:49.4642795+00:00",
-  "LastUpdate_Achievements": "2023-05-25T10:06:07.7692408+00:00"
+  "LastUpdate_Ratings": "2023-05-25T10:59:56.6058671+00:00",
+  "LastUpdate_Achievements": "2023-05-25T11:05:13.5114183+00:00"
 }

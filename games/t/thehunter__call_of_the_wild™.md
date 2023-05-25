@@ -1,11 +1,11 @@
 # theHunter: Call of the Wild™
 [Store](https://store.epicgames.com/en-US/p/thehunter-call-of-the-wild)  
 [View Rawdata](../../db/t/thehunter__call_of_the_wild™.json)  
-Rating: 4.59 (Ranked 403)  
+Rating: 4.59 (Ranked 402)  
 Number of Ratings: 14,635  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 3,203  (Ranked 84)  
-Sum: 23,167 (Ranked 48)  
+Sum: 23,170 (Ranked 48)  
 Diff (max vs sum): 36  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): 36
 | This game is Extremely Fun | 2,927 |
 | This game has Quickly Understood Controls | 2,910 |
 | This game is Educational | 2,882 |
-| This game is Highly Recommended | 2,863 |
+| This game is Highly Recommended | 2,866 |
 | This game has Amazing Storytelling | 2,833 |
 | This game has Amazing Characters | 2,479 |
 | This game has Obsessive Gameplay | 1,806 |
@@ -151,3 +151,4 @@ Diff (max vs sum): 36
 | 2023-05-22 | 4.59 | - | 3,193 | 23,130 |
 | 2023-05-23 | 4.59 | - | 3,197 | 23,145 |
 | 2023-05-24 | 4.59 | - | 3,203 | 23,167 |
+| 2023-05-25 | 4.59 | - | 3,203 | 23,170 |

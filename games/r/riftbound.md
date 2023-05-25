@@ -7,8 +7,10 @@
 | Adventure Time | 92.00% | ~23 |
 | Master Of The Arts | 72.00% | ~18 |
 | Close Call | 28.00% | ~7 |
+| Full House | 4.00% | ~1 |
 | Getting Good At This | 4.00% | ~1 |
 | Hold The Line | 4.00% | ~1 |
+| I'm A Wizard | 4.00% | ~1 |
 | Adept Summoner | 0.00% | ~0 |
 | Apprentice Summoner | 0.00% | ~0 |
 | Brave Younglings | 0.00% | ~0 |
@@ -20,8 +22,6 @@
 | Fair Fight | 0.00% | ~0 |
 | Five Of A Kind | 0.00% | ~0 |
 | Fries With That? | 0.00% | ~0 |
-| Full House | 0.00% | ~0 |
-| I'm A Wizard | 0.00% | ~0 |
 | One Hand Tied | 0.00% | ~0 |
 | Over 9000 | 0.00% | ~0 |
 | Resource Management | 0.00% | ~0 |

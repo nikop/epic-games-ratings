@@ -6,13 +6,13 @@ Rating: 3.87 (Ranked 906)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Victor | 94.00% | ~1,089 |
-| World Map | 80.00% | ~926 |
-| Temple of Eternals | 57.00% | ~660 |
+| World Map | 80.00% | ~927 |
+| Temple of Eternals | 57.00% | ~661 |
 | Prestigious | 53.00% | ~614 |
-| Fellowship Power | 41.00% | ~475 |
+| Fellowship Power | 40.00% | ~464 |
 | Guild Power | 24.00% | ~278 |
 | Prestigious x10 | 21.00% | ~243 |
-| The game is on | 18.00% | ~208 |
+| The game is on | 18.00% | ~209 |
 | Exotic Merchant | 17.00% | ~197 |
 | Dragon Clicker | 16.00% | ~185 |
 | Miner Clicker | 16.00% | ~185 |
@@ -29,10 +29,10 @@ Rating: 3.87 (Ranked 906)
 | Superior | 9.00% | ~104 |
 | Scientist | 8.00% | ~93 |
 | Daily Quest Completionist | 7.00% | ~81 |
-| Challenger | 6.00% | ~69 |
-| Hunter | 6.00% | ~69 |
-| Scroll Master | 6.00% | ~69 |
-| The power of Awakening | 6.00% | ~69 |
+| Challenger | 6.00% | ~70 |
+| Hunter | 6.00% | ~70 |
+| Scroll Master | 6.00% | ~70 |
+| The power of Awakening | 6.00% | ~70 |
 | Frostfire Liberator | 5.00% | ~58 |
 | Mastery | 5.00% | ~58 |
 | Moving Up The Ladder | 5.00% | ~58 |
@@ -81,7 +81,7 @@ Rating: 3.87 (Ranked 906)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,158 (Ranked 161)  
+Progressed: 1,159 (Ranked 161)  
 Completed: 1 (0.09%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 1 (0.09%) (Ranked 163)
 | 2023-05-22 | 1,141 | 1 |
 | 2023-05-23 | 1,150 | 1 |
 | 2023-05-24 | 1,156 | 1 |
-| 2023-05-25 | 1,158 | 1 |
+| 2023-05-25 | 1,159 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

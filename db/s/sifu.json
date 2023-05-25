@@ -4126,18 +4126,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 10369,
       "NumberOfAwardsMax": 6089
+    },
+    {
+      "Time": "2023-05-25T10:58:40.5885063+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10371,
+      "NumberOfAwardsMax": 6091
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10369,
-  "NumberOfAwardsMax": 6089,
+  "NumberOfAwards": 10371,
+  "NumberOfAwardsMax": 6091,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6089
+      "Count": 6091
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4206,9 +4212,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 705108,
+  "EOS_Progressed": 705116,
   "EOS_Completed": 12734,
-  "EOS_NewPlayers": 2088,
+  "EOS_NewPlayers": 2096,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -7116,6 +7122,11 @@
       "Time": "2023-05-25T10:06:26.7705484+00:00",
       "NumProgressed": 705108,
       "NumCompleted": 12734
+    },
+    {
+      "Time": "2023-05-25T11:05:29.9758799+00:00",
+      "NumProgressed": 705116,
+      "NumCompleted": 12734
     }
   ],
   "TotalAchievements": 50,
@@ -7463,7 +7474,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -7471,7 +7482,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -7495,7 +7506,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -7526,21 +7537,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 14409,
+      "Progressed": 14417,
       "Completed": 10163
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 705108,
+      "Progressed": 705116,
       "Completed": 12734
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-05-25T01:59:06.1438448+00:00",
-  "LastChanged_Achievements": "2023-05-25T10:06:26.7705477+00:00",
+  "LastChanged": "2023-05-25T10:58:40.5885061+00:00",
+  "LastChanged_Achievements": "2023-05-25T11:05:29.9758791+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.7579865+00:00",
-  "LastUpdate_Ratings": "2023-05-25T09:59:12.8814483+00:00",
-  "LastUpdate_Achievements": "2023-05-25T10:06:26.7706122+00:00"
+  "LastUpdate_Ratings": "2023-05-25T10:58:40.588507+00:00",
+  "LastUpdate_Achievements": "2023-05-25T11:05:29.9760221+00:00"
 }

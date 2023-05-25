@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 88.00% | ~291 |
-| Ranidaphobia | 57.00% | ~189 |
-| Aspiring Editor | 52.00% | ~172 |
-| Gun for Hire | 45.00% | ~149 |
-| I am the law! | 26.00% | ~86 |
-| Firestarter | 11.00% | ~36 |
+| First Blood | 88.00% | ~293 |
+| Ranidaphobia | 57.00% | ~190 |
+| Aspiring Editor | 53.00% | ~176 |
+| Gun for Hire | 45.00% | ~150 |
+| I am the law! | 26.00% | ~87 |
+| Firestarter | 11.00% | ~37 |
 | Lumberjack | 10.00% | ~33 |
 | Croaked | 7.00% | ~23 |
 | Limp Richard | 7.00% | ~23 |
@@ -17,13 +17,13 @@
 | Exorcist | 5.00% | ~17 |
 | From Darkness to Light | 5.00% | ~17 |
 | Giant Killer | 5.00% | ~17 |
+| The meaning of Kain | 5.00% | ~17 |
 | Newtonian Knockout | 4.00% | ~13 |
-| The meaning of Kain | 4.00% | ~13 |
 | Hold The Line | 3.00% | ~10 |
+| Sensei | 3.00% | ~10 |
 | Chain Killer | 2.00% | ~7 |
 | Commando | 2.00% | ~7 |
 | Recycler | 2.00% | ~7 |
-| Sensei | 2.00% | ~7 |
 | Chain Reaction | 1.00% | ~3 |
 | Technophobe | 1.00% | ~3 |
 | Curveball | 0.90% | ~3 |
@@ -56,11 +56,11 @@
 | Shadow Boxin' | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 331 (Ranked 210)  
+Progressed: 333 (Ranked 209)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-23 | 151 | 0 |
 | 2023-05-24 | 299 | 0 |
-| 2023-05-25 | 331 | 0 |
+| 2023-05-25 | 333 | 0 |

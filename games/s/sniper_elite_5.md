@@ -6,16 +6,16 @@ Rating: 4.37 (Ranked 705)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 16.00% | ~222 |
-| Confirming Suspicions | 12.00% | ~166 |
+| Confirming Suspicions | 12.00% | ~167 |
 | The Kraken Wakes | 9.00% | ~125 |
 | Lord of War | 6.00% | ~83 |
 | Resourceful | 6.00% | ~83 |
 | It's Starting to Crack | 6.00% | ~83 |
 | Enemy at the Gates | 5.00% | ~69 |
-| Just a Flesh Wound | 4.00% | ~55 |
-| Organ Grinder | 4.00% | ~55 |
-| Explosive Efficiency | 4.00% | ~55 |
-| Change the Channel | 4.00% | ~55 |
+| Just a Flesh Wound | 4.00% | ~56 |
+| Organ Grinder | 4.00% | ~56 |
+| Explosive Efficiency | 4.00% | ~56 |
+| Change the Channel | 4.00% | ~56 |
 | As Quiet as a Mouse | 3.00% | ~42 |
 | Taking it back | 3.00% | ~42 |
 | Liberté | 2.00% | ~28 |
@@ -34,9 +34,9 @@ Rating: 4.37 (Ranked 705)
 | Skirmisher | 1.00% | ~14 |
 | Set Europe Ablaze | 1.00% | ~14 |
 | Rigged to Blow | 1.00% | ~14 |
-| No Stone Unturned | 0.90% | ~12 |
-| The Long Game | 0.90% | ~12 |
-| Brains of the Operation | 0.90% | ~12 |
+| Brains of the Operation | 1.00% | ~14 |
+| No Stone Unturned | 0.90% | ~13 |
+| The Long Game | 0.90% | ~13 |
 | My Little Friend | 0.60% | ~8 |
 | It'll Buff Right Out | 0.50% | ~7 |
 | Operation Foxley | 0.50% | ~7 |
@@ -77,7 +77,7 @@ Rating: 4.37 (Ranked 705)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,385 (Ranked 157)  
+Progressed: 1,389 (Ranked 157)  
 Completed: 2 (0.14%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 2 (0.14%) (Ranked 150)
 | 2023-05-22 | 1,233 | 2 |
 | 2023-05-23 | 1,294 | 2 |
 | 2023-05-24 | 1,365 | 2 |
-| 2023-05-25 | 1,385 | 2 |
+| 2023-05-25 | 1,389 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

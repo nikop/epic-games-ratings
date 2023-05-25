@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -185,7 +185,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1458,
+  "EOS_Progressed": 1459,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
@@ -680,6 +680,11 @@
       "Time": "2023-05-25T10:01:12.0561885+00:00",
       "NumProgressed": 1458,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-25T11:00:16.4722969+00:00",
+      "NumProgressed": 1459,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -707,7 +712,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "Collect50MonsterParts",
@@ -739,7 +744,7 @@
       "Name": "King of Kings",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "CompleteArenaFaction",
@@ -803,15 +808,15 @@
       "Name": "End of the Mozis",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "DefeatRatnorRodentson",
       "SetID": "9lj35g4",
       "Name": "Defeat Ratnor Rodentson",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 408
+      "UsersEstimate": 394
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -835,7 +840,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "GetTHWeapon",
@@ -843,7 +848,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "Kill25Bugs",
@@ -851,7 +856,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "Kill25Frogs",
@@ -859,7 +864,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "Kill25Mozi",
@@ -883,7 +888,7 @@
       "Name": "Discover the mystery of the Kings Chambers",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 262
+      "UsersEstimate": 263
     },
     {
       "ID": "RepairChef",
@@ -907,7 +912,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "RescueBrothers",
@@ -915,7 +920,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "ReturnPowerInMines",
@@ -930,22 +935,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1458,
+      "Progressed": 1459,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 99,
-      "Completed": 99
+      "Progressed": 100,
+      "Completed": 100
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-04-02T20:59:05.8070796+00:00",
-  "LastChanged_Achievements": "2023-05-25T10:01:12.056188+00:00",
+  "LastChanged_Achievements": "2023-05-25T11:00:16.4722964+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3670256+00:00",
-  "LastUpdate_Ratings": "2023-05-25T09:58:32.0209262+00:00",
-  "LastUpdate_Achievements": "2023-05-25T10:01:12.056231+00:00"
+  "LastUpdate_Ratings": "2023-05-25T10:58:10.1122456+00:00",
+  "LastUpdate_Achievements": "2023-05-25T11:00:16.4723269+00:00"
 }

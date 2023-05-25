@@ -38,6 +38,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.20% | ~177 |
 | Running of the Saurs | 0.20% | ~177 |
 | The Contagious Curse | 0.20% | ~177 |
+| Escort to Waterdeep | 0.20% | ~177 |
 | Friendly Imps | 0.20% | ~177 |
 | Pure Energy | 0.20% | ~177 |
 | Pros and CONs | 0.10% | ~89 |
@@ -397,7 +398,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Prison of Velkynvelve | 0.10% | ~55 |
 | Prisoners of Lolth | 0.10% | ~55 |
 | Prisoners of Unknown Choices | 0.10% | ~55 |
-| Escort to Waterdeep | 0.10% | ~89 |
 | The Giant's Bane Tavern | 0.10% | ~55 |
 | Rime Bandits | 0.10% | ~55 |
 | Giant-Size Adventure | 0.10% | ~55 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.10% | ~89 |
 | Rescue in the Jungle | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,573 (Ranked 60)  
+Progressed: 88,578 (Ranked 60)  
 Completed: 1,877 (2.12%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -535,7 +535,7 @@ Completed: 1,877 (2.12%) (Ranked 61)
 | 2023-05-22 | 88,337 | 1,863 |
 | 2023-05-23 | 88,435 | 1,872 |
 | 2023-05-24 | 88,533 | 1,875 |
-| 2023-05-25 | 88,573 | 1,877 |
+| 2023-05-25 | 88,578 | 1,877 |
 ## Awards
 Max (Diverse Characters): 4,902  (Ranked 64)  
 Sum: 29,967 (Ranked 37)  

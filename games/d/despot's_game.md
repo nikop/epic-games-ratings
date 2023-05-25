@@ -23,7 +23,7 @@ Rating: 4.50 (Ranked 535)
 | Assemble a Meganewbie | 24.00% | ~89 |
 | Frugal | 20.00% | ~74 |
 | Feed a God | 20.00% | ~74 |
-| To the Moon and Back | 19.00% | ~70 |
+| To the Moon and Back | 20.00% | ~74 |
 | Great Flight | 17.00% | ~63 |
 | Holy Vengeance | 15.00% | ~56 |
 | Honorary Cultist | 11.00% | ~41 |
@@ -34,8 +34,8 @@ Rating: 4.50 (Ranked 535)
 | Wide Selection | 5.00% | ~19 |
 | Soldier | 5.00% | ~19 |
 | Android Power | 5.00% | ~19 |
+| Shopaholic | 3.00% | ~11 |
 | Zombie Lover | 3.00% | ~11 |
-| Shopaholic | 2.00% | ~7 |
 | Munchkin | 2.00% | ~7 |
 | Full House | 1.00% | ~4 |
 | Vet | 0.80% | ~3 |

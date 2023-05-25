@@ -92,9 +92,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1158,
+  "EOS_Progressed": 1159,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2127,6 +2127,11 @@
       "Time": "2023-05-25T03:05:33.556622+00:00",
       "NumProgressed": 1158,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-25T11:05:22.2581219+00:00",
+      "NumProgressed": 1159,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2202,7 +2207,7 @@
       "Name": "Challenger",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "conqueror",
@@ -2320,9 +2325,9 @@
       "ID": "fellowshippower",
       "SetID": "3nl4bcg",
       "Name": "Fellowship Power",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 475
+      "UsersEstimate": 464
     },
     {
       "ID": "fourleafclover",
@@ -2402,7 +2407,7 @@
       "Name": "Hunter",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "inspection",
@@ -2570,7 +2575,7 @@
       "Name": "Scroll Master",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "silverwoodliberator",
@@ -2594,7 +2599,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 660
+      "UsersEstimate": 661
     },
     {
       "ID": "thealchemist",
@@ -2626,7 +2631,7 @@
       "Name": "The game is on",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "thepowerofawakening",
@@ -2634,7 +2639,7 @@
       "Name": "The power of Awakening",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "theunstoppable",
@@ -2730,14 +2735,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1158,
+      "Progressed": 1159,
       "Completed": 1
     }
   ],
@@ -2745,8 +2750,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-23T21:58:11.918076+00:00",
-  "LastChanged_Achievements": "2023-05-25T10:06:18.0433999+00:00",
+  "LastChanged_Achievements": "2023-05-25T11:05:22.2581216+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:34.8363446+00:00",
-  "LastUpdate_Ratings": "2023-05-25T09:58:06.4138115+00:00",
-  "LastUpdate_Achievements": "2023-05-25T10:06:18.0434946+00:00"
+  "LastUpdate_Ratings": "2023-05-25T10:57:49.7017743+00:00",
+  "LastUpdate_Achievements": "2023-05-25T11:05:22.2582114+00:00"
 }
