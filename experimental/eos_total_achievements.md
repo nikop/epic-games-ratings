@@ -329,6 +329,7 @@
 | [Clash - Artifacts of Chaos](../games/c/clash_-_artifacts_of_chaos.md) | 21 | 1,000 |
 | [Overloop](../games/o/overloop.md) | 21 | 1,000 |
 | [Rise of the Third Power](../games/r/rise_of_the_third_power.md) | 21 | 1,000 |
+| [Skeletal Avengers](../games/d/d2dcfb91f59d4880b8a5e6fe2aa64a7e.md) | 21 | 1,000 |
 | [Strawhart](../games/s/strawhart.md) | 21 | 1,000 |
 | [Tchia](../games/t/tchia.md) | 21 | 1,000 |
 | [The Shapeshifting Detective](../games/t/the_shapeshifting_detective.md) | 21 | 1,000 |

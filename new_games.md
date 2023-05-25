@@ -1,5 +1,11 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
+| [Ironclads - Anglo Russian War 1866](games/d/dbab27419c774a8a96d97c8386557cc2.md) | 2023-05-25 | 2011-06-21 |
+| [Ironclads - Chincha Islands War 1866](games/a/a2d890979568420790ece36e40748574.md) | 2023-05-25 | 2011-06-21 |
+| [Ironclads II American Civil War](games/a/a73f564a9ae34f34890327f5febee655.md) | 2023-05-25 | 2015-11-15 |
+| [Ironclads II Boshin War](games/f/ffd54b243d7045f388f997288e3e70a2.md) | 2023-05-25 | 2017-04-19 |
+| [Ironclads II Caroline Islands War 1885](games/a/a1e123b808af4118a74a86ccd04ae55a.md) | 2023-05-25 | 2017-04-17 |
+| [Ironclads II War of the Pacific](games/c/c275690086d44155a8579e4fa176897c.md) | 2023-05-25 | 2016-11-15 |
 | [Secret Doctrine](games/7/730bfc3a1b124ec39120bd2dc73143e1.md) | 2023-05-25 | 2023-05-25 |
 | [Observation Particle Life 1](games/c/cf7613b267a042e9b06d5d527e8a5eb1.md) | 2023-05-24 | 2023-05-24 |
 | [Skeletal Avengers](games/d/d2dcfb91f59d4880b8a5e6fe2aa64a7e.md) | 2023-05-24 | 2021-09-28 |

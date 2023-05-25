@@ -431,7 +431,7 @@
 | 419 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 50 | 387 |
 | 419 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 4.58 | 267 | 235 |
 | 419 | [Torchlight II](games/t/torchlight_ii.md) | 4.58 | 975 | 139 |
-| 419 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,108 | 52 |
+| 419 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,110 | 52 |
 | 419 | [Trials Fusion: Standard Edition](games/t/trials_fusion__standard_edition.md) | 4.58 | 0 | 491 |
 | 419 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 209 | 254 |
 | 419 | [Wolfenstein: The New Order](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,361 | 22 |
