@@ -9,9 +9,9 @@
 | A Night To Remember | 32.00% | ~39 |
 | Safe...For now? | 28.00% | ~34 |
 | Open Sesame | 22.00% | ~27 |
+| Them and Us | 14.00% | ~17 |
+| OUTRAGE | 14.00% | ~17 |
 | What have I done!? | 14.00% | ~17 |
-| Them and Us | 13.00% | ~16 |
-| OUTRAGE | 13.00% | ~16 |
 | Alone In The Dark | 11.00% | ~13 |
 | The Cultists | 11.00% | ~13 |
 | This Coffin Has Your Name On It! | 11.00% | ~13 |
@@ -45,7 +45,7 @@
 | Pet The Dog | 0.80% | ~1 |
 | Survival Horror | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 122 (Ranked 258)  
+Progressed: 122 (Ranked 259)  
 Completed: 1 (0.82%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |

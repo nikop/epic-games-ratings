@@ -4,7 +4,7 @@
   "ProductSlug": "doodle-god-f6a7b6",
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 37,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -227,9 +227,9 @@
       "ID": "605872",
       "SetID": "4lpaifm",
       "Name": "Practice Makes Perfect",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 172
+      "UsersEstimate": 174
     },
     {
       "ID": "605892",
@@ -300,8 +300,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2023-05-25T21:05:33.255995+00:00",
+  "LastChanged_Achievements": "2023-05-25T22:06:14.1275337+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:48.6526369+00:00",
-  "LastUpdate_Ratings": "2023-05-25T20:59:04.5200384+00:00",
-  "LastUpdate_Achievements": "2023-05-25T21:05:33.2560076+00:00"
+  "LastUpdate_Ratings": "2023-05-25T21:59:40.5622687+00:00",
+  "LastUpdate_Achievements": "2023-05-25T22:06:14.127553+00:00"
 }

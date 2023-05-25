@@ -10,11 +10,11 @@
 | Brilliant Day | 93.00% | ~142 |
 | Evil Genius | 87.00% | ~133 |
 | Air Defense | 84.00% | ~129 |
-| Tinned Corpse | 82.00% | ~125 |
-| Your War is Over | 80.00% | ~122 |
+| Tinned Corpse | 83.00% | ~127 |
+| Your War is Over | 81.00% | ~124 |
 | The Starry Night | 75.00% | ~115 |
-| Go Home! | 74.00% | ~113 |
-| Brilliant: Meadowshire | 72.00% | ~110 |
+| Go Home! | 75.00% | ~115 |
+| Brilliant: Meadowshire | 73.00% | ~112 |
 | Look After the Pence... | 72.00% | ~110 |
 | Sergeant of the Evil | 72.00% | ~110 |
 | Drunken Master | 71.00% | ~109 |

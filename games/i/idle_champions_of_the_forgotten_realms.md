@@ -23,6 +23,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Owlbear Necessities | 0.20% | ~110 |
 | Best Thay Ever | 0.20% | ~110 |
 | Checkmate | 0.20% | ~110 |
+| Pin and Skewer | 0.20% | ~110 |
 | Vecna Out! | 0.20% | ~110 |
 | A Persistent Buzzing | 0.20% | ~177 |
 | No One Can Hear You Scream | 0.20% | ~110 |
@@ -145,7 +146,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Kas the Bloody Handed | 0.10% | ~55 |
 | Get Back In The Castle | 0.10% | ~55 |
 | Kas the Destroyer | 0.10% | ~55 |
-| Pin and Skewer | 0.10% | ~55 |
 | Bully for Vecna | 0.10% | ~55 |
 | Who Lurks Below? | 0.10% | ~55 |
 | Clowning Around | 0.10% | ~55 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.10% | ~89 |
 | Rescue in the Jungle | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,648 (Ranked 60)  
+Progressed: 88,653 (Ranked 60)  
 Completed: 1,879 (2.12%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -535,17 +535,17 @@ Completed: 1,879 (2.12%) (Ranked 61)
 | 2023-05-22 | 88,337 | 1,863 |
 | 2023-05-23 | 88,435 | 1,872 |
 | 2023-05-24 | 88,533 | 1,875 |
-| 2023-05-25 | 88,648 | 1,879 |
+| 2023-05-25 | 88,653 | 1,879 |
 ## Awards
-Max (Diverse Characters): 4,902  (Ranked 64)  
-Sum: 29,970 (Ranked 37)  
+Max (Diverse Characters): 4,905  (Ranked 64)  
+Sum: 29,974 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 4,902 |
+| This game has Diverse Characters | 4,905 |
 | This game is Great for Beginners | 4,841 |
 | This game has Quickly Understood Controls | 4,602 |
-| This game is Relaxing | 4,496 |
+| This game is Relaxing | 4,497 |
 | This game is Highly Recommended | 3,946 |
 | This game has Amazing Characters | 3,944 |
 | This game has Playful Visuals | 3,239 |
@@ -671,4 +671,4 @@ Diff (max vs sum): 27
 | 2023-05-22 | 4.06 | - | 4,896 | 29,950 |
 | 2023-05-23 | 4.06 | - | 4,898 | 29,959 |
 | 2023-05-24 | 4.06 | - | 4,902 | 29,965 |
-| 2023-05-25 | 4.06 | - | 4,902 | 29,970 |
+| 2023-05-25 | 4.06 | - | 4,905 | 29,974 |

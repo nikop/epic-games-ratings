@@ -206,9 +206,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1426,
+  "EOS_Progressed": 1427,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 686,
+  "EOS_NewPlayers": 685,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1396,6 +1396,11 @@
       "Time": "2023-05-25T21:05:23.3033401+00:00",
       "NumProgressed": 1426,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-25T22:06:02.64128+00:00",
+      "NumProgressed": 1427,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1487,7 +1492,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1573,9 +1578,9 @@
       "ID": "REWARD_2_GATHERING_INTEL",
       "SetID": "bm6el81",
       "Name": "Confirming Suspicions",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 186
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1725,9 +1730,9 @@
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
       "SetID": "bm6el81",
       "Name": "It\u0027ll Buff Right Out",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_56_SMOOTH_OPERATOR",
@@ -1974,13 +1979,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1377,
+      "Progressed": 1378,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1426,
+      "Progressed": 1427,
       "Completed": 2
     }
   ],
@@ -1988,8 +1993,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-25T14:00:05.6295104+00:00",
-  "LastChanged_Achievements": "2023-05-25T21:05:23.3033397+00:00",
+  "LastChanged_Achievements": "2023-05-25T22:06:02.6412793+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-25T21:00:06.3573723+00:00",
-  "LastUpdate_Achievements": "2023-05-25T21:05:23.3033971+00:00"
+  "LastUpdate_Ratings": "2023-05-25T22:00:54.8205392+00:00",
+  "LastUpdate_Achievements": "2023-05-25T22:06:02.6413658+00:00"
 }

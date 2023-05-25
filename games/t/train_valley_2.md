@@ -30,6 +30,7 @@ Number of Ratings: 87  (23.09.2022)
 | Beginner | 2.00% | ~14 |
 | Bridgemania | 2.00% | ~14 |
 | Critical care | 2.00% | ~14 |
+| Industrial Age | 2.00% | ~14 |
 | Jewelry accuracy | 2.00% | ~14 |
 | One way | 2.00% | ~14 |
 | Overseer | 2.00% | ~14 |
@@ -42,7 +43,6 @@ Number of Ratings: 87  (23.09.2022)
 | Engineer | 1.00% | ~7 |
 | Environmental activist | 1.00% | ~7 |
 | Globalisation Age | 1.00% | ~7 |
-| Industrial Age | 1.00% | ~7 |
 | Large construction | 1.00% | ~7 |
 | Living it large | 1.00% | ~7 |
 | Lucky vandal | 1.00% | ~7 |

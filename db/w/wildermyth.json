@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1204,
+  "EOS_Progressed": 1205,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -580,6 +580,11 @@
       "Time": "2023-05-25T16:06:39.0477209+00:00",
       "NumProgressed": 1204,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-25T22:06:02.5018896+00:00",
+      "NumProgressed": 1205,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -607,7 +612,7 @@
       "Name": "Me and My Familiar",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -623,7 +628,7 @@
       "Name": "A Mythic Menagerie",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "achievement_beatAllStoryCampaigns",
@@ -679,7 +684,7 @@
       "Name": "Completing the Look",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "achievement_kill1000Cultists",
@@ -735,7 +740,7 @@
       "Name": "Who\u0027s Counting?",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "achievement_kill3EnemiesWithPoisonInOneTurn",
@@ -767,7 +772,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "achievement_mythwalker",
@@ -831,7 +836,7 @@
       "Name": "War Endured",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "completedStory_legacy",
@@ -895,7 +900,7 @@
       "Name": "Core Failure",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "enduringWar_destroyEnduring",
@@ -1038,15 +1043,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1204,
+      "Progressed": 1205,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-25T21:05:23.2676315+00:00",
+  "LastChanged_Achievements": "2023-05-25T22:06:02.5018891+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:59.9959604+00:00",
-  "LastUpdate_Ratings": "2023-05-25T21:00:10.0907207+00:00",
-  "LastUpdate_Achievements": "2023-05-25T21:05:23.2676757+00:00"
+  "LastUpdate_Ratings": "2023-05-25T22:01:00.4708933+00:00",
+  "LastUpdate_Achievements": "2023-05-25T22:06:02.5019542+00:00"
 }

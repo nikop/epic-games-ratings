@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Small town | 59.00% | ~107 |
-| I like parks | 46.00% | ~83 |
-| The spiritual world... | 25.00% | ~45 |
-| It is nice to share with friends in the city | 24.00% | ~43 |
-| Sport is good for you | 24.00% | ~43 |
+| I like parks | 46.00% | ~84 |
+| The spiritual world... | 25.00% | ~46 |
+| It is nice to share with friends in the city | 24.00% | ~44 |
+| Sport is good for you | 24.00% | ~44 |
 | The woodcutter | 23.00% | ~42 |
 | I like books | 18.00% | ~33 |
 | I like my life | 18.00% | ~33 |
@@ -18,9 +18,9 @@
 | I love parks | 10.00% | ~18 |
 | I love books! | 9.00% | ~16 |
 | King of fish | 9.00% | ~16 |
-| What would we do if we can't go out with friends? | 8.00% | ~14 |
-| Food producer | 6.00% | ~11 |
+| What would we do if we can't go out with friends? | 8.00% | ~15 |
 | Metropolurbek | 6.00% | ~11 |
+| Food producer | 5.00% | ~9 |
 | I am very happy! | 4.00% | ~7 |
 | Sport is the best thing | 4.00% | ~7 |
 | Banking city | 3.00% | ~5 |
@@ -40,21 +40,21 @@
 | Perfect city | 1.00% | ~2 |
 | Oh, I am sad | 1.00% | ~2 |
 | Town planner | 1.00% | ~2 |
-| Anarchist paradise | 0.60% | ~1 |
-| I can't see the sky | 0.60% | ~1 |
-| I can't breathe | 0.60% | ~1 |
-| Urban style | 0.60% | ~1 |
-| Desert builder | 0.60% | ~1 |
-| Desert urban planner | 0.60% | ~1 |
-| Oh, life is too awesome! Thank you! | 0.60% | ~1 |
-| Farming Frenzy | 0.60% | ~1 |
-| I don't feel well, I have to drink a coffe | 0.60% | ~1 |
-| Metropolurbek Plus | 0.60% | ~1 |
-| City in flames | 0.60% | ~1 |
-| Restorer | 0.60% | ~1 |
-| Full temperate | 0.60% | ~1 |
-| Temperate master | 0.60% | ~1 |
-| Welfare state | 0.60% | ~1 |
+| Anarchist paradise | 0.50% | ~1 |
+| I can't see the sky | 0.50% | ~1 |
+| I can't breathe | 0.50% | ~1 |
+| Urban style | 0.50% | ~1 |
+| Desert builder | 0.50% | ~1 |
+| Desert urban planner | 0.50% | ~1 |
+| Oh, life is too awesome! Thank you! | 0.50% | ~1 |
+| Farming Frenzy | 0.50% | ~1 |
+| I don't feel well, I have to drink a coffe | 0.50% | ~1 |
+| Metropolurbek Plus | 0.50% | ~1 |
+| City in flames | 0.50% | ~1 |
+| Restorer | 0.50% | ~1 |
+| Full temperate | 0.50% | ~1 |
+| Temperate master | 0.50% | ~1 |
+| Welfare state | 0.50% | ~1 |
 | Full archipelago | 0.00% | ~0 |
 | Archipelago master | 0.00% | ~0 |
 | Banking empire | 0.00% | ~0 |
@@ -84,7 +84,7 @@
 | Rainforest urban planner | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 181 (Ranked 239)  
+Progressed: 182 (Ranked 239)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-22 | 173 | 0 |
 | 2023-05-23 | 175 | 0 |
 | 2023-05-24 | 176 | 0 |
-| 2023-05-25 | 181 | 0 |
+| 2023-05-25 | 182 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

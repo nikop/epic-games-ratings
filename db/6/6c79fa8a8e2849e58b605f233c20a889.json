@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 870,
+  "EOS_Progressed": 876,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 868,
+  "EOS_NewPlayers": 874,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -404,6 +404,11 @@
       "Time": "2023-05-25T21:02:14.646323+00:00",
       "NumProgressed": 870,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T22:02:21.3085364+00:00",
+      "NumProgressed": 876,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -421,9 +426,9 @@
       "ID": "AI_DRAW",
       "SetID": "8lhbnh7",
       "Name": "Puppetmaster",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 61
+      "UsersEstimate": 70
     },
     {
       "ID": "BOT_DESTROYER",
@@ -439,7 +444,7 @@
       "Name": "Whoops",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "CONQUEROR",
@@ -447,7 +452,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -495,7 +500,7 @@
       "Name": "Novice",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 313
+      "UsersEstimate": 315
     },
     {
       "ID": "GLOVE_SLAP",
@@ -503,7 +508,7 @@
       "Name": "Glove Slap!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "GONNA_FLY_NOW",
@@ -519,7 +524,7 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 513
+      "UsersEstimate": 517
     },
     {
       "ID": "GUARD_MAKER",
@@ -551,7 +556,7 @@
       "Name": "Knight Commander",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "MEDIC_MASTERY",
@@ -590,13 +595,13 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 870,
+      "Progressed": 876,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-05-25T21:02:14.6463226+00:00",
+  "LastChanged_Achievements": "2023-05-25T22:02:21.3085357+00:00",
   "LastUpdate_AppInfo": "2023-05-23T13:57:02.9194307+00:00",
-  "LastUpdate_Ratings": "2023-05-25T20:56:57.2130514+00:00",
-  "LastUpdate_Achievements": "2023-05-25T21:02:14.6463487+00:00"
+  "LastUpdate_Ratings": "2023-05-25T21:57:10.1419373+00:00",
+  "LastUpdate_Achievements": "2023-05-25T22:02:21.3085571+00:00"
 }

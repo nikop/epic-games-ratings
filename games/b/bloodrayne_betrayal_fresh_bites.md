@@ -12,7 +12,7 @@
 | Personally Punched | 25.00% | ~12 |
 | Flight of the Raven | 23.00% | ~11 |
 | Drop In | 21.00% | ~10 |
-| The Last Bullet | 15.00% | ~7 |
+| The Last Bullet | 17.00% | ~8 |
 | Champion of Light | 13.00% | ~6 |
 | Betrayed | 10.00% | ~5 |
 | Parting Gift | 10.00% | ~5 |

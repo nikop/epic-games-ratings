@@ -1,25 +1,25 @@
 # ATOM RPG Trudograd
 [Store](https://store.epicgames.com/en-US/p/atom-rpg-trudograd-a97244)  
 [View Rawdata](../../db/a/atom_rpg_trudograd.json)  
-Rating: 4.50 (Ranked 536)  
+Rating: 4.50 (Ranked 537)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fresh Prince of Trudograd | 88.00% | ~923 |
+| Fresh Prince of Trudograd | 88.00% | ~925 |
 | Household | 6.00% | ~63 |
-| An Old Friend | 5.00% | ~52 |
+| An Old Friend | 5.00% | ~53 |
 | Lot 49 | 4.00% | ~42 |
 | Viva La Revolution | 4.00% | ~42 |
 | Walking Fortress | 4.00% | ~42 |
-| Atomic Soda | 3.00% | ~31 |
-| Freelance Police | 3.00% | ~31 |
-| Mysterious Knife | 3.00% | ~31 |
-| The Great and Powerful | 3.00% | ~31 |
-| Shadow over Trudograd | 3.00% | ~31 |
+| Atomic Soda | 3.00% | ~32 |
+| Freelance Police | 3.00% | ~32 |
+| Mysterious Knife | 3.00% | ~32 |
+| The Great and Powerful | 3.00% | ~32 |
+| Shadow over Trudograd | 3.00% | ~32 |
 | Fight Club | 2.00% | ~21 |
 | Human Antidote | 2.00% | ~21 |
-| Albino Bloodsucker | 1.00% | ~10 |
-| Death of the Author | 1.00% | ~10 |
+| Albino Bloodsucker | 1.00% | ~11 |
+| Death of the Author | 1.00% | ~11 |
 | Memoirs of a Nibbler | 0.80% | ~8 |
 | Sixth Sense | 0.80% | ~8 |
 | KGB Bunker | 0.70% | ~7 |
@@ -38,7 +38,7 @@ Rating: 4.50 (Ranked 536)
 | Second Thought | 0.20% | ~2 |
 | Terrorist | 0.20% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,049 (Ranked 166)  
+Progressed: 1,051 (Ranked 166)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-22 | 1,043 | 0 |
 | 2023-05-23 | 1,046 | 0 |
 | 2023-05-24 | 1,048 | 0 |
-| 2023-05-25 | 1,049 | 0 |
+| 2023-05-25 | 1,051 | 0 |
 ## Awards
 Max (Character Customization): 20  (Ranked 486)  
 Sum: 20 (Ranked 486)  

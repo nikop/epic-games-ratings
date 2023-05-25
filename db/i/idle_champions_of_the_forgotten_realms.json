@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 61,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3884,11 +3884,17 @@
       "Rating": 4.06,
       "NumberOfAwards": 29970,
       "NumberOfAwardsMax": 4902
+    },
+    {
+      "Time": "2023-05-25T21:58:14.777087+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29974,
+      "NumberOfAwardsMax": 4905
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29970,
-  "NumberOfAwardsMax": 4902,
+  "NumberOfAwards": 29974,
+  "NumberOfAwardsMax": 4905,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -3901,7 +3907,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 4902
+      "Count": 4905
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3913,7 +3919,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 4496
+      "Count": 4497
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3934,10 +3940,10 @@
       "Count": 3239
     }
   ],
-  "EOS_Progressed": 88648,
+  "EOS_Progressed": 88653,
   "EOS_Completed": 1879,
-  "EOS_NewPlayers": 744,
-  "EOS_NewCompleters": 30,
+  "EOS_NewPlayers": 742,
+  "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 2.12,
   "EosHistory": [
     {
@@ -7379,6 +7385,11 @@
       "Time": "2023-05-25T21:05:53.2201328+00:00",
       "NumProgressed": 88648,
       "NumCompleted": 1879
+    },
+    {
+      "Time": "2023-05-25T22:06:36.7772733+00:00",
+      "NumProgressed": 88653,
+      "NumCompleted": 1879
     }
   ],
   "TotalAchievements": 493,
@@ -8268,9 +8279,9 @@
       "ID": "objective_completed_1204",
       "SetID": "415jc5c",
       "Name": "Pin and Skewer",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 110
     },
     {
       "ID": "objective_completed_1208",
@@ -11333,21 +11344,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54922,
+      "Progressed": 54927,
       "Completed": 2707
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88648,
+      "Progressed": 88653,
       "Completed": 1879
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-05-25T20:57:51.9920993+00:00",
-  "LastChanged_Achievements": "2023-05-25T21:05:53.2201325+00:00",
+  "LastChanged": "2023-05-25T21:58:14.7770868+00:00",
+  "LastChanged_Achievements": "2023-05-25T22:06:36.7772727+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-25T20:57:51.9921006+00:00",
-  "LastUpdate_Achievements": "2023-05-25T21:05:53.222361+00:00"
+  "LastUpdate_Ratings": "2023-05-25T21:58:14.7770876+00:00",
+  "LastUpdate_Achievements": "2023-05-25T22:06:36.7804742+00:00"
 }

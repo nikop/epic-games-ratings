@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 310,
+  "EOS_Progressed": 311,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 14,
-  "EOS_Completed_Percentage": 5.16,
+  "EOS_Completed_Percentage": 5.14,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -596,6 +596,11 @@
       "Time": "2023-05-25T21:03:15.0247156+00:00",
       "NumProgressed": 310,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-05-25T22:03:27.5249641+00:00",
+      "NumProgressed": 311,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 30,
@@ -607,7 +612,7 @@
       "Name": "A fresh start",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "LEVEL_002",
@@ -615,7 +620,7 @@
       "Name": "Promising crop",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "LEVEL_003",
@@ -631,7 +636,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "LEVEL_005",
@@ -639,7 +644,7 @@
       "Name": "Small village",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "LEVEL_006",
@@ -655,15 +660,15 @@
       "Name": "Animals in the farm",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "LEVEL_008",
       "SetID": "212bg48",
       "Name": "Let\u0027s go to the market",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 100
     },
     {
       "ID": "LEVEL_009",
@@ -679,7 +684,7 @@
       "Name": "Rocks around the island",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "LEVEL_011",
@@ -711,7 +716,7 @@
       "Name": "Cross-country",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "LEVEL_015",
@@ -719,7 +724,7 @@
       "Name": "Flatland",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "LEVEL_016",
@@ -846,14 +851,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 310,
+      "Progressed": 311,
       "Completed": 16
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-25T21:03:15.0247152+00:00",
+  "LastChanged_Achievements": "2023-05-25T22:03:27.5249633+00:00",
   "LastUpdate_AppInfo": "2023-05-22T13:02:13.5547551+00:00",
-  "LastUpdate_Ratings": "2023-05-25T20:56:57.0301501+00:00",
-  "LastUpdate_Achievements": "2023-05-25T21:03:15.0247402+00:00"
+  "LastUpdate_Ratings": "2023-05-25T21:57:09.9790307+00:00",
+  "LastUpdate_Achievements": "2023-05-25T22:03:27.5249928+00:00"
 }

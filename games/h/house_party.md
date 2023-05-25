@@ -31,6 +31,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Crush | 0.20% | ~10 |
 | The Magic Number | 0.20% | ~10 |
 | Vickie | 0.20% | ~10 |
+| Good Ol' Days | 0.20% | ~10 |
 | Te Amo Lety | 0.20% | ~10 |
 | Against All Odds | 0.10% | ~5 |
 | Ashley | 0.10% | ~5 |
@@ -67,7 +68,6 @@ Number of Ratings: 177  (23.09.2022)
 | Derezzed | 0.10% | ~5 |
 | The Elder Brahs | 0.10% | ~5 |
 | Simple Geometry | 0.10% | ~5 |
-| Good Ol' Days | 0.10% | ~5 |
 | Snapped | 0.10% | ~5 |
 | Congrats, A Celebrity Hates You | 0.00% | ~0 |
 | D-Club Certified | 0.00% | ~0 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | That's a Nice Bush! | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,134 (Ranked 124)  
+Progressed: 5,135 (Ranked 124)  
 Completed: 2 (0.04%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 2 (0.04%) (Ranked 177)
 | 2023-05-22 | 5,084 | 2 |
 | 2023-05-23 | 5,104 | 2 |
 | 2023-05-24 | 5,124 | 2 |
-| 2023-05-25 | 5,134 | 2 |
+| 2023-05-25 | 5,135 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
