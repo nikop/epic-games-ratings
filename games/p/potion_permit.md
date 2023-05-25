@@ -22,7 +22,7 @@ Rating: 3.79 (Ranked 914)
 | Amateur Chef | 20.00% | ~257 |
 | Fishing Guru | 17.00% | ~218 |
 | Community Helper | 16.00% | ~206 |
-| Spark of Love | 14.00% | ~180 |
+| Spark of Love | 15.00% | ~193 |
 | Stone Specialist | 13.00% | ~167 |
 | Expert Chemist | 12.00% | ~154 |
 | Ablutomaniac | 12.00% | ~154 |
@@ -44,7 +44,7 @@ Rating: 3.79 (Ranked 914)
 | Moonbury Navigator | 0.80% | ~10 |
 | Being a donut... | 0.50% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,285 (Ranked 158)  
+Progressed: 1,285 (Ranked 159)  
 Completed: 5 (0.39%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |

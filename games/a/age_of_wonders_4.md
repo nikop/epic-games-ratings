@@ -6,13 +6,13 @@ Rating: 4.52 (Ranked 505)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Wonderful Discovery | 80.00% | ~2,702 |
-| Realm Estate | 77.00% | ~2,601 |
+| Realm Estate | 78.00% | ~2,635 |
 | Secret Technique | 77.00% | ~2,601 |
 | Walls Cannot Stop Us | 75.00% | ~2,534 |
 | From Friends to Family | 70.00% | ~2,365 |
 | Magical Synergy | 66.00% | ~2,229 |
 | Bone Peddler | 62.00% | ~2,094 |
-| Stronger Together | 56.00% | ~1,892 |
+| Stronger Together | 57.00% | ~1,925 |
 | Full Ascension | 55.00% | ~1,858 |
 | There Can Only Be One! | 48.00% | ~1,621 |
 | Seat of Power | 47.00% | ~1,588 |
@@ -50,7 +50,7 @@ Rating: 4.52 (Ranked 505)
 | Returning Circle | 0.30% | ~10 |
 | Master of Evilness | 0.20% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,378 (Ranked 132)  
+Progressed: 3,378 (Ranked 133)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |

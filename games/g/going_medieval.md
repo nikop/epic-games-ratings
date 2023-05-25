@@ -13,17 +13,17 @@ Number of Ratings: 706  (23.09.2022)
 | The First Day | 60.00% | ~1,619 |
 | Novice Researcher | 56.00% | ~1,511 |
 | Putting Food on the Table | 55.00% | ~1,484 |
-| Onward | 50.00% | ~1,349 |
-| The First Week | 47.00% | ~1,268 |
-| Studious Researcher | 47.00% | ~1,268 |
-| Feast or Famine | 46.00% | ~1,241 |
-| Adept Researcher | 45.00% | ~1,214 |
-| Beam Me Up | 44.00% | ~1,187 |
-| Home Cooked Meal | 43.00% | ~1,160 |
-| Luminary Researcher | 42.00% | ~1,133 |
-| Retribution | 35.00% | ~944 |
-| Fit For A King | 35.00% | ~944 |
-| ...And Don’t Come Back! | 35.00% | ~944 |
+| Onward | 50.00% | ~1,350 |
+| The First Week | 47.00% | ~1,269 |
+| Studious Researcher | 47.00% | ~1,269 |
+| Feast or Famine | 46.00% | ~1,242 |
+| Adept Researcher | 45.00% | ~1,215 |
+| Beam Me Up | 44.00% | ~1,188 |
+| Home Cooked Meal | 43.00% | ~1,161 |
+| Luminary Researcher | 42.00% | ~1,134 |
+| Retribution | 35.00% | ~945 |
+| Fit For A King | 35.00% | ~945 |
+| ...And Don’t Come Back! | 35.00% | ~945 |
 | Heating Up | 23.00% | ~621 |
 | Winter Is Coming | 21.00% | ~567 |
 | Winter Is Here | 18.00% | ~486 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~54 |
 | Wabbit Season | 0.90% | ~24 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,698 (Ranked 136)  
+Progressed: 2,699 (Ranked 137)  
 Completed: 6 (0.22%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,7 +52,7 @@ Completed: 6 (0.22%) (Ranked 135)
 | 2023-05-22 | 2,687 | 6 |
 | 2023-05-23 | 2,692 | 6 |
 | 2023-05-24 | 2,694 | 6 |
-| 2023-05-25 | 2,698 | 6 |
+| 2023-05-25 | 2,699 | 6 |
 ## Awards
 Max (Relaxing): 118  (Ranked 306)  
 Sum: 928 (Ranked 236)  

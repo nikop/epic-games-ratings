@@ -5,9 +5,9 @@
   "Ranking_Rating": 536,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 155,
+  "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -779,9 +779,9 @@
       "ID": "CompleteGuardFaction",
       "SetID": "9lj35g4",
       "Name": "Complete Guard Faction",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1126
     },
     {
       "ID": "CompleteHunterFaction",
@@ -954,8 +954,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-04-02T20:59:05.8070796+00:00",
-  "LastChanged_Achievements": "2023-05-25T15:01:59.4992067+00:00",
+  "LastChanged_Achievements": "2023-05-25T16:02:01.8974391+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3670256+00:00",
-  "LastUpdate_Ratings": "2023-05-25T14:58:25.1621403+00:00",
-  "LastUpdate_Achievements": "2023-05-25T15:01:59.4992289+00:00"
+  "LastUpdate_Ratings": "2023-05-25T15:58:46.6482326+00:00",
+  "LastUpdate_Achievements": "2023-05-25T16:02:01.8974597+00:00"
 }

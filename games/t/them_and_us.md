@@ -45,7 +45,7 @@
 | Pet The Dog | 0.80% | ~1 |
 | Survival Horror | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 121 (Ranked 258)  
+Progressed: 121 (Ranked 259)  
 Completed: 1 (0.83%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |

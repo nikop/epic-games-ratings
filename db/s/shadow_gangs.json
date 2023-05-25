@@ -2,7 +2,7 @@
   "ID": "252244fbdca142948592127c2249498f",
   "Name": "Shadow Gangs",
   "ProductSlug": "shadow-gangs-0ce20b",
-  "Ranking_EOS_Progress": 368,
+  "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 83,
@@ -19,7 +19,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -28,6 +28,11 @@
     {
       "Time": "2023-04-25T20:49:03.5861049+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T16:06:42.8714394+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 0
     }
   ],
@@ -40,15 +45,15 @@
       "Name": "Took the challenge",
       "Percentage": 100,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "1",
       "SetID": "ab7e240",
       "Name": "City Completed",
-      "Percentage": -33.3,
+      "Percentage": 0,
       "XP": 10,
-      "UsersEstimate": -1
+      "UsersEstimate": 0
     },
     {
       "ID": "10",
@@ -134,15 +139,15 @@
       "ID": "2",
       "SetID": "ab7e240",
       "Name": "Bridge level completed",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "20",
       "SetID": "ab7e240",
       "Name": "First ninja bonus stage beaten",
-      "Percentage": -33.3,
+      "Percentage": -25,
       "XP": 10,
       "UsersEstimate": -1
     },
@@ -375,13 +380,13 @@
     {
       "ID": "ab7e240",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:03.5861059+00:00",
-  "LastChanged_Achievements": "2023-05-25T15:06:20.5032564+00:00",
+  "LastChanged_Achievements": "2023-05-25T16:06:42.8714389+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:22.9720357+00:00",
-  "LastUpdate_Ratings": "2023-05-25T14:58:53.6253883+00:00",
-  "LastUpdate_Achievements": "2023-05-25T15:06:20.5032807+00:00"
+  "LastUpdate_Ratings": "2023-05-25T15:59:13.6695811+00:00",
+  "LastUpdate_Achievements": "2023-05-25T16:06:42.8714652+00:00"
 }

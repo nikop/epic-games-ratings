@@ -46,7 +46,7 @@
 | Maxed out | 0.00% | ~0 |
 | Teamwork makes the dream work | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10 (Ranked 335)  
+Progressed: 10 (Ranked 336)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |

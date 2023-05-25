@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 206,
+  "EOS_Progressed": 208,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -829,6 +829,11 @@
       "Time": "2023-05-25T12:01:52.0988027+00:00",
       "NumProgressed": 206,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T16:01:53.2987218+00:00",
+      "NumProgressed": 208,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -888,7 +893,7 @@
       "Name": "French Flair",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -896,7 +901,7 @@
       "Name": "So Clean You Can Eat Off the Floor",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "Clothes10",
@@ -976,7 +981,7 @@
       "Name": "Sous-Chef",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Level20",
@@ -1000,7 +1005,7 @@
       "Name": "Haute Cuisine",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Money10000",
@@ -1016,7 +1021,7 @@
       "Name": "The Big Day",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "Packing20",
@@ -1038,9 +1043,9 @@
       "ID": "RecipeDifferent10",
       "SetID": "d1bm05f",
       "Name": "Home Cook",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 66
+      "UsersEstimate": 64
     },
     {
       "ID": "RecipeDifferent30",
@@ -1094,9 +1099,9 @@
       "ID": "StaffMemberSpecialityDishes10",
       "SetID": "d1bm05f",
       "Name": "You\u0027re the Expert!",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 64
     },
     {
       "ID": "TrattoriaSet",
@@ -1159,7 +1164,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 206,
+      "Progressed": 208,
       "Completed": 0
     }
   ],
@@ -1167,8 +1172,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-25T15:01:51.4074563+00:00",
+  "LastChanged_Achievements": "2023-05-25T16:01:53.2987214+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.318416+00:00",
-  "LastUpdate_Ratings": "2023-05-25T14:58:28.363611+00:00",
-  "LastUpdate_Achievements": "2023-05-25T15:01:51.4074896+00:00"
+  "LastUpdate_Ratings": "2023-05-25T15:58:49.9967624+00:00",
+  "LastUpdate_Achievements": "2023-05-25T16:01:53.2987561+00:00"
 }

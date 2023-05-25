@@ -36,7 +36,7 @@
 | Free Spirit | 0.00% | ~0 |
 | V is for Vegan | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79 (Ranked 268)  
+Progressed: 79 (Ranked 270)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |

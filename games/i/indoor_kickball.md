@@ -45,7 +45,7 @@
 | Stay Hydrated | 0.00% | ~0 |
 | Just how we drew it up | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2 (Ranked 378)  
+Progressed: 2 (Ranked 379)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |

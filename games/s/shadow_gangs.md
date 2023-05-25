@@ -4,7 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Took the challenge | 100.00% | ~3 |
+| Took the challenge | 100.00% | ~4 |
+| Bridge level completed | 25.00% | ~1 |
+| City Completed | 0.00% | ~0 |
 | Temple level completed | 0.00% | ~0 |
 | Mission I finished | 0.00% | ~0 |
 | Mission II finished | 0.00% | ~0 |
@@ -15,7 +17,6 @@
 | Second shoot bonus stage beaten | 0.00% | ~0 |
 | Third shoot bonus stage beaten | 0.00% | ~0 |
 | Fourth shoot bonus stage beaten | 0.00% | ~0 |
-| Bridge level completed | 0.00% | ~0 |
 | Second ninja bonus stage beaten | 0.00% | ~0 |
 | Third ninja bonus stage beaten | 0.00% | ~0 |
 | Fourth ninja bonus stage beaten | 0.00% | ~0 |
@@ -44,12 +45,12 @@
 | Factory level completed | 0.00% | ~0 |
 | Train level completed | 0.00% | ~0 |
 | Bamboo level completed | 0.00% | ~0 |
-| City Completed | -33.30% | ~-1 |
-| First ninja bonus stage beaten | -33.30% | ~-1 |
+| First ninja bonus stage beaten | -25.00% | ~-1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3 (Ranked 368)  
+Progressed: 4 (Ranked 365)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 3 | 0 |
+| 2023-05-25 | 4 | 0 |

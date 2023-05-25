@@ -13,10 +13,10 @@ Rating: 4.17 (Ranked 837)
 | Knighthood | 0.90% | ~558 |
 | The Batman Family | 0.80% | ~496 |
 | Quartzer Life Crisis | 0.80% | ~496 |
+| Working Hard or Harley Working? | 0.80% | ~496 |
 | Whispered Words | 0.80% | ~496 |
 | Something in the Clay | 0.70% | ~434 |
 | Snow Problem | 0.70% | ~434 |
-| Working Hard or Harley Working? | 0.70% | ~434 |
 | Unstoppable Force | 0.70% | ~434 |
 | Lock and Key | 0.70% | ~434 |
 | Bad Apples in Every Orchard | 0.70% | ~434 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 837)
 | Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,004 (Ranked 69)  
+Progressed: 62,009 (Ranked 69)  
 Completed: 91 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 91 (0.15%) (Ranked 148)
 | 2023-05-22 | 61,724 | 91 |
 | 2023-05-23 | 61,842 | 91 |
 | 2023-05-24 | 61,945 | 91 |
-| 2023-05-25 | 62,004 | 91 |
+| 2023-05-25 | 62,009 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,234  (Ranked 98)  
 Sum: 3,710 (Ranked 138)  

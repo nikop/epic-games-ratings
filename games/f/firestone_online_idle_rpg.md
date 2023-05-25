@@ -50,11 +50,11 @@ Rating: 3.87 (Ranked 907)
 | Weekly Quest Completionist | 3.00% | ~35 |
 | Dragon Slayer | 2.00% | ~23 |
 | Engineer Mastery | 2.00% | ~23 |
+| Four Leaf Clover | 2.00% | ~23 |
 | Lock And Load | 2.00% | ~23 |
 | What lies behind the bush | 2.00% | ~23 |
 | Blueprint Upgrades | 1.00% | ~12 |
 | Enchanting skill | 1.00% | ~12 |
-| Four Leaf Clover | 1.00% | ~12 |
 | Sailor | 1.00% | ~12 |
 | Active Member | 0.90% | ~10 |
 | Crystal Mining | 0.90% | ~10 |
@@ -81,7 +81,7 @@ Rating: 3.87 (Ranked 907)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,159 (Ranked 161)  
+Progressed: 1,159 (Ranked 162)  
 Completed: 1 (0.09%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |

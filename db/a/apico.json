@@ -2,7 +2,7 @@
   "ID": "993226fad45b4f5e85fae066c6aa5fc5",
   "Name": "APICO",
   "ProductSlug": "apico-f6e18b",
-  "Ranking_EOS_Progress": 417,
+  "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 83,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:50.0701447+00:00",
   "LastChanged": "2023-03-31T05:57:50.0701448+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.6278604+00:00",
-  "LastUpdate_Ratings": "2023-05-25T15:01:24.684825+00:00",
-  "LastUpdate_Achievements": "2023-05-25T15:05:42.3450102+00:00"
+  "LastUpdate_Ratings": "2023-05-25T16:01:22.6476863+00:00",
+  "LastUpdate_Achievements": "2023-05-25T16:06:13.37787+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_Rating": 117,
   "Ranking_Popularity": 39,
   "Ranking_PopularitySum": 20,
-  "Ranking_EOS_Progress": 417,
+  "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 83,
@@ -5434,10 +5434,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 57580,
       "NumberOfAwardsMax": 8165
+    },
+    {
+      "Time": "2023-05-25T16:00:53.9190855+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 57591,
+      "NumberOfAwardsMax": 8165
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 57580,
+  "NumberOfAwards": 57591,
   "NumberOfAwardsMax": 8165,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5451,7 +5457,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 7467
+      "Count": 7478
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5513,8 +5519,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:33.5806012+00:00",
-  "LastChanged": "2023-05-25T15:00:52.4481861+00:00",
+  "LastChanged": "2023-05-25T16:00:53.9190853+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:45.0718394+00:00",
-  "LastUpdate_Ratings": "2023-05-25T15:00:52.4481867+00:00",
-  "LastUpdate_Achievements": "2023-05-25T15:01:53.8106979+00:00"
+  "LastUpdate_Ratings": "2023-05-25T16:00:53.919086+00:00",
+  "LastUpdate_Achievements": "2023-05-25T16:01:55.7053001+00:00"
 }

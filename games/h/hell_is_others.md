@@ -5,12 +5,12 @@ Rating: 4.45 (Ranked 607)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~77,368 |
-| Predator I | 22.00% | ~54,906 |
-| Fixer I | 10.00% | ~24,957 |
-| A week in Century City | 10.00% | ~24,957 |
-| The Wait | 7.00% | ~17,470 |
-| Green thumb I | 6.00% | ~14,974 |
+| Survivor | 31.00% | ~77,370 |
+| Predator I | 22.00% | ~54,908 |
+| Fixer I | 10.00% | ~24,958 |
+| A week in Century City | 10.00% | ~24,958 |
+| The Wait | 7.00% | ~17,471 |
+| Green thumb I | 6.00% | ~14,975 |
 | Well-oiled machine | 5.00% | ~12,479 |
 | Saver I | 5.00% | ~12,479 |
 | Cleaning Company | 5.00% | ~12,479 |
@@ -19,14 +19,14 @@ Rating: 4.45 (Ranked 607)
 | Vandalism | 4.00% | ~9,983 |
 | Capitalist I | 4.00% | ~9,983 |
 | Adrenaline | 3.00% | ~7,487 |
-| By a hair | 2.00% | ~4,991 |
-| Fixer II | 2.00% | ~4,991 |
-| It took a while | 2.00% | ~4,991 |
-| Samurai | 2.00% | ~4,991 |
-| I Left You a Present | 2.00% | ~4,991 |
-| Predator II | 2.00% | ~4,991 |
-| Truffle Dog | 2.00% | ~4,991 |
-| A month in Century City | 2.00% | ~4,991 |
+| By a hair | 2.00% | ~4,992 |
+| Fixer II | 2.00% | ~4,992 |
+| It took a while | 2.00% | ~4,992 |
+| Samurai | 2.00% | ~4,992 |
+| I Left You a Present | 2.00% | ~4,992 |
+| Predator II | 2.00% | ~4,992 |
+| Truffle Dog | 2.00% | ~4,992 |
+| A month in Century City | 2.00% | ~4,992 |
 | The Strengthening | 1.00% | ~2,496 |
 | Saver II | 1.00% | ~2,496 |
 | It's the last one, I swear | 1.00% | ~2,496 |
@@ -62,7 +62,7 @@ Rating: 4.45 (Ranked 607)
 | Capitalist III | 0.10% | ~250 |
 | Hell Is You | 0.10% | ~250 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,574 (Ranked 39)  
+Progressed: 249,581 (Ranked 39)  
 Completed: 1 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,15 +97,15 @@ Completed: 1 (0.00%) (Ranked 202)
 | 2023-05-22 | 249,421 | 1 |
 | 2023-05-23 | 249,481 | 1 |
 | 2023-05-24 | 249,537 | 1 |
-| 2023-05-25 | 249,574 | 1 |
+| 2023-05-25 | 249,581 | 1 |
 ## Awards
 Max (Great for Quick Sessions): 23  (Ranked 470)  
-Sum: 63 (Ranked 427)  
+Sum: 64 (Ranked 427)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 23 |
-| This game has Unique Visuals | 20 |
+| This game has Unique Visuals | 21 |
 | This game has Amazing Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -174,4 +174,4 @@ Diff (max vs sum): 43
 | 2023-05-19 | 4.46 | 23 | 23 |
 | 2023-05-23 | 4.46 | 23 | 43 |
 | 2023-05-24 | 4.45 | 23 | 43 |
-| 2023-05-25 | 4.45 | 23 | 63 |
+| 2023-05-25 | 4.45 | 23 | 64 |

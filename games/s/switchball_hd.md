@@ -14,7 +14,7 @@
 | Speedroller Trainee | 0.00% | ~0 |
 | Spyglass | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76 (Ranked 275)  
+Progressed: 76 (Ranked 276)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |

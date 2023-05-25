@@ -2,9 +2,9 @@
   "ID": "ac1e1228d81c433ba5b25c6c09318e0e",
   "Name": "Elypse",
   "ProductSlug": "elypse-b177a8",
-  "Ranking_EOS_Progress": 295,
+  "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 44,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -305,9 +305,9 @@
       "ID": "Ach_DarkPoulpeConstellation",
       "SetID": "4o5gjp0",
       "Name": "The beast within",
-      "Percentage": 27,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Ach_DeathXTime",
@@ -337,9 +337,9 @@
       "ID": "Ach_DiscoveryCelestialIsland",
       "SetID": "4o5gjp0",
       "Name": "Rooftop",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Ach_DiscoveryFinalTower",
@@ -353,9 +353,9 @@
       "ID": "Ach_DiscoveryTemple",
       "SetID": "4o5gjp0",
       "Name": "It\u0027s getting dark",
-      "Percentage": 27,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Ach_DiscoveryTuto",
@@ -504,8 +504,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-05-25T15:05:56.660114+00:00",
+  "LastChanged_Achievements": "2023-05-25T16:06:28.4483029+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.0525193+00:00",
-  "LastUpdate_Ratings": "2023-05-25T14:57:55.9624338+00:00",
-  "LastUpdate_Achievements": "2023-05-25T15:05:56.6601384+00:00"
+  "LastUpdate_Ratings": "2023-05-25T15:58:16.7966598+00:00",
+  "LastUpdate_Achievements": "2023-05-25T16:06:28.4483287+00:00"
 }

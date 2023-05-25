@@ -2,7 +2,7 @@
   "ID": "39c86431125a44299431d959ae53f370",
   "Name": "GRIT",
   "ProductSlug": "grit-482454",
-  "Ranking_EOS_Progress": 417,
+  "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 83,
@@ -33,6 +33,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-09T02:00:24.7631226+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.6833573+00:00",
-  "LastUpdate_Ratings": "2023-05-25T14:57:56.9207698+00:00",
-  "LastUpdate_Achievements": "2023-05-25T15:03:33.3084861+00:00"
+  "LastUpdate_Ratings": "2023-05-25T15:58:16.634776+00:00",
+  "LastUpdate_Achievements": "2023-05-25T16:03:47.9695831+00:00"
 }

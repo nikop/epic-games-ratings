@@ -27,7 +27,7 @@
 | Master of Alchemy | 5.00% | ~10 |
 | God of Patience | 4.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 206 (Ranked 231)  
+Progressed: 206 (Ranked 233)  
 Completed: 8 (3.88%) (Ranked 37)  
 ## EOS Players History
 | Date | Progressed | Completed |

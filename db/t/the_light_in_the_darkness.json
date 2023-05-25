@@ -2,7 +2,7 @@
   "ID": "8912b079197744f58b41915923cc8da1",
   "Name": "The Light in the Darkness",
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
-  "Ranking_EOS_Progress": 156,
+  "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 19,
   "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 23,
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1407,
+  "EOS_Progressed": 1408,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 7.82,
+  "EOS_Completed_Percentage": 7.81,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -1648,6 +1648,11 @@
       "Time": "2023-05-25T15:06:23.0438663+00:00",
       "NumProgressed": 1407,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-05-25T16:06:45.5291538+00:00",
+      "NumProgressed": 1408,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 12,
@@ -1675,7 +1680,7 @@
       "Name": "Building the Fox",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "Green Ticket Roundup",
@@ -1723,7 +1728,7 @@
       "Name": "Little Helper",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -1754,7 +1759,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1407,
+      "Progressed": 1408,
       "Completed": 110
     }
   ],
@@ -1762,8 +1767,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-25T15:06:23.0438659+00:00",
+  "LastChanged_Achievements": "2023-05-25T16:06:45.5291535+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:11.427731+00:00",
-  "LastUpdate_Ratings": "2023-05-25T14:59:50.6254633+00:00",
-  "LastUpdate_Achievements": "2023-05-25T15:06:23.0438812+00:00"
+  "LastUpdate_Ratings": "2023-05-25T16:00:14.8078702+00:00",
+  "LastUpdate_Achievements": "2023-05-25T16:06:45.5291705+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "25163a0f3c9d47d38afe753d53fd27bb",
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
-  "Ranking_EOS_Progress": 214,
+  "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 28,
   "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 12,
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 304,
+  "EOS_Progressed": 305,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 285,
-  "EOS_NewCompleters": 16,
-  "EOS_Completed_Percentage": 5.26,
+  "EOS_NewPlayers": 280,
+  "EOS_NewCompleters": 15,
+  "EOS_Completed_Percentage": 5.25,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -571,6 +571,11 @@
       "Time": "2023-05-25T08:03:33.7097094+00:00",
       "NumProgressed": 304,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-05-25T16:03:33.536532+00:00",
+      "NumProgressed": 305,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 30,
@@ -582,7 +587,7 @@
       "Name": "A fresh start",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "LEVEL_002",
@@ -590,7 +595,7 @@
       "Name": "Promising crop",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "LEVEL_003",
@@ -604,9 +609,9 @@
       "ID": "LEVEL_004",
       "SetID": "212bg48",
       "Name": "Life is better at the lake",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 165
     },
     {
       "ID": "LEVEL_005",
@@ -628,9 +633,9 @@
       "ID": "LEVEL_007",
       "SetID": "212bg48",
       "Name": "Animals in the farm",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 104
     },
     {
       "ID": "LEVEL_008",
@@ -638,7 +643,7 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "LEVEL_009",
@@ -708,17 +713,17 @@
       "ID": "LEVEL_017",
       "SetID": "212bg48",
       "Name": "Windmill on a rocky cliff",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 37
     },
     {
       "ID": "LEVEL_018",
       "SetID": "212bg48",
       "Name": "Isle rock city",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 34
     },
     {
       "ID": "LEVEL_019",
@@ -726,7 +731,7 @@
       "Name": "Calling Mr. Joe",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "LEVEL_020",
@@ -764,9 +769,9 @@
       "ID": "LEVEL_024",
       "SetID": "212bg48",
       "Name": "Beach or mountain?",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "LEVEL_025",
@@ -821,14 +826,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 304,
+      "Progressed": 305,
       "Completed": 16
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-25T15:03:19.5199741+00:00",
+  "LastChanged_Achievements": "2023-05-25T16:03:33.5365316+00:00",
   "LastUpdate_AppInfo": "2023-05-22T13:02:13.5547551+00:00",
-  "LastUpdate_Ratings": "2023-05-25T14:56:56.0958886+00:00",
-  "LastUpdate_Achievements": "2023-05-25T15:03:19.5199941+00:00"
+  "LastUpdate_Ratings": "2023-05-25T15:57:10.7503803+00:00",
+  "LastUpdate_Achievements": "2023-05-25T16:03:33.5365512+00:00"
 }

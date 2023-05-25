@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 61,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3872,10 +3872,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 29967,
       "NumberOfAwardsMax": 4902
+    },
+    {
+      "Time": "2023-05-25T15:58:24.0951487+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 29968,
+      "NumberOfAwardsMax": 4902
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29967,
+  "NumberOfAwards": 29968,
   "NumberOfAwardsMax": 4902,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -3913,7 +3919,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 3943
+      "Count": 3944
     },
     {
       "Text": "This game has Playful Visuals",
@@ -3922,10 +3928,10 @@
       "Count": 3239
     }
   ],
-  "EOS_Progressed": 88598,
-  "EOS_Completed": 1878,
-  "EOS_NewPlayers": 729,
-  "EOS_NewCompleters": 29,
+  "EOS_Progressed": 88607,
+  "EOS_Completed": 1879,
+  "EOS_NewPlayers": 734,
+  "EOS_NewCompleters": 30,
   "EOS_Completed_Percentage": 2.12,
   "EosHistory": [
     {
@@ -7337,6 +7343,11 @@
       "Time": "2023-05-25T15:06:52.3630382+00:00",
       "NumProgressed": 88598,
       "NumCompleted": 1878
+    },
+    {
+      "Time": "2023-05-25T16:07:15.3382971+00:00",
+      "NumProgressed": 88607,
+      "NumCompleted": 1879
     }
   ],
   "TotalAchievements": 493,
@@ -11268,7 +11279,7 @@
       "Name": "Coasting to the Finish",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "objective_completed_1360",
@@ -11284,28 +11295,28 @@
       "Name": "Quick or Quack",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54872,
+      "Progressed": 54881,
       "Completed": 2705
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88598,
-      "Completed": 1878
+      "Progressed": 88607,
+      "Completed": 1879
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-05-25T04:58:06.0839905+00:00",
-  "LastChanged_Achievements": "2023-05-25T15:06:52.3630375+00:00",
+  "LastChanged": "2023-05-25T15:58:24.0951485+00:00",
+  "LastChanged_Achievements": "2023-05-25T16:07:15.3382966+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-25T14:58:03.6100057+00:00",
-  "LastUpdate_Achievements": "2023-05-25T15:06:52.3652137+00:00"
+  "LastUpdate_Ratings": "2023-05-25T15:58:24.0951492+00:00",
+  "LastUpdate_Achievements": "2023-05-25T16:07:15.3404159+00:00"
 }

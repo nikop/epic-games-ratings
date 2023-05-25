@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 77,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 38,
+  "Ranking_EOS_NewPlayers": 37,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4212,9 +4212,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 705165,
+  "EOS_Progressed": 705184,
   "EOS_Completed": 12734,
-  "EOS_NewPlayers": 2142,
+  "EOS_NewPlayers": 2159,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -7147,6 +7147,11 @@
       "Time": "2023-05-25T15:06:36.6427653+00:00",
       "NumProgressed": 705165,
       "NumCompleted": 12734
+    },
+    {
+      "Time": "2023-05-25T16:06:59.5015033+00:00",
+      "NumProgressed": 705184,
+      "NumCompleted": 12734
     }
   ],
   "TotalAchievements": 50,
@@ -7158,7 +7163,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6346
+      "UsersEstimate": 6347
     },
     {
       "ID": "02_Vengeance_H1",
@@ -7166,7 +7171,7 @@
       "Name": "The Assault",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6346
+      "UsersEstimate": 6347
     },
     {
       "ID": "03_Vengeance_H2",
@@ -7182,7 +7187,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6346
+      "UsersEstimate": 6347
     },
     {
       "ID": "05_Vengeance_H4",
@@ -7254,7 +7259,7 @@
       "Name": "Prodigal Child",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 2115
+      "UsersEstimate": 2116
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -7334,7 +7339,7 @@
       "Name": "Life is your teacher",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6346
+      "UsersEstimate": 6347
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -7342,7 +7347,7 @@
       "Name": "State of constant learning",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6346
+      "UsersEstimate": 6347
     },
     {
       "ID": "25_ShrineMind",
@@ -7374,7 +7379,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 2115
+      "UsersEstimate": 2116
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -7414,7 +7419,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2115
+      "UsersEstimate": 2116
     },
     {
       "ID": "34_TimedTakedown",
@@ -7422,7 +7427,7 @@
       "Name": "Lightning Hands",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6346
+      "UsersEstimate": 6347
     },
     {
       "ID": "35_WideStrike",
@@ -7438,7 +7443,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6346
+      "UsersEstimate": 6347
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -7446,7 +7451,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6346
+      "UsersEstimate": 6347
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -7494,7 +7499,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -7557,21 +7562,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 14466,
+      "Progressed": 14485,
       "Completed": 10167
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 705165,
+      "Progressed": 705184,
       "Completed": 12734
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-25T10:58:40.5885061+00:00",
-  "LastChanged_Achievements": "2023-05-25T15:06:36.6427649+00:00",
+  "LastChanged_Achievements": "2023-05-25T16:06:59.5015031+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.7579865+00:00",
-  "LastUpdate_Ratings": "2023-05-25T14:59:11.0369385+00:00",
-  "LastUpdate_Achievements": "2023-05-25T15:06:36.6428125+00:00"
+  "LastUpdate_Ratings": "2023-05-25T15:59:31.0258372+00:00",
+  "LastUpdate_Achievements": "2023-05-25T16:06:59.5015494+00:00"
 }

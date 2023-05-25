@@ -5,9 +5,9 @@
   "Ranking_Rating": 505,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 132,
+  "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewPlayers": 76,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -168,7 +168,7 @@
   "Tags": [],
   "EOS_Progressed": 3378,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 672,
+  "EOS_NewPlayers": 663,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2037,9 +2037,9 @@
       "ID": "22",
       "SetID": "3aa2279",
       "Name": "Realm Estate",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2601
+      "UsersEstimate": 2635
     },
     {
       "ID": "23",
@@ -2093,9 +2093,9 @@
       "ID": "29",
       "SetID": "3aa2279",
       "Name": "Stronger Together",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1892
+      "UsersEstimate": 1925
     },
     {
       "ID": "3",
@@ -2292,8 +2292,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-25T14:59:39.8347413+00:00",
-  "LastChanged_Achievements": "2023-05-25T15:03:57.8819058+00:00",
+  "LastChanged_Achievements": "2023-05-25T16:04:23.8373451+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:46.682938+00:00",
-  "LastUpdate_Ratings": "2023-05-25T14:59:39.8347421+00:00",
-  "LastUpdate_Achievements": "2023-05-25T15:03:57.8819624+00:00"
+  "LastUpdate_Ratings": "2023-05-25T16:00:04.2511036+00:00",
+  "LastUpdate_Achievements": "2023-05-25T16:04:23.837385+00:00"
 }

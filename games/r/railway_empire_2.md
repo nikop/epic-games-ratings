@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Poor Devil | 58.00% | ~7 |
-| Mystery Tour | 58.00% | ~7 |
-| Apprentice | 50.00% | ~6 |
-| Departure | 50.00% | ~6 |
-| A new Journey | 50.00% | ~6 |
-| Country Bumpkin | 50.00% | ~6 |
-| Access granted | 50.00% | ~6 |
-| We brake for nobody | 50.00% | ~6 |
-| Producer | 50.00% | ~6 |
-| Way of Iron | 50.00% | ~6 |
-| All around the World | 50.00% | ~6 |
-| Travel Company | 50.00% | ~6 |
-| Socializer | 50.00% | ~6 |
-| From X to Y | 42.00% | ~5 |
-| Full Steam ahead | 42.00% | ~5 |
-| Facility Manager | 42.00% | ~5 |
-| Brainstorm | 42.00% | ~5 |
-| Mind the Gap | 42.00% | ~5 |
-| Bold and beautiful | 33.00% | ~4 |
-| Right through the middle | 33.00% | ~4 |
-| Bridge Builder | 33.00% | ~4 |
-| Stoker | 25.00% | ~3 |
-| Seven at one stroke | 25.00% | ~3 |
-| Country Life | 25.00% | ~3 |
-| Breaking Ground | 25.00% | ~3 |
-| General Manager | 17.00% | ~2 |
-| Going once, going twice, sold | 17.00% | ~2 |
-| Bull and bear | 17.00% | ~2 |
-| Financial Shark | 17.00% | ~2 |
+| Poor Devil | 54.00% | ~7 |
+| Mystery Tour | 54.00% | ~7 |
+| Apprentice | 46.00% | ~6 |
+| Departure | 46.00% | ~6 |
+| A new Journey | 46.00% | ~6 |
+| Country Bumpkin | 46.00% | ~6 |
+| Access granted | 46.00% | ~6 |
+| We brake for nobody | 46.00% | ~6 |
+| Producer | 46.00% | ~6 |
+| Way of Iron | 46.00% | ~6 |
+| All around the World | 46.00% | ~6 |
+| Travel Company | 46.00% | ~6 |
+| Socializer | 46.00% | ~6 |
+| From X to Y | 38.00% | ~5 |
+| Full Steam ahead | 38.00% | ~5 |
+| Facility Manager | 38.00% | ~5 |
+| Brainstorm | 38.00% | ~5 |
+| Mind the Gap | 38.00% | ~5 |
+| Bold and beautiful | 31.00% | ~4 |
+| Right through the middle | 31.00% | ~4 |
+| Bridge Builder | 31.00% | ~4 |
+| Stoker | 23.00% | ~3 |
+| Seven at one stroke | 23.00% | ~3 |
+| Country Life | 23.00% | ~3 |
+| Breaking Ground | 23.00% | ~3 |
+| General Manager | 15.00% | ~2 |
+| Going once, going twice, sold | 15.00% | ~2 |
+| Bull and bear | 15.00% | ~2 |
+| Financial Shark | 15.00% | ~2 |
 | Trailblazer | 8.00% | ~1 |
 | Resistance is futile | 8.00% | ~1 |
 | Go West | 8.00% | ~1 |
@@ -60,7 +60,7 @@
 | Call of Duty | 0.00% | ~0 |
 | Together we stand | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12 (Ranked 329)  
+Progressed: 13 (Ranked 329)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,3 +71,4 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-18 | 9 | 0 |
 | 2023-05-22 | 10 | 0 |
 | 2023-05-24 | 12 | 0 |
+| 2023-05-25 | 13 | 0 |

@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | We can rebuild it! | 0.10% | ~4 |
 | Tired by festival | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,155 (Ranked 127)  
+Progressed: 4,155 (Ranked 128)  
 Completed: 3 (0.07%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |

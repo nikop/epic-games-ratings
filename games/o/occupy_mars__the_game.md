@@ -16,7 +16,7 @@ Rating: 3.78 (Ranked 917)
 | Miner | 17.00% | ~151 |
 | Occupy Mars! | 16.00% | ~142 |
 | Detective | 11.00% | ~98 |
-| The Collector | 7.00% | ~62 |
+| The Collector | 8.00% | ~71 |
 | Get your hands dirty | 7.00% | ~62 |
 | All Wheel Trouble | 4.00% | ~36 |
 | ITS crash site | 3.00% | ~27 |
@@ -54,7 +54,7 @@ Rating: 3.78 (Ranked 917)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 890 (Ranked 171)  
+Progressed: 890 (Ranked 172)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
