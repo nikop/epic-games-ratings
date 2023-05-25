@@ -1,7 +1,7 @@
 # ATOM RPG
 [Store](https://store.epicgames.com/en-US/p/atom-rpg-3adb54)  
 [View Rawdata](../../db/a/atom_rpg.json)  
-Rating: 4.45 (Ranked 606)  
+Rating: 4.45 (Ranked 607)  
 Number of Ratings: 54  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -22,7 +22,7 @@ Number of Ratings: 54  (23.09.2022)
 | Not-so-private Eye | 8.00% | ~65 |
 | Superhuman | 8.00% | ~65 |
 | Bustin' nuts | 7.00% | ~57 |
-| The Vitinsky Rifle | 6.00% | ~49 |
+| The Vitinsky Rifle | 7.00% | ~57 |
 | Protection racket | 5.00% | ~41 |
 | Secret room | 5.00% | ~41 |
 | Indy | 4.00% | ~33 |

@@ -2,7 +2,7 @@
   "ID": "2e09c1d223094f3798f63873548c9454",
   "Name": "Tchia",
   "ProductSlug": "tchia",
-  "Ranking_Rating": 130,
+  "Ranking_Rating": 131,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 117,
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6022,
+  "EOS_Progressed": 6023,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 269,
+  "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -2173,6 +2173,11 @@
       "Time": "2023-05-25T13:13:39.0464245+00:00",
       "NumProgressed": 6022,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-25T14:05:22.4754618+00:00",
+      "NumProgressed": 6023,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 21,
@@ -2256,7 +2261,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -2351,7 +2356,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6022,
+      "Progressed": 6023,
       "Completed": 22
     }
   ],
@@ -2359,8 +2364,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-05-25T13:13:39.0464237+00:00",
+  "LastChanged_Achievements": "2023-05-25T14:05:22.4754613+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.822955+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:05:56.6105304+00:00",
-  "LastUpdate_Achievements": "2023-05-25T13:13:39.0464854+00:00"
+  "LastUpdate_Ratings": "2023-05-25T13:57:51.4575418+00:00",
+  "LastUpdate_Achievements": "2023-05-25T14:05:22.4754892+00:00"
 }

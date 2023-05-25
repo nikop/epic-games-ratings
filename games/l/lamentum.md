@@ -1,13 +1,13 @@
 # Lamentum
 [Store](https://store.epicgames.com/en-US/p/lamentum-962e3e)  
 [View Rawdata](../../db/l/lamentum.json)  
-Rating: 4.37 (Ranked 705)  
+Rating: 4.37 (Ranked 707)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The creature | 79.00% | ~220 |
-| Grau Hill | 75.00% | ~209 |
-| A forgotten language | 70.00% | ~195 |
+| The creature | 79.00% | ~221 |
+| Grau Hill | 75.00% | ~210 |
+| A forgotten language | 69.00% | ~193 |
 | Lord Wesley | 34.00% | ~95 |
 | One step down | 28.00% | ~78 |
 | My dear Magda | 28.00% | ~78 |
@@ -25,8 +25,8 @@ Rating: 4.37 (Ranked 705)
 | Sacrifice | 3.00% | ~8 |
 | Lamentum | 3.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 279 (Ranked 220)  
-Completed: 8 (2.87%) (Ranked 50)  
+Progressed: 280 (Ranked 219)  
+Completed: 8 (2.86%) (Ranked 50)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -39,6 +39,7 @@ Completed: 8 (2.87%) (Ranked 50)
 | 2023-05-21 | 276 | 8 |
 | 2023-05-22 | 277 | 8 |
 | 2023-05-23 | 279 | 8 |
+| 2023-05-25 | 280 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 346,
+  "EOS_Progressed": 348,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 344,
+  "EOS_NewPlayers": 346,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -242,6 +242,11 @@
       "Time": "2023-05-25T13:13:38.1601434+00:00",
       "NumProgressed": 346,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T14:05:21.723702+00:00",
+      "NumProgressed": 348,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -269,7 +274,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ATTENBOROUGH",
@@ -299,9 +304,9 @@
       "ID": "CHAIN_KILLER",
       "SetID": "9a4jnji",
       "Name": "Chain Killer",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "CHAIN_REACTION",
@@ -331,9 +336,9 @@
       "ID": "CROAKED",
       "SetID": "9a4jnji",
       "Name": "Croaked",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 24
     },
     {
       "ID": "CRUELTY",
@@ -435,9 +440,9 @@
       "ID": "FIRST_BLOOD",
       "SetID": "9a4jnji",
       "Name": "First Blood",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 301
+      "UsersEstimate": 306
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -483,25 +488,25 @@
       "ID": "GUN_FOR_HIRE",
       "SetID": "9a4jnji",
       "Name": "Gun for Hire",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 164
     },
     {
       "ID": "HOLD_THE_LINE",
       "SetID": "9a4jnji",
       "Name": "Hold The Line",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 14
     },
     {
       "ID": "IM_THE_LAW",
       "SetID": "9a4jnji",
       "Name": "I am the law!",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 101
     },
     {
       "ID": "INFILTRATOR",
@@ -555,9 +560,9 @@
       "ID": "RANIDAPHOBIA",
       "SetID": "9a4jnji",
       "Name": "Ranidaphobia",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 202
     },
     {
       "ID": "RECYCLER",
@@ -571,7 +576,7 @@
       "ID": "RUTHLESS",
       "SetID": "9a4jnji",
       "Name": "Ruthless",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -627,7 +632,7 @@
       "ID": "THERE_CAN_BE_ONLY_ONE",
       "SetID": "9a4jnji",
       "Name": "There Can Be Only One!",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -660,14 +665,14 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 346,
+      "Progressed": 348,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T20:58:17.8341975+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
-  "LastChanged_Achievements": "2023-05-25T13:13:38.1601429+00:00",
+  "LastChanged_Achievements": "2023-05-25T14:05:21.7237015+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:53.8503835+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:06:20.6586012+00:00",
-  "LastUpdate_Achievements": "2023-05-25T13:13:38.1601863+00:00"
+  "LastUpdate_Ratings": "2023-05-25T13:58:11.7260266+00:00",
+  "LastUpdate_Achievements": "2023-05-25T14:05:21.7237465+00:00"
 }

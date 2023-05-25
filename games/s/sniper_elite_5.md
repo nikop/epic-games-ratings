@@ -1,13 +1,13 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.37 (Ranked 705)  
+Rating: 4.38 (Ranked 695)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 16.00% | ~223 |
-| Confirming Suspicions | 12.00% | ~167 |
-| The Kraken Wakes | 9.00% | ~125 |
+| Meeting Resistance | 16.00% | ~224 |
+| Confirming Suspicions | 12.00% | ~168 |
+| The Kraken Wakes | 9.00% | ~126 |
 | Lord of War | 6.00% | ~84 |
 | Resourceful | 6.00% | ~84 |
 | It's Starting to Crack | 6.00% | ~84 |
@@ -31,13 +31,13 @@ Rating: 4.37 (Ranked 705)
 | Target America | 2.00% | ~28 |
 | The Kraken Sleeps | 2.00% | ~28 |
 | Climbing the Ladder | 1.00% | ~14 |
+| No Stone Unturned | 1.00% | ~14 |
 | Skirmisher | 1.00% | ~14 |
 | Set Europe Ablaze | 1.00% | ~14 |
 | Rigged to Blow | 1.00% | ~14 |
 | Brains of the Operation | 1.00% | ~14 |
-| No Stone Unturned | 0.90% | ~13 |
 | The Long Game | 0.90% | ~13 |
-| My Little Friend | 0.60% | ~8 |
+| My Little Friend | 0.70% | ~10 |
 | It'll Buff Right Out | 0.50% | ~7 |
 | Operation Foxley | 0.50% | ~7 |
 | Strategist | 0.40% | ~6 |
@@ -52,11 +52,11 @@ Rating: 4.37 (Ranked 705)
 | Sink or Swim | 0.30% | ~2 |
 | Souvenir hunter | 0.20% | ~3 |
 | Tinkerer | 0.20% | ~3 |
+| Road Rage | 0.20% | ~3 |
 | Out of Scope | 0.10% | ~1 |
 | Burn after reading | 0.10% | ~1 |
 | Eagle Eyed | 0.10% | ~1 |
 | Up close and personal | 0.10% | ~1 |
-| Road Rage | 0.10% | ~1 |
 | Führerious Repetition | 0.10% | ~1 |
 | Reich To The Point | 0.10% | ~1 |
 | Covert Elimination | 0.10% | ~1 |
@@ -77,7 +77,7 @@ Rating: 4.37 (Ranked 705)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,392 (Ranked 157)  
+Progressed: 1,398 (Ranked 157)  
 Completed: 2 (0.14%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 2 (0.14%) (Ranked 150)
 | 2023-05-22 | 1,233 | 2 |
 | 2023-05-23 | 1,294 | 2 |
 | 2023-05-24 | 1,365 | 2 |
-| 2023-05-25 | 1,392 | 2 |
+| 2023-05-25 | 1,398 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -144,3 +144,4 @@ Completed: 2 (0.14%) (Ranked 150)
 | 2023-05-22 | 4.34 | 0 | 0 |
 | 2023-05-23 | 4.35 | 0 | 0 |
 | 2023-05-24 | 4.37 | 0 | 0 |
+| 2023-05-25 | 4.38 | 0 | 0 |

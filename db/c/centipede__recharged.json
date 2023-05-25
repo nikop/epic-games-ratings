@@ -2,12 +2,12 @@
   "ID": "a1edd0d2e28d4d298152c001e7c47e22",
   "Name": "Centipede: Recharged",
   "ProductSlug": "centipede-recharged",
-  "Ranking_Rating": 746,
+  "Ranking_Rating": 747,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -290,9 +290,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13899,
+  "EOS_Progressed": 13901,
   "EOS_Completed": 83,
-  "EOS_NewPlayers": 235,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -2915,6 +2915,11 @@
       "Time": "2023-05-25T10:02:26.9911252+00:00",
       "NumProgressed": 13899,
       "NumCompleted": 83
+    },
+    {
+      "Time": "2023-05-25T14:02:24.4500273+00:00",
+      "NumProgressed": 13901,
+      "NumCompleted": 83
     }
   ],
   "TotalAchievements": 16,
@@ -3022,7 +3027,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 7088
+      "UsersEstimate": 7090
     },
     {
       "ID": "Sole_Survivor",
@@ -3053,15 +3058,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 13899,
+      "Progressed": 13901,
       "Completed": 83
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-10T20:58:58.4288263+00:00",
-  "LastChanged_Achievements": "2023-05-25T13:10:20.7910678+00:00",
+  "LastChanged_Achievements": "2023-05-25T14:02:24.4500269+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:20.131205+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:07:06.7834379+00:00",
-  "LastUpdate_Achievements": "2023-05-25T13:10:20.7911019+00:00"
+  "LastUpdate_Ratings": "2023-05-25T13:58:49.8468022+00:00",
+  "LastUpdate_Achievements": "2023-05-25T14:02:24.4500539+00:00"
 }

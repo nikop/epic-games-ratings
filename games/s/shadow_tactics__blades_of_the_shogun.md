@@ -1,30 +1,30 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.66 (Ranked 271)  
+Rating: 4.66 (Ranked 272)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 10.00% | ~17,058 |
-| Thorough | 9.00% | ~15,353 |
-| A thief's beginning | 7.00% | ~11,941 |
-| Tanuki Time | 7.00% | ~11,941 |
-| Disguised | 6.00% | ~10,235 |
-| Jonin | 6.00% | ~10,235 |
-| Rescue Takuma | 6.00% | ~10,235 |
-| Rollin' | 6.00% | ~10,235 |
-| Chunin | 5.00% | ~8,529 |
-| Happy Planning | 5.00% | ~8,529 |
-| Ice Ice Yuki | 5.00% | ~8,529 |
-| Mugen Unchained | 5.00% | ~8,529 |
-| Stoned Ox | 5.00% | ~8,529 |
-| Yabu | 5.00% | ~8,529 |
-| Flying Rocks | 4.00% | ~6,823 |
-| Okkoto | 4.00% | ~6,823 |
-| Prisoners | 4.00% | ~6,823 |
-| Too Early | 4.00% | ~6,823 |
-| Warzone | 4.00% | ~6,823 |
+| Genin | 10.00% | ~17,061 |
+| Thorough | 9.00% | ~15,355 |
+| A thief's beginning | 7.00% | ~11,942 |
+| Tanuki Time | 7.00% | ~11,942 |
+| Disguised | 6.00% | ~10,236 |
+| Jonin | 6.00% | ~10,236 |
+| Rescue Takuma | 6.00% | ~10,236 |
+| Rollin' | 6.00% | ~10,236 |
+| Chunin | 5.00% | ~8,530 |
+| Happy Planning | 5.00% | ~8,530 |
+| Ice Ice Yuki | 5.00% | ~8,530 |
+| Mugen Unchained | 5.00% | ~8,530 |
+| Stoned Ox | 5.00% | ~8,530 |
+| Yabu | 5.00% | ~8,530 |
+| Flying Rocks | 4.00% | ~6,824 |
+| Okkoto | 4.00% | ~6,824 |
+| Prisoners | 4.00% | ~6,824 |
+| Too Early | 4.00% | ~6,824 |
+| Warzone | 4.00% | ~6,824 |
 | Gear up | 3.00% | ~5,118 |
 | Happy little accidents | 3.00% | ~5,118 |
 | Noboru | 3.00% | ~5,118 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Praise the Shogun | 0.10% | ~171 |
 | Release the Kraken | 0.10% | ~171 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 170,585 (Ranked 51)  
+Progressed: 170,606 (Ranked 51)  
 Completed: 45 (0.03%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 45 (0.03%) (Ranked 182)
 | 2023-05-22 | 169,912 | 44 |
 | 2023-05-23 | 170,169 | 45 |
 | 2023-05-24 | 170,440 | 45 |
-| 2023-05-25 | 170,585 | 45 |
+| 2023-05-25 | 170,606 | 45 |
 ## Awards
 Max (Great for Beginners): 551  (Ranked 176)  
 Sum: 4,670 (Ranked 126)  

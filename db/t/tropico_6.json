@@ -2,7 +2,7 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 255,
+  "Ranking_Rating": 256,
   "Ranking_Popularity": 319,
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 133,
@@ -852,9 +852,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 3078,
+  "EOS_Progressed": 3080,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 191,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2757,6 +2757,11 @@
       "Time": "2023-05-25T11:05:37.0310824+00:00",
       "NumProgressed": 3078,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-25T14:05:55.1356051+00:00",
+      "NumProgressed": 3080,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2776,7 +2781,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -2808,7 +2813,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -2824,7 +2829,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -2840,7 +2845,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -2864,7 +2869,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -2886,9 +2891,9 @@
       "ID": "ACH_EP_SPEAKEASY",
       "SetID": "1p8ab95",
       "Name": "Number 18",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 800
+      "UsersEstimate": 770
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -2912,7 +2917,7 @@
       "Name": "For Science!",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -2928,7 +2933,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2370
+      "UsersEstimate": 2372
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -2942,9 +2947,9 @@
       "ID": "ACH_MILITARYCOUP",
       "SetID": "1p8ab95",
       "Name": "One Does Not Simply Stage A Coup",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_MISSION_NOELECTION",
@@ -2960,7 +2965,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_MYWAYS",
@@ -3024,7 +3029,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -3087,15 +3092,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3078,
+      "Progressed": 3080,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-15T17:00:44.7999652+00:00",
-  "LastChanged_Achievements": "2023-05-25T13:14:17.4484656+00:00",
+  "LastChanged_Achievements": "2023-05-25T14:05:55.1356045+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:57.2781106+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:08:19.8895171+00:00",
-  "LastUpdate_Achievements": "2023-05-25T13:14:17.4485211+00:00"
+  "LastUpdate_Ratings": "2023-05-25T13:59:47.0052457+00:00",
+  "LastUpdate_Achievements": "2023-05-25T14:05:55.135646+00:00"
 }

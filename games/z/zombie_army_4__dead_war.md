@@ -1,40 +1,40 @@
 # Zombie Army 4: Dead War
 [Store](https://store.epicgames.com/en-US/p/zombie-army-4-dead-war)  
 [View Rawdata](../../db/z/zombie_army_4__dead_war.json)  
-Rating: 4.69 (Ranked 212)  
+Rating: 4.69 (Ranked 213)  
 Number of Ratings: 743  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 68.00% | ~28,840 |
+| Shoot it, man! Shoot it in the head! | 68.00% | ~28,841 |
 | Say goodbye, creep! | 65.00% | ~27,568 |
 | Blood splattered | 65.00% | ~27,568 |
-| Choo choo! | 62.00% | ~26,295 |
-| Groovy | 61.00% | ~25,871 |
+| Choo choo! | 62.00% | ~26,296 |
+| Groovy | 61.00% | ~25,872 |
 | Cleanup on aisle 4! | 56.00% | ~23,751 |
 | Gold | 50.00% | ~21,206 |
 | The boat can leave now...tell the crew | 48.00% | ~20,358 |
 | Give me something to shoot! | 46.00% | ~19,510 |
 | Stand back boy! | 46.00% | ~19,510 |
-| Weird science | 44.00% | ~18,661 |
-| Chain reaction | 44.00% | ~18,661 |
+| Weird science | 44.00% | ~18,662 |
+| Chain reaction | 44.00% | ~18,662 |
 | Look mummy! A shark! | 41.00% | ~17,389 |
 | What did you say, Blain? | 41.00% | ~17,389 |
 | In the dark dark woods... | 38.00% | ~16,117 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,117 |
-| Double tap | 36.00% | ~15,268 |
-| Cranial blowout! | 36.00% | ~15,268 |
-| Zombie killin' machine | 36.00% | ~15,268 |
-| Every bullet counts | 36.00% | ~15,268 |
-| All of this has happened before… | 35.00% | ~14,844 |
+| Double tap | 36.00% | ~15,269 |
+| Cranial blowout! | 36.00% | ~15,269 |
+| Zombie killin' machine | 36.00% | ~15,269 |
+| Every bullet counts | 36.00% | ~15,269 |
+| All of this has happened before… | 35.00% | ~14,845 |
 | You've got red on you | 34.00% | ~14,420 |
 | All roads lead to Rome | 33.00% | ~13,996 |
 | You're all going to die down here | 31.00% | ~13,148 |
 | He did Nazi that coming | 31.00% | ~13,148 |
 | Kill of the week | 31.00% | ~13,148 |
 | I never liked them anyway | 30.00% | ~12,724 |
-| Is it over? | 28.00% | ~11,875 |
-| Got your back | 27.00% | ~11,451 |
+| Is it over? | 28.00% | ~11,876 |
+| Got your back | 27.00% | ~11,452 |
 | Gore soaked | 24.00% | ~10,179 |
 | Shock therapy | 22.00% | ~9,331 |
 | Leave the limbs you've lost | 22.00% | ~9,331 |
@@ -44,8 +44,8 @@ Number of Ratings: 743  (23.09.2022)
 | Bad Blood | 16.00% | ~6,786 |
 | The bigger they are... | 15.00% | ~6,362 |
 | I'm going deeper underground | 14.00% | ~5,938 |
-| Well equipped | 12.00% | ~5,089 |
-| Into the deep | 12.00% | ~5,089 |
+| Well equipped | 12.00% | ~5,090 |
+| Into the deep | 12.00% | ~5,090 |
 | Damnedbusters | 9.00% | ~3,817 |
 | I can do anything I want. I got guns | 8.00% | ~3,393 |
 | Send me an angel | 8.00% | ~3,393 |
@@ -63,9 +63,9 @@ Number of Ratings: 743  (23.09.2022)
 | Kali Ma | 5.00% | ~2,121 |
 | I told you we should have gone to the beach | 5.00% | ~2,121 |
 | Have you tried turning it off and on again? | 5.00% | ~2,121 |
-| They're coming to get you Barbara | 4.00% | ~1,696 |
-| Total protonic reversal | 4.00% | ~1,696 |
-| A friend in need | 4.00% | ~1,696 |
+| They're coming to get you Barbara | 4.00% | ~1,697 |
+| Total protonic reversal | 4.00% | ~1,697 |
+| A friend in need | 4.00% | ~1,697 |
 | People don't change. We go round in circles | 3.00% | ~1,272 |
 | The blighters got through a second time. | 3.00% | ~1,272 |
 | I'm a survivor! | 3.00% | ~1,272 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~424 |
 | None more hard | 0.50% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,412 (Ranked 80)  
+Progressed: 42,413 (Ranked 80)  
 Completed: 25 (0.06%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 25 (0.06%) (Ranked 170)
 | 2023-05-22 | 42,382 | 25 |
 | 2023-05-23 | 42,394 | 25 |
 | 2023-05-24 | 42,404 | 25 |
-| 2023-05-25 | 42,412 | 25 |
+| 2023-05-25 | 42,413 | 25 |
 ## Awards
 Max (Great Boss Battles): 775  (Ranked 147)  
 Sum: 2,374 (Ranked 169)  

@@ -2,7 +2,7 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 520,
+  "Ranking_Rating": 521,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 132,
@@ -160,9 +160,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3373,
+  "EOS_Progressed": 3374,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 678,
+  "EOS_NewPlayers": 674,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1900,6 +1900,11 @@
       "Time": "2023-05-25T12:04:14.4363751+00:00",
       "NumProgressed": 3373,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T14:03:47.469885+00:00",
+      "NumProgressed": 3374,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -1927,7 +1932,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 1619
+      "UsersEstimate": 1620
     },
     {
       "ID": "12",
@@ -1951,7 +1956,7 @@
       "Name": "Full Ascension",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 1855
+      "UsersEstimate": 1856
     },
     {
       "ID": "15",
@@ -1967,7 +1972,7 @@
       "Name": "God Emperor",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "17",
@@ -1975,7 +1980,7 @@
       "Name": "Lord of Chaos",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "18",
@@ -1991,7 +1996,7 @@
       "Name": "The Creator",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "2",
@@ -2023,7 +2028,7 @@
       "Name": "Realm Estate",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2597
+      "UsersEstimate": 2598
     },
     {
       "ID": "23",
@@ -2031,7 +2036,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 2698
+      "UsersEstimate": 2699
     },
     {
       "ID": "24",
@@ -2039,7 +2044,7 @@
       "Name": "Secret Technique",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2597
+      "UsersEstimate": 2598
     },
     {
       "ID": "25",
@@ -2055,7 +2060,7 @@
       "Name": "Bone Peddler",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 2091
+      "UsersEstimate": 2092
     },
     {
       "ID": "27",
@@ -2071,7 +2076,7 @@
       "Name": "From Friends to Family",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 2361
+      "UsersEstimate": 2362
     },
     {
       "ID": "29",
@@ -2103,7 +2108,7 @@
       "Name": "Magical Synergy",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 2226
+      "UsersEstimate": 2227
     },
     {
       "ID": "32",
@@ -2111,7 +2116,7 @@
       "Name": "My Final Form",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1485
     },
     {
       "ID": "33",
@@ -2119,7 +2124,7 @@
       "Name": "Seat of Power",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 1585
+      "UsersEstimate": 1586
     },
     {
       "ID": "34",
@@ -2183,7 +2188,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1485
     },
     {
       "ID": "41",
@@ -2262,13 +2267,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 3373,
-      "Completed": 3373
+      "Progressed": 3374,
+      "Completed": 3374
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 3373,
+      "Progressed": 3374,
       "Completed": 0
     }
   ],
@@ -2276,8 +2281,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-24T15:00:10.7602094+00:00",
-  "LastChanged_Achievements": "2023-05-25T13:11:53.2738773+00:00",
+  "LastChanged_Achievements": "2023-05-25T14:03:47.4698844+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:46.682938+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:07:31.5493066+00:00",
-  "LastUpdate_Achievements": "2023-05-25T13:11:53.2739254+00:00"
+  "LastUpdate_Ratings": "2023-05-25T13:59:09.849322+00:00",
+  "LastUpdate_Achievements": "2023-05-25T14:03:47.4699335+00:00"
 }

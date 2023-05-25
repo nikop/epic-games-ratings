@@ -2,12 +2,12 @@
   "ID": "catnip",
   "Name": "Borderlands 3",
   "ProductSlug": "borderlands-3",
-  "Ranking_Rating": 212,
+  "Ranking_Rating": 213,
   "Ranking_Popularity": 8,
   "Ranking_PopularitySum": 9,
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2019-09-13T15:00:00+00:00",
@@ -6140,24 +6140,30 @@
       "Rating": 4.69,
       "NumberOfAwards": 344153,
       "NumberOfAwardsMax": 109783
+    },
+    {
+      "Time": "2023-05-25T13:59:19.2616562+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 344247,
+      "NumberOfAwardsMax": 109835
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 344153,
-  "NumberOfAwardsMax": 109783,
+  "NumberOfAwards": 344247,
+  "NumberOfAwardsMax": 109835,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 109783
+      "Count": 109835
     },
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 26823
+      "Count": 26846
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6181,7 +6187,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 23847
+      "Count": 23857
     },
     {
       "Text": "This game is Relaxing",
@@ -6211,7 +6217,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 16675
+      "Count": 16684
     }
   ],
   "EOS_Progressed": 0,
@@ -6225,8 +6231,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:32.2549878+00:00",
-  "LastChanged": "2023-05-25T07:59:47.1647759+00:00",
+  "LastChanged": "2023-05-25T13:59:19.261656+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:13.6491937+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:07:44.3972207+00:00",
-  "LastUpdate_Achievements": "2023-05-25T13:10:21.7048547+00:00"
+  "LastUpdate_Ratings": "2023-05-25T13:59:19.2616569+00:00",
+  "LastUpdate_Achievements": "2023-05-25T14:02:25.2142975+00:00"
 }

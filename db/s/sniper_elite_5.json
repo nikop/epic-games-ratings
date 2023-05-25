@@ -2,12 +2,12 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 705,
+  "Ranking_Rating": 695,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.37,
+  "Rating": 4.38,
   "RatingHistory": [
     {
       "Time": "2023-03-27T02:57:24.3255682+00:00",
@@ -194,15 +194,21 @@
       "Rating": 4.37,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-25T14:00:05.6295108+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1392,
+  "EOS_Progressed": 1398,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 661,
+  "EOS_NewPlayers": 666,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1350,6 +1356,11 @@
       "Time": "2023-05-25T13:13:50.1027626+00:00",
       "NumProgressed": 1392,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-25T14:05:31.8820552+00:00",
+      "NumProgressed": 1398,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1383,9 +1394,9 @@
       "ID": "REWARD_13_OPTIONAL_TASK",
       "SetID": "bm6el81",
       "Name": "No Stone Unturned",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -1441,7 +1452,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1529,7 +1540,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1551,9 +1562,9 @@
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
       "SetID": "bm6el81",
       "Name": "My Little Friend",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -1609,7 +1620,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -1711,9 +1722,9 @@
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
       "SetID": "bm6el81",
       "Name": "Road Rage",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_67_NO_ASSISTANCE",
@@ -1928,22 +1939,22 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1343,
+      "Progressed": 1349,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1392,
+      "Progressed": 1398,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-03-07T14:57:33.0234716+00:00",
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
-  "LastChanged": "2023-05-24T14:00:16.736359+00:00",
-  "LastChanged_Achievements": "2023-05-25T13:13:50.1027622+00:00",
+  "LastChanged": "2023-05-25T14:00:05.6295104+00:00",
+  "LastChanged_Achievements": "2023-05-25T14:05:31.8820548+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:08:41.8997158+00:00",
-  "LastUpdate_Achievements": "2023-05-25T13:13:50.102886+00:00"
+  "LastUpdate_Ratings": "2023-05-25T14:00:05.6295113+00:00",
+  "LastUpdate_Achievements": "2023-05-25T14:05:31.8821302+00:00"
 }

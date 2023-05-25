@@ -1,33 +1,33 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.47 (Ranked 584)  
+Rating: 4.47 (Ranked 585)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~362,146 |
-| Now You're Talking | 62.00% | ~320,758 |
-| Steel Yourself | 62.00% | ~320,758 |
-| Window Dressing | 50.00% | ~258,676 |
-| Trigger Happy | 46.00% | ~237,982 |
-| Riverborn | 45.00% | ~232,808 |
-| Starry Eyed | 34.00% | ~175,900 |
-| Poking Around | 34.00% | ~175,900 |
-| Talk of the Town | 24.00% | ~124,164 |
-| AAARR! | 23.00% | ~118,991 |
-| Hello Darkness | 23.00% | ~118,991 |
-| Wind At Our Backs | 22.00% | ~113,817 |
-| To the Beat | 20.00% | ~103,470 |
-| Sunny Shores | 17.00% | ~87,950 |
-| To Victory! | 15.00% | ~77,603 |
-| Sunday Best | 15.00% | ~77,603 |
-| Two of a Kind | 14.00% | ~72,429 |
+| First Step | 70.00% | ~362,150 |
+| Now You're Talking | 62.00% | ~320,761 |
+| Steel Yourself | 62.00% | ~320,761 |
+| Window Dressing | 50.00% | ~258,678 |
+| Trigger Happy | 46.00% | ~237,984 |
+| Riverborn | 45.00% | ~232,811 |
+| Starry Eyed | 34.00% | ~175,901 |
+| Poking Around | 34.00% | ~175,901 |
+| Talk of the Town | 24.00% | ~124,166 |
+| AAARR! | 23.00% | ~118,992 |
+| Hello Darkness | 23.00% | ~118,992 |
+| Wind At Our Backs | 22.00% | ~113,819 |
+| To the Beat | 20.00% | ~103,471 |
+| Sunny Shores | 17.00% | ~87,951 |
+| To Victory! | 15.00% | ~77,604 |
+| Sunday Best | 15.00% | ~77,604 |
+| Two of a Kind | 14.00% | ~72,430 |
 | Keep On Trucking | 13.00% | ~67,256 |
 | Going on an Adventure | 11.00% | ~56,909 |
 | Make Peace, Not War | 11.00% | ~56,909 |
-| Walking The Line | 10.00% | ~51,735 |
-| Not So Cute Anymore | 10.00% | ~51,735 |
+| Walking The Line | 10.00% | ~51,736 |
+| Not So Cute Anymore | 10.00% | ~51,736 |
 | Road Less Travelled | 9.00% | ~46,562 |
 | Lost and Found | 9.00% | ~46,562 |
 | Partner in Crime | 7.00% | ~36,215 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,552 |
 | Point Taken | 0.10% | ~517 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 517,352 (Ranked 25)  
+Progressed: 517,357 (Ranked 25)  
 Completed: 410 (0.08%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 410 (0.08%) (Ranked 166)
 | 2023-05-22 | 517,164 | 409 |
 | 2023-05-23 | 517,245 | 409 |
 | 2023-05-24 | 517,325 | 410 |
-| 2023-05-25 | 517,352 | 410 |
+| 2023-05-25 | 517,357 | 410 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

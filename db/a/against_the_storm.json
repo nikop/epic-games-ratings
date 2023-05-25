@@ -2,7 +2,7 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 72,
+  "Ranking_Rating": 73,
   "Ranking_Popularity": 196,
   "Ranking_PopularitySum": 152,
   "Ranking_EOS_Progress": 98,
@@ -2300,9 +2300,9 @@
       "Count": 304
     }
   ],
-  "EOS_Progressed": 14990,
+  "EOS_Progressed": 14991,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -4135,6 +4135,11 @@
       "Time": "2023-05-25T09:06:43.8740763+00:00",
       "NumProgressed": 14990,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-05-25T14:05:55.9110118+00:00",
+      "NumProgressed": 14991,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 50,
@@ -4248,9 +4253,9 @@
       "ID": "WinImpossible",
       "SetID": "cfbk359",
       "Name": "Against All Odds",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 105
+      "UsersEstimate": 120
     },
     {
       "ID": "WinNearArmory",
@@ -4545,15 +4550,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 14990,
+      "Progressed": 14991,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-25T00:00:47.7000452+00:00",
-  "LastChanged_Achievements": "2023-05-25T13:14:18.2794921+00:00",
+  "LastChanged_Achievements": "2023-05-25T14:05:55.9110113+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:57.8342165+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:08:09.6943835+00:00",
-  "LastUpdate_Achievements": "2023-05-25T13:14:18.2795508+00:00"
+  "LastUpdate_Ratings": "2023-05-25T13:59:38.1634286+00:00",
+  "LastUpdate_Achievements": "2023-05-25T14:05:55.9110663+00:00"
 }

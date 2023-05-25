@@ -2,12 +2,12 @@
   "ID": "395be8a9aed24142b30b6abb2778e995",
   "Name": "Anodyne 2: Return To Dust",
   "ProductSlug": "anodyne-2-return-to-dust",
-  "Ranking_Rating": 765,
+  "Ranking_Rating": 766,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2020-02-28T13:00:00+00:00",
@@ -106,6 +106,6 @@
   "FirstSeenRating": "2022-09-16T04:00:52.6824492+00:00",
   "LastChanged": "2023-04-25T20:42:14.2165118+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:57.822338+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:07:33.1752173+00:00",
-  "LastUpdate_Achievements": "2023-05-25T13:12:46.101782+00:00"
+  "LastUpdate_Ratings": "2023-05-25T13:59:11.0596111+00:00",
+  "LastUpdate_Achievements": "2023-05-25T14:04:39.8795925+00:00"
 }

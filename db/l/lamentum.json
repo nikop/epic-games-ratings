@@ -2,12 +2,12 @@
   "ID": "ba50f06379bd4ae18bad48d1b2f950ac",
   "Name": "Lamentum",
   "ProductSlug": "lamentum-962e3e",
-  "Ranking_Rating": 705,
+  "Ranking_Rating": 707,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 220,
+  "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 221,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
@@ -63,11 +63,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 279,
+  "EOS_Progressed": 280,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.87,
+  "EOS_Completed_Percentage": 2.86,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.4947976+00:00",
@@ -142,6 +142,11 @@
     {
       "Time": "2023-05-23T18:03:41.1660362+00:00",
       "NumProgressed": 279,
+      "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-25T14:03:43.4529495+00:00",
+      "NumProgressed": 280,
       "NumCompleted": 8
     }
   ],
@@ -226,7 +231,7 @@
       "Name": "Grau Hill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "achievement_10",
@@ -234,15 +239,15 @@
       "Name": "The creature",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "achievement_11",
       "SetID": "7881h0d",
       "Name": "A forgotten language",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 195
+      "UsersEstimate": 193
     },
     {
       "ID": "achievement_12",
@@ -305,7 +310,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 279,
+      "Progressed": 280,
       "Completed": 8
     }
   ],
@@ -313,8 +318,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-03-31T05:57:59.5947046+00:00",
-  "LastChanged_Achievements": "2023-05-25T13:11:48.350802+00:00",
+  "LastChanged_Achievements": "2023-05-25T14:03:43.452949+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:18.0777045+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:05:46.0809267+00:00",
-  "LastUpdate_Achievements": "2023-05-25T13:11:48.3508245+00:00"
+  "LastUpdate_Ratings": "2023-05-25T13:57:43.0296411+00:00",
+  "LastUpdate_Achievements": "2023-05-25T14:03:43.4529624+00:00"
 }

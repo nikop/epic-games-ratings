@@ -2,12 +2,12 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 836,
+  "Ranking_Rating": 837,
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewPlayers": 54,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1214,9 +1214,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 61995,
+  "EOS_Progressed": 62000,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1044,
+  "EOS_NewPlayers": 1049,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3704,6 +3704,11 @@
       "Time": "2023-05-25T13:14:18.860405+00:00",
       "NumProgressed": 61995,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-25T14:05:56.4308779+00:00",
+      "NumProgressed": 62000,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3737,9 +3742,9 @@
       "ID": "AC1_HA_DEFEAT_VARIANTS",
       "SetID": "18c818l",
       "Name": "Renewable Enemy Source",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 32
     },
     {
       "ID": "AC1_HA_RESERVOIR",
@@ -4202,13 +4207,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 61995,
+      "Progressed": 62000,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32275,
+      "Progressed": 32280,
       "Completed": 2641
     }
   ],
@@ -4216,8 +4221,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-24T21:59:34.5075954+00:00",
-  "LastChanged_Achievements": "2023-05-25T13:14:18.8604038+00:00",
+  "LastChanged_Achievements": "2023-05-25T14:05:56.4308775+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:07:53.0582739+00:00",
-  "LastUpdate_Achievements": "2023-05-25T13:14:18.8605293+00:00"
+  "LastUpdate_Ratings": "2023-05-25T13:59:25.306379+00:00",
+  "LastUpdate_Achievements": "2023-05-25T14:05:56.430939+00:00"
 }

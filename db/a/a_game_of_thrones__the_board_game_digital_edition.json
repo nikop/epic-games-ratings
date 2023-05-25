@@ -2,7 +2,7 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 814,
+  "Ranking_Rating": 815,
   "Ranking_Popularity": 301,
   "Ranking_PopularitySum": 252,
   "Ranking_EOS_Progress": 102,
@@ -1239,9 +1239,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13311,
+  "EOS_Progressed": 13312,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 833,
+  "EOS_NewPlayers": 827,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -4619,6 +4619,11 @@
       "Time": "2023-05-25T13:14:04.9969089+00:00",
       "NumProgressed": 13311,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-05-25T14:05:44.64804+00:00",
+      "NumProgressed": 13312,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 22,
@@ -4700,9 +4705,9 @@
       "ID": "1024",
       "SetID": "9l3d3cl",
       "Name": "Daggers in the Dark",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1198
     },
     {
       "ID": "1025",
@@ -4766,7 +4771,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 5324
+      "UsersEstimate": 5325
     },
     {
       "ID": "1033",
@@ -4805,15 +4810,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 13311,
+      "Progressed": 13312,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-05-07T09:02:24.8496722+00:00",
-  "LastChanged_Achievements": "2023-05-25T13:14:04.996908+00:00",
+  "LastChanged_Achievements": "2023-05-25T14:05:44.6480395+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:02.1359414+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:08:22.8875812+00:00",
-  "LastUpdate_Achievements": "2023-05-25T13:14:04.9969678+00:00"
+  "LastUpdate_Ratings": "2023-05-25T13:59:49.8484083+00:00",
+  "LastUpdate_Achievements": "2023-05-25T14:05:44.6480758+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "ecebf45065bc4993abfe0e84c40ff18e",
   "Name": "Watch Dogs Standard Edition",
   "ProductSlug": "watch-dogs",
-  "Ranking_Rating": 449,
+  "Ranking_Rating": 450,
   "Ranking_Popularity": 391,
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2020-03-19T15:00:00+00:00",
@@ -1198,10 +1198,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 300,
       "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2023-05-25T14:00:09.849192+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 301,
+      "NumberOfAwardsMax": 49
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 300,
+  "NumberOfAwards": 301,
   "NumberOfAwardsMax": 49,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1233,7 +1239,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1289,8 +1295,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:01.9847852+00:00",
-  "LastChanged": "2023-05-21T16:00:03.9382144+00:00",
+  "LastChanged": "2023-05-25T14:00:09.8491918+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:15:01.4793379+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:08:46.8101376+00:00",
-  "LastUpdate_Achievements": "2023-05-25T13:09:29.4662574+00:00"
+  "LastUpdate_Ratings": "2023-05-25T14:00:09.8491924+00:00",
+  "LastUpdate_Achievements": "2023-05-25T14:02:15.7714018+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "b0ebefb11a9145488af78f6d2488afff",
   "Name": "Neon Abyss",
   "ProductSlug": "neon-abyss",
-  "Ranking_Rating": 235,
+  "Ranking_Rating": 236,
   "Ranking_Popularity": 159,
   "Ranking_PopularitySum": 120,
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2020-07-29T15:00:00+00:00",
@@ -2976,10 +2976,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 5313,
       "NumberOfAwardsMax": 666
+    },
+    {
+      "Time": "2023-05-25T13:57:24.3432893+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 5314,
+      "NumberOfAwardsMax": 666
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5313,
+  "NumberOfAwards": 5314,
   "NumberOfAwardsMax": 666,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3029,7 +3035,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 547
+      "Count": 548
     },
     {
       "Text": "This game has Playful Visuals",
@@ -3055,8 +3061,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:56.8709558+00:00",
-  "LastChanged": "2023-05-23T10:57:32.1285863+00:00",
+  "LastChanged": "2023-05-25T13:57:24.3432891+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:49.4977869+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:05:21.6367715+00:00",
-  "LastUpdate_Achievements": "2023-05-25T13:12:23.9809311+00:00"
+  "LastUpdate_Ratings": "2023-05-25T13:57:24.3432898+00:00",
+  "LastUpdate_Achievements": "2023-05-25T14:04:22.3190283+00:00"
 }

@@ -1,7 +1,7 @@
 # Dead Age 2
 [Store](https://store.epicgames.com/en-US/p/dead-age-2)  
 [View Rawdata](../../db/d/dead_age_2.json)  
-Rating: 4.16 (Ranked 841)  
+Rating: 4.16 (Ranked 842)  
 Number of Ratings: 21  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |

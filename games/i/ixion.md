@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.55 (Ranked 467)  
+Rating: 4.55 (Ranked 468)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -30,12 +30,12 @@ Rating: 4.55 (Ranked 467)
 | Convenient Transport | 1.00% | ~21 |
 | From the Past | 1.00% | ~21 |
 | Oats | 0.80% | ~17 |
+| In Dolos We Trust | 0.80% | ~17 |
 | BRAWL! | 0.80% | ~17 |
-| In Dolos We Trust | 0.70% | ~15 |
+| What They Hide From Us | 0.70% | ~15 |
 | Delivery! | 0.70% | ~15 |
 | All in Good Health | 0.70% | ~15 |
 | Pulsar Disciple | 0.70% | ~15 |
-| What They Hide From Us | 0.60% | ~13 |
 | ...  in a finite world | 0.60% | ~13 |
 | Pedal to the Metal | 0.60% | ~13 |
 | Sustainable Energy | 0.50% | ~11 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 467)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,146 (Ranked 142)  
+Progressed: 2,147 (Ranked 142)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-22 | 2,083 | 0 |
 | 2023-05-23 | 2,115 | 0 |
 | 2023-05-24 | 2,134 | 0 |
-| 2023-05-25 | 2,146 | 0 |
+| 2023-05-25 | 2,147 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

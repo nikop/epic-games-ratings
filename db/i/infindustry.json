@@ -2,9 +2,9 @@
   "ID": "3e8745caaecf4adb9e358de5df7b8a41",
   "Name": "Infindustry",
   "ProductSlug": "infindustry-cccc40",
-  "Ranking_EOS_Progress": 300,
+  "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-05-11T23:00:00+00:00",
@@ -231,9 +231,9 @@
       "ID": "Crafter",
       "SetID": "82ojhod",
       "Name": "Crafter",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Defender",
@@ -318,8 +318,8 @@
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2023-05-25T13:13:38.1480812+00:00",
+  "LastChanged_Achievements": "2023-05-25T14:05:21.6904877+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:03.2312003+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:05:12.7818159+00:00",
-  "LastUpdate_Achievements": "2023-05-25T13:13:38.1480958+00:00"
+  "LastUpdate_Ratings": "2023-05-25T13:57:17.2177333+00:00",
+  "LastUpdate_Achievements": "2023-05-25T14:05:21.6904994+00:00"
 }

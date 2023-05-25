@@ -2,13 +2,13 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 830,
+  "Ranking_Rating": 831,
   "Ranking_Popularity": 397,
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1780,9 +1780,9 @@
       "ID": "STORY_TOWER",
       "SetID": "4hj6d86",
       "Name": "Full Circle",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 68
     },
     {
       "ID": "STORY_TUNNELS",
@@ -1867,8 +1867,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-23T19:57:59.4143533+00:00",
-  "LastChanged_Achievements": "2023-05-25T13:11:27.5777112+00:00",
+  "LastChanged_Achievements": "2023-05-25T14:03:25.9259832+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:05:49.978128+00:00",
-  "LastUpdate_Achievements": "2023-05-25T13:11:27.5777527+00:00"
+  "LastUpdate_Ratings": "2023-05-25T13:57:46.3108692+00:00",
+  "LastUpdate_Achievements": "2023-05-25T14:03:25.9260273+00:00"
 }

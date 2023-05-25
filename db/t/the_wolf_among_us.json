@@ -2,12 +2,12 @@
   "ID": "a8f9fb4a881e47b489715f18f7d08e2f",
   "Name": "The Wolf Among Us",
   "ProductSlug": "the-wolf-among-us",
-  "Ranking_Rating": 77,
+  "Ranking_Rating": 78,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2019-12-01T17:00:00+00:00",
@@ -460,6 +460,6 @@
   "FirstSeen": "2022-07-22T20:20:55.8960394+00:00",
   "LastChanged": "2023-05-12T18:59:41.8196701+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:22.7100994+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:07:10.5253491+00:00",
-  "LastUpdate_Achievements": "2023-05-25T13:12:36.4727086+00:00"
+  "LastUpdate_Ratings": "2023-05-25T13:58:52.9688829+00:00",
+  "LastUpdate_Achievements": "2023-05-25T14:04:32.3132154+00:00"
 }

@@ -177,9 +177,9 @@
       "ID": "RUNE_ACCEL",
       "SetID": "9433p49",
       "Name": "A good start",
-      "Percentage": 53,
+      "Percentage": 55,
       "XP": 55,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "RUNE_BAT",
@@ -306,8 +306,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2023-05-25T13:13:43.3608478+00:00",
+  "LastChanged_Achievements": "2023-05-25T14:05:25.869202+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:04.2331038+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:05:33.3725849+00:00",
-  "LastUpdate_Achievements": "2023-05-25T13:13:43.3608648+00:00"
+  "LastUpdate_Ratings": "2023-05-25T13:57:32.9688523+00:00",
+  "LastUpdate_Achievements": "2023-05-25T14:05:25.8692139+00:00"
 }

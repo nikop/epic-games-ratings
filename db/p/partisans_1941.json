@@ -2,7 +2,7 @@
   "ID": "aa102e1c575d42868a11ac8e79af2126",
   "Name": "Partisans 1941",
   "ProductSlug": "partisans-1941",
-  "Ranking_Rating": 358,
+  "Ranking_Rating": 359,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 168,
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 940,
+  "EOS_Progressed": 941,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -720,6 +720,11 @@
       "Time": "2023-05-25T10:06:24.5010035+00:00",
       "NumProgressed": 940,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-25T14:05:46.1837172+00:00",
+      "NumProgressed": 941,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -819,7 +824,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "Experienced_strategist",
@@ -857,9 +862,9 @@
       "ID": "Heroes_never_die",
       "SetID": "85nb4h3",
       "Name": "Heroes Never Die",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 235
     },
     {
       "ID": "High_noon",
@@ -883,7 +888,7 @@
       "Name": "Spice It Up",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "KillAllM2",
@@ -945,9 +950,9 @@
       "ID": "War_never_changes",
       "SetID": "85nb4h3",
       "Name": "War Never Changes",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 263
     },
     {
       "ID": "We_were_not_here",
@@ -970,15 +975,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 940,
+      "Progressed": 941,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-05-25T13:14:06.7580241+00:00",
+  "LastChanged_Achievements": "2023-05-25T14:05:46.1837167+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:35.4826245+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:07:21.9701322+00:00",
-  "LastUpdate_Achievements": "2023-05-25T13:14:06.7580652+00:00"
+  "LastUpdate_Ratings": "2023-05-25T13:59:01.9595401+00:00",
+  "LastUpdate_Achievements": "2023-05-25T14:05:46.1837414+00:00"
 }

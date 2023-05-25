@@ -12,7 +12,7 @@
 | Trap Master | 21.00% | ~66 |
 | Artifact Collector | 20.00% | ~63 |
 | Reincarnation | 17.00% | ~54 |
-| Ghost Buster | 16.00% | ~50 |
+| Ghost Buster | 16.00% | ~51 |
 | Iconoclasm | 14.00% | ~44 |
 | Librarian | 13.00% | ~41 |
 | The End | 13.00% | ~41 |
@@ -21,7 +21,7 @@
 | Orcs Must Die! | 12.00% | ~38 |
 | Troubleshooter | 12.00% | ~38 |
 | Money Swag | 9.00% | ~28 |
-| Shield Crusher | 7.00% | ~22 |
+| Shield Crusher | 8.00% | ~25 |
 | Oops | 6.00% | ~19 |
 | Treasure Hunter | 6.00% | ~19 |
 | Explorer | 5.00% | ~16 |
@@ -36,16 +36,16 @@
 | Sling of David | 2.00% | ~6 |
 | Sword Master | 2.00% | ~6 |
 | Witch | 2.00% | ~6 |
-| Assassin | 1.00% | ~3 |
-| Roughneck | 1.00% | ~3 |
 | Rune Master | 1.00% | ~3 |
-| Weapon Master | 1.00% | ~3 |
+| Assassin | 0.90% | ~3 |
+| Roughneck | 0.90% | ~3 |
+| Weapon Master | 0.90% | ~3 |
 | Art Collector | 0.30% | ~1 |
 | Hardboiled | 0.30% | ~1 |
 | Cryomancer | 0.00% | ~0 |
 | Necromancer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 315 (Ranked 212)  
+Progressed: 316 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,7 +64,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-22 | 310 | 0 |
 | 2023-05-23 | 312 | 0 |
 | 2023-05-24 | 314 | 0 |
-| 2023-05-25 | 315 | 0 |
+| 2023-05-25 | 316 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

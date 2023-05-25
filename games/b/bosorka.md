@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Path of purity | 79.00% | ~59 |
+| A good start | 55.00% | ~41 |
 | Witch's duty | 55.00% | ~41 |
-| A good start | 53.00% | ~40 |
 | Runes collector | 49.00% | ~37 |
 | First time, yes? | 48.00% | ~36 |
 | Kind heart | 44.00% | ~33 |

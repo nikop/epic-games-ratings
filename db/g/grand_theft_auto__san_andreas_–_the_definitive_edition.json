@@ -2,7 +2,7 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 328,
+  "Ranking_Rating": 329,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 110,
@@ -308,7 +308,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8351,
+  "EOS_Progressed": 8353,
   "EOS_Completed": 17,
   "EOS_NewPlayers": 692,
   "EOS_NewCompleters": 1,
@@ -2378,6 +2378,11 @@
       "Time": "2023-05-25T13:14:16.1351601+00:00",
       "NumProgressed": 8351,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-05-25T14:05:54.0486167+00:00",
+      "NumProgressed": 8353,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 35,
@@ -2389,7 +2394,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6681
+      "UsersEstimate": 6682
     },
     {
       "ID": "ACH02",
@@ -2445,7 +2450,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 4008
+      "UsersEstimate": 4009
     },
     {
       "ID": "ACH09",
@@ -2565,7 +2570,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1837
+      "UsersEstimate": 1838
     },
     {
       "ID": "ACH24",
@@ -2668,7 +2673,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 8351,
+      "Progressed": 8353,
       "Completed": 17
     }
   ],
@@ -2676,8 +2681,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-05-25T02:59:53.739674+00:00",
-  "LastChanged_Achievements": "2023-05-25T13:14:16.1351595+00:00",
+  "LastChanged_Achievements": "2023-05-25T14:05:54.0486161+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:19.5303152+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:08:26.7680154+00:00",
-  "LastUpdate_Achievements": "2023-05-25T13:14:16.1352055+00:00"
+  "LastUpdate_Ratings": "2023-05-25T13:59:52.7668724+00:00",
+  "LastUpdate_Achievements": "2023-05-25T14:05:54.0486554+00:00"
 }

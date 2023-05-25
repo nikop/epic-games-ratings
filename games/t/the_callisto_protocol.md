@@ -1,7 +1,7 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.18 (Ranked 830)  
+Rating: 4.18 (Ranked 831)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -35,8 +35,8 @@ Rating: 4.18 (Ranked 830)
 | Power Up | 0.70% | ~95 |
 | You Need a Gun | 0.60% | ~81 |
 | What Lies Beneath | 0.50% | ~68 |
+| Full Circle | 0.50% | ~68 |
 | I Do Belong Here | 0.40% | ~54 |
-| Full Circle | 0.40% | ~54 |
 | Grim Reaper | 0.30% | ~41 |
 | It's over, Jacob! | 0.10% | ~14 |
 | Armed to the Teeth | 0.10% | ~1 |

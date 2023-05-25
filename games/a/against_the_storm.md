@@ -1,7 +1,7 @@
 # Against the Storm
 [Store](https://store.epicgames.com/en-US/p/against-the-storm)  
 [View Rawdata](../../db/a/against_the_storm.json)  
-Rating: 4.81 (Ranked 72)  
+Rating: 4.81 (Ranked 73)  
 Number of Ratings: 1,845  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -27,13 +27,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Cursed Lands | 0.90% | ~135 |
 | A Real Challenge | 0.90% | ~135 |
 | Refinery | 0.80% | ~120 |
+| Against All Odds | 0.80% | ~120 |
 | Dangerous Lands | 0.80% | ~120 |
 | Haunted Forest | 0.80% | ~120 |
 | Levitating Monument | 0.80% | ~120 |
 | Monastery of the Holy Flame | 0.80% | ~120 |
 | Corrosive Torrent | 0.80% | ~120 |
 | Watchtower | 0.80% | ~120 |
-| Against All Odds | 0.70% | ~105 |
 | Statue of the Forefathers | 0.70% | ~105 |
 | Forsaken Gods Temple | 0.70% | ~105 |
 | Serving Ale | 0.60% | ~90 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,990 (Ranked 98)  
+Progressed: 14,991 (Ranked 98)  
 Completed: 33 (0.22%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 33 (0.22%) (Ranked 135)
 | 2023-05-22 | 14,956 | 33 |
 | 2023-05-23 | 14,974 | 33 |
 | 2023-05-24 | 14,986 | 33 |
-| 2023-05-25 | 14,990 | 33 |
+| 2023-05-25 | 14,991 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 196)  
 Sum: 3,030 (Ranked 152)  

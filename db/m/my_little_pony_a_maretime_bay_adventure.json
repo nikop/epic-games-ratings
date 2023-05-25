@@ -4,7 +4,7 @@
   "ProductSlug": "my-little-pony-a-maretime-bay-adventure-6a2cce",
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 4,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-12-15T18:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37,
+  "EOS_Progressed": 38,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 24.32,
+  "EOS_Completed_Percentage": 23.68,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:29.3073693+00:00",
@@ -48,6 +48,11 @@
       "Time": "2023-05-13T09:05:26.5459336+00:00",
       "NumProgressed": 37,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-25T14:05:29.6640223+00:00",
+      "NumProgressed": 38,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 13,
@@ -57,7 +62,7 @@
       "ID": "0",
       "SetID": "1kmik7f",
       "Name": "An Adorable Thief",
-      "Percentage": 89,
+      "Percentage": 87,
       "XP": 75,
       "UsersEstimate": 33
     },
@@ -65,7 +70,7 @@
       "ID": "1",
       "SetID": "1kmik7f",
       "Name": "Unicycling 101",
-      "Percentage": 86,
+      "Percentage": 84,
       "XP": 75,
       "UsersEstimate": 32
     },
@@ -73,7 +78,7 @@
       "ID": "10",
       "SetID": "1kmik7f",
       "Name": "Where Did The Magic Go?",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 75,
       "UsersEstimate": 20
     },
@@ -81,7 +86,7 @@
       "ID": "11",
       "SetID": "1kmik7f",
       "Name": "Friendship Is Still Magic",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 75,
       "UsersEstimate": 20
     },
@@ -89,7 +94,7 @@
       "ID": "12",
       "SetID": "1kmik7f",
       "Name": "Starscout",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 75,
       "UsersEstimate": 13
     },
@@ -97,7 +102,7 @@
       "ID": "2",
       "SetID": "1kmik7f",
       "Name": "Mane Street Awaits!",
-      "Percentage": 76,
+      "Percentage": 74,
       "XP": 75,
       "UsersEstimate": 28
     },
@@ -105,7 +110,7 @@
       "ID": "3",
       "SetID": "1kmik7f",
       "Name": "Pipp Pipp Parade!",
-      "Percentage": 65,
+      "Percentage": 63,
       "XP": 75,
       "UsersEstimate": 24
     },
@@ -113,7 +118,7 @@
       "ID": "4",
       "SetID": "1kmik7f",
       "Name": "Amateur Detective",
-      "Percentage": 65,
+      "Percentage": 63,
       "XP": 75,
       "UsersEstimate": 24
     },
@@ -121,7 +126,7 @@
       "ID": "5",
       "SetID": "1kmik7f",
       "Name": "Glowing Up",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 75,
       "UsersEstimate": 23
     },
@@ -137,7 +142,7 @@
       "ID": "7",
       "SetID": "1kmik7f",
       "Name": "Sheriff\u0027s Apprentice",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 75,
       "UsersEstimate": 22
     },
@@ -145,7 +150,7 @@
       "ID": "8",
       "SetID": "1kmik7f",
       "Name": "Pro Herder",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 75,
       "UsersEstimate": 22
     },
@@ -153,7 +158,7 @@
       "ID": "9",
       "SetID": "1kmik7f",
       "Name": "The Neigh-gotiator",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 100,
       "UsersEstimate": 22
     }
@@ -162,7 +167,7 @@
     {
       "ID": "1kmik7f",
       "IsBase": true,
-      "Progressed": 37,
+      "Progressed": 38,
       "Completed": 9
     }
   ],
@@ -170,8 +175,8 @@
   "FirstSeenRating": "2023-03-31T05:58:26.3358258+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:29.30737+00:00",
   "LastChanged": "2023-03-31T05:58:26.335826+00:00",
-  "LastChanged_Achievements": "2023-05-25T13:13:47.8327238+00:00",
+  "LastChanged_Achievements": "2023-05-25T14:05:29.6640214+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:23.6781028+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:06:46.4418184+00:00",
-  "LastUpdate_Achievements": "2023-05-25T13:13:47.8327397+00:00"
+  "LastUpdate_Ratings": "2023-05-25T13:58:33.655714+00:00",
+  "LastUpdate_Achievements": "2023-05-25T14:05:29.6640338+00:00"
 }

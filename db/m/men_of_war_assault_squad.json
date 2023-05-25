@@ -2,12 +2,12 @@
   "ID": "82f0d329ca6241efb1a7da46c70e7140",
   "Name": "Men of War Assault Squad",
   "ProductSlug": "men-of-war-assault-squad-1294b4",
-  "Ranking_Rating": 255,
+  "Ranking_Rating": 256,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-12-06T14:00:00+00:00",
@@ -58,6 +58,6 @@
   "FirstSeenRating": "2023-03-31T05:58:28.0535981+00:00",
   "LastChanged": "2023-04-19T20:05:08.2062684+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:11.739068+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:08:24.5510158+00:00",
-  "LastUpdate_Achievements": "2023-05-25T13:13:17.3877387+00:00"
+  "LastUpdate_Ratings": "2023-05-25T13:59:51.2575931+00:00",
+  "LastUpdate_Achievements": "2023-05-25T14:05:04.8129801+00:00"
 }

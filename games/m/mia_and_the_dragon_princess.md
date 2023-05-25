@@ -17,7 +17,7 @@
 | A Box of Tricks | 15.00% | ~6 |
 | Backstory Buff | 15.00% | ~6 |
 | Breathless End | 12.00% | ~5 |
-| Flying High | 10.00% | ~4 |
+| Flying High | 12.00% | ~5 |
 | Fool's Gold | 5.00% | ~2 |
 | Escape Artist | 2.00% | ~1 |
 | Freedum Fighter | 2.00% | ~1 |

@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 876,
+  "Ranking_Rating": 877,
   "Ranking_Popularity": 64,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 60,
@@ -3922,10 +3922,10 @@
       "Count": 3239
     }
   ],
-  "EOS_Progressed": 88586,
-  "EOS_Completed": 1877,
-  "EOS_NewPlayers": 732,
-  "EOS_NewCompleters": 28,
+  "EOS_Progressed": 88591,
+  "EOS_Completed": 1878,
+  "EOS_NewPlayers": 728,
+  "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 2.12,
   "EosHistory": [
     {
@@ -7327,6 +7327,11 @@
       "Time": "2023-05-25T13:14:23.8383307+00:00",
       "NumProgressed": 88586,
       "NumCompleted": 1877
+    },
+    {
+      "Time": "2023-05-25T14:06:01.212601+00:00",
+      "NumProgressed": 88591,
+      "NumCompleted": 1878
     }
   ],
   "TotalAchievements": 493,
@@ -7336,9 +7341,9 @@
       "ID": "objective_completed_1",
       "SetID": "cc37lbc",
       "Name": "A Brief Tour of the Realms",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 620
+      "UsersEstimate": 709
     },
     {
       "ID": "objective_completed_10",
@@ -11281,21 +11286,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54860,
-      "Completed": 2703
+      "Progressed": 54865,
+      "Completed": 2704
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88586,
-      "Completed": 1877
+      "Progressed": 88591,
+      "Completed": 1878
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-25T04:58:06.0839905+00:00",
-  "LastChanged_Achievements": "2023-05-25T13:14:23.8383302+00:00",
+  "LastChanged_Achievements": "2023-05-25T14:06:01.2126003+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:06:03.3649807+00:00",
-  "LastUpdate_Achievements": "2023-05-25T13:14:23.8412405+00:00"
+  "LastUpdate_Ratings": "2023-05-25T13:57:56.5733395+00:00",
+  "LastUpdate_Achievements": "2023-05-25T14:06:01.2149929+00:00"
 }

@@ -1,23 +1,23 @@
 # Adios
 [Store](https://store.epicgames.com/en-US/p/adios-b378b4)  
 [View Rawdata](../../db/a/adios.json)  
-Rating: 3.41 (Ranked 924)  
+Rating: 3.41 (Ranked 925)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 21.00% | ~12,136 |
-| Master, Commander | 20.00% | ~11,558 |
-| Hard Worker | 19.00% | ~10,980 |
-| Mechanic | 18.00% | ~10,402 |
-| Adios, Friendo | 17.00% | ~9,824 |
-| Bottom's Up | 17.00% | ~9,824 |
-| Nice Try | 16.00% | ~9,247 |
-| Right On Target | 13.00% | ~7,513 |
-| Piano Man | 10.00% | ~5,779 |
-| Lazy Bones | 9.00% | ~5,201 |
-| Vinyl Vibes | 7.00% | ~4,045 |
-| Nothing Left to Say | 6.00% | ~3,467 |
-| Sniper | 6.00% | ~3,467 |
+| Be Seeing You | 21.00% | ~12,138 |
+| Master, Commander | 20.00% | ~11,560 |
+| Hard Worker | 19.00% | ~10,982 |
+| Mechanic | 18.00% | ~10,404 |
+| Adios, Friendo | 17.00% | ~9,826 |
+| Bottom's Up | 17.00% | ~9,826 |
+| Nice Try | 16.00% | ~9,248 |
+| Right On Target | 13.00% | ~7,514 |
+| Piano Man | 10.00% | ~5,780 |
+| Lazy Bones | 9.00% | ~5,202 |
+| Vinyl Vibes | 7.00% | ~4,046 |
+| Nothing Left to Say | 6.00% | ~3,468 |
+| Sniper | 6.00% | ~3,468 |
 | Cut Call | 5.00% | ~2,890 |
 | Butcher | 4.00% | ~2,312 |
 | Magnetic Miracles | 4.00% | ~2,312 |
@@ -31,8 +31,8 @@ Rating: 3.41 (Ranked 924)
 | Audiophile | 2.00% | ~1,156 |
 | Tape Head | 1.00% | ~578 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,791 (Ranked 71)  
-Completed: 474 (0.82%) (Ranked 92)  
+Progressed: 57,802 (Ranked 71)  
+Completed: 475 (0.82%) (Ranked 92)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -66,7 +66,7 @@ Completed: 474 (0.82%) (Ranked 92)
 | 2023-05-22 | 57,414 | 470 |
 | 2023-05-23 | 57,557 | 471 |
 | 2023-05-24 | 57,711 | 473 |
-| 2023-05-25 | 57,791 | 474 |
+| 2023-05-25 | 57,802 | 475 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

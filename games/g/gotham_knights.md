@@ -1,7 +1,7 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.17 (Ranked 836)  
+Rating: 4.17 (Ranked 837)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -43,11 +43,11 @@ Rating: 4.17 (Ranked 836)
 | A Worthy Successor | 0.30% | ~186 |
 | Solid Alibi | 0.30% | ~186 |
 | Hammer and Icicle | 0.20% | ~65 |
-| Renewable Enemy Source | 0.20% | ~65 |
 | Dressed to Impress | 0.20% | ~124 |
 | A Momentum Occasion | 0.20% | ~124 |
 | Element of Surprise | 0.10% | ~32 |
 | It's Nice to Be Wanted | 0.10% | ~32 |
+| Renewable Enemy Source | 0.10% | ~32 |
 | Crime Is a Terrible Thing to Waste | 0.10% | ~32 |
 | The Cold, the Bad and the Ugly | 0.10% | ~32 |
 | Gotham's Greatest Depths | 0.10% | ~32 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 836)
 | Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 61,995 (Ranked 69)  
+Progressed: 62,000 (Ranked 69)  
 Completed: 91 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 91 (0.15%) (Ranked 148)
 | 2023-05-22 | 61,724 | 91 |
 | 2023-05-23 | 61,842 | 91 |
 | 2023-05-24 | 61,945 | 91 |
-| 2023-05-25 | 61,995 | 91 |
+| 2023-05-25 | 62,000 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,234  (Ranked 98)  
 Sum: 3,709 (Ranked 138)  

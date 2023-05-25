@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 35,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -588,9 +588,9 @@
       "ID": "ACH_GREYHANDSPRAXI101",
       "SetID": "7pam6gn",
       "Name": "Grey Hands Praxis 101",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 235
+      "UsersEstimate": 243
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -677,8 +677,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-05-25T13:13:45.2430475+00:00",
+  "LastChanged_Achievements": "2023-05-25T14:05:27.4805479+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:12.4580527+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:06:38.4869173+00:00",
-  "LastUpdate_Achievements": "2023-05-25T13:13:45.2430735+00:00"
+  "LastUpdate_Ratings": "2023-05-25T13:58:27.8879174+00:00",
+  "LastUpdate_Achievements": "2023-05-25T14:05:27.4805635+00:00"
 }

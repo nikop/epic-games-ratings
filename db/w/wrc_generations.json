@@ -2,12 +2,12 @@
   "ID": "a30d60ca7a8d4fd2ad6e531c59854e5e",
   "Name": "WRC Generations",
   "ProductSlug": "wrc-11-fia-world-rally-championship-f0749b",
-  "Ranking_Rating": 584,
+  "Ranking_Rating": 585,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-11-03T09:00:00+00:00",
@@ -265,6 +265,6 @@
   "FirstSeenRating": "2022-11-09T14:57:20.1169919+00:00",
   "LastChanged": "2023-04-24T20:57:21.8498828+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:10.5121435+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:05:38.2203914+00:00",
-  "LastUpdate_Achievements": "2023-05-25T13:11:41.3030058+00:00"
+  "LastUpdate_Ratings": "2023-05-25T13:57:36.8420395+00:00",
+  "LastUpdate_Achievements": "2023-05-25T14:03:37.5797011+00:00"
 }

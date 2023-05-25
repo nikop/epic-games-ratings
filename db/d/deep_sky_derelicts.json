@@ -2,12 +2,12 @@
   "ID": "093251d750d4445e8c7fc1f5a17c9531",
   "Name": "Deep Sky Derelicts",
   "ProductSlug": "deep-sky-derelicts",
-  "Ranking_Rating": 694,
+  "Ranking_Rating": 695,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-07-20T17:00:00+00:00",
@@ -151,6 +151,6 @@
   "FirstSeenRating": "2022-08-03T14:00:54.5917999+00:00",
   "LastChanged": "2023-04-17T13:57:27.9875249+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:57.4170945+00:00",
-  "LastUpdate_Ratings": "2023-05-25T13:07:33.7953191+00:00",
-  "LastUpdate_Achievements": "2023-05-25T13:12:48.5614735+00:00"
+  "LastUpdate_Ratings": "2023-05-25T13:59:11.6286502+00:00",
+  "LastUpdate_Achievements": "2023-05-25T14:04:41.9917279+00:00"
 }

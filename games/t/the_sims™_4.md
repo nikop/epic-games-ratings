@@ -1,10 +1,10 @@
 # The Sims™ 4
 [Store](https://store.epicgames.com/en-US/p/the-sims-4)  
 [View Rawdata](../../db/t/the_sims™_4.json)  
-Rating: 4.61 (Ranked 358)  
+Rating: 4.61 (Ranked 359)  
 ## Awards
 Max (Great for Beginners): 248  (Ranked 240)  
-Sum: 1,523 (Ranked 206)  
+Sum: 1,525 (Ranked 206)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -12,7 +12,7 @@ Diff (max vs sum): 34
 | This game has Diverse Characters | 192 |
 | This game has a Creative Community | 151 |
 | This game is Relaxing | 137 |
-| This game is Highly Recommended | 128 |
+| This game is Highly Recommended | 130 |
 | This game is Educational | 127 |
 | This game is Extremely Fun | 114 |
 | This game has Amazing Characters | 112 |
@@ -111,4 +111,4 @@ Diff (max vs sum): 34
 | 2023-05-22 | 4.61 | 239 | 1,470 |
 | 2023-05-23 | 4.61 | 239 | 1,488 |
 | 2023-05-24 | 4.61 | 242 | 1,511 |
-| 2023-05-25 | 4.61 | 248 | 1,523 |
+| 2023-05-25 | 4.61 | 248 | 1,525 |
