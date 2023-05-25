@@ -3,26 +3,26 @@
 | 1 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 50.00% |
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 35.29% |
 | 3 | [Overloop](games/o/overloop.md) | 25.00% |
-| 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 24.32% |
+| 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 23.68% |
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 21.21% |
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.27% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 8 | [Island Cities](games/i/island_cities.md) | 17.31% |
+| 8 | [Island Cities](games/i/island_cities.md) | 17.09% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 13.33% |
 | 10 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
-| 11 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.05% |
+| 11 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.04% |
 | 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 13 | [Remains](games/r/remains.md) | 9.09% |
 | 13 | [Smelter](games/s/smelter.md) | 9.09% |
 | 15 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.57% |
 | 16 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
-| 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.12% |
+| 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.07% |
 | 18 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.83% |
 | 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.80% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
 | 22 | [Scorn](games/s/scorn.md) | 6.96% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 6.81% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 6.80% |
 | 24 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 25 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.71% |
@@ -49,7 +49,7 @@
 | 47 | [MultiVersus](games/m/multiversus.md) | 2.95% |
 | 48 | [Destiny 2](games/d/destiny_2.md) | 2.91% |
 | 49 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.90% |
-| 50 | [Lamentum](games/l/lamentum.md) | 2.87% |
+| 50 | [Lamentum](games/l/lamentum.md) | 2.86% |
 | 51 | [Bunny Park](games/b/bunny_park.md) | 2.84% |
 | 52 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.72% |
 | 53 | [FORECLOSED](games/f/foreclosed.md) | 2.60% |
