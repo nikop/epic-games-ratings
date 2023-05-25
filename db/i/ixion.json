@@ -1541,9 +1541,9 @@
       "ID": "ACH_BASE_4",
       "SetID": "92iocjf",
       "Name": "Gregor Spinoza",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_BASE_40",
@@ -1772,8 +1772,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-05-13T22:58:30.2604361+00:00",
-  "LastChanged_Achievements": "2023-05-25T06:05:20.7035249+00:00",
+  "LastChanged_Achievements": "2023-05-25T07:06:06.4046464+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.7103468+00:00",
-  "LastUpdate_Ratings": "2023-05-25T05:58:07.337901+00:00",
-  "LastUpdate_Achievements": "2023-05-25T06:05:20.7035902+00:00"
+  "LastUpdate_Ratings": "2023-05-25T06:58:39.6545441+00:00",
+  "LastUpdate_Achievements": "2023-05-25T07:06:06.4047092+00:00"
 }

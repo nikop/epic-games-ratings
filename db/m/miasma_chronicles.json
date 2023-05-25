@@ -397,9 +397,9 @@
       "ID": "FIRESTARTER",
       "SetID": "9a4jnji",
       "Name": "Firestarter",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "FIRST_BLOOD",
@@ -453,9 +453,9 @@
       "ID": "GUN_FOR_HIRE",
       "SetID": "9a4jnji",
       "Name": "Gun for Hire",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 146
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -589,7 +589,7 @@
       "ID": "TECHNOPHOBE",
       "SetID": "9a4jnji",
       "Name": "Technophobe",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -636,8 +636,8 @@
   ],
   "FirstSeen": "2023-05-23T20:58:17.8341975+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
-  "LastChanged_Achievements": "2023-05-25T06:05:13.3485743+00:00",
+  "LastChanged_Achievements": "2023-05-25T07:05:57.0148844+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:53.8503835+00:00",
-  "LastUpdate_Ratings": "2023-05-25T05:58:02.1804169+00:00",
-  "LastUpdate_Achievements": "2023-05-25T06:05:13.3486169+00:00"
+  "LastUpdate_Ratings": "2023-05-25T06:58:33.2980355+00:00",
+  "LastUpdate_Achievements": "2023-05-25T07:05:57.0149229+00:00"
 }

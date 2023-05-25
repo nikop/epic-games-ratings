@@ -15,6 +15,7 @@
 | Aquatic Expansion | 0.50% | ~2 |
 | Wise and Floofy | 0.50% | ~2 |
 | Four-Legged Friends | 0.50% | ~2 |
+| Folklore | 0.30% | ~1 |
 | From Beyond | 0.30% | ~1 |
 | Ocean Wings | 0.30% | ~1 |
 | Crimebusters of the Sea | 0.30% | ~1 |
@@ -28,7 +29,6 @@
 | Expert Raconteur | 0.00% | ~0 |
 | Town Roustabout | 0.00% | ~0 |
 | The Burden | 0.00% | ~0 |
-| Folklore | 0.00% | ~0 |
 | Culinary Arts | 0.00% | ~0 |
 | Like a Fairytale | 0.00% | ~0 |
 | From the Underworld | 0.00% | ~0 |

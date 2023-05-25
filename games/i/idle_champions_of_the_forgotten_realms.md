@@ -27,6 +27,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to the Rock | 0.20% | ~110 |
 | Beast Mode | 0.20% | ~177 |
 | Terror in the Dark | 0.20% | ~177 |
+| Low Initiative | 0.20% | ~177 |
 | A Mysterious Summons | 0.20% | ~177 |
 | Unearthed Evil | 0.20% | ~177 |
 | The Crumbling Temple | 0.20% | ~177 |
@@ -173,7 +174,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Home Field Advantage | 0.10% | ~89 |
 | Double Vision | 0.10% | ~89 |
 | Underground Railroad | 0.10% | ~89 |
-| Low Initiative | 0.10% | ~89 |
 | Street War | 0.10% | ~89 |
 | Force Grey Unleashed | 0.10% | ~89 |
 | Vajra's Guards | 0.10% | ~89 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.10% | ~89 |
 | Rescue in the Jungle | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,560 (Ranked 60)  
+Progressed: 88,564 (Ranked 60)  
 Completed: 1,877 (2.12%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -535,7 +535,7 @@ Completed: 1,877 (2.12%) (Ranked 62)
 | 2023-05-22 | 88,337 | 1,863 |
 | 2023-05-23 | 88,435 | 1,872 |
 | 2023-05-24 | 88,533 | 1,875 |
-| 2023-05-25 | 88,560 | 1,877 |
+| 2023-05-25 | 88,564 | 1,877 |
 ## Awards
 Max (Diverse Characters): 4,902  (Ranked 64)  
 Sum: 29,967 (Ranked 37)  

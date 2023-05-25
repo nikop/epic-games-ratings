@@ -7,9 +7,9 @@
 | First Blood | 88.00% | ~285 |
 | Ranidaphobia | 57.00% | ~185 |
 | Aspiring Editor | 52.00% | ~168 |
-| Gun for Hire | 44.00% | ~143 |
+| Gun for Hire | 45.00% | ~146 |
 | I am the law! | 25.00% | ~81 |
-| Firestarter | 9.00% | ~29 |
+| Firestarter | 10.00% | ~32 |
 | Lumberjack | 9.00% | ~29 |
 | Croaked | 6.00% | ~19 |
 | Limp Richard | 6.00% | ~19 |
@@ -24,9 +24,9 @@
 | Recycler | 2.00% | ~6 |
 | Sensei | 2.00% | ~6 |
 | Chain Killer | 1.00% | ~3 |
+| Technophobe | 1.00% | ~3 |
 | Chain Reaction | 0.90% | ~3 |
 | Curveball | 0.90% | ~3 |
-| Technophobe | 0.90% | ~3 |
 | There Can Be Only One! | 0.90% | ~3 |
 | Are you not entertained? | 0.60% | ~2 |
 | Ganglord | 0.60% | ~2 |

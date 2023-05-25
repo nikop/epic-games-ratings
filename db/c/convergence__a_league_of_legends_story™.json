@@ -19,9 +19,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 262,
+  "EOS_Progressed": 263,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 228,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -174,6 +174,11 @@
       "Time": "2023-05-25T06:04:32.9094443+00:00",
       "NumProgressed": 262,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T07:05:02.1728137+00:00",
+      "NumProgressed": 263,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 53,
@@ -191,9 +196,9 @@
       "ID": "CamilleDefeated",
       "SetID": "a9e499d",
       "Name": "The Steel Shadow",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 45
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -201,7 +206,7 @@
       "Name": "Chaincrawler Explorer",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ChestCompletion1",
@@ -241,7 +246,7 @@
       "Name": "Clovemary for Remembering",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "CosmeticCompletion1",
@@ -303,9 +308,9 @@
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 176
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -321,7 +326,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "GadgetCompletion1",
@@ -345,7 +350,7 @@
       "Name": "Rail Rat",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "HexlockGift",
@@ -425,7 +430,7 @@
       "Name": "Time Flies",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ParryBoss",
@@ -439,17 +444,17 @@
       "ID": "ParryRepeated1",
       "SetID": "a9e499d",
       "Name": "No, Thanks!",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 97
     },
     {
       "ID": "PhaseDiveCounter",
       "SetID": "a9e499d",
       "Name": "Breaking Down Barriers",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 66
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -465,7 +470,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "RewindDamage1",
@@ -473,7 +478,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "RewindParry",
@@ -495,9 +500,9 @@
       "ID": "ScrambotProgress1",
       "SetID": "a9e499d",
       "Name": "Golem Chaser",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 45
     },
     {
       "ID": "SkillCompletion1",
@@ -559,9 +564,9 @@
       "ID": "TimewinderMultiKill1",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 121
     },
     {
       "ID": "WarwickDefeated",
@@ -608,14 +613,14 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 262,
+      "Progressed": 263,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-05-25T06:04:32.9094437+00:00",
+  "LastChanged_Achievements": "2023-05-25T07:05:02.1728133+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:56.3426004+00:00",
-  "LastUpdate_Ratings": "2023-05-25T05:58:59.6830162+00:00",
-  "LastUpdate_Achievements": "2023-05-25T06:04:32.9094914+00:00"
+  "LastUpdate_Ratings": "2023-05-25T06:59:49.0647661+00:00",
+  "LastUpdate_Achievements": "2023-05-25T07:05:02.1728556+00:00"
 }

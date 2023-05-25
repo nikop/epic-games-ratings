@@ -2510,9 +2510,9 @@
       "Count": 369
     }
   ],
-  "EOS_Progressed": 9167,
+  "EOS_Progressed": 9168,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 315,
+  "EOS_NewPlayers": 314,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4460,6 +4460,11 @@
       "Time": "2023-05-25T05:06:37.5566806+00:00",
       "NumProgressed": 9167,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T07:06:42.0247568+00:00",
+      "NumProgressed": 9168,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -4471,7 +4476,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1283
+      "UsersEstimate": 1284
     },
     {
       "ID": "02_BurningCity",
@@ -5343,7 +5348,7 @@
       "Name": "Stay Underground",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "DLC4_24_Hanged Man\u0027s Notes",
@@ -5359,7 +5364,7 @@
       "Name": "Sarkoris Will Be Green",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "DLC4_26_This Wall Won\u0027t Fall",
@@ -5398,21 +5403,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7949,
+      "Progressed": 7950,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9167,
+      "Progressed": 9168,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-24T20:58:21.0915189+00:00",
-  "LastChanged_Achievements": "2023-05-25T06:05:49.0695242+00:00",
+  "LastChanged_Achievements": "2023-05-25T07:06:42.0247565+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3010226+00:00",
-  "LastUpdate_Ratings": "2023-05-25T05:58:00.8764719+00:00",
-  "LastUpdate_Achievements": "2023-05-25T06:05:49.0696983+00:00"
+  "LastUpdate_Ratings": "2023-05-25T06:58:31.6956084+00:00",
+  "LastUpdate_Achievements": "2023-05-25T07:06:42.0249263+00:00"
 }

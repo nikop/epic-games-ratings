@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 185,
+  "EOS_Progressed": 186,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
@@ -289,6 +289,11 @@
       "Time": "2023-05-25T02:05:43.4053698+00:00",
       "NumProgressed": 185,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-25T07:06:10.1619988+00:00",
+      "NumProgressed": 186,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -300,15 +305,15 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 57,
       "XP": 60,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "completeact2",
       "SetID": "40n95i5",
       "Name": "Conspiracy Theorist",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 80,
-      "UsersEstimate": 91
+      "UsersEstimate": 89
     },
     {
       "ID": "completeact3",
@@ -316,7 +321,7 @@
       "Name": "On the Road",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "findalltapes",
@@ -419,7 +424,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 185,
+      "Progressed": 186,
       "Completed": 2
     }
   ],
@@ -427,8 +432,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-05-25T06:05:23.5230979+00:00",
+  "LastChanged_Achievements": "2023-05-25T07:06:10.1619983+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:05.0477946+00:00",
-  "LastUpdate_Ratings": "2023-05-25T05:58:27.1218872+00:00",
-  "LastUpdate_Achievements": "2023-05-25T06:05:23.5231102+00:00"
+  "LastUpdate_Ratings": "2023-05-25T06:59:05.4181074+00:00",
+  "LastUpdate_Achievements": "2023-05-25T07:06:10.1620108+00:00"
 }

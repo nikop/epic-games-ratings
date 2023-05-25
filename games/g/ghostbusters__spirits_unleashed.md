@@ -5,19 +5,19 @@ Rating: 4.49 (Ranked 557)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 86.00% | ~19,086 |
-| Advancement | 73.00% | ~16,201 |
+| Stylish | 86.00% | ~19,087 |
+| Advancement | 73.00% | ~16,202 |
 | Meticulously Efficient | 64.00% | ~14,204 |
 | Discovery | 62.00% | ~13,760 |
-| Swift Rift Removers | 56.00% | ~12,428 |
-| Fully Upgraded | 55.00% | ~12,206 |
-| Cultured | 53.00% | ~11,762 |
-| I collect Spores, Molds, and Fungi | 52.00% | ~11,540 |
+| Swift Rift Removers | 56.00% | ~12,429 |
+| Fully Upgraded | 55.00% | ~12,207 |
+| Cultured | 53.00% | ~11,763 |
+| I collect Spores, Molds, and Fungi | 52.00% | ~11,541 |
 | Vaporous Expansion | 49.00% | ~10,875 |
 | Teamwork | 45.00% | ~9,987 |
 | There you are! | 44.00% | ~9,765 |
-| Clutch Capture | 41.00% | ~9,099 |
-| Back Off | 36.00% | ~7,989 |
+| Clutch Capture | 41.00% | ~9,100 |
+| Back Off | 36.00% | ~7,990 |
 | Daily Dose | 35.00% | ~7,768 |
 | Welcome to the Crew | 33.00% | ~7,324 |
 | Solo Capture | 32.00% | ~7,102 |
@@ -32,8 +32,8 @@ Rating: 4.49 (Ranked 557)
 | Pesky Jerks | 26.00% | ~5,770 |
 | Animated | 25.00% | ~5,548 |
 | Skilled | 25.00% | ~5,548 |
-| Collector | 24.00% | ~5,326 |
-| Ectoplasmic Entity | 24.00% | ~5,326 |
+| Collector | 24.00% | ~5,327 |
+| Ectoplasmic Entity | 24.00% | ~5,327 |
 | Rift Destroyer | 20.00% | ~4,439 |
 | Tobin's Prodigy | 19.00% | ~4,217 |
 | Reckless | 18.00% | ~3,995 |
@@ -57,7 +57,7 @@ Rating: 4.49 (Ranked 557)
 | I don't need these | 1.00% | ~222 |
 | Mycophile | 1.00% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,193 (Ranked 91)  
+Progressed: 22,194 (Ranked 91)  
 Completed: 40 (0.18%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 40 (0.18%) (Ranked 143)
 | 2023-05-22 | 22,138 | 40 |
 | 2023-05-23 | 22,158 | 40 |
 | 2023-05-24 | 22,181 | 40 |
-| 2023-05-25 | 22,193 | 40 |
+| 2023-05-25 | 22,194 | 40 |
 ## Awards
 Max (Great for Quick Sessions): 231  (Ranked 246)  
 Sum: 2,082 (Ranked 183)  

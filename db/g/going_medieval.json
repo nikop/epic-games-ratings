@@ -988,7 +988,7 @@
   ],
   "EOS_Progressed": 2697,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1287,9 +1287,9 @@
       "ID": "HARVEST_CROPS_200",
       "SetID": "5349c2e",
       "Name": "Green Thumb",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1726
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -1335,9 +1335,9 @@
       "ID": "HUNT_RABBIT_20",
       "SetID": "5349c2e",
       "Name": "Wabbit Season",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     },
     {
       "ID": "HUNT_RABBIT_5",
@@ -1511,8 +1511,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-05-20T17:59:42.2266886+00:00",
-  "LastChanged_Achievements": "2023-05-25T06:05:35.0460743+00:00",
+  "LastChanged_Achievements": "2023-05-25T07:06:24.5906455+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:15.8703194+00:00",
-  "LastUpdate_Ratings": "2023-05-25T05:59:18.6746737+00:00",
-  "LastUpdate_Achievements": "2023-05-25T06:05:35.0460972+00:00"
+  "LastUpdate_Ratings": "2023-05-25T07:00:15.8794978+00:00",
+  "LastUpdate_Achievements": "2023-05-25T07:06:24.5906693+00:00"
 }

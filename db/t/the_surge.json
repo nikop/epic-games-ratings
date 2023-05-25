@@ -313,9 +313,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 4266,
+  "EOS_Progressed": 4267,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -663,6 +663,11 @@
       "Time": "2023-05-25T05:05:54.2902749+00:00",
       "NumProgressed": 4266,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-05-25T07:06:09.0658275+00:00",
+      "NumProgressed": 4267,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 67,
@@ -674,7 +679,7 @@
       "Name": "P.A.X",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1578
+      "UsersEstimate": 1579
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -722,7 +727,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 3583
+      "UsersEstimate": 3584
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -730,7 +735,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4010
+      "UsersEstimate": 4011
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -738,7 +743,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3285
+      "UsersEstimate": 3286
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -890,7 +895,7 @@
       "Name": "First Day on the Job",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3242
+      "UsersEstimate": 3243
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -1209,15 +1214,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4266,
+      "Progressed": 4267,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-05-23T01:58:51.2287865+00:00",
-  "LastChanged_Achievements": "2023-05-25T06:05:22.7184255+00:00",
+  "LastChanged_Achievements": "2023-05-25T07:06:09.0658268+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.3215176+00:00",
-  "LastUpdate_Ratings": "2023-05-25T05:57:43.3446138+00:00",
-  "LastUpdate_Achievements": "2023-05-25T06:05:22.7184964+00:00"
+  "LastUpdate_Ratings": "2023-05-25T06:58:05.1980849+00:00",
+  "LastUpdate_Achievements": "2023-05-25T07:06:09.0658911+00:00"
 }

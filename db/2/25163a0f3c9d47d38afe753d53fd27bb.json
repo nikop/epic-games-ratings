@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 301,
+  "EOS_Progressed": 302,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 16,
-  "EOS_Completed_Percentage": 5.32,
+  "EOS_Completed_Percentage": 5.3,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -561,6 +561,11 @@
       "Time": "2023-05-25T03:02:37.1234527+00:00",
       "NumProgressed": 301,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-05-25T07:03:14.5969176+00:00",
+      "NumProgressed": 302,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 30,
@@ -572,7 +577,7 @@
       "Name": "A fresh start",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "LEVEL_002",
@@ -580,7 +585,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "LEVEL_003",
@@ -604,7 +609,7 @@
       "Name": "Small village",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "LEVEL_006",
@@ -612,23 +617,23 @@
       "Name": "Nothing like fresh food",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "LEVEL_007",
       "SetID": "212bg48",
       "Name": "Animals in the farm",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 100
     },
     {
       "ID": "LEVEL_008",
       "SetID": "212bg48",
       "Name": "Let\u0027s go to the market",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 91
     },
     {
       "ID": "LEVEL_009",
@@ -636,7 +641,7 @@
       "Name": "Going zig zag",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "LEVEL_010",
@@ -811,14 +816,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 301,
+      "Progressed": 302,
       "Completed": 16
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-25T06:03:21.3139013+00:00",
+  "LastChanged_Achievements": "2023-05-25T07:03:14.5969172+00:00",
   "LastUpdate_AppInfo": "2023-05-22T13:02:13.5547551+00:00",
-  "LastUpdate_Ratings": "2023-05-25T05:56:59.5086101+00:00",
-  "LastUpdate_Achievements": "2023-05-25T06:03:21.3139375+00:00"
+  "LastUpdate_Ratings": "2023-05-25T06:57:04.8133828+00:00",
+  "LastUpdate_Achievements": "2023-05-25T07:03:14.5969461+00:00"
 }

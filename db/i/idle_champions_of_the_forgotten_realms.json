@@ -3922,7 +3922,7 @@
       "Count": 3239
     }
   ],
-  "EOS_Progressed": 88560,
+  "EOS_Progressed": 88564,
   "EOS_Completed": 1877,
   "EOS_NewPlayers": 743,
   "EOS_NewCompleters": 28,
@@ -7292,6 +7292,11 @@
       "Time": "2023-05-25T06:05:52.4427131+00:00",
       "NumProgressed": 88560,
       "NumCompleted": 1877
+    },
+    {
+      "Time": "2023-05-25T07:06:45.1779563+00:00",
+      "NumProgressed": 88564,
+      "NumCompleted": 1877
     }
   ],
   "TotalAchievements": 493,
@@ -8485,9 +8490,9 @@
       "ID": "objective_completed_16",
       "SetID": "cc37lbc",
       "Name": "Low Initiative",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_164",
@@ -11246,21 +11251,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54834,
-      "Completed": 2696
+      "Progressed": 54838,
+      "Completed": 2697
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88560,
+      "Progressed": 88564,
       "Completed": 1877
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-25T04:58:06.0839905+00:00",
-  "LastChanged_Achievements": "2023-05-25T06:05:52.4427126+00:00",
+  "LastChanged_Achievements": "2023-05-25T07:06:45.1779558+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-25T05:57:48.3016675+00:00",
-  "LastUpdate_Achievements": "2023-05-25T06:05:52.4450485+00:00"
+  "LastUpdate_Ratings": "2023-05-25T06:58:13.1321121+00:00",
+  "LastUpdate_Achievements": "2023-05-25T07:06:45.180317+00:00"
 }

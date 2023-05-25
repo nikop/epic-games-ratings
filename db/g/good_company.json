@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4829,
+  "EOS_Progressed": 4830,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -929,6 +929,11 @@
       "Time": "2023-05-25T02:06:00.3209741+00:00",
       "NumProgressed": 4829,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-25T07:06:31.0446829+00:00",
+      "NumProgressed": 4830,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -996,7 +1001,7 @@
       "Name": "Level: Charlie\u0027s Circuits",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "ach_campaign_progress10",
@@ -1052,7 +1057,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2366
+      "UsersEstimate": 2367
     },
     {
       "ID": "ach_campaign_progress6",
@@ -1092,7 +1097,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "ach_campaign_special10",
@@ -1372,7 +1377,7 @@
       "Name": "Data Churn Type II",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ach_frp_researchdata3",
@@ -1532,7 +1537,7 @@
       "Name": "Speedy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ach_trait_overload",
@@ -1547,15 +1552,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4829,
+      "Progressed": 4830,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-05-25T06:05:40.3160033+00:00",
+  "LastChanged_Achievements": "2023-05-25T07:06:31.0446821+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:17.17846+00:00",
-  "LastUpdate_Ratings": "2023-05-25T05:58:34.6669368+00:00",
-  "LastUpdate_Achievements": "2023-05-25T06:05:40.3160929+00:00"
+  "LastUpdate_Ratings": "2023-05-25T06:59:16.5623788+00:00",
+  "LastUpdate_Achievements": "2023-05-25T07:06:31.0447678+00:00"
 }

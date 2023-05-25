@@ -2,9 +2,9 @@
   "ID": "4acc3c00b76e48dca196601dfe1940fc",
   "Name": "Gripper",
   "ProductSlug": "gripper-a6534b",
-  "Ranking_EOS_Progress": 308,
+  "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-03-29T13:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 32,
+  "EOS_Progressed": 33,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -92,6 +92,11 @@
     {
       "Time": "2023-05-25T02:05:36.8387568+00:00",
       "NumProgressed": 32,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T07:06:01.7820044+00:00",
+      "NumProgressed": 33,
       "NumCompleted": 0
     }
   ],
@@ -206,7 +211,7 @@
       "ID": "ach_rip_parts_shock",
       "SetID": "7flpkel",
       "Name": "Robolimb Ripper",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -230,7 +235,7 @@
       "ID": "ach_skin_changer",
       "SetID": "7flpkel",
       "Name": "Skinner",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
       "UsersEstimate": 17
     },
@@ -294,7 +299,7 @@
       "ID": "ach_win_anger",
       "SetID": "7flpkel",
       "Name": "Deal with Anger",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -342,7 +347,7 @@
       "ID": "ach_win_depression",
       "SetID": "7flpkel",
       "Name": "Deal with Depression",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -350,7 +355,7 @@
       "ID": "ach_win_shock",
       "SetID": "7flpkel",
       "Name": "Deal with Shock",
-      "Percentage": 63,
+      "Percentage": 61,
       "XP": 10,
       "UsersEstimate": 20
     },
@@ -383,7 +388,7 @@
     {
       "ID": "7flpkel",
       "IsBase": true,
-      "Progressed": 32,
+      "Progressed": 33,
       "Completed": 0
     }
   ],
@@ -391,8 +396,8 @@
   "FirstSeenRating": "2023-04-12T09:57:52.0824797+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.9769729+00:00",
   "LastChanged": "2023-04-12T09:57:52.0824798+00:00",
-  "LastChanged_Achievements": "2023-05-25T06:05:17.0052394+00:00",
+  "LastChanged_Achievements": "2023-05-25T07:06:01.7820041+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:42.5401332+00:00",
-  "LastUpdate_Ratings": "2023-05-25T05:57:51.2457033+00:00",
-  "LastUpdate_Achievements": "2023-05-25T06:05:17.0052615+00:00"
+  "LastUpdate_Ratings": "2023-05-25T06:58:18.6902358+00:00",
+  "LastUpdate_Achievements": "2023-05-25T07:06:01.7820344+00:00"
 }

@@ -568,7 +568,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3733,
+  "EOS_Progressed": 3734,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 0,
@@ -1768,6 +1768,11 @@
       "Time": "2023-05-25T06:02:15.1522217+00:00",
       "NumProgressed": 3733,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T07:02:20.4056761+00:00",
+      "NumProgressed": 3734,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -1795,7 +1800,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 2314
+      "UsersEstimate": 2315
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -1803,7 +1808,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -1819,7 +1824,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1978
+      "UsersEstimate": 1979
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -1827,7 +1832,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -1835,7 +1840,7 @@
       "Name": "Scaling up",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 1717
+      "UsersEstimate": 1718
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -1843,7 +1848,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -1851,7 +1856,7 @@
       "Name": "License to Gill",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 1157
+      "UsersEstimate": 1158
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -1883,7 +1888,7 @@
       "Name": "Goldfish?",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -1929,9 +1934,9 @@
       "ID": "ACHIEVEMENT_020",
       "SetID": "1a05lfd",
       "Name": "Marathon",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 299
+      "UsersEstimate": 261
     },
     {
       "ID": "ACHIEVEMENT_021",
@@ -2017,9 +2022,9 @@
       "ID": "ACHIEVEMENT_032",
       "SetID": "6jk25od",
       "Name": "Rod and Troll",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 31
     },
     {
       "ID": "ACHIEVEMENT_033",
@@ -2058,13 +2063,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 3733,
+      "Progressed": 3734,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3105,
+      "Progressed": 3106,
       "Completed": 112
     }
   ],
@@ -2072,8 +2077,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-05-14T03:00:04.4008144+00:00",
-  "LastChanged_Achievements": "2023-05-25T06:02:15.1522199+00:00",
+  "LastChanged_Achievements": "2023-05-25T07:02:20.4056757+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:23.9987618+00:00",
-  "LastUpdate_Ratings": "2023-05-25T05:59:18.1950184+00:00",
-  "LastUpdate_Achievements": "2023-05-25T06:02:15.1522554+00:00"
+  "LastUpdate_Ratings": "2023-05-25T07:00:15.1626614+00:00",
+  "LastUpdate_Achievements": "2023-05-25T07:02:20.4057076+00:00"
 }
