@@ -10,35 +10,35 @@
 | That's what cheese said! | 84.00% | ~51 |
 | I like you...but I have to kill you... | 82.00% | ~50 |
 | AHHHHHH.....I'M ON FIRE!!! | 80.00% | ~49 |
+| Not so hip anymore! | 80.00% | ~49 |
 | Nerd | 80.00% | ~49 |
-| Not so hip anymore! | 79.00% | ~48 |
-| Blurry depth perception | 75.00% | ~46 |
-| Up and down | 72.00% | ~44 |
-| Rolling, Rolling, Rolling | 69.00% | ~42 |
-| Fire-fighter! | 59.00% | ~36 |
-| Make Love not War-Craft a Mistlefoe | 57.00% | ~35 |
-| Oh, you're up to no gouda! | 56.00% | ~34 |
-| Meat grinder | 52.00% | ~32 |
-| Butcher | 46.00% | ~28 |
-| You're not going to blow me up! | 46.00% | ~28 |
-| Mushroom soup of the day | 43.00% | ~26 |
-| Spare Ribs | 43.00% | ~26 |
-| Honk honk! | 41.00% | ~25 |
+| Blurry depth perception | 77.00% | ~47 |
+| Up and down | 74.00% | ~45 |
+| Rolling, Rolling, Rolling | 70.00% | ~43 |
+| Fire-fighter! | 61.00% | ~37 |
+| Make Love not War-Craft a Mistlefoe | 59.00% | ~36 |
+| Oh, you're up to no gouda! | 57.00% | ~35 |
+| Meat grinder | 54.00% | ~33 |
+| Butcher | 48.00% | ~29 |
+| You're not going to blow me up! | 48.00% | ~29 |
+| Mushroom soup of the day | 44.00% | ~27 |
+| Spare Ribs | 44.00% | ~27 |
+| Honk honk! | 43.00% | ~26 |
 | My pants squeak when I walk | 41.00% | ~25 |
+| Thats disgusting! | 39.00% | ~24 |
+| Cockadoodledoo! | 39.00% | ~24 |
 | Surprise!! | 38.00% | ~23 |
-| Thats disgusting! | 38.00% | ~23 |
-| Cockadoodledoo! | 38.00% | ~23 |
 | Make America Grate Again | 34.00% | ~21 |
-| Self assessed tax return | 33.00% | ~20 |
+| Self assessed tax return | 34.00% | ~21 |
 | Karaoke king | 31.00% | ~19 |
+| Haemochromatosis | 31.00% | ~19 |
 | You are no match for me, Billy! | 30.00% | ~18 |
+| Catch the bus with me! | 30.00% | ~18 |
 | You can't stop me, bro! | 30.00% | ~18 |
-| Haemochromatosis | 30.00% | ~18 |
 | Pasta Bolognese | 30.00% | ~18 |
-| Catch the bus with me! | 28.00% | ~17 |
 | Meatballs, coming up! | 26.00% | ~16 |
 | I'm going to get a concussion | 26.00% | ~16 |
-| Another one bites the iron | 23.00% | ~14 |
+| Another one bites the iron | 25.00% | ~15 |
 | A Megapint...? | 21.00% | ~13 |
 | Hovering around | 20.00% | ~12 |
 | Ripe Meat Off The Bone! | 18.00% | ~11 |

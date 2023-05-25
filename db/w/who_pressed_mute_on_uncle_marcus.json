@@ -2,10 +2,10 @@
   "ID": "5f3452bade6849f4981ca2bcaaec5505",
   "Name": "Who Pressed Mute on Uncle Marcus?",
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
-  "Ranking_EOS_Progress": 246,
+  "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 17,
   "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
     "PcReleaseDate": "2022-03-18T05:00:00+00:00",
@@ -266,8 +266,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-05-25T20:06:18.3501153+00:00",
+  "LastChanged_Achievements": "2023-05-25T21:05:37.2445237+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:45.4038684+00:00",
-  "LastUpdate_Ratings": "2023-05-25T20:00:19.6095598+00:00",
-  "LastUpdate_Achievements": "2023-05-25T20:06:18.3501262+00:00"
+  "LastUpdate_Ratings": "2023-05-25T20:59:41.7010015+00:00",
+  "LastUpdate_Achievements": "2023-05-25T21:05:37.2445311+00:00"
 }

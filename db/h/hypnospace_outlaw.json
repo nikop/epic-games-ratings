@@ -2,9 +2,9 @@
   "ID": "e77abc76f8774d2084feb5e535a7863c",
   "Name": "Hypnospace Outlaw",
   "ProductSlug": "hypnospace-outlaw",
-  "Ranking_EOS_Progress": 420,
+  "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2021-03-26T16:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:27.4762469+00:00",
   "LastChanged": "2023-03-31T05:58:27.476247+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:44.5603493+00:00",
-  "LastUpdate_Ratings": "2023-05-25T20:00:04.6546758+00:00",
-  "LastUpdate_Achievements": "2023-05-25T20:04:33.8389039+00:00"
+  "LastUpdate_Ratings": "2023-05-25T20:59:29.7182773+00:00",
+  "LastUpdate_Achievements": "2023-05-25T21:04:08.7829138+00:00"
 }

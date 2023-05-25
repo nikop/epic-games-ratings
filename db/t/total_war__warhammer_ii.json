@@ -4,10 +4,10 @@
   "ProductSlug": "total-war-warhammer-ii",
   "Ranking_Rating": 193,
   "Ranking_Popularity": 69,
-  "Ranking_PopularitySum": 66,
-  "Ranking_EOS_Progress": 420,
+  "Ranking_PopularitySum": 65,
+  "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-04-28T14:00:00+00:00",
@@ -2849,24 +2849,30 @@
       "Rating": 4.7,
       "NumberOfAwards": 13437,
       "NumberOfAwardsMax": 4303
+    },
+    {
+      "Time": "2023-05-25T20:57:22.5548693+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 13445,
+      "NumberOfAwardsMax": 4307
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13437,
-  "NumberOfAwardsMax": 4303,
+  "NumberOfAwards": 13445,
+  "NumberOfAwardsMax": 4307,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 4303
+      "Count": 4307
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1086
+      "Count": 1088
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2920,7 +2926,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 663
+      "Count": 665
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2946,8 +2952,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:56.1200636+00:00",
-  "LastChanged": "2023-05-25T14:57:24.7283111+00:00",
+  "LastChanged": "2023-05-25T20:57:22.5548692+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:02.0252233+00:00",
-  "LastUpdate_Ratings": "2023-05-25T19:57:31.8238764+00:00",
-  "LastUpdate_Achievements": "2023-05-25T20:03:40.7732633+00:00"
+  "LastUpdate_Ratings": "2023-05-25T20:57:22.5548697+00:00",
+  "LastUpdate_Achievements": "2023-05-25T21:03:23.9574522+00:00"
 }

@@ -5,54 +5,54 @@ Rating: 4.54 (Ranked 481)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hotel California | 89.00% | ~465,652 |
-| Break A Leg | 86.00% | ~449,956 |
-| Hazardous Materials | 79.00% | ~413,332 |
-| Personal Assistant Personally Assisted | 74.00% | ~387,172 |
-| Coup de Grâce | 73.00% | ~381,940 |
-| Git Gutte! | 72.00% | ~376,708 |
-| Apex Predator | 68.00% | ~355,779 |
-| Friends Like These | 65.00% | ~340,083 |
-| Bookworm | 60.00% | ~313,923 |
-| Dr. Reed, I Presume? | 57.00% | ~298,227 |
-| Stacking the Deck | 57.00% | ~298,227 |
-| I Got a Zombie Army and You Can't Harm Me | 55.00% | ~287,763 |
-| This is My Weapon | 55.00% | ~287,763 |
-| Welcome To Hell-A | 50.00% | ~261,602 |
-| But Doctor, I am Butcho | 46.00% | ~240,674 |
-| Anger Management | 42.00% | ~219,746 |
-| Perks of the Job | 42.00% | ~219,746 |
-| Can't Handle the Truth | 42.00% | ~219,746 |
-| Making Your Mark | 41.00% | ~214,514 |
-| Like Riding a Bike | 40.00% | ~209,282 |
-| Slayer Squad | 39.00% | ~204,050 |
-| Zombologist | 38.00% | ~198,818 |
-| Ooh, Shiny! | 38.00% | ~198,818 |
-| A Patton Emerges | 38.00% | ~198,818 |
-| Our True Nature | 37.00% | ~193,586 |
-| Humanity Distilled | 36.00% | ~188,354 |
-| I Am the Resurrection | 32.00% | ~167,426 |
-| Jumbo Keyring | 26.00% | ~136,033 |
-| Down with the Sickness | 26.00% | ~136,033 |
-| Rising Star | 26.00% | ~136,033 |
-| Go, Bobcats! | 25.00% | ~130,801 |
-| Smorgasbord | 17.00% | ~88,945 |
-| Internet Famous | 17.00% | ~88,945 |
-| Make it So | 14.00% | ~73,249 |
-| On Safari | 12.00% | ~62,785 |
-| Not Even My Final Form | 12.00% | ~62,785 |
-| Max Headroom | 12.00% | ~62,785 |
-| Gore Horse | 11.00% | ~57,553 |
-| LA Influential | 10.00% | ~52,320 |
-| Sharpest Tool in the Box | 10.00% | ~52,320 |
-| Sole Survivor | 8.00% | ~41,856 |
-| Variety is the Spice of Death | 7.00% | ~36,624 |
-| Survival Skills | 5.00% | ~26,160 |
-| Donk! | 4.00% | ~20,928 |
-| Zombicidal Maniac | 1.00% | ~5,232 |
+| Hotel California | 89.00% | ~465,734 |
+| Break A Leg | 86.00% | ~450,035 |
+| Hazardous Materials | 79.00% | ~413,405 |
+| Personal Assistant Personally Assisted | 74.00% | ~387,240 |
+| Coup de Grâce | 73.00% | ~382,007 |
+| Git Gutte! | 72.00% | ~376,774 |
+| Apex Predator | 68.00% | ~355,842 |
+| Friends Like These | 65.00% | ~340,143 |
+| Bookworm | 60.00% | ~313,978 |
+| Dr. Reed, I Presume? | 57.00% | ~298,279 |
+| Stacking the Deck | 57.00% | ~298,279 |
+| I Got a Zombie Army and You Can't Harm Me | 55.00% | ~287,813 |
+| This is My Weapon | 55.00% | ~287,813 |
+| Welcome To Hell-A | 50.00% | ~261,648 |
+| But Doctor, I am Butcho | 46.00% | ~240,717 |
+| Anger Management | 42.00% | ~219,785 |
+| Perks of the Job | 42.00% | ~219,785 |
+| Can't Handle the Truth | 42.00% | ~219,785 |
+| Making Your Mark | 41.00% | ~214,552 |
+| Like Riding a Bike | 40.00% | ~209,319 |
+| Slayer Squad | 39.00% | ~204,086 |
+| Zombologist | 38.00% | ~198,853 |
+| Ooh, Shiny! | 38.00% | ~198,853 |
+| A Patton Emerges | 38.00% | ~198,853 |
+| Our True Nature | 37.00% | ~193,620 |
+| Humanity Distilled | 36.00% | ~188,387 |
+| I Am the Resurrection | 32.00% | ~167,455 |
+| Jumbo Keyring | 26.00% | ~136,057 |
+| Down with the Sickness | 26.00% | ~136,057 |
+| Rising Star | 26.00% | ~136,057 |
+| Go, Bobcats! | 25.00% | ~130,824 |
+| Smorgasbord | 17.00% | ~88,960 |
+| Internet Famous | 17.00% | ~88,960 |
+| Make it So | 14.00% | ~73,262 |
+| On Safari | 12.00% | ~62,796 |
+| Not Even My Final Form | 12.00% | ~62,796 |
+| Max Headroom | 12.00% | ~62,796 |
+| Gore Horse | 11.00% | ~57,563 |
+| LA Influential | 10.00% | ~52,330 |
+| Sharpest Tool in the Box | 10.00% | ~52,330 |
+| Sole Survivor | 8.00% | ~41,864 |
+| Variety is the Spice of Death | 7.00% | ~36,631 |
+| Survival Skills | 5.00% | ~26,165 |
+| Donk! | 4.00% | ~20,932 |
+| Zombicidal Maniac | 1.00% | ~5,233 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 523,205 (Ranked 23)  
-Completed: 1,439 (0.28%) (Ranked 129)  
+Progressed: 523,297 (Ranked 23)  
+Completed: 1,441 (0.28%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -86,7 +86,7 @@ Completed: 1,439 (0.28%) (Ranked 129)
 | 2023-05-22 | 519,228 | 1,396 |
 | 2023-05-23 | 520,625 | 1,409 |
 | 2023-05-24 | 522,032 | 1,424 |
-| 2023-05-25 | 523,205 | 1,439 |
+| 2023-05-25 | 523,297 | 1,441 |
 ## Awards
 Max (Great Boss Battles): 3,828  (Ranked 76)  
 Sum: 5,388 (Ranked 119)  

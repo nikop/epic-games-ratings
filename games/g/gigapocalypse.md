@@ -8,8 +8,8 @@
 | Caretaker | 82.00% | ~102 |
 | Feng Shui | 70.00% | ~87 |
 | Who's A Good Boy | 68.00% | ~84 |
-| Power Up | 67.00% | ~83 |
-| Thick Skin | 65.00% | ~81 |
+| Power Up | 68.00% | ~84 |
+| Thick Skin | 66.00% | ~82 |
 | Math Wizard | 61.00% | ~76 |
 | Power Overload | 61.00% | ~76 |
 | Destroy Erase Improve | 60.00% | ~74 |
@@ -24,8 +24,8 @@
 | The Duelist | 35.00% | ~43 |
 | Meat Larder | 35.00% | ~43 |
 | Mutant And Proud | 34.00% | ~42 |
+| The Emperor's New Clothes | 28.00% | ~35 |
 | Happy Little Home | 28.00% | ~35 |
-| The Emperor's New Clothes | 27.00% | ~33 |
 | Godlike Power | 27.00% | ~33 |
 | Final Evolution | 27.00% | ~33 |
 | Supremacy | 26.00% | ~32 |

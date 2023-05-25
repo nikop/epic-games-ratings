@@ -55,10 +55,10 @@ Number of Ratings: 87  (23.09.2022)
 | Vandal | 1.00% | ~7 |
 | Astronomer | 0.80% | ~6 |
 | Atomic Age | 0.80% | ~0 |
+| Digital Age | 0.80% | ~0 |
 | Information Age | 0.80% | ~0 |
 | Innovator | 0.80% | ~6 |
 | Woodcutter | 0.80% | ~6 |
-| Digital Age | 0.70% | ~0 |
 | Miscalculation | 0.70% | ~5 |
 | Railroad tycoon | 0.70% | ~5 |
 | Vostok | 0.70% | ~0 |
@@ -69,13 +69,13 @@ Number of Ratings: 87  (23.09.2022)
 | Metro builder | 0.40% | ~3 |
 | Space Age | 0.40% | ~3 |
 | Alchemist | 0.30% | ~2 |
+| Arcturus | 0.30% | ~0 |
 | Astrophysicist | 0.30% | ~2 |
 | It's no coincidence | 0.30% | ~2 |
 | The Hare | 0.30% | ~2 |
 | Tourism Age | 0.30% | ~2 |
 | Urbanization Age | 0.30% | ~2 |
 | Voyager | 0.30% | ~2 |
-| Arcturus | 0.10% | ~0 |
 | Highlander | 0.10% | ~1 |
 | The Hare with an espresso | 0.10% | ~1 |
 | Forgotten | 0.00% | ~0 |

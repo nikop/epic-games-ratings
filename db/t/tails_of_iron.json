@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1464,
+  "EOS_Progressed": 1465,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -700,6 +700,11 @@
       "Time": "2023-05-25T19:02:18.3272086+00:00",
       "NumProgressed": 1464,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-25T21:02:11.9519005+00:00",
+      "NumProgressed": 1465,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -711,7 +716,7 @@
       "Name": "Become King",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "Collect20Gold",
@@ -735,7 +740,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "CollectAllStatues",
@@ -743,7 +748,7 @@
       "Name": "Return the Statues",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "CollectAllWeaponsAndGear",
@@ -751,7 +756,7 @@
       "Name": "Complete Redgi\u0027s Armory",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "CompleteAll",
@@ -783,7 +788,7 @@
       "Name": "Complete Elder Faction",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "CompleteGuardFaction",
@@ -791,15 +796,15 @@
       "Name": "Complete Guard Faction",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1127
+      "UsersEstimate": 1128
     },
     {
       "ID": "CompleteHunterFaction",
       "SetID": "9lj35g4",
       "Name": "Complete Ranger Faction",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 278
+      "UsersEstimate": 293
     },
     {
       "ID": "CompleteStoryDM",
@@ -823,7 +828,7 @@
       "Name": "End of the Mozis",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -831,7 +836,7 @@
       "Name": "Defeat Ratnor Rodentson",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -839,7 +844,7 @@
       "Name": "Defeat Rattus Augustail",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "FixTheTravellersWagon",
@@ -847,7 +852,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "GetRangedWeapon",
@@ -911,7 +916,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "RepairSmith",
@@ -927,7 +932,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "RescueBrothers",
@@ -935,7 +940,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "ReturnPowerInMines",
@@ -950,22 +955,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1464,
+      "Progressed": 1465,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 105,
-      "Completed": 105
+      "Progressed": 106,
+      "Completed": 106
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-04-02T20:59:05.8070796+00:00",
-  "LastChanged_Achievements": "2023-05-25T20:02:19.9302291+00:00",
+  "LastChanged_Achievements": "2023-05-25T21:02:11.9519003+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3670256+00:00",
-  "LastUpdate_Ratings": "2023-05-25T19:58:29.1005686+00:00",
-  "LastUpdate_Achievements": "2023-05-25T20:02:19.9302489+00:00"
+  "LastUpdate_Ratings": "2023-05-25T20:58:08.2791558+00:00",
+  "LastUpdate_Achievements": "2023-05-25T21:02:11.9519205+00:00"
 }

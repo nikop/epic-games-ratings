@@ -4,8 +4,8 @@
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 234,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 5.13,
   "EosHistory": [
@@ -576,9 +576,9 @@
       "ID": "MQ01_2",
       "SetID": "bbing49",
       "Name": "To Hell In A Handcart",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 40,
-      "UsersEstimate": 154
+      "UsersEstimate": 157
     },
     {
       "ID": "MQ02_1",
@@ -616,9 +616,9 @@
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 119
     },
     {
       "ID": "MQ03_2",
@@ -704,9 +704,9 @@
       "ID": "MQ05_4",
       "SetID": "bbing49",
       "Name": "Knives Out",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 98
+      "UsersEstimate": 101
     },
     {
       "ID": "MQ06_1",
@@ -720,9 +720,9 @@
       "ID": "MQ06_2",
       "SetID": "bbing49",
       "Name": "Bookworm",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 84
     },
     {
       "ID": "MQ06_3",
@@ -801,8 +801,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-25T20:03:29.0991056+00:00",
+  "LastChanged_Achievements": "2023-05-25T21:03:14.18854+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.473335+00:00",
-  "LastUpdate_Ratings": "2023-05-25T19:57:15.198992+00:00",
-  "LastUpdate_Achievements": "2023-05-25T20:03:29.0991236+00:00"
+  "LastUpdate_Ratings": "2023-05-25T20:57:05.9690323+00:00",
+  "LastUpdate_Achievements": "2023-05-25T21:03:14.1885867+00:00"
 }

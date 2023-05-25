@@ -2,9 +2,9 @@
   "ID": "00bdf6e4858042a0ba63dc87a9b31c87",
   "Name": "HumanitZ",
   "ProductSlug": "humanitz-ce3b70",
-  "Ranking_EOS_Progress": 420,
+  "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-19T18:59:57.8406458+00:00",
-  "LastUpdate_Ratings": "2023-05-25T19:58:30.222746+00:00",
-  "LastUpdate_Achievements": "2023-05-25T20:02:24.2993526+00:00"
+  "LastUpdate_Ratings": "2023-05-25T20:58:09.2005219+00:00",
+  "LastUpdate_Achievements": "2023-05-25T21:02:15.6054557+00:00"
 }

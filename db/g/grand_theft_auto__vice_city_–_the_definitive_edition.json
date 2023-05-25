@@ -3,12 +3,12 @@
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 290,
-  "Ranking_Popularity": 415,
+  "Ranking_Popularity": 416,
   "Ranking_PopularitySum": 447,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 118,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -340,9 +340,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 6825,
+  "EOS_Progressed": 6826,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 628,
+  "EOS_NewPlayers": 626,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -2350,6 +2350,11 @@
       "Time": "2023-05-25T20:05:57.5191667+00:00",
       "NumProgressed": 6825,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-25T21:05:19.0380758+00:00",
+      "NumProgressed": 6826,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 34,
@@ -2369,7 +2374,7 @@
       "Name": "Running Rampant",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH03",
@@ -2401,7 +2406,7 @@
       "Name": "Point A to Point B",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH07",
@@ -2425,7 +2430,7 @@
       "Name": "Bull in a China Shop",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH10",
@@ -2457,7 +2462,7 @@
       "Name": "Somebody Call the Wambulance?",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH14",
@@ -2473,7 +2478,7 @@
       "Name": "Just Like the Real Thing",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH16",
@@ -2505,7 +2510,7 @@
       "Name": "Don\u0027t Need Roads",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH20",
@@ -2585,7 +2590,7 @@
       "Name": "Take the Cannoli",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH30",
@@ -2609,7 +2614,7 @@
       "Name": "City Sleuth",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH33",
@@ -2632,7 +2637,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6825,
+      "Progressed": 6826,
       "Completed": 23
     }
   ],
@@ -2640,8 +2645,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-24T16:57:57.2497435+00:00",
-  "LastChanged_Achievements": "2023-05-25T20:05:57.5191663+00:00",
+  "LastChanged_Achievements": "2023-05-25T21:05:19.0380754+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:49.9519997+00:00",
-  "LastUpdate_Ratings": "2023-05-25T19:58:22.2042677+00:00",
-  "LastUpdate_Achievements": "2023-05-25T20:05:57.5191959+00:00"
+  "LastUpdate_Ratings": "2023-05-25T20:58:03.7778757+00:00",
+  "LastUpdate_Achievements": "2023-05-25T21:05:19.0381043+00:00"
 }

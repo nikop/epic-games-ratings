@@ -11,7 +11,7 @@
 | Pooshed Past 5000 | 24.00% | ~23 |
 | Terrible Start | 19.00% | ~18 |
 | Pooshed Past 7500 | 8.00% | ~8 |
-| Challenge 01 | 6.00% | ~6 |
+| Challenge 01 | 7.00% | ~7 |
 | Challenge 03 | 2.00% | ~2 |
 | Challenge 04 | 2.00% | ~2 |
 | Pooshed Past 10000 | 2.00% | ~2 |
@@ -25,7 +25,7 @@
 | Challenge 11 | 0.00% | ~0 |
 | Challenge 12 | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95 (Ranked 264)  
+Progressed: 95 (Ranked 265)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |

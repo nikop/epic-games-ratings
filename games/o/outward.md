@@ -6,16 +6,16 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 74.00% | ~1,904 |
-| Ready for Winter | 63.00% | ~1,621 |
-| Ready for Summer | 50.00% | ~1,286 |
-| Cordon Bleu | 43.00% | ~1,106 |
+| Venture Outward | 74.00% | ~1,906 |
+| Ready for Winter | 63.00% | ~1,622 |
+| Ready for Summer | 51.00% | ~1,313 |
+| Cordon Bleu | 43.00% | ~1,107 |
 | Tapped! | 35.00% | ~901 |
 | Eureka | 31.00% | ~798 |
-| Scourge Slayer | 25.00% | ~643 |
+| Scourge Slayer | 25.00% | ~644 |
 | Science, Troglodyte! | 23.00% | ~592 |
 | Exceptional Skill | 22.00% | ~566 |
-| Home Sweet Home | 21.00% | ~540 |
+| Home Sweet Home | 22.00% | ~566 |
 | Encyclopedic! | 19.00% | ~489 |
 | A Fortress Toppled! | 16.00% | ~412 |
 | Apex Predator | 15.00% | ~386 |
@@ -37,10 +37,10 @@ Number of Ratings: 266  (23.09.2022)
 | Memory of a legend | 4.00% | ~103 |
 | Light of Levant | 3.00% | ~77 |
 | This was a mistake... | 3.00% | ~77 |
-| Crowd Pleaser. | 2.00% | ~51 |
-| Perfect Defense | 2.00% | ~51 |
-| Power! To! The People! | 2.00% | ~51 |
-| Your actions define you | 2.00% | ~51 |
+| Crowd Pleaser. | 2.00% | ~52 |
+| Perfect Defense | 2.00% | ~52 |
+| Power! To! The People! | 2.00% | ~52 |
+| Your actions define you | 2.00% | ~52 |
 | The blood is life | 1.00% | ~26 |
 | They'll Tell Stories About This | 1.00% | ~26 |
 | Vanquisher of nightmares | 1.00% | ~26 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~8 |
 | The Absolute Pinnacle. | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,573 (Ranked 139)  
+Progressed: 2,575 (Ranked 139)  
 Completed: 1 (0.04%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 1 (0.04%) (Ranked 177)
 | 2023-05-22 | 2,518 | 1 |
 | 2023-05-23 | 2,537 | 1 |
 | 2023-05-24 | 2,556 | 1 |
-| 2023-05-25 | 2,573 | 1 |
+| 2023-05-25 | 2,575 | 1 |
 ## Awards
 Max (Amazing Characters): 31  (Ranked 441)  
 Sum: 238 (Ranked 343)  

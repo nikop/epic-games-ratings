@@ -7,11 +7,11 @@ Number of Ratings: 34  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Explorer | 61.00% | ~170 |
-| Cowardice | 54.00% | ~150 |
+| Cowardice | 53.00% | ~148 |
 | NO LIFE IS WORTH SAVING... | 51.00% | ~142 |
-| Eat Lead! | 49.00% | ~136 |
-| Here Comes the Boom | 45.00% | ~125 |
-| Prospector | 44.00% | ~122 |
+| Eat Lead! | 49.00% | ~137 |
+| Prospector | 44.00% | ~123 |
+| Here Comes the Boom | 44.00% | ~123 |
 | Treasure Hunter | 42.00% | ~117 |
 | The Breaking Point | 38.00% | ~106 |
 | Missing in Action | 37.00% | ~103 |
@@ -22,7 +22,7 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter I | 31.00% | ~86 |
 | Consequences | 29.00% | ~81 |
 | Opportunities | 28.00% | ~78 |
-| The Horror | 26.00% | ~72 |
+| The Horror | 26.00% | ~73 |
 | Collectibles of Chapter II | 24.00% | ~67 |
 | The Difference | 22.00% | ~61 |
 | Vengeance | 22.00% | ~61 |
@@ -35,11 +35,11 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter IV | 14.00% | ~39 |
 | Atonement | 14.00% | ~39 |
 | Without a Second Thought | 13.00% | ~36 |
-| Helping Hand | 12.00% | ~33 |
+| Helping Hand | 11.00% | ~31 |
 | Collectibles of Chapter V | 8.00% | ~22 |
 | Such is War! | 8.00% | ~22 |
 | Tiptoe Around | 8.00% | ~22 |
-| Collectibles of Chapter VII | 7.00% | ~19 |
+| Collectibles of Chapter VII | 7.00% | ~20 |
 | Collectibles of Chapter XII | 6.00% | ~17 |
 | Piece of Cake | 6.00% | ~17 |
 | Collectibles of Chapter VIII | 5.00% | ~14 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 278 (Ranked 223)  
+Progressed: 279 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-21 | 271 | 0 |
 | 2023-05-22 | 273 | 0 |
 | 2023-05-23 | 274 | 0 |
-| 2023-05-25 | 278 | 0 |
+| 2023-05-25 | 279 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

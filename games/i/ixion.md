@@ -22,10 +22,10 @@ Rating: 4.55 (Ranked 468)
 | Hope Seeker | 3.00% | ~65 |
 | Exceeding Capacity | 2.00% | ~43 |
 | Power Outage | 2.00% | ~43 |
+| Access Granted | 2.00% | ~43 |
 | Please Make it Stop! | 2.00% | ~43 |
 | Man's Best Friend | 1.00% | ~22 |
 | Sightseeing | 1.00% | ~22 |
-| Access Granted | 1.00% | ~22 |
 | Necessary Enhancement | 1.00% | ~22 |
 | Convenient Transport | 1.00% | ~22 |
 | From the Past | 1.00% | ~22 |

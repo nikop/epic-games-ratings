@@ -13,8 +13,8 @@ Number of Ratings: 38  (23.09.2022)
 | Cook | 41.00% | ~82 |
 | Teleport | 38.00% | ~76 |
 | Scrap Master | 37.00% | ~74 |
+| Digger | 34.00% | ~68 |
 | Smelter | 34.00% | ~68 |
-| Digger | 33.00% | ~66 |
 | Electro-Scrap Gatherer | 32.00% | ~64 |
 | Robot Destroyer | 30.00% | ~60 |
 | Survivor | 30.00% | ~60 |

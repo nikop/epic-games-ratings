@@ -2,9 +2,9 @@
   "ID": "9de65f6db18c4757a84e639d9a3e5a97",
   "Name": "Vagrus - The Riven Realms",
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
-  "Ranking_EOS_Progress": 283,
+  "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70,
+  "EOS_Progressed": 71,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -132,6 +132,11 @@
     {
       "Time": "2023-05-25T05:05:58.240123+00:00",
       "NumProgressed": 70,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T21:05:26.5012812+00:00",
+      "NumProgressed": 71,
       "NumCompleted": 0
     }
   ],
@@ -374,7 +379,7 @@
       "ID": "Vanilla_Defeated",
       "SetID": "27kik8p",
       "Name": "Conquered",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -694,7 +699,7 @@
       "ID": "Vanilla_PressGanged",
       "SetID": "27kik8p",
       "Name": "Press-ganged",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
       "UsersEstimate": 28
     },
@@ -758,7 +763,7 @@
       "ID": "Vanilla_SecondChance",
       "SetID": "27kik8p",
       "Name": "A Second Chance",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
       "UsersEstimate": 35
     },
@@ -935,7 +940,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 70,
+      "Progressed": 71,
       "Completed": 0
     }
   ],
@@ -943,8 +948,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-05-25T20:06:05.8183399+00:00",
+  "LastChanged_Achievements": "2023-05-25T21:05:26.5012808+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:31.5396871+00:00",
-  "LastUpdate_Ratings": "2023-05-25T19:58:56.0532915+00:00",
-  "LastUpdate_Achievements": "2023-05-25T20:06:05.8184391+00:00"
+  "LastUpdate_Ratings": "2023-05-25T20:58:31.2894167+00:00",
+  "LastUpdate_Achievements": "2023-05-25T21:05:26.5013732+00:00"
 }

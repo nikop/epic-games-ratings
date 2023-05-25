@@ -23,14 +23,14 @@ Rating: 4.65 (Ranked 290)
 | Grand Theft Auto | 4.00% | ~273 |
 | High Quality H2O | 3.00% | ~205 |
 | Pie Guy | 3.00% | ~205 |
-| Running Rampant | 2.00% | ~136 |
-| Point A to Point B | 2.00% | ~136 |
-| Bull in a China Shop | 2.00% | ~136 |
-| Somebody Call the Wambulance? | 2.00% | ~136 |
-| Just Like the Real Thing | 2.00% | ~136 |
-| Don't Need Roads | 2.00% | ~136 |
-| Take the Cannoli | 2.00% | ~136 |
-| City Sleuth | 2.00% | ~136 |
+| Running Rampant | 2.00% | ~137 |
+| Point A to Point B | 2.00% | ~137 |
+| Bull in a China Shop | 2.00% | ~137 |
+| Somebody Call the Wambulance? | 2.00% | ~137 |
+| Just Like the Real Thing | 2.00% | ~137 |
+| Don't Need Roads | 2.00% | ~137 |
+| Take the Cannoli | 2.00% | ~137 |
+| City Sleuth | 2.00% | ~137 |
 | One is Better Than Two | 1.00% | ~68 |
 | Chopper’d Up | 1.00% | ~68 |
 | Daredevil | 0.90% | ~61 |
@@ -40,7 +40,7 @@ Rating: 4.65 (Ranked 290)
 | Done it All | 0.60% | ~41 |
 | Kingpin | 0.30% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,825 (Ranked 113)  
+Progressed: 6,826 (Ranked 113)  
 Completed: 23 (0.34%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,11 +75,11 @@ Completed: 23 (0.34%) (Ranked 118)
 | 2023-05-22 | 6,627 | 22 |
 | 2023-05-23 | 6,697 | 22 |
 | 2023-05-24 | 6,763 | 23 |
-| 2023-05-25 | 6,825 | 23 |
+| 2023-05-25 | 6,826 | 23 |
 ## Awards
-Max (Great Boss Battles): 38  (Ranked 415)  
+Max (Great Boss Battles): 38  (Ranked 416)  
 Sum: 38 (Ranked 447)  
-Diff (max vs sum): -32  
+Diff (max vs sum): -31  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 38 |

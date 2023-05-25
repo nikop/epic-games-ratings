@@ -106,9 +106,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2148,
+  "EOS_Progressed": 2149,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1806,6 +1806,11 @@
       "Time": "2023-05-25T20:06:04.2825306+00:00",
       "NumProgressed": 2148,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-25T21:05:24.9670857+00:00",
+      "NumProgressed": 2149,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1881,7 +1886,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2041
+      "UsersEstimate": 2042
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1897,7 +1902,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -1921,7 +1926,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -1953,7 +1958,7 @@
       "Name": "Old friend",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -1993,7 +1998,7 @@
       "Name": "Pentakill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1632
+      "UsersEstimate": 1633
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -2001,7 +2006,7 @@
       "Name": "No more cages!",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 1955
+      "UsersEstimate": 1956
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2033,15 +2038,15 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1632
+      "UsersEstimate": 1633
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Thornbarrow",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 687
+      "UsersEstimate": 709
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -2049,7 +2054,7 @@
       "Name": "Clarion Cove",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -2057,7 +2062,7 @@
       "Name": "Devineur",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -2153,7 +2158,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -2240,7 +2245,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2148,
+      "Progressed": 2149,
       "Completed": 1
     }
   ],
@@ -2248,8 +2253,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-24T18:57:33.1729645+00:00",
-  "LastChanged_Achievements": "2023-05-25T20:06:04.2825301+00:00",
+  "LastChanged_Achievements": "2023-05-25T21:05:24.9670855+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:08.2361804+00:00",
-  "LastUpdate_Ratings": "2023-05-25T19:57:39.2799913+00:00",
-  "LastUpdate_Achievements": "2023-05-25T20:06:04.2825733+00:00"
+  "LastUpdate_Ratings": "2023-05-25T20:57:28.5992097+00:00",
+  "LastUpdate_Achievements": "2023-05-25T21:05:24.9671257+00:00"
 }

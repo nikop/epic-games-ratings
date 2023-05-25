@@ -214,9 +214,9 @@
       "ID": "secret22",
       "SetID": "39f6ck8",
       "Name": "The Emperor\u0027s New Clothes",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "secret23",
@@ -230,9 +230,9 @@
       "ID": "secret24",
       "SetID": "39f6ck8",
       "Name": "Power Up",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "secret25",
@@ -262,9 +262,9 @@
       "ID": "secret28",
       "SetID": "39f6ck8",
       "Name": "Thick Skin",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "secret29",
@@ -535,8 +535,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-05-25T20:06:28.4062552+00:00",
+  "LastChanged_Achievements": "2023-05-25T21:05:46.0972663+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:39.4540742+00:00",
-  "LastUpdate_Ratings": "2023-05-25T20:00:12.5594536+00:00",
-  "LastUpdate_Achievements": "2023-05-25T20:06:28.4063154+00:00"
+  "LastUpdate_Ratings": "2023-05-25T20:59:35.5783287+00:00",
+  "LastUpdate_Achievements": "2023-05-25T21:05:46.0973123+00:00"
 }

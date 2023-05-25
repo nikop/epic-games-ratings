@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| So it begins | 99.00% | ~78 |
+| So it begins | 98.00% | ~78 |
 | Good to grow | 63.00% | ~50 |
-| Fashionista | 47.00% | ~37 |
-| Irrigation not irritation | 41.00% | ~32 |
+| Fashionista | 46.00% | ~37 |
+| Irrigation not irritation | 40.00% | ~32 |
 | Graduated | 39.00% | ~31 |
-| Night Shift | 27.00% | ~21 |
+| Night Shift | 26.00% | ~21 |
 | It's about the journey | 15.00% | ~12 |
 | C'who? | 13.00% | ~10 |
 | Shine bright | 11.00% | ~9 |
@@ -36,7 +36,7 @@
 | Free Spirit | 0.00% | ~0 |
 | V is for Vegan | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79 (Ranked 273)  
+Progressed: 80 (Ranked 272)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -48,6 +48,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-19 | 77 | 0 |
 | 2023-05-20 | 78 | 0 |
 | 2023-05-21 | 79 | 0 |
+| 2023-05-25 | 80 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

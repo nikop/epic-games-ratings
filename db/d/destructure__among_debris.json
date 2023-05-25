@@ -2,9 +2,9 @@
   "ID": "654424d5bf5d4687bd06b0354eccf38e",
   "Name": "DESTRUCTURE: Among Debris",
   "ProductSlug": "destructure-among-debris-b4aaf8",
-  "Ranking_EOS_Progress": 261,
+  "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-04-27T13:00:00+00:00",
@@ -541,9 +541,9 @@
       "ID": "detoxed",
       "SetID": "jig50d",
       "Name": "Detoxed",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "die",
@@ -605,9 +605,9 @@
       "ID": "master_destructor",
       "SetID": "jig50d",
       "Name": "Master Destructor",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "medium_rare",
@@ -734,8 +734,8 @@
   "FirstSeenRating": "2023-05-02T17:00:06.026431+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:27.5419152+00:00",
   "LastChanged": "2023-05-02T17:00:06.026431+00:00",
-  "LastChanged_Achievements": "2023-05-25T20:01:05.4402641+00:00",
+  "LastChanged_Achievements": "2023-05-25T21:00:21.6614257+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:10:10.466439+00:00",
-  "LastUpdate_Ratings": "2023-05-25T20:00:11.3347437+00:00",
-  "LastUpdate_Achievements": "2023-05-25T20:01:05.440288+00:00"
+  "LastUpdate_Ratings": "2023-05-25T20:59:34.5648548+00:00",
+  "LastUpdate_Achievements": "2023-05-25T21:00:21.6614503+00:00"
 }

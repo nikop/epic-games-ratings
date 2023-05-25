@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 278,
+  "EOS_Progressed": 279,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -485,6 +485,11 @@
       "Time": "2023-05-25T20:03:10.7835687+00:00",
       "NumProgressed": 278,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T21:02:29.4482045+00:00",
+      "NumProgressed": 279,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -608,7 +613,7 @@
       "Name": "Prospector",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -672,7 +677,7 @@
       "Name": "Collectibles of Chapter VII",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_COLL_CH08",
@@ -718,9 +723,9 @@
       "ID": "ACH_FIN_CH01",
       "SetID": "1j25agn",
       "Name": "Cowardice",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 148
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -768,7 +773,7 @@
       "Name": "The Horror",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_FIN_CH08",
@@ -830,9 +835,9 @@
       "ID": "ACH_HEAL",
       "SetID": "1j25agn",
       "Name": "Helping Hand",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_HIDE_BODIES",
@@ -862,9 +867,9 @@
       "ID": "ACH_KILL_BRAWL",
       "SetID": "1j25agn",
       "Name": "Here Comes the Boom",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_KILL_DOOR",
@@ -904,7 +909,7 @@
       "Name": "Eat Lead!",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
@@ -967,15 +972,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 278,
+      "Progressed": 279,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-05-09T23:57:28.9754418+00:00",
-  "LastChanged_Achievements": "2023-05-25T20:03:10.7835682+00:00",
+  "LastChanged_Achievements": "2023-05-25T21:02:29.4482041+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:01.9016759+00:00",
-  "LastUpdate_Ratings": "2023-05-25T19:57:31.343189+00:00",
-  "LastUpdate_Achievements": "2023-05-25T20:03:10.7836112+00:00"
+  "LastUpdate_Ratings": "2023-05-25T20:57:21.5939237+00:00",
+  "LastUpdate_Achievements": "2023-05-25T21:02:29.4482458+00:00"
 }

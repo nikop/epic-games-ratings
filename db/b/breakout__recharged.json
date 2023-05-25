@@ -2,9 +2,9 @@
   "ID": "6a50e1ce4d1a4666ba51e31a351b0947",
   "Name": "Breakout: Recharged",
   "ProductSlug": "breakout-recharged",
-  "Ranking_EOS_Progress": 273,
+  "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 54,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-02-10T14:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 79,
+  "EOS_Progressed": 80,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.53,
+  "EOS_Completed_Percentage": 2.5,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:23.2577147+00:00",
@@ -91,6 +91,11 @@
       "Time": "2023-05-24T02:09:59.5188279+00:00",
       "NumProgressed": 79,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-25T21:05:10.5762233+00:00",
+      "NumProgressed": 80,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -100,7 +105,7 @@
       "ID": "ACH_ANOTHER_BRICK_1",
       "SetID": "5kae3ip",
       "Name": "Another Brick in the Wall (Part 1)",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 20,
       "UsersEstimate": 55
     },
@@ -108,7 +113,7 @@
       "ID": "ACH_ANOTHER_BRICK_2",
       "SetID": "5kae3ip",
       "Name": "Another Brick in the Wall (Part 2)",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 50,
       "UsersEstimate": 37
     },
@@ -116,7 +121,7 @@
       "ID": "ACH_ANOTHER_BRICK_3",
       "SetID": "5kae3ip",
       "Name": "Another Brick in the Wall (Part 3)",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 100,
       "UsersEstimate": 29
     },
@@ -126,7 +131,7 @@
       "Name": "Is There Anybody Out There?",
       "Percentage": 94,
       "XP": 100,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_BIDING_MY_TIME",
@@ -148,7 +153,7 @@
       "ID": "ACH_CLUSTER_ONE",
       "SetID": "5kae3ip",
       "Name": "Cluster One",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 40,
       "UsersEstimate": 65
     },
@@ -156,7 +161,7 @@
       "ID": "ACH_COMFORTABLY_NUMB",
       "SetID": "5kae3ip",
       "Name": "Comfortably Numb",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 10,
       "UsersEstimate": 45
     },
@@ -221,7 +226,7 @@
     {
       "ID": "5kae3ip",
       "IsBase": true,
-      "Progressed": 79,
+      "Progressed": 80,
       "Completed": 2
     }
   ],
@@ -229,8 +234,8 @@
   "FirstSeenRating": "2023-03-31T05:58:34.1207634+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:23.2577155+00:00",
   "LastChanged": "2023-03-31T05:58:34.1207635+00:00",
-  "LastChanged_Achievements": "2023-05-25T20:05:47.9934198+00:00",
+  "LastChanged_Achievements": "2023-05-25T21:05:10.576223+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:57.9144386+00:00",
-  "LastUpdate_Ratings": "2023-05-25T19:57:26.1986056+00:00",
-  "LastUpdate_Achievements": "2023-05-25T20:05:47.9934283+00:00"
+  "LastUpdate_Ratings": "2023-05-25T20:57:18.1360614+00:00",
+  "LastUpdate_Achievements": "2023-05-25T21:05:10.5762319+00:00"
 }

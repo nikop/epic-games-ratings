@@ -2,9 +2,9 @@
   "ID": "25163a0f3c9d47d38afe753d53fd27bb",
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
-  "Ranking_EOS_Progress": 216,
+  "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 28,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 309,
+  "EOS_Progressed": 310,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 244,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 14,
-  "EOS_Completed_Percentage": 5.18,
+  "EOS_Completed_Percentage": 5.16,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -591,6 +591,11 @@
       "Time": "2023-05-25T20:03:30.1742323+00:00",
       "NumProgressed": 309,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-05-25T21:03:15.0247156+00:00",
+      "NumProgressed": 310,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 30,
@@ -602,7 +607,7 @@
       "Name": "A fresh start",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "LEVEL_002",
@@ -610,7 +615,7 @@
       "Name": "Promising crop",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "LEVEL_003",
@@ -618,7 +623,7 @@
       "Name": "A horse in the country",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "LEVEL_004",
@@ -640,9 +645,9 @@
       "ID": "LEVEL_006",
       "SetID": "212bg48",
       "Name": "Nothing like fresh food",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 124
     },
     {
       "ID": "LEVEL_007",
@@ -666,7 +671,7 @@
       "Name": "Going zig zag",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "LEVEL_010",
@@ -698,7 +703,7 @@
       "Name": "Higher ground",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "LEVEL_014",
@@ -816,17 +821,17 @@
       "ID": "LEVEL_028",
       "SetID": "212bg48",
       "Name": "What is the country?",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 55,
-      "UsersEstimate": 19
+      "UsersEstimate": 16
     },
     {
       "ID": "LEVEL_029",
       "SetID": "212bg48",
       "Name": "Bridges connect us",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 55,
-      "UsersEstimate": 19
+      "UsersEstimate": 16
     },
     {
       "ID": "LEVEL_030",
@@ -834,21 +839,21 @@
       "Name": "Celebration with Cake and Balloons",
       "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     }
   ],
   "AchievementSets": [
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 309,
+      "Progressed": 310,
       "Completed": 16
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-25T20:03:30.1742318+00:00",
+  "LastChanged_Achievements": "2023-05-25T21:03:15.0247152+00:00",
   "LastUpdate_AppInfo": "2023-05-22T13:02:13.5547551+00:00",
-  "LastUpdate_Ratings": "2023-05-25T19:57:04.0846844+00:00",
-  "LastUpdate_Achievements": "2023-05-25T20:03:30.1742726+00:00"
+  "LastUpdate_Ratings": "2023-05-25T20:56:57.0301501+00:00",
+  "LastUpdate_Achievements": "2023-05-25T21:03:15.0247402+00:00"
 }

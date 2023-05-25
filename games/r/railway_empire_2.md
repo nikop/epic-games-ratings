@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 44.00% | ~41 |
-| Departure | 43.00% | ~40 |
-| A new Journey | 43.00% | ~40 |
-| Brainstorm | 40.00% | ~38 |
-| From X to Y | 39.00% | ~37 |
-| Way of Iron | 38.00% | ~36 |
-| Apprentice | 36.00% | ~34 |
-| Mystery Tour | 36.00% | ~34 |
-| We brake for nobody | 35.00% | ~33 |
-| All around the World | 31.00% | ~29 |
-| Mind the Gap | 31.00% | ~29 |
-| Travel Company | 30.00% | ~28 |
-| Stoker | 22.00% | ~21 |
-| Right through the middle | 22.00% | ~21 |
-| Poor Devil | 14.00% | ~13 |
-| Facility Manager | 12.00% | ~11 |
-| Producer | 12.00% | ~11 |
-| Access granted | 10.00% | ~9 |
-| Socializer | 6.00% | ~6 |
+| Country Bumpkin | 47.00% | ~49 |
+| Departure | 45.00% | ~47 |
+| A new Journey | 45.00% | ~47 |
+| Way of Iron | 42.00% | ~44 |
+| From X to Y | 41.00% | ~43 |
+| Brainstorm | 41.00% | ~43 |
+| Mystery Tour | 39.00% | ~41 |
+| We brake for nobody | 38.00% | ~40 |
+| Apprentice | 36.00% | ~37 |
+| All around the World | 33.00% | ~34 |
+| Mind the Gap | 33.00% | ~34 |
+| Travel Company | 33.00% | ~34 |
+| Stoker | 26.00% | ~27 |
+| Right through the middle | 24.00% | ~25 |
+| Poor Devil | 17.00% | ~18 |
+| Facility Manager | 14.00% | ~15 |
+| Producer | 13.00% | ~14 |
+| Access granted | 11.00% | ~11 |
+| Socializer | 8.00% | ~8 |
+| Bridge Builder | 6.00% | ~6 |
 | Full Steam ahead | 5.00% | ~5 |
-| Bridge Builder | 5.00% | ~5 |
 | Bold and beautiful | 4.00% | ~4 |
 | Seven at one stroke | 3.00% | ~3 |
 | Country Life | 3.00% | ~3 |
 | Going once, going twice, sold | 3.00% | ~3 |
 | Breaking Ground | 3.00% | ~3 |
+| Bull and bear | 3.00% | ~3 |
 | General Manager | 2.00% | ~2 |
-| Bull and bear | 2.00% | ~2 |
 | Financial Shark | 2.00% | ~2 |
 | Trailblazer | 1.00% | ~1 |
 | Resistance is futile | 1.00% | ~1 |
@@ -60,7 +60,7 @@
 | Call of Duty | 0.00% | ~0 |
 | Together we stand | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94 (Ranked 265)  
+Progressed: 104 (Ranked 261)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,4 +71,4 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-18 | 9 | 0 |
 | 2023-05-22 | 10 | 0 |
 | 2023-05-24 | 12 | 0 |
-| 2023-05-25 | 94 | 0 |
+| 2023-05-25 | 104 | 0 |

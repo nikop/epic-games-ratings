@@ -4,7 +4,7 @@
   "ProductSlug": "bloodrayne-betrayal-fresh-bites-8f1012",
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 303,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-11-04T17:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 47,
+  "EOS_Progressed": 48,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -47,6 +47,11 @@
       "Time": "2023-05-23T00:06:57.012799+00:00",
       "NumProgressed": 47,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T21:05:44.574222+00:00",
+      "NumProgressed": 48,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -56,7 +61,7 @@
       "ID": "Betrayed",
       "SetID": "6jf74lf",
       "Name": "Betrayed",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -64,9 +69,9 @@
       "ID": "Chainsplosion",
       "SetID": "6jf74lf",
       "Name": "Chainsplosion!",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ChampionOfLight",
@@ -96,7 +101,7 @@
       "ID": "CrabCakes",
       "SetID": "6jf74lf",
       "Name": "Crab Cakes",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
       "UsersEstimate": 21
     },
@@ -120,9 +125,9 @@
       "ID": "FinishHim",
       "SetID": "6jf74lf",
       "Name": "Finish Him",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "FlightOfTheRaven",
@@ -154,7 +159,7 @@
       "Name": "Just a Taste",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "LastBullet",
@@ -176,7 +181,7 @@
       "ID": "PartingGift",
       "SetID": "6jf74lf",
       "Name": "Parting Gift",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -184,7 +189,7 @@
       "ID": "PersonallyPunched",
       "SetID": "6jf74lf",
       "Name": "Personally Punched",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -216,9 +221,9 @@
       "ID": "StrangeSkulls",
       "SetID": "6jf74lf",
       "Name": "Strange Skulls",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ToSunrise",
@@ -232,9 +237,9 @@
       "ID": "TreasureHunter",
       "SetID": "6jf74lf",
       "Name": "Treasure Hunter",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "WalkingOnAir",
@@ -249,7 +254,7 @@
     {
       "ID": "6jf74lf",
       "IsBase": true,
-      "Progressed": 47,
+      "Progressed": 48,
       "Completed": 0
     }
   ],
@@ -257,8 +262,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.7137735+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:16.1017514+00:00",
   "LastChanged": "2023-03-31T05:58:13.7137736+00:00",
-  "LastChanged_Achievements": "2023-05-25T20:06:26.8698637+00:00",
+  "LastChanged_Achievements": "2023-05-25T21:05:44.5742216+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:19.8501697+00:00",
-  "LastUpdate_Ratings": "2023-05-25T20:00:32.1078483+00:00",
-  "LastUpdate_Achievements": "2023-05-25T20:06:26.8698809+00:00"
+  "LastUpdate_Ratings": "2023-05-25T20:59:52.2208538+00:00",
+  "LastUpdate_Achievements": "2023-05-25T21:05:44.5742332+00:00"
 }

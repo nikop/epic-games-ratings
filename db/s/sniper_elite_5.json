@@ -206,9 +206,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1424,
+  "EOS_Progressed": 1426,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 685,
+  "EOS_NewPlayers": 686,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1391,6 +1391,11 @@
       "Time": "2023-05-25T20:06:02.4125607+00:00",
       "NumProgressed": 1424,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-25T21:05:23.3033401+00:00",
+      "NumProgressed": 1426,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1402,7 +1407,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -1410,7 +1415,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -1450,7 +1455,7 @@
       "Name": "Fields of Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -1530,7 +1535,7 @@
       "Name": "Skirmisher",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -1562,15 +1567,15 @@
       "Name": "Precision Is Key",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
       "SetID": "bm6el81",
       "Name": "Confirming Suspicions",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 171
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1610,7 +1615,7 @@
       "Name": "Lord of War",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -1618,7 +1623,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -1626,7 +1631,7 @@
       "Name": "Resourceful",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -1634,7 +1639,7 @@
       "Name": "Der Geist",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -1666,7 +1671,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -1810,7 +1815,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -1969,13 +1974,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1375,
+      "Progressed": 1377,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1424,
+      "Progressed": 1426,
       "Completed": 2
     }
   ],
@@ -1983,8 +1988,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-25T14:00:05.6295104+00:00",
-  "LastChanged_Achievements": "2023-05-25T20:06:02.4125602+00:00",
+  "LastChanged_Achievements": "2023-05-25T21:05:23.3033397+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-25T20:00:49.7964779+00:00",
-  "LastUpdate_Achievements": "2023-05-25T20:06:02.4126194+00:00"
+  "LastUpdate_Ratings": "2023-05-25T21:00:06.3573723+00:00",
+  "LastUpdate_Achievements": "2023-05-25T21:05:23.3033971+00:00"
 }

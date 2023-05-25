@@ -4,7 +4,7 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 10,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 303,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 152,
+  "EOS_Progressed": 153,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 12.5,
+  "EOS_Completed_Percentage": 12.42,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:52.0136119+00:00",
@@ -82,6 +82,11 @@
       "Time": "2023-05-16T20:04:56.6790853+00:00",
       "NumProgressed": 152,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-25T21:00:35.0087382+00:00",
+      "NumProgressed": 153,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 53,
@@ -91,17 +96,17 @@
       "ID": "BADGE_ARMORED_KNIGHT_KILL",
       "SetID": "ak6pfjk",
       "Name": "Tinned Corpse",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 125
     },
     {
       "ID": "BADGE_BOSS_1_KILL",
       "SetID": "ak6pfjk",
       "Name": "Your War is Over",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 123
+      "UsersEstimate": 122
     },
     {
       "ID": "BADGE_BOSS_2_KILL",
@@ -109,31 +114,31 @@
       "Name": "Top of the World",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "BADGE_BOSS_3_KILL",
       "SetID": "ak6pfjk",
       "Name": "Clean Forests",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 89
     },
     {
       "ID": "BADGE_BOSS_4_KILL",
       "SetID": "ak6pfjk",
       "Name": "Avada Kedavra",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 80
     },
     {
       "ID": "BADGE_BOSS_5_KILL",
       "SetID": "ak6pfjk",
       "Name": "Deposition",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 70
     },
     {
       "ID": "BADGE_BOSS_6_KILL",
@@ -165,7 +170,7 @@
       "Name": "Brilliant Day",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_1",
@@ -173,15 +178,15 @@
       "Name": "Brilliant: Meadowshire",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_2",
       "SetID": "ak6pfjk",
       "Name": "Brilliant: Holy Mountain",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 90
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_3",
@@ -195,9 +200,9 @@
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_4",
       "SetID": "ak6pfjk",
       "Name": "Brilliant: Arcania",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 74
+      "UsersEstimate": 73
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_5",
@@ -205,7 +210,7 @@
       "Name": "The Coreland",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_6",
@@ -221,7 +226,7 @@
       "Name": "Brilliant: Free Coast",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_8",
@@ -229,7 +234,7 @@
       "Name": "Brilliant: The Deep",
       "Percentage": 22,
       "XP": 45,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "BADGE_BRILLIANT_NIGHT",
@@ -237,7 +242,7 @@
       "Name": "The Starry Night",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_1",
@@ -245,7 +250,7 @@
       "Name": "Starry: Meadowshire",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_2",
@@ -253,7 +258,7 @@
       "Name": "Starry: Holy Mountain",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_3",
@@ -269,7 +274,7 @@
       "Name": "Starry: Arcania",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_5",
@@ -277,7 +282,7 @@
       "Name": "Starry: The Coreland",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_6",
@@ -293,7 +298,7 @@
       "Name": "Starry: Free Coast",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_8",
@@ -301,7 +306,7 @@
       "Name": "Starry: The Deep",
       "Percentage": 20,
       "XP": 55,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "BADGE_BUILDINGS_CAPTURE",
@@ -309,7 +314,7 @@
       "Name": "Takeover",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "BADGE_CHAMPIONS_KILL",
@@ -317,13 +322,13 @@
       "Name": "On the Crest of a Wave",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "BADGE_CHAMPIONS_KILL_2",
       "SetID": "ak6pfjk",
       "Name": "V.I.P. Cemetery",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 10,
       "UsersEstimate": 106
     },
@@ -341,15 +346,15 @@
       "Name": "Go Home!",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "BADGE_ENEMIES_KILL",
       "SetID": "ak6pfjk",
       "Name": "The Apotheosis of War",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 99
     },
     {
       "ID": "BADGE_ENEMIES_USING_MINES_KILL",
@@ -365,7 +370,7 @@
       "Name": "Don\u0027t Touch My Gems!",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "BADGE_FLYING_ENEMY_KILL",
@@ -373,7 +378,7 @@
       "Name": "Air Defense",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "BADGE_FORESTS_CUT",
@@ -381,7 +386,7 @@
       "Name": "Woodcutter",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "BADGE_GOLD_COINS_COLLECT",
@@ -389,7 +394,7 @@
       "Name": "Look After the Pence...",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "BADGE_HOSTILE_WATERS",
@@ -411,7 +416,7 @@
       "ID": "BADGE_MANA_POTIONS_COLLECT",
       "SetID": "ak6pfjk",
       "Name": "Drunken Master",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 10,
       "UsersEstimate": 109
     },
@@ -421,7 +426,7 @@
       "Name": "Sharpshooter",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "BADGE_MONUMENT_KEEPER",
@@ -445,23 +450,23 @@
       "Name": "Sergeant of the Evil",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "BADGE_PLAYER_RANK_2",
       "SetID": "ak6pfjk",
       "Name": "Lieutenant of the Evil",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 83
     },
     {
       "ID": "BADGE_POLYMORPH_COUNT",
       "SetID": "ak6pfjk",
       "Name": "Tastes Like Chicken",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 93
     },
     {
       "ID": "BADGE_SKILL_BRANCH_MAX",
@@ -477,7 +482,7 @@
       "Name": "Evil Genius",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "BADGE_STASIS_COUNT",
@@ -501,13 +506,13 @@
       "Name": "Foreman of Darkness",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "BADGE_TOWER_UPGRADE_2",
       "SetID": "ak6pfjk",
       "Name": "Architect of Darkness",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 10,
       "UsersEstimate": 103
     }
@@ -516,7 +521,7 @@
     {
       "ID": "ak6pfjk",
       "IsBase": true,
-      "Progressed": 152,
+      "Progressed": 153,
       "Completed": 19
     }
   ],
@@ -524,8 +529,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-05-25T20:02:11.4880227+00:00",
+  "LastChanged_Achievements": "2023-05-25T21:00:35.0087374+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:11.9155795+00:00",
-  "LastUpdate_Ratings": "2023-05-25T19:58:43.8871176+00:00",
-  "LastUpdate_Achievements": "2023-05-25T20:02:11.488058+00:00"
+  "LastUpdate_Ratings": "2023-05-25T20:58:21.1052033+00:00",
+  "LastUpdate_Achievements": "2023-05-25T21:00:35.0087738+00:00"
 }

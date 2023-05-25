@@ -6,12 +6,12 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 35.00% | ~17,815 |
-| Landlord | 30.00% | ~15,270 |
-| Lawmaker | 21.00% | ~10,689 |
-| Bannerlord | 20.00% | ~10,180 |
-| Horde breaker | 20.00% | ~10,180 |
-| Trained | 20.00% | ~10,180 |
+| Lawbringer | 35.00% | ~17,816 |
+| Landlord | 30.00% | ~15,271 |
+| Lawmaker | 21.00% | ~10,690 |
+| Bannerlord | 20.00% | ~10,181 |
+| Horde breaker | 20.00% | ~10,181 |
+| Trained | 20.00% | ~10,181 |
 | The king is pleased | 16.00% | ~8,144 |
 | King Solomon | 15.00% | ~7,635 |
 | Apple of my eye | 14.00% | ~7,126 |
@@ -39,7 +39,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Undercover | 0.80% | ~407 |
 | Crackshot | 0.70% | ~356 |
 | Fat Cat | 0.60% | ~305 |
-| Catch | 0.50% | ~254 |
+| Catch | 0.50% | ~255 |
 | Slice 'n dice | 0.40% | ~204 |
 | Mounted Archery | 0.30% | ~153 |
 | Ride it like you stole it | 0.30% | ~153 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,899 (Ranked 74)  
+Progressed: 50,903 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,10 +93,10 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-22 | 50,655 | 0 |
 | 2023-05-23 | 50,759 | 0 |
 | 2023-05-24 | 50,836 | 0 |
-| 2023-05-25 | 50,899 | 0 |
+| 2023-05-25 | 50,903 | 0 |
 ## Awards
 Max (Character Customization): 6,575  (Ranked 49)  
-Sum: 13,145 (Ranked 67)  
+Sum: 13,147 (Ranked 67)  
 Diff (max vs sum): -18  
 | Award | Count |
 | ----- | ----- |
@@ -109,7 +109,7 @@ Diff (max vs sum): -18
 | This game has Quickly Understood Controls | 726 |
 | This game is Relaxing | 720 |
 | This game has Amazing Characters | 718 |
-| This game has a Creative Community | 520 |
+| This game has a Creative Community | 522 |
 | This game has Obsessive Gameplay | 376 |
 | This game has Competitive Players | 107 |
 ## Ratings History
@@ -245,4 +245,4 @@ Diff (max vs sum): -18
 | 2023-05-22 | 4.74 | - | 6,564 | 13,123 |
 | 2023-05-23 | 4.74 | - | 6,568 | 13,130 |
 | 2023-05-24 | 4.74 | - | 6,570 | 13,138 |
-| 2023-05-25 | 4.74 | - | 6,575 | 13,145 |
+| 2023-05-25 | 4.74 | - | 6,575 | 13,147 |

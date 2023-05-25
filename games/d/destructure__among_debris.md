@@ -9,22 +9,22 @@
 | Rookie | 68.00% | ~69 |
 | Apprentice Destructor | 23.00% | ~23 |
 | I Prefer Jazz Fusion | 10.00% | ~10 |
+| Master Destructor | 7.00% | ~7 |
 | You Are Actually Supposed To Use Those | 7.00% | ~7 |
 | Avaricerite | 6.00% | ~6 |
-| Master Destructor | 6.00% | ~6 |
 | Ball Galore | 5.00% | ~5 |
 | Easy Victory | 5.00% | ~5 |
 | Back From The Dead | 4.00% | ~4 |
 | Ball Protector | 3.00% | ~3 |
 | Legendary Destructor | 3.00% | ~3 |
 | Collector | 2.00% | ~2 |
+| Detoxed | 2.00% | ~2 |
 | Monster of Fashion | 2.00% | ~2 |
 | Single Person On Earth | 2.00% | ~2 |
 | Ticking Clock | 2.00% | ~2 |
 | Untouchable | 2.00% | ~2 |
 | Ball Collector | 1.00% | ~1 |
 | Bullet Hell | 1.00% | ~1 |
-| Detoxed | 1.00% | ~1 |
 | Ice Breaker | 1.00% | ~1 |
 | Machine Man | 1.00% | ~1 |
 | Medium Rare | 1.00% | ~1 |
@@ -36,7 +36,7 @@
 | Victory That Is Even More True | 1.00% | ~1 |
 | What Even Are You? | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 101 (Ranked 261)  
+Progressed: 101 (Ranked 263)  
 Completed: 1 (0.99%) (Ranked 86)  
 ## EOS Players History
 | Date | Progressed | Completed |

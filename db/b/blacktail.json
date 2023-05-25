@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -54,9 +54,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 387,
+  "EOS_Progressed": 388,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -479,6 +479,11 @@
       "Time": "2023-05-25T19:06:23.9590524+00:00",
       "NumProgressed": 387,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T21:05:24.7186357+00:00",
+      "NumProgressed": 388,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -522,7 +527,7 @@
       "Name": "Devil\u0027s in the details",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Devoted",
@@ -546,7 +551,7 @@
       "Name": "Sneak peek",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Favourite",
@@ -554,7 +559,7 @@
       "Name": "Favorite",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "FisherKing",
@@ -562,7 +567,7 @@
       "Name": "Fishing fanatic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Goal",
@@ -586,7 +591,7 @@
       "Name": "The word around is...",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "HeadOnHerShoulders",
@@ -618,7 +623,7 @@
       "Name": "A friend in need...",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "LostAndFound",
@@ -634,7 +639,7 @@
       "Name": "The cycle acknowledged",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "NoMoreWards",
@@ -690,7 +695,7 @@
       "Name": "Baba Yaga",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ToadCharming",
@@ -745,7 +750,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 387,
+      "Progressed": 388,
       "Completed": 0
     }
   ],
@@ -753,8 +758,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-05-25T20:06:04.0962732+00:00",
+  "LastChanged_Achievements": "2023-05-25T21:05:24.7186353+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:28.25189+00:00",
-  "LastUpdate_Ratings": "2023-05-25T19:57:55.6031957+00:00",
-  "LastUpdate_Achievements": "2023-05-25T20:06:04.0962943+00:00"
+  "LastUpdate_Ratings": "2023-05-25T20:57:42.4999832+00:00",
+  "LastUpdate_Achievements": "2023-05-25T21:05:24.7186561+00:00"
 }
