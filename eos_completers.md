@@ -7,7 +7,7 @@
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 21.21% |
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.27% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 8 | [Island Cities](games/i/island_cities.md) | 16.98% |
+| 8 | [Island Cities](games/i/island_cities.md) | 16.88% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 13.33% |
 | 10 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
 | 11 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.03% |
@@ -34,7 +34,7 @@
 | 32 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.35% |
 | 33 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.26% |
 | 34 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.08% |
-| 35 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.93% |
+| 35 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.92% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
 | 37 | [Doodle God](games/d/doodle_god.md) | 3.88% |
 | 38 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
@@ -105,10 +105,10 @@
 | 103 | [The Surge 2](games/t/the_surge_2.md) | 0.62% |
 | 104 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.60% |
 | 105 | [Grindstone](games/g/grindstone.md) | 0.51% |
-| 106 | [Ghostrunner](games/g/ghostrunner.md) | 0.49% |
 | 106 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.49% |
-| 108 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
-| 108 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.48% |
+| 107 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
+| 107 | [Ghostrunner](games/g/ghostrunner.md) | 0.48% |
+| 107 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.48% |
 | 110 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 111 | [Tails of Iron](games/t/tails_of_iron.md) | 0.41% |
 | 112 | [Potion Permit](games/p/potion_permit.md) | 0.39% |
@@ -416,4 +416,4 @@
 | 202 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 202 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 202 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,683 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,684 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
