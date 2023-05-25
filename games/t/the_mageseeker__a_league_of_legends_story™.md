@@ -1,65 +1,65 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.78 (Ranked 100)  
+Rating: 4.78 (Ranked 99)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,036 |
-| No more cages! | 92.00% | ~1,972 |
-| Everfrost | 77.00% | ~1,650 |
-| Pentakill | 76.00% | ~1,629 |
-| Dark Forest | 76.00% | ~1,629 |
-| The use of petricite | 72.00% | ~1,543 |
-| You can pet the dog | 60.00% | ~1,286 |
-| Big Helmet Bro | 34.00% | ~729 |
-| Clarion Cove | 34.00% | ~729 |
-| Past trauma | 33.00% | ~707 |
-| Thornbarrow | 33.00% | ~707 |
-| Ternmoat Headquarters | 32.00% | ~686 |
-| Elemental master | 31.00% | ~664 |
-| Cypress Glen Headquarters | 31.00% | ~664 |
-| Petricite Burst | 27.00% | ~579 |
-| Old friend | 26.00% | ~557 |
-| Devineur | 26.00% | ~557 |
-| Whispers in the Woods I | 25.00% | ~536 |
-| Hijack | 25.00% | ~536 |
-| Ancient power | 23.00% | ~493 |
-| I chose my shackles | 22.00% | ~471 |
-| Sacred Woods | 21.00% | ~450 |
-| Little light | 19.00% | ~407 |
-| Capelworth | 19.00% | ~407 |
+| For Demacia | 95.00% | ~2,040 |
+| No more cages! | 91.00% | ~1,954 |
+| Everfrost | 77.00% | ~1,653 |
+| Dark Forest | 76.00% | ~1,632 |
+| Pentakill | 75.00% | ~1,610 |
+| The use of petricite | 72.00% | ~1,546 |
+| You can pet the dog | 60.00% | ~1,288 |
+| Big Helmet Bro | 34.00% | ~730 |
+| Clarion Cove | 34.00% | ~730 |
+| Past trauma | 33.00% | ~709 |
+| Thornbarrow | 33.00% | ~709 |
+| Ternmoat Headquarters | 32.00% | ~687 |
+| Elemental master | 31.00% | ~666 |
+| Cypress Glen Headquarters | 31.00% | ~666 |
+| Petricite Burst | 27.00% | ~580 |
+| Old friend | 26.00% | ~558 |
+| Devineur | 26.00% | ~558 |
+| Whispers in the Woods I | 25.00% | ~537 |
+| Hijack | 25.00% | ~537 |
+| Ancient power | 23.00% | ~494 |
+| I chose my shackles | 22.00% | ~472 |
+| Sacred Woods | 21.00% | ~451 |
+| Little light | 19.00% | ~408 |
+| Capelworth | 19.00% | ~408 |
 | Glyndemere | 18.00% | ~386 |
 | Iffighain Headquarters | 18.00% | ~386 |
-| Full equipped | 17.00% | ~364 |
-| Whispers in the Woods II | 15.00% | ~321 |
-| Quickmoore Headquarters | 15.00% | ~321 |
-| No more holding back | 14.00% | ~300 |
-| Terbisia | 14.00% | ~300 |
+| Full equipped | 17.00% | ~365 |
+| Whispers in the Woods II | 15.00% | ~322 |
+| Quickmoore Headquarters | 15.00% | ~322 |
+| No more holding back | 14.00% | ~301 |
+| Terbisia | 14.00% | ~301 |
 | Whispers in the Woods III | 13.00% | ~279 |
 | Friendly fire | 13.00% | ~279 |
 | True power | 13.00% | ~279 |
 | Meltridge | 13.00% | ~279 |
 | The Central Headquarters | 13.00% | ~279 |
-| My heart and sword always for Demacia | 12.00% | ~257 |
-| Cloven Dell Headquarters | 12.00% | ~257 |
+| My heart and sword always for Demacia | 12.00% | ~258 |
+| Cloven Dell Headquarters | 12.00% | ~258 |
 | Whispers in the Woods IV | 11.00% | ~236 |
-| Embrace the darkness | 10.00% | ~214 |
-| I smell fear | 10.00% | ~214 |
+| Embrace the darkness | 10.00% | ~215 |
+| I smell fear | 10.00% | ~215 |
 | The end of the experiments | 9.00% | ~193 |
 | The Great City of Demacia | 9.00% | ~193 |
 | Back to sleep, then... | 9.00% | ~193 |
 | Call it 'redistribution of magic | 9.00% | ~193 |
-| Do you trust me? | 8.00% | ~171 |
-| Chains master | 8.00% | ~171 |
-| Truth is a dark mirror | 8.00% | ~171 |
-| You can pet the... horse | 8.00% | ~171 |
+| Do you trust me? | 8.00% | ~172 |
+| Chains master | 8.00% | ~172 |
+| Truth is a dark mirror | 8.00% | ~172 |
+| You can pet the... horse | 8.00% | ~172 |
 | The great mage rebellion starts now | 7.00% | ~150 |
 | Spellcrafting | 7.00% | ~150 |
 | Silverwing nest | 2.00% | ~43 |
 | The Unshackled | 0.60% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,143 (Ranked 144)  
+Progressed: 2,147 (Ranked 144)  
 Completed: 1 (0.05%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 1 (0.05%) (Ranked 174)
 | 2023-05-22 | 2,111 | 1 |
 | 2023-05-23 | 2,119 | 1 |
 | 2023-05-24 | 2,132 | 1 |
-| 2023-05-25 | 2,143 | 1 |
+| 2023-05-25 | 2,147 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

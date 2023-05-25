@@ -6,46 +6,46 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,919 |
-| That's a Grand Army | 8.00% | ~3,484 |
-| That is mine! | 8.00% | ~3,484 |
-| Victorious! | 8.00% | ~3,484 |
-| Brothers in Arms | 6.00% | ~2,613 |
-| That's a Grand Navy | 6.00% | ~2,613 |
-| Seriously?! | 6.00% | ~2,613 |
-| For the Glory | 5.00% | ~2,177 |
-| Cold War | 4.00% | ~1,742 |
-| True Catholic | 4.00% | ~1,742 |
-| Defender of the Faith | 3.00% | ~1,306 |
-| It's all about the money | 3.00% | ~1,306 |
-| Respected | 3.00% | ~1,306 |
-| Truly Divine Ruler | 3.00% | ~1,306 |
-| Agressive Expander | 2.00% | ~871 |
-| Blockader | 2.00% | ~871 |
-| Combined Arms | 2.00% | ~871 |
-| Double the Love | 2.00% | ~871 |
-| Gentle Persuasion | 2.00% | ~871 |
-| It's all about luck | 2.00% | ~871 |
-| Queen of Conquest | 2.00% | ~871 |
-| Royal Authority | 2.00% | ~871 |
-| The Princess is in this Castle | 2.00% | ~871 |
-| Total Control | 2.00% | ~871 |
-| All That's Thine Shall Be Mine | 1.00% | ~435 |
-| Azur semé de lis or | 1.00% | ~435 |
-| Bright Spark | 1.00% | ~435 |
-| City of Cities | 1.00% | ~435 |
-| Factionalism | 1.00% | ~435 |
-| A Golden Empire | 1.00% | ~435 |
-| My armies are invincible! | 1.00% | ~435 |
+| Until death do us apart | 9.00% | ~3,924 |
+| That's a Grand Army | 8.00% | ~3,488 |
+| That is mine! | 8.00% | ~3,488 |
+| Victorious! | 8.00% | ~3,488 |
+| Brothers in Arms | 6.00% | ~2,616 |
+| That's a Grand Navy | 6.00% | ~2,616 |
+| Seriously?! | 6.00% | ~2,616 |
+| For the Glory | 5.00% | ~2,180 |
+| Cold War | 4.00% | ~1,744 |
+| True Catholic | 4.00% | ~1,744 |
+| Defender of the Faith | 3.00% | ~1,308 |
+| It's all about the money | 3.00% | ~1,308 |
+| Respected | 3.00% | ~1,308 |
+| Truly Divine Ruler | 3.00% | ~1,308 |
+| Agressive Expander | 2.00% | ~872 |
+| Blockader | 2.00% | ~872 |
+| Combined Arms | 2.00% | ~872 |
+| Double the Love | 2.00% | ~872 |
+| Gentle Persuasion | 2.00% | ~872 |
+| It's all about luck | 2.00% | ~872 |
+| Queen of Conquest | 2.00% | ~872 |
+| Royal Authority | 2.00% | ~872 |
+| The Princess is in this Castle | 2.00% | ~872 |
+| Total Control | 2.00% | ~872 |
+| All That's Thine Shall Be Mine | 1.00% | ~436 |
+| Azur semé de lis or | 1.00% | ~436 |
+| Bright Spark | 1.00% | ~436 |
+| City of Cities | 1.00% | ~436 |
+| Factionalism | 1.00% | ~436 |
+| A Golden Empire | 1.00% | ~436 |
+| My armies are invincible! | 1.00% | ~436 |
 | The Five Colonies | 0.90% | ~392 |
 | This navy can take it all | 0.90% | ~392 |
-| The Emperors new clothes | 0.80% | ~348 |
-| Isn't this the way to India? | 0.80% | ~348 |
-| Market Control | 0.80% | ~348 |
+| The Emperors new clothes | 0.80% | ~349 |
+| Isn't this the way to India? | 0.80% | ~349 |
+| Market Control | 0.80% | ~349 |
 | Down Under | 0.70% | ~305 |
 | Trustworthy | 0.70% | ~305 |
-| Electable! | 0.60% | ~261 |
-| Time Bandit | 0.60% | ~261 |
+| Electable! | 0.60% | ~262 |
+| Time Bandit | 0.60% | ~262 |
 | All belongs to Mother Russia | 0.50% | ~218 |
 | At every continent | 0.50% | ~218 |
 | Early-Modern Warfare | 0.50% | ~218 |
@@ -53,13 +53,14 @@ Number of Ratings: 8,414  (23.09.2022)
 | Populists in Government | 0.50% | ~218 |
 | The pen is mightier than the sword | 0.50% | ~218 |
 | This is My Faith | 0.50% | ~218 |
-| Trophy Hunter | 0.50% | ~218 |
 | Absolutely | 0.40% | ~174 |
 | Dude, Where's my Boat? | 0.40% | ~174 |
 | In the Name of the Father | 0.40% | ~174 |
 | Live Long and Prosper | 0.40% | ~174 |
+| One Night in Paris | 0.40% | ~174 |
 | Ruina Imperii | 0.40% | ~174 |
 | The Continuation of Diplomacy | 0.40% | ~174 |
+| Trophy Hunter | 0.40% | ~174 |
 | Voting Streak | 0.40% | ~174 |
 | A Pile of Gold | 0.30% | ~131 |
 | All Your Trade Are Belong to Us | 0.30% | ~131 |
@@ -73,7 +74,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Multiculturalism | 0.30% | ~131 |
 | No Pirates in my Caribbean | 0.30% | ~131 |
 | Not so sad a state... | 0.30% | ~131 |
-| One Night in Paris | 0.30% | ~131 |
 | Tear Down This Wall | 0.30% | ~131 |
 | The Chrysanthemum Throne | 0.30% | ~131 |
 | Three Trivial Tributary Tribes | 0.30% | ~131 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,545 (Ranked 78)  
+Progressed: 43,600 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -396,7 +396,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-22 | 42,079 | 0 |
 | 2023-05-23 | 42,594 | 0 |
 | 2023-05-24 | 43,149 | 0 |
-| 2023-05-25 | 43,545 | 0 |
+| 2023-05-25 | 43,600 | 0 |
 ## Awards
 Max (Educational): 5,281  (Ranked 60)  
 Sum: 43,745 (Ranked 27)  

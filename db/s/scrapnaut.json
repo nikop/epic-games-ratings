@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -506,9 +506,9 @@
       "ID": "ACH_MAKE_CANNED_FOOD",
       "SetID": "7c4cldc",
       "Name": "Prepper",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_MAKE_FUEL",
@@ -595,8 +595,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-03-31T05:58:41.9972886+00:00",
-  "LastChanged_Achievements": "2023-05-25T18:05:12.0068037+00:00",
+  "LastChanged_Achievements": "2023-05-25T19:06:12.4798852+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:01.8031827+00:00",
-  "LastUpdate_Ratings": "2023-05-25T17:58:10.4054179+00:00",
-  "LastUpdate_Achievements": "2023-05-25T18:05:12.0068265+00:00"
+  "LastUpdate_Ratings": "2023-05-25T18:58:43.3658175+00:00",
+  "LastUpdate_Achievements": "2023-05-25T19:06:12.4799224+00:00"
 }

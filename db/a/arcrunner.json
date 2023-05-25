@@ -2,7 +2,7 @@
   "ID": "4d96a32c1e5b49c3adccbcfa6deed873",
   "Name": "ArcRunner",
   "ProductSlug": "arcrunner-61fee6",
-  "Ranking_EOS_Progress": 269,
+  "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 84,
@@ -505,17 +505,17 @@
       "ID": "ACHV_TERMINATED1",
       "SetID": "cceobco",
       "Name": "Terminated I",
-      "Percentage": 66,
+      "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACHV_TERMINATED2",
       "SetID": "cceobco",
       "Name": "Terminated II",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHV_TERMINATED3",
@@ -570,8 +570,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-05-25T18:05:28.8835+00:00",
+  "LastChanged_Achievements": "2023-05-25T19:06:32.1840964+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:04:10.0269591+00:00",
-  "LastUpdate_Ratings": "2023-05-25T17:59:12.814048+00:00",
-  "LastUpdate_Achievements": "2023-05-25T18:05:28.8835222+00:00"
+  "LastUpdate_Ratings": "2023-05-25T19:00:02.579258+00:00",
+  "LastUpdate_Achievements": "2023-05-25T19:06:32.1841218+00:00"
 }

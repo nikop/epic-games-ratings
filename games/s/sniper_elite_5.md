@@ -5,10 +5,10 @@ Rating: 4.38 (Ranked 695)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 17.00% | ~241 |
-| Confirming Suspicions | 12.00% | ~170 |
-| The Kraken Wakes | 9.00% | ~127 |
-| It's Starting to Crack | 7.00% | ~99 |
+| Meeting Resistance | 17.00% | ~242 |
+| Confirming Suspicions | 12.00% | ~171 |
+| The Kraken Wakes | 9.00% | ~128 |
+| It's Starting to Crack | 7.00% | ~100 |
 | Lord of War | 6.00% | ~85 |
 | Resourceful | 6.00% | ~85 |
 | Enemy at the Gates | 5.00% | ~71 |
@@ -16,19 +16,19 @@ Rating: 4.38 (Ranked 695)
 | Just a Flesh Wound | 4.00% | ~57 |
 | Organ Grinder | 4.00% | ~57 |
 | Explosive Efficiency | 4.00% | ~57 |
-| Opposing Force | 3.00% | ~42 |
-| Gunslinger | 3.00% | ~42 |
-| Sharpshooter | 3.00% | ~42 |
-| As Quiet as a Mouse | 3.00% | ~42 |
-| Taking it back | 3.00% | ~42 |
-| Target America | 3.00% | ~42 |
+| Taking it back | 4.00% | ~57 |
+| Opposing Force | 3.00% | ~43 |
+| Gunslinger | 3.00% | ~43 |
+| Sharpshooter | 3.00% | ~43 |
+| As Quiet as a Mouse | 3.00% | ~43 |
+| Close Quarters | 3.00% | ~43 |
+| Target America | 3.00% | ~43 |
 | Climbing the Ladder | 2.00% | ~28 |
 | Liberté | 2.00% | ~28 |
 | Fields of Glory | 2.00% | ~28 |
 | Precision Is Key | 2.00% | ~28 |
 | Die Nussknacker Sweet! | 2.00% | ~28 |
 | Der Geist | 2.00% | ~28 |
-| Close Quarters | 2.00% | ~28 |
 | Snake in the Grass | 2.00% | ~28 |
 | The Kraken Sleeps | 2.00% | ~28 |
 | No Stone Unturned | 1.00% | ~14 |
@@ -38,28 +38,29 @@ Rating: 4.38 (Ranked 695)
 | Rigged to Blow | 1.00% | ~14 |
 | Brains of the Operation | 1.00% | ~14 |
 | My Little Friend | 0.80% | ~11 |
-| Locomotion Commotion | 0.60% | ~8 |
+| Locomotion Commotion | 0.60% | ~9 |
+| Operation Foxley | 0.60% | ~8 |
 | It'll Buff Right Out | 0.50% | ~7 |
-| Operation Foxley | 0.50% | ~7 |
+| Herr Today, Gone Tomorrow | 0.50% | ~7 |
+| Ghost of Falaise | 0.50% | ~7 |
 | Strategist | 0.40% | ~6 |
-| Herr Today, Gone Tomorrow | 0.40% | ~5 |
+| Don't hold your breath | 0.40% | ~6 |
 | Last Resort | 0.40% | ~5 |
 | Siegebreaker | 0.40% | ~5 |
-| Ghost of Falaise | 0.40% | ~5 |
 | From Paris with Love | 0.30% | ~4 |
-| Don't hold your breath | 0.30% | ~4 |
 | Shoot for the Moon | 0.30% | ~4 |
 | Sink or Swim | 0.30% | ~2 |
 | Souvenir hunter | 0.20% | ~3 |
 | Tinkerer | 0.20% | ~3 |
 | Road Rage | 0.20% | ~3 |
+| Reich To The Point | 0.20% | ~3 |
+| Covert Elimination | 0.20% | ~3 |
 | Out of Scope | 0.10% | ~1 |
 | Burn after reading | 0.10% | ~1 |
 | Eagle Eyed | 0.10% | ~1 |
 | Up close and personal | 0.10% | ~1 |
 | Führerious Repetition | 0.10% | ~1 |
-| Reich To The Point | 0.10% | ~1 |
-| Covert Elimination | 0.10% | ~1 |
+| From Führer Away | 0.10% | ~1 |
 | Operation Overlord | 0.10% | ~1 |
 | If You Go Down To The Woods Today | 0.10% | ~1 |
 | Best of the Best | 0.00% | ~0 |
@@ -69,7 +70,6 @@ Rating: 4.38 (Ranked 695)
 | Master-at-arms | 0.00% | ~0 |
 | Sight Beyond Sights | 0.00% | ~0 |
 | Can't Outrun A Bullet | 0.00% | ~0 |
-| From Führer Away | 0.00% | ~0 |
 | Alpha | 0.00% | ~0 |
 | Das Familienjuwel | 0.00% | ~0 |
 | Fight Another Day | 0.00% | ~0 |
@@ -77,7 +77,7 @@ Rating: 4.38 (Ranked 695)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,415 (Ranked 157)  
+Progressed: 1,422 (Ranked 157)  
 Completed: 2 (0.14%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 2 (0.14%) (Ranked 150)
 | 2023-05-22 | 1,233 | 2 |
 | 2023-05-23 | 1,294 | 2 |
 | 2023-05-24 | 1,365 | 2 |
-| 2023-05-25 | 1,415 | 2 |
+| 2023-05-25 | 1,422 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

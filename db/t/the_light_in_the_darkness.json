@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1410,
+  "EOS_Progressed": 1412,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 7.8,
+  "EOS_Completed_Percentage": 7.79,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -1658,6 +1658,11 @@
       "Time": "2023-05-25T18:05:25.4083984+00:00",
       "NumProgressed": 1410,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2023-05-25T19:06:28.2029257+00:00",
+      "NumProgressed": 1412,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 12,
@@ -1669,7 +1674,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "Bernard",
@@ -1685,7 +1690,7 @@
       "Name": "Building the Fox",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "Green Ticket Roundup",
@@ -1709,7 +1714,7 @@
       "Name": "Jakob",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "Jude",
@@ -1733,7 +1738,7 @@
       "Name": "Little Helper",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "May Their Memories be a Blessing",
@@ -1749,7 +1754,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "Nuremberg Laws",
@@ -1764,7 +1769,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 1410,
+      "Progressed": 1412,
       "Completed": 110
     }
   ],
@@ -1772,8 +1777,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-05-25T18:05:25.4083977+00:00",
+  "LastChanged_Achievements": "2023-05-25T19:06:28.2029252+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:11.427731+00:00",
-  "LastUpdate_Ratings": "2023-05-25T17:59:07.7802145+00:00",
-  "LastUpdate_Achievements": "2023-05-25T18:05:25.408418+00:00"
+  "LastUpdate_Ratings": "2023-05-25T18:59:55.7509001+00:00",
+  "LastUpdate_Achievements": "2023-05-25T19:06:28.2029419+00:00"
 }

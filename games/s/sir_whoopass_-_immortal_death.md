@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tastes just like chicken! | 93.00% | ~55 |
-| MLG 360 no scope kill! | 92.00% | ~54 |
+| Tastes just like chicken! | 95.00% | ~56 |
+| MLG 360 no scope kill! | 93.00% | ~55 |
 | Are you ready to rumble? | 92.00% | ~54 |
 | That's what cheese said! | 85.00% | ~50 |
 | I like you...but I have to kill you... | 83.00% | ~49 |
 | AHHHHHH.....I'M ON FIRE!!! | 81.00% | ~48 |
+| Not so hip anymore! | 81.00% | ~48 |
 | Nerd | 81.00% | ~48 |
-| Not so hip anymore! | 80.00% | ~47 |
-| Blurry depth perception | 76.00% | ~45 |
+| Blurry depth perception | 78.00% | ~46 |
 | Up and down | 75.00% | ~44 |
 | Rolling, Rolling, Rolling | 71.00% | ~42 |
 | Fire-fighter! | 61.00% | ~36 |
@@ -87,7 +87,7 @@
 | I'm feeling lucky! | 0.00% | ~0 |
 | Better safe than sorry - use protection | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59 (Ranked 289)  
+Progressed: 59 (Ranked 290)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |

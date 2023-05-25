@@ -87,9 +87,9 @@
       "ID": "BlueTrick",
       "SetID": "9kk0gal",
       "Name": "Blue\u0027s drawing",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "Cat",
@@ -159,9 +159,9 @@
       "ID": "Footprint",
       "SetID": "9kk0gal",
       "Name": "Mysterious footprints",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "Friend",
@@ -199,17 +199,17 @@
       "ID": "HugeSnail",
       "SetID": "9kk0gal",
       "Name": "Huge Snail",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "Mirror",
       "SetID": "9kk0gal",
       "Name": "Egghead Lucy",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 112
+      "UsersEstimate": 114
     },
     {
       "ID": "Offroad",
@@ -231,9 +231,9 @@
       "ID": "SchoolRuler",
       "SetID": "9kk0gal",
       "Name": "Big metal ruler",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "Secret",
@@ -247,17 +247,17 @@
       "ID": "Spyglass",
       "SetID": "9kk0gal",
       "Name": "Spyglass",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 30,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "Toy",
       "SetID": "9kk0gal",
       "Name": "Broken toy",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 114
+      "UsersEstimate": 116
     },
     {
       "ID": "Trinket",
@@ -271,9 +271,9 @@
       "ID": "Trumpet",
       "SetID": "9kk0gal",
       "Name": "Trumpet",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 132
+      "UsersEstimate": 134
     },
     {
       "ID": "Well",
@@ -304,8 +304,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-05-25T18:05:38.829416+00:00",
+  "LastChanged_Achievements": "2023-05-25T19:06:43.5624328+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:12:13.9596608+00:00",
-  "LastUpdate_Ratings": "2023-05-25T17:59:35.0363575+00:00",
-  "LastUpdate_Achievements": "2023-05-25T18:05:38.8294341+00:00"
+  "LastUpdate_Ratings": "2023-05-25T19:00:32.384783+00:00",
+  "LastUpdate_Achievements": "2023-05-25T19:06:43.5624484+00:00"
 }

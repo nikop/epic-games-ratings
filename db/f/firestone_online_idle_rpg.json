@@ -92,9 +92,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1160,
+  "EOS_Progressed": 1161,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2137,6 +2137,11 @@
       "Time": "2023-05-25T17:05:38.7184208+00:00",
       "NumProgressed": 1160,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-25T19:06:32.5018713+00:00",
+      "NumProgressed": 1161,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2356,7 +2361,7 @@
       "Name": "Full Party",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "gearenchanting",
@@ -2380,7 +2385,7 @@
       "Name": "Guild Power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "herewegoagain",
@@ -2420,7 +2425,7 @@
       "Name": "Inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "jewelenchanting",
@@ -2604,7 +2609,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "thealchemist",
@@ -2636,7 +2641,7 @@
       "Name": "The game is on",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "thepowerofawakening",
@@ -2708,7 +2713,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "warmachinesarmy",
@@ -2740,14 +2745,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 928
+      "UsersEstimate": 929
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1160,
+      "Progressed": 1161,
       "Completed": 1
     }
   ],
@@ -2755,8 +2760,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-23T21:58:11.918076+00:00",
-  "LastChanged_Achievements": "2023-05-25T18:05:29.113092+00:00",
+  "LastChanged_Achievements": "2023-05-25T19:06:32.5018708+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:34.8363446+00:00",
-  "LastUpdate_Ratings": "2023-05-25T17:57:45.0882732+00:00",
-  "LastUpdate_Achievements": "2023-05-25T18:05:29.1131778+00:00"
+  "LastUpdate_Ratings": "2023-05-25T18:58:11.4925885+00:00",
+  "LastUpdate_Achievements": "2023-05-25T19:06:32.5019532+00:00"
 }

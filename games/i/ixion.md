@@ -41,8 +41,8 @@ Rating: 4.55 (Ranked 468)
 | Sustainable Energy | 0.50% | ~11 |
 | Praise the Hull! | 0.50% | ~11 |
 | You Had One Job... | 0.50% | ~11 |
+| Space Greenhouse | 0.50% | ~11 |
 | What the Ruins Teach Us | 0.50% | ~11 |
-| Space Greenhouse | 0.40% | ~9 |
 | Mutual Loyalty | 0.30% | ~6 |
 | Help of the Forgotten Member | 0.30% | ~6 |
 | Better Him Than Me | 0.20% | ~4 |

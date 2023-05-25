@@ -6,7 +6,7 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 14.00% | ~1,285 |
+| Devoured by Darkness | 14.00% | ~1,286 |
 | Burning City | 10.00% | ~918 |
 | A Spark | 10.00% | ~918 |
 | Mythic Choices | 8.00% | ~735 |
@@ -17,12 +17,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Embrace of the Abyss | 4.00% | ~367 |
 | Path of the Angel | 4.00% | ~367 |
 | Demonic and Divine | 4.00% | ~367 |
-| Path of the Azata | 3.00% | ~275 |
-| Transformation | 3.00% | ~275 |
-| Great Upstart | 3.00% | ~275 |
-| Voice from Your Dreams | 3.00% | ~275 |
-| All Paths Open | 3.00% | ~275 |
-| Next-Door Play | 3.00% | ~275 |
+| Path of the Azata | 3.00% | ~276 |
+| Transformation | 3.00% | ~276 |
+| Great Upstart | 3.00% | ~276 |
+| Voice from Your Dreams | 3.00% | ~276 |
+| All Paths Open | 3.00% | ~276 |
+| Next-Door Play | 3.00% | ~276 |
 | Heart of the Fallen Land | 2.00% | ~184 |
 | The Legacy | 2.00% | ~184 |
 | Divide and Rule | 2.00% | ~184 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,182 (Ranked 110)  
+Progressed: 9,184 (Ranked 110)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -158,7 +158,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-22 | 9,090 | 0 |
 | 2023-05-23 | 9,123 | 0 |
 | 2023-05-24 | 9,159 | 0 |
-| 2023-05-25 | 9,182 | 0 |
+| 2023-05-25 | 9,184 | 0 |
 ## Awards
 Max (Character Customization): 1,640  (Ranked 111)  
 Sum: 6,648 (Ranked 110)  

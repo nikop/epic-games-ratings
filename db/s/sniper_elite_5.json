@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -206,9 +206,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1415,
+  "EOS_Progressed": 1422,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 680,
+  "EOS_NewPlayers": 685,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1381,6 +1381,11 @@
       "Time": "2023-05-25T18:05:19.5880904+00:00",
       "NumProgressed": 1415,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-25T19:06:22.1321618+00:00",
+      "NumProgressed": 1422,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1424,7 +1429,7 @@
       "Name": "Opposing Force",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -1472,7 +1477,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1512,7 +1517,7 @@
       "Name": "Gunslinger",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -1528,7 +1533,7 @@
       "Name": "Sharpshooter",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -1560,7 +1565,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1632,7 +1637,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -1640,15 +1645,15 @@
       "Name": "The Kraken Wakes",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
       "SetID": "bm6el81",
       "Name": "Close Quarters",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 43
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -1704,7 +1709,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -1720,7 +1725,7 @@
       "Name": "Locomotion Commotion",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "REWARD_5_BUNKER_BUSTER",
@@ -1750,17 +1755,17 @@
       "ID": "REWARD_67_NO_ASSISTANCE",
       "SetID": "bm6el81",
       "Name": "Don\u0027t hold your breath",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "REWARD_6_BIG_GAME_HUNTER",
       "SetID": "bm6el81",
       "Name": "Taking it back",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 57
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -1784,7 +1789,7 @@
       "Name": "Target America",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -1822,25 +1827,25 @@
       "ID": "REWARD_DLC01_02_REICH_TO_THE_POINT",
       "SetID": "83mdf7p",
       "Name": "Reich To The Point",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_DLC01_03_FROM_FUHRER_AWAY",
       "SetID": "83mdf7p",
       "Name": "From F\u00FChrer Away",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "REWARD_DLC01_04_COVERT_ELIMINATION",
       "SetID": "83mdf7p",
       "Name": "Covert Elimination",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_DLC01_05_ALPHA",
@@ -1854,17 +1859,17 @@
       "ID": "REWARD_DLC01_06_HERR_TODAY",
       "SetID": "83mdf7p",
       "Name": "Herr Today, Gone Tomorrow",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
       "SetID": "83mdf7p",
       "Name": "Operation Foxley",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -1894,9 +1899,9 @@
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
       "SetID": "83mdf7p",
       "Name": "Ghost of Falaise",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_DLC02_02_OPERATION_OVERLORD",
@@ -1959,13 +1964,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1366,
+      "Progressed": 1373,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1415,
+      "Progressed": 1422,
       "Completed": 2
     }
   ],
@@ -1973,8 +1978,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-25T14:00:05.6295104+00:00",
-  "LastChanged_Achievements": "2023-05-25T18:05:19.5880899+00:00",
+  "LastChanged_Achievements": "2023-05-25T19:06:22.1321615+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-25T17:59:56.2537781+00:00",
-  "LastUpdate_Achievements": "2023-05-25T18:05:19.5881641+00:00"
+  "LastUpdate_Ratings": "2023-05-25T19:00:59.6470586+00:00",
+  "LastUpdate_Achievements": "2023-05-25T19:06:22.1322536+00:00"
 }

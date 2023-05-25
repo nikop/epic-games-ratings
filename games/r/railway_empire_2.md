@@ -4,48 +4,48 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Departure | 33.00% | ~16 |
-| A new Journey | 33.00% | ~16 |
-| Apprentice | 28.00% | ~14 |
-| From X to Y | 26.00% | ~13 |
-| Country Bumpkin | 26.00% | ~13 |
-| Brainstorm | 26.00% | ~13 |
-| Way of Iron | 26.00% | ~13 |
-| Mind the Gap | 24.00% | ~12 |
-| Mystery Tour | 24.00% | ~12 |
-| We brake for nobody | 22.00% | ~11 |
-| All around the World | 17.00% | ~8 |
-| Poor Devil | 15.00% | ~7 |
-| Right through the middle | 15.00% | ~7 |
-| Travel Company | 15.00% | ~7 |
-| Access granted | 13.00% | ~6 |
-| Producer | 13.00% | ~6 |
-| Socializer | 13.00% | ~6 |
-| Full Steam ahead | 11.00% | ~5 |
-| Facility Manager | 11.00% | ~5 |
-| Bold and beautiful | 9.00% | ~4 |
-| Bridge Builder | 9.00% | ~4 |
-| Stoker | 7.00% | ~3 |
-| Seven at one stroke | 7.00% | ~3 |
-| Country Life | 7.00% | ~3 |
-| Breaking Ground | 7.00% | ~3 |
-| General Manager | 4.00% | ~2 |
-| Going once, going twice, sold | 4.00% | ~2 |
-| Bull and bear | 4.00% | ~2 |
-| Financial Shark | 4.00% | ~2 |
-| Trailblazer | 2.00% | ~1 |
-| Resistance is futile | 2.00% | ~1 |
-| Go West | 2.00% | ~1 |
-| A new Hope | 2.00% | ~1 |
-| Unstoppable | 2.00% | ~1 |
-| Track to the Future | 2.00% | ~1 |
-| Conductor | 2.00% | ~1 |
-| Traffic Jam | 2.00% | ~1 |
-| Hostile Takeover | 2.00% | ~1 |
-| Assimilated | 2.00% | ~1 |
-| Locusts | 2.00% | ~1 |
-| Mole | 2.00% | ~1 |
-| Networker | 2.00% | ~1 |
+| Departure | 39.00% | ~31 |
+| A new Journey | 39.00% | ~31 |
+| Country Bumpkin | 39.00% | ~31 |
+| Apprentice | 35.00% | ~28 |
+| Way of Iron | 35.00% | ~28 |
+| Brainstorm | 34.00% | ~27 |
+| From X to Y | 33.00% | ~26 |
+| Mystery Tour | 32.00% | ~26 |
+| We brake for nobody | 29.00% | ~23 |
+| Mind the Gap | 27.00% | ~22 |
+| All around the World | 25.00% | ~20 |
+| Travel Company | 24.00% | ~19 |
+| Right through the middle | 19.00% | ~15 |
+| Stoker | 16.00% | ~13 |
+| Poor Devil | 11.00% | ~9 |
+| Access granted | 9.00% | ~7 |
+| Producer | 9.00% | ~7 |
+| Facility Manager | 8.00% | ~6 |
+| Socializer | 8.00% | ~6 |
+| Full Steam ahead | 6.00% | ~5 |
+| Bold and beautiful | 5.00% | ~4 |
+| Bridge Builder | 5.00% | ~4 |
+| Seven at one stroke | 4.00% | ~3 |
+| Country Life | 4.00% | ~3 |
+| Breaking Ground | 4.00% | ~3 |
+| General Manager | 3.00% | ~2 |
+| Going once, going twice, sold | 3.00% | ~2 |
+| Bull and bear | 3.00% | ~2 |
+| Financial Shark | 3.00% | ~2 |
+| Trailblazer | 1.00% | ~1 |
+| Resistance is futile | 1.00% | ~1 |
+| Go West | 1.00% | ~1 |
+| A new Hope | 1.00% | ~1 |
+| Unstoppable | 1.00% | ~1 |
+| Track to the Future | 1.00% | ~1 |
+| Conductor | 1.00% | ~1 |
+| Traffic Jam | 1.00% | ~1 |
+| Hostile Takeover | 1.00% | ~1 |
+| Assimilated | 1.00% | ~1 |
+| Locusts | 1.00% | ~1 |
+| Mole | 1.00% | ~1 |
+| Networker | 1.00% | ~1 |
 | Engineer | 0.00% | ~0 |
 | European Union | 0.00% | ~0 |
 | Tycoon | 0.00% | ~0 |
@@ -60,7 +60,7 @@
 | Call of Duty | 0.00% | ~0 |
 | Together we stand | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49 (Ranked 292)  
+Progressed: 80 (Ranked 270)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,4 +71,4 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-18 | 9 | 0 |
 | 2023-05-22 | 10 | 0 |
 | 2023-05-24 | 12 | 0 |
-| 2023-05-25 | 49 | 0 |
+| 2023-05-25 | 80 | 0 |

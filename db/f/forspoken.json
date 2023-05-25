@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38213,
+  "EOS_Progressed": 38215,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2482,6 +2482,11 @@
       "Time": "2023-05-25T18:05:32.6888078+00:00",
       "NumProgressed": 38213,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-25T19:06:36.5089825+00:00",
+      "NumProgressed": 38215,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2691,9 +2696,9 @@
       "ID": "LOCATION_FIFTY",
       "SetID": "6d0g7k8",
       "Name": "Explorer: Pathfinder",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 382
+      "UsersEstimate": 764
     },
     {
       "ID": "LOCATION_HUNDRED",
@@ -2916,22 +2921,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 38213,
+      "Progressed": 38215,
       "Completed": 1
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 3050,
-      "Completed": 3050
+      "Progressed": 3052,
+      "Completed": 3052
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-22T20:58:51.2673153+00:00",
-  "LastChanged_Achievements": "2023-05-25T18:05:32.6888073+00:00",
+  "LastChanged_Achievements": "2023-05-25T19:06:36.5089822+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:06.8378338+00:00",
-  "LastUpdate_Ratings": "2023-05-25T17:58:12.4438989+00:00",
-  "LastUpdate_Achievements": "2023-05-25T18:05:32.6888657+00:00"
+  "LastUpdate_Ratings": "2023-05-25T18:58:46.0651369+00:00",
+  "LastUpdate_Achievements": "2023-05-25T19:06:36.5090284+00:00"
 }

@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Small town | 60.00% | ~106 |
-| I like parks | 47.00% | ~83 |
+| Small town | 60.00% | ~107 |
+| I like parks | 47.00% | ~84 |
 | The spiritual world... | 26.00% | ~46 |
 | It is nice to share with friends in the city | 25.00% | ~44 |
 | Sport is good for you | 25.00% | ~44 |
@@ -15,13 +15,13 @@
 | Clean energy | 16.00% | ~28 |
 | Soviet town | 16.00% | ~28 |
 | Bucolic city | 12.00% | ~21 |
-| I love parks | 11.00% | ~19 |
+| I love parks | 11.00% | ~20 |
 | King of fish | 10.00% | ~18 |
 | I love books! | 9.00% | ~16 |
 | What would we do if we can't go out with friends? | 8.00% | ~14 |
 | Food producer | 6.00% | ~11 |
 | Metropolurbek | 6.00% | ~11 |
-| I am very happy! | 5.00% | ~9 |
+| I am very happy! | 4.00% | ~7 |
 | Sport is the best thing | 4.00% | ~7 |
 | Banking city | 3.00% | ~5 |
 | Read! Everyone should read! | 3.00% | ~5 |
@@ -29,6 +29,7 @@
 | Temperate builder | 3.00% | ~5 |
 | Archipelago builder | 2.00% | ~4 |
 | Food provider master | 2.00% | ~4 |
+| City crisis | 2.00% | ~4 |
 | What is there after death? | 2.00% | ~4 |
 | Oh, I love parks, listening to birds! | 2.00% | ~4 |
 | Freedom to go to the mall! | 2.00% | ~4 |
@@ -36,7 +37,6 @@
 | Temperate urban planner | 2.00% | ~4 |
 | Anarchist Utopia | 1.00% | ~2 |
 | Archipelago urban planner | 1.00% | ~2 |
-| City crisis | 1.00% | ~2 |
 | Perfect city | 1.00% | ~2 |
 | Oh, I am sad | 1.00% | ~2 |
 | Town planner | 1.00% | ~2 |
@@ -84,7 +84,7 @@
 | Rainforest urban planner | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 177 (Ranked 240)  
+Progressed: 178 (Ranked 240)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-22 | 173 | 0 |
 | 2023-05-23 | 175 | 0 |
 | 2023-05-24 | 176 | 0 |
-| 2023-05-25 | 177 | 0 |
+| 2023-05-25 | 178 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

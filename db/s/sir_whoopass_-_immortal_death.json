@@ -2,9 +2,9 @@
   "ID": "009fb808545b4b8dbe794560039a59a0",
   "Name": "Sir Whoopass - Immortal Death",
   "ProductSlug": "sir-whoopass-757c5c",
-  "Ranking_EOS_Progress": 289,
+  "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
@@ -596,9 +596,9 @@
       "ID": "GNOME_1",
       "SetID": "9gfkh7c",
       "Name": "Tastes just like chicken!",
-      "Percentage": 93,
+      "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "GNOME_2",
@@ -788,9 +788,9 @@
       "ID": "ORC_HIPSTER_1",
       "SetID": "9gfkh7c",
       "Name": "Not so hip anymore!",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ORC_LOOT",
@@ -804,9 +804,9 @@
       "ID": "ORC_NOOB_1",
       "SetID": "9gfkh7c",
       "Name": "MLG 360 no scope kill!",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ORC_WARMAIDEN_1",
@@ -876,9 +876,9 @@
       "ID": "SVEN_OLOF_1",
       "SetID": "9gfkh7c",
       "Name": "Blurry depth perception",
-      "Percentage": 76,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "WEAPON_1",
@@ -923,8 +923,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-05-25T18:05:20.88802+00:00",
+  "LastChanged_Achievements": "2023-05-25T19:06:23.6805076+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:56:59.9162402+00:00",
-  "LastUpdate_Ratings": "2023-05-25T17:57:02.9940631+00:00",
-  "LastUpdate_Achievements": "2023-05-25T18:05:20.88811+00:00"
+  "LastUpdate_Ratings": "2023-05-25T18:57:19.6088672+00:00",
+  "LastUpdate_Achievements": "2023-05-25T19:06:23.6805863+00:00"
 }

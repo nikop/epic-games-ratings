@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | BUSINESS OWNER | 98.00% | ~387 |
-| CLEANER | 92.00% | ~363 |
-| OH NO, HE'S LEAVING! | 71.00% | ~280 |
+| CLEANER | 93.00% | ~367 |
+| OH NO, HE'S LEAVING! | 72.00% | ~284 |
 | FIREFIGHTER | 51.00% | ~201 |
-| ADVANCED | 34.00% | ~134 |
+| ADVANCED | 35.00% | ~138 |
 | CHIEF | 17.00% | ~67 |
 | SECOND_FLOOR | 11.00% | ~43 |
 | DEBTOR | 8.00% | ~32 |

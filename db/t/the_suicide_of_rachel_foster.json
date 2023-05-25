@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 30,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1055,
+  "EOS_Progressed": 1056,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.83,
   "EosHistory": [
@@ -647,6 +647,11 @@
       "Time": "2023-05-25T18:05:31.4794481+00:00",
       "NumProgressed": 1055,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-25T19:06:35.0429626+00:00",
+      "NumProgressed": 1056,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 11,
@@ -658,7 +663,7 @@
       "Name": "Cutepie",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -674,7 +679,7 @@
       "Name": "Screwdriver",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -690,7 +695,7 @@
       "Name": "Is she really dead?",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "ACH_FineEV9",
@@ -698,7 +703,7 @@
       "Name": "Alone",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ACH_FineGioco",
@@ -714,7 +719,7 @@
       "Name": "Pack Rat",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -722,7 +727,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -745,15 +750,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1055,
+      "Progressed": 1056,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-05-25T18:05:31.4794474+00:00",
+  "LastChanged_Achievements": "2023-05-25T19:06:35.0429622+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:12:14.3771027+00:00",
-  "LastUpdate_Ratings": "2023-05-25T17:59:34.121661+00:00",
-  "LastUpdate_Achievements": "2023-05-25T18:05:31.479457+00:00"
+  "LastUpdate_Ratings": "2023-05-25T19:00:31.3198446+00:00",
+  "LastUpdate_Achievements": "2023-05-25T19:06:35.0429702+00:00"
 }

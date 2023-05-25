@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | To Hell In A Handcart | 67.00% | ~156 |
 | Read Between The Lines | 63.00% | ~147 |
-| High Profile | 58.00% | ~135 |
+| High Profile | 59.00% | ~137 |
 | Whispers In The Dark | 56.00% | ~130 |
 | Fond Memories | 50.00% | ~116 |
 | History Check | 48.00% | ~112 |
@@ -23,8 +23,8 @@
 | At Wits' End | 38.00% | ~89 |
 | Bookworm | 36.00% | ~84 |
 | Fhtagn! | 36.00% | ~84 |
+| Going Once... | 35.00% | ~82 |
 | Up In Flames | 35.00% | ~82 |
-| Going Once... | 34.00% | ~79 |
 | Let Me Be Frank | 32.00% | ~75 |
 | Brain Food | 32.00% | ~75 |
 | No Stone Unturned | 30.00% | ~70 |

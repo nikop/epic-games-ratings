@@ -4,7 +4,7 @@
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -579,9 +579,9 @@
       "ID": "MQ02_1",
       "SetID": "bbing49",
       "Name": "High Profile",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 137
     },
     {
       "ID": "MQ02_2",
@@ -651,9 +651,9 @@
       "ID": "MQ04_1",
       "SetID": "bbing49",
       "Name": "Going Once...",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 82
     },
     {
       "ID": "MQ04_2",
@@ -796,8 +796,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-25T18:02:41.7314016+00:00",
+  "LastChanged_Achievements": "2023-05-25T19:03:48.2130123+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.473335+00:00",
-  "LastUpdate_Ratings": "2023-05-25T17:57:07.3496201+00:00",
-  "LastUpdate_Achievements": "2023-05-25T18:02:41.7314244+00:00"
+  "LastUpdate_Ratings": "2023-05-25T18:57:25.5050218+00:00",
+  "LastUpdate_Achievements": "2023-05-25T19:03:48.2130312+00:00"
 }

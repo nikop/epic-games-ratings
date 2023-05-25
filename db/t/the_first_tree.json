@@ -232,9 +232,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 31186,
+  "EOS_Progressed": 31190,
   "EOS_Completed": 97,
-  "EOS_NewPlayers": 322,
+  "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -3147,6 +3147,11 @@
       "Time": "2023-05-25T18:05:32.5197903+00:00",
       "NumProgressed": 31186,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2023-05-25T19:06:36.2251644+00:00",
+      "NumProgressed": 31190,
+      "NumCompleted": 97
     }
   ],
   "TotalAchievements": 14,
@@ -3158,7 +3163,7 @@
       "Name": "100 Stars",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1559
+      "UsersEstimate": 1560
     },
     {
       "ID": "150stars",
@@ -3174,7 +3179,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 8108
+      "UsersEstimate": 8109
     },
     {
       "ID": "allItems",
@@ -3230,7 +3235,7 @@
       "Name": "Hummed of Mystery",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "firstBunny",
@@ -3238,7 +3243,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 7796
+      "UsersEstimate": 7798
     },
     {
       "ID": "firstItem",
@@ -3246,7 +3251,7 @@
       "Name": "Two Worlds",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 24325
+      "UsersEstimate": 24328
     },
     {
       "ID": "roots",
@@ -3269,15 +3274,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 31186,
+      "Progressed": 31190,
       "Completed": 97
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-05-23T23:00:58.9617247+00:00",
-  "LastChanged_Achievements": "2023-05-25T18:05:32.5197899+00:00",
+  "LastChanged_Achievements": "2023-05-25T19:06:36.2251639+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:01.8386689+00:00",
-  "LastUpdate_Ratings": "2023-05-25T17:59:41.8980784+00:00",
-  "LastUpdate_Achievements": "2023-05-25T18:05:32.5198167+00:00"
+  "LastUpdate_Ratings": "2023-05-25T19:00:40.9956434+00:00",
+  "LastUpdate_Achievements": "2023-05-25T19:06:36.2251886+00:00"
 }

@@ -4,10 +4,10 @@
   "ProductSlug": "fifa-23",
   "Ranking_Rating": 791,
   "Ranking_Popularity": 33,
-  "Ranking_PopularitySum": 24,
+  "Ranking_PopularitySum": 23,
   "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-09-30T07:00:00+00:00",
@@ -2310,10 +2310,16 @@
       "Rating": 4.24,
       "NumberOfAwards": 49453,
       "NumberOfAwardsMax": 10546
+    },
+    {
+      "Time": "2023-05-25T19:00:36.6575171+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 49585,
+      "NumberOfAwardsMax": 10546
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49453,
+  "NumberOfAwards": 49585,
   "NumberOfAwardsMax": 10546,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -2345,7 +2351,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 6214
+      "Count": 6346
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2378,8 +2384,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-30T07:01:34.8859438+00:00",
   "FirstSeenRating": "2022-10-06T07:01:15.4932538+00:00",
-  "LastChanged": "2023-05-25T16:59:53.7689456+00:00",
+  "LastChanged": "2023-05-25T19:00:36.6575169+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:56.1472495+00:00",
-  "LastUpdate_Ratings": "2023-05-25T17:59:38.7114278+00:00",
-  "LastUpdate_Achievements": "2023-05-25T18:03:19.953893+00:00"
+  "LastUpdate_Ratings": "2023-05-25T19:00:36.6575175+00:00",
+  "LastUpdate_Achievements": "2023-05-25T19:04:09.9168053+00:00"
 }

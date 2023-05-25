@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 470,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -325,9 +325,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1540,
+  "EOS_Progressed": 1541,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -615,6 +615,11 @@
       "Time": "2023-05-25T18:05:20.1797+00:00",
       "NumProgressed": 1540,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-25T19:06:22.8092835+00:00",
+      "NumProgressed": 1541,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -634,7 +639,7 @@
       "Name": "Dead or Alive",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -690,7 +695,7 @@
       "Name": "Fallen Star",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACH_FOR_BALANCE",
@@ -778,7 +783,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 924
+      "UsersEstimate": 925
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -874,7 +879,7 @@
       "Name": "Perky",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -922,7 +927,7 @@
       "Name": "Self-Improvement",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -1002,7 +1007,7 @@
       "Name": "Unforgiven",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 1340
+      "UsersEstimate": 1341
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -1010,7 +1015,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -1034,7 +1039,7 @@
       "Name": "Winds of War",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACH_WORKERS_RIGHTS",
@@ -1049,15 +1054,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1540,
+      "Progressed": 1541,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-05-25T18:05:20.1796995+00:00",
+  "LastChanged_Achievements": "2023-05-25T19:06:22.8092828+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:00.9656203+00:00",
-  "LastUpdate_Ratings": "2023-05-25T17:58:09.0719035+00:00",
-  "LastUpdate_Achievements": "2023-05-25T18:05:20.1797458+00:00"
+  "LastUpdate_Ratings": "2023-05-25T18:58:41.7942813+00:00",
+  "LastUpdate_Achievements": "2023-05-25T19:06:22.8093277+00:00"
 }

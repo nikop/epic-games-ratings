@@ -2,9 +2,9 @@
   "ID": "713cf66874564881adc4f5bb9ade5ceb",
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
-  "Ranking_EOS_Progress": 259,
+  "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 121,
+  "EOS_Progressed": 122,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.83,
+  "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
     {
       "Time": "2023-04-30T13:59:34.488144+00:00",
@@ -468,6 +468,11 @@
       "Time": "2023-05-24T16:02:16.1570927+00:00",
       "NumProgressed": 121,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-25T19:03:43.0827431+00:00",
+      "NumProgressed": 122,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -479,7 +484,7 @@
       "Name": "Lover of classics",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ETUA_AloneInTheDark",
@@ -495,7 +500,7 @@
       "Name": "Alone with Them",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ETUA_ArmedToTheTeeth",
@@ -575,7 +580,7 @@
       "Name": "Forced to Kill",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -607,7 +612,7 @@
       "Name": "Modern Player",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ETUA_NightmareOver",
@@ -735,7 +740,7 @@
       "Name": "The Curse Is Real",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ETUA_TheForgottenTower",
@@ -775,7 +780,7 @@
       "Name": "Trapped",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ETUA_WhatAMansion",
@@ -783,22 +788,22 @@
       "Name": "What A Mansion",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ETUA_WhatHaveIDone",
       "SetID": "65jc0ap",
       "Name": "What have I done!?",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 121,
+      "Progressed": 122,
       "Completed": 1
     }
   ],
@@ -806,8 +811,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2023-05-25T18:02:37.3223452+00:00",
+  "LastChanged_Achievements": "2023-05-25T19:03:43.0827255+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:00.9346953+00:00",
-  "LastUpdate_Ratings": "2023-05-25T17:57:04.6550632+00:00",
-  "LastUpdate_Achievements": "2023-05-25T18:02:37.3223792+00:00"
+  "LastUpdate_Ratings": "2023-05-25T18:57:21.9786814+00:00",
+  "LastUpdate_Achievements": "2023-05-25T19:03:43.0827897+00:00"
 }

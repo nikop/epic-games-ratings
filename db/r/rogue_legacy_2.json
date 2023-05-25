@@ -5,9 +5,9 @@
   "Ranking_Rating": 39,
   "Ranking_Popularity": 249,
   "Ranking_PopularitySum": 201,
-  "Ranking_EOS_Progress": 92,
+  "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1033,10 +1033,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 1630,
       "NumberOfAwardsMax": 217
+    },
+    {
+      "Time": "2023-05-25T18:59:27.8126269+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 1631,
+      "NumberOfAwardsMax": 217
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1630,
+  "NumberOfAwards": 1631,
   "NumberOfAwardsMax": 217,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1056,7 +1062,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 199
+      "Count": 200
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1103,7 +1109,7 @@
   ],
   "EOS_Progressed": 21785,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -3115,9 +3121,9 @@
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
-  "LastChanged": "2023-05-25T03:59:33.6793252+00:00",
-  "LastChanged_Achievements": "2023-05-25T18:05:31.3038849+00:00",
+  "LastChanged": "2023-05-25T18:59:27.8126268+00:00",
+  "LastChanged_Achievements": "2023-05-25T19:06:34.8082074+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:25.8639734+00:00",
-  "LastUpdate_Ratings": "2023-05-25T17:58:44.8987928+00:00",
-  "LastUpdate_Achievements": "2023-05-25T18:05:31.3039207+00:00"
+  "LastUpdate_Ratings": "2023-05-25T18:59:27.8126273+00:00",
+  "LastUpdate_Achievements": "2023-05-25T19:06:34.8082419+00:00"
 }

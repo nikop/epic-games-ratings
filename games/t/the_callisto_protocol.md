@@ -5,26 +5,26 @@ Rating: 4.18 (Ranked 831)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 6.00% | ~815 |
-| Giving Back | 5.00% | ~679 |
-| Chew 'Em Up | 5.00% | ~679 |
-| Instigator | 4.00% | ~60 |
-| Big Game Hunter | 4.00% | ~60 |
+| Flesh Wound | 6.00% | ~816 |
+| Giving Back | 5.00% | ~680 |
+| Chew 'Em Up | 5.00% | ~680 |
+| The Outer Way | 4.00% | ~544 |
+| Instigator | 4.00% | ~61 |
+| Big Game Hunter | 4.00% | ~61 |
+| Float Like A Butterfly | 3.00% | ~408 |
 | Reforged | 3.00% | ~408 |
 | Paper Jams | 3.00% | ~408 |
-| The Outer Way | 3.00% | ~408 |
 | Desperate Times | 3.00% | ~408 |
-| Bear Trap | 3.00% | ~45 |
+| Bear Trap | 3.00% | ~46 |
 | Get a Grip | 2.00% | ~272 |
+| Terminated | 2.00% | ~272 |
 | Workplace Hazard | 2.00% | ~272 |
 | The Commonality | 2.00% | ~272 |
-| Float Like A Butterfly | 2.00% | ~272 |
 | Mugshot | 2.00% | ~272 |
 | If the SHU Fits... | 2.00% | ~272 |
 | Big Spender | 2.00% | ~30 |
 | Parole Denied | 1.00% | ~15 |
 | Two Heads Are Better Than One | 1.00% | ~136 |
-| Terminated | 1.00% | ~136 |
 | Without A Paddle | 1.00% | ~136 |
 | Hoard Mode | 1.00% | ~15 |
 | In the Pipe, Five by Five | 0.90% | ~122 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 831)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,584 (Ranked 102)  
+Progressed: 13,592 (Ranked 102)  
 Completed: 52 (0.38%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 52 (0.38%) (Ranked 114)
 | 2023-05-22 | 13,347 | 52 |
 | 2023-05-23 | 13,444 | 52 |
 | 2023-05-24 | 13,523 | 52 |
-| 2023-05-25 | 13,584 | 52 |
+| 2023-05-25 | 13,592 | 52 |
 ## Awards
 Max (Highly Recommended): 46  (Ranked 398)  
 Sum: 267 (Ranked 335)  

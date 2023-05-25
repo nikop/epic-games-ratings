@@ -25,12 +25,12 @@ Rating: 4.15 (Ranked 847)
 | What Must Be Done | 2.00% | ~764 |
 | Might and Main | 2.00% | ~764 |
 | Damned If You Do... | 2.00% | ~764 |
+| Explorer: Pathfinder | 2.00% | ~764 |
 | From Every Angle | 2.00% | ~764 |
 | The Hue of Blue | 1.00% | ~382 |
 | The Truth Will Out | 1.00% | ~382 |
 | Breaking Point | 1.00% | ~382 |
 | None the Wiser | 1.00% | ~382 |
-| Explorer: Pathfinder | 1.00% | ~382 |
 | Shocker | 1.00% | ~382 |
 | Pilgrimage: Novice | 1.00% | ~382 |
 | Forspoken | 0.90% | ~344 |
@@ -59,7 +59,7 @@ Rating: 4.15 (Ranked 847)
 | Remembrance | 0.10% | ~38 |
 | Cat Person | 0.10% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,213 (Ranked 81)  
+Progressed: 38,215 (Ranked 81)  
 Completed: 1 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 1 (0.00%) (Ranked 202)
 | 2023-05-22 | 38,173 | 1 |
 | 2023-05-23 | 38,186 | 1 |
 | 2023-05-24 | 38,205 | 1 |
-| 2023-05-25 | 38,213 | 1 |
+| 2023-05-25 | 38,215 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

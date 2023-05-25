@@ -428,9 +428,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13584,
+  "EOS_Progressed": 13592,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 1007,
+  "EOS_NewPlayers": 1009,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1543,6 +1543,11 @@
       "Time": "2023-05-25T18:03:10.3291838+00:00",
       "NumProgressed": 13584,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-05-25T19:03:58.181786+00:00",
+      "NumProgressed": 13592,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 40,
@@ -1570,7 +1575,7 @@
       "Name": "Giving Back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -1586,7 +1591,7 @@
       "Name": "Flesh Wound",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -1682,15 +1687,15 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "KILL_ROBOT",
       "SetID": "4hj6d86",
       "Name": "Terminated",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 136
+      "UsersEstimate": 272
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -1712,9 +1717,9 @@
       "ID": "PERFECT_DODGE_MULTIPLE",
       "SetID": "4hj6d86",
       "Name": "Float Like A Butterfly",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 408
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -1744,9 +1749,9 @@
       "ID": "STORY_COLDOPEN",
       "SetID": "4hj6d86",
       "Name": "The Outer Way",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 408
+      "UsersEstimate": 544
     },
     {
       "ID": "STORY_ESCAPE",
@@ -1826,7 +1831,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -1834,7 +1839,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -1842,7 +1847,7 @@
       "Name": "Bear Trap",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -1873,13 +1878,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13584,
+      "Progressed": 13592,
       "Completed": 52
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1510,
+      "Progressed": 1518,
       "Completed": 29
     }
   ],
@@ -1887,8 +1892,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-23T19:57:59.4143533+00:00",
-  "LastChanged_Achievements": "2023-05-25T18:03:10.3291832+00:00",
+  "LastChanged_Achievements": "2023-05-25T19:03:58.1817852+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-25T17:57:37.8053415+00:00",
-  "LastUpdate_Achievements": "2023-05-25T18:03:10.3292224+00:00"
+  "LastUpdate_Ratings": "2023-05-25T18:58:01.9346615+00:00",
+  "LastUpdate_Achievements": "2023-05-25T19:03:58.1818173+00:00"
 }
