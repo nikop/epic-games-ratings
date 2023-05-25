@@ -1,6 +1,5 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [Tuk Tuk Race](games/t/tuk_tuk_race.md) | 2023-05-25 | 2023-05-25 |
 | [Puzzle Compound](games/d/dc0f95061f7746e3b4ad939bee60f1a3.md) | 2023-05-25 | 2023-05-25 |
 | [Tennis Manager 2023](games/t/tennis_manager_2023.md) | 2023-05-25 | 2023-05-25 |
 | [Hello Goodboy](games/h/hello_goodboy.md) | 2023-05-25 | 2023-05-25 |
@@ -123,6 +122,7 @@
 | [Total Reload](games/t/total_reload.md) | 2023-09-30 | 2023-09-30 |
 | [UNFOLLOW](games/u/unfollow.md) | 2023-09-30 | 2023-09-30 |
 | [Game Dev Masters](games/g/game_dev_masters.md) | 2023-10-03 | 2022-06-03 |
+| [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 2023-10-12 | 2023-10-12 |
 | [Tall Poppy 2](games/7/71f1ccd53d6a46c8a44b9e5425af0723.md) | 2023-10-13 | 2023-10-13 |
 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 2023-10-13 | 2023-10-13 |
 | [Alan Wake 2](games/a/alan_wake_2.md) | 2023-10-17 | 2023-10-17 |
@@ -424,4 +424,3 @@
 | [Warhammer 40,000: Shootas Blood & Teef](games/w/warhammer_40,000__shootas_blood_&_teef.md) | 2099-10-20 | 2022-10-20 |
 | [S.T.A.L.K.E.R. 2: Heart of Chornobyl](games/s/s.t.a.l.k.e.r._2__heart_of_chornobyl.md) | 2099-12-08 | - |
 | [Superior](games/s/superior.md) | 2099-12-13 | 2099-12-13 |
-| [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 2099-12-31 | 2099-12-31 |
