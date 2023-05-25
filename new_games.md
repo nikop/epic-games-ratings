@@ -173,4 +173,3 @@
 | [Morels: The Hunt](games/m/morels__the_hunt.md) | 2023-04-25 | 2019-10-15 |
 | [Strayed Lights](games/s/strayed_lights.md) | 2023-04-25 | 2023-04-25 |
 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 2023-04-25 | 2023-04-25 |
-| [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 2023-04-25 | 2023-04-25 |
