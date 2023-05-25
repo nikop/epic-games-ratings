@@ -1,5 +1,7 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
+| [Puzzle Compound](games/d/dc0f95061f7746e3b4ad939bee60f1a3.md) | 2023-05-25 | 2023-05-25 |
+| [Tennis Manager 2023](games/t/tennis_manager_2023.md) | 2023-05-25 | 2023-05-25 |
 | [Tuk Tuk Race](games/t/tuk_tuk_race.md) | 2023-05-25 | 2023-05-25 |
 | [Ironclads - Anglo Russian War 1866](games/d/dbab27419c774a8a96d97c8386557cc2.md) | 2023-05-25 | 2011-06-21 |
 | [Ironclads - Chincha Islands War 1866](games/a/a2d890979568420790ece36e40748574.md) | 2023-05-25 | 2011-06-21 |
@@ -171,5 +173,3 @@
 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 2023-04-26 | 2023-04-26 |
 | [Lonesome Village](games/l/lonesome_village.md) | 2023-04-25 | 2023-04-25 |
 | [Morels: The Hunt](games/m/morels__the_hunt.md) | 2023-04-25 | 2019-10-15 |
-| [Strayed Lights](games/s/strayed_lights.md) | 2023-04-25 | 2023-04-25 |
-| [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 2023-04-25 | 2023-04-25 |

@@ -1,7 +1,5 @@
 | Game | Release Date | PC Release Date |
 | ---- | ------------ | --------------- |
-| [Puzzle Compound](games/d/dc0f95061f7746e3b4ad939bee60f1a3.md) | 2023-05-25 | 2023-05-25 |
-| [Tennis Manager 2023](games/t/tennis_manager_2023.md) | 2023-05-25 | 2023-05-25 |
 | [Hello Goodboy](games/h/hello_goodboy.md) | 2023-05-25 | 2023-05-25 |
 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 2023-05-25 | 2023-05-25 |
 | [Railway Empire 2](games/r/railway_empire_2.md) | 2023-05-25 | 2023-05-25 |
