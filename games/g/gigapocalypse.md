@@ -37,9 +37,9 @@
 | Immortal Skin | 20.00% | ~25 |
 | Back To The Future | 19.00% | ~24 |
 | Loyal Companion | 19.00% | ~24 |
+| Fire Beacon | 19.00% | ~24 |
 | Lunch Before The Lunch | 18.00% | ~22 |
-| Fire Beacon | 18.00% | ~22 |
-| Building Blocks | 15.00% | ~19 |
+| Building Blocks | 16.00% | ~20 |
 | From Here To Eternity | 14.00% | ~17 |
 | Boss Hunter | 14.00% | ~17 |
 | Octopostructure | 12.00% | ~15 |

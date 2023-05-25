@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1457,
+  "EOS_Progressed": 1458,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -675,6 +675,11 @@
       "Time": "2023-05-24T21:02:23.1422174+00:00",
       "NumProgressed": 1457,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-25T10:01:12.0561885+00:00",
+      "NumProgressed": 1458,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -686,7 +691,7 @@
       "Name": "Become King",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "Collect20Gold",
@@ -710,7 +715,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "CollectAllStatues",
@@ -748,9 +753,9 @@
       "ID": "CompleteChefsBook",
       "SetID": "9lj35g4",
       "Name": "Complete the Chefs Book",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 335
+      "UsersEstimate": 321
     },
     {
       "ID": "CompleteElderFaction",
@@ -766,7 +771,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "CompleteHunterFaction",
@@ -822,7 +827,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "GetRangedWeapon",
@@ -846,7 +851,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "Kill25Frogs",
@@ -862,7 +867,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "MeetTheMoles",
@@ -886,7 +891,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "RepairSmith",
@@ -910,7 +915,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "ReturnPowerInMines",
@@ -925,22 +930,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1457,
+      "Progressed": 1458,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 98,
-      "Completed": 98
+      "Progressed": 99,
+      "Completed": 99
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-04-02T20:59:05.8070796+00:00",
-  "LastChanged_Achievements": "2023-05-25T09:01:17.1363781+00:00",
+  "LastChanged_Achievements": "2023-05-25T10:01:12.056188+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3670256+00:00",
-  "LastUpdate_Ratings": "2023-05-25T08:58:35.3742186+00:00",
-  "LastUpdate_Achievements": "2023-05-25T09:01:17.136419+00:00"
+  "LastUpdate_Ratings": "2023-05-25T09:58:32.0209262+00:00",
+  "LastUpdate_Achievements": "2023-05-25T10:01:12.056231+00:00"
 }

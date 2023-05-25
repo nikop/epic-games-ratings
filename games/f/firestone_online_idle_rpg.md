@@ -19,13 +19,13 @@ Rating: 3.87 (Ranked 906)
 | Full Party | 14.00% | ~162 |
 | Inspection | 14.00% | ~162 |
 | Hero inspection | 13.00% | ~151 |
+| Lieutenant | 12.00% | ~139 |
 | Dragon Master | 11.00% | ~127 |
 | Enlightenment | 11.00% | ~127 |
-| Lieutenant | 11.00% | ~127 |
 | Milestone collector | 10.00% | ~116 |
+| Mysterious Rock | 10.00% | ~116 |
 | Natural Talent | 10.00% | ~116 |
 | The Unstoppable | 10.00% | ~116 |
-| Mysterious Rock | 9.00% | ~104 |
 | Superior | 9.00% | ~104 |
 | Scientist | 8.00% | ~93 |
 | Daily Quest Completionist | 7.00% | ~81 |

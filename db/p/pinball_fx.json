@@ -1492,9 +1492,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 221296,
+  "EOS_Progressed": 221305,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3078,
+  "EOS_NewPlayers": 3075,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4972,6 +4972,11 @@
       "Time": "2023-05-25T09:06:12.8204373+00:00",
       "NumProgressed": 221296,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T10:06:06.3351769+00:00",
+      "NumProgressed": 221305,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -5031,7 +5036,7 @@
       "Name": "Contender",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 24343
+      "UsersEstimate": 24344
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -5207,7 +5212,7 @@
       "Name": "Ball Launched",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 179250
+      "UsersEstimate": 179257
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -5215,22 +5220,22 @@
       "Name": "I know the Rules",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 95157
+      "UsersEstimate": 95161
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 221296,
+      "Progressed": 221305,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-05-21T18:59:34.7041152+00:00",
-  "LastChanged_Achievements": "2023-05-25T09:06:12.8204368+00:00",
+  "LastChanged_Achievements": "2023-05-25T10:06:06.335176+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.539991+00:00",
-  "LastUpdate_Ratings": "2023-05-25T08:59:17.3258662+00:00",
-  "LastUpdate_Achievements": "2023-05-25T09:06:12.8205655+00:00"
+  "LastUpdate_Ratings": "2023-05-25T09:59:13.8479869+00:00",
+  "LastUpdate_Achievements": "2023-05-25T10:06:06.3352258+00:00"
 }

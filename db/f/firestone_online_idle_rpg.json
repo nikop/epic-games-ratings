@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -94,7 +94,7 @@
   "Tags": [],
   "EOS_Progressed": 1158,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2432,9 +2432,9 @@
       "ID": "lieutenant",
       "SetID": "3nl4bcg",
       "Name": "Lieutenant",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 139
     },
     {
       "ID": "lockandload",
@@ -2496,9 +2496,9 @@
       "ID": "mysteriousrock",
       "SetID": "3nl4bcg",
       "Name": "Mysterious Rock",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 116
     },
     {
       "ID": "mythicpower",
@@ -2745,8 +2745,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-23T21:58:11.918076+00:00",
-  "LastChanged_Achievements": "2023-05-25T09:06:25.3409294+00:00",
+  "LastChanged_Achievements": "2023-05-25T10:06:18.0433999+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:34.8363446+00:00",
-  "LastUpdate_Ratings": "2023-05-25T08:58:08.7235515+00:00",
-  "LastUpdate_Achievements": "2023-05-25T09:06:25.341017+00:00"
+  "LastUpdate_Ratings": "2023-05-25T09:58:06.4138115+00:00",
+  "LastUpdate_Achievements": "2023-05-25T10:06:18.0434946+00:00"
 }

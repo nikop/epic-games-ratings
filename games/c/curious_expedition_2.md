@@ -38,7 +38,7 @@ Number of Ratings: 20  (23.09.2022)
 | Adventurer | 12.00% | ~36 |
 | Discovery | 12.00% | ~36 |
 | Very Classy | 11.00% | ~33 |
-| And Here Is Your Statue | 9.00% | ~27 |
+| And Here Is Your Statue | 10.00% | ~30 |
 | Under the Table | 9.00% | ~27 |
 | Errand Runner | 9.00% | ~27 |
 | SCHMETTERLING | 8.00% | ~24 |

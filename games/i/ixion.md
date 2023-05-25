@@ -21,18 +21,18 @@ Rating: 4.55 (Ranked 467)
 | Hope Seeker | 3.00% | ~64 |
 | A Hunk of Junk | 2.00% | ~43 |
 | Exceeding Capacity | 2.00% | ~43 |
+| Power Outage | 2.00% | ~43 |
 | Please Make it Stop! | 2.00% | ~43 |
 | Man's Best Friend | 1.00% | ~21 |
 | Sightseeing | 1.00% | ~21 |
-| Power Outage | 1.00% | ~21 |
 | Access Granted | 1.00% | ~21 |
 | Necessary Enhancement | 1.00% | ~21 |
 | Convenient Transport | 1.00% | ~21 |
 | From the Past | 1.00% | ~21 |
 | Oats | 0.80% | ~17 |
+| BRAWL! | 0.80% | ~17 |
 | In Dolos We Trust | 0.70% | ~15 |
 | Delivery! | 0.70% | ~15 |
-| BRAWL! | 0.70% | ~15 |
 | All in Good Health | 0.70% | ~15 |
 | Pulsar Disciple | 0.70% | ~15 |
 | What They Hide From Us | 0.60% | ~13 |

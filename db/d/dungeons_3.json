@@ -2062,9 +2062,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 17479,
+  "EOS_Progressed": 17480,
   "EOS_Completed": 156,
-  "EOS_NewPlayers": 1048,
+  "EOS_NewPlayers": 1043,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
@@ -5432,6 +5432,11 @@
       "Time": "2023-05-25T09:04:15.2275326+00:00",
       "NumProgressed": 17479,
       "NumCompleted": 156
+    },
+    {
+      "Time": "2023-05-25T10:04:05.0028725+00:00",
+      "NumProgressed": 17480,
+      "NumCompleted": 156
     }
   ],
   "TotalAchievements": 60,
@@ -5451,7 +5456,7 @@
       "Name": "No one has to die today!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 8215
+      "UsersEstimate": 8216
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -5531,7 +5536,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 6292
+      "UsersEstimate": 6293
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -5555,7 +5560,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 8914
+      "UsersEstimate": 8915
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -5659,7 +5664,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 7341
+      "UsersEstimate": 7342
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -5675,7 +5680,7 @@
       "Name": "Rusty Steel",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 7341
+      "UsersEstimate": 7342
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -5723,7 +5728,7 @@
       "Name": "Destroy the thing",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 4719
+      "UsersEstimate": 4720
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -5795,7 +5800,7 @@
       "Name": "The Force disturbed",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 3845
+      "UsersEstimate": 3846
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_1",
@@ -5827,7 +5832,7 @@
       "Name": "Death and destruction!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 8040
+      "UsersEstimate": 8041
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -5843,7 +5848,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 12235
+      "UsersEstimate": 12236
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -5891,7 +5896,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 5418
+      "UsersEstimate": 5419
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -5922,15 +5927,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 17479,
+      "Progressed": 17480,
       "Completed": 156
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-05-23T17:59:04.6642769+00:00",
-  "LastChanged_Achievements": "2023-05-25T09:04:15.2275319+00:00",
+  "LastChanged_Achievements": "2023-05-25T10:04:05.0028718+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:24.9884893+00:00",
-  "LastUpdate_Ratings": "2023-05-25T08:59:24.0649013+00:00",
-  "LastUpdate_Achievements": "2023-05-25T09:04:15.2276167+00:00"
+  "LastUpdate_Ratings": "2023-05-25T09:59:20.4988961+00:00",
+  "LastUpdate_Achievements": "2023-05-25T10:04:05.0029468+00:00"
 }

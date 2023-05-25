@@ -1340,9 +1340,9 @@
       "ID": "HUNT_RABBIT_20",
       "SetID": "5349c2e",
       "Name": "Wabbit Season",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 24
     },
     {
       "ID": "HUNT_RABBIT_5",
@@ -1516,8 +1516,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-05-20T17:59:42.2266886+00:00",
-  "LastChanged_Achievements": "2023-05-25T09:06:29.1217732+00:00",
+  "LastChanged_Achievements": "2023-05-25T10:06:21.6063317+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:15.8703194+00:00",
-  "LastUpdate_Ratings": "2023-05-25T09:00:10.6045856+00:00",
-  "LastUpdate_Achievements": "2023-05-25T09:06:29.1217995+00:00"
+  "LastUpdate_Ratings": "2023-05-25T10:00:05.6134269+00:00",
+  "LastUpdate_Achievements": "2023-05-25T10:06:21.6063853+00:00"
 }

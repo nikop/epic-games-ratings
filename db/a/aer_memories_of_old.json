@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10260,
+  "EOS_Progressed": 10261,
   "EOS_Completed": 219,
-  "EOS_NewPlayers": 668,
+  "EOS_NewPlayers": 667,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
@@ -3664,6 +3664,11 @@
       "Time": "2023-05-25T08:06:29.033693+00:00",
       "NumProgressed": 10260,
       "NumCompleted": 219
+    },
+    {
+      "Time": "2023-05-25T10:06:25.3106781+00:00",
+      "NumProgressed": 10261,
+      "NumCompleted": 219
     }
   ],
   "TotalAchievements": 20,
@@ -3771,7 +3776,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -3811,7 +3816,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -3827,22 +3832,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1949
+      "UsersEstimate": 1950
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 10260,
+      "Progressed": 10261,
       "Completed": 219
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-05-25T09:06:32.7034779+00:00",
+  "LastChanged_Achievements": "2023-05-25T10:06:25.3106776+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:55.3860901+00:00",
-  "LastUpdate_Ratings": "2023-05-25T09:00:30.659089+00:00",
-  "LastUpdate_Achievements": "2023-05-25T09:06:32.7035562+00:00"
+  "LastUpdate_Ratings": "2023-05-25T10:00:25.8021291+00:00",
+  "LastUpdate_Achievements": "2023-05-25T10:06:25.3107162+00:00"
 }

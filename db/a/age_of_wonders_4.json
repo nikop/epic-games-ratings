@@ -160,9 +160,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3369,
+  "EOS_Progressed": 3370,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 691,
+  "EOS_NewPlayers": 685,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1885,6 +1885,11 @@
       "Time": "2023-05-25T09:04:12.0658137+00:00",
       "NumProgressed": 3369,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T10:04:01.8087527+00:00",
+      "NumProgressed": 3370,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -1912,7 +1917,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 1617
+      "UsersEstimate": 1618
     },
     {
       "ID": "12",
@@ -1936,7 +1941,7 @@
       "Name": "Full Ascension",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 1853
+      "UsersEstimate": 1854
     },
     {
       "ID": "15",
@@ -1968,7 +1973,7 @@
       "Name": "Arch Mage",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "19",
@@ -2008,15 +2013,15 @@
       "Name": "Realm Estate",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2594
+      "UsersEstimate": 2595
     },
     {
       "ID": "23",
       "SetID": "3aa2279",
       "Name": "A Wonderful Discovery",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2695
+      "UsersEstimate": 2730
     },
     {
       "ID": "24",
@@ -2024,7 +2029,7 @@
       "Name": "Secret Technique",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 2594
+      "UsersEstimate": 2595
     },
     {
       "ID": "25",
@@ -2032,7 +2037,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2527
+      "UsersEstimate": 2528
     },
     {
       "ID": "26",
@@ -2048,7 +2053,7 @@
       "Name": "Digging for Treasure",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1044
+      "UsersEstimate": 1045
     },
     {
       "ID": "28",
@@ -2056,7 +2061,7 @@
       "Name": "From Friends to Family",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 2358
+      "UsersEstimate": 2359
     },
     {
       "ID": "29",
@@ -2070,9 +2075,9 @@
       "ID": "3",
       "SetID": "3aa2279",
       "Name": "Crimson Caldera",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 505
+      "UsersEstimate": 539
     },
     {
       "ID": "30",
@@ -2096,7 +2101,7 @@
       "Name": "My Final Form",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 1482
+      "UsersEstimate": 1483
     },
     {
       "ID": "33",
@@ -2104,7 +2109,7 @@
       "Name": "Seat of Power",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1584
     },
     {
       "ID": "34",
@@ -2136,7 +2141,7 @@
       "Name": "Against the Odds",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 1044
+      "UsersEstimate": 1045
     },
     {
       "ID": "38",
@@ -2150,9 +2155,9 @@
       "ID": "39",
       "SetID": "3aa2279",
       "Name": "Impenetrable Fortress",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 842
+      "UsersEstimate": 876
     },
     {
       "ID": "4",
@@ -2168,7 +2173,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 1482
+      "UsersEstimate": 1483
     },
     {
       "ID": "41",
@@ -2247,13 +2252,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 3369,
-      "Completed": 3369
+      "Progressed": 3370,
+      "Completed": 3370
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 3369,
+      "Progressed": 3370,
       "Completed": 0
     }
   ],
@@ -2261,8 +2266,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-05-24T15:00:10.7602094+00:00",
-  "LastChanged_Achievements": "2023-05-25T09:04:12.0658131+00:00",
+  "LastChanged_Achievements": "2023-05-25T10:04:01.808752+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:46.682938+00:00",
-  "LastUpdate_Ratings": "2023-05-25T08:59:42.7464881+00:00",
-  "LastUpdate_Achievements": "2023-05-25T09:04:12.0659182+00:00"
+  "LastUpdate_Ratings": "2023-05-25T09:59:39.4263038+00:00",
+  "LastUpdate_Achievements": "2023-05-25T10:04:01.808798+00:00"
 }

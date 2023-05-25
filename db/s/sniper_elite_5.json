@@ -200,9 +200,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1384,
+  "EOS_Progressed": 1385,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 654,
+  "EOS_NewPlayers": 655,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1330,6 +1330,11 @@
       "Time": "2023-05-25T09:06:14.3482903+00:00",
       "NumProgressed": 1384,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-25T10:06:07.7691571+00:00",
+      "NumProgressed": 1385,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1421,7 +1426,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1531,9 +1536,9 @@
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
       "SetID": "bm6el81",
       "Name": "My Little Friend",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -1908,13 +1913,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1335,
+      "Progressed": 1336,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1384,
+      "Progressed": 1385,
       "Completed": 2
     }
   ],
@@ -1922,8 +1927,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-24T14:00:16.736359+00:00",
-  "LastChanged_Achievements": "2023-05-25T09:06:14.3482898+00:00",
+  "LastChanged_Achievements": "2023-05-25T10:06:07.7691562+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-25T09:00:55.0277832+00:00",
-  "LastUpdate_Achievements": "2023-05-25T09:06:14.3483698+00:00"
+  "LastUpdate_Ratings": "2023-05-25T10:00:49.4642795+00:00",
+  "LastUpdate_Achievements": "2023-05-25T10:06:07.7692408+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 203,
+  "EOS_Progressed": 205,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -819,6 +819,11 @@
       "Time": "2023-05-25T02:05:46.9529277+00:00",
       "NumProgressed": 203,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T10:01:04.3303906+00:00",
+      "NumProgressed": 205,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -1006,7 +1011,7 @@
       "Name": "The Big Day",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "Packing20",
@@ -1014,7 +1019,7 @@
       "Name": "Next Level Cuisine",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "PerfectGrade25",
@@ -1030,7 +1035,7 @@
       "Name": "Home Cook",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "RecipeDifferent30",
@@ -1086,7 +1091,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "TrattoriaSet",
@@ -1149,7 +1154,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 203,
+      "Progressed": 205,
       "Completed": 0
     }
   ],
@@ -1157,8 +1162,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-25T09:01:09.0697987+00:00",
+  "LastChanged_Achievements": "2023-05-25T10:01:04.3303902+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.318416+00:00",
-  "LastUpdate_Ratings": "2023-05-25T08:58:38.1508035+00:00",
-  "LastUpdate_Achievements": "2023-05-25T09:01:09.0698383+00:00"
+  "LastUpdate_Ratings": "2023-05-25T09:58:34.7715665+00:00",
+  "LastUpdate_Achievements": "2023-05-25T10:01:04.330456+00:00"
 }

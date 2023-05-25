@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Graduation | 77.00% | ~76 |
-| You Have Been Deaded | 68.00% | ~67 |
-| Rookie | 68.00% | ~67 |
-| Apprentice Destructor | 21.00% | ~21 |
+| Graduation | 78.00% | ~77 |
+| You Have Been Deaded | 69.00% | ~68 |
+| Rookie | 69.00% | ~68 |
+| Apprentice Destructor | 22.00% | ~22 |
 | I Prefer Jazz Fusion | 10.00% | ~10 |
 | You Are Actually Supposed To Use Those | 7.00% | ~7 |
+| Avaricerite | 6.00% | ~6 |
 | Master Destructor | 6.00% | ~6 |
-| Avaricerite | 5.00% | ~5 |
 | Ball Galore | 5.00% | ~5 |
 | Easy Victory | 5.00% | ~5 |
 | Back From The Dead | 3.00% | ~3 |

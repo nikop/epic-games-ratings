@@ -824,17 +824,17 @@
       "ID": "LEVEL_015",
       "SetID": "3khpmem",
       "Name": "Monumental tribute",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "LEVEL_016",
       "SetID": "3khpmem",
       "Name": "The beach is right there",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "LEVEL_017",
@@ -897,8 +897,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-25T09:06:04.2796849+00:00",
+  "LastChanged_Achievements": "2023-05-25T10:05:58.0194798+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:36.8517809+00:00",
-  "LastUpdate_Ratings": "2023-05-25T08:58:11.423736+00:00",
-  "LastUpdate_Achievements": "2023-05-25T09:06:04.2797025+00:00"
+  "LastUpdate_Ratings": "2023-05-25T09:58:09.2558367+00:00",
+  "LastUpdate_Achievements": "2023-05-25T10:05:58.0195015+00:00"
 }

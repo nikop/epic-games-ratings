@@ -2806,10 +2806,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 5864,
       "NumberOfAwardsMax": 738
+    },
+    {
+      "Time": "2023-05-25T09:58:58.3424227+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 5865,
+      "NumberOfAwardsMax": 738
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5864,
+  "NumberOfAwards": 5865,
   "NumberOfAwardsMax": 738,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -2871,7 +2877,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 425
+      "Count": 426
     },
     {
       "Text": "This game has a Competitive Community",
@@ -2891,8 +2897,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:31.7729603+00:00",
-  "LastChanged": "2023-05-25T07:58:50.276283+00:00",
+  "LastChanged": "2023-05-25T09:58:58.3424226+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:25.5661327+00:00",
-  "LastUpdate_Ratings": "2023-05-25T08:59:00.9632884+00:00",
-  "LastUpdate_Achievements": "2023-05-25T09:04:33.3543008+00:00"
+  "LastUpdate_Ratings": "2023-05-25T09:58:58.3424232+00:00",
+  "LastUpdate_Achievements": "2023-05-25T10:04:22.1062187+00:00"
 }

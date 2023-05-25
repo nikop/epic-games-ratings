@@ -42,22 +42,22 @@
 | A Megapint...? | 22.00% | ~13 |
 | Hovering around | 21.00% | ~12 |
 | Ripe Meat Off The Bone! | 19.00% | ~11 |
+| Your daily dose of Vitamin C. | 17.00% | ~10 |
 | You're not so Big anymore, Boi! | 16.00% | ~9 |
-| Your daily dose of Vitamin C. | 16.00% | ~9 |
 | Kleptomaniac | 16.00% | ~9 |
 | Just wing it! | 14.00% | ~8 |
 | I cant stand still! | 14.00% | ~8 |
+| I drink, but I'm not a drunk! | 12.00% | ~7 |
 | Slimy... yet satisfying | 12.00% | ~7 |
 | Ancient Ruins of Dirty Feet | 10.00% | ~6 |
-| I drink, but I'm not a drunk! | 10.00% | ~6 |
 | Spoiler alert! | 9.00% | ~5 |
 | Yeehaw!!! | 9.00% | ~5 |
 | Master Butcher | 9.00% | ~5 |
 | Deal with it | 9.00% | ~5 |
 | You're looking mozzare-hella good! | 5.00% | ~3 |
+| Ancient Ruins of Moist Overhangs | 3.00% | ~2 |
 | Okay... Maybe I'm a bit drunk... | 3.00% | ~2 |
 | Scrambled Eggs | 3.00% | ~2 |
-| Ancient Ruins of Moist Overhangs | 2.00% | ~1 |
 | Ancient Ruins of Misplaced Belongings | 2.00% | ~1 |
 | Ancient Ruins of Imperfectly Designed Walls | 2.00% | ~1 |
 | Ancient Ruins of Inadequate Opportunities | 2.00% | ~1 |

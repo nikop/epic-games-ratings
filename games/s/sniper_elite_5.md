@@ -5,7 +5,7 @@ Rating: 4.37 (Ranked 705)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 16.00% | ~221 |
+| Meeting Resistance | 16.00% | ~222 |
 | Confirming Suspicions | 12.00% | ~166 |
 | The Kraken Wakes | 9.00% | ~125 |
 | Lord of War | 6.00% | ~83 |
@@ -37,7 +37,7 @@ Rating: 4.37 (Ranked 705)
 | No Stone Unturned | 0.90% | ~12 |
 | The Long Game | 0.90% | ~12 |
 | Brains of the Operation | 0.90% | ~12 |
-| My Little Friend | 0.70% | ~10 |
+| My Little Friend | 0.60% | ~8 |
 | It'll Buff Right Out | 0.50% | ~7 |
 | Operation Foxley | 0.50% | ~7 |
 | Strategist | 0.40% | ~6 |
@@ -77,7 +77,7 @@ Rating: 4.37 (Ranked 705)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,384 (Ranked 157)  
+Progressed: 1,385 (Ranked 157)  
 Completed: 2 (0.14%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 2 (0.14%) (Ranked 150)
 | 2023-05-22 | 1,233 | 2 |
 | 2023-05-23 | 1,294 | 2 |
 | 2023-05-24 | 1,365 | 2 |
-| 2023-05-25 | 1,384 | 2 |
+| 2023-05-25 | 1,385 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

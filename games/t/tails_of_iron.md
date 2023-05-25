@@ -5,20 +5,20 @@ Rating: 4.50 (Ranked 535)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 77.00% | ~1,122 |
-| Become King | 70.00% | ~1,020 |
+| Complete Guard Faction | 77.00% | ~1,123 |
+| Become King | 70.00% | ~1,021 |
 | Ranged Weapon | 59.00% | ~860 |
 | Defeat 25 Frogs | 59.00% | ~860 |
-| Collect Monster Parts | 55.00% | ~801 |
+| Collect Monster Parts | 55.00% | ~802 |
 | Two Handed Weapon | 54.00% | ~787 |
-| Defeat 25 Grubs | 50.00% | ~728 |
-| Rescue Redgi's Brothers | 50.00% | ~728 |
+| Defeat 25 Grubs | 50.00% | ~729 |
+| Rescue Redgi's Brothers | 50.00% | ~729 |
 | Collect Iron Ore | 45.00% | ~656 |
-| Defeat 25 Mozis | 44.00% | ~641 |
-| Kitchen Ready To Cook | 44.00% | ~641 |
+| Defeat 25 Mozis | 44.00% | ~642 |
+| Kitchen Ready To Cook | 44.00% | ~642 |
 | Collect Gold | 43.00% | ~627 |
 | Smithy Ready to Craft | 43.00% | ~627 |
-| Fix the Travellers Wagon | 41.00% | ~597 |
+| Fix the Travellers Wagon | 41.00% | ~598 |
 | Complete Elder Faction | 38.00% | ~554 |
 | End of the Mozis | 35.00% | ~510 |
 | Throne Room Fit For A King | 35.00% | ~510 |
@@ -27,7 +27,7 @@ Rating: 4.50 (Ranked 535)
 | Defeat Ratnor Rodentson | 28.00% | ~408 |
 | Return the Statues | 24.00% | ~350 |
 | Defeat Rattus Augustail | 24.00% | ~350 |
-| Complete the Chefs Book | 23.00% | ~335 |
+| Complete the Chefs Book | 22.00% | ~321 |
 | Complete Ranger Faction | 19.00% | ~277 |
 | Defeat Avor Warden of the Northern Wastes | 19.00% | ~277 |
 | Discover the mystery of the Kings Chambers | 18.00% | ~262 |
@@ -36,7 +36,7 @@ Rating: 4.50 (Ranked 535)
 | King of Kings | 6.00% | ~87 |
 | A new Warchief rises | 0.70% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,457 (Ranked 155)  
+Progressed: 1,458 (Ranked 155)  
 Completed: 6 (0.41%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,6 +65,7 @@ Completed: 6 (0.41%) (Ranked 111)
 | 2023-05-22 | 1,437 | 6 |
 | 2023-05-23 | 1,447 | 6 |
 | 2023-05-24 | 1,457 | 6 |
+| 2023-05-25 | 1,458 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 55,
+  "Ranking_EOS_NewPlayers": 56,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -428,9 +428,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13544,
+  "EOS_Progressed": 13545,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 977,
+  "EOS_NewPlayers": 978,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1503,6 +1503,11 @@
       "Time": "2023-05-25T09:03:33.859049+00:00",
       "NumProgressed": 13544,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-05-25T10:03:35.6076405+00:00",
+      "NumProgressed": 13545,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 40,
@@ -1536,9 +1541,9 @@
       "ID": "BUY_ALL_WEAPONS",
       "SetID": "4hj6d86",
       "Name": "You Need a Gun",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 68
+      "UsersEstimate": 81
     },
     {
       "ID": "DISARM_ENEMY",
@@ -1833,13 +1838,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13544,
+      "Progressed": 13545,
       "Completed": 52
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1470,
+      "Progressed": 1471,
       "Completed": 29
     }
   ],
@@ -1847,8 +1852,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-23T19:57:59.4143533+00:00",
-  "LastChanged_Achievements": "2023-05-25T09:03:33.8590485+00:00",
+  "LastChanged_Achievements": "2023-05-25T10:03:35.6076401+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-25T08:57:58.4693366+00:00",
-  "LastUpdate_Achievements": "2023-05-25T09:03:33.8591012+00:00"
+  "LastUpdate_Ratings": "2023-05-25T09:57:56.6970156+00:00",
+  "LastUpdate_Achievements": "2023-05-25T10:03:35.6076806+00:00"
 }
