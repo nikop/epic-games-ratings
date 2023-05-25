@@ -38,7 +38,7 @@
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
 | 37 | [Doodle God](games/d/doodle_god.md) | 3.88% |
 | 38 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
-| 39 | [The Complex](games/t/the_complex.md) | 3.50% |
+| 39 | [The Complex](games/t/the_complex.md) | 3.49% |
 | 40 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.34% |
 | 41 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.25% |
 | 42 | [The Bunker](games/t/the_bunker.md) | 3.23% |
@@ -55,8 +55,8 @@
 | 53 | [FORECLOSED](games/f/foreclosed.md) | 2.60% |
 | 54 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.53% |
 | 54 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.53% |
-| 56 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.50% |
 | 56 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 57 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.44% |
 | 58 | [JARS](games/j/jars.md) | 2.33% |
 | 59 | [Iron Danger](games/i/iron_danger.md) | 2.30% |
 | 60 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.13% |
@@ -72,8 +72,8 @@
 | 70 | [Frogun](games/f/frogun.md) | 1.55% |
 | 71 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.51% |
 | 72 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 1.45% |
-| 72 | [Ten Dates](games/t/ten_dates.md) | 1.45% |
-| 74 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.44% |
+| 73 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.44% |
+| 73 | [Ten Dates](games/t/ten_dates.md) | 1.44% |
 | 75 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.41% |
 | 76 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.29% |
 | 77 | [Chorus](games/c/chorus.md) | 1.25% |
@@ -105,10 +105,10 @@
 | 103 | [The Surge 2](games/t/the_surge_2.md) | 0.62% |
 | 104 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.60% |
 | 105 | [Grindstone](games/g/grindstone.md) | 0.51% |
+| 106 | [Ghostrunner](games/g/ghostrunner.md) | 0.49% |
 | 106 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.49% |
-| 107 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.48% |
-| 108 | [Aragami 2](games/a/aragami_2.md) | 0.47% |
-| 108 | [Ghostrunner](games/g/ghostrunner.md) | 0.47% |
+| 108 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.48% |
+| 109 | [Aragami 2](games/a/aragami_2.md) | 0.47% |
 | 110 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 111 | [Tails of Iron](games/t/tails_of_iron.md) | 0.41% |
 | 112 | [Potion Permit](games/p/potion_permit.md) | 0.39% |
