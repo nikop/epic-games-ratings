@@ -2,9 +2,9 @@
   "ID": "fennel",
   "Name": "The Walking Dead: Michonne - A Telltale Miniseries",
   "ProductSlug": "walking-dead-michonne",
-  "Ranking_EOS_Progress": 418,
+  "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2016-02-23T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:32.3094508+00:00",
   "LastChanged": "2023-03-31T05:57:32.3094509+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:46.5517742+00:00",
-  "LastUpdate_Ratings": "2023-05-25T16:58:06.9441143+00:00",
-  "LastUpdate_Achievements": "2023-05-25T17:02:16.7373214+00:00"
+  "LastUpdate_Ratings": "2023-05-25T17:57:57.8608785+00:00",
+  "LastUpdate_Achievements": "2023-05-25T18:02:20.7686519+00:00"
 }

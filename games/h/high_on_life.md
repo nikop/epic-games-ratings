@@ -5,12 +5,12 @@ Rating: 4.67 (Ranked 256)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~18,850 |
-| Mods Please Ban | 77.00% | ~17,487 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,260 |
-| Fallout Doesn't Let You Do This | 73.00% | ~16,579 |
-| First Bounty Down | 59.00% | ~13,399 |
-| We're All Very Impressed, Trust Me | 57.00% | ~12,945 |
+| Eye Scream, You Scream | 83.00% | ~18,851 |
+| Mods Please Ban | 77.00% | ~17,488 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,261 |
+| Fallout Doesn't Let You Do This | 73.00% | ~16,580 |
+| First Bounty Down | 59.00% | ~13,400 |
+| We're All Very Impressed, Trust Me | 57.00% | ~12,946 |
 | Luglox Genocide | 43.00% | ~9,766 |
 | Playing Card To Get | 33.00% | ~7,495 |
 | Don't Knife The Hand That Feeds | 33.00% | ~7,495 |
@@ -21,15 +21,15 @@ Rating: 4.67 (Ranked 256)
 | G3 Graduation | 25.00% | ~5,678 |
 | RIP Davey Glutes | 24.00% | ~5,451 |
 | Sweezy Like Sunday Morning | 24.00% | ~5,451 |
-| Hardest Battle In The Game | 22.00% | ~4,996 |
-| Series Wrap on Suit-O | 22.00% | ~4,996 |
+| Hardest Battle In The Game | 22.00% | ~4,997 |
+| Series Wrap on Suit-O | 22.00% | ~4,997 |
 | Lezduit! | 20.00% | ~4,542 |
 | Who's The Boss? | 20.00% | ~4,542 |
 | Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,542 |
 | Self-Actualization | 19.00% | ~4,315 |
 | Legendary Bounty Hunter | 18.00% | ~4,088 |
 | Seeing All The Sights | 16.00% | ~3,634 |
-| Carried Stan's Load To Completion | 13.00% | ~2,952 |
+| Carried Stan's Load To Completion | 13.00% | ~2,953 |
 | We Paid For The Rights To Put A Whole Movie In Here | 12.00% | ~2,725 |
 | Eatin' Good in the Neighborhood | 9.00% | ~2,044 |
 | Sequel-Bait | 8.00% | ~1,817 |
@@ -38,7 +38,7 @@ Rating: 4.67 (Ranked 256)
 | Epic Legendary Prize | 1.00% | ~227 |
 | A Starfish Is Born | 1.00% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,711 (Ranked 89)  
+Progressed: 22,712 (Ranked 89)  
 Completed: 8 (0.04%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,7 +73,7 @@ Completed: 8 (0.04%) (Ranked 177)
 | 2023-05-22 | 22,698 | 8 |
 | 2023-05-23 | 22,703 | 8 |
 | 2023-05-24 | 22,709 | 8 |
-| 2023-05-25 | 22,711 | 8 |
+| 2023-05-25 | 22,712 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

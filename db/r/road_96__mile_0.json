@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 189,
+  "EOS_Progressed": 190,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.06,
+  "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:35.153611+00:00",
@@ -304,6 +304,11 @@
       "Time": "2023-05-25T16:06:38.3997557+00:00",
       "NumProgressed": 189,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-25T18:05:19.4407145+00:00",
+      "NumProgressed": 190,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -313,17 +318,17 @@
       "ID": "completeact1",
       "SetID": "40n95i5",
       "Name": "BBFF (Best Brigade Friend Forever)",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 60,
-      "UsersEstimate": 108
+      "UsersEstimate": 106
     },
     {
       "ID": "completeact2",
       "SetID": "40n95i5",
       "Name": "Conspiracy Theorist",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 80,
-      "UsersEstimate": 91
+      "UsersEstimate": 89
     },
     {
       "ID": "completeact3",
@@ -331,7 +336,7 @@
       "Name": "On the Road",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "findalltapes",
@@ -417,9 +422,9 @@
       "ID": "scoreminrankrv1",
       "SetID": "40n95i5",
       "Name": "Welcome to the Garage",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 38
+      "UsersEstimate": 36
     },
     {
       "ID": "scoreminrankrv2",
@@ -434,7 +439,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 189,
+      "Progressed": 190,
       "Completed": 2
     }
   ],
@@ -442,8 +447,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-05-25T17:05:29.2214549+00:00",
+  "LastChanged_Achievements": "2023-05-25T18:05:19.4407135+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:05.0477946+00:00",
-  "LastUpdate_Ratings": "2023-05-25T16:58:40.2027344+00:00",
-  "LastUpdate_Achievements": "2023-05-25T17:05:29.2214664+00:00"
+  "LastUpdate_Ratings": "2023-05-25T17:58:26.6882428+00:00",
+  "LastUpdate_Achievements": "2023-05-25T18:05:19.4407408+00:00"
 }

@@ -12,8 +12,8 @@ Number of Ratings: 371  (23.09.2022)
 | Watch Where You Step... | 27.00% | ~710 |
 | An Ill Omen | 25.00% | ~657 |
 | Purging Spree | 21.00% | ~552 |
-| Blood for the Blood God! | 16.00% | ~420 |
-| Friendly Fire | 16.00% | ~420 |
+| Blood for the Blood God! | 16.00% | ~421 |
+| Friendly Fire | 16.00% | ~421 |
 | Surgical Excision | 15.00% | ~394 |
 | Bloodless | 14.00% | ~368 |
 | Honoured Battle-Brother | 11.00% | ~289 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,628 (Ranked 138)  
+Progressed: 2,629 (Ranked 138)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-22 | 2,620 | 0 |
 | 2023-05-23 | 2,622 | 0 |
 | 2023-05-24 | 2,624 | 0 |
-| 2023-05-25 | 2,628 | 0 |
+| 2023-05-25 | 2,629 | 0 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 418 (Ranked 298)  

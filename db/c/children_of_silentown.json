@@ -2,9 +2,9 @@
   "ID": "5d2eeb5e52a54324a8246eb39ee72d4b",
   "Name": "Children of Silentown",
   "ProductSlug": "children-of-silentown-52cc21",
-  "Ranking_EOS_Progress": 254,
+  "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 149,
+  "EOS_Progressed": 150,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -73,6 +73,11 @@
       "Time": "2023-05-25T07:06:32.9881589+00:00",
       "NumProgressed": 149,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T18:05:38.8294165+00:00",
+      "NumProgressed": 150,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -82,7 +87,7 @@
       "ID": "BlueTrick",
       "SetID": "9kk0gal",
       "Name": "Blue\u0027s drawing",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 30,
       "UsersEstimate": 80
     },
@@ -108,7 +113,7 @@
       "Name": "Coal\u0027s fur",
       "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Doll",
@@ -124,7 +129,7 @@
       "Name": "Children",
       "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Ending2",
@@ -148,15 +153,15 @@
       "Name": "Hope",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Footprint",
       "SetID": "9kk0gal",
       "Name": "Mysterious footprints",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 64
     },
     {
       "ID": "Friend",
@@ -202,9 +207,9 @@
       "ID": "Mirror",
       "SetID": "9kk0gal",
       "Name": "Egghead Lucy",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 113
+      "UsersEstimate": 112
     },
     {
       "ID": "Offroad",
@@ -220,15 +225,15 @@
       "Name": "Puppy",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "SchoolRuler",
       "SetID": "9kk0gal",
       "Name": "Big metal ruler",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 61
     },
     {
       "ID": "Secret",
@@ -236,23 +241,23 @@
       "Name": "Old kettle",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Spyglass",
       "SetID": "9kk0gal",
       "Name": "Spyglass",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 30,
-      "UsersEstimate": 124
+      "UsersEstimate": 123
     },
     {
       "ID": "Toy",
       "SetID": "9kk0gal",
       "Name": "Broken toy",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 115
+      "UsersEstimate": 114
     },
     {
       "ID": "Trinket",
@@ -266,9 +271,9 @@
       "ID": "Trumpet",
       "SetID": "9kk0gal",
       "Name": "Trumpet",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 133
+      "UsersEstimate": 132
     },
     {
       "ID": "Well",
@@ -291,7 +296,7 @@
     {
       "ID": "9kk0gal",
       "IsBase": true,
-      "Progressed": 149,
+      "Progressed": 150,
       "Completed": 0
     }
   ],
@@ -299,8 +304,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-05-25T17:05:48.8424025+00:00",
+  "LastChanged_Achievements": "2023-05-25T18:05:38.829416+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:12:13.9596608+00:00",
-  "LastUpdate_Ratings": "2023-05-25T16:59:49.5544772+00:00",
-  "LastUpdate_Achievements": "2023-05-25T17:05:48.8424172+00:00"
+  "LastUpdate_Ratings": "2023-05-25T17:59:35.0363575+00:00",
+  "LastUpdate_Achievements": "2023-05-25T18:05:38.8294341+00:00"
 }

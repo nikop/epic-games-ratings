@@ -4,7 +4,7 @@
   "ProductSlug": "busway-islands-puzzle-91287d",
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 5,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-04-29T13:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 33,
+  "EOS_Progressed": 34,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 21.21,
+  "EOS_Completed_Percentage": 20.59,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:46:09.4647401+00:00",
@@ -218,6 +218,11 @@
       "Time": "2023-05-19T11:07:00.1481333+00:00",
       "NumProgressed": 33,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-05-25T18:05:13.8071261+00:00",
+      "NumProgressed": 34,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 35,
@@ -229,13 +234,13 @@
       "Name": "First Island",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "level_10",
       "SetID": "dlpjnee",
       "Name": "Island 10",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 25,
       "UsersEstimate": 15
     },
@@ -243,7 +248,7 @@
       "ID": "level_11",
       "SetID": "dlpjnee",
       "Name": "Island 11",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 30,
       "UsersEstimate": 13
     },
@@ -251,7 +256,7 @@
       "ID": "level_12",
       "SetID": "dlpjnee",
       "Name": "Island 12",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 30,
       "UsersEstimate": 13
     },
@@ -259,7 +264,7 @@
       "ID": "level_13",
       "SetID": "dlpjnee",
       "Name": "Island 13",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
       "UsersEstimate": 11
     },
@@ -267,7 +272,7 @@
       "ID": "level_14",
       "SetID": "dlpjnee",
       "Name": "Island 14",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
       "UsersEstimate": 11
     },
@@ -275,7 +280,7 @@
       "ID": "level_15",
       "SetID": "dlpjnee",
       "Name": "Island 15",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
       "UsersEstimate": 10
     },
@@ -283,7 +288,7 @@
       "ID": "level_16",
       "SetID": "dlpjnee",
       "Name": "Island 16",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
       "UsersEstimate": 10
     },
@@ -291,7 +296,7 @@
       "ID": "level_17",
       "SetID": "dlpjnee",
       "Name": "Island 17",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
       "UsersEstimate": 10
     },
@@ -299,7 +304,7 @@
       "ID": "level_18",
       "SetID": "dlpjnee",
       "Name": "Island 18",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
       "UsersEstimate": 10
     },
@@ -307,7 +312,7 @@
       "ID": "level_19",
       "SetID": "dlpjnee",
       "Name": "Island 19",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
       "UsersEstimate": 10
     },
@@ -317,13 +322,13 @@
       "Name": "Island 2",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "level_20",
       "SetID": "dlpjnee",
       "Name": "Island 20",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
       "UsersEstimate": 10
     },
@@ -331,7 +336,7 @@
       "ID": "level_21",
       "SetID": "dlpjnee",
       "Name": "Island 21",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
       "UsersEstimate": 10
     },
@@ -339,7 +344,7 @@
       "ID": "level_22",
       "SetID": "dlpjnee",
       "Name": "Island 22",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
       "UsersEstimate": 10
     },
@@ -347,7 +352,7 @@
       "ID": "level_23",
       "SetID": "dlpjnee",
       "Name": "Island 23",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
       "UsersEstimate": 10
     },
@@ -355,7 +360,7 @@
       "ID": "level_24",
       "SetID": "dlpjnee",
       "Name": "Island 24",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 30,
       "UsersEstimate": 9
     },
@@ -363,7 +368,7 @@
       "ID": "level_25",
       "SetID": "dlpjnee",
       "Name": "Island 25",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 30,
       "UsersEstimate": 9
     },
@@ -371,7 +376,7 @@
       "ID": "level_26",
       "SetID": "dlpjnee",
       "Name": "Island 26",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 30,
       "UsersEstimate": 9
     },
@@ -379,7 +384,7 @@
       "ID": "level_27",
       "SetID": "dlpjnee",
       "Name": "Island 27",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 30,
       "UsersEstimate": 9
     },
@@ -405,7 +410,7 @@
       "Name": "Island 3",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "level_30",
@@ -461,29 +466,29 @@
       "Name": "Island 4",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "level_5",
       "SetID": "dlpjnee",
       "Name": "Island 5",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "level_6",
       "SetID": "dlpjnee",
       "Name": "Island 6",
-      "Percentage": 48,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "level_7",
       "SetID": "dlpjnee",
       "Name": "Island 7",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 20,
       "UsersEstimate": 15
     },
@@ -491,7 +496,7 @@
       "ID": "level_8",
       "SetID": "dlpjnee",
       "Name": "Island 8",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 20,
       "UsersEstimate": 15
     },
@@ -499,7 +504,7 @@
       "ID": "level_9",
       "SetID": "dlpjnee",
       "Name": "Island 9",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 20,
       "UsersEstimate": 15
     }
@@ -508,7 +513,7 @@
     {
       "ID": "dlpjnee",
       "IsBase": true,
-      "Progressed": 33,
+      "Progressed": 34,
       "Completed": 7
     }
   ],
@@ -516,8 +521,8 @@
   "FirstSeenRating": "2023-04-30T05:57:09.5836645+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:09.4647411+00:00",
   "LastChanged": "2023-04-30T05:57:09.5836646+00:00",
-  "LastChanged_Achievements": "2023-05-25T17:05:23.6400777+00:00",
+  "LastChanged_Achievements": "2023-05-25T18:05:13.8071256+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:08.3753885+00:00",
-  "LastUpdate_Ratings": "2023-05-25T16:57:34.4507266+00:00",
-  "LastUpdate_Achievements": "2023-05-25T17:05:23.6400999+00:00"
+  "LastUpdate_Ratings": "2023-05-25T17:57:27.553873+00:00",
+  "LastUpdate_Achievements": "2023-05-25T18:05:13.8071495+00:00"
 }

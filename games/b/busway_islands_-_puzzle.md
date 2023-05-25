@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Island | 91.00% | ~30 |
-| Island 2 | 91.00% | ~30 |
-| Island 3 | 88.00% | ~29 |
-| Island 4 | 79.00% | ~26 |
-| Island 5 | 70.00% | ~23 |
-| Island 6 | 48.00% | ~16 |
-| Island 10 | 45.00% | ~15 |
-| Island 7 | 45.00% | ~15 |
-| Island 8 | 45.00% | ~15 |
-| Island 9 | 45.00% | ~15 |
-| Island 11 | 39.00% | ~13 |
-| Island 12 | 39.00% | ~13 |
-| Island 13 | 33.00% | ~11 |
-| Island 14 | 33.00% | ~11 |
-| Island 15 | 30.00% | ~10 |
-| Island 16 | 30.00% | ~10 |
-| Island 17 | 30.00% | ~10 |
-| Island 18 | 30.00% | ~10 |
-| Island 19 | 30.00% | ~10 |
-| Island 20 | 30.00% | ~10 |
-| Island 21 | 30.00% | ~10 |
-| Island 22 | 30.00% | ~10 |
-| Island 23 | 30.00% | ~10 |
-| Island 24 | 27.00% | ~9 |
-| Island 25 | 27.00% | ~9 |
-| Island 26 | 27.00% | ~9 |
-| Island 27 | 27.00% | ~9 |
+| First Island | 91.00% | ~31 |
+| Island 2 | 91.00% | ~31 |
+| Island 3 | 88.00% | ~30 |
+| Island 4 | 79.00% | ~27 |
+| Island 5 | 71.00% | ~24 |
+| Island 6 | 50.00% | ~17 |
+| Island 10 | 44.00% | ~15 |
+| Island 7 | 44.00% | ~15 |
+| Island 8 | 44.00% | ~15 |
+| Island 9 | 44.00% | ~15 |
+| Island 11 | 38.00% | ~13 |
+| Island 12 | 38.00% | ~13 |
+| Island 13 | 32.00% | ~11 |
+| Island 14 | 32.00% | ~11 |
+| Island 15 | 29.00% | ~10 |
+| Island 16 | 29.00% | ~10 |
+| Island 17 | 29.00% | ~10 |
+| Island 18 | 29.00% | ~10 |
+| Island 19 | 29.00% | ~10 |
+| Island 20 | 29.00% | ~10 |
+| Island 21 | 29.00% | ~10 |
+| Island 22 | 29.00% | ~10 |
+| Island 23 | 29.00% | ~10 |
+| Island 24 | 26.00% | ~9 |
+| Island 25 | 26.00% | ~9 |
+| Island 26 | 26.00% | ~9 |
+| Island 27 | 26.00% | ~9 |
 | Island 28 | 24.00% | ~8 |
 | Island 29 | 24.00% | ~8 |
 | Island 30 | 24.00% | ~8 |
@@ -40,8 +40,8 @@
 | Island 34 | 21.00% | ~7 |
 | Island 35 | 21.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33 (Ranked 306)  
-Completed: 7 (21.21%) (Ranked 5)  
+Progressed: 34 (Ranked 306)  
+Completed: 7 (20.59%) (Ranked 5)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -58,6 +58,7 @@ Completed: 7 (21.21%) (Ranked 5)
 | 2023-05-13 | 32 | 6 |
 | 2023-05-14 | 32 | 7 |
 | 2023-05-19 | 33 | 7 |
+| 2023-05-25 | 34 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

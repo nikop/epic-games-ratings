@@ -2,9 +2,9 @@
   "ID": "ac1e1228d81c433ba5b25c6c09318e0e",
   "Name": "Elypse",
   "ProductSlug": "elypse-b177a8",
-  "Ranking_EOS_Progress": 296,
+  "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -345,9 +345,9 @@
       "ID": "Ach_DiscoveryFinalTower",
       "SetID": "4o5gjp0",
       "Name": "Nokron tower",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Ach_DiscoveryTemple",
@@ -441,9 +441,9 @@
       "ID": "Ach_OptionalDialogRead",
       "SetID": "4o5gjp0",
       "Name": "Bookworm",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Ach_SkullGoal",
@@ -457,9 +457,9 @@
       "ID": "Ach_SoulPotBeggarHouse",
       "SetID": "4o5gjp0",
       "Name": "Payback",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Ach_SoulPots",
@@ -504,8 +504,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2023-05-25T17:05:21.4229023+00:00",
+  "LastChanged_Achievements": "2023-05-25T18:05:11.4981608+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.0525193+00:00",
-  "LastUpdate_Ratings": "2023-05-25T16:57:51.3507456+00:00",
-  "LastUpdate_Achievements": "2023-05-25T17:05:21.4229231+00:00"
+  "LastUpdate_Ratings": "2023-05-25T17:57:43.7427916+00:00",
+  "LastUpdate_Achievements": "2023-05-25T18:05:11.4981862+00:00"
 }

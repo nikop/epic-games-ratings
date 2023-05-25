@@ -6,30 +6,30 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,916 |
-| That's a Grand Army | 8.00% | ~3,481 |
-| That is mine! | 8.00% | ~3,481 |
-| Victorious! | 8.00% | ~3,481 |
-| Brothers in Arms | 6.00% | ~2,611 |
-| That's a Grand Navy | 6.00% | ~2,611 |
-| Seriously?! | 6.00% | ~2,611 |
-| For the Glory | 5.00% | ~2,175 |
-| Cold War | 4.00% | ~1,740 |
-| True Catholic | 4.00% | ~1,740 |
-| Defender of the Faith | 3.00% | ~1,305 |
-| It's all about the money | 3.00% | ~1,305 |
-| Respected | 3.00% | ~1,305 |
-| Truly Divine Ruler | 3.00% | ~1,305 |
-| Agressive Expander | 2.00% | ~870 |
-| Blockader | 2.00% | ~870 |
-| Combined Arms | 2.00% | ~870 |
-| Double the Love | 2.00% | ~870 |
-| Gentle Persuasion | 2.00% | ~870 |
-| It's all about luck | 2.00% | ~870 |
-| Queen of Conquest | 2.00% | ~870 |
-| Royal Authority | 2.00% | ~870 |
-| The Princess is in this Castle | 2.00% | ~870 |
-| Total Control | 2.00% | ~870 |
+| Until death do us apart | 9.00% | ~3,919 |
+| That's a Grand Army | 8.00% | ~3,484 |
+| That is mine! | 8.00% | ~3,484 |
+| Victorious! | 8.00% | ~3,484 |
+| Brothers in Arms | 6.00% | ~2,613 |
+| That's a Grand Navy | 6.00% | ~2,613 |
+| Seriously?! | 6.00% | ~2,613 |
+| For the Glory | 5.00% | ~2,177 |
+| Cold War | 4.00% | ~1,742 |
+| True Catholic | 4.00% | ~1,742 |
+| Defender of the Faith | 3.00% | ~1,306 |
+| It's all about the money | 3.00% | ~1,306 |
+| Respected | 3.00% | ~1,306 |
+| Truly Divine Ruler | 3.00% | ~1,306 |
+| Agressive Expander | 2.00% | ~871 |
+| Blockader | 2.00% | ~871 |
+| Combined Arms | 2.00% | ~871 |
+| Double the Love | 2.00% | ~871 |
+| Gentle Persuasion | 2.00% | ~871 |
+| It's all about luck | 2.00% | ~871 |
+| Queen of Conquest | 2.00% | ~871 |
+| Royal Authority | 2.00% | ~871 |
+| The Princess is in this Castle | 2.00% | ~871 |
+| Total Control | 2.00% | ~871 |
 | All That's Thine Shall Be Mine | 1.00% | ~435 |
 | Azur semé de lis or | 1.00% | ~435 |
 | Bright Spark | 1.00% | ~435 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,509 (Ranked 78)  
+Progressed: 43,545 (Ranked 78)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -396,7 +396,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-22 | 42,079 | 0 |
 | 2023-05-23 | 42,594 | 0 |
 | 2023-05-24 | 43,149 | 0 |
-| 2023-05-25 | 43,509 | 0 |
+| 2023-05-25 | 43,545 | 0 |
 ## Awards
 Max (Educational): 5,281  (Ranked 60)  
 Sum: 43,745 (Ranked 27)  

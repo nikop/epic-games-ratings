@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 176,
+  "EOS_Progressed": 177,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -272,6 +272,11 @@
       "Time": "2023-05-24T02:10:26.8870236+00:00",
       "NumProgressed": 176,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T18:05:35.934191+00:00",
+      "NumProgressed": 177,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -427,7 +432,7 @@
       "Name": "I like books",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "CULTURE_2",
@@ -635,7 +640,7 @@
       "Name": "The woodcutter",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "MILLS",
@@ -914,7 +919,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 176,
+      "Progressed": 177,
       "Completed": 0
     }
   ],
@@ -922,8 +927,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-05-25T17:05:45.6380564+00:00",
+  "LastChanged_Achievements": "2023-05-25T18:05:35.9341904+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:08.225759+00:00",
-  "LastUpdate_Ratings": "2023-05-25T16:58:41.7927601+00:00",
-  "LastUpdate_Achievements": "2023-05-25T17:05:45.6381291+00:00"
+  "LastUpdate_Ratings": "2023-05-25T17:58:28.3679104+00:00",
+  "LastUpdate_Achievements": "2023-05-25T18:05:35.9344062+00:00"
 }

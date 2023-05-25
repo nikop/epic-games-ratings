@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -168,9 +168,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1162,
+  "EOS_Progressed": 1163,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -483,6 +483,11 @@
       "Time": "2023-05-25T13:14:07.1695392+00:00",
       "NumProgressed": 1162,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-25T18:05:34.8331053+00:00",
+      "NumProgressed": 1163,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 30,
@@ -510,7 +515,7 @@
       "Name": "Strike!",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "12",
@@ -542,7 +547,7 @@
       "Name": "Back to rust",
       "Percentage": 12,
       "XP": 70,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "16",
@@ -574,7 +579,7 @@
       "Name": "Second thoughts",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "2",
@@ -582,7 +587,7 @@
       "Name": "Flower Powered",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "20",
@@ -598,7 +603,7 @@
       "Name": "Mooning the moon",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "22",
@@ -638,7 +643,7 @@
       "Name": "Strip-a-bobble",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "29",
@@ -702,7 +707,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "7",
@@ -733,15 +738,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 1162,
+      "Progressed": 1163,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2023-04-29T21:59:11.6059555+00:00",
-  "LastChanged_Achievements": "2023-05-25T17:05:44.5675181+00:00",
+  "LastChanged_Achievements": "2023-05-25T18:05:34.8331047+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:06.355513+00:00",
-  "LastUpdate_Ratings": "2023-05-25T16:59:20.6698419+00:00",
-  "LastUpdate_Achievements": "2023-05-25T17:05:44.5675379+00:00"
+  "LastUpdate_Ratings": "2023-05-25T17:59:06.1705872+00:00",
+  "LastUpdate_Achievements": "2023-05-25T18:05:34.8331283+00:00"
 }

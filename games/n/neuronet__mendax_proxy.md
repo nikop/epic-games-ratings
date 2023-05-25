@@ -53,7 +53,7 @@
 | The Surrogate | 0.00% | ~0 |
 | Under the Weather | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18 (Ranked 321)  
+Progressed: 18 (Ranked 322)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |

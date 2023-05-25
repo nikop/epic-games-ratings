@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -538,9 +538,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 458942,
+  "EOS_Progressed": 458951,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 598,
+  "EOS_NewPlayers": 601,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3828,6 +3828,11 @@
       "Time": "2023-05-25T17:05:49.8799981+00:00",
       "NumProgressed": 458942,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-25T18:05:39.9581855+00:00",
+      "NumProgressed": 458951,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 79,
@@ -4229,9 +4234,9 @@
       "ID": "achievement_win_all_chapers_with_scrapper_easy_normal",
       "SetID": "8cokdon",
       "Name": "Kaos Mastery",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 459
     },
     {
       "ID": "achievement_win_all_chapers_with_scrapper_hard",
@@ -4470,21 +4475,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 2876,
+      "Progressed": 2885,
       "Completed": 2346
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 458942,
+      "Progressed": 458951,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-25T17:05:49.8799976+00:00",
+  "LastChanged_Achievements": "2023-05-25T18:05:39.958185+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:33.0666845+00:00",
-  "LastUpdate_Ratings": "2023-05-25T16:59:03.5040417+00:00",
-  "LastUpdate_Achievements": "2023-05-25T17:05:49.8800771+00:00"
+  "LastUpdate_Ratings": "2023-05-25T17:58:49.806683+00:00",
+  "LastUpdate_Achievements": "2023-05-25T18:05:39.9582863+00:00"
 }

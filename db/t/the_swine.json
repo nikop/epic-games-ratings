@@ -2,9 +2,9 @@
   "ID": "9e1b4ef77060478f836f3ee7085cf03d",
   "Name": "The Swine",
   "ProductSlug": "the-swine-41226a",
-  "Ranking_EOS_Progress": 418,
+  "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-04-30T00:00:00+00:00",
@@ -37,8 +37,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:52:53.7111423+00:00",
-  "LastChanged_Achievements": "2023-05-25T17:05:35.9249995+00:00",
+  "LastChanged_Achievements": "2023-05-25T18:05:26.4414774+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:55.7174809+00:00",
-  "LastUpdate_Ratings": "2023-05-25T16:59:54.0315433+00:00",
-  "LastUpdate_Achievements": "2023-05-25T17:05:35.9250019+00:00"
+  "LastUpdate_Ratings": "2023-05-25T17:59:38.9651335+00:00",
+  "LastUpdate_Achievements": "2023-05-25T18:05:26.4414787+00:00"
 }

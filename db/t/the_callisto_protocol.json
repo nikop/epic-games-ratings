@@ -3,12 +3,12 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 831,
-  "Ranking_Popularity": 397,
+  "Ranking_Popularity": 398,
   "Ranking_PopularitySum": 335,
-  "Ranking_EOS_Progress": 101,
+  "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -428,9 +428,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13574,
+  "EOS_Progressed": 13584,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 1004,
+  "EOS_NewPlayers": 1007,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1538,6 +1538,11 @@
       "Time": "2023-05-25T17:03:27.784307+00:00",
       "NumProgressed": 13574,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-05-25T18:03:10.3291838+00:00",
+      "NumProgressed": 13584,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 40,
@@ -1573,7 +1578,7 @@
       "Name": "You Need a Gun",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "DISARM_ENEMY",
@@ -1581,7 +1586,7 @@
       "Name": "Flesh Wound",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -1629,7 +1634,7 @@
       "Name": "Recidivist",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "FINISH_GAME_HARDCORE_PLUS",
@@ -1653,7 +1658,7 @@
       "Name": "Get a Grip",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -1667,9 +1672,9 @@
       "ID": "KILL_2HEAD",
       "SetID": "4hj6d86",
       "Name": "Two Heads Are Better Than One",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 136
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -1693,7 +1698,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -1701,7 +1706,7 @@
       "Name": "The Commonality",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -1709,15 +1714,15 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "PRINT_UPGRADE",
       "SetID": "4hj6d86",
       "Name": "Reforged",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 408
     },
     {
       "ID": "PRINT_WEAPON",
@@ -1725,7 +1730,7 @@
       "Name": "Paper Jams",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "SHARE_PHOTO",
@@ -1733,7 +1738,7 @@
       "Name": "Mugshot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -1741,7 +1746,7 @@
       "Name": "The Outer Way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "STORY_ESCAPE",
@@ -1749,7 +1754,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "STORY_HABITAT",
@@ -1771,9 +1776,9 @@
       "ID": "STORY_MINETOWN",
       "SetID": "4hj6d86",
       "Name": "What Lies Beneath",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 68
+      "UsersEstimate": 82
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -1781,7 +1786,7 @@
       "Name": "Desperate Times",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -1868,13 +1873,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13574,
+      "Progressed": 13584,
       "Completed": 52
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1500,
+      "Progressed": 1510,
       "Completed": 29
     }
   ],
@@ -1882,8 +1887,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-23T19:57:59.4143533+00:00",
-  "LastChanged_Achievements": "2023-05-25T17:03:27.7843066+00:00",
+  "LastChanged_Achievements": "2023-05-25T18:03:10.3291832+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-25T16:57:45.0436724+00:00",
-  "LastUpdate_Achievements": "2023-05-25T17:03:27.7843437+00:00"
+  "LastUpdate_Ratings": "2023-05-25T17:57:37.8053415+00:00",
+  "LastUpdate_Achievements": "2023-05-25T18:03:10.3292224+00:00"
 }

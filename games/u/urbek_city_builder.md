@@ -9,8 +9,8 @@
 | The spiritual world... | 26.00% | ~46 |
 | It is nice to share with friends in the city | 25.00% | ~44 |
 | Sport is good for you | 25.00% | ~44 |
-| The woodcutter | 23.00% | ~40 |
-| I like books | 19.00% | ~33 |
+| The woodcutter | 23.00% | ~41 |
+| I like books | 19.00% | ~34 |
 | I like my life | 18.00% | ~32 |
 | Clean energy | 16.00% | ~28 |
 | Soviet town | 16.00% | ~28 |
@@ -84,7 +84,7 @@
 | Rainforest urban planner | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 176 (Ranked 240)  
+Progressed: 177 (Ranked 240)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,6 +112,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-22 | 173 | 0 |
 | 2023-05-23 | 175 | 0 |
 | 2023-05-24 | 176 | 0 |
+| 2023-05-25 | 177 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -59,7 +59,7 @@ Rating: 3.87 (Ranked 907)
 | Active Member | 0.90% | ~10 |
 | Crystal Mining | 0.90% | ~10 |
 | Ebony Jungle Liberator | 0.90% | ~10 |
-| The Alchemist | 0.80% | ~9 |
+| The Alchemist | 0.90% | ~10 |
 | Legendary | 0.60% | ~7 |
 | Training makes a Pro player | 0.60% | ~7 |
 | Transmute | 0.60% | ~7 |

@@ -106,9 +106,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2142,
+  "EOS_Progressed": 2143,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1791,6 +1791,11 @@
       "Time": "2023-05-25T17:05:31.2162404+00:00",
       "NumProgressed": 2142,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-25T18:05:21.3699936+00:00",
+      "NumProgressed": 2143,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1834,7 +1839,7 @@
       "Name": "Whispers in the Woods III",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "STB_COPY_ABILITIES",
@@ -1866,7 +1871,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2035
+      "UsersEstimate": 2036
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1882,7 +1887,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1649
+      "UsersEstimate": 1650
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -1898,7 +1903,7 @@
       "Name": "Friendly fire",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "STB_DEFEAT_MAGICSHIFTER",
@@ -1906,7 +1911,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -1946,7 +1951,7 @@
       "Name": "True power",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_III",
@@ -1976,17 +1981,17 @@
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
       "SetID": "3pe2bac",
       "Name": "Pentakill",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1606
+      "UsersEstimate": 1629
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "No more cages!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1949
+      "UsersEstimate": 1972
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -1994,7 +1999,7 @@
       "Name": "Meltridge",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "STB_MISSION11_COMPLETED",
@@ -2018,7 +2023,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -2034,7 +2039,7 @@
       "Name": "Clarion Cove",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -2082,7 +2087,7 @@
       "Name": "The Central Headquarters",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "STB_MISSION8_COMPLETED",
@@ -2104,9 +2109,9 @@
       "ID": "STB_PET_DOG",
       "SetID": "3pe2bac",
       "Name": "You can pet the dog",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1286
     },
     {
       "ID": "STB_PET_HORSE",
@@ -2138,7 +2143,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -2178,7 +2183,7 @@
       "Name": "The use of petricite",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1542
+      "UsersEstimate": 1543
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -2218,14 +2223,14 @@
       "Name": "Petricite Burst",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2142,
+      "Progressed": 2143,
       "Completed": 1
     }
   ],
@@ -2233,8 +2238,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-24T18:57:33.1729645+00:00",
-  "LastChanged_Achievements": "2023-05-25T17:05:31.21624+00:00",
+  "LastChanged_Achievements": "2023-05-25T18:05:21.3699931+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:08.2361804+00:00",
-  "LastUpdate_Ratings": "2023-05-25T16:57:34.1821927+00:00",
-  "LastUpdate_Achievements": "2023-05-25T17:05:31.2162823+00:00"
+  "LastUpdate_Ratings": "2023-05-25T17:57:27.2141984+00:00",
+  "LastUpdate_Achievements": "2023-05-25T18:05:21.3700505+00:00"
 }

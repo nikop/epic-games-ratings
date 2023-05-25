@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -232,7 +232,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 31185,
+  "EOS_Progressed": 31186,
   "EOS_Completed": 97,
   "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 2,
@@ -3142,6 +3142,11 @@
       "Time": "2023-05-25T17:05:42.1824716+00:00",
       "NumProgressed": 31185,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2023-05-25T18:05:32.5197903+00:00",
+      "NumProgressed": 31186,
+      "NumCompleted": 97
     }
   ],
   "TotalAchievements": 14,
@@ -3241,7 +3246,7 @@
       "Name": "Two Worlds",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 24324
+      "UsersEstimate": 24325
     },
     {
       "ID": "roots",
@@ -3249,7 +3254,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 5301
+      "UsersEstimate": 5302
     },
     {
       "ID": "secretItem",
@@ -3264,15 +3269,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 31185,
+      "Progressed": 31186,
       "Completed": 97
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-05-23T23:00:58.9617247+00:00",
-  "LastChanged_Achievements": "2023-05-25T17:05:42.1824711+00:00",
+  "LastChanged_Achievements": "2023-05-25T18:05:32.5197899+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:01.8386689+00:00",
-  "LastUpdate_Ratings": "2023-05-25T16:59:56.7646375+00:00",
-  "LastUpdate_Achievements": "2023-05-25T17:05:42.1824938+00:00"
+  "LastUpdate_Ratings": "2023-05-25T17:59:41.8980784+00:00",
+  "LastUpdate_Achievements": "2023-05-25T18:05:32.5198167+00:00"
 }

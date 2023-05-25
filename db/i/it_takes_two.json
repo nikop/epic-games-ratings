@@ -2,9 +2,9 @@
   "ID": "8ae7b3c0f490471b967ce26cc2f6e0e6",
   "Name": "It Takes Two",
   "ProductSlug": "it-takes-two",
-  "Ranking_EOS_Progress": 418,
+  "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-06-10T11:00:00+00:00",
@@ -26,6 +26,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-19T19:09:25.2757611+00:00",
-  "LastUpdate_Ratings": "2023-05-25T16:59:38.8231949+00:00",
-  "LastUpdate_Achievements": "2023-05-25T17:03:25.7675089+00:00"
+  "LastUpdate_Ratings": "2023-05-25T17:59:24.2287118+00:00",
+  "LastUpdate_Achievements": "2023-05-25T18:02:48.5320113+00:00"
 }

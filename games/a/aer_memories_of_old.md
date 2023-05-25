@@ -6,28 +6,28 @@ Number of Ratings: 170  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~7,822 |
-| Mama? | 28.00% | ~2,882 |
-| People's Haven | 19.00% | ~1,955 |
-| Cartographer | 18.00% | ~1,853 |
-| Knowledge for Power | 15.00% | ~1,544 |
-| Antlers of Stone | 15.00% | ~1,544 |
-| Gaze into the abyss | 14.00% | ~1,441 |
-| Mausoleum of Ice | 14.00% | ~1,441 |
-| Equilibrium | 13.00% | ~1,338 |
-| In the belly of the beast | 12.00% | ~1,235 |
-| Wings of Stone | 12.00% | ~1,235 |
-| Condor condo | 10.00% | ~1,029 |
-| Memorial | 9.00% | ~926 |
-| An uninvited guest | 8.00% | ~823 |
-| Written in stone | 7.00% | ~720 |
-| Talk to all the spirit animals | 7.00% | ~720 |
+| Light at the end of the tunnel | 76.00% | ~7,826 |
+| Mama? | 28.00% | ~2,883 |
+| People's Haven | 19.00% | ~1,957 |
+| Cartographer | 18.00% | ~1,854 |
+| Knowledge for Power | 15.00% | ~1,545 |
+| Antlers of Stone | 15.00% | ~1,545 |
+| Gaze into the abyss | 14.00% | ~1,442 |
+| Mausoleum of Ice | 14.00% | ~1,442 |
+| Equilibrium | 13.00% | ~1,339 |
+| In the belly of the beast | 12.00% | ~1,236 |
+| Wings of Stone | 12.00% | ~1,236 |
+| Condor condo | 10.00% | ~1,030 |
+| Memorial | 9.00% | ~927 |
+| An uninvited guest | 8.00% | ~824 |
+| Written in stone | 7.00% | ~721 |
+| Talk to all the spirit animals | 7.00% | ~721 |
 | Ripples on the surface | 6.00% | ~618 |
 | Tails of Stone | 6.00% | ~618 |
 | Baa from the past | 6.00% | ~618 |
 | Hide and Seek | 5.00% | ~515 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,292 (Ranked 107)  
+Progressed: 10,298 (Ranked 107)  
 Completed: 219 (2.13%) (Ranked 60)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -62,7 +62,7 @@ Completed: 219 (2.13%) (Ranked 60)
 | 2023-05-22 | 10,097 | 217 |
 | 2023-05-23 | 10,167 | 217 |
 | 2023-05-24 | 10,238 | 219 |
-| 2023-05-25 | 10,292 | 219 |
+| 2023-05-25 | 10,298 | 219 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

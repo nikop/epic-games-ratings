@@ -6,14 +6,14 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mushroom Picker | 56.00% | ~112 |
-| Scrap Gatherer | 56.00% | ~112 |
+| Mushroom Picker | 57.00% | ~114 |
+| Scrap Gatherer | 57.00% | ~114 |
 | My New Home | 56.00% | ~112 |
-| Scrapper | 49.00% | ~98 |
+| Scrapper | 50.00% | ~100 |
 | Cook | 41.00% | ~82 |
+| Teleport | 38.00% | ~76 |
 | Scrap Master | 37.00% | ~74 |
-| Teleport | 37.00% | ~74 |
-| Smelter | 34.00% | ~68 |
+| Smelter | 35.00% | ~70 |
 | Digger | 33.00% | ~66 |
 | Electro-Scrap Gatherer | 32.00% | ~64 |
 | Robot Destroyer | 30.00% | ~60 |

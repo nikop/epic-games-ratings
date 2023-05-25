@@ -5,20 +5,20 @@ Rating: 4.43 (Ranked 642)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~52,778 |
-| This is only the beginning | 19.00% | ~40,111 |
-| Knowledge is power | 12.00% | ~25,333 |
-| Power Ranger | 9.00% | ~19,000 |
-| Galvanic Rifle | 9.00% | ~19,000 |
-| Taser Goad | 9.00% | ~19,000 |
-| Radium Ready | 9.00% | ~19,000 |
-| Half a cog | 9.00% | ~19,000 |
+| No aid from the Omnissiah | 25.00% | ~52,779 |
+| This is only the beginning | 19.00% | ~40,112 |
+| Knowledge is power | 12.00% | ~25,334 |
+| Power Ranger | 9.00% | ~19,001 |
+| Galvanic Rifle | 9.00% | ~19,001 |
+| Taser Goad | 9.00% | ~19,001 |
+| Radium Ready | 9.00% | ~19,001 |
+| Half a cog | 9.00% | ~19,001 |
 | Watch them crumble | 6.00% | ~12,667 |
-| Competent Cohort | 4.00% | ~8,444 |
-| Celestial Cartography Catastrophe | 4.00% | ~8,444 |
-| One with the Machine | 4.00% | ~8,444 |
-| Legio Cybernetica | 3.00% | ~6,333 |
-| Fleshy Disposal | 3.00% | ~6,333 |
+| Competent Cohort | 4.00% | ~8,445 |
+| Celestial Cartography Catastrophe | 4.00% | ~8,445 |
+| One with the Machine | 4.00% | ~8,445 |
+| Legio Cybernetica | 3.00% | ~6,334 |
+| Fleshy Disposal | 3.00% | ~6,334 |
 | Battle Servitor | 2.00% | ~4,222 |
 | Ding Dong Szaregon's Gone | 2.00% | ~4,222 |
 | Impatient destruction | 2.00% | ~4,222 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 642)
 | Perma-live | 0.10% | ~211 |
 | Purge the Heretek | 0.10% | ~211 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,111 (Ranked 47)  
+Progressed: 211,117 (Ranked 47)  
 Completed: 3 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,11 +75,11 @@ Completed: 3 (0.00%) (Ranked 202)
 | 2023-05-22 | 210,824 | 2 |
 | 2023-05-23 | 210,919 | 2 |
 | 2023-05-24 | 211,030 | 2 |
-| 2023-05-25 | 211,111 | 3 |
+| 2023-05-25 | 211,117 | 3 |
 ## Awards
-Max (Highly Recommended): 277  (Ranked 229)  
+Max (Highly Recommended): 277  (Ranked 230)  
 Sum: 2,096 (Ranked 182)  
-Diff (max vs sum): 47  
+Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 277 |

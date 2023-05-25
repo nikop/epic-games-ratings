@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -2306,9 +2306,9 @@
       "ID": "IN_A_PINCH",
       "SetID": "3cck1g6",
       "Name": "In a Pinch",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1205
     },
     {
       "ID": "LIBERATOR",
@@ -2379,8 +2379,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-05-25T17:05:19.9392811+00:00",
+  "LastChanged_Achievements": "2023-05-25T18:05:10.0976726+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.822955+00:00",
-  "LastUpdate_Ratings": "2023-05-25T16:57:50.5172726+00:00",
-  "LastUpdate_Achievements": "2023-05-25T17:05:19.939302+00:00"
+  "LastUpdate_Ratings": "2023-05-25T17:57:43.0425812+00:00",
+  "LastUpdate_Achievements": "2023-05-25T18:05:10.0976994+00:00"
 }
