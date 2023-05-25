@@ -7,6 +7,7 @@
 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 2023-05-25 | 2023-05-25 |
 | [Railway Empire 2](games/r/railway_empire_2.md) | 2023-05-25 | 2023-05-25 |
 | [Indoor Kickball](games/i/indoor_kickball.md) | 2023-05-26 | 2023-05-31 |
+| [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 2023-05-26 | 2023-05-24 |
 | [Operation New Earth](games/o/operation_new_earth.md) | 2023-05-26 | 2016-12-14 |
 | [The Shape of Things](games/6/610757afe5b8478f89000d9779c205ef.md) | 2023-05-26 | 2023-05-26 |
 | [World of Contraptions](games/w/world_of_contraptions.md) | 2023-05-26 | 2022-03-24 |
@@ -28,7 +29,6 @@
 | [Heroes of Shaola](games/h/heroes_of_shaola.md) | 2023-05-31 | 2019-08-01 |
 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 2023-05-31 | 2022-10-18 |
 | [Song Of The Prairie](games/6/679f1dc6ccf2496fb76ce7ecd2324a09.md) | 2023-05-31 | 2023-05-31 |
-| [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 2023-05-31 | 2023-05-24 |
 | [The Cullfield Ritual](games/t/the_cullfield_ritual.md) | 2023-05-31 | 2023-01-05 |
 | [The Dark Tower](games/d/db076bd211d44eb6ae53d85f494af2b4.md) | 2023-05-31 | 2023-05-14 |
 | [To Hell With The Ugly](games/e/ee141714887d486a873a9a5a55fa4dfe.md) | 2023-05-31 | 2023-05-31 |
@@ -315,7 +315,7 @@
 | [Saviorless](games/s/saviorless.md) | 2099-01-01 | 2099-01-01 |
 | [Seafrog](games/s/seafrog.md) | 2099-01-01 | 2099-01-01 |
 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2099-01-01 | 2099-01-01 |
-| [Shadowman - Darque Legacy](games/s/shadowman_-_darque_legacy.md) | 2099-01-01 | 2099-01-01 |
+| [Shadowman®: Darque Legacy](games/s/shadowman_-_darque_legacy.md) | 2099-01-01 | 2099-01-01 |
 | [Ship Simulator Realistic](games/s/ship_simulator_realistic.md) | 2099-01-01 | 2022-01-11 |
 | [Shrine's Legacy](games/s/shrine's_legacy.md) | 2099-01-01 | 2099-01-01 |
 | [SLUDGE LIFE 2](games/s/sludge_life_2.md) | 2099-01-01 | 2099-01-01 |
