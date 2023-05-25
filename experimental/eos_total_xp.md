@@ -207,6 +207,7 @@
 | [Imagine Earth](../games/i/imagine_earth.md) | 24 | 1,000 |
 | [Indoor Kickball](../games/i/indoor_kickball.md) | 40 | 1,000 |
 | [Infindustry](../games/i/infindustry.md) | 12 | 1,000 |
+| [Influent](../games/3/3d27fbb922a04299b8401e1b50c55619.md) | 12 | 1,000 |
 | [Insomnis](../games/i/insomnis.md) | 27 | 1,000 |
 | [Insurgency: Sandstorm](../games/i/insurgency__sandstorm.md) | 35 | 1,000 |
 | [Iratus: Lord of the Dead](../games/i/iratus__lord_of_the_dead.md) | 75 | 1,000 |

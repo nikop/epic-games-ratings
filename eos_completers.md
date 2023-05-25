@@ -4,10 +4,10 @@
 | 2 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 35.29% |
 | 3 | [Overloop](games/o/overloop.md) | 25.00% |
 | 4 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 23.68% |
-| 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 21.21% |
+| 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 20.59% |
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.27% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 8 | [Island Cities](games/i/island_cities.md) | 16.88% |
+| 8 | [Island Cities](games/i/island_cities.md) | 16.77% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 13.33% |
 | 10 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.50% |
 | 11 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.03% |
@@ -18,18 +18,18 @@
 | 16 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.07% |
 | 18 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.81% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.80% |
+| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.80% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.80% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
 | 22 | [Scorn](games/s/scorn.md) | 6.96% |
 | 23 | [Ravenlok](games/r/ravenlok.md) | 6.79% |
 | 24 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 25 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.71% |
-| 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.42% |
-| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.25% |
-| 29 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.19% |
-| 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.84% |
+| 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.39% |
+| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.23% |
+| 29 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.15% |
+| 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.83% |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.63% |
 | 32 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.35% |
 | 33 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.26% |
@@ -43,7 +43,7 @@
 | 41 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.25% |
 | 42 | [The Bunker](games/t/the_bunker.md) | 3.23% |
 | 43 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
-| 44 | [ZZT!](games/z/zzt!.md) | 3.15% |
+| 44 | [ZZT!](games/z/zzt!.md) | 3.14% |
 | 45 | [HordeCore](games/h/hordecore.md) | 2.99% |
 | 45 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.99% |
 | 47 | [MultiVersus](games/m/multiversus.md) | 2.95% |
@@ -84,8 +84,8 @@
 | 82 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.12% |
 | 83 | [Late Shift](games/l/late_shift.md) | 1.11% |
 | 84 | [Five Dates](games/f/five_dates.md) | 1.08% |
-| 85 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.06% |
-| 86 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.00% |
+| 85 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.05% |
+| 86 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.99% |
 | 87 | [Sable](games/s/sable.md) | 0.94% |
 | 88 | [Dungeons 3](games/d/dungeons_3.md) | 0.89% |
 | 88 | [Hades](games/h/hades.md) | 0.89% |
@@ -168,11 +168,11 @@
 | 166 | [Riverbond](games/r/riverbond.md) | 0.08% |
 | 166 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.08% |
 | 166 | [while True: learn()](games/w/while_true__learn().md) | 0.08% |
+| 169 | [Shop Titans](games/s/shop_titans.md) | 0.07% |
 | 169 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
-| 170 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
-| 170 | [Saints Row](games/s/saints_row.md) | 0.06% |
-| 170 | [Shop Titans](games/s/shop_titans.md) | 0.06% |
-| 170 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
+| 171 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
+| 171 | [Saints Row](games/s/saints_row.md) | 0.06% |
+| 171 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
 | 174 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.05% |
 | 174 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.05% |
 | 174 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.05% |
@@ -294,6 +294,7 @@
 | 202 | [Imagine Earth](games/i/imagine_earth.md) | 0.00% |
 | 202 | [Indoor Kickball](games/i/indoor_kickball.md) | 0.00% |
 | 202 | [Infindustry](games/i/infindustry.md) | 0.00% |
+| 202 | [Influent](games/3/3d27fbb922a04299b8401e1b50c55619.md) | 0.00% |
 | 202 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 0.00% |
 | 202 | [IXION](games/i/ixion.md) | 0.00% |
 | 202 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 0.00% |
@@ -416,4 +417,4 @@
 | 202 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 202 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 202 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,684 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,686 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
