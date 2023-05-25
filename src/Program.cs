@@ -191,7 +191,7 @@ var nameDateTable = new MarkdownTable<GameDbItem>()
     .AddColumn("Game", x => $"[{x.Name}]({GamesLink(x)})")
     .AddColumn("Release Date", x => MarkdownHelpers.FormatDate(x.Store.ReleaseDate))
     .AddColumn("Achievements", x => x.TotalAchievements > 0 ? $"{MarkdownHelpers.FormatNumber(x.TotalAchievements)} ({MarkdownHelpers.FormatNumber(x.TotalAchievementsXP)} XP)" : "-")
-    .AddColumn("Players", x => MarkdownHelpers.FormatNumber(x.EOS_Progressed))
+    .AddColumn("Players", x => x.TotalAchievements > 0 ? MarkdownHelpers.FormatNumber(x.EOS_Progressed) : "")
     .AddColumn("Rating", x => MarkdownHelpers.FormatRating(x.Rating))
     .AddColumn("Awards", x => MarkdownHelpers.FormatNumber(x.NumberOfAwardsMax));
 
@@ -251,6 +251,15 @@ await File.WriteAllTextAsync(
     awardsSumTable.FormatTable(items.Where(x => x.NumberOfAwards > 0).OrderByDescending(x => x.NumberOfAwards).ThenBy(x => x.Name))
 );
 
+await File.WriteAllTextAsync(
+    Path.Combine(path, "achievement_games.md"),
+    nameDateTable.FormatTable(
+        items
+            .Where(x => x.TotalAchievements > 0)
+            .OrderByDescending(x => x.Store.ReleaseDate)
+            .ThenBy(x => x.Name)
+    )
+);
 
 // Release Date
 await File.WriteAllTextAsync(
@@ -271,6 +280,8 @@ await File.WriteAllTextAsync(
             .ThenBy(x => x.Name)
     )
 );
+
+
 await File.WriteAllTextAsync(
     Path.Combine(path, "blockchain.md"),
     nameDateTable.FormatTable(
