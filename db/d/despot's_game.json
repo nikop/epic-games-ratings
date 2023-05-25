@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 371,
+  "EOS_Progressed": 372,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -145,6 +145,11 @@
       "Time": "2023-05-25T06:05:31.4857043+00:00",
       "NumProgressed": 371,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-25T13:14:00.0014904+00:00",
+      "NumProgressed": 372,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -228,7 +233,7 @@
       "Name": "Fat of the Earth",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "finished-quest-cube",
@@ -276,7 +281,7 @@
       "Name": "The Return of a Rat",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "finished-quest-reaper",
@@ -292,7 +297,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "finished-quest-secret",
@@ -322,17 +327,17 @@
       "ID": "highlevel-warrior",
       "SetID": "799afm0",
       "Name": "He\u0027s Seen It All",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 89
     },
     {
       "ID": "last-hero",
       "SetID": "799afm0",
       "Name": "Last Man Standing",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 115
     },
     {
       "ID": "save-zombie",
@@ -372,7 +377,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "win-first-level",
@@ -380,15 +385,15 @@
       "Name": "Good start!",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "win-koth-fights1",
       "SetID": "799afm0",
       "Name": "Rookie",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 93
+      "UsersEstimate": 89
     },
     {
       "ID": "win-koth-fights2",
@@ -412,15 +417,15 @@
       "Name": "Through the Darkness",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "win-with-3-cultists",
       "SetID": "799afm0",
       "Name": "Honorary Cultist",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 37
     },
     {
       "ID": "win-with-mrakus",
@@ -435,7 +440,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 371,
+      "Progressed": 372,
       "Completed": 1
     }
   ],
@@ -443,8 +448,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-05-25T12:06:58.3784019+00:00",
+  "LastChanged_Achievements": "2023-05-25T13:14:00.0014898+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:20.0092319+00:00",
-  "LastUpdate_Ratings": "2023-05-25T11:59:08.4067349+00:00",
-  "LastUpdate_Achievements": "2023-05-25T12:06:58.3784689+00:00"
+  "LastUpdate_Ratings": "2023-05-25T13:06:42.9511321+00:00",
+  "LastUpdate_Achievements": "2023-05-25T13:14:00.0015183+00:00"
 }

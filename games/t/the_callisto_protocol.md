@@ -10,15 +10,15 @@ Rating: 4.18 (Ranked 830)
 | Chew 'Em Up | 5.00% | ~678 |
 | Instigator | 4.00% | ~59 |
 | Big Game Hunter | 4.00% | ~59 |
+| Paper Jams | 3.00% | ~407 |
 | The Outer Way | 3.00% | ~407 |
 | Desperate Times | 3.00% | ~407 |
-| Bear Trap | 3.00% | ~44 |
+| Bear Trap | 3.00% | ~45 |
 | Get a Grip | 2.00% | ~271 |
 | Workplace Hazard | 2.00% | ~271 |
 | The Commonality | 2.00% | ~271 |
 | Float Like A Butterfly | 2.00% | ~271 |
 | Reforged | 2.00% | ~271 |
-| Paper Jams | 2.00% | ~271 |
 | Mugshot | 2.00% | ~271 |
 | If the SHU Fits... | 2.00% | ~271 |
 | Big Spender | 2.00% | ~30 |
@@ -32,8 +32,8 @@ Rating: 4.18 (Ranked 830)
 | Lifer | 0.80% | ~12 |
 | In Striking Distance | 0.80% | ~108 |
 | Recidivist | 0.70% | ~10 |
+| Power Up | 0.70% | ~95 |
 | You Need a Gun | 0.60% | ~81 |
-| Power Up | 0.60% | ~81 |
 | What Lies Beneath | 0.50% | ~68 |
 | I Do Belong Here | 0.40% | ~54 |
 | Full Circle | 0.40% | ~54 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 830)
 | Subject Alpha | 0.10% | ~1 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,555 (Ranked 101)  
+Progressed: 13,558 (Ranked 101)  
 Completed: 52 (0.38%) (Ranked 114)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 52 (0.38%) (Ranked 114)
 | 2023-05-22 | 13,347 | 52 |
 | 2023-05-23 | 13,444 | 52 |
 | 2023-05-24 | 13,523 | 52 |
-| 2023-05-25 | 13,555 | 52 |
+| 2023-05-25 | 13,558 | 52 |
 ## Awards
 Max (Highly Recommended): 46  (Ranked 397)  
 Sum: 267 (Ranked 335)  

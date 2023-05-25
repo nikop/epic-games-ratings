@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 101,
   "Ranking_EOS_Completed": 114,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -428,9 +428,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13555,
+  "EOS_Progressed": 13558,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 987,
+  "EOS_NewPlayers": 990,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1518,6 +1518,11 @@
       "Time": "2023-05-25T12:03:42.9229021+00:00",
       "NumProgressed": 13555,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-05-25T13:11:27.5777118+00:00",
+      "NumProgressed": 13558,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 40,
@@ -1703,9 +1708,9 @@
       "ID": "PRINT_WEAPON",
       "SetID": "4hj6d86",
       "Name": "Paper Jams",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 271
+      "UsersEstimate": 407
     },
     {
       "ID": "SHARE_PHOTO",
@@ -1783,9 +1788,9 @@
       "ID": "STORY_TUNNELS",
       "SetID": "4hj6d86",
       "Name": "Power Up",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 95
     },
     {
       "ID": "DISMEMBER_100",
@@ -1817,7 +1822,7 @@
       "Name": "Bear Trap",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -1848,13 +1853,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13555,
+      "Progressed": 13558,
       "Completed": 52
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1481,
+      "Progressed": 1484,
       "Completed": 29
     }
   ],
@@ -1862,8 +1867,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-23T19:57:59.4143533+00:00",
-  "LastChanged_Achievements": "2023-05-25T12:03:42.9229013+00:00",
+  "LastChanged_Achievements": "2023-05-25T13:11:27.5777112+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-25T11:58:01.7838767+00:00",
-  "LastUpdate_Achievements": "2023-05-25T12:03:42.922953+00:00"
+  "LastUpdate_Ratings": "2023-05-25T13:05:49.978128+00:00",
+  "LastUpdate_Achievements": "2023-05-25T13:11:27.5777527+00:00"
 }

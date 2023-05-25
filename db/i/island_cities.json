@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 8,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -29,10 +29,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 156,
-  "EOS_Completed": 26,
+  "EOS_Completed": 27,
   "EOS_NewPlayers": 81,
-  "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 16.67,
+  "EOS_NewCompleters": 13,
+  "EOS_Completed_Percentage": 17.31,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -708,6 +708,11 @@
       "Time": "2023-05-25T11:04:54.573631+00:00",
       "NumProgressed": 156,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-25T13:13:40.4493774+00:00",
+      "NumProgressed": 156,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 22,
@@ -861,9 +866,9 @@
       "ID": "LEVEL_019",
       "SetID": "3khpmem",
       "Name": "Aiming for a living and human city",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "LEVEL_020",
@@ -895,15 +900,15 @@
       "ID": "3khpmem",
       "IsBase": true,
       "Progressed": 156,
-      "Completed": 26
+      "Completed": 27
     }
   ],
   "FirstSeen": "2023-04-28T06:58:06.5817191+00:00",
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-25T12:06:35.6931324+00:00",
+  "LastChanged_Achievements": "2023-05-25T13:13:40.4493767+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:36.8517809+00:00",
-  "LastUpdate_Ratings": "2023-05-25T11:58:17.7509951+00:00",
-  "LastUpdate_Achievements": "2023-05-25T12:06:35.6931881+00:00"
+  "LastUpdate_Ratings": "2023-05-25T13:06:01.992835+00:00",
+  "LastUpdate_Achievements": "2023-05-25T13:13:40.4494107+00:00"
 }

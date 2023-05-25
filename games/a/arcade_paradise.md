@@ -26,8 +26,8 @@ Rating: 4.57 (Ranked 436)
 | Bombscare | 5.00% | ~30 |
 | Rhythm is a dancer | 5.00% | ~30 |
 | Your Bloody Valentine | 5.00% | ~30 |
+| Nose to the Grindstone | 5.00% | ~30 |
 | GoldGuy Jr | 4.00% | ~24 |
-| Nose to the Grindstone | 4.00% | ~24 |
 | Waking nightmare | 4.00% | ~24 |
 | We come in peace | 3.00% | ~18 |
 | Crowning achievement | 3.00% | ~18 |

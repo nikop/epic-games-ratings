@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -220,9 +220,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 275,
+  "EOS_Progressed": 276,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -470,6 +470,11 @@
       "Time": "2023-05-25T06:02:20.783533+00:00",
       "NumProgressed": 275,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T13:10:16.8604694+00:00",
+      "NumProgressed": 276,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -609,7 +614,7 @@
       "Name": "Collectibles of Chapter I",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_COLL_CH02",
@@ -697,23 +702,23 @@
       "Name": "Collectibles of Chapter XII",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_FIN_CH01",
       "SetID": "1j25agn",
       "Name": "Cowardice",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_FIN_CH02",
       "SetID": "1j25agn",
       "Name": "The Breaking Point",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -759,9 +764,9 @@
       "ID": "ACH_FIN_CH08",
       "SetID": "1j25agn",
       "Name": "The Difference",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_FIN_CH09",
@@ -769,7 +774,7 @@
       "Name": "Vengeance",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_FIN_CH10",
@@ -847,9 +852,9 @@
       "ID": "ACH_KILL_BRAWL",
       "SetID": "1j25agn",
       "Name": "Here Comes the Boom",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_KILL_DOOR",
@@ -865,7 +870,7 @@
       "Name": "NO LIFE IS WORTH SAVING...",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -952,15 +957,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 275,
+      "Progressed": 276,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-05-09T23:57:28.9754418+00:00",
-  "LastChanged_Achievements": "2023-05-25T12:02:35.2708481+00:00",
+  "LastChanged_Achievements": "2023-05-25T13:10:16.8604688+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:01.9016759+00:00",
-  "LastUpdate_Ratings": "2023-05-25T11:57:36.2021269+00:00",
-  "LastUpdate_Achievements": "2023-05-25T12:02:35.2708986+00:00"
+  "LastUpdate_Ratings": "2023-05-25T13:05:29.3621546+00:00",
+  "LastUpdate_Achievements": "2023-05-25T13:10:16.8605623+00:00"
 }

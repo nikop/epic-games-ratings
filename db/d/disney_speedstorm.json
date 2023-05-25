@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2557,
+  "EOS_Progressed": 2558,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1770,6 +1770,11 @@
       "Time": "2023-05-25T00:02:19.7653692+00:00",
       "NumProgressed": 2557,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T13:09:00.4429152+00:00",
+      "NumProgressed": 2558,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1821,7 +1826,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "15",
@@ -1835,9 +1840,9 @@
       "ID": "16",
       "SetID": "9p3jgda",
       "Name": "RELEASE THE KRAKEN",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 45,
-      "UsersEstimate": 256
+      "UsersEstimate": 230
     },
     {
       "ID": "17",
@@ -1869,7 +1874,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "20",
@@ -1972,13 +1977,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2557,
+      "Progressed": 2558,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-25T12:01:50.9616317+00:00",
+  "LastChanged_Achievements": "2023-05-25T13:09:00.4429146+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.9291954+00:00",
-  "LastUpdate_Ratings": "2023-05-25T11:59:27.5536869+00:00",
-  "LastUpdate_Achievements": "2023-05-25T12:01:50.9616664+00:00"
+  "LastUpdate_Ratings": "2023-05-25T13:07:01.3313516+00:00",
+  "LastUpdate_Achievements": "2023-05-25T13:09:00.4429575+00:00"
 }

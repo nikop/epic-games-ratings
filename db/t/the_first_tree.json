@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -232,9 +232,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 31170,
+  "EOS_Progressed": 31175,
   "EOS_Completed": 97,
-  "EOS_NewPlayers": 315,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -3117,6 +3117,11 @@
       "Time": "2023-05-25T11:05:25.8858743+00:00",
       "NumProgressed": 31170,
       "NumCompleted": 97
+    },
+    {
+      "Time": "2023-05-25T13:14:04.4904265+00:00",
+      "NumProgressed": 31175,
+      "NumCompleted": 97
     }
   ],
   "TotalAchievements": 14,
@@ -3128,7 +3133,7 @@
       "Name": "100 Stars",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1558
+      "UsersEstimate": 1559
     },
     {
       "ID": "150stars",
@@ -3144,7 +3149,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 8104
+      "UsersEstimate": 8106
     },
     {
       "ID": "allItems",
@@ -3152,7 +3157,7 @@
       "Name": "Excavator",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "allSecrets",
@@ -3176,7 +3181,7 @@
       "Name": "Joseph",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2805
+      "UsersEstimate": 2806
     },
     {
       "ID": "completionist",
@@ -3208,7 +3213,7 @@
       "Name": "Hare Today",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 7792
+      "UsersEstimate": 7794
     },
     {
       "ID": "firstItem",
@@ -3216,7 +3221,7 @@
       "Name": "Two Worlds",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 24313
+      "UsersEstimate": 24316
     },
     {
       "ID": "roots",
@@ -3224,7 +3229,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 5299
+      "UsersEstimate": 5300
     },
     {
       "ID": "secretItem",
@@ -3239,15 +3244,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 31170,
+      "Progressed": 31175,
       "Completed": 97
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-05-23T23:00:58.9617247+00:00",
-  "LastChanged_Achievements": "2023-05-25T12:07:03.5226426+00:00",
+  "LastChanged_Achievements": "2023-05-25T13:14:04.4904256+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:01.8386689+00:00",
-  "LastUpdate_Ratings": "2023-05-25T12:01:06.1792291+00:00",
-  "LastUpdate_Achievements": "2023-05-25T12:07:03.5226746+00:00"
+  "LastUpdate_Ratings": "2023-05-25T13:08:23.592012+00:00",
+  "LastUpdate_Achievements": "2023-05-25T13:14:04.490474+00:00"
 }

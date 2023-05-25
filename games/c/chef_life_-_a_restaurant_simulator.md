@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Big Day | 67.00% | ~138 |
+| The Big Day | 68.00% | ~140 |
 | Home Cook | 32.00% | ~66 |
 | You're the Expert! | 32.00% | ~66 |
 | So Clean You Can Eat Off the Floor | 21.00% | ~43 |

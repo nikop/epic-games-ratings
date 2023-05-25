@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 35,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 837,
+  "EOS_Progressed": 838,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.94,
   "EosHistory": [
@@ -526,6 +526,11 @@
       "Time": "2023-05-25T10:06:02.9156962+00:00",
       "NumProgressed": 837,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-05-25T13:13:45.2430482+00:00",
+      "NumProgressed": 838,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 16,
@@ -535,9 +540,9 @@
       "ID": "ACH_ARTISTASSISTANT",
       "SetID": "7pam6gn",
       "Name": "Artist Assistant",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 117
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_DEEPLISTENER",
@@ -585,7 +590,7 @@
       "Name": "Grey Hands Praxis 101",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_HOMELEAVER",
@@ -593,7 +598,7 @@
       "Name": "Home Leaver",
       "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -601,7 +606,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -633,7 +638,7 @@
       "Name": "Shrine Arriver",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_STRANGERENCOUNTERER",
@@ -655,16 +660,16 @@
       "ID": "ACH_TOURDETIENG",
       "SetID": "7pam6gn",
       "Name": "Tour de Tieng",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 117
+      "UsersEstimate": 109
     }
   ],
   "AchievementSets": [
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 837,
+      "Progressed": 838,
       "Completed": 33
     }
   ],
@@ -672,8 +677,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-05-25T12:06:41.1856374+00:00",
+  "LastChanged_Achievements": "2023-05-25T13:13:45.2430475+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:12.4580527+00:00",
-  "LastUpdate_Ratings": "2023-05-25T11:59:03.0242673+00:00",
-  "LastUpdate_Achievements": "2023-05-25T12:06:41.1856535+00:00"
+  "LastUpdate_Ratings": "2023-05-25T13:06:38.4869173+00:00",
+  "LastUpdate_Achievements": "2023-05-25T13:13:45.2430735+00:00"
 }

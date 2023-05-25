@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -340,9 +340,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 815,
+  "EOS_Progressed": 816,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -725,6 +725,11 @@
       "Time": "2023-05-25T02:06:01.6860647+00:00",
       "NumProgressed": 815,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T13:14:11.2630691+00:00",
+      "NumProgressed": 816,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -792,7 +797,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "EXPERT_1",
@@ -830,9 +835,9 @@
       "ID": "HEAD_BURST_1",
       "SetID": "bf13m8j",
       "Name": "Head Burst",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 155
     },
     {
       "ID": "INDY_1",
@@ -896,7 +901,7 @@
       "Name": "One shot, one kill",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "PACIFIST",
@@ -998,9 +1003,9 @@
       "ID": "VVE",
       "SetID": "bf13m8j",
       "Name": "The Vitinsky Rifle",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 49
     },
     {
       "ID": "WANDERER_1",
@@ -1008,7 +1013,7 @@
       "Name": "Wanderer",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "WISHMASTER_1",
@@ -1023,15 +1028,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 815,
+      "Progressed": 816,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-05-09T03:01:00.2336224+00:00",
-  "LastChanged_Achievements": "2023-05-25T12:07:11.6227171+00:00",
+  "LastChanged_Achievements": "2023-05-25T13:14:11.2630683+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:55.4306832+00:00",
-  "LastUpdate_Ratings": "2023-05-25T12:01:01.3943406+00:00",
-  "LastUpdate_Achievements": "2023-05-25T12:07:11.6227486+00:00"
+  "LastUpdate_Ratings": "2023-05-25T13:08:18.273343+00:00",
+  "LastUpdate_Achievements": "2023-05-25T13:14:11.2631168+00:00"
 }

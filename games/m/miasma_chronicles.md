@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 88.00% | ~297 |
-| Ranidaphobia | 57.00% | ~192 |
-| Aspiring Editor | 52.00% | ~175 |
-| Gun for Hire | 45.00% | ~152 |
-| I am the law! | 27.00% | ~91 |
-| Firestarter | 11.00% | ~37 |
-| Lumberjack | 10.00% | ~34 |
-| Limp Richard | 8.00% | ~27 |
-| Croaked | 7.00% | ~24 |
-| Editor Adept | 6.00% | ~20 |
-| Exorcist | 6.00% | ~20 |
-| From Darkness to Light | 6.00% | ~20 |
-| Giant Killer | 6.00% | ~20 |
-| Newtonian Knockout | 4.00% | ~13 |
-| The meaning of Kain | 4.00% | ~13 |
+| First Blood | 87.00% | ~301 |
+| Ranidaphobia | 57.00% | ~197 |
+| Aspiring Editor | 53.00% | ~183 |
+| Gun for Hire | 46.00% | ~159 |
+| I am the law! | 28.00% | ~97 |
+| Firestarter | 12.00% | ~42 |
+| Lumberjack | 10.00% | ~35 |
+| Croaked | 8.00% | ~28 |
+| Limp Richard | 8.00% | ~28 |
+| Editor Adept | 6.00% | ~21 |
+| Exorcist | 6.00% | ~21 |
+| From Darkness to Light | 6.00% | ~21 |
+| Giant Killer | 6.00% | ~21 |
+| The meaning of Kain | 5.00% | ~17 |
+| Newtonian Knockout | 4.00% | ~14 |
 | Hold The Line | 3.00% | ~10 |
 | Recycler | 3.00% | ~10 |
 | Sensei | 3.00% | ~10 |
 | Chain Killer | 2.00% | ~7 |
+| Technophobe | 2.00% | ~7 |
 | Chain Reaction | 1.00% | ~3 |
 | Commando | 1.00% | ~3 |
-| Technophobe | 1.00% | ~3 |
-| Curveball | 0.90% | ~3 |
+| Curveball | 1.00% | ~3 |
+| Wipe Out | 1.00% | ~3 |
 | Ruthless | 0.90% | ~3 |
 | There Can Be Only One! | 0.90% | ~3 |
-| Wipe Out | 0.90% | ~3 |
 | Are you not entertained? | 0.60% | ~2 |
 | Ganglord | 0.60% | ~2 |
 | Jarhead | 0.60% | ~2 |
@@ -56,11 +56,11 @@
 | Shadow Boxin' | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 337 (Ranked 209)  
+Progressed: 346 (Ranked 208)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-23 | 151 | 0 |
 | 2023-05-24 | 299 | 0 |
-| 2023-05-25 | 337 | 0 |
+| 2023-05-25 | 346 | 0 |

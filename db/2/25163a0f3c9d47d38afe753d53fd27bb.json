@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 304,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 296,
+  "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 5.26,
   "EosHistory": [
@@ -740,9 +740,9 @@
       "ID": "LEVEL_021",
       "SetID": "212bg48",
       "Name": "Island in the center of the island",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 55,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "LEVEL_022",
@@ -827,8 +827,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-25T12:03:31.9847753+00:00",
+  "LastChanged_Achievements": "2023-05-25T13:11:18.4130299+00:00",
   "LastUpdate_AppInfo": "2023-05-22T13:02:13.5547551+00:00",
-  "LastUpdate_Ratings": "2023-05-25T11:57:04.3754155+00:00",
-  "LastUpdate_Achievements": "2023-05-25T12:03:31.98482+00:00"
+  "LastUpdate_Ratings": "2023-05-25T13:05:00.7572374+00:00",
+  "LastUpdate_Achievements": "2023-05-25T13:11:18.4130603+00:00"
 }

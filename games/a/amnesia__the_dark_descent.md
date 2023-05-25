@@ -1,7 +1,7 @@
 # Amnesia: The Dark Descent
 [Store](https://store.epicgames.com/en-US/p/amnesia-the-dark-descent)  
 [View Rawdata](../../db/a/amnesia__the_dark_descent.json)  
-Rating: 4.56 (Ranked 448)  
+Rating: 4.56 (Ranked 449)  
 Number of Ratings: 289  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |

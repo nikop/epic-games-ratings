@@ -139,10 +139,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 10.00% | ~1,139 |
 | Siege Tower | 10.00% | ~1,139 |
 | Carthage - Ox Hide | 9.00% | ~1,025 |
+| Persia | 9.00% | ~1,025 |
 | Old World Order | 9.00% | ~1,025 |
 | No Undo | 9.00% | ~1,025 |
 | Glorious Difficulty | 8.00% | ~911 |
-| Persia | 8.00% | ~911 |
 | The Eternal Treaty | 7.00% | ~797 |
 | Assyria | 7.00% | ~797 |
 | Capturing Cities | 7.00% | ~797 |

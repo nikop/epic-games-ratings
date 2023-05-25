@@ -7,6 +7,7 @@
 | Adventure Time | 92.00% | ~23 |
 | Master Of The Arts | 72.00% | ~18 |
 | Close Call | 28.00% | ~7 |
+| Evolution Revolution | 4.00% | ~1 |
 | Full House | 4.00% | ~1 |
 | Getting Good At This | 4.00% | ~1 |
 | Hold The Line | 4.00% | ~1 |
@@ -17,7 +18,6 @@
 | Catch 'em All | 0.00% | ~0 |
 | Challenger, Ready! | 0.00% | ~0 |
 | Ender Ender | 0.00% | ~0 |
-| Evolution Revolution | 0.00% | ~0 |
 | Expert Summoner | 0.00% | ~0 |
 | Fair Fight | 0.00% | ~0 |
 | Five Of A Kind | 0.00% | ~0 |
