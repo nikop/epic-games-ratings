@@ -166,4 +166,3 @@
 | [Strayed Lights](games/s/strayed_lights.md) | 2023-04-25 | 2023-04-25 |
 | [Stranded: Alien Dawn](games/s/stranded__alien_dawn.md) | 2023-04-25 | 2023-04-25 |
 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 2023-04-25 | 2023-04-25 |
-| [Duck Life 8 - Adventure](games/d/duck_life_8_-_adventure.md) | 2023-04-25 | 2020-06-22 |
