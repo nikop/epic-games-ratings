@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 90.00% | ~354 |
-| Ranidaphobia | 61.00% | ~240 |
-| Aspiring Editor | 56.00% | ~220 |
-| Gun for Hire | 49.00% | ~193 |
-| I am the law! | 33.00% | ~130 |
-| Firestarter | 13.00% | ~51 |
-| Lumberjack | 12.00% | ~47 |
-| Croaked | 9.00% | ~35 |
-| Limp Richard | 9.00% | ~35 |
+| First Blood | 90.00% | ~357 |
+| Ranidaphobia | 61.00% | ~242 |
+| Aspiring Editor | 57.00% | ~226 |
+| Gun for Hire | 50.00% | ~198 |
+| I am the law! | 33.00% | ~131 |
+| Firestarter | 13.00% | ~52 |
+| Lumberjack | 13.00% | ~52 |
+| Limp Richard | 10.00% | ~40 |
+| Croaked | 9.00% | ~36 |
 | Editor Adept | 6.00% | ~24 |
 | Exorcist | 6.00% | ~24 |
 | From Darkness to Light | 6.00% | ~24 |
@@ -30,16 +30,16 @@
 | Curveball | 1.00% | ~4 |
 | Ganglord | 1.00% | ~4 |
 | Jarhead | 1.00% | ~4 |
+| Endgame | 1.00% | ~4 |
 | Experienced | 1.00% | ~4 |
 | Infiltrator | 1.00% | ~4 |
 | Pushing Daisy | 1.00% | ~4 |
 | Ruthless | 1.00% | ~4 |
+| Savior | 1.00% | ~4 |
 | There Can Be Only One! | 1.00% | ~4 |
 | Wipe Out | 1.00% | ~4 |
-| Endgame | 0.80% | ~3 |
-| Savior | 0.80% | ~3 |
+| Chaos Theory | 0.50% | ~2 |
 | Bot Whisperer | 0.30% | ~1 |
-| Chaos Theory | 0.30% | ~1 |
 | Cruelty | 0.30% | ~1 |
 | Dr Jones | 0.30% | ~1 |
 | Side Order | 0.30% | ~1 |
@@ -56,11 +56,11 @@
 | Shadow Boxin' | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 393 (Ranked 200)  
+Progressed: 397 (Ranked 200)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-23 | 151 | 0 |
 | 2023-05-24 | 299 | 0 |
-| 2023-05-25 | 393 | 0 |
+| 2023-05-25 | 397 | 0 |

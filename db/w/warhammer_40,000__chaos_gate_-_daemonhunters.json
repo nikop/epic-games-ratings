@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -522,9 +522,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2630,
+  "EOS_Progressed": 2632,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -942,6 +942,11 @@
       "Time": "2023-05-25T22:06:22.4246619+00:00",
       "NumProgressed": 2630,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T23:06:02.2186124+00:00",
+      "NumProgressed": 2632,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -969,7 +974,7 @@
       "Name": "Look Over There!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "BloodAndIron",
@@ -1041,7 +1046,7 @@
       "Name": "Honoured Battle-Brother",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "ExtractorSkullUses",
@@ -1049,7 +1054,7 @@
       "Name": "Surgical Excision",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -1121,7 +1126,7 @@
       "Name": "Not So Fast...",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "Kills_Bleed",
@@ -1145,7 +1150,7 @@
       "Name": "Executioner",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "Kills_Exterminator",
@@ -1177,7 +1182,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "Kills_Streak",
@@ -1185,7 +1190,7 @@
       "Name": "Purging Spree",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "Kills_Vakir",
@@ -1217,7 +1222,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -1424,21 +1429,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2630,
+      "Progressed": 2632,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2630,
+      "Progressed": 2632,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-25T22:06:22.4246612+00:00",
+  "LastChanged_Achievements": "2023-05-25T23:06:02.2186116+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:13.6314729+00:00",
-  "LastUpdate_Ratings": "2023-05-25T21:58:51.8705816+00:00",
-  "LastUpdate_Achievements": "2023-05-25T22:06:22.4247208+00:00"
+  "LastUpdate_Ratings": "2023-05-25T22:58:40.4418483+00:00",
+  "LastUpdate_Achievements": "2023-05-25T23:06:02.2186799+00:00"
 }

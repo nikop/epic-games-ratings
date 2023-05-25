@@ -2,13 +2,13 @@
   "ID": "d469e82d91fe4516a00d6566c3d2f8f7",
   "Name": "Going Medieval",
   "ProductSlug": "going-medieval",
-  "Ranking_Rating": 387,
+  "Ranking_Rating": 388,
   "Ranking_Popularity": 306,
   "Ranking_PopularitySum": 236,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -988,7 +988,7 @@
   ],
   "EOS_Progressed": 2701,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -1395,9 +1395,9 @@
       "ID": "PRODUCE_AT_CAMPFIRE",
       "SetID": "5349c2e",
       "Name": "Home Cooked Meal",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1188
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -1531,8 +1531,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-05-20T17:59:42.2266886+00:00",
-  "LastChanged_Achievements": "2023-05-25T22:06:15.8084047+00:00",
+  "LastChanged_Achievements": "2023-05-25T23:05:55.4499457+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:15.8703194+00:00",
-  "LastUpdate_Ratings": "2023-05-25T22:00:09.2305808+00:00",
-  "LastUpdate_Achievements": "2023-05-25T22:06:15.8084334+00:00"
+  "LastUpdate_Ratings": "2023-05-25T22:59:57.4946241+00:00",
+  "LastUpdate_Achievements": "2023-05-25T23:05:55.4499747+00:00"
 }

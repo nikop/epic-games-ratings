@@ -46,11 +46,11 @@ Rating: 4.55 (Ranked 468)
 | Mutual Loyalty | 0.30% | ~6 |
 | Help of the Forgotten Member | 0.30% | ~6 |
 | Better Him Than Me | 0.20% | ~4 |
+| Tiqqun Contender | 0.20% | ~4 |
 | Catastrophe Avoided | 0.20% | ~4 |
 | Gregor Spinoza | 0.20% | ~4 |
 | Tiqqun Unchained | 0.20% | ~4 |
 | Scientifically Accurate | 0.20% | ~4 |
-| Tiqqun Contender | 0.10% | ~2 |
 | Remember the Dead | 0.10% | ~2 |
 | Work Harder | 0.10% | ~2 |
 | Soylent Green | 0.10% | ~2 |

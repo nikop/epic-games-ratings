@@ -3,9 +3,9 @@
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 227,
-  "Ranking_EOS_Completed": 29,
+  "Ranking_EOS_Completed": 28,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 235,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 5.11,
   "EosHistory": [
@@ -581,17 +581,17 @@
       "ID": "MQ01_2",
       "SetID": "bbing49",
       "Name": "To Hell In A Handcart",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 40,
-      "UsersEstimate": 155
+      "UsersEstimate": 157
     },
     {
       "ID": "MQ02_1",
       "SetID": "bbing49",
       "Name": "High Profile",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 139
     },
     {
       "ID": "MQ02_2",
@@ -781,9 +781,9 @@
       "ID": "MQ08_3",
       "SetID": "bbing49",
       "Name": "Fhtagn!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 85
     },
     {
       "ID": "PLTN",
@@ -806,8 +806,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-25T22:03:26.4603975+00:00",
+  "LastChanged_Achievements": "2023-05-25T23:03:10.3907337+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.473335+00:00",
-  "LastUpdate_Ratings": "2023-05-25T21:57:23.0105965+00:00",
-  "LastUpdate_Achievements": "2023-05-25T22:03:26.4604255+00:00"
+  "LastUpdate_Ratings": "2023-05-25T22:57:14.088387+00:00",
+  "LastUpdate_Achievements": "2023-05-25T23:03:10.3907604+00:00"
 }

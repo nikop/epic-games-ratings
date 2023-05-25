@@ -2068,9 +2068,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 17550,
+  "EOS_Progressed": 17551,
   "EOS_Completed": 156,
-  "EOS_NewPlayers": 1019,
+  "EOS_NewPlayers": 1013,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
@@ -5503,6 +5503,11 @@
       "Time": "2023-05-25T22:04:06.7187664+00:00",
       "NumProgressed": 17550,
       "NumCompleted": 156
+    },
+    {
+      "Time": "2023-05-25T23:03:49.3793582+00:00",
+      "NumProgressed": 17551,
+      "NumCompleted": 156
     }
   ],
   "TotalAchievements": 60,
@@ -5514,7 +5519,7 @@
       "Name": "The Evilest Evil",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 10354
+      "UsersEstimate": 10355
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_2",
@@ -5522,7 +5527,7 @@
       "Name": "No one has to die today!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 8248
+      "UsersEstimate": 8249
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -5530,7 +5535,7 @@
       "Name": "Twistram is devastated",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 10354
+      "UsersEstimate": 10355
     },
     {
       "ID": "ACH_D3_Campaign_ColdLight_1",
@@ -5626,7 +5631,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 8950
+      "UsersEstimate": 8951
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -5642,7 +5647,7 @@
       "Name": "Storm And Stress",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_Completed",
@@ -5674,7 +5679,7 @@
       "Name": "The last burger",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 6844
+      "UsersEstimate": 6845
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -5706,7 +5711,7 @@
       "Name": "Braiiiiins!",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 6844
+      "UsersEstimate": 6845
     },
     {
       "ID": "ACH_D3_Campaign_Graves_2",
@@ -5794,7 +5799,7 @@
       "Name": "Destroy the thing",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 4738
+      "UsersEstimate": 4739
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -5834,7 +5839,7 @@
       "Name": "I love the smell of Catapult fire!",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_Completed",
@@ -5890,7 +5895,7 @@
       "Name": "Damned good",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 6142
+      "UsersEstimate": 6143
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -5914,7 +5919,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 12285
+      "UsersEstimate": 12286
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -5962,7 +5967,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 5440
+      "UsersEstimate": 5441
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -5970,7 +5975,7 @@
       "Name": "Lifeguard",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 3334
+      "UsersEstimate": 3335
     },
     {
       "ID": "ACH_D3_Campaign_Water_2",
@@ -5978,7 +5983,7 @@
       "Name": "Please, no interruptions!",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1930
+      "UsersEstimate": 1931
     },
     {
       "ID": "ACH_D3_Campaign_Water_Completed",
@@ -5993,15 +5998,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 17550,
+      "Progressed": 17551,
       "Completed": 156
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-05-25T20:58:51.2521919+00:00",
-  "LastChanged_Achievements": "2023-05-25T22:04:06.7187659+00:00",
+  "LastChanged_Achievements": "2023-05-25T23:03:49.3793575+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:24.9884893+00:00",
-  "LastUpdate_Ratings": "2023-05-25T21:59:24.0100026+00:00",
-  "LastUpdate_Achievements": "2023-05-25T22:04:06.7188789+00:00"
+  "LastUpdate_Ratings": "2023-05-25T22:59:14.8920843+00:00",
+  "LastUpdate_Achievements": "2023-05-25T23:03:49.379437+00:00"
 }

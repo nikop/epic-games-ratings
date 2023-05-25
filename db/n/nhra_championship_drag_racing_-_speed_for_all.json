@@ -4,8 +4,8 @@
   "ProductSlug": "nhra-championship-drag-racing-speed-for-all-690d95",
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-01-03T20:29:00+00:00",
     "PcReleaseDate": "2022-08-26T16:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 675,
+  "EOS_Progressed": 676,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -103,6 +103,11 @@
       "Time": "2023-05-25T22:05:55.0752439+00:00",
       "NumProgressed": 675,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T23:05:35.3450972+00:00",
+      "NumProgressed": 676,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 33,
@@ -114,7 +119,7 @@
       "Name": "Graduated",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "11",
@@ -186,7 +191,7 @@
       "Name": "Risky business",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "2",
@@ -362,22 +367,22 @@
       "Name": "I didn\u0027t know you where there!",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "9",
       "SetID": "4n5bj21",
       "Name": "Oops, My bad",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 459
+      "UsersEstimate": 453
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n5bj21",
       "IsBase": true,
-      "Progressed": 675,
+      "Progressed": 676,
       "Completed": 0
     }
   ],
@@ -385,8 +390,8 @@
   "FirstSeenRating": "2023-03-31T05:56:56.4017079+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:42.4655927+00:00",
   "LastChanged": "2023-03-31T05:56:56.401708+00:00",
-  "LastChanged_Achievements": "2023-05-25T22:05:55.0752429+00:00",
+  "LastChanged_Achievements": "2023-05-25T23:05:35.3450966+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:58.7398488+00:00",
-  "LastUpdate_Ratings": "2023-05-25T21:58:37.5016738+00:00",
-  "LastUpdate_Achievements": "2023-05-25T22:05:55.0752728+00:00"
+  "LastUpdate_Ratings": "2023-05-25T22:58:26.5935652+00:00",
+  "LastUpdate_Achievements": "2023-05-25T23:05:35.3451275+00:00"
 }

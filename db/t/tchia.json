@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 116,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6028,
+  "EOS_Progressed": 6031,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -2203,6 +2203,11 @@
       "Time": "2023-05-25T20:05:51.240096+00:00",
       "NumProgressed": 6028,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-25T23:05:31.711349+00:00",
+      "NumProgressed": 6031,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 21,
@@ -2262,7 +2267,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -2310,15 +2315,15 @@
       "Name": "Iconoclast",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "IN_A_PINCH",
       "SetID": "3cck1g6",
       "Name": "In a Pinch",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1146
     },
     {
       "ID": "LIBERATOR",
@@ -2342,7 +2347,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "SNIP_SNIP",
@@ -2366,7 +2371,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "THING",
@@ -2381,7 +2386,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6028,
+      "Progressed": 6031,
       "Completed": 22
     }
   ],
@@ -2389,8 +2394,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-05-25T22:05:51.3575118+00:00",
+  "LastChanged_Achievements": "2023-05-25T23:05:31.7113483+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.822955+00:00",
-  "LastUpdate_Ratings": "2023-05-25T21:58:06.4796734+00:00",
-  "LastUpdate_Achievements": "2023-05-25T22:05:51.3575461+00:00"
+  "LastUpdate_Ratings": "2023-05-25T22:57:56.5221752+00:00",
+  "LastUpdate_Achievements": "2023-05-25T23:05:31.7113815+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2561,
+  "EOS_Progressed": 2562,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1790,6 +1790,11 @@
       "Time": "2023-05-25T21:00:35.3780454+00:00",
       "NumProgressed": 2561,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T23:01:17.7535928+00:00",
+      "NumProgressed": 2562,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1809,7 +1814,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1024
+      "UsersEstimate": 1025
     },
     {
       "ID": "11",
@@ -1873,7 +1878,7 @@
       "Name": "ACE BRAWLER",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "19",
@@ -1985,20 +1990,20 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2561,
+      "Progressed": 2562,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-25T22:02:11.5893235+00:00",
+  "LastChanged_Achievements": "2023-05-25T23:01:17.7535921+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.9291954+00:00",
-  "LastUpdate_Ratings": "2023-05-25T21:59:11.6962895+00:00",
-  "LastUpdate_Achievements": "2023-05-25T22:02:11.589374+00:00"
+  "LastUpdate_Ratings": "2023-05-25T22:59:01.9249842+00:00",
+  "LastUpdate_Achievements": "2023-05-25T23:01:17.7536206+00:00"
 }

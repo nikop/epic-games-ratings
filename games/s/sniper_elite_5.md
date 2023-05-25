@@ -7,7 +7,7 @@ Rating: 4.38 (Ranked 695)
 | ---- | ---------- | ----- |
 | Meeting Resistance | 17.00% | ~243 |
 | Confirming Suspicions | 13.00% | ~186 |
-| The Kraken Wakes | 9.00% | ~128 |
+| The Kraken Wakes | 9.00% | ~129 |
 | It's Starting to Crack | 7.00% | ~100 |
 | Lord of War | 6.00% | ~86 |
 | Resourceful | 6.00% | ~86 |
@@ -40,8 +40,8 @@ Rating: 4.38 (Ranked 695)
 | My Little Friend | 0.80% | ~11 |
 | It'll Buff Right Out | 0.60% | ~9 |
 | Locomotion Commotion | 0.60% | ~9 |
+| Herr Today, Gone Tomorrow | 0.60% | ~8 |
 | Operation Foxley | 0.60% | ~8 |
-| Herr Today, Gone Tomorrow | 0.50% | ~7 |
 | Ghost of Falaise | 0.50% | ~7 |
 | Strategist | 0.40% | ~6 |
 | Don't hold your breath | 0.40% | ~6 |
@@ -49,12 +49,12 @@ Rating: 4.38 (Ranked 695)
 | Siegebreaker | 0.40% | ~6 |
 | From Paris with Love | 0.30% | ~4 |
 | Shoot for the Moon | 0.30% | ~4 |
+| Reich To The Point | 0.30% | ~4 |
+| Covert Elimination | 0.30% | ~4 |
 | Sink or Swim | 0.30% | ~2 |
 | Souvenir hunter | 0.20% | ~3 |
 | Tinkerer | 0.20% | ~3 |
 | Road Rage | 0.20% | ~3 |
-| Reich To The Point | 0.20% | ~3 |
-| Covert Elimination | 0.20% | ~3 |
 | Out of Scope | 0.10% | ~1 |
 | Burn after reading | 0.10% | ~1 |
 | Eagle Eyed | 0.10% | ~1 |
@@ -77,7 +77,7 @@ Rating: 4.38 (Ranked 695)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,427 (Ranked 157)  
+Progressed: 1,428 (Ranked 157)  
 Completed: 2 (0.14%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 2 (0.14%) (Ranked 150)
 | 2023-05-22 | 1,233 | 2 |
 | 2023-05-23 | 1,294 | 2 |
 | 2023-05-24 | 1,365 | 2 |
-| 2023-05-25 | 1,427 | 2 |
+| 2023-05-25 | 1,428 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,13 +2,13 @@
   "ID": "e5e30c728f1947759251eb5283ffa6e3",
   "Name": "Batman Arkham Knight",
   "ProductSlug": "batman-arkham-knight",
-  "Ranking_Rating": 62,
+  "Ranking_Rating": 63,
   "Ranking_Popularity": 58,
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2015-06-23T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -3245,6 +3245,6 @@
   "FirstSeen": "2022-07-22T20:25:23.4007287+00:00",
   "LastChanged": "2023-05-25T16:00:41.7964864+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:09:42.5529059+00:00",
-  "LastUpdate_Ratings": "2023-05-25T22:00:15.9700096+00:00",
-  "LastUpdate_Achievements": "2023-05-25T22:01:16.0298332+00:00"
+  "LastUpdate_Ratings": "2023-05-25T23:00:05.3263637+00:00",
+  "LastUpdate_Achievements": "2023-05-25T23:01:03.3313417+00:00"
 }

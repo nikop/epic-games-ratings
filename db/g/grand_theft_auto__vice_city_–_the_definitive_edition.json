@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 447,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -340,9 +340,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 6831,
+  "EOS_Progressed": 6836,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 623,
+  "EOS_NewPlayers": 627,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -2360,6 +2360,11 @@
       "Time": "2023-05-25T22:05:57.6578161+00:00",
       "NumProgressed": 6831,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-25T23:05:37.9454184+00:00",
+      "NumProgressed": 6836,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 34,
@@ -2475,7 +2480,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2664
+      "UsersEstimate": 2666
     },
     {
       "ID": "ACH15",
@@ -2499,7 +2504,7 @@
       "Name": "Gun for Hire",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "ACH18",
@@ -2523,7 +2528,7 @@
       "Name": "Daredevil",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ACH21",
@@ -2531,7 +2536,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2937
+      "UsersEstimate": 2939
     },
     {
       "ID": "ACH22",
@@ -2539,7 +2544,7 @@
       "Name": "Life of the Party",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "ACH23",
@@ -2547,7 +2552,7 @@
       "Name": "South American Connection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1571
+      "UsersEstimate": 1572
     },
     {
       "ID": "ACH24",
@@ -2571,7 +2576,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "ACH27",
@@ -2603,7 +2608,7 @@
       "Name": "Mischief Managed",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "ACH31",
@@ -2635,14 +2640,14 @@
       "Name": "Kingpin",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     }
   ],
   "AchievementSets": [
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6831,
+      "Progressed": 6836,
       "Completed": 23
     }
   ],
@@ -2650,8 +2655,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-24T16:57:57.2497435+00:00",
-  "LastChanged_Achievements": "2023-05-25T22:05:57.6578158+00:00",
+  "LastChanged_Achievements": "2023-05-25T23:05:37.9454175+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:49.9519997+00:00",
-  "LastUpdate_Ratings": "2023-05-25T21:58:29.8549173+00:00",
-  "LastUpdate_Achievements": "2023-05-25T22:05:57.6578575+00:00"
+  "LastUpdate_Ratings": "2023-05-25T22:58:18.155441+00:00",
+  "LastUpdate_Achievements": "2023-05-25T23:05:37.9454568+00:00"
 }

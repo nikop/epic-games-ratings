@@ -1,7 +1,7 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 62)  
+Rating: 4.82 (Ranked 63)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -25,9 +25,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kill Nil | 0.80% | ~5,642 |
 | Street Fighting | 0.80% | ~5,642 |
 | Qi Gong: Essence | 0.80% | ~5,642 |
+| Take damage to save time | 0.80% | ~5,642 |
 | Stuntmaster | 0.70% | ~4,937 |
 | Old Child | 0.70% | ~4,937 |
-| Take damage to save time | 0.70% | ~4,937 |
 | Scareless | 0.60% | ~4,231 |
 | Dance of the Praying Mantis | 0.60% | ~4,231 |
 | Qi Gong: Mind | 0.60% | ~4,231 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~705 |
 | Warriors from the Mountain | 0.10% | ~705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705,229 (Ranked 15)  
+Progressed: 705,232 (Ranked 15)  
 Completed: 12,734 (1.81%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,10 +92,10 @@ Completed: 12,734 (1.81%) (Ranked 64)
 | 2023-05-22 | 704,647 | 12,733 |
 | 2023-05-23 | 704,864 | 12,733 |
 | 2023-05-24 | 705,048 | 12,734 |
-| 2023-05-25 | 705,229 | 12,734 |
+| 2023-05-25 | 705,232 | 12,734 |
 ## Awards
 Max (Great Boss Battles): 6,091  (Ranked 53)  
-Sum: 10,373 (Ranked 77)  
+Sum: 10,376 (Ranked 77)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
@@ -105,8 +105,8 @@ Diff (max vs sum): -24
 | This game has Quickly Understood Controls | 504 |
 | This game is Extremely Fun | 500 |
 | This game has Amazing Storytelling | 493 |
+| This game is Highly Recommended | 480 |
 | This game has Amazing Characters | 478 |
-| This game is Highly Recommended | 477 |
 | This game has Unique Visuals | 455 |
 | This game is Relaxing | 401 |
 | This game has a Creative Community | 348 |
@@ -242,4 +242,4 @@ Diff (max vs sum): -24
 | 2023-05-21 | 4.82 | - | 6,082 | 10,350 |
 | 2023-05-22 | 4.82 | - | 6,084 | 10,355 |
 | 2023-05-24 | 4.82 | - | 6,089 | 10,368 |
-| 2023-05-25 | 4.82 | - | 6,091 | 10,373 |
+| 2023-05-25 | 4.82 | - | 6,091 | 10,376 |

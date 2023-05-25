@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1232,9 +1232,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62047,
+  "EOS_Progressed": 62051,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1052,
+  "EOS_NewPlayers": 1047,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3767,6 +3767,11 @@
       "Time": "2023-05-25T22:06:31.523179+00:00",
       "NumProgressed": 62047,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-25T23:06:10.8410595+00:00",
+      "NumProgressed": 62051,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3888,9 +3893,9 @@
       "ID": "CLAYFACE_2",
       "SetID": "4eo5ebm",
       "Name": "The Show Mud Go On",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 372
+      "UsersEstimate": 434
     },
     {
       "ID": "CLAYFACE_3",
@@ -4082,7 +4087,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "HARLEY_2",
@@ -4152,9 +4157,9 @@
       "ID": "KNIGHTHOOD_1",
       "SetID": "4eo5ebm",
       "Name": "Knighthood",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 558
+      "UsersEstimate": 621
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -4170,7 +4175,7 @@
       "Name": "Loose Ends",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "MYSTERY_02",
@@ -4265,13 +4270,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62047,
+      "Progressed": 62051,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32327,
+      "Progressed": 32331,
       "Completed": 2641
     }
   ],
@@ -4279,8 +4284,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-25T19:00:08.9110669+00:00",
-  "LastChanged_Achievements": "2023-05-25T22:06:31.5231784+00:00",
+  "LastChanged_Achievements": "2023-05-25T23:06:10.841059+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-25T22:00:03.627404+00:00",
-  "LastUpdate_Achievements": "2023-05-25T22:06:31.5232623+00:00"
+  "LastUpdate_Ratings": "2023-05-25T22:59:52.7296779+00:00",
+  "LastUpdate_Achievements": "2023-05-25T23:06:10.8411513+00:00"
 }

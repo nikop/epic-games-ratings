@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 796,
+  "EOS_Progressed": 797,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -443,6 +443,11 @@
       "Time": "2023-05-25T20:05:56.9752056+00:00",
       "NumProgressed": 796,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T23:05:37.5596862+00:00",
+      "NumProgressed": 797,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -676,9 +681,9 @@
       "ID": "SURVIVE_FIRST_WINTER",
       "SetID": "6ohhfoc",
       "Name": "We made it",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 231
+      "UsersEstimate": 223
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
@@ -813,7 +818,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 796,
+      "Progressed": 797,
       "Completed": 0
     }
   ],
@@ -821,8 +826,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-03-31T05:57:30.891724+00:00",
-  "LastChanged_Achievements": "2023-05-25T22:05:57.3696692+00:00",
+  "LastChanged_Achievements": "2023-05-25T23:05:37.5596852+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:12.8802824+00:00",
-  "LastUpdate_Ratings": "2023-05-25T21:57:50.8462417+00:00",
-  "LastUpdate_Achievements": "2023-05-25T22:05:57.3697262+00:00"
+  "LastUpdate_Ratings": "2023-05-25T22:57:41.8807148+00:00",
+  "LastUpdate_Achievements": "2023-05-25T23:05:37.5597259+00:00"
 }

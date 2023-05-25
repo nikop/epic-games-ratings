@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -340,9 +340,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 820,
+  "EOS_Progressed": 822,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -745,6 +745,11 @@
       "Time": "2023-05-25T22:06:23.7667107+00:00",
       "NumProgressed": 820,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-25T23:06:03.3050068+00:00",
+      "NumProgressed": 822,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -756,7 +761,7 @@
       "Name": "Bustin\u0027 nuts",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "CAREER_CRIMINAL",
@@ -802,9 +807,9 @@
       "ID": "DOUBLE_AGENT",
       "SetID": "bf13m8j",
       "Name": "Double agent",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 115
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -812,7 +817,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 812
+      "UsersEstimate": 814
     },
     {
       "ID": "EXPERT_1",
@@ -826,9 +831,9 @@
       "ID": "EXPLORER_1",
       "SetID": "bf13m8j",
       "Name": "Explorer",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 148
     },
     {
       "ID": "GHOSTBUSTER",
@@ -844,15 +849,15 @@
       "Name": "Grave Robber",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "HEAD_BURST_1",
       "SetID": "bf13m8j",
       "Name": "Head Burst",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 156
     },
     {
       "ID": "INDY_1",
@@ -1012,7 +1017,7 @@
       "Name": "Traveler",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "VVE",
@@ -1020,7 +1025,7 @@
       "Name": "The Vitinsky Rifle",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "WANDERER_1",
@@ -1028,7 +1033,7 @@
       "Name": "Wanderer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "WISHMASTER_1",
@@ -1043,15 +1048,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 820,
+      "Progressed": 822,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-05-09T03:01:00.2336224+00:00",
-  "LastChanged_Achievements": "2023-05-25T22:06:23.7667102+00:00",
+  "LastChanged_Achievements": "2023-05-25T23:06:03.3050063+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:55.4306832+00:00",
-  "LastUpdate_Ratings": "2023-05-25T22:00:30.2617805+00:00",
-  "LastUpdate_Achievements": "2023-05-25T22:06:23.7667424+00:00"
+  "LastUpdate_Ratings": "2023-05-25T23:00:19.5542479+00:00",
+  "LastUpdate_Achievements": "2023-05-25T23:06:03.3050398+00:00"
 }

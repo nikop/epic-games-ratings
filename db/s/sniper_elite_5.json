@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 150,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -206,7 +206,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1427,
+  "EOS_Progressed": 1428,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 685,
   "EOS_NewCompleters": 0,
@@ -1401,6 +1401,11 @@
       "Time": "2023-05-25T22:06:02.64128+00:00",
       "NumProgressed": 1427,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-25T23:05:42.8624515+00:00",
+      "NumProgressed": 1428,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1660,7 +1665,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -1842,9 +1847,9 @@
       "ID": "REWARD_DLC01_02_REICH_TO_THE_POINT",
       "SetID": "83mdf7p",
       "Name": "Reich To The Point",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "REWARD_DLC01_03_FROM_FUHRER_AWAY",
@@ -1858,9 +1863,9 @@
       "ID": "REWARD_DLC01_04_COVERT_ELIMINATION",
       "SetID": "83mdf7p",
       "Name": "Covert Elimination",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "REWARD_DLC01_05_ALPHA",
@@ -1874,9 +1879,9 @@
       "ID": "REWARD_DLC01_06_HERR_TODAY",
       "SetID": "83mdf7p",
       "Name": "Herr Today, Gone Tomorrow",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -1979,13 +1984,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1378,
+      "Progressed": 1379,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1427,
+      "Progressed": 1428,
       "Completed": 2
     }
   ],
@@ -1993,8 +1998,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-25T14:00:05.6295104+00:00",
-  "LastChanged_Achievements": "2023-05-25T22:06:02.6412793+00:00",
+  "LastChanged_Achievements": "2023-05-25T23:05:42.8624508+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-25T22:00:54.8205392+00:00",
-  "LastUpdate_Achievements": "2023-05-25T22:06:02.6413658+00:00"
+  "LastUpdate_Ratings": "2023-05-25T23:00:42.5430053+00:00",
+  "LastUpdate_Achievements": "2023-05-25T23:05:42.8625348+00:00"
 }

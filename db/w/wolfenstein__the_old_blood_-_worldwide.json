@@ -2,13 +2,13 @@
   "ID": "511ba0dc05dd4a3caa39708bcc806cb8",
   "Name": "Wolfenstein: The Old Blood",
   "ProductSlug": "wolfenstein-the-old-blood",
-  "Ranking_Rating": 387,
+  "Ranking_Rating": 388,
   "Ranking_Popularity": 346,
   "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-09-09T15:00:00+00:00",
     "PcReleaseDate": "2015-05-05T15:00:00+00:00",
@@ -422,6 +422,6 @@
   "FirstSeen": "2022-07-22T20:31:51.0594067+00:00",
   "LastChanged": "2023-04-08T01:48:07.2535284+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.8893588+00:00",
-  "LastUpdate_Ratings": "2023-05-25T21:58:35.7326022+00:00",
-  "LastUpdate_Achievements": "2023-05-25T22:01:13.7057274+00:00"
+  "LastUpdate_Ratings": "2023-05-25T22:58:24.9104489+00:00",
+  "LastUpdate_Achievements": "2023-05-25T23:01:00.9555284+00:00"
 }

@@ -6,26 +6,26 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 87.00% | ~1,342 |
-| Self-Improvement | 72.00% | ~1,111 |
-| Perky | 66.00% | ~1,018 |
+| Unforgiven | 87.00% | ~1,343 |
+| Self-Improvement | 72.00% | ~1,112 |
+| Perky | 66.00% | ~1,019 |
 | Let’s Ride | 60.00% | ~926 |
-| Welcome to the Weird West | 58.00% | ~895 |
-| Dead or Alive | 56.00% | ~864 |
+| Welcome to the Weird West | 58.00% | ~896 |
+| Dead or Alive | 56.00% | ~865 |
 | Full House | 37.00% | ~571 |
 | Off the Trail | 34.00% | ~525 |
 | Justice Served | 28.00% | ~432 |
 | Chain Reaction | 27.00% | ~417 |
 | Scholar | 25.00% | ~386 |
 | Through Their Eyes | 25.00% | ~386 |
-| Dishonored | 24.00% | ~370 |
-| Rain of Death | 24.00% | ~370 |
-| The Great Escape | 22.00% | ~339 |
+| Dishonored | 24.00% | ~371 |
+| Rain of Death | 24.00% | ~371 |
+| The Great Escape | 22.00% | ~340 |
 | That’s All, Folks | 18.00% | ~278 |
 | Fallen Star | 16.00% | ~247 |
 | Winds of War | 16.00% | ~247 |
-| For Balance | 15.00% | ~231 |
-| Here Comes Santa Claus | 15.00% | ~231 |
+| For Balance | 15.00% | ~232 |
+| Here Comes Santa Claus | 15.00% | ~232 |
 | Dog Days | 13.00% | ~201 |
 | Workers' Rights | 13.00% | ~201 |
 | Elusive Prey | 12.00% | ~185 |
@@ -38,8 +38,8 @@ Number of Ratings: 125  (23.09.2022)
 | Eternity Can Wait | 9.00% | ~139 |
 | Mystery Machine | 9.00% | ~139 |
 | The Philosopher’s Stone | 9.00% | ~139 |
-| Gold Digger | 8.00% | ~123 |
-| Knuckle Sandwich | 8.00% | ~123 |
+| Gold Digger | 8.00% | ~124 |
+| Knuckle Sandwich | 8.00% | ~124 |
 | Do Not Pass Go… | 7.00% | ~108 |
 | Getting the Gang Back Together | 7.00% | ~108 |
 | Monster Hunter | 7.00% | ~108 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.30% | ~5 |
 | Revenant | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,543 (Ranked 155)  
+Progressed: 1,544 (Ranked 155)  
 Completed: 2 (0.13%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 2 (0.13%) (Ranked 154)
 | 2023-05-22 | 1,534 | 2 |
 | 2023-05-23 | 1,537 | 2 |
 | 2023-05-24 | 1,539 | 2 |
-| 2023-05-25 | 1,543 | 2 |
+| 2023-05-25 | 1,544 | 2 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 465)  
 Sum: 24 (Ranked 470)  

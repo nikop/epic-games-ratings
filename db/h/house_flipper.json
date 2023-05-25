@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -1378,10 +1378,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 2128,
       "NumberOfAwardsMax": 289
+    },
+    {
+      "Time": "2023-05-25T22:59:31.8723968+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 2129,
+      "NumberOfAwardsMax": 289
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2128,
+  "NumberOfAwards": 2129,
   "NumberOfAwardsMax": 289,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1401,7 +1407,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 208
+      "Count": 209
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1452,7 +1458,7 @@
       "Count": 204
     }
   ],
-  "EOS_Progressed": 18985,
+  "EOS_Progressed": 18986,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 0,
@@ -2782,6 +2788,11 @@
       "Time": "2023-05-25T22:06:08.6951532+00:00",
       "NumProgressed": 18985,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-05-25T23:05:48.6909659+00:00",
+      "NumProgressed": 18986,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 23,
@@ -2841,7 +2852,7 @@
       "Name": "First money",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 17846
+      "UsersEstimate": 17847
     },
     {
       "ID": "GameOver",
@@ -2873,7 +2884,7 @@
       "Name": "Mystery",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1898
+      "UsersEstimate": 1899
     },
     {
       "ID": "JuniorEstateAgent",
@@ -2953,7 +2964,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5885
+      "UsersEstimate": 5886
     },
     {
       "ID": "VeronicaLiptson",
@@ -2976,15 +2987,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 18985,
+      "Progressed": 18986,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
-  "LastChanged": "2023-05-25T16:00:04.8192188+00:00",
-  "LastChanged_Achievements": "2023-05-25T22:06:08.6951528+00:00",
+  "LastChanged": "2023-05-25T22:59:31.8723966+00:00",
+  "LastChanged_Achievements": "2023-05-25T23:05:48.6909651+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:56.8900842+00:00",
-  "LastUpdate_Ratings": "2023-05-25T21:59:41.558102+00:00",
-  "LastUpdate_Achievements": "2023-05-25T22:06:08.6952138+00:00"
+  "LastUpdate_Ratings": "2023-05-25T22:59:31.8723972+00:00",
+  "LastUpdate_Achievements": "2023-05-25T23:05:48.690995+00:00"
 }

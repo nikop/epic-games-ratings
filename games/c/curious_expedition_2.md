@@ -24,8 +24,8 @@ Number of Ratings: 20  (23.09.2022)
 | Uncertain Loyalties | 22.00% | ~65 |
 | Traveller | 21.00% | ~62 |
 | Roll to Save | 20.00% | ~59 |
+| Veteran Explorer | 18.00% | ~53 |
 | Red Flag Pirate | 17.00% | ~50 |
-| Veteran Explorer | 17.00% | ~50 |
 | For the Club! | 15.00% | ~45 |
 | Practical Palaeontology | 15.00% | ~45 |
 | Iron Man | 14.00% | ~42 |

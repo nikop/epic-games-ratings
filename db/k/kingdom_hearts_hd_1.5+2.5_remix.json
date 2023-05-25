@@ -2,13 +2,13 @@
   "ID": "4158b699dd70447a981fee752d970a3e",
   "Name": "KINGDOM HEARTS HD 1.5\u002B2.5 ReMIX",
   "ProductSlug": "kingdom-hearts-hd-1-5-2-5-remix",
-  "Ranking_Rating": 62,
+  "Ranking_Rating": 63,
   "Ranking_Popularity": 185,
   "Ranking_PopularitySum": 135,
   "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-03-30T13:00:00+00:00",
     "PcReleaseDate": "2021-03-30T13:00:00+00:00",
@@ -3540,10 +3540,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3784,
       "NumberOfAwardsMax": 502
+    },
+    {
+      "Time": "2023-05-25T22:59:26.7187119+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3785,
+      "NumberOfAwardsMax": 502
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3784,
+  "NumberOfAwards": 3785,
   "NumberOfAwardsMax": 502,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3563,7 +3569,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 495
+      "Count": 496
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3631,8 +3637,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
-  "LastChanged": "2023-05-25T19:59:31.067017+00:00",
+  "LastChanged": "2023-05-25T22:59:26.7187117+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:42.5592626+00:00",
-  "LastUpdate_Ratings": "2023-05-25T21:59:36.5481678+00:00",
-  "LastUpdate_Achievements": "2023-05-25T22:02:31.0681892+00:00"
+  "LastUpdate_Ratings": "2023-05-25T22:59:26.7187125+00:00",
+  "LastUpdate_Achievements": "2023-05-25T23:02:16.3502273+00:00"
 }

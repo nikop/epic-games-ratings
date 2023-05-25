@@ -9,9 +9,9 @@
 | Rookie | 69.00% | ~71 |
 | Apprentice Destructor | 22.00% | ~23 |
 | I Prefer Jazz Fusion | 10.00% | ~10 |
+| Avaricerite | 7.00% | ~7 |
 | Master Destructor | 7.00% | ~7 |
 | You Are Actually Supposed To Use Those | 7.00% | ~7 |
-| Avaricerite | 6.00% | ~6 |
 | Ball Galore | 5.00% | ~5 |
 | Easy Victory | 5.00% | ~5 |
 | Back From The Dead | 4.00% | ~4 |
