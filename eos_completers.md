@@ -7,10 +7,10 @@
 | 5 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 20.59% |
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.27% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 8 | [Island Cities](games/i/island_cities.md) | 16.17% |
+| 8 | [Island Cities](games/i/island_cities.md) | 16.07% |
 | 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 12.50% |
 | 10 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.34% |
-| 11 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.01% |
+| 11 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.00% |
 | 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.71% |
 | 13 | [Smelter](games/s/smelter.md) | 9.09% |
 | 14 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.57% |
@@ -18,8 +18,8 @@
 | 16 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.07% |
 | 18 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.77% |
 | 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.77% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.76% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
 | 22 | [Scorn](games/s/scorn.md) | 6.99% |
 | 23 | [Ravenlok](games/r/ravenlok.md) | 6.70% |
@@ -29,7 +29,7 @@
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.26% |
 | 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.21% |
 | 29 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.90% |
-| 30 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.80% |
+| 30 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.78% |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 32 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.27% |
 | 33 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.26% |
@@ -45,8 +45,8 @@
 | 43 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
 | 43 | [ZZT!](games/z/zzt!.md) | 3.17% |
 | 45 | [HordeCore](games/h/hordecore.md) | 2.99% |
-| 46 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.96% |
-| 47 | [MultiVersus](games/m/multiversus.md) | 2.95% |
+| 46 | [MultiVersus](games/m/multiversus.md) | 2.95% |
+| 47 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.94% |
 | 48 | [Destiny 2](games/d/destiny_2.md) | 2.91% |
 | 49 | [Charon's Staircase](games/c/charon's_staircase.md) | 2.90% |
 | 50 | [Lamentum](games/l/lamentum.md) | 2.86% |
@@ -421,4 +421,4 @@
 | 203 | [WTC - Relentless Protagonist](games/w/wtc_-_relentless_protagonist.md) | 0.00% |
 | 203 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 203 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.00% |
-| 2,688 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
+| 2,689 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.83% |
