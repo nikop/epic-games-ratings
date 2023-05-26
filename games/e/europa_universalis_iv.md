@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,943 |
-| That's a Grand Army | 8.00% | ~3,505 |
-| That is mine! | 8.00% | ~3,505 |
-| Victorious! | 8.00% | ~3,505 |
+| Until death do us apart | 9.00% | ~3,944 |
+| That's a Grand Army | 8.00% | ~3,506 |
+| That is mine! | 8.00% | ~3,506 |
+| Victorious! | 8.00% | ~3,506 |
 | Brothers in Arms | 6.00% | ~2,629 |
 | That's a Grand Navy | 6.00% | ~2,629 |
 | Seriously?! | 6.00% | ~2,629 |
 | For the Glory | 5.00% | ~2,191 |
-| Cold War | 4.00% | ~1,752 |
-| True Catholic | 4.00% | ~1,752 |
-| Defender of the Faith | 3.00% | ~1,314 |
-| It's all about the money | 3.00% | ~1,314 |
-| Respected | 3.00% | ~1,314 |
-| Truly Divine Ruler | 3.00% | ~1,314 |
+| Cold War | 4.00% | ~1,753 |
+| True Catholic | 4.00% | ~1,753 |
+| Defender of the Faith | 3.00% | ~1,315 |
+| It's all about the money | 3.00% | ~1,315 |
+| Respected | 3.00% | ~1,315 |
+| Truly Divine Ruler | 3.00% | ~1,315 |
 | Agressive Expander | 2.00% | ~876 |
 | Blockader | 2.00% | ~876 |
 | Combined Arms | 2.00% | ~876 |
@@ -39,9 +39,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | My armies are invincible! | 1.00% | ~438 |
 | The Five Colonies | 0.90% | ~394 |
 | This navy can take it all | 0.90% | ~394 |
-| The Emperors new clothes | 0.80% | ~350 |
-| Isn't this the way to India? | 0.80% | ~350 |
-| Market Control | 0.80% | ~350 |
+| The Emperors new clothes | 0.80% | ~351 |
+| Isn't this the way to India? | 0.80% | ~351 |
+| Market Control | 0.80% | ~351 |
 | Down Under | 0.70% | ~307 |
 | Trustworthy | 0.70% | ~307 |
 | Electable! | 0.60% | ~263 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,811 (Ranked 79)  
+Progressed: 43,823 (Ranked 79)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -397,10 +397,10 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-23 | 42,594 | 0 |
 | 2023-05-24 | 43,149 | 0 |
 | 2023-05-25 | 43,718 | 0 |
-| 2023-05-26 | 43,811 | 0 |
+| 2023-05-26 | 43,823 | 0 |
 ## Awards
 Max (Educational): 5,281  (Ranked 60)  
-Sum: 43,757 (Ranked 27)  
+Sum: 43,762 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -411,7 +411,7 @@ Diff (max vs sum): 33
 | This game has Diverse Characters | 4,982 |
 | This game is Relaxing | 4,916 |
 | This game has Competitive Players | 4,760 |
-| This game has Amazing Storytelling | 4,506 |
+| This game has Amazing Storytelling | 4,511 |
 | This game has Amazing Characters | 4,165 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -546,3 +546,4 @@ Diff (max vs sum): 33
 | 2023-05-23 | 4.68 | - | 5,271 | 43,683 |
 | 2023-05-24 | 4.68 | - | 5,277 | 43,722 |
 | 2023-05-25 | 4.68 | - | 5,281 | 43,757 |
+| 2023-05-26 | 4.68 | - | 5,281 | 43,762 |

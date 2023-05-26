@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -100,9 +100,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1624,
+  "EOS_Progressed": 1625,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1555,6 +1555,11 @@
       "Time": "2023-05-26T02:06:10.7980783+00:00",
       "NumProgressed": 1624,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T06:05:24.9822664+00:00",
+      "NumProgressed": 1625,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -1622,7 +1627,7 @@
       "Name": "Ne Plus Ultra",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "Achievement_010",
@@ -1702,7 +1707,7 @@
       "Name": "I Like My Stakes Rare!",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "Achievement_020",
@@ -1758,7 +1763,7 @@
       "Name": "Fly Fisher",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "Achievement_027",
@@ -1766,7 +1771,7 @@
       "Name": "Peek-a-boo",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "Achievement_028",
@@ -1798,7 +1803,7 @@
       "Name": "Sucks To Be You",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "Achievement_032",
@@ -1814,7 +1819,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "Achievement_034",
@@ -1902,7 +1907,7 @@
       "Name": "Skin of Their Teeth",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "Achievement_046",
@@ -2093,7 +2098,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 1624,
+      "Progressed": 1625,
       "Completed": 0
     }
   ],
@@ -2101,8 +2106,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-05-21T03:57:51.8415336+00:00",
-  "LastChanged_Achievements": "2023-05-26T05:05:11.9063083+00:00",
+  "LastChanged_Achievements": "2023-05-26T06:05:24.9822657+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:23.3271568+00:00",
-  "LastUpdate_Ratings": "2023-05-26T04:57:29.6083078+00:00",
-  "LastUpdate_Achievements": "2023-05-26T05:05:11.9063656+00:00"
+  "LastUpdate_Ratings": "2023-05-26T05:57:41.7139623+00:00",
+  "LastUpdate_Achievements": "2023-05-26T06:05:24.9824175+00:00"
 }

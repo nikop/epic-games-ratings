@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2772,
+  "EOS_Progressed": 2774,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1314,6 +1314,11 @@
       "Time": "2023-05-26T05:05:26.4432184+00:00",
       "NumProgressed": 2772,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-26T06:05:39.26597+00:00",
+      "NumProgressed": 2774,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1325,7 +1330,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "bonus2",
@@ -1373,7 +1378,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2495
+      "UsersEstimate": 2497
     },
     {
       "ID": "campaign10",
@@ -1461,7 +1466,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2218
+      "UsersEstimate": 2219
     },
     {
       "ID": "campaign20",
@@ -1477,7 +1482,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1802
+      "UsersEstimate": 1803
     },
     {
       "ID": "campaign4",
@@ -1485,7 +1490,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "campaign5",
@@ -1493,7 +1498,7 @@
       "Name": "Clay Fighter",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "campaign6",
@@ -1509,7 +1514,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "campaign8",
@@ -1588,7 +1593,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2772,
+      "Progressed": 2774,
       "Completed": 9
     }
   ],
@@ -1596,8 +1601,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-26T05:05:26.443218+00:00",
+  "LastChanged_Achievements": "2023-05-26T06:05:39.2659696+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:08.6918917+00:00",
-  "LastUpdate_Ratings": "2023-05-26T04:59:32.0439744+00:00",
-  "LastUpdate_Achievements": "2023-05-26T05:05:26.4432424+00:00"
+  "LastUpdate_Ratings": "2023-05-26T05:59:44.3373537+00:00",
+  "LastUpdate_Achievements": "2023-05-26T06:05:39.2659969+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "Marvel\u0027s Guardians of the Galaxy",
   "ProductSlug": "marvels-guardians-of-the-galaxy",
   "Ranking_Rating": 165,
-  "Ranking_Popularity": 173,
+  "Ranking_Popularity": 174,
   "Ranking_PopularitySum": 253,
   "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -998,6 +998,6 @@
   "FirstSeen": "2022-07-22T20:24:01.0577713+00:00",
   "LastChanged": "2023-05-25T19:00:49.2705807+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:29.8901795+00:00",
-  "LastUpdate_Ratings": "2023-05-26T04:59:38.5693252+00:00",
-  "LastUpdate_Achievements": "2023-05-26T05:03:17.4380796+00:00"
+  "LastUpdate_Ratings": "2023-05-26T05:59:50.7009239+00:00",
+  "LastUpdate_Achievements": "2023-05-26T06:03:30.3900165+00:00"
 }

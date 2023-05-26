@@ -4,7 +4,7 @@
   "ProductSlug": "beyond-good-and-evil",
   "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2020-08-25T15:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:24.4398971+00:00",
   "LastChanged": "2023-03-31T05:58:24.4398972+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:45.8572664+00:00",
-  "LastUpdate_Ratings": "2023-05-26T04:57:47.0789499+00:00",
-  "LastUpdate_Achievements": "2023-05-26T05:03:32.2112732+00:00"
+  "LastUpdate_Ratings": "2023-05-26T05:58:01.8729959+00:00",
+  "LastUpdate_Achievements": "2023-05-26T06:03:45.6398667+00:00"
 }

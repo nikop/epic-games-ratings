@@ -4,7 +4,7 @@
   "ProductSlug": "showgunners-cbc083",
   "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-05-02T17:00:00+00:00",
@@ -434,8 +434,8 @@
   "FirstSeenRating": "2023-05-03T17:56:57.8703123+00:00",
   "FirstSeenAchievements": "2023-04-27T16:01:31.7700747+00:00",
   "LastChanged": "2023-05-03T17:56:57.8703123+00:00",
-  "LastChanged_Achievements": "2023-05-26T05:00:21.8455224+00:00",
+  "LastChanged_Achievements": "2023-05-26T06:00:36.3220589+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:01.5811835+00:00",
-  "LastUpdate_Ratings": "2023-05-26T04:56:58.3706928+00:00",
-  "LastUpdate_Achievements": "2023-05-26T05:00:21.8455531+00:00"
+  "LastUpdate_Ratings": "2023-05-26T05:57:11.4508221+00:00",
+  "LastUpdate_Achievements": "2023-05-26T06:00:36.3220895+00:00"
 }

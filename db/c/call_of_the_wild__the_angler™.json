@@ -568,9 +568,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3754,
+  "EOS_Progressed": 3755,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1828,6 +1828,11 @@
       "Time": "2023-05-26T03:01:06.5715721+00:00",
       "NumProgressed": 3754,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T06:00:27.733088+00:00",
+      "NumProgressed": 3755,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -1839,7 +1844,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 2703
+      "UsersEstimate": 2704
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -1847,7 +1852,7 @@
       "Name": "Can you smell what the Rod is Hooking",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 1689
+      "UsersEstimate": 1690
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -1855,7 +1860,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 2327
+      "UsersEstimate": 2328
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -1903,7 +1908,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -1919,7 +1924,7 @@
       "Name": "More than a Tourist",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "ACHIEVEMENT_012",
@@ -1943,7 +1948,7 @@
       "Name": "Goldfish?",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -1951,7 +1956,7 @@
       "Name": "Going for Gold",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -2007,7 +2012,7 @@
       "Name": "Diamond in the Rough",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -2118,13 +2123,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 3754,
+      "Progressed": 3755,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3126,
+      "Progressed": 3127,
       "Completed": 112
     }
   ],
@@ -2132,8 +2137,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-05-14T03:00:04.4008144+00:00",
-  "LastChanged_Achievements": "2023-05-26T05:00:13.2077865+00:00",
+  "LastChanged_Achievements": "2023-05-26T06:00:27.7330876+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:23.9987618+00:00",
-  "LastUpdate_Ratings": "2023-05-26T04:59:10.3901348+00:00",
-  "LastUpdate_Achievements": "2023-05-26T05:00:13.207813+00:00"
+  "LastUpdate_Ratings": "2023-05-26T05:59:24.3784733+00:00",
+  "LastUpdate_Achievements": "2023-05-26T06:00:27.7331154+00:00"
 }

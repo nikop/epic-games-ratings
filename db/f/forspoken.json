@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -242,9 +242,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 38225,
+  "EOS_Progressed": 38226,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2512,6 +2512,11 @@
       "Time": "2023-05-26T05:05:17.5407552+00:00",
       "NumProgressed": 38225,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-26T06:05:30.7071931+00:00",
+      "NumProgressed": 38226,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -2539,7 +2544,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -2595,7 +2600,7 @@
       "Name": "What Must Be Done",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "CHAPTER_05_CLEAR",
@@ -2603,7 +2608,7 @@
       "Name": "Might and Main",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "CHAPTER_06_CLEAR",
@@ -2611,7 +2616,7 @@
       "Name": "Damned If You Do...",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "CHAPTER_07_CLEAR",
@@ -2723,7 +2728,7 @@
       "Name": "Explorer: Pathfinder",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "LOCATION_HUNDRED",
@@ -2795,7 +2800,7 @@
       "Name": "From Every Angle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "MONUMENT_ALL",
@@ -2946,22 +2951,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 38225,
+      "Progressed": 38226,
       "Completed": 1
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 3062,
-      "Completed": 3062
+      "Progressed": 3063,
+      "Completed": 3063
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-05-22T20:58:51.2673153+00:00",
-  "LastChanged_Achievements": "2023-05-26T05:05:17.5407547+00:00",
+  "LastChanged_Achievements": "2023-05-26T06:05:30.7071926+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:06.8378338+00:00",
-  "LastUpdate_Ratings": "2023-05-26T04:58:04.8089567+00:00",
-  "LastUpdate_Achievements": "2023-05-26T05:05:17.5408002+00:00"
+  "LastUpdate_Ratings": "2023-05-26T05:58:17.982596+00:00",
+  "LastUpdate_Achievements": "2023-05-26T06:05:30.70725+00:00"
 }

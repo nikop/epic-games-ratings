@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~374 |
-| Ranidaphobia | 62.00% | ~255 |
-| Aspiring Editor | 57.00% | ~234 |
+| First Blood | 90.00% | ~372 |
+| Ranidaphobia | 62.00% | ~256 |
+| Aspiring Editor | 57.00% | ~235 |
 | Gun for Hire | 50.00% | ~206 |
-| I am the law! | 34.00% | ~140 |
+| I am the law! | 35.00% | ~145 |
 | Firestarter | 15.00% | ~62 |
 | Lumberjack | 14.00% | ~58 |
 | Croaked | 10.00% | ~41 |
-| Limp Richard | 9.00% | ~37 |
+| Limp Richard | 10.00% | ~41 |
 | Editor Adept | 7.00% | ~29 |
 | Exorcist | 7.00% | ~29 |
 | From Darkness to Light | 7.00% | ~29 |
@@ -20,17 +20,17 @@
 | The meaning of Kain | 6.00% | ~25 |
 | Hold The Line | 5.00% | ~21 |
 | Newtonian Knockout | 5.00% | ~21 |
-| Sensei | 4.00% | ~16 |
+| Sensei | 4.00% | ~17 |
 | Chain Killer | 3.00% | ~12 |
 | Recycler | 3.00% | ~12 |
 | Technophobe | 3.00% | ~12 |
+| Are you not entertained? | 2.00% | ~8 |
 | Chain Reaction | 2.00% | ~8 |
+| Jarhead | 2.00% | ~8 |
 | Pushing Daisy | 2.00% | ~8 |
-| Are you not entertained? | 1.00% | ~4 |
 | Commando | 1.00% | ~4 |
 | Curveball | 1.00% | ~4 |
 | Ganglord | 1.00% | ~4 |
-| Jarhead | 1.00% | ~4 |
 | Endgame | 1.00% | ~4 |
 | Experienced | 1.00% | ~4 |
 | Infiltrator | 1.00% | ~4 |
@@ -56,7 +56,7 @@
 | Shadow Boxin' | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 411 (Ranked 198)  
+Progressed: 413 (Ranked 198)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,4 +64,4 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-23 | 151 | 0 |
 | 2023-05-24 | 299 | 0 |
 | 2023-05-25 | 397 | 0 |
-| 2023-05-26 | 411 | 0 |
+| 2023-05-26 | 413 | 0 |

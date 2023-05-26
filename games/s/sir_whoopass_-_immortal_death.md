@@ -47,8 +47,8 @@
 | You're not so Big anymore, Boi! | 15.00% | ~9 |
 | Just wing it! | 13.00% | ~8 |
 | I cant stand still! | 13.00% | ~8 |
+| Slimy... yet satisfying | 13.00% | ~8 |
 | I drink, but I'm not a drunk! | 11.00% | ~7 |
-| Slimy... yet satisfying | 11.00% | ~7 |
 | Ancient Ruins of Dirty Feet | 10.00% | ~6 |
 | Deal with it | 10.00% | ~6 |
 | Spoiler alert! | 8.00% | ~5 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -522,9 +522,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2637,
+  "EOS_Progressed": 2639,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -967,6 +967,11 @@
       "Time": "2023-05-26T05:05:22.2499179+00:00",
       "NumProgressed": 2637,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T06:05:35.1627538+00:00",
+      "NumProgressed": 2639,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -994,7 +999,7 @@
       "Name": "Look Over There!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "BloodAndIron",
@@ -1130,7 +1135,7 @@
       "Name": "Daemonkeeper",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "KadexDefeated_Nexus",
@@ -1146,7 +1151,7 @@
       "Name": "Not So Fast...",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "Kills_Bleed",
@@ -1200,9 +1205,9 @@
       "ID": "Kills_Knockback",
       "SetID": "3jha1np",
       "Name": "Watch Where You Step...",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 712
+      "UsersEstimate": 739
     },
     {
       "ID": "Kills_Streak",
@@ -1226,7 +1231,7 @@
       "Name": "An Ill Omen",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -1418,7 +1423,7 @@
       "Name": "Long Distance Call",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "SkilledKnight",
@@ -1449,21 +1454,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2637,
+      "Progressed": 2639,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2637,
+      "Progressed": 2639,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-26T05:05:22.2499175+00:00",
+  "LastChanged_Achievements": "2023-05-26T06:05:35.1627535+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:13.6314729+00:00",
-  "LastUpdate_Ratings": "2023-05-26T04:58:11.1639528+00:00",
-  "LastUpdate_Achievements": "2023-05-26T05:05:22.249961+00:00"
+  "LastUpdate_Ratings": "2023-05-26T05:58:24.7329693+00:00",
+  "LastUpdate_Achievements": "2023-05-26T06:05:35.1627965+00:00"
 }

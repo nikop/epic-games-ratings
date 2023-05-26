@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -314,9 +314,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8404,
+  "EOS_Progressed": 8405,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 692,
+  "EOS_NewPlayers": 688,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -2459,6 +2459,11 @@
       "Time": "2023-05-26T05:05:27.4894247+00:00",
       "NumProgressed": 8404,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-05-26T06:05:40.1478862+00:00",
+      "NumProgressed": 8405,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 35,
@@ -2470,7 +2475,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6723
+      "UsersEstimate": 6724
     },
     {
       "ID": "ACH02",
@@ -2638,7 +2643,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "ACH23",
@@ -2749,7 +2754,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 8404,
+      "Progressed": 8405,
       "Completed": 17
     }
   ],
@@ -2757,8 +2762,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-05-25T17:59:44.6774994+00:00",
-  "LastChanged_Achievements": "2023-05-26T05:05:27.4894242+00:00",
+  "LastChanged_Achievements": "2023-05-26T06:05:40.1478859+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:19.5303152+00:00",
-  "LastUpdate_Ratings": "2023-05-26T04:59:34.2955395+00:00",
-  "LastUpdate_Achievements": "2023-05-26T05:05:27.4894598+00:00"
+  "LastUpdate_Ratings": "2023-05-26T05:59:46.4823449+00:00",
+  "LastUpdate_Achievements": "2023-05-26T06:05:40.1479193+00:00"
 }

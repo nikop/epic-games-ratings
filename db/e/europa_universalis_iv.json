@@ -5146,10 +5146,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 43757,
       "NumberOfAwardsMax": 5281
+    },
+    {
+      "Time": "2023-05-26T05:57:15.7380218+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 43762,
+      "NumberOfAwardsMax": 5281
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43757,
+  "NumberOfAwards": 43762,
   "NumberOfAwardsMax": 5281,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -5205,7 +5211,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 4506
+      "Count": 4511
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5220,9 +5226,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 43811,
+  "EOS_Progressed": 43823,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4508,
+  "EOS_NewPlayers": 4502,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8795,6 +8801,11 @@
       "Time": "2023-05-26T05:05:34.2680518+00:00",
       "NumProgressed": 43811,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T06:05:46.5760466+00:00",
+      "NumProgressed": 43823,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -9326,7 +9337,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1752
+      "UsersEstimate": 1753
     },
     {
       "ID": "achievement_colonial_management",
@@ -9422,7 +9433,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -9534,7 +9545,7 @@
       "Name": "The Emperors new clothes",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "achievement_empire_of_mann",
@@ -9806,7 +9817,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3505
+      "UsersEstimate": 3506
     },
     {
       "ID": "achievement_grand_coalition",
@@ -9998,7 +10009,7 @@
       "Name": "Isn\u0027t this the way to India?",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "achievement_italian_ambition",
@@ -10022,7 +10033,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -10302,7 +10313,7 @@
       "Name": "Market Control",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "achievement_marshy_march",
@@ -10742,7 +10753,7 @@
       "Name": "Respected",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -11086,7 +11097,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3505
+      "UsersEstimate": 3506
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -11398,7 +11409,7 @@
       "Name": "True Catholic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1752
+      "UsersEstimate": 1753
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -11414,7 +11425,7 @@
       "Name": "Truly Divine Ruler",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1314
+      "UsersEstimate": 1315
     },
     {
       "ID": "achievement_trustworthy",
@@ -11470,7 +11481,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3943
+      "UsersEstimate": 3944
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -11502,7 +11513,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3505
+      "UsersEstimate": 3506
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -11637,21 +11648,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 43811,
+      "Progressed": 43823,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 43811,
+      "Progressed": 43823,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-05-25T21:57:24.7086463+00:00",
-  "LastChanged_Achievements": "2023-05-26T05:05:34.2680512+00:00",
+  "LastChanged": "2023-05-26T05:57:15.7380216+00:00",
+  "LastChanged_Achievements": "2023-05-26T06:05:46.5760462+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:06.3042546+00:00",
-  "LastUpdate_Ratings": "2023-05-26T04:57:02.2522531+00:00",
-  "LastUpdate_Achievements": "2023-05-26T05:05:34.2690361+00:00"
+  "LastUpdate_Ratings": "2023-05-26T05:57:15.7380225+00:00",
+  "LastUpdate_Achievements": "2023-05-26T06:05:46.57704+00:00"
 }

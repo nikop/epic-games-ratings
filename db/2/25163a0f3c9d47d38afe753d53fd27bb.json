@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 318,
+  "EOS_Progressed": 319,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 14,
-  "EOS_Completed_Percentage": 5.03,
+  "EOS_Completed_Percentage": 5.02,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -621,6 +621,11 @@
       "Time": "2023-05-26T05:02:33.464493+00:00",
       "NumProgressed": 318,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-05-26T06:03:16.6956725+00:00",
+      "NumProgressed": 319,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 30,
@@ -632,7 +637,7 @@
       "Name": "A fresh start",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "LEVEL_002",
@@ -640,7 +645,7 @@
       "Name": "Promising crop",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "LEVEL_003",
@@ -648,7 +653,7 @@
       "Name": "A horse in the country",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "LEVEL_004",
@@ -662,17 +667,17 @@
       "ID": "LEVEL_005",
       "SetID": "212bg48",
       "Name": "Small village",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 144
     },
     {
       "ID": "LEVEL_006",
       "SetID": "212bg48",
       "Name": "Nothing like fresh food",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 128
     },
     {
       "ID": "LEVEL_007",
@@ -680,23 +685,23 @@
       "Name": "Animals in the farm",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "LEVEL_008",
       "SetID": "212bg48",
       "Name": "Let\u0027s go to the market",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 102
     },
     {
       "ID": "LEVEL_009",
       "SetID": "212bg48",
       "Name": "Going zig zag",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 86
     },
     {
       "ID": "LEVEL_010",
@@ -710,9 +715,9 @@
       "ID": "LEVEL_011",
       "SetID": "212bg48",
       "Name": "This island of mine",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 67
     },
     {
       "ID": "LEVEL_012",
@@ -792,7 +797,7 @@
       "Name": "Island in the center of the island",
       "Percentage": 8,
       "XP": 55,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "LEVEL_022",
@@ -871,14 +876,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 318,
+      "Progressed": 319,
       "Completed": 16
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-26T05:02:33.4644925+00:00",
+  "LastChanged_Achievements": "2023-05-26T06:03:16.695672+00:00",
   "LastUpdate_AppInfo": "2023-05-22T13:02:13.5547551+00:00",
-  "LastUpdate_Ratings": "2023-05-26T04:56:51.3601089+00:00",
-  "LastUpdate_Achievements": "2023-05-26T05:02:33.4645136+00:00"
+  "LastUpdate_Ratings": "2023-05-26T05:57:04.0049792+00:00",
+  "LastUpdate_Achievements": "2023-05-26T06:03:16.6956973+00:00"
 }

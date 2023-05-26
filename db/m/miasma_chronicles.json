@@ -4,7 +4,7 @@
   "ProductSlug": "miasma-chronicles",
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 411,
+  "EOS_Progressed": 413,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 409,
+  "EOS_NewPlayers": 411,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -312,6 +312,11 @@
       "Time": "2023-05-26T04:06:12.799885+00:00",
       "NumProgressed": 411,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T06:05:08.7093639+00:00",
+      "NumProgressed": 413,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -329,9 +334,9 @@
       "ID": "ARE_YOU_NOT_ENTERTAINED",
       "SetID": "9a4jnji",
       "Name": "Are you not entertained?",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "ASPIRING_EDITOR",
@@ -339,7 +344,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ATTENBOROUGH",
@@ -433,17 +438,17 @@
       "ID": "DEAD_DICK",
       "SetID": "9a4jnji",
       "Name": "Limp Richard",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 41
     },
     {
       "ID": "DIFFERENTLY_ABLED",
       "SetID": "9a4jnji",
       "Name": "Jarhead",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "DRESSED_TO_KILL",
@@ -505,9 +510,9 @@
       "ID": "FIRST_BLOOD",
       "SetID": "9a4jnji",
       "Name": "First Blood",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 372
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -569,9 +574,9 @@
       "ID": "IM_THE_LAW",
       "SetID": "9a4jnji",
       "Name": "I am the law!",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 145
     },
     {
       "ID": "INFILTRATOR",
@@ -627,7 +632,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "RECYCLER",
@@ -659,7 +664,7 @@
       "Name": "Sensei",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "SHADOW_BOXING",
@@ -730,14 +735,14 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 411,
+      "Progressed": 413,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T20:58:17.8341975+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
-  "LastChanged_Achievements": "2023-05-26T05:04:55.6796681+00:00",
+  "LastChanged_Achievements": "2023-05-26T06:05:08.7093636+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:53.8503835+00:00",
-  "LastUpdate_Ratings": "2023-05-26T04:57:54.6694121+00:00",
-  "LastUpdate_Achievements": "2023-05-26T05:04:55.6797013+00:00"
+  "LastUpdate_Ratings": "2023-05-26T05:58:08.9955501+00:00",
+  "LastUpdate_Achievements": "2023-05-26T06:05:08.7093964+00:00"
 }
