@@ -36,8 +36,8 @@
 | The Assistant | 13.00% | ~10 |
 | The Ooze | 13.00% | ~10 |
 | The Droid | 12.00% | ~9 |
+| Verse | 12.00% | ~9 |
 | The Steampunk | 11.00% | ~8 |
-| Verse | 11.00% | ~8 |
 | The Bomber | 9.00% | ~7 |
 | Iron | 9.00% | ~7 |
 | Tested | 9.00% | ~7 |

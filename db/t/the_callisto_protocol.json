@@ -6,9 +6,9 @@
   "Ranking_Popularity": 398,
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 102,
-  "Ranking_EOS_Completed": 114,
+  "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -428,11 +428,11 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13610,
-  "EOS_Completed": 52,
-  "EOS_NewPlayers": 990,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.38,
+  "EOS_Progressed": 13615,
+  "EOS_Completed": 53,
+  "EOS_NewPlayers": 987,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.0112544+00:00",
@@ -1568,6 +1568,11 @@
       "Time": "2023-05-25T23:03:20.0328179+00:00",
       "NumProgressed": 13610,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-05-26T00:03:44.3459334+00:00",
+      "NumProgressed": 13615,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -1595,7 +1600,7 @@
       "Name": "Giving Back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -1707,7 +1712,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "KILL_ROBOT",
@@ -1771,7 +1776,7 @@
       "Name": "The Outer Way",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "STORY_ESCAPE",
@@ -1811,7 +1816,7 @@
       "Name": "Desperate Times",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -1833,9 +1838,9 @@
       "ID": "STORY_TUNNELS",
       "SetID": "4hj6d86",
       "Name": "Power Up",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 109
     },
     {
       "ID": "DISMEMBER_100",
@@ -1851,7 +1856,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -1859,7 +1864,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -1898,13 +1903,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13610,
-      "Completed": 52
+      "Progressed": 13615,
+      "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1536,
+      "Progressed": 1541,
       "Completed": 29
     }
   ],
@@ -1912,8 +1917,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-23T19:57:59.4143533+00:00",
-  "LastChanged_Achievements": "2023-05-25T23:03:20.0328173+00:00",
+  "LastChanged_Achievements": "2023-05-26T00:03:44.3459326+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-25T22:57:50.1389992+00:00",
-  "LastUpdate_Achievements": "2023-05-25T23:03:20.0328639+00:00"
+  "LastUpdate_Ratings": "2023-05-25T23:58:05.1964882+00:00",
+  "LastUpdate_Achievements": "2023-05-26T00:03:44.3459979+00:00"
 }

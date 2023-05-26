@@ -27,8 +27,8 @@ Rating: 4.50 (Ranked 538)
 | Great Flight | 17.00% | ~63 |
 | Holy Vengeance | 14.00% | ~52 |
 | Strength and Sorcery | 10.00% | ~37 |
+| Brain and Brawn | 10.00% | ~37 |
 | Honorary Cultist | 10.00% | ~37 |
-| Brain and Brawn | 9.00% | ~34 |
 | Omae Wa Mou Shindeiru | 8.00% | ~30 |
 | Experimentalist | 5.00% | ~19 |
 | Wide Selection | 5.00% | ~19 |

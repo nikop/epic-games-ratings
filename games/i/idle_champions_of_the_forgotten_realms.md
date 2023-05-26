@@ -42,6 +42,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Contagious Curse | 0.20% | ~177 |
 | Escort to Waterdeep | 0.20% | ~177 |
 | Waterdeep Detours | 0.20% | ~177 |
+| Underdeep Cartography | 0.20% | ~177 |
 | Pure Energy | 0.20% | ~177 |
 | Pros and CONs | 0.10% | ~89 |
 | Upholding the Law | 0.10% | ~89 |
@@ -413,7 +414,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Lost in the Deep | 0.10% | ~89 |
 | Easily Distracted | 0.10% | ~89 |
 | Rude Welcome | 0.10% | ~89 |
-| Underdeep Cartography | 0.10% | ~89 |
 | Overdue Rendezvous | 0.10% | ~89 |
 | Moose Tracks | 0.10% | ~55 |
 | An Awakened Axe | 0.10% | ~55 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.10% | ~89 |
 | Rescue in the Jungle | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,656 (Ranked 60)  
+Progressed: 88,663 (Ranked 60)  
 Completed: 1,879 (2.12%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -536,6 +536,7 @@ Completed: 1,879 (2.12%) (Ranked 61)
 | 2023-05-23 | 88,435 | 1,872 |
 | 2023-05-24 | 88,533 | 1,875 |
 | 2023-05-25 | 88,656 | 1,879 |
+| 2023-05-26 | 88,663 | 1,879 |
 ## Awards
 Max (Diverse Characters): 4,905  (Ranked 64)  
 Sum: 29,974 (Ranked 37)  

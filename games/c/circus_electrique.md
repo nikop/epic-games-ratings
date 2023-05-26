@@ -11,13 +11,13 @@ Number of Ratings: 22  (23.09.2022)
 | Circus Electrique Proudly Presents... | 35.00% | ~144 |
 | Path of Learning | 35.00% | ~144 |
 | Built in a Day | 29.00% | ~119 |
-| More Brain Than Brawn | 25.00% | ~102 |
-| Perfect Illusion | 20.00% | ~82 |
-| Hundred Percent First | 20.00% | ~82 |
+| More Brain Than Brawn | 25.00% | ~103 |
+| Perfect Illusion | 19.00% | ~78 |
+| Hundred Percent First | 19.00% | ~78 |
 | Fan Service | 16.00% | ~66 |
 | Dirty Dozen | 16.00% | ~66 |
 | Lion Tamer | 15.00% | ~62 |
-| Amazing! | 14.00% | ~57 |
+| Amazing! | 14.00% | ~58 |
 | Bar Brawler | 13.00% | ~53 |
 | King of District 1 | 13.00% | ~53 |
 | One More Thing... | 12.00% | ~49 |
@@ -25,16 +25,16 @@ Number of Ratings: 22  (23.09.2022)
 | Flawless Presentation | 12.00% | ~49 |
 | King of District 2 | 11.00% | ~45 |
 | Time Travel! | 10.00% | ~41 |
-| Marketing Manager | 10.00% | ~41 |
+| Marketing Manager | 9.00% | ~37 |
 | Circus Versus Circus | 8.00% | ~33 |
 | King of District 3 | 8.00% | ~33 |
 | Club Member | 7.00% | ~29 |
 | Spirits High | 7.00% | ~29 |
 | Hundred Percent Second | 6.00% | ~25 |
 | King of District 4 | 6.00% | ~25 |
-| Around the Clock | 5.00% | ~20 |
-| Club Champion | 5.00% | ~20 |
-| Mobile Infantry | 5.00% | ~20 |
+| Around the Clock | 5.00% | ~21 |
+| Club Champion | 5.00% | ~21 |
+| Mobile Infantry | 5.00% | ~21 |
 | King of District 5 | 4.00% | ~16 |
 | Hundred Percent Third | 3.00% | ~12 |
 | Hundred Percent Fourth | 3.00% | ~12 |
@@ -57,7 +57,7 @@ Number of Ratings: 22  (23.09.2022)
 | Guest Stars | 0.50% | ~2 |
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 410 (Ranked 198)  
+Progressed: 411 (Ranked 198)  
 Completed: 1 (0.24%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,6 +70,7 @@ Completed: 1 (0.24%) (Ranked 134)
 | 2023-05-22 | 406 | 1 |
 | 2023-05-23 | 407 | 1 |
 | 2023-05-24 | 410 | 1 |
+| 2023-05-26 | 411 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

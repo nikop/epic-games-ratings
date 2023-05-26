@@ -14,9 +14,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | Banner over the Citadel | 7.00% | ~643 |
 | Queen's Gratitude | 7.00% | ~643 |
 | Fifth Crusade | 5.00% | ~459 |
-| Embrace of the Abyss | 4.00% | ~367 |
-| Path of the Angel | 4.00% | ~367 |
-| Demonic and Divine | 4.00% | ~367 |
+| Embrace of the Abyss | 4.00% | ~368 |
+| Path of the Angel | 4.00% | ~368 |
+| Demonic and Divine | 4.00% | ~368 |
 | Path of the Azata | 3.00% | ~276 |
 | Transformation | 3.00% | ~276 |
 | Great Upstart | 3.00% | ~276 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Truly Important Deed | 1.00% | ~92 |
 | Stay Underground | 1.00% | ~80 |
 | Sarkoris Will Be Green | 1.00% | ~80 |
-| Abyssal Conspiracy | 0.80% | ~73 |
+| Abyssal Conspiracy | 0.80% | ~74 |
 | The Final Threshold | 0.70% | ~64 |
 | End of Eternal Guard | 0.70% | ~64 |
 | This Wall Won't Fall | 0.70% | ~56 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,187 (Ranked 110)  
+Progressed: 9,188 (Ranked 110)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,6 +159,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-23 | 9,123 | 0 |
 | 2023-05-24 | 9,159 | 0 |
 | 2023-05-25 | 9,187 | 0 |
+| 2023-05-26 | 9,188 | 0 |
 ## Awards
 Max (Character Customization): 1,640  (Ranked 111)  
 Sum: 6,648 (Ranked 110)  

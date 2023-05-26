@@ -6,27 +6,27 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 27.00% | ~6,178 |
-| Rookie | 24.00% | ~5,491 |
-| Nomad | 19.00% | ~4,347 |
-| Picking Up Speed | 17.00% | ~3,890 |
-| Welcome Maya | 16.00% | ~3,661 |
-| Sightseer | 12.00% | ~2,746 |
-| Scout | 10.00% | ~2,288 |
-| Amateur | 9.00% | ~2,059 |
-| Enter Paz | 9.00% | ~2,059 |
-| Wanderer | 9.00% | ~2,059 |
+| Finding Your Footing | 27.00% | ~6,180 |
+| Rookie | 24.00% | ~5,494 |
+| Nomad | 19.00% | ~4,349 |
+| Picking Up Speed | 17.00% | ~3,891 |
+| Welcome Maya | 16.00% | ~3,662 |
+| Sightseer | 12.00% | ~2,747 |
+| Scout | 10.00% | ~2,289 |
+| Amateur | 9.00% | ~2,060 |
+| Enter Paz | 9.00% | ~2,060 |
+| Wanderer | 9.00% | ~2,060 |
 | Unlock Maya | 7.00% | ~1,602 |
 | Aviator | 6.00% | ~1,373 |
 | One With The Board | 6.00% | ~1,373 |
 | Voyager | 6.00% | ~1,373 |
 | My Little Friend | 5.00% | ~1,144 |
-| Sandboarder | 4.00% | ~915 |
-| Izel Has Arrived | 4.00% | ~915 |
-| Junkie | 3.00% | ~686 |
-| Traveler | 3.00% | ~686 |
-| Journeyer | 3.00% | ~686 |
-| Here Comes Felipe | 3.00% | ~686 |
+| Sandboarder | 4.00% | ~916 |
+| Izel Has Arrived | 4.00% | ~916 |
+| Junkie | 3.00% | ~687 |
+| Traveler | 3.00% | ~687 |
+| Journeyer | 3.00% | ~687 |
+| Here Comes Felipe | 3.00% | ~687 |
 | Pro | 2.00% | ~458 |
 | Unlock Paz | 2.00% | ~458 |
 | Human Flight | 2.00% | ~458 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~23 |
 | Windswept | 0.10% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,881 (Ranked 89)  
+Progressed: 22,890 (Ranked 89)  
 Completed: 3 (0.01%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,6 +82,7 @@ Completed: 3 (0.01%) (Ranked 193)
 | 2023-05-23 | 22,586 | 3 |
 | 2023-05-24 | 22,714 | 3 |
 | 2023-05-25 | 22,881 | 3 |
+| 2023-05-26 | 22,890 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 44  (Ranked 405)  
 Sum: 344 (Ranked 316)  

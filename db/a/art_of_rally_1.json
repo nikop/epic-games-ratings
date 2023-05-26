@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -196,9 +196,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10033,
+  "EOS_Progressed": 10034,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -536,6 +536,11 @@
       "Time": "2023-05-25T21:05:14.8561916+00:00",
       "NumProgressed": 10033,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-26T00:05:55.5061517+00:00",
+      "NumProgressed": 10034,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 43,
@@ -707,7 +712,7 @@
       "Name": "keep it tidy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7725
+      "UsersEstimate": 7726
     },
     {
       "ID": "ACH_COMPLETE_ON_FIRE",
@@ -755,7 +760,7 @@
       "Name": "brail",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 5618
+      "UsersEstimate": 5619
     },
     {
       "ID": "ACH_FULL_THROTTLE",
@@ -771,7 +776,7 @@
       "Name": "light attack",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 9632
+      "UsersEstimate": 9633
     },
     {
       "ID": "ACH_MAX_SPEED_MAXIMUM",
@@ -787,7 +792,7 @@
       "Name": "medium attack",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 5919
+      "UsersEstimate": 5920
     },
     {
       "ID": "ACH_NIGHT",
@@ -890,15 +895,15 @@
     {
       "ID": "9002fpg",
       "IsBase": true,
-      "Progressed": 10033,
+      "Progressed": 10034,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-05-25T23:05:33.3743575+00:00",
+  "LastChanged_Achievements": "2023-05-26T00:05:55.506151+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:57.669657+00:00",
-  "LastUpdate_Ratings": "2023-05-25T22:57:23.7954891+00:00",
-  "LastUpdate_Achievements": "2023-05-25T23:05:33.3744009+00:00"
+  "LastUpdate_Ratings": "2023-05-25T23:57:36.2262183+00:00",
+  "LastUpdate_Achievements": "2023-05-26T00:05:55.5062121+00:00"
 }

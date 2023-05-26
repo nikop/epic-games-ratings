@@ -15,12 +15,12 @@ Number of Ratings: 368  (23.09.2022)
 | Wannabe knight | 25.00% | ~3,174 |
 | Garden of Eden | 25.00% | ~3,174 |
 | Full house | 25.00% | ~3,174 |
-| Help an old friend | 22.00% | ~2,793 |
-| Two of us | 20.00% | ~2,539 |
-| Negotiation skills | 19.00% | ~2,412 |
-| Workers' union | 19.00% | ~2,412 |
-| End of Book Two | 18.00% | ~2,285 |
-| Everything's in order | 17.00% | ~2,158 |
+| Help an old friend | 22.00% | ~2,794 |
+| Two of us | 20.00% | ~2,540 |
+| Negotiation skills | 19.00% | ~2,413 |
+| Workers' union | 19.00% | ~2,413 |
+| End of Book Two | 18.00% | ~2,286 |
+| Everything's in order | 17.00% | ~2,159 |
 | Jack was here! | 15.00% | ~1,905 |
 | Twist of Fate | 14.00% | ~1,778 |
 | Exterminator | 14.00% | ~1,778 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~381 |
 | Boy of mystery | 2.00% | ~254 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,697 (Ranked 104)  
+Progressed: 12,698 (Ranked 104)  
 Completed: 94 (0.74%) (Ranked 97)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,6 +84,7 @@ Completed: 94 (0.74%) (Ranked 97)
 | 2023-05-23 | 12,650 | 94 |
 | 2023-05-24 | 12,667 | 94 |
 | 2023-05-25 | 12,697 | 94 |
+| 2023-05-26 | 12,698 | 94 |
 ## Awards
 Max (Easy Puzzles): 148  (Ranked 287)  
 Sum: 187 (Ranked 355)  

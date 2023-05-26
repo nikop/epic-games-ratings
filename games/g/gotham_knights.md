@@ -21,12 +21,12 @@ Rating: 4.17 (Ranked 837)
 | Unstoppable Force | 0.70% | ~434 |
 | Lock and Key | 0.70% | ~434 |
 | Bad Apples in Every Orchard | 0.70% | ~434 |
+| From Inside Gotham's Walls | 0.70% | ~434 |
 | Protector of Gotham | 0.60% | ~372 |
 | Rock and a Hard Place | 0.60% | ~372 |
 | Shock Til They Drop | 0.60% | ~372 |
 | Cooldown | 0.60% | ~372 |
 | Universal Health Scare | 0.60% | ~372 |
-| From Inside Gotham's Walls | 0.60% | ~372 |
 | Voiceless | 0.60% | ~372 |
 | Seeking Asylum | 0.60% | ~372 |
 | Gotham Knight | 0.60% | ~372 |
@@ -43,11 +43,11 @@ Rating: 4.17 (Ranked 837)
 | A Worthy Successor | 0.30% | ~186 |
 | Solid Alibi | 0.30% | ~186 |
 | Hammer and Icicle | 0.20% | ~65 |
+| Renewable Enemy Source | 0.20% | ~65 |
 | Dressed to Impress | 0.20% | ~124 |
 | A Momentum Occasion | 0.20% | ~124 |
 | Element of Surprise | 0.10% | ~32 |
 | It's Nice to Be Wanted | 0.10% | ~32 |
-| Renewable Enemy Source | 0.10% | ~32 |
 | Crime Is a Terrible Thing to Waste | 0.10% | ~32 |
 | The Cold, the Bad and the Ugly | 0.10% | ~32 |
 | Gotham's Greatest Depths | 0.10% | ~32 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 837)
 | Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,051 (Ranked 69)  
+Progressed: 62,055 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,6 +103,7 @@ Completed: 91 (0.15%) (Ranked 148)
 | 2023-05-23 | 61,842 | 91 |
 | 2023-05-24 | 61,945 | 91 |
 | 2023-05-25 | 62,051 | 91 |
+| 2023-05-26 | 62,055 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,237  (Ranked 98)  
 Sum: 3,714 (Ranked 138)  

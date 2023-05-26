@@ -46,13 +46,13 @@
 | Starry: The Coreland | 37.00% | ~57 |
 | Feed the Fishes | 36.00% | ~55 |
 | Brilliant: Wasteland | 33.00% | ~50 |
-| Father of Nation | 30.00% | ~46 |
-| Dwarven Countdown | 28.00% | ~43 |
+| Father of Nation | 31.00% | ~47 |
+| Dwarven Countdown | 29.00% | ~44 |
 | Starry: Wasteland | 28.00% | ~43 |
 | Deadman's Chest | 27.00% | ~41 |
 | Monument Keeper | 25.00% | ~38 |
 | Brilliant: Free Coast | 24.00% | ~37 |
-| Brilliant: The Deep | 22.00% | ~34 |
+| Brilliant: The Deep | 23.00% | ~35 |
 | Starry: Free Coast | 22.00% | ~34 |
 | Starry: The Deep | 20.00% | ~31 |
 | Loveless | 17.00% | ~26 |

@@ -206,9 +206,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1428,
+  "EOS_Progressed": 1433,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 685,
+  "EOS_NewPlayers": 689,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1406,6 +1406,11 @@
       "Time": "2023-05-25T23:05:42.8624515+00:00",
       "NumProgressed": 1428,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-26T00:06:14.9111634+00:00",
+      "NumProgressed": 1433,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1457,7 +1462,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -1497,7 +1502,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1753,7 +1758,7 @@
       "Name": "Change the Channel",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -1775,9 +1780,9 @@
       "ID": "REWARD_67_NO_ASSISTANCE",
       "SetID": "bm6el81",
       "Name": "Don\u0027t hold your breath",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "REWARD_6_BIG_GAME_HUNTER",
@@ -1903,9 +1908,9 @@
       "ID": "REWARD_DLC01_09_LAST_RESORT",
       "SetID": "83mdf7p",
       "Name": "Last Resort",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -1984,13 +1989,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1379,
+      "Progressed": 1384,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1428,
+      "Progressed": 1433,
       "Completed": 2
     }
   ],
@@ -1998,8 +2003,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-25T14:00:05.6295104+00:00",
-  "LastChanged_Achievements": "2023-05-25T23:05:42.8624508+00:00",
+  "LastChanged_Achievements": "2023-05-26T00:06:14.9111623+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-25T23:00:42.5430053+00:00",
-  "LastUpdate_Achievements": "2023-05-25T23:05:42.8625348+00:00"
+  "LastUpdate_Ratings": "2023-05-26T00:01:06.7626377+00:00",
+  "LastUpdate_Achievements": "2023-05-26T00:06:14.9112923+00:00"
 }

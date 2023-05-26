@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 410,
+  "EOS_Progressed": 411,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -179,6 +179,11 @@
       "Time": "2023-05-24T21:06:12.8981825+00:00",
       "NumProgressed": 410,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-26T00:06:29.9582936+00:00",
+      "NumProgressed": 411,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -196,9 +201,9 @@
       "ID": "ACHIEVEMENT_02",
       "SetID": "631ndc2",
       "Name": "Perfect Illusion",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 78
     },
     {
       "ID": "ACHIEVEMENT_03",
@@ -230,7 +235,7 @@
       "Name": "Around the Clock",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -294,7 +299,7 @@
       "Name": "More Brain Than Brawn",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -310,7 +315,7 @@
       "Name": "Club Champion",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -340,9 +345,9 @@
       "ID": "ACHIEVEMENT_20",
       "SetID": "631ndc2",
       "Name": "Hundred Percent First",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 78
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -500,9 +505,9 @@
       "ID": "ACHIEVEMENT_40",
       "SetID": "631ndc2",
       "Name": "Marketing Manager",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 37
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -526,7 +531,7 @@
       "Name": "Amazing!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -558,7 +563,7 @@
       "Name": "Mobile Infantry",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACHIEVEMENT_48",
@@ -589,7 +594,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 410,
+      "Progressed": 411,
       "Completed": 1
     }
   ],
@@ -597,8 +602,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-05-25T23:05:57.6816436+00:00",
+  "LastChanged_Achievements": "2023-05-26T00:06:29.9582928+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.3315704+00:00",
-  "LastUpdate_Ratings": "2023-05-25T22:59:01.000861+00:00",
-  "LastUpdate_Achievements": "2023-05-25T23:05:57.6816993+00:00"
+  "LastUpdate_Ratings": "2023-05-25T23:59:21.1472311+00:00",
+  "LastUpdate_Achievements": "2023-05-26T00:06:29.9583735+00:00"
 }

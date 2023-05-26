@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 61,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 7,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3940,9 +3940,9 @@
       "Count": 3239
     }
   ],
-  "EOS_Progressed": 88656,
+  "EOS_Progressed": 88663,
   "EOS_Completed": 1879,
-  "EOS_NewPlayers": 738,
+  "EOS_NewPlayers": 743,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 2.12,
   "EosHistory": [
@@ -7395,6 +7395,11 @@
       "Time": "2023-05-25T23:06:16.0379913+00:00",
       "NumProgressed": 88656,
       "NumCompleted": 1879
+    },
+    {
+      "Time": "2023-05-26T00:06:48.4552474+00:00",
+      "NumProgressed": 88663,
+      "NumCompleted": 1879
     }
   ],
   "TotalAchievements": 493,
@@ -10612,9 +10617,9 @@
       "ID": "objective_completed_79",
       "SetID": "cc37lbc",
       "Name": "Underdeep Cartography",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_8",
@@ -11349,21 +11354,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54930,
+      "Progressed": 54937,
       "Completed": 2707
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88656,
+      "Progressed": 88663,
       "Completed": 1879
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-25T21:58:14.7770868+00:00",
-  "LastChanged_Achievements": "2023-05-25T23:06:16.0379907+00:00",
+  "LastChanged_Achievements": "2023-05-26T00:06:48.4552468+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-25T22:58:03.3756452+00:00",
-  "LastUpdate_Achievements": "2023-05-25T23:06:16.0413795+00:00"
+  "LastUpdate_Ratings": "2023-05-25T23:58:22.6552617+00:00",
+  "LastUpdate_Achievements": "2023-05-26T00:06:48.4579719+00:00"
 }

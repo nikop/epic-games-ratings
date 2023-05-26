@@ -6,18 +6,18 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,013 |
-| I'll Be Back | 84.00% | ~3,586 |
-| Sorry, I Dropped This | 77.00% | ~3,287 |
-| First Day on the Job | 76.00% | ~3,244 |
-| Butcher's Bill | 54.00% | ~2,305 |
+| On My Own Two Feet | 94.00% | ~4,014 |
+| I'll Be Back | 84.00% | ~3,587 |
+| Sorry, I Dropped This | 77.00% | ~3,288 |
+| First Day on the Job | 76.00% | ~3,245 |
+| Butcher's Bill | 54.00% | ~2,306 |
 | P.A.X | 37.00% | ~1,580 |
 | Hey Listen | 36.00% | ~1,537 |
 | OPERATOR | 35.00% | ~1,494 |
 | It's Blue Light | 33.00% | ~1,409 |
 | Most Wanted | 26.00% | ~1,110 |
 | Infidel | 23.00% | ~982 |
-| GOLIATH | 21.00% | ~896 |
+| GOLIATH | 21.00% | ~897 |
 | Firebug | 20.00% | ~854 |
 | I Choose You | 17.00% | ~726 |
 | Nothing to Lose | 17.00% | ~726 |
@@ -44,10 +44,10 @@ Number of Ratings: 62  (23.09.2022)
 | Risk Assessment | 7.00% | ~299 |
 | Sunglasses at Night | 6.00% | ~256 |
 | Carbon Cat | 6.00% | ~256 |
-| It Lives! It Sniffs! It Conquers! | 5.00% | ~213 |
-| Man of Steel | 5.00% | ~213 |
-| Jack of All Trades | 5.00% | ~213 |
-| 3-2-1 | 5.00% | ~213 |
+| It Lives! It Sniffs! It Conquers! | 5.00% | ~214 |
+| Man of Steel | 5.00% | ~214 |
+| Jack of All Trades | 5.00% | ~214 |
+| 3-2-1 | 5.00% | ~214 |
 | Rusty Rat | 4.00% | ~171 |
 | Desecration | 4.00% | ~171 |
 | For the Good of Mankind | 3.00% | ~128 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.50% | ~21 |
 | The Surge | 0.40% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,269 (Ranked 127)  
+Progressed: 4,270 (Ranked 127)  
 Completed: 13 (0.30%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,6 +103,7 @@ Completed: 13 (0.30%) (Ranked 126)
 | 2023-05-23 | 4,258 | 13 |
 | 2023-05-24 | 4,263 | 13 |
 | 2023-05-25 | 4,269 | 13 |
+| 2023-05-26 | 4,270 | 13 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 459)  
 Sum: 26 (Ranked 465)  

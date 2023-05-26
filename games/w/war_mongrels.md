@@ -13,7 +13,7 @@ Number of Ratings: 34  (23.09.2022)
 | Prospector | 44.00% | ~123 |
 | Here Comes the Boom | 44.00% | ~123 |
 | Treasure Hunter | 42.00% | ~118 |
-| The Breaking Point | 38.00% | ~106 |
+| The Breaking Point | 39.00% | ~109 |
 | Sniper Wolf | 37.00% | ~104 |
 | Missing in Action | 36.00% | ~101 |
 | The Motivation | 34.00% | ~95 |
@@ -28,8 +28,8 @@ Number of Ratings: 34  (23.09.2022)
 | Vengeance | 21.00% | ~59 |
 | Food Massacre | 20.00% | ~56 |
 | Broken Hopes | 19.00% | ~53 |
+| It's Just an Accident | 19.00% | ~53 |
 | Bullseye! | 19.00% | ~53 |
-| It's Just an Accident | 18.00% | ~50 |
 | Collectibles of Chapter III | 15.00% | ~42 |
 | Sorrow | 15.00% | ~42 |
 | Collectibles of Chapter IV | 14.00% | ~39 |

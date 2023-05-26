@@ -4,7 +4,7 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 10,
-  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
@@ -160,9 +160,9 @@
       "ID": "BADGE_BOSS_8_KILL",
       "SetID": "ak6pfjk",
       "Name": "Dwarven Countdown",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "BADGE_BRILLIANT_DAY",
@@ -232,9 +232,9 @@
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_8",
       "SetID": "ak6pfjk",
       "Name": "Brilliant: The Deep",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 45,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "BADGE_BRILLIANT_NIGHT",
@@ -472,9 +472,9 @@
       "ID": "BADGE_SKILL_BRANCH_MAX",
       "SetID": "ak6pfjk",
       "Name": "Father of Nation",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "BADGE_SKILL_MAX",
@@ -529,8 +529,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-05-25T23:01:17.3561617+00:00",
+  "LastChanged_Achievements": "2023-05-26T00:01:42.9102918+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:11.9155795+00:00",
-  "LastUpdate_Ratings": "2023-05-25T22:58:38.7944551+00:00",
-  "LastUpdate_Achievements": "2023-05-25T23:01:17.3562163+00:00"
+  "LastUpdate_Ratings": "2023-05-25T23:58:56.6132446+00:00",
+  "LastUpdate_Achievements": "2023-05-26T00:01:42.9103439+00:00"
 }

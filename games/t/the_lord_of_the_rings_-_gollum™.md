@@ -4,15 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Wraith | 49.00% | ~65 |
-| Collectibles Part 1 | 38.00% | ~51 |
-| Welcome to Mordor! | 37.00% | ~49 |
-| Memories | 27.00% | ~36 |
-| Wait! Wait! Not yet! | 20.00% | ~27 |
-| Like Flying... | 15.00% | ~20 |
-| The Maggot | 8.00% | ~11 |
-| The Breeder | 4.00% | ~5 |
+| The Wraith | 50.00% | ~69 |
+| Collectibles Part 1 | 38.00% | ~52 |
+| Welcome to Mordor! | 37.00% | ~51 |
+| Memories | 26.00% | ~36 |
+| Wait! Wait! Not yet! | 21.00% | ~29 |
+| Like Flying... | 15.00% | ~21 |
+| The Maggot | 9.00% | ~12 |
+| The Breeder | 5.00% | ~7 |
 | The Veteran | 2.00% | ~3 |
+| Murderer | 0.70% | ~1 |
+| Trigger-Happy | 0.70% | ~1 |
 | He's so Annoying | 0.00% | ~0 |
 | Break a Leg! | 0.00% | ~0 |
 | And now we wish... | 0.00% | ~0 |
@@ -28,7 +30,6 @@
 | Elf-Friend | 0.00% | ~0 |
 | We Hates Them! | 0.00% | ~0 |
 | We wants it! We needs it | 0.00% | ~0 |
-| Murderer | 0.00% | ~0 |
 | Nervous Hands | 0.00% | ~0 |
 | How Did You Do That? | 0.00% | ~0 |
 | Master of the Old Game | 0.00% | ~0 |
@@ -39,9 +40,8 @@
 | Made a Song | 0.00% | ~0 |
 | Ss ss ss... | 0.00% | ~0 |
 | So Tasty! | 0.00% | ~0 |
-| Trigger-Happy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133 (Ranked 256)  
+Progressed: 138 (Ranked 256)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,3 +50,4 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-23 | 4 | 0 |
 | 2023-05-24 | 5 | 0 |
 | 2023-05-25 | 133 | 0 |
+| 2023-05-26 | 138 | 0 |

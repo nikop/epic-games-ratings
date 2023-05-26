@@ -1,7 +1,7 @@
 # Let's Build A Zoo
 [Store](https://store.epicgames.com/en-US/p/lets-build-a-zoo)  
 [View Rawdata](../../db/l/let's_build_a_zoo.json)  
-Rating: 4.42 (Ranked 650)  
+Rating: 4.43 (Ranked 642)  
 Number of Ratings: 39  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -33,3 +33,4 @@ Number of Ratings: 39  (23.09.2022)
 | 2022-11-27 | 4.40 | - | - | - |
 | 2023-03-31 | 4.40 | - | 0 | 0 |
 | 2023-05-11 | 4.42 | - | 0 | 0 |
+| 2023-05-26 | 4.43 | - | 0 | 0 |
