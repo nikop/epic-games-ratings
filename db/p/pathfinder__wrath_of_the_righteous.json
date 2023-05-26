@@ -2454,10 +2454,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 6650,
       "NumberOfAwardsMax": 1640
+    },
+    {
+      "Time": "2023-05-26T20:58:29.6214558+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 6651,
+      "NumberOfAwardsMax": 1640
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6650,
+  "NumberOfAwards": 6651,
   "NumberOfAwardsMax": 1640,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2507,7 +2513,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 524
+      "Count": 525
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2528,9 +2534,9 @@
       "Count": 370
     }
   ],
-  "EOS_Progressed": 9218,
+  "EOS_Progressed": 9223,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 306,
+  "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4593,6 +4599,11 @@
       "Time": "2023-05-26T20:08:59.2309551+00:00",
       "NumProgressed": 9218,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T21:06:45.2991039+00:00",
+      "NumProgressed": 9223,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -4618,9 +4629,9 @@
       "ID": "03_BannerOverCitadel",
       "SetID": "989of5o",
       "Name": "Banner over the Citadel",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 645
+      "UsersEstimate": 738
     },
     {
       "ID": "04_FithCrusade",
@@ -4740,7 +4751,7 @@
       "Name": "Mythic Choices",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "19_EqualToAroden",
@@ -4804,7 +4815,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "28_GreatUpstart",
@@ -4852,7 +4863,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -5531,21 +5542,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 8000,
+      "Progressed": 8005,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9218,
+      "Progressed": 9223,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-05-26T01:58:39.9900501+00:00",
-  "LastChanged_Achievements": "2023-05-26T20:08:59.2309546+00:00",
+  "LastChanged": "2023-05-26T20:58:29.6214556+00:00",
+  "LastChanged_Achievements": "2023-05-26T21:06:45.299103+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.1457423+00:00",
-  "LastUpdate_Ratings": "2023-05-26T20:01:11.8333236+00:00",
-  "LastUpdate_Achievements": "2023-05-26T20:08:59.2311241+00:00"
+  "LastUpdate_Ratings": "2023-05-26T20:58:29.6214563+00:00",
+  "LastUpdate_Achievements": "2023-05-26T21:06:45.2992521+00:00"
 }

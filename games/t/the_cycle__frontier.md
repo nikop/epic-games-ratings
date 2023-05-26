@@ -4,13 +4,13 @@
 Rating: 4.10 (Ranked 861)  
 Number of Ratings: 15,671  (23.09.2022)  
 ## Awards
-Max (Competitive Players): 2,315  (Ranked 96)  
-Sum: 15,289 (Ranked 61)  
+Max (Challenging Combat): 2,316  (Ranked 96)  
+Sum: 15,293 (Ranked 61)  
 Diff (max vs sum): 35  
 | Award | Count |
 | ----- | ----- |
+| This game has Challenging Combat | 2,316 |
 | This game has Competitive Players | 2,315 |
-| This game has Challenging Combat | 2,312 |
 | This game is Highly Recommended | 2,267 |
 | This game has Quickly Understood Controls | 2,239 |
 | This game is Extremely Fun | 2,213 |
@@ -147,4 +147,4 @@ Diff (max vs sum): 35
 | 2023-05-23 | 4.10 | - | 2,308 | 15,228 |
 | 2023-05-24 | 4.10 | - | 2,310 | 15,247 |
 | 2023-05-25 | 4.10 | - | 2,312 | 15,262 |
-| 2023-05-26 | 4.10 | - | 2,315 | 15,289 |
+| 2023-05-26 | 4.10 | - | 2,316 | 15,293 |

@@ -18,14 +18,14 @@
 | The Ploy | 15.00% | ~54 |
 | Interrogation | 13.00% | ~47 |
 | Sabotage | 11.00% | ~40 |
-| Choices Matter | 7.00% | ~25 |
+| Choices Matter | 8.00% | ~29 |
 | The Fool | 6.00% | ~22 |
 | The Lion's Den | 3.00% | ~11 |
 | Proficient Storyteller | 3.00% | ~11 |
 | The Coward | 2.00% | ~7 |
 | Expert Storyteller | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363 (Ranked 207)  
+Progressed: 363 (Ranked 208)  
 Completed: 4 (1.10%) (Ranked 84)  
 ## EOS Players History
 | Date | Progressed | Completed |

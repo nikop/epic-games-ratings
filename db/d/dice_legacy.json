@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 802,
+  "EOS_Progressed": 803,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -468,6 +468,11 @@
       "Time": "2023-05-26T19:05:22.6478062+00:00",
       "NumProgressed": 802,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T21:06:11.5421679+00:00",
+      "NumProgressed": 803,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -741,9 +746,9 @@
       "ID": "UNLOCK_RULERS_BASEGAME",
       "SetID": "6ohhfoc",
       "Name": "The Council",
-      "Percentage": 0.7,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "WINMATCHWITH_CAPTAIN",
@@ -789,9 +794,9 @@
       "ID": "WINMATCHWITH_SCIENTIST",
       "SetID": "6ohhfoc",
       "Name": "The Mad",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "WINMATCH_DIFF_EXTREME",
@@ -838,7 +843,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 802,
+      "Progressed": 803,
       "Completed": 0
     }
   ],
@@ -846,8 +851,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-03-31T05:57:30.891724+00:00",
-  "LastChanged_Achievements": "2023-05-26T20:08:29.8750469+00:00",
+  "LastChanged_Achievements": "2023-05-26T21:06:11.5421671+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:32.4958326+00:00",
-  "LastUpdate_Ratings": "2023-05-26T20:00:38.2792392+00:00",
-  "LastUpdate_Achievements": "2023-05-26T20:08:29.875083+00:00"
+  "LastUpdate_Ratings": "2023-05-26T20:57:45.8888804+00:00",
+  "LastUpdate_Achievements": "2023-05-26T21:06:11.5422009+00:00"
 }

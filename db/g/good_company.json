@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4848,
+  "EOS_Progressed": 4850,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
@@ -1004,6 +1004,11 @@
       "Time": "2023-05-26T20:08:51.1499418+00:00",
       "NumProgressed": 4848,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-26T21:06:36.5110746+00:00",
+      "NumProgressed": 4850,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -1047,7 +1052,7 @@
       "Name": "Campaign: Lesson Learned",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ach_campaign_chapter2",
@@ -1103,7 +1108,7 @@
       "Name": "Level: Extra Life",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ach_campaign_progress3",
@@ -1111,7 +1116,7 @@
       "Name": "Level: Bet On Bots",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ach_campaign_progress4",
@@ -1263,7 +1268,7 @@
       "Name": "Rising Markets: Avoiding the Reds",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ach_campaign_special5",
@@ -1383,7 +1388,7 @@
       "Name": "Modular Performance",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ach_frp_many_modules3",
@@ -1439,7 +1444,7 @@
       "Name": "Data Churn Type I",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ach_frp_researchdata2",
@@ -1581,9 +1586,9 @@
       "ID": "ach_prof_products_sold",
       "SetID": "8cb3id7",
       "Name": "Tycoon",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 44
     },
     {
       "ID": "ach_prof_success",
@@ -1622,15 +1627,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4848,
+      "Progressed": 4850,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-05-26T20:08:51.1499414+00:00",
+  "LastChanged_Achievements": "2023-05-26T21:06:36.5110734+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:34.5581107+00:00",
-  "LastUpdate_Ratings": "2023-05-26T20:01:46.394774+00:00",
-  "LastUpdate_Achievements": "2023-05-26T20:08:51.1500251+00:00"
+  "LastUpdate_Ratings": "2023-05-26T20:59:14.9207289+00:00",
+  "LastUpdate_Achievements": "2023-05-26T21:06:36.5111578+00:00"
 }

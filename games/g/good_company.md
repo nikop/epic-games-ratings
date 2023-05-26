@@ -11,9 +11,9 @@ Number of Ratings: 75  (23.09.2022)
 | Level: Charlie's Circuits | 22.00% | ~1,067 |
 | Level: Rising Markets | 9.00% | ~436 |
 | Peddler | 8.00% | ~388 |
-| Level: Extra Life | 7.00% | ~339 |
-| Rising Markets: Avoiding the Reds | 7.00% | ~339 |
-| Data Churn Type I | 7.00% | ~339 |
+| Level: Extra Life | 7.00% | ~340 |
+| Rising Markets: Avoiding the Reds | 7.00% | ~340 |
+| Data Churn Type I | 7.00% | ~340 |
 | Millionaire | 6.00% | ~291 |
 | Data Churn Type II | 5.00% | ~242 |
 | Speedy | 5.00% | ~242 |
@@ -21,9 +21,9 @@ Number of Ratings: 75  (23.09.2022)
 | High Five! | 4.00% | ~194 |
 | Modular Progress | 4.00% | ~194 |
 | Salesperson | 4.00% | ~194 |
-| Campaign: Lesson Learned | 3.00% | ~145 |
-| Level: Bet On Bots | 3.00% | ~145 |
-| Modular Performance | 3.00% | ~145 |
+| Campaign: Lesson Learned | 3.00% | ~146 |
+| Level: Bet On Bots | 3.00% | ~146 |
+| Modular Performance | 3.00% | ~146 |
 | Level: Merry-Go-Around | 2.00% | ~97 |
 | Charlies's Circuits: Artist | 2.00% | ~97 |
 | Modular Peak | 2.00% | ~97 |
@@ -43,8 +43,8 @@ Number of Ratings: 75  (23.09.2022)
 | Data Churn Type IV | 1.00% | ~48 |
 | Keen Eye | 1.00% | ~48 |
 | Level: Topple The Top | 0.90% | ~44 |
+| Tycoon | 0.90% | ~44 |
 | Bet On Bots: Safety First | 0.80% | ~39 |
-| Tycoon | 0.80% | ~39 |
 | Level: Eye In The Sky | 0.60% | ~29 |
 | Merry-Go-Around: Self-Made | 0.60% | ~29 |
 | Bet On Bots: Inspector's Favorite | 0.60% | ~29 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~5 |
 | Prestigious | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,848 (Ranked 126)  
+Progressed: 4,850 (Ranked 126)  
 Completed: 1 (0.02%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 1 (0.02%) (Ranked 189)
 | 2023-05-23 | 4,821 | 1 |
 | 2023-05-24 | 4,828 | 1 |
 | 2023-05-25 | 4,835 | 1 |
-| 2023-05-26 | 4,848 | 1 |
+| 2023-05-26 | 4,850 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

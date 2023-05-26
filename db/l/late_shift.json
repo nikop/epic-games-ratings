@@ -2,7 +2,7 @@
   "ID": "537156dc975644649b905ec6e958506e",
   "Name": "Late Shift",
   "ProductSlug": "late-shift-8b0634",
-  "Ranking_EOS_Progress": 207,
+  "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 84,
   "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 88,
@@ -219,9 +219,9 @@
       "ID": "CHOICES_MATTER",
       "SetID": "8eejhlh",
       "Name": "Choices Matter",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 29
     },
     {
       "ID": "ENDING_1",
@@ -380,8 +380,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-05-26T20:08:23.7907606+00:00",
+  "LastChanged_Achievements": "2023-05-26T21:06:04.2883721+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:33.6405969+00:00",
-  "LastUpdate_Ratings": "2023-05-26T20:00:39.3718136+00:00",
-  "LastUpdate_Achievements": "2023-05-26T20:08:23.790774+00:00"
+  "LastUpdate_Ratings": "2023-05-26T20:57:47.7416941+00:00",
+  "LastUpdate_Achievements": "2023-05-26T21:06:04.2883881+00:00"
 }

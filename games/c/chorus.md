@@ -33,8 +33,8 @@ Number of Ratings: 58  (23.09.2022)
 | The Crimson Void | 35.00% | ~311 |
 | The Nameless Dread | 34.00% | ~302 |
 | Time to Spear | 31.00% | ~275 |
+| Mastery of Weapons | 30.00% | ~266 |
 | Disciple | 30.00% | ~266 |
-| Mastery of Weapons | 29.00% | ~258 |
 | Two Birds | 26.00% | ~231 |
 | Ghosts | 25.00% | ~222 |
 | Uneasy Alliance | 24.00% | ~213 |
@@ -47,7 +47,7 @@ Number of Ratings: 58  (23.09.2022)
 | Rise as One | 18.00% | ~160 |
 | Showoff | 15.00% | ~133 |
 | Overcharged | 10.00% | ~89 |
-| Radiation Area | 9.00% | ~80 |
+| Radiation Area | 10.00% | ~89 |
 | At Least You Tried | 2.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 888 (Ranked 174)  

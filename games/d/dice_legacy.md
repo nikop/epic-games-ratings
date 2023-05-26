@@ -25,8 +25,8 @@ Rating: 4.29 (Ranked 766)
 | The great fire | 1.00% | ~8 |
 | The Greedy Ones | 1.00% | ~8 |
 | The Unruly Ones | 1.00% | ~8 |
-| The Council | 0.70% | ~6 |
-| The Mad | 0.60% | ~5 |
+| The Council | 0.90% | ~7 |
+| The Mad | 0.70% | ~6 |
 | Like the dream | 0.50% | ~4 |
 | The Great Winter | 0.20% | ~2 |
 | Red Tape | 0.20% | ~2 |
@@ -51,7 +51,7 @@ Rating: 4.29 (Ranked 766)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 802 (Ranked 179)  
+Progressed: 803 (Ranked 179)  
 Completed: 0 (0.00%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 204)
 | 2023-05-23 | 784 | 0 |
 | 2023-05-24 | 789 | 0 |
 | 2023-05-25 | 797 | 0 |
-| 2023-05-26 | 802 | 0 |
+| 2023-05-26 | 803 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -340,9 +340,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 829,
+  "EOS_Progressed": 831,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -775,6 +775,11 @@
       "Time": "2023-05-26T17:06:02.4075737+00:00",
       "NumProgressed": 829,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T21:06:35.9267758+00:00",
+      "NumProgressed": 831,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -842,7 +847,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 821
+      "UsersEstimate": 823
     },
     {
       "ID": "EXPERT_1",
@@ -858,7 +863,7 @@
       "Name": "Explorer",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "GHOSTBUSTER",
@@ -936,9 +941,9 @@
       "ID": "ONE_HIT_WONDER_1",
       "SetID": "bf13m8j",
       "Name": "One HIT wonder",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 274
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -946,7 +951,7 @@
       "Name": "One shot, one kill",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "PACIFIST",
@@ -968,9 +973,9 @@
       "ID": "PRIVATE_EYE",
       "SetID": "bf13m8j",
       "Name": "Not-so-private Eye",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 66
     },
     {
       "ID": "PROTECTION_RACKET",
@@ -1018,7 +1023,7 @@
       "Name": "Secret room",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "SHOG",
@@ -1042,15 +1047,15 @@
       "Name": "Traveler",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "VVE",
       "SetID": "bf13m8j",
       "Name": "The Vitinsky Rifle",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 50
     },
     {
       "ID": "WANDERER_1",
@@ -1058,7 +1063,7 @@
       "Name": "Wanderer",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "WISHMASTER_1",
@@ -1073,15 +1078,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 829,
+      "Progressed": 831,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-05-09T03:01:00.2336224+00:00",
-  "LastChanged_Achievements": "2023-05-26T20:08:50.7223063+00:00",
+  "LastChanged_Achievements": "2023-05-26T21:06:35.9267748+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:31.6195303+00:00",
-  "LastUpdate_Ratings": "2023-05-26T20:02:55.961596+00:00",
-  "LastUpdate_Achievements": "2023-05-26T20:08:50.722334+00:00"
+  "LastUpdate_Ratings": "2023-05-26T21:00:42.1491553+00:00",
+  "LastUpdate_Achievements": "2023-05-26T21:06:35.9267995+00:00"
 }

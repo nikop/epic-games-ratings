@@ -538,9 +538,9 @@
       "Count": 209
     }
   ],
-  "EOS_Progressed": 459049,
+  "EOS_Progressed": 459050,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 583,
+  "EOS_NewPlayers": 579,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3958,6 +3958,11 @@
       "Time": "2023-05-26T20:08:52.8007939+00:00",
       "NumProgressed": 459049,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-05-26T21:06:38.2417289+00:00",
+      "NumProgressed": 459050,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 79,
@@ -4567,17 +4572,17 @@
       "ID": "achievement_win_all_chapers_with_pragmah_easy_normal",
       "SetID": "7plcbc4",
       "Name": "Kronos Mastery",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_win_all_chapers_with_pragmah_hard",
       "SetID": "7plcbc4",
       "Name": "Kronos Supremacy",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_win_run_with_phalanx",
@@ -4600,21 +4605,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 2983,
+      "Progressed": 2984,
       "Completed": 2346
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 459049,
+      "Progressed": 459050,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-04-18T05:57:41.4584941+00:00",
-  "LastChanged_Achievements": "2023-05-26T20:08:52.8007933+00:00",
+  "LastChanged_Achievements": "2023-05-26T21:06:38.241728+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:47.654546+00:00",
-  "LastUpdate_Ratings": "2023-05-26T20:02:05.4785306+00:00",
-  "LastUpdate_Achievements": "2023-05-26T20:08:52.8008957+00:00"
+  "LastUpdate_Ratings": "2023-05-26T20:59:32.8050474+00:00",
+  "LastUpdate_Achievements": "2023-05-26T21:06:38.2418855+00:00"
 }

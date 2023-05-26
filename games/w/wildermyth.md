@@ -6,11 +6,11 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Cost of Heroism | 32.00% | ~387 |
+| The Cost of Heroism | 32.00% | ~388 |
 | Me and My Familiar | 30.00% | ~363 |
-| This Too Shall Pass | 25.00% | ~302 |
-| Passing Shadow | 24.00% | ~290 |
-| Cutthroat Competitors | 24.00% | ~290 |
+| This Too Shall Pass | 25.00% | ~303 |
+| Passing Shadow | 24.00% | ~291 |
+| Cutthroat Competitors | 24.00% | ~291 |
 | How Romantic! | 22.00% | ~266 |
 | Daybreak | 22.00% | ~266 |
 | Gotta Ca... Must Collect All of Them | 20.00% | ~242 |
@@ -19,15 +19,15 @@ Number of Ratings: 45  (23.09.2022)
 | War Endured | 11.00% | ~133 |
 | Core Failure | 11.00% | ~133 |
 | A Mythic Menagerie | 10.00% | ~121 |
-| Pyrrhic Victory | 8.00% | ~97 |
+| Pyrrhic Victory | 9.00% | ~109 |
 | Thematic Divergence | 7.00% | ~85 |
 | Chain Reaction | 7.00% | ~85 |
 | Echoes Die | 7.00% | ~85 |
 | Everfading | 6.00% | ~73 |
 | Another Tale to Tell | 6.00% | ~73 |
 | A Story of Heroes | 6.00% | ~73 |
-| Let Me Get My Chisel | 5.00% | ~60 |
-| Plague Doctor | 5.00% | ~60 |
+| Let Me Get My Chisel | 5.00% | ~61 |
+| Plague Doctor | 5.00% | ~61 |
 | Worldwalker | 4.00% | ~48 |
 | Legends Never Die | 4.00% | ~48 |
 | In Soil, In Smoke | 4.00% | ~48 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Overwhelming Monstrosity | 0.40% | ~5 |
 | Peacemaker | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,210 (Ranked 160)  
+Progressed: 1,211 (Ranked 160)  
 Completed: 3 (0.25%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 3 (0.25%) (Ranked 134)
 | 2023-05-23 | 1,201 | 3 |
 | 2023-05-24 | 1,202 | 3 |
 | 2023-05-25 | 1,205 | 3 |
-| 2023-05-26 | 1,210 | 3 |
+| 2023-05-26 | 1,211 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 455)  
 Sum: 27 (Ranked 464)  

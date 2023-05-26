@@ -2,9 +2,9 @@
   "ID": "234c754eae5e42d1b5379daee1c313f1",
   "Name": "GPRO - Classic racing manager",
   "ProductSlug": "classic-racing-manager-679706",
-  "Ranking_EOS_Progress": 268,
+  "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 88,
+  "EOS_Progressed": 102,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -221,6 +221,11 @@
       "Time": "2023-05-26T12:03:41.9171974+00:00",
       "NumProgressed": 88,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T21:04:28.408916+00:00",
+      "NumProgressed": 102,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -230,7 +235,7 @@
       "ID": "ACHIEVEMENT_1",
       "SetID": "76k7b7p",
       "Name": "First taste",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -294,9 +299,9 @@
       "ID": "ACHIEVEMENT_13",
       "SetID": "76k7b7p",
       "Name": "Newbie",
-      "Percentage": 73,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 76
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -366,7 +371,7 @@
       "ID": "ACHIEVEMENT_188",
       "SetID": "76k7b7p",
       "Name": "Amateur hitchhiker",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -382,7 +387,7 @@
       "ID": "ACHIEVEMENT_19",
       "SetID": "76k7b7p",
       "Name": "Wannabe",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -472,7 +477,7 @@
       "Name": "Better than cake",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACHIEVEMENT_203",
@@ -734,7 +739,7 @@
       "ID": "ACHIEVEMENT_25",
       "SetID": "76k7b7p",
       "Name": "No brakes",
-      "Percentage": 14,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -1352,7 +1357,7 @@
       "Name": "Photo shoot",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHIEVEMENT_76",
@@ -1527,14 +1532,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 88,
+      "Progressed": 102,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-05-26T20:07:04.1307933+00:00",
+  "LastChanged_Achievements": "2023-05-26T21:04:28.4089153+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:05.1482704+00:00",
-  "LastUpdate_Ratings": "2023-05-26T20:00:06.9660307+00:00",
-  "LastUpdate_Achievements": "2023-05-26T20:07:04.1311365+00:00"
+  "LastUpdate_Ratings": "2023-05-26T20:57:07.5068113+00:00",
+  "LastUpdate_Achievements": "2023-05-26T21:04:28.4092532+00:00"
 }

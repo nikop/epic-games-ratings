@@ -37,10 +37,10 @@ Rating: 4.56 (Ranked 451)
 | Delivery! | 0.70% | ~15 |
 | Pulsar Disciple | 0.70% | ~15 |
 | ...  in a finite world | 0.60% | ~13 |
+| Praise the Hull! | 0.60% | ~13 |
 | Pedal to the Metal | 0.60% | ~13 |
 | What the Ruins Teach Us | 0.60% | ~13 |
 | Sustainable Energy | 0.50% | ~11 |
-| Praise the Hull! | 0.50% | ~11 |
 | You Had One Job... | 0.50% | ~11 |
 | Space Greenhouse | 0.50% | ~11 |
 | Help of the Forgotten Member | 0.40% | ~9 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 451)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,176 (Ranked 144)  
+Progressed: 2,178 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 0 (0.00%) (Ranked 204)
 | 2023-05-23 | 2,115 | 0 |
 | 2023-05-24 | 2,134 | 0 |
 | 2023-05-25 | 2,154 | 0 |
-| 2023-05-26 | 2,176 | 0 |
+| 2023-05-26 | 2,178 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

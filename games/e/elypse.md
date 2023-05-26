@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A path of no return | 102.00% | ~48 |
-| A bottomless pit | 83.00% | ~39 |
-| Pigeon | 81.00% | ~38 |
+| A bottomless pit | 85.00% | ~40 |
+| Pigeon | 83.00% | ~39 |
 | Baited | 68.00% | ~32 |
 | "Swoosh" | 57.00% | ~27 |
 | The light at the end of the tunnel | 57.00% | ~27 |

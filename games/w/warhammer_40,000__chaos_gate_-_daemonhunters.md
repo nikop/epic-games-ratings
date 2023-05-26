@@ -6,27 +6,27 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 32.00% | ~852 |
-| Look Over There! | 28.00% | ~746 |
-| Watch Where You Step... | 28.00% | ~746 |
-| Not So Fast... | 27.00% | ~719 |
+| Executioner | 32.00% | ~853 |
+| Look Over There! | 28.00% | ~747 |
+| Watch Where You Step... | 28.00% | ~747 |
+| Not So Fast... | 27.00% | ~720 |
 | An Ill Omen | 26.00% | ~693 |
-| Purging Spree | 21.00% | ~559 |
-| Blood for the Blood God! | 16.00% | ~426 |
-| Friendly Fire | 16.00% | ~426 |
+| Purging Spree | 21.00% | ~560 |
+| Blood for the Blood God! | 16.00% | ~427 |
+| Friendly Fire | 16.00% | ~427 |
 | Surgical Excision | 14.00% | ~373 |
 | Bloodless | 14.00% | ~373 |
 | Honoured Battle-Brother | 11.00% | ~293 |
 | The Emperor Protects | 11.00% | ~293 |
-| Nemesis Master | 10.00% | ~266 |
-| Gunmaster | 10.00% | ~266 |
-| A Foul Creche | 10.00% | ~266 |
-| Opportunist | 7.00% | ~186 |
-| Efficient Killer | 7.00% | ~186 |
-| Just a Scratch | 7.00% | ~186 |
+| Nemesis Master | 10.00% | ~267 |
+| Gunmaster | 10.00% | ~267 |
+| A Foul Creche | 10.00% | ~267 |
+| Opportunist | 7.00% | ~187 |
+| Efficient Killer | 7.00% | ~187 |
+| Just a Scratch | 7.00% | ~187 |
 | Hold Your Ground | 6.00% | ~160 |
-| A Gift Spurned | 5.00% | ~133 |
 | Daemonkeeper | 4.00% | ~107 |
+| A Gift Spurned | 4.00% | ~107 |
 | Long Distance Call | 4.00% | ~107 |
 | Corruption Cleanser | 3.00% | ~80 |
 | Mind Like a Fortress | 3.00% | ~80 |
@@ -55,18 +55,18 @@ Number of Ratings: 371  (23.09.2022)
 | Crisis Management | 0.20% | ~5 |
 | Grand Master | 0.20% | ~5 |
 | Brothers in Arms | 0.20% | ~5 |
-| Phalanx | 0.20% | ~5 |
 | Arsenal of Destruction | 0.10% | ~3 |
 | Dominus | 0.10% | ~3 |
 | Drone Army | 0.10% | ~3 |
 | Mass Extinction | 0.10% | ~3 |
 | Master of the Forge | 0.10% | ~3 |
 | Field Apothecarion | 0.10% | ~3 |
+| Phalanx | 0.10% | ~3 |
 | Not a Mote of Corruption | 0.10% | ~3 |
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,664 (Ranked 138)  
+Progressed: 2,667 (Ranked 138)  
 Completed: 0 (0.00%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 0 (0.00%) (Ranked 204)
 | 2023-05-23 | 2,622 | 0 |
 | 2023-05-24 | 2,624 | 0 |
 | 2023-05-25 | 2,632 | 0 |
-| 2023-05-26 | 2,664 | 0 |
+| 2023-05-26 | 2,667 | 0 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 419 (Ranked 298)  

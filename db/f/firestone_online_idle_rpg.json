@@ -2734,9 +2734,9 @@
       "ID": "trainingmakesaproplayer",
       "SetID": "3nl4bcg",
       "Name": "Training makes a Pro player",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "transmute",
@@ -2815,8 +2815,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-23T21:58:11.918076+00:00",
-  "LastChanged_Achievements": "2023-05-26T20:08:42.589831+00:00",
+  "LastChanged_Achievements": "2023-05-26T21:06:26.3623602+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-05-26T20:00:53.1821025+00:00",
-  "LastUpdate_Achievements": "2023-05-26T20:08:42.5899215+00:00"
+  "LastUpdate_Ratings": "2023-05-26T20:58:10.0762256+00:00",
+  "LastUpdate_Achievements": "2023-05-26T21:06:26.3624472+00:00"
 }

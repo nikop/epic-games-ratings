@@ -6,22 +6,22 @@ Rating: 4.18 (Ranked 831)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Flesh Wound | 7.00% | ~960 |
-| Giving Back | 5.00% | ~685 |
-| Chew 'Em Up | 5.00% | ~685 |
-| The Outer Way | 5.00% | ~685 |
-| Desperate Times | 4.00% | ~548 |
-| Instigator | 4.00% | ~65 |
-| Big Game Hunter | 4.00% | ~65 |
+| Giving Back | 5.00% | ~686 |
+| Chew 'Em Up | 5.00% | ~686 |
+| The Outer Way | 5.00% | ~686 |
+| Desperate Times | 4.00% | ~549 |
+| Instigator | 4.00% | ~66 |
+| Big Game Hunter | 4.00% | ~66 |
 | Workplace Hazard | 3.00% | ~411 |
 | Float Like A Butterfly | 3.00% | ~411 |
 | Reforged | 3.00% | ~411 |
 | Paper Jams | 3.00% | ~411 |
+| If the SHU Fits... | 3.00% | ~411 |
 | Bear Trap | 3.00% | ~49 |
 | Get a Grip | 2.00% | ~274 |
 | Terminated | 2.00% | ~274 |
 | The Commonality | 2.00% | ~274 |
 | Mugshot | 2.00% | ~274 |
-| If the SHU Fits... | 2.00% | ~274 |
 | Without A Paddle | 2.00% | ~274 |
 | Big Spender | 2.00% | ~33 |
 | Parole Denied | 1.00% | ~16 |
@@ -37,7 +37,7 @@ Rating: 4.18 (Ranked 831)
 | Recidivist | 0.70% | ~11 |
 | Lifer | 0.70% | ~11 |
 | I Do Belong Here | 0.60% | ~82 |
-| Grim Reaper | 0.40% | ~55 |
+| Grim Reaper | 0.30% | ~41 |
 | It's over, Jacob! | 0.10% | ~14 |
 | Armed to the Teeth | 0.10% | ~2 |
 | Glutton for Punishment | 0.10% | ~2 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 831)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,708 (Ranked 102)  
+Progressed: 13,715 (Ranked 102)  
 Completed: 53 (0.39%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 53 (0.39%) (Ranked 113)
 | 2023-05-23 | 13,444 | 52 |
 | 2023-05-24 | 13,523 | 52 |
 | 2023-05-25 | 13,610 | 52 |
-| 2023-05-26 | 13,708 | 53 |
+| 2023-05-26 | 13,715 | 53 |
 ## Awards
 Max (Highly Recommended): 46  (Ranked 398)  
 Sum: 267 (Ranked 335)  

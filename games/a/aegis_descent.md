@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sweep | 94.00% | ~341 |
-| Scavenger | 75.00% | ~272 |
-| Line of Duty | 72.00% | ~261 |
+| Clean Sweep | 94.00% | ~342 |
+| Scavenger | 75.00% | ~273 |
+| Line of Duty | 72.00% | ~262 |
 | Gunner | 55.00% | ~200 |
 | DocKing | 46.00% | ~167 |
-| What-A-Shot | 43.00% | ~156 |
+| What-A-Shot | 43.00% | ~157 |
 | Batteries Included | 38.00% | ~138 |
-| Death from Above | 37.00% | ~134 |
-| Hull King | 26.00% | ~94 |
+| Death from Above | 37.00% | ~135 |
+| Hull King | 26.00% | ~95 |
 | Boss Down | 20.00% | ~73 |
 | Extra Ammo | 20.00% | ~73 |
 | Hazardous Duty | 17.00% | ~62 |
 | Splash Damage | 17.00% | ~62 |
-| Perky | 15.00% | ~54 |
+| Perky | 15.00% | ~55 |
 | Salvage | 11.00% | ~40 |
 | Perfect Timing | 10.00% | ~36 |
 | Perk King | 10.00% | ~36 |
@@ -43,14 +43,14 @@
 | Demolition Derby | 0.80% | ~3 |
 | Military Intelligence | 0.80% | ~3 |
 | Time Run | 0.80% | ~3 |
-| Halfway There | 0.60% | ~2 |
-| Intel King | 0.60% | ~2 |
+| Halfway There | 0.50% | ~2 |
+| Intel King | 0.50% | ~2 |
 | Big Spender | 0.30% | ~1 |
 | Burn Them | 0.30% | ~1 |
 | Final Ascension | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363 (Ranked 207)  
-Completed: 1 (0.28%) (Ranked 130)  
+Progressed: 364 (Ranked 207)  
+Completed: 1 (0.27%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -63,6 +63,7 @@ Completed: 1 (0.28%) (Ranked 130)
 | 2023-05-21 | 360 | 1 |
 | 2023-05-22 | 361 | 1 |
 | 2023-05-24 | 363 | 1 |
+| 2023-05-26 | 364 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,12 +2,12 @@
   "ID": "096d7313d4ae432f9327081a45db439d",
   "Name": "Titan Quest Anniversary Edition",
   "ProductSlug": "titan-quest",
-  "Ranking_Rating": 236,
+  "Ranking_Rating": 256,
   "Ranking_Popularity": 344,
   "Ranking_PopularitySum": 380,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-12-03T18:00:00+00:00",
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.68,
+  "Rating": 4.67,
   "NumberOfRatings": 98,
   "RatingHistory": [
     {
@@ -358,6 +358,12 @@
       "Rating": 4.68,
       "NumberOfAwards": 144,
       "NumberOfAwardsMax": 85
+    },
+    {
+      "Time": "2023-05-26T20:57:54.6021203+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 144,
+      "NumberOfAwardsMax": 85
     }
   ],
   "ReviewsDisabled": false,
@@ -389,8 +395,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:19.7700636+00:00",
-  "LastChanged": "2023-05-22T09:58:05.9550238+00:00",
+  "LastChanged": "2023-05-26T20:57:54.6021165+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.6844271+00:00",
-  "LastUpdate_Ratings": "2023-05-26T20:00:44.4383062+00:00",
-  "LastUpdate_Achievements": "2023-05-26T20:07:16.0042543+00:00"
+  "LastUpdate_Ratings": "2023-05-26T20:57:54.6021207+00:00",
+  "LastUpdate_Achievements": "2023-05-26T21:04:42.7442242+00:00"
 }

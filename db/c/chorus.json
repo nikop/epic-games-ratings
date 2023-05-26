@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 458,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -660,9 +660,9 @@
       "ID": "MasteryOfWeapons",
       "SetID": "a6c395p",
       "Name": "Mastery of Weapons",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 258
+      "UsersEstimate": 266
     },
     {
       "ID": "MissionActivateDish",
@@ -852,9 +852,9 @@
       "ID": "RadiationCloud",
       "SetID": "a6c395p",
       "Name": "Radiation Area",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 89
     },
     {
       "ID": "RiteOfControl",
@@ -924,8 +924,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-05-26T20:08:55.7815406+00:00",
+  "LastChanged_Achievements": "2023-05-26T21:06:41.6935984+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:25.4358985+00:00",
-  "LastUpdate_Ratings": "2023-05-26T20:02:47.0571512+00:00",
-  "LastUpdate_Achievements": "2023-05-26T20:08:55.7815726+00:00"
+  "LastUpdate_Ratings": "2023-05-26T21:00:32.3682153+00:00",
+  "LastUpdate_Achievements": "2023-05-26T21:06:41.693686+00:00"
 }

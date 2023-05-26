@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 106,
+  "EOS_Progressed": 107,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -178,6 +178,11 @@
       "Time": "2023-05-26T18:05:50.6585569+00:00",
       "NumProgressed": 106,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T21:06:08.4304125+00:00",
+      "NumProgressed": 107,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -189,7 +194,7 @@
       "Name": "Wake Up",
       "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_ACT10",
@@ -235,9 +240,9 @@
       "ID": "ACH_ACT15",
       "SetID": "2310cb1",
       "Name": "Cataclysm",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_ACT16",
@@ -355,9 +360,9 @@
       "ID": "ACH_HANDYMAN",
       "SetID": "2310cb1",
       "Name": "Handyman",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_LOOPER",
@@ -365,7 +370,7 @@
       "Name": "Looper",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_REUINTED",
@@ -381,7 +386,7 @@
       "Name": "It\u0027s Rewind Time",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_SUMMERLOVE",
@@ -404,7 +409,7 @@
     {
       "ID": "2310cb1",
       "IsBase": true,
-      "Progressed": 106,
+      "Progressed": 107,
       "Completed": 0
     }
   ],
@@ -412,8 +417,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-05-26T20:08:27.2784513+00:00",
+  "LastChanged_Achievements": "2023-05-26T21:06:08.4304111+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:17.1371891+00:00",
-  "LastUpdate_Ratings": "2023-05-26T20:00:22.2133875+00:00",
-  "LastUpdate_Achievements": "2023-05-26T20:08:27.2784711+00:00"
+  "LastUpdate_Ratings": "2023-05-26T20:57:24.7074786+00:00",
+  "LastUpdate_Achievements": "2023-05-26T21:06:08.4304322+00:00"
 }

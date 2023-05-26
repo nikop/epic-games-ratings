@@ -428,9 +428,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13708,
+  "EOS_Progressed": 13715,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 897,
+  "EOS_NewPlayers": 895,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1668,6 +1668,11 @@
       "Time": "2023-05-26T20:06:32.5145047+00:00",
       "NumProgressed": 13708,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-26T21:03:40.2665164+00:00",
+      "NumProgressed": 13715,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -1695,7 +1700,7 @@
       "Name": "Giving Back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -1717,9 +1722,9 @@
       "ID": "FIND_ALL_BIOS",
       "SetID": "4hj6d86",
       "Name": "Grim Reaper",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 55
+      "UsersEstimate": 41
     },
     {
       "ID": "FINISH_CONTAGION",
@@ -1807,7 +1812,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "KILL_ROBOT",
@@ -1871,15 +1876,15 @@
       "Name": "The Outer Way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "STORY_ESCAPE",
       "SetID": "4hj6d86",
       "Name": "If the SHU Fits...",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 411
     },
     {
       "ID": "STORY_HABITAT",
@@ -1911,7 +1916,7 @@
       "Name": "Desperate Times",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -1951,7 +1956,7 @@
       "Name": "Instigator",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -1959,7 +1964,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "KILL_2HEAD_HAZARD",
@@ -1998,13 +2003,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13708,
+      "Progressed": 13715,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1634,
+      "Progressed": 1641,
       "Completed": 29
     }
   ],
@@ -2012,8 +2017,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-23T19:57:59.4143533+00:00",
-  "LastChanged_Achievements": "2023-05-26T20:06:32.5145041+00:00",
+  "LastChanged_Achievements": "2023-05-26T21:03:40.2665155+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-26T20:00:44.5573495+00:00",
-  "LastUpdate_Achievements": "2023-05-26T20:06:32.5145424+00:00"
+  "LastUpdate_Ratings": "2023-05-26T20:57:54.7601137+00:00",
+  "LastUpdate_Achievements": "2023-05-26T21:03:40.266556+00:00"
 }

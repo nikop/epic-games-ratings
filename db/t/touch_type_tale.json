@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2783,
+  "EOS_Progressed": 2784,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1354,6 +1354,11 @@
       "Time": "2023-05-26T20:08:54.2130336+00:00",
       "NumProgressed": 2783,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-26T21:06:39.7840002+00:00",
+      "NumProgressed": 2784,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1389,7 +1394,7 @@
       "Name": "Work It",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "bonus5",
@@ -1413,7 +1418,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2505
+      "UsersEstimate": 2506
     },
     {
       "ID": "campaign10",
@@ -1477,7 +1482,7 @@
       "Name": "The Handyman Can!",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "campaign18",
@@ -1501,7 +1506,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2226
+      "UsersEstimate": 2227
     },
     {
       "ID": "campaign20",
@@ -1517,7 +1522,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "campaign4",
@@ -1541,7 +1546,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "campaign7",
@@ -1549,7 +1554,7 @@
       "Name": "Maestro",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "campaign8",
@@ -1621,14 +1626,14 @@
       "Name": "A Brief Moment of Respite",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     }
   ],
   "AchievementSets": [
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2783,
+      "Progressed": 2784,
       "Completed": 9
     }
   ],
@@ -1636,8 +1641,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-26T20:08:54.2130329+00:00",
+  "LastChanged_Achievements": "2023-05-26T21:06:39.7839994+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:35.4128368+00:00",
-  "LastUpdate_Ratings": "2023-05-26T20:02:59.5685188+00:00",
-  "LastUpdate_Achievements": "2023-05-26T20:08:54.2130637+00:00"
+  "LastUpdate_Ratings": "2023-05-26T21:00:47.0625325+00:00",
+  "LastUpdate_Achievements": "2023-05-26T21:06:39.7840311+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Aegis Descent",
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 207,
-  "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_Completed": 131,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 363,
+  "EOS_Progressed": 364,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.28,
+  "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:10.7474299+00:00",
@@ -112,6 +112,11 @@
       "Time": "2023-05-24T21:05:55.7796377+00:00",
       "NumProgressed": 363,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-26T21:06:15.101958+00:00",
+      "NumProgressed": 364,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -163,7 +168,7 @@
       "Name": "Clean Sweep",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -171,7 +176,7 @@
       "Name": "Death from Above",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "Award_DemolitionDerby",
@@ -241,7 +246,7 @@
       "ID": "Award_HalfwayThere",
       "SetID": "9ojec6n",
       "Name": "Halfway There",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -275,13 +280,13 @@
       "Name": "Hull King",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "Award_IntelKing",
       "SetID": "9ojec6n",
       "Name": "Intel King",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -299,7 +304,7 @@
       "Name": "Line of Duty",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "Award_MilitaryIntelligence",
@@ -347,7 +352,7 @@
       "Name": "Perky",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Award_PowerUp",
@@ -371,7 +376,7 @@
       "Name": "Scavenger",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "Award_ShellShock",
@@ -467,14 +472,14 @@
       "Name": "What-A-Shot",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     }
   ],
   "AchievementSets": [
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 363,
+      "Progressed": 364,
       "Completed": 1
     }
   ],
@@ -482,8 +487,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-05-26T20:08:32.8368628+00:00",
+  "LastChanged_Achievements": "2023-05-26T21:06:15.101957+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:00.9517737+00:00",
-  "LastUpdate_Ratings": "2023-05-26T20:01:07.7549681+00:00",
-  "LastUpdate_Achievements": "2023-05-26T20:08:32.8368951+00:00"
+  "LastUpdate_Ratings": "2023-05-26T20:58:26.7660237+00:00",
+  "LastUpdate_Achievements": "2023-05-26T21:06:15.1020008+00:00"
 }

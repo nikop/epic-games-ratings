@@ -5,13 +5,13 @@ Rating: 4.15 (Ranked 847)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~4,494 |
-| Disposing of the Evidence | 36.00% | ~1,949 |
-| Without a Scratch | 32.00% | ~1,732 |
+| First Day on the Job | 83.00% | ~4,495 |
+| Disposing of the Evidence | 36.00% | ~1,950 |
+| Without a Scratch | 32.00% | ~1,733 |
 | Wreckless Driving | 27.00% | ~1,462 |
-| A Marked Man | 24.00% | ~1,299 |
-| Street Sweeper | 17.00% | ~920 |
-| Liberty City Minute | 16.00% | ~866 |
+| A Marked Man | 24.00% | ~1,300 |
+| Street Sweeper | 17.00% | ~921 |
+| Liberty City Minute | 16.00% | ~867 |
 | Offshore Delivery | 12.00% | ~650 |
 | Dirty Money | 11.00% | ~596 |
 | By a Mile | 9.00% | ~487 |
@@ -22,11 +22,11 @@ Rating: 4.15 (Ranked 847)
 | Mob Boss | 2.00% | ~108 |
 | Splish Splash | 2.00% | ~108 |
 | Escape Artist | 1.00% | ~54 |
+| Got This Figured Out | 1.00% | ~54 |
 | Come Out to Play-y-y-y | 1.00% | ~54 |
 | Where To? | 1.00% | ~54 |
 | Playing Doctor | 1.00% | ~54 |
 | Liberty City Secrets | 1.00% | ~54 |
-| Got This Figured Out | 0.90% | ~49 |
 | Man Toyz | 0.90% | ~49 |
 | Planned Ahead | 0.80% | ~43 |
 | Wheels Up | 0.80% | ~43 |
@@ -35,7 +35,7 @@ Rating: 4.15 (Ranked 847)
 | Is That All You've Got? | 0.70% | ~38 |
 | King of Liberty City | 0.50% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,414 (Ranked 123)  
+Progressed: 5,416 (Ranked 123)  
 Completed: 26 (0.48%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 26 (0.48%) (Ranked 107)
 | 2023-05-23 | 5,259 | 26 |
 | 2023-05-24 | 5,304 | 26 |
 | 2023-05-25 | 5,358 | 26 |
-| 2023-05-26 | 5,414 | 26 |
+| 2023-05-26 | 5,416 | 26 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

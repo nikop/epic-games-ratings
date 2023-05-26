@@ -365,9 +365,9 @@
       "ID": "Bit Blaster V2",
       "SetID": "1f269fc",
       "Name": "Bit Blaster V2",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Bit Blaster V3",
@@ -428,8 +428,8 @@
   ],
   "FirstSeen": "2023-05-20T01:55:13.7731097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:16.9581391+00:00",
-  "LastChanged_Achievements": "2023-05-26T20:08:23.8417617+00:00",
+  "LastChanged_Achievements": "2023-05-26T21:06:04.3895699+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:33.223313+00:00",
-  "LastUpdate_Ratings": "2023-05-26T20:00:38.9874616+00:00",
-  "LastUpdate_Achievements": "2023-05-26T20:08:23.8417745+00:00"
+  "LastUpdate_Ratings": "2023-05-26T20:57:46.9545812+00:00",
+  "LastUpdate_Achievements": "2023-05-26T21:06:04.3895855+00:00"
 }

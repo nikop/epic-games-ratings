@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 464,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -145,9 +145,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 1210,
+  "EOS_Progressed": 1211,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -605,6 +605,11 @@
       "Time": "2023-05-26T19:05:25.8375681+00:00",
       "NumProgressed": 1210,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-26T21:06:15.1196965+00:00",
+      "NumProgressed": 1211,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -664,7 +669,7 @@
       "Name": "Let Me Get My Chisel",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "achievement_beatGameOnWalkingLunch",
@@ -688,7 +693,7 @@
       "Name": "Passing Shadow",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -768,7 +773,7 @@
       "Name": "Plague Doctor",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "achievement_loseBattle",
@@ -776,7 +781,7 @@
       "Name": "This Too Shall Pass",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "achievement_loversVengeance10Kills",
@@ -792,7 +797,7 @@
       "Name": "The Cost of Heroism",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "achievement_mythwalker",
@@ -808,7 +813,7 @@
       "Name": "Cutthroat Competitors",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "achievement_twoDifferentThemeLimbs",
@@ -830,9 +835,9 @@
       "ID": "achievement_victoryAfterLosingThreeHeroesInBattle",
       "SetID": "95dc8p",
       "Name": "Pyrrhic Victory",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 109
     },
     {
       "ID": "completedStory_cvawn",
@@ -1063,15 +1068,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1210,
+      "Progressed": 1211,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2022-12-16T19:58:42.3078185+00:00",
-  "LastChanged_Achievements": "2023-05-26T20:08:33.0221387+00:00",
+  "LastChanged_Achievements": "2023-05-26T21:06:15.1196953+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:53.2132412+00:00",
-  "LastUpdate_Ratings": "2023-05-26T20:03:21.6542648+00:00",
-  "LastUpdate_Achievements": "2023-05-26T20:08:33.0221874+00:00"
+  "LastUpdate_Ratings": "2023-05-26T21:01:13.9787754+00:00",
+  "LastUpdate_Achievements": "2023-05-26T21:06:15.1197432+00:00"
 }

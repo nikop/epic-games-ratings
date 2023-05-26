@@ -270,9 +270,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 648,
+  "EOS_Progressed": 649,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -510,6 +510,11 @@
       "Time": "2023-05-26T18:03:20.7763809+00:00",
       "NumProgressed": 648,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T21:03:28.6473474+00:00",
+      "NumProgressed": 649,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -521,7 +526,7 @@
       "Name": "Act I Complete",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACH_ACT_2_COMPLETE",
@@ -545,7 +550,7 @@
       "Name": "Always Finding Your Mark",
       "Percentage": 28,
       "XP": 75,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH_A_DROP_IN_THE_OCEAN",
@@ -553,7 +558,7 @@
       "Name": "A drop in the Ocean",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACH_A_SUCCESSFUL_PROCEDURE",
@@ -617,7 +622,7 @@
       "Name": "Critical Thinker",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "ACH_DISAGREE_AND_COMMIT",
@@ -681,7 +686,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -697,7 +702,7 @@
       "Name": "Post No Bills",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -721,7 +726,7 @@
       "Name": "The Weight of the World",
       "Percentage": 28,
       "XP": 75,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "ACH_TRUELY_SHOCKING",
@@ -729,14 +734,14 @@
       "Name": "Truly Shocking!",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 648,
+      "Progressed": 649,
       "Completed": 0
     }
   ],
@@ -744,8 +749,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-05-13T23:57:28.1464548+00:00",
-  "LastChanged_Achievements": "2023-05-26T20:06:22.815714+00:00",
+  "LastChanged_Achievements": "2023-05-26T21:03:28.6473467+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:22.5926021+00:00",
-  "LastUpdate_Ratings": "2023-05-26T20:00:27.4716633+00:00",
-  "LastUpdate_Achievements": "2023-05-26T20:06:22.8157319+00:00"
+  "LastUpdate_Ratings": "2023-05-26T20:57:32.1931273+00:00",
+  "LastUpdate_Achievements": "2023-05-26T21:03:28.6473659+00:00"
 }

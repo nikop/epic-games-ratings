@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 136,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1239,9 +1239,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13475,
+  "EOS_Progressed": 13482,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 811,
+  "EOS_NewPlayers": 814,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -4769,6 +4769,11 @@
       "Time": "2023-05-26T20:08:45.2597385+00:00",
       "NumProgressed": 13475,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-05-26T21:06:29.4060967+00:00",
+      "NumProgressed": 13482,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 22,
@@ -4788,7 +4793,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "1017",
@@ -4796,7 +4801,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "1018",
@@ -4804,7 +4809,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "1019",
@@ -4812,7 +4817,7 @@
       "Name": "Winter is Coming",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "1020",
@@ -4828,7 +4833,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "1022",
@@ -4836,7 +4841,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "1023",
@@ -4852,7 +4857,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "1025",
@@ -4868,7 +4873,7 @@
       "Name": "Oathkeeper",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "1027",
@@ -4884,7 +4889,7 @@
       "Name": "The Kingsroad",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2560
+      "UsersEstimate": 2562
     },
     {
       "ID": "1029",
@@ -4900,7 +4905,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2695
+      "UsersEstimate": 2696
     },
     {
       "ID": "1031",
@@ -4916,7 +4921,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 5390
+      "UsersEstimate": 5393
     },
     {
       "ID": "1033",
@@ -4932,7 +4937,7 @@
       "Name": "Influential",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "1035",
@@ -4948,22 +4953,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 13475,
+      "Progressed": 13482,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-05-07T09:02:24.8496722+00:00",
-  "LastChanged_Achievements": "2023-05-26T20:08:45.259738+00:00",
+  "LastChanged_Achievements": "2023-05-26T21:06:29.406096+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:34.7168998+00:00",
-  "LastUpdate_Ratings": "2023-05-26T20:02:58.9720438+00:00",
-  "LastUpdate_Achievements": "2023-05-26T20:08:45.259773+00:00"
+  "LastUpdate_Ratings": "2023-05-26T21:00:46.3028559+00:00",
+  "LastUpdate_Achievements": "2023-05-26T21:06:29.4061311+00:00"
 }

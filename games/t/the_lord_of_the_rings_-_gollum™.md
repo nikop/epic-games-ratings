@@ -4,25 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Wraith | 57.00% | ~135 |
-| Welcome to Mordor! | 44.00% | ~104 |
-| Collectibles Part 1 | 40.00% | ~95 |
-| Memories | 27.00% | ~64 |
-| Wait! Wait! Not yet! | 26.00% | ~62 |
+| The Wraith | 58.00% | ~139 |
+| Welcome to Mordor! | 44.00% | ~105 |
+| Collectibles Part 1 | 42.00% | ~100 |
+| Wait! Wait! Not yet! | 27.00% | ~65 |
+| Memories | 27.00% | ~65 |
 | Like Flying... | 21.00% | ~50 |
-| The Maggot | 12.00% | ~28 |
-| The Breeder | 6.00% | ~14 |
-| The Veteran | 4.00% | ~9 |
-| The Traitor | 2.00% | ~5 |
+| The Maggot | 12.00% | ~29 |
+| The Breeder | 7.00% | ~17 |
+| The Veteran | 5.00% | ~12 |
+| The Traitor | 3.00% | ~7 |
+| The Spider | 2.00% | ~5 |
 | Murderer | 1.00% | ~2 |
 | Trigger-Happy | 1.00% | ~2 |
-| The Spider | 0.80% | ~2 |
-| He's so Annoying | 0.40% | ~1 |
+| He's so Annoying | 0.80% | ~2 |
 | Break a Leg! | 0.40% | ~1 |
 | And now we wish... | 0.40% | ~1 |
 | Good as Fish | 0.40% | ~1 |
 | Master of the Old Game | 0.40% | ~1 |
 | Made a Song | 0.40% | ~1 |
+| Ss ss ss... | 0.40% | ~1 |
 | So Tasty! | 0.40% | ~1 |
 | The Friend | 0.00% | ~0 |
 | Her Eyes | 0.00% | ~0 |
@@ -39,9 +40,8 @@
 | So Silly! | 0.00% | ~0 |
 | Scout | 0.00% | ~0 |
 | Good Sméagol! | 0.00% | ~0 |
-| Ss ss ss... | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237 (Ranked 228)  
+Progressed: 239 (Ranked 228)  
 Completed: 0 (0.00%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,4 +50,4 @@ Completed: 0 (0.00%) (Ranked 204)
 | 2023-05-23 | 4 | 0 |
 | 2023-05-24 | 5 | 0 |
 | 2023-05-25 | 133 | 0 |
-| 2023-05-26 | 237 | 0 |
+| 2023-05-26 | 239 | 0 |

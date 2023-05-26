@@ -12,38 +12,38 @@ Number of Ratings: 9,492  (23.09.2022)
 | Qi Gong: Breath | 1.00% | ~7,055 |
 | Bloody Sport | 1.00% | ~148 |
 | The best strikes are the ones we avoid | 1.00% | ~148 |
-| The Old Grandmaster | 0.90% | ~6,349 |
-| The Assault | 0.90% | ~6,349 |
-| A Lady's Blood in the Snow | 0.90% | ~6,349 |
-| Lady Wing Chun | 0.90% | ~6,349 |
-| Life is your teacher | 0.90% | ~6,349 |
-| State of constant learning | 0.90% | ~6,349 |
-| Lightning Hands | 0.90% | ~6,349 |
-| Path of the Prospect | 0.90% | ~6,349 |
-| Rumble in the Hangar | 0.90% | ~6,349 |
+| The Old Grandmaster | 0.90% | ~6,350 |
+| The Assault | 0.90% | ~6,350 |
+| A Lady's Blood in the Snow | 0.90% | ~6,350 |
+| Lady Wing Chun | 0.90% | ~6,350 |
+| Life is your teacher | 0.90% | ~6,350 |
+| State of constant learning | 0.90% | ~6,350 |
+| Lightning Hands | 0.90% | ~6,350 |
+| Path of the Prospect | 0.90% | ~6,350 |
+| Rumble in the Hangar | 0.90% | ~6,350 |
 | Furious Fists | 0.80% | ~5,644 |
 | Kill Nil | 0.80% | ~5,644 |
 | Stuntmaster | 0.80% | ~5,644 |
 | Street Fighting | 0.80% | ~5,644 |
 | Qi Gong: Essence | 0.80% | ~5,644 |
 | Take damage to save time | 0.80% | ~5,644 |
-| Scareless | 0.70% | ~4,938 |
-| Old Child | 0.70% | ~4,938 |
+| Scareless | 0.70% | ~4,939 |
+| Old Child | 0.70% | ~4,939 |
 | Dance of the Praying Mantis | 0.60% | ~4,233 |
 | Qi Gong: Mind | 0.60% | ~4,233 |
 | Kung-Fu Tussle | 0.60% | ~4,233 |
 | Deadly Venom | 0.60% | ~89 |
-| Muk Yan Master | 0.50% | ~3,527 |
-| I know Kung-Fu | 0.50% | ~3,527 |
+| Muk Yan Master | 0.50% | ~3,528 |
+| I know Kung-Fu | 0.50% | ~3,528 |
 | A Touch of Acumen | 0.50% | ~74 |
 | Tiger on Fire | 0.40% | ~2,822 |
 | Source of Flying Daggers | 0.40% | ~2,822 |
 | Iron Money | 0.40% | ~2,822 |
 | Legendary Talismans of Wuxing | 0.40% | ~2,822 |
 | Detective Story | 0.40% | ~2,822 |
-| Prodigal Child | 0.30% | ~2,116 |
-| The 36th Chamber of Kung-Fu | 0.30% | ~2,116 |
-| Sword Stained With Blood | 0.30% | ~2,116 |
+| Prodigal Child | 0.30% | ~2,117 |
+| The 36th Chamber of Kung-Fu | 0.30% | ~2,117 |
+| Sword Stained With Blood | 0.30% | ~2,117 |
 | Martial Hub | 0.30% | ~44 |
 | Secure, Protect, Leave | 0.30% | ~44 |
 | Drunken Fighter | 0.20% | ~1,411 |
@@ -54,10 +54,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Pit Protector | 0.20% | ~1,411 |
 | Be like water my friend | 0.20% | ~1,411 |
 | Come Snap With Me | 0.20% | ~1,411 |
-| Ferocity, speed, strength, accuracy | 0.10% | ~705 |
-| Warriors from the Mountain | 0.10% | ~705 |
+| Ferocity, speed, strength, accuracy | 0.10% | ~706 |
+| Warriors from the Mountain | 0.10% | ~706 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705,495 (Ranked 15)  
+Progressed: 705,501 (Ranked 15)  
 Completed: 12,736 (1.81%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 12,736 (1.81%) (Ranked 65)
 | 2023-05-23 | 704,864 | 12,733 |
 | 2023-05-24 | 705,048 | 12,734 |
 | 2023-05-25 | 705,232 | 12,734 |
-| 2023-05-26 | 705,495 | 12,736 |
+| 2023-05-26 | 705,501 | 12,736 |
 ## Awards
 Max (Great Boss Battles): 6,094  (Ranked 53)  
 Sum: 10,384 (Ranked 77)  
