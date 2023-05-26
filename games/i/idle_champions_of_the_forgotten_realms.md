@@ -19,6 +19,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Ring of Regeneration | 0.30% | ~266 |
 | Seeking Allies | 0.30% | ~266 |
 | Are Ya Chicken? | 0.30% | ~266 |
+| Mad Cow Disease | 0.30% | ~266 |
 | Friendly Imps | 0.30% | ~266 |
 | Maddening | 0.20% | ~177 |
 | Owlbear Necessities | 0.20% | ~110 |
@@ -36,7 +37,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Unearthed Evil | 0.20% | ~177 |
 | The Crumbling Temple | 0.20% | ~177 |
 | Useless Allies | 0.20% | ~177 |
-| Mad Cow Disease | 0.20% | ~177 |
 | Exploring Port Nyanzaru | 0.20% | ~177 |
 | Running of the Saurs | 0.20% | ~177 |
 | The Contagious Curse | 0.20% | ~177 |

@@ -8,7 +8,7 @@
 | On the Crest of a Wave | 95.00% | ~146 |
 | Foreman of Darkness | 95.00% | ~146 |
 | Brilliant Day | 93.00% | ~143 |
-| Evil Genius | 86.00% | ~132 |
+| Evil Genius | 87.00% | ~134 |
 | Air Defense | 84.00% | ~129 |
 | Tinned Corpse | 82.00% | ~126 |
 | Your War is Over | 81.00% | ~125 |

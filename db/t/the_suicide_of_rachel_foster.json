@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 30,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -244,7 +244,7 @@
   "Tags": [],
   "EOS_Progressed": 1060,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.81,
   "EosHistory": [
@@ -716,9 +716,9 @@
       "ID": "ACH_FineEV9",
       "SetID": "7a9m7mj",
       "Name": "Alone",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 403
+      "UsersEstimate": 413
     },
     {
       "ID": "ACH_FineGioco",
@@ -772,8 +772,8 @@
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-05-26T06:05:29.2506474+00:00",
+  "LastChanged_Achievements": "2023-05-26T07:06:20.7397263+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:12:14.3771027+00:00",
-  "LastUpdate_Ratings": "2023-05-26T05:59:36.6290881+00:00",
-  "LastUpdate_Achievements": "2023-05-26T06:05:29.250655+00:00"
+  "LastUpdate_Ratings": "2023-05-26T07:00:21.9345392+00:00",
+  "LastUpdate_Achievements": "2023-05-26T07:06:20.7397381+00:00"
 }

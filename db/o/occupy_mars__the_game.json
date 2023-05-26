@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 86,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -64,9 +64,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 907,
+  "EOS_Progressed": 908,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 572,
+  "EOS_NewPlayers": 564,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -829,6 +829,11 @@
       "Time": "2023-05-26T06:02:10.9915505+00:00",
       "NumProgressed": 907,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T07:02:32.6041786+00:00",
+      "NumProgressed": 908,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1016,7 +1021,7 @@
       "Name": "Electrician",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -1040,7 +1045,7 @@
       "Name": "Get your hands dirty",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "NEW_ACHIEVEMENT_GOOD_MARTIAN",
@@ -1223,7 +1228,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 907,
+      "Progressed": 908,
       "Completed": 0
     }
   ],
@@ -1231,8 +1236,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-05-24T23:57:37.6552922+00:00",
-  "LastChanged_Achievements": "2023-05-26T06:02:10.9915498+00:00",
+  "LastChanged_Achievements": "2023-05-26T07:02:32.6041782+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:55.9692167+00:00",
-  "LastUpdate_Ratings": "2023-05-26T05:57:21.0839921+00:00",
-  "LastUpdate_Achievements": "2023-05-26T06:02:10.991585+00:00"
+  "LastUpdate_Ratings": "2023-05-26T06:57:29.0498554+00:00",
+  "LastUpdate_Achievements": "2023-05-26T07:02:32.6042264+00:00"
 }

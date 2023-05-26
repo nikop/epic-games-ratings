@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2565,
+  "EOS_Progressed": 2566,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1810,6 +1810,11 @@
       "Time": "2023-05-26T03:01:18.2717827+00:00",
       "NumProgressed": 2565,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T07:02:29.5377625+00:00",
+      "NumProgressed": 2566,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1821,7 +1826,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "10",
@@ -1877,7 +1882,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 10,
       "XP": 45,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "17",
@@ -1901,7 +1906,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 10,
       "XP": 85,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "2",
@@ -2012,13 +2017,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2565,
+      "Progressed": 2566,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-26T06:00:37.3994021+00:00",
+  "LastChanged_Achievements": "2023-05-26T07:02:29.5377616+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.9291954+00:00",
-  "LastUpdate_Ratings": "2023-05-26T05:58:40.3674146+00:00",
-  "LastUpdate_Achievements": "2023-05-26T06:00:37.3994251+00:00"
+  "LastUpdate_Ratings": "2023-05-26T06:59:10.6663979+00:00",
+  "LastUpdate_Achievements": "2023-05-26T07:02:29.5377914+00:00"
 }

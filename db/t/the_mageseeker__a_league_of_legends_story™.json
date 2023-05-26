@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -108,7 +108,7 @@
   "Tags": [],
   "EOS_Progressed": 2157,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1917,9 +1917,9 @@
       "ID": "STB_DEFEAT_GAREN_II",
       "SetID": "3pe2bac",
       "Name": "My heart and sword always for Demacia",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 259
+      "UsersEstimate": 280
     },
     {
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
@@ -2069,9 +2069,9 @@
       "ID": "STB_MISSION2A_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Thornbarrow",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 690
+      "UsersEstimate": 712
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -2278,8 +2278,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-24T18:57:33.1729645+00:00",
-  "LastChanged_Achievements": "2023-05-26T06:05:20.1727541+00:00",
+  "LastChanged_Achievements": "2023-05-26T07:06:10.3817292+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:08.2361804+00:00",
-  "LastUpdate_Ratings": "2023-05-26T05:57:31.6197363+00:00",
-  "LastUpdate_Achievements": "2023-05-26T06:05:20.1727982+00:00"
+  "LastUpdate_Ratings": "2023-05-26T06:57:44.3768299+00:00",
+  "LastUpdate_Achievements": "2023-05-26T07:06:10.3817871+00:00"
 }

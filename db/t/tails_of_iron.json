@@ -185,7 +185,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1470,
+  "EOS_Progressed": 1471,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
@@ -720,6 +720,11 @@
       "Time": "2023-05-26T04:59:56.4202585+00:00",
       "NumProgressed": 1470,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-26T07:01:07.5931815+00:00",
+      "NumProgressed": 1471,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -731,7 +736,7 @@
       "Name": "Become King",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "Collect20Gold",
@@ -739,7 +744,7 @@
       "Name": "Collect Gold",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "Collect20Iron",
@@ -795,7 +800,7 @@
       "Name": "Complete the Chefs Book",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "CompleteElderFaction",
@@ -811,7 +816,7 @@
       "Name": "Complete Guard Faction",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "CompleteHunterFaction",
@@ -843,7 +848,7 @@
       "Name": "End of the Mozis",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "DefeatRatnorRodentson",
@@ -875,7 +880,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "GetTHWeapon",
@@ -891,7 +896,7 @@
       "Name": "Defeat 25 Grubs",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "Kill25Frogs",
@@ -899,7 +904,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     },
     {
       "ID": "Kill25Mozi",
@@ -907,7 +912,7 @@
       "Name": "Defeat 25 Mozis",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "MeetTheMoles",
@@ -939,7 +944,7 @@
       "Name": "Smithy Ready to Craft",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "RepairThroneRoom",
@@ -947,7 +952,7 @@
       "Name": "Throne Room Fit For A King",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "RescueBrothers",
@@ -955,7 +960,7 @@
       "Name": "Rescue Redgi\u0027s Brothers",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "ReturnPowerInMines",
@@ -970,22 +975,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1470,
+      "Progressed": 1471,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 111,
-      "Completed": 111
+      "Progressed": 112,
+      "Completed": 112
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-04-02T20:59:05.8070796+00:00",
-  "LastChanged_Achievements": "2023-05-26T06:00:09.3070068+00:00",
+  "LastChanged_Achievements": "2023-05-26T07:01:07.5931809+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3670256+00:00",
-  "LastUpdate_Ratings": "2023-05-26T05:58:10.9406683+00:00",
-  "LastUpdate_Achievements": "2023-05-26T06:00:09.3070345+00:00"
+  "LastUpdate_Ratings": "2023-05-26T06:58:31.1553924+00:00",
+  "LastUpdate_Achievements": "2023-05-26T07:01:07.5932147+00:00"
 }

@@ -428,9 +428,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13637,
+  "EOS_Progressed": 13643,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 971,
+  "EOS_NewPlayers": 969,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1598,6 +1598,11 @@
       "Time": "2023-05-26T06:03:23.1962419+00:00",
       "NumProgressed": 13637,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-26T07:03:40.7792367+00:00",
+      "NumProgressed": 13643,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -1801,7 +1806,7 @@
       "Name": "The Outer Way",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "STORY_ESCAPE",
@@ -1833,7 +1838,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -1841,7 +1846,7 @@
       "Name": "Desperate Times",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -1855,9 +1860,9 @@
       "ID": "STORY_TOWER",
       "SetID": "4hj6d86",
       "Name": "Full Circle",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 96
     },
     {
       "ID": "STORY_TUNNELS",
@@ -1928,13 +1933,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13637,
+      "Progressed": 13643,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1563,
+      "Progressed": 1569,
       "Completed": 29
     }
   ],
@@ -1942,8 +1947,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-23T19:57:59.4143533+00:00",
-  "LastChanged_Achievements": "2023-05-26T06:03:23.1962414+00:00",
+  "LastChanged_Achievements": "2023-05-26T07:03:40.779236+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-26T05:57:42.4321513+00:00",
-  "LastUpdate_Achievements": "2023-05-26T06:03:23.1962718+00:00"
+  "LastUpdate_Ratings": "2023-05-26T06:57:57.2741766+00:00",
+  "LastUpdate_Achievements": "2023-05-26T07:03:40.7792771+00:00"
 }

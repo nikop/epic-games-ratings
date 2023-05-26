@@ -8,8 +8,8 @@ Rating: 4.18 (Ranked 831)
 | Flesh Wound | 7.00% | ~955 |
 | Giving Back | 5.00% | ~682 |
 | Chew 'Em Up | 5.00% | ~682 |
-| The Outer Way | 4.00% | ~545 |
-| Desperate Times | 4.00% | ~545 |
+| The Outer Way | 4.00% | ~546 |
+| Desperate Times | 4.00% | ~546 |
 | Instigator | 4.00% | ~63 |
 | Big Game Hunter | 4.00% | ~63 |
 | Float Like A Butterfly | 3.00% | ~409 |
@@ -34,8 +34,8 @@ Rating: 4.18 (Ranked 831)
 | Power Up | 0.80% | ~109 |
 | Recidivist | 0.70% | ~11 |
 | Lifer | 0.70% | ~11 |
-| What Lies Beneath | 0.70% | ~95 |
-| Full Circle | 0.60% | ~82 |
+| What Lies Beneath | 0.70% | ~96 |
+| Full Circle | 0.70% | ~96 |
 | I Do Belong Here | 0.50% | ~68 |
 | Grim Reaper | 0.40% | ~55 |
 | It's over, Jacob! | 0.10% | ~14 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 831)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,637 (Ranked 102)  
+Progressed: 13,643 (Ranked 102)  
 Completed: 53 (0.39%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 53 (0.39%) (Ranked 112)
 | 2023-05-23 | 13,444 | 52 |
 | 2023-05-24 | 13,523 | 52 |
 | 2023-05-25 | 13,610 | 52 |
-| 2023-05-26 | 13,637 | 53 |
+| 2023-05-26 | 13,643 | 53 |
 ## Awards
 Max (Highly Recommended): 46  (Ranked 398)  
 Sum: 267 (Ranked 335)  

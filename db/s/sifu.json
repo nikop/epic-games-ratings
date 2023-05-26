@@ -4224,9 +4224,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 705295,
+  "EOS_Progressed": 705305,
   "EOS_Completed": 12735,
-  "EOS_NewPlayers": 2133,
+  "EOS_NewPlayers": 2115,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -7229,6 +7229,11 @@
       "Time": "2023-05-26T06:05:34.4789863+00:00",
       "NumProgressed": 705295,
       "NumCompleted": 12735
+    },
+    {
+      "Time": "2023-05-26T07:06:26.7057081+00:00",
+      "NumProgressed": 705305,
+      "NumCompleted": 12735
     }
   ],
   "TotalAchievements": 50,
@@ -7288,7 +7293,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 3526
+      "UsersEstimate": 3527
     },
     {
       "ID": "08_Wude_H2",
@@ -7472,7 +7477,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3526
+      "UsersEstimate": 3527
     },
     {
       "ID": "31_ComboHigh",
@@ -7639,21 +7644,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 14596,
+      "Progressed": 14606,
       "Completed": 10170
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 705295,
+      "Progressed": 705305,
       "Completed": 12735
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-25T22:59:04.8520014+00:00",
-  "LastChanged_Achievements": "2023-05-26T06:05:34.4789858+00:00",
+  "LastChanged_Achievements": "2023-05-26T07:06:26.7057076+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.7579865+00:00",
-  "LastUpdate_Ratings": "2023-05-26T05:58:43.0621041+00:00",
-  "LastUpdate_Achievements": "2023-05-26T06:05:34.4790335+00:00"
+  "LastUpdate_Ratings": "2023-05-26T06:59:14.2988128+00:00",
+  "LastUpdate_Achievements": "2023-05-26T07:06:26.7057693+00:00"
 }

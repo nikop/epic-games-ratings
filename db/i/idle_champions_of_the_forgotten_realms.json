@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 61,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 6,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3942,7 +3942,7 @@
   ],
   "EOS_Progressed": 88688,
   "EOS_Completed": 1879,
-  "EOS_NewPlayers": 751,
+  "EOS_NewPlayers": 745,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 2.12,
   "EosHistory": [
@@ -9570,9 +9570,9 @@
       "ID": "objective_completed_5",
       "SetID": "cc37lbc",
       "Name": "Mad Cow Disease",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 266
     },
     {
       "ID": "objective_completed_54",
@@ -11392,8 +11392,8 @@
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-25T21:58:14.7770868+00:00",
-  "LastChanged_Achievements": "2023-05-26T06:05:47.1558044+00:00",
+  "LastChanged_Achievements": "2023-05-26T07:06:41.4588156+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-26T05:57:53.4583396+00:00",
-  "LastUpdate_Achievements": "2023-05-26T06:05:47.1579563+00:00"
+  "LastUpdate_Ratings": "2023-05-26T06:58:12.4382366+00:00",
+  "LastUpdate_Achievements": "2023-05-26T07:06:41.4617058+00:00"
 }

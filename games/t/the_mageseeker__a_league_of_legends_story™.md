@@ -14,8 +14,8 @@ Rating: 4.78 (Ranked 99)
 | You can pet the dog | 60.00% | ~1,294 |
 | Big Helmet Bro | 34.00% | ~733 |
 | Clarion Cove | 34.00% | ~733 |
+| Thornbarrow | 33.00% | ~712 |
 | Past trauma | 32.00% | ~690 |
-| Thornbarrow | 32.00% | ~690 |
 | Ternmoat Headquarters | 32.00% | ~690 |
 | Elemental master | 31.00% | ~669 |
 | Cypress Glen Headquarters | 31.00% | ~669 |
@@ -37,11 +37,11 @@ Rating: 4.78 (Ranked 99)
 | No more holding back | 14.00% | ~302 |
 | Terbisia | 14.00% | ~302 |
 | Whispers in the Woods III | 13.00% | ~280 |
+| My heart and sword always for Demacia | 13.00% | ~280 |
 | Friendly fire | 13.00% | ~280 |
 | True power | 13.00% | ~280 |
 | Meltridge | 13.00% | ~280 |
 | The Central Headquarters | 13.00% | ~280 |
-| My heart and sword always for Demacia | 12.00% | ~259 |
 | Cloven Dell Headquarters | 12.00% | ~259 |
 | Whispers in the Woods IV | 11.00% | ~237 |
 | Embrace the darkness | 10.00% | ~216 |

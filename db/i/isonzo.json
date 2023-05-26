@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -568,7 +568,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5854,
+  "EOS_Progressed": 5855,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 0,
@@ -1478,6 +1478,11 @@
       "Time": "2023-05-26T06:05:19.0361473+00:00",
       "NumProgressed": 5854,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-26T07:06:08.9982787+00:00",
+      "NumProgressed": 5855,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -1601,7 +1606,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 1873
+      "UsersEstimate": 1874
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -1615,9 +1620,9 @@
       "ID": "ISONZO_ACH_INSUBORDINATION",
       "SetID": "akchbl3",
       "Name": "Insubordination",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1054
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -1641,7 +1646,7 @@
       "Name": "Machiavelli",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "ISONZO_ACH_MALPRACTICE",
@@ -1681,7 +1686,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3161
+      "UsersEstimate": 3162
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -1729,7 +1734,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -1833,7 +1838,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 1229
+      "UsersEstimate": 1230
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -1841,14 +1846,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 3044
+      "UsersEstimate": 3045
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5854,
+      "Progressed": 5855,
       "Completed": 8
     }
   ],
@@ -1856,8 +1861,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-25T13:05:20.9759815+00:00",
-  "LastChanged_Achievements": "2023-05-26T06:05:19.0361471+00:00",
+  "LastChanged_Achievements": "2023-05-26T07:06:08.9982782+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:10.2290416+00:00",
-  "LastUpdate_Ratings": "2023-05-26T05:57:19.5947734+00:00",
-  "LastUpdate_Achievements": "2023-05-26T06:05:19.0361789+00:00"
+  "LastUpdate_Ratings": "2023-05-26T06:57:27.1077082+00:00",
+  "LastUpdate_Achievements": "2023-05-26T07:06:08.99832+00:00"
 }

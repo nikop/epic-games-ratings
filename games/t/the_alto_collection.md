@@ -6,20 +6,20 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Finding Your Footing | 27.00% | ~6,189 |
-| Rookie | 25.00% | ~5,730 |
-| Nomad | 19.00% | ~4,355 |
+| Finding Your Footing | 27.00% | ~6,190 |
+| Rookie | 25.00% | ~5,732 |
+| Nomad | 19.00% | ~4,356 |
 | Picking Up Speed | 17.00% | ~3,897 |
-| Welcome Maya | 16.00% | ~3,667 |
+| Welcome Maya | 16.00% | ~3,668 |
 | Sightseer | 12.00% | ~2,751 |
-| Scout | 10.00% | ~2,292 |
+| Scout | 10.00% | ~2,293 |
 | Amateur | 9.00% | ~2,063 |
 | Enter Paz | 9.00% | ~2,063 |
 | Wanderer | 9.00% | ~2,063 |
-| Unlock Maya | 7.00% | ~1,604 |
-| Aviator | 6.00% | ~1,375 |
-| One With The Board | 6.00% | ~1,375 |
-| Voyager | 6.00% | ~1,375 |
+| Unlock Maya | 7.00% | ~1,605 |
+| Aviator | 6.00% | ~1,376 |
+| One With The Board | 6.00% | ~1,376 |
+| Voyager | 6.00% | ~1,376 |
 | My Little Friend | 5.00% | ~1,146 |
 | Sandboarder | 4.00% | ~917 |
 | Izel Has Arrived | 4.00% | ~917 |
@@ -27,9 +27,9 @@ Number of Ratings: 332  (23.09.2022)
 | Traveler | 3.00% | ~688 |
 | Journeyer | 3.00% | ~688 |
 | Here Comes Felipe | 3.00% | ~688 |
-| Pro | 2.00% | ~458 |
-| Unlock Paz | 2.00% | ~458 |
-| Human Flight | 2.00% | ~458 |
+| Pro | 2.00% | ~459 |
+| Unlock Paz | 2.00% | ~459 |
+| Human Flight | 2.00% | ~459 |
 | Explorer | 1.00% | ~229 |
 | Hoist the Mainsail | 1.00% | ~229 |
 | Unlock Izel | 1.00% | ~229 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~23 |
 | Windswept | 0.10% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,921 (Ranked 89)  
+Progressed: 22,926 (Ranked 89)  
 Completed: 3 (0.01%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 3 (0.01%) (Ranked 193)
 | 2023-05-23 | 22,586 | 3 |
 | 2023-05-24 | 22,714 | 3 |
 | 2023-05-25 | 22,881 | 3 |
-| 2023-05-26 | 22,921 | 3 |
+| 2023-05-26 | 22,926 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 44  (Ranked 405)  
 Sum: 344 (Ranked 316)  

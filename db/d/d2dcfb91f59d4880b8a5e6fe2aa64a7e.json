@@ -97,9 +97,9 @@
       "ID": "COLLECTOR_TRINKETS",
       "SetID": "63n2m0e",
       "Name": "Jeweller",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DASHER",
@@ -185,9 +185,9 @@
       "ID": "PERK_UP",
       "SetID": "63n2m0e",
       "Name": "Perk Up",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "QUESTS_COMPLETE",
@@ -247,8 +247,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-16T19:59:50.0064107+00:00",
-  "LastChanged_Achievements": "2023-05-26T06:00:24.3127847+00:00",
+  "LastChanged_Achievements": "2023-05-26T07:02:13.0427129+00:00",
   "LastUpdate_AppInfo": "2023-05-23T19:56:59.3974929+00:00",
-  "LastUpdate_Ratings": "2023-05-26T05:57:02.6247446+00:00",
-  "LastUpdate_Achievements": "2023-05-26T06:00:24.3128039+00:00"
+  "LastUpdate_Ratings": "2023-05-26T06:57:04.3189402+00:00",
+  "LastUpdate_Achievements": "2023-05-26T07:02:13.0427351+00:00"
 }

@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 319,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 5.02,
   "EosHistory": [
@@ -707,9 +707,9 @@
       "ID": "LEVEL_010",
       "SetID": "212bg48",
       "Name": "Rocks around the island",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 77
     },
     {
       "ID": "LEVEL_011",
@@ -882,8 +882,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-26T06:03:16.695672+00:00",
+  "LastChanged_Achievements": "2023-05-26T07:03:32.8783919+00:00",
   "LastUpdate_AppInfo": "2023-05-22T13:02:13.5547551+00:00",
-  "LastUpdate_Ratings": "2023-05-26T05:57:04.0049792+00:00",
-  "LastUpdate_Achievements": "2023-05-26T06:03:16.6956973+00:00"
+  "LastUpdate_Ratings": "2023-05-26T06:57:06.0366098+00:00",
+  "LastUpdate_Achievements": "2023-05-26T07:03:32.8784201+00:00"
 }

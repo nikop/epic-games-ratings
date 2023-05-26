@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1885,
+  "EOS_Progressed": 1887,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 658,
+  "EOS_NewPlayers": 659,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2096,6 +2096,11 @@
       "Time": "2023-05-26T06:05:07.9432246+00:00",
       "NumProgressed": 1885,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T07:05:56.2485702+00:00",
+      "NumProgressed": 1887,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -2107,7 +2112,7 @@
       "Name": "First Step",
       "Percentage": 45,
       "XP": 45,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "10",
@@ -2123,7 +2128,7 @@
       "Name": "Telepathic",
       "Percentage": 11,
       "XP": 70,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "12",
@@ -2163,7 +2168,7 @@
       "Name": "Dense Forest",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "3",
@@ -2187,7 +2192,7 @@
       "Name": "Snowy Peak",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "6",
@@ -2226,7 +2231,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 1885,
+      "Progressed": 1887,
       "Completed": 0
     }
   ],
@@ -2234,8 +2239,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-05-26T06:05:07.9432239+00:00",
+  "LastChanged_Achievements": "2023-05-26T07:05:56.2485693+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:36.8488775+00:00",
-  "LastUpdate_Ratings": "2023-05-26T05:57:51.3567203+00:00",
-  "LastUpdate_Achievements": "2023-05-26T06:05:07.9433077+00:00"
+  "LastUpdate_Ratings": "2023-05-26T06:58:09.7417317+00:00",
+  "LastUpdate_Achievements": "2023-05-26T07:05:56.2485966+00:00"
 }
