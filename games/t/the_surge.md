@@ -6,19 +6,19 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,015 |
-| I'll Be Back | 84.00% | ~3,588 |
-| Sorry, I Dropped This | 77.00% | ~3,289 |
-| First Day on the Job | 76.00% | ~3,246 |
-| Butcher's Bill | 55.00% | ~2,349 |
-| P.A.X | 37.00% | ~1,580 |
+| On My Own Two Feet | 94.00% | ~4,017 |
+| I'll Be Back | 84.00% | ~3,589 |
+| Sorry, I Dropped This | 77.00% | ~3,290 |
+| First Day on the Job | 76.00% | ~3,247 |
+| Butcher's Bill | 54.00% | ~2,307 |
+| P.A.X | 37.00% | ~1,581 |
 | Hey Listen | 36.00% | ~1,538 |
-| OPERATOR | 35.00% | ~1,495 |
-| It's Blue Light | 33.00% | ~1,409 |
-| Most Wanted | 26.00% | ~1,110 |
-| Infidel | 23.00% | ~982 |
+| OPERATOR | 35.00% | ~1,496 |
+| It's Blue Light | 33.00% | ~1,410 |
+| Most Wanted | 26.00% | ~1,111 |
+| Infidel | 23.00% | ~983 |
 | GOLIATH | 21.00% | ~897 |
-| Firebug | 20.00% | ~854 |
+| Firebug | 20.00% | ~855 |
 | I Choose You | 17.00% | ~726 |
 | Nothing to Lose | 17.00% | ~726 |
 | Big Sister | 15.00% | ~641 |
@@ -31,8 +31,8 @@ Number of Ratings: 62  (23.09.2022)
 | Who's in Charge Here? | 11.00% | ~470 |
 | Shall Not Pass | 11.00% | ~470 |
 | Right Tool for the Job | 10.00% | ~427 |
-| Raging Drones | 9.00% | ~384 |
-| Overconfident | 9.00% | ~384 |
+| Raging Drones | 9.00% | ~385 |
+| Overconfident | 9.00% | ~385 |
 | Pusher Man | 8.00% | ~342 |
 | Melting Down | 8.00% | ~342 |
 | Squad Chief Helvig | 8.00% | ~342 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.50% | ~21 |
 | The Surge | 0.40% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,271 (Ranked 127)  
+Progressed: 4,273 (Ranked 127)  
 Completed: 13 (0.30%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 13 (0.30%) (Ranked 126)
 | 2023-05-23 | 4,258 | 13 |
 | 2023-05-24 | 4,263 | 13 |
 | 2023-05-25 | 4,269 | 13 |
-| 2023-05-26 | 4,271 | 13 |
+| 2023-05-26 | 4,273 | 13 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 459)  
 Sum: 26 (Ranked 465)  

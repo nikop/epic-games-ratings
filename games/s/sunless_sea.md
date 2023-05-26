@@ -6,44 +6,44 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~10,781 |
-| Sweet Sorrow | 18.00% | ~5,390 |
-| Rules the Waves | 17.00% | ~5,091 |
-| Thou, All-Shaking Thunder | 15.00% | ~4,492 |
+| Sink Beneath the Waves | 36.00% | ~10,783 |
+| Sweet Sorrow | 18.00% | ~5,391 |
+| Rules the Waves | 17.00% | ~5,092 |
+| Thou, All-Shaking Thunder | 15.00% | ~4,493 |
 | Rival | 14.00% | ~4,193 |
 | Correspondent | 12.00% | ~3,594 |
 | Lose Your Mind | 12.00% | ~3,594 |
 | Sound Mind? | 12.00% | ~3,594 |
-| Salt's Curse | 11.00% | ~3,294 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~3,294 |
-| The Fall of the House | 11.00% | ~3,294 |
-| Shipmate | 11.00% | ~3,294 |
+| Salt's Curse | 11.00% | ~3,295 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~3,295 |
+| The Fall of the House | 11.00% | ~3,295 |
+| Shipmate | 11.00% | ~3,295 |
 | One Year at Zee | 8.00% | ~2,396 |
-| Pupil | 7.00% | ~2,096 |
-| Salvager | 7.00% | ~2,096 |
-| Open Your Ears | 7.00% | ~2,096 |
-| The Ascent of Man | 7.00% | ~2,096 |
-| Sink Beneath the Waves. Again. | 5.00% | ~1,497 |
-| Zee Fever | 5.00% | ~1,497 |
+| Pupil | 7.00% | ~2,097 |
+| Salvager | 7.00% | ~2,097 |
+| Open Your Ears | 7.00% | ~2,097 |
+| The Ascent of Man | 7.00% | ~2,097 |
+| Sink Beneath the Waves. Again. | 5.00% | ~1,498 |
+| Zee Fever | 5.00% | ~1,498 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,198 |
-| Storm's Curse | 3.00% | ~898 |
-| We're Gonna Need a Bigger Boat | 3.00% | ~898 |
-| Come Closer | 3.00% | ~898 |
+| Storm's Curse | 3.00% | ~899 |
+| We're Gonna Need a Bigger Boat | 3.00% | ~899 |
+| Come Closer | 3.00% | ~899 |
 | Roaring Rise | 2.00% | ~599 |
 | I am the Captain of my Soul | 2.00% | ~599 |
-| A buoyant escape | 1.00% | ~299 |
-| Frightful, sheer, no-man-fathomed | 1.00% | ~299 |
-| The Bell Tolls | 1.00% | ~299 |
-| His bones in whispers | 1.00% | ~299 |
-| The beauty of the deep | 1.00% | ~299 |
-| The dragon in the zee | 1.00% | ~299 |
-| Thanks for all the fish | 1.00% | ~299 |
-| Knife, Cup and Bone | 1.00% | ~299 |
-| Those are pearls that were his eyes | 1.00% | ~299 |
-| No regrets | 1.00% | ~299 |
-| Rosewater sailor | 1.00% | ~299 |
-| Under the zee | 1.00% | ~299 |
-| A current under zee | 1.00% | ~299 |
+| A buoyant escape | 1.00% | ~300 |
+| Frightful, sheer, no-man-fathomed | 1.00% | ~300 |
+| The Bell Tolls | 1.00% | ~300 |
+| His bones in whispers | 1.00% | ~300 |
+| The beauty of the deep | 1.00% | ~300 |
+| The dragon in the zee | 1.00% | ~300 |
+| Thanks for all the fish | 1.00% | ~300 |
+| Knife, Cup and Bone | 1.00% | ~300 |
+| Those are pearls that were his eyes | 1.00% | ~300 |
+| No regrets | 1.00% | ~300 |
+| Rosewater sailor | 1.00% | ~300 |
+| Under the zee | 1.00% | ~300 |
+| A current under zee | 1.00% | ~300 |
 | A zee-change | 0.90% | ~270 |
 | Never Stop Sinking... | 0.90% | ~270 |
 | Leviathan | 0.90% | ~270 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~30 |
 | Ten Years at Zee | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,947 (Ranked 86)  
+Progressed: 29,952 (Ranked 86)  
 Completed: 3 (0.01%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 3 (0.01%) (Ranked 194)
 | 2023-05-23 | 29,774 | 3 |
 | 2023-05-24 | 29,842 | 3 |
 | 2023-05-25 | 29,918 | 3 |
-| 2023-05-26 | 29,947 | 3 |
+| 2023-05-26 | 29,952 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 278 (Ranked 329)  

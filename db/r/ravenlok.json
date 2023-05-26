@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 23,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 862,
+  "EOS_Progressed": 863,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 13,
-  "EOS_Completed_Percentage": 6.73,
+  "EOS_Completed_Percentage": 6.72,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:45:40.9336133+00:00",
@@ -1782,6 +1782,11 @@
       "Time": "2023-05-26T06:05:11.0281386+00:00",
       "NumProgressed": 862,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-05-26T11:05:56.6414881+00:00",
+      "NumProgressed": 863,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 50,
@@ -1801,7 +1806,7 @@
       "Name": "Piece of Cake",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "11",
@@ -1815,9 +1820,9 @@
       "ID": "12",
       "SetID": "d0g98p",
       "Name": "Spellbound",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 293
+      "UsersEstimate": 285
     },
     {
       "ID": "13",
@@ -1871,9 +1876,9 @@
       "ID": "19",
       "SetID": "d0g98p",
       "Name": "A Grand Visit",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 612
+      "UsersEstimate": 604
     },
     {
       "ID": "2",
@@ -1881,7 +1886,7 @@
       "Name": "Waff!",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "20",
@@ -1929,7 +1934,7 @@
       "Name": "Trick Question!",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "26",
@@ -1953,7 +1958,7 @@
       "Name": "Sword, Shield, Fight!",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "29",
@@ -1977,7 +1982,7 @@
       "Name": "Gooey Delight!",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "31",
@@ -2001,7 +2006,7 @@
       "Name": "Awakened Spirits",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "34",
@@ -2009,7 +2014,7 @@
       "Name": "Glimmer of Hope",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "35",
@@ -2033,7 +2038,7 @@
       "Name": "Stronger!",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "38",
@@ -2057,7 +2062,7 @@
       "Name": "A Prophecy",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "40",
@@ -2087,9 +2092,9 @@
       "ID": "43",
       "SetID": "d0g98p",
       "Name": "An Actor!",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 371
     },
     {
       "ID": "44",
@@ -2129,7 +2134,7 @@
       "Name": "Into the Barn",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "49",
@@ -2145,7 +2150,7 @@
       "Name": "Well Rested",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "50",
@@ -2177,7 +2182,7 @@
       "Name": "Tragic Brave",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "9",
@@ -2192,7 +2197,7 @@
     {
       "ID": "d0g98p",
       "IsBase": true,
-      "Progressed": 862,
+      "Progressed": 863,
       "Completed": 58
     }
   ],
@@ -2200,8 +2205,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-26T10:05:03.194683+00:00",
+  "LastChanged_Achievements": "2023-05-26T11:05:56.6414875+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:59.9943101+00:00",
-  "LastUpdate_Ratings": "2023-05-26T09:57:17.29519+00:00",
-  "LastUpdate_Achievements": "2023-05-26T10:05:03.194735+00:00"
+  "LastUpdate_Ratings": "2023-05-26T10:57:35.2969205+00:00",
+  "LastUpdate_Achievements": "2023-05-26T11:05:56.6415433+00:00"
 }

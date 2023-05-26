@@ -3,7 +3,7 @@
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 213,
-  "Ranking_EOS_Completed": 28,
+  "Ranking_EOS_Completed": 27,
   "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 12,
   "Store": {
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 320,
-  "EOS_Completed": 16,
+  "EOS_Progressed": 321,
+  "EOS_Completed": 17,
   "EOS_NewPlayers": 192,
-  "EOS_NewCompleters": 14,
-  "EOS_Completed_Percentage": 5,
+  "EOS_NewCompleters": 15,
+  "EOS_Completed_Percentage": 5.3,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -631,6 +631,11 @@
       "Time": "2023-05-26T09:03:49.822913+00:00",
       "NumProgressed": 320,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-05-26T11:03:28.5676876+00:00",
+      "NumProgressed": 321,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 30,
@@ -642,7 +647,7 @@
       "Name": "A fresh start",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "LEVEL_002",
@@ -650,7 +655,7 @@
       "Name": "Promising crop",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "LEVEL_003",
@@ -658,7 +663,7 @@
       "Name": "A horse in the country",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "LEVEL_004",
@@ -666,7 +671,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "LEVEL_005",
@@ -698,7 +703,7 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "LEVEL_009",
@@ -706,7 +711,7 @@
       "Name": "Going zig zag",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "LEVEL_010",
@@ -728,9 +733,9 @@
       "ID": "LEVEL_012",
       "SetID": "212bg48",
       "Name": "Vegetables on rails",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 61
     },
     {
       "ID": "LEVEL_013",
@@ -738,23 +743,23 @@
       "Name": "Higher ground",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "LEVEL_014",
       "SetID": "212bg48",
       "Name": "Cross-country",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 55
     },
     {
       "ID": "LEVEL_015",
       "SetID": "212bg48",
       "Name": "Flatland",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 48
     },
     {
       "ID": "LEVEL_016",
@@ -770,15 +775,15 @@
       "Name": "Windmill on a rocky cliff",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "LEVEL_018",
       "SetID": "212bg48",
       "Name": "Isle rock city",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 39
     },
     {
       "ID": "LEVEL_019",
@@ -808,17 +813,17 @@
       "ID": "LEVEL_022",
       "SetID": "212bg48",
       "Name": "Who likes bridges?",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 26
+      "UsersEstimate": 22
     },
     {
       "ID": "LEVEL_023",
       "SetID": "212bg48",
       "Name": "Flowing from high ground",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 26
+      "UsersEstimate": 22
     },
     {
       "ID": "LEVEL_024",
@@ -856,17 +861,17 @@
       "ID": "LEVEL_028",
       "SetID": "212bg48",
       "Name": "What is the country?",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "LEVEL_029",
       "SetID": "212bg48",
       "Name": "Bridges connect us",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "LEVEL_030",
@@ -881,14 +886,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 320,
-      "Completed": 16
+      "Progressed": 321,
+      "Completed": 17
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-26T10:02:31.1405904+00:00",
+  "LastChanged_Achievements": "2023-05-26T11:03:28.567687+00:00",
   "LastUpdate_AppInfo": "2023-05-22T13:02:13.5547551+00:00",
-  "LastUpdate_Ratings": "2023-05-26T09:56:57.7769378+00:00",
-  "LastUpdate_Achievements": "2023-05-26T10:02:31.1406153+00:00"
+  "LastUpdate_Ratings": "2023-05-26T10:57:10.3778687+00:00",
+  "LastUpdate_Achievements": "2023-05-26T11:03:28.567711+00:00"
 }

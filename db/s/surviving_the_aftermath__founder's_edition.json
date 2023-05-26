@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -981,9 +981,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 5739,
+  "EOS_Progressed": 5740,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 308,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3876,6 +3876,11 @@
       "Time": "2023-05-26T10:05:32.4270603+00:00",
       "NumProgressed": 5739,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T11:06:30.2960292+00:00",
+      "NumProgressed": 5740,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -3885,9 +3890,9 @@
       "ID": "1",
       "SetID": "8idi9ml",
       "Name": "Leader",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 3443
+      "UsersEstimate": 3501
     },
     {
       "ID": "10",
@@ -3967,7 +3972,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2984
+      "UsersEstimate": 2985
     },
     {
       "ID": "2",
@@ -3999,7 +4004,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 4017
+      "UsersEstimate": 4018
     },
     {
       "ID": "23",
@@ -4007,7 +4012,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1951
+      "UsersEstimate": 1952
     },
     {
       "ID": "24",
@@ -4111,7 +4116,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "36",
@@ -4143,7 +4148,7 @@
       "Name": "Rocket Surgeon",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "4",
@@ -4205,9 +4210,9 @@
       "ID": "46",
       "SetID": "8idi9ml",
       "Name": "Finders, Keepers",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1492
     },
     {
       "ID": "47",
@@ -4247,7 +4252,7 @@
       "Name": "Bookworm",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "51",
@@ -4279,7 +4284,7 @@
       "Name": "Top Notch",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     },
     {
       "ID": "55",
@@ -4358,15 +4363,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 5739,
+      "Progressed": 5740,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-05-13T10:01:00.1135595+00:00",
-  "LastChanged_Achievements": "2023-05-26T10:05:32.4270597+00:00",
+  "LastChanged_Achievements": "2023-05-26T11:06:30.2960286+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:33.4626364+00:00",
-  "LastUpdate_Ratings": "2023-05-26T09:59:37.5033046+00:00",
-  "LastUpdate_Achievements": "2023-05-26T10:05:32.4271365+00:00"
+  "LastUpdate_Ratings": "2023-05-26T11:00:25.7684954+00:00",
+  "LastUpdate_Achievements": "2023-05-26T11:06:30.2961035+00:00"
 }

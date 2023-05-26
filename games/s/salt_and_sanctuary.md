@@ -6,27 +6,27 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~433,388 |
-| The Three | 64.00% | ~334,179 |
-| The Banquet | 40.00% | ~208,862 |
-| Devara's Light | 30.00% | ~156,646 |
-| The Iron Ones | 18.00% | ~93,988 |
+| Find Sanctuary | 83.00% | ~433,392 |
+| The Three | 64.00% | ~334,182 |
+| The Banquet | 40.00% | ~208,864 |
+| Devara's Light | 30.00% | ~156,648 |
+| The Iron Ones | 18.00% | ~93,989 |
 | The Village | 16.00% | ~83,545 |
 | The Forest | 14.00% | ~73,102 |
-| Branded | 13.00% | ~67,880 |
-| The Imposter | 13.00% | ~67,880 |
-| The Keep | 13.00% | ~67,880 |
+| Branded | 13.00% | ~67,881 |
+| The Imposter | 13.00% | ~67,881 |
+| The Keep | 13.00% | ~67,881 |
 | The Castle | 11.00% | ~57,437 |
 | The Dome | 9.00% | ~46,994 |
 | The Red Hall | 9.00% | ~46,994 |
-| The Sacrifice | 8.00% | ~41,772 |
+| The Sacrifice | 8.00% | ~41,773 |
 | The Cave | 7.00% | ~36,551 |
 | The Stone Roots | 7.00% | ~36,551 |
 | The Ziggurat | 7.00% | ~36,551 |
-| Storied | 6.00% | ~31,329 |
-| The Construct | 6.00% | ~31,329 |
-| The Mire | 6.00% | ~31,329 |
-| The Ruins | 6.00% | ~31,329 |
+| Storied | 6.00% | ~31,330 |
+| The Construct | 6.00% | ~31,330 |
+| The Mire | 6.00% | ~31,330 |
+| The Ruins | 6.00% | ~31,330 |
 | The Alkymancery | 5.00% | ~26,108 |
 | The Lake | 5.00% | ~26,108 |
 | The Pitchwoods | 5.00% | ~26,108 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,443 |
 | Fading Fast | 1.00% | ~5,222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 522,154 (Ranked 24)  
+Progressed: 522,159 (Ranked 24)  
 Completed: 1,423 (0.27%) (Ranked 131)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 1,423 (0.27%) (Ranked 131)
 | 2023-05-23 | 521,927 | 1,419 |
 | 2023-05-24 | 522,012 | 1,420 |
 | 2023-05-25 | 522,112 | 1,422 |
-| 2023-05-26 | 522,154 | 1,423 |
+| 2023-05-26 | 522,159 | 1,423 |
 ## Awards
 Max (Challenging Combat): 269  (Ranked 234)  
 Sum: 1,883 (Ranked 190)  

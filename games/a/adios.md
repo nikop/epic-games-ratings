@@ -5,23 +5,23 @@ Rating: 3.41 (Ranked 926)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Be Seeing You | 21.00% | ~12,166 |
-| Master, Commander | 20.00% | ~11,587 |
-| Hard Worker | 19.00% | ~11,007 |
-| Mechanic | 18.00% | ~10,428 |
-| Adios, Friendo | 17.00% | ~9,849 |
-| Bottom's Up | 17.00% | ~9,849 |
-| Nice Try | 16.00% | ~9,269 |
-| Right On Target | 13.00% | ~7,531 |
-| Piano Man | 10.00% | ~5,793 |
-| Lazy Bones | 9.00% | ~5,214 |
-| Vinyl Vibes | 7.00% | ~4,055 |
-| Nothing Left to Say | 6.00% | ~3,476 |
-| Sniper | 6.00% | ~3,476 |
+| Be Seeing You | 21.00% | ~12,168 |
+| Master, Commander | 20.00% | ~11,588 |
+| Hard Worker | 19.00% | ~11,009 |
+| Mechanic | 18.00% | ~10,430 |
+| Adios, Friendo | 17.00% | ~9,850 |
+| Bottom's Up | 17.00% | ~9,850 |
+| Nice Try | 16.00% | ~9,271 |
+| Right On Target | 13.00% | ~7,532 |
+| Piano Man | 10.00% | ~5,794 |
+| Lazy Bones | 9.00% | ~5,215 |
+| Vinyl Vibes | 7.00% | ~4,056 |
+| Nothing Left to Say | 6.00% | ~3,477 |
+| Sniper | 6.00% | ~3,477 |
 | Cut Call | 5.00% | ~2,897 |
-| Butcher | 4.00% | ~2,317 |
-| Magnetic Miracles | 4.00% | ~2,317 |
-| Spicy | 4.00% | ~2,317 |
+| Butcher | 4.00% | ~2,318 |
+| Magnetic Miracles | 4.00% | ~2,318 |
+| Spicy | 4.00% | ~2,318 |
 | A Man Of Taste | 3.00% | ~1,738 |
 | Ace in the Hole | 3.00% | ~1,738 |
 | Fair's Fair | 3.00% | ~1,738 |
@@ -31,8 +31,8 @@ Rating: 3.41 (Ranked 926)
 | Audiophile | 2.00% | ~1,159 |
 | Tape Head | 1.00% | ~579 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,933 (Ranked 72)  
-Completed: 478 (0.83%) (Ranked 91)  
+Progressed: 57,942 (Ranked 72)  
+Completed: 478 (0.82%) (Ranked 91)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -67,7 +67,7 @@ Completed: 478 (0.83%) (Ranked 91)
 | 2023-05-23 | 57,557 | 471 |
 | 2023-05-24 | 57,711 | 473 |
 | 2023-05-25 | 57,872 | 476 |
-| 2023-05-26 | 57,933 | 478 |
+| 2023-05-26 | 57,942 | 478 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

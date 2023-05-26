@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
     "PcReleaseDate": "2021-07-08T21:30:00+00:00",
@@ -721,9 +721,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 6709,
+  "EOS_Progressed": 6712,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 252,
+  "EOS_NewPlayers": 253,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2686,6 +2686,11 @@
       "Time": "2023-05-26T09:03:20.7800752+00:00",
       "NumProgressed": 6709,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T11:02:24.9741706+00:00",
+      "NumProgressed": 6712,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -2697,7 +2702,7 @@
       "Name": "Adventure Time",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 5367
+      "UsersEstimate": 5370
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -2705,7 +2710,7 @@
       "Name": "Booty Bashing",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 3019
+      "UsersEstimate": 3020
     },
     {
       "ID": "ACH_BOSS_OF_BOSSES",
@@ -2713,7 +2718,7 @@
       "Name": "Boss of Bosses",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "ACH_CLIPS_AND_CRITS",
@@ -2721,7 +2726,7 @@
       "Name": "Clips and Crits",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1476
+      "UsersEstimate": 1477
     },
     {
       "ID": "ACH_COUP_DETAT",
@@ -2729,7 +2734,7 @@
       "Name": "Coup d\u0027Etat",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 3891
+      "UsersEstimate": 3893
     },
     {
       "ID": "ACH_EVENT_HORIZON",
@@ -2753,7 +2758,7 @@
       "Name": "Field Medic",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2482
+      "UsersEstimate": 2483
     },
     {
       "ID": "ACH_GET_FURIOUS",
@@ -2761,7 +2766,7 @@
       "Name": "Get Furious",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 3690
+      "UsersEstimate": 3692
     },
     {
       "ID": "ACH_GET_IN_THE_RING",
@@ -2793,7 +2798,7 @@
       "Name": "Guardian Angel",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2148
     },
     {
       "ID": "ACH_GUNPLAY_AND_COSPLAY",
@@ -2801,7 +2806,7 @@
       "Name": "Gunplay And Cosplay",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 3690
+      "UsersEstimate": 3692
     },
     {
       "ID": "ACH_HACKS_IN_STACKS",
@@ -2809,7 +2814,7 @@
       "Name": "Hacks In Stacks",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3623
+      "UsersEstimate": 3624
     },
     {
       "ID": "ACH_HERE_COMES_A_NEW_CHALLENGER",
@@ -2817,7 +2822,7 @@
       "Name": "Here Comes a New Challenger",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2482
+      "UsersEstimate": 2483
     },
     {
       "ID": "ACH_IM_THE_PLUGGERNAUT",
@@ -2841,7 +2846,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 6105
+      "UsersEstimate": 6108
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -2849,7 +2854,7 @@
       "Name": "Light My Fire",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "ACH_MASTER_OF_ARMS",
@@ -2865,7 +2870,7 @@
       "Name": "Meching Enemies",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 3220
+      "UsersEstimate": 3222
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -2889,7 +2894,7 @@
       "Name": "No Chill",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ACH_PHOTOGENIC",
@@ -2897,7 +2902,7 @@
       "Name": "Photogenic",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 5904
+      "UsersEstimate": 5907
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -2905,7 +2910,7 @@
       "Name": "Playing With Power",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 5166
+      "UsersEstimate": 5168
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -2913,7 +2918,7 @@
       "Name": "Plug It In",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 5636
+      "UsersEstimate": 5638
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -2921,7 +2926,7 @@
       "Name": "Poppin Noggins",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1677
+      "UsersEstimate": 1678
     },
     {
       "ID": "ACH_PYROTECHNICAL",
@@ -2937,7 +2942,7 @@
       "Name": "Rapid Response",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2214
+      "UsersEstimate": 2215
     },
     {
       "ID": "ACH_RESCUE_RANGER",
@@ -2953,7 +2958,7 @@
       "Name": "Seasoned Adventurer",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "ACH_SHIELD_AND_SHRED",
@@ -2985,7 +2990,7 @@
       "Name": "Stop Hitting Yourself",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ACH_SURGE_AHEAD",
@@ -2993,7 +2998,7 @@
       "Name": "Surge Ahead",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 2013
+      "UsersEstimate": 2014
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_JOCKEY",
@@ -3001,7 +3006,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 5703
+      "UsersEstimate": 5705
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -3031,9 +3036,9 @@
       "ID": "ACH_THE_FINAL_BLOW",
       "SetID": "97mcd7i",
       "Name": "The Final Blow",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1006
+      "UsersEstimate": 940
     },
     {
       "ID": "ACH_THE_FULL_MONTY",
@@ -3041,7 +3046,7 @@
       "Name": "The Full Monty",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 2080
+      "UsersEstimate": 2081
     },
     {
       "ID": "ACH_THIS_IS_MY_BOOMSTICK",
@@ -3065,7 +3070,7 @@
       "Name": "Ticket Toddler",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 3086
+      "UsersEstimate": 3088
     },
     {
       "ID": "ACH_TO_BE_CONTINUED",
@@ -3089,22 +3094,22 @@
       "Name": "You\u0027re Fired",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 3891
+      "UsersEstimate": 3893
     }
   ],
   "AchievementSets": [
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 6709,
+      "Progressed": 6712,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-05-16T22:57:55.9778153+00:00",
-  "LastChanged_Achievements": "2023-05-26T10:02:11.7509911+00:00",
+  "LastChanged_Achievements": "2023-05-26T11:02:24.9741697+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:52.1541187+00:00",
-  "LastUpdate_Ratings": "2023-05-26T09:58:04.6005718+00:00",
-  "LastUpdate_Achievements": "2023-05-26T10:02:11.7511059+00:00"
+  "LastUpdate_Ratings": "2023-05-26T10:58:34.3149649+00:00",
+  "LastUpdate_Achievements": "2023-05-26T11:02:24.9742283+00:00"
 }

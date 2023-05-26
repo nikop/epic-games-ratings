@@ -17,10 +17,10 @@
 | BumBum | 41.00% | ~70 |
 | Blunga 10 | 39.00% | ~66 |
 | Onk Boga V | 38.00% | ~65 |
+| 1978 | 34.00% | ~58 |
 | Onk Boga VI | 34.00% | ~58 |
+| Onk Boga VII | 34.00% | ~58 |
 | IQ62 | 34.00% | ~58 |
-| 1978 | 33.00% | ~56 |
-| Onk Boga VII | 33.00% | ~56 |
 | ParaPara! | 31.00% | ~53 |
 | Onk Boga VIII | 31.00% | ~53 |
 | Onk Boga IX | 31.00% | ~53 |
@@ -33,7 +33,7 @@
 | Blunga 30 | 5.00% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 170 (Ranked 244)  
-Completed: 9 (5.29%) (Ranked 27)  
+Completed: 9 (5.29%) (Ranked 28)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
