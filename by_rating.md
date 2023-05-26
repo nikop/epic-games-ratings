@@ -126,7 +126,7 @@
 | 117 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,640 | 111 |
 | 117 | [Quake](games/q/quake.md) | 4.76 | 45 | 402 |
 | 117 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.76 | 0 | 491 |
-| 117 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 8,165 | 39 |
+| 117 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 8,203 | 39 |
 | 117 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.76 | 0 | 491 |
 | 117 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.76 | 328 | 215 |
 | 130 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 24 | 465 |
@@ -241,7 +241,7 @@
 | 236 | [Beyond Two Souls](games/b/beyond_two_souls.md) | 4.68 | 69 | 367 |
 | 236 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 491 |
 | 236 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 6,948 | 47 |
-| 236 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,281 | 60 |
+| 236 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,287 | 60 |
 | 236 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 296,706 | 3 |
 | 236 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 174,187 | 5 |
 | 236 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | 0 | 491 |

@@ -38,7 +38,7 @@
 | 36 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 9,134 | 4.61 | 357 |
 | 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 9,057 | 4.78 | 99 |
 | 38 | [Control](games/c/control.md) | 8,298 | 4.60 | 387 |
-| 39 | [SnowRunner](games/s/snowrunner.md) | 8,165 | 4.76 | 117 |
+| 39 | [SnowRunner](games/s/snowrunner.md) | 8,203 | 4.76 | 117 |
 | 40 | [Supraland](games/s/supraland.md) | 7,613 | 4.61 | 357 |
 | 41 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 7,566 | 4.85 | 39 |
 | 42 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,349 | 4.57 | 437 |
@@ -59,7 +59,7 @@
 | 57 | [Prey](games/p/prey.md) | 5,556 | 4.62 | 340 |
 | 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,509 | 4.82 | 63 |
 | 59 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,476 | 4.85 | 39 |
-| 60 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,281 | 4.68 | 236 |
+| 60 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 5,287 | 4.68 | 236 |
 | 61 | [DEATH STRANDING](games/d/death_stranding.md) | 5,113 | 4.77 | 106 |
 | 62 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 5,023 | 4.75 | 130 |
 | 63 | [Rogue Company](games/r/rogue_company.md) | 4,946 | 4.34 | 731 |
