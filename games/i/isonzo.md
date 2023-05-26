@@ -1,26 +1,26 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.57 (Ranked 437)  
+Rating: 4.57 (Ranked 438)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 54.00% | ~3,169 |
+| Peak Performance | 54.00% | ~3,170 |
 | Tutti Eroi! | 53.00% | ~3,111 |
 | You Shall Not Pass | 52.00% | ~3,052 |
 | Avanti Savoia! | 46.00% | ~2,700 |
 | Conrad von Hotzensocks | 35.00% | ~2,054 |
 | Mamma Mia! | 35.00% | ~2,054 |
 | Gabriele D'Annunzio | 32.00% | ~1,878 |
-| Silver Lining | 28.00% | ~1,643 |
+| Silver Lining | 28.00% | ~1,644 |
 | Aurelio Baruzzi | 22.00% | ~1,291 |
-| Veni Vidi Vici | 21.00% | ~1,232 |
+| Veni Vidi Vici | 21.00% | ~1,233 |
 | Decimation | 20.00% | ~1,174 |
 | Donatello | 20.00% | ~1,174 |
 | The Italian Job | 19.00% | ~1,115 |
-| Insubordination | 18.00% | ~1,056 |
-| The Lion of the Isonzo | 18.00% | ~1,056 |
+| Insubordination | 18.00% | ~1,057 |
+| The Lion of the Isonzo | 18.00% | ~1,057 |
 | Ragazzi del '99 | 17.00% | ~998 |
 | Thus With A Kiss | 15.00% | ~880 |
 | Dirty Dozen | 13.00% | ~763 |
@@ -37,8 +37,8 @@ Number of Ratings: 98  (23.09.2022)
 | Tosca | 8.00% | ~470 |
 | Generalissimo | 6.00% | ~352 |
 | The Enlightment | 6.00% | ~352 |
-| 12th Bottle of the Isonzo | 5.00% | ~293 |
-| Cercatore d'Oro | 5.00% | ~293 |
+| 12th Bottle of the Isonzo | 5.00% | ~294 |
+| Cercatore d'Oro | 5.00% | ~294 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~235 |
 | Ponte of No Return | 3.00% | ~176 |
 | Seeing Red | 3.00% | ~176 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~23 |
 | Can I Go Home Now? | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,869 (Ranked 120)  
+Progressed: 5,870 (Ranked 120)  
 Completed: 8 (0.14%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 8 (0.14%) (Ranked 151)
 | 2023-05-23 | 5,807 | 8 |
 | 2023-05-24 | 5,828 | 8 |
 | 2023-05-25 | 5,846 | 8 |
-| 2023-05-26 | 5,869 | 8 |
+| 2023-05-26 | 5,870 | 8 |
 ## Awards
 Max (Highly Recommended): 31  (Ranked 441)  
 Sum: 240 (Ranked 343)  

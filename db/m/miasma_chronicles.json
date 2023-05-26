@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 493,
+  "EOS_Progressed": 498,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 491,
+  "EOS_NewPlayers": 496,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -392,6 +392,11 @@
       "Time": "2023-05-26T21:06:05.3578963+00:00",
       "NumProgressed": 493,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T22:05:05.6193981+00:00",
+      "NumProgressed": 498,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -419,7 +424,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 284
     },
     {
       "ID": "ATTENBOROUGH",
@@ -483,7 +488,7 @@
       "Name": "Croaked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "CRUELTY",
@@ -515,7 +520,7 @@
       "Name": "Limp Richard",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -547,7 +552,7 @@
       "Name": "Editor Adept",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ENDGAME",
@@ -563,7 +568,7 @@
       "Name": "Exorcist",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "EXPERIENCED",
@@ -579,15 +584,15 @@
       "Name": "Firestarter",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "FIRST_BLOOD",
       "SetID": "9a4jnji",
       "Name": "First Blood",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 439
+      "UsersEstimate": 448
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -609,9 +614,9 @@
       "ID": "FROM_DARKNESS",
       "SetID": "9a4jnji",
       "Name": "From Darkness to Light",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 110
     },
     {
       "ID": "GIANT_KILLER",
@@ -635,7 +640,7 @@
       "Name": "Gun for Hire",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 249
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -649,9 +654,9 @@
       "ID": "IM_THE_LAW",
       "SetID": "9a4jnji",
       "Name": "I am the law!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 179
     },
     {
       "ID": "INFILTRATOR",
@@ -667,7 +672,7 @@
       "Name": "Lumberjack",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -707,15 +712,15 @@
       "Name": "Ranidaphobia",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 304
     },
     {
       "ID": "RECYCLER",
       "SetID": "9a4jnji",
       "Name": "Recycler",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 20
     },
     {
       "ID": "RUTHLESS",
@@ -769,9 +774,9 @@
       "ID": "TECHNOPHOBE",
       "SetID": "9a4jnji",
       "Name": "Technophobe",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 20
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -787,7 +792,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "THE_WATCHERS",
@@ -810,14 +815,14 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 493,
+      "Progressed": 498,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T20:58:17.8341975+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
-  "LastChanged_Achievements": "2023-05-26T21:06:05.3578955+00:00",
+  "LastChanged_Achievements": "2023-05-26T22:05:05.6193974+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:03.3888228+00:00",
-  "LastUpdate_Ratings": "2023-05-26T20:58:30.3960213+00:00",
-  "LastUpdate_Achievements": "2023-05-26T21:06:05.3579459+00:00"
+  "LastUpdate_Ratings": "2023-05-26T21:58:06.6536404+00:00",
+  "LastUpdate_Achievements": "2023-05-26T22:05:05.6194436+00:00"
 }

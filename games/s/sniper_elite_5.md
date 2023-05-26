@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.39 (Ranked 687)  
+Rating: 4.39 (Ranked 688)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,10 +10,10 @@ Rating: 4.39 (Ranked 687)
 | The Kraken Wakes | 10.00% | ~152 |
 | It's Starting to Crack | 8.00% | ~122 |
 | Lord of War | 7.00% | ~107 |
-| Resourceful | 6.00% | ~91 |
+| Resourceful | 6.00% | ~92 |
+| Change the Channel | 6.00% | ~92 |
 | Enemy at the Gates | 5.00% | ~76 |
 | Organ Grinder | 5.00% | ~76 |
-| Change the Channel | 5.00% | ~76 |
 | Just a Flesh Wound | 4.00% | ~61 |
 | Explosive Efficiency | 4.00% | ~61 |
 | As Quiet as a Mouse | 4.00% | ~61 |
@@ -40,12 +40,12 @@ Rating: 4.39 (Ranked 687)
 | My Little Friend | 0.80% | ~12 |
 | It'll Buff Right Out | 0.80% | ~12 |
 | Locomotion Commotion | 0.70% | ~11 |
+| Ghost of Falaise | 0.70% | ~10 |
 | Herr Today, Gone Tomorrow | 0.60% | ~9 |
 | Operation Foxley | 0.60% | ~9 |
-| Ghost of Falaise | 0.60% | ~9 |
+| Siegebreaker | 0.60% | ~9 |
 | Strategist | 0.50% | ~8 |
 | Last Resort | 0.50% | ~7 |
-| Siegebreaker | 0.50% | ~7 |
 | Tinkerer | 0.40% | ~6 |
 | From Paris with Love | 0.30% | ~5 |
 | Don't hold your breath | 0.30% | ~5 |
@@ -77,7 +77,7 @@ Rating: 4.39 (Ranked 687)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,523 (Ranked 156)  
+Progressed: 1,525 (Ranked 156)  
 Completed: 2 (0.13%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 2 (0.13%) (Ranked 154)
 | 2023-05-23 | 1,294 | 2 |
 | 2023-05-24 | 1,365 | 2 |
 | 2023-05-25 | 1,428 | 2 |
-| 2023-05-26 | 1,523 | 2 |
+| 2023-05-26 | 1,525 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

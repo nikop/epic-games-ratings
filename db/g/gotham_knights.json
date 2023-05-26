@@ -1250,7 +1250,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62203,
+  "EOS_Progressed": 62210,
   "EOS_Completed": 91,
   "EOS_NewPlayers": 1021,
   "EOS_NewCompleters": 0,
@@ -3895,6 +3895,11 @@
       "Time": "2023-05-26T21:06:43.5574636+00:00",
       "NumProgressed": 62203,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-26T22:05:38.3309577+00:00",
+      "NumProgressed": 62210,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3984,9 +3989,9 @@
       "ID": "ALL_VILLAIN",
       "SetID": "4eo5ebm",
       "Name": "End of an Era",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 311
+      "UsersEstimate": 373
     },
     {
       "ID": "APPLY_STATUS",
@@ -4393,13 +4398,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62203,
+      "Progressed": 62210,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32483,
+      "Progressed": 32490,
       "Completed": 2642
     }
   ],
@@ -4407,8 +4412,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-26T18:00:06.9487835+00:00",
-  "LastChanged_Achievements": "2023-05-26T21:06:43.5574628+00:00",
+  "LastChanged_Achievements": "2023-05-26T22:05:38.3309572+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-26T21:00:09.6513329+00:00",
-  "LastUpdate_Achievements": "2023-05-26T21:06:43.5575346+00:00"
+  "LastUpdate_Ratings": "2023-05-26T21:59:31.1488825+00:00",
+  "LastUpdate_Achievements": "2023-05-26T22:05:38.3310339+00:00"
 }

@@ -106,9 +106,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2166,
+  "EOS_Progressed": 2167,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1861,6 +1861,11 @@
       "Time": "2023-05-26T20:08:35.8897678+00:00",
       "NumProgressed": 2166,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-26T22:05:16.8128049+00:00",
+      "NumProgressed": 2167,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1920,7 +1925,7 @@
       "Name": "Elemental master",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -1936,7 +1941,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2058
+      "UsersEstimate": 2059
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1952,7 +1957,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1668
+      "UsersEstimate": 1669
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -1976,7 +1981,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -2006,9 +2011,9 @@
       "ID": "STB_DEFEAT_WISTERIA_I",
       "SetID": "3pe2bac",
       "Name": "Old friend",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 563
+      "UsersEstimate": 585
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -2048,15 +2053,15 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1624
+      "UsersEstimate": 1625
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "No more cages!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1971
+      "UsersEstimate": 1994
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2088,7 +2093,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1646
+      "UsersEstimate": 1647
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -2104,7 +2109,7 @@
       "Name": "Clarion Cove",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -2216,7 +2221,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -2262,9 +2267,9 @@
       "ID": "STB_UNLOCK_ALL_SLOTS_IMPROVEMENTS",
       "SetID": "3pe2bac",
       "Name": "Full equipped",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 368
+      "UsersEstimate": 390
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -2295,7 +2300,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2166,
+      "Progressed": 2167,
       "Completed": 1
     }
   ],
@@ -2303,8 +2308,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-24T18:57:33.1729645+00:00",
-  "LastChanged_Achievements": "2023-05-26T21:06:18.5491266+00:00",
+  "LastChanged_Achievements": "2023-05-26T22:05:16.8128043+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:28.2564478+00:00",
-  "LastUpdate_Ratings": "2023-05-26T20:57:38.8816419+00:00",
-  "LastUpdate_Achievements": "2023-05-26T21:06:18.5491837+00:00"
+  "LastUpdate_Ratings": "2023-05-26T21:57:26.7780102+00:00",
+  "LastUpdate_Achievements": "2023-05-26T22:05:16.812859+00:00"
 }

@@ -5,16 +5,16 @@ Rating: 4.28 (Ranked 773)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 20.00% | ~4,497 |
-| A Good Day To Die | 16.00% | ~3,598 |
-| Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~1,349 |
-| Right Back Atcha | 6.00% | ~1,349 |
-| Killed by Death | 5.00% | ~1,124 |
-| Kill 'Em All | 4.00% | ~899 |
+| Man 'O War | 20.00% | ~4,500 |
+| A Good Day To Die | 16.00% | ~3,600 |
+| Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~1,350 |
+| Right Back Atcha | 6.00% | ~1,350 |
+| Killed by Death | 5.00% | ~1,125 |
+| Kill 'Em All | 4.00% | ~900 |
 | Down Boy! | 2.00% | ~450 |
 | A Snowball's Chance in Hell | 2.00% | ~450 |
 | Enjoy The Silence | 1.00% | ~225 |
-| Sure Footed As A Goat | 0.90% | ~202 |
+| Sure Footed As A Goat | 0.90% | ~203 |
 | Thorn in My Herbicide | 0.80% | ~180 |
 | Backdoor Man | 0.80% | ~180 |
 | Death Becomes Her | 0.80% | ~180 |
@@ -28,14 +28,14 @@ Rating: 4.28 (Ranked 773)
 | Four Legged Friend | 0.40% | ~90 |
 | Ice To See You | 0.40% | ~90 |
 | Smack My Imp Up | 0.40% | ~90 |
-| Vroll With It | 0.30% | ~67 |
-| Swift of Foot, Keen of Blade | 0.30% | ~67 |
+| Vroll With It | 0.30% | ~68 |
+| Swift of Foot, Keen of Blade | 0.30% | ~68 |
 | Flame Retardant | 0.20% | ~45 |
 | Death or Glory | 0.20% | ~45 |
 | Too Metal For Magic | 0.10% | ~22 |
 | Heart Of Steel | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,487 (Ranked 91)  
+Progressed: 22,500 (Ranked 91)  
 Completed: 18 (0.08%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 18 (0.08%) (Ranked 166)
 | 2023-05-23 | 22,027 | 18 |
 | 2023-05-24 | 22,161 | 18 |
 | 2023-05-25 | 22,301 | 18 |
-| 2023-05-26 | 22,487 | 18 |
+| 2023-05-26 | 22,500 | 18 |
 ## Awards
 Max (Great Boss Battles): 125  (Ranked 301)  
 Sum: 125 (Ranked 388)  

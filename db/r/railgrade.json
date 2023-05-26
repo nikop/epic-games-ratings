@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 273,
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-09-29T14:00:00+00:00",
@@ -420,9 +420,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 18669,
+  "EOS_Progressed": 18670,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -1920,6 +1920,11 @@
       "Time": "2023-05-26T21:06:23.2030543+00:00",
       "NumProgressed": 18669,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-05-26T22:05:20.691359+00:00",
+      "NumProgressed": 18670,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 37,
@@ -1963,7 +1968,7 @@
       "Name": "Builder",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 15495
+      "UsersEstimate": 15496
     },
     {
       "ID": "ach.060.goingdistance",
@@ -1971,7 +1976,7 @@
       "Name": "Going the Distance",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 10081
+      "UsersEstimate": 10082
     },
     {
       "ID": "ach.070.8kenough",
@@ -1987,7 +1992,7 @@
       "Name": "Eraser",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 13068
+      "UsersEstimate": 13069
     },
     {
       "ID": "ach.090.perfectionist",
@@ -2027,7 +2032,7 @@
       "Name": "Minimalist",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 16802
+      "UsersEstimate": 16803
     },
     {
       "ID": "ach.140.legacy",
@@ -2035,7 +2040,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 98,
       "XP": 60,
-      "UsersEstimate": 18296
+      "UsersEstimate": 18297
     },
     {
       "ID": "ach.150.pocket",
@@ -2043,7 +2048,7 @@
       "Name": "Pocket of Trains",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 12135
+      "UsersEstimate": 12136
     },
     {
       "ID": "ach.160.box",
@@ -2123,7 +2128,7 @@
       "Name": "Before the Downfall",
       "Percentage": 93,
       "XP": 60,
-      "UsersEstimate": 17362
+      "UsersEstimate": 17363
     },
     {
       "ID": "ach.260.investor",
@@ -2179,7 +2184,7 @@
       "Name": "Industrialist",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 4667
+      "UsersEstimate": 4668
     },
     {
       "ID": "ach.330.water",
@@ -2187,7 +2192,7 @@
       "Name": "Money like Water",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 16989
+      "UsersEstimate": 16990
     },
     {
       "ID": "ach.340.steel",
@@ -2226,7 +2231,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 18669,
+      "Progressed": 18670,
       "Completed": 29
     }
   ],
@@ -2234,8 +2239,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-05-26T07:59:40.2491546+00:00",
-  "LastChanged_Achievements": "2023-05-26T21:06:23.2030534+00:00",
+  "LastChanged_Achievements": "2023-05-26T22:05:20.6913584+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:52.3008567+00:00",
-  "LastUpdate_Ratings": "2023-05-26T20:59:39.7089435+00:00",
-  "LastUpdate_Achievements": "2023-05-26T21:06:23.203087+00:00"
+  "LastUpdate_Ratings": "2023-05-26T21:59:08.0636753+00:00",
+  "LastUpdate_Achievements": "2023-05-26T22:05:20.6913961+00:00"
 }

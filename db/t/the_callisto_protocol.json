@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -428,9 +428,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13715,
+  "EOS_Progressed": 13725,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 895,
+  "EOS_NewPlayers": 891,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1673,6 +1673,11 @@
       "Time": "2023-05-26T21:03:40.2665164+00:00",
       "NumProgressed": 13715,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-26T22:03:13.7446458+00:00",
+      "NumProgressed": 13725,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -1708,7 +1713,7 @@
       "Name": "You Need a Gun",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "DISARM_ENEMY",
@@ -1716,7 +1721,7 @@
       "Name": "Flesh Wound",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -1764,7 +1769,7 @@
       "Name": "Recidivist",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "FINISH_GAME_HARDCORE_PLUS",
@@ -1772,7 +1777,7 @@
       "Name": "Lifer",
       "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "FINISH_NEW_GAME_PLUS",
@@ -1780,7 +1785,7 @@
       "Name": "Parole Denied",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -1794,9 +1799,9 @@
       "ID": "GRP_MELEE_KILL",
       "SetID": "4hj6d86",
       "Name": "In Striking Distance",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 110
+      "UsersEstimate": 124
     },
     {
       "ID": "KILL_2HEAD",
@@ -1828,7 +1833,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -1844,7 +1849,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -1852,15 +1857,15 @@
       "Name": "Reforged",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "PRINT_WEAPON",
       "SetID": "4hj6d86",
       "Name": "Paper Jams",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 411
+      "UsersEstimate": 549
     },
     {
       "ID": "SHARE_PHOTO",
@@ -1884,7 +1889,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "STORY_HABITAT",
@@ -1940,7 +1945,7 @@
       "Name": "Power Up",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "DISMEMBER_100",
@@ -1972,7 +1977,7 @@
       "Name": "Bear Trap",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -1980,7 +1985,7 @@
       "Name": "Hoard Mode",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "RIOT_10_POWERUPS",
@@ -2003,13 +2008,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13715,
+      "Progressed": 13725,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1641,
+      "Progressed": 1651,
       "Completed": 29
     }
   ],
@@ -2017,8 +2022,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-23T19:57:59.4143533+00:00",
-  "LastChanged_Achievements": "2023-05-26T21:03:40.2665155+00:00",
+  "LastChanged_Achievements": "2023-05-26T22:03:13.7446453+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-26T20:57:54.7601137+00:00",
-  "LastUpdate_Achievements": "2023-05-26T21:03:40.266556+00:00"
+  "LastUpdate_Ratings": "2023-05-26T21:57:38.7625237+00:00",
+  "LastUpdate_Achievements": "2023-05-26T22:03:13.7446848+00:00"
 }

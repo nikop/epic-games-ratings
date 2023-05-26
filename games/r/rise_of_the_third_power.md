@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Overpowered | 80.00% | ~98 |
+| Overpowered | 81.00% | ~100 |
 | Side Job | 76.00% | ~93 |
 | Bloodlust | 55.00% | ~68 |
 | Gettin' It Done | 53.00% | ~65 |

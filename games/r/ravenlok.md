@@ -8,7 +8,7 @@
 | Waff! | 94.00% | ~816 |
 | Into the Barn | 86.00% | ~746 |
 | A Prophecy | 84.00% | ~729 |
-| Sword, Shield, Fight! | 74.00% | ~642 |
+| Sword, Shield, Fight! | 75.00% | ~651 |
 | A Grand Visit | 71.00% | ~616 |
 | Vibing | 61.00% | ~529 |
 | Fun Guy | 61.00% | ~529 |
@@ -31,8 +31,8 @@
 | Frog Facts! | 35.00% | ~304 |
 | All That Glistens | 35.00% | ~304 |
 | It's Pointy! | 35.00% | ~304 |
+| Spellbound | 34.00% | ~295 |
 | All Skilled Up! | 34.00% | ~295 |
-| Spellbound | 33.00% | ~286 |
 | Extinct Again! | 32.00% | ~278 |
 | Bird of Prey | 32.00% | ~278 |
 | Stardust | 32.00% | ~278 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 35,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -28,7 +28,7 @@
   "Tags": [],
   "EOS_Progressed": 851,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 4,
   "EosHistory": [
@@ -608,9 +608,9 @@
       "ID": "ACH_DEEPLISTENER",
       "SetID": "7pam6gn",
       "Name": "Deep Listener",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 221
+      "UsersEstimate": 230
     },
     {
       "ID": "ACH_DREAMLISTENER",
@@ -737,8 +737,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-05-26T21:06:10.1149276+00:00",
+  "LastChanged_Achievements": "2023-05-26T22:05:09.6096061+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:18.3142968+00:00",
-  "LastUpdate_Ratings": "2023-05-26T20:58:51.0537866+00:00",
-  "LastUpdate_Achievements": "2023-05-26T21:06:10.1149426+00:00"
+  "LastUpdate_Ratings": "2023-05-26T21:58:22.9312512+00:00",
+  "LastUpdate_Achievements": "2023-05-26T22:05:09.6096222+00:00"
 }

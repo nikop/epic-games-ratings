@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 24,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2023-05-04T00:00:00+00:00",
     "PcReleaseDate": "2023-05-04T00:00:00+00:00",
@@ -1840,9 +1840,9 @@
       "ID": "12",
       "SetID": "d0g98p",
       "Name": "Spellbound",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 286
+      "UsersEstimate": 295
     },
     {
       "ID": "13",
@@ -1976,9 +1976,9 @@
       "ID": "28",
       "SetID": "d0g98p",
       "Name": "Sword, Shield, Fight!",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 642
+      "UsersEstimate": 651
     },
     {
       "ID": "29",
@@ -2225,8 +2225,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-26T21:06:07.6129343+00:00",
+  "LastChanged_Achievements": "2023-05-26T22:05:07.5360456+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:18.6778974+00:00",
-  "LastUpdate_Ratings": "2023-05-26T20:57:27.64605+00:00",
-  "LastUpdate_Achievements": "2023-05-26T21:06:07.6129814+00:00"
+  "LastUpdate_Ratings": "2023-05-26T21:57:14.8792904+00:00",
+  "LastUpdate_Achievements": "2023-05-26T22:05:07.5360987+00:00"
 }

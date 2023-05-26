@@ -2,9 +2,9 @@
   "ID": "8f412f068bf3470699726398816663a1",
   "Name": "Cafe Owner Simulator",
   "ProductSlug": "cafe-owner-simulator-749e0f",
-  "Ranking_EOS_Progress": 199,
+  "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 415,
+  "EOS_Progressed": 418,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -733,6 +733,11 @@
       "Time": "2023-05-26T21:06:18.2308732+00:00",
       "NumProgressed": 415,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T22:05:16.3732795+00:00",
+      "NumProgressed": 418,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -744,7 +749,7 @@
       "Name": "ADVANCED",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "BUSINESS_OWNER",
@@ -752,7 +757,7 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 407
+      "UsersEstimate": 410
     },
     {
       "ID": "CHIEF",
@@ -768,7 +773,7 @@
       "Name": "CLEANER",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 386
+      "UsersEstimate": 389
     },
     {
       "ID": "DEBTOR",
@@ -776,7 +781,7 @@
       "Name": "DEBTOR",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "FIREFIGHTER",
@@ -784,7 +789,7 @@
       "Name": "FIREFIGHTER",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "FIRST_100K",
@@ -808,7 +813,7 @@
       "Name": "OH NO, HE\u0027S LEAVING!",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 309
     },
     {
       "ID": "INTRODUCTION",
@@ -832,7 +837,7 @@
       "Name": "SUCCESSFUL",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "THINGS_ARE_GOING_WELL",
@@ -848,14 +853,14 @@
       "Name": "YETTI",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     }
   ],
   "AchievementSets": [
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 415,
+      "Progressed": 418,
       "Completed": 0
     }
   ],
@@ -863,8 +868,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2023-05-26T21:06:18.2308722+00:00",
+  "LastChanged_Achievements": "2023-05-26T22:05:16.373279+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:57.0876906+00:00",
-  "LastUpdate_Ratings": "2023-05-26T20:59:45.7314563+00:00",
-  "LastUpdate_Achievements": "2023-05-26T21:06:18.2308881+00:00"
+  "LastUpdate_Ratings": "2023-05-26T21:59:14.3239164+00:00",
+  "LastUpdate_Achievements": "2023-05-26T22:05:16.3732963+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -208,9 +208,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22721,
+  "EOS_Progressed": 22722,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -923,6 +923,11 @@
       "Time": "2023-05-26T20:06:57.054167+00:00",
       "NumProgressed": 22721,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-26T22:03:37.7920546+00:00",
+      "NumProgressed": 22722,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -950,7 +955,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 17495
+      "UsersEstimate": 17496
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -998,7 +1003,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 17268
+      "UsersEstimate": 17269
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -1038,7 +1043,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 18858
+      "UsersEstimate": 18859
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -1054,7 +1059,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 12951
+      "UsersEstimate": 12952
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -1062,7 +1067,7 @@
       "Name": "First Bounty Down",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 13405
+      "UsersEstimate": 13406
     },
     {
       "ID": "ACH_KILL_DOUGLAS",
@@ -1118,7 +1123,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 16586
+      "UsersEstimate": 16587
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -1134,7 +1139,7 @@
       "Name": "Gunning For Your Job",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1590
+      "UsersEstimate": 1591
     },
     {
       "ID": "ACH_MOVIE_THEATER",
@@ -1150,7 +1155,7 @@
       "Name": "Seeing All The Sights",
       "Percentage": 16,
       "XP": 45,
-      "UsersEstimate": 3635
+      "UsersEstimate": 3636
     },
     {
       "ID": "ACH_NIPULON_JOKE",
@@ -1189,22 +1194,22 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22721,
+      "Progressed": 22722,
       "Completed": 8
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 14,
-      "Completed": 14
+      "Progressed": 15,
+      "Completed": 15
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-05-18T06:57:32.9581513+00:00",
-  "LastChanged_Achievements": "2023-05-26T21:04:19.5379399+00:00",
+  "LastChanged_Achievements": "2023-05-26T22:03:37.7920541+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:45.9981946+00:00",
-  "LastUpdate_Ratings": "2023-05-26T20:58:09.7393877+00:00",
-  "LastUpdate_Achievements": "2023-05-26T21:04:19.5379687+00:00"
+  "LastUpdate_Ratings": "2023-05-26T21:57:46.2391838+00:00",
+  "LastUpdate_Achievements": "2023-05-26T22:03:37.7920832+00:00"
 }

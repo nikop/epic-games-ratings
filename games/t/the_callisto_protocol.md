@@ -5,37 +5,37 @@ Rating: 4.18 (Ranked 831)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 7.00% | ~960 |
+| Flesh Wound | 7.00% | ~961 |
 | Giving Back | 5.00% | ~686 |
 | Chew 'Em Up | 5.00% | ~686 |
 | The Outer Way | 5.00% | ~686 |
+| Paper Jams | 4.00% | ~549 |
 | Desperate Times | 4.00% | ~549 |
 | Instigator | 4.00% | ~66 |
 | Big Game Hunter | 4.00% | ~66 |
-| Workplace Hazard | 3.00% | ~411 |
-| Float Like A Butterfly | 3.00% | ~411 |
-| Reforged | 3.00% | ~411 |
-| Paper Jams | 3.00% | ~411 |
-| If the SHU Fits... | 3.00% | ~411 |
-| Bear Trap | 3.00% | ~49 |
+| Workplace Hazard | 3.00% | ~412 |
+| Float Like A Butterfly | 3.00% | ~412 |
+| Reforged | 3.00% | ~412 |
+| If the SHU Fits... | 3.00% | ~412 |
+| Bear Trap | 3.00% | ~50 |
 | Get a Grip | 2.00% | ~274 |
 | Terminated | 2.00% | ~274 |
 | The Commonality | 2.00% | ~274 |
 | Mugshot | 2.00% | ~274 |
 | Without A Paddle | 2.00% | ~274 |
 | Big Spender | 2.00% | ~33 |
-| Parole Denied | 1.00% | ~16 |
+| Parole Denied | 1.00% | ~17 |
 | Two Heads Are Better Than One | 1.00% | ~137 |
 | In the Pipe, Five by Five | 1.00% | ~137 |
 | Crash Site | 1.00% | ~137 |
-| Hoard Mode | 1.00% | ~16 |
-| You Need a Gun | 0.90% | ~123 |
-| Power Up | 0.90% | ~123 |
-| In Striking Distance | 0.80% | ~110 |
+| Hoard Mode | 1.00% | ~17 |
+| You Need a Gun | 0.90% | ~124 |
+| In Striking Distance | 0.90% | ~124 |
+| Power Up | 0.90% | ~124 |
 | What Lies Beneath | 0.80% | ~110 |
 | Full Circle | 0.80% | ~110 |
-| Recidivist | 0.70% | ~11 |
-| Lifer | 0.70% | ~11 |
+| Recidivist | 0.70% | ~12 |
+| Lifer | 0.70% | ~12 |
 | I Do Belong Here | 0.60% | ~82 |
 | Grim Reaper | 0.30% | ~41 |
 | It's over, Jacob! | 0.10% | ~14 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 831)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,715 (Ranked 102)  
+Progressed: 13,725 (Ranked 102)  
 Completed: 53 (0.39%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 53 (0.39%) (Ranked 113)
 | 2023-05-23 | 13,444 | 52 |
 | 2023-05-24 | 13,523 | 52 |
 | 2023-05-25 | 13,610 | 52 |
-| 2023-05-26 | 13,715 | 53 |
+| 2023-05-26 | 13,725 | 53 |
 ## Awards
 Max (Highly Recommended): 46  (Ranked 398)  
 Sum: 267 (Ranked 335)  

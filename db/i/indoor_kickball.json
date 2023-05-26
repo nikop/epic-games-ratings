@@ -2,9 +2,9 @@
   "ID": "966985c3df584749946cdae64509bb85",
   "Name": "Indoor Kickball",
   "ProductSlug": "indoor-kickball-843529",
-  "Ranking_EOS_Progress": 373,
+  "Ranking_EOS_Progress": 362,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-26T19:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -39,6 +39,11 @@
       "Time": "2023-05-26T21:06:13.9541157+00:00",
       "NumProgressed": 3,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T22:05:12.8384321+00:00",
+      "NumProgressed": 5,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -48,7 +53,7 @@
       "ID": "1",
       "SetID": "39djiaj",
       "Name": "First Win",
-      "Percentage": 67,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -56,31 +61,31 @@
       "ID": "10",
       "SetID": "39djiaj",
       "Name": "Character Unlocked",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "11",
       "SetID": "39djiaj",
       "Name": "Hat Unlocked",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "12",
       "SetID": "39djiaj",
       "Name": "Accessory Unlocked",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "13",
       "SetID": "39djiaj",
       "Name": "Kickball Unlocked",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -120,7 +125,7 @@
       "ID": "18",
       "SetID": "39djiaj",
       "Name": "Bedroom Secret Spot",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -136,7 +141,7 @@
       "ID": "2",
       "SetID": "39djiaj",
       "Name": "Homer",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -272,7 +277,7 @@
       "ID": "35",
       "SetID": "39djiaj",
       "Name": "Butter Fingers",
-      "Percentage": 33,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -288,9 +293,9 @@
       "ID": "38",
       "SetID": "39djiaj",
       "Name": "Have a good trip!",
-      "Percentage": 33,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "39",
@@ -369,13 +374,13 @@
     {
       "ID": "39djiaj",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 5,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:07.9162458+00:00",
-  "LastChanged_Achievements": "2023-05-26T21:06:13.9541147+00:00",
+  "LastChanged_Achievements": "2023-05-26T22:05:12.8384316+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:44.6842316+00:00",
-  "LastUpdate_Ratings": "2023-05-26T20:59:29.1022096+00:00",
-  "LastUpdate_Achievements": "2023-05-26T21:06:13.9541461+00:00"
+  "LastUpdate_Ratings": "2023-05-26T21:58:59.0852117+00:00",
+  "LastUpdate_Achievements": "2023-05-26T22:05:12.8384625+00:00"
 }
