@@ -8,7 +8,7 @@
 | 6 | [Doodle Devil](games/d/doodle_devil.md) | 20.27% |
 | 7 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
 | 8 | [Island Cities](games/i/island_cities.md) | 16.27% |
-| 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 13.33% |
+| 9 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 12.50% |
 | 10 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.34% |
 | 11 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.03% |
 | 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.71% |
@@ -29,12 +29,12 @@
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.33% |
 | 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.02% |
 | 29 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.98% |
-| 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.81% |
+| 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.91% |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 32 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.32% |
 | 33 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.26% |
 | 34 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.03% |
-| 35 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.00% |
+| 35 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.92% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
 | 37 | [Doodle God](games/d/doodle_god.md) | 3.86% |
 | 38 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
@@ -56,7 +56,7 @@
 | 54 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.50% |
 | 54 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 56 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.44% |
-| 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.41% |
+| 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.38% |
 | 58 | [JARS](games/j/jars.md) | 2.33% |
 | 59 | [Iron Danger](games/i/iron_danger.md) | 2.30% |
 | 60 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.15% |
@@ -90,9 +90,9 @@
 | 88 | [Dungeons 3](games/d/dungeons_3.md) | 0.89% |
 | 88 | [Hades](games/h/hades.md) | 0.89% |
 | 90 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
-| 91 | [Adios](games/a/adios.md) | 0.82% |
-| 91 | [Lemon Cake](games/l/lemon_cake.md) | 0.82% |
-| 91 | [Them and Us](games/t/them_and_us.md) | 0.82% |
+| 91 | [Adios](games/a/adios.md) | 0.83% |
+| 92 | [Lemon Cake](games/l/lemon_cake.md) | 0.82% |
+| 92 | [Them and Us](games/t/them_and_us.md) | 0.82% |
 | 94 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.81% |
 | 95 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.80% |
 | 96 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.79% |
