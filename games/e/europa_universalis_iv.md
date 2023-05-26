@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,962 |
-| That's a Grand Army | 8.00% | ~3,522 |
-| That is mine! | 8.00% | ~3,522 |
-| Victorious! | 8.00% | ~3,522 |
-| Brothers in Arms | 6.00% | ~2,642 |
-| That's a Grand Navy | 6.00% | ~2,642 |
-| Seriously?! | 6.00% | ~2,642 |
-| For the Glory | 5.00% | ~2,201 |
-| Cold War | 4.00% | ~1,761 |
-| True Catholic | 4.00% | ~1,761 |
-| Defender of the Faith | 3.00% | ~1,321 |
-| It's all about the money | 3.00% | ~1,321 |
-| Respected | 3.00% | ~1,321 |
-| Truly Divine Ruler | 3.00% | ~1,321 |
+| Until death do us apart | 9.00% | ~3,966 |
+| That's a Grand Army | 8.00% | ~3,525 |
+| That is mine! | 8.00% | ~3,525 |
+| Victorious! | 8.00% | ~3,525 |
+| Brothers in Arms | 6.00% | ~2,644 |
+| That's a Grand Navy | 6.00% | ~2,644 |
+| Seriously?! | 6.00% | ~2,644 |
+| For the Glory | 5.00% | ~2,203 |
+| Cold War | 4.00% | ~1,762 |
+| True Catholic | 4.00% | ~1,762 |
+| Defender of the Faith | 3.00% | ~1,322 |
+| It's all about the money | 3.00% | ~1,322 |
+| Respected | 3.00% | ~1,322 |
+| Truly Divine Ruler | 3.00% | ~1,322 |
 | Agressive Expander | 2.00% | ~881 |
 | Blockader | 2.00% | ~881 |
 | Combined Arms | 2.00% | ~881 |
@@ -30,15 +30,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | Royal Authority | 2.00% | ~881 |
 | The Princess is in this Castle | 2.00% | ~881 |
 | Total Control | 2.00% | ~881 |
-| All That's Thine Shall Be Mine | 1.00% | ~440 |
-| Azur semé de lis or | 1.00% | ~440 |
-| Bright Spark | 1.00% | ~440 |
-| City of Cities | 1.00% | ~440 |
-| Factionalism | 1.00% | ~440 |
-| A Golden Empire | 1.00% | ~440 |
-| My armies are invincible! | 1.00% | ~440 |
-| The Five Colonies | 0.90% | ~396 |
-| This navy can take it all | 0.90% | ~396 |
+| All That's Thine Shall Be Mine | 1.00% | ~441 |
+| Azur semé de lis or | 1.00% | ~441 |
+| Bright Spark | 1.00% | ~441 |
+| City of Cities | 1.00% | ~441 |
+| Factionalism | 1.00% | ~441 |
+| A Golden Empire | 1.00% | ~441 |
+| My armies are invincible! | 1.00% | ~441 |
+| The Five Colonies | 0.90% | ~397 |
+| This navy can take it all | 0.90% | ~397 |
 | The Emperors new clothes | 0.80% | ~352 |
 | Isn't this the way to India? | 0.80% | ~352 |
 | Market Control | 0.80% | ~352 |
@@ -55,6 +55,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | This is My Faith | 0.50% | ~220 |
 | Absolutely | 0.40% | ~176 |
 | Dude, Where's my Boat? | 0.40% | ~176 |
+| Grand Coalition | 0.40% | ~176 |
 | In the Name of the Father | 0.40% | ~176 |
 | Live Long and Prosper | 0.40% | ~176 |
 | One Night in Paris | 0.40% | ~176 |
@@ -67,7 +68,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Bleed Them Dry | 0.30% | ~132 |
 | Four For Trade | 0.30% | ~132 |
 | Global Hegemony | 0.30% | ~132 |
-| Grand Coalition | 0.30% | ~132 |
 | Grand Duchy | 0.30% | ~132 |
 | Italian Ambition | 0.30% | ~132 |
 | Just a Little Patience | 0.30% | ~132 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,026 (Ranked 79)  
+Progressed: 44,062 (Ranked 79)  
 Completed: 0 (0.00%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -397,7 +397,7 @@ Completed: 0 (0.00%) (Ranked 203)
 | 2023-05-23 | 42,594 | 0 |
 | 2023-05-24 | 43,149 | 0 |
 | 2023-05-25 | 43,718 | 0 |
-| 2023-05-26 | 44,026 | 0 |
+| 2023-05-26 | 44,062 | 0 |
 ## Awards
 Max (Educational): 5,287  (Ranked 60)  
 Sum: 43,768 (Ranked 27)  

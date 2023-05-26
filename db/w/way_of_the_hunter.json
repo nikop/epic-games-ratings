@@ -4,8 +4,8 @@
   "ProductSlug": "way-of-the-hunter",
   "Ranking_Rating": 723,
   "Ranking_Popularity": 413,
-  "Ranking_PopularitySum": 344,
-  "Ranking_EOS_Progress": 422,
+  "Ranking_PopularitySum": 341,
+  "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 86,
@@ -620,10 +620,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 233,
       "NumberOfAwardsMax": 39
+    },
+    {
+      "Time": "2023-05-26T15:00:05.8087546+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 253,
+      "NumberOfAwardsMax": 39
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 233,
+  "NumberOfAwards": 253,
   "NumberOfAwardsMax": 39,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -692,6 +698,12 @@
       "Prefix": "This game has",
       "Type": "Challenging Combat",
       "Count": 20
+    },
+    {
+      "Text": "This game is Educational",
+      "Prefix": "This game is",
+      "Type": "Educational",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -706,8 +718,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-22T17:32:55.4881061+00:00",
   "FirstSeenRating": "2022-08-25T19:31:36.42786+00:00",
-  "LastChanged": "2023-05-25T20:58:44.1468799+00:00",
+  "LastChanged": "2023-05-26T15:00:05.8087544+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:17.8725613+00:00",
-  "LastUpdate_Ratings": "2023-05-26T13:59:28.6056613+00:00",
-  "LastUpdate_Achievements": "2023-05-26T14:04:53.0719217+00:00"
+  "LastUpdate_Ratings": "2023-05-26T15:00:05.8087548+00:00",
+  "LastUpdate_Achievements": "2023-05-26T15:05:31.8281674+00:00"
 }

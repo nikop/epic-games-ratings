@@ -212,9 +212,9 @@
       "ID": "Mirror",
       "SetID": "9kk0gal",
       "Name": "Egghead Lucy",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 113
+      "UsersEstimate": 115
     },
     {
       "ID": "Offroad",
@@ -309,8 +309,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-05-26T14:06:29.3879616+00:00",
+  "LastChanged_Achievements": "2023-05-26T15:07:32.3615878+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:12:13.9596608+00:00",
-  "LastUpdate_Ratings": "2023-05-26T14:00:49.6500797+00:00",
-  "LastUpdate_Achievements": "2023-05-26T14:06:29.3879807+00:00"
+  "LastUpdate_Ratings": "2023-05-26T15:01:36.9210839+00:00",
+  "LastUpdate_Achievements": "2023-05-26T15:07:32.3616078+00:00"
 }

@@ -5,10 +5,10 @@ Rating: 4.55 (Ranked 468)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 8.00% | ~173 |
-| Without Breaking Some Eggs... | 7.00% | ~151 |
-| Infinite Growth... | 7.00% | ~151 |
-| Sputnik 2049 | 7.00% | ~151 |
+| Wakey Wakey | 9.00% | ~195 |
+| Sputnik 2049 | 8.00% | ~173 |
+| Without Breaking Some Eggs... | 7.00% | ~152 |
+| Infinite Growth... | 7.00% | ~152 |
 | Space Society | 4.00% | ~87 |
 | A Thousand Strong | 4.00% | ~87 |
 | Ready for a New World | 4.00% | ~87 |
@@ -30,7 +30,7 @@ Rating: 4.55 (Ranked 468)
 | Necessary Enhancement | 1.00% | ~22 |
 | Convenient Transport | 1.00% | ~22 |
 | From the Past | 1.00% | ~22 |
-| BRAWL! | 0.90% | ~19 |
+| BRAWL! | 0.90% | ~20 |
 | In Dolos We Trust | 0.80% | ~17 |
 | All in Good Health | 0.80% | ~17 |
 | What They Hide From Us | 0.70% | ~15 |
@@ -44,7 +44,7 @@ Rating: 4.55 (Ranked 468)
 | Space Greenhouse | 0.50% | ~11 |
 | What the Ruins Teach Us | 0.50% | ~11 |
 | Help of the Forgotten Member | 0.40% | ~9 |
-| Mutual Loyalty | 0.30% | ~6 |
+| Mutual Loyalty | 0.30% | ~7 |
 | Better Him Than Me | 0.20% | ~4 |
 | Tiqqun Contender | 0.20% | ~4 |
 | Catastrophe Avoided | 0.20% | ~4 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 468)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,164 (Ranked 144)  
+Progressed: 2,167 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 0 (0.00%) (Ranked 203)
 | 2023-05-23 | 2,115 | 0 |
 | 2023-05-24 | 2,134 | 0 |
 | 2023-05-25 | 2,154 | 0 |
-| 2023-05-26 | 2,164 | 0 |
+| 2023-05-26 | 2,167 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

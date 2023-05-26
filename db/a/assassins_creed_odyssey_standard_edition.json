@@ -2,10 +2,10 @@
   "ID": "clary",
   "Name": "Assassins Creed Odyssey Standard Edition",
   "ProductSlug": "assassins-creed-odyssey",
-  "Ranking_Rating": 130,
+  "Ranking_Rating": 131,
   "Ranking_Popularity": 62,
   "Ranking_PopularitySum": 70,
-  "Ranking_EOS_Progress": 422,
+  "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 86,
@@ -4341,10 +4341,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 12203,
       "NumberOfAwardsMax": 5023
+    },
+    {
+      "Time": "2023-05-26T15:00:48.4367675+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 12204,
+      "NumberOfAwardsMax": 5023
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12203,
+  "NumberOfAwards": 12204,
   "NumberOfAwardsMax": 5023,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4376,7 +4382,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 417
+      "Count": 418
     },
     {
       "Text": "This game is Great for Beginners",
@@ -4444,8 +4450,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
-  "LastChanged": "2023-05-26T09:00:36.4749418+00:00",
+  "LastChanged": "2023-05-26T15:00:48.4367673+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:00.2075852+00:00",
-  "LastUpdate_Ratings": "2023-05-26T14:00:03.4615605+00:00",
-  "LastUpdate_Achievements": "2023-05-26T14:05:06.2672459+00:00"
+  "LastUpdate_Ratings": "2023-05-26T15:00:48.4367681+00:00",
+  "LastUpdate_Achievements": "2023-05-26T15:05:47.3243719+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 239,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 312,
+  "EOS_Progressed": 313,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -126,6 +126,11 @@
       "Time": "2023-05-26T09:03:26.9394971+00:00",
       "NumProgressed": 312,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-26T15:03:26.4503113+00:00",
+      "NumProgressed": 313,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -153,7 +158,7 @@
       "Name": "Fore!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "CATAPULT_THROW",
@@ -191,9 +196,9 @@
       "ID": "COLLECT_500_COIN",
       "SetID": "20koof9",
       "Name": "High Roller",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 38
     },
     {
       "ID": "COLLECT_ALL_CARS",
@@ -223,9 +228,9 @@
       "ID": "DRIFT_500M",
       "SetID": "20koof9",
       "Name": "Drift King!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 59
     },
     {
       "ID": "FIND_40_M2H",
@@ -241,7 +246,7 @@
       "Name": "My Precious",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "FIND_THE_GAP",
@@ -273,7 +278,7 @@
       "Name": "Apprentice Mechanic",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "FULLY_LEVEL_ALL_CARS",
@@ -297,7 +302,7 @@
       "Name": "433 Eros",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "HIGH_COMBO_SCORE",
@@ -345,7 +350,7 @@
       "Name": "Insurance fraud",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "HIT_FLYING_UFO",
@@ -369,7 +374,7 @@
       "Name": "Best Friends!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "KING_CROWN",
@@ -409,15 +414,15 @@
       "Name": "Snow Fun!",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "LOADED_LVL_TANK",
       "SetID": "20koof9",
       "Name": "Feeling Hot Hot Hot!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 59
     },
     {
       "ID": "MAX_MULTIPLIER",
@@ -433,7 +438,7 @@
       "Name": "One Million Dollars!",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "REACH_TANKBATTLE_LEVEL_10",
@@ -576,7 +581,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 312,
+      "Progressed": 313,
       "Completed": 2
     }
   ],
@@ -584,8 +589,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-05-26T14:03:11.9830014+00:00",
+  "LastChanged_Achievements": "2023-05-26T15:03:26.4503107+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:24.363984+00:00",
-  "LastUpdate_Ratings": "2023-05-26T13:59:12.2745268+00:00",
-  "LastUpdate_Achievements": "2023-05-26T14:03:11.9830411+00:00"
+  "LastUpdate_Ratings": "2023-05-26T14:59:43.9450757+00:00",
+  "LastUpdate_Achievements": "2023-05-26T15:03:26.4503624+00:00"
 }

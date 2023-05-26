@@ -2,7 +2,7 @@
   "ID": "cae59d6d2a1341c8b92c89ddf970e1e6",
   "Name": "Trolley Problem, Inc.",
   "ProductSlug": "trolley-problem-inc-c1f368",
-  "Ranking_EOS_Progress": 422,
+  "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 86,
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:57:50.380239+00:00",
   "LastChanged": "2023-03-31T05:57:50.3802391+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:04:09.3673879+00:00",
-  "LastUpdate_Ratings": "2023-05-26T14:00:15.0842073+00:00",
-  "LastUpdate_Achievements": "2023-05-26T14:05:13.2331545+00:00"
+  "LastUpdate_Ratings": "2023-05-26T15:01:00.5895112+00:00",
+  "LastUpdate_Achievements": "2023-05-26T15:05:55.6477238+00:00"
 }

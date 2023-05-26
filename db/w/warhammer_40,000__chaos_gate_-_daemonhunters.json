@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -522,9 +522,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2651,
+  "EOS_Progressed": 2654,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1007,6 +1007,11 @@
       "Time": "2023-05-26T14:06:28.3325906+00:00",
       "NumProgressed": 2651,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T15:07:31.1841357+00:00",
+      "NumProgressed": 2654,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1034,7 +1039,7 @@
       "Name": "Look Over There!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "BloodAndIron",
@@ -1186,7 +1191,7 @@
       "Name": "Not So Fast...",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "Kills_Bleed",
@@ -1194,7 +1199,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -1210,7 +1215,7 @@
       "Name": "Executioner",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "Kills_Exterminator",
@@ -1226,7 +1231,7 @@
       "Name": "Friendly Fire",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "Kills_Interactable",
@@ -1242,7 +1247,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "Kills_Streak",
@@ -1266,7 +1271,7 @@
       "Name": "An Ill Omen",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -1354,7 +1359,7 @@
       "Name": "Bloodless",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -1489,21 +1494,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2651,
+      "Progressed": 2654,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2651,
+      "Progressed": 2654,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-26T14:06:28.3325901+00:00",
+  "LastChanged_Achievements": "2023-05-26T15:07:31.1841351+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:13.6314729+00:00",
-  "LastUpdate_Ratings": "2023-05-26T13:59:03.0588342+00:00",
-  "LastUpdate_Achievements": "2023-05-26T14:06:28.332636+00:00"
+  "LastUpdate_Ratings": "2023-05-26T14:59:34.2954208+00:00",
+  "LastUpdate_Achievements": "2023-05-26T15:07:31.1841932+00:00"
 }

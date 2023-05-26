@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewPlayers": 69,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -3958,9 +3958,9 @@
       "Count": 3241
     }
   ],
-  "EOS_Progressed": 88718,
+  "EOS_Progressed": 88730,
   "EOS_Completed": 1879,
-  "EOS_NewPlayers": 746,
+  "EOS_NewPlayers": 755,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 2.12,
   "EosHistory": [
@@ -7478,6 +7478,11 @@
       "Time": "2023-05-26T14:06:41.8808406+00:00",
       "NumProgressed": 88718,
       "NumCompleted": 1879
+    },
+    {
+      "Time": "2023-05-26T15:07:46.0428109+00:00",
+      "NumProgressed": 88730,
+      "NumCompleted": 1879
     }
   ],
   "TotalAchievements": 493,
@@ -7487,9 +7492,9 @@
       "ID": "objective_completed_1",
       "SetID": "cc37lbc",
       "Name": "A Brief Tour of the Realms",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 710
+      "UsersEstimate": 799
     },
     {
       "ID": "objective_completed_10",
@@ -11359,9 +11364,9 @@
       "ID": "objective_completed_94",
       "SetID": "cc37lbc",
       "Name": "The Templar\u0027s Camp",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 177
     },
     {
       "ID": "objective_completed_95",
@@ -11432,21 +11437,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54992,
+      "Progressed": 55004,
       "Completed": 2710
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88718,
+      "Progressed": 88730,
       "Completed": 1879
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-26T13:58:19.8275854+00:00",
-  "LastChanged_Achievements": "2023-05-26T14:06:41.8808401+00:00",
+  "LastChanged_Achievements": "2023-05-26T15:07:46.0428103+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-26T13:58:19.8275859+00:00",
-  "LastUpdate_Achievements": "2023-05-26T14:06:41.8831304+00:00"
+  "LastUpdate_Ratings": "2023-05-26T14:58:46.7579841+00:00",
+  "LastUpdate_Achievements": "2023-05-26T15:07:46.0456844+00:00"
 }

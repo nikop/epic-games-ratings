@@ -2,7 +2,7 @@
   "ID": "9cac50a837da4b6f9d655ea65b9d2cc6",
   "Name": "Starless",
   "ProductSlug": "starless-bb4b3c",
-  "Ranking_EOS_Progress": 422,
+  "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 86,
@@ -42,6 +42,6 @@
   "FirstSeenRating": "2023-03-31T05:58:33.5377947+00:00",
   "LastChanged": "2023-03-31T05:58:33.5377948+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:59.3437898+00:00",
-  "LastUpdate_Ratings": "2023-05-26T14:00:56.3467833+00:00",
-  "LastUpdate_Achievements": "2023-05-26T14:05:32.3079363+00:00"
+  "LastUpdate_Ratings": "2023-05-26T15:01:44.0276899+00:00",
+  "LastUpdate_Achievements": "2023-05-26T15:06:27.9279143+00:00"
 }

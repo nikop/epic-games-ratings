@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 0.80% | ~710 |
+| A Brief Tour of the Realms | 0.90% | ~799 |
 | The Court of Storms | 0.70% | ~385 |
 | The Cursed Farmer | 0.60% | ~532 |
 | Beware the Jabberwock | 0.60% | ~330 |
@@ -44,6 +44,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waterdeep Detours | 0.20% | ~177 |
 | Underdeep Cartography | 0.20% | ~177 |
 | Pure Energy | 0.20% | ~177 |
+| The Templar's Camp | 0.20% | ~177 |
 | Pros and CONs | 0.10% | ~89 |
 | Upholding the Law | 0.10% | ~89 |
 | Starving in the Jungle | 0.10% | ~89 |
@@ -494,13 +495,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Netherese Necropolis | 0.10% | ~55 |
 | Ineffectual Intellectuals | 0.10% | ~55 |
 | The Archaeologist and the Sailor | 0.10% | ~55 |
-| The Templar's Camp | 0.10% | ~89 |
 | The Haunted Jungle | 0.10% | ~89 |
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
 | Rescue in the Jungle | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,718 (Ranked 61)  
+Progressed: 88,730 (Ranked 61)  
 Completed: 1,879 (2.12%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -536,7 +536,7 @@ Completed: 1,879 (2.12%) (Ranked 61)
 | 2023-05-23 | 88,435 | 1,872 |
 | 2023-05-24 | 88,533 | 1,875 |
 | 2023-05-25 | 88,656 | 1,879 |
-| 2023-05-26 | 88,718 | 1,879 |
+| 2023-05-26 | 88,730 | 1,879 |
 ## Awards
 Max (Diverse Characters): 4,905  (Ranked 64)  
 Sum: 29,982 (Ranked 37)  

@@ -5,11 +5,11 @@ Rating: 4.39 (Ranked 687)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 17.00% | ~252 |
+| Meeting Resistance | 17.00% | ~253 |
 | Confirming Suspicions | 13.00% | ~193 |
-| The Kraken Wakes | 10.00% | ~148 |
+| The Kraken Wakes | 10.00% | ~149 |
+| Lord of War | 7.00% | ~104 |
 | It's Starting to Crack | 7.00% | ~104 |
-| Lord of War | 6.00% | ~89 |
 | Resourceful | 6.00% | ~89 |
 | Enemy at the Gates | 5.00% | ~74 |
 | Organ Grinder | 5.00% | ~74 |
@@ -18,11 +18,11 @@ Rating: 4.39 (Ranked 687)
 | Explosive Efficiency | 4.00% | ~59 |
 | As Quiet as a Mouse | 4.00% | ~59 |
 | Taking it back | 4.00% | ~59 |
-| Opposing Force | 3.00% | ~44 |
-| Gunslinger | 3.00% | ~44 |
-| Sharpshooter | 3.00% | ~44 |
-| Close Quarters | 3.00% | ~44 |
-| Target America | 3.00% | ~44 |
+| Opposing Force | 3.00% | ~45 |
+| Gunslinger | 3.00% | ~45 |
+| Sharpshooter | 3.00% | ~45 |
+| Close Quarters | 3.00% | ~45 |
+| Target America | 3.00% | ~45 |
 | Climbing the Ladder | 2.00% | ~30 |
 | Liberté | 2.00% | ~30 |
 | Fields of Glory | 2.00% | ~30 |
@@ -43,22 +43,22 @@ Rating: 4.39 (Ranked 687)
 | Herr Today, Gone Tomorrow | 0.60% | ~9 |
 | Operation Foxley | 0.60% | ~9 |
 | Strategist | 0.50% | ~7 |
+| Last Resort | 0.50% | ~7 |
 | Siegebreaker | 0.50% | ~7 |
 | Ghost of Falaise | 0.50% | ~7 |
-| Last Resort | 0.40% | ~6 |
 | From Paris with Love | 0.30% | ~4 |
+| Tinkerer | 0.30% | ~4 |
 | Don't hold your breath | 0.30% | ~4 |
 | Shoot for the Moon | 0.30% | ~4 |
 | Reich To The Point | 0.30% | ~4 |
 | Covert Elimination | 0.30% | ~4 |
 | Sink or Swim | 0.30% | ~2 |
 | Souvenir hunter | 0.20% | ~3 |
-| Tinkerer | 0.20% | ~3 |
+| Up close and personal | 0.20% | ~3 |
 | Road Rage | 0.20% | ~3 |
 | Out of Scope | 0.10% | ~1 |
 | Burn after reading | 0.10% | ~1 |
 | Eagle Eyed | 0.10% | ~1 |
-| Up close and personal | 0.10% | ~1 |
 | Sight Beyond Sights | 0.10% | ~1 |
 | Führerious Repetition | 0.10% | ~1 |
 | From Führer Away | 0.10% | ~1 |
@@ -77,8 +77,8 @@ Rating: 4.39 (Ranked 687)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,481 (Ranked 156)  
-Completed: 2 (0.14%) (Ranked 150)  
+Progressed: 1,487 (Ranked 156)  
+Completed: 2 (0.13%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -112,7 +112,7 @@ Completed: 2 (0.14%) (Ranked 150)
 | 2023-05-23 | 1,294 | 2 |
 | 2023-05-24 | 1,365 | 2 |
 | 2023-05-25 | 1,428 | 2 |
-| 2023-05-26 | 1,481 | 2 |
+| 2023-05-26 | 1,487 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

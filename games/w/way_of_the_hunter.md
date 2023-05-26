@@ -5,8 +5,8 @@ Rating: 4.35 (Ranked 723)
 Number of Ratings: 190  (23.09.2022)  
 ## Awards
 Max (Quickly Understood Controls): 39  (Ranked 413)  
-Sum: 233 (Ranked 344)  
-Diff (max vs sum): 69  
+Sum: 253 (Ranked 341)  
+Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 39 |
@@ -20,6 +20,7 @@ Diff (max vs sum): 69
 | This game is Great for Beginners | 20 |
 | This game has Realistic Visuals | 20 |
 | This game has Challenging Combat | 20 |
+| This game is Educational | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -109,3 +110,4 @@ Diff (max vs sum): 69
 | 2023-05-20 | 4.35 | - | 38 | 232 |
 | 2023-05-24 | 4.36 | - | 38 | 232 |
 | 2023-05-25 | 4.35 | - | 39 | 233 |
+| 2023-05-26 | 4.35 | - | 39 | 253 |

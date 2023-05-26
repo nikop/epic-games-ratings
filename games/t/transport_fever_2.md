@@ -6,20 +6,20 @@ Number of Ratings: 180  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 77.00% | ~877 |
+| First line | 77.00% | ~878 |
 | First cargo item waiting | 71.00% | ~809 |
-| First bus stop | 70.00% | ~797 |
-| First cargo item on board | 70.00% | ~797 |
-| First passenger waiting | 67.00% | ~763 |
+| First bus stop | 70.00% | ~798 |
+| First cargo item on board | 70.00% | ~798 |
 | First passenger on board | 66.00% | ~752 |
-| First bus arrived | 65.00% | ~740 |
+| First passenger waiting | 66.00% | ~752 |
+| First bus arrived | 65.00% | ~741 |
 | First train station | 63.00% | ~718 |
-| First steam train arrived | 59.00% | ~672 |
-| Transport millionaire | 55.00% | ~626 |
-| First industry upgraded | 55.00% | ~626 |
+| First steam train arrived | 59.00% | ~673 |
+| Transport millionaire | 55.00% | ~627 |
+| First industry upgraded | 55.00% | ~627 |
 | Cargo hub | 53.00% | ~604 |
-| Transport master | 52.00% | ~592 |
-| Cadet | 52.00% | ~592 |
+| Transport master | 52.00% | ~593 |
+| Cadet | 52.00% | ~593 |
 | Sculpturer | 50.00% | ~570 |
 | First electric train arrived | 48.00% | ~547 |
 | Settled down | 48.00% | ~547 |
@@ -34,14 +34,14 @@ Number of Ratings: 180  (23.09.2022)
 | Crowd in a train | 31.00% | ~353 |
 | Not in my backyard | 31.00% | ~353 |
 | The future is now, old man | 31.00% | ~353 |
-| City | 29.00% | ~330 |
+| City | 29.00% | ~331 |
 | The king of the sea | 28.00% | ~319 |
-| Transport tycoon | 24.00% | ~273 |
+| Transport tycoon | 24.00% | ~274 |
 | Climate change | 23.00% | ~262 |
 | Old timer | 22.00% | ~251 |
 | The ugly smell of success | 22.00% | ~251 |
 | Heavily loaded | 20.00% | ~228 |
-| Bob Ross | 17.00% | ~194 |
+| Bob Ross | 16.00% | ~182 |
 | Campaign expert | 11.00% | ~125 |
 | No free seats | 11.00% | ~125 |
 | Penny pincher | 10.00% | ~114 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~2 |
 | Museum line | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,139 (Ranked 163)  
+Progressed: 1,140 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 0 (0.00%) (Ranked 203)
 | 2023-05-23 | 1,131 | 0 |
 | 2023-05-24 | 1,135 | 0 |
 | 2023-05-25 | 1,137 | 0 |
-| 2023-05-26 | 1,139 | 0 |
+| 2023-05-26 | 1,140 | 0 |
 ## Awards
 Max (Highly Recommended): 38  (Ranked 417)  
 Sum: 262 (Ranked 340)  

@@ -43,13 +43,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Forbidden Lands | 0.50% | ~75 |
 | Efficient Explorer | 0.40% | ~60 |
 | Fishmen Ritual Site | 0.40% | ~60 |
+| Beaver Utopia | 0.30% | ~45 |
 | Human Utopia | 0.30% | ~45 |
 | Lizard Utopia | 0.30% | ~45 |
 | Prestigious Expedition | 0.30% | ~45 |
 | Blood Flower Farmer | 0.30% | ~45 |
 | Victory through Prosperity | 0.30% | ~45 |
 | Feeding The People | 0.20% | ~30 |
-| Beaver Utopia | 0.20% | ~30 |
 | Harpy Utopia | 0.20% | ~30 |
 | The Queen's Chosen | 0.20% | ~30 |
 | Paradise | 0.10% | ~15 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,002 (Ranked 99)  
+Progressed: 15,003 (Ranked 99)  
 Completed: 33 (0.22%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 33 (0.22%) (Ranked 135)
 | 2023-05-23 | 14,974 | 33 |
 | 2023-05-24 | 14,986 | 33 |
 | 2023-05-25 | 14,995 | 33 |
-| 2023-05-26 | 15,002 | 33 |
+| 2023-05-26 | 15,003 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 196)  
 Sum: 3,031 (Ranked 152)  

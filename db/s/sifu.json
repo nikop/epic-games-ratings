@@ -4230,9 +4230,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 705418,
+  "EOS_Progressed": 705441,
   "EOS_Completed": 12736,
-  "EOS_NewPlayers": 2005,
+  "EOS_NewPlayers": 1986,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -7275,6 +7275,11 @@
       "Time": "2023-05-26T14:06:27.2950737+00:00",
       "NumProgressed": 705418,
       "NumCompleted": 12736
+    },
+    {
+      "Time": "2023-05-26T15:07:30.1332062+00:00",
+      "NumProgressed": 705441,
+      "NumCompleted": 12736
     }
   ],
   "TotalAchievements": 50,
@@ -7318,7 +7323,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 5643
+      "UsersEstimate": 5644
     },
     {
       "ID": "06_Vengeance_H5",
@@ -7326,7 +7331,7 @@
       "Name": "Furious Fists",
       "Percentage": 0.8,
       "XP": 75,
-      "UsersEstimate": 5643
+      "UsersEstimate": 5644
     },
     {
       "ID": "07_Wude_H1",
@@ -7372,9 +7377,9 @@
       "ID": "12_MidAge",
       "SetID": "adcm20g",
       "Name": "Scareless",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 4233
+      "UsersEstimate": 4938
     },
     {
       "ID": "13_LowAge",
@@ -7390,7 +7395,7 @@
       "Name": "Kill Nil",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 5643
+      "UsersEstimate": 5644
     },
     {
       "ID": "15_Detective_H1",
@@ -7454,7 +7459,7 @@
       "Name": "Street Fighting",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 5643
+      "UsersEstimate": 5644
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -7494,7 +7499,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5643
+      "UsersEstimate": 5644
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -7598,7 +7603,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5643
+      "UsersEstimate": 5644
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -7630,7 +7635,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -7685,21 +7690,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 14719,
-      "Completed": 10171
+      "Progressed": 14742,
+      "Completed": 10172
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 705418,
+      "Progressed": 705441,
       "Completed": 12736
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-26T13:59:28.4334382+00:00",
-  "LastChanged_Achievements": "2023-05-26T14:06:27.2950731+00:00",
+  "LastChanged_Achievements": "2023-05-26T15:07:30.1332054+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.7579865+00:00",
-  "LastUpdate_Ratings": "2023-05-26T13:59:28.4334388+00:00",
-  "LastUpdate_Achievements": "2023-05-26T14:06:27.2951213+00:00"
+  "LastUpdate_Ratings": "2023-05-26T15:00:05.6198812+00:00",
+  "LastUpdate_Achievements": "2023-05-26T15:07:30.1332735+00:00"
 }

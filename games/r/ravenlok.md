@@ -13,8 +13,8 @@
 | Fun Guy | 61.00% | ~528 |
 | Vibing | 60.00% | ~519 |
 | Tragic Brave | 52.00% | ~450 |
+| Awakened Spirits | 49.00% | ~424 |
 | Little Shop | 48.00% | ~415 |
-| Awakened Spirits | 48.00% | ~415 |
 | Surprise! | 43.00% | ~372 |
 | An Actor! | 43.00% | ~372 |
 | Curtain Call | 42.00% | ~363 |
@@ -30,9 +30,9 @@
 | Ancient Wisdom | 35.00% | ~303 |
 | Frog Facts! | 35.00% | ~303 |
 | All That Glistens | 35.00% | ~303 |
+| Spellbound | 34.00% | ~294 |
 | All Skilled Up! | 34.00% | ~294 |
 | It's Pointy! | 34.00% | ~294 |
-| Spellbound | 33.00% | ~285 |
 | Extinct Again! | 32.00% | ~277 |
 | Bird of Prey | 32.00% | ~277 |
 | Stardust | 32.00% | ~277 |

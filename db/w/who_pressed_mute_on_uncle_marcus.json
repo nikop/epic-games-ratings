@@ -4,7 +4,7 @@
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 17,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
@@ -161,9 +161,9 @@
       "ID": "delusions",
       "SetID": "202dmm8",
       "Name": "Delusions",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "dont_fear_the_baldness",
@@ -185,9 +185,9 @@
       "ID": "job_one_done",
       "SetID": "202dmm8",
       "Name": "Job one. DONE!",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 90
+      "UsersEstimate": 92
     },
     {
       "ID": "just_like_me",
@@ -266,8 +266,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-05-26T14:06:23.6130867+00:00",
+  "LastChanged_Achievements": "2023-05-26T15:07:25.8956294+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:45.4038684+00:00",
-  "LastUpdate_Ratings": "2023-05-26T14:00:49.8143249+00:00",
-  "LastUpdate_Achievements": "2023-05-26T14:06:23.6130969+00:00"
+  "LastUpdate_Ratings": "2023-05-26T15:01:37.1349618+00:00",
+  "LastUpdate_Achievements": "2023-05-26T15:07:25.8956422+00:00"
 }

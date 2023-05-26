@@ -6,7 +6,7 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 156,
-  "Ranking_EOS_Completed": 150,
+  "Ranking_EOS_Completed": 153,
   "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
@@ -212,11 +212,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1481,
+  "EOS_Progressed": 1487,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 695,
+  "EOS_NewPlayers": 696,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.14,
+  "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:23.1376838+00:00",
@@ -1482,6 +1482,11 @@
       "Time": "2023-05-26T14:06:08.4028354+00:00",
       "NumProgressed": 1481,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-26T15:07:09.3798572+00:00",
+      "NumProgressed": 1487,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1525,7 +1530,7 @@
       "Name": "Opposing Force",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -1573,7 +1578,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1613,7 +1618,7 @@
       "Name": "Gunslinger",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -1629,7 +1634,7 @@
       "Name": "Sharpshooter",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -1699,9 +1704,9 @@
       "ID": "REWARD_35_LORD_OF_WAR",
       "SetID": "bm6el81",
       "Name": "Lord of War",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 104
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -1741,7 +1746,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -1749,7 +1754,7 @@
       "Name": "Close Quarters",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -1795,9 +1800,9 @@
       "ID": "REWARD_48_WORKBENCH_USER",
       "SetID": "bm6el81",
       "Name": "Tinkerer",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
@@ -1835,9 +1840,9 @@
       "ID": "REWARD_64_KNIFE_ELITE",
       "SetID": "bm6el81",
       "Name": "Up close and personal",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 3
     },
     {
       "ID": "REWARD_66_VEHICULAR_OMNICIDE",
@@ -1885,7 +1890,7 @@
       "Name": "Target America",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -1979,9 +1984,9 @@
       "ID": "REWARD_DLC01_09_LAST_RESORT",
       "SetID": "83mdf7p",
       "Name": "Last Resort",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -2060,13 +2065,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1432,
+      "Progressed": 1438,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1481,
+      "Progressed": 1487,
       "Completed": 2
     }
   ],
@@ -2074,8 +2079,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-26T14:01:24.142257+00:00",
-  "LastChanged_Achievements": "2023-05-26T14:06:08.4028343+00:00",
+  "LastChanged_Achievements": "2023-05-26T15:07:09.3798566+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-26T14:01:24.1422587+00:00",
-  "LastUpdate_Achievements": "2023-05-26T14:06:08.4028936+00:00"
+  "LastUpdate_Ratings": "2023-05-26T15:02:08.7458024+00:00",
+  "LastUpdate_Achievements": "2023-05-26T15:07:09.3799501+00:00"
 }

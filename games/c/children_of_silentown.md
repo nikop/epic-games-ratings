@@ -8,7 +8,7 @@
 | Trumpet | 89.00% | ~134 |
 | Spyglass | 83.00% | ~125 |
 | Broken toy | 77.00% | ~116 |
-| Egghead Lucy | 75.00% | ~113 |
+| Egghead Lucy | 76.00% | ~115 |
 | Puppy | 61.00% | ~92 |
 | Coal's fur | 58.00% | ~88 |
 | Blue's drawing | 54.00% | ~82 |

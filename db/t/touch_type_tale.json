@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2777,
+  "EOS_Progressed": 2778,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1329,6 +1329,11 @@
       "Time": "2023-05-26T14:06:32.7408587+00:00",
       "NumProgressed": 2777,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-26T15:07:36.192798+00:00",
+      "NumProgressed": 2778,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1388,7 +1393,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2499
+      "UsersEstimate": 2500
     },
     {
       "ID": "campaign10",
@@ -1428,7 +1433,7 @@
       "Name": "Well Supplied",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "campaign15",
@@ -1492,7 +1497,7 @@
       "Name": "Economics 101",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1806
     },
     {
       "ID": "campaign4",
@@ -1500,7 +1505,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "campaign5",
@@ -1538,9 +1543,9 @@
       "ID": "campaign9",
       "SetID": "2h56gn1",
       "Name": "Boulder Clash",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 389
+      "UsersEstimate": 361
     },
     {
       "ID": "scenario1",
@@ -1603,7 +1608,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2777,
+      "Progressed": 2778,
       "Completed": 9
     }
   ],
@@ -1611,8 +1616,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-26T14:06:32.7408582+00:00",
+  "LastChanged_Achievements": "2023-05-26T15:07:36.1927975+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:08.6918917+00:00",
-  "LastUpdate_Ratings": "2023-05-26T14:01:00.8966571+00:00",
-  "LastUpdate_Achievements": "2023-05-26T14:06:32.7408852+00:00"
+  "LastUpdate_Ratings": "2023-05-26T15:01:46.7739146+00:00",
+  "LastUpdate_Achievements": "2023-05-26T15:07:36.1928346+00:00"
 }

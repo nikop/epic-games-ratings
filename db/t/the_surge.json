@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 126,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -315,7 +315,7 @@
   ],
   "EOS_Progressed": 4274,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -955,9 +955,9 @@
       "ID": "ID_ACHIEV_32",
       "SetID": "98bke8c",
       "Name": "Butcher\u0027s Bill",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 2308
+      "UsersEstimate": 2351
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -1251,8 +1251,8 @@
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-05-23T01:58:51.2287865+00:00",
-  "LastChanged_Achievements": "2023-05-26T14:06:07.0098163+00:00",
+  "LastChanged_Achievements": "2023-05-26T15:07:07.955852+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.3215176+00:00",
-  "LastUpdate_Ratings": "2023-05-26T13:58:14.2794829+00:00",
-  "LastUpdate_Achievements": "2023-05-26T14:06:07.0098744+00:00"
+  "LastUpdate_Ratings": "2023-05-26T14:58:38.5844645+00:00",
+  "LastUpdate_Achievements": "2023-05-26T15:07:07.955957+00:00"
 }

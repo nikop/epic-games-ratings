@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -210,9 +210,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5072,
+  "EOS_Progressed": 5073,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -360,6 +360,11 @@
       "Time": "2023-05-26T02:06:30.2920863+00:00",
       "NumProgressed": 5072,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-05-26T15:07:39.9317937+00:00",
+      "NumProgressed": 5073,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 49,
@@ -379,7 +384,7 @@
       "Name": "Off the Beaten Path",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ACHIEVE_50_BATWINGS",
@@ -395,7 +400,7 @@
       "Name": "Bone Collector",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1775
+      "UsersEstimate": 1776
     },
     {
       "ID": "ACHIEVE_50_CROWNS",
@@ -411,7 +416,7 @@
       "Name": "Ghost Facers!",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1370
     },
     {
       "ID": "ACHIEVE_50_GOLD",
@@ -425,9 +430,9 @@
       "ID": "ACHIEVE_50_GUTS",
       "SetID": "b8l3p0g",
       "Name": "Jerk-Slayer",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 2181
+      "UsersEstimate": 2131
     },
     {
       "ID": "ACHIEVE_50_ICE",
@@ -443,7 +448,7 @@
       "Name": "Fe-Festival",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 1775
+      "UsersEstimate": 1776
     },
     {
       "ID": "ACHIEVE_50_MAGMA",
@@ -475,7 +480,7 @@
       "Name": "Timber!",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 3043
+      "UsersEstimate": 3044
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -499,7 +504,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 4971
+      "UsersEstimate": 4972
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -547,7 +552,7 @@
       "Name": "Fortunate Soul",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2485
+      "UsersEstimate": 2486
     },
     {
       "ID": "ACHIEVE_GREED_GRIND_WIN",
@@ -579,7 +584,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 3956
+      "UsersEstimate": 3957
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -595,15 +600,15 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 2688
+      "UsersEstimate": 2689
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
       "SetID": "b8l3p0g",
       "Name": "Ultimate Jerk",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 659
+      "UsersEstimate": 609
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_5",
@@ -643,7 +648,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 2992
+      "UsersEstimate": 2993
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -659,7 +664,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 4971
+      "UsersEstimate": 4972
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -667,7 +672,7 @@
       "Name": "Humerus Achievement",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1572
+      "UsersEstimate": 1573
     },
     {
       "ID": "ACHIEVE_LVL_60_COMPLETE",
@@ -683,7 +688,7 @@
       "Name": "It\u0027s Been a Blast",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ACHIEVE_MIDAS",
@@ -699,7 +704,7 @@
       "Name": "For Rock and Stone!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ACHIEVE_OKBOOMER_LAVA",
@@ -715,7 +720,7 @@
       "Name": "Death Defied",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2688
+      "UsersEstimate": 2689
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -755,22 +760,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3601
+      "UsersEstimate": 3602
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5072,
+      "Progressed": 5073,
       "Completed": 26
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-05-26T14:06:36.2092466+00:00",
+  "LastChanged_Achievements": "2023-05-26T15:07:39.9317928+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:57.7416925+00:00",
-  "LastUpdate_Ratings": "2023-05-26T14:00:46.0642642+00:00",
-  "LastUpdate_Achievements": "2023-05-26T14:06:36.2092807+00:00"
+  "LastUpdate_Ratings": "2023-05-26T15:01:32.1793276+00:00",
+  "LastUpdate_Achievements": "2023-05-26T15:07:39.931835+00:00"
 }

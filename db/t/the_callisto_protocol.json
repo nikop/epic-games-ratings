@@ -428,9 +428,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13667,
+  "EOS_Progressed": 13673,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 940,
+  "EOS_NewPlayers": 930,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1638,6 +1638,11 @@
       "Time": "2023-05-26T14:03:38.7080169+00:00",
       "NumProgressed": 13667,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-26T15:04:17.164002+00:00",
+      "NumProgressed": 13673,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -1665,15 +1670,15 @@
       "Name": "Giving Back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "BUY_ALL_WEAPONS",
       "SetID": "4hj6d86",
       "Name": "You Need a Gun",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 109
+      "UsersEstimate": 123
     },
     {
       "ID": "DISARM_ENEMY",
@@ -1777,7 +1782,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "KILL_ROBOT",
@@ -1903,9 +1908,9 @@
       "ID": "STORY_TUNNELS",
       "SetID": "4hj6d86",
       "Name": "Power Up",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 109
+      "UsersEstimate": 123
     },
     {
       "ID": "DISMEMBER_100",
@@ -1968,13 +1973,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13667,
+      "Progressed": 13673,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1593,
+      "Progressed": 1599,
       "Completed": 29
     }
   ],
@@ -1982,8 +1987,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-23T19:57:59.4143533+00:00",
-  "LastChanged_Achievements": "2023-05-26T14:03:38.7080164+00:00",
+  "LastChanged_Achievements": "2023-05-26T15:04:17.164001+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-26T13:58:05.9907199+00:00",
-  "LastUpdate_Achievements": "2023-05-26T14:03:38.7080537+00:00"
+  "LastUpdate_Ratings": "2023-05-26T14:58:28.8949882+00:00",
+  "LastUpdate_Achievements": "2023-05-26T15:04:17.1640448+00:00"
 }
