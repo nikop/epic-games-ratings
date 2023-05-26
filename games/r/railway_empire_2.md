@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 51.00% | ~69 |
-| Departure | 50.00% | ~68 |
-| A new Journey | 49.00% | ~66 |
-| From X to Y | 47.00% | ~63 |
-| Brainstorm | 45.00% | ~61 |
-| Way of Iron | 45.00% | ~61 |
-| Mystery Tour | 43.00% | ~58 |
-| We brake for nobody | 41.00% | ~55 |
-| Mind the Gap | 38.00% | ~51 |
+| Departure | 53.00% | ~72 |
+| A new Journey | 53.00% | ~72 |
+| Country Bumpkin | 53.00% | ~72 |
+| From X to Y | 50.00% | ~68 |
+| Brainstorm | 49.00% | ~66 |
+| Way of Iron | 48.00% | ~65 |
+| Mystery Tour | 45.00% | ~61 |
+| We brake for nobody | 44.00% | ~59 |
+| Mind the Gap | 40.00% | ~54 |
+| All around the World | 38.00% | ~51 |
+| Travel Company | 38.00% | ~51 |
 | Apprentice | 36.00% | ~49 |
-| All around the World | 36.00% | ~49 |
-| Travel Company | 36.00% | ~49 |
-| Right through the middle | 29.00% | ~39 |
-| Stoker | 24.00% | ~32 |
+| Right through the middle | 30.00% | ~40 |
+| Stoker | 26.00% | ~35 |
+| Poor Devil | 21.00% | ~28 |
 | Facility Manager | 20.00% | ~27 |
-| Poor Devil | 20.00% | ~27 |
-| Producer | 18.00% | ~24 |
-| Access granted | 12.00% | ~16 |
+| Producer | 19.00% | ~26 |
+| Access granted | 13.00% | ~18 |
 | Bridge Builder | 10.00% | ~14 |
 | Socializer | 6.00% | ~8 |
+| Seven at one stroke | 5.00% | ~7 |
 | Full Steam ahead | 5.00% | ~7 |
-| Seven at one stroke | 4.00% | ~5 |
 | Bull and bear | 4.00% | ~5 |
 | Country Life | 3.00% | ~4 |
 | Going once, going twice, sold | 3.00% | ~4 |

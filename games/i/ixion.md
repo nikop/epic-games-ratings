@@ -6,9 +6,9 @@ Rating: 4.55 (Ranked 468)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 8.00% | ~172 |
+| Without Breaking Some Eggs... | 7.00% | ~151 |
 | Infinite Growth... | 7.00% | ~151 |
 | Sputnik 2049 | 7.00% | ~151 |
-| Without Breaking Some Eggs... | 6.00% | ~129 |
 | Space Society | 4.00% | ~86 |
 | A Thousand Strong | 4.00% | ~86 |
 | Ready for a New World | 4.00% | ~86 |
@@ -32,9 +32,9 @@ Rating: 4.55 (Ranked 468)
 | From the Past | 1.00% | ~22 |
 | BRAWL! | 0.90% | ~19 |
 | In Dolos We Trust | 0.80% | ~17 |
+| All in Good Health | 0.80% | ~17 |
 | What They Hide From Us | 0.70% | ~15 |
 | Delivery! | 0.70% | ~15 |
-| All in Good Health | 0.70% | ~15 |
 | Pulsar Disciple | 0.70% | ~15 |
 | ...  in a finite world | 0.60% | ~13 |
 | Pedal to the Metal | 0.60% | ~13 |

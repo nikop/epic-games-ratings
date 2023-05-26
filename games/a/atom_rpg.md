@@ -6,16 +6,16 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~815 |
-| Wanderer | 35.00% | ~288 |
+| Atom Agent | 98.00% | ~808 |
+| Wanderer | 35.00% | ~289 |
 | One HIT wonder | 34.00% | ~280 |
 | One shot, one kill | 29.00% | ~239 |
-| Traveler | 26.00% | ~214 |
-| Head Burst | 19.00% | ~156 |
+| Traveler | 25.00% | ~206 |
+| Head Burst | 19.00% | ~157 |
 | Explorer | 18.00% | ~148 |
 | Grave Robber | 17.00% | ~140 |
-| Double agent | 14.00% | ~115 |
-| Paranoia | 14.00% | ~115 |
+| Double agent | 14.00% | ~116 |
+| Paranoia | 14.00% | ~116 |
 | Kraina Grzybow | 10.00% | ~82 |
 | Love Guru | 9.00% | ~74 |
 | Savant | 9.00% | ~74 |
@@ -32,7 +32,7 @@ Number of Ratings: 54  (23.09.2022)
 | Neanderthal | 1.00% | ~8 |
 | It was worth a shot | 1.00% | ~8 |
 | Cosmic Horror | 1.00% | ~8 |
-| Ghostbuster | 0.90% | ~7 |
+| Ghostbuster | 0.80% | ~7 |
 | Expert | 0.60% | ~5 |
 | Tourist Korallov | 0.60% | ~5 |
 | Cheeki Breeki | 0.50% | ~4 |
@@ -43,7 +43,7 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 823 (Ranked 178)  
+Progressed: 825 (Ranked 178)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-23 | 806 | 0 |
 | 2023-05-24 | 813 | 0 |
 | 2023-05-25 | 822 | 0 |
-| 2023-05-26 | 823 | 0 |
+| 2023-05-26 | 825 | 0 |
 ## Awards
 Max (Character Customization): 47  (Ranked 394)  
 Sum: 47 (Ranked 436)  

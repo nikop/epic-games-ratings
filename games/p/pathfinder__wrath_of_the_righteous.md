@@ -7,12 +7,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 14.00% | ~1,287 |
-| Burning City | 10.00% | ~919 |
-| A Spark | 10.00% | ~919 |
-| Mythic Choices | 8.00% | ~735 |
-| Defender's Heart | 8.00% | ~735 |
-| Banner over the Citadel | 7.00% | ~643 |
-| Queen's Gratitude | 7.00% | ~643 |
+| Burning City | 10.00% | ~920 |
+| A Spark | 10.00% | ~920 |
+| Mythic Choices | 8.00% | ~736 |
+| Defender's Heart | 8.00% | ~736 |
+| Banner over the Citadel | 7.00% | ~644 |
+| Queen's Gratitude | 7.00% | ~644 |
 | Fifth Crusade | 5.00% | ~460 |
 | Embrace of the Abyss | 4.00% | ~368 |
 | Path of the Angel | 4.00% | ~368 |
@@ -32,9 +32,9 @@ Number of Ratings: 1,354  (23.09.2022)
 | A Flame | 2.00% | ~184 |
 | Hey, I Know You! | 2.00% | ~184 |
 | Get the Toad | 2.00% | ~184 |
-| Hanged Man's Notes | 2.00% | ~159 |
-| The Lady of the Forest | 2.00% | ~159 |
-| Beware Still Water | 2.00% | ~159 |
+| Hanged Man's Notes | 2.00% | ~160 |
+| The Lady of the Forest | 2.00% | ~160 |
+| Beware Still Water | 2.00% | ~160 |
 | Path of the Demon | 1.00% | ~92 |
 | Path of the Aeon | 1.00% | ~92 |
 | Path of the Trickster | 1.00% | ~92 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,191 (Ranked 110)  
+Progressed: 9,196 (Ranked 110)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-23 | 9,123 | 0 |
 | 2023-05-24 | 9,159 | 0 |
 | 2023-05-25 | 9,187 | 0 |
-| 2023-05-26 | 9,191 | 0 |
+| 2023-05-26 | 9,196 | 0 |
 ## Awards
 Max (Character Customization): 1,640  (Ranked 111)  
 Sum: 6,650 (Ranked 110)  

@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 83,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.41,
   "EosHistory": [
@@ -260,17 +260,17 @@
       "ID": "5",
       "SetID": "acl54ke",
       "Name": "Solved sixth case",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "6",
       "SetID": "acl54ke",
       "Name": "Solved seventh case",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "7",
@@ -315,8 +315,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-05-26T02:01:31.8309773+00:00",
+  "LastChanged_Achievements": "2023-05-26T03:01:06.3324501+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:22.8180475+00:00",
-  "LastUpdate_Ratings": "2023-05-26T01:59:06.1265188+00:00",
-  "LastUpdate_Achievements": "2023-05-26T02:01:31.8309896+00:00"
+  "LastUpdate_Ratings": "2023-05-26T02:58:39.1456655+00:00",
+  "LastUpdate_Achievements": "2023-05-26T03:01:06.3324789+00:00"
 }

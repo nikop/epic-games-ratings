@@ -2,12 +2,12 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 342,
+  "Ranking_Rating": 340,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -314,9 +314,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8395,
+  "EOS_Progressed": 8397,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 694,
+  "EOS_NewPlayers": 692,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -2444,6 +2444,11 @@
       "Time": "2023-05-26T02:06:28.1181261+00:00",
       "NumProgressed": 8395,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-05-26T03:06:17.5314945+00:00",
+      "NumProgressed": 8397,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 35,
@@ -2455,7 +2460,7 @@
       "Name": "Getting Started",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 6716
+      "UsersEstimate": 6718
     },
     {
       "ID": "ACH02",
@@ -2511,7 +2516,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 4030
+      "UsersEstimate": 4031
     },
     {
       "ID": "ACH09",
@@ -2551,7 +2556,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 1343
+      "UsersEstimate": 1344
     },
     {
       "ID": "ACH14",
@@ -2575,7 +2580,7 @@
       "Name": "Smooth Moves",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1259
+      "UsersEstimate": 1260
     },
     {
       "ID": "ACH17",
@@ -2623,7 +2628,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1007
+      "UsersEstimate": 1008
     },
     {
       "ID": "ACH23",
@@ -2679,7 +2684,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 13,
       "XP": 45,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "ACH30",
@@ -2734,7 +2739,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 8395,
+      "Progressed": 8397,
       "Completed": 17
     }
   ],
@@ -2742,8 +2747,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-05-25T17:59:44.6774994+00:00",
-  "LastChanged_Achievements": "2023-05-26T02:06:28.1181256+00:00",
+  "LastChanged_Achievements": "2023-05-26T03:06:17.5314941+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:19.5303152+00:00",
-  "LastUpdate_Ratings": "2023-05-26T02:00:47.9594763+00:00",
-  "LastUpdate_Achievements": "2023-05-26T02:06:28.1181585+00:00"
+  "LastUpdate_Ratings": "2023-05-26T03:00:22.9602831+00:00",
+  "LastUpdate_Achievements": "2023-05-26T03:06:17.5315242+00:00"
 }

@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 33154,
+  "EOS_Progressed": 33155,
   "EOS_Completed": 159,
-  "EOS_NewPlayers": 492,
+  "EOS_NewPlayers": 490,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -3252,6 +3252,11 @@
       "Time": "2023-05-26T02:05:56.8810747+00:00",
       "NumProgressed": 33154,
       "NumCompleted": 159
+    },
+    {
+      "Time": "2023-05-26T03:05:46.7429604+00:00",
+      "NumProgressed": 33155,
+      "NumCompleted": 159
     }
   ],
   "TotalAchievements": 44,
@@ -3279,7 +3284,7 @@
       "Name": "Embers",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 6962
+      "UsersEstimate": 6963
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -3383,7 +3388,7 @@
       "Name": "First Steps",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 26855
+      "UsersEstimate": 26856
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -3391,7 +3396,7 @@
       "Name": "Master Ninja",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 3315
+      "UsersEstimate": 3316
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -3487,7 +3492,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 18566
+      "UsersEstimate": 18567
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -3495,7 +3500,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 10609
+      "UsersEstimate": 10610
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -3503,7 +3508,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 20887
+      "UsersEstimate": 20888
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -3527,7 +3532,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 19892
+      "UsersEstimate": 19893
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -3567,7 +3572,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 14919
+      "UsersEstimate": 14920
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -3599,7 +3604,7 @@
       "Name": "Awakening",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 30502
+      "UsersEstimate": 30503
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -3614,7 +3619,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 33154,
+      "Progressed": 33155,
       "Completed": 159
     }
   ],
@@ -3622,8 +3627,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-03-31T05:58:07.8538504+00:00",
-  "LastChanged_Achievements": "2023-05-26T02:05:56.8810743+00:00",
+  "LastChanged_Achievements": "2023-05-26T03:05:46.74296+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:57.7696392+00:00",
-  "LastUpdate_Ratings": "2023-05-26T01:58:45.7035647+00:00",
-  "LastUpdate_Achievements": "2023-05-26T02:05:56.8811238+00:00"
+  "LastUpdate_Ratings": "2023-05-26T02:58:17.5360302+00:00",
+  "LastUpdate_Achievements": "2023-05-26T03:05:46.7430034+00:00"
 }

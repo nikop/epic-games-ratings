@@ -2,9 +2,9 @@
   "ID": "25163a0f3c9d47d38afe753d53fd27bb",
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
-  "Ranking_EOS_Progress": 215,
+  "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 316,
+  "EOS_Progressed": 317,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 14,
-  "EOS_Completed_Percentage": 5.06,
+  "EOS_Completed_Percentage": 5.05,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -611,6 +611,11 @@
       "Time": "2023-05-26T02:03:24.8079173+00:00",
       "NumProgressed": 316,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-05-26T03:03:17.352614+00:00",
+      "NumProgressed": 317,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 30,
@@ -630,7 +635,7 @@
       "Name": "Promising crop",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "LEVEL_003",
@@ -660,9 +665,9 @@
       "ID": "LEVEL_006",
       "SetID": "212bg48",
       "Name": "Nothing like fresh food",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 124
     },
     {
       "ID": "LEVEL_007",
@@ -684,9 +689,9 @@
       "ID": "LEVEL_009",
       "SetID": "212bg48",
       "Name": "Going zig zag",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 82
     },
     {
       "ID": "LEVEL_010",
@@ -724,9 +729,9 @@
       "ID": "LEVEL_014",
       "SetID": "212bg48",
       "Name": "Cross-country",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 48
     },
     {
       "ID": "LEVEL_015",
@@ -861,14 +866,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 316,
+      "Progressed": 317,
       "Completed": 16
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-26T02:03:24.807917+00:00",
+  "LastChanged_Achievements": "2023-05-26T03:03:17.3526136+00:00",
   "LastUpdate_AppInfo": "2023-05-22T13:02:13.5547551+00:00",
-  "LastUpdate_Ratings": "2023-05-26T01:57:23.9479979+00:00",
-  "LastUpdate_Achievements": "2023-05-26T02:03:24.8079383+00:00"
+  "LastUpdate_Ratings": "2023-05-26T02:56:56.7632372+00:00",
+  "LastUpdate_Achievements": "2023-05-26T03:03:17.3526354+00:00"
 }

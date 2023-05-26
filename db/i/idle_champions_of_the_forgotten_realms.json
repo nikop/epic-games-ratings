@@ -3940,9 +3940,9 @@
       "Count": 3239
     }
   ],
-  "EOS_Progressed": 88672,
+  "EOS_Progressed": 88677,
   "EOS_Completed": 1879,
-  "EOS_NewPlayers": 742,
+  "EOS_NewPlayers": 744,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 2.12,
   "EosHistory": [
@@ -7404,6 +7404,11 @@
     {
       "Time": "2023-05-26T02:06:35.8384088+00:00",
       "NumProgressed": 88672,
+      "NumCompleted": 1879
+    },
+    {
+      "Time": "2023-05-26T03:06:25.2064745+00:00",
+      "NumProgressed": 88677,
       "NumCompleted": 1879
     }
   ],
@@ -11342,9 +11347,9 @@
       "ID": "objective_completed_1360",
       "SetID": "415jc5c",
       "Name": "Beware the Jabberwock",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 275
+      "UsersEstimate": 330
     },
     {
       "ID": "objective_completed_1361",
@@ -11359,21 +11364,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54946,
-      "Completed": 2708
+      "Progressed": 54951,
+      "Completed": 2709
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88672,
+      "Progressed": 88677,
       "Completed": 1879
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-25T21:58:14.7770868+00:00",
-  "LastChanged_Achievements": "2023-05-26T02:06:35.8384084+00:00",
+  "LastChanged_Achievements": "2023-05-26T03:06:25.2064739+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-26T01:58:24.6453419+00:00",
-  "LastUpdate_Achievements": "2023-05-26T02:06:35.840627+00:00"
+  "LastUpdate_Ratings": "2023-05-26T02:57:57.5341317+00:00",
+  "LastUpdate_Achievements": "2023-05-26T03:06:25.2086177+00:00"
 }

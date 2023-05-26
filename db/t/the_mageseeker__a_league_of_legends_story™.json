@@ -5,9 +5,9 @@
   "Ranking_Rating": 99,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 144,
+  "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -106,9 +106,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2152,
+  "EOS_Progressed": 2154,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -1821,6 +1821,11 @@
       "Time": "2023-05-26T00:06:16.777756+00:00",
       "NumProgressed": 2152,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-26T03:05:54.2389637+00:00",
+      "NumProgressed": 2154,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -1880,7 +1885,7 @@
       "Name": "Elemental master",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -1888,7 +1893,7 @@
       "Name": "No more holding back",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "STB_DEFEAT_GAREN_I",
@@ -1896,7 +1901,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 2044
+      "UsersEstimate": 2046
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -1912,7 +1917,7 @@
       "Name": "Everfrost",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 1657
+      "UsersEstimate": 1659
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -1944,7 +1949,7 @@
       "Name": "I chose my shackles",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -2006,9 +2011,9 @@
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
       "SetID": "3pe2bac",
       "Name": "Pentakill",
-      "Percentage": 76,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1616
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -2016,7 +2021,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 1980
+      "UsersEstimate": 1982
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -2048,7 +2053,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1637
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -2056,7 +2061,7 @@
       "Name": "Thornbarrow",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -2070,9 +2075,9 @@
       "ID": "STB_MISSION3_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Devineur",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 560
+      "UsersEstimate": 538
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -2088,7 +2093,7 @@
       "Name": "Glyndemere",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -2104,7 +2109,7 @@
       "Name": "Terbisia",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "STB_MISSION7_COMPLETED",
@@ -2136,7 +2141,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 1291
+      "UsersEstimate": 1292
     },
     {
       "ID": "STB_PET_HORSE",
@@ -2176,7 +2181,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -2184,7 +2189,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -2208,7 +2213,7 @@
       "Name": "The use of petricite",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1549
+      "UsersEstimate": 1551
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -2248,14 +2253,14 @@
       "Name": "Petricite Burst",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2152,
+      "Progressed": 2154,
       "Completed": 1
     }
   ],
@@ -2263,8 +2268,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-05-24T18:57:33.1729645+00:00",
-  "LastChanged_Achievements": "2023-05-26T02:06:04.7202066+00:00",
+  "LastChanged_Achievements": "2023-05-26T03:05:54.2389634+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:08.2361804+00:00",
-  "LastUpdate_Ratings": "2023-05-26T01:57:57.5654974+00:00",
-  "LastUpdate_Achievements": "2023-05-26T02:06:04.72025+00:00"
+  "LastUpdate_Ratings": "2023-05-26T02:57:30.7472679+00:00",
+  "LastUpdate_Achievements": "2023-05-26T03:05:54.2390054+00:00"
 }

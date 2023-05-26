@@ -225,9 +225,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1616,
+  "EOS_Progressed": 1618,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -600,6 +600,11 @@
       "Time": "2023-05-25T20:06:31.1878456+00:00",
       "NumProgressed": 1616,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-05-26T03:06:20.2870817+00:00",
+      "NumProgressed": 1618,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 57,
@@ -619,7 +624,7 @@
       "Name": "Jailbreak",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1052
     },
     {
       "ID": "ACHV_03",
@@ -747,7 +752,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ACHV_19",
@@ -771,7 +776,7 @@
       "Name": "Stimulating The Local Economy",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACHV_22",
@@ -787,7 +792,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "ACHV_24",
@@ -795,7 +800,7 @@
       "Name": "Gotta Craft \u0027em All",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHV_25",
@@ -811,7 +816,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1293
+      "UsersEstimate": 1294
     },
     {
       "ID": "ACHV_27",
@@ -843,7 +848,7 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "ACHV_31",
@@ -875,7 +880,7 @@
       "Name": "Shocking",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "ACHV_35",
@@ -891,7 +896,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "ACHV_37",
@@ -915,7 +920,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1246
     },
     {
       "ID": "ACHV_40",
@@ -931,7 +936,7 @@
       "Name": "Suited and Booted",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "ACHV_42",
@@ -1011,7 +1016,7 @@
       "Name": "Homewrecker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACHV_52",
@@ -1066,7 +1071,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 1616,
+      "Progressed": 1618,
       "Completed": 10
     }
   ],
@@ -1074,8 +1079,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-05-26T02:06:30.9929153+00:00",
+  "LastChanged_Achievements": "2023-05-26T03:06:20.2870813+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:42.7008662+00:00",
-  "LastUpdate_Ratings": "2023-05-26T02:01:02.8992012+00:00",
-  "LastUpdate_Achievements": "2023-05-26T02:06:30.9929574+00:00"
+  "LastUpdate_Ratings": "2023-05-26T03:00:36.5881552+00:00",
+  "LastUpdate_Achievements": "2023-05-26T03:06:20.2871269+00:00"
 }

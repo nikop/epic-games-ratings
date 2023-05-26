@@ -15,7 +15,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2564,
+  "EOS_Progressed": 2565,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
@@ -1805,6 +1805,11 @@
       "Time": "2023-05-26T02:01:43.9015486+00:00",
       "NumProgressed": 2564,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T03:01:18.2717827+00:00",
+      "NumProgressed": 2565,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -1856,7 +1861,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1052
     },
     {
       "ID": "15",
@@ -1886,9 +1891,9 @@
       "ID": "18",
       "SetID": "9p3jgda",
       "Name": "ACE BRAWLER",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 231
+      "UsersEstimate": 205
     },
     {
       "ID": "19",
@@ -1928,7 +1933,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "23",
@@ -1968,7 +1973,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "6",
@@ -2007,13 +2012,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2564,
+      "Progressed": 2565,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-26T02:01:43.9015481+00:00",
+  "LastChanged_Achievements": "2023-05-26T03:01:18.2717814+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.9291954+00:00",
-  "LastUpdate_Ratings": "2023-05-26T01:59:21.7901437+00:00",
-  "LastUpdate_Achievements": "2023-05-26T02:01:43.9015719+00:00"
+  "LastUpdate_Ratings": "2023-05-26T02:58:55.2066362+00:00",
+  "LastUpdate_Achievements": "2023-05-26T03:01:18.2718053+00:00"
 }

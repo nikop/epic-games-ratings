@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 135,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1239,10 +1239,10 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13387,
-  "EOS_Completed": 29,
-  "EOS_NewPlayers": 827,
-  "EOS_NewCompleters": 4,
+  "EOS_Progressed": 13388,
+  "EOS_Completed": 30,
+  "EOS_NewPlayers": 824,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
@@ -4679,6 +4679,11 @@
       "Time": "2023-05-26T02:06:16.882444+00:00",
       "NumProgressed": 13387,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-05-26T03:06:06.2175566+00:00",
+      "NumProgressed": 13388,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 22,
@@ -4810,7 +4815,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2677
+      "UsersEstimate": 2678
     },
     {
       "ID": "1031",
@@ -4865,15 +4870,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 13387,
-      "Completed": 29
+      "Progressed": 13388,
+      "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-05-07T09:02:24.8496722+00:00",
-  "LastChanged_Achievements": "2023-05-26T02:06:16.8824436+00:00",
+  "LastChanged_Achievements": "2023-05-26T03:06:06.2175563+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:02.1359414+00:00",
-  "LastUpdate_Ratings": "2023-05-26T02:00:44.315433+00:00",
-  "LastUpdate_Achievements": "2023-05-26T02:06:16.8824721+00:00"
+  "LastUpdate_Ratings": "2023-05-26T03:00:20.0774456+00:00",
+  "LastUpdate_Achievements": "2023-05-26T03:06:06.2175837+00:00"
 }

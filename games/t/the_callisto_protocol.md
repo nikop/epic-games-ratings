@@ -15,20 +15,20 @@ Rating: 4.18 (Ranked 831)
 | Float Like A Butterfly | 3.00% | ~409 |
 | Reforged | 3.00% | ~409 |
 | Paper Jams | 3.00% | ~409 |
-| Bear Trap | 3.00% | ~46 |
-| Get a Grip | 2.00% | ~272 |
-| Terminated | 2.00% | ~272 |
-| Workplace Hazard | 2.00% | ~272 |
-| The Commonality | 2.00% | ~272 |
-| Mugshot | 2.00% | ~272 |
-| If the SHU Fits... | 2.00% | ~272 |
+| Bear Trap | 3.00% | ~47 |
+| Get a Grip | 2.00% | ~273 |
+| Terminated | 2.00% | ~273 |
+| Workplace Hazard | 2.00% | ~273 |
+| The Commonality | 2.00% | ~273 |
+| Mugshot | 2.00% | ~273 |
+| If the SHU Fits... | 2.00% | ~273 |
 | Big Spender | 2.00% | ~31 |
-| Parole Denied | 1.00% | ~15 |
+| Parole Denied | 1.00% | ~16 |
 | Two Heads Are Better Than One | 1.00% | ~136 |
 | Without A Paddle | 1.00% | ~136 |
 | In the Pipe, Five by Five | 1.00% | ~136 |
 | Crash Site | 1.00% | ~136 |
-| Hoard Mode | 1.00% | ~15 |
+| Hoard Mode | 1.00% | ~16 |
 | In Striking Distance | 0.80% | ~109 |
 | Power Up | 0.80% | ~109 |
 | You Need a Gun | 0.70% | ~95 |
@@ -37,7 +37,7 @@ Rating: 4.18 (Ranked 831)
 | What Lies Beneath | 0.60% | ~82 |
 | Full Circle | 0.60% | ~82 |
 | I Do Belong Here | 0.50% | ~68 |
-| Grim Reaper | 0.40% | ~54 |
+| Grim Reaper | 0.40% | ~55 |
 | It's over, Jacob! | 0.10% | ~14 |
 | Armed to the Teeth | 0.10% | ~2 |
 | Glutton for Punishment | 0.10% | ~2 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 831)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,623 (Ranked 102)  
+Progressed: 13,626 (Ranked 102)  
 Completed: 53 (0.39%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 53 (0.39%) (Ranked 112)
 | 2023-05-23 | 13,444 | 52 |
 | 2023-05-24 | 13,523 | 52 |
 | 2023-05-25 | 13,610 | 52 |
-| 2023-05-26 | 13,623 | 53 |
+| 2023-05-26 | 13,626 | 53 |
 ## Awards
 Max (Highly Recommended): 46  (Ranked 398)  
 Sum: 267 (Ranked 335)  

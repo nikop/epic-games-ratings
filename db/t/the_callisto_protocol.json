@@ -428,9 +428,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13623,
+  "EOS_Progressed": 13626,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 978,
+  "EOS_NewPlayers": 975,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1578,6 +1578,11 @@
       "Time": "2023-05-26T02:03:33.4837579+00:00",
       "NumProgressed": 13623,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-26T03:03:25.6662598+00:00",
+      "NumProgressed": 13626,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -1629,7 +1634,7 @@
       "Name": "Grim Reaper",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "FINISH_CONTAGION",
@@ -1685,7 +1690,7 @@
       "Name": "Parole Denied",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -1693,7 +1698,7 @@
       "Name": "Get a Grip",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -1725,7 +1730,7 @@
       "Name": "Terminated",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -1733,7 +1738,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -1741,7 +1746,7 @@
       "Name": "The Commonality",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -1773,7 +1778,7 @@
       "Name": "Mugshot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -1789,7 +1794,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "STORY_HABITAT",
@@ -1877,7 +1882,7 @@
       "Name": "Bear Trap",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "NOSPEND_2ROUNDS",
@@ -1885,7 +1890,7 @@
       "Name": "Hoard Mode",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "RIOT_10_POWERUPS",
@@ -1908,13 +1913,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13623,
+      "Progressed": 13626,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1549,
+      "Progressed": 1552,
       "Completed": 29
     }
   ],
@@ -1922,8 +1927,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-23T19:57:59.4143533+00:00",
-  "LastChanged_Achievements": "2023-05-26T02:03:33.4837575+00:00",
+  "LastChanged_Achievements": "2023-05-26T03:03:25.6662593+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-26T01:58:11.2245386+00:00",
-  "LastUpdate_Achievements": "2023-05-26T02:03:33.4837875+00:00"
+  "LastUpdate_Ratings": "2023-05-26T02:57:43.4193866+00:00",
+  "LastUpdate_Achievements": "2023-05-26T03:03:25.6662898+00:00"
 }

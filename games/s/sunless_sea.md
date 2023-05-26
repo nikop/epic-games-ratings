@@ -1,13 +1,13 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.58 (Ranked 419)  
+Rating: 4.58 (Ranked 418)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Sink Beneath the Waves | 36.00% | ~10,775 |
-| Sweet Sorrow | 18.00% | ~5,387 |
+| Sweet Sorrow | 18.00% | ~5,388 |
 | Rules the Waves | 17.00% | ~5,088 |
 | Thou, All-Shaking Thunder | 15.00% | ~4,490 |
 | Rival | 14.00% | ~4,190 |
@@ -23,8 +23,8 @@ Number of Ratings: 401  (23.09.2022)
 | Salvager | 7.00% | ~2,095 |
 | Open Your Ears | 7.00% | ~2,095 |
 | The Ascent of Man | 7.00% | ~2,095 |
-| Sink Beneath the Waves. Again. | 5.00% | ~1,496 |
-| Zee Fever | 5.00% | ~1,496 |
+| Sink Beneath the Waves. Again. | 5.00% | ~1,497 |
+| Zee Fever | 5.00% | ~1,497 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,197 |
 | Storm's Curse | 3.00% | ~898 |
 | We're Gonna Need a Bigger Boat | 3.00% | ~898 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~30 |
 | Ten Years at Zee | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,930 (Ranked 86)  
+Progressed: 29,931 (Ranked 86)  
 Completed: 3 (0.01%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 3 (0.01%) (Ranked 193)
 | 2023-05-23 | 29,774 | 3 |
 | 2023-05-24 | 29,842 | 3 |
 | 2023-05-25 | 29,918 | 3 |
-| 2023-05-26 | 29,930 | 3 |
+| 2023-05-26 | 29,931 | 3 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 278 (Ranked 329)  

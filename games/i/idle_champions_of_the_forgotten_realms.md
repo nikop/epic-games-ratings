@@ -8,8 +8,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 0.80% | ~709 |
 | The Court of Storms | 0.70% | ~385 |
+| Beware the Jabberwock | 0.60% | ~330 |
 | The Cursed Farmer | 0.50% | ~443 |
-| Beware the Jabberwock | 0.50% | ~275 |
 | Beast Intentions | 0.40% | ~355 |
 | The Mad Wizard | 0.40% | ~355 |
 | Coasting to the Finish | 0.40% | ~220 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.10% | ~89 |
 | Rescue in the Jungle | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,672 (Ranked 60)  
+Progressed: 88,677 (Ranked 60)  
 Completed: 1,879 (2.12%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -536,7 +536,7 @@ Completed: 1,879 (2.12%) (Ranked 61)
 | 2023-05-23 | 88,435 | 1,872 |
 | 2023-05-24 | 88,533 | 1,875 |
 | 2023-05-25 | 88,656 | 1,879 |
-| 2023-05-26 | 88,672 | 1,879 |
+| 2023-05-26 | 88,677 | 1,879 |
 ## Awards
 Max (Diverse Characters): 4,905  (Ranked 64)  
 Sum: 29,974 (Ranked 37)  

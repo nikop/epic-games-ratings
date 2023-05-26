@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -206,9 +206,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1438,
+  "EOS_Progressed": 1443,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 689,
+  "EOS_NewPlayers": 694,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1416,6 +1416,11 @@
       "Time": "2023-05-26T02:06:02.9050532+00:00",
       "NumProgressed": 1438,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-26T03:05:52.6041867+00:00",
+      "NumProgressed": 1443,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1489,9 +1494,9 @@
       "ID": "REWARD_18_ORGAN_GRINDER",
       "SetID": "bm6el81",
       "Name": "Organ Grinder",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 72
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -1507,7 +1512,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1595,7 +1600,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1635,7 +1640,7 @@
       "Name": "Lord of War",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -1651,7 +1656,7 @@
       "Name": "Resourceful",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -1675,7 +1680,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -1994,13 +1999,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1389,
+      "Progressed": 1394,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1438,
+      "Progressed": 1443,
       "Completed": 2
     }
   ],
@@ -2008,8 +2013,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-25T14:00:05.6295104+00:00",
-  "LastChanged_Achievements": "2023-05-26T02:06:02.9050528+00:00",
+  "LastChanged_Achievements": "2023-05-26T03:05:52.6041864+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-26T02:01:04.3405558+00:00",
-  "LastUpdate_Achievements": "2023-05-26T02:06:02.9051119+00:00"
+  "LastUpdate_Ratings": "2023-05-26T03:00:37.9943201+00:00",
+  "LastUpdate_Achievements": "2023-05-26T03:05:52.6042423+00:00"
 }

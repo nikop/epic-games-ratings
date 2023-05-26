@@ -5,28 +5,28 @@ Rating: 4.24 (Ranked 791)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,293 |
-| Don't I Know You...? | 77.00% | ~1,244 |
-| Jailbreak | 65.00% | ~1,050 |
-| Suited and Booted | 38.00% | ~614 |
-| HEADSHOT! | 37.00% | ~598 |
+| Rigged And Ready | 80.00% | ~1,294 |
+| Don't I Know You...? | 77.00% | ~1,246 |
+| Jailbreak | 65.00% | ~1,052 |
+| Suited and Booted | 38.00% | ~615 |
+| HEADSHOT! | 37.00% | ~599 |
 | Sleeping With The Fishes | 35.00% | ~566 |
 | Overheated | 30.00% | ~485 |
 | High Performance | 30.00% | ~485 |
-| Powered Up | 28.00% | ~452 |
+| Powered Up | 28.00% | ~453 |
 | Studied The Blade | 24.00% | ~388 |
 | Home Invasion | 22.00% | ~356 |
 | Luminary | 22.00% | ~356 |
 | It's a Trap | 22.00% | ~356 |
-| True Survivor | 21.00% | ~339 |
-| Shocking | 20.00% | ~323 |
+| True Survivor | 21.00% | ~340 |
+| Shocking | 20.00% | ~324 |
 | Court Martial | 19.00% | ~307 |
 | Offensive Defense | 19.00% | ~307 |
 | Unforeseeable Consequences | 19.00% | ~307 |
 | Dead Again | 18.00% | ~291 |
 | Clean Cut | 18.00% | ~291 |
 | Full Arsenal | 16.00% | ~259 |
-| Can't Trust Banks | 15.00% | ~242 |
+| Can't Trust Banks | 15.00% | ~243 |
 | Mommy Dearest | 13.00% | ~210 |
 | Bad Dog | 13.00% | ~210 |
 | Where It All Began | 13.00% | ~210 |
@@ -36,7 +36,7 @@ Rating: 4.24 (Ranked 791)
 | Sorry, Didn't See You There | 12.00% | ~194 |
 | Corrupted Beauty | 11.00% | ~178 |
 | Triplets | 10.00% | ~162 |
-| Stimulating The Local Economy | 9.00% | ~145 |
+| Stimulating The Local Economy | 9.00% | ~146 |
 | A Little Banged Up | 8.00% | ~129 |
 | Denying Prophecy | 8.00% | ~129 |
 | Defense in Depth | 8.00% | ~129 |
@@ -52,8 +52,8 @@ Rating: 4.24 (Ranked 791)
 | Hello Darkness My Old Friend | 4.00% | ~65 |
 | Geronimo! | 4.00% | ~65 |
 | Plank of Wood | 4.00% | ~65 |
-| Gotta Craft 'em All | 3.00% | ~48 |
-| Homewrecker | 3.00% | ~48 |
+| Gotta Craft 'em All | 3.00% | ~49 |
+| Homewrecker | 3.00% | ~49 |
 | It Lives! It Sniffs! It Conquers! | 2.00% | ~32 |
 | Box Office Smash | 2.00% | ~32 |
 | Going Postal | 2.00% | ~32 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 791)
 | Swiss Army Drone | 1.00% | ~16 |
 | Three Birds With One Stone | 1.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,616 (Ranked 153)  
+Progressed: 1,618 (Ranked 153)  
 Completed: 10 (0.62%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,6 +91,7 @@ Completed: 10 (0.62%) (Ranked 103)
 | 2023-05-23 | 1,603 | 10 |
 | 2023-05-24 | 1,611 | 10 |
 | 2023-05-25 | 1,616 | 10 |
+| 2023-05-26 | 1,618 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

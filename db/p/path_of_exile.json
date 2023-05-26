@@ -2,7 +2,7 @@
   "ID": "7ad5508d382e46228056f1d1a0189ae2",
   "Name": "Path of Exile",
   "ProductSlug": "path-of-exile",
-  "Ranking_Rating": 359,
+  "Ranking_Rating": 358,
   "Ranking_Popularity": 91,
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 421,
@@ -3554,10 +3554,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 8820,
       "NumberOfAwardsMax": 2498
+    },
+    {
+      "Time": "2023-05-26T03:00:43.2583182+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 8821,
+      "NumberOfAwardsMax": 2498
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8820,
+  "NumberOfAwards": 8821,
   "NumberOfAwardsMax": 2498,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3625,7 +3631,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 512
+      "Count": 513
     },
     {
       "Text": "This game has a Creative Community",
@@ -3651,8 +3657,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:56.6558117+00:00",
-  "LastChanged": "2023-05-25T18:00:00.4710054+00:00",
+  "LastChanged": "2023-05-26T03:00:43.2583181+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:59.098987+00:00",
-  "LastUpdate_Ratings": "2023-05-26T02:01:10.3758228+00:00",
-  "LastUpdate_Achievements": "2023-05-26T02:05:40.3993863+00:00"
+  "LastUpdate_Ratings": "2023-05-26T03:00:43.2583186+00:00",
+  "LastUpdate_Achievements": "2023-05-26T03:05:30.6552999+00:00"
 }

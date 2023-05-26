@@ -5,7 +5,7 @@ Rating: 4.17 (Ranked 837)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 2.00% | ~1,241 |
+| First Step Into the Knight | 2.00% | ~1,242 |
 | Har, Har, Har, Very Funny | 1.00% | ~621 |
 | Knighthood | 1.00% | ~621 |
 | Loose Ends | 1.00% | ~621 |
@@ -15,13 +15,13 @@ Rating: 4.17 (Ranked 837)
 | Quartzer Life Crisis | 0.80% | ~497 |
 | Working Hard or Harley Working? | 0.80% | ~497 |
 | Whispered Words | 0.80% | ~497 |
-| Something in the Clay | 0.70% | ~434 |
-| The Show Mud Go On | 0.70% | ~434 |
-| Snow Problem | 0.70% | ~434 |
-| Unstoppable Force | 0.70% | ~434 |
-| Lock and Key | 0.70% | ~434 |
-| Bad Apples in Every Orchard | 0.70% | ~434 |
-| From Inside Gotham's Walls | 0.70% | ~434 |
+| Something in the Clay | 0.70% | ~435 |
+| The Show Mud Go On | 0.70% | ~435 |
+| Snow Problem | 0.70% | ~435 |
+| Unstoppable Force | 0.70% | ~435 |
+| Lock and Key | 0.70% | ~435 |
+| Bad Apples in Every Orchard | 0.70% | ~435 |
+| From Inside Gotham's Walls | 0.70% | ~435 |
 | Protector of Gotham | 0.60% | ~372 |
 | Rock and a Hard Place | 0.60% | ~372 |
 | Shock Til They Drop | 0.60% | ~372 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 837)
 | Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,069 (Ranked 70)  
+Progressed: 62,075 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 91 (0.15%) (Ranked 148)
 | 2023-05-23 | 61,842 | 91 |
 | 2023-05-24 | 61,945 | 91 |
 | 2023-05-25 | 62,051 | 91 |
-| 2023-05-26 | 62,069 | 91 |
+| 2023-05-26 | 62,075 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,237  (Ranked 98)  
 Sum: 3,714 (Ranked 138)  
