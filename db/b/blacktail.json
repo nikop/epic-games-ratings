@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -54,7 +54,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 391,
+  "EOS_Progressed": 392,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
@@ -499,6 +499,11 @@
       "Time": "2023-05-26T11:06:06.327597+00:00",
       "NumProgressed": 391,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T17:05:45.8567233+00:00",
+      "NumProgressed": 392,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -598,7 +603,7 @@
       "Name": "Gold rush",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "GossipGirl",
@@ -622,7 +627,7 @@
       "Name": "Spirit animal",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "LiarLiar",
@@ -724,9 +729,9 @@
       "ID": "ToothFairy",
       "SetID": "2aagp3d",
       "Name": "Tooth fairy",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 94
     },
     {
       "ID": "Toxic",
@@ -765,7 +770,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 391,
+      "Progressed": 392,
       "Completed": 0
     }
   ],
@@ -773,8 +778,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-05-01T22:57:29.9866319+00:00",
-  "LastChanged_Achievements": "2023-05-26T16:07:05.4544586+00:00",
+  "LastChanged_Achievements": "2023-05-26T17:05:45.8567225+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:28.25189+00:00",
-  "LastUpdate_Ratings": "2023-05-26T15:58:24.3613784+00:00",
-  "LastUpdate_Achievements": "2023-05-26T16:07:05.4544888+00:00"
+  "LastUpdate_Ratings": "2023-05-26T16:58:04.683853+00:00",
+  "LastUpdate_Achievements": "2023-05-26T17:05:45.8567491+00:00"
 }

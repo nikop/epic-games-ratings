@@ -1170,10 +1170,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 3715,
       "NumberOfAwardsMax": 2237
+    },
+    {
+      "Time": "2023-05-26T16:59:53.2801275+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 3716,
+      "NumberOfAwardsMax": 2237
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3715,
+  "NumberOfAwards": 3716,
   "NumberOfAwardsMax": 2237,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1193,7 +1199,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 185
+      "Count": 186
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1238,9 +1244,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62153,
+  "EOS_Progressed": 62158,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1021,
+  "EOS_NewPlayers": 1015,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3858,6 +3864,11 @@
       "Time": "2023-05-26T16:07:36.4285257+00:00",
       "NumProgressed": 62153,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-26T17:06:09.1005017+00:00",
+      "NumProgressed": 62158,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4027,9 +4038,9 @@
       "ID": "CRIME_FIGHTER_2",
       "SetID": "4eo5ebm",
       "Name": "Not On My Watch",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 311
+      "UsersEstimate": 373
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -4356,22 +4367,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62153,
+      "Progressed": 62158,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32433,
+      "Progressed": 32438,
       "Completed": 2642
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-05-26T16:00:54.8575511+00:00",
-  "LastChanged_Achievements": "2023-05-26T16:07:36.4285252+00:00",
+  "LastChanged": "2023-05-26T16:59:53.2801273+00:00",
+  "LastChanged_Achievements": "2023-05-26T17:06:09.1005011+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-26T16:00:54.8575519+00:00",
-  "LastUpdate_Achievements": "2023-05-26T16:07:36.4286164+00:00"
+  "LastUpdate_Ratings": "2023-05-26T16:59:53.2801279+00:00",
+  "LastUpdate_Achievements": "2023-05-26T17:06:09.100575+00:00"
 }

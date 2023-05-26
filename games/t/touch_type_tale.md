@@ -7,14 +7,14 @@
 | You and what Army? | 90.00% | ~2,501 |
 | Flanked! | 80.00% | ~2,223 |
 | Economics 101 | 65.00% | ~1,806 |
-| Get Rich Quick | 47.00% | ~1,306 |
+| Get Rich Quick | 48.00% | ~1,334 |
 | Do the Splits | 41.00% | ~1,139 |
 | Maestro | 28.00% | ~778 |
 | Full Employment | 19.00% | ~528 |
 | Clay Fighter | 17.00% | ~472 |
 | Nowhere left to Hide | 15.00% | ~417 |
+| Boulder Clash | 14.00% | ~389 |
 | All Ovens Blazing | 13.00% | ~361 |
-| Boulder Clash | 13.00% | ~361 |
 | Held Back by the Roots | 12.00% | ~333 |
 | Well Supplied | 11.00% | ~306 |
 | Damage Control | 8.00% | ~222 |

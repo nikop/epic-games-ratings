@@ -2,9 +2,9 @@
   "ID": "22068a5c6e3649599c02ba4ec6be1a03",
   "Name": "The Lord of the Rings - Gollum\u2122",
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
-  "Ranking_EOS_Progress": 231,
+  "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 215,
+  "EOS_Progressed": 221,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -165,6 +165,11 @@
       "Time": "2023-05-26T16:06:47.2213706+00:00",
       "NumProgressed": 215,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T17:05:32.4125938+00:00",
+      "NumProgressed": 221,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -198,9 +203,9 @@
       "ID": "Chapter1",
       "SetID": "70l3651",
       "Name": "The Wraith",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 126
     },
     {
       "ID": "Chapter10",
@@ -214,9 +219,9 @@
       "ID": "Chapter2",
       "SetID": "70l3651",
       "Name": "The Maggot",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "Chapter3",
@@ -232,7 +237,7 @@
       "Name": "The Veteran",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Chapter5",
@@ -280,7 +285,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 84
     },
     {
       "ID": "Collectibles2",
@@ -328,7 +333,7 @@
       "Name": "Like Flying...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "GollumChoices",
@@ -342,9 +347,9 @@
       "ID": "Lava",
       "SetID": "70l3651",
       "Name": "Wait! Wait! Not yet!",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 57
     },
     {
       "ID": "Memories",
@@ -352,15 +357,15 @@
       "Name": "Memories",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "Murderer",
       "SetID": "70l3651",
       "Name": "Murderer",
-      "Percentage": 0.5,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NoDamage",
@@ -382,9 +387,9 @@
       "ID": "OldGame",
       "SetID": "70l3651",
       "Name": "Master of the Old Game",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "RiverHobbit",
@@ -422,9 +427,9 @@
       "ID": "Song",
       "SetID": "70l3651",
       "Name": "Made a Song",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "StealFood",
@@ -438,9 +443,9 @@
       "ID": "Tasty",
       "SetID": "70l3651",
       "Name": "So Tasty!",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "TriggerHappy",
@@ -454,23 +459,23 @@
       "ID": "WelcomeToMordor",
       "SetID": "70l3651",
       "Name": "Welcome to Mordor!",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 97
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 215,
+      "Progressed": 221,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-26T16:06:47.22137+00:00",
+  "LastChanged_Achievements": "2023-05-26T17:05:32.4125931+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:17.5264569+00:00",
-  "LastUpdate_Ratings": "2023-05-26T15:58:13.8310252+00:00",
-  "LastUpdate_Achievements": "2023-05-26T16:06:47.2214009+00:00"
+  "LastUpdate_Ratings": "2023-05-26T16:57:58.9822607+00:00",
+  "LastUpdate_Achievements": "2023-05-26T17:05:32.4126207+00:00"
 }

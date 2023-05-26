@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 2779,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 111,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1508,9 +1508,9 @@
       "ID": "campaign4",
       "SetID": "2h56gn1",
       "Name": "Get Rich Quick",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1334
     },
     {
       "ID": "campaign5",
@@ -1548,9 +1548,9 @@
       "ID": "campaign9",
       "SetID": "2h56gn1",
       "Name": "Boulder Clash",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 361
+      "UsersEstimate": 389
     },
     {
       "ID": "scenario1",
@@ -1621,8 +1621,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-26T16:07:32.3275543+00:00",
+  "LastChanged_Achievements": "2023-05-26T17:06:05.9141121+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:08.6918917+00:00",
-  "LastUpdate_Ratings": "2023-05-26T16:01:32.4633065+00:00",
-  "LastUpdate_Achievements": "2023-05-26T16:07:32.3275956+00:00"
+  "LastUpdate_Ratings": "2023-05-26T17:00:21.2422791+00:00",
+  "LastUpdate_Achievements": "2023-05-26T17:06:05.9141445+00:00"
 }

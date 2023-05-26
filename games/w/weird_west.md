@@ -20,20 +20,20 @@ Number of Ratings: 125  (23.09.2022)
 | Rain of Death | 25.00% | ~386 |
 | Scholar | 25.00% | ~386 |
 | Through Their Eyes | 25.00% | ~386 |
-| The Great Escape | 22.00% | ~340 |
+| The Great Escape | 23.00% | ~356 |
 | That’s All, Folks | 18.00% | ~278 |
 | Fallen Star | 16.00% | ~247 |
 | Here Comes Santa Claus | 16.00% | ~247 |
 | Winds of War | 16.00% | ~247 |
 | For Balance | 15.00% | ~232 |
 | Dog Days | 13.00% | ~201 |
+| Workers' Rights | 13.00% | ~201 |
 | Elusive Prey | 12.00% | ~186 |
 | Out on the Ebb Tide | 12.00% | ~186 |
 | Power Behind the Pulpit | 12.00% | ~186 |
 | Something Wicked This Way Comes… | 12.00% | ~186 |
 | There is Hope | 12.00% | ~186 |
 | Turning the Tables | 12.00% | ~186 |
-| Workers' Rights | 12.00% | ~186 |
 | Loyalty to the Pack | 9.00% | ~139 |
 | Eternity Can Wait | 9.00% | ~139 |
 | Mystery Machine | 9.00% | ~139 |

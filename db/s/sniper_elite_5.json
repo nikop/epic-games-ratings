@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1497,
+  "EOS_Progressed": 1500,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 701,
+  "EOS_NewPlayers": 696,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1492,6 +1492,11 @@
       "Time": "2023-05-26T16:07:05.0086308+00:00",
       "NumProgressed": 1497,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-26T17:05:45.3799737+00:00",
+      "NumProgressed": 1500,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1575,15 +1580,15 @@
       "Name": "Strategist",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 270
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1679,7 +1684,7 @@
       "Name": "Out of Scope",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "REWARD_32_RIGGED_BLOW",
@@ -1717,9 +1722,9 @@
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
       "SetID": "bm6el81",
       "Name": "Die Nussknacker Sweet!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 45
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -1783,7 +1788,7 @@
       "Name": "Burn after reading",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "REWARD_44_FRIEND_OR_FOE",
@@ -1799,7 +1804,7 @@
       "Name": "Eagle Eyed",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "REWARD_48_WORKBENCH_USER",
@@ -1887,7 +1892,7 @@
       "Name": "Sight Beyond Sights",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "REWARD_7_TARGET_AMERICA",
@@ -2070,13 +2075,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1448,
+      "Progressed": 1451,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1497,
+      "Progressed": 1500,
       "Completed": 2
     }
   ],
@@ -2084,8 +2089,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-26T14:01:24.142257+00:00",
-  "LastChanged_Achievements": "2023-05-26T16:07:05.0086303+00:00",
+  "LastChanged_Achievements": "2023-05-26T17:05:45.3799729+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-26T16:01:58.6003853+00:00",
-  "LastUpdate_Achievements": "2023-05-26T16:07:05.0087227+00:00"
+  "LastUpdate_Ratings": "2023-05-26T17:00:37.184296+00:00",
+  "LastUpdate_Achievements": "2023-05-26T17:05:45.380048+00:00"
 }

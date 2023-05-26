@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 214,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1039,9 +1039,9 @@
       "ID": "OpenRestaurant",
       "SetID": "d1bm05f",
       "Name": "The Big Day",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 148
     },
     {
       "ID": "Packing20",
@@ -1119,9 +1119,9 @@
       "ID": "StaffMemberSpecialityDishes10",
       "SetID": "d1bm05f",
       "Name": "You\u0027re the Expert!",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "TrattoriaSet",
@@ -1192,8 +1192,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-26T16:03:15.4494396+00:00",
+  "LastChanged_Achievements": "2023-05-26T17:03:13.7800897+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.318416+00:00",
-  "LastUpdate_Ratings": "2023-05-26T15:59:06.107528+00:00",
-  "LastUpdate_Achievements": "2023-05-26T16:03:15.4494804+00:00"
+  "LastUpdate_Ratings": "2023-05-26T16:58:34.63256+00:00",
+  "LastUpdate_Achievements": "2023-05-26T17:03:13.780126+00:00"
 }

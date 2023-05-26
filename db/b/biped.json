@@ -2,7 +2,7 @@
   "ID": "e9ab5f3a0f524fdf800f324800acda60",
   "Name": "Biped",
   "ProductSlug": "biped",
-  "Ranking_EOS_Progress": 150,
+  "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 86,
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1959,
+  "EOS_Progressed": 1962,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 680,
+  "EOS_NewPlayers": 683,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2146,6 +2146,11 @@
       "Time": "2023-05-26T16:06:49.5980391+00:00",
       "NumProgressed": 1959,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T17:05:34.0046296+00:00",
+      "NumProgressed": 1962,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -2157,7 +2162,7 @@
       "Name": "First Step",
       "Percentage": 45,
       "XP": 45,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     },
     {
       "ID": "10",
@@ -2173,7 +2178,7 @@
       "Name": "Telepathic",
       "Percentage": 11,
       "XP": 70,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "12",
@@ -2213,7 +2218,7 @@
       "Name": "Dense Forest",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "3",
@@ -2229,7 +2234,7 @@
       "Name": "Rainy Ruins",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "5",
@@ -2269,14 +2274,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 9,
       "XP": 65,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 1959,
+      "Progressed": 1962,
       "Completed": 0
     }
   ],
@@ -2284,8 +2289,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-05-26T16:06:49.5980385+00:00",
+  "LastChanged_Achievements": "2023-05-26T17:05:34.0046289+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:36.8488775+00:00",
-  "LastUpdate_Ratings": "2023-05-26T15:58:37.4298269+00:00",
-  "LastUpdate_Achievements": "2023-05-26T16:06:49.5980687+00:00"
+  "LastUpdate_Ratings": "2023-05-26T16:58:13.4027191+00:00",
+  "LastUpdate_Achievements": "2023-05-26T17:05:34.0046537+00:00"
 }

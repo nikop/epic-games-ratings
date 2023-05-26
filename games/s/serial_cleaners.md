@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | So it goes | 6.00% | ~10 |
-| Clean Conscience | 5.00% | ~8 |
+| Clean Conscience | 6.00% | ~10 |
 | Small-time Finder | 4.00% | ~7 |
 | Business as usual | 3.00% | ~5 |
 | A New Broom Sweeps Clean | 3.00% | ~5 |
@@ -29,8 +29,8 @@
 | Bee Squat | 0.00% | ~0 |
 | The Germophobes | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 169 (Ranked 246)  
-Completed: 5 (2.96%) (Ranked 46)  
+Progressed: 170 (Ranked 246)  
+Completed: 5 (2.94%) (Ranked 47)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -42,7 +42,7 @@ Completed: 5 (2.96%) (Ranked 46)
 | 2023-05-21 | 162 | 5 |
 | 2023-05-23 | 165 | 5 |
 | 2023-05-24 | 167 | 5 |
-| 2023-05-26 | 169 | 5 |
+| 2023-05-26 | 170 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

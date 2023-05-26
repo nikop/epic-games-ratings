@@ -5,15 +5,15 @@ Rating: 3.78 (Ranked 917)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 40.00% | ~368 |
+| I don't feel so good | 41.00% | ~377 |
 | Electrician | 32.00% | ~294 |
 | Fear my botany powers, Mars | 29.00% | ~267 |
+| Bob The Builder | 26.00% | ~239 |
 | Zero Waste | 25.00% | ~230 |
-| Bob The Builder | 25.00% | ~230 |
 | I am the greatest botanist on this planet. | 24.00% | ~221 |
+| Miner | 19.00% | ~175 |
 | Gardener | 18.00% | ~166 |
 | Houston we have a problem | 18.00% | ~166 |
-| Miner | 18.00% | ~166 |
 | Occupy Mars! | 16.00% | ~147 |
 | Detective | 12.00% | ~110 |
 | The Collector | 8.00% | ~74 |

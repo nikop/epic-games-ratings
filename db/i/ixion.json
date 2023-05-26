@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -190,7 +190,7 @@
   "Tags": [],
   "EOS_Progressed": 2169,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 216,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1842,9 +1842,9 @@
       "ID": "ACH_BASE_8",
       "SetID": "92iocjf",
       "Name": "What the Ruins Teach Us",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "ACH_BASE_9",
@@ -1873,8 +1873,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-05-26T15:59:06.5118285+00:00",
-  "LastChanged_Achievements": "2023-05-26T16:07:01.6801369+00:00",
+  "LastChanged_Achievements": "2023-05-26T17:05:42.7399456+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.7103468+00:00",
-  "LastUpdate_Ratings": "2023-05-26T15:59:06.5118292+00:00",
-  "LastUpdate_Achievements": "2023-05-26T16:07:01.6802145+00:00"
+  "LastUpdate_Ratings": "2023-05-26T16:58:34.8711901+00:00",
+  "LastUpdate_Achievements": "2023-05-26T17:05:42.7400122+00:00"
 }

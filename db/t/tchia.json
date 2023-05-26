@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6053,
+  "EOS_Progressed": 6056,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -2263,6 +2263,11 @@
       "Time": "2023-05-26T15:06:56.1056326+00:00",
       "NumProgressed": 6053,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-26T17:05:35.2256731+00:00",
+      "NumProgressed": 6056,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 21,
@@ -2298,7 +2303,7 @@
       "Name": "Body and Soul",
       "Percentage": 10,
       "XP": 80,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "CA_DE_WIZZ",
@@ -2322,7 +2327,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -2360,9 +2365,9 @@
       "ID": "HISTORIAN",
       "SetID": "3cck1g6",
       "Name": "Historian",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 363
+      "UsersEstimate": 303
     },
     {
       "ID": "ICONOCLAST",
@@ -2378,7 +2383,7 @@
       "Name": "In a Pinch",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1151
     },
     {
       "ID": "LIBERATOR",
@@ -2426,7 +2431,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "THING",
@@ -2441,7 +2446,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6053,
+      "Progressed": 6056,
       "Completed": 22
     }
   ],
@@ -2449,8 +2454,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-05-26T16:06:51.1483284+00:00",
+  "LastChanged_Achievements": "2023-05-26T17:05:35.2256725+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.822955+00:00",
-  "LastUpdate_Ratings": "2023-05-26T15:58:28.7427728+00:00",
-  "LastUpdate_Achievements": "2023-05-26T16:06:51.1483589+00:00"
+  "LastUpdate_Ratings": "2023-05-26T16:58:07.6135353+00:00",
+  "LastUpdate_Achievements": "2023-05-26T17:05:35.2256997+00:00"
 }

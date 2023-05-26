@@ -7,8 +7,8 @@ Rating: 4.31 (Ranked 756)
 | ---- | ---------- | ----- |
 | The First Step | 67.00% | ~606 |
 | First Blood | 64.00% | ~579 |
-| Ready to Learn | 62.00% | ~560 |
-| Monster Hunter | 53.00% | ~479 |
+| Ready to Learn | 62.00% | ~561 |
+| Monster Hunter | 53.00% | ~480 |
 | Earning Trust | 50.00% | ~452 |
 | Monster Slayer | 29.00% | ~262 |
 | Awakening | 22.00% | ~199 |
@@ -29,7 +29,7 @@ Rating: 4.31 (Ranked 756)
 | Someone to Protect | 0.60% | ~5 |
 | Lean on Me | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 904 (Ranked 173)  
+Progressed: 905 (Ranked 173)  
 Completed: 0 (0.00%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,7 +52,7 @@ Completed: 0 (0.00%) (Ranked 203)
 | 2023-05-23 | 889 | 0 |
 | 2023-05-24 | 891 | 0 |
 | 2023-05-25 | 900 | 0 |
-| 2023-05-26 | 904 | 0 |
+| 2023-05-26 | 905 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

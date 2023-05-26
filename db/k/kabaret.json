@@ -2,7 +2,7 @@
   "ID": "2b94ba4a1f1f4d8aa5b85ecdeef1f33e",
   "Name": "Kabaret",
   "ProductSlug": "kabaret-4810f9",
-  "Ranking_EOS_Progress": 339,
+  "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 303,
   "Ranking_EOS_NewCompleters": 86,
@@ -195,9 +195,9 @@
       "ID": "24",
       "SetID": "37jn7be",
       "Name": "Expert Service",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "25",
@@ -243,9 +243,9 @@
       "ID": "3",
       "SetID": "37jn7be",
       "Name": "Goodbye Dear Friend",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "30",
@@ -331,9 +331,9 @@
       "ID": "4",
       "SetID": "37jn7be",
       "Name": "By My Own Hands",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "40",
@@ -475,9 +475,9 @@
       "ID": "56",
       "SetID": "37jn7be",
       "Name": "Top Of The Food Chain",
-      "Percentage": 0,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "57",
@@ -612,8 +612,8 @@
   "FirstSeenRating": "2023-04-29T22:57:51.702813+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:15.0612299+00:00",
   "LastChanged": "2023-04-29T22:57:51.7028131+00:00",
-  "LastChanged_Achievements": "2023-05-26T16:02:34.464787+00:00",
+  "LastChanged_Achievements": "2023-05-26T17:01:03.1522729+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.1178962+00:00",
-  "LastUpdate_Ratings": "2023-05-26T15:58:34.4390059+00:00",
-  "LastUpdate_Achievements": "2023-05-26T16:02:34.4648628+00:00"
+  "LastUpdate_Ratings": "2023-05-26T16:58:11.6117479+00:00",
+  "LastUpdate_Achievements": "2023-05-26T17:01:03.1523434+00:00"
 }

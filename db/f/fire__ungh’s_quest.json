@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 27,
   "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
     "PcReleaseDate": "2015-04-09T16:00:00+00:00",
@@ -296,9 +296,9 @@
       "ID": "Level_completed_006_004",
       "SetID": "6od1ndi",
       "Name": "Onk Boga VI",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 35,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "Level_completed_007_006",
@@ -336,9 +336,9 @@
       "ID": "Monkey_IQ_test_passed_in_004",
       "SetID": "6od1ndi",
       "Name": "IQ62",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 35,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "Rainman_was_shocked_by_lightning_in_001",
@@ -377,8 +377,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-05-26T16:07:17.4740921+00:00",
+  "LastChanged_Achievements": "2023-05-26T17:05:54.7094135+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:25.4163927+00:00",
-  "LastUpdate_Ratings": "2023-05-26T16:01:01.5175325+00:00",
-  "LastUpdate_Achievements": "2023-05-26T16:07:17.4741407+00:00"
+  "LastUpdate_Ratings": "2023-05-26T16:59:59.7413068+00:00",
+  "LastUpdate_Achievements": "2023-05-26T17:05:54.7094332+00:00"
 }

@@ -327,7 +327,7 @@
   ],
   "EOS_Progressed": 1546,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -982,9 +982,9 @@
       "ID": "ACH_THE_GREAT_ESCAPE",
       "SetID": "8j30i9k",
       "Name": "The Great Escape",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 340
+      "UsersEstimate": 356
     },
     {
       "ID": "ACH_THE_HARD_WAY",
@@ -1070,9 +1070,9 @@
       "ID": "ACH_WORKERS_RIGHTS",
       "SetID": "8j30i9k",
       "Name": "Workers\u0027 Rights",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 186
+      "UsersEstimate": 201
     }
   ],
   "AchievementSets": [
@@ -1086,8 +1086,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-05-26T16:07:04.4755234+00:00",
+  "LastChanged_Achievements": "2023-05-26T17:05:44.7764113+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:00.9656203+00:00",
-  "LastUpdate_Ratings": "2023-05-26T15:59:07.7147676+00:00",
-  "LastUpdate_Achievements": "2023-05-26T16:07:04.4755766+00:00"
+  "LastUpdate_Ratings": "2023-05-26T16:58:35.6541803+00:00",
+  "LastUpdate_Achievements": "2023-05-26T17:05:44.7764579+00:00"
 }

@@ -19,8 +19,8 @@
 | Bigger Picture | 16.00% | ~51 |
 | Sunset | 13.00% | ~41 |
 | Spring Air | 13.00% | ~41 |
-| Alive | 9.00% | ~29 |
-| Cut The Air | 9.00% | ~29 |
+| Alive | 10.00% | ~32 |
+| Cut The Air | 10.00% | ~32 |
 | What Are The Chances? | 9.00% | ~29 |
 | Through The Hoop | 8.00% | ~25 |
 | Best Self | 8.00% | ~25 |

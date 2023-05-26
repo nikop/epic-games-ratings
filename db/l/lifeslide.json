@@ -143,9 +143,9 @@
       "ID": "END_REACHED",
       "SetID": "b6f796g",
       "Name": "Alive",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "FIRST_IMPROVEMENT",
@@ -215,9 +215,9 @@
       "ID": "MAX_SPEED_REACHED",
       "SetID": "b6f796g",
       "Name": "Cut The Air",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "NIGHT_FOREST_HIDDEN",
@@ -312,8 +312,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.7063169+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.5274456+00:00",
   "LastChanged": "2023-03-31T05:57:26.706317+00:00",
-  "LastChanged_Achievements": "2023-05-26T16:06:54.8269276+00:00",
+  "LastChanged_Achievements": "2023-05-26T17:05:37.7742536+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:46.8169935+00:00",
-  "LastUpdate_Ratings": "2023-05-26T15:58:50.1236971+00:00",
-  "LastUpdate_Achievements": "2023-05-26T16:06:54.8269524+00:00"
+  "LastUpdate_Ratings": "2023-05-26T16:58:22.4686424+00:00",
+  "LastUpdate_Achievements": "2023-05-26T17:05:37.7742766+00:00"
 }

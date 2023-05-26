@@ -25,6 +25,7 @@ Rating: 4.17 (Ranked 837)
 | Bad Apples in Every Orchard | 0.70% | ~435 |
 | From Inside Gotham's Walls | 0.70% | ~435 |
 | Rock and a Hard Place | 0.60% | ~373 |
+| Not On My Watch | 0.60% | ~373 |
 | Shock Til They Drop | 0.60% | ~373 |
 | Cooldown | 0.60% | ~373 |
 | Voiceless | 0.60% | ~373 |
@@ -32,7 +33,6 @@ Rating: 4.17 (Ranked 837)
 | Gotham Knight | 0.60% | ~373 |
 | End of an Era | 0.50% | ~311 |
 | In Your Element | 0.50% | ~311 |
-| Not On My Watch | 0.50% | ~311 |
 | Bulldozed | 0.50% | ~311 |
 | Out of Their League | 0.40% | ~249 |
 | Drone You Out | 0.40% | ~249 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 837)
 | Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,153 (Ranked 70)  
+Progressed: 62,158 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,10 +103,10 @@ Completed: 91 (0.15%) (Ranked 148)
 | 2023-05-23 | 61,842 | 91 |
 | 2023-05-24 | 61,945 | 91 |
 | 2023-05-25 | 62,051 | 91 |
-| 2023-05-26 | 62,153 | 91 |
+| 2023-05-26 | 62,158 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,237  (Ranked 98)  
-Sum: 3,715 (Ranked 138)  
+Sum: 3,716 (Ranked 138)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
@@ -114,7 +114,7 @@ Diff (max vs sum): -40
 | This game is Relaxing | 193 |
 | This game is Extremely Fun | 193 |
 | This game has Quickly Understood Controls | 190 |
-| This game has Amazing Characters | 185 |
+| This game has Amazing Characters | 186 |
 | This game has Diverse Characters | 182 |
 | This game is Highly Recommended | 181 |
 | This game has Amazing Storytelling | 179 |
@@ -217,4 +217,4 @@ Diff (max vs sum): -40
 | 2023-05-23 | 4.17 | 2,231 | 3,704 |
 | 2023-05-24 | 4.17 | 2,234 | 3,709 |
 | 2023-05-25 | 4.17 | 2,237 | 3,714 |
-| 2023-05-26 | 4.17 | 2,237 | 3,715 |
+| 2023-05-26 | 4.17 | 2,237 | 3,716 |

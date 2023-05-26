@@ -3958,9 +3958,9 @@
       "Count": 3241
     }
   ],
-  "EOS_Progressed": 88735,
+  "EOS_Progressed": 88741,
   "EOS_Completed": 1879,
-  "EOS_NewPlayers": 753,
+  "EOS_NewPlayers": 757,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 2.12,
   "EosHistory": [
@@ -7488,6 +7488,11 @@
       "Time": "2023-05-26T16:07:42.3026061+00:00",
       "NumProgressed": 88735,
       "NumCompleted": 1879
+    },
+    {
+      "Time": "2023-05-26T17:06:14.3278341+00:00",
+      "NumProgressed": 88741,
+      "NumCompleted": 1879
     }
   ],
   "TotalAchievements": 493,
@@ -10385,9 +10390,9 @@
       "ID": "objective_completed_648",
       "SetID": "415jc5c",
       "Name": "An Even Worse Time in Avernus",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 110
     },
     {
       "ID": "objective_completed_655",
@@ -11442,21 +11447,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55009,
+      "Progressed": 55015,
       "Completed": 2710
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88735,
+      "Progressed": 88741,
       "Completed": 1879
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-26T13:58:19.8275854+00:00",
-  "LastChanged_Achievements": "2023-05-26T16:07:42.3026056+00:00",
+  "LastChanged_Achievements": "2023-05-26T17:06:14.3278333+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-26T15:58:37.2872269+00:00",
-  "LastUpdate_Achievements": "2023-05-26T16:07:42.3059816+00:00"
+  "LastUpdate_Ratings": "2023-05-26T16:58:13.343922+00:00",
+  "LastUpdate_Achievements": "2023-05-26T17:06:14.3301499+00:00"
 }

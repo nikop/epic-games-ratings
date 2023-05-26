@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 77,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 40,
+  "Ranking_EOS_NewPlayers": 41,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4230,9 +4230,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 705461,
+  "EOS_Progressed": 705469,
   "EOS_Completed": 12736,
-  "EOS_NewPlayers": 1972,
+  "EOS_NewPlayers": 1955,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -7285,6 +7285,11 @@
       "Time": "2023-05-26T16:07:26.2364456+00:00",
       "NumProgressed": 705461,
       "NumCompleted": 12736
+    },
+    {
+      "Time": "2023-05-26T17:06:01.18869+00:00",
+      "NumProgressed": 705469,
+      "NumCompleted": 12736
     }
   ],
   "TotalAchievements": 50,
@@ -7326,9 +7331,9 @@
       "ID": "05_Vengeance_H4",
       "SetID": "adcm20g",
       "Name": "Lady Wing Chun",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 5644
+      "UsersEstimate": 6349
     },
     {
       "ID": "06_Vengeance_H5",
@@ -7640,7 +7645,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -7695,21 +7700,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 14762,
+      "Progressed": 14770,
       "Completed": 10172
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 705461,
+      "Progressed": 705469,
       "Completed": 12736
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-26T13:59:28.4334382+00:00",
-  "LastChanged_Achievements": "2023-05-26T16:07:26.2364448+00:00",
+  "LastChanged_Achievements": "2023-05-26T17:06:01.1886895+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.7579865+00:00",
-  "LastUpdate_Ratings": "2023-05-26T15:59:53.4157408+00:00",
-  "LastUpdate_Achievements": "2023-05-26T16:07:26.236519+00:00"
+  "LastUpdate_Ratings": "2023-05-26T16:59:08.6931252+00:00",
+  "LastUpdate_Achievements": "2023-05-26T17:06:01.1887502+00:00"
 }

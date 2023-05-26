@@ -6,67 +6,67 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~4,024 |
-| Leader | 60.00% | ~3,449 |
-| Explorer | 53.00% | ~3,046 |
-| Healer | 52.00% | ~2,989 |
-| Aspiring Inventor | 45.00% | ~2,587 |
-| Adventurer | 41.00% | ~2,357 |
-| Famous Healer | 38.00% | ~2,184 |
-| Local Leader | 35.00% | ~2,012 |
-| New Opportunities | 34.00% | ~1,954 |
-| Famous Explorer | 33.00% | ~1,897 |
-| Energized | 33.00% | ~1,897 |
-| The Long Haul | 33.00% | ~1,897 |
-| Survivor | 31.00% | ~1,782 |
-| The Great Healer | 30.00% | ~1,724 |
-| Cleaner | 28.00% | ~1,609 |
-| Catastrofan | 28.00% | ~1,609 |
-| Legendary Explorer | 27.00% | ~1,552 |
-| Finders, Keepers | 25.00% | ~1,437 |
+| First Step | 70.00% | ~4,026 |
+| Leader | 60.00% | ~3,451 |
+| Explorer | 53.00% | ~3,049 |
+| Healer | 52.00% | ~2,991 |
+| Aspiring Inventor | 45.00% | ~2,588 |
+| Adventurer | 41.00% | ~2,358 |
+| Famous Healer | 38.00% | ~2,186 |
+| Local Leader | 35.00% | ~2,013 |
+| New Opportunities | 34.00% | ~1,956 |
+| Famous Explorer | 33.00% | ~1,898 |
+| Energized | 33.00% | ~1,898 |
+| The Long Haul | 33.00% | ~1,898 |
+| Survivor | 31.00% | ~1,783 |
+| The Great Healer | 30.00% | ~1,726 |
+| Catastrofan | 28.00% | ~1,611 |
+| Legendary Explorer | 27.00% | ~1,553 |
+| Cleaner | 27.00% | ~1,553 |
+| Finders, Keepers | 25.00% | ~1,438 |
 | Top Notch | 24.00% | ~1,380 |
 | Great Leader | 22.00% | ~1,265 |
 | Ice Lakes | 22.00% | ~1,265 |
 | Mentor | 22.00% | ~1,265 |
-| Merchant | 21.00% | ~1,207 |
-| Real Survivor | 21.00% | ~1,207 |
-| War Never Changes | 19.00% | ~1,092 |
-| Rocket Surgeon | 19.00% | ~1,092 |
-| Big Game Hunter | 17.00% | ~977 |
+| Merchant | 21.00% | ~1,208 |
+| Real Survivor | 21.00% | ~1,208 |
+| War Never Changes | 19.00% | ~1,093 |
+| Rocket Surgeon | 19.00% | ~1,093 |
+| Big Game Hunter | 17.00% | ~978 |
 | Friendly | 16.00% | ~920 |
 | Spreading Influence | 16.00% | ~920 |
-| Around the World | 15.00% | ~862 |
+| Around the World | 15.00% | ~863 |
 | Bookworm | 14.00% | ~805 |
-| Famous Adventurer | 13.00% | ~747 |
-| Prepared for Anything | 13.00% | ~747 |
+| Famous Adventurer | 13.00% | ~748 |
+| Prepared for Anything | 13.00% | ~748 |
 | Big Catastrofan | 12.00% | ~690 |
 | It's a Finnish Thing | 10.00% | ~575 |
-| Sky Burial | 9.00% | ~517 |
+| Sky Burial | 9.00% | ~518 |
 | Trader | 8.00% | ~460 |
-| Bread and Circuses | 7.00% | ~402 |
-| Tailored to fit | 7.00% | ~402 |
+| Bread and Circuses | 7.00% | ~403 |
+| Tailored to fit | 7.00% | ~403 |
 | Really Friendly | 6.00% | ~345 |
 | New Eden | 6.00% | ~345 |
-| Look, no Hands! | 5.00% | ~287 |
-| Amped Up | 5.00% | ~287 |
+| Look, no Hands! | 5.00% | ~288 |
+| Amped Up | 5.00% | ~288 |
 | Luxurious Living | 4.00% | ~230 |
-| Mogul | 3.00% | ~172 |
-| Ranch Hand | 3.00% | ~172 |
+| Mogul | 3.00% | ~173 |
+| Ranch Hand | 3.00% | ~173 |
 | Diplomat | 2.00% | ~115 |
 | Doomsday is canceled | 2.00% | ~115 |
 | Biggest Catastrofan | 2.00% | ~115 |
-| The Friendliest | 1.00% | ~57 |
-| A Closer Look | 1.00% | ~57 |
-| True Survivor | 1.00% | ~57 |
+| The Friendliest | 1.00% | ~58 |
+| A Closer Look | 1.00% | ~58 |
+| True Survivor | 1.00% | ~58 |
 | Legendary Adventurer | 0.90% | ~52 |
 | Feng Shui | 0.90% | ~52 |
 | Slimy yet Satisfying | 0.80% | ~46 |
-| Fun and Games | 0.20% | ~11 |
-| Choo-choo! | 0.20% | ~11 |
-| Finnished | 0.20% | ~11 |
+| Fun and Games | 0.20% | ~12 |
+| Choo-choo! | 0.20% | ~12 |
+| Finnished | 0.20% | ~12 |
 | Customized calamities | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,748 (Ranked 122)  
+Progressed: 5,752 (Ranked 122)  
 Completed: 0 (0.00%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,10 +102,10 @@ Completed: 0 (0.00%) (Ranked 203)
 | 2023-05-23 | 5,653 | 0 |
 | 2023-05-24 | 5,686 | 0 |
 | 2023-05-25 | 5,724 | 0 |
-| 2023-05-26 | 5,748 | 0 |
+| 2023-05-26 | 5,752 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 325)  
-Sum: 653 (Ranked 271)  
+Sum: 654 (Ranked 271)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
@@ -114,7 +114,7 @@ Diff (max vs sum): 54
 | This game is Great for Beginners | 82 |
 | This game is Relaxing | 80 |
 | This game has Quickly Understood Controls | 77 |
-| This game is Highly Recommended | 66 |
+| This game is Highly Recommended | 67 |
 | This game has Diverse Characters | 63 |
 | This game has Amazing Characters | 62 |
 | This game has Obsessive Gameplay | 58 |
@@ -204,4 +204,4 @@ Diff (max vs sum): 54
 | 2023-05-03 | 4.47 | - | 98 | 649 |
 | 2023-05-04 | 4.47 | - | 99 | 651 |
 | 2023-05-13 | 4.47 | - | 99 | 652 |
-| 2023-05-26 | 4.47 | - | 99 | 653 |
+| 2023-05-26 | 4.47 | - | 99 | 654 |

@@ -6,19 +6,19 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~404,179 |
+| Found a Friend | 95.00% | ~404,180 |
 | Haikyo | 80.00% | ~340,362 |
-| Good as New | 72.00% | ~306,325 |
-| Into the Woods | 69.00% | ~293,562 |
-| Hunter in the Forest | 60.00% | ~255,271 |
+| Good as New | 72.00% | ~306,326 |
+| Into the Woods | 69.00% | ~293,563 |
+| Hunter in the Forest | 60.00% | ~255,272 |
 | Rot Commander | 59.00% | ~251,017 |
 | Taro's Fear | 55.00% | ~233,999 |
 | Between the Eyes | 46.00% | ~195,708 |
-| Taro's Love | 45.00% | ~191,453 |
-| Taro's Regret | 43.00% | ~182,944 |
+| Taro's Love | 45.00% | ~191,454 |
+| Taro's Regret | 43.00% | ~182,945 |
 | Spirit Guide | 42.00% | ~178,690 |
 | Harness Your Power | 38.00% | ~161,672 |
-| The Open Range | 37.00% | ~157,417 |
+| The Open Range | 37.00% | ~157,418 |
 | Adira's Love | 33.00% | ~140,399 |
 | Adira's Fear | 32.00% | ~136,145 |
 | Weigh Them Down | 31.00% | ~131,890 |
@@ -32,7 +32,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Toshi's Love | 26.00% | ~110,618 |
 | A Leader Walks Alone | 25.00% | ~106,363 |
 | The Lonely Path | 25.00% | ~106,363 |
-| Restore Balance | 24.00% | ~102,108 |
+| Restore Balance | 24.00% | ~102,109 |
 | Say Cheese | 16.00% | ~68,072 |
 | Skillful Spirit Guide | 15.00% | ~63,818 |
 | Piercing Blow | 13.00% | ~55,309 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,829 |
 | Master Spirit Guide | 0.30% | ~1,276 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 425,452 (Ranked 32)  
+Progressed: 425,453 (Ranked 32)  
 Completed: 503 (0.12%) (Ranked 155)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,10 +84,10 @@ Completed: 503 (0.12%) (Ranked 155)
 | 2023-05-23 | 425,383 | 501 |
 | 2023-05-24 | 425,413 | 503 |
 | 2023-05-25 | 425,438 | 503 |
-| 2023-05-26 | 425,452 | 503 |
+| 2023-05-26 | 425,453 | 503 |
 ## Awards
 Max (Great Boss Battles): 1,297  (Ranked 119)  
-Sum: 1,668 (Ranked 198)  
+Sum: 1,669 (Ranked 198)  
 Diff (max vs sum): -79  
 | Award | Count |
 | ----- | ----- |
@@ -101,8 +101,8 @@ Diff (max vs sum): -79
 | This game has Challenging Combat | 35 |
 | This game has Diverse Characters | 34 |
 | This game has Beautiful Visuals | 33 |
+| This game is Educational | 30 |
 | This game is Great for Beginners | 29 |
-| This game is Educational | 29 |
 | This game has a Kind Community | 24 |
 | This game has a Creative Community | 23 |
 ## Ratings History
@@ -196,3 +196,4 @@ Diff (max vs sum): -79
 | 2023-05-01 | 4.70 | - | 1,295 | 1,666 |
 | 2023-05-18 | 4.70 | - | 1,296 | 1,667 |
 | 2023-05-23 | 4.70 | - | 1,297 | 1,668 |
+| 2023-05-26 | 4.70 | - | 1,297 | 1,669 |

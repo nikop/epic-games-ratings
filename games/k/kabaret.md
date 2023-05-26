@@ -11,13 +11,13 @@
 | Congkak Champion | 50.00% | ~5 |
 | All Alone With A Curse | 50.00% | ~5 |
 | Equality | 40.00% | ~4 |
+| Goodbye Dear Friend | 40.00% | ~4 |
 | An Unheard Song | 40.00% | ~4 |
+| By My Own Hands | 40.00% | ~4 |
 | Let There Be Light | 40.00% | ~4 |
 | Strangers You Meet | 30.00% | ~3 |
 | I'll Become... A Beast | 30.00% | ~3 |
 | In Service Of Others | 30.00% | ~3 |
-| Goodbye Dear Friend | 30.00% | ~3 |
-| By My Own Hands | 30.00% | ~3 |
 | Squashed Bug | 30.00% | ~3 |
 | Bookworm | 30.00% | ~3 |
 | Behold, The Nagarimau | 30.00% | ~3 |
@@ -29,6 +29,7 @@
 | Guli Pro | 20.00% | ~2 |
 | Guli Master | 20.00% | ~2 |
 | Congkak Legend | 20.00% | ~2 |
+| Expert Service | 20.00% | ~2 |
 | Deep Thinker | 20.00% | ~2 |
 | Face Value | 20.00% | ~2 |
 | Unbiased | 20.00% | ~2 |
@@ -48,7 +49,6 @@
 | The World Is Mine, And I Don't Want It | 20.00% | ~2 |
 | Faithful Follower | 10.00% | ~1 |
 | Rebel To God | 10.00% | ~1 |
-| Expert Service | 10.00% | ~1 |
 | Human Supremacy | 10.00% | ~1 |
 | Uncommitted | 10.00% | ~1 |
 | Thou Art Naive | 10.00% | ~1 |
@@ -59,6 +59,7 @@
 | I Enjoy Death | 10.00% | ~1 |
 | Be Cruel To Be Kind | 10.00% | ~1 |
 | A New Hope | 10.00% | ~1 |
+| Top Of The Food Chain | 10.00% | ~1 |
 | I Take The Tiger Upon Myself | 10.00% | ~1 |
 | I See The Truth | 0.00% | ~0 |
 | True Devourer | 0.00% | ~0 |
@@ -67,12 +68,11 @@
 | I Don't Want To Dirty My Hands | 0.00% | ~0 |
 | Baby Food | 0.00% | ~0 |
 | King Blood Chaser | 0.00% | ~0 |
-| Top Of The Food Chain | 0.00% | ~0 |
 | Indulging In The Flesh | 0.00% | ~0 |
 | I Need Batteries | 0.00% | ~0 |
 | I Am A Beast | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10 (Ranked 339)  
+Progressed: 10 (Ranked 340)  
 Completed: 0 (0.00%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -522,9 +522,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2657,
+  "EOS_Progressed": 2659,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1017,6 +1017,11 @@
       "Time": "2023-05-26T16:07:27.2991796+00:00",
       "NumProgressed": 2657,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T17:06:02.1710607+00:00",
+      "NumProgressed": 2659,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1044,7 +1049,7 @@
       "Name": "Look Over There!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "BloodAndIron",
@@ -1122,9 +1127,9 @@
       "ID": "ExtractorSkullUses",
       "SetID": "3jha1np",
       "Name": "Surgical Excision",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 372
+      "UsersEstimate": 399
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -1188,7 +1193,7 @@
       "Name": "Hold Your Ground",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "Kills_Auto",
@@ -1196,7 +1201,7 @@
       "Name": "Not So Fast...",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "Kills_Bleed",
@@ -1220,7 +1225,7 @@
       "Name": "Executioner",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "Kills_Exterminator",
@@ -1252,7 +1257,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "Kills_Streak",
@@ -1276,7 +1281,7 @@
       "Name": "An Ill Omen",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -1450,9 +1455,9 @@
       "ID": "ReaperDefeated_Poxus",
       "SetID": "3jha1np",
       "Name": "A Gift Spurned",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 133
     },
     {
       "ID": "ReaperDefeated_Tentarus",
@@ -1499,21 +1504,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2657,
+      "Progressed": 2659,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2657,
+      "Progressed": 2659,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-26T16:07:27.2991787+00:00",
+  "LastChanged_Achievements": "2023-05-26T17:06:02.17106+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:13.6314729+00:00",
-  "LastUpdate_Ratings": "2023-05-26T15:59:23.7468983+00:00",
-  "LastUpdate_Achievements": "2023-05-26T16:07:27.299246+00:00"
+  "LastUpdate_Ratings": "2023-05-26T16:58:47.2993375+00:00",
+  "LastUpdate_Achievements": "2023-05-26T17:06:02.1711137+00:00"
 }

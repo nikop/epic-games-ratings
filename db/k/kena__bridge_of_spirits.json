@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 198,
   "Ranking_EOS_Progress": 32,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1044,10 +1044,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 1668,
       "NumberOfAwardsMax": 1297
+    },
+    {
+      "Time": "2023-05-26T16:58:26.1029429+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 1669,
+      "NumberOfAwardsMax": 1297
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1668,
+  "NumberOfAwards": 1669,
   "NumberOfAwardsMax": 1297,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1121,7 +1127,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game has a Kind Community",
@@ -1136,9 +1142,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 425452,
+  "EOS_Progressed": 425453,
   "EOS_Completed": 503,
-  "EOS_NewPlayers": 202,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3591,6 +3597,11 @@
       "Time": "2023-05-26T15:07:08.24349+00:00",
       "NumProgressed": 425452,
       "NumCompleted": 503
+    },
+    {
+      "Time": "2023-05-26T17:05:44.2006441+00:00",
+      "NumProgressed": 425453,
+      "NumCompleted": 503
     }
   ],
   "TotalAchievements": 41,
@@ -3618,7 +3629,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 255271
+      "UsersEstimate": 255272
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -3634,7 +3645,7 @@
       "Name": "Restore Balance",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 102108
+      "UsersEstimate": 102109
     },
     {
       "ID": "ACH_BOSS_TARO",
@@ -3770,7 +3781,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 404179
+      "UsersEstimate": 404180
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -3786,7 +3797,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 306325
+      "UsersEstimate": 306326
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -3794,7 +3805,7 @@
       "Name": "The Open Range",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 157417
+      "UsersEstimate": 157418
     },
     {
       "ID": "ACH_LOCATION_FOREST",
@@ -3802,7 +3813,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 293562
+      "UsersEstimate": 293563
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -3850,7 +3861,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 191453
+      "UsersEstimate": 191454
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -3890,7 +3901,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 182944
+      "UsersEstimate": 182945
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -3929,15 +3940,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 425452,
+      "Progressed": 425453,
       "Completed": 503
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
-  "LastChanged": "2023-05-23T15:58:10.904898+00:00",
-  "LastChanged_Achievements": "2023-05-26T16:07:03.8409856+00:00",
+  "LastChanged": "2023-05-26T16:58:26.1029428+00:00",
+  "LastChanged_Achievements": "2023-05-26T17:05:44.2006435+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:49.1218266+00:00",
-  "LastUpdate_Ratings": "2023-05-26T15:58:55.529532+00:00",
-  "LastUpdate_Achievements": "2023-05-26T16:07:03.8410388+00:00"
+  "LastUpdate_Ratings": "2023-05-26T16:58:26.1029433+00:00",
+  "LastUpdate_Achievements": "2023-05-26T17:05:44.2006911+00:00"
 }

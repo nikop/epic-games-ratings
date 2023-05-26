@@ -38,11 +38,11 @@ Rating: 4.56 (Ranked 450)
 | Pulsar Disciple | 0.70% | ~15 |
 | ...  in a finite world | 0.60% | ~13 |
 | Pedal to the Metal | 0.60% | ~13 |
+| What the Ruins Teach Us | 0.60% | ~13 |
 | Sustainable Energy | 0.50% | ~11 |
 | Praise the Hull! | 0.50% | ~11 |
 | You Had One Job... | 0.50% | ~11 |
 | Space Greenhouse | 0.50% | ~11 |
-| What the Ruins Teach Us | 0.50% | ~11 |
 | Help of the Forgotten Member | 0.40% | ~9 |
 | Mutual Loyalty | 0.30% | ~7 |
 | Better Him Than Me | 0.20% | ~4 |

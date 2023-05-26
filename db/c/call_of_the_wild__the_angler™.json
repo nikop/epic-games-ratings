@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 377,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -568,9 +568,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3764,
+  "EOS_Progressed": 3765,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1868,6 +1868,11 @@
       "Time": "2023-05-26T16:02:11.0645219+00:00",
       "NumProgressed": 3764,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T17:00:47.8168825+00:00",
+      "NumProgressed": 3765,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 35,
@@ -1879,7 +1884,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 2710
+      "UsersEstimate": 2711
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -1935,7 +1940,7 @@
       "Name": "Scaling up",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1732
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -1975,7 +1980,7 @@
       "Name": "Hook, Line and Sinker",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACHIEVEMENT_014",
@@ -2158,13 +2163,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 3764,
+      "Progressed": 3765,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 3136,
+      "Progressed": 3137,
       "Completed": 112
     }
   ],
@@ -2172,8 +2177,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-05-14T03:00:04.4008144+00:00",
-  "LastChanged_Achievements": "2023-05-26T16:02:11.0645204+00:00",
+  "LastChanged_Achievements": "2023-05-26T17:00:47.8168814+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:23.9987618+00:00",
-  "LastUpdate_Ratings": "2023-05-26T16:01:00.7208964+00:00",
-  "LastUpdate_Achievements": "2023-05-26T16:02:11.0645934+00:00"
+  "LastUpdate_Ratings": "2023-05-26T16:59:57.0116879+00:00",
+  "LastUpdate_Achievements": "2023-05-26T17:00:47.8169264+00:00"
 }
