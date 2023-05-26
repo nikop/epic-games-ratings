@@ -308,7 +308,7 @@
 | 290 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.65 | 1,877 | 105 |
 | 290 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 51 | 384 |
 | 290 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.65 | 0 | 491 |
-| 290 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,487 | 15 |
+| 290 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 4.65 | 28,490 | 15 |
 | 290 | [SOMA](games/s/soma.md) | 4.65 | 0 | 491 |
 | 290 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.65 | 0 | 491 |
 | 290 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.65 | 0 | 491 |
@@ -738,7 +738,7 @@
 | 731 | [Divine Knockout (DKO) - Starter Edition](games/d/divine_knockout_(dko)_-_starter_edition.md) | 4.34 | 51 | 384 |
 | 731 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.34 | 0 | 491 |
 | 731 | [Parkitect](games/p/parkitect.md) | 4.34 | 0 | 491 |
-| 731 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 4,942 | 63 |
+| 731 | [Rogue Company](games/r/rogue_company.md) | 4.34 | 4,946 | 63 |
 | 731 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 242 | 243 |
 | 731 | [Scrapnaut](games/s/scrapnaut.md) | 4.34 | 0 | 491 |
 | 731 | [The Silent Age](games/t/the_silent_age.md) | 4.34 | 0 | 491 |
@@ -917,10 +917,10 @@
 | 914 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.79 | 0 | 491 |
 | 914 | [Potion Permit](games/p/potion_permit.md) | 3.79 | 66 | 368 |
 | 917 | [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 3.78 | 0 | 491 |
-| 917 | [Poker Club](games/p/poker_club.md) | 3.78 | 0 | 491 |
 | 917 | [Saints Row](games/s/saints_row.md) | 3.78 | 1,029 | 133 |
-| 920 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 0 | 491 |
-| 920 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 55 | 382 |
+| 919 | [Poker Club](games/p/poker_club.md) | 3.77 | 0 | 491 |
+| 919 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.77 | 0 | 491 |
+| 919 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.77 | 55 | 382 |
 | 922 | [To The Rescue](games/t/to_the_rescue.md) | 3.76 | 0 | 491 |
 | 923 | [Osiris: New Dawn](games/o/osiris__new_dawn.md) | 3.75 | 0 | 491 |
 | 924 | [Blood of Steel](games/b/blood_of_steel.md) | 3.71 | 0 | 491 |

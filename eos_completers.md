@@ -19,7 +19,7 @@
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.07% |
 | 18 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.74% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.73% |
+| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.72% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
 | 22 | [Scorn](games/s/scorn.md) | 6.95% |
 | 23 | [Ravenlok](games/r/ravenlok.md) | 6.74% |
@@ -27,11 +27,11 @@
 | 25 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.71% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.33% |
-| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.05% |
-| 29 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.04% |
+| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.03% |
+| 29 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.00% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.81% |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 32 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.35% |
+| 32 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.32% |
 | 33 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.26% |
 | 34 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.04% |
 | 35 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.00% |
@@ -59,7 +59,7 @@
 | 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.41% |
 | 58 | [JARS](games/j/jars.md) | 2.33% |
 | 59 | [Iron Danger](games/i/iron_danger.md) | 2.30% |
-| 60 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.13% |
+| 60 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.14% |
 | 61 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.12% |
 | 62 | [Bloodshore](games/b/bloodshore.md) | 2.00% |
 | 63 | [TT Isle of Man: Ride on the Edge 3 - Pre-Purchase](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.92% |
