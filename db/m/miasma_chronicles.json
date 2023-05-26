@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 417,
+  "EOS_Progressed": 422,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 415,
+  "EOS_NewPlayers": 420,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -322,6 +322,11 @@
       "Time": "2023-05-26T07:05:57.1466363+00:00",
       "NumProgressed": 417,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T08:06:10.1972524+00:00",
+      "NumProgressed": 422,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -347,9 +352,9 @@
       "ID": "ASPIRING_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Aspiring Editor",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 236
     },
     {
       "ID": "ATTENBOROUGH",
@@ -475,9 +480,9 @@
       "ID": "EDITOR_ADEPT",
       "SetID": "9a4jnji",
       "Name": "Editor Adept",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 34
     },
     {
       "ID": "ENDGAME",
@@ -491,9 +496,9 @@
       "ID": "EXORCIST",
       "SetID": "9a4jnji",
       "Name": "Exorcist",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 34
     },
     {
       "ID": "EXPERIENCED",
@@ -517,7 +522,7 @@
       "Name": "First Blood",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 375
+      "UsersEstimate": 380
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -541,7 +546,7 @@
       "Name": "From Darkness to Light",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "GIANT_KILLER",
@@ -565,7 +570,7 @@
       "Name": "Gun for Hire",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 211
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -581,7 +586,7 @@
       "Name": "I am the law!",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 148
     },
     {
       "ID": "INFILTRATOR",
@@ -597,7 +602,7 @@
       "Name": "Lumberjack",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -635,9 +640,9 @@
       "ID": "RANIDAPHOBIA",
       "SetID": "9a4jnji",
       "Name": "Ranidaphobia",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 257
     },
     {
       "ID": "RECYCLER",
@@ -707,9 +712,9 @@
       "ID": "THERE_CAN_BE_ONLY_ONE",
       "SetID": "9a4jnji",
       "Name": "There Can Be Only One!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "THE_MEANING_OF_KAIN",
@@ -731,23 +736,23 @@
       "ID": "WIPE_OUT",
       "SetID": "9a4jnji",
       "Name": "Wipe Out",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 417,
+      "Progressed": 422,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T20:58:17.8341975+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
-  "LastChanged_Achievements": "2023-05-26T07:05:57.1466355+00:00",
+  "LastChanged_Achievements": "2023-05-26T08:06:10.1972515+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:53.8503835+00:00",
-  "LastUpdate_Ratings": "2023-05-26T06:58:28.897051+00:00",
-  "LastUpdate_Achievements": "2023-05-26T07:05:57.1466816+00:00"
+  "LastUpdate_Ratings": "2023-05-26T07:58:38.0277926+00:00",
+  "LastUpdate_Achievements": "2023-05-26T08:06:10.1972976+00:00"
 }

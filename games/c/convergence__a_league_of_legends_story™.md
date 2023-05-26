@@ -5,24 +5,24 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 91.00% | ~311 |
-| Rail Rat | 71.00% | ~243 |
+| Rail Rat | 72.00% | ~246 |
 | The Mysterious Stranger | 68.00% | ~233 |
-| Immaculate Aim | 52.00% | ~178 |
-| The Brass Boss | 43.00% | ~147 |
+| Immaculate Aim | 53.00% | ~181 |
+| The Brass Boss | 44.00% | ~150 |
 | No, Thanks! | 42.00% | ~144 |
-| Honest Mistake | 41.00% | ~140 |
+| Honest Mistake | 42.00% | ~144 |
 | Right On Time | 39.00% | ~133 |
-| Time Flies | 38.00% | ~130 |
-| The Harder They Fall | 37.00% | ~127 |
-| The Prince in Heels | 35.00% | ~120 |
-| Fast Learner | 33.00% | ~113 |
+| Time Flies | 39.00% | ~133 |
+| The Harder They Fall | 38.00% | ~130 |
+| The Prince in Heels | 36.00% | ~123 |
+| Fast Learner | 34.00% | ~116 |
 | Immaculate Aim | 31.00% | ~106 |
 | Make Up For Lost Time | 30.00% | ~103 |
 | Breaking Down Barriers | 29.00% | ~99 |
 | Family Memories | 23.00% | ~79 |
 | The Steel Shadow | 22.00% | ~75 |
 | Golem Chaser | 21.00% | ~72 |
-| Good Neighbor | 20.00% | ~68 |
+| Good Neighbor | 21.00% | ~72 |
 | Like Clockwork | 18.00% | ~62 |
 | The Wicked Twins | 17.00% | ~58 |
 | The Betrayer | 15.00% | ~51 |
@@ -33,8 +33,8 @@
 | Ask Questions Later | 11.00% | ~38 |
 | Factorywood Explorer | 10.00% | ~34 |
 | Whiz Kid | 10.00% | ~34 |
+| Sump Explorer | 10.00% | ~34 |
 | Chaincrawler Explorer | 9.00% | ~31 |
-| Sump Explorer | 9.00% | ~31 |
 | The Man Who Shattered Time | 8.00% | ~27 |
 | The Family Fortune | 8.00% | ~27 |
 | Fairgrounds Explorer | 7.00% | ~24 |

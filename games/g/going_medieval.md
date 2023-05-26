@@ -36,7 +36,7 @@ Number of Ratings: 706  (23.09.2022)
 | Nothing Wasted | 10.00% | ~270 |
 | Where Wolf? | 7.00% | ~189 |
 | Food Chain | 2.00% | ~54 |
-| Wabbit Season | 0.90% | ~24 |
+| Wabbit Season | 1.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,703 (Ranked 137)  
 Completed: 6 (0.22%) (Ranked 135)  

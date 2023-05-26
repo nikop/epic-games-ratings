@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
     "PcReleaseDate": "2023-02-12T11:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 86,
+  "EOS_Progressed": 87,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -210,6 +210,11 @@
     {
       "Time": "2023-05-25T18:03:43.329409+00:00",
       "NumProgressed": 86,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T08:04:41.2989624+00:00",
+      "NumProgressed": 87,
       "NumCompleted": 0
     }
   ],
@@ -460,7 +465,7 @@
       "ID": "ACHIEVEMENT_201",
       "SetID": "76k7b7p",
       "Name": "Better than cake",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -1517,14 +1522,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 86,
+      "Progressed": 87,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-05-26T07:04:29.793322+00:00",
+  "LastChanged_Achievements": "2023-05-26T08:04:41.2989619+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:56:59.6758358+00:00",
-  "LastUpdate_Ratings": "2023-05-26T06:57:11.8037968+00:00",
-  "LastUpdate_Achievements": "2023-05-26T07:04:29.7936939+00:00"
+  "LastUpdate_Ratings": "2023-05-26T07:57:21.4163658+00:00",
+  "LastUpdate_Achievements": "2023-05-26T08:04:41.2993193+00:00"
 }

@@ -16,10 +16,10 @@ Number of Ratings: 71  (23.09.2022)
 | Alone | 39.00% | ~413 |
 | Pack Rat | 39.00% | ~413 |
 | All together, again | 33.00% | ~350 |
-| Spicy | 5.00% | ~53 |
+| Spicy | 6.00% | ~64 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,060 (Ranked 165)  
-Completed: 51 (4.81%) (Ranked 30)  
+Completed: 52 (4.91%) (Ranked 30)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -49,7 +49,7 @@ Completed: 51 (4.81%) (Ranked 30)
 | 2023-05-23 | 1,048 | 51 |
 | 2023-05-24 | 1,053 | 51 |
 | 2023-05-25 | 1,058 | 51 |
-| 2023-05-26 | 1,060 | 51 |
+| 2023-05-26 | 1,060 | 52 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@ Rating: 4.55 (Ranked 468)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 8.00% | ~172 |
+| Wakey Wakey | 8.00% | ~173 |
 | Without Breaking Some Eggs... | 7.00% | ~151 |
 | Infinite Growth... | 7.00% | ~151 |
 | Sputnik 2049 | 7.00% | ~151 |
@@ -43,8 +43,8 @@ Rating: 4.55 (Ranked 468)
 | You Had One Job... | 0.50% | ~11 |
 | Space Greenhouse | 0.50% | ~11 |
 | What the Ruins Teach Us | 0.50% | ~11 |
+| Help of the Forgotten Member | 0.40% | ~9 |
 | Mutual Loyalty | 0.30% | ~6 |
-| Help of the Forgotten Member | 0.30% | ~6 |
 | Better Him Than Me | 0.20% | ~4 |
 | Tiqqun Contender | 0.20% | ~4 |
 | Catastrophe Avoided | 0.20% | ~4 |
@@ -63,7 +63,7 @@ Rating: 4.55 (Ranked 468)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,155 (Ranked 144)  
+Progressed: 2,157 (Ranked 143)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-23 | 2,115 | 0 |
 | 2023-05-24 | 2,134 | 0 |
 | 2023-05-25 | 2,154 | 0 |
-| 2023-05-26 | 2,155 | 0 |
+| 2023-05-26 | 2,157 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

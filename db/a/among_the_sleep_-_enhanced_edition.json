@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72100,
+  "EOS_Progressed": 72101,
   "EOS_Completed": 333,
-  "EOS_NewPlayers": 851,
+  "EOS_NewPlayers": 849,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -3933,6 +3933,11 @@
       "Time": "2023-05-26T07:06:22.1043716+00:00",
       "NumProgressed": 72100,
       "NumCompleted": 333
+    },
+    {
+      "Time": "2023-05-26T08:06:35.2934147+00:00",
+      "NumProgressed": 72101,
+      "NumCompleted": 333
     }
   ],
   "TotalAchievements": 10,
@@ -3984,7 +3989,7 @@
       "Name": "Collected all drawings",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "DrawingsDLC",
@@ -4023,15 +4028,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 72100,
+      "Progressed": 72101,
       "Completed": 333
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-05-26T07:06:22.1043711+00:00",
+  "LastChanged_Achievements": "2023-05-26T08:06:35.2934139+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:37.6361011+00:00",
-  "LastUpdate_Ratings": "2023-05-26T07:00:45.4089335+00:00",
-  "LastUpdate_Achievements": "2023-05-26T07:06:22.1044048+00:00"
+  "LastUpdate_Ratings": "2023-05-26T08:00:50.4643123+00:00",
+  "LastUpdate_Achievements": "2023-05-26T08:06:35.2934463+00:00"
 }

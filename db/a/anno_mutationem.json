@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -79,9 +79,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 613,
+  "EOS_Progressed": 614,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -204,6 +204,11 @@
       "Time": "2023-05-25T20:03:42.7664467+00:00",
       "NumProgressed": 613,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T08:04:05.909418+00:00",
+      "NumProgressed": 614,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -271,7 +276,7 @@
       "Name": "Deadly Kombationem",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "Fire in the hole!",
@@ -279,7 +284,7 @@
       "Name": "Fire in the hole!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "I feel secure, contained \u0026 protected",
@@ -303,7 +308,7 @@
       "Name": "I just love stuff!",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "I_think_its_broke",
@@ -311,7 +316,7 @@
       "Name": "I think it\u0027s broke",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "In the smacker...I think",
@@ -343,7 +348,7 @@
       "Name": "Omnipotence",
       "Percentage": 19,
       "XP": 75,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "SERENITY_NOW",
@@ -391,7 +396,7 @@
       "Name": "That\u0027s gotta hurt",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "The Traveler",
@@ -415,7 +420,7 @@
       "Name": "The Ann Flores Combo Experience",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "The_Warlord",
@@ -471,7 +476,7 @@
       "Name": "You are the One",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "manhole",
@@ -502,7 +507,7 @@
     {
       "ID": "gl7plp",
       "IsBase": true,
-      "Progressed": 613,
+      "Progressed": 614,
       "Completed": 0
     }
   ],
@@ -510,8 +515,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-03-31T05:57:44.802254+00:00",
-  "LastChanged_Achievements": "2023-05-26T07:03:44.4624096+00:00",
+  "LastChanged_Achievements": "2023-05-26T08:04:05.9094172+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:07.9754258+00:00",
-  "LastUpdate_Ratings": "2023-05-26T06:57:44.7325732+00:00",
-  "LastUpdate_Achievements": "2023-05-26T07:03:44.462439+00:00"
+  "LastUpdate_Ratings": "2023-05-26T07:57:50.982158+00:00",
+  "LastUpdate_Achievements": "2023-05-26T08:04:05.909445+00:00"
 }

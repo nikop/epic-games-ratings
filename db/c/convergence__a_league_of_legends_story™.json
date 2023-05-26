@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -443,9 +443,9 @@
       "ID": "GrindingTime1",
       "SetID": "a9e499d",
       "Name": "Rail Rat",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 243
+      "UsersEstimate": 246
     },
     {
       "ID": "HexlockGift",
@@ -523,17 +523,17 @@
       "ID": "ParallelConvergenceMultiHit1",
       "SetID": "a9e499d",
       "Name": "Time Flies",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 133
     },
     {
       "ID": "ParryBoss",
       "SetID": "a9e499d",
       "Name": "The Harder They Fall",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 130
     },
     {
       "ID": "ParryRepeated1",
@@ -563,9 +563,9 @@
       "ID": "PidgeDefeated",
       "SetID": "a9e499d",
       "Name": "The Prince in Heels",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 123
     },
     {
       "ID": "RewindDamage1",
@@ -579,9 +579,9 @@
       "ID": "RewindParry",
       "SetID": "a9e499d",
       "Name": "Honest Mistake",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 144
     },
     {
       "ID": "ScrambotCompletion1",
@@ -611,9 +611,9 @@
       "ID": "SkillProgress1",
       "SetID": "a9e499d",
       "Name": "Fast Learner",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 113
+      "UsersEstimate": 116
     },
     {
       "ID": "SpeedRun",
@@ -627,9 +627,9 @@
       "ID": "SumpChests1",
       "SetID": "a9e499d",
       "Name": "Sump Explorer",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "SyronGift",
@@ -659,9 +659,9 @@
       "ID": "TimewinderMultiKill1",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 181
     },
     {
       "ID": "WarwickDefeated",
@@ -683,17 +683,17 @@
       "ID": "WatcherSpared",
       "SetID": "a9e499d",
       "Name": "Good Neighbor",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 72
     },
     {
       "ID": "Zarkon1Defeated",
       "SetID": "a9e499d",
       "Name": "The Brass Boss",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 147
+      "UsersEstimate": 150
     },
     {
       "ID": "Zarkon2Defeated",
@@ -714,8 +714,8 @@
   ],
   "FirstSeen": "2023-05-23T19:59:54.5607424+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
-  "LastChanged_Achievements": "2023-05-26T07:05:09.3700952+00:00",
+  "LastChanged_Achievements": "2023-05-26T08:05:20.8352197+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:56.3426004+00:00",
-  "LastUpdate_Ratings": "2023-05-26T06:59:40.8940058+00:00",
-  "LastUpdate_Achievements": "2023-05-26T07:05:09.3701455+00:00"
+  "LastUpdate_Ratings": "2023-05-26T07:59:45.7109536+00:00",
+  "LastUpdate_Achievements": "2023-05-26T08:05:20.835259+00:00"
 }

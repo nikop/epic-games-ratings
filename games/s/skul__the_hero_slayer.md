@@ -6,18 +6,18 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~6,882 |
-| What should I buy? | 83.00% | ~6,142 |
-| Focus! | 62.00% | ~4,588 |
-| Rescued Elder Ent | 62.00% | ~4,588 |
-| The End of the Gold Mane Knights | 46.00% | ~3,404 |
-| Rules of Etiquette | 39.00% | ~2,886 |
-| False Goddess, Disappear | 38.00% | ~2,812 |
-| Quick Movements | 33.00% | ~2,442 |
-| Inventory Management | 33.00% | ~2,442 |
-| The Fall of the Leonia Order | 29.00% | ~2,146 |
-| The Hero Killer | 27.00% | ~1,998 |
-| Go Home... | 26.00% | ~1,924 |
+| The Legend Begins | 93.00% | ~6,884 |
+| What should I buy? | 83.00% | ~6,144 |
+| Focus! | 62.00% | ~4,589 |
+| Rescued Elder Ent | 62.00% | ~4,589 |
+| The End of the Gold Mane Knights | 46.00% | ~3,405 |
+| Rules of Etiquette | 39.00% | ~2,887 |
+| False Goddess, Disappear | 38.00% | ~2,813 |
+| Quick Movements | 33.00% | ~2,443 |
+| Inventory Management | 33.00% | ~2,443 |
+| The Fall of the Leonia Order | 29.00% | ~2,147 |
+| The Hero Killer | 27.00% | ~1,999 |
+| Go Home... | 26.00% | ~1,925 |
 | The Final Battle of the First Hero | 25.00% | ~1,850 |
 | Brain at Full Throttle | 22.00% | ~1,628 |
 | Rookies Welcome | 20.00% | ~1,480 |
@@ -28,10 +28,10 @@ Number of Ratings: 546  (23.09.2022)
 | The Levitator | 6.00% | ~444 |
 | The God of Battle | 3.00% | ~222 |
 | Too Much of a Talker | 2.00% | ~148 |
-| The Skeleton King | 2.00% | ~148 |
+| The Skeleton King | 1.00% | ~74 |
 | Cold-Blooded | 0.80% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,400 (Ranked 112)  
+Progressed: 7,402 (Ranked 112)  
 Completed: 11 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -63,7 +63,7 @@ Completed: 11 (0.15%) (Ranked 148)
 | 2023-05-23 | 7,347 | 11 |
 | 2023-05-24 | 7,371 | 11 |
 | 2023-05-25 | 7,396 | 11 |
-| 2023-05-26 | 7,400 | 11 |
+| 2023-05-26 | 7,402 | 11 |
 ## Awards
 Max (Diverse Characters): 113  (Ranked 313)  
 Sum: 753 (Ranked 254)  

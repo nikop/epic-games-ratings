@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1471,
+  "EOS_Progressed": 1472,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -725,6 +725,11 @@
       "Time": "2023-05-26T07:01:07.5931815+00:00",
       "NumProgressed": 1471,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-26T08:01:10.4057671+00:00",
+      "NumProgressed": 1472,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -750,9 +755,9 @@
       "ID": "Collect20Iron",
       "SetID": "9lj35g4",
       "Name": "Collect Iron Ore",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 662
+      "UsersEstimate": 648
     },
     {
       "ID": "Collect50MonsterParts",
@@ -760,7 +765,7 @@
       "Name": "Collect Monster Parts",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "CollectAllStatues",
@@ -824,7 +829,7 @@
       "Name": "Complete Ranger Faction",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "CompleteStoryDM",
@@ -840,7 +845,7 @@
       "Name": "Defeat Avor Warden of the Northern Wastes",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "DefeatMoziQueen",
@@ -872,7 +877,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "GetRangedWeapon",
@@ -888,7 +893,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "Kill25Bugs",
@@ -920,7 +925,7 @@
       "Name": "Meet the Creatures from the Deep",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "MysteryKingsChamber",
@@ -936,7 +941,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "RepairSmith",
@@ -968,29 +973,29 @@
       "Name": "Return Power To The Depths",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     }
   ],
   "AchievementSets": [
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1471,
+      "Progressed": 1472,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 112,
-      "Completed": 112
+      "Progressed": 113,
+      "Completed": 113
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-04-02T20:59:05.8070796+00:00",
-  "LastChanged_Achievements": "2023-05-26T07:01:07.5931809+00:00",
+  "LastChanged_Achievements": "2023-05-26T08:01:10.4057661+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3670256+00:00",
-  "LastUpdate_Ratings": "2023-05-26T06:58:31.1553924+00:00",
-  "LastUpdate_Achievements": "2023-05-26T07:01:07.5932147+00:00"
+  "LastUpdate_Ratings": "2023-05-26T07:58:40.3368069+00:00",
+  "LastUpdate_Achievements": "2023-05-26T08:01:10.4058048+00:00"
 }

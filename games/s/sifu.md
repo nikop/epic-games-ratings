@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~584 |
+| Diligence as a goal | 4.00% | ~585 |
 | Project Arena | 3.00% | ~438 |
 | The Hateful Pole Fighter | 1.00% | ~7,053 |
 | Qi Gong: Breath | 1.00% | ~7,053 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~705 |
 | Warriors from the Mountain | 0.10% | ~705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705,305 (Ranked 15)  
+Progressed: 705,312 (Ranked 15)  
 Completed: 12,735 (1.81%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 12,735 (1.81%) (Ranked 64)
 | 2023-05-23 | 704,864 | 12,733 |
 | 2023-05-24 | 705,048 | 12,734 |
 | 2023-05-25 | 705,232 | 12,734 |
-| 2023-05-26 | 705,305 | 12,735 |
+| 2023-05-26 | 705,312 | 12,735 |
 ## Awards
 Max (Great Boss Battles): 6,091  (Ranked 53)  
 Sum: 10,376 (Ranked 77)  

@@ -58,7 +58,7 @@
 | Loveless | 17.00% | ~26 |
 | Hostile Waters | 15.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 154 (Ranked 252)  
+Progressed: 154 (Ranked 253)  
 Completed: 19 (12.34%) (Ranked 10)  
 ## EOS Players History
 | Date | Progressed | Completed |

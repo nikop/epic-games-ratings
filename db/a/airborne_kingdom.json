@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 96,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6446,
+  "EOS_Progressed": 6447,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -1213,6 +1213,11 @@
       "Time": "2023-05-26T02:06:03.3838711+00:00",
       "NumProgressed": 6446,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-05-26T08:06:21.8869945+00:00",
+      "NumProgressed": 6447,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 27,
@@ -1256,7 +1261,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3416
+      "UsersEstimate": 3417
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -1328,7 +1333,7 @@
       "Name": "A Peaceful Respite",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "AK_PROPHECY_FULFILLED",
@@ -1424,7 +1429,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2578
+      "UsersEstimate": 2579
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -1439,15 +1444,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 6446,
+      "Progressed": 6447,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-03-31T05:57:30.2849463+00:00",
-  "LastChanged_Achievements": "2023-05-26T07:06:08.7086676+00:00",
+  "LastChanged_Achievements": "2023-05-26T08:06:21.8869939+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:58.1571519+00:00",
-  "LastUpdate_Ratings": "2023-05-26T06:57:30.3123311+00:00",
-  "LastUpdate_Achievements": "2023-05-26T07:06:08.7086954+00:00"
+  "LastUpdate_Ratings": "2023-05-26T07:57:37.8726646+00:00",
+  "LastUpdate_Achievements": "2023-05-26T08:06:21.887019+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -428,9 +428,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13643,
+  "EOS_Progressed": 13647,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 969,
+  "EOS_NewPlayers": 966,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1603,6 +1603,11 @@
       "Time": "2023-05-26T07:03:40.7792367+00:00",
       "NumProgressed": 13643,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-26T08:04:02.1730744+00:00",
+      "NumProgressed": 13647,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -1676,9 +1681,9 @@
       "ID": "FINISH_GAME",
       "SetID": "4hj6d86",
       "Name": "I Do Belong Here",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 68
+      "UsersEstimate": 82
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -1933,13 +1938,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13643,
+      "Progressed": 13647,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1569,
+      "Progressed": 1573,
       "Completed": 29
     }
   ],
@@ -1947,8 +1952,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-23T19:57:59.4143533+00:00",
-  "LastChanged_Achievements": "2023-05-26T07:03:40.779236+00:00",
+  "LastChanged_Achievements": "2023-05-26T08:04:02.1730735+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-26T06:57:57.2741766+00:00",
-  "LastUpdate_Achievements": "2023-05-26T07:03:40.7792771+00:00"
+  "LastUpdate_Ratings": "2023-05-26T07:58:03.9889516+00:00",
+  "LastUpdate_Achievements": "2023-05-26T08:04:02.173114+00:00"
 }

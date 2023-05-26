@@ -6,26 +6,26 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 16.00% | ~5,678 |
-| To The Nines | 14.00% | ~4,968 |
-| Optimized | 11.00% | ~3,903 |
-| Performance Review | 11.00% | ~3,903 |
-| Wet Work | 10.00% | ~3,549 |
-| Tune Up | 10.00% | ~3,549 |
-| Making a Name | 10.00% | ~3,549 |
-| The Side Job | 9.00% | ~3,194 |
-| Landlord | 9.00% | ~3,194 |
-| Food for Thought | 8.00% | ~2,839 |
-| Wrecking Ball | 7.00% | ~2,484 |
-| Finders Keepers | 6.00% | ~2,129 |
-| A Young Empire | 6.00% | ~2,129 |
-| Work Ethic | 6.00% | ~2,129 |
-| Quality Time | 4.00% | ~1,419 |
-| Showdown | 4.00% | ~1,419 |
-| Power Players | 4.00% | ~1,419 |
-| Et tu? | 4.00% | ~1,419 |
-| Took It to The Limit | 4.00% | ~1,419 |
-| Picking Fights | 4.00% | ~1,419 |
+| First F#@!ing Day | 16.00% | ~5,681 |
+| To The Nines | 14.00% | ~4,971 |
+| Optimized | 11.00% | ~3,906 |
+| Performance Review | 11.00% | ~3,906 |
+| Wet Work | 10.00% | ~3,550 |
+| Tune Up | 10.00% | ~3,550 |
+| Making a Name | 10.00% | ~3,550 |
+| The Side Job | 9.00% | ~3,195 |
+| Landlord | 9.00% | ~3,195 |
+| Food for Thought | 8.00% | ~2,840 |
+| Wrecking Ball | 7.00% | ~2,485 |
+| Finders Keepers | 6.00% | ~2,130 |
+| A Young Empire | 6.00% | ~2,130 |
+| Work Ethic | 6.00% | ~2,130 |
+| Quality Time | 4.00% | ~1,420 |
+| Showdown | 4.00% | ~1,420 |
+| Power Players | 4.00% | ~1,420 |
+| Et tu? | 4.00% | ~1,420 |
+| Took It to The Limit | 4.00% | ~1,420 |
+| Picking Fights | 4.00% | ~1,420 |
 | Hijacked | 3.00% | ~1,065 |
 | Masters of Santo Ileso | 3.00% | ~1,065 |
 | Kitted Out | 3.00% | ~1,065 |
@@ -34,33 +34,33 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Golden Age | 2.00% | ~710 |
 | The Mechanic | 2.00% | ~710 |
 | Closet Space | 2.00% | ~710 |
-| Producer Credit | 2.00% | ~142 |
-| Face Off | 2.00% | ~142 |
-| Hazardous Heist | 2.00% | ~142 |
+| Producer Credit | 2.00% | ~143 |
+| Face Off | 2.00% | ~143 |
+| Hazardous Heist | 2.00% | ~143 |
 | The Professional | 1.00% | ~355 |
 | Challenge Accepted | 1.00% | ~355 |
 | Untouchable | 1.00% | ~355 |
 | Free Refills | 1.00% | ~355 |
 | Prankster | 1.00% | ~355 |
 | Smooth Moves | 1.00% | ~355 |
-| Chaos Tamer | 0.90% | ~319 |
-| Neighborly | 0.90% | ~319 |
-| Tourist | 0.90% | ~319 |
-| Shopping Spree | 0.70% | ~248 |
-| Always Be Hustling | 0.70% | ~248 |
-| Bonus Round | 0.50% | ~177 |
-| Community Outreach | 0.50% | ~177 |
+| Chaos Tamer | 0.90% | ~320 |
+| Neighborly | 0.90% | ~320 |
+| Tourist | 0.90% | ~320 |
+| Shopping Spree | 0.70% | ~249 |
+| Always Be Hustling | 0.70% | ~249 |
+| Bonus Round | 0.50% | ~178 |
+| Community Outreach | 0.50% | ~178 |
 | All Mine | 0.40% | ~142 |
-| It's a Bird! | 0.30% | ~106 |
-| The Collector | 0.30% | ~106 |
-| Armor Piercing | 0.30% | ~106 |
+| It's a Bird! | 0.30% | ~107 |
+| The Collector | 0.30% | ~107 |
+| Armor Piercing | 0.30% | ~107 |
 | Heard You Like Wheels | 0.20% | ~71 |
-| Jack of All Trades | 0.10% | ~35 |
-| Statement Pieces | 0.10% | ~35 |
-| A Car Named Simone | 0.10% | ~35 |
-| Fiesta Time | 0.10% | ~35 |
+| Jack of All Trades | 0.10% | ~36 |
+| Statement Pieces | 0.10% | ~36 |
+| A Car Named Simone | 0.10% | ~36 |
+| Fiesta Time | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,486 (Ranked 83)  
+Progressed: 35,505 (Ranked 83)  
 Completed: 20 (0.06%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,15 +96,15 @@ Completed: 20 (0.06%) (Ranked 171)
 | 2023-05-23 | 33,987 | 20 |
 | 2023-05-24 | 34,583 | 20 |
 | 2023-05-25 | 35,259 | 20 |
-| 2023-05-26 | 35,486 | 20 |
+| 2023-05-26 | 35,505 | 20 |
 ## Awards
 Max (Extremely Fun): 1,029  (Ranked 133)  
-Sum: 8,361 (Ranked 90)  
+Sum: 8,363 (Ranked 90)  
 Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 1,029 |
-| This game has Quickly Understood Controls | 1,000 |
+| This game has Quickly Understood Controls | 1,002 |
 | This game is Highly Recommended | 974 |
 | This game has Diverse Characters | 959 |
 | This game has Amazing Characters | 959 |
@@ -195,4 +195,4 @@ Diff (max vs sum): 43
 | 2023-05-23 | 3.78 | - | 1,029 | 8,353 |
 | 2023-05-24 | 3.78 | - | 1,029 | 8,357 |
 | 2023-05-25 | 3.78 | - | 1,029 | 8,359 |
-| 2023-05-26 | 3.78 | - | 1,029 | 8,361 |
+| 2023-05-26 | 3.78 | - | 1,029 | 8,363 |

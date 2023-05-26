@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -522,9 +522,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2640,
+  "EOS_Progressed": 2641,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -977,6 +977,11 @@
       "Time": "2023-05-26T07:06:27.5776997+00:00",
       "NumProgressed": 2640,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T08:06:40.8042628+00:00",
+      "NumProgressed": 2641,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1076,7 +1081,7 @@
       "Name": "Honoured Battle-Brother",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ExtractorSkullUses",
@@ -1164,7 +1169,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -1196,7 +1201,7 @@
       "Name": "Friendly Fire",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "Kills_Interactable",
@@ -1210,9 +1215,9 @@
       "ID": "Kills_Knockback",
       "SetID": "3jha1np",
       "Name": "Watch Where You Step...",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 739
+      "UsersEstimate": 713
     },
     {
       "ID": "Kills_Streak",
@@ -1220,7 +1225,7 @@
       "Name": "Purging Spree",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "Kills_Vakir",
@@ -1252,7 +1257,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -1459,21 +1464,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2640,
+      "Progressed": 2641,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2640,
+      "Progressed": 2641,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-26T07:06:27.5776992+00:00",
+  "LastChanged_Achievements": "2023-05-26T08:06:40.8042616+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:13.6314729+00:00",
-  "LastUpdate_Ratings": "2023-05-26T06:58:48.537486+00:00",
-  "LastUpdate_Achievements": "2023-05-26T07:06:27.5777583+00:00"
+  "LastUpdate_Ratings": "2023-05-26T07:58:55.9804989+00:00",
+  "LastUpdate_Achievements": "2023-05-26T08:06:40.8043197+00:00"
 }
