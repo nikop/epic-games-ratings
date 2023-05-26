@@ -5,7 +5,7 @@
   "Ranking_Rating": 877,
   "Ranking_Popularity": 64,
   "Ranking_PopularitySum": 37,
-  "Ranking_EOS_Progress": 60,
+  "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 61,
   "Ranking_EOS_NewPlayers": 70,
   "Ranking_EOS_NewCompleters": 6,
@@ -3940,9 +3940,9 @@
       "Count": 3239
     }
   ],
-  "EOS_Progressed": 88683,
+  "EOS_Progressed": 88686,
   "EOS_Completed": 1879,
-  "EOS_NewPlayers": 749,
+  "EOS_NewPlayers": 751,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 2.12,
   "EosHistory": [
@@ -7415,6 +7415,11 @@
       "Time": "2023-05-26T04:07:00.1933932+00:00",
       "NumProgressed": 88683,
       "NumCompleted": 1879
+    },
+    {
+      "Time": "2023-05-26T05:05:34.6414464+00:00",
+      "NumProgressed": 88686,
+      "NumCompleted": 1879
     }
   ],
   "TotalAchievements": 493,
@@ -8296,9 +8301,9 @@
       "ID": "objective_completed_1203",
       "SetID": "415jc5c",
       "Name": "Checkmate",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 165
     },
     {
       "ID": "objective_completed_1204",
@@ -9096,9 +9101,9 @@
       "ID": "objective_completed_3",
       "SetID": "cc37lbc",
       "Name": "The Cursed Farmer",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 532
     },
     {
       "ID": "objective_completed_34",
@@ -11369,21 +11374,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54957,
+      "Progressed": 54960,
       "Completed": 2709
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88683,
+      "Progressed": 88686,
       "Completed": 1879
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-25T21:58:14.7770868+00:00",
-  "LastChanged_Achievements": "2023-05-26T04:07:00.1933923+00:00",
+  "LastChanged_Achievements": "2023-05-26T05:05:34.641446+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-26T03:58:21.3603937+00:00",
-  "LastUpdate_Achievements": "2023-05-26T04:07:00.1961101+00:00"
+  "LastUpdate_Ratings": "2023-05-26T04:57:40.5771466+00:00",
+  "LastUpdate_Achievements": "2023-05-26T05:05:34.6436636+00:00"
 }

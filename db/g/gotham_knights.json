@@ -1232,9 +1232,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62077,
+  "EOS_Progressed": 62085,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1036,
+  "EOS_NewPlayers": 1035,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3792,6 +3792,11 @@
       "Time": "2023-05-26T04:06:55.2045829+00:00",
       "NumProgressed": 62077,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-26T05:05:29.9061307+00:00",
+      "NumProgressed": 62085,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3899,15 +3904,15 @@
       "Name": "Protector of Gotham",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "CLAYFACE_1",
       "SetID": "4eo5ebm",
       "Name": "Something in the Clay",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 435
+      "UsersEstimate": 497
     },
     {
       "ID": "CLAYFACE_2",
@@ -3923,7 +3928,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -4011,7 +4016,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -4051,7 +4056,7 @@
       "Name": "Cooldown",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -4131,7 +4136,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -4235,7 +4240,7 @@
       "Name": "Voiceless",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "MYSTERY_07",
@@ -4243,7 +4248,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "MYSTERY_08",
@@ -4251,7 +4256,7 @@
       "Name": "Gotham Knight",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "SECRET_CACHE",
@@ -4290,13 +4295,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62077,
+      "Progressed": 62085,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32357,
+      "Progressed": 32365,
       "Completed": 2642
     }
   ],
@@ -4304,8 +4309,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-25T19:00:08.9110669+00:00",
-  "LastChanged_Achievements": "2023-05-26T04:06:55.2045822+00:00",
+  "LastChanged_Achievements": "2023-05-26T05:05:29.9061302+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-26T04:00:22.5322068+00:00",
-  "LastUpdate_Achievements": "2023-05-26T04:06:55.2046699+00:00"
+  "LastUpdate_Ratings": "2023-05-26T04:59:07.145282+00:00",
+  "LastUpdate_Achievements": "2023-05-26T05:05:29.9062113+00:00"
 }

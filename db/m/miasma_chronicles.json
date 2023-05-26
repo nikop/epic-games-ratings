@@ -401,9 +401,9 @@
       "ID": "CROAKED",
       "SetID": "9a4jnji",
       "Name": "Croaked",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 41
     },
     {
       "ID": "CRUELTY",
@@ -505,9 +505,9 @@
       "ID": "FIRST_BLOOD",
       "SetID": "9a4jnji",
       "Name": "First Blood",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 374
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -553,9 +553,9 @@
       "ID": "GUN_FOR_HIRE",
       "SetID": "9a4jnji",
       "Name": "Gun for Hire",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 206
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -609,9 +609,9 @@
       "ID": "PUSHING_DAISY",
       "SetID": "9a4jnji",
       "Name": "Pushing Daisy",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 8
     },
     {
       "ID": "QA_HAS_SUFFERED",
@@ -625,9 +625,9 @@
       "ID": "RANIDAPHOBIA",
       "SetID": "9a4jnji",
       "Name": "Ranidaphobia",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 255
     },
     {
       "ID": "RECYCLER",
@@ -705,9 +705,9 @@
       "ID": "THE_MEANING_OF_KAIN",
       "SetID": "9a4jnji",
       "Name": "The meaning of Kain",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 25
     },
     {
       "ID": "THE_WATCHERS",
@@ -736,8 +736,8 @@
   ],
   "FirstSeen": "2023-05-23T20:58:17.8341975+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
-  "LastChanged_Achievements": "2023-05-26T04:06:12.7998845+00:00",
+  "LastChanged_Achievements": "2023-05-26T05:04:55.6796681+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:53.8503835+00:00",
-  "LastUpdate_Ratings": "2023-05-26T03:58:40.7205772+00:00",
-  "LastUpdate_Achievements": "2023-05-26T04:06:12.7999295+00:00"
+  "LastUpdate_Ratings": "2023-05-26T04:57:54.6694121+00:00",
+  "LastUpdate_Achievements": "2023-05-26T05:04:55.6797013+00:00"
 }

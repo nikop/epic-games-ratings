@@ -4,27 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 90.00% | ~370 |
-| Ranidaphobia | 61.00% | ~251 |
+| First Blood | 91.00% | ~374 |
+| Ranidaphobia | 62.00% | ~255 |
 | Aspiring Editor | 57.00% | ~234 |
-| Gun for Hire | 49.00% | ~201 |
+| Gun for Hire | 50.00% | ~206 |
 | I am the law! | 34.00% | ~140 |
 | Firestarter | 15.00% | ~62 |
 | Lumberjack | 14.00% | ~58 |
-| Croaked | 9.00% | ~37 |
+| Croaked | 10.00% | ~41 |
 | Limp Richard | 9.00% | ~37 |
 | Editor Adept | 7.00% | ~29 |
 | Exorcist | 7.00% | ~29 |
 | From Darkness to Light | 7.00% | ~29 |
 | Giant Killer | 6.00% | ~25 |
+| The meaning of Kain | 6.00% | ~25 |
 | Hold The Line | 5.00% | ~21 |
 | Newtonian Knockout | 5.00% | ~21 |
-| The meaning of Kain | 5.00% | ~21 |
 | Sensei | 4.00% | ~16 |
 | Chain Killer | 3.00% | ~12 |
 | Recycler | 3.00% | ~12 |
 | Technophobe | 3.00% | ~12 |
 | Chain Reaction | 2.00% | ~8 |
+| Pushing Daisy | 2.00% | ~8 |
 | Are you not entertained? | 1.00% | ~4 |
 | Commando | 1.00% | ~4 |
 | Curveball | 1.00% | ~4 |
@@ -33,7 +34,6 @@
 | Endgame | 1.00% | ~4 |
 | Experienced | 1.00% | ~4 |
 | Infiltrator | 1.00% | ~4 |
-| Pushing Daisy | 1.00% | ~4 |
 | Ruthless | 1.00% | ~4 |
 | Savior | 1.00% | ~4 |
 | There Can Be Only One! | 1.00% | ~4 |

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 91.00% | ~307 |
+| Time Heals All Wounds | 92.00% | ~310 |
 | Rail Rat | 71.00% | ~239 |
 | The Mysterious Stranger | 68.00% | ~229 |
 | Immaculate Aim | 52.00% | ~175 |
@@ -12,18 +12,18 @@
 | No, Thanks! | 42.00% | ~142 |
 | Honest Mistake | 41.00% | ~138 |
 | Right On Time | 39.00% | ~131 |
-| Time Flies | 37.00% | ~125 |
+| Time Flies | 38.00% | ~128 |
 | The Harder They Fall | 37.00% | ~125 |
 | The Prince in Heels | 35.00% | ~118 |
-| Fast Learner | 33.00% | ~111 |
+| Fast Learner | 34.00% | ~115 |
 | Immaculate Aim | 31.00% | ~104 |
 | Make Up For Lost Time | 30.00% | ~101 |
 | Breaking Down Barriers | 29.00% | ~98 |
 | Family Memories | 23.00% | ~78 |
 | Golem Chaser | 22.00% | ~74 |
+| The Steel Shadow | 21.00% | ~71 |
 | Good Neighbor | 21.00% | ~71 |
-| The Steel Shadow | 20.00% | ~67 |
-| Like Clockwork | 18.00% | ~61 |
+| Like Clockwork | 19.00% | ~64 |
 | The Wicked Twins | 16.00% | ~54 |
 | The Betrayer | 15.00% | ~51 |
 | Street Style | 14.00% | ~47 |
@@ -32,12 +32,12 @@
 | The Loose Cannon | 12.00% | ~40 |
 | Ask Questions Later | 12.00% | ~40 |
 | Factorywood Explorer | 10.00% | ~34 |
-| Whiz Kid | 9.00% | ~30 |
+| Whiz Kid | 10.00% | ~34 |
+| Chaincrawler Explorer | 9.00% | ~30 |
 | Sump Explorer | 9.00% | ~30 |
-| Chaincrawler Explorer | 8.00% | ~27 |
+| The Man Who Shattered Time | 8.00% | ~27 |
 | The Family Fortune | 8.00% | ~27 |
 | Fairgrounds Explorer | 7.00% | ~24 |
-| The Man Who Shattered Time | 7.00% | ~24 |
 | Cultivair Explorer | 6.00% | ~20 |
 | Hexlock for Protection | 6.00% | ~20 |
 | Sartorialist | 5.00% | ~17 |

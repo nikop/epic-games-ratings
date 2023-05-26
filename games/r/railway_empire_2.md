@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 53.00% | ~73 |
-| Departure | 52.00% | ~71 |
-| A new Journey | 52.00% | ~71 |
-| From X to Y | 50.00% | ~68 |
-| Brainstorm | 48.00% | ~66 |
-| Way of Iron | 48.00% | ~66 |
-| Mystery Tour | 45.00% | ~62 |
-| We brake for nobody | 44.00% | ~60 |
-| Mind the Gap | 39.00% | ~53 |
-| Travel Company | 39.00% | ~53 |
-| Apprentice | 37.00% | ~51 |
-| All around the World | 37.00% | ~51 |
-| Right through the middle | 30.00% | ~41 |
+| Country Bumpkin | 52.00% | ~73 |
+| Departure | 51.00% | ~71 |
+| A new Journey | 51.00% | ~71 |
+| From X to Y | 49.00% | ~69 |
+| Way of Iron | 48.00% | ~67 |
+| Brainstorm | 47.00% | ~66 |
+| Mystery Tour | 44.00% | ~62 |
+| We brake for nobody | 43.00% | ~60 |
+| Apprentice | 39.00% | ~55 |
+| Mind the Gap | 39.00% | ~55 |
+| Travel Company | 39.00% | ~55 |
+| All around the World | 37.00% | ~52 |
+| Right through the middle | 29.00% | ~41 |
 | Stoker | 26.00% | ~36 |
-| Poor Devil | 22.00% | ~30 |
-| Facility Manager | 20.00% | ~27 |
-| Producer | 19.00% | ~26 |
-| Access granted | 12.00% | ~16 |
+| Poor Devil | 21.00% | ~29 |
+| Facility Manager | 19.00% | ~27 |
+| Producer | 19.00% | ~27 |
+| Access granted | 12.00% | ~17 |
 | Bridge Builder | 10.00% | ~14 |
+| Full Steam ahead | 6.00% | ~8 |
 | Socializer | 6.00% | ~8 |
 | Seven at one stroke | 5.00% | ~7 |
-| Full Steam ahead | 5.00% | ~7 |
-| Going once, going twice, sold | 4.00% | ~5 |
-| Bull and bear | 4.00% | ~5 |
+| Going once, going twice, sold | 4.00% | ~6 |
+| Bull and bear | 4.00% | ~6 |
 | Country Life | 3.00% | ~4 |
 | Bold and beautiful | 3.00% | ~4 |
 | Trailblazer | 2.00% | ~3 |
@@ -60,7 +60,7 @@
 | Call of Duty | 0.00% | ~0 |
 | Together we stand | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 137 (Ranked 257)  
+Progressed: 140 (Ranked 256)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,4 +72,4 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-22 | 10 | 0 |
 | 2023-05-24 | 12 | 0 |
 | 2023-05-25 | 119 | 0 |
-| 2023-05-26 | 137 | 0 |
+| 2023-05-26 | 140 | 0 |

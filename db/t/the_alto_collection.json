@@ -655,9 +655,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 22913,
+  "EOS_Progressed": 22917,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 1150,
+  "EOS_NewPlayers": 1146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -4175,6 +4175,11 @@
       "Time": "2023-05-26T04:06:32.077385+00:00",
       "NumProgressed": 22913,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-26T05:05:10.8786849+00:00",
+      "NumProgressed": 22917,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 39,
@@ -4186,7 +4191,7 @@
       "Name": "Junkie",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "distance1000000",
@@ -4194,7 +4199,7 @@
       "Name": "Adventurer",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "distance250000",
@@ -4202,7 +4207,7 @@
       "Name": "Traveler",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "distance50000",
@@ -4210,7 +4215,7 @@
       "Name": "Scout",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2291
+      "UsersEstimate": 2292
     },
     {
       "ID": "distance500000",
@@ -4224,9 +4229,9 @@
       "ID": "goals10",
       "SetID": "2lgngib",
       "Name": "Rookie",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 5499
+      "UsersEstimate": 5729
     },
     {
       "ID": "goals180",
@@ -4242,7 +4247,7 @@
       "Name": "Amateur",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2062
+      "UsersEstimate": 2063
     },
     {
       "ID": "goals75",
@@ -4274,7 +4279,7 @@
       "Name": "Journeyer",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "lifeaquatic",
@@ -4306,7 +4311,7 @@
       "Name": "Nomad",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4353
+      "UsersEstimate": 4354
     },
     {
       "ID": "novice",
@@ -4314,7 +4319,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3895
+      "UsersEstimate": 3896
     },
     {
       "ID": "playerFelipe",
@@ -4394,7 +4399,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 6187
+      "UsersEstimate": 6188
     },
     {
       "ID": "sandboarder",
@@ -4426,7 +4431,7 @@
       "Name": "Here Comes Felipe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 687
+      "UsersEstimate": 688
     },
     {
       "ID": "unlockfinal",
@@ -4450,7 +4455,7 @@
       "Name": "Welcome Maya",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3666
+      "UsersEstimate": 3667
     },
     {
       "ID": "unlockpaz",
@@ -4458,7 +4463,7 @@
       "Name": "Enter Paz",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2062
+      "UsersEstimate": 2063
     },
     {
       "ID": "vandal",
@@ -4482,7 +4487,7 @@
       "Name": "Wanderer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 2062
+      "UsersEstimate": 2063
     },
     {
       "ID": "windswept",
@@ -4497,15 +4502,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 22913,
+      "Progressed": 22917,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-05-21T02:05:22.6886845+00:00",
-  "LastChanged_Achievements": "2023-05-26T04:06:32.0773842+00:00",
+  "LastChanged_Achievements": "2023-05-26T05:05:10.8786844+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:34.6693979+00:00",
-  "LastUpdate_Ratings": "2023-05-26T03:59:48.7664705+00:00",
-  "LastUpdate_Achievements": "2023-05-26T04:06:32.0774316+00:00"
+  "LastUpdate_Ratings": "2023-05-26T04:58:42.4278511+00:00",
+  "LastUpdate_Achievements": "2023-05-26T05:05:10.8787227+00:00"
 }

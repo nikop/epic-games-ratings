@@ -4224,9 +4224,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 705274,
+  "EOS_Progressed": 705285,
   "EOS_Completed": 12735,
-  "EOS_NewPlayers": 2155,
+  "EOS_NewPlayers": 2144,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -7219,6 +7219,11 @@
       "Time": "2023-05-26T04:06:45.37301+00:00",
       "NumProgressed": 705274,
       "NumCompleted": 12735
+    },
+    {
+      "Time": "2023-05-26T05:05:21.5974591+00:00",
+      "NumProgressed": 705285,
+      "NumCompleted": 12735
     }
   ],
   "TotalAchievements": 50,
@@ -7230,7 +7235,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6347
+      "UsersEstimate": 6348
     },
     {
       "ID": "02_Vengeance_H1",
@@ -7238,7 +7243,7 @@
       "Name": "The Assault",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6347
+      "UsersEstimate": 6348
     },
     {
       "ID": "03_Vengeance_H2",
@@ -7254,7 +7259,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6347
+      "UsersEstimate": 6348
     },
     {
       "ID": "05_Vengeance_H4",
@@ -7406,7 +7411,7 @@
       "Name": "Life is your teacher",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6347
+      "UsersEstimate": 6348
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -7414,7 +7419,7 @@
       "Name": "State of constant learning",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6347
+      "UsersEstimate": 6348
     },
     {
       "ID": "25_ShrineMind",
@@ -7494,7 +7499,7 @@
       "Name": "Lightning Hands",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6347
+      "UsersEstimate": 6348
     },
     {
       "ID": "35_WideStrike",
@@ -7510,7 +7515,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6347
+      "UsersEstimate": 6348
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -7518,7 +7523,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6347
+      "UsersEstimate": 6348
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -7566,7 +7571,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -7598,7 +7603,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -7629,21 +7634,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 14575,
+      "Progressed": 14586,
       "Completed": 10170
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 705274,
+      "Progressed": 705285,
       "Completed": 12735
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-25T22:59:04.8520014+00:00",
-  "LastChanged_Achievements": "2023-05-26T04:06:45.3730096+00:00",
+  "LastChanged_Achievements": "2023-05-26T05:05:21.5974586+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.7579865+00:00",
-  "LastUpdate_Ratings": "2023-05-26T03:59:29.176682+00:00",
-  "LastUpdate_Achievements": "2023-05-26T04:06:45.3730741+00:00"
+  "LastUpdate_Ratings": "2023-05-26T04:58:29.2238122+00:00",
+  "LastUpdate_Achievements": "2023-05-26T05:05:21.5975068+00:00"
 }

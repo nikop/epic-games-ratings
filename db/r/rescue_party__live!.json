@@ -2,9 +2,9 @@
   "ID": "f679c7125fd34092a6c20647917e207e",
   "Name": "Rescue Party: Live!",
   "ProductSlug": "rescue-party-live",
-  "Ranking_EOS_Progress": 249,
+  "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-01-13T16:00:00+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 161,
+  "EOS_Progressed": 162,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.35,
+  "EOS_Completed_Percentage": 4.32,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:37.3014297+00:00",
@@ -86,6 +86,11 @@
       "Time": "2023-05-25T10:06:00.3185092+00:00",
       "NumProgressed": 161,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-05-26T05:04:59.2142018+00:00",
+      "NumProgressed": 162,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 18,
@@ -119,9 +124,9 @@
       "ID": "ACH_HERT_COLLECTOR",
       "SetID": "1p69hf1",
       "Name": "Medal of honor",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_IT_IS_IN_CONTROL",
@@ -145,7 +150,7 @@
       "Name": "Life matters",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_LIGHT",
@@ -223,9 +228,9 @@
       "ID": "ACH_SAFETY_FIRST",
       "SetID": "1p69hf1",
       "Name": "Safety first",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_SPEEDY",
@@ -233,14 +238,14 @@
       "Name": "ASAP",
       "Percentage": 93,
       "XP": 50,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     }
   ],
   "AchievementSets": [
     {
       "ID": "1p69hf1",
       "IsBase": true,
-      "Progressed": 161,
+      "Progressed": 162,
       "Completed": 7
     }
   ],
@@ -248,8 +253,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.1285386+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.3014308+00:00",
   "LastChanged": "2023-03-31T05:58:01.1285387+00:00",
-  "LastChanged_Achievements": "2023-05-26T04:06:17.3824374+00:00",
+  "LastChanged_Achievements": "2023-05-26T05:04:59.2142016+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:54.6384952+00:00",
-  "LastUpdate_Ratings": "2023-05-26T03:59:58.053298+00:00",
-  "LastUpdate_Achievements": "2023-05-26T04:06:17.382453+00:00"
+  "LastUpdate_Ratings": "2023-05-26T04:58:49.1277078+00:00",
+  "LastUpdate_Achievements": "2023-05-26T05:04:59.2142117+00:00"
 }
