@@ -36,7 +36,7 @@
 | Simulation 8e7d28c1 | 4.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 48 (Ranked 296)  
-Completed: 2 (4.17%) (Ranked 33)  
+Completed: 2 (4.17%) (Ranked 34)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

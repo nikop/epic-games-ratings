@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 119,
-  "Ranking_EOS_Completed": 116,
+  "Ranking_EOS_Completed": 117,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6058,
+  "EOS_Progressed": 6061,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 238,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -2273,6 +2273,11 @@
       "Time": "2023-05-26T18:05:47.0339347+00:00",
       "NumProgressed": 6058,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-26T19:05:17.0535664+00:00",
+      "NumProgressed": 6061,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 21,
@@ -2324,7 +2329,7 @@
       "Name": "Clay Pigeon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "ENERGY_SAVER",
@@ -2332,7 +2337,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -2356,7 +2361,7 @@
       "Name": "Globe Trotter",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -2388,7 +2393,7 @@
       "Name": "In a Pinch",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "LIBERATOR",
@@ -2428,7 +2433,7 @@
       "Name": "Soul-Canon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -2451,7 +2456,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6058,
+      "Progressed": 6061,
       "Completed": 22
     }
   ],
@@ -2459,8 +2464,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-05-26T18:05:47.0339339+00:00",
+  "LastChanged_Achievements": "2023-05-26T19:05:17.0535658+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:33.822955+00:00",
-  "LastUpdate_Ratings": "2023-05-26T17:57:54.4230737+00:00",
-  "LastUpdate_Achievements": "2023-05-26T18:05:47.0339628+00:00"
+  "LastUpdate_Ratings": "2023-05-26T18:57:45.7203082+00:00",
+  "LastUpdate_Achievements": "2023-05-26T19:05:17.0535891+00:00"
 }

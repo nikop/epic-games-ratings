@@ -4,11 +4,11 @@
   "ProductSlug": "shenmue-3",
   "Ranking_Rating": 824,
   "Ranking_Popularity": 459,
-  "Ranking_PopularitySum": 465,
+  "Ranking_PopularitySum": 466,
   "Ranking_EOS_Progress": 423,
-  "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_Completed": 204,
+  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2019-11-19T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -444,6 +444,6 @@
   "FirstSeen": "2022-07-22T20:17:11.0965349+00:00",
   "LastChanged": "2023-04-18T16:57:17.7241603+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:58.8675254+00:00",
-  "LastUpdate_Ratings": "2023-05-26T17:57:20.8072942+00:00",
-  "LastUpdate_Achievements": "2023-05-26T18:01:37.3920121+00:00"
+  "LastUpdate_Ratings": "2023-05-26T18:57:16.0229772+00:00",
+  "LastUpdate_Achievements": "2023-05-26T19:00:48.399724+00:00"
 }

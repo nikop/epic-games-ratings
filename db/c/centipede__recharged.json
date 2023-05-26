@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 101,
-  "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_Completed": 105,
+  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -290,11 +290,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13948,
-  "EOS_Completed": 83,
-  "EOS_NewPlayers": 238,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.6,
+  "EOS_Progressed": 13949,
+  "EOS_Completed": 85,
+  "EOS_NewPlayers": 236,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:32.2496506+00:00",
@@ -3015,6 +3015,11 @@
       "Time": "2023-05-26T18:03:12.1772448+00:00",
       "NumProgressed": 13948,
       "NumCompleted": 83
+    },
+    {
+      "Time": "2023-05-26T19:02:36.47527+00:00",
+      "NumProgressed": 13949,
+      "NumCompleted": 85
     }
   ],
   "TotalAchievements": 16,
@@ -3026,7 +3031,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 3905
+      "UsersEstimate": 3906
     },
     {
       "ID": "Burning_For_You",
@@ -3122,7 +3127,7 @@
       "Name": "Shooting Shark",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 7113
+      "UsersEstimate": 7114
     },
     {
       "ID": "Sole_Survivor",
@@ -3153,15 +3158,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 13948,
-      "Completed": 83
+      "Progressed": 13949,
+      "Completed": 85
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-05-10T20:58:58.4288263+00:00",
-  "LastChanged_Achievements": "2023-05-26T18:03:12.1772442+00:00",
+  "LastChanged_Achievements": "2023-05-26T19:02:36.4752696+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:20.131205+00:00",
-  "LastUpdate_Ratings": "2023-05-26T17:59:13.035677+00:00",
-  "LastUpdate_Achievements": "2023-05-26T18:03:12.1772727+00:00"
+  "LastUpdate_Ratings": "2023-05-26T18:58:47.076945+00:00",
+  "LastUpdate_Achievements": "2023-05-26T19:02:36.4752918+00:00"
 }

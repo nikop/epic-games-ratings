@@ -8,7 +8,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 0.90% | ~799 |
 | The Court of Storms | 0.70% | ~385 |
-| The Cursed Farmer | 0.60% | ~532 |
+| The Cursed Farmer | 0.60% | ~533 |
 | Beware the Jabberwock | 0.60% | ~330 |
 | The Mad Wizard | 0.50% | ~444 |
 | Beast Intentions | 0.40% | ~355 |
@@ -17,35 +17,36 @@ Number of Ratings: 9,041  (23.09.2022)
 | Quick or Quack | 0.40% | ~220 |
 | Were-verpowered | 0.30% | ~266 |
 | Checkmate | 0.30% | ~165 |
+| A Persistent Buzzing | 0.30% | ~266 |
 | Seeking Allies | 0.30% | ~266 |
 | Are Ya Chicken? | 0.30% | ~266 |
 | Mad Cow Disease | 0.30% | ~266 |
 | Friendly Imps | 0.30% | ~266 |
-| Maddening | 0.20% | ~177 |
+| Pure Energy | 0.30% | ~266 |
+| Maddening | 0.20% | ~178 |
 | Owlbear Necessities | 0.20% | ~110 |
 | Best Thay Ever | 0.20% | ~110 |
+| Unreasonable Doesn't Mean Stupid | 0.20% | ~110 |
 | Pin and Skewer | 0.20% | ~110 |
 | Vecna Out! | 0.20% | ~110 |
-| A Persistent Buzzing | 0.20% | ~177 |
 | No One Can Hear You Scream | 0.20% | ~110 |
 | Welcome to the Rock | 0.20% | ~110 |
-| Beast Mode | 0.20% | ~177 |
-| Terror in the Dark | 0.20% | ~177 |
-| Low Initiative | 0.20% | ~177 |
-| A Mysterious Summons | 0.20% | ~177 |
-| Building Trust | 0.20% | ~177 |
-| Unearthed Evil | 0.20% | ~177 |
-| The Crumbling Temple | 0.20% | ~177 |
-| Useless Allies | 0.20% | ~177 |
-| Exploring Port Nyanzaru | 0.20% | ~177 |
-| Running of the Saurs | 0.20% | ~177 |
-| The Contagious Curse | 0.20% | ~177 |
+| Beast Mode | 0.20% | ~178 |
+| Terror in the Dark | 0.20% | ~178 |
+| Low Initiative | 0.20% | ~178 |
+| A Mysterious Summons | 0.20% | ~178 |
+| Building Trust | 0.20% | ~178 |
+| Unearthed Evil | 0.20% | ~178 |
+| The Crumbling Temple | 0.20% | ~178 |
+| Useless Allies | 0.20% | ~178 |
+| Exploring Port Nyanzaru | 0.20% | ~178 |
+| Running of the Saurs | 0.20% | ~178 |
+| The Contagious Curse | 0.20% | ~178 |
 | An Even Worse Time in Avernus | 0.20% | ~110 |
-| Escort to Waterdeep | 0.20% | ~177 |
-| Waterdeep Detours | 0.20% | ~177 |
-| Underdeep Cartography | 0.20% | ~177 |
-| Pure Energy | 0.20% | ~177 |
-| The Templar's Camp | 0.20% | ~177 |
+| Escort to Waterdeep | 0.20% | ~178 |
+| Waterdeep Detours | 0.20% | ~178 |
+| Underdeep Cartography | 0.20% | ~178 |
+| The Templar's Camp | 0.20% | ~178 |
 | Pros and CONs | 0.10% | ~89 |
 | Upholding the Law | 0.10% | ~89 |
 | Starving in the Jungle | 0.10% | ~89 |
@@ -144,7 +145,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Frail Doesn't Mean Broken | 0.10% | ~55 |
 | The Castle of a Thousand Vecnas | 0.10% | ~55 |
 | Clumsy Doesn't Mean Inept | 0.10% | ~55 |
-| Unreasonable Doesn't Mean Stupid | 0.10% | ~55 |
 | The Sanctum of the Sword | 0.10% | ~55 |
 | Kas the Bloody Handed | 0.10% | ~55 |
 | Get Back In The Castle | 0.10% | ~55 |
@@ -500,8 +500,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.10% | ~89 |
 | Rescue in the Jungle | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,745 (Ranked 61)  
-Completed: 1,880 (2.12%) (Ranked 61)  
+Progressed: 88,756 (Ranked 61)  
+Completed: 1,880 (2.12%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -536,7 +536,7 @@ Completed: 1,880 (2.12%) (Ranked 61)
 | 2023-05-23 | 88,435 | 1,872 |
 | 2023-05-24 | 88,533 | 1,875 |
 | 2023-05-25 | 88,656 | 1,879 |
-| 2023-05-26 | 88,745 | 1,880 |
+| 2023-05-26 | 88,756 | 1,880 |
 ## Awards
 Max (Diverse Characters): 4,905  (Ranked 64)  
 Sum: 29,983 (Ranked 37)  

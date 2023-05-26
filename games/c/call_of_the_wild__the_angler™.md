@@ -12,7 +12,7 @@ Number of Ratings: 281  (23.09.2022)
 | Can you smell what the Rod is Hooking | 46.00% | ~1,733 |
 | Scaling up | 46.00% | ~1,733 |
 | Ready to Rod and Roll | 38.00% | ~1,432 |
-| More Fish in the Sea | 37.00% | ~1,394 |
+| More Fish in the Sea | 38.00% | ~1,432 |
 | License to Gill | 31.00% | ~1,168 |
 | Fish Out of Water | 29.00% | ~1,093 |
 | Things that go Splash in the Night | 25.00% | ~942 |
@@ -43,7 +43,7 @@ Number of Ratings: 281  (23.09.2022)
 | Have Fish, Will Travel | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,768 (Ranked 130)  
-Completed: 0 (0.00%) (Ranked 203)  
+Completed: 0 (0.00%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

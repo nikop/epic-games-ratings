@@ -19,8 +19,8 @@
 | I love books! | 9.00% | ~17 |
 | King of fish | 9.00% | ~17 |
 | What would we do if we can't go out with friends? | 8.00% | ~15 |
+| Food producer | 6.00% | ~11 |
 | Metropolurbek | 6.00% | ~11 |
-| Food producer | 5.00% | ~9 |
 | I am very happy! | 4.00% | ~7 |
 | Sport is the best thing | 4.00% | ~7 |
 | Banking city | 3.00% | ~6 |
@@ -39,6 +39,7 @@
 | Archipelago urban planner | 1.00% | ~2 |
 | Perfect city | 1.00% | ~2 |
 | Oh, I am sad | 1.00% | ~2 |
+| Farming Frenzy | 1.00% | ~2 |
 | Town planner | 1.00% | ~2 |
 | Anarchist paradise | 0.50% | ~1 |
 | I can't see the sky | 0.50% | ~1 |
@@ -47,7 +48,6 @@
 | Desert builder | 0.50% | ~1 |
 | Desert urban planner | 0.50% | ~1 |
 | Oh, life is too awesome! Thank you! | 0.50% | ~1 |
-| Farming Frenzy | 0.50% | ~1 |
 | I don't feel well, I have to drink a coffe | 0.50% | ~1 |
 | Metropolurbek Plus | 0.50% | ~1 |
 | City in flames | 0.50% | ~1 |
@@ -84,8 +84,8 @@
 | Rainforest urban planner | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 185 (Ranked 240)  
-Completed: 0 (0.00%) (Ranked 203)  
+Progressed: 185 (Ranked 241)  
+Completed: 0 (0.00%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

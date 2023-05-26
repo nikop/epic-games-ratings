@@ -2,13 +2,13 @@
   "ID": "244aaaa06bfa49d088205b13b9d2d115",
   "Name": "Warframe",
   "ProductSlug": "warframe",
-  "Ranking_Rating": 358,
+  "Ranking_Rating": 359,
   "Ranking_Popularity": 21,
   "Ranking_PopularitySum": 28,
   "Ranking_EOS_Progress": 423,
-  "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_Completed": 204,
+  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2020-12-11T00:55:00+00:00",
     "PcReleaseDate": "2020-03-25T18:34:00+00:00",
@@ -5375,10 +5375,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 39943,
       "NumberOfAwardsMax": 15032
+    },
+    {
+      "Time": "2023-05-26T18:57:09.364703+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 39960,
+      "NumberOfAwardsMax": 15032
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 39943,
+  "NumberOfAwards": 39960,
   "NumberOfAwardsMax": 15032,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5422,7 +5428,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 3069
+      "Count": 3082
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5434,7 +5440,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 2906
+      "Count": 2910
     },
     {
       "Text": "This game has a Kind Community",
@@ -5460,8 +5466,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
-  "LastChanged": "2023-05-26T17:57:14.1162421+00:00",
+  "LastChanged": "2023-05-26T18:57:09.3647029+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:07.2240122+00:00",
-  "LastUpdate_Ratings": "2023-05-26T17:57:14.1162429+00:00",
-  "LastUpdate_Achievements": "2023-05-26T18:01:08.3368943+00:00"
+  "LastUpdate_Ratings": "2023-05-26T18:57:09.3647035+00:00",
+  "LastUpdate_Achievements": "2023-05-26T19:00:24.4239662+00:00"
 }

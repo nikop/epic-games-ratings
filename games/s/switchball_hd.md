@@ -15,7 +15,7 @@
 | Spyglass | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 77 (Ranked 276)  
-Completed: 0 (0.00%) (Ranked 203)  
+Completed: 0 (0.00%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

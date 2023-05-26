@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 192,
-  "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_Completed": 204,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -700,9 +700,9 @@
       "ID": "QUEST_YON",
       "SetID": "ccc0dlh",
       "Name": "Proportions",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 22
     }
   ],
   "AchievementSets": [
@@ -722,8 +722,8 @@
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-05-18T00:00:29.519029+00:00",
-  "LastChanged_Achievements": "2023-05-26T18:06:34.0787442+00:00",
+  "LastChanged_Achievements": "2023-05-26T19:05:48.9515844+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:40.5662436+00:00",
-  "LastUpdate_Ratings": "2023-05-26T18:00:56.3645535+00:00",
-  "LastUpdate_Achievements": "2023-05-26T18:06:34.0787788+00:00"
+  "LastUpdate_Ratings": "2023-05-26T19:00:13.7177345+00:00",
+  "LastUpdate_Achievements": "2023-05-26T19:05:48.951613+00:00"
 }

@@ -42,7 +42,7 @@ Rating: 4.50 (Ranked 538)
 | Real Achiever | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 375 (Ranked 203)  
-Completed: 1 (0.27%) (Ranked 131)  
+Completed: 1 (0.27%) (Ranked 132)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

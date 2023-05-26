@@ -3,9 +3,9 @@
   "Name": "Oxide Room 104",
   "ProductSlug": "oxide-room-104-4c1249",
   "Ranking_EOS_Progress": 319,
-  "Ranking_EOS_Completed": 203,
+  "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T22:00:00+00:00",
@@ -167,9 +167,9 @@
       "ID": "ACH_BATHROOM",
       "SetID": "511e31d",
       "Name": "What\u0027s going on here?",
-      "Percentage": 82,
+      "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_COMMONAREA",
@@ -390,8 +390,8 @@
   ],
   "FirstSeen": "2023-05-13T17:57:10.0187604+00:00",
   "FirstSeenAchievements": "2023-04-27T23:00:38.6793029+00:00",
-  "LastChanged_Achievements": "2023-05-26T18:05:47.6763774+00:00",
+  "LastChanged_Achievements": "2023-05-26T19:05:17.6457339+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:03.4791013+00:00",
-  "LastUpdate_Ratings": "2023-05-26T17:57:06.2811592+00:00",
-  "LastUpdate_Achievements": "2023-05-26T18:05:47.6763998+00:00"
+  "LastUpdate_Ratings": "2023-05-26T18:57:01.9980199+00:00",
+  "LastUpdate_Achievements": "2023-05-26T19:05:17.6457563+00:00"
 }

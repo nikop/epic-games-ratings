@@ -6,9 +6,9 @@
   "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 138,
-  "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_Completed": 204,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -522,9 +522,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2660,
+  "EOS_Progressed": 2662,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1027,6 +1027,11 @@
       "Time": "2023-05-26T18:06:28.3509385+00:00",
       "NumProgressed": 2660,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T19:05:43.8021051+00:00",
+      "NumProgressed": 2662,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1206,7 +1211,7 @@
       "Name": "Not So Fast...",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "Kills_Bleed",
@@ -1230,7 +1235,7 @@
       "Name": "Executioner",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "Kills_Exterminator",
@@ -1262,7 +1267,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "Kills_Streak",
@@ -1374,7 +1379,7 @@
       "Name": "Bloodless",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -1509,21 +1514,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2660,
+      "Progressed": 2662,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2660,
+      "Progressed": 2662,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-26T18:06:28.3509376+00:00",
+  "LastChanged_Achievements": "2023-05-26T19:05:43.8021048+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:13.6314729+00:00",
-  "LastUpdate_Ratings": "2023-05-26T17:58:44.7208963+00:00",
-  "LastUpdate_Achievements": "2023-05-26T18:06:28.3509966+00:00"
+  "LastUpdate_Ratings": "2023-05-26T18:58:24.9889537+00:00",
+  "LastUpdate_Achievements": "2023-05-26T19:05:43.8021495+00:00"
 }

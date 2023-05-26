@@ -1,33 +1,33 @@
 # Partisans 1941
 [Store](https://store.epicgames.com/en-US/p/partisans-1941)  
 [View Rawdata](../../db/p/partisans_1941.json)  
-Rating: 4.61 (Ranked 358)  
+Rating: 4.61 (Ranked 359)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| E1M1 | 28.00% | ~263 |
-| War Never Changes | 28.00% | ~263 |
+| E1M1 | 28.00% | ~264 |
+| War Never Changes | 28.00% | ~264 |
 | Grenadier | 27.00% | ~254 |
-| Heroes Never Die | 25.00% | ~235 |
+| Heroes Never Die | 25.00% | ~236 |
 | Mosquito bite | 24.00% | ~226 |
 | Spice It Up | 22.00% | ~207 |
-| Agent 47 | 18.00% | ~169 |
-| You're Gonna Go Far, Kid | 18.00% | ~169 |
-| Bomberman | 18.00% | ~169 |
+| Agent 47 | 18.00% | ~170 |
+| You're Gonna Go Far, Kid | 18.00% | ~170 |
+| Bomberman | 18.00% | ~170 |
 | Death to the Oppressor! | 13.00% | ~122 |
 | The Gang's All Here | 11.00% | ~104 |
 | Your Answer | 10.00% | ~94 |
-| The Big Bertha | 9.00% | ~85 |
 | One by One | 9.00% | ~85 |
+| The Big Bertha | 8.00% | ~75 |
 | Game Over | 7.00% | ~66 |
-| Lock, Stock | 6.00% | ~56 |
+| Lock, Stock | 6.00% | ~57 |
 | Payback Time | 5.00% | ~47 |
 | No Witness | 4.00% | ~38 |
 | Strategist | 2.00% | ~19 |
 | Unbreakable Wall | 1.00% | ~9 |
-| Do a Barrel Roll! | 0.90% | ~8 |
-| Experienced Strategist | 0.90% | ~8 |
+| Do a Barrel Roll! | 0.80% | ~8 |
+| Experienced Strategist | 0.80% | ~8 |
 | Tough as Nails | 0.30% | ~3 |
 | How?! | 0.30% | ~3 |
 | We Weren't There | 0.20% | ~2 |
@@ -37,8 +37,8 @@ Number of Ratings: 98  (23.09.2022)
 | Defense of Steel | 0.00% | ~0 |
 | Scout | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 941 (Ranked 169)  
-Completed: 1 (0.11%) (Ranked 156)  
+Progressed: 942 (Ranked 169)  
+Completed: 1 (0.11%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -70,6 +70,7 @@ Completed: 1 (0.11%) (Ranked 156)
 | 2023-05-23 | 926 | 1 |
 | 2023-05-24 | 937 | 1 |
 | 2023-05-25 | 941 | 1 |
+| 2023-05-26 | 942 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

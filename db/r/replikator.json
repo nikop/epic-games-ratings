@@ -3,9 +3,9 @@
   "Name": "REPLIKATOR",
   "ProductSlug": "replikator-6adddc",
   "Ranking_EOS_Progress": 423,
-  "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_Completed": 204,
+  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-09-05T16:00:00+00:00",
     "PcReleaseDate": "2022-05-11T16:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:12.6901019+00:00",
   "LastChanged": "2023-03-31T05:57:12.6901019+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:57.1593988+00:00",
-  "LastUpdate_Ratings": "2023-05-26T17:57:17.0038761+00:00",
-  "LastUpdate_Achievements": "2023-05-26T18:03:20.2031368+00:00"
+  "LastUpdate_Ratings": "2023-05-26T18:57:12.9149848+00:00",
+  "LastUpdate_Achievements": "2023-05-26T19:03:12.8576648+00:00"
 }

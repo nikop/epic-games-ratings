@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 161,
-  "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_Completed": 164,
+  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -92,9 +92,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1174,
+  "EOS_Progressed": 1175,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2187,6 +2187,11 @@
       "Time": "2023-05-26T17:05:53.8842796+00:00",
       "NumProgressed": 1174,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-26T19:05:35.4089206+00:00",
+      "NumProgressed": 1175,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2318,7 +2323,7 @@
       "Name": "Dragon Slayer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ebonyjungleliberator",
@@ -2334,7 +2339,7 @@
       "Name": "Enchanting skill",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "enchantingskillx5",
@@ -2350,7 +2355,7 @@
       "Name": "Engineer Mastery",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "enhancedwarmachines",
@@ -2390,7 +2395,7 @@
       "Name": "Four Leaf Clover",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "frostfireliberator",
@@ -2406,7 +2411,7 @@
       "Name": "Full Party",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "gearenchanting",
@@ -2470,7 +2475,7 @@
       "Name": "Inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "jewelenchanting",
@@ -2502,7 +2507,7 @@
       "Name": "Lock And Load",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "masterenchanter",
@@ -2558,7 +2563,7 @@
       "Name": "Mysterious Rock",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "mythicpower",
@@ -2574,7 +2579,7 @@
       "Name": "Natural Talent",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "pokerface",
@@ -2590,7 +2595,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "prestigiousx10",
@@ -2654,7 +2659,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "thealchemist",
@@ -2702,7 +2707,7 @@
       "Name": "The Unstoppable",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "titanpower",
@@ -2782,7 +2787,7 @@
       "Name": "What lies behind the bush",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "worldmap",
@@ -2790,14 +2795,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1174,
+      "Progressed": 1175,
       "Completed": 1
     }
   ],
@@ -2805,8 +2810,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-23T21:58:11.918076+00:00",
-  "LastChanged_Achievements": "2023-05-26T18:06:18.4873229+00:00",
+  "LastChanged_Achievements": "2023-05-26T19:05:35.4089202+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:34.8363446+00:00",
-  "LastUpdate_Ratings": "2023-05-26T17:57:57.6684293+00:00",
-  "LastUpdate_Achievements": "2023-05-26T18:06:18.4874109+00:00"
+  "LastUpdate_Ratings": "2023-05-26T18:57:49.8412424+00:00",
+  "LastUpdate_Achievements": "2023-05-26T19:05:35.4089889+00:00"
 }

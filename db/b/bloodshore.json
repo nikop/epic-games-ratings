@@ -3,9 +3,9 @@
   "Name": "Bloodshore",
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 256,
-  "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_Completed": 63,
+  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
     "PcReleaseDate": "2021-11-03T17:00:00+00:00",
@@ -256,8 +256,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-05-26T18:06:24.2190896+00:00",
+  "LastChanged_Achievements": "2023-05-26T19:05:40.0802943+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:09:48.2887695+00:00",
-  "LastUpdate_Ratings": "2023-05-26T18:00:21.0470797+00:00",
-  "LastUpdate_Achievements": "2023-05-26T18:06:24.2191043+00:00"
+  "LastUpdate_Ratings": "2023-05-26T18:59:42.096359+00:00",
+  "LastUpdate_Achievements": "2023-05-26T19:05:40.0803054+00:00"
 }

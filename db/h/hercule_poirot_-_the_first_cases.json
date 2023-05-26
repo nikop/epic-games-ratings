@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 210,
-  "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_Completed": 83,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
     "PcReleaseDate": "2021-09-27T00:00:00+00:00",
@@ -40,9 +40,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 357,
+  "EOS_Progressed": 358,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.12,
   "EosHistory": [
@@ -155,6 +155,11 @@
       "Time": "2023-05-25T20:06:10.4352059+00:00",
       "NumProgressed": 357,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-05-26T19:05:33.380034+00:00",
+      "NumProgressed": 358,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 46,
@@ -166,7 +171,7 @@
       "Name": "The Bracelet",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH_010",
@@ -188,25 +193,25 @@
       "ID": "ACH_012",
       "SetID": "72imik0",
       "Name": "Well-acquainted",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_013",
       "SetID": "72imik0",
       "Name": "Little Grey Cells",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH_014",
       "SetID": "72imik0",
       "Name": "Order and Method",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_015",
@@ -214,7 +219,7 @@
       "Name": "Truth from Within",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_016",
@@ -228,9 +233,9 @@
       "ID": "ACH_017",
       "SetID": "72imik0",
       "Name": "Instinct is Marvellous",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_018",
@@ -244,9 +249,9 @@
       "ID": "ACH_019",
       "SetID": "72imik0",
       "Name": "Fine-toothed Comb",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 196
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_02",
@@ -254,7 +259,7 @@
       "Name": "The Blackmail",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ACH_020",
@@ -326,7 +331,7 @@
       "Name": "It Wasn\u2019t a Burglary",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "ACH_029",
@@ -340,9 +345,9 @@
       "ID": "ACH_03",
       "SetID": "72imik0",
       "Name": "The Altercation",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 186
+      "UsersEstimate": 183
     },
     {
       "ID": "ACH_030",
@@ -350,15 +355,15 @@
       "Name": "Probably the Greatest Detective in the World",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_031",
       "SetID": "72imik0",
       "Name": "Angeline Van den Bosch",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH_032",
@@ -366,7 +371,7 @@
       "Name": "Archibald Sterling",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_033",
@@ -382,7 +387,7 @@
       "Name": "Comtesse Margaux de Vos",
       "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_035",
@@ -390,7 +395,7 @@
       "Name": "Elizabeth Padget",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "ACH_036",
@@ -406,7 +411,7 @@
       "Name": "Florette Duval",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ACH_038",
@@ -454,7 +459,7 @@
       "Name": "Luc Piette",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH_043",
@@ -462,7 +467,7 @@
       "Name": "Major Felix Hagen",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ACH_044",
@@ -478,7 +483,7 @@
       "Name": "Viscount Edwin Van den Bosch",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_046",
@@ -492,9 +497,9 @@
       "ID": "ACH_05",
       "SetID": "72imik0",
       "Name": "The Interrogations",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 161
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_06",
@@ -518,7 +523,7 @@
       "Name": "The Family",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_09",
@@ -526,14 +531,14 @@
       "Name": "The Truth",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     }
   ],
   "AchievementSets": [
     {
       "ID": "72imik0",
       "IsBase": true,
-      "Progressed": 357,
+      "Progressed": 358,
       "Completed": 4
     }
   ],
@@ -541,8 +546,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2023-04-23T20:59:05.6364727+00:00",
-  "LastChanged_Achievements": "2023-05-26T18:06:16.0670583+00:00",
+  "LastChanged_Achievements": "2023-05-26T19:05:33.3800338+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:21.1677619+00:00",
-  "LastUpdate_Ratings": "2023-05-26T17:57:45.0315789+00:00",
-  "LastUpdate_Achievements": "2023-05-26T18:06:16.0670973+00:00"
+  "LastUpdate_Ratings": "2023-05-26T18:57:37.1911278+00:00",
+  "LastUpdate_Achievements": "2023-05-26T19:05:33.3800633+00:00"
 }

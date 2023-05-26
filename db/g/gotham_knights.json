@@ -6,9 +6,9 @@
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 70,
-  "Ranking_EOS_Completed": 148,
+  "Ranking_EOS_Completed": 149,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1250,9 +1250,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62167,
+  "EOS_Progressed": 62182,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1014,
+  "EOS_NewPlayers": 1013,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3880,6 +3880,11 @@
       "Time": "2023-05-26T18:06:36.1004081+00:00",
       "NumProgressed": 62167,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-26T19:05:50.7378017+00:00",
+      "NumProgressed": 62182,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4201,9 +4206,9 @@
       "ID": "HARLEY_2",
       "SetID": "4eo5ebm",
       "Name": "Get ReQ\u0027d",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 560
+      "UsersEstimate": 622
     },
     {
       "ID": "HARLEY_3",
@@ -4235,7 +4240,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1243
+      "UsersEstimate": 1244
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -4257,9 +4262,9 @@
       "ID": "HERO_PROGRESSION_4",
       "SetID": "4eo5ebm",
       "Name": "Unstoppable Force",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 435
+      "UsersEstimate": 497
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -4297,9 +4302,9 @@
       "ID": "MYSTERY_03",
       "SetID": "4eo5ebm",
       "Name": "Lock and Key",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 435
+      "UsersEstimate": 497
     },
     {
       "ID": "MYSTERY_04",
@@ -4378,13 +4383,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62167,
+      "Progressed": 62182,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32447,
+      "Progressed": 32462,
       "Completed": 2642
     }
   ],
@@ -4392,8 +4397,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-26T18:00:06.9487835+00:00",
-  "LastChanged_Achievements": "2023-05-26T18:06:36.1004067+00:00",
+  "LastChanged_Achievements": "2023-05-26T19:05:50.7378012+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-26T18:00:06.9487842+00:00",
-  "LastUpdate_Achievements": "2023-05-26T18:06:36.1004828+00:00"
+  "LastUpdate_Ratings": "2023-05-26T18:59:28.869277+00:00",
+  "LastUpdate_Achievements": "2023-05-26T19:05:50.7378632+00:00"
 }

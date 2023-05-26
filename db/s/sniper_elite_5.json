@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 156,
-  "Ranking_EOS_Completed": 153,
+  "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1509,
+  "EOS_Progressed": 1514,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 702,
+  "EOS_NewPlayers": 703,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1502,6 +1502,11 @@
       "Time": "2023-05-26T18:05:58.6022754+00:00",
       "NumProgressed": 1509,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-26T19:05:27.0135839+00:00",
+      "NumProgressed": 1514,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1535,9 +1540,9 @@
       "ID": "REWARD_13_OPTIONAL_TASK",
       "SetID": "bm6el81",
       "Name": "No Stone Unturned",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 30
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -1553,7 +1558,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -1569,7 +1574,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -1577,7 +1582,7 @@
       "Name": "Organ Grinder",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -1593,7 +1598,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1681,7 +1686,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1713,7 +1718,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -1753,7 +1758,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -1775,9 +1780,9 @@
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
       "SetID": "bm6el81",
       "Name": "Snake in the Grass",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 45
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -1823,17 +1828,17 @@
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
       "SetID": "bm6el81",
       "Name": "It\u0027s Starting to Crack",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 106
+      "UsersEstimate": 121
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
       "SetID": "bm6el81",
       "Name": "It\u0027ll Buff Right Out",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "REWARD_56_SMOOTH_OPERATOR",
@@ -1849,7 +1854,7 @@
       "Name": "Change the Channel",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -1881,7 +1886,7 @@
       "Name": "Taking it back",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -1927,9 +1932,9 @@
       "ID": "REWARD_9_NO_LOOSE_ENDS",
       "SetID": "bm6el81",
       "Name": "Can\u0027t Outrun A Bullet",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "REWARD_DLC01_01_FUHRERIOUS_REPETITION",
@@ -2080,13 +2085,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1460,
+      "Progressed": 1465,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1509,
+      "Progressed": 1514,
       "Completed": 2
     }
   ],
@@ -2094,8 +2099,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-26T14:01:24.142257+00:00",
-  "LastChanged_Achievements": "2023-05-26T18:05:58.6022748+00:00",
+  "LastChanged_Achievements": "2023-05-26T19:05:27.0135836+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-26T18:00:59.9580346+00:00",
-  "LastUpdate_Achievements": "2023-05-26T18:05:58.6023446+00:00"
+  "LastUpdate_Ratings": "2023-05-26T19:00:16.5999905+00:00",
+  "LastUpdate_Achievements": "2023-05-26T19:05:27.0136428+00:00"
 }

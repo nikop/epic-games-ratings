@@ -2,13 +2,13 @@
   "ID": "aa102e1c575d42868a11ac8e79af2126",
   "Name": "Partisans 1941",
   "ProductSlug": "partisans-1941",
-  "Ranking_Rating": 358,
+  "Ranking_Rating": 359,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 169,
-  "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_Completed": 157,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 941,
+  "EOS_Progressed": 942,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -725,6 +725,11 @@
       "Time": "2023-05-25T14:05:46.1837172+00:00",
       "NumProgressed": 941,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-26T19:05:39.6199002+00:00",
+      "NumProgressed": 942,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -736,7 +741,7 @@
       "Name": "Agent 47",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "Auditor",
@@ -750,7 +755,7 @@
       "ID": "Barrel_roll",
       "SetID": "85nb4h3",
       "Name": "Do a Barrel Roll!",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -758,9 +763,9 @@
       "ID": "Big_Bertha",
       "SetID": "85nb4h3",
       "Name": "The Big Bertha",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 75
     },
     {
       "ID": "Boy",
@@ -768,7 +773,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "Commandos",
@@ -808,7 +813,7 @@
       "Name": "Lock, Stock",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "E1M1",
@@ -816,7 +821,7 @@
       "Name": "E1M1",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "Everyone_is_here",
@@ -830,7 +835,7 @@
       "ID": "Experienced_strategist",
       "SetID": "85nb4h3",
       "Name": "Experienced Strategist",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -864,7 +869,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "High_noon",
@@ -920,7 +925,7 @@
       "Name": "Bomberman",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "MoskitoBite",
@@ -952,7 +957,7 @@
       "Name": "War Never Changes",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "We_were_not_here",
@@ -975,15 +980,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 941,
+      "Progressed": 942,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-04-14T18:57:17.0774769+00:00",
-  "LastChanged_Achievements": "2023-05-26T18:06:23.7455012+00:00",
+  "LastChanged_Achievements": "2023-05-26T19:05:39.6198999+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:35.4826245+00:00",
-  "LastUpdate_Ratings": "2023-05-26T17:59:31.0665237+00:00",
-  "LastUpdate_Achievements": "2023-05-26T18:06:23.7455239+00:00"
+  "LastUpdate_Ratings": "2023-05-26T18:59:00.800456+00:00",
+  "LastUpdate_Achievements": "2023-05-26T19:05:39.6199181+00:00"
 }

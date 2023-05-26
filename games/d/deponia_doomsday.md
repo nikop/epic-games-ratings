@@ -1,7 +1,7 @@
 # Deponia Doomsday
 [Store](https://store.epicgames.com/en-US/p/deponia-doomsday-1848dd)  
 [View Rawdata](../../db/d/deponia_doomsday.json)  
-Rating: 4.56 (Ranked 450)  
+Rating: 4.56 (Ranked 451)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -43,7 +43,7 @@ Rating: 4.56 (Ranked 450)
 | 1001 Jackalopes | 2.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 359 (Ranked 209)  
-Completed: 6 (1.67%) (Ranked 66)  
+Completed: 6 (1.67%) (Ranked 67)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

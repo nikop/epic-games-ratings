@@ -2,13 +2,13 @@
   "ID": "755d1aa0a0154fe7a602caaec1f18c10",
   "Name": "Road 96",
   "ProductSlug": "road-96",
-  "Ranking_Rating": 340,
+  "Ranking_Rating": 341,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 382,
-  "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_Completed": 204,
+  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-08-16T12:00:00+00:00",
     "PcReleaseDate": "2021-08-16T12:00:00+00:00",
@@ -410,8 +410,8 @@
   "FirstSeen": "2022-07-22T20:25:33.5631582+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:28.2855569+00:00",
   "LastChanged": "2023-05-02T21:58:23.8160555+00:00",
-  "LastChanged_Achievements": "2023-05-26T18:05:53.841111+00:00",
+  "LastChanged_Achievements": "2023-05-26T19:05:22.8348546+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:28.1333589+00:00",
-  "LastUpdate_Ratings": "2023-05-26T17:58:56.5171499+00:00",
-  "LastUpdate_Achievements": "2023-05-26T18:05:53.8411239+00:00"
+  "LastUpdate_Ratings": "2023-05-26T18:58:32.2442117+00:00",
+  "LastUpdate_Achievements": "2023-05-26T19:05:22.8348636+00:00"
 }

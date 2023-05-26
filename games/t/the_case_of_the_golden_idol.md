@@ -8,7 +8,7 @@
 | Solved second case | 80.00% | ~70 |
 | Solved third case | 64.00% | ~56 |
 | Solved fourth case | 48.00% | ~42 |
-| Solved seventh case | 24.00% | ~21 |
+| Solved seventh case | 25.00% | ~22 |
 | Solved sixth case | 23.00% | ~20 |
 | Solved fifth case | 22.00% | ~19 |
 | Solved eighth case | 20.00% | ~17 |
@@ -17,7 +17,7 @@
 | Solved eleventh case | 15.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 87 (Ranked 270)  
-Completed: 2 (2.30%) (Ranked 58)  
+Completed: 2 (2.30%) (Ranked 59)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

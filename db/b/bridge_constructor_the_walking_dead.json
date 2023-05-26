@@ -4,11 +4,11 @@
   "ProductSlug": "bridge-constructor-the-walking-dead",
   "Ranking_Rating": 900,
   "Ranking_Popularity": 449,
-  "Ranking_PopularitySum": 461,
+  "Ranking_PopularitySum": 462,
   "Ranking_EOS_Progress": 423,
-  "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_Completed": 204,
+  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2020-11-19T16:00:00+00:00",
     "PcReleaseDate": "2020-11-19T16:00:00+00:00",
@@ -335,6 +335,6 @@
   "FirstSeen": "2022-07-22T20:28:51.0308349+00:00",
   "LastChanged": "2023-05-10T22:01:09.0495055+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:04:59.189645+00:00",
-  "LastUpdate_Ratings": "2023-05-26T18:00:02.1740057+00:00",
-  "LastUpdate_Achievements": "2023-05-26T18:05:06.5826266+00:00"
+  "LastUpdate_Ratings": "2023-05-26T18:59:24.7576156+00:00",
+  "LastUpdate_Achievements": "2023-05-26T19:04:43.383231+00:00"
 }

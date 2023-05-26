@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Brute force | 91.00% | ~20 |
-| What's going on here? | 82.00% | ~18 |
+| What's going on here? | 86.00% | ~19 |
 | Nimble fingers | 68.00% | ~15 |
 | Room 104 | 68.00% | ~15 |
 | Face to face | 68.00% | ~15 |
@@ -37,7 +37,7 @@
 | Sly as a fox | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 22 (Ranked 319)  
-Completed: 0 (0.00%) (Ranked 203)  
+Completed: 0 (0.00%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

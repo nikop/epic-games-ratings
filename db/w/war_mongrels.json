@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 219,
-  "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_Completed": 204,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -655,9 +655,9 @@
       "ID": "ACH_COLL_CH02",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter II",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_COLL_CH03",
@@ -751,9 +751,9 @@
       "ID": "ACH_FIN_CH02",
       "SetID": "1j25agn",
       "Name": "The Breaking Point",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -999,8 +999,8 @@
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-05-09T23:57:28.9754418+00:00",
-  "LastChanged_Achievements": "2023-05-26T18:03:11.0360392+00:00",
+  "LastChanged_Achievements": "2023-05-26T19:02:35.5959226+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:01.9016759+00:00",
-  "LastUpdate_Ratings": "2023-05-26T17:57:23.3159298+00:00",
-  "LastUpdate_Achievements": "2023-05-26T18:03:11.0361206+00:00"
+  "LastUpdate_Ratings": "2023-05-26T18:57:18.0386104+00:00",
+  "LastUpdate_Achievements": "2023-05-26T19:02:35.5959657+00:00"
 }

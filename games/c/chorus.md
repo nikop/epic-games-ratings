@@ -26,7 +26,7 @@ Number of Ratings: 58  (23.09.2022)
 | Disruption | 45.00% | ~399 |
 | Phoenix | 45.00% | ~399 |
 | Cult Slayer | 42.00% | ~373 |
-| Origin | 40.00% | ~355 |
+| Origin | 41.00% | ~364 |
 | It Was An Accident | 40.00% | ~355 |
 | Set in Motion | 39.00% | ~346 |
 | In the Eye of the Storm | 38.00% | ~337 |
@@ -51,7 +51,7 @@ Number of Ratings: 58  (23.09.2022)
 | At Least You Tried | 2.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 887 (Ranked 174)  
-Completed: 11 (1.24%) (Ranked 78)  
+Completed: 11 (1.24%) (Ranked 79)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -83,8 +83,8 @@ Completed: 11 (1.24%) (Ranked 78)
 | 2023-05-26 | 887 | 11 |
 ## Awards
 Max (Great Boss Battles): 32  (Ranked 436)  
-Sum: 32 (Ranked 457)  
-Diff (max vs sum): -21  
+Sum: 32 (Ranked 458)  
+Diff (max vs sum): -22  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 32 |

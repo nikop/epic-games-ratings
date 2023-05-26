@@ -6,9 +6,9 @@
   "Ranking_Popularity": 398,
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 102,
-  "Ranking_EOS_Completed": 112,
+  "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -428,9 +428,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13692,
+  "EOS_Progressed": 13697,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 909,
+  "EOS_NewPlayers": 899,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1658,6 +1658,11 @@
       "Time": "2023-05-26T18:03:32.6475743+00:00",
       "NumProgressed": 13692,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-26T19:03:23.2904517+00:00",
+      "NumProgressed": 13697,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -1701,7 +1706,7 @@
       "Name": "Flesh Wound",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -1988,13 +1993,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13692,
+      "Progressed": 13697,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1618,
+      "Progressed": 1623,
       "Completed": 29
     }
   ],
@@ -2002,8 +2007,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-23T19:57:59.4143533+00:00",
-  "LastChanged_Achievements": "2023-05-26T18:03:32.6475738+00:00",
+  "LastChanged_Achievements": "2023-05-26T19:03:23.2904512+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-26T17:57:47.8693912+00:00",
-  "LastUpdate_Achievements": "2023-05-26T18:03:32.647614+00:00"
+  "LastUpdate_Ratings": "2023-05-26T18:57:40.217723+00:00",
+  "LastUpdate_Achievements": "2023-05-26T19:03:23.3009949+00:00"
 }

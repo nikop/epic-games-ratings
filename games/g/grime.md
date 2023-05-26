@@ -37,11 +37,11 @@ Number of Ratings: 46  (23.09.2022)
 | Kin | 5.00% | ~7 |
 | Kinship | 4.00% | ~22 |
 | Unwrap the Gift | 4.00% | ~22 |
+| Proportions | 4.00% | ~22 |
 | Bloodhunter | 3.00% | ~17 |
 | Weakness | 3.00% | ~17 |
 | Breathsmith | 3.00% | ~17 |
 | Listen | 3.00% | ~4 |
-| Proportions | 3.00% | ~17 |
 | Breath | 2.00% | ~11 |
 | Generous | 2.00% | ~11 |
 | Skinmaker | 1.00% | ~6 |
@@ -50,7 +50,7 @@ Number of Ratings: 46  (23.09.2022)
 | Spiral Heart | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 558 (Ranked 192)  
-Completed: 0 (0.00%) (Ranked 203)  
+Completed: 0 (0.00%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

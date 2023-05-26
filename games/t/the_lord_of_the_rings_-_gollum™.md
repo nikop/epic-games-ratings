@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Wraith | 57.00% | ~129 |
-| Welcome to Mordor! | 44.00% | ~100 |
-| Collectibles Part 1 | 38.00% | ~86 |
-| Memories | 28.00% | ~64 |
-| Wait! Wait! Not yet! | 26.00% | ~59 |
-| Like Flying... | 20.00% | ~45 |
-| The Maggot | 10.00% | ~23 |
-| The Breeder | 5.00% | ~11 |
+| The Wraith | 56.00% | ~131 |
+| Welcome to Mordor! | 44.00% | ~103 |
+| Collectibles Part 1 | 39.00% | ~91 |
+| Memories | 27.00% | ~63 |
+| Wait! Wait! Not yet! | 26.00% | ~61 |
+| Like Flying... | 20.00% | ~47 |
+| The Maggot | 11.00% | ~26 |
+| The Breeder | 6.00% | ~14 |
 | The Veteran | 4.00% | ~9 |
-| The Traitor | 0.90% | ~2 |
+| The Traitor | 1.00% | ~2 |
+| Trigger-Happy | 1.00% | ~2 |
 | The Spider | 0.90% | ~2 |
 | Murderer | 0.90% | ~2 |
-| Trigger-Happy | 0.90% | ~2 |
 | He's so Annoying | 0.40% | ~1 |
 | Break a Leg! | 0.40% | ~1 |
 | And now we wish... | 0.40% | ~1 |
@@ -41,8 +41,8 @@
 | Good Sméagol! | 0.00% | ~0 |
 | Ss ss ss... | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227 (Ranked 230)  
-Completed: 0 (0.00%) (Ranked 203)  
+Progressed: 234 (Ranked 228)  
+Completed: 0 (0.00%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -50,4 +50,4 @@ Completed: 0 (0.00%) (Ranked 203)
 | 2023-05-23 | 4 | 0 |
 | 2023-05-24 | 5 | 0 |
 | 2023-05-25 | 133 | 0 |
-| 2023-05-26 | 227 | 0 |
+| 2023-05-26 | 234 | 0 |

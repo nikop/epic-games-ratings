@@ -1,13 +1,13 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 63)  
+Rating: 4.82 (Ranked 62)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~591 |
-| Project Arena | 3.00% | ~443 |
+| Diligence as a goal | 4.00% | ~592 |
+| Project Arena | 3.00% | ~444 |
 | The Hateful Pole Fighter | 1.00% | ~7,055 |
 | Qi Gong: Breath | 1.00% | ~7,055 |
 | Bloody Sport | 1.00% | ~148 |
@@ -57,8 +57,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~705 |
 | Warriors from the Mountain | 0.10% | ~705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705,475 (Ranked 15)  
-Completed: 12,736 (1.81%) (Ranked 64)  
+Progressed: 705,487 (Ranked 15)  
+Completed: 12,736 (1.81%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -93,7 +93,7 @@ Completed: 12,736 (1.81%) (Ranked 64)
 | 2023-05-23 | 704,864 | 12,733 |
 | 2023-05-24 | 705,048 | 12,734 |
 | 2023-05-25 | 705,232 | 12,734 |
-| 2023-05-26 | 705,475 | 12,736 |
+| 2023-05-26 | 705,487 | 12,736 |
 ## Awards
 Max (Great Boss Battles): 6,094  (Ranked 53)  
 Sum: 10,384 (Ranked 77)  

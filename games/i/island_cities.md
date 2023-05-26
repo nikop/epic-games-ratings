@@ -8,11 +8,11 @@
 | A tiny town | 84.00% | ~141 |
 | Buildings, roads, cars, ...and people | 65.00% | ~109 |
 | Great view from the beach and from the hill | 54.00% | ~91 |
-| Bridges to come and go | 47.00% | ~79 |
+| Bridges to come and go | 48.00% | ~81 |
 | Found an oasis | 38.00% | ~64 |
 | Burger or pizza? | 35.00% | ~59 |
 | Passion for sports | 32.00% | ~54 |
-| Who loves trains? | 27.00% | ~45 |
+| Who loves trains? | 28.00% | ~47 |
 | Easy and steady climb | 27.00% | ~45 |
 | At the heart of the city | 26.00% | ~44 |
 | Calm neighborhood | 24.00% | ~40 |
@@ -28,7 +28,7 @@
 | Night walk along the beach | 16.00% | ~27 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 168 (Ranked 247)  
-Completed: 27 (16.07%) (Ranked 8)  
+Completed: 27 (16.07%) (Ranked 9)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

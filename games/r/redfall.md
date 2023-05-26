@@ -5,20 +5,20 @@ Rating: 3.40 (Ranked 927)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 77.00% | ~1,251 |
-| Home Is Where the Heart Is | 61.00% | ~991 |
-| Ne Plus Ultra | 60.00% | ~975 |
-| Wounded Whispers | 60.00% | ~975 |
-| Blood Will Have Blood | 49.00% | ~796 |
-| ICU | 45.00% | ~731 |
+| I Like My Stakes Rare! | 77.00% | ~1,252 |
+| Home Is Where the Heart Is | 61.00% | ~992 |
+| Ne Plus Ultra | 60.00% | ~976 |
+| Wounded Whispers | 60.00% | ~976 |
+| Blood Will Have Blood | 49.00% | ~797 |
+| ICU | 45.00% | ~732 |
 | Catch and Release | 44.00% | ~715 |
 | Peek-a-boo | 43.00% | ~699 |
 | Sucks To Be You | 43.00% | ~699 |
-| Welcome to the Neighborhood | 37.00% | ~601 |
+| Welcome to the Neighborhood | 37.00% | ~602 |
 | Fly Fisher | 35.00% | ~569 |
-| Throw The First Stone | 34.00% | ~552 |
+| Throw The First Stone | 34.00% | ~553 |
 | Enter of Your Own Free Will | 32.00% | ~520 |
-| Heart Attack | 32.00% | ~520 |
+| Heart Attack | 31.00% | ~504 |
 | Skin of Their Teeth | 31.00% | ~504 |
 | Grounded | 23.00% | ~374 |
 | Bad Wiring | 21.00% | ~341 |
@@ -39,15 +39,15 @@ Rating: 3.40 (Ranked 927)
 | Silence Is Golden | 3.00% | ~49 |
 | Check, Please! | 3.00% | ~49 |
 | Blacklight Down | 3.00% | ~49 |
-| Contingency Plans | 2.00% | ~32 |
-| Scream Team | 2.00% | ~32 |
-| Blood Brother | 2.00% | ~32 |
-| Good Morning | 2.00% | ~32 |
-| Empty Nest Syndrome | 2.00% | ~32 |
-| Harvest’s End | 2.00% | ~32 |
-| Dexterity Save | 2.00% | ~32 |
-| Curious Finch | 2.00% | ~32 |
-| Friends 'Til The End | 2.00% | ~32 |
+| Contingency Plans | 2.00% | ~33 |
+| Scream Team | 2.00% | ~33 |
+| Blood Brother | 2.00% | ~33 |
+| Good Morning | 2.00% | ~33 |
+| Empty Nest Syndrome | 2.00% | ~33 |
+| Harvest’s End | 2.00% | ~33 |
+| Dexterity Save | 2.00% | ~33 |
+| Curious Finch | 2.00% | ~33 |
+| Friends 'Til The End | 2.00% | ~33 |
 | Neighborhood Watch | 1.00% | ~16 |
 | Monster Hunters Club | 1.00% | ~16 |
 | Friendgineering | 1.00% | ~16 |
@@ -57,8 +57,8 @@ Rating: 3.40 (Ranked 927)
 | Sisterhood | 0.70% | ~11 |
 | What Lies Below | 0.70% | ~11 |
 | So Anyway I Started Blasting | 0.70% | ~11 |
-| Someplace to Be | 0.40% | ~6 |
-| Good Samaritan | 0.40% | ~6 |
+| Someplace to Be | 0.40% | ~7 |
+| Good Samaritan | 0.40% | ~7 |
 | Rum Runner | 0.20% | ~3 |
 | Bob’s Final Hour | 0.20% | ~3 |
 | A Cry in the Dark | 0.10% | ~2 |
@@ -72,8 +72,8 @@ Rating: 3.40 (Ranked 927)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,625 (Ranked 152)  
-Completed: 0 (0.00%) (Ranked 203)  
+Progressed: 1,626 (Ranked 152)  
+Completed: 0 (0.00%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -101,7 +101,7 @@ Completed: 0 (0.00%) (Ranked 203)
 | 2023-05-23 | 1,611 | 0 |
 | 2023-05-24 | 1,615 | 0 |
 | 2023-05-25 | 1,623 | 0 |
-| 2023-05-26 | 1,625 | 0 |
+| 2023-05-26 | 1,626 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

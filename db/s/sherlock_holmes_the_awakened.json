@@ -3,9 +3,9 @@
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 226,
-  "Ranking_EOS_Completed": 30,
+  "Ranking_EOS_Completed": 31,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -628,9 +628,9 @@
       "ID": "MQ01_1",
       "SetID": "bbing49",
       "Name": "Read Between The Lines",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 155
     },
     {
       "ID": "MQ01_2",
@@ -748,9 +748,9 @@
       "ID": "MQ05_2",
       "SetID": "bbing49",
       "Name": "Back In The Saddle",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 102
     },
     {
       "ID": "MQ05_3",
@@ -861,8 +861,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-26T18:03:24.7027072+00:00",
+  "LastChanged_Achievements": "2023-05-26T19:03:16.7881419+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.473335+00:00",
-  "LastUpdate_Ratings": "2023-05-26T17:57:08.1772848+00:00",
-  "LastUpdate_Achievements": "2023-05-26T18:03:24.7027312+00:00"
+  "LastUpdate_Ratings": "2023-05-26T18:57:03.2668643+00:00",
+  "LastUpdate_Achievements": "2023-05-26T19:03:16.7881598+00:00"
 }

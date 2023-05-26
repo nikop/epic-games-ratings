@@ -2,13 +2,13 @@
   "ID": "4158b699dd70447a981fee752d970a3e",
   "Name": "KINGDOM HEARTS HD 1.5\u002B2.5 ReMIX",
   "ProductSlug": "kingdom-hearts-hd-1-5-2-5-remix",
-  "Ranking_Rating": 63,
+  "Ranking_Rating": 62,
   "Ranking_Popularity": 185,
   "Ranking_PopularitySum": 135,
   "Ranking_EOS_Progress": 423,
-  "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_Completed": 204,
+  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-03-30T13:00:00+00:00",
     "PcReleaseDate": "2021-03-30T13:00:00+00:00",
@@ -3564,10 +3564,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3790,
       "NumberOfAwardsMax": 502
+    },
+    {
+      "Time": "2023-05-26T18:59:05.0330691+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3791,
+      "NumberOfAwardsMax": 502
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3790,
+  "NumberOfAwards": 3791,
   "NumberOfAwardsMax": 502,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3605,7 +3611,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 469
+      "Count": 470
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3655,8 +3661,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:56.8065488+00:00",
-  "LastChanged": "2023-05-26T13:04:01.9048458+00:00",
+  "LastChanged": "2023-05-26T18:59:05.0330688+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:42.5592626+00:00",
-  "LastUpdate_Ratings": "2023-05-26T17:59:37.828697+00:00",
-  "LastUpdate_Achievements": "2023-05-26T18:01:23.6743483+00:00"
+  "LastUpdate_Ratings": "2023-05-26T18:59:05.0330694+00:00",
+  "LastUpdate_Achievements": "2023-05-26T19:00:36.7936753+00:00"
 }

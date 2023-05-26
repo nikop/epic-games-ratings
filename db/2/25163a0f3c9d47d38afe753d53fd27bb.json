@@ -3,7 +3,7 @@
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 213,
-  "Ranking_EOS_Completed": 28,
+  "Ranking_EOS_Completed": 29,
   "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 327,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 181,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 5.2,
   "EosHistory": [
@@ -715,9 +715,9 @@
       "ID": "LEVEL_006",
       "SetID": "212bg48",
       "Name": "Nothing like fresh food",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 131
     },
     {
       "ID": "LEVEL_007",
@@ -922,8 +922,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-26T18:03:25.0078441+00:00",
+  "LastChanged_Achievements": "2023-05-26T19:03:16.9357549+00:00",
   "LastUpdate_AppInfo": "2023-05-22T13:02:13.5547551+00:00",
-  "LastUpdate_Ratings": "2023-05-26T17:56:55.9020751+00:00",
-  "LastUpdate_Achievements": "2023-05-26T18:03:25.0078726+00:00"
+  "LastUpdate_Ratings": "2023-05-26T18:56:54.0984644+00:00",
+  "LastUpdate_Achievements": "2023-05-26T19:03:16.9357752+00:00"
 }

@@ -14,11 +14,11 @@ Number of Ratings: 45  (23.09.2022)
 | How Romantic! | 22.00% | ~266 |
 | Daybreak | 22.00% | ~266 |
 | Gotta Ca... Must Collect All of Them | 20.00% | ~242 |
-| A Mythic Menagerie | 11.00% | ~133 |
 | Completing the Look | 11.00% | ~133 |
 | Who's Counting? | 11.00% | ~133 |
 | War Endured | 11.00% | ~133 |
 | Core Failure | 11.00% | ~133 |
+| A Mythic Menagerie | 10.00% | ~121 |
 | Pyrrhic Victory | 8.00% | ~97 |
 | Thematic Divergence | 7.00% | ~85 |
 | Chain Reaction | 7.00% | ~85 |
@@ -63,8 +63,8 @@ Number of Ratings: 45  (23.09.2022)
 | Overwhelming Monstrosity | 0.40% | ~5 |
 | Peacemaker | 0.30% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,209 (Ranked 160)  
-Completed: 3 (0.25%) (Ranked 133)  
+Progressed: 1,210 (Ranked 160)  
+Completed: 3 (0.25%) (Ranked 134)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -96,11 +96,11 @@ Completed: 3 (0.25%) (Ranked 133)
 | 2023-05-23 | 1,201 | 3 |
 | 2023-05-24 | 1,202 | 3 |
 | 2023-05-25 | 1,205 | 3 |
-| 2023-05-26 | 1,209 | 3 |
+| 2023-05-26 | 1,210 | 3 |
 ## Awards
 Max (Character Customization): 27  (Ranked 455)  
-Sum: 27 (Ranked 463)  
-Diff (max vs sum): -8  
+Sum: 27 (Ranked 464)  
+Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 27 |

@@ -30,8 +30,8 @@
 | Ancient Wisdom | 35.00% | ~303 |
 | Frog Facts! | 35.00% | ~303 |
 | All That Glistens | 35.00% | ~303 |
+| It's Pointy! | 35.00% | ~303 |
 | All Skilled Up! | 34.00% | ~294 |
-| It's Pointy! | 34.00% | ~294 |
 | Spellbound | 33.00% | ~286 |
 | Extinct Again! | 32.00% | ~277 |
 | Bird of Prey | 32.00% | ~277 |
@@ -56,7 +56,7 @@
 | Bombs Away! | 8.00% | ~69 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 866 (Ranked 175)  
-Completed: 58 (6.70%) (Ranked 23)  
+Completed: 58 (6.70%) (Ranked 24)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -15,7 +15,7 @@
 | Hellfire | 24.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 74 (Ranked 281)  
-Completed: 15 (20.27%) (Ranked 6)  
+Completed: 15 (20.27%) (Ranked 7)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

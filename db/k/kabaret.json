@@ -3,9 +3,9 @@
   "Name": "Kabaret",
   "ProductSlug": "kabaret-4810f9",
   "Ranking_EOS_Progress": 340,
-  "Ranking_EOS_Completed": 203,
+  "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-05T16:00:00+00:00",
     "PcReleaseDate": "2023-04-05T16:00:00+00:00",
@@ -91,9 +91,9 @@
       "ID": "12",
       "SetID": "37jn7be",
       "Name": "I\u0027ll Become... A Beast",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "13",
@@ -315,9 +315,9 @@
       "ID": "38",
       "SetID": "37jn7be",
       "Name": "I Sit On The Beach, Watching The Tide Leave",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "39",
@@ -459,9 +459,9 @@
       "ID": "54",
       "SetID": "37jn7be",
       "Name": "Bookworm",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "55",
@@ -491,9 +491,9 @@
       "ID": "58",
       "SetID": "37jn7be",
       "Name": "Behold, The Nagarimau",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "59",
@@ -612,8 +612,8 @@
   "FirstSeenRating": "2023-04-29T22:57:51.702813+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:15.0612299+00:00",
   "LastChanged": "2023-04-29T22:57:51.7028131+00:00",
-  "LastChanged_Achievements": "2023-05-26T18:01:34.0970274+00:00",
+  "LastChanged_Achievements": "2023-05-26T19:00:45.7029492+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.1178962+00:00",
-  "LastUpdate_Ratings": "2023-05-26T17:57:59.8967966+00:00",
-  "LastUpdate_Achievements": "2023-05-26T18:01:34.0970969+00:00"
+  "LastUpdate_Ratings": "2023-05-26T18:57:50.9999439+00:00",
+  "LastUpdate_Achievements": "2023-05-26T19:00:45.7030049+00:00"
 }

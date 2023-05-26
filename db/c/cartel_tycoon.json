@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 211,
-  "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_Completed": 129,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -629,9 +629,9 @@
       "ID": "complete-deals",
       "SetID": "bed33dd",
       "Name": "Safe Pair of Hands",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 121
+      "UsersEstimate": 124
     },
     {
       "ID": "cool-shirts",
@@ -669,9 +669,9 @@
       "ID": "finish-tutorial",
       "SetID": "bed33dd",
       "Name": "That was base",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 135
     },
     {
       "ID": "hire-lieutenant",
@@ -693,9 +693,9 @@
       "ID": "pack-and-sell",
       "SetID": "bed33dd",
       "Name": "Hokey-Pokey",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 248
     },
     {
       "ID": "play-at-night",
@@ -741,17 +741,17 @@
       "ID": "sell-variety",
       "SetID": "bed33dd",
       "Name": "Spread",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 135
+      "UsersEstimate": 138
     },
     {
       "ID": "send-smuggling",
       "SetID": "bed33dd",
       "Name": "Camellos",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 193
+      "UsersEstimate": 197
     },
     {
       "ID": "unlock-residences",
@@ -789,8 +789,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-03-31T05:57:07.2160962+00:00",
-  "LastChanged_Achievements": "2023-05-26T18:06:26.2238954+00:00",
+  "LastChanged_Achievements": "2023-05-26T19:05:41.9921519+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:45.257987+00:00",
-  "LastUpdate_Ratings": "2023-05-26T18:00:31.1997873+00:00",
-  "LastUpdate_Achievements": "2023-05-26T18:06:26.2239153+00:00"
+  "LastUpdate_Ratings": "2023-05-26T18:59:49.3232275+00:00",
+  "LastUpdate_Achievements": "2023-05-26T19:05:41.9921651+00:00"
 }

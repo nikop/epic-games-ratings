@@ -1,11 +1,11 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.56 (Ranked 450)  
+Rating: 4.56 (Ranked 451)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 9.00% | ~195 |
+| Wakey Wakey | 9.00% | ~196 |
 | Sputnik 2049 | 8.00% | ~174 |
 | Without Breaking Some Eggs... | 7.00% | ~152 |
 | Infinite Growth... | 7.00% | ~152 |
@@ -63,8 +63,8 @@ Rating: 4.56 (Ranked 450)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,170 (Ranked 144)  
-Completed: 0 (0.00%) (Ranked 203)  
+Progressed: 2,173 (Ranked 144)  
+Completed: 0 (0.00%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -99,7 +99,7 @@ Completed: 0 (0.00%) (Ranked 203)
 | 2023-05-23 | 2,115 | 0 |
 | 2023-05-24 | 2,134 | 0 |
 | 2023-05-25 | 2,154 | 0 |
-| 2023-05-26 | 2,170 | 0 |
+| 2023-05-26 | 2,173 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

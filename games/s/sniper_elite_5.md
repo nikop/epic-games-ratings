@@ -5,40 +5,40 @@ Rating: 4.39 (Ranked 687)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 18.00% | ~272 |
-| Confirming Suspicions | 13.00% | ~196 |
+| Meeting Resistance | 18.00% | ~273 |
+| Confirming Suspicions | 13.00% | ~197 |
 | The Kraken Wakes | 10.00% | ~151 |
-| It's Starting to Crack | 7.00% | ~106 |
+| It's Starting to Crack | 8.00% | ~121 |
 | Lord of War | 6.00% | ~91 |
 | Resourceful | 6.00% | ~91 |
-| Enemy at the Gates | 5.00% | ~75 |
-| Organ Grinder | 5.00% | ~75 |
-| Change the Channel | 5.00% | ~75 |
-| Just a Flesh Wound | 4.00% | ~60 |
-| Explosive Efficiency | 4.00% | ~60 |
-| As Quiet as a Mouse | 4.00% | ~60 |
-| Taking it back | 4.00% | ~60 |
+| Enemy at the Gates | 5.00% | ~76 |
+| Organ Grinder | 5.00% | ~76 |
+| Change the Channel | 5.00% | ~76 |
+| Just a Flesh Wound | 4.00% | ~61 |
+| Explosive Efficiency | 4.00% | ~61 |
+| As Quiet as a Mouse | 4.00% | ~61 |
+| Taking it back | 4.00% | ~61 |
 | Opposing Force | 3.00% | ~45 |
 | Gunslinger | 3.00% | ~45 |
 | Sharpshooter | 3.00% | ~45 |
 | Die Nussknacker Sweet! | 3.00% | ~45 |
 | Close Quarters | 3.00% | ~45 |
+| Snake in the Grass | 3.00% | ~45 |
 | Target America | 3.00% | ~45 |
 | Climbing the Ladder | 2.00% | ~30 |
 | Liberté | 2.00% | ~30 |
+| No Stone Unturned | 2.00% | ~30 |
 | Fields of Glory | 2.00% | ~30 |
 | Skirmisher | 2.00% | ~30 |
 | Set Europe Ablaze | 2.00% | ~30 |
 | Precision Is Key | 2.00% | ~30 |
 | Der Geist | 2.00% | ~30 |
-| Snake in the Grass | 2.00% | ~30 |
 | The Kraken Sleeps | 2.00% | ~30 |
-| No Stone Unturned | 1.00% | ~15 |
 | The Long Game | 1.00% | ~15 |
 | Rigged to Blow | 1.00% | ~15 |
 | Brains of the Operation | 1.00% | ~15 |
 | My Little Friend | 0.80% | ~12 |
-| It'll Buff Right Out | 0.70% | ~11 |
+| It'll Buff Right Out | 0.80% | ~12 |
 | Locomotion Commotion | 0.70% | ~11 |
 | Herr Today, Gone Tomorrow | 0.60% | ~9 |
 | Operation Foxley | 0.60% | ~9 |
@@ -60,6 +60,7 @@ Rating: 4.39 (Ranked 687)
 | Burn after reading | 0.10% | ~2 |
 | Eagle Eyed | 0.10% | ~2 |
 | Sight Beyond Sights | 0.10% | ~2 |
+| Can't Outrun A Bullet | 0.10% | ~2 |
 | Führerious Repetition | 0.10% | ~1 |
 | From Führer Away | 0.10% | ~1 |
 | Operation Overlord | 0.10% | ~1 |
@@ -70,15 +71,14 @@ Rating: 4.39 (Ranked 687)
 | Master of Secondaries | 0.00% | ~0 |
 | Master of Rifles | 0.00% | ~0 |
 | Master-at-arms | 0.00% | ~0 |
-| Can't Outrun A Bullet | 0.00% | ~0 |
 | Alpha | 0.00% | ~0 |
 | Das Familienjuwel | 0.00% | ~0 |
 | Stroll in the Woods | 0.00% | ~0 |
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,509 (Ranked 156)  
-Completed: 2 (0.13%) (Ranked 153)  
+Progressed: 1,514 (Ranked 156)  
+Completed: 2 (0.13%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -112,7 +112,7 @@ Completed: 2 (0.13%) (Ranked 153)
 | 2023-05-23 | 1,294 | 2 |
 | 2023-05-24 | 1,365 | 2 |
 | 2023-05-25 | 1,428 | 2 |
-| 2023-05-26 | 1,509 | 2 |
+| 2023-05-26 | 1,514 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

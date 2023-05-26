@@ -2,13 +2,13 @@
   "ID": "corydalis",
   "Name": "Slime Rancher",
   "ProductSlug": "slime-rancher",
-  "Ranking_Rating": 57,
+  "Ranking_Rating": 62,
   "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 150,
   "Ranking_EOS_Progress": 423,
-  "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_Completed": 204,
+  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2017-08-01T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.83,
+  "Rating": 4.82,
   "NumberOfRatings": 5898,
   "RatingHistory": [
     {
@@ -2558,6 +2558,12 @@
       "Rating": 4.83,
       "NumberOfAwards": 3043,
       "NumberOfAwardsMax": 390
+    },
+    {
+      "Time": "2023-05-26T18:58:58.7869302+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3043,
+      "NumberOfAwardsMax": 390
     }
   ],
   "ReviewsDisabled": false,
@@ -2649,8 +2655,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:59.345324+00:00",
-  "LastChanged": "2023-05-26T13:59:42.1903833+00:00",
+  "LastChanged": "2023-05-26T18:58:58.7869301+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:29.9039803+00:00",
-  "LastUpdate_Ratings": "2023-05-26T17:59:28.805745+00:00",
-  "LastUpdate_Achievements": "2023-05-26T18:04:51.2563215+00:00"
+  "LastUpdate_Ratings": "2023-05-26T18:58:58.7869306+00:00",
+  "LastUpdate_Achievements": "2023-05-26T19:04:30.385476+00:00"
 }

@@ -1,7 +1,7 @@
 # King's Bounty: Armored Princess
 [Store](https://store.epicgames.com/en-US/p/kings-bounty-armored-princess-2fbc57)  
 [View Rawdata](../../db/k/king's_bounty__armored_princess.json)  
-Rating: 4.82 (Ranked 63)  
+Rating: 4.82 (Ranked 62)  
 Number of Ratings: 20  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |

@@ -3,9 +3,9 @@
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 259,
-  "Ranking_EOS_Completed": 93,
+  "Ranking_EOS_Completed": 94,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
     "PcReleaseDate": "2021-09-28T16:00:00+00:00",
@@ -818,6 +818,6 @@
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
   "LastChanged_Achievements": "2023-05-26T18:01:39.3227822+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:00.9346953+00:00",
-  "LastUpdate_Ratings": "2023-05-26T17:57:04.0361418+00:00",
+  "LastUpdate_Ratings": "2023-05-26T18:57:00.6140124+00:00",
   "LastUpdate_Achievements": "2023-05-26T18:01:39.3228173+00:00"
 }

@@ -6,15 +6,15 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~33,366 |
-| Biggest Communism Builder | 24.00% | ~28,599 |
-| The World's Most Laughable Centrist | 20.00% | ~23,833 |
-| Il Coppo Del'Arte! | 18.00% | ~21,449 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,066 |
-| Hyperstellar Law Official | 15.00% | ~17,874 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~16,683 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~15,491 |
-| Gurdi-Ball Is Lit | 13.00% | ~15,491 |
+| Goodest Of The Good Cops | 28.00% | ~33,367 |
+| Biggest Communism Builder | 24.00% | ~28,600 |
+| The World's Most Laughable Centrist | 20.00% | ~23,834 |
+| Il Coppo Del'Arte! | 18.00% | ~21,450 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~19,067 |
+| Hyperstellar Law Official | 15.00% | ~17,875 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~16,684 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~15,492 |
+| Gurdi-Ball Is Lit | 13.00% | ~15,492 |
 | Truly Rabid *Traditionalist* | 11.00% | ~13,108 |
 | The Figurines Won't Win Her Back | 9.00% | ~10,725 |
 | Unbelievably Boring **** | 8.00% | ~9,533 |
@@ -29,15 +29,15 @@ Number of Ratings: 1,611  (23.09.2022)
 | Recruit Detective Kuuno de Ruyter | 2.00% | ~2,383 |
 | Wheel of Pleasure and Light | 2.00% | ~2,383 |
 | Massive Torque Dork | 1.00% | ~1,192 |
-| Avowed Inframaterialist | 0.90% | ~1,072 |
-| Real Musor | 0.90% | ~1,072 |
+| Avowed Inframaterialist | 0.90% | ~1,073 |
+| Real Musor | 0.90% | ~1,073 |
 | Baddest Brow in Town | 0.80% | ~953 |
 | Committee of la Responsabilité | 0.80% | ~953 |
 | Venture into the HARDCORE | 0.80% | ~953 |
 | Networthy Individual | 0.70% | ~834 |
 | Leopard Mindset | 0.50% | ~596 |
-| Modus: Mullen | 0.30% | ~357 |
-| Palerunner | 0.30% | ~357 |
+| Modus: Mullen | 0.30% | ~358 |
+| Palerunner | 0.30% | ~358 |
 | Cause a ****storm | 0.20% | ~238 |
 | True Detective | 0.20% | ~238 |
 | The Icebreaker | 0.20% | ~238 |
@@ -47,8 +47,8 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~119 |
 | What body? | 0.10% | ~119 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 119,163 (Ranked 57)  
-Completed: 25 (0.02%) (Ranked 188)  
+Progressed: 119,168 (Ranked 57)  
+Completed: 25 (0.02%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -83,7 +83,7 @@ Completed: 25 (0.02%) (Ranked 188)
 | 2023-05-23 | 118,826 | 25 |
 | 2023-05-24 | 118,945 | 25 |
 | 2023-05-25 | 119,055 | 25 |
-| 2023-05-26 | 119,163 | 25 |
+| 2023-05-26 | 119,168 | 25 |
 ## Awards
 Max (Character Customization): 690  (Ranked 157)  
 Sum: 1,046 (Ranked 229)  

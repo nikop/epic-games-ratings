@@ -3,9 +3,9 @@
   "Name": "Night Book",
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 240,
-  "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_Completed": 69,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-07-27T17:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 185,
+  "EOS_Progressed": 186,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.62,
+  "EOS_Completed_Percentage": 1.61,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:54.2644177+00:00",
@@ -77,6 +77,11 @@
     {
       "Time": "2023-05-25T19:06:11.4252337+00:00",
       "NumProgressed": 185,
+      "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-26T19:05:18.0490052+00:00",
+      "NumProgressed": 186,
       "NumCompleted": 3
     }
   ],
@@ -129,7 +134,7 @@
       "Name": "Impress Theron",
       "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "marriage_is_off",
@@ -137,15 +142,15 @@
       "Name": "The Marriage Is Off",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "no_one_is_safe",
       "SetID": "a3kkelb",
       "Name": "No One Is Safe",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 118
+      "UsersEstimate": 117
     },
     {
       "ID": "off_his_meds",
@@ -169,15 +174,15 @@
       "Name": "Pearce",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "personal_life",
       "SetID": "a3kkelb",
       "Name": "Personal Life",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 89
     },
     {
       "ID": "save_dad",
@@ -217,14 +222,14 @@
       "Name": "Will This Help?",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3kkelb",
       "IsBase": true,
-      "Progressed": 185,
+      "Progressed": 186,
       "Completed": 3
     }
   ],
@@ -232,8 +237,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-05-26T18:05:48.2043975+00:00",
+  "LastChanged_Achievements": "2023-05-26T19:05:18.0490044+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:08.7260317+00:00",
-  "LastUpdate_Ratings": "2023-05-26T17:57:13.672753+00:00",
-  "LastUpdate_Achievements": "2023-05-26T18:05:48.2044095+00:00"
+  "LastUpdate_Ratings": "2023-05-26T18:57:08.9878694+00:00",
+  "LastUpdate_Achievements": "2023-05-26T19:05:18.0490148+00:00"
 }

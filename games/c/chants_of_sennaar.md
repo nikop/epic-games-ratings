@@ -11,6 +11,7 @@
 | Welcome to the Tower | 100.00% | ~1 |
 | The great escape | 100.00% | ~1 |
 | A new dawn | 100.00% | ~1 |
+| The darkness | 100.00% | ~1 |
 | I did it | 0.00% | ~0 |
 | In this together | 0.00% | ~0 |
 | Peace walker | 0.00% | ~0 |
@@ -27,11 +28,10 @@
 | True G4M3R | 0.00% | ~0 |
 | Fashion victim | 0.00% | ~0 |
 | Champollion | 0.00% | ~0 |
-| The darkness | 0.00% | ~0 |
 | One last step | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1 (Ranked 399)  
-Completed: 0 (0.00%) (Ranked 203)  
+Completed: 0 (0.00%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,11 +2,11 @@
   "ID": "b7b42e2078524ab386a8b2a9856ef557",
   "Name": "Sifu",
   "ProductSlug": "sifu",
-  "Ranking_Rating": 63,
+  "Ranking_Rating": 62,
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 77,
   "Ranking_EOS_Progress": 15,
-  "Ranking_EOS_Completed": 64,
+  "Ranking_EOS_Completed": 65,
   "Ranking_EOS_NewPlayers": 40,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
@@ -4236,9 +4236,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 705475,
+  "EOS_Progressed": 705487,
   "EOS_Completed": 12736,
-  "EOS_NewPlayers": 1946,
+  "EOS_NewPlayers": 1948,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -7301,6 +7301,11 @@
       "Time": "2023-05-26T18:06:27.2372042+00:00",
       "NumProgressed": 705475,
       "NumCompleted": 12736
+    },
+    {
+      "Time": "2023-05-26T19:05:42.9579973+00:00",
+      "NumProgressed": 705487,
+      "NumCompleted": 12736
     }
   ],
   "TotalAchievements": 50,
@@ -7648,7 +7653,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -7656,7 +7661,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -7711,21 +7716,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 14776,
+      "Progressed": 14788,
       "Completed": 10172
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 705475,
+      "Progressed": 705487,
       "Completed": 12736
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-26T17:59:11.7195219+00:00",
-  "LastChanged_Achievements": "2023-05-26T18:06:27.2372037+00:00",
+  "LastChanged_Achievements": "2023-05-26T19:05:42.9579969+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.7579865+00:00",
-  "LastUpdate_Ratings": "2023-05-26T17:59:11.7195233+00:00",
-  "LastUpdate_Achievements": "2023-05-26T18:06:27.2372607+00:00"
+  "LastUpdate_Ratings": "2023-05-26T18:58:45.7590812+00:00",
+  "LastUpdate_Achievements": "2023-05-26T19:05:42.9580453+00:00"
 }

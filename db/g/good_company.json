@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 126,
-  "Ranking_EOS_Completed": 188,
+  "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4844,
+  "EOS_Progressed": 4846,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -994,6 +994,11 @@
       "Time": "2023-05-26T18:06:28.8634374+00:00",
       "NumProgressed": 4844,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-26T19:05:44.261042+00:00",
+      "NumProgressed": 4846,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -1117,7 +1122,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2374
+      "UsersEstimate": 2375
     },
     {
       "ID": "ach_campaign_progress6",
@@ -1157,7 +1162,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1212
     },
     {
       "ID": "ach_campaign_special10",
@@ -1612,15 +1617,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4844,
+      "Progressed": 4846,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-05-26T18:06:28.8634364+00:00",
+  "LastChanged_Achievements": "2023-05-26T19:05:44.2610414+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:17.17846+00:00",
-  "LastUpdate_Ratings": "2023-05-26T17:59:09.0056333+00:00",
-  "LastUpdate_Achievements": "2023-05-26T18:06:28.8635266+00:00"
+  "LastUpdate_Ratings": "2023-05-26T18:58:42.3067549+00:00",
+  "LastUpdate_Achievements": "2023-05-26T19:05:44.2611135+00:00"
 }

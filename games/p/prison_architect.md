@@ -1,30 +1,30 @@
 # Prison Architect
 [Store](https://store.epicgames.com/en-US/p/prison-architect)  
 [View Rawdata](../../db/p/prison_architect.json)  
-Rating: 4.61 (Ranked 358)  
+Rating: 4.61 (Ranked 359)  
 Number of Ratings: 4,491  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~32,788 |
-| Get Busy Living | 17.00% | ~21,439 |
-| Samuel Norton | 10.00% | ~12,611 |
-| Spare The Rod | 5.00% | ~6,305 |
-| Wait and Hope | 4.00% | ~5,044 |
-| I May Have Found A Way Out Of Here | 4.00% | ~5,044 |
-| Don't Put Me In The Dark | 3.00% | ~3,783 |
-| Iron Bars | 3.00% | ~3,783 |
-| Throw The Book At Them | 2.00% | ~2,522 |
+| Stone Walls | 26.00% | ~32,797 |
+| Get Busy Living | 17.00% | ~21,444 |
+| Samuel Norton | 10.00% | ~12,614 |
+| Spare The Rod | 5.00% | ~6,307 |
+| Wait and Hope | 4.00% | ~5,046 |
+| I May Have Found A Way Out Of Here | 4.00% | ~5,046 |
+| Don't Put Me In The Dark | 3.00% | ~3,784 |
+| Iron Bars | 3.00% | ~3,784 |
+| Throw The Book At Them | 2.00% | ~2,523 |
 | D.B. Cooper | 1.00% | ~1,261 |
 | Reformation | 0.60% | ~757 |
 | Crowd Control | 0.50% | ~631 |
-| Freedom | 0.40% | ~504 |
-| Confined | 0.40% | ~504 |
+| Freedom | 0.40% | ~505 |
+| Confined | 0.40% | ~505 |
 | It's Not What You Know... | 0.10% | ~126 |
 | ... It's What You Can Prove | 0.10% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,109 (Ranked 56)  
-Completed: 4 (0.00%) (Ranked 203)  
+Progressed: 126,142 (Ranked 56)  
+Completed: 4 (0.00%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -59,15 +59,15 @@ Completed: 4 (0.00%) (Ranked 203)
 | 2023-05-23 | 124,880 | 4 |
 | 2023-05-24 | 125,321 | 4 |
 | 2023-05-25 | 125,760 | 4 |
-| 2023-05-26 | 126,109 | 4 |
+| 2023-05-26 | 126,142 | 4 |
 ## Awards
 Max (Extremely Fun): 425  (Ranked 194)  
-Sum: 3,336 (Ranked 144)  
+Sum: 3,337 (Ranked 144)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 425 |
-| This game is Highly Recommended | 411 |
+| This game is Highly Recommended | 412 |
 | This game is Great for Beginners | 409 |
 | This game has Quickly Understood Controls | 395 |
 | This game is Relaxing | 373 |
@@ -206,4 +206,4 @@ Diff (max vs sum): 50
 | 2023-05-23 | 4.61 | - | 423 | 3,319 |
 | 2023-05-24 | 4.61 | - | 424 | 3,322 |
 | 2023-05-25 | 4.61 | - | 425 | 3,331 |
-| 2023-05-26 | 4.61 | - | 425 | 3,336 |
+| 2023-05-26 | 4.61 | - | 425 | 3,337 |

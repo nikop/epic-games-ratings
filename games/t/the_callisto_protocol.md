@@ -5,7 +5,7 @@ Rating: 4.18 (Ranked 831)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 7.00% | ~958 |
+| Flesh Wound | 7.00% | ~959 |
 | Giving Back | 5.00% | ~685 |
 | Chew 'Em Up | 5.00% | ~685 |
 | The Outer Way | 4.00% | ~548 |
@@ -46,8 +46,8 @@ Rating: 4.18 (Ranked 831)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,692 (Ranked 102)  
-Completed: 53 (0.39%) (Ranked 112)  
+Progressed: 13,697 (Ranked 102)  
+Completed: 53 (0.39%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -81,7 +81,7 @@ Completed: 53 (0.39%) (Ranked 112)
 | 2023-05-23 | 13,444 | 52 |
 | 2023-05-24 | 13,523 | 52 |
 | 2023-05-25 | 13,610 | 52 |
-| 2023-05-26 | 13,692 | 53 |
+| 2023-05-26 | 13,697 | 53 |
 ## Awards
 Max (Highly Recommended): 46  (Ranked 398)  
 Sum: 267 (Ranked 335)  

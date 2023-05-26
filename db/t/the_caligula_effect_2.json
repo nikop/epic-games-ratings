@@ -5,10 +5,10 @@
   "Ranking_Rating": 631,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 229,
-  "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_Progress": 230,
+  "Ranking_EOS_Completed": 91,
+  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-06-23T03:00:00+00:00",
     "PcReleaseDate": "2022-06-23T03:00:00+00:00",
@@ -60,9 +60,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 229,
+  "EOS_Progressed": 230,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -74,6 +74,11 @@
     {
       "Time": "2023-05-22T05:00:35.9491322+00:00",
       "NumProgressed": 229,
+      "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-26T19:03:19.3971616+00:00",
+      "NumProgressed": 230,
       "NumCompleted": 2
     }
   ],
@@ -94,7 +99,7 @@
       "Name": "Welcome to Redo",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ACH_03",
@@ -102,7 +107,7 @@
       "Name": "Daily Life Begins Anew",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_04",
@@ -118,7 +123,7 @@
       "Name": "Behind the Curtain",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_06",
@@ -270,7 +275,7 @@
       "Name": "Hustled and Bustled",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_25",
@@ -356,9 +361,9 @@
       "ID": "ACH_35",
       "SetID": "2eg5kgc",
       "Name": "Nice Doing Business",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_36",
@@ -396,9 +401,9 @@
       "ID": "ACH_40",
       "SetID": "2eg5kgc",
       "Name": "Never Saw It Coming",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_41",
@@ -412,17 +417,17 @@
       "ID": "ACH_42",
       "SetID": "2eg5kgc",
       "Name": "Coup de Grace",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_43",
       "SetID": "2eg5kgc",
       "Name": "Our World Now",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 184
     },
     {
       "ID": "ACH_44",
@@ -477,15 +482,15 @@
     {
       "ID": "2eg5kgc",
       "IsBase": true,
-      "Progressed": 229,
+      "Progressed": 230,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:19:58.3140985+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.7038898+00:00",
   "LastChanged": "2023-03-31T05:57:16.8033506+00:00",
-  "LastChanged_Achievements": "2023-05-26T18:03:28.0521711+00:00",
+  "LastChanged_Achievements": "2023-05-26T19:03:19.3971611+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:04.8047787+00:00",
-  "LastUpdate_Ratings": "2023-05-26T17:57:28.4154338+00:00",
-  "LastUpdate_Achievements": "2023-05-26T18:03:28.0522079+00:00"
+  "LastUpdate_Ratings": "2023-05-26T18:57:23.3703444+00:00",
+  "LastUpdate_Achievements": "2023-05-26T19:03:19.397194+00:00"
 }

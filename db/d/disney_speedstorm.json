@@ -3,9 +3,9 @@
   "Name": "Disney Speedstorm",
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 140,
-  "Ranking_EOS_Completed": 177,
+  "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2575,
+  "EOS_Progressed": 2576,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1845,6 +1845,11 @@
       "Time": "2023-05-26T17:03:13.3872204+00:00",
       "NumProgressed": 2575,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-26T19:02:24.0044926+00:00",
+      "NumProgressed": 2576,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 24,
@@ -1942,9 +1947,9 @@
       "ID": "2",
       "SetID": "9p3jgda",
       "Name": "ACE SPEEDSTER",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 541
+      "UsersEstimate": 515
     },
     {
       "ID": "20",
@@ -1992,7 +1997,7 @@
       "Name": "FRIENDLY",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "4",
@@ -2008,7 +2013,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1339
+      "UsersEstimate": 1340
     },
     {
       "ID": "6",
@@ -2016,7 +2021,7 @@
       "Name": "PRO",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "7",
@@ -2047,13 +2052,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2575,
+      "Progressed": 2576,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-26T18:02:27.0514928+00:00",
+  "LastChanged_Achievements": "2023-05-26T19:02:24.0044921+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.9291954+00:00",
-  "LastUpdate_Ratings": "2023-05-26T17:59:08.8571632+00:00",
-  "LastUpdate_Achievements": "2023-05-26T18:02:27.0515222+00:00"
+  "LastUpdate_Ratings": "2023-05-26T18:58:42.1894312+00:00",
+  "LastUpdate_Achievements": "2023-05-26T19:02:24.0045157+00:00"
 }

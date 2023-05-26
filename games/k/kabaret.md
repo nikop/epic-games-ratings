@@ -11,21 +11,22 @@
 | Congkak Champion | 50.00% | ~5 |
 | Let There Be Light | 50.00% | ~5 |
 | All Alone With A Curse | 50.00% | ~5 |
+| I'll Become... A Beast | 40.00% | ~4 |
 | Equality | 40.00% | ~4 |
 | Goodbye Dear Friend | 40.00% | ~4 |
 | An Unheard Song | 40.00% | ~4 |
 | By My Own Hands | 40.00% | ~4 |
+| Bookworm | 40.00% | ~4 |
+| Behold, The Nagarimau | 40.00% | ~4 |
 | Clipped Wings | 40.00% | ~4 |
 | Lady In The Book | 40.00% | ~4 |
 | Strangers You Meet | 30.00% | ~3 |
 | Losing A Small, Good Thing | 30.00% | ~3 |
-| I'll Become... A Beast | 30.00% | ~3 |
 | True Potential Unlocked | 30.00% | ~3 |
 | In Service Of Others | 30.00% | ~3 |
+| I Sit On The Beach, Watching The Tide Leave | 30.00% | ~3 |
 | Squashed Bug | 30.00% | ~3 |
 | An End To History | 30.00% | ~3 |
-| Bookworm | 30.00% | ~3 |
-| Behold, The Nagarimau | 30.00% | ~3 |
 | Guli Novice | 20.00% | ~2 |
 | Guli Pro | 20.00% | ~2 |
 | Guli Master | 20.00% | ~2 |
@@ -35,7 +36,6 @@
 | Face Value | 20.00% | ~2 |
 | Unbiased | 20.00% | ~2 |
 | I Like Salty Seawater | 20.00% | ~2 |
-| I Sit On The Beach, Watching The Tide Leave | 20.00% | ~2 |
 | A Foot In Reality | 20.00% | ~2 |
 | Self-indulgent | 20.00% | ~2 |
 | Breaking In The Horse | 20.00% | ~2 |
@@ -73,7 +73,7 @@
 | I Am A Beast | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 10 (Ranked 340)  
-Completed: 0 (0.00%) (Ranked 203)  
+Completed: 0 (0.00%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

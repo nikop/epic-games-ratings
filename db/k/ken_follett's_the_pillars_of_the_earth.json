@@ -6,9 +6,9 @@
   "Ranking_Popularity": 287,
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 104,
-  "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_Completed": 98,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -477,9 +477,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 12711,
+  "EOS_Progressed": 12716,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -2677,6 +2677,11 @@
       "Time": "2023-05-26T16:06:51.6346707+00:00",
       "NumProgressed": 12711,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2023-05-26T19:05:17.3624233+00:00",
+      "NumProgressed": 12716,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 41,
@@ -2688,7 +2693,7 @@
       "Name": "Good midwife",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1398
+      "UsersEstimate": 1399
     },
     {
       "ID": "tpote_achievement_10",
@@ -2704,7 +2709,7 @@
       "Name": "Wannabe knight",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 3178
+      "UsersEstimate": 3179
     },
     {
       "ID": "tpote_achievement_12",
@@ -2728,7 +2733,7 @@
       "Name": "Friends of sorts",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 4322
+      "UsersEstimate": 4323
     },
     {
       "ID": "tpote_achievement_15",
@@ -2752,7 +2757,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2161
+      "UsersEstimate": 2162
     },
     {
       "ID": "tpote_achievement_18",
@@ -2760,7 +2765,7 @@
       "Name": "Friar Tuck",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 1398
+      "UsersEstimate": 1399
     },
     {
       "ID": "tpote_achievement_19",
@@ -2768,7 +2773,7 @@
       "Name": "Negotiation skills",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2415
+      "UsersEstimate": 2416
     },
     {
       "ID": "tpote_achievement_2",
@@ -2776,7 +2781,7 @@
       "Name": "Yet another secret",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 4449
+      "UsersEstimate": 4451
     },
     {
       "ID": "tpote_achievement_20",
@@ -2792,7 +2797,7 @@
       "Name": "End of Book One",
       "Percentage": 31,
       "XP": 75,
-      "UsersEstimate": 3940
+      "UsersEstimate": 3942
     },
     {
       "ID": "tpote_achievement_22",
@@ -2800,7 +2805,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2542
+      "UsersEstimate": 2543
     },
     {
       "ID": "tpote_achievement_23",
@@ -2816,7 +2821,7 @@
       "Name": "First profit",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 1398
+      "UsersEstimate": 1399
     },
     {
       "ID": "tpote_achievement_25",
@@ -2824,7 +2829,7 @@
       "Name": "Revenge",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "tpote_achievement_26",
@@ -2840,7 +2845,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2415
+      "UsersEstimate": 2416
     },
     {
       "ID": "tpote_achievement_28",
@@ -2848,7 +2853,7 @@
       "Name": "Whodunnit",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1652
+      "UsersEstimate": 1653
     },
     {
       "ID": "tpote_achievement_29",
@@ -2856,7 +2861,7 @@
       "Name": "Skilled merchant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "tpote_achievement_3",
@@ -2864,7 +2869,7 @@
       "Name": "Let there be darkness",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4195
+      "UsersEstimate": 4196
     },
     {
       "ID": "tpote_achievement_30",
@@ -2872,7 +2877,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "tpote_achievement_31",
@@ -2880,7 +2885,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2288
+      "UsersEstimate": 2289
     },
     {
       "ID": "tpote_achievement_32",
@@ -2912,7 +2917,7 @@
       "Name": "Self-defense",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "tpote_achievement_36",
@@ -2936,7 +2941,7 @@
       "Name": "Countess Aliena",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "tpote_achievement_39",
@@ -2952,7 +2957,7 @@
       "Name": "Tattletale",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 5339
+      "UsersEstimate": 5341
     },
     {
       "ID": "tpote_achievement_40",
@@ -2976,7 +2981,7 @@
       "Name": "Garden of Eden",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 3178
+      "UsersEstimate": 3179
     },
     {
       "ID": "tpote_achievement_6",
@@ -2984,7 +2989,7 @@
       "Name": "Full house",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 3178
+      "UsersEstimate": 3179
     },
     {
       "ID": "tpote_achievement_7",
@@ -3000,7 +3005,7 @@
       "Name": "Help an old friend",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 2796
+      "UsersEstimate": 2798
     },
     {
       "ID": "tpote_achievement_9",
@@ -3008,22 +3013,22 @@
       "Name": "Man of politics",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 4576
+      "UsersEstimate": 4578
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 12711,
+      "Progressed": 12716,
       "Completed": 94
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-24T02:59:22.8736944+00:00",
-  "LastChanged_Achievements": "2023-05-26T18:05:47.4443668+00:00",
+  "LastChanged_Achievements": "2023-05-26T19:05:17.3624226+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:09:49.1992061+00:00",
-  "LastUpdate_Ratings": "2023-05-26T18:00:20.6206068+00:00",
-  "LastUpdate_Achievements": "2023-05-26T18:05:47.4444149+00:00"
+  "LastUpdate_Ratings": "2023-05-26T18:59:41.808229+00:00",
+  "LastUpdate_Achievements": "2023-05-26T19:05:17.3624595+00:00"
 }
