@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 935,
+  "EOS_Progressed": 936,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 933,
+  "EOS_NewPlayers": 934,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -501,6 +501,11 @@
       "Time": "2023-05-26T17:03:17.3883488+00:00",
       "NumProgressed": 935,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T18:02:31.6191905+00:00",
+      "NumProgressed": 936,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -534,9 +539,9 @@
       "ID": "CLUMSY",
       "SetID": "8lhbnh7",
       "Name": "Whoops",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 84
     },
     {
       "ID": "CONQUEROR",
@@ -544,7 +549,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -606,9 +611,9 @@
       "ID": "GONNA_FLY_NOW",
       "SetID": "8lhbnh7",
       "Name": "Gonna Fly Now",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 47
     },
     {
       "ID": "GRASSHOPPER",
@@ -687,14 +692,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 935,
+      "Progressed": 936,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-05-26T17:03:17.3883481+00:00",
+  "LastChanged_Achievements": "2023-05-26T18:02:31.6191899+00:00",
   "LastUpdate_AppInfo": "2023-05-23T13:57:02.9194307+00:00",
-  "LastUpdate_Ratings": "2023-05-26T16:57:18.1558098+00:00",
-  "LastUpdate_Achievements": "2023-05-26T17:03:17.3883674+00:00"
+  "LastUpdate_Ratings": "2023-05-26T17:56:56.0507926+00:00",
+  "LastUpdate_Achievements": "2023-05-26T18:02:31.619208+00:00"
 }

@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 866,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 6.7,
   "EosHistory": [
@@ -1886,9 +1886,9 @@
       "ID": "19",
       "SetID": "d0g98p",
       "Name": "A Grand Visit",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 606
+      "UsersEstimate": 615
     },
     {
       "ID": "2",
@@ -1966,9 +1966,9 @@
       "ID": "28",
       "SetID": "d0g98p",
       "Name": "Sword, Shield, Fight!",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 641
+      "UsersEstimate": 650
     },
     {
       "ID": "29",
@@ -2014,9 +2014,9 @@
       "ID": "33",
       "SetID": "d0g98p",
       "Name": "Awakened Spirits",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 416
+      "UsersEstimate": 424
     },
     {
       "ID": "34",
@@ -2215,8 +2215,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-26T17:05:37.5904226+00:00",
+  "LastChanged_Achievements": "2023-05-26T18:05:49.8814703+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:59.9943101+00:00",
-  "LastUpdate_Ratings": "2023-05-26T16:57:39.7319428+00:00",
-  "LastUpdate_Achievements": "2023-05-26T17:05:37.5904758+00:00"
+  "LastUpdate_Ratings": "2023-05-26T17:57:20.4554561+00:00",
+  "LastUpdate_Achievements": "2023-05-26T18:05:49.8815243+00:00"
 }

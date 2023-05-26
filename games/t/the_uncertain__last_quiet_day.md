@@ -13,8 +13,8 @@
 | Curious | 41.00% | ~185 |
 | Everybody lies | 36.00% | ~162 |
 | Trick or Treat? | 24.00% | ~108 |
+| There is another way | 23.00% | ~104 |
 | Sysadmin | 22.00% | ~99 |
-| There is another way | 22.00% | ~99 |
 | Annoying | 20.00% | ~90 |
 | Every little helps | 20.00% | ~90 |
 | Hacker | 20.00% | ~90 |

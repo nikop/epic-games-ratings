@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2169,
+  "EOS_Progressed": 2170,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1393,6 +1393,11 @@
       "Time": "2023-05-26T16:07:01.6801375+00:00",
       "NumProgressed": 2169,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T18:05:55.9615776+00:00",
+      "NumProgressed": 2170,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -1546,9 +1551,9 @@
       "ID": "ACH_BASE_28",
       "SetID": "92iocjf",
       "Name": "In Dolos We Trust",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_BASE_29",
@@ -1802,9 +1807,9 @@
       "ID": "ACH_BASE_61",
       "SetID": "92iocjf",
       "Name": "Scientifically Accurate",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_BASE_62",
@@ -1859,13 +1864,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 350,
+      "Progressed": 351,
       "Completed": 4
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 2169,
+      "Progressed": 2170,
       "Completed": 0
     }
   ],
@@ -1873,8 +1878,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-05-26T15:59:06.5118285+00:00",
-  "LastChanged_Achievements": "2023-05-26T17:05:42.7399456+00:00",
+  "LastChanged_Achievements": "2023-05-26T18:05:55.9615772+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.7103468+00:00",
-  "LastUpdate_Ratings": "2023-05-26T16:58:34.8711901+00:00",
-  "LastUpdate_Achievements": "2023-05-26T17:05:42.7400122+00:00"
+  "LastUpdate_Ratings": "2023-05-26T17:58:30.6094121+00:00",
+  "LastUpdate_Achievements": "2023-05-26T18:05:55.9616346+00:00"
 }

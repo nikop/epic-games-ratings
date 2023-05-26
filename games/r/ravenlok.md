@@ -8,13 +8,13 @@
 | Waff! | 94.00% | ~814 |
 | Into the Barn | 86.00% | ~745 |
 | A Prophecy | 84.00% | ~727 |
-| Sword, Shield, Fight! | 74.00% | ~641 |
-| A Grand Visit | 70.00% | ~606 |
+| Sword, Shield, Fight! | 75.00% | ~650 |
+| A Grand Visit | 71.00% | ~615 |
 | Vibing | 61.00% | ~528 |
 | Fun Guy | 61.00% | ~528 |
 | Tragic Brave | 52.00% | ~450 |
+| Awakened Spirits | 49.00% | ~424 |
 | Little Shop | 48.00% | ~416 |
-| Awakened Spirits | 48.00% | ~416 |
 | Surprise! | 43.00% | ~372 |
 | An Actor! | 43.00% | ~372 |
 | Curtain Call | 42.00% | ~364 |

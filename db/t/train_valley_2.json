@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-06-08T14:00:00+00:00",
@@ -267,7 +267,7 @@
   ],
   "EOS_Progressed": 717,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -413,7 +413,7 @@
       "ID": "AchievementAstrochemist_NAME",
       "SetID": "55bbbe2",
       "Name": "Astrochemist",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 10,
       "UsersEstimate": 0
     },
@@ -1003,8 +1003,8 @@
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
   "LastChanged": "2023-05-04T07:57:22.9551284+00:00",
-  "LastChanged_Achievements": "2023-05-26T17:05:59.0843668+00:00",
+  "LastChanged_Achievements": "2023-05-26T18:06:24.8906877+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:00.6806293+00:00",
-  "LastUpdate_Ratings": "2023-05-26T16:57:43.3388314+00:00",
-  "LastUpdate_Achievements": "2023-05-26T17:05:59.0844482+00:00"
+  "LastUpdate_Ratings": "2023-05-26T17:57:24.0476734+00:00",
+  "LastUpdate_Achievements": "2023-05-26T18:06:24.890768+00:00"
 }

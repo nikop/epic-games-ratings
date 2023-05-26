@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 466,
+  "EOS_Progressed": 476,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 464,
+  "EOS_NewPlayers": 474,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -372,6 +372,11 @@
       "Time": "2023-05-26T17:05:35.5156979+00:00",
       "NumProgressed": 466,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T18:05:47.2691121+00:00",
+      "NumProgressed": 476,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -391,15 +396,15 @@
       "Name": "Are you not entertained?",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ASPIRING_EDITOR",
       "SetID": "9a4jnji",
       "Name": "Aspiring Editor",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ATTENBOROUGH",
@@ -431,7 +436,7 @@
       "Name": "Chain Killer",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "CHAIN_REACTION",
@@ -439,7 +444,7 @@
       "Name": "Chain Reaction",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "CHAOS_THEORY",
@@ -453,9 +458,9 @@
       "ID": "COMMANDO",
       "SetID": "9a4jnji",
       "Name": "Commando",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 5
     },
     {
       "ID": "CROAKED",
@@ -463,7 +468,7 @@
       "Name": "Croaked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "CRUELTY",
@@ -487,7 +492,7 @@
       "Name": "Ganglord",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "DEAD_DICK",
@@ -495,7 +500,7 @@
       "Name": "Limp Richard",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -503,7 +508,7 @@
       "Name": "Jarhead",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "DRESSED_TO_KILL",
@@ -527,7 +532,7 @@
       "Name": "Editor Adept",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ENDGAME",
@@ -543,7 +548,7 @@
       "Name": "Exorcist",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "EXPERIENCED",
@@ -551,7 +556,7 @@
       "Name": "Experienced",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "FIRESTARTER",
@@ -559,7 +564,7 @@
       "Name": "Firestarter",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "FIRST_BLOOD",
@@ -567,7 +572,7 @@
       "Name": "First Blood",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 415
+      "UsersEstimate": 424
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -589,9 +594,9 @@
       "ID": "FROM_DARKNESS",
       "SetID": "9a4jnji",
       "Name": "From Darkness to Light",
-      "Percentage": 11,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 67
     },
     {
       "ID": "GIANT_KILLER",
@@ -613,7 +618,7 @@
       "ID": "GUN_FOR_HIRE",
       "SetID": "9a4jnji",
       "Name": "Gun for Hire",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
       "UsersEstimate": 238
     },
@@ -623,7 +628,7 @@
       "Name": "Hold The Line",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "IM_THE_LAW",
@@ -631,7 +636,7 @@
       "Name": "I am the law!",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 167
     },
     {
       "ID": "INFILTRATOR",
@@ -639,7 +644,7 @@
       "Name": "Infiltrator",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "LUMBERJACK",
@@ -647,7 +652,7 @@
       "Name": "Lumberjack",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 86
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -661,9 +666,9 @@
       "ID": "NEWTONIAN_KNOCKOUT",
       "SetID": "9a4jnji",
       "Name": "Newtonian Knockout",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 29
     },
     {
       "ID": "PUSHING_DAISY",
@@ -671,7 +676,7 @@
       "Name": "Pushing Daisy",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "QA_HAS_SUFFERED",
@@ -687,7 +692,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 295
     },
     {
       "ID": "RECYCLER",
@@ -703,7 +708,7 @@
       "Name": "Ruthless",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "SAVIOR",
@@ -719,7 +724,7 @@
       "Name": "Sensei",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "SHADOW_BOXING",
@@ -749,9 +754,9 @@
       "ID": "TECHNOPHOBE",
       "SetID": "9a4jnji",
       "Name": "Technophobe",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 19
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -790,14 +795,14 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 466,
+      "Progressed": 476,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T20:58:17.8341975+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
-  "LastChanged_Achievements": "2023-05-26T17:05:35.5156972+00:00",
+  "LastChanged_Achievements": "2023-05-26T18:05:47.2691116+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:53.8503835+00:00",
-  "LastUpdate_Ratings": "2023-05-26T16:58:28.2682693+00:00",
-  "LastUpdate_Achievements": "2023-05-26T17:05:35.5157416+00:00"
+  "LastUpdate_Ratings": "2023-05-26T17:58:23.1961352+00:00",
+  "LastUpdate_Achievements": "2023-05-26T18:05:47.2691525+00:00"
 }

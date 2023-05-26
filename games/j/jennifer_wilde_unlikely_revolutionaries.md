@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Clothes Hunter | 300.00% | ~3 |
-| Con Artist | 100.00% | ~1 |
-| I See Dead People | 100.00% | ~1 |
-| Bedtime Storyteller | 100.00% | ~1 |
+| Con Artist | 200.00% | ~2 |
+| I See Dead People | 200.00% | ~2 |
+| Bedtime Storyteller | 200.00% | ~2 |
+| Exorcist | 200.00% | ~2 |
+| Electrician | 200.00% | ~2 |
 | I Ain't Afraid of No Ghost | 100.00% | ~1 |
-| Exorcist | 100.00% | ~1 |
-| Electrician | 100.00% | ~1 |
 | Card Sharp | 100.00% | ~1 |
 | Joyrider | 100.00% | ~1 |
 | Top Detective | 0.00% | ~0 |

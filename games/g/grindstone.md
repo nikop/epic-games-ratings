@@ -17,7 +17,7 @@ Number of Ratings: 63  (23.09.2022)
 | Killed 20 Jerks | 53.00% | ~2,689 |
 | Death Defied | 53.00% | ~2,689 |
 | Fortunate Soul | 49.00% | ~2,486 |
-| Jerk-Slayer | 42.00% | ~2,131 |
+| Jerk-Slayer | 43.00% | ~2,181 |
 | Employee of the Month | 37.00% | ~1,877 |
 | I Believe I Can Fly | 37.00% | ~1,877 |
 | Bone Collector | 35.00% | ~1,776 |

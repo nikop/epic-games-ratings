@@ -188,9 +188,9 @@
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PROGRESS_N1",
@@ -212,9 +212,9 @@
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PROGRESS_N4",
@@ -242,8 +242,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-05-26T17:05:32.0355262+00:00",
+  "LastChanged_Achievements": "2023-05-26T18:05:43.2742826+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:19.0543655+00:00",
-  "LastUpdate_Ratings": "2023-05-26T16:59:09.240049+00:00",
-  "LastUpdate_Achievements": "2023-05-26T17:05:32.0355437+00:00"
+  "LastUpdate_Ratings": "2023-05-26T17:59:12.4257689+00:00",
+  "LastUpdate_Achievements": "2023-05-26T18:05:43.2742992+00:00"
 }

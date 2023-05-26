@@ -18,13 +18,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Fertile Meadows | 1.00% | ~150 |
 | Lost Colonies | 1.00% | ~150 |
 | Coral Forest | 1.00% | ~150 |
+| Cursed Lands | 1.00% | ~150 |
 | The Scarlet Orchard | 1.00% | ~150 |
 | Like a Machine | 1.00% | ~150 |
 | Trade Baron | 1.00% | ~150 |
 | Sparkdew Crystals | 0.90% | ~135 |
 | Flooded Mines | 0.90% | ~135 |
 | Royal Outpost | 0.90% | ~135 |
-| Cursed Lands | 0.90% | ~135 |
 | A Real Challenge | 0.90% | ~135 |
 | Refinery | 0.80% | ~120 |
 | Against All Odds | 0.80% | ~120 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.10% | ~15 |
 | Ruins | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,005 (Ranked 99)  
+Progressed: 15,006 (Ranked 99)  
 Completed: 33 (0.22%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 33 (0.22%) (Ranked 135)
 | 2023-05-23 | 14,974 | 33 |
 | 2023-05-24 | 14,986 | 33 |
 | 2023-05-25 | 14,995 | 33 |
-| 2023-05-26 | 15,005 | 33 |
+| 2023-05-26 | 15,006 | 33 |
 ## Awards
 Max (Quickly Understood Controls): 417  (Ranked 196)  
 Sum: 3,031 (Ranked 152)  

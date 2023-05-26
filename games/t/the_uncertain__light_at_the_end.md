@@ -6,9 +6,9 @@ Rating: 3.85 (Ranked 910)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Bundle of Joy | 50.00% | ~214 |
-| A Friend in Need... | 45.00% | ~192 |
+| A Friend in Need... | 45.00% | ~193 |
 | Bosom Buddies | 30.00% | ~128 |
-| Beat the Heat | 24.00% | ~102 |
+| Beat the Heat | 24.00% | ~103 |
 | A Familiar Face | 16.00% | ~68 |
 | Unexpected Consequences | 14.00% | ~60 |
 | Mind the Gap | 13.00% | ~56 |
@@ -35,7 +35,7 @@ Rating: 3.85 (Ranked 910)
 | Marvellous Toys | 2.00% | ~9 |
 | Hardcore Gamer | 1.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 427 (Ranked 197)  
+Progressed: 428 (Ranked 197)  
 Completed: 5 (1.17%) (Ranked 81)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,6 +56,7 @@ Completed: 5 (1.17%) (Ranked 81)
 | 2023-05-22 | 423 | 5 |
 | 2023-05-23 | 425 | 5 |
 | 2023-05-25 | 427 | 5 |
+| 2023-05-26 | 428 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

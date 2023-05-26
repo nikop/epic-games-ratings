@@ -10,13 +10,13 @@ Rating: 4.17 (Ranked 837)
 | Har, Har, Har, Very Funny | 1.00% | ~622 |
 | Knighthood | 1.00% | ~622 |
 | Loose Ends | 1.00% | ~622 |
-| Get ReQ'd | 0.90% | ~559 |
+| Get ReQ'd | 0.90% | ~560 |
+| Whispered Words | 0.90% | ~560 |
 | The Batman Family | 0.80% | ~497 |
 | Something in the Clay | 0.80% | ~497 |
 | Quartzer Life Crisis | 0.80% | ~497 |
 | Snow Problem | 0.80% | ~497 |
 | Working Hard or Harley Working? | 0.80% | ~497 |
-| Whispered Words | 0.80% | ~497 |
 | Protector of Gotham | 0.70% | ~435 |
 | The Show Mud Go On | 0.70% | ~435 |
 | Universal Health Scare | 0.70% | ~435 |
@@ -38,10 +38,10 @@ Rating: 4.17 (Ranked 837)
 | Drone You Out | 0.40% | ~249 |
 | Gotham City Confidential | 0.40% | ~249 |
 | Solid Alibi | 0.40% | ~249 |
-| Fusion Expert | 0.30% | ~186 |
-| Expert Crime Fighter | 0.30% | ~186 |
-| Family Meeting | 0.30% | ~186 |
-| A Worthy Successor | 0.30% | ~186 |
+| Fusion Expert | 0.30% | ~187 |
+| Expert Crime Fighter | 0.30% | ~187 |
+| Family Meeting | 0.30% | ~187 |
+| A Worthy Successor | 0.30% | ~187 |
 | Hammer and Icicle | 0.20% | ~65 |
 | Renewable Enemy Source | 0.20% | ~65 |
 | Dressed to Impress | 0.20% | ~124 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 837)
 | Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,158 (Ranked 70)  
+Progressed: 62,167 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,14 +103,14 @@ Completed: 91 (0.15%) (Ranked 148)
 | 2023-05-23 | 61,842 | 91 |
 | 2023-05-24 | 61,945 | 91 |
 | 2023-05-25 | 62,051 | 91 |
-| 2023-05-26 | 62,158 | 91 |
+| 2023-05-26 | 62,167 | 91 |
 ## Awards
-Max (Great Boss Battles): 2,237  (Ranked 98)  
-Sum: 3,716 (Ranked 138)  
+Max (Great Boss Battles): 2,239  (Ranked 98)  
+Sum: 3,718 (Ranked 138)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,237 |
+| This game has Great Boss Battles | 2,239 |
 | This game is Relaxing | 193 |
 | This game is Extremely Fun | 193 |
 | This game has Quickly Understood Controls | 190 |
@@ -217,4 +217,4 @@ Diff (max vs sum): -40
 | 2023-05-23 | 4.17 | 2,231 | 3,704 |
 | 2023-05-24 | 4.17 | 2,234 | 3,709 |
 | 2023-05-25 | 4.17 | 2,237 | 3,714 |
-| 2023-05-26 | 4.17 | 2,237 | 3,716 |
+| 2023-05-26 | 4.17 | 2,239 | 3,718 |

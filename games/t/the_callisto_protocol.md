@@ -6,17 +6,17 @@ Rating: 4.18 (Ranked 831)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Flesh Wound | 7.00% | ~958 |
-| Giving Back | 5.00% | ~684 |
-| Chew 'Em Up | 5.00% | ~684 |
-| The Outer Way | 4.00% | ~547 |
-| Desperate Times | 4.00% | ~547 |
-| Instigator | 4.00% | ~64 |
-| Big Game Hunter | 4.00% | ~64 |
-| Workplace Hazard | 3.00% | ~410 |
-| Float Like A Butterfly | 3.00% | ~410 |
-| Reforged | 3.00% | ~410 |
-| Paper Jams | 3.00% | ~410 |
-| Bear Trap | 3.00% | ~48 |
+| Giving Back | 5.00% | ~685 |
+| Chew 'Em Up | 5.00% | ~685 |
+| The Outer Way | 4.00% | ~548 |
+| Desperate Times | 4.00% | ~548 |
+| Instigator | 4.00% | ~65 |
+| Big Game Hunter | 4.00% | ~65 |
+| Workplace Hazard | 3.00% | ~411 |
+| Float Like A Butterfly | 3.00% | ~411 |
+| Reforged | 3.00% | ~411 |
+| Paper Jams | 3.00% | ~411 |
+| Bear Trap | 3.00% | ~49 |
 | Get a Grip | 2.00% | ~274 |
 | Terminated | 2.00% | ~274 |
 | The Commonality | 2.00% | ~274 |
@@ -31,8 +31,8 @@ Rating: 4.18 (Ranked 831)
 | Hoard Mode | 1.00% | ~16 |
 | You Need a Gun | 0.90% | ~123 |
 | Power Up | 0.90% | ~123 |
-| In Striking Distance | 0.80% | ~109 |
-| What Lies Beneath | 0.80% | ~109 |
+| In Striking Distance | 0.80% | ~110 |
+| What Lies Beneath | 0.80% | ~110 |
 | Recidivist | 0.70% | ~11 |
 | Lifer | 0.70% | ~11 |
 | Full Circle | 0.70% | ~96 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 831)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,683 (Ranked 102)  
+Progressed: 13,692 (Ranked 102)  
 Completed: 53 (0.39%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 53 (0.39%) (Ranked 112)
 | 2023-05-23 | 13,444 | 52 |
 | 2023-05-24 | 13,523 | 52 |
 | 2023-05-25 | 13,610 | 52 |
-| 2023-05-26 | 13,683 | 53 |
+| 2023-05-26 | 13,692 | 53 |
 ## Awards
 Max (Highly Recommended): 46  (Ranked 398)  
 Sum: 267 (Ranked 335)  

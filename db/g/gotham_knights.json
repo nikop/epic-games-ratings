@@ -1176,18 +1176,24 @@
       "Rating": 4.17,
       "NumberOfAwards": 3716,
       "NumberOfAwardsMax": 2237
+    },
+    {
+      "Time": "2023-05-26T18:00:06.9487837+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 3718,
+      "NumberOfAwardsMax": 2239
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3716,
-  "NumberOfAwardsMax": 2237,
+  "NumberOfAwards": 3718,
+  "NumberOfAwardsMax": 2239,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 2237
+      "Count": 2239
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1244,9 +1250,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62158,
+  "EOS_Progressed": 62167,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1015,
+  "EOS_NewPlayers": 1014,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3869,6 +3875,11 @@
       "Time": "2023-05-26T17:06:09.1005017+00:00",
       "NumProgressed": 62158,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-26T18:06:36.1004081+00:00",
+      "NumProgressed": 62167,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4024,7 +4035,7 @@
       "Name": "Fusion Expert",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -4032,7 +4043,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -4080,7 +4091,7 @@
       "Name": "Family Meeting",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -4192,7 +4203,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "HARLEY_3",
@@ -4264,7 +4275,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "MYSTERY_01",
@@ -4278,9 +4289,9 @@
       "ID": "MYSTERY_02",
       "SetID": "4eo5ebm",
       "Name": "Whispered Words",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 497
+      "UsersEstimate": 560
     },
     {
       "ID": "MYSTERY_03",
@@ -4367,22 +4378,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62158,
+      "Progressed": 62167,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32438,
+      "Progressed": 32447,
       "Completed": 2642
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-05-26T16:59:53.2801273+00:00",
-  "LastChanged_Achievements": "2023-05-26T17:06:09.1005011+00:00",
+  "LastChanged": "2023-05-26T18:00:06.9487835+00:00",
+  "LastChanged_Achievements": "2023-05-26T18:06:36.1004067+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-26T16:59:53.2801279+00:00",
-  "LastUpdate_Achievements": "2023-05-26T17:06:09.100575+00:00"
+  "LastUpdate_Ratings": "2023-05-26T18:00:06.9487842+00:00",
+  "LastUpdate_Achievements": "2023-05-26T18:06:36.1004828+00:00"
 }

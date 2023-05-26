@@ -881,9 +881,9 @@
       "ID": "achDog",
       "SetID": "72gjli4",
       "Name": "Doberman \u2714",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "achEva",
@@ -1073,9 +1073,9 @@
       "ID": "achShahmat",
       "SetID": "72gjli4",
       "Name": "Chess \u2714",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "achSpped",
@@ -1146,8 +1146,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-05-26T17:06:08.6768408+00:00",
+  "LastChanged_Achievements": "2023-05-26T18:06:35.6494638+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:11.586606+00:00",
-  "LastUpdate_Ratings": "2023-05-26T17:00:23.2876518+00:00",
-  "LastUpdate_Achievements": "2023-05-26T17:06:08.6768903+00:00"
+  "LastUpdate_Ratings": "2023-05-26T18:00:43.9829032+00:00",
+  "LastUpdate_Achievements": "2023-05-26T18:06:35.6495124+00:00"
 }

@@ -30,8 +30,8 @@ Rating: 4.56 (Ranked 450)
 | Necessary Enhancement | 1.00% | ~22 |
 | Convenient Transport | 1.00% | ~22 |
 | From the Past | 1.00% | ~22 |
+| In Dolos We Trust | 0.90% | ~20 |
 | BRAWL! | 0.90% | ~20 |
-| In Dolos We Trust | 0.80% | ~17 |
 | All in Good Health | 0.80% | ~17 |
 | What They Hide From Us | 0.70% | ~15 |
 | Delivery! | 0.70% | ~15 |
@@ -45,12 +45,12 @@ Rating: 4.56 (Ranked 450)
 | Space Greenhouse | 0.50% | ~11 |
 | Help of the Forgotten Member | 0.40% | ~9 |
 | Mutual Loyalty | 0.30% | ~7 |
+| Scientifically Accurate | 0.30% | ~7 |
 | Better Him Than Me | 0.20% | ~4 |
 | Tiqqun Contender | 0.20% | ~4 |
 | Catastrophe Avoided | 0.20% | ~4 |
 | Gregor Spinoza | 0.20% | ~4 |
 | Tiqqun Unchained | 0.20% | ~4 |
-| Scientifically Accurate | 0.20% | ~4 |
 | Remember the Dead | 0.10% | ~2 |
 | Work Harder | 0.10% | ~2 |
 | Soylent Green | 0.10% | ~2 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 450)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,169 (Ranked 144)  
+Progressed: 2,170 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 0 (0.00%) (Ranked 203)
 | 2023-05-23 | 2,115 | 0 |
 | 2023-05-24 | 2,134 | 0 |
 | 2023-05-25 | 2,154 | 0 |
-| 2023-05-26 | 2,169 | 0 |
+| 2023-05-26 | 2,170 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

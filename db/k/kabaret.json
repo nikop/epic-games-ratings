@@ -83,9 +83,9 @@
       "ID": "11",
       "SetID": "37jn7be",
       "Name": "Losing A Small, Good Thing",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "12",
@@ -115,9 +115,9 @@
       "ID": "15",
       "SetID": "37jn7be",
       "Name": "True Potential Unlocked",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "16",
@@ -419,9 +419,9 @@
       "ID": "5",
       "SetID": "37jn7be",
       "Name": "An End To History",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "50",
@@ -507,9 +507,9 @@
       "ID": "6",
       "SetID": "37jn7be",
       "Name": "Clipped Wings",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "60",
@@ -555,9 +555,9 @@
       "ID": "65",
       "SetID": "37jn7be",
       "Name": "Let There Be Light",
-      "Percentage": 40,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "66",
@@ -579,9 +579,9 @@
       "ID": "7",
       "SetID": "37jn7be",
       "Name": "Lady In The Book",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "8",
@@ -612,8 +612,8 @@
   "FirstSeenRating": "2023-04-29T22:57:51.702813+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:15.0612299+00:00",
   "LastChanged": "2023-04-29T22:57:51.7028131+00:00",
-  "LastChanged_Achievements": "2023-05-26T17:01:03.1522729+00:00",
+  "LastChanged_Achievements": "2023-05-26T18:01:34.0970274+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.1178962+00:00",
-  "LastUpdate_Ratings": "2023-05-26T16:58:11.6117479+00:00",
-  "LastUpdate_Achievements": "2023-05-26T17:01:03.1523434+00:00"
+  "LastUpdate_Ratings": "2023-05-26T17:57:59.8967966+00:00",
+  "LastUpdate_Achievements": "2023-05-26T18:01:34.0970969+00:00"
 }

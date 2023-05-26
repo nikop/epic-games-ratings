@@ -28,7 +28,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 105,
+  "EOS_Progressed": 106,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
@@ -173,6 +173,11 @@
       "Time": "2023-05-26T15:07:00.1288166+00:00",
       "NumProgressed": 105,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T18:05:50.6585569+00:00",
+      "NumProgressed": 106,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -182,7 +187,7 @@
       "ID": "ACH_ACT1",
       "SetID": "2310cb1",
       "Name": "Wake Up",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 30,
       "UsersEstimate": 82
     },
@@ -246,7 +251,7 @@
       "ID": "ACH_ACT2",
       "SetID": "2310cb1",
       "Name": "Time Gates",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 30,
       "UsersEstimate": 63
     },
@@ -254,7 +259,7 @@
       "ID": "ACH_ACT3",
       "SetID": "2310cb1",
       "Name": "Command Centre",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 30,
       "UsersEstimate": 49
     },
@@ -262,7 +267,7 @@
       "ID": "ACH_ACT4",
       "SetID": "2310cb1",
       "Name": "This is a Wall",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 30,
       "UsersEstimate": 46
     },
@@ -312,15 +317,15 @@
       "Name": "Archivist",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_BESTFRIEND",
       "SetID": "2310cb1",
       "Name": "Man\u0027s Best Friend",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_CHAINREACTION",
@@ -358,9 +363,9 @@
       "ID": "ACH_LOOPER",
       "SetID": "2310cb1",
       "Name": "Looper",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 9
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_REUINTED",
@@ -374,7 +379,7 @@
       "ID": "ACH_REWINDTIME",
       "SetID": "2310cb1",
       "Name": "It\u0027s Rewind Time",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 15,
       "UsersEstimate": 92
     },
@@ -399,7 +404,7 @@
     {
       "ID": "2310cb1",
       "IsBase": true,
-      "Progressed": 105,
+      "Progressed": 106,
       "Completed": 0
     }
   ],
@@ -407,8 +412,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2023-05-26T17:05:38.1581086+00:00",
+  "LastChanged_Achievements": "2023-05-26T18:05:50.6585561+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:56.6865886+00:00",
-  "LastUpdate_Ratings": "2023-05-26T16:57:37.0474713+00:00",
-  "LastUpdate_Achievements": "2023-05-26T17:05:38.1581288+00:00"
+  "LastUpdate_Ratings": "2023-05-26T17:57:18.6246274+00:00",
+  "LastUpdate_Achievements": "2023-05-26T18:05:50.6585774+00:00"
 }

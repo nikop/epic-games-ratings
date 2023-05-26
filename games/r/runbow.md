@@ -5,31 +5,31 @@ Rating: 4.46 (Ranked 597)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~129,111 |
-| My First Runbow | 51.00% | ~124,239 |
-| It's The Fall | 26.00% | ~63,337 |
-| The Stunner | 21.00% | ~51,157 |
-| Be Aggressive | 20.00% | ~48,721 |
-| Curator | 20.00% | ~48,721 |
-| Crowning Around | 18.00% | ~43,849 |
-| Can You Dig It? | 17.00% | ~41,413 |
-| You Juan-A-Go? | 16.00% | ~38,977 |
-| Chan-tastic | 15.00% | ~36,541 |
-| Muddy Waters | 14.00% | ~34,105 |
-| Toasty! | 13.00% | ~31,669 |
-| Lazy Laser | 8.00% | ~19,488 |
-| Into The Drift | 7.00% | ~17,052 |
-| Ready? Fight! | 7.00% | ~17,052 |
-| Just A Phaze | 6.00% | ~14,616 |
-| Butt Butt | 6.00% | ~14,616 |
+| In The Zone | 53.00% | ~129,114 |
+| My First Runbow | 51.00% | ~124,242 |
+| It's The Fall | 26.00% | ~63,339 |
+| The Stunner | 21.00% | ~51,159 |
+| Be Aggressive | 20.00% | ~48,722 |
+| Curator | 20.00% | ~48,722 |
+| Crowning Around | 18.00% | ~43,850 |
+| Can You Dig It? | 17.00% | ~41,414 |
+| You Juan-A-Go? | 16.00% | ~38,978 |
+| Chan-tastic | 15.00% | ~36,542 |
+| Muddy Waters | 14.00% | ~34,106 |
+| Toasty! | 13.00% | ~31,670 |
+| Lazy Laser | 8.00% | ~19,489 |
+| Into The Drift | 7.00% | ~17,053 |
+| Ready? Fight! | 7.00% | ~17,053 |
+| Just A Phaze | 6.00% | ~14,617 |
+| Butt Butt | 6.00% | ~14,617 |
 | He Who Laughs Last | 3.00% | ~7,308 |
 | Shoo, Cat! | 3.00% | ~7,308 |
 | And You're Okay | 2.00% | ~4,872 |
 | Blotbuster | 2.00% | ~4,872 |
 | Just A Bit | 1.00% | ~2,436 |
 | Thunderstruck | 1.00% | ~2,436 |
-| Tubular, Dude | 0.90% | ~2,192 |
-| What A Trip | 0.90% | ~2,192 |
+| Tubular, Dude | 0.90% | ~2,193 |
+| What A Trip | 0.90% | ~2,193 |
 | Please The King | 0.80% | ~1,949 |
 | Here We Go! | 0.70% | ~1,705 |
 | Clear-Cut | 0.50% | ~1,218 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 597)
 | Talent Scout | 0.10% | ~244 |
 | True Completionist | 0.10% | ~244 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,605 (Ranked 40)  
+Progressed: 243,612 (Ranked 40)  
 Completed: 2 (0.00%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 2 (0.00%) (Ranked 203)
 | 2023-05-23 | 243,475 | 2 |
 | 2023-05-24 | 243,522 | 2 |
 | 2023-05-25 | 243,559 | 2 |
-| 2023-05-26 | 243,605 | 2 |
+| 2023-05-26 | 243,612 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

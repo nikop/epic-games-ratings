@@ -804,9 +804,9 @@
       "ID": "LEVEL_005",
       "SetID": "3khpmem",
       "Name": "Bridges to come and go",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 35,
-      "UsersEstimate": 77
+      "UsersEstimate": 79
     },
     {
       "ID": "LEVEL_006",
@@ -820,9 +820,9 @@
       "ID": "LEVEL_007",
       "SetID": "3khpmem",
       "Name": "Burger or pizza?",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 35,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "LEVEL_008",
@@ -957,8 +957,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-26T17:05:36.544916+00:00",
+  "LastChanged_Achievements": "2023-05-26T18:05:48.4953259+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:36.8517809+00:00",
-  "LastUpdate_Ratings": "2023-05-26T16:58:11.7787541+00:00",
-  "LastUpdate_Achievements": "2023-05-26T17:05:36.5449358+00:00"
+  "LastUpdate_Ratings": "2023-05-26T17:58:00.2554443+00:00",
+  "LastUpdate_Achievements": "2023-05-26T18:05:48.4953493+00:00"
 }

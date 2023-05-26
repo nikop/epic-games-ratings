@@ -25,7 +25,7 @@ Rating: 4.50 (Ranked 538)
 | Feed a God | 20.00% | ~75 |
 | To the Moon and Back | 20.00% | ~75 |
 | Great Flight | 17.00% | ~64 |
-| Holy Vengeance | 14.00% | ~53 |
+| Holy Vengeance | 15.00% | ~56 |
 | Strength and Sorcery | 10.00% | ~38 |
 | Brain and Brawn | 10.00% | ~38 |
 | Honorary Cultist | 10.00% | ~38 |

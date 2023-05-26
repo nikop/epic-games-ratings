@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 162,
+  "EOS_Progressed": 163,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
@@ -684,6 +684,11 @@
       "Time": "2023-05-25T23:05:38.0333771+00:00",
       "NumProgressed": 162,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T18:05:53.3426907+00:00",
+      "NumProgressed": 163,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -727,7 +732,7 @@
       "Name": "War with Friends",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "DESTROY_100_EMPLACEMENTS_WITH_BOMBERS",
@@ -743,7 +748,7 @@
       "Name": "The Chemists\u0027 War",
       "Percentage": 4,
       "XP": 110,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "REACH_DECEMBER_1919",
@@ -757,9 +762,9 @@
       "ID": "USE_UNDERMINE",
       "SetID": "6kcl14p",
       "Name": "Earth Shattering",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 90,
-      "UsersEstimate": 83
+      "UsersEstimate": 82
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -775,7 +780,7 @@
       "Name": "Das Ist Endg\u00FCltig!",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -790,7 +795,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 162,
+      "Progressed": 163,
       "Completed": 0
     }
   ],
@@ -798,8 +803,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-03-31T05:57:31.1456658+00:00",
-  "LastChanged_Achievements": "2023-05-26T17:05:40.4877126+00:00",
+  "LastChanged_Achievements": "2023-05-26T18:05:53.3426901+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:01.4945715+00:00",
-  "LastUpdate_Ratings": "2023-05-26T16:58:36.8738134+00:00",
-  "LastUpdate_Achievements": "2023-05-26T17:05:40.4877279+00:00"
+  "LastUpdate_Ratings": "2023-05-26T17:58:33.1853621+00:00",
+  "LastUpdate_Achievements": "2023-05-26T18:05:53.3427045+00:00"
 }

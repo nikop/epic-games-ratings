@@ -5,12 +5,12 @@ Rating: 4.39 (Ranked 687)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 18.00% | ~270 |
-| Confirming Suspicions | 13.00% | ~195 |
-| The Kraken Wakes | 10.00% | ~150 |
-| It's Starting to Crack | 7.00% | ~105 |
-| Lord of War | 6.00% | ~90 |
-| Resourceful | 6.00% | ~90 |
+| Meeting Resistance | 18.00% | ~272 |
+| Confirming Suspicions | 13.00% | ~196 |
+| The Kraken Wakes | 10.00% | ~151 |
+| It's Starting to Crack | 7.00% | ~106 |
+| Lord of War | 6.00% | ~91 |
+| Resourceful | 6.00% | ~91 |
 | Enemy at the Gates | 5.00% | ~75 |
 | Organ Grinder | 5.00% | ~75 |
 | Change the Channel | 5.00% | ~75 |
@@ -38,18 +38,18 @@ Rating: 4.39 (Ranked 687)
 | Rigged to Blow | 1.00% | ~15 |
 | Brains of the Operation | 1.00% | ~15 |
 | My Little Friend | 0.80% | ~12 |
-| It'll Buff Right Out | 0.70% | ~10 |
-| Locomotion Commotion | 0.60% | ~9 |
+| It'll Buff Right Out | 0.70% | ~11 |
+| Locomotion Commotion | 0.70% | ~11 |
 | Herr Today, Gone Tomorrow | 0.60% | ~9 |
 | Operation Foxley | 0.60% | ~9 |
 | Ghost of Falaise | 0.60% | ~9 |
 | Strategist | 0.50% | ~8 |
 | Last Resort | 0.50% | ~7 |
 | Siegebreaker | 0.50% | ~7 |
-| From Paris with Love | 0.30% | ~4 |
-| Tinkerer | 0.30% | ~4 |
-| Don't hold your breath | 0.30% | ~4 |
-| Shoot for the Moon | 0.30% | ~4 |
+| Tinkerer | 0.40% | ~6 |
+| From Paris with Love | 0.30% | ~5 |
+| Don't hold your breath | 0.30% | ~5 |
+| Shoot for the Moon | 0.30% | ~5 |
 | Reich To The Point | 0.30% | ~4 |
 | Covert Elimination | 0.30% | ~4 |
 | Sink or Swim | 0.30% | ~2 |
@@ -64,6 +64,7 @@ Rating: 4.39 (Ranked 687)
 | From Führer Away | 0.10% | ~1 |
 | Operation Overlord | 0.10% | ~1 |
 | If You Go Down To The Woods Today | 0.10% | ~1 |
+| Fight Another Day | 0.10% | ~1 |
 | Best of the Best | 0.00% | ~0 |
 | Master of Pistols | 0.00% | ~0 |
 | Master of Secondaries | 0.00% | ~0 |
@@ -72,12 +73,11 @@ Rating: 4.39 (Ranked 687)
 | Can't Outrun A Bullet | 0.00% | ~0 |
 | Alpha | 0.00% | ~0 |
 | Das Familienjuwel | 0.00% | ~0 |
-| Fight Another Day | 0.00% | ~0 |
 | Stroll in the Woods | 0.00% | ~0 |
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,500 (Ranked 156)  
+Progressed: 1,509 (Ranked 156)  
 Completed: 2 (0.13%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 2 (0.13%) (Ranked 153)
 | 2023-05-23 | 1,294 | 2 |
 | 2023-05-24 | 1,365 | 2 |
 | 2023-05-25 | 1,428 | 2 |
-| 2023-05-26 | 1,500 | 2 |
+| 2023-05-26 | 1,509 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

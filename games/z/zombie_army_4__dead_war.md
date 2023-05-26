@@ -6,47 +6,47 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 68.00% | ~28,850 |
-| Say goodbye, creep! | 65.00% | ~27,577 |
-| Blood splattered | 65.00% | ~27,577 |
-| Choo choo! | 62.00% | ~26,304 |
-| Groovy | 61.00% | ~25,880 |
-| Cleanup on aisle 4! | 56.00% | ~23,759 |
-| Gold | 50.00% | ~21,213 |
-| The boat can leave now...tell the crew | 48.00% | ~20,364 |
-| Give me something to shoot! | 46.00% | ~19,516 |
-| Stand back boy! | 46.00% | ~19,516 |
-| Weird science | 44.00% | ~18,667 |
-| Chain reaction | 44.00% | ~18,667 |
+| Shoot it, man! Shoot it in the head! | 68.00% | ~28,851 |
+| Say goodbye, creep! | 65.00% | ~27,578 |
+| Blood splattered | 65.00% | ~27,578 |
+| Choo choo! | 62.00% | ~26,305 |
+| Groovy | 61.00% | ~25,881 |
+| Cleanup on aisle 4! | 56.00% | ~23,760 |
+| Gold | 50.00% | ~21,214 |
+| The boat can leave now...tell the crew | 48.00% | ~20,365 |
+| Give me something to shoot! | 46.00% | ~19,517 |
+| Stand back boy! | 46.00% | ~19,517 |
+| Weird science | 44.00% | ~18,668 |
+| Chain reaction | 44.00% | ~18,668 |
 | Look mummy! A shark! | 41.00% | ~17,395 |
 | What did you say, Blain? | 41.00% | ~17,395 |
-| In the dark dark woods... | 38.00% | ~16,122 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,122 |
+| In the dark dark woods... | 38.00% | ~16,123 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,123 |
 | Double tap | 37.00% | ~15,698 |
-| Cranial blowout! | 36.00% | ~15,273 |
-| Zombie killin' machine | 36.00% | ~15,273 |
-| Every bullet counts | 36.00% | ~15,273 |
-| All of this has happened before… | 35.00% | ~14,849 |
-| You've got red on you | 34.00% | ~14,425 |
+| Cranial blowout! | 36.00% | ~15,274 |
+| Zombie killin' machine | 36.00% | ~15,274 |
+| Every bullet counts | 36.00% | ~15,274 |
+| All of this has happened before… | 35.00% | ~14,850 |
+| You've got red on you | 34.00% | ~14,426 |
 | All roads lead to Rome | 33.00% | ~14,001 |
-| You're all going to die down here | 31.00% | ~13,152 |
-| He did Nazi that coming | 31.00% | ~13,152 |
-| Kill of the week | 31.00% | ~13,152 |
+| You're all going to die down here | 31.00% | ~13,153 |
+| He did Nazi that coming | 31.00% | ~13,153 |
+| Kill of the week | 31.00% | ~13,153 |
 | I never liked them anyway | 30.00% | ~12,728 |
-| Is it over? | 28.00% | ~11,879 |
-| Got your back | 27.00% | ~11,455 |
-| Gore soaked | 24.00% | ~10,182 |
+| Is it over? | 28.00% | ~11,880 |
+| Got your back | 27.00% | ~11,456 |
+| Gore soaked | 24.00% | ~10,183 |
 | Shock therapy | 22.00% | ~9,334 |
 | Leave the limbs you've lost | 22.00% | ~9,334 |
 | Everyone's a mad scientist, life is the lab | 18.00% | ~7,637 |
 | Take them down screaming | 18.00% | ~7,637 |
-| Weapons expert | 17.00% | ~7,212 |
+| Weapons expert | 17.00% | ~7,213 |
 | Bad Blood | 16.00% | ~6,788 |
 | The bigger they are... | 15.00% | ~6,364 |
 | I'm going deeper underground | 14.00% | ~5,940 |
 | Well equipped | 12.00% | ~5,091 |
 | Into the deep | 12.00% | ~5,091 |
-| Damnedbusters | 9.00% | ~3,818 |
+| Damnedbusters | 9.00% | ~3,819 |
 | I can do anything I want. I got guns | 8.00% | ~3,394 |
 | Send me an angel | 8.00% | ~3,394 |
 | Plane sailing | 7.00% | ~2,970 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~424 |
 | None more hard | 0.50% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,426 (Ranked 81)  
+Progressed: 42,428 (Ranked 81)  
 Completed: 25 (0.06%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,15 +109,15 @@ Completed: 25 (0.06%) (Ranked 171)
 | 2023-05-23 | 42,394 | 25 |
 | 2023-05-24 | 42,404 | 25 |
 | 2023-05-25 | 42,418 | 25 |
-| 2023-05-26 | 42,426 | 25 |
+| 2023-05-26 | 42,428 | 25 |
 ## Awards
 Max (Great Boss Battles): 775  (Ranked 147)  
-Sum: 2,375 (Ranked 169)  
+Sum: 2,376 (Ranked 169)  
 Diff (max vs sum): -22  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 775 |
-| This game is Great for Beginners | 240 |
+| This game is Great for Beginners | 241 |
 | This game has Amazing Storytelling | 204 |
 | This game is Extremely Fun | 203 |
 | This game is Highly Recommended | 203 |
@@ -249,3 +249,4 @@ Diff (max vs sum): -22
 | 2023-05-23 | 4.69 | - | 774 | 2,372 |
 | 2023-05-24 | 4.69 | - | 775 | 2,374 |
 | 2023-05-25 | 4.69 | - | 775 | 2,375 |
+| 2023-05-26 | 4.69 | - | 775 | 2,376 |

@@ -2,7 +2,7 @@
   "ID": "c1edd23d035a4df0bbc419f2d0fbb40d",
   "Name": "Scrapnaut",
   "ProductSlug": "scrapnaut",
-  "Ranking_Rating": 731,
+  "Ranking_Rating": 730,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 234,
@@ -613,9 +613,9 @@
       "ID": "ACH_TELEPORT",
       "SetID": "7c4cldc",
       "Name": "Teleport",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     }
   ],
   "AchievementSets": [
@@ -630,8 +630,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-03-31T05:58:41.9972886+00:00",
-  "LastChanged_Achievements": "2023-05-26T17:05:37.3919102+00:00",
+  "LastChanged_Achievements": "2023-05-26T18:05:49.7508527+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:01.8031827+00:00",
-  "LastUpdate_Ratings": "2023-05-26T16:58:37.1415256+00:00",
-  "LastUpdate_Achievements": "2023-05-26T17:05:37.3919338+00:00"
+  "LastUpdate_Ratings": "2023-05-26T17:58:33.5277829+00:00",
+  "LastUpdate_Achievements": "2023-05-26T18:05:49.7508771+00:00"
 }

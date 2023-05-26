@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 320,
+  "EOS_Progressed": 321,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -216,6 +216,11 @@
       "Time": "2023-05-26T17:06:03.1210108+00:00",
       "NumProgressed": 320,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T18:06:29.4607318+00:00",
+      "NumProgressed": 321,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -299,7 +304,7 @@
       "Name": "Gladiator",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "GoblinTales",
@@ -307,7 +312,7 @@
       "Name": "Goblin Tales",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "Hardboiled",
@@ -321,17 +326,17 @@
       "ID": "HolyKnight",
       "SetID": "82505mn",
       "Name": "Holy Knight",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 6
     },
     {
       "ID": "Horder",
       "SetID": "82505mn",
       "Name": "Hoarder",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 6
     },
     {
       "ID": "Iconoclasm",
@@ -363,7 +368,7 @@
       "Name": "Lumberjack",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Marksman",
@@ -377,9 +382,9 @@
       "ID": "MeatLover",
       "SetID": "82505mn",
       "Name": "Meat Lover",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 6
     },
     {
       "ID": "MoneySwag",
@@ -411,7 +416,7 @@
       "Name": "Orcs Must Die!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Pyromancer",
@@ -427,7 +432,7 @@
       "Name": "Reincarnation",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "Roughneck",
@@ -449,9 +454,9 @@
       "ID": "ShieldCrusher",
       "SetID": "82505mn",
       "Name": "Shield Crusher",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 22
     },
     {
       "ID": "SlingOfDavid",
@@ -523,7 +528,7 @@
       "Name": "Troubleshooter",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "WeaponMaster",
@@ -546,7 +551,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 320,
+      "Progressed": 321,
       "Completed": 0
     }
   ],
@@ -554,8 +559,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-05-26T17:06:03.1210098+00:00",
+  "LastChanged_Achievements": "2023-05-26T18:06:29.4607312+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:07.6550194+00:00",
-  "LastUpdate_Ratings": "2023-05-26T16:59:42.9888848+00:00",
-  "LastUpdate_Achievements": "2023-05-26T17:06:03.121044+00:00"
+  "LastUpdate_Ratings": "2023-05-26T17:59:54.6858122+00:00",
+  "LastUpdate_Achievements": "2023-05-26T18:06:29.4607664+00:00"
 }

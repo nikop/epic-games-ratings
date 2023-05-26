@@ -41,12 +41,12 @@ Rating: 3.87 (Ranked 907)
 | Here We Go Again | 4.00% | ~47 |
 | Missions Dedication | 4.00% | ~47 |
 | Relic Of The Past | 4.00% | ~47 |
+| Trader | 4.00% | ~47 |
 | Ancient Knowledge | 3.00% | ~35 |
 | Background Story | 3.00% | ~35 |
 | How Do You Turn This On? | 3.00% | ~35 |
 | Master Enchanter | 3.00% | ~35 |
 | The father of Dragons | 3.00% | ~35 |
-| Trader | 3.00% | ~35 |
 | Weekly Quest Completionist | 3.00% | ~35 |
 | Dragon Slayer | 2.00% | ~23 |
 | Enchanting skill | 2.00% | ~23 |

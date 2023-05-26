@@ -1,23 +1,23 @@
 # while True: learn()
 [Store](https://store.epicgames.com/en-US/p/while-true-learn)  
 [View Rawdata](../../db/w/while_true__learn().json)  
-Rating: 4.51 (Ranked 521)  
+Rating: 4.51 (Ranked 522)  
 Number of Ratings: 896  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~548,416 |
-| Error: Stack Overflow | 66.00% | ~389,199 |
-| We need more gold | 60.00% | ~353,817 |
-| The dawn of civilization | 53.00% | ~312,538 |
-| More FPS for the FPS god! | 49.00% | ~288,951 |
-| Beauty and harmony | 48.00% | ~283,054 |
-| One more! | 44.00% | ~259,466 |
-| Overmind | 24.00% | ~141,527 |
-| RNG is my best friend now | 18.00% | ~106,145 |
-| Cosplay | 13.00% | ~76,660 |
-| Evolution in progress... | 13.00% | ~76,660 |
-| Step by step | 8.00% | ~47,176 |
+| First.. Bit? | 93.00% | ~548,433 |
+| Error: Stack Overflow | 66.00% | ~389,211 |
+| We need more gold | 60.00% | ~353,828 |
+| The dawn of civilization | 53.00% | ~312,548 |
+| More FPS for the FPS god! | 49.00% | ~288,959 |
+| Beauty and harmony | 48.00% | ~283,062 |
+| One more! | 44.00% | ~259,474 |
+| Overmind | 24.00% | ~141,531 |
+| RNG is my best friend now | 18.00% | ~106,148 |
+| Cosplay | 13.00% | ~76,663 |
+| Evolution in progress... | 13.00% | ~76,663 |
+| Step by step | 8.00% | ~47,177 |
 | README reader | 3.00% | ~17,691 |
 | Data scientist | 3.00% | ~17,691 |
 | One small step for a man... | 3.00% | ~17,691 |
@@ -29,13 +29,13 @@ Number of Ratings: 896  (23.09.2022)
 | Ping | 1.00% | ~5,897 |
 | Magna cum laude | 1.00% | ~5,897 |
 | The hoarder | 0.90% | ~5,307 |
-| Deal with it! | 0.50% | ~2,948 |
+| Deal with it! | 0.50% | ~2,949 |
 | Gold rush | 0.40% | ~2,359 |
 | Cat-o-holic | 0.40% | ~2,359 |
 | Elements will destroy you! | 0.30% | ~1,769 |
 | The Scrooge | 0.10% | ~590 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 589,695 (Ranked 21)  
+Progressed: 589,713 (Ranked 21)  
 Completed: 484 (0.08%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 484 (0.08%) (Ranked 166)
 | 2023-05-23 | 589,338 | 483 |
 | 2023-05-24 | 589,450 | 484 |
 | 2023-05-25 | 589,578 | 484 |
-| 2023-05-26 | 589,695 | 484 |
+| 2023-05-26 | 589,713 | 484 |
 ## Awards
 Max (Challenging Puzzles): 132  (Ranked 294)  
 Sum: 132 (Ranked 385)  

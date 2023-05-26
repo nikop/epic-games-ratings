@@ -9,22 +9,23 @@
 | Welcome To The Kabaret | 50.00% | ~5 |
 | Congkak Hero | 50.00% | ~5 |
 | Congkak Champion | 50.00% | ~5 |
+| Let There Be Light | 50.00% | ~5 |
 | All Alone With A Curse | 50.00% | ~5 |
 | Equality | 40.00% | ~4 |
 | Goodbye Dear Friend | 40.00% | ~4 |
 | An Unheard Song | 40.00% | ~4 |
 | By My Own Hands | 40.00% | ~4 |
-| Let There Be Light | 40.00% | ~4 |
+| Clipped Wings | 40.00% | ~4 |
+| Lady In The Book | 40.00% | ~4 |
 | Strangers You Meet | 30.00% | ~3 |
+| Losing A Small, Good Thing | 30.00% | ~3 |
 | I'll Become... A Beast | 30.00% | ~3 |
+| True Potential Unlocked | 30.00% | ~3 |
 | In Service Of Others | 30.00% | ~3 |
 | Squashed Bug | 30.00% | ~3 |
+| An End To History | 30.00% | ~3 |
 | Bookworm | 30.00% | ~3 |
 | Behold, The Nagarimau | 30.00% | ~3 |
-| Clipped Wings | 30.00% | ~3 |
-| Lady In The Book | 30.00% | ~3 |
-| Losing A Small, Good Thing | 20.00% | ~2 |
-| True Potential Unlocked | 20.00% | ~2 |
 | Guli Novice | 20.00% | ~2 |
 | Guli Pro | 20.00% | ~2 |
 | Guli Master | 20.00% | ~2 |
@@ -40,7 +41,6 @@
 | Breaking In The Horse | 20.00% | ~2 |
 | Power Of Friendship | 20.00% | ~2 |
 | Till Death Do We... | 20.00% | ~2 |
-| An End To History | 20.00% | ~2 |
 | Eating A Dead Flower | 20.00% | ~2 |
 | For The Greater Good | 20.00% | ~2 |
 | I Am Vengeance | 20.00% | ~2 |

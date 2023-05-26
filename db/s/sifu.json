@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 77,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 41,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewPlayers": 40,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4150,10 +4150,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 10379,
       "NumberOfAwardsMax": 6094
+    },
+    {
+      "Time": "2023-05-26T17:59:11.719522+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10384,
+      "NumberOfAwardsMax": 6094
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10379,
+  "NumberOfAwards": 10384,
   "NumberOfAwardsMax": 6094,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4185,13 +4191,13 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 478
+      "Count": 480
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 513
+      "Count": 515
     },
     {
       "Text": "This game is Relaxing",
@@ -4227,12 +4233,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 348
+      "Count": 349
     }
   ],
-  "EOS_Progressed": 705469,
+  "EOS_Progressed": 705475,
   "EOS_Completed": 12736,
-  "EOS_NewPlayers": 1955,
+  "EOS_NewPlayers": 1946,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -7290,6 +7296,11 @@
       "Time": "2023-05-26T17:06:01.18869+00:00",
       "NumProgressed": 705469,
       "NumCompleted": 12736
+    },
+    {
+      "Time": "2023-05-26T18:06:27.2372042+00:00",
+      "NumProgressed": 705475,
+      "NumCompleted": 12736
     }
   ],
   "TotalAchievements": 50,
@@ -7700,21 +7711,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 14770,
+      "Progressed": 14776,
       "Completed": 10172
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 705469,
+      "Progressed": 705475,
       "Completed": 12736
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-05-26T13:59:28.4334382+00:00",
-  "LastChanged_Achievements": "2023-05-26T17:06:01.1886895+00:00",
+  "LastChanged": "2023-05-26T17:59:11.7195219+00:00",
+  "LastChanged_Achievements": "2023-05-26T18:06:27.2372037+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.7579865+00:00",
-  "LastUpdate_Ratings": "2023-05-26T16:59:08.6931252+00:00",
-  "LastUpdate_Achievements": "2023-05-26T17:06:01.1887502+00:00"
+  "LastUpdate_Ratings": "2023-05-26T17:59:11.7195233+00:00",
+  "LastUpdate_Achievements": "2023-05-26T18:06:27.2372607+00:00"
 }
