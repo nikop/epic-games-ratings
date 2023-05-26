@@ -19,7 +19,7 @@
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.07% |
 | 18 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 19 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.78% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.78% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.77% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
 | 22 | [Scorn](games/s/scorn.md) | 6.99% |
 | 23 | [Ravenlok](games/r/ravenlok.md) | 6.71% |
@@ -27,17 +27,17 @@
 | 25 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.71% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.26% |
-| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.25% |
+| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.23% |
 | 29 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.90% |
-| 30 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.88% |
+| 30 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.80% |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
-| 32 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.29% |
+| 32 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.27% |
 | 33 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.26% |
-| 34 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.01% |
-| 35 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.92% |
-| 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.90% |
-| 37 | [Doodle God](games/d/doodle_god.md) | 3.86% |
-| 38 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
+| 34 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.00% |
+| 35 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.90% |
+| 36 | [Doodle God](games/d/doodle_god.md) | 3.86% |
+| 37 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
+| 38 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 3.77% |
 | 39 | [The Complex](games/t/the_complex.md) | 3.49% |
 | 40 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.33% |
 | 41 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.25% |
@@ -105,10 +105,10 @@
 | 103 | [The Surge 2](games/t/the_surge_2.md) | 0.62% |
 | 104 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.60% |
 | 105 | [Grindstone](games/g/grindstone.md) | 0.51% |
-| 106 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
-| 106 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.48% |
-| 106 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.48% |
-| 109 | [Ghostrunner](games/g/ghostrunner.md) | 0.47% |
+| 106 | [Ghostrunner](games/g/ghostrunner.md) | 0.49% |
+| 107 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
+| 107 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.48% |
+| 107 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.48% |
 | 110 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 111 | [Tails of Iron](games/t/tails_of_iron.md) | 0.41% |
 | 112 | [Potion Permit](games/p/potion_permit.md) | 0.39% |
@@ -151,9 +151,9 @@
 | 148 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
 | 150 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.14% |
 | 150 | [Isonzo](games/i/isonzo.md) | 0.14% |
-| 150 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.14% |
 | 150 | [Train Valley 2](games/t/train_valley_2.md) | 0.14% |
-| 154 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.13% |
+| 153 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.13% |
+| 153 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.13% |
 | 155 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.12% |
 | 156 | [Partisans 1941](games/p/partisans_1941.md) | 0.11% |
 | 156 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
@@ -233,6 +233,7 @@
 | 203 | [Bug Fables -The Everlasting Sapling-](games/b/bug_fables_-the_everlasting_sapling-.md) | 0.00% |
 | 203 | [Cafe Owner Simulator](games/c/cafe_owner_simulator.md) | 0.00% |
 | 203 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 0.00% |
+| 203 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 0.00% |
 | 203 | [Chaos Galaxy](games/c/chaos_galaxy.md) | 0.00% |
 | 203 | [Chef Life - A Restaurant Simulator](games/c/chef_life_-_a_restaurant_simulator.md) | 0.00% |
 | 203 | [Chess Ultra](games/c/chess_ultra.md) | 0.00% |
