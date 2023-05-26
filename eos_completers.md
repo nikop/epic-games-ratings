@@ -18,7 +18,7 @@
 | 16 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.07% |
 | 18 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.73% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.80% |
 | 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.71% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
 | 22 | [Scorn](games/s/scorn.md) | 6.94% |
@@ -28,12 +28,12 @@
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.71% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.33% |
 | 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.02% |
-| 29 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.00% |
+| 29 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.98% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.81% |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 32 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.32% |
 | 33 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.26% |
-| 34 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.04% |
+| 34 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.03% |
 | 35 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 4.00% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.91% |
 | 37 | [Doodle God](games/d/doodle_god.md) | 3.86% |
@@ -101,7 +101,7 @@
 | 99 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.72% |
 | 100 | [Train Valley](games/t/train_valley.md) | 0.71% |
 | 101 | [Haven](games/h/haven.md) | 0.69% |
-| 102 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.65% |
+| 102 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.64% |
 | 103 | [The Surge 2](games/t/the_surge_2.md) | 0.62% |
 | 104 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.60% |
 | 105 | [Grindstone](games/g/grindstone.md) | 0.51% |
