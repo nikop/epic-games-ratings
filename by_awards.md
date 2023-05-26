@@ -28,7 +28,7 @@
 | 26 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,307 | 4.60 | 387 |
 | 27 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,433 | 4.36 | 714 |
 | 28 | [Killing Floor 2](games/k/killing_floor_2.md) | 11,985 | 4.42 | 651 |
-| 29 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 11,969 | 4.60 | 387 |
+| 29 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 11,982 | 4.60 | 387 |
 | 30 | [NBA 2K21](games/n/nba_2k21.md) | 11,671 | 4.39 | 687 |
 | 31 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 11,396 | 4.87 | 25 |
 | 32 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,232 | 4.69 | 213 |
@@ -55,7 +55,7 @@
 | 53 | [Sifu](games/s/sifu.md) | 6,094 | 4.82 | 62 |
 | 54 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,929 | 4.64 | 314 |
 | 55 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,853 | 4.79 | 91 |
-| 56 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,774 | 4.66 | 272 |
+| 56 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,775 | 4.66 | 272 |
 | 57 | [Prey](games/p/prey.md) | 5,556 | 4.62 | 341 |
 | 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,513 | 4.82 | 62 |
 | 59 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,476 | 4.85 | 39 |
@@ -93,8 +93,8 @@
 | 91 | [Path of Exile](games/p/path_of_exile.md) | 2,499 | 4.61 | 359 |
 | 92 | [RAGE 2](games/r/rage_2.md) | 2,451 | 4.28 | 773 |
 | 93 | [Among Us](games/a/among_us.md) | 2,430 | 4.58 | 418 |
-| 94 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,364 | 4.50 | 538 |
-| 94 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,364 | 4.80 | 78 |
+| 94 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,369 | 4.50 | 538 |
+| 95 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,364 | 4.80 | 78 |
 | 96 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,315 | 4.10 | 861 |
 | 97 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,284 | 4.78 | 99 |
 | 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,239 | 4.17 | 837 |
@@ -213,10 +213,10 @@
 | 211 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 352 | 4.61 | 359 |
 | 212 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 351 | 4.70 | 193 |
 | 213 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 344 | 4.31 | 756 |
+| 214 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 331 | 4.71 | 179 |
 | 214 | [Inscryption](games/i/inscryption.md) | 331 | 4.86 | 30 |
-| 215 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 328 | 4.76 | 117 |
-| 215 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 328 | 4.60 | 387 |
-| 217 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 326 | 4.71 | 179 |
+| 216 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 328 | 4.76 | 117 |
+| 216 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 328 | 4.60 | 387 |
 | 218 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 324 | 4.85 | 39 |
 | 219 | [Tannenberg](games/t/tannenberg.md) | 323 | 4.39 | 687 |
 | 220 | [Dungeons 3](games/d/dungeons_3.md) | 322 | 4.65 | 290 |
@@ -315,9 +315,9 @@
 | 313 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 113 | 4.71 | 179 |
 | 314 | [Overcooked](games/o/overcooked.md) | 112 | 4.67 | 256 |
 | 315 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 106 | 4.46 | 597 |
-| 316 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 105 | 4.49 | 559 |
-| 316 | [Faeria](games/f/faeria.md) | 105 | 4.45 | 606 |
-| 316 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 105 | 4.76 | 117 |
+| 315 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 106 | 4.76 | 117 |
+| 317 | [Cook, Serve, Delicious! 3?!](games/c/cook,_serve,_delicious!_3_!.md) | 105 | 4.49 | 559 |
+| 317 | [Faeria](games/f/faeria.md) | 105 | 4.45 | 606 |
 | 319 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 104 | 4.51 | 522 |
 | 319 | [Phantom Brigade](games/p/phantom_brigade.md) | 104 | 4.62 | 341 |
 | 319 | [Tropico 6](games/t/tropico_6.md) | 104 | 4.66 | 272 |
@@ -371,11 +371,11 @@
 | 368 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 66 | 4.43 | 642 |
 | 368 | [Symphony of War](games/s/symphony_of_war.md) | 66 | 4.64 | 314 |
 | 371 | [DOOM 3](games/d/doom_3.md) | 65 | 4.61 | 359 |
-| 372 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 63 | 4.52 | 505 |
-| 372 | [Ticket to Ride](games/t/ticket_to_ride.md) | 63 | 4.62 | 341 |
-| 374 | [Arcadegeddon](games/a/arcadegeddon.md) | 62 | 4.49 | 559 |
-| 374 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 62 | 4.73 | 156 |
-| 374 | [In Sound Mind](games/i/in_sound_mind.md) | 62 | 4.60 | 387 |
+| 372 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 64 | 4.73 | 156 |
+| 373 | [The Drone Racing League®](games/t/the_drone_racing_league®.md) | 63 | 4.52 | 505 |
+| 373 | [Ticket to Ride](games/t/ticket_to_ride.md) | 63 | 4.62 | 341 |
+| 375 | [Arcadegeddon](games/a/arcadegeddon.md) | 62 | 4.49 | 559 |
+| 375 | [In Sound Mind](games/i/in_sound_mind.md) | 62 | 4.60 | 387 |
 | 377 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 61 | 4.69 | 213 |
 | 378 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 60 | 4.42 | 651 |
 | 378 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 60 | 4.63 | 327 |
