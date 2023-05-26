@@ -17,9 +17,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 438,
+  "EOS_Progressed": 443,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 436,
+  "EOS_NewPlayers": 441,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -352,6 +352,11 @@
       "Time": "2023-05-26T13:09:52.2681608+00:00",
       "NumProgressed": 438,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T14:05:56.3654679+00:00",
+      "NumProgressed": 443,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -379,7 +384,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 257
     },
     {
       "ID": "ATTENBOROUGH",
@@ -475,7 +480,7 @@
       "Name": "Limp Richard",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -537,9 +542,9 @@
       "ID": "FIRESTARTER",
       "SetID": "9a4jnji",
       "Name": "Firestarter",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 75
     },
     {
       "ID": "FIRST_BLOOD",
@@ -547,7 +552,7 @@
       "Name": "First Blood",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 403
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -595,7 +600,7 @@
       "Name": "Gun for Hire",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 226
     },
     {
       "ID": "HOLD_THE_LINE",
@@ -609,9 +614,9 @@
       "ID": "IM_THE_LAW",
       "SetID": "9a4jnji",
       "Name": "I am the law!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 159
     },
     {
       "ID": "INFILTRATOR",
@@ -627,7 +632,7 @@
       "Name": "Lumberjack",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -665,9 +670,9 @@
       "ID": "RANIDAPHOBIA",
       "SetID": "9a4jnji",
       "Name": "Ranidaphobia",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 275
     },
     {
       "ID": "RECYCLER",
@@ -747,7 +752,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "THE_WATCHERS",
@@ -770,14 +775,14 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 438,
+      "Progressed": 443,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T20:58:17.8341975+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
-  "LastChanged_Achievements": "2023-05-26T13:09:52.26816+00:00",
+  "LastChanged_Achievements": "2023-05-26T14:05:56.3654674+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:53.8503835+00:00",
-  "LastUpdate_Ratings": "2023-05-26T13:02:53.4980141+00:00",
-  "LastUpdate_Achievements": "2023-05-26T13:09:52.2681997+00:00"
+  "LastUpdate_Ratings": "2023-05-26T13:58:39.4340813+00:00",
+  "LastUpdate_Achievements": "2023-05-26T14:05:56.3655027+00:00"
 }

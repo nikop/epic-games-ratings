@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewPlayers": 76,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10358,
+  "EOS_Progressed": 10359,
   "EOS_Completed": 223,
-  "EOS_NewPlayers": 665,
+  "EOS_NewPlayers": 659,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 2.15,
   "EosHistory": [
@@ -3794,6 +3794,11 @@
       "Time": "2023-05-26T12:05:19.027583+00:00",
       "NumProgressed": 10358,
       "NumCompleted": 223
+    },
+    {
+      "Time": "2023-05-26T14:06:24.8961894+00:00",
+      "NumProgressed": 10359,
+      "NumCompleted": 223
     }
   ],
   "TotalAchievements": 20,
@@ -3805,7 +3810,7 @@
       "Name": "Cartographer",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1864
+      "UsersEstimate": 1865
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -3813,7 +3818,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "EAST_FINISHED",
@@ -3893,7 +3898,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -3925,7 +3930,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 7872
+      "UsersEstimate": 7873
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -3933,7 +3938,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 2900
+      "UsersEstimate": 2901
     },
     {
       "ID": "NORTH_FINISHED",
@@ -3964,15 +3969,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 10358,
+      "Progressed": 10359,
       "Completed": 223
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-05-26T13:10:27.23183+00:00",
+  "LastChanged_Achievements": "2023-05-26T14:06:24.8961888+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:55.3860901+00:00",
-  "LastUpdate_Ratings": "2023-05-26T13:04:51.2258523+00:00",
-  "LastUpdate_Achievements": "2023-05-26T13:10:27.231864+00:00"
+  "LastUpdate_Ratings": "2023-05-26T14:00:53.9810642+00:00",
+  "LastUpdate_Achievements": "2023-05-26T14:06:24.8962166+00:00"
 }

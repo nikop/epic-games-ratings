@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 77,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 41,
+  "Ranking_EOS_NewPlayers": 40,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -4144,18 +4144,24 @@
       "Rating": 4.82,
       "NumberOfAwards": 10376,
       "NumberOfAwardsMax": 6091
+    },
+    {
+      "Time": "2023-05-26T13:59:28.4334384+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 10379,
+      "NumberOfAwardsMax": 6094
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10376,
-  "NumberOfAwardsMax": 6091,
+  "NumberOfAwards": 10379,
+  "NumberOfAwardsMax": 6094,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 6091
+      "Count": 6094
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4224,9 +4230,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 705393,
+  "EOS_Progressed": 705418,
   "EOS_Completed": 12736,
-  "EOS_NewPlayers": 2014,
+  "EOS_NewPlayers": 2005,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -7264,6 +7270,11 @@
       "Time": "2023-05-26T13:10:29.4606509+00:00",
       "NumProgressed": 705393,
       "NumCompleted": 12736
+    },
+    {
+      "Time": "2023-05-26T14:06:27.2950737+00:00",
+      "NumProgressed": 705418,
+      "NumCompleted": 12736
     }
   ],
   "TotalAchievements": 50,
@@ -7363,7 +7374,7 @@
       "Name": "Scareless",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4232
+      "UsersEstimate": 4233
     },
     {
       "ID": "13_LowAge",
@@ -7435,7 +7446,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4232
+      "UsersEstimate": 4233
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -7467,7 +7478,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4232
+      "UsersEstimate": 4233
     },
     {
       "ID": "26_ShrineSpirit",
@@ -7547,7 +7558,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4232
+      "UsersEstimate": 4233
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -7611,7 +7622,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -7619,7 +7630,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -7667,28 +7678,28 @@
       "Name": "A Touch of Acumen",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 14694,
+      "Progressed": 14719,
       "Completed": 10171
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 705393,
+      "Progressed": 705418,
       "Completed": 12736
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-05-25T22:59:04.8520014+00:00",
-  "LastChanged_Achievements": "2023-05-26T13:10:29.4606488+00:00",
+  "LastChanged": "2023-05-26T13:59:28.4334382+00:00",
+  "LastChanged_Achievements": "2023-05-26T14:06:27.2950731+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.7579865+00:00",
-  "LastUpdate_Ratings": "2023-05-26T13:03:36.8012603+00:00",
-  "LastUpdate_Achievements": "2023-05-26T13:10:29.4607083+00:00"
+  "LastUpdate_Ratings": "2023-05-26T13:59:28.4334388+00:00",
+  "LastUpdate_Achievements": "2023-05-26T14:06:27.2951213+00:00"
 }

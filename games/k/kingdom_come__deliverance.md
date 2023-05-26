@@ -6,25 +6,25 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 31.00% | ~242,839 |
-| Cavalier | 25.00% | ~195,838 |
-| Fatso | 23.00% | ~180,171 |
-| Awakening | 20.00% | ~156,670 |
-| Ranger | 20.00% | ~156,670 |
-| Scrooge | 20.00% | ~156,670 |
-| Anorectic | 16.00% | ~125,336 |
-| Firestarter | 15.00% | ~117,503 |
-| Bookworm | 14.00% | ~109,669 |
-| Insomniac | 13.00% | ~101,836 |
-| Buddy | 11.00% | ~86,169 |
-| Sinner | 11.00% | ~86,169 |
-| Thief | 11.00% | ~86,169 |
-| Convict | 10.00% | ~78,335 |
-| Traveller | 10.00% | ~78,335 |
-| Haggler | 9.00% | ~70,502 |
+| Blacksmith's Son | 31.00% | ~242,842 |
+| Cavalier | 25.00% | ~195,840 |
+| Fatso | 23.00% | ~180,173 |
+| Awakening | 20.00% | ~156,672 |
+| Ranger | 20.00% | ~156,672 |
+| Scrooge | 20.00% | ~156,672 |
+| Anorectic | 16.00% | ~125,338 |
+| Firestarter | 15.00% | ~117,504 |
+| Bookworm | 14.00% | ~109,671 |
+| Insomniac | 13.00% | ~101,837 |
+| Buddy | 11.00% | ~86,170 |
+| Sinner | 11.00% | ~86,170 |
+| Thief | 11.00% | ~86,170 |
+| Convict | 10.00% | ~78,336 |
+| Traveller | 10.00% | ~78,336 |
+| Haggler | 9.00% | ~70,503 |
 | Runt | 7.00% | ~54,835 |
-| Casanova | 6.00% | ~47,001 |
-| McLovin | 6.00% | ~47,001 |
+| Casanova | 6.00% | ~47,002 |
+| McLovin | 6.00% | ~47,002 |
 | Bad Trip | 5.00% | ~39,168 |
 | Monk | 5.00% | ~39,168 |
 | Serial Killer | 5.00% | ~39,168 |
@@ -53,9 +53,9 @@ Number of Ratings: 9,133  (23.09.2022)
 | Stealth Killer | 1.00% | ~7,834 |
 | Bailiff | 0.80% | ~6,267 |
 | Tracker | 0.80% | ~6,267 |
-| David Horak | 0.70% | ~5,483 |
-| Mercenary's Honour | 0.70% | ~5,483 |
-| Saviour | 0.70% | ~5,483 |
+| David Horak | 0.70% | ~5,484 |
+| Mercenary's Honour | 0.70% | ~5,484 |
+| Saviour | 0.70% | ~5,484 |
 | Edward Kelly | 0.60% | ~4,700 |
 | Fighter | 0.60% | ~4,700 |
 | I Can Quit Anytime | 0.50% | ~3,917 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~783 |
 | Wingman | 0.10% | ~783 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 783,351 (Ranked 12)  
+Progressed: 783,362 (Ranked 12)  
 Completed: 40 (0.01%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 40 (0.01%) (Ranked 194)
 | 2023-05-23 | 782,845 | 40 |
 | 2023-05-24 | 783,037 | 40 |
 | 2023-05-25 | 783,249 | 40 |
-| 2023-05-26 | 783,351 | 40 |
+| 2023-05-26 | 783,362 | 40 |
 ## Awards
 Max (Character Customization): 7,191  (Ranked 44)  
 Sum: 26,898 (Ranked 42)  

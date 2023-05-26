@@ -1,14 +1,14 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.38 (Ranked 695)  
+Rating: 4.39 (Ranked 687)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 17.00% | ~251 |
-| Confirming Suspicions | 13.00% | ~192 |
+| Meeting Resistance | 17.00% | ~252 |
+| Confirming Suspicions | 13.00% | ~193 |
 | The Kraken Wakes | 10.00% | ~148 |
-| It's Starting to Crack | 7.00% | ~103 |
+| It's Starting to Crack | 7.00% | ~104 |
 | Lord of War | 6.00% | ~89 |
 | Resourceful | 6.00% | ~89 |
 | Enemy at the Gates | 5.00% | ~74 |
@@ -21,20 +21,20 @@ Rating: 4.38 (Ranked 695)
 | Opposing Force | 3.00% | ~44 |
 | Gunslinger | 3.00% | ~44 |
 | Sharpshooter | 3.00% | ~44 |
-| Die Nussknacker Sweet! | 3.00% | ~44 |
 | Close Quarters | 3.00% | ~44 |
 | Target America | 3.00% | ~44 |
 | Climbing the Ladder | 2.00% | ~30 |
 | Liberté | 2.00% | ~30 |
 | Fields of Glory | 2.00% | ~30 |
 | Skirmisher | 2.00% | ~30 |
+| Set Europe Ablaze | 2.00% | ~30 |
 | Precision Is Key | 2.00% | ~30 |
+| Die Nussknacker Sweet! | 2.00% | ~30 |
 | Der Geist | 2.00% | ~30 |
 | Snake in the Grass | 2.00% | ~30 |
 | The Kraken Sleeps | 2.00% | ~30 |
 | No Stone Unturned | 1.00% | ~15 |
 | The Long Game | 1.00% | ~15 |
-| Set Europe Ablaze | 1.00% | ~15 |
 | Rigged to Blow | 1.00% | ~15 |
 | Brains of the Operation | 1.00% | ~15 |
 | My Little Friend | 0.80% | ~12 |
@@ -77,7 +77,7 @@ Rating: 4.38 (Ranked 695)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,477 (Ranked 156)  
+Progressed: 1,481 (Ranked 156)  
 Completed: 2 (0.14%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 2 (0.14%) (Ranked 150)
 | 2023-05-23 | 1,294 | 2 |
 | 2023-05-24 | 1,365 | 2 |
 | 2023-05-25 | 1,428 | 2 |
-| 2023-05-26 | 1,477 | 2 |
+| 2023-05-26 | 1,481 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -146,3 +146,4 @@ Completed: 2 (0.14%) (Ranked 150)
 | 2023-05-23 | 4.35 | 0 | 0 |
 | 2023-05-24 | 4.37 | 0 | 0 |
 | 2023-05-25 | 4.38 | 0 | 0 |
+| 2023-05-26 | 4.39 | 0 | 0 |

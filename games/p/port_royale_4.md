@@ -12,25 +12,25 @@ Number of Ratings: 53  (23.09.2022)
 | 3, 2, 1, mine | 55.00% | ~315 |
 | Gofer | 55.00% | ~315 |
 | Seafarer | 54.00% | ~309 |
-| O Captain! My Captain! | 53.00% | ~303 |
-| Greed for gold | 42.00% | ~240 |
+| O Captain! My Captain! | 53.00% | ~304 |
+| Greed for gold | 42.00% | ~241 |
 | Intangible | 41.00% | ~235 |
 | I'm out of here for a while | 40.00% | ~229 |
 | In a mint condition | 36.00% | ~206 |
-| Licence to Kill | 35.00% | ~200 |
-| Pirates! | 34.00% | ~194 |
+| Licence to Kill | 35.00% | ~201 |
+| Pirates! | 35.00% | ~201 |
 | Collectionitis | 28.00% | ~160 |
-| Christening | 27.00% | ~154 |
-| Megalomania | 27.00% | ~154 |
+| Christening | 27.00% | ~155 |
+| Megalomania | 27.00% | ~155 |
 | Groundskeeper | 25.00% | ~143 |
-| Wholesale | 22.00% | ~126 |
-| Walk the plank | 20.00% | ~114 |
+| Wholesale | 21.00% | ~120 |
+| Walk the plank | 20.00% | ~115 |
 | My precious! | 18.00% | ~103 |
 | Pearly gates | 17.00% | ~97 |
 | Conquistador | 13.00% | ~74 |
 | Panic buying | 11.00% | ~63 |
-| Just a scratch | 9.00% | ~51 |
-| Your vessel, my vessel | 9.00% | ~51 |
+| Just a scratch | 9.00% | ~52 |
+| Your vessel, my vessel | 9.00% | ~52 |
 | Maker | 8.00% | ~46 |
 | All mine! | 8.00% | ~46 |
 | Paths of Glory | 8.00% | ~46 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Fleet Admiral | 0.70% | ~4 |
 | Davy Jones' locker | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 572 (Ranked 191)  
+Progressed: 573 (Ranked 191)  
 Completed: 0 (0.00%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 0 (0.00%) (Ranked 203)
 | 2023-05-23 | 561 | 0 |
 | 2023-05-24 | 567 | 0 |
 | 2023-05-25 | 569 | 0 |
-| 2023-05-26 | 572 | 0 |
+| 2023-05-26 | 573 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

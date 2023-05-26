@@ -2,7 +2,7 @@
   "ID": "30c72c5bafdd4e0bab04706867756ea1",
   "Name": "Operation Wolf",
   "ProductSlug": "operation-wolf-446fba",
-  "Ranking_EOS_Progress": 421,
+  "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 86,
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-19T19:14:40.8577795+00:00",
-  "LastUpdate_Ratings": "2023-05-26T13:05:08.6969263+00:00",
-  "LastUpdate_Achievements": "2023-05-26T13:09:41.6039568+00:00"
+  "LastUpdate_Ratings": "2023-05-26T14:01:17.6142085+00:00",
+  "LastUpdate_Achievements": "2023-05-26T14:05:44.0682042+00:00"
 }

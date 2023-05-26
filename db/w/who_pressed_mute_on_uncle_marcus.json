@@ -4,7 +4,7 @@
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 17,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 161,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 8.07,
   "EosHistory": [
@@ -217,9 +217,9 @@
       "ID": "sorry_kiddo",
       "SetID": "202dmm8",
       "Name": "Sorry, kiddo",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 155
     },
     {
       "ID": "the_truth",
@@ -266,8 +266,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-05-26T13:10:26.1559342+00:00",
+  "LastChanged_Achievements": "2023-05-26T14:06:23.6130867+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:45.4038684+00:00",
-  "LastUpdate_Ratings": "2023-05-26T13:04:46.8231108+00:00",
-  "LastUpdate_Achievements": "2023-05-26T13:10:26.1559461+00:00"
+  "LastUpdate_Ratings": "2023-05-26T14:00:49.8143249+00:00",
+  "LastUpdate_Achievements": "2023-05-26T14:06:23.6130969+00:00"
 }

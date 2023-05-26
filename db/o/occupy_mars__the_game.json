@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -64,9 +64,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 914,
+  "EOS_Progressed": 917,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 494,
+  "EOS_NewPlayers": 485,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -854,6 +854,11 @@
       "Time": "2023-05-26T13:07:11.8803906+00:00",
       "NumProgressed": 914,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T14:02:22.6983132+00:00",
+      "NumProgressed": 917,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -911,9 +916,9 @@
       "ID": "ACHIEVEMENT_HOT_REPAIRS",
       "SetID": "l546gc",
       "Name": "Hot Repairs",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACHIEVEMENT_LETS_COOK",
@@ -945,7 +950,7 @@
       "Name": "Zero Waste",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -985,7 +990,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -1041,7 +1046,7 @@
       "Name": "Electrician",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -1081,7 +1086,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -1097,7 +1102,7 @@
       "Name": "ITS crash site",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "NEW_ACHIEVEMENT_KOROLEV",
@@ -1121,7 +1126,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -1137,7 +1142,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -1201,7 +1206,7 @@
       "Name": "Space Forest",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "NEW_ACHIEVEMENT_SPOTTY_FRIEND",
@@ -1225,7 +1230,7 @@
       "Name": "Bob The Builder",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -1248,7 +1253,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 914,
+      "Progressed": 917,
       "Completed": 0
     }
   ],
@@ -1256,8 +1261,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-05-24T23:57:37.6552922+00:00",
-  "LastChanged_Achievements": "2023-05-26T13:07:11.88039+00:00",
+  "LastChanged_Achievements": "2023-05-26T14:02:22.6983126+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:55.9692167+00:00",
-  "LastUpdate_Ratings": "2023-05-26T13:02:00.0329388+00:00",
-  "LastUpdate_Achievements": "2023-05-26T13:07:11.8804293+00:00"
+  "LastUpdate_Ratings": "2023-05-26T13:57:33.1354065+00:00",
+  "LastUpdate_Achievements": "2023-05-26T14:02:22.6983485+00:00"
 }

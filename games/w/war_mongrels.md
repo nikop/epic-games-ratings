@@ -6,7 +6,7 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 61.00% | ~172 |
+| Explorer | 62.00% | ~175 |
 | Cowardice | 54.00% | ~152 |
 | NO LIFE IS WORTH SAVING... | 50.00% | ~141 |
 | Eat Lead! | 48.00% | ~135 |

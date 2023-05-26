@@ -8,43 +8,43 @@ Number of Ratings: 371  (23.09.2022)
 | ---- | ---------- | ----- |
 | Executioner | 32.00% | ~848 |
 | Look Over There! | 28.00% | ~742 |
-| Not So Fast... | 27.00% | ~715 |
-| Watch Where You Step... | 27.00% | ~715 |
-| An Ill Omen | 25.00% | ~662 |
-| Purging Spree | 21.00% | ~556 |
+| Not So Fast... | 27.00% | ~716 |
+| Watch Where You Step... | 27.00% | ~716 |
+| An Ill Omen | 25.00% | ~663 |
+| Purging Spree | 21.00% | ~557 |
 | Blood for the Blood God! | 16.00% | ~424 |
 | Friendly Fire | 16.00% | ~424 |
-| Surgical Excision | 15.00% | ~397 |
+| Surgical Excision | 15.00% | ~398 |
 | Bloodless | 14.00% | ~371 |
-| Honoured Battle-Brother | 11.00% | ~291 |
-| The Emperor Protects | 11.00% | ~291 |
+| Honoured Battle-Brother | 11.00% | ~292 |
+| The Emperor Protects | 11.00% | ~292 |
 | Nemesis Master | 10.00% | ~265 |
 | Gunmaster | 10.00% | ~265 |
 | A Foul Creche | 10.00% | ~265 |
-| Opportunist | 7.00% | ~185 |
-| Efficient Killer | 7.00% | ~185 |
-| Just a Scratch | 7.00% | ~185 |
+| Opportunist | 7.00% | ~186 |
+| Efficient Killer | 7.00% | ~186 |
+| Just a Scratch | 7.00% | ~186 |
 | Hold Your Ground | 6.00% | ~159 |
 | Daemonkeeper | 4.00% | ~106 |
 | A Gift Spurned | 4.00% | ~106 |
 | Long Distance Call | 4.00% | ~106 |
-| Corruption Cleanser | 3.00% | ~79 |
-| Mind Like a Fortress | 3.00% | ~79 |
-| Harvest No More | 3.00% | ~79 |
-| Junk Banishment | 3.00% | ~79 |
-| Tactical Flexibility | 3.00% | ~79 |
+| Corruption Cleanser | 3.00% | ~80 |
+| Mind Like a Fortress | 3.00% | ~80 |
+| Harvest No More | 3.00% | ~80 |
+| Junk Banishment | 3.00% | ~80 |
+| Tactical Flexibility | 3.00% | ~80 |
 | Patron of Deimos | 2.00% | ~53 |
 | Exterminator | 2.00% | ~53 |
 | Preservationist | 2.00% | ~53 |
 | Engine Kill | 2.00% | ~53 |
 | Death Comes For All | 2.00% | ~53 |
-| Clean Slate | 1.00% | ~26 |
-| Fleetmaster | 1.00% | ~26 |
-| For the Machine God | 1.00% | ~26 |
-| Unstable Immaterium | 1.00% | ~26 |
-| Strike Force | 1.00% | ~26 |
-| Hands-On Research | 1.00% | ~26 |
-| Only in Death | 1.00% | ~26 |
+| Clean Slate | 1.00% | ~27 |
+| Fleetmaster | 1.00% | ~27 |
+| For the Machine God | 1.00% | ~27 |
+| Unstable Immaterium | 1.00% | ~27 |
+| Strike Force | 1.00% | ~27 |
+| Hands-On Research | 1.00% | ~27 |
+| Only in Death | 1.00% | ~27 |
 | Exercise in Restraint | 0.90% | ~24 |
 | True Mastery | 0.60% | ~16 |
 | The Flesh is Weak | 0.50% | ~13 |
@@ -66,7 +66,7 @@ Number of Ratings: 371  (23.09.2022)
 | Legend of Titan | 0.00% | ~0 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,649 (Ranked 138)  
+Progressed: 2,651 (Ranked 138)  
 Completed: 0 (0.00%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 0 (0.00%) (Ranked 203)
 | 2023-05-23 | 2,622 | 0 |
 | 2023-05-24 | 2,624 | 0 |
 | 2023-05-25 | 2,632 | 0 |
-| 2023-05-26 | 2,649 | 0 |
+| 2023-05-26 | 2,651 | 0 |
 ## Awards
 Max (Character Customization): 209  (Ranked 254)  
 Sum: 419 (Ranked 298)  

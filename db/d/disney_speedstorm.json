@@ -4,8 +4,8 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -1932,9 +1932,9 @@
       "ID": "2",
       "SetID": "9p3jgda",
       "Name": "ACE SPEEDSTER",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 514
+      "UsersEstimate": 540
     },
     {
       "ID": "20",
@@ -2042,8 +2042,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-26T13:05:59.5242401+00:00",
+  "LastChanged_Achievements": "2023-05-26T14:02:20.9026234+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.9291954+00:00",
-  "LastUpdate_Ratings": "2023-05-26T13:03:34.0144205+00:00",
-  "LastUpdate_Achievements": "2023-05-26T13:05:59.5242673+00:00"
+  "LastUpdate_Ratings": "2023-05-26T13:59:25.7684828+00:00",
+  "LastUpdate_Achievements": "2023-05-26T14:02:20.9026454+00:00"
 }

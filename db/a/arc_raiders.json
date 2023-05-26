@@ -2,7 +2,7 @@
   "ID": "b4bb52a95d0b43d9af543c6ec3c54e04",
   "Name": "ARC Raiders",
   "ProductSlug": "arc-raiders",
-  "Ranking_EOS_Progress": 421,
+  "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 86,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-19T18:59:55.11002+00:00",
-  "LastUpdate_Ratings": "2023-05-26T13:02:54.1544206+00:00",
-  "LastUpdate_Achievements": "2023-05-26T13:07:39.0708229+00:00"
+  "LastUpdate_Ratings": "2023-05-26T13:58:40.3976848+00:00",
+  "LastUpdate_Achievements": "2023-05-26T14:03:34.4324665+00:00"
 }

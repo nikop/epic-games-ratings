@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 11,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-06-15T09:00:00+00:00",
     "PcReleaseDate": "2022-01-14T10:00:00+00:00",
@@ -996,9 +996,9 @@
       "ID": "Race",
       "SetID": "5lok9mm",
       "Name": "Faster",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1199
+      "UsersEstimate": 1219
     },
     {
       "ID": "Revenge",
@@ -1108,8 +1108,8 @@
   "FirstSeen": "2022-07-22T20:22:12.2531943+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.4001287+00:00",
   "LastChanged": "2023-05-01T22:59:17.7167092+00:00",
-  "LastChanged_Achievements": "2023-05-26T13:10:38.5535249+00:00",
+  "LastChanged_Achievements": "2023-05-26T14:06:37.7046608+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:12:06.0461464+00:00",
-  "LastUpdate_Ratings": "2023-05-26T13:04:44.8050748+00:00",
-  "LastUpdate_Achievements": "2023-05-26T13:10:38.5535724+00:00"
+  "LastUpdate_Ratings": "2023-05-26T14:00:46.9553126+00:00",
+  "LastUpdate_Achievements": "2023-05-26T14:06:37.7046995+00:00"
 }

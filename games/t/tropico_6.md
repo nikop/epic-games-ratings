@@ -6,11 +6,11 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 77.00% | ~2,385 |
-| Un-Lonely Island | 49.00% | ~1,518 |
-| The Beginning of a Servantship | 46.00% | ~1,425 |
-| Trade Is My Trait | 38.00% | ~1,177 |
-| Number 18 | 25.00% | ~774 |
+| Just One...More...Term... | 77.00% | ~2,386 |
+| Un-Lonely Island | 49.00% | ~1,519 |
+| The Beginning of a Servantship | 46.00% | ~1,426 |
+| Trade Is My Trait | 38.00% | ~1,178 |
+| Number 18 | 25.00% | ~775 |
 | We Don't Have Time For That | 20.00% | ~620 |
 | The Governator | 19.00% | ~589 |
 | Caribbean Comrade | 17.00% | ~527 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 1.00% | ~31 |
 | My Ways | 0.30% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,098 (Ranked 134)  
+Progressed: 3,099 (Ranked 134)  
 Completed: 1 (0.03%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,7 +83,7 @@ Completed: 1 (0.03%) (Ranked 183)
 | 2023-05-23 | 3,044 | 1 |
 | 2023-05-24 | 3,070 | 1 |
 | 2023-05-25 | 3,092 | 1 |
-| 2023-05-26 | 3,098 | 1 |
+| 2023-05-26 | 3,099 | 1 |
 ## Awards
 Max (Great for Beginners): 104  (Ranked 319)  
 Sum: 750 (Ranked 255)  

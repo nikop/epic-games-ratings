@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -162,9 +162,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3406,
+  "EOS_Progressed": 3407,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -402,6 +402,11 @@
       "Time": "2023-05-25T08:06:23.9854076+00:00",
       "NumProgressed": 3406,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T14:06:19.4810362+00:00",
+      "NumProgressed": 3407,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -453,7 +458,7 @@
       "Name": "Each Sold Separately",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -469,7 +474,7 @@
       "Name": "Shard Snatchers",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "FINISH_EPISODE_3",
@@ -517,7 +522,7 @@
       "Name": "You Rich Now!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "HACK_YOUR_FIRST_OBJECT",
@@ -620,7 +625,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3406,
+      "Progressed": 3407,
       "Completed": 0
     }
   ],
@@ -628,8 +633,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-05-11T21:59:43.2932555+00:00",
-  "LastChanged_Achievements": "2023-05-26T13:10:22.2077177+00:00",
+  "LastChanged_Achievements": "2023-05-26T14:06:19.4810353+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:00.613564+00:00",
-  "LastUpdate_Ratings": "2023-05-26T13:04:11.9144112+00:00",
-  "LastUpdate_Achievements": "2023-05-26T13:10:22.207738+00:00"
+  "LastUpdate_Ratings": "2023-05-26T14:00:03.6207219+00:00",
+  "LastUpdate_Achievements": "2023-05-26T14:06:19.4810506+00:00"
 }

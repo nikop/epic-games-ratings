@@ -2,10 +2,10 @@
   "ID": "lily",
   "Name": "Operencia: The Stolen Sun",
   "ProductSlug": "operencia",
-  "Ranking_Rating": 664,
+  "Ranking_Rating": 663,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
-  "Ranking_EOS_Progress": 421,
+  "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 86,
@@ -122,6 +122,6 @@
   "FirstSeenRating": "2022-10-06T01:00:25.195922+00:00",
   "LastChanged": "2023-04-10T04:57:05.7728672+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:12:14.1984286+00:00",
-  "LastUpdate_Ratings": "2023-05-26T13:04:45.6912283+00:00",
-  "LastUpdate_Achievements": "2023-05-26T13:09:29.2830711+00:00"
+  "LastUpdate_Ratings": "2023-05-26T14:00:48.0099782+00:00",
+  "LastUpdate_Achievements": "2023-05-26T14:05:29.4873037+00:00"
 }

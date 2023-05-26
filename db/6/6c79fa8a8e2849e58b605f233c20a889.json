@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 917,
+  "EOS_Progressed": 920,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 915,
+  "EOS_NewPlayers": 918,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -481,6 +481,11 @@
       "Time": "2023-05-26T13:07:14.3099897+00:00",
       "NumProgressed": 917,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T14:02:25.6093506+00:00",
+      "NumProgressed": 920,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -500,7 +505,7 @@
       "Name": "Puppetmaster",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "BOT_DESTROYER",
@@ -524,7 +529,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -572,7 +577,7 @@
       "Name": "Novice",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "GLOVE_SLAP",
@@ -596,7 +601,7 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 541
+      "UsersEstimate": 543
     },
     {
       "ID": "GUARD_MAKER",
@@ -667,14 +672,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 917,
+      "Progressed": 920,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-05-26T13:07:14.3099893+00:00",
+  "LastChanged_Achievements": "2023-05-26T14:02:25.60935+00:00",
   "LastUpdate_AppInfo": "2023-05-23T13:57:02.9194307+00:00",
-  "LastUpdate_Ratings": "2023-05-26T13:01:41.7064946+00:00",
-  "LastUpdate_Achievements": "2023-05-26T13:07:14.3100082+00:00"
+  "LastUpdate_Ratings": "2023-05-26T13:57:08.7227317+00:00",
+  "LastUpdate_Achievements": "2023-05-26T14:02:25.6093648+00:00"
 }

@@ -64,10 +64,10 @@ Rating: 3.87 (Ranked 907)
 | Training makes a Pro player | 0.60% | ~7 |
 | Transmute | 0.60% | ~7 |
 | Tree of Life | 0.60% | ~7 |
+| Arena Challenger | 0.40% | ~5 |
 | Cauldron Liberator | 0.40% | ~5 |
 | Gear Enchanting | 0.40% | ~5 |
 | Mythic Power | 0.40% | ~5 |
-| Arena Challenger | 0.30% | ~4 |
 | Guardian Master | 0.30% | ~4 |
 | Pokerface | 0.30% | ~4 |
 | Beast War Machines | 0.20% | ~2 |

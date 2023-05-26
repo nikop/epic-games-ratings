@@ -1514,9 +1514,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 45099,
+  "EOS_Progressed": 45102,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 924,
+  "EOS_NewPlayers": 921,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5044,6 +5044,11 @@
       "Time": "2023-05-26T13:10:15.0091104+00:00",
       "NumProgressed": 45099,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-26T14:06:11.0196317+00:00",
+      "NumProgressed": 45102,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 59,
@@ -5055,7 +5060,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 24804
+      "UsersEstimate": 24806
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -5287,7 +5292,7 @@
       "Name": "Headhunter I",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 12177
+      "UsersEstimate": 12178
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -5311,7 +5316,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 14432
+      "UsersEstimate": 14433
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -5319,7 +5324,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 18040
+      "UsersEstimate": 18041
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -5343,7 +5348,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 28412
+      "UsersEstimate": 28414
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -5399,7 +5404,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 11275
+      "UsersEstimate": 11276
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -5423,7 +5428,7 @@
       "Name": "Setting an example",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 34726
+      "UsersEstimate": 34729
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -5519,22 +5524,22 @@
       "Name": "Blast fishing",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 17138
+      "UsersEstimate": 17139
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 45099,
+      "Progressed": 45102,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-05-24T09:58:35.9301955+00:00",
-  "LastChanged_Achievements": "2023-05-26T13:10:15.0091099+00:00",
+  "LastChanged_Achievements": "2023-05-26T14:06:11.0196309+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:55.5070902+00:00",
-  "LastUpdate_Ratings": "2023-05-26T13:02:54.2923414+00:00",
-  "LastUpdate_Achievements": "2023-05-26T13:10:15.0091836+00:00"
+  "LastUpdate_Ratings": "2023-05-26T13:58:40.5493382+00:00",
+  "LastUpdate_Achievements": "2023-05-26T14:06:11.0196893+00:00"
 }

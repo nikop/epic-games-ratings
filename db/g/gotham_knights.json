@@ -1232,9 +1232,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62123,
+  "EOS_Progressed": 62126,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1020,
+  "EOS_NewPlayers": 1013,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3837,6 +3837,11 @@
       "Time": "2023-05-26T13:10:37.408093+00:00",
       "NumProgressed": 62123,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-26T14:06:36.4825837+00:00",
+      "NumProgressed": 62126,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4032,7 +4037,7 @@
       "Name": "Out of Their League",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -4064,7 +4069,7 @@
       "Name": "Drone You Out",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "FREEZE_1",
@@ -4086,9 +4091,9 @@
       "ID": "FREEZE_2",
       "SetID": "4eo5ebm",
       "Name": "Snow Problem",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 435
+      "UsersEstimate": 497
     },
     {
       "ID": "FREEZE_3",
@@ -4192,7 +4197,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -4304,7 +4309,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -4312,7 +4317,7 @@
       "Name": "Solid Alibi",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -4335,13 +4340,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62123,
+      "Progressed": 62126,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32403,
+      "Progressed": 32406,
       "Completed": 2642
     }
   ],
@@ -4349,8 +4354,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-25T19:00:08.9110669+00:00",
-  "LastChanged_Achievements": "2023-05-26T13:10:37.4080925+00:00",
+  "LastChanged_Achievements": "2023-05-26T14:06:36.4825833+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-26T13:04:27.1448136+00:00",
-  "LastUpdate_Achievements": "2023-05-26T13:10:37.4081569+00:00"
+  "LastUpdate_Ratings": "2023-05-26T14:00:22.9419134+00:00",
+  "LastUpdate_Achievements": "2023-05-26T14:06:36.4826419+00:00"
 }

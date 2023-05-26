@@ -6,8 +6,8 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~588 |
-| Project Arena | 3.00% | ~441 |
+| Diligence as a goal | 4.00% | ~589 |
+| Project Arena | 3.00% | ~442 |
 | The Hateful Pole Fighter | 1.00% | ~7,054 |
 | Qi Gong: Breath | 1.00% | ~7,054 |
 | Bloody Sport | 1.00% | ~147 |
@@ -28,14 +28,14 @@ Number of Ratings: 9,492  (23.09.2022)
 | Take damage to save time | 0.80% | ~5,643 |
 | Stuntmaster | 0.70% | ~4,938 |
 | Old Child | 0.70% | ~4,938 |
-| Scareless | 0.60% | ~4,232 |
-| Dance of the Praying Mantis | 0.60% | ~4,232 |
-| Qi Gong: Mind | 0.60% | ~4,232 |
-| Kung-Fu Tussle | 0.60% | ~4,232 |
+| Scareless | 0.60% | ~4,233 |
+| Dance of the Praying Mantis | 0.60% | ~4,233 |
+| Qi Gong: Mind | 0.60% | ~4,233 |
+| Kung-Fu Tussle | 0.60% | ~4,233 |
 | Deadly Venom | 0.60% | ~88 |
 | Muk Yan Master | 0.50% | ~3,527 |
 | I know Kung-Fu | 0.50% | ~3,527 |
-| A Touch of Acumen | 0.50% | ~73 |
+| A Touch of Acumen | 0.50% | ~74 |
 | Tiger on Fire | 0.40% | ~2,822 |
 | Source of Flying Daggers | 0.40% | ~2,822 |
 | Iron Money | 0.40% | ~2,822 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~705 |
 | Warriors from the Mountain | 0.10% | ~705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705,393 (Ranked 15)  
+Progressed: 705,418 (Ranked 15)  
 Completed: 12,736 (1.81%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,14 +93,14 @@ Completed: 12,736 (1.81%) (Ranked 64)
 | 2023-05-23 | 704,864 | 12,733 |
 | 2023-05-24 | 705,048 | 12,734 |
 | 2023-05-25 | 705,232 | 12,734 |
-| 2023-05-26 | 705,393 | 12,736 |
+| 2023-05-26 | 705,418 | 12,736 |
 ## Awards
-Max (Great Boss Battles): 6,091  (Ranked 53)  
-Sum: 10,376 (Ranked 77)  
+Max (Great Boss Battles): 6,094  (Ranked 53)  
+Sum: 10,379 (Ranked 77)  
 Diff (max vs sum): -24  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,091 |
+| This game has Great Boss Battles | 6,094 |
 | This game has Challenging Combat | 514 |
 | This game has Diverse Characters | 513 |
 | This game has Quickly Understood Controls | 504 |
@@ -244,3 +244,4 @@ Diff (max vs sum): -24
 | 2023-05-22 | 4.82 | - | 6,084 | 10,355 |
 | 2023-05-24 | 4.82 | - | 6,089 | 10,368 |
 | 2023-05-25 | 4.82 | - | 6,091 | 10,376 |
+| 2023-05-26 | 4.82 | - | 6,094 | 10,379 |

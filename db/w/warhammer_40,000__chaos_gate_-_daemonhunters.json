@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -522,9 +522,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2649,
+  "EOS_Progressed": 2651,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1002,6 +1002,11 @@
       "Time": "2023-05-26T13:10:30.3283592+00:00",
       "NumProgressed": 2649,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T14:06:28.3325906+00:00",
+      "NumProgressed": 2651,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1069,7 +1074,7 @@
       "Name": "Clean Slate",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "CompletedAllShipUpgrades",
@@ -1101,7 +1106,7 @@
       "Name": "Honoured Battle-Brother",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "ExtractorSkullUses",
@@ -1109,7 +1114,7 @@
       "Name": "Surgical Excision",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -1125,7 +1130,7 @@
       "Name": "Fleetmaster",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ForTheMachineGod",
@@ -1133,7 +1138,7 @@
       "Name": "For the Machine God",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "FrequentWarpSurges",
@@ -1141,7 +1146,7 @@
       "Name": "Unstable Immaterium",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "FullBarracks",
@@ -1149,7 +1154,7 @@
       "Name": "Strike Force",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "HeavyExterminatusUse",
@@ -1181,7 +1186,7 @@
       "Name": "Not So Fast...",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "Kills_Bleed",
@@ -1197,7 +1202,7 @@
       "Name": "Corruption Cleanser",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Kills_Executioner",
@@ -1229,7 +1234,7 @@
       "Name": "Opportunist",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "Kills_Knockback",
@@ -1237,7 +1242,7 @@
       "Name": "Watch Where You Step...",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "Kills_Streak",
@@ -1245,7 +1250,7 @@
       "Name": "Purging Spree",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "Kills_Vakir",
@@ -1253,7 +1258,7 @@
       "Name": "Hands-On Research",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "KoramarCompleted",
@@ -1261,7 +1266,7 @@
       "Name": "An Ill Omen",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -1269,7 +1274,7 @@
       "Name": "Mind Like a Fortress",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "MasterCraftLevel3_Armour",
@@ -1277,7 +1282,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -1341,7 +1346,7 @@
       "Name": "Efficient Killer",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "MissionVictory_NoDamage",
@@ -1373,7 +1378,7 @@
       "Name": "Just a Scratch",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "NexusCompleted",
@@ -1397,7 +1402,7 @@
       "Name": "Only in Death",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "Preservationist",
@@ -1421,7 +1426,7 @@
       "Name": "Harvest No More",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ReaperDefeated_Necrosus",
@@ -1429,7 +1434,7 @@
       "Name": "Junk Banishment",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ReaperDefeated_Poxus",
@@ -1477,28 +1482,28 @@
       "Name": "Tactical Flexibility",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     }
   ],
   "AchievementSets": [
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2649,
+      "Progressed": 2651,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2649,
+      "Progressed": 2651,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-26T13:10:30.3283588+00:00",
+  "LastChanged_Achievements": "2023-05-26T14:06:28.3325901+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:13.6314729+00:00",
-  "LastUpdate_Ratings": "2023-05-26T13:03:11.9085904+00:00",
-  "LastUpdate_Achievements": "2023-05-26T13:10:30.3284181+00:00"
+  "LastUpdate_Ratings": "2023-05-26T13:59:03.0588342+00:00",
+  "LastUpdate_Achievements": "2023-05-26T14:06:28.332636+00:00"
 }

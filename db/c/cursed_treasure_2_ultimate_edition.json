@@ -4,7 +4,7 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 10,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
@@ -229,9 +229,9 @@
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_7",
       "SetID": "ak6pfjk",
       "Name": "Brilliant: Free Coast",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_8",
@@ -534,8 +534,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-05-26T13:05:33.3435716+00:00",
+  "LastChanged_Achievements": "2023-05-26T14:01:49.718604+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:11.9155795+00:00",
-  "LastUpdate_Ratings": "2023-05-26T13:03:10.3842052+00:00",
-  "LastUpdate_Achievements": "2023-05-26T13:05:33.3436184+00:00"
+  "LastUpdate_Ratings": "2023-05-26T13:59:00.7334294+00:00",
+  "LastUpdate_Achievements": "2023-05-26T14:01:49.7186471+00:00"
 }

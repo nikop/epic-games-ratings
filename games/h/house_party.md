@@ -18,6 +18,7 @@ Number of Ratings: 177  (23.09.2022)
 | Drunk and Disorderly: Ashley | 0.30% | ~15 |
 | IRL Let's Player | 0.30% | ~15 |
 | Stephanie | 0.30% | ~15 |
+| The Magic Number | 0.30% | ~15 |
 | Amy | 0.20% | ~10 |
 | Amy: Scavenger Hunt | 0.20% | ~10 |
 | Benedict Brahrnold | 0.20% | ~10 |
@@ -30,7 +31,6 @@ Number of Ratings: 177  (23.09.2022)
 | Social Butterfly | 0.20% | ~10 |
 | The Muse: Madison | 0.20% | ~10 |
 | The Crush | 0.20% | ~10 |
-| The Magic Number | 0.20% | ~10 |
 | Vickie | 0.20% | ~10 |
 | Good Ol' Days | 0.20% | ~10 |
 | Te Amo Lety | 0.20% | ~10 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | That's a Nice Bush! | 0.00% | ~0 |
 | The Most Wonderful Time of the Year | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,147 (Ranked 124)  
+Progressed: 5,148 (Ranked 124)  
 Completed: 2 (0.04%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 2 (0.04%) (Ranked 177)
 | 2023-05-23 | 5,104 | 2 |
 | 2023-05-24 | 5,124 | 2 |
 | 2023-05-25 | 5,135 | 2 |
-| 2023-05-26 | 5,147 | 2 |
+| 2023-05-26 | 5,148 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

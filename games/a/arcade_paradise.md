@@ -5,16 +5,16 @@ Rating: 4.57 (Ranked 437)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 96.00% | ~573 |
-| Fetch Quest Complete | 91.00% | ~543 |
+| Pushing a pull door | 96.00% | ~574 |
+| Fetch Quest Complete | 91.00% | ~544 |
 | I can't wait! | 83.00% | ~496 |
-| Swish | 56.00% | ~334 |
+| Swish | 56.00% | ~335 |
 | Clean up on Aisle 9 | 40.00% | ~239 |
 | Machine Maxed | 31.00% | ~185 |
-| Bug Fixer | 25.00% | ~149 |
-| Gerald of Riviera | 25.00% | ~149 |
-| Existential dread | 24.00% | ~143 |
-| Goal | 22.00% | ~131 |
+| Bug Fixer | 25.00% | ~150 |
+| Gerald of Riviera | 25.00% | ~150 |
+| Existential dread | 24.00% | ~144 |
+| Goal | 22.00% | ~132 |
 | I ran the numbers | 15.00% | ~90 |
 | Taking the plunge | 12.00% | ~72 |
 | Hidden Packages | 11.00% | ~66 |
@@ -27,10 +27,10 @@ Rating: 4.57 (Ranked 437)
 | Rhythm is a dancer | 5.00% | ~30 |
 | Your Bloody Valentine | 5.00% | ~30 |
 | Nose to the Grindstone | 5.00% | ~30 |
+| Crowning achievement | 4.00% | ~24 |
 | GoldGuy Jr | 4.00% | ~24 |
 | Waking nightmare | 4.00% | ~24 |
 | We come in peace | 3.00% | ~18 |
-| Crowning achievement | 3.00% | ~18 |
 | Modern Gorefare | 3.00% | ~18 |
 | Hammer time | 3.00% | ~18 |
 | 1CC | 2.00% | ~12 |
@@ -60,7 +60,7 @@ Rating: 4.57 (Ranked 437)
 | Another all nighter? | 0.20% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 597 (Ranked 190)  
+Progressed: 598 (Ranked 190)  
 Completed: 0 (0.00%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 0 (0.00%) (Ranked 203)
 | 2023-05-21 | 593 | 0 |
 | 2023-05-22 | 594 | 0 |
 | 2023-05-25 | 596 | 0 |
-| 2023-05-26 | 597 | 0 |
+| 2023-05-26 | 598 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

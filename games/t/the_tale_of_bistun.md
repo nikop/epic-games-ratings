@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Story Begins... | 75.00% | ~12 |
+| First Blood | 75.00% | ~12 |
 | These Blades Are Made For Swinging | 69.00% | ~11 |
-| First Blood | 69.00% | ~11 |
+| Unearth A Qanat | 63.00% | ~10 |
 | It Feels Better Than It Sounds | 63.00% | ~10 |
-| Unearth A Qanat | 56.00% | ~9 |
+| Carving A Memory | 56.00% | ~9 |
 | Skilled Hands | 50.00% | ~8 |
 | Master Smithy | 50.00% | ~8 |
-| Carving A Memory | 50.00% | ~8 |
 | A Friend In Need | 44.00% | ~7 |
 | Close Encounter | 44.00% | ~7 |
 | The Depths Of Darkness | 44.00% | ~7 |
@@ -28,14 +28,14 @@
 | The Ultimate Sacrifice | 38.00% | ~6 |
 | Break The Cycle | 38.00% | ~6 |
 | Stand By Nature | 38.00% | ~6 |
+| Fledgling Smithy | 38.00% | ~6 |
+| At One With Nature | 38.00% | ~6 |
 | Prison Break | 31.00% | ~5 |
 | I Pick You | 31.00% | ~5 |
 | Accomplished Smithy | 31.00% | ~5 |
 | The Blight's Blight | 31.00% | ~5 |
 | Continue The Cycle | 31.00% | ~5 |
 | The Milk Canal | 31.00% | ~5 |
-| Fledgling Smithy | 31.00% | ~5 |
-| At One With Nature | 31.00% | ~5 |
 | Talent And Dedication | 25.00% | ~4 |
 | Read, Read, Read | 19.00% | ~3 |
 | Ledge-walker | 19.00% | ~3 |

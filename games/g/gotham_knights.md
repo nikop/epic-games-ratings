@@ -5,7 +5,7 @@ Rating: 4.17 (Ranked 837)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 2.00% | ~1,242 |
+| First Step Into the Knight | 2.00% | ~1,243 |
 | To the Victor Go the Spoils | 1.00% | ~621 |
 | Har, Har, Har, Very Funny | 1.00% | ~621 |
 | Knighthood | 1.00% | ~621 |
@@ -14,11 +14,11 @@ Rating: 4.17 (Ranked 837)
 | The Batman Family | 0.80% | ~497 |
 | Something in the Clay | 0.80% | ~497 |
 | Quartzer Life Crisis | 0.80% | ~497 |
+| Snow Problem | 0.80% | ~497 |
 | Working Hard or Harley Working? | 0.80% | ~497 |
 | Whispered Words | 0.80% | ~497 |
 | Protector of Gotham | 0.70% | ~435 |
 | The Show Mud Go On | 0.70% | ~435 |
-| Snow Problem | 0.70% | ~435 |
 | Unstoppable Force | 0.70% | ~435 |
 | Lock and Key | 0.70% | ~435 |
 | Bad Apples in Every Orchard | 0.70% | ~435 |
@@ -34,10 +34,10 @@ Rating: 4.17 (Ranked 837)
 | In Your Element | 0.50% | ~311 |
 | Not On My Watch | 0.50% | ~311 |
 | Bulldozed | 0.50% | ~311 |
-| Out of Their League | 0.40% | ~248 |
-| Drone You Out | 0.40% | ~248 |
-| Gotham City Confidential | 0.40% | ~248 |
-| Solid Alibi | 0.40% | ~248 |
+| Out of Their League | 0.40% | ~249 |
+| Drone You Out | 0.40% | ~249 |
+| Gotham City Confidential | 0.40% | ~249 |
+| Solid Alibi | 0.40% | ~249 |
 | Fusion Expert | 0.30% | ~186 |
 | Expert Crime Fighter | 0.30% | ~186 |
 | Family Meeting | 0.30% | ~186 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 837)
 | Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,123 (Ranked 70)  
+Progressed: 62,126 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 91 (0.15%) (Ranked 148)
 | 2023-05-23 | 61,842 | 91 |
 | 2023-05-24 | 61,945 | 91 |
 | 2023-05-25 | 62,051 | 91 |
-| 2023-05-26 | 62,123 | 91 |
+| 2023-05-26 | 62,126 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,237  (Ranked 98)  
 Sum: 3,714 (Ranked 138)  

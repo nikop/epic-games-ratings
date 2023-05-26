@@ -2,7 +2,7 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 695,
+  "Ranking_Rating": 687,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 156,
@@ -15,7 +15,7 @@
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.38,
+  "Rating": 4.39,
   "RatingHistory": [
     {
       "Time": "2023-03-27T02:57:24.3255682+00:00",
@@ -200,15 +200,21 @@
       "Rating": 4.38,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-05-26T14:01:24.1422574+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1477,
+  "EOS_Progressed": 1481,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 694,
+  "EOS_NewPlayers": 695,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1471,6 +1477,11 @@
       "Time": "2023-05-26T13:10:12.6002041+00:00",
       "NumProgressed": 1477,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-26T14:06:08.4028354+00:00",
+      "NumProgressed": 1481,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1562,7 +1573,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1632,9 +1643,9 @@
       "ID": "REWARD_28_AMBUSH_KING",
       "SetID": "bm6el81",
       "Name": "Set Europe Ablaze",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 30
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -1650,7 +1661,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1696,9 +1707,9 @@
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
       "SetID": "bm6el81",
       "Name": "Die Nussknacker Sweet!",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 30
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -1794,7 +1805,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -2049,22 +2060,22 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1428,
+      "Progressed": 1432,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1477,
+      "Progressed": 1481,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-03-07T14:57:33.0234716+00:00",
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
-  "LastChanged": "2023-05-25T14:00:05.6295104+00:00",
-  "LastChanged_Achievements": "2023-05-26T13:10:12.6002035+00:00",
+  "LastChanged": "2023-05-26T14:01:24.142257+00:00",
+  "LastChanged_Achievements": "2023-05-26T14:06:08.4028343+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-26T13:05:12.9797759+00:00",
-  "LastUpdate_Achievements": "2023-05-26T13:10:12.6002778+00:00"
+  "LastUpdate_Ratings": "2023-05-26T14:01:24.1422587+00:00",
+  "LastUpdate_Achievements": "2023-05-26T14:06:08.4028936+00:00"
 }
