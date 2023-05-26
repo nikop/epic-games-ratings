@@ -19,11 +19,11 @@
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.02% |
 | 19 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.81% |
-| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.75% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.80% |
+| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.73% |
 | 22 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
 | 23 | [Scorn](games/s/scorn.md) | 6.99% |
-| 24 | [Ravenlok](games/r/ravenlok.md) | 6.69% |
+| 24 | [Ravenlok](games/r/ravenlok.md) | 6.68% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 26 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.71% |
@@ -58,8 +58,8 @@
 | 55 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 57 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.38% |
 | 58 | [JARS](games/j/jars.md) | 2.33% |
-| 59 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.30% |
-| 60 | [Iron Danger](games/i/iron_danger.md) | 2.29% |
+| 59 | [Iron Danger](games/i/iron_danger.md) | 2.29% |
+| 60 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.27% |
 | 61 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.14% |
 | 62 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 2.12% |
 | 63 | [Bloodshore](games/b/bloodshore.md) | 1.99% |
@@ -129,10 +129,10 @@
 | 127 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.30% |
 | 127 | [The Surge](games/t/the_surge.md) | 0.30% |
 | 129 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.29% |
-| 130 | [Aegis Descent](games/a/aegis_descent.md) | 0.28% |
 | 130 | [Dead Island 2](games/d/dead_island_2.md) | 0.28% |
-| 132 | [Despot's Game](games/d/despot's_game.md) | 0.27% |
-| 132 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
+| 131 | [Aegis Descent](games/a/aegis_descent.md) | 0.27% |
+| 131 | [Despot's Game](games/d/despot's_game.md) | 0.27% |
+| 131 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.27% |
 | 134 | [Wildermyth](games/w/wildermyth.md) | 0.25% |
 | 135 | [Circus Electrique](games/c/circus_electrique.md) | 0.24% |
 | 136 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.22% |
