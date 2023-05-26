@@ -6,20 +6,20 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 4.00% | ~587 |
-| Project Arena | 3.00% | ~440 |
+| Diligence as a goal | 4.00% | ~588 |
+| Project Arena | 3.00% | ~441 |
 | The Hateful Pole Fighter | 1.00% | ~7,054 |
 | Qi Gong: Breath | 1.00% | ~7,054 |
 | Bloody Sport | 1.00% | ~147 |
 | The best strikes are the ones we avoid | 1.00% | ~147 |
-| The Old Grandmaster | 0.90% | ~6,348 |
-| The Assault | 0.90% | ~6,348 |
-| A Lady's Blood in the Snow | 0.90% | ~6,348 |
-| Life is your teacher | 0.90% | ~6,348 |
-| State of constant learning | 0.90% | ~6,348 |
-| Lightning Hands | 0.90% | ~6,348 |
-| Path of the Prospect | 0.90% | ~6,348 |
-| Rumble in the Hangar | 0.90% | ~6,348 |
+| The Old Grandmaster | 0.90% | ~6,349 |
+| The Assault | 0.90% | ~6,349 |
+| A Lady's Blood in the Snow | 0.90% | ~6,349 |
+| Life is your teacher | 0.90% | ~6,349 |
+| State of constant learning | 0.90% | ~6,349 |
+| Lightning Hands | 0.90% | ~6,349 |
+| Path of the Prospect | 0.90% | ~6,349 |
+| Rumble in the Hangar | 0.90% | ~6,349 |
 | Lady Wing Chun | 0.80% | ~5,643 |
 | Furious Fists | 0.80% | ~5,643 |
 | Kill Nil | 0.80% | ~5,643 |
@@ -36,11 +36,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Muk Yan Master | 0.50% | ~3,527 |
 | I know Kung-Fu | 0.50% | ~3,527 |
 | A Touch of Acumen | 0.50% | ~73 |
-| Tiger on Fire | 0.40% | ~2,821 |
-| Source of Flying Daggers | 0.40% | ~2,821 |
-| Iron Money | 0.40% | ~2,821 |
-| Legendary Talismans of Wuxing | 0.40% | ~2,821 |
-| Detective Story | 0.40% | ~2,821 |
+| Tiger on Fire | 0.40% | ~2,822 |
+| Source of Flying Daggers | 0.40% | ~2,822 |
+| Iron Money | 0.40% | ~2,822 |
+| Legendary Talismans of Wuxing | 0.40% | ~2,822 |
+| Detective Story | 0.40% | ~2,822 |
 | Prodigal Child | 0.30% | ~2,116 |
 | The 36th Chamber of Kung-Fu | 0.30% | ~2,116 |
 | Sword Stained With Blood | 0.30% | ~2,116 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~705 |
 | Warriors from the Mountain | 0.10% | ~705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705,370 (Ranked 15)  
+Progressed: 705,393 (Ranked 15)  
 Completed: 12,736 (1.81%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 12,736 (1.81%) (Ranked 64)
 | 2023-05-23 | 704,864 | 12,733 |
 | 2023-05-24 | 705,048 | 12,734 |
 | 2023-05-25 | 705,232 | 12,734 |
-| 2023-05-26 | 705,370 | 12,736 |
+| 2023-05-26 | 705,393 | 12,736 |
 ## Awards
 Max (Great Boss Battles): 6,091  (Ranked 53)  
 Sum: 10,376 (Ranked 77)  

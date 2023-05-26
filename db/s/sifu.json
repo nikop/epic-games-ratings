@@ -4224,9 +4224,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 705370,
+  "EOS_Progressed": 705393,
   "EOS_Completed": 12736,
-  "EOS_NewPlayers": 2022,
+  "EOS_NewPlayers": 2014,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -7259,6 +7259,11 @@
       "Time": "2023-05-26T12:05:21.2608824+00:00",
       "NumProgressed": 705370,
       "NumCompleted": 12736
+    },
+    {
+      "Time": "2023-05-26T13:10:29.4606509+00:00",
+      "NumProgressed": 705393,
+      "NumCompleted": 12736
     }
   ],
   "TotalAchievements": 50,
@@ -7270,7 +7275,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6348
+      "UsersEstimate": 6349
     },
     {
       "ID": "02_Vengeance_H1",
@@ -7278,7 +7283,7 @@
       "Name": "The Assault",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6348
+      "UsersEstimate": 6349
     },
     {
       "ID": "03_Vengeance_H2",
@@ -7294,7 +7299,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6348
+      "UsersEstimate": 6349
     },
     {
       "ID": "05_Vengeance_H4",
@@ -7326,7 +7331,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 2821
+      "UsersEstimate": 2822
     },
     {
       "ID": "09_Wude_H3",
@@ -7334,7 +7339,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 2821
+      "UsersEstimate": 2822
     },
     {
       "ID": "10_Wude_H4",
@@ -7342,7 +7347,7 @@
       "Name": "Iron Money",
       "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 2821
+      "UsersEstimate": 2822
     },
     {
       "ID": "11_Wude_H5",
@@ -7350,7 +7355,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 2821
+      "UsersEstimate": 2822
     },
     {
       "ID": "12_MidAge",
@@ -7382,7 +7387,7 @@
       "Name": "Detective Story",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2821
+      "UsersEstimate": 2822
     },
     {
       "ID": "16_Detective_H2",
@@ -7446,7 +7451,7 @@
       "Name": "Life is your teacher",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6348
+      "UsersEstimate": 6349
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -7454,7 +7459,7 @@
       "Name": "State of constant learning",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6348
+      "UsersEstimate": 6349
     },
     {
       "ID": "25_ShrineMind",
@@ -7534,7 +7539,7 @@
       "Name": "Lightning Hands",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6348
+      "UsersEstimate": 6349
     },
     {
       "ID": "35_WideStrike",
@@ -7550,7 +7555,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6348
+      "UsersEstimate": 6349
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -7558,7 +7563,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6348
+      "UsersEstimate": 6349
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -7606,7 +7611,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -7614,7 +7619,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -7669,21 +7674,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 14671,
-      "Completed": 10170
+      "Progressed": 14694,
+      "Completed": 10171
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 705370,
+      "Progressed": 705393,
       "Completed": 12736
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-25T22:59:04.8520014+00:00",
-  "LastChanged_Achievements": "2023-05-26T12:05:21.260882+00:00",
+  "LastChanged_Achievements": "2023-05-26T13:10:29.4606488+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.7579865+00:00",
-  "LastUpdate_Ratings": "2023-05-26T11:58:35.0497605+00:00",
-  "LastUpdate_Achievements": "2023-05-26T12:05:21.2609393+00:00"
+  "LastUpdate_Ratings": "2023-05-26T13:03:36.8012603+00:00",
+  "LastUpdate_Achievements": "2023-05-26T13:10:29.4607083+00:00"
 }

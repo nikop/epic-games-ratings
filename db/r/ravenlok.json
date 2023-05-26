@@ -29,7 +29,7 @@
   "Tags": [],
   "EOS_Progressed": 863,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 6.72,
   "EosHistory": [
@@ -2092,9 +2092,9 @@
       "ID": "43",
       "SetID": "d0g98p",
       "Name": "An Actor!",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 371
+      "UsersEstimate": 380
     },
     {
       "ID": "44",
@@ -2205,8 +2205,8 @@
   "FirstSeenRating": "2023-05-04T05:57:24.2490298+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:40.9336145+00:00",
   "LastChanged": "2023-05-04T05:57:24.2490298+00:00",
-  "LastChanged_Achievements": "2023-05-26T12:04:57.3250955+00:00",
+  "LastChanged_Achievements": "2023-05-26T13:09:54.7677792+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:59.9943101+00:00",
-  "LastUpdate_Ratings": "2023-05-26T11:57:11.3128993+00:00",
-  "LastUpdate_Achievements": "2023-05-26T12:04:57.3251457+00:00"
+  "LastUpdate_Ratings": "2023-05-26T13:02:02.0132793+00:00",
+  "LastUpdate_Achievements": "2023-05-26T13:09:54.7678291+00:00"
 }

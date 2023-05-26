@@ -6,31 +6,31 @@
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 91.00% | ~317 |
 | Rail Rat | 72.00% | ~251 |
-| The Mysterious Stranger | 68.00% | ~237 |
-| Immaculate Aim | 54.00% | ~188 |
-| The Brass Boss | 44.00% | ~153 |
+| The Mysterious Stranger | 69.00% | ~240 |
+| Immaculate Aim | 55.00% | ~191 |
+| The Brass Boss | 45.00% | ~157 |
 | Honest Mistake | 43.00% | ~150 |
 | No, Thanks! | 42.00% | ~146 |
-| Right On Time | 39.00% | ~136 |
+| Right On Time | 40.00% | ~139 |
 | Time Flies | 39.00% | ~136 |
 | The Harder They Fall | 39.00% | ~136 |
 | The Prince in Heels | 37.00% | ~129 |
 | Fast Learner | 36.00% | ~125 |
 | Immaculate Aim | 33.00% | ~115 |
-| Make Up For Lost Time | 31.00% | ~108 |
-| Breaking Down Barriers | 30.00% | ~104 |
+| Make Up For Lost Time | 32.00% | ~111 |
+| Breaking Down Barriers | 31.00% | ~108 |
+| The Steel Shadow | 24.00% | ~84 |
 | Family Memories | 24.00% | ~84 |
-| The Steel Shadow | 23.00% | ~80 |
-| Golem Chaser | 22.00% | ~77 |
+| Golem Chaser | 23.00% | ~80 |
 | Good Neighbor | 22.00% | ~77 |
-| Like Clockwork | 20.00% | ~70 |
-| The Wicked Twins | 18.00% | ~63 |
-| The Betrayer | 16.00% | ~56 |
-| Street Style | 15.00% | ~52 |
+| Like Clockwork | 21.00% | ~73 |
+| The Wicked Twins | 19.00% | ~66 |
+| The Betrayer | 17.00% | ~59 |
+| Street Style | 16.00% | ~56 |
 | Check Your Pulse | 15.00% | ~52 |
 | Syron for Hope | 14.00% | ~49 |
-| The Loose Cannon | 12.00% | ~42 |
-| Ask Questions Later | 12.00% | ~42 |
+| The Loose Cannon | 13.00% | ~45 |
+| Ask Questions Later | 13.00% | ~45 |
 | Factorywood Explorer | 11.00% | ~38 |
 | Whiz Kid | 11.00% | ~38 |
 | Sump Explorer | 11.00% | ~38 |
@@ -40,8 +40,8 @@
 | Fairgrounds Explorer | 8.00% | ~28 |
 | Cultivair Explorer | 7.00% | ~24 |
 | Hexlock for Protection | 7.00% | ~24 |
+| Theater Explorer | 7.00% | ~24 |
 | Rungs Was Right | 6.00% | ~21 |
-| Theater Explorer | 6.00% | ~21 |
 | Corin Goes Home | 5.00% | ~17 |
 | Sartorialist | 5.00% | ~17 |
 | Entresol Explorer | 5.00% | ~17 |

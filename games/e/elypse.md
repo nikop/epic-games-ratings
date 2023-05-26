@@ -6,8 +6,8 @@
 | ---- | ---------- | ----- |
 | A path of no return | 102.00% | ~46 |
 | A bottomless pit | 84.00% | ~38 |
-| Pigeon | 80.00% | ~36 |
-| Baited | 67.00% | ~30 |
+| Pigeon | 82.00% | ~37 |
+| Baited | 69.00% | ~31 |
 | "Swoosh" | 58.00% | ~26 |
 | The light at the end of the tunnel | 58.00% | ~26 |
 | Splash! | 58.00% | ~26 |
@@ -31,7 +31,7 @@
 | Payback | 20.00% | ~9 |
 | MayDay! MayDay! | 16.00% | ~7 |
 | GG EZ | 11.00% | ~5 |
-| Comeback | 9.00% | ~4 |
+| Comeback | 11.00% | ~5 |
 | Gooooooaaaaal!!! | 9.00% | ~4 |
 | Abyssal God | 0.00% | ~0 |
 | What do you want? | 0.00% | ~0 |

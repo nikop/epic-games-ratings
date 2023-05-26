@@ -42,7 +42,7 @@ Number of Ratings: 209  (23.09.2022)
 | Killed them all | 76.00% | ~1,544 |
 | Trickle Down Economy | 75.00% | ~1,524 |
 | Win | 75.00% | ~1,524 |
-| Greenhouse | 71.00% | ~1,443 |
+| Greenhouse | 72.00% | ~1,463 |
 | Played with fire | 69.00% | ~1,402 |
 | You feel very sorry | 69.00% | ~1,402 |
 | No Match for you | 65.00% | ~1,321 |

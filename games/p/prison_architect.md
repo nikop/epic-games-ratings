@@ -6,15 +6,15 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 26.00% | ~32,748 |
-| Get Busy Living | 17.00% | ~21,412 |
-| Samuel Norton | 10.00% | ~12,595 |
-| Spare The Rod | 5.00% | ~6,298 |
-| Wait and Hope | 4.00% | ~5,038 |
-| I May Have Found A Way Out Of Here | 4.00% | ~5,038 |
-| Don't Put Me In The Dark | 3.00% | ~3,779 |
-| Iron Bars | 3.00% | ~3,779 |
-| Throw The Book At Them | 2.00% | ~2,519 |
+| Stone Walls | 26.00% | ~32,757 |
+| Get Busy Living | 17.00% | ~21,418 |
+| Samuel Norton | 10.00% | ~12,599 |
+| Spare The Rod | 5.00% | ~6,300 |
+| Wait and Hope | 4.00% | ~5,040 |
+| I May Have Found A Way Out Of Here | 4.00% | ~5,040 |
+| Don't Put Me In The Dark | 3.00% | ~3,780 |
+| Iron Bars | 3.00% | ~3,780 |
+| Throw The Book At Them | 2.00% | ~2,520 |
 | D.B. Cooper | 1.00% | ~1,260 |
 | Reformation | 0.60% | ~756 |
 | Crowd Control | 0.50% | ~630 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~126 |
 | ... It's What You Can Prove | 0.10% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125,952 (Ranked 55)  
+Progressed: 125,990 (Ranked 56)  
 Completed: 4 (0.00%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,17 +59,17 @@ Completed: 4 (0.00%) (Ranked 203)
 | 2023-05-23 | 124,880 | 4 |
 | 2023-05-24 | 125,321 | 4 |
 | 2023-05-25 | 125,760 | 4 |
-| 2023-05-26 | 125,952 | 4 |
+| 2023-05-26 | 125,990 | 4 |
 ## Awards
 Max (Extremely Fun): 425  (Ranked 194)  
-Sum: 3,334 (Ranked 144)  
+Sum: 3,335 (Ranked 144)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 425 |
 | This game is Highly Recommended | 411 |
 | This game is Great for Beginners | 409 |
-| This game has Quickly Understood Controls | 394 |
+| This game has Quickly Understood Controls | 395 |
 | This game is Relaxing | 373 |
 | This game has Diverse Characters | 366 |
 | This game has Amazing Storytelling | 356 |
@@ -206,4 +206,4 @@ Diff (max vs sum): 50
 | 2023-05-23 | 4.61 | - | 423 | 3,319 |
 | 2023-05-24 | 4.61 | - | 424 | 3,322 |
 | 2023-05-25 | 4.61 | - | 425 | 3,331 |
-| 2023-05-26 | 4.61 | - | 425 | 3,334 |
+| 2023-05-26 | 4.61 | - | 425 | 3,335 |

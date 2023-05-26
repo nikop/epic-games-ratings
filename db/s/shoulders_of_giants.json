@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-01-26T06:00:00+00:00",
@@ -66,9 +66,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2064,
+  "EOS_Progressed": 2065,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -831,6 +831,11 @@
       "Time": "2023-05-26T07:06:26.4112736+00:00",
       "NumProgressed": 2064,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-26T13:10:29.0933553+00:00",
+      "NumProgressed": 2065,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 19,
@@ -858,7 +863,7 @@
       "Name": "The First Law of Thermodynamics",
       "Percentage": 27,
       "XP": 150,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "complete_act_three",
@@ -882,7 +887,7 @@
       "Name": "On the Shoulders of Giants",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 1816
+      "UsersEstimate": 1817
     },
     {
       "ID": "deal_damage",
@@ -890,7 +895,7 @@
       "Name": "Ouch",
       "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1136
     },
     {
       "ID": "defeat_enemies",
@@ -898,7 +903,7 @@
       "Name": "A Ribbiting Performance",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1590
     },
     {
       "ID": "defeat_tree_dummy",
@@ -906,7 +911,7 @@
       "Name": "Do you feel like a tough guy?",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "fail_planet",
@@ -962,7 +967,7 @@
       "Name": "The Interdimensional Power of Friendship",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "stick_decoy",
@@ -993,7 +998,7 @@
     {
       "ID": "236b9eg",
       "IsBase": true,
-      "Progressed": 2064,
+      "Progressed": 2065,
       "Completed": 8
     }
   ],
@@ -1001,8 +1006,8 @@
   "FirstSeenRating": "2023-03-08T19:57:26.4841992+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.8863153+00:00",
   "LastChanged": "2023-05-21T23:00:43.2756611+00:00",
-  "LastChanged_Achievements": "2023-05-26T12:05:20.924602+00:00",
+  "LastChanged_Achievements": "2023-05-26T13:10:29.0933548+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:21.4953983+00:00",
-  "LastUpdate_Ratings": "2023-05-26T11:59:50.8634836+00:00",
-  "LastUpdate_Achievements": "2023-05-26T12:05:20.9246203+00:00"
+  "LastUpdate_Ratings": "2023-05-26T13:04:59.6740916+00:00",
+  "LastUpdate_Achievements": "2023-05-26T13:10:29.0933723+00:00"
 }

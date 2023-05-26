@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 85,
+  "EOS_Progressed": 86,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.35,
+  "EOS_Completed_Percentage": 2.33,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.7250837+00:00",
@@ -213,6 +213,11 @@
       "Time": "2023-05-26T11:01:47.1207935+00:00",
       "NumProgressed": 85,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-26T13:05:20.9520985+00:00",
+      "NumProgressed": 86,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 11,
@@ -224,7 +229,7 @@
       "Name": "Solved first case",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "1",
@@ -232,7 +237,7 @@
       "Name": "Solved second case",
       "Percentage": 80,
       "XP": 90,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "10",
@@ -248,29 +253,29 @@
       "Name": "Solved third case",
       "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "3",
       "SetID": "acl54ke",
       "Name": "Solved fourth case",
-      "Percentage": 47,
+      "Percentage": 49,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "4",
       "SetID": "acl54ke",
       "Name": "Solved fifth case",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "5",
       "SetID": "acl54ke",
       "Name": "Solved sixth case",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 100,
       "UsersEstimate": 20
     },
@@ -278,7 +283,7 @@
       "ID": "6",
       "SetID": "acl54ke",
       "Name": "Solved seventh case",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 100,
       "UsersEstimate": 20
     },
@@ -311,22 +316,22 @@
     {
       "ID": "acl54ke",
       "IsBase": true,
-      "Progressed": 85,
+      "Progressed": 86,
       "Completed": 2
     },
     {
       "ID": "a3epimb",
       "IsBase": false,
-      "Progressed": 32,
-      "Completed": 32
+      "Progressed": 33,
+      "Completed": 33
     }
   ],
   "FirstSeen": "2023-03-24T17:57:36.1252473+00:00",
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-05-26T11:01:47.1207929+00:00",
+  "LastChanged_Achievements": "2023-05-26T13:05:20.9520803+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:22.8180475+00:00",
-  "LastUpdate_Ratings": "2023-05-26T11:58:20.061061+00:00",
-  "LastUpdate_Achievements": "2023-05-26T11:01:47.1208038+00:00"
+  "LastUpdate_Ratings": "2023-05-26T13:03:16.4564684+00:00",
+  "LastUpdate_Achievements": "2023-05-26T13:05:20.9540111+00:00"
 }

@@ -486,7 +486,7 @@
   ],
   "EOS_Progressed": 2581,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1609,9 +1609,9 @@
       "ID": "Encyclopedic_30",
       "SetID": "c4hee28",
       "Name": "Encyclopedic!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 490
+      "UsersEstimate": 516
     },
     {
       "ID": "Eureka_23",
@@ -1897,8 +1897,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-04-16T06:57:19.4337927+00:00",
-  "LastChanged_Achievements": "2023-05-26T12:05:05.1209242+00:00",
+  "LastChanged_Achievements": "2023-05-26T13:10:12.5776334+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:14.085288+00:00",
-  "LastUpdate_Ratings": "2023-05-26T11:57:25.1796757+00:00",
-  "LastUpdate_Achievements": "2023-05-26T12:05:05.1209613+00:00"
+  "LastUpdate_Ratings": "2023-05-26T13:02:18.374006+00:00",
+  "LastUpdate_Achievements": "2023-05-26T13:10:12.5776716+00:00"
 }

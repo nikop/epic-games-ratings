@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 198,
   "Ranking_EOS_Progress": 32,
   "Ranking_EOS_Completed": 155,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1136,9 +1136,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 425447,
+  "EOS_Progressed": 425448,
   "EOS_Completed": 503,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -3576,6 +3576,11 @@
       "Time": "2023-05-26T10:05:10.0115471+00:00",
       "NumProgressed": 425447,
       "NumCompleted": 503
+    },
+    {
+      "Time": "2023-05-26T13:10:11.6792126+00:00",
+      "NumProgressed": 425448,
+      "NumCompleted": 503
     }
   ],
   "TotalAchievements": 41,
@@ -3603,7 +3608,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 255268
+      "UsersEstimate": 255269
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -3619,7 +3624,7 @@
       "Name": "Restore Balance",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 102107
+      "UsersEstimate": 102108
     },
     {
       "ID": "ACH_BOSS_TARO",
@@ -3755,7 +3760,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 404175
+      "UsersEstimate": 404176
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -3771,7 +3776,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 306322
+      "UsersEstimate": 306323
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -3779,7 +3784,7 @@
       "Name": "The Open Range",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 157415
+      "UsersEstimate": 157416
     },
     {
       "ID": "ACH_LOCATION_FOREST",
@@ -3787,7 +3792,7 @@
       "Name": "Into the Woods",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 293558
+      "UsersEstimate": 293559
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -3835,7 +3840,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 191451
+      "UsersEstimate": 191452
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -3875,7 +3880,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 182942
+      "UsersEstimate": 182943
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -3914,15 +3919,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 425447,
+      "Progressed": 425448,
       "Completed": 503
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-05-23T15:58:10.904898+00:00",
-  "LastChanged_Achievements": "2023-05-26T12:05:04.0391895+00:00",
+  "LastChanged_Achievements": "2023-05-26T13:10:11.6792122+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:49.1218266+00:00",
-  "LastUpdate_Ratings": "2023-05-26T11:57:58.1211779+00:00",
-  "LastUpdate_Achievements": "2023-05-26T12:05:04.0392329+00:00"
+  "LastUpdate_Ratings": "2023-05-26T13:02:50.5105184+00:00",
+  "LastUpdate_Achievements": "2023-05-26T13:10:11.6792515+00:00"
 }

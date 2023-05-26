@@ -234,9 +234,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 571,
+  "EOS_Progressed": 572,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -594,6 +594,11 @@
       "Time": "2023-05-26T04:06:31.8422917+00:00",
       "NumProgressed": 571,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T13:10:17.5987734+00:00",
+      "NumProgressed": 572,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -605,7 +610,7 @@
       "Name": "Cabin boy",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "ACH001",
@@ -613,7 +618,7 @@
       "Name": "Seafarer",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "ACH002",
@@ -661,7 +666,7 @@
       "Name": "My little farm",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ACH008",
@@ -693,7 +698,7 @@
       "Name": "Intangible",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH012",
@@ -701,7 +706,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "ACH013",
@@ -789,7 +794,7 @@
       "Name": "Gofer",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "ACH024",
@@ -821,7 +826,7 @@
       "Name": "I\u0027m out of here for a while",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH028",
@@ -859,9 +864,9 @@
       "ID": "ACH032",
       "SetID": "69nfp41",
       "Name": "Pirates!",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 200
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH033",
@@ -893,7 +898,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "ACH037",
@@ -931,7 +936,7 @@
       "ID": "ACH041",
       "SetID": "69nfp41",
       "Name": "Davy Jones\u0027 locker",
-      "Percentage": 0.4,
+      "Percentage": 0.3,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -1004,15 +1009,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 571,
+      "Progressed": 572,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-05-13T23:58:25.9462039+00:00",
-  "LastChanged_Achievements": "2023-05-26T12:05:10.0688691+00:00",
+  "LastChanged_Achievements": "2023-05-26T13:10:17.598773+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:02.5497371+00:00",
-  "LastUpdate_Ratings": "2023-05-26T11:58:07.4945472+00:00",
-  "LastUpdate_Achievements": "2023-05-26T12:05:10.0689106+00:00"
+  "LastUpdate_Ratings": "2023-05-26T13:03:00.3454461+00:00",
+  "LastUpdate_Achievements": "2023-05-26T13:10:17.5988151+00:00"
 }

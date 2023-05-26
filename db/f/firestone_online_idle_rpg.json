@@ -92,9 +92,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1170,
+  "EOS_Progressed": 1171,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2172,6 +2172,11 @@
       "Time": "2023-05-26T12:05:13.6275216+00:00",
       "NumProgressed": 1170,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-26T13:10:21.2059464+00:00",
+      "NumProgressed": 1171,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2295,7 +2300,7 @@
       "Name": "Dragon Master",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "dragonslayer",
@@ -2383,7 +2388,7 @@
       "Name": "Frostfire Liberator",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "fullparty",
@@ -2479,7 +2484,7 @@
       "Name": "Lieutenant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "lockandload",
@@ -2503,7 +2508,7 @@
       "Name": "Mastery",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "milestonecollector",
@@ -2535,7 +2540,7 @@
       "Name": "Moving Up The Ladder",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "mysteriousrock",
@@ -2575,7 +2580,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "prestigiousx10",
@@ -2639,7 +2644,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "thealchemist",
@@ -2655,7 +2660,7 @@
       "Name": "The Expeditioner",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "thefatherofdragons",
@@ -2743,7 +2748,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1100
+      "UsersEstimate": 1101
     },
     {
       "ID": "warmachinesarmy",
@@ -2775,14 +2780,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 936
+      "UsersEstimate": 937
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1170,
+      "Progressed": 1171,
       "Completed": 1
     }
   ],
@@ -2790,8 +2795,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-23T21:58:11.918076+00:00",
-  "LastChanged_Achievements": "2023-05-26T12:05:13.6275213+00:00",
+  "LastChanged_Achievements": "2023-05-26T13:10:21.2059456+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:34.8363446+00:00",
-  "LastUpdate_Ratings": "2023-05-26T11:57:40.9923033+00:00",
-  "LastUpdate_Achievements": "2023-05-26T12:05:13.6276224+00:00"
+  "LastUpdate_Ratings": "2023-05-26T13:02:32.5351239+00:00",
+  "LastUpdate_Achievements": "2023-05-26T13:10:21.2060368+00:00"
 }

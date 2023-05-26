@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -568,9 +568,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5855,
+  "EOS_Progressed": 5856,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1483,6 +1483,11 @@
       "Time": "2023-05-26T07:06:08.9982787+00:00",
       "NumProgressed": 5855,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-26T13:10:12.851935+00:00",
+      "NumProgressed": 5856,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -1510,7 +1515,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 2693
+      "UsersEstimate": 2694
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -1542,7 +1547,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 2049
+      "UsersEstimate": 2050
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -1702,7 +1707,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -1742,7 +1747,7 @@
       "Name": "Silver Lining",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1640
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -1782,7 +1787,7 @@
       "Name": "The Italian Job",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1112
+      "UsersEstimate": 1113
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -1822,7 +1827,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3103
+      "UsersEstimate": 3104
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -1853,7 +1858,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5855,
+      "Progressed": 5856,
       "Completed": 8
     }
   ],
@@ -1861,8 +1866,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-25T13:05:20.9759815+00:00",
-  "LastChanged_Achievements": "2023-05-26T12:05:05.3525615+00:00",
+  "LastChanged_Achievements": "2023-05-26T13:10:12.8519344+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:10.2290416+00:00",
-  "LastUpdate_Ratings": "2023-05-26T11:57:07.7055281+00:00",
-  "LastUpdate_Achievements": "2023-05-26T12:05:05.3526004+00:00"
+  "LastUpdate_Ratings": "2023-05-26T13:01:58.5581811+00:00",
+  "LastUpdate_Achievements": "2023-05-26T13:10:12.8519738+00:00"
 }

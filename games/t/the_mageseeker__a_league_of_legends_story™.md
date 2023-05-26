@@ -5,11 +5,11 @@ Rating: 4.78 (Ranked 99)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~2,050 |
-| No more cages! | 91.00% | ~1,964 |
+| For Demacia | 95.00% | ~2,051 |
+| No more cages! | 91.00% | ~1,965 |
 | Everfrost | 77.00% | ~1,662 |
-| Dark Forest | 76.00% | ~1,640 |
-| Pentakill | 75.00% | ~1,618 |
+| Dark Forest | 76.00% | ~1,641 |
+| Pentakill | 75.00% | ~1,619 |
 | The use of petricite | 72.00% | ~1,554 |
 | You can pet the dog | 60.00% | ~1,295 |
 | Big Helmet Bro | 34.00% | ~734 |
@@ -24,13 +24,13 @@ Rating: 4.78 (Ranked 99)
 | Devineur | 26.00% | ~561 |
 | Whispers in the Woods I | 25.00% | ~540 |
 | Hijack | 25.00% | ~540 |
+| Ancient power | 23.00% | ~497 |
 | I chose my shackles | 22.00% | ~475 |
-| Ancient power | 22.00% | ~475 |
 | Sacred Woods | 21.00% | ~453 |
 | Little light | 19.00% | ~410 |
 | Capelworth | 19.00% | ~410 |
-| Glyndemere | 18.00% | ~388 |
-| Iffighain Headquarters | 18.00% | ~388 |
+| Glyndemere | 18.00% | ~389 |
+| Iffighain Headquarters | 18.00% | ~389 |
 | Full equipped | 17.00% | ~367 |
 | Whispers in the Woods II | 15.00% | ~324 |
 | Quickmoore Headquarters | 15.00% | ~324 |
@@ -59,7 +59,7 @@ Rating: 4.78 (Ranked 99)
 | Silverwing nest | 2.00% | ~43 |
 | The Unshackled | 0.60% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,158 (Ranked 144)  
+Progressed: 2,159 (Ranked 145)  
 Completed: 1 (0.05%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 1 (0.05%) (Ranked 174)
 | 2023-05-23 | 2,119 | 1 |
 | 2023-05-24 | 2,132 | 1 |
 | 2023-05-25 | 2,150 | 1 |
-| 2023-05-26 | 2,158 | 1 |
+| 2023-05-26 | 2,159 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "gigapocalypse-fdc53b",
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-03-22T16:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 124,
+  "EOS_Progressed": 125,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.81,
+  "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:25.0690428+00:00",
@@ -93,6 +93,11 @@
       "Time": "2023-05-24T23:06:47.9281437+00:00",
       "NumProgressed": 124,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-26T13:10:35.4746423+00:00",
+      "NumProgressed": 125,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 53,
@@ -128,7 +133,7 @@
       "Name": "The Duelist",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "secret13",
@@ -160,7 +165,7 @@
       "Name": "From Here To Eternity",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "secret17",
@@ -168,7 +173,7 @@
       "Name": "Who\u0027s A Good Boy",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "secret18",
@@ -184,7 +189,7 @@
       "Name": "Feng Shui",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "secret2",
@@ -224,7 +229,7 @@
       "Name": "Fashion Victim",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "secret24",
@@ -232,7 +237,7 @@
       "Name": "Power Up",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "secret25",
@@ -256,7 +261,7 @@
       "Name": "Godlike Power",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "secret28",
@@ -312,7 +317,7 @@
       "Name": "Glorious Battle",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "secret34",
@@ -328,13 +333,13 @@
       "Name": "Boss Hunter",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "secret36",
       "SetID": "39f6ck8",
       "Name": "Overwhelming Power",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 20,
       "UsersEstimate": 64
     },
@@ -344,7 +349,7 @@
       "Name": "Meat Larder",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "secret38",
@@ -376,7 +381,7 @@
       "Name": "Diaper Time!",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "secret41",
@@ -392,7 +397,7 @@
       "Name": "Final Evolution",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "secret43",
@@ -400,7 +405,7 @@
       "Name": "Quite A Snack",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "secret44",
@@ -416,7 +421,7 @@
       "Name": "Feast Time",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "secret46",
@@ -470,9 +475,9 @@
       "ID": "secret51",
       "SetID": "39f6ck8",
       "Name": "Fire Beacon",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "secret52",
@@ -504,7 +509,7 @@
       "Name": "Too Cool For School",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "secret8",
@@ -512,7 +517,7 @@
       "Name": "Destroy Erase Improve",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "secret9",
@@ -527,7 +532,7 @@
     {
       "ID": "39f6ck8",
       "IsBase": true,
-      "Progressed": 124,
+      "Progressed": 125,
       "Completed": 1
     }
   ],
@@ -535,8 +540,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-05-26T12:05:27.3285639+00:00",
+  "LastChanged_Achievements": "2023-05-26T13:10:35.4746417+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:39.4540742+00:00",
-  "LastUpdate_Ratings": "2023-05-26T11:59:35.6815482+00:00",
-  "LastUpdate_Achievements": "2023-05-26T12:05:27.3286079+00:00"
+  "LastUpdate_Ratings": "2023-05-26T13:04:40.6441501+00:00",
+  "LastUpdate_Achievements": "2023-05-26T13:10:35.474688+00:00"
 }

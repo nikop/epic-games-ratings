@@ -13,8 +13,8 @@
 | OUTRAGE | 14.00% | ~17 |
 | What have I done!? | 14.00% | ~17 |
 | The Cultists | 12.00% | ~15 |
-| Alone In The Dark | 11.00% | ~13 |
-| This Coffin Has Your Name On It! | 11.00% | ~13 |
+| Alone In The Dark | 11.00% | ~14 |
+| This Coffin Has Your Name On It! | 11.00% | ~14 |
 | Parasite Exterminated | 10.00% | ~12 |
 | The Forgotten Tower | 10.00% | ~12 |
 | Lover of classics | 8.00% | ~10 |
@@ -45,8 +45,8 @@
 | Pet The Dog | 0.80% | ~1 |
 | Survival Horror | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 122 (Ranked 260)  
-Completed: 1 (0.82%) (Ranked 91)  
+Progressed: 123 (Ranked 259)  
+Completed: 1 (0.81%) (Ranked 93)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -65,6 +65,7 @@ Completed: 1 (0.82%) (Ranked 91)
 | 2023-05-23 | 119 | 1 |
 | 2023-05-24 | 121 | 1 |
 | 2023-05-25 | 122 | 1 |
+| 2023-05-26 | 123 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

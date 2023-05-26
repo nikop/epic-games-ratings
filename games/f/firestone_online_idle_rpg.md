@@ -5,10 +5,10 @@ Rating: 3.87 (Ranked 907)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,100 |
-| World Map | 80.00% | ~936 |
-| Temple of Eternals | 56.00% | ~655 |
-| Prestigious | 53.00% | ~620 |
+| Victor | 94.00% | ~1,101 |
+| World Map | 80.00% | ~937 |
+| Temple of Eternals | 56.00% | ~656 |
+| Prestigious | 53.00% | ~621 |
 | Fellowship Power | 40.00% | ~468 |
 | Guild Power | 24.00% | ~281 |
 | Prestigious x10 | 21.00% | ~246 |
@@ -19,8 +19,8 @@ Rating: 3.87 (Ranked 907)
 | Full Party | 14.00% | ~164 |
 | Inspection | 14.00% | ~164 |
 | Hero inspection | 13.00% | ~152 |
-| Dragon Master | 12.00% | ~140 |
-| Lieutenant | 12.00% | ~140 |
+| Dragon Master | 12.00% | ~141 |
+| Lieutenant | 12.00% | ~141 |
 | Enlightenment | 11.00% | ~129 |
 | Milestone collector | 11.00% | ~129 |
 | Mysterious Rock | 10.00% | ~117 |
@@ -33,10 +33,10 @@ Rating: 3.87 (Ranked 907)
 | Hunter | 6.00% | ~70 |
 | Scroll Master | 6.00% | ~70 |
 | The power of Awakening | 6.00% | ~70 |
-| Frostfire Liberator | 5.00% | ~58 |
-| Mastery | 5.00% | ~58 |
-| Moving Up The Ladder | 5.00% | ~58 |
-| The Expeditioner | 5.00% | ~58 |
+| Frostfire Liberator | 5.00% | ~59 |
+| Mastery | 5.00% | ~59 |
+| Moving Up The Ladder | 5.00% | ~59 |
+| The Expeditioner | 5.00% | ~59 |
 | Doing My Part | 4.00% | ~47 |
 | Here We Go Again | 4.00% | ~47 |
 | Missions Dedication | 4.00% | ~47 |
@@ -81,7 +81,7 @@ Rating: 3.87 (Ranked 907)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,170 (Ranked 161)  
+Progressed: 1,171 (Ranked 161)  
 Completed: 1 (0.09%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 1 (0.09%) (Ranked 163)
 | 2023-05-23 | 1,150 | 1 |
 | 2023-05-24 | 1,156 | 1 |
 | 2023-05-25 | 1,163 | 1 |
-| 2023-05-26 | 1,170 | 1 |
+| 2023-05-26 | 1,171 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

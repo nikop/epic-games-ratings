@@ -2,9 +2,9 @@
   "ID": "18ba5ade23ee4b49a65d84712ef4c895",
   "Name": "Volley Pals",
   "ProductSlug": "volley-pals-0120b4",
-  "Ranking_EOS_Progress": 398,
+  "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-05-19T01:00:00+00:00",
@@ -19,15 +19,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 3,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-05-19T19:23:39.9762126+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T13:09:47.8819627+00:00",
+      "NumProgressed": 3,
       "NumCompleted": 0
     }
   ],
@@ -38,23 +43,23 @@
       "ID": "LEVEL_0",
       "SetID": "1fnbp5h",
       "Name": "Beach",
-      "Percentage": 200,
+      "Percentage": 133,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "LEVEL_1",
       "SetID": "1fnbp5h",
       "Name": "Library",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 100,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "LEVEL_2",
       "SetID": "1fnbp5h",
       "Name": "Space",
-      "Percentage": 200,
+      "Percentage": 67,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -62,7 +67,7 @@
       "ID": "LEVEL_3",
       "SetID": "1fnbp5h",
       "Name": "Haunted Mansion",
-      "Percentage": 100,
+      "Percentage": 33,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -119,13 +124,13 @@
     {
       "ID": "1fnbp5h",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 3,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-02T15:59:43.451096+00:00",
-  "LastChanged_Achievements": "2023-05-26T12:04:50.7286125+00:00",
+  "LastChanged_Achievements": "2023-05-26T13:09:47.8819621+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:01.4448717+00:00",
-  "LastUpdate_Ratings": "2023-05-26T11:56:57.9742895+00:00",
-  "LastUpdate_Achievements": "2023-05-26T12:04:50.7286203+00:00"
+  "LastUpdate_Ratings": "2023-05-26T13:01:49.998387+00:00",
+  "LastUpdate_Achievements": "2023-05-26T13:09:47.8819714+00:00"
 }
