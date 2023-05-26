@@ -19,17 +19,17 @@
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.07% |
 | 18 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.80% |
-| 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.69% |
 | 20 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
+| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.68% |
 | 22 | [Scorn](games/s/scorn.md) | 6.94% |
-| 23 | [Ravenlok](games/r/ravenlok.md) | 6.73% |
+| 23 | [Ravenlok](games/r/ravenlok.md) | 6.72% |
 | 24 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 25 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.71% |
-| 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.29% |
-| 28 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.00% |
-| 29 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.96% |
-| 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.90% |
+| 27 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.30% |
+| 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.29% |
+| 29 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.90% |
+| 29 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.90% |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 32 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.32% |
 | 33 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.26% |
@@ -42,8 +42,8 @@
 | 40 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.33% |
 | 41 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.25% |
 | 42 | [The Bunker](games/t/the_bunker.md) | 3.23% |
-| 43 | [ZZT!](games/z/zzt!.md) | 3.18% |
-| 44 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
+| 43 | [Monster Harvest](games/m/monster_harvest.md) | 3.17% |
+| 43 | [ZZT!](games/z/zzt!.md) | 3.17% |
 | 45 | [HordeCore](games/h/hordecore.md) | 2.99% |
 | 46 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.98% |
 | 47 | [MultiVersus](games/m/multiversus.md) | 2.95% |
@@ -56,7 +56,7 @@
 | 54 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.50% |
 | 54 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 56 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.44% |
-| 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.38% |
+| 57 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 2.35% |
 | 58 | [JARS](games/j/jars.md) | 2.33% |
 | 59 | [Iron Danger](games/i/iron_danger.md) | 2.30% |
 | 60 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 2.15% |
@@ -90,9 +90,9 @@
 | 88 | [Dungeons 3](games/d/dungeons_3.md) | 0.89% |
 | 88 | [Hades](games/h/hades.md) | 0.89% |
 | 90 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.87% |
-| 91 | [Adios](games/a/adios.md) | 0.83% |
-| 92 | [Lemon Cake](games/l/lemon_cake.md) | 0.82% |
-| 92 | [Them and Us](games/t/them_and_us.md) | 0.82% |
+| 91 | [Adios](games/a/adios.md) | 0.82% |
+| 91 | [Lemon Cake](games/l/lemon_cake.md) | 0.82% |
+| 91 | [Them and Us](games/t/them_and_us.md) | 0.82% |
 | 94 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.81% |
 | 95 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 0.80% |
 | 96 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.79% |
@@ -119,7 +119,7 @@
 | 116 | [Tchia](games/t/tchia.md) | 0.36% |
 | 118 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.34% |
 | 118 | [Godlike Burger](games/g/godlike_burger.md) | 0.34% |
-| 118 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.34% |
+| 120 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.33% |
 | 121 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.32% |
 | 121 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.32% |
 | 121 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.32% |

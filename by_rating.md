@@ -597,7 +597,7 @@
 | 585 | [Train Valley](games/t/train_valley.md) | 4.47 | 0 | 491 |
 | 585 | [WRC Generations](games/w/wrc_generations.md) | 4.47 | 0 | 491 |
 | 597 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 491 |
-| 597 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,299 | 82 |
+| 597 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,303 | 82 |
 | 597 | [Figment](games/f/figment.md) | 4.46 | 20 | 486 |
 | 597 | [Ghostbusters: The Video Game Remastered](games/g/ghostbusters__the_video_game_remastered.md) | 4.46 | 106 | 315 |
 | 597 | [Hello Neighbor: Hide and Seek](games/h/hello_neighbor__hide_and_seek.md) | 4.46 | 0 | 491 |
@@ -900,7 +900,7 @@
 | 898 | [Ancient Enemy](games/a/ancient_enemy.md) | 3.95 | 45 | 402 |
 | 899 | [Patron](games/p/patron.md) | 3.94 | 0 | 491 |
 | 900 | [Bridge Constructor: The Walking Dead](games/b/bridge_constructor_the_walking_dead.md) | 3.93 | 29 | 449 |
-| 900 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 287 | 227 |
+| 900 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 3.93 | 288 | 227 |
 | 900 | [Ironcast](games/i/ironcast.md) | 3.93 | 0 | 491 |
 | 900 | [MONOPOLY® PLUS](games/m/monopoly®_plus.md) | 3.93 | 0 | 491 |
 | 904 | [Conarium](games/c/conarium.md) | 3.92 | 0 | 491 |
