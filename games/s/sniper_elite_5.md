@@ -7,9 +7,9 @@ Rating: 4.39 (Ranked 687)
 | ---- | ---------- | ----- |
 | Meeting Resistance | 18.00% | ~273 |
 | Confirming Suspicions | 13.00% | ~197 |
-| The Kraken Wakes | 10.00% | ~151 |
-| It's Starting to Crack | 8.00% | ~121 |
-| Lord of War | 6.00% | ~91 |
+| The Kraken Wakes | 10.00% | ~152 |
+| It's Starting to Crack | 8.00% | ~122 |
+| Lord of War | 7.00% | ~106 |
 | Resourceful | 6.00% | ~91 |
 | Enemy at the Gates | 5.00% | ~76 |
 | Organ Grinder | 5.00% | ~76 |
@@ -18,13 +18,13 @@ Rating: 4.39 (Ranked 687)
 | Explosive Efficiency | 4.00% | ~61 |
 | As Quiet as a Mouse | 4.00% | ~61 |
 | Taking it back | 4.00% | ~61 |
-| Opposing Force | 3.00% | ~45 |
-| Gunslinger | 3.00% | ~45 |
-| Sharpshooter | 3.00% | ~45 |
-| Die Nussknacker Sweet! | 3.00% | ~45 |
-| Close Quarters | 3.00% | ~45 |
-| Snake in the Grass | 3.00% | ~45 |
-| Target America | 3.00% | ~45 |
+| Opposing Force | 3.00% | ~46 |
+| Gunslinger | 3.00% | ~46 |
+| Sharpshooter | 3.00% | ~46 |
+| Die Nussknacker Sweet! | 3.00% | ~46 |
+| Close Quarters | 3.00% | ~46 |
+| Snake in the Grass | 3.00% | ~46 |
+| Target America | 3.00% | ~46 |
 | Climbing the Ladder | 2.00% | ~30 |
 | Liberté | 2.00% | ~30 |
 | No Stone Unturned | 2.00% | ~30 |
@@ -77,7 +77,7 @@ Rating: 4.39 (Ranked 687)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,514 (Ranked 156)  
+Progressed: 1,519 (Ranked 156)  
 Completed: 2 (0.13%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 2 (0.13%) (Ranked 154)
 | 2023-05-23 | 1,294 | 2 |
 | 2023-05-24 | 1,365 | 2 |
 | 2023-05-25 | 1,428 | 2 |
-| 2023-05-26 | 1,514 | 2 |
+| 2023-05-26 | 1,519 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

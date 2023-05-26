@@ -6,23 +6,23 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 14.00% | ~1,290 |
-| Burning City | 10.00% | ~921 |
-| A Spark | 10.00% | ~921 |
-| Banner over the Citadel | 8.00% | ~737 |
+| Devoured by Darkness | 14.00% | ~1,291 |
+| Burning City | 10.00% | ~922 |
+| A Spark | 10.00% | ~922 |
 | Mythic Choices | 8.00% | ~737 |
 | Defender's Heart | 8.00% | ~737 |
+| Banner over the Citadel | 7.00% | ~645 |
 | Queen's Gratitude | 7.00% | ~645 |
 | Fifth Crusade | 5.00% | ~461 |
 | Embrace of the Abyss | 4.00% | ~369 |
 | Path of the Angel | 4.00% | ~369 |
 | Demonic and Divine | 4.00% | ~369 |
-| Path of the Azata | 3.00% | ~276 |
-| Transformation | 3.00% | ~276 |
-| Great Upstart | 3.00% | ~276 |
-| Voice from Your Dreams | 3.00% | ~276 |
-| All Paths Open | 3.00% | ~276 |
-| Next-Door Play | 3.00% | ~276 |
+| Path of the Azata | 3.00% | ~277 |
+| Transformation | 3.00% | ~277 |
+| Great Upstart | 3.00% | ~277 |
+| Voice from Your Dreams | 3.00% | ~277 |
+| All Paths Open | 3.00% | ~277 |
+| Next-Door Play | 3.00% | ~277 |
 | Heart of the Fallen Land | 2.00% | ~184 |
 | The Legacy | 2.00% | ~184 |
 | Divide and Rule | 2.00% | ~184 |
@@ -45,8 +45,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Stay Underground | 1.00% | ~80 |
 | Sarkoris Will Be Green | 1.00% | ~80 |
 | Abyssal Conspiracy | 0.80% | ~74 |
-| The Final Threshold | 0.70% | ~64 |
-| End of Eternal Guard | 0.70% | ~64 |
+| The Final Threshold | 0.70% | ~65 |
+| End of Eternal Guard | 0.70% | ~65 |
 | This Wall Won't Fall | 0.70% | ~56 |
 | Not the Last Sarkorian | 0.70% | ~56 |
 | Path of the Dragon | 0.60% | ~55 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,213 (Ranked 110)  
+Progressed: 9,218 (Ranked 110)  
 Completed: 0 (0.00%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 0 (0.00%) (Ranked 204)
 | 2023-05-23 | 9,123 | 0 |
 | 2023-05-24 | 9,159 | 0 |
 | 2023-05-25 | 9,187 | 0 |
-| 2023-05-26 | 9,213 | 0 |
+| 2023-05-26 | 9,218 | 0 |
 ## Awards
 Max (Character Customization): 1,640  (Ranked 111)  
 Sum: 6,650 (Ranked 110)  

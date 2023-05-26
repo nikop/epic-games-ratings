@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 458,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -268,9 +268,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 887,
+  "EOS_Progressed": 888,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.24,
   "EosHistory": [
@@ -558,6 +558,11 @@
       "Time": "2023-05-26T13:10:35.7086653+00:00",
       "NumProgressed": 887,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-26T20:08:55.781541+00:00",
+      "NumProgressed": 888,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 43,
@@ -569,7 +574,7 @@
       "Name": "Demigod",
       "Percentage": 77,
       "XP": 150,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "DieInPermadeath",
@@ -585,7 +590,7 @@
       "Name": "Voices from the Past",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "Finish5SideMissions",
@@ -593,7 +598,7 @@
       "Name": "Helping Hand",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "FinishAllSideMissions",
@@ -625,7 +630,7 @@
       "Name": "Born to Drift",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "KillWithALargeShip",
@@ -633,7 +638,7 @@
       "Name": "The Great Destroyer",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "MasteryOfCombat",
@@ -649,7 +654,7 @@
       "Name": "Mastery of Rites",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "MasteryOfWeapons",
@@ -657,7 +662,7 @@
       "Name": "Mastery of Weapons",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "MissionActivateDish",
@@ -665,7 +670,7 @@
       "Name": "The Crimson Void",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "MissionAmaranthPart2",
@@ -681,7 +686,7 @@
       "Name": "Power Chord",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "MissionBuriedInATomb",
@@ -697,7 +702,7 @@
       "Name": "Payback",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "MissionDreamsOfThePast",
@@ -713,7 +718,7 @@
       "Name": "Full Arsenal",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "MissionEosReturn",
@@ -753,7 +758,7 @@
       "Name": "Safe Home",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -793,7 +798,7 @@
       "Name": "Another Life",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "MissionShipyard",
@@ -817,7 +822,7 @@
       "Name": "Disruption",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "MissionTheArmadaStrikes",
@@ -857,7 +862,7 @@
       "Name": "Crash Test",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "RiteOfTheHunt",
@@ -865,7 +870,7 @@
       "Name": "Huntress",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "RiteOfTheStar",
@@ -889,7 +894,7 @@
       "Name": "Phoenix",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "VisitAllLocations",
@@ -912,15 +917,15 @@
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 887,
+      "Progressed": 888,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-05-26T19:05:49.0160374+00:00",
-  "LastUpdate_AppInfo": "2023-05-19T19:11:40.2648469+00:00",
-  "LastUpdate_Ratings": "2023-05-26T18:59:45.9065713+00:00",
-  "LastUpdate_Achievements": "2023-05-26T19:05:49.0160648+00:00"
+  "LastChanged_Achievements": "2023-05-26T20:08:55.7815406+00:00",
+  "LastUpdate_AppInfo": "2023-05-26T19:59:25.4358985+00:00",
+  "LastUpdate_Ratings": "2023-05-26T20:02:47.0571512+00:00",
+  "LastUpdate_Achievements": "2023-05-26T20:08:55.7815726+00:00"
 }

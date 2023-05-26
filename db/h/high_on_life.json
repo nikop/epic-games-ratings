@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -208,9 +208,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22720,
+  "EOS_Progressed": 22721,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -918,6 +918,11 @@
       "Time": "2023-05-26T16:04:44.4371399+00:00",
       "NumProgressed": 22720,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-26T20:06:57.054167+00:00",
+      "NumProgressed": 22721,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 32,
@@ -945,7 +950,7 @@
       "Name": "Mods Please Ban",
       "Percentage": 77,
       "XP": 60,
-      "UsersEstimate": 17494
+      "UsersEstimate": 17495
     },
     {
       "ID": "ACH_ALL_LUGLOXES",
@@ -993,7 +998,7 @@
       "Name": "Bring A Knife to a Gun Fight",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 17267
+      "UsersEstimate": 17268
     },
     {
       "ID": "ACH_GET_LEZDUIT",
@@ -1049,7 +1054,7 @@
       "Name": "We\u0027re All Very Impressed, Trust Me",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 12950
+      "UsersEstimate": 12951
     },
     {
       "ID": "ACH_KILL_9TORG",
@@ -1081,7 +1086,7 @@
       "Name": "Hardest Battle In The Game",
       "Percentage": 22,
       "XP": 45,
-      "UsersEstimate": 4998
+      "UsersEstimate": 4999
     },
     {
       "ID": "ACH_KILL_KRUBIS",
@@ -1137,7 +1142,7 @@
       "Name": "We Paid For The Rights To Put A Whole Movie In Here",
       "Percentage": 12,
       "XP": 45,
-      "UsersEstimate": 2726
+      "UsersEstimate": 2727
     },
     {
       "ID": "ACH_NARR_WARPBASES",
@@ -1177,29 +1182,29 @@
       "Name": "Series Wrap on Suit-O",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 4998
+      "UsersEstimate": 4999
     }
   ],
   "AchievementSets": [
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 22720,
+      "Progressed": 22721,
       "Completed": 8
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 13,
-      "Completed": 13
+      "Progressed": 14,
+      "Completed": 14
     }
   ],
   "FirstSeen": "2022-12-13T13:12:38.9039254+00:00",
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-05-18T06:57:32.9581513+00:00",
-  "LastChanged_Achievements": "2023-05-26T19:03:47.8920589+00:00",
-  "LastUpdate_AppInfo": "2023-05-19T18:59:35.4420325+00:00",
-  "LastUpdate_Ratings": "2023-05-26T18:57:49.5972772+00:00",
-  "LastUpdate_Achievements": "2023-05-26T19:03:47.8920833+00:00"
+  "LastChanged_Achievements": "2023-05-26T20:06:57.0541661+00:00",
+  "LastUpdate_AppInfo": "2023-05-26T19:57:45.9981946+00:00",
+  "LastUpdate_Ratings": "2023-05-26T20:00:52.9173204+00:00",
+  "LastUpdate_Achievements": "2023-05-26T20:06:57.0541947+00:00"
 }

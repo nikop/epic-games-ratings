@@ -6,30 +6,30 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,983 |
-| That's a Grand Army | 8.00% | ~3,541 |
-| That is mine! | 8.00% | ~3,541 |
-| Victorious! | 8.00% | ~3,541 |
-| Brothers in Arms | 6.00% | ~2,655 |
-| That's a Grand Navy | 6.00% | ~2,655 |
-| Seriously?! | 6.00% | ~2,655 |
-| For the Glory | 5.00% | ~2,213 |
-| Cold War | 4.00% | ~1,770 |
-| True Catholic | 4.00% | ~1,770 |
-| Defender of the Faith | 3.00% | ~1,328 |
-| It's all about the money | 3.00% | ~1,328 |
-| Respected | 3.00% | ~1,328 |
-| Truly Divine Ruler | 3.00% | ~1,328 |
-| Agressive Expander | 2.00% | ~885 |
-| Blockader | 2.00% | ~885 |
-| Combined Arms | 2.00% | ~885 |
-| Double the Love | 2.00% | ~885 |
-| Gentle Persuasion | 2.00% | ~885 |
-| It's all about luck | 2.00% | ~885 |
-| Queen of Conquest | 2.00% | ~885 |
-| Royal Authority | 2.00% | ~885 |
-| The Princess is in this Castle | 2.00% | ~885 |
-| Total Control | 2.00% | ~885 |
+| Until death do us apart | 9.00% | ~3,988 |
+| That's a Grand Army | 8.00% | ~3,545 |
+| That is mine! | 8.00% | ~3,545 |
+| Victorious! | 8.00% | ~3,545 |
+| Brothers in Arms | 6.00% | ~2,659 |
+| That's a Grand Navy | 6.00% | ~2,659 |
+| Seriously?! | 6.00% | ~2,659 |
+| For the Glory | 5.00% | ~2,216 |
+| Cold War | 4.00% | ~1,773 |
+| True Catholic | 4.00% | ~1,773 |
+| Defender of the Faith | 3.00% | ~1,329 |
+| It's all about the money | 3.00% | ~1,329 |
+| Respected | 3.00% | ~1,329 |
+| Truly Divine Ruler | 3.00% | ~1,329 |
+| Agressive Expander | 2.00% | ~886 |
+| Blockader | 2.00% | ~886 |
+| Combined Arms | 2.00% | ~886 |
+| Double the Love | 2.00% | ~886 |
+| Gentle Persuasion | 2.00% | ~886 |
+| It's all about luck | 2.00% | ~886 |
+| Queen of Conquest | 2.00% | ~886 |
+| Royal Authority | 2.00% | ~886 |
+| The Princess is in this Castle | 2.00% | ~886 |
+| Total Control | 2.00% | ~886 |
 | All That's Thine Shall Be Mine | 1.00% | ~443 |
 | Azur semé de lis or | 1.00% | ~443 |
 | Bright Spark | 1.00% | ~443 |
@@ -37,22 +37,22 @@ Number of Ratings: 8,414  (23.09.2022)
 | Factionalism | 1.00% | ~443 |
 | A Golden Empire | 1.00% | ~443 |
 | My armies are invincible! | 1.00% | ~443 |
-| The Five Colonies | 0.90% | ~398 |
-| This navy can take it all | 0.90% | ~398 |
-| The Emperors new clothes | 0.80% | ~354 |
-| Isn't this the way to India? | 0.80% | ~354 |
-| Market Control | 0.80% | ~354 |
+| The Five Colonies | 0.90% | ~399 |
+| This navy can take it all | 0.90% | ~399 |
+| The Emperors new clothes | 0.80% | ~355 |
+| Isn't this the way to India? | 0.80% | ~355 |
+| Market Control | 0.80% | ~355 |
 | Down Under | 0.70% | ~310 |
 | Trustworthy | 0.70% | ~310 |
 | Electable! | 0.60% | ~266 |
 | Time Bandit | 0.60% | ~266 |
-| All belongs to Mother Russia | 0.50% | ~221 |
-| At every continent | 0.50% | ~221 |
-| Early-Modern Warfare | 0.50% | ~221 |
-| One Family to Rule them All | 0.50% | ~221 |
-| Populists in Government | 0.50% | ~221 |
-| The pen is mightier than the sword | 0.50% | ~221 |
-| This is My Faith | 0.50% | ~221 |
+| All belongs to Mother Russia | 0.50% | ~222 |
+| At every continent | 0.50% | ~222 |
+| Early-Modern Warfare | 0.50% | ~222 |
+| One Family to Rule them All | 0.50% | ~222 |
+| Populists in Government | 0.50% | ~222 |
+| The pen is mightier than the sword | 0.50% | ~222 |
+| This is My Faith | 0.50% | ~222 |
 | Absolutely | 0.40% | ~177 |
 | Dude, Where's my Boat? | 0.40% | ~177 |
 | Grand Coalition | 0.40% | ~177 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,258 (Ranked 79)  
+Progressed: 44,314 (Ranked 79)  
 Completed: 0 (0.00%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -397,10 +397,10 @@ Completed: 0 (0.00%) (Ranked 204)
 | 2023-05-23 | 42,594 | 0 |
 | 2023-05-24 | 43,149 | 0 |
 | 2023-05-25 | 43,718 | 0 |
-| 2023-05-26 | 44,258 | 0 |
+| 2023-05-26 | 44,314 | 0 |
 ## Awards
 Max (Educational): 5,287  (Ranked 60)  
-Sum: 43,773 (Ranked 27)  
+Sum: 43,791 (Ranked 27)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -408,8 +408,8 @@ Diff (max vs sum): 33
 | This game is Highly Recommended | 5,075 |
 | This game has Challenging Combat | 5,043 |
 | This game is Extremely Fun | 5,029 |
-| This game has Diverse Characters | 4,982 |
-| This game is Relaxing | 4,916 |
+| This game has Diverse Characters | 4,990 |
+| This game is Relaxing | 4,926 |
 | This game has Competitive Players | 4,760 |
 | This game has Amazing Storytelling | 4,511 |
 | This game has Amazing Characters | 4,170 |
@@ -546,4 +546,4 @@ Diff (max vs sum): 33
 | 2023-05-23 | 4.68 | - | 5,271 | 43,683 |
 | 2023-05-24 | 4.68 | - | 5,277 | 43,722 |
 | 2023-05-25 | 4.68 | - | 5,281 | 43,757 |
-| 2023-05-26 | 4.68 | - | 5,287 | 43,773 |
+| 2023-05-26 | 4.68 | - | 5,287 | 43,791 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -185,7 +185,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1476,
+  "EOS_Progressed": 1477,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
@@ -745,6 +745,11 @@
       "Time": "2023-05-26T13:05:36.1364119+00:00",
       "NumProgressed": 1476,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-05-26T20:03:46.2092989+00:00",
+      "NumProgressed": 1477,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 30,
@@ -756,7 +761,7 @@
       "Name": "Become King",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "Collect20Gold",
@@ -772,7 +777,7 @@
       "Name": "Collect Iron Ore",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "Collect50MonsterParts",
@@ -842,9 +847,9 @@
       "ID": "CompleteHunterFaction",
       "SetID": "9lj35g4",
       "Name": "Complete Ranger Faction",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 295
+      "UsersEstimate": 281
     },
     {
       "ID": "CompleteStoryDM",
@@ -892,7 +897,7 @@
       "Name": "Fix the Travellers Wagon",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "GetRangedWeapon",
@@ -908,7 +913,7 @@
       "Name": "Two Handed Weapon",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "Kill25Bugs",
@@ -930,9 +935,9 @@
       "ID": "Kill25Mozi",
       "SetID": "9lj35g4",
       "Name": "Defeat 25 Mozis",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 635
+      "UsersEstimate": 650
     },
     {
       "ID": "MeetTheMoles",
@@ -956,7 +961,7 @@
       "Name": "Kitchen Ready To Cook",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "RepairSmith",
@@ -995,22 +1000,22 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 1476,
+      "Progressed": 1477,
       "Completed": 6
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 117,
-      "Completed": 117
+      "Progressed": 118,
+      "Completed": 118
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-04-02T20:59:05.8070796+00:00",
-  "LastChanged_Achievements": "2023-05-26T19:00:44.1007179+00:00",
-  "LastUpdate_AppInfo": "2023-05-19T18:59:56.3670256+00:00",
-  "LastUpdate_Ratings": "2023-05-26T18:58:10.2461754+00:00",
-  "LastUpdate_Achievements": "2023-05-26T19:00:44.1007385+00:00"
+  "LastChanged_Achievements": "2023-05-26T20:03:46.2092984+00:00",
+  "LastUpdate_AppInfo": "2023-05-26T19:58:05.4256217+00:00",
+  "LastUpdate_Ratings": "2023-05-26T20:01:13.9186159+00:00",
+  "LastUpdate_Achievements": "2023-05-26T20:03:46.209323+00:00"
 }

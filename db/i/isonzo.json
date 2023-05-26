@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -580,9 +580,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5865,
+  "EOS_Progressed": 5867,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1525,6 +1525,11 @@
       "Time": "2023-05-26T19:05:27.1756046+00:00",
       "NumProgressed": 5865,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-26T20:08:34.3314037+00:00",
+      "NumProgressed": 5867,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -1544,7 +1549,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 1290
+      "UsersEstimate": 1291
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -1552,7 +1557,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 2698
+      "UsersEstimate": 2699
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -1616,7 +1621,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -1680,7 +1685,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -1728,7 +1733,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3167
+      "UsersEstimate": 3168
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -1784,7 +1789,7 @@
       "Name": "Silver Lining",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 1642
+      "UsersEstimate": 1643
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -1824,7 +1829,7 @@
       "Name": "The Italian Job",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -1864,7 +1869,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3108
+      "UsersEstimate": 3110
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -1872,7 +1877,7 @@
       "Name": "Uomo Universale",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -1888,14 +1893,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 3050
+      "UsersEstimate": 3051
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5865,
+      "Progressed": 5867,
       "Completed": 8
     }
   ],
@@ -1903,8 +1908,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-26T18:57:12.1585701+00:00",
-  "LastChanged_Achievements": "2023-05-26T19:05:27.1756042+00:00",
-  "LastUpdate_AppInfo": "2023-05-19T18:57:10.2290416+00:00",
-  "LastUpdate_Ratings": "2023-05-26T18:57:12.1585711+00:00",
-  "LastUpdate_Achievements": "2023-05-26T19:05:27.1756362+00:00"
+  "LastChanged_Achievements": "2023-05-26T20:08:34.3314033+00:00",
+  "LastUpdate_AppInfo": "2023-05-26T19:57:15.2806383+00:00",
+  "LastUpdate_Ratings": "2023-05-26T20:00:19.9784391+00:00",
+  "LastUpdate_Achievements": "2023-05-26T20:08:34.3314415+00:00"
 }

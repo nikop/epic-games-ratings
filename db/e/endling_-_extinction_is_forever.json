@@ -4,8 +4,8 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 415,
+  "EOS_Progressed": 416,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.72,
   "EosHistory": [
@@ -291,6 +291,11 @@
       "Time": "2023-05-25T21:05:22.1189824+00:00",
       "NumProgressed": 415,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-26T20:08:32.451642+00:00",
+      "NumProgressed": 416,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -342,7 +347,7 @@
       "Name": "A Friend in Need",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "TROP006",
@@ -350,7 +355,7 @@
       "Name": "Maternity",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "TROP007",
@@ -366,7 +371,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "TROP009",
@@ -374,7 +379,7 @@
       "Name": "Surviving",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "TROP010",
@@ -494,7 +499,7 @@
       "Name": "You Can Pet The Fox",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "TROP025",
@@ -525,7 +530,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 415,
+      "Progressed": 416,
       "Completed": 3
     }
   ],
@@ -533,8 +538,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-05-26T19:05:25.2528789+00:00",
-  "LastUpdate_AppInfo": "2023-05-19T19:02:12.8901211+00:00",
-  "LastUpdate_Ratings": "2023-05-26T18:58:40.3161667+00:00",
-  "LastUpdate_Achievements": "2023-05-26T19:05:25.2528968+00:00"
+  "LastChanged_Achievements": "2023-05-26T20:08:32.4516414+00:00",
+  "LastUpdate_AppInfo": "2023-05-26T19:58:32.6373889+00:00",
+  "LastUpdate_Ratings": "2023-05-26T20:01:44.5083217+00:00",
+  "LastUpdate_Achievements": "2023-05-26T20:08:32.451661+00:00"
 }

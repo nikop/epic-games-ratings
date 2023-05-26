@@ -3,12 +3,12 @@
   "Name": "The Drone Racing League\u00AE",
   "ProductSlug": "the-drone-racing-league-simulator",
   "Ranking_Rating": 505,
-  "Ranking_Popularity": 372,
+  "Ranking_Popularity": 373,
   "Ranking_PopularitySum": 300,
   "Ranking_EOS_Progress": 423,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-08-04T17:00:00+00:00",
     "PcReleaseDate": "2017-06-16T15:00:00+00:00",
@@ -564,7 +564,7 @@
   "FirstSeen": "2022-07-22T20:20:23.4862856+00:00",
   "FirstSeenRating": "2022-07-30T13:30:57.2183097+00:00",
   "LastChanged": "2023-05-26T14:57:57.3428616+00:00",
-  "LastUpdate_AppInfo": "2023-05-19T18:58:58.6202287+00:00",
-  "LastUpdate_Ratings": "2023-05-26T18:57:15.2710619+00:00",
-  "LastUpdate_Achievements": "2023-05-26T19:04:14.1781412+00:00"
+  "LastUpdate_AppInfo": "2023-05-26T19:57:18.2618018+00:00",
+  "LastUpdate_Ratings": "2023-05-26T20:00:23.3079912+00:00",
+  "LastUpdate_Achievements": "2023-05-26T20:07:12.3757685+00:00"
 }

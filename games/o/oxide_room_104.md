@@ -4,39 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brute force | 91.00% | ~20 |
-| What's going on here? | 86.00% | ~19 |
-| Nimble fingers | 68.00% | ~15 |
-| Room 104 | 68.00% | ~15 |
-| Face to face | 68.00% | ~15 |
-| Let's play a game… | 64.00% | ~14 |
-| Now or never | 64.00% | ~14 |
-| First aid | 55.00% | ~12 |
-| Soundtrack | 50.00% | ~11 |
-| Antidote | 45.00% | ~10 |
-| Pick the right door | 27.00% | ~6 |
-| On the right path | 23.00% | ~5 |
-| I'm close now | 23.00% | ~5 |
-| Failed attempt | 23.00% | ~5 |
-| The real escape | 23.00% | ~5 |
-| Nightmare in the kitchen | 23.00% | ~5 |
-| Good choice | 23.00% | ~5 |
-| It can't be true | 23.00% | ~5 |
-| Take the long way round | 23.00% | ~5 |
-| One-way | 23.00% | ~5 |
-| The third floor | 23.00% | ~5 |
-| Born again | 18.00% | ~4 |
-| 373 | 14.00% | ~3 |
-| He who seeks, finds! | 14.00% | ~3 |
+| Brute force | 91.00% | ~21 |
+| What's going on here? | 87.00% | ~20 |
+| Nimble fingers | 70.00% | ~16 |
+| Room 104 | 70.00% | ~16 |
+| Face to face | 70.00% | ~16 |
+| Let's play a game… | 65.00% | ~15 |
+| Now or never | 65.00% | ~15 |
+| First aid | 57.00% | ~13 |
+| Soundtrack | 52.00% | ~12 |
+| Antidote | 48.00% | ~11 |
+| Pick the right door | 26.00% | ~6 |
+| On the right path | 22.00% | ~5 |
+| I'm close now | 22.00% | ~5 |
+| Failed attempt | 22.00% | ~5 |
+| The real escape | 22.00% | ~5 |
+| Nightmare in the kitchen | 22.00% | ~5 |
+| Good choice | 22.00% | ~5 |
+| It can't be true | 22.00% | ~5 |
+| Take the long way round | 22.00% | ~5 |
+| One-way | 22.00% | ~5 |
+| The third floor | 22.00% | ~5 |
+| Born again | 17.00% | ~4 |
+| 373 | 13.00% | ~3 |
+| He who seeks, finds! | 13.00% | ~3 |
 | The experiment | 9.00% | ~2 |
 | Matthew's revenge | 9.00% | ~2 |
-| Eva's diary | 5.00% | ~1 |
-| Horror book | 5.00% | ~1 |
+| Eva's diary | 4.00% | ~1 |
+| Horror book | 4.00% | ~1 |
 | Matthew's mistakes | 0.00% | ~0 |
 | A dark past | 0.00% | ~0 |
 | Sly as a fox | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22 (Ranked 319)  
+Progressed: 23 (Ranked 319)  
 Completed: 0 (0.00%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -53,4 +53,4 @@ Completed: 0 (0.00%) (Ranked 204)
 | 2023-05-23 | 19 | 0 |
 | 2023-05-24 | 20 | 0 |
 | 2023-05-25 | 21 | 0 |
-| 2023-05-26 | 22 | 0 |
+| 2023-05-26 | 23 | 0 |

@@ -6,15 +6,15 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~4,034 |
+| First Step | 70.00% | ~4,035 |
 | Leader | 60.00% | ~3,458 |
-| Explorer | 53.00% | ~3,054 |
+| Explorer | 53.00% | ~3,055 |
 | Healer | 52.00% | ~2,997 |
 | Aspiring Inventor | 44.00% | ~2,536 |
 | Adventurer | 41.00% | ~2,363 |
 | Famous Healer | 38.00% | ~2,190 |
 | Local Leader | 35.00% | ~2,017 |
-| New Opportunities | 34.00% | ~1,959 |
+| New Opportunities | 34.00% | ~1,960 |
 | Famous Explorer | 33.00% | ~1,902 |
 | Energized | 33.00% | ~1,902 |
 | The Long Haul | 33.00% | ~1,902 |
@@ -35,7 +35,7 @@ Number of Ratings: 836  (23.09.2022)
 | Big Game Hunter | 17.00% | ~980 |
 | Friendly | 16.00% | ~922 |
 | Spreading Influence | 16.00% | ~922 |
-| Around the World | 15.00% | ~864 |
+| Around the World | 15.00% | ~865 |
 | Bookworm | 14.00% | ~807 |
 | Famous Adventurer | 13.00% | ~749 |
 | Prepared for Anything | 13.00% | ~749 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Finnished | 0.20% | ~12 |
 | Customized calamities | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,763 (Ranked 122)  
+Progressed: 5,764 (Ranked 122)  
 Completed: 0 (0.00%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 0 (0.00%) (Ranked 204)
 | 2023-05-23 | 5,653 | 0 |
 | 2023-05-24 | 5,686 | 0 |
 | 2023-05-25 | 5,724 | 0 |
-| 2023-05-26 | 5,763 | 0 |
+| 2023-05-26 | 5,764 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 325)  
 Sum: 654 (Ranked 271)  

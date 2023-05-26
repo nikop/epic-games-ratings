@@ -2,10 +2,10 @@
   "ID": "e1d9c285b5214c09b1bd096b63d2d28c",
   "Name": "Bloodshore",
   "ProductSlug": "bloodshore-939cb0",
-  "Ranking_EOS_Progress": 256,
+  "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
     "PcReleaseDate": "2021-11-03T17:00:00+00:00",
@@ -27,11 +27,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 150,
+  "EOS_Progressed": 151,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2,
+  "EOS_Completed_Percentage": 1.99,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:37.2601776+00:00",
@@ -102,6 +102,11 @@
       "Time": "2023-05-25T00:06:35.7155982+00:00",
       "NumProgressed": 150,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-05-26T20:08:46.9549397+00:00",
+      "NumProgressed": 151,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 17,
@@ -111,9 +116,9 @@
       "ID": "bromance",
       "SetID": "84ad177",
       "Name": "Bromance",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 45
     },
     {
       "ID": "comedy_killer",
@@ -127,7 +132,7 @@
       "ID": "congratulations_you_are_a_sadist",
       "SetID": "84ad177",
       "Name": "Congratulations, you are a sadist",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 100,
       "UsersEstimate": 76
     },
@@ -137,7 +142,7 @@
       "Name": "Deathlooper",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "good_job_nerd",
@@ -153,7 +158,7 @@
       "Name": "A leader, you are not",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "lootaphilia",
@@ -161,7 +166,7 @@
       "Name": "Lootaphilia",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "maybe_you_should_give_it_another_go",
@@ -193,7 +198,7 @@
       "Name": "Super Seducer",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "superstar_crossed_lovers",
@@ -201,7 +206,7 @@
       "Name": "Superstar-crossed lovers",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "thats_my_boy",
@@ -209,15 +214,15 @@
       "Name": "That\u0027s my boy!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "this_wont_end_well",
       "SetID": "84ad177",
       "Name": "This won\u0027t end well...",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 48
     },
     {
       "ID": "tried_to_warn_you",
@@ -231,9 +236,9 @@
       "ID": "um_ok",
       "SetID": "84ad177",
       "Name": "Um, ok...",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 69
     },
     {
       "ID": "used_to_think_i_was_indecisive",
@@ -248,7 +253,7 @@
     {
       "ID": "84ad177",
       "IsBase": true,
-      "Progressed": 150,
+      "Progressed": 151,
       "Completed": 3
     }
   ],
@@ -256,8 +261,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2023-05-26T19:05:40.0802943+00:00",
-  "LastUpdate_AppInfo": "2023-05-19T19:09:48.2887695+00:00",
-  "LastUpdate_Ratings": "2023-05-26T18:59:42.096359+00:00",
-  "LastUpdate_Achievements": "2023-05-26T19:05:40.0803054+00:00"
+  "LastChanged_Achievements": "2023-05-26T20:08:46.9549392+00:00",
+  "LastUpdate_AppInfo": "2023-05-26T19:59:22.1546983+00:00",
+  "LastUpdate_Ratings": "2023-05-26T20:02:43.2123812+00:00",
+  "LastUpdate_Achievements": "2023-05-26T20:08:46.9549521+00:00"
 }

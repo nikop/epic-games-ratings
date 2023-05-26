@@ -16,8 +16,8 @@
 | Lock, Stock, And Barrel | 41.00% | ~104 |
 | Open Sesame | 41.00% | ~104 |
 | Sticky Fingers | 41.00% | ~104 |
+| Knives Out | 41.00% | ~104 |
 | Back In The Saddle | 40.00% | ~102 |
-| Knives Out | 40.00% | ~102 |
 | Land, Ho! | 39.00% | ~99 |
 | No Man Is An Island | 37.00% | ~94 |
 | At Wits' End | 36.00% | ~91 |

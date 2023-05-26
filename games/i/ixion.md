@@ -20,10 +20,10 @@ Rating: 4.56 (Ranked 451)
 | Ain't Nobody Got Time for That | 3.00% | ~65 |
 | The Ship of Theseus | 3.00% | ~65 |
 | Hope Seeker | 3.00% | ~65 |
-| Exceeding Capacity | 2.00% | ~43 |
-| Power Outage | 2.00% | ~43 |
-| Access Granted | 2.00% | ~43 |
-| Please Make it Stop! | 2.00% | ~43 |
+| Exceeding Capacity | 2.00% | ~44 |
+| Power Outage | 2.00% | ~44 |
+| Access Granted | 2.00% | ~44 |
+| Please Make it Stop! | 2.00% | ~44 |
 | Man's Best Friend | 1.00% | ~22 |
 | Oats | 1.00% | ~22 |
 | Sightseeing | 1.00% | ~22 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 451)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,173 (Ranked 144)  
+Progressed: 2,176 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 0 (0.00%) (Ranked 204)
 | 2023-05-23 | 2,115 | 0 |
 | 2023-05-24 | 2,134 | 0 |
 | 2023-05-25 | 2,154 | 0 |
-| 2023-05-26 | 2,173 | 0 |
+| 2023-05-26 | 2,176 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

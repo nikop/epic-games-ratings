@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-11-15T19:00:00+00:00",
     "PcReleaseDate": "2021-08-06T12:00:00+00:00",
@@ -159,9 +159,9 @@
       "ID": "FULL_IMPROVEMENTS",
       "SetID": "b6f796g",
       "Name": "Best Self",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 29
     },
     {
       "ID": "IN_LOVE",
@@ -175,9 +175,9 @@
       "ID": "JUNGLE_HIDDEN",
       "SetID": "b6f796g",
       "Name": "Through The Vines",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "KINGDOM_HIDDEN",
@@ -223,9 +223,9 @@
       "ID": "NIGHT_FOREST_HIDDEN",
       "SetID": "b6f796g",
       "Name": "Night Air",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "OLD_AGE_REACHED",
@@ -312,8 +312,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.7063169+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.5274456+00:00",
   "LastChanged": "2023-03-31T05:57:26.706317+00:00",
-  "LastChanged_Achievements": "2023-05-26T19:05:19.674641+00:00",
-  "LastUpdate_AppInfo": "2023-05-19T18:59:46.8169935+00:00",
-  "LastUpdate_Ratings": "2023-05-26T18:58:02.1870834+00:00",
-  "LastUpdate_Achievements": "2023-05-26T19:05:19.6746597+00:00"
+  "LastChanged_Achievements": "2023-05-26T20:08:26.9010022+00:00",
+  "LastUpdate_AppInfo": "2023-05-26T19:57:57.8345895+00:00",
+  "LastUpdate_Ratings": "2023-05-26T20:01:04.8234705+00:00",
+  "LastUpdate_Achievements": "2023-05-26T20:08:26.9010237+00:00"
 }

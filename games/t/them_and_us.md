@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Alone with Them | 67.00% | ~82 |
-| Forced to Kill | 67.00% | ~82 |
+| Alone with Them | 67.00% | ~83 |
+| Forced to Kill | 67.00% | ~83 |
 | A Night To Remember | 33.00% | ~41 |
-| Safe...For now? | 28.00% | ~34 |
-| Open Sesame | 22.00% | ~27 |
+| Safe...For now? | 27.00% | ~33 |
+| Open Sesame | 23.00% | ~29 |
 | Them and Us | 14.00% | ~17 |
 | OUTRAGE | 14.00% | ~17 |
 | What have I done!? | 14.00% | ~17 |
 | The Cultists | 12.00% | ~15 |
-| Alone In The Dark | 11.00% | ~14 |
 | This Coffin Has Your Name On It! | 11.00% | ~14 |
+| Alone In The Dark | 10.00% | ~12 |
 | Parasite Exterminated | 10.00% | ~12 |
 | The Forgotten Tower | 10.00% | ~12 |
 | Lover of classics | 8.00% | ~10 |
 | Rest In Peace | 8.00% | ~10 |
-| Modern Player | 7.00% | ~9 |
 | The Curse Is Real | 7.00% | ~9 |
 | Trapped | 7.00% | ~9 |
-| What A Mansion | 7.00% | ~9 |
+| Modern Player | 6.00% | ~7 |
 | I Am The Gate Keeper! | 6.00% | ~7 |
+| What A Mansion | 6.00% | ~7 |
 | Researcher | 5.00% | ~6 |
 | The bus stop | 4.00% | ~5 |
 | Run and Gun | 3.00% | ~4 |
@@ -45,7 +45,7 @@
 | Pet The Dog | 0.80% | ~1 |
 | Survival Horror | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 123 (Ranked 259)  
+Progressed: 124 (Ranked 259)  
 Completed: 1 (0.81%) (Ranked 94)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,7 +65,7 @@ Completed: 1 (0.81%) (Ranked 94)
 | 2023-05-23 | 119 | 1 |
 | 2023-05-24 | 121 | 1 |
 | 2023-05-25 | 122 | 1 |
-| 2023-05-26 | 123 | 1 |
+| 2023-05-26 | 124 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

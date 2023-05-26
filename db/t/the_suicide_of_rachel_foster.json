@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 30,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
     "PcReleaseDate": "2020-02-19T00:00:00+00:00",
@@ -242,11 +242,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1062,
+  "EOS_Progressed": 1063,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 4.9,
+  "EOS_Completed_Percentage": 4.89,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:57.7032048+00:00",
@@ -682,6 +682,11 @@
       "Time": "2023-05-26T19:05:37.0735129+00:00",
       "NumProgressed": 1062,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-05-26T20:08:44.2433385+00:00",
+      "NumProgressed": 1063,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 11,
@@ -709,7 +714,7 @@
       "Name": "Screwdriver",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -733,7 +738,7 @@
       "Name": "Alone",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "ACH_FineGioco",
@@ -741,7 +746,7 @@
       "Name": "All together, again",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -749,7 +754,7 @@
       "Name": "Pack Rat",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -757,7 +762,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -771,24 +776,24 @@
       "ID": "ACH_SussurriHotel",
       "SetID": "7a9m7mj",
       "Name": "Ghost Hunters",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 425
+      "UsersEstimate": 436
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1062,
+      "Progressed": 1063,
       "Completed": 52
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-04-30T21:59:51.1763772+00:00",
-  "LastChanged_Achievements": "2023-05-26T19:05:37.0735125+00:00",
-  "LastUpdate_AppInfo": "2023-05-19T19:12:14.3771027+00:00",
-  "LastUpdate_Ratings": "2023-05-26T18:59:48.4618116+00:00",
-  "LastUpdate_Achievements": "2023-05-26T19:05:37.0735217+00:00"
+  "LastChanged_Achievements": "2023-05-26T20:08:44.2433379+00:00",
+  "LastUpdate_AppInfo": "2023-05-26T19:59:28.0683903+00:00",
+  "LastUpdate_Ratings": "2023-05-26T20:02:50.0388493+00:00",
+  "LastUpdate_Achievements": "2023-05-26T20:08:44.243351+00:00"
 }

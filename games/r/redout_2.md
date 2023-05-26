@@ -15,9 +15,9 @@ Rating: 4.45 (Ranked 606)
 | Suit up | 16.00% | ~158 |
 | Walked like an Egyptian | 15.00% | ~148 |
 | Ride in the rising sun | 15.00% | ~148 |
+| Martian explorer | 12.00% | ~118 |
 | Rookie No-No More | 12.00% | ~118 |
 | Running at the speed of sound | 12.00% | ~118 |
-| Martian explorer | 11.00% | ~108 |
 | To the core | 9.00% | ~89 |
 | Blurred photofinish | 9.00% | ~89 |
 | EZ game EZ life | 7.00% | ~69 |

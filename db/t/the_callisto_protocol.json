@@ -428,9 +428,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13697,
+  "EOS_Progressed": 13708,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 899,
+  "EOS_NewPlayers": 897,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1663,6 +1663,11 @@
       "Time": "2023-05-26T19:03:23.2904517+00:00",
       "NumProgressed": 13697,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-26T20:06:32.5145047+00:00",
+      "NumProgressed": 13708,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -1706,7 +1711,7 @@
       "Name": "Flesh Wound",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -1864,9 +1869,9 @@
       "ID": "STORY_COLDOPEN",
       "SetID": "4hj6d86",
       "Name": "The Outer Way",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 548
+      "UsersEstimate": 685
     },
     {
       "ID": "STORY_ESCAPE",
@@ -1920,9 +1925,9 @@
       "ID": "STORY_TOWER",
       "SetID": "4hj6d86",
       "Name": "Full Circle",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 110
     },
     {
       "ID": "STORY_TUNNELS",
@@ -1986,20 +1991,20 @@
       "Name": "Big Spender",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13697,
+      "Progressed": 13708,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1623,
+      "Progressed": 1634,
       "Completed": 29
     }
   ],
@@ -2007,8 +2012,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-23T19:57:59.4143533+00:00",
-  "LastChanged_Achievements": "2023-05-26T19:03:23.2904512+00:00",
-  "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-26T18:57:40.217723+00:00",
-  "LastUpdate_Achievements": "2023-05-26T19:03:23.3009949+00:00"
+  "LastChanged_Achievements": "2023-05-26T20:06:32.5145041+00:00",
+  "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
+  "LastUpdate_Ratings": "2023-05-26T20:00:44.5573495+00:00",
+  "LastUpdate_Achievements": "2023-05-26T20:06:32.5145424+00:00"
 }

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Shard | 80.00% | ~140 |
+| First Shard | 81.00% | ~142 |
 | Found the Healer | 33.00% | ~58 |
 | Second Shard | 10.00% | ~18 |
 | Champion of Kalevala | 9.00% | ~16 |

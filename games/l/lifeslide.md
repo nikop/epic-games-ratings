@@ -21,14 +21,14 @@
 | Spring Air | 13.00% | ~41 |
 | Alive | 10.00% | ~32 |
 | Cut The Air | 10.00% | ~32 |
+| Best Self | 9.00% | ~29 |
 | What Are The Chances? | 9.00% | ~29 |
 | Through The Hoop | 8.00% | ~25 |
-| Best Self | 8.00% | ~25 |
 | Over The Rooftops | 8.00% | ~25 |
+| Night Air | 7.00% | ~22 |
 | All The Pieces | 6.00% | ~19 |
+| Through The Vines | 6.00% | ~19 |
 | Under And Over | 6.00% | ~19 |
-| Night Air | 6.00% | ~19 |
-| Through The Vines | 5.00% | ~16 |
 | Take 'em For a Spin | 4.00% | ~13 |
 | Parallelogram | 4.00% | ~13 |
 | Welcome to The Jungle | 3.00% | ~10 |

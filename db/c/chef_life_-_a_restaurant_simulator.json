@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 214,
+  "EOS_Progressed": 215,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
@@ -854,6 +854,11 @@
       "Time": "2023-05-26T15:03:14.5218464+00:00",
       "NumProgressed": 214,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T20:05:25.0843191+00:00",
+      "NumProgressed": 215,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -911,9 +916,9 @@
       "ID": "BistroSet",
       "SetID": "d1bm05f",
       "Name": "French Flair",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 43
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -1089,7 +1094,7 @@
       "Name": "S is for Scrumptious",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ServiceMaxClient",
@@ -1121,7 +1126,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "TrattoriaSet",
@@ -1184,7 +1189,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 214,
+      "Progressed": 215,
       "Completed": 0
     }
   ],
@@ -1192,8 +1197,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-26T19:02:24.4508916+00:00",
-  "LastUpdate_AppInfo": "2023-05-19T18:59:59.318416+00:00",
-  "LastUpdate_Ratings": "2023-05-26T18:58:13.1161536+00:00",
-  "LastUpdate_Achievements": "2023-05-26T19:02:24.4509201+00:00"
+  "LastChanged_Achievements": "2023-05-26T20:05:25.0843187+00:00",
+  "LastUpdate_AppInfo": "2023-05-26T19:58:08.1610761+00:00",
+  "LastUpdate_Ratings": "2023-05-26T20:01:17.050394+00:00",
+  "LastUpdate_Achievements": "2023-05-26T20:05:25.0843542+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -21,9 +21,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 936,
+  "EOS_Progressed": 940,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 934,
+  "EOS_NewPlayers": 938,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -506,6 +506,11 @@
       "Time": "2023-05-26T18:02:31.6191905+00:00",
       "NumProgressed": 936,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T20:05:28.453725+00:00",
+      "NumProgressed": 940,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -517,7 +522,7 @@
       "Name": "Aggressor",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "AI_DRAW",
@@ -541,7 +546,7 @@
       "Name": "Whoops",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "CONQUEROR",
@@ -549,7 +554,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -573,7 +578,7 @@
       "Name": "Face-To-Screen-To-Face",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "FEUD_APPRENTICE",
@@ -597,7 +602,7 @@
       "Name": "Novice",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 346
+      "UsersEstimate": 348
     },
     {
       "ID": "GLOVE_SLAP",
@@ -621,7 +626,7 @@
       "Name": "Grasshopper",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 552
+      "UsersEstimate": 555
     },
     {
       "ID": "GUARD_MAKER",
@@ -692,14 +697,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 936,
+      "Progressed": 940,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-05-26T19:02:27.9107513+00:00",
+  "LastChanged_Achievements": "2023-05-26T20:05:28.4537245+00:00",
   "LastUpdate_AppInfo": "2023-05-23T13:57:02.9194307+00:00",
-  "LastUpdate_Ratings": "2023-05-26T18:56:54.1751552+00:00",
-  "LastUpdate_Achievements": "2023-05-26T19:02:27.9107657+00:00"
+  "LastUpdate_Ratings": "2023-05-26T20:00:01.3797852+00:00",
+  "LastUpdate_Achievements": "2023-05-26T20:05:28.4537431+00:00"
 }

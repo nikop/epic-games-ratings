@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1514,
+  "EOS_Progressed": 1519,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 703,
+  "EOS_NewPlayers": 706,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1507,6 +1507,11 @@
       "Time": "2023-05-26T19:05:27.0135839+00:00",
       "NumProgressed": 1514,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-26T20:08:34.2578265+00:00",
+      "NumProgressed": 1519,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1550,7 +1555,7 @@
       "Name": "Opposing Force",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -1638,7 +1643,7 @@
       "Name": "Gunslinger",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -1654,7 +1659,7 @@
       "Name": "Sharpshooter",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -1724,9 +1729,9 @@
       "ID": "REWARD_35_LORD_OF_WAR",
       "SetID": "bm6el81",
       "Name": "Lord of War",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 106
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -1734,7 +1739,7 @@
       "Name": "Die Nussknacker Sweet!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "REWARD_37_RESOURCEFUL",
@@ -1766,7 +1771,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -1774,7 +1779,7 @@
       "Name": "Close Quarters",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -1782,7 +1787,7 @@
       "Name": "Snake in the Grass",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -1830,7 +1835,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -1910,7 +1915,7 @@
       "Name": "Target America",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -2085,13 +2090,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1465,
+      "Progressed": 1470,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1514,
+      "Progressed": 1519,
       "Completed": 2
     }
   ],
@@ -2099,8 +2104,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-26T14:01:24.142257+00:00",
-  "LastChanged_Achievements": "2023-05-26T19:05:27.0135836+00:00",
-  "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-26T19:00:16.5999905+00:00",
-  "LastUpdate_Achievements": "2023-05-26T19:05:27.0136428+00:00"
+  "LastChanged_Achievements": "2023-05-26T20:08:34.257826+00:00",
+  "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
+  "LastUpdate_Ratings": "2023-05-26T20:03:15.1299632+00:00",
+  "LastUpdate_Achievements": "2023-05-26T20:08:34.257899+00:00"
 }

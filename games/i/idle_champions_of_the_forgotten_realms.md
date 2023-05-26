@@ -37,6 +37,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Mysterious Summons | 0.20% | ~178 |
 | Building Trust | 0.20% | ~178 |
 | Unearthed Evil | 0.20% | ~178 |
+| The Dinner Party | 0.20% | ~178 |
 | The Crumbling Temple | 0.20% | ~178 |
 | Useless Allies | 0.20% | ~178 |
 | Exploring Port Nyanzaru | 0.20% | ~178 |
@@ -205,7 +206,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Haunted Fortunes | 0.10% | ~89 |
 | Poor Fortune | 0.10% | ~89 |
 | Relentless Misfortune | 0.10% | ~89 |
-| The Dinner Party | 0.10% | ~89 |
 | Chatty Nobles | 0.10% | ~89 |
 | Modron Assistance | 0.10% | ~89 |
 | Thine Bounty is Mine! | 0.10% | ~55 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.10% | ~89 |
 | Rescue in the Jungle | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,756 (Ranked 61)  
+Progressed: 88,758 (Ranked 61)  
 Completed: 1,880 (2.12%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -536,7 +536,7 @@ Completed: 1,880 (2.12%) (Ranked 62)
 | 2023-05-23 | 88,435 | 1,872 |
 | 2023-05-24 | 88,533 | 1,875 |
 | 2023-05-25 | 88,656 | 1,879 |
-| 2023-05-26 | 88,756 | 1,880 |
+| 2023-05-26 | 88,758 | 1,880 |
 ## Awards
 Max (Diverse Characters): 4,905  (Ranked 64)  
 Sum: 29,983 (Ranked 37)  

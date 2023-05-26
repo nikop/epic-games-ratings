@@ -4,8 +4,8 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -26,11 +26,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 451,
+  "EOS_Progressed": 452,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.33,
+  "EOS_Completed_Percentage": 3.32,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:50.241177+00:00",
@@ -171,6 +171,11 @@
       "Time": "2023-05-26T10:05:13.864641+00:00",
       "NumProgressed": 451,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-05-26T20:08:37.0730819+00:00",
+      "NumProgressed": 452,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 32,
@@ -230,7 +235,7 @@
       "Name": "Everybody lies",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "EVERY_LITTLE_HELPS",
@@ -270,23 +275,23 @@
       "Name": "Hands up!",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "HAPPY_HALLOWEEN",
       "SetID": "2iigf77",
       "Name": "Trick or Treat?",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 108
+      "UsersEstimate": 104
     },
     {
       "ID": "HE_IS_JUST_A_CHILD",
       "SetID": "2iigf77",
       "Name": "He is just a child",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 90
+      "UsersEstimate": 86
     },
     {
       "ID": "HIPSTER",
@@ -302,7 +307,7 @@
       "Name": "I can do a thing or two",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "LUCKY_DOG",
@@ -382,7 +387,7 @@
       "Name": "Short circuit",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "SILENT",
@@ -437,7 +442,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 451,
+      "Progressed": 452,
       "Completed": 15
     }
   ],
@@ -445,8 +450,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-05-26T19:05:29.7168158+00:00",
-  "LastUpdate_AppInfo": "2023-05-19T19:00:21.9827734+00:00",
-  "LastUpdate_Ratings": "2023-05-26T18:58:28.9364963+00:00",
-  "LastUpdate_Achievements": "2023-05-26T19:05:29.7168346+00:00"
+  "LastChanged_Achievements": "2023-05-26T20:08:37.0730815+00:00",
+  "LastUpdate_AppInfo": "2023-05-26T19:58:22.6992889+00:00",
+  "LastUpdate_Ratings": "2023-05-26T20:01:33.7882338+00:00",
+  "LastUpdate_Achievements": "2023-05-26T20:08:37.0731032+00:00"
 }

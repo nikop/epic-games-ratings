@@ -11,14 +11,14 @@ Rating: 4.17 (Ranked 837)
 | Get ReQ'd | 1.00% | ~622 |
 | Knighthood | 1.00% | ~622 |
 | Loose Ends | 1.00% | ~622 |
+| The Batman Family | 0.90% | ~560 |
 | Whispered Words | 0.90% | ~560 |
-| The Batman Family | 0.80% | ~497 |
-| Something in the Clay | 0.80% | ~497 |
-| Quartzer Life Crisis | 0.80% | ~497 |
-| Snow Problem | 0.80% | ~497 |
-| Working Hard or Harley Working? | 0.80% | ~497 |
-| Unstoppable Force | 0.80% | ~497 |
-| Lock and Key | 0.80% | ~497 |
+| Something in the Clay | 0.80% | ~498 |
+| Quartzer Life Crisis | 0.80% | ~498 |
+| Snow Problem | 0.80% | ~498 |
+| Working Hard or Harley Working? | 0.80% | ~498 |
+| Unstoppable Force | 0.80% | ~498 |
+| Lock and Key | 0.80% | ~498 |
 | Protector of Gotham | 0.70% | ~435 |
 | The Show Mud Go On | 0.70% | ~435 |
 | Universal Health Scare | 0.70% | ~435 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 837)
 | Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,182 (Ranked 70)  
+Progressed: 62,193 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-23 | 61,842 | 91 |
 | 2023-05-24 | 61,945 | 91 |
 | 2023-05-25 | 62,051 | 91 |
-| 2023-05-26 | 62,182 | 91 |
+| 2023-05-26 | 62,193 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,239  (Ranked 98)  
 Sum: 3,718 (Ranked 138)  
