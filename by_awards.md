@@ -54,7 +54,7 @@
 | 52 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,110 | 4.58 | 418 |
 | 53 | [Sifu](games/s/sifu.md) | 6,091 | 4.82 | 63 |
 | 54 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,929 | 4.64 | 314 |
-| 55 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,853 | 4.79 | 92 |
+| 55 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 5,853 | 4.79 | 91 |
 | 56 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,774 | 4.66 | 272 |
 | 57 | [Prey](games/p/prey.md) | 5,556 | 4.62 | 340 |
 | 58 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 5,509 | 4.82 | 63 |
@@ -65,7 +65,7 @@
 | 63 | [Rogue Company](games/r/rogue_company.md) | 4,946 | 4.34 | 731 |
 | 64 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4,905 | 4.06 | 877 |
 | 65 | [MultiVersus](games/m/multiversus.md) | 4,740 | 4.56 | 451 |
-| 66 | [Shop Titans](games/s/shop_titans.md) | 4,588 | 3.98 | 893 |
+| 66 | [Shop Titans](games/s/shop_titans.md) | 4,588 | 3.98 | 894 |
 | 67 | [Cities: Skylines](games/c/cities__skylines.md) | 4,554 | 4.65 | 290 |
 | 68 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,527 | 4.70 | 193 |
 | 69 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,307 | 4.70 | 193 |
@@ -86,8 +86,8 @@
 | 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,208 | 4.59 | 404 |
 | 85 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,200 | 4.75 | 130 |
 | 86 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,090 | 4.57 | 437 |
+| 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,074 | 4.68 | 236 |
 | 87 | [Hades](games/h/hades.md) | 3,074 | 4.92 | 3 |
-| 88 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,068 | 4.68 | 236 |
 | 89 | [Bloons TD 6](games/b/bloons_td_6.md) | 2,903 | 4.77 | 106 |
 | 90 | [Trackmania](games/t/trackmania.md) | 2,656 | 4.67 | 256 |
 | 91 | [Path of Exile](games/p/path_of_exile.md) | 2,498 | 4.61 | 357 |
@@ -102,7 +102,7 @@
 | 100 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,165 | 4.41 | 664 |
 | 101 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,134 | 4.37 | 707 |
 | 102 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,121 | 4.63 | 328 |
-| 103 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2,025 | 3.98 | 893 |
+| 103 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 2,025 | 3.99 | 890 |
 | 104 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 1,975 | 4.49 | 559 |
 | 105 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 1,877 | 4.65 | 290 |
 | 106 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,826 | 4.70 | 193 |
@@ -115,7 +115,7 @@
 | 113 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 1,524 | 4.69 | 213 |
 | 114 | [Ring of Pain](games/r/ring_of_pain.md) | 1,473 | 4.58 | 418 |
 | 115 | [Celeste](games/c/celeste.md) | 1,456 | 4.92 | 3 |
-| 116 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,446 | 4.79 | 92 |
+| 116 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 1,446 | 4.79 | 91 |
 | 117 | [Detroit: Become Human](games/d/detroit__become_human.md) | 1,378 | 4.87 | 25 |
 | 118 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,314 | 4.82 | 63 |
 | 119 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 1,297 | 4.70 | 193 |
@@ -153,7 +153,7 @@
 | 151 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 753 | 4.50 | 538 |
 | 152 | [Auto Chess](games/a/auto_chess.md) | 738 | 4.52 | 505 |
 | 153 | [Core](games/c/core.md) | 732 | 4.37 | 707 |
-| 154 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 723 | 4.79 | 92 |
+| 154 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 723 | 4.79 | 91 |
 | 155 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 710 | 4.45 | 606 |
 | 156 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 693 | 4.59 | 404 |
 | 157 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 690 | 4.86 | 30 |
@@ -209,7 +209,7 @@
 | 207 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 368 | 3.99 | 890 |
 | 207 | [Nuclear Throne](games/n/nuclear_throne.md) | 368 | 4.80 | 78 |
 | 209 | [For The King](games/f/for_the_king.md) | 364 | 4.70 | 193 |
-| 210 | [Dishonored 2](games/d/dishonored_2.md) | 355 | 4.80 | 78 |
+| 210 | [Dishonored 2](games/d/dishonored_2.md) | 355 | 4.79 | 91 |
 | 211 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 352 | 4.61 | 357 |
 | 212 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 351 | 4.70 | 193 |
 | 213 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 344 | 4.32 | 747 |
@@ -237,7 +237,7 @@
 | 235 | [Diabotical](games/d/diabotical.md) | 267 | 4.75 | 130 |
 | 235 | [Sheltered](games/s/sheltered.md) | 267 | 4.42 | 652 |
 | 235 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 267 | 4.58 | 418 |
-| 238 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 254 | 4.84 | 49 |
+| 238 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 255 | 4.84 | 49 |
 | 239 | [Dead Cells](games/d/dead_cells.md) | 252 | 4.88 | 19 |
 | 240 | [The Sims™ 4](games/t/the_sims™_4.md) | 248 | 4.61 | 357 |
 | 241 | [Crysis Remastered](games/c/crysis_remastered.md) | 246 | 4.40 | 676 |
@@ -306,7 +306,7 @@
 | 304 | [Aven Colony](games/a/aven_colony.md) | 120 | 4.20 | 815 |
 | 305 | [Kingdom New Lands](games/k/kingdom_new_lands.md) | 119 | 4.52 | 505 |
 | 306 | [Going Medieval](games/g/going_medieval.md) | 118 | 4.60 | 387 |
-| 307 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 117 | 4.79 | 92 |
+| 307 | [OCTOPATH TRAVELER™](games/o/octopath_traveler™.md) | 117 | 4.79 | 91 |
 | 307 | [Sonic Origins](games/s/sonic_origins.md) | 117 | 4.58 | 418 |
 | 309 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 116 | 4.86 | 30 |
 | 310 | [BIOMUTANT](games/b/biomutant.md) | 115 | 4.33 | 743 |
