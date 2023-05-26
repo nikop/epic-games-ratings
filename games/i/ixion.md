@@ -6,18 +6,18 @@ Rating: 4.56 (Ranked 451)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 9.00% | ~196 |
-| Sputnik 2049 | 8.00% | ~174 |
+| Sputnik 2049 | 8.00% | ~175 |
 | Without Breaking Some Eggs... | 7.00% | ~153 |
 | Infinite Growth... | 7.00% | ~153 |
 | Space Society | 4.00% | ~87 |
 | A Thousand Strong | 4.00% | ~87 |
 | Ready for a New World | 4.00% | ~87 |
 | Breaking Protocol | 4.00% | ~87 |
+| Ain't Nobody Got Time for That | 4.00% | ~87 |
 | Guy de Borderlands | 3.00% | ~65 |
 | A Hunk of Junk | 3.00% | ~65 |
 | Fully Recycled | 3.00% | ~65 |
 | Permanent Redesigns | 3.00% | ~65 |
-| Ain't Nobody Got Time for That | 3.00% | ~65 |
 | The Ship of Theseus | 3.00% | ~65 |
 | Hope Seeker | 3.00% | ~65 |
 | Exceeding Capacity | 2.00% | ~44 |
@@ -37,12 +37,12 @@ Rating: 4.56 (Ranked 451)
 | Delivery! | 0.70% | ~15 |
 | Pulsar Disciple | 0.70% | ~15 |
 | ...  in a finite world | 0.60% | ~13 |
-| Praise the Hull! | 0.60% | ~13 |
 | Pedal to the Metal | 0.60% | ~13 |
-| What the Ruins Teach Us | 0.60% | ~13 |
 | Sustainable Energy | 0.50% | ~11 |
+| Praise the Hull! | 0.50% | ~11 |
 | You Had One Job... | 0.50% | ~11 |
 | Space Greenhouse | 0.50% | ~11 |
+| What the Ruins Teach Us | 0.50% | ~11 |
 | Help of the Forgotten Member | 0.40% | ~9 |
 | Mutual Loyalty | 0.30% | ~7 |
 | Scientifically Accurate | 0.30% | ~7 |
@@ -63,7 +63,7 @@ Rating: 4.56 (Ranked 451)
 | Drill-dozer | 0.00% | ~0 |
 | Crunch Culture | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,179 (Ranked 144)  
+Progressed: 2,182 (Ranked 144)  
 Completed: 0 (0.00%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 0 (0.00%) (Ranked 204)
 | 2023-05-23 | 2,115 | 0 |
 | 2023-05-24 | 2,134 | 0 |
 | 2023-05-25 | 2,154 | 0 |
-| 2023-05-26 | 2,179 | 0 |
+| 2023-05-26 | 2,182 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

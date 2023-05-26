@@ -8,23 +8,23 @@ Number of Ratings: 836  (23.09.2022)
 | ---- | ---------- | ----- |
 | First Step | 70.00% | ~4,038 |
 | Leader | 60.00% | ~3,461 |
-| Explorer | 53.00% | ~3,057 |
-| Healer | 52.00% | ~2,999 |
+| Explorer | 53.00% | ~3,058 |
+| Healer | 52.00% | ~3,000 |
 | Aspiring Inventor | 44.00% | ~2,538 |
 | Adventurer | 41.00% | ~2,365 |
 | Famous Healer | 38.00% | ~2,192 |
 | Local Leader | 35.00% | ~2,019 |
 | New Opportunities | 34.00% | ~1,961 |
-| Famous Explorer | 33.00% | ~1,903 |
-| Energized | 33.00% | ~1,903 |
-| The Long Haul | 33.00% | ~1,903 |
+| Famous Explorer | 33.00% | ~1,904 |
+| Energized | 33.00% | ~1,904 |
+| The Long Haul | 33.00% | ~1,904 |
 | Survivor | 31.00% | ~1,788 |
-| The Great Healer | 30.00% | ~1,730 |
+| The Great Healer | 30.00% | ~1,731 |
 | Catastrofan | 28.00% | ~1,615 |
-| Legendary Explorer | 27.00% | ~1,557 |
-| Cleaner | 27.00% | ~1,557 |
+| Legendary Explorer | 27.00% | ~1,558 |
+| Cleaner | 27.00% | ~1,558 |
 | Finders, Keepers | 25.00% | ~1,442 |
-| Top Notch | 24.00% | ~1,384 |
+| Top Notch | 24.00% | ~1,385 |
 | Great Leader | 22.00% | ~1,269 |
 | Ice Lakes | 22.00% | ~1,269 |
 | Mentor | 22.00% | ~1,269 |
@@ -42,7 +42,7 @@ Number of Ratings: 836  (23.09.2022)
 | Big Catastrofan | 12.00% | ~692 |
 | It's a Finnish Thing | 10.00% | ~577 |
 | Sky Burial | 9.00% | ~519 |
-| Trader | 8.00% | ~461 |
+| Trader | 8.00% | ~462 |
 | Bread and Circuses | 7.00% | ~404 |
 | Tailored to fit | 7.00% | ~404 |
 | Really Friendly | 6.00% | ~346 |
@@ -66,7 +66,7 @@ Number of Ratings: 836  (23.09.2022)
 | Finnished | 0.20% | ~12 |
 | Customized calamities | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,768 (Ranked 122)  
+Progressed: 5,769 (Ranked 122)  
 Completed: 0 (0.00%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 0 (0.00%) (Ranked 204)
 | 2023-05-23 | 5,653 | 0 |
 | 2023-05-24 | 5,686 | 0 |
 | 2023-05-25 | 5,724 | 0 |
-| 2023-05-26 | 5,768 | 0 |
+| 2023-05-26 | 5,769 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 325)  
 Sum: 654 (Ranked 271)  

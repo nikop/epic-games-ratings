@@ -11,7 +11,7 @@ Number of Ratings: 32  (23.09.2022)
 | Our World Now | 81.00% | ~186 |
 | Never Saw It Coming | 66.00% | ~152 |
 | Coup de Grace | 58.00% | ~133 |
-| Go-Home Club Activities START! | 48.00% | ~110 |
+| Go-Home Club Activities START! | 49.00% | ~113 |
 | Philanthropist | 40.00% | ~92 |
 | Test Your Luck | 34.00% | ~78 |
 | Behind the Curtain | 32.00% | ~74 |
@@ -19,10 +19,10 @@ Number of Ratings: 32  (23.09.2022)
 | Be Who You Wanna Be | 27.00% | ~62 |
 | Counter Champion | 26.00% | ~60 |
 | Friendly Neighborhood | 24.00% | ~55 |
+| Nice Doing Business | 24.00% | ~55 |
 | Investment Ban-χ-ing | 24.00% | ~55 |
 | Combo Commando | 24.00% | ~55 |
 | One-Track Mind | 23.00% | ~53 |
-| Nice Doing Business | 23.00% | ~53 |
 | Stay Winning | 23.00% | ~53 |
 | WIRE Guru | 21.00% | ~48 |
 | Depths of the Heart | 20.00% | ~46 |

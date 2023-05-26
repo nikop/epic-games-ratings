@@ -6,27 +6,27 @@ Number of Ratings: 274  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~91,398 |
-| NATURAL BORN WINNER | 32.00% | ~71,335 |
-| CALLING HOUSTON | 28.00% | ~62,418 |
-| SNEAKY SNEAKY | 22.00% | ~49,043 |
-| TRICK UP YOUR SLEEVE | 22.00% | ~49,043 |
-| GT9STRADALE | 20.00% | ~44,584 |
-| CHALLENGER | 11.00% | ~24,521 |
-| ON A ROLL | 9.00% | ~20,063 |
+| VANGUARD | 41.00% | ~91,402 |
+| NATURAL BORN WINNER | 32.00% | ~71,338 |
+| CALLING HOUSTON | 28.00% | ~62,421 |
+| SNEAKY SNEAKY | 22.00% | ~49,045 |
+| TRICK UP YOUR SLEEVE | 22.00% | ~49,045 |
+| GT9STRADALE | 20.00% | ~44,586 |
+| CHALLENGER | 11.00% | ~24,522 |
+| ON A ROLL | 9.00% | ~20,064 |
 | CENTAUR | 8.00% | ~17,834 |
 | FASTER THAN EVER | 8.00% | ~17,834 |
 | CHALLENGE THE WORLD | 7.00% | ~15,605 |
 | PHOTOFINISH | 7.00% | ~15,605 |
-| QAREEN | 5.00% | ~11,146 |
+| QAREEN | 5.00% | ~11,147 |
 | SHOWOFF | 4.00% | ~8,917 |
 | TAKATORA | 4.00% | ~8,917 |
 | GILA | 3.00% | ~6,688 |
-| PRO | 2.00% | ~4,458 |
-| RESPWND | 2.00% | ~4,458 |
-| SHINY SHINY GOLD | 2.00% | ~4,458 |
+| PRO | 2.00% | ~4,459 |
+| RESPWND | 2.00% | ~4,459 |
+| SHINY SHINY GOLD | 2.00% | ~4,459 |
 | HARDCORE | 1.00% | ~2,229 |
-| ACE | 0.70% | ~1,560 |
+| ACE | 0.70% | ~1,561 |
 | TACTICIAN | 0.60% | ~1,338 |
 | GTX COMPETIZIONE | 0.50% | ~1,115 |
 | HIDDEN POWER | 0.50% | ~1,115 |
@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~446 |
 | ENLIGHTENED | 0.10% | ~223 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 222,922 (Ranked 43)  
+Progressed: 222,931 (Ranked 43)  
 Completed: 43 (0.02%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 43 (0.02%) (Ranked 189)
 | 2023-05-23 | 222,670 | 42 |
 | 2023-05-24 | 222,742 | 43 |
 | 2023-05-25 | 222,828 | 43 |
-| 2023-05-26 | 222,922 | 43 |
+| 2023-05-26 | 222,931 | 43 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

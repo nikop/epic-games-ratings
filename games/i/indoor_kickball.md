@@ -4,18 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Win | 40.00% | ~2 |
-| Have a good trip! | 40.00% | ~2 |
-| Character Unlocked | 20.00% | ~1 |
-| Hat Unlocked | 20.00% | ~1 |
-| Accessory Unlocked | 20.00% | ~1 |
-| Kickball Unlocked | 20.00% | ~1 |
-| Bedroom Secret Spot | 20.00% | ~1 |
-| Homer | 20.00% | ~1 |
-| Butter Fingers | 20.00% | ~1 |
-| Settle Down | 0.00% | ~0 |
-| Grand Slam! | 0.00% | ~0 |
-| Kick It | 0.00% | ~0 |
+| First Win | 50.00% | ~3 |
+| Character Unlocked | 33.00% | ~2 |
+| Hat Unlocked | 33.00% | ~2 |
+| Accessory Unlocked | 33.00% | ~2 |
+| Kickball Unlocked | 33.00% | ~2 |
+| Homer | 33.00% | ~2 |
+| Have a good trip! | 33.00% | ~2 |
+| Settle Down | 17.00% | ~1 |
+| Grand Slam! | 17.00% | ~1 |
+| Kick It | 17.00% | ~1 |
+| Bedroom Secret Spot | 17.00% | ~1 |
+| Butter Fingers | 17.00% | ~1 |
+| Stay Hydrated | 17.00% | ~1 |
 | True Story! | 0.00% | ~0 |
 | Attic Secret Spot | 0.00% | ~0 |
 | Backyard Secret Spot | 0.00% | ~0 |
@@ -42,14 +43,13 @@
 | Angry Dad | 0.00% | ~0 |
 | Interference | 0.00% | ~0 |
 | At least everyone still had fun | 0.00% | ~0 |
-| Stay Hydrated | 0.00% | ~0 |
 | Just how we drew it up | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5 (Ranked 362)  
+Progressed: 6 (Ranked 354)  
 Completed: 0 (0.00%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-05-17 | 1 | 0 |
 | 2023-05-22 | 2 | 0 |
-| 2023-05-26 | 5 | 0 |
+| 2023-05-26 | 6 | 0 |

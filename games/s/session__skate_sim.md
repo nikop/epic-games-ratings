@@ -6,12 +6,12 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 51.00% | ~1,064 |
+| You're free now! | 51.00% | ~1,065 |
 | Keeping it classy | 25.00% | ~522 |
 | Welcome to the family | 18.00% | ~376 |
 | The finer things in life | 17.00% | ~355 |
-| Backpacker | 12.00% | ~250 |
-| Go with the Flow | 12.00% | ~250 |
+| Backpacker | 12.00% | ~251 |
+| Go with the Flow | 12.00% | ~251 |
 | Plastic Surgeon | 9.00% | ~188 |
 | The flip trick crown jewel | 9.00% | ~188 |
 | Keep the dream alive | 8.00% | ~167 |
@@ -31,15 +31,15 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 5.00% | ~104 |
 | Squad goals | 5.00% | ~104 |
 | Sup widdit big dog! | 5.00% | ~104 |
-| Commence the Hijinx! | 4.00% | ~83 |
-| Cops called! | 4.00% | ~83 |
-| DIY Boss | 4.00% | ~83 |
-| Lines for days | 4.00% | ~83 |
-| Manny Destroys All | 4.00% | ~83 |
-| Prince of Philly | 4.00% | ~83 |
-| Renaissance man | 4.00% | ~83 |
-| Tank commander | 4.00% | ~83 |
-| Trick shot marksman | 4.00% | ~83 |
+| Commence the Hijinx! | 4.00% | ~84 |
+| Cops called! | 4.00% | ~84 |
+| DIY Boss | 4.00% | ~84 |
+| Lines for days | 4.00% | ~84 |
+| Manny Destroys All | 4.00% | ~84 |
+| Prince of Philly | 4.00% | ~84 |
+| Renaissance man | 4.00% | ~84 |
+| Tank commander | 4.00% | ~84 |
+| Trick shot marksman | 4.00% | ~84 |
 | G.O.A.T. status | 3.00% | ~63 |
 | Hoarder | 3.00% | ~63 |
 | We get it, you're good | 3.00% | ~63 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,087 (Ranked 146)  
+Progressed: 2,088 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 0 (0.00%) (Ranked 204)
 | 2023-05-23 | 2,052 | 0 |
 | 2023-05-24 | 2,066 | 0 |
 | 2023-05-25 | 2,077 | 0 |
-| 2023-05-26 | 2,087 | 0 |
+| 2023-05-26 | 2,088 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 393)  
 Sum: 414 (Ranked 301)  

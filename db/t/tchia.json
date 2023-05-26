@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 119,
   "Ranking_EOS_Completed": 117,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -158,9 +158,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6071,
+  "EOS_Progressed": 6074,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -2293,6 +2293,11 @@
       "Time": "2023-05-26T22:05:05.3728645+00:00",
       "NumProgressed": 6071,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-05-26T23:05:23.0736346+00:00",
+      "NumProgressed": 6074,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 21,
@@ -2304,7 +2309,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "ARRR",
@@ -2352,7 +2357,7 @@
       "Name": "Energy Saver",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 971
+      "UsersEstimate": 972
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -2390,9 +2395,9 @@
       "ID": "HISTORIAN",
       "SetID": "3cck1g6",
       "Name": "Historian",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 364
+      "UsersEstimate": 304
     },
     {
       "ID": "ICONOCLAST",
@@ -2408,7 +2413,7 @@
       "Name": "In a Pinch",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1154
     },
     {
       "ID": "LIBERATOR",
@@ -2471,7 +2476,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 6071,
+      "Progressed": 6074,
       "Completed": 22
     }
   ],
@@ -2479,8 +2484,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-05-23T21:58:09.6167512+00:00",
-  "LastChanged_Achievements": "2023-05-26T22:05:05.372864+00:00",
+  "LastChanged_Achievements": "2023-05-26T23:05:23.0736341+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:43.8171442+00:00",
-  "LastUpdate_Ratings": "2023-05-26T21:57:43.8918403+00:00",
-  "LastUpdate_Achievements": "2023-05-26T22:05:05.3728928+00:00"
+  "LastUpdate_Ratings": "2023-05-26T22:57:53.2132531+00:00",
+  "LastUpdate_Achievements": "2023-05-26T23:05:23.0736664+00:00"
 }

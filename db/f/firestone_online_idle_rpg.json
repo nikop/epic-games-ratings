@@ -92,9 +92,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1177,
+  "EOS_Progressed": 1178,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2197,6 +2197,11 @@
       "Time": "2023-05-26T20:08:42.5898316+00:00",
       "NumProgressed": 1177,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-26T23:05:41.4782528+00:00",
+      "NumProgressed": 1178,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2440,7 +2445,7 @@
       "Name": "Guild Power",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "herewegoagain",
@@ -2536,7 +2541,7 @@
       "Name": "Milestone collector",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "minerclicker",
@@ -2664,7 +2669,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "thealchemist",
@@ -2768,7 +2773,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1106
+      "UsersEstimate": 1107
     },
     {
       "ID": "warmachinesarmy",
@@ -2807,7 +2812,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1177,
+      "Progressed": 1178,
       "Completed": 1
     }
   ],
@@ -2815,8 +2820,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-23T21:58:11.918076+00:00",
-  "LastChanged_Achievements": "2023-05-26T22:05:23.5479385+00:00",
+  "LastChanged_Achievements": "2023-05-26T23:05:41.4782524+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:46.2898023+00:00",
-  "LastUpdate_Ratings": "2023-05-26T21:57:46.5308961+00:00",
-  "LastUpdate_Achievements": "2023-05-26T22:05:23.5480255+00:00"
+  "LastUpdate_Ratings": "2023-05-26T22:57:55.9277106+00:00",
+  "LastUpdate_Achievements": "2023-05-26T23:05:41.4783438+00:00"
 }

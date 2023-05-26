@@ -13,20 +13,20 @@ Number of Ratings: 743  (23.09.2022)
 | Groovy | 61.00% | ~25,884 |
 | Cleanup on aisle 4! | 56.00% | ~23,762 |
 | Gold | 50.00% | ~21,216 |
-| The boat can leave now...tell the crew | 48.00% | ~20,367 |
+| The boat can leave now...tell the crew | 48.00% | ~20,368 |
 | Give me something to shoot! | 46.00% | ~19,519 |
 | Stand back boy! | 46.00% | ~19,519 |
-| Weird science | 44.00% | ~18,670 |
-| Chain reaction | 44.00% | ~18,670 |
-| Look mummy! A shark! | 41.00% | ~17,397 |
-| What did you say, Blain? | 41.00% | ~17,397 |
-| In the dark dark woods... | 38.00% | ~16,124 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,124 |
+| Weird science | 44.00% | ~18,671 |
+| Chain reaction | 44.00% | ~18,671 |
+| Look mummy! A shark! | 41.00% | ~17,398 |
+| What did you say, Blain? | 41.00% | ~17,398 |
+| In the dark dark woods... | 38.00% | ~16,125 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,125 |
 | Double tap | 37.00% | ~15,700 |
 | Cranial blowout! | 36.00% | ~15,276 |
 | Zombie killin' machine | 36.00% | ~15,276 |
 | Every bullet counts | 36.00% | ~15,276 |
-| All of this has happened before… | 35.00% | ~14,851 |
+| All of this has happened before… | 35.00% | ~14,852 |
 | You've got red on you | 34.00% | ~14,427 |
 | All roads lead to Rome | 33.00% | ~14,003 |
 | You're all going to die down here | 31.00% | ~13,154 |
@@ -40,10 +40,10 @@ Number of Ratings: 743  (23.09.2022)
 | Leave the limbs you've lost | 22.00% | ~9,335 |
 | Everyone's a mad scientist, life is the lab | 18.00% | ~7,638 |
 | Take them down screaming | 18.00% | ~7,638 |
-| Weapons expert | 17.00% | ~7,213 |
+| Weapons expert | 17.00% | ~7,214 |
 | Bad Blood | 16.00% | ~6,789 |
 | The bigger they are... | 15.00% | ~6,365 |
-| I'm going deeper underground | 14.00% | ~5,940 |
+| I'm going deeper underground | 14.00% | ~5,941 |
 | Well equipped | 12.00% | ~5,092 |
 | Into the deep | 12.00% | ~5,092 |
 | Damnedbusters | 9.00% | ~3,819 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~424 |
 | None more hard | 0.50% | ~212 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,432 (Ranked 81)  
+Progressed: 42,433 (Ranked 81)  
 Completed: 25 (0.06%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 25 (0.06%) (Ranked 172)
 | 2023-05-23 | 42,394 | 25 |
 | 2023-05-24 | 42,404 | 25 |
 | 2023-05-25 | 42,418 | 25 |
-| 2023-05-26 | 42,432 | 25 |
+| 2023-05-26 | 42,433 | 25 |
 ## Awards
 Max (Great Boss Battles): 775  (Ranked 147)  
 Sum: 2,376 (Ranked 169)  

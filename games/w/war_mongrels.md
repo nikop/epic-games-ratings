@@ -16,7 +16,7 @@ Number of Ratings: 34  (23.09.2022)
 | The Breaking Point | 39.00% | ~111 |
 | Sniper Wolf | 37.00% | ~105 |
 | Missing in Action | 36.00% | ~102 |
-| The Motivation | 34.00% | ~97 |
+| The Motivation | 35.00% | ~99 |
 | Heroism | 32.00% | ~91 |
 | Collectibles of Chapter I | 31.00% | ~88 |
 | King of Knives | 31.00% | ~88 |

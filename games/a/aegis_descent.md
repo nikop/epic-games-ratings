@@ -15,8 +15,8 @@
 | Hull King | 26.00% | ~95 |
 | Boss Down | 20.00% | ~73 |
 | Extra Ammo | 20.00% | ~73 |
+| Splash Damage | 18.00% | ~66 |
 | Hazardous Duty | 17.00% | ~62 |
-| Splash Damage | 17.00% | ~62 |
 | Perky | 15.00% | ~55 |
 | Salvage | 11.00% | ~40 |
 | Perfect Timing | 10.00% | ~36 |

@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 241,
+  "EOS_Progressed": 247,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -195,6 +195,11 @@
       "Time": "2023-05-26T22:05:02.5369353+00:00",
       "NumProgressed": 241,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T23:05:20.3410496+00:00",
+      "NumProgressed": 247,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -230,7 +235,7 @@
       "Name": "The Wraith",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 146
     },
     {
       "ID": "Chapter10",
@@ -244,9 +249,9 @@
       "ID": "Chapter2",
       "SetID": "70l3651",
       "Name": "The Maggot",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "Chapter3",
@@ -308,9 +313,9 @@
       "ID": "Collectibles1",
       "SetID": "70l3651",
       "Name": "Collectibles Part 1",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 109
     },
     {
       "ID": "Collectibles2",
@@ -358,7 +363,7 @@
       "Name": "Like Flying...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "GollumChoices",
@@ -372,9 +377,9 @@
       "ID": "Lava",
       "SetID": "70l3651",
       "Name": "Wait! Wait! Not yet!",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 64
     },
     {
       "ID": "Memories",
@@ -382,7 +387,7 @@
       "Name": "Memories",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "Murderer",
@@ -486,21 +491,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 111
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 241,
+      "Progressed": 247,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-05-26T22:05:02.5369349+00:00",
+  "LastChanged_Achievements": "2023-05-26T23:05:20.3410493+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:34.8456963+00:00",
-  "LastUpdate_Ratings": "2023-05-26T21:57:34.3176206+00:00",
-  "LastUpdate_Achievements": "2023-05-26T22:05:02.5369622+00:00"
+  "LastUpdate_Ratings": "2023-05-26T22:57:41.9550523+00:00",
+  "LastUpdate_Achievements": "2023-05-26T23:05:20.3410754+00:00"
 }

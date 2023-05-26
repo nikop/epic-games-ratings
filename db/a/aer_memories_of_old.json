@@ -374,9 +374,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10411,
+  "EOS_Progressed": 10416,
   "EOS_Completed": 223,
-  "EOS_NewPlayers": 667,
+  "EOS_NewPlayers": 658,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 2.14,
   "EosHistory": [
@@ -3839,6 +3839,11 @@
       "Time": "2023-05-26T22:05:28.3340767+00:00",
       "NumProgressed": 10411,
       "NumCompleted": 223
+    },
+    {
+      "Time": "2023-05-26T23:05:46.2768213+00:00",
+      "NumProgressed": 10416,
+      "NumCompleted": 223
     }
   ],
   "TotalAchievements": 20,
@@ -3850,7 +3855,7 @@
       "Name": "Cartographer",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 1874
+      "UsersEstimate": 1875
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -3882,7 +3887,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -3890,7 +3895,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -3906,7 +3911,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -3962,7 +3967,7 @@
       "Name": "Equilibrium",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "INTRO_FINISHED",
@@ -3970,7 +3975,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 7912
+      "UsersEstimate": 7916
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -3978,7 +3983,7 @@
       "Name": "Mama?",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 2915
+      "UsersEstimate": 2916
     },
     {
       "ID": "NORTH_FINISHED",
@@ -4002,22 +4007,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1978
+      "UsersEstimate": 1979
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 10411,
+      "Progressed": 10416,
       "Completed": 223
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-05-24T21:59:58.8358962+00:00",
-  "LastChanged_Achievements": "2023-05-26T22:05:28.3340761+00:00",
+  "LastChanged_Achievements": "2023-05-26T23:05:46.2768209+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:31.7513177+00:00",
-  "LastUpdate_Ratings": "2023-05-26T21:59:55.1731395+00:00",
-  "LastUpdate_Achievements": "2023-05-26T22:05:28.3341134+00:00"
+  "LastUpdate_Ratings": "2023-05-26T23:00:02.3910032+00:00",
+  "LastUpdate_Achievements": "2023-05-26T23:05:46.2768596+00:00"
 }

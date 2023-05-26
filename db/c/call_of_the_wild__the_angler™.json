@@ -570,7 +570,7 @@
   ],
   "EOS_Progressed": 3776,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1934,9 +1934,9 @@
       "ID": "ACHIEVEMENT_005",
       "SetID": "1a05lfd",
       "Name": "Fish Out of Water",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1133
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -1958,9 +1958,9 @@
       "ID": "ACHIEVEMENT_008",
       "SetID": "1a05lfd",
       "Name": "Scaling up",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1737
+      "UsersEstimate": 1775
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -2197,8 +2197,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-05-14T03:00:04.4008144+00:00",
-  "LastChanged_Achievements": "2023-05-26T22:00:36.322706+00:00",
+  "LastChanged_Achievements": "2023-05-26T23:00:42.2005652+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:15.8823597+00:00",
-  "LastUpdate_Ratings": "2023-05-26T21:59:36.2531636+00:00",
-  "LastUpdate_Achievements": "2023-05-26T22:00:36.3227426+00:00"
+  "LastUpdate_Ratings": "2023-05-26T22:59:42.7752813+00:00",
+  "LastUpdate_Achievements": "2023-05-26T23:00:42.2008362+00:00"
 }

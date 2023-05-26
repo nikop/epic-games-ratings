@@ -19,11 +19,11 @@ Rating: 4.17 (Ranked 837)
 | Working Hard or Harley Working? | 0.80% | ~498 |
 | Unstoppable Force | 0.80% | ~498 |
 | Lock and Key | 0.80% | ~498 |
-| Protector of Gotham | 0.70% | ~435 |
-| The Show Mud Go On | 0.70% | ~435 |
-| Universal Health Scare | 0.70% | ~435 |
-| Bad Apples in Every Orchard | 0.70% | ~435 |
-| From Inside Gotham's Walls | 0.70% | ~435 |
+| Protector of Gotham | 0.70% | ~436 |
+| The Show Mud Go On | 0.70% | ~436 |
+| Universal Health Scare | 0.70% | ~436 |
+| Bad Apples in Every Orchard | 0.70% | ~436 |
+| From Inside Gotham's Walls | 0.70% | ~436 |
 | End of an Era | 0.60% | ~373 |
 | Rock and a Hard Place | 0.60% | ~373 |
 | Not On My Watch | 0.60% | ~373 |
@@ -46,28 +46,28 @@ Rating: 4.17 (Ranked 837)
 | Renewable Enemy Source | 0.20% | ~65 |
 | Dressed to Impress | 0.20% | ~124 |
 | A Momentum Occasion | 0.20% | ~124 |
-| Element of Surprise | 0.10% | ~32 |
-| It's Nice to Be Wanted | 0.10% | ~32 |
-| Crime Is a Terrible Thing to Waste | 0.10% | ~32 |
-| The Cold, the Bad and the Ugly | 0.10% | ~32 |
-| Gotham's Greatest Depths | 0.10% | ~32 |
-| Showdown Sovereign | 0.10% | ~32 |
+| Element of Surprise | 0.10% | ~33 |
+| It's Nice to Be Wanted | 0.10% | ~33 |
+| Crime Is a Terrible Thing to Waste | 0.10% | ~33 |
+| The Cold, the Bad and the Ugly | 0.10% | ~33 |
+| Gotham's Greatest Depths | 0.10% | ~33 |
+| Showdown Sovereign | 0.10% | ~33 |
 | Practice Makes Perfect | 0.10% | ~62 |
-| That's Showbiz, Clayby | 0.10% | ~32 |
+| That's Showbiz, Clayby | 0.10% | ~33 |
 | Talonted | 0.10% | ~62 |
 | The Man-Bat Family | 0.10% | ~62 |
-| Icebreaker | 0.10% | ~32 |
-| Don't Mecha Big Deal About It | 0.10% | ~32 |
+| Icebreaker | 0.10% | ~33 |
+| Don't Mecha Big Deal About It | 0.10% | ~33 |
 | Batarang Collector | 0.10% | ~62 |
 | Read Owl About It | 0.10% | ~62 |
 | History Major | 0.10% | ~62 |
 | Claiming the Mural High Ground | 0.10% | ~62 |
-| A Sophisticated Mallet | 0.10% | ~32 |
+| A Sophisticated Mallet | 0.10% | ~33 |
 | He'd Be So Proud of You | 0.10% | ~62 |
-| Confronting Your Demon | 0.10% | ~32 |
+| Confronting Your Demon | 0.10% | ~33 |
 | Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,210 (Ranked 70)  
+Progressed: 62,222 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-23 | 61,842 | 91 |
 | 2023-05-24 | 61,945 | 91 |
 | 2023-05-25 | 62,051 | 91 |
-| 2023-05-26 | 62,210 | 91 |
+| 2023-05-26 | 62,222 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,239  (Ranked 98)  
 Sum: 3,718 (Ranked 137)  

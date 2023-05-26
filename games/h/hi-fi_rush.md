@@ -5,25 +5,25 @@ Rating: 4.87 (Ranked 25)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 82.00% | ~1,796 |
-| Feeling the beat! | 82.00% | ~1,796 |
-| You can pet the cat! | 77.00% | ~1,686 |
-| Who put gears in there? | 70.00% | ~1,533 |
+| Start with a bang! | 82.00% | ~1,797 |
+| Feeling the beat! | 82.00% | ~1,797 |
+| You can pet the cat! | 77.00% | ~1,687 |
+| Who put gears in there? | 70.00% | ~1,534 |
 | Cream of the Crop | 65.00% | ~1,424 |
 | Thanks for the free chip, Peppermint! | 65.00% | ~1,424 |
-| You got this, Peppermint? | 59.00% | ~1,292 |
-| Perfect Parry | 57.00% | ~1,248 |
-| Alright, that felt AWESOME! | 56.00% | ~1,226 |
+| You got this, Peppermint? | 59.00% | ~1,293 |
+| Perfect Parry | 57.00% | ~1,249 |
+| Alright, that felt AWESOME! | 56.00% | ~1,227 |
 | I play my own way! | 52.00% | ~1,139 |
-| This will cost you big time | 50.00% | ~1,095 |
-| Uh, they were broken when I got here | 49.00% | ~1,073 |
-| Z-shielding's got nothing on us! | 47.00% | ~1,029 |
-| Kissing the sky! | 46.00% | ~1,007 |
+| This will cost you big time | 50.00% | ~1,096 |
+| Uh, they were broken when I got here | 49.00% | ~1,074 |
+| Z-shielding's got nothing on us! | 47.00% | ~1,030 |
+| Kissing the sky! | 46.00% | ~1,008 |
 | Does that say weakpoint? | 44.00% | ~964 |
 | Whoa! There's ANOTHER health bar!? | 43.00% | ~942 |
 | The Negotiator | 40.00% | ~876 |
-| Out in a puff of smoke | 36.00% | ~788 |
-| You must like calling me in, Chai | 35.00% | ~766 |
+| Out in a puff of smoke | 36.00% | ~789 |
+| You must like calling me in, Chai | 35.00% | ~767 |
 | Headliner | 34.00% | ~745 |
 | Time to pay up! | 32.00% | ~701 |
 | Perfecter Parry-er! | 32.00% | ~701 |
@@ -67,7 +67,7 @@ Rating: 4.87 (Ranked 25)
 | Didn't skip a beat! | 0.30% | ~7 |
 | What a journey it was... | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,190 (Ranked 143)  
+Progressed: 2,191 (Ranked 143)  
 Completed: 4 (0.18%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 4 (0.18%) (Ranked 143)
 | 2023-05-23 | 2,003 | 4 |
 | 2023-05-24 | 2,063 | 4 |
 | 2023-05-25 | 2,119 | 4 |
-| 2023-05-26 | 2,190 | 4 |
+| 2023-05-26 | 2,191 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

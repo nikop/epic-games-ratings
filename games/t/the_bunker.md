@@ -10,25 +10,25 @@
 | Failure | 74.00% | ~70 |
 | Replace Fuse | 68.00% | ~64 |
 | Alarm | 66.00% | ~62 |
-| Air Filtration | 64.00% | ~60 |
-| Broken | 63.00% | ~59 |
-| Radiation | 61.00% | ~57 |
-| Descent | 60.00% | ~56 |
-| Awakenings | 57.00% | ~54 |
-| Cold Storage | 57.00% | ~54 |
+| Air Filtration | 65.00% | ~61 |
+| Broken | 64.00% | ~60 |
+| Radiation | 62.00% | ~58 |
+| Descent | 61.00% | ~57 |
+| Awakenings | 59.00% | ~55 |
+| Cold Storage | 59.00% | ~55 |
+| Churchill | 53.00% | ~50 |
 | Sam | 53.00% | ~50 |
-| Churchill | 52.00% | ~49 |
 | Leave | 49.00% | ~46 |
 | Engineer | 49.00% | ~46 |
 | Doctor | 48.00% | ~45 |
 | Soldier | 48.00% | ~45 |
 | Commissioner | 47.00% | ~44 |
-| Press Play | 38.00% | ~36 |
+| Press Play | 39.00% | ~37 |
 | Bookworm | 24.00% | ~23 |
 | General | 24.00% | ~23 |
 | Stay | 16.00% | ~15 |
 | Floppy Disk Finder | 13.00% | ~12 |
-| Nurse | 12.00% | ~11 |
+| Nurse | 13.00% | ~12 |
 | Friends | 5.00% | ~5 |
 | No Page Unturned | 4.00% | ~4 |
 | The Missing Piece | 4.00% | ~4 |

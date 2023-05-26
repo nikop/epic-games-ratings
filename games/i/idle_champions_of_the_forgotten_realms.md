@@ -24,6 +24,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Friendly Imps | 0.30% | ~266 |
 | Pure Energy | 0.30% | ~266 |
 | Maddening | 0.20% | ~178 |
+| Tall Tales | 0.20% | ~110 |
 | Owlbear Necessities | 0.20% | ~110 |
 | Best Thay Ever | 0.20% | ~110 |
 | Unreasonable Doesn't Mean Stupid | 0.20% | ~110 |
@@ -48,6 +49,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Waterdeep Detours | 0.20% | ~178 |
 | Underdeep Cartography | 0.20% | ~178 |
 | The Templar's Camp | 0.20% | ~178 |
+| Rescue in the Jungle | 0.20% | ~178 |
 | Pros and CONs | 0.10% | ~89 |
 | Upholding the Law | 0.10% | ~89 |
 | Starving in the Jungle | 0.10% | ~89 |
@@ -55,7 +57,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Keep Your Friends Close | 0.10% | ~55 |
 | Friends and Foes | 0.10% | ~55 |
 | And Your Enemies Closer | 0.10% | ~55 |
-| Tall Tales | 0.10% | ~55 |
 | Nightmare Rats! | 0.10% | ~55 |
 | An Unexpected Geist | 0.10% | ~55 |
 | Back to Nature | 0.10% | ~55 |
@@ -498,9 +499,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Haunted Jungle | 0.10% | ~89 |
 | Poor Guidance | 0.10% | ~89 |
 | Overwhelming Force | 0.10% | ~89 |
-| Rescue in the Jungle | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,771 (Ranked 61)  
+Progressed: 88,776 (Ranked 61)  
 Completed: 1,880 (2.12%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -536,7 +536,7 @@ Completed: 1,880 (2.12%) (Ranked 62)
 | 2023-05-23 | 88,435 | 1,872 |
 | 2023-05-24 | 88,533 | 1,875 |
 | 2023-05-25 | 88,656 | 1,879 |
-| 2023-05-26 | 88,771 | 1,880 |
+| 2023-05-26 | 88,776 | 1,880 |
 ## Awards
 Max (Diverse Characters): 4,905  (Ranked 64)  
 Sum: 29,983 (Ranked 37)  

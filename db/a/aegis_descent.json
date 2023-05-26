@@ -414,9 +414,9 @@
       "ID": "Award_SplashDamage",
       "SetID": "9ojec6n",
       "Name": "Splash Damage",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 66
     },
     {
       "ID": "Award_Stunning",
@@ -487,8 +487,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-05-26T22:05:13.7569571+00:00",
+  "LastChanged_Achievements": "2023-05-26T23:05:31.4631795+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:00.9517737+00:00",
-  "LastUpdate_Ratings": "2023-05-26T21:58:04.1821023+00:00",
-  "LastUpdate_Achievements": "2023-05-26T22:05:13.7569911+00:00"
+  "LastUpdate_Ratings": "2023-05-26T22:58:13.5085217+00:00",
+  "LastUpdate_Achievements": "2023-05-26T23:05:31.4632155+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -212,9 +212,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1525,
+  "EOS_Progressed": 1528,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 696,
+  "EOS_NewPlayers": 695,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -1522,6 +1522,11 @@
       "Time": "2023-05-26T22:05:15.1030157+00:00",
       "NumProgressed": 1525,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-26T23:05:32.9326366+00:00",
+      "NumProgressed": 1528,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1533,7 +1538,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -1541,7 +1546,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -1557,7 +1562,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "REWARD_14_OPPOSING_FORCE",
@@ -1581,7 +1586,7 @@
       "Name": "Fields of Glory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "REWARD_17_JUST_A_FLESH_WOUND",
@@ -1613,7 +1618,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -1661,7 +1666,7 @@
       "Name": "Skirmisher",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "REWARD_26_SHARPSHOOTER",
@@ -1685,7 +1690,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -1693,15 +1698,15 @@
       "Name": "Precision Is Key",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
       "SetID": "bm6el81",
       "Name": "Confirming Suspicions",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 214
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1765,7 +1770,7 @@
       "Name": "Der Geist",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -1781,7 +1786,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -1941,7 +1946,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -2100,13 +2105,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1476,
+      "Progressed": 1479,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1525,
+      "Progressed": 1528,
       "Completed": 2
     }
   ],
@@ -2114,8 +2119,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-26T14:01:24.142257+00:00",
-  "LastChanged_Achievements": "2023-05-26T22:05:15.103015+00:00",
+  "LastChanged_Achievements": "2023-05-26T23:05:32.9326361+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:49.6415157+00:00",
-  "LastUpdate_Ratings": "2023-05-26T22:00:20.6299472+00:00",
-  "LastUpdate_Achievements": "2023-05-26T22:05:15.1030886+00:00"
+  "LastUpdate_Ratings": "2023-05-26T23:00:24.3050934+00:00",
+  "LastUpdate_Achievements": "2023-05-26T23:05:32.9327127+00:00"
 }

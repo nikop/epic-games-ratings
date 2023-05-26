@@ -3964,9 +3964,9 @@
       "Count": 3241
     }
   ],
-  "EOS_Progressed": 88771,
+  "EOS_Progressed": 88776,
   "EOS_Completed": 1880,
-  "EOS_NewPlayers": 769,
+  "EOS_NewPlayers": 768,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 2.12,
   "EosHistory": [
@@ -7524,6 +7524,11 @@
       "Time": "2023-05-26T22:05:43.13648+00:00",
       "NumProgressed": 88771,
       "NumCompleted": 1880
+    },
+    {
+      "Time": "2023-05-26T23:06:01.5352681+00:00",
+      "NumProgressed": 88776,
+      "NumCompleted": 1880
     }
   ],
   "TotalAchievements": 493,
@@ -7605,9 +7610,9 @@
       "ID": "objective_completed_1050",
       "SetID": "415jc5c",
       "Name": "Tall Tales",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 55
+      "UsersEstimate": 110
     },
     {
       "ID": "objective_completed_1051",
@@ -11437,9 +11442,9 @@
       "ID": "objective_completed_99",
       "SetID": "cc37lbc",
       "Name": "Rescue in the Jungle",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 178
     },
     {
       "ID": "objective_completed_1355",
@@ -11478,21 +11483,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 55045,
-      "Completed": 2712
+      "Progressed": 55050,
+      "Completed": 2713
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88771,
+      "Progressed": 88776,
       "Completed": 1880
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-26T17:58:02.2053094+00:00",
-  "LastChanged_Achievements": "2023-05-26T22:05:43.1364795+00:00",
+  "LastChanged_Achievements": "2023-05-26T23:06:01.5352678+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:49.6232245+00:00",
-  "LastUpdate_Ratings": "2023-05-26T21:57:50.2898925+00:00",
-  "LastUpdate_Achievements": "2023-05-26T22:05:43.1388323+00:00"
+  "LastUpdate_Ratings": "2023-05-26T22:58:00.1558563+00:00",
+  "LastUpdate_Achievements": "2023-05-26T23:06:01.5376058+00:00"
 }

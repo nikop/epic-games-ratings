@@ -41,8 +41,8 @@
       "NumCompleted": 1
     }
   ],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
+  "TotalAchievements": 7,
+  "TotalAchievementsXP": 1000,
   "Achievements": [
     {
       "ID": "WEEKEND_JUMPER_1",
@@ -83,6 +83,62 @@
       "Percentage": 50,
       "XP": 200,
       "UsersEstimate": 1
+    },
+    {
+      "ID": "COMPLETE_BASEMENT",
+      "SetID": "dademeo",
+      "Name": "Complete basement",
+      "Percentage": 50,
+      "XP": 145,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "COMPLETE_FACTORY",
+      "SetID": "dademeo",
+      "Name": "Complete factory",
+      "Percentage": 0,
+      "XP": 140,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_LAB",
+      "SetID": "dademeo",
+      "Name": "Complete lab",
+      "Percentage": 0,
+      "XP": 135,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COMPLETE_OUTSIDE",
+      "SetID": "dademeo",
+      "Name": "Complete outside",
+      "Percentage": 0,
+      "XP": 145,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "JUMPER_100",
+      "SetID": "dademeo",
+      "Name": "Jumper 100",
+      "Percentage": 50,
+      "XP": 145,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "JUMPER_1000",
+      "SetID": "dademeo",
+      "Name": "Jumper 1000",
+      "Percentage": 50,
+      "XP": 145,
+      "UsersEstimate": 1
+    },
+    {
+      "ID": "JUMPER_5000",
+      "SetID": "dademeo",
+      "Name": "Jumper 5000",
+      "Percentage": 0,
+      "XP": 145,
+      "UsersEstimate": 0
     }
   ],
   "AchievementSets": [
@@ -94,8 +150,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-09T08:01:56.5974066+00:00",
-  "LastChanged_Achievements": "2023-05-26T22:02:23.0648785+00:00",
+  "LastChanged_Achievements": "2023-05-26T23:03:18.4717393+00:00",
   "LastUpdate_AppInfo": "2023-05-23T08:57:26.8892053+00:00",
-  "LastUpdate_Ratings": "2023-05-26T21:56:55.7415719+00:00",
-  "LastUpdate_Achievements": "2023-05-26T22:02:23.0648827+00:00"
+  "LastUpdate_Ratings": "2023-05-26T22:57:03.920292+00:00",
+  "LastUpdate_Achievements": "2023-05-26T23:03:18.4717496+00:00"
 }

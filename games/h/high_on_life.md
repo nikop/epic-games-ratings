@@ -5,28 +5,28 @@ Rating: 4.67 (Ranked 256)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eye Scream, You Scream | 83.00% | ~18,859 |
-| Mods Please Ban | 77.00% | ~17,496 |
-| Bring A Knife to a Gun Fight | 76.00% | ~17,269 |
-| Fallout Doesn't Let You Do This | 73.00% | ~16,587 |
-| First Bounty Down | 59.00% | ~13,406 |
-| We're All Very Impressed, Trust Me | 57.00% | ~12,952 |
-| Luglox Genocide | 43.00% | ~9,770 |
-| Playing Card To Get | 33.00% | ~7,498 |
-| Don't Knife The Hand That Feeds | 33.00% | ~7,498 |
-| Creature Feature | 29.00% | ~6,589 |
-| Satisfied Gus-tomer | 28.00% | ~6,362 |
-| Cold-Blooded Driller | 28.00% | ~6,362 |
-| Are You Packin'? | 25.00% | ~5,680 |
-| G3 Graduation | 25.00% | ~5,680 |
-| RIP Davey Glutes | 24.00% | ~5,453 |
-| Sweezy Like Sunday Morning | 24.00% | ~5,453 |
+| Eye Scream, You Scream | 83.00% | ~18,861 |
+| Mods Please Ban | 77.00% | ~17,497 |
+| Bring A Knife to a Gun Fight | 76.00% | ~17,270 |
+| Fallout Doesn't Let You Do This | 73.00% | ~16,589 |
+| First Bounty Down | 59.00% | ~13,407 |
+| We're All Very Impressed, Trust Me | 57.00% | ~12,953 |
+| Luglox Genocide | 43.00% | ~9,771 |
+| Playing Card To Get | 33.00% | ~7,499 |
+| Don't Knife The Hand That Feeds | 33.00% | ~7,499 |
+| Creature Feature | 29.00% | ~6,590 |
+| Satisfied Gus-tomer | 28.00% | ~6,363 |
+| Cold-Blooded Driller | 28.00% | ~6,363 |
+| Are You Packin'? | 25.00% | ~5,681 |
+| G3 Graduation | 25.00% | ~5,681 |
+| RIP Davey Glutes | 24.00% | ~5,454 |
+| Sweezy Like Sunday Morning | 24.00% | ~5,454 |
 | Hardest Battle In The Game | 22.00% | ~4,999 |
 | Series Wrap on Suit-O | 22.00% | ~4,999 |
-| Lezduit! | 20.00% | ~4,544 |
-| Who's The Boss? | 20.00% | ~4,544 |
-| Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,544 |
-| Self-Actualization | 19.00% | ~4,317 |
+| Lezduit! | 20.00% | ~4,545 |
+| Who's The Boss? | 20.00% | ~4,545 |
+| Spent 15 Hours At The Alien Strip Club | 20.00% | ~4,545 |
+| Self-Actualization | 19.00% | ~4,318 |
 | Legendary Bounty Hunter | 18.00% | ~4,090 |
 | Seeing All The Sights | 16.00% | ~3,636 |
 | Carried Stan's Load To Completion | 13.00% | ~2,954 |
@@ -38,7 +38,7 @@ Rating: 4.67 (Ranked 256)
 | Epic Legendary Prize | 1.00% | ~227 |
 | A Starfish Is Born | 1.00% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,722 (Ranked 90)  
+Progressed: 22,724 (Ranked 90)  
 Completed: 8 (0.04%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,7 +74,7 @@ Completed: 8 (0.04%) (Ranked 178)
 | 2023-05-23 | 22,703 | 8 |
 | 2023-05-24 | 22,709 | 8 |
 | 2023-05-25 | 22,716 | 8 |
-| 2023-05-26 | 22,722 | 8 |
+| 2023-05-26 | 22,724 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,20 +2,20 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 831,
+  "Ranking_Rating": 824,
   "Ranking_Popularity": 398,
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 113,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
     "isBlockchainUsed": false,
     "CustomAttributes": {}
   },
-  "Rating": 4.18,
+  "Rating": 4.19,
   "RatingHistory": [
     {
       "Time": "2022-12-03T10:57:24.5094082+00:00",
@@ -378,6 +378,12 @@
       "Rating": 4.18,
       "NumberOfAwards": 267,
       "NumberOfAwardsMax": 46
+    },
+    {
+      "Time": "2023-05-26T22:57:48.509047+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 267,
+      "NumberOfAwardsMax": 46
     }
   ],
   "ReviewsDisabled": false,
@@ -428,9 +434,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13725,
+  "EOS_Progressed": 13735,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 891,
+  "EOS_NewPlayers": 894,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1678,6 +1684,11 @@
       "Time": "2023-05-26T22:03:13.7446458+00:00",
       "NumProgressed": 13725,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-26T23:03:39.7041511+00:00",
+      "NumProgressed": 13735,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -1705,7 +1716,7 @@
       "Name": "Giving Back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -1793,7 +1804,7 @@
       "Name": "Get a Grip",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -1817,7 +1828,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "KILL_ROBOT",
@@ -1825,7 +1836,7 @@
       "Name": "Terminated",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -1841,7 +1852,7 @@
       "Name": "The Commonality",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -1873,7 +1884,7 @@
       "Name": "Mugshot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -1881,7 +1892,7 @@
       "Name": "The Outer Way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "STORY_ESCAPE",
@@ -1897,7 +1908,7 @@
       "Name": "Without A Paddle",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "STORY_HANGAR",
@@ -2008,22 +2019,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13725,
+      "Progressed": 13735,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1651,
+      "Progressed": 1661,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2023-05-23T19:57:59.4143533+00:00",
-  "LastChanged_Achievements": "2023-05-26T22:03:13.7446453+00:00",
+  "LastChanged": "2023-05-26T22:57:48.5090467+00:00",
+  "LastChanged_Achievements": "2023-05-26T23:03:39.7041507+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-26T21:57:38.7625237+00:00",
-  "LastUpdate_Achievements": "2023-05-26T22:03:13.7446848+00:00"
+  "LastUpdate_Ratings": "2023-05-26T22:57:48.5090475+00:00",
+  "LastUpdate_Achievements": "2023-05-26T23:03:39.7041908+00:00"
 }

@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome! | 98.00% | ~168 |
+| Welcome! | 98.00% | ~169 |
 | A tiny town | 84.00% | ~144 |
-| Buildings, roads, cars, ...and people | 65.00% | ~111 |
-| Great view from the beach and from the hill | 54.00% | ~92 |
-| Bridges to come and go | 47.00% | ~80 |
+| Buildings, roads, cars, ...and people | 65.00% | ~112 |
+| Great view from the beach and from the hill | 54.00% | ~93 |
+| Bridges to come and go | 47.00% | ~81 |
 | Found an oasis | 38.00% | ~65 |
-| Burger or pizza? | 35.00% | ~60 |
-| Passion for sports | 32.00% | ~55 |
+| Burger or pizza? | 34.00% | ~58 |
+| Passion for sports | 31.00% | ~53 |
 | Who loves trains? | 27.00% | ~46 |
 | Easy and steady climb | 27.00% | ~46 |
-| At the heart of the city | 26.00% | ~44 |
+| At the heart of the city | 26.00% | ~45 |
 | Calm neighborhood | 24.00% | ~41 |
 | Elevated ring | 24.00% | ~41 |
 | Not lonely anymore | 22.00% | ~38 |
 | Monumental tribute | 20.00% | ~34 |
 | The beach is right there | 20.00% | ~34 |
 | Commuting | 20.00% | ~34 |
-| Le jardin magnifique | 18.00% | ~31 |
-| Aiming for a living and human city | 16.00% | ~27 |
-| City of dreams | 16.00% | ~27 |
-| Happy Christmas night! | 16.00% | ~27 |
-| Night walk along the beach | 16.00% | ~27 |
+| Le jardin magnifique | 17.00% | ~29 |
+| Aiming for a living and human city | 16.00% | ~28 |
+| City of dreams | 16.00% | ~28 |
+| Happy Christmas night! | 16.00% | ~28 |
+| Night walk along the beach | 16.00% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 171 (Ranked 245)  
-Completed: 27 (15.79%) (Ranked 9)  
+Progressed: 172 (Ranked 245)  
+Completed: 27 (15.70%) (Ranked 9)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -61,7 +61,7 @@ Completed: 27 (15.79%) (Ranked 9)
 | 2023-05-23 | 148 | 25 |
 | 2023-05-24 | 153 | 25 |
 | 2023-05-25 | 164 | 27 |
-| 2023-05-26 | 171 | 27 |
+| 2023-05-26 | 172 | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

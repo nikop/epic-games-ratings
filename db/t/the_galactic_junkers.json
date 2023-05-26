@@ -193,9 +193,9 @@
       "ID": "A_Kill_Cookie_Cutter",
       "SetID": "56632p4",
       "Name": "Cookie Addict",
-      "Percentage": 43,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "A_Meet_Uncle_Steff",
@@ -257,9 +257,9 @@
       "ID": "A_Salvage_1_Wreck",
       "SetID": "56632p4",
       "Name": "Salvager",
-      "Percentage": 33,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "A_Salvage_25_Wrecks",
@@ -290,8 +290,8 @@
   "FirstSeenRating": "2023-03-31T05:58:44.0451512+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:41.2389416+00:00",
   "LastChanged": "2023-03-31T05:58:44.0451513+00:00",
-  "LastChanged_Achievements": "2023-05-26T22:05:16.0294737+00:00",
+  "LastChanged_Achievements": "2023-05-26T23:05:33.8451413+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:31.6820927+00:00",
-  "LastUpdate_Ratings": "2023-05-26T21:58:43.3777377+00:00",
-  "LastUpdate_Achievements": "2023-05-26T22:05:16.0294901+00:00"
+  "LastUpdate_Ratings": "2023-05-26T22:58:49.8539813+00:00",
+  "LastUpdate_Achievements": "2023-05-26T23:05:33.8451594+00:00"
 }

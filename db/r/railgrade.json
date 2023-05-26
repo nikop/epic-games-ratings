@@ -2022,9 +2022,9 @@
       "ID": "ach.120.simplification",
       "SetID": "384aaja",
       "Name": "Simplification",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 6161
+      "UsersEstimate": 6348
     },
     {
       "ID": "ach.130.minimalist",
@@ -2239,8 +2239,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-05-26T07:59:40.2491546+00:00",
-  "LastChanged_Achievements": "2023-05-26T22:05:20.6913584+00:00",
+  "LastChanged_Achievements": "2023-05-26T23:05:38.6360009+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:52.3008567+00:00",
-  "LastUpdate_Ratings": "2023-05-26T21:59:08.0636753+00:00",
-  "LastUpdate_Achievements": "2023-05-26T22:05:20.6913961+00:00"
+  "LastUpdate_Ratings": "2023-05-26T22:59:13.9310247+00:00",
+  "LastUpdate_Achievements": "2023-05-26T23:05:38.636038+00:00"
 }

@@ -266,9 +266,9 @@
       "ID": "2",
       "SetID": "acl54ke",
       "Name": "Solved third case",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "3",
@@ -345,8 +345,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-05-26T22:00:35.6940981+00:00",
+  "LastChanged_Achievements": "2023-05-26T23:00:41.5544477+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:22.3252566+00:00",
-  "LastUpdate_Ratings": "2023-05-26T21:58:28.0569828+00:00",
-  "LastUpdate_Achievements": "2023-05-26T22:00:35.6941125+00:00"
+  "LastUpdate_Ratings": "2023-05-26T22:58:38.7487946+00:00",
+  "LastUpdate_Achievements": "2023-05-26T23:00:41.5544632+00:00"
 }

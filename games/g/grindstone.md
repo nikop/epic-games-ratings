@@ -6,40 +6,40 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~4,972 |
-| The Journey Begins | 98.00% | ~4,972 |
-| Slaughterhouse 5 (200 times) | 78.00% | ~3,957 |
-| There is No Escape | 71.00% | ~3,602 |
-| Fun, Flirty, and Thirty | 62.00% | ~3,145 |
-| Royal Flush | 62.00% | ~3,145 |
-| Timber! | 60.00% | ~3,044 |
-| Survive the Bombsequences | 59.00% | ~2,993 |
-| Killed 20 Jerks | 53.00% | ~2,689 |
-| Death Defied | 53.00% | ~2,689 |
-| Fortunate Soul | 49.00% | ~2,486 |
-| Jerk-Slayer | 43.00% | ~2,181 |
-| Employee of the Month | 37.00% | ~1,877 |
-| I Believe I Can Fly | 37.00% | ~1,877 |
+| Quinceañera Time | 98.00% | ~4,974 |
+| The Journey Begins | 98.00% | ~4,974 |
+| Slaughterhouse 5 (200 times) | 78.00% | ~3,958 |
+| There is No Escape | 71.00% | ~3,603 |
+| Fun, Flirty, and Thirty | 62.00% | ~3,146 |
+| Royal Flush | 62.00% | ~3,146 |
+| Timber! | 60.00% | ~3,045 |
+| Survive the Bombsequences | 59.00% | ~2,994 |
+| Killed 20 Jerks | 53.00% | ~2,690 |
+| Death Defied | 53.00% | ~2,690 |
+| Fortunate Soul | 49.00% | ~2,487 |
+| Jerk-Slayer | 43.00% | ~2,182 |
+| Employee of the Month | 37.00% | ~1,878 |
+| I Believe I Can Fly | 37.00% | ~1,878 |
 | Bone Collector | 35.00% | ~1,776 |
 | Fe-Festival | 35.00% | ~1,776 |
-| Top of the Food Chain | 32.00% | ~1,623 |
-| Pardon my Slob | 32.00% | ~1,623 |
+| Top of the Food Chain | 32.00% | ~1,624 |
+| Pardon my Slob | 32.00% | ~1,624 |
 | Humerus Achievement | 31.00% | ~1,573 |
 | Ghost Facers! | 27.00% | ~1,370 |
-| If It Bleeds, You Can Kill It | 21.00% | ~1,065 |
-| Trying To Get Into That 1%, Huh? | 18.00% | ~913 |
-| Can't Touch This | 18.00% | ~913 |
-| Royal Flush, Again | 18.00% | ~913 |
+| If It Bleeds, You Can Kill It | 21.00% | ~1,066 |
+| Trying To Get Into That 1%, Huh? | 18.00% | ~914 |
+| Can't Touch This | 18.00% | ~914 |
+| Royal Flush, Again | 18.00% | ~914 |
 | Yummy! | 16.00% | ~812 |
 | That Was Quick | 16.00% | ~812 |
 | Goldrush Glory Days | 15.00% | ~761 |
 | Best Party Guest | 15.00% | ~761 |
 | Shrub it Off | 15.00% | ~761 |
-| Collected 50 mushrooms | 14.00% | ~710 |
-| Budding Gardener | 14.00% | ~710 |
-| Stop Hitting Each Other | 13.00% | ~659 |
+| Collected 50 mushrooms | 14.00% | ~711 |
+| Budding Gardener | 14.00% | ~711 |
+| Stop Hitting Each Other | 13.00% | ~660 |
 | Ultimate Jerk | 12.00% | ~609 |
-| Hot Potato | 10.00% | ~507 |
+| Hot Potato | 10.00% | ~508 |
 | Off the Beaten Path | 9.00% | ~457 |
 | It's Been a Blast | 9.00% | ~457 |
 | For Rock and Stone! | 9.00% | ~457 |
@@ -56,7 +56,7 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.60% | ~30 |
 | Completionist | 0.50% | ~25 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,073 (Ranked 125)  
+Progressed: 5,075 (Ranked 125)  
 Completed: 26 (0.51%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 26 (0.51%) (Ranked 106)
 | 2023-05-21 | 5,066 | 26 |
 | 2023-05-23 | 5,069 | 26 |
 | 2023-05-25 | 5,071 | 26 |
-| 2023-05-26 | 5,073 | 26 |
+| 2023-05-26 | 5,075 | 26 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

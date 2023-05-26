@@ -1,15 +1,15 @@
 # Slain: Back From Hell
 [Store](https://store.epicgames.com/en-US/p/slain-aea303)  
 [View Rawdata](../../db/s/slain__back_from_hell.json)  
-Rating: 4.28 (Ranked 773)  
+Rating: 4.28 (Ranked 772)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 20.00% | ~4,500 |
-| A Good Day To Die | 16.00% | ~3,600 |
-| Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~1,350 |
-| Right Back Atcha | 6.00% | ~1,350 |
-| Killed by Death | 5.00% | ~1,125 |
+| Man 'O War | 20.00% | ~4,502 |
+| A Good Day To Die | 16.00% | ~3,602 |
+| Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~1,351 |
+| Right Back Atcha | 6.00% | ~1,351 |
+| Killed by Death | 5.00% | ~1,126 |
 | Kill 'Em All | 4.00% | ~900 |
 | Down Boy! | 2.00% | ~450 |
 | A Snowball's Chance in Hell | 2.00% | ~450 |
@@ -19,12 +19,12 @@ Rating: 4.28 (Ranked 773)
 | Backdoor Man | 0.80% | ~180 |
 | Death Becomes Her | 0.80% | ~180 |
 | Schadenfreude | 0.80% | ~180 |
-| Red In Tooth And Claw | 0.70% | ~157 |
-| The Sky Is Falling | 0.70% | ~157 |
-| That'll Come In Handy... | 0.70% | ~157 |
+| Red In Tooth And Claw | 0.70% | ~158 |
+| The Sky Is Falling | 0.70% | ~158 |
+| That'll Come In Handy... | 0.70% | ~158 |
 | Start As You Mean To Go On | 0.60% | ~135 |
 | Hail the Great Horned Metal God! | 0.60% | ~135 |
-| Oh God, Mother! Blood! Blood! | 0.50% | ~112 |
+| Oh God, Mother! Blood! Blood! | 0.50% | ~113 |
 | Four Legged Friend | 0.40% | ~90 |
 | Ice To See You | 0.40% | ~90 |
 | Smack My Imp Up | 0.40% | ~90 |
@@ -32,10 +32,10 @@ Rating: 4.28 (Ranked 773)
 | Swift of Foot, Keen of Blade | 0.30% | ~68 |
 | Flame Retardant | 0.20% | ~45 |
 | Death or Glory | 0.20% | ~45 |
-| Too Metal For Magic | 0.10% | ~22 |
-| Heart Of Steel | 0.10% | ~22 |
+| Too Metal For Magic | 0.10% | ~23 |
+| Heart Of Steel | 0.10% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,500 (Ranked 91)  
+Progressed: 22,512 (Ranked 91)  
 Completed: 18 (0.08%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 18 (0.08%) (Ranked 166)
 | 2023-05-23 | 22,027 | 18 |
 | 2023-05-24 | 22,161 | 18 |
 | 2023-05-25 | 22,301 | 18 |
-| 2023-05-26 | 22,500 | 18 |
+| 2023-05-26 | 22,512 | 18 |
 ## Awards
 Max (Great Boss Battles): 125  (Ranked 301)  
 Sum: 125 (Ranked 388)  

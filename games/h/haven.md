@@ -19,9 +19,9 @@ Number of Ratings: 38  (23.09.2022)
 | Like new! | 16.00% | ~186 |
 | Heartstrings | 14.00% | ~163 |
 | Head in the clouds | 14.00% | ~163 |
+| Flower Powered | 13.00% | ~151 |
 | Don't look back | 13.00% | ~151 |
 | Back to rust | 12.00% | ~140 |
-| Flower Powered | 12.00% | ~140 |
 | Perfect timing | 10.00% | ~116 |
 | Unstoppable | 10.00% | ~116 |
 | Ain't no mountain high enough | 9.00% | ~105 |

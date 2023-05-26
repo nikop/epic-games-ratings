@@ -9,8 +9,8 @@
 | Pirate | 73.00% | ~22 |
 | Miner | 60.00% | ~18 |
 | Expert Mechanic | 50.00% | ~15 |
-| Cookie Addict | 43.00% | ~13 |
-| Salvager | 33.00% | ~10 |
+| Cookie Addict | 47.00% | ~14 |
+| Salvager | 37.00% | ~11 |
 | You're Hired! | 27.00% | ~8 |
 | Expert Miner | 20.00% | ~6 |
 | Expert Firefighter | 13.00% | ~4 |

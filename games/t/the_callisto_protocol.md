@@ -1,14 +1,14 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.18 (Ranked 831)  
+Rating: 4.19 (Ranked 824)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Flesh Wound | 7.00% | ~961 |
-| Giving Back | 5.00% | ~686 |
-| Chew 'Em Up | 5.00% | ~686 |
-| The Outer Way | 5.00% | ~686 |
+| Giving Back | 5.00% | ~687 |
+| Chew 'Em Up | 5.00% | ~687 |
+| The Outer Way | 5.00% | ~687 |
 | Paper Jams | 4.00% | ~549 |
 | Desperate Times | 4.00% | ~549 |
 | Instigator | 4.00% | ~66 |
@@ -18,11 +18,11 @@ Rating: 4.18 (Ranked 831)
 | Reforged | 3.00% | ~412 |
 | If the SHU Fits... | 3.00% | ~412 |
 | Bear Trap | 3.00% | ~50 |
-| Get a Grip | 2.00% | ~274 |
-| Terminated | 2.00% | ~274 |
-| The Commonality | 2.00% | ~274 |
-| Mugshot | 2.00% | ~274 |
-| Without A Paddle | 2.00% | ~274 |
+| Get a Grip | 2.00% | ~275 |
+| Terminated | 2.00% | ~275 |
+| The Commonality | 2.00% | ~275 |
+| Mugshot | 2.00% | ~275 |
+| Without A Paddle | 2.00% | ~275 |
 | Big Spender | 2.00% | ~33 |
 | Parole Denied | 1.00% | ~17 |
 | Two Heads Are Better Than One | 1.00% | ~137 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 831)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,725 (Ranked 102)  
+Progressed: 13,735 (Ranked 102)  
 Completed: 53 (0.39%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 53 (0.39%) (Ranked 113)
 | 2023-05-23 | 13,444 | 52 |
 | 2023-05-24 | 13,523 | 52 |
 | 2023-05-25 | 13,610 | 52 |
-| 2023-05-26 | 13,725 | 53 |
+| 2023-05-26 | 13,735 | 53 |
 ## Awards
 Max (Highly Recommended): 46  (Ranked 398)  
 Sum: 267 (Ranked 335)  
@@ -146,3 +146,4 @@ Diff (max vs sum): 63
 | 2023-05-16 | 4.18 | 46 | 246 |
 | 2023-05-22 | 4.18 | 46 | 247 |
 | 2023-05-23 | 4.18 | 46 | 267 |
+| 2023-05-26 | 4.19 | 46 | 267 |

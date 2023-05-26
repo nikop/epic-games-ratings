@@ -5,53 +5,53 @@ Rating: 4.77 (Ranked 106)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 7.00% | ~19,096 |
-| Grappling with a Graphorn | 6.00% | ~16,368 |
-| The One Who Mastered Memories | 6.00% | ~16,368 |
-| The Hallowed Hero | 6.00% | ~16,368 |
-| The Hero of Hogwarts | 6.00% | ~16,368 |
-| The Defender of Dragons | 6.00% | ~16,368 |
-| Coasting Along | 6.00% | ~16,368 |
-| First Class Student | 6.00% | ~16,368 |
-| Troll with the Punches | 6.00% | ~16,368 |
-| That's a Keeper | 6.00% | ~16,368 |
-| The Avenging Gazelle | 5.00% | ~13,640 |
-| A Sallow Grave | 5.00% | ~13,640 |
-| Flight the Good Flight | 5.00% | ~13,640 |
-| Challenge Accepted | 5.00% | ~13,640 |
-| A Keen Sense of Spell | 5.00% | ~13,640 |
-| Loom for Improvement | 5.00% | ~13,640 |
-| A Talent for Spending | 5.00% | ~13,640 |
-| Followed the Butterflies | 5.00% | ~13,640 |
-| The Spell Master | 5.00% | ~13,640 |
-| Rising From the Ashes | 5.00% | ~13,640 |
-| The Seeker of Knowledge | 4.00% | ~10,912 |
-| Beast Friends | 4.00% | ~10,912 |
-| The Root of the Problem | 3.00% | ~8,184 |
-| Third Time's a Charm | 3.00% | ~8,184 |
-| Room with a View | 3.00% | ~8,184 |
-| The Ends Petrify the Means | 3.00% | ~8,184 |
-| Raising Expectations | 3.00% | ~8,184 |
-| The Toast of the Town | 2.00% | ~5,456 |
-| Going Through the Potions | 2.00% | ~5,456 |
-| Floo Around the World | 2.00% | ~5,456 |
-| The Intrepid Explorer | 2.00% | ~5,456 |
-| The Gryffindor in the Graveyard | 2.00% | ~5,456 |
-| The Wise Owl | 2.00% | ~5,456 |
+| The Sort Who Makes an Entrance | 7.00% | ~19,098 |
+| Grappling with a Graphorn | 6.00% | ~16,370 |
+| The One Who Mastered Memories | 6.00% | ~16,370 |
+| The Hallowed Hero | 6.00% | ~16,370 |
+| The Hero of Hogwarts | 6.00% | ~16,370 |
+| The Defender of Dragons | 6.00% | ~16,370 |
+| Coasting Along | 6.00% | ~16,370 |
+| First Class Student | 6.00% | ~16,370 |
+| Troll with the Punches | 6.00% | ~16,370 |
+| That's a Keeper | 6.00% | ~16,370 |
+| The Avenging Gazelle | 5.00% | ~13,641 |
+| A Sallow Grave | 5.00% | ~13,641 |
+| Flight the Good Flight | 5.00% | ~13,641 |
+| Challenge Accepted | 5.00% | ~13,641 |
+| A Keen Sense of Spell | 5.00% | ~13,641 |
+| Loom for Improvement | 5.00% | ~13,641 |
+| A Talent for Spending | 5.00% | ~13,641 |
+| Followed the Butterflies | 5.00% | ~13,641 |
+| The Spell Master | 5.00% | ~13,641 |
+| Rising From the Ashes | 5.00% | ~13,641 |
+| The Seeker of Knowledge | 4.00% | ~10,913 |
+| Beast Friends | 4.00% | ~10,913 |
+| The Root of the Problem | 3.00% | ~8,185 |
+| Third Time's a Charm | 3.00% | ~8,185 |
+| Room with a View | 3.00% | ~8,185 |
+| The Ends Petrify the Means | 3.00% | ~8,185 |
+| Raising Expectations | 3.00% | ~8,185 |
+| The Toast of the Town | 2.00% | ~5,457 |
+| Going Through the Potions | 2.00% | ~5,457 |
+| Floo Around the World | 2.00% | ~5,457 |
+| The Intrepid Explorer | 2.00% | ~5,457 |
+| The Gryffindor in the Graveyard | 2.00% | ~5,457 |
+| The Wise Owl | 2.00% | ~5,457 |
 | The Good Samaritan | 1.00% | ~2,728 |
 | Put Down Roots | 1.00% | ~2,728 |
 | The Auror's Apprentice | 1.00% | ~2,728 |
 | Rise to the Challenges | 1.00% | ~2,728 |
 | Finishing Touches | 1.00% | ~2,728 |
-| Savvy Spender | 0.80% | ~2,182 |
-| Demiguise Dread | 0.80% | ~2,182 |
-| A Forte for Achievement | 0.80% | ~2,182 |
+| Savvy Spender | 0.80% | ~2,183 |
+| Demiguise Dread | 0.80% | ~2,183 |
+| A Forte for Achievement | 0.80% | ~2,183 |
 | Merlin's Beard! | 0.60% | ~1,637 |
 | Spilled Milk | 0.50% | ~1,364 |
 | The Nature of the Beast | 0.40% | ~1,091 |
 | Collector's Edition | 0.20% | ~546 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 272,807 (Ranked 38)  
+Progressed: 272,827 (Ranked 38)  
 Completed: 374 (0.14%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 374 (0.14%) (Ranked 151)
 | 2023-05-23 | 271,519 | 370 |
 | 2023-05-24 | 271,975 | 372 |
 | 2023-05-25 | 272,380 | 374 |
-| 2023-05-26 | 272,807 | 374 |
+| 2023-05-26 | 272,827 | 374 |
 ## Awards
 Max (Character Customization): 19,190  (Ranked 18)  
 Sum: 35,361 (Ranked 33)  

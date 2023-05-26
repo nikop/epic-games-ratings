@@ -2,7 +2,7 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 290,
+  "Ranking_Rating": 291,
   "Ranking_Popularity": 411,
   "Ranking_PopularitySum": 445,
   "Ranking_EOS_Progress": 113,
@@ -346,9 +346,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 6916,
+  "EOS_Progressed": 6919,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 595,
+  "EOS_NewPlayers": 593,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -2476,6 +2476,11 @@
       "Time": "2023-05-26T22:00:52.0024897+00:00",
       "NumProgressed": 6916,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-05-26T23:00:58.0826759+00:00",
+      "NumProgressed": 6919,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 34,
@@ -2503,7 +2508,7 @@
       "Name": "Iron-y",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "ACH04",
@@ -2535,7 +2540,7 @@
       "Name": "High Quality H2O",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH08",
@@ -2543,7 +2548,7 @@
       "Name": "Pie Guy",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH09",
@@ -2567,7 +2572,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "ACH12",
@@ -2591,7 +2596,7 @@
       "Name": "Greasy Palms",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2697
+      "UsersEstimate": 2698
     },
     {
       "ID": "ACH15",
@@ -2647,7 +2652,7 @@
       "Name": "Legal Counsel",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2974
+      "UsersEstimate": 2975
     },
     {
       "ID": "ACH22",
@@ -2743,7 +2748,7 @@
       "Name": "Done it All",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH34",
@@ -2758,7 +2763,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 6916,
+      "Progressed": 6919,
       "Completed": 23
     }
   ],
@@ -2766,8 +2771,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-05-26T13:02:50.0676532+00:00",
-  "LastChanged_Achievements": "2023-05-26T22:00:52.0024891+00:00",
+  "LastChanged_Achievements": "2023-05-26T23:00:58.0826755+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:01.0765843+00:00",
-  "LastUpdate_Ratings": "2023-05-26T21:58:04.4316764+00:00",
-  "LastUpdate_Achievements": "2023-05-26T22:00:52.0025266+00:00"
+  "LastUpdate_Ratings": "2023-05-26T22:58:13.5896276+00:00",
+  "LastUpdate_Achievements": "2023-05-26T23:00:58.0827134+00:00"
 }
