@@ -190,7 +190,7 @@
 | 179 | [Outlast 2](games/o/outlast_2.md) | 4.71 | 0 | 491 |
 | 179 | [Pikuniku](games/p/pikuniku.md) | 4.71 | 0 | 491 |
 | 179 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 491 |
-| 179 | [shapez](games/s/shapez.md) | 4.71 | 173 | 272 |
+| 179 | [shapez](games/s/shapez.md) | 4.71 | 175 | 271 |
 | 179 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 4.71 | 113 | 313 |
 | 193 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,527 | 68 |
 | 193 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 4.70 | 0 | 491 |
@@ -243,7 +243,7 @@
 | 236 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 6,948 | 47 |
 | 236 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,281 | 60 |
 | 236 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 296,567 | 3 |
-| 236 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 173,831 | 5 |
+| 236 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 174,187 | 5 |
 | 236 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | 0 | 491 |
 | 236 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 411 | 197 |
 | 236 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 559 | 172 |
@@ -506,7 +506,7 @@
 | 493 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.53 | 0 | 491 |
 | 505 | [Age of Wonders 4](games/a/age_of_wonders_4.md) | 4.52 | 0 | 491 |
 | 505 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 738 | 152 |
-| 505 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 27,644 | 16 |
+| 505 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.52 | 27,675 | 16 |
 | 505 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.52 | 506 | 184 |
 | 505 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.52 | 0 | 491 |
 | 505 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 100 | 324 |
@@ -644,24 +644,24 @@
 | 642 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 29 | 449 |
 | 642 | [ELEX](games/e/elex.md) | 4.43 | 24 | 465 |
 | 642 | [Good Company](games/g/good_company.md) | 4.43 | 0 | 491 |
+| 642 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.43 | 0 | 491 |
 | 642 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.43 | 66 | 368 |
 | 642 | [Sherlock Holmes: The Devil's Daughter](games/s/sherlock_holmes__the_devil's_daughter.md) | 4.43 | 0 | 491 |
 | 642 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.43 | 1,006 | 138 |
 | 642 | [Tunche](games/t/tunche.md) | 4.43 | 0 | 491 |
 | 642 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 277 | 230 |
-| 650 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 60 | 378 |
-| 650 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 185 | 265 |
-| 650 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.42 | 0 | 491 |
-| 650 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 11,975 | 28 |
-| 650 | [Let's Build A Zoo](games/l/let's_build_a_zoo.md) | 4.42 | 0 | 491 |
-| 650 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 491 |
-| 650 | [MORDHAU](games/m/mordhau.md) | 4.42 | 161 | 282 |
-| 650 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,122 | 127 |
-| 650 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 48 |
-| 650 | [Sheltered](games/s/sheltered.md) | 4.42 | 267 | 235 |
-| 650 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 129 | 297 |
-| 650 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 538 | 179 |
-| 650 | [World of Warships](games/w/world_of_warships.md) | 4.42 | 1,078 | 130 |
+| 651 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.42 | 60 | 378 |
+| 651 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.42 | 185 | 265 |
+| 651 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.42 | 0 | 491 |
+| 651 | [Killing Floor 2](games/k/killing_floor_2.md) | 4.42 | 11,975 | 28 |
+| 651 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.42 | 0 | 491 |
+| 651 | [MORDHAU](games/m/mordhau.md) | 4.42 | 161 | 282 |
+| 651 | [OUTRIDERS](games/o/outriders.md) | 4.42 | 1,122 | 127 |
+| 651 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 48 |
+| 651 | [Sheltered](games/s/sheltered.md) | 4.42 | 267 | 235 |
+| 651 | [Star Stable Online](games/s/star_stable_online.md) | 4.42 | 129 | 297 |
+| 651 | [Train Sim World® 2](games/t/train_sim_world®_2.md) | 4.42 | 538 | 179 |
+| 651 | [World of Warships](games/w/world_of_warships.md) | 4.42 | 1,078 | 130 |
 | 663 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 0 | 491 |
 | 663 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.41 | 0 | 491 |
 | 663 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.41 | 0 | 491 |
@@ -811,7 +811,7 @@
 | 808 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.21 | 0 | 491 |
 | 808 | [Flatout](games/f/flatout.md) | 4.21 | 0 | 491 |
 | 808 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 4.21 | 175 | 271 |
-| 808 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 13,432 | 25 |
+| 808 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 13,454 | 25 |
 | 808 | [OVERPASS™](games/o/overpass™.md) | 4.21 | 0 | 491 |
 | 808 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 77 | 351 |
 | 815 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 4.20 | 123 | 302 |
@@ -883,7 +883,7 @@
 | 881 | [Amnesia: A Machine for Pigs](games/a/amnesia__a_machine_for_pigs.md) | 4.04 | 0 | 491 |
 | 881 | [Second Extinction™](games/s/second_extinction™.md) | 4.04 | 419 | 195 |
 | 883 | [Lake](games/l/lake.md) | 4.03 | 0 | 491 |
-| 883 | [Pinball FX](games/p/pinball_fx.md) | 4.03 | 173 | 272 |
+| 883 | [Pinball FX](games/p/pinball_fx.md) | 4.03 | 173 | 273 |
 | 883 | [The Last of Us™ Part I](games/t/the_last_of_us™_part_i.md) | 4.03 | 86 | 343 |
 | 886 | [Port Royale 4](games/p/port_royale_4.md) | 4.02 | 0 | 491 |
 | 887 | [Achilles Legends Untold](games/a/achilles_legends_untold.md) | 4.00 | 0 | 491 |
