@@ -13,12 +13,12 @@
 | 11 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.03% |
 | 12 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 11.11% |
 | 13 | [Smelter](games/s/smelter.md) | 9.09% |
-| 14 | [Remains](games/r/remains.md) | 8.82% |
-| 15 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.57% |
+| 14 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.57% |
+| 14 | [Remains](games/r/remains.md) | 8.57% |
 | 16 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 17 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 8.07% |
 | 18 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.76% |
+| 19 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.74% |
 | 20 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.73% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
 | 22 | [Scorn](games/s/scorn.md) | 6.95% |
@@ -27,8 +27,8 @@
 | 25 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 26 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.71% |
 | 27 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.33% |
-| 28 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.08% |
-| 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.06% |
+| 28 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 5.06% |
+| 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.05% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.81% |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 32 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.35% |
