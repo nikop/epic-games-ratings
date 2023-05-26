@@ -18,9 +18,9 @@
 | Annoying | 20.00% | ~90 |
 | Every little helps | 20.00% | ~90 |
 | Hacker | 20.00% | ~90 |
+| He is just a child | 20.00% | ~90 |
 | Uncertain | 20.00% | ~90 |
 | The Walking Robot Among Us | 20.00% | ~90 |
-| He is just a child | 19.00% | ~86 |
 | Goody | 17.00% | ~77 |
 | Please oh pleeease! | 17.00% | ~77 |
 | Ace | 16.00% | ~72 |
@@ -37,7 +37,7 @@
 | Accurate | 5.00% | ~23 |
 | Silent | 4.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 451 (Ranked 195)  
+Progressed: 451 (Ranked 196)  
 Completed: 15 (3.33%) (Ranked 40)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -14,7 +14,7 @@
 | Italian Style | 9.00% | ~19 |
 | Sous-Chef | 7.00% | ~15 |
 | Haute Cuisine | 7.00% | ~15 |
-| Well-Stocked Kitchen | 5.00% | ~11 |
+| Well-Stocked Kitchen | 6.00% | ~13 |
 | Culinary Arts | 4.00% | ~9 |
 | Perfectionist | 4.00% | ~9 |
 | Rolling in Dough | 3.00% | ~6 |
@@ -45,7 +45,7 @@
 | A Star is Born | 0.00% | ~0 |
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 214 (Ranked 231)  
+Progressed: 214 (Ranked 232)  
 Completed: 0 (0.00%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |

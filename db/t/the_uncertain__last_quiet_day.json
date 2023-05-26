@@ -2,7 +2,7 @@
   "ID": "2295b951b8f84e86b950bfaf7cadef60",
   "Name": "The Uncertain: Last Quiet Day",
   "ProductSlug": "the-uncertain-last-quiet-day",
-  "Ranking_EOS_Progress": 195,
+  "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 40,
   "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 86,
@@ -284,9 +284,9 @@
       "ID": "HE_IS_JUST_A_CHILD",
       "SetID": "2iigf77",
       "Name": "He is just a child",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 86
+      "UsersEstimate": 90
     },
     {
       "ID": "HIPSTER",
@@ -445,8 +445,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-05-26T15:07:13.0029101+00:00",
+  "LastChanged_Achievements": "2023-05-26T16:07:08.8081799+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:21.9827734+00:00",
-  "LastUpdate_Ratings": "2023-05-26T14:59:41.4984422+00:00",
-  "LastUpdate_Achievements": "2023-05-26T15:07:13.0029391+00:00"
+  "LastUpdate_Ratings": "2023-05-26T15:59:30.3401176+00:00",
+  "LastUpdate_Achievements": "2023-05-26T16:07:08.8082181+00:00"
 }

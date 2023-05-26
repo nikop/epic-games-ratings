@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 8,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -30,8 +30,8 @@
   "Tags": [],
   "EOS_Progressed": 167,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 71,
-  "EOS_NewCompleters": 12,
+  "EOS_NewPlayers": 70,
+  "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 16.17,
   "EosHistory": [
     {
@@ -823,33 +823,33 @@
       "ID": "LEVEL_008",
       "SetID": "3khpmem",
       "Name": "Passion for sports",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "LEVEL_009",
       "SetID": "3khpmem",
       "Name": "Who loves trains?",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "LEVEL_010",
       "SetID": "3khpmem",
       "Name": "Easy and steady climb",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "LEVEL_011",
       "SetID": "3khpmem",
       "Name": "At the heart of the city",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "LEVEL_012",
@@ -952,8 +952,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-26T15:06:57.8339455+00:00",
+  "LastChanged_Achievements": "2023-05-26T16:06:52.9635689+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:36.8517809+00:00",
-  "LastUpdate_Ratings": "2023-05-26T14:58:43.3906575+00:00",
-  "LastUpdate_Achievements": "2023-05-26T15:06:57.8339703+00:00"
+  "LastUpdate_Ratings": "2023-05-26T15:58:34.7535084+00:00",
+  "LastUpdate_Achievements": "2023-05-26T16:06:52.9635938+00:00"
 }

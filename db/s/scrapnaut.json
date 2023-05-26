@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 181,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -129,9 +129,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 205,
+  "EOS_Progressed": 206,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -354,6 +354,11 @@
       "Time": "2023-05-26T14:05:59.149598+00:00",
       "NumProgressed": 205,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T16:06:54.1425587+00:00",
+      "NumProgressed": 206,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 31,
@@ -363,9 +368,9 @@
       "ID": "ACH_10_DIG",
       "SetID": "7c4cldc",
       "Name": "Digger",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_ALL_TELEPORTS",
@@ -395,9 +400,9 @@
       "ID": "ACH_COLLECT_100_SCRAP",
       "SetID": "7c4cldc",
       "Name": "Scrap Master",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_COLLECT_10_HERBS",
@@ -405,7 +410,7 @@
       "Name": "Herbalist",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "ACH_COLLECT_10_MUSHROOMS",
@@ -429,7 +434,7 @@
       "Name": "Blacksmith",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_COLLECT_30_BLUE_BOOKS",
@@ -451,9 +456,9 @@
       "ID": "ACH_COLLECT_50_SCRAP",
       "SetID": "7c4cldc",
       "Name": "Scrap Gatherer",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_COOK",
@@ -485,7 +490,7 @@
       "Name": "Forest Lord",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_FIND_10_TREASURES",
@@ -517,7 +522,7 @@
       "Name": "Scrapper",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ACH_KILL_50",
@@ -525,7 +530,7 @@
       "Name": "Robot Destroyer",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_MAKE_CANNED_FOOD",
@@ -533,7 +538,7 @@
       "Name": "Prepper",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_MAKE_FUEL",
@@ -557,7 +562,7 @@
       "Name": "Mythical Smelter",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_PERMADEATH",
@@ -612,7 +617,7 @@
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 205,
+      "Progressed": 206,
       "Completed": 0
     }
   ],
@@ -620,8 +625,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-03-31T05:58:41.9972886+00:00",
-  "LastChanged_Achievements": "2023-05-26T15:06:58.9825045+00:00",
+  "LastChanged_Achievements": "2023-05-26T16:06:54.1425577+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:01.8031827+00:00",
-  "LastUpdate_Ratings": "2023-05-26T14:59:21.6697217+00:00",
-  "LastUpdate_Achievements": "2023-05-26T15:06:58.9825326+00:00"
+  "LastUpdate_Ratings": "2023-05-26T15:59:10.6102817+00:00",
+  "LastUpdate_Achievements": "2023-05-26T16:06:54.1425846+00:00"
 }

@@ -6,10 +6,10 @@ Rating: 4.17 (Ranked 837)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 2.00% | ~1,243 |
-| To the Victor Go the Spoils | 1.00% | ~621 |
-| Har, Har, Har, Very Funny | 1.00% | ~621 |
-| Knighthood | 1.00% | ~621 |
-| Loose Ends | 1.00% | ~621 |
+| To the Victor Go the Spoils | 1.00% | ~622 |
+| Har, Har, Har, Very Funny | 1.00% | ~622 |
+| Knighthood | 1.00% | ~622 |
+| Loose Ends | 1.00% | ~622 |
 | Get ReQ'd | 0.90% | ~559 |
 | The Batman Family | 0.80% | ~497 |
 | Something in the Clay | 0.80% | ~497 |
@@ -19,6 +19,7 @@ Rating: 4.17 (Ranked 837)
 | Whispered Words | 0.80% | ~497 |
 | Protector of Gotham | 0.70% | ~435 |
 | The Show Mud Go On | 0.70% | ~435 |
+| Universal Health Scare | 0.70% | ~435 |
 | Unstoppable Force | 0.70% | ~435 |
 | Lock and Key | 0.70% | ~435 |
 | Bad Apples in Every Orchard | 0.70% | ~435 |
@@ -26,7 +27,6 @@ Rating: 4.17 (Ranked 837)
 | Rock and a Hard Place | 0.60% | ~373 |
 | Shock Til They Drop | 0.60% | ~373 |
 | Cooldown | 0.60% | ~373 |
-| Universal Health Scare | 0.60% | ~373 |
 | Voiceless | 0.60% | ~373 |
 | Seeking Asylum | 0.60% | ~373 |
 | Gotham Knight | 0.60% | ~373 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 837)
 | Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,144 (Ranked 70)  
+Progressed: 62,153 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,10 +103,10 @@ Completed: 91 (0.15%) (Ranked 148)
 | 2023-05-23 | 61,842 | 91 |
 | 2023-05-24 | 61,945 | 91 |
 | 2023-05-25 | 62,051 | 91 |
-| 2023-05-26 | 62,144 | 91 |
+| 2023-05-26 | 62,153 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,237  (Ranked 98)  
-Sum: 3,714 (Ranked 138)  
+Sum: 3,715 (Ranked 138)  
 Diff (max vs sum): -40  
 | Award | Count |
 | ----- | ----- |
@@ -118,7 +118,7 @@ Diff (max vs sum): -40
 | This game has Diverse Characters | 182 |
 | This game is Highly Recommended | 181 |
 | This game has Amazing Storytelling | 179 |
-| This game is Great for Beginners | 174 |
+| This game is Great for Beginners | 175 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -217,3 +217,4 @@ Diff (max vs sum): -40
 | 2023-05-23 | 4.17 | 2,231 | 3,704 |
 | 2023-05-24 | 4.17 | 2,234 | 3,709 |
 | 2023-05-25 | 4.17 | 2,237 | 3,714 |
+| 2023-05-26 | 4.17 | 2,237 | 3,715 |

@@ -17,12 +17,12 @@ Rating: 4.18 (Ranked 831)
 | Reforged | 3.00% | ~410 |
 | Paper Jams | 3.00% | ~410 |
 | Bear Trap | 3.00% | ~48 |
-| Get a Grip | 2.00% | ~273 |
-| Terminated | 2.00% | ~273 |
-| The Commonality | 2.00% | ~273 |
-| Mugshot | 2.00% | ~273 |
-| If the SHU Fits... | 2.00% | ~273 |
-| Without A Paddle | 2.00% | ~273 |
+| Get a Grip | 2.00% | ~274 |
+| Terminated | 2.00% | ~274 |
+| The Commonality | 2.00% | ~274 |
+| Mugshot | 2.00% | ~274 |
+| If the SHU Fits... | 2.00% | ~274 |
+| Without A Paddle | 2.00% | ~274 |
 | Big Spender | 2.00% | ~32 |
 | Parole Denied | 1.00% | ~16 |
 | Two Heads Are Better Than One | 1.00% | ~137 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 831)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,673 (Ranked 102)  
+Progressed: 13,678 (Ranked 102)  
 Completed: 53 (0.39%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 53 (0.39%) (Ranked 112)
 | 2023-05-23 | 13,444 | 52 |
 | 2023-05-24 | 13,523 | 52 |
 | 2023-05-25 | 13,610 | 52 |
-| 2023-05-26 | 13,673 | 53 |
+| 2023-05-26 | 13,678 | 53 |
 ## Awards
 Max (Highly Recommended): 46  (Ranked 398)  
 Sum: 267 (Ranked 335)  

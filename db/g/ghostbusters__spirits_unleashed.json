@@ -1068,9 +1068,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 22244,
+  "EOS_Progressed": 22245,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 263,
+  "EOS_NewPlayers": 262,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3678,6 +3678,11 @@
       "Time": "2023-05-26T15:07:26.8378529+00:00",
       "NumProgressed": 22244,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-05-26T16:07:22.9978564+00:00",
+      "NumProgressed": 22245,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -3689,7 +3694,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 16238
+      "UsersEstimate": 16239
     },
     {
       "ID": "Animated",
@@ -3753,7 +3758,7 @@
       "Name": "Cultured",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 11789
+      "UsersEstimate": 11790
     },
     {
       "ID": "Daily_Dose",
@@ -3761,7 +3766,7 @@
       "Name": "Daily Dose",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 7785
+      "UsersEstimate": 7786
     },
     {
       "ID": "Diabolical",
@@ -3777,7 +3782,7 @@
       "Name": "Discovery",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 13791
+      "UsersEstimate": 13792
     },
     {
       "ID": "Dont_Need_These",
@@ -3801,7 +3806,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 14236
+      "UsersEstimate": 14237
     },
     {
       "ID": "Escape_Artist",
@@ -3825,7 +3830,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 12234
+      "UsersEstimate": 12235
     },
     {
       "ID": "GB_In_Training",
@@ -3849,7 +3854,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 6673
+      "UsersEstimate": 6674
     },
     {
       "ID": "Legions",
@@ -3905,7 +3910,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 5783
+      "UsersEstimate": 5784
     },
     {
       "ID": "Reckless",
@@ -3961,7 +3966,7 @@
       "Name": "Side Hustle",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 6228
+      "UsersEstimate": 6229
     },
     {
       "ID": "Skilled",
@@ -3993,7 +3998,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 19130
+      "UsersEstimate": 19131
     },
     {
       "ID": "Summoner",
@@ -4033,7 +4038,7 @@
       "Name": "Terrifying",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 3781
+      "UsersEstimate": 3782
     },
     {
       "ID": "Therapeutic",
@@ -4049,7 +4054,7 @@
       "Name": "There you are!",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 9787
+      "UsersEstimate": 9788
     },
     {
       "ID": "Tobins_Prodigy",
@@ -4057,7 +4062,7 @@
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4226
+      "UsersEstimate": 4227
     },
     {
       "ID": "Ultimate_Defense",
@@ -4096,7 +4101,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 22244,
+      "Progressed": 22245,
       "Completed": 40
     }
   ],
@@ -4104,8 +4109,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-05-25T22:58:59.1913645+00:00",
-  "LastChanged_Achievements": "2023-05-26T15:07:26.8378524+00:00",
+  "LastChanged_Achievements": "2023-05-26T16:07:22.9978557+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:13.3107598+00:00",
-  "LastUpdate_Ratings": "2023-05-26T14:59:58.5377177+00:00",
-  "LastUpdate_Achievements": "2023-05-26T15:07:26.8379141+00:00"
+  "LastUpdate_Ratings": "2023-05-26T15:59:46.294068+00:00",
+  "LastUpdate_Achievements": "2023-05-26T16:07:22.9979178+00:00"
 }

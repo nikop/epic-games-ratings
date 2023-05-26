@@ -12,28 +12,28 @@ Rating: 4.29 (Ranked 766)
 | Burn and Pillage | 4.00% | ~32 |
 | Hear me out | 4.00% | ~32 |
 | Listening to the crowd | 4.00% | ~32 |
-| Accepting the Prophecy | 4.00% | ~32 |
 | Ascended | 3.00% | ~24 |
 | Greedy | 3.00% | ~24 |
 | Hidden Secrets | 3.00% | ~24 |
 | The Stranded King | 3.00% | ~24 |
-| Prophecy Fulfilled | 3.00% | ~24 |
+| Accepting the Prophecy | 3.00% | ~24 |
 | Just Chilling | 2.00% | ~16 |
 | Incredible Strength | 2.00% | ~16 |
-| The Greedy Ones | 2.00% | ~16 |
 | The Penitent Ones | 2.00% | ~16 |
+| Prophecy Fulfilled | 2.00% | ~16 |
 | The First King | 1.00% | ~8 |
 | The great fire | 1.00% | ~8 |
+| The Greedy Ones | 1.00% | ~8 |
 | The Unruly Ones | 1.00% | ~8 |
-| The Council | 0.80% | ~6 |
+| The Council | 0.70% | ~6 |
 | The Mad | 0.60% | ~5 |
 | Like the dream | 0.50% | ~4 |
-| The Great Winter | 0.30% | ~2 |
-| Red Tape | 0.30% | ~2 |
-| Mad Engineers | 0.30% | ~2 |
-| Charismatic Leader | 0.30% | ~2 |
-| Metropolis | 0.30% | ~2 |
-| Knowledge is Power | 0.30% | ~2 |
+| The Great Winter | 0.20% | ~2 |
+| Red Tape | 0.20% | ~2 |
+| Mad Engineers | 0.20% | ~2 |
+| Charismatic Leader | 0.20% | ~2 |
+| Metropolis | 0.20% | ~2 |
+| Knowledge is Power | 0.20% | ~2 |
 | Six Faces | 0.10% | ~1 |
 | It's spreading | 0.10% | ~1 |
 | The Flail | 0.10% | ~1 |
@@ -51,7 +51,7 @@ Rating: 4.29 (Ranked 766)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 799 (Ranked 179)  
+Progressed: 801 (Ranked 179)  
 Completed: 0 (0.00%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 203)
 | 2023-05-23 | 784 | 0 |
 | 2023-05-24 | 789 | 0 |
 | 2023-05-25 | 797 | 0 |
-| 2023-05-26 | 799 | 0 |
+| 2023-05-26 | 801 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

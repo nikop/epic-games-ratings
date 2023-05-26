@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2778,
+  "EOS_Progressed": 2779,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -1334,6 +1334,11 @@
       "Time": "2023-05-26T15:07:36.192798+00:00",
       "NumProgressed": 2778,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-26T16:07:32.3275549+00:00",
+      "NumProgressed": 2779,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 33,
@@ -1353,7 +1358,7 @@
       "Name": "Sniped",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "bonus3",
@@ -1393,7 +1398,7 @@
       "Name": "You and what Army?",
       "Percentage": 90,
       "XP": 30,
-      "UsersEstimate": 2500
+      "UsersEstimate": 2501
     },
     {
       "ID": "campaign10",
@@ -1401,7 +1406,7 @@
       "Name": "Leave Them no Cake",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "campaign11",
@@ -1417,7 +1422,7 @@
       "Name": "Would be a Shame if Someone Would Waste Those Units",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "campaign13",
@@ -1481,7 +1486,7 @@
       "Name": "Flanked!",
       "Percentage": 80,
       "XP": 30,
-      "UsersEstimate": 2222
+      "UsersEstimate": 2223
     },
     {
       "ID": "campaign20",
@@ -1608,7 +1613,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 2778,
+      "Progressed": 2779,
       "Completed": 9
     }
   ],
@@ -1616,8 +1621,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-05-26T15:07:36.1927975+00:00",
+  "LastChanged_Achievements": "2023-05-26T16:07:32.3275543+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:08.6918917+00:00",
-  "LastUpdate_Ratings": "2023-05-26T15:01:46.7739146+00:00",
-  "LastUpdate_Achievements": "2023-05-26T15:07:36.1928346+00:00"
+  "LastUpdate_Ratings": "2023-05-26T16:01:32.4633065+00:00",
+  "LastUpdate_Achievements": "2023-05-26T16:07:32.3275956+00:00"
 }

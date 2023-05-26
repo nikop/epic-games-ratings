@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -522,9 +522,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2654,
+  "EOS_Progressed": 2657,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1012,6 +1012,11 @@
       "Time": "2023-05-26T15:07:31.1841357+00:00",
       "NumProgressed": 2654,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T16:07:27.2991796+00:00",
+      "NumProgressed": 2657,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1039,7 +1044,7 @@
       "Name": "Look Over There!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "BloodAndIron",
@@ -1117,9 +1122,9 @@
       "ID": "ExtractorSkullUses",
       "SetID": "3jha1np",
       "Name": "Surgical Excision",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 372
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -1215,7 +1220,7 @@
       "Name": "Executioner",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "Kills_Exterminator",
@@ -1255,7 +1260,7 @@
       "Name": "Purging Spree",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "Kills_Vakir",
@@ -1295,7 +1300,7 @@
       "Name": "Nemesis Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "MasterCraftLevel3_Ranged",
@@ -1303,7 +1308,7 @@
       "Name": "Gunmaster",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "MasterOfTheForge",
@@ -1391,7 +1396,7 @@
       "Name": "A Foul Creche",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -1494,21 +1499,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2654,
+      "Progressed": 2657,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2654,
+      "Progressed": 2657,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-26T15:07:31.1841351+00:00",
+  "LastChanged_Achievements": "2023-05-26T16:07:27.2991787+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:13.6314729+00:00",
-  "LastUpdate_Ratings": "2023-05-26T14:59:34.2954208+00:00",
-  "LastUpdate_Achievements": "2023-05-26T15:07:31.1841932+00:00"
+  "LastUpdate_Ratings": "2023-05-26T15:59:23.7468983+00:00",
+  "LastUpdate_Achievements": "2023-05-26T16:07:27.299246+00:00"
 }

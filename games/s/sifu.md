@@ -7,11 +7,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 4.00% | ~590 |
-| Project Arena | 3.00% | ~442 |
-| The Hateful Pole Fighter | 1.00% | ~7,054 |
-| Qi Gong: Breath | 1.00% | ~7,054 |
-| Bloody Sport | 1.00% | ~147 |
-| The best strikes are the ones we avoid | 1.00% | ~147 |
+| Project Arena | 3.00% | ~443 |
+| The Hateful Pole Fighter | 1.00% | ~7,055 |
+| Qi Gong: Breath | 1.00% | ~7,055 |
+| Bloody Sport | 1.00% | ~148 |
+| The best strikes are the ones we avoid | 1.00% | ~148 |
 | The Old Grandmaster | 0.90% | ~6,349 |
 | The Assault | 0.90% | ~6,349 |
 | A Lady's Blood in the Snow | 0.90% | ~6,349 |
@@ -23,16 +23,16 @@ Number of Ratings: 9,492  (23.09.2022)
 | Lady Wing Chun | 0.80% | ~5,644 |
 | Furious Fists | 0.80% | ~5,644 |
 | Kill Nil | 0.80% | ~5,644 |
+| Stuntmaster | 0.80% | ~5,644 |
 | Street Fighting | 0.80% | ~5,644 |
 | Qi Gong: Essence | 0.80% | ~5,644 |
 | Take damage to save time | 0.80% | ~5,644 |
 | Scareless | 0.70% | ~4,938 |
-| Stuntmaster | 0.70% | ~4,938 |
 | Old Child | 0.70% | ~4,938 |
 | Dance of the Praying Mantis | 0.60% | ~4,233 |
 | Qi Gong: Mind | 0.60% | ~4,233 |
 | Kung-Fu Tussle | 0.60% | ~4,233 |
-| Deadly Venom | 0.60% | ~88 |
+| Deadly Venom | 0.60% | ~89 |
 | Muk Yan Master | 0.50% | ~3,527 |
 | I know Kung-Fu | 0.50% | ~3,527 |
 | A Touch of Acumen | 0.50% | ~74 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~705 |
 | Warriors from the Mountain | 0.10% | ~705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705,441 (Ranked 15)  
+Progressed: 705,461 (Ranked 15)  
 Completed: 12,736 (1.81%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 12,736 (1.81%) (Ranked 64)
 | 2023-05-23 | 704,864 | 12,733 |
 | 2023-05-24 | 705,048 | 12,734 |
 | 2023-05-25 | 705,232 | 12,734 |
-| 2023-05-26 | 705,441 | 12,736 |
+| 2023-05-26 | 705,461 | 12,736 |
 ## Awards
 Max (Great Boss Battles): 6,094  (Ranked 53)  
 Sum: 10,379 (Ranked 77)  

@@ -5,19 +5,19 @@ Rating: 4.39 (Ranked 687)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 17.00% | ~253 |
-| Confirming Suspicions | 13.00% | ~193 |
-| The Kraken Wakes | 10.00% | ~149 |
-| Lord of War | 7.00% | ~104 |
-| It's Starting to Crack | 7.00% | ~104 |
-| Resourceful | 6.00% | ~89 |
-| Enemy at the Gates | 5.00% | ~74 |
-| Organ Grinder | 5.00% | ~74 |
-| Change the Channel | 5.00% | ~74 |
-| Just a Flesh Wound | 4.00% | ~59 |
-| Explosive Efficiency | 4.00% | ~59 |
-| As Quiet as a Mouse | 4.00% | ~59 |
-| Taking it back | 4.00% | ~59 |
+| Meeting Resistance | 17.00% | ~254 |
+| Confirming Suspicions | 13.00% | ~195 |
+| The Kraken Wakes | 10.00% | ~150 |
+| It's Starting to Crack | 7.00% | ~105 |
+| Lord of War | 6.00% | ~90 |
+| Resourceful | 6.00% | ~90 |
+| Enemy at the Gates | 5.00% | ~75 |
+| Organ Grinder | 5.00% | ~75 |
+| Change the Channel | 5.00% | ~75 |
+| Just a Flesh Wound | 4.00% | ~60 |
+| Explosive Efficiency | 4.00% | ~60 |
+| As Quiet as a Mouse | 4.00% | ~60 |
+| Taking it back | 4.00% | ~60 |
 | Opposing Force | 3.00% | ~45 |
 | Gunslinger | 3.00% | ~45 |
 | Sharpshooter | 3.00% | ~45 |
@@ -42,10 +42,10 @@ Rating: 4.39 (Ranked 687)
 | Locomotion Commotion | 0.60% | ~9 |
 | Herr Today, Gone Tomorrow | 0.60% | ~9 |
 | Operation Foxley | 0.60% | ~9 |
+| Ghost of Falaise | 0.60% | ~9 |
 | Strategist | 0.50% | ~7 |
 | Last Resort | 0.50% | ~7 |
 | Siegebreaker | 0.50% | ~7 |
-| Ghost of Falaise | 0.50% | ~7 |
 | From Paris with Love | 0.30% | ~4 |
 | Tinkerer | 0.30% | ~4 |
 | Don't hold your breath | 0.30% | ~4 |
@@ -77,7 +77,7 @@ Rating: 4.39 (Ranked 687)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,487 (Ranked 156)  
+Progressed: 1,497 (Ranked 156)  
 Completed: 2 (0.13%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 2 (0.13%) (Ranked 153)
 | 2023-05-23 | 1,294 | 2 |
 | 2023-05-24 | 1,365 | 2 |
 | 2023-05-25 | 1,428 | 2 |
-| 2023-05-26 | 1,487 | 2 |
+| 2023-05-26 | 1,497 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewPlayers": 62,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -428,9 +428,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13673,
+  "EOS_Progressed": 13678,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 930,
+  "EOS_NewPlayers": 922,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1643,6 +1643,11 @@
       "Time": "2023-05-26T15:04:17.164002+00:00",
       "NumProgressed": 13673,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-26T16:03:58.3502093+00:00",
+      "NumProgressed": 13678,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -1758,7 +1763,7 @@
       "Name": "Get a Grip",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -1790,7 +1795,7 @@
       "Name": "Terminated",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -1806,7 +1811,7 @@
       "Name": "The Commonality",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -1838,7 +1843,7 @@
       "Name": "Mugshot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -1854,7 +1859,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "STORY_HABITAT",
@@ -1862,7 +1867,7 @@
       "Name": "Without A Paddle",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "STORY_HANGAR",
@@ -1973,13 +1978,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13673,
+      "Progressed": 13678,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1599,
+      "Progressed": 1604,
       "Completed": 29
     }
   ],
@@ -1987,8 +1992,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-23T19:57:59.4143533+00:00",
-  "LastChanged_Achievements": "2023-05-26T15:04:17.164001+00:00",
+  "LastChanged_Achievements": "2023-05-26T16:03:58.3502085+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-26T14:58:28.8949882+00:00",
-  "LastUpdate_Achievements": "2023-05-26T15:04:17.1640448+00:00"
+  "LastUpdate_Ratings": "2023-05-26T15:58:21.0945162+00:00",
+  "LastUpdate_Achievements": "2023-05-26T16:03:58.3502499+00:00"
 }

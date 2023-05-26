@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -574,7 +574,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5860,
+  "EOS_Progressed": 5862,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
@@ -1504,6 +1504,11 @@
       "Time": "2023-05-26T15:07:09.4408383+00:00",
       "NumProgressed": 5860,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-26T16:07:05.1761245+00:00",
+      "NumProgressed": 5862,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -1523,7 +1528,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -1531,7 +1536,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 2696
+      "UsersEstimate": 2697
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -1563,7 +1568,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 2051
+      "UsersEstimate": 2052
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -1627,7 +1632,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 1875
+      "UsersEstimate": 1876
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -1651,7 +1656,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -1683,7 +1688,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 2051
+      "UsersEstimate": 2052
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -1691,7 +1696,7 @@
       "Name": "Millenial",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "ISONZO_ACH_O_LA_VITTORIA_O_TUTTI_ACCOPPATI",
@@ -1707,7 +1712,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3164
+      "UsersEstimate": 3165
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -1723,7 +1728,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -1803,7 +1808,7 @@
       "Name": "The Italian Job",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -1843,7 +1848,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3106
+      "UsersEstimate": 3107
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -1867,14 +1872,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 3047
+      "UsersEstimate": 3048
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5860,
+      "Progressed": 5862,
       "Completed": 8
     }
   ],
@@ -1882,8 +1887,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-26T13:57:31.121952+00:00",
-  "LastChanged_Achievements": "2023-05-26T15:07:09.4408378+00:00",
+  "LastChanged_Achievements": "2023-05-26T16:07:05.1761239+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:10.2290416+00:00",
-  "LastUpdate_Ratings": "2023-05-26T14:57:50.7852749+00:00",
-  "LastUpdate_Achievements": "2023-05-26T15:07:09.4409111+00:00"
+  "LastUpdate_Ratings": "2023-05-26T15:57:42.8539692+00:00",
+  "LastUpdate_Achievements": "2023-05-26T16:07:05.1761698+00:00"
 }

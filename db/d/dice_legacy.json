@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 799,
+  "EOS_Progressed": 801,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -458,6 +458,11 @@
       "Time": "2023-05-26T03:05:47.6708288+00:00",
       "NumProgressed": 799,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T16:06:58.9536917+00:00",
+      "NumProgressed": 801,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -499,7 +504,7 @@
       "ID": "CHALLENGE_GREATWINTER",
       "SetID": "6ohhfoc",
       "Name": "The Great Winter",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -507,7 +512,7 @@
       "ID": "CHALLENGE_ITALY",
       "SetID": "6ohhfoc",
       "Name": "Red Tape",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -515,7 +520,7 @@
       "ID": "CHALLENGE_MEGARANDOM",
       "SetID": "6ohhfoc",
       "Name": "Mad Engineers",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -523,7 +528,7 @@
       "ID": "CHALLENGE_RANDOMPOPULATION",
       "SetID": "6ohhfoc",
       "Name": "Charismatic Leader",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -531,7 +536,7 @@
       "ID": "CHALLENGE_SCORTCHINGSUMMER",
       "SetID": "6ohhfoc",
       "Name": "Metropolis",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -627,9 +632,9 @@
       "ID": "EXILED_MERCHANT_FRIEND",
       "SetID": "6ohhfoc",
       "Name": "The Greedy Ones",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 8
     },
     {
       "ID": "EXILED_PRIEST_FRIEND",
@@ -715,7 +720,7 @@
       "ID": "TRIPLE_WORKSHOP_PRODUCTION",
       "SetID": "6ohhfoc",
       "Name": "Knowledge is Power",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -731,7 +736,7 @@
       "ID": "UNLOCK_RULERS_BASEGAME",
       "SetID": "6ohhfoc",
       "Name": "The Council",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 5,
       "UsersEstimate": 6
     },
@@ -811,24 +816,24 @@
       "ID": "WINMATCH_DIFF_PACIFIST",
       "SetID": "6ohhfoc",
       "Name": "Accepting the Prophecy",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 24
     },
     {
       "ID": "WINMATCH_DIFF_STANDARD",
       "SetID": "6ohhfoc",
       "Name": "Prophecy Fulfilled",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 16
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 799,
+      "Progressed": 801,
       "Completed": 0
     }
   ],
@@ -836,8 +841,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-03-31T05:57:30.891724+00:00",
-  "LastChanged_Achievements": "2023-05-26T15:07:03.4656796+00:00",
+  "LastChanged_Achievements": "2023-05-26T16:06:58.9536911+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:12.8802824+00:00",
-  "LastUpdate_Ratings": "2023-05-26T14:58:16.7934899+00:00",
-  "LastUpdate_Achievements": "2023-05-26T15:07:03.4657713+00:00"
+  "LastUpdate_Ratings": "2023-05-26T15:58:08.4403135+00:00",
+  "LastUpdate_Achievements": "2023-05-26T16:06:58.9537412+00:00"
 }

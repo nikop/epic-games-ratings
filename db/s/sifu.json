@@ -4230,9 +4230,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 705441,
+  "EOS_Progressed": 705461,
   "EOS_Completed": 12736,
-  "EOS_NewPlayers": 1986,
+  "EOS_NewPlayers": 1972,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -7280,6 +7280,11 @@
       "Time": "2023-05-26T15:07:30.1332062+00:00",
       "NumProgressed": 705441,
       "NumCompleted": 12736
+    },
+    {
+      "Time": "2023-05-26T16:07:26.2364456+00:00",
+      "NumProgressed": 705461,
+      "NumCompleted": 12736
     }
   ],
   "TotalAchievements": 50,
@@ -7307,7 +7312,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7054
+      "UsersEstimate": 7055
     },
     {
       "ID": "04_Vengeance_H3",
@@ -7441,9 +7446,9 @@
       "ID": "20_Traversal_Trophy",
       "SetID": "adcm20g",
       "Name": "Stuntmaster",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 4938
+      "UsersEstimate": 5644
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -7491,7 +7496,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7054
+      "UsersEstimate": 7055
     },
     {
       "ID": "27_ShrineBody",
@@ -7627,7 +7632,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -7643,7 +7648,7 @@
       "Name": "Bloody Sport",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -7659,7 +7664,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -7675,7 +7680,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -7690,21 +7695,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 14742,
+      "Progressed": 14762,
       "Completed": 10172
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 705441,
+      "Progressed": 705461,
       "Completed": 12736
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-26T13:59:28.4334382+00:00",
-  "LastChanged_Achievements": "2023-05-26T15:07:30.1332054+00:00",
+  "LastChanged_Achievements": "2023-05-26T16:07:26.2364448+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.7579865+00:00",
-  "LastUpdate_Ratings": "2023-05-26T15:00:05.6198812+00:00",
-  "LastUpdate_Achievements": "2023-05-26T15:07:30.1332735+00:00"
+  "LastUpdate_Ratings": "2023-05-26T15:59:53.4157408+00:00",
+  "LastUpdate_Achievements": "2023-05-26T16:07:26.236519+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 374,
+  "EOS_Progressed": 375,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -160,6 +160,11 @@
       "Time": "2023-05-26T14:06:17.614716+00:00",
       "NumProgressed": 374,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-26T16:07:15.132761+00:00",
+      "NumProgressed": 375,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -171,7 +176,7 @@
       "Name": "Strength and Sorcery",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "assemble-team2",
@@ -179,7 +184,7 @@
       "Name": "Brain and Brawn",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "assemble-team3",
@@ -217,17 +222,17 @@
       "ID": "collect-sacrifices",
       "SetID": "799afm0",
       "Name": "No Mercy",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 158
     },
     {
       "ID": "different-items1",
       "SetID": "799afm0",
       "Name": "Party",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 172
     },
     {
       "ID": "different-items2",
@@ -243,7 +248,7 @@
       "Name": "Fat of the Earth",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "finished-quest-cube",
@@ -251,7 +256,7 @@
       "Name": "Impossible Cube",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "finished-quest-flight",
@@ -289,9 +294,9 @@
       "ID": "finished-quest-rat",
       "SetID": "799afm0",
       "Name": "The Return of a Rat",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 146
     },
     {
       "ID": "finished-quest-reaper",
@@ -313,9 +318,9 @@
       "ID": "finished-quest-secret",
       "SetID": "799afm0",
       "Name": "To the Moon and Back",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 71
     },
     {
       "ID": "finished-quest-sword",
@@ -323,7 +328,7 @@
       "Name": "Holy Vengeance",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "get-all",
@@ -371,7 +376,7 @@
       "Name": "Munchkin",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "win-campaign",
@@ -387,7 +392,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "win-first-level",
@@ -395,7 +400,7 @@
       "Name": "Good start!",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "win-koth-fights1",
@@ -435,7 +440,7 @@
       "Name": "Honorary Cultist",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "win-with-mrakus",
@@ -450,7 +455,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 374,
+      "Progressed": 375,
       "Completed": 1
     }
   ],
@@ -458,8 +463,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2023-05-26T15:07:19.2445065+00:00",
+  "LastChanged_Achievements": "2023-05-26T16:07:15.1327603+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:20.0092319+00:00",
-  "LastUpdate_Ratings": "2023-05-26T14:59:39.8934283+00:00",
-  "LastUpdate_Achievements": "2023-05-26T15:07:19.2445472+00:00"
+  "LastUpdate_Ratings": "2023-05-26T15:59:28.1699097+00:00",
+  "LastUpdate_Achievements": "2023-05-26T16:07:15.1328065+00:00"
 }

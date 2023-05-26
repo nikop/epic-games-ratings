@@ -13,6 +13,7 @@
 | Equality | 40.00% | ~4 |
 | An Unheard Song | 40.00% | ~4 |
 | Let There Be Light | 40.00% | ~4 |
+| Strangers You Meet | 30.00% | ~3 |
 | I'll Become... A Beast | 30.00% | ~3 |
 | In Service Of Others | 30.00% | ~3 |
 | Goodbye Dear Friend | 30.00% | ~3 |
@@ -22,7 +23,6 @@
 | Behold, The Nagarimau | 30.00% | ~3 |
 | Clipped Wings | 30.00% | ~3 |
 | Lady In The Book | 30.00% | ~3 |
-| Strangers You Meet | 20.00% | ~2 |
 | Losing A Small, Good Thing | 20.00% | ~2 |
 | True Potential Unlocked | 20.00% | ~2 |
 | Guli Novice | 20.00% | ~2 |
@@ -31,6 +31,7 @@
 | Congkak Legend | 20.00% | ~2 |
 | Deep Thinker | 20.00% | ~2 |
 | Face Value | 20.00% | ~2 |
+| Unbiased | 20.00% | ~2 |
 | I Like Salty Seawater | 20.00% | ~2 |
 | I Sit On The Beach, Watching The Tide Leave | 20.00% | ~2 |
 | A Foot In Reality | 20.00% | ~2 |
@@ -52,7 +53,6 @@
 | Uncommitted | 10.00% | ~1 |
 | Thou Art Naive | 10.00% | ~1 |
 | Philosopher | 10.00% | ~1 |
-| Unbiased | 10.00% | ~1 |
 | There's Something About You... | 10.00% | ~1 |
 | Under The Sea | 10.00% | ~1 |
 | To Live And Die Free | 10.00% | ~1 |
