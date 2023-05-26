@@ -4,7 +4,7 @@
   "ProductSlug": "lost-words-beyond-the-page",
   "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-04-06T13:00:00+00:00",
@@ -40,6 +40,6 @@
   "FirstSeenRating": "2023-03-31T05:58:28.9715136+00:00",
   "LastChanged": "2023-03-31T05:58:28.9715138+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:55.2499032+00:00",
-  "LastUpdate_Ratings": "2023-05-26T10:57:31.8175515+00:00",
-  "LastUpdate_Achievements": "2023-05-26T11:04:25.5154326+00:00"
+  "LastUpdate_Ratings": "2023-05-26T11:57:08.3174981+00:00",
+  "LastUpdate_Achievements": "2023-05-26T12:03:42.0006571+00:00"
 }

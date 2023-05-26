@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -479,7 +479,7 @@
   ],
   "EOS_Progressed": 12705,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 190,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -2716,9 +2716,9 @@
       "ID": "tpote_achievement_14",
       "SetID": "3jcf6c3",
       "Name": "Friends of sorts",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 4320
+      "UsersEstimate": 4447
     },
     {
       "ID": "tpote_achievement_15",
@@ -3012,8 +3012,8 @@
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-05-24T02:59:22.8736944+00:00",
-  "LastChanged_Achievements": "2023-05-26T11:05:54.3554101+00:00",
+  "LastChanged_Achievements": "2023-05-26T12:04:55.2705018+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:09:49.1992061+00:00",
-  "LastUpdate_Ratings": "2023-05-26T11:00:22.696545+00:00",
-  "LastUpdate_Achievements": "2023-05-26T11:05:54.355454+00:00"
+  "LastUpdate_Ratings": "2023-05-26T11:59:31.8830947+00:00",
+  "LastUpdate_Achievements": "2023-05-26T12:04:55.2705449+00:00"
 }

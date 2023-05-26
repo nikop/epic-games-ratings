@@ -21,9 +21,9 @@ Rating: 4.78 (Ranked 99)
 | Cypress Glen Headquarters | 31.00% | ~669 |
 | Petricite Burst | 27.00% | ~583 |
 | Old friend | 26.00% | ~561 |
+| Devineur | 26.00% | ~561 |
 | Whispers in the Woods I | 25.00% | ~540 |
 | Hijack | 25.00% | ~540 |
-| Devineur | 25.00% | ~540 |
 | I chose my shackles | 22.00% | ~475 |
 | Ancient power | 22.00% | ~475 |
 | Sacred Woods | 21.00% | ~453 |

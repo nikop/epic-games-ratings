@@ -8,8 +8,8 @@ Number of Ratings: 368  (23.09.2022)
 | ---- | ---------- | ----- |
 | Tattletale | 42.00% | ~5,336 |
 | Man of politics | 36.00% | ~4,574 |
+| Friends of sorts | 35.00% | ~4,447 |
 | Yet another secret | 35.00% | ~4,447 |
-| Friends of sorts | 34.00% | ~4,320 |
 | Let there be darkness | 33.00% | ~4,193 |
 | End of Book One | 31.00% | ~3,939 |
 | Wannabe knight | 25.00% | ~3,176 |

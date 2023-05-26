@@ -45,12 +45,12 @@ Rating: 4.38 (Ranked 695)
 | Strategist | 0.50% | ~7 |
 | Siegebreaker | 0.50% | ~7 |
 | Ghost of Falaise | 0.50% | ~7 |
+| Last Resort | 0.40% | ~6 |
 | From Paris with Love | 0.30% | ~4 |
 | Don't hold your breath | 0.30% | ~4 |
 | Shoot for the Moon | 0.30% | ~4 |
 | Reich To The Point | 0.30% | ~4 |
 | Covert Elimination | 0.30% | ~4 |
-| Last Resort | 0.30% | ~4 |
 | Sink or Swim | 0.30% | ~2 |
 | Souvenir hunter | 0.20% | ~3 |
 | Tinkerer | 0.20% | ~3 |
@@ -77,7 +77,7 @@ Rating: 4.38 (Ranked 695)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,470 (Ranked 157)  
+Progressed: 1,472 (Ranked 157)  
 Completed: 2 (0.14%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 2 (0.14%) (Ranked 150)
 | 2023-05-23 | 1,294 | 2 |
 | 2023-05-24 | 1,365 | 2 |
 | 2023-05-25 | 1,428 | 2 |
-| 2023-05-26 | 1,470 | 2 |
+| 2023-05-26 | 1,472 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

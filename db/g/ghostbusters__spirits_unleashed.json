@@ -1068,9 +1068,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 22236,
+  "EOS_Progressed": 22237,
   "EOS_Completed": 40,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3658,6 +3658,11 @@
       "Time": "2023-05-26T09:07:28.8211475+00:00",
       "NumProgressed": 22236,
       "NumCompleted": 40
+    },
+    {
+      "Time": "2023-05-26T12:05:18.8260532+00:00",
+      "NumProgressed": 22237,
+      "NumCompleted": 40
     }
   ],
   "TotalAchievements": 51,
@@ -3669,7 +3674,7 @@
       "Name": "Advancement",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 16232
+      "UsersEstimate": 16233
     },
     {
       "ID": "Animated",
@@ -3733,7 +3738,7 @@
       "Name": "Cultured",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 11785
+      "UsersEstimate": 11786
     },
     {
       "ID": "Daily_Dose",
@@ -3757,7 +3762,7 @@
       "Name": "Discovery",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 13786
+      "UsersEstimate": 13787
     },
     {
       "ID": "Dont_Need_These",
@@ -3781,7 +3786,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 14231
+      "UsersEstimate": 14232
     },
     {
       "ID": "Escape_Artist",
@@ -3885,7 +3890,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 5781
+      "UsersEstimate": 5782
     },
     {
       "ID": "Reckless",
@@ -3893,7 +3898,7 @@
       "Name": "Reckless",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 4002
+      "UsersEstimate": 4003
     },
     {
       "ID": "Rift_Destroyer",
@@ -3973,7 +3978,7 @@
       "Name": "Stylish",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 19123
+      "UsersEstimate": 19124
     },
     {
       "ID": "Summoner",
@@ -3997,7 +4002,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 12452
+      "UsersEstimate": 12453
     },
     {
       "ID": "Teamwork",
@@ -4005,7 +4010,7 @@
       "Name": "Teamwork",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 10006
+      "UsersEstimate": 10007
     },
     {
       "ID": "Terrifying",
@@ -4076,7 +4081,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 22236,
+      "Progressed": 22237,
       "Completed": 40
     }
   ],
@@ -4084,8 +4089,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-05-25T22:58:59.1913645+00:00",
-  "LastChanged_Achievements": "2023-05-26T11:06:21.486704+00:00",
+  "LastChanged_Achievements": "2023-05-26T12:05:18.826053+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:13.3107598+00:00",
-  "LastUpdate_Ratings": "2023-05-26T10:59:14.3542307+00:00",
-  "LastUpdate_Achievements": "2023-05-26T11:06:21.4867661+00:00"
+  "LastUpdate_Ratings": "2023-05-26T11:58:30.5612777+00:00",
+  "LastUpdate_Achievements": "2023-05-26T12:05:18.8261014+00:00"
 }

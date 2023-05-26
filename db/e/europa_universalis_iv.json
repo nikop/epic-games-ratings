@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 27,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 24,
+  "Ranking_EOS_NewPlayers": 25,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
@@ -5152,11 +5152,17 @@
       "Rating": 4.68,
       "NumberOfAwards": 43762,
       "NumberOfAwardsMax": 5281
+    },
+    {
+      "Time": "2023-05-26T11:57:02.3280639+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 43768,
+      "NumberOfAwardsMax": 5287
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43762,
-  "NumberOfAwardsMax": 5281,
+  "NumberOfAwards": 43768,
+  "NumberOfAwardsMax": 5287,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -5187,7 +5193,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 5281
+      "Count": 5287
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -5226,9 +5232,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 43930,
+  "EOS_Progressed": 43949,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4513,
+  "EOS_NewPlayers": 4492,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8831,6 +8837,11 @@
       "Time": "2023-05-26T11:06:37.5405793+00:00",
       "NumProgressed": 43930,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T12:05:33.678391+00:00",
+      "NumProgressed": 43949,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 354,
@@ -9282,7 +9293,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2636
+      "UsersEstimate": 2637
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -9362,7 +9373,7 @@
       "Name": "Cold War",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "achievement_colonial_management",
@@ -9570,7 +9581,7 @@
       "Name": "The Emperors new clothes",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "achievement_empire_of_mann",
@@ -9674,7 +9685,7 @@
       "Name": "For the Glory",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2196
+      "UsersEstimate": 2197
     },
     {
       "ID": "achievement_forever_golden",
@@ -9842,7 +9853,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3514
+      "UsersEstimate": 3516
     },
     {
       "ID": "achievement_grand_coalition",
@@ -9866,7 +9877,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2636
+      "UsersEstimate": 2637
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -10034,7 +10045,7 @@
       "Name": "Isn\u0027t this the way to India?",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "achievement_italian_ambition",
@@ -10338,7 +10349,7 @@
       "Name": "Market Control",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "achievement_marshy_march",
@@ -10842,7 +10853,7 @@
       "Name": "Seriously?!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2636
+      "UsersEstimate": 2637
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -11122,7 +11133,7 @@
       "Name": "That is mine!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3514
+      "UsersEstimate": 3516
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -11186,7 +11197,7 @@
       "Name": "The Five Colonies",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "achievement_the_freest_man_in_the_world",
@@ -11346,7 +11357,7 @@
       "Name": "This navy can take it all",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "achievement_this_revolution_was_crushed",
@@ -11434,7 +11445,7 @@
       "Name": "True Catholic",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -11506,7 +11517,7 @@
       "Name": "Until death do us apart",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3954
+      "UsersEstimate": 3955
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -11538,7 +11549,7 @@
       "Name": "Victorious!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3514
+      "UsersEstimate": 3516
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -11673,21 +11684,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 43930,
+      "Progressed": 43949,
       "Completed": 0
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 43930,
+      "Progressed": 43949,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-05-26T05:57:15.7380216+00:00",
-  "LastChanged_Achievements": "2023-05-26T11:06:37.5405787+00:00",
+  "LastChanged": "2023-05-26T11:57:02.3280638+00:00",
+  "LastChanged_Achievements": "2023-05-26T12:05:33.6783906+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:06.3042546+00:00",
-  "LastUpdate_Ratings": "2023-05-26T10:57:25.7659906+00:00",
-  "LastUpdate_Achievements": "2023-05-26T11:06:37.5525089+00:00"
+  "LastUpdate_Ratings": "2023-05-26T11:57:02.3280644+00:00",
+  "LastUpdate_Achievements": "2023-05-26T12:05:33.6794785+00:00"
 }

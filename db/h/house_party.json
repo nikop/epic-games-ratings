@@ -358,7 +358,7 @@
   "Tags": [],
   "EOS_Progressed": 5146,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1555,9 +1555,9 @@
       "ID": "Pat_Relentless",
       "SetID": "bmkn7o4",
       "Name": "Relentless",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 41
     },
     {
       "ID": "Penguinfucker",
@@ -1801,8 +1801,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-03-31T05:57:11.1498515+00:00",
-  "LastChanged_Achievements": "2023-05-26T11:01:14.244107+00:00",
+  "LastChanged_Achievements": "2023-05-26T12:00:12.9185057+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:51.3105588+00:00",
-  "LastUpdate_Ratings": "2023-05-26T10:57:30.8448901+00:00",
-  "LastUpdate_Achievements": "2023-05-26T11:01:14.2461542+00:00"
+  "LastUpdate_Ratings": "2023-05-26T11:57:07.4524268+00:00",
+  "LastUpdate_Achievements": "2023-05-26T12:00:12.9186489+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -460,9 +460,9 @@
       "ID": "DEFEAT_ARTISAN",
       "SetID": "ccc0dlh",
       "Name": "Artisan",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 33
     },
     {
       "ID": "DEFEAT_FIDUS",
@@ -476,9 +476,9 @@
       "ID": "DEFEAT_FLOWERHEART",
       "SetID": "72k7oh",
       "Name": "Scion",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -492,9 +492,9 @@
       "ID": "DEFEAT_FLOWERVULTURE",
       "SetID": "72k7oh",
       "Name": "Host",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -710,7 +710,7 @@
       "ID": "72k7oh",
       "IsBase": false,
       "Progressed": 141,
-      "Completed": 17
+      "Completed": 18
     },
     {
       "ID": "ccc0dlh",
@@ -722,8 +722,8 @@
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-05-18T00:00:29.519029+00:00",
-  "LastChanged_Achievements": "2023-05-26T11:06:30.9772905+00:00",
+  "LastChanged_Achievements": "2023-05-26T12:05:27.5200155+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:40.5662436+00:00",
-  "LastUpdate_Ratings": "2023-05-26T11:01:02.2300693+00:00",
-  "LastUpdate_Achievements": "2023-05-26T11:06:30.9773273+00:00"
+  "LastUpdate_Ratings": "2023-05-26T11:59:59.1247399+00:00",
+  "LastUpdate_Achievements": "2023-05-26T12:05:27.5200483+00:00"
 }

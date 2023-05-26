@@ -11,8 +11,8 @@ Number of Ratings: 56  (23.09.2022)
 | podium | 72.00% | ~7,225 |
 | medium attack | 59.00% | ~5,921 |
 | brail | 56.00% | ~5,620 |
+| good drivers have dead flies on the side windows | 40.00% | ~4,014 |
 | grocery-getter | 39.00% | ~3,914 |
-| good drivers have dead flies on the side windows | 39.00% | ~3,914 |
 | rwd only | 26.00% | ~2,609 |
 | food tour: pasta | 26.00% | ~2,609 |
 | to finish first, first you must finish | 21.00% | ~2,107 |

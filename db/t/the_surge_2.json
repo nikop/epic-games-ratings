@@ -899,9 +899,9 @@
       "ID": "ACHV_36",
       "SetID": "8p5mlmc",
       "Name": "Can\u0027t Trust Banks",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 259
     },
     {
       "ID": "ACHV_37",
@@ -1084,8 +1084,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-05-26T11:06:33.4657904+00:00",
+  "LastChanged_Achievements": "2023-05-26T12:05:29.810872+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:42.7008662+00:00",
-  "LastUpdate_Ratings": "2023-05-26T11:01:04.3890769+00:00",
-  "LastUpdate_Achievements": "2023-05-26T11:06:33.4658458+00:00"
+  "LastUpdate_Ratings": "2023-05-26T12:00:01.8602772+00:00",
+  "LastUpdate_Achievements": "2023-05-26T12:05:29.8109246+00:00"
 }

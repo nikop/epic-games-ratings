@@ -3946,9 +3946,9 @@
       "Count": 3241
     }
   ],
-  "EOS_Progressed": 88697,
+  "EOS_Progressed": 88704,
   "EOS_Completed": 1879,
-  "EOS_NewPlayers": 737,
+  "EOS_NewPlayers": 740,
   "EOS_NewCompleters": 29,
   "EOS_Completed_Percentage": 2.12,
   "EosHistory": [
@@ -7451,6 +7451,11 @@
       "Time": "2023-05-26T11:06:38.365733+00:00",
       "NumProgressed": 88697,
       "NumCompleted": 1879
+    },
+    {
+      "Time": "2023-05-26T12:05:34.466374+00:00",
+      "NumProgressed": 88704,
+      "NumCompleted": 1879
     }
   ],
   "TotalAchievements": 493,
@@ -9140,9 +9145,9 @@
       "ID": "objective_completed_34",
       "SetID": "cc37lbc",
       "Name": "The Ring of Regeneration",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 266
+      "UsersEstimate": 355
     },
     {
       "ID": "objective_completed_35",
@@ -10606,7 +10611,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "objective_completed_70",
@@ -11405,21 +11410,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 54971,
+      "Progressed": 54978,
       "Completed": 2710
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 88697,
+      "Progressed": 88704,
       "Completed": 1879
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-05-26T09:57:52.424896+00:00",
-  "LastChanged_Achievements": "2023-05-26T11:06:38.3657322+00:00",
+  "LastChanged_Achievements": "2023-05-26T12:05:34.4663736+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:37.5434864+00:00",
-  "LastUpdate_Ratings": "2023-05-26T10:58:17.2076406+00:00",
-  "LastUpdate_Achievements": "2023-05-26T11:06:38.3681026+00:00"
+  "LastUpdate_Ratings": "2023-05-26T11:57:45.3033667+00:00",
+  "LastUpdate_Achievements": "2023-05-26T12:05:34.4687334+00:00"
 }

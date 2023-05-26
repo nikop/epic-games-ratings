@@ -8,8 +8,8 @@ Number of Ratings: 177  (23.09.2022)
 | ---- | ---------- | ----- |
 | A Friend in Need... | 1.00% | ~51 |
 | Smooth Operator: Madison | 1.00% | ~51 |
+| Relentless | 0.80% | ~41 |
 | Katherine | 0.70% | ~36 |
-| Relentless | 0.70% | ~36 |
 | If at First You Don't Succeed... | 0.70% | ~36 |
 | The Brahdyssey | 0.60% | ~31 |
 | Life Found a Way | 0.60% | ~13 |

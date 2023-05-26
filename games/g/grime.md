@@ -12,25 +12,25 @@ Number of Ratings: 46  (23.09.2022)
 | Ravenous | 19.00% | ~106 |
 | Weeper | 17.00% | ~95 |
 | Devourer | 13.00% | ~73 |
+| Scion | 11.00% | ~16 |
 | Harmless | 11.00% | ~61 |
 | Silenced Whispers | 11.00% | ~61 |
 | Yank | 11.00% | ~61 |
-| Scion | 10.00% | ~14 |
 | Glare | 10.00% | ~14 |
 | Sharpened Vessel | 10.00% | ~56 |
+| Host | 9.00% | ~13 |
 | Jawcrab | 9.00% | ~50 |
 | Feast | 9.00% | ~50 |
 | Shapely | 8.00% | ~45 |
-| Host | 8.00% | ~11 |
 | Jawstag | 8.00% | ~45 |
 | Celebration | 7.00% | ~39 |
 | Inevitable | 7.00% | ~39 |
 | Predator | 7.00% | ~39 |
 | Assimilation | 6.00% | ~33 |
+| Artisan | 6.00% | ~33 |
 | Watcher | 6.00% | ~33 |
 | Dream | 6.00% | ~8 |
 | Hunt Down | 5.00% | ~28 |
-| Artisan | 5.00% | ~28 |
 | Hush | 5.00% | ~28 |
 | All-Seeing | 5.00% | ~28 |
 | Passage | 5.00% | ~28 |

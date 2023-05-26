@@ -119,9 +119,9 @@
       "ID": "Doll",
       "SetID": "9kk0gal",
       "Name": "Doll",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "Ending1",
@@ -199,9 +199,9 @@
       "ID": "HugeSnail",
       "SetID": "9kk0gal",
       "Name": "Huge Snail",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "Mirror",
@@ -287,9 +287,9 @@
       "ID": "Windmill",
       "SetID": "9kk0gal",
       "Name": "Windmill",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     }
   ],
   "AchievementSets": [
@@ -304,8 +304,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-05-26T11:06:26.0745592+00:00",
+  "LastChanged_Achievements": "2023-05-26T12:05:23.0410874+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:12:13.9596608+00:00",
-  "LastUpdate_Ratings": "2023-05-26T11:00:34.8853298+00:00",
-  "LastUpdate_Achievements": "2023-05-26T11:06:26.0745782+00:00"
+  "LastUpdate_Ratings": "2023-05-26T11:59:41.5204016+00:00",
+  "LastUpdate_Achievements": "2023-05-26T12:05:23.0411068+00:00"
 }
