@@ -49,13 +49,13 @@ Rating: 3.87 (Ranked 907)
 | Trader | 3.00% | ~35 |
 | Weekly Quest Completionist | 3.00% | ~35 |
 | Dragon Slayer | 2.00% | ~23 |
+| Enchanting skill | 2.00% | ~23 |
 | Engineer Mastery | 2.00% | ~23 |
 | Four Leaf Clover | 2.00% | ~23 |
 | Lock And Load | 2.00% | ~23 |
 | What lies behind the bush | 2.00% | ~23 |
 | Blueprint Upgrades | 1.00% | ~12 |
 | Crystal Mining | 1.00% | ~12 |
-| Enchanting skill | 1.00% | ~12 |
 | Sailor | 1.00% | ~12 |
 | Active Member | 0.90% | ~11 |
 | Ebony Jungle Liberator | 0.90% | ~11 |

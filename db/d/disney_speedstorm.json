@@ -4,7 +4,7 @@
   "ProductSlug": "disney-speedstorm",
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 177,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
@@ -15,9 +15,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 2566,
+  "EOS_Progressed": 2567,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -1820,6 +1820,11 @@
       "Time": "2023-05-26T09:02:59.8660072+00:00",
       "NumProgressed": 2566,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-26T10:00:44.9286066+00:00",
+      "NumProgressed": 2567,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 24,
@@ -1839,7 +1844,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1026
+      "UsersEstimate": 1027
     },
     {
       "ID": "11",
@@ -1951,7 +1956,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "24",
@@ -1959,7 +1964,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "3",
@@ -1975,7 +1980,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 28,
       "XP": 80,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "5",
@@ -1983,7 +1988,7 @@
       "Name": "ROOKIE",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 1334
+      "UsersEstimate": 1335
     },
     {
       "ID": "6",
@@ -1991,7 +1996,7 @@
       "Name": "PRO",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "7",
@@ -2022,13 +2027,13 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 2566,
+      "Progressed": 2567,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged_Achievements": "2023-05-26T09:02:59.8660062+00:00",
+  "LastChanged_Achievements": "2023-05-26T10:00:44.9286059+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:15.9291954+00:00",
-  "LastUpdate_Ratings": "2023-05-26T08:59:52.4604804+00:00",
-  "LastUpdate_Achievements": "2023-05-26T09:02:59.8660515+00:00"
+  "LastUpdate_Ratings": "2023-05-26T09:58:43.2308349+00:00",
+  "LastUpdate_Achievements": "2023-05-26T10:00:44.9286336+00:00"
 }

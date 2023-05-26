@@ -2,7 +2,7 @@
   "ID": "1dcddbcc334945c48353b75a8fce5e5e",
   "Name": "Dishonored 2",
   "ProductSlug": "dishonored-2",
-  "Ranking_Rating": 78,
+  "Ranking_Rating": 91,
   "Ranking_Popularity": 210,
   "Ranking_PopularitySum": 295,
   "Ranking_EOS_Progress": 421,
@@ -17,7 +17,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.8,
+  "Rating": 4.79,
   "RatingHistory": [
     {
       "Time": "2022-11-24T20:57:28.2064368+00:00",
@@ -500,6 +500,12 @@
       "Rating": 4.8,
       "NumberOfAwards": 455,
       "NumberOfAwardsMax": 355
+    },
+    {
+      "Time": "2023-05-26T09:59:13.8573526+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 455,
+      "NumberOfAwardsMax": 355
     }
   ],
   "ReviewsDisabled": false,
@@ -550,8 +556,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-05T14:01:17.2849219+00:00",
   "FirstSeenRating": "2022-11-24T20:57:28.2064365+00:00",
-  "LastChanged": "2023-05-25T05:59:03.2446972+00:00",
+  "LastChanged": "2023-05-26T09:59:13.8573524+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:03.3573402+00:00",
-  "LastUpdate_Ratings": "2023-05-26T09:00:37.7406501+00:00",
-  "LastUpdate_Achievements": "2023-05-26T09:03:41.8652178+00:00"
+  "LastUpdate_Ratings": "2023-05-26T09:59:13.8573531+00:00",
+  "LastUpdate_Achievements": "2023-05-26T10:02:25.7163958+00:00"
 }

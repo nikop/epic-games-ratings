@@ -25,10 +25,10 @@ Rating: 3.78 (Ranked 917)
 | DeDust | 1.00% | ~9 |
 | To infinity and beyond! | 0.70% | ~6 |
 | Driver's License | 0.40% | ~4 |
+| Hard Landing | 0.40% | ~4 |
 | Caveman | 0.40% | ~4 |
 | Plumber | 0.40% | ~4 |
 | Thunderstruck | 0.40% | ~4 |
-| Hard Landing | 0.30% | ~3 |
 | Bull’s eye | 0.20% | ~2 |
 | Korolev crater | 0.20% | ~2 |
 | Rocket Jump | 0.20% | ~2 |

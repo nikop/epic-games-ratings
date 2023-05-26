@@ -5,29 +5,29 @@ Rating: 4.18 (Ranked 831)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 7.00% | ~955 |
-| Giving Back | 5.00% | ~682 |
-| Chew 'Em Up | 5.00% | ~682 |
+| Flesh Wound | 7.00% | ~956 |
+| Giving Back | 5.00% | ~683 |
+| Chew 'Em Up | 5.00% | ~683 |
 | The Outer Way | 4.00% | ~546 |
 | Desperate Times | 4.00% | ~546 |
 | Instigator | 4.00% | ~63 |
 | Big Game Hunter | 4.00% | ~63 |
-| Float Like A Butterfly | 3.00% | ~409 |
-| Reforged | 3.00% | ~409 |
-| Paper Jams | 3.00% | ~409 |
+| Workplace Hazard | 3.00% | ~410 |
+| Float Like A Butterfly | 3.00% | ~410 |
+| Reforged | 3.00% | ~410 |
+| Paper Jams | 3.00% | ~410 |
 | Bear Trap | 3.00% | ~47 |
 | Get a Grip | 2.00% | ~273 |
 | Terminated | 2.00% | ~273 |
-| Workplace Hazard | 2.00% | ~273 |
 | The Commonality | 2.00% | ~273 |
 | Mugshot | 2.00% | ~273 |
 | If the SHU Fits... | 2.00% | ~273 |
+| Without A Paddle | 2.00% | ~273 |
 | Big Spender | 2.00% | ~32 |
 | Parole Denied | 1.00% | ~16 |
-| Two Heads Are Better Than One | 1.00% | ~136 |
-| Without A Paddle | 1.00% | ~136 |
-| In the Pipe, Five by Five | 1.00% | ~136 |
-| Crash Site | 1.00% | ~136 |
+| Two Heads Are Better Than One | 1.00% | ~137 |
+| In the Pipe, Five by Five | 1.00% | ~137 |
+| Crash Site | 1.00% | ~137 |
 | Hoard Mode | 1.00% | ~16 |
 | You Need a Gun | 0.80% | ~109 |
 | In Striking Distance | 0.80% | ~109 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 831)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,649 (Ranked 102)  
+Progressed: 13,653 (Ranked 102)  
 Completed: 53 (0.39%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 53 (0.39%) (Ranked 112)
 | 2023-05-23 | 13,444 | 52 |
 | 2023-05-24 | 13,523 | 52 |
 | 2023-05-25 | 13,610 | 52 |
-| 2023-05-26 | 13,649 | 53 |
+| 2023-05-26 | 13,653 | 53 |
 ## Awards
 Max (Highly Recommended): 46  (Ranked 398)  
 Sum: 267 (Ranked 335)  

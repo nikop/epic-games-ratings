@@ -29,7 +29,7 @@
 | Let Me Be Frank | 31.00% | ~75 |
 | No Stone Unturned | 29.00% | ~70 |
 | Curiosity Killed The Cat | 20.00% | ~48 |
-| Big Breakthrough | 18.00% | ~44 |
+| Big Breakthrough | 19.00% | ~46 |
 | Read It And Weep | 17.00% | ~41 |
 | Reawakened | 7.00% | ~17 |
 ## Popularity (Based on EOS Achievements)

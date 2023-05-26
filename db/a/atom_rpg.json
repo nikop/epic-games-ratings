@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -340,9 +340,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 825,
+  "EOS_Progressed": 827,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -760,6 +760,11 @@
       "Time": "2023-05-26T03:06:12.3990064+00:00",
       "NumProgressed": 825,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T10:05:28.1115408+00:00",
+      "NumProgressed": 827,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 36,
@@ -779,7 +784,7 @@
       "Name": "Career criminal",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "CHEEKI_BREEKI_1",
@@ -827,7 +832,7 @@
       "Name": "Atom Agent",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 808
+      "UsersEstimate": 810
     },
     {
       "ID": "EXPERT_1",
@@ -843,7 +848,7 @@
       "Name": "Explorer",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "GHOSTBUSTER",
@@ -859,7 +864,7 @@
       "Name": "Grave Robber",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "HEAD_BURST_1",
@@ -891,7 +896,7 @@
       "Name": "Kraina Grzybow",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "LOVE_GURU_1",
@@ -921,9 +926,9 @@
       "ID": "ONE_HIT_WONDER_1",
       "SetID": "bf13m8j",
       "Name": "One HIT wonder",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 280
+      "UsersEstimate": 273
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -931,7 +936,7 @@
       "Name": "One shot, one kill",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "PACIFIST",
@@ -953,9 +958,9 @@
       "ID": "PRIVATE_EYE",
       "SetID": "bf13m8j",
       "Name": "Not-so-private Eye",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 58
     },
     {
       "ID": "PROTECTION_RACKET",
@@ -1027,7 +1032,7 @@
       "Name": "Traveler",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "VVE",
@@ -1051,22 +1056,22 @@
       "Name": "Wishmaster",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 825,
+      "Progressed": 827,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-05-09T03:01:00.2336224+00:00",
-  "LastChanged_Achievements": "2023-05-26T09:07:33.5410825+00:00",
+  "LastChanged_Achievements": "2023-05-26T10:05:28.1115402+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:55.4306832+00:00",
-  "LastUpdate_Ratings": "2023-05-26T09:01:29.4744917+00:00",
-  "LastUpdate_Achievements": "2023-05-26T09:07:33.5411116+00:00"
+  "LastUpdate_Ratings": "2023-05-26T09:59:46.0990742+00:00",
+  "LastUpdate_Achievements": "2023-05-26T10:05:28.1115675+00:00"
 }

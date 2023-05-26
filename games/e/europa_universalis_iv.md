@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,949 |
-| That's a Grand Army | 8.00% | ~3,510 |
-| That is mine! | 8.00% | ~3,510 |
-| Victorious! | 8.00% | ~3,510 |
-| Brothers in Arms | 6.00% | ~2,633 |
-| That's a Grand Navy | 6.00% | ~2,633 |
-| Seriously?! | 6.00% | ~2,633 |
-| For the Glory | 5.00% | ~2,194 |
-| Cold War | 4.00% | ~1,755 |
-| True Catholic | 4.00% | ~1,755 |
-| Defender of the Faith | 3.00% | ~1,316 |
-| It's all about the money | 3.00% | ~1,316 |
-| Respected | 3.00% | ~1,316 |
-| Truly Divine Ruler | 3.00% | ~1,316 |
+| Until death do us apart | 9.00% | ~3,951 |
+| That's a Grand Army | 8.00% | ~3,512 |
+| That is mine! | 8.00% | ~3,512 |
+| Victorious! | 8.00% | ~3,512 |
+| Brothers in Arms | 6.00% | ~2,634 |
+| That's a Grand Navy | 6.00% | ~2,634 |
+| Seriously?! | 6.00% | ~2,634 |
+| For the Glory | 5.00% | ~2,195 |
+| Cold War | 4.00% | ~1,756 |
+| True Catholic | 4.00% | ~1,756 |
+| Defender of the Faith | 3.00% | ~1,317 |
+| It's all about the money | 3.00% | ~1,317 |
+| Respected | 3.00% | ~1,317 |
+| Truly Divine Ruler | 3.00% | ~1,317 |
 | Agressive Expander | 2.00% | ~878 |
 | Blockader | 2.00% | ~878 |
 | Combined Arms | 2.00% | ~878 |
@@ -171,6 +171,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Hanukkah Mutapa | 0.10% | ~44 |
 | Hard Bargaining | 0.10% | ~44 |
 | Hessian Mercenaries | 0.10% | ~44 |
+| Hoarder | 0.10% | ~44 |
 | Holiest Roman Empire | 0.10% | ~44 |
 | Holy Horder | 0.10% | ~44 |
 | Home and Away | 0.10% | ~44 |
@@ -321,7 +322,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Ganges Khan | 0.00% | ~0 |
 | Gothic Invasion | 0.00% | ~0 |
 | Great Perm | 0.00% | ~0 |
-| Hoarder | 0.00% | ~0 |
 | Holy Trinity | 0.00% | ~0 |
 | Inner Turmoil | 0.00% | ~0 |
 | Jihad | 0.00% | ~0 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,878 (Ranked 79)  
+Progressed: 43,895 (Ranked 79)  
 Completed: 0 (0.00%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -397,7 +397,7 @@ Completed: 0 (0.00%) (Ranked 203)
 | 2023-05-23 | 42,594 | 0 |
 | 2023-05-24 | 43,149 | 0 |
 | 2023-05-25 | 43,718 | 0 |
-| 2023-05-26 | 43,878 | 0 |
+| 2023-05-26 | 43,895 | 0 |
 ## Awards
 Max (Educational): 5,281  (Ranked 60)  
 Sum: 43,762 (Ranked 27)  

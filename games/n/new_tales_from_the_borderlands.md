@@ -19,7 +19,7 @@ Rating: 4.08 (Ranked 870)
 | You Poor Now! | 20.00% | ~681 |
 | The Shardmenstration | 19.00% | ~647 |
 | You Got the Goods, Kid | 19.00% | ~647 |
-| Those Were the Days... | 18.00% | ~613 |
+| Those Were the Days... | 19.00% | ~647 |
 | ...To Heroes | 17.00% | ~579 |
 | Mas, Por Favor | 17.00% | ~579 |
 | And Still Champion... | 14.00% | ~477 |

@@ -227,7 +227,7 @@
   "Tags": [],
   "EOS_Progressed": 1619,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -627,9 +627,9 @@
       "ID": "ACHV_02",
       "SetID": "8p5mlmc",
       "Name": "Jailbreak",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1052
+      "UsersEstimate": 1069
     },
     {
       "ID": "ACHV_03",
@@ -1084,8 +1084,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-04-08T17:57:24.126657+00:00",
-  "LastChanged_Achievements": "2023-05-26T09:07:42.7332849+00:00",
+  "LastChanged_Achievements": "2023-05-26T10:05:35.0904223+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:42.7008662+00:00",
-  "LastUpdate_Ratings": "2023-05-26T09:01:59.7402335+00:00",
-  "LastUpdate_Achievements": "2023-05-26T09:07:42.7333821+00:00"
+  "LastUpdate_Ratings": "2023-05-26T10:00:04.8372869+00:00",
+  "LastUpdate_Achievements": "2023-05-26T10:05:35.0904763+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "sherlock-holmes-the-awakened",
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 242,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.96,
   "EosHistory": [
@@ -627,9 +627,9 @@
       "ID": "MQ02_2",
       "SetID": "bbing49",
       "Name": "Big Breakthrough",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "MQ02_3",
@@ -836,8 +836,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-26T09:03:48.8704935+00:00",
+  "LastChanged_Achievements": "2023-05-26T10:02:30.4907576+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.473335+00:00",
-  "LastUpdate_Ratings": "2023-05-26T08:57:38.4101627+00:00",
-  "LastUpdate_Achievements": "2023-05-26T09:03:48.8705173+00:00"
+  "LastUpdate_Ratings": "2023-05-26T09:57:06.9270033+00:00",
+  "LastUpdate_Achievements": "2023-05-26T10:02:30.4907809+00:00"
 }

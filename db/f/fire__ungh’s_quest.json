@@ -4,7 +4,7 @@
   "ProductSlug": "fire-44c606",
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
@@ -28,11 +28,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 169,
+  "EOS_Progressed": 170,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5.33,
+  "EOS_Completed_Percentage": 5.29,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:26.5588507+00:00",
@@ -133,6 +133,11 @@
       "Time": "2023-05-25T21:05:33.6481435+00:00",
       "NumProgressed": 169,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-05-26T10:05:20.6490987+00:00",
+      "NumProgressed": 170,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 27,
@@ -144,7 +149,7 @@
       "Name": "Blunga 1",
       "Percentage": 99,
       "XP": 35,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "05_Coins",
@@ -200,7 +205,7 @@
       "Name": "Mjam-Mjam",
       "Percentage": 98,
       "XP": 35,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "Brain_turned_in_008",
@@ -208,7 +213,7 @@
       "Name": "Sniarb!",
       "Percentage": 90,
       "XP": 35,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "Butterfly_eats_Caterpillar_in_007",
@@ -216,7 +221,7 @@
       "Name": "ParaPara!",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "Eliminated_3_Mask_Men_in_009",
@@ -248,7 +253,7 @@
       "Name": "Onk Boga I",
       "Percentage": 95,
       "XP": 35,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "Level_completed_002_008",
@@ -262,9 +267,9 @@
       "ID": "Level_completed_003_001",
       "SetID": "6od1ndi",
       "Name": "Onk Boga III",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 35,
-      "UsersEstimate": 83
+      "UsersEstimate": 82
     },
     {
       "ID": "Level_completed_004_009",
@@ -280,7 +285,7 @@
       "Name": "Onk Boga V",
       "Percentage": 38,
       "XP": 35,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "Level_completed_006_004",
@@ -288,7 +293,7 @@
       "Name": "Onk Boga VI",
       "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Level_completed_007_006",
@@ -304,7 +309,7 @@
       "Name": "Onk Boga VIII",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "Level_completed_009_007",
@@ -312,7 +317,7 @@
       "Name": "Onk Boga IX",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "Level_completed_010_010",
@@ -328,7 +333,7 @@
       "Name": "IQ62",
       "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "Rainman_was_shocked_by_lightning_in_001",
@@ -344,7 +349,7 @@
       "Name": "BumBum",
       "Percentage": 41,
       "XP": 35,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Won_over_Octoboss_in_005",
@@ -352,14 +357,14 @@
       "Name": "Blubb",
       "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     }
   ],
   "AchievementSets": [
     {
       "ID": "6od1ndi",
       "IsBase": true,
-      "Progressed": 169,
+      "Progressed": 170,
       "Completed": 9
     }
   ],
@@ -367,8 +372,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-05-26T09:07:23.3379298+00:00",
+  "LastChanged_Achievements": "2023-05-26T10:05:20.6490981+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:25.4163927+00:00",
-  "LastUpdate_Ratings": "2023-05-26T09:01:04.45025+00:00",
-  "LastUpdate_Achievements": "2023-05-26T09:07:23.3379476+00:00"
+  "LastUpdate_Ratings": "2023-05-26T09:59:31.2037353+00:00",
+  "LastUpdate_Achievements": "2023-05-26T10:05:20.6491161+00:00"
 }

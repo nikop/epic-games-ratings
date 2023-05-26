@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 320,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 5,
   "EosHistory": [
@@ -824,9 +824,9 @@
       "ID": "LEVEL_024",
       "SetID": "212bg48",
       "Name": "Beach or mountain?",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "LEVEL_025",
@@ -887,8 +887,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-26T09:03:49.8229126+00:00",
+  "LastChanged_Achievements": "2023-05-26T10:02:31.1405904+00:00",
   "LastUpdate_AppInfo": "2023-05-22T13:02:13.5547551+00:00",
-  "LastUpdate_Ratings": "2023-05-26T08:57:24.4695194+00:00",
-  "LastUpdate_Achievements": "2023-05-26T09:03:49.8229418+00:00"
+  "LastUpdate_Ratings": "2023-05-26T09:56:57.7769378+00:00",
+  "LastUpdate_Achievements": "2023-05-26T10:02:31.1406153+00:00"
 }

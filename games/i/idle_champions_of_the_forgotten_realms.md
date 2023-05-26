@@ -10,8 +10,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Court of Storms | 0.70% | ~385 |
 | The Cursed Farmer | 0.60% | ~532 |
 | Beware the Jabberwock | 0.60% | ~330 |
+| The Mad Wizard | 0.50% | ~443 |
 | Beast Intentions | 0.40% | ~355 |
-| The Mad Wizard | 0.40% | ~355 |
 | Coasting to the Finish | 0.40% | ~220 |
 | Quick or Quack | 0.40% | ~220 |
 | Were-verpowered | 0.30% | ~266 |
@@ -500,7 +500,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overwhelming Force | 0.10% | ~89 |
 | Rescue in the Jungle | 0.10% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88,695 (Ranked 61)  
+Progressed: 88,696 (Ranked 61)  
 Completed: 1,879 (2.12%) (Ranked 61)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -536,10 +536,10 @@ Completed: 1,879 (2.12%) (Ranked 61)
 | 2023-05-23 | 88,435 | 1,872 |
 | 2023-05-24 | 88,533 | 1,875 |
 | 2023-05-25 | 88,656 | 1,879 |
-| 2023-05-26 | 88,695 | 1,879 |
+| 2023-05-26 | 88,696 | 1,879 |
 ## Awards
 Max (Diverse Characters): 4,905  (Ranked 64)  
-Sum: 29,974 (Ranked 37)  
+Sum: 29,976 (Ranked 37)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
@@ -549,7 +549,7 @@ Diff (max vs sum): 27
 | This game is Relaxing | 4,497 |
 | This game is Highly Recommended | 3,946 |
 | This game has Amazing Characters | 3,944 |
-| This game has Playful Visuals | 3,239 |
+| This game has Playful Visuals | 3,241 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -673,3 +673,4 @@ Diff (max vs sum): 27
 | 2023-05-23 | 4.06 | - | 4,898 | 29,959 |
 | 2023-05-24 | 4.06 | - | 4,902 | 29,965 |
 | 2023-05-25 | 4.06 | - | 4,905 | 29,974 |
+| 2023-05-26 | 4.06 | - | 4,905 | 29,976 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -66,7 +66,7 @@
   "Tags": [],
   "EOS_Progressed": 909,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 536,
+  "EOS_NewPlayers": 530,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -880,9 +880,9 @@
       "ID": "ACHIEVEMENT_HARD_LANDING",
       "SetID": "l546gc",
       "Name": "Hard Landing",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_HISTORICAL_PLACES",
@@ -1241,8 +1241,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-05-24T23:57:37.6552922+00:00",
-  "LastChanged_Achievements": "2023-05-26T09:03:13.640413+00:00",
+  "LastChanged_Achievements": "2023-05-26T10:00:47.5333526+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:55.9692167+00:00",
-  "LastUpdate_Ratings": "2023-05-26T08:57:50.3849155+00:00",
-  "LastUpdate_Achievements": "2023-05-26T09:03:13.640468+00:00"
+  "LastUpdate_Ratings": "2023-05-26T09:57:15.2974457+00:00",
+  "LastUpdate_Achievements": "2023-05-26T10:00:47.5333948+00:00"
 }

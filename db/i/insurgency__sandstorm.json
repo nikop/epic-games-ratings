@@ -2077,9 +2077,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 374213,
+  "EOS_Progressed": 374225,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3777,
+  "EOS_NewPlayers": 3778,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5647,6 +5647,11 @@
       "Time": "2023-05-26T09:02:50.1764522+00:00",
       "NumProgressed": 374213,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-26T10:00:38.5851415+00:00",
+      "NumProgressed": 374225,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -5682,7 +5687,7 @@
       "Name": "Checkpoint Victory",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 11226
+      "UsersEstimate": 11227
     },
     {
       "ID": "ACH_CINEMATIC",
@@ -5786,7 +5791,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 11226
+      "UsersEstimate": 11227
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -5802,7 +5807,7 @@
       "Name": "#1",
       "Percentage": 0.7,
       "XP": 80,
-      "UsersEstimate": 2619
+      "UsersEstimate": 2620
     },
     {
       "ID": "ACH_PERSONAL",
@@ -5882,7 +5887,7 @@
       "Name": "Special Delivery",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 2619
+      "UsersEstimate": 2620
     },
     {
       "ID": "ACH_STYLING",
@@ -5890,7 +5895,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 11226
+      "UsersEstimate": 11227
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -5914,7 +5919,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 11226
+      "UsersEstimate": 11227
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -5937,15 +5942,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 374213,
+      "Progressed": 374225,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-05-25T22:57:48.4430091+00:00",
-  "LastChanged_Achievements": "2023-05-26T09:02:50.176451+00:00",
+  "LastChanged_Achievements": "2023-05-26T10:00:38.585141+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:23.1688337+00:00",
-  "LastUpdate_Ratings": "2023-05-26T08:58:21.1497674+00:00",
-  "LastUpdate_Achievements": "2023-05-26T09:02:50.1765187+00:00"
+  "LastUpdate_Ratings": "2023-05-26T09:57:38.6221238+00:00",
+  "LastUpdate_Achievements": "2023-05-26T10:00:38.5851888+00:00"
 }
