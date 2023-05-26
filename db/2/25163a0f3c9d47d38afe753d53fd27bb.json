@@ -3,8 +3,8 @@
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 214,
-  "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_Completed": 28,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -23,7 +23,7 @@
   "Tags": [],
   "EOS_Progressed": 317,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 204,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 5.05,
   "EosHistory": [
@@ -705,9 +705,9 @@
       "ID": "LEVEL_011",
       "SetID": "212bg48",
       "Name": "This island of mine",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 67
     },
     {
       "ID": "LEVEL_012",
@@ -721,17 +721,17 @@
       "ID": "LEVEL_013",
       "SetID": "212bg48",
       "Name": "Higher ground",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 54
     },
     {
       "ID": "LEVEL_014",
       "SetID": "212bg48",
       "Name": "Cross-country",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 51
     },
     {
       "ID": "LEVEL_015",
@@ -872,8 +872,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-26T03:03:17.3526136+00:00",
+  "LastChanged_Achievements": "2023-05-26T04:03:42.4570972+00:00",
   "LastUpdate_AppInfo": "2023-05-22T13:02:13.5547551+00:00",
-  "LastUpdate_Ratings": "2023-05-26T02:56:56.7632372+00:00",
-  "LastUpdate_Achievements": "2023-05-26T03:03:17.3526354+00:00"
+  "LastUpdate_Ratings": "2023-05-26T03:57:09.5945253+00:00",
+  "LastUpdate_Achievements": "2023-05-26T04:03:42.4571251+00:00"
 }

@@ -55,7 +55,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Playful Mood | 0.50% | ~46 |
 | Dreadful Dragon | 0.50% | ~46 |
 | Truly Profane Gift | 0.50% | ~46 |
-| Masterful Charge | 0.30% | ~28 |
+| Masterful Charge | 0.40% | ~37 |
 | Masterful Dispel | 0.20% | ~18 |
 | Prelate's Nemesis | 0.20% | ~18 |
 | Just Pathetic | 0.20% | ~18 |

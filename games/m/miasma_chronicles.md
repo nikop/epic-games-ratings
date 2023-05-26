@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 91.00% | ~369 |
-| Ranidaphobia | 61.00% | ~247 |
-| Aspiring Editor | 57.00% | ~231 |
-| Gun for Hire | 50.00% | ~202 |
-| I am the law! | 34.00% | ~138 |
-| Firestarter | 15.00% | ~61 |
-| Lumberjack | 14.00% | ~57 |
-| Limp Richard | 10.00% | ~40 |
-| Croaked | 9.00% | ~36 |
-| Editor Adept | 7.00% | ~28 |
-| Exorcist | 7.00% | ~28 |
-| From Darkness to Light | 7.00% | ~28 |
-| Giant Killer | 6.00% | ~24 |
-| Hold The Line | 5.00% | ~20 |
-| Newtonian Knockout | 5.00% | ~20 |
-| The meaning of Kain | 5.00% | ~20 |
+| First Blood | 90.00% | ~370 |
+| Ranidaphobia | 61.00% | ~251 |
+| Aspiring Editor | 57.00% | ~234 |
+| Gun for Hire | 49.00% | ~201 |
+| I am the law! | 34.00% | ~140 |
+| Firestarter | 15.00% | ~62 |
+| Lumberjack | 14.00% | ~58 |
+| Croaked | 9.00% | ~37 |
+| Limp Richard | 9.00% | ~37 |
+| Editor Adept | 7.00% | ~29 |
+| Exorcist | 7.00% | ~29 |
+| From Darkness to Light | 7.00% | ~29 |
+| Giant Killer | 6.00% | ~25 |
+| Hold The Line | 5.00% | ~21 |
+| Newtonian Knockout | 5.00% | ~21 |
+| The meaning of Kain | 5.00% | ~21 |
 | Sensei | 4.00% | ~16 |
 | Chain Killer | 3.00% | ~12 |
 | Recycler | 3.00% | ~12 |
@@ -56,7 +56,7 @@
 | Shadow Boxin' | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 405 (Ranked 199)  
+Progressed: 411 (Ranked 198)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,4 +64,4 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-23 | 151 | 0 |
 | 2023-05-24 | 299 | 0 |
 | 2023-05-25 | 397 | 0 |
-| 2023-05-26 | 405 | 0 |
+| 2023-05-26 | 411 | 0 |

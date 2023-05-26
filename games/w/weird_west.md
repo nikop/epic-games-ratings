@@ -6,15 +6,15 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 87.00% | ~1,343 |
+| Unforgiven | 87.00% | ~1,344 |
 | Self-Improvement | 72.00% | ~1,112 |
-| Perky | 66.00% | ~1,019 |
-| Let’s Ride | 60.00% | ~926 |
+| Perky | 66.00% | ~1,020 |
+| Let’s Ride | 60.00% | ~927 |
 | Welcome to the Weird West | 58.00% | ~896 |
 | Dead or Alive | 56.00% | ~865 |
-| Full House | 37.00% | ~571 |
+| Full House | 37.00% | ~572 |
 | Off the Trail | 34.00% | ~525 |
-| Justice Served | 28.00% | ~432 |
+| Justice Served | 28.00% | ~433 |
 | Chain Reaction | 27.00% | ~417 |
 | Scholar | 25.00% | ~386 |
 | Through Their Eyes | 25.00% | ~386 |
@@ -27,13 +27,13 @@ Number of Ratings: 125  (23.09.2022)
 | For Balance | 15.00% | ~232 |
 | Here Comes Santa Claus | 15.00% | ~232 |
 | Dog Days | 13.00% | ~201 |
-| Workers' Rights | 13.00% | ~201 |
 | Elusive Prey | 12.00% | ~185 |
 | Out on the Ebb Tide | 12.00% | ~185 |
 | Power Behind the Pulpit | 12.00% | ~185 |
 | Something Wicked This Way Comes… | 12.00% | ~185 |
 | There is Hope | 12.00% | ~185 |
 | Turning the Tables | 12.00% | ~185 |
+| Workers' Rights | 12.00% | ~185 |
 | Loyalty to the Pack | 9.00% | ~139 |
 | Eternity Can Wait | 9.00% | ~139 |
 | Mystery Machine | 9.00% | ~139 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.30% | ~5 |
 | Revenant | 0.30% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,544 (Ranked 155)  
+Progressed: 1,545 (Ranked 155)  
 Completed: 2 (0.13%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,6 +89,7 @@ Completed: 2 (0.13%) (Ranked 154)
 | 2023-05-23 | 1,537 | 2 |
 | 2023-05-24 | 1,539 | 2 |
 | 2023-05-25 | 1,544 | 2 |
+| 2023-05-26 | 1,545 | 2 |
 ## Awards
 Max (Impact the Story): 24  (Ranked 465)  
 Sum: 24 (Ranked 470)  

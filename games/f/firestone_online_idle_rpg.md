@@ -28,8 +28,8 @@ Rating: 3.87 (Ranked 907)
 | The Unstoppable | 10.00% | ~116 |
 | Superior | 9.00% | ~105 |
 | Scientist | 8.00% | ~93 |
+| Challenger | 7.00% | ~82 |
 | Daily Quest Completionist | 7.00% | ~82 |
-| Challenger | 6.00% | ~70 |
 | Hunter | 6.00% | ~70 |
 | Scroll Master | 6.00% | ~70 |
 | The power of Awakening | 6.00% | ~70 |

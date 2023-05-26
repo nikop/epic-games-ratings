@@ -2230,9 +2230,9 @@
       "ID": "challenger",
       "SetID": "3nl4bcg",
       "Name": "Challenger",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 82
     },
     {
       "ID": "conqueror",
@@ -2775,8 +2775,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-23T21:58:11.918076+00:00",
-  "LastChanged_Achievements": "2023-05-26T03:06:02.3833906+00:00",
+  "LastChanged_Achievements": "2023-05-26T04:06:35.881761+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:34.8363446+00:00",
-  "LastUpdate_Ratings": "2023-05-26T02:57:52.5489841+00:00",
-  "LastUpdate_Achievements": "2023-05-26T03:06:02.3834578+00:00"
+  "LastUpdate_Ratings": "2023-05-26T03:58:16.6173349+00:00",
+  "LastUpdate_Achievements": "2023-05-26T04:06:35.8818402+00:00"
 }

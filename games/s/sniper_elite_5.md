@@ -59,6 +59,7 @@ Rating: 4.38 (Ranked 695)
 | Burn after reading | 0.10% | ~1 |
 | Eagle Eyed | 0.10% | ~1 |
 | Up close and personal | 0.10% | ~1 |
+| Sight Beyond Sights | 0.10% | ~1 |
 | Führerious Repetition | 0.10% | ~1 |
 | From Führer Away | 0.10% | ~1 |
 | Operation Overlord | 0.10% | ~1 |
@@ -68,7 +69,6 @@ Rating: 4.38 (Ranked 695)
 | Master of Secondaries | 0.00% | ~0 |
 | Master of Rifles | 0.00% | ~0 |
 | Master-at-arms | 0.00% | ~0 |
-| Sight Beyond Sights | 0.00% | ~0 |
 | Can't Outrun A Bullet | 0.00% | ~0 |
 | Alpha | 0.00% | ~0 |
 | Das Familienjuwel | 0.00% | ~0 |
@@ -77,7 +77,7 @@ Rating: 4.38 (Ranked 695)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,443 (Ranked 157)  
+Progressed: 1,444 (Ranked 157)  
 Completed: 2 (0.14%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 2 (0.14%) (Ranked 150)
 | 2023-05-23 | 1,294 | 2 |
 | 2023-05-24 | 1,365 | 2 |
 | 2023-05-25 | 1,428 | 2 |
-| 2023-05-26 | 1,443 | 2 |
+| 2023-05-26 | 1,444 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

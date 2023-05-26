@@ -2,7 +2,7 @@
   "ID": "iris",
   "Name": "Phoenix Point: Complete Edition",
   "ProductSlug": "phoenix-point",
-  "Ranking_Rating": 450,
+  "Ranking_Rating": 451,
   "Ranking_Popularity": 108,
   "Ranking_PopularitySum": 102,
   "Ranking_EOS_Progress": 421,
@@ -2545,6 +2545,6 @@
   "FirstSeen": "2022-07-22T20:17:48.4306383+00:00",
   "LastChanged": "2023-05-25T20:57:07.3501364+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:05.6342077+00:00",
-  "LastUpdate_Ratings": "2023-05-26T02:57:09.0426788+00:00",
-  "LastUpdate_Achievements": "2023-05-26T03:03:36.0443303+00:00"
+  "LastUpdate_Ratings": "2023-05-26T03:57:24.4767356+00:00",
+  "LastUpdate_Achievements": "2023-05-26T04:04:03.5407642+00:00"
 }

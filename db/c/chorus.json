@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 457,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -268,9 +268,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 884,
+  "EOS_Progressed": 885,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.24,
   "EosHistory": [
@@ -543,6 +543,11 @@
       "Time": "2023-05-25T21:05:46.5409992+00:00",
       "NumProgressed": 884,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-05-26T04:06:53.0080266+00:00",
+      "NumProgressed": 885,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 43,
@@ -570,7 +575,7 @@
       "Name": "Voices from the Past",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "Finish5SideMissions",
@@ -578,7 +583,7 @@
       "Name": "Helping Hand",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "FinishAllSideMissions",
@@ -592,9 +597,9 @@
       "ID": "GatlingVsArmor",
       "SetID": "a6c395p",
       "Name": "Controlled Demolition",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 504
+      "UsersEstimate": 496
     },
     {
       "ID": "Kill3InOneDrift",
@@ -618,7 +623,7 @@
       "Name": "The Great Destroyer",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "MasteryOfCombat",
@@ -642,7 +647,7 @@
       "Name": "Mastery of Weapons",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "MissionActivateDish",
@@ -650,7 +655,7 @@
       "Name": "The Crimson Void",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "MissionAmaranthPart2",
@@ -682,7 +687,7 @@
       "Name": "Payback",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "MissionDreamsOfThePast",
@@ -722,7 +727,7 @@
       "Name": "Disciple",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "MissionHelios",
@@ -730,15 +735,15 @@
       "Name": "Cult Slayer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "MissionLiberateEnclave",
       "SetID": "a6c395p",
       "Name": "Safe Home",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 610
+      "UsersEstimate": 602
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -754,7 +759,7 @@
       "Name": "Old Days Born Anew",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "MissionPhoenixRediscovery",
@@ -770,7 +775,7 @@
       "Name": "Shields Down",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     },
     {
       "ID": "MissionScavengingJob",
@@ -778,7 +783,7 @@
       "Name": "Another Life",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "MissionShipyard",
@@ -832,9 +837,9 @@
       "ID": "RadiationCloud",
       "SetID": "a6c395p",
       "Name": "Radiation Area",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 80
     },
     {
       "ID": "RiteOfControl",
@@ -850,7 +855,7 @@
       "Name": "Huntress",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "RiteOfTheStar",
@@ -882,7 +887,7 @@
       "Name": "Space Traveler",
       "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "WinARace",
@@ -890,22 +895,22 @@
       "Name": "Relentless",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     }
   ],
   "AchievementSets": [
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 884,
+      "Progressed": 885,
       "Completed": 11
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2023-03-29T10:57:57.6438105+00:00",
-  "LastChanged_Achievements": "2023-05-26T03:06:18.0150665+00:00",
+  "LastChanged_Achievements": "2023-05-26T04:06:53.0080257+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:40.2648469+00:00",
-  "LastUpdate_Ratings": "2023-05-26T03:00:05.1149478+00:00",
-  "LastUpdate_Achievements": "2023-05-26T03:06:18.0150943+00:00"
+  "LastUpdate_Ratings": "2023-05-26T04:00:41.375122+00:00",
+  "LastUpdate_Achievements": "2023-05-26T04:06:53.0080593+00:00"
 }

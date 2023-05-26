@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewPlayers": 58,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -428,9 +428,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13626,
+  "EOS_Progressed": 13630,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 975,
+  "EOS_NewPlayers": 973,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1583,6 +1583,11 @@
       "Time": "2023-05-26T03:03:25.6662598+00:00",
       "NumProgressed": 13626,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-26T04:03:52.0377851+00:00",
+      "NumProgressed": 13630,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -1610,7 +1615,7 @@
       "Name": "Giving Back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -1722,7 +1727,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "KILL_ROBOT",
@@ -1913,13 +1918,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13626,
+      "Progressed": 13630,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1552,
+      "Progressed": 1556,
       "Completed": 29
     }
   ],
@@ -1927,8 +1932,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-23T19:57:59.4143533+00:00",
-  "LastChanged_Achievements": "2023-05-26T03:03:25.6662593+00:00",
+  "LastChanged_Achievements": "2023-05-26T04:03:52.0377842+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-26T02:57:43.4193866+00:00",
-  "LastUpdate_Achievements": "2023-05-26T03:03:25.6662898+00:00"
+  "LastUpdate_Ratings": "2023-05-26T03:58:06.1810636+00:00",
+  "LastUpdate_Achievements": "2023-05-26T04:03:52.037824+00:00"
 }

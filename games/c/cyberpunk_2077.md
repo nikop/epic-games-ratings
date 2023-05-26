@@ -6,52 +6,52 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 67.00% | ~548,001 |
-| Right Back At Ya | 37.00% | ~302,627 |
-| The Lovers | 32.00% | ~261,732 |
-| Stanislavski's Method | 27.00% | ~220,836 |
-| The Wheel of Fortune | 25.00% | ~204,478 |
-| The Hermit | 23.00% | ~188,120 |
-| True Soldier | 22.00% | ~179,941 |
-| Christmas Tree Attack | 21.00% | ~171,762 |
-| The High Priestess | 20.00% | ~163,582 |
-| Legend of The Afterlife | 20.00% | ~163,582 |
-| Life of the Road | 19.00% | ~155,403 |
-| Full Body Conversion | 17.00% | ~139,045 |
-| The World | 16.00% | ~130,866 |
-| Bushido and Chill | 15.00% | ~122,687 |
-| Gun Fu | 14.00% | ~114,508 |
-| True Warrior | 14.00% | ~114,508 |
-| To Protect and Serve | 13.00% | ~106,329 |
-| Master Crafter | 13.00% | ~106,329 |
-| I Am The Law | 13.00% | ~106,329 |
-| Judy vs Night City | 13.00% | ~106,329 |
-| Two Heads, One Bullet | 11.00% | ~89,970 |
-| The Wandering Fool | 9.00% | ~73,612 |
-| The Quick and the Dead | 9.00% | ~73,612 |
-| Ten out of Ten | 8.00% | ~65,433 |
-| Breathtaking | 7.00% | ~57,254 |
-| To Bad Decisions! | 6.00% | ~49,075 |
-| The Star | 6.00% | ~49,075 |
-| The Sun | 6.00% | ~49,075 |
-| Must Be Rats | 4.00% | ~32,716 |
-| Temperance | 4.00% | ~32,716 |
-| City Lights | 3.00% | ~24,537 |
-| Mean Streets | 3.00% | ~24,537 |
-| Little Tokyo | 3.00% | ~24,537 |
-| Greetings from Pacifica! | 3.00% | ~24,537 |
-| The Jungle | 3.00% | ~24,537 |
-| V for Vendetta | 3.00% | ~24,537 |
-| It's Elementary | 3.00% | ~24,537 |
-| Autojock | 2.00% | ~16,358 |
-| Frequent Flyer | 2.00% | ~16,358 |
-| The Wasteland | 2.00% | ~16,358 |
-| Daemon In The Shell | 2.00% | ~16,358 |
-| The Devil | 2.00% | ~16,358 |
-| Gunslinger | 1.00% | ~8,179 |
+| The Fool | 67.00% | ~548,041 |
+| Right Back At Ya | 37.00% | ~302,650 |
+| The Lovers | 32.00% | ~261,751 |
+| Stanislavski's Method | 27.00% | ~220,852 |
+| The Wheel of Fortune | 25.00% | ~204,493 |
+| The Hermit | 23.00% | ~188,134 |
+| True Soldier | 22.00% | ~179,954 |
+| Christmas Tree Attack | 21.00% | ~171,774 |
+| The High Priestess | 20.00% | ~163,594 |
+| Legend of The Afterlife | 20.00% | ~163,594 |
+| Life of the Road | 19.00% | ~155,415 |
+| Full Body Conversion | 17.00% | ~139,055 |
+| The World | 16.00% | ~130,876 |
+| Bushido and Chill | 15.00% | ~122,696 |
+| Gun Fu | 14.00% | ~114,516 |
+| True Warrior | 14.00% | ~114,516 |
+| To Protect and Serve | 13.00% | ~106,336 |
+| Master Crafter | 13.00% | ~106,336 |
+| I Am The Law | 13.00% | ~106,336 |
+| Judy vs Night City | 13.00% | ~106,336 |
+| Two Heads, One Bullet | 11.00% | ~89,977 |
+| The Wandering Fool | 9.00% | ~73,617 |
+| The Quick and the Dead | 9.00% | ~73,617 |
+| Ten out of Ten | 8.00% | ~65,438 |
+| Breathtaking | 7.00% | ~57,258 |
+| To Bad Decisions! | 6.00% | ~49,078 |
+| The Star | 6.00% | ~49,078 |
+| The Sun | 6.00% | ~49,078 |
+| Must Be Rats | 4.00% | ~32,719 |
+| Temperance | 4.00% | ~32,719 |
+| City Lights | 3.00% | ~24,539 |
+| Mean Streets | 3.00% | ~24,539 |
+| Little Tokyo | 3.00% | ~24,539 |
+| Greetings from Pacifica! | 3.00% | ~24,539 |
+| The Jungle | 3.00% | ~24,539 |
+| V for Vendetta | 3.00% | ~24,539 |
+| It's Elementary | 3.00% | ~24,539 |
+| Autojock | 2.00% | ~16,359 |
+| Frequent Flyer | 2.00% | ~16,359 |
+| The Wasteland | 2.00% | ~16,359 |
+| Daemon In The Shell | 2.00% | ~16,359 |
+| The Devil | 2.00% | ~16,359 |
+| Gunslinger | 1.00% | ~8,180 |
 | Rough Landing | 0.40% | ~3,272 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 817,912 (Ranked 11)  
+Progressed: 817,972 (Ranked 11)  
 Completed: 1,646 (0.20%) (Ranked 140)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,10 +87,10 @@ Completed: 1,646 (0.20%) (Ranked 140)
 | 2023-05-23 | 814,383 | 1,634 |
 | 2023-05-24 | 815,975 | 1,640 |
 | 2023-05-25 | 817,655 | 1,645 |
-| 2023-05-26 | 817,912 | 1,646 |
+| 2023-05-26 | 817,972 | 1,646 |
 ## Awards
 Max (Character Customization): 65,128  (Ranked 9)  
-Sum: 170,996 (Ranked 13)  
+Sum: 171,011 (Ranked 13)  
 Diff (max vs sum): -4  
 | Award | Count |
 | ----- | ----- |
@@ -100,8 +100,8 @@ Diff (max vs sum): -4
 | This game has Diverse Characters | 7,510 |
 | This game is Great for Beginners | 7,490 |
 | This game is Extremely Fun | 7,425 |
+| This game is Relaxing | 7,380 |
 | This game is Highly Recommended | 7,374 |
-| This game is Relaxing | 7,365 |
 | This game has Quickly Understood Controls | 7,234 |
 | This game has Amazing Characters | 7,211 |
 | This game has a Creative Community | 4,808 |
@@ -235,3 +235,4 @@ Diff (max vs sum): -4
 | 2023-05-23 | 4.62 | - | 64,919 | 170,525 |
 | 2023-05-24 | 4.62 | - | 65,029 | 170,749 |
 | 2023-05-25 | 4.62 | - | 65,128 | 170,996 |
+| 2023-05-26 | 4.62 | - | 65,128 | 171,011 |

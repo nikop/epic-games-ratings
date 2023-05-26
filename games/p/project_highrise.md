@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 58.00% | ~99 |
+| In the Black | 58.00% | ~100 |
 | Starting Skyward | 52.00% | ~89 |
-| Grime is Not Good | 46.00% | ~79 |
-| Campaign Launch | 40.00% | ~68 |
+| Grime is Not Good | 45.00% | ~77 |
+| Campaign Launch | 40.00% | ~69 |
 | Floor Galore | 38.00% | ~65 |
 | Dinner Dash | 38.00% | ~65 |
-| It's Technical | 36.00% | ~62 |
+| It's Technical | 35.00% | ~60 |
 | Need a Consult | 34.00% | ~58 |
-| Upgrade Unlock | 33.00% | ~56 |
+| Upgrade Unlock | 33.00% | ~57 |
 | Delegate Maintenance | 31.00% | ~53 |
-| Proper Walls | 30.00% | ~51 |
+| Proper Walls | 30.00% | ~52 |
 | Destination Destiny | 27.00% | ~46 |
 | Happy Tenants | 24.00% | ~41 |
-| Potent Potables | 23.00% | ~39 |
-| Smooth Service | 23.00% | ~39 |
+| Potent Potables | 23.00% | ~40 |
+| Smooth Service | 23.00% | ~40 |
 | Your Prestige is Rising | 22.00% | ~38 |
 | Retail Revenue | 22.00% | ~38 |
 | Lux Living | 21.00% | ~36 |
@@ -28,21 +28,21 @@
 | Don't Feel a Loan | 20.00% | ~34 |
 | Emporium Empire | 20.00% | ~34 |
 | Get Electrified | 20.00% | ~34 |
-| Rehab Expert | 19.00% | ~32 |
-| Tasty Profits | 19.00% | ~32 |
-| Established Fame | 18.00% | ~31 |
-| Cashflow Chief | 18.00% | ~31 |
-| We Don't Need No Education | 18.00% | ~31 |
-| Under One Roof | 16.00% | ~27 |
-| Boutique Benefits | 16.00% | ~27 |
-| Terrifically Trashed | 16.00% | ~27 |
-| Thrilled Tenants | 16.00% | ~27 |
+| Rehab Expert | 19.00% | ~33 |
+| Tasty Profits | 19.00% | ~33 |
+| We Don't Need No Education | 19.00% | ~33 |
+| Established Fame | 17.00% | ~29 |
+| Cashflow Chief | 17.00% | ~29 |
+| Under One Roof | 16.00% | ~28 |
+| Boutique Benefits | 16.00% | ~28 |
+| Terrifically Trashed | 16.00% | ~28 |
+| Thrilled Tenants | 16.00% | ~28 |
 | Swimming in Surplus | 15.00% | ~26 |
 | Starred Dining | 15.00% | ~26 |
 | Smooth Operator | 12.00% | ~21 |
 | 28 Days Later | 12.00% | ~21 |
-| Plaza Plan | 11.00% | ~19 |
 | First 100 Days | 10.00% | ~17 |
+| Plaza Plan | 10.00% | ~17 |
 | Master of Puppets | 10.00% | ~17 |
 | Revenue Royalty | 10.00% | ~17 |
 | Aestheticly Pleased | 9.00% | ~15 |
@@ -64,17 +64,17 @@
 | Office Bigwigs | 5.00% | ~9 |
 | Luxury Boutiques | 5.00% | ~9 |
 | Golden Opportunity | 5.00% | ~9 |
-| Decorator's Touch | 4.00% | ~7 |
-| Loft Life | 4.00% | ~7 |
-| Plebs Are Needed | 4.00% | ~7 |
-| Three of a Kind | 4.00% | ~7 |
-| Four of a Kind | 4.00% | ~7 |
-| Sandbagger | 4.00% | ~7 |
-| In the Money | 4.00% | ~7 |
 | Curated Class | 3.00% | ~5 |
+| Decorator's Touch | 3.00% | ~5 |
+| Loft Life | 3.00% | ~5 |
 | Glut of Gastronomy | 3.00% | ~5 |
+| Plebs Are Needed | 3.00% | ~5 |
 | Royal Flush | 3.00% | ~5 |
 | The King of Cool | 3.00% | ~5 |
+| Three of a Kind | 3.00% | ~5 |
+| Four of a Kind | 3.00% | ~5 |
+| Sandbagger | 3.00% | ~5 |
+| In the Money | 3.00% | ~5 |
 | It is Payday | 3.00% | ~5 |
 | Apartment Awareness | 2.00% | ~3 |
 | Full House | 2.00% | ~3 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 171 (Ranked 242)  
+Progressed: 172 (Ranked 242)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,6 +113,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-22 | 169 | 0 |
 | 2023-05-23 | 170 | 0 |
 | 2023-05-25 | 171 | 0 |
+| 2023-05-26 | 172 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,20 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 9.00% | ~3,940 |
-| That's a Grand Army | 8.00% | ~3,502 |
-| That is mine! | 8.00% | ~3,502 |
-| Victorious! | 8.00% | ~3,502 |
-| Brothers in Arms | 6.00% | ~2,627 |
-| That's a Grand Navy | 6.00% | ~2,627 |
-| Seriously?! | 6.00% | ~2,627 |
-| For the Glory | 5.00% | ~2,189 |
-| Cold War | 4.00% | ~1,751 |
-| True Catholic | 4.00% | ~1,751 |
-| Defender of the Faith | 3.00% | ~1,313 |
-| It's all about the money | 3.00% | ~1,313 |
-| Respected | 3.00% | ~1,313 |
-| Truly Divine Ruler | 3.00% | ~1,313 |
+| Until death do us apart | 9.00% | ~3,942 |
+| That's a Grand Army | 8.00% | ~3,504 |
+| That is mine! | 8.00% | ~3,504 |
+| Victorious! | 8.00% | ~3,504 |
+| Brothers in Arms | 6.00% | ~2,628 |
+| That's a Grand Navy | 6.00% | ~2,628 |
+| Seriously?! | 6.00% | ~2,628 |
+| For the Glory | 5.00% | ~2,190 |
+| Cold War | 4.00% | ~1,752 |
+| True Catholic | 4.00% | ~1,752 |
+| Defender of the Faith | 3.00% | ~1,314 |
+| It's all about the money | 3.00% | ~1,314 |
+| Respected | 3.00% | ~1,314 |
+| Truly Divine Ruler | 3.00% | ~1,314 |
 | Agressive Expander | 2.00% | ~876 |
 | Blockader | 2.00% | ~876 |
 | Combined Arms | 2.00% | ~876 |
@@ -42,8 +42,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Emperors new clothes | 0.80% | ~350 |
 | Isn't this the way to India? | 0.80% | ~350 |
 | Market Control | 0.80% | ~350 |
-| Down Under | 0.70% | ~306 |
-| Trustworthy | 0.70% | ~306 |
+| Down Under | 0.70% | ~307 |
+| Trustworthy | 0.70% | ~307 |
 | Electable! | 0.60% | ~263 |
 | Time Bandit | 0.60% | ~263 |
 | All belongs to Mother Russia | 0.50% | ~219 |
@@ -361,7 +361,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Why is the Rûm gone!? | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,780 (Ranked 79)  
+Progressed: 43,796 (Ranked 79)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -397,7 +397,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-23 | 42,594 | 0 |
 | 2023-05-24 | 43,149 | 0 |
 | 2023-05-25 | 43,718 | 0 |
-| 2023-05-26 | 43,780 | 0 |
+| 2023-05-26 | 43,796 | 0 |
 ## Awards
 Max (Educational): 5,281  (Ranked 60)  
 Sum: 43,757 (Ranked 27)  

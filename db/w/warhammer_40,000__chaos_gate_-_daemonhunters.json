@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -522,9 +522,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2634,
+  "EOS_Progressed": 2635,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -957,6 +957,11 @@
       "Time": "2023-05-26T02:06:22.2667634+00:00",
       "NumProgressed": 2634,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T04:06:46.1034964+00:00",
+      "NumProgressed": 2635,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -1062,9 +1067,9 @@
       "ID": "ExtractorSkullUses",
       "SetID": "3jha1np",
       "Name": "Surgical Excision",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 395
+      "UsersEstimate": 369
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -1144,7 +1149,7 @@
       "Name": "Blood for the Blood God!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "Kills_Bloomspawn",
@@ -1176,7 +1181,7 @@
       "Name": "Friendly Fire",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "Kills_Interactable",
@@ -1216,7 +1221,7 @@
       "Name": "An Ill Omen",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -1240,7 +1245,7 @@
       "Name": "Nemesis Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "MasterCraftLevel3_Ranged",
@@ -1248,7 +1253,7 @@
       "Name": "Gunmaster",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "MasterOfTheForge",
@@ -1336,7 +1341,7 @@
       "Name": "A Foul Creche",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "NotAMoteOfCorruption",
@@ -1439,21 +1444,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 2634,
+      "Progressed": 2635,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 2634,
+      "Progressed": 2635,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-05-25T18:58:54.7757942+00:00",
-  "LastChanged_Achievements": "2023-05-26T03:06:11.5355341+00:00",
+  "LastChanged_Achievements": "2023-05-26T04:06:46.103496+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:13.6314729+00:00",
-  "LastUpdate_Ratings": "2023-05-26T02:58:33.7592986+00:00",
-  "LastUpdate_Achievements": "2023-05-26T03:06:11.535579+00:00"
+  "LastUpdate_Ratings": "2023-05-26T03:59:04.5535688+00:00",
+  "LastUpdate_Achievements": "2023-05-26T04:06:46.1035459+00:00"
 }

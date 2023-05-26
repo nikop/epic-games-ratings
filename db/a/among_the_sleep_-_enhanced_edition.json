@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 110,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -443,9 +443,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72089,
+  "EOS_Progressed": 72093,
   "EOS_Completed": 333,
-  "EOS_NewPlayers": 856,
+  "EOS_NewPlayers": 855,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -3913,6 +3913,11 @@
       "Time": "2023-05-26T03:06:06.4245796+00:00",
       "NumProgressed": 72089,
       "NumCompleted": 333
+    },
+    {
+      "Time": "2023-05-26T04:06:40.1024679+00:00",
+      "NumProgressed": 72093,
+      "NumCompleted": 333
     }
   ],
   "TotalAchievements": 10,
@@ -3924,7 +3929,7 @@
       "Name": "Baby Mozart",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 3604
+      "UsersEstimate": 3605
     },
     {
       "ID": "Drawings01",
@@ -3988,7 +3993,7 @@
       "Name": "Strike",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 25952
+      "UsersEstimate": 25953
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -4003,15 +4008,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 72089,
+      "Progressed": 72093,
       "Completed": 333
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-03-31T05:57:32.2303432+00:00",
-  "LastChanged_Achievements": "2023-05-26T03:06:06.4245791+00:00",
+  "LastChanged_Achievements": "2023-05-26T04:06:40.1024674+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:37.6361011+00:00",
-  "LastUpdate_Ratings": "2023-05-26T03:00:33.4602165+00:00",
-  "LastUpdate_Achievements": "2023-05-26T03:06:06.4246024+00:00"
+  "LastUpdate_Ratings": "2023-05-26T04:01:10.8232956+00:00",
+  "LastUpdate_Achievements": "2023-05-26T04:06:40.1025009+00:00"
 }

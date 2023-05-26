@@ -2530,7 +2530,7 @@
   ],
   "EOS_Progressed": 9196,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 317,
+  "EOS_NewPlayers": 316,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4728,9 +4728,9 @@
       "ID": "23_MasterfulCharge",
       "SetID": "989of5o",
       "Name": "Masterful Charge",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 37
     },
     {
       "ID": "24_Legacy",
@@ -5494,8 +5494,8 @@
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-26T01:58:39.9900501+00:00",
-  "LastChanged_Achievements": "2023-05-26T03:06:21.7317621+00:00",
+  "LastChanged_Achievements": "2023-05-26T04:06:57.166772+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3010226+00:00",
-  "LastUpdate_Ratings": "2023-05-26T02:58:12.8323947+00:00",
-  "LastUpdate_Achievements": "2023-05-26T03:06:21.7318989+00:00"
+  "LastUpdate_Ratings": "2023-05-26T03:58:39.1107872+00:00",
+  "LastUpdate_Achievements": "2023-05-26T04:06:57.1669553+00:00"
 }

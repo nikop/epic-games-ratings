@@ -325,7 +325,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 1544,
+  "EOS_Progressed": 1545,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
@@ -635,6 +635,11 @@
       "Time": "2023-05-25T23:05:43.2849427+00:00",
       "NumProgressed": 1544,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-26T04:06:25.3324023+00:00",
+      "NumProgressed": 1545,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 53,
@@ -726,7 +731,7 @@
       "Name": "Full House",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "ACH_GETTING_THE_GANG_BACK_TOGETHER",
@@ -790,7 +795,7 @@
       "Name": "Justice Served",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "ACH_LETS_RIDE",
@@ -798,7 +803,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -894,7 +899,7 @@
       "Name": "Perky",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -1022,7 +1027,7 @@
       "Name": "Unforgiven",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 1343
+      "UsersEstimate": 1344
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -1060,24 +1065,24 @@
       "ID": "ACH_WORKERS_RIGHTS",
       "SetID": "8j30i9k",
       "Name": "Workers\u0027 Rights",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 201
+      "UsersEstimate": 185
     }
   ],
   "AchievementSets": [
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1544,
+      "Progressed": 1545,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-05-22T22:58:15.9283451+00:00",
-  "LastChanged_Achievements": "2023-05-26T03:05:52.8144326+00:00",
+  "LastChanged_Achievements": "2023-05-26T04:06:25.3324017+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:00.9656203+00:00",
-  "LastUpdate_Ratings": "2023-05-26T02:58:22.2153739+00:00",
-  "LastUpdate_Achievements": "2023-05-26T03:05:52.8144696+00:00"
+  "LastUpdate_Ratings": "2023-05-26T03:58:49.2315338+00:00",
+  "LastUpdate_Achievements": "2023-05-26T04:06:25.3324512+00:00"
 }
