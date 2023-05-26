@@ -8,7 +8,7 @@
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 20.59% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.27% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 9 | [Island Cities](games/i/island_cities.md) | 15.79% |
+| 9 | [Island Cities](games/i/island_cities.md) | 15.70% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 12.50% |
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.34% |
 | 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.98% |
@@ -28,13 +28,13 @@
 | 26 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.71% |
 | 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.26% |
-| 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.17% |
+| 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.14% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.89% |
-| 31 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.69% |
+| 31 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.67% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.27% |
 | 34 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 4.17% |
-| 35 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.00% |
+| 35 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.99% |
 | 36 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.90% |
 | 37 | [Doodle God](games/d/doodle_god.md) | 3.86% |
 | 38 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 3.85% |
@@ -84,7 +84,7 @@
 | 82 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.17% |
 | 83 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.12% |
 | 84 | [Late Shift](games/l/late_shift.md) | 1.10% |
-| 85 | [Five Dates](games/f/five_dates.md) | 1.07% |
+| 85 | [Five Dates](games/f/five_dates.md) | 1.06% |
 | 86 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 1.04% |
 | 87 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 0.96% |
 | 88 | [Sable](games/s/sable.md) | 0.94% |
@@ -111,7 +111,7 @@
 | 107 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.48% |
 | 110 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.47% |
 | 111 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
-| 112 | [Tails of Iron](games/t/tails_of_iron.md) | 0.41% |
+| 112 | [Tails of Iron](games/t/tails_of_iron.md) | 0.40% |
 | 113 | [Potion Permit](games/p/potion_permit.md) | 0.39% |
 | 113 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.39% |
 | 113 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.39% |
@@ -159,12 +159,12 @@
 | 157 | [Partisans 1941](games/p/partisans_1941.md) | 0.11% |
 | 157 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.11% |
 | 159 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
+| 159 | [Fall Guys](games/f/fall_guys.md) | 0.10% |
 | 159 | [House Flipper](games/h/house_flipper.md) | 0.10% |
 | 159 | [Ring of Pain](games/r/ring_of_pain.md) | 0.10% |
 | 159 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.10% |
 | 159 | [Supraland](games/s/supraland.md) | 0.10% |
-| 164 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
-| 164 | [Fall Guys](games/f/fall_guys.md) | 0.09% |
+| 165 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 166 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.08% |
 | 166 | [Riverbond](games/r/riverbond.md) | 0.08% |
 | 166 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.08% |

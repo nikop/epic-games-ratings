@@ -168,6 +168,7 @@
 | [Galactic Civilizations IV](../games/g/galactic_civilizations_iv.md) | 72 | 1,000 |
 | [Gamedec - Definitive Edition](../games/g/gamedec_-_definitive_edition.md) | 52 | 1,000 |
 | [Garden In](../games/g/garden_in.md) | 31 | 1,000 |
+| [GeoJelly](../games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 7 | 1,000 |
 | [Get Together: A Coop Adventure](../games/g/get_together__a_coop_adventure.md) | 10 | 1,000 |
 | [Ghostbusters: Spirits Unleashed](../games/g/ghostbusters__spirits_unleashed.md) | 51 | 1,000 |
 | [Gigapocalypse](../games/g/gigapocalypse.md) | 53 | 1,000 |
