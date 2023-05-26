@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 190,
+  "EOS_Progressed": 191,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -309,6 +309,11 @@
       "Time": "2023-05-25T18:05:19.4407145+00:00",
       "NumProgressed": 190,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-26T02:06:02.1593006+00:00",
+      "NumProgressed": 191,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 15,
@@ -318,9 +323,9 @@
       "ID": "completeact1",
       "SetID": "40n95i5",
       "Name": "BBFF (Best Brigade Friend Forever)",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 60,
-      "UsersEstimate": 106
+      "UsersEstimate": 109
     },
     {
       "ID": "completeact2",
@@ -328,7 +333,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 47,
       "XP": 80,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "completeact3",
@@ -360,15 +365,15 @@
       "Name": "Truthseeker",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "scoreminrankrb2",
       "SetID": "40n95i5",
       "Name": "Freedom",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "scoreminrankrf1",
@@ -382,9 +387,9 @@
       "ID": "scoreminrankrf2",
       "SetID": "40n95i5",
       "Name": "Partners in Crime",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "scoreminrankrh1",
@@ -392,15 +397,15 @@
       "Name": "Souvenirs",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "scoreminrankrp1",
       "SetID": "40n95i5",
       "Name": "This is Not Heavy Metal!",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 40
+      "UsersEstimate": 38
     },
     {
       "ID": "scoreminrankrp2",
@@ -430,16 +435,16 @@
       "ID": "scoreminrankrv2",
       "SetID": "40n95i5",
       "Name": "Friendzone",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     }
   ],
   "AchievementSets": [
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 190,
+      "Progressed": 191,
       "Completed": 2
     }
   ],
@@ -447,8 +452,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2023-05-26T00:06:14.0407473+00:00",
+  "LastChanged_Achievements": "2023-05-26T02:06:02.1593003+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:05.0477946+00:00",
-  "LastUpdate_Ratings": "2023-05-25T23:59:10.7876098+00:00",
-  "LastUpdate_Achievements": "2023-05-26T00:06:14.0407675+00:00"
+  "LastUpdate_Ratings": "2023-05-26T01:59:12.9017513+00:00",
+  "LastUpdate_Achievements": "2023-05-26T02:06:02.1593104+00:00"
 }

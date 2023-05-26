@@ -1232,9 +1232,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62055,
+  "EOS_Progressed": 62069,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1041,
+  "EOS_NewPlayers": 1042,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3777,6 +3777,11 @@
       "Time": "2023-05-26T00:06:43.3601202+00:00",
       "NumProgressed": 62055,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-26T02:06:30.6964088+00:00",
+      "NumProgressed": 62069,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -3836,7 +3841,7 @@
       "Name": "The Batman Family",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -4012,7 +4017,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "FREEZE_1_5",
@@ -4020,7 +4025,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "FREEZE_2",
@@ -4100,7 +4105,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "HARLEY_3",
@@ -4108,7 +4113,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "HARLEY_4",
@@ -4188,7 +4193,7 @@
       "Name": "Whispered Words",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "MYSTERY_03",
@@ -4275,13 +4280,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62055,
+      "Progressed": 62069,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32335,
+      "Progressed": 32349,
       "Completed": 2641
     }
   ],
@@ -4289,8 +4294,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-25T19:00:08.9110669+00:00",
-  "LastChanged_Achievements": "2023-05-26T00:06:43.3601194+00:00",
+  "LastChanged_Achievements": "2023-05-26T02:06:30.6964083+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:07:30.6218875+00:00",
-  "LastUpdate_Ratings": "2023-05-26T00:00:13.079355+00:00",
-  "LastUpdate_Achievements": "2023-05-26T00:06:43.3602831+00:00"
+  "LastUpdate_Ratings": "2023-05-26T02:00:16.5990542+00:00",
+  "LastUpdate_Achievements": "2023-05-26T02:06:30.6964675+00:00"
 }

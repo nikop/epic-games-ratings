@@ -2,12 +2,12 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 271,
+  "Ranking_Rating": 272,
   "Ranking_Popularity": 319,
   "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -858,9 +858,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 3092,
+  "EOS_Progressed": 3093,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -2803,6 +2803,11 @@
       "Time": "2023-05-25T22:06:29.8469829+00:00",
       "NumProgressed": 3092,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-26T02:06:29.1839051+00:00",
+      "NumProgressed": 3093,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2822,7 +2827,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -2910,7 +2915,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1423
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -2966,7 +2971,7 @@
       "Name": "The Governator",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -2974,7 +2979,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 2381
+      "UsersEstimate": 2382
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -2998,7 +3003,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 20,
       "XP": 35,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -3006,7 +3011,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ACH_MYWAYS",
@@ -3070,7 +3075,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 1515
+      "UsersEstimate": 1516
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -3133,15 +3138,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 3092,
+      "Progressed": 3093,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-05-25T20:59:45.4825321+00:00",
-  "LastChanged_Achievements": "2023-05-26T00:06:41.5393857+00:00",
+  "LastChanged_Achievements": "2023-05-26T02:06:29.1839047+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:13:57.2781106+00:00",
-  "LastUpdate_Ratings": "2023-05-26T00:00:44.766561+00:00",
-  "LastUpdate_Achievements": "2023-05-26T00:06:41.5394559+00:00"
+  "LastUpdate_Ratings": "2023-05-26T02:00:41.695481+00:00",
+  "LastUpdate_Achievements": "2023-05-26T02:06:29.1839526+00:00"
 }

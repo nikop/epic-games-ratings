@@ -12,10 +12,10 @@ Rating: 4.55 (Ranked 468)
 | Space Society | 4.00% | ~86 |
 | A Thousand Strong | 4.00% | ~86 |
 | Ready for a New World | 4.00% | ~86 |
+| Breaking Protocol | 4.00% | ~86 |
 | Guy de Borderlands | 3.00% | ~65 |
 | A Hunk of Junk | 3.00% | ~65 |
 | Fully Recycled | 3.00% | ~65 |
-| Breaking Protocol | 3.00% | ~65 |
 | Permanent Redesigns | 3.00% | ~65 |
 | Ain't Nobody Got Time for That | 3.00% | ~65 |
 | The Ship of Theseus | 3.00% | ~65 |
@@ -25,11 +25,11 @@ Rating: 4.55 (Ranked 468)
 | Access Granted | 2.00% | ~43 |
 | Please Make it Stop! | 2.00% | ~43 |
 | Man's Best Friend | 1.00% | ~22 |
+| Oats | 1.00% | ~22 |
 | Sightseeing | 1.00% | ~22 |
 | Necessary Enhancement | 1.00% | ~22 |
 | Convenient Transport | 1.00% | ~22 |
 | From the Past | 1.00% | ~22 |
-| Oats | 0.90% | ~19 |
 | BRAWL! | 0.90% | ~19 |
 | In Dolos We Trust | 0.80% | ~17 |
 | What They Hide From Us | 0.70% | ~15 |

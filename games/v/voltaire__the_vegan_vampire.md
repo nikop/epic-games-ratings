@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| So it begins | 99.00% | ~79 |
-| Good to grow | 64.00% | ~51 |
-| Fashionista | 46.00% | ~37 |
+| So it begins | 99.00% | ~80 |
+| Good to grow | 64.00% | ~52 |
+| Fashionista | 47.00% | ~38 |
 | Irrigation not irritation | 41.00% | ~33 |
 | Graduated | 40.00% | ~32 |
 | Night Shift | 26.00% | ~21 |
 | It's about the journey | 15.00% | ~12 |
-| C'who? | 13.00% | ~10 |
+| C'who? | 12.00% | ~10 |
 | Shine bright | 11.00% | ~9 |
 | There be sand in me shorts | 10.00% | ~8 |
 | Holy Crops! | 9.00% | ~7 |
 | It gets everywhere | 9.00% | ~7 |
-| Make it rain | 8.00% | ~6 |
+| Make it rain | 7.00% | ~6 |
 | Do you wanna build a snowboiii? | 6.00% | ~5 |
 | Peaceful skies | 5.00% | ~4 |
 | Groovy! | 5.00% | ~4 |
 | Ay ay yarrr! | 5.00% | ~4 |
 | It's a bug's life | 4.00% | ~3 |
-| Homecoming | 3.00% | ~2 |
-| Who let the pets out? | 3.00% | ~2 |
-| Tururururu! | 3.00% | ~2 |
-| Zap! | 3.00% | ~2 |
+| Homecoming | 2.00% | ~2 |
+| Who let the pets out? | 2.00% | ~2 |
+| Tururururu! | 2.00% | ~2 |
+| Zap! | 2.00% | ~2 |
 | Veggie Master | 1.00% | ~1 |
 | I am Root! | 1.00% | ~1 |
 | Yeehaw! | 1.00% | ~1 |
@@ -36,7 +36,7 @@
 | Free Spirit | 0.00% | ~0 |
 | V is for Vegan | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80 (Ranked 272)  
+Progressed: 81 (Ranked 272)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -49,6 +49,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-20 | 78 | 0 |
 | 2023-05-21 | 79 | 0 |
 | 2023-05-25 | 80 | 0 |
+| 2023-05-26 | 81 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

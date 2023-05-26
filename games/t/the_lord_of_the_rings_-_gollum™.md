@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Wraith | 50.00% | ~69 |
-| Collectibles Part 1 | 38.00% | ~52 |
-| Welcome to Mordor! | 37.00% | ~51 |
-| Memories | 26.00% | ~36 |
-| Wait! Wait! Not yet! | 21.00% | ~29 |
-| Like Flying... | 15.00% | ~21 |
-| The Maggot | 9.00% | ~12 |
-| The Breeder | 5.00% | ~7 |
-| The Veteran | 2.00% | ~3 |
+| The Wraith | 51.00% | ~78 |
+| Collectibles Part 1 | 36.00% | ~55 |
+| Welcome to Mordor! | 36.00% | ~55 |
+| Memories | 26.00% | ~40 |
+| Wait! Wait! Not yet! | 20.00% | ~30 |
+| Like Flying... | 14.00% | ~21 |
+| The Maggot | 9.00% | ~14 |
+| The Breeder | 5.00% | ~8 |
+| The Veteran | 3.00% | ~5 |
+| The Traitor | 0.70% | ~1 |
+| The Spider | 0.70% | ~1 |
 | Murderer | 0.70% | ~1 |
 | Trigger-Happy | 0.70% | ~1 |
 | He's so Annoying | 0.00% | ~0 |
 | Break a Leg! | 0.00% | ~0 |
 | And now we wish... | 0.00% | ~0 |
 | The Friend | 0.00% | ~0 |
-| The Traitor | 0.00% | ~0 |
-| The Spider | 0.00% | ~0 |
 | Good as Fish | 0.00% | ~0 |
 | Her Eyes | 0.00% | ~0 |
 | Gollum/Sméagol | 0.00% | ~0 |
@@ -41,7 +41,7 @@
 | Ss ss ss... | 0.00% | ~0 |
 | So Tasty! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138 (Ranked 256)  
+Progressed: 152 (Ranked 252)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,4 +50,4 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-23 | 4 | 0 |
 | 2023-05-24 | 5 | 0 |
 | 2023-05-25 | 133 | 0 |
-| 2023-05-26 | 138 | 0 |
+| 2023-05-26 | 152 | 0 |

@@ -5,25 +5,25 @@ Rating: 4.43 (Ranked 642)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 25.00% | ~52,793 |
-| This is only the beginning | 19.00% | ~40,122 |
-| Knowledge is power | 12.00% | ~25,341 |
-| Power Ranger | 9.00% | ~19,005 |
-| Galvanic Rifle | 9.00% | ~19,005 |
-| Taser Goad | 9.00% | ~19,005 |
-| Radium Ready | 9.00% | ~19,005 |
-| Half a cog | 9.00% | ~19,005 |
-| Watch them crumble | 6.00% | ~12,670 |
-| Competent Cohort | 4.00% | ~8,447 |
-| Celestial Cartography Catastrophe | 4.00% | ~8,447 |
-| One with the Machine | 4.00% | ~8,447 |
-| Legio Cybernetica | 3.00% | ~6,335 |
-| Fleshy Disposal | 3.00% | ~6,335 |
-| Battle Servitor | 2.00% | ~4,223 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,223 |
-| Impatient destruction | 2.00% | ~4,223 |
-| Vivisected Vizier | 2.00% | ~4,223 |
-| Architect Abortion | 2.00% | ~4,223 |
+| No aid from the Omnissiah | 25.00% | ~52,798 |
+| This is only the beginning | 19.00% | ~40,126 |
+| Knowledge is power | 12.00% | ~25,343 |
+| Power Ranger | 9.00% | ~19,007 |
+| Galvanic Rifle | 9.00% | ~19,007 |
+| Taser Goad | 9.00% | ~19,007 |
+| Radium Ready | 9.00% | ~19,007 |
+| Half a cog | 9.00% | ~19,007 |
+| Watch them crumble | 6.00% | ~12,671 |
+| Competent Cohort | 4.00% | ~8,448 |
+| Celestial Cartography Catastrophe | 4.00% | ~8,448 |
+| One with the Machine | 4.00% | ~8,448 |
+| Legio Cybernetica | 3.00% | ~6,336 |
+| Fleshy Disposal | 3.00% | ~6,336 |
+| Battle Servitor | 2.00% | ~4,224 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,224 |
+| Impatient destruction | 2.00% | ~4,224 |
+| Vivisected Vizier | 2.00% | ~4,224 |
+| Architect Abortion | 2.00% | ~4,224 |
 | Cohortus Maximus | 0.70% | ~1,478 |
 | Mother of Xenarites | 0.40% | ~845 |
 | False God | 0.30% | ~634 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 642)
 | Perma-live | 0.10% | ~211 |
 | Purge the Heretek | 0.10% | ~211 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211,171 (Ranked 47)  
+Progressed: 211,190 (Ranked 47)  
 Completed: 3 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,6 +76,7 @@ Completed: 3 (0.00%) (Ranked 202)
 | 2023-05-23 | 210,919 | 2 |
 | 2023-05-24 | 211,030 | 2 |
 | 2023-05-25 | 211,171 | 3 |
+| 2023-05-26 | 211,190 | 3 |
 ## Awards
 Max (Highly Recommended): 277  (Ranked 230)  
 Sum: 2,096 (Ranked 182)  

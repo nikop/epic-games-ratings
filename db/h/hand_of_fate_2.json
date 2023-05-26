@@ -838,9 +838,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 656774,
+  "EOS_Progressed": 656777,
   "EOS_Completed": 165,
-  "EOS_NewPlayers": 412,
+  "EOS_NewPlayers": 408,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -3938,6 +3938,11 @@
       "Time": "2023-05-26T00:06:13.1598227+00:00",
       "NumProgressed": 656774,
       "NumCompleted": 165
+    },
+    {
+      "Time": "2023-05-26T02:06:00.819395+00:00",
+      "NumProgressed": 656777,
+      "NumCompleted": 165
     }
   ],
   "TotalAchievements": 48,
@@ -3949,7 +3954,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 472877
+      "UsersEstimate": 472879
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -3957,7 +3962,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 380929
+      "UsersEstimate": 380931
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -3965,7 +3970,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 151058
+      "UsersEstimate": 151059
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -3973,7 +3978,7 @@
       "Name": "Adventurer",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39406
+      "UsersEstimate": 39407
     },
     {
       "ID": "Achievement_05_Protector_of_the_Realm",
@@ -4005,7 +4010,7 @@
       "Name": "Card Sharp",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13135
+      "UsersEstimate": 13136
     },
     {
       "ID": "Achievement_09_Gambler",
@@ -4013,7 +4018,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 65677
+      "UsersEstimate": 65678
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -4045,7 +4050,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 65677
+      "UsersEstimate": 65678
     },
     {
       "ID": "Achievement_14_Magician",
@@ -4053,7 +4058,7 @@
       "Name": "Magician",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 13135
+      "UsersEstimate": 13136
     },
     {
       "ID": "Achievement_15_Hero",
@@ -4085,7 +4090,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 151058
+      "UsersEstimate": 151059
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -4093,7 +4098,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 91948
+      "UsersEstimate": 91949
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -4109,7 +4114,7 @@
       "Name": "Empire\u0027s Bane",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39406
+      "UsersEstimate": 39407
     },
     {
       "ID": "Achievement_22_Cure_for_Corruption",
@@ -4261,7 +4266,7 @@
       "Name": "Broken Heart",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 39406
+      "UsersEstimate": 39407
     },
     {
       "ID": "Achievement_41_Draknars_Bane",
@@ -4269,7 +4274,7 @@
       "Name": "Draknar\u0027s Bane",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 13135
+      "UsersEstimate": 13136
     },
     {
       "ID": "Achievement_42_Thomas_Bane",
@@ -4332,15 +4337,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 656774,
+      "Progressed": 656777,
       "Completed": 165
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-05-18T14:57:37.1411686+00:00",
-  "LastChanged_Achievements": "2023-05-26T00:06:13.1598219+00:00",
+  "LastChanged_Achievements": "2023-05-26T02:06:00.8193948+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:07.1745323+00:00",
-  "LastUpdate_Ratings": "2023-05-25T23:57:50.9558923+00:00",
-  "LastUpdate_Achievements": "2023-05-26T00:06:13.159928+00:00"
+  "LastUpdate_Ratings": "2023-05-26T01:57:56.936322+00:00",
+  "LastUpdate_Achievements": "2023-05-26T02:06:00.8194355+00:00"
 }

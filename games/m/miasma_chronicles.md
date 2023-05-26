@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 90.00% | ~358 |
-| Ranidaphobia | 61.00% | ~243 |
-| Aspiring Editor | 57.00% | ~227 |
-| Gun for Hire | 50.00% | ~199 |
-| I am the law! | 33.00% | ~131 |
-| Firestarter | 14.00% | ~56 |
-| Lumberjack | 13.00% | ~52 |
-| Limp Richard | 10.00% | ~40 |
+| First Blood | 90.00% | ~364 |
+| Ranidaphobia | 61.00% | ~246 |
+| Aspiring Editor | 57.00% | ~230 |
+| Gun for Hire | 50.00% | ~202 |
+| I am the law! | 34.00% | ~137 |
+| Firestarter | 14.00% | ~57 |
+| Lumberjack | 14.00% | ~57 |
 | Croaked | 9.00% | ~36 |
+| Limp Richard | 9.00% | ~36 |
 | Editor Adept | 7.00% | ~28 |
 | Exorcist | 7.00% | ~28 |
 | From Darkness to Light | 7.00% | ~28 |
 | Giant Killer | 6.00% | ~24 |
-| Hold The Line | 5.00% | ~20 |
 | Newtonian Knockout | 5.00% | ~20 |
 | The meaning of Kain | 5.00% | ~20 |
+| Hold The Line | 4.00% | ~16 |
 | Sensei | 4.00% | ~16 |
 | Chain Killer | 3.00% | ~12 |
 | Recycler | 3.00% | ~12 |
 | Technophobe | 3.00% | ~12 |
 | Chain Reaction | 2.00% | ~8 |
-| Commando | 2.00% | ~8 |
 | Are you not entertained? | 1.00% | ~4 |
+| Commando | 1.00% | ~4 |
 | Curveball | 1.00% | ~4 |
 | Ganglord | 1.00% | ~4 |
 | Jarhead | 1.00% | ~4 |
@@ -39,11 +39,11 @@
 | There Can Be Only One! | 1.00% | ~4 |
 | Wipe Out | 1.00% | ~4 |
 | Chaos Theory | 0.50% | ~2 |
-| Bot Whisperer | 0.30% | ~1 |
-| Cruelty | 0.30% | ~1 |
-| Dr Jones | 0.30% | ~1 |
-| Side Order | 0.30% | ~1 |
-| The Watchers | 0.30% | ~1 |
+| Bot Whisperer | 0.20% | ~1 |
+| Cruelty | 0.20% | ~1 |
+| Dr Jones | 0.20% | ~1 |
+| Side Order | 0.20% | ~1 |
+| The Watchers | 0.20% | ~1 |
 | Alpha Editor | 0.00% | ~0 |
 | Attenborough | 0.00% | ~0 |
 | Bookworm | 0.00% | ~0 |
@@ -56,7 +56,7 @@
 | Shadow Boxin' | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 398 (Ranked 200)  
+Progressed: 404 (Ranked 199)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -64,4 +64,4 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-23 | 151 | 0 |
 | 2023-05-24 | 299 | 0 |
 | 2023-05-25 | 397 | 0 |
-| 2023-05-26 | 398 | 0 |
+| 2023-05-26 | 404 | 0 |

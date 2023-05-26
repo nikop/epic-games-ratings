@@ -4224,9 +4224,9 @@
       "Count": 348
     }
   ],
-  "EOS_Progressed": 705241,
+  "EOS_Progressed": 705254,
   "EOS_Completed": 12734,
-  "EOS_NewPlayers": 2169,
+  "EOS_NewPlayers": 2164,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -7204,6 +7204,11 @@
       "Time": "2023-05-26T00:06:34.0265205+00:00",
       "NumProgressed": 705241,
       "NumCompleted": 12734
+    },
+    {
+      "Time": "2023-05-26T02:06:21.7222202+00:00",
+      "NumProgressed": 705254,
+      "NumCompleted": 12734
     }
   ],
   "TotalAchievements": 50,
@@ -7231,7 +7236,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7052
+      "UsersEstimate": 7053
     },
     {
       "ID": "04_Vengeance_H3",
@@ -7261,9 +7266,9 @@
       "ID": "07_Wude_H1",
       "SetID": "adcm20g",
       "Name": "Muk Yan Master",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 2821
+      "UsersEstimate": 3526
     },
     {
       "ID": "08_Wude_H2",
@@ -7303,7 +7308,7 @@
       "Name": "Scareless",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4231
+      "UsersEstimate": 4232
     },
     {
       "ID": "13_LowAge",
@@ -7335,7 +7340,7 @@
       "Name": "Drunken Fighter",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1410
+      "UsersEstimate": 1411
     },
     {
       "ID": "17_Detective_H3",
@@ -7343,7 +7348,7 @@
       "Name": "Martial Artist",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1410
+      "UsersEstimate": 1411
     },
     {
       "ID": "18_Detective_H4",
@@ -7351,7 +7356,7 @@
       "Name": "Knowledge Greed",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1410
+      "UsersEstimate": 1411
     },
     {
       "ID": "19_Detective_H5",
@@ -7359,7 +7364,7 @@
       "Name": "Healing Memory",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1410
+      "UsersEstimate": 1411
     },
     {
       "ID": "20_Traversal_Trophy",
@@ -7375,7 +7380,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4231
+      "UsersEstimate": 4232
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -7407,7 +7412,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4231
+      "UsersEstimate": 4232
     },
     {
       "ID": "26_ShrineSpirit",
@@ -7415,7 +7420,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 7052
+      "UsersEstimate": 7053
     },
     {
       "ID": "27_ShrineBody",
@@ -7439,7 +7444,7 @@
       "Name": "Master of the Phoenix Eye Fist",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 1410
+      "UsersEstimate": 1411
     },
     {
       "ID": "30_ComboMid",
@@ -7487,7 +7492,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4231
+      "UsersEstimate": 4232
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -7511,7 +7516,7 @@
       "Name": "The Pit Protector",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1410
+      "UsersEstimate": 1411
     },
     {
       "ID": "39_CustomTrophy_H3",
@@ -7519,7 +7524,7 @@
       "Name": "Be like water my friend",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1410
+      "UsersEstimate": 1411
     },
     {
       "ID": "40_CustomTrophy_H4",
@@ -7543,7 +7548,7 @@
       "Name": "Come Snap With Me",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1410
+      "UsersEstimate": 1411
     },
     {
       "ID": "43_Arena_UnlockPack",
@@ -7551,7 +7556,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -7567,7 +7572,7 @@
       "Name": "Bloody Sport",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -7599,7 +7604,7 @@
       "Name": "The best strikes are the ones we avoid",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "50_Arena_GoldTimePerf",
@@ -7614,21 +7619,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 14542,
-      "Completed": 10167
+      "Progressed": 14555,
+      "Completed": 10168
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 705241,
+      "Progressed": 705254,
       "Completed": 12734
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-25T22:59:04.8520014+00:00",
-  "LastChanged_Achievements": "2023-05-26T00:06:34.0265199+00:00",
+  "LastChanged_Achievements": "2023-05-26T02:06:21.7222199+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:18.7579865+00:00",
-  "LastUpdate_Ratings": "2023-05-25T23:59:26.5302617+00:00",
-  "LastUpdate_Achievements": "2023-05-26T00:06:34.0265818+00:00"
+  "LastUpdate_Ratings": "2023-05-26T01:59:24.5079286+00:00",
+  "LastUpdate_Achievements": "2023-05-26T02:06:21.72227+00:00"
 }

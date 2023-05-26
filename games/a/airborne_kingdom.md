@@ -6,27 +6,27 @@ Number of Ratings: 74  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Small Community | 56.00% | ~3,607 |
-| A Grove Replanted | 53.00% | ~3,414 |
-| Fields Watered | 41.00% | ~2,641 |
-| Seekers Found | 41.00% | ~2,641 |
-| Settling the Skies | 41.00% | ~2,641 |
-| Wind Powered | 40.00% | ~2,576 |
-| It Takes a Village | 34.00% | ~2,190 |
-| On the Town | 28.00% | ~1,803 |
-| Daylight Found | 26.00% | ~1,675 |
-| Irons Scorched | 25.00% | ~1,610 |
-| Islands Connected | 25.00% | ~1,610 |
-| Harp Tuned | 23.00% | ~1,481 |
-| Pyre Ignited | 23.00% | ~1,481 |
-| Travelers Returned | 23.00% | ~1,481 |
-| Hopes Hoisted | 22.00% | ~1,417 |
-| Knowledge Shared | 20.00% | ~1,288 |
-| Relic Finder | 20.00% | ~1,288 |
-| Worthy of the Title | 19.00% | ~1,224 |
+| A Small Community | 56.00% | ~3,610 |
+| A Grove Replanted | 53.00% | ~3,416 |
+| Fields Watered | 41.00% | ~2,643 |
+| Seekers Found | 41.00% | ~2,643 |
+| Settling the Skies | 41.00% | ~2,643 |
+| Wind Powered | 40.00% | ~2,578 |
+| It Takes a Village | 34.00% | ~2,192 |
+| On the Town | 28.00% | ~1,805 |
+| Daylight Found | 26.00% | ~1,676 |
+| Irons Scorched | 25.00% | ~1,612 |
+| Islands Connected | 25.00% | ~1,612 |
+| Harp Tuned | 23.00% | ~1,483 |
+| Pyre Ignited | 23.00% | ~1,483 |
+| Travelers Returned | 23.00% | ~1,483 |
+| Hopes Hoisted | 22.00% | ~1,418 |
+| Knowledge Shared | 20.00% | ~1,289 |
+| Relic Finder | 20.00% | ~1,289 |
+| Worthy of the Title | 19.00% | ~1,225 |
 | A Peaceful Respite | 14.00% | ~902 |
-| Prophecy Fulfilled | 13.00% | ~837 |
-| A Learned Scholar | 12.00% | ~773 |
+| Prophecy Fulfilled | 13.00% | ~838 |
+| A Learned Scholar | 12.00% | ~774 |
 | A Wanderer’s Guide | 11.00% | ~709 |
 | Knowledge Seeker | 7.00% | ~451 |
 | The Cycle Continues | 3.00% | ~193 |
@@ -34,7 +34,7 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~129 |
 | A True Challenge | 2.00% | ~129 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,441 (Ranked 116)  
+Progressed: 6,446 (Ranked 116)  
 Completed: 51 (0.79%) (Ranked 96)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,6 +70,7 @@ Completed: 51 (0.79%) (Ranked 96)
 | 2023-05-23 | 6,421 | 51 |
 | 2023-05-24 | 6,432 | 51 |
 | 2023-05-25 | 6,441 | 51 |
+| 2023-05-26 | 6,446 | 51 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

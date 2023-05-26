@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4835,
+  "EOS_Progressed": 4838,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -959,6 +959,11 @@
       "Time": "2023-05-25T21:05:40.5312625+00:00",
       "NumProgressed": 4835,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-26T02:06:22.5279786+00:00",
+      "NumProgressed": 4838,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -1058,7 +1063,7 @@
       "Name": "Level: Extra Life",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "ach_campaign_progress3",
@@ -1082,7 +1087,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2369
+      "UsersEstimate": 2371
     },
     {
       "ID": "ach_campaign_progress6",
@@ -1122,7 +1127,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "ach_campaign_special10",
@@ -1218,7 +1223,7 @@
       "Name": "Rising Markets: Avoiding the Reds",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "ach_campaign_special5",
@@ -1226,7 +1231,7 @@
       "Name": "Extra Life: Wish Granted",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ach_campaign_special6",
@@ -1314,7 +1319,7 @@
       "Name": "High Five!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ach_frp_high_networth",
@@ -1330,7 +1335,7 @@
       "Name": "Modular Progress",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ach_frp_many_modules2",
@@ -1362,7 +1367,7 @@
       "Name": "Salesperson",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "ach_frp_many_products3",
@@ -1394,7 +1399,7 @@
       "Name": "Data Churn Type I",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "ach_frp_researchdata2",
@@ -1577,15 +1582,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 4835,
+      "Progressed": 4838,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-04-26T22:59:06.3382671+00:00",
-  "LastChanged_Achievements": "2023-05-26T00:06:34.7644587+00:00",
+  "LastChanged_Achievements": "2023-05-26T02:06:22.5279783+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:17.17846+00:00",
-  "LastUpdate_Ratings": "2023-05-25T23:59:23.1991206+00:00",
-  "LastUpdate_Achievements": "2023-05-26T00:06:34.7645513+00:00"
+  "LastUpdate_Ratings": "2023-05-26T01:59:22.0844022+00:00",
+  "LastUpdate_Achievements": "2023-05-26T02:06:22.5280487+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "voltaire-e1c517",
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-02-27T17:00:00+00:00",
@@ -28,9 +28,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80,
+  "EOS_Progressed": 81,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -73,6 +73,11 @@
       "Time": "2023-05-25T21:05:18.390033+00:00",
       "NumProgressed": 80,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T02:05:57.4290903+00:00",
+      "NumProgressed": 81,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 31,
@@ -98,7 +103,7 @@
       "ID": "CASTLE",
       "SetID": "3c20ib3",
       "Name": "Homecoming",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -106,9 +111,9 @@
       "ID": "COSMETICS",
       "SetID": "3c20ib3",
       "Name": "Fashionista",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "FIRST_HARVEST",
@@ -116,13 +121,13 @@
       "Name": "Good to grow",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "FISH",
       "SetID": "3c20ib3",
       "Name": "C\u0027who?",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 100,
       "UsersEstimate": 10
     },
@@ -130,7 +135,7 @@
       "ID": "GET_PETS",
       "SetID": "3c20ib3",
       "Name": "Who let the pets out?",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -138,7 +143,7 @@
       "ID": "GET_SOULSTONES",
       "SetID": "3c20ib3",
       "Name": "Make it rain",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 100,
       "UsersEstimate": 6
     },
@@ -156,7 +161,7 @@
       "Name": "So it begins",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "HUNTING",
@@ -226,7 +231,7 @@
       "ID": "KILL_SANDRHINO",
       "SetID": "3c20ib3",
       "Name": "Tururururu!",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -298,7 +303,7 @@
       "ID": "STRIKE",
       "SetID": "3c20ib3",
       "Name": "Zap!",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -331,7 +336,7 @@
     {
       "ID": "3c20ib3",
       "IsBase": true,
-      "Progressed": 80,
+      "Progressed": 81,
       "Completed": 0
     }
   ],
@@ -339,8 +344,8 @@
   "FirstSeenRating": "2023-03-31T05:58:46.1122799+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:45.0090692+00:00",
   "LastChanged": "2023-03-31T05:58:46.11228+00:00",
-  "LastChanged_Achievements": "2023-05-26T00:05:59.5631318+00:00",
+  "LastChanged_Achievements": "2023-05-26T02:05:57.42909+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:00.1482004+00:00",
-  "LastUpdate_Ratings": "2023-05-25T23:57:39.0862122+00:00",
-  "LastUpdate_Achievements": "2023-05-26T00:05:59.5631709+00:00"
+  "LastUpdate_Ratings": "2023-05-26T01:57:47.6822688+00:00",
+  "LastUpdate_Achievements": "2023-05-26T02:05:57.4291076+00:00"
 }

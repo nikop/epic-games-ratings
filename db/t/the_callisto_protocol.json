@@ -428,9 +428,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13615,
+  "EOS_Progressed": 13623,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 987,
+  "EOS_NewPlayers": 978,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -1573,6 +1573,11 @@
       "Time": "2023-05-26T00:03:44.3459334+00:00",
       "NumProgressed": 13615,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-26T02:03:33.4837579+00:00",
+      "NumProgressed": 13623,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -1616,15 +1621,15 @@
       "Name": "Flesh Wound",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "FIND_ALL_BIOS",
       "SetID": "4hj6d86",
       "Name": "Grim Reaper",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 41
+      "UsersEstimate": 54
     },
     {
       "ID": "FINISH_CONTAGION",
@@ -1744,7 +1749,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -1752,7 +1757,7 @@
       "Name": "Reforged",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "PRINT_WEAPON",
@@ -1760,7 +1765,7 @@
       "Name": "Paper Jams",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "SHARE_PHOTO",
@@ -1903,13 +1908,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13615,
+      "Progressed": 13623,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1541,
+      "Progressed": 1549,
       "Completed": 29
     }
   ],
@@ -1917,8 +1922,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-23T19:57:59.4143533+00:00",
-  "LastChanged_Achievements": "2023-05-26T00:03:44.3459326+00:00",
+  "LastChanged_Achievements": "2023-05-26T02:03:33.4837575+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:26.1809609+00:00",
-  "LastUpdate_Ratings": "2023-05-25T23:58:05.1964882+00:00",
-  "LastUpdate_Achievements": "2023-05-26T00:03:44.3459979+00:00"
+  "LastUpdate_Ratings": "2023-05-26T01:58:11.2245386+00:00",
+  "LastUpdate_Achievements": "2023-05-26T02:03:33.4837875+00:00"
 }

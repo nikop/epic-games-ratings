@@ -4823,10 +4823,16 @@
       "Rating": 4.3,
       "NumberOfAwards": 9746805,
       "NumberOfAwardsMax": 1350758
+    },
+    {
+      "Time": "2023-05-26T01:57:46.3930295+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 9747158,
+      "NumberOfAwardsMax": 1350758
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9746805,
+  "NumberOfAwards": 9747158,
   "NumberOfAwardsMax": 1350758,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -4876,7 +4882,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 993612
+      "Count": 993965
     }
   ],
   "EOS_Progressed": 0,
@@ -4890,8 +4896,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:41.6739549+00:00",
-  "LastChanged": "2023-05-25T20:57:18.2808673+00:00",
+  "LastChanged": "2023-05-26T01:57:46.3930294+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:58:57.6044382+00:00",
-  "LastUpdate_Ratings": "2023-05-25T23:57:37.8079549+00:00",
-  "LastUpdate_Achievements": "2023-05-26T00:04:01.080086+00:00"
+  "LastUpdate_Ratings": "2023-05-26T01:57:46.3930299+00:00",
+  "LastUpdate_Achievements": "2023-05-26T02:03:49.9549825+00:00"
 }

@@ -9,12 +9,12 @@ Rating: 4.17 (Ranked 837)
 | Har, Har, Har, Very Funny | 1.00% | ~621 |
 | Knighthood | 1.00% | ~621 |
 | Loose Ends | 1.00% | ~621 |
-| To the Victor Go the Spoils | 0.90% | ~558 |
-| Get ReQ'd | 0.90% | ~558 |
-| The Batman Family | 0.80% | ~496 |
-| Quartzer Life Crisis | 0.80% | ~496 |
-| Working Hard or Harley Working? | 0.80% | ~496 |
-| Whispered Words | 0.80% | ~496 |
+| To the Victor Go the Spoils | 0.90% | ~559 |
+| Get ReQ'd | 0.90% | ~559 |
+| The Batman Family | 0.80% | ~497 |
+| Quartzer Life Crisis | 0.80% | ~497 |
+| Working Hard or Harley Working? | 0.80% | ~497 |
+| Whispered Words | 0.80% | ~497 |
 | Something in the Clay | 0.70% | ~434 |
 | The Show Mud Go On | 0.70% | ~434 |
 | Snow Problem | 0.70% | ~434 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 837)
 | Confronting Your Demon | 0.10% | ~32 |
 | Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,055 (Ranked 70)  
+Progressed: 62,069 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 91 (0.15%) (Ranked 148)
 | 2023-05-23 | 61,842 | 91 |
 | 2023-05-24 | 61,945 | 91 |
 | 2023-05-25 | 62,051 | 91 |
-| 2023-05-26 | 62,055 | 91 |
+| 2023-05-26 | 62,069 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,237  (Ranked 98)  
 Sum: 3,714 (Ranked 138)  

@@ -206,7 +206,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1433,
+  "EOS_Progressed": 1438,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 689,
   "EOS_NewCompleters": 0,
@@ -1411,6 +1411,11 @@
       "Time": "2023-05-26T00:06:14.9111634+00:00",
       "NumProgressed": 1433,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-26T02:06:02.9050532+00:00",
+      "NumProgressed": 1438,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1478,7 +1483,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -1486,15 +1491,15 @@
       "Name": "Organ Grinder",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "REWARD_19_STRATEGIST",
       "SetID": "bm6el81",
       "Name": "Strategist",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_1_MEETING_RESISTANCE",
@@ -1590,7 +1595,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1614,7 +1619,7 @@
       "Name": "My Little Friend",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -1622,7 +1627,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -1734,7 +1739,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -1790,7 +1795,7 @@
       "Name": "Taking it back",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -1989,13 +1994,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1384,
+      "Progressed": 1389,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1433,
+      "Progressed": 1438,
       "Completed": 2
     }
   ],
@@ -2003,8 +2008,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-25T14:00:05.6295104+00:00",
-  "LastChanged_Achievements": "2023-05-26T00:06:14.9111623+00:00",
+  "LastChanged_Achievements": "2023-05-26T02:06:02.9050528+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-26T00:01:06.7626377+00:00",
-  "LastUpdate_Achievements": "2023-05-26T00:06:14.9112923+00:00"
+  "LastUpdate_Ratings": "2023-05-26T02:01:04.3405558+00:00",
+  "LastUpdate_Achievements": "2023-05-26T02:06:02.9051119+00:00"
 }

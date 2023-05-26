@@ -1,13 +1,13 @@
 # Session: Skate Sim
 [Store](https://store.epicgames.com/en-US/p/session-skate-sim)  
 [View Rawdata](../../db/s/session__skate_sim.json)  
-Rating: 4.66 (Ranked 271)  
+Rating: 4.66 (Ranked 272)  
 Number of Ratings: 111  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 51.00% | ~1,059 |
-| Keeping it classy | 25.00% | ~519 |
+| You're free now! | 51.00% | ~1,060 |
+| Keeping it classy | 25.00% | ~520 |
 | Welcome to the family | 18.00% | ~374 |
 | The finer things in life | 17.00% | ~353 |
 | Backpacker | 12.00% | ~249 |
@@ -17,7 +17,7 @@ Number of Ratings: 111  (23.09.2022)
 | Keep the dream alive | 8.00% | ~166 |
 | The hard way | 8.00% | ~166 |
 | Upfront shredder | 8.00% | ~166 |
-| Good vibes | 7.00% | ~145 |
+| Good vibes | 7.00% | ~146 |
 | Fashionista | 6.00% | ~125 |
 | Finally he zips it | 6.00% | ~125 |
 | That pinch! | 6.00% | ~125 |
@@ -26,6 +26,7 @@ Number of Ratings: 111  (23.09.2022)
 | Fulfilled the dream | 5.00% | ~104 |
 | G'Day Mate! | 5.00% | ~104 |
 | Globetrotter | 5.00% | ~104 |
+| Laid back | 5.00% | ~104 |
 | NAHELL! | 5.00% | ~104 |
 | Purple passion | 5.00% | ~104 |
 | Squad goals | 5.00% | ~104 |
@@ -33,7 +34,6 @@ Number of Ratings: 111  (23.09.2022)
 | Commence the Hijinx! | 4.00% | ~83 |
 | Cops called! | 4.00% | ~83 |
 | DIY Boss | 4.00% | ~83 |
-| Laid back | 4.00% | ~83 |
 | Lines for days | 4.00% | ~83 |
 | Manny Destroys All | 4.00% | ~83 |
 | Prince of Philly | 4.00% | ~83 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | Golden! | 0.00% | ~0 |
 | Loves You Back | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,077 (Ranked 146)  
+Progressed: 2,079 (Ranked 146)  
 Completed: 0 (0.00%) (Ranked 202)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,6 +89,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-23 | 2,052 | 0 |
 | 2023-05-24 | 2,066 | 0 |
 | 2023-05-25 | 2,077 | 0 |
+| 2023-05-26 | 2,079 | 0 |
 ## Awards
 Max (Highly Recommended): 48  (Ranked 393)  
 Sum: 414 (Ranked 300)  

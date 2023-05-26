@@ -13,9 +13,9 @@
 | Lullaby | 32.00% | ~133 |
 | You Can Pet The Fox | 30.00% | ~124 |
 | Hard Fox Life | 24.00% | ~100 |
-| Never Let Down | 23.00% | ~95 |
+| Never Let Down | 24.00% | ~100 |
+| A Barking Fox Doesn't Bite | 21.00% | ~87 |
 | Chicken Dinner | 21.00% | ~87 |
-| A Barking Fox Doesn't Bite | 20.00% | ~83 |
 | Peaceful Instinct | 18.00% | ~75 |
 | Maternity | 16.00% | ~66 |
 | Family Reunion | 15.00% | ~62 |

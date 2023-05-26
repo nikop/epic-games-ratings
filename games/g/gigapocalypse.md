@@ -18,8 +18,8 @@
 | Impenetrable Skin | 49.00% | ~61 |
 | Chomp Chomp! | 40.00% | ~50 |
 | Glorious Battle | 38.00% | ~47 |
-| Diaper Time! | 37.00% | ~46 |
-| Supreme Power | 36.00% | ~45 |
+| Diaper Time! | 38.00% | ~47 |
+| Supreme Power | 37.00% | ~46 |
 | Target Practice | 36.00% | ~45 |
 | The Duelist | 35.00% | ~43 |
 | Meat Larder | 35.00% | ~43 |
@@ -30,13 +30,13 @@
 | Final Evolution | 27.00% | ~33 |
 | Supremacy | 26.00% | ~32 |
 | You Shall Not Pass | 25.00% | ~31 |
+| Fight Me! | 25.00% | ~31 |
 | Mommy's Very Angry | 24.00% | ~30 |
+| Animal Lover | 24.00% | ~30 |
 | Undying Skin | 24.00% | ~30 |
-| Fight Me! | 24.00% | ~30 |
-| Animal Lover | 23.00% | ~29 |
 | Immortal Skin | 20.00% | ~25 |
+| Loyal Companion | 20.00% | ~25 |
 | Back To The Future | 19.00% | ~24 |
-| Loyal Companion | 19.00% | ~24 |
 | Fire Beacon | 19.00% | ~24 |
 | Lunch Before The Lunch | 18.00% | ~22 |
 | Building Blocks | 16.00% | ~20 |
@@ -58,7 +58,7 @@
 | Destroy Everything | 0.80% | ~1 |
 | Hearty Meteor | 0.80% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 124 (Ranked 257)  
+Progressed: 124 (Ranked 258)  
 Completed: 1 (0.81%) (Ranked 94)  
 ## EOS Players History
 | Date | Progressed | Completed |

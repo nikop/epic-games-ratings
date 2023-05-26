@@ -4,7 +4,7 @@
   "ProductSlug": "watch-dogs-legion",
   "Ranking_Rating": 707,
   "Ranking_Popularity": 337,
-  "Ranking_PopularitySum": 269,
+  "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 323,
@@ -1646,10 +1646,16 @@
       "Rating": 4.37,
       "NumberOfAwards": 658,
       "NumberOfAwardsMax": 91
+    },
+    {
+      "Time": "2023-05-26T01:58:47.9078668+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 659,
+      "NumberOfAwardsMax": 91
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 658,
+  "NumberOfAwards": 659,
   "NumberOfAwardsMax": 91,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -1705,7 +1711,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 68
+      "Count": 69
     },
     {
       "Text": "This game has a Creative Community",
@@ -1725,8 +1731,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:59.5198477+00:00",
-  "LastChanged": "2023-05-25T15:58:50.6814809+00:00",
+  "LastChanged": "2023-05-26T01:58:47.9078666+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:59.0434982+00:00",
-  "LastUpdate_Ratings": "2023-05-25T23:58:45.4352185+00:00",
-  "LastUpdate_Achievements": "2023-05-26T00:04:20.7312965+00:00"
+  "LastUpdate_Ratings": "2023-05-26T01:58:47.9078672+00:00",
+  "LastUpdate_Achievements": "2023-05-26T02:04:19.2613609+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "09f00180b25347bdb65ac0b7378756b7",
   "Name": "Gigapocalypse",
   "ProductSlug": "gigapocalypse-fdc53b",
-  "Ranking_EOS_Progress": 257,
+  "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 94,
   "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 85,
@@ -174,9 +174,9 @@
       "ID": "secret18",
       "SetID": "39f6ck8",
       "Name": "Animal Lover",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "secret19",
@@ -246,9 +246,9 @@
       "ID": "secret26",
       "SetID": "39f6ck8",
       "Name": "Supreme Power",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "secret27",
@@ -318,9 +318,9 @@
       "ID": "secret34",
       "SetID": "39f6ck8",
       "Name": "Fight Me!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "secret35",
@@ -350,9 +350,9 @@
       "ID": "secret38",
       "SetID": "39f6ck8",
       "Name": "Loyal Companion",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "secret39",
@@ -374,9 +374,9 @@
       "ID": "secret40",
       "SetID": "39f6ck8",
       "Name": "Diaper Time!",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "secret41",
@@ -535,8 +535,8 @@
   "FirstSeenRating": "2023-03-31T05:57:53.8583887+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:25.0690436+00:00",
   "LastChanged": "2023-03-31T05:57:53.8583888+00:00",
-  "LastChanged_Achievements": "2023-05-26T00:06:40.5639657+00:00",
+  "LastChanged_Achievements": "2023-05-26T02:06:28.3848261+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:11:39.4540742+00:00",
-  "LastUpdate_Ratings": "2023-05-26T00:00:31.689299+00:00",
-  "LastUpdate_Achievements": "2023-05-26T00:06:40.5640498+00:00"
+  "LastUpdate_Ratings": "2023-05-26T02:00:30.612024+00:00",
+  "LastUpdate_Achievements": "2023-05-26T02:06:28.3848727+00:00"
 }

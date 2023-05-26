@@ -30,7 +30,7 @@
   "Tags": [],
   "EOS_Progressed": 165,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 16.36,
   "EosHistory": [
@@ -789,33 +789,33 @@
       "ID": "LEVEL_005",
       "SetID": "3khpmem",
       "Name": "Bridges to come and go",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 35,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "LEVEL_006",
       "SetID": "3khpmem",
       "Name": "Found an oasis",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 35,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "LEVEL_007",
       "SetID": "3khpmem",
       "Name": "Burger or pizza?",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "LEVEL_008",
       "SetID": "3khpmem",
       "Name": "Passion for sports",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "LEVEL_009",
@@ -829,9 +829,9 @@
       "ID": "LEVEL_010",
       "SetID": "3khpmem",
       "Name": "Easy and steady climb",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "LEVEL_011",
@@ -942,8 +942,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-26T00:05:55.2275784+00:00",
+  "LastChanged_Achievements": "2023-05-26T02:05:52.9639757+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:36.8517809+00:00",
-  "LastUpdate_Ratings": "2023-05-25T23:58:20.7316463+00:00",
-  "LastUpdate_Achievements": "2023-05-26T00:05:55.2276028+00:00"
+  "LastUpdate_Ratings": "2023-05-26T01:58:23.047278+00:00",
+  "LastUpdate_Achievements": "2023-05-26T02:05:52.9639927+00:00"
 }

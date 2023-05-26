@@ -8,12 +8,12 @@
 | A tiny town | 84.00% | ~139 |
 | Buildings, roads, cars, ...and people | 64.00% | ~106 |
 | Great view from the beach and from the hill | 53.00% | ~87 |
-| Bridges to come and go | 45.00% | ~74 |
-| Found an oasis | 37.00% | ~61 |
-| Burger or pizza? | 33.00% | ~54 |
-| Passion for sports | 31.00% | ~51 |
+| Bridges to come and go | 46.00% | ~76 |
+| Found an oasis | 38.00% | ~63 |
+| Burger or pizza? | 34.00% | ~56 |
+| Passion for sports | 32.00% | ~53 |
 | Who loves trains? | 27.00% | ~45 |
-| Easy and steady climb | 26.00% | ~43 |
+| Easy and steady climb | 27.00% | ~45 |
 | At the heart of the city | 25.00% | ~41 |
 | Calm neighborhood | 24.00% | ~40 |
 | Elevated ring | 24.00% | ~40 |

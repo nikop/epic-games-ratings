@@ -24,18 +24,18 @@
 | Mushroom soup of the day | 44.00% | ~27 |
 | Spare Ribs | 44.00% | ~27 |
 | Honk honk! | 43.00% | ~26 |
-| My pants squeak when I walk | 41.00% | ~25 |
+| My pants squeak when I walk | 43.00% | ~26 |
 | Thats disgusting! | 39.00% | ~24 |
 | Cockadoodledoo! | 39.00% | ~24 |
 | Surprise!! | 38.00% | ~23 |
 | Make America Grate Again | 34.00% | ~21 |
 | Self assessed tax return | 34.00% | ~21 |
+| You are no match for me, Billy! | 31.00% | ~19 |
 | Karaoke king | 31.00% | ~19 |
+| You can't stop me, bro! | 31.00% | ~19 |
 | Haemochromatosis | 31.00% | ~19 |
-| You are no match for me, Billy! | 30.00% | ~18 |
+| Pasta Bolognese | 31.00% | ~19 |
 | Catch the bus with me! | 30.00% | ~18 |
-| You can't stop me, bro! | 30.00% | ~18 |
-| Pasta Bolognese | 30.00% | ~18 |
 | Meatballs, coming up! | 26.00% | ~16 |
 | I'm going to get a concussion | 26.00% | ~16 |
 | Another one bites the iron | 25.00% | ~15 |
@@ -43,8 +43,8 @@
 | Hovering around | 20.00% | ~12 |
 | Ripe Meat Off The Bone! | 18.00% | ~11 |
 | Your daily dose of Vitamin C. | 16.00% | ~10 |
+| Kleptomaniac | 16.00% | ~10 |
 | You're not so Big anymore, Boi! | 15.00% | ~9 |
-| Kleptomaniac | 15.00% | ~9 |
 | Just wing it! | 13.00% | ~8 |
 | I cant stand still! | 13.00% | ~8 |
 | I drink, but I'm not a drunk! | 11.00% | ~7 |

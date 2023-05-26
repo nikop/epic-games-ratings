@@ -22,7 +22,7 @@ Number of Ratings: 743  (23.09.2022)
 | What did you say, Blain? | 41.00% | ~17,391 |
 | In the dark dark woods... | 38.00% | ~16,119 |
 | Come and get it! It's a running buffet! | 38.00% | ~16,119 |
-| Double tap | 36.00% | ~15,270 |
+| Double tap | 37.00% | ~15,695 |
 | Cranial blowout! | 36.00% | ~15,270 |
 | Zombie killin' machine | 36.00% | ~15,270 |
 | Every bullet counts | 36.00% | ~15,270 |
