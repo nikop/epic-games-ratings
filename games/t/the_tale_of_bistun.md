@@ -5,13 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Story Begins... | 75.00% | ~12 |
-| These Blades Are Made For Swinging | 63.00% | ~10 |
+| These Blades Are Made For Swinging | 69.00% | ~11 |
+| First Blood | 69.00% | ~11 |
 | It Feels Better Than It Sounds | 63.00% | ~10 |
-| First Blood | 63.00% | ~10 |
+| Unearth A Qanat | 56.00% | ~9 |
 | Skilled Hands | 50.00% | ~8 |
 | Master Smithy | 50.00% | ~8 |
-| Unearth A Qanat | 50.00% | ~8 |
 | Carving A Memory | 50.00% | ~8 |
+| A Friend In Need | 44.00% | ~7 |
 | Close Encounter | 44.00% | ~7 |
 | The Depths Of Darkness | 44.00% | ~7 |
 | One With The Blades | 44.00% | ~7 |
@@ -22,17 +23,16 @@
 | Hammer It Home | 44.00% | ~7 |
 | For Whom the Bell Tolls | 44.00% | ~7 |
 | Here I Am | 44.00% | ~7 |
+| A Stranger's Diary | 44.00% | ~7 |
 | Shoo! Shoo! | 44.00% | ~7 |
-| A Friend In Need | 38.00% | ~6 |
 | The Ultimate Sacrifice | 38.00% | ~6 |
 | Break The Cycle | 38.00% | ~6 |
-| A Stranger's Diary | 38.00% | ~6 |
+| Stand By Nature | 38.00% | ~6 |
 | Prison Break | 31.00% | ~5 |
 | I Pick You | 31.00% | ~5 |
 | Accomplished Smithy | 31.00% | ~5 |
 | The Blight's Blight | 31.00% | ~5 |
 | Continue The Cycle | 31.00% | ~5 |
-| Stand By Nature | 31.00% | ~5 |
 | The Milk Canal | 31.00% | ~5 |
 | Fledgling Smithy | 31.00% | ~5 |
 | At One With Nature | 31.00% | ~5 |

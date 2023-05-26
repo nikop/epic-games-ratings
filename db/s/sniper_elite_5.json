@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 150,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -206,9 +206,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1456,
+  "EOS_Progressed": 1459,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 692,
+  "EOS_NewPlayers": 691,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1446,6 +1446,11 @@
       "Time": "2023-05-26T08:06:22.0195273+00:00",
       "NumProgressed": 1456,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-05-26T09:07:10.7226797+00:00",
+      "NumProgressed": 1459,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 68,
@@ -1625,7 +1630,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -1665,7 +1670,7 @@
       "Name": "Lord of War",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -1681,7 +1686,7 @@
       "Name": "Resourceful",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -1951,9 +1956,9 @@
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
       "SetID": "83mdf7p",
       "Name": "Siegebreaker",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -2024,13 +2029,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 1407,
+      "Progressed": 1410,
       "Completed": 2
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 1456,
+      "Progressed": 1459,
       "Completed": 2
     }
   ],
@@ -2038,8 +2043,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-05-25T14:00:05.6295104+00:00",
-  "LastChanged_Achievements": "2023-05-26T08:06:22.0195263+00:00",
+  "LastChanged_Achievements": "2023-05-26T09:07:10.7226791+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:14:44.7715406+00:00",
-  "LastUpdate_Ratings": "2023-05-26T08:00:55.0364747+00:00",
-  "LastUpdate_Achievements": "2023-05-26T08:06:22.019601+00:00"
+  "LastUpdate_Ratings": "2023-05-26T09:02:01.354108+00:00",
+  "LastUpdate_Achievements": "2023-05-26T09:07:10.7227594+00:00"
 }

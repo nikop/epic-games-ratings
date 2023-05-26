@@ -5,19 +5,19 @@ Rating: 3.87 (Ranked 907)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 94.00% | ~1,096 |
-| World Map | 80.00% | ~933 |
-| Temple of Eternals | 57.00% | ~665 |
-| Prestigious | 53.00% | ~618 |
-| Fellowship Power | 40.00% | ~466 |
+| Victor | 94.00% | ~1,098 |
+| World Map | 80.00% | ~934 |
+| Temple of Eternals | 57.00% | ~666 |
+| Prestigious | 53.00% | ~619 |
+| Fellowship Power | 40.00% | ~467 |
 | Guild Power | 24.00% | ~280 |
 | Prestigious x10 | 21.00% | ~245 |
 | The game is on | 19.00% | ~222 |
-| Exotic Merchant | 17.00% | ~198 |
+| Exotic Merchant | 17.00% | ~199 |
 | Dragon Clicker | 16.00% | ~187 |
 | Miner Clicker | 16.00% | ~187 |
-| Full Party | 14.00% | ~163 |
-| Inspection | 14.00% | ~163 |
+| Full Party | 14.00% | ~164 |
+| Inspection | 14.00% | ~164 |
 | Hero inspection | 13.00% | ~152 |
 | Dragon Master | 12.00% | ~140 |
 | Lieutenant | 12.00% | ~140 |
@@ -54,12 +54,12 @@ Rating: 3.87 (Ranked 907)
 | Lock And Load | 2.00% | ~23 |
 | What lies behind the bush | 2.00% | ~23 |
 | Blueprint Upgrades | 1.00% | ~12 |
+| Crystal Mining | 1.00% | ~12 |
 | Enchanting skill | 1.00% | ~12 |
 | Sailor | 1.00% | ~12 |
-| Active Member | 0.90% | ~10 |
-| Crystal Mining | 0.90% | ~10 |
-| Ebony Jungle Liberator | 0.90% | ~10 |
-| The Alchemist | 0.90% | ~10 |
+| Active Member | 0.90% | ~11 |
+| Ebony Jungle Liberator | 0.90% | ~11 |
+| The Alchemist | 0.90% | ~11 |
 | Legendary | 0.60% | ~7 |
 | Training makes a Pro player | 0.60% | ~7 |
 | Transmute | 0.60% | ~7 |
@@ -67,9 +67,9 @@ Rating: 3.87 (Ranked 907)
 | Cauldron Liberator | 0.40% | ~5 |
 | Gear Enchanting | 0.40% | ~5 |
 | Mythic Power | 0.40% | ~5 |
-| Arena Challenger | 0.30% | ~3 |
-| Guardian Master | 0.30% | ~3 |
-| Pokerface | 0.30% | ~3 |
+| Arena Challenger | 0.30% | ~4 |
+| Guardian Master | 0.30% | ~4 |
+| Pokerface | 0.30% | ~4 |
 | Beast War Machines | 0.20% | ~2 |
 | Conqueror | 0.20% | ~2 |
 | Enhanced War Machines | 0.20% | ~2 |
@@ -81,7 +81,7 @@ Rating: 3.87 (Ranked 907)
 | Titan Power | 0.10% | ~1 |
 | War Machines Army | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,166 (Ranked 161)  
+Progressed: 1,168 (Ranked 161)  
 Completed: 1 (0.09%) (Ranked 163)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 1 (0.09%) (Ranked 163)
 | 2023-05-23 | 1,150 | 1 |
 | 2023-05-24 | 1,156 | 1 |
 | 2023-05-25 | 1,163 | 1 |
-| 2023-05-26 | 1,166 | 1 |
+| 2023-05-26 | 1,168 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

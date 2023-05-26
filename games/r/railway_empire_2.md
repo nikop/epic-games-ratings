@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A new Journey | 54.00% | ~84 |
-| Country Bumpkin | 54.00% | ~84 |
-| Departure | 53.00% | ~82 |
-| From X to Y | 51.00% | ~79 |
-| Way of Iron | 50.00% | ~78 |
-| Brainstorm | 48.00% | ~74 |
-| Mystery Tour | 46.00% | ~71 |
-| We brake for nobody | 45.00% | ~70 |
-| Apprentice | 41.00% | ~64 |
-| Mind the Gap | 41.00% | ~64 |
-| Travel Company | 40.00% | ~62 |
-| All around the World | 39.00% | ~60 |
-| Right through the middle | 31.00% | ~48 |
-| Stoker | 28.00% | ~43 |
-| Poor Devil | 23.00% | ~36 |
-| Facility Manager | 19.00% | ~29 |
+| Country Bumpkin | 57.00% | ~89 |
+| A new Journey | 56.00% | ~88 |
+| Departure | 55.00% | ~86 |
+| From X to Y | 54.00% | ~85 |
+| Way of Iron | 53.00% | ~83 |
+| Brainstorm | 50.00% | ~78 |
+| Mystery Tour | 49.00% | ~77 |
+| We brake for nobody | 47.00% | ~74 |
+| Apprentice | 44.00% | ~69 |
+| All around the World | 43.00% | ~68 |
+| Mind the Gap | 42.00% | ~66 |
+| Travel Company | 42.00% | ~66 |
+| Right through the middle | 32.00% | ~50 |
+| Stoker | 31.00% | ~49 |
+| Poor Devil | 22.00% | ~35 |
+| Facility Manager | 20.00% | ~31 |
 | Producer | 18.00% | ~28 |
 | Access granted | 13.00% | ~20 |
 | Bridge Builder | 9.00% | ~14 |
-| Seven at one stroke | 5.00% | ~8 |
-| Full Steam ahead | 5.00% | ~8 |
-| Going once, going twice, sold | 5.00% | ~8 |
+| Seven at one stroke | 6.00% | ~9 |
+| Full Steam ahead | 6.00% | ~9 |
+| Going once, going twice, sold | 6.00% | ~9 |
 | Socializer | 5.00% | ~8 |
 | Bull and bear | 4.00% | ~6 |
 | Trailblazer | 3.00% | ~5 |
@@ -35,9 +35,9 @@
 | Bold and beautiful | 3.00% | ~5 |
 | Financial Shark | 3.00% | ~5 |
 | Hostile Takeover | 2.00% | ~3 |
+| Mole | 2.00% | ~3 |
 | Breaking Ground | 2.00% | ~3 |
 | Traffic Jam | 1.00% | ~2 |
-| Mole | 1.00% | ~2 |
 | Resistance is futile | 0.60% | ~1 |
 | Go West | 0.60% | ~1 |
 | A new Hope | 0.60% | ~1 |
@@ -60,8 +60,8 @@
 | Call of Duty | 0.00% | ~0 |
 | Together we stand | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 155 (Ranked 252)  
-Completed: 0 (0.00%) (Ranked 202)  
+Progressed: 157 (Ranked 252)  
+Completed: 0 (0.00%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -72,4 +72,4 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-22 | 10 | 0 |
 | 2023-05-24 | 12 | 0 |
 | 2023-05-25 | 119 | 0 |
-| 2023-05-26 | 155 | 0 |
+| 2023-05-26 | 157 | 0 |

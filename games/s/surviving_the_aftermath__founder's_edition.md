@@ -6,15 +6,15 @@ Number of Ratings: 836  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~4,015 |
-| Leader | 61.00% | ~3,499 |
-| Explorer | 53.00% | ~3,040 |
+| First Step | 70.00% | ~4,016 |
+| Leader | 61.00% | ~3,500 |
+| Explorer | 53.00% | ~3,041 |
 | Healer | 52.00% | ~2,983 |
-| Aspiring Inventor | 44.00% | ~2,524 |
+| Aspiring Inventor | 45.00% | ~2,582 |
 | Adventurer | 41.00% | ~2,352 |
 | Famous Healer | 38.00% | ~2,180 |
 | Local Leader | 35.00% | ~2,008 |
-| New Opportunities | 34.00% | ~1,950 |
+| New Opportunities | 34.00% | ~1,951 |
 | Famous Explorer | 33.00% | ~1,893 |
 | Energized | 33.00% | ~1,893 |
 | The Long Haul | 33.00% | ~1,893 |
@@ -23,7 +23,7 @@ Number of Ratings: 836  (23.09.2022)
 | Cleaner | 28.00% | ~1,606 |
 | Catastrofan | 28.00% | ~1,606 |
 | Legendary Explorer | 27.00% | ~1,549 |
-| Finders, Keepers | 26.00% | ~1,491 |
+| Finders, Keepers | 26.00% | ~1,492 |
 | Top Notch | 24.00% | ~1,377 |
 | Great Leader | 22.00% | ~1,262 |
 | Ice Lakes | 22.00% | ~1,262 |
@@ -35,7 +35,7 @@ Number of Ratings: 836  (23.09.2022)
 | Big Game Hunter | 17.00% | ~975 |
 | Friendly | 16.00% | ~918 |
 | Spreading Influence | 16.00% | ~918 |
-| Around the World | 15.00% | ~860 |
+| Around the World | 15.00% | ~861 |
 | Bookworm | 14.00% | ~803 |
 | Famous Adventurer | 13.00% | ~746 |
 | Prepared for Anything | 13.00% | ~746 |
@@ -66,8 +66,8 @@ Number of Ratings: 836  (23.09.2022)
 | Finnished | 0.20% | ~11 |
 | Customized calamities | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,736 (Ranked 122)  
-Completed: 0 (0.00%) (Ranked 202)  
+Progressed: 5,737 (Ranked 122)  
+Completed: 0 (0.00%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -102,7 +102,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-23 | 5,653 | 0 |
 | 2023-05-24 | 5,686 | 0 |
 | 2023-05-25 | 5,724 | 0 |
-| 2023-05-26 | 5,736 | 0 |
+| 2023-05-26 | 5,737 | 0 |
 ## Awards
 Max (Extremely Fun): 99  (Ranked 325)  
 Sum: 652 (Ranked 271)  

@@ -212,7 +212,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 33173,
+  "EOS_Progressed": 33174,
   "EOS_Completed": 159,
   "EOS_NewPlayers": 494,
   "EOS_NewCompleters": 3,
@@ -3282,6 +3282,11 @@
       "Time": "2023-05-26T08:06:15.8688731+00:00",
       "NumProgressed": 33173,
       "NumCompleted": 159
+    },
+    {
+      "Time": "2023-05-26T09:07:03.425647+00:00",
+      "NumProgressed": 33174,
+      "NumCompleted": 159
     }
   ],
   "TotalAchievements": 44,
@@ -3309,7 +3314,7 @@
       "Name": "Embers",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 6966
+      "UsersEstimate": 6967
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -3317,7 +3322,7 @@
       "Name": "Burning",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5639
+      "UsersEstimate": 5640
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -3413,7 +3418,7 @@
       "Name": "First Steps",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 26870
+      "UsersEstimate": 26871
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -3525,7 +3530,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 10615
+      "UsersEstimate": 10616
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -3533,7 +3538,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 20899
+      "UsersEstimate": 20900
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -3629,7 +3634,7 @@
       "Name": "Awakening",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 30519
+      "UsersEstimate": 30520
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -3637,14 +3642,14 @@
       "Name": "Revenant",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 16918
+      "UsersEstimate": 16919
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 33173,
+      "Progressed": 33174,
       "Completed": 159
     }
   ],
@@ -3652,8 +3657,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-03-31T05:58:07.8538504+00:00",
-  "LastChanged_Achievements": "2023-05-26T08:06:15.8688723+00:00",
+  "LastChanged_Achievements": "2023-05-26T09:07:03.4256464+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:57.7696392+00:00",
-  "LastUpdate_Ratings": "2023-05-26T07:58:41.3323187+00:00",
-  "LastUpdate_Achievements": "2023-05-26T08:06:15.8689211+00:00"
+  "LastUpdate_Ratings": "2023-05-26T08:59:07.4197708+00:00",
+  "LastUpdate_Achievements": "2023-05-26T09:07:03.4257068+00:00"
 }

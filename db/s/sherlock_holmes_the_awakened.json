@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 241,
+  "EOS_Progressed": 242,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 4.98,
+  "EOS_Completed_Percentage": 4.96,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -589,6 +589,11 @@
       "Time": "2023-05-26T07:03:31.9624232+00:00",
       "NumProgressed": 241,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-05-26T09:03:48.8704941+00:00",
+      "NumProgressed": 242,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 28,
@@ -600,7 +605,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "MQ01_2",
@@ -608,7 +613,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "MQ02_1",
@@ -616,7 +621,7 @@
       "Name": "High Profile",
       "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "MQ02_2",
@@ -624,7 +629,7 @@
       "Name": "Big Breakthrough",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "MQ02_3",
@@ -640,7 +645,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 56,
       "XP": 40,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "MQ03_1",
@@ -648,7 +653,7 @@
       "Name": "Fond Memories",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "MQ03_2",
@@ -664,7 +669,7 @@
       "Name": "History Check",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "MQ03_4",
@@ -678,9 +683,9 @@
       "ID": "MQ03_5",
       "SetID": "bbing49",
       "Name": "A Method To His Madness",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 113
+      "UsersEstimate": 116
     },
     {
       "ID": "MQ04_1",
@@ -694,9 +699,9 @@
       "ID": "MQ04_2",
       "SetID": "bbing49",
       "Name": "Let Me Be Frank",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 75
     },
     {
       "ID": "MQ04_3",
@@ -704,7 +709,7 @@
       "Name": "The New World",
       "Percentage": 45,
       "XP": 40,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "MQ05_1",
@@ -736,7 +741,7 @@
       "Name": "Knives Out",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "MQ06_1",
@@ -752,15 +757,15 @@
       "Name": "Bookworm",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "MQ06_3",
       "SetID": "bbing49",
       "Name": "Land, Ho!",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 97
     },
     {
       "ID": "MQ06_4",
@@ -808,7 +813,7 @@
       "Name": "Fhtagn!",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "PLTN",
@@ -823,7 +828,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 241,
+      "Progressed": 242,
       "Completed": 12
     }
   ],
@@ -831,8 +836,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-04-12T21:57:08.1785829+00:00",
-  "LastChanged_Achievements": "2023-05-26T08:03:53.2757203+00:00",
+  "LastChanged_Achievements": "2023-05-26T09:03:48.8704935+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:57:04.473335+00:00",
-  "LastUpdate_Ratings": "2023-05-26T07:57:26.7430459+00:00",
-  "LastUpdate_Achievements": "2023-05-26T08:03:53.2757437+00:00"
+  "LastUpdate_Ratings": "2023-05-26T08:57:38.4101627+00:00",
+  "LastUpdate_Achievements": "2023-05-26T09:03:48.8705173+00:00"
 }

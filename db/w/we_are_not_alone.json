@@ -3,9 +3,9 @@
   "Name": "We Are Not Alone",
   "ProductSlug": "we-are-not-alone-0afd5f",
   "Ranking_EOS_Progress": 421,
-  "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_Completed": 203,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-19T19:14:18.4426098+00:00",
-  "LastUpdate_Ratings": "2023-05-26T08:00:38.5581287+00:00",
-  "LastUpdate_Achievements": "2023-05-26T08:05:45.9721809+00:00"
+  "LastUpdate_Ratings": "2023-05-26T09:01:40.0503933+00:00",
+  "LastUpdate_Achievements": "2023-05-26T09:06:27.9053948+00:00"
 }

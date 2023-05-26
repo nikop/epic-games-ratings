@@ -22,7 +22,7 @@ Rating: 4.18 (Ranked 831)
 | The Commonality | 2.00% | ~273 |
 | Mugshot | 2.00% | ~273 |
 | If the SHU Fits... | 2.00% | ~273 |
-| Big Spender | 2.00% | ~31 |
+| Big Spender | 2.00% | ~32 |
 | Parole Denied | 1.00% | ~16 |
 | Two Heads Are Better Than One | 1.00% | ~136 |
 | Without A Paddle | 1.00% | ~136 |
@@ -46,7 +46,7 @@ Rating: 4.18 (Ranked 831)
 | Subject Alpha | 0.10% | ~2 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,647 (Ranked 102)  
+Progressed: 13,649 (Ranked 102)  
 Completed: 53 (0.39%) (Ranked 112)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 53 (0.39%) (Ranked 112)
 | 2023-05-23 | 13,444 | 52 |
 | 2023-05-24 | 13,523 | 52 |
 | 2023-05-25 | 13,610 | 52 |
-| 2023-05-26 | 13,647 | 53 |
+| 2023-05-26 | 13,649 | 53 |
 ## Awards
 Max (Highly Recommended): 46  (Ranked 398)  
 Sum: 267 (Ranked 335)  

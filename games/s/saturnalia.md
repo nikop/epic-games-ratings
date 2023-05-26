@@ -27,7 +27,7 @@ Rating: 4.25 (Ranked 785)
 | Ear Ringing | 0.10% | ~64 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 63,833 (Ranked 67)  
-Completed: 11 (0.02%) (Ranked 187)  
+Completed: 11 (0.02%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

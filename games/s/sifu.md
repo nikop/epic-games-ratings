@@ -7,7 +7,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Diligence as a goal | 4.00% | ~585 |
-| Project Arena | 3.00% | ~438 |
+| Project Arena | 3.00% | ~439 |
 | The Hateful Pole Fighter | 1.00% | ~7,053 |
 | Qi Gong: Breath | 1.00% | ~7,053 |
 | Bloody Sport | 1.00% | ~146 |
@@ -20,12 +20,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Lightning Hands | 0.90% | ~6,348 |
 | Path of the Prospect | 0.90% | ~6,348 |
 | Rumble in the Hangar | 0.90% | ~6,348 |
-| Lady Wing Chun | 0.80% | ~5,642 |
-| Furious Fists | 0.80% | ~5,642 |
-| Kill Nil | 0.80% | ~5,642 |
-| Street Fighting | 0.80% | ~5,642 |
-| Qi Gong: Essence | 0.80% | ~5,642 |
-| Take damage to save time | 0.80% | ~5,642 |
+| Lady Wing Chun | 0.80% | ~5,643 |
+| Furious Fists | 0.80% | ~5,643 |
+| Kill Nil | 0.80% | ~5,643 |
+| Street Fighting | 0.80% | ~5,643 |
+| Qi Gong: Essence | 0.80% | ~5,643 |
+| Take damage to save time | 0.80% | ~5,643 |
 | Stuntmaster | 0.70% | ~4,937 |
 | Old Child | 0.70% | ~4,937 |
 | Scareless | 0.60% | ~4,232 |
@@ -57,7 +57,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Ferocity, speed, strength, accuracy | 0.10% | ~705 |
 | Warriors from the Mountain | 0.10% | ~705 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 705,312 (Ranked 15)  
+Progressed: 705,326 (Ranked 15)  
 Completed: 12,735 (1.81%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 12,735 (1.81%) (Ranked 64)
 | 2023-05-23 | 704,864 | 12,733 |
 | 2023-05-24 | 705,048 | 12,734 |
 | 2023-05-25 | 705,232 | 12,734 |
-| 2023-05-26 | 705,312 | 12,735 |
+| 2023-05-26 | 705,326 | 12,735 |
 ## Awards
 Max (Great Boss Battles): 6,091  (Ranked 53)  
 Sum: 10,376 (Ranked 77)  

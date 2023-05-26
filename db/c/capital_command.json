@@ -3,9 +3,9 @@
   "Name": "Capital Command",
   "ProductSlug": "capital-command-248527",
   "Ranking_EOS_Progress": 421,
-  "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_Completed": 203,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -30,6 +30,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-19T19:02:26.0210504+00:00",
-  "LastUpdate_Ratings": "2023-05-26T07:59:27.4032408+00:00",
-  "LastUpdate_Achievements": "2023-05-26T08:03:51.6712442+00:00"
+  "LastUpdate_Ratings": "2023-05-26T09:00:08.9322393+00:00",
+  "LastUpdate_Achievements": "2023-05-26T09:03:46.7594338+00:00"
 }

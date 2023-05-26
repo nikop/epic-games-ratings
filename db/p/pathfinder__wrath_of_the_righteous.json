@@ -6,9 +6,9 @@
   "Ranking_Popularity": 111,
   "Ranking_PopularitySum": 110,
   "Ranking_EOS_Progress": 110,
-  "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_Completed": 203,
+  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -2528,9 +2528,9 @@
       "Count": 370
     }
   ],
-  "EOS_Progressed": 9200,
+  "EOS_Progressed": 9202,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 310,
+  "EOS_NewPlayers": 311,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4553,6 +4553,11 @@
       "Time": "2023-05-26T07:06:38.1948421+00:00",
       "NumProgressed": 9200,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T09:07:44.3289031+00:00",
+      "NumProgressed": 9202,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -4850,9 +4855,9 @@
       "ID": "38_PrelatesNemesis",
       "SetID": "989of5o",
       "Name": "Prelate\u0027s Nemesis",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 28
+      "UsersEstimate": 18
     },
     {
       "ID": "39_Blight of Drezen",
@@ -5491,21 +5496,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 7982,
+      "Progressed": 7984,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 9200,
+      "Progressed": 9202,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-05-26T01:58:39.9900501+00:00",
-  "LastChanged_Achievements": "2023-05-26T08:06:50.7836171+00:00",
+  "LastChanged_Achievements": "2023-05-26T09:07:44.3289024+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:56.3010226+00:00",
-  "LastUpdate_Ratings": "2023-05-26T07:58:36.460814+00:00",
-  "LastUpdate_Achievements": "2023-05-26T08:06:50.7837857+00:00"
+  "LastUpdate_Ratings": "2023-05-26T08:59:01.2405071+00:00",
+  "LastUpdate_Achievements": "2023-05-26T09:07:44.3290959+00:00"
 }

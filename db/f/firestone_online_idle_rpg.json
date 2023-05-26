@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -92,9 +92,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1166,
+  "EOS_Progressed": 1168,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2162,6 +2162,11 @@
       "Time": "2023-05-26T06:05:27.009804+00:00",
       "NumProgressed": 1166,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-26T09:07:21.7834739+00:00",
+      "NumProgressed": 1168,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 75,
@@ -2173,7 +2178,7 @@
       "Name": "Active Member",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ancientknowledge",
@@ -2197,7 +2202,7 @@
       "Name": "Arena Challenger",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "backgroundstory",
@@ -2251,9 +2256,9 @@
       "ID": "crystalmining",
       "SetID": "3nl4bcg",
       "Name": "Crystal Mining",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "dailyquestcompletionist",
@@ -2301,7 +2306,7 @@
       "Name": "Ebony Jungle Liberator",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "enchantingskill",
@@ -2349,7 +2354,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "fellowshippower",
@@ -2357,7 +2362,7 @@
       "Name": "Fellowship Power",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "fourleafclover",
@@ -2381,7 +2386,7 @@
       "Name": "Full Party",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "gearenchanting",
@@ -2397,7 +2402,7 @@
       "Name": "Guardian Master",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "guildpower",
@@ -2445,7 +2450,7 @@
       "Name": "Inspection",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "jewelenchanting",
@@ -2557,7 +2562,7 @@
       "Name": "Pokerface",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "prestigious",
@@ -2565,7 +2570,7 @@
       "Name": "Prestigious",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "prestigiousx10",
@@ -2629,7 +2634,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "thealchemist",
@@ -2637,7 +2642,7 @@
       "Name": "The Alchemist",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "theexpeditioner",
@@ -2733,7 +2738,7 @@
       "Name": "Victor",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1096
+      "UsersEstimate": 1098
     },
     {
       "ID": "warmachinesarmy",
@@ -2765,14 +2770,14 @@
       "Name": "World Map",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 1166,
+      "Progressed": 1168,
       "Completed": 1
     }
   ],
@@ -2780,8 +2785,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-05-23T21:58:11.918076+00:00",
-  "LastChanged_Achievements": "2023-05-26T08:06:31.5232131+00:00",
+  "LastChanged_Achievements": "2023-05-26T09:07:21.7834732+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:34.8363446+00:00",
-  "LastUpdate_Ratings": "2023-05-26T07:58:16.796796+00:00",
-  "LastUpdate_Achievements": "2023-05-26T08:06:31.5232992+00:00"
+  "LastUpdate_Ratings": "2023-05-26T08:58:37.2796868+00:00",
+  "LastUpdate_Achievements": "2023-05-26T09:07:21.7835678+00:00"
 }

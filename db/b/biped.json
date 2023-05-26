@@ -3,9 +3,9 @@
   "Name": "Biped",
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 150,
-  "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 76,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_Completed": 203,
+  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -26,9 +26,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1891,
+  "EOS_Progressed": 1892,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 659,
+  "EOS_NewPlayers": 656,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2106,6 +2106,11 @@
       "Time": "2023-05-26T08:06:09.0710289+00:00",
       "NumProgressed": 1891,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T09:06:55.6507569+00:00",
+      "NumProgressed": 1892,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -2181,7 +2186,7 @@
       "Name": "Cactus Vally",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "4",
@@ -2213,7 +2218,7 @@
       "Name": "Blue Rapids",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "8",
@@ -2236,7 +2241,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 1891,
+      "Progressed": 1892,
       "Completed": 0
     }
   ],
@@ -2244,8 +2249,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-05-26T08:06:09.0710283+00:00",
+  "LastChanged_Achievements": "2023-05-26T09:06:55.6507563+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:36.8488775+00:00",
-  "LastUpdate_Ratings": "2023-05-26T07:58:17.9032868+00:00",
-  "LastUpdate_Achievements": "2023-05-26T08:06:09.0710527+00:00"
+  "LastUpdate_Ratings": "2023-05-26T08:58:38.6569741+00:00",
+  "LastUpdate_Achievements": "2023-05-26T09:06:55.6507911+00:00"
 }

@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Small town | 59.00% | ~108 |
-| I like parks | 45.00% | ~82 |
+| Small town | 59.00% | ~109 |
+| I like parks | 45.00% | ~83 |
 | The spiritual world... | 25.00% | ~46 |
 | It is nice to share with friends in the city | 24.00% | ~44 |
 | Sport is good for you | 24.00% | ~44 |
@@ -13,20 +13,20 @@
 | I like books | 18.00% | ~33 |
 | I like my life | 17.00% | ~31 |
 | Clean energy | 16.00% | ~29 |
-| Soviet town | 15.00% | ~27 |
-| Bucolic city | 11.00% | ~20 |
+| Soviet town | 15.00% | ~28 |
+| Bucolic city | 12.00% | ~22 |
 | I love parks | 10.00% | ~18 |
-| I love books! | 9.00% | ~16 |
-| King of fish | 9.00% | ~16 |
+| I love books! | 9.00% | ~17 |
+| King of fish | 9.00% | ~17 |
 | What would we do if we can't go out with friends? | 8.00% | ~15 |
 | Metropolurbek | 6.00% | ~11 |
 | Food producer | 5.00% | ~9 |
 | I am very happy! | 4.00% | ~7 |
 | Sport is the best thing | 4.00% | ~7 |
-| Banking city | 3.00% | ~5 |
-| Read! Everyone should read! | 3.00% | ~5 |
-| Little Mayor | 3.00% | ~5 |
-| Temperate builder | 3.00% | ~5 |
+| Banking city | 3.00% | ~6 |
+| Read! Everyone should read! | 3.00% | ~6 |
+| Little Mayor | 3.00% | ~6 |
+| Temperate builder | 3.00% | ~6 |
 | Archipelago builder | 2.00% | ~4 |
 | Food provider master | 2.00% | ~4 |
 | City crisis | 2.00% | ~4 |
@@ -84,8 +84,8 @@
 | Rainforest urban planner | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 183 (Ranked 239)  
-Completed: 0 (0.00%) (Ranked 202)  
+Progressed: 184 (Ranked 239)  
+Completed: 0 (0.00%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -113,7 +113,7 @@ Completed: 0 (0.00%) (Ranked 202)
 | 2023-05-23 | 175 | 0 |
 | 2023-05-24 | 176 | 0 |
 | 2023-05-25 | 182 | 0 |
-| 2023-05-26 | 183 | 0 |
+| 2023-05-26 | 184 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

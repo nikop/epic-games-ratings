@@ -6,11 +6,11 @@ Rating: 4.38 (Ranked 695)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 17.00% | ~248 |
-| Confirming Suspicions | 13.00% | ~189 |
+| Confirming Suspicions | 13.00% | ~190 |
 | The Kraken Wakes | 9.00% | ~131 |
 | It's Starting to Crack | 7.00% | ~102 |
-| Lord of War | 6.00% | ~87 |
-| Resourceful | 6.00% | ~87 |
+| Lord of War | 6.00% | ~88 |
+| Resourceful | 6.00% | ~88 |
 | Enemy at the Gates | 5.00% | ~73 |
 | Organ Grinder | 5.00% | ~73 |
 | Change the Channel | 5.00% | ~73 |
@@ -43,8 +43,8 @@ Rating: 4.38 (Ranked 695)
 | Herr Today, Gone Tomorrow | 0.60% | ~8 |
 | Operation Foxley | 0.60% | ~8 |
 | Strategist | 0.50% | ~7 |
+| Siegebreaker | 0.50% | ~7 |
 | Ghost of Falaise | 0.50% | ~7 |
-| Siegebreaker | 0.40% | ~6 |
 | From Paris with Love | 0.30% | ~4 |
 | Don't hold your breath | 0.30% | ~4 |
 | Shoot for the Moon | 0.30% | ~4 |
@@ -77,7 +77,7 @@ Rating: 4.38 (Ranked 695)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,456 (Ranked 157)  
+Progressed: 1,459 (Ranked 157)  
 Completed: 2 (0.14%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 2 (0.14%) (Ranked 150)
 | 2023-05-23 | 1,294 | 2 |
 | 2023-05-24 | 1,365 | 2 |
 | 2023-05-25 | 1,428 | 2 |
-| 2023-05-26 | 1,456 | 2 |
+| 2023-05-26 | 1,459 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 63,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-11T16:00:00+00:00",
     "PcReleaseDate": "2023-05-11T16:00:00+00:00",
@@ -19,11 +19,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 52,
+  "EOS_Progressed": 53,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.92,
+  "EOS_Completed_Percentage": 1.89,
   "EosHistory": [
     {
       "Time": "2023-05-09T11:06:33.5022357+00:00",
@@ -259,6 +259,11 @@
       "Time": "2023-05-25T23:01:14.6547733+00:00",
       "NumProgressed": 52,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-26T09:02:56.6329708+00:00",
+      "NumProgressed": 53,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 39,
@@ -284,7 +289,7 @@
       "ID": "ACHIEVEMENT_03",
       "SetID": "gagif7",
       "Name": "To Each Their Own",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 5,
       "UsersEstimate": 24
     },
@@ -532,7 +537,7 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "gagif7",
       "Name": "You\u0027re Going Down!",
-      "Percentage": 98,
+      "Percentage": 96,
       "XP": 5,
       "UsersEstimate": 51
     },
@@ -581,14 +586,14 @@
     {
       "ID": "gagif7",
       "IsBase": true,
-      "Progressed": 52,
+      "Progressed": 53,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-15T16:57:57.7851065+00:00",
   "FirstSeenAchievements": "2023-05-02T16:00:00.3862921+00:00",
-  "LastChanged_Achievements": "2023-05-26T08:03:18.6990056+00:00",
+  "LastChanged_Achievements": "2023-05-26T09:02:56.6329697+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:05.2189133+00:00",
-  "LastUpdate_Ratings": "2023-05-26T07:57:48.2483762+00:00",
-  "LastUpdate_Achievements": "2023-05-26T08:03:18.6990376+00:00"
+  "LastUpdate_Ratings": "2023-05-26T08:58:04.6498428+00:00",
+  "LastUpdate_Achievements": "2023-05-26T09:02:56.6330224+00:00"
 }

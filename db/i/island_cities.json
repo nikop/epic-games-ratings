@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -786,9 +786,9 @@
       "ID": "LEVEL_004",
       "SetID": "3khpmem",
       "Name": "Great view from the beach and from the hill",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 35,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "LEVEL_005",
@@ -947,8 +947,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2023-05-26T08:06:12.0835966+00:00",
+  "LastChanged_Achievements": "2023-05-26T09:06:58.8610689+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:36.8517809+00:00",
-  "LastUpdate_Ratings": "2023-05-26T07:58:18.6455496+00:00",
-  "LastUpdate_Achievements": "2023-05-26T08:06:12.0836177+00:00"
+  "LastUpdate_Ratings": "2023-05-26T08:58:39.4525489+00:00",
+  "LastUpdate_Achievements": "2023-05-26T09:06:58.8611037+00:00"
 }

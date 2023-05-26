@@ -3,9 +3,9 @@
   "Name": "Vagrus - The Riven Realms",
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 282,
-  "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_Completed": 203,
+  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -953,8 +953,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-05-26T08:06:25.4085569+00:00",
+  "LastChanged_Achievements": "2023-05-26T09:07:14.6192188+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:00:31.5396871+00:00",
-  "LastUpdate_Ratings": "2023-05-26T07:59:06.2296107+00:00",
-  "LastUpdate_Achievements": "2023-05-26T08:06:25.408674+00:00"
+  "LastUpdate_Ratings": "2023-05-26T08:59:39.9162995+00:00",
+  "LastUpdate_Achievements": "2023-05-26T09:07:14.6194334+00:00"
 }

@@ -21,11 +21,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 319,
+  "EOS_Progressed": 320,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 195,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 14,
-  "EOS_Completed_Percentage": 5.02,
+  "EOS_Completed_Percentage": 5,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -626,6 +626,11 @@
       "Time": "2023-05-26T06:03:16.6956725+00:00",
       "NumProgressed": 319,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-05-26T09:03:49.822913+00:00",
+      "NumProgressed": 320,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 30,
@@ -637,7 +642,7 @@
       "Name": "A fresh start",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "LEVEL_002",
@@ -645,7 +650,7 @@
       "Name": "Promising crop",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "LEVEL_003",
@@ -661,15 +666,15 @@
       "Name": "Life is better at the lake",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "LEVEL_005",
       "SetID": "212bg48",
       "Name": "Small village",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 141
     },
     {
       "ID": "LEVEL_006",
@@ -707,9 +712,9 @@
       "ID": "LEVEL_010",
       "SetID": "212bg48",
       "Name": "Rocks around the island",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 74
     },
     {
       "ID": "LEVEL_011",
@@ -725,7 +730,7 @@
       "Name": "Vegetables on rails",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "LEVEL_013",
@@ -757,7 +762,7 @@
       "Name": "Where\u0027s the toilet, sir?",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "LEVEL_017",
@@ -803,17 +808,17 @@
       "ID": "LEVEL_022",
       "SetID": "212bg48",
       "Name": "Who likes bridges?",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 55,
-      "UsersEstimate": 22
+      "UsersEstimate": 26
     },
     {
       "ID": "LEVEL_023",
       "SetID": "212bg48",
       "Name": "Flowing from high ground",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 55,
-      "UsersEstimate": 22
+      "UsersEstimate": 26
     },
     {
       "ID": "LEVEL_024",
@@ -876,14 +881,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 319,
+      "Progressed": 320,
       "Completed": 16
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-05-26T08:03:54.1776486+00:00",
+  "LastChanged_Achievements": "2023-05-26T09:03:49.8229126+00:00",
   "LastUpdate_AppInfo": "2023-05-22T13:02:13.5547551+00:00",
-  "LastUpdate_Ratings": "2023-05-26T07:57:16.0575257+00:00",
-  "LastUpdate_Achievements": "2023-05-26T08:03:54.1776755+00:00"
+  "LastUpdate_Ratings": "2023-05-26T08:57:24.4695194+00:00",
+  "LastUpdate_Achievements": "2023-05-26T09:03:49.8229418+00:00"
 }

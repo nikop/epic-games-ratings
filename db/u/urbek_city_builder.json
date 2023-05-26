@@ -3,9 +3,9 @@
   "Name": "Urbek City Builder",
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 239,
-  "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_Completed": 203,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
     "PcReleaseDate": "2022-07-13T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 183,
+  "EOS_Progressed": 184,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -302,6 +302,11 @@
       "Time": "2023-05-26T03:06:10.1898691+00:00",
       "NumProgressed": 183,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T09:07:31.0644894+00:00",
+      "NumProgressed": 184,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -361,7 +366,7 @@
       "Name": "Banking city",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "BANCO_2",
@@ -465,7 +470,7 @@
       "Name": "I love books!",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "CULTURE_3",
@@ -473,7 +478,7 @@
       "Name": "Read! Everyone should read!",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "DESIERTO3_1",
@@ -617,7 +622,7 @@
       "Name": "King of fish",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "GRANJA_1",
@@ -641,7 +646,7 @@
       "Name": "I like parks",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -721,7 +726,7 @@
       "Name": "Little Mayor",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "POINTS_20K",
@@ -745,7 +750,7 @@
       "Name": "Small town",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "POPULATION_2",
@@ -865,7 +870,7 @@
       "Name": "Temperate builder",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TEMPERADO_2",
@@ -919,9 +924,9 @@
       "ID": "VILLAS",
       "SetID": "44dlcg0",
       "Name": "Bucolic city",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "WELFARE_1",
@@ -929,7 +934,7 @@
       "Name": "Soviet town",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "WELFARE_2",
@@ -944,7 +949,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 183,
+      "Progressed": 184,
       "Completed": 0
     }
   ],
@@ -952,8 +957,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-05-26T08:06:39.2682401+00:00",
+  "LastChanged_Achievements": "2023-05-26T09:07:31.0644885+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:08.225759+00:00",
-  "LastUpdate_Ratings": "2023-05-26T07:59:08.7109949+00:00",
-  "LastUpdate_Achievements": "2023-05-26T08:06:39.268326+00:00"
+  "LastUpdate_Ratings": "2023-05-26T08:59:42.651874+00:00",
+  "LastUpdate_Achievements": "2023-05-26T09:07:31.0645772+00:00"
 }

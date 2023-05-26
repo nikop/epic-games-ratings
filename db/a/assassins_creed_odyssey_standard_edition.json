@@ -4,11 +4,11 @@
   "ProductSlug": "assassins-creed-odyssey",
   "Ranking_Rating": 130,
   "Ranking_Popularity": 62,
-  "Ranking_PopularitySum": 71,
+  "Ranking_PopularitySum": 70,
   "Ranking_EOS_Progress": 421,
-  "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_Completed": 203,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2018-10-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -4335,10 +4335,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 12199,
       "NumberOfAwardsMax": 5023
+    },
+    {
+      "Time": "2023-05-26T09:00:36.474942+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 12203,
+      "NumberOfAwardsMax": 5023
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12199,
+  "NumberOfAwards": 12203,
   "NumberOfAwardsMax": 5023,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4364,7 +4370,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 395
+      "Count": 399
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4438,8 +4444,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
-  "LastChanged": "2023-05-26T02:59:28.6892064+00:00",
+  "LastChanged": "2023-05-26T09:00:36.4749418+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:03:00.2075852+00:00",
-  "LastUpdate_Ratings": "2023-05-26T07:59:50.6807989+00:00",
-  "LastUpdate_Achievements": "2023-05-26T08:05:19.5664234+00:00"
+  "LastUpdate_Ratings": "2023-05-26T09:00:36.4749426+00:00",
+  "LastUpdate_Achievements": "2023-05-26T09:05:55.9034999+00:00"
 }

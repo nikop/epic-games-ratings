@@ -10,7 +10,7 @@ Number of Ratings: 62  (23.09.2022)
 | I'll Be Back | 84.00% | ~3,588 |
 | Sorry, I Dropped This | 77.00% | ~3,289 |
 | First Day on the Job | 76.00% | ~3,246 |
-| Butcher's Bill | 54.00% | ~2,306 |
+| Butcher's Bill | 55.00% | ~2,349 |
 | P.A.X | 37.00% | ~1,580 |
 | Hey Listen | 36.00% | ~1,538 |
 | OPERATOR | 35.00% | ~1,495 |

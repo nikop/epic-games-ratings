@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 12,
   "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-09-07T14:00:00+00:00",
     "PcReleaseDate": "2022-09-07T14:00:00+00:00",
@@ -137,9 +137,9 @@
       "ID": "LOVE_IS_IN_THE_AIR",
       "SetID": "dhjj31a",
       "Name": "Love is in the Air",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "LOVING_COMMUTE",
@@ -169,9 +169,9 @@
       "ID": "ROYAL_ROMANCE",
       "SetID": "dhjj31a",
       "Name": "Royal Romance",
-      "Percentage": 39,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "SHORT_DISTANCE_RELATIONSHIP",
@@ -193,9 +193,9 @@
       "ID": "SPREAD_THE_LOVE",
       "SetID": "dhjj31a",
       "Name": "Spread the Love",
-      "Percentage": 21,
+      "Percentage": 25,
       "XP": 75,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
@@ -210,8 +210,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.7586093+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.8187697+00:00",
   "LastChanged": "2023-03-31T05:58:12.7586094+00:00",
-  "LastChanged_Achievements": "2023-05-26T08:06:10.5895479+00:00",
+  "LastChanged_Achievements": "2023-05-26T09:06:57.0293548+00:00",
   "LastUpdate_AppInfo": "2023-05-19T18:59:14.9625829+00:00",
-  "LastUpdate_Ratings": "2023-05-26T07:57:57.1528603+00:00",
-  "LastUpdate_Achievements": "2023-05-26T08:06:10.5895608+00:00"
+  "LastUpdate_Ratings": "2023-05-26T08:58:15.9547119+00:00",
+  "LastUpdate_Achievements": "2023-05-26T09:06:57.0293724+00:00"
 }

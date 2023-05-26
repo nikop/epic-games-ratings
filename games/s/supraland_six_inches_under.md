@@ -6,62 +6,62 @@ Number of Ratings: 209  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good Morning | 99.00% | ~2,009 |
-| Hit Rock Bottom | 97.00% | ~1,968 |
-| Rocket Launched | 97.00% | ~1,968 |
-| Speed | 97.00% | ~1,968 |
-| High Jump | 96.00% | ~1,948 |
-| Knee bending | 96.00% | ~1,948 |
-| Pickaxe | 94.00% | ~1,907 |
-| Entered Cage Town | 93.00% | ~1,887 |
-| Stone Pickaxe | 93.00% | ~1,887 |
-| Revenge | 93.00% | ~1,887 |
-| Cage Town | 93.00% | ~1,887 |
-| Surprise | 93.00% | ~1,887 |
-| Force Beam | 92.00% | ~1,867 |
-| Magnet | 90.00% | ~1,826 |
-| Industrial Area | 89.00% | ~1,806 |
+| Good Morning | 99.00% | ~2,010 |
+| Hit Rock Bottom | 97.00% | ~1,969 |
+| Rocket Launched | 97.00% | ~1,969 |
+| Speed | 97.00% | ~1,969 |
+| High Jump | 96.00% | ~1,949 |
+| Knee bending | 96.00% | ~1,949 |
+| Pickaxe | 94.00% | ~1,908 |
+| Entered Cage Town | 93.00% | ~1,888 |
+| Stone Pickaxe | 93.00% | ~1,888 |
+| Revenge | 93.00% | ~1,888 |
+| Cage Town | 93.00% | ~1,888 |
+| Surprise | 93.00% | ~1,888 |
+| Force Beam | 92.00% | ~1,868 |
+| Magnet | 90.00% | ~1,827 |
+| Industrial Area | 89.00% | ~1,807 |
 | Magnet Repel | 88.00% | ~1,786 |
-| You feel middle classy | 86.00% | ~1,745 |
-| Banking District | 86.00% | ~1,745 |
-| Boomeraxe | 86.00% | ~1,745 |
-| Iron Pickaxe | 86.00% | ~1,745 |
-| Arrested | 85.00% | ~1,725 |
-| Zappy Gun | 85.00% | ~1,725 |
-| Got your own one now | 85.00% | ~1,725 |
-| Mission Unlikely | 85.00% | ~1,725 |
-| Don't draw dicks pls | 84.00% | ~1,704 |
-| Ripped | 84.00% | ~1,704 |
-| Beat the big arena | 82.00% | ~1,664 |
-| Force Cube | 81.00% | ~1,643 |
-| Got Battery | 80.00% | ~1,623 |
-| Guard Distracted | 80.00% | ~1,623 |
-| Translocator | 79.00% | ~1,603 |
-| Inner Peace | 77.00% | ~1,562 |
-| Diamond Pickaxe | 76.00% | ~1,542 |
-| Killed them all | 76.00% | ~1,542 |
-| Trickle Down Economy | 76.00% | ~1,542 |
+| You feel middle classy | 86.00% | ~1,746 |
+| Banking District | 86.00% | ~1,746 |
+| Boomeraxe | 86.00% | ~1,746 |
+| Iron Pickaxe | 86.00% | ~1,746 |
+| Arrested | 85.00% | ~1,726 |
+| Zappy Gun | 85.00% | ~1,726 |
+| Got your own one now | 85.00% | ~1,726 |
+| Mission Unlikely | 85.00% | ~1,726 |
+| Don't draw dicks pls | 84.00% | ~1,705 |
+| Ripped | 84.00% | ~1,705 |
+| Beat the big arena | 82.00% | ~1,665 |
+| Force Cube | 81.00% | ~1,644 |
+| Got Battery | 80.00% | ~1,624 |
+| Guard Distracted | 80.00% | ~1,624 |
+| Translocator | 79.00% | ~1,604 |
+| Inner Peace | 77.00% | ~1,563 |
+| Diamond Pickaxe | 76.00% | ~1,543 |
+| Killed them all | 76.00% | ~1,543 |
+| Trickle Down Economy | 76.00% | ~1,543 |
 | Win | 75.00% | ~1,522 |
-| Greenhouse | 72.00% | ~1,461 |
-| Played with fire | 70.00% | ~1,420 |
-| You feel very sorry | 69.00% | ~1,400 |
-| No Match for you | 65.00% | ~1,319 |
+| Greenhouse | 72.00% | ~1,462 |
+| Played with fire | 70.00% | ~1,421 |
+| You feel very sorry | 69.00% | ~1,401 |
+| No Match for you | 65.00% | ~1,320 |
 | Bouncy | 61.00% | ~1,238 |
-| Plumbster | 60.00% | ~1,217 |
-| Faster | 60.00% | ~1,217 |
-| Much Magic | 56.00% | ~1,136 |
+| Plumbster | 60.00% | ~1,218 |
+| Faster | 60.00% | ~1,218 |
+| Much Magic | 56.00% | ~1,137 |
 | Chest Detector | 54.00% | ~1,096 |
-| Flames | 52.00% | ~1,055 |
-| Momentum | 45.00% | ~913 |
-| You're unsure if you broke the game or not | 42.00% | ~852 |
-| But wait... ...There's more... | 39.00% | ~791 |
+| Flames | 52.00% | ~1,056 |
+| Momentum | 45.00% | ~914 |
+| You're unsure if you broke the game or not | 42.00% | ~853 |
+| But wait... ...There's more... | 39.00% | ~792 |
 | So much force | 34.00% | ~690 |
 | You feel fully engaged | 23.00% | ~467 |
 | Too hot | 19.00% | ~386 |
 | All the chests | 13.00% | ~264 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,029 (Ranked 148)  
-Completed: 244 (12.03%) (Ranked 11)  
+Progressed: 2,030 (Ranked 148)  
+Completed: 244 (12.02%) (Ranked 11)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -94,7 +94,7 @@ Completed: 244 (12.03%) (Ranked 11)
 | 2023-05-23 | 2,023 | 243 |
 | 2023-05-24 | 2,025 | 243 |
 | 2023-05-25 | 2,028 | 244 |
-| 2023-05-26 | 2,029 | 244 |
+| 2023-05-26 | 2,030 | 244 |
 ## Awards
 Max (Challenging Puzzles): 97  (Ranked 326)  
 Sum: 97 (Ranked 399)  

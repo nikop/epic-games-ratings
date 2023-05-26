@@ -6,9 +6,9 @@
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 205,
-  "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_Completed": 203,
+  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
     "PcReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -74,9 +74,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 368,
+  "EOS_Progressed": 369,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -109,6 +109,11 @@
       "Time": "2023-05-21T21:00:44.0474835+00:00",
       "NumProgressed": 368,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-26T09:02:35.4967462+00:00",
+      "NumProgressed": 369,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -128,7 +133,7 @@
       "Name": "Campaign Bronze",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "CampaignStars2",
@@ -200,7 +205,7 @@
       "Name": "Metropolis",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "Multitalent",
@@ -240,7 +245,7 @@
       "Name": "Joma",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "PlanetLorian",
@@ -280,7 +285,7 @@
       "Name": "Tuto",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "PlanetUdionTorix",
@@ -288,7 +293,7 @@
       "Name": "Udion Torix",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Scientist",
@@ -311,7 +316,7 @@
     {
       "ID": "c2k469b",
       "IsBase": true,
-      "Progressed": 368,
+      "Progressed": 369,
       "Completed": 0
     }
   ],
@@ -319,8 +324,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-03-31T05:58:11.9489163+00:00",
-  "LastChanged_Achievements": "2023-05-26T08:01:19.6359803+00:00",
+  "LastChanged_Achievements": "2023-05-26T09:02:35.4967451+00:00",
   "LastUpdate_AppInfo": "2023-05-19T19:02:34.9258969+00:00",
-  "LastUpdate_Ratings": "2023-05-26T07:59:35.361184+00:00",
-  "LastUpdate_Achievements": "2023-05-26T08:01:19.6360034+00:00"
+  "LastUpdate_Ratings": "2023-05-26T09:00:17.3126943+00:00",
+  "LastUpdate_Achievements": "2023-05-26T09:02:35.4967727+00:00"
 }

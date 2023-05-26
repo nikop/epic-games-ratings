@@ -43,8 +43,8 @@
 | From Here To Eternity | 14.00% | ~17 |
 | Boss Hunter | 14.00% | ~17 |
 | Octopostructure | 12.00% | ~15 |
+| Hawkman | 9.00% | ~11 |
 | Annihilate | 8.00% | ~10 |
-| Hawkman | 8.00% | ~10 |
 | Fashion Victim | 6.00% | ~7 |
 | Feast Time | 6.00% | ~7 |
 | See You Later | 5.00% | ~6 |
