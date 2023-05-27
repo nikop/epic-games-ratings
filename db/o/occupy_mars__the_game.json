@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 940,
+  "EOS_Progressed": 941,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 367,
+  "EOS_NewPlayers": 356,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -915,6 +915,11 @@
       "Time": "2023-05-27T08:02:24.9268233+00:00",
       "NumProgressed": 940,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T09:03:24.9609533+00:00",
+      "NumProgressed": 941,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -1182,7 +1187,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -1286,7 +1291,7 @@
       "Name": "Bob The Builder",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -1309,7 +1314,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 940,
+      "Progressed": 941,
       "Completed": 0
     }
   ],
@@ -1317,8 +1322,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-05-26T23:57:35.5386473+00:00",
-  "LastChanged_Achievements": "2023-05-27T08:02:24.9268228+00:00",
+  "LastChanged_Achievements": "2023-05-27T09:03:24.9609528+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:16.7229431+00:00",
-  "LastUpdate_Ratings": "2023-05-27T07:57:18.7096791+00:00",
-  "LastUpdate_Achievements": "2023-05-27T08:02:24.9268677+00:00"
+  "LastUpdate_Ratings": "2023-05-27T08:57:25.4747282+00:00",
+  "LastUpdate_Achievements": "2023-05-27T09:03:24.9609909+00:00"
 }

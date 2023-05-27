@@ -440,9 +440,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13767,
+  "EOS_Progressed": 13771,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 866,
+  "EOS_NewPlayers": 859,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1730,6 +1730,11 @@
       "Time": "2023-05-27T08:03:19.8800561+00:00",
       "NumProgressed": 13767,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-05-27T09:03:57.048963+00:00",
+      "NumProgressed": 13771,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 40,
@@ -1757,7 +1762,7 @@
       "Name": "Giving Back",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -1869,7 +1874,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "KILL_ROBOT",
@@ -1933,7 +1938,7 @@
       "Name": "The Outer Way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "STORY_ESCAPE",
@@ -1973,7 +1978,7 @@
       "Name": "Desperate Times",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -2060,13 +2065,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 13767,
+      "Progressed": 13771,
       "Completed": 53
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 1693,
+      "Progressed": 1697,
       "Completed": 29
     }
   ],
@@ -2074,8 +2079,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-05-26T23:58:11.1391789+00:00",
-  "LastChanged_Achievements": "2023-05-27T08:03:19.8800551+00:00",
+  "LastChanged_Achievements": "2023-05-27T09:03:57.0489625+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:38.8191226+00:00",
-  "LastUpdate_Ratings": "2023-05-27T07:57:48.6830927+00:00",
-  "LastUpdate_Achievements": "2023-05-27T08:03:19.880099+00:00"
+  "LastUpdate_Ratings": "2023-05-27T08:58:07.0393212+00:00",
+  "LastUpdate_Achievements": "2023-05-27T09:03:57.0489938+00:00"
 }

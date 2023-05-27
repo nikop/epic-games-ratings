@@ -6,24 +6,24 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 14.00% | ~83,264 |
-| Incurious | 14.00% | ~83,264 |
-| Stroller | 12.00% | ~71,369 |
-| Climate Change | 12.00% | ~71,369 |
-| Advanced Hiker | 10.00% | ~59,474 |
-| Toy Train | 10.00% | ~59,474 |
-| Hiker | 9.00% | ~53,527 |
+| Advanced Stroller | 14.00% | ~83,267 |
+| Incurious | 14.00% | ~83,267 |
+| Stroller | 12.00% | ~71,371 |
+| Climate Change | 12.00% | ~71,371 |
+| Advanced Hiker | 10.00% | ~59,476 |
+| Toy Train | 10.00% | ~59,476 |
+| Hiker | 9.00% | ~53,528 |
 | Mojave Courier | 4.00% | ~23,790 |
-| Advanced Voyager | 3.00% | ~17,842 |
-| Expert Stroller | 3.00% | ~17,842 |
+| Advanced Voyager | 3.00% | ~17,843 |
+| Expert Stroller | 3.00% | ~17,843 |
 | Voyager | 2.00% | ~11,895 |
 | Expert Hiker | 2.00% | ~11,895 |
 | Orient Express | 2.00% | ~11,895 |
 | Marathon | 2.00% | ~11,895 |
 | Destructionist | 2.00% | ~11,895 |
 | Saved by Nausicaä | 2.00% | ~11,895 |
-| Lost | 1.00% | ~5,947 |
-| Rocketman | 0.60% | ~3,568 |
+| Lost | 1.00% | ~5,948 |
+| Rocketman | 0.60% | ~3,569 |
 | Expert Voyager | 0.50% | ~2,974 |
 | Nanuk | 0.50% | ~2,974 |
 | Shopaholic | 0.50% | ~2,974 |
@@ -34,9 +34,9 @@ Number of Ratings: 21,990  (23.09.2022)
 | Snowman's Land | 0.30% | ~1,784 |
 | Tough Nut! | 0.30% | ~1,784 |
 | Dynamite Fishing | 0.30% | ~1,784 |
-| Trans-Siberian Railway | 0.20% | ~1,189 |
-| Engineer | 0.20% | ~1,189 |
-| Satan's Minion | 0.20% | ~1,189 |
+| Trans-Siberian Railway | 0.20% | ~1,190 |
+| Engineer | 0.20% | ~1,190 |
+| Satan's Minion | 0.20% | ~1,190 |
 | Explorer | 0.10% | ~595 |
 | Advanced Explorer | 0.10% | ~595 |
 | Expert Wayfarer | 0.10% | ~595 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~595 |
 | 20 Miles under the Sea | 0.10% | ~595 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 594,740 (Ranked 20)  
+Progressed: 594,761 (Ranked 20)  
 Completed: 7 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 7 (0.00%) (Ranked 205)
 | 2023-05-24 | 593,646 | 7 |
 | 2023-05-25 | 594,025 | 7 |
 | 2023-05-26 | 594,575 | 7 |
-| 2023-05-27 | 594,740 | 7 |
+| 2023-05-27 | 594,761 | 7 |
 ## Awards
 Max (Diverse Characters): 185  (Ranked 265)  
 Sum: 1,506 (Ranked 208)  

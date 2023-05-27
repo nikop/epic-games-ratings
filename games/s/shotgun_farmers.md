@@ -11,13 +11,13 @@
 | Early Survivor | 18.00% | ~1 |
 | Seeds of War | 14.00% | ~8 |
 | Bouncemato | 14.00% | ~1 |
+| First Blood | 9.00% | ~5 |
 | Amateur Survivor | 9.00% | ~1 |
 | Grave Digger | 9.00% | ~1 |
-| First Blood | 7.00% | ~4 |
+| I Believe I Can Fly | 7.00% | ~4 |
 | Oh My Gourd | 7.00% | ~0 |
 | Perfect | 7.00% | ~0 |
 | Quadsparagus | 7.00% | ~0 |
-| I Believe I Can Fly | 5.00% | ~3 |
 | Triple Kill | 5.00% | ~3 |
 | Professional Survivor | 5.00% | ~0 |
 | Expert Survivor | 5.00% | ~0 |
@@ -31,6 +31,7 @@
 | This Is My Boomstick | 4.00% | ~0 |
 | Easy Peasy | 4.00% | ~0 |
 | Bring Home The Bacon | 2.00% | ~1 |
+| Getting Started | 2.00% | ~1 |
 | Skin Of Your Teeth | 2.00% | ~1 |
 | Quit Horsin' Around | 2.00% | ~1 |
 | Pro Pyromancer | 2.00% | ~1 |
@@ -47,7 +48,6 @@
 | 15 Days | 0.00% | ~0 |
 | 30 Days | 0.00% | ~0 |
 | Drinking Problem | 0.00% | ~0 |
-| Getting Started | 0.00% | ~0 |
 | Honk Honk | 0.00% | ~0 |
 | Darkside Survivor | 0.00% | ~0 |
 | Forestside Survivor | 0.00% | ~0 |

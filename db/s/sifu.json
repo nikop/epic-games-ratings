@@ -4236,9 +4236,9 @@
       "Count": 349
     }
   ],
-  "EOS_Progressed": 705611,
+  "EOS_Progressed": 705625,
   "EOS_Completed": 12738,
-  "EOS_NewPlayers": 1849,
+  "EOS_NewPlayers": 1840,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -7366,6 +7366,11 @@
       "Time": "2023-05-27T08:06:26.869456+00:00",
       "NumProgressed": 705611,
       "NumCompleted": 12738
+    },
+    {
+      "Time": "2023-05-27T09:07:10.0345932+00:00",
+      "NumProgressed": 705625,
+      "NumCompleted": 12738
     }
   ],
   "TotalAchievements": 50,
@@ -7377,7 +7382,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6350
+      "UsersEstimate": 6351
     },
     {
       "ID": "02_Vengeance_H1",
@@ -7385,7 +7390,7 @@
       "Name": "The Assault",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6350
+      "UsersEstimate": 6351
     },
     {
       "ID": "03_Vengeance_H2",
@@ -7401,7 +7406,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6350
+      "UsersEstimate": 6351
     },
     {
       "ID": "05_Vengeance_H4",
@@ -7409,7 +7414,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6350
+      "UsersEstimate": 6351
     },
     {
       "ID": "06_Vengeance_H5",
@@ -7553,7 +7558,7 @@
       "Name": "Life is your teacher",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 6350
+      "UsersEstimate": 6351
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -7585,7 +7590,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6350
+      "UsersEstimate": 6351
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -7641,7 +7646,7 @@
       "Name": "Lightning Hands",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 6350
+      "UsersEstimate": 6351
     },
     {
       "ID": "35_WideStrike",
@@ -7657,7 +7662,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6350
+      "UsersEstimate": 6351
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -7665,7 +7670,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6350
+      "UsersEstimate": 6351
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -7713,7 +7718,7 @@
       "Name": "Project Arena",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -7721,7 +7726,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -7745,7 +7750,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -7769,28 +7774,28 @@
       "Name": "A Touch of Acumen",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     }
   ],
   "AchievementSets": [
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 14912,
+      "Progressed": 14926,
       "Completed": 10177
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 705611,
+      "Progressed": 705625,
       "Completed": 12738
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-05-26T17:59:11.7195219+00:00",
-  "LastChanged_Achievements": "2023-05-27T08:06:26.8694554+00:00",
+  "LastChanged_Achievements": "2023-05-27T09:07:10.0345927+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:36.6842478+00:00",
-  "LastUpdate_Ratings": "2023-05-27T07:59:16.6054955+00:00",
-  "LastUpdate_Achievements": "2023-05-27T08:06:26.8695202+00:00"
+  "LastUpdate_Ratings": "2023-05-27T08:59:51.6381796+00:00",
+  "LastUpdate_Achievements": "2023-05-27T09:07:10.0346459+00:00"
 }

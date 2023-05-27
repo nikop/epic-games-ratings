@@ -11,11 +11,11 @@
 | It Feels Better Than It Sounds | 63.00% | ~10 |
 | Skilled Hands | 56.00% | ~9 |
 | Carving A Memory | 56.00% | ~9 |
+| Close Encounter | 50.00% | ~8 |
+| The Depths Of Darkness | 50.00% | ~8 |
 | Master Smithy | 50.00% | ~8 |
 | A Stranger's Diary | 50.00% | ~8 |
 | A Friend In Need | 44.00% | ~7 |
-| Close Encounter | 44.00% | ~7 |
-| The Depths Of Darkness | 44.00% | ~7 |
 | One With The Blades | 44.00% | ~7 |
 | Heart of Oblivion | 44.00% | ~7 |
 | Anahita's Greatest Mistake | 44.00% | ~7 |

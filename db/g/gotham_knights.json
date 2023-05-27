@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 55,
+  "Ranking_EOS_NewPlayers": 56,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -1256,9 +1256,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 62296,
+  "EOS_Progressed": 62302,
   "EOS_Completed": 91,
-  "EOS_NewPlayers": 1015,
+  "EOS_NewPlayers": 1013,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -3951,6 +3951,11 @@
       "Time": "2023-05-27T08:06:34.0620065+00:00",
       "NumProgressed": 62296,
       "NumCompleted": 91
+    },
+    {
+      "Time": "2023-05-27T09:07:18.3983828+00:00",
+      "NumProgressed": 62302,
+      "NumCompleted": 91
     }
   ],
   "TotalAchievements": 61,
@@ -4178,7 +4183,7 @@
       "Name": "Drone You Out",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "FREEZE_1",
@@ -4418,7 +4423,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -4449,13 +4454,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 62296,
+      "Progressed": 62302,
       "Completed": 91
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 32576,
+      "Progressed": 32582,
       "Completed": 2642
     }
   ],
@@ -4463,8 +4468,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-05-27T00:00:45.1108949+00:00",
-  "LastChanged_Achievements": "2023-05-27T08:06:34.0620056+00:00",
+  "LastChanged_Achievements": "2023-05-27T09:07:18.3983824+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:12.2547356+00:00",
-  "LastUpdate_Ratings": "2023-05-27T08:00:18.4586781+00:00",
-  "LastUpdate_Achievements": "2023-05-27T08:06:34.0620834+00:00"
+  "LastUpdate_Ratings": "2023-05-27T09:00:58.9011494+00:00",
+  "LastUpdate_Achievements": "2023-05-27T09:07:18.3984399+00:00"
 }

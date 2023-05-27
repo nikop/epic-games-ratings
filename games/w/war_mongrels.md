@@ -8,22 +8,22 @@ Number of Ratings: 34  (23.09.2022)
 | ---- | ---------- | ----- |
 | Explorer | 62.00% | ~177 |
 | Cowardice | 55.00% | ~157 |
-| NO LIFE IS WORTH SAVING... | 50.00% | ~142 |
+| NO LIFE IS WORTH SAVING... | 50.00% | ~143 |
 | Eat Lead! | 48.00% | ~137 |
-| Prospector | 44.00% | ~125 |
-| Here Comes the Boom | 44.00% | ~125 |
+| Prospector | 44.00% | ~126 |
+| Here Comes the Boom | 44.00% | ~126 |
 | Treasure Hunter | 42.00% | ~120 |
 | The Breaking Point | 40.00% | ~114 |
-| Sniper Wolf | 37.00% | ~105 |
+| Sniper Wolf | 37.00% | ~106 |
 | Missing in Action | 36.00% | ~103 |
 | The Motivation | 35.00% | ~100 |
-| Heroism | 32.00% | ~91 |
-| King of Knives | 32.00% | ~91 |
-| Collectibles of Chapter I | 31.00% | ~88 |
+| Heroism | 32.00% | ~92 |
+| Collectibles of Chapter I | 31.00% | ~89 |
+| King of Knives | 31.00% | ~89 |
 | Consequences | 29.00% | ~83 |
 | Opportunities | 27.00% | ~77 |
 | The Horror | 26.00% | ~74 |
-| Collectibles of Chapter II | 24.00% | ~68 |
+| Collectibles of Chapter II | 24.00% | ~69 |
 | The Difference | 22.00% | ~63 |
 | Vengeance | 21.00% | ~60 |
 | Food Massacre | 20.00% | ~57 |
@@ -52,7 +52,7 @@ Number of Ratings: 34  (23.09.2022)
 | Not Spill a Drop | 3.00% | ~9 |
 | Daddy Would Be Proud | 2.00% | ~6 |
 | Hold a Door | 1.00% | ~3 |
-| Warm Up | 0.40% | ~1 |
+| Warm Up | 0.30% | ~1 |
 | Challenges of Chapter I | 0.00% | ~0 |
 | Challenges of Chapter II | 0.00% | ~0 |
 | Challenges of Chapter III | 0.00% | ~0 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 285 (Ranked 219)  
+Progressed: 286 (Ranked 219)  
 Completed: 0 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 0 (0.00%) (Ranked 205)
 | 2023-05-23 | 274 | 0 |
 | 2023-05-25 | 280 | 0 |
 | 2023-05-26 | 284 | 0 |
-| 2023-05-27 | 285 | 0 |
+| 2023-05-27 | 286 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

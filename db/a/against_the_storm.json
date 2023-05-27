@@ -2306,9 +2306,9 @@
       "Count": 304
     }
   ],
-  "EOS_Progressed": 15019,
+  "EOS_Progressed": 15023,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -4236,6 +4236,11 @@
       "Time": "2023-05-27T04:05:44.8712907+00:00",
       "NumProgressed": 15019,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-05-27T09:07:17.7184336+00:00",
+      "NumProgressed": 15023,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 50,
@@ -4509,9 +4514,9 @@
       "ID": "WinOnCoral",
       "SetID": "cfbk359",
       "Name": "Coral Forest",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 300
     },
     {
       "ID": "WinOnCursed",
@@ -4533,9 +4538,9 @@
       "ID": "WinOnMoorlands",
       "SetID": "cfbk359",
       "Name": "The Scarlet Orchard",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 300
     },
     {
       "ID": "WinPrestige10",
@@ -4646,15 +4651,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 15019,
+      "Progressed": 15023,
       "Completed": 33
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-05-26T08:00:22.1794004+00:00",
-  "LastChanged_Achievements": "2023-05-27T08:06:33.5143827+00:00",
+  "LastChanged_Achievements": "2023-05-27T09:07:17.7184331+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:24.7558273+00:00",
-  "LastUpdate_Ratings": "2023-05-27T08:00:37.4100315+00:00",
-  "LastUpdate_Achievements": "2023-05-27T08:06:33.5144385+00:00"
+  "LastUpdate_Ratings": "2023-05-27T09:01:19.9407908+00:00",
+  "LastUpdate_Achievements": "2023-05-27T09:07:17.7184749+00:00"
 }

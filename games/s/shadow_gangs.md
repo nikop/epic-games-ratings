@@ -5,15 +5,15 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Took the challenge | 100.00% | ~4 |
+| Mission I finished | 25.00% | ~1 |
+| First shoot bonus stage beaten | 25.00% | ~1 |
 | Bridge level completed | 25.00% | ~1 |
 | City Completed | 0.00% | ~0 |
 | Temple level completed | 0.00% | ~0 |
-| Mission I finished | 0.00% | ~0 |
 | Mission II finished | 0.00% | ~0 |
 | Mission III finished | 0.00% | ~0 |
 | Mission IV finished | 0.00% | ~0 |
 | Mission V finished | 0.00% | ~0 |
-| First shoot bonus stage beaten | 0.00% | ~0 |
 | Second shoot bonus stage beaten | 0.00% | ~0 |
 | Third shoot bonus stage beaten | 0.00% | ~0 |
 | Fourth shoot bonus stage beaten | 0.00% | ~0 |

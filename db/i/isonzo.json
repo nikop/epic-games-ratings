@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 117,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -580,9 +580,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5880,
+  "EOS_Progressed": 5881,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -1580,6 +1580,11 @@
       "Time": "2023-05-27T08:06:11.1504522+00:00",
       "NumProgressed": 5880,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-05-27T09:06:50.4463617+00:00",
+      "NumProgressed": 5881,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 45,
@@ -1671,7 +1676,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -1719,7 +1724,7 @@
       "Name": "Insubordination",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -1735,7 +1740,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -1757,9 +1762,9 @@
       "ID": "ISONZO_ACH_MAMMA_MIA",
       "SetID": "akchbl3",
       "Name": "Mamma Mia!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2058
+      "UsersEstimate": 2117
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -1783,7 +1788,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3175
+      "UsersEstimate": 3176
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -1839,7 +1844,7 @@
       "Name": "Silver Lining",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 1646
+      "UsersEstimate": 1647
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -1887,7 +1892,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -1919,7 +1924,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3116
+      "UsersEstimate": 3117
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -1927,7 +1932,7 @@
       "Name": "Uomo Universale",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 764
+      "UsersEstimate": 765
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -1950,7 +1955,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 5880,
+      "Progressed": 5881,
       "Completed": 8
     }
   ],
@@ -1958,8 +1963,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-05-26T18:57:12.1585701+00:00",
-  "LastChanged_Achievements": "2023-05-27T08:06:11.1504517+00:00",
+  "LastChanged_Achievements": "2023-05-27T09:06:50.4463611+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:57:15.2806383+00:00",
-  "LastUpdate_Ratings": "2023-05-27T07:57:17.3068881+00:00",
-  "LastUpdate_Achievements": "2023-05-27T08:06:11.1504926+00:00"
+  "LastUpdate_Ratings": "2023-05-27T08:57:23.3789041+00:00",
+  "LastUpdate_Achievements": "2023-05-27T09:06:50.4463928+00:00"
 }

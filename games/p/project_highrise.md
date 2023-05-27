@@ -12,16 +12,16 @@
 | Dinner Dash | 38.00% | ~67 |
 | It's Technical | 35.00% | ~62 |
 | Need a Consult | 34.00% | ~60 |
-| Upgrade Unlock | 32.00% | ~56 |
+| Upgrade Unlock | 33.00% | ~58 |
 | Delegate Maintenance | 31.00% | ~55 |
 | Proper Walls | 30.00% | ~53 |
 | Destination Destiny | 27.00% | ~48 |
 | Happy Tenants | 23.00% | ~40 |
 | Smooth Service | 23.00% | ~40 |
 | Potent Potables | 22.00% | ~39 |
+| Lux Living | 21.00% | ~37 |
 | Your Prestige is Rising | 21.00% | ~37 |
 | Retail Revenue | 21.00% | ~37 |
-| Lux Living | 20.00% | ~35 |
 | People Mover | 20.00% | ~35 |
 | Emporium Empire | 20.00% | ~35 |
 | Leveled Up Shops | 20.00% | ~35 |

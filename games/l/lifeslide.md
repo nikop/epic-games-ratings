@@ -15,7 +15,7 @@
 | Finding The Way | 24.00% | ~76 |
 | Tangibility | 21.00% | ~67 |
 | On The Right Path | 19.00% | ~60 |
-| Around The World | 18.00% | ~57 |
+| Around The World | 19.00% | ~60 |
 | Bigger Picture | 16.00% | ~51 |
 | Sunset | 13.00% | ~41 |
 | Spring Air | 13.00% | ~41 |

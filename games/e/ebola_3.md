@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Fright ✔ | 56.00% | ~101 |
 | Chest ✔ | 55.00% | ~100 |
-| Fright ✔ | 55.00% | ~100 |
 | Inventory ✔ | 52.00% | ~94 |
 | Police officers ✔ | 28.00% | ~51 |
 | Mutation ✔ | 25.00% | ~45 |
@@ -31,6 +31,7 @@
 | Infected ✔ | 5.00% | ~9 |
 | Boss 1 ✔ | 4.00% | ~7 |
 | Mutant run ✔ | 4.00% | ~7 |
+| Sheriff ✔ | 4.00% | ~7 |
 | City on fire ✔ | 4.00% | ~7 |
 | Rank A ✔ | 4.00% | ~7 |
 | Broadcasting ✔ | 4.00% | ~7 |
@@ -38,7 +39,6 @@
 | Secret ✔ | 3.00% | ~5 |
 | Boss 2 ✔ | 3.00% | ~5 |
 | Group Alpha ✔ | 3.00% | ~5 |
-| Sheriff ✔ | 3.00% | ~5 |
 | The escape ✔ | 3.00% | ~5 |
 | Priest ✔ | 3.00% | ~5 |
 | Rank B+ ✔ | 3.00% | ~5 |

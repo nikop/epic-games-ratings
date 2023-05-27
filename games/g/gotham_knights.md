@@ -34,8 +34,8 @@ Rating: 4.17 (Ranked 838)
 | Voiceless | 0.60% | ~374 |
 | Seeking Asylum | 0.60% | ~374 |
 | Gotham Knight | 0.60% | ~374 |
-| Drone You Out | 0.50% | ~311 |
-| Gotham City Confidential | 0.50% | ~311 |
+| Drone You Out | 0.50% | ~312 |
+| Gotham City Confidential | 0.50% | ~312 |
 | Out of Their League | 0.40% | ~249 |
 | Solid Alibi | 0.40% | ~249 |
 | Fusion Expert | 0.30% | ~187 |
@@ -67,7 +67,7 @@ Rating: 4.17 (Ranked 838)
 | Confronting Your Demon | 0.10% | ~33 |
 | Bat Out of Hell | 0.10% | ~62 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,296 (Ranked 70)  
+Progressed: 62,302 (Ranked 70)  
 Completed: 91 (0.15%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 91 (0.15%) (Ranked 149)
 | 2023-05-24 | 61,945 | 91 |
 | 2023-05-25 | 62,051 | 91 |
 | 2023-05-26 | 62,222 | 91 |
-| 2023-05-27 | 62,296 | 91 |
+| 2023-05-27 | 62,302 | 91 |
 ## Awards
 Max (Great Boss Battles): 2,239  (Ranked 98)  
 Sum: 3,719 (Ranked 137)  

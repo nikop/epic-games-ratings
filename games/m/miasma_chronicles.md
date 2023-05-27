@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 89.00% | ~481 |
-| Ranidaphobia | 62.00% | ~335 |
-| Aspiring Editor | 58.00% | ~313 |
-| Gun for Hire | 51.00% | ~275 |
-| I am the law! | 37.00% | ~200 |
-| From Darkness to Light | 23.00% | ~124 |
-| Lumberjack | 19.00% | ~103 |
-| Firestarter | 18.00% | ~97 |
-| Croaked | 14.00% | ~76 |
-| Limp Richard | 14.00% | ~76 |
-| Editor Adept | 11.00% | ~59 |
-| Exorcist | 11.00% | ~59 |
+| First Blood | 89.00% | ~488 |
+| Ranidaphobia | 62.00% | ~340 |
+| Aspiring Editor | 58.00% | ~318 |
+| Gun for Hire | 51.00% | ~279 |
+| I am the law! | 37.00% | ~203 |
+| From Darkness to Light | 23.00% | ~126 |
+| Lumberjack | 19.00% | ~104 |
+| Firestarter | 18.00% | ~99 |
+| Croaked | 14.00% | ~77 |
+| Limp Richard | 14.00% | ~77 |
+| Exorcist | 12.00% | ~66 |
+| Editor Adept | 11.00% | ~60 |
 | Giant Killer | 9.00% | ~49 |
-| The meaning of Kain | 9.00% | ~49 |
+| The meaning of Kain | 8.00% | ~44 |
 | Hold The Line | 7.00% | ~38 |
 | Sensei | 7.00% | ~38 |
-| Newtonian Knockout | 6.00% | ~32 |
+| Newtonian Knockout | 6.00% | ~33 |
 | Chain Killer | 5.00% | ~27 |
 | Technophobe | 5.00% | ~27 |
 | Recycler | 4.00% | ~22 |
@@ -38,9 +38,9 @@
 | Endgame | 1.00% | ~5 |
 | Experienced | 1.00% | ~5 |
 | Savior | 1.00% | ~5 |
-| The Watchers | 0.90% | ~5 |
-| Bot Whisperer | 0.60% | ~3 |
-| Dr Jones | 0.60% | ~3 |
+| The Watchers | 1.00% | ~5 |
+| Dr Jones | 0.70% | ~4 |
+| Bot Whisperer | 0.50% | ~3 |
 | Chaos Theory | 0.40% | ~2 |
 | Cruelty | 0.40% | ~2 |
 | Side Order | 0.40% | ~2 |
@@ -56,7 +56,7 @@
 | Shadow Boxin' | 0.00% | ~0 |
 | Silent but Violent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 540 (Ranked 194)  
+Progressed: 548 (Ranked 194)  
 Completed: 0 (0.00%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,4 +65,4 @@ Completed: 0 (0.00%) (Ranked 205)
 | 2023-05-24 | 299 | 0 |
 | 2023-05-25 | 397 | 0 |
 | 2023-05-26 | 501 | 0 |
-| 2023-05-27 | 540 | 0 |
+| 2023-05-27 | 548 | 0 |

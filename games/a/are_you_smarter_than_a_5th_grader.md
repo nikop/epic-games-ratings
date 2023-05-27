@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Exam Time | 84.00% | ~234 |
-| 1st Grade | 41.00% | ~114 |
+| 1st Grade | 42.00% | ~117 |
 | Smarter than a 5th Grader | 35.00% | ~98 |
 | Study Session | 31.00% | ~86 |
 | Unlucky | 20.00% | ~56 |

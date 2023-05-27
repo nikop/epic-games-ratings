@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -49,9 +49,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 297,
+  "EOS_Progressed": 298,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -98,6 +98,11 @@
     {
       "Time": "2023-05-23T04:06:14.5393451+00:00",
       "NumProgressed": 297,
+      "NumCompleted": 1
+    },
+    {
+      "Time": "2023-05-27T09:07:19.7048879+00:00",
+      "NumProgressed": 298,
       "NumCompleted": 1
     }
   ],
@@ -206,7 +211,7 @@
       "Name": "Traveller",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ach-campaign-finish-hard",
@@ -278,7 +283,7 @@
       "Name": "Roll to Save",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ach-discover-locations",
@@ -286,7 +291,7 @@
       "Name": "Cartographer",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ach-discover-locations-high",
@@ -318,7 +323,7 @@
       "Name": "Red Flag Pirate",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ach-find-treasure-high",
@@ -332,9 +337,9 @@
       "ID": "ach-firstExpedition",
       "SetID": "17ih7ma",
       "Name": "The Adventure Begins",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 170
     },
     {
       "ID": "ach-hardExpeditions",
@@ -372,9 +377,9 @@
       "ID": "ach-kill-animal-groups",
       "SetID": "17ih7ma",
       "Name": "Taxonomist",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 72
     },
     {
       "ID": "ach-kill-hyenas",
@@ -428,9 +433,9 @@
       "ID": "ach-maxLevelCharacter",
       "SetID": "17ih7ma",
       "Name": "Veteran Explorer",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 51
     },
     {
       "ID": "ach-meetGhost",
@@ -462,7 +467,7 @@
       "Name": "Nahua Seeker",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ach-paleMask-cure",
@@ -478,7 +483,7 @@
       "Name": "Uncertain Loyalties",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "ach-portal-return",
@@ -589,7 +594,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 297,
+      "Progressed": 298,
       "Completed": 1
     }
   ],
@@ -597,8 +602,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-03-31T05:57:33.8410127+00:00",
-  "LastChanged_Achievements": "2023-05-27T08:06:35.0955877+00:00",
+  "LastChanged_Achievements": "2023-05-27T09:07:19.7048875+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:59:53.0610254+00:00",
-  "LastUpdate_Ratings": "2023-05-27T08:01:19.6478213+00:00",
-  "LastUpdate_Achievements": "2023-05-27T08:06:35.095646+00:00"
+  "LastUpdate_Ratings": "2023-05-27T09:02:13.5553908+00:00",
+  "LastUpdate_Achievements": "2023-05-27T09:07:19.7049283+00:00"
 }

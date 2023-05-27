@@ -14,11 +14,11 @@ Rating: 4.39 (Ranked 689)
 | Change the Channel | 6.00% | ~94 |
 | Enemy at the Gates | 5.00% | ~78 |
 | Organ Grinder | 5.00% | ~78 |
-| Opposing Force | 4.00% | ~62 |
-| Just a Flesh Wound | 4.00% | ~62 |
-| Explosive Efficiency | 4.00% | ~62 |
-| As Quiet as a Mouse | 4.00% | ~62 |
-| Taking it back | 4.00% | ~62 |
+| Opposing Force | 4.00% | ~63 |
+| Just a Flesh Wound | 4.00% | ~63 |
+| Explosive Efficiency | 4.00% | ~63 |
+| As Quiet as a Mouse | 4.00% | ~63 |
+| Taking it back | 4.00% | ~63 |
 | Gunslinger | 3.00% | ~47 |
 | Sharpshooter | 3.00% | ~47 |
 | Die Nussknacker Sweet! | 3.00% | ~47 |
@@ -37,8 +37,8 @@ Rating: 4.39 (Ranked 689)
 | The Long Game | 1.00% | ~16 |
 | Rigged to Blow | 1.00% | ~16 |
 | Brains of the Operation | 1.00% | ~16 |
-| My Little Friend | 0.80% | ~12 |
-| It'll Buff Right Out | 0.80% | ~12 |
+| My Little Friend | 0.80% | ~13 |
+| It'll Buff Right Out | 0.80% | ~13 |
 | Locomotion Commotion | 0.70% | ~11 |
 | Herr Today, Gone Tomorrow | 0.60% | ~9 |
 | Operation Foxley | 0.60% | ~9 |
@@ -77,7 +77,7 @@ Rating: 4.39 (Ranked 689)
 | Shipbreaker | 0.00% | ~0 |
 | Going Overboard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,562 (Ranked 155)  
+Progressed: 1,564 (Ranked 155)  
 Completed: 2 (0.13%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 2 (0.13%) (Ranked 154)
 | 2023-05-24 | 1,365 | 2 |
 | 2023-05-25 | 1,428 | 2 |
 | 2023-05-26 | 1,528 | 2 |
-| 2023-05-27 | 1,562 | 2 |
+| 2023-05-27 | 1,564 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -13,11 +13,11 @@ Rating: 4.56 (Ranked 452)
 | A Thousand Strong | 4.00% | ~88 |
 | Ready for a New World | 4.00% | ~88 |
 | Breaking Protocol | 4.00% | ~88 |
+| Permanent Redesigns | 4.00% | ~88 |
 | Ain't Nobody Got Time for That | 4.00% | ~88 |
 | Guy de Borderlands | 3.00% | ~66 |
 | A Hunk of Junk | 3.00% | ~66 |
 | Fully Recycled | 3.00% | ~66 |
-| Permanent Redesigns | 3.00% | ~66 |
 | The Ship of Theseus | 3.00% | ~66 |
 | Hope Seeker | 3.00% | ~66 |
 | Exceeding Capacity | 2.00% | ~44 |
@@ -45,11 +45,11 @@ Rating: 4.56 (Ranked 452)
 | What the Ruins Teach Us | 0.50% | ~11 |
 | Mutual Loyalty | 0.40% | ~9 |
 | Help of the Forgotten Member | 0.40% | ~9 |
+| Catastrophe Avoided | 0.30% | ~7 |
 | Tiqqun Unchained | 0.30% | ~7 |
 | Scientifically Accurate | 0.30% | ~7 |
 | Better Him Than Me | 0.20% | ~4 |
 | Tiqqun Contender | 0.20% | ~4 |
-| Catastrophe Avoided | 0.20% | ~4 |
 | Gregor Spinoza | 0.20% | ~4 |
 | Remember the Dead | 0.10% | ~2 |
 | Work Harder | 0.10% | ~2 |

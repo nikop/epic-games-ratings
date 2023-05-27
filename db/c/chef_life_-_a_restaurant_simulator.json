@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 222,
+  "EOS_Progressed": 223,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -874,6 +874,11 @@
       "Time": "2023-05-27T04:02:11.2984853+00:00",
       "NumProgressed": 222,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T09:03:24.1762394+00:00",
+      "NumProgressed": 223,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -933,7 +938,7 @@
       "Name": "French Flair",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "CleanRestaurantDays10",
@@ -941,7 +946,7 @@
       "Name": "So Clean You Can Eat Off the Floor",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Clothes10",
@@ -963,7 +968,7 @@
       "ID": "DilemasResponsibility10",
       "SetID": "d1bm05f",
       "Name": "Eco Warrior",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -971,7 +976,7 @@
       "ID": "FirstArrabbiataPasta",
       "SetID": "d1bm05f",
       "Name": "Codename: Arrabbiata",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
       "UsersEstimate": 1
     },
@@ -1061,7 +1066,7 @@
       "Name": "The Big Day",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "Packing20",
@@ -1069,7 +1074,7 @@
       "Name": "Next Level Cuisine",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "PerfectGrade25",
@@ -1204,7 +1209,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 222,
+      "Progressed": 223,
       "Completed": 0
     }
   ],
@@ -1212,8 +1217,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-05-27T08:02:24.2784854+00:00",
+  "LastChanged_Achievements": "2023-05-27T09:03:24.1762389+00:00",
   "LastUpdate_AppInfo": "2023-05-26T19:58:08.1610761+00:00",
-  "LastUpdate_Ratings": "2023-05-27T07:58:29.9127465+00:00",
-  "LastUpdate_Achievements": "2023-05-27T08:02:24.2785208+00:00"
+  "LastUpdate_Ratings": "2023-05-27T08:59:00.3367591+00:00",
+  "LastUpdate_Achievements": "2023-05-27T09:03:24.1762935+00:00"
 }

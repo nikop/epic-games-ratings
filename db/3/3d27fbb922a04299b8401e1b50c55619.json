@@ -2,9 +2,9 @@
   "ID": "3d27fbb922a04299b8401e1b50c55619",
   "Name": "Influent",
   "ProductSlug": "influent-4b0f43",
-  "Ranking_EOS_Progress": 334,
+  "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -19,9 +19,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 12,
+  "EOS_Progressed": 13,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -78,6 +78,11 @@
     {
       "Time": "2023-05-27T02:01:07.2095508+00:00",
       "NumProgressed": 12,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-05-27T09:02:56.1561924+00:00",
+      "NumProgressed": 13,
       "NumCompleted": 0
     }
   ],
@@ -185,13 +190,13 @@
     {
       "ID": "780g0pb",
       "IsBase": true,
-      "Progressed": 12,
+      "Progressed": 13,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-25T18:00:02.4221088+00:00",
-  "LastChanged_Achievements": "2023-05-27T08:01:53.0196183+00:00",
+  "LastChanged_Achievements": "2023-05-27T09:02:56.1561918+00:00",
   "LastUpdate_AppInfo": "2023-05-25T17:56:52.1652747+00:00",
-  "LastUpdate_Ratings": "2023-05-27T07:56:54.3165488+00:00",
-  "LastUpdate_Achievements": "2023-05-27T08:01:53.0196295+00:00"
+  "LastUpdate_Ratings": "2023-05-27T08:56:49.849577+00:00",
+  "LastUpdate_Achievements": "2023-05-27T09:02:56.1562004+00:00"
 }
