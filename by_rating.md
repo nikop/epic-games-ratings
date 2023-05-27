@@ -42,7 +42,7 @@
 | 39 | [Bugsnax](games/b/bugsnax.md) | 4.85 | 38 | 417 |
 | 39 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 7,570 | 41 |
 | 39 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,478 | 59 |
-| 39 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 324 | 218 |
+| 39 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 4.85 | 325 | 218 |
 | 39 | [Huntdown](games/h/huntdown.md) | 4.85 | 0 | 491 |
 | 39 | [Risk of Rain 2](games/r/risk_of_rain_2.md) | 4.85 | 229 | 247 |
 | 39 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 218 | 249 |
@@ -242,7 +242,7 @@
 | 236 | [CARRION](games/c/carrion.md) | 4.68 | 0 | 491 |
 | 236 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 4.68 | 6,964 | 47 |
 | 236 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.68 | 5,287 | 60 |
-| 236 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 296,706 | 3 |
+| 236 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 296,802 | 3 |
 | 236 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 174,668 | 5 |
 | 236 | [I Was a Teenage Exocolonist](games/i/i_was_a_teenage_exocolonist.md) | 4.68 | 0 | 491 |
 | 236 | [Loop Hero](games/l/loop_hero.md) | 4.68 | 411 | 197 |
@@ -250,12 +250,12 @@
 | 236 | [My Time at Sandrock](games/m/my_time_at_sandrock.md) | 4.68 | 559 | 172 |
 | 236 | [Neon Abyss](games/n/neon_abyss.md) | 4.68 | 666 | 160 |
 | 236 | [Revita](games/r/revita.md) | 4.68 | 0 | 491 |
-| 236 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 172 | 274 |
+| 236 | [Severed Steel](games/s/severed_steel.md) | 4.68 | 173 | 273 |
 | 236 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 4.68 | 31 | 441 |
 | 236 | [The Machines Arena](games/t/the_machines_arena.md) | 4.68 | 0 | 491 |
 | 236 | [The Pathless](games/t/the_pathless.md) | 4.68 | 0 | 491 |
 | 236 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.68 | 0 | 491 |
-| 256 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 645 | 162 |
+| 256 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 646 | 162 |
 | 256 | [BLACKTAIL](games/b/blacktail.md) | 4.67 | 0 | 491 |
 | 256 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 491 |
 | 256 | [FAR CRY 4](games/f/far_cry_4.md) | 4.67 | 523 | 182 |
@@ -491,7 +491,7 @@
 | 483 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 89 | 340 |
 | 483 | [Souldiers](games/s/souldiers.md) | 4.54 | 0 | 491 |
 | 483 | [Terraforming Mars](games/t/terraforming_mars.md) | 4.54 | 498 | 186 |
-| 483 | [VALORANT](games/v/valorant.md) | 4.54 | 53,981 | 11 |
+| 483 | [VALORANT](games/v/valorant.md) | 4.54 | 54,137 | 11 |
 | 483 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.54 | 28 | 454 |
 | 494 | [Alan Wake](games/a/alan_wake.md) | 4.53 | 0 | 491 |
 | 494 | [Costume Quest](games/c/costume_quest.md) | 4.53 | 0 | 491 |
@@ -765,7 +765,7 @@
 | 760 | [Hammerting](games/h/hammerting.md) | 4.30 | 0 | 491 |
 | 760 | [Hellpoint](games/h/hellpoint.md) | 4.30 | 0 | 491 |
 | 760 | [Imagine Earth](games/i/imagine_earth.md) | 4.30 | 0 | 491 |
-| 760 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 172 | 274 |
+| 760 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 4.30 | 172 | 275 |
 | 767 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.29 | 0 | 491 |
 | 767 | [Dark Light](games/d/dark_light.md) | 4.29 | 0 | 491 |
 | 767 | [Dice Legacy](games/d/dice_legacy.md) | 4.29 | 0 | 491 |
@@ -851,7 +851,7 @@
 | 848 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 4.15 | 0 | 491 |
 | 848 | [Never Alone (Kisima Ingitchuna)](games/n/never_alone_(kisima_ingitchuna).md) | 4.15 | 0 | 491 |
 | 848 | [Pine](games/p/pine.md) | 4.15 | 0 | 491 |
-| 848 | [Relicta](games/r/relicta.md) | 4.15 | 194 | 261 |
+| 848 | [Relicta](games/r/relicta.md) | 4.15 | 195 | 261 |
 | 848 | [Train Valley 2](games/t/train_valley_2.md) | 4.15 | 71 | 364 |
 | 848 | [Warhammer Age of Sigmar: Storm Ground](games/w/warhammer_age_of_sigmar__storm_ground.md) | 4.15 | 0 | 491 |
 | 855 | [Realpolitiks II](games/r/realpolitiks_ii.md) | 4.14 | 0 | 491 |

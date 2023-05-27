@@ -2,7 +2,7 @@
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [Indoor Kickball](games/i/indoor_kickball.md) | 2023-05-26 | 40 (1,000 XP) | 13 | - | - |
 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 2023-05-26 | 73 (1,000 XP) | 5 | - | - |
-| [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 2023-05-26 | 8 (1,000 XP) | 9 | - | - |
+| [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 2023-05-26 | 8 (1,000 XP) | 10 | - | - |
 | [Gardenia](games/g/gardenia.md) | 2023-05-26 | - |  | - | - |
 | [Doors - Paradox](games/8/88c17fed155e43068c338d33d1bcd481.md) | 2023-05-26 | - |  | - | - |
 | [Astronite](games/a/a6f0804f960a472c95e3bae2e0543bb0.md) | 2023-05-26 | 25 (1,000 XP) | 0 | - | - |
@@ -12,9 +12,9 @@
 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 2023-05-26 | - |  | - | - |
 | [The Mystery Of Woolley Mountain](games/d/ddc07fbe88ba4c719c9f536cb5109d1f.md) | 2023-05-26 | - |  | - | - |
 | [Influent](games/3/3d27fbb922a04299b8401e1b50c55619.md) | 2023-05-25 | 12 (1,000 XP) | 12 | - | - |
-| [Railway Empire 2](games/r/railway_empire_2.md) | 2023-05-25 | 55 (1,000 XP) | 241 | - | 0 |
+| [Railway Empire 2](games/r/railway_empire_2.md) | 2023-05-25 | 55 (1,000 XP) | 243 | - | 0 |
 | [Hello Goodboy](games/h/hello_goodboy.md) | 2023-05-25 | - |  | - | - |
-| [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 2023-05-25 | 36 (1,000 XP) | 266 | - | 0 |
+| [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 2023-05-25 | 36 (1,000 XP) | 268 | - | 0 |
 | [Warhammer: Chaos And Conquest](games/8/8473f47ba98e44c2a2edc867aed03c4e.md) | 2023-05-25 | - |  | - | 0 |
 | [Puzzle Compound](games/d/dc0f95061f7746e3b4ad939bee60f1a3.md) | 2023-05-25 | 11 (1,000 XP) | 10 | - | - |
 | [Tennis Manager 2023](games/t/tennis_manager_2023.md) | 2023-05-25 | - |  | - | 0 |
@@ -29,16 +29,16 @@
 | [Observation Particle Life 1](games/c/cf7613b267a042e9b06d5d527e8a5eb1.md) | 2023-05-24 | - |  | - | - |
 | [Skeletal Avengers](games/d/d2dcfb91f59d4880b8a5e6fe2aa64a7e.md) | 2023-05-24 | 21 (1,000 XP) | 17 | - | 0 |
 | [Lost Station](games/c/c008c76e4c4946c7b9ad466bd02ad96c.md) | 2023-05-24 | - |  | - | - |
-| [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 2023-05-23 | 53 (1,000 XP) | 400 | - | 0 |
+| [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 2023-05-23 | 53 (1,000 XP) | 401 | - | 0 |
 | [The Creepy Syndrome](games/f/f2ed44898a204bee866836b9b659bce4.md) | 2023-05-23 | 12 (1,000 XP) | 0 | - | - |
-| [Miasma Chronicles](games/m/miasma_chronicles.md) | 2023-05-23 | 51 (1,000 XP) | 537 | - | 0 |
+| [Miasma Chronicles](games/m/miasma_chronicles.md) | 2023-05-23 | 51 (1,000 XP) | 540 | - | 0 |
 | [Planet of Lana](games/p/planet_of_lana.md) | 2023-05-23 | - |  | - | 0 |
 | [Star Trek: Resurgence](games/s/star_trek__resurgence.md) | 2023-05-23 | - |  | - | 0 |
 | [Cubzh](games/c/cubzh.md) | 2023-05-23 | - |  | - | 0 |
 | [FutureGrind](games/8/80a76982ecc941dd864a8792a03a5ddc.md) | 2023-05-23 | 18 (1,000 XP) | 2 | - | - |
 | [Knights of Cathena](games/8/8cc5b4b56c84428999f03f3e6ac49481.md) | 2023-05-23 | - |  | - | 0 |
 | [The Lost Village](games/1/1c84e433f7ee4f21bce4c8f8600472f2.md) | 2023-05-23 | - |  | - | 0 |
-| [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 2023-05-22 | 22 (1,000 XP) | 966 | - | 0 |
+| [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 2023-05-22 | 22 (1,000 XP) | 968 | - | 0 |
 | [Backbeat](games/b/backbeat.md) | 2023-05-22 | 24 (1,000 XP) | 0 | - | - |
 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 2023-05-22 | - |  | - | 0 |
 | [The Temple of Archimagus Hatabus](games/3/3b5b3310fcb74963b8d4ec489cd74291.md) | 2023-05-21 | - |  | - | - |
@@ -58,7 +58,7 @@
 | [The Inheritance of Crimson Manor](games/t/the_inheritance_of_crimson_manor.md) | 2023-05-18 | 12 (1,000 XP) | 2 | - | 0 |
 | [Flyto](games/f/flyto.md) | 2023-05-18 | - |  | - | - |
 | [Witchcrafty](games/w/witchcrafty.md) | 2023-05-18 | - |  | - | 0 |
-| [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 2023-05-18 | 30 (1,000 XP) | 332 | - | 0 |
+| [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 2023-05-18 | 30 (1,000 XP) | 333 | - | 0 |
 | [Mountaincore](games/m/mountaincore.md) | 2023-05-18 | - |  | - | 0 |
 | [Fantasy World TD](games/2/2891ebedb15b4a9e99cc600859de0a74.md) | 2023-05-17 | - |  | - | - |
 | [Elypse](games/e/elypse.md) | 2023-05-17 | 34 (1,000 XP) | 48 | - | 0 |
@@ -95,7 +95,7 @@
 | [Dream of Echo](games/d/dream_of_echo.md) | 2023-05-11 | - |  | - | - |
 | [Echo Storm](games/0/0b4313e25d17431b901edda54d678ab4.md) | 2023-05-11 | 16 (1,000 XP) | 9 | - | - |
 | [Fuga: Melodies of Steel 2](games/f/fuga__melodies_of_steel_2.md) | 2023-05-11 | - |  | - | 0 |
-| [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 2023-05-10 | 48 (1,000 XP) | 939 | 3.79 | 0 |
+| [Occupy Mars: The Game](games/o/occupy_mars__the_game.md) | 2023-05-10 | 48 (1,000 XP) | 940 | 3.79 | 0 |
 | [The Art of War: Card Game](games/t/the_art_of_war__card_game.md) | 2023-05-10 | - |  | - | - |
 | [Tracks of Triumph](games/9/974517e397b144c6a5b58a81b5bc1e73.md) | 2023-05-10 | - |  | - | - |
 | [GPRO - Classic racing manager](games/g/gpro_-_classic_racing_manager.md) | 2023-05-10 | 162 (1,000 XP) | 102 | - | 0 |
@@ -134,7 +134,7 @@
 | [Dimensions Multiverse (Game Preview)](games/d/dimensions_multiverse_(game_preview).md) | 2023-05-03 | - |  | - | - |
 | [Sphere 3](games/s/sphere_3.md) | 2023-05-03 | - |  | - | 0 |
 | [Showgunners](games/s/showgunners.md) | 2023-05-02 | 46 (1,000 XP) | 3 | - | 0 |
-| [Age of Wonders 4](games/a/age_of_wonders_4.md) | 2023-05-02 | 44 (1,000 XP) | 3,570 | 4.52 | 0 |
+| [Age of Wonders 4](games/a/age_of_wonders_4.md) | 2023-05-02 | 44 (1,000 XP) | 3,578 | 4.52 | 0 |
 | [Kakele Online - MMORPG](games/k/kakele_online_-_mmorpg.md) | 2023-05-02 | - |  | - | 0 |
 | [Redfall](games/r/redfall.md) | 2023-05-02 | 66 (1,000 XP) | 1,628 | 3.42 | 0 |
 | [The Witch of Fern Island](games/t/the_witch_of_fern_island.md) | 2023-05-01 | - |  | - | 0 |
@@ -168,11 +168,11 @@
 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 2023-04-28 | - |  | 4.43 | 1,043 |
 | [Dojoran](games/d/dojoran.md) | 2023-04-27 | - |  | - | - |
 | [Mail Time](games/m/mail_time.md) | 2023-04-27 | - |  | - | 0 |
-| [Poker Club](games/p/poker_club.md) | 2023-04-27 | 45 (1,000 XP) | 465,964 | 3.78 | 0 |
+| [Poker Club](games/p/poker_club.md) | 2023-04-27 | 45 (1,000 XP) | 466,015 | 3.78 | 0 |
 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 2023-04-27 | 77 (1,060 XP) | 1,012 | - | 0 |
 | [ArcRunner](games/a/arcrunner.md) | 2023-04-27 | 28 (1,000 XP) | 80 | - | 0 |
 | [Dungeon Drafters](games/d/dungeon_drafters.md) | 2023-04-27 | 40 (1,000 XP) | 30 | - | 0 |
-| [Shotgun Farmers](games/s/shotgun_farmers.md) | 2023-04-27 | 74 (1,150 XP) | 56 | - | 0 |
+| [Shotgun Farmers](games/s/shotgun_farmers.md) | 2023-04-27 | 74 (1,150 XP) | 57 | - | 0 |
 | [Bramble The Mountain King](games/b/bramble_the_mountain_king.md) | 2023-04-27 | 30 (1,000 XP) | 2 | - | 0 |
 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 2023-04-27 | 31 (1,000 XP) | 105 | - | 0 |
 | [Kao the Kangaroo - 2000 re-release](games/k/kao_the_kangaroo_-_2000_re-release.md) | 2023-04-27 | - |  | - | 0 |

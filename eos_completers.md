@@ -19,16 +19,16 @@
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
 | 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.93% |
 | 19 | [Time Loader](games/t/time_loader.md) | 7.92% |
-| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.79% |
+| 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.78% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
-| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.66% |
+| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.62% |
 | 23 | [Scorn](games/s/scorn.md) | 6.97% |
 | 24 | [Ravenlok](games/r/ravenlok.md) | 6.67% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 26 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.71% |
 | 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.26% |
-| 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.12% |
+| 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.11% |
 | 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.88% |
 | 31 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 31 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.62% |
@@ -77,8 +77,8 @@
 | 75 | [Ten Dates](games/t/ten_dates.md) | 1.41% |
 | 76 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 1.37% |
 | 77 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.28% |
-| 78 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.25% |
-| 79 | [Chorus](games/c/chorus.md) | 1.24% |
+| 78 | [Chorus](games/c/chorus.md) | 1.24% |
+| 78 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 1.24% |
 | 80 | [Trifox](games/t/trifox.md) | 1.22% |
 | 81 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 1.18% |
 | 82 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.17% |
@@ -107,14 +107,14 @@
 | 105 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.61% |
 | 106 | [Grindstone](games/g/grindstone.md) | 0.51% |
 | 107 | [Aragami 2](games/a/aragami_2.md) | 0.48% |
-| 107 | [Ghostrunner](games/g/ghostrunner.md) | 0.48% |
 | 107 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.48% |
 | 107 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.48% |
+| 110 | [Ghostrunner](games/g/ghostrunner.md) | 0.47% |
 | 111 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.46% |
 | 112 | [Tails of Iron](games/t/tails_of_iron.md) | 0.40% |
 | 113 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.39% |
-| 113 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.39% |
-| 115 | [Potion Permit](games/p/potion_permit.md) | 0.38% |
+| 114 | [Potion Permit](games/p/potion_permit.md) | 0.38% |
+| 114 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.38% |
 | 116 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.37% |
 | 117 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.36% |
 | 117 | [Tchia](games/t/tchia.md) | 0.36% |

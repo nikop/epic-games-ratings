@@ -2,7 +2,7 @@
 | - | ---- | ------ | ------ | -------------- |
 | 1 | [Fortnite](games/f/fortnite.md) | 1,354,305 | 4.30 | 760 |
 | 2 | [Rocket League®](games/r/rocket_league®.md) | 420,868 | 4.51 | 524 |
-| 3 | [Genshin Impact](games/g/genshin_impact.md) | 296,706 | 4.68 | 236 |
+| 3 | [Genshin Impact](games/g/genshin_impact.md) | 296,802 | 4.68 | 236 |
 | 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 182,974 | 4.19 | 825 |
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 174,668 | 4.68 | 236 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 143,509 | 4.89 | 13 |
@@ -10,7 +10,7 @@
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 109,905 | 4.69 | 214 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 65,246 | 4.62 | 343 |
 | 10 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 57,136 | 4.59 | 406 |
-| 11 | [VALORANT](games/v/valorant.md) | 53,981 | 4.54 | 483 |
+| 11 | [VALORANT](games/v/valorant.md) | 54,137 | 4.54 | 483 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 35,326 | 4.60 | 388 |
 | 13 | [Destiny 2](games/d/destiny_2.md) | 34,235 | 4.50 | 539 |
 | 14 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 31,898 | 4.74 | 141 |
@@ -161,7 +161,7 @@
 | 159 | [Rising Storm 2: Vietnam](games/r/rising_storm_2__vietnam.md) | 668 | 4.50 | 539 |
 | 160 | [Neon Abyss](games/n/neon_abyss.md) | 666 | 4.68 | 236 |
 | 161 | [Subnautica](games/s/subnautica.md) | 662 | 4.84 | 49 |
-| 162 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 645 | 4.67 | 256 |
+| 162 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 646 | 4.67 | 256 |
 | 163 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 618 | 4.61 | 360 |
 | 164 | [Mutant Year Zero: Road to Eden](games/m/mutant_year_zero__road_to_eden.md) | 615 | 4.49 | 560 |
 | 165 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 609 | 4.59 | 406 |
@@ -217,7 +217,7 @@
 | 214 | [Inscryption](games/i/inscryption.md) | 331 | 4.86 | 30 |
 | 216 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 328 | 4.76 | 117 |
 | 216 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 328 | 4.60 | 388 |
-| 218 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 324 | 4.85 | 39 |
+| 218 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 325 | 4.85 | 39 |
 | 219 | [Tannenberg](games/t/tannenberg.md) | 323 | 4.39 | 689 |
 | 220 | [Dungeons 3](games/d/dungeons_3.md) | 322 | 4.65 | 290 |
 | 221 | [Darkwood](games/d/darkwood.md) | 319 | 4.61 | 360 |
@@ -260,7 +260,7 @@
 | 257 | [Stranded Deep](games/s/stranded_deep.md) | 203 | 4.22 | 806 |
 | 259 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 201 | 4.35 | 723 |
 | 260 | [HITMAN](games/h/hitman.md) | 197 | 4.64 | 315 |
-| 261 | [Relicta](games/r/relicta.md) | 194 | 4.15 | 848 |
+| 261 | [Relicta](games/r/relicta.md) | 195 | 4.15 | 848 |
 | 262 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 193 | 4.80 | 78 |
 | 263 | [Crashlands](games/c/crashlands.md) | 189 | 4.66 | 272 |
 | 263 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 189 | 4.59 | 406 |
@@ -273,8 +273,8 @@
 | 271 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 175 | 4.21 | 809 |
 | 271 | [shapez](games/s/shapez.md) | 175 | 4.71 | 179 |
 | 273 | [Pinball FX](games/p/pinball_fx.md) | 173 | 4.03 | 884 |
-| 274 | [Severed Steel](games/s/severed_steel.md) | 172 | 4.68 | 236 |
-| 274 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 172 | 4.30 | 760 |
+| 273 | [Severed Steel](games/s/severed_steel.md) | 173 | 4.68 | 236 |
+| 275 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 172 | 4.30 | 760 |
 | 276 | [Space Punks](games/s/space_punks.md) | 171 | 4.16 | 843 |
 | 276 | [The Witness](games/t/the_witness.md) | 171 | 4.70 | 193 |
 | 278 | [Cris Tales](games/c/cris_tales.md) | 170 | 4.36 | 715 |
