@@ -5,7 +5,7 @@
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 296,706 | 4.68 | 236 |
 | 4 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 182,974 | 4.19 | 824 |
 | 5 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 174,668 | 4.68 | 236 |
-| 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 143,171 | 4.89 | 13 |
+| 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 143,509 | 4.89 | 13 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 139,415 | 4.53 | 493 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 109,905 | 4.69 | 213 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 65,246 | 4.62 | 342 |
@@ -44,7 +44,7 @@
 | 42 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 7,353 | 4.57 | 438 |
 | 43 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 7,220 | 4.58 | 418 |
 | 44 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,195 | 4.71 | 179 |
-| 45 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 7,094 | 4.89 | 13 |
+| 45 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 7,116 | 4.89 | 13 |
 | 46 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 6,966 | 4.47 | 584 |
 | 47 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 6,964 | 4.68 | 236 |
 | 48 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 651 |
@@ -84,7 +84,7 @@
 | 82 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,303 | 4.46 | 596 |
 | 83 | [Paladins](games/p/paladins.md) | 3,248 | 4.35 | 722 |
 | 84 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 3,208 | 4.59 | 405 |
-| 85 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,200 | 4.75 | 131 |
+| 85 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,203 | 4.75 | 131 |
 | 86 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,090 | 4.57 | 438 |
 | 87 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,074 | 4.68 | 236 |
 | 87 | [Hades](games/h/hades.md) | 3,074 | 4.92 | 3 |
@@ -142,7 +142,7 @@
 | 140 | [Torchlight II](games/t/torchlight_ii.md) | 975 | 4.58 | 418 |
 | 141 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 940 | 4.31 | 755 |
 | 142 | [Sonic Mania](games/s/sonic_mania.md) | 909 | 4.78 | 99 |
-| 143 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 879 | 4.69 | 213 |
+| 143 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 881 | 4.69 | 213 |
 | 144 | [Predator: Hunting Grounds Standard Edition](games/p/predator__hunting_grounds_standard_edition.md) | 853 | 4.45 | 606 |
 | 145 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 850 | 4.76 | 117 |
 | 146 | [Phantasy Star Online 2 New Genesis](games/p/phantasy_star_online_2_new_genesis.md) | 849 | 4.55 | 469 |
@@ -154,7 +154,7 @@
 | 152 | [Auto Chess](games/a/auto_chess.md) | 738 | 4.52 | 504 |
 | 153 | [Core](games/c/core.md) | 732 | 4.37 | 707 |
 | 154 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 723 | 4.79 | 91 |
-| 155 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 710 | 4.45 | 606 |
+| 155 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 711 | 4.45 | 606 |
 | 156 | [Tyranny - Gold Edition](games/t/tyranny_-_gold_edition.md) | 693 | 4.59 | 405 |
 | 157 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 690 | 4.86 | 30 |
 | 158 | [Neverwinter](games/n/neverwinter.md) | 682 | 4.29 | 766 |
@@ -167,7 +167,7 @@
 | 165 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 609 | 4.59 | 405 |
 | 166 | [Dark Deity](games/d/dark_deity.md) | 606 | 4.16 | 842 |
 | 167 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 603 | 4.74 | 141 |
-| 168 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 594 | 4.74 | 141 |
+| 168 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 596 | 4.74 | 141 |
 | 169 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 587 | 4.62 | 342 |
 | 170 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 577 | 4.80 | 78 |
 | 171 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 571 | 4.61 | 359 |
@@ -327,11 +327,11 @@
 | 325 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 99 | 4.47 | 584 |
 | 326 | [Might & Magic: Chess Royale](games/m/might_&_magic__chess_royale.md) | 97 | 4.50 | 538 |
 | 326 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 97 | 4.77 | 106 |
-| 326 | [The Captain](games/t/the_captain.md) | 97 | 4.44 | 631 |
+| 326 | [The Captain](games/t/the_captain.md) | 97 | 4.44 | 632 |
 | 329 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 96 | 4.86 | 30 |
 | 329 | [Scavengers](games/s/scavengers.md) | 96 | 4.18 | 832 |
 | 331 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 94 | 4.41 | 663 |
-| 331 | [Predecessor](games/p/predecessor.md) | 94 | 4.44 | 631 |
+| 331 | [Predecessor](games/p/predecessor.md) | 94 | 4.44 | 632 |
 | 333 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 93 | 4.51 | 522 |
 | 333 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 93 | 4.35 | 722 |
 | 333 | [Verdun](games/v/verdun.md) | 93 | 4.53 | 493 |
@@ -379,7 +379,7 @@
 | 377 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 61 | 4.69 | 213 |
 | 378 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 60 | 4.42 | 651 |
 | 378 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 60 | 4.63 | 327 |
-| 380 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.44 | 631 |
+| 380 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.44 | 632 |
 | 381 | [Heavy Rain](games/h/heavy_rain.md) | 57 | 4.60 | 387 |
 | 382 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 55 | 3.77 | 920 |
 | 383 | [Obduction](games/o/obduction.md) | 52 | 4.10 | 861 |

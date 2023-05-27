@@ -8,7 +8,7 @@
 | 6 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 20.59% |
 | 7 | [Doodle Devil](games/d/doodle_devil.md) | 20.27% |
 | 8 | [Anna's Quest](games/a/anna's_quest.md) | 19.05% |
-| 9 | [Island Cities](games/i/island_cities.md) | 15.43% |
+| 9 | [Island Cities](games/i/island_cities.md) | 15.91% |
 | 10 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 12.50% |
 | 11 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 12.34% |
 | 12 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 11.98% |
@@ -17,19 +17,19 @@
 | 15 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.57% |
 | 15 | [Remains](games/r/remains.md) | 8.57% |
 | 17 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 8.33% |
-| 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.98% |
+| 18 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 7.93% |
 | 19 | [Time Loader](games/t/time_loader.md) | 7.92% |
 | 20 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 7.79% |
-| 21 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.69% |
 | 21 | [Out of Bounds](games/o/out_of_bounds.md) | 7.69% |
-| 23 | [Scorn](games/s/scorn.md) | 6.98% |
-| 24 | [Ravenlok](games/r/ravenlok.md) | 6.68% |
+| 22 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.66% |
+| 23 | [Scorn](games/s/scorn.md) | 6.97% |
+| 24 | [Ravenlok](games/r/ravenlok.md) | 6.67% |
 | 25 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.45% |
 | 26 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 27 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 5.71% |
 | 28 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.26% |
 | 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 5.14% |
-| 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.89% |
+| 30 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.88% |
 | 31 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.65% |
 | 32 | [Bugsnax](games/b/bugsnax.md) | 4.62% |
 | 33 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 4.27% |

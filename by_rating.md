@@ -12,10 +12,10 @@
 | 7 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 491 |
 | 7 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,806 | 107 |
 | 7 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 491 |
-| 13 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 7,094 | 45 |
+| 13 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 7,116 | 45 |
 | 13 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.89 | 0 | 491 |
 | 13 | [Firework](games/f/firework.md) | 4.89 | 0 | 491 |
-| 13 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 143,171 | 6 |
+| 13 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.89 | 143,509 | 6 |
 | 13 | [RimWorld](games/r/rimworld.md) | 4.89 | 409 | 198 |
 | 13 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 4.89 | 15,405 | 20 |
 | 19 | [Atomicrops](games/a/atomicrops.md) | 4.88 | 131 | 296 |
@@ -133,7 +133,7 @@
 | 131 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 4.75 | 24 | 465 |
 | 131 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 5,027 | 62 |
 | 131 | [Chicory: A Colorful Tale](games/c/chicory__a_colorful_tale.md) | 4.75 | 0 | 491 |
-| 131 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 3,200 | 85 |
+| 131 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 4.75 | 3,203 | 85 |
 | 131 | [Diabotical](games/d/diabotical.md) | 4.75 | 268 | 235 |
 | 131 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 455 | 190 |
 | 131 | [Tchia](games/t/tchia.md) | 4.75 | 0 | 491 |
@@ -154,7 +154,7 @@
 | 141 | [The Life and Suffering of Sir Brante](games/t/the_life_and_suffering_of_sir_brante.md) | 4.74 | 0 | 491 |
 | 141 | [The Long Dark](games/t/the_long_dark.md) | 4.74 | 759 | 149 |
 | 141 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.74 | 0 | 491 |
-| 141 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 594 | 168 |
+| 141 | [UNCHARTED™: Legacy of Thieves Collection](games/u/uncharted™__legacy_of_thieves_collection.md) | 4.74 | 596 | 168 |
 | 156 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 4.73 | 401 | 200 |
 | 156 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.73 | 64 | 372 |
 | 156 | [Haven](games/h/haven.md) | 4.73 | 0 | 491 |
@@ -230,7 +230,7 @@
 | 213 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.69 | 0 | 491 |
 | 213 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.69 | 1,537 | 113 |
 | 213 | [Transport Fever 2](games/t/transport_fever_2.md) | 4.69 | 38 | 417 |
-| 213 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 879 | 143 |
+| 213 | [Wargame: Red Dragon](games/w/wargame__red_dragon.md) | 4.69 | 881 | 143 |
 | 213 | [World of Goo](games/w/world_of_goo.md) | 4.69 | 0 | 491 |
 | 213 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.69 | 0 | 491 |
 | 213 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.69 | 0 | 491 |
@@ -605,12 +605,13 @@
 | 596 | [Runbow](games/r/runbow.md) | 4.46 | 0 | 491 |
 | 596 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 4.46 | 276 | 231 |
 | 596 | [WRC Generations](games/w/wrc_generations.md) | 4.46 | 0 | 491 |
+| 606 | [Anno 2070](games/a/anno_2070.md) | 4.45 | 0 | 491 |
 | 606 | [ATOM RPG](games/a/atom_rpg.md) | 4.45 | 47 | 394 |
 | 606 | [Costume Quest 2](games/c/costume_quest_2.md) | 4.45 | 0 | 491 |
 | 606 | [Death Coming](games/d/death_coming.md) | 4.45 | 0 | 491 |
 | 606 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 4.45 | 232 | 245 |
 | 606 | [Faeria](games/f/faeria.md) | 4.45 | 105 | 317 |
-| 606 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 710 | 155 |
+| 606 | [Far Cry 6 Standard Edition](games/f/far_cry_6_standard_edition.md) | 4.45 | 711 | 155 |
 | 606 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.45 | 0 | 491 |
 | 606 | [Hell is Others](games/h/hell_is_others.md) | 4.45 | 23 | 470 |
 | 606 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.45 | 0 | 491 |
@@ -630,17 +631,16 @@
 | 606 | [Tropico 5](games/t/tropico_5.md) | 4.45 | 114 | 311 |
 | 606 | [Weird West: Definitive Edition](games/w/weird_west.md) | 4.45 | 24 | 465 |
 | 606 | [Where The Water Tastes Like Wine](games/w/where_the_water_tastes_like_wine.md) | 4.45 | 0 | 491 |
-| 631 | [Anno 2070](games/a/anno_2070.md) | 4.44 | 0 | 491 |
-| 631 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 491 |
-| 631 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 491 |
-| 631 | [Predecessor](games/p/predecessor.md) | 4.44 | 94 | 331 |
-| 631 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 0 | 491 |
-| 631 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 0 | 491 |
-| 631 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 0 | 491 |
-| 631 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 491 |
-| 631 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 326 |
-| 631 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 0 | 491 |
-| 631 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 380 |
+| 632 | [DARQ: Complete Edition](games/d/darq__complete_edition.md) | 4.44 | 0 | 491 |
+| 632 | [Forgive Me Father](games/f/forgive_me_father.md) | 4.44 | 0 | 491 |
+| 632 | [Predecessor](games/p/predecessor.md) | 4.44 | 94 | 331 |
+| 632 | [Rebel Galaxy Outlaw](games/r/rebel_galaxy_outlaw.md) | 4.44 | 0 | 491 |
+| 632 | [RiMS Racing](games/r/rims_racing.md) | 4.44 | 0 | 491 |
+| 632 | [Sherlock Holmes: Crimes and Punishments](games/s/sherlock_holmes__crimes_and_punishments.md) | 4.44 | 0 | 491 |
+| 632 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 4.44 | 0 | 491 |
+| 632 | [The Captain](games/t/the_captain.md) | 4.44 | 97 | 326 |
+| 632 | [The Last Stand: Aftermath](games/t/the_last_stand__aftermath.md) | 4.44 | 0 | 491 |
+| 632 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 380 |
 | 642 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 29 | 449 |
 | 642 | [ELEX](games/e/elex.md) | 4.43 | 24 | 465 |
 | 642 | [Good Company](games/g/good_company.md) | 4.43 | 0 | 491 |
